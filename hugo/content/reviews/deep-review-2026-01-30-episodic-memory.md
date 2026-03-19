@@ -69,7 +69,7 @@ None. The previous reviews (2026-01-20, 2026-01-29) addressed the major gaps.
 
 ### Cross-links Added
 
-- [past-self-void](/voids/past-self-void/)
+- [past-self-void](/voids/inaccessible-past/)
 
 ## Word Count
 

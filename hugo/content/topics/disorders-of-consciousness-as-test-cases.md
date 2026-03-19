@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-03-05 01:17:00+00:00
+ai_modified: 2026-03-19 12:18:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Vegetative states, covert awareness, and locked-in syndrome discrim
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-22 09:50:00+00:00
+last_deep_review: 2026-03-19 12:18:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -86,6 +86,8 @@ The 40% misdiagnosis rate for UWS reflects something fundamental. Behavioural cr
 
 This escalating uncertainty is not incidental. It follows from a structural feature of consciousness: third-person observation cannot access first-person experience. No amount of behavioural or neural data can *prove* consciousness is absent. We can prove it is present (when patients respond to commands via neuroimaging) but we cannot prove it is absent (because absence of detectable response does not entail absence of experience).
 
+This is an epistemological asymmetry, not a claim that all unresponsive patients are conscious. The 25% CMD rate means most behaviourally unresponsive patients show no detectable covert awareness. But the asymmetry means we cannot be certain about the remainder—our tools may lack the sensitivity to detect consciousness that is present but not producing the specific neural signatures we know how to measure.
+
 Any complete theory of consciousness must account for this asymmetry. The asymmetry is not a temporary limitation of current technology but a consequence of what consciousness is.
 
 ## The Interface Reading
@@ -118,7 +120,7 @@ The Unfinishable Map's [tenets](/tenets/) converge on DoC cases as among the mos
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: CMD patients demonstrate that consciousness can persist with partial causal efficacy. They understand language and sustain attention—consciousness is still *doing* cognitive work—but cannot act on the body. This partial disconnection maps naturally onto a bidirectional interface where different channels can be independently disrupted. Full epiphenomenalism would predict that consciousness makes no difference to cognitive processing. CMD patients refute this: their preserved awareness enables task performance (imagining tennis, sustaining attention) that unconscious patients cannot achieve.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The 40% misdiagnosis rate for UWS is a cautionary tale for parsimony. The "simpler" assumption—behaviourally unresponsive patients are unconscious—turned out to be wrong in a substantial minority of cases. Theoretical parsimony led clinicians to undercounted consciousness for decades. The simplest explanation is not always right, particularly when the phenomenon resists third-person observation by its very nature.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The 40% misdiagnosis rate for UWS is a cautionary tale for parsimony. The "simpler" assumption—behaviourally unresponsive patients are unconscious—turned out to be wrong in a substantial minority of cases. Theoretical parsimony led clinicians to undercount consciousness for decades. The simplest explanation is not always right, particularly when the phenomenon resists third-person observation by its very nature.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: DoC cases constrain where quantum-level consciousness-brain interaction might occur. If CMD patients retain consciousness despite widespread cortical damage, the quantum interface need not be distributed across the whole cortex. Evidence from multiple studies pointing toward a posterior cortical hot zone for consciousness narrows the candidate region for [minimal quantum interaction](/topics/quantum-measurement-and-consciousness/).
 
@@ -134,6 +136,7 @@ The Unfinishable Map's [tenets](/tenets/) converge on DoC cases as among the mos
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap that DoC cases illuminate
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain asymbolia and pain's inseparable phenomenal-causal character as a test case
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Another classic dissociation case that challenges simple unity
+- [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Anaesthesia as a parallel case of reversible consciousness disruption
 
 ## References
 

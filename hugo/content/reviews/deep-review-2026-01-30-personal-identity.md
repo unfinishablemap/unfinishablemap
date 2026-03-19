@@ -58,13 +58,13 @@ All six adversarial personas engaged. The key tension surfaced by past-self-void
 
 1. **Fixed memory description**: Changed "re-experiencing" to "reconstruction with distinctive phenomenal character" to align with past-self-void
 2. **Added past-self argument for haecceity**: Fourth argument showing past-self inaccessibility supports irreducibility of experience
-3. **Added cross-link to [past-self-void](/voids/past-self-void/)** in related_articles
+3. **Added cross-link to [past-self-void](/voids/inaccessible-past/)** in related_articles
 4. **Condensed Dualism section**: Tightened prose to maintain length budget
 5. **Removed stale AI refinement log** from previous review
 
 ### Cross-links Added
 
-- [past-self-void](/voids/past-self-void/) (frontmatter and inline)
+- [past-self-void](/voids/inaccessible-past/) (frontmatter and inline)
 
 ## Changes Summary
 

@@ -104,7 +104,7 @@ The three kinds of void distinction (unexplored, unexplorable, occluded) provide
 ### Medium Priority
 
 #### The Consciousness-Memory Interface
-- **Builds on**: [memory-void](/voids/memory-void/), [binding-problem](/concepts/binding-problem/), [temporal-void](/voids/temporal-void/)
+- **Builds on**: [memory-void](/voids/inaccessible-past/), [binding-problem](/concepts/binding-problem/), [temporal-void](/voids/temporal-void/)
 - **Would address**: Memory encoding and retrieval involve the same interface questions as perception and action, but from a temporal direction. How does consciousness bind past experience into present awareness? The hippocampal role in both perceptual and episodic binding provides a natural entry point. The phenomenon of involuntary autobiographical memories (Proust's madeleine) shows consciousness retrieving content it did not intend to access — a constraint on any selection model.
 - **Estimated scope**: Medium article (1200-1800 words)
 - **Tenet alignment**: Bidirectional Interaction (memory retrieval as selection), Dualism (phenomenal memory exceeds informational content)

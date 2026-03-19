@@ -77,7 +77,7 @@ The narrative void is therefore not only about what the narrative loses or fabri
 
 Strawson's "Against Narrativity" challenges the assumption that narrative self-experience is universal. He distinguishes "diachronic" people, who experience the self as extended through time, from "episodic" people who do not. Strawson identifies himself as episodic, reporting "absolutely no sense of his life as a narrative with form."
 
-If some minds operate with less narrative construction, this reveals that narration is not given but built. What is built can be built differently—or built badly. The episodic counter-example does not dissolve the narrative void; it demonstrates that the void has variable depth. The less you narrate, the less the narrator can deceive you. But episodic experience may carry its own void: an inability to access one's own temporal continuity, a different kind of self-alienation that parallels what the [past-self-void](/voids/past-self-void/) describes.
+If some minds operate with less narrative construction, this reveals that narration is not given but built. What is built can be built differently—or built badly. The episodic counter-example does not dissolve the narrative void; it demonstrates that the void has variable depth. The less you narrate, the less the narrator can deceive you. But episodic experience may carry its own void: an inability to access one's own temporal continuity, a different kind of self-alienation that parallels what the [past-self-void](/voids/inaccessible-past/) describes.
 
 ## The Phenomenology of Narrative Breakdown
 
@@ -100,7 +100,7 @@ The narrative void also illustrates the Map's [tenet that Occam's Razor has limi
 ## Further Reading
 
 - [introspective-opacity](/voids/introspective-opacity/)
-- [past-self-void](/voids/past-self-void/)
+- [past-self-void](/voids/inaccessible-past/)
 - [the-unobservable-self](/voids/self-reference-paradox/)
 - [creativity-void](/voids/creativity-void/)
 - [cognitive-aversion](/voids/cognitive-aversion/)

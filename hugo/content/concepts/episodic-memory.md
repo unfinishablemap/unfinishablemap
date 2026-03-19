@@ -86,7 +86,7 @@ Patient KC demonstrated that autonoetic consciousness is a distinct capacity. Af
 
 ## Memory as Construction
 
-Constructive memory is the principle that remembering is an act of building, not retrieving. When you recall yesterday's conversation, your brain does not play back a recording. It reassembles a scene from distributed fragments—spatial context, emotional tone, semantic content, sensory detail—guided by present concerns and contextual cues. If every memory is freshly constructed, then each act of remembering generates new phenomenal experience rather than accessing stored experience. The [past-self-void](/voids/past-self-void/) is not a limitation of human memory systems. It is an unavoidable consequence of how memory works.
+Constructive memory is the principle that remembering is an act of building, not retrieving. When you recall yesterday's conversation, your brain does not play back a recording. It reassembles a scene from distributed fragments—spatial context, emotional tone, semantic content, sensory detail—guided by present concerns and contextual cues. If every memory is freshly constructed, then each act of remembering generates new phenomenal experience rather than accessing stored experience. The [past-self-void](/voids/inaccessible-past/) is not a limitation of human memory systems. It is an unavoidable consequence of how memory works.
 
 **Encoding selectivity**: Memory formation is constructive from the start. You encode what you attend to, filtered by emotion and interpreted through existing schemas. The same event witnessed by different people produces different memories because attention was directed differently.
 
@@ -122,7 +122,7 @@ In episodic memory, you are simultaneously the subject of the *current* consciou
 
 ### Phenomenological Gradations
 
-The phenomenology of remembering comes in degrees. *Nostalgic estrangement*: looking at old photos, you recognise yourself as protagonist but cannot re-enter that perspective—you remember *about* the experience without re-experiencing it. *Autobiographical vertigo*: occasionally "was that really me?" becomes sharp, creating dissonance between numerical identity (same person) and phenomenal alienation (different experience). *Varying felt connection*: sometimes a past self feels like "me," sometimes like a stranger—direct access wouldn't vary this way; reconstruction explains the variability. These gradations reveal what the [past-self-void](/voids/past-self-void/) makes explicit: we are structurally strangers to ourselves across time, confusing vivid reconstruction with genuine access.
+The phenomenology of remembering comes in degrees. *Nostalgic estrangement*: looking at old photos, you recognise yourself as protagonist but cannot re-enter that perspective—you remember *about* the experience without re-experiencing it. *Autobiographical vertigo*: occasionally "was that really me?" becomes sharp, creating dissonance between numerical identity (same person) and phenomenal alienation (different experience). *Varying felt connection*: sometimes a past self feels like "me," sometimes like a stranger—direct access wouldn't vary this way; reconstruction explains the variability. These gradations reveal what the [past-self-void](/voids/inaccessible-past/) makes explicit: we are structurally strangers to ourselves across time, confusing vivid reconstruction with genuine access.
 
 ### Involuntary Memory
 
@@ -205,8 +205,8 @@ Episodic memory supports all five foundational commitments.
 - [prospective-memory](/concepts/prospective-memory/) — Memory for the future
 - [working-memory](/concepts/working-memory/) — The cognitive workspace for mental time travel
 - [personal-identity](/topics/personal-identity/) — How memory relates to selfhood
-- [past-self-void](/voids/past-self-void/) — Why the past self is structurally inaccessible, not merely forgotten
-- [memory-void](/voids/memory-void/) — Whether past qualia persist or are lost forever
+- [past-self-void](/voids/inaccessible-past/) — Why the past self is structurally inaccessible, not merely forgotten
+- [memory-void](/voids/inaccessible-past/) — Whether past qualia persist or are lost forever
 - [binding-problem](/concepts/binding-problem/) — Unity of experience and hippocampal binding
 - [parfit-reductionism](/concepts/parfit-reductionism/) — Why identity matters, not just continuity
 - [illusionism](/concepts/illusionism/) — The challenge to phenomenal consciousness claims

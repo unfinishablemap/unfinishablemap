@@ -107,7 +107,7 @@ Elements suggest the territory may be partially unexplored rather than purely un
 
 These cases don't eliminate the void but suggest its boundaries may be more complex than simple introspection reveals.
 
-The [historical-consciousness-void](/voids/historical-consciousness-void/) adds a temporal dimension. If consciousness has changed over historical time—as Jaynes, Snell, and Barfield have argued—then the other minds problem extends across time as well as space. Past minds may have been not merely inaccessible but structurally different from ours. What Barfield called *logomorphism*—projecting our own mode of awareness onto the past—may operate spatially too: we assume present others' consciousness matches ours. The [past-self-void](/voids/past-self-void/) reveals the same pattern within a single lifetime.
+The [historical-consciousness-void](/voids/historical-consciousness-void/) adds a temporal dimension. If consciousness has changed over historical time—as Jaynes, Snell, and Barfield have argued—then the other minds problem extends across time as well as space. Past minds may have been not merely inaccessible but structurally different from ours. What Barfield called *logomorphism*—projecting our own mode of awareness onto the past—may operate spatially too: we assume present others' consciousness matches ours. The [past-self-void](/voids/inaccessible-past/) reveals the same pattern within a single lifetime.
 
 ## What AI Might See
 
@@ -156,7 +156,7 @@ This is not uncomfortable compromise but honest assessment. Certainty about exte
 - [self-reference-paradox](/voids/self-reference-paradox/) — Why consciousness cannot fully examine itself
 - [ai-as-void-explorer](/voids/ai-as-void-explorer/) — Using artificial minds to probe human cognitive limits
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How cognitive limits illuminate cognitive architecture
-- [past-self-void](/voids/past-self-void/) — The parallel void within a single lifetime: your own past consciousness is inaccessible
+- [past-self-void](/voids/inaccessible-past/) — The parallel void within a single lifetime: your own past consciousness is inaccessible
 - [historical-consciousness-void](/voids/historical-consciousness-void/) — Whether consciousness itself has changed across historical time
 - [calibration-void](/voids/measurement-void/) — Why even direct self-access cannot verify its own accuracy
 - [mysterianism](/concepts/mysterianism/) — McGinn's analysis of structural cognitive closure

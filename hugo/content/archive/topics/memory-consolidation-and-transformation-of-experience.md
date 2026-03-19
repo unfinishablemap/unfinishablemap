@@ -118,8 +118,8 @@ The transformation of memory through consolidation connects to each of the Map's
 - [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) — Memory's operation across physical and non-physical domains
 - [episodic-memory](/concepts/episodic-memory/) — The memory system most affected by consolidation's phenomenal transformation
 - [semantic-memory](/concepts/semantic-memory/) — The endpoint of full schematisation
-- [memory-void](/voids/memory-void/) — Whether past experience is genuinely recoverable
-- [past-self-void](/voids/past-self-void/) — The inaccessibility of former phenomenal states
+- [memory-void](/voids/inaccessible-past/) — Whether past experience is genuinely recoverable
+- [past-self-void](/voids/inaccessible-past/) — The inaccessibility of former phenomenal states
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — How sleep stages relate to interface engagement
 - [dream-consciousness](/topics/dream-consciousness/) — Consciousness during consolidation-active sleep
 - [personal-identity](/topics/personal-identity/) — How the rewriting of memory shapes selfhood

@@ -104,7 +104,7 @@ The counterfactual void connects to The Unfinishable Map's [tenets](/tenets/) at
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) — How bodily architecture constrains cognition
 - [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Whether all minds converge on the same boundaries
 - [other-minds-void](/voids/other-minds-void/) — The inaccessibility of alien phenomenology
-- [past-self-void](/voids/past-self-void/) — The inaccessibility of our own former experience
+- [past-self-void](/voids/inaccessible-past/) — The inaccessibility of our own former experience
 - [framework-void](/voids/framework-void/) — The inability to think outside our conceptual framework
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Experiential terrain that resists third-person description
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Where simplicity-seeking cognition misleads

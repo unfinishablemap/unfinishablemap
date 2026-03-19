@@ -51,7 +51,7 @@ Three features of memory resist explanation in terms of engrams alone.
 
 **Selectional guidance** during retrieval poses a related problem. Reconsolidation research shows that recall is goal-directed: "a goal-directed activity guided by the need for consonance, alignment, and internal stability" (Kube et al., 2025). Something determines which of many possible reconstructions becomes actual—which details are emphasised, which suppressed, which emotional tone dominates. The prefrontal cortex provides top-down executive control, but executive control faces its own explanatory challenge: prefrontal activity can implement a selection once a goal is set, but the *setting* of the goal—why this reconstruction serves the subject's present concerns rather than that one—requires an account of purposive direction that physical descriptions of neural activation patterns do not provide. Prefrontal neurons fire in patterns; they do not, on a purely physical description, *prefer* one outcome. The Map argues that this purposive gap is where [non-physical consciousness](/concepts/interactionist-dualism/) contributes—not replacing executive function but providing the directional input that makes executive activity goal-directed rather than merely patterned.
 
-**Phenomenal colouring**—the qualitative character that distinguishes vivid recall from dry knowledge, that gives a childhood memory its warmth or a traumatic memory its dread—has no obvious physical correlate. Two memories with identical propositional content can feel utterly different. The [memory-void](/voids/memory-void/) explores whether the qualia of original experience persist in any form or whether recall always generates new phenomenal content. Either way, the qualitative dimension exceeds what engrams encode.
+**Phenomenal colouring**—the qualitative character that distinguishes vivid recall from dry knowledge, that gives a childhood memory its warmth or a traumatic memory its dread—has no obvious physical correlate. Two memories with identical propositional content can feel utterly different. The [memory-void](/voids/inaccessible-past/) explores whether the qualia of original experience persist in any form or whether recall always generates new phenomenal content. Either way, the qualitative dimension exceeds what engrams encode.
 
 ## Historical Precedents
 
@@ -95,7 +95,7 @@ Memory as dual-domain capability connects to each of the Map's tenets.
 - [smoothness-problem](/voids/smoothness-problem/) — The temporal instance of capability division
 - [consciousness-and-memory](/topics/consciousness-and-memory/)
 - [episodic-memory](/concepts/episodic-memory/)
-- [memory-void](/voids/memory-void/)
+- [memory-void](/voids/inaccessible-past/)
 - [bergson-and-duration](/topics/bergson-and-duration/)
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [working-memory](/concepts/working-memory/)

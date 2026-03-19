@@ -40,7 +40,7 @@ topics:
 - '[[consciousness-and-memory]]'
 ---
 
-Constructive memory is the principle that remembering is an act of building, not retrieving. When you recall yesterday's conversation, your brain does not play back a recording. It reassembles a scene from distributed fragments—spatial context, emotional tone, semantic content, sensory detail—guided by present concerns and contextual cues. The Unfinishable Map treats this as philosophically significant: if every memory is freshly constructed, then each act of remembering generates new phenomenal experience rather than accessing stored experience. The [past-self-void](/voids/past-self-void/) is not a limitation of human memory systems. It is an unavoidable consequence of how memory works.
+Constructive memory is the principle that remembering is an act of building, not retrieving. When you recall yesterday's conversation, your brain does not play back a recording. It reassembles a scene from distributed fragments—spatial context, emotional tone, semantic content, sensory detail—guided by present concerns and contextual cues. The Unfinishable Map treats this as philosophically significant: if every memory is freshly constructed, then each act of remembering generates new phenomenal experience rather than accessing stored experience. The [past-self-void](/voids/inaccessible-past/) is not a limitation of human memory systems. It is an unavoidable consequence of how memory works.
 
 ## The Constructive Episodic Simulation Hypothesis
 
@@ -92,8 +92,8 @@ Constructive memory connects to the Map's foundational commitments at several po
 
 - [episodic-memory](/concepts/episodic-memory/) — The memory system that constructive processes operate on
 - Autonoetic Consciousness — The distinctive phenomenology that accompanies constructive retrieval
-- [past-self-void](/voids/past-self-void/) — Why the original experience is structurally irrecoverable
-- [memory-void](/voids/memory-void/) — Whether past qualia persist or are lost forever
+- [past-self-void](/voids/inaccessible-past/) — Why the original experience is structurally irrecoverable
+- [memory-void](/voids/inaccessible-past/) — Whether past qualia persist or are lost forever
 - [prospective-memory](/concepts/prospective-memory/) — Future-directed construction using the same system
 - [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/) — How constructive memory constitutes and threatens selfhood
 

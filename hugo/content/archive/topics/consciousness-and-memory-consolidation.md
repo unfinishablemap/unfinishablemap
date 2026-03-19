@@ -119,7 +119,7 @@ Memory consolidation during sleep speaks directly to the Map's [tenets](/tenets/
 - [lucid-dreaming-and-consciousness](/topics/dream-consciousness/) — Variable interface engagement demonstrated within sleep
 - [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) — The temporal ordering that disappears during consolidation
 - [dreamless-sleep-void](/voids/dreamless-sleep-void/) — Where consciousness goes during deep sleep
-- [memory-void](/voids/memory-void/) — Whether past experiences are genuinely recoverable
+- [memory-void](/voids/inaccessible-past/) — Whether past experiences are genuinely recoverable
 
 ## References
 

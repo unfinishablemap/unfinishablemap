@@ -158,7 +158,7 @@ The death void connects directly to the Map's [foundational commitments](/tenets
 - [origin-of-consciousness](/voids/origin-of-consciousness/) — The prior void: why consciousness exists at all
 - [self-reference-paradox](/voids/self-reference-paradox/) — Related structural obstacle to self-examination
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
-- [past-self-void](/voids/past-self-void/) — The discontinuity of personal identity over time
+- [past-self-void](/voids/inaccessible-past/) — The discontinuity of personal identity over time
 - [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/) — Why the death void is not merely a limit but a precondition for temporal meaning
 - [death-phenomenology-beyond-ndes](/topics/death-and-consciousness/) — Empirical phenomenology of dying: deathbed visions, terminal lucidity, and shared death experiences
 

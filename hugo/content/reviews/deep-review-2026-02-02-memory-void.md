@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [The Memory Void](/voids/memory-void/)
+**Article**: [The Memory Void](/voids/inaccessible-past/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

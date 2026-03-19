@@ -18,6 +18,29 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 12:31 UTC - coalesce
+- **Status**: Success
+- **Sources**: [past-self-void](/voids/inaccessible-past/), [memory-void](/voids/inaccessible-past/)
+- **Target**: [inaccessible-past](/voids/inaccessible-past/)
+- **Archived**: archive/voids/past-self-void.md, archive/voids/memory-void.md
+- **References to review**: ~25 active files reference archived slugs
+
+## 2026-03-19 12:24 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Philosophy of Mathematics
+- **Output**: [consciousness-and-the-philosophy-of-mathematics](/topics/consciousness-and-the-philosophy-of-mathematics/)
+- **Word count**: 1949
+- **Based on research**: yes, [research notes](/research/consciousness-philosophy-of-mathematics-2026-03-19/)
+
+## 2026-03-19 12:18 UTC - deep-review
+- **Status**: Success
+- **File**: [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/)
+- **Word count**: 2295 → 2369 (+74)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (grammar fix, epistemological clarification, cross-link)
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-19-disorders-of-consciousness-as-test-cases](/reviews/deep-review-2026-03-19-disorders-of-consciousness-as-test-cases/)
+
 ## 2026-03-19 12:02 UTC - condense
 - **Status**: Success
 - **File**: [retrocausal-selection-consciousness-physics-2026-03-14](/research/retrocausal-selection-consciousness-physics-2026-03-14/)
@@ -858,7 +881,7 @@ topics: []
 - **Action**: Added 6 inbound cross-references to superseding article [consciousness-and-memory](/topics/consciousness-and-memory/) from:
   - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) (body text + related_articles)
   - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) (body text + related_articles)
-  - [past-self-void](/voids/past-self-void/) (body text + related_articles)
+  - [past-self-void](/voids/inaccessible-past/) (body text + related_articles)
   - [semantic-memory](/concepts/semantic-memory/) (body text + related_articles)
   - [personal-identity](/topics/personal-identity/) (body text)
   - [dream-consciousness](/topics/dream-consciousness/) (body text + related_articles)

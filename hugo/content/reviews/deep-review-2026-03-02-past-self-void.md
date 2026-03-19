@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-02
-**Article**: [The Past-Self Void](/voids/past-self-void/)
+**Article**: [The Past-Self Void](/voids/inaccessible-past/)
 **Previous review**: [2026-03-01](/reviews/deep-review-2026-03-01-past-self-void/)
 
 ## Context

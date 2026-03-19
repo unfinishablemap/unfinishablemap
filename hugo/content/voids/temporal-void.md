@@ -155,7 +155,7 @@ The temporal void engages the Map's [tenets](/tenets/) at several points.
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [absorption-void](/voids/absorption-void/) — Peak engagement dissolves temporal awareness and self-monitoring together
-- [memory-void](/voids/memory-void/) — Whether past qualia can be recovered
+- [memory-void](/voids/inaccessible-past/) — Whether past qualia can be recovered
 - [death-void](/voids/death-void/) — Consciousness cannot represent its own absence
 - [continuity-void](/voids/continuity-void/) — Whether consciousness has gaps
 - [resolution-void](/voids/resolution-void/) — The temporal resolution limit of conscious access

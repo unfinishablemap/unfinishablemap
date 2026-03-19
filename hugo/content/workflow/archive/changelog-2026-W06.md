@@ -4101,7 +4101,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 12:04 UTC - deep-review
 - **Status**: Success
-- **File**: [memory-void](/voids/memory-void/)
+- **File**: [memory-void](/voids/inaccessible-past/)
 - **Word count**: 1941 → 1931 (-10)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2 (clarified MWI paragraph connection to tenets, fixed Tulving quote formatting as paraphrase)
@@ -4252,7 +4252,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-02 10:52 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Memory Void
-- **Output**: [memory-void](/voids/memory-void/)
+- **Output**: [memory-void](/voids/inaccessible-past/)
 - **Word count**: 1941
 - **Based on research**: yes, [voids-memory-void-2026-02-01](/research/voids-memory-void-2026-02-01/)
 

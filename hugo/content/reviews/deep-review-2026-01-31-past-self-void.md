@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-31
-**Article**: [The Past-Self Void](/voids/past-self-void/)
+**Article**: [The Past-Self Void](/voids/inaccessible-past/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

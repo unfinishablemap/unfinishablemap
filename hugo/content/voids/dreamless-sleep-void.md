@@ -138,7 +138,7 @@ None of these conditions has been met. The dreamless sleep void remains: a gap w
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The taxonomy: unexplored, unexplorable, occluded
 - [dream-consciousness-void](/voids/dream-consciousness-void/) — The related void: bidirectional inaccessibility between waking and dreaming
 - [the-unobservable-self](/voids/self-reference-paradox/) — The subject that cannot be its own object
-- [memory-void](/voids/memory-void/) — Whether past qualia can be recovered or are lost forever
+- [memory-void](/voids/inaccessible-past/) — Whether past qualia can be recovered or are lost forever
 - [death-void](/voids/death-void/) — The related void: consciousness cannot represent its own permanent cessation
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What only phenomenal experience can access
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like

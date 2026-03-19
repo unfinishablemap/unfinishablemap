@@ -67,7 +67,7 @@ Dennett draws a deflationary conclusion from this analysis: there is no fact of 
 
 For transitions, this means we can never determine whether our awareness of a state change occurred during or after the transition. The narrative "I gradually drifted off around eleven" or "I slowly realised I was upset" may be entirely post-hoc—a smoothing operation that imposes continuity on what might have been a discontinuous jump. We confuse the vividness of the reconstruction with actual observation of the crossing.
 
-This parallels the [past-self-void](/voids/past-self-void/), where memory confidence masks the reconstructive nature of recall. In both cases, consciousness generates an experience of seamless access that conceals the structural gap.
+This parallels the [past-self-void](/voids/inaccessible-past/), where memory confidence masks the reconstructive nature of recall. In both cases, consciousness generates an experience of seamless access that conceals the structural gap.
 
 ## Husserl's Temporal Smoothing
 
@@ -121,7 +121,7 @@ The transition void connects to several of the Map's [tenets](/tenets/).
 
 - [observation-void](/voids/observation-void/) — Why every method of studying consciousness transforms what it studies
 - [dreamless-sleep-void](/voids/dreamless-sleep-void/) — The related void: where consciousness goes during deep sleep
-- [past-self-void](/voids/past-self-void/) — Why past conscious states can only be reconstructed, not accessed
+- [past-self-void](/voids/inaccessible-past/) — Why past conscious states can only be reconstructed, not accessed
 - [dream-consciousness-void](/voids/dream-consciousness-void/) — Bidirectional inaccessibility between waking and dreaming
 - [absorption-void](/voids/absorption-void/) — Peak engagement is peak self-opacity
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like

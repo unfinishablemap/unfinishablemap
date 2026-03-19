@@ -2737,7 +2737,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Medium issues addressed**: 2 (phenomenological gradations, past-self-void cross-link)
 - **Enhancements made**: 2 (new Phenomenological Gradations subsection, cross-links to past-self-void)
 - **Output**: [deep-review-2026-01-30-episodic-memory](/reviews/deep-review-2026-01-30-episodic-memory/)
-- **Summary**: Cross-review integrating past-self-void insights. Added Phenomenological Gradations subsection capturing three states from past-self-void: nostalgic estrangement, autobiographical vertigo, varying felt connection. These gradations reveal that memory reconstruction explains the variability in felt connection—we are structurally strangers to ourselves across time. Added cross-links to [past-self-void](/voids/past-self-void/) in concepts, related_articles, and Further Reading. Article remains under soft threshold at 95%.
+- **Summary**: Cross-review integrating past-self-void insights. Added Phenomenological Gradations subsection capturing three states from past-self-void: nostalgic estrangement, autobiographical vertigo, varying felt connection. These gradations reveal that memory reconstruction explains the variability in felt connection—we are structurally strangers to ourselves across time. Added cross-links to [past-self-void](/voids/inaccessible-past/) in concepts, related_articles, and Further Reading. Article remains under soft threshold at 95%.
 
 ---
 
@@ -2750,7 +2750,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Medium issues addressed**: 0
 - **Enhancements made**: 3 (past-self argument for haecceity, cross-link to past-self-void, condensed dualism section)
 - **Output**: [deep-review-2026-01-30-personal-identity](/reviews/deep-review-2026-01-30-personal-identity/)
-- **Summary**: Cross-review integrating past-self-void insights. Fixed critical internal contradiction: article stated "Memory isn't data retrieval; it's re-experiencing" which contradicted past-self-void's core thesis. Rewrote to align with reconstruction model. Added fourth argument for haecceity: if experience were merely information, memory could preserve it—past-self inaccessibility supports irreducibility. Added cross-link to [past-self-void](/voids/past-self-void/). Article remains stable at word count limit.
+- **Summary**: Cross-review integrating past-self-void insights. Fixed critical internal contradiction: article stated "Memory isn't data retrieval; it's re-experiencing" which contradicted past-self-void's core thesis. Rewrote to align with reconstruction model. Added fourth argument for haecceity: if experience were merely information, memory could preserve it—past-self inaccessibility supports irreducibility. Added cross-link to [past-self-void](/voids/inaccessible-past/). Article remains stable at word count limit.
 
 ---
 

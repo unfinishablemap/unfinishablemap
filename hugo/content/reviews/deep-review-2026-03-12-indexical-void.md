@@ -49,7 +49,7 @@ Cross-links added FROM the following articles TO [indexical-void](/voids/indexic
 4. **[other-minds-void](/voids/other-minds-void/)** — Added body text link at No Many Worlds tenet connection, added to Further Reading, added to related_articles
 5. **[combination-problem](/concepts/combination-problem/)** — Added to Further Reading, updated ai_modified
 6. **[self-and-consciousness](/concepts/self-and-consciousness/)** — Added to related_articles
-7. **[past-self-void](/voids/past-self-void/)** — Added to related_articles
+7. **[past-self-void](/voids/inaccessible-past/)** — Added to related_articles
 8. **[consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/)** — Added to related_articles
 9. **[taxonomy-of-voids](/apex/taxonomy-of-voids/)** (apex) — Added wikilink in body text where "indexical voids" was mentioned without link
 
@@ -60,7 +60,7 @@ Cross-links added FROM the following articles TO [indexical-void](/voids/indexic
 - [other-minds-void](/voids/other-minds-void/) → [indexical-void](/voids/indexical-void/)
 - [combination-problem](/concepts/combination-problem/) → [indexical-void](/voids/indexical-void/)
 - [self-and-consciousness](/concepts/self-and-consciousness/) → [indexical-void](/voids/indexical-void/)
-- [past-self-void](/voids/past-self-void/) → [indexical-void](/voids/indexical-void/)
+- [past-self-void](/voids/inaccessible-past/) → [indexical-void](/voids/indexical-void/)
 - [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) → [indexical-void](/voids/indexical-void/)
 - [taxonomy-of-voids](/apex/taxonomy-of-voids/) → [indexical-void](/voids/indexical-void/)
 

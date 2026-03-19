@@ -85,7 +85,7 @@ topics: []
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
 - [neural-bandwidth-constraints-and-the-interface](/topics/bandwidth-of-consciousness/)
-- [past-self-void](/voids/past-self-void/)
+- [past-self-void](/voids/inaccessible-past/)
 - [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/)
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/)
 
