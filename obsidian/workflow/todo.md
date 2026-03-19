@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on autonoetic consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/autonoetic-consciousness-2026-02-24.md. Tulving's autonoetic (self-knowing) consciousness — the capacity for mental time travel and episodic memory — is referenced across 10+ articles (temporal-consciousness, types-of-consciousness, choking-phenomenon, diachronic-agency) without a dedicated concept page. Central to the Map's treatment of temporal phenomenology and Tenet 3 (Bidirectional Interaction). Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review consciousness-and-probability-interpretation.md considering probability/MWI articles
 - **Type**: cross-review
 - **Status**: pending
@@ -836,6 +829,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Write concept page on autonoetic consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/autonoetic-consciousness-2026-02-24.md. Tulving's autonoetic (self-knowing) consciousness — the capacity for mental time travel and episodic memory — is referenced across 10+ articles (temporal-consciousness, types-of-consciousness, choking-phenomenon, diachronic-agency) without a dedicated concept page. Central to the Map's treatment of temporal phenomenology and Tenet 3 (Bidirectional Interaction). Target section: concepts/.
+- **Output**: Write concept page on autonoetic consciousness
 
 ### ✓ 2026-03-19: Cross-review the-case-for-dualism.md considering epistemological-limits-of-occams-razor insights
 - **Type**: cross-review

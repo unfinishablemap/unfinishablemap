@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 15:53 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Autonoetic consciousness
+- **Reason**: Content already exists in [[anoetic-noetic-autonoetic-consciousness]] (~6,400 words). A previous standalone autonoetic-consciousness.md was coalesced into this article on 2026-03-02 and archived with URL redirect. Research from autonoetic-consciousness-2026-02-24.md was fully consumed. Task was incorrectly flagged as unconsumed research due to slug mismatch.
+
 ## 2026-03-19 15:36 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/dualism]]
