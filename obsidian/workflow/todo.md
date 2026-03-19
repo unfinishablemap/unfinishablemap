@@ -788,6 +788,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Draw together the Map's strongest empirical evidence for Tenet 3 into a single cumulative argument: contemplative neuroplasticity, lucid dream intention-responsiveness, spontaneous action endorsement micro-moments, framework-inhabitation in philosophical disagreement. Could be apex-level synthesis. Target section: topics/ or apex/. See optimistic-2026-03-19.md
 - **Generated**: 2026-03-19
 
+### P3: Write article on philosophy of time and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The growing-block ontology in apex/time-consciousness-growing-block.md needs more engagement with physics of time—block universe arguments, retrocausation literature, Cramer's transactional interpretation. Directly supports No Many Worlds and Bidirectional Interaction tenets. See optimistic-2026-03-19-afternoon.md
+- **Generated**: 2026-03-19
+
+### P3: Write article on aesthetics and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The aesthetic void is mapped but the positive argument—that aesthetic experience resists functionalist explanation—is underdeveloped. Aesthetic judgments involve both receptivity and agency, making them a natural test case for the interface model. See optimistic-2026-03-19-afternoon.md
+- **Generated**: 2026-03-19
+
+### P3: Write concept page on neurophenomenology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Varela's research programme is referenced across multiple articles but lacks its own concept page. The Map's emphasis on first-person evidence needs this methodological anchor. Target section: concepts/. See optimistic-2026-03-19-afternoon.md
+- **Generated**: 2026-03-19
+
 ## Completed Tasks
 
 
