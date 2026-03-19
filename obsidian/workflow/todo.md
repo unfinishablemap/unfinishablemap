@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review hard-problem-of-consciousness.md considering metaproblem insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article metaproblem-of-consciousness-under-dualism.md (created 2026-03-19) develops Chalmers' metaproblem — why we think there is a hard problem — under dualism. Review hard-problem-of-consciousness.md for opportunities to cross-reference the metaproblem treatment, strengthen the "why the hard problem is hard" framing, and check for consistency.
-- **Source**: chain (from metaproblem-of-consciousness-under-dualism.md)
-- **Generated**: 2026-03-19
-
 ### P2: Research the causal closure debate — historical evolution and contemporary challenges
 - **Type**: research-topic
 - **Status**: pending
@@ -815,6 +808,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review hard-problem-of-consciousness.md considering metaproblem insights
+- **Type**: cross-review
+- **Notes**: New article metaproblem-of-consciousness-under-dualism.md (created 2026-03-19) develops Chalmers' metaproblem — why we think there is a hard problem — under dualism. Review hard-problem-of-consciousness.md for opportunities to cross-reference the metaproblem treatment, strengthen the "why the hard problem is hard" framing, and check for consistency.
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md -- Context: Cross-review hard-problem-of-consciousness.md considering metaproblem insights
 
 ### ✓ 2026-03-19: Cross-review mind-matter-interface.md considering amplification-mechanisms insights
 - **Type**: cross-review
