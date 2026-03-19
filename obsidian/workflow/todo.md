@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced IIT articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce created [[topics/consciousness-and-integrated-information]]. The following files reference the archived `integrated-information-theory-critique` and may need updating: topics/hard-problem-of-consciousness.md, topics/consciousness-and-the-physics-of-information.md, concepts/global-workspace-theory.md, concepts/panpsychism.md, topics/consciousness-and-collective-phenomena.md
+- **Source**: coalesce
+- **Generated**: 2026-03-19
+
 ### P2: Refine russellian-monism.md with 2024-2025 dual-aspect traditions research
 - **Type**: refine-draft
 - **Status**: pending

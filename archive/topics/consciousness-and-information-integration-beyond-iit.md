@@ -33,6 +33,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-18
 last_curated:
 last_deep_review: 2026-02-22T00:11:00+00:00
+archived: true
+archived_date: 2026-03-19T22:55:00+00:00
+superseded_by: "/topics/consciousness-and-integrated-information/"
+archive_reason: "Coalesced into Consciousness and Integrated Information"
+original_path: "/topics/consciousness-and-information-integration-beyond-iit/"
 ---
 
 [[integrated-information-theory|Integrated Information Theory]] identified something important: consciousness and integration are intimately connected. Experience is unified—you do not hear the trumpet separately from seeing the performer's fingers move. Information from different sources, modalities, and timescales arrives at a single locus of awareness where it becomes one scene. The Unfinishable Map agrees that integration is central to consciousness. But IIT made a specific philosophical move that does not follow from this observation: it identified consciousness *with* integration, treating them as the same thing. This article argues that integration is better understood as something consciousness *does*—an activity, not an identity—and surveys the alternative frameworks that support this view.

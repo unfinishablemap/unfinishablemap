@@ -29,6 +29,11 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-27
 last_curated: null
+archived: true
+archived_date: 2026-03-19T22:55:00+00:00
+superseded_by: "/topics/consciousness-and-integrated-information/"
+archive_reason: "Coalesced into Consciousness and Integrated Information"
+original_path: "/topics/integrated-information-theory-critique/"
 ---
 
 Integrated Information Theory (IIT) is the most mathematically sophisticated theory of consciousness available. It starts from phenomenology, takes experience seriously, and provides a quantitative measure (phi) for consciousness. Yet from The Unfinishable Map's perspective, IIT makes a fundamental error: it renders consciousness causally inert. By identifying consciousness *with* integrated information rather than treating it as something that *acts on* physical systems, IIT creates a theory where your choices—despite feeling like genuine selections—are determined entirely by physics. This article presents three central objections.

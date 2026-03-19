@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-19 22:55 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/integrated-information-theory-critique]], [[topics/consciousness-and-information-integration-beyond-iit]]
+- **Target**: [[topics/consciousness-and-integrated-information]]
+- **Archived**: [[archive/topics/integrated-information-theory-critique]], [[archive/topics/consciousness-and-information-integration-beyond-iit]]
+- **References to review**: 5 active content files reference archived `integrated-information-theory-critique`
+
 ## 2026-03-19 22:47 UTC - deep-review (cross-review)
 - **Status**: Success
 - **File**: [[topics/comparing-quantum-consciousness-mechanisms]]
