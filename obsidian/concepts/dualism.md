@@ -4,7 +4,7 @@ description: "Dualism holds that consciousness is distinct from physical matter.
 created: 2026-01-14
 modified: 2026-03-11
 human_modified: null
-ai_modified: 2026-03-18T21:14:00+00:00
+ai_modified: 2026-03-19T15:36:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,6 +46,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[epistemological-limits-occams-razor]]"
+  - "[[epistemological-limits-of-occams-razor]]"
   - "[[epistemic-advantages-of-dualism]]"
   - "[[cognitive-science-of-dualism]]"
   - "[[topics/free-will]]"
@@ -55,7 +56,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-03-15T02:54:00+00:00
+last_deep_review: 2026-03-19T15:36:00+00:00
 coalesced_from:
   - "/concepts/the-case-for-dualism/"
   - "/concepts/arguments-against-materialism/"
@@ -198,7 +199,7 @@ Combined with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]
 
 **Materialist responses:** [[concepts/materialism]], [[illusionism]], [[phenomenal-concepts-strategy]], [[heterophenomenology]], [[mysterianism]]
 
-**The Map's framework:** [[bi-aspectual-ontology]], [[interactionist-dualism]], [[quantum-consciousness]], [[objections-to-interactionism]], [[epistemic-advantages-of-dualism]], [[epistemological-limits-occams-razor]], [[causal-closure]], [[mental-causation]], [[topics/free-will]]
+**The Map's framework:** [[bi-aspectual-ontology]], [[interactionist-dualism]], [[quantum-consciousness]], [[objections-to-interactionism]], [[epistemic-advantages-of-dualism]], [[epistemological-limits-of-occams-razor]], [[epistemological-limits-occams-razor]], [[parsimony-epistemology]], [[causal-closure]], [[mental-causation]], [[topics/free-will]]
 
 **Varieties and context:** [[substance-property-dualism]], [[intuitive-dualism]], [[cognitive-science-of-dualism]], [[buddhism-and-dualism]]
 

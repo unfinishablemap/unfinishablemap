@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review the-case-for-dualism.md considering epistemological-limits-of-occams-razor insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article arguments/epistemological-limits-of-occams-razor.md (created 2026-03-19) argues parsimony arguments fail when applied to consciousness. Review topics/the-case-for-dualism.md for opportunities to cross-reference this treatment where simplicity objections to dualism are addressed, and check consistency with the new article's framework.
-- **Source**: chain (from epistemological-limits-of-occams-razor.md)
-- **Generated**: 2026-03-19
-
 ### P3: Deep review subjective-aim.md
 - **Type**: deep-review
 - **Status**: pending
@@ -808,6 +801,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review the-case-for-dualism.md considering epistemological-limits-of-occams-razor insights
+- **Type**: cross-review
+- **Notes**: New article arguments/epistemological-limits-of-occams-razor.md (created 2026-03-19) argues parsimony arguments fail when applied to consciousness. Review topics/the-case-for-dualism.md for opportunities to cross-reference this treatment where simplicity objections to dualism are addressed, and check consistency with the new article's framework.
+- **Output**: the-case-for-dualism.md -- Context: Cross-review the-case-for-dualism.md considering epistemological-limits-of-occams-razor insights
 
 ### ✓ 2026-03-19: Cross-review parsimony-epistemology.md and occams-razor-has-limits.md considering epistemological-limits article
 - **Type**: cross-review

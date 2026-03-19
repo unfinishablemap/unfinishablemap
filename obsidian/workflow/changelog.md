@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 15:36 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/dualism]]
+- **Word count**: 2281 → 2283 (+2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to arguments article)
+- **Enhancements made**: 2 (added epistemological-limits-of-occams-razor and parsimony-epistemology to Further Reading)
+- **Output**: [[reviews/deep-review-2026-03-19-dualism]]
+
 ## 2026-03-19 15:29 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 226 topics, 211 concepts, 1 tenets file, 19 apex articles, 97 voids (554 total non-draft files)
