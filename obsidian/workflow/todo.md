@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review types-of-consciousness.md considering ai-consciousness-modes insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/ai-consciousness-modes.md (created 2026-03-19) systematises Tulving's anoetic/noetic/autonoetic hierarchy and applies it to AI consciousness discourse. Review concepts/types-of-consciousness.md for cross-links, whether the modes framework refines existing consciousness-type treatments, and terminology consistency. Also check topics/ai-consciousness.md for complementary references.
-- **Source**: chain (from ai-consciousness-modes.md)
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review the-epiphenomenalist-threat.md considering ai-epiphenomenalism insights
 - **Type**: cross-review
 - **Status**: pending
@@ -837,6 +830,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review types-of-consciousness.md considering ai-consciousness-modes insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/ai-consciousness-modes.md (created 2026-03-19) systematises Tulving's anoetic/noetic/autonoetic hierarchy and applies it to AI consciousness discourse. Review concepts/types-of-consciousness.md for cross-links, whether the modes framework refines existing consciousness-type treatments, and terminology consistency. Also check topics/ai-consciousness.md for complementary references.
+- **Output**: obsidian/concepts/types-of-consciousness.md -- Context: Cross-review types-of-consciousness.md considering ai-consciousness-modes insights
 
 ### ✓ 2026-03-19: Research the causal closure debate — historical evolution and contemporary challenges
 - **Type**: research-topic
