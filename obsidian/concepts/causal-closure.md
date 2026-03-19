@@ -4,7 +4,7 @@ description: "Causal closure claims every physical event has sufficient physical
 created: 2026-01-14
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-03-14T21:03:00+00:00
+ai_modified: 2026-03-19T10:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,6 +35,7 @@ related_articles:
   - "[[metaphysics-of-information-under-dualism]]"
   - "[[arguments/materialism-argument]]"
   - "[[what-consciousness-tells-us-about-physics]]"
+  - "[[self-reference-and-the-limits-of-physical-description]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -122,7 +123,7 @@ This is the Map's primary response: quantum mechanics violates causal closure as
 
 In quantum mechanics, physical systems evolve deterministically under the Schrödinger equation—until measurement. At measurement, the system "collapses" from superposition to a definite state. Physics specifies the *probabilities* of outcomes but not *which* outcome occurs. The theory is fundamentally stochastic.
 
-This means: *not every physical event has a sufficient physical cause*. When a radioactive atom decays, physics tells us the probability it will decay in the next hour, but nothing physical determines *whether* it will. The physical causes are insufficient. The physical story is incomplete.
+This means: *not every physical event has a sufficient physical cause*. When a radioactive atom decays, physics tells us the probability it will decay in the next hour, but nothing physical determines *whether* it will. The physical causes are insufficient. The physical story is incomplete. The formal case runs deeper than quantum stochasticity alone: [[self-reference-and-the-limits-of-physical-description|Gödel-type results and Lawvere's fixed-point theorem]] show that the assumption of complete physical explanation is formally unjustified—self-referential obstruction prevents any sufficiently rich physical theory from determining its own measurement outcomes.
 
 **Objection from hidden variables**: Hidden variable theories (like Bohmian mechanics) could restore determinism, but they add unobservable machinery. Occam's Razor cuts both ways: consciousness (which we directly experience) is no less parsimonious than hidden variables (which we don't). Pilot-wave theories also face indexical identity problems parallel to Many-Worlds (see [[tenets#^no-many-worlds|Tenet 4]]).
 
@@ -202,6 +203,7 @@ This is not "god of the gaps" reasoning. Physics *describes* a gap—between qua
 - [[causal-delegation]] — The mechanism by which physical states hand off causal work to experiences
 - [[luck-objection]] — The challenge that undetermined choices are merely random; consciousness-as-selector response
 - [[mysterianism]] — Why the mechanism of mind-matter interaction may exceed human comprehension
+- [[self-reference-and-the-limits-of-physical-description]] — Formal incompleteness arguments (Gödel, Lawvere, Cubitt) undermining the assumption of complete physical explanation
 - [[reductionism]] — Ontological vs methodological vs epistemic reduction; why conflating them supports closure illicitly
 - [[mental-causation]] — The philosophical problem causal closure creates
 - [[downward-causation]] — Higher-level causation that closure threatens
