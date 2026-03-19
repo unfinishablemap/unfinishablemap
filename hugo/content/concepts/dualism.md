@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-18 21:14:00+00:00
+ai_modified: 2026-03-19 15:36:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -51,11 +51,12 @@ description: Dualism holds that consciousness is distinct from physical matter. 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-15 02:54:00+00:00
+last_deep_review: 2026-03-19 15:36:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[epistemological-limits-occams-razor]]'
+- '[[epistemological-limits-of-occams-razor]]'
 - '[[epistemic-advantages-of-dualism]]'
 - '[[cognitive-science-of-dualism]]'
 - '[[topics/free-will]]'
@@ -201,7 +202,7 @@ Combined with the [Bidirectional Interaction](/tenets/#bidirectional-interaction
 
 **Materialist responses:** [materialism](/concepts/materialism/), [illusionism](/concepts/illusionism/), [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/), [heterophenomenology](/concepts/heterophenomenology/), [mysterianism](/concepts/mysterianism/)
 
-**The Map's framework:** [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/), [interactionist-dualism](/concepts/interactionist-dualism/), [quantum-consciousness](/concepts/quantum-consciousness/), [objections-to-interactionism](/concepts/objections-to-interactionism/), [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/), [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/), [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation/), [free-will](/topics/free-will/)
+**The Map's framework:** [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/), [interactionist-dualism](/concepts/interactionist-dualism/), [quantum-consciousness](/concepts/quantum-consciousness/), [objections-to-interactionism](/concepts/objections-to-interactionism/), [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/), [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/), [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/), [parsimony-epistemology](/concepts/parsimony-epistemology/), [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation/), [free-will](/topics/free-will/)
 
 **Varieties and context:** [substance-property-dualism](/concepts/substance-property-dualism/), [intuitive-dualism](/concepts/intuitive-dualism/), [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/), [buddhism-and-dualism](/concepts/buddhism-and-dualism/)
 

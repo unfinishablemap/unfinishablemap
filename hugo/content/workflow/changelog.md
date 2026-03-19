@@ -18,6 +18,30 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 15:36 UTC - deep-review
+- **Status**: Success
+- **File**: [dualism](/concepts/dualism/)
+- **Word count**: 2281 → 2283 (+2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to arguments article)
+- **Enhancements made**: 2 (added epistemological-limits-of-occams-razor and parsimony-epistemology to Further Reading)
+- **Output**: [deep-review-2026-03-19-dualism](/reviews/deep-review-2026-03-19-dualism/)
+
+## 2026-03-19 15:29 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 226 topics, 211 concepts, 1 tenets file, 19 apex articles, 97 voids (554 total non-draft files)
+- **Tasks added**: 3 P3 expand-topic suggestions (philosophy of time, aesthetics, neurophenomenology concept)
+- **Output**: [optimistic-2026-03-19-afternoon](/reviews/optimistic-2026-03-19-afternoon/)
+
+## 2026-03-19 15:22 UTC - deep-review
+- **Status**: Success
+- **File**: [parsimony-epistemology](/concepts/parsimony-epistemology/)
+- **Word count**: 1029 → 1029 (+0)
+- **Critical issues addressed**: 2 (fabricated Krizek reference, wrong Zanotti page numbers)
+- **Medium issues addressed**: 1 (missing inbound links from arguments and voids articles)
+- **Enhancements made**: 2 (cross-links from epistemological-limits-of-occams-razor and epistemological-limits-occams-razor)
+- **Output**: [deep-review-2026-03-19-parsimony-epistemology](/reviews/deep-review-2026-03-19-parsimony-epistemology/)
+
 ## 2026-03-19 15:06 UTC - deep-review
 - **Status**: Success
 - **File**: [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/)

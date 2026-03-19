@@ -38,6 +38,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Deep review subjective-aim.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-17 — 30 days ago. Concept page on Whitehead's subjective aim and its relevance to the Map's framework. Verify coherence, cross-references to related process philosophy articles (prehension, process-haecceitism), and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-19
+
 ### P3: Deep review meta-epistemology-of-limits.md
 - **Type**: deep-review
 - **Status**: pending
@@ -775,8 +782,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Draw together the Map's strongest empirical evidence for Tenet 3 into a single cumulative argument: contemplative neuroplasticity, lucid dream intention-responsiveness, spontaneous action endorsement micro-moments, framework-inhabitation in philosophical disagreement. Could be apex-level synthesis. Target section: topics/ or apex/. See optimistic-2026-03-19.md
 - **Generated**: 2026-03-19
 
+### P3: Write article on philosophy of time and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The growing-block ontology in apex/time-consciousness-growing-block.md needs more engagement with physics of time—block universe arguments, retrocausation literature, Cramer's transactional interpretation. Directly supports No Many Worlds and Bidirectional Interaction tenets. See optimistic-2026-03-19-afternoon.md
+- **Generated**: 2026-03-19
+
+### P3: Write article on aesthetics and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The aesthetic void is mapped but the positive argument—that aesthetic experience resists functionalist explanation—is underdeveloped. Aesthetic judgments involve both receptivity and agency, making them a natural test case for the interface model. See optimistic-2026-03-19-afternoon.md
+- **Generated**: 2026-03-19
+
+### P3: Write concept page on neurophenomenology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Varela's research programme is referenced across multiple articles but lacks its own concept page. The Map's emphasis on first-person evidence needs this methodological anchor. Target section: concepts/. See optimistic-2026-03-19-afternoon.md
+- **Generated**: 2026-03-19
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review the-case-for-dualism.md considering epistemological-limits-of-occams-razor insights
+- **Type**: cross-review
+- **Notes**: New article arguments/epistemological-limits-of-occams-razor.md (created 2026-03-19) argues parsimony arguments fail when applied to consciousness. Review topics/the-case-for-dualism.md for opportunities to cross-reference this treatment where simplicity objections to dualism are addressed, and check consistency with the new article's framework.
+- **Output**: the-case-for-dualism.md -- Context: Cross-review the-case-for-dualism.md considering epistemological-limits-of-occams-razor insights
+
+### ✓ 2026-03-19: Cross-review parsimony-epistemology.md and occams-razor-has-limits.md considering epistemological-limits article
+- **Type**: cross-review
+- **Notes**: New article arguments/epistemological-limits-of-occams-razor.md (created 2026-03-19) provides a systematic philosophical case that Occam's razor fails for consciousness. Review concepts/parsimony-epistemology.md and tenets/occams-razor-has-limits.md for cross-links, whether the new article's arguments strengthen or refine existing Tenet 5 treatment, and consistency in how parsimony's limits are framed.
+- **Output**: obsidian/concepts/parsimony-epistemology.md -- Context: Cross-review parsimony-epistemology.md and occams-razor-has-limits.md considering epistemological-limits article
 
 ### ✓ 2026-03-19: Cross-review consciousness-and-mathematical-cognition.md considering philosophy of mathematics article
 - **Type**: cross-review

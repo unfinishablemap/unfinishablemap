@@ -22,6 +22,7 @@ related_articles:
 - '[[epistemology-of-cognitive-limits]]'
 - '[[three-kinds-of-void]]'
 - '[[whether-real]]'
+- '[[parsimony-epistemology]]'
 title: The Parsimony Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -35,7 +36,7 @@ This is a [void](/voids/) in the specific sense the Map tracks: a place where th
 
 Simplicity preferences did not emerge from philosophical reflection. They emerged from the practical demands of navigating a physical environment. Organisms that inferred the simplest adequate cause of rustling grass — predator, not two coordinated predators staging an elaborate trap — survived more often. Pattern compression serves biological fitness. It does not serve metaphysical truth.
 
-The standard philosophical observation — developed by Michael Huemer (2009) and Elliott Sober (2001), and examined in the Map's [arguments article](/voids/epistemological-limits-occams-razor/) — is that parsimony lacks universal justification. The voids-level concern goes deeper. Parsimony may be *architecturally embedded* in human cognition: not a principle we choose to apply, but a constraint on how we can think. We do not merely *use* simplicity as a criterion. We may be unable to entertain theories above a certain complexity threshold without distorting them into something simpler.
+The standard philosophical observation — developed by Michael Huemer (2009) and Elliott Sober (2001), and examined in [parsimony epistemology](/concepts/parsimony-epistemology/) and the Map's [arguments article](/voids/epistemological-limits-occams-razor/) — is that parsimony lacks universal justification. The voids-level concern goes deeper. Parsimony may be *architecturally embedded* in human cognition: not a principle we choose to apply, but a constraint on how we can think. We do not merely *use* simplicity as a criterion. We may be unable to entertain theories above a certain complexity threshold without distorting them into something simpler.
 
 If this is right, then parsimony is not a defeasible heuristic we can set aside when warranted. It is a cognitive lens we cannot remove.
 
