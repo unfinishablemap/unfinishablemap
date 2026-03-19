@@ -4,7 +4,7 @@ description: "First-person and third-person methods reveal different aspects of 
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-03-02T01:52:00+00:00
+ai_modified: 2026-03-19T03:19:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -76,7 +76,7 @@ Francisco Varela's [[neurophenomenology]] proposes integrating rigorous first-pe
 - **Phenomenology → Neuroscience**: First-person descriptions of experiential structure constrain which neuroscientific theories are adequate. A theory that predicts phenomenology we don't experience, or fails to predict phenomenology we do experience, is inadequate.
 - **Neuroscience → Phenomenology**: Third-person findings about neural mechanisms guide phenomenological investigation toward relevant experiential distinctions. If two experiences correlate with different neural signatures, phenomenology should investigate whether they differ experientially.
 
-This framework parallels the Map's interactionist dualism. Neither domain reduces to the other; both are real and both causally interact. The mutual constraint approach avoids both reductionism (phenomenology eliminated in favor of neuroscience) and epiphenomenalism (phenomenology causally inert, making no difference to neural processing). See [[phenomenological-evidence]] for the specific conditions—training, intersubjective convergence, temporal stability, predictive power—that transform first-person reports into genuine evidence, and [[epistemology-of-phenomenal-reports]] for how phenomenal content reports (as distinct from causal process reports) achieve evidential standing in science.
+This framework parallels the Map's interactionist dualism. Neither domain reduces to the other; both are real and both causally interact. The mutual constraint approach avoids both reductionism (phenomenology eliminated in favor of neuroscience) and epiphenomenalism (phenomenology causally inert, making no difference to neural processing). See [[phenomenological-evidence]] for the specific conditions—training, intersubjective convergence, temporal stability, predictive power—that transform first-person reports into genuine evidence, [[phenomenological-method-and-evidence-standards|phenomenological method and evidence standards]] for Husserl's taxonomy of evidence types that determines how much weight different first-person claims can bear, and [[epistemology-of-phenomenal-reports]] for how phenomenal content reports (as distinct from causal process reports) achieve evidential standing in science.
 
 ### Contemplative Neuroscience as Evidence
 

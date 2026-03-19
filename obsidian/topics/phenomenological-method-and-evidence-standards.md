@@ -4,7 +4,7 @@ description: "How phenomenology's internal evidence taxonomy—apodictic, adequa
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-19T01:57:00+00:00
+ai_modified: 2026-03-19T03:19:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-19
 last_curated:
-last_deep_review: 2026-03-19T01:57:00+00:00
+last_deep_review: 2026-03-19T03:19:00+00:00
 ---
 
 The Unfinishable Map holds that phenomenological method is not casual introspection elevated to philosophical dignity but a rigorous discipline with its own internal evidence standards. Husserl developed a taxonomy of evidence types—apodictic, adequate, assertoric, presumptive—that distinguish what can be known with certainty about experience from what remains open to revision. These standards matter for consciousness science because they determine how much weight first-person data can bear: whether phenomenal reports are merely suggestive, or whether some of what they reveal is beyond reasonable doubt. For dualist philosophy of mind, the answer shapes whether the [[hard-problem-of-consciousness|hard problem]] is a methodologically principled finding or a folk intuition awaiting dissolution.
@@ -55,7 +55,7 @@ The distinctive contribution of Husserlian phenomenology to the evidence questio
 
 **Adequate evidence** involves complete self-givenness—the object is presented without remainder, with nothing hidden or merely anticipated. Husserl initially treated adequate evidence as the gold standard for phenomenological claims but later recognised that even immanent perception involves horizonality. The present moment of experience is adequately given, but its temporal context—what just preceded, what is about to follow—extends into presumptive horizons.
 
-The crucial insight from *Cartesian Meditations* (1929): "adequacy and apodicticity of evidence need not go hand in hand." One can have apodictic certainty that experience exists while lacking adequate (complete) knowledge of its content. The ego's existence is indubitable; its full nature is not transparently given.
+The crucial insight from *Cartesian Meditations* (1931): "adequacy and apodicticity of evidence need not go hand in hand." One can have apodictic certainty that experience exists while lacking adequate (complete) knowledge of its content. The ego's existence is indubitable; its full nature is not transparently given.
 
 **Assertoric evidence** is individual seeing—direct encounter with a particular instance without claims to necessity or completeness. A specific experience of red is assertorically given: one encounters it directly but cannot extrapolate from this instance to necessary truths about colour experience in general.
 

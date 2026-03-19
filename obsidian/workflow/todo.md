@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenological-method-and-evidence-standards.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File created 2026-03-19 has no inbound links. Topics article establishing evidential standards for phenomenological reports — Husserl's epoché, neurophenomenology, micro-phenomenology. Add cross-references from related articles (contemplative-practice-as-philosophical-evidence, introspection, consciousness-and-scientific-methodology, epistemic-advantages-of-dualism).
-- **Source**: orphan_integration
-- **Generated**: 2026-03-19
-
 ### P2: Integrate amplification-mechanisms-consciousness-physics.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -693,6 +686,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Integrate phenomenological-method-and-evidence-standards.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-19 has no inbound links. Topics article establishing evidential standards for phenomenological reports — Husserl's epoché, neurophenomenology, micro-phenomenology. Add cross-references from related articles (contemplative-practice-as-philosophical-evidence, introspection, consciousness-and-scientific-methodology, epistemic-advantages-of-dualism).
+- **Output**: obsidian/topics/phenomenological-method-and-evidence-standards.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-19: Cross-review quantum consciousness articles considering non-retrocausal selection models
 - **Type**: cross-review
