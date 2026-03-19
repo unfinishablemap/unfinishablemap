@@ -4,8 +4,8 @@ description: "Six proposed mechanisms for scaling quantum-level conscious influe
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-18T23:52:00+00:00
-last_deep_review: 2026-03-18T18:25:00+00:00
+ai_modified: 2026-03-19T03:27:00+00:00
+last_deep_review: 2026-03-19T03:27:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

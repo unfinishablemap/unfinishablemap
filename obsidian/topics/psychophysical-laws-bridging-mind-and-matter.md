@@ -125,7 +125,7 @@ These requirements constitute the specification threshold. Below it, a proposal 
 
 ## Candidate Coupling Mechanisms
 
-Five proposals have been advanced, varying in precision and testability. None yet meets the full specification threshold; the Map treats them as candidate directions for a research program, not as established mechanisms. (For a taxonomy of [[coupling-modes]]—basis selection, timing control, probability reweighting—see the dedicated concept page.)
+Five proposals have been advanced, varying in precision and testability. None yet meets the full specification threshold; the Map treats them as candidate directions for a research program, not as established mechanisms. (For a taxonomy of [[coupling-modes]]—basis selection, timing control, probability reweighting—see the dedicated concept page. For the complementary question of how quantum-level influences scale to macroscopic neural effects, see [[amplification-mechanisms-consciousness-physics|amplification mechanisms]].)
 
 ### Stapp's Attention as Quantum Observation Rate
 

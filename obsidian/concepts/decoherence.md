@@ -201,6 +201,7 @@ The [[tenets#^occams-razor-has-limits|Occam's Razor Has Limits]] tenet is direct
 - [[decoherence-and-macroscopic-superposition]] — The receding quantum-classical boundary
 - [[attention-as-interface]] — How attention relates to the quantum Zeno mechanism
 - [[stapp-quantum-mind]] — The quantum Zeno mechanism for mental effort
+- [[amplification-mechanisms-consciousness-physics]] — Six mechanisms for scaling quantum influence to neural effects
 - [[concepts/many-worlds]] — The interpretation that dissolves the measurement problem differently
 - [[tenets]] — the Map's foundational commitments
 - [[what-consciousness-tells-us-about-physics]] — Apex synthesis: decoherence selects the basis but not the outcome—what lies behind the wavefunction
