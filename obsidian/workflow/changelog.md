@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 06:32 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Mutation Void — thoughts that transform upon being thought
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [[research/voids-mutation-void-2026-03-19]]
+- **Key finding**: Certain thoughts cannot be held stably because the act of thinking them transforms their content — a distinct void category from slippage, aversion, or opacity, potentially a signature of bidirectional mind-body interaction
+
 ## 2026-03-19 06:26 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Predictive processing and active inference under dualism
