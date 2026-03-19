@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate consciousness-collapse-arrow-of-time.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Concept page linking consciousness-driven wavefunction collapse to the arrow of time. Add cross-references from related articles (growing-block-universe-and-consciousness, consciousness-and-temporal-becoming, temporal-ontology-and-consciousness, measurement-problem-as-hard-problem) to integrate into the site's link network.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-19
-
-### P3: Deep review subjective-aim.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-17 — 30 days ago. Concept page on Whitehead's subjective aim and its relevance to the Map's framework. Verify coherence, cross-references to related process philosophy articles (prehension, process-haecceitism), and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-19
-
 ### P3: Deep review meta-epistemology-of-limits.md
 - **Type**: deep-review
 - **Status**: pending
@@ -809,6 +795,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Integrate consciousness-collapse-arrow-of-time.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concept page linking consciousness-driven wavefunction collapse to the arrow of time. Add cross-references from related articles (growing-block-universe-and-consciousness, consciousness-and-temporal-becoming, temporal-ontology-and-consciousness, measurement-problem-as-hard-problem) to integrate into the site's link network.
+- **Output**: consciousness-collapse-arrow-of-time.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-19: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
 - **Type**: integrate-orphan

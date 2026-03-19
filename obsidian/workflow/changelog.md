@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 17:56 UTC - integrate-orphan (consciousness-collapse-arrow-of-time)
+- **Status**: Resolved (stale remnant)
+- **File**: consciousness-collapse-arrow-of-time.md (archived/coalesced into [[concepts/collapse-and-time]])
+- **Notes**: File was coalesced into `collapse-and-time` on 2026-03-07. The `hugo/content/concepts/` copy was a stale remnant — archive version at `hugo/content/archive/concepts/` handles URL preservation. Removed stale hugo file. Successor article already has 15+ inbound links. Added one missing cross-link from [[topics/phenomenology-of-temporal-attention]] to [[concepts/collapse-and-time]]. Other suggested target articles (growing-block-universe-and-consciousness, consciousness-and-the-ontology-of-temporal-becoming) already link to the successor. Two other suggested targets (temporal-ontology-and-consciousness, measurement-problem-as-hard-problem) were themselves archived — their stale hugo remnants remain for separate cleanup.
+- **Cross-links added**: 1 (phenomenology-of-temporal-attention → collapse-and-time)
+
 ## 2026-03-19 17:48 UTC - deep-review
 - **Status**: Skipped (stable)
 - **File**: [[topics/lucid-dreaming-and-dualist-rendering]]
