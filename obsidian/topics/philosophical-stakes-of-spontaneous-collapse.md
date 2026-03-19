@@ -4,8 +4,8 @@ description: "GRW, CSL, and objective reduction don't just solve quantum puzzles
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-18T23:52:00+00:00
-last_deep_review: 2026-02-22T13:57:00+00:00
+ai_modified: 2026-03-19T16:06:00+00:00
+last_deep_review: 2026-03-19T16:06:00+00:00
 draft: false
 topics:
   - "[[experimental-design-for-consciousness-collapse-testing]]"
@@ -37,7 +37,7 @@ The choice between [[spontaneous-collapse-theories|spontaneous collapse theories
 
 ## Three Pictures of Collapse and Consciousness
 
-The [[measurement-problem]] forces a choice. [[quantum-consciousness|Quantum mechanics]] describes systems evolving in superposition, yet measurement yields definite outcomes. Something selects among possibilities. The three major spontaneous collapse theories offer different accounts of what does the selecting, and each implies a different metaphysics of mind.
+The [[measurement-problem]] forces a choice. Quantum mechanics describes systems evolving in superposition, yet measurement yields definite outcomes. Something selects among possibilities. The three major spontaneous collapse theories offer different accounts of what does the selecting, and each implies a different metaphysics of mind—a different answer to the [[quantum-consciousness|quantum consciousness]] question.
 
 **Consciousness-independent collapse** (pure GRW and CSL): Wave functions collapse through stochastic physical processes—random localization events in GRW, continuous mass-density-driven noise in CSL. No observer, no consciousness, no measurement apparatus is needed. The universe collapsed its own quantum states for billions of years before the first mind emerged, and would continue doing so in a universe without minds. On this picture, consciousness is metaphysically optional for physics. The collapse mechanism is blind and purposeless.
 
@@ -103,7 +103,7 @@ The model also faces honest difficulties. IIT's measure of integrated informatio
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: GRW and CSL provide the minimal design the Map requires. The universe handles its own baseline collapse; consciousness intervenes only at quantum indeterminacies in neural systems. No ubiquitous proto-consciousness, no cosmic-scale influence—just local modulation of stochastic processes already underway.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Modulating collapse parameters (rate, location, basis) is a concrete mechanism for consciousness causally influencing the physical world without violating conservation laws. Consciousness selects among outcomes that physics leaves open, biasing probabilities within the Born rule.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Modulating collapse parameters (rate, location, basis) is a concrete mechanism for consciousness causally influencing the physical world without violating conservation laws. Consciousness biases outcomes that physics leaves open—modulating probabilities rather than overriding them—without violating [[causal-closure|causal closure]] at the level of conservation laws.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Objective collapse theories are the most direct rejection of many-worlds. Wave functions actually collapse; branches are pruned; definite outcomes are real. The indexical question "why am I this observer?" has a straightforward answer: because collapse produced one outcome, not many. MWI's alternative—deriving probability from a theory where everything happens—faces [[probability-problem-in-many-worlds|deep circularity problems]].
 
