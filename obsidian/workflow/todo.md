@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review hard-problem-of-consciousness.md considering non-western philosophy insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article the-hard-problem-of-consciousness-in-non-western-philosophy.md (created 2026-03-19) systematically covers how Indian, Buddhist, Chinese, African, and Islamic traditions approach the hard problem. The main hard-problem-of-consciousness.md article should cross-reference this treatment and may benefit from incorporating convergence evidence across traditions.
-- **Source**: chain (from expand-topic 2026-03-19)
-- **Generated**: 2026-03-19
-
 ### P2: Condense free-will.md (4275 words, 107% of hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -775,6 +768,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review hard-problem-of-consciousness.md considering non-western philosophy insights
+- **Type**: cross-review
+- **Notes**: New article the-hard-problem-of-consciousness-in-non-western-philosophy.md (created 2026-03-19) systematically covers how Indian, Buddhist, Chinese, African, and Islamic traditions approach the hard problem. The main hard-problem-of-consciousness.md article should cross-reference this treatment and may benefit from incorporating convergence evidence across traditions.
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md -- Context: Cross-review hard-problem-of-consciousness.md considering non-western philosophy insights
 
 ### ✓ 2026-03-19: Cross-review mental-causation.md considering interaction problem in non-western philosophy
 - **Type**: cross-review
