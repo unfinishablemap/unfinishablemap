@@ -4,7 +4,7 @@ description: "Active inference's mathematical formalism is metaphysically neutra
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-19T06:26:00+00:00
+ai_modified: 2026-03-19T07:01:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-19
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-19T07:01:00+00:00
 ---
 
 Active inference — the action-oriented extension of predictive processing under Karl Friston's free energy principle — is almost universally presented as a physicalist framework. Its architect advocates "Markovian monism," and its major interpreters lean toward functionalism or illusionism about consciousness. Yet the framework's mathematical formalism is metaphysically neutral: nothing in its equations mandates physicalism. The Unfinishable Map argues that active inference provides exactly the physical architecture [[interactionist-dualism]] needs. Hierarchical hypothesis generation creates the selection space, [[attention-as-interface|precision weighting]] functions as the causal interface, and action-oriented world-shaping embodies [[tenets#^bidirectional-interaction|bidirectional interaction]]. The hard problem remains fully open within the framework — and that openness is not a deficiency but an invitation.
@@ -35,7 +35,7 @@ The free energy principle states that living systems minimise variational free e
 
 Kiefer (2021) mounts the strongest case for this neutrality. Friston, Wiese, and Hobson (2020) claim their formalism entails "Markovian monism" — the view that systems possessing Markov blankets have properties relevant to consciousness, with both mental and physical descriptions reducing to a single information-geometric reality. Kiefer argues this overreaches: "we cannot read off metaphysical theses about the nature of target systems from our theories." The mathematical structure of Markov blankets and variational inference constrains *how* a system processes information but says nothing about what *kind* of thing is processing it. The leap from formalism to monism is philosophically unjustified.
 
-Wiese and Friston (2021) implicitly concede the point. Their review of active inference as a framework for consciousness acknowledges that the formalism supports both structural representationalist and enactive interpretations. If it supports two physicalist readings, nothing prevents a dualist reading that treats the computational description as capturing the physical side of a two-sided reality.
+Wiese and Friston (2021) reinforce this reading, perhaps unintentionally. Their review of active inference as a framework for consciousness acknowledges that the formalism supports both structural representationalist and enactive interpretations. If the same mathematics accommodates two competing physicalist readings, the formalism itself is not doing metaphysical work — and nothing prevents a dualist reading that treats the computational description as capturing the physical side of a two-sided reality.
 
 ## Markovian Monism as Disguised Property Dualism
 
@@ -53,19 +53,19 @@ Where the Map's integration becomes most productive is in active inference's spe
 
 The brain's predictive hierarchy generates multiple competing hypotheses at every level. Predictions flow downward; prediction errors flow upward. The system maintains probability distributions — not just best guesses but ranges of possibility weighted by confidence. This architecture creates precisely the branching landscape of options that a selecting consciousness requires.
 
-Interactionist dualism needs neural possibilities to select among. A brain that deterministically computed one output would leave no room for conscious influence. Active inference describes a brain that generates probability distributions and resolves them through precision weighting — and as the existing [[predictive-processing-and-the-maps-framework|Map analysis]] argues, precision weighting is where consciousness enters.
+Interactionist dualism needs neural possibilities to select among. A brain that deterministically computed one output would leave no room for conscious influence — and no room for [[free-will|genuine free will]]. Active inference describes a brain that generates probability distributions and resolves them through precision weighting — and as the existing [[predictive-processing-and-the-maps-framework|Map analysis]] argues, precision weighting is where consciousness enters.
 
 ### Precision Weighting as the Interface Mechanism
 
 Precision — the inverse variance of a probability distribution — determines which prediction errors receive weight. High-precision signals dominate processing; low-precision signals are suppressed. This mechanism is functionally equivalent to attention, and [[attention-as-interface|attention]] is the Map's proposed interface between consciousness and the physical world.
 
-Active inference adds a specific contribution here. Precision is itself *predicted* — the brain learns which signals to trust based on environmental statistics (Feldman & Friston, 2010). But this recursive structure creates an opening. If precision predictions are themselves subject to precision weighting, the question of what ultimately determines the weighting at the top of the hierarchy becomes pressing. Active inference's own architecture generates an explanatory regress that terminates either in brute physical fact or in something outside the predictive loop. The Map proposes consciousness as the terminus: the non-physical factor that breaks the symmetry of competing precision predictions.
+Active inference adds a specific contribution here. Precision is itself *predicted* — the brain learns which signals to trust based on environmental statistics (Feldman & Friston, 2010). But this recursive structure creates an opening. If precision predictions are themselves subject to precision weighting, the question of what ultimately determines the weighting at the top of the hierarchy becomes pressing. The physicalist answer is that learned priors and environmental statistics terminate the regress — the system settles into stable precision estimates through experience. The Map argues this answer is incomplete: it explains how precision *converges* over time but not how it is *resolved* in the moment when competing hypotheses demand incompatible precision assignments. Active inference's own architecture generates an explanatory gap between the statistics that shape precision and the act of committing to one weighting over another. The Map proposes consciousness as the factor that breaks this symmetry — selecting among precision assignments that the learned priors alone underdetermine.
 
 ### World-Shaping Action
 
 Active inference's most distinctive contribution is its account of action. When prediction errors are too large to resolve by updating the internal model, the system acts to change the world instead. The organism doesn't just perceive — it intervenes. This is the computational description of bidirectional interaction.
 
-The Map treats this as a surface manifestation of something deeper. Active inference describes how the organism changes its environment to match predictions. The Map argues that before any bodily action occurs, consciousness has already influenced which neural possibilities are realised. The felt experience of deciding to act — reaching for a glass, choosing a word, shifting attention — reflects consciousness selecting among competing neural hypotheses. Active inference describes the downstream consequences; the Map proposes the upstream cause.
+The Map treats this as a surface manifestation of something deeper. Active inference describes how the organism changes its environment to match predictions. The Map argues that before any bodily action occurs, consciousness has already influenced which neural possibilities are realised. The felt experience of deciding to act — reaching for a glass, choosing a word, shifting attention — reflects consciousness selecting among competing neural hypotheses, exercising exactly the kind of causal influence that [[causal-closure]] arguments deny but that the Map's framework requires. Active inference describes the downstream consequences; the Map proposes the upstream cause.
 
 Clark's emphasis on active inference as genuinely world-shaping supports this reading, even though Clark draws different conclusions. If organisms genuinely change their environment rather than passively modelling it, the causal direction runs from agent to world — exactly the direction [[tenets#^bidirectional-interaction|Tenet 3]] requires. The question is whether the agent is purely computational or whether consciousness participates in the agency.
 
@@ -101,7 +101,7 @@ The Unfinishable Map sees active inference as a valuable ally — the best avail
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Active inference is the strongest empirical case for bidirectional causation in cognitive science. Organisms genuinely change the world, not just model it. The Map extends this to the neural level: consciousness changes the brain's state by influencing precision weighting, and the brain then changes the world through active inference. The two levels of bidirectional influence — consciousness-to-brain and organism-to-world — form a nested hierarchy of causal interaction.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Active inference assumes definite outcomes. Predictions either generate errors or they don't — there is no branch where every prediction is simultaneously confirmed and disconfirmed. The framework presupposes a singular perspective minimising *its* prediction errors, which requires the indexical identity that [[concepts/many-worlds|many-worlds]] cannot ground.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Active inference is formulated from a singular perspective — one agent minimising *its* prediction errors against *its* environment. Predictions either generate errors or they don't; the framework tracks definite outcomes, not superpositions of all possible results. This is not a metaphysical proof against many-worlds, but the framework's explanatory structure presupposes the kind of indexical identity — *this* agent, *this* outcome — that [[concepts/many-worlds|many-worlds]] struggles to ground.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The free energy principle's elegance — one principle explaining perception, action, learning, and development — tempts the conclusion that consciousness will reduce to free energy minimisation. But [[parsimony-epistemology|parsimony]] justifies preferring simpler theories only when they explain the data equally well. Active inference and the Map's dualist reading do not explain the same data: active inference leaves phenomenal consciousness untouched. Invoking Occam's Razor requires parity that does not exist.
 
