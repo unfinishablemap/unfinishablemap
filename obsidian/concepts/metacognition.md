@@ -4,7 +4,7 @@ description: "Metacognition and metarepresentation are cognitive tools conscious
 created: 2026-01-18
 modified: 2026-02-21
 human_modified: null
-ai_modified: 2026-03-18T04:44:00+00:00
+ai_modified: 2026-03-19T11:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,9 +31,7 @@ concepts:
   - "[[cognitive-phenomenology]]"
   - "[[minimal-consciousness]]"
   - "[[animal-consciousness]]"
-  - "[[semantic-memory]]"
   - "[[phenomenology-of-choice]]"
-  - "[[motor-selection]]"
   - "[[binding-problem]]"
   - "[[teaching-as-metarepresentation]]"
   - "[[epistemic-emotions]]"
@@ -48,7 +46,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-17
 last_curated: null
-last_deep_review: 2026-02-21T09:06:00+00:00
+last_deep_review: 2026-03-19T11:25:00+00:00
 coalesced_from:
   - "/concepts/metacognition/"
   - "/concepts/metarepresentation/"
