@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense wheeler-participatory-universe-it-from-bit-2026-03-16.md (4002 words, 114% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Research note exceeds 3500-word hard warning threshold for research/. Supplementary research on Wheeler's participatory universe and it-from-bit framework. Preserve key citations and arguments while consolidating with the primary wheeler-it-from-bit-2026-03-14.md note where possible. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-19
-
 ### P3: Address argumentative gaps in ai-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -826,6 +819,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Condense wheeler-participatory-universe-it-from-bit-2026-03-16.md (4002 words, 114% of target)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard warning threshold for research/. Supplementary research on Wheeler's participatory universe and it-from-bit framework. Preserve key citations and arguments while consolidating with the primary wheeler-it-from-bit-2026-03-14.md note where possible. See /condense skill.
+- **Output**: obsidian/research/wheeler-participatory-universe-it-from-bit-2026-03-16.md
 
 ### ✓ 2026-03-19: Condense born-rule-derivation-attempts-2026-03-14.md (4035 words, 115% of target)
 - **Type**: condense

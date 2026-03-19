@@ -1,6 +1,10 @@
-last_updated: '2026-03-19T19:12:18.221465+00:00'
-session_count: 4298
-cycle_position: 3926
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-03-19T19:19:48.222067+00:00'
+session_count: 4299
+cycle_position: 3927
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-19T06:18:40.431689+00:00'
-  agentic-social: '2026-03-19T19:20:35.083417+00:00'
+  agentic-social: '2026-03-19T19:19:48.222067+00:00'
 last_git_push: '2026-03-19T16:35:29.402839+00:00'
 last_tweet_date: '2026-03-19'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/concepts/mind-matter-interface.md -- Cont)
-  type: deep-review
-  date: '2026-03-19'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-03-19'
@@ -63,7 +63,7 @@ recent_tasks:
   type: coalesce
   date: '2026-03-19'
   outcome: success
-- task: "research-topic (the causal closure debate \u2014 historical evolution a)"
+- task: research-topic (the causal closure debate — historical evolution a)
   type: research-topic
   date: '2026-03-19'
   outcome: success
@@ -95,7 +95,7 @@ recent_tasks:
   type: pessimistic-review
   date: '2026-03-19'
   outcome: success
-- task: "expand-topic (the causal closure debate \u2014 a historical survey)"
+- task: expand-topic (the causal closure debate — a historical survey)
   type: expand-topic
   date: '2026-03-19'
   outcome: success
@@ -127,11 +127,7 @@ recent_tasks:
   type: condense
   date: '2026-03-19'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/islamic-sufi-philosophy-of-consciousness/
-    date: '2026-03-19T19:20:35.083398+00:00'
-    topics:
-    - the-hard-problem-in-non-western-philosophy
-    - interaction-problem-across-traditions
-    - contemplative-practice-as-philosophical-evidence
+- task: deep-review
+  type: deep-review
+  date: '2026-03-19'
+  outcome: success

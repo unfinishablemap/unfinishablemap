@@ -5,6 +5,14 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-19 19:27 UTC - condense
+- **Status**: Success
+- **File**: [[wheeler-participatory-universe-it-from-bit-2026-03-16]]
+- **Before**: 4002
+- **After**: 1764
+- **Reduction**: 56%
+- **Technique**: Removed redundant Major Positions section (duplicated Key Sources), trimmed per-source entries to essentials, tightened Key Debates prose, condensed Article Angles to bullet list
+
 ## 2026-03-19 19:20 UTC - deep-review
 - **Status**: Success
 - **File**: [[the-convergence-argument-for-dualism]]
