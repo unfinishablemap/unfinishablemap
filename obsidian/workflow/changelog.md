@@ -5,6 +5,14 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-19 20:42 UTC - condense
+- **Status**: Success
+- **File**: [[research/bi-aspectual-ontology-dual-aspect-traditions-2026-03-16]]
+- **Before**: 3975 words
+- **After**: 2402 words
+- **Reduction**: 40%
+- **Technique**: Removed redundant Major Positions section (duplicated Key Sources tenet alignment), tightened all Key Source entries and Key Debates, cut standard background detail
+
 ## 2026-03-19 20:37 UTC - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/machine-question]]

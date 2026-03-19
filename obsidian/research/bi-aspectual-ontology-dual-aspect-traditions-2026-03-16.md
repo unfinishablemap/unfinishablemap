@@ -5,7 +5,7 @@ draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-16
-ai_modified: 2026-03-16T20:31:00+00:00
+ai_modified: 2026-03-19T20:42:00+00:00
 ---
 
 # Research: Bi-Aspectual Ontology and Dual-Aspect Traditions (Follow-Up)
@@ -21,15 +21,14 @@ This follow-up research addresses five gaps identified in the March 14 notes: Fe
 
 ## Key Sources
 
-### Neutral Monism (Stanford Encyclopedia of Philosophy) — Detailed Analysis
+### Neutral Monism (Stanford Encyclopedia of Philosophy)
 - **URL**: https://plato.stanford.edu/entries/neutral-monism/
 - **Type**: Encyclopedia
-- **Key points** (new findings beyond March 14):
-  - The distinction between neutral monism and dual-aspect theory hinges on how "neutrality" is defined: the "Neither View" (entities are intrinsically neither mental nor physical) yields neutral monism; the "Both View" (entities are intrinsically both mental and physical) yields dual-aspect theory
-  - Thomas Nagel's position is instructive: he initially described fundamental constituents as "transphysical and transmental" (suggesting neutrality), then characterized them as possessing properties that are "both physical and nonphysical"—prompting debate about whether he is a neutral monist or dual-aspect theorist
-  - Critics argue neutral monism smuggles in dual-aspect commitments: maintaining that physics describes only structural/relational properties while ignoring intrinsic qualities "suggests that the basic entities exhibit two fundamentally different kinds of aspects or properties: extrinsic physical relations and intrinsic mental qualities"
-  - Defenders counter that this is an epistemological distinction, not a metaphysical one
-- **Tenet alignment**: The Map's position exploits exactly this instability. Physics describes structure (extrinsic relations); consciousness provides actuality (intrinsic nature). But unlike neutral monism, the Map commits to genuine ontological distinction and causal interaction between these domains.
+- **Key points**:
+  - The "Neither View" (entities are intrinsically neither mental nor physical) yields neutral monism; the "Both View" (intrinsically both) yields dual-aspect theory
+  - Critics argue neutral monism smuggles in dual-aspect commitments: physics describes structural/relational properties while ignoring intrinsic qualities, "suggesting two fundamentally different kinds of aspects: extrinsic physical relations and intrinsic mental qualities"
+  - Defenders counter this is epistemological, not metaphysical
+- **Tenet alignment**: The Map exploits this instability. Physics describes structure (extrinsic relations); consciousness provides actuality (intrinsic nature). Unlike neutral monism, the Map commits to genuine ontological distinction and causal interaction.
 
 ### Spinoza's Theory of Attributes (Stanford Encyclopedia of Philosophy)
 - **URL**: https://plato.stanford.edu/entries/spinoza-attributes/
@@ -37,60 +36,46 @@ This follow-up research addresses five gaps identified in the March 14 notes: Fe
 - **Key points**:
   - Spinoza's conceptual barrier between attributes is constitutive: "The body cannot determine the mind to thinking, and the mind cannot" determine bodily motion (3P2). Cross-attribute causation is categorically forbidden.
   - 2P7 ("The order and connection of ideas is the same as the order and connection of things") means a single mode exists simultaneously as a Thought-attribute mode and Extension-attribute mode—one reality expressed through different attributes
-  - Two major interpretive camps: the **subjective interpretation** (Hegel, Wolfson) treats attributes as projections of finite perception onto substance; the **objective interpretation** (contemporary standard) treats attributes as genuinely ontological features grounded in substance
-  - The subjective interpretation faces serious objections: it renders all finite knowledge illusory and contradicts Spinoza's claim that adequate knowledge of God is possible
-  - The "mind-body union" puzzle: for objectivists, accounting for the identity between mind and body is problematic. Bennett proposes a trans-attribute "differentia F"; Della Rocca invokes neutral properties shared by modes; others appeal to attribute-independent structure
-- **Tenet alignment**: Spinoza's categorical ban on cross-attribute causation is the single clearest point of divergence from the Map. The Map agrees that thought and extension are genuinely distinct (objective interpretation) but rejects the conceptual barrier at quantum indeterminacies. The mind-body union puzzle shows that even within Spinoza's framework, explaining the connection between attributes is unresolved—the Map's interactionist mechanism at least provides a candidate explanation.
+  - The "mind-body union" puzzle remains unresolved even within Spinoza's framework: accounting for the identity between mind and body under the objective interpretation (attributes as genuinely ontological) is problematic
+- **Tenet alignment**: Spinoza's categorical ban on cross-attribute causation is the clearest divergence from the Map. The Map agrees thought and extension are genuinely distinct but rejects the conceptual barrier at quantum indeterminacies. The unresolved mind-body union puzzle suggests the Map's interactionist mechanism at least provides a candidate explanation where Spinoza's framework has none.
 
 ### Fechner's Inner/Outer Psychophysics
 - **URL**: https://psychclassics.yorku.ca/Fechner/wozniak.htm (Wozniak introduction)
 - **Type**: Encyclopedia / historical commentary
 - **Key points**:
-  - Fechner rejected Cartesian dualism in favour of a dual-aspect monistic view: "mind and body are two aspects of one and the same existent"
-  - The inner/outer distinction is phenomenological, not metaphysical: "A human being is one single entity; the properties of this entity are considered mental when perceived inwardly (from the perspective of the entity itself) and physical when viewed from the outside"
-  - Distinguished "outer psychophysics" (relationship between stimulus intensity and sensation) from "inner psychophysics" (relationship between sensation intensity and nervous activity)
-  - Rejected causal interaction between mind and body: "It would be senseless to say that the mind acts on the body or vice versa"
-  - Psychophysical parallelism was the most popular solution to the mind-body problem among 19th-century physiologists, psychologists, and philosophers
-  - Fechner thought parallelism was compatible with the conservation of energy principle by rejecting causality between mental and physical domains
-- **Tenet alignment**: **Conflicts with Bidirectional Interaction** (Fechner explicitly denies mental causation). However, Fechner's inner/outer distinction is phenomenologically closer to the Map's structure/actuality distinction than Spinoza's rationalist attributes. The Map can adopt Fechner's insight (same reality, different perspectives) while rejecting his conclusion (no interaction). The conservation of energy concern that motivated Fechner's parallelism is addressed by the Map's quantum mechanism, which biases outcomes without injecting energy.
+  - Fechner's dual-aspect monism: "mind and body are two aspects of one and the same existent" — the inner/outer distinction is phenomenological, not metaphysical
+  - Explicitly rejected causal interaction: "It would be senseless to say that the mind acts on the body or vice versa" — motivated by conservation of energy
+  - Distinguished "outer psychophysics" (stimulus-sensation) from "inner psychophysics" (sensation-nervous activity)
+- **Tenet alignment**: **Conflicts with Bidirectional Interaction** but phenomenologically closer to the Map's structure/actuality distinction than Spinoza's rationalist attributes. The Map adopts Fechner's insight (same reality, different perspectives) while rejecting his conclusion (no interaction). His conservation-of-energy concern is addressed by the Map's quantum mechanism, which biases outcomes without injecting energy.
 
 ### Bohm's Implicate Order and Active Information
 - **URL**: https://en.wikipedia.org/wiki/Implicate_and_explicate_order
 - **Type**: Encyclopedia
 - **Key points**:
-  - The implicate order is the "fundamental ground of all matter"; the explicate or "unfolded" order includes the abstractions humans normally perceive
-  - "The whole of existence, including inanimate matter, living organisms, and 'mind,' arises in a single ground, in which these are all enfolded"
-  - Bohm characterises consciousness as "a process in which at each moment, content that was previously implicate is presently explicate, and content which was previously explicate has become implicate"
-  - Bohm proposes that "the more comprehensive, deeper, and more inward actuality is neither mind nor body but rather a yet higher-dimensional actuality, which is their common ground and which is of a nature beyond both"
-  - In the Bohm-Hiley framework, mind and matter are "not two separate things, just manifestations of particularities arising from the foundation that is the implicate order and mediated by active information"
-  - **Active information** is a crucial concept: information that is active—it *does* something. The quantum potential provides active information that guides particle trajectories. Bohm and Hiley proposed that mental processes also involve active information, creating a bridge between mental and physical
-  - Pylkkänen developed this into "interactionist monism"—a position where mind and matter interact via active information but share a common implicate-order ground
-- **Tenet alignment**: **Most relevant dual-aspect framework for the Map.** The Bohm-Hiley framework shares key features with the Map: (1) it treats the quantum level as the interface between mental and physical; (2) active information provides a mechanism by which consciousness could influence physical outcomes; (3) it rejects many-worlds in favour of a definite-outcome interpretation. However, it remains fundamentally monist (one implicate order) where the Map is dualist. Pylkkänen's "interactionist monism" is the closest existing position to the Map's bi-aspectual interactionism—the Map differs primarily in treating consciousness as ontologically distinct from the implicate order rather than as one of its aspects.
+  - The implicate order is the "fundamental ground of all matter"; mind and matter are "manifestations of particularities arising from the foundation that is the implicate order and mediated by active information"
+  - Bohm proposes a deeper actuality "neither mind nor body but rather a yet higher-dimensional actuality, which is their common ground"
+  - **Active information** is the crucial bridging concept: the quantum potential provides information that *does* something — it guides particle trajectories. Mental processes also involve active information, creating a mind-matter bridge
+  - Pylkkänen developed this into "interactionist monism" — mind and matter interact via active information but share a common implicate-order ground
+- **Tenet alignment**: **Most relevant dual-aspect framework for the Map.** Shares: (1) quantum-level interface between mental and physical, (2) mechanism for consciousness to influence physical outcomes, (3) rejection of many-worlds. Differs: fundamentally monist where the Map is dualist. Pylkkänen's "interactionist monism" is the closest existing position — the Map differs in treating consciousness as ontologically distinct from the implicate order.
 
 ### Thomas Nagel's Dual-Aspect Position
 - **URL**: https://en.wikipedia.org/wiki/Thomas_Nagel (and related sources)
 - **Type**: Encyclopedia / Academic commentary
 - **Key points**:
-  - Nagel advocates a "dual aspect" theory: the brain possesses mental features that cannot be entirely reduced to its physical properties
-  - Reality "encompasses a mental aspect that consists not of nonphysical objects but of nonphysical attributes inherent in physical entities"
-  - Central argument: scientific understanding's "view from nowhere" necessarily leaves out something essential about consciousness, which inherently has a subjective point of view
-  - Even a hypothetically complete physics would not fully capture the essence of conscious experience
-  - In *Mind and Cosmos* (2012), Nagel argues physics is incomplete without consciousness, proposing teleological naturalism
-  - Some interpret Nagel as an early proponent of the idea that standard physicalist frameworks are *incomplete* rather than straightforwardly false, inspiring research into expanded physicalism, dual-aspect theories, and panpsychist approaches
-  - Nagel's position oscillates: his fundamental constituents are initially "transphysical and transmental" (neutral monism) but later possess properties "both physical and nonphysical" (dual-aspect theory)
-- **Tenet alignment**: **Nagel is the closest mainstream philosopher to the Map's position.** His insistence that physics is incomplete (not false) mirrors the Map's "partial but complete physics" claim. His rejection of both eliminativism and standard physicalism aligns with the Dualism tenet. His teleological naturalism (consciousness plays a constitutive role in reality) aligns with Bidirectional Interaction. The key uncertainty: Nagel does not clearly endorse a *mechanism* for mental causation, and his position may ultimately be closer to property dualism than interactionist dualism. *Mind and Cosmos* was widely criticised but its core insight—that materialism cannot accommodate consciousness—is the Map's starting point.
+  - Nagel advocates a "dual aspect" theory: reality "encompasses a mental aspect that consists not of nonphysical objects but of nonphysical attributes inherent in physical entities"
+  - The "view from nowhere" necessarily leaves out something essential about consciousness; even complete physics would not capture conscious experience
+  - In *Mind and Cosmos* (2012), argues physics is incomplete without consciousness, proposing teleological naturalism — consciousness, cognition, and value are constitutive features of reality
+  - His position oscillates between neutral monism ("transphysical and transmental" constituents) and dual-aspect theory (properties "both physical and nonphysical")
+- **Tenet alignment**: **Closest mainstream philosopher to the Map.** Physics incomplete (not false) mirrors the Map's claim. Teleological naturalism aligns with Bidirectional Interaction. Key gap: Nagel does not endorse a *mechanism* for mental causation — his position may be closer to property dualism than interactionist dualism.
 
 ### Kelly's Critique of Dual-Aspect Monism (Essentia Foundation Review)
 - **URL**: https://www.essentiafoundation.org/best-way-forward-or-unnecessary-detour-a-review-of-dual-aspect-monism-and-the-deep-structure-of-meaning/reading/
 - **Type**: Review essay
 - **Key points**:
-  - Kelly argues the Pauli-Jung dual-aspect framework (JPA) replaces physicalism's hard problem with "two new hard problems": how does the mental emerge from the psychophysically neutral domain, and how does the physical emerge from it?
-  - Challenges the denial of direct causal influence between mind and body: "physical events such as getting whacked on the head... produce mental consequences"
-  - Kelly contends that "a deep structure of meaning is inherent in consciousness itself," making meaning foundational to idealism, not unique to dual-aspect approaches
-  - Champions the Myers-James framework (MJS)—a realist idealism featuring a multilevel conscious psyche (Myers's "Subliminal Self") that better accommodates "rogue phenomena" (psi, genius, mystical experience)
-  - Kelly argues that the "inverse hard problem" (explaining matter via consciousness) is less intractable than explaining consciousness via matter, since "matter as classically conceived no longer exists in modern physics"
-  - Criticises Atmanspacher-Rickles for dismissing experimental parapsychology and Eastern philosophical frameworks
-- **Tenet alignment**: **Mixed.** Kelly's critique of JPA's interaction-denial aligns perfectly with the Map's Bidirectional Interaction tenet. His observation that dual-aspect monism creates two hard problems instead of one is a powerful objection the Map should cite. However, Kelly's preference for idealism conflicts with the Map's dualism—the Map does not treat consciousness as metaphysically prior to the physical but as genuinely distinct from it. The Map can position itself as a third option: neither the JPA neutral ground (two hard problems) nor Kelly's idealism (inverse hard problem), but interactionist dualism (interaction problem, addressed via quantum mechanism).
+  - JPA replaces physicalism's hard problem with "two new hard problems": how does the mental emerge from the neutral domain, and how does the physical?
+  - Challenges JPA's interaction-denial: "physical events such as getting whacked on the head... produce mental consequences"
+  - Champions idealism (Myers-James framework) as better accommodating "rogue phenomena" and argues the "inverse hard problem" is less intractable since "matter as classically conceived no longer exists in modern physics"
+- **Tenet alignment**: **Mixed.** The two-hard-problems objection is powerful and the Map should cite it. Kelly's interaction-denial critique aligns with Bidirectional Interaction. But his idealism conflicts with the Map's dualism. The Map is a third option: neither neutral ground (two hard problems) nor idealism (inverse hard problem), but interactionist dualism (interaction problem, addressed via quantum mechanism).
 
 ### Chalmers' Informational Double-Aspect Principle
 - **URL**: https://journalpsyche.org/articles/0xc059.pdf (Dual Aspect Framework for Consciousness)
@@ -106,53 +91,23 @@ This follow-up research addresses five gaps identified in the March 14 notes: Fe
 - **URL**: https://www.benovsky.com/papers_download/dual_aspect_monism_benovsky.pdf and https://philarchive.org/archive/LEBAID
 - **Type**: Academic papers
 - **Key points**:
-  - Benovsky: dual-aspect monism is "the view that the mental and the physical are two aspects, sides, or properties of an underlying neutral reality"
-  - Le Bihan's central objection: "It doesn't make sense to claim that properties look a certain way when there is nobody to observe them, since the semantics of 'aspect' suggest an appearance and observational character"
-  - Le Bihan challenges whether "aspects" can do genuine explanatory work or are merely a relabeling
-  - The concern: saying "X has a mental aspect and a physical aspect" may be no more explanatory than saying "X is both mental and physical"
-  - Benovsky responds by grounding aspects in the distinction between intrinsic qualities (experienced from the inside) and relational structure (described from the outside)
-  - The debate remains live: if "aspects" are just different descriptions of the same thing, dual-aspect theories risk being trivially true but explanatorily vacuous
-- **Tenet alignment**: **Critical concern for the Map.** The Map uses "structure" and "actuality" as two aspects of reality. Le Bihan's objection applies: does calling the wavefunction "structure" and consciousness "actuality" do genuine explanatory work, or is it relabeling? The Map's answer must be that the distinction is not merely perspectival—structure and actuality have genuinely different ontological roles. Structure determines the space of possibilities (quantum amplitudes); actuality selects among them (collapse). This is a functional distinction, not merely a descriptive one, and it generates a specific prediction: consciousness modulates collapse at quantum indeterminacies. That makes the Map's "aspects" explanatorily non-vacuous in a way that Spinozist or neutral monist "aspects" are not.
-
-## Major Positions (Additions to March 14 Notes)
-
-### Bohmian Dual-Aspect Monism (Bohm-Hiley-Pylkkänen)
-- **Proponents**: David Bohm, Basil Hiley, Paavo Pylkkänen
-- **Core claim**: Mind and matter are aspects of a deeper implicate order. Active information mediates between the quantum level and consciousness. The quantum potential provides information that is "active"—it shapes particle trajectories without transferring energy.
-- **Key arguments**: Active information bridges mind and matter because mental processes also involve information becoming active. The implicate order provides the neutral ground; explicate mental and physical orders unfold from it. Pylkkänen's "interactionist monism" allows genuine causal influence between mental and physical via active information at the quantum level.
-- **Relation to site tenets**: **Most closely aligned dual-aspect framework.** Shares with the Map: (1) quantum-level interface, (2) rejection of many-worlds, (3) a mechanism for mind-matter influence (active information ≈ consciousness biasing quantum outcomes), (4) no violation of energy conservation. Differs from the Map: remains fundamentally monist (one implicate order, not two ontological categories). The Map can present itself as what Bohmian dual-aspect monism becomes when you take the ontological distinction between mind and matter seriously rather than treating it as merely epistemic.
-
-### Nagel's Teleological Naturalism
-- **Proponents**: Thomas Nagel
-- **Core claim**: Physics is incomplete—not false—because it cannot accommodate consciousness. The natural order includes irreducible teleological laws that make the emergence of consciousness and cognition not merely possible but likely. Neither physicalism nor theism is required; a "neutral" natural teleology explains why consciousness exists.
-- **Key arguments**: The "view from nowhere" necessarily loses the subjective perspective. Even complete physical knowledge would not explain why there is something it is like to be conscious. *Mind and Cosmos* extends this: consciousness, cognition, and value are constitutive features of reality, not by-products.
-- **Relation to site tenets**: **Closely aligned with Dualism and Occam's Razor Has Limits tenets.** Nagel's insistence that materialism fails mirrors the Map's foundational commitment. His teleological naturalism—consciousness is a constitutive feature of reality—aligns with the Map's view that consciousness plays a genuine causal role. Key gap: Nagel does not propose a specific mechanism for mental causation, leaving his position less developed than the Map's quantum interaction framework. Nagel also does not clearly commit to bidirectional interaction (he may accept property dualism without causal interaction).
-
-### Fechner's Psychophysical Parallelism (Expanded)
-- **Proponents**: Gustav Theodor Fechner
-- **Core claim**: Mind and body are the same entity perceived from different standpoints—inwardly (mental) or outwardly (physical). The inner perspective yields psychophysics; the outer perspective yields physiology. No causal interaction exists between the mental and physical because there are not two things to interact.
-- **Key arguments**: The phenomenological grounding is stronger than Spinoza's rationalist approach. Fechner starts from observation (we experience our own mental states directly and observe others' physical states externally) rather than from metaphysical axioms about substance and attributes. His psychophysics was scientifically productive, establishing quantitative methods for studying sensation.
-- **Relation to site tenets**: **Phenomenologically useful, metaphysically insufficient.** Fechner's inner/outer distinction maps naturally onto the Map's structure/actuality distinction. The Map can adopt the phenomenological starting point (same reality, different perspectives) while arguing that quantum mechanics shows the inner perspective *can* influence the outer: consciousness biases quantum outcomes, which Fechner's 19th-century framework could not have anticipated. Fechner's conservation-of-energy concern, which motivated his denial of interaction, is addressed by the Map's energy-neutral quantum mechanism.
+  - Le Bihan's central objection: "aspects" may be no more explanatory than saying "X is both mental and physical" — the semantics suggest appearance and observation, not genuine ontological structure
+  - Benovsky responds by grounding aspects in the distinction between intrinsic qualities (experienced inside) and relational structure (described outside)
+- **Tenet alignment**: **Critical concern for the Map.** Le Bihan's objection applies: does calling the wavefunction "structure" and consciousness "actuality" do genuine explanatory work? The Map's answer: structure determines the space of quantum possibilities; actuality selects among them at collapse. This functional distinction generates a specific prediction (consciousness modulates collapse), making the Map's "aspects" explanatorily non-vacuous unlike Spinozist or neutral monist versions.
 
 ## Key Debates (Additions)
 
 ### How Many Hard Problems? (Kelly vs. JPA)
-- **Sides**: Atmanspacher-Rickles argue that dual-aspect monism dissolves the hard problem by treating mental and physical as co-equal aspects of a neutral ground. Kelly argues this creates *two* hard problems: how the mental emerges from the neutral domain, and how the physical emerges from it.
-- **Core disagreement**: Whether positing a neutral ground genuinely dissolves the mind-body problem or merely replicates it in two directions.
-- **Current state**: Kelly's objection has force. If the neutral domain is genuinely neutral (neither mental nor physical), explaining why it gives rise to *either* aspect is a hard problem. Idealists (Kelly) argue consciousness should be treated as fundamental; the Map argues that both consciousness and physical structure are fundamental but interact.
-- **Map implications**: The Map avoids Kelly's critique because it does not posit a neutral ground from which both aspects emerge. Instead, structure and actuality are both fundamental and irreducible, with interaction at quantum indeterminacies. This generates one hard problem (the interaction problem) rather than two (emergence of both aspects from neutral ground).
+- Kelly argues dual-aspect monism creates *two* hard problems (how mental emerges from neutral ground, how physical emerges) rather than dissolving the original one.
+- **Map implications**: The Map avoids this by not positing a neutral ground. Structure and actuality are both fundamental, with interaction at quantum indeterminacies — one hard problem (interaction) rather than two (emergence from neutrality).
 
 ### The "Aspects" Vacuity Challenge (Le Bihan vs. Benovsky)
-- **Sides**: Le Bihan argues "aspects" vocabulary is explanatorily vacuous. Benovsky defends it by grounding aspects in the intrinsic/relational distinction.
-- **Core disagreement**: Whether "X has aspect A and aspect B" adds explanatory content beyond "X is both A and B."
-- **Current state**: The challenge applies to any bi-aspectual framework, including the Map's.
-- **Map implications**: The Map must demonstrate that its structure/actuality distinction does genuine explanatory work. The strongest response: structure determines the space of quantum possibilities; actuality selects among them at collapse. This is a functional distinction with causal consequences, not merely a perspectival relabeling. If "aspects" means "different causal roles within a unified process," the vacuity objection does not apply.
+- Le Bihan argues "aspects" vocabulary adds no explanatory content beyond "X is both A and B." Benovsky defends it via the intrinsic/relational distinction.
+- **Map implications**: The Map's structure/actuality distinction must do genuine explanatory work. Structure determines quantum possibilities; actuality selects among them at collapse. This is a functional distinction with causal consequences, not perspectival relabeling.
 
 ### Active Information as Interaction Mechanism (Bohm-Pylkkänen)
-- **Sides**: Pylkkänen proposes "interactionist monism" via active information. Traditional dual-aspect monists (Atmanspacher) deny direct interaction. The Map proposes interaction at quantum collapse.
-- **Core disagreement**: Whether a monist framework can accommodate genuine interaction, or whether interaction requires dualist ontology.
-- **Current state**: Pylkkänen's position is the most developed attempt to have both monism and interaction. The Map should engage with it seriously as the closest competitor.
-- **Map implications**: The Map can argue that Pylkkänen's active information mechanism supports the Map's quantum interaction claim but that calling the result "monism" is misleading—if mind genuinely influences matter through active information, the implicate order is not truly neutral but already contains both mental and physical as distinct causal powers. Honest labelling makes this dualism.
+- Pylkkänen's "interactionist monism" via active information is the most developed attempt to combine monism with genuine interaction.
+- **Map implications**: If mind genuinely influences matter through active information, the implicate order already contains both mental and physical as distinct causal powers. Honest labelling makes this dualism — which is the Map's position.
 
 ## Historical Timeline (Additions)
 

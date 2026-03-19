@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense bi-aspectual-ontology-dual-aspect-traditions-2026-03-16.md (3975 words, 159% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Research note exceeds 2500-word hard warning threshold for research/. Covers Spinoza, Pauli-Jung, Chalmers, Nagel, and Russellian monism as dual-aspect traditions compared to the Map's bi-aspectual dualism. Preserve key distinctions and positioning while removing redundancy. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-19
-
 ### P2: Condense wheeler-it-from-bit-2026-03-14.md (3508 words, 140% of target)
 - **Type**: condense
 - **Status**: pending
@@ -833,6 +826,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Condense bi-aspectual-ontology-dual-aspect-traditions-2026-03-16.md (3975 words, 159% of target)
+- **Type**: condense
+- **Notes**: Research note exceeds 2500-word hard warning threshold for research/. Covers Spinoza, Pauli-Jung, Chalmers, Nagel, and Russellian monism as dual-aspect traditions compared to the Map's bi-aspectual dualism. Preserve key distinctions and positioning while removing redundancy. See /condense skill.
+- **Output**: obsidian/research/bi-aspectual-ontology-dual-aspect-traditions-2026-03-16.md
 
 ### ✓ 2026-03-19: Integrate phenomenology-of-mathematical-insight.md into site navigation
 - **Type**: integrate-orphan
