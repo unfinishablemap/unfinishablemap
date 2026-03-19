@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review quantum consciousness articles considering non-retrocausal selection models
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/non-retrocausal-conscious-selection-models.md (created 2026-03-18) develops non-retrocausal approaches to consciousness-physics interaction. Review consciousness-selecting-neural-patterns.md and quantum-consciousness.md for cross-links, whether the new models complement or challenge existing treatments, and terminology consistency.
-- **Source**: chain (from non-retrocausal-conscious-selection-models.md)
-- **Generated**: 2026-03-19
-
 ### P2: Integrate phenomenological-method-and-evidence-standards.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -700,6 +693,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review quantum consciousness articles considering non-retrocausal selection models
+- **Type**: cross-review
+- **Notes**: New article topics/non-retrocausal-conscious-selection-models.md (created 2026-03-18) develops non-retrocausal approaches to consciousness-physics interaction. Review consciousness-selecting-neural-patterns.md and quantum-consciousness.md for cross-links, whether the new models complement or challenge existing treatments, and terminology consistency.
+- **Output**: None -- Context: Cross-review quantum consciousness articles considering non-retrocausal selection models
 
 ### ✓ 2026-03-19: Cross-review contemplative and phenomenological evidence articles considering phenomenological-method-and-evidence-standards insights
 - **Type**: cross-review
