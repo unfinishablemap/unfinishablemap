@@ -4,7 +4,7 @@ description: "Agent teleology is the view that conscious beings introduce genuin
 created: 2026-02-16
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-03-05T06:39:57+00:00
+ai_modified: 2026-03-19T08:45:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -29,12 +29,13 @@ related_articles:
   - "[[argument-from-reason]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[biological-teleology-and-the-interface-framework]]"
+  - "[[self-transcendence-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-16
 last_curated:
-last_deep_review: 2026-02-20T22:21:00+00:00
+last_deep_review: 2026-03-19T08:45:00+00:00
 ---
 
 Agent teleology is the thesis that conscious beings introduce genuine purpose into a universe that otherwise operates mechanistically. Unlike cosmic teleology (the universe has a goal) or theological teleology (a designer intended outcomes), agent teleology is local and emergent: it arises wherever consciousness causally influences physical events. A gazelle flees a lion *because it fears death*, and that fear—as a conscious state—is a real cause, not a metaphor for underlying mechanism. The Unfinishable Map holds that agent teleology is a natural consequence of [[interactionist-dualism]]: if consciousness is irreducible and causally efficacious, then some events in the universe happen *for reasons* in the fullest sense.
@@ -98,6 +99,7 @@ Agent teleology is constrained. It does not claim:
 - **That consciousness controls everything.** The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet restricts consciousness to the smallest possible influence on quantum outcomes. Purpose operates within the space physics leaves open, not against physics.
 - **That agent teleology is cosmic.** No universal purpose or designer is implied. Purpose is local, arising in individual conscious agents.
 - **That we fully understand the mechanism.** The [[causal-interface|causal interface]] between purposive intent and physical outcome may be cognitively opaque—a specific instance of what [[mysterianism]] identifies as cognitive closure. The phenomenal fact of purpose-directed experience is undeniable; the property linking that experience to quantum selection may permanently elude articulation.
+- **That purposive capacity is self-improvable.** The [[self-transcendence-void]] identifies a structural limit: consciousness cannot use its purpose-generating faculty to upgrade that faculty, for the same reason no system can bootstrap beyond its own architecture without an external platform. Agent teleology operates within whatever cognitive parameters consciousness has—it does not follow that those parameters can be purposively expanded. This constraint actually strengthens the position: agent teleology claims purpose is real and causally efficacious, not that it is unlimited.
 
 ## What Would Challenge This View?
 
@@ -138,6 +140,7 @@ Agent teleology follows directly from the Map's tenets.
 - [[topics/phenomenal-value-realism]] — Values grounded in experience, not projected onto mechanism
 - [[value-blind-vs-value-sensitive-selection]] — Whether the selection mechanism is itself value-directed or value-neutral
 - [[mysterianism]] — Why the mechanism linking purpose to physics may exceed comprehension
+- [[self-transcendence-void]] — Why consciousness cannot bootstrap its purposive capacity beyond architectural limits
 
 ## References
 

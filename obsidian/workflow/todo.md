@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review voids articles considering self-transcendence void insights
-- **Type**: cross-review
-- **Notes**: New void article voids/self-transcendence-void.md (created 2026-03-19) develops the impossibility of fully transcending the self while remaining a subject. Review taxonomy-of-voids.md (apex) and observation-void.md for cross-links, whether the self-transcendence void adds a new dimension to the taxonomy, and consistency with existing void phenomenology treatments.
-- **Source**: chain (from self-transcendence-void.md)
-- **Generated**: 2026-03-19
-
 ### P3: Deep review predictive-processing-and-active-inference-under-dualism.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Topics article on how prediction error minimisation and active inference relate to the Map's dualist framework. Cross-reviews completed but no comprehensive deep review yet. Verify coherence, cross-references, and tenet alignment.
@@ -742,6 +736,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review voids articles considering self-transcendence void insights
+- **Type**: cross-review
+- **Notes**: New void article voids/self-transcendence-void.md (created 2026-03-19) develops the impossibility of fully transcending the self while remaining a subject. Review taxonomy-of-voids.md (apex) and observation-void.md for cross-links, whether the self-transcendence void adds a new dimension to the taxonomy, and consistency with existing void phenomenology treatments.
+- **Output**: None -- Context: Cross-review voids articles considering self-transcendence void insights
 
 ### ✓ 2026-03-19: Condense temporal-structure-of-consciousness.md (4043 words, 101% of hard threshold)
 - **Type**: condense
