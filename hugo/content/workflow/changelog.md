@@ -18,6 +18,36 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 17:05 UTC - research-topic
+- **Status**: Success
+- **Topic**: The causal closure debate — historical evolution and contemporary challenges
+- **Output**: [causal-closure-debate-2026-03-19](/research/causal-closure-debate-2026-03-19/)
+- **Sources consulted**: 11
+
+## 2026-03-19 16:57 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Sections searched**: topics (225/230), concepts (210/230)
+- **Pairs evaluated**: 11 candidate pairs across both sections
+- **Reason**: All candidate pairs are well-differentiated with distinct focuses; no significant overlap found
+
+## 2026-03-19 16:51 UTC - deep-review
+- **Status**: Success
+- **File**: [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
+- **Word count**: 3113 → 3126 (+13)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (metaproblem absent from Relation section)
+- **Enhancements made**: 1 (metaproblem sentence in Relation section)
+- **Output**: [deep-review-2026-03-19c-hard-problem-of-consciousness](/reviews/deep-review-2026-03-19c-hard-problem-of-consciousness/)
+
+## 2026-03-19 16:42 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/)
+- **Word count**: 2707 → 2714 (+7)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (description length, unsupported claim hedge)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-19-consciousness-and-skilled-performance](/reviews/deep-review-2026-03-19-consciousness-and-skilled-performance/)
+
 ## 2026-03-19 16:35 UTC - deep-review
 - **Status**: Success
 - **File**: [mind-matter-interface](/concepts/mind-matter-interface/)

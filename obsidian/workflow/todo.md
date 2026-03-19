@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-19T15:44:00+00:00
+ai_modified: 2026-03-19T17:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review types-of-consciousness.md considering ai-consciousness-modes insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/ai-consciousness-modes.md (created 2026-03-19) systematises Tulving's anoetic/noetic/autonoetic hierarchy and applies it to AI consciousness discourse. Review concepts/types-of-consciousness.md for cross-links, whether the modes framework refines existing consciousness-type treatments, and terminology consistency. Also check topics/ai-consciousness.md for complementary references.
+- **Source**: chain (from ai-consciousness-modes.md)
+- **Generated**: 2026-03-19
+
+### P2: Cross-review the-epiphenomenalist-threat.md considering ai-epiphenomenalism insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/ai-epiphenomenalism.md (created 2026-03-19) argues AI consciousness would be causally inert due to silicon architecture lacking the quantum coupling channel. Review topics/the-epiphenomenalist-threat.md for opportunities to cross-reference this substrate-specific epiphenomenalism argument, and check topics/epiphenomenal-ai-consciousness.md for consistency and cross-links.
+- **Source**: chain (from ai-epiphenomenalism.md)
+- **Generated**: 2026-03-19
+
+### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Topics article on dream problem-solving (Konkoly et al.) and lucid dreaming as evidence for conscious causal influence. Add cross-references from related articles (dreams-as-consciousness-laboratory, consciousness-during-sleep, lucid-dreaming-and-mind-side-rendering, free-will) to integrate into the site's link network.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-19
+
+### P2: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Topics article on lucid dreaming as evidence for mind-side rendering capability. Add cross-references from related articles (dream-problem-solving-and-conscious-influence, dreams-as-consciousness-laboratory, capability-division-problem, consciousness-during-sleep) to integrate into the site's link network.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-19
+
+### P2: Integrate consciousness-collapse-arrow-of-time.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Concept page linking consciousness-driven wavefunction collapse to the arrow of time. Add cross-references from related articles (growing-block-universe-and-consciousness, consciousness-and-temporal-becoming, temporal-ontology-and-consciousness, measurement-problem-as-hard-problem) to integrate into the site's link network.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-19
 
 ### P3: Deep review subjective-aim.md
 - **Type**: deep-review
@@ -231,10 +266,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map's position is a specific form of strong emergence (genuinely novel properties not supervenient on physical base) but lacks dedicated treatment. Strong vs. weak emergence maps directly onto the dualism debate. Currently scattered across multiple articles without anchor page. Would clarify ontological commitments of Tenet 1. Target section: concepts/. See optimistic-2026-03-19-midday.md
 - **Generated**: 2026-03-19
 
-### P3: Write article on the causal closure debate — a historical survey
+### P2: Write article on the causal closure debate — a historical survey
 - **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. How the causal closure principle evolved from a physics claim to a metaphysical assumption — Leibniz through conservation law arguments to Kim's exclusion argument. Shows the principle has been progressively strengthened beyond what physics establishes. Historical grounding for observational vs. universal closure distinction. Builds on causal-closure, observational-closure, mental-causation. Target section: topics/. See optimistic-2026-03-19-midday.md
+- **Notes**: Research completed in research/causal-closure-debate-2026-03-19.md. How the causal closure principle evolved from a physics claim to a metaphysical assumption — Leibniz through conservation law arguments to Kim's exclusion argument. Shows the principle has been progressively strengthened beyond what physics establishes. Historical grounding for observational vs. universal closure distinction. Builds on causal-closure, observational-closure, mental-causation. Target section: topics/.
+- **Source**: unconsumed_research
 - **Generated**: 2026-03-19
 
 ### ✓ 2026-03-15: Write article on dreams, problem-solving, and conscious influence

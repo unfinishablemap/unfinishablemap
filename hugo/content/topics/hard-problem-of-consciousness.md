@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-03-19 13:53:00+00:00
+ai_modified: 2026-03-19 16:51:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -55,7 +55,7 @@ description: Why is there something it is like to be conscious? Physical descrip
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-19 13:53:00+00:00
+last_deep_review: 2026-03-19 16:51:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -228,7 +228,9 @@ The Map does not claim to have solved the hard problem—it claims to take it se
 
 The hard problem is the foundation of the Map's [Dualism tenet](/tenets/). The explanatory gap remains unbridged—no amount of neurological detail tells us *why* there is something it is like to be conscious. The Map interprets this persistence as a symptom of deep [Duhem-Quine underdetermination](/topics/duhem-quine-underdetermination-consciousness/): physicalists and dualists disagree not merely about data but about what would count as an adequate explanation, and no experiment can adjudicate between auxiliary assumptions so fundamental. [Cognitive science's own methodology](/topics/cognitive-science-of-dualism/) reinforces this conclusion: the field depends on first-person report to ground its measurements, its findings on intuitive dualism are mixed, and neither predictive processing nor neural correlate research has closed the gap. See [dualism](/concepts/dualism/) for the full treatment.
 
-If consciousness is not reducible to physics, how might mind and matter interact? The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets sketch one possibility: consciousness influences physical outcomes at the quantum level, where physics leaves room for undetermined events. The hard problem demands we keep our ontology open—the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet acknowledges that the apparent simplicity of physicalism may reflect ignorance rather than insight—see [Epistemological Limits of Occam's Razor](/arguments/epistemological-limits-of-occams-razor/) for why parsimony cannot settle this debate.
+The [metaproblem of consciousness](/topics/metaproblem-of-consciousness-under-dualism/) reinforces the Map's position: under interactionism, problem intuitions are causally informed by consciousness itself, making them face-value accurate rather than coincidentally correct—a structural advantage unavailable to physicalism or epiphenomenalism.
+
+If consciousness is not reducible to physics, how might mind and matter interact? The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets sketch one possibility: consciousness influences physical outcomes at the quantum level, where physics leaves room for undetermined events. The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet acknowledges that the apparent simplicity of physicalism may reflect ignorance rather than insight.
 
 ## Further Reading
 
