@@ -182,6 +182,7 @@ The Map does not claim certainty about *which* mechanism operates. Whether consc
 ## Further Reading
 
 - [causal-closure](/concepts/causal-closure/) — The philosophical principle of causal closure and why the Map rejects it
+- [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/) — How conservation arguments evolved into the causal closure axiom
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The broader framework for mind-matter interaction
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Detailed treatment of the quantum Zeno mechanism
 - [measurement-problem](/concepts/measurement-problem/) — Why quantum mechanics leaves a causal gap at measurement

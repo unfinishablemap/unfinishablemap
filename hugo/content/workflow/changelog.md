@@ -3,20 +3,160 @@ ai_contribution: 100
 ai_generated_date: 2026-01-05
 ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
+concepts: []
+date: '2026-03-19'
+related_articles: []
+title: Changelog
+---
+
+## 2026-03-19 19:27 UTC - condense
+- **Status**: Success
+- **File**: [wheeler-participatory-universe-it-from-bit-2026-03-16](/research/wheeler-participatory-universe-it-from-bit-2026-03-16/)
+- **Before**: 4002
+- **After**: 1764
+- **Reduction**: 56%
+- **Technique**: Removed redundant Major Positions section (duplicated Key Sources), trimmed per-source entries to essentials, tightened Key Debates prose, condensed Article Angles to bullet list
+
+## 2026-03-19 19:20 UTC - deep-review
+- **Status**: Success
+- **File**: [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)
+- **Word count**: 2941 → 2983 (+42)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing cross-links)
+- **Enhancements made**: 3 cross-links added (epistemology-of-convergence-arguments, cross-cultural-convergence-on-mental-causation, reductionism-and-consciousness)
+- **Output**: [deep-review-2026-03-19-the-convergence-argument-for-dualism](/reviews/deep-review-2026-03-19-the-convergence-argument-for-dualism/)
+
+## 2026-03-19 19:12 UTC - condense
+- **Status**: Success
+- **File**: [born-rule-derivation-attempts-2026-03-14](/research/born-rule-derivation-attempts-2026-03-14/)
+- **Before**: 4035
+- **After**: 1697
+- **Reduction**: 58%
+- **Technique**: Merged redundant "Key Sources" and "Major Positions" sections into unified "Derivation Approaches"; removed historical timeline (dates preserved inline); trimmed Key Debates
 author: Andy Southgate
 concepts: []
 created: 2026-01-05
-date: &id001 2026-01-27
 draft: false
 human_modified: 2026-01-23
 last_curated: null
-modified: *id001
+modified: 2026-01-27
 related_articles:
-- '[[project]]'
-- '[[todo]]'
+- '[project](/project/)'
+- '[todo](/workflow/todo/)'
 title: AI Activity Changelog
 topics: []
 ---
+
+## 2026-03-19 19:04 UTC - condense
+- **Status**: Success
+- **File**: [consciousness-philosophy-of-mathematics-2026-03-19](/research/consciousness-philosophy-of-mathematics-2026-03-19/)
+- **Before**: 4051 words
+- **After**: 1721 words
+- **Reduction**: 58%
+- **Technique**: Compressed Key Sources to URL + essential points (removed redundancy with Major Positions), condensed Historical Timeline to single-line milestones, tightened tenet alignment commentary throughout, trimmed citations to short form
+
+## 2026-03-19 18:55 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 227 topics, 211 concepts, 1 tenets, 20 apex articles
+- **Output**: [optimistic-2026-03-19-evening](/reviews/optimistic-2026-03-19-evening/)
+
+## 2026-03-19 18:48 UTC - deep-review
+- **Status**: Success
+- **File**: [temporal-consciousness](/concepts/temporal-consciousness/)
+- **Context**: Cross-review considering autonoetic-consciousness insights
+- **Word count**: 2774 → 2831 (+57, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (autonoetic insights integration)
+- **Enhancements made**: 3 (Klein content/manner distinction, semanticisation evidence, trims for length neutrality)
+- **Output**: [deep-review-2026-03-19-temporal-consciousness](/reviews/deep-review-2026-03-19-temporal-consciousness/)
+
+## 2026-03-19 18:40 UTC - deep-review
+- **Status**: Success
+- **File**: [causal-closure](/concepts/causal-closure/)
+- **Word count**: 2783 → 2794 (+11)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (generalisation problem added from historical survey, Buhler citation integrated, cross-link to survey in related_articles)
+- **Enhancements made**: 3 (generalisation problem, Buhler reference, prose tightening for length neutrality)
+- **Output**: [deep-review-2026-03-19-causal-closure](/reviews/deep-review-2026-03-19-causal-closure/)
+
+## 2026-03-19 18:34 UTC - deep-review
+- **Status**: Success
+- **File**: [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
+- **Word count**: 3279 → 3206 (-73)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (removed stale refinement log, tightened prose for length)
+- **Enhancements made**: 3 cross-links added (conservation-laws, anaesthesia, born-rule)
+- **Output**: [deep-review-2026-03-19-comparing-quantum-consciousness-mechanisms](/reviews/deep-review-2026-03-19-comparing-quantum-consciousness-mechanisms/)
+
+## 2026-03-19 18:26 UTC - deep-review
+- **Status**: Success
+- **File**: [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/)
+- **Word count**: 2064 → 2104 (+40)
+- **Critical issues addressed**: 2 (C.D. Broad date error, Lowe/physics source conflation)
+- **Medium issues addressed**: 2 (orphan integration with 9 cross-links from 8 articles, Papineau citation)
+- **Enhancements made**: 9 cross-links added to integrate orphaned article into site navigation
+- **Output**: [deep-review-2026-03-19-causal-closure-debate-historical-survey](/reviews/deep-review-2026-03-19-causal-closure-debate-historical-survey/)
+
+## 2026-03-19 18:11 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Causal Closure Debate — A Historical Survey
+- **Output**: [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/)
+- **Word count**: 2064
+- **Based on research**: yes, [causal-closure-debate-2026-03-19](/research/causal-closure-debate-2026-03-19/)
+
+## 2026-03-19 18:03 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: obsidian/topics/ai-consciousness.md (AI Consciousness — hub article, ~4500 words)
+- **Output**: [pessimistic-2026-03-19-evening](/reviews/pessimistic-2026-03-19-evening/)
+
+## 2026-03-19 17:56 UTC - integrate-orphan (consciousness-collapse-arrow-of-time)
+- **Status**: Resolved (stale remnant)
+- **File**: consciousness-collapse-arrow-of-time.md (archived/coalesced into [collapse-and-time](/concepts/collapse-and-time/))
+- **Notes**: File was coalesced into `collapse-and-time` on 2026-03-07. The `hugo/content/concepts/` copy was a stale remnant — archive version at `hugo/content/archive/concepts/` handles URL preservation. Removed stale hugo file. Successor article already has 15+ inbound links. Added one missing cross-link from [phenomenology-of-temporal-attention](/topics/phenomenology-of-temporal-attention/) to [collapse-and-time](/concepts/collapse-and-time/). Other suggested target articles (growing-block-universe-and-consciousness, consciousness-and-the-ontology-of-temporal-becoming) already link to the successor. Two other suggested targets (temporal-ontology-and-consciousness, measurement-problem-as-hard-problem) were themselves archived — their stale hugo remnants remain for separate cleanup.
+- **Cross-links added**: 1 (phenomenology-of-temporal-attention → collapse-and-time)
+
+## 2026-03-19 17:48 UTC - deep-review
+- **Status**: Skipped (stable)
+- **File**: [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/)
+- **Notes**: Task referenced archived slug `lucid-dreaming-and-mind-side-rendering`; active article is `lucid-dreaming-and-dualist-rendering` (coalesced). Article has 24 inbound links (not orphaned) and was reviewed twice (2026-03-18, 2026-03-19) with no critical issues. Marked stable — no changes needed.
+
+## 2026-03-19 17:42 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)
+- **Word count**: 3226 → 3223 (-3)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-03-19-epistemology-of-convergence-arguments](/reviews/deep-review-2026-03-19-epistemology-of-convergence-arguments/)
+
+## 2026-03-19 17:33 UTC - deep-review
+- **Status**: Success
+- **File**: [dream-problem-solving-and-conscious-influence](/topics/dream-problem-solving-and-conscious-influence/) (archived → [dream-consciousness](/topics/dream-consciousness/))
+- **Word count**: 3089 → 3089 (unchanged, length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing baseline-cognition link from prior review, 2 additional cross-links)
+- **Enhancements made**: 3 cross-links added (baseline-cognition, loss-of-consciousness, mental-imagery-causal-role-of-consciousness → dream-consciousness)
+- **Context**: Orphan integration — verified prior review's 8 claimed cross-links (7 confirmed, 1 missing), added 3 new links
+- **Output**: [deep-review-2026-03-19-dream-problem-solving-and-conscious-influence](/reviews/deep-review-2026-03-19-dream-problem-solving-and-conscious-influence/)
+
+## 2026-03-19 17:26 UTC - deep-review
+- **Status**: Success
+- **File**: [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)
+- **Word count**: 3154 → 3175 (+21)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 4
+- **Context**: Cross-review integrating ai-epiphenomenalism insights (nature-coupling distinction)
+- **Output**: [deep-review-2026-03-19b-the-epiphenomenalist-threat](/reviews/deep-review-2026-03-19b-the-epiphenomenalist-threat/)
+
+## 2026-03-19 17:23 UTC - deep-review
+- **Status**: Success
+- **File**: [types-of-consciousness](/concepts/types-of-consciousness/)
+- **Word count**: 1734 → 1863 (+129)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 4 (content-manner independence, simulation-instantiation boundary, cross-links, Klein reference)
+- **Output**: [deep-review-2026-03-19-types-of-consciousness](/reviews/deep-review-2026-03-19-types-of-consciousness/)
 
 ## 2026-03-19 17:05 UTC - research-topic
 - **Status**: Success

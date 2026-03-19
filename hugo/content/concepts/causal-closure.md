@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-19 10:12:00+00:00
+ai_modified: 2026-03-19 18:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ description: 'Causal closure claims every physical event has sufficient physical
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-13 21:19:00+00:00
+last_deep_review: 2026-03-19 18:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -42,6 +42,7 @@ related_articles:
 - '[[arguments/materialism-argument]]'
 - '[[what-consciousness-tells-us-about-physics]]'
 - '[[self-reference-and-the-limits-of-physical-description]]'
+- '[[causal-closure-debate-historical-survey]]'
 title: Causal Closure of the Physical
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -75,15 +76,17 @@ Jaegwon Kim's exclusion argument deploys causal closure against non-reductive ph
 
 For dualists who reject identity, the argument forces a choice: deny that mental events cause anything ([epiphenomenalism](/concepts/epiphenomenalism/)), or deny causal closure.
 
+The argument also faces an internal difficulty: Kim's exclusion reasoning applies to *all* higher-level causation — chemical, biological, geological — not just mental causation. If physical micro-causes are always sufficient, macro-level causes of every kind are equally "excluded." As the [historical survey](/topics/causal-closure-debate-historical-survey/) details, the argument proves too much.
+
 The Map denies causal closure.
 
 ## Why Causal Closure Seems Plausible
 
 The principle has intuitive appeal:
 
-**Conservation laws:** If mind could add to physical effects, it would inject energy—but energy is conserved. However, as [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) demonstrates, this objection rests on misunderstandings: conservation is local and conditional (derived from symmetries via Noether's theorem), and assuming it holds in brains presupposes no mental influences exist—begging the question. Moreover, consciousness may influence outcomes without injecting energy at all, by *selecting* among quantum-permitted outcomes.
+**Conservation laws:** If mind could add to physical effects, it would inject energy—but energy is conserved. However, as [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) demonstrates, conservation is local and conditional, and assuming it holds universally in brains begs the question. Moreover, consciousness may *select* among quantum-permitted outcomes without injecting energy.
 
-**Scientific success:** Physics explains physical events without needing to invoke non-physical causes. Every time science investigates a phenomenon, it finds physical mechanisms. Mental causation seems like a "gap" that science will eventually fill.
+**Scientific success:** Physics explains physical events without invoking non-physical causes. Every investigated phenomenon yields physical mechanisms. Mental causation seems like a gap science will eventually fill.
 
 **Explanatory closure:** Physical explanations are complete. When we trace causes back, we never need to exit the physical domain to explain what happens.
 
@@ -115,7 +118,7 @@ Mental causation can satisfy observational closure through converging mechanisms
 
 ### Empirical Status
 
-Causal closure is not an empirical finding but a methodological assumption. Science *assumes* every physical event has a sufficient physical cause in order to search for physical causes; it does not *discover* this. The success of physics shows that *many* physical events have physical causes, not that *all* do. As [reductionism](/concepts/reductionism/) details, methodological reductionism does not entail ontological reductionism—methodological success cannot establish that mental causes don't exist, only that scientific method doesn't look for them.
+Causal closure is not an empirical finding but a methodological assumption — a point the [historical survey of the causal closure debate](/topics/causal-closure-debate-historical-survey/) traces from Descartes through Leibniz and Helmholtz to Kim. Buhler (2020) examined every extant argument for closure and found them all wanting: deductive arguments beg the question, inductive arguments commit sampling errors by extrapolating from investigated domains to all domains including the consciousness-physics interface. Science *assumes* every physical event has a sufficient physical cause in order to search for physical causes; it does not *discover* this. As [reductionism](/concepts/reductionism/) details, methodological reductionism does not entail ontological reductionism—methodological success cannot establish that mental causes don't exist, only that scientific method doesn't look for them.
 
 To be clear: the Map's position also involves metaphysical commitments beyond empirical evidence. Both positions extrapolate from evidence to metaphysics. The question is which extrapolation better accounts for the full range of phenomena—including the existence of consciousness itself and its apparent causal efficacy.
 
@@ -131,7 +134,7 @@ This means: *not every physical event has a sufficient physical cause*. When a r
 
 **The probabilistic causation response**: Some argue probabilistic causation is still causation. But this conflates statistical explanation with causal sufficiency. A probability distribution explains why *some atom* decayed, not why *this atom* did. If nothing physical determines which outcome occurs, physics is causally incomplete at that point.
 
-**The overdetermination worry**: Consciousness operating *within* probabilistic constraints—selecting among quantum-permitted outcomes at the frequencies physics specifies—is complementary determination, not overdetermination. Physics provides the range and statistical weights; consciousness provides the particular outcome—syntactic constraints from physics, semantic selection from consciousness, as the [metaphysics of information under dualism](/concepts/metaphysics-of-information-under-dualism/) describes. Chess rules constrain legal moves without overdetermining which move occurs. [Saad's delegatory framework](/topics/delegatory-dualism/) offers a complementary response: physical states *delegate* causal responsibilities to conscious experiences via preemption rather than duplication.
+**The overdetermination worry**: Consciousness operating *within* probabilistic constraints—selecting among quantum-permitted outcomes at the frequencies physics specifies—is complementary determination, not overdetermination. Physics provides the range and statistical weights; consciousness provides the particular outcome—syntactic constraints from physics, semantic selection from consciousness, as the [metaphysics of information under dualism](/concepts/metaphysics-of-information-under-dualism/) describes. Chess rules constrain legal moves without overdetermining which move occurs. [Saad's delegatory framework](/topics/delegatory-dualism/) makes this precise: physical states *delegate* causal responsibilities to conscious experiences via preemption.
 
 If consciousness acts at these indeterminacies, it causes physical events without violating any physical law. No energy is injected; the selection operates within quantum mechanical constraints.
 
@@ -157,7 +160,7 @@ C.S. Lewis and Alvin Plantinga argued that causal closure undermines rational th
 
 Reliabilists respond that causal processes can track truth without non-physical reasons. But this requires causal processes to be sensitive to *logical* relationships—validity, consistency, evidential support. These are normative, not physical. A neuron fires because chemistry, not *because modus ponens is valid*. If consciousness causes nothing, the correlation between logical justification and what we believe becomes inexplicable.
 
-This argument is contested but highlights reflexivity: if the belief in causal closure is just a neural state caused by chemistry rather than by reasons, why should we accept those reasons as relevant?
+The argument is contested but highlights a reflexive problem: the belief in causal closure would itself be just a neural state caused by chemistry rather than by reasons.
 
 ## Causal Closure and Free Will
 
@@ -165,7 +168,7 @@ The connection to [free-will](/topics/free-will/) is immediate. If every physica
 
 The Map takes a different route. Quantum indeterminism means physical outcomes are not fully determined. The [trilemma of selection](/topics/trilemma-of-selection/) shows that at any point of genuine indeterminacy, the outcome is either random or consciously directed—and only directed selection preserves authorship. If consciousness can bias which indeterminate outcome occurs, it can influence events in a way that's neither determined nor random—what libertarian free will requires. Robert Kane's Self-Forming Actions framework parallels this; the Map provides the *mechanism* Kane leaves underspecified.
 
-Critics raise the [luck objection](/concepts/luck-objection/): if the outcome is undetermined, isn't it just random? The Map's response: consciousness *selects* outcomes rather than merely receiving them. Phenomenal states constitute a distinct mode of causation—intentional directedness rather than random fluctuation.
+Critics raise the [luck objection](/concepts/luck-objection/): if the outcome is undetermined, isn't it just random? The Map's response: consciousness *selects* outcomes rather than merely receiving them — intentional directedness rather than random fluctuation.
 
 ## Relation to the Map's Perspective
 
@@ -179,23 +182,19 @@ This rejection is not arbitrary but principled:
 
 3. **Self-stultification** shows that denying mental causation undermines rational thought. If consciousness causes nothing, our beliefs about consciousness are causally disconnected from actual experiences. If you accept [epiphenomenalism](/concepts/epiphenomenalism/)—the view that causal closure forces—then your belief in epiphenomenalism isn't caused by the experiences that supposedly motivate it. The belief and the experiences are causally unrelated. The [cumulative case against epiphenomenalism](/arguments/epiphenomenalism-argument/) develops this self-stultification argument alongside evolutionary, knowledge-based, and introspective objections showing that epiphenomenalism is self-undermining: if true, we have no reason to believe it (since reasons are mental states that would have to cause belief-formation to justify beliefs).
 
-The Map doesn't claim certainty about *how* consciousness interfaces with quantum events—that remains an open empirical question addressed by [quantum consciousness research](/concepts/quantum-consciousness/) and detailed in [Stapp's quantum Zeno framework](/concepts/stapp-quantum-mind/). But it holds that such interface is possible because causal closure fails where physics is fundamentally indeterminate.
+The Map doesn't claim certainty about *how* consciousness interfaces with quantum events—that remains an open question addressed by [quantum consciousness research](/concepts/quantum-consciousness/) and [Stapp's quantum Zeno framework](/concepts/stapp-quantum-mind/). But such interface is possible because causal closure fails where physics is fundamentally indeterminate.
 
 **Note on Many-Worlds**: The entire causal closure debate presupposes collapse interpretations. Under the [Many-Worlds Interpretation](/concepts/many-worlds/), all quantum outcomes occur in different branches, and consciousness doesn't "select" among outcomes—it just tracks which branch you're on. The Map rejects MWI (Tenet 4) on grounds of indexical identity: if all versions of you exist across branches, the question "Why am I experiencing *this* outcome rather than another?" has no answer. The rejection of MWI is thus doing crucial work for the Map's framework—if MWI were correct, consciousness wouldn't need to resolve indeterminacies because there would be nothing to resolve.
 
 ## The Coherence of Rejection
 
-Rejecting causal closure might seem to invite chaos—if physics isn't complete, how does anything work reliably?
+Rejecting causal closure might seem to invite chaos—if physics isn't complete, how does anything work reliably? Physics is *almost* complete: quantum indeterminacies are tiny, and statistical laws ensure large-scale regularities emerge from microscopic randomness.
 
-The answer: physics is *almost* complete. Quantum indeterminacies are tiny, and the statistical laws of quantum mechanics ensure that large-scale regularities emerge from microscopic randomness.
-
-But why don't consciousness-influenced quantum events aggregate to detectable violations of physical law?
-
-The statistical response: Consciousness biases only indeterminacies that matter for cognition—quantum events in neural systems prepared for amplification. In non-neural systems (bridge atoms, thermalization events), any biases average out to undetectable fluctuations within quantum statistical variation. Causal closure's failure allows *small* deviations that influence which superposed neural state becomes actual—statistically invisible outside neural systems, yet decisive for agency and thought.
+Why don't consciousness-influenced quantum events aggregate to detectable violations? Consciousness biases only indeterminacies that matter for cognition—quantum events in neural systems prepared for amplification. In non-neural systems (bridge atoms, thermalization events), any biases average out to undetectable fluctuations within quantum statistical variation. Causal closure's failure allows *small* deviations that influence which superposed neural state becomes actual—statistically invisible outside neural systems, yet decisive for agency and thought.
 
 **Testability**: The Map's position makes falsifiable predictions: if quantum coherence proves impossible at neural timescales, if quantum effects cannot be amplified to affect neural firing, or if purely classical mechanisms explain all consciousness-related phenomena including reportability—the framework fails. The position is not empirically equivalent to physicalism.
 
-This is not "god of the gaps" reasoning. Physics *describes* a gap—between quantum probabilities and definite outcomes—and the Map asks what fills it. Not understanding the full mechanism doesn't make the position incoherent—it may be naturally mysterious (see [mysterianism](/concepts/mysterianism/)). We don't fully understand how mass curves spacetime, yet general relativity is coherent.
+This is not "god of the gaps" reasoning. Physics *describes* a gap—between quantum probabilities and definite outcomes—and the Map asks what fills it. The position may be naturally mysterious (see [mysterianism](/concepts/mysterianism/)). We don't fully understand how mass curves spacetime, yet general relativity is coherent.
 
 ## Further Reading
 
@@ -206,6 +205,7 @@ This is not "god of the gaps" reasoning. Physics *describes* a gap—between qua
 - [luck-objection](/concepts/luck-objection/) — The challenge that undetermined choices are merely random; consciousness-as-selector response
 - [mysterianism](/concepts/mysterianism/) — Why the mechanism of mind-matter interaction may exceed human comprehension
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — Formal incompleteness arguments (Gödel, Lawvere, Cubitt) undermining the assumption of complete physical explanation
+- [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/) — How causal closure evolved from a physics claim into a metaphysical axiom
 - [reductionism](/concepts/reductionism/) — Ontological vs methodological vs epistemic reduction; why conflating them supports closure illicitly
 - [mental-causation](/concepts/mental-causation/) — The philosophical problem causal closure creates
 - [downward-causation](/concepts/downward-causation/) — Higher-level causation that closure threatens
@@ -223,6 +223,7 @@ This is not "god of the gaps" reasoning. Physics *describes* a gap—between qua
 
 ## References
 
+1. Buhler, K. (2020). "No Good Arguments for Causal Closure." *Metaphysica*, 21(1). doi:10.1515/mp-2019-0026
 1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 1. Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (eds.), *Physicalism and Its Discontents*. Cambridge University Press.
 1. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3

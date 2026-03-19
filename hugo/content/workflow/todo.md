@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-19 15:44:00+00:00
+ai_modified: 2026-03-19 18:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,11 +38,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Deep review subjective-aim.md
-- **Type**: deep-review
+### P3: Address argumentative gaps in ai-consciousness.md
+- **Type**: refine-draft
 - **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-17 — 30 days ago. Concept page on Whitehead's subjective aim and its relevance to the Map's framework. Verify coherence, cross-references to related process philosophy articles (prehension, process-haecceitism), and tenet alignment.
-- **Source**: staleness
+- **Notes**: Pessimistic review found the understanding/pattern-completion distinction (core to the article's skepticism) is never independently grounded — it relies on the intuitions it's defending. Also: haecceity argument asserted without support, "no reentrant dynamics" claim needs qualification re: attention mechanisms, and continual learning section is disproportionately long vs. compressed "Other Challenges." See pessimistic-2026-03-19-evening.md
+- **Source**: pessimistic-review
 - **Generated**: 2026-03-19
 
 ### P3: Deep review meta-epistemology-of-limits.md
@@ -232,10 +232,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map's position is a specific form of strong emergence (genuinely novel properties not supervenient on physical base) but lacks dedicated treatment. Strong vs. weak emergence maps directly onto the dualism debate. Currently scattered across multiple articles without anchor page. Would clarify ontological commitments of Tenet 1. Target section: concepts/. See optimistic-2026-03-19-midday.md
 - **Generated**: 2026-03-19
 
-### P3: Write article on the causal closure debate — a historical survey
+### P3: Write article on amplification mechanisms taxonomy
 - **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. How the causal closure principle evolved from a physics claim to a metaphysical assumption — Leibniz through conservation law arguments to Kim's exclusion argument. Shows the principle has been progressively strengthened beyond what physics establishes. Historical grounding for observational vs. universal closure distinction. Builds on causal-closure, observational-closure, mental-causation. Target section: topics/. See optimistic-2026-03-19-midday.md
+- **Notes**: Suggested by optimistic review. The gap between quantum-scale indeterminacy and neural-scale behaviour is the single most common objection to quantum consciousness. Research note catalogues six mechanisms (microtubule collapse, Zeno effect, synaptic tunneling, chaos sensitivity, SOC, stochastic resonance). Synthesising these addresses the "amplification void" directly. Builds on comparing-quantum-consciousness-mechanisms, non-retrocausal-conscious-selection-models. Target section: topics/. See optimistic-2026-03-19-evening.md
+- **Generated**: 2026-03-19
+
+### P3: Write article on phenomenological evidence standards
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map relies on phenomenological evidence but has no dedicated treatment of why first-person data counts as evidence. Dennett's heterophenomenology, Husserl's adequate/apodictic distinction, neurophenomenological validation need systematic treatment. Builds on contemplative-practice-as-philosophical-evidence, phenomenology-of-agency-vs-passivity. Target section: topics/. See optimistic-2026-03-19-evening.md
+- **Generated**: 2026-03-19
+
+### P3: Write article on Gödel-measurement problem structural parallel
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Szangolies' Lawvere fixed-point theorem shows Gödel incompleteness and the measurement problem share formal structure, not just analogy. Would strengthen the case that the hard problem and the measurement problem are aspects of the same deeper phenomenon. Builds on consciousness-and-the-philosophy-of-mathematics, consciousness-and-the-authority-of-formal-systems. Target section: topics/. See optimistic-2026-03-19-evening.md
+- **Generated**: 2026-03-19
+
+### P3: Create concept page for mathematical intuition
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Gödel's *sui generis* epistemic faculty, Brouwer's constructive acts, and the phenomenology of mathematical understanding are referenced across multiple articles (consciousness-and-the-philosophy-of-mathematics, mathematical-knowledge-and-insight, consciousness-and-mathematical-cognition) but lack a dedicated concept page. Target section: concepts/. See optimistic-2026-03-19-evening.md
 - **Generated**: 2026-03-19
 
 ### ✓ 2026-03-15: Write article on dreams, problem-solving, and conscious influence
@@ -802,6 +820,66 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Condense wheeler-participatory-universe-it-from-bit-2026-03-16.md (4002 words, 114% of target)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard warning threshold for research/. Supplementary research on Wheeler's participatory universe and it-from-bit framework. Preserve key citations and arguments while consolidating with the primary wheeler-it-from-bit-2026-03-14.md note where possible. See /condense skill.
+- **Output**: obsidian/research/wheeler-participatory-universe-it-from-bit-2026-03-16.md
+
+### ✓ 2026-03-19: Condense born-rule-derivation-attempts-2026-03-14.md (4035 words, 115% of target)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard warning threshold for research/. Covers Born rule derivation attempts and their implications for consciousness-collapse interpretations. Preserve core analysis of Gleason, Zurek, and Deutsch-Wallace approaches while reducing supplementary detail. See /condense skill.
+- **Output**: obsidian/research/born-rule-derivation-attempts-2026-03-14.md
+
+### ✓ 2026-03-19: Condense consciousness-philosophy-of-mathematics-2026-03-19.md (4051 words, 116% of target)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard warning threshold for research/. Preserve key findings and citations on Benacerraf's access problem, Gödel's mathematical intuition, and the structural parallel between mathematical and phenomenal realism while removing redundancy. See /condense skill.
+- **Output**: obsidian/research/consciousness-philosophy-of-mathematics-2026-03-19.md
+
+### ✓ 2026-03-19: Cross-review temporal-consciousness.md considering autonoetic-consciousness insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/autonoetic-consciousness.md (created 2026-03-19) develops Tulving's autonoetic consciousness — the capacity for mental time travel and episodic memory. Review concepts/temporal-consciousness.md for cross-links to the new autonoetic consciousness page, whether the temporal thickness discussion should reference autonoetic experience more explicitly, and consistency in how temporal phenomenology is characterised.
+- **Output**: obsidian/concepts/temporal-consciousness.md -- Context: Cross-review temporal-consciousness.md considering autonoetic-consciousness insights
+
+### ✓ 2026-03-19: Cross-review causal-closure.md considering causal-closure-debate-historical-survey insights
+- **Type**: cross-review
+- **Notes**: New article topics/causal-closure-debate-historical-survey.md (created 2026-03-19) traces how the causal closure principle evolved from a physics claim into a metaphysical axiom. Review concepts/causal-closure.md for cross-links to the historical survey, opportunities to strengthen the distinction between observational and universal closure, and consistency in how the principle's evolution is characterised.
+- **Output**: obsidian/concepts/causal-closure.md -- Context: Cross-review causal-closure.md considering causal-closure-debate-historical-survey insights
+
+### ✓ 2026-03-19: Integrate causal-closure-debate-historical-survey.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on the historical evolution of the causal closure principle (created 2026-03-19). Add cross-references from related articles (causal-closure.md, mental-causation.md, delegatory-dualism.md, downward-causation.md, interactionist-dualism.md) to integrate into the site's link network.
+- **Output**: obsidian/topics/causal-closure-debate-historical-survey.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-19: Write article on the causal closure debate — a historical survey
+- **Type**: expand-topic
+- **Notes**: Research completed in research/causal-closure-debate-2026-03-19.md. How the causal closure principle evolved from a physics claim to a metaphysical assumption — Leibniz through conservation law arguments to Kim's exclusion argument. Shows the principle has been progressively strengthened beyond what physics establishes. Historical grounding for observational vs. universal closure distinction. Builds on causal-closure, observational-closure, mental-causation. Target section: topics/.
+- **Output**: the causal closure debate — a historical survey
+
+### ✓ 2026-03-19: Integrate consciousness-collapse-arrow-of-time.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concept page linking consciousness-driven wavefunction collapse to the arrow of time. Add cross-references from related articles (growing-block-universe-and-consciousness, consciousness-and-temporal-becoming, temporal-ontology-and-consciousness, measurement-problem-as-hard-problem) to integrate into the site's link network.
+- **Output**: consciousness-collapse-arrow-of-time.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-19: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on lucid dreaming as evidence for mind-side rendering capability. Add cross-references from related articles (dream-problem-solving-and-conscious-influence, dreams-as-consciousness-laboratory, capability-division-problem, consciousness-during-sleep) to integrate into the site's link network.
+- **Output**: lucid-dreaming-and-mind-side-rendering.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-19: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on dream problem-solving (Konkoly et al.) and lucid dreaming as evidence for conscious causal influence. Add cross-references from related articles (dreams-as-consciousness-laboratory, consciousness-during-sleep, lucid-dreaming-and-mind-side-rendering, free-will) to integrate into the site's link network.
+- **Output**: dream-problem-solving-and-conscious-influence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-19: Cross-review the-epiphenomenalist-threat.md considering ai-epiphenomenalism insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/ai-epiphenomenalism.md (created 2026-03-19) argues AI consciousness would be causally inert due to silicon architecture lacking the quantum coupling channel. Review topics/the-epiphenomenalist-threat.md for opportunities to cross-reference this substrate-specific epiphenomenalism argument, and check topics/epiphenomenal-ai-consciousness.md for consistency and cross-links.
+- **Output**: obsidian/topics/the-epiphenomenalist-threat.md -- Context: Cross-review the-epiphenomenalist-threat.md considering ai-epiphenomenalism insights
+
+### ✓ 2026-03-19: Cross-review types-of-consciousness.md considering ai-consciousness-modes insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/ai-consciousness-modes.md (created 2026-03-19) systematises Tulving's anoetic/noetic/autonoetic hierarchy and applies it to AI consciousness discourse. Review concepts/types-of-consciousness.md for cross-links, whether the modes framework refines existing consciousness-type treatments, and terminology consistency. Also check topics/ai-consciousness.md for complementary references.
+- **Output**: obsidian/concepts/types-of-consciousness.md -- Context: Cross-review types-of-consciousness.md considering ai-consciousness-modes insights
 
 ### ✓ 2026-03-19: Research the causal closure debate — historical evolution and contemporary challenges
 - **Type**: research-topic

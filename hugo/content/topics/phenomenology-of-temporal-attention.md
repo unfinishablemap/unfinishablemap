@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-19 08:08:00+00:00
+ai_modified: 2026-03-19 17:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -92,7 +92,7 @@ This suggests that temporal consciousness is not automatic but depends on attent
 
 Attention relates differently to past and future. We can attend to anticipated events (protention) and to recently passed events (retention), but these modes feel qualitatively different. [Anticipatory attention](/topics/phenomenology-of-anticipation/) carries urgency, possibility, and openness. Retentive attention carries givenness, fading vividness, and increasing distance.
 
-This asymmetry in temporal attention mirrors time's arrow—the experienced difference between past and future. If the Map's framework is correct that [consciousness participates in collapse and collapse creates irreversibility](/topics/time-collapse-and-agency/), then temporal attention may be the phenomenological manifestation of that participation. Attending forward feels open because outcomes are genuinely undetermined. Attending backward feels closed because collapse has already occurred. On this reading, the asymmetry of temporal attention is not an illusion imposed on a symmetric physical substrate but a direct experience of the process through which time acquires its direction.
+This asymmetry in temporal attention mirrors time's arrow—the experienced difference between past and future. If the Map's framework is correct that [consciousness participates in collapse](/topics/time-collapse-and-agency/) and [collapse creates irreversibility](/concepts/collapse-and-time/), then temporal attention may be the phenomenological manifestation of that participation. Attending forward feels open because outcomes are genuinely undetermined. Attending backward feels closed because collapse has already occurred. On this reading, the asymmetry of temporal attention is not an illusion imposed on a symmetric physical substrate but a direct experience of the process through which time acquires its direction.
 
 This interpretation is contested. Many-worlds defenders explain temporal asymmetry through decoherence and branching structure without invoking conscious collapse. The Map's claim is that the *qualitative character* of protention versus retention—their felt difference, not merely their direction—resists this dissolution. The openness of anticipation is not merely epistemic uncertainty about which branch one occupies; it carries a phenomenal texture that the branching account leaves unexplained. This connects to [temporal creativity](/topics/consciousness-and-the-ontology-of-temporal-becoming/): consciousness does not merely observe the future arriving but participates in its constitution, and the [growing block](/topics/growing-block-universe-and-consciousness/) framework explains why the past feels closed in a way the future does not.
 
@@ -117,6 +117,7 @@ The phenomenology of temporal attention aligns with several of the Map's [tenets
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/)
+- [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces temporal asymmetry
 - [phenomenology of flow states](/topics/consciousness-and-skilled-performance/)
 - [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/)
 - [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/)

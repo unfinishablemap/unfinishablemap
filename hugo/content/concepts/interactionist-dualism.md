@@ -226,6 +226,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Comprehensive treatment of major objections
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why the conservation objection fails
 - [causal-closure](/concepts/causal-closure/) — The closure objection and responses
+- [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/) — How the closure principle evolved from Elisabeth through Leibniz to Kim
 
 **Epistemology:**
 - [epistemology-of-mechanism-at-the-consciousness-matter-interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/) — What kind of knowledge about the interface is epistemically available

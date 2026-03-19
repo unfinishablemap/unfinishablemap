@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-19 14:43:00+00:00
+ai_modified: 2026-03-19 18:34:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Head-to-head evaluation of Orch OR, Stapp's Zeno model, Fisher's nu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-22 10:11:00+00:00
+last_deep_review: 2026-03-19 18:34:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -40,7 +40,7 @@ topics:
 - '[[topics/free-will]]'
 ---
 
-Four serious proposals compete to explain how consciousness interfaces with quantum mechanics: Penrose-Hameroff's Orchestrated Objective Reduction, Stapp's quantum Zeno model, Fisher's nuclear spin hypothesis, and spontaneous collapse hybrids (notably Chalmers and McQueen's CSL-IIT). Each claims to solve the same puzzle — how a non-physical mind influences physical outcomes without violating conservation laws — but they locate the interface at different scales, invoke different physics, and carry different empirical and philosophical commitments. The [hard problem](/topics/hard-problem-of-consciousness/) constrains what counts as adequate: any mechanism must eventually explain not just *that* consciousness plays a causal role but *why* that role has the phenomenal character it does. The Unfinishable Map does not commit to any single mechanism, but evaluating them against shared criteria reveals which approaches best fit the Map's [tenets](/tenets/) and which face the steepest obstacles. This comparison assumes the Map's dualist premise — that consciousness is irreducible to physical processes — which not all of these proposals' originators share.
+Four serious proposals compete to explain how consciousness interfaces with quantum mechanics: Penrose-Hameroff's Orchestrated Objective Reduction, Stapp's quantum Zeno model, Fisher's nuclear spin hypothesis, and spontaneous collapse hybrids (notably Chalmers and McQueen's CSL-IIT). Each claims to solve the same puzzle — how a non-physical mind influences physical outcomes without violating [conservation laws](/concepts/conservation-laws-and-mental-causation/) — but they locate the interface at different scales, invoke different physics, and carry different commitments. The [hard problem](/topics/hard-problem-of-consciousness/) constrains what counts as adequate: any mechanism must eventually explain not just *that* consciousness plays a causal role but *why* that role has the phenomenal character it does. The Unfinishable Map does not commit to any single mechanism, but evaluating them against shared criteria reveals which approaches best fit the Map's [tenets](/tenets/) and which face the steepest obstacles. This comparison assumes the Map's dualist premise — that consciousness is irreducible to physical processes — a premise not all of these proposals' originators share.
 
 ## Evaluation Criteria
 
@@ -61,13 +61,13 @@ This comparison evaluates each mechanism along two independent dimensions — sc
 
 Penrose and Hameroff propose that tubulin proteins in microtubules sustain quantum superpositions that collapse when gravitational self-energy reaches a threshold (t = ħ/E_G). Each collapse event constitutes a discrete moment of conscious experience. The "orchestration" comes from entanglement across microtubule networks, coordinated by synaptic inputs and gap junctions.
 
-**Decoherence vulnerability: High.** Orch OR requires sustained superposition across many tubulin dimers until gravitational threshold is reached. Even revised coherence estimates (10⁻⁵ to 10⁻⁴ seconds per Hagan et al. 2002) leave a gap of over three orders of magnitude below neural decision timescales (~300ms). The mechanism cannot sidestep this by invoking discrete events — it fundamentally requires continuous quantum computation.
+**Decoherence vulnerability: High.** Orch OR requires sustained superposition across many tubulin dimers until gravitational threshold is reached. Even revised coherence estimates (10⁻⁵ to 10⁻⁴ seconds per Hagan et al. 2002) leave a gap of over three orders of magnitude below neural decision timescales (~300ms). The mechanism fundamentally requires continuous quantum computation and cannot sidestep this by invoking discrete events.
 
-**Phenomenological fit: Partial.** Orch OR maps each collapse to a "moment of consciousness," which loosely matches the temporal grain of experience. But it struggles to explain why attention feels effortful — gravitational collapse is automatic once threshold is reached, leaving no obvious role for felt effort. The mechanism explains *that* consciousness occurs but not *why* it has the phenomenological character it does.
+**Phenomenological fit: Partial.** Orch OR maps each collapse to a "moment of consciousness," loosely matching the temporal grain of experience. But gravitational collapse is automatic once threshold is reached, leaving no obvious role for felt effort. The mechanism explains *that* consciousness occurs but not *why* it has the phenomenological character it does.
 
 **Tenet alignment: Mixed.** Orch OR supports [Dualism](/tenets/#dualism) (consciousness irreducible to classical computation, via Penrose's Gödelian argument) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) (collapse as causal mechanism). It supports [No Many Worlds](/tenets/#no-many-worlds) (objective collapse). However, it sits uneasily with [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction). The tenet requires the *smallest possible* non-physical influence — but Orch OR demands macroscopic quantum coherence across microtubule networks. Penrose's suggestion that each OR event carries proto-conscious experience implies a form of panpsychism the Map does not endorse.
 
-**Empirical status: Growing but contested.** The epothilone B study (Khan et al. 2024; microtubule-stabilizing drug delays anaesthesia) and room-temperature tryptophan superradiance in microtubule architectures (Babcock et al. 2024) provide circumstantial support. Wiest (2025) reports a 613 THz quantum oscillation signature abolished by anaesthetics. These findings establish microtubule relevance to consciousness but do not confirm the specific Orch OR mechanism — microtubules might matter for classical or other quantum reasons.
+**Empirical status: Growing but contested.** The epothilone B study (Khan et al. 2024; microtubule-stabilizing drug delays [anaesthesia](/topics/anaesthesia-and-the-consciousness-interface/)) and room-temperature tryptophan superradiance in microtubule architectures (Babcock et al. 2024) provide circumstantial support. Wiest (2025) reports a 613 THz quantum oscillation signature abolished by anaesthetics. These findings establish microtubule relevance to consciousness but do not confirm the specific Orch OR mechanism — microtubules might matter for classical or other quantum reasons.
 
 **Falsifiability: Moderate.** Orch OR predicts measurable quantum coherence in microtubules at specific timescales and gravitational collapse at specific mass thresholds. Germanium detector experiments (Donadi et al. 2020) have already ruled out the simplest Diósi-Penrose model. The parameter space is shrinking — a virtue for falsifiability, but a warning for the theory. See [Penrose Gravity-Induced Collapse and Empirical Prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) for the full experimental landscape, including levitated nanoparticle interferometry, optomechanical tests, and the proposed MAQRO space mission.
 
@@ -75,7 +75,7 @@ Penrose and Hameroff propose that tubulin proteins in microtubules sustain quant
 
 Henry Stapp proposes that consciousness operates through orthodox quantum mechanics. Multiple neural firing patterns exist in superposition; mental effort acts as repeated quantum observation, exploiting the Zeno effect to hold desired patterns stable. No new physics is required — the mechanism uses standard von Neumann quantum mechanics with the observer-system boundary placed within the brain.
 
-**Decoherence vulnerability: Low.** This is the Zeno model's structural advantage. It requires only discrete observation events, not sustained coherence. Each observation is effectively instantaneous; the accumulated effect of repeated observations over a ~300ms attentional window biases which neural pattern actualises. Stapp estimates the required observation rate at roughly 1000 observations per 300ms (Stapp 2007), but this figure is not derived from independent physical constraints — it is the rate needed for Zeno freezing to be effective, essentially a parameter chosen to make the model work. Without independent justification for why consciousness would observe at this rate rather than faster or slower, the claim remains a modelling assumption rather than a prediction. Decoherence between observations doesn't invalidate the mechanism in principle — it simply resets the state, and the next observation re-engages — though Georgiev and Glazebrook's Monte Carlo critique (2015) questions whether this re-engagement remains effective at biological decoherence rates. The 2024 demonstration that biological systems use the quantum Zeno effect (cryptochrome radical pairs, Denton et al.) provides precedent for Zeno dynamics in biology, though in a system (magnetoreception) quite different from neural decision-making.
+**Decoherence vulnerability: Low.** The Zeno model's structural advantage is requiring only discrete observation events, not sustained coherence. Each observation is effectively instantaneous; repeated observations over a ~300ms attentional window bias which neural pattern actualises. Stapp estimates roughly 1000 observations per 300ms (Stapp 2007), but this figure is not derived from independent physical constraints — it is the rate needed for Zeno freezing to be effective, a modelling assumption rather than a prediction. Decoherence between observations doesn't invalidate the mechanism in principle — it resets the state, and the next observation re-engages — though Georgiev and Glazebrook's Monte Carlo critique (2015) questions whether re-engagement remains effective at biological decoherence rates. The 2024 demonstration that biological systems use the quantum Zeno effect (cryptochrome radical pairs, Denton et al.) provides precedent for Zeno dynamics in biology, though in a system (magnetoreception) quite different from neural decision-making.
 
 **Phenomenological fit: Strong.** The model predicts exactly what attention feels like: sustained effort, continuous re-engagement, fatigue from prolonged concentration. William James observed that "sustained voluntary attention is a repetition of successive efforts" — precisely the phenomenology the Zeno mechanism predicts. The willed/automatic distinction maps naturally: willed attention requires conscious observation (high Zeno rate), while automatic processes proceed without it. Schwartz's neuroplasticity findings — OCD patients reshaping brain circuits through directed mental effort — provide empirical support for the phenomenological prediction.
 
@@ -83,7 +83,7 @@ Henry Stapp proposes that consciousness operates through orthodox quantum mechan
 
 **Empirical status: Indirect but consistent.** No experiment has directly demonstrated the Zeno mechanism in neural tissue. However, evidence consistent with the model accumulates from multiple directions: biological Zeno precedent (cryptochrome, though for magnetoreception rather than consciousness), neural signatures distinguishing willed from instructed attention (frontal theta, bidirectional frontoparietal coherence), and neuroplasticity from directed effort. Each line of evidence is also consistent with classical explanations — the convergence is suggestive, not confirmatory. Georgiev and Glazebrook's Monte Carlo critique (2015) questions whether Zeno remains robust beyond brain decoherence timescales unless consciousness acts globally — an open question.
 
-**Falsifiability: Moderate.** The model predicts that willed and instructed attention show distinct neural signatures (confirmed), that effort phenomenology tracks cognitive difficulty (confirmed), and that neuroplasticity requires conscious engagement (supported but not definitive). However, these predictions are equally consistent with classical neuroscience — standard attentional models also predict distinct willed/instructed signatures and effort-difficulty correlation without invoking quantum mechanics. The model currently lacks predictions that would distinguish Zeno-mediated attention from classical attentional mechanisms. If the willed/instructed distinction proved artifactual, or if neuroplasticity occurred equally under anaesthesia, the model would face serious difficulty — but these tests would challenge classical attention theories equally. A genuinely discriminating test would need to detect the specific quantum signature of repeated rapid observations, which current technology cannot achieve.
+**Falsifiability: Moderate.** The model predicts distinct willed/instructed neural signatures (confirmed), effort-difficulty phenomenological correlation (confirmed), and neuroplasticity requiring conscious engagement (supported but not definitive). However, these predictions are equally consistent with classical neuroscience — standard attentional models predict the same without invoking quantum mechanics. The model currently lacks predictions distinguishing Zeno-mediated from classical attention. If the willed/instructed distinction proved artifactual, or neuroplasticity occurred equally under anaesthesia, the model would face serious difficulty — but so would classical attention theories. A genuinely discriminating test would need to detect the specific quantum signature of repeated rapid observations, which current technology cannot achieve.
 
 ## Fisher's Nuclear Spin Hypothesis: Posner Molecule Entanglement
 
@@ -140,7 +140,7 @@ Three patterns emerge from the scientific evaluation; a fourth emerges when tene
 
 **The falsifiability gap.** None of the four mechanisms currently generates predictions that cleanly distinguish it from classical neuroscience. Orch OR's parameter space is shrinking, which is genuinely falsifiable — but the other proposals' confirmed predictions (attention signatures, effort-difficulty correlation) are equally consistent with non-quantum accounts. Fisher's proposal comes closest to unique predictions (lithium isotope effects, Posner molecule detection), though these test the physical substrate rather than the consciousness interface.
 
-**No single mechanism suffices.** Each proposal illuminates different aspects of the consciousness-quantum interface. Stapp explains the phenomenology of effort. Orch OR connects consciousness to spacetime structure. Fisher demonstrates that biological quantum effects can persist at relevant timescales. CSL hybrids solve the prebiotic problem and satisfy minimality. The Map's agnosticism about specific mechanisms reflects genuine uncertainty — but also the possibility that the full picture requires elements from multiple proposals.
+**No single mechanism suffices.** Each proposal illuminates different aspects of the consciousness-quantum interface: Stapp explains the phenomenology of effort; Orch OR connects consciousness to spacetime structure; Fisher demonstrates biological quantum persistence at relevant timescales; CSL hybrids solve the prebiotic problem. The Map's agnosticism reflects genuine uncertainty — and the possibility that the full picture requires elements from multiple proposals.
 
 ## Relation to Site Perspective
 
@@ -164,6 +164,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Decoherence and timing considerations for neural quantum effects
 - [neural-implementation-specifics](/topics/neural-implementation-specifics/) — Detailed evidence hierarchy for each proposed mechanism
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — How consciousness relates to quantum measurement
+- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) — Why collapse interpretations resist deriving the Born rule without consciousness
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — Why mechanism choice matters for libertarian free will
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — What collapsed before conscious observers
 - [coupling-modes](/concepts/coupling-modes/) — How consciousness might couple to quantum systems
@@ -190,18 +191,3 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness. *Neuroscience of Consciousness*, 2025(1), niaf011.
-
-<!-- AI REFINEMENT LOG - 2026-03-19
-Changes made:
-- Separated evaluation criteria into scientific (decoherence, phenomenology, empirical, falsifiability) and philosophical (tenet alignment) dimensions with explicit framing
-- Downgraded Stapp falsifiability from "Strong" to "Moderate" — predictions are equally consistent with classical neuroscience
-- Added critical scrutiny to Stapp's ~1000 observations claim — identified as modelling assumption, not independently derived
-- Added "falsifiability gap" subsection to What the Comparison Reveals
-- Split comparative summary table into scientific and philosophical evaluations
-- Added explicit disclaimer in Relation to Site Perspective that tenet compatibility ≠ scientific verdict
-
-Based on pessimistic review (pessimistic-2026-03-19-afternoon.md).
-Key improvements: intellectual honesty about the separation between scientific merit and philosophical preference.
-
-This log should be removed after human review.
--->

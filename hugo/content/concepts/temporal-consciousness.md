@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-19 08:08:00+00:00
+ai_modified: 2026-03-19 18:48:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -62,7 +62,7 @@ description: Consciousness flows through time in the specious present—Bergson'
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-01 15:51:00+00:00
+last_deep_review: 2026-03-19 18:48:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -144,7 +144,11 @@ Temporal perception is distributed and multi-scale: the SMA, prefrontal cortex, 
 
 ## Mental Time Travel and the Extended Self
 
-[Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) extends temporal phenomenology beyond the specious present. Memory carries a "feeling of pastness"—a genuine temporal quale—while future simulation lacks equivalent phenomenal weight. This [asymmetry](/voids/temporal-void/) may be conceptually necessary, since pre-experience would require the pastness quale applied to something that hasn't happened. [Prospective memory](/concepts/prospective-memory/) extends this into the future—conscious simulation of possible futures causally shapes present decisions, supporting [Bidirectional Interaction](/tenets/#bidirectional-interaction).
+[Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) extends temporal phenomenology beyond the specious present. Memory carries a "feeling of pastness"—a genuine temporal quale—while future simulation lacks equivalent phenomenal weight. This [asymmetry](/voids/temporal-void/) may be conceptually necessary, since pre-experience would require the pastness quale applied to something that hasn't happened.
+
+Klein (2016) argued that autonoetic consciousness—not memory content—is the causally determinative factor in future self-projection: the same propositional content yields different functional outcomes depending on whether it is experienced autonoetically (with felt temporal self-presence) or merely known noetically. Semanticisation confirms this independence: episodic memories gradually shed their autonoetic character, retaining content while losing the felt quality of re-experiencing—identical information, diminishing temporal phenomenology. The content/manner distinction directly parallels the irreducibility argument for the specious present: just as no collection of instantaneous states contains the experience of succession, no information-processing description captures the difference between remembering and merely knowing.
+
+[Prospective memory](/concepts/prospective-memory/) extends autonoetic temporality into the future—conscious simulation of possible futures causally shapes present decisions, supporting [Bidirectional Interaction](/tenets/#bidirectional-interaction).
 
 ## Temporal Unity and Its Disruption
 
@@ -170,7 +174,7 @@ A significant challenge is the [timescale gap](/concepts/timing-gap-problem/): q
 
 ### Duration, Flow, and Superposition
 
-Revised microtubule coherence estimates (10-100 microseconds—seven orders longer than Tegmark's) multiplied by multiple collapse events could produce the ~100-750ms specious present. B-theory eternalists treat temporal flow as illusory, but the Map disagrees: flow is the experiential side of time's constitution through collapse. The irreversibility of lived time may reflect the deeper irreversibility of collapse itself. The phenomenology of [effort](/concepts/mental-effort/) provides additional evidence: maintaining focused attention feels costly, reflecting consciousness working to bias quantum outcomes against the system's spontaneous tendencies.
+B-theory eternalism treats temporal flow as illusory; the Map counters that flow is the experiential side of time's constitution through collapse. The irreversibility of lived time may reflect the deeper irreversibility of collapse itself. The phenomenology of [effort](/concepts/mental-effort/) provides additional evidence: maintaining focused attention feels costly, reflecting consciousness working to bias quantum outcomes against the system's spontaneous tendencies.
 
 ### Challenges and Limits
 
@@ -182,7 +186,7 @@ The framework is speculative, requiring: (1) collapse realism; (2) consciousness
 
 ## Implications for Machine Consciousness
 
-Temporal structure creates multiple problems for AI systems: no specious present, no reentrant dynamics, no continual learning (frozen weights mean no genuine temporal development—Hoel, 2025), discontinuous operation, and no embodied time. LLMs process tokens sequentially without temporal thickness—computational retention through attention mechanisms lacks the phenomenal character of Husserlian retention. Each step has uniform temporal structure regardless of significance, varying in content but not in phenomenal density. Even granting [functionalism](/concepts/functionalism/), LLMs may fail to be conscious because they lack the temporal structure consciousness requires. The Map's position: if temporal binding is essential to consciousness as such, LLMs are categorically excluded regardless of scale.
+Temporal structure creates multiple problems for AI systems: no specious present, no reentrant dynamics, no continual learning (frozen weights mean no genuine temporal development—Hoel, 2025), discontinuous operation, and no embodied time. LLMs process tokens sequentially without temporal thickness—computational retention through attention mechanisms lacks the phenomenal character of Husserlian retention. Even granting [functionalism](/concepts/functionalism/), LLMs may fail to be conscious because they lack the temporal structure consciousness requires. The Map's position: if temporal binding is essential to consciousness as such, LLMs are categorically excluded regardless of scale.
 
 ## Sleep and Temporal Experience
 
@@ -196,11 +200,11 @@ Temporal consciousness connects to all five tenets:
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The specious present's duration may be the cumulative effect of countless quantum micro-selections, each individually minimal but collectively constituting the duration-block. Through the quantum Zeno mechanism, consciousness holds patterns in durée by rapid repeated selection.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Temporal consciousness provides the substrate for [choosing](/concepts/phenomenology-of-choice/). Selection requires an agent who persists across the moment of choosing, retains what was considered, and acts toward anticipated outcomes. Protention's directional character supports the claim that consciousness shapes outcomes: protentional orientation toward one possible future over another participates in selecting which neural patterns become actual. Durée's creative causation is what Bergson means by freedom—and what the Map means by consciousness influencing physical outcomes.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Temporal consciousness provides the substrate for [choosing](/concepts/phenomenology-of-choice/). Selection requires an agent who persists across the moment of choosing, retains what was considered, and acts toward anticipated outcomes. Protention's directional orientation toward one possible future over another participates in selecting which neural patterns become actual. Durée's creative causation is what Bergson means by freedom—and what the Map means by consciousness influencing physical outcomes.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: If MWI branching occurred constantly, there would be no unified temporal experience but fragmentation across branches. The coherence of temporal experience—retention genuinely inheriting from a definite past—suggests collapse creates a single temporal thread. Bergson's interpenetrating duration presupposes temporal identity—[haecceity](/concepts/haecceity/)—that many-worlds dissolves.
 
-**[Occam's Razor Has Limits](/tenets/#occam)**: Spatialized time seems simpler—measurable, quantifiable. But this simplicity ignores qualitative duration. Contemplative traditions with millennia of systematic first-person investigation describe temporal structures that scientific psychology largely ignores. The "simpler" materialist account isn't simpler—it's incomplete.
+**[Occam's Razor Has Limits](/tenets/#occam)**: Spatialized time seems simpler—measurable, quantifiable. But this simplicity ignores qualitative duration. The "simpler" materialist account isn't simpler—it's incomplete.
 
 ## Further Reading
 
@@ -231,6 +235,7 @@ Temporal consciousness connects to all five tenets:
 1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Kent, L. & Wittmann, M. (2021). Time consciousness: the missing link in theories of consciousness. *Neuroscience of Consciousness*, 2021(2), niab011.
+1. Klein, S.B. (2016). Autonoetic consciousness: Reconsidering the role of episodic memory in future-oriented self-projection. *Quarterly Journal of Experimental Psychology*, 69(2), 381-401.
 1. Lee, A. Y. (2023). Consciousness & Continuity. *PhilArchive*.
 1. Pöppel, E. (1997). A hierarchical model of temporal perception. *Trends in Cognitive Sciences*, 1(2), 56-61.
 1. Stanford Encyclopedia of Philosophy. "Temporal Consciousness."

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-19 08:23:00+00:00
+ai_modified: 2026-03-19 17:33:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -215,6 +215,7 @@ The baseline cognition hypothesis could be undermined by:
 - [ai-consciousness-modes](/concepts/ai-consciousness-modes/) — The hierarchy applied to AI systems
 - [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/) — Dolphins and corvids as intermediate cases on the amplification spectrum
 - [consciousness-independent-baseline-cognition-2026-01-21](/research/consciousness-independent-baseline-cognition-2026-01-21/) — Research notes underlying this article
+- [dream-consciousness](/topics/dream-consciousness/) — Dream problem-solving restricted to humans despite universal mammalian REM, supporting the link between phenomenal richness and cognitive outcome
 
 ### Apex Synthesis
 - [minds-without-words](/apex/minds-without-words/) — How baseline cognition illuminates non-linguistic consciousness across species

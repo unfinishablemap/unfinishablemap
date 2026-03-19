@@ -204,6 +204,7 @@ Mental causation, as defended here, is falsifiable:
 - [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/) — The cumulative case against epiphenomenalism
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why conservation laws don't block mental causation
 - [causal-closure](/concepts/causal-closure/) — The principle mental causation challenges
+- [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/) — How the causal closure principle evolved from Elisabeth's challenge through Kim's exclusion argument
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework accommodating mental causation
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view denying mental causation
 - [emergence](/concepts/emergence/) — Mental causation as strong emergence with mechanism
