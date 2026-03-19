@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Address argumentative gaps in ai-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the understanding/pattern-completion distinction (core to the article's skepticism) is never independently grounded — it relies on the intuitions it's defending. Also: haecceity argument asserted without support, "no reentrant dynamics" claim needs qualification re: attention mechanisms, and continual learning section is disproportionately long vs. compressed "Other Challenges." See pessimistic-2026-03-19-evening.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-19
+
 ### P3: Deep review meta-epistemology-of-limits.md
 - **Type**: deep-review
 - **Status**: pending
