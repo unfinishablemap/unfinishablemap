@@ -4,7 +4,7 @@ description: "Hindu, Buddhist, and Taoist traditions converge with dualism on co
 created: 2026-01-09
 modified: 2026-02-06
 human_modified: null
-ai_modified: 2026-03-19T11:40:00+00:00
+ai_modified: 2026-03-19T13:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,18 +28,25 @@ concepts:
   - "[[panpsychism]]"
   - "[[mental-causation]]"
   - "[[interactionist-dualism]]"
+  - "[[samkhya-three-way-distinction]]"
+  - "[[african-philosophy-of-consciousness]]"
+  - "[[islamic-sufi-philosophy-of-consciousness]]"
+  - "[[cross-cultural-convergence-on-mental-causation]]"
 related_articles:
   - "[[tenets]]"
   - "[[buddhist-perspectives-meaning-2026-01-06]]"
   - "[[contemplative-path]]"
   - "[[vertiginous-question]]"
   - "[[interaction-problem-across-traditions]]"
+  - "[[indian-philosophy-of-mind]]"
+  - "[[the-hard-problem-in-non-western-philosophy]]"
+  - "[[cross-cultural-phenomenology-of-agency]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-09
 last_curated: null
-last_deep_review: 2026-03-19T11:40:00+00:00
+last_deep_review: 2026-03-19T13:02:00+00:00
 coalesced_from:
   - "/topics/eastern-philosophy-consciousness/"
   - "/topics/eastern-metaphysics-integration/"
@@ -52,7 +59,7 @@ This article examines three questions: whether Eastern *frameworks* are compatib
 
 ## Advaita Vedānta: Non-Dual Consciousness
 
-Advaita Vedānta (Shankara, 8th century CE) holds that ultimate reality is Brahman—pure consciousness without attributes. Individual identity is superimposition (*adhyāsa*) on undifferentiated consciousness. The *sakshi* (witness-self) discussed in [[witness-consciousness]] is central: unchanging awareness that observes all mental contents, self-luminous (*svayam-prakāsha*), identical with Brahman.
+Advaita Vedānta (Shankara, 8th century CE) holds that ultimate reality is Brahman—pure consciousness without attributes. Individual identity is superimposition (*adhyāsa*) on undifferentiated consciousness. The *sakshi* (witness-self) discussed in [[witness-consciousness]] is central: unchanging awareness that observes all mental contents, self-luminous (*svayam-prakāsha*), identical with Brahman. For broader treatment of Indian schools including Samkhya and Nyaya alongside Vedānta, see [[indian-philosophy-of-mind]].
 
 **Alignment**: Advaita takes consciousness as fundamental—not produced by matter—aligning with the Dualism tenet. The *sakshi* provides the clearest bridge: the witness observes without being observed, the condition for there being objects of experience at all. This subject-that-cannot-be-reduced supports dualism.
 
@@ -80,7 +87,7 @@ Both remain compatible with the Map. Madhyamaka denies inherent existence, not e
 
 ### Buddhism and the Hard Problem
 
-Buddhism sidesteps the [[hard-problem-of-consciousness|hard problem]] by starting from experience itself rather than from objective physical description. The question becomes "what is the structure of experience?" rather than "how does matter produce consciousness?" Buddhism hasn't solved the hard problem—but it reveals that the problem's urgency depends on assuming physicalism.
+Buddhism sidesteps the [[hard-problem-of-consciousness|hard problem]] by starting from experience itself rather than from objective physical description. The question becomes "what is the structure of experience?" rather than "how does matter produce consciousness?" Buddhism hasn't solved the hard problem—but it reveals that the problem's urgency depends on assuming physicalism. For how other non-Western traditions—including Sāṃkhya, Islamic, and African philosophy—engage the hard problem independently, see [[the-hard-problem-in-non-western-philosophy]].
 
 ## Taoism: Process Without Substance
 
@@ -92,7 +99,7 @@ For the Map, Taoism contributes in three ways. First, *wu wei* addresses the [[m
 
 Despite different starting points, all three traditions converge on claims that support the Map's framework:
 
-**Consciousness is real and significant.** None is eliminativist. Buddhism denies the permanent self *owning* consciousness, not consciousness itself. That traditions investigating consciousness for millennia through systematic practice all conclude it is real supports the Dualism tenet's rejection of eliminative materialism.
+**Consciousness is real and significant.** None is eliminativist. Buddhism denies the permanent self *owning* consciousness, not consciousness itself. That traditions investigating consciousness for millennia through systematic practice all conclude it is real supports the Dualism tenet's rejection of eliminative materialism. This convergence extends beyond the three traditions treated here: [[african-philosophy-of-consciousness|African]] and [[islamic-sufi-philosophy-of-consciousness|Islamic]] philosophical traditions independently reach similar conclusions, strengthening the [[cross-cultural-convergence-on-mental-causation|cross-cultural convergence]] on consciousness as irreducible.
 
 **Contemplative methods access what theory cannot.** Cross-traditional convergence appears on the impermanence of mental contents, witnessing awareness distinct from what it observes, and cessation states. The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] maps three convergence zones (self-dissolution, contentless awareness, subject-object collapse) alongside three axes of genuine divergence (witness status, affective tone, cessation versus plenitude). That independent traditions converge on structural findings while diverging on interpretation suggests they're discovering something real—though Thompson (2020) cautions that apparent agreement may mask significant experiential differences.
 
@@ -164,7 +171,7 @@ Eastern philosophy illuminates all five of the Map's [[tenets]], while raising p
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Buddhist *khaṇika* momentariness reveals consciousness operating at finer timescales than ordinary awareness accesses. Whether this connects to quantum processes remains speculative. Dream yoga's demonstration that consciousness persists without sensory constraint supports filter theory.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Karma doctrine implies [[mental-causation]]—intentions produce real consequences. Dream yoga goes further: trained dreamers exercise volitional control over dream content. Yogācāra's storehouse consciousness provides causal continuity without permanent substance. As the [[interaction-problem-across-traditions|cross-traditional analysis]] shows, these Eastern approaches to mind-body causation belong to a family of "non-contact" and "processual" solutions that independently converge on the insight that consciousness shapes outcomes without injecting force—an insight the Map's quantum selection framework inherits.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Karma doctrine implies [[mental-causation]]—intentions produce real consequences, a conclusion reached independently across Indian, African, and Western traditions (see [[cross-cultural-convergence-on-mental-causation]]). Dream yoga goes further: trained dreamers exercise volitional control over dream content. Yogācāra's storehouse consciousness provides causal continuity without permanent substance. As the [[interaction-problem-across-traditions|cross-traditional analysis]] shows, these Eastern approaches to mind-body causation belong to a family of "non-contact" and "processual" solutions that independently converge on the insight that consciousness shapes outcomes without injecting force—an insight the Map's quantum selection framework inherits.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Eastern traditions uniformly emphasize *this* life, *this* moment, *this* path. Process haecceitism supports this: even without a permanent soul, there is a fact about which experiential process is mine.
 
@@ -185,6 +192,13 @@ Eastern philosophy illuminates all five of the Map's [[tenets]], while raising p
 - [[contemplative-practice-as-philosophical-evidence]] — First-person data as empirical test
 - [[contemplative-path]] — Apex article synthesizing contemplative traditions
 - [[interaction-problem-across-traditions]] — How five structural solution types recur across Eastern and Western traditions
+- [[indian-philosophy-of-mind]] — Samkhya, Nyaya, and Vedanta: India's sophisticated philosophies of mind
+- [[the-hard-problem-in-non-western-philosophy]] — How Indian, Islamic, African, and Japanese traditions independently engaged the hard problem
+- [[cross-cultural-convergence-on-mental-causation]] — Independent traditions converge on consciousness as causally efficacious
+- [[cross-cultural-phenomenology-of-agency]] — How cultural frameworks shape the felt experience of willing and acting
+- [[african-philosophy-of-consciousness]] — Relational and communal approaches to consciousness from African traditions
+- [[islamic-sufi-philosophy-of-consciousness]] — From Avicenna's Flying Man to Sufi phenomenology of fana
+- [[samkhya-three-way-distinction]] — Samkhya's radical separation of consciousness, mind, and matter
 - [[mental-causation]] — The philosophical case for consciousness as causally efficacious
 - [[process-philosophy]] — Whitehead's framework and Buddhist parallels
 - [[self-and-consciousness]] — Minimal self vs. narrative self

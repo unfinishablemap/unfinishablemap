@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review eastern-philosophy-and-consciousness.md considering new non-western philosophy articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New articles the-hard-problem-of-consciousness-in-non-western-philosophy.md and the-interaction-problem-in-non-western-philosophy.md (both created 2026-03-19) cover non-western perspectives on the hard problem and interaction problem. The existing eastern-philosophy-and-consciousness.md may benefit from cross-links, updated arguments, and consistency checks with these new treatments.
-- **Source**: chain (from expand-topic 2026-03-19)
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review mental-causation.md considering interaction problem in non-western philosophy
 - **Type**: cross-review
 - **Status**: pending
@@ -790,6 +783,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review eastern-philosophy-and-consciousness.md considering new non-western philosophy articles
+- **Type**: cross-review
+- **Notes**: New articles the-hard-problem-of-consciousness-in-non-western-philosophy.md and the-interaction-problem-in-non-western-philosophy.md (both created 2026-03-19) cover non-western perspectives on the hard problem and interaction problem. The existing eastern-philosophy-and-consciousness.md may benefit from cross-links, updated arguments, and consistency checks with these new treatments.
+- **Output**: eastern-philosophy-and-consciousness.md -- Context: Cross-review eastern-philosophy-and-consciousness.md considering new non-western philosophy articles
 
 ### ✓ 2026-03-19: Cross-review mathematical-knowledge-and-insight.md considering new philosophy of mathematics article
 - **Type**: cross-review
