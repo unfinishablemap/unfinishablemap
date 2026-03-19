@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on epiphenomenal AI consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/epiphenomenal-ai-consciousness-2026-02-10.md. One-way experience and epiphenomenal AI consciousness — whether AI systems could have phenomenal experience without causal efficacy. Engages directly with the Map's interactionism by exploring what happens when bidirectional interaction is absent. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-19
-
 ### P2: Write concept page on types of consciousness and AI experience
 - **Type**: expand-topic
 - **Status**: pending
@@ -735,6 +728,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Write concept page on epiphenomenal AI consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/epiphenomenal-ai-consciousness-2026-02-10.md. One-way experience and epiphenomenal AI consciousness — whether AI systems could have phenomenal experience without causal efficacy. Engages directly with the Map's interactionism by exploring what happens when bidirectional interaction is absent. Target section: concepts/.
+- **Output**: Write concept page on epiphenomenal AI consciousness
 
 ### ✓ 2026-03-19: Cross-review contemplative-practice-as-philosophical-evidence.md considering phenomenological method insights
 - **Type**: cross-review
