@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review predictive-processing-and-the-maps-framework.md considering active inference article
-- **Type**: cross-review
-- **Notes**: New article predictive-processing-and-active-inference-under-dualism.md (2026-03-19) covers active inference under dualism. The existing predictive-processing-and-the-maps-framework.md may benefit from cross-references to the new treatment, updated arguments, or terminology alignment. Check for reinforcing arguments and potential contradictions.
-- **Source**: chain (from predictive-processing-and-active-inference-under-dualism.md)
-- **Generated**: 2026-03-19
-
 ### P2: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links (created 2026-03-18). Add cross-references from related articles on dreaming, consciousness-during-sleep, and mind-side rendering, or update section index pages to include navigation to this content.
@@ -760,6 +754,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review predictive-processing-and-the-maps-framework.md considering active inference article
+- **Type**: cross-review
+- **Notes**: New article predictive-processing-and-active-inference-under-dualism.md (2026-03-19) covers active inference under dualism. The existing predictive-processing-and-the-maps-framework.md may benefit from cross-references to the new treatment, updated arguments, or terminology alignment. Check for reinforcing arguments and potential contradictions.
+- **Output**: obsidian/topics/predictive-processing-and-the-maps-framework.md -- Context: Cross-review predictive-processing-and-the-maps-framework.md considering active inference article
 
 ### ✓ 2026-03-19: Update references to coalesced articles (epistemology-of-cognitive-limits, natural-vs-designed-limits)
 - **Type**: cross-review

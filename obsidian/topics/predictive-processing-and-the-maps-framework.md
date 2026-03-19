@@ -4,7 +4,7 @@ description: "How predictive processing—the brain's prediction-error-minimizin
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-18T21:51:00+00:00
+ai_modified: 2026-03-19T09:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,12 +26,13 @@ related_articles:
   - "[[attention-and-the-consciousness-interface]]"
   - "[[bandwidth-of-consciousness]]"
   - "[[placebo-effect-and-mental-causation]]"
+  - "[[predictive-processing-and-active-inference-under-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-03-18T21:51:00+00:00
+last_deep_review: 2026-03-19T09:58:00+00:00
 ---
 
 Predictive processing (PP) is one of the most influential computational frameworks in contemporary cognitive science. It describes the brain as a hierarchical prediction engine that minimises surprise by constantly generating and testing expectations against sensory input. The Unfinishable Map argues that PP provides an excellent account of the neural side of mind-body interaction — the computational machinery through which consciousness operates — while leaving entirely open the question of *why* this machinery is conscious at all. Far from threatening dualism, PP is exactly the kind of physical framework that interactionist dualism needs: a detailed account of brain architecture that nonetheless contains an unexplained gap where consciousness enters.
@@ -68,7 +69,7 @@ This integration preserves everything PP gets right about cognitive architecture
 
 ## Active Inference and Bidirectional Interaction
 
-PP's concept of active inference — organisms act on the world to bring sensory input in line with predictions, rather than just passively updating models — resonates with the Map's [[tenets#^bidirectional-interaction|bidirectional interaction]] tenet.
+PP's concept of active inference — organisms act on the world to bring sensory input in line with predictions, rather than just passively updating models — resonates with the Map's [[tenets#^bidirectional-interaction|bidirectional interaction]] tenet. (For a detailed treatment of active inference's mathematical formalism and its metaphysical neutrality, see [[predictive-processing-and-active-inference-under-dualism|Predictive Processing and Active Inference Under Dualism]].)
 
 In active inference, the organism doesn't simply observe; it intervenes. When prediction errors are too large to resolve by updating the model, the system acts to change the world instead. You feel cold, so you put on a jacket. The prediction ("I will be warm") is enacted rather than revised.
 
@@ -120,6 +121,7 @@ The Unfinishable Map sees predictive processing as a valuable ally rather than a
 - [[cognitive-science-of-dualism]] — How cognitive science's findings resist materialist closure
 - [[bandwidth-of-consciousness]] — Bandwidth limits and the interface
 - [[placebo-effect-and-mental-causation]] — Expectations as strong priors with measurable outcomes
+- [[predictive-processing-and-active-inference-under-dualism]] — Active inference's metaphysically neutral formalism under dualism
 - [[concepts/functionalism]] — The philosophical tradition PP inherits
 - [[parsimony-epistemology]] — Why simplicity cannot settle the consciousness debate
 
