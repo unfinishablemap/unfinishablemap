@@ -149,8 +149,8 @@ The causal interpretation of dream problem-solving would face difficulty if:
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — Consciousness gradations during sleep stages
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates the consciousness-brain interface
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence on consciousness-requiring functions
-- [dream-consciousness-void](/voids/dream-consciousness-void/) — The boundary of what can be known about dream experience
-- [dreamless-sleep-void](/voids/dreamless-sleep-void/) — Consciousness during dreamless sleep as an unchartable territory
+- [dream-consciousness-void](/voids/sleep-consciousness-void/) — The boundary of what can be known about dream experience
+- [dreamless-sleep-void](/voids/sleep-consciousness-void/) — Consciousness during dreamless sleep as an unchartable territory
 
 ## References
 

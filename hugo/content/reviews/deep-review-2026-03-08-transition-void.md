@@ -48,7 +48,7 @@ topics: []
 
 ### Cross-links Added (backlinks FROM existing articles)
 - [past-self-void](/voids/inaccessible-past/) — Added transition-void connection in "memory confidence masking the void" paragraph, noting shared pattern of retroactive narration
-- [dream-consciousness-void](/voids/dream-consciousness-void/) — Added transition-void link in occluded dimension section where state transitions are discussed
+- [dream-consciousness-void](/voids/sleep-consciousness-void/) — Added transition-void link in occluded dimension section where state transitions are discussed
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Added transition-void as a distinct edge-boundary in the "multiple edges exist" catalogue
 - [introspection](/concepts/introspection/) — Added transition-void to Further Reading as a structural introspective limit
 

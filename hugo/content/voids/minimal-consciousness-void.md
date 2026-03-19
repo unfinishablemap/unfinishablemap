@@ -106,7 +106,7 @@ The minimal consciousness void aligns with the Map's [tenets](/tenets/) in sever
 - [introspective-opacity](/voids/introspective-opacity/) — Why we access mental contents but never the mechanisms producing them
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its cognitive boundaries
 - [acquaintance-void](/voids/acquaintance-void/) — Modes of direct phenomenal contact structurally inaccessible to minds like ours
-- [dreamless-sleep-void](/voids/dreamless-sleep-void/) — Where consciousness goes during absence, and whether cessation is genuine zero
+- [dreamless-sleep-void](/voids/sleep-consciousness-void/) — Where consciousness goes during absence, and whether cessation is genuine zero
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The taxonomy of unexplored, unexplorable, and occluded
 
 ## References

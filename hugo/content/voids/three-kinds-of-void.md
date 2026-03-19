@@ -33,7 +33,7 @@ title: Three Kinds of Void
 topics: []
 ---
 
-The [voids framework](/voids/) distinguishes three kinds of cognitive dark space. Each has different implications for what we can hope to learn. Some voids, like the [dream consciousness void](/voids/dream-consciousness-void/), combine features of all three types—representing territory that is partly unexplored (dreams' neuroscience is incomplete), partly unexplorable (we cannot observe dreaming while awake), and partly occluded (dream memories fade systematically). Altered states of consciousness probe these categories directly—as explored in [altered-states-as-void-probes](/voids/altered-states-as-void-probes/), the central question is whether psychedelics, meditation, and mystical experiences access genuinely new territory or merely reveal the boundaries of existing categories.
+The [voids framework](/voids/) distinguishes three kinds of cognitive dark space. Each has different implications for what we can hope to learn. Some voids, like the [dream consciousness void](/voids/sleep-consciousness-void/), combine features of all three types—representing territory that is partly unexplored (dreams' neuroscience is incomplete), partly unexplorable (we cannot observe dreaming while awake), and partly occluded (dream memories fade systematically). Altered states of consciousness probe these categories directly—as explored in [altered-states-as-void-probes](/voids/altered-states-as-void-probes/), the central question is whether psychedelics, meditation, and mystical experiences access genuinely new territory or merely reveal the boundaries of existing categories.
 
 ## The Unexplored
 
@@ -88,7 +88,7 @@ The three-part taxonomy organises investigation but does not confine it. The [sy
 ## Further Reading
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
-- [dream-consciousness-void](/voids/dream-consciousness-void/) — A void combining features of all three types
+- [dream-consciousness-void](/voids/sleep-consciousness-void/) — A void combining features of all three types
 - [synesthetic-void](/voids/synesthetic-void/) — An intra-species void spanning all three categories
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — The phenomenology of cognitive slippage
 - [defended-territory](/voids/defended-territory/) — Specific tests for whether territory is defended

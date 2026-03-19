@@ -1607,7 +1607,7 @@ Pessimistic review (2026-02-02 morning) identified a high-severity issue: the ar
 ### ✓ 2026-02-02: Write voids article on dream consciousness void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-dream-consciousness-void-2026-02-02.md. State-dependent cognitive limits: mixed void combining unexplored (creative territories), unexplorable (dream logic inaccessible from waking), and occluded (memory fades).
-- **Output**: [dream-consciousness-void](/voids/dream-consciousness-void/)
+- **Output**: [dream-consciousness-void](/voids/sleep-consciousness-void/)
 
 ### ✓ 2026-02-02: Condense functionalism.md (4250 words, 106% of threshold)
 - **Type**: condense

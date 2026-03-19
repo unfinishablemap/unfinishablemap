@@ -188,7 +188,7 @@ The Map's interpretation of lucid dreaming would face difficulty if:
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer that persists across states
 - [dreams-and-consciousness](/topics/dream-consciousness/) — Broader treatment of dream phenomenology
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — Consciousness across sleep stages
-- [dream-consciousness-void](/voids/dream-consciousness-void/) — The bidirectional inaccessibility between waking and dreaming cognition
+- [dream-consciousness-void](/voids/sleep-consciousness-void/) — The bidirectional inaccessibility between waking and dreaming cognition
 - [introspection](/concepts/introspection/) — First-person access to conscious states
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates consciousness-brain interaction
 - [phenomenal-unity](/concepts/unity-of-consciousness/) — Unity of experience during dreams

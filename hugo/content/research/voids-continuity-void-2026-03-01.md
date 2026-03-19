@@ -217,7 +217,7 @@ Based on this research, a voids article could:
 
 - **Contemplative neuroscience**: How do experienced meditators' reports of perceiving moment-to-moment arising and passing relate to the neuroscientific evidence? Do long-term practitioners show different temporal integration windows?
 - **Cross-species temporal perception**: Do animals with different neural architectures (octopuses, insects with faster visual processing) shed light on whether temporal grain is substrate-dependent?
-- **The mathematical status of "between"**: If consciousness is discrete, what (if anything) exists in the gaps between conscious moments? This connects to the [dreamless-sleep-void](/voids/dreamless-sleep-void/) at a micro-scale.
+- **The mathematical status of "between"**: If consciousness is discrete, what (if anything) exists in the gaps between conscious moments? This connects to the [dreamless-sleep-void](/voids/sleep-consciousness-void/) at a micro-scale.
 - **Whitehead's process philosophy**: His theory of "actual occasions" as discrete drops of experience deserves deeper investigation in connection with this void.
 - **The relationship between temporal and spatial grain**: Does the [resolution-void](/voids/resolution-void/) (spatial grain of experience) correlate with temporal grain? Are these the same limitation manifesting in different dimensions?
 

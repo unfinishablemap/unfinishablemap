@@ -108,7 +108,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet finds unexpected relevance. 
 
 - [transparency-void](/voids/transparency-void/) — The broader problem of consciousness hiding its own representational nature
 - [introspective-opacity](/voids/introspective-opacity/) — Why we cannot observe our own cognitive processes
-- [dream-consciousness-void](/voids/dream-consciousness-void/) — What dreams reveal about the boundaries of conscious awareness
+- [dream-consciousness-void](/voids/sleep-consciousness-void/) — What dreams reveal about the boundaries of conscious awareness
 - [whether-real](/voids/whether-real/) — Whether cognitive limits are permanent or current ignorance
 - [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/) — Knowledge that undermines the knower's stability
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like

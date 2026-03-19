@@ -55,7 +55,7 @@ topics: []
 1. [dreams-and-consciousness](/topics/dream-consciousness/) — 2 old slugs in frontmatter, 4 inline references
 2. [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — 1 old slug in frontmatter, 2 inline references
 3. [metacognition](/concepts/metacognition/) — 1 old slug in frontmatter, 3 inline references
-4. [dream-consciousness-void](/voids/dream-consciousness-void/) — 1 old slug in frontmatter, 2 inline references
+4. [dream-consciousness-void](/voids/sleep-consciousness-void/) — 1 old slug in frontmatter, 2 inline references
 5. [consciousness-and-memory](/topics/consciousness-and-memory/) — 2 old slugs in frontmatter, 1 Further Reading entry
 6. [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — 1 old slug in frontmatter, 2 inline references
 7. [phenomenology-of-imagination](/topics/phenomenology-of-imagination/) — 1 old slug in frontmatter, 1 Further Reading entry

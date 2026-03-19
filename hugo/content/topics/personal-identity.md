@@ -142,7 +142,7 @@ This supports the Map's view: if consciousness were merely brain processes, comp
 
 ### The Dreamless Sleep Challenge
 
-If consciousness constitutes personal identity and ceases during dreamless sleep, the person who wakes may not be the same person who slept. The [dreamless-sleep-void](/voids/dreamless-sleep-void/) explores this gap we enter nightly and cannot observe from within.
+If consciousness constitutes personal identity and ceases during dreamless sleep, the person who wakes may not be the same person who slept. The [dreamless-sleep-void](/voids/sleep-consciousness-void/) explores this gap we enter nightly and cannot observe from within.
 
 The Map's response draws on two complementary insights. The Vedantic analysis holds that consciousness persists through deep sleep as [witness-awareness](/concepts/witness-consciousness/) stripped of content—we remember nothing not because consciousness was absent but because the ego that would encode memory was not present. The [Buddhist perspective](/topics/eastern-philosophy-consciousness/) makes the gap less threatening from a different angle: if identity is already process-based rather than substance-based, a gap doesn't destroy a substance but merely pauses a causal process that resumes through continuity. The gap in memory need not imply a gap in consciousness—or in the conscious being whose identity is in question.
 
@@ -218,7 +218,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and the temporal self
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Empirical evidence on consciousness unity and division
 - [death-and-consciousness](/topics/death-and-consciousness/) — What survival after death would require
-- [dreamless-sleep-void](/voids/dreamless-sleep-void/) — The nightly gap in consciousness and what it means for identity
+- [dreamless-sleep-void](/voids/sleep-consciousness-void/) — The nightly gap in consciousness and what it means for identity
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist perspectives on self; the *anatta* doctrine and the witness response
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Process haecceitism: how Buddhist impermanence and indexical identity coexist
 - [illusionism](/concepts/illusionism/) — The challenge that consciousness itself is illusory

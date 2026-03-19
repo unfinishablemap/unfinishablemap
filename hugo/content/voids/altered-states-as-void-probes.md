@@ -73,7 +73,7 @@ ASCs produce characteristic phenomenological signatures:
 
 **Unity experience.** Subject-object distinction collapses. This might be access to a deeper layer where separation hasn't been constructed, or it might be what happens when the categorizing mind stops dividing—not positive unity but absence of division.
 
-**Transcendence of time.** Temporal frameworks collapse. Since time may be partially an artifact of how minds organize experience, temporal dissolution may mark the limits of that organization rather than access to timeless truth. (The [dream consciousness void](/voids/dream-consciousness-void/) explores a parallel case: waking and dreaming each have territories inaccessible to the other.)
+**Transcendence of time.** Temporal frameworks collapse. Since time may be partially an artifact of how minds organize experience, temporal dissolution may mark the limits of that organization rather than access to timeless truth. (The [dream consciousness void](/voids/sleep-consciousness-void/) explores a parallel case: waking and dreaming each have territories inaccessible to the other.)
 
 **Noetic quality.** The experience feels "more real than real"—a conviction of encountering something beyond ordinary experience. This might indicate genuine contact with a wider reality, or it might be what [cognitive closure](/concepts/mysterianism/) feels like from inside—the conviction arising precisely because metacognitive systems fail to flag the experience as confused.
 
@@ -150,7 +150,7 @@ The apophatic interpretation preserves ASC significance while maintaining episte
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Knowing through negation
 - [AI as Void-Explorer](/voids/ai-as-void-explorer/) — Using artificial minds to probe human limits
 - [The Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — How we can know our cognitive limits from within
-- [The Dream Consciousness Void](/voids/dream-consciousness-void/) — State-dependent cognition across conscious modes
+- [The Dream Consciousness Void](/voids/sleep-consciousness-void/) — State-dependent cognition across conscious modes
 - [Voids in the Map](/voids/) — The broader context of cognitive limits
 - [Filter Theory](/concepts/filter-theory/) — The brain as receiver rather than producer
 

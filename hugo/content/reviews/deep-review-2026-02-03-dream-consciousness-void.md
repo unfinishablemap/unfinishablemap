@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-03
-**Article**: [The Dream Consciousness Void](/voids/dream-consciousness-void/)
+**Article**: [The Dream Consciousness Void](/voids/sleep-consciousness-void/)
 **Previous review**: [2026-02-02](/reviews/deep-review-2026-02-02-dream-consciousness-void/)
 
 ## Pessimistic Analysis Summary
@@ -55,7 +55,7 @@ This review focused on adding inbound links FROM other articles TO the dream-con
 - [dreams-and-consciousness](/topics/dream-consciousness/) — Added to Further Reading section
 - [lucid-dreaming-and-consciousness](/topics/dream-consciousness/) — Added to Further Reading section
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — Added as concrete example in opening and to related_articles
-- [dreamless-sleep-void](/voids/dreamless-sleep-void/) — Added to Further Reading section
+- [dreamless-sleep-void](/voids/sleep-consciousness-void/) — Added to Further Reading section
 
 **Total inbound links (previous + new):**
 - phenomenology-of-the-edge.md (previous)

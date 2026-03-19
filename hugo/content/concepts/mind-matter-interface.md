@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-18 03:14:00+00:00
+ai_modified: 2026-03-19 16:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,12 +26,13 @@ description: A two-layer architecture unifying filter theory and quantum selecti
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-18 03:14:00+00:00
+last_deep_review: 2026-03-19 16:35:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[mind-brain-separation]]'
 - '[[mathematical-structure-of-the-consciousness-physics-interface]]'
+- '[[amplification-mechanisms-consciousness-physics]]'
 title: 'The Mind-Matter Interface: Unifying Filter Theory and Quantum Selection'
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -73,13 +74,13 @@ The brain provides an interface where consciousness can influence physical outco
 
 At quantum indeterminacies—points where physics leaves outcomes undetermined—consciousness selects which possibility becomes actual. Physics provides what Tonetto calls "statistical closure with outcome-level openness": the Born rule fixes probability distributions, but which specific outcome actualises is not determined by the formalism. [Causal closure](/concepts/causal-closure/) holds at the ensemble level but not at the individual outcome; something must determine which possibility becomes actual; consciousness is a candidate.
 
-Stapp's [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) proposes the details: attention corresponds to repeated quantum observations that hold neural patterns in place. On this account, what you focus on becomes actual because attention is observation and observation constrains quantum evolution. However, this mechanism faces a significant timescale gap—Zeno freezing requires femtosecond-rate observations while attention operates on ~100ms timescales—making it better understood as a promising placeholder than a fully worked-out mechanism. The [detailed selection mechanism article](/concepts/consciousness-selecting-neural-patterns/) covers candidate sites (microtubules, ion channels, attention networks), constraints (bandwidth, brain boundary, selection vs. randomness), and the timescale problem in detail.
+Stapp's [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) proposes the details: attention corresponds to repeated quantum observations that hold neural patterns in place. On this account, what you focus on becomes actual because attention is observation and observation constrains quantum evolution. However, this mechanism faces a significant timescale gap—Zeno freezing requires femtosecond-rate observations while attention operates on ~100ms timescales—making it better understood as a promising placeholder than a fully worked-out mechanism. The [detailed selection mechanism article](/concepts/consciousness-selecting-neural-patterns/) covers candidate sites, constraints, and the timescale problem.
 
 ### How the Layers Connect
 
 **Upward direction** (brain → consciousness): Neural state configures the interface, determining what aspects of consciousness can manifest. Brain damage produces deficits not because consciousness is damaged but because interface components are—like a radio with blown speakers. This explains [neural correlates](/concepts/neural-correlates-of-consciousness/) without entailing production.
 
-**Downward direction** (consciousness → brain): At quantum indeterminacies, consciousness selects among neural possibilities. This explains [mental causation](/concepts/mental-causation/) without violating conservation laws—consciousness doesn't inject energy but shapes what physics leaves undetermined.
+**Downward direction** (consciousness → brain): At quantum indeterminacies, consciousness selects among neural possibilities. This explains [mental causation](/concepts/mental-causation/) without violating conservation laws—consciousness doesn't inject energy but shapes what physics leaves undetermined. Bridging the gap from quantum selection to macroscopic neural effects requires [amplification mechanisms](/topics/amplification-mechanisms-consciousness-physics/)—from chaotic sensitivity to self-organized criticality—that scale quantum-level biases through the brain's nonlinear dynamics.
 
 The layers are inseparable in practice. Consciousness both *uses* the interface (selection) and *is constrained by* it (filtering).
 
@@ -199,6 +200,7 @@ This unified model is the Map's most complete answer to how consciousness relate
 - [tenets](/tenets/) — the Map's foundational commitments
 - [decoherence](/concepts/decoherence/) — The quantum coherence challenge and biological exceptions
 - [illusionism](/concepts/illusionism/) — The radical physicalist challenge and its problems
+- [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — Six proposed mechanisms for scaling quantum selection to macroscopic effects
 - [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't solve collapse
 - [many-worlds](/concepts/many-worlds/) — Why the Map rejects MWI
 - [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) — The mathematical corridor constraining consciousness-physics interaction

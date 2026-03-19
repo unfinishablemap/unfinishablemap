@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-02-16 18:13:00+00:00
+ai_modified: 2026-03-19 16:12:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,12 +19,13 @@ description: Probability requires a subject who faces uncertainty, yet conscious
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-16 18:13:00+00:00
+last_deep_review: 2026-03-19 16:12:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[indexical-identity-quantum-measurement]]'
 - '[[qm-interpretations-beyond-many-worlds]]'
+- '[[probability-problem-in-many-worlds]]'
 - '[[quantum-measurement-subjective-probability-2026-01-23]]'
 - '[[voids-probability-intuition-void-2026-02-03]]'
 - '[[phenomenology-of-deliberation-under-uncertainty]]'
@@ -121,7 +122,7 @@ The distinction matters for the interface view. Cognitive blindness is a limitat
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The fact that we can report our experiences—including our failures at probabilistic reasoning—requires causal flow from consciousness to physical behaviour. This reporting involves consciousness influencing neural states, providing evidence of the very interface the article discusses.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: If all outcomes occur (as [Many-Worlds](/concepts/many-worlds/) claims), probability becomes a measure over branches, and the question of what consciousness does at measurement dissolves. The [probability problem in MWI](/topics/probability-problem-in-many-worlds/) shows that recovering even this branch-measure requires circular reasoning. The paradox explored here only arises if there is a genuine fact about which outcome *this* consciousness experiences—requiring one actual world with definite outcomes.
+**[No Many Worlds](/tenets/#no-many-worlds)**: If all outcomes occur (as [Many-Worlds](/concepts/many-worlds/) claims), probability becomes a measure over branches, and the question of what consciousness does at measurement dissolves. The [probability problem in MWI](/topics/probability-problem-in-many-worlds/) shows that attempts to recover even this branch-measure face serious circularity objections. The paradox explored here takes its sharpest form when there is a genuine fact about which outcome *this* consciousness experiences—one actual world with definite outcomes. MWI's self-locating uncertainty generates analogous puzzles about consciousness and probability, but on the Map's view, those puzzles are artefacts of an interpretation that dissolves the very question it should answer.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Our systematic preference for pattern over probability is Occam's razor embedded in cognitive architecture. We favour simple, coherent, meaningful explanations over statistical noise. But reality at the quantum level is fundamentally probabilistic. Our built-in Occam's razor misleads us about the very interface where consciousness meets physics.
 
@@ -136,6 +137,9 @@ The distinction matters for the interface view. Cognitive blindness is a limitat
 - [narrative-coherence](/concepts/narrative-coherence/) — How narrative structure overrides probabilistic reasoning
 - [selection-laws](/concepts/psychophysical-laws/) — Formalising consciousness's downward selection among quantum outcomes
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — What genuine uncertainty feels like from the inside
+- [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — Why MWI cannot recover the Born rule without circularity
+- [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Which QM interpretations leave room for consciousness at the interface
+- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) — Why Born rule derivation failures point toward consciousness-collapse
 
 ## References
 

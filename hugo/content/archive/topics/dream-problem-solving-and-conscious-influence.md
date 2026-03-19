@@ -125,7 +125,7 @@ The phenomenal mode tracking argument would face difficulty if:
 - [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) — The broader case for consciousness enabling human-level cognition
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — Consciousness's role in creative generation and selection
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence on consciousness-requiring functions
-- [dream-consciousness-void](/voids/dream-consciousness-void/) — The bidirectional void between waking and dreaming cognition
+- [dream-consciousness-void](/voids/sleep-consciousness-void/) — The bidirectional void between waking and dreaming cognition
 
 ## References
 

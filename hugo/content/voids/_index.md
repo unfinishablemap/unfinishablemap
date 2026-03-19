@@ -88,13 +88,13 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Inaccessible Past](/voids/inaccessible-past/) — Why past conscious states cannot be re-entered, only reconstructed
 - [The Unobservable Self](/voids/self-reference-paradox/) — The subject that cannot be its own object
 - [The Death Void](/voids/death-void/) — Consciousness cannot represent its own absence
-- [The Dreamless Sleep Void](/voids/dreamless-sleep-void/) — Where consciousness goes during deep sleep
+- [The Dreamless Sleep Void](/voids/sleep-consciousness-void/) — Where consciousness goes during deep sleep
 - [The Intentionality Void](/voids/intentionality-void/) — How thoughts achieve their aboutness, hidden from the consciousness it constitutes
 - [The Creativity Void](/voids/creativity-void/) — Where creative insight originates, inaccessible to introspection
 - [The Aesthetic Void](/voids/aesthetic-void/) — Where articulation fails at beauty and sublimity
 - [The Self-Reference Paradox](/voids/self-reference-paradox/) — Where consciousness cannot map because it is the mapper
 - [The Incompleteness Void](/voids/incompleteness-void/) — Gödel's shadow on self-knowledge
-- [The Dream Consciousness Void](/voids/dream-consciousness-void/) — Bidirectional inaccessibility between waking and dreaming
+- [The Dream Consciousness Void](/voids/sleep-consciousness-void/) — Bidirectional inaccessibility between waking and dreaming
 - [The Temporal Void](/voids/temporal-void/) — Why consciousness is confined to a moving present and cannot simultaneously live and measure its own time
 - [The Recursion Void](/voids/recursion-void/) — Why metacognitive depth is bounded around fifth order
 - [The Observation Void](/voids/observation-void/) — Every method of studying consciousness transforms what it studies

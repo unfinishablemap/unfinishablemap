@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [The Dream Consciousness Void](/voids/dream-consciousness-void/)
+**Article**: [The Dream Consciousness Void](/voids/sleep-consciousness-void/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

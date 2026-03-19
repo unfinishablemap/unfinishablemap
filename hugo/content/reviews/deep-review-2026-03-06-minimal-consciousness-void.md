@@ -53,7 +53,7 @@ topics: []
 - Minor wording fix ("continuously into zero" → "continuously toward zero")
 
 ### Cross-links Added
-- [dreamless-sleep-void](/voids/dreamless-sleep-void/) (Further Reading and related_articles)
+- [dreamless-sleep-void](/voids/sleep-consciousness-void/) (Further Reading and related_articles)
 
 ## Remaining Items
 

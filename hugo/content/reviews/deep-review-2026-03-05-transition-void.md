@@ -60,7 +60,7 @@ topics: []
 - [observation-void](/voids/observation-void/) — Added transition-void to void interconnection paragraph
 - [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) — Added transition-void note on invisible flow entry/exit
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) — Added transition-void as generalisation of attention departure invisibility
-- [dreamless-sleep-void](/voids/dreamless-sleep-void/) — Added transition-void as full treatment of the transition problem
+- [dreamless-sleep-void](/voids/sleep-consciousness-void/) — Added transition-void as full treatment of the transition problem
 - [loss-of-consciousness](/topics/loss-of-consciousness/) — Added transition-void reference in contemplative evidence section
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Added transition-void connection to temporal smoothing discussion
 

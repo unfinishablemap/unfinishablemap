@@ -154,7 +154,7 @@ A fair objection: the filter model is flexible enough to accommodate most dream 
 
 - [dream-consciousness](/topics/dream-consciousness/) — Lucid dreaming, problem-solving, and the filter model applied to dreams
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — Consciousness gradations during sleep
-- [dream-consciousness-void](/voids/dream-consciousness-void/) — The bidirectional void: waking cannot access dreaming, dreaming cannot access waking
+- [dream-consciousness-void](/voids/sleep-consciousness-void/) — The bidirectional void: waking cannot access dreaming, dreaming cannot access waking
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface hypothesis for dream states
 - [filter-theory](/concepts/filter-theory/) — The transmission model dream evidence supports
 - [mind-brain-separation](/concepts/mind-brain-separation/) — Rendering engine analogy

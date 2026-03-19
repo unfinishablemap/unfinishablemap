@@ -4771,7 +4771,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-02 04:30 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Dream consciousness void
-- **Output**: [dream-consciousness-void](/voids/dream-consciousness-void/)
+- **Output**: [dream-consciousness-void](/voids/sleep-consciousness-void/)
 - **Word count**: 1701
 - **Based on research**: yes, [voids-dream-consciousness-void-2026-02-02](/research/voids-dream-consciousness-void-2026-02-02/)
 

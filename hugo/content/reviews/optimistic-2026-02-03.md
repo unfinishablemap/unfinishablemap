@@ -156,7 +156,7 @@ This combination of philosophical rigor with appropriate humility about limits i
 |------|-----|--------|
 | [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) | [argument-from-reason](/topics/argument-from-reason/) | Understanding's phenomenology supports argument that grasping reasons requires consciousness |
 | [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) | [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/) | Mathematical understanding as paradigm case |
-| [dreamless-sleep-void](/voids/dreamless-sleep-void/) | [personal-identity](/topics/personal-identity/) | Deep sleep challenges continuity accounts of identity |
+| [dreamless-sleep-void](/voids/sleep-consciousness-void/) | [personal-identity](/topics/personal-identity/) | Deep sleep challenges continuity accounts of identity |
 | [normative-void](/voids/normative-void/) | [meaning-of-life](/topics/meaning-of-life/) | Extends mysterianism to value questions |
 | [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) | [time-symmetric-physics](/concepts/time-symmetric-physics/) | Empirical claims connect to theoretical framework |
 | [phenomenology-of-choice](/concepts/phenomenology-of-choice/) | [motor-selection](/concepts/motor-selection/) | Choice phenomenology parallels motor selection phenomenology |

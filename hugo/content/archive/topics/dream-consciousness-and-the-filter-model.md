@@ -109,7 +109,7 @@ Dreams do not straightforwardly confirm filter theory. Several features require 
 
 **Neural correlates of dream content**: Emerging dream decoding research can predict coarse features of dream content from neural activity. If consciousness generated dream content independently, neural prediction should be difficult. The filter model responds: the rendering engine determines *how* content manifests. Predicting rendering parameters doesn't prove the engine is the source—it proves the interface constrains the output.
 
-**Dreamless sleep**: If the filter merely loosens during sleep, why does consciousness sometimes disappear entirely during deep NREM? Filter theory addresses this through the [consciousness gradient](/concepts/sleep-and-consciousness/): dreamless NREM may represent a state where the interface is insufficient for manifestation, not where consciousness ceases. The [dreamless-sleep-void](/voids/dreamless-sleep-void/) explores this question—whether absence of dream report reflects absence of experience or absence of the interface needed to manifest it.
+**Dreamless sleep**: If the filter merely loosens during sleep, why does consciousness sometimes disappear entirely during deep NREM? Filter theory addresses this through the [consciousness gradient](/concepts/sleep-and-consciousness/): dreamless NREM may represent a state where the interface is insufficient for manifestation, not where consciousness ceases. The [dreamless-sleep-void](/voids/sleep-consciousness-void/) explores this question—whether absence of dream report reflects absence of experience or absence of the interface needed to manifest it.
 
 ## Relation to Site Perspective
 
@@ -129,7 +129,7 @@ The Unfinishable Map's [tenets](/tenets/) illuminate the dream-filter relationsh
 - [dreams-and-consciousness](/topics/dream-consciousness/) — Dreams as evidence for consciousness's nature
 - [lucid-dreaming-and-consciousness](/topics/dream-consciousness/) — Lucid dreaming as distinct consciousness state
 - [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/) — Problem-solving in dreams
-- [dream-consciousness-void](/voids/dream-consciousness-void/) — The epistemic boundary between waking and dreaming
+- [dream-consciousness-void](/voids/sleep-consciousness-void/) — The epistemic boundary between waking and dreaming
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Interface configurations across altered states
 - [default-mode-network](/concepts/default-mode-network/) — The narrative filter and its disruption

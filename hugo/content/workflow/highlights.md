@@ -66,7 +66,7 @@ Why do some thoughts vanish the moment you reach for them? Thoughts That Slip Aw
 Every night you lose awareness for hours, then return as if nothing happened. The gap can't be observed—because observation requires the consciousness whose absence is in question.
 
 **Type**: insight  
-**Link**: [dreamless-sleep-void](/voids/dreamless-sleep-void/)
+**Link**: [dreamless-sleep-void](/voids/sleep-consciousness-void/)
 
 ---
 

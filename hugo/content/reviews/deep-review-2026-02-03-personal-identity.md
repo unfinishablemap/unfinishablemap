@@ -33,7 +33,7 @@ None. The article has reached stability through previous reviews.
 
 **Resolution**: Added "The Dreamless Sleep Challenge" subsection addressing this gap, drawing on the Vedantic analysis from dreamless-sleep-void that consciousness may persist as witness-awareness stripped of content.
 
-**Missing cross-link** (resolved): Added [dreamless-sleep-void](/voids/dreamless-sleep-void/) to frontmatter and Further Reading.
+**Missing cross-link** (resolved): Added [dreamless-sleep-void](/voids/sleep-consciousness-void/) to frontmatter and Further Reading.
 
 ### Low Issues Found
 
@@ -56,12 +56,12 @@ The Dennett persona raised the strongest challenge: if consciousness can gap dur
 ### Enhancements Made
 
 1. **Added dreamless sleep section**: New subsection "The Dreamless Sleep Challenge" addresses consciousness continuity through sleep
-2. **Cross-links added**: [dreamless-sleep-void](/voids/dreamless-sleep-void/) in frontmatter, inline, and Further Reading
+2. **Cross-links added**: [dreamless-sleep-void](/voids/sleep-consciousness-void/) in frontmatter, inline, and Further Reading
 3. **Prose tightening**: Trimmed verbose passages throughout to maintain length neutrality
 
 ### Cross-links Added
 
-- [dreamless-sleep-void](/voids/dreamless-sleep-void/) (frontmatter, inline, Further Reading)
+- [dreamless-sleep-void](/voids/sleep-consciousness-void/) (frontmatter, inline, Further Reading)
 
 ## Changes Summary
 

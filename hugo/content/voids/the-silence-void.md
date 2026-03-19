@@ -43,7 +43,7 @@ topics:
 
 The Unfinishable Map cannot map silence. Mapping is a cognitive activity—it requires categories, distinctions, language—and the silence void is the territory that opens only when cognition stops. Multiple contemplative traditions across centuries and cultures converge on a claim that should trouble any cartographic project: some truths are accessible only through the deliberate cessation of thought, and any attempt to articulate them destroys the conditions under which they are known. This void is not the absence of something. It is a territory whose entry condition is the suspension of the very faculties that make mapping possible.
 
-The silence void is distinct from related voids on the Map. The [dreamless-sleep-void](/voids/dreamless-sleep-void/) concerns involuntary absence—consciousness interrupted without the subject's participation. [Apophatic approaches](/concepts/apophatic-approaches/) use negation, which is still active reasoning. The silence void concerns what happens when even negation ceases—when the thinker releases not just particular thoughts but the activity of thinking itself.
+The silence void is distinct from related voids on the Map. The [dreamless-sleep-void](/voids/sleep-consciousness-void/) concerns involuntary absence—consciousness interrupted without the subject's participation. [Apophatic approaches](/concepts/apophatic-approaches/) use negation, which is still active reasoning. The silence void concerns what happens when even negation ceases—when the thinker releases not just particular thoughts but the activity of thinking itself.
 
 ## The Convergent Testimony
 
@@ -116,7 +116,7 @@ The void also raises a provocative implication for the Map itself. If consciousn
 ## Further Reading
 
 - [apophatic-approaches](/concepts/apophatic-approaches/)
-- [dreamless-sleep-void](/voids/dreamless-sleep-void/)
+- [dreamless-sleep-void](/voids/sleep-consciousness-void/)
 - [consciousness-only-territories](/voids/consciousness-only-territories/)
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)

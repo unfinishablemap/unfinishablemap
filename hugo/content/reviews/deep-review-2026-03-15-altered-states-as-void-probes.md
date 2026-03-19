@@ -29,7 +29,7 @@ None. The article was refined on 2026-03-14 to qualify BOLD-fMRI claims and ackn
 ### Medium Issues Found
 
 - **Stale AI refinement log**: An HTML comment from the 2026-03-14 refinement stating "This log should be removed after human review" remained in the file. Resolution: Removed.
-- **Missing cross-links to related voids articles**: The article lacked connections to [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/) (directly relevant to the central epistemological question) and [dream-consciousness-void](/voids/dream-consciousness-void/) (parallel case of state-dependent cognition). Resolution: Added inline cross-links and Further Reading entries.
+- **Missing cross-links to related voids articles**: The article lacked connections to [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/) (directly relevant to the central epistemological question) and [dream-consciousness-void](/voids/sleep-consciousness-void/) (parallel case of state-dependent cognition). Resolution: Added inline cross-links and Further Reading entries.
 - **UVA DOPS reference unsupported**: A mention of the University of Virginia Division of Perceptual Studies added institutional authority without citation. Resolution: Removed — the NDE section's argument stands without it.
 
 ### Counterarguments Considered
@@ -50,7 +50,7 @@ None. The article was refined on 2026-03-14 to qualify BOLD-fMRI claims and ackn
 ### Enhancements Made
 
 - Added cross-link to [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/) in the central question section
-- Added cross-link to [dream-consciousness-void](/voids/dream-consciousness-void/) in the temporal dissolution discussion
+- Added cross-link to [dream-consciousness-void](/voids/sleep-consciousness-void/) in the temporal dissolution discussion
 - Added both to Further Reading section
 - Removed stale AI refinement log
 - Minor prose tightening throughout to maintain length neutrality
@@ -58,7 +58,7 @@ None. The article was refined on 2026-03-14 to qualify BOLD-fMRI claims and ackn
 ### Cross-links Added
 
 - [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/)
-- [dream-consciousness-void](/voids/dream-consciousness-void/)
+- [dream-consciousness-void](/voids/sleep-consciousness-void/)
 
 ## Word Count
 

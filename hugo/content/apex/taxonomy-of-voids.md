@@ -85,7 +85,7 @@ These voids share a feature: they concern aspects of consciousness so fundamenta
 
 ### The Access Cluster
 
-A third domain concerns boundaries between conscious states. The [dream consciousness void](/voids/dream-consciousness-void/) marks the bidirectional inaccessibility between waking and dreaming. The [transition void](/voids/transition-void/) names the impossibility of witnessing one's own state changes. The [dreamless sleep void](/voids/dreamless-sleep-void/) asks where consciousness goes during deep sleep. The [death void](/voids/death-void/)—perhaps the purest limit—marks where consciousness cannot represent its own cessation.
+A third domain concerns boundaries between conscious states. The [dream consciousness void](/voids/sleep-consciousness-void/) marks the bidirectional inaccessibility between waking and dreaming. The [transition void](/voids/transition-void/) names the impossibility of witnessing one's own state changes. The [dreamless sleep void](/voids/sleep-consciousness-void/) asks where consciousness goes during deep sleep. The [death void](/voids/death-void/)—perhaps the purest limit—marks where consciousness cannot represent its own cessation.
 
 These voids trace the temporal grain of consciousness: its inability to observe its own transitions, its discontinuities, its absences. They suggest consciousness is not a continuous stream that happens to have gaps but something whose very structure precludes self-observation at boundary points.
 

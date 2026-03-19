@@ -111,7 +111,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly. T
 - [ownership-void](/voids/ownership-void/) — Why we cannot introspect how experiences become ours
 - [affective-void](/voids/affective-void/) — The emotions we cannot feel
 - [appetitive-void](/voids/appetitive-void/) — The desires we cannot choose
-- [dreamless-sleep-void](/voids/dreamless-sleep-void/) — Where consciousness goes when it departs involuntarily
+- [dreamless-sleep-void](/voids/sleep-consciousness-void/) — Where consciousness goes when it departs involuntarily
 - [absorption-void](/voids/absorption-void/) — When peak experience eliminates reflective access
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, and occluded
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like

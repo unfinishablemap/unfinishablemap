@@ -143,7 +143,7 @@ The evidence for content-specific slippage remains suggestive rather than conclu
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its boundaries
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural limits
 - [Illusionism](/concepts/illusionism/) — The radical challenge that slippage is misrepresentation
-- [The Dream Consciousness Void](/voids/dream-consciousness-void/) — The bidirectional void between waking and dreaming where slippage is systematic
+- [The Dream Consciousness Void](/voids/sleep-consciousness-void/) — The bidirectional void between waking and dreaming where slippage is systematic
 - [The Memory Void](/voids/inaccessible-past/) — Whether past experiences are recoverable or lost forever
 - [Attention-Created Voids](/voids/attention-created-voids/) — How attending generates unattendable territory
 - [The Absorption Void](/voids/absorption-void/) — Peak experiences that resist introspective access

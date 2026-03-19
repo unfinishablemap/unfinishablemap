@@ -87,7 +87,7 @@ Each family approaches from a different direction, employs different methods, an
 
 ### Non-Convergent Outliers
 
-Intellectual honesty requires noting what *doesn't* converge. The [temporal void](/voids/temporal-void/), the [dream consciousness void](/voids/dream-consciousness-void/), and the [silence void](/voids/the-silence-void/) sit partially outside the main convergence structure. They concern how consciousness relates to time, sleep, and cessation rather than how it relates to physics. Their partial independence suggests the catalogue has not been artificially forced into a single narrative. The convergence pattern is selective, not total—which makes it more credible, not less.
+Intellectual honesty requires noting what *doesn't* converge. The [temporal void](/voids/temporal-void/), the [dream consciousness void](/voids/sleep-consciousness-void/), and the [silence void](/voids/the-silence-void/) sit partially outside the main convergence structure. They concern how consciousness relates to time, sleep, and cessation rather than how it relates to physics. Their partial independence suggests the catalogue has not been artificially forced into a single narrative. The convergence pattern is selective, not total—which makes it more credible, not less.
 
 ## What the Convergence Means
 

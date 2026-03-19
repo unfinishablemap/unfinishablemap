@@ -120,9 +120,9 @@ The transition void connects to several of the Map's [tenets](/tenets/).
 ## Further Reading
 
 - [observation-void](/voids/observation-void/) — Why every method of studying consciousness transforms what it studies
-- [dreamless-sleep-void](/voids/dreamless-sleep-void/) — The related void: where consciousness goes during deep sleep
+- [dreamless-sleep-void](/voids/sleep-consciousness-void/) — The related void: where consciousness goes during deep sleep
 - [past-self-void](/voids/inaccessible-past/) — Why past conscious states can only be reconstructed, not accessed
-- [dream-consciousness-void](/voids/dream-consciousness-void/) — Bidirectional inaccessibility between waking and dreaming
+- [dream-consciousness-void](/voids/sleep-consciousness-void/) — Bidirectional inaccessibility between waking and dreaming
 - [absorption-void](/voids/absorption-void/) — Peak engagement is peak self-opacity
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [calibration-void](/voids/measurement-void/) — Why introspection cannot be verified against any independent standard

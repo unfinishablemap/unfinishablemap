@@ -212,7 +212,7 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/)
 - [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/)
 - [dream-consciousness](/topics/dream-consciousness/)
-- [dreamless-sleep-void](/voids/dreamless-sleep-void/)
+- [dreamless-sleep-void](/voids/sleep-consciousness-void/)
 - [capability-division-problem](/voids/capability-division-problem/)
 - [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/)
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/)

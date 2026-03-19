@@ -28,7 +28,7 @@ topics: []
 ### Medium Issues Found
 - **Great apes claim overstated**: The original text presented absence-of-evidence (no studies showing ape dream problem-solving) as if it were informative evidence of absence. The claim was unfalsifiable since we cannot interrogate ape dream content. **Resolution**: Rewritten to explicitly acknowledge methodological limits and present the species correlation as suggestive rather than demonstrative.
 - **Filter theory section under-qualified**: "REM loosens the filter" was presented as explanatory when it redescribes rather than predicts. **Resolution**: Added explicit qualifier that the filter model "redescribes the phenomenon" rather than generating novel predictions, while noting the phenomenal engagement specificity fits the framework.
-- **Missing cross-links**: No links to [sleep-and-consciousness](/concepts/sleep-and-consciousness/), [consciousness-and-creativity](/concepts/consciousness-and-creativity/), or [dream-consciousness-void](/voids/dream-consciousness-void/) despite high relevance. **Resolution**: Added all three to Further Reading and frontmatter.
+- **Missing cross-links**: No links to [sleep-and-consciousness](/concepts/sleep-and-consciousness/), [consciousness-and-creativity](/concepts/consciousness-and-creativity/), or [dream-consciousness-void](/voids/sleep-consciousness-void/) despite high relevance. **Resolution**: Added all three to Further Reading and frontmatter.
 - **Identity theory engagement brief**: The type-B physicalist response is acknowledged but could receive more engagement. **Deferred**: Current treatment is adequate for article scope; deeper engagement would risk expanding beyond the article's focus on dream evidence specifically.
 
 ### Counterarguments Considered
@@ -48,12 +48,12 @@ topics: []
 ### Enhancements Made
 - Qualified great apes claim to acknowledge methodological limits
 - Added epistemic qualifier to filter theory interpretation
-- Added three cross-links to Further Reading: [sleep-and-consciousness](/concepts/sleep-and-consciousness/), [consciousness-and-creativity](/concepts/consciousness-and-creativity/), [dream-consciousness-void](/voids/dream-consciousness-void/)
+- Added three cross-links to Further Reading: [sleep-and-consciousness](/concepts/sleep-and-consciousness/), [consciousness-and-creativity](/concepts/consciousness-and-creativity/), [dream-consciousness-void](/voids/sleep-consciousness-void/)
 
 ### Cross-links Added
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/)
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/)
-- [dream-consciousness-void](/voids/dream-consciousness-void/)
+- [dream-consciousness-void](/voids/sleep-consciousness-void/)
 
 ## Remaining Items
 

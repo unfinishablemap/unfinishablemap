@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-15
-**Article**: [The Dreamless Sleep Void](/voids/dreamless-sleep-void/)
+**Article**: [The Dreamless Sleep Void](/voids/sleep-consciousness-void/)
 **Previous review**: [2026-02-07](/reviews/deep-review-2026-02-07-dreamless-sleep-void/)
 
 ## Pessimistic Analysis Summary

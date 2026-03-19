@@ -151,7 +151,7 @@ The filter theory provides a unified framework: ASCs reveal different configurat
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Potential mechanisms for mind-brain interface
 - [near-death-experiences](/concepts/near-death-experiences/) — Enhanced consciousness during brain compromise
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) — The sleep-onset transition as interface modulation in action
-- [The Dream Consciousness Void](/voids/dream-consciousness-void/) — The bidirectional inaccessibility between waking and dreaming states
+- [The Dream Consciousness Void](/voids/sleep-consciousness-void/) — The bidirectional inaccessibility between waking and dreaming states
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Does the interface vary across states and species?
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — How anaesthetic agents reconfigure the consciousness interface
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Contemplative practices as evidence for irreducible consciousness

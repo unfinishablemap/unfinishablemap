@@ -17,13 +17,13 @@ topics: []
 ---
 
 **Date**: 2026-03-15
-**Article**: [The Dream Consciousness Void](/voids/dream-consciousness-void/)
+**Article**: [The Dream Consciousness Void](/voids/sleep-consciousness-void/)
 **Previous review**: [2026-02-02](/reviews/deep-review-2026-02-02-dream-consciousness-void/)
 
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Duplicate related_articles entry**: `[dream-consciousness](/topics/dream-consciousness/)` appeared twice in frontmatter. Resolution: removed duplicate, added `[dreamless-sleep-void](/voids/dreamless-sleep-void/)` in its place.
+- **Duplicate related_articles entry**: `[dream-consciousness](/topics/dream-consciousness/)` appeared twice in frontmatter. Resolution: removed duplicate, added `[dreamless-sleep-void](/voids/sleep-consciousness-void/)` in its place.
 - **Duplicate Further Reading links**: Two entries both linked to `[dream-consciousness](/topics/dream-consciousness/)` with different display text ("Dreams and Consciousness" and "Lucid Dreaming and Consciousness"), misleading readers into thinking they were separate articles. Resolution: consolidated to one entry, replaced the other with genuinely distinct articles.
 
 ### Medium Issues Found
@@ -50,12 +50,12 @@ No new counterarguments identified beyond those engaged in the previous review. 
 1. Added inline cross-link to `[observation-void](/voids/observation-void/)` in the bidirectional structure section
 2. Added inline cross-link to `[dream-problem-solving-and-conscious-influence](/topics/dream-consciousness/)` in the "productive void" paragraph with concrete evidence summary
 3. Added inline cross-link to `[altered-states-as-void-probes](/voids/altered-states-as-void-probes/)` in the "state-dependent" paragraph
-4. Replaced duplicate Further Reading entries with `[dreamless-sleep-void](/voids/dreamless-sleep-void/)`, `[dream-problem-solving-and-conscious-influence](/topics/dream-consciousness/)`, `[observation-void](/voids/observation-void/)`, and `[altered-states-as-void-probes](/voids/altered-states-as-void-probes/)`
+4. Replaced duplicate Further Reading entries with `[dreamless-sleep-void](/voids/sleep-consciousness-void/)`, `[dream-problem-solving-and-conscious-influence](/topics/dream-consciousness/)`, `[observation-void](/voids/observation-void/)`, and `[altered-states-as-void-probes](/voids/altered-states-as-void-probes/)`
 5. Tightened prose in several places to offset additions (length-neutral mode)
 
 ### Cross-links Added
 - [observation-void](/voids/observation-void/) (inline + Further Reading)
-- [dreamless-sleep-void](/voids/dreamless-sleep-void/) (frontmatter + Further Reading)
+- [dreamless-sleep-void](/voids/sleep-consciousness-void/) (frontmatter + Further Reading)
 - [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) (inline + frontmatter + Further Reading)
 - [dream-problem-solving-and-conscious-influence](/topics/dream-consciousness/) (inline + frontmatter + Further Reading)
 

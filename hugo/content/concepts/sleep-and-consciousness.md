@@ -177,7 +177,7 @@ The Map's interpretation would face difficulty if:
 - [sleep-memory-consolidation-consciousness-2026-01-18](/research/sleep-memory-consolidation-consciousness-2026-01-18/) — Detailed research notes
 - [capability-division-problem](/voids/capability-division-problem/) — Which capabilities belong to the brain and which to consciousness
 - [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) — Memory as a dual-domain capability across physical and non-physical domains
-- [The Dream Consciousness Void](/voids/dream-consciousness-void/) — Why waking cannot access dreaming and dreaming cannot access waking
+- [The Dream Consciousness Void](/voids/sleep-consciousness-void/) — Why waking cannot access dreaming and dreaming cannot access waking
 
 ## References
 

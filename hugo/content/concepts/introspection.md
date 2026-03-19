@@ -181,7 +181,7 @@ This matters for consciousness science. If we restricted inquiry to third-person
 - [introspective-opacity](/voids/introspective-opacity/) — The void where process access fails structurally, including why we cannot observe our own willing
 - [attention-disorders-and-consciousness](/voids/attention-disorders-and-consciousness/) — When the attentional basis of introspection is itself disordered
 - [The Transition Void](/voids/transition-void/) — Why consciousness cannot witness its own state transitions—a structural introspective limit
-- [The Dream Consciousness Void](/voids/dream-consciousness-void/) — State-dependent limits on introspecting dreaming from waking
+- [The Dream Consciousness Void](/voids/sleep-consciousness-void/) — State-dependent limits on introspecting dreaming from waking
 
 ## References
 

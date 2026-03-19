@@ -56,8 +56,8 @@ topics: []
 - Added two void cross-links expanding the article's connections
 
 ### Cross-links Added
-- [dream-consciousness-void](/voids/dream-consciousness-void/)
-- [dreamless-sleep-void](/voids/dreamless-sleep-void/)
+- [dream-consciousness-void](/voids/sleep-consciousness-void/)
+- [dreamless-sleep-void](/voids/sleep-consciousness-void/)
 
 ## Remaining Items
 

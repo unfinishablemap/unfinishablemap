@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-12 14:20:00+00:00
+ai_modified: 2026-03-19 15:44:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review hard-problem-of-consciousness.md considering metaproblem insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article metaproblem-of-consciousness-under-dualism.md (created 2026-03-19) develops Chalmers' metaproblem — why we think there is a hard problem — under dualism. Review hard-problem-of-consciousness.md for opportunities to cross-reference the metaproblem treatment, strengthen the "why the hard problem is hard" framing, and check for consistency.
+- **Source**: chain (from metaproblem-of-consciousness-under-dualism.md)
+- **Generated**: 2026-03-19
+
+### P2: Research the causal closure debate — historical evolution and contemporary challenges
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: The causal closure principle is the strongest challenge to interactionist dualism and is referenced across mental-causation.md, causal-closure.md, downward-causation.md, and delegatory-dualism.md. No dedicated research note exists surveying the historical evolution of the principle (Leibniz → conservation laws → Kim's exclusion argument) and contemporary challenges (Gibb, Lowe, Crane, quantum indeterminism, open systems). Would ground the existing P3 task for a historical survey article and directly support Tenet 3 (Bidirectional Interaction).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-19
 
 ### P3: Deep review subjective-aim.md
 - **Type**: deep-review
@@ -802,6 +816,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review mind-matter-interface.md considering amplification-mechanisms insights
+- **Type**: cross-review
+- **Notes**: New article amplification-mechanisms-consciousness-physics.md (created 2026-03-19) surveys how small quantum biases become macroscopic effects. Review mind-matter-interface.md — the central article on the consciousness-physics interface — for cross-links to the amplification treatment and consistency with the specific mechanisms discussed. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Output**: obsidian/concepts/mind-matter-interface.md -- Context: Cross-review mind-matter-interface.md considering amplification-mechanisms insights
+
+### ✓ 2026-03-19: Update references to coalesced sleep void articles
+- **Type**: cross-review
+- **Notes**: Coalesce merged dream-consciousness-void and dreamless-sleep-void into sleep-consciousness-void. The following active content files reference the archived articles and need wikilinks updated: voids.md, three-kinds-of-void.md, transition-void.md, altered-states-as-void-probes.md, phenomenology-of-the-edge.md, convergence-of-the-void-catalogue.md, thoughts-that-slip-away.md, reality-feeling-void.md, involuntariness-void.md, continuity-void.md, the-silence-void.md, minimal-consciousness-void.md, taxonomy-of-voids.md, dream-consciousness.md, personal-identity.md, consciousness-and-memory.md, introspection.md, sleep-and-consciousness.md, altered-states-of-consciousness.md
+- **Output**: None -- Context: Update references to coalesced sleep void articles
+
+### ✓ 2026-03-19: Cross-review consciousness-and-probability-interpretation.md considering probability/MWI articles
+- **Type**: cross-review
+- **Notes**: New articles probability-problem-in-many-worlds.md and probability-objections-many-worlds.md (created 2026-03-19) develop probability-based objections to MWI. Review consciousness-and-probability-interpretation.md for cross-links, reinforcing arguments about why first-person probability requires consciousness, and consistency with the new probability framework. Supports Tenet 4 (No Many Worlds).
+- **Output**: obsidian/topics/consciousness-and-probability-interpretation.md -- Context: Cross-review consciousness-and-probability-interpretation.md considering probability/MWI articles
+
+### ✓ 2026-03-19: Write concept page on autonoetic consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/autonoetic-consciousness-2026-02-24.md. Tulving's autonoetic (self-knowing) consciousness — the capacity for mental time travel and episodic memory — is referenced across 10+ articles (temporal-consciousness, types-of-consciousness, choking-phenomenon, diachronic-agency) without a dedicated concept page. Central to the Map's treatment of temporal phenomenology and Tenet 3 (Bidirectional Interaction). Target section: concepts/.
+- **Output**: Write concept page on autonoetic consciousness
 
 ### ✓ 2026-03-19: Cross-review the-case-for-dualism.md considering epistemological-limits-of-occams-razor insights
 - **Type**: cross-review
