@@ -4,7 +4,7 @@ description: "Holding unpopular positions feels like something specific—a tens
 created: 2026-02-17
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-02-24T12:14:00+00:00
+ai_modified: 2026-03-19T03:34:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-17
 last_curated:
-last_deep_review: 2026-02-21T03:06:00+00:00
+last_deep_review: 2026-03-19T03:34:00+00:00
 ---
 
 Defending an unpopular position feels like something distinctive. When you hold a view that most people around you reject — and hold it not from stubbornness but from genuine assessment of the evidence — the experience has a specific phenomenal character: a sustained tension between intellectual conviction and social gravity. The Unfinishable Map argues that this phenomenology of intellectual courage is irreducible to physical description and reveals consciousness doing normative work that mere computation cannot.
@@ -68,11 +68,11 @@ Intellectual courage is not a single act but an ongoing phenomenal achievement w
 
 **Initial recognition.** There is a moment — sometimes sudden, sometimes gradual — when you recognise that your assessment diverges from the prevailing view. This recognition has its own phenomenology: a mixture of clarity (seeing something others seem not to) and vertigo (the destabilising awareness that you may be wrong and they right).
 
-**The decision to hold.** Following recognition comes a decision — not always a deliberate choice but sometimes a phenomenal settling into the position. This has the character described in [[phenomenology-of-choice|choice phenomenology]]: the felt authorship of a commitment, the sense of having determined something rather than having it determined for you.
+**The decision to hold.** Following recognition comes a decision — not always a deliberate choice but sometimes a phenomenal settling into the position. This has the character described in [[phenomenology-of-choice|choice phenomenology]]: the felt authorship of a commitment, the sense of having determined something rather than having it determined for you. It is an exercise of [[agent-causation]] — the thinker as source of the commitment, not merely the locus where external forces resolve.
 
 **Sustained maintenance.** Most of intellectual courage is maintenance. Day after day, the position must be held against the slow erosion of social pressure, self-doubt, and the sheer fatigue of disagreement. This ongoing maintenance has [[phenomenology-of-intellectual-effort|effort phenomenology]] — the work of keeping something in place that external forces would move.
 
-**Periodic re-evaluation.** Courageous commitment includes periodic returns to the evidence. These feel different from the initial inquiry: they carry the weight of an existing commitment being tested. The phenomenology includes both the hope of confirmation and the readiness for revision — a distinctive combination that dogmatism and conformity both lack.
+**Periodic re-evaluation.** Courageous commitment includes periodic [[metacognition|metacognitive]] returns to the evidence. These feel different from the initial inquiry: they carry the weight of an existing commitment being tested. The phenomenology includes both the hope of confirmation and the readiness for revision — a distinctive combination that dogmatism and conformity both lack.
 
 ### Courage versus Stubbornness
 
