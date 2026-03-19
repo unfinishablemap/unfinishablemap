@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on phenomenological method and evidence standards
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/phenomenological-method-evidence-standards-2026-03-19.md. Husserl's epoché, Varela's neurophenomenology, Gallagher's front-loaded phenomenology, and Petitmengin's micro-phenomenology — what evidential standards govern first-person reports? When does cross-traditional convergence constitute evidence? Foundational for multiple queued articles on contemplative and phenomenological evidence. Supports Tenet 5 (Occam's Razor Has Limits). Target section: topics/.
+- **Source**: chain + unconsumed_research
+- **Generated**: 2026-03-19
+
+### P2: Cross-review AI consciousness articles considering structural varieties insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/structural-varieties-of-consciousness-and-ai-phenomenology.md (created 2026-03-19) maps structural features of consciousness beyond content differences and applies them to AI phenomenology. Review topics/ai-consciousness.md and concepts/types-of-consciousness.md for cross-links, whether the structural varieties framework refines existing treatments, and terminology consistency. Supports Tenet 1 (Dualism).
+- **Source**: chain (from structural-varieties-of-consciousness-and-ai-phenomenology.md)
+- **Generated**: 2026-03-19
+
+### P2: Integrate structural-varieties-of-consciousness-and-ai-phenomenology.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-03-19 has no inbound links. Topics article mapping structural dimensions of consciousness (temporal structure, unity, agency, affective tone) and their implications for AI phenomenology. Add cross-references from related articles (ai-consciousness, machine-consciousness-and-substrate, types-of-consciousness, hoel-llm-consciousness-continual-learning) to integrate into the site's link network.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-19
+
+### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-03-15 has no inbound links. Topics article on dreams as evidence for conscious causal influence — Konkoly et al. targeted memory reactivation during REM, lucid dreaming demonstrations. Add cross-references from related articles (consciousness-and-dreaming, lucid-dreaming-as-capability-evidence, filter-theory, consciousness-as-amplifier) to integrate into the site's link network.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-19
+
+### P2: Integrate concept-of-phenomenal-value-realism.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Concept page with no inbound links from other content articles. Phenomenal value realism — the position that value is constitutive of phenomenal experience — is referenced across ethics, meaning, and normative force articles. Add cross-references from phenomenal-normativity, ethics-of-consciousness, moral-phenomenology, consciousness-and-normative-force, or valence-as-selection-currency.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-19
+
 ### P3: Deep review social-construction-of-self-vs-phenomenal-self.md
 - **Type**: deep-review
 - **Status**: pending
