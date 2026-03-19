@@ -4,9 +4,9 @@ description: "Interface friction is the resistance consciousness encounters when
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-04T13:38:00+00:00
+ai_modified: 2026-03-19T08:37:00+00:00
 draft: false
-last_deep_review: 2026-02-20T09:06:00+00:00
+last_deep_review: 2026-03-19T08:37:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
@@ -61,7 +61,7 @@ This coupling imprecision is familiar from everyday experience. The word you wan
 
 ### Attentional Cost
 
-Sustaining conscious influence requires [[mental-effort|effort]]. The phenomenology of effortful concentration—the felt strain of maintaining focus, the relief when attention relaxes—reflects genuine work at the interface. On the quantum Zeno interpretation (Stapp 2001; Schwartz et al. 2005), holding a neural pattern stable against decoherence requires repeated observation. Each observation costs something, and the cost accumulates.
+Sustaining conscious influence requires [[mental-effort|effort]]. The phenomenology of effortful concentration—the felt strain of maintaining focus, the relief when attention relaxes—reflects genuine work at the interface. On the quantum Zeno interpretation (Stapp 2007; Schwartz et al. 2005), holding a neural pattern stable against decoherence requires repeated observation—a form of [[consciousness-selecting-neural-patterns|conscious pattern selection]]. Each observation costs something, and the cost accumulates.
 
 A tension exists between the bandwidth limitation (tens of bits per second) and the observation rate the quantum Zeno effect would require (potentially far faster than conscious deliberation). One resolution: the observations that sustain Zeno stabilisation need not be individually conscious. Consciousness may set the *target* pattern at low bandwidth while a sub-personal coupling mechanism sustains the high-frequency observations. The felt effort of concentration would then reflect the cost of maintaining this target specification against competing demands, not the cost of each individual quantum observation.
 
@@ -125,5 +125,5 @@ The filter model also generates a distinctive prediction: reduced neural constra
 1. Carhart-Harris, R. L., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *Proceedings of the National Academy of Sciences*, 109(6), 2138–2143.
 1. Norretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
 1. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309–1327.
-1. Stapp, H. P. (2001). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Zimmermann, M. (1986). Neurophysiology of sensory systems. In R. F. Schmidt (Ed.), *Fundamentals of Sensory Physiology* (3rd ed., pp. 68–116). Springer.
