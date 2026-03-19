@@ -155,7 +155,7 @@ However, two quasi-direct approaches exist:
 
 ### Indirect Methods
 
-**Apophatic cartography.** Map the void by studying how understanding fails at level transitions. The [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/) approach: the characteristic "and then" feeling at the emergence boundary is a failure signature that can be catalogued and compared across domains.
+**Apophatic cartography.** Map the void by studying how understanding fails at level transitions. The [topology-of-cognitive-failure](/voids/compound-failure-signatures/) approach: the characteristic "and then" feeling at the emergence boundary is a failure signature that can be catalogued and compared across domains.
 
 **Negative characterisation.** We can say what emergence is *not*: not aggregation (it's genuinely novel), not addition (nothing external is added), not magic (it's lawful and reproducible). The space defined by these negations maps the void's boundary even if we cannot enter its interior.
 
@@ -201,7 +201,7 @@ Based on this research, a voids article could:
 
 1. **"The Emergence Void"** — Frame the inability to grasp how arrangement produces novelty as a cognitive void in its own right, distinct from but related to the hard problem. Argue that the hard problem is the deepest instance of a more general emergence void that appears wherever description changes levels. Use the Special Composition Question, the combination problem, and the weak-to-strong emergence spectrum as evidence.
 
-2. **"Why Understanding Stops at Level Transitions"** — Focus on the phenomenology of the emergence void: the "and then" feeling, the level-switching vertigo, the illusion of understanding weak emergence. Use the [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/) framework to characterise emergence failure as a distinctive cognitive signature.
+2. **"Why Understanding Stops at Level Transitions"** — Focus on the phenomenology of the emergence void: the "and then" feeling, the level-switching vertigo, the illusion of understanding weak emergence. Use the [topology-of-cognitive-failure](/voids/compound-failure-signatures/) framework to characterise emergence failure as a distinctive cognitive signature.
 
 ## Gaps in Research
 

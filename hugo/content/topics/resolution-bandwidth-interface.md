@@ -28,6 +28,7 @@ related_articles:
 - '[[resolution-void]]'
 - '[[psychophysical-laws]]'
 - '[[baseline-cognition]]'
+- '[[structural-varieties-of-consciousness-and-ai-phenomenology]]'
 title: The Resolution-Bandwidth Interface
 topics:
 - '[[hard-problem-of-consciousness]]'

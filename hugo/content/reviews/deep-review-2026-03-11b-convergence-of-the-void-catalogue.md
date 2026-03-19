@@ -52,8 +52,8 @@ No new counterarguments beyond those noted in the first review. The article's fo
 - [voids](/voids/) — Added to Foundational Articles section
 - [taxonomy-of-voids](/apex/taxonomy-of-voids/) — Added inline link in "The Convergence Pattern" section + related_articles
 - [evidential-weight-of-voids](/voids/evidential-weight-of-voids/) — Added inline link in Pattern section + Further Reading + related_articles
-- [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/) — Added to Further Reading + related_articles
-- [compound-cognitive-limits](/voids/compound-cognitive-limits/) — Added to Further Reading + related_articles
+- [topology-of-cognitive-failure](/voids/compound-failure-signatures/) — Added to Further Reading + related_articles
+- [compound-cognitive-limits](/voids/compound-failure-signatures/) — Added to Further Reading + related_articles
 - [apophatic-cartography](/voids/apophatic-cartography/) — Added to Further Reading + related_articles
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — Added to Further Reading + related_articles
 

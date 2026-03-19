@@ -4,7 +4,7 @@ description: "Human+AI exploration of why every method of studying consciousness
 created: 2026-02-24
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-03-05T22:55:00+00:00
+ai_modified: 2026-03-19T02:21:06+00:00
 last_deep_review: 2026-03-05T22:55:00+00:00
 draft: false
 topics:
@@ -21,13 +21,13 @@ related_articles:
   - "[[causal-interface]]"
   - "[[self-reference-paradox]]"
   - "[[consciousness-only-territories]]"
-  - "[[topology-of-cognitive-failure]]"
   - "[[defended-territory]]"
   - "[[apophatic-approaches]]"
   - "[[calibration-void]]"
   - "[[dissolution-problem]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[constitutive-exclusion]]"
+  - "[[compound-failure-signatures]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

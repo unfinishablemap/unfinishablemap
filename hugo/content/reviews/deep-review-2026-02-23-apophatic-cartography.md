@@ -54,7 +54,7 @@ topics: []
 ### Cross-links Added (Orphan Integration)
 Inbound links added from these 10 articles:
 - [Voids in the Map](/voids/) — Fixed mislabeled link ("apophatic cartography" was linked to topology-of-cognitive-failure) + added to Methods and Probes section
-- [The Topology of Cognitive Failure](/voids/topology-of-cognitive-failure/) — Linked the defining phrase "This is apophatic cartography" + added to Further Reading
+- [The Topology of Cognitive Failure](/voids/compound-failure-signatures/) — Linked the defining phrase "This is apophatic cartography" + added to Further Reading
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Added to Further Reading (first entry) + inline link in "Approaching the Edge" section
 - [The Epistemology of Cognitive Limits](/voids/epistemology-of-cognitive-limits/) — Inline link in "The Apophatic Method" section + added to Further Reading
 - [Evolved Cognitive Limits](/voids/evolved-cognitive-limits/) — Added to Further Reading

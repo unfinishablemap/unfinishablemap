@@ -4,7 +4,7 @@ description: "Human+AI exploration of how desire structures cognition itself—n
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-03-11T18:42:00+00:00
+ai_modified: 2026-03-19T02:21:06+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,8 +25,8 @@ related_articles:
   - "[[limits-reveal-structure]]"
   - "[[pre-conceptual-knowing]]"
   - "[[consciousness-only-territories]]"
-  - "[[topology-of-cognitive-failure]]"
   - "[[voids-appetitive-void-2026-02-10]]"
+  - "[[compound-failure-signatures]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -121,7 +121,7 @@ The appetitive void hypothesis would be weakened if:
 
 3. **Motivated reasoning proves individually variable without pattern.** If appetitive distortion is random rather than systematic, it is noise rather than structure.
 
-The evidence currently points toward the appetitive void as genuine. The convergence across Schopenhauer, Spinoza, Buddhism, Nietzsche, Lacan, and predictive processing—traditions with radically different starting points arriving at the same diagnosis—suggests something real is being tracked. This convergence contributes to the [[topology-of-cognitive-failure|topology of cognitive failure]]: desire-shaped cognition is not an isolated limit but part of a larger architecture of [[whether-real|boundaries that reveal structure]]. The deepest question remains open: Is desire something consciousness *does*, or something consciousness *is*?
+The evidence currently points toward the appetitive void as genuine. The convergence across Schopenhauer, Spinoza, Buddhism, Nietzsche, Lacan, and predictive processing—traditions with radically different starting points arriving at the same diagnosis—suggests something real is being tracked. This convergence contributes to the [[compound-failure-signatures|topology of cognitive failure]]: desire-shaped cognition is not an isolated limit but part of a larger architecture of [[whether-real|boundaries that reveal structure]]. The deepest question remains open: Is desire something consciousness *does*, or something consciousness *is*?
 
 ## Further Reading
 

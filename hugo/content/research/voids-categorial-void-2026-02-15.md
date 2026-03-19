@@ -213,7 +213,7 @@ However, three partial approaches exist:
 
 1. **Apophatic methods**: Describe what reality is *not* within our categories, gradually mapping the shape of what our categories cannot contain. The negative theology tradition has millennia of practice at this.
 
-2. **Structural failures as data**: When our categories systematically fail—as with the hard problem, quantum measurement, or self-reference—the *pattern* of failure may reveal the contours of what lies beyond. This is the approach of the [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/).
+2. **Structural failures as data**: When our categories systematically fail—as with the hard problem, quantum measurement, or self-reference—the *pattern* of failure may reveal the contours of what lies beyond. This is the approach of the [topology-of-cognitive-failure](/voids/compound-failure-signatures/).
 
 3. **Cross-species comparison**: If other species operate with genuinely different categories (as Nagel's bat argument suggests), studying the *differences* in how species parse reality could reveal the contingency of our own categories.
 

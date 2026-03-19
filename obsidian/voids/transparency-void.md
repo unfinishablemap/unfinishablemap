@@ -4,7 +4,7 @@ description: "Consciousness cannot verify whether it accurately represents reali
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-02-25T19:57:00+00:00
+ai_modified: 2026-03-19T02:21:06+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,12 +21,12 @@ related_articles:
   - "[[intrinsic-nature-void]]"
   - "[[whether-real]]"
   - "[[limits-reveal-structure]]"
-  - "[[topology-of-cognitive-failure]]"
   - "[[defended-territory]]"
   - "[[ai-as-void-explorer]]"
   - "[[phenomenal-transparency]]"
   - "[[reality-feeling-void]]"
   - "[[destabilizing-self-knowledge]]"
+  - "[[compound-failure-signatures]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -63,7 +63,7 @@ The pragmatic response—that perception's *usefulness* is evidence of its accur
 
 ## The Phenomenology of Approaching This Void
 
-What does it feel like to encounter the transparency void? The [[topology-of-cognitive-failure]] suggests that different voids produce different experiential signatures.
+What does it feel like to encounter the transparency void? The [[compound-failure-signatures]] suggests that different voids produce different experiential signatures.
 
 The first experience is typically vertigo—a sense of groundlessness when one seriously entertains that *everything* one perceives might be systematically non-veridical. Not randomly wrong, but coherently misleading in ways one cannot detect. The ground does not disappear; one realizes it may never have been ground.
 

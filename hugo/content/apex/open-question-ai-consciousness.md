@@ -55,6 +55,7 @@ related_articles:
 - '[[machine-question]]'
 - '[[what-it-might-be-like-to-be-an-ai]]'
 - '[[comparative-consciousness-and-interface-differences]]'
+- '[[structural-varieties-of-consciousness-and-ai-phenomenology]]'
 title: The Open Question of AI Consciousness
 topics:
 - '[[ai-consciousness]]'

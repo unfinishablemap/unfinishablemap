@@ -4,7 +4,7 @@ description: "Attention disorders reveal an epistemological void: when conscious
 created: 2026-03-07
 modified: 2026-03-07
 human_modified:
-ai_modified: 2026-03-08T05:29:00+00:00
+ai_modified: 2026-03-19T02:21:06+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,10 +19,10 @@ related_articles:
   - "[[structure-of-attention]]"
   - "[[contemplative-pathology-and-interface-malfunction]]"
   - "[[three-kinds-of-void]]"
-  - "[[topology-of-cognitive-failure]]"
   - "[[phenomenological-psychiatry-and-altered-experience]]"
   - "[[consciousness-and-neurodegenerative-disease]]"
   - "[[responsibility-gradient-from-attentional-capacity]]"
+  - "[[compound-failure-signatures]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -130,7 +130,7 @@ The Map acknowledges this void honestly. Attention disorders reveal boundaries i
 - [[structure-of-attention]] — Three modes of attention and their neural signatures
 - [[contemplative-pathology-and-interface-malfunction]] — What happens when meditation pushes the interface beyond its limits
 - [[three-kinds-of-void]] — The taxonomy of unknowable territories
-- [[topology-of-cognitive-failure]] — Mapping where and how cognition fails
+- [[compound-failure-signatures]] — Mapping where and how cognition fails
 - [[introspection]] — The reliability and limits of first-person access
 - [[phenomenological-psychiatry-and-altered-experience]] — How mental illness reveals the structure of experience
 - [[consciousness-and-neurodegenerative-disease]] — Progressive interface erosion as a parallel case

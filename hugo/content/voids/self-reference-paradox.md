@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-17 14:59:00+00:00
+ai_modified: 2026-03-19 02:21:06+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -37,12 +37,12 @@ related_articles:
 - '[[limits-reveal-structure]]'
 - '[[whether-real]]'
 - '[[destabilizing-self-knowledge]]'
-- '[[compound-cognitive-limits]]'
 - '[[calibration-void]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[absorption-void]]'
 - '[[narrative-void]]'
 - '[[ownership-void]]'
+- '[[compound-failure-signatures]]'
 title: The Self-Reference Paradox
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -90,7 +90,7 @@ A critical point: Buddhist philosophy draws the opposite metaphysical conclusion
 
 ## The Dissolving Insight
 
-Insights about consciousness seem clear for a moment and then dissolve—vanishing in the act of articulation. The [thoughts that slip away](/voids/thoughts-that-slip-away/) article catalogues slippage mechanisms. The self-reference paradox suggests some slippage may be structural—thoughts about thinking inherently less stable than thoughts about external objects. The [compound-cognitive-limits](/voids/compound-cognitive-limits/) framework shows that self-reference, language limits, and recursion limits don't merely sum but amplify each other.
+Insights about consciousness seem clear for a moment and then dissolve—vanishing in the act of articulation. The [thoughts that slip away](/voids/thoughts-that-slip-away/) article catalogues slippage mechanisms. The self-reference paradox suggests some slippage may be structural—thoughts about thinking inherently less stable than thoughts about external objects. The [compound-failure-signatures](/voids/compound-failure-signatures/) framework shows that self-reference, language limits, and recursion limits don't merely sum but amplify each other.
 
 Two characteristic phenomenologies emerge. **The receding horizon**: the self seems always just ahead—present but never where you look. **Spacious release**: when attention turns fully inward and finds nothing to grasp, some report empty wakefulness—awareness vividly present but without content. The [phenomenology of the edge](/voids/phenomenology-of-the-edge/) documents this "zero-person perspective."
 
@@ -143,7 +143,7 @@ The self-reference paradox may be the prototype void: territory consciousness st
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive limits illuminate cognitive architecture
 - [The Calibration Void](/voids/measurement-void/) — Why introspection cannot verify its own reliability
 - [The Constitutive Exclusion](/topics/constitutive-exclusion/) — The broader structural limit of which self-reference is a special case
-- [Compound Cognitive Limits](/voids/compound-cognitive-limits/) — How individual cognitive limits interact superadditively
+- [Compound Failure Signatures](/voids/compound-failure-signatures/) — How individual cognitive limits interact superadditively
 
 ## References
 

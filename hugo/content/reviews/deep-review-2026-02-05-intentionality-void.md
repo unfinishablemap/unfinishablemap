@@ -62,7 +62,7 @@ topics: []
 - [mysterianism](/concepts/mysterianism/) — Added as example of cognitive closure alongside creativity void + Further Reading
 - [the-unobservable-self](/voids/self-reference-paradox/) — Added alongside creativity void in "What This Void Reveals" section
 - [creativity-void](/voids/creativity-void/) — Added in "What the Void Reveals" section
-- [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/) — Added as example in Introspective Failure section
+- [topology-of-cognitive-failure](/voids/compound-failure-signatures/) — Added as example in Introspective Failure section
 - [introspection](/concepts/introspection/) — Added in process/content distinction section
 
 ### Cross-links Added (Outbound)

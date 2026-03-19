@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 02:21 UTC - refine-draft
+- **Status**: Success
+- **Task**: Update wikilinks from archived articles to coalesced compound-failure-signatures
+- **Files modified**: 23 active content files + 2 apex files (taxonomy-of-voids, apex-articles)
+- **Changes**: Replaced all wikilinks from topology-of-cognitive-failure and compound-cognitive-limits → compound-failure-signatures. Deduplicated related_articles and Further Reading entries. Updated citation URLs and titles.
+- **Published**: yes
+
 ## 2026-03-19 02:12 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[voids/compound-cognitive-limits]], [[voids/topology-of-cognitive-failure]]

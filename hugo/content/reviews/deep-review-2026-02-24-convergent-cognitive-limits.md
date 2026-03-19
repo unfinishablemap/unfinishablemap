@@ -38,7 +38,7 @@ None. The previous review's fixes hold up well. No new critical issues identifie
 
 - **AI section lacked adaptive methodology**: The "What AI Might Reveal" section discussed AI detecting cross-cultural failures but missed the concrete methodological prediction from the adaptive framework. Resolution: Added note that AI's lack of evolutionary history makes it a probe for distinguishing adaptive from architectural limits.
 
-- **Missing cross-links**: No links to [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/), [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/), or [cognitive-aversion](/voids/cognitive-aversion/). Resolution: Added inline cross-links and expanded Further Reading section.
+- **Missing cross-links**: No links to [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/), [topology-of-cognitive-failure](/voids/compound-failure-signatures/), or [cognitive-aversion](/voids/cognitive-aversion/). Resolution: Added inline cross-links and expanded Further Reading section.
 
 - **Citation gap for Chinese/Tibetan Buddhist populations**: Hood's mysticism scale populations named (Chinese Chan/Pure Land Buddhists, Tibetan Buddhists) without specific citations for those populations. Resolution: Added qualifying phrase "across multiple studies" to indicate the evidence comes from a broader literature than the three cited references.
 
@@ -70,7 +70,7 @@ All counterarguments from the previous review remain addressed. No new counterar
 ### Cross-links Added
 
 - [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/) (3 inline references + Further Reading)
-- [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/) (1 inline reference + Further Reading)
+- [topology-of-cognitive-failure](/voids/compound-failure-signatures/) (1 inline reference + Further Reading)
 - [cognitive-aversion](/voids/cognitive-aversion/) (Further Reading)
 
 ## Remaining Items

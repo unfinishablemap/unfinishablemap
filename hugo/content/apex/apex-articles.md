@@ -322,7 +322,7 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 - voids/apophatic-cartography
 - voids/evolved-cognitive-limits
 - voids/limits-reveal-structure
-- voids/topology-of-cognitive-failure
+- voids/compound-failure-signatures
 - voids/phenomenology-of-the-edge
 - voids/evidential-weight-of-voids
 - voids/tenet-generated-voids

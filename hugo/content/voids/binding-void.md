@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-03-10 17:39:00+00:00
+ai_modified: 2026-03-19 02:21:06+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -32,10 +32,10 @@ related_articles:
 - '[[self-reference-paradox]]'
 - '[[attention-created-voids]]'
 - '[[temporal-void]]'
-- '[[topology-of-cognitive-failure]]'
 - '[[whether-real]]'
 - '[[limits-reveal-structure]]'
 - '[[consciousness-only-territories]]'
+- '[[compound-failure-signatures]]'
 title: The Binding Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -145,7 +145,7 @@ The binding void connects to the Map's [tenets](/tenets/) at multiple points and
 - [causal-interface](/voids/causal-interface/) — How consciousness interfaces with the physical world
 - [self-reference-paradox](/voids/self-reference-paradox/) — Self-observation requires the unity this void concerns
 - [temporal-void](/voids/temporal-void/) — Binding's intersection with the temporal dimension
-- [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/) — Using the structure of failure as data
+- [compound-failure-signatures](/voids/compound-failure-signatures/) — Using the structure of failure as data
 - [mysterianism](/concepts/mysterianism/) — McGinn's cognitive closure thesis, strongly applicable here
 
 ## References

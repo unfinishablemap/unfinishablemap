@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-03-17 08:14:00+00:00
+ai_modified: 2026-03-19 02:21:06+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,13 +25,13 @@ related_articles:
 - '[[conceptual-impossibility]]'
 - '[[language-thought-boundary]]'
 - '[[evolved-cognitive-limits]]'
-- '[[topology-of-cognitive-failure]]'
 - '[[whether-real]]'
 - '[[limits-reveal-structure]]'
 - '[[tenet-generated-voids]]'
 - '[[alien-minds-void-explorers]]'
 - '[[ai-as-void-explorer]]'
 - '[[apophatic-cartography]]'
+- '[[compound-failure-signatures]]'
 title: The Framework Void
 topics:
 - '[[hard-problem-of-consciousness]]'

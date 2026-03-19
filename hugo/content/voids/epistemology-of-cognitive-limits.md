@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-04
-ai_modified: 2026-03-15 08:01:00+00:00
+ai_modified: 2026-03-19 02:21:06+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,12 +24,12 @@ related_articles:
 - '[[whether-real]]'
 - '[[apophatic-approaches]]'
 - '[[limits-reveal-structure]]'
-- '[[topology-of-cognitive-failure]]'
 - '[[three-kinds-of-void]]'
 - '[[introspective-opacity]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[evidential-weight-of-voids]]'
 - '[[evolved-cognitive-limits]]'
+- '[[compound-failure-signatures]]'
 title: The Epistemology of Cognitive Limits
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -97,7 +97,7 @@ The approach: since positive description of what lies beyond our grasp will alwa
 
 Nicholas of Cusa's *docta ignorantia*—learned ignorance—refines this insight. The goal is not to fill gaps with speculation but to know more precisely *that* we do not know and *why*. Cusanus distinguished simple ignorance (not knowing and not knowing it) from learned ignorance (knowing the limits of your knowledge). The latter is achievement, not merely absence.
 
-The [topology of cognitive failure](/voids/topology-of-cognitive-failure/) extends this methodology. Different types of limits produce different breakdown signatures—self-refutation, aporia, systematic illusion, introspective construction. By attending to *how* thought fails rather than merely *that* it fails, we can triangulate on the nature of limits even if we cannot directly verify them. [Apophatic cartography as epistemic method](/voids/apophatic-cartography/) formalises these indirect approaches with explicit evidential standards — criteria for structured persistence, cross-observer convergence, signature specificity, and framework independence.
+The [topology of cognitive failure](/voids/compound-failure-signatures/) extends this methodology. Different types of limits produce different breakdown signatures—self-refutation, aporia, systematic illusion, introspective construction. By attending to *how* thought fails rather than merely *that* it fails, we can triangulate on the nature of limits even if we cannot directly verify them. [Apophatic cartography as epistemic method](/voids/apophatic-cartography/) formalises these indirect approaches with explicit evidential standards — criteria for structured persistence, cross-observer convergence, signature specificity, and framework independence.
 
 ## Convergence as Weak Evidence
 
@@ -144,7 +144,7 @@ If the epistemology of limits is itself a limit, several methodological conseque
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive dark spaces
 - [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
-- [The Topology of Cognitive Failure](/voids/topology-of-cognitive-failure/) — Using failure patterns as data
+- [Compound Failure Signatures](/voids/compound-failure-signatures/) — Using failure patterns as data
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalised evidential standards for void-mapping
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — The unexplored, unexplorable, and occluded

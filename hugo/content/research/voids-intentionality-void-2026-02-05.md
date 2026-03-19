@@ -185,7 +185,7 @@ Phenomenological reduction (Husserl's epoché) can bracket questions about wheth
 
 ### Indirect Methods
 
-**Error analysis**: Like the [topology of cognitive failure](/voids/topology-of-cognitive-failure/), we can study when intentionality goes wrong. Misidentification, reference failure, and the Hesperus/Phosphorus cases reveal constraints on the mechanism even if the mechanism itself remains hidden.
+**Error analysis**: Like the [topology of cognitive failure](/voids/compound-failure-signatures/), we can study when intentionality goes wrong. Misidentification, reference failure, and the Hesperus/Phosphorus cases reveal constraints on the mechanism even if the mechanism itself remains hidden.
 
 **Pathology windows**: Conditions affecting intentionality—thought insertion in schizophrenia, confabulation, misidentification syndromes—provide glimpses of normally hidden processes when they malfunction.
 

@@ -4,7 +4,7 @@ description: "How do thoughts achieve their aboutness? Human+AI exploration of w
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-03-15T14:19:00+00:00
+ai_modified: 2026-03-19T02:21:06+00:00
 last_deep_review: 2026-03-15T14:19:00+00:00
 draft: false
 topics:
@@ -22,9 +22,9 @@ related_articles:
   - "[[creativity-void]]"
   - "[[intrinsic-nature-void]]"
   - "[[three-kinds-of-void]]"
-  - "[[topology-of-cognitive-failure]]"
   - "[[limits-reveal-structure]]"
   - "[[introspective-opacity]]"
+  - "[[compound-failure-signatures]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
@@ -142,7 +142,7 @@ The intentionality void connects directly to the Map's [[tenets|foundational com
 - [[creativity-void]] — Where insight originates, equally opaque to introspection
 - [[intrinsic-nature-void]] — Physics describes what matter does, not what it is
 - [[three-kinds-of-void]] — Unexplored, unexplorable, occluded
-- [[topology-of-cognitive-failure]] — Using the structure of failure as data
+- [[compound-failure-signatures]] — Using the structure of failure as data
 - [[limits-reveal-structure]] — How boundaries illuminate architecture
 - [[mysterianism]] — Cognitive closure and structural limits on knowledge
 - [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality]] — How consciousness grounds aboutness

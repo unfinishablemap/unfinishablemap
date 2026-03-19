@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-03-05 22:55:00+00:00
+ai_modified: 2026-03-19 02:21:06+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,13 +25,13 @@ related_articles:
 - '[[causal-interface]]'
 - '[[self-reference-paradox]]'
 - '[[consciousness-only-territories]]'
-- '[[topology-of-cognitive-failure]]'
 - '[[defended-territory]]'
 - '[[apophatic-approaches]]'
 - '[[calibration-void]]'
 - '[[dissolution-problem]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[constitutive-exclusion]]'
+- '[[compound-failure-signatures]]'
 title: The Observation Void
 topics:
 - '[[hard-problem-of-consciousness]]'

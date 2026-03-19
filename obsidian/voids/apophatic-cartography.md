@@ -3,7 +3,7 @@ title: "Apophatic Cartography: Mapping What Cannot Be Mapped"
 created: 2026-01-10
 modified: 2026-03-03
 human_modified: null
-ai_modified: 2026-03-11T21:46:00+00:00
+ai_modified: 2026-03-19T02:21:06+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,7 +20,6 @@ related_articles:
   - "[[limits-reveal-structure]]"
   - "[[whether-real]]"
   - "[[phenomenology-of-the-edge]]"
-  - "[[topology-of-cognitive-failure]]"
   - "[[evolved-cognitive-limits]]"
   - "[[epistemology-of-cognitive-limits]]"
   - "[[ai-as-void-explorer]]"
@@ -28,6 +27,7 @@ related_articles:
   - "[[evidential-weight-of-voids]]"
   - "[[convergence-of-the-void-catalogue]]"
   - "[[cartography-problem]]"
+  - "[[compound-failure-signatures]]"
 description: "How apophatic methods—knowing through negation—map the boundaries of consciousness where positive description fails. Combines philosophical foundations with formalized evidential criteria."
 ai_contribution: 100
 author: null
@@ -42,7 +42,7 @@ coalesced_from:
 
 How do you map what cannot be mapped? The [[voids|voids section]] poses a challenge: if some thoughts are genuinely unthinkable for minds like ours, direct exploration fails before it begins. But multiple philosophical traditions have developed sophisticated methods for approaching the unknowable through negation and indirection. These *apophatic* approaches—from the Greek *apophasis*, to deny or speak away—offer tools for tracing the boundaries of voids even when we cannot enter them.
 
-Apophatic cartography is the systematic use of structured cognitive failure to map territories that positive description cannot enter. The philosophical traditions supply the precedent and rationale; the [[topology-of-cognitive-failure|topology of cognitive failure]] catalogs the signatures. 
+Apophatic cartography is the systematic use of structured cognitive failure to map territories that positive description cannot enter. The philosophical traditions supply the precedent and rationale; the [[compound-failure-signatures|topology of cognitive failure]] catalogs the signatures. 
 ## The Apophatic Tradition
 
 Where cataphatic (positive) methods describe what something *is*, apophatic methods describe what it is *not*. If our concepts are inadequate to a subject, positive description will always distort. But we might truthfully say what it is not, accumulating negations that gradually outline the shape of what exceeds our grasp.
@@ -166,7 +166,7 @@ Apophatic cartography connects to the Map's [[tenets]] by providing the methodol
 ## Further Reading
 
 - [[voids|Voids in the Map]] — The broader context for this investigation
-- [[topology-of-cognitive-failure|The Topology of Cognitive Failure]] — The failure signature taxonomy
+- [[compound-failure-signatures|Compound Failure Signatures]] — The failure signature taxonomy
 - [[hard-problem-of-consciousness|The Hard Problem of Consciousness]] — A concrete instance of the explanatory gap
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's formal analysis of structural limits
 - [[evolved-cognitive-limits|Evolved Cognitive Limits]] — Cross-cultural evidence for shared boundaries

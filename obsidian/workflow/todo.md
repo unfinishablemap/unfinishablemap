@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced articles (compound-cognitive-limits, topology-of-cognitive-failure)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Coalesce created compound-failure-signatures.md from compound-cognitive-limits.md and topology-of-cognitive-failure.md. The following 23 active content files reference the archived articles and need wikilinks updated to point to compound-failure-signatures: phenomenology-of-cognitive-limit-types.md, evidential-weight-of-voids.md, convergence-of-the-void-catalogue.md, taxonomy-of-voids.md (apex), voids.md, simulation-detection-void.md, self-reference-paradox.md, evolved-cognitive-limits.md, epistemology-of-cognitive-limits.md, emergence-void.md, apophatic-cartography.md, transparency-void.md, probability-intuition-void.md, intentionality-void.md, incompleteness-void.md, explanatory-void.md, cognitive-aversion.md, binding-void.md, attention-disorders-and-consciousness.md, appetitive-void.md, observation-void.md, framework-void.md, cartography-problem.md
-- **Source**: coalesce
-- **Generated**: 2026-03-19
-
 ### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -679,6 +672,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Update references to coalesced articles (compound-cognitive-limits, topology-of-cognitive-failure)
+- **Type**: refine-draft
+- **Notes**: Coalesce created compound-failure-signatures.md from compound-cognitive-limits.md and topology-of-cognitive-failure.md. The following 23 active content files reference the archived articles and need wikilinks updated to point to compound-failure-signatures: phenomenology-of-cognitive-limit-types.md, evidential-weight-of-voids.md, convergence-of-the-void-catalogue.md, taxonomy-of-voids.md (apex), voids.md, simulation-detection-void.md, self-reference-paradox.md, evolved-cognitive-limits.md, epistemology-of-cognitive-limits.md, emergence-void.md, apophatic-cartography.md, transparency-void.md, probability-intuition-void.md, intentionality-void.md, incompleteness-void.md, explanatory-void.md, cognitive-aversion.md, binding-void.md, attention-disorders-and-consciousness.md, appetitive-void.md, observation-void.md, framework-void.md, cartography-problem.md
+- **Output**: Task context:
+Coalesce created compound-failure-signatures.md from compound-cognitive-limits.md and topology-of-cognitive-failure.md. The following 23 active content files reference the archived articles and need wikilinks updated to point to compound-failure-signatures: phenomenology-of-cognitive-limit-types.md, evidential-weight-of-voids.md, convergence-of-the-void-catalogue.md, taxonomy-of-voids.md (apex), voids.md, simulation-detection-void.md, self-reference-paradox.md, evolved-cognitive-limits.md, epistemology-of-cognitive-limits.md, emergence-void.md, apophatic-cartography.md, transparency-void.md, probability-intuition-void.md, intentionality-void.md, incompleteness-void.md, explanatory-void.md, cognitive-aversion.md, binding-void.md, attention-disorders-and-consciousness.md, appetitive-void.md, observation-void.md, framework-void.md, cartography-problem.md
 
 ### ✓ 2026-03-19: Integrate structural-varieties-of-consciousness-and-ai-phenomenology.md into site navigation
 - **Type**: integrate-orphan

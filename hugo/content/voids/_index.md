@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-03-17 08:14:00+00:00
+ai_modified: 2026-03-19 02:21:06+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
@@ -22,8 +22,8 @@ related_articles:
 - '[[index]]'
 - '[[three-kinds-of-void]]'
 - '[[ai-as-void-explorer]]'
-- '[[topology-of-cognitive-failure]]'
 - '[[origin-of-consciousness]]'
+- '[[compound-failure-signatures]]'
 title: Voids in the Map
 topics: []
 ---
@@ -62,7 +62,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — The core taxonomy: unexplored, unexplorable, occluded
 - [The Origin Void](/voids/origin-of-consciousness/) — Why consciousness exists at all—the most logically prior void
-- [The Topology of Cognitive Failure](/voids/topology-of-cognitive-failure/) — Using the structure of failure as data
+- [Compound Failure Signatures](/voids/compound-failure-signatures/) — Using the structure of failure as data
 - [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
 - [Convergence of the Void Catalogue](/voids/convergence-of-the-void-catalogue/) — How independently catalogued voids converge into five families
 - [The Cartography Problem](/voids/cartography-problem/) — Whether a map of cognitive voids can map its own incompleteness
@@ -152,7 +152,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Language-Thought Boundary](/voids/language-thought-boundary/) — What cannot be said
 - [Pre-Conceptual Knowing](/voids/pre-conceptual-knowing/) — Knowledge before and beyond concepts
 - [The Capability Division Problem](/voids/capability-division-problem/) — Where brain-side capabilities end and mind-side begins
-- [Compound Cognitive Limits](/voids/compound-cognitive-limits/) — How individual limits interact superadditively
+- [Compound Failure Signatures](/voids/compound-failure-signatures/) — How individual limits interact superadditively
 - [The Parsimony Void](/voids/epistemological-limits-occams-razor/) — Why Occam's Razor may be a cognitive bias masquerading as epistemic principle
 - [The Framework Void](/voids/framework-void/) — How conceptual frameworks exclude what they cannot represent
 - [The Probability Intuition Void](/voids/probability-intuition-void/) — Why genuine randomness resists intuitive comprehension

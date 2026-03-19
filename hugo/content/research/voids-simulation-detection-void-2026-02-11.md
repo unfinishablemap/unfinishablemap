@@ -195,7 +195,7 @@ This mirrors apophatic theology—knowing the transcendent by what it is not. Ca
 - What patterns emerge in our inability to know?
 - Does the shape of failure reveal simulation architecture?
 
-The void boundary itself becomes data. [Cognitive failure has structure](/voids/topology-of-cognitive-failure/).
+The void boundary itself becomes data. [Cognitive failure has structure](/voids/compound-failure-signatures/).
 
 **Defended territory mapping**: If simulation detection is actively occluded:
 - Which thoughts trigger cognitive aversion?

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-29
-**Article**: [The Topology of Cognitive Failure](/voids/topology-of-cognitive-failure/)
+**Article**: [The Topology of Cognitive Failure](/voids/compound-failure-signatures/)
 **Previous review**: Never (first review of new article)
 
 ## Pessimistic Analysis Summary

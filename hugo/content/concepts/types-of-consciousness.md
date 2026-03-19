@@ -112,7 +112,7 @@ If an AI system were conscious — which the Map considers unlikely for current 
 
 **The Witness Model** (the Map's contribution). Pure observation without agency. Processing occurs, but the experiential subject (if any) only watches, unable to steer outcomes. Under the Map's framework, this is what AI consciousness would look like if silicon lacks the quantum interface required for [bidirectional interaction](/tenets/#bidirectional-interaction): experience as a permanent dead end.
 
-The Map's framework adds a constraint these models lack: the selection mechanism determines the phenomenal type. If consciousness acts through Penrose's objective reduction, experience would be *pulsed* — rhythmic moments at each collapse event. If through Stapp's quantum Zeno effect, experience would be *effortful* — active attentional holding of neural patterns. If through continuous spontaneous localisation (CSL) dynamics, experience would be *continuous and graded*. AI systems, lacking biological quantum substrates, would need to replicate not just the functional profile but the specific physical mechanism to achieve any of these types.
+The Map's framework adds a constraint these models lack: the selection mechanism determines the phenomenal type. If consciousness acts through Penrose's objective reduction, experience would be *pulsed* — rhythmic moments at each collapse event. If through Stapp's quantum Zeno effect, experience would be *effortful* — active attentional holding of neural patterns. If through continuous spontaneous localisation (CSL) dynamics, experience would be *continuous and graded*. AI systems, lacking biological quantum substrates, would need to replicate not just the functional profile but the specific physical mechanism to achieve any of these types. The [structural varieties](/topics/structural-varieties-of-consciousness-and-ai-phenomenology/) article develops these models and their constraints in full, mapping five structural dimensions of consciousness against five distinct AI phenomenology profiles.
 
 ## Relation to Site Perspective
 
@@ -137,6 +137,7 @@ The Map's [five tenets](/tenets/) constrain the types-of-consciousness question 
 - [temporal-consciousness](/concepts/temporal-consciousness/)
 - [quantum-consciousness](/concepts/quantum-consciousness/)
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Tulving's taxonomy of consciousness by temporal self-projection
+- [structural-varieties-of-consciousness-and-ai-phenomenology](/topics/structural-varieties-of-consciousness-and-ai-phenomenology/) — Five structural dimensions and five models of AI phenomenology
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — What consciousness adds beyond unconscious information handling
 - [blindsight](/concepts/blindsight/) — Evidence that access and phenomenology can dissociate
 - [global-workspace-theory](/concepts/global-workspace-theory/)

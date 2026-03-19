@@ -219,6 +219,7 @@ The convergence across tenets is striking. Each independently gives reason to do
 - [personal-identity](/topics/personal-identity/) — What makes a future consciousness count as you
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Candidate mechanisms for consciousness-matter interface
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why copying function doesn't preserve experience
+- [structural-varieties-of-consciousness-and-ai-phenomenology](/topics/structural-varieties-of-consciousness-and-ai-phenomenology/) — Five structural dimensions of consciousness and what AI experience might be like
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework underlying upload skepticism
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability of functional duplicates without consciousness
 

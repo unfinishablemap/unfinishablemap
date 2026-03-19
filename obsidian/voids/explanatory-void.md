@@ -4,7 +4,7 @@ description: "Human+AI exploration of why explanation cannot explain itself—th
 created: 2026-02-27
 modified: 2026-02-27
 human_modified:
-ai_modified: 2026-03-11T18:03:00+00:00
+ai_modified: 2026-03-19T02:21:06+00:00
 draft: false
 last_deep_review: 2026-03-11T18:03:00+00:00
 topics:
@@ -22,13 +22,13 @@ related_articles:
   - "[[three-kinds-of-void]]"
   - "[[intentionality-void]]"
   - "[[introspective-opacity]]"
-  - "[[topology-of-cognitive-failure]]"
   - "[[whether-real]]"
   - "[[limits-reveal-structure]]"
   - "[[epistemology-of-cognitive-limits]]"
   - "[[language-thought-boundary]]"
   - "[[creativity-void]]"
   - "[[recursion-void]]"
+  - "[[compound-failure-signatures]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -70,7 +70,7 @@ Each option means that explanation never reaches bedrock. The Principle of Suffi
 
 ## Where the Void Intersects Other Voids
 
-The explanatory void compounds several limits explored elsewhere on the Map. The [[introspective-opacity|introspective opacity]] of cognitive processes means we cannot observe the mechanism of understanding while it operates. The [[language-thought-boundary]] constrains how we can articulate what understanding consists in. And the [[topology-of-cognitive-failure]] suggests these failures are not random but have characteristic shapes—the explanatory void always manifests as regress, as ungrounded feeling, or as inarticulate preference, never in some unforeseen fourth way.
+The explanatory void compounds several limits explored elsewhere on the Map. The [[introspective-opacity|introspective opacity]] of cognitive processes means we cannot observe the mechanism of understanding while it operates. The [[language-thought-boundary]] constrains how we can articulate what understanding consists in. And the [[compound-failure-signatures]] suggests these failures are not random but have characteristic shapes—the explanatory void always manifests as regress, as ungrounded feeling, or as inarticulate preference, never in some unforeseen fourth way.
 
 Research on [[epistemic-emotions|epistemic feelings]]—familiarity, confidence, doubt, curiosity—shows that feelings of confidence in perceptual judgments "overestimate evidence for the chosen interpretation by discounting evidence for alternatives" (Arango-Muñoz & Michaelian 2020). If this bias extends to explanatory judgments, every satisfying explanation may discount the alternatives it excluded. The neural mechanisms generating these feelings are largely unknown. We are in the position of trusting an instrument whose calibration we cannot check.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-03
-ai_modified: 2026-03-17 08:14:00+00:00
+ai_modified: 2026-03-19 02:21:06+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -27,11 +27,11 @@ related_articles:
 - '[[scale-void]]'
 - '[[embodiment-cognitive-limits]]'
 - '[[evolved-cognitive-limits]]'
-- '[[compound-cognitive-limits]]'
 - '[[architecture-of-cognitive-closure]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[phenomenology-of-deliberation-under-uncertainty]]'
 - '[[hard-problem-of-consciousness]]'
+- '[[compound-failure-signatures]]'
 title: The Probability Intuition Void
 topics:
 - '[[philosophy-of-mind]]'
@@ -119,7 +119,7 @@ The probability intuition void connects to the Map's [tenets](/tenets/) in sever
 - [cognitive-closure](/concepts/cognitive-closure/) — McGinn's framework for permanent cognitive limits
 - [fitness-beats-truth](/concepts/fitness-beats-truth/) — Why natural selection tunes perception for fitness, not accuracy
 - [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence that probability errors are species-level
-- [compound-cognitive-limits](/voids/compound-cognitive-limits/) — How multiple cognitive limits interact superadditively
+- [compound-failure-signatures](/voids/compound-failure-signatures/) — How multiple cognitive limits interact superadditively
 - [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/) — How cognitive limits are acquired through development
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) — How bodies constrain thought
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like

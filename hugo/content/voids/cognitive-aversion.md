@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-18 23:59:00+00:00
+ai_modified: 2026-03-19 02:21:06+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,10 +27,10 @@ related_articles:
 - '[[death-void]]'
 - '[[death-and-consciousness]]'
 - '[[appetitive-void]]'
-- '[[topology-of-cognitive-failure]]'
 - '[[limits-reveal-structure]]'
 - '[[voids-cognitive-aversion-2026-02-01]]'
 - '[[phenomenology-of-cognitive-limit-types]]'
+- '[[compound-failure-signatures]]'
 title: Cognitive Aversion
 topics: []
 ---
@@ -179,7 +179,7 @@ The evidence currently points toward cognitive aversion as a genuine phenomenon�
 - [Defended Territory](/voids/defended-territory/) — Could some thoughts be actively blocked?
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Mechanisms of cognitive slippage
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at boundaries
-- [The Topology of Cognitive Failure](/voids/topology-of-cognitive-failure/) — How thought breaks down at void boundaries
+- [Compound Failure Signatures](/voids/compound-failure-signatures/) — How thought breaks down at void boundaries
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
 
 ## References

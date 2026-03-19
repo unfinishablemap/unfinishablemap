@@ -4,7 +4,7 @@ description: "Human+AI exploration of whether a map of cognitive voids can map i
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-03-10T17:08:00+00:00
+ai_modified: 2026-03-19T02:21:06+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,11 +20,11 @@ related_articles:
   - "[[whether-real]]"
   - "[[limits-reveal-structure]]"
   - "[[epistemology-of-cognitive-limits]]"
-  - "[[topology-of-cognitive-failure]]"
   - "[[apophatic-cartography]]"
   - "[[ai-as-void-explorer]]"
   - "[[taxonomy-of-voids]]"
   - "[[three-kinds-of-void]]"
+  - "[[compound-failure-signatures]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

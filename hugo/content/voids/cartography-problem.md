@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-03-10 17:08:00+00:00
+ai_modified: 2026-03-19 02:21:06+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,11 +25,11 @@ related_articles:
 - '[[whether-real]]'
 - '[[limits-reveal-structure]]'
 - '[[epistemology-of-cognitive-limits]]'
-- '[[topology-of-cognitive-failure]]'
 - '[[apophatic-cartography]]'
 - '[[ai-as-void-explorer]]'
 - '[[taxonomy-of-voids]]'
 - '[[three-kinds-of-void]]'
+- '[[compound-failure-signatures]]'
 title: The Cartography Problem
 topics:
 - '[[hard-problem-of-consciousness]]'

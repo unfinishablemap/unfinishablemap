@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-02-25 08:49:00+00:00
+ai_modified: 2026-03-19 02:21:06+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,9 +22,9 @@ related_articles:
 - '[[self-reference-paradox]]'
 - '[[limits-reveal-structure]]'
 - '[[whether-real]]'
-- '[[topology-of-cognitive-failure]]'
 - '[[computational-cognitive-limits]]'
 - '[[cartography-problem]]'
+- '[[compound-failure-signatures]]'
 title: The Incompleteness Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -163,7 +163,7 @@ The incompleteness void differs from other voids in being *mathematically demons
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive limits illuminate cognitive architecture
 - [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
 - [The Cartography Problem](/voids/cartography-problem/) — Why the map of cognitive voids cannot contain itself
-- [The Topology of Cognitive Failure](/voids/topology-of-cognitive-failure/) — Different failure signatures for different limit types
+- [Compound Failure Signatures](/voids/compound-failure-signatures/) — Different failure signatures for different limit types
 
 ## References
 

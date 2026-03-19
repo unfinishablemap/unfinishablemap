@@ -4,7 +4,7 @@ description: "Human+AI exploration of why no mind can grasp how arrangement prod
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-03-15T08:32:00+00:00
+ai_modified: 2026-03-19T02:21:06+00:00
 last_deep_review: 2026-03-15T08:32:00+00:00
 draft: false
 topics:
@@ -20,7 +20,6 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[topology-of-cognitive-failure]]"
   - "[[three-kinds-of-void]]"
   - "[[intrinsic-nature-void]]"
   - "[[scale-void]]"
@@ -30,6 +29,7 @@ related_articles:
   - "[[plurality-void]]"
   - "[[explanatory-void]]"
   - "[[limits-reveal-structure]]"
+  - "[[compound-failure-signatures]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -75,7 +75,7 @@ What does it feel like to approach this void?
 
 **The illusion of understanding.** We *feel* we understand weak emergence. Temperature just *is* molecular motion—what's to explain? But this feeling may itself be the limit's disguise. Strip away the habitual association and the conceptual gap reappears: why does *this* arrangement of vibrating particles constitute *that* thermal experience? The void may be hidden everywhere by familiarity, visible only at consciousness where the strangeness is too great to domesticate.
 
-**Combination vertigo.** Attempting to think how micro-experiences combine into macro-experience produces a strain that James called "unintelligible." This is not the strain of difficulty—difficult problems produce effort, not vertigo. It is the [[topology-of-cognitive-failure|characteristic signature]] of approaching a void boundary: the thought begins to form and then refuses to complete.
+**Combination vertigo.** Attempting to think how micro-experiences combine into macro-experience produces a strain that James called "unintelligible." This is not the strain of difficulty—difficult problems produce effort, not vertigo. It is the [[compound-failure-signatures|characteristic signature]] of approaching a void boundary: the thought begins to form and then refuses to complete.
 
 ## Classification in the Voids Taxonomy
 
@@ -114,7 +114,7 @@ The hard problem, reframed through the emergence void, is not a puzzle unique to
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[emergence]] — The philosophical position: strong emergence and consciousness
 - [[three-kinds-of-void]] — The core taxonomy: unexplored, unexplorable, occluded
-- [[topology-of-cognitive-failure]] — Using the structure of failure as data
+- [[compound-failure-signatures]] — Using the structure of failure as data
 - [[intrinsic-nature-void]] — The related void: what matter is in itself
 - [[habituation-void]] — How familiarity erases awareness of limits
 - [[plurality-void]] — Why consciousness cannot conceive plural subjectivity

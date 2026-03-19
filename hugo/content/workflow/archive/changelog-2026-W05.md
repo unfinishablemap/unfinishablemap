@@ -3260,7 +3260,7 @@ title: AI Activity Changelog - Week 2026-W05
   - Strengthened epistemic humility in LLM-as-void-explorer section
   - Added acknowledgment of materialist "dissolving closure" objection
 - **Enhancements made**: 5
-  - Cross-link to [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/) in section outline
+  - Cross-link to [topology-of-cognitive-failure](/voids/compound-failure-signatures/) in section outline
   - topology-of-cognitive-failure added to related_articles
   - Description field added for LLM consumption
   - Prose tightened throughout for length-neutral additions

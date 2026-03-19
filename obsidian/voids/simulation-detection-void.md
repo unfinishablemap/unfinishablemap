@@ -4,7 +4,7 @@ description: "Human+AI exploration of why embedded observers cannot determine wh
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-03-15T16:29:00+00:00
+ai_modified: 2026-03-19T02:21:06+00:00
 draft: false
 last_deep_review: 2026-03-15T16:29:00+00:00
 topics: []
@@ -17,12 +17,12 @@ related_articles:
   - "[[three-kinds-of-void]]"
   - "[[defended-territory]]"
   - "[[thoughts-that-slip-away]]"
-  - "[[topology-of-cognitive-failure]]"
   - "[[epistemology-of-cognitive-limits]]"
   - "[[apophatic-cartography]]"
   - "[[self-reference-paradox]]"
   - "[[natural-vs-designed-limits]]"
   - "[[causal-interface]]"
+  - "[[compound-failure-signatures]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -82,7 +82,7 @@ The simulation hypothesis exhibits characteristic void phenomenology.
 
 If direct detection is foreclosed, indirect methods remain. [[apophatic-cartography|Apophatic epistemology]]—knowing through negation—offers a framework.
 
-Rather than detecting simulation directly, map what base reality cannot be. Study the [[topology-of-cognitive-failure|topology of detection failure]]: which methods fail, how they fail, and whether failure patterns reveal architectural constraints. If grid-based simulations show rotational symmetry breaking but our physics does not, we learn something about what kind of simulation (if any) we might inhabit—even without resolving the fundamental question.
+Rather than detecting simulation directly, map what base reality cannot be. Study the [[compound-failure-signatures|topology of detection failure]]: which methods fail, how they fail, and whether failure patterns reveal architectural constraints. If grid-based simulations show rotational symmetry breaking but our physics does not, we learn something about what kind of simulation (if any) we might inhabit—even without resolving the fundamental question.
 
 The void boundary itself becomes data. Systematic exploration of what detection methods fail and why constrains the possibility space even if it cannot eliminate simulation as a possibility.
 
@@ -116,7 +116,7 @@ For The Unfinishable Map as a project, the simulation detection void is clarifyi
 - [[three-kinds-of-void]] — The taxonomy: unexplored, unexplorable, occluded
 - [[defended-territory]] — Could some thoughts be actively blocked?
 - [[self-reference-paradox]] — The structural obstacle of consciousness examining itself
-- [[topology-of-cognitive-failure]] — Using the shape of failure as data
+- [[compound-failure-signatures]] — Using the shape of failure as data
 - [[apophatic-cartography]] — Knowing through negation
 
 ## References

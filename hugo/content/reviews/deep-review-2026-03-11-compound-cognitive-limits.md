@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-11
-**Article**: [Compound Cognitive Limits](/voids/compound-cognitive-limits/)
+**Article**: [Compound Cognitive Limits](/voids/compound-failure-signatures/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

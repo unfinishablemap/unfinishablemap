@@ -4,7 +4,7 @@ description: "Every conceptual framework excludes what it cannot represent. The 
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-03-17T08:14:00+00:00
+ai_modified: 2026-03-19T02:21:06+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,13 +20,13 @@ related_articles:
   - "[[conceptual-impossibility]]"
   - "[[language-thought-boundary]]"
   - "[[evolved-cognitive-limits]]"
-  - "[[topology-of-cognitive-failure]]"
   - "[[whether-real]]"
   - "[[limits-reveal-structure]]"
   - "[[tenet-generated-voids]]"
   - "[[alien-minds-void-explorers]]"
   - "[[ai-as-void-explorer]]"
   - "[[apophatic-cartography]]"
+  - "[[compound-failure-signatures]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

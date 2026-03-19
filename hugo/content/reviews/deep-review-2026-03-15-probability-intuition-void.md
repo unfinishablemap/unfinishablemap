@@ -58,14 +58,14 @@ None. The previous review (2026-02-07) resolved all critical issues: fabricated 
 
 - Added [fitness-beats-truth](/concepts/fitness-beats-truth/) cross-link to strengthen the evolutionary argument with formal theoretical backing
 - Fixed [cognitive-closure](/concepts/cognitive-closure/) link target (was generic [mysterianism](/concepts/mysterianism/))
-- Added three new Further Reading entries: [compound-cognitive-limits](/voids/compound-cognitive-limits/), [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/), [fitness-beats-truth](/concepts/fitness-beats-truth/)
+- Added three new Further Reading entries: [compound-cognitive-limits](/voids/compound-failure-signatures/), [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/), [fitness-beats-truth](/concepts/fitness-beats-truth/)
 - Updated frontmatter concepts and related_articles lists
 
 ### Cross-links Added
 
 - [fitness-beats-truth](/concepts/fitness-beats-truth/) (body text and Further Reading)
 - [cognitive-closure](/concepts/cognitive-closure/) (body text link fix)
-- [compound-cognitive-limits](/voids/compound-cognitive-limits/) (Further Reading)
+- [compound-cognitive-limits](/voids/compound-failure-signatures/) (Further Reading)
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) (Further Reading)
 
 ## Remaining Items

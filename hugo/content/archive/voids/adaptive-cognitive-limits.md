@@ -62,7 +62,7 @@ The FBT theorem addresses perception, but adaptive limits extend across the full
 
 ## The Phenomenology of Adaptive Voids
 
-Adaptive limits may produce a distinctive phenomenology, different from the cognitive strain that accompanies architectural limits (documented in the Map's [topology of cognitive failure](/voids/topology-of-cognitive-failure/)).
+Adaptive limits may produce a distinctive phenomenology, different from the cognitive strain that accompanies architectural limits (documented in the Map's [topology of cognitive failure](/voids/compound-failure-signatures/)).
 
 Where architectural limits generate frustration — the experience of trying and failing to think something — adaptive limits may generate **satisfaction**. The limit feels like completion, not obstruction. There is nothing further to think, so no sense of failure arises.
 
@@ -96,7 +96,7 @@ The bootstrapping problem remains: if our philosophical intuitions are fitness-s
 - [cognitive-aversion](/voids/cognitive-aversion/)
 - [convergent-cognitive-limits](/voids/evolved-cognitive-limits/)
 - [limits-reveal-structure](/voids/limits-reveal-structure/)
-- [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/)
+- [topology-of-cognitive-failure](/voids/compound-failure-signatures/)
 - [developmental-cognitive-closure](/voids/architecture-of-cognitive-closure/)
 
 ## References

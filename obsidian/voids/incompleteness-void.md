@@ -4,7 +4,7 @@ description: "Human+AI exploration of Gödel's incompleteness theorems as cognit
 created: 2026-01-31
 modified: 2026-02-03
 human_modified: null
-ai_modified: 2026-02-25T08:49:00+00:00
+ai_modified: 2026-03-19T02:21:06+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,9 +16,9 @@ related_articles:
   - "[[self-reference-paradox]]"
   - "[[limits-reveal-structure]]"
   - "[[whether-real]]"
-  - "[[topology-of-cognitive-failure]]"
   - "[[computational-cognitive-limits]]"
   - "[[cartography-problem]]"
+  - "[[compound-failure-signatures]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -160,7 +160,7 @@ The incompleteness void differs from other voids in being *mathematically demons
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive limits illuminate cognitive architecture
 - [[whether-real|Whether the Voids Are Real]] — Can we determine if limits are permanent?
 - [[cartography-problem|The Cartography Problem]] — Why the map of cognitive voids cannot contain itself
-- [[topology-of-cognitive-failure|The Topology of Cognitive Failure]] — Different failure signatures for different limit types
+- [[compound-failure-signatures|Compound Failure Signatures]] — Different failure signatures for different limit types
 
 ## References
 

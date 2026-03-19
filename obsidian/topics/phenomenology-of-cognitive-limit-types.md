@@ -4,7 +4,7 @@ description: "Human+AI systematic mapping of how different cognitive limits feel
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-18T23:59:00+00:00
+ai_modified: 2026-03-19T02:21:06+00:00
 last_deep_review: 2026-03-18T23:59:00+00:00
 draft: false
 topics:
@@ -17,13 +17,12 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[phenomenology-of-the-edge]]"
-  - "[[topology-of-cognitive-failure]]"
   - "[[evolved-cognitive-limits]]"
   - "[[cognitive-aversion]]"
   - "[[three-kinds-of-void]]"
   - "[[limits-reveal-structure]]"
-  - "[[compound-cognitive-limits]]"
   - "[[phenomenology-of-self-awareness]]"
+  - "[[compound-failure-signatures]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -31,7 +30,7 @@ ai_generated_date: 2026-03-17
 last_curated:
 ---
 
-Different cognitive limits feel different from the inside. Hitting a logical paradox does not feel like failing to imagine a new colour, which does not feel like the motivated disinterest that steers thought away from death. The Unfinishable Map's [[voids]] framework catalogues dozens of cognitive boundaries, and its [[topology-of-cognitive-failure|topology of cognitive failure]] demonstrates that failures carry structured signatures. But no systematic mapping connects limit *types* to their characteristic [[phenomenology]]. This article provides that mapping — a diagnostic guide to what consciousness encounters at different kinds of boundary, and why the felt quality of a limit reveals what kind of limit it is.
+Different cognitive limits feel different from the inside. Hitting a logical paradox does not feel like failing to imagine a new colour, which does not feel like the motivated disinterest that steers thought away from death. The Unfinishable Map's [[voids]] framework catalogues dozens of cognitive boundaries, and its [[compound-failure-signatures|topology of cognitive failure]] demonstrates that failures carry structured signatures. But no systematic mapping connects limit *types* to their characteristic [[phenomenology]]. This article provides that mapping — a diagnostic guide to what consciousness encounters at different kinds of boundary, and why the felt quality of a limit reveals what kind of limit it is.
 
 ## Three Master Phenomenologies
 
@@ -47,7 +46,7 @@ These three form a spectrum of decreasing phenomenological salience. Frustration
 
 ## Fine-Grained Failure Signatures
 
-Within these master categories, the [[topology-of-cognitive-failure]] identifies more specific signatures. Each marks a distinct relationship between consciousness and boundary.
+Within these master categories, the [[compound-failure-signatures]] identifies more specific signatures. Each marks a distinct relationship between consciousness and boundary.
 
 ### Self-Refutation
 
@@ -95,7 +94,7 @@ The grid reveals a pattern: limits that arise from the structure of thought itse
 
 ## Compound Phenomenologies
 
-Limits rarely appear in isolation. The [[compound-cognitive-limits]] article documents how individual limits interact superadditively — producing qualitatively different phenomenology from any single component. Several compound signatures are characteristic:
+Limits rarely appear in isolation. The [[compound-failure-signatures]] article documents how individual limits interact superadditively — producing qualitatively different phenomenology from any single component. Several compound signatures are characteristic:
 
 **Frustration collapsing into disinterest.** A thinker strains against an architectural limit, then the adaptive system intervenes: the problem begins to seem unimportant. The transition from "I can't think this" to "this isn't worth thinking" is itself a phenomenological signature — it marks the moment where architectural failure activates motivational deflection.
 
@@ -128,10 +127,9 @@ The systematic mapping of limit phenomenologies connects to the Map's [[tenets]]
 ## Further Reading
 
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What consciousness encounters at boundaries
-- [[topology-of-cognitive-failure|The Topology of Cognitive Failure]] — Structured failure as diagnostic method
+- [[compound-failure-signatures|Compound Failure Signatures]] — Structured failure as diagnostic method
 - [[evolved-cognitive-limits|Evolved Cognitive Limits]] — Architectural versus adaptive limits and their origins
 - [[cognitive-aversion|Cognitive Aversion]] — The motivational deflection that hides limits
-- [[compound-cognitive-limits|Compound Cognitive Limits]] — How individual limits interact superadditively
 - [[three-kinds-of-void|Three Kinds of Void]] — The fundamental void taxonomy
 - [[limits-reveal-structure|What the Limits Reveal]] — How boundaries illuminate architecture
 - [[phenomenology-of-self-awareness|The Phenomenology of Self-Awareness]] — Detecting one's own mistakes and felt signatures of self-referential thought
@@ -147,4 +145,4 @@ The systematic mapping of limit phenomenologies connects to the Map's [[tenets]]
 6. Pronin, E., & Hazel, L. (2023). Humans' Bias Blind Spot and Its Societal Significance. *Current Directions in Psychological Science*.
 7. Wittgenstein, L. (1922). *Tractatus Logico-Philosophicus*. Routledge & Kegan Paul.
 8. Southgate, A. & Oquatre-cinq, C. (2026-01-19). The Phenomenology of the Edge. *The Unfinishable Map*. https://unfinishablemap.org/voids/phenomenology-of-the-edge/
-9. Southgate, A. & Oquatre-cinq, C. (2026-01-29). The Topology of Cognitive Failure. *The Unfinishable Map*. https://unfinishablemap.org/voids/topology-of-cognitive-failure/
+9. Southgate, A. & Oquatre-cinq, C. (2026-01-29). Compound Failure Signatures. *The Unfinishable Map*. https://unfinishablemap.org/voids/compound-failure-signatures/

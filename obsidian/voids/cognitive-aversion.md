@@ -4,7 +4,7 @@ description: "Human+AI exploration of thoughts we systematically flee—not cogn
 created: 2026-02-02
 modified: 2026-02-03
 human_modified: null
-ai_modified: 2026-03-18T23:59:00+00:00
+ai_modified: 2026-03-19T02:21:06+00:00
 draft: false
 last_deep_review: 2026-02-25T03:39:00+00:00
 topics: []
@@ -22,10 +22,10 @@ related_articles:
   - "[[death-void]]"
   - "[[death-and-consciousness]]"
   - "[[appetitive-void]]"
-  - "[[topology-of-cognitive-failure]]"
   - "[[limits-reveal-structure]]"
   - "[[voids-cognitive-aversion-2026-02-01]]"
   - "[[phenomenology-of-cognitive-limit-types]]"
+  - "[[compound-failure-signatures]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -177,7 +177,7 @@ The evidence currently points toward cognitive aversion as a genuine phenomenon�
 - [[defended-territory|Defended Territory]] — Could some thoughts be actively blocked?
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Mechanisms of cognitive slippage
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What consciousness encounters at boundaries
-- [[topology-of-cognitive-failure|The Topology of Cognitive Failure]] — How thought breaks down at void boundaries
+- [[compound-failure-signatures|Compound Failure Signatures]] — How thought breaks down at void boundaries
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive boundaries illuminate architecture
 
 ## References

@@ -4,7 +4,7 @@ description: "Human+AI exploration of why unified conscious experience resists e
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-03-10T17:39:00+00:00
+ai_modified: 2026-03-19T02:21:06+00:00
 last_deep_review: 2026-03-10T17:39:00+00:00
 draft: false
 topics:
@@ -28,10 +28,10 @@ related_articles:
   - "[[self-reference-paradox]]"
   - "[[attention-created-voids]]"
   - "[[temporal-void]]"
-  - "[[topology-of-cognitive-failure]]"
   - "[[whether-real]]"
   - "[[limits-reveal-structure]]"
   - "[[consciousness-only-territories]]"
+  - "[[compound-failure-signatures]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -142,7 +142,7 @@ The binding void connects to the Map's [[tenets]] at multiple points and provide
 - [[causal-interface]] — How consciousness interfaces with the physical world
 - [[self-reference-paradox]] — Self-observation requires the unity this void concerns
 - [[temporal-void]] — Binding's intersection with the temporal dimension
-- [[topology-of-cognitive-failure]] — Using the structure of failure as data
+- [[compound-failure-signatures]] — Using the structure of failure as data
 - [[mysterianism]] — McGinn's cognitive closure thesis, strongly applicable here
 
 ## References

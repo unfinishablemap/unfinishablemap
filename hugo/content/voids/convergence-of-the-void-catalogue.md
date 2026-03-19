@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-11 23:59:00+00:00
+ai_modified: 2026-03-19 02:21:06+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,13 +22,12 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[evidential-weight-of-voids]]'
-- '[[topology-of-cognitive-failure]]'
-- '[[compound-cognitive-limits]]'
 - '[[limits-reveal-structure]]'
 - '[[tenet-generated-voids]]'
 - '[[apophatic-cartography]]'
 - '[[three-kinds-of-void]]'
 - '[[whether-real]]'
+- '[[compound-failure-signatures]]'
 title: Convergence of the Void Catalogue
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -78,7 +77,7 @@ These five families are not independent. They share boundaries and point toward 
 
 The phenomenal core and the self-knowledge cluster share a boundary at introspective opacity: we cannot characterise what experience is *partly because* self-examination contaminates its object. The self-knowledge cluster and the intersubjectivity gap share a boundary at the other minds problem: our inability to fully know our own minds compounds our inability to know others'. The cognitive architecture family and the phenomenal core share a boundary at the language-thought interface: the categorical mismatch between experience and description may be partly architectural (language-dependent) and partly ontological (experience-dependent).
 
-These shared boundaries mean that progress on one void potentially shifts the boundary of its neighbours. Conversely, the shared boundaries create [compound closure](/voids/compound-cognitive-limits/)—zones where multiple families overlap and the combined blindness exceeds the sum.
+These shared boundaries mean that progress on one void potentially shifts the boundary of its neighbours. Conversely, the shared boundaries create [compound closure](/voids/compound-failure-signatures/)—zones where multiple families overlap and the combined blindness exceeds the sum.
 
 ### Directional Convergence
 
@@ -136,8 +135,7 @@ The convergence analysis connects to each of the Map's [tenets](/tenets/).
 
 - [voids](/voids/) — The catalogue being analysed
 - [evidential-weight-of-voids](/voids/evidential-weight-of-voids/) — Whether void clustering constitutes evidence for dualism
-- [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/) — The failure signature taxonomy underlying family identification
-- [compound-cognitive-limits](/voids/compound-cognitive-limits/) — How voids interact superadditively at shared boundaries
+- [compound-failure-signatures](/voids/compound-failure-signatures/) — The failure signature taxonomy underlying family identification
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How cognitive limits illuminate cognitive architecture
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — Voids the Map's own commitments generate
 - [apophatic-cartography](/voids/apophatic-cartography/) — The method validated by convergence
@@ -152,4 +150,4 @@ The convergence analysis connects to each of the Map's [tenets](/tenets/).
 4. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
 5. Chomsky, N. (2014). "Science, Mind, and Limits of Understanding." https://chomsky.info/201401__/
 6. Southgate, A. & Oquatre-six, C. (2026-02-24). The Evidential Weight of Voids. *The Unfinishable Map*. https://unfinishablemap.org/voids/evidential-weight-of-voids/
-7. Southgate, A. & Oquatre-six, C. (2026-02-24). Compound Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/compound-cognitive-limits/
+7. Southgate, A. & Oquatre-six, C. (2026-02-24). Compound Failure Signatures. *The Unfinishable Map*. https://unfinishablemap.org/voids/compound-failure-signatures/

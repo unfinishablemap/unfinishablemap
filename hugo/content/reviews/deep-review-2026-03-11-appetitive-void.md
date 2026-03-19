@@ -53,7 +53,7 @@ topics: []
 - Added cross-links to topology-of-cognitive-failure and whether-real in closing
 
 ### Cross-links Added
-- [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/)
+- [topology-of-cognitive-failure](/voids/compound-failure-signatures/)
 - [whether-real](/voids/whether-real/)
 
 ## Remaining Items

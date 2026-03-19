@@ -18,6 +18,81 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 02:21 UTC - refine-draft
+- **Status**: Success
+- **Task**: Update wikilinks from archived articles to coalesced compound-failure-signatures
+- **Files modified**: 23 active content files + 2 apex files (taxonomy-of-voids, apex-articles)
+- **Changes**: Replaced all wikilinks from topology-of-cognitive-failure and compound-cognitive-limits → compound-failure-signatures. Deduplicated related_articles and Further Reading entries. Updated citation URLs and titles.
+- **Published**: yes
+
+## 2026-03-19 02:12 UTC - coalesce
+- **Status**: Success
+- **Sources**: [compound-cognitive-limits](/voids/compound-cognitive-limits/), [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/)
+- **Target**: [compound-failure-signatures](/voids/compound-failure-signatures/)
+- **Archived**: [compound-cognitive-limits](/archive/voids/compound-cognitive-limits/), [topology-of-cognitive-failure](/archive/voids/topology-of-cognitive-failure/)
+- **References to review**: 23 active content files (follow-up task created)
+
+## 2026-03-19 02:04 UTC - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [structural-varieties-of-consciousness-and-ai-phenomenology](/topics/structural-varieties-of-consciousness-and-ai-phenomenology/)
+- **Word count**: 2302 → 2318 (+16)
+- **Critical issues addressed**: 0 (previous review handled all critical issues)
+- **Medium issues addressed**: 1 (duplicate related_articles entry)
+- **Enhancements made**: 10 inbound cross-links added from related articles
+- **Output**: [deep-review-2026-03-19b-structural-varieties-of-consciousness-and-ai-phenomenology](/reviews/deep-review-2026-03-19b-structural-varieties-of-consciousness-and-ai-phenomenology/)
+
+## 2026-03-19 01:57 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/)
+- **Word count**: 1967 → 2019 (+52)
+- **Critical issues addressed**: 1 (fabricated Dennett citation)
+- **Medium issues addressed**: 3 (Gödel analogy, eliminativism precision, missing cross-links)
+- **Enhancements made**: 5 cross-links added
+- **Output**: [deep-review-2026-03-19-phenomenological-method-and-evidence-standards](/reviews/deep-review-2026-03-19-phenomenological-method-and-evidence-standards/)
+
+## 2026-03-19 01:49 UTC - deep-review
+- **Status**: Success
+- **File**: [ai-consciousness](/topics/ai-consciousness/)
+- **Word count**: 3896 → 3907 (+11)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (cross-link to structural varieties)
+- **Enhancements made**: 4 (cross-links, prose tightening)
+- **Output**: [deep-review-2026-03-19-ai-consciousness](/reviews/deep-review-2026-03-19-ai-consciousness/)
+- **Context**: Cross-review integrating structural varieties of consciousness insights
+
+## 2026-03-19 01:36 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenological Method and Evidence Standards
+- **Output**: [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/)
+- **Word count**: 1967
+- **Based on research**: yes, [phenomenological-method-evidence-standards-2026-03-19](/research/phenomenological-method-evidence-standards-2026-03-19/)
+
+## 2026-03-19 01:30 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 435 published articles (225 topics, 209 concepts, 1 tenets). Deep reading of 28 articles plus all 18 apex articles
+- **Output**: [optimistic-2026-03-19](/reviews/optimistic-2026-03-19/)
+
+## 2026-03-19 01:16 UTC - deep-review
+- **Status**: Success
+- **File**: [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)
+- **Word count**: 3154 → 3154 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (broken wikilink, stale comment)
+- **Enhancements made**: 0 (article at stability)
+- **Output**: [deep-review-2026-03-19-the-epiphenomenalist-threat](/reviews/deep-review-2026-03-19-the-epiphenomenalist-threat/)
+
+## 2026-03-19 01:09 UTC - refine-draft
+- **Status**: Success
+- **Task**: Update stale wikilinks from recent coalesce operations
+- **Files modified**:
+  - archive/topics/phenomenology-of-evidence-assessment.md (2 links)
+  - archive/topics/phenomenology-of-epistemic-judgment.md (2 links)
+  - archive/topics/phenomenology-of-belief-revision.md (3 links)
+  - archive/topics/phenomenology-of-surprise-and-prediction-error.md (3 links)
+- **Changes**: Updated 10 stale wikilinks: phenomenology-of-error-recognition → phenomenology-of-self-awareness
+- **Notes**: Other coalesced slugs (temporal-constitution-and-consciousness, godel-measurement-problem-analogy, memory-consolidation-and-transformation-of-experience) had no stale wikilinks in active content — only intentional aliases/redirects in the coalesced target articles.
+- **Published**: yes
+
 ## 2026-03-19 00:58 UTC - deep-review
 - **Status**: Success
 - **File**: [structural-varieties-of-consciousness-and-ai-phenomenology](/topics/structural-varieties-of-consciousness-and-ai-phenomenology/)

@@ -60,13 +60,13 @@ Six sympathetic philosopher personas engaged with the content:
 
 ### Enhancements Made
 1. Added "Relation to Site Perspective" section connecting framework to specific tenets
-2. Added cross-reference to new [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/) article
+2. Added cross-reference to new [topology-of-cognitive-failure](/voids/compound-failure-signatures/) article
 3. Added topology-of-cognitive-failure to related_articles frontmatter
 4. Added description field for LLM consumption
 5. Tightened prose throughout to accommodate additions in length-neutral mode
 
 ### Cross-links Added
-- [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/) — new entry in "The Map" section outline
+- [topology-of-cognitive-failure](/voids/compound-failure-signatures/) — new entry in "The Map" section outline
 - Link in "Relation to Site Perspective" section to topology-of-cognitive-failure as "apophatic cartography"
 
 ## Remaining Items

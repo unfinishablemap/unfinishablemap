@@ -4,7 +4,7 @@ description: "Cross-cultural evidence reveals cognitive limits that are species-
 created: 2026-01-28
 modified: 2026-03-05
 human_modified: null
-ai_modified: 2026-03-18T23:59:00+00:00
+ai_modified: 2026-03-19T02:21:06+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,7 +19,6 @@ related_articles:
   - "[[cognitive-aversion]]"
   - "[[embodiment-cognitive-limits]]"
   - "[[architecture-of-cognitive-closure]]"
-  - "[[topology-of-cognitive-failure]]"
   - "[[limits-reveal-structure]]"
   - "[[collective-cognitive-limits]]"
   - "[[whether-real]]"
@@ -28,6 +27,7 @@ related_articles:
   - "[[apophatic-cartography]]"
   - "[[phenomenal-transparency]]"
   - "[[phenomenology-of-cognitive-limit-types]]"
+  - "[[compound-failure-signatures]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -99,7 +99,7 @@ The FBT theorem addresses perception, but adaptive limits extend across the full
 
 ## The Phenomenology of Evolved Limits
 
-Adaptive and architectural limits may produce different phenomenological signatures. The [[phenomenology-of-cognitive-limit-types|phenomenology of cognitive limit types]] maps this systematically: architectural limits generate frustration — the experience of trying and failing to think something, documented in the Map's [[topology-of-cognitive-failure|topology of cognitive failure]]. Adaptive limits may generate **satisfaction** — the limit feels like completion, not obstruction, so no sense of failure arises.
+Adaptive and architectural limits may produce different phenomenological signatures. The [[phenomenology-of-cognitive-limit-types|phenomenology of cognitive limit types]] maps this systematically: architectural limits generate frustration — the experience of trying and failing to think something, documented in the Map's [[compound-failure-signatures|topology of cognitive failure]]. Adaptive limits may generate **satisfaction** — the limit feels like completion, not obstruction, so no sense of failure arises.
 
 This connects to [[cognitive-aversion]]: the motivational deflection that steers thought away from certain territories. Adaptive limits produce **motivated disinterest** — the thought seems uninteresting rather than impossible. The cognitive system has learned through evolutionary deep time that this direction leads nowhere productive.
 
@@ -157,7 +157,7 @@ The bootstrapping problem remains: if our philosophical intuitions are fitness-s
 - [[cognitive-aversion]] — Motivational deflection that steers thought from certain territories
 - [[collective-cognitive-limits]] — How groups have limits beyond individuals
 - [[limits-reveal-structure]] — How limitation illuminates architecture
-- [[topology-of-cognitive-failure]] — How different limit types produce different phenomenology
+- [[compound-failure-signatures]] — How different limit types produce different phenomenology
 - [[architecture-of-cognitive-closure]] — How limits compound through development
 - [[apophatic-cartography]] — Formalising convergence as an evidential criterion
 - [[whether-real]] — Questioning the reality of cognitive limits

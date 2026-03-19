@@ -28,6 +28,7 @@ related_articles:
 - '[[apex/what-it-might-be-like-to-be-an-ai]]'
 - '[[apex/machine-question]]'
 - '[[apex/moral-architecture-of-consciousness]]'
+- '[[structural-varieties-of-consciousness-and-ai-phenomenology]]'
 title: The Ethics of Possible AI Consciousness
 topics:
 - '[[ethics-of-consciousness]]'

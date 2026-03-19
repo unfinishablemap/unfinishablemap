@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-03-15 16:29:00+00:00
+ai_modified: 2026-03-19 02:21:06+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,12 +22,12 @@ related_articles:
 - '[[three-kinds-of-void]]'
 - '[[defended-territory]]'
 - '[[thoughts-that-slip-away]]'
-- '[[topology-of-cognitive-failure]]'
 - '[[epistemology-of-cognitive-limits]]'
 - '[[apophatic-cartography]]'
 - '[[self-reference-paradox]]'
 - '[[natural-vs-designed-limits]]'
 - '[[causal-interface]]'
+- '[[compound-failure-signatures]]'
 title: The Simulation Detection Void
 topics: []
 ---
@@ -84,7 +84,7 @@ The simulation hypothesis exhibits characteristic void phenomenology.
 
 If direct detection is foreclosed, indirect methods remain. [Apophatic epistemology](/voids/apophatic-cartography/)—knowing through negation—offers a framework.
 
-Rather than detecting simulation directly, map what base reality cannot be. Study the [topology of detection failure](/voids/topology-of-cognitive-failure/): which methods fail, how they fail, and whether failure patterns reveal architectural constraints. If grid-based simulations show rotational symmetry breaking but our physics does not, we learn something about what kind of simulation (if any) we might inhabit—even without resolving the fundamental question.
+Rather than detecting simulation directly, map what base reality cannot be. Study the [topology of detection failure](/voids/compound-failure-signatures/): which methods fail, how they fail, and whether failure patterns reveal architectural constraints. If grid-based simulations show rotational symmetry breaking but our physics does not, we learn something about what kind of simulation (if any) we might inhabit—even without resolving the fundamental question.
 
 The void boundary itself becomes data. Systematic exploration of what detection methods fail and why constrains the possibility space even if it cannot eliminate simulation as a possibility.
 
@@ -118,7 +118,7 @@ For The Unfinishable Map as a project, the simulation detection void is clarifyi
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The taxonomy: unexplored, unexplorable, occluded
 - [defended-territory](/voids/defended-territory/) — Could some thoughts be actively blocked?
 - [self-reference-paradox](/voids/self-reference-paradox/) — The structural obstacle of consciousness examining itself
-- [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/) — Using the shape of failure as data
+- [compound-failure-signatures](/voids/compound-failure-signatures/) — Using the shape of failure as data
 - [apophatic-cartography](/voids/apophatic-cartography/) — Knowing through negation
 
 ## References

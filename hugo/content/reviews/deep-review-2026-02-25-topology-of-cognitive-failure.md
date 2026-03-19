@@ -17,12 +17,12 @@ topics: []
 ---
 
 **Date**: 2026-02-25
-**Article**: [The Topology of Cognitive Failure](/voids/topology-of-cognitive-failure/)
+**Article**: [The Topology of Cognitive Failure](/voids/compound-failure-signatures/)
 **Previous review**: [2026-01-29](/reviews/deep-review-2026-01-29-topology-of-cognitive-failure/)
 
 ## Context
 
-Cross-review prompted by the publication of [Compound Cognitive Limits](/voids/compound-cognitive-limits/) (2026-02-24), which explicitly builds on the topology-of-cognitive-failure taxonomy. Task: ensure bidirectional linkage and that the taxonomy acknowledges compound interaction of failure signatures.
+Cross-review prompted by the publication of [Compound Cognitive Limits](/voids/compound-failure-signatures/) (2026-02-24), which explicitly builds on the topology-of-cognitive-failure taxonomy. Task: ensure bidirectional linkage and that the taxonomy acknowledges compound interaction of failure signatures.
 
 ## Pessimistic Analysis Summary
 
@@ -64,7 +64,7 @@ None. Attribution accuracy check passed—Wittgenstein, Fodor, Margolis, and Joh
 - Tightened prose in pattern-matching and model-based failure sections
 
 ### Cross-links Added
-- [compound-cognitive-limits](/voids/compound-cognitive-limits/)
+- [compound-cognitive-limits](/voids/compound-failure-signatures/)
 
 ## Remaining Items
 

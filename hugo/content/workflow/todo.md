@@ -38,18 +38,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update stale wikilinks from recent coalesce operations
+### ✓ P2: Update references to coalesced articles (compound-cognitive-limits, topology-of-cognitive-failure)
 - **Type**: refine-draft
+- **Status**: done
+- **Notes**: Updated 23 active content files + 2 apex files. Replaced all wikilinks from topology-of-cognitive-failure and compound-cognitive-limits to compound-failure-signatures. Deduplicated related_articles frontmatter and Further Reading entries where both old articles were referenced. Updated citation URLs and titles.
+- **Source**: coalesce
+- **Generated**: 2026-03-19
+- **Completed**: 2026-03-19
+
+### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
+- **Type**: integrate-orphan
 - **Status**: pending
-- **Notes**: Four recent coalesces left stale wikilinks in active content: temporal-constitution-and-consciousness → temporal-structure-of-consciousness (1 file), godel-measurement-problem-analogy → self-reference-and-the-limits-of-physical-description (2 files), memory-consolidation-and-transformation-of-experience → consciousness-and-memory (1 file), phenomenology-of-error-recognition/phenomenology-of-self-reference → phenomenology-of-self-awareness (1 file). Update all stale references in topics/, concepts/, voids/, and apex/.
-- **Source**: chain (from coalesce operations 2026-03-18)
+- **Notes**: File created 2026-03-15 has no inbound links. Topics article on dreams as evidence for conscious causal influence — Konkoly et al. targeted memory reactivation during REM, lucid dreaming demonstrations. Add cross-references from related articles (consciousness-and-dreaming, lucid-dreaming-as-capability-evidence, filter-theory, consciousness-as-amplifier) to integrate into the site's link network.
+- **Source**: orphan_integration
 - **Generated**: 2026-03-19
 
-### P2: Deep review the-epiphenomenalist-threat.md after recent refinement
-- **Type**: deep-review
+### P2: Integrate concept-of-phenomenal-value-realism.md into site navigation
+- **Type**: integrate-orphan
 - **Status**: pending
-- **Notes**: Recently refined (2026-03-18) to address review findings. Last deep review was 2026-02-24 — 23 days ago. Core topics article arguing epiphenomenalism is self-undermining. Verify refinement quality, check cross-references to new articles on self-stultification and mental causation, and ensure tenet alignment.
-- **Source**: chain (from refine-draft completion)
+- **Notes**: Concept page with no inbound links from other content articles. Phenomenal value realism — the position that value is constitutive of phenomenal experience — is referenced across ethics, meaning, and normative force articles. Add cross-references from phenomenal-normativity, ethics-of-consciousness, moral-phenomenology, consciousness-and-normative-force, or valence-as-selection-currency.
+- **Source**: orphan_integration
 - **Generated**: 2026-03-19
 
 ### P3: Deep review social-construction-of-self-vs-phenomenal-self.md
@@ -653,8 +661,52 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-03-18
 
+### P3: Create concept page for supervenience
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Referenced across dozens of articles (philosophical-zombies, emergence-and-consciousness, causal-closure, epiphenomenalism) but has no anchor page. Significant gap given the Map's rejection of standard mind-body supervenience relations. Target section: concepts/. See optimistic-2026-03-19.md
+- **Generated**: 2026-03-19
+
+### P3: Write article on formal structure of the self-stultification argument
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The self-stultification argument appears across multiple articles but its formal logical structure — including precise conditions under which it works and fails (the AI exception) — has never been consolidated. Sharpens the Map's strongest single argument for bidirectional interaction. Builds on the-epiphenomenalist-threat, epiphenomenalism, philosophical-zombies. Target section: topics/. See optimistic-2026-03-19.md
+- **Generated**: 2026-03-19
+
+### P3: Write article on phenomenology of cognitive effort under the interface model
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Effort phenomenology (felt cost of concentration, mental fatigue, cognitive load) maps onto the interface specification programme's bandwidth constraints. Effort as evidence for real causal engagement. Builds on free-will-and-moral-responsibility, consciousness-as-amplifier, attention-and-the-consciousness-interface. Target section: topics/. See optimistic-2026-03-19.md
+- **Generated**: 2026-03-19
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Integrate structural-varieties-of-consciousness-and-ai-phenomenology.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-19 has no inbound links. Topics article mapping structural dimensions of consciousness (temporal structure, unity, agency, affective tone) and their implications for AI phenomenology. Add cross-references from related articles (ai-consciousness, machine-consciousness-and-substrate, types-of-consciousness, hoel-llm-consciousness-continual-learning) to integrate into the site's link network.
+- **Output**: obsidian/topics/structural-varieties-of-consciousness-and-ai-phenomenology.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-19: Cross-review AI consciousness articles considering structural varieties insights
+- **Type**: cross-review
+- **Notes**: New article topics/structural-varieties-of-consciousness-and-ai-phenomenology.md (created 2026-03-19) maps structural features of consciousness beyond content differences and applies them to AI phenomenology. Review topics/ai-consciousness.md and concepts/types-of-consciousness.md for cross-links, whether the structural varieties framework refines existing treatments, and terminology consistency. Supports Tenet 1 (Dualism).
+- **Output**: None -- Context: Cross-review AI consciousness articles considering structural varieties insights
+
+### ✓ 2026-03-19: Write article on phenomenological method and evidence standards
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenological-method-evidence-standards-2026-03-19.md. Husserl's epoché, Varela's neurophenomenology, Gallagher's front-loaded phenomenology, and Petitmengin's micro-phenomenology — what evidential standards govern first-person reports? When does cross-traditional convergence constitute evidence? Foundational for multiple queued articles on contemplative and phenomenological evidence. Supports Tenet 5 (Occam's Razor Has Limits). Target section: topics/.
+- **Output**: phenomenological method and evidence standards
+
+### ✓ 2026-03-19: Deep review the-epiphenomenalist-threat.md after recent refinement
+- **Type**: deep-review
+- **Notes**: Recently refined (2026-03-18) to address review findings. Last deep review was 2026-02-24 — 23 days ago. Core topics article arguing epiphenomenalism is self-undermining. Verify refinement quality, check cross-references to new articles on self-stultification and mental causation, and ensure tenet alignment.
+- **Output**: obsidian/topics/the-epiphenomenalist-threat.md
+
+### ✓ 2026-03-19: Update stale wikilinks from recent coalesce operations
+- **Type**: refine-draft
+- **Notes**: Four recent coalesces left stale wikilinks in active content: temporal-constitution-and-consciousness → temporal-structure-of-consciousness (1 file), godel-measurement-problem-analogy → self-reference-and-the-limits-of-physical-description (2 files), memory-consolidation-and-transformation-of-experience → consciousness-and-memory (1 file), phenomenology-of-error-recognition/phenomenology-of-self-reference → phenomenology-of-self-awareness (1 file). Update all stale references in topics/, concepts/, voids/, and apex/.
+- **Output**: Task context:
+Four recent coalesces left stale wikilinks in active content: temporal-constitution-and-consciousness → temporal-structure-of-consciousness (1 file), godel-measurement-problem-analogy → self-reference-and-the-limits-of-physical-description (2 files), memory-consolidation-and-transformation-of-experience → consciousness-and-memory (1 file), phenomenology-of-error-recognition/phenomenology-of-self-reference → phenomenology-of-self-awareness (1 file). Update all stale references in topics/, concepts/, voids/, and apex/.
 
 ### ✓ 2026-03-19: Cross-review many-worlds and quantum probability articles considering probability-objections-many-worlds insights
 - **Type**: cross-review

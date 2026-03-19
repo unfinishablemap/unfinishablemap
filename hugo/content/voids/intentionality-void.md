@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-03-15 14:19:00+00:00
+ai_modified: 2026-03-19 02:21:06+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,9 +26,9 @@ related_articles:
 - '[[creativity-void]]'
 - '[[intrinsic-nature-void]]'
 - '[[three-kinds-of-void]]'
-- '[[topology-of-cognitive-failure]]'
 - '[[limits-reveal-structure]]'
 - '[[introspective-opacity]]'
+- '[[compound-failure-signatures]]'
 title: The Intentionality Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -145,7 +145,7 @@ The intentionality void connects directly to the Map's [foundational commitments
 - [creativity-void](/voids/creativity-void/) — Where insight originates, equally opaque to introspection
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Physics describes what matter does, not what it is
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, occluded
-- [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/) — Using the structure of failure as data
+- [compound-failure-signatures](/voids/compound-failure-signatures/) — Using the structure of failure as data
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and structural limits on knowledge
 - [phenomenal intentionality](/concepts/intentionality/#phenomenal-intentionality-theory) — How consciousness grounds aboutness

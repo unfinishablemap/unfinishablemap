@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-03-07 03:38:00+00:00
+ai_modified: 2026-03-19 02:21:06+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,14 +20,13 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[whether-real]]'
-- '[[topology-of-cognitive-failure]]'
 - '[[limits-reveal-structure]]'
 - '[[tenet-generated-voids]]'
 - '[[epistemology-of-cognitive-limits]]'
 - '[[questioning-as-evidence]]'
-- '[[compound-cognitive-limits]]'
 - '[[convergence-of-the-void-catalogue]]'
 - '[[tenets]]'
+- '[[compound-failure-signatures]]'
 title: The Evidential Weight of Voids
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -41,7 +40,7 @@ The Map's voids section reveals a striking distribution. The [limits that reveal
 
 Consciousness-related voids behave differently. The hard problem, the [causal interface](/voids/causal-interface/), intrinsic nature, [other minds](/voids/other-minds-void/), [introspective opacity](/voids/introspective-opacity/), the [binding problem](/voids/binding-void/), qualitative novelty, the [ownership of experience](/voids/ownership-void/)—these voids share a common boundary. They all fail at the same juncture: the point where first-person phenomenal reality meets third-person physical description. As Chalmers argues, structural and dynamical explanation—however detailed—yields only more structure and dynamics, never phenomenal experience. What physical explanation provides is categorically different from what consciousness is.
 
-This is not a single gap seen from multiple angles. The [convergence analysis](/voids/convergence-of-the-void-catalogue/) shows these voids organise into five families, and the [topology of cognitive failure](/voids/topology-of-cognitive-failure/) reveals distinct failure signatures: the hard problem produces explanatory asymmetry, conceivability arguments produce modal gaps, the knowledge argument produces informational gaps, introspective opacity produces access failure. Independent arguments, independent methods, independent failure modes—all converging on the same boundary.
+This is not a single gap seen from multiple angles. The [convergence analysis](/voids/convergence-of-the-void-catalogue/) shows these voids organise into five families, and the [topology of cognitive failure](/voids/compound-failure-signatures/) reveals distinct failure signatures: the hard problem produces explanatory asymmetry, conceivability arguments produce modal gaps, the knowledge argument produces informational gaps, introspective opacity produces access failure. Independent arguments, independent methods, independent failure modes—all converging on the same boundary.
 
 ## The Abductive Argument
 
@@ -61,7 +60,7 @@ How strong is this argument? Honesty requires acknowledging its limitations.
 
 The inference from epistemic gaps to ontological conclusions is contested. Levine, who introduced the term "explanatory gap," himself resists the move: the gap reveals a limit on our explanatory abilities, but this need not reflect a gap in nature itself. A gap in understanding *could* track a genuine ontological boundary—but that inference is not automatic (Levine 1983).
 
-A prior concern deserves attention: the clustering might be partly an artifact of how we carve conceptual space. If "consciousness-related" is defined broadly enough, many disparate puzzles get classified together. The argument's force depends on the voids being independently identifiable—arising from distinct methods, distinct premises, distinct failure modes—rather than being one phenomenon relabelled. The [topology of cognitive failure](/voids/topology-of-cognitive-failure/) supports this independence: the hard problem, conceivability arguments, the knowledge argument, and introspective opacity each have distinct logical structures and distinct failure signatures.
+A prior concern deserves attention: the clustering might be partly an artifact of how we carve conceptual space. If "consciousness-related" is defined broadly enough, many disparate puzzles get classified together. The argument's force depends on the voids being independently identifiable—arising from distinct methods, distinct premises, distinct failure modes—rather than being one phenomenon relabelled. The [topology of cognitive failure](/voids/compound-failure-signatures/) supports this independence: the hard problem, conceivability arguments, the knowledge argument, and introspective opacity each have distinct logical structures and distinct failure signatures.
 
 Physicalism's responses divide into two broad camps. The **phenomenal concept strategy** holds that phenomenal concepts have a special epistemic character that explains the gap without requiring an ontological gap—we think there is a gap because of how we think about consciousness, not because consciousness is actually non-physical. Chalmers has argued that this strategy fails because it cannot explain why phenomenal concepts have this special nature without already presupposing phenomenal properties. **[Illusionism](/concepts/illusionism/)** takes a harder line: the "phenomenal" properties generating the gaps do not exist at all. On this view, the clustering pattern is an artifact of a systematic illusion—consciousness seems to resist physical explanation because our introspective representations systematically misrepresent their own nature. The illusionist response is powerful but faces its own burden: it must explain how a purely physical system generates the persistent, structured sense of phenomenality across such diverse domains without that sense tracking anything real.
 
@@ -102,12 +101,11 @@ The argument also connects to the Map's intellectual honesty about its own limit
 ## Further Reading
 
 - [whether-real](/voids/whether-real/)
-- [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/)
+- [compound-failure-signatures](/voids/compound-failure-signatures/)
 - [limits-reveal-structure](/voids/limits-reveal-structure/)
 - [tenet-generated-voids](/voids/tenet-generated-voids/)
 - [epistemology-of-cognitive-limits](/voids/epistemology-of-cognitive-limits/)
 - [questioning-as-evidence](/voids/questioning-as-evidence/)
-- [compound-cognitive-limits](/voids/compound-cognitive-limits/)
 - [convergence-of-the-void-catalogue](/voids/convergence-of-the-void-catalogue/)
 - [voids](/voids/)
 

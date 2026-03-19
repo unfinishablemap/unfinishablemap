@@ -53,10 +53,10 @@ No new counterarguments identified beyond those already addressed in the 2026-03
 Added inbound wikilinks from 8 articles to integrate this orphan into site navigation:
 
 1. [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — In "What the Edge Reveals" section, linked as the systematic framework for phenomenological signatures
-2. [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/) — After taxonomy table, linked as extension mapping signatures to felt quality
+2. [topology-of-cognitive-failure](/voids/compound-failure-signatures/) — After taxonomy table, linked as extension mapping signatures to felt quality
 3. [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — In "Phenomenology of Evolved Limits" section, linked as the systematic mapping of limit phenomenologies
 4. [cognitive-aversion](/voids/cognitive-aversion/) — After aversion markers, linked for positioning motivated disinterest within the broader diagnostic grid
-5. [compound-cognitive-limits](/voids/compound-cognitive-limits/) — In "Phenomenology of Compound Closure" section, linked for systematising individual signature-to-origin mapping
+5. [compound-cognitive-limits](/voids/compound-failure-signatures/) — In "Phenomenology of Compound Closure" section, linked for systematising individual signature-to-origin mapping
 6. [phenomenology-of-self-awareness](/voids/phenomenology-of-self-awareness/) — In "Phenomenology of Error Recognition" section, linked for classifying self-referential signatures
 7. [mysterianism](/concepts/mysterianism/) — In "Phenomenology of Cognitive Closure" section, linked as the diagnostic framework for different limit types
 8. [introspection](/concepts/introspection/) — In "The Unobservable Self" section, linked for placing introspective signatures in the broader diagnostic grid

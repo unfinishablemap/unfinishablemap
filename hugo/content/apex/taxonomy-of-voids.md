@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-03-12 03:53:00+00:00
+ai_modified: 2026-03-19 02:21:06+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-10 14:08:00+00:00
 apex_sources:
@@ -10,7 +10,7 @@ apex_sources:
 - voids/apophatic-cartography
 - voids/evolved-cognitive-limits
 - voids/limits-reveal-structure
-- voids/topology-of-cognitive-failure
+- voids/compound-failure-signatures
 - voids/phenomenology-of-the-edge
 - voids/evidential-weight-of-voids
 - voids/tenet-generated-voids
@@ -75,7 +75,7 @@ The 60+ individual voids sort into domains by *where* in cognitive space they oc
 
 The densest cluster surrounds the mind's attempt to examine itself. The [unobservable self](/voids/self-reference-paradox/)—the subject that cannot become its own object—anchors this domain. Surrounding it: [introspective opacity](/voids/introspective-opacity/) (the mechanisms of experience hidden from the experiencer), the [calibration void](/voids/measurement-void/) (introspection cannot be verified against any independent standard), the [observation void](/voids/observation-void/) (every method of studying consciousness transforms what it studies), and the [self-reference paradox](/voids/self-reference-paradox/) (where consciousness cannot map because it is the mapper).
 
-These voids are not independent. They reinforce each other, creating what the Map calls [compound cognitive limits](/voids/compound-cognitive-limits/)—emergent failure modes that no single void predicts. The self-knowledge cluster is especially resistant to investigation because the instrument and the object are the same. As [the limits reveal](/voids/limits-reveal-structure/), this tells us something specific about what we are: beings whose cognitive architecture includes systematic opacity about its own operations.
+These voids are not independent. They reinforce each other, creating what the Map calls [compound cognitive limits](/voids/compound-failure-signatures/)—emergent failure modes that no single void predicts. The self-knowledge cluster is especially resistant to investigation because the instrument and the object are the same. As [the limits reveal](/voids/limits-reveal-structure/), this tells us something specific about what we are: beings whose cognitive architecture includes systematic opacity about its own operations.
 
 ### The Phenomenological Cluster
 
@@ -99,9 +99,9 @@ The [incompleteness void](/voids/incompleteness-void/) applies Gödelian limits 
 
 ## How Thought Fails: The Topology of Failure
 
-Different voids do not merely mark different locations in cognitive space—they produce different [failure signatures](/voids/topology-of-cognitive-failure/) when thought approaches them. This topology is itself informative. The *way* thinking breaks down reveals something about *what* it is failing against.
+Different voids do not merely mark different locations in cognitive space—they produce different [failure signatures](/voids/compound-failure-signatures/) when thought approaches them. This topology is itself informative. The *way* thinking breaks down reveals something about *what* it is failing against.
 
-Self-referential limits produce **self-refutation**: the proposition that would express the limit undermines itself, as Wittgenstein demonstrated in the *Tractatus*. Conceptual limits produce **aporia**: equally plausible yet inconsistent premises, generating the specific phenomenology of being blocked rather than confused. Introspective limits produce **construction mistaken for observation**: the sense of direct access to processes that are actually inferred. Pattern-matching limits produce **systematic illusion**: consistent misperception that resists correction even after detection. Expressive limits produce **ineffability**: the sense of knowing something that cannot be articulated—a signature familiar from contemplative traditions and aesthetic experience alike. Meta-cognitive limits produce **epistemic vertigo**: destabilisation when cognition turns on itself. The [full topology](/voids/topology-of-cognitive-failure/) catalogues further signatures—modular selective loss, wrong model selection—but these six capture the primary modes through which consciousness-related voids manifest.
+Self-referential limits produce **self-refutation**: the proposition that would express the limit undermines itself, as Wittgenstein demonstrated in the *Tractatus*. Conceptual limits produce **aporia**: equally plausible yet inconsistent premises, generating the specific phenomenology of being blocked rather than confused. Introspective limits produce **construction mistaken for observation**: the sense of direct access to processes that are actually inferred. Pattern-matching limits produce **systematic illusion**: consistent misperception that resists correction even after detection. Expressive limits produce **ineffability**: the sense of knowing something that cannot be articulated—a signature familiar from contemplative traditions and aesthetic experience alike. Meta-cognitive limits produce **epistemic vertigo**: destabilisation when cognition turns on itself. The [full topology](/voids/compound-failure-signatures/) catalogues further signatures—modular selective loss, wrong model selection—but these six capture the primary modes through which consciousness-related voids manifest.
 
 The specificity matters. If every void produced the same generic failure—vague mystery, undifferentiated confusion—the taxonomy would collapse into unfalsifiable mysticism. Different voids producing different signatures is evidence that the taxonomy tracks real structure. As [apophatic cartography](/voids/apophatic-cartography/) formalises: signature specificity is one of four criteria for treating cognitive failure as data about genuine boundaries.
 
@@ -163,7 +163,7 @@ This synthesis draws from:
 - [Apophatic Cartography](/voids/apophatic-cartography/) — Methodology for mapping through negation
 - [Evolved Cognitive Limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence and the naturally occluded category
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
-- [The Topology of Cognitive Failure](/voids/topology-of-cognitive-failure/) — Distinct failure signatures as data
+- [Compound Failure Signatures](/voids/compound-failure-signatures/) — Distinct failure signatures as data
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its boundaries
 - [The Evidential Weight of Voids](/voids/evidential-weight-of-voids/) — The clustering pattern as evidence for dualism
 - [Tenet-Generated Voids](/voids/tenet-generated-voids/) — Framework-generated limits as intellectual honesty
