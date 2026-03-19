@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 11:10 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/free-will]]
+- **Changes**: Added introspective reliability subsection engaging Schwitzgebel/Wegner; replaced arbitrary >95% falsification threshold with principled sufficiency criterion; added references
+- **Published**: yes
+
 ## 2026-03-19 11:04 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/qualia.md, topics/free-will.md

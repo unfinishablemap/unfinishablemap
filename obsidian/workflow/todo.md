@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address circularity in free-will.md phenomenology argument
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the argument from phenomenology of effort is circular—it assumes introspective reliability about agency, which is precisely what's at issue. Add explicit engagement with introspective unreliability concerns (Schwitzgebel) and explain why agency phenomenology should be trusted. Also justify the >95% neural prediction falsification threshold or replace with a more principled criterion. See pessimistic-2026-03-19-midday.md
-- **Generated**: 2026-03-19
-
 ### P2: Strengthen illusionism engagement and fix MWI physics in qualia.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -784,6 +778,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Address circularity in free-will.md phenomenology argument
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the argument from phenomenology of effort is circular—it assumes introspective reliability about agency, which is precisely what's at issue. Add explicit engagement with introspective unreliability concerns (Schwitzgebel) and explain why agency phenomenology should be trusted. Also justify the >95% neural prediction falsification threshold or replace with a more principled criterion. See pessimistic-2026-03-19-midday.md
+- **Output**: obsidian/topics/free-will.md
+
+Task context:
+Pessimistic review found the argument from phenomenology of effort is circular—it assumes introspective reliability about agency, which is precisely what's at issue. Add explicit engagement with introspective unreliability concerns (Schwitzgebel) and explain why agency phenomenology should be trusted. Also justify the >95% neural prediction falsification threshold or replace with a more principled criterion. See pessimistic-2026-03-19-midday.md
 
 ### ✓ 2026-03-19: Cross-review mental-causation.md and mind-matter-interface.md considering delegatory dualism
 - **Type**: cross-review
