@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense retrocausal-selection-consciousness-physics-2026-03-14.md (4474 words, 128% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 4474 words, it is the longest research file. Preserve key findings and citations while removing redundancy and consolidating with the supplementary 2026-03-16 research note if appropriate. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-19
-
 ### P3: Deep review delegatory-dualism.md
 - **Type**: deep-review
 - **Status**: pending
@@ -769,6 +762,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Condense retrocausal-selection-consciousness-physics-2026-03-14.md (4474 words, 128% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 4474 words, it is the longest research file. Preserve key findings and citations while removing redundancy and consolidating with the supplementary 2026-03-16 research note if appropriate. See /condense skill.
+- **Output**: obsidian/research/retrocausal-selection-consciousness-physics-2026-03-14.md
 
 ### ✓ 2026-03-19: Research consciousness and the philosophy of mathematics
 - **Type**: research-topic
