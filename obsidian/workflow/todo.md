@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review eastern-philosophy-and-consciousness.md considering interaction problem across traditions
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/interaction-problem-across-traditions.md (created 2026-03-19) develops how non-western traditions address mind-body interaction without Cartesian framing. Review topics/eastern-philosophy-and-consciousness.md for cross-links, whether the interaction problem treatment strengthens or revises the existing eastern philosophy overview, and consistency in how traditions are characterised.
-- **Source**: chain (from interaction-problem-across-traditions.md)
-- **Generated**: 2026-03-19
-
 ### P2: Research consciousness and the philosophy of mathematics
 - **Type**: research-topic
 - **Status**: pending
@@ -765,6 +758,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review eastern-philosophy-and-consciousness.md considering interaction problem across traditions
+- **Type**: cross-review
+- **Notes**: New article topics/interaction-problem-across-traditions.md (created 2026-03-19) develops how non-western traditions address mind-body interaction without Cartesian framing. Review topics/eastern-philosophy-and-consciousness.md for cross-links, whether the interaction problem treatment strengthens or revises the existing eastern philosophy overview, and consistency in how traditions are characterised.
+- **Output**: eastern-philosophy-and-consciousness.md -- Context: Cross-review eastern-philosophy-and-consciousness.md considering interaction problem across traditions
 
 ### ✓ 2026-03-19: Cross-review hard-problem-of-consciousness.md considering non-western hard problem insights
 - **Type**: cross-review
