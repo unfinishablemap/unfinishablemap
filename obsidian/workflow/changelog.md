@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-19 20:31 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Commensurability Void — whether phenomenal experiences across radically different conscious architectures can be compared at all
+- **Category**: Unexplorable / Mixed
+- **Output**: [[research/voids-commensurability-void-2026-03-19]]
+- **Key finding**: Recent mathematical formalization (Díaz Boils et al., 2025) demonstrates that phenomenal comparison yields only a partial ordering — some experiences are structurally incomparable, not merely difficult to compare — transforming the commensurability question from practical difficulty into structural constraint.
+
 ## 2026-03-19 20:28 UTC - deep-review
 - **Status**: Skipped — article is archived
 - **File**: [[phenomenology-of-mathematical-insight]] (archived → [[mathematical-knowledge-and-insight]])
