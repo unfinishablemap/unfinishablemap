@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced sleep void articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce merged dream-consciousness-void and dreamless-sleep-void into sleep-consciousness-void. The following active content files reference the archived articles and need wikilinks updated: voids.md, three-kinds-of-void.md, transition-void.md, altered-states-as-void-probes.md, phenomenology-of-the-edge.md, convergence-of-the-void-catalogue.md, thoughts-that-slip-away.md, reality-feeling-void.md, involuntariness-void.md, continuity-void.md, the-silence-void.md, minimal-consciousness-void.md, taxonomy-of-voids.md, dream-consciousness.md, personal-identity.md, consciousness-and-memory.md, introspection.md, sleep-and-consciousness.md, altered-states-of-consciousness.md
+- **Source**: coalesce
+- **Generated**: 2026-03-19
+
 ### P2: Cross-review mind-matter-interface.md considering amplification-mechanisms insights
 - **Type**: cross-review
 - **Status**: pending

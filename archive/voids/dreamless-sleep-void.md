@@ -7,6 +7,11 @@ human_modified: null
 ai_modified: 2026-03-15T07:41:00+00:00
 last_deep_review: 2026-03-15T07:41:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-19T16:20:00+00:00
+superseded_by: "/voids/sleep-consciousness-void/"
+archive_reason: "Coalesced into The Sleep Consciousness Void"
+original_path: "/voids/dreamless-sleep-void/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[personal-identity]]"

@@ -6,6 +6,11 @@ modified: 2026-02-02
 human_modified: null
 ai_modified: 2026-03-15T14:59:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-19T16:20:00+00:00
+superseded_by: "/voids/sleep-consciousness-void/"
+archive_reason: "Coalesced into The Sleep Consciousness Void"
+original_path: "/voids/dream-consciousness-void/"
 topics:
   - "[[consciousness]]"
 concepts:
