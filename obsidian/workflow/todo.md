@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review contemplative and phenomenological evidence articles considering phenomenological-method-and-evidence-standards insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/phenomenological-method-and-evidence-standards.md (created 2026-03-19) establishes evidential standards for first-person reports. Review contemplative-practice-as-philosophical-evidence.md, introspection.md, and consciousness-and-scientific-methodology.md for cross-links, whether the new evidential framework refines existing treatments, and terminology consistency.
-- **Source**: chain (from phenomenological-method-and-evidence-standards.md)
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review quantum consciousness articles considering non-retrocausal selection models
 - **Type**: cross-review
 - **Status**: pending
@@ -707,6 +700,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review contemplative and phenomenological evidence articles considering phenomenological-method-and-evidence-standards insights
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenological-method-and-evidence-standards.md (created 2026-03-19) establishes evidential standards for first-person reports. Review contemplative-practice-as-philosophical-evidence.md, introspection.md, and consciousness-and-scientific-methodology.md for cross-links, whether the new evidential framework refines existing treatments, and terminology consistency.
+- **Output**: None -- Context: Cross-review contemplative and phenomenological evidence articles considering phenomenological-method-and-evidence-standards insights
 
 ### ✓ 2026-03-19: Integrate concept-of-phenomenal-value-realism.md into site navigation
 - **Type**: integrate-orphan
