@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced articles (epistemology-of-cognitive-limits, natural-vs-designed-limits)
-- **Type**: cross-review
-- **Notes**: Coalesce created [[meta-epistemology-of-limits]]. The following files reference archived articles and may need review: mysterianism.md, cognitive-closure.md, explanatory-void.md, parsimony-epistemology.md, epistemological-limits-occams-razor.md, dissolution-problem.md, self-transcendence-void.md, simulation-detection-void.md, three-kinds-of-void.md, cartography-problem.md, altered-states-as-void-probes.md, voids.md, evidential-weight-of-voids.md, consciousness-only-territories.md, apophatic-cartography.md, measurement-void.md, alien-minds-void-explorers.md, architecture-of-cognitive-closure.md, simulation.md, evolved-cognitive-limits.md, emergence-void.md, taxonomy-of-voids.md (apex)
-- **Source**: coalesce
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review predictive-processing-and-the-maps-framework.md considering active inference article
 - **Type**: cross-review
 - **Notes**: New article predictive-processing-and-active-inference-under-dualism.md (2026-03-19) covers active inference under dualism. The existing predictive-processing-and-the-maps-framework.md may benefit from cross-references to the new treatment, updated arguments, or terminology alignment. Check for reinforcing arguments and potential contradictions.
@@ -766,6 +760,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Update references to coalesced articles (epistemology-of-cognitive-limits, natural-vs-designed-limits)
+- **Type**: cross-review
+- **Notes**: Coalesce created [[meta-epistemology-of-limits]]. The following files reference archived articles and may need review: mysterianism.md, cognitive-closure.md, explanatory-void.md, parsimony-epistemology.md, epistemological-limits-occams-razor.md, dissolution-problem.md, self-transcendence-void.md, simulation-detection-void.md, three-kinds-of-void.md, cartography-problem.md, altered-states-as-void-probes.md, voids.md, evidential-weight-of-voids.md, consciousness-only-territories.md, apophatic-cartography.md, measurement-void.md, alien-minds-void-explorers.md, architecture-of-cognitive-closure.md, simulation.md, evolved-cognitive-limits.md, emergence-void.md, taxonomy-of-voids.md (apex)
+- **Output**: None -- Context: Update references to coalesced articles (epistemology-of-cognitive-limits, natural-vs-designed-limits)
 
 ### ✓ 2026-03-19: Write article on the interaction problem in non-western philosophy
 - **Type**: expand-topic
