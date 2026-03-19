@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 13:09 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[predictive-processing-and-the-maps-framework]], [[predictive-processing-and-active-inference-under-dualism]]
+- **Target**: [[predictive-processing-and-dualism]]
+- **Archived**: [[archive/topics/predictive-processing-and-the-maps-framework]], [[archive/topics/predictive-processing-and-active-inference-under-dualism]]
+- **References to review**: 12 active content files
+
 ## 2026-03-19 13:02 UTC - deep-review
 - **Status**: Success
 - **File**: [[eastern-philosophy-consciousness]]

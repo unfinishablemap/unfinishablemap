@@ -6,6 +6,11 @@ modified: 2026-02-15
 human_modified:
 ai_modified: 2026-03-19T09:58:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-19T13:09:00+00:00
+superseded_by: "/topics/predictive-processing-and-dualism/"
+archive_reason: "Coalesced into Predictive Processing and Dualism"
+original_path: "/topics/predictive-processing-and-the-maps-framework/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[cognitive-science-of-dualism]]"

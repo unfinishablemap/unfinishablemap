@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced predictive processing articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce created [[predictive-processing-and-dualism]]. The following active content files reference archived articles and need wikilinks updated: concepts/predictive-processing.md, topics/dualist-perception.md, voids/reconstruction-paradox.md, topics/consciousness-as-perceptual-architect.md, concepts/selective-perceptual-correction.md, concepts/perceptual-reconstruction-selection.md, topics/sensorimotor-contingencies-and-the-interface.md, concepts/categorical-surprise.md, topics/placebo-effect-and-mental-causation.md, topics/consciousness-and-information-integration-beyond-iit.md, topics/consciousness-and-the-phenomenology-of-constraint-satisfaction.md, research/predictive-processing-active-inference-dualism-2026-03-19.md
+- **Source**: coalesce
+- **Generated**: 2026-03-19
+
 ### P2: Cross-review mental-causation.md considering interaction problem in non-western philosophy
 - **Type**: cross-review
 - **Status**: pending
