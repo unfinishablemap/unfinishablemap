@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File created 2026-03-15 has no inbound links. Topics article on dreams as evidence for conscious causal influence — Konkoly et al. targeted memory reactivation during REM, lucid dreaming demonstrations. Add cross-references from related articles (consciousness-and-dreaming, lucid-dreaming-as-capability-evidence, filter-theory, consciousness-as-amplifier) to integrate into the site's link network.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-19
-
 ### P2: Integrate concept-of-phenomenal-value-realism.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -672,6 +665,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-15 has no inbound links. Topics article on dreams as evidence for conscious causal influence — Konkoly et al. targeted memory reactivation during REM, lucid dreaming demonstrations. Add cross-references from related articles (consciousness-and-dreaming, lucid-dreaming-as-capability-evidence, filter-theory, consciousness-as-amplifier) to integrate into the site's link network.
+- **Output**: dream-problem-solving-and-conscious-influence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-19: Update references to coalesced articles (compound-cognitive-limits, topology-of-cognitive-failure)
 - **Type**: refine-draft
