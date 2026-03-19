@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-19T18:18:00+00:00
+ai_modified: 2026-03-19T22:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write concept page on physical completeness — the structural-ontological gap
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/completeness-in-physics-epr-bell-2026-03-14.md and supplement research/completeness-in-physics-epr-bell-2026-03-17.md. Physics describes all structural relations (EPR, Bell) but not what realises them — "partial but complete." This framing dissolves the apparent conflict between physical completeness and dualism. Core to Tenets 1 and 2. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-19
+
+### P2: Cross-review comparing-quantum-consciousness-mechanisms.md considering Penrose gravity-collapse article
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/penrose-gravity-induced-collapse-empirical-prospects.md (created 2026-03-19) covers Diósi-Penrose objective reduction, specific collapse rate predictions, and MAQRO experimental prospects. Review topics/comparing-quantum-consciousness-mechanisms.md for cross-links to the new article's empirical evidence, consistency in how Penrose's model is characterised, and whether the comparison framework needs updating given new experimental data.
+- **Source**: chain (from penrose-gravity-induced-collapse-empirical-prospects.md)
+- **Generated**: 2026-03-19
+
+### P2: Refine russellian-monism.md with 2024-2025 dual-aspect traditions research
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/russellian-monism-vs-bi-aspectual-dualism-2026-03-14.md and supplement research/russellian-monism-vs-bi-aspectual-dualism-2026-03-17.md contains extensive 2024-2025 material on cosmopsychism, quantum Russellian monism (Hashemi), and Brown's "Russellian physicalism" variants that should strengthen the existing concepts/russellian-monism.md page. Update the article to engage with these contemporary developments and sharpen the distinction from the Map's bi-aspectual dualism.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-19
+
+### P2: Write concept page on mathematical structure of the consciousness-physics interface
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/mathematical-structure-consciousness-physics-interface-2026-03-14.md. Covers Hilbert space models, Born rule encoding of interface constraints, and formal representation of consciousness-physics coupling. No existing concept page synthesises this mathematical framework. Target section: concepts/. Supports Tenets 2 and 3.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-19
+
+### P2: Deep review commensurability-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Voids article on the impossibility of comparing qualitative experiences across fundamentally different cognitive architectures. Verify coherence, cross-references to other-minds-void and alien-minds content, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-19
+
+### P3: Research clinical neuroplasticity evidence for bidirectional mental causation
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: The Map's empirical case for Tenet 3 (Bidirectional Interaction) draws on scattered clinical evidence — placebo effects, contemplative neuroplasticity, CBT-driven cortical reorganisation (Schwartz OCD studies). No systematic research note surveys neuroplasticity evidence specifically: belief-dependent cortical reorganisation, meditation-driven white matter changes, psychotherapy vs. medication brain imaging comparisons. Would ground the existing P3 clinical evidence synthesis apex candidate task. Target: research note for topics/ or apex/.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-19
 
 ### P3: Address argumentative gaps in ai-consciousness.md
 - **Type**: refine-draft
