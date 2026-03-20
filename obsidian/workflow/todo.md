@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-20T03:54:00+00:00
+ai_modified: 2026-03-20T04:34:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on quantum biology in neural systems (2025-2026 experimental evidence)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/quantum-biology-neural-experimental-2026-03-20.md. Surveys 2025-2026 literature on quantum coherence in biological systems at 37°C, ion channel tunneling evidence, Posner molecule entanglement experiments, and neural-specific quantum biology findings. Directly grounds Tenet 2 (Minimal Quantum Interaction) with latest empirical evidence. Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-20
+
+### P2: Write voids article on the unobservable self
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/voids-the-unobservable-self-2026-03-20.md. The structural impossibility of the self observing itself as subject — not mere introspective difficulty but a principled limit on self-knowledge. Connects to Hume's bundle theory, Sartre's pre-reflective cogito, and Metzinger's self-model theory. Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-20
+
+### P2: Deep review limits-of-parsimony-in-consciousness-science.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: New article created 2026-03-20 via expand-topic, never reviewed. Topics article examining concrete evidence against parsimony arguments in consciousness science — hostile witnesses (Smart, Lycan), Anderson's critique of Churchland, the IIT paradox, Swinburne's reversal. Directly supports Tenet 5 (Occam's Razor Has Limits). Verify accuracy of philosophical attributions, coherence, cross-references to parsimony-epistemology.md and epistemological-limits-of-occams-razor.md, and tenet alignment.
+- **Source**: chain
+- **Generated**: 2026-03-20
+
+### P2: Research phenomenology of volitional control — Libet experiments and conscious causation evidence
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: The Map's Tenet 3 (Bidirectional Interaction) claims consciousness causally influences the physical world, but the most direct neuroscientific evidence — Libet's readiness potential, Haggard's intentional binding, Brass's intentional inhibition, Schurger's stochastic decision model — lacks a dedicated research note. These experiments provide the sharpest empirical test of conscious causation at the moment-to-moment level. Distinct from the queued clinical neuroplasticity research (which covers long-term brain changes). Target: research note for topics/ or concepts/.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-20
+
+### P2: Write voids article on the mutation void
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/voids-mutation-void-2026-03-19.md. The cognitive impossibility of experiencing one's own fundamental conceptual transformations from within — a meta-cognitive limit on self-knowledge during paradigm shifts. Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-20
 
 ### P3: Deep review sleep-consciousness-void.md
 - **Type**: deep-review
