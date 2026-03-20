@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 07:24 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-volitional-control]]
+- **Word count**: 2201 → 2247 (+46)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (2021 meta-analysis full citation added, Sjöberg paper type neutralized, cross-reference to phenomenology-of-agency-vs-passivity, cross-reference to consciousness-and-causal-powers)
+- **Enhancements made**: 2 (body cross-links to sibling articles, Braun et al. reference added)
+- **Output**: [[reviews/deep-review-2026-03-20b-phenomenology-of-volitional-control]]
+
 ## 2026-03-20 07:14 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/terminal-lucidity]]

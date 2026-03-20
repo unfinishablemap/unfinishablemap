@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review articles considering phenomenology of volitional control insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article obsidian/topics/phenomenology-of-volitional-control.md was created 2026-03-20. Related articles that may benefit from cross-references: free-will.md (agency and deliberation), consciousness-and-motor-control.md (voluntary movement), spontaneous-intentional-action.md (spontaneous action). Check for cross-links, reinforcing arguments about Libet experiments, readiness potentials, and volitional phenomenology.
-- **Source**: chain (from phenomenology-of-volitional-control.md)
-- **Generated**: 2026-03-20
-
 ### P2: Cross-review articles considering quantum biology in neural systems insights
 - **Type**: cross-review
 - **Status**: pending
@@ -987,6 +980,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Cross-review articles considering phenomenology of volitional control insights
+- **Type**: cross-review
+- **Notes**: New article obsidian/topics/phenomenology-of-volitional-control.md was created 2026-03-20. Related articles that may benefit from cross-references: free-will.md (agency and deliberation), consciousness-and-motor-control.md (voluntary movement), spontaneous-intentional-action.md (spontaneous action). Check for cross-links, reinforcing arguments about Libet experiments, readiness potentials, and volitional phenomenology.
+- **Output**: obsidian/topics/phenomenology-of-volitional-control.md -- Context: Cross-review articles considering phenomenology of volitional control insights
 
 ### ✓ 2026-03-20: Cross-review articles considering terminal lucidity concept page
 - **Type**: cross-review
