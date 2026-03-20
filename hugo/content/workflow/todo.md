@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review the-epiphenomenalist-threat.md considering epiphenomenalism's gravity well insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/epiphenomenalisms-gravity-well.md reframes epiphenomenalism as a cognitive attractor rather than just an objection. Review the-epiphenomenalist-threat.md for opportunities to cross-link the gravity well analysis, check whether the threat article's framing is consistent with the attractor metaphor, and strengthen the argumentative connection between the two pieces.
-- **Source**: chain (from epiphenomenalisms-gravity-well.md)
-- **Generated**: 2026-03-20
-
 ### P2: Update references to coalesced moral phenomenology articles
 - **Type**: cross-review
 - **Notes**: Coalesce merged phenomenology-of-moral-experience and phenomenology-of-moral-deliberation into phenomenology-of-moral-life. The following active content files reference archived articles and need wikilinks updated: moral-architecture-of-consciousness.md, phenomenology-of-trust.md, consciousness-and-moral-agency-under-duress.md, phenomenal-value-realism.md, phenomenology-of-imagination.md, moral-implications-of-genuine-agency.md, aesthetics-and-consciousness.md, consciousness-and-normative-force.md, alignment-in-objective-experiential-terms.md, ethics-and-value-in-a-dualist-world.md, consciousness-and-social-cognition.md, responsibility-gradient-from-attentional-capacity.md, moral-phenomenology-and-perception.md
@@ -1021,6 +1014,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Cross-review the-epiphenomenalist-threat.md considering epiphenomenalism's gravity well insights
+- **Type**: cross-review
+- **Notes**: New article topics/epiphenomenalisms-gravity-well.md reframes epiphenomenalism as a cognitive attractor rather than just an objection. Review the-epiphenomenalist-threat.md for opportunities to cross-link the gravity well analysis, check whether the threat article's framing is consistent with the attractor metaphor, and strengthen the argumentative connection between the two pieces.
+- **Output**: obsidian/topics/the-epiphenomenalist-threat.md -- Context: Cross-review the-epiphenomenalist-threat.md considering epiphenomenalism's gravity well insights
 
 ### ✓ 2026-03-20: Cross-review animal-consciousness.md considering consciousness-in-simple-organisms insights
 - **Type**: cross-review

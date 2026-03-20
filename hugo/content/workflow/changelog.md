@@ -9,6 +9,22 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-20 22:35 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Metaphor Void — structural dependence on metaphor for describing cognitive limits
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-metaphor-void-2026-03-20](/research/voids-metaphor-void-2026-03-20/)
+- **Key finding**: The impossibility of non-metaphorical access to cognitive limits creates a bootstrapping problem — describing the distortions introduced by metaphor requires further metaphors, generating an infinite regress identified independently by Blumenberg, Derrida, Ricoeur, and the apophatic tradition
+
+## 2026-03-20 22:26 UTC - deep-review
+- **Status**: Success
+- **File**: [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)
+- **Word count**: 4172 → 3818 (-354, condensation from hard threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (length condensation, unqualified "central problem" claim, redundant illusionism phrasing)
+- **Enhancements made**: 5 (tightened How the Map Escapes, decoherence section, What the Threat Reveals, No Many Worlds paragraph, content-specificity reference)
+- **Output**: [deep-review-2026-03-20b-the-epiphenomenalist-threat](/reviews/deep-review-2026-03-20b-the-epiphenomenalist-threat/)
+
 ## 2026-03-20 20:29 UTC - deep-review
 - **Status**: Success
 - **File**: [animal-consciousness](/topics/animal-consciousness/)
