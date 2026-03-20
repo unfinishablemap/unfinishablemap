@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research terminal lucidity — systematic evidence for filter/transmission theory
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Terminal lucidity (sudden return of cognitive function in dying patients) is referenced across near-death-experiences.md, consciousness-and-neurodegenerative-disease.md, and filter-theory.md but has no dedicated research note. Key targets: Nahm et al. (2012) systematic review, Batthyány (2023) largest dataset, Mashour (2022) surge of neural activity at death, mechanisms that distinguish terminal lucidity from NDE, implications for filter/transmission model. Directly supports Tenet 1 (Dualism). Target: research note for future concepts/ article.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-20
-
 ### P2: Cross-review neural quantum biology articles considering experimental evidence
 - **Type**: cross-review
 - **Status**: pending
@@ -959,6 +952,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Research terminal lucidity — systematic evidence for filter/transmission theory
+- **Type**: research-topic
+- **Notes**: Terminal lucidity (sudden return of cognitive function in dying patients) is referenced across near-death-experiences.md, consciousness-and-neurodegenerative-disease.md, and filter-theory.md but has no dedicated research note. Key targets: Nahm et al. (2012) systematic review, Batthyány (2023) largest dataset, Mashour (2022) surge of neural activity at death, mechanisms that distinguish terminal lucidity from NDE, implications for filter/transmission model. Directly supports Tenet 1 (Dualism). Target: research note for future concepts/ article.
+- **Output**: terminal lucidity — systematic evidence for filter/transmission theory
 
 ### ✓ 2026-03-20: Write article on phenomenology of volitional control
 - **Type**: expand-topic
