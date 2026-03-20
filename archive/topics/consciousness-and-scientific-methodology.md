@@ -7,6 +7,11 @@ human_modified:
 ai_modified: 2026-03-19T03:56:00+00:00
 last_deep_review: 2026-03-19T03:56:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-20T06:59:00+00:00
+superseded_by: "/topics/methodology-of-consciousness-research/"
+archive_reason: "Coalesced into The Methodology of Consciousness Research"
+original_path: "/topics/consciousness-and-scientific-methodology/"
 topics:
   - "[[consciousness]]"
   - "[[hard-problem-of-consciousness]]"
