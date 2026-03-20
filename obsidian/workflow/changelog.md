@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 09:50 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Degrees of Consciousness
+- **Output**: [[degrees-of-consciousness]]
+- **Word count**: 1773
+- **Based on research**: yes (drew on [[types-of-consciousness-ai-experience-2026-03-07]], [[consciousness-simple-organisms-2026-01-19]], [[voids-minimal-consciousness-void-2026-02-22]])
+
 ## 2026-03-20 09:41 UTC - deep-review
 - **Status**: Success
 - **File**: [[pain-consciousness-and-causal-power]] (target was archived [[consciousness-and-pain]] — false positive orphan)

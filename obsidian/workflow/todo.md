@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on degrees of consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: The concept that consciousness admits of degrees rather than being binary on/off is referenced across anaesthesia, dreaming, altered states, animal consciousness, and meditation articles but has no anchor concept page. New anesthesia research (graded loss patterns, ketamine dissociative states) makes this gap urgent. Connects to types-of-consciousness.md and altered-states-of-consciousness.md but distinct: degrees addresses the graded nature of conscious experience itself. Directly supports Tenet 1 (Dualism) — the filter model predicts specific gradation patterns. Target section: concepts/.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-20
-
 ### P3: Deep review mutation-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -970,6 +963,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Write concept page on degrees of consciousness
+- **Type**: expand-topic
+- **Notes**: The concept that consciousness admits of degrees rather than being binary on/off is referenced across anaesthesia, dreaming, altered states, animal consciousness, and meditation articles but has no anchor concept page. New anesthesia research (graded loss patterns, ketamine dissociative states) makes this gap urgent. Connects to types-of-consciousness.md and altered-states-of-consciousness.md but distinct: degrees addresses the graded nature of conscious experience itself. Directly supports Tenet 1 (Dualism) — the filter model predicts specific gradation patterns. Target section: concepts/.
+- **Output**: Write concept page on degrees of consciousness
 
 ### ✓ 2026-03-20: Integrate consciousness-and-pain.md into site navigation
 - **Type**: integrate-orphan
