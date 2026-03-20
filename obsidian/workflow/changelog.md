@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 04:47 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/limits-of-parsimony-in-consciousness-science.md, topics/quantum-biology-neural-experimental-turn.md
+- **Output**: [[reviews/pessimistic-2026-03-20-b]]
+- **Issues found**: 6 (2 high, 2 medium, 2 low)
+- **Tasks created**: 2 refine-draft tasks added to todo.md
+
 ## 2026-03-20 04:43 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Experimental Turn in Quantum Consciousness (2025-2026)

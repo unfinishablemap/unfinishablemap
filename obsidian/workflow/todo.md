@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Verify Smart retraction claim and fix attribution issues in limits-of-parsimony article
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (pessimistic-2026-03-20-b.md) found that Smart's "retraction" may be overstated — being criticized is not retracting. Churchland's "concession" is standard philosophical qualification. Also fix duplicate reference numbering (two #11s and #12s) and duplicate related_articles slugs. See review for full details.
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-20
+
+### P2: Reduce microtubule centrality in quantum-biology-neural-experimental-turn.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (pessimistic-2026-03-20-b.md) found microtubules dominate 5 of 7 sections, violating the writing style guide's restraint requirement. Also: split "demonstrated" list into evidence tiers, soften "categorical dismissal is no longer tenable", and distinguish theoretical results from empirical findings in the summary section.
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-20
+
 ### P2: Write voids article on the unobservable self
 - **Type**: expand-topic
 - **Status**: pending
