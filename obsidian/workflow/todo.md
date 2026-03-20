@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review the-epiphenomenalist-threat.md considering epiphenomenalisms-gravity-well insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/epiphenomenalisms-gravity-well.md explores why epiphenomenalism attracts despite its problems — the "gravity well" of parsimony and causal closure. Review the-epiphenomenalist-threat.md for cross-links, reinforcing arguments, and whether the gravity-well framing adds nuance to the existing threat analysis. Also check mental-causation.md and causal-closure.md for relevant connections.
-- **Source**: chain (from epiphenomenalisms-gravity-well.md)
-- **Generated**: 2026-03-20
-
 ### P2: Review phenomenology articles considering clinical-phenomenology-as-philosophical-evidence insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1042,6 +1035,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Review the-epiphenomenalist-threat.md considering epiphenomenalisms-gravity-well insights
+- **Type**: cross-review
+- **Notes**: New article topics/epiphenomenalisms-gravity-well.md explores why epiphenomenalism attracts despite its problems — the "gravity well" of parsimony and causal closure. Review the-epiphenomenalist-threat.md for cross-links, reinforcing arguments, and whether the gravity-well framing adds nuance to the existing threat analysis. Also check mental-causation.md and causal-closure.md for relevant connections.
+- **Output**: obsidian/topics/the-epiphenomenalist-threat.md -- Context: Review the-epiphenomenalist-threat.md considering epiphenomenalisms-gravity-well insights
 
 ### ✓ 2026-03-20: Update references to coalesced moral phenomenology articles
 - **Type**: cross-review
