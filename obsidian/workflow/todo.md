@@ -870,6 +870,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. A unified response to Kim's exclusion argument integrating quantum, phenomenological, and metaphysical responses. Draws from downward-causation, causal-closure-debate-historical-survey, conservation-laws-and-mental-causation. Could be apex candidate. See optimistic-2026-03-19-late.md
 - **Generated**: 2026-03-19
 
+### P3: Write article on pathological interface friction as clinical framework
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Develop the speculative ADHD/OCD/depression reframing from interface-friction.md with clinical evidence (Schwartz OCD brain-lock model, attention disorders, depression friction signatures). Testable predictions from bidirectional interaction. See optimistic-2026-03-20.md
+- **Generated**: 2026-03-20
+
+### P3: Cross-link phenomenological articles horizontally
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Seven phenomenological articles (constraint-satisfaction, intellectual-courage, intellectual-effort, musical-understanding, deliberation-under-uncertainty, framework-inhabitation, returning-attention) each argue consciousness does irreducible work but rarely cite each other. Building horizontal links reveals cumulative force. See optimistic-2026-03-20.md
+- **Generated**: 2026-03-20
+
+### P3: Create concept page for diachronic binding
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The binding of successive events into a felt whole, distinguished from synchronic binding. Developed in musical-understanding article with broader applications to narrative, temporal consciousness, and memory. See optimistic-2026-03-20.md
+- **Generated**: 2026-03-20
+
 ## Completed Tasks
 
 

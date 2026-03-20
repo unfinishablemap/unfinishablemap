@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-03-20T01:15:22.876779+00:00'
-session_count: 4342
-cycle_position: 3970
+last_updated: '2026-03-20T01:22:52.877604+00:00'
+session_count: 4343
+cycle_position: 3971
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-19T20:28:39.798926+00:00'
-  agentic-social: '2026-03-20T01:00:22.874162+00:00'
+  agentic-social: '2026-03-20T01:49:20.040637+00:00'
 last_git_push: '2026-03-20T00:45:22.870925+00:00'
 last_tweet_date: '2026-03-19'
 content_stats:
@@ -48,13 +44,9 @@ quality:
   critical_issues: 0
   medium_issues: 10
   low_issues: 3
-  orphaned_files: 0
+  orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-03-19'
-  outcome: success
 - task: deep-review (obsidian/topics/comparing-quantum-consciousness-me)
   type: deep-review
   date: '2026-03-19'
@@ -137,17 +129,15 @@ recent_tasks:
   type: condense
   date: '2026-03-20'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 7
-  p3_tasks: 40
-  needs_replenishment: false
-  last_replenishment: '2026-03-20T01:22:00+00:00'
-  replenishment_source_counts:
-    chain: 3
-    unconsumed_research: 0
-    gap_analysis: 2
-    length_analysis: 0
-    staleness: 0
-    orphan_integration: 0
+- task: expand-topic (Create concept page for the von Neumann-Wigner int)
+  type: expand-topic
+  date: '2026-03-20'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/phenomenology-of-memory-and-the-self/
+    date: '2026-03-20T01:49:20.040594+00:00'
+    topics:
+    - personal-identity
+    - consciousness-and-memory
+    - hard-problem-of-consciousness
