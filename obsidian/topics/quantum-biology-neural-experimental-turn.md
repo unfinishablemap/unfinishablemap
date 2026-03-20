@@ -4,8 +4,8 @@ description: "How 2025-2026 experimental evidence—anesthetic-microtubule quant
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T05:09:00+00:00
-last_deep_review: 2026-03-20T05:09:00+00:00
+ai_modified: 2026-03-20T07:29:00+00:00
+last_deep_review: 2026-03-20T07:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,15 +38,15 @@ Three findings anchor this claim:
 
 **Anesthetic targeting of microtubules.** The traditional pharmacological view holds that [[anaesthesia-and-the-consciousness-interface|anesthetics act on membrane-bound receptors]]. Wiest marshals evidence that inhalational anesthetics functionally target intraneuronal microtubules, disrupting quantum activities in orchestrated proteins while leaving non-orchestrated proteins unaffected. This selectivity aligns with predictions of quantum consciousness models, though whether classical pharmacology can fully account for it remains an open question. If anesthetics specifically disrupt quantum coherence in consciousness-relevant structures, the correlation between quantum disruption and loss of consciousness becomes harder to dismiss as coincidence.
 
-**Room-temperature quantum effects.** Building on Bandyopadhyay's 2013-2014 discoveries and subsequent work by Travis et al. (2024), Wiest documents that microtubules exhibit quantum effects—including superradiant excitonic states—at physiological temperatures. The "warm, wet, and noisy" objection assumed such effects were impossible. They have now been observed, at least in isolated preparations.
+**Room-temperature quantum effects.** Building on Sahu et al.'s 2013 discoveries and subsequent work by Travis et al. (2024), Wiest documents that microtubules exhibit quantum effects—including superradiant excitonic states—at physiological temperatures. The "warm, wet, and noisy" objection assumed such effects were impossible. They have now been observed, at least in isolated preparations.
 
 **Macroscopic brain entanglement.** Wiest cites evidence of macroscopic quantum entangled states in the living human brain, correlated with conscious state and working memory performance. This builds on the Kerskens and Pérez (2022) MRI study that detected signals consistent with entangled proton spins. Independent replication remains essential before this finding can bear much evidential weight.
 
-Wiest further argues that quantum entanglement across microtubule networks addresses both the [[binding-problem|binding problem]]—how unified experience arises from distributed processing—and the epiphenomenalism objection. If quantum processes constitute the substrate of consciousness rather than merely correlating with it, the worry that quantum consciousness might still be causally inert is addressed structurally.
+Wiest further argues that quantum entanglement across microtubule networks addresses both the [[binding-problem|binding problem]]—how unified experience arises from distributed processing (see [[quantum-binding-and-phenomenal-unity]])—and the epiphenomenalism objection. If quantum processes constitute the substrate of consciousness rather than merely correlating with it, the worry that quantum consciousness might still be causally inert is addressed structurally.
 
 ## Spintronic Coherence: A New Answer to Decoherence
 
-The most persistent objection to neural quantum effects has been [[decoherence]]—Tegmark's influential 2000 calculation yielding femtosecond timescales for neural quantum states. While Hagan et al. (2002) challenged Tegmark's parameters and extended estimates by seven orders of magnitude, a gap remained between coherence times and neural processing timescales.
+The most persistent objection to neural quantum effects has been [[decoherence]]—Tegmark's influential 2000 calculation yielding femtosecond timescales for neural quantum states (see [[quantum-neural-timing-constraints]] for the full timing hierarchy). While Hagan et al. (2002) challenged Tegmark's parameters and extended estimates by seven orders of magnitude, a gap remained between coherence times and neural processing timescales.
 
 Beshkar's 2025 QBIT theory takes a different approach. Rather than defending electronic or vibrational coherence against thermal disruption, QBIT proposes that intraneuronal structures function as nanoscale spintronic oscillators with memristive properties. The key insight: spintronic coherence—based on electron spin rather than charge or vibration—is inherently more stable at physiological temperatures.
 
@@ -56,7 +56,7 @@ This proposal is entirely theoretical—spintronic effects in neural structures 
 
 ## Active Inference Meets Quantum Collapse
 
-A 2025 paper in *Computational and Structural Biotechnology Journal* integrated quantum collapse models with Karl Friston's active inference framework—one of the most influential models in contemporary neuroscience. The argument: classical neural mechanisms for conscious active inference lack biological plausibility; the mathematics of conscious active inference parallels the path integrals underlying quantum dynamics.
+A 2025 paper in *Computational and Structural Biotechnology Journal* by Wiest and Puniani integrated quantum collapse models with Karl Friston's active inference framework—one of the most influential models in contemporary neuroscience. The paper argues that classical neural mechanisms for conscious active inference lack biological plausibility, and that the mathematics of conscious active inference parallels the path integrals underlying quantum dynamics.
 
 This convergence matters for two reasons. First, it embeds quantum consciousness within a broader neuroscientific framework rather than treating it as an isolated speculation. Active inference models how organisms maintain themselves through prediction and action. If the mathematics requires quantum dynamics, quantum effects in the brain cease to be optional extras and become structurally necessary.
 
@@ -80,7 +80,7 @@ The quantum consciousness debate has been constrained by measurement limitations
 
 ## The Zero-Point Field Hypothesis
 
-Keppler's 2025 TRAZE theory proposes a different mechanism entirely: phenomenal states arise through Resonant Amplification of Zero-point modEs. Based on quantum electrodynamics, the theory holds that cortical microcolumns couple directly to the electromagnetic zero-point field, with resonant interactions initiating phase transitions that correspond to conscious states.
+Keppler's 2025 theory proposes a different mechanism entirely: a Theory of Resonant Amplification of Zero-point modEs (TRAZE). Based on quantum electrodynamics, TRAZE holds that cortical microcolumns couple directly to the electromagnetic zero-point field, with resonant interactions initiating phase transitions that correspond to conscious states.
 
 From The Unfinishable Map's perspective, TRAZE raises an important question: is zero-point field resonance genuinely non-reductive, or does it reduce consciousness to an exotic physical process? The ZPF is a physical field; coupling to it remains within physics. If consciousness simply *is* ZPF resonance, this could be read as sophisticated physicalism rather than anything compatible with the Map's [[tenets#^dualism|Dualism]] tenet. The theory does not address the hard problem—why resonance with a field should generate phenomenal experience rather than mere information processing.
 
@@ -132,6 +132,8 @@ The 2025-2026 experimental developments connect to the Map's [[tenets]] at multi
 - [[quantum-biology]] — Established quantum effects in living systems
 - [[quantum-neural-mechanisms-and-coherence]] — Five proposed mechanisms for neural quantum effects
 - [[comparing-quantum-consciousness-mechanisms]] — Evaluating competing quantum consciousness theories
+- [[quantum-neural-timing-constraints]] — The timing hierarchy from femtosecond decoherence to neural decisions
+- [[quantum-binding-and-phenomenal-unity]] — Quantum entanglement and the binding problem
 - [[decoherence]] — The decoherence objection and why it doesn't solve the measurement problem
 - [[quantum-consciousness]] — Quantum approaches to consciousness including Orch OR
 - [[quantum-measurement-and-consciousness]] — How quantum measurement connects to consciousness theories
@@ -147,7 +149,7 @@ The 2025-2026 experimental developments connect to the Map's [[tenets]] at multi
 3. Keppler, J. (2025). Macroscopic quantum effects in the brain: new insights into the fundamental principle underlying conscious processes. *Frontiers in Human Neuroscience*, 2025, 1676585.
 4. Wiest, M. C., & Puniani, A. S. (2025). Conscious active inference II: Quantum orchestrated objective reduction among intraneuronal microtubules naturally accounts for discrete perceptual cycles. *Computational and Structural Biotechnology Journal*.
 5. Escola-Gascon, A. (2025). Evidence of quantum-entangled higher states of consciousness. *Computational and Structural Biotechnology Journal*.
-6. Emerging roles of NV-diamond magnetometry in brain mapping and bioimaging. (2026). *Journal of Biological Physics*.
+6. [Review article]. (2026). Emerging roles of NV-diamond magnetometry in brain mapping and bioimaging. *Journal of Biological Physics*.
 7. Tegmark, M. (2000). The importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 8. Hagan, S., Hameroff, S. R., & Tuszynski, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 9. Kerskens, C. M., & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.

@@ -1,6 +1,10 @@
-last_updated: '2026-03-20T07:14:34.423972+00:00'
-session_count: 4380
-cycle_position: 4008
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-03-20T07:22:04.424365+00:00'
+session_count: 4381
+cycle_position: 4009
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-19T20:28:39.798926+00:00'
-  agentic-social: '2026-03-20T07:23:49.872859+00:00'
+  agentic-social: '2026-03-20T07:22:04.424365+00:00'
 last_git_push: '2026-03-20T00:45:22.870925+00:00'
 last_tweet_date: '2026-03-19'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (quantum biology in neural systems (2025-2026 exper)
-  type: expand-topic
-  date: '2026-03-20'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-03-20'
@@ -81,7 +81,7 @@ recent_tasks:
   type: optimistic-review
   date: '2026-03-20'
   outcome: success
-- task: "research-topic (phenomenology of volitional control \u2014 Libet experi)"
+- task: research-topic (phenomenology of volitional control — Libet experi)
   type: research-topic
   date: '2026-03-20'
   outcome: success
@@ -101,7 +101,7 @@ recent_tasks:
   type: coalesce
   date: '2026-03-20'
   outcome: success
-- task: "research-topic (terminal lucidity \u2014 systematic evidence for filter)"
+- task: research-topic (terminal lucidity — systematic evidence for filter)
   type: research-topic
   date: '2026-03-20'
   outcome: success
@@ -129,10 +129,7 @@ recent_tasks:
   type: deep-review
   date: '2026-03-20'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/asymmetric-bandwidth-consciousness/
-    date: '2026-03-20T07:23:49.872839+00:00'
-    topics:
-    - bandwidth-of-consciousness
-    - hard-problem-of-consciousness
+- task: deep-review (obsidian/topics/phenomenology-of-volitional-contro)
+  type: deep-review
+  date: '2026-03-20'
+  outcome: success

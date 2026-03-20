@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review articles considering quantum biology in neural systems insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article obsidian/topics/quantum-biology-neural-experimentation.md was created 2026-03-20 from research on 2025-2026 experimental results. Related articles that may benefit from cross-references: comparing-quantum-consciousness-mechanisms.md (quantum mechanisms), quantum-decoherence-problem.md (decoherence timescales), consciousness-and-quantum-biology.md (quantum biology overview). Check for updated experimental evidence and cross-links.
-- **Source**: chain (from quantum-biology-neural-experimentation.md)
-- **Generated**: 2026-03-20
-
 ### P2: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -980,6 +973,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Cross-review articles considering quantum biology in neural systems insights
+- **Type**: cross-review
+- **Notes**: New article obsidian/topics/quantum-biology-neural-experimentation.md was created 2026-03-20 from research on 2025-2026 experimental results. Related articles that may benefit from cross-references: comparing-quantum-consciousness-mechanisms.md (quantum mechanisms), quantum-decoherence-problem.md (decoherence timescales), consciousness-and-quantum-biology.md (quantum biology overview). Check for updated experimental evidence and cross-links.
+- **Output**: obsidian/topics/quantum-biology-neural-experimentation.md -- Context: Cross-review articles considering quantum biology in neural systems insights
 
 ### ✓ 2026-03-20: Cross-review articles considering phenomenology of volitional control insights
 - **Type**: cross-review
