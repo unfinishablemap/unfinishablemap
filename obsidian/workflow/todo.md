@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review phenomenology articles considering clinical-phenomenology-as-philosophical-evidence insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/clinical-phenomenology-as-philosophical-evidence.md argues clinical data constitutes philosophical evidence for dualism. Review contemplative-practice-as-philosophical-evidence.md and methodology-of-consciousness-research.md for cross-links and whether the clinical evidence framework complements or overlaps their arguments.
-- **Source**: chain (from clinical-phenomenology-as-philosophical-evidence.md)
-- **Generated**: 2026-03-20
-
 ### P2: Review related articles considering phenomenology-mechanism-bridge apex
 - **Type**: cross-review
 - **Status**: pending
@@ -1035,6 +1028,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Review phenomenology articles considering clinical-phenomenology-as-philosophical-evidence insights
+- **Type**: cross-review
+- **Notes**: New article topics/clinical-phenomenology-as-philosophical-evidence.md argues clinical data constitutes philosophical evidence for dualism. Review contemplative-practice-as-philosophical-evidence.md and methodology-of-consciousness-research.md for cross-links and whether the clinical evidence framework complements or overlaps their arguments.
+- **Output**: None -- Context: Review phenomenology articles considering clinical-phenomenology-as-philosophical-evidence insights
 
 ### ✓ 2026-03-20: Review the-epiphenomenalist-threat.md considering epiphenomenalisms-gravity-well insights
 - **Type**: cross-review
