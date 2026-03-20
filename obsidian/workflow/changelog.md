@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 22:35 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Metaphor Void — structural dependence on metaphor for describing cognitive limits
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [[research/voids-metaphor-void-2026-03-20]]
+- **Key finding**: The impossibility of non-metaphorical access to cognitive limits creates a bootstrapping problem — describing the distortions introduced by metaphor requires further metaphors, generating an infinite regress identified independently by Blumenberg, Derrida, Ricoeur, and the apophatic tradition
+
 ## 2026-03-20 22:26 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/the-epiphenomenalist-threat]]
