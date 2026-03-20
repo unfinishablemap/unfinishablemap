@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 10:14 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[history-of-interactionist-dualism]], [[princess-elizabeths-challenge]], [[elisabeths-contemporaries-and-the-interaction-debate]]
+- **Target**: [[history-of-the-interaction-problem]]
+- **Archived**: archive/topics/history-of-interactionist-dualism.md, archive/topics/princess-elizabeths-challenge.md, archive/topics/elisabeths-contemporaries-and-the-interaction-debate.md
+- **References to review**: 0 (all 23 references across 13 files updated inline)
+
 ## 2026-03-20 10:06 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Unobservable Self

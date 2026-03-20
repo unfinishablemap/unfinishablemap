@@ -7,8 +7,7 @@ human_modified:
 ai_modified: 2026-03-18T13:25:00+00:00
 draft: false
 topics:
-  - "[[princess-elizabeths-challenge]]"
-  - "[[history-of-interactionist-dualism]]"
+  - "[[history-of-the-interaction-problem]]"
   - "[[the-hard-problem-in-non-western-philosophy]]"
   - "[[eastern-philosophy-consciousness]]"
 concepts:
@@ -24,7 +23,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[objections-to-interactionism]]"
-  - "[[elisabeths-contemporaries-and-the-interaction-debate]]"
+  - "[[history-of-the-interaction-problem]]"
   - "[[interaction-problem-non-western-philosophy-2026-02-17]]"
 ai_contribution: 100
 author:
@@ -125,13 +124,11 @@ The convergence across traditions on the selection insight—that mind shapes ou
 
 ## Further Reading
 
-- [[princess-elizabeths-challenge]]
-- [[history-of-interactionist-dualism]]
+- [[history-of-the-interaction-problem]]
 - [[the-hard-problem-in-non-western-philosophy]]
 - [[eastern-philosophy-consciousness]]
 - [[objections-to-interactionism]]
 - [[conservation-laws-and-mental-causation]]
-- [[elisabeths-contemporaries-and-the-interaction-debate]]
 
 ## References
 

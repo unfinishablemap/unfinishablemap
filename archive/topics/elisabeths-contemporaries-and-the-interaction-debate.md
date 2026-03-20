@@ -6,6 +6,11 @@ modified: 2026-02-15
 human_modified:
 ai_modified: 2026-02-17T14:27:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-20T10:14:00+00:00
+superseded_by: "/topics/history-of-the-interaction-problem/"
+archive_reason: "Coalesced into History of the Interaction Problem"
+original_path: "/topics/elisabeths-contemporaries-and-the-interaction-debate/"
 topics:
   - "[[history-of-interactionist-dualism]]"
   - "[[princess-elizabeths-challenge]]"

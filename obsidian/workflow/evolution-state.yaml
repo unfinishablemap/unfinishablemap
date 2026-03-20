@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-03-20T09:57:12.461567+00:00'
-session_count: 4400
-cycle_position: 4028
+last_updated: '2026-03-20T10:06:46.279816+00:00'
+session_count: 4401
+cycle_position: 4029
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/phenomenology-of-volitional-contro)
-  type: deep-review
-  date: '2026-03-20'
-  outcome: success
 - task: deep-review (obsidian/topics/quantum-biology-neural-experimenta)
   type: deep-review
   date: '2026-03-20'
@@ -132,5 +128,9 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-03-20'
+  outcome: success
+- task: expand-topic (Write void article on the unobservable self)
+  type: expand-topic
   date: '2026-03-20'
   outcome: success

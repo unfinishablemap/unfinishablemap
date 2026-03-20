@@ -6,6 +6,11 @@ modified: 2026-03-14
 human_modified:
 ai_modified: 2026-03-20T04:33:46+00:00
 draft: false
+archived: true
+archived_date: 2026-03-20T10:14:00+00:00
+superseded_by: "/topics/history-of-the-interaction-problem/"
+archive_reason: "Coalesced into History of the Interaction Problem"
+original_path: "/topics/princess-elizabeths-challenge/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[history-of-interactionist-dualism]]"

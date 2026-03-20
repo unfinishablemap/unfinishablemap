@@ -35,7 +35,7 @@ last_deep_review: 2026-03-19T02:34:00+00:00
 
 If consciousness influences the physical world by biasing quantum outcomes in the brain, exactly which conscious states bias which outcomes, through what mechanism, and by how much? This is the interface specification problem—the most significant open challenge facing The Unfinishable Map's interactionist framework.
 
-The Map can say *that* consciousness acts on matter (the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet), *where* it acts (at quantum indeterminacies, per [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]), and *through what neural architecture* it acts (the unified [[attention-and-the-consciousness-interface|attention-motor interface]]). What remains unspecified is the lawful mapping from phenomenal properties to physical selections—what Chalmers (1996, p. 214) calls the "t-shirt problem": the absence of psychophysical laws compact and precise enough to fit on a t-shirt, as F=ma can. The problem is a descendant of [[princess-elizabeths-challenge|Princess Elisabeth's original challenge]] to Descartes: if mind and body are distinct, how do they interact?
+The Map can say *that* consciousness acts on matter (the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet), *where* it acts (at quantum indeterminacies, per [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]), and *through what neural architecture* it acts (the unified [[attention-and-the-consciousness-interface|attention-motor interface]]). What remains unspecified is the lawful mapping from phenomenal properties to physical selections—what Chalmers (1996, p. 214) calls the "t-shirt problem": the absence of psychophysical laws compact and precise enough to fit on a t-shirt, as F=ma can. The problem is a descendant of [[history-of-the-interaction-problem|Princess Elisabeth's original challenge]] to Descartes: if mind and body are distinct, how do they interact?
 
 This article examines what the specification problem demands, what partial answers exist, why it remains unsolved, and whether its difficulty is a temporary embarrassment or a permanent feature.
 
@@ -181,7 +181,7 @@ The specification problem is the Map's most significant open challenge. Acknowle
 - [[psychophysical-laws-bridging-mind-and-matter]] — Integrated overview of psychophysical laws
 - [[bandwidth-of-consciousness]] — The ~10 bits/second constraint on conscious selection
 - [[pairing-problem]] — What connects a particular mind to a particular body
-- [[princess-elizabeths-challenge]] — The original formulation of the interaction problem
+- [[history-of-the-interaction-problem]] — The original formulation of the interaction problem
 - [[epistemology-of-mechanism-at-the-consciousness-matter-interface]] — What epistemic methods can reach the interface when direct observation is impossible
 
 ## References

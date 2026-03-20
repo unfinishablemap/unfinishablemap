@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
-  - "[[history-of-interactionist-dualism]]"
+  - "[[history-of-the-interaction-problem]]"
 concepts:
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"
@@ -122,7 +122,7 @@ The Map does not claim that rejecting causal closure is simple. It claims that t
 - [[conservation-laws-and-mental-causation]] — Why energy conservation does not entail causal closure
 - [[observational-closure]] — The distinction between detectable and universal closure
 - [[delegatory-dualism]] — Saad's framework for mental causation without overdetermination
-- [[history-of-interactionist-dualism]] — The broader history of mind-body interaction theories
+- [[history-of-the-interaction-problem]] — The broader history of mind-body interaction theories
 - [[the-epiphenomenalist-threat]] — How causal closure drives theories toward epiphenomenalism
 - [[arguments-against-materialism]] — The convergent case that materialism fails
 - [[stapp-quantum-mind]] — Quantum Zeno mechanism for consciousness-physics interaction

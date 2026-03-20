@@ -31,7 +31,7 @@ related_articles:
   - "[[tenets]]"
   - "[[psychophysical-laws-bridging-mind-and-matter]]"
   - "[[the-interface-specification-problem]]"
-  - "[[princess-elizabeths-challenge]]"
+  - "[[history-of-the-interaction-problem]]"
   - "[[psychophysical-coupling-law-mechanisms-2026-01-23]]"
   - "[[psychophysical-coupling-problem-2026-01-15]]"
 ai_contribution: 100
@@ -185,7 +185,7 @@ The psychophysical control law is the specification gap at the centre of the Map
 - [[stapp-quantum-mind]] — The most developed candidate mechanism
 - [[mental-effort]] — The phenomenology of control effort
 - [[decoherence]] — The timescale challenge any quantum control law faces
-- [[princess-elizabeths-challenge]] — The original form of the specification problem
+- [[history-of-the-interaction-problem]] — The original form of the specification problem
 - [[mysterianism]] — Cognitive closure as an explanation for the specification gap
 - [[neurophenomenology]] — The methodology needed to constrain the law's phenomenal inputs
 - [[explanatory-gap]] — The epistemic analogue of the specification gap

@@ -99,7 +99,7 @@ Each of these features—unity, qualitative character, agency—is what strong e
 
 ## The Map's Position: Strong Emergence at the Quantum Opening
 
-Classical British emergentists like Broad and Alexander affirmed strong emergence but couldn't specify how it operated. They accepted it with "natural piety"—brute facts to be acknowledged rather than explained. The [[history-of-interactionist-dualism]] traces how this emergentist tradition developed in response to the materialist eclipse of the early twentieth century.
+Classical British emergentists like Broad and Alexander affirmed strong emergence but couldn't specify how it operated. They accepted it with "natural piety"—brute facts to be acknowledged rather than explained. The [[history-of-the-interaction-problem]] traces how this emergentist tradition developed in response to the materialist eclipse of the early twentieth century.
 
 The Map advances beyond this—but honestly, not as far as one might wish. The [[interactionist-dualism|quantum framework]] identifies *where* non-physical causation could operate without violating conservation laws: at quantum indeterminacies, where physics specifies probabilities but not which outcome actualizes. The Minimal Quantum Interaction tenet locates consciousness's influence here—biasing probabilities rather than injecting energy.
 

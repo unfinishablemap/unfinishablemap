@@ -39,7 +39,7 @@ related_articles:
   - "[[psychophysical-coupling-problem-2026-01-15]]"
   - "[[brain-specialness-boundary-2026-01-15]]"
   - "[[concepts/epiphenomenalism]]"
-  - "[[princess-elizabeths-challenge]]"
+  - "[[history-of-the-interaction-problem]]"
   - "[[the-epiphenomenalist-threat]]"
   - "[[bandwidth-problem-mental-causation]]"
   - "[[the-interface-specification-problem]]"
@@ -115,7 +115,7 @@ The Map builds on Chalmers' framework but makes different choices at key junctio
 
 ## The Coupling Problem
 
-Without specifying *which* phenomenal properties map to *which* physical selections, "consciousness selects" remains a metaphor rather than a research program. Psychophysical coupling — the lawful relationship between conscious states and physical processes — names the bridge that any adequate theory must provide. This is the modern form of [[princess-elizabeths-challenge|Princess Elisabeth's challenge]] to Descartes: how can something non-physical causally relate to something physical? The relationship cannot be identity (materialist reduction), because the [[hard-problem-of-consciousness|hard problem]] shows phenomenal properties resist identification with physical properties. It cannot be mere coincidence, because the correlations are lawful and stable. So coupling must be a *sui generis* lawful relationship — a fundamental feature of reality that connects two irreducible domains.
+Without specifying *which* phenomenal properties map to *which* physical selections, "consciousness selects" remains a metaphor rather than a research program. Psychophysical coupling — the lawful relationship between conscious states and physical processes — names the bridge that any adequate theory must provide. This is the modern form of [[history-of-the-interaction-problem|Princess Elisabeth's challenge]] to Descartes: how can something non-physical causally relate to something physical? The relationship cannot be identity (materialist reduction), because the [[hard-problem-of-consciousness|hard problem]] shows phenomenal properties resist identification with physical properties. It cannot be mere coincidence, because the correlations are lawful and stable. So coupling must be a *sui generis* lawful relationship — a fundamental feature of reality that connects two irreducible domains.
 
 A psychophysical coupling law would specify:
 
@@ -251,7 +251,7 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 - [[decoherence]] — The decoherence challenge and biological quantum effects
 - [[concepts/epiphenomenalism]] — The view Chalmers tends toward (and the Map rejects)
 - [[the-epiphenomenalist-threat]] — Why most theories default to epiphenomenalism without explicit coupling
-- [[princess-elizabeths-challenge]] — The historical form of the coupling problem
+- [[history-of-the-interaction-problem]] — The historical form of the coupling problem
 - [[bandwidth-problem-mental-causation]] — The bandwidth constraint on conscious selection
 - [[the-interface-specification-problem]] — The challenge of specifying the mind-matter mapping
 - [[concepts/functionalism]] — The view the Map rejects

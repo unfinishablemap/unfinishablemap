@@ -7,6 +7,11 @@ human_modified:
 ai_modified: 2026-03-06T13:38:00+00:00
 last_deep_review: 2026-03-06T13:38:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-20T10:14:00+00:00
+superseded_by: "/topics/history-of-the-interaction-problem/"
+archive_reason: "Coalesced into History of the Interaction Problem"
+original_path: "/topics/history-of-interactionist-dualism/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
