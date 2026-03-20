@@ -1001,6 +1001,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-20
 - **Output**: [[concepts/skill-delegation]]
 
+### P3: Write concept page on interface friction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The phenomenology of consciousness engaging with physical systems — friction varies from high (learning) through zero (flow) to negative (choking). May correspond to coupling strength at quantum level. Used in skilled performance article but deserves standalone concept page as central to interface specification programme. Target section: concepts/. See optimistic-2026-03-20-evening.md
+- **Generated**: 2026-03-20
+
+### P3: Write concept page on domestication (epistemological)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The process by which successful prediction creates the illusion that explanation is complete. Deployed in emergence-as-universal-hard-problem but applicable broadly — wherever explanatory gaps seem "closed," domestication may be the real mechanism. Contributes to philosophy-of-science programme. Target section: concepts/. See optimistic-2026-03-20-evening.md
+- **Generated**: 2026-03-20
+
+### P3: Write concept page on self-stultification
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Pattern where a philosophical position undermines epistemic conditions required to rationally hold it. Appears independently in pragmatism (eliminativism eliminates evaluation), heterophenomenology (brackets own presuppositions), and induction (physicalism undermines rational inference). Anchoring concept for convergence arguments. Target section: concepts/. See optimistic-2026-03-20-evening.md
+- **Generated**: 2026-03-20
+
 ## Completed Tasks
 
 
