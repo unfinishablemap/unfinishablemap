@@ -30,7 +30,7 @@ related_articles:
 - '[[binding-void]]'
 - '[[substrate-void]]'
 - '[[the-surplus-void]]'
-- '[[the-givenness-void]]'
+- '[[phenomenal-presence-void]]'
 - '[[dissolution-problem]]'
 title: Tenet-Generated Voids
 topics: []
@@ -174,7 +174,7 @@ The framework-generated-voids analysis would be undermined if:
 - [The Binding Void](/voids/binding-void/) — Why phenomenal unity resists explanation entirely
 - [The Substrate Void](/voids/substrate-void/) — What consciousness is made of (the Nature Void in depth)
 - [The Surplus Void](/voids/the-surplus-void/) — Why experience delivers more than function requires
-- [The Givenness Void](/voids/the-givenness-void/) — Why experience presents as immediately given
+- [The Phenomenal Presence Void](/voids/phenomenal-presence-void/) — Why experience presents as immediately given
 - [The Dissolution Problem](/voids/dissolution-problem/) — Why we cannot predict which cognitive limits will prove permanent
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 

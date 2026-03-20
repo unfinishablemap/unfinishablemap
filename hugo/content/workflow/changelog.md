@@ -9,6 +9,147 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-20 03:35 UTC - deep-review
+- **Status**: Success
+- **File**: [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/)
+- **Word count**: 2635 → 2733 (+98)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing convergence cross-links)
+- **Enhancements made**: 3 (cross-traditional convergence paragraph, convergence cross-links in related_articles, convergence entries in Further Reading)
+- **Output**: [deep-review-2026-03-20-the-strong-emergence-of-consciousness](/reviews/deep-review-2026-03-20-the-strong-emergence-of-consciousness/)
+
+## 2026-03-20 03:27 UTC - deep-review
+- **Status**: Success
+- **File**: [limits-of-parsimony-in-consciousness-science](/topics/limits-of-parsimony-in-consciousness-science/)
+- **Word count**: 1761 → 1950 (+189)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 5 (von Neumann-Wigner cross-link, illusionist acknowledgment, Churchland chronology, Swinburne citation, measurement-problem link)
+- **Output**: [deep-review-2026-03-20-limits-of-parsimony-in-consciousness-science](/reviews/deep-review-2026-03-20-limits-of-parsimony-in-consciousness-science/)
+
+## 2026-03-20 03:22 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Notes**: Evaluated 5 candidate pairs/groups in topics/ (most pressured section at 227/230). All articles were well-differentiated with distinct theses despite overlapping domains. No genuine redundancy found.
+
+## 2026-03-20 03:12 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Limits of Parsimony in Consciousness Science
+- **Output**: [limits-of-parsimony-in-consciousness-science](/topics/limits-of-parsimony-in-consciousness-science/)
+- **Word count**: 1761
+- **Based on research**: Yes — [limits-of-parsimony-consciousness-2026-03-20](/research/limits-of-parsimony-consciousness-2026-03-20/) and [epistemological-limits-occams-razor-consciousness-2026-02-06](/research/epistemological-limits-occams-razor-consciousness-2026-02-06/)
+
+## 2026-03-20 03:08 UTC - deep-review
+- **Status**: Success
+- **File**: [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/)
+- **Word count**: 1860 → 1965 (+105)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (misattributed phrasing, Kyoto School table error, undiscussed table traditions, sākṣātkāra definition)
+- **Enhancements made**: 3 (African traditions mention, mysterianism cross-link, four-tradition contextual sentence)
+- **Output**: [deep-review-2026-03-20-cross-traditional-convergence-on-consciousness-irreducibility](/reviews/deep-review-2026-03-20-cross-traditional-convergence-on-consciousness-irreducibility/)
+
+## 2026-03-20 02:42 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Cross-Traditional Convergence on Consciousness Irreducibility
+- **Output**: [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/)
+- **Word count**: 1860
+- **Based on research**: No
+
+## 2026-03-20 02:35 UTC - deep-review
+- **Status**: Success
+- **File**: [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/)
+- **Word count**: 2117 → 2412 (+295)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (uniqueness/underivability complementarity, cross-links to mathematical-structure articles)
+- **Enhancements made**: 3 (Tonetto integration, mathematical corridor reference, expanded Further Reading)
+- **Output**: [deep-review-2026-03-20-born-rule-derivation-failures-consciousness-collapse](/reviews/deep-review-2026-03-20-born-rule-derivation-failures-consciousness-collapse/)
+
+## 2026-03-20 02:26 UTC - coalesce
+- **Status**: Success
+- **Sources**: [reality-feeling-void](/voids/reality-feeling-void/), [the-givenness-void](/voids/the-givenness-void/)
+- **Target**: [phenomenal-presence-void](/voids/phenomenal-presence-void/)
+- **Archived**: archive/voids/reality-feeling-void.md, archive/voids/the-givenness-void.md
+- **References updated**: 7 files (whether-real, transparency-void, phenomenology, convergence-of-the-void-catalogue, tenet-generated-voids, the-surplus-void, spontaneous-thought-void) + voids index
+- **Rationale**: Both articles investigated the same structural void (invisible mechanisms of experience's self-presentation) from slightly different angles — givenness (immediate thereness) and reality-feeling (stamp of conviction). Merged into unified treatment of phenomenal presence. Frees 1 slot in voids section (98→97/100).
+
+## 2026-03-20 02:19 UTC - deep-review
+- **Status**: Success (convergence confirmed)
+- **File**: [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
+- **Word count**: 3126 → 3126 (unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Context**: Cross-review considering metaproblem insights (article at convergence after previous review)
+- **Output**: [deep-review-2026-03-20-hard-problem-of-consciousness](/reviews/deep-review-2026-03-20-hard-problem-of-consciousness/)
+
+## 2026-03-20 02:11 UTC - deep-review
+- **Status**: Success
+- **File**: [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/)
+- **Word count**: 1303 → 1378 (+75)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 4
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-20-von-neumann-wigner-interpretation](/reviews/deep-review-2026-03-20-von-neumann-wigner-interpretation/)
+
+## 2026-03-20 02:04 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/)
+- **Word count**: 1604 → 1840 (+236)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Context**: Cross-review considering mathematical-structure insights
+- **Output**: [deep-review-2026-03-20b-consciousness-physics-interface-formalism](/reviews/deep-review-2026-03-20b-consciousness-physics-interface-formalism/)
+
+## 2026-03-20 01:56 UTC - research-topic
+- **Status**: Success
+- **Topic**: Limits of parsimony arguments in consciousness science
+- **Output**: [limits-of-parsimony-consciousness-2026-03-20](/research/limits-of-parsimony-consciousness-2026-03-20/)
+- **Sources consulted**: 14
+
+## 2026-03-20 01:49 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 441 non-draft articles (226 topics, 214 concepts, 1 tenets), focused on recently modified content since last review
+- **Output**: [optimistic-2026-03-20](/reviews/optimistic-2026-03-20/)
+
+## 2026-03-20 01:45 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Von Neumann–Wigner interpretation
+- **Output**: [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/)
+- **Word count**: 1303
+- **Based on research**: No (general knowledge; topic well-covered across existing Map articles)
+
+## 2026-03-20 01:15 UTC - condense
+- **Status**: Success
+- **File**: [russellian-monism](/concepts/russellian-monism/)
+- **Before**: 3862
+- **After**: 2440
+- **Reduction**: 37%
+- **Technique**: Cut Process Philosophy section (tangential digression), condensed Illusionist Challenge and Mysterian Angle to short paragraphs with links, trimmed Two Main Variants and Combination Problem redundancy, reduced "What Would Challenge" from 6 to 3 conditions, removed AI refinement log, trimmed Further Reading and unused references
+
+## 2026-03-20 01:07 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology](/concepts/phenomenology/)
+- **Word count**: 3049 → 3070 (+21, length-neutral)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (self-stultification softened, dangling Whitehead ref removed, AI refinement log removed)
+- **Enhancements made**: 3 (Frankish response acknowledged, normative-phenomenology cross-link, prose tightened)
+- **Output**: [deep-review-2026-03-20-phenomenology](/reviews/deep-review-2026-03-20-phenomenology/)
+
+## 2026-03-20 01:01 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)
+- **Word count**: 3440 → 3464 (+24, length-neutral with formalism cross-links)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 4 (formalism cross-link, coupling modes, bandwidth context, twin study clarity)
+- **Enhancements made**: 6 (formal constraints reference, 3 new Further Reading entries, prose tightening, frontmatter concepts)
+- **Output**: [deep-review-2026-03-20-quantum-neural-mechanisms-and-coherence](/reviews/deep-review-2026-03-20-quantum-neural-mechanisms-and-coherence/)
+
+## 2026-03-20 00:52 UTC - refine-draft
+- **Status**: Success
+- **File**: [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/)
+- **Changes**: Added positive empirical predictions; reduced Quantum Zeno centrality to mechanism-agnostic framing; defined modulation vs. causation distinction rigorously
+- **Published**: yes
+
 ## 2026-03-20 00:45 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/multi-mind-collapse-problem.md, topics/epistemic-advantages-of-dualism.md

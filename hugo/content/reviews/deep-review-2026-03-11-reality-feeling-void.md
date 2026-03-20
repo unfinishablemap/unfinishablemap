@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-11
-**Article**: [The Reality-Feeling Void](/voids/reality-feeling-void/)
+**Article**: [The Reality-Feeling Void](/voids/phenomenal-presence-void/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

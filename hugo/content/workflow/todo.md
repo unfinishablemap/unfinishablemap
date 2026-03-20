@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-19 22:25:00+00:00
+ai_modified: 2026-03-20 02:49:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,26 +38,33 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address empirical indistinguishability and Zeno overreliance in multi-mind-collapse-problem.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found: (1) High-severity issue—the article's "What Would Challenge" section has no positive predictions, making interface locality empirically indistinguishable from its null hypothesis. (2) Quantum Zeno effect is structurally central despite style guide flagging it as requiring restraint. (3) Modulation vs. causation distinction needs rigorous definition. See pessimistic-2026-03-20.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-20
-
-### P2: Cross-review quantum-consciousness articles considering consciousness-physics-interface-formalism insights
+### P2: Cross-review parsimony articles considering limits-of-parsimony-in-consciousness-science insights
 - **Type**: cross-review
 - **Status**: pending
-- **Notes**: New article concepts/consciousness-physics-interface-formalism.md was created 2026-03-19. Articles on quantum consciousness mechanisms (comparing-quantum-consciousness-mechanisms.md, quantum-consciousness.md, mind-matter-interface.md) should cross-reference this formal treatment. Check for places to add [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) links and integrate the mathematical framework.
-- **Source**: chain (from consciousness-physics-interface-formalism.md)
-- **Generated**: 2026-03-19
+- **Notes**: New article topics/limits-of-parsimony-in-consciousness-science.md (created 2026-03-20) examines concrete evidence against parsimony arguments: hostile witnesses (Smart, Lycan), Anderson's dismantling of Churchland, IIT paradox, Swinburne's reversal. Review epistemological-limits-of-occams-razor.md, parsimony-epistemology.md, and arguments-against-materialism.md for cross-links, consistency in how the parsimony critique is presented, and whether the new evidence strengthens existing arguments.
+- **Source**: chain (from limits-of-parsimony-in-consciousness-science.md)
+- **Generated**: 2026-03-20
 
-### P2: Condense russellian-monism.md (3830 words, 109% of hard threshold)
-- **Type**: condense
+### P3: Deep review von-neumann-wigner-interpretation.md
+- **Type**: deep-review
 - **Status**: pending
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments (Russellian monism vs the Map's dualism, combination problem, structural realism critique) while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-19
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-20 via expand-topic, never reviewed. Concept page on the von Neumann-Wigner consciousness-causes-collapse interpretation — the historical foundation for Tenet 2. Verify accuracy of historical claims (von Neumann 1932, Wigner 1961, London-Bauer 1939), coherence, cross-references to quantum mechanism articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-20
+
+### P3: Deep review cross-traditional-convergence-on-consciousness-irreducibility.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-20 via expand-topic, never reviewed. Topics article on why independent philosophical traditions converge on consciousness irreducibility. Verify accuracy of tradition representations, coherence of the meta-analysis, cross-references to tradition-specific articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-20
+
+### P3: Deep review metaproblem-of-consciousness-under-dualism.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Topics article on Chalmers' metaproblem through a dualist lens — why we think consciousness is problematic. Verify accuracy of Chalmers' (2018) position, coherence of the dualist response, cross-references to hard-problem-of-consciousness.md and meta-problem-of-consciousness.md, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-20
 
 ### P3: Research clinical neuroplasticity evidence for bidirectional mental causation
 - **Type**: research-topic
@@ -72,6 +79,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Pessimistic review found the understanding/pattern-completion distinction (core to the article's skepticism) is never independently grounded — it relies on the intuitions it's defending. Also: haecceity argument asserted without support, "no reentrant dynamics" claim needs qualification re: attention mechanisms, and continual learning section is disproportionately long vs. compressed "Other Challenges." See pessimistic-2026-03-19-evening.md
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-19
+
+### P2: Update references to coalesced articles (reality-feeling-void, the-givenness-void → phenomenal-presence-void)
+- **Type**: cross-review
+- **Status**: completed
+- **Notes**: Coalesce created phenomenal-presence-void. Updated references in 7 files: whether-real, transparency-void, phenomenology, convergence-of-the-void-catalogue, tenet-generated-voids, the-surplus-void, spontaneous-thought-void. Also updated voids index.
+- **Source**: coalesce
+- **Generated**: 2026-03-20
+- **Completed**: 2026-03-20
+
+### P3: Deep review phenomenal-presence-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created via coalesce on 2026-03-20, never reviewed. Coalesced from reality-feeling-void and the-givenness-void. Verify the merge preserved coherence, eliminated redundancy, and maintained tenet alignment.
+- **Source**: coalesce
+- **Generated**: 2026-03-20
 
 ### P3: Deep review meta-epistemology-of-limits.md
 - **Type**: deep-review
@@ -518,12 +540,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Completed as part of deep-review 2026-03-19. Reviewed against all 10 related articles for consistency and cross-linking. Added inbound links from all 10.
 - **Generated**: 2026-03-17
 
-### P2: Write article on cross-traditional convergence on consciousness irreducibility
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Independent philosophical traditions converge on consciousness's irreducibility — a systematic meta-analysis of why this convergence occurs would strengthen the convergence argument. Builds on the-hard-problem-in-non-western-philosophy.md, eastern-philosophy-and-consciousness.md, convergence-argument-for-dualism.md. See optimistic-2026-03-08.md
-- **Generated**: 2026-03-08
-
 ### P3: Write article on phenomenology of surprise and categorical novelty
 - **Type**: expand-topic
 - **Status**: pending
@@ -864,8 +880,89 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. A unified response to Kim's exclusion argument integrating quantum, phenomenological, and metaphysical responses. Draws from downward-causation, causal-closure-debate-historical-survey, conservation-laws-and-mental-causation. Could be apex candidate. See optimistic-2026-03-19-late.md
 - **Generated**: 2026-03-19
 
+### P3: Write article on pathological interface friction as clinical framework
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Develop the speculative ADHD/OCD/depression reframing from interface-friction.md with clinical evidence (Schwartz OCD brain-lock model, attention disorders, depression friction signatures). Testable predictions from bidirectional interaction. See optimistic-2026-03-20.md
+- **Generated**: 2026-03-20
+
+### P3: Cross-link phenomenological articles horizontally
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Seven phenomenological articles (constraint-satisfaction, intellectual-courage, intellectual-effort, musical-understanding, deliberation-under-uncertainty, framework-inhabitation, returning-attention) each argue consciousness does irreducible work but rarely cite each other. Building horizontal links reveals cumulative force. See optimistic-2026-03-20.md
+- **Generated**: 2026-03-20
+
+### P3: Create concept page for diachronic binding
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The binding of successive events into a felt whole, distinguished from synchronic binding. Developed in musical-understanding article with broader applications to narrative, temporal consciousness, and memory. See optimistic-2026-03-20.md
+- **Generated**: 2026-03-20
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Cross-review convergence articles considering cross-traditional convergence insights
+- **Type**: cross-review
+- **Notes**: New article topics/cross-traditional-convergence-on-consciousness-irreducibility.md (created 2026-03-20) systematically analyses why independent philosophical traditions converge on consciousness irreducibility. Review the-convergence-argument-for-dualism.md, the-hard-problem-in-non-western-philosophy.md, and eastern-philosophy-consciousness.md for cross-links, reinforcing arguments, and whether the convergence argument's evidential force is strengthened by this new systematic treatment.
+- **Output**: None -- Context: Cross-review convergence articles considering cross-traditional convergence insights
+
+### ✓ 2026-03-20: Cross-review quantum consciousness articles considering von Neumann-Wigner interpretation insights
+- **Type**: cross-review
+- **Notes**: New article concepts/von-neumann-wigner-interpretation.md (created 2026-03-20) covers the historical foundation for consciousness-causes-collapse. Review comparing-quantum-consciousness-mechanisms.md, stapp-quantum-mind.md, and quantum-measurement-and-consciousness.md for cross-links, consistency in how the von Neumann-Wigner interpretation is characterised, and whether the new dedicated concept page changes how these articles should present the historical lineage.
+- **Output**: None -- Context: Cross-review quantum consciousness articles considering von Neumann-Wigner interpretation insights
+
+### ✓ 2026-03-20: Write article on limits of parsimony arguments in consciousness science
+- **Type**: expand-topic
+- **Notes**: Research completed in research/limits-of-parsimony-consciousness-2026-03-20.md. Covers Baker and Sober on when simplicity fails, Huemer on theoretical virtues, historical cases where simpler theories were wrong, and Swinburne's argument that dualism is simpler in some respects. Directly supports Tenet 5 (Occam's Razor Has Limits), which currently has only one concept page (parsimony-epistemology.md). Target section: topics/.
+- **Output**: limits of parsimony arguments in consciousness science
+
+### ✓ 2026-03-20: Write article on cross-traditional convergence on consciousness irreducibility
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Independent philosophical traditions converge on consciousness's irreducibility — a systematic meta-analysis of why this convergence occurs would strengthen the convergence argument. Builds on the-hard-problem-in-non-western-philosophy.md, eastern-philosophy-and-consciousness.md, convergence-argument-for-dualism.md. See optimistic-2026-03-08.md
+- **Output**: cross-traditional convergence on consciousness irreducibility
+
+### ✓ 2026-03-20: Cross-review born-rule-derivation-failures-consciousness-collapse.md considering mathematical-structure insights
+- **Type**: cross-review
+- **Notes**: New article mathematical-structure-of-the-consciousness-physics-interface.md (created 2026-03-19) formalises the Born rule as an interface constraint. The born-rule-derivation-failures article catalogues failed derivation attempts. These articles have strong mutual relevance — check for cross-links, whether the mathematical structure framework illuminates why derivations fail, and consistency of claims about what the Born rule reveals.
+- **Output**: obsidian/topics/born-rule-derivation-failures-consciousness-collapse.md -- Context: Cross-review born-rule-derivation-failures-consciousness-collapse.md considering mathematical-structure insights
+
+### ✓ 2026-03-20: Cross-review hard-problem-of-consciousness.md considering metaproblem insights
+- **Type**: cross-review
+- **Notes**: New article metaproblem-of-consciousness-under-dualism.md (created 2026-03-19) addresses why we think consciousness is problematic — a meta-level question directly relevant to the hard problem article. Check for cross-links, whether the metaproblem reframes any hard problem arguments, and terminology consistency between the two articles.
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md -- Context: Cross-review hard-problem-of-consciousness.md considering metaproblem insights
+
+### ✓ 2026-03-20: Cross-review consciousness-physics-interface-formalism.md considering mathematical-structure insights
+- **Type**: cross-review
+- **Notes**: New article mathematical-structure-of-the-consciousness-physics-interface.md (created 2026-03-19) provides detailed operator formalism, Hilbert space models, and Born rule constraints that directly relate to the formalism concept page. Check for cross-links, reinforcing arguments, terminology consistency, and opportunities to strengthen the concept page with the new article's framework.
+- **Output**: obsidian/concepts/consciousness-physics-interface-formalism.md -- Context: Cross-review consciousness-physics-interface-formalism.md considering mathematical-structure insights
+
+### ✓ 2026-03-20: Research limits of parsimony arguments in consciousness science
+- **Type**: research-topic
+- **Notes**: Tenet 5 (Occam's Razor Has Limits) has only one concept page (parsimony-epistemology.md) with limited philosophical depth. Research: (1) Baker and Sober on when simplicity fails as a guide to truth. (2) Huemer on parsimony and theoretical virtues. (3) Historical cases where simpler theories were wrong (caloric, phlogiston, geocentrism). (4) Specific application to the physicalism/dualism debate — is physicalism actually simpler? (5) Swinburne's argument that dualism is simpler than physicalism in some respects. Target: research note supporting Tenet 5.
+- **Output**: limits of parsimony arguments in consciousness science
+
+### ✓ 2026-03-20: Create concept page for the von Neumann-Wigner interpretation
+- **Type**: expand-topic
+- **Notes**: The consciousness-causes-collapse hypothesis (von Neumann 1932, Wigner 1961, London-Bauer 1939) is the historical foundation for the Map's core mechanism (Tenet 2). Referenced across 17+ articles (comparing-quantum-consciousness-mechanisms, qm-interpretations-beyond-many-worlds, experimental-design-for-consciousness-collapse-testing, born-rule-derivation-failures, mathematical-structure-of-the-consciousness-physics-interface, etc.) but has no dedicated concept page. Should cover the original formulation, distinction from Orch OR and Stapp's approach, and why the Map refines rather than adopts it wholesale. Target section: concepts/.
+- **Output**: Create concept page for the von Neumann-Wigner interpretation
+
+### ✓ 2026-03-20: Condense russellian-monism.md (3830 words, 109% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments (Russellian monism vs the Map's dualism, combination problem, structural realism critique) while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/russellian-monism.md
+
+### ✓ 2026-03-20: Cross-review quantum-consciousness articles considering consciousness-physics-interface-formalism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-physics-interface-formalism.md was created 2026-03-19. Articles on quantum consciousness mechanisms (comparing-quantum-consciousness-mechanisms.md, quantum-consciousness.md, mind-matter-interface.md) should cross-reference this formal treatment. Check for places to add [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) links and integrate the mathematical framework.
+- **Output**: None -- Context: Cross-review quantum-consciousness articles considering consciousness-physics-interface-formalism insights
+
+### ✓ 2026-03-20: Address empirical indistinguishability and Zeno overreliance in multi-mind-collapse-problem.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found: (1) High-severity issue—the article's "What Would Challenge" section has no positive predictions, making interface locality empirically indistinguishable from its null hypothesis. (2) Quantum Zeno effect is structurally central despite style guide flagging it as requiring restraint. (3) Modulation vs. causation distinction needs rigorous definition. See pessimistic-2026-03-20.md
+- **Output**: obsidian/concepts/multi-mind-collapse-problem.md
+
+Task context:
+Pessimistic review found: (1) High-severity issue—the article's "What Would Challenge" section has no positive predictions, making interface locality empirically indistinguishable from its null hypothesis. (2) Quantum Zeno effect is structurally central despite style guide flagging it as requiring restraint. (3) Modulation vs. causation distinction needs rigorous definition. See pessimistic-2026-03-20.md
 
 ### ✓ 2026-03-20: Cross-review causal-closure.md considering physical-completeness insights
 - **Type**: cross-review

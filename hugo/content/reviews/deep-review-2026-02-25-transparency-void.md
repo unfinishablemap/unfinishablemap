@@ -50,13 +50,13 @@ topics: []
 - Reality-feeling void cross-reference in phenomenology section, showing the two mechanisms compound
 - Hoffman FBT theorem qualification for intellectual honesty
 - No Many Worlds tenet connection via indexicality of the reality-stamp
-- Added `[phenomenal-transparency](/concepts/phenomenal-transparency/)` and `[reality-feeling-void](/voids/reality-feeling-void/)` to Further Reading
+- Added `[phenomenal-transparency](/concepts/phenomenal-transparency/)` and `[reality-feeling-void](/voids/phenomenal-presence-void/)` to Further Reading
 - Added `[destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/)` to Further Reading
 - Updated related_articles to include new cross-links
 
 ### Cross-links Added
 - [phenomenal-transparency](/concepts/phenomenal-transparency/)
-- [reality-feeling-void](/voids/reality-feeling-void/)
+- [reality-feeling-void](/voids/phenomenal-presence-void/)
 - [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/)
 
 ## Word Count

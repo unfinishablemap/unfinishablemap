@@ -54,7 +54,7 @@ topics: []
 
 ### Cross-links Added
 - [involuntariness-void](/voids/involuntariness-void/)
-- [the-givenness-void](/voids/the-givenness-void/)
+- [the-givenness-void](/voids/phenomenal-presence-void/)
 
 ## Remaining Items
 

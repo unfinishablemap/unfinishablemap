@@ -53,7 +53,7 @@ None.
 - Added Gould & Lewontin (1979) to references
 
 ### Cross-links Added
-- [the-givenness-void](/voids/the-givenness-void/) — added to Relation to Site Perspective and Further Reading
+- [the-givenness-void](/voids/phenomenal-presence-void/) — added to Relation to Site Perspective and Further Reading
 
 ## Remaining Items
 None. All identified issues addressed.

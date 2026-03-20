@@ -137,8 +137,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [Altered States as Void Probes](/voids/altered-states-as-void-probes/) — Whether altered states reveal cognitive limits or simulate transcendence
 - [Consciousness and Attention Disorders](/voids/attention-disorders-and-consciousness/) — When consciousness's own instrument is disordered
 - [Introspective Opacity](/voids/introspective-opacity/) — Why we access mental contents but never the mechanisms that produce them
-- [The Reality-Feeling Void](/voids/reality-feeling-void/) — The mechanism that stamps experience with realness, visible only when it fails
-- [The Givenness Void](/voids/the-givenness-void/) — Why experience's immediate thereness resists examination
+- [The Phenomenal Presence Void](/voids/phenomenal-presence-void/) — Why experience's immediacy and felt realness hide their own mechanisms
 - [The Silence Void](/voids/the-silence-void/) — Whether cognitive silence accesses truths that reasoning cannot reach
 - [The Surplus Void](/voids/the-surplus-void/) — Why experience delivers richness far beyond survival requirements
 

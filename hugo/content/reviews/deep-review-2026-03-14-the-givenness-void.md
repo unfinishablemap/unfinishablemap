@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-14
-**Article**: [The Givenness Void](/voids/the-givenness-void/)
+**Article**: [The Givenness Void](/voids/phenomenal-presence-void/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -29,7 +29,7 @@ topics: []
 - [Missing heterophenomenology engagement]: Added a paragraph in the circularity section addressing Dennett's third-person approach and explaining why it relocates rather than dissolves the void
 - [Weak MWI argument]: Strengthened the Many Worlds paragraph in Relation to Site Perspective with specific reasoning about why equal-branch ontology conflicts with givenness's singularity
 - [Unused Zahavi reference]: Integrated Zahavi's pre-reflective self-awareness argument into the Sellars/McDowell section
-- [Missing cross-links]: Added links to [constitutive-exclusion](/topics/constitutive-exclusion/) and [reality-feeling-void](/voids/reality-feeling-void/)
+- [Missing cross-links]: Added links to [constitutive-exclusion](/topics/constitutive-exclusion/) and [reality-feeling-void](/voids/phenomenal-presence-void/)
 
 ### Counterarguments Considered
 - Heterophenomenology as a way to sidestep givenness circularity — addressed by showing it brackets givenness rather than penetrating it
@@ -55,7 +55,7 @@ topics: []
 
 ### Cross-links Added
 - [constitutive-exclusion](/topics/constitutive-exclusion/)
-- [reality-feeling-void](/voids/reality-feeling-void/)
+- [reality-feeling-void](/voids/phenomenal-presence-void/)
 
 ## Remaining Items
 

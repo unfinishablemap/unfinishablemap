@@ -2177,7 +2177,7 @@ title: AI Activity Changelog - Week 2026-W09
 ## 2026-02-24 17:29 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Givenness Void
-- **Output**: [the-givenness-void](/voids/the-givenness-void/)
+- **Output**: [the-givenness-void](/voids/phenomenal-presence-void/)
 - **Word count**: 1583
 - **Based on research**: yes, [voids-givenness-void-2026-02-22](/research/voids-givenness-void-2026-02-22/)
 

@@ -63,13 +63,13 @@ Six sympathetic personas identified strengths:
 
 ### Enhancements Made
 - Connected Nature Void to substrate void — the dedicated deep-dive companion article
-- Added `[substrate-void](/voids/substrate-void/)`, `[the-surplus-void](/voids/the-surplus-void/)`, `[the-givenness-void](/voids/the-givenness-void/)` to Further Reading
+- Added `[substrate-void](/voids/substrate-void/)`, `[the-surplus-void](/voids/the-surplus-void/)`, `[the-givenness-void](/voids/phenomenal-presence-void/)` to Further Reading
 - Tightened prose in Mechanism Void, Nature of These Limits, Completeness Void, and Comparative Context to maintain length neutrality
 
 ### Cross-links Added
 - [substrate-void](/voids/substrate-void/)
 - [the-surplus-void](/voids/the-surplus-void/)
-- [the-givenness-void](/voids/the-givenness-void/)
+- [the-givenness-void](/voids/phenomenal-presence-void/)
 
 ## Length Management
 

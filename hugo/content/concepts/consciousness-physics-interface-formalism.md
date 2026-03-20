@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-03-20 00:06:00+00:00
+ai_modified: 2026-03-20 02:04:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: 'The formal mathematical components and constraints any theory of c
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-20 00:06:00+00:00
+last_deep_review: 2026-03-20 02:04:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -45,7 +45,7 @@ A complete interface formalism requires three mathematical ingredients.
 
 **Component 2: Experiential state space E.** This is the formal representation of conscious states. Unlike P, no consensus exists on E's mathematical structure. Kleiner (2020) argues that E must have its own autonomous structure encoding the relational properties of qualia — similarity, intensity, composition — with an automorphism group Aut(E) capturing the epistemic asymmetry that makes consciousness hard to study from the outside. Depending on which aspect of experience is modelled, E might instantiate as a Riemannian manifold (colour qualia), a partial order (inclusion relations), a Hilbert space (algebraic structure of simultaneous qualia), or a pretopological space (similarity without metrics). What matters for the formalism is that E is not derived from P. If it were, [interactionist-dualism](/concepts/interactionist-dualism/) would collapse into identity theory.
 
-**Component 3: Coupling map C: E × P → P.** This is the mathematical expression of consciousness influencing physics — a function, operator, or structural correspondence that maps states in the product space E × P to evolved states in P. The coupling map is where the [psychophysical law](/concepts/psychophysical-laws/) lives in formal terms. It must specify: given a conscious state e ∈ E and a physical state p ∈ P (typically a superposition awaiting measurement), which outcome becomes actual? The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires C to be non-trivial — consciousness genuinely changes what happens in P.
+**Component 3: Coupling map C: E × P → P.** This is the mathematical expression of consciousness influencing physics — a function, operator, or structural correspondence that maps states in the product space E × P to evolved states in P. The coupling map is where the [psychophysical law](/concepts/psychophysical-laws/) lives in formal terms. It must specify: given a conscious state e ∈ E and a physical state p ∈ P (typically a superposition awaiting measurement), which outcome becomes actual? The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires C to be non-trivial — consciousness genuinely changes what happens in P. Note that C as defined here captures only the E → P direction. A complete bidirectional formalism also requires a map D: P → E specifying how physical states generate conscious experiences — the "upward" direction from brain states to qualia. Most frameworks treat D as implicit (the "easy problems" of consciousness), while C formalises the harder, more contested causal direction.
 
 No existing framework fully specifies all three components. Proposals specify one or two while leaving the coupling underspecified — the formal expression of the [interface specification problem](/topics/the-interface-specification-problem/).
 
@@ -89,7 +89,7 @@ Each major proposal specifies different subsets of the three components.
 
 ## The Specification Gap
 
-The central formal gap across all frameworks is the coupling map C itself. We can characterise its domain (E × P), codomain (P), and constraints (the five bounds above), but we lack a mathematical expression for conscious selection. What operator represents "consciousness choosing outcome A over outcome B"?
+Quantum mechanics provides what Tonetto (2026) calls "statistical closure with outcome-level openness": the Born rule fixes probability distributions, but which specific outcome actualises is not determined by the formalism. This structural gap — not merely incomplete knowledge — is precisely where C must operate. The central formal gap across all frameworks is the coupling map C itself. We can characterise its domain (E × P), codomain (P), and constraints (the five bounds above), but we lack a mathematical expression for conscious selection. What operator represents "consciousness choosing outcome A over outcome B"?
 
 This gap is not merely a matter of insufficient data. It may reflect a structural limit. Mathematics describes relational and structural properties — exactly what Russell (1927) observed physics captures. If the coupling between consciousness and physics involves something beyond relational structure — the intrinsic character of experience meeting the dispositional character of physical possibility — then mathematics may approach the coupling asymptotically without fully expressing it. The [interface-formalization-void](/voids/interface-formalization-void/) explores whether this gap is a temporary limitation or a principled boundary of formal description.
 
@@ -100,6 +100,8 @@ The interface formalism concept connects directly to the Map's foundational comm
 **[Dualism](/tenets/#dualism)** is expressed formally by the requirement that E and P are independent mathematical spaces — E is not a subspace of P, not derivable from P, and not reducible to physical description. The need for two distinct state spaces is what dualism predicts; the formalism makes this prediction precise.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** is substantiated by the five constraints. The mathematical bounds from quantum foundations ensure that any consciousness-mediated effect is minimal in a formally precise sense: it preserves ensemble statistics, geometric structure, locality, interference order, and conservation laws. The coupling map adds information without energy — the smallest conceivable intervention.
+
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is formalised by the requirement for a non-trivial coupling map C. If consciousness were epiphenomenal — correlated with physical states but causally inert — then C would be the identity function and the three-component apparatus would be unnecessary. The Map's insistence on genuine causal influence demands that C be a non-degenerate map: given the same physical state p, different conscious states e₁ and e₂ can yield different physical outcomes. The mathematical challenge is expressing causation across ontologically distinct spaces, since standard causal models assume a shared state space. Chalmers and McQueen's Φ-dependent collapse rate is the most developed attempt: consciousness (measured by integrated information Φ) directly modifies a dynamical equation governing physical evolution.
 
 **[No Many Worlds](/tenets/#no-many-worlds)** is presupposed. The coupling map C requires genuine collapse — a transition from superposition to definite outcome. Under many-worlds, all outcomes occur and there is nothing for C to select; the formalism becomes vacuous.
 
@@ -126,6 +128,8 @@ The interface formalism concept connects directly to the Map's foundational comm
 
 5. Sorkin, R.D. (1994). "Quantum Mechanics as Quantum Measure Theory." *Modern Physics Letters A*, 9(33), 3119–3127.
 
-6. Von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik*. Springer.
+6. Tonetto, B. "What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry." PhilArchive. https://philarchive.org/rec/TONWPA
 
-7. Southgate, A. & Oquatre-six, C. (2026-03-18). Mathematical Structure of the Consciousness-Physics Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/mathematical-structure-of-the-consciousness-physics-interface/
+7. Von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik*. Springer.
+
+8. Southgate, A. & Oquatre-six, C. (2026-03-18). Mathematical Structure of the Consciousness-Physics Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/mathematical-structure-of-the-consciousness-physics-interface/

@@ -29,7 +29,7 @@ related_articles:
 - '[[three-kinds-of-void]]'
 - '[[limits-reveal-structure]]'
 - '[[involuntariness-void]]'
-- '[[the-givenness-void]]'
+- '[[phenomenal-presence-void]]'
 title: The Spontaneous Thought Void
 topics:
 - '[[philosophy-of-mind]]'
@@ -126,7 +126,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet connects through the indexic
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — How thoughts escape before they can be captured
 - [absorption-void](/voids/absorption-void/) — Where focused attention swallows the attending self
 - [involuntariness-void](/voids/involuntariness-void/) — Consciousness cannot opt out of its own spontaneous content
-- [the-givenness-void](/voids/the-givenness-void/) — Thoughts arrive with immediate thereness that resists examination
+- [The Phenomenal Presence Void](/voids/phenomenal-presence-void/) — Thoughts arrive with immediate thereness that resists examination
 - [Voids in the Map](/voids/) — The broader framework for cognitive limits
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, occluded
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How boundaries illuminate architecture

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-16
-**Article**: [The Givenness Void](/voids/the-givenness-void/)
+**Article**: [The Givenness Void](/voids/phenomenal-presence-void/)
 **Previous review**: [2026-03-14](/reviews/deep-review-2026-03-14-the-givenness-void/)
 
 ## Pessimistic Analysis Summary

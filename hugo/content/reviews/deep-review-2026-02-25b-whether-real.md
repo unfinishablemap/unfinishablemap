@@ -72,7 +72,7 @@ topics: []
 4. **Six length-neutral trims** offsetting additions
 
 ### Cross-links Added
-- [reality-feeling-void](/voids/reality-feeling-void/) — new to related_articles, body text, and Further Reading
+- [reality-feeling-void](/voids/phenomenal-presence-void/) — new to related_articles, body text, and Further Reading
 
 ### Length Management
 Article was at 2997 words (150% of soft threshold). Operated in length-neutral mode:
