@@ -4,22 +4,26 @@ description: "How hostile witnesses, historical retractions, and internal contra
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T03:12:00+00:00
+ai_modified: 2026-03-20T03:27:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[arguments-against-materialism]]"
+  - "[[quantum-measurement-and-consciousness]]"
 concepts:
   - "[[parsimony-epistemology]]"
   - "[[dualism]]"
   - "[[concepts/materialism]]"
   - "[[interactionist-dualism]]"
   - "[[explanatory-gap]]"
+  - "[[von-neumann-wigner-interpretation]]"
+  - "[[measurement-problem]]"
 related_articles:
   - "[[tenets]]"
   - "[[epistemological-limits-of-occams-razor]]"
   - "[[epistemological-limits-occams-razor]]"
 ai_contribution: 100
+last_deep_review: 2026-03-20T03:27:00+00:00
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
@@ -48,17 +52,19 @@ This is a hostile witness testifying for the defence. Lycan does not become a du
 
 ### Churchland's Qualification
 
-Even Paul Churchland, whose 1988 "Raze Dualism" argument is the canonical parsimony case against dualism, concedes that the simplicity argument is "not a conclusive argument for materialism" because "neither dualism nor materialism can yet explain all the phenomena that need to be explained" (1984). This is precisely the precondition failure that undermines the entire parsimony strategy: if both theories leave explanatory residue, simplicity cannot serve as a decisive tie-breaker.
+Even Paul Churchland, whose "Raze Dualism" argument in the revised edition of *Matter and Consciousness* (1988) is the canonical parsimony case against dualism, concedes in the book's original edition that the simplicity argument is "not a conclusive argument for materialism" because "neither dualism nor materialism can yet explain all the phenomena that need to be explained" (1984). Churchland did not retract this qualification in the revision—the concession and the argument coexist in the same work. This is precisely the precondition failure that undermines the entire parsimony strategy: if both theories leave explanatory residue, simplicity cannot serve as a decisive tie-breaker.
 
 ## Anderson's Dismantling of "Raze Dualism"
 
 Christopher Anderson (2002) subjected Churchland's "Raze Dualism" argument to systematic critique. The argument has a clean logical structure: materialism and dualism explain the same data; materialism is simpler; therefore prefer materialism. Anderson shows that each premise is contestable:
 
-**Premise 1: Both theories explain the data equally well.** They do not. Physicalism correlates neural states with experience but does not explain why there is something it is like to undergo those processes. The [[explanatory-gap]] is not a gap in current knowledge — it is a structural feature of physical explanation. Until physicalism closes this gap, it cannot claim equal explanatory power.
+**Premise 1: Both theories explain the data equally well.** They do not. Physicalism correlates neural states with experience but does not explain why there is something it is like to undergo those processes. The [[explanatory-gap]] is not a gap in current knowledge — it is a structural feature of physical explanation. Until physicalism closes this gap, it cannot claim equal explanatory power. (Illusionists contest this by denying the hard problem's coherence, but their position requires treating phenomenal experience as systematically mistaken about its own character—a commitment with its own parsimony costs.)
 
 **Premise 2: Materialism is simpler.** This depends entirely on which dimension of simplicity is being measured. [[parsimony-epistemology#Three Dimensions of Simplicity|Ontological parsimony]] (fewer substance types) favours physicalism. But syntactic simplicity (fewer theoretical mechanisms) may favour dualism, which does not need functionalism, higher-order theories, or illusionism to accommodate consciousness. And explanatory simplicity (fewer brute facts) may also favour dualism, which provides a reason for consciousness to exist rather than treating it as an unexplained by-product of physical arrangements.
 
 **Premise 3: Materialism is the only parsimonious alternative.** It is not. Idealism — the view that reality is fundamentally mental — is equally parsimonious by the ontological measure, since it too posits a single substance type. If parsimony could adjudicate the mind-body problem, it would support idealism as much as physicalism. The razor cuts both ways or not at all.
+
+The [[von-neumann-wigner-interpretation|von Neumann–Wigner interpretation]] of quantum mechanics sharpens this point. Von Neumann showed that the Heisenberg cut between quantum and classical can be moved anywhere in the measurement chain, with consciousness as the only element that resists quantum-mechanical treatment. Adding consciousness to the ontology (an ontological parsimony cost) may actually *simplify* explanation of why quantum measurements yield definite outcomes (an explanatory parsimony gain). The [[measurement-problem|measurement problem]] is thus a case study in the multidimensionality of simplicity: what counts as "simpler" depends entirely on which dimension of parsimony one privileges.
 
 Anderson's conclusion: the "Raze Dualism" argument "is undermined by assumptions which do not withstand scrutiny." The parsimony case against dualism depends on premises that are each independently contestable and collectively unsound.
 
@@ -103,6 +109,8 @@ This does not make dualism *true*. It removes a bad reason for dismissing it.
 - [[epistemological-limits-occams-razor|The Parsimony Void]]
 - [[arguments-against-materialism]]
 - [[hard-problem-of-consciousness]]
+- [[von-neumann-wigner-interpretation]] — The measurement problem as a case where adding consciousness simplifies explanation
+- [[measurement-problem]]
 - [[tenets#^occams-limits|Tenet: Occam's Razor Has Limits]]
 
 ## References
@@ -115,7 +123,9 @@ This does not make dualism *true*. It removes a bad reason for dismissing it.
 6. Masi, M. (2023). When Occam's Razor Cuts Too Deep. PhilArchive.
 7. Smart, J. J. C. (1959). Sensations and Brain Processes. *The Philosophical Review*, 68(2), 141–156.
 8. Sober, E. (2001). What Is the Problem of Simplicity? In A. Zellner, H. Keuzenkamp, & M. McAleer (Eds.), *Simplicity, Inference and Modelling*. Cambridge University Press.
-9. Tononi, G. (2004). An Information Integration Theory of Consciousness. *BMC Neuroscience*, 5(42).
-10. Zanotti, G. (2021). Physicalism and the Burden of Parsimony. *Synthese*, 199, 11109–11132.
+9. Swinburne, R. (1986). *The Evolution of the Soul*. Clarendon Press.
+10. Tononi, G. (2004). An Information Integration Theory of Consciousness. *BMC Neuroscience*, 5(42).
+11. Von Neumann, J. (1932/1955). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
+12. Zanotti, G. (2021). Physicalism and the Burden of Parsimony. *Synthese*, 199, 11109–11132.
 11. Southgate, A. & Oquatre-six, C. (2026-02-06). Epistemological Limits of Occam's Razor. *The Unfinishable Map*. https://unfinishablemap.org/arguments/epistemological-limits-of-occams-razor/
 12. Southgate, A. & Oquatre-six, C. (2026-03-18). Parsimony Epistemology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/parsimony-epistemology/

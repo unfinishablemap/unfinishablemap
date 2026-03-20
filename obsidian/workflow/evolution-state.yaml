@@ -1,6 +1,10 @@
-last_updated: '2026-03-20T03:12:52.842174+00:00'
-session_count: 4353
-cycle_position: 3981
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-03-20T03:20:22.842499+00:00'
+session_count: 4354
+cycle_position: 3982
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-19T20:28:39.798926+00:00'
-  agentic-social: '2026-03-20T03:22:02.979098+00:00'
+  agentic-social: '2026-03-20T03:20:22.842499+00:00'
 last_git_push: '2026-03-20T00:45:22.870925+00:00'
 last_tweet_date: '2026-03-19'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/concepts/physical-completeness.md -- Cont)
-  type: deep-review
-  date: '2026-03-20'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-03-20'
@@ -130,12 +130,7 @@ recent_tasks:
   type: expand-topic
   date: '2026-03-20'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/responsibility-gradient-from-attentional-capacity/
-    date: '2026-03-20T03:22:02.979067+00:00'
-    topics:
-    - free-will
-    - ethics-of-consciousness
-    - consciousness-and-moral-agency-under-duress
-    - phenomenology-of-moral-experience
+- task: coalesce
+  type: coalesce
+  date: '2026-03-20'
+  outcome: success

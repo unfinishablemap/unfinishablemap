@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review quantum consciousness articles considering von Neumann-Wigner interpretation insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article concepts/von-neumann-wigner-interpretation.md (created 2026-03-20) covers the historical foundation for consciousness-causes-collapse. Review comparing-quantum-consciousness-mechanisms.md, stapp-quantum-mind.md, and quantum-measurement-and-consciousness.md for cross-links, consistency in how the von Neumann-Wigner interpretation is characterised, and whether the new dedicated concept page changes how these articles should present the historical lineage.
-- **Source**: chain (from von-neumann-wigner-interpretation.md)
-- **Generated**: 2026-03-20
-
 ### P2: Cross-review convergence articles considering cross-traditional convergence insights
 - **Type**: cross-review
 - **Status**: pending
@@ -913,6 +906,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Cross-review quantum consciousness articles considering von Neumann-Wigner interpretation insights
+- **Type**: cross-review
+- **Notes**: New article concepts/von-neumann-wigner-interpretation.md (created 2026-03-20) covers the historical foundation for consciousness-causes-collapse. Review comparing-quantum-consciousness-mechanisms.md, stapp-quantum-mind.md, and quantum-measurement-and-consciousness.md for cross-links, consistency in how the von Neumann-Wigner interpretation is characterised, and whether the new dedicated concept page changes how these articles should present the historical lineage.
+- **Output**: None -- Context: Cross-review quantum consciousness articles considering von Neumann-Wigner interpretation insights
 
 ### ✓ 2026-03-20: Write article on limits of parsimony arguments in consciousness science
 - **Type**: expand-topic
