@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review interface-specification-programme.md (apex)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated apex article (ai_contribution: 100) never reviewed. Apex articles are high-value synthesis pieces representing the Map's most integrated arguments. Verify coherence, accuracy of referenced research, cross-references to supporting articles, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-20
-
 ### P3: Deep review mutation-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -995,6 +988,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Deep review interface-specification-programme.md (apex)
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution: 100) never reviewed. Apex articles are high-value synthesis pieces representing the Map's most integrated arguments. Verify coherence, accuracy of referenced research, cross-references to supporting articles, and tenet alignment.
+- **Output**: obsidian/apex/interface-specification-programme.md
 
 ### ✓ 2026-03-20: Integrate phenomenology-of-volitional-control.md into site navigation
 - **Type**: integrate-orphan

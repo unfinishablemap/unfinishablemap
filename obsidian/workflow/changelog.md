@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 12:30 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/interface-specification-programme]]
+- **Word count**: 2654 → 2818 (+164)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 6 (missing description, overclaimed convergence independence, missing clinical caveat, missing cross-links, thin related apex section, missing last_deep_review)
+- **Enhancements made**: 4 cross-links added, convergence claim qualified, clinical honesty caveat added
+- **Output**: [[reviews/deep-review-2026-03-20-interface-specification-programme]]
+
 ## 2026-03-20 12:20 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 446 non-draft articles (229 topics, 216 concepts, 1 tenets) with focus on mechanistic-phenomenological cluster (motor control, volitional control, agency, causal powers, metaproblem, von Neumann-Wigner, epiphenomenalist threat)

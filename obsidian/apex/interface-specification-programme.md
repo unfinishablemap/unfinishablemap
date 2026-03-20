@@ -3,7 +3,7 @@ title: "The Interface Specification Programme"
 created: 2026-03-15
 modified: 2026-03-15
 human_modified: null
-ai_modified: 2026-03-15T18:09:00+00:00
+ai_modified: 2026-03-20T12:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,15 +15,19 @@ concepts:
   - "[[psychophysical-laws]]"
   - "[[causal-closure]]"
   - "[[concepts/consciousness-selecting-neural-patterns]]"
+description: "Six converging lines of inquiry—bandwidth, control operations, causal delegation, causal powers, the psychophysical control law, and attention disorders—specify the mind-matter interface as a research programme."
 related_articles:
   - "[[tenets]]"
   - "[[apex-articles]]"
+  - "[[the-interface-specification-problem]]"
+  - "[[mathematical-structure-of-the-consciousness-physics-interface]]"
 
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-15
 last_curated: null
+last_deep_review: 2026-03-20T12:30:00+00:00
 
 apex_sources:
   - topics/the-psychophysical-control-law
@@ -102,11 +106,11 @@ If the interface has a specific architecture, it should malfunction in specific 
 
 **Meditation as interface training**: Beginning meditators discover that voluntary attention control is weak by default. With practice, sustained attention duration increases, meta-awareness improves, recovery from distraction accelerates, and effort requirements decrease. The interface becomes more efficient—not wider, but better governed.
 
-The pattern across these conditions is consistent: consciousness persists when the interface is impaired; what breaks is control, not experience. This distinction between consciousness and its interface is precisely what the Map's dualism predicts and what physicalist identity theories cannot straightforwardly accommodate.
+The pattern across these conditions is consistent: consciousness persists when the interface is impaired; what breaks is control, not experience. This distinction between consciousness and its interface is precisely what the Map's dualism predicts and what physicalist identity theories cannot straightforwardly accommodate. An honest caveat: each of these clinical findings is individually compatible with purely computational accounts of attention. What the interface model adds is a unified framework that predicts *which* components should dissociate and *why* consciousness should survive their impairment—predictions that physicalist identity theories must explain away rather than derive.
 
 ## The Specification Gap
 
-Intellectual honesty requires marking where the programme remains incomplete. The psychophysical control law—the formal mapping from phenomenal states to physical selection outputs—has not been specified. [[the-psychophysical-control-law]] examines what such a law would need to look like and why specifying one is so difficult.
+Intellectual honesty requires marking where the programme remains incomplete. The psychophysical control law—the formal mapping from phenomenal states to physical selection outputs—has not been specified. This is the [[the-interface-specification-problem|interface specification problem]] in its sharpest form. [[the-psychophysical-control-law]] examines what such a law would need to look like and why specifying one is so difficult.
 
 The gap has three sources. *Scientific immaturity*: physics took two millennia from Aristotle to Newton before arriving at F=ma, and Newton had the advantage of dealing with quantities that already admitted measurement. Consciousness science has not yet had its Galileo. *Conceptual asymmetry*: physical variables have defined units and intersubjective verification; phenomenal variables—how much attention, how intense the effort—have none of these. *The T-shirt problem*: good fundamental laws are simple (F=ma, E=mc²), but the psychophysical mapping might reflect evolutionary contingency rather than fundamental simplicity, resisting compression into an elegant formula.
 
@@ -116,7 +120,7 @@ The gap is real but not damning. Any psychophysical control law must satisfy fiv
 
 ## Synthesis: Why This Is a Programme
 
-The six source articles were written independently, addressing different philosophical questions. Yet they converge on a single picture:
+The six source articles were developed to address different philosophical questions—bandwidth, causal structure, control operations, the nature of causal powers, formal specification, and clinical evidence. They share the Map's tenets as constraints, so the convergence is not between genuinely independent research programmes. But the convergence is nonetheless informative: articles addressing *different* questions (how much information? what causal structure? what operations?) arrive at *mutually consistent* answers that together specify a single architecture:
 
 - An interface that carries ~10 bits/second of conscious selection
 - Operating through five control operations (gating, stabilisation, veto, attractor steering, resource allocation)
@@ -146,6 +150,8 @@ The interface specification programme serves all five tenets simultaneously.
 ## Related Apex Articles
 
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Empirical mapping of the interface through natural and pharmacological perturbation: a complementary approach to the control-theoretic specification developed here
+- [[attention-as-causal-bridge|Attention as the Causal Bridge]] — How attention implements the interface's selection channel, with detailed treatment of bandwidth constraints and quantum biasing
+- [[phenomenology-of-consciousness-doing-work|The Phenomenology of Consciousness Doing Work]] — What the interface *feels like* in operation: the felt texture of effort, selection, and holding as evidence for genuine mental causation
 
 ## Source Articles
 
