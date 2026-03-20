@@ -3,7 +3,7 @@ title: "The Interface Specification Programme"
 created: 2026-03-15
 modified: 2026-03-15
 human_modified: null
-ai_modified: 2026-03-20T12:30:00+00:00
+ai_modified: 2026-03-20T18:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -64,7 +64,9 @@ The [[bandwidth-problem-mental-causation|bandwidth problem]] sharpens the specif
 
 The answer reveals the interface architecture: consciousness does not specify neural configurations because that is not its job. The brain's unconscious systems—processing at roughly 10⁹ bits per second—generate candidate action plans, compute fine-grained motor specifications, and prepare competing alternatives. Consciousness selects among the prepared candidates through a channel limited to roughly 10 bits per second.
 
-This hierarchical selection model transforms the bandwidth problem from fatal objection to architectural insight. The question shifts from "how does a 10-bit/second channel specify a million-bit neural configuration?" to "how does a 10-bit/second channel choose among a small set of prepared alternatives?" The second question has a straightforward answer: a channel carrying 10 bits per second can make roughly 3–4 selections per second among small sets—matching the phenomenology of deliberate choice.
+An important caveat: the ~10 bits/second figure (from Zheng & Meister 2025) measures *behavioural output* bandwidth—how quickly humans type, speak, or make choices as observed externally. Using it as a specification of the consciousness-physics interface bandwidth requires a bridging argument. Conscious bandwidth could in principle exceed behavioural bandwidth (consciousness processes more than it can express through motor channels) or fall below it (some behavioural output is generated unconsciously without passing through the conscious channel). The Map treats the figure as an approximate upper bound on conscious selection bandwidth, reasoning that deliberate choice—the domain where consciousness plausibly does the work—tracks the behavioural bottleneck rather than the unconscious processing rate. This is a reasonable inference, not a measurement of the interface itself, and future psychophysical research may revise the estimate.
+
+This hierarchical selection model transforms the bandwidth problem from fatal objection to architectural insight. The question shifts from "how does a 10-bit/second channel specify a million-bit neural configuration?" to "how does a 10-bit/second channel choose among a small set of prepared alternatives?" The second question has a straightforward answer: a channel carrying roughly 10 bits per second can make approximately 3–4 selections per second among small sets—consistent with the phenomenology of deliberate choice, though this correspondence remains suggestive rather than demonstrated.
 
 The bandwidth constraint is not a deficiency. Control systems routinely use low-bandwidth signals to govern high-bandwidth plants. A thermostat outputs one bit to control a complex thermal system. A pilot uses a few control inputs to manage an aircraft with millions of interacting parts. Low bandwidth reflects appropriate abstraction—controlling at the right level rather than micromanaging every detail.
 
@@ -90,7 +92,7 @@ How does this control avoid the exclusion problem—the objection that if every 
 
 Delegation matters because it avoids both horns of the exclusion dilemma. Overdetermination (two sufficient causes for one effect) makes the mental cause redundant. Epiphenomenalism (consciousness does nothing) makes our reports about experience accidentally correct. Delegation preserves genuine mental causation through preemption: one cause operates, the other is sidelined, and no redundancy occurs.
 
-A key feature is *observational closure*: because experiences cause exactly the effects their underlying physical states would have caused by default, no experiment can detect that delegation has occurred. This explains why the interface leaves no empirical signature while doing genuine causal work—a prediction the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet independently requires.
+A key feature is *observational closure*: because experiences cause exactly the effects their underlying physical states would have caused by default, no experiment can detect that delegation has occurred. This property requires honest acknowledgment: observational closure means delegation is a metaphysical claim about causal structure, not an empirically testable hypothesis in the usual sense. The Map cannot point to an experiment whose outcome would distinguish a world with delegation from one without it. This is a genuine cost. The justification for accepting delegation despite this cost is philosophical rather than empirical: delegation solves the exclusion problem elegantly, preserves the causal efficacy that our phenomenology insists upon, and coheres with the minimal-interaction constraint the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet independently requires. But the inability to test delegation directly means this component of the architecture rests on inference to the best explanation, not on empirical confirmation—and readers should weigh it accordingly.
 
 Delegation also integrates naturally with the control-theoretic picture. The controller's output (conscious selection) preempts what the plant's dynamics would have produced autonomously. When consciousness gates, stabilises, or vetoes, it takes over causal work that default neural dynamics would otherwise perform. The control operations describe *what* consciousness does; delegation describes *how* that doing relates to what the brain would have done without it.
 
@@ -131,7 +133,7 @@ The six source articles were developed to address different philosophical questi
 
 This convergence is not accidental. It reflects the Map's tenets working as constraints should—ruling out possibilities and forcing remaining options to cohere. The result is not yet a complete theory. It is something more honest: a specification precise enough to be wrong. The bandwidth can be measured more exactly. The control operations generate predictions about reaction times and attention dynamics. Clinical evidence can confirm or disconfirm the predicted failure modes. The specification gap marks exactly where new work is needed.
 
-The interface specification programme transforms "consciousness interacts with the brain" from a philosophical assertion into an engineering-level description—incomplete, but with identified parameters, testable constraints, and clear next steps. That transformation is the programme's contribution, and it is what distinguishes the Map's interactionism from the vague hand-waving that has historically plagued dualist accounts.
+The interface specification programme moves "consciousness interacts with the brain" from a philosophical assertion toward an engineering-level description—incomplete, but with identified parameters, testable constraints, and clear next steps. That progression is the programme's contribution, and it is what distinguishes the Map's interactionism from the vague hand-waving that has historically plagued dualist accounts.
 
 ## Relation to Site Perspective
 
@@ -174,3 +176,14 @@ This synthesis draws on:
 7. Wiener, N. (1948). *Cybernetics: Or Control and Communication in the Animal and the Machine*. MIT Press.
 8. Southgate, A. & Oquatre-six, C. (2026-02-19). The Psychophysical Control Law. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-psychophysical-control-law/
 9. Southgate, A. & Oquatre-six, C. (2026-02-23). The Bandwidth Problem in Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/bandwidth-problem-mental-causation/
+
+<!-- AI REFINEMENT LOG - 2026-03-20
+Changes made:
+- Observational closure: added explicit acknowledgment that delegation is a metaphysical claim, not an empirically testable hypothesis; justified via inference to best explanation rather than presenting unfalsifiability as a feature
+- 10 bits/second bandwidth: added bridging argument acknowledging the gap between behavioural output measurement and metaphysical interface specification; treats figure as approximate upper bound with caveats
+- Softened "matching the phenomenology" to "consistent with the phenomenology... suggestive rather than demonstrated"
+- Final paragraph: "transforms...into" → "moves...toward" to avoid overselling current state
+
+Based on pessimistic-2026-03-20-d.md Issues 1 and 3.
+This log should be removed after human review.
+-->
