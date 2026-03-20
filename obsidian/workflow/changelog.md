@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 09:05 UTC - refine-draft
+- **Status**: Success
+- **File**: [[anaesthesia-and-the-consciousness-interface]]
+- **Changes**: Added graded consciousness spectrum section (three-state taxonomy, isolated forearm technique, narrowing-filter vs dimming-generator argument, specific filter theory predictions); strengthened Relation to Site Perspective with filter theory framing; added 4 references
+- **Published**: yes
+
 ## 2026-03-20 08:59 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 18 apex articles, ~98 voids, and 10 underrepresented topics/concepts (African philosophy, existentialism, environmental ethics, creativity, contemplative evidence, language/recursion, AI consciousness modes, diachronic agency)

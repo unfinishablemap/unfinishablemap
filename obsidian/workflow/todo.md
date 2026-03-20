@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Refine anaesthesia-and-the-consciousness-interface.md with graded consciousness loss research
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. New evidence on graded consciousness loss under anesthesia — isolated forearm technique, ketamine dissociative anesthesia (consciousness persists while sensory processing is suppressed), propofol connectivity studies — strengthens the filter theory case. Incorporate graded loss evidence and filter theory predictions into existing article. Directly supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
-- **Source**: chain (from research/consciousness-anesthesia-filter-theory-2026-03-20.md)
-- **Generated**: 2026-03-20
-
 ### P2: Integrate phenomenology-of-perceptual-learning.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -998,6 +991,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Refine anaesthesia-and-the-consciousness-interface.md with graded consciousness loss research
+- **Type**: refine-draft
+- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. New evidence on graded consciousness loss under anesthesia — isolated forearm technique, ketamine dissociative anesthesia (consciousness persists while sensory processing is suppressed), propofol connectivity studies — strengthens the filter theory case. Incorporate graded loss evidence and filter theory predictions into existing article. Directly supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
+
+Task context:
+Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. New evidence on graded consciousness loss under anesthesia — isolated forearm technique, ketamine dissociative anesthesia (consciousness persists while sensory processing is suppressed), propofol connectivity studies — strengthens the filter theory case. Incorporate graded loss evidence and filter theory predictions into existing article. Directly supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
 
 ### ✓ 2026-03-20: Research consciousness during general anesthesia — graded loss and implications for filter theory
 - **Type**: research-topic
