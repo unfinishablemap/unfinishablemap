@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 00:06 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/consciousness-physics-interface-formalism]]
+- **Word count**: 1464 → 1604 (+140)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (orphan integration, missing tenet, bandwidth constraint, coupling-modes link)
+- **Enhancements made**: 10 cross-references added from related articles
+- **Output**: [[reviews/deep-review-2026-03-20-consciousness-physics-interface-formalism]]
+
 ## 2026-03-19 23:55 UTC - check-tenets
 - **Status**: Success
 - **Files checked**: 439 (226 topics, 213 concepts)

@@ -4,7 +4,7 @@ description: "The formal mathematical components and constraints any theory of c
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-19T23:25:00+00:00
+ai_modified: 2026-03-20T00:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-19
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-20T00:06:00+00:00
 ---
 
 Any theory claiming that consciousness interacts with physics must specify three formal components: a state space for consciousness, a state space for physics, and a mathematical coupling between them. The Unfinishable Map holds that this coupling is real and causal — not merely correlational — but that quantum foundations impose five non-negotiable constraints on its mathematical form. These constraints are not philosophical preferences; they follow from the structure of quantum mechanics itself. This article defines the formal components and bounds that any adequate interface formalism must satisfy.
@@ -70,13 +70,13 @@ Sorkin (1994) demonstrated that the Born rule implies the absence of third-order
 
 The coupling map must not inject energy, momentum, or any conserved quantity into the physical system. Selection among equiprobable quantum outcomes — biasing which of several equally likely results becomes actual — requires no energy transfer. This is the formal basis for the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: consciousness acts only where physics is genuinely underdetermined, adding information without adding energy.
 
-Together, these five constraints define what the [[mathematical-structure-of-the-consciousness-physics-interface|mathematical corridor]] article calls the narrow space through which any consciousness-physics interaction must pass.
+Together, these five constraints define what the [[mathematical-structure-of-the-consciousness-physics-interface|mathematical corridor]] article calls the narrow space through which any consciousness-physics interaction must pass. Beyond these formal bounds, empirical evidence adds a sixth practical constraint: the [[bandwidth-problem-mental-causation|~10 bits/second bandwidth]] of conscious processing limits how much information C can inject per unit time, making the coupling not only mathematically minimal but informationally sparse.
 
 ## How Existing Frameworks Instantiate the Formalism
 
 Each major proposal specifies different subsets of the three components.
 
-**Von Neumann-Stapp** takes P as standard Hilbert space, leaves E implicit (attention is the mental variable but has no independent formal structure), and models C as increased observation rate (the quantum Zeno effect). The coupling map is interpretational rather than mathematically specified — Process 1 is identified with conscious attention, but the transfer function from attention to observation rate has no derivation.
+**Von Neumann-Stapp** takes P as standard Hilbert space, leaves E implicit (attention is the mental variable but has no independent formal structure), and models C as increased observation rate (the quantum Zeno effect) — a form of [[coupling-modes|timing control]]. The coupling map is interpretational rather than mathematically specified — Process 1 is identified with conscious attention, but the transfer function from attention to observation rate has no derivation.
 
 **Chalmers-McQueen** specifies P as Hilbert space with CSL (continuous spontaneous localisation) dynamics, E through IIT's integrated information Φ, and C as a Φ-dependent collapse rate in a modified stochastic Schrödinger equation. This is the most mathematically complete proposal — it gives C an explicit functional form — though the bridge between IIT's information-theoretic E and quantum-mechanical P remains underspecified.
 
@@ -99,6 +99,8 @@ The interface formalism concept connects directly to the Map's foundational comm
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** is substantiated by the five constraints. The mathematical bounds from quantum foundations ensure that any consciousness-mediated effect is minimal in a formally precise sense: it preserves ensemble statistics, geometric structure, locality, interference order, and conservation laws. The coupling map adds information without energy — the smallest conceivable intervention.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** is presupposed. The coupling map C requires genuine collapse — a transition from superposition to definite outcome. Under many-worlds, all outcomes occur and there is nothing for C to select; the formalism becomes vacuous.
+
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** applies to the specification gap. The temptation is to eliminate E from the formalism — reducing to a single state space P with no coupling map needed. This is simpler, but it purchases parsimony by ignoring the explanandum. If consciousness is irreducible and causally efficacious, the three-component formalism is not optional complexity but necessary structure. The five constraints show that even granting the full apparatus, the resulting interaction is minimal — parsimony is preserved where it matters (empirical predictions) while honesty is maintained about what the theory requires (two domains, lawfully related).
 
 ## Further Reading
 

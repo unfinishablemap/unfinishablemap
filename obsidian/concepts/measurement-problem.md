@@ -57,7 +57,7 @@ The measurement problem is the central foundational puzzle in quantum mechanics�
 
 If collapse is real and its cause unspecified, consciousness remains a candidate selector. The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes exactly this: consciousness biases otherwise indeterminate quantum outcomes.
 
-**Honest limitation**: This framework predicts exactly what standard quantum mechanics predicts—consciousness-selection within Born probabilities is empirically indistinguishable from random collapse. This unfalsifiability is a genuine cost. The Map treats it as a philosophical framework compatible with physics rather than a competing physical hypothesis.
+**Honest limitation**: This framework predicts exactly what standard quantum mechanics predicts—consciousness-selection within Born probabilities is empirically indistinguishable from random collapse. This unfalsifiability is a genuine cost. The Map treats it as a philosophical framework compatible with physics rather than a competing physical hypothesis. The [[consciousness-physics-interface-formalism]] specifies the formal components and five mathematical constraints any such framework must satisfy.
 
 What would challenge this framework? Evidence that (1) quantum indeterminacy is apparent rather than real (superdeterminism), (2) consciousness demonstrably cannot influence neural quantum events even in principle, or (3) the hard problem dissolves under analysis.
 

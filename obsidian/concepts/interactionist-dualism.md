@@ -133,7 +133,7 @@ Quantum mechanics describes systems in superposition until measured. What causes
 
 **Orchestrated Objective Reduction (Orch OR)**: Penrose and Hameroff propose consciousness originates in quantum computations within microtubules, with collapse events constituting conscious experience itself.
 
-Both proposals share what the Map requires: consciousness biasing otherwise indeterminate outcomes without violating physical law. [[lucid-dreaming-and-dualist-rendering|Lucid dreaming]] provides phenomenological evidence for this kind of biasing — the dreamer's conscious intentions reshape neural activity in real time, with the degree of control varying in ways consistent with selection within physical constraints.
+Both proposals share what the Map requires: consciousness biasing otherwise indeterminate outcomes without violating physical law. The [[consciousness-physics-interface-formalism]] defines the formal requirements any such proposal must meet: an experiential state space, a physical state space, and a coupling map satisfying five constraints from quantum foundations (Born rule preservation, inner product invariance, no-signalling, second-order interference only, and conservation law compatibility). [[lucid-dreaming-and-dualist-rendering|Lucid dreaming]] provides phenomenological evidence for this kind of biasing — the dreamer's conscious intentions reshape neural activity in real time, with the degree of control varying in ways consistent with selection within physical constraints.
 
 ## Selection, Biasing, and Falsifiability
 
