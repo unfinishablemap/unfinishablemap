@@ -9,6 +9,12 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-20 08:14 UTC - refine-draft
+- **Status**: Success
+- **File**: [argument-from-reason](/topics/argument-from-reason/)
+- **Changes**: Reframed AI objection around normativity requiring phenomenal awareness (future-proofed against advancing AI); softened reliabilism dismissal to acknowledge it as strongest physicalist option while showing it defers the normativity problem
+- **Published**: yes
+
 ## 2026-03-20 08:09 UTC - refine-draft
 - **Status**: Success
 - **File**: [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)
