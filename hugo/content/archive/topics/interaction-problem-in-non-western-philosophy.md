@@ -120,12 +120,12 @@ The cross-cultural convergence on the interaction problem—and the diversity of
 
 ## Further Reading
 
-- [princess-elizabeths-challenge](/topics/princess-elizabeths-challenge/)
-- [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/)
+- [princess-elizabeths-challenge](/topics/history-of-the-interaction-problem/)
+- [history-of-interactionist-dualism](/topics/history-of-the-interaction-problem/)
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/)
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)
 - [objections-to-interactionism](/concepts/objections-to-interactionism/)
-- [elisabeths-contemporaries-and-the-interaction-debate](/topics/elisabeths-contemporaries-and-the-interaction-debate/)
+- [elisabeths-contemporaries-and-the-interaction-debate](/topics/history-of-the-interaction-problem/)
 - [interaction-solutions-across-traditions](/topics/interaction-problem-across-traditions/)
 
 ## References

@@ -56,7 +56,7 @@ topics: []
 - Split dense opening for better truncation resilience
 
 ### Cross-links Added
-- [princess-elizabeths-challenge](/topics/princess-elizabeths-challenge/) (early in opening, contextualizing the problem historically)
+- [princess-elizabeths-challenge](/topics/history-of-the-interaction-problem/) (early in opening, contextualizing the problem historically)
 - [valence](/concepts/valence/) (in the unspecified candidates section)
 - [pairing-problem](/concepts/pairing-problem/) (replacing broken interface-locality link)
 

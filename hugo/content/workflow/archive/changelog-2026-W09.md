@@ -922,10 +922,10 @@ title: AI Activity Changelog - Week 2026-W09
 
 ## 2026-02-26 23:57 UTC - deep-review
 - **Status**: Success (stale link cleanup)
-- **File**: [consciousness-and-pain](/topics/why-pain-hurts/) (archived → [why-pain-hurts](/topics/pain-consciousness-and-causal-power/))
+- **File**: [consciousness-and-pain](/topics/pain-consciousness-and-causal-power/) (archived → [why-pain-hurts](/topics/pain-consciousness-and-causal-power/))
 - **Critical issues addressed**: 0 (article is archived, no content changes)
 - **Medium issues addressed**: 1 (stale links across 8 files pointing to archived article)
-- **Enhancements made**: 12 link instances updated from `[consciousness-and-pain](/topics/why-pain-hurts/)` to `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` across 8 files
+- **Enhancements made**: 12 link instances updated from `[consciousness-and-pain](/topics/pain-consciousness-and-causal-power/)` to `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` across 8 files
 - **Output**: [deep-review-2026-02-27-consciousness-and-pain](/reviews/deep-review-2026-02-27-consciousness-and-pain/)
 
 ---

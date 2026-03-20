@@ -34,7 +34,7 @@ topics: []
 
 ### Medium Issues Found
 
-- **Missing cross-links**: Added [philosophical-zombies](/concepts/philosophical-zombies/), [explanatory-gap](/concepts/explanatory-gap/), [mysterianism](/concepts/mysterianism/), [princess-elizabeths-challenge](/topics/princess-elizabeths-challenge/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/), [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/).
+- **Missing cross-links**: Added [philosophical-zombies](/concepts/philosophical-zombies/), [explanatory-gap](/concepts/explanatory-gap/), [mysterianism](/concepts/mysterianism/), [princess-elizabeths-challenge](/topics/history-of-the-interaction-problem/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/), [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/).
 - **Confidence calibration**: Final sentence was too assertive. Softened to acknowledge interaction problem's own unresolved difficulties.
 - **Selective deployment of conceivability arguments**: Noted but not separately addressed — the article already uses conceivability against both physicalism and panpsychism; extending it against dualism would require a separate treatment.
 
@@ -80,7 +80,7 @@ topics: []
 - [philosophical-zombies](/concepts/philosophical-zombies/) (subject combination section)
 - [explanatory-gap](/concepts/explanatory-gap/) (subject combination section)
 - [mysterianism](/concepts/mysterianism/) (What the Problem Reveals + Further Reading)
-- [princess-elizabeths-challenge](/topics/princess-elizabeths-challenge/) (Relation to Site Perspective)
+- [princess-elizabeths-challenge](/topics/history-of-the-interaction-problem/) (Relation to Site Perspective)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) (Relation to Site Perspective)
 - [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/) (eliminating subjects section)
 - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) (Further Reading)

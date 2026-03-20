@@ -87,7 +87,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Valence Void](/voids/valence-void/) — Why experience has a built-in good/bad dimension
 - [The Normative Void](/voids/normative-void/) — Moral truths beyond human cognitive reach
 - [The Inaccessible Past](/voids/inaccessible-past/) — Why past conscious states cannot be re-entered, only reconstructed
-- [The Unobservable Self](/voids/self-reference-paradox/) — The subject that cannot be its own object
+- [The Unobservable Self](/voids/unobservable-self/) — The subject that cannot be its own object
 - [The Death Void](/voids/death-void/) — Consciousness cannot represent its own absence
 - [The Dreamless Sleep Void](/voids/sleep-consciousness-void/) — Where consciousness goes during deep sleep
 - [The Intentionality Void](/voids/intentionality-void/) — How thoughts achieve their aboutness, hidden from the consciousness it constitutes
@@ -164,6 +164,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 
 - [Evolved Cognitive Limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for shared limits
 - [Collective Cognitive Limits](/voids/collective-cognitive-limits/) — What groups cannot think
+- [The Social Epistemic Void](/voids/social-epistemic-void/) — How testimony and social calibration suppress phenomenal knowledge
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — Evolved versus engineered constraints
 - [Tenet-Generated Voids](/voids/tenet-generated-voids/) — Limits implied by the Map's commitments
 - [The Historical Consciousness Void](/voids/historical-consciousness-void/) — Whether consciousness itself has changed over historical time

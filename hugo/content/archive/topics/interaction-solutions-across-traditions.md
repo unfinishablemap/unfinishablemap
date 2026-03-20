@@ -124,11 +124,11 @@ The convergence across traditions on the selection insight—that mind shapes ou
 ## Further Reading
 
 - [interaction-problem-in-non-western-philosophy](/topics/interaction-problem-across-traditions/)
-- [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/)
-- [princess-elizabeths-challenge](/topics/princess-elizabeths-challenge/)
+- [history-of-interactionist-dualism](/topics/history-of-the-interaction-problem/)
+- [princess-elizabeths-challenge](/topics/history-of-the-interaction-problem/)
 - [objections-to-interactionism](/concepts/objections-to-interactionism/)
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)
-- [elisabeths-contemporaries-and-the-interaction-debate](/topics/elisabeths-contemporaries-and-the-interaction-debate/)
+- [elisabeths-contemporaries-and-the-interaction-debate](/topics/history-of-the-interaction-problem/)
 
 ## References
 

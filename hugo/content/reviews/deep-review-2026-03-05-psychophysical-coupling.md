@@ -55,7 +55,7 @@ None. The article is well-constructed with accurate attributions.
 - Added cross-references FROM other articles: the-epiphenomenalist-threat, princess-elizabeths-challenge, psychophysical-laws, bandwidth-problem-mental-causation
 
 ### Cross-links Added
-- [princess-elizabeths-challenge](/topics/princess-elizabeths-challenge/) (in article body + related_articles)
+- [princess-elizabeths-challenge](/topics/history-of-the-interaction-problem/) (in article body + related_articles)
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) (in article body + related_articles)
 - [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) (in article body + related_articles)
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/) (in related_articles)

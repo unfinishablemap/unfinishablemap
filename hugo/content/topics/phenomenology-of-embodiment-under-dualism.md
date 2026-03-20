@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-03-18 22:42:00+00:00
+ai_modified: 2026-03-20 09:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -79,7 +79,7 @@ Bodily absence also creates difficulties for identity theories. The standard ide
 
 ## Pain and the Phenomenological Argument
 
-Pain provides the sharpest phenomenological case for dualism. The [somatic interface](/concepts/somatic-interface/#nociception-and-pleasure) article documents the clinical evidence: pain asymbolia shows that nociceptive detection and the felt awfulness of pain dissociate. But the phenomenological argument goes beyond clinical dissociation.
+Pain provides the sharpest phenomenological case for dualism. The [somatic interface](/concepts/somatic-interface/#nociception-and-pleasure) article documents the clinical evidence: [pain asymbolia](/topics/pain-consciousness-and-causal-power/) shows that nociceptive detection and the felt awfulness of pain dissociate. But the phenomenological argument goes beyond clinical dissociation.
 
 Pain has a [qualitative character](/concepts/qualia/) that no functional description captures. Describing pain as "tissue-damage signalling that motivates avoidance behaviour" is accurate as far as it goes, but it omits everything that matters about pain from the inside. The *awfulness*—the felt quality that makes pain bad rather than merely informative—is not a function. It is a phenomenal property that accompanies the function without being entailed by it. A system could detect tissue damage and produce avoidance behaviour without anything hurting. That something does hurt—that there is a *what it is like* to be in pain—is precisely what the [hard problem](/topics/hard-problem-of-consciousness/) identifies as unexplained by physical mechanism.
 
@@ -111,6 +111,7 @@ The Map reads intercorporeality as suggestive of consciousness interfacing with 
 - [dualist-perception](/topics/dualist-perception/) — How dualism reframes perceptual experience
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — The felt character of being somewhere
 - [embodied-cognition](/concepts/embodied-cognition/) — The 4E framework and its phenomenological roots
+- [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Why pain's felt awfulness is inseparable from its causal role
 
 ## References
 

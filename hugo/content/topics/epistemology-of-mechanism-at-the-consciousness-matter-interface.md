@@ -24,7 +24,7 @@ related_articles:
 - '[[tenets]]'
 - '[[the-interface-specification-problem]]'
 - '[[psychophysical-laws-bridging-mind-and-matter]]'
-- '[[history-of-interactionist-dualism]]'
+- '[[history-of-the-interaction-problem]]'
 title: Epistemology of Mechanism at the Consciousness-Matter Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -135,7 +135,7 @@ The Map's honest assessment: the epistemology of mechanism at the interface is c
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — How psychophysical laws bridge mind and matter
 - [psychophysical-laws](/concepts/psychophysical-laws/) — What selection laws must specify and candidate formulations
 - [mental-causation](/concepts/mental-causation/) — The broader case for consciousness causing physical effects
-- [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/) — From Descartes to contemporary quantum approaches
+- [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/) — From Descartes to contemporary quantum approaches
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — When and how convergence carries evidential weight
 - [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) — Why consciousness breaks standard explanatory frameworks
 - [causal-interface](/voids/causal-interface/) — The void at the point where consciousness meets matter

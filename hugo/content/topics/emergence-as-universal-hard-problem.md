@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-03-13 08:21:00+00:00
+ai_modified: 2026-03-20 09:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -68,7 +68,7 @@ This objection presupposes a clean division between qualitative characters that 
 
 Consider the case that has troubled philosophers since Locke: secondary qualities. The redness of a ripe tomato is a dispositional property of its surface — a tendency to reflect certain wavelengths. Yet redness-as-experienced has an undeniable phenomenal character. Is colour phenomenal or dispositional? The honest answer is that it is both, or rather that the question exposes a fault line in the very distinction the equivocation objection relies on. Locke's original separation of primary and secondary qualities was an attempt to draw this boundary, and three centuries of debate have not settled where it falls. Taste, smell, and warmth all straddle the same line. These are not edge cases. They are the central examples around which the concept of "qualitative character" was built, and they resist clean classification as either purely phenomenal or purely dispositional.
 
-The case sharpens further with pain. Nociception — the detection of tissue damage — is a straightforwardly dispositional property: certain neural pathways fire, withdrawal behaviours follow. Phenomenal pain is the felt awfulness of the experience. The equivocation objection needs these to be categorically distinct. But consider: does a fish pulled from water experience phenomenal pain, or merely exhibit nociceptive dispositions? What about an insect recoiling from heat? The question is not merely unanswered but may be unanswerable in principle, because the boundary between "dispositional response" and "phenomenal experience" admits no clean criterion. The harder one looks for the line, the more it resembles a gradient — exactly what one would expect if the explanatory gap is universal rather than confined to a single ontological category.
+The case sharpens further with pain. Nociception — the detection of tissue damage — is a straightforwardly dispositional property: certain neural pathways fire, withdrawal behaviours follow. [Phenomenal pain](/topics/pain-consciousness-and-causal-power/) is the felt awfulness of the experience. The equivocation objection needs these to be categorically distinct. But consider: does a fish pulled from water experience phenomenal pain, or merely exhibit nociceptive dispositions? What about an insect recoiling from heat? The question is not merely unanswered but may be unanswerable in principle, because the boundary between "dispositional response" and "phenomenal experience" admits no clean criterion. The harder one looks for the line, the more it resembles a gradient — exactly what one would expect if the explanatory gap is universal rather than confined to a single ontological category.
 
 Beyond these specific cases, domestication plays a role in where we draw the boundary. We treat the qualitative character of liquidity as merely descriptive *because* we have habituated to the chemistry-to-water transition. The felt certainty that wetness is categorically different from experience may itself be a product of familiarity rather than philosophical insight.
 
@@ -125,6 +125,7 @@ The hard problem of consciousness, on this view, is not an anomaly. It is the vi
 - [habituation-void](/voids/habituation-void/) — How familiarity erases awareness of limits
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/) — Cross-cultural convergence on the irreducibility of consciousness
 - [mysterianism](/concepts/mysterianism/) — McGinn's cognitive closure thesis
+- [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain as the hard problem made personal: why the nociception-to-suffering transition exemplifies the universal gap
 
 ## References
 

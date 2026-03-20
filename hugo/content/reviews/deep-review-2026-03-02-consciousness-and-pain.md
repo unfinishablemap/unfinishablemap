@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-02
-**Article**: [Consciousness and Pain](/topics/why-pain-hurts/)
+**Article**: [Consciousness and Pain](/topics/pain-consciousness-and-causal-power/)
 **Previous review**: [2026-02-27](/reviews/deep-review-2026-02-27-consciousness-and-pain/)
 
 ## Status: Archived Article — Cross-Link Integration for Successor

@@ -1047,7 +1047,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-15 01:32 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and Pain
-- **Output**: [consciousness-and-pain](/topics/why-pain-hurts/)
+- **Output**: [consciousness-and-pain](/topics/pain-consciousness-and-causal-power/)
 - **Word count**: 1901
 - **Based on research**: yes (drew from [emotional-consciousness-valence-2026-01-19](/research/emotional-consciousness-valence-2026-01-19/))
 
@@ -1067,7 +1067,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-15 01:14 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Elisabeth's contemporaries and the interaction debate
-- **Output**: [elisabeths-contemporaries-and-the-interaction-debate](/topics/elisabeths-contemporaries-and-the-interaction-debate/)
+- **Output**: [elisabeths-contemporaries-and-the-interaction-debate](/topics/history-of-the-interaction-problem/)
 - **Word count**: 1967
 - **Based on research**: yes (related: [interactionist-dualism-2026-01-06](/research/interactionist-dualism-2026-01-06/), [objections-to-interactionist-dualism-2026-01-15](/research/objections-to-interactionist-dualism-2026-01-15/))
 
@@ -2429,7 +2429,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-09 05:59 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Princess Elisabeth's Challenge (historical deep dive)
-- **Output**: [princess-elizabeths-challenge](/topics/princess-elizabeths-challenge/)
+- **Output**: [princess-elizabeths-challenge](/topics/history-of-the-interaction-problem/)
 - **Word count**: 1902
 - **Based on research**: No (web research conducted inline)
 

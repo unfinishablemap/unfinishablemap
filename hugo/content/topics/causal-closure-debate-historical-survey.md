@@ -34,7 +34,7 @@ title: The Causal Closure Debate — A Historical Survey
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[topics/free-will]]'
-- '[[history-of-interactionist-dualism]]'
+- '[[history-of-the-interaction-problem]]'
 ---
 
 The causal closure of the physical — the thesis that every physical event has a sufficient physical cause — is widely treated as an established scientific finding. It is not. The Unfinishable Map traces the principle's evolution from a seventeenth-century puzzle about Cartesian contact to a twentieth-century metaphysical axiom, arguing that what began as an empirical observation about conservation laws was progressively strengthened far beyond what physics establishes. Understanding this history matters because causal closure is the load-bearing premise in virtually every contemporary argument against [interactionist-dualism](/concepts/interactionist-dualism/).
@@ -124,7 +124,7 @@ The Map does not claim that rejecting causal closure is simple. It claims that t
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why energy conservation does not entail causal closure
 - [observational-closure](/concepts/observational-closure/) — The distinction between detectable and universal closure
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's framework for mental causation without overdetermination
-- [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/) — The broader history of mind-body interaction theories
+- [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/) — The broader history of mind-body interaction theories
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — How causal closure drives theories toward epiphenomenalism
 - [arguments-against-materialism](/topics/arguments-against-materialism/) — The convergent case that materialism fails
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum Zeno mechanism for consciousness-physics interaction

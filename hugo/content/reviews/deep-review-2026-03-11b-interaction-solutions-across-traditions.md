@@ -50,8 +50,8 @@ No new counterarguments needed. Previous review already addressed functionalist 
 
 ### Cross-links Added (Inbound — Primary Focus)
 - **[interaction-problem-in-non-western-philosophy](/topics/interaction-problem-across-traditions/)**: Added contextual link in convergence paragraph + Further Reading
-- **[history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/)**: Added contextual link in "Shape of Progress" section + Further Reading
-- **[princess-elizabeths-challenge](/topics/princess-elizabeths-challenge/)**: Added contextual link in "Legacy" section + Further Reading
+- **[history-of-interactionist-dualism](/topics/history-of-the-interaction-problem/)**: Added contextual link in "Shape of Progress" section + Further Reading
+- **[princess-elizabeths-challenge](/topics/history-of-the-interaction-problem/)**: Added contextual link in "Legacy" section + Further Reading
 - **[interactionist-dualism](/concepts/interactionist-dualism/)**: Added contextual link in "Historical Problem" section + Related topics list
 - **[mental-causation](/concepts/mental-causation/)**: Added contextual link in "Process Philosophy Alternative" section
 - **[objections-to-interactionism](/concepts/objections-to-interactionism/)**: Added to Further Reading

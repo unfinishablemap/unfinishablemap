@@ -48,10 +48,10 @@ topics: []
 
 ### Enhancements Made
 - Added functionalist objection and rebuttal to "Valence Does Causal Work" section
-- Added 3 cross-links in Further Reading: [consciousness-and-pain](/topics/why-pain-hurts/), [suffering-versus-pain](/topics/pain-consciousness-and-causal-power/), [normative-phenomenology](/concepts/normative-phenomenology/)
+- Added 3 cross-links in Further Reading: [consciousness-and-pain](/topics/pain-consciousness-and-causal-power/), [suffering-versus-pain](/topics/pain-consciousness-and-causal-power/), [normative-phenomenology](/concepts/normative-phenomenology/)
 
 ### Cross-links Added
-- [consciousness-and-pain](/topics/why-pain-hurts/)
+- [consciousness-and-pain](/topics/pain-consciousness-and-causal-power/)
 - [suffering-versus-pain](/topics/pain-consciousness-and-causal-power/)
 - [normative-phenomenology](/concepts/normative-phenomenology/)
 

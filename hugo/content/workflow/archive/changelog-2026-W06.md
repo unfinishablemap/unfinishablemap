@@ -4216,7 +4216,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 11:07 UTC - deep-review
 - **Status**: Success
-- **File**: [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/)
+- **File**: [history-of-interactionist-dualism](/topics/history-of-the-interaction-problem/)
 - **Word count**: 2106 → 2106 (unchanged - content stable from earlier review)
 - **Focus**: Orphan integration (adding inbound links from related articles)
 - **Critical issues addressed**: 0 (none found - article stable)
@@ -4936,7 +4936,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 02:52 UTC - deep-review
 - **Status**: Success
-- **File**: [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/)
+- **File**: [history-of-interactionist-dualism](/topics/history-of-the-interaction-problem/)
 - **Word count**: 2081 → 2106 (+25)
 - **Critical issues addressed**: 1 (duplicate name error: C.D. Broad listed twice)
 - **Medium issues addressed**: 3 (Chalmers characterization, PhilPapers clarification, missing cross-link)
@@ -5210,7 +5210,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-02 00:21 UTC - expand-topic
 - **Status**: Success
 - **Topic**: history of interactionist dualism
-- **Output**: [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/)
+- **Output**: [history-of-interactionist-dualism](/topics/history-of-the-interaction-problem/)
 - **Word count**: 2081
 - **Based on research**: yes, [interactionist-dualism-2026-01-06](/research/interactionist-dualism-2026-01-06/)
 

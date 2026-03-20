@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [History of Interactionist Dualism](/topics/history-of-interactionist-dualism/)
+**Article**: [History of Interactionist Dualism](/topics/history-of-the-interaction-problem/)
 **Previous review**: [2026-02-02](/reviews/deep-review-2026-02-02-history-of-interactionist-dualism/) (earlier today)
 **Focus**: Orphan integration—adding inbound links from related articles
 
@@ -62,7 +62,7 @@ All strengths from previous review remain intact:
 
 ### Cross-links Added (FROM other articles TO this article)
 
-Seven articles now link to [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/):
+Seven articles now link to [history-of-interactionist-dualism](/topics/history-of-the-interaction-problem/):
 
 1. **[substance-property-dualism](/concepts/substance-property-dualism/)** — After the Elizabeth/Leibniz objection discussion
 2. **[interactionist-dualism](/concepts/interactionist-dualism/)** — In "The Historical Problem" section

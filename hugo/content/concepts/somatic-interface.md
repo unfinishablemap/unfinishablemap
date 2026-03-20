@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-18 22:42:00+00:00
+ai_modified: 2026-03-20 09:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -61,7 +61,7 @@ Christina's case reveals what proprioception contributes to the somatic interfac
 
 Pain and pleasure are the somatic interface's evaluative channels—the body's way of marking events as harmful or beneficial. Nociception (pain signaling) is particularly informative for the interface reading because of its relationship to consciousness.
 
-Pain asymbolia—a condition where patients detect nociceptive signals without experiencing suffering—demonstrates that the somatic interface has layers. The signal arrives, but the phenomenal character (the *awfulness* of pain) does not follow automatically from the signal. Materialist neuroscience explains this dissociation through distinct neural pathways: the sensory-discriminative pathway (localising pain) separates from the affective-motivational pathway (generating suffering), and damage to the latter eliminates the felt awfulness while leaving detection intact. This is a complete functional explanation. The interface reading does not dispute it. What the interface reading highlights is the structural parallel to the [hard problem](/topics/hard-problem-of-consciousness/): even a full account of which pathways do what leaves open *why* pathway activity in the affective system constitutes suffering at all. On the Map's framework, consciousness *receives and qualifies* the transmitted signal—the body proposes, consciousness disposes. This is a metaphysical interpretation of the same clinical facts, not a competing clinical hypothesis.
+[Pain asymbolia](/topics/pain-consciousness-and-causal-power/)—a condition where patients detect nociceptive signals without experiencing suffering—demonstrates that the somatic interface has layers. The signal arrives, but the phenomenal character (the *awfulness* of pain) does not follow automatically from the signal. Materialist neuroscience explains this dissociation through distinct neural pathways: the sensory-discriminative pathway (localising pain) separates from the affective-motivational pathway (generating suffering), and damage to the latter eliminates the felt awfulness while leaving detection intact. This is a complete functional explanation. The interface reading does not dispute it. What the interface reading highlights is the structural parallel to the [hard problem](/topics/hard-problem-of-consciousness/): even a full account of which pathways do what leaves open *why* pathway activity in the affective system constitutes suffering at all. On the Map's framework, consciousness *receives and qualifies* the transmitted signal—the body proposes, consciousness disposes. This is a metaphysical interpretation of the same clinical facts, not a competing clinical hypothesis.
 
 Phantom limb pain extends this analysis. After amputation, patients experience pain in a limb that no longer exists. Neuroscience attributes this to cortical reorganisation and persistent neural representations of the missing limb—the brain's body map outlasts the body's actual configuration. The interface reading redescribes this same phenomenon: the somatic interface maintains a structural map that consciousness continues to inhabit, even when the physical channel has been severed. Both accounts explain the clinical data equally well. The interface reading's contribution is framing body-schema persistence within a model where consciousness is the *inhabitant* of the map rather than its product.
 
@@ -110,6 +110,7 @@ Several properties of the somatic interface matter for the Map's framework.
 - [filter-theory](/concepts/filter-theory/) — The brain as transmitter rather than producer of consciousness
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — Knowledge that precedes conceptual articulation
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the control surface for consciousness
+- [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain's resistance to reduction and the inseparability of phenomenal character from causal power
 
 ## References
 

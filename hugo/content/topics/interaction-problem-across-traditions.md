@@ -31,12 +31,11 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[objections-to-interactionism]]'
-- '[[elisabeths-contemporaries-and-the-interaction-debate]]'
+- '[[history-of-the-interaction-problem]]'
 - '[[interaction-problem-non-western-philosophy-2026-02-17]]'
 title: The Interaction Problem Across Philosophical Traditions
 topics:
-- '[[princess-elizabeths-challenge]]'
-- '[[history-of-interactionist-dualism]]'
+- '[[history-of-the-interaction-problem]]'
 - '[[the-hard-problem-in-non-western-philosophy]]'
 - '[[eastern-philosophy-consciousness]]'
 ---
@@ -129,13 +128,11 @@ The convergence across traditions on the selection insight—that mind shapes ou
 
 ## Further Reading
 
-- [princess-elizabeths-challenge](/topics/princess-elizabeths-challenge/)
-- [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/)
+- [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/)
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/)
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)
 - [objections-to-interactionism](/concepts/objections-to-interactionism/)
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)
-- [elisabeths-contemporaries-and-the-interaction-debate](/topics/elisabeths-contemporaries-and-the-interaction-debate/)
 
 ## References
 

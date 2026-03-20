@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-12
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-20 08:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: 'Two accounts of selfhood compete: social construction (self as cul
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-16 03:40:00+00:00
+last_deep_review: 2026-03-20 08:22:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,7 +62,7 @@ The phenomenal self is the experiential subject—[the "for-me-ness"](/concepts/
 
 The phenomenal self has features that resist social construction:
 
-**Developmental priority.** Neonates show signs of phenomenal selfhood—preferential response to self-touch, proprioceptive awareness, basic affective states—weeks or months before the social interactions that constructionists identify as self-generating. Something must be there to undergo the socialisation process. The phenomenal self does not require the social to exist; the social self requires the phenomenal to get started.
+**Developmental priority.** Neonates show signs of phenomenal selfhood—preferential response to self-touch, proprioceptive awareness, basic affective states—weeks or months before the social interactions that constructionists identify as self-generating (Rochat 2003). Something must be there to undergo the socialisation process. The phenomenal self does not require the social to exist; the social self requires the phenomenal to get started.
 
 **Cross-cultural invariance.** While self-concepts vary enormously across cultures—individualist versus collectivist, narrative versus relational—the phenomenal self appears structurally identical. This is a philosophical inference from the nature of first-personal givenness rather than an empirical finding: the "for-me-ness" of experience does not differ between a Tokyo office worker and an Amazonian hunter-gatherer, even though their socially constructed identities share almost nothing. What is socially constructed varies; what is phenomenally given does not.
 
@@ -72,7 +72,7 @@ The phenomenal self has features that resist social construction:
 
 The two accounts genuinely overlap in the domain of self-understanding. How you comprehend your own experience, what categories you use to interpret your phenomenal states, which aspects of experience you attend to—all of this is shaped by social and linguistic context. Russian speakers, who have separate basic colour terms for light blue (*goluboy*) and dark blue (*siniy*), discriminate between these shades faster than English speakers—a demonstration that linguistic categories shape perceptual experience (Winawer et al. 2007). A culture that pathologises certain emotional states shapes how those states are experienced.
 
-This is the constructionist's strongest point: phenomenal experience is not raw but interpreted, and interpretation is social. As Schachter and Singer's classic emotion experiments suggested, the "same" physiological arousal—elevated heart rate, flushed face, focused attention—can be experienced as anger, excitement, or fear depending on social context and learned categories. The labelling is social; the arousal is not.
+This is the constructionist's strongest point: phenomenal experience is not raw but interpreted, and interpretation is social. As Schachter and Singer's classic emotion experiments suggested, the "same" physiological arousal—elevated heart rate, flushed face, focused attention—can be experienced as anger, excitement, or fear depending on social context and learned categories. Barrett's constructionist theory of emotion develops this further: emotion categories are not natural kinds but culturally learned concepts that shape how interoceptive signals are experienced (Barrett 2017). The labelling is social; the arousal is not.
 
 But the overlap has a boundary. Social construction shapes the *content* of self-experience—what you experience yourself as. It does not generate the *structure*—that there is a subject having the experience. The distinction between content and structure maps onto the [three-layered model of selfhood](/topics/the-self-minimal-narrative-and-substantial/): social construction operates at the narrative layer, modifying how the self is understood and expressed. The minimal and substantial layers—the phenomenological bedrock—remain untouched by cultural variation.
 
@@ -130,10 +130,13 @@ This analysis connects to the Map's foundational commitments at multiple points.
 
 ## References
 
+1. Barrett, L.F. (2017). *How Emotions Are Made: The Secret Life of the Brain*. Houghton Mifflin Harcourt.
 1. Butler, J. (1990). *Gender Trouble: Feminism and the Subversion of Identity*. Routledge.
 1. Gallagher, S. (2000). "Philosophical Conceptions of the Self." *Trends in Cognitive Sciences*, 4(1), 14-21.
+1. Gergen, K.J. (2009). *Relational Being: Beyond Self and Community*. Oxford University Press.
 1. Mead, G.H. (1934). *Mind, Self, and Society*. University of Chicago Press.
 1. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
+1. Rochat, P. (2003). "Five Levels of Self-Awareness as They Unfold Early in Life." *Consciousness and Cognition*, 12(4), 717-731.
 1. Schachter, S. & Singer, J.E. (1962). "Cognitive, Social, and Physiological Determinants of Emotional State." *Psychological Review*, 69(5), 379-399.
 1. Schechtman, M. (1996). *The Constitution of Selves*. Cornell University Press.
 1. Strawson, G. (2009). *Selves: An Essay in Revisionary Metaphysics*. Oxford University Press.

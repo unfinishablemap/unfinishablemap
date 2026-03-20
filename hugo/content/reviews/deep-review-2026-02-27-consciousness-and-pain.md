@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-27
-**Article**: [Consciousness and Pain](/topics/why-pain-hurts/)
+**Article**: [Consciousness and Pain](/topics/pain-consciousness-and-causal-power/)
 **Previous review**: [2026-02-18](/reviews/deep-review-2026-02-18-consciousness-and-pain/)
 
 ## Status: Archived Article — Link Cleanup
@@ -28,7 +28,7 @@ The article `consciousness-and-pain.md` was **archived on 2026-02-22** and coale
 - `superseded_by: "/topics/why-pain-hurts/"`
 - `archive_reason: "Coalesced into Why Pain Hurts: Phenomenal Character and Causal Power"`
 
-The "orphan" status flagged by the automation was caused by stale wikilinks — live content files were still linking to the old `[consciousness-and-pain](/topics/why-pain-hurts/)` path instead of the replacement `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)`.
+The "orphan" status flagged by the automation was caused by stale wikilinks — live content files were still linking to the old `[consciousness-and-pain](/topics/pain-consciousness-and-causal-power/)` path instead of the replacement `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)`.
 
 ## Stale Links Found and Fixed
 
@@ -48,7 +48,7 @@ The "orphan" status flagged by the automation was caused by stale wikilinks — 
 
 ### Files Not Updated (correct — historical records)
 
-- Reviews, changelogs, and todo.md entries referencing `[consciousness-and-pain](/topics/why-pain-hurts/)` were left unchanged as they are historical records of past activity.
+- Reviews, changelogs, and todo.md entries referencing `[consciousness-and-pain](/topics/pain-consciousness-and-causal-power/)` were left unchanged as they are historical records of past activity.
 
 ## No Content Changes to Archived Article
 

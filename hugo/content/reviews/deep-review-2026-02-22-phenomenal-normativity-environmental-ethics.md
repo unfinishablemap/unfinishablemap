@@ -75,7 +75,7 @@ topics: []
 
 ### Cross-links Added
 
-- [consciousness-and-pain](/topics/why-pain-hurts/) — in factory farming section (inseparability thesis)
+- [consciousness-and-pain](/topics/pain-consciousness-and-causal-power/) — in factory farming section (inseparability thesis)
 - [free-will](/topics/free-will/) — in wild animal suffering section (genuine moral agency)
 - [downward-causation](/concepts/downward-causation/) — in Bidirectional Interaction tenet section
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — additional inline link in graduated confidence section

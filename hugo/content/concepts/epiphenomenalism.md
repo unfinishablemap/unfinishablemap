@@ -46,7 +46,7 @@ As the foundational [dualism](/concepts/dualism/) article explains, within [phil
 
 ## The View
 
-Epiphenomenalism emerged in the 19th century as physiology revealed the brain's role in behavior. T.H. Huxley, in his 1874 essay "On the Hypothesis that Animals are Automata," argued that consciousness accompanies certain brain processes but does not cause anything. The brain does all the causal work; mind is just along for the ride. This period—discussed in [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/) and the [historical survey of the causal closure debate](/topics/causal-closure-debate-historical-survey/)—saw interactionism enter eclipse as conservation laws seemed to rule out mental causation.
+Epiphenomenalism emerged in the 19th century as physiology revealed the brain's role in behavior. T.H. Huxley, in his 1874 essay "On the Hypothesis that Animals are Automata," argued that consciousness accompanies certain brain processes but does not cause anything. The brain does all the causal work; mind is just along for the ride. This period—discussed in [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/) and the [historical survey of the causal closure debate](/topics/causal-closure-debate-historical-survey/)—saw interactionism enter eclipse as conservation laws seemed to rule out mental causation.
 
 The view has three components:
 

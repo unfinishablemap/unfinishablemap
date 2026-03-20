@@ -56,7 +56,7 @@ Added links TO leibnizs-mill-argument FROM:
 - [arguments-for-dualism](/concepts/the-case-for-dualism/) — Explanatory Gap section now mentions Leibniz's Mill
 - [explanatory-gap](/concepts/explanatory-gap/) — Added paragraph connecting gap to Leibniz's anticipation
 - [dualism](/concepts/dualism/) — Explanatory Gap section now references Leibniz's Mill
-- [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/) — Leibniz Closure section now mentions the mill argument
+- [history-of-interactionist-dualism](/topics/history-of-the-interaction-problem/) — Leibniz Closure section now mentions the mill argument
 
 ## Word Count
 

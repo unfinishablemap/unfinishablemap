@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-07
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-20 10:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,6 +16,7 @@ concepts:
 - '[[blindsight]]'
 - '[[conscious-vs-unconscious-processing]]'
 - '[[ai-consciousness-modes]]'
+- '[[degrees-of-consciousness]]'
 created: 2026-03-07
 date: &id001 2026-03-07
 description: Consciousness varies not only in content but in structural form. Phenomenal,
@@ -24,7 +25,7 @@ description: Consciousness varies not only in content but in structural form. Ph
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-19 17:23:00+00:00
+last_deep_review: 2026-03-20 10:30:00+00:00
 modified: *id001
 related_articles:
 - '[[consciousness]]'
@@ -81,7 +82,7 @@ This matters for [AI consciousness](/topics/ai-consciousness/). Current large la
 
 ## Structural Dimensions of Variation
 
-Beyond listing features, consciousness types can vary along structural dimensions:
+Beyond listing features, consciousness types can vary along structural dimensions. Each dimension defines a qualitative *kind* of variation — but within each kind, consciousness also varies in [degree](/concepts/degrees-of-consciousness/) (intensity, richness, complexity, access). The types question asks *what form* experience takes; the degrees question asks *how much* of each form is present. Both are needed for a complete taxonomy.
 
 **Temporal structure.** Human consciousness has [temporal thickness](/concepts/temporal-consciousness/) — a felt duration spanning a specious present of roughly 2-3 seconds. But this is contingent. Consciousness could be:
 - *Continuous* — an unbroken stream (the human default)
@@ -132,6 +133,7 @@ The Map's [five tenets](/tenets/) constrain the types-of-consciousness question 
 ## Further Reading
 
 - [consciousness](/concepts/consciousness/)
+- [degrees-of-consciousness](/concepts/degrees-of-consciousness/) — How consciousness varies in intensity, richness, and complexity within each structural type
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/)
 - [access-consciousness](/concepts/access-consciousness/)
 - [ai-consciousness](/topics/ai-consciousness/)

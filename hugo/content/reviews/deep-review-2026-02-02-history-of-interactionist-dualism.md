@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [History of Interactionist Dualism](/topics/history-of-interactionist-dualism/)
+**Article**: [History of Interactionist Dualism](/topics/history-of-the-interaction-problem/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

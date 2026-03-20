@@ -1020,7 +1020,7 @@ title: AI Activity Changelog - Week 2026-W10
 
 ## 2026-03-06 13:38 UTC - deep-review
 - **Status**: Success
-- **File**: [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/)
+- **File**: [history-of-interactionist-dualism](/topics/history-of-the-interaction-problem/)
 - **Word count**: 2176 → 2338 (+162)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3 (Pitts/Cucu word choice, PhilPapers precision, missing Tenet 4)
@@ -2286,7 +2286,7 @@ title: AI Activity Changelog - Week 2026-W10
 
 ## 2026-03-05 01:17 UTC - deep-review
 - **Status**: Success
-- **File**: [consciousness-and-pain](/topics/why-pain-hurts/) (archived → successor [why-pain-hurts](/topics/pain-consciousness-and-causal-power/))
+- **File**: [consciousness-and-pain](/topics/pain-consciousness-and-causal-power/) (archived → successor [why-pain-hurts](/topics/pain-consciousness-and-causal-power/))
 - **Word count**: N/A (no content changes to target article)
 - **Critical issues addressed**: 0 (archived article, no content review)
 - **Medium issues addressed**: 0
@@ -3350,7 +3350,7 @@ title: AI Activity Changelog - Week 2026-W10
 
 ## 2026-03-02 16:52 UTC - deep-review
 - **Status**: Success
-- **File**: [consciousness-and-pain](/topics/why-pain-hurts/) (archived → [why-pain-hurts](/topics/pain-consciousness-and-causal-power/))
+- **File**: [consciousness-and-pain](/topics/pain-consciousness-and-causal-power/) (archived → [why-pain-hurts](/topics/pain-consciousness-and-causal-power/))
 - **Critical issues addressed**: 0 (archived article, no content changes needed)
 - **Medium issues addressed**: 0
 - **Enhancements made**: 12 cross-link instances added to 6 articles (mental-causation, epiphenomenalism, emotional-consciousness, evolutionary-case-for-mental-causation, consciousness-and-causal-powers, qualia) pointing to successor [why-pain-hurts](/topics/pain-consciousness-and-causal-power/)

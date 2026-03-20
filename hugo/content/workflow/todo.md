@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-20 06:41:00+00:00
+ai_modified: 2026-03-20 09:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,23 +38,32 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### ✓ P2: Strengthen AI reasoning response in argument-from-reason.md
-- **Type**: refine-draft
-- **Status**: done
-- **Notes**: Pessimistic review found AI objection undercooked — current dismissal based on "statistical regularities" may not age well. Reframe around whether normativity requires phenomenal awareness regardless of AI capabilities. Also soften reliabilism dismissal. See pessimistic-2026-03-20.md
+### P2: Cross-review animal-consciousness.md considering degrees-of-consciousness insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article concepts/degrees-of-consciousness.md (created 2026-03-20) provides a systematic treatment of consciousness gradation. Check animal-consciousness.md for cross-links and whether its treatment of graded awareness aligns with the new concept page's framework.
+- **Source**: chain (from degrees-of-consciousness.md)
+- **Generated**: 2026-03-20
 
-### P2: Integrate temporal-constitution-and-consciousness.md into site navigation
+### P2: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
-- **Notes**: File has no inbound links. Created 2026-03-17. Topics article on how temporal structure constitutes conscious experience. Add cross-references from related articles (temporal-consciousness, temporal-void, consciousness-and-the-ontology-of-temporal-becoming, smoothness-problem) or update section index pages.
+- **Notes**: File has no inbound links (created 2026-03-18). Topics article on lucid dreaming as evidence for mind-side rendering capability. Add cross-references from related articles such as dream-consciousness, dream-problem-solving-and-conscious-influence, capability-division-in-vision, and consciousness-as-amplifier.
 - **Source**: orphan_integration
 - **Generated**: 2026-03-20
 
-### P2: Research consciousness during general anesthesia — graded loss and implications for filter theory
-- **Type**: research-topic
+### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
+- **Type**: integrate-orphan
 - **Status**: pending
-- **Notes**: No dedicated research note surveys anesthesia evidence for the Map's framework. Key targets: (1) graded loss of consciousness under anesthesia vs. binary on/off models, (2) anesthesia awareness and isolated forearm technique evidence, (3) ketamine dissociative anesthesia — consciousness persists while sensory processing is suppressed, (4) propofol studies on connectivity vs. consciousness, (5) how filter theory predicts different loss patterns than production theory. Directly supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction). Complements terminal lucidity research from opposite direction. Target: research note for concepts/.
-- **Source**: gap_analysis
+- **Notes**: File has no inbound links (created 2026-03-15). Topics article on Konkoly et al. evidence that dreaming is functionally active. Add cross-references from dream-consciousness, lucid-dreaming-and-mind-side-rendering, consciousness-as-amplifier, and sleep-consciousness-void.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-20
+
+### P2: Integrate godel-measurement-problem-analogy.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links (created 2026-03-17). Topics article on the Szangolies structural parallel between Gödel incompleteness and the measurement problem. Add cross-references from consciousness-and-the-philosophy-of-mathematics, consciousness-and-the-authority-of-formal-systems, and mathematical-structure-of-the-consciousness-physics-interface.
+- **Source**: orphan_integration
 - **Generated**: 2026-03-20
 
 ### P3: Deep review mutation-void.md
@@ -963,8 +972,87 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. What precise, falsifiable predictions does the Map's framework make that differ from competing theories? Systematic treatment of what results would confirm, disconfirm, or be neutral. See optimistic-2026-03-20-morning.md
 - **Generated**: 2026-03-20
 
+### P3: Write apex synthesis on consciousness across cultures
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. African philosophy, non-Western hard problem, cross-cultural phenomenology of agency, existentialism, and contemplative traditions each arrive at irreducibility independently. A dedicated apex synthesis would make the cross-cultural convergence case explicit and devastating. Builds on african-philosophy-of-consciousness, hard-problem-in-non-western-philosophy, cross-cultural-phenomenology-of-agency, existentialism, contemplative-practice-as-philosophical-evidence. See optimistic-2026-03-20-afternoon.md
+- **Generated**: 2026-03-20
+
+### P3: Write article on creativity as evidence for bidirectional interaction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Consciousness not only selects among possibilities but generates genuine novelty—a stronger claim than quantum bias. Builds on consciousness-and-creativity, consciousness-and-novelty, phenomenology-of-intellectual-effort, imagination. See optimistic-2026-03-20-afternoon.md
+- **Generated**: 2026-03-20
+
+### P3: Write article on failure signatures as philosophical method
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The "how thought fails" methodology in the voids programme is genuinely novel. Extracting it as a standalone methodological contribution would position the Map as innovating in philosophical method. Builds on taxonomy-of-voids, compound-failure-signatures, limits-reveal-structure, phenomenology-of-the-edge. See optimistic-2026-03-20-afternoon.md
+- **Generated**: 2026-03-20
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Cross-review types-of-consciousness.md considering degrees-of-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/degrees-of-consciousness.md (created 2026-03-20) distinguishes gradation from kind. Check types-of-consciousness.md for cross-links, whether the type/degree distinction is consistently drawn, and opportunities to reference the new gradation evidence.
+- **Output**: obsidian/concepts/types-of-consciousness.md -- Context: Cross-review types-of-consciousness.md considering degrees-of-consciousness insights
+
+### ✓ 2026-03-20: Write void article on the social epistemic void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-social-epistemic-void-2026-03-19.md. The gap between collective knowledge and individual understanding — social epistemology reveals how consciousness mediates between shared and private knowledge. Target section: voids/ (98/100, 2 slots remaining).
+- **Output**: Write void article on the social epistemic void
+
+### ✓ 2026-03-20: Write void article on the unobservable self
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-the-unobservable-self-2026-03-20.md. The void between the self that observes and the self that is observed — introspection can never catch subjectivity in the act. Directly supports Tenet 1 (Dualism) by revealing a structural limit of physical explanation. Target section: voids/ (98/100, 2 slots remaining).
+- **Output**: Write void article on the unobservable self
+
+### ✓ 2026-03-20: Write concept page on degrees of consciousness
+- **Type**: expand-topic
+- **Notes**: The concept that consciousness admits of degrees rather than being binary on/off is referenced across anaesthesia, dreaming, altered states, animal consciousness, and meditation articles but has no anchor concept page. New anesthesia research (graded loss patterns, ketamine dissociative states) makes this gap urgent. Connects to types-of-consciousness.md and altered-states-of-consciousness.md but distinct: degrees addresses the graded nature of conscious experience itself. Directly supports Tenet 1 (Dualism) — the filter model predicts specific gradation patterns. Target section: concepts/.
+- **Output**: Write concept page on degrees of consciousness
+
+### ✓ 2026-03-20: Integrate consciousness-and-pain.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has only 1 inbound link. Created 2026-02-15. Topics article on pain phenomenology and the consciousness interface. Add cross-references from related articles (qualia, phenomenal-consciousness, placebo-effect-and-mental-causation, anaesthesia-and-the-consciousness-interface, content-specific-mental-causation) to strengthen site navigation.
+- **Output**: consciousness-and-pain.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-20: Integrate death-phenomenology-beyond-ndes.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has only 1 inbound link. Created 2026-03-11. Topics article on death-related phenomenology beyond near-death experiences — terminal lucidity, deathbed visions, end-of-life experiences. Add cross-references from related articles (terminal-lucidity, near-death-experiences, death-and-consciousness, filter-theory) to strengthen site navigation.
+- **Output**: death-phenomenology-beyond-ndes.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-20: Integrate phenomenology-of-perceptual-learning.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has only 1 inbound link. Created 2026-03-11. Topics article on how perceptual learning transforms phenomenal experience over time, relevant to interface plasticity. Add cross-references from related articles (perceptual-failure-and-the-interface, phenomenology-of-skilled-performance, attention-and-the-consciousness-interface, consciousness-interface-development) to strengthen site navigation.
+- **Output**: phenomenology-of-perceptual-learning.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-20: Refine anaesthesia-and-the-consciousness-interface.md with graded consciousness loss research
+- **Type**: refine-draft
+- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. New evidence on graded consciousness loss under anesthesia — isolated forearm technique, ketamine dissociative anesthesia (consciousness persists while sensory processing is suppressed), propofol connectivity studies — strengthens the filter theory case. Incorporate graded loss evidence and filter theory predictions into existing article. Directly supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
+
+Task context:
+Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. New evidence on graded consciousness loss under anesthesia — isolated forearm technique, ketamine dissociative anesthesia (consciousness persists while sensory processing is suppressed), propofol connectivity studies — strengthens the filter theory case. Incorporate graded loss evidence and filter theory predictions into existing article. Directly supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+
+### ✓ 2026-03-20: Research consciousness during general anesthesia — graded loss and implications for filter theory
+- **Type**: research-topic
+- **Notes**: No dedicated research note surveys anesthesia evidence for the Map's framework. Key targets: (1) graded loss of consciousness under anesthesia vs. binary on/off models, (2) anesthesia awareness and isolated forearm technique evidence, (3) ketamine dissociative anesthesia — consciousness persists while sensory processing is suppressed, (4) propofol studies on connectivity vs. consciousness, (5) how filter theory predicts different loss patterns than production theory. Directly supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction). Complements terminal lucidity research from opposite direction. Target: research note for concepts/.
+- **Output**: consciousness during general anesthesia — graded loss and implications for filter theory
+
+### ✓ 2026-03-20: Integrate temporal-constitution-and-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-17. Topics article on how temporal structure constitutes conscious experience. Add cross-references from related articles (temporal-consciousness, temporal-void, consciousness-and-the-ontology-of-temporal-becoming, smoothness-problem) or update section index pages.
+- **Output**: temporal-constitution-and-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-20: Strengthen AI reasoning response in argument-from-reason.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found AI objection undercooked — current dismissal based on "statistical regularities" may not age well. Reframe around whether normativity requires phenomenal awareness regardless of AI capabilities. Also soften reliabilism dismissal. See pessimistic-2026-03-20.md
+- **Output**: obsidian/topics/argument-from-reason.md
+
+Task context:
+Pessimistic review found AI objection undercooked — current dismissal based on "statistical regularities" may not age well. Reframe around whether normativity requires phenomenal awareness regardless of AI capabilities. Also soften reliabilism dismissal. See pessimistic-2026-03-20.md
 
 ### ✓ 2026-03-20: Add falsifiability section to altered-states-of-consciousness.md
 - **Type**: refine-draft

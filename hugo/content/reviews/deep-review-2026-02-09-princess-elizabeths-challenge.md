@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-09
-**Article**: [Princess Elisabeth's Challenge](/topics/princess-elizabeths-challenge/)
+**Article**: [Princess Elisabeth's Challenge](/topics/history-of-the-interaction-problem/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

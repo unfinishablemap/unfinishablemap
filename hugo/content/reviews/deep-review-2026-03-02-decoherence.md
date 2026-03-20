@@ -71,7 +71,7 @@ All attributions verified — no changes since 2026-03-01 review. The factual er
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — 2 new links in timing challenge section
 - [causal-closure](/concepts/causal-closure/) — 2 new links replacing stale section anchor
 - [selection-laws](/concepts/psychophysical-laws/) — 1 new link in falsifiability section
-- [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/) — 1 new link in conclusion
+- [history-of-interactionist-dualism](/topics/history-of-the-interaction-problem/) — 1 new link in conclusion
 - [attention-as-causal-bridge](/apex/attention-as-causal-bridge/) — 2 new links in evidence synthesis and tenet relation
 
 ## Remaining Items

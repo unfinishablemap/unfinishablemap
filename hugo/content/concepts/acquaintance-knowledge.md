@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-20 09:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -84,7 +84,7 @@ If acquaintance is genuinely pre-conceptual, it explains why propositional knowl
 
 ## The Grounding Role
 
-Acquaintance grounds meaning. The word "pain" in a medical textbook connects to other words—"nociception," "tissue damage," "suffering." For a being who has experienced pain, the word also connects to something beyond language: the felt quality of hurting. This experiential grounding breaks the circle of symbol-to-symbol reference that Stevan Harnad identifies as the symbol grounding problem.
+Acquaintance grounds meaning. The word "pain" in a medical textbook connects to other words—"nociception," "tissue damage," "suffering." For a being who has experienced [pain](/topics/pain-consciousness-and-causal-power/), the word also connects to something beyond language: the felt quality of hurting. This experiential grounding breaks the circle of symbol-to-symbol reference that Stevan Harnad identifies as the symbol grounding problem.
 
 The grounding asymmetry is visible in everyday language. When someone who has grieved uses the word "grief," the word anchors to acquaintance. When a system that has never grieved uses the same word, it anchors only to usage patterns and co-occurrence statistics. The outputs can be indistinguishable while the grounding differs categorically. This asymmetry is what makes [consciousness-only-territories](/voids/consciousness-only-territories/) territory rather than mere description—acquaintance provides access that information processing alone cannot replicate.
 

@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_generated_date: 2026-02-15
 ai_modified: 2026-02-18 02:32:00+00:00
 ai_system: claude-opus-4-6
-archive_reason: 'Coalesced into Why Pain Hurts: Phenomenal Character and Causal Power'
+archive_reason: Coalesced into Pain, Consciousness, and Causal Power
 archived: true
 archived_date: 2026-02-22 14:45:00+00:00
 author: null
@@ -33,7 +33,7 @@ related_articles:
 - '[[evolutionary-case-for-mental-causation]]'
 - '[[topics/phenomenal-value-realism]]'
 - '[[placebo-effect-and-mental-causation]]'
-superseded_by: /topics/why-pain-hurts/
+superseded_by: /topics/pain-consciousness-and-causal-power/
 title: Consciousness and Pain
 topics:
 - '[[hard-problem-of-consciousness]]'

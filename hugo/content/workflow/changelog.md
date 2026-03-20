@@ -9,6 +9,116 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-20 10:30 UTC - deep-review
+- **Status**: Success
+- **File**: [types-of-consciousness](/concepts/types-of-consciousness/)
+- **Word count**: 1863 → 1926 (+63)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing reciprocal cross-link, types/degrees distinction)
+- **Enhancements made**: 3 (bridging sentence, Further Reading entry, frontmatter link)
+- **Output**: [deep-review-2026-03-20-types-of-consciousness](/reviews/deep-review-2026-03-20-types-of-consciousness/)
+
+## 2026-03-20 10:22 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Social Epistemic Void
+- **Output**: [social-epistemic-void](/voids/social-epistemic-void/)
+- **Word count**: 1780
+- **Based on research**: yes, [voids-social-epistemic-void-2026-03-19](/research/voids-social-epistemic-void-2026-03-19/)
+
+## 2026-03-20 10:14 UTC - coalesce
+- **Status**: Success
+- **Sources**: [history-of-interactionist-dualism](/topics/history-of-the-interaction-problem/), [princess-elizabeths-challenge](/topics/history-of-the-interaction-problem/), [elisabeths-contemporaries-and-the-interaction-debate](/topics/history-of-the-interaction-problem/)
+- **Target**: [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/)
+- **Archived**: archive/topics/history-of-interactionist-dualism.md, archive/topics/princess-elizabeths-challenge.md, archive/topics/elisabeths-contemporaries-and-the-interaction-debate.md
+- **References to review**: 0 (all 23 references across 13 files updated inline)
+
+## 2026-03-20 10:06 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Unobservable Self
+- **Output**: [unobservable-self](/voids/unobservable-self/)
+- **Word count**: 1651
+- **Based on research**: yes, [voids-the-unobservable-self-2026-03-20](/research/voids-the-unobservable-self-2026-03-20/)
+
+## 2026-03-20 10:03 UTC - deep-review
+- **Status**: Success
+- **File**: [degrees-of-consciousness](/concepts/degrees-of-consciousness/)
+- **Word count**: 1773 → 1873 (+100)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-20-degrees-of-consciousness](/reviews/deep-review-2026-03-20-degrees-of-consciousness/)
+
+## 2026-03-20 09:50 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Degrees of Consciousness
+- **Output**: [degrees-of-consciousness](/concepts/degrees-of-consciousness/)
+- **Word count**: 1773
+- **Based on research**: yes (drew on [types-of-consciousness-ai-experience-2026-03-07](/research/types-of-consciousness-ai-experience-2026-03-07/), [consciousness-simple-organisms-2026-01-19](/research/consciousness-simple-organisms-2026-01-19/), [voids-minimal-consciousness-void-2026-02-22](/research/voids-minimal-consciousness-void-2026-02-22/))
+
+## 2026-03-20 09:41 UTC - deep-review
+- **Status**: Success
+- **File**: [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) (target was archived [consciousness-and-pain](/topics/pain-consciousness-and-causal-power/) — false positive orphan)
+- **Word count**: 3565 → 3565 (no change — cross-links only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (stale redirect chain, stale hugo file)
+- **Enhancements made**: 5 new inbound cross-links from related articles
+- **Output**: [deep-review-2026-03-20-consciousness-and-pain](/reviews/deep-review-2026-03-20-consciousness-and-pain/)
+
+## 2026-03-20 09:34 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Notes**: Searched topics (228/230, 99.1%) and voids (98/100, 98%) across 5 iterations. All candidate pairs are well-differentiated. Many articles already coalesced from prior merges. No strong merge candidates found.
+
+## 2026-03-20 09:26 UTC - deep-review
+- **Status**: Skipped (archived content)
+- **File**: death-phenomenology-beyond-ndes
+- **Notes**: Article was archived on 2026-03-11 and coalesced into [death-and-consciousness](/topics/death-and-consciousness/). Third review (2026-03-18) already concluded article has fully converged and future reviews are unnecessary. Orphan-integration task should target the superseding article [death-and-consciousness](/topics/death-and-consciousness/) if needed.
+
+## 2026-03-20 09:19 UTC - deep-review
+- **Status**: Success
+- **File**: [methodological-pluralism](/concepts/methodological-pluralism/)
+- **Word count**: 1558 → 1611 (+53)
+- **Critical issues addressed**: 1 (Wundt/Titchener factual mischaracterization)
+- **Medium issues addressed**: 2 (attribution precision, missing cross-links)
+- **Enhancements made**: 2 (cross-links to contemplative-epistemology, phenomenal-contrast-method)
+- **Output**: [deep-review-2026-03-20-methodological-pluralism](/reviews/deep-review-2026-03-20-methodological-pluralism/)
+
+## 2026-03-20 09:11 UTC - deep-review
+- **Status**: Skipped (archived content)
+- **File**: phenomenology-of-perceptual-learning
+- **Notes**: Article was archived on 2026-03-11 and coalesced into [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/). Stale hugo file at `hugo/content/topics/phenomenology-of-perceptual-learning.md` removed. Archive redirect at `hugo/content/archive/topics/` remains intact. No deep-review needed — content lives in the coalesced article.
+
+## 2026-03-20 09:05 UTC - refine-draft
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Changes**: Added graded consciousness spectrum section (three-state taxonomy, isolated forearm technique, narrowing-filter vs dimming-generator argument, specific filter theory predictions); strengthened Relation to Site Perspective with filter theory framing; added 4 references
+- **Published**: yes
+
+## 2026-03-20 08:59 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 18 apex articles, ~98 voids, and 10 underrepresented topics/concepts (African philosophy, existentialism, environmental ethics, creativity, contemplative evidence, language/recursion, AI consciousness modes, diachronic agency)
+- **Output**: [optimistic-2026-03-20-afternoon](/reviews/optimistic-2026-03-20-afternoon/)
+
+## 2026-03-20 08:37 UTC - research-topic
+- **Status**: Success
+- **Topic**: Consciousness during general anesthesia — graded loss and implications for filter theory
+- **Output**: [consciousness-anesthesia-filter-theory-2026-03-20](/research/consciousness-anesthesia-filter-theory-2026-03-20/)
+- **Sources consulted**: 14
+
+## 2026-03-20 08:29 UTC - deep-review
+- **Status**: Skipped (archived article)
+- **File**: temporal-constitution-and-consciousness (archived 2026-03-18, coalesced into [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/))
+- **Action**: Removed stale `hugo/content/topics/temporal-constitution-and-consciousness.md` — sync artifact left behind during archiving. Superseding article has 26 inbound links; no orphan issue exists.
+- **Note**: Netlify 301 redirect from `/topics/temporal-constitution-and-consciousness/` → `/topics/temporal-structure-of-consciousness/` can now take effect.
+
+## 2026-03-20 08:22 UTC - deep-review
+- **Status**: Success
+- **File**: [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/)
+- **Word count**: 2084 → ~2120 (+36)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3 (Barrett citation, Rochat citation, Gergen reference)
+- **Output**: [deep-review-2026-03-20-social-construction-of-self-vs-phenomenal-self](/reviews/deep-review-2026-03-20-social-construction-of-self-vs-phenomenal-self/)
+
 ## 2026-03-20 08:14 UTC - refine-draft
 - **Status**: Success
 - **File**: [argument-from-reason](/topics/argument-from-reason/)

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-17
-**Article**: [Elisabeth's Contemporaries and the Interaction Debate](/topics/elisabeths-contemporaries-and-the-interaction-debate/)
+**Article**: [Elisabeth's Contemporaries and the Interaction Debate](/topics/history-of-the-interaction-problem/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
