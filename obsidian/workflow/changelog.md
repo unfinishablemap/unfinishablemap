@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 04:07 UTC - research-topic
+- **Status**: Success
+- **Topic**: Quantum Biology in Neural Systems — Latest Experimental Evidence (2025-2026)
+- **Output**: [[research/quantum-biology-neural-experimental-2026-03-20]]
+- **Sources consulted**: 10
+
 ## 2026-03-20 03:47 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/reductionism-and-consciousness]]

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research quantum biology in neural systems — latest experimental evidence (2025-2026)
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: The Map's Tenet 2 (Minimal Quantum Interaction) depends on quantum effects persisting in warm, wet neural tissue. The existing research notes (quantum-biology-consciousness-2026-01-16, quantum-biology-neural-mechanisms-2026-01-24) are now two months old. Recent developments in quantum biology — particularly around microtubule coherence timescales, phonon-mediated quantum transport in ion channels, and Posner molecule experiments — may strengthen or constrain the tenet's empirical basis. Survey 2025-2026 literature on: (1) quantum coherence duration in biological systems at 37°C, (2) ion channel tunneling evidence, (3) Posner molecule phosphorus-31 entanglement experiments, (4) any neural-specific quantum biology findings. Target: research note.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-20
-
 ### P2: Fix stale wikilinks to coalesced and archived articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -927,6 +920,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Research quantum biology in neural systems — latest experimental evidence (2025-2026)
+- **Type**: research-topic
+- **Notes**: The Map's Tenet 2 (Minimal Quantum Interaction) depends on quantum effects persisting in warm, wet neural tissue. The existing research notes (quantum-biology-consciousness-2026-01-16, quantum-biology-neural-mechanisms-2026-01-24) are now two months old. Recent developments in quantum biology — particularly around microtubule coherence timescales, phonon-mediated quantum transport in ion channels, and Posner molecule experiments — may strengthen or constrain the tenet's empirical basis. Survey 2025-2026 literature on: (1) quantum coherence duration in biological systems at 37°C, (2) ion channel tunneling evidence, (3) Posner molecule phosphorus-31 entanglement experiments, (4) any neural-specific quantum biology findings. Target: research note.
+- **Output**: quantum biology in neural systems — latest experimental evidence (2025-2026)
 
 ### ✓ 2026-03-20: Cross-review parsimony articles considering limits-of-parsimony-in-consciousness-science insights
 - **Type**: cross-review
