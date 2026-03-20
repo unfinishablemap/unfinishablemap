@@ -8,8 +8,8 @@ ai_modified: 2026-02-18T02:32:00+00:00
 draft: false
 archived: true
 archived_date: 2026-02-22T14:45:00+00:00
-superseded_by: "/topics/why-pain-hurts/"
-archive_reason: "Coalesced into Why Pain Hurts: Phenomenal Character and Causal Power"
+superseded_by: "/topics/pain-consciousness-and-causal-power/"
+archive_reason: "Coalesced into Pain, Consciousness, and Causal Power"
 original_path: "/topics/consciousness-and-pain/"
 topics:
   - "[[hard-problem-of-consciousness]]"

@@ -4,7 +4,7 @@ description: "Anaesthetic pharmacology maps the consciousness-brain interface wi
 created: 2026-02-23
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T09:05:00+00:00
+ai_modified: 2026-03-20T09:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -57,7 +57,7 @@ Different anaesthetic classes disrupt different aspects of conscious experience,
 
 Propofol, acting primarily through GABA-A receptors, abolishes phenomenal experience almost completely. Patients report nothing — no dreams, no sense of time, no residual awareness. Brain complexity measured by the perturbational complexity index (PCI) drops dramatically. The posterior cortical "hot zone" identified by recent adversarial consciousness research as the substrate of conscious content falls largely silent.
 
-This suggests GABA-A-mediated inhibition disrupts the interface component responsible for phenomenal presence itself — the basic fact that there is something it is like. The [[direction-of-fit|world-to-mind directedness]] of experience — pain's inherent aim at cessation, desire's orientation toward satisfaction — vanishes alongside phenomenal content.
+This suggests GABA-A-mediated inhibition disrupts the interface component responsible for phenomenal presence itself — the basic fact that there is something it is like. The [[direction-of-fit|world-to-mind directedness]] of experience — [[pain-consciousness-and-causal-power|pain's inherent aim at cessation]], desire's orientation toward satisfaction — vanishes alongside phenomenal content.
 
 ### Content Without Access
 
@@ -151,6 +151,7 @@ Anaesthetic pharmacology connects to each of the Map's [[tenets]] in concrete wa
 - [[binding-problem]] — Temporal and spatial binding challenges relevant to anaesthetic disruption
 - [[attention-as-interface]] — Attention as the mechanism through which consciousness acts
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis: anaesthetic dissociations compared with four other altered states in a convergence matrix
+- [[pain-consciousness-and-causal-power]] — Pain's resistance to reduction and the decisive test case of pain asymbolia
 
 ## References
 

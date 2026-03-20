@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 09:41 UTC - deep-review
+- **Status**: Success
+- **File**: [[pain-consciousness-and-causal-power]] (target was archived [[consciousness-and-pain]] — false positive orphan)
+- **Word count**: 3565 → 3565 (no change — cross-links only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (stale redirect chain, stale hugo file)
+- **Enhancements made**: 5 new inbound cross-links from related articles
+- **Output**: [[reviews/deep-review-2026-03-20-consciousness-and-pain]]
+
 ## 2026-03-20 09:34 UTC - coalesce
 - **Status**: Abandoned (no candidates)
 - **Notes**: Searched topics (228/230, 99.1%) and voids (98/100, 98%) across 5 iterations. All candidate pairs are well-differentiated. Many articles already coalesced from prior merges. No strong merge candidates found.

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate consciousness-and-pain.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has only 1 inbound link. Created 2026-02-15. Topics article on pain phenomenology and the consciousness interface. Add cross-references from related articles (qualia, phenomenal-consciousness, placebo-effect-and-mental-causation, anaesthesia-and-the-consciousness-interface, content-specific-mental-causation) to strengthen site navigation.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-20
-
 ### P2: Write concept page on degrees of consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -977,6 +970,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Integrate consciousness-and-pain.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has only 1 inbound link. Created 2026-02-15. Topics article on pain phenomenology and the consciousness interface. Add cross-references from related articles (qualia, phenomenal-consciousness, placebo-effect-and-mental-causation, anaesthesia-and-the-consciousness-interface, content-specific-mental-causation) to strengthen site navigation.
+- **Output**: consciousness-and-pain.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-20: Integrate death-phenomenology-beyond-ndes.md into site navigation
 - **Type**: integrate-orphan
