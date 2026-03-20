@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for the von Neumann-Wigner interpretation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: The consciousness-causes-collapse hypothesis (von Neumann 1932, Wigner 1961, London-Bauer 1939) is the historical foundation for the Map's core mechanism (Tenet 2). Referenced across 17+ articles (comparing-quantum-consciousness-mechanisms, qm-interpretations-beyond-many-worlds, experimental-design-for-consciousness-collapse-testing, born-rule-derivation-failures, mathematical-structure-of-the-consciousness-physics-interface, etc.) but has no dedicated concept page. Should cover the original formulation, distinction from Orch OR and Stapp's approach, and why the Map refines rather than adopts it wholesale. Target section: concepts/.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-20
-
 ### P2: Research limits of parsimony arguments in consciousness science
 - **Type**: research-topic
 - **Status**: pending
@@ -879,6 +872,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Create concept page for the von Neumann-Wigner interpretation
+- **Type**: expand-topic
+- **Notes**: The consciousness-causes-collapse hypothesis (von Neumann 1932, Wigner 1961, London-Bauer 1939) is the historical foundation for the Map's core mechanism (Tenet 2). Referenced across 17+ articles (comparing-quantum-consciousness-mechanisms, qm-interpretations-beyond-many-worlds, experimental-design-for-consciousness-collapse-testing, born-rule-derivation-failures, mathematical-structure-of-the-consciousness-physics-interface, etc.) but has no dedicated concept page. Should cover the original formulation, distinction from Orch OR and Stapp's approach, and why the Map refines rather than adopts it wholesale. Target section: concepts/.
+- **Output**: Create concept page for the von Neumann-Wigner interpretation
 
 ### ✓ 2026-03-20: Condense russellian-monism.md (3830 words, 109% of hard threshold)
 - **Type**: condense
