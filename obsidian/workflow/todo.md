@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on phenomenology of volitional control
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/phenomenology-volitional-control-2026-03-20.md. Libet experiments have been substantially reinterpreted (Schurger 2012 stochastic noise, Brass-Haggard veto correlates, Mele philosophical critiques). Synthesise into article covering phenomenology of agency, conscious veto evidence, and implications for Tenet 3 (Bidirectional Interaction). Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-20
-
 ### P2: Research terminal lucidity — systematic evidence for filter/transmission theory
 - **Type**: research-topic
 - **Status**: pending
@@ -966,6 +959,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Write article on phenomenology of volitional control
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenology-volitional-control-2026-03-20.md. Libet experiments have been substantially reinterpreted (Schurger 2012 stochastic noise, Brass-Haggard veto correlates, Mele philosophical critiques). Synthesise into article covering phenomenology of agency, conscious veto evidence, and implications for Tenet 3 (Bidirectional Interaction). Target section: topics/.
+- **Output**: phenomenology of volitional control
 
 ### ✓ 2026-03-20: Write voids article on the mutation void
 - **Type**: expand-topic

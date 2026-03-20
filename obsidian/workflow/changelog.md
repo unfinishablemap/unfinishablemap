@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 06:10 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenology of volitional control
+- **Output**: [[topics/phenomenology-of-volitional-control]]
+- **Word count**: 1992
+- **Based on research**: yes, [[research/phenomenology-volitional-control-2026-03-20]]
+
 ## 2026-03-20 06:06 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/the-participatory-universe]]
