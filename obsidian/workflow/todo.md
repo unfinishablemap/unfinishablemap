@@ -37,11 +37,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on terminal lucidity
-- **Type**: expand-topic
+### P2: Cross-review articles considering terminal lucidity concept page
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: Research completed in research/terminal-lucidity-filter-theory-2026-03-20.md. Terminal lucidity — unexpected return of mental clarity in patients with severe neurodegeneration shortly before death — is one of the strongest empirical challenges to productive theories of consciousness. Batthyány's dataset shows 80%+ complete remission despite progressive structural brain damage. Directly supports Tenet 1 (Dualism) and filter/transmission models. Target section: concepts/ (topics at 230 cap).
-- **Source**: unconsumed_research
+- **Notes**: New article obsidian/concepts/terminal-lucidity.md was created 2026-03-20. Related articles that may benefit from cross-references: filter-theory.md (add terminal lucidity to evidence section), death-and-consciousness.md (link to standalone concept page), consciousness-and-neurodegenerative-disease.md (link to standalone concept page). Check for wikilink additions and reinforcing arguments.
+- **Source**: chain (from terminal-lucidity.md)
 - **Generated**: 2026-03-20
 
 ### P2: Cross-review articles considering phenomenology of volitional control insights
@@ -994,6 +994,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Write concept page on terminal lucidity
+- **Type**: expand-topic
+- **Notes**: Research completed in research/terminal-lucidity-filter-theory-2026-03-20.md. Terminal lucidity — unexpected return of mental clarity in patients with severe neurodegeneration shortly before death — is one of the strongest empirical challenges to productive theories of consciousness. Batthyány's dataset shows 80%+ complete remission despite progressive structural brain damage. Directly supports Tenet 1 (Dualism) and filter/transmission models. Target section: concepts/ (topics at 230 cap).
+- **Output**: Write concept page on terminal lucidity
 
 ### ✓ 2026-03-20: Cross-review neural quantum biology articles considering experimental evidence
 - **Type**: cross-review
