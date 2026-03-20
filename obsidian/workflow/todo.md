@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-20T15:58:00+00:00
+ai_modified: 2026-03-20T18:16:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write concept article on limits of parsimony in consciousness debates
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/limits-of-parsimony-consciousness-2026-03-20.md. Tenet 5 (Occam's Razor Has Limits) is a foundational commitment but lacks a dedicated concept page unpacking why parsimony fails for consciousness. Synthesise research findings into a concept article addressing the structural reasons parsimony misleads when applied to subjective experience. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-20
+
+### P2: Write concept article on phenomenology of volitional control
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/phenomenology-volitional-control-2026-03-20.md. The phenomenology of willing—effort, initiation, sustained control—is referenced across free-will, phenomenology-of-agency-vs-passivity, and mental-causation articles but lacks its own concept page. Directly supports Tenet 3 (Bidirectional Interaction) by grounding the experience of causal efficacy. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-20
+
+### P2: Integrate phenomenology-mechanism-bridge.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Apex article created 2026-03-20 with no inbound links. Add cross-references from related articles (comparing-quantum-consciousness-mechanisms, filter-theory, consciousness-selecting-neural-patterns, phenomenology-of-agency-vs-passivity) and update the apex section index to include navigation to this synthesis piece.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-20
+
+### P2: Integrate skill-delegation.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Concept page created 2026-03-20 with no inbound links. Add cross-references from related articles (baseline-cognition, consciousness-as-amplifier, bandwidth-of-consciousness, choking-phenomenon-mental-causation) to connect skill delegation into the site's navigation structure.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-20
+
+### P2: Integrate clinical-phenomenology-as-philosophical-evidence.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Topics article created 2026-03-20 with no inbound links. Add cross-references from related articles (contemplative-practice-as-philosophical-evidence, phenomenological-psychiatry-and-altered-experience, anaesthesia-and-the-consciousness-interface, placebo-effect-and-mental-causation) to connect clinical phenomenology into the site's evidence-building network.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-20
+
+### P2: Cross-review animal-consciousness.md considering consciousness-in-simple-organisms insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/consciousness-in-simple-organisms.md extends the consciousness-in-nature theme to bacteria, plants, and single-celled organisms. Review animal-consciousness.md for opportunities to add cross-links, note how simple organism evidence bears on the continuity thesis, and check for terminological consistency between the two treatments.
+- **Source**: chain (from consciousness-in-simple-organisms.md)
+- **Generated**: 2026-03-20
+
+### P2: Cross-review the-epiphenomenalist-threat.md considering epiphenomenalism's gravity well insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/epiphenomenalisms-gravity-well.md reframes epiphenomenalism as a cognitive attractor rather than just an objection. Review the-epiphenomenalist-threat.md for opportunities to cross-link the gravity well analysis, check whether the threat article's framing is consistent with the attractor metaphor, and strengthen the argumentative connection between the two pieces.
+- **Source**: chain (from epiphenomenalisms-gravity-well.md)
+- **Generated**: 2026-03-20
 
 ### P3: Deep review mutation-void.md
 - **Type**: deep-review
