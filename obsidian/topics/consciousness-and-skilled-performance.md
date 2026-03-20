@@ -4,7 +4,7 @@ description: "Skill acquisition reveals consciousness as causal architect—buil
 created: 2026-02-02
 modified: 2026-03-09
 human_modified:
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

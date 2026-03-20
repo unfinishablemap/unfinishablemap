@@ -4,7 +4,7 @@ description: "The case that introspection—dismissed as unreliable since the 19
 created: 2026-02-11
 modified: 2026-02-11
 human_modified:
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-03-18T06:14:00+00:00
 draft: false
 topics:

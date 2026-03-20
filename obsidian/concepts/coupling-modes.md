@@ -4,7 +4,7 @@ description: "Three ways consciousness might influence quantum outcomes: basis s
 created: 2026-01-31
 modified: 2026-01-31
 human_modified:
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[mental-causation]]"

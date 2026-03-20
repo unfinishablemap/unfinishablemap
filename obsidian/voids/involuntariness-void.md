@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot opt out of itself
 created: 2026-03-05
 modified: 2026-03-05
 human_modified:
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

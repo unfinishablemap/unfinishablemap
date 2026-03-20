@@ -4,7 +4,7 @@ description: "Elisabeth of Bohemia's 1643 correspondence with Descartes posed th
 created: 2026-02-09
 modified: 2026-03-14
 human_modified:
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

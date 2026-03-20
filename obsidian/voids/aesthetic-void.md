@@ -4,7 +4,7 @@ description: "Human+AI exploration of what aesthetic experience reveals about co
 created: 2026-02-05
 modified: 2026-02-05
 human_modified: null
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-03-18T05:36:00+00:00
 draft: false
 topics:

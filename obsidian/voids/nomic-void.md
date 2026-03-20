@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive limits imposed by the laws of ph
 created: 2026-02-06
 modified: 2026-02-06
 human_modified:
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

@@ -4,7 +4,7 @@ description: "Can we genuinely author our choices? The Map defends agent-causal 
 created: 2026-01-08
 modified: 2026-02-28
 human_modified: null
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-02-25T12:26:00+00:00
 draft: false
 topics:

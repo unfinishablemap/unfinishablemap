@@ -4,7 +4,7 @@ description: "Consciousness and matter causally influence each other. This tenet
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-03-11T21:02:00+00:00
 draft: false
 topics:

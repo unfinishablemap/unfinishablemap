@@ -4,7 +4,7 @@ description: "How the Map's interface framework transforms biological teleology 
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

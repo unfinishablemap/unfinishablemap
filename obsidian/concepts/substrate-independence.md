@@ -4,7 +4,7 @@ description: "The thesis that consciousness depends on functional organization a
 created: 2026-01-19
 modified: 2026-02-02
 human_modified: null
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"

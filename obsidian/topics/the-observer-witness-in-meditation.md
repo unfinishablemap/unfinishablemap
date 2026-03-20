@@ -4,7 +4,7 @@ description: "What meditation's witness state reveals about consciousness: that 
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"

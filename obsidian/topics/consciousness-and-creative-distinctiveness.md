@@ -4,7 +4,7 @@ description: "Human creativity differs in kind from animal innovation and AI gen
 created: 2026-02-01
 modified: 2026-02-25
 human_modified:
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 draft: false
 last_deep_review: 2026-02-25T06:57:00+00:00
 topics:

@@ -4,7 +4,7 @@ description: "The intrinsic, subjective qualities of conscious experience—the 
 created: 2026-01-07
 modified: 2026-02-28
 human_modified:
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

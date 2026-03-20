@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 08:09 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/altered-states-of-consciousness]]
+- **Changes**: Added "What Would Challenge This View?" section (falsifiability); reframed ketamine/propofol argument to engage sophisticated production theory
+- **Published**: yes
+
 ## 2026-03-20 07:59 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/altered-states-of-consciousness.md, topics/argument-from-reason.md, concepts/attention-schema-theory.md

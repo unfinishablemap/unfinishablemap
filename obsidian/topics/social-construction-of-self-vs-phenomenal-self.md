@@ -4,7 +4,7 @@ description: "Two accounts of selfhood compete: social construction (self as cul
 created: 2026-02-12
 modified: 2026-02-16
 human_modified:
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[personal-identity]]"

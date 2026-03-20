@@ -3,7 +3,7 @@ title: Contemplative Neuroscience
 description: "Meditation research integrates first-person phenomenology with third-person neuroscience, producing neuroplastic changes that demonstrate bidirectional interaction between consciousness and brain."
 created: 2026-01-23
 modified: 2026-02-05
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

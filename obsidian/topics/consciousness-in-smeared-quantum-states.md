@@ -4,7 +4,7 @@ description: "What is consciousness doing during quantum superposition? Five fra
 created: 2026-02-10
 modified: 2026-02-10
 human_modified:
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

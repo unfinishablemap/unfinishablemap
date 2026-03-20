@@ -4,7 +4,7 @@ description: "How we access mathematical truth and what that access feels likeâ€
 created: 2026-02-08
 modified: 2026-03-15
 human_modified:
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

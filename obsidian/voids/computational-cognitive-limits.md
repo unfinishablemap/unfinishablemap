@@ -4,7 +4,7 @@ description: "Human+AI exploration of formal limits on what any algorithmic mind
 created: 2026-01-27
 modified: 2026-01-31
 human_modified: null
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 draft: false
 last_deep_review: 2026-03-16T03:32:00+00:00
 topics:

@@ -4,7 +4,7 @@ description: "The possibility that different conscious systems couple with matte
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[comparative-consciousness-and-interface-differences]]"

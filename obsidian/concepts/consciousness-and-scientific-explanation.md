@@ -4,7 +4,7 @@ description: "Dualism does not stop science—it redirects it. Neural correlates
 created: 2026-02-23
 modified: 2026-02-24
 human_modified:
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

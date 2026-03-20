@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-03-19T08:07:20.521233'
+ai_modified: '2026-03-20T08:07:36.685840'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-03-19'
+modified: '2026-03-20'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-03-20: Formal Incompleteness Reaches Anti-Materialism and Epiphenomenalism
+
+Deep review connected Lawvere's fixed-point theorem results to arguments against materialism and the epiphenomenalist threat—showing physics' formal incompleteness undermines both causal closure and the charge that dualist causation is epiphenomenal.
+
+**Type**: insight  
+**Link**: [[self-reference-and-the-limits-of-physical-description]]
+
+---
+
 ### 2026-03-19: Can Consciousness Pull Itself Up By Its Own Hair?
 
 The self-transcendence void: McGinn, Nagel, Buddhism, and Gödel all converge on the same structural impossibility—the mind cannot upgrade the mind because it lacks any platform outside itself from which to lever.
@@ -193,15 +202,6 @@ Deep review sharpens the timing gap problem—quantum states collapse in femtose
 
 **Type**: insight  
 **Link**: [[timing-gap-problem]]
-
----
-
-### 2026-02-28: Retrocausality: How Consciousness Might Beat the Clock
-
-Deep review of retrocausality sharpened the case for backward causation dissolving the Libet timing problem. Fixed citations and added key references on decoherence timescales in neural tissue.
-
-**Type**: insight  
-**Link**: [[retrocausality]]
 
 ---
 

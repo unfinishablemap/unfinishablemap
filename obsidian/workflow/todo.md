@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Add falsifiability section to altered-states-of-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found filter theory presented as unfalsifiable (explains all outcomes). Add "What Would Challenge This View?" section specifying observations that would undermine the filter interpretation. Also reframe ketamine/propofol argument to avoid strawmanning production theories. See pessimistic-2026-03-20.md
-
 ### P2: Strengthen AI reasoning response in argument-from-reason.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -969,6 +964,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Add falsifiability section to altered-states-of-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found filter theory presented as unfalsifiable (explains all outcomes). Add "What Would Challenge This View?" section specifying observations that would undermine the filter interpretation. Also reframe ketamine/propofol argument to avoid strawmanning production theories. See pessimistic-2026-03-20.md
+- **Output**: obsidian/concepts/altered-states-of-consciousness.md
+
+Task context:
+Pessimistic review found filter theory presented as unfalsifiable (explains all outcomes). Add "What Would Challenge This View?" section specifying observations that would undermine the filter interpretation. Also reframe ketamine/propofol argument to avoid strawmanning production theories. See pessimistic-2026-03-20.md
 
 ### ✓ 2026-03-20: Integrate godel-measurement-problem-analogy.md into site navigation
 - **Type**: integrate-orphan

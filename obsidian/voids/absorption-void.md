@@ -4,7 +4,7 @@ description: "Human+AI exploration of the paradox at consciousness's peak: the m
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 draft: false
 topics: []
 concepts:

@@ -4,7 +4,7 @@ description: "Every major theory of scientific explanation fails with consciousn
 created: 2026-02-18
 modified: 2026-02-23
 human_modified:
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

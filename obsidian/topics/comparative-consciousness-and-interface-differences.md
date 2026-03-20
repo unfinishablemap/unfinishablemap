@@ -4,7 +4,7 @@ description: "Does consciousness vary in nature, in coupling mechanism, or both?
 created: 2026-02-01
 modified: 2026-03-07
 human_modified: null
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

@@ -4,7 +4,7 @@ description: "How felt goodness and badness may function as the common metric by
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-03-11T15:22:00+00:00
 draft: false
 topics:

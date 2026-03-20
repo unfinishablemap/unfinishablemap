@@ -4,7 +4,7 @@ description: "How do thoughts achieve their aboutness? Human+AI exploration of w
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-03-15T14:19:00+00:00
 draft: false
 topics:

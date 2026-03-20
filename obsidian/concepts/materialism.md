@@ -4,7 +4,7 @@ description: "Why physicalism fails to explain consciousness. The explanatory ga
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

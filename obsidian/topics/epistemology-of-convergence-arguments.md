@@ -4,7 +4,7 @@ description: "When multiple independent lines of reasoning—across methods, tra
 created: 2026-02-19
 modified: 2026-02-21
 human_modified:
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[the-convergence-argument-for-dualism]]"

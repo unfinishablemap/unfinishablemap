@@ -4,7 +4,7 @@ description: "Memory operates across both physical and non-physical domains—en
 created: 2026-03-09
 modified: 2026-03-09
 human_modified:
- 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[consciousness-and-memory]]"
