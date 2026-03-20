@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-20
-**Article**: [The Experimental Turn in Quantum Consciousness (2025-2026)](/topics/quantum-biology-neural-experimental-turn/)
+**Article**: [The Experimental Turn in Quantum Consciousness (2025-2026)](/topics/quantum-biology-and-neural-consciousness/)
 **Previous review**: [2026-03-20](/reviews/deep-review-2026-03-20-quantum-biology-neural-experimental-turn/) (same day, initial review)
 **Context**: Cross-review considering quantum biology in neural systems insights
 
@@ -57,7 +57,7 @@ topics: []
 ## Cross-Review Notes
 
 Checked consistency with sibling articles:
-- **[quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/)**: Coverage consistent. That article covers broader framing; this one appropriately narrows to 2025-2026 developments.
+- **[quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/)**: Coverage consistent. That article covers broader framing; this one appropriately narrows to 2025-2026 developments.
 - **[quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)**: Detailed mechanism descriptions consistent. QBIT theory coverage aligns. Epothilone B study and twin study findings match.
 - **[comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)**: Mechanism evaluations consistent. Already cross-linked in Further Reading.
 - **[quantum-biology](/concepts/quantum-biology/)**: Established quantum biology findings referenced consistently.

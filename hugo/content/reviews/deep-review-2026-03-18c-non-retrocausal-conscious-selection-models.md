@@ -61,7 +61,7 @@ All attributions verified in previous review and remain accurate. No changes to 
 - [mental-causation](/concepts/mental-causation/) — added in quantum indeterminacy paragraph
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — added in consciousness selection section
 - [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — added parenthetical in mechanism list
-- [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) — added in consciousness-as-candidate paragraph
+- [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/) — added in consciousness-as-candidate paragraph
 
 ## Remaining Items
 

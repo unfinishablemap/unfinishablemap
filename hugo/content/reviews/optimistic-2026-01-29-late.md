@@ -185,7 +185,7 @@ The [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) 
 | [vertiginous-question](/topics/vertiginous-question/) | [many-worlds](/concepts/many-worlds/) | MWI makes the vertiginous question unanswerable |
 | [meaning-and-consciousness](/topics/consciousness-and-semantic-understanding/) | [argument-from-reason](/topics/argument-from-reason/) | Both argue consciousness is required for genuine understanding |
 | [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) | [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) | Theoretical and practical aspects of contemplative evidence |
-| [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) | [decoherence](/concepts/decoherence/) | Biological quantum effects address decoherence objection |
+| [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/) | [decoherence](/concepts/decoherence/) | Biological quantum effects address decoherence objection |
 | [death-and-consciousness](/topics/death-and-consciousness/) | [filter-theory](/concepts/filter-theory/) | Filter model explains why brain compromise sometimes enhances experience |
 
 ## New Concept Pages Needed

@@ -30,7 +30,7 @@ topics: []
 - [2021 meta-analysis uncited]: Resolution — added journal name (*Neuroscience & Biobehavioral Reviews*) inline for traceability
 - [No engagement with decoherence when claiming quantum selection]: Resolution — added cross-references to [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/) and [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) where quantum selection is claimed, noting timing constraints remain under active investigation
 - [Clinical evidence unsupported]: Resolution — added Gallagher (2000) citation for schizophrenia/agency dissociation claims
-- [Missing cross-links to sibling articles]: Resolution — added links to [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/), [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/), [quantum-biology-neural-experimental-turn](/topics/quantum-biology-neural-experimental-turn/), [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
+- [Missing cross-links to sibling articles]: Resolution — added links to [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/), [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/), [quantum-biology-neural-experimental-turn](/topics/quantum-biology-and-neural-consciousness/), [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
 - [Sjöberg (2024) SMA evidence absent]: Resolution — added Sjöberg's SMA resection finding as independent confirmation of Schurger's reinterpretation, with full citation
 
 ### Counterarguments Considered
@@ -61,7 +61,7 @@ topics: []
 ### Cross-links Added
 - [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/)
 - [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/)
-- [quantum-biology-neural-experimental-turn](/topics/quantum-biology-neural-experimental-turn/)
+- [quantum-biology-neural-experimental-turn](/topics/quantum-biology-and-neural-consciousness/)
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
 
 ## Remaining Items

@@ -30,7 +30,7 @@ The convergence argument deserves special recognition. Seven independent argumen
 
 ### The Quantum Mind Theorist (Stapp)
 
-[quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) represents the state of the art in treating the physics-consciousness interface seriously. The shift from defensive to offensive posture is masterful: "Quantum biology has shifted the burden of proof in consciousness debates. For decades, critics dismissed quantum approaches to consciousness with a simple objection: biological systems are too warm, wet, and noisy for quantum effects. The brain, they argued, is a classical computer made of classical parts. We now know this is empirically false."
+[quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/) represents the state of the art in treating the physics-consciousness interface seriously. The shift from defensive to offensive posture is masterful: "Quantum biology has shifted the burden of proof in consciousness debates. For decades, critics dismissed quantum approaches to consciousness with a simple objection: biological systems are too warm, wet, and noisy for quantum effects. The brain, they argued, is a classical computer made of classical parts. We now know this is empirically false."
 
 The January 2026 Princeton avian magnetoreception study, the quantum Zeno effect in cryptochrome, the enzyme catalysis tunnelling evidence—all marshalled to demonstrate that "if evolution can optimize quantum effects for navigation, it might optimize them for consciousness."
 
@@ -85,7 +85,7 @@ The "folk error" accusation receives careful treatment: "cognitive naturalness d
 - **Notable quote**: "Even positing non-physical minds doesn't automatically answer the vertiginous question. Suppose there are non-physical souls. The question 'Why is *this* soul mine?' remains."
 - **Why it works**: Shows the problem is deeper than materialism vs. dualism; requires a framework that takes indexical identity seriously
 
-### [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/)
+### [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/)
 - **Strongest point**: The burden-shift argument—from "prove quantum effects can operate in brains" to "explain why brains should be categorically different from eyes, enzymes, and light-harvesting complexes"
 - **Notable quote**: "Birds navigate using quantum entanglement. Enzymes accelerate reactions through quantum tunnelling. Photosynthetic complexes exploit coherent superposition. The categorical objection has collapsed."
 - **Why it works**: Changes the dialectical landscape; critics must now explain absence rather than defenders proving presence
@@ -151,7 +151,7 @@ The "folk error" accusation receives careful treatment: "cognitive naturalness d
 |------|-----|--------|
 | [baseline-cognition](/concepts/baseline-cognition/) | [vertiginous-question](/topics/vertiginous-question/) | Great apes may lack the indexical self-awareness that makes the vertiginous question arise |
 | [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) | [baseline-cognition](/concepts/baseline-cognition/) | Meditation training as evidence that consciousness does causal work—expanding beyond baseline |
-| [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) | [binding-problem](/concepts/binding-problem/) | If quantum entanglement underlies neural binding, these articles should reinforce each other |
+| [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/) | [binding-problem](/concepts/binding-problem/) | If quantum entanglement underlies neural binding, these articles should reinforce each other |
 | [knowledge-argument](/concepts/knowledge-argument/) | [consciousness-only-territories](/voids/consciousness-only-territories/) | Mary's learning illustrates territories accessible only through conscious experience |
 | [haecceity](/concepts/haecceity/) | [moral-responsibility](/concepts/moral-responsibility/) | Haecceity grounds desert—*this* agent did *this* action |
 | [vertiginous-question](/topics/vertiginous-question/) | [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) | Both address why indexical facts resist third-person reduction |

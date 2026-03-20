@@ -28,7 +28,7 @@ None. The article was already well-structured from the previous review with comp
 
 ### Medium Issues Found
 
-1. **Missing cross-references to quantum biology content**: Despite extensive discussion of quantum effects in biological systems, the article did not link to the dedicated [quantum-biology](/concepts/quantum-biology/) concept page or [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) topic.
+1. **Missing cross-references to quantum biology content**: Despite extensive discussion of quantum effects in biological systems, the article did not link to the dedicated [quantum-biology](/concepts/quantum-biology/) concept page or [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/) topic.
    - *Resolution*: Added both to concepts frontmatter and Further Reading section.
 
 2. **Decoherence timescale gap unaddressed**: The article mentioned 10⁻⁵ to 10⁻⁴ second coherence times but did not acknowledge this is still orders of magnitude shorter than conscious decision timescales (~300ms).
@@ -71,7 +71,7 @@ All six pessimistic personas were applied:
 
 1. **Added quantum biology cross-references** (~30 words gained through rewording):
    - [quantum-biology](/concepts/quantum-biology/) to concepts frontmatter
-   - [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) to related_articles
+   - [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/) to related_articles
    - [neural-quantum-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) to concepts frontmatter
    - Three new entries in Further Reading section
 
@@ -89,7 +89,7 @@ All six pessimistic personas were applied:
 
 ### Cross-links Added
 - [quantum-biology](/concepts/quantum-biology/)
-- [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/)
+- [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/)
 - [neural-quantum-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)
 
 ## Word Count

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-03-19 20:06:00+00:00
+ai_modified: 2026-03-20 17:19:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -39,6 +39,7 @@ related_articles:
 - '[[epiphenomenal-ai-consciousness]]'
 - '[[dualism]]'
 - '[[self-reference-and-the-limits-of-physical-description]]'
+- '[[metaproblem-of-consciousness-under-dualism]]'
 title: The Epiphenomenalist Threat
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -109,7 +110,7 @@ The pattern is consistent across positions:
 
 Every theory that takes both steps ends up at step 3 unless it identifies a specific point where consciousness makes a causal difference that physical description misses.
 
-This is why the epiphenomenalist threat is not one position's problem—it is the central problem of philosophy of mind. It is what makes the [hard problem](/topics/hard-problem-of-consciousness/) hard: not just explaining *why* consciousness exists, but explaining what it *does*.
+This is why the epiphenomenalist threat is not one position's problem—it is the central problem of philosophy of mind. It is what makes the [hard problem](/topics/hard-problem-of-consciousness/) hard: not just explaining *why* consciousness exists, but explaining what it *does*. The [metaproblem of consciousness](/topics/metaproblem-of-consciousness-under-dualism/) sharpens this diagnostic: positions that fall into the gravity well cannot explain why we *think* consciousness is problematic, since they deny consciousness the causal role needed to inform our reasoning about it.
 
 ## How the Map Escapes
 
@@ -192,6 +193,7 @@ The Map's framework is one of the few that provides all three elements needed to
 - [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) — Why current AI architectures block the coupling channel consciousness needs
 - [epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/) — The nature-coupling distinction and its consequences for machine minds
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — Formal mathematical case that physics is incomplete at the measurement interface
+- [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — Why positions in the gravity well fail the metaproblem diagnostic
 - [dualism](/concepts/dualism/) — The broader argument for taking consciousness as irreducible
 
 ## References
@@ -204,3 +206,12 @@ The Map's framework is one of the few that provides all three elements needed to
 1. Robinson, W.S. (2004). *Understanding Phenomenal Consciousness*. Cambridge University Press.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
+
+<!-- AI REFINEMENT LOG - 2026-03-20
+Changes made:
+- Added cross-link to metaproblem-of-consciousness-under-dualism in The Pattern section (gravity well positions fail metaproblem)
+- Added metaproblem to related_articles frontmatter and Further Reading
+
+Based on optimistic-2026-03-20-midday.md cross-linking suggestions.
+This log should be removed after human review.
+-->

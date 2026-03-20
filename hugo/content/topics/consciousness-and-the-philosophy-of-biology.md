@@ -22,7 +22,7 @@ last_deep_review: 2026-03-01 05:47:00+00:00
 modified: *id001
 related_articles:
 - '[[evolutionary-case-for-mental-causation]]'
-- '[[quantum-biology-and-the-consciousness-debate]]'
+- '[[quantum-biology-and-neural-consciousness]]'
 - '[[process-philosophy]]'
 - '[[quantum-biology]]'
 - '[[mental-causation]]'

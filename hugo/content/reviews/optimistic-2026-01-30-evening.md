@@ -28,7 +28,7 @@ Particularly impressive: the Map's careful handling of the conceivability-to-pos
 
 ### The Quantum Mind Theorist (Stapp)
 
-The Map engages seriously with the physics-consciousness interface while avoiding quantum woo. The treatment of quantum mechanisms ([quantum-consciousness](/concepts/quantum-consciousness/), [measurement-problem](/concepts/measurement-problem/), [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/)) is exemplary: it presents Stapp's quantum Zeno approach alongside Orch OR, acknowledges the decoherence objection honestly (citing both Tegmark's critique and Hagan et al.'s corrections), and uses biological quantum effects (avian magnetoreception, enzyme catalysis) as existence proofs that evolution can harness coherence.
+The Map engages seriously with the physics-consciousness interface while avoiding quantum woo. The treatment of quantum mechanisms ([quantum-consciousness](/concepts/quantum-consciousness/), [measurement-problem](/concepts/measurement-problem/), [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/)) is exemplary: it presents Stapp's quantum Zeno approach alongside Orch OR, acknowledges the decoherence objection honestly (citing both Tegmark's critique and Hagan et al.'s corrections), and uses biological quantum effects (avian magnetoreception, enzyme catalysis) as existence proofs that evolution can harness coherence.
 
 The **Minimal Quantum Interaction** tenet strikes exactly the right balance: committed enough to provide genuine theoretical content, modest enough to respect physics. The Map doesn't claim to know the mechanism; it holds that *some* such interface exists and explores what that requires.
 
@@ -167,7 +167,7 @@ The tripartite taxonomy (Unexplored, Unexplorable, Occluded) is philosophically 
 | [consciousness-only-territories](/voids/consciousness-only-territories/) | [knowledge-argument](/concepts/knowledge-argument/) | Mary's Room as paradigm case of consciousness-only territory |
 | [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) | [phenomenology](/concepts/phenomenology/) | Fineness-of-grain problem connects to pre-conceptual access |
 | [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) | [temporal-consciousness](/concepts/temporal-consciousness/) | Both address specious present; the former is the comprehensive topic article |
-| [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) | [decoherence](/concepts/decoherence/) | Recent evidence directly addresses decoherence objection |
+| [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/) | [decoherence](/concepts/decoherence/) | Recent evidence directly addresses decoherence objection |
 | [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) | [neurophenomenology](/concepts/neurophenomenology/) | Both argue first-person data has scientific value |
 | [vertiginous-question](/topics/vertiginous-question/) | [indexical-facts](/concepts/indexical-knowledge-and-identity/) | Vertiginous question is paradigm case of indexical irreducibility |
 

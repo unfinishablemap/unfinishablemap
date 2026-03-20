@@ -91,7 +91,7 @@ None. The article contains no factual errors, misattributions, or internal contr
 - [working-memory](/concepts/working-memory/) — dedicated treatment of working memory and consciousness
 - [psychophysical-laws](/concepts/psychophysical-laws/) — bridging laws for the relocated hard problem
 - [animal-consciousness](/topics/animal-consciousness/) — convergent consciousness across species
-- [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) — burden of proof shift
+- [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/) — burden of proof shift
 
 ## Remaining Items
 
@@ -102,5 +102,5 @@ None. The article contains no factual errors, misattributions, or internal contr
 ## Stability Notes
 
 - Eliminative materialist objections (folk psychology doesn't carve nature correctly) are a bedrock disagreement with the site's framework, not a flaw in this article. Future reviews should not re-flag this.
-- The quantum skeptic's decoherence objection is now addressed at appropriate depth for this article. The detailed treatment belongs in [quantum-decoherence-objection](/concepts/decoherence/) and [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/), not here.
+- The quantum skeptic's decoherence objection is now addressed at appropriate depth for this article. The detailed treatment belongs in [quantum-decoherence-objection](/concepts/decoherence/) and [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/), not here.
 - The Nagarjuna-style objection about reifying consciousness and matter is a challenge to dualism as such. It is addressed at the tenet level, not the article level. Future reviews should not re-flag this.

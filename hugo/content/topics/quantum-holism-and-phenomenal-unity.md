@@ -42,7 +42,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[neural-binding-quantum-entanglement-2026-01-19]]'
-- '[[quantum-biology-and-the-consciousness-debate]]'
+- '[[quantum-biology-and-neural-consciousness]]'
 - '[[the-binding-problem-a-systematic-treatment]]'
 - '[[structural-varieties-of-consciousness-and-ai-phenomenology]]'
 title: Quantum Holism and Phenomenal Unity
@@ -211,7 +211,7 @@ The Map holds that current evidence favours the quantum position while acknowled
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How quantum binding might amplify cognitive capacities
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Orch OR and other quantum consciousness theories
 - [quantum-biology](/concepts/quantum-biology/) — Established quantum effects in living systems
-- [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) — Why quantum biology shifts the burden of proof
+- [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Quantum biology, neural evidence convergence, and the consciousness debate
 - [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Detailed treatment of neural coherence evidence
 - [decoherence](/concepts/decoherence/) — Why quantum effects might persist in biological systems
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Natural experiments on when binding fails

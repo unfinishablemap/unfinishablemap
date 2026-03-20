@@ -62,7 +62,7 @@ topics: []
 
 ### Cross-links Added
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
-- [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/)
+- [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/)
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/)
 - [quantum-coherence-in-neural-systems](/concepts/quantum-neural-mechanisms-and-coherence/)
 - [attention-as-interface](/concepts/attention-as-interface/)

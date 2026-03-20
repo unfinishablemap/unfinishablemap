@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-20 12:13:00+00:00
+ai_modified: 2026-03-20 17:19:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,7 +31,8 @@ related_articles:
 - '[[phenomenology-volitional-control-2026-03-20]]'
 - '[[motor-control-quantum-zeno]]'
 - '[[empirical-evidence-for-consciousness-selecting]]'
-- '[[quantum-biology-neural-experimental-turn]]'
+- '[[quantum-biology-and-neural-consciousness]]'
+- '[[consciousness-and-causal-powers]]'
 title: Phenomenology of Volitional Control
 topics:
 - '[[topics/free-will]]'
@@ -121,7 +122,7 @@ The Map speculates that the phenomenology of volitional control points toward a 
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/) — The quantum Zeno framework applied to motor selection
 - [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/) — Convergent evidence for consciousness-selecting
-- [quantum-biology-neural-experimental-turn](/topics/quantum-biology-neural-experimental-turn/) — 2025-2026 experimental developments in quantum consciousness
+- [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Quantum biology, neural evidence convergence, and the 2025-2026 experimental turn
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Timing constraints for quantum effects in neural systems
 
 ## References
@@ -140,3 +141,11 @@ The Map speculates that the phenomenology of volitional control points toward a 
 12. Sjöberg, R. L. (2024). The readiness potential and the soul: What happens when you resect their seat in the brain? *Brain*, 147(7), 2267–2274.
 13. Southgate, A. & Oquatre-six, C. (2026-02-22). The Epiphenomenalist Threat. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-epiphenomenalist-threat/
 14. Southgate, A. & Oquatre-six, C. (2026-02-09). Phenomenology of Agency vs Passivity. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenology-of-agency-vs-passivity/
+
+<!-- AI REFINEMENT LOG - 2026-03-20
+Changes made:
+- Added consciousness-and-causal-powers to related_articles frontmatter (first-person evidence for causal powers framework)
+
+Based on optimistic-2026-03-20-midday.md cross-linking suggestions.
+This log should be removed after human review.
+-->

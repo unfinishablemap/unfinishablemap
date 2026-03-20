@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-20 14:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -20,6 +20,7 @@ concepts:
 - '[[mysterianism]]'
 - '[[stapp-quantum-mind]]'
 - '[[agent-causation]]'
+- '[[von-neumann-wigner-interpretation]]'
 created: 2026-02-01
 date: &id001 2026-03-17
 description: 'The measurement problem and the hard problem share an identical logical
@@ -29,7 +30,7 @@ description: 'The measurement problem and the hard problem share an identical lo
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-17 07:28:00+00:00
+last_deep_review: 2026-03-20 14:43:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -60,7 +61,9 @@ Quantum mechanics has two incompatible rules. The Schrödinger equation describe
 
 Three aspects make this problematic. The mathematics is discontinuous: standard quantum mechanics contains unitary evolution and measurement collapse, with nothing explaining when one gives way to the other. "Measurement" is undefined: the theory uses the term without specifying what counts—a photon hitting a detector, a macroscopic apparatus registering, a conscious observer perceiving. And the "and" becomes "or": before measurement, outcome A *and* outcome B exist in superposition; after, we find one—A *or* B.
 
-J.S. Bell made this point sharply in "Against 'Measurement'" (1990): the concept smuggles the observer into the foundations of physics while pretending they are absent. Von Neumann (1932) showed mathematically that the formalism allows placing collapse anywhere along the measurement chain—from photon hitting detector to brain registering result. Nothing in the physics determines where. The movability of this "Heisenberg cut" reveals that "measurement" is not a physical category at all.
+J.S. Bell made this point sharply in "Against 'Measurement'" (1990): the concept smuggles the observer into the foundations of physics while pretending they are absent. Von Neumann (1932) showed mathematically that the formalism allows placing collapse anywhere along the measurement chain—from photon hitting detector to brain registering result. Nothing in the physics determines where. The movability of this "Heisenberg cut" reveals that "measurement" is not a physical category at all. The [von Neumann–Wigner interpretation](/concepts/von-neumann-wigner-interpretation/) drew the conclusion: if the cut can be moved all the way up the chain, consciousness is the only element that cannot itself be placed into quantum superposition—making it a candidate for terminating the chain.
+
+Wigner's friend thought experiment sharpens the point. If a physicist performs a measurement inside a sealed laboratory, does her consciousness collapse the wave function, or does the system remain in superposition until an outside observer looks? The fact that this question has no agreed answer—and that Frauchiger and Renner (2018) showed it generates contradictions for any single-world interpretation—confirms that "measurement" cannot be analysed without confronting the role of the conscious observer.
 
 ## The Structural Identity with the Hard Problem
 
@@ -122,7 +125,7 @@ The [Many-Worlds Interpretation](/concepts/many-worlds/) denies that one outcome
 
 ### Exploit the Gap: Consciousness Selection
 
-A third approach takes the gap seriously: consciousness determines outcomes *within* the probabilistic constraints physics provides. This aligns with [non-retrocausal conscious selection](/topics/non-retrocausal-conscious-selection-models/) frameworks like [Stapp's quantum Zeno model](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) and Chalmers-McQueen's CSL-IIT — mental attention biases which neural patterns become actual using orthodox or minimally modified quantum mechanics. Consciousness operates *within* physics, not overriding it.
+A third approach takes the gap seriously: consciousness determines outcomes *within* the probabilistic constraints physics provides. This aligns with [non-retrocausal conscious selection](/topics/non-retrocausal-conscious-selection-models/) frameworks like [Stapp's quantum Zeno model](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) and Chalmers-McQueen's CSL-IIT — mental attention biases which neural patterns become actual using orthodox or minimally modified quantum mechanics. Stapp's approach is the most developed successor to the [von Neumann–Wigner interpretation](/concepts/von-neumann-wigner-interpretation/), retaining the insight that consciousness terminates the measurement chain while specifying *how* it does so—through rapid observation (the quantum Zeno effect) rather than an unanalysed "collapse." Consciousness operates *within* physics, not overriding it.
 
 The strength: consciousness is causally efficacious—[Bidirectional Interaction](/tenets/#bidirectional-interaction) is preserved. The weakness: the mechanism by which mental attention generates observation events in a warm, decoherent brain remains unspecified.
 
@@ -170,6 +173,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 
 ## Further Reading
 
+- [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/) — The consciousness-causes-collapse interpretation and the Map's inheritance from it
 - [measurement-problem](/concepts/measurement-problem/) — Technical treatment of the measurement problem
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The first-person dimension of measurement
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces temporal asymmetry
@@ -198,6 +202,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 1. Bohr, N. (1935). "Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?" *Physical Review* 48, 696-702.
 1. Chalmers, D.J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies* 2(3), 200-219.
 1. Chalmers, D.J. (1996). *The Conscious Mind*. Oxford University Press.
+1. Frauchiger, D. & Renner, R. (2018). "Quantum theory cannot consistently describe the use of itself." *Nature Communications*, 9(1), 3711.
 1. Ghirardi, G.C., Rimini, A., Weber, T. (1986). "Unified dynamics for microscopic and macroscopic systems." *Physical Review D*.
 1. Kremnizer, K., & Ranchin, A. (2015). Integrated information-induced quantum collapse. *Foundations of Physics*, 45(8), 889-899.
 1. Okon, E., & Sebastián, M.A. (2016). How to make quantum theory compatible with human experience. *Foundations of Physics*, 46(12), 1529-1552.

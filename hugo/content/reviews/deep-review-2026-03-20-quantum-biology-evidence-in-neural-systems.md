@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-20
-**Article**: [Quantum Biology Evidence in Neural Systems](/topics/quantum-biology-evidence-in-neural-systems/)
+**Article**: [Quantum Biology Evidence in Neural Systems](/topics/quantum-biology-and-neural-consciousness/)
 **Previous review**: [2026-03-20 (earlier same day)](/reviews/deep-review-2026-03-20-quantum-biology-evidence-in-neural-systems/)
 
 ## Context
@@ -52,8 +52,8 @@ Second review pass on the same day. The article was created and first reviewed e
 ### Cross-links Added (inbound, from other articles)
 
 **Inline contextual links** (most valuable for integration):
-1. [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) — in "What Remains Uncertain" section, inline mention of cumulative convergence case
-2. [quantum-biology-neural-experimental-turn](/topics/quantum-biology-neural-experimental-turn/) — in "What the Evidence Shows and Does Not Show" section, forward reference to convergence analysis
+1. [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/) — in "What Remains Uncertain" section, inline mention of cumulative convergence case
+2. [quantum-biology-neural-experimental-turn](/topics/quantum-biology-and-neural-consciousness/) — in "What the Evidence Shows and Does Not Show" section, forward reference to convergence analysis
 3. [quantum-consciousness](/concepts/quantum-consciousness/) — after "Recent evidence" list in Orch OR section, contextualising findings as part of broader convergence
 4. [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — in "What the Evidence Shows Together" section, linking to convergence analysis
 5. [decoherence](/concepts/decoherence/) — in "Quantum Biology: Biology Beating Decoherence" section, linking to neural-specific convergence

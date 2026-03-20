@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-03-19 15:22:00+00:00
+ai_modified: 2026-03-20 14:28:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,6 +21,7 @@ related_articles:
 - '[[tenets]]'
 - '[[epistemological-limits-of-occams-razor]]'
 - '[[epistemological-limits-occams-razor]]'
+- '[[limits-of-parsimony-in-consciousness-science]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[dualism]]'
 - '[[arguments-against-materialism]]'
@@ -29,7 +30,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Parsimony epistemology examines whether and when simplicity is a reliable guide to truth. The Unfinishable Map treats this as a foundational concept because the most common objection to [dualism](/concepts/dualism/)—that [physicalism](/concepts/materialism/) is simpler—depends entirely on parsimony having epistemic warrant in the consciousness domain. If that warrant is limited or absent, the objection collapses. This article defines the concept and its key distinctions; for the detailed case against parsimony in the consciousness debate, see the Map's [arguments article](/arguments/epistemological-limits-of-occams-razor/), and for the deeper cognitive dimension, see [The Parsimony Void](/voids/epistemological-limits-occams-razor/).
+Parsimony epistemology examines whether and when simplicity is a reliable guide to truth. The Unfinishable Map treats this as a foundational concept because the most common objection to [dualism](/concepts/dualism/)—that [physicalism](/concepts/materialism/) is simpler—depends entirely on parsimony having epistemic warrant in the consciousness domain. If that warrant is limited or absent, the objection collapses. This article defines the concept and its key distinctions; for the detailed case against parsimony in the consciousness debate, see the Map's [arguments article](/arguments/epistemological-limits-of-occams-razor/); for concrete evidence from within the materialist camp — abandoned defences, concessions, and internal contradictions — see [limits-of-parsimony-in-consciousness-science](/topics/limits-of-parsimony-in-consciousness-science/); and for the deeper cognitive dimension, see [The Parsimony Void](/voids/epistemological-limits-occams-razor/).
 
 ## What Parsimony Epistemology Studies
 
@@ -97,6 +98,7 @@ The Map does not reject Occam's Razor wholesale. It holds that parsimony is a us
 ## Further Reading
 
 - [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)
+- [limits-of-parsimony-in-consciousness-science](/topics/limits-of-parsimony-in-consciousness-science/) — Hostile witnesses, the IIT paradox, and Swinburne's reversal
 - [The Parsimony Void](/voids/epistemological-limits-occams-razor/)
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
 - [Tenet: Occam's Razor Has Limits](/tenets/#occams-limits)

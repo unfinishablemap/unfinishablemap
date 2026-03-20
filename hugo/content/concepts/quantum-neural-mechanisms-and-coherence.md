@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-03-20 13:03:00+00:00
+ai_modified: 2026-03-20 15:28:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -60,33 +60,24 @@ Five distinct quantum mechanisms have been proposed for neural systems, four pro
 
 ## The Decoherence Challenge
 
-[Max Tegmark's 2000 calculation](/concepts/decoherence/) estimated that quantum coherence in brain microtubules would decay in about 10⁻¹³ seconds (100 femtoseconds). Neural processes operate on millisecond timescales—the [timing gap problem](/concepts/timing-gap-problem/), a mismatch of ten billion times. This became the standard objection to [quantum consciousness theories](/concepts/quantum-consciousness/).
+[Max Tegmark's 2000 calculation](/concepts/decoherence/) estimated quantum coherence in brain microtubules would decay in ~10⁻¹³ seconds (100 femtoseconds)—ten billion times shorter than millisecond neural processes. This became the standard objection to [quantum consciousness theories](/concepts/quantum-consciousness/).
 
-The calculation assumed thermal equilibrium (appropriate for dead tissue, not living systems), 24 nanometre superposition separations (larger than actual proposals specify), and free interaction with the aqueous environment. Hagan, Hameroff, and Tuszynski (2002) challenged these assumptions directly:
-
-1. **Wrong separation distances**: Orch OR proposes smaller superposition separations than Tegmark assumed
-2. **Wrong interaction type**: Tegmark used charge-charge interactions; microtubule superpositions involve dipole interactions
-3. **Temperature paradox**: Tegmark's model predicts decreasing decoherence at lower temperatures—contradicting observed quantum behaviour
-4. **Equilibrium assumption**: Living systems actively pump energy; thermal equilibrium describes dead tissue
-
-When corrected, calculated coherence times extend to **10⁻⁵ to 10⁻⁴ seconds** (~10-100 microseconds)—seven orders of magnitude longer than Tegmark claimed. A 2025 computational study incorporating realistic biological conditions estimated 1-2 microseconds. Hameroff et al. (2025) confirm these predictions: experimental observations in microtubules have measured coherence times in the 10⁻⁶ to 10⁻⁴ second range.
+Hagan, Hameroff, and Tuszynski (2002) challenged this: Tegmark assumed thermal equilibrium (dead tissue, not living systems), oversized superposition separations, and charge-charge rather than dipole interactions. When corrected, coherence times extend to **10⁻⁵ to 10⁻⁴ seconds** (~10-100 microseconds)—seven orders of magnitude longer. Hameroff et al. (2025) confirm these predictions experimentally.
 
 | Source | Coherence Time | Key Assumption |
 |--------|---------------|----------------|
 | Tegmark (2000) | 10⁻¹³ s | Thermal equilibrium, large separation |
 | Hagan et al. (2002) | 10⁻⁵ to 10⁻⁴ s | Corrected model, smaller separation |
 | 2025 simulation | 10⁻⁶ s | Realistic biological conditions |
-| Fisher (2015) | ~10⁵ s | Nuclear spin mechanism |
-
-The Fisher estimate is not a revision of Tegmark but an entirely different mechanism operating at nuclear rather than electronic scales.
+| Fisher (2015) | ~10⁵ s | Nuclear spin mechanism (different scale) |
 
 ### The Remaining Timescale Gap
 
-Even microsecond coherence times remain three orders of magnitude below the millisecond timescales of neural firing. Two responses address this:
+Even microsecond coherence remains three orders of magnitude below millisecond neural firing. Two responses address this:
 
-**Quantum Zeno mechanism**: [Stapp's](/concepts/stapp-quantum-mind/) [mental effort](/concepts/mental-effort/) framework doesn't require coherence to persist for milliseconds continuously. Rapid repeated mental "observations" maintain neural patterns without requiring coherence to survive *between* observations—the quantum Zeno effect refreshes superpositions faster than decoherence destroys them.
+**Quantum Zeno mechanism**: [Stapp's](/concepts/stapp-quantum-mind/) [mental effort](/concepts/mental-effort/) framework uses rapid repeated mental "observations" to maintain neural patterns—the quantum Zeno effect refreshes superpositions faster than decoherence destroys them, without requiring continuous coherence.
 
-**Cumulative selection**: If consciousness selects among quantum alternatives many times per second rather than once per neural firing event, even microsecond coherence windows suffice. The question shifts from "how long does coherence last?" to "how fast can selection operate?" The [bandwidth constraint](/concepts/bandwidth-problem-mental-causation/) (~10 bits/second of conscious processing) limits how much information each selection injects, but [coupling modes](/concepts/coupling-modes/) like basis control multiply impact by shaping which alternatives become available. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing hierarchy.
+**Cumulative selection**: If consciousness selects among quantum alternatives many times per second, microsecond coherence windows suffice. The [bandwidth constraint](/concepts/bandwidth-problem-mental-causation/) (~10 bits/second) limits information per selection, but [coupling modes](/concepts/coupling-modes/) like basis control multiply impact. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing hierarchy.
 
 ## Four Coherence Protection Mechanisms
 
@@ -94,73 +85,43 @@ Four distinct mechanisms have been proposed for protecting quantum coherence in 
 
 ### Hydrophobic Microtubule Interior
 
-Microtubule interiors lack the water molecules that typically cause rapid decoherence. Aromatic amino acids (tryptophan, phenylalanine, tyrosine) in tubulin form π-electron clouds creating a hydrophobic environment. Water is the primary decoherence agent in biological systems; excluding it provides a protected quantum channel.
-
-**2024 evidence**: Researchers confirmed ultraviolet superradiance in mega-networks of tryptophan molecules at room temperature—a collective quantum phenomenon requiring genuine coherence across multiple emitters in biologically relevant molecules.
+Microtubule interiors lack water—the primary biological decoherence agent. Aromatic amino acids in tubulin form π-electron clouds creating a hydrophobic quantum channel. In 2024, researchers confirmed ultraviolet superradiance in tryptophan mega-networks at room temperature, demonstrating genuine coherence in biologically relevant molecules.
 
 ### Metabolic Energy Pumping (Fröhlich Coherence)
 
-Herbert Fröhlich proposed in 1968 that continuous metabolic energy input could maintain coherent oscillations in biological systems, analogous to laser coherence at room temperature. ATP hydrolysis provides energy input; nonlinear interactions channel energy into lowest-frequency collective modes; a Bose-Einstein-like condensate forms maintaining coherent oscillations.
-
-| Form | Coherence Level | Biological Feasibility |
-|------|-----------------|------------------------|
-| Weak | Redistribution of vibrational mode populations | Likely accessible |
-| Strong | Macroscopic oscillation amplitude | Possibly accessible |
-| Coherent condensate | Full quantum superposition | Unlikely accessible |
-
-**2025 evidence**: Computer modelling found that anaesthetics specifically abolish a 613 THz quantum oscillation peak in microtubules while non-anaesthetics do not—matching Fröhlich coherence predictions.
+Fröhlich (1968) proposed that continuous metabolic energy input maintains coherent oscillations analogous to laser coherence. ATP hydrolysis channels energy into lowest-frequency collective modes. Three forms exist—weak (population redistribution, likely accessible), strong (macroscopic oscillation, possibly accessible), and coherent condensate (full superposition, unlikely accessible). In 2025, computer modelling found anaesthetics specifically abolish a 613 THz quantum oscillation peak in microtubules while non-anaesthetics do not—matching Fröhlich predictions.
 
 ### Nuclear Spin Isolation (Fisher/Posner)
 
-Matthew Fisher's 2015 proposal operates at nuclear rather than electronic scales. Phosphorus-31 nuclear spins have extremely long coherence times because nuclear spins couple weakly to the electromagnetic environment, phosphorus-31 is the only stable biological isotope with spin ½, and Posner molecules (Ca₉(PO₄)₆) further isolate the spins. Fisher calculates coherence times of **~10⁵ seconds** (over a day).
-
-The cognitive mechanism: enzymatic reactions create entangled pairs of phosphate ions; these incorporate into different Posner molecules; the molecules transport separately through neural tissue; when they break down, entangled spins influence neurotransmitter release.
-
-**Testable prediction confirmed**: Lithium-6 and lithium-7 have different nuclear spins. A 1986 Cornell study found that mother rats receiving lithium-6 showed stronger maternal behaviours than those receiving lithium-7. In 2025, multi-electrode array experiments demonstrated that the two isotopes have "large and opposite effects on synaptic transmission"—consistent with Fisher's quantum predictions.
+Fisher's 2015 proposal operates at nuclear scales. Phosphorus-31 nuclear spins in Posner molecules (Ca₉(PO₄)₆) have coherence times of **~10⁵ seconds** (over a day) because nuclear spins couple weakly to the electromagnetic environment. Enzymatic reactions create entangled phosphate ion pairs that incorporate into separate Posner molecules; when these break down, entangled spins influence neurotransmitter release. In 2025, multi-electrode array experiments showed lithium-6 and lithium-7 (different nuclear spins) have "large and opposite effects on synaptic transmission"—consistent with Fisher's predictions.
 
 ### Ordered Water and Cytoskeletal Gel
 
-Water near biological surfaces exhibits ordering that reduces thermal noise. The cytoplasm is a structured gel, not free-flowing liquid: actin filaments create a matrix, water molecules near microtubule surfaces form ordered layers, and counterions create a Debye layer screening thermal fluctuations. This mechanism may work synergistically with the others.
+Cytoplasm is a structured gel: actin filaments, ordered water layers near microtubules, and counterion Debye layers all screen thermal fluctuations, potentially working synergistically with the other mechanisms.
 
-### Cumulative Protection
-
-These mechanisms need not operate independently. Hydrophobic shielding, Fröhlich pumping, ordered water, and nuclear spin isolation could combine to extend coherence times far beyond any single mechanism. [Quantum biology](/concepts/quantum-biology/) confirms the principle: evolution has already optimised quantum effects in photosynthesis and magnetoreception under comparable conditions.
+These four mechanisms need not operate independently—their combination could extend coherence far beyond any single mechanism. [Quantum biology](/concepts/quantum-biology/) confirms the principle: evolution has already optimised quantum effects in photosynthesis and magnetoreception under comparable conditions.
 
 ## Five Neural Quantum Mechanisms
 
 ### Mechanism 1: Radical Pair Effects in Neural Cryptochromes
 
-Cryptochrome proteins, which enable avian magnetoreception through quantum effects, may also function in neural tissue. Radical pairs—molecules with entangled unpaired electrons—maintain spin coherence for microseconds.
-
-**How it works**: Light absorption (or potentially chemical reactions) creates an electron pair in an entangled singlet-triplet superposition. External magnetic fields bias the singlet-triplet ratio, producing different chemical yields that transduce into neural activity.
-
-**Evidence (2024-2025)**: Atkins et al. (2024, *Nature Communications*) demonstrated magnetosensitivity in cryptochrome radical pairs enabled by the quantum Zeno effect—the first biological demonstration of Zeno-protected quantum states. The QuantNeuro lab (Waterloo) showed blue-light-dependent membrane depolarization enhanced by magnetic fields in cryptochrome-expressing neurons. Craddock et al. (2025) presented preliminary evidence for radical pairs affecting tubulin assembly.
-
-**Uncertain**: How radical pairs function in non-retinal neurons without light activation, and whether the mechanism extends beyond magnetoreception to cognition.
+Cryptochrome proteins enable avian magnetoreception through quantum effects and may function in neural tissue. Light absorption creates entangled singlet-triplet electron pairs; magnetic fields bias the ratio, producing different chemical yields that transduce into neural activity. Atkins et al. (2024) demonstrated the first biological quantum Zeno-protected states in cryptochrome radical pairs. Whether the mechanism extends beyond magnetoreception to cognition remains uncertain.
 
 ### Mechanism 2: Ion Channel Quantum Tunneling
 
-Ions may tunnel through closed voltage-gated channels, affecting action potential dynamics. Tunneling probability depends on particle mass—sodium tunnels more readily than potassium—creating ion-specific quantum effects at the action potential level. Qaswal (2022) developed a mathematical model matching observed pathological phenomena (tinnitus, phantom limb, neuropathic pain), but evidence remains primarily theoretical.
+Ions may tunnel through closed voltage-gated channels, with tunneling probability depending on particle mass (sodium tunnels more readily than potassium). Qaswal (2022) developed a mathematical model matching pathological phenomena (tinnitus, phantom limb, neuropathic pain), but evidence remains primarily theoretical.
 
 ### Mechanism 3: Microtubule Quantum Coherence (Orch OR and QBIT)
 
-Tubulin proteins within microtubules may sustain quantum superposition states. In [Orchestrated Objective Reduction (Orch OR)](/concepts/quantum-consciousness/), gravity-induced collapse of these superpositions produces conscious moments. The newer QBIT theory proposes spintronic coherence concentrated at the axon initial segment (AIS).
-
-**How Orch OR works**: Tubulin dimers exist in superpositions of conformational states; synaptic inputs "orchestrate" coherent superpositions across neuron networks; when superposition reaches a threshold, gravitational collapse (objective reduction) produces a moment of conscious experience.
-
-**How QBIT works**: Microtubules function as nanoscale spintronic oscillators; the AIS fascicle structure protects coherence; Bose-Einstein-like condensation emerges at room temperature.
-
-**Evidence (2024-2025)**: Babcock et al. (2024) demonstrated room-temperature quantum super-radiance in tryptophan networks. Kalra et al. (2023) found anesthetics dampen quantum optical effects in isolated microtubule preparations. Khan et al. (2024) showed epothilone B (microtubule-binding drug) delays anesthesia onset in rats. Wiest (2025) proposed MRI methodology for detecting macroscopic entangled states, with preliminary correlations to consciousness level.
+In [Orchestrated Objective Reduction (Orch OR)](/concepts/quantum-consciousness/), tubulin superpositions reach a threshold and undergo gravity-induced collapse, producing conscious moments. The newer QBIT theory proposes spintronic coherence concentrated at the axon initial segment. Evidence is growing: Kalra et al. (2023) found anaesthetics dampen quantum optical effects in microtubules; Khan et al. (2024) showed epothilone B delays anaesthesia onset in rats; Wiest (2025) proposed MRI methodology for detecting entangled states with preliminary consciousness-level correlations.
 
 ### Mechanism 4: Synaptic Vesicle Release (Beck-Eccles/Georgiev)
 
-Georgiev (2018) proposes that quantum tunneling triggers neurotransmitter vesicle release at synapses via Davydov solitons along SNARE protein α-helices. Consciousness could bias tunneling probabilities, influencing which synapses fire. Evidence remains theoretical—no direct experimental measurement of tunneling in SNARE complexes exists.
+Georgiev (2018) proposes quantum tunneling triggers neurotransmitter release via Davydov solitons along SNARE protein α-helices. Consciousness could bias tunneling probabilities, influencing which synapses fire. Evidence remains theoretical.
 
 ### Mechanism 5: Posner Molecule Entanglement (Fisher)
 
-Phosphorus nuclear spins in Posner molecules (Ca₉(PO₄)₆) serve as entangled qubits with long coherence times—potentially hours to days. ATP hydrolysis produces entangled phosphorus nuclei via pyrophosphatase; phosphate ions incorporate into Posner molecules protecting nuclear spin coherence; when Posners enter neurons, entanglement affects neural processing.
-
-**Evidence**: Fisher (2015) provides a detailed theoretical proposal with testable predictions. Lithium isotope effects on rat behavior provide circumstantial support. The QuBrain project at UCSB is actively pursuing validation. Proposed coherence times are disputed—Player and Hore estimate ~37 minutes rather than days.
+Phosphorus nuclear spins in Posner molecules serve as entangled qubits with long coherence times (disputed: Fisher estimates hours to days; Player and Hore estimate ~37 minutes). The QuBrain project at UCSB is actively pursuing validation. Details on the mechanism appear in the coherence protection section above.
 
 ### Evidence Hierarchy
 
@@ -184,45 +145,17 @@ Classical mechanisms—gamma synchrony, thalamocortical loops, integrated inform
 
 Baum (2024) formalised this: zero-lag gamma synchrony (40-100 Hz, <1ms precision) cannot arise classically without violating relativistic causality. Bell's theorem and loophole-free experiments confirm that non-local correlations are exclusively quantum. If Baum's analysis holds, conscious binding necessitates quantum non-locality. The argument remains speculative and has not yet undergone peer review, but it crystallises the structural problem: classical mechanisms coordinate information without producing ontological unity.
 
-## Key Experimental Evidence (2024-2025)
+## Experimental Convergence
 
-### The Epothilone B Study (August 2024)
-
-Rats given epothilone B (a microtubule-stabilising drug) took **over a minute longer** to fall unconscious under anaesthesia (Cohen's d = 1.9). If consciousness had nothing to do with microtubule quantum states, stabilising microtubules shouldn't affect consciousness. No classical mechanism connecting microtubule rigidity to anaesthetic resistance has been proposed, whereas the quantum model predicted this result directly.
-
-### Brain Entanglement Signatures (Kerskens & Pérez, 2022)
-
-Using a novel MRI protocol, researchers observed signals in conscious human subjects that mimicked heartbeat-evoked potentials (a known conscious awareness signature), disappeared when subjects fell asleep, and correlated with short-term memory performance. Warren (2023) challenged the interpretation, arguing the protocol might detect classical correlations. The findings await replication.
-
-Additional supporting evidence includes room-temperature tryptophan superradiance in microtubule components (Babcock et al. 2024, detailed in the coherence protection section) and the anaesthetic-oscillation correlation (detailed in the Fröhlich coherence section).
-
-### Twin Study Quantum Effects (2025)
-
-Escolà-Gascón (2025) tested 106 monozygotic twin pairs on implicit learning tasks and found that modelling stimulus presentations as entangled qubits explained 13.5% of variance in accuracy—more than classical probability models predicted. Whether this requires genuine quantum entanglement in neural processing or reflects quantum-like mathematical structure in cognition remains debated.
-
-### What the Evidence Shows Together
-
-None of this proves quantum consciousness is correct, but it shifts the burden. The quantum hypothesis made specific predictions—microtubule involvement in anaesthesia, measurable entanglement during awareness, viable coherence times—and those predictions held up. Wiest (2025) argues that consciousness arising from quantum entanglement gains genuine causal power—not [epiphenomenal](/concepts/epiphenomenalism/) but physically efficacious. The [convergence analysis](/topics/quantum-biology-evidence-in-neural-systems/) examines how these independent evidence lines—biological precedent, pharmacological correlation, direct measurement, and computational modelling—collectively strengthen the case beyond what any single line would warrant.
+None of this proves quantum consciousness, but it shifts the burden. The quantum hypothesis made specific predictions—microtubule involvement in anaesthesia (confirmed by the epothilone B study, Cohen's d = 1.9), measurable entanglement signatures during awareness (Kerskens & Pérez 2022, though disputed by Warren 2023), viable coherence times—and those predictions held up. Wiest (2025) argues that consciousness arising from quantum entanglement gains genuine causal power—not [epiphenomenal](/concepts/epiphenomenalism/) but physically efficacious. The [convergence analysis](/topics/quantum-biology-and-neural-consciousness/) examines how these independent evidence lines collectively strengthen the case beyond what any single line warrants.
 
 ## The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/) poses a distinct challenge: if phenomenal consciousness is an illusion, then quantum mechanisms become solutions to a non-problem. The illusionist argument holds that our introspective sense of having qualia is systematically misleading—we have *quasi-phenomenal* states that *represent* phenomenal properties without actually having them.
-
-Four responses from the Map's perspective:
+[Illusionism](/concepts/illusionism/) argues phenomenal consciousness is an illusion, making quantum mechanisms solutions to a non-problem. Two responses from the Map's perspective:
 
 **The regress problem**: Any account of why consciousness *seems* unified presupposes the very unity it denies. Frankish's quasi-phenomenal seemings must themselves be experienced to influence behaviour.
 
-**The zombie reformulation**: Illusionism implies that philosophical zombies would be under the "same illusion"—systems with quasi-phenomenal properties but no phenomenal properties. This makes the conceivability argument stronger, not weaker.
-
-**[Introspection](/concepts/introspection/) survives debunking**: The illusionist claim depends on introspective reports about experience. But if introspection is systematically unreliable, why trust the introspective reports that motivate illusionism?
-
-**The selection problem persists**: Even if qualia are "illusions," *something* must select among quantum outcomes where physics leaves outcomes undetermined. The [argument-from-reason](/topics/argument-from-reason/) suggests that rational inference requires genuine phenomenal understanding—if we never really grasp logical relations, the basis for any argument (including the argument for illusionism) collapses.
-
-## Contemplative Evidence
-
-[Witness consciousness](/concepts/witness-consciousness/) practitioners report mental contents arising as if from nothing—phenomenology resembling quantum measurement where definite states emerge from superposition. Buddhist vipassana reveals the momentary, constructed nature of experience, paralleling discrete quantum events. Cessation experiences (nirodha) involve experiential gaps potentially corresponding to periods without quantum selection.
-
-These show phenomenological compatibility with the quantum picture, not proof. The Buddhist anattā (no-self) doctrine challenges unified-observer accounts; [process haecceity](/concepts/haecceity/) accommodates both momentary selection and Buddhist phenomenology without requiring a substantial self.
+**The selection problem persists**: Even if qualia are "illusions," *something* must select among quantum outcomes where physics leaves outcomes undetermined. The [argument-from-reason](/topics/argument-from-reason/) suggests rational inference requires genuine phenomenal understanding—if we never really grasp logical relations, the basis for any argument (including illusionism itself) collapses.
 
 ## What Would Challenge This View
 
@@ -232,11 +165,9 @@ The Map's position would face serious challenge from:
 2. **All mechanisms prove causally irrelevant**: quantum effects present but not functionally connected to consciousness
 3. **Classical replication of binding**: demonstration that classical mechanisms produce genuine ontological unity, not merely functional coordination
 4. **Classical explanation of anaesthetic-microtubule effects** unrelated to quantum coherence
-5. **Classical artificial consciousness** exhibiting genuine phenomenal properties (though verification faces the other-minds problem)
-6. **Negative isotope substitution results** (Fisher's test) showing no cognitive effects from replacing phosphorus-31
-7. **Illusionism succeeds**: a fully satisfactory account of why we believe we're phenomenally conscious when we're not
+5. **Illusionism succeeds**: a fully satisfactory account of why we believe we're phenomenally conscious when we're not
 
-These would not refute dualism or the claim that consciousness is irreducible, but they would undermine the specific mechanism by which the Map proposes consciousness interfaces with the physical world.
+These would not refute dualism but would undermine the specific mechanism by which the Map proposes consciousness interfaces with the physical world.
 
 ## Relation to Site Perspective
 
@@ -268,26 +199,14 @@ The assumption that warm biology must be classical turned out false. [Quantum bi
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum consciousness mechanisms including Orch OR and quantum Zeno
 - [quantum-biology](/concepts/quantum-biology/) — Established quantum effects in living systems
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy from femtosecond decoherence to 300ms neural decisions
-- [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism for attention
 - [decoherence](/concepts/decoherence/) — The decoherence challenge in detail
-- [measurement-problem](/concepts/measurement-problem/) — Why quantum mechanics leaves outcomes undetermined
-- [voluntary attention](/concepts/attention-as-interface/) — The 300ms window for conscious attention deployment
-- [bidirectional-interaction](/concepts/bidirectional-interaction/) — The causal efficacy of consciousness
-- [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and objective collapse
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Quantum entanglement and the binding problem
-- [mental-effort](/concepts/mental-effort/) — Stapp's quantum Zeno framework for voluntary attention
-- [phenomenal unity](/concepts/unity-of-consciousness/) — What quantum binding aims to explain
-- [illusionism](/concepts/illusionism/) — The challenge that phenomenal consciousness may be illusory
-- [mysterianism](/concepts/mysterianism/) — Cognitive closure and limits of human understanding
-- [free-will](/topics/free-will/) — How quantum indeterminacy relates to libertarian free will
-- [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — Six mechanisms bridging quantum effects to macroscopic neural outcomes
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — Side-by-side comparison of Orch OR, QBIT, Stapp, Fisher, and others
 - [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/) — The experimental case for consciousness selecting among quantum outcomes
-- [quantum-biology-evidence-in-neural-systems](/topics/quantum-biology-evidence-in-neural-systems/) — How four independent evidence lines converge on neural quantum effects
-- [agent-causation](/concepts/agent-causation/) — Consciousness as cause at the quantum level
+- [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Quantum biology, neural evidence convergence, and the consciousness debate
 - [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) — The five mathematical constraints any consciousness-physics coupling must satisfy
 - [coupling-modes](/concepts/coupling-modes/) — Basis, timing, and probability control as coupling mechanisms
-- [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — The information capacity constraint on mental causation
+- [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — Six mechanisms bridging quantum effects to macroscopic neural outcomes
 
 ## References
 

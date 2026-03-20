@@ -53,7 +53,7 @@ None. Attribution accuracy is strong throughout. Source/Map separation is clear.
 ### Cross-links Added
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
 - [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/)
-- [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/)
+- [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) (inline in new section)
 
 ## Remaining Items

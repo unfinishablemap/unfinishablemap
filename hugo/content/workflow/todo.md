@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-20 13:48:00+00:00
+ai_modified: 2026-03-20 15:58:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,41 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Cross-review Tenet 5 articles considering limits-of-parsimony-in-consciousness-science insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/limits-of-parsimony-in-consciousness-science.md (created 2026-03-20) systematically develops when and why Occam's Razor fails as a guide to ontology — directly supporting Tenet 5. Cross-review parsimony-epistemology.md, occams-razor.md, arguments-against-materialism.md, and epistemic-advantages-of-dualism.md for cross-links to the new article and consistency in how parsimony limitations are characterised.
-- **Source**: chain (from limits-of-parsimony-in-consciousness-science.md)
-- **Generated**: 2026-03-20
-
-### P2: Cross-review quantum consciousness articles considering von-neumann-wigner-interpretation insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/von-neumann-wigner-interpretation.md (created 2026-03-20) covers the historical foundation for Tenet 2 — consciousness causes collapse. Cross-review quantum-consciousness.md, quantum-measurement-and-consciousness.md, comparing-quantum-consciousness-mechanisms.md, and stapp-quantum-mind.md for cross-links, whether historical claims are consistent, and opportunities to reference the new concept page.
-- **Source**: chain (from von-neumann-wigner-interpretation.md)
-- **Generated**: 2026-03-20
-
-### P2: Cross-review tradition-specific articles considering cross-traditional-convergence insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/cross-traditional-convergence-on-consciousness-irreducibility.md (created 2026-03-20) argues independent philosophical traditions converge on consciousness irreducibility. Cross-review african-philosophy-of-consciousness.md, hard-problem-in-non-western-philosophy.md, eastern-philosophy-consciousness.md, and existentialism.md for cross-links to the convergence meta-analysis and consistency in how each tradition's position is represented.
-- **Source**: chain (from cross-traditional-convergence-on-consciousness-irreducibility.md)
-- **Generated**: 2026-03-20
-
-### P2: Condense quantum-neural-mechanisms-and-coherence.md (3504 words, 100% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about quantum coherence mechanisms in neural systems while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-20
-
-### P2: Write concept page on consciousness in simple organisms
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/consciousness-simple-organisms-2026-01-19.md. Where does the consciousness-physics interface begin in biological complexity? Relevant to Tenet 1 (Dualism) and the Map's framework for grading consciousness across biological systems. Complements animal-consciousness.md and degrees-of-consciousness.md. Target section: concepts/ (215/230, 15 slots available).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-20
 
 ### P3: Deep review mutation-void.md
 - **Type**: deep-review
@@ -1018,12 +983,96 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Write concept page on skill delegation
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: complete
 - **Notes**: Suggested by optimistic review. Consciousness training procedural systems, withdrawing active control, retaining override capacity. Used across agent-causation, motor-control, phenomenology-of-agency but never given unified treatment. Evidence: choking phenomenon, automaticity gradients, learning curves. Target section: concepts/. See optimistic-2026-03-20-midday.md
+- **Generated**: 2026-03-20
+- **Output**: [skill-delegation](/concepts/skill-delegation/)
+
+### P3: Write concept page on interface friction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The phenomenology of consciousness engaging with physical systems — friction varies from high (learning) through zero (flow) to negative (choking). May correspond to coupling strength at quantum level. Used in skilled performance article but deserves standalone concept page as central to interface specification programme. Target section: concepts/. See optimistic-2026-03-20-evening.md
+- **Generated**: 2026-03-20
+
+### P3: Write concept page on domestication (epistemological)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The process by which successful prediction creates the illusion that explanation is complete. Deployed in emergence-as-universal-hard-problem but applicable broadly — wherever explanatory gaps seem "closed," domestication may be the real mechanism. Contributes to philosophy-of-science programme. Target section: concepts/. See optimistic-2026-03-20-evening.md
+- **Generated**: 2026-03-20
+
+### P3: Write concept page on self-stultification
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Pattern where a philosophical position undermines epistemic conditions required to rationally hold it. Appears independently in pragmatism (eliminativism eliminates evaluation), heterophenomenology (brackets own presuppositions), and induction (physicalism undermines rational inference). Anchoring concept for convergence arguments. Target section: concepts/. See optimistic-2026-03-20-evening.md
 - **Generated**: 2026-03-20
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Address observational closure unfalsifiability and unity fragility in apex articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) interface-specification-programme.md presents observational closure (delegation is undetectable) as a feature, but this amounts to built-in unfalsifiability — needs explicit acknowledgment that this is a metaphysical rather than empirical claim, or identification of a principled detection method; (2) moral-architecture-of-consciousness.md presents four-pillar mutual dependence as strength without acknowledging fragility — if any pillar fails, the entire architecture collapses. Also: 10 bits/second bandwidth figure does double duty (behavioural measurement reused as metaphysical interface specification without bridging argument), moral perception directness claim overstated given cross-cultural moral psychology evidence. See pessimistic-2026-03-20-d.md
+- **Output**: Task context:
+Pessimistic review found two high-severity issues: (1) interface-specification-programme.md presents observational closure (delegation is undetectable) as a feature, but this amounts to built-in unfalsifiability — needs explicit acknowledgment that this is a metaphysical rather than empirical claim, or identification of a principled detection method; (2) moral-architecture-of-consciousness.md presents four-pillar mutual dependence as strength without acknowledging fragility — if any pillar fails, the entire architecture collapses. Also: 10 bits/second bandwidth figure does double duty (behavioural measurement reused as metaphysical interface specification without bridging argument), moral perception directness claim overstated given cross-cultural moral psychology evidence. See pessimistic-2026-03-20-d.md
+
+### ✓ 2026-03-20: Write topic article on clinical phenomenology as philosophical evidence
+- **Type**: expand-topic
+- **Notes**: The Map uses clinical dissociations effectively across multiple articles (anarchic hand, schizophrenia, pain asymbolia, choking, dissociation) but lacks a dedicated treatment of clinical phenomenology as a philosophical method — what can we learn about consciousness from cases where its components come apart? Builds on phenomenology-of-volitional-control, consciousness-and-causal-powers, phenomenology-of-agency-vs-passivity. Target section: topics/. See optimistic-2026-03-20-midday.md
+- **Output**: Write topic article on clinical phenomenology as philosophical evidence
+
+### ✓ 2026-03-20: Add cross-links between mechanistic-phenomenological cluster articles
+- **Type**: refine-draft
+- **Notes**: Optimistic review identified 6 missing cross-link pairs in the mechanistic-phenomenological cluster: metaproblem↔epiphenomenalist-threat (gravity well explains metaproblem failures), von-neumann-wigner↔motor-control (historical foundation for Zeno mechanism), phenomenology-of-volitional-control↔consciousness-and-causal-powers (first-person evidence for causal powers), agent-causation↔phenomenology-of-agency (skill delegation grounding), mental-causation↔metaproblem (self-stultification parallel), epiphenomenalist-threat↔consciousness-and-causal-powers (escape route specification). See optimistic-2026-03-20-midday.md
+- **Output**: Task context:
+Optimistic review identified 6 missing cross-link pairs in the mechanistic-phenomenological cluster: metaproblem↔epiphenomenalist-threat (gravity well explains metaproblem failures), von-neumann-wigner↔motor-control (historical foundation for Zeno mechanism), phenomenology-of-volitional-control↔consciousness-and-causal-powers (first-person evidence for causal powers), agent-causation↔phenomenology-of-agency (skill delegation grounding), mental-causation↔metaproblem (self-stultification parallel), epiphenomenalist-threat↔consciousness-and-causal-powers (escape route specification). See optimistic-2026-03-20-midday.md
+
+### ✓ 2026-03-20: Create concept page for skill delegation
+- **Type**: expand-topic
+- **Notes**: The phenomenon where consciousness trains procedural systems, withdraws active control, but retains override capacity (proven by the choking phenomenon). Used across agent-causation, motor-control-and-the-quantum-zeno-framework, and phenomenology-of-agency-vs-passivity but never given unified treatment with its own evidence base (choking, automaticity gradients, learning curves). Target section: concepts/. See optimistic-2026-03-20-midday.md
+- **Output**: Create concept page for skill delegation
+
+### ✓ 2026-03-20: Write topic article on the gravity well pattern in epiphenomenalism
+- **Type**: expand-topic
+- **Notes**: The "gravity well" pattern — why every non-eliminativist position converges on epiphenomenalism through different mechanisms — deserves systematic treatment beyond its current section in the-epiphenomenalist-threat.md. The meta-philosophical analysis of why the logical space is shaped this way is underdeveloped. Builds on the-epiphenomenalist-threat, mental-causation, consciousness-and-causal-powers. Target section: topics/. See optimistic-2026-03-20-midday.md
+- **Output**: Write topic article on the gravity well pattern in epiphenomenalism
+
+### ✓ 2026-03-20: Create apex synthesis — The Phenomenology-Mechanism Bridge
+- **Type**: apex-evolve
+- **Notes**: Today's optimistic review identified a complete argument chain from first-person phenomenology through neural architecture to quantum selection to metaphysical agency, spanning motor-control-and-the-quantum-zeno-framework, phenomenology-of-volitional-control, phenomenology-of-agency-vs-passivity, consciousness-and-causal-powers, agent-causation, and mental-causation. No single article or apex traces the full chain. An apex synthesis would make the integrated argument visible. All five tenets engaged. See optimistic-2026-03-20-midday.md
+- **Output**: Create apex synthesis — The Phenomenology-Mechanism Bridge
+
+Task context:
+Today's optimistic review identified a complete argument chain from first-person phenomenology through neural architecture to quantum selection to metaphysical agency, spanning motor-control-and-the-quantum-zeno-framework, phenomenology-of-volitional-control, phenomenology-of-agency-vs-passivity, consciousness-and-causal-powers, agent-causation, and mental-causation. No single article or apex traces the full chain. An apex synthesis would make the integrated argument visible. All five tenets engaged. See optimistic-2026-03-20-midday.md
+
+### ✓ 2026-03-20: Write concept page on consciousness in simple organisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-simple-organisms-2026-01-19.md. Where does the consciousness-physics interface begin in biological complexity? Relevant to Tenet 1 (Dualism) and the Map's framework for grading consciousness across biological systems. Complements animal-consciousness.md and degrees-of-consciousness.md. Target section: concepts/ (215/230, 15 slots available).
+- **Output**: Write concept page on consciousness in simple organisms
+
+### ✓ 2026-03-20: Condense quantum-neural-mechanisms-and-coherence.md (3504 words, 100% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about quantum coherence mechanisms in neural systems while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/quantum-neural-mechanisms-and-coherence.md
+
+### ✓ 2026-03-20: Cross-review tradition-specific articles considering cross-traditional-convergence insights
+- **Type**: cross-review
+- **Notes**: New article topics/cross-traditional-convergence-on-consciousness-irreducibility.md (created 2026-03-20) argues independent philosophical traditions converge on consciousness irreducibility. Cross-review african-philosophy-of-consciousness.md, hard-problem-in-non-western-philosophy.md, eastern-philosophy-consciousness.md, and existentialism.md for cross-links to the convergence meta-analysis and consistency in how each tradition's position is represented.
+- **Output**: None -- Context: Cross-review tradition-specific articles considering cross-traditional-convergence insights
+
+### ✓ 2026-03-20: Cross-review quantum consciousness articles considering von-neumann-wigner-interpretation insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/von-neumann-wigner-interpretation.md (created 2026-03-20) covers the historical foundation for Tenet 2 — consciousness causes collapse. Cross-review quantum-consciousness.md, quantum-measurement-and-consciousness.md, comparing-quantum-consciousness-mechanisms.md, and stapp-quantum-mind.md for cross-links, whether historical claims are consistent, and opportunities to reference the new concept page.
+- **Output**: None -- Context: Cross-review quantum consciousness articles considering von-neumann-wigner-interpretation insights
+
+### ✓ 2026-03-20: Cross-review Tenet 5 articles considering limits-of-parsimony-in-consciousness-science insights
+- **Type**: cross-review
+- **Notes**: New article topics/limits-of-parsimony-in-consciousness-science.md (created 2026-03-20) systematically develops when and why Occam's Razor fails as a guide to ontology — directly supporting Tenet 5. Cross-review parsimony-epistemology.md, occams-razor.md, arguments-against-materialism.md, and epistemic-advantages-of-dualism.md for cross-links to the new article and consistency in how parsimony limitations are characterised.
+- **Output**: None -- Context: Cross-review Tenet 5 articles considering limits-of-parsimony-in-consciousness-science insights
+
+### ✓ 2026-03-20: Update references to coalesced quantum biology articles
+- **Type**: cross-review
+- **Notes**: Coalesce created quantum-biology-and-neural-consciousness.md from three source articles. The following files reference archived articles and need wikilinks updated: topics/quantum-randomness-channel-llm-consciousness.md, topics/quantum-holism-and-phenomenal-unity.md, topics/comparing-quantum-consciousness-mechanisms.md, topics/penrose-gravity-induced-collapse-empirical-prospects.md, topics/consciousness-and-the-philosophy-of-biology.md, topics/evolution-under-dualism.md, topics/empirical-evidence-for-consciousness-selecting.md, topics/anaesthesia-and-the-consciousness-interface.md, topics/phenomenology-of-volitional-control.md, concepts/quantum-consciousness.md, concepts/quantum-biology.md, concepts/quantum-neural-mechanisms-and-coherence.md, concepts/decoherence.md, concepts/entanglement-binding-hypothesis.md
+- **Output**: None -- Context: Update references to coalesced quantum biology articles
 
 ### ✓ 2026-03-20: Refine anaesthesia-and-the-consciousness-interface.md with new filter/transmission research
 - **Type**: refine-draft

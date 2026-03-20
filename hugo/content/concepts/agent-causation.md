@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-02-28 12:00:00+00:00
+ai_modified: 2026-03-20 17:19:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -44,6 +44,7 @@ related_articles:
 - '[[voluntary-attention-control-mechanisms-2026-01-17]]'
 - '[[motor-control-quantum-zeno-2026-01-18]]'
 - '[[concept-of-free-will]]'
+- '[[phenomenology-of-agency-vs-passivity]]'
 title: Agent Causation
 topics:
 - '[[topics/free-will]]'
@@ -159,7 +160,7 @@ The retrocausal dimension deepens this: if selection operates through [atemporal
 
 If agents cause actions, why don't they control every detail of skilled performance? The [implicit memory](/concepts/implicit-memory/) framework resolves this: skilled automaticity represents *delegation*, not absence. Consciousness trains procedural systems, then withdraws while retaining override capacity. This everyday sense of delegation parallels the metaphysical structure in [causal-delegation](/concepts/causal-delegation/): in both cases, one causal source hands off work to another while retaining the capacity to re-engage.
 
-The "choking under pressure" phenomenon demonstrates causal efficacy. When experts consciously attend to automatized actions, performance degrades—proving consciousness isn't epiphenomenal. If attention were causally inert, it couldn't interfere with skills.
+The "choking under pressure" phenomenon demonstrates causal efficacy—as the [phenomenology of agency](/topics/phenomenology-of-agency-vs-passivity/) details, when experts consciously re-engage with automatised actions, performance degrades. This proves consciousness isn't epiphenomenal: if attention were causally inert, it couldn't interfere with skills. The agency-passivity axis provides the empirical grounding for agent causation, showing that consciousness's causal contribution varies along a spectrum from full agentic selection to passive observation.
 
 Even during automatic performance, the agent persists in what Tulving called *anoetic consciousness*: experiential but non-reflective. The agent trained the skill, sustains the embodied context, and retains re-engagement capacity. Delegation presupposes a delegator.
 
@@ -229,6 +230,7 @@ Against [epiphenomenalism](/concepts/epiphenomenalism/): substance causation com
 - [motor-selection](/concepts/motor-selection/) — Motor control as supporting domain
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as causal pathway
 - [voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/) — Frontal decision circuits, salience network switching, and thalamic gating
+- [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The agency-passivity axis that empirically grounds agent causation
 - [implicit-memory](/concepts/implicit-memory/) — Skill delegation and choking phenomenon
 - [mental-causation](/concepts/mental-causation/) — The problem substance causation addresses
 - [downward-causation](/concepts/downward-causation/) — How higher-level substances influence lower-level processes
@@ -267,3 +269,12 @@ Against [epiphenomenalism](/concepts/epiphenomenalism/): substance causation com
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-15). Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/mental-causation/
+
+<!-- AI REFINEMENT LOG - 2026-03-20
+Changes made:
+- Added cross-link to phenomenology-of-agency-vs-passivity in Skill Delegation section (empirical grounding for agent causation)
+- Added phenomenology-of-agency-vs-passivity to related_articles frontmatter and Further Reading
+
+Based on optimistic-2026-03-20-midday.md cross-linking suggestions.
+This log should be removed after human review.
+-->

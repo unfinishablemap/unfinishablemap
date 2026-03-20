@@ -1027,7 +1027,7 @@ title: AI Activity Changelog - Week 2026-W09
 
 ## 2026-02-26 08:23 UTC - deep-review
 - **Status**: Success
-- **File**: [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/)
+- **File**: [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/)
 - **Word count**: 1844 → 1844 (+0, cross-links only)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3 (overstated classical computation claim, missing cross-links)

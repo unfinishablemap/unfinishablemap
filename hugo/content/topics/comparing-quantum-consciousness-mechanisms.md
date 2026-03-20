@@ -26,7 +26,7 @@ last_deep_review: 2026-03-19 22:47:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[quantum-biology-and-the-consciousness-debate]]'
+- '[[quantum-biology-and-neural-consciousness]]'
 - '[[decoherence]]'
 - '[[prebiotic-collapse]]'
 - '[[coupling-modes]]'
@@ -157,8 +157,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and Penrose OR models
 - [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/) — Why the choice between collapse mechanisms matters philosophically
 - [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Five neural quantum mechanisms with evidence
-- [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) — Why quantum biology shifts the burden of proof
-- [quantum-biology-evidence-in-neural-systems](/topics/quantum-biology-evidence-in-neural-systems/) — Convergence of biological, pharmacological, measurement, and computational evidence
+- [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Quantum biology, neural evidence convergence, and the 2025-2026 experimental turn
 - [decoherence](/concepts/decoherence/) — The decoherence challenge in detail
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Decoherence and timing considerations for neural quantum effects
 - [neural-implementation-specifics](/topics/neural-implementation-specifics/) — Detailed evidence hierarchy for each proposed mechanism

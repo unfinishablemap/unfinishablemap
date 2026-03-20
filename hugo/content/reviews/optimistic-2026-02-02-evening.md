@@ -30,7 +30,7 @@ The framework's use of psychophysical laws (acknowledged debt to Chalmers) is ho
 
 ### The Quantum Mind Theorist (Stapp)
 
-The Map's treatment of quantum biology is precisely what responsible quantum consciousness theorizing requires. [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) correctly notes that the "warm, wet, and noisy" objection has collapsed: "Birds navigate using quantum entanglement. Enzymes accelerate reactions through quantum tunnelling. The categorical objection has collapsed."
+The Map's treatment of quantum biology is precisely what responsible quantum consciousness theorizing requires. [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/) correctly notes that the "warm, wet, and noisy" objection has collapsed: "Birds navigate using quantum entanglement. Enzymes accelerate reactions through quantum tunnelling. The categorical objection has collapsed."
 
 The engagement with Stapp's quantum Zeno mechanism is informed and careful. The site understands that the mechanism doesn't require sustained coherence—"it operates through discrete observation events at neural timescales." The connection between attention and repeated observation is developed in [contemplative-neuroscience-integration](/concepts/contemplative-neuroscience/) with empirical grounding: meditators' training in sustained attention maps onto exactly the capacity Stapp's framework requires.
 
@@ -82,7 +82,7 @@ The contemplative neuroscience integration article acknowledges what remains une
 - **Notable quote**: "The space of reasons isn't just a different way of describing physical causation—it involves properties (normativity, logical entailment, justification) that physical description cannot capture."
 - **Why it works**: Shows how the problem isn't just qualia but rationality itself—a challenge materialists cannot dismiss as mere intuition.
 
-### [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/)
+### [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/)
 
 - **Strongest point**: The careful calibration of what's established vs. hypothetical: quantum biology in warm systems is proven, neural quantum mechanisms remain uncertain.
 - **Notable quote**: "We now know evolution can optimise quantum effects for biological advantage. The burden shifts: why should neural systems be categorically different from eyes, enzymes, and light-harvesting complexes?"

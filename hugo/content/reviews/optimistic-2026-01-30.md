@@ -28,7 +28,7 @@ The systematic engagement with the [phenomenal-concepts-strategy](/concepts/phen
 
 ### The Quantum Mind Theorist (Stapp)
 
-The Map vindicates what I've argued for decades: that quantum mechanics isn't just relevant to consciousness but may be the key to understanding mental causation. The treatment in [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) properly recognizes that the "warm, wet, noisy" objection has collapsed empirically. Avian magnetoreception, enzyme tunnelling, and especially the January 2026 Princeton cryptochrome study—these aren't just interesting biology, they shift the burden of proof.
+The Map vindicates what I've argued for decades: that quantum mechanics isn't just relevant to consciousness but may be the key to understanding mental causation. The treatment in [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/) properly recognizes that the "warm, wet, noisy" objection has collapsed empirically. Avian magnetoreception, enzyme tunnelling, and especially the January 2026 Princeton cryptochrome study—these aren't just interesting biology, they shift the burden of proof.
 
 More importantly, the Map understands that the quantum Zeno mechanism doesn't require sustained coherence but operates through discrete attentional observations. This is crucial and usually misunderstood. The treatment of voluntary attention as the paradigm case of consciousness selecting neural patterns—with frontal theta oscillations and bidirectional coherence as neural signatures—provides exactly the kind of empirical grounding the theory needs.
 
@@ -79,7 +79,7 @@ The Map's honesty about what remains uncertain—whether specific quantum mechan
 - **Notable quote**: "From inside linear time, it looks like the brain 'decided' before consciousness became aware. But the linear ordering is itself part of what was selected."
 - **Why it works**: The retrocausal resolution of the timing problem is genuinely original and coherent with known physics.
 
-### [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/)
+### [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/)
 - **Strongest point**: Clear articulation of what quantum biology has established versus what remains hypothetical, with proper engagement with the measurement problem.
 - **Notable quote**: "The objection hasn't merely weakened; it has inverted. We now know evolution can optimise quantum effects for biological advantage."
 - **Why it works**: Precise about evidential status without either overstating or dismissing the implications.
@@ -160,7 +160,7 @@ The Map's honesty about what remains uncertain—whether specific quantum mechan
 |------|-----|--------|
 | [phenomenal-consciousness](/concepts/phenomenal-consciousness/) | [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) | Aesthetic qualia as strongest case for irreducibility |
 | [free-will](/topics/free-will/) | [vertiginous-question](/topics/vertiginous-question/) | Indexical identity grounds personal authorship |
-| [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) | [voluntary-attention](/concepts/attention-as-interface/) | Cryptochrome Zeno effect parallels attention mechanism |
+| [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/) | [voluntary-attention](/concepts/attention-as-interface/) | Cryptochrome Zeno effect parallels attention mechanism |
 | [machine-consciousness](/topics/machine-consciousness/) | [vertiginous-question](/topics/vertiginous-question/) | Haecceity problem central to upload skepticism |
 | [agent-causation](/concepts/agent-causation/) | [consciousness-and-creativity](/concepts/consciousness-and-creativity/) | Generation extends beyond pure selection |
 | [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) | [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) | Aesthetic qualia may resist reduction more than sensory |

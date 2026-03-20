@@ -113,7 +113,7 @@ The categorical version of Claim 1 holds that warm biological systems *cannot* s
 - **Enzyme catalysis** achieves reaction-rate acceleration partly through quantum tunnelling, with large kinetic isotope effects confirming the mechanism.
 - **Photosynthesis** demonstrates quantum effects in the FMO complex, though their functional significance has been revised downward.
 
-These examples establish that evolution *can* harness quantum effects in warm, wet systems. Whether similar mechanisms operate in neural tissue remains an open empirical question. The [quantum biology](/concepts/quantum-biology/) and [quantum biology in the consciousness debate](/topics/quantum-biology-and-the-consciousness-debate/) articles examine the evidence in detail.
+These examples establish that evolution *can* harness quantum effects in warm, wet systems. Whether similar mechanisms operate in neural tissue remains an open empirical question. The [quantum biology](/concepts/quantum-biology/) and [quantum biology in the consciousness debate](/topics/quantum-biology-and-neural-consciousness/) articles examine the evidence in detail.
 
 This response eliminates the categorical objection but leaves the specific neural question open.
 

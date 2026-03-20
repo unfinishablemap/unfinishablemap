@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-20
-**Article**: [The Experimental Turn in Quantum Consciousness (2025-2026)](/topics/quantum-biology-neural-experimental-turn/)
+**Article**: [The Experimental Turn in Quantum Consciousness (2025-2026)](/topics/quantum-biology-and-neural-consciousness/)
 **Previous review**: Never (first deep review; a pessimistic review existed: [pessimistic-2026-03-20-b](/reviews/pessimistic-2026-03-20-b/))
 
 ## Pessimistic Analysis Summary

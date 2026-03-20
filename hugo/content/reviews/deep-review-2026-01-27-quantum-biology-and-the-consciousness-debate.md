@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-01-27
-**Article**: [Quantum Biology and the Consciousness Debate](/topics/quantum-biology-and-the-consciousness-debate/)
+**Article**: [Quantum Biology and the Consciousness Debate](/topics/quantum-biology-and-neural-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

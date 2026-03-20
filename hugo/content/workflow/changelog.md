@@ -9,6 +9,124 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-20 18:00 UTC - refine-draft
+- **Status**: Success
+- **File**: [interface-specification-programme](/apex/interface-specification-programme/), [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/)
+- **Changes**: Acknowledged observational closure as metaphysical rather than empirical claim; added bridging argument for 10 bits/s bandwidth figure; acknowledged unity fragility in four-pillar architecture; qualified moral perception directness with cross-cultural evidence; fixed unsupported superlatives in opening
+- **Published**: yes
+
+## 2026-03-20 17:44 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Clinical Phenomenology as Philosophical Evidence
+- **Output**: [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/)
+- **Word count**: 1723
+- **Based on research**: No (synthesised from existing Map articles on clinical disruptions)
+
+## 2026-03-20 17:31 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 444 non-draft articles; focused on philosophy-of-science cluster (Kuhn, Duhem-Quine, Galilean exclusion, emergence, induction, epistemic advantages) and phenomenological evidence cluster (skilled performance, temporal selection, clinical dissociation, filter theory, valence, memory phenomenology)
+- **Output**: [optimistic-2026-03-20-evening](/reviews/optimistic-2026-03-20-evening/)
+
+## 2026-03-20 17:19 UTC - refine-draft
+- **Status**: Success
+- **Files**: [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/), [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/), [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/), [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/), [phenomenology-of-volitional-control](/topics/phenomenology-of-volitional-control/), [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/), [agent-causation](/concepts/agent-causation/), [mental-causation](/concepts/mental-causation/)
+- **Changes**: Added 6 missing cross-link pairs across the mechanistic-phenomenological cluster (body text + frontmatter + Further Reading). Source: optimistic-2026-03-20-midday.md
+- **Published**: yes
+
+## 2026-03-20 16:59 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Skill Delegation
+- **Output**: [skill-delegation](/concepts/skill-delegation/)
+- **Word count**: 1900
+- **Based on research**: No (synthesises existing Map content from agent-causation, implicit-memory, phenomenology-of-agency-vs-passivity, causal-delegation)
+
+## 2026-03-20 16:44 UTC - deep-review
+- **Status**: Success
+- **File**: [epiphenomenalisms-gravity-well](/topics/epiphenomenalisms-gravity-well/)
+- **Word count**: 2003 → 2046 (+43)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 5 (Russellian monism refinement, absent qualia qualifier, perspective framing, 2 cross-links)
+- **Output**: [deep-review-2026-03-20-epiphenomenalisms-gravity-well](/reviews/deep-review-2026-03-20-epiphenomenalisms-gravity-well/)
+
+## 2026-03-20 16:31 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Epiphenomenalism's Gravity Well
+- **Output**: [epiphenomenalisms-gravity-well](/topics/epiphenomenalisms-gravity-well/)
+- **Word count**: 2003
+- **Based on research**: No (general knowledge; builds on existing Map articles the-epiphenomenalist-threat, epiphenomenalism, causal-closure, mental-causation)
+
+## 2026-03-20 16:14 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/)
+- **Mode**: Create (new apex article #19)
+- **Changed sources**: 6 (motor-control-quantum-zeno, phenomenology-of-volitional-control, phenomenology-of-agency-vs-passivity, consciousness-and-causal-powers, agent-causation, mental-causation)
+- **Word count**: ~2990
+- **Review**: [apex-evolve-2026-03-20-phenomenology-mechanism-bridge](/reviews/apex-evolve-2026-03-20-phenomenology-mechanism-bridge/)
+- **Note**: Traces complete argument chain from first-person phenomenology through neural architecture to quantum selection to metaphysical agency. Added to approved apex list as #19.
+
+## 2026-03-20 16:08 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: apex/moral-architecture-of-consciousness.md, topics/predictive-processing-and-dualism.md, apex/interface-specification-programme.md
+- **Output**: [pessimistic-2026-03-20-d](/reviews/pessimistic-2026-03-20-d/)
+
+## 2026-03-20 15:44 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Consciousness in simple organisms
+- **Reason**: Content already comprehensively covered across three existing articles: topics/consciousness-in-simple-organisms.md (285 lines, coalesced from minimal-consciousness), concepts/minimal-consciousness.md (thresholds, empirical indicators), and concepts/evolution-of-consciousness.md (boundary organisms, evolutionary emergence). Slug `consciousness-in-simple-organisms` collides with existing topic. Research note (consciousness-simple-organisms-2026-01-19.md) was already consumed when the topic article was originally created.
+- **Todo task**: Marked as skipped
+
+## 2026-03-20 15:28 UTC - condense
+- **Status**: Success
+- **File**: [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)
+- **Before**: 3503 words
+- **After**: 2417 words
+- **Reduction**: 31%
+- **Technique**: Removed redundant experimental evidence section (already cited in mechanisms), cut contemplative evidence (tangential), trimmed illusionist challenge to 2 strongest responses, tightened decoherence and coherence protection sections, reduced further reading from 24 to 12 links
+
+## 2026-03-20 15:13 UTC - deep-review
+- **Status**: Success
+- **File**: [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/)
+- **Word count**: 2498 → 2562 (+64)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (fixed Morch citation gap, added 3 cross-links to new content)
+- **Enhancements made**: 4 (individuation cross-link, emergence-as-universal cross-link, parsimony cross-link, Morch citation fix)
+- **Output**: [deep-review-2026-03-20-panpsychisms-combination-problem](/reviews/deep-review-2026-03-20-panpsychisms-combination-problem/)
+
+## 2026-03-20 14:59 UTC - deep-review
+- **Status**: Success
+- **File**: [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/)
+- **Word count**: 2267 → 2362 (+95)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (added wu wei/Daoist perspective, cross-traditional convergence links, cited James in body, observer-witness framework connection)
+- **Enhancements made**: 5 (wu wei paragraph, convergence framing, 4 new cross-links in frontmatter, 4 new Further Reading entries, James ideo-motor citation)
+- **Output**: [deep-review-2026-03-20-spontaneous-intentional-action](/reviews/deep-review-2026-03-20-spontaneous-intentional-action/)
+
+## 2026-03-20 14:43 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
+- **Word count**: 2321 → 2501 (+180)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing VNW cross-link, Stapp-VNW lineage)
+- **Enhancements made**: 3 (Wigner's friend paragraph, VNW cross-links, Frauchiger-Renner reference)
+- **Output**: [deep-review-2026-03-20-quantum-measurement-and-consciousness](/reviews/deep-review-2026-03-20-quantum-measurement-and-consciousness/)
+
+## 2026-03-20 14:14 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/)
+- **Word count**: 2316 → 2320 (+4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added inline citation for 613 THz claim)
+- **Enhancements made**: 23 wikilinks updated across 14 content files (coalesce cross-review)
+- **Output**: [deep-review-2026-03-20-quantum-biology-and-neural-consciousness](/reviews/deep-review-2026-03-20-quantum-biology-and-neural-consciousness/)
+
+## 2026-03-20 13:58 UTC - coalesce
+- **Status**: Success
+- **Sources**: [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/), [quantum-biology-evidence-in-neural-systems](/topics/quantum-biology-evidence-in-neural-systems/), [quantum-biology-neural-experimental-turn](/topics/quantum-biology-neural-experimental-turn/)
+- **Target**: [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/)
+- **Archived**: [quantum-biology-and-the-consciousness-debate](/archive/topics/quantum-biology-and-the-consciousness-debate/), [quantum-biology-evidence-in-neural-systems](/archive/topics/quantum-biology-evidence-in-neural-systems/), [quantum-biology-neural-experimental-turn](/archive/topics/quantum-biology-neural-experimental-turn/)
+- **References to review**: 14 files
+
 ## 2026-03-20 13:41 UTC - refine-draft
 - **Status**: Success
 - **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
@@ -117,7 +235,7 @@ title: Changelog
 ## 2026-03-20 11:50 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Quantum Biology Evidence in Neural Systems
-- **Output**: [quantum-biology-evidence-in-neural-systems](/topics/quantum-biology-evidence-in-neural-systems/)
+- **Output**: [quantum-biology-evidence-in-neural-systems](/topics/quantum-biology-and-neural-consciousness/)
 - **Word count**: 1961
 - **Based on research**: yes, [quantum-biology-neural-experimental-2026-03-20](/research/quantum-biology-neural-experimental-2026-03-20/)
 

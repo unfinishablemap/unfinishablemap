@@ -166,7 +166,7 @@ A newer competing proposal suggests spintronic coherence in microtubules:
 
 ### What Remains Uncertain
 
-Neither Orch OR nor QBIT has been definitively confirmed. The existence of brain quantum effects relevant to consciousness remains an open empirical question. What quantum biology has established is that the categorical objection—"quantum effects can't happen in biology"—is false. For a systematic assessment of how biological precedent, pharmacological evidence, direct measurements, and computational modelling converge on the case for neural quantum effects, see [the convergence analysis](/topics/quantum-biology-evidence-in-neural-systems/).
+Neither Orch OR nor QBIT has been definitively confirmed. The existence of brain quantum effects relevant to consciousness remains an open empirical question. What quantum biology has established is that the categorical objection—"quantum effects can't happen in biology"—is false. For a systematic assessment of how biological precedent, pharmacological evidence, direct measurements, and computational modelling converge on the case for neural quantum effects, see [the convergence analysis](/topics/quantum-biology-and-neural-consciousness/).
 
 ## The Decoherence Challenge
 
@@ -279,7 +279,7 @@ The Map's position on quantum biology would face serious difficulty if:
 - [decoherence](/concepts/decoherence/) — The decoherence objection and why it doesn't solve the measurement problem
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum approaches to consciousness including Orch OR and quantum Zeno
 - [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Detailed treatment of neural coherence evidence
-- [quantum-biology-evidence-in-neural-systems](/topics/quantum-biology-evidence-in-neural-systems/) — Convergence of four evidence lines for neural quantum effects
+- [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Quantum biology, neural evidence convergence, and the consciousness debate
 - [measurement-problem](/concepts/measurement-problem/) — Why quantum mechanics leaves outcomes undetermined
 - [attention-as-interface](/concepts/attention-as-interface/) — How the quantum Zeno mechanism might work
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Henry Stapp's quantum Zeno approach to mental causation

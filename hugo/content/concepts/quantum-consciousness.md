@@ -68,7 +68,7 @@ Orch OR locates quantum effects in microtubules—protein structures inside neur
 - Room-temperature superradiance in tryptophan networks demonstrates quantum collective behavior at body temperature
 - **2025 Wiest et al.**: Anesthetics abolish a 613 THz quantum oscillation peak in microtubules while non-anesthetics don't—a testable signature, though independent replication is needed
 
-These findings form part of a broader [convergence of independent evidence lines](/topics/quantum-biology-evidence-in-neural-systems/)—biological precedent, pharmacological correlation, direct measurement, and computational modelling—that strengthens the cumulative case even where individual lines remain inconclusive.
+These findings form part of a broader [convergence of independent evidence lines](/topics/quantum-biology-and-neural-consciousness/)—biological precedent, pharmacological correlation, direct measurement, and computational modelling—that strengthens the cumulative case even where individual lines remain inconclusive.
 
 **Challenge**: The [decoherence objection](/concepts/decoherence/) remains the most serious obstacle. Tegmark calculated coherence times of 10⁻¹³ seconds—too short for neural relevance. Revised calculations accounting for protective mechanisms extend estimates to 10⁻⁵ seconds, but **this is still three orders of magnitude shorter than neural decisions (~300ms)**—the [timing gap](/concepts/timing-gap-problem/) is reduced but not eliminated for mechanisms requiring sustained coherence. However, [alternative mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) operate through discrete quantum events rather than continuous superposition, sidestepping this constraint entirely. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing analysis.
 
@@ -228,7 +228,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 - [it-from-bit-and-participatory-ontology](/topics/it-from-bit-and-participatory-ontology/) — Wheeler's information ontology and the case for informational foundations
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Which interpretations leave room for consciousness as causal participant
 - [quantum-biology](/concepts/quantum-biology/) — Evolution exploiting quantum effects
-- [quantum-biology-evidence-in-neural-systems](/topics/quantum-biology-evidence-in-neural-systems/) — Convergence of four evidence lines for neural quantum effects
+- [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Quantum biology, neural evidence convergence, and the consciousness debate
 
 ## References
 

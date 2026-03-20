@@ -45,7 +45,7 @@ topics: []
 - Added cross-links to consciousness-selecting-neural-patterns and comparing-quantum-consciousness-mechanisms in Further Reading
 
 ### Cross-links Added (FROM other articles TO this article — orphan integration)
-- [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) — inline link after neural mechanisms section
+- [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/) — inline link after neural mechanisms section
 - [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — added to Further Reading
 - [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/) — added to Further Reading
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — inline link after selection sites discussion

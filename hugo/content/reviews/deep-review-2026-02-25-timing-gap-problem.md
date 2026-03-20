@@ -81,7 +81,7 @@ This was the primary focus of this review. Added `[timing-gap-problem](/concepts
 5. **[comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)** — In Evaluation Criteria: "sidestep the [timing gap](/concepts/timing-gap-problem/)"
 6. **[quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)** — Opening paragraph: "the [timing gap](/concepts/timing-gap-problem/), a chasm of twelve orders of magnitude"
 7. **[quantum-decoherence-objection-responses](/concepts/decoherence/)** — In Claim 1: "(the [timing-gap-problem](/concepts/timing-gap-problem/))"
-8. **[quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/)** — In "The Objection That Collapsed": "This [timing gap](/concepts/timing-gap-problem/) appeared unbridgeable"
+8. **[quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/)** — In "The Objection That Collapsed": "This [timing gap](/concepts/timing-gap-problem/) appeared unbridgeable"
 9. **[agent-causation](/concepts/agent-causation/)** — In "The Map's Framework": "(the [timing-gap-problem](/concepts/timing-gap-problem/))"
 
 ## Remaining Items
