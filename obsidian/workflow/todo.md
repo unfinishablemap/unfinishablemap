@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review quantum-consciousness articles considering consciousness-physics-interface-formalism insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article concepts/consciousness-physics-interface-formalism.md was created 2026-03-19. Articles on quantum consciousness mechanisms (comparing-quantum-consciousness-mechanisms.md, quantum-consciousness.md, mind-matter-interface.md) should cross-reference this formal treatment. Check for places to add [[consciousness-physics-interface-formalism]] links and integrate the mathematical framework.
-- **Source**: chain (from consciousness-physics-interface-formalism.md)
-- **Generated**: 2026-03-19
-
 ### P2: Condense russellian-monism.md (3830 words, 109% of hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -858,6 +851,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Cross-review quantum-consciousness articles considering consciousness-physics-interface-formalism insights
+- **Type**: cross-review
+- **Notes**: New article concepts/consciousness-physics-interface-formalism.md was created 2026-03-19. Articles on quantum consciousness mechanisms (comparing-quantum-consciousness-mechanisms.md, quantum-consciousness.md, mind-matter-interface.md) should cross-reference this formal treatment. Check for places to add [[consciousness-physics-interface-formalism]] links and integrate the mathematical framework.
+- **Output**: None -- Context: Cross-review quantum-consciousness articles considering consciousness-physics-interface-formalism insights
 
 ### ✓ 2026-03-20: Address empirical indistinguishability and Zeno overreliance in multi-mind-collapse-problem.md
 - **Type**: refine-draft
