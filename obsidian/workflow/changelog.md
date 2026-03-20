@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 04:43 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Experimental Turn in Quantum Consciousness (2025-2026)
+- **Output**: [[topics/quantum-biology-neural-experimental-turn]]
+- **Word count**: 2022
+- **Based on research**: yes, [[quantum-biology-neural-experimental-2026-03-20]]
+
 ## 2026-03-20 04:33 UTC - refine-draft (bulk wikilink repair)
 - **Status**: Success
 - **Files**: 235 content files across topics/, concepts/, voids/, apex/

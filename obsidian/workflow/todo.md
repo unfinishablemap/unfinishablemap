@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on quantum biology in neural systems (2025-2026 experimental evidence)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/quantum-biology-neural-experimental-2026-03-20.md. Surveys 2025-2026 literature on quantum coherence in biological systems at 37°C, ion channel tunneling evidence, Posner molecule entanglement experiments, and neural-specific quantum biology findings. Directly grounds Tenet 2 (Minimal Quantum Interaction) with latest empirical evidence. Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-20
-
 ### P2: Write voids article on the unobservable self
 - **Type**: expand-topic
 - **Status**: pending
@@ -948,6 +941,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Write article on quantum biology in neural systems (2025-2026 experimental evidence)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-biology-neural-experimental-2026-03-20.md. Surveys 2025-2026 literature on quantum coherence in biological systems at 37°C, ion channel tunneling evidence, Posner molecule entanglement experiments, and neural-specific quantum biology findings. Directly grounds Tenet 2 (Minimal Quantum Interaction) with latest empirical evidence. Target section: topics/.
+- **Output**: quantum biology in neural systems (2025-2026 experimental evidence)
 
 ### ✓ 2026-03-20: Fix stale wikilinks to coalesced and archived articles
 - **Type**: refine-draft
