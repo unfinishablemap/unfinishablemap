@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 13:19 UTC - deep-review (archived article cleanup)
+- **Status**: Success
+- **File**: [[measurement-problem-as-hard-problem]] (archived → successor [[quantum-measurement-and-consciousness]])
+- **Word count**: N/A (article archived, no obsidian source)
+- **Critical issues addressed**: 3 (1 stale frontmatter link, 2 stale Hugo artifacts)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-03-20-measurement-problem-as-hard-problem]]
+
 ## 2026-03-20 13:11 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[topics/epistemology-of-introspection]], [[topics/epistemology-of-introspective-calibration]]

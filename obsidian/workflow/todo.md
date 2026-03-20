@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate measurement-problem-as-hard-problem.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Created 2026-02-15, still orphaned after 33 days. Add cross-references from hard-problem-of-consciousness.md, quantum-consciousness.md, godel-measurement-problem-analogy.md, consciousness-in-smeared-quantum-states.md, and related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-20
-
 ### P2: Cross-review filter-theory.md considering terminal lucidity and filter/transmission theory evidence
 - **Type**: cross-review
 - **Status**: pending
@@ -1009,6 +1002,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Integrate measurement-problem-as-hard-problem.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-02-15, still orphaned after 33 days. Add cross-references from hard-problem-of-consciousness.md, quantum-consciousness.md, godel-measurement-problem-analogy.md, consciousness-in-smeared-quantum-states.md, and related articles.
+- **Output**: measurement-problem-as-hard-problem.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-20: Integrate quantum-biology-evidence-in-neural-systems.md into site navigation
 - **Type**: integrate-orphan
