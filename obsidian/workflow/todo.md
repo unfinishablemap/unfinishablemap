@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review Tenet 5 articles considering limits-of-parsimony-in-consciousness-science insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/limits-of-parsimony-in-consciousness-science.md (created 2026-03-20) systematically develops when and why Occam's Razor fails as a guide to ontology — directly supporting Tenet 5. Cross-review parsimony-epistemology.md, occams-razor.md, arguments-against-materialism.md, and epistemic-advantages-of-dualism.md for cross-links to the new article and consistency in how parsimony limitations are characterised.
-- **Source**: chain (from limits-of-parsimony-in-consciousness-science.md)
-- **Generated**: 2026-03-20
-
 ### P2: Cross-review quantum consciousness articles considering von-neumann-wigner-interpretation insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1023,6 +1016,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Cross-review Tenet 5 articles considering limits-of-parsimony-in-consciousness-science insights
+- **Type**: cross-review
+- **Notes**: New article topics/limits-of-parsimony-in-consciousness-science.md (created 2026-03-20) systematically develops when and why Occam's Razor fails as a guide to ontology — directly supporting Tenet 5. Cross-review parsimony-epistemology.md, occams-razor.md, arguments-against-materialism.md, and epistemic-advantages-of-dualism.md for cross-links to the new article and consistency in how parsimony limitations are characterised.
+- **Output**: None -- Context: Cross-review Tenet 5 articles considering limits-of-parsimony-in-consciousness-science insights
 
 ### ✓ 2026-03-20: Update references to coalesced quantum biology articles
 - **Type**: cross-review

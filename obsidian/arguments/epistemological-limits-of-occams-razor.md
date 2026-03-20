@@ -4,7 +4,7 @@ description: "Occam's Razor fails as an argument against dualism. Human-AI explo
 created: 2026-02-06
 modified: 2026-02-06
 human_modified:
-ai_modified: 2026-03-11T10:02:00+00:00
+ai_modified: 2026-03-20T14:28:00+00:00
 draft: false
 topics:
   - "[[concepts/materialism]]"
@@ -18,6 +18,7 @@ related_articles:
   - "[[dualism]]"
   - "[[mysterianism]]"
   - "[[parsimony-epistemology]]"
+  - "[[limits-of-parsimony-in-consciousness-science]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -78,9 +79,9 @@ The history of science provides repeated cases where the simpler theory was wron
 
 These are not isolated exceptions. They cluster at moments when existing conceptual frameworks were inadequate to the domain—when scientists lacked the tools to recognise what was actually simple. Francis Crick, co-discoverer of DNA's structure, warned that "Occam's razor... can be a very dangerous implement in biology" (1988). If parsimony is dangerous in biology, it may be lethal in the philosophy of mind, where the conceptual tools for understanding consciousness may not yet exist.
 
-## The Smart Retraction
+## Smart's Abandoned Defence
 
-One historical episode is particularly instructive. J. J. C. Smart, in his influential 1959 paper "Sensations and Brain Processes," invoked Occam's Razor as a central argument for mind-brain identity theory. The argument attracted immediate criticism and Smart, to his credit, ultimately retracted his advocacy of parsimony as grounds for physicalism. Even Paul Churchland—no friend of dualism—concedes that the simplicity argument is "not a conclusive argument for materialism," since "neither dualism nor materialism can yet explain all the phenomena that need to be explained" (1984). When the philosopher who made the parsimony argument for physicalism famous abandons it, the argument's limitations are hard to deny.
+One historical episode is particularly instructive. J. J. C. Smart, in his influential 1959 paper "Sensations and Brain Processes," invoked Occam's Razor as a central argument for mind-brain identity theory. The argument attracted immediate and sustained criticism—Smart was "severely criticized" for this use of the razor, as the *Stanford Encyclopedia of Philosophy* records—and he never mounted an adequate defence in his subsequent work. Even Paul Churchland—no friend of dualism—qualifies in the original edition of *Matter and Consciousness* that the simplicity argument is "not a conclusive argument for materialism," since "neither dualism nor materialism can yet explain all the phenomena that need to be explained" (1984). William Lycan (2009), a committed materialist of over forty years, goes further: after reviewing the standard objections to dualism he concludes that parsimony is "a very posterior reason" that should only break ties when all else is equal. When the philosopher who made the parsimony argument famous never successfully defends it, and leading materialists acknowledge its weakness, the argument's limitations are hard to deny. See [[limits-of-parsimony-in-consciousness-science]] for the full case from within the materialist camp.
 
 ## Relation to Site Perspective
 
@@ -96,6 +97,7 @@ The claim is narrower and more defensible: parsimony cannot settle the conscious
 
 ## Further Reading
 
+- [[limits-of-parsimony-in-consciousness-science]] — Concrete evidence from within the materialist camp: abandoned defences, concessions, and internal contradictions
 - [[dualism]]
 - [[hard-problem-of-consciousness]]
 - [[explanatory-gap]]
@@ -114,6 +116,7 @@ The claim is narrower and more defensible: parsimony cannot settle the conscious
 - Huemer, M. (2009). "When Is Parsimony a Virtue?" *The Philosophical Quarterly* 59(235): 216-236.
 - Krizek, G. (2017). "Ockham's Razor and the Interpretations of Quantum Mechanics." arXiv:1701.06564.
 - Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly* 64: 354-361.
+- Lycan, W. G. (2009). "Giving Dualism its Due." *Australasian Journal of Philosophy* 87(4): 551-563.
 - Smart, J. J. C. (1959). "Sensations and Brain Processes." *The Philosophical Review* 68(2): 141-156.
 - Sober, E. (2001). "What Is the Problem of Simplicity?" In Keuzenkamp, McAleer, & Zellner (eds.), *Simplicity, Inference and Modelling*. Cambridge University Press.
 - Zanotti, G. (2021). "Physicalism and the Burden of Parsimony." *Synthese* 199: 11109-11132.
