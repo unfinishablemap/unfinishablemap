@@ -3,7 +3,7 @@ title: "The Epistemology of Introspection and Its Calibration"
 created: 2026-03-10
 modified: 2026-03-20
 human_modified: null
-ai_modified: 2026-03-20T13:11:00+00:00
+ai_modified: 2026-03-20T13:33:00+00:00
 draft: false
 description: "What kind of knowledge does introspection provide, and how reliable is it? Competing models, five calibration strategies, and a gradient of warranted trust that grounds the Map's phenomenal evidence."
 topics:
@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-20T13:33:00+00:00
 coalesced_from:
   - "/topics/epistemology-of-introspection/"
   - "/topics/epistemology-of-introspective-calibration/"
@@ -96,7 +96,7 @@ The Map's position is that introspection constitutes a sui generis epistemic cap
 
 **Domain-variable reliability.** Introspective reliability varies systematically: strongest for attended phenomenal content, weaker for background states, absent for causal processes. The calibration strategies map this gradient in detail.
 
-**Trainability.** Introspective skill improves with practice along a logarithmic learning curve matching genuine perceptual skill acquisition (Fox et al. 2012). [[neurophenomenology|Neurophenomenological]] validation confirms trained reports predict neural signatures that untrained reports miss.
+**Trainability.** Introspective skill improves with practice — meditation experience predicts introspective accuracy in a pattern consistent with genuine perceptual skill acquisition (Fox et al. 2012). [[neurophenomenology|Neurophenomenological]] validation confirms trained reports predict neural signatures that untrained reports miss.
 
 ## Five Calibration Strategies
 
@@ -118,7 +118,7 @@ Convergence is strongest for *structural* features and weakest for *interpretive
 
 ### Strategy Three: Cross-Modal Verification
 
-Francisco Varela's [[neurophenomenology]] combines trained first-person reports with third-person neural measurement. Experienced meditators' reports of reduced mind-wandering correspond to reduced default mode network activity (Brewer et al. 2011). Jhāna states have distinct neural signatures confirmed by 7-Tesla fMRI (Hagerty et al. 2013). If training merely produced more elaborate confabulations, reports should diverge from neural data as practice introduces biases. Instead, convergence *increases* with training.
+Francisco Varela's [[neurophenomenology]] combines trained first-person reports with third-person neural measurement. Experienced meditators' reports of reduced mind-wandering correspond to reduced default mode network activity (Brewer et al. 2011). A 7-Tesla fMRI case study documented distinct neural signatures for jhāna states (Hagerty et al. 2013). If training merely produced more elaborate confabulations, reports should diverge from neural data as practice introduces biases. Instead, convergence *increases* with training.
 
 The limitation is fundamental: cross-modal verification calibrates the *reporting process*, not the *phenomenal access* underlying it. Neural correlates confirm that distinct brain states accompany distinct reports but cannot verify that reports accurately capture what it is like to be in those states.
 
@@ -134,7 +134,7 @@ Predictive success does not prove phenomenal accuracy — a systematically disto
 
 ### Strategy Five: Training-Dependent Accuracy
 
-If introspection were fundamentally broken, practice should not improve performance. Fox et al.'s (2012) logarithmic learning curve for introspective accuracy follows the pattern characteristic of genuine skill acquisition. Baird et al. (2014) found meditation training enhanced [[metacognition|metacognitive]] accuracy — meta-calibration: better knowledge of *when* introspection is working.
+If introspection were fundamentally broken, practice should not improve performance. Fox et al. (2012) found that meditation experience predicted introspective accuracy, following a pattern characteristic of genuine skill acquisition. Baird et al. (2014) found meditation training enhanced [[metacognition|metacognitive]] accuracy — meta-calibration: better knowledge of *when* introspection is working.
 
 The sceptic can respond that training improves consistency without improving accuracy. The response combines this strategy with convergence and cross-modal verification: training effects from *independent* traditions converge, and cross-modal verification confirms trained reports track neural reality more precisely.
 

@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 13:33 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/epistemology-of-introspection-and-calibration]]
+- **Word count**: 2837 → 2845 (+8)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-03-20-epistemology-of-introspection-and-calibration]]
+
 ## 2026-03-20 13:26 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/filter-theory]]
