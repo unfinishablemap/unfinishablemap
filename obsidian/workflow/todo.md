@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review hard-problem-of-consciousness.md considering metaproblem insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article metaproblem-of-consciousness-under-dualism.md (created 2026-03-19) addresses why we think consciousness is problematic — a meta-level question directly relevant to the hard problem article. Check for cross-links, whether the metaproblem reframes any hard problem arguments, and terminology consistency between the two articles.
-- **Source**: chain (from metaproblem-of-consciousness-under-dualism.md)
-- **Generated**: 2026-03-20
-
 ### P2: Cross-review born-rule-derivation-failures-consciousness-collapse.md considering mathematical-structure insights
 - **Type**: cross-review
 - **Status**: pending
@@ -876,6 +869,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Cross-review hard-problem-of-consciousness.md considering metaproblem insights
+- **Type**: cross-review
+- **Notes**: New article metaproblem-of-consciousness-under-dualism.md (created 2026-03-19) addresses why we think consciousness is problematic — a meta-level question directly relevant to the hard problem article. Check for cross-links, whether the metaproblem reframes any hard problem arguments, and terminology consistency between the two articles.
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md -- Context: Cross-review hard-problem-of-consciousness.md considering metaproblem insights
 
 ### ✓ 2026-03-20: Cross-review consciousness-physics-interface-formalism.md considering mathematical-structure insights
 - **Type**: cross-review
