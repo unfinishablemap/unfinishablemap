@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 08:22 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/social-construction-of-self-vs-phenomenal-self]]
+- **Word count**: 2084 → ~2120 (+36)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3 (Barrett citation, Rochat citation, Gergen reference)
+- **Output**: [[reviews/deep-review-2026-03-20-social-construction-of-self-vs-phenomenal-self]]
+
 ## 2026-03-20 08:14 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/argument-from-reason]]
