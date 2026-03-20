@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-19T22:25:00+00:00
+ai_modified: 2026-03-20T02:49:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on limits of parsimony arguments in consciousness science
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/limits-of-parsimony-consciousness-2026-03-20.md. Covers Baker and Sober on when simplicity fails, Huemer on theoretical virtues, historical cases where simpler theories were wrong, and Swinburne's argument that dualism is simpler in some respects. Directly supports Tenet 5 (Occam's Razor Has Limits), which currently has only one concept page (parsimony-epistemology.md). Target section: topics/.
+- **Source**: unconsumed_research + chain
+- **Generated**: 2026-03-20
+
+### P2: Cross-review quantum consciousness articles considering von Neumann-Wigner interpretation insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article concepts/von-neumann-wigner-interpretation.md (created 2026-03-20) covers the historical foundation for consciousness-causes-collapse. Review comparing-quantum-consciousness-mechanisms.md, stapp-quantum-mind.md, and quantum-measurement-and-consciousness.md for cross-links, consistency in how the von Neumann-Wigner interpretation is characterised, and whether the new dedicated concept page changes how these articles should present the historical lineage.
+- **Source**: chain (from von-neumann-wigner-interpretation.md)
+- **Generated**: 2026-03-20
+
+### P2: Cross-review convergence articles considering cross-traditional convergence insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/cross-traditional-convergence-on-consciousness-irreducibility.md (created 2026-03-20) systematically analyses why independent philosophical traditions converge on consciousness irreducibility. Review the-convergence-argument-for-dualism.md, the-hard-problem-in-non-western-philosophy.md, and eastern-philosophy-consciousness.md for cross-links, reinforcing arguments, and whether the convergence argument's evidential force is strengthened by this new systematic treatment.
+- **Source**: chain (from cross-traditional-convergence-on-consciousness-irreducibility.md)
+- **Generated**: 2026-03-20
+
+### P3: Deep review von-neumann-wigner-interpretation.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-20 via expand-topic, never reviewed. Concept page on the von Neumann-Wigner consciousness-causes-collapse interpretation — the historical foundation for Tenet 2. Verify accuracy of historical claims (von Neumann 1932, Wigner 1961, London-Bauer 1939), coherence, cross-references to quantum mechanism articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-20
+
+### P3: Deep review cross-traditional-convergence-on-consciousness-irreducibility.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-20 via expand-topic, never reviewed. Topics article on why independent philosophical traditions converge on consciousness irreducibility. Verify accuracy of tradition representations, coherence of the meta-analysis, cross-references to tradition-specific articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-20
+
+### P3: Deep review metaproblem-of-consciousness-under-dualism.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Topics article on Chalmers' metaproblem through a dualist lens — why we think consciousness is problematic. Verify accuracy of Chalmers' (2018) position, coherence of the dualist response, cross-references to hard-problem-of-consciousness.md and meta-problem-of-consciousness.md, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-20
 
 ### P3: Research clinical neuroplasticity evidence for bidirectional mental causation
 - **Type**: research-topic
