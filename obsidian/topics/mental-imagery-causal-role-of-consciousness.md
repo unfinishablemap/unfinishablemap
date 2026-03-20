@@ -4,7 +4,7 @@ description: "Voluntary mental imagery provides a distinctive test case for cons
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-19T17:33:00+00:00
+ai_modified: 2026-03-20T07:37:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-22
 last_curated:
-last_deep_review: 2026-02-22T11:03:00+00:00
+last_deep_review: 2026-03-20T07:37:00+00:00
 ---
 
 Does consciousness cause anything? Or does it merely accompany neural processes that would proceed identically without it? The Unfinishable Map's [[bidirectional-interaction]] tenet commits to the former: consciousness causally influences the physical world. Mental imagery offers one of the most revealing test cases for this claim. When you voluntarily visualize a movement and then execute it better as a result, the causal chain runs from conscious imagining to physical performance. The challenge is showing that phenomenal properties contribute causally beyond what neural properties alone explain.
@@ -135,7 +135,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly to
 
 [^motor]: Di Rienzo, F. et al. (2016). Online and offline performance gains following motor imagery practice. *Frontiers in Human Neuroscience*, 10, 315.
 
-[^vyshedskiy]: Vyshedskiy, A. (2019). Voluntary and Involuntary Imagination: Neurological Mechanisms, Developmental Path, Clinical Implications, and Evolutionary Trajectory.
+[^vyshedskiy]: Vyshedskiy, A. (2019). Voluntary and Involuntary Imagination: Neurological Mechanisms, Developmental Path, Clinical Implications, and Evolutionary Trajectory. *Research Ideas and Outcomes*, 5, e38775.
 
 [^zeman]: Zeman, A. et al. (2024). Aphantasia and hyperphantasia: exploring imagery vividness extremes. *Trends in Cognitive Sciences*.
 
