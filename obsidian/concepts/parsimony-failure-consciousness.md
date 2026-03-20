@@ -4,7 +4,7 @@ description: "Why Occam's Razor structurally fails when applied to consciousness
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T18:29:00+00:00
+ai_modified: 2026-03-20T19:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-20T19:29:00+00:00
 ---
 
 Parsimony failure in consciousness refers to the structural inability of Occam's Razor to adjudicate between [[concepts/materialism|physicalism]] and [[dualism]] in the mind-body debate. Unlike domains where parsimony reliably guides theory choice, consciousness satisfies none of the preconditions that give simplicity its epistemic force. This article identifies the three preconditions and explains why each fails. For the general epistemology of parsimony, see [[parsimony-epistemology]]; for the historical and evidential case, see [[limits-of-parsimony-in-consciousness-science]].
@@ -47,6 +47,8 @@ Parsimony is a tie-breaker. It applies when competing theories explain the same 
 
 Physicalism and dualism do not explain consciousness equally well. Physicalism correlates neural activity with reported experience but provides no account of why there is [[qualia|something it is like]] to undergo those processes. The [[explanatory-gap]] is not a gap in current neuroscience — it is a structural feature of third-person physical description applied to first-person phenomenal reality. The [[knowledge-argument]] and [[philosophical-zombies|conceivability arguments]] formalise the point: physical facts alone do not entail phenomenal facts.
 
+Type-B physicalists accept the explanatory gap but deny it is metaphysical — physical processes may fully constitute consciousness even though we cannot see how from our current epistemic position. This response does not restore the parity that parsimony requires. Parsimony is a synchronic principle: it adjudicates between theories based on their current explanatory credentials, not on promissory notes about future understanding. If physicalism cannot currently explain why there is something it is like to be conscious, then it does not currently tie with dualism on explanatory power, and parsimony has no present tie to break.
+
 Dualism posits that consciousness is genuinely non-physical, which directly explains why physical description cannot capture it. The explanatory burden shifts to characterising the [[psychophysical-laws|psychophysical laws]] connecting mental and physical domains — a genuine open problem, but one that does not require explaining away the phenomenon itself.
 
 Because the theories do not tie on explanatory power, parsimony cannot break a tie that does not exist.
@@ -57,7 +59,7 @@ The standard argument measures simplicity along one dimension — ontological pa
 
 **Ontological parsimony** (entity types): physicalism posits one substance, dualism two. Physicalism is simpler.
 
-**Syntactic simplicity** (theoretical mechanisms): physicalism has generated functionalism, higher-order thought theory, higher-order perception theory, global workspace theory, [[illusionism]], eliminativism, and multiple versions of identity theory — each adding machinery to accommodate consciousness within a single-substance framework. No individual physicalist theory is necessarily complex, but the proliferation of incompatible attempts suggests the single-substance constraint forces explanatory contortions. Dualism's core claim is structurally more direct.
+**Syntactic simplicity** (theoretical mechanisms): physicalism has generated [[functionalism]], higher-order thought theory, higher-order perception theory, global workspace theory, [[illusionism]], eliminativism, and multiple versions of identity theory — each adding machinery to accommodate consciousness within a single-substance framework. Multiple competing theories can exist in any domain, but the distinctive pattern here is that each physicalist account requires different theoretical apparatus to bridge the same gap between physical processes and phenomenal experience. Dualism's core claim — that consciousness exists because something non-physical exists — is structurally more direct.
 
 **Explanatory simplicity** (unexplained brute facts): physicalism treats the existence of phenomenal experience as a brute fact — it happens when matter is configured correctly, with no explanation of why. Dualism provides a reason: there is genuinely something beyond the physical. Zanotti (2021) develops this point, arguing that physicalism's need to accommodate consciousness within a framework that provides no natural place for it constitutes a parsimony cost typically overlooked.
 
