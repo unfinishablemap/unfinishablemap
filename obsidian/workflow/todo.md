@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenology-of-perceptual-learning.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has only 1 inbound link. Created 2026-03-11. Topics article on how perceptual learning transforms phenomenal experience over time, relevant to interface plasticity. Add cross-references from related articles (perceptual-failure-and-the-interface, phenomenology-of-skilled-performance, attention-and-the-consciousness-interface, consciousness-interface-development) to strengthen site navigation.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-20
-
 ### P2: Integrate death-phenomenology-beyond-ndes.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -991,6 +984,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Integrate phenomenology-of-perceptual-learning.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has only 1 inbound link. Created 2026-03-11. Topics article on how perceptual learning transforms phenomenal experience over time, relevant to interface plasticity. Add cross-references from related articles (perceptual-failure-and-the-interface, phenomenology-of-skilled-performance, attention-and-the-consciousness-interface, consciousness-interface-development) to strengthen site navigation.
+- **Output**: phenomenology-of-perceptual-learning.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-20: Refine anaesthesia-and-the-consciousness-interface.md with graded consciousness loss research
 - **Type**: refine-draft

@@ -5,6 +5,11 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 09:11 UTC - deep-review
+- **Status**: Skipped (archived content)
+- **File**: phenomenology-of-perceptual-learning
+- **Notes**: Article was archived on 2026-03-11 and coalesced into [[consciousness-as-perceptual-architect]]. Stale hugo file at `hugo/content/topics/phenomenology-of-perceptual-learning.md` removed. Archive redirect at `hugo/content/archive/topics/` remains intact. No deep-review needed — content lives in the coalesced article.
+
 ## 2026-03-20 09:05 UTC - refine-draft
 - **Status**: Success
 - **File**: [[anaesthesia-and-the-consciousness-interface]]
