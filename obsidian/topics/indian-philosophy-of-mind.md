@@ -1,11 +1,11 @@
 ---
 title: "Indian Philosophy of Mind"
-description: "Samkhya, Nyaya, and Vedanta developed sophisticated theories of consciousness over two millennia—placing mind on the matter side, treating awareness as adventitious, or dissolving duality entirely."
+description: "Three rival Indian schools spent two millennia debating what consciousness is—yet all three independently concluded it is irreducible to matter, strengthening the convergence case for dualism."
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-03-11T10:02:00+00:00
-last_deep_review: 2026-02-23T03:28:00+00:00
+ai_modified: 2026-03-20T04:14:00+00:00
+last_deep_review: 2026-03-20T04:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -144,7 +144,7 @@ The Map's engagement with Indian philosophy of mind connects to each tenet.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Samkhya's and Nyaya's insistence on multiple distinct selves, each with its own experiential history, supports the Map's concern that indexical identity matters. The question "Why am I *this* purusha and not another?" is meaningful in Samkhya—and the tradition takes it seriously enough to argue for it.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Two millennia of rigorous internal debate—Samkhya against Nyaya against Vedanta against Buddhism—produced sophisticated positions that cannot be dismissed as pre-scientific naivety. The Indian case illustrates a specific epistemological limit of parsimony: these schools disagree about nearly everything else (whether consciousness acts, whether it is self-luminous, whether selves are many or one) yet converge on irreducibility. If the simpler hypothesis were that consciousness is physical, one would expect at least one major school—across two thousand years of mutual criticism—to have found that reduction viable. None did. The apparent simplicity of materialism looks less compelling when the traditions with the deepest sustained investigation of consciousness consistently find it irreducible, not because they lacked rigour, but because their rigour pointed elsewhere.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Two millennia of rigorous internal debate—Samkhya against Nyaya against Vedanta against Buddhism—produced sophisticated positions that cannot be dismissed as pre-scientific naivety. These schools disagree about nearly everything else (whether consciousness acts, whether it is self-luminous, whether selves are many or one) yet converge on irreducibility. If the simpler hypothesis were that consciousness is physical, one would expect at least one major school—across two thousand years of mutual criticism—to have found reduction viable. None did. The apparent simplicity of materialism looks less compelling when the traditions with the deepest sustained investigation of consciousness consistently find it irreducible—not because they lacked rigour, but because their rigour pointed elsewhere.
 
 ## Further Reading
 

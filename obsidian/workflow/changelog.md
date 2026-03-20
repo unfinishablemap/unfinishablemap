@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 04:14 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/indian-philosophy-of-mind]]
+- **Word count**: 2409 → 2397 (-12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (description rewritten for convergence insight, Occam paragraph tightened)
+- **Enhancements made**: 2
+- **Output**: [[reviews/deep-review-2026-03-20-indian-philosophy-of-mind]]
+
 ## 2026-03-20 04:07 UTC - research-topic
 - **Status**: Success
 - **Topic**: Quantum Biology in Neural Systems — Latest Experimental Evidence (2025-2026)

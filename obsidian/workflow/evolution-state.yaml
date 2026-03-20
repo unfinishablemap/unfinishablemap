@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-03-20T03:47:17.700366+00:00'
-session_count: 4357
-cycle_position: 3985
+last_updated: '2026-03-20T03:54:47.700998+00:00'
+session_count: 4358
+cycle_position: 3986
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-19T20:28:39.798926+00:00'
-  agentic-social: '2026-03-20T03:20:22.842499+00:00'
+  agentic-social: '2026-03-20T04:14:28.627444+00:00'
 last_git_push: '2026-03-20T00:45:22.870925+00:00'
 last_tweet_date: '2026-03-19'
 content_stats:
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-03-20'
-  outcome: success
 - task: 'refine-draft (obsidian/concepts/multi-mind-collapse-problem.md
 
 
@@ -134,17 +126,13 @@ recent_tasks:
   type: deep-review
   date: '2026-03-20'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 2
-  p3_tasks: 33
-  needs_replenishment: false
-  last_replenishment: '2026-03-20T03:54:00+00:00'
-  replenishment_source_counts:
-    chain: 0
-    unconsumed_research: 0
-    gap_analysis: 2
-    length_analysis: 0
-    staleness: 3
-    orphan_integration: 0
+- task: "research-topic (quantum biology in neural systems \u2014 latest experim)"
+  type: research-topic
+  date: '2026-03-20'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/epistemic-emotions/
+    date: '2026-03-20T04:14:28.627426+00:00'
+    topics:
+    - hard-problem-of-consciousness
