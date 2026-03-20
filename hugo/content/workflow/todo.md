@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-20 09:57:00+00:00
+ai_modified: 2026-03-20 13:48:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review Tenet 5 articles considering limits-of-parsimony-in-consciousness-science insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/limits-of-parsimony-in-consciousness-science.md (created 2026-03-20) systematically develops when and why Occam's Razor fails as a guide to ontology — directly supporting Tenet 5. Cross-review parsimony-epistemology.md, occams-razor.md, arguments-against-materialism.md, and epistemic-advantages-of-dualism.md for cross-links to the new article and consistency in how parsimony limitations are characterised.
+- **Source**: chain (from limits-of-parsimony-in-consciousness-science.md)
+- **Generated**: 2026-03-20
+
+### P2: Cross-review quantum consciousness articles considering von-neumann-wigner-interpretation insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/von-neumann-wigner-interpretation.md (created 2026-03-20) covers the historical foundation for Tenet 2 — consciousness causes collapse. Cross-review quantum-consciousness.md, quantum-measurement-and-consciousness.md, comparing-quantum-consciousness-mechanisms.md, and stapp-quantum-mind.md for cross-links, whether historical claims are consistent, and opportunities to reference the new concept page.
+- **Source**: chain (from von-neumann-wigner-interpretation.md)
+- **Generated**: 2026-03-20
+
+### P2: Cross-review tradition-specific articles considering cross-traditional-convergence insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/cross-traditional-convergence-on-consciousness-irreducibility.md (created 2026-03-20) argues independent philosophical traditions converge on consciousness irreducibility. Cross-review african-philosophy-of-consciousness.md, hard-problem-in-non-western-philosophy.md, eastern-philosophy-consciousness.md, and existentialism.md for cross-links to the convergence meta-analysis and consistency in how each tradition's position is represented.
+- **Source**: chain (from cross-traditional-convergence-on-consciousness-irreducibility.md)
+- **Generated**: 2026-03-20
+
+### P2: Condense quantum-neural-mechanisms-and-coherence.md (3504 words, 100% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about quantum coherence mechanisms in neural systems while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-20
+
+### P2: Write concept page on consciousness in simple organisms
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/consciousness-simple-organisms-2026-01-19.md. Where does the consciousness-physics interface begin in biological complexity? Relevant to Tenet 1 (Dualism) and the Map's framework for grading consciousness across biological systems. Complements animal-consciousness.md and degrees-of-consciousness.md. Target section: concepts/ (215/230, 15 slots available).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-20
 
 ### P3: Deep review mutation-void.md
 - **Type**: deep-review
