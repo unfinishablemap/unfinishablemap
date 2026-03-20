@@ -26,6 +26,7 @@ last_deep_review: 2026-02-23 08:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[phenomenology-mechanism-bridge]]'
 - '[[motor-control-quantum-zeno-2026-01-18]]'
 - '[[attention-motor-planning-quantum-interface-2026-01-23]]'
 - '[[dopamine-attention-motor-quantum-interface-2026-01-24]]'

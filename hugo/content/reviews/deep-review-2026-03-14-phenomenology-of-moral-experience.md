@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-14
-**Article**: [The Phenomenology of Moral Experience](/topics/phenomenology-of-moral-experience/)
+**Article**: [The Phenomenology of Moral Experience](/topics/phenomenology-of-moral-life/)
 **Previous review**: [2026-02-09](/reviews/deep-review-2026-02-09-phenomenology-of-moral-experience/)
 
 ## Pessimistic Analysis Summary

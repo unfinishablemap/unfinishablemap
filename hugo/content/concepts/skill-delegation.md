@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-20 16:59:00+00:00
+ai_modified: 2026-03-20 19:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Skill delegation is how consciousness trains procedural systems, wi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-20 19:44:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -117,7 +117,7 @@ The shape of skill acquisition curves provides indirect evidence for the delegat
 
 **Power-law refinement** in later stages reflects diminishing returns as consciousness has less to delegate. The expert is fine-tuning a system that already handles most contingencies. Improvement continues but requires increasingly targeted conscious intervention.
 
-These patterns are consistent with delegation as the mechanism underlying automaticity. The curve doesn't simply track neural consolidation—it tracks the progressive handoff of control from conscious selection to trained procedure.
+These patterns are consistent with delegation as the mechanism underlying automaticity, though not uniquely predicted by it. The key distinction from purely neural accounts is that plateaus correspond to phenomenological transitions—the learner *feels* the shift from one mode of engagement to another—rather than smooth exponential decay. The curve tracks the progressive handoff of control from conscious selection to trained procedure, and the felt difficulty of each transition reflects real reorganisation of the [conscious-unconscious boundary](/concepts/conscious-vs-unconscious-processing/).
 
 ## What Would Challenge This View?
 

@@ -95,7 +95,7 @@ When normative domains collide—the whistleblower's moral obligation against se
 
 ### Moral Perception Is Direct
 
-The [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) reveals that moral properties appear in consciousness with the immediacy and involuntariness of perception rather than the deliberation of inference. Wrongness organises an entire perceptual scene as a gestalt: witnessing cruelty does not proceed from perceiving physical movement to computing moral status. The wrongness appears in the initial perception as an organising feature of the whole.
+The [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) reveals that moral properties appear in consciousness with the immediacy and involuntariness of perception rather than the deliberation of inference. Wrongness organises an entire perceptual scene as a gestalt: witnessing cruelty does not proceed from perceiving physical movement to computing moral status. The wrongness appears in the initial perception as an organising feature of the whole.
 
 This perception has temporal depth. The pre-reflective moral strike arrives before reasoning begins—wrongness is experientially present before any articulation of *why* it is wrong. Sustained attention then reveals additional moral texture: not just that the act is wrong but *how* it is wrong, the specific character of the violation. Moral perception, like sensory perception, is a skill that deepens with training. Simone Weil's concept of attention as "the rarest and purest form of generosity" captures this: the quality of moral perception depends on sustained, receptive, ego-diminished attention that allows moral properties to present themselves on their own terms.
 
@@ -170,7 +170,7 @@ This synthesis draws on:
 - [Consciousness and Normative Force](/topics/consciousness-and-normative-force/) — Why moral claims grip us
 - [Moral Implications of Genuine Agency](/topics/moral-implications-of-genuine-agency/) — What genuine authorship demands morally
 - [The Responsibility Gradient](/topics/responsibility-gradient-from-attentional-capacity/) — Attentional capacity and graded desert
-- [The Phenomenology of Moral Experience](/topics/phenomenology-of-moral-experience/) — What moral perception feels like
+- [The Phenomenology of Moral Experience](/topics/phenomenology-of-moral-life/) — What moral perception feels like
 - [Moral Phenomenology and Perception](/concepts/moral-phenomenology-and-perception/) — The philosophical study of moral experience
 - [Moral Responsibility](/concepts/moral-responsibility/) — Agent causation and metaphysical desert
 - [Animal Consciousness](/topics/animal-consciousness/) — Non-human consciousness and moral patienthood

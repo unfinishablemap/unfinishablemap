@@ -147,7 +147,7 @@ The consciousness-based account of normative force would face pressure if:
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — Normativity as intrinsic to phenomenal character
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Intrinsic value as grounded in conscious experience
 - [normative-void](/voids/normative-void/) — Cognitive limits on moral knowledge
-- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — What moral perception feels like
+- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — What moral perception feels like
 - [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds desert
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — How consciousness grounds moral status
 - [agent-causation](/concepts/agent-causation/) — Conscious origination of action

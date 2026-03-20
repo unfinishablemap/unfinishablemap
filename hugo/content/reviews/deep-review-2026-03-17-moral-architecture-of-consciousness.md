@@ -62,7 +62,7 @@ From source articles (related_articles + Further Reading):
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/)
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/)
 - [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/)
-- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/)
+- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/)
 - [moral-responsibility](/concepts/moral-responsibility/)
 - [animal-consciousness](/topics/animal-consciousness/)
 - [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/)

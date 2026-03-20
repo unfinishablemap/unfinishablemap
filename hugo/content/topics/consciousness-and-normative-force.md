@@ -87,7 +87,7 @@ The Map's [phenomenal value pluralism](/topics/phenomenal-value-realism/#beyond-
 
 ### Moral Normativity
 
-[Moral phenomenology](/topics/phenomenology-of-moral-experience/) presents wrongness as a feature of situations — immediate, unbidden, with motivational force. Its [hedonic valence](/concepts/valence/) is distinctive: moral outrage burns, compassion warms, guilt gnaws. It is typically other-directed, concerning what one owes to others. And it carries a weight that resists trade-offs: "I know it's wrong, but it's convenient" acknowledges the moral demand even while overriding it.
+[Moral phenomenology](/topics/phenomenology-of-moral-life/) presents wrongness as a feature of situations — immediate, unbidden, with motivational force. Its [hedonic valence](/concepts/valence/) is distinctive: moral outrage burns, compassion warms, guilt gnaws. It is typically other-directed, concerning what one owes to others. And it carries a weight that resists trade-offs: "I know it's wrong, but it's convenient" acknowledges the moral demand even while overriding it.
 
 ### Epistemic Normativity
 
@@ -163,7 +163,7 @@ The consciousness-based account would face pressure if:
 
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — Normativity as intrinsic to phenomenal character
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as constituted by conscious experience
-- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — What moral perception feels like from the inside
+- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — What moral perception feels like from the inside
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The felt character of thinking and reasoning
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Beauty and ugliness as irreducible phenomenal features
 - [normative-void](/voids/normative-void/) — Where normative perception reaches its limits

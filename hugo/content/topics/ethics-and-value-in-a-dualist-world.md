@@ -87,7 +87,7 @@ Materialist accounts must bridge a gap between descriptive facts and normative f
 
 ### Moral Perception Is Direct
 
-[Moral perception](/concepts/moral-phenomenology-and-perception/)—the direct apprehension of ethical properties in situations—becomes intelligible under dualism in ways it cannot under materialism. The [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) reveals that wrongness organises an entire perceptual scene, arriving with the speed and involuntariness of sensory perception rather than the deliberation of inference.
+[Moral perception](/concepts/moral-phenomenology-and-perception/)—the direct apprehension of ethical properties in situations—becomes intelligible under dualism in ways it cannot under materialism. The [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) reveals that wrongness organises an entire perceptual scene, arriving with the speed and involuntariness of sensory perception rather than the deliberation of inference.
 
 If consciousness is irreducible, its capacity to apprehend value is not reducible to pattern-matching over sensory inputs. Moral perception is a genuine mode of awareness—consciousness directed toward evaluative properties of situations. The projectivist objection (that we merely project moral properties onto neutral situations) loses force under the framework established above: if evaluative properties genuinely characterise conscious experience—if the badness of suffering is constitutive of what suffering phenomenally is—then moral perception apprehends real features of experience rather than projecting fictional properties onto a value-free world. The ontological reality of consciousness under dualism ensures these evaluative features are irreducible, not artefacts of functional description.
 
@@ -147,7 +147,7 @@ The Unfinishable Map's five tenets jointly create the conditions for unified dua
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as a feature of conscious experience
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — What genuine authorship demands morally
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — Why moral claims grip us
-- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — What moral perception feels like from the inside
+- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — What moral perception feels like from the inside
 - [moral-responsibility](/concepts/moral-responsibility/) — Agent causation and metaphysical desert
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why value requires consciousness
 - [Moral Phenomenology and Perception](/concepts/moral-phenomenology-and-perception/) — Direct apprehension of ethical properties

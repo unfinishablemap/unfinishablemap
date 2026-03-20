@@ -84,7 +84,7 @@ No attribution errors found.
 7. [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/) — Added to Further Reading
 8. [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/) — Added to Further Reading
 9. [consciousness-value-connection](/concepts/consciousness-value-connection/) — Added to Further Reading
-10. [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — Added to Further Reading
+10. [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — Added to Further Reading
 
 **Total inbound links created**: 10 (from 0 previously)
 

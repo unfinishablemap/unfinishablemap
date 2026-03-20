@@ -42,6 +42,7 @@ last_deep_review: 2026-03-19 13:25:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[phenomenology-mechanism-bridge]]'
 - '[[arguments/epiphenomenalism-argument]]'
 - '[[metaproblem-of-consciousness-under-dualism]]'
 title: Mental Causation

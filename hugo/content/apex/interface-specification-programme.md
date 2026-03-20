@@ -35,6 +35,7 @@ last_deep_review: 2026-03-20 12:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[phenomenology-mechanism-bridge]]'
 - '[[apex-articles]]'
 - '[[the-interface-specification-problem]]'
 - '[[mathematical-structure-of-the-consciousness-physics-interface]]'

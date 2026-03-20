@@ -55,7 +55,7 @@ The [felt contrast between agency and passivity](/topics/phenomenology-of-agency
 
 Extreme duress compresses this phenomenal space. The experience narrows toward what psychologists call *tunnel vision*—not merely a perceptual phenomenon but a volitional one. The range of options that consciousness can meaningfully entertain contracts. Fear, urgency, and the immediate salience of threat dominate the phenomenal field. The deliberative texture that characterises reflective moral reasoning—pausing, considering principles, weighing competing obligations—may vanish entirely.
 
-This compression matters for the Map's framework. The [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) identifies moral perception as having a distinctive phenomenal character: obligation *feels* different from desire, wrongness carries a particular qualitative weight. The [deliberative process](/topics/phenomenology-of-moral-deliberation/) that normally follows moral perception—weighing competing duties, feeling the pull of different obligations—requires precisely the phenomenal openness that duress destroys. Under severe duress, these moral phenomenal qualities may be overwhelmed by survival-oriented states. The question is whether consciousness retains its moral perceptual capacities when flooded by extreme affect, or whether it temporarily loses access to them.
+This compression matters for the Map's framework. The [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) identifies moral perception as having a distinctive phenomenal character: obligation *feels* different from desire, wrongness carries a particular qualitative weight. The [deliberative process](/topics/phenomenology-of-moral-life/) that normally follows moral perception—weighing competing duties, feeling the pull of different obligations—requires precisely the phenomenal openness that duress destroys. Under severe duress, these moral phenomenal qualities may be overwhelmed by survival-oriented states. The question is whether consciousness retains its moral perceptual capacities when flooded by extreme affect, or whether it temporarily loses access to them.
 
 ## Consciousness Between Reflection and Reflex
 
@@ -116,7 +116,7 @@ This framework avoids two extremes. Against hard determinism, it maintains that 
 ## Further Reading
 
 - [free-will](/topics/free-will/)
-- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/)
+- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/)
 - [moral-responsibility](/concepts/moral-responsibility/)
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/)
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
@@ -130,7 +130,7 @@ This framework avoids two extremes. Against hard determinism, it maintains that 
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Why duress matters morally: the felt badness of suffering constitutes genuine disvalue
 - [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/)
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — The broader moral implications when agency is real: obligation, character, moral luck
-- [phenomenology-of-moral-deliberation](/topics/phenomenology-of-moral-deliberation/) — What moral deliberation feels like from the inside, and why duress disrupts it
+- [phenomenology-of-moral-deliberation](/topics/phenomenology-of-moral-life/) — What moral deliberation feels like from the inside, and why duress disrupts it
 
 ## References
 

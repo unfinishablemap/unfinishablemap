@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-03-17 16:47:00+00:00
+ai_modified: 2026-03-20 19:44:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -115,7 +115,7 @@ Merleau-Ponty argued that body memory refutes Cartesian dualism—the body has k
 
 The Map's framework accommodates this insight without abandoning dualism. The point isn't that consciousness floats free of the body—clearly it doesn't. The point is that consciousness *interfaces* with bodily systems at specific sites and can modulate their operation.
 
-Body memory reveals *where* the interface operates, not that consciousness is identical to the body. The expert's embodied skill represents successful delegation: consciousness has calibrated the procedural system and now need not intervene. But the retention of override capacity—shown precisely by choking when attention re-engages—reveals the interface remains operative.
+Body memory reveals *where* the interface operates, not that consciousness is identical to the body. The expert's embodied skill represents successful [delegation](/concepts/skill-delegation/): consciousness has calibrated the procedural system and now need not intervene. But the retention of override capacity—shown precisely by choking when attention re-engages—reveals the interface remains operative.
 
 Embodied cognition challenges a crude dualism where consciousness is wholly separate from matter. It doesn't challenge the interface dualism where consciousness *interacts with* matter through attentional engagement. The body's implicit knowing is the result of consciousness having trained and delegated to procedural systems, not evidence that consciousness was never distinct from them.
 
@@ -201,6 +201,7 @@ A purely neural account can describe choking as prefrontal-basal ganglia competi
 ## Further Reading
 
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) - Extended analysis of choking as evidence for mental causation
+- [skill-delegation](/concepts/skill-delegation/) — The three-phase pattern of calibration, withdrawal, and retained override
 - [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/) - How consciousness shapes skill acquisition, flow, and performance restructuring
 - [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/) — The "perceptual ratchet" concept: how perceptual learning creates irreversible implicit knowledge encoded in perceptual structure
 - [voluntary attention](/concepts/attention-as-interface/) - Why choking involves willed attention specifically, and the neural signatures distinguishing it from stimulus-driven capture

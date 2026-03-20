@@ -59,14 +59,14 @@ All attributions verified:
 - Fixed broken link to phenomenology-of-moral-experience
 - Added inline de Waal citation in empathy section
 - Added inline Zahavi citation and expanded phenomenological argument in social construction section
-- Added inline cross-links to [moral-responsibility](/concepts/moral-responsibility/) and [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) in moral accountability paragraph
+- Added inline cross-links to [moral-responsibility](/concepts/moral-responsibility/) and [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) in moral accountability paragraph
 - Added connection to [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-phenomena/) in social construction section
 - Qualified the cross-species correlation claim in Relation to Site Perspective
 - Added 4 new entries to Further Reading: collective intentionality, interpersonal understanding, cumulative culture, and corrected phenomenology of moral experience link
 
 ### Cross-links Added
 - [moral-responsibility](/concepts/moral-responsibility/) (inline, moral accountability paragraph)
-- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) (inline + Further Reading, corrected from broken link)
+- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) (inline + Further Reading, corrected from broken link)
 - [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-phenomena/) (inline + Further Reading)
 - [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/) (Further Reading)
 - [cumulative-culture](/concepts/cumulative-culture/) (Further Reading)

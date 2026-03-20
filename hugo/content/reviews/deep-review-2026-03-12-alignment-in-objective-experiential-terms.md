@@ -57,10 +57,10 @@ topics: []
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Added sentence in the AI alignment implications section
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — Added sentence in the AI/other minds implications section
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — Added to related_articles frontmatter AND body text in experiential alignment section
-- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — Added to related_articles frontmatter
+- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — Added to related_articles frontmatter
 
 **Outbound link added within the article:**
-- Added link to [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) in the dimension-specific targets paragraph
+- Added link to [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) in the dimension-specific targets paragraph
 
 ## Remaining Items
 

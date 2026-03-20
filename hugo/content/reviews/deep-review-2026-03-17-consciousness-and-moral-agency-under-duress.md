@@ -74,7 +74,7 @@ No misattributions, dropped qualifiers, or source/Map conflation detected.
 
 ### Cross-links Added
 
-- [phenomenology-of-moral-deliberation](/topics/phenomenology-of-moral-deliberation/) (in Phenomenology of Agency section and Further Reading)
+- [phenomenology-of-moral-deliberation](/topics/phenomenology-of-moral-life/) (in Phenomenology of Agency section and Further Reading)
 
 ## Remaining Items
 

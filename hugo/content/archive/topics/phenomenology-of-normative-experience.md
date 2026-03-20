@@ -59,7 +59,7 @@ The Unfinishable Map's [phenomenal value realism](/topics/phenomenal-value-reali
 
 ### Moral Normativity
 
-[Moral phenomenology](/topics/phenomenology-of-moral-experience/) has received the most attention. Witnessing cruelty presents wrongness as a feature of the situation—immediate, unbidden, with motivational force. The experience carries urgency: wrongness demands response.
+[Moral phenomenology](/topics/phenomenology-of-moral-life/) has received the most attention. Witnessing cruelty presents wrongness as a feature of the situation—immediate, unbidden, with motivational force. The experience carries urgency: wrongness demands response.
 
 Moral normativity occupies a specific region of phenomenal space. Its [hedonic valence](/concepts/valence/) is distinctive: moral outrage burns, compassion warms, guilt gnaws. It is typically other-directed, concerning what one owes to others or what is owed to one. And it carries a weight that resists trade-offs against non-moral considerations. The person who says "I know it's wrong, but it's convenient" acknowledges the moral demand even while overriding it.
 
@@ -189,7 +189,7 @@ The phenomenology of normative experience connects to the Map's [foundational co
 
 ## Further Reading
 
-- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — What moral experience feels like from the inside
+- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — What moral experience feels like from the inside
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — Intrinsic normative force built into phenomenal character
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as constituted by conscious experience
 - [moral-perception](/concepts/moral-phenomenology-and-perception/) — Direct apprehension of ethical properties

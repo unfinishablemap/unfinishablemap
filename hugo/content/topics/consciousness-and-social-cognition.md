@@ -72,7 +72,7 @@ The second kind — what [theory-of-mind](/concepts/theory-of-mind/) researchers
 
 **Institutional reality.** Money, laws, property rights, and marriages exist because we collectively agree they do. These are what John Searle calls "institutional facts" — they depend on mutual recognition of shared commitments. Creating and sustaining institutional reality requires that participants represent each other as minds capable of making and honouring commitments. A community of behaviourally sophisticated but phenomenally empty beings could not constitute a promise, because a promise requires mutual recognition of intentional states.
 
-**Moral accountability.** Holding someone responsible requires representing them as having been aware of what they were doing, capable of choosing otherwise, and acting on intentions they could have evaluated. This involves at least third-order mental state attribution: you must represent their awareness of their own intentions. Without phenomenal consciousness enabling this recursive grasp, [moral-responsibility](/concepts/moral-responsibility/) dissolves into mere behaviour management — a point explored further in [the phenomenology of moral experience](/topics/phenomenology-of-moral-experience/).
+**Moral accountability.** Holding someone responsible requires representing them as having been aware of what they were doing, capable of choosing otherwise, and acting on intentions they could have evaluated. This involves at least third-order mental state attribution: you must represent their awareness of their own intentions. Without phenomenal consciousness enabling this recursive grasp, [moral-responsibility](/concepts/moral-responsibility/) dissolves into mere behaviour management — a point explored further in [the phenomenology of moral experience](/topics/phenomenology-of-moral-life/).
 
 ## The Empathy Problem
 
@@ -137,7 +137,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly. T
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemic puzzle at the heart of social cognition
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — The felt dimension of empathy and emotional understanding
 - [other-minds-void](/voids/other-minds-void/) — The structural isolation of consciousness and its role in constituting social life
-- [The Phenomenology of Moral Experience](/topics/phenomenology-of-moral-experience/) — How phenomenal consciousness shapes moral judgment
+- [The Phenomenology of Moral Experience](/topics/phenomenology-of-moral-life/) — How phenomenal consciousness shapes moral judgment
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — How shared goals and commitments depend on phenomenal subjects
 - [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/) — The role of consciousness in understanding other minds
 - [phenomenology-of-trust](/topics/phenomenology-of-trust/) — Trust as a distinctively conscious mode of interpersonal engagement

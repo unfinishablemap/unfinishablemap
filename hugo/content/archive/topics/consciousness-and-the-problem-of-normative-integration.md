@@ -91,7 +91,7 @@ This is why the problem of normative integration is structurally similar to the 
 
 Within the unified normative field, demands carry *felt weight* — a phenomenal property that varies with context. The same moral obligation weighs differently when prudential stakes are low versus when they are life-threatening. The same epistemic evidence commands more attention when it conflicts with a cherished belief than when it confirms one.
 
-This contextual variation in felt weight is not reducible to a calculation. It involves perceptual sensitivity to the entire normative situation — what [moral phenomenologists](/topics/phenomenology-of-moral-experience/) call *moral perception* operating across all normative domains simultaneously. The agent does not first assess each domain's demands independently, then combine them. She perceives the normative situation as a whole, with relative weights already part of the percept.
+This contextual variation in felt weight is not reducible to a calculation. It involves perceptual sensitivity to the entire normative situation — what [moral phenomenologists](/topics/phenomenology-of-moral-life/) call *moral perception* operating across all normative domains simultaneously. The agent does not first assess each domain's demands independently, then combine them. She perceives the normative situation as a whole, with relative weights already part of the percept.
 
 Felt weight has phenomenal character that differs across domains. Moral weight has urgency and heat. Epistemic weight has rigidity and impersonality. Aesthetic weight has drawing power. Prudential weight has gravitational intimacy. These qualitative differences persist even as the weights shift relative to each other — the moral demand still feels like a moral demand even when it is outweighed by an epistemic one. Nothing about the integration process erases the distinctive character of each domain.
 
@@ -130,7 +130,7 @@ If consciousness is irreducible, as the Map holds, then normative integration as
 - [phenomenology-of-normative-properties](/topics/phenomenology-of-normative-experience/) — The shared structure of normative experience across domains
 - Consciousness And The Problem Of Normative Force — Where the binding grip of "ought" comes from
 - Consciousness And Normative Authority — How consciousness makes normative claims authoritative
-- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — Moral experience from the inside
+- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — Moral experience from the inside
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — The phenomenology of deliberative processes
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as constituted by conscious experience
 - [normative-void](/voids/normative-void/) — Where normative perception reaches its limits

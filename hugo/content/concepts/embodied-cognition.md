@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-18 22:42:00+00:00
+ai_modified: 2026-03-20 19:44:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -79,7 +79,7 @@ Hubert Dreyfus developed the phenomenological analysis of skill acquisition into
 
 The key phenomenological transition occurs between competent and expert performance. Initially, skills require conscious attention at every step. Gradually, consciousness *withdraws* from execution details while retaining oversight capacity. The expert doesn't lose awareness—they enter the anoetic mode where action flows without self-observation. There is still something it is like to perform expertly; it simply doesn't involve representing oneself as the subject of experience.
 
-This withdrawal is not elimination. Consciousness [delegates](/concepts/causal-delegation/) to procedural systems but retains the ability to re-engage—and this re-engagement capacity has revealing consequences.
+This withdrawal is not elimination. Consciousness [delegates](/concepts/skill-delegation/) to procedural systems but retains the ability to re-engage—and this re-engagement capacity has revealing consequences.
 
 ### Choking Under Pressure
 
@@ -193,6 +193,7 @@ The key point: embodied cognition challenges a specific historical position (Car
 - [phenomenology](/concepts/phenomenology/) — The philosophical tradition grounding embodied cognition
 - [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/) — Clinical evidence that disrupted embodiment reveals consciousness's structural architecture
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The filter theory that can accommodate embodiment
+- [skill-delegation](/concepts/skill-delegation/) — The three-phase delegation pattern underlying embodied expertise
 - [implicit-memory](/concepts/implicit-memory/) — Anoetic consciousness, the Dreyfus model, and choking as bidirectional evidence
 - [attention-as-interface](/concepts/attention-as-interface/) — The quantum Zeno mechanism for mind-body interaction
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and site's response

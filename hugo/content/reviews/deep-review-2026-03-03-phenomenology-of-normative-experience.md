@@ -54,7 +54,7 @@ topics: []
   - [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/) — updated frontmatter, body text, and Further Reading
   - [phenomenology-of-intellectual-courage](/topics/phenomenology-of-intellectual-courage/) — updated frontmatter, body text, and Further Reading
 - **New Further Reading additions (4 articles):**
-  - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — added to Further Reading
+  - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — added to Further Reading
   - [phenomenal-normativity](/concepts/phenomenal-normativity/) — added to Further Reading
   - [moral-perception](/concepts/moral-phenomenology-and-perception/) — added to Further Reading
   - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — added to Further Reading

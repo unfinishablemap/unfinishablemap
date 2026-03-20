@@ -226,7 +226,7 @@ The aesthetic dimension of consciousness supports the Map's [foundational commit
 - [binding-and-beauty](/topics/aesthetics-and-consciousness/) — The aesthetic unity problem as a harder form of phenomenal binding
 - [aesthetic-void](/voids/aesthetic-void/) — Where articulation fails at beauty and sublimity
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as intrinsic to experience
-- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — Parallel analysis for moral value
+- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — Parallel analysis for moral value
 - [dualism](/concepts/dualism/) — The standard philosophical case, which aesthetic evidence supplements
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and what physical information leaves out
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Conceivability arguments for dualism

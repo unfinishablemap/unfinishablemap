@@ -33,6 +33,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-15
 last_curated:
+archived: true
+archived_date: 2026-03-20T20:00:00+00:00
+superseded_by: "/topics/phenomenology-of-moral-life/"
+archive_reason: "Coalesced into The Phenomenology of Moral Life"
+original_path: "/topics/phenomenology-of-moral-deliberation/"
 ---
 
 Moral deliberation has a phenomenal character that differs from both spontaneous moral perception and detached theoretical reasoning. When someone weighs whether to report a colleague's dishonesty—knowing the cost to a friendship, the obligation to those affected, the uncertainty about consequences—the experience is not a computation running behind a blank screen. It has texture: the pull of competing demands, the felt weight of different considerations, the sense of being the one who must decide. The Unfinishable Map's [[phenomenology-of-moral-experience|treatment of moral perception]] examines how moral properties appear in consciousness. This article examines what happens next—the deliberative process through which a conscious agent navigates those perceived moral demands toward a choice.

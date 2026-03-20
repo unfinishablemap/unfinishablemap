@@ -35,6 +35,7 @@ last_deep_review: 2026-03-08 13:37:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[phenomenology-mechanism-bridge]]'
 - '[[attention-as-causal-bridge]]'
 - '[[consciousness-and-agency]]'
 - '[[testing-the-map-from-inside]]'

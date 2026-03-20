@@ -30,7 +30,7 @@ This article was created by coalescing `concepts/moral-perception.md` and `conce
 - None. The coalesced article preserves the improvements from both previous reviews (Prinz attribution fix, inferentialism engagement, contemplative argument strengthening, falsifiability section).
 
 ### Medium Issues Found
-- **Vague display text**: `[topic article](/topics/phenomenology-of-moral-experience/)` on line 77 used uninformative display text. **Resolution**: Changed to `[topic article on moral experience](/topics/phenomenology-of-moral-experience/)`.
+- **Vague display text**: `[topic article](/topics/phenomenology-of-moral-life/)` on line 77 used uninformative display text. **Resolution**: Changed to `[topic article on moral experience](/topics/phenomenology-of-moral-life/)`.
 - **Stale wikilinks across site**: 10 content files contained `[moral-perception](/concepts/moral-phenomenology-and-perception/)` or `[moral-phenomenology](/concepts/moral-phenomenology-and-perception/)` links pointing to now-archived articles. **Resolution**: Updated all 23 wikilink instances across 10 files to point to `[moral-phenomenology-and-perception](/concepts/moral-phenomenology-and-perception/)` with appropriate display text.
 
 ### Attribution Accuracy Check

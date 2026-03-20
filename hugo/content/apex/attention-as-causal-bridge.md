@@ -33,6 +33,7 @@ last_deep_review: 2026-02-23 07:35:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[phenomenology-mechanism-bridge]]'
 - '[[consciousness-and-agency]]'
 - '[[contemplative-path]]'
 - '[[testing-the-map-from-inside]]'

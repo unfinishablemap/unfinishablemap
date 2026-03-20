@@ -129,7 +129,7 @@ The phenomenology of normative conflict connects to the Map's [foundational comm
 ## Further Reading
 
 - [phenomenology-of-normative-properties](/topics/phenomenology-of-normative-experience/) — The shared phenomenal structure across normative domains
-- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — What moral perception feels like from the inside
+- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — What moral perception feels like from the inside
 - [free-will](/topics/free-will/) — Normative conflict as a site of genuine agency
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — When choice engages consciousness's selection function
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — The felt character of deciding without full information

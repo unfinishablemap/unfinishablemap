@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-20 19:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -80,7 +80,7 @@ Skill acquisition follows a characteristic arc from rule-following to perception
 
 During early learning, consciousness serves as scaffolding—holding rules in working memory, monitoring performance, detecting errors, generating corrective intentions. Each function requires [genuine cognitive effort](/concepts/mental-effort/). When concentration lapses, performance degrades immediately.
 
-As competence develops, this scaffolding is progressively dismantled. The withdrawal is not passive—consciousness *delegates*. There is a phenomenological moment where the learner deliberately releases conscious control over a component, trusting the emerging automaticity. This delegation is itself a conscious act.
+As competence develops, this scaffolding is progressively dismantled. The withdrawal is not passive—consciousness *delegates*. There is a phenomenological moment where the learner deliberately releases conscious control over a component, trusting the emerging automaticity. This [delegation](/concepts/skill-delegation/) is itself a conscious act—a three-phase process of calibration, progressive withdrawal, and retained override capacity that reveals the structure of mind-body interaction.
 
 If consciousness were [epiphenomenal](/concepts/epiphenomenalism/), it could not build the procedural structures that skill acquisition demonstrably creates. Deliberate practice produces greater skill gains than mindless repetition—though Macnamara et al.'s (2014) meta-analysis found practice explained a highly variable share of performance variance (26% in games, under 1% in professions). The Map's argument rests on the *quality-dependent* nature of whatever practice does contribute, not on practice being the sole determinant.
 
@@ -175,6 +175,7 @@ The strongest physicalist counterargument is that executive attention networks a
 - [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-the-neuroscience-of-deliberate-practice/) — The neural evidence for practice quality mattering
 - [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/) — What it is like as processes become automatic and capacity frees up
 - [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/) — The causal argument from motor imagery to consciousness's efficacy
+- [skill-delegation](/concepts/skill-delegation/) — The three-phase structure of delegation: calibration, withdrawal, retained override
 - [motor-selection](/concepts/motor-selection/) — Conscious selection in motor systems
 - [interface-friction](/concepts/interface-friction/) — The resistance at the mind-brain interface that effort tracks
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The levels of consciousness that map onto the phases of skill

@@ -41,6 +41,11 @@ last_deep_review: 2026-03-14T19:40:00+00:00
 coalesced_from:
   - "/topics/phenomenology-of-moral-experience/"
   - "/topics/phenomenology-of-moral-perception/"
+archived: true
+archived_date: 2026-03-20T20:00:00+00:00
+superseded_by: "/topics/phenomenology-of-moral-life/"
+archive_reason: "Coalesced into The Phenomenology of Moral Life"
+original_path: "/topics/phenomenology-of-moral-experience/"
 ---
 
 Moral experience has a distinctive phenomenal character. Witnessing cruelty doesn't merely trigger a belief that cruelty is wrong—it presents wrongness as a perceived quality of the situation, as directly as colour or pain. The wrongness is *there*, in the experience, not added by subsequent judgment. If [[topics/phenomenal-value-realism]] is correct—if intrinsic value is a feature of conscious experience itself—then this phenomenology is not incidental decoration on top of moral reasoning. It is where moral facts live.

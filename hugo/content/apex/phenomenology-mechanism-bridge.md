@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-20 16:14:00+00:00
+ai_modified: 2026-03-20 19:15:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-20 16:14:00+00:00
 apex_sources:
@@ -26,13 +26,12 @@ concepts:
 - '[[interactionist-dualism]]'
 created: 2026-03-20
 date: &id001 2026-03-20
-description: A complete argument chain from first-person phenomenology through neural
-  architecture to quantum selection to metaphysical agency — each level independently
-  grounded, each connection between levels mutually reinforcing.
+description: A four-level argument from phenomenology through neural architecture
+  and quantum selection to metaphysical agency — each level independently grounded.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-20 19:15:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -66,7 +65,7 @@ The phenomenological level provides the first anchor: the experience of agency h
 
 The argument's second level moves from what we experience to what the brain does. The connection is not a reduction — it is a mapping that reveals how phenomenology and neural architecture fit together.
 
-Paul Cisek's affordance competition hypothesis describes the motor system's actual organisation: sensory input automatically specifies multiple potential actions in parallel, which compete within neural populations until one reaches threshold. In premotor cortex, 43% of task-related neurons encoded both potential reach targets simultaneously — the brain represented two options before selecting one (Cisek & Kalaska 2005). The basal ganglia implement a brake-release mechanism: tonic inhibition suppresses all motor programmes by default, and selection occurs when the brake is released on one programme while competitors remain inhibited.
+Paul Cisek's [affordance competition](/concepts/motor-selection/) hypothesis describes the motor system's actual organisation: sensory input automatically specifies multiple potential actions in parallel, which compete within neural populations until one reaches threshold. In premotor cortex, 43% of task-related neurons encoded both potential reach targets simultaneously — the brain represented two options before selecting one (Cisek & Kalaska 2005). The basal ganglia implement a brake-release mechanism: tonic inhibition suppresses all motor programmes by default, and selection occurs when the brake is released on one programme while competitors remain inhibited.
 
 This architecture maps directly onto the phenomenology. The felt openness of deliberation — the sense that alternatives are genuinely available — corresponds to parallel encoding of competing action plans. The effort of choosing corresponds to biasing competition among options. The settling when one alternative becomes actual corresponds to threshold-crossing. The neural architecture independently discovered by motor neuroscience matches the phenomenological structure independently described by philosophy — parallel preparation, competitive selection, singular actualisation.
 
@@ -78,7 +77,7 @@ A crucial finding: dopamine-deficient organisms retain motor capacity but lose g
 
 The third level asks: what fills the selection gap? The Map's answer requires first removing what appeared to be strong evidence against it.
 
-The Libet experiments seemed to show the brain decides before consciousness knows — the readiness potential begins ~550ms before movement while conscious awareness of intention appears only ~200ms before. For decades, this anchored the claim that conscious will is illusory. Two lines of evidence have substantially dissolved this challenge.
+The [Libet experiments](/concepts/libet-experiments/) seemed to show the brain decides before consciousness knows — the readiness potential begins ~550ms before movement while conscious awareness of intention appears only ~200ms before. For decades, this anchored the claim that conscious will is illusory. Two lines of evidence have substantially dissolved this challenge.
 
 Schurger's stochastic accumulator model (2012) reinterprets the readiness potential as an artefact of averaging neural noise. In self-paced movement tasks, neural activity fluctuates randomly; movement occurs when fluctuations cross a threshold. Averaging many trials produces the RP's gradual ramp — but this reflects the statistical shape of threshold-crossing events, not a decision process preceding awareness. Sjöberg's 2024 review confirms independently: patients who have had the supplementary motor area resected — the very region generating the readiness potential — retain their sense of voluntary action. If the RP were the neural signature of genuine volition, removing its source should impair the experience of willing. It does not.
 
@@ -94,7 +93,7 @@ Honest gaps remain. The [decoherence objection](/concepts/decoherence/) places n
 
 The fourth level asks what kind of entity could do what the previous three levels describe — select among options, bias quantum outcomes, author actions.
 
-[Agent causation](/concepts/agent-causation/) provides the answer: the conscious agent, understood as a persisting substance rather than a collection of events, directly causes actions. The agent is the causal source. E.J. Lowe's substance causation framework grounds this in systematic metaphysics: substances have causal powers and exercise them, and events are what substances *do*, not independent causal relata. If all causation is fundamentally substance causation — agents exercising powers — then consciousness causing neural outcomes is the same *type* of causation as a billiard ball causing motion. The "metaphysically exceptional" objection dissolves: agent causation is not an anomaly but the paradigm case of what causation is.
+[Agent causation](/concepts/agent-causation/) provides the answer: the conscious agent, understood as a persisting substance rather than a collection of events, directly causes actions. The agent is the causal source. E.J. Lowe's [substance causation](/concepts/substance-property-dualism/) framework grounds this in systematic metaphysics: substances have causal powers and exercise them, and events are what substances *do*, not independent causal relata. If all causation is fundamentally substance causation — agents exercising powers — then consciousness causing neural outcomes is the same *type* of causation as a billiard ball causing motion. The "metaphysically exceptional" objection dissolves: agent causation is not an anomaly but the paradigm case of what causation is.
 
 This metaphysical framework connects to the quantum level through a specific proposal: the agent selects among quantum possibilities that physics leaves undetermined. The exclusion argument — that every physical event has a sufficient physical cause, leaving no room for mental causes — fails because physics does not provide sufficient causes at quantum indeterminacies. [Mental causation](/concepts/mental-causation/) operates where physics is genuinely incomplete. No overdetermination occurs because physics provides necessary but not sufficient causes. Bradford Saad's [delegatory dualism](/topics/delegatory-dualism/) offers a complementary account: experiences *preempt* physical causes rather than overdetermining alongside them, preserving genuine mental causation through a mechanism that leaves no empirical anomaly.
 

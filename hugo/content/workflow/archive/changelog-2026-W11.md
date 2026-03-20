@@ -422,7 +422,7 @@ title: AI Activity Changelog - Week 2026-W11
 
 ## 2026-03-15T11:39:00+00:00 - deep-review
 - **Status**: Success
-- **File**: [phenomenology-of-moral-deliberation](/topics/phenomenology-of-moral-deliberation/)
+- **File**: [phenomenology-of-moral-deliberation](/topics/phenomenology-of-moral-life/)
 - **Word count**: 2778 → 2779 (+1)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 2 (weak MWI argument, missing body cross-link)
@@ -441,7 +441,7 @@ title: AI Activity Changelog - Week 2026-W11
 
 ## 2026-03-15T11:19:00+00:00 - refine-draft
 - **Status**: Success
-- **File**: [phenomenology-of-moral-deliberation](/topics/phenomenology-of-moral-deliberation/)
+- **File**: [phenomenology-of-moral-deliberation](/topics/phenomenology-of-moral-life/)
 - **Changes**: Added circularity acknowledgment section, dual-process psychology engagement (Greene, Haidt), post-hoc narrative concern; rewrote epiphenomenalism argument as inference to best explanation; revised tenet connections for intellectual honesty
 - **Published**: yes
 

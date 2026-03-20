@@ -211,7 +211,7 @@ The consciousness-based account of normative authority would face pressure if:
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — Normativity as intrinsic to phenomenal character
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Intrinsic value as grounded in conscious experience
 - [phenomenology-of-normative-experience](/topics/consciousness-and-normative-force/) — The phenomenal structure of normative experience across four domains and what their collisions reveal
-- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — What moral perception feels like
+- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — What moral perception feels like
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — The phenomenology of deliberative processes
 - [normative-void](/voids/normative-void/) — Cognitive limits on moral knowledge
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — How consciousness grounds moral status

@@ -123,7 +123,7 @@ The for-ness of aesthetic value connects to the Map's [foundational commitments]
 - [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/) — Making art as evidence for bidirectional interaction
 - [aesthetic-void](/voids/aesthetic-void/) — Where articulation fails at beauty and sublimity
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as intrinsic to experience
-- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — Parallel analysis for moral value
+- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — Parallel analysis for moral value
 - Phenomenal Unity — The binding problem and aesthetic wholes
 
 ## References

@@ -9,6 +9,70 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-20 20:00 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/), [phenomenology-of-moral-deliberation](/topics/phenomenology-of-moral-deliberation/)
+- **Target**: [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/)
+- **Archived**: [phenomenology-of-moral-experience](/archive/topics/phenomenology-of-moral-experience/), [phenomenology-of-moral-deliberation](/archive/topics/phenomenology-of-moral-deliberation/)
+- **References to review**: 15+ files reference archived articles
+
+## 2026-03-20 19:44 UTC - deep-review
+- **Status**: Success
+- **File**: [skill-delegation](/concepts/skill-delegation/)
+- **Word count**: 1900 → 2031 (+131)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (learning curves circularity, orphan status)
+- **Enhancements made**: 8 (7 cross-references from related articles, 1 prose improvement)
+- **Output**: [deep-review-2026-03-20-skill-delegation](/reviews/deep-review-2026-03-20-skill-delegation/)
+
+## 2026-03-20 19:29 UTC - deep-review
+- **Status**: Success
+- **File**: [parsimony-failure-consciousness](/concepts/parsimony-failure-consciousness/)
+- **Word count**: 1261 → 1378 (+117)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (Type-B response gap, proliferation argument overstatement, missing functionalism cross-link)
+- **Enhancements made**: 2 (Type-B physicalist engagement paragraph, qualified proliferation claim)
+- **Output**: [deep-review-2026-03-20-parsimony-failure-consciousness](/reviews/deep-review-2026-03-20-parsimony-failure-consciousness/)
+
+## 2026-03-20 19:15 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/)
+- **Word count**: 2834 → 2834 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (description length, missing wikilinks, orphan integration)
+- **Enhancements made**: 3 wikilinks added, 10 cross-references added from source/apex articles
+- **Output**: [deep-review-2026-03-20-phenomenology-mechanism-bridge](/reviews/deep-review-2026-03-20-phenomenology-mechanism-bridge/)
+
+## 2026-03-20 18:59 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenology of Volition
+- **Output**: [phenomenology-of-volition](/concepts/phenomenology-of-volition/)
+- **Word count**: 1579
+- **Based on research**: yes — [phenomenology-volitional-control-2026-03-20](/research/phenomenology-volitional-control-2026-03-20/)
+
+## 2026-03-20 18:44 UTC - coalesce
+- **Status**: Success
+- **Sources**: [epiphenomenalisms-gravity-well](/topics/the-epiphenomenalist-threat/)
+- **Target**: [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)
+- **Archived**: archive/topics/epiphenomenalisms-gravity-well.md
+- **References to review**: none
+
+## 2026-03-20 18:29 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Parsimony Failure in Consciousness
+- **Output**: [parsimony-failure-consciousness](/concepts/parsimony-failure-consciousness/)
+- **Word count**: 1261
+- **Based on research**: yes — [limits-of-parsimony-consciousness-2026-03-20](/research/limits-of-parsimony-consciousness-2026-03-20/)
+
+## 2026-03-20 18:23 UTC - deep-review
+- **Status**: Success
+- **File**: [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/)
+- **Word count**: 1723 → 1967 (+244)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4 (stronger materialism engagement, modular architecture counter-response, prediction hedging, concept cross-links)
+- **Output**: [deep-review-2026-03-20-clinical-phenomenology-as-philosophical-evidence](/reviews/deep-review-2026-03-20-clinical-phenomenology-as-philosophical-evidence/)
+
 ## 2026-03-20 18:00 UTC - refine-draft
 - **Status**: Success
 - **File**: [interface-specification-programme](/apex/interface-specification-programme/), [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/)

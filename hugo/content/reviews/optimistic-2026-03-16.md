@@ -30,7 +30,7 @@ The [quantum-consciousness](/concepts/quantum-consciousness/) article's treatmen
 
 ### The Phenomenologist (Nagel)
 
-The [phenomenology-of-moral-deliberation](/topics/phenomenology-of-moral-deliberation/) article exemplifies what phenomenological philosophy should be: precise about the felt weight of competing moral claims, the oscillation of deliberative attention, the experience of self-interest as obstacle. The "phenomenal weight" concept is handled with interpretive honesty—acknowledging that physicalist redescription remains available rather than claiming phenomenology is self-proving. The temporal-consciousness-and-the-specious-present article binds six distinct philosophical problems (specious present, retention-protention, meso-integration, lived time, artificial consciousness) with Bergson's durée serving as phenomenological backbone. The contemplative evidence integration—Buddhist khanika, jhāna progression, nirodha samapatti—treats first-person investigation as genuine data rather than decorative citation.
+The [phenomenology-of-moral-deliberation](/topics/phenomenology-of-moral-life/) article exemplifies what phenomenological philosophy should be: precise about the felt weight of competing moral claims, the oscillation of deliberative attention, the experience of self-interest as obstacle. The "phenomenal weight" concept is handled with interpretive honesty—acknowledging that physicalist redescription remains available rather than claiming phenomenology is self-proving. The temporal-consciousness-and-the-specious-present article binds six distinct philosophical problems (specious present, retention-protention, meso-integration, lived time, artificial consciousness) with Bergson's durée serving as phenomenological backbone. The contemplative evidence integration—Buddhist khanika, jhāna progression, nirodha samapatti—treats first-person investigation as genuine data rather than decorative citation.
 
 ### The Process Philosopher (Whitehead)
 
@@ -121,12 +121,12 @@ The voids section is the Map's most distinctive contribution to intellectual hum
 
 | From | To | Reason |
 |------|-----|--------|
-| [consciousness-and-counterfactual-reasoning](/topics/consciousness-and-counterfactual-reasoning/) | [phenomenology-of-moral-deliberation](/topics/phenomenology-of-moral-deliberation/) | Moral deliberation involves counterfactual evaluation of alternative actions—the counterfactual workspace is the cognitive infrastructure for moral reasoning |
+| [consciousness-and-counterfactual-reasoning](/topics/consciousness-and-counterfactual-reasoning/) | [phenomenology-of-moral-deliberation](/topics/phenomenology-of-moral-life/) | Moral deliberation involves counterfactual evaluation of alternative actions—the counterfactual workspace is the cognitive infrastructure for moral reasoning |
 | [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) | [transparency-void](/voids/transparency-void/) | Phenomenal transparency (experience conceals its representational nature) is directly relevant to why we find consciousness mysterious |
 | temporal-consciousness-and-the-specious-present | [consciousness-and-counterfactual-reasoning](/topics/consciousness-and-counterfactual-reasoning/) | Counterfactual reasoning requires temporal integration (holding what-is and what-might-have-been simultaneously)—temporal consciousness provides the workspace |
 | [decoherence](/concepts/decoherence/) | [many-worlds](/concepts/many-worlds/) | Decoherence's failure to solve the measurement problem directly motivates rejection of many-worlds (which claims decoherence is all that's needed) |
 | [knowledge-argument](/concepts/knowledge-argument/) | [mathematical-void](/voids/mathematical-void/) | Mary's Room is an instance of the broader pattern: formal knowledge cannot capture experiential knowledge. The mathematical void extends this to mathematical intuition |
-| [consciousness-independent-baseline-cognition](/concepts/baseline-cognition/) | [phenomenology-of-moral-deliberation](/topics/phenomenology-of-moral-deliberation/) | Great ape cognition lacks moral deliberation—another capacity requiring conscious workspace, supporting the same baseline/consciousness distinction |
+| [consciousness-independent-baseline-cognition](/concepts/baseline-cognition/) | [phenomenology-of-moral-deliberation](/topics/phenomenology-of-moral-life/) | Great ape cognition lacks moral deliberation—another capacity requiring conscious workspace, supporting the same baseline/consciousness distinction |
 
 ## New Concept Pages Needed
 

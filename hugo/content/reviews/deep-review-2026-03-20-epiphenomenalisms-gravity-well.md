@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-20
-**Article**: [Epiphenomenalism's Gravity Well](/topics/epiphenomenalisms-gravity-well/)
+**Article**: [Epiphenomenalism's Gravity Well](/topics/the-epiphenomenalist-threat/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -250,7 +250,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 
 - [Phenomenal Normativity](/concepts/phenomenal-normativity/) — The definitional article on this metaethical position
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value to exist
-- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — What moral perception feels like from the inside
+- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — What moral perception feels like from the inside
 - [meaning-of-life](/topics/meaning-of-life/) — How consciousness grounds meaning
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Ethical implications of consciousness-grounded value
 - [experiential-alignment](/concepts/experiential-alignment/) — Operationalising phenomenal value realism for AI alignment

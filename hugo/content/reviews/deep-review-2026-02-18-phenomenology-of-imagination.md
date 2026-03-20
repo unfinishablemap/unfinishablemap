@@ -89,7 +89,7 @@ Body text:
 
 Further Reading:
 - [dream-consciousness-and-the-filter-model](/topics/dream-consciousness/)
-- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/)
+- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/)
 - [creativity-void](/voids/creativity-void/)
 
 ## Remaining Items

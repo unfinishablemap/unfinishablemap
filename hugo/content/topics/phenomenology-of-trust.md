@@ -82,7 +82,7 @@ This asymmetry between trust and betrayal reveals something about consciousness.
 
 Computational models of reputation updating can account for some asymmetry — loss aversion and negativity bias predict that negative evidence will weigh more heavily than positive. But these models treat the asymmetry as a difference in magnitude: a larger update in the same currency of probability. The phenomenal devastation of betrayal is not a larger update. What is damaged is not an estimate but an orientation — a way of being conscious of another person that, once ruptured, cannot simply be rebuilt by accumulating new positive evidence. The qualitative character of betrayal — the felt violation, the rupture of interpersonal openness — resists capture as an extreme case of Bayesian updating, however asymmetrically weighted.
 
-This helps explain why forgiveness is phenomenologically difficult. Forgiving is not updating your model of someone back to its previous state. It involves a conscious restructuring of how you experience the other person — finding a way to be open again toward someone whom you now experience as capable of violation. The felt effort involved in forgiveness — the oscillation between openness and self-protective withdrawal, the non-linear path back toward vulnerability — testifies to the irreducibly conscious nature of trust. Betrayal's [moral phenomenology](/topics/phenomenology-of-moral-experience/) adds a further layer: the felt wrongness of having one's openness exploited is not reducible to the disappointment of unmet expectations.
+This helps explain why forgiveness is phenomenologically difficult. Forgiving is not updating your model of someone back to its previous state. It involves a conscious restructuring of how you experience the other person — finding a way to be open again toward someone whom you now experience as capable of violation. The felt effort involved in forgiveness — the oscillation between openness and self-protective withdrawal, the non-linear path back toward vulnerability — testifies to the irreducibly conscious nature of trust. Betrayal's [moral phenomenology](/topics/phenomenology-of-moral-life/) adds a further layer: the felt wrongness of having one's openness exploited is not reducible to the disappointment of unmet expectations.
 
 ## Institutional Trust and Its Limits
 
@@ -126,7 +126,7 @@ The [limits of Occam's Razor](/tenets/#occams-limits) (Tenet 5) caution against 
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)
 - [emotion-and-dualism](/topics/emotion-and-dualism/)
 - [machine-consciousness](/topics/machine-consciousness/)
-- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/)
+- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/)
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/)
 
 ## References

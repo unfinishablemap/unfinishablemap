@@ -31,6 +31,7 @@ last_deep_review: 2026-03-06 01:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[phenomenology-mechanism-bridge]]'
 - '[[epiphenomenalism]]'
 - '[[evolutionary-case-for-mental-causation]]'
 - '[[conservation-laws-and-mental-causation]]'

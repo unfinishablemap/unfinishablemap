@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 20:00 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/phenomenology-of-moral-experience]], [[topics/phenomenology-of-moral-deliberation]]
+- **Target**: [[topics/phenomenology-of-moral-life]]
+- **Archived**: [[archive/topics/phenomenology-of-moral-experience]], [[archive/topics/phenomenology-of-moral-deliberation]]
+- **References to review**: 15+ files reference archived articles
+
 ## 2026-03-20 19:44 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/skill-delegation]]

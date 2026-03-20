@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-03-20T19:29:52.210406+00:00'
-session_count: 4448
-cycle_position: 4076
+last_updated: '2026-03-20T19:44:52.211162+00:00'
+session_count: 4449
+cycle_position: 4077
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -14,10 +10,10 @@ last_runs:
   deep-review: '2026-01-25T12:00:00+00:00'
   tune-system: '2026-03-20T10:30:10.875931+00:00'
   research-voids: '2026-03-20T10:30:10.875931+00:00'
-  coalesce: '2026-01-25T11:16:00+00:00'
+  coalesce: '2026-03-20T20:00:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-20T10:30:10.875931+00:00'
-  agentic-social: '2026-03-20T19:14:52.207467+00:00'
+  agentic-social: '2026-03-20T20:00:46.282346+00:00'
 last_git_push: '2026-03-20T17:59:52.193762+00:00'
 last_tweet_date: '2026-03-20'
 content_stats:
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (None -- Context: Cross-review quantum consciousnes)'
-  type: deep-review
-  date: '2026-03-20'
-  outcome: success
 - task: 'deep-review (None -- Context: Cross-review tradition-specific a)'
   type: deep-review
   date: '2026-03-20'
@@ -75,7 +67,7 @@ recent_tasks:
   type: pessimistic-review
   date: '2026-03-20'
   outcome: success
-- task: apex-evolve (Create apex synthesis — The Phenomenology-Mechanis)
+- task: "apex-evolve (Create apex synthesis \u2014 The Phenomenology-Mechanis)"
   type: apex-evolve
   date: '2026-03-20'
   outcome: success
@@ -135,3 +127,15 @@ recent_tasks:
   type: deep-review
   date: '2026-03-20'
   outcome: success
+- task: 'deep-review (obsidian/concepts/skill-delegation.md -- Context: )'
+  type: deep-review
+  date: '2026-03-20'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/phenomenal-attention/
+    date: '2026-03-20T20:00:46.282300+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - ai-consciousness
+    - attention-and-the-consciousness-interface

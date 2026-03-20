@@ -28,6 +28,7 @@ last_deep_review: 2026-03-20 12:13:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[phenomenology-mechanism-bridge]]'
 - '[[phenomenology-volitional-control-2026-03-20]]'
 - '[[motor-control-quantum-zeno]]'
 - '[[empirical-evidence-for-consciousness-selecting]]'

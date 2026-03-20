@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-15
-**Article**: [The Phenomenology of Moral Deliberation](/topics/phenomenology-of-moral-deliberation/)
+**Article**: [The Phenomenology of Moral Deliberation](/topics/phenomenology-of-moral-life/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

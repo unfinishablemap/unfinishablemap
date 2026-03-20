@@ -127,7 +127,7 @@ The ontological dependence of aesthetic value on consciousness connects directly
 - [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/) — Art-making and bidirectional interaction
 - [aesthetic-void](/voids/aesthetic-void/) — Cognitive limits beauty reveals
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as intrinsic to experience
-- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — Parallel analysis for moral value
+- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — Parallel analysis for moral value
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — The moral implications of conscious experience
 
 ## References

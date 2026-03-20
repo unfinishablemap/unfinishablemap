@@ -114,7 +114,7 @@ Moral perception connects to the Map's [foundational commitments](/tenets/) at s
 ## Further Reading
 
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — Moral perception in context: how it compares to epistemic, aesthetic, and prudential perception
-- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — What moral experience feels like and how moral perception works
+- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — What moral experience feels like and how moral perception works
 - [moral-phenomenology](/concepts/moral-phenomenology-and-perception/) — The broader study of moral experience's phenomenal character
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical position grounding value in phenomenal properties
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — How phenomenal properties carry normative force

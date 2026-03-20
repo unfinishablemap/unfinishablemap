@@ -77,7 +77,7 @@ Kant characterised this as reason's authority over inclination. Moral phenomenol
 
 ### Moral Admiration
 
-Witnessing integrity under pressure produces moral admiration — a state distinguishable from aesthetic appreciation, hedonic pleasure, or social approval. Moral admiration involves perceiving a person or action as exemplary in a way that invites emulation, carrying what the [topic article on moral experience](/topics/phenomenology-of-moral-experience/) tentatively calls "moral luminosity."
+Witnessing integrity under pressure produces moral admiration — a state distinguishable from aesthetic appreciation, hedonic pleasure, or social approval. Moral admiration involves perceiving a person or action as exemplary in a way that invites emulation, carrying what the [topic article on moral experience](/topics/phenomenology-of-moral-life/) tentatively calls "moral luminosity."
 
 ### Guilt and Moral Remainder
 
@@ -162,7 +162,7 @@ None of these findings currently obtains.
 
 ## Further Reading
 
-- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — Extended exploration of what moral experience feels like
+- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — Extended exploration of what moral experience feels like
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — Moral perception in context: how it compares to epistemic, aesthetic, and prudential perception
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical position grounding value in phenomenal properties
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — The thesis that phenomenal states carry intrinsic normative force

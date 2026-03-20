@@ -47,7 +47,7 @@ Normative properties—wrongness, rational compellingness, beauty, prudential we
 
 ### Moral Normativity
 
-[Moral phenomenology](/topics/phenomenology-of-moral-experience/) has received the most attention. Witnessing cruelty presents wrongness as a feature of the situation—immediate, unbidden, with motivational force. The experience carries urgency: wrongness demands response. Guilt, obligation, and moral admiration each have their own phenomenal textures, explored in detail elsewhere on the Map.
+[Moral phenomenology](/topics/phenomenology-of-moral-life/) has received the most attention. Witnessing cruelty presents wrongness as a feature of the situation—immediate, unbidden, with motivational force. The experience carries urgency: wrongness demands response. Guilt, obligation, and moral admiration each have their own phenomenal textures, explored in detail elsewhere on the Map.
 
 What matters here is that moral normativity occupies a specific region of phenomenal space. It has characteristic warmth or heat—its [hedonic valence](/concepts/valence/) is distinctive among normative experiences. Moral outrage burns, compassion warms, guilt gnaws. It is typically other-directed: moral demands concern what one owes to others or what is owed to one. And it carries a particular weight that resists being traded against non-moral considerations. The person who says "I know it's wrong, but it's convenient" acknowledges the moral demand even while overriding it.
 
@@ -135,7 +135,7 @@ The phenomenology of normative properties connects to the Map's [foundational co
 
 ## Further Reading
 
-- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — What moral experience feels like from the inside
+- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — What moral experience feels like from the inside
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — Intrinsic normative force built into phenomenal character
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as constituted by conscious experience
 - [moral-perception](/concepts/moral-phenomenology-and-perception/) — Direct apprehension of ethical properties
