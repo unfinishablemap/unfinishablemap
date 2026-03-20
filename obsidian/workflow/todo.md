@@ -925,6 +925,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The binding of successive events into a felt whole, distinguished from synchronic binding. Developed in musical-understanding article with broader applications to narrative, temporal consciousness, and memory. See optimistic-2026-03-20.md
 - **Generated**: 2026-03-20
 
+### P3: Write article on attention as consciousness interface mechanism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map references attention as the interface mechanism in scattered locations but lacks a dedicated systematic treatment. Would unify bandwidth asymmetry constraints, quantum Zeno mechanism, and phenomenology of effort. See optimistic-2026-03-20-morning.md
+- **Generated**: 2026-03-20
+
+### P3: Write article on convergence arguments as meta-evidence for dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Multiple articles demonstrate convergence from independent directions (phenomenology, quantum mechanics, emotion, argument from reason, pragmatism, non-Western philosophy). A meta-convergence article would argue this pattern is itself evidence, drawing on epistemology of independent confirmation. See optimistic-2026-03-20-morning.md
+- **Generated**: 2026-03-20
+
+### P3: Write article on predictive content of the dualist framework
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. What precise, falsifiable predictions does the Map's framework make that differ from competing theories? Systematic treatment of what results would confirm, disconfirm, or be neutral. See optimistic-2026-03-20-morning.md
+- **Generated**: 2026-03-20
+
 ## Completed Tasks
 
 
