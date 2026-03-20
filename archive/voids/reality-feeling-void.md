@@ -32,6 +32,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-25
 last_curated:
 last_deep_review: 2026-03-11T20:47:00+00:00
+archived: true
+archived_date: 2026-03-20T02:26:00+00:00
+superseded_by: "/voids/phenomenal-presence-void/"
+archive_reason: "Coalesced into The Phenomenal Presence Void"
+original_path: "/voids/reality-feeling-void/"
 ---
 
 Experience arrives stamped with a quality of realness. Everything perceived carries a felt conviction: this is genuinely happening, genuinely present, genuinely there. The stamp is so pervasive that under normal conditions it cannot be noticed at all. It becomes visible only when it fails—in depersonalization, where the self feels unreal; in derealization, where the world feels unreal; in dreams, where false experiences carry full reality-conviction. The mechanism that generates this reality-feeling is structurally inaccessible to [[introspection]]. We cannot observe how experience acquires its stamp of realness, cannot voluntarily modulate it, and cannot explain why it sometimes breaks down. This constitutes one of the [[voids|voids]]—a gap at the foundation of conscious life where the process distinguishing "real" from "not real" operates entirely in the dark.

@@ -5,6 +5,14 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 02:26 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/reality-feeling-void]], [[voids/the-givenness-void]]
+- **Target**: [[voids/phenomenal-presence-void]]
+- **Archived**: archive/voids/reality-feeling-void.md, archive/voids/the-givenness-void.md
+- **References updated**: 7 files (whether-real, transparency-void, phenomenology, convergence-of-the-void-catalogue, tenet-generated-voids, the-surplus-void, spontaneous-thought-void) + voids index
+- **Rationale**: Both articles investigated the same structural void (invisible mechanisms of experience's self-presentation) from slightly different angles — givenness (immediate thereness) and reality-feeling (stamp of conviction). Merged into unified treatment of phenomenal presence. Frees 1 slot in voids section (98→97/100).
+
 ## 2026-03-20 02:19 UTC - deep-review
 - **Status**: Success (convergence confirmed)
 - **File**: [[topics/hard-problem-of-consciousness]]

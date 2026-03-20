@@ -25,7 +25,7 @@ related_articles:
   - "[[binding-void]]"
   - "[[substrate-void]]"
   - "[[the-surplus-void]]"
-  - "[[the-givenness-void]]"
+  - "[[phenomenal-presence-void]]"
   - "[[dissolution-problem]]"
 ai_contribution: 100
 author: null
@@ -172,7 +172,7 @@ The framework-generated-voids analysis would be undermined if:
 - [[binding-void|The Binding Void]] — Why phenomenal unity resists explanation entirely
 - [[substrate-void|The Substrate Void]] — What consciousness is made of (the Nature Void in depth)
 - [[the-surplus-void|The Surplus Void]] — Why experience delivers more than function requires
-- [[the-givenness-void|The Givenness Void]] — Why experience presents as immediately given
+- [[phenomenal-presence-void|The Phenomenal Presence Void]] — Why experience presents as immediately given
 - [[dissolution-problem|The Dissolution Problem]] — Why we cannot predict which cognitive limits will prove permanent
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for knowing through negation
 

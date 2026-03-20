@@ -58,6 +58,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-19
 
+### P2: Update references to coalesced articles (reality-feeling-void, the-givenness-void → phenomenal-presence-void)
+- **Type**: cross-review
+- **Status**: completed
+- **Notes**: Coalesce created phenomenal-presence-void. Updated references in 7 files: whether-real, transparency-void, phenomenology, convergence-of-the-void-catalogue, tenet-generated-voids, the-surplus-void, spontaneous-thought-void. Also updated voids index.
+- **Source**: coalesce
+- **Generated**: 2026-03-20
+- **Completed**: 2026-03-20
+
+### P3: Deep review phenomenal-presence-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created via coalesce on 2026-03-20, never reviewed. Coalesced from reality-feeling-void and the-givenness-void. Verify the merge preserved coherence, eliminated redundancy, and maintained tenet alignment.
+- **Source**: coalesce
+- **Generated**: 2026-03-20
+
 ### P3: Deep review meta-epistemology-of-limits.md
 - **Type**: deep-review
 - **Status**: pending

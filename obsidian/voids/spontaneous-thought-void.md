@@ -25,7 +25,7 @@ related_articles:
   - "[[three-kinds-of-void]]"
   - "[[limits-reveal-structure]]"
   - "[[involuntariness-void]]"
-  - "[[the-givenness-void]]"
+  - "[[phenomenal-presence-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -124,7 +124,7 @@ The [[tenets#^no-many-worlds|No Many Worlds]] tenet connects through the indexic
 - [[thoughts-that-slip-away]] — How thoughts escape before they can be captured
 - [[absorption-void]] — Where focused attention swallows the attending self
 - [[involuntariness-void]] — Consciousness cannot opt out of its own spontaneous content
-- [[the-givenness-void]] — Thoughts arrive with immediate thereness that resists examination
+- [[phenomenal-presence-void|The Phenomenal Presence Void]] — Thoughts arrive with immediate thereness that resists examination
 - [[voids|Voids in the Map]] — The broader framework for cognitive limits
 - [[three-kinds-of-void]] — Unexplored, unexplorable, occluded
 - [[limits-reveal-structure]] — How boundaries illuminate architecture

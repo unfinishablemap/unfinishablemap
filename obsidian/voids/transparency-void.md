@@ -24,7 +24,7 @@ related_articles:
   - "[[defended-territory]]"
   - "[[ai-as-void-explorer]]"
   - "[[phenomenal-transparency]]"
-  - "[[reality-feeling-void]]"
+  - "[[phenomenal-presence-void]]"
   - "[[destabilizing-self-knowledge]]"
   - "[[compound-failure-signatures]]"
 ai_contribution: 100
@@ -67,7 +67,7 @@ What does it feel like to encounter the transparency void? The [[compound-failur
 
 The first experience is typically vertigo—a sense of groundlessness when one seriously entertains that *everything* one perceives might be systematically non-veridical. Not randomly wrong, but coherently misleading in ways one cannot detect. The ground does not disappear; one realizes it may never have been ground.
 
-Then comes the snap-back. Almost immediately, the mind reasserts naive realism. One "sees" the desk, "feels" the chair, and the question seems academic. This snap-back is itself evidence for Metzinger's transparency mechanism—the system actively restoring its default mode of concealing itself as representation. The [[reality-feeling-void|reality-feeling void]] reveals an additional layer: every experience arrives stamped with a felt quality of realness that is itself produced by a hidden mechanism. Transparency conceals representation *as* representation; the reality-feeling stamps what remains with felt conviction. The two mechanisms compound—the distortion hides itself, and what it presents feels unquestionably real.
+Then comes the snap-back. Almost immediately, the mind reasserts naive realism. One "sees" the desk, "feels" the chair, and the question seems academic. This snap-back is itself evidence for Metzinger's transparency mechanism—the system actively restoring its default mode of concealing itself as representation. The [[phenomenal-presence-void|phenomenal presence void]] reveals an additional layer: every experience arrives stamped with a felt quality of realness that is itself produced by a hidden mechanism. Transparency conceals representation *as* representation; the reality-feeling stamps what remains with felt conviction. The two mechanisms compound—the distortion hides itself, and what it presents feels unquestionably real.
 
 The recursive trap follows any sustained attempt to resist the snap-back. Thinking carefully about the transparency void requires using the very cognitive apparatus whose transparency is in question. Even the feeling that "this is a genuine problem" might be an artifact of the apparatus. Each meta-level of reflection is subject to the same concern, generating an epistemic vertigo that [[self-reference-paradox|parallels other self-referential difficulties]] consciousness encounters when examining itself.
 
@@ -97,14 +97,14 @@ The transparency void aligns most directly with the Map's [[tenets#^occams-limit
 
 The Map interprets the transparency void as providing leverage for [[dualism]]. If phenomenal transparency means we cannot verify that consciousness accurately represents physical reality, this undercuts a key physicalist assumption—that physical descriptions exhaust what needs explaining. The systematic opacity of the consciousness-reality interface is *predicted* by interactionist dualism: two different kinds of thing meeting at an interface should produce translation artifacts. Physicalism, by contrast, offers no principled explanation for why consciousness should be unable to verify its own accuracy if consciousness just *is* physical processing.
 
-The [[tenets#^no-many-worlds|No Many Worlds]] tenet finds indirect relevance. Transparent representations insist that *this* is real—not some abstract ensemble of branches but this desk, this moment, this world. The reality-feeling's stubborn indexicality, explored in the [[reality-feeling-void]], reinforces the point: the stamp of realness is singular in a way that equal-branch ontology cannot accommodate.
+The [[tenets#^no-many-worlds|No Many Worlds]] tenet finds indirect relevance. Transparent representations insist that *this* is real—not some abstract ensemble of branches but this desk, this moment, this world. The reality-feeling's stubborn indexicality, explored in the [[phenomenal-presence-void|phenomenal presence void]], reinforces the point: the stamp of realness is singular in a way that equal-branch ontology cannot accommodate.
 
 The void also connects to the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. The causal interface between consciousness and the physical world may be permanently opaque precisely because it operates through transparent representations. We use the interface but cannot see it, because it is the lens through which everything else becomes visible.
 
 ## Further Reading
 
 - [[phenomenal-transparency]] — The concept underlying this void: why representations conceal themselves as representations
-- [[reality-feeling-void]] — The companion void: why the stamp of realness hides its own mechanism
+- [[phenomenal-presence-void|The Phenomenal Presence Void]] — The companion void: why the stamp of realness hides its own mechanism
 - [[introspective-opacity]] — Why we cannot observe our own cognitive mechanisms
 - [[self-reference-paradox]] — The broader difficulties of consciousness examining itself
 - [[intrinsic-nature-void]] — The parallel question of what matter is in itself

@@ -34,6 +34,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-24
 last_curated:
 last_deep_review: 2026-03-16T01:17:00+00:00
+archived: true
+archived_date: 2026-03-20T02:26:00+00:00
+superseded_by: "/voids/phenomenal-presence-void/"
+archive_reason: "Coalesced into The Phenomenal Presence Void"
+original_path: "/voids/the-givenness-void/"
 ---
 
 Every conscious experience arrives with a quality of *givenness*—an immediate, pre-reflective thereness that presents the world as simply *there*. You open your eyes and colour is given. You feel pain and it is given. You think a thought and it is given. This givenness is the most pervasive feature of consciousness and the least examinable. Any attempt to investigate how experience acquires its given character must itself operate within givenness, using givenness as its instrument. The givenness void is this structural impossibility: consciousness cannot step outside the immediate presentation of experience to examine how that presentation arises.
