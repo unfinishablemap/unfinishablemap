@@ -511,12 +511,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Completed as part of deep-review 2026-03-19. Reviewed against all 10 related articles for consistency and cross-linking. Added inbound links from all 10.
 - **Generated**: 2026-03-17
 
-### P2: Write article on cross-traditional convergence on consciousness irreducibility
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Independent philosophical traditions converge on consciousness's irreducibility — a systematic meta-analysis of why this convergence occurs would strengthen the convergence argument. Builds on the-hard-problem-in-non-western-philosophy.md, eastern-philosophy-and-consciousness.md, convergence-argument-for-dualism.md. See optimistic-2026-03-08.md
-- **Generated**: 2026-03-08
-
 ### P3: Write article on phenomenology of surprise and categorical novelty
 - **Type**: expand-topic
 - **Status**: pending
@@ -877,6 +871,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Write article on cross-traditional convergence on consciousness irreducibility
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Independent philosophical traditions converge on consciousness's irreducibility — a systematic meta-analysis of why this convergence occurs would strengthen the convergence argument. Builds on the-hard-problem-in-non-western-philosophy.md, eastern-philosophy-and-consciousness.md, convergence-argument-for-dualism.md. See optimistic-2026-03-08.md
+- **Output**: cross-traditional convergence on consciousness irreducibility
 
 ### ✓ 2026-03-20: Cross-review born-rule-derivation-failures-consciousness-collapse.md considering mathematical-structure insights
 - **Type**: cross-review
