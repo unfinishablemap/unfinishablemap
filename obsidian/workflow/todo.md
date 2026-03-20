@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review limits-of-parsimony-in-consciousness-science.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: New article created 2026-03-20 via expand-topic, never reviewed. Topics article examining concrete evidence against parsimony arguments in consciousness science — hostile witnesses (Smart, Lycan), Anderson's critique of Churchland, the IIT paradox, Swinburne's reversal. Directly supports Tenet 5 (Occam's Razor Has Limits). Verify accuracy of philosophical attributions, coherence, cross-references to parsimony-epistemology.md and epistemological-limits-of-occams-razor.md, and tenet alignment.
-- **Source**: chain
-- **Generated**: 2026-03-20
-
 ### P2: Research phenomenology of volitional control — Libet experiments and conscious causation evidence
 - **Type**: research-topic
 - **Status**: pending
@@ -934,6 +927,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Deep review limits-of-parsimony-in-consciousness-science.md
+- **Type**: deep-review
+- **Notes**: New article created 2026-03-20 via expand-topic, never reviewed. Topics article examining concrete evidence against parsimony arguments in consciousness science — hostile witnesses (Smart, Lycan), Anderson's critique of Churchland, the IIT paradox, Swinburne's reversal. Directly supports Tenet 5 (Occam's Razor Has Limits). Verify accuracy of philosophical attributions, coherence, cross-references to parsimony-epistemology.md and epistemological-limits-of-occams-razor.md, and tenet alignment.
+- **Output**: obsidian/topics/limits-of-parsimony-in-consciousness-science.md
 
 ### ✓ 2026-03-20: Write voids article on the unobservable self
 - **Type**: expand-topic

@@ -4,7 +4,7 @@ description: "How defenders' own qualifications, internal contradictions, and hi
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T04:54:00+00:00
+ai_modified: 2026-03-20T05:24:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[epistemological-limits-of-occams-razor]]"
   - "[[epistemological-limits-occams-razor]]"
 ai_contribution: 100
-last_deep_review: 2026-03-20T03:27:00+00:00
+last_deep_review: 2026-03-20T05:24:00+00:00
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
@@ -40,7 +40,7 @@ The most revealing evidence against parsimony arguments comes from philosophers 
 
 J. J. C. Smart's 1959 paper "Sensations and Brain Processes" was the most influential deployment of Occam's Razor in the mind-body debate. Smart argued that mind-brain identity theory should be preferred because it posits fewer entity types. The argument attracted immediate and sustained criticism. Smart was "severely criticized" for this use of the razor (as the *Stanford Encyclopedia of Philosophy* records) and never mounted an adequate defence of the parsimony argument in his subsequent work.
 
-This is historically significant because Smart was not a peripheral figure. He was the philosopher who made the parsimony argument for physicalism famous. That he never successfully answered his critics signals something about the argument's structural weakness, not merely one person's difficulties. The core criticism — that Occam's Razor is only warranted when theories explain the data equally well, which physicalism and dualism do not — remains an open challenge.
+This is historically significant because Smart was not a peripheral figure. He was the philosopher who made the parsimony argument for physicalism famous. That he never successfully answered his critics signals something about the argument's structural weakness, not merely one person's difficulties. The core criticism — that Occam's Razor is only warranted when theories explain the data equally well, which physicalism and dualism do not (Huemer 2009; Sober 2001) — remains an open challenge.
 
 ### Lycan's Concession
 
@@ -78,7 +78,7 @@ Yet IIT's parsimonious axioms lead to panpsychism — the attribution of conscio
 
 This is not merely an embarrassment for IIT. It illustrates a general problem. Parsimony at one level of description can generate anti-parsimony at another. A theory with few axioms can commit to a vast, implausible ontology. A theory with more axioms can be ontologically restrained. Counting principles or counting entities yields contradictory simplicity rankings — which is why [[parsimony-epistemology]] identifies simplicity as multidimensional and warns against treating any single dimension as decisive.
 
-The IIT case also reveals the motivated reasoning that parsimony arguments often mask. Physicalists invoke ontological parsimony against dualism (two substance types is one too many) but do not apply the same standard to panpsychism (consciousness in thermostats is acceptable if the theory is axiomatically clean). The selective deployment of parsimony — demanding it where it supports physicalism, relaxing it where it embarrasses physicalism — suggests the principle is being used rhetorically rather than epistemically.
+The IIT case also reveals the motivated reasoning that parsimony arguments often mask. Physicalists invoke ontological parsimony against dualism (two substance types is one too many) but do not apply the same standard to panpsychism (consciousness in thermostats is acceptable if the theory is axiomatically clean). Not all physicalists are inconsistent here — many reject IIT precisely because of its panpsychist implications. But the selective deployment of parsimony by those who accept IIT's framework while deploying ontological parsimony against dualism suggests the principle is sometimes used rhetorically rather than epistemically.
 
 ## Swinburne's Reversal
 
@@ -86,7 +86,7 @@ Richard Swinburne offers a provocative inversion of the standard parsimony argum
 
 The argument targets explanatory complexity. Physicalism faces a distinctive burden: it must explain how and why consciousness arises from physical processes. This has generated an enormous proliferation of incompatible theories — functionalism, higher-order thought theory, higher-order perception theory, global workspace theory, illusionism, eliminativism, identity theory in multiple versions — each adding theoretical machinery to bridge the [[explanatory-gap]]. No individual theory has achieved consensus. The proliferation itself is evidence of explanatory strain: if the physicalist constraint were natural, one would expect convergence, not fragmentation.
 
-Dualism takes consciousness at face value. It requires [[psychophysical-laws|psychophysical laws]] connecting mental and physical domains, whose nature remains to be specified. But it does not need to explain consciousness *away* or reduce it to something it manifestly is not. The theoretical burden is lighter: one correlation to characterise (mind-brain lawful connection) rather than one mystery to dissolve (why physical processes generate experience at all).
+Dualism takes consciousness at face value. It requires [[psychophysical-laws|psychophysical laws]] connecting mental and physical domains, whose nature remains to be specified. But it does not need to explain consciousness *away* or reduce it to something it manifestly is not. The theoretical burden is lighter: one correlation to characterise (mind-brain lawful connection) rather than one mystery to dissolve (why physical processes generate experience at all). Zanotti (2021) develops this point systematically, arguing that physicalism's explanatory burden — accounting for consciousness within a framework that provides no natural place for it — constitutes a parsimony cost that is typically overlooked.
 
 Swinburne's reversal does not establish that dualism is simpler overall — ontological parsimony still favours physicalism. But it undermines the assumption that parsimony *unambiguously* favours physicalism. When simplicity is measured along the dimension most relevant to consciousness — explanatory adequacy — dualism has the advantage.
 
