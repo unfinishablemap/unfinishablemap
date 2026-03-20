@@ -22,7 +22,7 @@ concepts:
   - "[[interactionist-dualism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[quantum-biology-and-the-consciousness-debate]]"
+  - "[[quantum-biology-and-neural-consciousness]]"
   - "[[decoherence]]"
   - "[[prebiotic-collapse]]"
   - "[[coupling-modes]]"
@@ -154,8 +154,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 - [[spontaneous-collapse-theories]] — GRW, CSL, and Penrose OR models
 - [[philosophical-stakes-of-spontaneous-collapse]] — Why the choice between collapse mechanisms matters philosophically
 - [[quantum-neural-mechanisms-and-coherence]] — Five neural quantum mechanisms with evidence
-- [[quantum-biology-and-the-consciousness-debate]] — Why quantum biology shifts the burden of proof
-- [[quantum-biology-evidence-in-neural-systems]] — Convergence of biological, pharmacological, measurement, and computational evidence
+- [[quantum-biology-and-neural-consciousness]] — Quantum biology, neural evidence convergence, and the 2025-2026 experimental turn
 - [[decoherence]] — The decoherence challenge in detail
 - [[quantum-neural-timing-constraints]] — Decoherence and timing considerations for neural quantum effects
 - [[neural-implementation-specifics]] — Detailed evidence hierarchy for each proposed mechanism

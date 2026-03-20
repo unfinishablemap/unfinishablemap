@@ -108,7 +108,7 @@ The entanglement binding hypothesis aligns with several of the Map's [[tenets]].
 - [[unity-of-consciousness]] — Phenomenal unity and its dimensions
 - [[quantum-consciousness]] — Orch OR, Stapp, and other quantum consciousness mechanisms
 - [[combination-problem]] — Panpsychism's version of the unity challenge
-- [[quantum-biology-evidence-in-neural-systems]] — How four independent evidence lines converge on neural quantum effects
+- [[quantum-biology-and-neural-consciousness]] — Quantum biology, neural evidence convergence, and the consciousness debate
 - [[decoherence]] — The standard objection to quantum effects in biological systems
 
 ## References

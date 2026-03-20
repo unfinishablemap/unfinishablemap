@@ -105,7 +105,7 @@ The partial falsification of the parameter-free DP model is instructive. It show
 - [[prebiotic-collapse]]
 - [[comparing-quantum-consciousness-mechanisms]] — head-to-head evaluation of Orch OR, Stapp, Fisher, and CSL-IIT against shared criteria
 - [[consciousness-and-mathematical-cognition]] — Penrose's Gödelian argument for non-computable consciousness
-- [[quantum-biology-and-the-consciousness-debate]] — quantum effects in biological systems, shifting the burden of proof
+- [[quantum-biology-and-neural-consciousness]] — Quantum biology, neural evidence convergence, and the consciousness debate
 - [[qm-interpretations-beyond-many-worlds]]
 - [[what-consciousness-tells-us-about-physics]]
 - [[decoherence-and-macroscopic-superposition]]

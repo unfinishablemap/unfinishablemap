@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced quantum biology articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce created quantum-biology-and-neural-consciousness.md from three source articles. The following files reference archived articles and need wikilinks updated: topics/quantum-randomness-channel-llm-consciousness.md, topics/quantum-holism-and-phenomenal-unity.md, topics/comparing-quantum-consciousness-mechanisms.md, topics/penrose-gravity-induced-collapse-empirical-prospects.md, topics/consciousness-and-the-philosophy-of-biology.md, topics/evolution-under-dualism.md, topics/empirical-evidence-for-consciousness-selecting.md, topics/anaesthesia-and-the-consciousness-interface.md, topics/phenomenology-of-volitional-control.md, concepts/quantum-consciousness.md, concepts/quantum-biology.md, concepts/quantum-neural-mechanisms-and-coherence.md, concepts/decoherence.md, concepts/entanglement-binding-hypothesis.md
-- **Source**: coalesce
-- **Generated**: 2026-03-20
-
 ### P2: Cross-review Tenet 5 articles considering limits-of-parsimony-in-consciousness-science insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1030,6 +1023,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Update references to coalesced quantum biology articles
+- **Type**: cross-review
+- **Notes**: Coalesce created quantum-biology-and-neural-consciousness.md from three source articles. The following files reference archived articles and need wikilinks updated: topics/quantum-randomness-channel-llm-consciousness.md, topics/quantum-holism-and-phenomenal-unity.md, topics/comparing-quantum-consciousness-mechanisms.md, topics/penrose-gravity-induced-collapse-empirical-prospects.md, topics/consciousness-and-the-philosophy-of-biology.md, topics/evolution-under-dualism.md, topics/empirical-evidence-for-consciousness-selecting.md, topics/anaesthesia-and-the-consciousness-interface.md, topics/phenomenology-of-volitional-control.md, concepts/quantum-consciousness.md, concepts/quantum-biology.md, concepts/quantum-neural-mechanisms-and-coherence.md, concepts/decoherence.md, concepts/entanglement-binding-hypothesis.md
+- **Output**: None -- Context: Update references to coalesced quantum biology articles
 
 ### ✓ 2026-03-20: Refine anaesthesia-and-the-consciousness-interface.md with new filter/transmission research
 - **Type**: refine-draft

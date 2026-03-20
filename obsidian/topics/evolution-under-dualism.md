@@ -30,7 +30,7 @@ related_articles:
   - "[[consciousness-in-simple-organisms]]"
   - "[[topics/free-will]]"
   - "[[animal-consciousness]]"
-  - "[[quantum-biology-and-the-consciousness-debate]]"
+  - "[[quantum-biology-and-neural-consciousness]]"
   - "[[consciousness-and-the-philosophy-of-biology]]"
   - "[[biological-teleology-and-the-interface-framework]]"
   - "[[consciousness-threshold-in-cognitive-evolution]]"
@@ -170,7 +170,7 @@ None of these would refute dualism itself. They would undermine the specific evo
 - [[interactionist-dualism]] — The framework connecting mind and matter
 - [[filter-theory]] — The transmission/filter model grounding the interface story
 - [[psychophysical-laws]] — Laws governing consciousness-matter relationships
-- [[quantum-biology-and-the-consciousness-debate]] — How quantum biology shifts the burden of proof
+- [[quantum-biology-and-neural-consciousness]] — Quantum biology, neural evidence convergence, and the consciousness debate
 - [[topics/free-will]] — Agent teleology and libertarian agency
 - [[animal-consciousness]] — Convergent consciousness across species
 - [[consciousness-and-the-philosophy-of-biology]] — Biology's conceptual toolkit and the limits of biological explanation

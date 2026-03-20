@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 14:14 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-biology-and-neural-consciousness]]
+- **Word count**: 2316 → 2320 (+4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added inline citation for 613 THz claim)
+- **Enhancements made**: 23 wikilinks updated across 14 content files (coalesce cross-review)
+- **Output**: [[reviews/deep-review-2026-03-20-quantum-biology-and-neural-consciousness]]
+
 ## 2026-03-20 13:58 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[topics/quantum-biology-and-the-consciousness-debate]], [[topics/quantum-biology-evidence-in-neural-systems]], [[topics/quantum-biology-neural-experimental-turn]]

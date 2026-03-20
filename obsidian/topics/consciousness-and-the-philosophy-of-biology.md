@@ -21,7 +21,7 @@ concepts:
   - "[[philosophy-of-mind]]"
 related_articles:
   - "[[evolutionary-case-for-mental-causation]]"
-  - "[[quantum-biology-and-the-consciousness-debate]]"
+  - "[[quantum-biology-and-neural-consciousness]]"
   - "[[process-philosophy]]"
   - "[[quantum-biology]]"
   - "[[mental-causation]]"

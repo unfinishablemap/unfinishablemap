@@ -26,7 +26,7 @@ related_articles:
   - "[[evolutionary-case-for-mental-causation]]"
   - "[[consciousness-and-causal-powers]]"
   - "[[attention-and-the-consciousness-interface]]"
-  - "[[quantum-biology-and-the-consciousness-debate]]"
+  - "[[quantum-biology-and-neural-consciousness]]"
   - "[[consciousness-selecting-mechanisms-detail-2026-01-17]]"
 ai_contribution: 100
 author:
@@ -152,7 +152,7 @@ The empirical convergence supports all five of the Map's [[tenets]]:
 - [[concepts/consciousness-selecting-neural-patterns]] — The mechanism by which consciousness selects
 - [[evolutionary-case-for-mental-causation]] — The evolutionary argument in depth
 - [[attention-and-the-consciousness-interface]] — Where and when selection occurs
-- [[quantum-biology-and-the-consciousness-debate]] — How quantum biology shifts the burden of proof
+- [[quantum-biology-and-neural-consciousness]] — Quantum biology, neural evidence convergence, and the consciousness debate
 - [[mental-imagery-causal-role-of-consciousness]] — Voluntary imagery as a specific test case for consciousness selecting
 - [[consciousness-and-causal-powers]] — What kind of causation consciousness exercises
 - [[baseline-cognition]] — What neural systems achieve without consciousness

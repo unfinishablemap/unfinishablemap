@@ -4,7 +4,7 @@ description: "How established quantum effects in warm biology, converging experi
 created: 2026-01-27
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T13:58:00+00:00
+ai_modified: 2026-03-20T14:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-20T14:14:00+00:00
 coalesced_from:
   - "/topics/quantum-biology-and-the-consciousness-debate/"
   - "/topics/quantum-biology-evidence-in-neural-systems/"
@@ -69,7 +69,7 @@ The strongest current evidence linking quantum effects to consciousness comes fr
 
 **The epothilone B experiment.** Khan et al. (2024) found that rats given epothilone B—a microtubule-stabilising drug—took over a minute longer to lose consciousness under anaesthesia (Cohen's d = 1.9). If consciousness had nothing to do with microtubule quantum states, stabilising microtubules should not affect anaesthetic onset. Quantum models predicted this result in advance.
 
-**Anaesthetic-oscillation correlation.** Computer modelling found that anaesthetics specifically abolish a 613 THz quantum oscillation peak in microtubules while non-anaesthetics do not—matching Fröhlich coherence predictions.
+**Anaesthetic-oscillation correlation.** Computer modelling found that anaesthetics specifically abolish a 613 THz quantum oscillation peak in microtubules while non-anaesthetics do not—matching Fröhlich coherence predictions (Travis et al., 2024).
 
 Pharmacological evidence is inherently indirect. Anaesthetics have multiple targets. The correlation is suggestive but does not exclude classical explanations.
 

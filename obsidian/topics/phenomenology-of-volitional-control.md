@@ -29,7 +29,7 @@ related_articles:
   - "[[phenomenology-volitional-control-2026-03-20]]"
   - "[[motor-control-quantum-zeno]]"
   - "[[empirical-evidence-for-consciousness-selecting]]"
-  - "[[quantum-biology-neural-experimental-turn]]"
+  - "[[quantum-biology-and-neural-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -118,7 +118,7 @@ The Map speculates that the phenomenology of volitional control points toward a 
 - [[attention-as-interface]]
 - [[motor-control-quantum-zeno]] — The quantum Zeno framework applied to motor selection
 - [[empirical-evidence-for-consciousness-selecting]] — Convergent evidence for consciousness-selecting
-- [[quantum-biology-neural-experimental-turn]] — 2025-2026 experimental developments in quantum consciousness
+- [[quantum-biology-and-neural-consciousness]] — Quantum biology, neural evidence convergence, and the 2025-2026 experimental turn
 - [[quantum-neural-timing-constraints]] — Timing constraints for quantum effects in neural systems
 
 ## References
