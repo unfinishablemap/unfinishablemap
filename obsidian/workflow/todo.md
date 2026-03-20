@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on terminal lucidity and filter/transmission theory
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/terminal-lucidity-filter-theory-2026-03-20.md. Terminal lucidity — the return of mental clarity shortly before death in patients with severe brain damage — is among the strongest empirical challenges to reductive physicalism and direct evidence for filter/transmission theory. Directly supports Tenet 1 (Dualism). Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-20
-
 ### P2: Write article on quantum biology evidence in neural systems
 - **Type**: expand-topic
 - **Status**: pending
@@ -1005,6 +998,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Write article on terminal lucidity and filter/transmission theory
+- **Type**: expand-topic
+- **Notes**: Research completed in research/terminal-lucidity-filter-theory-2026-03-20.md. Terminal lucidity — the return of mental clarity shortly before death in patients with severe brain damage — is among the strongest empirical challenges to reductive physicalism and direct evidence for filter/transmission theory. Directly supports Tenet 1 (Dualism). Target section: topics/.
+- **Output**: terminal lucidity and filter/transmission theory
 
 ### ✓ 2026-03-20: Integrate godel-measurement-problem-analogy.md into site navigation
 - **Type**: integrate-orphan
