@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the unobservable self
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/voids-the-unobservable-self-2026-03-20.md. The structural impossibility of the self observing itself as subject — not mere introspective difficulty but a principled limit on self-knowledge. Connects to Hume's bundle theory, Sartre's pre-reflective cogito, and Metzinger's self-model theory. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-20
-
 ### P2: Deep review limits-of-parsimony-in-consciousness-science.md
 - **Type**: deep-review
 - **Status**: pending
@@ -941,6 +934,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Write voids article on the unobservable self
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-the-unobservable-self-2026-03-20.md. The structural impossibility of the self observing itself as subject — not mere introspective difficulty but a principled limit on self-knowledge. Connects to Hume's bundle theory, Sartre's pre-reflective cogito, and Metzinger's self-model theory. Target section: voids/.
+- **Output**: Write voids article on the unobservable self
 
 ### ✓ 2026-03-20: Reduce microtubule centrality in quantum-biology-neural-experimental-turn.md
 - **Type**: refine-draft

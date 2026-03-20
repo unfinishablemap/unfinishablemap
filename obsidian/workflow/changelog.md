@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 05:17 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: The Unobservable Self
+- **Reason**: Content already exists in [[voids/self-reference-paradox]] which was coalesced from `/voids/the-unobservable-self/`. Voids index already aliases this article as "The Unobservable Self". Creating a new article would undo a prior editorial coalesce.
+- **Based on research**: Yes — [[research/voids-the-unobservable-self-2026-03-20]]
+
 ## 2026-03-20 05:09 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/quantum-biology-neural-experimental-turn]]
