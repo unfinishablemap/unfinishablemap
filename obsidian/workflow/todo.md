@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-20T06:41:00+00:00
+ai_modified: 2026-03-20T09:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write void article on the unobservable self
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/voids-the-unobservable-self-2026-03-20.md. The void between the self that observes and the self that is observed — introspection can never catch subjectivity in the act. Directly supports Tenet 1 (Dualism) by revealing a structural limit of physical explanation. Target section: voids/ (98/100, 2 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-20
+
+### P2: Write void article on the social epistemic void
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/voids-social-epistemic-void-2026-03-19.md. The gap between collective knowledge and individual understanding — social epistemology reveals how consciousness mediates between shared and private knowledge. Target section: voids/ (98/100, 2 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-20
+
+### P2: Cross-review types-of-consciousness.md considering degrees-of-consciousness insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article concepts/degrees-of-consciousness.md (created 2026-03-20) distinguishes gradation from kind. Check types-of-consciousness.md for cross-links, whether the type/degree distinction is consistently drawn, and opportunities to reference the new gradation evidence.
+- **Source**: chain (from degrees-of-consciousness.md)
+- **Generated**: 2026-03-20
+
+### P2: Cross-review animal-consciousness.md considering degrees-of-consciousness insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article concepts/degrees-of-consciousness.md (created 2026-03-20) provides a systematic treatment of consciousness gradation. Check animal-consciousness.md for cross-links and whether its treatment of graded awareness aligns with the new concept page's framework.
+- **Source**: chain (from degrees-of-consciousness.md)
+- **Generated**: 2026-03-20
+
+### P2: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links (created 2026-03-18). Topics article on lucid dreaming as evidence for mind-side rendering capability. Add cross-references from related articles such as dream-consciousness, dream-problem-solving-and-conscious-influence, capability-division-in-vision, and consciousness-as-amplifier.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-20
+
+### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links (created 2026-03-15). Topics article on Konkoly et al. evidence that dreaming is functionally active. Add cross-references from dream-consciousness, lucid-dreaming-and-mind-side-rendering, consciousness-as-amplifier, and sleep-consciousness-void.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-20
+
+### P2: Integrate godel-measurement-problem-analogy.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links (created 2026-03-17). Topics article on the Szangolies structural parallel between Gödel incompleteness and the measurement problem. Add cross-references from consciousness-and-the-philosophy-of-mathematics, consciousness-and-the-authority-of-formal-systems, and mathematical-structure-of-the-consciousness-physics-interface.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-20
 
 ### P3: Deep review mutation-void.md
 - **Type**: deep-review
