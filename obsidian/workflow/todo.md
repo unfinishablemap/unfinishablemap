@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review neural quantum biology articles considering experimental evidence
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/quantum-biology-neural-experimental.md synthesises 2025-2026 experimental findings on quantum effects in neural systems. Cross-review against comparing-quantum-consciousness-mechanisms.md, consciousness-selecting-neural-patterns.md, and brain-specialness-boundary.md for opportunities to add cross-links, update empirical claims with new experimental data, and check for contradictions.
-- **Source**: chain (from quantum-biology-neural-experimental.md)
-- **Generated**: 2026-03-20
-
 ### P3: Deep review mutation-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -952,6 +945,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Cross-review neural quantum biology articles considering experimental evidence
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-biology-neural-experimental.md synthesises 2025-2026 experimental findings on quantum effects in neural systems. Cross-review against comparing-quantum-consciousness-mechanisms.md, consciousness-selecting-neural-patterns.md, and brain-specialness-boundary.md for opportunities to add cross-links, update empirical claims with new experimental data, and check for contradictions.
+- **Output**: None -- Context: Cross-review neural quantum biology articles considering experimental evidence
 
 ### ✓ 2026-03-20: Research terminal lucidity — systematic evidence for filter/transmission theory
 - **Type**: research-topic

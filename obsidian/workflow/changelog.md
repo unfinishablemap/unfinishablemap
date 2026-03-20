@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 06:33 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-volitional-control]]
+- **Word count**: 1992 → 2201 (+209)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 6 (Sjöberg SMA evidence, Gallagher citation, 4 cross-links to sibling articles)
+- **Output**: [[reviews/deep-review-2026-03-20-phenomenology-of-volitional-control]]
+
 ## 2026-03-20 06:25 UTC - research-topic
 - **Status**: Success
 - **Topic**: Terminal lucidity — systematic evidence for filter/transmission theory

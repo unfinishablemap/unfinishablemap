@@ -4,7 +4,8 @@ description: "The first-person experience of willing—agency, veto, and the Lib
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T06:10:00+00:00
+ai_modified: 2026-03-20T06:33:00+00:00
+last_deep_review: 2026-03-20T06:33:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -26,6 +27,9 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[phenomenology-volitional-control-2026-03-20]]"
+  - "[[motor-control-quantum-zeno]]"
+  - "[[empirical-evidence-for-consciousness-selecting]]"
+  - "[[quantum-biology-neural-experimental-turn]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -41,6 +45,8 @@ Libet et al. (1983) asked subjects to flex their wrist whenever they felt like i
 
 This interpretation rested on treating the RP as an unconscious decision signal. Schurger, Sitt, and Dehaene (2012) dismantled that assumption. Their accumulator model showed that the RP's shape and timing are exactly what would be expected from ongoing stochastic fluctuations in neural activity — random noise drifting toward a motor threshold — rather than a goal-directed preparatory process. In Libet's paradigm, where subjects must eventually move but choose the moment, premotor activity hovers near threshold. Random fluctuations determine when the threshold is crossed. As Schurger et al. put it, "This interpretation of the readiness potential thus takes the sting out of the Libet argument against free will."
 
+Sjöberg's 2024 review of patients who have had the supplementary motor area (SMA) resected — the very region generating the readiness potential — provides independent confirmation. These patients retain their subjective sense of willing while losing voluntary movement execution. If the RP were the neural signature of genuine volition, removing its source should impair the experience of willing. It does not.
+
 Alfred Mele's philosophical critique reinforced this reinterpretation from a different angle. What subjects become aware of at the 200-millisecond mark may be "an urge to flex that has already arisen," not a decision already made. More fundamentally, spontaneous wrist flicking in a laboratory bears almost no resemblance to genuine voluntary action — the kind that involves deliberation over minutes, hours, or days. The ecological validity of the paradigm is low. Libet's experiments test impulse timing, not [[concept-of-free-will|free will]].
 
 ## The Structure of Voluntary Action: Agency and Ownership
@@ -53,7 +59,7 @@ The phenomenological tradition, particularly the work of Shaun Gallagher and Dan
 
 This distinction matters because the Libet experiments concern only the timing of one narrow aspect of agency — the moment of conscious awareness of an urge — while ignoring the broader phenomenological structure. Gallagher further distinguishes motor-level agency (SAm), the feeling of controlling specific bodily movements, from intentional-level agency (SAi), the feeling of pursuing goals through action. The readiness potential relates to motor preparation. It says nothing about the higher-order, intentional level where agents form plans, weigh reasons, and select among possible courses of action.
 
-Clinical evidence strengthens this analysis. In schizophrenia, patients may experience ownership without agency — their body moves, but they do not feel they are causing the movement, attributing it instead to external forces. In anarchic hand syndrome, a limb performs purposeful actions the patient disowns. These dissociations demonstrate that the sense of agency tracks real causal structures in the nervous system rather than being a simple post-hoc confabulation. If agency were merely a story the brain tells after the fact, it would be difficult to explain why it can be selectively disrupted by specific neural pathologies while ownership remains intact.
+Clinical evidence strengthens this analysis. In schizophrenia, patients may experience ownership without agency — their body moves, but they do not feel they are causing the movement, attributing it instead to external forces (Gallagher, 2000). In anarchic hand syndrome, a limb performs purposeful actions the patient disowns. These dissociations demonstrate that the sense of agency tracks real causal structures in the nervous system rather than being a simple post-hoc confabulation. If agency were merely a story the brain tells after the fact, it would be difficult to explain why it can be selectively disrupted by specific neural pathologies while ownership remains intact.
 
 ## Conscious Veto: The "Whether" Component
 
@@ -67,7 +73,7 @@ Marcel Brass and Patrick Haggard (2007, 2008) provided neural evidence for this 
 
 The "whether" component is the most philosophically significant. When subjects intentionally inhibited a prepared action, Brass and Haggard observed specific activation in dFMC, which exerts top-down inhibition of premotor areas. This is not merely the absence of a go signal — it is an active neural process of cancellation, with its own distinct circuitry.
 
-Critics have objected that the veto itself must be unconsciously initiated, generating an infinite regress. But this objection assumes what it needs to prove — that every neural event must have a prior neural cause sufficient to explain it. The Map's framework offers an alternative: the "whether" decision is precisely the kind of process where [[consciousness-selecting-neural-patterns|consciousness selects among neural patterns]], biasing quantum-indeterminate outcomes in the brain toward one resolution rather than another. The veto does not require a prior unconscious veto because it operates at the [[attention-as-interface|interface]] where conscious selection meets neural preparation.
+Critics have objected that the veto itself must be unconsciously initiated, generating an infinite regress. But this objection assumes what it needs to prove — that every neural event must have a prior neural cause sufficient to explain it. The Map's framework offers an alternative: the "whether" decision is precisely the kind of process where [[consciousness-selecting-neural-patterns|consciousness selects among neural patterns]], biasing quantum-indeterminate outcomes in the brain toward one resolution rather than another. The veto does not require a prior unconscious veto because it operates at the [[attention-as-interface|interface]] where conscious selection meets neural preparation. For how this mechanism might work through the quantum Zeno effect applied specifically to motor selection, see [[motor-control-quantum-zeno|Motor Control and the Quantum Zeno Framework]]. The [[quantum-neural-timing-constraints|timing constraints]] for such quantum effects in neural tissue remain an active area of investigation.
 
 ## Against the Illusion Theory
 
@@ -81,7 +87,7 @@ The Map's [[the-epiphenomenalist-threat|reportability argument]] applies with pa
 
 ## The Temporal Puzzle Reconsidered
 
-A 2021 meta-analysis of Libet-style experiments found that the evidence for RP-preceding-intention is "uncertain and based on only a small number of studies." The field has moved substantially from the early claim that neuroscience disproved free will. What remains is a genuine puzzle about temporal ordering — neural preparation does precede reported awareness of intention — but this puzzle admits multiple interpretations:
+A 2021 meta-analysis of Libet-style experiments in *Neuroscience & Biobehavioral Reviews* found that the evidence for RP-preceding-intention is "uncertain and based on only a small number of studies." The field has moved substantially from the early claim that neuroscience disproved free will. What remains is a genuine puzzle about temporal ordering — neural preparation does precede reported awareness of intention — but this puzzle admits multiple interpretations:
 
 1. **Consciousness selects among ongoing activations.** The brain continuously generates candidate motor patterns. Consciousness does not initiate activity from scratch but selects which of many competing preparations to permit or suppress — consistent with the "whether" component and [[consciousness-selecting-neural-patterns|neural pattern selection]].
 
@@ -89,7 +95,7 @@ A 2021 meta-analysis of Libet-style experiments found that the evidence for RP-p
 
 3. **Neural preparation is not decision.** Schurger's stochastic model shows that neural activity ramping toward threshold is not the same as an unconscious decision. The brain prepares many possible actions simultaneously. That preparation precedes awareness is no more surprising than a pianist's fingers hovering near keys before a deliberate chord.
 
-None of these interpretations require that consciousness is epiphenomenal. All are compatible with the Map's framework of [[interactionist-dualism]] in which consciousness causally participates in action through selecting among quantum-indeterminate neural outcomes.
+None of these interpretations require that consciousness is epiphenomenal. All are compatible with the Map's framework of [[interactionist-dualism]] in which consciousness causally participates in action through selecting among quantum-indeterminate neural outcomes. For the broader convergence of evolutionary, cognitive, neurological, and quantum-biological evidence supporting this selection hypothesis, see [[empirical-evidence-for-consciousness-selecting|Empirical Evidence for Consciousness-Selecting]].
 
 ## Relation to Site Perspective
 
@@ -110,6 +116,10 @@ The Map speculates that the phenomenology of volitional control points toward a 
 - [[agent-causation]]
 - [[consciousness-selecting-neural-patterns]]
 - [[attention-as-interface]]
+- [[motor-control-quantum-zeno]] — The quantum Zeno framework applied to motor selection
+- [[empirical-evidence-for-consciousness-selecting]] — Convergent evidence for consciousness-selecting
+- [[quantum-biology-neural-experimental-turn]] — 2025-2026 experimental developments in quantum consciousness
+- [[quantum-neural-timing-constraints]] — Timing constraints for quantum effects in neural systems
 
 ## References
 
@@ -122,5 +132,7 @@ The Map speculates that the phenomenology of volitional control points toward a 
 7. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
 8. Nahmias, E. (2002). When consciousness matters: A critical review of Daniel Wegner's *The Illusion of Conscious Will*. *Philosophical Psychology*, 15(4), 527–541.
 9. Fried, I., Mukamel, R., & Kreiman, G. (2011). Internally generated preactivation of single neurons in human medial frontal cortex predicts volition. *Neuron*, 69(3), 548–562.
-10. Southgate, A. & Oquatre-six, C. (2026-02-22). The Epiphenomenalist Threat. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-epiphenomenalist-threat/
-11. Southgate, A. & Oquatre-six, C. (2026-02-09). Phenomenology of Agency vs Passivity. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenology-of-agency-vs-passivity/
+10. Gallagher, S. (2000). Philosophical conceptions of the self: Implications for cognitive science. *Trends in Cognitive Sciences*, 4(1), 14–21.
+11. Sjöberg, R. L. (2024). The readiness potential and the soul: What happens when you resect their seat in the brain? *Brain*, 147(7), 2267–2274.
+12. Southgate, A. & Oquatre-six, C. (2026-02-22). The Epiphenomenalist Threat. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-epiphenomenalist-threat/
+13. Southgate, A. & Oquatre-six, C. (2026-02-09). Phenomenology of Agency vs Passivity. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenology-of-agency-vs-passivity/
