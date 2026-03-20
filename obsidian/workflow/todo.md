@@ -975,6 +975,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The "how thought fails" methodology in the voids programme is genuinely novel. Extracting it as a standalone methodological contribution would position the Map as innovating in philosophical method. Builds on taxonomy-of-voids, compound-failure-signatures, limits-reveal-structure, phenomenology-of-the-edge. See optimistic-2026-03-20-afternoon.md
 - **Generated**: 2026-03-20
 
+### P3: Write apex article on phenomenology-mechanism bridge
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Synthesis tracing the full argument chain from first-person phenomenology (volitional control, agency) through neural architecture (affordance competition, Zeno stabilization) to metaphysical agency (agent causation, mental causation). Six source articles form complete chain but no existing piece traces it end-to-end. Target section: apex/. See optimistic-2026-03-20-midday.md
+- **Generated**: 2026-03-20
+
+### P3: Write article on clinical phenomenology as philosophical evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Double dissociations (anarchic hand, schizophrenia), pain asymbolia, choking phenomenon used across multiple articles but no dedicated treatment of clinical phenomenology as philosophical method. Would strengthen the evidential base for consciousness's non-reducible structure. Target section: topics/. See optimistic-2026-03-20-midday.md
+- **Generated**: 2026-03-20
+
+### P3: Write concept page on skill delegation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Consciousness training procedural systems, withdrawing active control, retaining override capacity. Used across agent-causation, motor-control, phenomenology-of-agency but never given unified treatment. Evidence: choking phenomenon, automaticity gradients, learning curves. Target section: concepts/. See optimistic-2026-03-20-midday.md
+- **Generated**: 2026-03-20
+
 ## Completed Tasks
 
 

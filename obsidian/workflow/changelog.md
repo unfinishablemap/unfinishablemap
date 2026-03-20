@@ -5,6 +5,11 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 12:20 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 446 non-draft articles (229 topics, 216 concepts, 1 tenets) with focus on mechanistic-phenomenological cluster (motor control, volitional control, agency, causal powers, metaproblem, von Neumann-Wigner, epiphenomenalist threat)
+- **Output**: [[reviews/optimistic-2026-03-20-midday]]
+
 ## 2026-03-20 12:13 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-volitional-control]]
