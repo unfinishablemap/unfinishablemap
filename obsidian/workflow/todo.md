@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept article on phenomenology of volitional control
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/phenomenology-volitional-control-2026-03-20.md. The phenomenology of willing—effort, initiation, sustained control—is referenced across free-will, phenomenology-of-agency-vs-passivity, and mental-causation articles but lacks its own concept page. Directly supports Tenet 3 (Bidirectional Interaction) by grounding the experience of causal efficacy. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-20
-
 ### P2: Integrate phenomenology-mechanism-bridge.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1049,6 +1042,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Write concept article on phenomenology of volitional control
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenology-volitional-control-2026-03-20.md. The phenomenology of willing—effort, initiation, sustained control—is referenced across free-will, phenomenology-of-agency-vs-passivity, and mental-causation articles but lacks its own concept page. Directly supports Tenet 3 (Bidirectional Interaction) by grounding the experience of causal efficacy. Target section: concepts/.
+- **Output**: Write concept article on phenomenology of volitional control
 
 ### ✓ 2026-03-20: Write concept article on limits of parsimony in consciousness debates
 - **Type**: expand-topic

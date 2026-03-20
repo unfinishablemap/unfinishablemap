@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 18:59 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenology of Volition
+- **Output**: [[phenomenology-of-volition]]
+- **Word count**: 1579
+- **Based on research**: yes — [[phenomenology-volitional-control-2026-03-20]]
+
 ## 2026-03-20 18:44 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[epiphenomenalisms-gravity-well]]
