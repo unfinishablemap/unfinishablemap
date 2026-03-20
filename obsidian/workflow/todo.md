@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate temporal-constitution-and-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Created 2026-03-17. Topics article on how temporal structure constitutes conscious experience. Add cross-references from related articles (temporal-consciousness, temporal-void, consciousness-and-the-ontology-of-temporal-becoming, smoothness-problem) or update section index pages.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-20
-
 ### P2: Research consciousness during general anesthesia — graded loss and implications for filter theory
 - **Type**: research-topic
 - **Status**: pending
@@ -959,6 +952,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Integrate temporal-constitution-and-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-17. Topics article on how temporal structure constitutes conscious experience. Add cross-references from related articles (temporal-consciousness, temporal-void, consciousness-and-the-ontology-of-temporal-becoming, smoothness-problem) or update section index pages.
+- **Output**: temporal-constitution-and-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-20: Strengthen AI reasoning response in argument-from-reason.md
 - **Type**: refine-draft

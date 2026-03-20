@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 08:29 UTC - deep-review
+- **Status**: Skipped (archived article)
+- **File**: temporal-constitution-and-consciousness (archived 2026-03-18, coalesced into [[topics/temporal-structure-of-consciousness]])
+- **Action**: Removed stale `hugo/content/topics/temporal-constitution-and-consciousness.md` — sync artifact left behind during archiving. Superseding article has 26 inbound links; no orphan issue exists.
+- **Note**: Netlify 301 redirect from `/topics/temporal-constitution-and-consciousness/` → `/topics/temporal-structure-of-consciousness/` can now take effect.
+
 ## 2026-03-20 08:22 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/social-construction-of-self-vs-phenomenal-self]]
