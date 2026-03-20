@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Refine anaesthesia-and-the-consciousness-interface.md with graded consciousness loss research
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. New evidence on graded consciousness loss under anesthesia — isolated forearm technique, ketamine dissociative anesthesia (consciousness persists while sensory processing is suppressed), propofol connectivity studies — strengthens the filter theory case. Incorporate graded loss evidence and filter theory predictions into existing article. Directly supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Source**: chain (from research/consciousness-anesthesia-filter-theory-2026-03-20.md)
+- **Generated**: 2026-03-20
+
+### P2: Integrate phenomenology-of-perceptual-learning.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has only 1 inbound link. Created 2026-03-11. Topics article on how perceptual learning transforms phenomenal experience over time, relevant to interface plasticity. Add cross-references from related articles (perceptual-failure-and-the-interface, phenomenology-of-skilled-performance, attention-and-the-consciousness-interface, consciousness-interface-development) to strengthen site navigation.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-20
+
+### P2: Integrate death-phenomenology-beyond-ndes.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has only 1 inbound link. Created 2026-03-11. Topics article on death-related phenomenology beyond near-death experiences — terminal lucidity, deathbed visions, end-of-life experiences. Add cross-references from related articles (terminal-lucidity, near-death-experiences, death-and-consciousness, filter-theory) to strengthen site navigation.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-20
+
+### P2: Integrate consciousness-and-pain.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has only 1 inbound link. Created 2026-02-15. Topics article on pain phenomenology and the consciousness interface. Add cross-references from related articles (qualia, phenomenal-consciousness, placebo-effect-and-mental-causation, anaesthesia-and-the-consciousness-interface, content-specific-mental-causation) to strengthen site navigation.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-20
+
+### P2: Write concept page on degrees of consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: The concept that consciousness admits of degrees rather than being binary on/off is referenced across anaesthesia, dreaming, altered states, animal consciousness, and meditation articles but has no anchor concept page. New anesthesia research (graded loss patterns, ketamine dissociative states) makes this gap urgent. Connects to types-of-consciousness.md and altered-states-of-consciousness.md but distinct: degrees addresses the graded nature of conscious experience itself. Directly supports Tenet 1 (Dualism) — the filter model predicts specific gradation patterns. Target section: concepts/.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-20
+
 ### P3: Deep review mutation-void.md
 - **Type**: deep-review
 - **Status**: pending

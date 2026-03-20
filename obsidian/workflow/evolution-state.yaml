@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-03-20T08:29:34.430057+00:00'
-session_count: 4390
-cycle_position: 4018
+last_updated: '2026-03-20T08:37:04.430535+00:00'
+session_count: 4391
+cycle_position: 4019
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -48,13 +48,23 @@ quality:
   critical_issues: 0
   medium_issues: 10
   low_issues: 3
-  orphaned_files: 13
+  orphaned_files: 0
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 6
+  p3_tasks: 70
+  needs_replenishment: false
+  last_replenishment: '2026-03-20T08:44:00+00:00'
+  replenishment_source_counts:
+    chain: 1
+    unconsumed_research: 0
+    gap_analysis: 1
+    length_analysis: 0
+    staleness: 0
+    orphan_integration: 3
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-03-20'
-  outcome: success
 - task: expand-topic (phenomenology of volitional control)
   type: expand-topic
   date: '2026-03-20'
@@ -132,5 +142,9 @@ recent_tasks:
   outcome: success
 - task: deep-review (temporal-constitution-and-consciousness.md -- Cont)
   type: deep-review
+  date: '2026-03-20'
+  outcome: success
+- task: research-topic (consciousness during general anesthesia — graded l)
+  type: research-topic
   date: '2026-03-20'
   outcome: success
