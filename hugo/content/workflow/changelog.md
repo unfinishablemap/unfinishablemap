@@ -9,6 +9,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-20 20:29 UTC - deep-review
+- **Status**: Success
+- **File**: [animal-consciousness](/topics/animal-consciousness/)
+- **Word count**: 3299 → 3299 (+0, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (UAL threshold made explicit, unsupported claim removed)
+- **Enhancements made**: 1 (tightened analogy phrasing)
+- **Output**: [deep-review-2026-03-20b-animal-consciousness](/reviews/deep-review-2026-03-20b-animal-consciousness/)
+
+## 2026-03-20 20:14 UTC - deep-review
+- **Status**: Success
+- **File**: [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/)
+- **Word count**: 1967 → 1967 (+0, no content changes needed)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (all addressed in earlier review)
+- **Enhancements made**: 8 inbound cross-links added from related articles + 3 body-text references
+- **Output**: [deep-review-2026-03-20b-clinical-phenomenology-as-philosophical-evidence](/reviews/deep-review-2026-03-20b-clinical-phenomenology-as-philosophical-evidence/)
+
 ## 2026-03-20 20:00 UTC - coalesce
 - **Status**: Success
 - **Sources**: [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/), [phenomenology-of-moral-deliberation](/topics/phenomenology-of-moral-deliberation/)

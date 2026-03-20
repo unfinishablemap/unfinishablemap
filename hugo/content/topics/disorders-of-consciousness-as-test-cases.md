@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-03-20 12:49:00+00:00
+ai_modified: 2026-03-20 20:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,6 +26,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[quantum-measurement-and-consciousness]]'
+- '[[clinical-phenomenology-as-philosophical-evidence]]'
 title: Disorders of Consciousness as Test Cases
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -139,6 +140,7 @@ The Unfinishable Map's [tenets](/tenets/) converge on DoC cases as among the mos
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap that DoC cases illuminate
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain asymbolia and pain's inseparable phenomenal-causal character as a test case
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Another classic dissociation case that challenges simple unity
+- [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/) — The epistemic framework for how clinical cases generate philosophical evidence
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Anaesthesia as a parallel case of reversible consciousness disruption
 
 ## References

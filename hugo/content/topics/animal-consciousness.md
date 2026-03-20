@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-20 10:56:00+00:00
+ai_modified: 2026-03-20 20:29:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -35,7 +35,7 @@ description: Do animals have conscious experience? Convergent evidence suggests 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-20 10:56:00+00:00
+last_deep_review: 2026-03-20 20:29:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -64,7 +64,7 @@ These declarations identify *correlates*, not consciousness itself. Whether corr
 
 How little neural complexity can support consciousness? See [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) for detailed analysis of *C. elegans* (302 neurons with vertebrate-like learning and anesthetic responses, yet fails trace conditioning), Hydra (decentralized nerve net), and slime molds (problem-solving without neurons).
 
-The **Unlimited Associative Learning (UAL) framework** (Ginsburg & Jablonka 2019) proposes consciousness emerged when learning became *unlimited*—associating compound stimuli across modalities with complex motor combinations. This places consciousness emergence in the Cambrian (~540 mya), present in most vertebrates, cephalopods, and some arthropods. UAL identifies where consciousness *interfaces* with physical systems—a framing compatible with dualism.
+The **Unlimited Associative Learning (UAL) framework** (Ginsburg & Jablonka 2019) proposes consciousness emerged when learning became *unlimited*—associating compound stimuli across modalities with complex motor combinations. This places consciousness emergence in the Cambrian (~540 mya), present in most vertebrates, cephalopods, and some arthropods—while the simple organisms above all fail UAL criteria, marking a qualitative divide between information processing and conscious experience. UAL identifies where consciousness *interfaces* with physical systems—a framing compatible with dualism.
 
 ## Insect Consciousness: The Expanding Frontier
 
@@ -99,7 +99,7 @@ Gutfreund (2024) argues that neuroscience remains fundamentally agnostic about a
 
 The [problem-of-other-minds](/concepts/problem-of-other-minds/) applies to both animals and AI—we cannot directly verify consciousness in either. But the inferential grounds differ markedly.
 
-**Argument from analogy:** We share evolutionary history and biological architecture with animals. When a mammal exhibits pain behavior, we observe responses evolved from the same ancestral mechanisms as our own. With AI, the analogy is purely behavioral—outputs resembling expressions, but through entirely different mechanisms.
+**Argument from analogy:** We share evolutionary history and biological architecture with animals. When a mammal exhibits pain behavior, we observe responses evolved from shared ancestral mechanisms. With AI, the analogy is purely behavioral—similar outputs through entirely different mechanisms.
 
 **Inference to best explanation:** "This creature has subjective experience" explains animal behavior within evolutionary pressures and neural homologies. For AI, alternative explanations (pattern-matching, statistical correlation) explain outputs without positing phenomenal consciousness.
 
@@ -135,7 +135,7 @@ The dualist framework accommodates this gradient: consciousness varies along mul
 
 Descartes viewed animals as "bête-machines"—complex automata without genuine experience. But this was contingent on his specific assumptions, not dualism per se. Contemporary dualism has no anthropocentric commitment to restricting phenomenal consciousness to humans.
 
-Dualism's distinctive feature is that it places no substrate-specific barrier on consciousness—mind interfaces with suitably organised matter, wherever that organisation exists. A bat's echolocation-consciousness and a human's metacognitive-consciousness may differ profoundly while both being genuine phenomenal experience. Dualism's challenge is explaining how consciousness interfaces with radically different nervous systems across species. But this interface question is more tractable than the hard problem itself.
+Dualism's distinctive feature is that it places no substrate-specific barrier on consciousness—mind interfaces with suitably organised matter, wherever that organisation exists. A bat's echolocation-consciousness and a human's metacognitive-consciousness may differ profoundly while both being genuine phenomenal experience. Dualism's challenge is explaining how consciousness interfaces with radically different nervous systems across species.
 
 ## Emotional Consciousness and Animal Sentience
 

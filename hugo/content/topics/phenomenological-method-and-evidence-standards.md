@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-03-19 03:19:00+00:00
+ai_modified: 2026-03-20 20:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -29,6 +29,7 @@ related_articles:
 - '[[epistemology-of-introspection-and-calibration]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[phenomenology-of-epistemic-cognition]]'
+- '[[clinical-phenomenology-as-philosophical-evidence]]'
 title: Phenomenological Method and Evidence Standards
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -128,6 +129,7 @@ The Map's [tenets](/tenets/) connect to phenomenological evidence standards at m
 - [heterophenomenology](/concepts/heterophenomenology/)
 - [introspection](/concepts/introspection/)
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
+- [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/) — How clinical disruptions apply phenomenological evidence standards through instruments like the EASE
 
 ## References
 

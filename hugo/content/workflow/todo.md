@@ -38,20 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate clinical-phenomenology-as-philosophical-evidence.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: Topics article created 2026-03-20 with no inbound links. Add cross-references from related articles (contemplative-practice-as-philosophical-evidence, phenomenological-psychiatry-and-altered-experience, anaesthesia-and-the-consciousness-interface, placebo-effect-and-mental-causation) to connect clinical phenomenology into the site's evidence-building network.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-20
-
-### P2: Cross-review animal-consciousness.md considering consciousness-in-simple-organisms insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/consciousness-in-simple-organisms.md extends the consciousness-in-nature theme to bacteria, plants, and single-celled organisms. Review animal-consciousness.md for opportunities to add cross-links, note how simple organism evidence bears on the continuity thesis, and check for terminological consistency between the two treatments.
-- **Source**: chain (from consciousness-in-simple-organisms.md)
-- **Generated**: 2026-03-20
-
 ### P2: Cross-review the-epiphenomenalist-threat.md considering epiphenomenalism's gravity well insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1035,6 +1021,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Cross-review animal-consciousness.md considering consciousness-in-simple-organisms insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-in-simple-organisms.md extends the consciousness-in-nature theme to bacteria, plants, and single-celled organisms. Review animal-consciousness.md for opportunities to add cross-links, note how simple organism evidence bears on the continuity thesis, and check for terminological consistency between the two treatments.
+- **Output**: obsidian/topics/animal-consciousness.md -- Context: Cross-review animal-consciousness.md considering consciousness-in-simple-organisms insights
+
+### ✓ 2026-03-20: Integrate clinical-phenomenology-as-philosophical-evidence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article created 2026-03-20 with no inbound links. Add cross-references from related articles (contemplative-practice-as-philosophical-evidence, phenomenological-psychiatry-and-altered-experience, anaesthesia-and-the-consciousness-interface, placebo-effect-and-mental-causation) to connect clinical phenomenology into the site's evidence-building network.
+- **Output**: obsidian/topics/clinical-phenomenology-as-philosophical-evidence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-20: Integrate skill-delegation.md into site navigation
 - **Type**: integrate-orphan

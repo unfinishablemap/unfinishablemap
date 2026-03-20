@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-03-18 22:42:00+00:00
+ai_modified: 2026-03-20 20:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -55,6 +55,7 @@ related_articles:
 - '[[ethics-of-consciousness]]'
 - '[[disorders-of-consciousness-as-test-cases]]'
 - '[[value-blind-vs-value-sensitive-selection]]'
+- '[[clinical-phenomenology-as-philosophical-evidence]]'
 title: Pain, Consciousness, and Causal Power
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -195,6 +196,7 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 - [blindsight](/concepts/blindsight/) — A parallel clinical dissociation in vision
 - [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/) — Other neurological test cases for consciousness theories
 - [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) — How asymbolia evidence bears on whether valence enters the selection mechanism
+- [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/) — Asymbolia within the broader framework of clinical evidence for dualism
 - [valence-as-selection-currency](/topics/valence-as-selection-currency/) — How valence may function as the common evaluative metric for conscious selection
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-20 19:44:00+00:00
+ai_modified: 2026-03-20 20:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -39,6 +39,7 @@ related_articles:
 - '[[phenomenology-of-consciousness-doing-work]]'
 - '[[ownership-void]]'
 - '[[phenomenology-of-temporal-selection]]'
+- '[[clinical-phenomenology-as-philosophical-evidence]]'
 title: Phenomenology of Agency vs Passivity
 topics:
 - '[[topics/free-will]]'

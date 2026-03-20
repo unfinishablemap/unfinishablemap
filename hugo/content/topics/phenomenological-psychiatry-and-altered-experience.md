@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-03
-ai_modified: 2026-03-11 10:02:00+00:00
+ai_modified: 2026-03-20 20:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,6 +26,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[phenomenological-psychiatry-altered-experience-2026-02-21]]'
+- '[[clinical-phenomenology-as-philosophical-evidence]]'
 title: Phenomenological Psychiatry and Altered Experience
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -102,7 +103,7 @@ The structural irreducibility argument runs as follows. If psychiatric condition
 
 The Map interprets this as evidence that first-person experiential structure constitutes an autonomous domain—one that can be investigated on its own terms, generates its own explanatory insights, and resists complete reduction to physical description. As Maung (2019) argues, Chalmers-style property dualism faces no conflict with psychiatric neuroscience. The tight correlations between brain states and conscious states (antidepressants alter temporal experience; antipsychotics reduce ipseity disturbance) are equally consistent with lawful psychophysical correlation as with identity.
 
-The Map speculates that the holistic interdependence of consciousness structures—disrupting ipseity simultaneously disrupts temporality, embodiment, and intersubjectivity—points toward the kind of unified, gestalt-like organisation more characteristic of subjective experience than of neural mechanisms. Phenomenological psychiatry reveals consciousness as a "meaningful gestalt" rather than an aggregate of independent modules, and this gestalt character is precisely what the Map's dualist framework predicts.
+The broader [clinical phenomenology framework](/topics/clinical-phenomenology-as-philosophical-evidence/) shows that this convergence of clinical disruptions—across ownership, agency, affect, and temporal experience—generates doubly grounded evidence that discriminates between theories with unusual precision. The Map speculates that the holistic interdependence of consciousness structures—disrupting ipseity simultaneously disrupts temporality, embodiment, and intersubjectivity—points toward the kind of unified, gestalt-like organisation more characteristic of subjective experience than of neural mechanisms. Phenomenological psychiatry reveals consciousness as a "meaningful gestalt" rather than an aggregate of independent modules, and this gestalt character is precisely what the Map's dualist framework predicts.
 
 Most phenomenological psychiatrists bracket the ontological question, remaining methodologically neutral on whether the explanatory gap is epistemological or ontological. The Map takes the stronger position: the structural richness of first-person experience, made concrete by a century of phenomenological-psychiatric investigation, is best explained by genuine irreducibility rather than mere current ignorance.
 
@@ -113,6 +114,7 @@ Most phenomenological psychiatrists bracket the ontological question, remaining 
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)
 - [phenomenology](/concepts/phenomenology/)
 - [dualism](/concepts/dualism/)
+- [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/) — How clinical disruptions function as natural experiments that discriminate between theories of consciousness
 - [attention-disorders-and-consciousness](/voids/attention-disorders-and-consciousness/) — The epistemological void when attention disorders compromise the instrument of investigation
 
 ## References

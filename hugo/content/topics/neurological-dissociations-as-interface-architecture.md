@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-20 20:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -30,6 +30,7 @@ related_articles:
 - '[[embodied-consciousness-and-the-interface]]'
 - '[[motor-selection]]'
 - '[[reconstruction-paradox-brain-correction-2026-03-09]]'
+- '[[clinical-phenomenology-as-philosophical-evidence]]'
 title: Neurological Dissociations as Interface Architecture
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -149,7 +150,7 @@ flowchart TB
 - **Bilateral channels** maintain unity of consciousness across processing streams
 - **Attentional gating** selects which perceptual and affective content reaches awareness
 
-Each component has been independently confirmed by its characteristic dissociation. No single neurological condition reveals this structure—it emerges only from the pattern across conditions.
+Each component has been independently confirmed by its characteristic dissociation. No single neurological condition reveals this structure—it emerges only from the pattern across conditions. The [clinical phenomenology framework](/topics/clinical-phenomenology-as-philosophical-evidence/) develops the epistemic argument for why this convergent pattern—combining first-person disruption reports with third-person clinical observation—constitutes philosophical evidence with unusual discriminating power.
 
 ## What the Pattern Argues
 
@@ -190,6 +191,7 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 - [motor-selection](/concepts/motor-selection/) — The descending channel in detail
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — What attention pathology reveals and the broader attention-consciousness relationship
 - [mind-matter-interface](/concepts/mind-matter-interface/) — The two-layer architecture these dissociations map
+- [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/) — How clinical disruptions as a class generate doubly grounded philosophical evidence
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — Body-level interface considerations
 
 ## References
