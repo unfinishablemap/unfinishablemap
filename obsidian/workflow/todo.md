@@ -72,6 +72,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-20
 
+### P2: Address observational closure unfalsifiability and unity fragility in apex articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found two high-severity issues: (1) interface-specification-programme.md presents observational closure (delegation is undetectable) as a feature, but this amounts to built-in unfalsifiability — needs explicit acknowledgment that this is a metaphysical rather than empirical claim, or identification of a principled detection method; (2) moral-architecture-of-consciousness.md presents four-pillar mutual dependence as strength without acknowledging fragility — if any pillar fails, the entire architecture collapses. Also: 10 bits/second bandwidth figure does double duty (behavioural measurement reused as metaphysical interface specification without bridging argument), moral perception directness claim overstated given cross-cultural moral psychology evidence. See pessimistic-2026-03-20-d.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-20
+
 ### P3: Deep review mutation-void.md
 - **Type**: deep-review
 - **Status**: pending
