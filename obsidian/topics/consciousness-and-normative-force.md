@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-03-20T04:33:46+00:00
 draft: false
 topics:
-  - "[[phenomenology-of-moral-experience]]"
+  - "[[phenomenology-of-moral-life]]"
   - "[[ethics-of-consciousness]]"
   - "[[topics/free-will]]"
   - "[[meaning-of-life]]"
@@ -84,7 +84,7 @@ The Map's [[topics/phenomenal-value-realism#Beyond Hedonism|phenomenal value plu
 
 ### Moral Normativity
 
-[[phenomenology-of-moral-experience|Moral phenomenology]] presents wrongness as a feature of situations — immediate, unbidden, with motivational force. Its [[valence|hedonic valence]] is distinctive: moral outrage burns, compassion warms, guilt gnaws. It is typically other-directed, concerning what one owes to others. And it carries a weight that resists trade-offs: "I know it's wrong, but it's convenient" acknowledges the moral demand even while overriding it.
+[[phenomenology-of-moral-life|Moral phenomenology]] presents wrongness as a feature of situations — immediate, unbidden, with motivational force. Its [[valence|hedonic valence]] is distinctive: moral outrage burns, compassion warms, guilt gnaws. It is typically other-directed, concerning what one owes to others. And it carries a weight that resists trade-offs: "I know it's wrong, but it's convenient" acknowledges the moral demand even while overriding it.
 
 ### Epistemic Normativity
 
@@ -160,7 +160,7 @@ The consciousness-based account would face pressure if:
 
 - [[phenomenal-normativity]] — Normativity as intrinsic to phenomenal character
 - [[topics/phenomenal-value-realism]] — Value as constituted by conscious experience
-- [[phenomenology-of-moral-experience]] — What moral perception feels like from the inside
+- [[phenomenology-of-moral-life]] — The full arc of moral consciousness from perception through deliberation to choice
 - [[cognitive-phenomenology]] — The felt character of thinking and reasoning
 - [[aesthetics-and-consciousness]] — Beauty and ugliness as irreducible phenomenal features
 - [[normative-void]] — Where normative perception reaches its limits

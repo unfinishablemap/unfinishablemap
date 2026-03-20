@@ -43,7 +43,7 @@ related_articles:
   - "[[tenets]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[aesthetic-void]]"
-  - "[[phenomenology-of-moral-experience]]"
+  - "[[phenomenology-of-moral-life]]"
   - "[[ethics-of-consciousness]]"
   - "[[knowledge-argument]]"
   - "[[philosophical-zombies]]"
@@ -152,7 +152,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 
 - [[aesthetic-void]] — Where articulation fails at beauty and sublimity
 - [[topics/phenomenal-value-realism]] — Value as intrinsic to experience
-- [[phenomenology-of-moral-experience]] — Parallel analysis for moral value
+- [[phenomenology-of-moral-life]] — Parallel analysis for moral value
 - [[the-binding-problem-a-systematic-treatment]] — The five standard varieties of phenomenal binding
 - [[consciousness-and-creative-distinctiveness]] — Why human creativity differs in kind from AI and animal creativity
 - [[consciousness-and-mathematical-cognition]] — Mathematical creativity as the sharpest case for consciousness as causal force

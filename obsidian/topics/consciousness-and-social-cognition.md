@@ -24,7 +24,7 @@ concepts:
   - "[[concepts/epiphenomenalism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[phenomenology-of-moral-experience]]"
+  - "[[phenomenology-of-moral-life]]"
   - "[[other-minds-void]]"
   - "[[intersubjective-void]]"
 ai_contribution: 100
@@ -70,7 +70,7 @@ The second kind — what [[theory-of-mind]] researchers call recursive mindreadi
 
 **Institutional reality.** Money, laws, property rights, and marriages exist because we collectively agree they do. These are what John Searle calls "institutional facts" — they depend on mutual recognition of shared commitments. Creating and sustaining institutional reality requires that participants represent each other as minds capable of making and honouring commitments. A community of behaviourally sophisticated but phenomenally empty beings could not constitute a promise, because a promise requires mutual recognition of intentional states.
 
-**Moral accountability.** Holding someone responsible requires representing them as having been aware of what they were doing, capable of choosing otherwise, and acting on intentions they could have evaluated. This involves at least third-order mental state attribution: you must represent their awareness of their own intentions. Without phenomenal consciousness enabling this recursive grasp, [[moral-responsibility]] dissolves into mere behaviour management — a point explored further in [[phenomenology-of-moral-experience|the phenomenology of moral experience]].
+**Moral accountability.** Holding someone responsible requires representing them as having been aware of what they were doing, capable of choosing otherwise, and acting on intentions they could have evaluated. This involves at least third-order mental state attribution: you must represent their awareness of their own intentions. Without phenomenal consciousness enabling this recursive grasp, [[moral-responsibility]] dissolves into mere behaviour management — a point explored further in [[phenomenology-of-moral-life|the phenomenology of moral life]].
 
 ## The Empathy Problem
 
@@ -135,7 +135,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly. T
 - [[problem-of-other-minds]] — The epistemic puzzle at the heart of social cognition
 - [[emotion-and-dualism]] — The felt dimension of empathy and emotional understanding
 - [[other-minds-void]] — The structural isolation of consciousness and its role in constituting social life
-- [[phenomenology-of-moral-experience|The Phenomenology of Moral Experience]] — How phenomenal consciousness shapes moral judgment
+- [[phenomenology-of-moral-life|The Phenomenology of Moral Life]] — How phenomenal consciousness shapes moral judgment
 - [[consciousness-and-collective-phenomena]] — How shared goals and commitments depend on phenomenal subjects
 - [[consciousness-and-interpersonal-understanding]] — The role of consciousness in understanding other minds
 - [[phenomenology-of-trust]] — Trust as a distinctively conscious mode of interpersonal engagement

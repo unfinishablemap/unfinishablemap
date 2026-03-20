@@ -11,7 +11,7 @@ topics:
   - "[[ethics-of-consciousness]]"
   - "[[topics/phenomenal-value-realism]]"
   - "[[consciousness-and-normative-force]]"
-  - "[[phenomenology-of-moral-experience]]"
+  - "[[phenomenology-of-moral-life]]"
 concepts:
   - "[[moral-responsibility]]"
   - "[[agent-causation]]"
@@ -39,7 +39,7 @@ apex_sources:
   - topics/consciousness-and-normative-force
   - topics/moral-implications-of-genuine-agency
   - topics/responsibility-gradient-from-attentional-capacity
-  - topics/phenomenology-of-moral-experience
+  - topics/phenomenology-of-moral-life
   - concepts/moral-responsibility
   - topics/animal-consciousness
   - topics/value-blind-vs-value-sensitive-selection
@@ -91,7 +91,7 @@ When normative domains collide—the whistleblower's moral obligation against se
 
 ### Moral Perception Is Direct
 
-The [[phenomenology-of-moral-experience]] reveals that moral properties appear in consciousness with the immediacy and involuntariness of perception rather than the deliberation of inference. Wrongness organises an entire perceptual scene as a gestalt: witnessing cruelty does not proceed from perceiving physical movement to computing moral status. The wrongness appears in the initial perception as an organising feature of the whole.
+The [[phenomenology-of-moral-life]] reveals that moral properties appear in consciousness with the immediacy and involuntariness of perception rather than the deliberation of inference. Wrongness organises an entire perceptual scene as a gestalt: witnessing cruelty does not proceed from perceiving physical movement to computing moral status. The wrongness appears in the initial perception as an organising feature of the whole.
 
 This perception has temporal depth. The pre-reflective moral strike arrives before reasoning begins—wrongness is experientially present before any articulation of *why* it is wrong. Sustained attention then reveals additional moral texture: not just that the act is wrong but *how* it is wrong, the specific character of the violation. Moral perception, like sensory perception, is a skill that deepens with training. Simone Weil's concept of attention as "the rarest and purest form of generosity" captures this: the quality of moral perception depends on sustained, receptive, ego-diminished attention that allows moral properties to present themselves on their own terms.
 
@@ -166,7 +166,7 @@ This synthesis draws on:
 - [[consciousness-and-normative-force|Consciousness and Normative Force]] — Why moral claims grip us
 - [[moral-implications-of-genuine-agency|Moral Implications of Genuine Agency]] — What genuine authorship demands morally
 - [[responsibility-gradient-from-attentional-capacity|The Responsibility Gradient]] — Attentional capacity and graded desert
-- [[phenomenology-of-moral-experience|The Phenomenology of Moral Experience]] — What moral perception feels like
+- [[phenomenology-of-moral-life|The Phenomenology of Moral Life]] — What moral perception feels like
 - [[moral-phenomenology-and-perception|Moral Phenomenology and Perception]] — The philosophical study of moral experience
 - [[moral-responsibility|Moral Responsibility]] — Agent causation and metaphysical desert
 - [[animal-consciousness|Animal Consciousness]] — Non-human consciousness and moral patienthood

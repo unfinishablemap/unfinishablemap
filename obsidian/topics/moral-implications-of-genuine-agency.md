@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[topics/free-will]]"
   - "[[ethics-of-consciousness]]"
-  - "[[phenomenology-of-moral-experience]]"
+  - "[[phenomenology-of-moral-life]]"
   - "[[consciousness-and-moral-agency-under-duress]]"
 concepts:
   - "[[agent-causation]]"
@@ -88,7 +88,7 @@ If agency is real, certain positions in moral theory become harder to maintain.
 
 ## The Phenomenology of Moral Seriousness
 
-The [[phenomenology-of-moral-experience]] describes how moral properties present themselves in consciousness: obligation feels different from desire, wrongness carries qualitative weight. Under genuine agency, these phenomenal qualities are not decorative. They are part of how consciousness navigates genuine choice.
+The [[phenomenology-of-moral-life]] describes how moral properties present themselves in consciousness: obligation feels different from desire, wrongness carries qualitative weight. Under genuine agency, these phenomenal qualities are not decorative. They are part of how consciousness navigates genuine choice.
 
 When an agent experiences the pull of obligation against the pull of self-interest, that conflict represents competing reasons bearing on a selection that consciousness will actually make. The felt seriousness of moral deliberation—the sense that something is genuinely at stake—tracks reality rather than decorating a process whose outcome is already fixed. Something *is* at stake: the agent is about to exercise a causal power that will shape both the immediate outcome and their own character going forward.
 
@@ -130,7 +130,7 @@ Additionally, if Buddhist or compatibilist philosophy demonstrated that every mo
 - [[agent-causation]]
 - [[topics/free-will]]
 - [[ethics-of-consciousness]]
-- [[phenomenology-of-moral-experience]]
+- [[phenomenology-of-moral-life]]
 - [[consciousness-and-moral-agency-under-duress]]
 - [[authentic-vs-inauthentic-choice]]
 - [[living-with-the-map]]

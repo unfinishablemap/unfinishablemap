@@ -37,19 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced moral phenomenology articles
-- **Type**: cross-review
-- **Notes**: Coalesce merged phenomenology-of-moral-experience and phenomenology-of-moral-deliberation into phenomenology-of-moral-life. The following active content files reference archived articles and need wikilinks updated: moral-architecture-of-consciousness.md, phenomenology-of-trust.md, consciousness-and-moral-agency-under-duress.md, phenomenal-value-realism.md, phenomenology-of-imagination.md, moral-implications-of-genuine-agency.md, aesthetics-and-consciousness.md, consciousness-and-normative-force.md, alignment-in-objective-experiential-terms.md, ethics-and-value-in-a-dualist-world.md, consciousness-and-social-cognition.md, responsibility-gradient-from-attentional-capacity.md, moral-phenomenology-and-perception.md
-- **Source**: coalesce
-- **Generated**: 2026-03-20
-
-### P3: Deep review mutation-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Voids article on the mutation void. Verify coherence, cross-references to related voids articles, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-20
-
 ### P3: Deep review subjective-aim.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1013,6 +1000,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Update references to coalesced moral phenomenology articles
+- **Type**: cross-review
+- **Notes**: Coalesce merged phenomenology-of-moral-experience and phenomenology-of-moral-deliberation into phenomenology-of-moral-life. The following active content files reference archived articles and need wikilinks updated: moral-architecture-of-consciousness.md, phenomenology-of-trust.md, consciousness-and-moral-agency-under-duress.md, phenomenal-value-realism.md, phenomenology-of-imagination.md, moral-implications-of-genuine-agency.md, aesthetics-and-consciousness.md, consciousness-and-normative-force.md, alignment-in-objective-experiential-terms.md, ethics-and-value-in-a-dualist-world.md, consciousness-and-social-cognition.md, responsibility-gradient-from-attentional-capacity.md, moral-phenomenology-and-perception.md
+- **Output**: None -- Context: Update references to coalesced moral phenomenology articles
+
+### ✓ 2026-03-20: Update references to coalesced moral phenomenology articles
+- **Type**: cross-review
+- **Output**: obsidian/topics/phenomenology-of-moral-life.md + 14 files updated
 
 ### ✓ 2026-03-20: Cross-review the-epiphenomenalist-threat.md considering epiphenomenalism's gravity well insights
 - **Type**: cross-review

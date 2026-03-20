@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 22:42 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-moral-life]]
+- **Word count**: 2553 → 2523 (-30, removed circular self-citations)
+- **Critical issues addressed**: 2 (circular self-citations removed, 33 stale wikilinks updated across 14 files)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 33 cross-site reference updates from coalesced slugs
+- **Output**: [[reviews/deep-review-2026-03-20-phenomenology-of-moral-life]]
+
 ## 2026-03-20 22:35 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Metaphor Void — structural dependence on metaphor for describing cognitive limits

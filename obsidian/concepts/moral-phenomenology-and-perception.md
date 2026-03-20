@@ -8,7 +8,7 @@ ai_modified: 2026-03-18T15:28:00+00:00
 draft: false
 topics:
   - "[[ethics-of-consciousness]]"
-  - "[[phenomenology-of-moral-experience]]"
+  - "[[phenomenology-of-moral-life]]"
 concepts:
   - "[[topics/phenomenal-value-realism]]"
   - "[[qualia]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[normative-void]]"
   - "[[consciousness-value-connection]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
-  - "[[phenomenology-of-moral-experience]]"
+  - "[[phenomenology-of-moral-life]]"
   - "[[emotion-and-dualism]]"
   - "[[downward-causation]]"
   - "[[affective-void]]"
@@ -74,7 +74,7 @@ Kant characterised this as reason's authority over inclination. Moral phenomenol
 
 ### Moral Admiration
 
-Witnessing integrity under pressure produces moral admiration — a state distinguishable from aesthetic appreciation, hedonic pleasure, or social approval. Moral admiration involves perceiving a person or action as exemplary in a way that invites emulation, carrying what the [[phenomenology-of-moral-experience|topic article on moral experience]] tentatively calls "moral luminosity."
+Witnessing integrity under pressure produces moral admiration — a state distinguishable from aesthetic appreciation, hedonic pleasure, or social approval. Moral admiration involves perceiving a person or action as exemplary in a way that invites emulation, carrying what the [[phenomenology-of-moral-life|topic article on moral experience]] tentatively calls "moral luminosity."
 
 ### Guilt and Moral Remainder
 
@@ -159,7 +159,7 @@ None of these findings currently obtains.
 
 ## Further Reading
 
-- [[phenomenology-of-moral-experience]] — Extended exploration of what moral experience feels like
+- [[phenomenology-of-moral-life]] — The full arc of moral consciousness from perception through deliberation to choice
 - [[consciousness-and-normative-force]] — Moral perception in context: how it compares to epistemic, aesthetic, and prudential perception
 - [[topics/phenomenal-value-realism]] — The metaethical position grounding value in phenomenal properties
 - [[phenomenal-normativity]] — The thesis that phenomenal states carry intrinsic normative force

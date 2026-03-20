@@ -10,7 +10,7 @@ topics:
   - "[[topics/free-will]]"
   - "[[ethics-of-consciousness]]"
   - "[[consciousness-and-moral-agency-under-duress]]"
-  - "[[phenomenology-of-moral-experience]]"
+  - "[[phenomenology-of-moral-life]]"
 concepts:
   - "[[moral-responsibility]]"
   - "[[attentional-economics]]"

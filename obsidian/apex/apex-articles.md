@@ -392,7 +392,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - topics/consciousness-and-normative-force
 - topics/moral-implications-of-genuine-agency
 - topics/responsibility-gradient-from-attentional-capacity
-- topics/phenomenology-of-moral-experience
+- topics/phenomenology-of-moral-life
 - concepts/moral-responsibility
 - topics/animal-consciousness
 - topics/value-blind-vs-value-sensitive-selection

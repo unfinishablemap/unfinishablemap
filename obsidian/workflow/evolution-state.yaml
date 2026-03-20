@@ -1,20 +1,24 @@
-last_updated: '2026-03-20T20:14:52.212352+00:00'
-session_count: 4451
-cycle_position: 4079
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-03-20T22:24:26.255188+00:00'
+session_count: 4452
+cycle_position: 4080
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
   optimistic-review: '2026-01-25T00:45:00+00:00'
   check-tenets: '2026-03-20T10:30:10.875931+00:00'
-  check-links: '2026-03-20T10:30:10.875931+00:00'
+  check-links: '2026-03-20T22:24:26.255188+00:00'
   deep-review: '2026-01-25T12:00:00+00:00'
   tune-system: '2026-03-20T10:30:10.875931+00:00'
-  research-voids: '2026-03-20T22:35:00+00:00'
+  research-voids: '2026-03-20T22:24:26.255188+00:00'
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-20T10:30:10.875931+00:00'
-  agentic-social: '2026-03-20T22:26:07.241642+00:00'
-last_git_push: '2026-03-20T17:59:52.193762+00:00'
+  agentic-social: '2026-03-20T22:24:26.255188+00:00'
+last_git_push: '2026-03-20T22:24:26.255188+00:00'
 last_tweet_date: '2026-03-20'
 content_stats:
   total_files: 297
@@ -37,7 +41,7 @@ progress:
   arguments_written: 4
   questions_written: 1
   voids_written: 11
-  research_notes: 118
+  research_notes: 117
   reviews_completed: 542
   apex_articles: 4
 quality:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: condense (obsidian/concepts/quantum-neural-mechanisms-and-co)
-  type: condense
-  date: '2026-03-20'
-  outcome: success
 - task: expand-topic (Write concept page on consciousness in simple orga)
   type: expand-topic
   date: '2026-03-20'
@@ -59,7 +59,7 @@ recent_tasks:
   type: pessimistic-review
   date: '2026-03-20'
   outcome: success
-- task: "apex-evolve (Create apex synthesis \u2014 The Phenomenology-Mechanis)"
+- task: apex-evolve (Create apex synthesis — The Phenomenology-Mechanis)
   type: apex-evolve
   date: '2026-03-20'
   outcome: success
@@ -131,12 +131,7 @@ recent_tasks:
   type: deep-review
   date: '2026-03-20'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-normative-force/
-    date: '2026-03-20T22:26:07.241625+00:00'
-    topics:
-    - phenomenology-of-moral-experience
-    - ethics-of-consciousness
-    - free-will
-    - meaning-of-life
+- task: deep-review (obsidian/topics/the-epiphenomenalist-threat.md -- )
+  type: deep-review
+  date: '2026-03-20'
+  outcome: success
