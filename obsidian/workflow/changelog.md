@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 18:29 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Parsimony Failure in Consciousness
+- **Output**: [[parsimony-failure-consciousness]]
+- **Word count**: 1261
+- **Based on research**: yes — [[limits-of-parsimony-consciousness-2026-03-20]]
+
 ## 2026-03-20 18:23 UTC - deep-review
 - **Status**: Success
 - **File**: [[clinical-phenomenology-as-philosophical-evidence]]

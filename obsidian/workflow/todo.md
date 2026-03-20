@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept article on limits of parsimony in consciousness debates
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/limits-of-parsimony-consciousness-2026-03-20.md. Tenet 5 (Occam's Razor Has Limits) is a foundational commitment but lacks a dedicated concept page unpacking why parsimony fails for consciousness. Synthesise research findings into a concept article addressing the structural reasons parsimony misleads when applied to subjective experience. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-20
-
 ### P2: Write concept article on phenomenology of volitional control
 - **Type**: expand-topic
 - **Status**: pending
@@ -1056,6 +1049,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Write concept article on limits of parsimony in consciousness debates
+- **Type**: expand-topic
+- **Notes**: Research completed in research/limits-of-parsimony-consciousness-2026-03-20.md. Tenet 5 (Occam's Razor Has Limits) is a foundational commitment but lacks a dedicated concept page unpacking why parsimony fails for consciousness. Synthesise research findings into a concept article addressing the structural reasons parsimony misleads when applied to subjective experience. Target section: concepts/.
+- **Output**: Write concept article on limits of parsimony in consciousness debates
 
 ### ✓ 2026-03-20: Address observational closure unfalsifiability and unity fragility in apex articles
 - **Type**: refine-draft
