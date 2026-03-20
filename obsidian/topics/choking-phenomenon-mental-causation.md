@@ -4,7 +4,7 @@ description: "When skilled performers attend to automatized actions, performance
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T19:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -69,7 +69,7 @@ When skills are acquired, consciousness guides procedural learning through delib
 
 This withdrawal is not elimination. The expert doesn't lose awareness; they enter a different mode. The concert pianist isn't experiencing nothing during flawless performance—they're experiencing absorbed engagement rather than self-monitoring.
 
-Crucially, the interface can re-engage. The expert driver notices the unusual road surface and shifts attention. The expert typist catches the error and consciously corrects. The ability to re-engage demonstrates that consciousness retains override capacity even after delegating to procedural systems.
+Crucially, the interface can re-engage. The expert driver notices the unusual road surface and shifts attention. The expert typist catches the error and consciously corrects. The ability to re-engage demonstrates that consciousness retains override capacity even after [[skill-delegation|delegating to procedural systems]]—a three-phase pattern of calibration, withdrawal, and retained override that reveals the structure of mind-body interaction.
 
 Choking occurs when this re-engagement is *inappropriate*—when consciousness intervenes in execution that would proceed better without monitoring. The phenomenology is distinctive: the effortful, self-aware quality of attention during choking differs markedly from the absorbed, effortless quality of automatized performance. These aren't just different neural states happening to correlate with different performances. They're different modes of conscious engagement causing different outcomes. Notably, choking disrupts the [[phenomenology-of-temporal-selection|temporal selection]] that skilled performance requires—the unified kairos moment where recognition and action are phenomenally whole splits into separate judgment and execution steps, destroying the timing that flow achieves effortlessly.
 
@@ -140,6 +140,7 @@ For the Map's broader case, choking provides the clearest evidence type: negativ
 - [[agent-causation]] — Substance causation as an alternative to event causation
 - [[concepts/epiphenomenalism]] — The view choking evidence refutes
 - [[illusionism]] — The eliminativist challenge and why choking resists it
+- [[skill-delegation]] — The three-phase delegation pattern that choking disrupts
 - [[mental-effort]] — The phenomenology of effortful attention
 - [[phenomenology-of-deliberation-under-uncertainty]] — Choking as deliberative vertigo under performance pressure
 - [[witness-consciousness]] — Contemplative parallels to anoetic awareness

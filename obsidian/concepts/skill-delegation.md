@@ -4,7 +4,7 @@ description: "Skill delegation is how consciousness trains procedural systems, w
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T16:59:00+00:00
+ai_modified: 2026-03-20T19:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-20T19:44:00+00:00
 ---
 
 Skill delegation is the process by which consciousness trains a procedural system to perform a task, withdraws from active control, and retains the capacity to re-engage. A novice typist consciously selects each key; an expert's fingers move without reflective guidance. The skill has not vanished from consciousness—it has been *delegated*. The Unfinishable Map treats skill delegation as a central phenomenon for understanding mind-body interaction, because it reveals three things simultaneously: consciousness has genuine causal power (it trains the system), that power operates through an interface (it can withdraw), and the interface remains live (it can re-engage, sometimes disruptively).
@@ -114,7 +114,7 @@ The shape of skill acquisition curves provides indirect evidence for the delegat
 
 **Power-law refinement** in later stages reflects diminishing returns as consciousness has less to delegate. The expert is fine-tuning a system that already handles most contingencies. Improvement continues but requires increasingly targeted conscious intervention.
 
-These patterns are consistent with delegation as the mechanism underlying automaticity. The curve doesn't simply track neural consolidation—it tracks the progressive handoff of control from conscious selection to trained procedure.
+These patterns are consistent with delegation as the mechanism underlying automaticity, though not uniquely predicted by it. The key distinction from purely neural accounts is that plateaus correspond to phenomenological transitions—the learner *feels* the shift from one mode of engagement to another—rather than smooth exponential decay. The curve tracks the progressive handoff of control from conscious selection to trained procedure, and the felt difficulty of each transition reflects real reorganisation of the [[conscious-vs-unconscious-processing|conscious-unconscious boundary]].
 
 ## What Would Challenge This View?
 

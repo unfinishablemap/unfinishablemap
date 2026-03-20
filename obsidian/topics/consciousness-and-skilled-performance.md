@@ -4,7 +4,7 @@ description: "Skill acquisition reveals consciousness as causal architect—buil
 created: 2026-02-02
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T19:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -77,7 +77,7 @@ Skill acquisition follows a characteristic arc from rule-following to perception
 
 During early learning, consciousness serves as scaffolding—holding rules in working memory, monitoring performance, detecting errors, generating corrective intentions. Each function requires [[mental-effort|genuine cognitive effort]]. When concentration lapses, performance degrades immediately.
 
-As competence develops, this scaffolding is progressively dismantled. The withdrawal is not passive—consciousness *delegates*. There is a phenomenological moment where the learner deliberately releases conscious control over a component, trusting the emerging automaticity. This delegation is itself a conscious act.
+As competence develops, this scaffolding is progressively dismantled. The withdrawal is not passive—consciousness *delegates*. There is a phenomenological moment where the learner deliberately releases conscious control over a component, trusting the emerging automaticity. This [[skill-delegation|delegation]] is itself a conscious act—a three-phase process of calibration, progressive withdrawal, and retained override capacity that reveals the structure of mind-body interaction.
 
 If consciousness were [[concepts/epiphenomenalism|epiphenomenal]], it could not build the procedural structures that skill acquisition demonstrably creates. Deliberate practice produces greater skill gains than mindless repetition—though Macnamara et al.'s (2014) meta-analysis found practice explained a highly variable share of performance variance (26% in games, under 1% in professions). The Map's argument rests on the *quality-dependent* nature of whatever practice does contribute, not on practice being the sole determinant.
 
@@ -172,6 +172,7 @@ The strongest physicalist counterargument is that executive attention networks a
 - [[consciousness-and-the-neuroscience-of-deliberate-practice]] — The neural evidence for practice quality mattering
 - [[phenomenology-of-cognitive-capacity]] — What it is like as processes become automatic and capacity frees up
 - [[mental-imagery-causal-role-of-consciousness]] — The causal argument from motor imagery to consciousness's efficacy
+- [[skill-delegation]] — The three-phase structure of delegation: calibration, withdrawal, retained override
 - [[motor-selection]] — Conscious selection in motor systems
 - [[interface-friction]] — The resistance at the mind-brain interface that effort tracks
 - [[anoetic-noetic-autonoetic-consciousness]] — The levels of consciousness that map onto the phases of skill

@@ -4,7 +4,7 @@ description: "The felt contrast between doing and undergoing reveals a fundament
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-03-14T16:19:00+00:00
+ai_modified: 2026-03-20T19:44:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -78,7 +78,7 @@ The poles are idealised. Most experience falls somewhere between pure agency and
 
 Typing these words, an experienced writer barely notices the finger movements. Each keystroke was once deliberate—early typing required conscious selection of each key. Through practice, the action shifted from the agentic pole toward passivity. It still feels like *doing* something (unlike pure perception), but the effort and authorship have diminished. The [[implicit-memory|automatisation process]] gradually withdraws [[conscious-vs-unconscious-processing|conscious contribution]] while preserving behavioural output.
 
-The [[choking-phenomenon-mental-causation|choking phenomenon]] reveals what happens when consciousness re-engages with an automatised skill. A pianist performing from muscle memory suddenly attends to her fingers and stumbles. The return of agency disrupts the passivity that skilled performance requires. This is evidence for the Map's framework: if consciousness were causally inert, its re-engagement with a motor routine could not disrupt it.
+The [[choking-phenomenon-mental-causation|choking phenomenon]] reveals what happens when consciousness re-engages with an automatised skill. A pianist performing from muscle memory suddenly attends to her fingers and stumbles. The return of agency disrupts the [[skill-delegation|delegated]] passivity that skilled performance requires. This is evidence for the Map's framework: if consciousness were causally inert, its re-engagement with a motor routine could not disrupt it.
 
 ### Flow States
 
@@ -153,6 +153,7 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 - [[agent-causation]] — Why genuine agency requires agent-causation, not event-causation
 - [[attention-as-interface|voluntary attention]] — Neural signatures distinguishing willed from automatic processing
 - [[mental-effort]] — Why effort phenomenology supports conscious causal contribution
+- [[skill-delegation]] — The three-phase pattern by which agency transitions to delegated passivity
 - [[motor-selection]] — The agency-passivity contrast in movement
 - [[authentic-vs-inauthentic-choice]] — Phenomenological layers of ownership in choice
 - [[introspective-opacity|volitional opacity]] — Why the mechanism connecting will to action is invisible

@@ -4,7 +4,7 @@ description: "Cognition depends on the body and extends into the environment. Th
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-18T22:42:00+00:00
+ai_modified: 2026-03-20T19:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -77,7 +77,7 @@ Hubert Dreyfus developed the phenomenological analysis of skill acquisition into
 
 The key phenomenological transition occurs between competent and expert performance. Initially, skills require conscious attention at every step. Gradually, consciousness *withdraws* from execution details while retaining oversight capacity. The expert doesn't lose awareness—they enter the anoetic mode where action flows without self-observation. There is still something it is like to perform expertly; it simply doesn't involve representing oneself as the subject of experience.
 
-This withdrawal is not elimination. Consciousness [[causal-delegation|delegates]] to procedural systems but retains the ability to re-engage—and this re-engagement capacity has revealing consequences.
+This withdrawal is not elimination. Consciousness [[skill-delegation|delegates]] to procedural systems but retains the ability to re-engage—and this re-engagement capacity has revealing consequences.
 
 ### Choking Under Pressure
 
@@ -191,6 +191,7 @@ The key point: embodied cognition challenges a specific historical position (Car
 - [[phenomenology]] — The philosophical tradition grounding embodied cognition
 - [[phenomenological-psychiatry-and-altered-experience]] — Clinical evidence that disrupted embodiment reveals consciousness's structural architecture
 - [[mind-brain-separation]] — The filter theory that can accommodate embodiment
+- [[skill-delegation]] — The three-phase delegation pattern underlying embodied expertise
 - [[implicit-memory]] — Anoetic consciousness, the Dreyfus model, and choking as bidirectional evidence
 - [[attention-as-interface]] — The quantum Zeno mechanism for mind-body interaction
 - [[illusionism]] — The eliminativist challenge and site's response

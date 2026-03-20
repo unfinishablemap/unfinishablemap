@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate skill-delegation.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: Concept page created 2026-03-20 with no inbound links. Add cross-references from related articles (baseline-cognition, consciousness-as-amplifier, bandwidth-of-consciousness, choking-phenomenon-mental-causation) to connect skill delegation into the site's navigation structure.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-20
-
 ### P2: Integrate clinical-phenomenology-as-philosophical-evidence.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1035,6 +1028,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Integrate skill-delegation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept page created 2026-03-20 with no inbound links. Add cross-references from related articles (baseline-cognition, consciousness-as-amplifier, bandwidth-of-consciousness, choking-phenomenon-mental-causation) to connect skill delegation into the site's navigation structure.
+- **Output**: obsidian/concepts/skill-delegation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-20: Integrate phenomenology-mechanism-bridge.md into site navigation
 - **Type**: integrate-orphan

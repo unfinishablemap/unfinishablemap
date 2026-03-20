@@ -4,7 +4,7 @@ description: "Causal delegation is the mechanism by which physical brain states 
 created: 2026-03-04
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-03-04T10:31:00+00:00
+ai_modified: 2026-03-20T19:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -91,6 +91,8 @@ Causal delegation supports multiple tenets of the Map's framework.
 
 **Occam's Razor Has Limits**: Delegation is more complex than epiphenomenalism but more explanatory. A theory that preserves mental causation while explaining why introspective reports are reliable has virtues that simpler theories lack. Parsimony alone does not settle metaphysical questions—an instance of the Map's [[tenets#^occams-limits|fifth tenet]].
 
+The everyday phenomenon of [[skill-delegation]] inverts this direction: consciousness hands off causal work to procedural systems. The conscious agent retains the capacity to control the action but does not exercise it because the trained procedure has taken over. Both forms share the crucial feature of preemption—one causal source does the work while the other retains capacity without exercising it.
+
 The full development of Saad's theory, including his five constraints on dualist theories and the integration with the Map's quantum framework, is presented in the [[delegatory-dualism]] article.
 
 ## Further Reading
@@ -102,6 +104,7 @@ The full development of Saad's theory, including his five constraints on dualist
 - [[observational-closure]] — Why delegation leaves no empirical trace
 - [[epiphenomenalism]] — The alternative delegation rejects
 - [[downward-causation]] — Higher-level properties influencing lower-level processes
+- [[skill-delegation]] — The inverse parallel: consciousness delegating to procedural systems
 - [[agent-causation]] — Substance causation as complementary framework for what exercises delegated powers
 - [[psychophysical-laws]] — Chalmers' framework for mind-body laws, related to Saad's Subset Law*
 
