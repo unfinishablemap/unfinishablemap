@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-19 10:12:00+00:00
+ai_modified: 2026-03-20 13:19:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ related_articles:
 title: Self-Reference and the Limits of Physical Description
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[the-measurement-problem-as-philosophical-problem]]'
+- '[[quantum-measurement-and-consciousness]]'
 - '[[philosophy-of-mind]]'
 ---
 

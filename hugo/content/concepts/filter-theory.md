@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-20 12:49:00+00:00
+ai_modified: 2026-03-20 13:26:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,6 +21,8 @@ concepts:
 - '[[dream-consciousness]]'
 - '[[brain-interface-boundary]]'
 - '[[measurement-problem]]'
+- '[[terminal-lucidity]]'
+- '[[death-and-consciousness]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 description: The brain transmits and constrains consciousness rather than producing
@@ -28,7 +30,7 @@ description: The brain transmits and constrains consciousness rather than produc
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-10 01:42:00+00:00
+last_deep_review: 2026-03-20 13:26:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -37,6 +39,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[the-interface-specification-problem]]'
 - '[[the-interface-location-problem]]'
+- '[[terminal-lucidity-and-filter-transmission-theory]]'
 ---
 
 The filter theory of consciousness proposes that the brain does not *produce* consciousness but *transmits*, *filters*, or *constrains* a consciousness that exists independently. Developed by [William James](/topics/william-james-consciousness/), Henri Bergson, and Aldous Huxley in different forms, this framework reinterprets the tight correlations between brain states and conscious states without equating them. The brain is interface rather than generator—like a radio receiving a broadcast rather than producing it. This view is central to The Unfinishable Map's [interactionist dualism](/concepts/interactionist-dualism/) and explains how [dualism](/tenets/#dualism) can accommodate the empirical findings that seem to support materialism.
@@ -110,7 +113,7 @@ Skeptics note the majority report nothing, suggesting memory reconstruction duri
 
 ### Terminal Lucidity
 
-[Terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/)—the return of mental clarity, memory, and personality in patients with severe neurodegeneration shortly before death—poses the most direct structural problem for production models. In late-stage Alzheimer's, the cortical substrate that production models require for cognition has been substantially destroyed. Yet Batthyány and Greyson's (2020) 124-case survey found that more than 80% showed complete remission, with the majority dying within hours to days. Filter theory predicts this: as the filtering apparatus collapses near death, consciousness briefly regains access to capacities the diseased brain had been blocking. Production models must explain how a brain with massive neuronal loss briefly performs at levels its physical state should not permit.
+[Terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/)—the return of mental clarity, memory, and personality in patients with severe neurodegeneration shortly before death—poses the most direct structural problem for production models. Production models predict a monotonic relationship between neural substrate and cognitive capacity: more damage means less function. Terminal lucidity breaks this monotonicity. In late-stage Alzheimer's, the cortical substrate that production models require has been substantially destroyed. Yet Batthyány and Greyson's (2020) 124-case survey found that more than 80% showed complete remission—including return of specific autobiographical memories—with the majority dying within hours to days. Filter theory predicts this: as the filtering apparatus collapses near death, consciousness briefly regains access to capacities the diseased brain had been blocking.
 
 ### Covert Consciousness
 

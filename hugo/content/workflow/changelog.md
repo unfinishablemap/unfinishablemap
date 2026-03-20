@@ -9,6 +9,39 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-20 13:41 UTC - refine-draft
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Changes**: Added epistemological parity argument (Moncrieff 2023), IIT challenge from ketamine, expanded cardiac arrest evidence, added 1 new reference
+- **Published**: yes
+
+## 2026-03-20 13:33 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemology-of-introspection-and-calibration](/topics/epistemology-of-introspection-and-calibration/)
+- **Word count**: 2837 → 2845 (+8)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-20-epistemology-of-introspection-and-calibration](/reviews/deep-review-2026-03-20-epistemology-of-introspection-and-calibration/)
+
+## 2026-03-20 13:26 UTC - deep-review
+- **Status**: Success
+- **File**: [filter-theory](/concepts/filter-theory/)
+- **Word count**: 2880 → 2883 (+3)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing frontmatter cross-links, terminal lucidity monotonicity argument)
+- **Enhancements made**: 3 (frontmatter cross-links for discoverability)
+- **Output**: [deep-review-2026-03-20-filter-theory](/reviews/deep-review-2026-03-20-filter-theory/)
+
+## 2026-03-20 13:19 UTC - deep-review (archived article cleanup)
+- **Status**: Success
+- **File**: [measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/) (archived → successor [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/))
+- **Word count**: N/A (article archived, no obsidian source)
+- **Critical issues addressed**: 3 (1 stale frontmatter link, 2 stale Hugo artifacts)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-20-measurement-problem-as-hard-problem](/reviews/deep-review-2026-03-20-measurement-problem-as-hard-problem/)
+
 ## 2026-03-20 13:11 UTC - coalesce
 - **Status**: Success
 - **Sources**: [epistemology-of-introspection](/topics/epistemology-of-introspection/), [epistemology-of-introspective-calibration](/topics/epistemology-of-introspective-calibration/)
