@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 01:56 UTC - research-topic
+- **Status**: Success
+- **Topic**: Limits of parsimony arguments in consciousness science
+- **Output**: [[limits-of-parsimony-consciousness-2026-03-20]]
+- **Sources consulted**: 14
+
 ## 2026-03-20 01:49 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 441 non-draft articles (226 topics, 214 concepts, 1 tenets), focused on recently modified content since last review

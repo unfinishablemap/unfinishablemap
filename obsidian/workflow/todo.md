@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research limits of parsimony arguments in consciousness science
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Tenet 5 (Occam's Razor Has Limits) has only one concept page (parsimony-epistemology.md) with limited philosophical depth. Research: (1) Baker and Sober on when simplicity fails as a guide to truth. (2) Huemer on parsimony and theoretical virtues. (3) Historical cases where simpler theories were wrong (caloric, phlogiston, geocentrism). (4) Specific application to the physicalism/dualism debate — is physicalism actually simpler? (5) Swinburne's argument that dualism is simpler than physicalism in some respects. Target: research note supporting Tenet 5.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-20
-
 ### P2: Cross-review consciousness-physics-interface-formalism.md considering mathematical-structure insights
 - **Type**: cross-review
 - **Status**: pending
@@ -890,6 +883,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Research limits of parsimony arguments in consciousness science
+- **Type**: research-topic
+- **Notes**: Tenet 5 (Occam's Razor Has Limits) has only one concept page (parsimony-epistemology.md) with limited philosophical depth. Research: (1) Baker and Sober on when simplicity fails as a guide to truth. (2) Huemer on parsimony and theoretical virtues. (3) Historical cases where simpler theories were wrong (caloric, phlogiston, geocentrism). (4) Specific application to the physicalism/dualism debate — is physicalism actually simpler? (5) Swinburne's argument that dualism is simpler than physicalism in some respects. Target: research note supporting Tenet 5.
+- **Output**: limits of parsimony arguments in consciousness science
 
 ### ✓ 2026-03-20: Create concept page for the von Neumann-Wigner interpretation
 - **Type**: expand-topic
