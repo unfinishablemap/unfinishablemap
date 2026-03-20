@@ -4,7 +4,7 @@ description: "The felt contrast between doing and undergoing reveals a fundament
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-03-20T19:44:00+00:00
+ai_modified: 2026-03-20T20:14:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -34,6 +34,7 @@ related_articles:
   - "[[phenomenology-of-consciousness-doing-work]]"
   - "[[ownership-void]]"
   - "[[phenomenology-of-temporal-selection]]"
+  - "[[clinical-phenomenology-as-philosophical-evidence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

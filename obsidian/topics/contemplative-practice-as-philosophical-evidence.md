@@ -4,7 +4,7 @@ description: "Cross-traditional contemplative practice functions as philosophica
 created: 2026-01-27
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T20:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,6 +46,7 @@ related_articles:
   - "[[contemplative-verification-of-consciousness-theories]]"
   - "[[aesthetics-and-consciousness]]"
   - "[[phenomenological-method-and-evidence-standards]]"
+  - "[[clinical-phenomenology-as-philosophical-evidence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -119,7 +120,7 @@ Three significant domains show genuine divergence, revealing the epistemic bound
 
 This pattern — agreement on phenomenological structure, disagreement on metaphysical interpretation — is itself evidentially significant. Contemplative practice verifies structural claims more reliably than metaphysical ones.
 
-A further complication arises from [[contemplative-pathology-and-interface-malfunction|contemplative pathology]]. Several convergent findings — self-deconstruction, non-ordinary states, the awareness-content distinction — overlap phenomenologically with pathological conditions: depersonalisation, temporal fragmentation, involuntary witness states. The boundary between contemplative discovery and contemplative destabilisation is not always sharp. However, this overlap strengthens the structural claims rather than undermining them. That both healthy practice and pathological disruption reveal the same interface components — temporal binding, self-ownership, phenomenal filtering — from different directions confirms these are genuine architectural features rather than artefacts of any single methodology.
+A further complication arises from [[contemplative-pathology-and-interface-malfunction|contemplative pathology]]. Several convergent findings — self-deconstruction, non-ordinary states, the awareness-content distinction — overlap phenomenologically with pathological conditions: depersonalisation, temporal fragmentation, involuntary witness states. The boundary between contemplative discovery and contemplative destabilisation is not always sharp. However, this overlap strengthens the structural claims rather than undermining them. That both healthy practice and pathological disruption reveal the same interface components — temporal binding, self-ownership, phenomenal filtering — from different directions confirms these are genuine architectural features rather than artefacts of any single methodology. The [[clinical-phenomenology-as-philosophical-evidence|clinical phenomenology framework]] develops this convergence systematically, showing how involuntary clinical disruptions and voluntary contemplative observations triangulate the same experiential architecture.
 
 A further limitation: the five convergent findings are not an exhaustive survey but a curated selection. The convergence argument is strongest for structural claims (involuntary mentation, attentional trainability, constructed self) where evidence is robust and independently replicable, and weakest where the selection of traditions or findings could be biased toward confirming theoretical expectations. See [[epistemology-of-convergence-arguments]] for convergence epistemology, and [[the-convergence-argument-for-dualism]] for how this pattern extends beyond the contemplative domain.
 
@@ -240,6 +241,7 @@ The distinction between willed and exogenous attention in [[contemplative-neuros
 - [[contemplative-verification-of-consciousness-theories]] — Can meditation verify philosophical claims?
 - [[phenomenological-method-and-evidence-standards]] — Husserl's evidence taxonomy and how it calibrates the epistemic weight of first-person data
 - [[phenomenology]] — Husserl's phenomenological method and its relation to contemplative practice
+- [[clinical-phenomenology-as-philosophical-evidence]] — Clinical disruptions as the involuntary counterpart to contemplative evidence
 - [[aesthetics-and-consciousness]] — Aesthetic sensitivity deepening with training as evidence for irreducibility
 
 ## References

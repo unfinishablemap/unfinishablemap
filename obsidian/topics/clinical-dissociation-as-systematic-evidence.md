@@ -4,7 +4,7 @@ description: "Dissociative disorders—DID, depersonalization, conversion, amnes
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T20:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,6 +26,7 @@ related_articles:
   - "[[altered-states-as-interface-evidence]]"
   - "[[fragmented-consciousness]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
+  - "[[clinical-phenomenology-as-philosophical-evidence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -127,6 +128,7 @@ Physicalists can explain this through stress-mediated changes in functional conn
 - [[anaesthesia-and-the-consciousness-interface]] — Pharmacological disruption of cortical integration and the interface model
 - [[split-brain-consciousness]] — The paradigm bilateral disconnection case
 - [[pain-asymbolia]] — Affective channel dissociation through neurological damage
+- [[clinical-phenomenology-as-philosophical-evidence]] — The broader epistemic framework for clinical evidence in philosophy of mind
 - [[contemplative-pathology-and-interface-malfunction]] — When contemplative practices produce interface disruption
 
 ## References

@@ -4,7 +4,7 @@ description: "Pain is the hard problem made personal and epiphenomenalism made u
 created: 2026-02-09
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-03-18T22:42:00+00:00
+ai_modified: 2026-03-20T20:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,6 +46,7 @@ related_articles:
   - "[[ethics-of-consciousness]]"
   - "[[disorders-of-consciousness-as-test-cases]]"
   - "[[value-blind-vs-value-sensitive-selection]]"
+  - "[[clinical-phenomenology-as-philosophical-evidence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -192,6 +193,7 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 - [[blindsight]] — A parallel clinical dissociation in vision
 - [[disorders-of-consciousness-as-test-cases]] — Other neurological test cases for consciousness theories
 - [[value-blind-vs-value-sensitive-selection]] — How asymbolia evidence bears on whether valence enters the selection mechanism
+- [[clinical-phenomenology-as-philosophical-evidence]] — Asymbolia within the broader framework of clinical evidence for dualism
 - [[valence-as-selection-currency]] — How valence may function as the common evaluative metric for conscious selection
 
 ## References

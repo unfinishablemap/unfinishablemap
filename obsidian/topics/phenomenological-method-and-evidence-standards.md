@@ -4,7 +4,7 @@ description: "How phenomenology's internal evidence taxonomy—apodictic, adequa
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-19T03:19:00+00:00
+ai_modified: 2026-03-20T20:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,7 @@ related_articles:
   - "[[epistemology-of-introspection-and-calibration]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[phenomenology-of-epistemic-cognition]]"
+  - "[[clinical-phenomenology-as-philosophical-evidence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -125,6 +126,7 @@ The Map's [[tenets]] connect to phenomenological evidence standards at multiple 
 - [[heterophenomenology]]
 - [[introspection]]
 - [[contemplative-practice-as-philosophical-evidence]]
+- [[clinical-phenomenology-as-philosophical-evidence]] — How clinical disruptions apply phenomenological evidence standards through instruments like the EASE
 
 ## References
 

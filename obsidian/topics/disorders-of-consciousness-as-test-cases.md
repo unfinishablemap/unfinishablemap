@@ -4,7 +4,7 @@ description: "Vegetative states, covert awareness, and locked-in syndrome discri
 created: 2026-02-11
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-20T12:49:00+00:00
+ai_modified: 2026-03-20T20:14:00+00:00
 last_deep_review: 2026-03-19T12:18:00+00:00
 draft: false
 topics:
@@ -22,6 +22,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[quantum-measurement-and-consciousness]]"
+  - "[[clinical-phenomenology-as-philosophical-evidence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -136,6 +137,7 @@ The Unfinishable Map's [[tenets]] converge on DoC cases as among the most reveal
 - [[hard-problem-of-consciousness]] — The explanatory gap that DoC cases illuminate
 - [[pain-consciousness-and-causal-power]] — Pain asymbolia and pain's inseparable phenomenal-causal character as a test case
 - [[split-brain-consciousness]] — Another classic dissociation case that challenges simple unity
+- [[clinical-phenomenology-as-philosophical-evidence]] — The epistemic framework for how clinical cases generate philosophical evidence
 - [[anaesthesia-and-the-consciousness-interface]] — Anaesthesia as a parallel case of reversible consciousness disruption
 
 ## References
