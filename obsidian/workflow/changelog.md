@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 03:41 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Unobservable Self
+- **Category**: Unexplorable / Occluded (mixed)
+- **Output**: [[research/voids-the-unobservable-self-2026-03-20]]
+- **Key finding**: The subject-object asymmetry—consciousness cannot fully observe itself because the observer cannot become the observed without ceasing to be the observer—is converged upon by Hume, Kant, Sartre, Wittgenstein, Metzinger, and Zahavi despite radically different frameworks, suggesting a genuine structural void rather than an artifact of any particular method
+
 ## 2026-03-20 03:35 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/the-strong-emergence-of-consciousness]]
