@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense quantum-neural-mechanisms-and-coherence.md (3504 words, 100% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about quantum coherence mechanisms in neural systems while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-20
-
 ### P2: Write concept page on consciousness in simple organisms
 - **Type**: expand-topic
 - **Status**: pending
@@ -1002,6 +995,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Condense quantum-neural-mechanisms-and-coherence.md (3504 words, 100% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about quantum coherence mechanisms in neural systems while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/quantum-neural-mechanisms-and-coherence.md
 
 ### ✓ 2026-03-20: Cross-review tradition-specific articles considering cross-traditional-convergence insights
 - **Type**: cross-review

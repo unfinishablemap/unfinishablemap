@@ -5,6 +5,14 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 15:28 UTC - condense
+- **Status**: Success
+- **File**: [[concepts/quantum-neural-mechanisms-and-coherence]]
+- **Before**: 3503 words
+- **After**: 2417 words
+- **Reduction**: 31%
+- **Technique**: Removed redundant experimental evidence section (already cited in mechanisms), cut contemplative evidence (tangential), trimmed illusionist challenge to 2 strongest responses, tightened decoherence and coherence protection sections, reduced further reading from 24 to 12 links
+
 ## 2026-03-20 15:13 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/panpsychisms-combination-problem]]
