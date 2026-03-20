@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 23:14 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenology-of-volition]]
+- **Word count**: 1579 → 1807 (+228)
+- **Critical issues addressed**: 2 (wrong wikilink on effort phenomenology, James quote chapter misattribution)
+- **Medium issues addressed**: 2 (added Wegner illusion-of-will engagement, strengthened effort-tracking argument)
+- **Enhancements made**: 3 (new section, stronger argument, Wegner reference added)
+- **Output**: [[reviews/deep-review-2026-03-20-phenomenology-of-volition]]
+
 ## 2026-03-20 23:07 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/the-epiphenomenalist-threat]]
