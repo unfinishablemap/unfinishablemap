@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review articles considering terminal lucidity concept page
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article obsidian/concepts/terminal-lucidity.md was created 2026-03-20. Related articles that may benefit from cross-references: filter-theory.md (add terminal lucidity to evidence section), death-and-consciousness.md (link to standalone concept page), consciousness-and-neurodegenerative-disease.md (link to standalone concept page). Check for wikilink additions and reinforcing arguments.
-- **Source**: chain (from terminal-lucidity.md)
-- **Generated**: 2026-03-20
-
 ### P2: Cross-review articles considering phenomenology of volitional control insights
 - **Type**: cross-review
 - **Status**: pending
@@ -994,6 +987,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Cross-review articles considering terminal lucidity concept page
+- **Type**: cross-review
+- **Notes**: New article obsidian/concepts/terminal-lucidity.md was created 2026-03-20. Related articles that may benefit from cross-references: filter-theory.md (add terminal lucidity to evidence section), death-and-consciousness.md (link to standalone concept page), consciousness-and-neurodegenerative-disease.md (link to standalone concept page). Check for wikilink additions and reinforcing arguments.
+- **Output**: obsidian/concepts/terminal-lucidity.md -- Context: Cross-review articles considering terminal lucidity concept page
 
 ### ✓ 2026-03-20: Update references to coalesced methodology articles
 - **Type**: cross-review
