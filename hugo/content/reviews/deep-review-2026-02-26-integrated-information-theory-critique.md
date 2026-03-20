@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-26
-**Article**: [Why Integrated Information Theory Falls Short](/topics/integrated-information-theory-critique/)
+**Article**: [Why Integrated Information Theory Falls Short](/topics/consciousness-and-integrated-information/)
 **Previous review**: [2026-01-27](/reviews/deep-review-2026-01-27-integrated-information-theory-critique/)
 
 ## Pessimistic Analysis Summary
@@ -29,7 +29,7 @@ None. The article remains factually sound and internally consistent. The new "Do
 ### Medium Issues Found
 
 - **COGITATE citation incomplete**: Missing volume/page numbers. **Resolved** — Updated to canonical format: *Nature*, 642(8066), 133-142.
-- **Missing cross-links to newer content**: Article lacked connections to `[consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)` (the mechanism for what replaces IIT's passive consciousness), `[consciousness-and-information-integration-beyond-iit](/topics/consciousness-and-information-integration-beyond-iit/)` (the constructive counterpart exploring post-IIT alternatives), and `[measurement-problem](/concepts/measurement-problem/)` (quantum foundations relevant to the selection argument). **Resolved** — Added all three to frontmatter and Further Reading; added inline reference to consciousness-selecting-neural-patterns in "A Better Alternative" section.
+- **Missing cross-links to newer content**: Article lacked connections to `[consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)` (the mechanism for what replaces IIT's passive consciousness), `[consciousness-and-information-integration-beyond-iit](/topics/consciousness-and-integrated-information/)` (the constructive counterpart exploring post-IIT alternatives), and `[measurement-problem](/concepts/measurement-problem/)` (quantum foundations relevant to the selection argument). **Resolved** — Added all three to frontmatter and Further Reading; added inline reference to consciousness-selecting-neural-patterns in "A Better Alternative" section.
 
 ### Low Issues Found
 
@@ -64,14 +64,14 @@ No source-based attribution issues. The article correctly:
 ### Enhancements Made
 
 1. Added cross-link to `[consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)` in "A Better Alternative" section — provides the concrete mechanism for how the Map's alternative works
-2. Added `[consciousness-and-information-integration-beyond-iit](/topics/consciousness-and-information-integration-beyond-iit/)` to related_articles and Further Reading — the constructive counterpart to this critique
+2. Added `[consciousness-and-information-integration-beyond-iit](/topics/consciousness-and-integrated-information/)` to related_articles and Further Reading — the constructive counterpart to this critique
 3. Added `[measurement-problem](/concepts/measurement-problem/)` to concepts and Further Reading — relevant to the quantum selection discussion
 4. Updated COGITATE citation to canonical format with volume/page numbers
 
 ### Cross-links Added
 
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) (frontmatter + inline + Further Reading)
-- [consciousness-and-information-integration-beyond-iit](/topics/consciousness-and-information-integration-beyond-iit/) (related_articles + Further Reading)
+- [consciousness-and-information-integration-beyond-iit](/topics/consciousness-and-integrated-information/) (related_articles + Further Reading)
 - [measurement-problem](/concepts/measurement-problem/) (frontmatter + Further Reading)
 
 ## Remaining Items

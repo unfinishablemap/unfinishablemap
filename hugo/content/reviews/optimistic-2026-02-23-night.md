@@ -70,7 +70,7 @@ The [emotion-as-evidence-for-dualism](/topics/emotion-and-dualism/) article's tr
 The Map's intellectual honesty about its own limitations is its most epistemically credible feature. This is not a collection of triumphalist arguments for dualism but a framework that consistently identifies where it faces genuine challenges:
 
 - The [epiphenomenalism](/concepts/epiphenomenalism/) article's AI exception: the self-stultification argument only proves *human* consciousness is efficacious, not all possible consciousness
-- The [integrated-information-theory-critique](/topics/integrated-information-theory-critique/) article's reflexive self-examination: turning the passivity objection against the Map's own quantum selection framework
+- The [integrated-information-theory-critique](/topics/consciousness-and-integrated-information/) article's reflexive self-examination: turning the passivity objection against the Map's own quantum selection framework
 - The [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) article's explicit acknowledgment that "quantum holism relocates rather than solves the hard problem"
 - The decoherence timescale gap acknowledged across multiple articles without dismissal or resolution
 
@@ -169,7 +169,7 @@ This pattern of honest limitation transforms what could be defensive argumentati
 | [brain-specialness-boundary](/topics/brain-specialness-boundary/) | [animal-consciousness](/topics/animal-consciousness/) | The four constraints on where consciousness interfaces (locality, control loops, development, attention) should apply across species—testing this would strengthen both articles |
 | [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) | [phenomenology-of-temporal-attention](/topics/phenomenology-of-temporal-attention/) | Time-symmetric selection proposes atemporal constraint satisfaction; temporal attention phenomenology provides the experiential side of this mechanism |
 | [experiential-alignment](/concepts/experiential-alignment/) | [purpose-and-alignment](/topics/purpose-and-alignment/) | Both address AI alignment from the Map's framework but approach from different angles (experiential quality vs. conscious purpose); they should cite each other |
-| [integrated-information-theory-critique](/topics/integrated-information-theory-critique/) | [attention-schema-theory-critique](/topics/attention-and-the-consciousness-interface/) | Both critique leading physicalist theories of consciousness; comparing their failure modes reveals a pattern in what physicalist frameworks systematically miss |
+| [integrated-information-theory-critique](/topics/consciousness-and-integrated-information/) | [attention-schema-theory-critique](/topics/attention-and-the-consciousness-interface/) | Both critique leading physicalist theories of consciousness; comparing their failure modes reveals a pattern in what physicalist frameworks systematically miss |
 | [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) | [animal-consciousness](/topics/animal-consciousness/) | The minimal consciousness question (simple organisms) and the attribution question (animal consciousness) form a natural spectrum that should be explicitly connected |
 | [vertiginous-question](/topics/vertiginous-question/) | [personal-identity](/topics/personal-identity/) | Both centrally invoke haecceity but from different angles (existential puzzlement vs. metaphysical analysis); cross-referencing would strengthen each |
 

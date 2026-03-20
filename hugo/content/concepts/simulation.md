@@ -16,7 +16,7 @@ concepts:
 - '[[decoherence]]'
 - '[[haecceity]]'
 - '[[computational-cognitive-limits]]'
-- '[[natural-vs-designed-limits]]'
+- '[[meta-epistemology-of-limits]]'
 - '[[evolved-cognitive-limits]]'
 created: 2026-01-07
 date: &id001 2026-01-07
@@ -196,7 +196,7 @@ Whether or not we are simulated, the *possibility* of simulation illuminates wha
 - [haecceity](/concepts/haecceity/) — The indexical identity problem that simulation resolves
 - [decoherence](/concepts/decoherence/) — The timescale objection and its application within simulations
 - [computational-cognitive-limits](/voids/computational-cognitive-limits/) — Formal limits that constrain simulated minds
-- [natural-vs-designed-limits](/voids/meta-epistemology-of-limits/) — Whether cognitive limits are natural or engineered
+- [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — Whether cognitive limits are natural or engineered
 - [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Species-level limits that blur the evolved/designed distinction in simulation
 - [tenets](/tenets/) — The foundational commitments these concepts serve
 

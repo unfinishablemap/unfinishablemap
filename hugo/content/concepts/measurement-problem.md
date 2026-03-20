@@ -59,7 +59,7 @@ The measurement problem is the central foundational puzzle in quantum mechanics�
 
 If collapse is real and its cause unspecified, consciousness remains a candidate selector. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes exactly this: consciousness biases otherwise indeterminate quantum outcomes.
 
-**Honest limitation**: This framework predicts exactly what standard quantum mechanics predicts—consciousness-selection within Born probabilities is empirically indistinguishable from random collapse. This unfalsifiability is a genuine cost. The Map treats it as a philosophical framework compatible with physics rather than a competing physical hypothesis.
+**Honest limitation**: This framework predicts exactly what standard quantum mechanics predicts—consciousness-selection within Born probabilities is empirically indistinguishable from random collapse. This unfalsifiability is a genuine cost. The Map treats it as a philosophical framework compatible with physics rather than a competing physical hypothesis. The [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) specifies the formal components and five mathematical constraints any such framework must satisfy.
 
 What would challenge this framework? Evidence that (1) quantum indeterminacy is apparent rather than real (superdeterminism), (2) consciousness demonstrably cannot influence neural quantum events even in principle, or (3) the hard problem dissolves under analysis.
 
@@ -179,7 +179,7 @@ The Map's resolution combines [interface-locality](/concepts/brain-interface-bou
 
 The measurement problem reveals a genuine gap in physical explanation—where [mental-causation](/concepts/mental-causation/) becomes *possible*, though the gap alone does not establish that consciousness fills it.
 
-[Causal closure](/concepts/causal-closure/) claims every physical event has a sufficient physical cause. At quantum measurement, this fails: the Born rule yields *probabilities*, not determinate causes—predicting ensemble statistics without explaining why *this* measurement yielded *this* outcome.
+[Causal closure](/concepts/causal-closure/) claims every physical event has a sufficient physical cause. At quantum measurement, this fails: the Born rule yields *probabilities*, not determinate causes—predicting ensemble statistics without explaining why *this* measurement yielded *this* outcome. [Physical completeness](/concepts/physical-completeness/) clarifies the distinction: physics is *structurally* complete (no hidden variables are missing) yet *ontologically* partial (the selection of actuality from possibility falls outside structural description).
 
 This creates the "causal closure loophole": physics fixes the *distribution* of outcomes but leaves the *selection* of individual outcomes unexplained.
 

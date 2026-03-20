@@ -47,7 +47,7 @@ title: The Measurement Void
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[philosophy-of-mind]]'
-- '[[epistemology-of-cognitive-limits]]'
+- '[[meta-epistemology-of-limits]]'
 ---
 
 Phenomenal experience resists measurement at every level. There are no units of consciousness, no scales for qualia, no instruments that measure experience rather than its physical correlates, and no way to calibrate the one instrument that does detect consciousness directly—introspection. The barrier is structural, not technological: the medium through which all measurement occurs cannot itself be placed on the other side of a measuring instrument, and the only instrument on the same side cannot be checked against any independent standard.

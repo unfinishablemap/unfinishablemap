@@ -28,7 +28,7 @@ related_articles:
 - '[[introspective-opacity]]'
 - '[[whether-real]]'
 - '[[limits-reveal-structure]]'
-- '[[epistemology-of-cognitive-limits]]'
+- '[[meta-epistemology-of-limits]]'
 - '[[language-thought-boundary]]'
 - '[[creativity-void]]'
 - '[[recursion-void]]'
@@ -96,7 +96,7 @@ The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet 
 - [introspective-opacity](/voids/introspective-opacity/)
 - [intentionality-void](/voids/intentionality-void/)
 - [recursion-void](/voids/recursion-void/)
-- [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/)
+- [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
 - [whether-real](/voids/whether-real/)
 - [limits-reveal-structure](/voids/limits-reveal-structure/)
 

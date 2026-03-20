@@ -63,7 +63,7 @@ This means quantum probability is "second-order" in a precise mathematical sense
 
 ### The Corridor Defined
 
-Together, these three results define the mathematical corridor: consciousness can select among quantum outcomes, but must preserve squared-amplitude statistics at the ensemble level, respect the Hilbert-space inner product, and introduce no higher-order interference. This is not a philosophical preference—it is a constraint from the mathematics itself. The [interface specification problem](/topics/the-interface-specification-problem/) asks what the consciousness-physics mapping looks like; these results constrain what mathematical form any answer can take.
+Together, these three results define the mathematical corridor: consciousness can select among quantum outcomes, but must preserve squared-amplitude statistics at the ensemble level, respect the Hilbert-space inner product, and introduce no higher-order interference. Combined with the [conservation law analysis](/concepts/conservation-laws-and-mental-causation/)—which shows that selection among equiprobable outcomes requires no energy transfer—the corridor constrains the interface to a remarkably narrow space. This is not a philosophical preference—it is a constraint from the mathematics itself. The [interface specification problem](/topics/the-interface-specification-problem/) asks what the consciousness-physics mapping looks like; these results constrain what mathematical form any answer can take.
 
 ## Statistical Closure and Outcome-Level Openness
 
@@ -97,7 +97,7 @@ Kleiner (2020) proposes the most general mathematical framework. Rather than mod
 
 The framework models consciousness through the product space E × P (experience × physical state space), with dynamical variables as subsets of this product. Crucially, E can instantiate as different mathematical structures depending on which aspect of experience is modelled: a Riemannian manifold for colour qualia (capturing similarity relations), a partial order for inclusion relations, a Hilbert space for the algebraic structure of simultaneous qualia, or a pretopological space for similarity without metrics.
 
-For the Map's dualist framework, Kleiner's approach is significant because it gives the experiential domain its own mathematical autonomy—E is not derived from or reducible to P. The coupling between E and P must be specified by additional mathematical structure, which is exactly the [selection law](/concepts/psychophysical-laws/) the Map seeks. The framework does not itself commit to quantum-level interaction, but the Hilbert-space instantiation of E is naturally compatible with quantum formalism.
+For the Map's dualist framework, Kleiner's approach is significant because it gives the experiential domain its own mathematical autonomy—E is not derived from or reducible to P. The coupling between E and P must be specified by additional mathematical structure, which is exactly the [selection law](/concepts/psychophysical-laws/) the Map seeks. The framework does not itself commit to quantum-level interaction, but the Hilbert-space instantiation of E is naturally compatible with quantum formalism. The [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) defines these three ingredients — physical state space P, experiential state space E, and coupling map C: E × P → P — as the minimal formal requirements any interface theory must satisfy.
 
 ### Atmanspacher: Non-Commutative Operator Algebra
 

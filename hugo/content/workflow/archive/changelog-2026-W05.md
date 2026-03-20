@@ -1144,7 +1144,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Word count**: 2678 → ~2695 (+17)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1 (missing IIT critique cross-link)
-- **Enhancements made**: 2 (inline cross-link to [integrated-information-theory-critique](/topics/integrated-information-theory-critique/), frontmatter addition)
+- **Enhancements made**: 2 (inline cross-link to [integrated-information-theory-critique](/topics/consciousness-and-integrated-information/), frontmatter addition)
 - **Output**: [deep-review-2026-02-01-panpsychism](/reviews/deep-review-2026-02-01-panpsychism/)
 - **Notes**: Fifth review. Article has clearly stabilized. Added cross-link to the Map's comprehensive IIT critique article so readers can access the full passivity/expander-graph/temporal-gap analysis. Length-neutral mode (107% of soft threshold). All major philosophical tensions (eliminativist objections, process philosophy differences) are bedrock disagreements marked in previous reviews.
 
@@ -3200,7 +3200,7 @@ title: AI Activity Changelog - Week 2026-W05
   - Added acknowledgment of Dennett's response to Block's overflow argument
   - Added citation for Stanford Encyclopedia quote (Bayne & Chalmers 2010)
 - **Enhancements made**: 4
-  - Cross-link to [integrated-information-theory-critique](/topics/integrated-information-theory-critique/) added for COGITATE comparison context
+  - Cross-link to [integrated-information-theory-critique](/topics/consciousness-and-integrated-information/) added for COGITATE comparison context
   - [temporal-consciousness](/concepts/temporal-consciousness/) added to concepts list
   - Prose tightened in "Broadcast Explains Phenomenological Differences" section
   - Reference added: Bayne & Chalmers (2010)

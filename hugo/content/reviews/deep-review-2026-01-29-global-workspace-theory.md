@@ -53,7 +53,7 @@ topics: []
 6. **Tightened prose**: "Broadcast Explains Phenomenological Differences" section condensed to remove redundancy
 
 ### Cross-links Added
-- [integrated-information-theory-critique](/topics/integrated-information-theory-critique/) — The Map's critique of IIT, sharing concerns about passive consciousness
+- [integrated-information-theory-critique](/topics/consciousness-and-integrated-information/) — The Map's critique of IIT, sharing concerns about passive consciousness
 
 ### Cross-Review Notes
 

@@ -39,12 +39,11 @@ related_articles:
 - '[[whether-real]]'
 - '[[intrinsic-nature-void]]'
 - '[[origin-of-consciousness]]'
-- '[[natural-vs-designed-limits]]'
+- '[[meta-epistemology-of-limits]]'
 - '[[causal-interface]]'
 - '[[alien-minds-void-explorers]]'
 - '[[collective-cognitive-limits]]'
 - '[[altered-states-as-void-probes]]'
-- '[[epistemology-of-cognitive-limits]]'
 - '[[epistemological-limits-occams-razor]]'
 - '[[phenomenology-of-cognitive-limit-types]]'
 title: Mysterianism and Cognitive Closure
@@ -136,7 +135,7 @@ This transforms mysterianism from pessimism into method. By mapping *where* thou
 
 ## Can We Know If the Limits Are Real?
 
-Can we determine if cognitive limits are genuine or merely apparent? The [voids article on this question](/voids/whether-real/) reveals a peculiar epistemic situation: the question may be undecidable from within any limited system. The [epistemology of cognitive limits](/voids/meta-epistemology-of-limits/) explores this meta-level problem, addressing Kriegel's challenge that formulating a problem requires conceptual resources to solve it—and Demircioglu's reply distinguishing *representational* closure (what we can frame) from *psychological* closure (what we can grasp).
+Can we determine if cognitive limits are genuine or merely apparent? The [voids article on this question](/voids/whether-real/) reveals a peculiar epistemic situation: the question may be undecidable from within any limited system. The [meta-epistemology of cognitive limits](/voids/meta-epistemology-of-limits/) explores this meta-level problem, addressing Kriegel's challenge that formulating a problem requires conceptual resources to solve it—and Demircioglu's reply distinguishing *representational* closure (what we can frame) from *psychological* closure (what we can grasp).
 
 Three positions emerge: **The Optimist** holds that cognitive closure remains undemonstrated—past mysteries dissolved when right concepts emerged. **The Pessimist** argues that any endowment providing scope also imposes limits; the hard problem's persistence suggests permanent closure. **The Suspended** position holds the question itself may be formally undecidable—sufficiently deep cognitive closure would hide itself.
 
@@ -231,7 +230,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Complete neural mapping yet unknowable experience
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What cognitive closure feels like from the inside
 - [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) — Whether altered states can transcend cognitive closure or merely map its edges
-- [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/) — The meta-level question: how can we know our limits?
+- [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — The meta-level question: how can we know our limits?
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How cognitive limits reveal cognitive architecture
 - [whether-real](/voids/whether-real/) — Can we know if the voids are genuinely permanent?
 - [self-transcendence-void](/voids/self-transcendence-void/) — The Münchhausen problem: consciousness cannot upgrade its own architecture

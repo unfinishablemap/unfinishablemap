@@ -93,6 +93,8 @@ These considerations favour coupling modes that are statistically "stealthy"—p
 | **Timing control** | Preserved per measurement | Low | Medium (Zeno effect) | Effort as sustained observation |
 | **Probability control** | Violated | High | Low | Intention as force-like |
 
+All three modes must satisfy the [five mathematical constraints](/concepts/consciousness-physics-interface-formalism/) that quantum foundations impose on any coupling map: Born rule preservation, inner product invariance, no-signalling compliance, second-order interference only, and conservation law compatibility. Basis and timing control satisfy all five; probability control violates the first.
+
 ### Basis Control: Most "Minimal"
 
 Basis control changes nothing about quantum mechanics' answers—only which questions get asked. Born probabilities remain intact for any chosen measurement. No deviation from standard physics is detectable because the statistics conditional on a given basis remain textbook.

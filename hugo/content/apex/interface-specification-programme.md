@@ -52,9 +52,9 @@ The first constraint comes from asking what *kind* of causal powers consciousnes
 
 This power has four specific dimensions. Consciousness selects among action possibilities—biasing which neural pattern wins when multiple patterns compete. It sustains attention, holding selected patterns stable against competing alternatives. It engages in phenomenal biasing—the felt character of experience (the unpleasantness of pain, the pull of desire) contributes to which outcomes are favoured. And it modulates its own intensity—what we experience as trying harder or letting go.
 
-Equally important are the limits. Consciousness operates only at the neural interface, not at a distance. It works within probabilistic bounds, shifting distributions rather than guaranteeing outcomes. It cannot retroactively change past events. And it never injects energy—all causal influence flows through selection among energetically equivalent quantum alternatives.
+Equally important are the limits. Consciousness operates only at the neural interface, not at a distance. It works within probabilistic bounds, shifting distributions rather than guaranteeing outcomes. It cannot retroactively change past events. And it never injects energy—all causal influence flows through [selection among energetically equivalent quantum alternatives](/concepts/conservation-laws-and-mental-causation/).
 
-These constraints rule out large classes of possible interfaces and narrow the space of viable specifications. Whatever the formal control law turns out to be, it must accommodate precisely these powers and no others.
+These constraints rule out large classes of possible interfaces and narrow the space of viable specifications. The [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) defines the mathematical structure any such specification must take — three required components (experiential state space E, physical state space P, coupling map C: E × P → P) and five non-negotiable constraints from quantum foundations. Whatever the formal control law turns out to be, it must accommodate precisely these powers and no others, within the bounds the formalism imposes.
 
 ## How Much the Interface Can Carry
 

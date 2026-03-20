@@ -17,7 +17,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[defended-territory]]'
-- '[[epistemology-of-cognitive-limits]]'
+- '[[meta-epistemology-of-limits]]'
 target_section: voids
 title: 'Research Notes - Voids: The Simulation Detection Void'
 topics: []

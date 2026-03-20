@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-19 18:34:00+00:00
+ai_modified: 2026-03-19 22:47:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Head-to-head evaluation of Orch OR, Stapp's Zeno model, Fisher's nu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-19 18:34:00+00:00
+last_deep_review: 2026-03-19 22:47:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -69,7 +69,7 @@ Penrose and Hameroff propose that tubulin proteins in microtubules sustain quant
 
 **Empirical status: Growing but contested.** The epothilone B study (Khan et al. 2024; microtubule-stabilizing drug delays [anaesthesia](/topics/anaesthesia-and-the-consciousness-interface/)) and room-temperature tryptophan superradiance in microtubule architectures (Babcock et al. 2024) provide circumstantial support. Wiest (2025) reports a 613 THz quantum oscillation signature abolished by anaesthetics. These findings establish microtubule relevance to consciousness but do not confirm the specific Orch OR mechanism — microtubules might matter for classical or other quantum reasons.
 
-**Falsifiability: Moderate.** Orch OR predicts measurable quantum coherence in microtubules at specific timescales and gravitational collapse at specific mass thresholds. Germanium detector experiments (Donadi et al. 2020) have already ruled out the simplest Diósi-Penrose model. The parameter space is shrinking — a virtue for falsifiability, but a warning for the theory. See [Penrose Gravity-Induced Collapse and Empirical Prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) for the full experimental landscape, including levitated nanoparticle interferometry, optomechanical tests, and the proposed MAQRO space mission.
+**Falsifiability: Moderate.** Orch OR predicts measurable quantum coherence in microtubules at specific timescales and gravitational collapse at specific mass thresholds. Germanium detector experiments (Donadi et al. 2021) have already ruled out the simplest Diósi-Penrose model. The parameter space is shrinking — a virtue for falsifiability, but a warning for the theory. See [Penrose Gravity-Induced Collapse and Empirical Prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) for the full experimental landscape, including levitated nanoparticle interferometry, optomechanical tests, and the proposed MAQRO space mission.
 
 ## Stapp's Quantum Zeno Model: Attention as Observation
 
@@ -140,15 +140,13 @@ Three patterns emerge from the scientific evaluation; a fourth emerges when tene
 
 **The falsifiability gap.** None of the four mechanisms currently generates predictions that cleanly distinguish it from classical neuroscience. Orch OR's parameter space is shrinking, which is genuinely falsifiable — but the other proposals' confirmed predictions (attention signatures, effort-difficulty correlation) are equally consistent with non-quantum accounts. Fisher's proposal comes closest to unique predictions (lithium isotope effects, Posner molecule detection), though these test the physical substrate rather than the consciousness interface.
 
-**No single mechanism suffices.** Each proposal illuminates different aspects of the consciousness-quantum interface: Stapp explains the phenomenology of effort; Orch OR connects consciousness to spacetime structure; Fisher demonstrates biological quantum persistence at relevant timescales; CSL hybrids solve the prebiotic problem. The Map's agnosticism reflects genuine uncertainty — and the possibility that the full picture requires elements from multiple proposals.
+**No single mechanism suffices.** Each proposal illuminates different aspects: Stapp explains the phenomenology of effort; Orch OR connects consciousness to spacetime structure; Fisher demonstrates biological quantum persistence; CSL hybrids solve the prebiotic problem. The Map's agnosticism reflects genuine uncertainty — and the possibility that the full picture requires elements from multiple proposals.
 
 ## Relation to Site Perspective
 
-The Unfinishable Map's [tenets](/tenets/) do not commit to any single quantum consciousness mechanism, and this comparison explains why that agnosticism is warranted. No proposal currently satisfies all desiderata simultaneously.
+The Unfinishable Map's [tenets](/tenets/) do not commit to any single quantum consciousness mechanism, and this comparison explains why that agnosticism is warranted. The Map's framework does, however, constrain the space of acceptable mechanisms. [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) rules against proposals requiring macroscopic quantum coherence or panpsychist commitments — a tension Orch OR must address. [Bidirectional Interaction](/tenets/#bidirectional-interaction) requires that consciousness genuinely causes physical effects — ruling out proposals where consciousness is merely correlated with quantum processes. [No Many Worlds](/tenets/#no-many-worlds) requires that collapse is real, not apparent.
 
-The Map's framework does, however, constrain the space of acceptable mechanisms. [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) rules against proposals requiring macroscopic quantum coherence or panpsychist commitments — a tension Orch OR must address. [Bidirectional Interaction](/tenets/#bidirectional-interaction) requires that consciousness genuinely causes physical effects — ruling out proposals where consciousness is merely correlated with quantum processes. [No Many Worlds](/tenets/#no-many-worlds) requires that collapse is real, not apparent.
-
-Within these constraints, Stapp's Zeno model and consciousness-modulated spontaneous collapse emerge as the most tenet-compatible approaches — both [non-retrocausal conscious selection](/topics/non-retrocausal-conscious-selection-models/) frameworks that act forward in time. Tenet compatibility is a philosophical preference, not a scientific verdict: these models fit the Map's commitments better, but that does not make them more likely to be physically correct. Stapp provides the phenomenological depth; CSL hybrids provide the physical framework. These are not competitors but potentially complementary: Stapp's mechanism could describe *how* consciousness modulates collapse (through attentional observation), while CSL provides the baseline collapse dynamics that consciousness modulates. The [coupling-modes](/concepts/coupling-modes/) framework — basis control, timing control, probability control — provides vocabulary for specifying what such integration would require.
+Within these constraints, Stapp's Zeno model and consciousness-modulated spontaneous collapse emerge as the most tenet-compatible approaches — both [non-retrocausal conscious selection](/topics/non-retrocausal-conscious-selection-models/) frameworks that act forward in time. Tenet compatibility is a philosophical preference, not a scientific verdict: these models fit the Map's commitments better, but that does not make them more likely to be physically correct. Stapp provides the phenomenological depth; spontaneous collapse — whether CSL or [Penrose's gravitational OR](/topics/penrose-gravity-induced-collapse-empirical-prospects/) — provides the physical framework. These are not competitors but potentially complementary: Stapp's mechanism could describe *how* consciousness modulates collapse (through attentional observation), while gravitational OR or CSL provides the baseline collapse dynamics that consciousness modulates. The Penrose article develops this separation explicitly: gravity determines *when* collapse occurs, but not *which outcome* — leaving room for consciousness to operate at the moment of selection. The [coupling-modes](/concepts/coupling-modes/) framework — basis control, timing control, probability control — provides vocabulary for specifying what such integration would require.
 
 The Map's position is that *some* quantum consciousness mechanism exists, constrained by the tenets. Which mechanism is correct — or whether the correct mechanism has yet to be proposed — remains genuinely open.
 
@@ -178,7 +176,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 1. Babcock, N. S., Montes-Cabrera, G., Oberhofer, K. E., Chergui, M., Celardo, G. L., & Kurian, P. (2024). Ultraviolet superradiance from mega-networks of tryptophan in biological architectures. *The Journal of Physical Chemistry B*, 128(17), 4035-4046.
 1. Chalmers, D. J. & McQueen, K. J. (2021). Consciousness and the collapse of the wave function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
 1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
-1. Donadi, S., et al. (2020). Underground test of gravity-related wave function collapse. *Nature Physics*, 17, 74-78.
+1. Donadi, S., et al. (2021). Underground test of gravity-related wave function collapse. *Nature Physics*, 17, 74-78.
 1. Fisher, M. P. A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
 1. Ghirardi, G. C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34(2), 470-491.
 1. Georgiev, D. D. & Glazebrook, J. F. (2015). Monte Carlo simulation of quantum Zeno effect in the brain. *International Journal of Modern Physics B*, 29(7), 1550039.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-19 18:40:00+00:00
+ai_modified: 2026-03-20 00:37:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -25,6 +25,7 @@ concepts:
 - '[[conservation-laws-and-mental-causation]]'
 - '[[causal-delegation]]'
 - '[[observational-closure]]'
+- '[[physical-completeness]]'
 created: 2026-01-14
 date: &id001 2026-02-15
 description: 'Causal closure claims every physical event has sufficient physical cause.
@@ -32,7 +33,7 @@ description: 'Causal closure claims every physical event has sufficient physical
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-19 18:40:00+00:00
+last_deep_review: 2026-03-20 00:37:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -104,6 +105,8 @@ Kim himself acknowledged a critical challenge in formulating causal closure. The
 
 Finding the right formulation—strong enough to exclude dualist mental causation but not so strong as to beg the question—proves difficult. The principle's apparent plausibility may depend precisely on this ambiguity.
 
+Montero (2003) presses a deeper problem: defining "physical" itself. If it means what current physics describes, closure is false—current physics is incomplete. If it means what a completed future physics describes, the claim is vacuous since we cannot know whether that physics will include or exclude mental causation (Hempel's dilemma). The principle may be not merely unproven but unfalsifiable in principle.
+
 ### Observational vs Universal Closure
 
 Bradford Saad (2025) identifies a crucial distinction—[observational-closure](/concepts/observational-closure/)—that weakens the causal closure objection: *universal* closure is stronger than what physics actually supports.
@@ -128,21 +131,19 @@ This is the Map's primary response: quantum mechanics violates causal closure as
 
 In quantum mechanics, physical systems evolve deterministically under the Schrödinger equation—until measurement. At measurement, the system "collapses" from superposition to a definite state. Physics specifies the *probabilities* of outcomes but not *which* outcome occurs. The theory is fundamentally stochastic.
 
-This means: *not every physical event has a sufficient physical cause*. When a radioactive atom decays, physics tells us the probability it will decay in the next hour, but nothing physical determines *whether* it will. The physical causes are insufficient. The physical story is incomplete. The formal case runs deeper than quantum stochasticity alone: [Gödel-type results and Lawvere's fixed-point theorem](/topics/self-reference-and-the-limits-of-physical-description/) show that the assumption of complete physical explanation is formally unjustified—self-referential obstruction prevents any sufficiently rich physical theory from determining its own measurement outcomes.
+This means: *not every physical event has a sufficient physical cause*. When a radioactive atom decays, physics tells us the probability it will decay in the next hour, but nothing physical determines *whether* it will. The physical causes are insufficient. The formal case runs deeper than quantum stochasticity alone: [Gödel-type results and Lawvere's fixed-point theorem](/topics/self-reference-and-the-limits-of-physical-description/) show that the assumption of complete physical explanation is formally unjustified—self-referential obstruction prevents any sufficiently rich physical theory from determining its own measurement outcomes.
 
 **Objection from hidden variables**: Hidden variable theories (like Bohmian mechanics) could restore determinism, but they add unobservable machinery. Occam's Razor cuts both ways: consciousness (which we directly experience) is no less parsimonious than hidden variables (which we don't). Pilot-wave theories also face indexical identity problems parallel to Many-Worlds (see [Tenet 4](/tenets/#no-many-worlds)).
 
-**The probabilistic causation response**: Some argue probabilistic causation is still causation. But this conflates statistical explanation with causal sufficiency. A probability distribution explains why *some atom* decayed, not why *this atom* did. If nothing physical determines which outcome occurs, physics is causally incomplete at that point.
+**The probabilistic causation response**: Some argue probabilistic causation is still causation. But this conflates statistical explanation with causal sufficiency. A probability distribution explains why *some atom* decayed, not why *this atom* did. If nothing physical determines which outcome occurs, physics is causally incomplete at that point. As [physical-completeness](/concepts/physical-completeness/) argues, the key distinction is between *structural* completeness (which physics achieves) and *ontological* completeness (which it does not) — the structural-ontological gap reframes the causal closure debate by revealing an equivocation in "physical cause."
 
 **The overdetermination worry**: Consciousness operating *within* probabilistic constraints—selecting among quantum-permitted outcomes at the frequencies physics specifies—is complementary determination, not overdetermination. Physics provides the range and statistical weights; consciousness provides the particular outcome—syntactic constraints from physics, semantic selection from consciousness, as the [metaphysics of information under dualism](/concepts/metaphysics-of-information-under-dualism/) describes. Chess rules constrain legal moves without overdetermining which move occurs. [Saad's delegatory framework](/topics/delegatory-dualism/) makes this precise: physical states *delegate* causal responsibilities to conscious experiences via preemption.
-
-If consciousness acts at these indeterminacies, it causes physical events without violating any physical law. No energy is injected; the selection operates within quantum mechanical constraints.
 
 ### Stapp's Quantum Response
 
 [Henry Stapp's quantum Zeno framework](/concepts/stapp-quantum-mind/) provides the most detailed account of how consciousness operates at quantum indeterminacies. The key insight: the quantum Zeno effect allows attention to stabilize desired neural states through repeated observation, without injecting energy. Consciousness fills a genuine gap (physics specifies probabilities but not which outcome actualizes) rather than competing with physical causes. The "effort of will" that William James described corresponds to repeated quantum measurements—what attention *feels like* matches what the Zeno effect *does*.
 
-Once quantum indeterminacy is recognized as genuine ontological openness rather than ignorance, the closure objection loses its grip. Consciousness acts precisely where physics becomes "silent."
+Once quantum indeterminacy is recognized as genuine ontological openness rather than ignorance, the closure objection loses its grip.
 
 **The [decoherence challenge](/concepts/decoherence/)** is serious: critics object that quantum coherence cannot survive in warm biological systems. But decoherence timescales remain disputed, [decoherence doesn't solve the measurement problem](/concepts/decoherence/) (something must still select which outcome becomes actual), and the quantum Zeno effect may *sustain* coherence through repeated measurement. See [decoherence](/concepts/decoherence/) for detailed treatment, including five responses targeting different premises of the objection.
 
@@ -160,13 +161,9 @@ C.S. Lewis and Alvin Plantinga argued that causal closure undermines rational th
 
 Reliabilists respond that causal processes can track truth without non-physical reasons. But this requires causal processes to be sensitive to *logical* relationships—validity, consistency, evidential support. These are normative, not physical. A neuron fires because chemistry, not *because modus ponens is valid*. If consciousness causes nothing, the correlation between logical justification and what we believe becomes inexplicable.
 
-The argument is contested but highlights a reflexive problem: the belief in causal closure would itself be just a neural state caused by chemistry rather than by reasons.
-
 ## Causal Closure and Free Will
 
-The connection to [free-will](/topics/free-will/) is immediate. If every physical event has a sufficient physical cause, there's no room for "my choice" to make a difference—the outcome was physically determined (or randomly fluctuated within fixed probabilities).
-
-The Map takes a different route. Quantum indeterminism means physical outcomes are not fully determined. The [trilemma of selection](/topics/trilemma-of-selection/) shows that at any point of genuine indeterminacy, the outcome is either random or consciously directed—and only directed selection preserves authorship. If consciousness can bias which indeterminate outcome occurs, it can influence events in a way that's neither determined nor random—what libertarian free will requires. Robert Kane's Self-Forming Actions framework parallels this; the Map provides the *mechanism* Kane leaves underspecified.
+The connection to [free-will](/topics/free-will/) is immediate. If every physical event has a sufficient physical cause, there's no room for "my choice" to make a difference. The Map takes a different route: the [trilemma of selection](/topics/trilemma-of-selection/) shows that at any point of genuine indeterminacy, the outcome is either random or consciously directed—and only directed selection preserves authorship. If consciousness can bias which indeterminate outcome occurs, it can influence events in a way that's neither determined nor random—what libertarian free will requires. Robert Kane's Self-Forming Actions framework parallels this; the Map provides the *mechanism* Kane leaves underspecified.
 
 Critics raise the [luck objection](/concepts/luck-objection/): if the outcome is undetermined, isn't it just random? The Map's response: consciousness *selects* outcomes rather than merely receiving them — intentional directedness rather than random fluctuation.
 
@@ -194,7 +191,7 @@ Why don't consciousness-influenced quantum events aggregate to detectable violat
 
 **Testability**: The Map's position makes falsifiable predictions: if quantum coherence proves impossible at neural timescales, if quantum effects cannot be amplified to affect neural firing, or if purely classical mechanisms explain all consciousness-related phenomena including reportability—the framework fails. The position is not empirically equivalent to physicalism.
 
-This is not "god of the gaps" reasoning. Physics *describes* a gap—between quantum probabilities and definite outcomes—and the Map asks what fills it. The position may be naturally mysterious (see [mysterianism](/concepts/mysterianism/)). We don't fully understand how mass curves spacetime, yet general relativity is coherent.
+This is not "god of the gaps" reasoning. Physics *describes* a gap—between quantum probabilities and definite outcomes—and the Map asks what fills it. The position may be naturally mysterious (see [mysterianism](/concepts/mysterianism/)).
 
 ## Further Reading
 
@@ -206,6 +203,7 @@ This is not "god of the gaps" reasoning. Physics *describes* a gap—between qua
 - [mysterianism](/concepts/mysterianism/) — Why the mechanism of mind-matter interaction may exceed human comprehension
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — Formal incompleteness arguments (Gödel, Lawvere, Cubitt) undermining the assumption of complete physical explanation
 - [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/) — How causal closure evolved from a physics claim into a metaphysical axiom
+- [physical-completeness](/concepts/physical-completeness/) — The structural-ontological gap: why structural completeness does not entail ontological completeness, reframing the closure equivocation
 - [reductionism](/concepts/reductionism/) — Ontological vs methodological vs epistemic reduction; why conflating them supports closure illicitly
 - [mental-causation](/concepts/mental-causation/) — The philosophical problem causal closure creates
 - [downward-causation](/concepts/downward-causation/) — Higher-level causation that closure threatens
@@ -225,6 +223,7 @@ This is not "god of the gaps" reasoning. Physics *describes* a gap—between qua
 
 1. Buhler, K. (2020). "No Good Arguments for Causal Closure." *Metaphysica*, 21(1). doi:10.1515/mp-2019-0026
 1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
+1. Montero, B.G. (2003). "Varieties of Causal Closure." In S. Walter & H.-D. Heckmann (Eds.), *Physicalism and Mental Causation*. Imprint Academic.
 1. Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (eds.), *Physicalism and Its Discontents*. Cambridge University Press.
 1. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3
 1. Stapp, H. P. (2007). *Mindful Universe*. Springer.

@@ -20,7 +20,7 @@ related_articles:
 - '[[scale-void]]'
 - '[[embodiment-cognitive-limits]]'
 - '[[evolved-cognitive-limits]]'
-- '[[natural-vs-designed-limits]]'
+- '[[meta-epistemology-of-limits]]'
 - '[[phenomenology-of-the-edge]]'
 target_section: voids
 title: 'Research Notes - Voids: The Probability Intuition Void'

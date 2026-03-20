@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-27
-**Article**: [Why Integrated Information Theory Falls Short](/topics/integrated-information-theory-critique/)
+**Article**: [Why Integrated Information Theory Falls Short](/topics/consciousness-and-integrated-information/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

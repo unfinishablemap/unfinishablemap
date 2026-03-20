@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-19 18:18:00+00:00
+ai_modified: 2026-03-19 22:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,11 +38,32 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense wheeler-it-from-bit-2026-03-14.md (3508 words, 140% of target)
+### P2: Address empirical indistinguishability and Zeno overreliance in multi-mind-collapse-problem.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found: (1) High-severity issue—the article's "What Would Challenge" section has no positive predictions, making interface locality empirically indistinguishable from its null hypothesis. (2) Quantum Zeno effect is structurally central despite style guide flagging it as requiring restraint. (3) Modulation vs. causation distinction needs rigorous definition. See pessimistic-2026-03-20.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-20
+
+### P2: Cross-review quantum-consciousness articles considering consciousness-physics-interface-formalism insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article concepts/consciousness-physics-interface-formalism.md was created 2026-03-19. Articles on quantum consciousness mechanisms (comparing-quantum-consciousness-mechanisms.md, quantum-consciousness.md, mind-matter-interface.md) should cross-reference this formal treatment. Check for places to add [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) links and integrate the mathematical framework.
+- **Source**: chain (from consciousness-physics-interface-formalism.md)
+- **Generated**: 2026-03-19
+
+### P2: Condense russellian-monism.md (3830 words, 109% of hard threshold)
 - **Type**: condense
 - **Status**: pending
-- **Notes**: Research note exceeds 2500-word hard warning threshold for research/. Covers Wheeler's participatory universe, delayed-choice experiments, "it from bit" framework, and positioning relative to the Map. Preserve core arguments and citations while reducing supplementary detail. See /condense skill.
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments (Russellian monism vs the Map's dualism, combination problem, structural realism critique) while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
 - **Source**: length_analysis
+- **Generated**: 2026-03-19
+
+### P3: Research clinical neuroplasticity evidence for bidirectional mental causation
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: The Map's empirical case for Tenet 3 (Bidirectional Interaction) draws on scattered clinical evidence — placebo effects, contemplative neuroplasticity, CBT-driven cortical reorganisation (Schwartz OCD studies). No systematic research note surveys neuroplasticity evidence specifically: belief-dependent cortical reorganisation, meditation-driven white matter changes, psychotherapy vs. medication brain imaging comparisons. Would ground the existing P3 clinical evidence synthesis apex candidate task. Target: research note for topics/ or apex/.
+- **Source**: gap_analysis
 - **Generated**: 2026-03-19
 
 ### P3: Address argumentative gaps in ai-consciousness.md
@@ -825,8 +846,127 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Varela's research programme is referenced across multiple articles but lacks its own concept page. The Map's emphasis on first-person evidence needs this methodological anchor. Target section: concepts/. See optimistic-2026-03-19-afternoon.md
 - **Generated**: 2026-03-19
 
+### P3: Write concept page on the bandwidth problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How 10 bits/second of conscious intention interfaces with high-bandwidth neural processing. Raised explicitly in downward-causation article but not given its own treatment. Target section: concepts/. See optimistic-2026-03-19-late.md
+- **Generated**: 2026-03-19
+
+### P3: Add contemplative-epistemology cross-references to phenomenology articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Five articles discuss first-person phenomenological methodology without linking to contemplative-epistemology: phenomenology-of-embodiment-under-dualism, epistemology-of-phenomenal-reports, introspection-rehabilitation, dream-consciousness, consciousness-and-skilled-performance. See optimistic-2026-03-19-late.md
+- **Generated**: 2026-03-19
+
+### P3: Write comprehensive treatment of the exclusion problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. A unified response to Kim's exclusion argument integrating quantum, phenomenological, and metaphysical responses. Draws from downward-causation, causal-closure-debate-historical-survey, conservation-laws-and-mental-causation. Could be apex candidate. See optimistic-2026-03-19-late.md
+- **Generated**: 2026-03-19
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Cross-review causal-closure.md considering physical-completeness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/physical-completeness.md was created 2026-03-19. The causal-closure article covers the causal closure principle and should cross-reference this new dedicated treatment of physical completeness. Check for opportunities to add [physical-completeness](/concepts/physical-completeness/) links, reinforce arguments, and ensure terminological consistency between the two articles.
+- **Output**: obsidian/concepts/causal-closure.md -- Context: Cross-review causal-closure.md considering physical-completeness insights
+
+### ✓ 2026-03-20: Integrate meta-epistemology-of-limits.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Voids article on the meta-epistemology of cognitive limits, created via coalesce on 2026-03-19. Add cross-references from related voids articles (taxonomy-of-voids, compound-cognitive-limits, epistemic-horizon-void) and concept pages referencing epistemic limits.
+- **Output**: obsidian/voids/meta-epistemology-of-limits.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-20: Integrate physical-completeness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-19 via expand-topic. Concepts article on physical completeness — the thesis that physics is causally complete. Add cross-references from related articles (causal-closure, mental-causation, conservation-laws-mind-brain-causation, the-epiphenomenalist-threat) or update section index pages.
+- **Output**: obsidian/concepts/physical-completeness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-20: Integrate consciousness-physics-interface-formalism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-19 via expand-topic. Concepts article on the mathematical structure of the consciousness-physics interface. Add cross-references from related articles (psychophysical-laws, quantum-consciousness, mind-matter-interface, consciousness-and-the-philosophy-of-mathematics) or update section index pages to include navigation to this content.
+- **Output**: obsidian/concepts/consciousness-physics-interface-formalism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-19: Write topics article on the metaproblem of consciousness under dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/metaproblem-consciousness-dualism-2026-03-06.md. Chalmers' metaproblem (2018) asks why we think consciousness poses a hard problem. The existing concept page (concepts/meta-problem-of-consciousness.md) covers basics; a deeper topics article should develop the specifically dualist response: interactionism's unique resistance to debunking arguments, the zombie meta-problem, and how consciousness causally contributing to philosophical reasoning undermines purely physical explanations of problem intuitions. Directly supports Tenet 3 (Bidirectional Interaction). Target section: topics/.
+- **Output**: Write topics article on the metaproblem of consciousness under dualism
+
+### ✓ 2026-03-19: Deep review commensurability-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Voids article on the impossibility of comparing qualitative experiences across fundamentally different cognitive architectures. Verify coherence, cross-references to other-minds-void and alien-minds content, and tenet alignment.
+- **Output**: obsidian/voids/commensurability-void.md
+
+### ✓ 2026-03-19: Write concept page on mathematical structure of the consciousness-physics interface
+- **Type**: expand-topic
+- **Notes**: Research completed in research/mathematical-structure-consciousness-physics-interface-2026-03-14.md. Covers Hilbert space models, Born rule encoding of interface constraints, and formal representation of consciousness-physics coupling. No existing concept page synthesises this mathematical framework. Target section: concepts/. Supports Tenets 2 and 3.
+- **Output**: Write concept page on mathematical structure of the consciousness-physics interface
+
+### ✓ 2026-03-19: Refine russellian-monism.md with 2024-2025 dual-aspect traditions research
+- **Type**: refine-draft
+- **Notes**: Research in research/russellian-monism-vs-bi-aspectual-dualism-2026-03-14.md and supplement research/russellian-monism-vs-bi-aspectual-dualism-2026-03-17.md contains extensive 2024-2025 material on cosmopsychism, quantum Russellian monism (Hashemi), and Brown's "Russellian physicalism" variants that should strengthen the existing concepts/russellian-monism.md page. Update the article to engage with these contemporary developments and sharpen the distinction from the Map's bi-aspectual dualism.
+- **Output**: obsidian/concepts/russellian-monism.md
+
+Task context:
+Research in research/russellian-monism-vs-bi-aspectual-dualism-2026-03-14.md and supplement research/russellian-monism-vs-bi-aspectual-dualism-2026-03-17.md contains extensive 2024-2025 material on cosmopsychism, quantum Russellian monism (Hashemi), and Brown's "Russellian physicalism" variants that should strengthen the existing concepts/russellian-monism.md page. Update the article to engage with these contemporary developments and sharpen the distinction from the Map's bi-aspectual dualism.
+
+### ✓ 2026-03-19: Update references to coalesced IIT articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [consciousness-and-integrated-information](/topics/consciousness-and-integrated-information/). The following files reference the archived `integrated-information-theory-critique` and may need updating: topics/hard-problem-of-consciousness.md, topics/consciousness-and-the-physics-of-information.md, concepts/global-workspace-theory.md, concepts/panpsychism.md, topics/consciousness-and-collective-phenomena.md
+- **Output**: None -- Context: Update references to coalesced IIT articles
+
+### ✓ 2026-03-19: Cross-review comparing-quantum-consciousness-mechanisms.md considering Penrose gravity-collapse article
+- **Type**: cross-review
+- **Notes**: New article topics/penrose-gravity-induced-collapse-empirical-prospects.md (created 2026-03-19) covers Diósi-Penrose objective reduction, specific collapse rate predictions, and MAQRO experimental prospects. Review topics/comparing-quantum-consciousness-mechanisms.md for cross-links to the new article's empirical evidence, consistency in how Penrose's model is characterised, and whether the comparison framework needs updating given new experimental data.
+- **Output**: obsidian/topics/comparing-quantum-consciousness-mechanisms.md -- Context: Cross-review comparing-quantum-consciousness-mechanisms.md considering Penrose gravity-collapse article
+
+### ✓ 2026-03-19: Write concept page on physical completeness — the structural-ontological gap
+- **Type**: expand-topic
+- **Notes**: Research completed in research/completeness-in-physics-epr-bell-2026-03-14.md and supplement research/completeness-in-physics-epr-bell-2026-03-17.md. Physics describes all structural relations (EPR, Bell) but not what realises them — "partial but complete." This framing dissolves the apparent conflict between physical completeness and dualism. Core to Tenets 1 and 2. Target section: concepts/.
+- **Output**: Write concept page on physical completeness — the structural-ontological gap
+
+### ✓ 2026-03-19: Integrate evolution-of-consciousness-dualist-perspective.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Add cross-references from related articles (consciousness-evolution-problem, animal-consciousness, biological-teleology-and-the-interface-framework) or update section index pages to include navigation to this content.
+- **Output**: evolution-of-consciousness-dualist-perspective.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-19: Integrate conservation-laws-mind-brain-causation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Add cross-references from related articles (causal-closure, mental-causation, mind-matter-interface, consciousness-and-causal-powers) or update section index pages to include navigation to this content.
+- **Output**: conservation-laws-mind-brain-causation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-19: Integrate temporal-constitution-and-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Add cross-references from related articles (temporal-consciousness, consciousness-and-temporal-becoming, growing-block-universe-and-consciousness) or update section index pages to include navigation to this content.
+- **Output**: temporal-constitution-and-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-19: Cross-review qm-interpretations-beyond-many-worlds.md considering probability-problem-in-many-worlds insights
+- **Type**: cross-review
+- **Notes**: New article topics/probability-problem-in-many-worlds.md covers probability and decision-theory objections to MWI. The existing article topics/qm-interpretations-beyond-many-worlds.md should cross-reference these arguments. Check for complementary coverage, cross-links, and consistency.
+- **Output**: obsidian/topics/qm-interpretations-beyond-many-worlds.md -- Context: Cross-review qm-interpretations-beyond-many-worlds.md considering probability-problem-in-many-worlds insights
+
+### ✓ 2026-03-19: Address unfalsifiability and unsourced claims in neural-correlates-of-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found high-severity issue: the "What Would Challenge This View?" section sets falsification conditions that the article itself argues are structurally unattainable, making the interactionist position unfalsifiable in practice. Also: repeated Stanford Encyclopedia quote, unsourced contemplative claims, stale AI refinement log. See pessimistic-2026-03-19-night.md
+- **Output**: obsidian/concepts/neural-correlates-of-consciousness.md
+
+Task context:
+Pessimistic review found high-severity issue: the "What Would Challenge This View?" section sets falsification conditions that the article itself argues are structurally unattainable, making the interactionist position unfalsifiable in practice. Also: repeated Stanford Encyclopedia quote, unsourced contemplative claims, stale AI refinement log. See pessimistic-2026-03-19-night.md
+
+### ✓ 2026-03-19: Cross-review causal-closure.md considering causal-closure-debate-historical-survey insights
+- **Type**: cross-review
+- **Notes**: New article topics/causal-closure-debate-historical-survey.md provides detailed historical context (Broad, Kim, Papineau, Lowe) that may strengthen or refine the existing concept page concepts/causal-closure.md. Check for cross-links, updated citations, and consistency.
+- **Output**: obsidian/concepts/causal-closure.md -- Context: Cross-review causal-closure.md considering causal-closure-debate-historical-survey insights
+
+### ✓ 2026-03-19: Write voids article on the commensurability void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-commensurability-void-2026-03-19.md. The impossibility of comparing qualitative experiences across fundamentally different cognitive architectures — not just the other-minds problem but a structural limit on inter-system phenomenal comparison. Target section: voids/.
+- **Output**: Write voids article on the commensurability void
+
+### ✓ 2026-03-19: Condense wheeler-it-from-bit-2026-03-14.md (3508 words, 140% of target)
+- **Type**: condense
+- **Notes**: Research note exceeds 2500-word hard warning threshold for research/. Covers Wheeler's participatory universe, delayed-choice experiments, "it from bit" framework, and positioning relative to the Map. Preserve core arguments and citations while reducing supplementary detail. See /condense skill.
+- **Output**: obsidian/research/wheeler-it-from-bit-2026-03-14.md
 
 ### ✓ 2026-03-19: Condense bi-aspectual-ontology-dual-aspect-traditions-2026-03-16.md (3975 words, 159% of target)
 - **Type**: condense

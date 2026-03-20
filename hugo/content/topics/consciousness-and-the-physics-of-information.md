@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-17 07:45:00+00:00
+ai_modified: 2026-03-19 23:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,7 +26,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[participatory-universe-2026-02-08]]'
-- '[[integrated-information-theory-critique]]'
+- '[[consciousness-and-integrated-information]]'
 - '[[the-interface-specification-problem]]'
 - '[[consciousness-and-causal-powers]]'
 - '[[conservation-laws-and-mental-causation]]'
@@ -116,7 +116,7 @@ The **No Many Worlds** tenet connects directly. Many-worlds avoids collapse by t
 ## Further Reading
 
 - [integrated-information-theory](/concepts/integrated-information-theory/)
-- [integrated-information-theory-critique](/topics/integrated-information-theory-critique/)
+- [consciousness-and-integrated-information](/topics/consciousness-and-integrated-information/)
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
 - [prebiotic-collapse](/concepts/prebiotic-collapse/)

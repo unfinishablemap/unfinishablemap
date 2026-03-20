@@ -62,7 +62,7 @@ None. The article has reached stability after four deep reviews (2026-01-10, 202
 3. **Internal cross-reference**: IIT section now references article's own temporal phenomenology section
 
 ### Cross-links Added
-- [integrated-information-theory-critique](/topics/integrated-information-theory-critique/) — Full case against IIT from the Map's interactionist perspective
+- [integrated-information-theory-critique](/topics/consciousness-and-integrated-information/) — Full case against IIT from the Map's interactionist perspective
 
 ## Word Count
 

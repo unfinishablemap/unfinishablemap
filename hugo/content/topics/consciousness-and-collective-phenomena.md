@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-03-12 06:43:00+00:00
+ai_modified: 2026-03-19 23:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -55,7 +55,7 @@ Collective intelligence takes forms that differ dramatically in how much conscio
 
 ## Why Groups Are Not Conscious
 
-The Map finds proposals for group consciousness — from Durkheim's *conscience collective* to Hegel's *Geist* to the implication of [IIT's](/topics/integrated-information-theory-critique/) formalism that sufficiently integrated groups could in principle have high Φ — provocative but unconvincing.
+The Map finds proposals for group consciousness — from Durkheim's *conscience collective* to Hegel's *Geist* to the implication of [IIT's](/topics/consciousness-and-integrated-information/) formalism that sufficiently integrated groups could in principle have high Φ — provocative but unconvincing.
 
 **The [combination-problem](/concepts/combination-problem/) in reverse.** Individual minds are already unified centres of experience. For a group mind to exist, these would need to combine into a higher-order unity — but individuals' experiences do not dissolve when they join a deliberating jury. If group consciousness exists alongside individual consciousness, it must be a separate centre of experience layered on top of the individual ones. The question of what substrate supports it has no good answer.
 

@@ -93,7 +93,7 @@ This rules out: Bohmian mechanics, superdeterminism, and any interpretation wher
 
 ### 3. Something Non-Physical Participates in Outcome Selection
 
-From [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction): the selection is not brute randomness. Consciousness influences which outcome is actualized—but in a way that remains statistically consistent with the Born distribution over ensembles (preserving conservation laws).
+From [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction): the selection is not brute randomness. Consciousness influences which outcome is actualized—but in a way that remains statistically consistent with the Born distribution over ensembles (preserving [conservation laws](/concepts/conservation-laws-and-mental-causation/)).
 
 This means: quantum probabilities describe the *constraint space* within which consciousness operates, not the full causal story. Physics specifies what can happen and with what weight. Something else—consciousness—contributes to what *does* happen.
 
@@ -107,7 +107,7 @@ This means: the interface between consciousness and physics is, by its nature, e
 
 If these four constraints hold, they point to a specific picture of what the wavefunction is and what it is not.
 
-On this account, the wavefunction is a *complete description of the structural aspect of reality*. It encodes every possibility, assigns every amplitude, determines every interference pattern. Nothing structural is missing. Einstein's worry—that quantum mechanics is incomplete because it fails to assign definite values to all physical quantities simultaneously—was misplaced. The EPR argument showed that quantum mechanics cannot be both complete and local; Bell's theorem later showed that no local hidden variable theory can reproduce quantum predictions. The theory is not missing *physical* information.
+On this account, the wavefunction is a *complete description of the structural aspect of reality*. It encodes every possibility, assigns every amplitude, determines every interference pattern. Nothing structural is missing — [physical-completeness](/concepts/physical-completeness/) develops this claim in detail, showing through the no-go theorems that physics is structurally exhaustive yet ontologically partial. Einstein's worry—that quantum mechanics is incomplete because it fails to assign definite values to all physical quantities simultaneously—was misplaced. The EPR argument showed that quantum mechanics cannot be both complete and local; Bell's theorem later showed that no local hidden variable theory can reproduce quantum predictions. The theory is not missing *physical* information.
 
 What the wavefunction does not describe is *actuality*—which possibility is realized. The Schrödinger equation governs the evolution of possibilities. It says nothing about which possibility becomes the one that happens. This is the measurement problem, and if the tenets are correct, it is not a problem *within* the theory but a boundary *of* the theory. The wavefunction describes all that physics *can* describe. On this view, actuality is contributed by something physics cannot reach.
 

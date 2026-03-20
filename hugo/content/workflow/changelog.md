@@ -4,10 +4,240 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
-date: '2026-03-19'
+date: '2026-03-20'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-03-20 00:45 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/multi-mind-collapse-problem.md, topics/epistemic-advantages-of-dualism.md
+- **Output**: [pessimistic-2026-03-20](/reviews/pessimistic-2026-03-20/)
+
+## 2026-03-20 00:37 UTC - deep-review
+- **Status**: Success
+- **File**: [causal-closure](/concepts/causal-closure/)
+- **Word count**: 2827 → 2832 (+5)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-links to physical-completeness in frontmatter and Further Reading)
+- **Enhancements made**: 1 (prose trim for length neutrality)
+- **Output**: [deep-review-2026-03-20-causal-closure](/reviews/deep-review-2026-03-20-causal-closure/)
+
+## 2026-03-20 00:29 UTC - deep-review
+- **Status**: Success
+- **File**: [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
+- **Word count**: 2463 → 2549 (+86)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (Dunning-Kruger qualification, missing "What Would Challenge" section, missing cross-links, 31 files with broken old-slug references)
+- **Enhancements made**: 3 (What Would Challenge section, tightened metacognition section, added simulation-detection-void and epistemological-limits-occams-razor links)
+- **Output**: [deep-review-2026-03-20-meta-epistemology-of-limits](/reviews/deep-review-2026-03-20-meta-epistemology-of-limits/)
+
+## 2026-03-20 00:21 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/)
+- **Word count**: 1997 → 1982 (-15)
+- **Critical issues addressed**: 1 (3 broken wikilinks to archived/coalesced articles)
+- **Medium issues addressed**: 2 (duplicate Further Reading entry, redundant related_articles entry)
+- **Enhancements made**: 0 (article at convergence — content changes not warranted)
+- **Output**: [deep-review-2026-03-20-phenomenology-of-musical-understanding](/reviews/deep-review-2026-03-20-phenomenology-of-musical-understanding/)
+
+## 2026-03-20 00:17 UTC - deep-review
+- **Status**: Success
+- **File**: [physical-completeness](/concepts/physical-completeness/)
+- **Word count**: 1746 → 1815 (+69)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (orphan integration, missing cross-links to related concepts)
+- **Enhancements made**: 9 inbound cross-references added from related articles, 2 new outbound links added
+- **Output**: [deep-review-2026-03-20-physical-completeness](/reviews/deep-review-2026-03-20-physical-completeness/)
+
+## 2026-03-20 00:06 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/)
+- **Word count**: 1464 → 1604 (+140)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (orphan integration, missing tenet, bandwidth constraint, coupling-modes link)
+- **Enhancements made**: 10 cross-references added from related articles
+- **Output**: [deep-review-2026-03-20-consciousness-physics-interface-formalism](/reviews/deep-review-2026-03-20-consciousness-physics-interface-formalism/)
+
+## 2026-03-19 23:55 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 439 (226 topics, 213 concepts)
+- **Errors**: 0
+- **Warnings**: 2
+- **Notes**: 4
+- **Output**: [tenet-check-2026-03-19](/reviews/tenet-check-2026-03-19/)
+
+## 2026-03-19 23:54 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: The Metaproblem of Consciousness Under Dualism
+- **Reason**: Article already exists at [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) (created 2026-03-11, last deep review 2026-03-16)
+
+## 2026-03-19 23:40 UTC - deep-review
+- **Status**: Success
+- **File**: [commensurability-void](/voids/commensurability-void/)
+- **Word count**: 1461 → 1616 (+155)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-19-commensurability-void](/reviews/deep-review-2026-03-19-commensurability-void/)
+
+## 2026-03-19 23:32 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Notes**: Searched topics/ (225/230 cap) and concepts/ (212/230 cap) across 5+ iterations. All candidate pairs examined were well-differentiated with distinct core claims, complementary rather than redundant content. No merge performed.
+
+## 2026-03-19 23:25 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness-Physics Interface Formalism
+- **Output**: [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/)
+- **Word count**: 1464
+- **Based on research**: yes, [mathematical-structure-consciousness-physics-interface-2026-03-14](/research/mathematical-structure-consciousness-physics-interface-2026-03-14/)
+
+## 2026-03-19 23:17 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-the-neuroscience-of-deliberate-practice/)
+- **Word count**: 2137 → ~2110 (-27)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (hippocampal replay inaccuracy, attribution flow, duplicate frontmatter)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-19-consciousness-and-the-neuroscience-of-deliberate-practice](/reviews/deep-review-2026-03-19-consciousness-and-the-neuroscience-of-deliberate-practice/)
+
+## 2026-03-19 23:10 UTC - refine-draft
+- **Status**: Success
+- **File**: [russellian-monism](/concepts/russellian-monism/)
+- **Changes**: Added cosmopsychism/decombination equivalence (Miller 2018), new "A Family of Incompatible Proposals" section (Kind collapse thesis, Brown Russellian physicalism, Hashemi dual-aspect monism), distinguished bi-aspectual dualism from bi-aspectual monism, strengthened many-worlds compatibility argument (Williams 2021), added Brown's Russellian physicalism as challenge condition
+- **Published**: yes
+
+## 2026-03-19 23:02 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [consciousness-and-integrated-information](/topics/consciousness-and-integrated-information/)
+- **Context**: First review after coalesce; updated stale references across 5 files
+- **Word count**: 2888 → 2956 (+68)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (vague COGITATE description, underengaged identity theorist response)
+- **Enhancements made**: 3 (COGITATE specificity, identity response engagement, panexperientialism definition)
+- **Cross-links updated**: 8 references across 5 files (integrated-information-theory-critique → consciousness-and-integrated-information)
+- **Output**: [deep-review-2026-03-19-consciousness-and-integrated-information](/reviews/deep-review-2026-03-19-consciousness-and-integrated-information/)
+
+## 2026-03-19 22:55 UTC - coalesce
+- **Status**: Success
+- **Sources**: [integrated-information-theory-critique](/topics/integrated-information-theory-critique/), [consciousness-and-information-integration-beyond-iit](/topics/consciousness-and-information-integration-beyond-iit/)
+- **Target**: [consciousness-and-integrated-information](/topics/consciousness-and-integrated-information/)
+- **Archived**: [integrated-information-theory-critique](/archive/topics/integrated-information-theory-critique/), [consciousness-and-information-integration-beyond-iit](/archive/topics/consciousness-and-information-integration-beyond-iit/)
+- **References to review**: 5 active content files reference archived `integrated-information-theory-critique`
+
+## 2026-03-19 22:47 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
+- **Context**: Cross-review considering Penrose gravity-collapse article
+- **Word count**: 3206 → 3231 (+25)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (Donadi date inconsistency, Penrose OR omitted from synthesis framework)
+- **Enhancements made**: 1 (Penrose OR integrated as alternative baseline collapse framework)
+- **Output**: [deep-review-2026-03-19b-comparing-quantum-consciousness-mechanisms](/reviews/deep-review-2026-03-19b-comparing-quantum-consciousness-mechanisms/)
+
+## 2026-03-19 22:40 UTC - deep-review
+- **Status**: Success
+- **File**: [physical-completeness](/concepts/physical-completeness/)
+- **Word count**: 1695 → 1746 (+51)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (broken structural-realism link, unacknowledged hard-problem dependency, casual hard-problem/measurement-problem connection)
+- **Enhancements made**: 3 (conservation-laws cross-link, qualifier on step 3, bridging sentence)
+- **Output**: [deep-review-2026-03-19-physical-completeness](/reviews/deep-review-2026-03-19-physical-completeness/)
+
+## 2026-03-19 22:32 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Physical completeness — the structural-ontological gap
+- **Output**: [physical-completeness](/concepts/physical-completeness/)
+- **Word count**: 1695
+- **Based on research**: yes ([completeness-in-physics-epr-bell-2026-03-14](/research/completeness-in-physics-epr-bell-2026-03-14/), [completeness-in-physics-epr-bell-2026-03-17](/research/completeness-in-physics-epr-bell-2026-03-17/))
+
+## 2026-03-19 22:18 UTC - deep-review
+- **Status**: Skipped
+- **File**: evolution-of-consciousness-dualist-perspective.md
+- **Reason**: File is archived (coalesced into [evolution-under-dualism](/topics/evolution-under-dualism/) on 2026-03-14). Stale todo task removed — same integration task was already completed 2026-03-15. No live content links to old slug; no action needed.
+
+## 2026-03-19 22:10 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All non-draft content across topics (227), concepts (211), tenets (1), apex (20)
+- **Output**: [optimistic-2026-03-19-late](/reviews/optimistic-2026-03-19-late/)
+- **Tasks added**: 3 P3 tasks (bandwidth problem concept, contemplative-epistemology cross-refs, exclusion problem comprehensive treatment)
+
+## 2026-03-19 22:03 UTC - deep-review
+- **Status**: Success
+- **File**: [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)
+- **Word count**: 2792 → 2792 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 9 cross-links added from new articles
+- **Output**: [deep-review-2026-03-19-conservation-laws-and-mental-causation](/reviews/deep-review-2026-03-19-conservation-laws-and-mental-causation/)
+
+## 2026-03-19 21:55 UTC - deep-review
+- **Status**: Skipped
+- **File**: temporal-constitution-and-consciousness.md
+- **Reason**: Article was archived on 2026-03-18 (coalesced into [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)). Cannot deep-review archived content.
+
+## 2026-03-19 21:47 UTC - deep-review
+- **Status**: Success
+- **File**: [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/)
+- **Word count**: 3820 → 3620 (-200)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (Boden attribution, Wallas attribution, prose tightening for length)
+- **Enhancements made**: 2 (inline attributions, condensed redundant passages)
+- **Output**: [deep-review-2026-03-19-surprise-prediction-error-and-consciousness](/reviews/deep-review-2026-03-19-surprise-prediction-error-and-consciousness/)
+
+## 2026-03-19 21:39 UTC - deep-review
+- **Status**: Success
+- **File**: [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)
+- **Word count**: 2459 → 2546 (+87)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (probability-problem integration, MWI engagement breadth)
+- **Enhancements made**: 2 (opening paragraph, Comparative Assessment paragraph)
+- **Output**: [deep-review-2026-03-19-qm-interpretations-beyond-many-worlds](/reviews/deep-review-2026-03-19-qm-interpretations-beyond-many-worlds/)
+
+## 2026-03-19 21:31 UTC - refine-draft
+- **Status**: Success
+- **File**: [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
+- **Changes**: Rewrote falsification conditions to be achievable-in-principle (was unfalsifiable in practice); removed repeated Stanford Encyclopedia quote; added Josipovic/Thompson citations and tradition nuance to contemplative section; fixed unsupported No Many Worlds claim; removed stale refinement log
+- **Published**: yes
+
+## 2026-03-19 21:24 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
+- **Output**: [pessimistic-2026-03-19-night](/reviews/pessimistic-2026-03-19-night/)
+
+## 2026-03-19 21:16 UTC - deep-review
+- **Status**: Success
+- **File**: [causal-closure](/concepts/causal-closure/)
+- **Word count**: 2794 → 2791 (-3)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (Hempel's dilemma integration, Montero reference)
+- **Enhancements made**: 3 (Hempel's dilemma, Montero citation, prose tightening)
+- **Output**: [deep-review-2026-03-19b-causal-closure](/reviews/deep-review-2026-03-19b-causal-closure/)
+
+## 2026-03-19 21:09 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Commensurability Void
+- **Output**: [commensurability-void](/voids/commensurability-void/)
+- **Word count**: 1461
+- **Based on research**: yes, [voids-commensurability-void-2026-03-19](/research/voids-commensurability-void-2026-03-19/)
+
+## 2026-03-19 21:04 UTC - deep-review
+- **Status**: Success
+- **File**: [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/)
+- **Word count**: 2319 → 2319 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (removed stale AI refinement log)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-19-experimental-design-for-consciousness-collapse-testing](/reviews/deep-review-2026-03-19-experimental-design-for-consciousness-collapse-testing/)
+- **Notes**: Article has reached stability after 2nd review. No critical issues. All previous review resolutions confirmed solid.
+
+## 2026-03-19 20:50 UTC - condense
+- **Status**: Success
+- **File**: [wheeler-it-from-bit-2026-03-14](/research/wheeler-it-from-bit-2026-03-14/)
+- **Before**: 3508
+- **After**: 1956
+- **Reduction**: 44%
+- **Technique**: Collapsed Major Positions into summary table (eliminated redundancy with Key Sources), trimmed Key Sources entries, condensed historical timeline, tightened Potential Article Angles and Gaps sections
 
 ## 2026-03-19 20:42 UTC - condense
 - **Status**: Success

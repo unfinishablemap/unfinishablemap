@@ -64,7 +64,7 @@ Inbound links added from 10 existing articles:
 
 **Topics:**
 8. [consciousness-and-the-physics-of-information](/topics/consciousness-and-the-physics-of-information/) — body text + Further Reading + related_articles
-9. [consciousness-and-information-integration-beyond-iit](/topics/consciousness-and-information-integration-beyond-iit/) — body text + Further Reading + related_articles
+9. [consciousness-and-information-integration-beyond-iit](/topics/consciousness-and-integrated-information/) — body text + Further Reading + related_articles
 10. [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — body text + Further Reading + related_articles
 
 Each inbound link consists of:

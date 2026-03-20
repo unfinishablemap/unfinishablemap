@@ -30,7 +30,7 @@ related_articles:
 - '[[conceptual-impossibility]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[developmental-cognitive-closure]]'
-- '[[natural-vs-designed-limits]]'
+- '[[meta-epistemology-of-limits]]'
 - '[[mind-space-void]]'
 superseded_by: /voids/architecture-of-cognitive-closure/
 title: The Limits of Conceptual Acquisition
@@ -155,7 +155,7 @@ The claim that some concepts are permanently inaccessible would be challenged if
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
 - [The Developmental Void](/voids/architecture-of-cognitive-closure/) — Limits acquired through maturation
 - [Cognitive Closure](/concepts/cognitive-closure/) — The formal analysis of architectural limits on understanding
-- [Natural vs. Designed Limits](/voids/meta-epistemology-of-limits/) — Whether cognitive limits are intrinsic or imposed
+- [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — Whether cognitive limits are intrinsic or imposed
 - [The Mind-Space Void](/voids/mind-space-void/) — Our unknown location in possible-minds space
 - [LLM Consciousness](/concepts/llm-consciousness/) — The question of AI experience
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-15 05:15:00+00:00
+ai_modified: 2026-03-19 23:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,13 +20,12 @@ description: Neuroscience reveals that conscious engagement during practice acti
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-22 02:54:00+00:00
+last_deep_review: 2026-03-19 23:17:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[consciousness-and-skilled-performance]]'
 - '[[choking-phenomenon-mental-causation]]'
-- '[[consciousness-and-skilled-performance]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[phenomenology-of-cognitive-capacity]]'
 - '[[epiphenomenalism]]'
@@ -70,7 +69,7 @@ This two-level error correction—automatic and deliberate—mirrors the Map's c
 
 ## Sleep, Consolidation, and the Offline Role of Consciousness
 
-Practice does not end when the musician leaves the instrument. Walker et al. (2002) demonstrated that motor skill performance improves significantly after sleep without additional practice—a phenomenon called sleep-dependent consolidation. During sleep, the hippocampus replays activity patterns from the practice session, transferring them to neocortical storage. This offline consolidation is selective: it preferentially stabilises skills that were learned with conscious engagement.
+Practice does not end when the musician leaves the instrument. Walker et al. (2002) demonstrated that motor skill performance improves significantly after sleep without additional practice—a phenomenon called sleep-dependent consolidation. Crucially, this offline consolidation is selective: it preferentially stabilises skills that were learned with conscious engagement.
 
 Fischer et al. (2002) demonstrated that sleep-dependent enhancement occurs for explicitly learned motor sequences. Participants who slept after learning a finger-tapping sequence improved significantly in speed and accuracy, while those tested after an equivalent waking interval did not. Subsequent research extended this finding, showing that explicitly learned sequences benefit from sleep consolidation while implicitly acquired motor patterns do not show the same enhancement (Robertson et al., 2004). The conscious dimension of initial learning appears to tag memories for preferential offline consolidation.
 

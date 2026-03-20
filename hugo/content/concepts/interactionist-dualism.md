@@ -135,7 +135,7 @@ Quantum mechanics describes systems in superposition until measured. What causes
 
 **Orchestrated Objective Reduction (Orch OR)**: Penrose and Hameroff propose consciousness originates in quantum computations within microtubules, with collapse events constituting conscious experience itself.
 
-Both proposals share what the Map requires: consciousness biasing otherwise indeterminate outcomes without violating physical law. [Lucid dreaming](/topics/lucid-dreaming-and-dualist-rendering/) provides phenomenological evidence for this kind of biasing — the dreamer's conscious intentions reshape neural activity in real time, with the degree of control varying in ways consistent with selection within physical constraints.
+Both proposals share what the Map requires: consciousness biasing otherwise indeterminate outcomes without violating physical law. The [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) defines the formal requirements any such proposal must meet: an experiential state space, a physical state space, and a coupling map satisfying five constraints from quantum foundations (Born rule preservation, inner product invariance, no-signalling, second-order interference only, and conservation law compatibility). [Lucid dreaming](/topics/lucid-dreaming-and-dualist-rendering/) provides phenomenological evidence for this kind of biasing — the dreamer's conscious intentions reshape neural activity in real time, with the degree of control varying in ways consistent with selection within physical constraints.
 
 ## Selection, Biasing, and Falsifiability
 
@@ -189,7 +189,7 @@ For comprehensive treatment, see [objections-to-interactionism](/concepts/object
 
 Interactionist dualism is not just *compatible* with the Map's tenets—it *is* the Map's position. The [Dualism](/tenets/#dualism) tenet affirms irreducibility; the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet affirms causal efficacy; the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifies where and how.
 
-This framework avoids classical objections: no energy injection (consciousness selects among quantum possibilities); physics is incomplete at quantum indeterminacies (room for mental causation); quantum mechanics identifies specific interface points.
+This framework avoids classical objections: no energy injection (consciousness selects among quantum possibilities); physics is [structurally complete yet ontologically partial](/concepts/physical-completeness/) at quantum indeterminacies (room for mental causation); quantum mechanics identifies specific interface points.
 
 ### Empirical Compatibility
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-10 12:38:00+00:00
+ai_modified: 2026-03-19 23:02:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -257,7 +257,7 @@ This methodological constraint cuts both ways. GWT proponents can claim any appa
 - [implicit-memory](/concepts/implicit-memory/) — Anoetic consciousness bypassing the workspace
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The self-knowing consciousness GWT must explain
 - [integrated-information-theory](/concepts/integrated-information-theory/) — A rival theory tested alongside GNW
-- [integrated-information-theory-critique](/topics/integrated-information-theory-critique/) — The Map's critique of IIT, sharing some concerns about passive consciousness
+- [consciousness-and-integrated-information](/topics/consciousness-and-integrated-information/) — The Map's critique of IIT, sharing concerns about passive consciousness
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — The broader research program GWT contributes to
 - [functionalism](/concepts/functionalism/) — The philosophical framework underlying GWT
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — Explaining away phenomenal intuitions

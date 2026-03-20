@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-15 06:11:00+00:00
+ai_modified: 2026-03-19 21:04:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: 'How would you test whether consciousness participates in wavefunct
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-22 02:12:00+00:00
+last_deep_review: 2026-03-19 21:04:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -156,18 +156,3 @@ The Map's [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is directly r
 1. Müller, S., et al. (2021). "Quantum measurement arrow of time and fluctuation relations." *Nature Communications*, 12, 1–8.
 1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61, 4194–4206.
 1. Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*, 215(3), 216–242.
-
-<!-- AI REFINEMENT LOG - 2026-02-22
-Changes made:
-1. Reframed PEAR lab section as cautionary tale: leads with methodological failures instead of results
-1. Foregrounded Chalmers-McQueen Φ prediction as the most testable claim (renamed section header, added "What a negative result would mean" block, distinguished engineering vs conceptual barriers)
-1. Restructured "Why the Difficulty Is Informative" into subsections; removed self-undermining dark matter analogy; added "The Convergence Strategy and Its Limits" subsection that honestly distinguishes experimental disconfirmers from research programmes
-1. Strengthened opening: "should in principle be testable" → "must be testable if it is to count as more than metaphysics"
-1. Updated second paragraph to foreground the Chalmers-McQueen framework as the article's key finding
-1. Softened unsupported claim in Relation to Site Perspective: acknowledged experimental difficulty as weak evidence against the hypothesis rather than claiming it is "not evidence"
-
-Based on pessimistic review (pessimistic-2026-02-22-evening.md).
-Key improvements: testability honesty, PEAR credibility fix, Φ prediction foregrounded as empirical anchor.
-
-This log should be removed after human review.
--->

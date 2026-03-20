@@ -28,7 +28,7 @@ related_articles:
 - '[[mathematical-void]]'
 - '[[language-thought-boundary]]'
 - '[[creativity-void]]'
-- '[[epistemology-of-cognitive-limits]]'
+- '[[meta-epistemology-of-limits]]'
 target_section: voids
 title: 'Research Notes - Voids: The Explanatory Void'
 topics:

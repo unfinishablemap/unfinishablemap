@@ -20,7 +20,7 @@ related_articles:
 - '[[limits-reveal-structure]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[conceptual-impossibility]]'
-- '[[epistemology-of-cognitive-limits]]'
+- '[[meta-epistemology-of-limits]]'
 target_section: voids
 title: 'Research Notes - Voids: The Dissolution Problem'
 topics:

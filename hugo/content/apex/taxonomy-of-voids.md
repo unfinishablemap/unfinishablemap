@@ -16,7 +16,7 @@ apex_sources:
 - voids/tenet-generated-voids
 - voids/whether-real
 - voids/cartography-problem
-- voids/natural-vs-designed-limits
+- voids/meta-epistemology-of-limits
 apex_thesis: The 60+ cognitive voids catalogued by the Map form a structured taxonomy
   that reveals the architecture of consciousness itself, converging on the interface
   where consciousness meets the physical world—a convergence that constitutes evidence
@@ -169,4 +169,4 @@ This synthesis draws from:
 - [Tenet-Generated Voids](/voids/tenet-generated-voids/) — Framework-generated limits as intellectual honesty
 - [Whether the Voids Are Real](/voids/whether-real/) — The meta-question and its formal undecidability
 - [The Cartography Problem](/voids/cartography-problem/) — Second-order incompleteness of the void catalog
-- [Natural vs. Designed Cognitive Limits](/voids/meta-epistemology-of-limits/) — The distinction between evolved and engineered constraints
+- [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — The distinction between evolved and engineered constraints

@@ -17,7 +17,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[whether-real]]'
-- '[[epistemology-of-cognitive-limits]]'
+- '[[meta-epistemology-of-limits]]'
 - '[[topology-of-cognitive-failure]]'
 - '[[evidential-weight-of-voids]]'
 target_section: voids

@@ -24,7 +24,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[natural-vs-designed-limits]]'
+- '[[meta-epistemology-of-limits]]'
 - '[[cognitive-aversion]]'
 - '[[embodiment-cognitive-limits]]'
 - '[[architecture-of-cognitive-closure]]'
@@ -156,7 +156,7 @@ The bootstrapping problem remains: if our philosophical intuitions are fitness-s
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
-- [natural-vs-designed-limits](/voids/meta-epistemology-of-limits/) — Distinguishing evolved from engineered limits
+- [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — Distinguishing evolved from engineered limits
 - [cognitive-aversion](/voids/cognitive-aversion/) — Motivational deflection that steers thought from certain territories
 - [collective-cognitive-limits](/voids/collective-cognitive-limits/) — How groups have limits beyond individuals
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How limitation illuminates architecture

@@ -46,7 +46,7 @@ This framing has been productive — it generated a century of important physics
 
 The disclosure reading begins from a different premise. If reality is [bi-aspectual](/concepts/bi-aspectual-ontology/) — if structure (what physics describes) and actuality (what consciousness provides) are irreducible to each other — then no structural theory could describe the transition from possibility to actuality. The measurement problem is not a failure of quantum mechanics but a *consequence* of doing physics in a bi-aspectual reality.
 
-Physics describes the structural aspect completely. The wavefunction encodes every possibility, assigns every amplitude, determines every interference pattern. Nothing structural is missing. What the wavefunction cannot describe is which possibility becomes actual, because actuality is contributed by the other aspect. The theory reaches its boundary — and discloses that boundary — precisely where it should: at the point where structure meets something structure cannot capture.
+Physics describes the structural aspect completely. The wavefunction encodes every possibility, assigns every amplitude, determines every interference pattern. Nothing structural is missing — as [physical-completeness](/concepts/physical-completeness/) establishes through the no-go theorems, quantum mechanics is structurally exhaustive. What the wavefunction cannot describe is which possibility becomes actual, because actuality is contributed by the other aspect. The theory reaches its boundary — and discloses that boundary — precisely where it should: at the point where structure meets something structure cannot capture.
 
 "Disclosure" here carries its phenomenological weight: *aletheia* (unconcealment), the act of revealing what was previously hidden. The measurement problem unconceals the limit of structural description. It shows that physical theory, however complete within its domain, leaves something out — not because of a gap in the theory but because of a boundary in reality.
 
@@ -104,7 +104,7 @@ None of these is individually decisive. The deficiency reading remains viable �
 
 **[Dualism](/tenets/#dualism)**: The disclosure reading makes the measurement problem evidence *for* dualism rather than merely consistent with it. If physics correctly reaches a boundary beyond which lies consciousness, the boundary is an ontological feature of reality — exactly what dualism claims.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Disclosure explains why the interaction is minimal. Consciousness operates at the boundary physics discloses — within the Born probabilities, not against them. The interaction is invisible from within physics because physics ends where the interaction occurs.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Disclosure explains why the interaction is minimal. Consciousness operates at the boundary physics discloses — within the Born probabilities, [without violating conservation laws](/concepts/conservation-laws-and-mental-causation/). The interaction is invisible from within physics because physics ends where the interaction occurs.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The disclosed boundary is the site of [interaction](/concepts/interactionist-dualism/). Structure presents possibilities; consciousness selects actuality. The disclosure is the point where bidirectional causation occurs.
 

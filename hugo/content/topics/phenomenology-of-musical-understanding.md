@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-03-11 21:35:00+00:00
+ai_modified: 2026-03-20 00:21:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[phenomenal-binding-and-holism]]'
 - '[[cognitive-phenomenology]]'
 - '[[concepts/functionalism]]'
-- '[[consciousness-and-semantic-understanding]]'
+- '[[phenomenology-of-understanding-and-meaning]]'
 - '[[temporal-structure-of-understanding]]'
 - '[[topics/phenomenal-value-realism]]'
 created: 2026-02-18
@@ -22,17 +22,16 @@ description: Musical understanding reveals consciousness as irreducibly temporal
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-21 23:55:00+00:00
+last_deep_review: 2026-03-20 00:21:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[emotion-and-dualism]]'
 - '[[surprise-prediction-error-and-consciousness]]'
-- '[[aesthetic-irreducibility-arguments]]'
 title: The Phenomenology of Musical Understanding
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[aesthetic-dimension-of-consciousness]]'
+- '[[aesthetics-and-consciousness]]'
 ---
 
 Music poses a distinctive challenge for theories of consciousness. When you hear a melody resolve from tension to resolution—when a minor key passage shifts to major, or a dissonant chord finds its tonic—you *understand* something. But what you understand cannot be stated propositionally. The understanding is irreducibly phenomenal: temporal, aesthetic, and emotional in ways that resist translation into any other medium. The Unfinishable Map argues that musical understanding provides a particularly revealing test case for dualism, because it combines temporal phenomenology, aesthetic qualia, and non-propositional meaning in a single experience that materialist accounts struggle to accommodate.
@@ -119,14 +118,12 @@ Musical understanding connects to the Map's framework through several tenets.
 
 ## Further Reading
 
-- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Beauty and aesthetic quality in conscious experience
-- [aesthetic-irreducibility-arguments](/topics/aesthetics-and-consciousness/) — Why beauty resists reduction even where formal properties (harmonic ratios, symmetry) are fully specified
+- [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Beauty, aesthetic quality, and why aesthetic experience resists reduction even where formal properties are fully specified
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present, durée, and temporal binding
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — Valence, felt quality, and non-propositional emotion
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The felt quality of understanding and thought
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — How understanding unfolds temporally
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Intrinsic value in conscious experience
-- [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/) — Phenomenal consciousness and meaning
 - [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — The binding of experience into unified wholes
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — Unified account of five phenomenal meaning modes, including aesthetic meaning through music
 

@@ -28,7 +28,7 @@ related_articles:
 - '[[intrinsic-nature-void]]'
 - '[[scale-void]]'
 - '[[habituation-void]]'
-- '[[natural-vs-designed-limits]]'
+- '[[meta-epistemology-of-limits]]'
 - '[[nomic-void]]'
 - '[[plurality-void]]'
 - '[[explanatory-void]]'

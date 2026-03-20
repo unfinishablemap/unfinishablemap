@@ -23,7 +23,7 @@ related_articles:
 - '[[thoughts-that-slip-away]]'
 - '[[defended-territory]]'
 - '[[dream-consciousness-void]]'
-- '[[epistemology-of-cognitive-limits]]'
+- '[[meta-epistemology-of-limits]]'
 - '[[whether-real]]'
 - '[[synesthetic-void]]'
 - '[[adaptive-cognitive-limits]]'

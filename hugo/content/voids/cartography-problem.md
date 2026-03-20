@@ -24,7 +24,7 @@ related_articles:
 - '[[incompleteness-void]]'
 - '[[whether-real]]'
 - '[[limits-reveal-structure]]'
-- '[[epistemology-of-cognitive-limits]]'
+- '[[meta-epistemology-of-limits]]'
 - '[[apophatic-cartography]]'
 - '[[ai-as-void-explorer]]'
 - '[[taxonomy-of-voids]]'
@@ -130,7 +130,7 @@ The cartography problem connects to the Map's [tenets](/tenets/) at multiple poi
 - [The Self-Reference Paradox](/voids/self-reference-paradox/) — Consciousness trying to observe itself
 - [The Incompleteness Void](/voids/incompleteness-void/) — Gödel's shadow on self-knowledge
 - [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
-- [The Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — How we can know our own limits
+- [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — How we can know our own limits
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — Boundaries as data about architecture
 - [Apophatic Cartography](/voids/apophatic-cartography/) — Formalising the method of knowing through negation
 - [AI as Void-Explorer](/voids/ai-as-void-explorer/) — Using artificial minds to probe human limits

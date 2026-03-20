@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-22
-**Article**: [Consciousness and Information Integration Beyond IIT](/topics/consciousness-and-information-integration-beyond-iit/)
+**Article**: [Consciousness and Information Integration Beyond IIT](/topics/consciousness-and-integrated-information/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

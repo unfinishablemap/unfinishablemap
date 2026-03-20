@@ -27,7 +27,7 @@ topics: []
 - None
 
 ### Medium Issues Found
-- **IIT section lacked cross-link to critique article**: The panpsychism article discusses IIT as "a scientific panpsychism" but didn't point readers to the Map's comprehensive IIT critique ([integrated-information-theory-critique](/topics/integrated-information-theory-critique/)), which details the passivity problem, expander graph problem, and temporal gap. Added inline cross-link and frontmatter reference.
+- **IIT section lacked cross-link to critique article**: The panpsychism article discusses IIT as "a scientific panpsychism" but didn't point readers to the Map's comprehensive IIT critique ([integrated-information-theory-critique](/topics/consciousness-and-integrated-information/)), which details the passivity problem, expander graph problem, and temporal gap. Added inline cross-link and frontmatter reference.
 
 ### Counterarguments Considered
 - **Eliminativist challenge**: Marked as bedrock disagreement in previous reviews—not re-flagged
@@ -57,11 +57,11 @@ Verified consistency between panpsychism.md and integrated-information-theory-cr
 - Comprehensive existing cross-links (consciousness-in-simple-organisms, analytic idealism, Russellian monism, etc.)
 
 ### Enhancements Made
-1. **Added inline cross-link to IIT critique**: In the IIT section, pointing to [Why Integrated Information Theory Falls Short](/topics/integrated-information-theory-critique/)
-2. **Added to frontmatter related_articles**: [integrated-information-theory-critique](/topics/integrated-information-theory-critique/)
+1. **Added inline cross-link to IIT critique**: In the IIT section, pointing to [Why Integrated Information Theory Falls Short](/topics/consciousness-and-integrated-information/)
+2. **Added to frontmatter related_articles**: [integrated-information-theory-critique](/topics/consciousness-and-integrated-information/)
 
 ### Cross-links Added
-- [integrated-information-theory-critique](/topics/integrated-information-theory-critique/) (inline and frontmatter)
+- [integrated-information-theory-critique](/topics/consciousness-and-integrated-information/) (inline and frontmatter)
 
 ## Word Count
 

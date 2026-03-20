@@ -67,7 +67,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [Convergence of the Void Catalogue](/voids/convergence-of-the-void-catalogue/) — How independently catalogued voids converge into five families
 - [The Cartography Problem](/voids/cartography-problem/) — Whether a map of cognitive voids can map its own incompleteness
 - [The Dissolution Problem](/voids/dissolution-problem/) — Why we cannot predict which cognitive limits will prove permanent
-- [The Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — How we can know our cognitive limits from within a limited mind
+- [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — How we can know our cognitive limits from within a limited mind
 - [The Evidential Weight of Voids](/voids/evidential-weight-of-voids/) — Whether the pattern of cognitive voids constitutes an argument for dualism
 - [The Void as Ground of Meaning](/voids/void-as-ground-of-meaning/) — Why cognitive limits are preconditions for meaning, not merely obstacles
 
@@ -80,6 +80,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Emergence Void](/voids/emergence-void/) — How arrangement produces novelty—the gap at every level transition
 - [The Other Minds Void](/voids/other-minds-void/) — Access to consciousness beyond our own
 - [The Intersubjective Void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared
+- [The Commensurability Void](/voids/commensurability-void/) — Why phenomenal experiences across different architectures cannot always be compared
 - [The Synesthetic Void](/voids/synesthetic-void/) — Phenomenal dimensions closed to most minds within our own species
 - [The Affective Void](/voids/affective-void/) — Emotions we cannot feel—affects beyond human reach
 - [The Emotional Epistemology Void](/voids/emotional-epistemology-void/) — Whether emotions constitute genuine knowledge about reality
@@ -163,7 +164,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 
 - [Evolved Cognitive Limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for shared limits
 - [Collective Cognitive Limits](/voids/collective-cognitive-limits/) — What groups cannot think
-- [Natural vs. Designed Cognitive Limits](/voids/meta-epistemology-of-limits/) — Evolved versus engineered constraints
+- [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — Evolved versus engineered constraints
 - [Tenet-Generated Voids](/voids/tenet-generated-voids/) — Limits implied by the Map's commitments
 - [The Historical Consciousness Void](/voids/historical-consciousness-void/) — Whether consciousness itself has changed over historical time
 

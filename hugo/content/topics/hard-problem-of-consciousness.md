@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-03-19 16:51:00+00:00
+ai_modified: 2026-03-19 23:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -62,7 +62,7 @@ related_articles:
 - '[[mysterianism]]'
 - '[[concepts/materialism]]'
 - '[[integrated-information-theory]]'
-- '[[integrated-information-theory-critique]]'
+- '[[consciousness-and-integrated-information]]'
 - '[[quantum-consciousness]]'
 - '[[chalmers-psychophysical-laws-2026-01-17]]'
 - '[[origin-of-consciousness]]'
@@ -179,7 +179,7 @@ Block's (1978) China brain illustrates: the entire population implementing a bra
 
 ### Integrated Information Theory
 
-[Integrated Information Theory (IIT)](/concepts/integrated-information-theory/) attempts to dissolve the hard problem by *identifying* consciousness with integrated information (measured by Φ). Critics argue this merely relocates the mystery: "why is integrated information identical to experience?" The [Map's critique](/topics/integrated-information-theory-critique/) adds that identity makes consciousness passive—facing the same self-undermining objection as epiphenomenalism—and that IIT's instantaneous Φ cannot capture consciousness's temporal extension.
+[Integrated Information Theory (IIT)](/concepts/integrated-information-theory/) attempts to dissolve the hard problem by *identifying* consciousness with integrated information (measured by Φ). Critics argue this merely relocates the mystery: "why is integrated information identical to experience?" The [Map's critique](/topics/consciousness-and-integrated-information/) adds that identity makes consciousness passive—facing the same self-undermining objection as epiphenomenalism—and that IIT's instantaneous Φ cannot capture consciousness's temporal extension.
 
 ### Chalmers' Psychophysical Framework
 

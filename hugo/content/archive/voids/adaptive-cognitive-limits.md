@@ -23,7 +23,7 @@ modified: *id001
 original_path: /voids/adaptive-cognitive-limits/
 related_articles:
 - '[[voids]]'
-- '[[natural-vs-designed-limits]]'
+- '[[meta-epistemology-of-limits]]'
 - '[[cognitive-aversion]]'
 - '[[convergent-cognitive-limits]]'
 - '[[embodiment-cognitive-limits]]'
@@ -92,7 +92,7 @@ The bootstrapping problem remains: if our philosophical intuitions are fitness-s
 
 ## Further Reading
 
-- [natural-vs-designed-limits](/voids/meta-epistemology-of-limits/)
+- [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
 - [cognitive-aversion](/voids/cognitive-aversion/)
 - [convergent-cognitive-limits](/voids/evolved-cognitive-limits/)
 - [limits-reveal-structure](/voids/limits-reveal-structure/)

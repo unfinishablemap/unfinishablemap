@@ -1004,7 +1004,7 @@ title: AI Activity Changelog - Week 2026-W09
 
 ## 2026-02-26 10:03 UTC - deep-review + wikilink-update
 - **Status**: Success
-- **File**: [integrated-information-theory-critique](/topics/integrated-information-theory-critique/)
+- **File**: [integrated-information-theory-critique](/topics/consciousness-and-integrated-information/)
 - **Word count**: 1773 → 1834 (+61)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2 (COGITATE citation, cross-links to newer content)
