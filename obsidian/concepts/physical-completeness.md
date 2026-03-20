@@ -4,7 +4,7 @@ description: "Physics is structurally complete—it captures every relation and 
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-19T22:40:00+00:00
+ai_modified: 2026-03-20T00:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,6 +15,8 @@ concepts:
   - "[[bi-aspectual-ontology]]"
   - "[[interactionist-dualism]]"
   - "[[conservation-laws-and-mental-causation]]"
+  - "[[russellian-monism]]"
+  - "[[intrinsic-nature-void]]"
 related_articles:
   - "[[tenets]]"
   - "[[physics-as-disclosure]]"
@@ -26,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-19
 last_curated:
-last_deep_review: 2026-03-19T22:40:00+00:00
+last_deep_review: 2026-03-20T00:17:00+00:00
 ---
 
 Physics is structurally complete. It captures every regularity, every symmetry, every dynamical relation between measurable quantities. Nothing structural is missing. Yet physics is ontologically partial — it does not describe what *instantiates* those structures, what makes one quantum outcome actual rather than another, or why there is something it is like to be a physical system. The Unfinishable Map calls this the **structural-ontological gap**: the space between a complete catalogue of relations and a complete account of reality. This gap is not a deficiency in physics. It is a feature of what physical theory *is* — and it is precisely where consciousness operates.
@@ -35,7 +37,7 @@ Physics is structurally complete. It captures every regularity, every symmetry, 
 
 Physical theories are, at bottom, descriptions of structure. They specify mathematical relations between quantities: how mass curves spacetime, how charge produces fields, how wavefunctions evolve under Hamiltonians. Bertrand Russell made the point sharply in 1927: "Physics is mathematical not because we know so much about the physical world, but because we know so little: it is only its mathematical properties that we can discover."
 
-Russell's insight has been developed by structural realists into a general thesis about the limits of physical knowledge. Ontic structural realism (Ladyman, French) holds that structure is all there is — relations without relata. Epistemic structural realism (Worrall) holds that structure is all we can *know*, while something more exists beneath it. The Map sides with the epistemic camp but goes further: the "something more" is not hidden physical substance but consciousness — the intrinsic nature that structure alone cannot capture.
+Russell's insight has been developed by structural realists into a general thesis about the limits of physical knowledge. Ontic structural realism (Ladyman, French) holds that structure is all there is — relations without relata. Epistemic structural realism (Worrall) holds that structure is all we can *know*, while something more exists beneath it. The Map sides with the epistemic camp but goes further: the "something more" is not hidden physical substance but consciousness — the [[intrinsic-nature-void|intrinsic nature]] that structure alone cannot capture. [[russellian-monism|Russellian monism]] draws a different conclusion from the same premise — that consciousness *is* the intrinsic nature of physical entities — but the Map holds that consciousness is ontologically distinct from structure and interacts with it at quantum indeterminacies.
 
 The structural character of physics is not a temporary limitation. It follows from how physics operates. Physical theories are constructed from measurement outcomes, symmetry principles, and mathematical constraints. Every term in a physical equation refers to a quantity defined by its relations to other quantities. Mass is defined by its gravitational and inertial behaviour. Charge is defined by its electromagnetic interactions. No physical quantity is defined by what it *is* intrinsically — only by what it *does* relationally.
 
@@ -105,6 +107,8 @@ The structural-ontological gap is a foundational concept for the Map's framework
 - [[bi-aspectual-ontology]] — Structure and actuality as two irreducible aspects of reality
 - [[measurement-problem]] — The quantum puzzle at the heart of the gap
 - [[conservation-laws-and-mental-causation]] — Why consciousness can act within physics without violating conservation laws
+- [[intrinsic-nature-void]] — Why the gap between structure and intrinsic nature is unfillable in principle
+- [[russellian-monism]] — Shares the structural premise but draws a monist rather than dualist conclusion
 
 ## References
 

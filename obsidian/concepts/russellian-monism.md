@@ -43,7 +43,7 @@ The Unfinishable Map shares Russellian monism's insight that physics is silent o
 
 Bertrand Russell (1927) and Arthur Eddington (1928) observed that physics describes only what things *do*—their causal and relational properties—not what they *are* intrinsically. Mass is defined by gravitational and inertial behavior. Charge is defined by electromagnetic interactions. No physical description tells us what mass or charge *is* in itself, only how it relates to other properties.
 
-Eddington put it memorably: physics has become "a world of shadows"—entirely abstract, capturing relations without revealing the concrete reality those relations describe. Physics gives us equations relating symbols; it doesn't reveal what those symbols represent.
+Eddington put it memorably: physics has become "a world of shadows"—entirely abstract, capturing relations without revealing the concrete reality those relations describe. Physics gives us equations relating symbols; it doesn't reveal what those symbols represent. The Map's [[physical-completeness]] article develops this further: the no-go theorems establish that physics is *structurally exhaustive* — complete as a description of relations — while leaving an ontological gap where consciousness operates.
 
 This observation echoes Kant's distinction between phenomena (the world as it appears, captured in structural relations) and noumena (things as they are in themselves). Physics gives us phenomena exhaustively; noumena remain structurally inaccessible. The [[intrinsic-nature-void]] explores why this gap may be unfillable in principle.
 

@@ -177,7 +177,7 @@ The Map's resolution combines [[interface-locality]] with [[prebiotic-collapse|o
 
 The measurement problem reveals a genuine gap in physical explanation—where [[mental-causation]] becomes *possible*, though the gap alone does not establish that consciousness fills it.
 
-[[Causal-closure|Causal closure]] claims every physical event has a sufficient physical cause. At quantum measurement, this fails: the Born rule yields *probabilities*, not determinate causes—predicting ensemble statistics without explaining why *this* measurement yielded *this* outcome.
+[[Causal-closure|Causal closure]] claims every physical event has a sufficient physical cause. At quantum measurement, this fails: the Born rule yields *probabilities*, not determinate causes—predicting ensemble statistics without explaining why *this* measurement yielded *this* outcome. [[physical-completeness|Physical completeness]] clarifies the distinction: physics is *structurally* complete (no hidden variables are missing) yet *ontologically* partial (the selection of actuality from possibility falls outside structural description).
 
 This creates the "causal closure loophole": physics fixes the *distribution* of outcomes but leaves the *selection* of individual outcomes unexplained.
 

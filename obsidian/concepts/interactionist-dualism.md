@@ -187,7 +187,7 @@ For comprehensive treatment, see [[objections-to-interactionism]]. Key responses
 
 Interactionist dualism is not just *compatible* with the Map's tenets—it *is* the Map's position. The [[tenets#^dualism|Dualism]] tenet affirms irreducibility; the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet affirms causal efficacy; the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies where and how.
 
-This framework avoids classical objections: no energy injection (consciousness selects among quantum possibilities); physics is incomplete at quantum indeterminacies (room for mental causation); quantum mechanics identifies specific interface points.
+This framework avoids classical objections: no energy injection (consciousness selects among quantum possibilities); physics is [[physical-completeness|structurally complete yet ontologically partial]] at quantum indeterminacies (room for mental causation); quantum mechanics identifies specific interface points.
 
 ### Empirical Compatibility
 
