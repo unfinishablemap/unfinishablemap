@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 13:03 UTC - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [[topics/quantum-biology-evidence-in-neural-systems]]
+- **Word count**: 2113 → 2113 (+0, content unchanged — orphan integration focus)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphaned content with no inbound links)
+- **Enhancements made**: 9 cross-references added from quantum-biology-and-the-consciousness-debate, quantum-biology-neural-experimental-turn, quantum-consciousness, quantum-neural-mechanisms-and-coherence, decoherence, comparing-quantum-consciousness-mechanisms, anaesthesia-and-the-consciousness-interface, entanglement-binding-hypothesis, quantum-biology
+- **Output**: [[reviews/deep-review-2026-03-20-quantum-biology-evidence-in-neural-systems]]
+
 ## 2026-03-20 12:56 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/quantum-biology-evidence-in-neural-systems]]

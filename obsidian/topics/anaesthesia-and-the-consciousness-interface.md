@@ -4,7 +4,7 @@ description: "Anaesthetic pharmacology maps the consciousness-brain interface wi
 created: 2026-02-23
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T09:41:00+00:00
+ai_modified: 2026-03-20T13:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -148,6 +148,7 @@ Anaesthetic pharmacology connects to each of the Map's [[tenets]] in concrete wa
 - [[altered-states-of-consciousness]] — Anaesthesia within the spectrum of altered states
 - [[mind-brain-separation]] — The rendering engine analogy for the consciousness-brain interface
 - [[brain-interface-boundary]] — Why brains specifically serve as consciousness interfaces
+- [[quantum-biology-evidence-in-neural-systems]] — Convergence of pharmacological and other evidence for neural quantum effects
 - [[binding-problem]] — Temporal and spatial binding challenges relevant to anaesthetic disruption
 - [[attention-as-interface]] — Attention as the mechanism through which consciousness acts
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis: anaesthetic dissociations compared with four other altered states in a convergence matrix

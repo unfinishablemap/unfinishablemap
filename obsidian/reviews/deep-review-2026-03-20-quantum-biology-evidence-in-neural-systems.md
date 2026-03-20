@@ -3,7 +3,7 @@ title: "Deep Review - Quantum Biology Evidence in Neural Systems"
 created: 2026-03-20
 modified: 2026-03-20
 human_modified: null
-ai_modified: 2026-03-20T12:56:00+00:00
+ai_modified: 2026-03-20T13:03:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -17,23 +17,22 @@ last_curated: null
 
 **Date**: 2026-03-20
 **Article**: [[quantum-biology-evidence-in-neural-systems|Quantum Biology Evidence in Neural Systems]]
-**Previous review**: Never
+**Previous review**: [[deep-review-2026-03-20-quantum-biology-evidence-in-neural-systems|2026-03-20 (earlier same day)]]
+
+## Context
+
+Second review pass on the same day. The article was created and first reviewed earlier today (12:56 UTC). This pass was triggered by orphan detection — the article had no inbound links from content articles. Focus: cross-referencing to integrate the article into the site navigation.
 
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- None
+- None. Article was reviewed earlier today with no critical issues.
 
 ### Medium Issues Found
-- **Quantum Zeno overstatement** (biological precedent section): Article claimed bird magnetoreception uses "the same mechanism Stapp proposes"—conflating two different applications of the Zeno effect. **Resolution**: Rewrote to distinguish the general principle from Stapp's specific application, explicitly noting the biological precedent does not validate Stapp's proposal.
-- **"No classical mechanism" overstatement** (pharmacological section): Claimed no classical mechanism exists for epothilone B results. **Resolution**: Softened to "no classical mechanism has yet been published, though one cannot be ruled out."
-- **Uncited 2025 computational study** (decoherence section): Referenced "a 2025 computational study" without citation. **Resolution**: Generalized to "subsequent computational work" to avoid a phantom citation.
-- **Missing No Many Worlds tenet** (Relation to Site Perspective): Article addressed four of five tenets but omitted the directly relevant No Many Worlds tenet. **Resolution**: Added paragraph explaining why collapse interpretations are necessary for the evidence to have significance for consciousness.
+- **Orphan status** (no inbound links): The article had zero inbound links from content articles despite being a synthesis piece that multiple related articles should reference. **Resolution**: Added cross-references from 9 related articles (see below).
 
 ### Counterarguments Considered
-- Convergence lines may not converge on the same conclusion (each points somewhere different)—article's convergence table already addresses this honestly
-- Quantum effects in neurons could be epiphenomenal—already addressed in "What Would Break the Convergence"
-- MWI renders consciousness-at-collapse incoherent—now addressed via new No Many Worlds paragraph
+- All counterarguments were addressed in the earlier same-day review. No new issues identified.
 
 ## Optimistic Analysis Summary
 
@@ -44,22 +43,32 @@ last_curated: null
 - Front-loaded opening paragraph
 - Calibrated confidence language throughout
 - Directionality argument (evidence trajectory strengthens over time)
+- All five tenets addressed in Relation to Site Perspective
 
 ### Enhancements Made
-- Clarified quantum Zeno effect discussion to distinguish general principle from Stapp's application
-- Added No Many Worlds tenet connection with causal closure cross-link
-- Softened anaesthetic mechanism claim to appropriate confidence level
-- Removed uncited study reference
+- Integrated the article into the site through 9 cross-references from related articles
 
-### Cross-links Added
-- [[causal-closure]] — in No Many Worlds tenet paragraph and Further Reading
-- [[terminal-lucidity-and-filter-transmission-theory]] — complementary evidence stream in Further Reading
+### Cross-links Added (inbound, from other articles)
+
+**Inline contextual links** (most valuable for integration):
+1. [[quantum-biology-and-the-consciousness-debate]] — in "What Remains Uncertain" section, inline mention of cumulative convergence case
+2. [[quantum-biology-neural-experimental-turn]] — in "What the Evidence Shows and Does Not Show" section, forward reference to convergence analysis
+3. [[quantum-consciousness]] — after "Recent evidence" list in Orch OR section, contextualising findings as part of broader convergence
+4. [[quantum-neural-mechanisms-and-coherence]] — in "What the Evidence Shows Together" section, linking to convergence analysis
+5. [[decoherence]] — in "Quantum Biology: Biology Beating Decoherence" section, linking to neural-specific convergence
+6. [[quantum-biology]] — in "What Remains Uncertain" section under Brain Quantum Effects
+
+**Further Reading links:**
+7. [[comparing-quantum-consciousness-mechanisms]] — added to Further Reading
+8. [[anaesthesia-and-the-consciousness-interface]] — added to Further Reading
+9. [[entanglement-binding-hypothesis]] — added to Further Reading
 
 ## Remaining Items
 
-None. All identified issues were addressed in this review.
+None. The article is now well-integrated with 9 inbound links from content articles spanning topics and concepts.
 
 ## Stability Notes
 
+- This article reached stability in one review pass (earlier today). The second pass added no content changes, only cross-references.
 - The six adversarial personas will always find the leap from "quantum effects in neurons" to "consciousness acts through quantum mechanics" unsatisfying. This is the article's acknowledged limitation (it claims convergent evidence for a precondition, not proof of consciousness). This is a bedrock philosophical disagreement, not a flaw.
 - The convergence argument's strength depends on the independence of evidence lines. Future reviews should check whether new citations create dependencies between lines (e.g., if the same research group produces findings in multiple categories).

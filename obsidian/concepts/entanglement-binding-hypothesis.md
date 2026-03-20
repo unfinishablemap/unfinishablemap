@@ -4,7 +4,7 @@ description: "Quantum entanglement may be the only physical mechanism that provi
 created: 2026-03-01
 modified: 2026-03-01
 human_modified:
-ai_modified: 2026-03-03T15:41:00+00:00
+ai_modified: 2026-03-20T13:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -108,6 +108,7 @@ The entanglement binding hypothesis aligns with several of the Map's [[tenets]].
 - [[unity-of-consciousness]] — Phenomenal unity and its dimensions
 - [[quantum-consciousness]] — Orch OR, Stapp, and other quantum consciousness mechanisms
 - [[combination-problem]] — Panpsychism's version of the unity challenge
+- [[quantum-biology-evidence-in-neural-systems]] — How four independent evidence lines converge on neural quantum effects
 - [[decoherence]] — The standard objection to quantum effects in biological systems
 
 ## References

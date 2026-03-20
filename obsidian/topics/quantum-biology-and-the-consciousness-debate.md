@@ -4,7 +4,7 @@ description: "Why the discovery that warm biology exploits quantum effects shift
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T13:03:00+00:00
 draft: false
 last_deep_review: 2026-02-26T08:23:00+00:00
 topics:
@@ -89,7 +89,7 @@ The Map distinguishes what quantum biology has established from what remains hyp
 - Which theory (if any) correctly describes the consciousness-quantum interface
 - Whether the relevant timescales align with neural processing
 
-The 2024-2025 experimental wave—microtubule super-radiance, anesthetic-quantum correlations, cryptochrome Zeno effects—has strengthened circumstantial evidence. But no experiment has directly demonstrated that consciousness affects quantum outcomes, or that disrupting neural quantum effects selectively impairs consciousness while leaving other functions intact.
+The 2024-2025 experimental wave—microtubule super-radiance, anesthetic-quantum correlations, cryptochrome Zeno effects—has strengthened circumstantial evidence. The [[quantum-biology-evidence-in-neural-systems|cumulative case for quantum effects in neural systems]] rests on convergence across independent lines—biological precedent, pharmacological correlation, direct measurement, and computational modelling—rather than any single finding. But no experiment has directly demonstrated that consciousness affects quantum outcomes, or that disrupting neural quantum effects selectively impairs consciousness while leaving other functions intact.
 
 ## The Decoherence Debate Today
 
@@ -135,6 +135,7 @@ Quantum biology connects to all five of the Map's [[tenets]]:
 
 - [[quantum-biology]] — Established quantum effects in living systems
 - [[quantum-neural-mechanisms-and-coherence]] — Five proposed mechanisms for neural quantum effects
+- [[quantum-biology-evidence-in-neural-systems]] — Convergence analysis across four independent evidence lines
 - [[neural-implementation-specifics]] — Evaluating neural mechanism evidence and crucial experiments
 - [[decoherence]] — The decoherence objection and why it doesn't solve the measurement problem
 - [[quantum-consciousness]] — Quantum approaches to consciousness including Orch OR

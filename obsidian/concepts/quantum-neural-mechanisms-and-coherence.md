@@ -4,7 +4,7 @@ description: "Five neural quantum mechanisms, four coherence protection strategi
 created: 2026-01-18
 modified: 2026-02-18
 human_modified: null
-ai_modified: 2026-03-20T01:01:00+00:00
+ai_modified: 2026-03-20T13:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -199,7 +199,7 @@ Escolà-Gascón (2025) tested 106 monozygotic twin pairs on implicit learning ta
 
 ### What the Evidence Shows Together
 
-None of this proves quantum consciousness is correct, but it shifts the burden. The quantum hypothesis made specific predictions—microtubule involvement in anaesthesia, measurable entanglement during awareness, viable coherence times—and those predictions held up. Wiest (2025) argues that consciousness arising from quantum entanglement gains genuine causal power—not [[concepts/epiphenomenalism|epiphenomenal]] but physically efficacious.
+None of this proves quantum consciousness is correct, but it shifts the burden. The quantum hypothesis made specific predictions—microtubule involvement in anaesthesia, measurable entanglement during awareness, viable coherence times—and those predictions held up. Wiest (2025) argues that consciousness arising from quantum entanglement gains genuine causal power—not [[concepts/epiphenomenalism|epiphenomenal]] but physically efficacious. The [[quantum-biology-evidence-in-neural-systems|convergence analysis]] examines how these independent evidence lines—biological precedent, pharmacological correlation, direct measurement, and computational modelling—collectively strengthen the case beyond what any single line would warrant.
 
 ## The Illusionist Challenge
 
@@ -280,6 +280,7 @@ The assumption that warm biology must be classical turned out false. [[quantum-b
 - [[amplification-mechanisms-consciousness-physics]] — Six mechanisms bridging quantum effects to macroscopic neural outcomes
 - [[topics/comparing-quantum-consciousness-mechanisms]] — Side-by-side comparison of Orch OR, QBIT, Stapp, Fisher, and others
 - [[topics/empirical-evidence-for-consciousness-selecting]] — The experimental case for consciousness selecting among quantum outcomes
+- [[quantum-biology-evidence-in-neural-systems]] — How four independent evidence lines converge on neural quantum effects
 - [[agent-causation]] — Consciousness as cause at the quantum level
 - [[consciousness-physics-interface-formalism]] — The five mathematical constraints any consciousness-physics coupling must satisfy
 - [[coupling-modes]] — Basis, timing, and probability control as coupling mechanisms

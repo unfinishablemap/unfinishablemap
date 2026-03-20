@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate quantum-biology-evidence-in-neural-systems.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Created 2026-03-20 via expand-topic from quantum biology research. Add cross-references from comparing-quantum-consciousness-mechanisms.md, brain-specialness-boundary.md, quantum-consciousness.md, amplification-mechanisms-consciousness-physics.md, and related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-20
-
 ### P2: Integrate measurement-problem-as-hard-problem.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1016,6 +1009,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Integrate quantum-biology-evidence-in-neural-systems.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-20 via expand-topic from quantum biology research. Add cross-references from comparing-quantum-consciousness-mechanisms.md, brain-specialness-boundary.md, quantum-consciousness.md, amplification-mechanisms-consciousness-physics.md, and related articles.
+- **Output**: obsidian/topics/quantum-biology-evidence-in-neural-systems.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-20: Integrate terminal-lucidity-and-filter-transmission-theory.md into site navigation
 - **Type**: integrate-orphan

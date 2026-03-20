@@ -4,7 +4,7 @@ description: "Head-to-head evaluation of Orch OR, Stapp's Zeno model, Fisher's n
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T13:03:00+00:00
 last_deep_review: 2026-03-19T22:47:00+00:00
 draft: false
 topics:
@@ -155,6 +155,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 - [[philosophical-stakes-of-spontaneous-collapse]] — Why the choice between collapse mechanisms matters philosophically
 - [[quantum-neural-mechanisms-and-coherence]] — Five neural quantum mechanisms with evidence
 - [[quantum-biology-and-the-consciousness-debate]] — Why quantum biology shifts the burden of proof
+- [[quantum-biology-evidence-in-neural-systems]] — Convergence of biological, pharmacological, measurement, and computational evidence
 - [[decoherence]] — The decoherence challenge in detail
 - [[quantum-neural-timing-constraints]] — Decoherence and timing considerations for neural quantum effects
 - [[neural-implementation-specifics]] — Detailed evidence hierarchy for each proposed mechanism

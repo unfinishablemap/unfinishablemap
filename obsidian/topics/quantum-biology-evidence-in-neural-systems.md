@@ -4,7 +4,7 @@ description: "Assessing the cumulative evidence for quantum effects in neural ti
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T12:56:00+00:00
+ai_modified: 2026-03-20T13:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review: 2026-03-20T12:56:00+00:00
+last_deep_review: 2026-03-20T13:03:00+00:00
 ---
 
 The evidence for quantum effects in neural systems does not rest on any single experiment. It rests on convergence: established quantum biology in non-neural systems, pharmacological correlations between quantum disruption and consciousness loss, direct measurements of quantum phenomena in neural components, and computational models that increasingly require quantum dynamics. The Unfinishable Map tracks this evidence not because any line is individually decisive, but because independent lines pointing in the same direction constitute a cumulative case that categorical dismissal can no longer sustain.

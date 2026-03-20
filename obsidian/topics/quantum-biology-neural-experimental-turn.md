@@ -4,7 +4,7 @@ description: "How 2025-2026 experimental evidence—anesthetic-microtubule quant
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T07:29:00+00:00
+ai_modified: 2026-03-20T13:03:00+00:00
 last_deep_review: 2026-03-20T07:29:00+00:00
 draft: false
 topics:
@@ -110,7 +110,7 @@ The 2025-2026 landscape can be summarised by sorting findings into evidence tier
 - That the twin entanglement EEG findings reflect genuine biological quantum effects
 - That disrupting neural quantum effects selectively impairs consciousness while leaving other functions intact
 
-The gap between observed effects and the theoretical frameworks built on them defines the field's research programme for the coming years. NV-diamond quantum sensors may bridge several of these gaps by enabling direct measurement of quantum effects in living neural tissue.
+The gap between observed effects and the theoretical frameworks built on them defines the field's research programme for the coming years. NV-diamond quantum sensors may bridge several of these gaps by enabling direct measurement of quantum effects in living neural tissue. For how these evidence lines—biological precedent, pharmacological correlation, direct measurement, and computational modelling—converge into a cumulative case, see [[quantum-biology-evidence-in-neural-systems|the convergence analysis]].
 
 ## Relation to Site Perspective
 
@@ -128,6 +128,7 @@ The 2025-2026 experimental developments connect to the Map's [[tenets]] at multi
 
 ## Further Reading
 
+- [[quantum-biology-evidence-in-neural-systems]] — Convergence analysis across four independent evidence lines
 - [[quantum-biology-and-the-consciousness-debate]] — Overview of quantum biology's relevance to consciousness
 - [[quantum-biology]] — Established quantum effects in living systems
 - [[quantum-neural-mechanisms-and-coherence]] — Five proposed mechanisms for neural quantum effects
