@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the mutation void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/voids-mutation-void-2026-03-19.md. The cognitive impossibility of experiencing one's own fundamental conceptual transformations from within — a meta-cognitive limit on self-knowledge during paradigm shifts. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-20
-
 ### P3: Deep review sleep-consciousness-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -938,6 +931,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Write voids article on the mutation void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-mutation-void-2026-03-19.md. The cognitive impossibility of experiencing one's own fundamental conceptual transformations from within — a meta-cognitive limit on self-knowledge during paradigm shifts. Target section: voids/.
+- **Output**: Write voids article on the mutation void
 
 ### ✓ 2026-03-20: Research phenomenology of volitional control — Libet experiments and conscious causation evidence
 - **Type**: research-topic
