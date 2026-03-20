@@ -4,15 +4,15 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-19T13:25:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
 concepts:
-  - "[[psychophysical-coupling]]"
+  - "[[psychophysical-laws]]"
   - "[[psychophysical-laws-bridging-mind-and-matter]]"
-  - "[[selection-laws]]"
+  - "[[psychophysical-laws]]"
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"
   - "[[concepts/epiphenomenalism]]"
@@ -22,7 +22,7 @@ concepts:
   - "[[downward-causation]]"
   - "[[reductionism]]"
   - "[[illusionism]]"
-  - "[[interface-locality]]"
+  - "[[brain-interface-boundary]]"
   - "[[concepts/many-worlds]]"
   - "[[pairing-problem]]"
   - "[[decoherence]]"
@@ -117,7 +117,7 @@ If non-physical consciousness moves matter, doesn't energy appear from nowhere? 
 
 ### The Specification Challenge
 
-Even granting the quantum opening, *which* phenomenal properties map to *which* physical selections? The [[psychophysical-laws-bridging-mind-and-matter]] provides the conceptual structure: Chalmers distinguished *supervenience laws* from what the Map calls *[[selection-laws|selection laws]]* — laws specifying how consciousness participates in determining physical outcomes.
+Even granting the quantum opening, *which* phenomenal properties map to *which* physical selections? The [[psychophysical-laws-bridging-mind-and-matter]] provides the conceptual structure: Chalmers distinguished *supervenience laws* from what the Map calls *[[psychophysical-laws|selection laws]]* — laws specifying how consciousness participates in determining physical outcomes.
 
 The [[psychophysical-laws]] article surveys five candidate mechanisms, of which only two meet basic adequacy standards: attention → observation rate (Stapp) and intention → probability weighting (Eccles). These operate through different [[coupling-modes]] with distinct implications for detectability. The related [[bandwidth-problem-mental-causation|bandwidth problem]] — whether the mind-body channel carries enough information — is resolved by [[bandwidth-of-consciousness|hierarchical selection]]: consciousness selects at policy level while unconscious systems supply fine-grained detail.
 
@@ -135,7 +135,7 @@ Whitehead's process philosophy offers a complementary reframing: "actual occasio
 
 ### The Interface Question
 
-If consciousness causes physical effects, why only in *this* brain? The [[pairing-problem|pairing problem]] asks what connects a particular mind to a particular body. The Map's response: [[interface-locality]] constrains mental causation to neural systems already integrated into the subject's control loop — consciousness can only influence quantum systems it can "observe" through the [[attention-as-interface|attention mechanism]].
+If consciousness causes physical effects, why only in *this* brain? The [[pairing-problem|pairing problem]] asks what connects a particular mind to a particular body. The Map's response: [[brain-interface-boundary]] constrains mental causation to neural systems already integrated into the subject's control loop — consciousness can only influence quantum systems it can "observe" through the [[attention-as-interface|attention mechanism]].
 
 ## The Self-Stultification Argument
 
@@ -151,7 +151,7 @@ If mental states cause nothing, then your beliefs about consciousness aren't cau
 
 ### The Illusionist Response
 
-[[Illusionism]] attempts to sidestep this argument. Frankish introduces *quasi-phenomenal properties*: functional states that represent themselves as having phenomenal character without possessing it. To "seem" to have phenomenal consciousness is just to be in a state that disposes one to judge and react *as if* one has phenomenal properties.
+[[illusionism]] attempts to sidestep this argument. Frankish introduces *quasi-phenomenal properties*: functional states that represent themselves as having phenomenal character without possessing it. To "seem" to have phenomenal consciousness is just to be in a state that disposes one to judge and react *as if* one has phenomenal properties.
 
 The Map's concern is structural. Even granting functional seeming, the illusionist faces a dilemma: if functional seeming retains any experiential dimension, the regress reasserts itself; if it eliminates experiential character entirely, it no longer explains why phenomenal consciousness strikes us as overwhelmingly real. The functional story explains why we produce certain *reports*, but reports are not what makes the hard problem hard. For the self-stultification argument specifically: the illusionist's position is produced by quasi-phenomenal states that, by hypothesis, misrepresent their own nature — undermining the epistemic basis for the position.
 
@@ -190,7 +190,7 @@ Mental causation, as defended here, is falsifiable:
 - [[mental-imagery-causal-role-of-consciousness]] — Mental imagery as a test case for consciousness's causal efficacy
 - [[evolutionary-case-for-mental-causation]] — The evolutionary argument for consciousness's causal effects
 - [[psychophysical-laws-bridging-mind-and-matter]] — Framework requiring selection laws for mental causation
-- [[selection-laws]] — How mental states select physical outcomes
+- [[psychophysical-laws]] — How mental states select physical outcomes
 - [[psychophysical-laws]] — Candidate coupling mechanisms
 - [[coupling-modes]] — Taxonomy: basis, timing, or probability control
 - [[causal-delegation]] — Mechanism by which physical states hand off causal work to experiences
@@ -213,7 +213,7 @@ Mental causation, as defended here, is falsifiable:
 - [[content-specificity-of-mental-causation]] — Meaning determines which physical effect occurs
 - [[quantum-consciousness]] — How consciousness interfaces with physics
 - [[decoherence]] — The physics challenge and why it doesn't close the quantum opening
-- [[interface-locality]] — Why consciousness affects only its own brain
+- [[brain-interface-boundary]] — Why consciousness affects only its own brain
 - [[attention-as-interface]] — How attention implements the consciousness-physics interface
 - [[mind-matter-interface]] — The unified two-layer architecture integrating filter theory and quantum selection
 

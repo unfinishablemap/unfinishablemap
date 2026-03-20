@@ -4,7 +4,7 @@ description: "Do brains decide before we're aware? The readiness potential may b
 created: 2026-01-14
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-03-06T17:38:00+00:00
+ 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-03-06T17:38:00+00:00
 draft: false
 topics:
@@ -128,7 +128,7 @@ Three responses:
 
 ## The Illusionist Response
 
-[[Illusionism]]—the view that phenomenal consciousness is an illusion—interprets Libet differently. On this view, the experiments show exactly what we should expect: the brain constructs the *appearance* of decision-making after the fact. We don't experience decisions because we make them; we experience decisions because the brain generates a post-hoc narrative of agency.
+[[illusionism]]—the view that phenomenal consciousness is an illusion—interprets Libet differently. On this view, the experiments show exactly what we should expect: the brain constructs the *appearance* of decision-making after the fact. We don't experience decisions because we make them; we experience decisions because the brain generates a post-hoc narrative of agency.
 
 Daniel Dennett argues that asking "when did the decision occur?" presupposes a Cartesian theatre where consciousness watches neural events. But if consciousness is what the brain does—not something that observes what the brain does—the timing question dissolves. There's no moment when "consciousness decides" because there's no consciousness separate from the neural process to do any deciding.
 

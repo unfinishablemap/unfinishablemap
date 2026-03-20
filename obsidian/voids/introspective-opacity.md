@@ -4,7 +4,7 @@ description: "Why we cannot observe our own cognitive processes—we access ment
 created: 2026-02-02
 modified: 2026-03-06
 human_modified:
-ai_modified: 2026-03-06T11:38:00+00:00
+ 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-03-06T11:38:00+00:00
 draft: false
 topics:
@@ -22,7 +22,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[the-unobservable-self]]"
+  - "[[self-reference-paradox]]"
   - "[[narrative-void]]"
   - "[[thoughts-that-slip-away]]"
   - "[[phenomenology-of-the-edge]]"
@@ -49,7 +49,7 @@ We have access to our mental contents—thoughts, images, feelings—but not to 
 
 This opacity extends from general cognition to the specific case of willing. We know *that* we decided, felt, or believed—but not *how*. And in the domain of agency, where the stakes are highest, the opacity is deepest: we experience choosing, deciding, and acting, but the process by which these experiences arise, and whether they genuinely cause our actions, remains hidden from introspection.
 
-This void differs from the [[the-unobservable-self|unobservable self]], which concerns the observer itself eluding observation, and from the [[ownership-void|ownership void]], which concerns a specific phenomenal feature—mineness—whose ground is hidden rather than cognitive processes in general. Introspective opacity concerns the *processes* of cognition—how thoughts arise, connect, and transform—remaining hidden even as their products become conscious.
+This void differs from the [[self-reference-paradox|unobservable self]], which concerns the observer itself eluding observation, and from the [[ownership-void|ownership void]], which concerns a specific phenomenal feature—mineness—whose ground is hidden rather than cognitive processes in general. Introspective opacity concerns the *processes* of cognition—how thoughts arise, connect, and transform—remaining hidden even as their products become conscious.
 
 ## The Contents/Process Distinction
 
@@ -210,7 +210,7 @@ None of these conditions has been met. Introspective opacity persists across cul
 ## Further Reading
 
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
-- [[the-unobservable-self|The Unobservable Self]] — The observer that cannot observe itself observing
+- [[self-reference-paradox|The Unobservable Self]] — The observer that cannot observe itself observing
 - [[narrative-void|The Narrative Void]] — How consciousness constructs self-stories it cannot audit
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Mechanisms of cognitive slippage
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching limits feels like

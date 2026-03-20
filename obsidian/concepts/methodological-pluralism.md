@@ -4,7 +4,7 @@ description: "Consciousness research requires multiple methods—first-person, s
 created: 2026-02-12
 modified: 2026-02-12
 human_modified:
-ai_modified: 2026-02-16T05:10:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[first-person-third-person-methodology]]"
@@ -60,7 +60,7 @@ Methodological pluralism should not be confused with several weaker positions:
 
 ### First-Person Methods
 
-[[Phenomenology]], [[introspection]], and contemplative practice provide systematic first-person access to conscious experience. Classical phenomenology (Husserl, Merleau-Ponty) developed rigorous techniques—the epoché, eidetic variation, phenomenological reduction—for investigating experiential structures. Contemplative traditions refined sustained attention to consciousness's own features across centuries of practice.
+[[phenomenology]], [[introspection]], and contemplative practice provide systematic first-person access to conscious experience. Classical phenomenology (Husserl, Merleau-Ponty) developed rigorous techniques—the epoché, eidetic variation, phenomenological reduction—for investigating experiential structures. Contemplative traditions refined sustained attention to consciousness's own features across centuries of practice.
 
 The key insight: first-person methods are not merely subjective opinion. With proper training and intersubjective corroboration, they produce [[phenomenological-evidence|reliable evidence]] about consciousness structures invisible to external observation. Meditators' reports of [[meditation-and-consciousness-modes|jhana states]], for instance, converge across traditions and correlate with distinct neural signatures—neither outcome achievable by untrained introspection or brain imaging alone.
 

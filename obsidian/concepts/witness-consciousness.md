@@ -4,13 +4,13 @@ description: "Awareness that observes mental contents without identifying with t
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-13T23:30:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
 concepts:
-  - "[[the-unobservable-self]]"
+  - "[[self-reference-paradox]]"
   - "[[buddhism-and-dualism]]"
   - "[[self-and-consciousness]]"
   - "[[introspection]]"
@@ -66,7 +66,7 @@ Advanced contemplatives in multiple traditions report something more radical: no
 
 ## The Structural Limitation: Why the Witness Cannot Be Examined
 
-[[the-unobservable-self|The Unobservable Self]] addresses this directly: the observing self cannot observe itself observing. Direct attention inward—attempt to observe your own observing. You become aware of awareness, but now there are two layers: awareness observed and awareness observing it. Each attempt creates a new layer; the regression has no endpoint. The [[phenomenology-of-recursive-thought|phenomenology of recursive thought]] maps this layered structure in detail—Level 0 perception, Level 1 thought, Level 2 recursive awareness—and explores why the tower doesn't extend indefinitely with equal clarity at each level.
+[[self-reference-paradox|The Unobservable Self]] addresses this directly: the observing self cannot observe itself observing. Direct attention inward—attempt to observe your own observing. You become aware of awareness, but now there are two layers: awareness observed and awareness observing it. Each attempt creates a new layer; the regression has no endpoint. The [[phenomenology-of-recursive-thought|phenomenology of recursive thought]] maps this layered structure in detail—Level 0 perception, Level 1 thought, Level 2 recursive awareness—and explores why the tower doesn't extend indefinitely with equal clarity at each level.
 
 David Hume: "I can never catch myself at any time without a perception." The catcher remains uncaught. This structural elusiveness holds regardless of theory—even granting [[illusionism|illusionism]], any system modeling its own modeling faces regress.
 
@@ -190,7 +190,7 @@ What contemplatives discovered through sustained practice, phenomenology articul
 
 ## Further Reading
 
-- [[the-unobservable-self]] — Why the observing self cannot observe itself
+- [[self-reference-paradox]] — Why the observing self cannot observe itself
 - [[buddhism-and-dualism]] — Irreducibility without permanence
 - [[phenomenology-of-the-edge]] — Minimal phenomenal experience
 - [[hypnagogic-phenomenology-and-interface-modulation]] — Sleep-onset phenomenology and the witness during interface transitions

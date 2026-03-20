@@ -4,7 +4,7 @@ description: "AI alignment assumes human values can be learned from behavior. Bu
 created: 2026-01-13
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-03-16T00:48:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -89,7 +89,7 @@ Three implications follow from this analysis:
 
 ## Experiential Alignment: An Alternative Framework
 
-If phenomenal consciousness is the ground of value, alignment might target experiential quality directly rather than learning from preferences. This view is grounded in [[topics/phenomenal-value-realism]]—the metaethical position that intrinsic value is a feature of conscious experience itself—and the [[consciousness-value-connection]], which argues that consciousness is necessary for value to exist at all. [[Experiential-alignment|Experiential alignment]] proposes that AI systems should promote predicted distributions over human conscious experiences—suffering, agency, meaning, attention quality, social connection—rather than observed choices.
+If phenomenal consciousness is the ground of value, alignment might target experiential quality directly rather than learning from preferences. This view is grounded in [[topics/phenomenal-value-realism]]—the metaethical position that intrinsic value is a feature of conscious experience itself—and the [[consciousness-value-connection]], which argues that consciousness is necessary for value to exist at all. [[experiential-alignment|Experiential alignment]] proposes that AI systems should promote predicted distributions over human conscious experiences—suffering, agency, meaning, attention quality, social connection—rather than observed choices.
 
 This approach accepts that the target is harder to specify, harder to measure, and harder to optimize than preference satisfaction. But if value actually resides in the quality of conscious experience, technical convenience should not substitute for getting the target right. The philosophical case that experiential qualities constitute genuinely *objective* criteria—metaphysically objective in a way preferences are not—is developed in [[alignment-in-objective-experiential-terms]].
 
@@ -105,7 +105,7 @@ Research on [[emotion-and-dualism|core affect]] adds nuance: humans are never af
 
 ## The Illusionist Challenge
 
-[[Illusionism]]—the view that phenomenal consciousness is an introspective illusion—presents the most radical objection to this entire framework. If there is no phenomenal experience to target, experiential alignment has no referent, and preferentism might be the best we can do.
+[[illusionism]]—the view that phenomenal consciousness is an introspective illusion—presents the most radical objection to this entire framework. If there is no phenomenal experience to target, experiential alignment has no referent, and preferentism might be the best we can do.
 
 ### The Regress Response
 
@@ -119,7 +119,7 @@ Even granting illusionism for argument's sake, a practical asymmetry remains. If
 
 ### Contemplative Evidence
 
-[[Introspection]] research shows that trained [[witness-consciousness|contemplatives]] report accessing experiential quality directly—as a feature observed in the observing, not an attribution. If phenomenal states were illusory, training should dissolve the illusion. Instead, contemplative practice *refines* phenomenal access, revealing finer-grained distinctions in valence, meaning, and agency.
+[[introspection]] research shows that trained [[witness-consciousness|contemplatives]] report accessing experiential quality directly—as a feature observed in the observing, not an attribution. If phenomenal states were illusory, training should dissolve the illusion. Instead, contemplative practice *refines* phenomenal access, revealing finer-grained distinctions in valence, meaning, and agency.
 
 ## What Would Challenge This View?
 
@@ -145,9 +145,9 @@ This analysis connects deeply to all five of the Map's foundational commitments.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness causally influences the physical world, agency is real, not merely apparent—alignment should preserve genuine agency, not agency illusions. If consciousness were epiphenomenal, [[introspection]] about purpose would be systematically unreliable, undermining the philosophical discourse itself.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: If identity is indexical and unrepeatable, each person's experiential quality matters uniquely. [[Haecceity]]—being *this* particular conscious subject—grounds why aggregate preference satisfaction cannot substitute for individual experiential flourishing. Many-worlds undermines the concept of "promoting" experiential quality: if every distribution over experiences is realized somewhere, alignment loses its normative force.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: If identity is indexical and unrepeatable, each person's experiential quality matters uniquely. [[haecceity]]—being *this* particular conscious subject—grounds why aggregate preference satisfaction cannot substitute for individual experiential flourishing. Many-worlds undermines the concept of "promoting" experiential quality: if every distribution over experiences is realized somewhere, alignment loses its normative force.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The preferentist model is appealingly simple, but this simplicity may mask genuine complexity. Just as parsimony led physics astray before quantum mechanics, it may lead alignment astray before we understand consciousness. Human purpose may be partially [[voids|unchartable]]—not because it is meaningless, but because our conceptual resources are inadequate to fully articulate what we can nevertheless experience. [[Apophatic-approaches|Apophatic methods]]—knowing what purpose is *not*—may be as important as positive specification.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The preferentist model is appealingly simple, but this simplicity may mask genuine complexity. Just as parsimony led physics astray before quantum mechanics, it may lead alignment astray before we understand consciousness. Human purpose may be partially [[voids|unchartable]]—not because it is meaningless, but because our conceptual resources are inadequate to fully articulate what we can nevertheless experience. [[apophatic-approaches|Apophatic methods]]—knowing what purpose is *not*—may be as important as positive specification.
 
 The practical upshot: AI systems should be designed with profound humility about human purpose—partners in inquiry rather than solvers of a problem we have not solved ourselves.
 

@@ -4,7 +4,7 @@ description: "How quantum wave functions collapsed before conscious observers ex
 created: 2026-01-16
 modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-03-18T23:52:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 coalesced_from:
   - "/topics/collapse-before-minds/"
@@ -93,7 +93,7 @@ Under this view, consciousness doesn't cause collapse; it *emerges from* or *int
 
 ### 4. Decoherence Naturalization
 
-The mainstream physics response denies that collapse is a real process requiring explanation. [[Decoherence]]—the spreading of quantum coherence into environmental degrees of freedom—explains why macroscopic objects don't exhibit superposition. Collapse is apparent, not fundamental.
+The mainstream physics response denies that collapse is a real process requiring explanation. [[decoherence]]—the spreading of quantum coherence into environmental degrees of freedom—explains why macroscopic objects don't exhibit superposition. Collapse is apparent, not fundamental.
 
 But decoherence alone doesn't solve the [[measurement-problem|measurement problem]]. As a 2025 comprehensive review notes: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Decoherence paired with Many Worlds claims no selection happens—all outcomes occur. But the Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects this, leaving the question of what selects outcomes unanswered. The [[quantum-measurement-and-consciousness|structural parallel between the measurement problem and the hard problem]] suggests both problems share the same underlying difficulty: where first-person facts enter third-person descriptions.
 
@@ -159,7 +159,7 @@ This preserves:
 
 ## The Illusionist Challenge
 
-[[Illusionism]]—the view that phenomenal consciousness is itself an introspective illusion—might seem to dissolve the prebiotic problem from a different direction. If there is no "real" consciousness, only functional processes that misrepresent themselves as experiential, then there's nothing non-physical to participate in collapse. The problem assumes consciousness is real; illusionism denies the premise.
+[[illusionism]]—the view that phenomenal consciousness is itself an introspective illusion—might seem to dissolve the prebiotic problem from a different direction. If there is no "real" consciousness, only functional processes that misrepresent themselves as experiential, then there's nothing non-physical to participate in collapse. The problem assumes consciousness is real; illusionism denies the premise.
 
 The Map rejects illusionism for reasons detailed on its [[illusionism|dedicated page]], but the response here is specific: **the illusion problem compounds the prebiotic challenge rather than dissolving it**.
 

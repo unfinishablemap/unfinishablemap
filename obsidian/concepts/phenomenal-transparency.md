@@ -4,7 +4,7 @@ description: "Why experience presents itself as direct contact with reality rath
 created: 2026-02-09
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-03-15T06:26:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[tenets]]"
   - "[[destabilizing-self-knowledge]]"
   - "[[intentionality-void]]"
-  - "[[the-unobservable-self]]"
+  - "[[self-reference-paradox]]"
   - "[[intrinsic-nature-void]]"
   - "[[self-reference-paradox]]"
   - "[[explanatory-gap]]"
@@ -108,7 +108,7 @@ For the [[simulation|simulation hypothesis]], phenomenal transparency makes the 
 - [[destabilizing-self-knowledge]] — What happens when transparency breaks down, and why some self-knowledge may be structurally inaccessible
 - [[intentionality-void]] — Transparency applied to the aboutness of thought
 - [[intrinsic-nature-void]] — The question of what matter is in itself, hidden behind transparent perception
-- [[the-unobservable-self]] — The structural impossibility of observing the observer
+- [[self-reference-paradox]] — The structural impossibility of observing the observer
 - [[introspection]] — The reliability and limits of first-person access
 - [[phenomenal-consciousness]] — The broader category that transparency shapes
 - [[introspective-opacity]] — The structural limit where process access fails

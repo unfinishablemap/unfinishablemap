@@ -4,7 +4,7 @@ description: "The intrinsic, subjective qualities of conscious experience—the 
 created: 2026-01-07
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-03-19T11:17:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ concepts:
   - "[[decoherence]]"
   - "[[witness-consciousness]]"
   - "[[combination-problem]]"
-  - "[[aesthetic-dimension-of-consciousness]]"
+  - "[[aesthetics-and-consciousness]]"
   - "[[mysterianism]]"
   - "[[buddhism-and-dualism]]"
   - "[[pre-conceptual-knowing]]"
@@ -104,9 +104,9 @@ Block's [[pre-conceptual-knowing#Phenomenal Overflow|phenomenal overflow]] resea
 
 ### Aesthetic Qualia
 
-[[aesthetic-dimension-of-consciousness|Aesthetic experience]] provides perhaps the strongest case for qualia's resistance to reduction. Colours carry aesthetic character (*warm*, *serene*, *electric*) independent of what they represent. Some rooms feel oppressive; others inviting. Ideas have aesthetic character—Einstein reported general relativity "felt right" before he could prove it.
+[[aesthetics-and-consciousness|Aesthetic experience]] provides perhaps the strongest case for qualia's resistance to reduction. Colours carry aesthetic character (*warm*, *serene*, *electric*) independent of what they represent. Some rooms feel oppressive; others inviting. Ideas have aesthetic character—Einstein reported general relativity "felt right" before he could prove it.
 
-Aesthetic qualia may resist reduction more than sensory qualia: the [[inverted-qualia|inverted spectrum]] argument faces the objection that colour space has structural asymmetries making inversion detectable. But aesthetic space lacks such asymmetries—someone whose aesthetic qualia are systematically inverted could behave identically to you. Aesthetic qualia also carry intrinsic normativity: beauty *calls for* attention. If qualia were purely functional, this felt imperative would be mysterious. The [[aesthetic-void]] explores what this resistance to articulation reveals about cognitive limits. See [[aesthetic-dimension-of-consciousness]] for detailed treatment.
+Aesthetic qualia may resist reduction more than sensory qualia: the [[inverted-qualia|inverted spectrum]] argument faces the objection that colour space has structural asymmetries making inversion detectable. But aesthetic space lacks such asymmetries—someone whose aesthetic qualia are systematically inverted could behave identically to you. Aesthetic qualia also carry intrinsic normativity: beauty *calls for* attention. If qualia were purely functional, this felt imperative would be mysterious. The [[aesthetic-void]] explores what this resistance to articulation reveals about cognitive limits. See [[aesthetics-and-consciousness]] for detailed treatment.
 
 ## Thought Experiments
 
@@ -219,7 +219,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 
 **Extensions:**
 - [[consciousness-and-language-interface]] - Why qualia resist linguistic capture (bidirectional lossy channel)
-- [[aesthetic-dimension-of-consciousness]] - Aesthetic qualia resistant to reduction
+- [[aesthetics-and-consciousness]] - Aesthetic qualia resistant to reduction
 - [[cognitive-phenomenology]] - Whether thinking has phenomenal character
 - [[pain-consciousness-and-causal-power]] - Why pain's felt quality is inseparable from its causal power
 - [[minimal-consciousness]] - Qualia in simple organisms

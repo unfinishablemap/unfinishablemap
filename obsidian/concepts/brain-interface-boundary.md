@@ -4,7 +4,7 @@ description: "Brains meet five criteria for consciousness interfaces while exter
 created: 2026-01-16
 modified: 2026-02-22
 human_modified: null
-ai_modified: 2026-03-11T22:57:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,9 +14,9 @@ concepts:
   - "[[quantum-consciousness]]"
   - "[[pairing-problem]]"
   - "[[attention-as-interface]]"
-  - "[[quantum-coherence-and-binding-evidence]]"
+  - "[[quantum-neural-mechanisms-and-coherence]]"
   - "[[concepts/consciousness-selecting-neural-patterns]]"
-  - "[[psychophysical-coupling]]"
+  - "[[psychophysical-laws]]"
   - "[[illusionism]]"
   - "[[decoherence]]"
   - "[[introspection]]"
@@ -48,7 +48,7 @@ Drawing on the Map's [[filter-theory|filter]] and [[quantum-consciousness|quantu
 
 The system must have components where quantum indeterminacies are functionally relevant—where quantum outcomes make a difference to macroscopic behaviour. Most physical systems are thermally stable at functional scales; quantum effects average out, providing no leverage point for consciousness.
 
-Neural systems may differ. The [[quantum-coherence-and-binding-evidence|evidence for quantum coherence in brain tissue]] is contested but growing. Proposed sites include microtubules (Penrose-Hameroff Orch OR), ion channels sensitive to quantum tunnelling, synaptic vesicle release showing non-thermal variability, and nuclear spins in Posner molecules (Fisher, 2015). Recent empirical work supports these proposals: a 2024 study found that microtubule-stabilising drugs delay anaesthetic-induced unconsciousness in rats, suggesting microtubules play a functional role in consciousness (Wiest et al., 2024).
+Neural systems may differ. The [[quantum-neural-mechanisms-and-coherence|evidence for quantum coherence in brain tissue]] is contested but growing. Proposed sites include microtubules (Penrose-Hameroff Orch OR), ion channels sensitive to quantum tunnelling, synaptic vesicle release showing non-thermal variability, and nuclear spins in Posner molecules (Fisher, 2015). Recent empirical work supports these proposals: a 2024 study found that microtubule-stabilising drugs delay anaesthetic-induced unconsciousness in rats, suggesting microtubules play a functional role in consciousness (Wiest et al., 2024).
 
 ### 2. Representational Structure
 
@@ -126,7 +126,7 @@ The Map's framework suggests quantum sensitivity is essential but not sufficient
 
 ## The Decoherence Challenge
 
-[[Decoherence]] should destroy quantum effects in warm brain tissue within femtoseconds. Three considerations temper this objection: the Tegmark-Hameroff timescale debate remains unresolved (corrected coherence times may be 10⁻⁵ to 10⁻⁴ seconds); [[quantum-biology]] demonstrates evolution *can* optimise biological systems for quantum coherence (avian magnetoreception maintains spin coherence for microseconds); and Stapp's Zeno mechanism requires rapid repeated observation rather than sustained superposition—though as [[concepts/consciousness-selecting-neural-patterns|the selection mechanism article]] details, a timescale gap of roughly ten orders of magnitude remains between attention and required observation rates. See [[decoherence]] for full analysis.
+[[decoherence]] should destroy quantum effects in warm brain tissue within femtoseconds. Three considerations temper this objection: the Tegmark-Hameroff timescale debate remains unresolved (corrected coherence times may be 10⁻⁵ to 10⁻⁴ seconds); [[quantum-biology]] demonstrates evolution *can* optimise biological systems for quantum coherence (avian magnetoreception maintains spin coherence for microseconds); and Stapp's Zeno mechanism requires rapid repeated observation rather than sustained superposition—though as [[concepts/consciousness-selecting-neural-patterns|the selection mechanism article]] details, a timescale gap of roughly ten orders of magnitude remains between attention and required observation rates. See [[decoherence]] for full analysis.
 
 ## What Would Challenge This View?
 
@@ -165,7 +165,7 @@ Together, these explain why consciousness acts on brains specifically: brains me
 - [[brain-specialness-boundary]] — Why consciousness acts only here, not everywhere
 - [[mind-matter-interface]] — How filter theory and quantum selection unify
 - [[pairing-problem]] — What pairs this mind with this body
-- [[quantum-coherence-and-binding-evidence]] — Evidence for quantum effects in brain tissue
+- [[quantum-neural-mechanisms-and-coherence]] — Evidence for quantum effects in brain tissue
 - [[filter-theory]] — The transmission model of consciousness
 - [[quantum-consciousness]] — Quantum selection mechanisms
 - [[attention-as-interface]] — The quantum Zeno mechanism for mind-body interaction

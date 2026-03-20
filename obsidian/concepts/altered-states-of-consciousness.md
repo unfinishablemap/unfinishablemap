@@ -4,7 +4,7 @@ description: "Altered states reveal consciousness's range through meditation, ps
 created: 2026-01-18
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-03-18T20:50:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -149,12 +149,12 @@ The filter theory provides a unified framework: ASCs reveal different configurat
 - [[quantum-consciousness]] — Potential mechanisms for mind-brain interface
 - [[near-death-experiences]] — Enhanced consciousness during brain compromise
 - [[hypnagogic-phenomenology-and-interface-modulation]] — The sleep-onset transition as interface modulation in action
-- [[dream-consciousness-void|The Dream Consciousness Void]] — The bidirectional inaccessibility between waking and dreaming states
+- [[sleep-consciousness-void|The Dream Consciousness Void]] — The bidirectional inaccessibility between waking and dreaming states
 - [[comparative-consciousness-and-interface-differences]] — Does the interface vary across states and species?
 - [[anaesthesia-and-the-consciousness-interface]] — How anaesthetic agents reconfigure the consciousness interface
 - [[contemplative-practice-as-philosophical-evidence]] — Contemplative practices as evidence for irreducible consciousness
 - [[phenomenological-psychiatry-and-altered-experience]] — How psychiatric conditions reveal the hidden architecture of consciousness
-- [[death-phenomenology-beyond-ndes]] — Death-related altered states: deathbed visions, terminal lucidity, and nearing death awareness
+- [[death-and-consciousness]] — Death-related altered states: deathbed visions, terminal lucidity, and nearing death awareness
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis: systematic comparison of five altered states mapping the multi-channel interface architecture
 
 ## References

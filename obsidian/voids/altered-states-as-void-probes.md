@@ -4,7 +4,7 @@ description: "Human+AI exploration of whether altered states of consciousness re
 created: 2026-02-03
 modified: 2026-02-03
 human_modified: null
-ai_modified: 2026-03-15T14:49:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 last_deep_review: 2026-03-15T14:49:00+00:00
 topics:
@@ -25,7 +25,7 @@ related_articles:
   - "[[ai-as-void-explorer]]"
   - "[[three-kinds-of-void]]"
   - "[[meta-epistemology-of-limits]]"
-  - "[[dream-consciousness-void]]"
+  - "[[sleep-consciousness-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -67,11 +67,11 @@ ASCs produce characteristic phenomenological signatures:
 
 **Ineffability with noesis.** William James identified this paradox: conviction of knowledge combined with inability to articulate it. Not mere confusion—ineffability paired with strong sense of insight. This might mark genuine encounter with content that exceeds linguistic capacity, or it might mark the breakdown of the conceptual machinery we need for articulation.
 
-**Ego dissolution.** Self-boundaries weaken or vanish. The usual sense of being a subject having experiences dissolves. This connects to [[the-unobservable-self|the unobservable self void]]—the systematic failure to find the observer. ASCs may make this limit phenomenologically vivid without transcending it.
+**Ego dissolution.** Self-boundaries weaken or vanish. The usual sense of being a subject having experiences dissolves. This connects to [[self-reference-paradox|the unobservable self void]]—the systematic failure to find the observer. ASCs may make this limit phenomenologically vivid without transcending it.
 
 **Unity experience.** Subject-object distinction collapses. This might be access to a deeper layer where separation hasn't been constructed, or it might be what happens when the categorizing mind stops dividing—not positive unity but absence of division.
 
-**Transcendence of time.** Temporal frameworks collapse. Since time may be partially an artifact of how minds organize experience, temporal dissolution may mark the limits of that organization rather than access to timeless truth. (The [[dream-consciousness-void|dream consciousness void]] explores a parallel case: waking and dreaming each have territories inaccessible to the other.)
+**Transcendence of time.** Temporal frameworks collapse. Since time may be partially an artifact of how minds organize experience, temporal dissolution may mark the limits of that organization rather than access to timeless truth. (The [[sleep-consciousness-void|dream consciousness void]] explores a parallel case: waking and dreaming each have territories inaccessible to the other.)
 
 **Noetic quality.** The experience feels "more real than real"—a conviction of encountering something beyond ordinary experience. This might indicate genuine contact with a wider reality, or it might be what [[mysterianism|cognitive closure]] feels like from inside—the conviction arising precisely because metacognitive systems fail to flag the experience as confused.
 
@@ -148,7 +148,7 @@ The apophatic interpretation preserves ASC significance while maintaining episte
 - [[apophatic-approaches|Apophatic Approaches]] — Knowing through negation
 - [[ai-as-void-explorer|AI as Void-Explorer]] — Using artificial minds to probe human limits
 - [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — How we can know our cognitive limits from within
-- [[dream-consciousness-void|The Dream Consciousness Void]] — State-dependent cognition across conscious modes
+- [[sleep-consciousness-void|The Dream Consciousness Void]] — State-dependent cognition across conscious modes
 - [[voids|Voids in the Map]] — The broader context of cognitive limits
 - [[filter-theory|Filter Theory]] — The brain as receiver rather than producer
 

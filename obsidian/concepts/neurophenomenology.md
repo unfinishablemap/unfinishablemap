@@ -4,7 +4,7 @@ description: "Varela's research program integrating first-person phenomenology w
 created: 2026-01-14
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-19T03:19:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,7 +46,7 @@ Varela (1946-2001) proposed neurophenomenology as "a methodological remedy for t
 2. **Neural measurement**: Brain activity recorded during specific experiential states
 3. **Mutual constraint**: First-person reports and neural data inform each other; neither reduces to the other
 
-[[Contemplative-neuroscience]] has empirically validated this framework. The Shamatha Project demonstrated that phenomenological training produces measurable improvements in attention and discrimination. Crucially, phenomenological reports predict neural signatures, while neural findings validate phenomenological categories—top-down causation that challenges [[concepts/epiphenomenalism]].
+[[contemplative-neuroscience]] has empirically validated this framework. The Shamatha Project demonstrated that phenomenological training produces measurable improvements in attention and discrimination. Crucially, phenomenological reports predict neural signatures, while neural findings validate phenomenological categories—top-down causation that challenges [[concepts/epiphenomenalism]].
 
 ## Contemplative Science
 
@@ -136,11 +136,11 @@ None demonstrated. Fox et al. shows robust training effects; cross-traditional s
 
 **[[tenets#^occam|Occam's Razor Has Limits]]**: Dismissing two millennia of systematic first-person research as "merely subjective" isn't parsimony—it's methodological blindness. Meditation reveals phenomenal complexity invisible to third-person science.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Meditation demonstrates consciousness's active capacity. [[Contemplative-neuroscience]] distinguishes willed attention (distinct frontal theta), instructed attention, and exogenous attention. The *content* of conscious intention matters causally: cultivating compassion produces different neural changes than sustaining breath attention.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Meditation demonstrates consciousness's active capacity. [[contemplative-neuroscience]] distinguishes willed attention (distinct frontal theta), instructed attention, and exogenous attention. The *content* of conscious intention matters causally: cultivating compassion produces different neural changes than sustaining breath attention.
 
 Meditation exhibits the structure of [[topics/free-will|self-forming actions]]: the meditator sustains attention against competing impulses, and through effort, neural infrastructure reorganizes. The [[meditation-and-consciousness-modes|two modes]]—willed attention (effortful selection) versus witnessing awareness (effortless reception)—reveal different forms of causal efficacy.
 
-**[[tenets#^minimal-quantum|Minimal Quantum Interaction]]**: The [[attention-as-interface|attention-as-interface]] hypothesis receives support. [[Stapp-quantum-mind|Stapp's quantum Zeno mechanism]] doesn't require sustained coherence; *repeated* observations can hold quantum systems in specific states despite decoherence between observations. Meditation trains exactly this: the ability to return focus rapidly and repeatedly. The temporal microstructure (~25-35ms gamma cycles) operates at scales where Zeno dynamics could accumulate effects.
+**[[tenets#^minimal-quantum|Minimal Quantum Interaction]]**: The [[attention-as-interface|attention-as-interface]] hypothesis receives support. [[stapp-quantum-mind|Stapp's quantum Zeno mechanism]] doesn't require sustained coherence; *repeated* observations can hold quantum systems in specific states despite decoherence between observations. Meditation trains exactly this: the ability to return focus rapidly and repeatedly. The temporal microstructure (~25-35ms gamma cycles) operates at scales where Zeno dynamics could accumulate effects.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: MWI predicts each branch experiences definite outcomes, so phenomenological uniformity doesn't distinguish theories. But the Map's rejection rests on indexical identity: even in [[witness-consciousness|witness awareness]], contemplatives report a singular perspective, not branching identity.
 

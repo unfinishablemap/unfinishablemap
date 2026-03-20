@@ -4,7 +4,7 @@ description: "Can we genuinely author our choices? The Map defends agent-causal 
 created: 2026-01-08
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-03-19T14:01:00+00:00
+ 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-02-25T12:26:00+00:00
 draft: false
 topics:
@@ -51,7 +51,7 @@ Classical physics suggested determinism: given initial conditions and physical l
 
 **Hard Determinism**: Free will is an illusion. Choices are predetermined by prior causes stretching back to the Big Bang.
 
-**Libertarian Free Will**: We can initiate causal chains not fully determined by prior physical states. The Map's framework is specifically *[[agent-causation|agent-causal]]*—the agent as persisting substance directly causes actions, irreducible to prior mental events. This requires [[tenets#^dualism|substance dualism]]: consciousness must be a persisting *thing* capable of exercising causal powers. [[Existentialism|Existentialist philosophy]] articulates why: Sartre's "condemned to be free" captures the structural necessity—consciousness is constitutively self-distanced, never identical with its contents, always able to take a stance toward its situation.
+**Libertarian Free Will**: We can initiate causal chains not fully determined by prior physical states. The Map's framework is specifically *[[agent-causation|agent-causal]]*—the agent as persisting substance directly causes actions, irreducible to prior mental events. This requires [[tenets#^dualism|substance dualism]]: consciousness must be a persisting *thing* capable of exercising causal powers. [[existentialism|Existentialist philosophy]] articulates why: Sartre's "condemned to be free" captures the structural necessity—consciousness is constitutively self-distanced, never identical with its contents, always able to take a stance toward its situation.
 
 **Compatibilism**: Free will means acting from endorsed desires without external coercion. Yet for those who take the phenomenology of deliberation seriously, compatibilism redescribes rather than explains: why does choosing *feel* like determining an open outcome if the outcome was always fixed?
 
@@ -85,7 +85,7 @@ Genuine choice requires [[counterfactual-reasoning|counterfactual reasoning]]—
 
 ### The Physical Mechanism Question
 
-How does consciousness interface with the brain? Candidates include quantum selection (biasing indeterminate outcomes or Zeno-like stabilisation), [[retrocausality|retrocausal influence]], or unknown physics. The Map doesn't commit to any single mechanism. What matters is that consciousness *can* influence physical outcomes without violating physical laws. [[spontaneous-collapse-theories|Spontaneous collapse theories]] solve the [[prebiotic-collapse|prebiotic problem]] by providing baseline collapse that consciousness modulates. See [[quantum-consciousness]] and [[attention-interface-mechanisms]] for detailed analysis.
+How does consciousness interface with the brain? Candidates include quantum selection (biasing indeterminate outcomes or Zeno-like stabilisation), [[retrocausality|retrocausal influence]], or unknown physics. The Map doesn't commit to any single mechanism. What matters is that consciousness *can* influence physical outcomes without violating physical laws. [[spontaneous-collapse-theories|Spontaneous collapse theories]] solve the [[prebiotic-collapse|prebiotic problem]] by providing baseline collapse that consciousness modulates. See [[quantum-consciousness]] and [[attention-and-the-consciousness-interface]] for detailed analysis.
 
 The philosophical case for agent causation does not depend on any particular mechanism. But the [[the-epiphenomenalist-threat|epiphenomenalist threat]] shows that *some* mechanism is needed. The philosophical case establishes *that* agent causation is real; the mechanism question addresses *how*. See [[quantum-indeterminacy-free-will]] for one proposed implementation.
 

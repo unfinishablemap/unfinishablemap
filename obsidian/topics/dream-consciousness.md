@@ -4,7 +4,7 @@ description: "Dreams provide the most accessible everyday evidence for the filte
 created: 2026-01-21
 modified: 2026-02-23
 human_modified: null
-ai_modified: 2026-03-19T17:33:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-creative-distinctiveness]]"
-  - "[[dream-consciousness-void]]"
+  - "[[sleep-consciousness-void]]"
   - "[[surprise-prediction-error-and-consciousness]]"
   - "[[dreams-problem-solving-lucid-dreaming-2026-02-06]]"
   - "[[consciousness-dreams-2026-01-14]]"
@@ -111,7 +111,7 @@ Each configuration yields distinct cognitive capabilities—a pattern the Map's 
 
 Lucid dreaming—becoming aware that one is dreaming while the dream continues—represents a distinct state of consciousness. The 2025 Demirel study provided strong evidence: source-level EEG analysis showed lucid dreams have unique neural signatures (gamma power increases in right temporo-occipital regions, distinct interhemispheric connectivity) differing from both ordinary REM and waking. Voss et al. (2014) provided causal evidence: frontal transcranial alternating current stimulation at gamma frequencies (25–40 Hz) during REM selectively induced lucid dreaming, while other frequencies had no effect. The [[lucid-dreaming-and-dualist-rendering|capability evidence]] article examines what this reveals about the brain-mind division.
 
-The transition from non-lucid to lucid REM reveals that [[phenomenal-consciousness|phenomenal]] and [[access-consciousness|access]] consciousness are separable. During ordinary REM, the DLPFC is deactivated—removing neural correlates of cognitive access—yet rich phenomenal experience persists. This dissociation challenges [[higher-order-theories|Higher-Order Thought theory]], which predicts no consciousness without higher-order representation. Non-lucid dreams contradict this: they are unambiguously conscious without the metacognitive overlay. [[Metacognition]] relates to consciousness as a *modulator*, not a *constituter*.
+The transition from non-lucid to lucid REM reveals that [[phenomenal-consciousness|phenomenal]] and [[access-consciousness|access]] consciousness are separable. During ordinary REM, the DLPFC is deactivated—removing neural correlates of cognitive access—yet rich phenomenal experience persists. This dissociation challenges [[higher-order-theories|Higher-Order Thought theory]], which predicts no consciousness without higher-order representation. Non-lucid dreams contradict this: they are unambiguously conscious without the metacognitive overlay. [[metacognition]] relates to consciousness as a *modulator*, not a *constituter*.
 
 ### Metacognition and Prefrontal Structure
 
@@ -210,7 +210,7 @@ The Map's interpretation of dream consciousness would face difficulty if:
 ## Further Reading
 
 - [[filter-theory]] — The filter/transmission model of consciousness
-- [[dream-consciousness-void]] — The epistemic boundary between waking and dreaming
+- [[sleep-consciousness-void]] — The epistemic boundary between waking and dreaming
 - [[sleep-and-consciousness]] — Consciousness gradations during sleep stages
 - [[consciousness-and-creative-distinctiveness]] — The creative loop and consciousness's role in novel combination
 - [[mind-brain-separation]] — The rendering engine analogy

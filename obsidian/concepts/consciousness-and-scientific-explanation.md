@@ -4,7 +4,7 @@ description: "Dualism does not stop science—it redirects it. Neural correlates
 created: 2026-02-23
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-03-11T10:02:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,7 +19,7 @@ concepts:
   - "[[causal-closure]]"
   - "[[emergence]]"
   - "[[phenomenal-acquaintance]]"
-  - "[[selection-laws]]"
+  - "[[psychophysical-laws]]"
   - "[[meta-problem-of-consciousness]]"
 related_articles:
   - "[[tenets]]"
@@ -88,7 +88,7 @@ Psychophysical laws would specify:
 - **Boundary conditions**: what physical conditions are necessary for consciousness to arise or cease
 
 The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet adds a further category:
-- **[[selection-laws|Downward selection]]**: how conscious states influence which physical outcomes are realised at quantum indeterminacies
+- **[[psychophysical-laws|Downward selection]]**: how conscious states influence which physical outcomes are realised at quantum indeterminacies
 
 Discovering these laws is an empirical project. It does not require reducing consciousness to physics any more than discovering electromagnetic laws required reducing them to mechanics.
 

@@ -4,7 +4,7 @@ description: "How moral properties appear in conscious experience—what wrongne
 created: 2026-02-08
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-03-18T15:28:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[ethics-of-consciousness]]"
@@ -18,7 +18,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[phenomenology]]"
   - "[[illusionism]]"
-  - "[[aesthetic-dimension-of-consciousness]]"
+  - "[[aesthetics-and-consciousness]]"
   - "[[moral-phenomenology-and-perception]]"
   - "[[phenomenal-normativity]]"
   - "[[normative-phenomenology]]"
@@ -97,7 +97,7 @@ Some moral experiences are positively valenced. Witnessing extraordinary generos
 
 Moral admiration involves perceiving a person's character or action as *exemplary*—not just effective or impressive but good in a way that invites emulation. The experience carries warmth (related to but distinguishable from hedonic pleasure) and what might be called moral luminosity: the act appears to radiate significance beyond itself.
 
-This connects to the [[aesthetic-dimension-of-consciousness|aesthetic dimension of consciousness]]. Beauty and moral goodness share phenomenological features—both present their objects as mattering intrinsically, both resist reduction to personal preference—but they are not identical. An action can be morally admirable without being beautiful (a grim sacrifice), and beautiful without being morally significant (a sunset). The existence of distinctly moral positive experiences supports phenomenal value pluralism.
+This connects to the [[aesthetics-and-consciousness|aesthetic dimension of consciousness]]. Beauty and moral goodness share phenomenological features—both present their objects as mattering intrinsically, both resist reduction to personal preference—but they are not identical. An action can be morally admirable without being beautiful (a grim sacrifice), and beautiful without being morally significant (a sunset). The existence of distinctly moral positive experiences supports phenomenal value pluralism.
 
 ### Guilt and Moral Remainder
 
@@ -195,7 +195,7 @@ The phenomenology of moral experience connects to the Map's [[tenets|foundationa
 - [[consciousness-and-normative-force]] — The shared phenomenal architecture of moral, epistemic, aesthetic, and prudential demands
 - [[normative-phenomenology]] — First-person investigation of normative experience broadly
 - [[emotion-and-dualism]] — Valence as the felt quality of emotion
-- [[aesthetic-dimension-of-consciousness]] — Why aesthetic experience resists reduction
+- [[aesthetics-and-consciousness]] — Why aesthetic experience resists reduction
 - [[normative-void]] — Cognitive limits on moral knowledge
 - [[moral-responsibility]] — How agent causation grounds moral desert
 - [[introspection]] — First-person access to phenomenal states

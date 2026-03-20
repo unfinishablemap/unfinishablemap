@@ -4,7 +4,7 @@ description: "GRW, CSL, and objective reduction don't just solve quantum puzzles
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-19T16:06:00+00:00
+ 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-03-19T16:06:00+00:00
 draft: false
 topics:
@@ -16,7 +16,7 @@ concepts:
   - "[[quantum-consciousness]]"
   - "[[prebiotic-collapse]]"
   - "[[causal-closure]]"
-  - "[[psychophysical-coupling]]"
+  - "[[psychophysical-laws]]"
   - "[[integrated-information-theory]]"
 related_articles:
   - "[[stapp-quantum-mind]]"
@@ -67,7 +67,7 @@ GRW theory is compatible with at least two ontologies. The **flash ontology** (p
 
 These ontologies carry different implications for consciousness. On the flash ontology, a conscious brain is a pattern of localization events—sparks of definiteness in a sea of indeterminacy. Consciousness modulating collapse would mean consciousness influencing the pattern of flashes, directly shaping what physically exists. On the matter density ontology, consciousness modulating collapse sharpens the mass distribution of neural tissue, pulling diffuse quantum probability toward definite configurations.
 
-Neither ontology is obviously more hospitable to the Map's dualism. But the choice matters for how we understand the [[psychophysical-coupling|interface]] between consciousness and collapse. If reality consists of flashes, consciousness selects *which events occur*. If reality is a density field, consciousness selects *where density concentrates*. Both are forms of [[tenets#^bidirectional-interaction|bidirectional interaction]], but they describe different kinds of causal influence.
+Neither ontology is obviously more hospitable to the Map's dualism. But the choice matters for how we understand the [[psychophysical-laws|interface]] between consciousness and collapse. If reality consists of flashes, consciousness selects *which events occur*. If reality is a density field, consciousness selects *where density concentrates*. Both are forms of [[tenets#^bidirectional-interaction|bidirectional interaction]], but they describe different kinds of causal influence.
 
 ## Why Penrose Objective Reduction Is Different
 
@@ -116,7 +116,7 @@ The model also faces honest difficulties. IIT's measure of integrated informatio
 - [[prebiotic-collapse]] — what collapsed before consciousness existed
 - [[collapse-and-time]] — collapse, irreversibility, and the arrow of time
 - [[experimental-design-for-consciousness-collapse-testing]] — how to test consciousness-collapse hypotheses
-- [[psychophysical-coupling]] — how consciousness interfaces with collapse parameters
+- [[psychophysical-laws]] — how consciousness interfaces with collapse parameters
 - [[stapp-quantum-mind]] — alternative: consciousness via quantum Zeno effect
 - [[multi-mind-collapse-problem]] — when multiple minds observe the same system
 - [[topics/free-will]] — how stochastic collapse enables libertarian free will

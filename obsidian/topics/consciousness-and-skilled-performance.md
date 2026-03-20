@@ -4,7 +4,7 @@ description: "Skill acquisition reveals consciousness as causal architect—buil
 created: 2026-02-02
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-19T16:42:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ related_articles:
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[attention-and-the-consciousness-interface]]"
   - "[[embodied-consciousness-and-the-interface]]"
-  - "[[contemplative-training-and-phenomenal-access]]"
+  - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[habituation-void]]"
   - "[[conscious-vs-unconscious-processing]]"
   - "[[sensorimotor-contingencies-and-the-interface]]"
@@ -164,7 +164,7 @@ The strongest physicalist counterargument is that executive attention networks a
 - [[sensorimotor-contingencies-and-the-interface]] — Perception as mastery of sensorimotor laws
 - [[phenomenology-of-embodiment-under-dualism]] — Bodily absence, ownership, and what embodiment feels like from the inside
 - [[phenomenology-of-intellectual-effort]] — The cognitive dimension of effortful learning
-- [[contemplative-training-and-phenomenal-access]] — Meditation as a parallel case of trained skill
+- [[contemplative-practice-as-philosophical-evidence]] — Meditation as a parallel case of trained skill
 - [[conscious-vs-unconscious-processing]] — Empirical evidence on consciousness-requiring functions
 - [[phenomenology-of-agency-vs-passivity]] — The felt difference between authored and discovered action
 - [[phenomenology-of-conceptual-change]] — The cognitive parallel to motor skill transition

@@ -4,7 +4,7 @@ description: "Why does experience belong to anyone? The ownership problem asks w
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-03-18T22:42:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,7 +15,7 @@ concepts:
   - "[[phenomenology]]"
   - "[[qualia]]"
   - "[[binding-problem]]"
-  - "[[why-phenomenal-unity-resists-explanation]]"
+  - "[[quantum-holism-and-phenomenal-unity]]"
   - "[[philosophical-zombies]]"
   - "[[illusionism]]"
   - "[[parfit-reductionism]]"
@@ -23,7 +23,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[the-self-minimal-narrative-and-substantial]]"
-  - "[[the-unobservable-self]]"
+  - "[[self-reference-paradox]]"
   - "[[identity-across-transformations]]"
   - "[[ownership-void]]"
   - "[[phenomenological-psychiatry-and-altered-experience]]"
@@ -131,7 +131,7 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 - [[haecceity]] — Primitive thisness and why ownership cannot be replicated
 - [[indexical-knowledge-and-identity]] — Why "I" and "mine" resist impersonal translation
 - [[personal-identity]] — What persists when ownership extends through time
-- [[the-unobservable-self]] — Why the owner resists observation
+- [[self-reference-paradox]] — Why the owner resists observation
 - [[binding-problem]] — Unity of experience as distinct from ownership of experience
 - [[hard-problem-of-consciousness]] — The prior question ownership presupposes
 - [[consciousness-and-the-metaphysics-of-individuation]] — What makes a subject a discrete subject at all (prior to ownership)

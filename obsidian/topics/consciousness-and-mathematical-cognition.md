@@ -4,7 +4,7 @@ description: "Mathematical insight—grasping why proofs work, inventing new fra
 created: 2026-01-21
 modified: 2026-02-20
 human_modified: null
-ai_modified: 2026-03-19T15:06:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ related_articles:
   - "[[incompleteness-void]]"
   - "[[incubation-effect-and-unconscious-processing]]"
   - "[[phenomenology-of-understanding-and-meaning]]"
-  - "[[aesthetic-dimension-of-consciousness]]"
+  - "[[aesthetics-and-consciousness]]"
   - "[[mathematical-knowledge-and-insight]]"
   - "[[consciousness-and-the-authority-of-formal-systems]]"
   - "[[self-reference-and-the-limits-of-physical-description]]"
@@ -111,7 +111,7 @@ Many mathematicians report thinking in spatial relationships and vague visual sc
 
 ### The Aesthetic Criterion
 
-Mathematicians consistently report that correct proofs *feel* elegant before they are verified. G.H. Hardy wrote in *A Mathematician's Apology* that "there is no permanent place in the world for ugly mathematics." This [[aesthetic-dimension-of-consciousness|aesthetic sense]] operates through phenomenal consciousness—it requires there to be something it is like to encounter the proof, a felt response that guides evaluation. The aesthetic criterion is not decorative; it is epistemically functional, tracking mathematical depth with striking (though imperfect) reliability. Why felt elegance should correlate with mathematical truth at all remains unexplained—it may represent a case of what [[mysterianism|mysterians]] call cognitive closure, a connection our minds exploit but cannot fathom.
+Mathematicians consistently report that correct proofs *feel* elegant before they are verified. G.H. Hardy wrote in *A Mathematician's Apology* that "there is no permanent place in the world for ugly mathematics." This [[aesthetics-and-consciousness|aesthetic sense]] operates through phenomenal consciousness—it requires there to be something it is like to encounter the proof, a felt response that guides evaluation. The aesthetic criterion is not decorative; it is epistemically functional, tracking mathematical depth with striking (though imperfect) reliability. Why felt elegance should correlate with mathematical truth at all remains unexplained—it may represent a case of what [[mysterianism|mysterians]] call cognitive closure, a connection our minds exploit but cannot fathom.
 
 ### The Sense of Discovery
 
@@ -223,7 +223,7 @@ The view would be supported by continued failure of AI to achieve transformation
 - [[mathematical-void]] — Cognitive limits on mathematical comprehension
 - [[incompleteness-void]] — The boundary Gödel's theorems reveal
 - [[incubation-effect-and-unconscious-processing]] — Empirical evidence for unconscious creative processing
-- [[aesthetic-dimension-of-consciousness]] — Why aesthetic experience matters philosophically
+- [[aesthetics-and-consciousness]] — Why aesthetic experience matters philosophically
 - [[phenomenology-of-understanding-and-meaning]] — The felt difference between mechanical verification and genuine comprehension
 - [[computational-cognitive-limits]] — Formal proofs of what computation cannot do
 - [[phenomenology-of-choice]] — Parallels between choice phenomenology and insight phenomenology

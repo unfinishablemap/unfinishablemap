@@ -4,7 +4,7 @@ description: "Why conscious experience comes as unified wholes rather than separ
 created: 2026-01-19
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-03-16T15:17:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ related_articles:
   - "[[phenomenal-consciousness]]"
   - "[[dualism]]"
   - "[[temporal-consciousness]]"
-  - "[[quantum-coherence-and-binding-evidence]]"
+  - "[[quantum-neural-mechanisms-and-coherence]]"
   - "[[quantum-holism-and-phenomenal-unity]]"
 ai_contribution: 100
 author: null
@@ -60,7 +60,7 @@ Most neuroscience research targets BP1. But BP2 persists because phenomenal unit
 
 ## Conjoint Phenomenology
 
-When you experience seeing-and-hearing-simultaneously, there is "something it is like" to have both experiences together that goes beyond having each separately. Bayne and Chalmers call this **conjoint phenomenology**—a phenomenology of simultaneity that subsumes the individual phenomenologies. The unified experience has a phenomenal character of its own, not reducible to the sum of its components. This is what makes phenomenal binding distinct from mere co-occurrence: the whole of experience is qualitatively different from its parts. [[consciousness-and-aesthetic-creation|Aesthetic creation]] provides a vivid case: the artist holding an accumulating work in phenomenal awareness—sensing how each addition shifts the whole—exemplifies binding in action, where the unified phenomenal field actively guides material production.
+When you experience seeing-and-hearing-simultaneously, there is "something it is like" to have both experiences together that goes beyond having each separately. Bayne and Chalmers call this **conjoint phenomenology**—a phenomenology of simultaneity that subsumes the individual phenomenologies. The unified experience has a phenomenal character of its own, not reducible to the sum of its components. This is what makes phenomenal binding distinct from mere co-occurrence: the whole of experience is qualitatively different from its parts. [[aesthetics-and-consciousness|Aesthetic creation]] provides a vivid case: the artist holding an accumulating work in phenomenal awareness—sensing how each addition shifts the whole—exemplifies binding in action, where the unified phenomenal field actively guides material production.
 
 Cross-modal binding makes this gap vivid. Different sensory modalities process information in spatially separate cortical regions at different speeds (vision ~50ms, audition ~10ms, touch ~15ms), using different neural codes. Yet when these modalities refer to the same external event, you experience phenomenal simultaneity and unity—a single multimodal percept, not three separate experiences you then combine. The gap between neural integration mechanisms and phenomenal unity reveals BP2 in its starkest form.
 
@@ -109,7 +109,7 @@ The thalamus receives converging inputs from all sensory modalities and projects
 
 ## Experimental Evidence
 
-Experimental work has moved from theoretical possibility toward direct support (see [[quantum-coherence-and-binding-evidence]] for comprehensive analysis):
+Experimental work has moved from theoretical possibility toward direct support (see [[quantum-neural-mechanisms-and-coherence]] for comprehensive analysis):
 
 - **Microtubule-anesthesia link (Wiest et al., 2024):** Rats treated with a microtubule-stabilizing drug took significantly longer to lose consciousness under anesthesia (Cohen's d = 1.9). The quantum model predicted this; classical pharmacology has not explained why microtubule stabilization specifically delays anesthesia.
 - **Brain entanglement signatures (Kerskens & Pérez, 2022):** MRI signals indicating entanglement correlated with consciousness—present during waking, absent during sleep, tracking working memory performance. Warren (2023) raised methodological concerns; replication is needed.
@@ -145,11 +145,11 @@ Phenomenal binding illuminates why the Map's [[tenets]] take the positions they 
 - [[process-and-consciousness]] — How process philosophy illuminates phenomenal unity through actual occasions
 - [[unity-of-consciousness]] — Phenomenal unity, its varieties, and the broader conceptual framing
 - [[quantum-holism-and-phenomenal-unity]] — Extended structural argument, decoherence debate, and experimental evidence for quantum binding
-- [[quantum-coherence-and-binding-evidence]] — Experimental support for quantum binding mechanisms
+- [[quantum-neural-mechanisms-and-coherence]] — Experimental support for quantum binding mechanisms
 - [[phenomenal-binding-and-multimodal-integration]] — Cross-modal binding as the hardest case: temporal recalibration, inverse effectiveness, and the phenomenology of place
 - [[dualist-perception]] — Perceptual experience as the paradigm case of binding, including cross-modal unity
 - [[filter-theory]] — If the brain transmits rather than generates consciousness, unity is intrinsic to what is transmitted
-- [[consciousness-and-aesthetic-creation]] — Aesthetic creation as a demanding case of phenomenal binding across temporal development
+- [[aesthetics-and-consciousness]] — Aesthetic creation as a demanding case of phenomenal binding across temporal development
 - [[binding-problem]] — The neural challenge and historical formulation
 - [[combination-problem]] — Panpsychism's parallel challenge
 - [[quantum-consciousness]] — Mechanisms for consciousness-quantum interface

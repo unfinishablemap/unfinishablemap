@@ -4,7 +4,7 @@ description: "How can we know others are conscious? Six philosophical approaches
 created: 2026-01-14
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-03-17T20:29:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -90,7 +90,7 @@ The argument has force: it doesn't rely on behavioral similarity (inferring from
 
 ## Theory of Mind as Evidence
 
-[[Theory-of-mind|Theory of mind]] provides a different angle: rather than asking *whether* we can know others are conscious, we ask what the capacity for such knowledge reveals.
+[[theory-of-mind|Theory of mind]] provides a different angle: rather than asking *whether* we can know others are conscious, we ask what the capacity for such knowledge reveals.
 
 Theory of mind admits levels. Level 1: tracking what others perceive. Level 2: attributing beliefs that may differ from reality. Level 3+: recursive mindreading—representing others' mental states about mental states.
 
@@ -124,7 +124,7 @@ For AI, the Map's rejection of [[concepts/functionalism|functionalism]] complica
 
 ## The Illusionist Challenge
 
-[[Illusionism]] offers a radical response: if phenomenal consciousness is introspective illusion, the asymmetry dissolves. No hidden phenomenal realm exists to access. Keith Frankish proposes that what seems phenomenal consists of functional states that misrepresent themselves as having phenomenal character.
+[[illusionism]] offers a radical response: if phenomenal consciousness is introspective illusion, the asymmetry dissolves. No hidden phenomenal realm exists to access. Keith Frankish proposes that what seems phenomenal consists of functional states that misrepresent themselves as having phenomenal character.
 
 The Map maintains illusionism relocates rather than dissolves the problem. If I'm under an illusion of phenomenal consciousness, something must be doing the seeming—the asymmetry reappears at the meta-level. The discourse argument gains force: why would humans across cultures develop sophisticated vocabularies for something illusory? The convergence suggests something real and shared underlies it. And [[witness-consciousness|contemplative practice]] refines rather than dissolves phenomenal access—the seeming deepens under investigation rather than revealing emptiness.
 

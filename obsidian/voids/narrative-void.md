@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot observe its own s
 created: 2026-02-25
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-11T20:31:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -17,14 +17,14 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[introspective-opacity]]"
-  - "[[past-self-void]]"
-  - "[[the-unobservable-self]]"
+  - "[[inaccessible-past]]"
+  - "[[self-reference-paradox]]"
   - "[[creativity-void]]"
   - "[[cognitive-aversion]]"
   - "[[narrative-coherence]]"
   - "[[destabilizing-self-knowledge]]"
   - "[[transparency-void]]"
-  - "[[calibration-void]]"
+  - "[[measurement-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -51,7 +51,7 @@ The gap extends further than confabulated reasons. Johansson and Hall's choice b
 
 Participants selected between photographs for attractiveness. Researchers secretly substituted the rejected photograph. Most participants did not detect the swap. They proceeded to explain, with normal confidence, why they preferred the face they had actually rejected. The narrative mechanism does not merely fabricate reasons for genuine choices; it fabricates reasons for choices that never occurred.
 
-This finding extends [[introspective-opacity]] into new territory. Introspective opacity concerns the inability to observe cognitive processes—we see contents but not mechanisms. The narrative void goes further: the contents themselves may be fabricated. We are not merely blind to how we think; we can be blind to what we chose. The [[calibration-void]] deepens the problem: even if we suspected our narrative of distortion, we have no independent standard of phenomenal accuracy against which to check it.
+This finding extends [[introspective-opacity]] into new territory. Introspective opacity concerns the inability to observe cognitive processes—we see contents but not mechanisms. The narrative void goes further: the contents themselves may be fabricated. We are not merely blind to how we think; we can be blind to what we chose. The [[measurement-void]] deepens the problem: even if we suspected our narrative of distortion, we have no independent standard of phenomenal accuracy against which to check it.
 
 ## Three Layers of the Void
 
@@ -75,7 +75,7 @@ The narrative void is therefore not only about what the narrative loses or fabri
 
 Strawson's "Against Narrativity" challenges the assumption that narrative self-experience is universal. He distinguishes "diachronic" people, who experience the self as extended through time, from "episodic" people who do not. Strawson identifies himself as episodic, reporting "absolutely no sense of his life as a narrative with form."
 
-If some minds operate with less narrative construction, this reveals that narration is not given but built. What is built can be built differently—or built badly. The episodic counter-example does not dissolve the narrative void; it demonstrates that the void has variable depth. The less you narrate, the less the narrator can deceive you. But episodic experience may carry its own void: an inability to access one's own temporal continuity, a different kind of self-alienation that parallels what the [[past-self-void]] describes.
+If some minds operate with less narrative construction, this reveals that narration is not given but built. What is built can be built differently—or built badly. The episodic counter-example does not dissolve the narrative void; it demonstrates that the void has variable depth. The less you narrate, the less the narrator can deceive you. But episodic experience may carry its own void: an inability to access one's own temporal continuity, a different kind of self-alienation that parallels what the [[inaccessible-past]] describes.
 
 ## The Phenomenology of Narrative Breakdown
 
@@ -98,13 +98,13 @@ The narrative void also illustrates the Map's [[tenets#^occams-limits|tenet that
 ## Further Reading
 
 - [[introspective-opacity]]
-- [[past-self-void]]
-- [[the-unobservable-self]]
+- [[inaccessible-past]]
+- [[self-reference-paradox]]
 - [[creativity-void]]
 - [[cognitive-aversion]]
 - [[narrative-coherence]]
 - [[destabilizing-self-knowledge]]
-- [[calibration-void]]
+- [[measurement-void]]
 - [[transparency-void]]
 
 ## References

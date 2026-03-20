@@ -4,7 +4,7 @@ description: "Natural selection works the same whether physicalism or dualism is
 created: 2026-02-12
 modified: 2026-03-14
 human_modified:
-ai_modified: 2026-03-14T19:59:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -120,7 +120,7 @@ If consciousness genuinely improves fitness—as the [[evolutionary-case-for-men
 
 What would selection for interface quality look like? Several features of brain evolution become suggestive:
 
-**Neural coherence**: If consciousness interfaces with quantum processes in neural tissue, brains that maintain [[quantum-coherence-and-binding-evidence|quantum coherence]] in behaviourally relevant circuits would have fitness advantages. The [[decoherence|decoherence objection]]—that warm biological tissue destroys quantum coherence too rapidly—remains the primary challenge, but [[quantum-biology|quantum biology]] has demonstrated that photosynthesis and avian magnetoreception exploit quantum effects in warm environments. The evolution of microtubule organisation, myelination patterns, and synaptic architecture might reflect selection for quantum-friendly structures alongside selection for computational efficiency.
+**Neural coherence**: If consciousness interfaces with quantum processes in neural tissue, brains that maintain [[quantum-neural-mechanisms-and-coherence|quantum coherence]] in behaviourally relevant circuits would have fitness advantages. The [[decoherence|decoherence objection]]—that warm biological tissue destroys quantum coherence too rapidly—remains the primary challenge, but [[quantum-biology|quantum biology]] has demonstrated that photosynthesis and avian magnetoreception exploit quantum effects in warm environments. The evolution of microtubule organisation, myelination patterns, and synaptic architecture might reflect selection for quantum-friendly structures alongside selection for computational efficiency.
 
 **Attentional systems**: The [[attention-as-interface|attention-as-interface]] hypothesis suggests that attention is the mechanism through which consciousness engages with neural processing. The elaborate attentional systems found in mammals and birds—systems far more sophisticated than what pure information processing would require—might reflect selection for richer conscious access to neural content.
 

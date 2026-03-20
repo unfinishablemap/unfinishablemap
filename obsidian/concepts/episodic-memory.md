@@ -4,7 +4,7 @@ description: "Episodic memory is constructive re-experiencing, not data retrieva
 created: 2026-01-17
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-03-11T22:42:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ concepts:
   - "[[decoherence]]"
   - "[[attention-as-interface]]"
   - "[[meditation-and-consciousness-modes]]"
-  - "[[past-self-void]]"
+  - "[[inaccessible-past]]"
   - "[[jourdain-hypothesis]]"
   - "[[baseline-cognition]]"
   - "[[self-and-consciousness]]"
@@ -40,8 +40,8 @@ related_articles:
   - "[[tenets]]"
   - "[[temporal-void]]"
   - "[[episodic-memory-consciousness-2026-01-16]]"
-  - "[[past-self-void]]"
-  - "[[memory-void]]"
+  - "[[inaccessible-past]]"
+  - "[[inaccessible-past]]"
   - "[[phenomenology-of-memory-and-the-self]]"
   - "[[capability-division-problem]]"
   - "[[memory-as-dual-domain-capability]]"
@@ -84,7 +84,7 @@ Patient KC demonstrated that autonoetic consciousness is a distinct capacity. Af
 
 ## Memory as Construction
 
-Constructive memory is the principle that remembering is an act of building, not retrieving. When you recall yesterday's conversation, your brain does not play back a recording. It reassembles a scene from distributed fragments—spatial context, emotional tone, semantic content, sensory detail—guided by present concerns and contextual cues. If every memory is freshly constructed, then each act of remembering generates new phenomenal experience rather than accessing stored experience. The [[past-self-void]] is not a limitation of human memory systems. It is an unavoidable consequence of how memory works.
+Constructive memory is the principle that remembering is an act of building, not retrieving. When you recall yesterday's conversation, your brain does not play back a recording. It reassembles a scene from distributed fragments—spatial context, emotional tone, semantic content, sensory detail—guided by present concerns and contextual cues. If every memory is freshly constructed, then each act of remembering generates new phenomenal experience rather than accessing stored experience. The [[inaccessible-past]] is not a limitation of human memory systems. It is an unavoidable consequence of how memory works.
 
 **Encoding selectivity**: Memory formation is constructive from the start. You encode what you attend to, filtered by emotion and interpreted through existing schemas. The same event witnessed by different people produces different memories because attention was directed differently.
 
@@ -120,7 +120,7 @@ In episodic memory, you are simultaneously the subject of the *current* consciou
 
 ### Phenomenological Gradations
 
-The phenomenology of remembering comes in degrees. *Nostalgic estrangement*: looking at old photos, you recognise yourself as protagonist but cannot re-enter that perspective—you remember *about* the experience without re-experiencing it. *Autobiographical vertigo*: occasionally "was that really me?" becomes sharp, creating dissonance between numerical identity (same person) and phenomenal alienation (different experience). *Varying felt connection*: sometimes a past self feels like "me," sometimes like a stranger—direct access wouldn't vary this way; reconstruction explains the variability. These gradations reveal what the [[past-self-void]] makes explicit: we are structurally strangers to ourselves across time, confusing vivid reconstruction with genuine access.
+The phenomenology of remembering comes in degrees. *Nostalgic estrangement*: looking at old photos, you recognise yourself as protagonist but cannot re-enter that perspective—you remember *about* the experience without re-experiencing it. *Autobiographical vertigo*: occasionally "was that really me?" becomes sharp, creating dissonance between numerical identity (same person) and phenomenal alienation (different experience). *Varying felt connection*: sometimes a past self feels like "me," sometimes like a stranger—direct access wouldn't vary this way; reconstruction explains the variability. These gradations reveal what the [[inaccessible-past]] makes explicit: we are structurally strangers to ourselves across time, confusing vivid reconstruction with genuine access.
 
 ### Involuntary Memory
 
@@ -203,8 +203,8 @@ Episodic memory supports all five foundational commitments.
 - [[prospective-memory]] — Memory for the future
 - [[working-memory]] — The cognitive workspace for mental time travel
 - [[personal-identity]] — How memory relates to selfhood
-- [[past-self-void]] — Why the past self is structurally inaccessible, not merely forgotten
-- [[memory-void]] — Whether past qualia persist or are lost forever
+- [[inaccessible-past]] — Why the past self is structurally inaccessible, not merely forgotten
+- [[inaccessible-past]] — Whether past qualia persist or are lost forever
 - [[binding-problem]] — Unity of experience and hippocampal binding
 - [[parfit-reductionism]] — Why identity matters, not just continuity
 - [[illusionism]] — The challenge to phenomenal consciousness claims

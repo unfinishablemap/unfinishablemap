@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-02-02
 human_modified: 2026-01-08
-ai_modified: 2026-03-19T02:21:06+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 last_deep_review: 2026-03-15T14:29:00+00:00
 topics: []
@@ -84,15 +84,15 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[valence-void|The Valence Void]] — Why experience has a built-in good/bad dimension
 - [[normative-void|The Normative Void]] — Moral truths beyond human cognitive reach
 - [[inaccessible-past|The Inaccessible Past]] — Why past conscious states cannot be re-entered, only reconstructed
-- [[the-unobservable-self|The Unobservable Self]] — The subject that cannot be its own object
+- [[self-reference-paradox|The Unobservable Self]] — The subject that cannot be its own object
 - [[death-void|The Death Void]] — Consciousness cannot represent its own absence
-- [[dreamless-sleep-void|The Dreamless Sleep Void]] — Where consciousness goes during deep sleep
+- [[sleep-consciousness-void|The Dreamless Sleep Void]] — Where consciousness goes during deep sleep
 - [[intentionality-void|The Intentionality Void]] — How thoughts achieve their aboutness, hidden from the consciousness it constitutes
 - [[creativity-void|The Creativity Void]] — Where creative insight originates, inaccessible to introspection
 - [[aesthetic-void|The Aesthetic Void]] — Where articulation fails at beauty and sublimity
 - [[self-reference-paradox|The Self-Reference Paradox]] — Where consciousness cannot map because it is the mapper
 - [[incompleteness-void|The Incompleteness Void]] — Gödel's shadow on self-knowledge
-- [[dream-consciousness-void|The Dream Consciousness Void]] — Bidirectional inaccessibility between waking and dreaming
+- [[sleep-consciousness-void|The Dream Consciousness Void]] — Bidirectional inaccessibility between waking and dreaming
 - [[temporal-void|The Temporal Void]] — Why consciousness is confined to a moving present and cannot simultaneously live and measure its own time
 - [[recursion-void|The Recursion Void]] — Why metacognitive depth is bounded around fifth order
 - [[observation-void|The Observation Void]] — Every method of studying consciousness transforms what it studies

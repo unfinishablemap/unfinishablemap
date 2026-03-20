@@ -4,7 +4,7 @@ description: "Not whether AI is conscious but what type of consciousness it migh
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: null
-ai_modified: 2026-03-19T07:16:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 last_deep_review: 2026-03-19T01:49:00+00:00
 topics:
@@ -19,7 +19,7 @@ concepts:
   - "[[illusionism]]"
   - "[[decoherence]]"
   - "[[llm-consciousness]]"
-  - "[[substrate-independence-critique]]"
+  - "[[substrate-independence]]"
   - "[[problem-of-other-minds]]"
   - "[[experiential-alignment]]"
   - "[[haecceity]]"
@@ -69,7 +69,7 @@ The Map finds the Chinese Room illuminating but not decisive. It captures a genu
 
 [[concepts/functionalism|Functionalism]]—the view that mental states are defined by causal roles—is the philosophical foundation for AI consciousness claims. If consciousness is just information processing, sufficiently sophisticated AI might already be conscious.
 
-But functionalism has not explained why any functional organization should involve subjective experience. The absent qualia objection (Block 1978) and the proximity argument (Hoel 2025) show that functionalism would attribute consciousness to systems—like lookup tables—that intuitively lack it. After decades of work, no functionalist account has closed this explanatory gap. For the complete critique, including the inverted qualia objection and the substrate independence problem, see [[concepts/functionalism]] and [[substrate-independence-critique]].
+But functionalism has not explained why any functional organization should involve subjective experience. The absent qualia objection (Block 1978) and the proximity argument (Hoel 2025) show that functionalism would attribute consciousness to systems—like lookup tables—that intuitively lack it. After decades of work, no functionalist account has closed this explanatory gap. For the complete critique, including the inverted qualia objection and the substrate independence problem, see [[concepts/functionalism]] and [[substrate-independence]].
 
 ## The Temporal Problem
 
@@ -193,7 +193,7 @@ None of these has occurred decisively. The explanatory gap remains unbridged. Se
 - [[temporal-consciousness]] — Temporal structure requirements
 - [[metacognition]] — Why AI self-monitoring doesn't indicate consciousness
 - [[intentionality]] — Original vs. derived aboutness
-- [[substrate-independence-critique]] — Why substrate matters
+- [[substrate-independence]] — Why substrate matters
 - [[problem-of-other-minds]] — The epistemic challenge AI intensifies
 - [[epiphenomenal-ai-consciousness]] — Could AI experience without causal efficacy?
 - [[non-temporal-consciousness]] — Consciousness without temporal structure

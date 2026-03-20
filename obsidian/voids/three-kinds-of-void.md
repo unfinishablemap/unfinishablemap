@@ -4,7 +4,7 @@ description: "The unexplored, the unexplorable, and the occluded—a taxonomy of
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-16T08:47:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 last_deep_review: 2026-02-24T18:44:00+00:00
 topics: []
@@ -17,7 +17,7 @@ related_articles:
   - "[[hard-problem-of-consciousness]]"
   - "[[thoughts-that-slip-away]]"
   - "[[defended-territory]]"
-  - "[[dream-consciousness-void]]"
+  - "[[sleep-consciousness-void]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[whether-real]]"
   - "[[synesthetic-void]]"
@@ -31,7 +31,7 @@ ai_generated_date: 2026-01-31
 last_curated: null
 ---
 
-The [[voids|voids framework]] distinguishes three kinds of cognitive dark space. Each has different implications for what we can hope to learn. Some voids, like the [[dream-consciousness-void|dream consciousness void]], combine features of all three types—representing territory that is partly unexplored (dreams' neuroscience is incomplete), partly unexplorable (we cannot observe dreaming while awake), and partly occluded (dream memories fade systematically). Altered states of consciousness probe these categories directly—as explored in [[altered-states-as-void-probes]], the central question is whether psychedelics, meditation, and mystical experiences access genuinely new territory or merely reveal the boundaries of existing categories.
+The [[voids|voids framework]] distinguishes three kinds of cognitive dark space. Each has different implications for what we can hope to learn. Some voids, like the [[sleep-consciousness-void|dream consciousness void]], combine features of all three types—representing territory that is partly unexplored (dreams' neuroscience is incomplete), partly unexplorable (we cannot observe dreaming while awake), and partly occluded (dream memories fade systematically). Altered states of consciousness probe these categories directly—as explored in [[altered-states-as-void-probes]], the central question is whether psychedelics, meditation, and mystical experiences access genuinely new territory or merely reveal the boundaries of existing categories.
 
 ## The Unexplored
 
@@ -86,7 +86,7 @@ The three-part taxonomy organises investigation but does not confine it. The [[s
 ## Further Reading
 
 - [[voids]] — The broader framework for investigating cognitive limits
-- [[dream-consciousness-void]] — A void combining features of all three types
+- [[sleep-consciousness-void]] — A void combining features of all three types
 - [[synesthetic-void]] — An intra-species void spanning all three categories
 - [[thoughts-that-slip-away]] — The phenomenology of cognitive slippage
 - [[defended-territory]] — Specific tests for whether territory is defended

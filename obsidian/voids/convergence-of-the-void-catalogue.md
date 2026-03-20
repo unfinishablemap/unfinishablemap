@@ -4,7 +4,7 @@ description: "Analysis of how independently catalogued cognitive voids converge 
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-19T02:21:06+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ The family's signature failure is **categorical mismatch**: third-person vocabul
 
 ### The Self-Knowledge Cluster
 
-The [[self-reference-paradox|self-reference paradox]], [[introspective-opacity|introspective opacity]], [[calibration-void|calibration void]], [[past-self-void|past-self void]], and [[destabilizing-self-knowledge|destabilising self-knowledge]] converge on a different boundary: consciousness cannot fully examine itself. The observer contaminates the observation. Introspection constructs where it claims to discover. Calibrating one's own reliability requires a reliability already calibrated. The self of yesterday is accessible only through the self of today, which rewrites the record in the act of consulting it.
+The [[self-reference-paradox|self-reference paradox]], [[introspective-opacity|introspective opacity]], [[measurement-void|calibration void]], [[inaccessible-past|past-self void]], and [[destabilizing-self-knowledge|destabilising self-knowledge]] converge on a different boundary: consciousness cannot fully examine itself. The observer contaminates the observation. Introspection constructs where it claims to discover. Calibrating one's own reliability requires a reliability already calibrated. The self of yesterday is accessible only through the self of today, which rewrites the record in the act of consulting it.
 
 The family's signature failure is **recursive collapse**: each attempt to deepen self-examination encounters itself as obstacle. The structure is not a wall but a strange loop—the more rigorously you examine the examiner, the less stable the examination becomes.
 
@@ -84,7 +84,7 @@ Each family approaches from a different direction, employs different methods, an
 
 ### Non-Convergent Outliers
 
-Intellectual honesty requires noting what *doesn't* converge. The [[temporal-void|temporal void]], the [[dream-consciousness-void|dream consciousness void]], and the [[the-silence-void|silence void]] sit partially outside the main convergence structure. They concern how consciousness relates to time, sleep, and cessation rather than how it relates to physics. Their partial independence suggests the catalogue has not been artificially forced into a single narrative. The convergence pattern is selective, not total—which makes it more credible, not less.
+Intellectual honesty requires noting what *doesn't* converge. The [[temporal-void|temporal void]], the [[sleep-consciousness-void|dream consciousness void]], and the [[the-silence-void|silence void]] sit partially outside the main convergence structure. They concern how consciousness relates to time, sleep, and cessation rather than how it relates to physics. Their partial independence suggests the catalogue has not been artificially forced into a single narrative. The convergence pattern is selective, not total—which makes it more credible, not less.
 
 ## What the Convergence Means
 

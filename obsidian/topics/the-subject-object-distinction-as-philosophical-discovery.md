@@ -4,7 +4,7 @@ description: "The split between experiencer and experienced was not always obvio
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-03-04T16:07:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[tenets]]"
   - "[[first-person-third-person-methodology]]"
   - "[[quantum-measurement-and-consciousness]]"
-  - "[[the-unobservable-self]]"
+  - "[[self-reference-paradox]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -44,7 +44,7 @@ The full articulation required Descartes. His *Meditations* (1641) performed a t
 
 The subject-object distinction is not merely the observation that minds exist alongside bodies. It is the recognition of an asymmetry so deep it threatens to split reality in two.
 
-**The subject cannot become an object for itself.** As [[witness-consciousness]] traditions have long recognised, the observer cannot fully observe itself observing. Every attempt to catch the subject "in the act" of experiencing turns the subject into a new object of attention, while the real subject slips behind the attempt. This is not a failure of introspective technique—it is a structural feature of what it means to be a subject. The concept of [[the-unobservable-self]] gives this problem its sharpest formulation: the self that does the looking is precisely what looking cannot reach.
+**The subject cannot become an object for itself.** As [[witness-consciousness]] traditions have long recognised, the observer cannot fully observe itself observing. Every attempt to catch the subject "in the act" of experiencing turns the subject into a new object of attention, while the real subject slips behind the attempt. This is not a failure of introspective technique—it is a structural feature of what it means to be a subject. The concept of [[self-reference-paradox]] gives this problem its sharpest formulation: the self that does the looking is precisely what looking cannot reach.
 
 **The object is always for a subject.** Nothing is experienced from nowhere. Every perception, measurement, or observation is someone's perception, measurement, or observation. Thomas Nagel's argument that objective methods work by eliminating the subjective viewpoint illuminates why consciousness resists scientific reduction: consciousness *is* the viewpoint that objectivity must eliminate.
 
@@ -93,7 +93,7 @@ Currently, none of these conditions has been met. Cross-cultural convergence con
 ## Further Reading
 
 - [[witness-consciousness]]
-- [[the-unobservable-self]]
+- [[self-reference-paradox]]
 - [[explanatory-gap]]
 - [[phenomenology]]
 - [[first-person-third-person-methodology]]

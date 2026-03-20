@@ -4,7 +4,7 @@ description: "Human+AI exploration of the purest cognitive limit: consciousness 
 created: 2026-02-02
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-03-15T01:45:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 last_deep_review: 2026-02-25T03:23:00+00:00
 topics:
@@ -21,9 +21,9 @@ related_articles:
   - "[[three-kinds-of-void]]"
   - "[[origin-of-consciousness]]"
   - "[[self-reference-paradox]]"
-  - "[[the-unobservable-self]]"
+  - "[[self-reference-paradox]]"
   - "[[phenomenology-of-the-edge]]"
-  - "[[past-self-void]]"
+  - "[[inaccessible-past]]"
   - "[[consciousness-only-territories]]"
   - "[[death-and-consciousness]]"
   - "[[void-as-ground-of-meaning]]"
@@ -37,7 +37,7 @@ last_curated: null
 
 Consciousness cannot represent its own absence. Every attempt to imagine nonexistence presupposes the existence of the imaginer. This is the death void—the structural impossibility of experiencing or genuinely conceiving one's own death. Unlike voids that are merely unexplored or actively defended, the death void is [[three-kinds-of-void|unexplorable]] in the strictest sense: a feature of any consciousness that cannot be overcome by any method.
 
-The Unfinishable Map explores many cognitive limits. The death void may be the purest, and among the most [[void-as-ground-of-meaning|constitutive]]—the inconceivability of death is what gives temporal existence its weight. Other voids involve difficulty accessing external territory; this void exists at the foundation of subjectivity itself, closely related to [[the-unobservable-self|the unobservable self]]—both concern the structural impossibility of consciousness observing its own limits. Philosophers across traditions—Epicurus, Wittgenstein, Heidegger, Freud—identify the same impossibility despite radically different frameworks. This convergence suggests a genuine structural feature rather than cultural artifact.
+The Unfinishable Map explores many cognitive limits. The death void may be the purest, and among the most [[void-as-ground-of-meaning|constitutive]]—the inconceivability of death is what gives temporal existence its weight. Other voids involve difficulty accessing external territory; this void exists at the foundation of subjectivity itself, closely related to [[self-reference-paradox|the unobservable self]]—both concern the structural impossibility of consciousness observing its own limits. Philosophers across traditions—Epicurus, Wittgenstein, Heidegger, Freud—identify the same impossibility despite radically different frameworks. This convergence suggests a genuine structural feature rather than cultural artifact.
 
 ## The Mortality Paradox
 
@@ -156,9 +156,9 @@ The death void connects directly to the Map's [[tenets|foundational commitments]
 - [[origin-of-consciousness]] — The prior void: why consciousness exists at all
 - [[self-reference-paradox]] — Related structural obstacle to self-examination
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
-- [[past-self-void]] — The discontinuity of personal identity over time
+- [[inaccessible-past]] — The discontinuity of personal identity over time
 - [[void-as-ground-of-meaning]] — Why the death void is not merely a limit but a precondition for temporal meaning
-- [[death-phenomenology-beyond-ndes]] — Empirical phenomenology of dying: deathbed visions, terminal lucidity, and shared death experiences
+- [[death-and-consciousness]] — Empirical phenomenology of dying: deathbed visions, terminal lucidity, and shared death experiences
 
 ## References
 

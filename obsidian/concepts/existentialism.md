@@ -4,7 +4,7 @@ description: "Existentialist philosophy's contributions to consciousness studies
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-03-05T07:07:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -47,7 +47,7 @@ This structure generates what Sartre calls the "nothingness" at the heart of con
 
 ### The Regress Against Illusionism
 
-[[Illusionism]] claims that phenomenal consciousness is an introspective illusion—that there is nothing it is like to be conscious, only functional states that misrepresent themselves as having qualitative character. Sartre's pour-soi structure reveals why this position is self-undermining.
+[[illusionism]] claims that phenomenal consciousness is an introspective illusion—that there is nothing it is like to be conscious, only functional states that misrepresent themselves as having qualitative character. Sartre's pour-soi structure reveals why this position is self-undermining.
 
 The illusionist must answer: to whom does the illusion appear? For a misrepresentation to occur, something must be misrepresented *to* something. Frankish (2016) responds that "seeming" can be deflated into purely functional terms—a cognitive or theoretical error about one's own states, not a phenomenal illusion requiring a phenomenal experiencer. The deflationary move aims to stop the regress by denying that functional "seeming" presupposes phenomenal consciousness at all.
 

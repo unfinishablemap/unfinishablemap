@@ -4,7 +4,7 @@ description: "Human+AI exploration of the paradox at consciousness's peak: the m
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-03-11T19:33:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics: []
 concepts:
@@ -12,7 +12,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[three-kinds-of-void]]"
-  - "[[the-unobservable-self]]"
+  - "[[self-reference-paradox]]"
   - "[[attention-created-voids]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[altered-states-as-void-probes]]"
@@ -72,7 +72,7 @@ The deepest question about the absorption void is whether it has phenomenal cont
 
 Consider: after a period of deep flow, subjects report that something profound happened but cannot say precisely what. Is this because the experience was so rich that memory captures only fragments? Or because the experience, while intense, lacked the self-referential dimension that makes detailed recall possible? The absorption void may conceal plenitude or poverty — and no method of investigation can definitively distinguish between them.
 
-This connects the absorption void to the [[the-unobservable-self|unobservable self]]. In both cases, the observing subject cannot make itself the object of its own observation. But the absorption void adds a twist: it is not the self that is hidden but the self's own peak states. The [[attention-created-voids|selective nature of attention]] ensures that full engagement with a task excludes the very self-monitoring that would record what engagement feels like.
+This connects the absorption void to the [[self-reference-paradox|unobservable self]]. In both cases, the observing subject cannot make itself the object of its own observation. But the absorption void adds a twist: it is not the self that is hidden but the self's own peak states. The [[attention-created-voids|selective nature of attention]] ensures that full engagement with a task excludes the very self-monitoring that would record what engagement feels like.
 
 ## Relation to Site Perspective
 
@@ -90,7 +90,7 @@ The Map speculates that the absorption void may be partly occluded rather than m
 
 - [[voids]] — The voids framework: unexplored, unexplorable, occluded
 - [[three-kinds-of-void]] — The core taxonomy of cognitive limits
-- [[the-unobservable-self]] — The subject that cannot be its own object
+- [[self-reference-paradox]] — The subject that cannot be its own object
 - [[attention-created-voids]] — What attention excludes by selecting
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
 - [[altered-states-as-void-probes]] — Whether altered states reveal or simulate transcendence

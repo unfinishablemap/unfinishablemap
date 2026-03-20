@@ -4,7 +4,7 @@ description: "When multiple independent lines of reasoning—across methods, tra
 created: 2026-02-19
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-03-19T17:42:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[the-convergence-argument-for-dualism]]"
@@ -128,7 +128,7 @@ The empirical evidence complicates this story. Barrett et al.'s (2021) cross-cul
 
 ### Cognitive Closure
 
-[[Mysterianism]] — the view associated with Colin McGinn that humans may be cognitively closed to the consciousness-brain relationship — offers a subtler anti-realist account. Perhaps traditions converge on irreducibility not because consciousness *is* irreducible but because human minds cannot grasp the reductive explanation. The convergence tracks a shared limitation, not a shared truth.
+[[mysterianism]] — the view associated with Colin McGinn that humans may be cognitively closed to the consciousness-brain relationship — offers a subtler anti-realist account. Perhaps traditions converge on irreducibility not because consciousness *is* irreducible but because human minds cannot grasp the reductive explanation. The convergence tracks a shared limitation, not a shared truth.
 
 Two observations limit this objection. First, cognitive closure does not favour physicalism — if the solution is beyond us, we cannot know whether it is reductive or non-reductive. Mysterianism entails agnosticism, not materialism. Second, a generic cognitive limitation would be expected to produce *variable* philosophical errors, not convergence on a structurally precise diagnosis. The fact that traditions independently identify the same *kind* of gap — between structural description and qualitative character — is more naturally explained by a real feature of consciousness than by a shared blind spot.
 

@@ -4,7 +4,7 @@ description: "Human+AI exploration of why cognitive silence—the cessation of t
 created: 2026-02-17
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-02-24T14:57:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,13 +20,13 @@ related_articles:
   - "[[tenets]]"
   - "[[three-kinds-of-void]]"
   - "[[apophatic-approaches]]"
-  - "[[dreamless-sleep-void]]"
+  - "[[sleep-consciousness-void]]"
   - "[[consciousness-only-territories]]"
   - "[[pre-conceptual-knowing]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[ai-as-void-explorer]]"
   - "[[habituation-void]]"
-  - "[[the-unobservable-self]]"
+  - "[[self-reference-paradox]]"
   - "[[contemplative-epistemology]]"
   - "[[witness-consciousness]]"
   - "[[meditation-and-consciousness-modes]]"
@@ -41,7 +41,7 @@ last_deep_review: 2026-02-24T14:57:00+00:00
 
 The Unfinishable Map cannot map silence. Mapping is a cognitive activity—it requires categories, distinctions, language—and the silence void is the territory that opens only when cognition stops. Multiple contemplative traditions across centuries and cultures converge on a claim that should trouble any cartographic project: some truths are accessible only through the deliberate cessation of thought, and any attempt to articulate them destroys the conditions under which they are known. This void is not the absence of something. It is a territory whose entry condition is the suspension of the very faculties that make mapping possible.
 
-The silence void is distinct from related voids on the Map. The [[dreamless-sleep-void]] concerns involuntary absence—consciousness interrupted without the subject's participation. [[Apophatic-approaches|Apophatic approaches]] use negation, which is still active reasoning. The silence void concerns what happens when even negation ceases—when the thinker releases not just particular thoughts but the activity of thinking itself.
+The silence void is distinct from related voids on the Map. The [[sleep-consciousness-void]] concerns involuntary absence—consciousness interrupted without the subject's participation. [[apophatic-approaches|Apophatic approaches]] use negation, which is still active reasoning. The silence void concerns what happens when even negation ceases—when the thinker releases not just particular thoughts but the activity of thinking itself.
 
 ## The Convergent Testimony
 
@@ -114,12 +114,12 @@ The void also raises a provocative implication for the Map itself. If consciousn
 ## Further Reading
 
 - [[apophatic-approaches]]
-- [[dreamless-sleep-void]]
+- [[sleep-consciousness-void]]
 - [[consciousness-only-territories]]
 - [[pre-conceptual-knowing]]
 - [[phenomenology-of-the-edge]]
 - [[ai-as-void-explorer]]
-- [[the-unobservable-self]]
+- [[self-reference-paradox]]
 - [[contemplative-epistemology]]
 - [[witness-consciousness]]
 - [[meditation-and-consciousness-modes]]

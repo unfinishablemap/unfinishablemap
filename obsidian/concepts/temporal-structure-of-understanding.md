@@ -4,7 +4,7 @@ description: "The click of comprehension has temporal phenomenology: suddenness,
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-02-25T03:08:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,8 +28,8 @@ concepts:
   - "[[binding-problem]]"
 related_articles:
   - "[[tenets]]"
-  - "[[consciousness-and-mathematical-understanding]]"
-  - "[[consciousness-and-semantic-understanding]]"
+  - "[[consciousness-and-mathematical-cognition]]"
+  - "[[phenomenology-of-understanding-and-meaning]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -188,13 +188,13 @@ This doesn't prove AI cannot understand. It suggests that if AI does understand,
 
 - [[cognitive-phenomenology]] — The broader debate about whether thinking has phenomenal character
 - [[temporal-consciousness]] — How consciousness structures time experience more generally
-- [[consciousness-and-mathematical-understanding]] — Mathematical insight as paradigm case of understanding
+- [[consciousness-and-mathematical-cognition]] — Mathematical insight as paradigm case of understanding
 - [[temporal-consciousness]] — The temporal window within which binding occurs
 - [[working-memory]] — The cognitive system supporting temporal manipulation
 - [[epistemic-emotions]] — Feelings of knowing, curiosity, and other understanding-related phenomenology
 - [[language-recursion-and-consciousness]] — How recursive structure processing reveals temporal phenomenology
 - [[temporal-consciousness]] — Bergson's concept of lived time as interpenetrating flow
-- [[consciousness-and-semantic-understanding]] — Related argument that meaning is constitutively phenomenal
+- [[phenomenology-of-understanding-and-meaning]] — Related argument that meaning is constitutively phenomenal
 - [[phenomenology-of-choice]] — Parallels between the phenomenology of choosing and understanding
 - [[agent-causation]] — Understanding as a case of conscious agency in cognition
 - [[decoherence]] — The quantum challenge to any consciousness-brain interface

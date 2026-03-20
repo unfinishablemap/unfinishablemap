@@ -4,7 +4,7 @@ description: "What makes you *you* across time? The Map emphasizes indexical ide
 created: 2026-01-08
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-18T21:06:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,8 +27,8 @@ related_articles:
   - "[[tenets]]"
   - "[[meaning-of-life]]"
   - "[[death-and-consciousness]]"
-  - "[[past-self-void]]"
-  - "[[dreamless-sleep-void]]"
+  - "[[inaccessible-past]]"
+  - "[[sleep-consciousness-void]]"
   - "[[indexical-void]]"
 ai_contribution: 100
 author: null
@@ -54,7 +54,7 @@ Three main positions dominate the debate about what makes someone at one time th
 
 Recent phenomenological work distinguishes these from a more basic [[self-and-consciousness|minimal self]]—a pre-reflective first-person perspective present whenever consciousness is present. The minimal self is the "for-me-ness" of experience that persists even when narrative identity fragments. This suggests personal identity may have layers: a narrative layer that changes dramatically, and a minimal layer—the bare perspectival character of experience—that persists throughout.
 
-[[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]]—the capacity for mental time travel—adds another dimension. When remembering, you don't merely access information; you *reconstruct* the past with a distinctive phenomenal character that marks the experience as yours. The [[anoetic-noetic-autonoetic-consciousness|constitutive view]] holds that this felt quality *defines* episodic memory—strip it away and what remains is factual knowledge, not genuine remembering. Yet as the [[past-self-void]] reveals, reconstruction can never fully access the original experience—the phenomenal state itself is gone, replaced by present simulation. Each act of retrieval permanently alters the trace through reconsolidation, making [[consciousness-and-memory|consciousness a causal participant in memory's ongoing transformation]]—the self perpetually rewriting its own history. The "pastness quale" that marks memories as genuinely yours points to something information storage cannot capture.
+[[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]]—the capacity for mental time travel—adds another dimension. When remembering, you don't merely access information; you *reconstruct* the past with a distinctive phenomenal character that marks the experience as yours. The [[anoetic-noetic-autonoetic-consciousness|constitutive view]] holds that this felt quality *defines* episodic memory—strip it away and what remains is factual knowledge, not genuine remembering. Yet as the [[inaccessible-past]] reveals, reconstruction can never fully access the original experience—the phenomenal state itself is gone, replaced by present simulation. Each act of retrieval permanently alters the trace through reconsolidation, making [[consciousness-and-memory|consciousness a causal participant in memory's ongoing transformation]]—the self perpetually rewriting its own history. The "pastness quale" that marks memories as genuinely yours points to something information storage cannot capture.
 
 ## Parfit's Challenge
 
@@ -92,7 +92,7 @@ Three considerations support the inference:
 
 3. **The explanatory gap**: Why does reductionism seem inadequate? Perhaps because it *is* inadequate—our persistent puzzlement about personal identity reflects genuine metaphysical structure, not mere conceptual confusion.
 
-4. **The past-self argument**: The [[past-self-void]] reveals that we cannot access past conscious states—only reconstruct them from traces. If experience were merely information, memory could preserve it completely. That it cannot suggests experience involves something information storage cannot capture: the haecceity of *undergoing* rather than *representing*.
+4. **The past-self argument**: The [[inaccessible-past]] reveals that we cannot access past conscious states—only reconstruct them from traces. If experience were merely information, memory could preserve it completely. That it cannot suggests experience involves something information storage cannot capture: the haecceity of *undergoing* rather than *representing*.
 
 **The error theory worry**: Could the sense of haecceity be a cognitive illusion? The illusionist challenge (addressed below) raises this directly. But if our sense of haecceity is illusory, what is having that illusion? The seeming requires a subject for whom things seem—and this subject has the very particularity the illusion supposedly creates. The error theory faces a regress.
 
@@ -140,7 +140,7 @@ This supports the Map's view: if consciousness were merely brain processes, comp
 
 ### The Dreamless Sleep Challenge
 
-If consciousness constitutes personal identity and ceases during dreamless sleep, the person who wakes may not be the same person who slept. The [[dreamless-sleep-void]] explores this gap we enter nightly and cannot observe from within.
+If consciousness constitutes personal identity and ceases during dreamless sleep, the person who wakes may not be the same person who slept. The [[sleep-consciousness-void]] explores this gap we enter nightly and cannot observe from within.
 
 The Map's response draws on two complementary insights. The Vedantic analysis holds that consciousness persists through deep sleep as [[witness-consciousness|witness-awareness]] stripped of content—we remember nothing not because consciousness was absent but because the ego that would encode memory was not present. The [[eastern-philosophy-consciousness|Buddhist perspective]] makes the gap less threatening from a different angle: if identity is already process-based rather than substance-based, a gap doesn't destroy a substance but merely pauses a causal process that resumes through continuity. The gap in memory need not imply a gap in consciousness—or in the conscious being whose identity is in question.
 
@@ -216,7 +216,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 - [[anoetic-noetic-autonoetic-consciousness]] — Mental time travel and the temporal self
 - [[split-brain-consciousness]] — Empirical evidence on consciousness unity and division
 - [[death-and-consciousness]] — What survival after death would require
-- [[dreamless-sleep-void]] — The nightly gap in consciousness and what it means for identity
+- [[sleep-consciousness-void]] — The nightly gap in consciousness and what it means for identity
 - [[buddhism-and-dualism]] — Buddhist perspectives on self; the *anatta* doctrine and the witness response
 - [[eastern-philosophy-consciousness]] — Process haecceitism: how Buddhist impermanence and indexical identity coexist
 - [[illusionism]] — The challenge that consciousness itself is illusory

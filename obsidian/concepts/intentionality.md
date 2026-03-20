@@ -4,12 +4,12 @@ description: "The aboutness of mental states: why thoughts are directed at objec
 created: 2026-01-14
 modified: 2026-03-01
 human_modified: null
-ai_modified: 2026-03-06T06:12:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
-  - "[[consciousness-and-semantic-understanding]]"
+  - "[[phenomenology-of-understanding-and-meaning]]"
 concepts:
   - "[[qualia]]"
   - "[[concepts/functionalism]]"
@@ -118,7 +118,7 @@ Horgan and Tienson make the connection explicit: phenomenal consciousness is inh
 
 The connection between intentionality and meaning has deep roots. Grice argued that linguistic meaning depends on speaker intention; Searle's "connection principle" holds that all intentionality is either conscious or derivable from conscious states. The [[language-and-consciousness|philosophy of language and consciousness]] examines how these analyses reveal that consciousness resists the tools philosophy of language developed for ordinary discourse. This connection extends to the social domain: [[consciousness-and-collective-phenomena|collective intentionality]]—shared goals, joint commitments, institutional facts—also appears to require phenomenal consciousness as its foundation.
 
-The [[consciousness-and-semantic-understanding|Phenomenal Constitution Thesis]] (PCT) extends PIT to semantic content: meaning itself is constitutively phenomenal. To grasp a meaning *is* to have a certain kind of experience.
+The [[phenomenology-of-understanding-and-meaning|Phenomenal Constitution Thesis]] (PCT) extends PIT to semantic content: meaning itself is constitutively phenomenal. To grasp a meaning *is* to have a certain kind of experience.
 
 PCT reinforces PIT with empirical evidence from [[semantic-memory|semantic memory]] research. The tip-of-the-tongue (TOT) state is revealing: you have the meaning without the phonological form. The semantic content is phenomenally present—you know what you mean—but the word won't come. This dissociation shows meaning has phenomenal character independent of linguistic expression.
 
@@ -126,7 +126,7 @@ The feeling of knowing (FOK) extends this: you feel confident you know something
 
 ### Understanding as Phenomenal Binding
 
-Why does intentionality require phenomenal consciousness? The [[consciousness-and-semantic-understanding|consciousness and semantic understanding]] analysis suggests a mechanistic answer: understanding complex content requires [[binding-problem|*binding*]] multiple elements into unified semantic representations. "The dog chased the cat" means something different from "The cat chased the dog" despite identical elements—the binding is structured.
+Why does intentionality require phenomenal consciousness? The [[phenomenology-of-understanding-and-meaning|consciousness and semantic understanding]] analysis suggests a mechanistic answer: understanding complex content requires [[binding-problem|*binding*]] multiple elements into unified semantic representations. "The dog chased the cat" means something different from "The cat chased the dog" despite identical elements—the binding is structured.
 
 Consciousness appears required for such binding. The maintenance/manipulation distinction shows that merely holding information can be unconscious, but actively combining information into new structures requires conscious access. Semantic binding is manipulation—integrating elements into structured wholes. If binding requires consciousness, so does intentionality toward complex contents.
 
@@ -240,7 +240,7 @@ Intentionality connects to all five foundational tenets:
 
 ## Further Reading
 
-- [[consciousness-and-semantic-understanding]] — Why meaning is constitutively phenomenal (the Phenomenal Constitution Thesis)
+- [[phenomenology-of-understanding-and-meaning]] — Why meaning is constitutively phenomenal (the Phenomenal Constitution Thesis)
 - [[semantic-memory]] — How meaning is stored, accessed, and experienced
 - [[phenomenology]] — The tradition that discovered and systematically investigates intentionality
 - [[cognitive-phenomenology]] — Does thinking itself have phenomenal character that grounds content?

@@ -4,7 +4,7 @@ description: "If consciousness participates in quantum outcomes, quantum mechani
 created: 2026-03-14
 modified: 2026-03-14
 human_modified: null
-ai_modified: 2026-03-18T04:29:00+00:00
+ 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-03-14T20:43:00+00:00
 draft: false
 topics:
@@ -154,7 +154,7 @@ The measurement problem and the [[hard-problem-of-consciousness|hard problem]] s
 
 ### The Interface Is the Ontological Joint
 
-If reality has two aspects—structural (physical, described by the wavefunction) and actualizing (conscious, providing selection)—then the interface between them would be the fundamental ontological joint. The Born rule describes this joint's structure. [[Decoherence]] determines the basis at which the joint operates (which observables are available for selection) and explains why macroscopic superpositions vanish almost instantly—a physical achievement that should not be understated. But decoherence selects the basis without selecting the outcome; the system after decoherence remains in a mixture of possibilities. [[spontaneous-collapse-theories|Objective collapse]] provides the baseline mechanism for pre-conscious physics, with consciousness modulating this process in neural systems.
+If reality has two aspects—structural (physical, described by the wavefunction) and actualizing (conscious, providing selection)—then the interface between them would be the fundamental ontological joint. The Born rule describes this joint's structure. [[decoherence]] determines the basis at which the joint operates (which observables are available for selection) and explains why macroscopic superpositions vanish almost instantly—a physical achievement that should not be understated. But decoherence selects the basis without selecting the outcome; the system after decoherence remains in a mixture of possibilities. [[spontaneous-collapse-theories|Objective collapse]] provides the baseline mechanism for pre-conscious physics, with consciousness modulating this process in neural systems.
 
 On this account, the interface is not a place in space. It would be a feature of reality wherever quantum indeterminacy meets conscious observation. In neural systems, this is where [[attention-as-causal-bridge|attention biases quantum outcomes]]. The [[causal-interface|causal interface void]] explains why we cannot observe the joint directly: if the interface lies between two ontological domains, it would resist description in terms of either domain alone.
 

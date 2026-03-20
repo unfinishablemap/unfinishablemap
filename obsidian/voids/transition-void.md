@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot witness its own s
 created: 2026-03-05
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-03-08T10:29:00+00:00
+ 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-03-08T10:29:00+00:00
 draft: false
 topics:
@@ -18,12 +18,12 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[observation-void]]"
-  - "[[dreamless-sleep-void]]"
-  - "[[past-self-void]]"
+  - "[[sleep-consciousness-void]]"
+  - "[[inaccessible-past]]"
   - "[[phenomenology-of-the-edge]]"
-  - "[[dream-consciousness-void]]"
+  - "[[sleep-consciousness-void]]"
   - "[[absorption-void]]"
-  - "[[calibration-void]]"
+  - "[[measurement-void]]"
   - "[[phenomenology-of-returning-attention]]"
   - "[[temporal-consciousness]]"
   - "[[loss-of-consciousness]]"
@@ -65,7 +65,7 @@ Dennett draws a deflationary conclusion from this analysis: there is no fact of 
 
 For transitions, this means we can never determine whether our awareness of a state change occurred during or after the transition. The narrative "I gradually drifted off around eleven" or "I slowly realised I was upset" may be entirely post-hoc—a smoothing operation that imposes continuity on what might have been a discontinuous jump. We confuse the vividness of the reconstruction with actual observation of the crossing.
 
-This parallels the [[past-self-void]], where memory confidence masks the reconstructive nature of recall. In both cases, consciousness generates an experience of seamless access that conceals the structural gap.
+This parallels the [[inaccessible-past]], where memory confidence masks the reconstructive nature of recall. In both cases, consciousness generates an experience of seamless access that conceals the structural gap.
 
 ## Husserl's Temporal Smoothing
 
@@ -118,12 +118,12 @@ The transition void connects to several of the Map's [[tenets]].
 ## Further Reading
 
 - [[observation-void]] — Why every method of studying consciousness transforms what it studies
-- [[dreamless-sleep-void]] — The related void: where consciousness goes during deep sleep
-- [[past-self-void]] — Why past conscious states can only be reconstructed, not accessed
-- [[dream-consciousness-void]] — Bidirectional inaccessibility between waking and dreaming
+- [[sleep-consciousness-void]] — The related void: where consciousness goes during deep sleep
+- [[inaccessible-past]] — Why past conscious states can only be reconstructed, not accessed
+- [[sleep-consciousness-void]] — Bidirectional inaccessibility between waking and dreaming
 - [[absorption-void]] — Peak engagement is peak self-opacity
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
-- [[calibration-void]] — Why introspection cannot be verified against any independent standard
+- [[measurement-void]] — Why introspection cannot be verified against any independent standard
 - [[phenomenology-of-returning-attention]] — The micro-structure of attention shifts, where departure is never witnessed
 - [[temporal-consciousness]] — Husserl's retention-protention structure and why temporal smoothing conceals transitions
 - [[consciousness-and-skilled-performance|phenomenology of flow states]] — Flow entry and exit as paradigm cases of unobserved transition

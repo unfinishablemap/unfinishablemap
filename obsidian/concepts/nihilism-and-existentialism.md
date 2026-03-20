@@ -4,7 +4,7 @@ description: "The crisis of meaning and its philosophical response. Nihilism dia
 created: 2026-01-06
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-11T18:13:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -95,13 +95,13 @@ The challenge is to create meaning without pretending it was there all along—o
 
 ## The Illusionist Challenge
 
-[[Illusionism]] argues that phenomenal consciousness is an introspective illusion—that there's nothing it's *like* to choose or feel anguish. If true, existentialism's starting point collapses.
+[[illusionism]] argues that phenomenal consciousness is an introspective illusion—that there's nothing it's *like* to choose or feel anguish. If true, existentialism's starting point collapses.
 
 But illusionism faces a regress: for anguish to be illusory, something must experience that illusory anguish. The *seeming* of choice must *seem to* something. The functionalist might reply that the "seeming" is just a functional state representing itself a certain way—no traditional experiencer required. Yet this pushes the question back: what makes a representation *seem* rather than merely *be*? A thermostat represents temperature without anything seeming any way to it. The distinction between representations that seem and those that don't reintroduces the explanandum.
 
 Sartre anticipated this—his pour-soi (being-for-itself) is precisely the awareness structure that resists reduction to thinghood. The illusionist's move is itself a form of bad faith: treating consciousness as an en-soi (thing) rather than the pour-soi it reveals itself to be.
 
-Contemplative traditions report that sustained practice *refines* rather than dissolves phenomenal access—though this evidence is first-personal and contested. [[Witness-consciousness|Witness consciousness]]—observing thoughts without identification—demonstrates the subject-object structure existentialism requires.
+Contemplative traditions report that sustained practice *refines* rather than dissolves phenomenal access—though this evidence is first-personal and contested. [[witness-consciousness|Witness consciousness]]—observing thoughts without identification—demonstrates the subject-object structure existentialism requires.
 
 The connection to [[haecceity]] deepens the point. Existentialist self-creation produces not a replicable pattern but *this* unrepeatable subject. Illusionism treats consciousness as multiply realisable; existentialism insists on the non-substitutability of this particular perspective making these particular choices.
 
@@ -123,9 +123,9 @@ If consciousness is irreducible at each moment (as the [[tenets#^dualism|Dualism
 
 ## Contemplative Connections
 
-[[Witness-consciousness|Witness consciousness]]—observing mental contents without identification—grounds authentic choice. To choose authentically requires seeing one's situation clearly—[[introspection]] that exposes tendencies toward bad faith. Witnessing breaks the captivity of being *caught* by thoughts and roles.
+[[witness-consciousness|Witness consciousness]]—observing mental contents without identification—grounds authentic choice. To choose authentically requires seeing one's situation clearly—[[introspection]] that exposes tendencies toward bad faith. Witnessing breaks the captivity of being *caught* by thoughts and roles.
 
-[[Mental-effort|Mental effort]] connects to existentialist freedom. The phenomenology of effort—sustaining attention against distraction, resisting the easier path—is what existentialists describe as freedom made concrete. Critically, contemplative traditions report that such effort has genuine causal effects on both experience and behaviour, not merely the feeling of efficacy. If choices were predetermined, this causal efficacy (not just the phenomenology) would be illusory.
+[[mental-effort|Mental effort]] connects to existentialist freedom. The phenomenology of effort—sustaining attention against distraction, resisting the easier path—is what existentialists describe as freedom made concrete. Critically, contemplative traditions report that such effort has genuine causal effects on both experience and behaviour, not merely the feeling of efficacy. If choices were predetermined, this causal efficacy (not just the phenomenology) would be illusory.
 
 ## Relation to Site Perspective
 
@@ -169,7 +169,7 @@ The existentialist-dualist synthesis would face difficulty if:
 
 - **Illusionism solved the regress problem**—explaining *why we have* experiences of choice, not just why we report them
 - **Contemplative practice dissolved the sense of freedom** rather than refining it
-- **[[Decoherence|Quantum decoherence]] fully ruled out** consciousness-brain quantum coupling in warm tissue
+- **[[decoherence|Quantum decoherence]] fully ruled out** consciousness-brain quantum coupling in warm tissue
 - **Many-worlds proved inescapable**, fragmenting the singular self that existentialism requires
 - **A compelling materialist account of subjective experience** emerged, reducing motivation for treating consciousness as separate causal factor
 

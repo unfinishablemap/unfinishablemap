@@ -4,7 +4,7 @@ description: "Agency is fundamentally the allocation of attention over time. Fre
 created: 2026-01-31
 modified: 2026-01-31
 human_modified:
-ai_modified: 2026-03-09T18:12:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -117,7 +117,7 @@ The Map's framework inverts this. Training attention doesn't merely correlate wi
 
 ## Working Memory and Attentional Capital
 
-[[Working-memory|Working memory]] capacity—typically 4±1 items—represents the "liquid assets" of attention: what can be actively held and manipulated at once. This connects to [[counterfactual-reasoning|counterfactual reasoning]]: genuine deliberation requires holding the actual situation, the counterfactual premise, and the counterfactual consequences simultaneously. Limited working memory constrains this.
+[[working-memory|Working memory]] capacity—typically 4±1 items—represents the "liquid assets" of attention: what can be actively held and manipulated at once. This connects to [[counterfactual-reasoning|counterfactual reasoning]]: genuine deliberation requires holding the actual situation, the counterfactual premise, and the counterfactual consequences simultaneously. Limited working memory constrains this.
 
 The Bischof-Köhler hypothesis (Suddendorf & Corballis 2007) proposes that animals cannot act on drive states they don't currently possess because they cannot represent counterfactual states vividly enough. Great apes show working memory of roughly 2±1 items (Inoue & Matsuzawa 2007). This may explain why sophisticated cognition requiring counterfactual manipulation is largely human.
 

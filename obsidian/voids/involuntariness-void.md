@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot opt out of itself
 created: 2026-03-05
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-03-11T20:16:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,7 +19,7 @@ related_articles:
   - "[[introspective-opacity|volitional opacity]]"
   - "[[ownership-void]]"
   - "[[affective-void]]"
-  - "[[dreamless-sleep-void]]"
+  - "[[sleep-consciousness-void]]"
   - "[[agency-verification-void]]"
   - "[[absorption-void]]"
   - "[[appetitive-void]]"
@@ -108,7 +108,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly. T
 - [[ownership-void]] — Why we cannot introspect how experiences become ours
 - [[affective-void]] — The emotions we cannot feel
 - [[appetitive-void]] — The desires we cannot choose
-- [[dreamless-sleep-void]] — Where consciousness goes when it departs involuntarily
+- [[sleep-consciousness-void]] — Where consciousness goes when it departs involuntarily
 - [[absorption-void]] — When peak experience eliminates reflective access
 - [[three-kinds-of-void]] — Unexplored, unexplorable, and occluded
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like

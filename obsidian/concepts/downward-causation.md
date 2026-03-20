@@ -4,7 +4,7 @@ description: "Higher-level properties can causally influence lower-level process
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-03-12T00:03:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,7 +12,7 @@ topics:
 concepts:
   - "[[reductionism]]"
   - "[[mental-causation]]"
-  - "[[selection-laws]]"
+  - "[[psychophysical-laws]]"
   - "[[causal-closure]]"
   - "[[emergence]]"
   - "[[interactionist-dualism]]"
@@ -37,7 +37,7 @@ last_curated: null
 last_deep_review: 2026-02-25T10:58:00+00:00
 ---
 
-Downward causation is the thesis that higher-level properties can causally influence lower-level processes. When your decision to speak causes neurons to fire, this is downward causation—mental properties affecting physical events. This concept is central to defending The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet against Jaegwon Kim's exclusion argument. Kim contends that physical causes "screen off" higher-level causes, draining all causal efficacy to fundamental physics. The Map's quantum framework provides a response: consciousness causally influences physical outcomes at points where physics is genuinely incomplete. In the terminology of [[psychophysical-laws|psychophysical laws]], downward causation requires *[[selection-laws|selection laws]]*—laws specifying how mental states influence which physical outcomes become actual—not merely the supervenience laws that map physical states to experiences.
+Downward causation is the thesis that higher-level properties can causally influence lower-level processes. When your decision to speak causes neurons to fire, this is downward causation—mental properties affecting physical events. This concept is central to defending The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet against Jaegwon Kim's exclusion argument. Kim contends that physical causes "screen off" higher-level causes, draining all causal efficacy to fundamental physics. The Map's quantum framework provides a response: consciousness causally influences physical outcomes at points where physics is genuinely incomplete. In the terminology of [[psychophysical-laws|psychophysical laws]], downward causation requires *[[psychophysical-laws|selection laws]]*—laws specifying how mental states influence which physical outcomes become actual—not merely the supervenience laws that map physical states to experiences.
 
 ## The Concept Distinguished
 
@@ -112,7 +112,7 @@ Several responses are available, though none fully resolves the gap:
 
 **The discrete observation alternative**: Stapp's quantum Zeno mechanism may sidestep the sustained coherence requirement entirely. If consciousness operates through discrete observation cycles rather than maintained superposition—rapid repeated "probing actions" that each reset the quantum state—the relevant question shifts from "can coherence survive?" to "can observation cycles operate fast enough?" If decoherence occurs at microseconds and observations at milliseconds, approximately 1000 observations per 300ms attentional window might suffice to bias outcomes cumulatively. This mechanism doesn't require consciousness to track femtosecond processes directly.
 
-**Outcome selection persists**: [[Decoherence]] doesn't eliminate quantum indeterminacy—it explains why interference effects wash out, but outcomes still require determination. As a 2025 review notes: "the problem of outcomes is still open." Even after decoherence, something must select which outcome becomes actual.
+**Outcome selection persists**: [[decoherence]] doesn't eliminate quantum indeterminacy—it explains why interference effects wash out, but outcomes still require determination. As a 2025 review notes: "the problem of outcomes is still open." Even after decoherence, something must select which outcome becomes actual.
 
 **The bandwidth question**: The bandwidth of conscious thought—measured at roughly 10 bits per second—suggests consciousness operates at the level of policies and attention allocation, not individual quantum events. This raises a question the Map must acknowledge as unresolved: how does coarse-grained conscious intention translate into whatever fine-grained observations the Zeno mechanism requires? One possibility is that sustained attention sets boundary conditions that neural mechanisms implement at faster timescales—consciousness provides the "what" while brain architecture handles the "how fast." But this remains speculative.
 
@@ -152,7 +152,7 @@ The Map defends *strong* downward causation. The Dualism tenet holds consciousne
 
 ## The Illusionist Challenge
 
-[[Illusionism]] poses a radical challenge: if phenomenal consciousness is an illusion, there's nothing non-physical to exercise downward causation. But illusionism faces a regress—to be under an illusion that consciousness exists requires *something it is like* to have that mistaken representation. As Raymond Tallis notes: "Misrepresentation presupposes presentation."
+[[illusionism]] poses a radical challenge: if phenomenal consciousness is an illusion, there's nothing non-physical to exercise downward causation. But illusionism faces a regress—to be under an illusion that consciousness exists requires *something it is like* to have that mistaken representation. As Raymond Tallis notes: "Misrepresentation presupposes presentation."
 
 The illusionist trades the hard problem for an equally hard "illusion problem." Whatever produces our "illusion" must influence our verbal reports. If that production is purely physical, reports should be about neural states, not phenomenal properties. If something non-physical shapes report content, that's downward causation.
 
@@ -180,7 +180,7 @@ Downward causation is central to the Map's framework.
 
 **Against Epiphenomenalism**: If downward causation fails, we have [[concepts/epiphenomenalism]]—but this is self-undermining. If consciousness causes nothing, our reports and beliefs about experience are causally disconnected from actual experiences. Downward causation must occur or we lose epistemic access to our own minds.
 
-**The Interface Mechanism**: [[Attention-as-interface|Attention]] is the proposed mechanism through which consciousness exercises downward causation. The phenomenology of [[mental-effort|mental effort]] is consistent with genuine downward causation at the neural level. How coarse-grained conscious intention (~10 bits/second) translates into fine-grained quantum observations remains an open question—see [[quantum-consciousness]].
+**The Interface Mechanism**: [[attention-as-interface|Attention]] is the proposed mechanism through which consciousness exercises downward causation. The phenomenology of [[mental-effort|mental effort]] is consistent with genuine downward causation at the neural level. How coarse-grained conscious intention (~10 bits/second) translates into fine-grained quantum observations remains an open question—see [[quantum-consciousness]].
 
 Kim's exclusion argument remains the primary challenge to mental causation. But its key premise—causal closure—fails at quantum indeterminacies. Physics provides probabilities but not outcomes, creating a genuine opening for downward causation.
 
@@ -188,7 +188,7 @@ Kim's exclusion argument remains the primary challenge to mental causation. But 
 
 - [[content-specificity-of-mental-causation]] — Empirical evidence that the meaning of conscious states determines which physical effects occur
 - [[mental-causation]] — The philosophical problem downward causation addresses
-- [[selection-laws]] — The downward direction of psychophysical laws
+- [[psychophysical-laws]] — The downward direction of psychophysical laws
 - [[causal-closure]] — The principle downward causation challenges
 - [[emergence]] — Strong emergence requires downward causation
 - [[interactionist-dualism]] — the Map's framework defending downward causation

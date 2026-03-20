@@ -4,7 +4,7 @@ description: "When skilled performers attend to automatized actions, performance
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-03-15T07:30:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -77,7 +77,7 @@ Choking shares a phenomenological structure with [[phenomenology-of-deliberation
 
 ## The Illusionist Challenge
 
-[[Illusionism]] attempts to explain choking without genuine mental causation. On this view, the "attention" disrupting skilled performance is itself a physical process misrepresented as conscious. The disruption is brain state interfering with brain state—no phenomenal consciousness required.
+[[illusionism]] attempts to explain choking without genuine mental causation. On this view, the "attention" disrupting skilled performance is itself a physical process misrepresented as conscious. The disruption is brain state interfering with brain state—no phenomenal consciousness required.
 
 This analysis faces several problems.
 

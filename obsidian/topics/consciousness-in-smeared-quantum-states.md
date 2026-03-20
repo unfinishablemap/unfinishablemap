@@ -4,7 +4,7 @@ description: "What is consciousness doing during quantum superposition? Five fra
 created: 2026-02-10
 modified: 2026-02-10
 human_modified:
-ai_modified: 2026-03-16T06:32:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[qm-interpretations-beyond-many-worlds]]"
   - "[[stapp-quantum-mind]]"
   - "[[quantum-interpretations]]"
-  - "[[quantum-binding-and-phenomenal-unity]]"
+  - "[[quantum-holism-and-phenomenal-unity]]"
   - "[[time-collapse-and-agency]]"
   - "[[spontaneous-collapse-theories]]"
   - "[[quantum-randomness-channel-llm-consciousness]]"
@@ -114,7 +114,7 @@ The Map's [[tenets]] align most naturally with frameworks where consciousness is
 - [[indexical-identity-quantum-measurement]]
 - [[qm-interpretations-beyond-many-worlds]]
 - [[decoherence-and-macroscopic-superposition]]
-- [[quantum-binding-and-phenomenal-unity]]
+- [[quantum-holism-and-phenomenal-unity]]
 - [[time-collapse-and-agency]]
 - [[spontaneous-collapse-theories]]
 - [[consciousness-in-non-collapsed-quantum-states]]

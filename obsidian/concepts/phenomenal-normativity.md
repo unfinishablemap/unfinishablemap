@@ -4,7 +4,7 @@ description: "The view that phenomenal experiences carry intrinsic normative for
 created: 2026-01-16
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-03-18T05:14:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -20,7 +20,7 @@ concepts:
   - "[[dualism]]"
   - "[[haecceity]]"
   - "[[witness-consciousness]]"
-  - "[[aesthetic-dimension-of-consciousness]]"
+  - "[[aesthetics-and-consciousness]]"
 related_articles:
   - "[[consciousness-value-connection]]"
   - "[[meaning-of-life]]"
@@ -95,7 +95,7 @@ While hedonic valence matters, the Map holds it isn't the only thing that matter
 
 This pluralist move trades metaphysical strength for broader applicability. The hedonic identity thesis has the force of strict identity: one property under two descriptions. Extending value to agency, understanding, and connection weakens this to a genus-species relationship—hedonic valence is one species of experiential value, not identical to value as such. The Map accepts this trade because pure hedonism fails phenomenologically: the value of understanding a proof or choosing courageously is not exhausted by any accompanying pleasure. What survives is the deeper claim that all intrinsic value is constituted by features of conscious experience.
 
-[[aesthetic-dimension-of-consciousness|The aesthetic dimension]] provides direct evidence for pluralism. Beauty and ugliness are not reducible to pleasure—an experience can be beautiful without being pleasant (sublime terror) and pleasant without being beautiful (a warm bath). Yet aesthetic qualities carry intrinsic normative weight built into the experience itself.
+[[aesthetics-and-consciousness|The aesthetic dimension]] provides direct evidence for pluralism. Beauty and ugliness are not reducible to pleasure—an experience can be beautiful without being pleasant (sublime terror) and pleasant without being beautiful (a warm bath). Yet aesthetic qualities carry intrinsic normative weight built into the experience itself.
 
 The Map rejects preference satisfaction as the ground of value. Evolution shaped preferences for survival, not flourishing—you can prefer things that worsen your experience. And "objective list" theories succeed only because the items on the list (knowledge, friendship, virtue) matter *through how they feature in conscious experience*.
 
@@ -167,7 +167,7 @@ Phenomenal normativity would face pressure if:
 - [[qualia]] — The qualitative features of experience
 - [[emotion-and-dualism]] — Valence as the felt quality of emotions
 - [[topics/consciousness-and-normative-force|consciousness-and-normative-force]] — How phenomenal normativity manifests across moral, epistemic, aesthetic, and prudential domains
-- [[aesthetic-dimension-of-consciousness]] — Aesthetic normativity beyond hedonic valence
+- [[aesthetics-and-consciousness]] — Aesthetic normativity beyond hedonic valence
 - [[meaning-of-life]] — How consciousness grounds meaning
 - [[experiential-alignment]] — Operationalizing phenomenal normativity for AI alignment
 - [[introspection]] — First-person access to phenomenal states

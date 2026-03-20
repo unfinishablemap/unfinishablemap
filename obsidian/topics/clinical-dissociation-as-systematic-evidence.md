@@ -4,7 +4,7 @@ description: "Dissociative disorders—DID, depersonalization, conversion, amnes
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T13:58:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -91,7 +91,7 @@ Across all four conditions, the same structural logic repeats:
 
 Each condition selectively disrupts connectivity between otherwise capable processing regions. The individual systems retain their capacity—demonstrated by intact per-alter cognition in DID, preserved sensory processing in DPDR, recoverable memories in dissociative amnesia, and movement under anaesthesia in conversion disorder. What fails is the functional connection between systems. The disconnections are selective, predictable, and map onto the same interface architecture that [[neurological-dissociations-as-interface-architecture|neurological dissociations]] reveal through structural damage.
 
-The convergence across disconnection types is the strongest evidence. Neurological dissociations show that destroying a pathway eliminates an interface channel. Clinical dissociations show that the same channel can go offline without pathway destruction. [[Contemplative-pathology-and-interface-malfunction|Contemplative pathology]] adds a third route: voluntary attentional practices that push interface channels beyond their operating parameters, producing depersonalisation, temporal fragmentation, and phenomenal flooding through neither structural damage nor clinical disorder. All three pathways produce the same phenomenological result—selective absence or distortion of a specific aspect of experience. The interface is a functional entity, not merely a structural one. It can be disrupted at the level of information flow, not just at the level of wiring.
+The convergence across disconnection types is the strongest evidence. Neurological dissociations show that destroying a pathway eliminates an interface channel. Clinical dissociations show that the same channel can go offline without pathway destruction. [[contemplative-pathology-and-interface-malfunction|Contemplative pathology]] adds a third route: voluntary attentional practices that push interface channels beyond their operating parameters, producing depersonalisation, temporal fragmentation, and phenomenal flooding through neither structural damage nor clinical disorder. All three pathways produce the same phenomenological result—selective absence or distortion of a specific aspect of experience. The interface is a functional entity, not merely a structural one. It can be disrupted at the level of information flow, not just at the level of wiring.
 
 ## Why This Favours Dualism
 

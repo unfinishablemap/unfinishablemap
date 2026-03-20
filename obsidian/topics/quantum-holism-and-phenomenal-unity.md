@@ -4,14 +4,14 @@ description: "Classical binding mechanisms coordinate separate processes but can
 created: 2026-01-21
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-03-03T15:41:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[unity-of-consciousness]]"
   - "[[binding-problem]]"
-  - "[[neural-binding-mechanisms]]"
+  - "[[phenomenal-binding-and-holism]]"
   - "[[quantum-consciousness]]"
   - "[[combination-problem]]"
   - "[[emergence]]"
@@ -29,7 +29,7 @@ concepts:
   - "[[phenomenology-of-choice]]"
   - "[[consciousness-as-amplifier]]"
   - "[[quantum-biology]]"
-  - "[[quantum-coherence-and-binding-evidence]]"
+  - "[[quantum-neural-mechanisms-and-coherence]]"
 related_articles:
   - "[[tenets]]"
   - "[[neural-binding-quantum-entanglement-2026-01-19]]"
@@ -197,7 +197,7 @@ The Map holds that current evidence favours the quantum position while acknowled
 - [[binding-problem]] — The neural challenge of feature binding (BP1 and BP2)
 - [[the-binding-problem-a-systematic-treatment]] — Comprehensive taxonomy of five binding varieties
 - [[phenomenal-binding-and-multimodal-integration]] — Cross-modal binding as the hardest case, with empirical phenomena (temporal recalibration, inverse effectiveness) that resist classical explanation
-- [[neural-binding-mechanisms]] — Why classical mechanisms fail and quantum mechanisms may succeed
+- [[phenomenal-binding-and-holism]] — Why classical mechanisms fail and quantum mechanisms may succeed
 - [[combination-problem]] — Panpsychism's parallel challenge
 - [[explanatory-gap]] — The conceptual gulf between physical and phenomenal
 - [[emergence]] — Weak vs strong emergence and consciousness
@@ -209,7 +209,7 @@ The Map holds that current evidence favours the quantum position while acknowled
 - [[quantum-consciousness]] — Orch OR and other quantum consciousness theories
 - [[quantum-biology]] — Established quantum effects in living systems
 - [[quantum-biology-and-the-consciousness-debate]] — Why quantum biology shifts the burden of proof
-- [[quantum-coherence-and-binding-evidence]] — Detailed treatment of neural coherence evidence
+- [[quantum-neural-mechanisms-and-coherence]] — Detailed treatment of neural coherence evidence
 - [[decoherence]] — Why quantum effects might persist in biological systems
 - [[split-brain-consciousness]] — Natural experiments on when binding fails
 

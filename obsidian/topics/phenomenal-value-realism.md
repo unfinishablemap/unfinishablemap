@@ -4,7 +4,7 @@ description: "Why value lives in conscious experience—not in preferences, soci
 created: 2026-02-02
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-03-19T02:43:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -22,7 +22,7 @@ concepts:
   - "[[philosophical-zombies]]"
   - "[[agent-causation]]"
   - "[[explanatory-gap]]"
-  - "[[aesthetic-dimension-of-consciousness]]"
+  - "[[aesthetics-and-consciousness]]"
   - "[[moral-responsibility]]"
 related_articles:
   - "[[tenets]]"
@@ -135,7 +135,7 @@ Three considerations motivate the extension:
 
 **The meaning problem.** Some experiences are deeply meaningful without being particularly pleasant. Completing a difficult creative project can involve frustration and exhaustion, yet the engagement feels intrinsically significant. The distinctive phenomenal quality of meaningful activity—absorbing, purposive, connected to something larger—resists reduction to a balance of pleasures over pains.
 
-**The aesthetic problem.** [[aesthetic-dimension-of-consciousness|Beauty and ugliness]] seem intrinsically significant in experience. The sublime—awe-inspiring yet terrifying—can be beautiful without being pleasant. An experience can be pleasant without being beautiful (a warm bath) and beautiful without being pleasant (confronting a masterpiece that disturbs). This suggests aesthetic quality is a distinct value dimension.
+**The aesthetic problem.** [[aesthetics-and-consciousness|Beauty and ugliness]] seem intrinsically significant in experience. The sublime—awe-inspiring yet terrifying—can be beautiful without being pleasant. An experience can be pleasant without being beautiful (a warm bath) and beautiful without being pleasant (confronting a masterpiece that disturbs). This suggests aesthetic quality is a distinct value dimension.
 
 **The agency problem.** Exercising genuine choice feels valuable even when difficult. The experience of authoring one's actions carries significance independent of hedonic payoff. Under the Map's framework of [[agent-causation|agent causation]], this makes sense: if consciousness genuinely shapes outcomes, the exercise of that capacity is intrinsically significant—not just as means to pleasant outcomes, but as a distinct value.
 
@@ -256,7 +256,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 - [[hard-problem-of-consciousness]] — The evaluative dimension of the explanatory gap
 - [[topics/free-will]] — Agency as intrinsically valuable phenomenal experience
 - [[contemplative-practice-as-philosophical-evidence]] — What contemplative practice reveals about value and consciousness
-- [[aesthetic-dimension-of-consciousness]] — Why aesthetic value resists hedonistic reduction
+- [[aesthetics-and-consciousness]] — Why aesthetic value resists hedonistic reduction
 - [[emotion-and-dualism]] — Valence as the felt quality of emotions
 - [[pain-consciousness-and-causal-power]] — Why pain's phenomenal character is inseparable from its causal and evaluative role
 - [[haecceity]] — Why *this* experience matters, not just experience-of-this-type

@@ -4,7 +4,7 @@ description: "Memory operates across both physical and non-physical domains—en
 created: 2026-03-09
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-19T03:42:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[consciousness-and-memory]]"
@@ -18,7 +18,7 @@ concepts:
 related_articles:
   - "[[capability-division-problem]]"
   - "[[smoothness-problem]]"
-  - "[[memory-void]]"
+  - "[[inaccessible-past]]"
   - "[[bergson-and-duration]]"
   - "[[attention-as-interface]]"
   - "[[memory-dual-domain-capability-2026-03-09]]"
@@ -48,7 +48,7 @@ Three features of memory resist explanation in terms of engrams alone.
 
 **Selectional guidance** during retrieval poses a related problem. Reconsolidation research shows that recall is goal-directed: "a goal-directed activity guided by the need for consonance, alignment, and internal stability" (Kube et al., 2025). Something determines which of many possible reconstructions becomes actual—which details are emphasised, which suppressed, which emotional tone dominates. The prefrontal cortex provides top-down executive control, but executive control faces its own explanatory challenge: prefrontal activity can implement a selection once a goal is set, but the *setting* of the goal—why this reconstruction serves the subject's present concerns rather than that one—requires an account of purposive direction that physical descriptions of neural activation patterns do not provide. Prefrontal neurons fire in patterns; they do not, on a purely physical description, *prefer* one outcome. The Map argues that this purposive gap is where [[interactionist-dualism|non-physical consciousness]] contributes—not replacing executive function but providing the directional input that makes executive activity goal-directed rather than merely patterned.
 
-**Phenomenal colouring**—the qualitative character that distinguishes vivid recall from dry knowledge, that gives a childhood memory its warmth or a traumatic memory its dread—has no obvious physical correlate. Two memories with identical propositional content can feel utterly different. The [[memory-void]] explores whether the qualia of original experience persist in any form or whether recall always generates new phenomenal content. Either way, the qualitative dimension exceeds what engrams encode.
+**Phenomenal colouring**—the qualitative character that distinguishes vivid recall from dry knowledge, that gives a childhood memory its warmth or a traumatic memory its dread—has no obvious physical correlate. Two memories with identical propositional content can feel utterly different. The [[inaccessible-past]] explores whether the qualia of original experience persist in any form or whether recall always generates new phenomenal content. Either way, the qualitative dimension exceeds what engrams encode.
 
 ## Historical Precedents
 
@@ -92,7 +92,7 @@ Memory as dual-domain capability connects to each of the Map's tenets.
 - [[smoothness-problem]] — The temporal instance of capability division
 - [[consciousness-and-memory]]
 - [[episodic-memory]]
-- [[memory-void]]
+- [[inaccessible-past]]
 - [[bergson-and-duration]]
 - [[attention-as-interface]]
 - [[working-memory]]

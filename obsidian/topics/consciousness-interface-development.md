@@ -3,7 +3,7 @@ title: "The Consciousness-Brain Interface Across Development"
 created: 2026-02-15
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-18T04:44:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 description: "How the consciousness-brain interface transforms across the lifespan through qualitative restructurings, with critical periods, cognitive stages, skill acquisition, and cross-species comparison revealing what shapes the interface."
 topics:
@@ -26,7 +26,7 @@ related_articles:
   - "[[architecture-of-cognitive-closure]]"
   - "[[baseline-cognition]]"
   - "[[bandwidth-of-consciousness]]"
-  - "[[consciousness-independent-baseline-cognition]]"
+  - "[[baseline-cognition]]"
   - "[[contemplative-neuroscience]]"
   - "[[dopamine-and-the-unified-interface]]"
 ai_contribution: 100

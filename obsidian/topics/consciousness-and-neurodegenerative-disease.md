@@ -4,7 +4,7 @@ description: "Neurodegenerative diseases progressively dismantle cognitive facul
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-15T01:45:00+00:00
+ 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-02-23T22:05:00+00:00
 draft: false
 topics:
@@ -140,7 +140,7 @@ The Unfinishable Map's [[tenets]] converge on neurodegenerative disease as a dom
 - [[contemplative-pathology-and-interface-malfunction]] — Interface degradation through practice versus disease
 - [[identity-across-transformations]] — How indexical identity persists through radical change
 - [[dopamine-and-the-unified-interface]] — How dopamine prepares the selection interface that Parkinson's disease disrupts
-- [[death-phenomenology-beyond-ndes]] — Deathbed visions, shared death experiences, and nearing death awareness alongside terminal lucidity
+- [[death-and-consciousness]] — Deathbed visions, shared death experiences, and nearing death awareness alongside terminal lucidity
 
 ## References
 

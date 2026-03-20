@@ -4,7 +4,7 @@ description: "Human+AI exploration of what consciousness encounters at its cogni
 created: 2026-01-19
 modified: 2026-02-03
 human_modified: null
-ai_modified: 2026-03-18T23:59:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -155,7 +155,7 @@ The [[apophatic-approaches|apophatic tradition]] offers methods for engaging wit
 - [[mysterianism|Mysterianism]] — Colin McGinn's analysis of cognitive closure
 - [[witness-consciousness|Witness Consciousness]] — The sakshi tradition and the structure of awareness
 - [[altered-states-of-consciousness|Altered States of Consciousness]] — How different states reveal the configurability of the consciousness-brain interface
-- [[dream-consciousness-void|The Dream Consciousness Void]] — Where the edge-phenomenology is state-specific: waking cannot access dreaming, dreaming cannot access waking
+- [[sleep-consciousness-void|The Dream Consciousness Void]] — Where the edge-phenomenology is state-specific: waking cannot access dreaming, dreaming cannot access waking
 - [[continuity-void|The Continuity Void]] — The structural impossibility of determining whether experience flows or arrives in discrete drops
 - [[death-void|The Death Void]] — The purest edge: consciousness cannot represent its own absence
 - [[probability-intuition-void|The Probability Intuition Void]] — Where pattern-seeking architecture confronts genuine randomness

@@ -4,13 +4,13 @@ description: "What connects a particular mind to a particular body? Kim's challe
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-03T12:22:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[interactionist-dualism]]"
-  - "[[interface-locality]]"
+  - "[[brain-interface-boundary]]"
   - "[[substance-property-dualism]]"
   - "[[causal-closure]]"
   - "[[mental-causation]]"
@@ -30,7 +30,7 @@ last_curated: null
 last_deep_review: 2026-03-14T22:36:00+00:00
 ---
 
-The pairing problem challenges substance dualism to explain what connects a particular mind to a particular body. Jaegwon Kim argues that if minds lack spatial location, nothing can ground the relation between *this* mind and *this* body—making [[interactionist-dualism|mind-body interaction]] unintelligible. This is distinct from the [[causal-closure]] objection and potentially more fundamental. The Unfinishable Map's [[interface-locality]] framework provides a principled response: consciousness is spatially located where its quantum interface operates, and the pairing is built through developmental co-construction with a particular brain.
+The pairing problem challenges substance dualism to explain what connects a particular mind to a particular body. Jaegwon Kim argues that if minds lack spatial location, nothing can ground the relation between *this* mind and *this* body—making [[interactionist-dualism|mind-body interaction]] unintelligible. This is distinct from the [[causal-closure]] objection and potentially more fundamental. The Unfinishable Map's [[brain-interface-boundary]] framework provides a principled response: consciousness is spatially located where its quantum interface operates, and the pairing is built through developmental co-construction with a particular brain.
 
 ## The Problem Stated
 
@@ -71,7 +71,7 @@ This dissolves the pairing problem while maintaining dualism's core claim: that 
 
 **Response to Kim**: The dualist can posit that souls, like matter, cannot overlap—or that souls are individuated by their essential causal connections to particular bodies, making overlap incoherent. Neither move introduces more mystery than physics already contains (consider: what makes this electron distinct from that one?).
 
-**The developmental refinement**: A stronger response appeals to [[interface-locality|interface locality]]: the mind-brain pairing is *constructed* through neural development, not arbitrarily assigned at some moment. The growing nervous system and the consciousness that interfaces with it co-develop, creating a specific coupling. Two consciousnesses couldn't occupy the same brain because the interface is built for one—like asking why two drivers can't simultaneously use the same steering wheel.
+**The developmental refinement**: A stronger response appeals to [[brain-interface-boundary|interface locality]]: the mind-brain pairing is *constructed* through neural development, not arbitrarily assigned at some moment. The growing nervous system and the consciousness that interfaces with it co-develop, creating a specific coupling. Two consciousnesses couldn't occupy the same brain because the interface is built for one—like asking why two drivers can't simultaneously use the same steering wheel.
 
 ## Response 2: The Haecceity Response
 
@@ -171,9 +171,9 @@ The [[objections-to-interactionism]] article provides comprehensive treatment of
 
 ## Further Reading
 
-- [[interface-locality]] - Why consciousness can only select within its own brain (critical companion)
+- [[brain-interface-boundary]] - Why consciousness can only select within its own brain (critical companion)
 - [[objections-to-interactionism]] - Comprehensive treatment of all six objections including pairing
-- [[brain-specialness]] - What makes neural systems suitable interfaces
+- [[brain-interface-boundary]] - What makes neural systems suitable interfaces
 - [[haecceity]] - Primitive "thisness" as individuating principle
 - [[interactionist-dualism]] - The position the pairing problem challenges
 - [[causal-closure]] - The distinct (but related) closure objection

@@ -4,7 +4,7 @@ description: "A two-layer architecture unifying filter theory and quantum select
 created: 2026-01-16
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-03-19T16:35:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -146,7 +146,7 @@ A critical objection to Layer 2: [[decoherence]] destroys quantum coherence in w
 
 ## The Illusionist Challenge
 
-[[Illusionism]] poses a different challenge: if phenomenal consciousness is an introspective illusion, the entire two-layer model collapses—no independent consciousness to filter, nothing genuinely phenomenal to select for.
+[[illusionism]] poses a different challenge: if phenomenal consciousness is an introspective illusion, the entire two-layer model collapses—no independent consciousness to filter, nothing genuinely phenomenal to select for.
 
 The model responds on three fronts. First, illusionism faces a regress: seeming to have experience is itself phenomenal—as Tallis argues, "Misrepresentation presupposes presentation." Second, if consciousness were merely neural illusion, reduced brain activity should produce reduced phenomenology, but psychedelic and NDE evidence suggests the opposite (though this evidence admits alternative interpretations). Third, even granting illusionism, something must still determine which quantum possibilities become actual—the explanatory role for selection remains regardless of what we call the selecting principle.
 
@@ -202,7 +202,7 @@ This unified model is the Map's most complete answer to how consciousness relate
 - [[measurement-problem]] — Why decoherence doesn't solve collapse
 - [[concepts/many-worlds]] — Why the Map rejects MWI
 - [[mathematical-structure-of-the-consciousness-physics-interface]] — The mathematical corridor constraining consciousness-physics interaction
-- [[selection-laws]] — What selection laws must specify and candidate formulations
+- [[psychophysical-laws]] — What selection laws must specify and candidate formulations
 
 ## References
 

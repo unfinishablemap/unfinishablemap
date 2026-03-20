@@ -4,7 +4,7 @@ description: "Does recursive mindreading require phenomenal consciousness or jus
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-04T22:18:50+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -80,7 +80,7 @@ Recursive mindreading requires holding multiple levels simultaneously: my belief
 
 Consider: "I want her to believe that I don't know that she plans to take the food." This requires representing your own mental state (wanting), her future mental state (believing), the content of that belief (your ignorance), and what you're supposed to be ignorant of (her plan)—keeping all four levels distinct and manipulable.
 
-[[Working-memory]] research suggests that manipulating information—not just maintaining it—requires "conscious access": global availability of information across cognitive systems. A critical distinction applies here. "Conscious access" in cognitive science means global workspace availability—a *functional* property, not necessarily identical with *phenomenal* consciousness. A functionalist could accept that recursive mindreading requires global access while denying it requires phenomenal experience. The Map's stronger claim rests on the argument that understanding another mind *as* a mind has irreducibly phenomenal character: grasping what a belief *means*, not just processing its functional role. This argument is philosophical rather than empirically settled.
+[[working-memory]] research suggests that manipulating information—not just maintaining it—requires "conscious access": global availability of information across cognitive systems. A critical distinction applies here. "Conscious access" in cognitive science means global workspace availability—a *functional* property, not necessarily identical with *phenomenal* consciousness. A functionalist could accept that recursive mindreading requires global access while denying it requires phenomenal experience. The Map's stronger claim rests on the argument that understanding another mind *as* a mind has irreducibly phenomenal character: grasping what a belief *means*, not just processing its functional role. This argument is philosophical rather than empirically settled.
 
 ### The Jourdain Problem Applied
 

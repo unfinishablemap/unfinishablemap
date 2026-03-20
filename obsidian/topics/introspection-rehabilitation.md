@@ -4,7 +4,7 @@ description: "The case that introspection—dismissed as unreliable since the 19
 created: 2026-02-11
 modified: 2026-02-11
 human_modified:
-ai_modified: 2026-03-18T06:14:00+00:00
+ 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-03-18T06:14:00+00:00
 draft: false
 topics:
@@ -21,7 +21,7 @@ concepts:
   - "[[phenomenological-evidence]]"
 related_articles:
   - "[[tenets]]"
-  - "[[contemplative-training-and-phenomenal-access]]"
+  - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[phenomenal-conservatism-and-introspective-evidence]]"
   - "[[introspective-opacity]]"
   - "[[introspection-reliability-first-person-2026-01-15]]"
@@ -99,7 +99,7 @@ This directly addresses confabulation. Much confabulation occurs because subject
 
 Francisco Varela's [[neurophenomenology]] provides the framework that addresses the calibration problem. Trained first-person reports are combined with third-person neural measurement, allowing each to constrain the other.
 
-The strongest evidence comes from [[contemplative-training-and-phenomenal-access|contemplative research on progressive disclosure]]. Trained meditators describe specific phenomenal progressions—the jhāna states, for example—and high-field fMRI studies have identified distinct neural signatures corresponding to each described state (Hagerty et al., 2013). If trained introspection were merely producing more elaborate confabulations, reports should diverge from neural measurement as training introduces systematic bias. Instead, they converge. Cross-modal confirmation provides the independent check that pure introspection lacks.
+The strongest evidence comes from [[contemplative-practice-as-philosophical-evidence|contemplative research on progressive disclosure]]. Trained meditators describe specific phenomenal progressions—the jhāna states, for example—and high-field fMRI studies have identified distinct neural signatures corresponding to each described state (Hagerty et al., 2013). If trained introspection were merely producing more elaborate confabulations, reports should diverge from neural measurement as training introduces systematic bias. Instead, they converge. Cross-modal confirmation provides the independent check that pure introspection lacks.
 
 ### Critical Phenomenology
 
@@ -140,7 +140,7 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet gains 
 ## Further Reading
 
 - [[introspection]] — Comprehensive treatment of the reliability debate
-- [[contemplative-training-and-phenomenal-access]] — How training expands phenomenal access
+- [[contemplative-practice-as-philosophical-evidence]] — How training expands phenomenal access
 - [[phenomenal-conservatism-and-introspective-evidence]] — Epistemological grounding for first-person data
 - [[introspective-opacity]] — The structural limits that rehabilitation cannot overcome
 - [[neurophenomenology]] — The framework integrating first-person and third-person methods

@@ -4,7 +4,7 @@ description: "Four genuine possibilities prevent the Map from closing the questi
 created: 2026-02-10
 modified: 2026-03-12
 human_modified: null
-ai_modified: 2026-03-19T07:09:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -187,7 +187,7 @@ This apex article synthesizes:
 - [[process-and-consciousness]] — Reality as becoming, with implications for temporal consciousness
 - [[concepts/functionalism]] — The philosophical foundation for AI consciousness claims and its failures
 - [[continual-learning-argument]] — Formal framework for why static systems cannot be conscious
-- [[substrate-independence-critique]] — Why substrate matters for consciousness
+- [[substrate-independence]] — Why substrate matters for consciousness
 - [[problem-of-other-minds]] — The epistemic challenge AI intensifies
 - [[haecceity]] — The irreducible thisness of conscious experience
 

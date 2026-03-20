@@ -4,7 +4,7 @@ description: "Placebo and nocebo effects demonstrate that beliefs and expectatio
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-18T21:21:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -86,7 +86,7 @@ This finding complicates simple expectation-based explanations and deserves hone
 
 Open-label placebos genuinely weaken the strongest version of the content-specificity argument — the version claiming that explicit propositional belief is the primary driver. But they do not eliminate mental causation from the picture. Even in open-label trials, the therapeutic context is saturated with meaning: patients chose to participate, they interact with a practitioner, they perform the ritual of taking a pill. These are not unconscious reflexes but acts of conscious engagement — trusting, hoping, committing to a process despite knowing it lacks pharmacological content. The [[somatic-interface]] channels through which the body reports to consciousness — interoception, proprioception, nociception — remain active throughout these rituals, and [[embodied-cognition]] suggests that such bodily engagement is itself a form of cognitive processing. The causal pathway may involve multiple levels of mental processing, some propositional and some more experiential, but it remains a pathway in which consciousness plays a constitutive role.
 
-The deeper lesson may be that mental causation operates through richer channels than propositional attitudes alone. [[Phenomenology-of-anticipation|The phenomenology of anticipation]] — the felt quality of engaging with a therapeutic ritual, the embodied sense that "something is being done" — may matter as much as the explicit belief that "this pill will help." This complicates the picture but does not return us to epiphenomenalism.
+The deeper lesson may be that mental causation operates through richer channels than propositional attitudes alone. [[phenomenology-of-anticipation|The phenomenology of anticipation]] — the felt quality of engaging with a therapeutic ritual, the embodied sense that "something is being done" — may matter as much as the explicit belief that "this pill will help." This complicates the picture but does not return us to epiphenomenalism.
 
 ## Conditioning and Meaning
 

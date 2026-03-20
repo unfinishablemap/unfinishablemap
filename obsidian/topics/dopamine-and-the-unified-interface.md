@@ -4,14 +4,14 @@ description: "Dopamine serves both attention and motor systems because these sys
 created: 2026-02-04
 modified: 2026-02-04
 human_modified: null
-ai_modified: 2026-03-01T13:54:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[attention-motor-quantum-interface]]"
-  - "[[dopamine-selection-interface]]"
+  - "[[attention-as-interface]]"
+  - "[[motor-selection]]"
   - "[[attention-as-interface]]"
   - "[[motor-selection]]"
   - "[[quantum-consciousness]]"
@@ -30,7 +30,7 @@ last_deep_review: 2026-03-01T13:54:00+00:00
 
 Why does one molecule—dopamine—mediate both the anticipation of reward and the initiation of movement? The standard answer treats this as evolutionary convenience: wanting and pursuing typically go together, so coupling them is efficient. The Unfinishable Map proposes a deeper explanation: dopamine serves both functions because attention and motor planning are the same system, and dopamine prepares this unified system for conscious selection rather than performing the selection itself.
 
-The [[attention-motor-quantum-interface]] is where consciousness may select among possibilities, with dopamine setting the conditions for that selection. This article examines what dopamine research reveals about the unified interface hypothesis. The evidence suggests that dopamine does not cause selection but rather prepares the system for selection to occur—marking what matters, setting thresholds, and creating the neural conditions in which conscious choice could operate.
+The [[attention-as-interface]] is where consciousness may select among possibilities, with dopamine setting the conditions for that selection. This article examines what dopamine research reveals about the unified interface hypothesis. The evidence suggests that dopamine does not cause selection but rather prepares the system for selection to occur—marking what matters, setting thresholds, and creating the neural conditions in which conscious choice could operate.
 
 ## The Salience Bridge
 
@@ -212,8 +212,8 @@ What dopamine research provides is a candidate locus and a constraint: whatever 
 
 ## Further Reading
 
-- [[attention-motor-quantum-interface]] — The broader framework for the unified interface
-- [[dopamine-selection-interface]] — Technical details on dopamine's role in selection
+- [[attention-as-interface]] — The broader framework for the unified interface
+- [[motor-selection]] — Technical details on dopamine's role in selection
 - [[motor-selection]] — Motor selection mechanisms
 - [[attention-as-interface|voluntary attention]] — The neural basis of willed attention
 - [[topics/free-will]] — The broader philosophical question

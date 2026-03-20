@@ -4,7 +4,7 @@ description: "Blindsight patients discriminate visual stimuli they cannot consci
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-03-18T07:18:00+00:00
+ 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-03-16T03:17:00+00:00
 draft: false
 topics: []
@@ -147,7 +147,7 @@ This concedes property dualism: if functionally similar computations produce con
 
 ## The Illusionist Challenge
 
-[[Illusionism]] offers a different interpretation. If phenomenal consciousness is an illusion—a systematic misrepresentation of our cognitive states—then blindsight shows what cognition looks like when the illusion-generating mechanism is damaged.
+[[illusionism]] offers a different interpretation. If phenomenal consciousness is an illusion—a systematic misrepresentation of our cognitive states—then blindsight shows what cognition looks like when the illusion-generating mechanism is damaged.
 
 On the illusionist view, V1 and its connections to prefrontal cortex generate *representations of having* phenomenal properties rather than genuine ones. Blindsight patients lack this representational machinery, so they don't represent themselves as seeing—but visual information is processed regardless.
 

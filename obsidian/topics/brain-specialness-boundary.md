@@ -4,7 +4,7 @@ description: "If consciousness biases quantum outcomes in the brain, why can't i
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-03-16T06:03:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,7 +13,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[quantum-consciousness]]"
   - "[[attention-as-interface]]"
-  - "[[psychophysical-coupling]]"
+  - "[[psychophysical-laws]]"
   - "[[filter-theory]]"
   - "[[embodied-cognition]]"
 related_articles:
@@ -49,7 +49,7 @@ If the Map's mechanism permits any external influence, these claims become unexp
 
 The boundary between brain-internal and brain-external selection isn't an ad hoc restriction added to avoid embarrassment. It follows from the structure of the proposed mechanism itself.
 
-Four constraints converge on the same conclusion: consciousness can only influence quantum systems already integrated into its [[psychophysical-coupling|coupling]] with a particular brain.
+Four constraints converge on the same conclusion: consciousness can only influence quantum systems already integrated into its [[psychophysical-laws|coupling]] with a particular brain.
 
 ### Interface Locality
 

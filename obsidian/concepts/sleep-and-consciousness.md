@@ -4,7 +4,7 @@ description: "Consciousness operates in gradations during sleep. Memory consolid
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-18T21:06:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -175,7 +175,7 @@ The Map's interpretation would face difficulty if:
 - [[sleep-memory-consolidation-consciousness-2026-01-18]] — Detailed research notes
 - [[capability-division-problem]] — Which capabilities belong to the brain and which to consciousness
 - [[memory-as-dual-domain-capability]] — Memory as a dual-domain capability across physical and non-physical domains
-- [[dream-consciousness-void|The Dream Consciousness Void]] — Why waking cannot access dreaming and dreaming cannot access waking
+- [[sleep-consciousness-void|The Dream Consciousness Void]] — Why waking cannot access dreaming and dreaming cannot access waking
 
 ## References
 

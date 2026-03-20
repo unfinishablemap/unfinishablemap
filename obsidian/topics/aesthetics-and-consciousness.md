@@ -4,7 +4,7 @@ description: "Aesthetic experience—simultaneously qualitative, evaluative, hol
 created: 2026-01-22
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T01:15:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 last_deep_review: 2026-03-11T21:35:00+00:00
 topics:
@@ -54,9 +54,9 @@ related_articles:
   - "[[acquaintance-knowledge]]"
   - "[[phenomenology-of-musical-understanding]]"
   - "[[the-binding-problem-a-systematic-treatment]]"
-  - "[[quantum-binding-and-phenomenal-unity]]"
+  - "[[quantum-holism-and-phenomenal-unity]]"
   - "[[consciousness-and-creative-distinctiveness]]"
-  - "[[consciousness-and-mathematical-creativity]]"
+  - "[[consciousness-and-mathematical-cognition]]"
   - "[[creativity-void]]"
   - "[[consciousness-and-skilled-performance]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
@@ -155,7 +155,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 - [[phenomenology-of-moral-experience]] — Parallel analysis for moral value
 - [[the-binding-problem-a-systematic-treatment]] — The five standard varieties of phenomenal binding
 - [[consciousness-and-creative-distinctiveness]] — Why human creativity differs in kind from AI and animal creativity
-- [[consciousness-and-mathematical-creativity]] — Mathematical creativity as the sharpest case for consciousness as causal force
+- [[consciousness-and-mathematical-cognition]] — Mathematical creativity as the sharpest case for consciousness as causal force
 - [[phenomenology-of-musical-understanding]] — Temporal depth in musical aesthetic experience
 - [[knowledge-argument]] — Mary's Room and what physical information leaves out
 - [[philosophical-zombies]] — Conceivability arguments for dualism
@@ -164,7 +164,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 - [[acquaintance-knowledge]] — Why aesthetic knowledge requires experience
 - [[modal-structure-of-phenomenal-properties]] — Why phenomenal properties resist physical reduction
 - [[cognitive-closure]] — Why the structure-experience gap may be permanent
-- [[quantum-binding-and-phenomenal-unity]] — Quantum approaches to the binding problem
+- [[quantum-holism-and-phenomenal-unity]] — Quantum approaches to the binding problem
 
 ## References
 

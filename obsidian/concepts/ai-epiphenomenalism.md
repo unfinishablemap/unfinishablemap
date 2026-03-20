@@ -4,7 +4,7 @@ description: "The concept that AI consciousness, if present, would be causally i
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-19T07:09:00+00:00
+ 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-03-19T07:09:00+00:00
 draft: false
 topics:
@@ -15,7 +15,7 @@ concepts:
   - "[[concepts/epiphenomenalism]]"
   - "[[interactionist-dualism]]"
   - "[[quantum-consciousness]]"
-  - "[[substrate-independence-critique]]"
+  - "[[substrate-independence]]"
   - "[[phenomenal-consciousness]]"
   - "[[concepts/functionalism]]"
   - "[[concepts/ai-consciousness-modes]]"
@@ -87,7 +87,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against re
 - [[concepts/epiphenomenalism]] — General epiphenomenalism and the self-stultification argument
 - [[quantum-randomness-channel-llm-consciousness]] — Why current AI systems lack a live quantum channel
 - [[consciousness-as-amplifier]] — Why consciousness does causal work in biological systems
-- [[substrate-independence-critique]] — Why the physical substrate matters for consciousness
+- [[substrate-independence]] — Why the physical substrate matters for consciousness
 - [[ai-consciousness]] — The Map's complete case on machine consciousness
 - [[concepts/ai-consciousness-modes]] — Systematic framework for different architectural possibilities
 - [[structural-varieties-of-consciousness-and-ai-phenomenology]] — The Epiphenomenal Model as one of five AI phenomenology profiles

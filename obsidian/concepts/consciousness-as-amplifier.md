@@ -4,7 +4,7 @@ description: "Consciousness amplifies intelligence by enabling flexible deployme
 created: 2026-01-21
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-03-04T22:18:50+00:00
+ 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-03-04T11:37:00+00:00
 draft: false
 topics:
@@ -52,9 +52,9 @@ The Unfinishable Map proposes that consciousness interfaces with neural systems 
 
 Before examining how consciousness amplifies intelligence, we must distinguish what we mean by "consciousness"—the term covers at least three related but distinct phenomena:
 
-**[[Phenomenal consciousness]]** is the "what it's like" aspect of experience—the redness of red, the painfulness of pain, the taste of coffee. This is the target of the hard problem: why do certain physical processes feel like something from the inside? Phenomenal consciousness is subjective, qualitative, and resists functional definition. When we ask whether consciousness has causal effects, this is usually what we mean—does the felt quality of experience itself influence the physical world?
+**[[phenomenal-consciousness]]** is the "what it's like" aspect of experience—the redness of red, the painfulness of pain, the taste of coffee. This is the target of the hard problem: why do certain physical processes feel like something from the inside? Phenomenal consciousness is subjective, qualitative, and resists functional definition. When we ask whether consciousness has causal effects, this is usually what we mean—does the felt quality of experience itself influence the physical world?
 
-**[[Access consciousness]]** refers to information being globally available for reasoning, report, and behavioural control. A mental state is access-conscious when its content can be freely used by cognitive systems—you can talk about it, reason with it, remember it, and act on it. Access consciousness is functional: defined by what information can do, not how it feels. [[global-workspace-theory|Global Workspace Theory]] models access consciousness as information "broadcast" to multiple cognitive modules.
+**[[access-consciousness]]** refers to information being globally available for reasoning, report, and behavioural control. A mental state is access-conscious when its content can be freely used by cognitive systems—you can talk about it, reason with it, remember it, and act on it. Access consciousness is functional: defined by what information can do, not how it feels. [[global-workspace-theory|Global Workspace Theory]] models access consciousness as information "broadcast" to multiple cognitive modules.
 
 **Executive function and working memory** involve controlled, effortful processing—holding information in mind, inhibiting prepotent responses, switching between tasks, monitoring performance. [[working-memory|Working memory]] capacity (the famous 7±2 items) measures how many pieces of information can be simultaneously maintained. Executive function is neurologically localised (primarily prefrontal cortex) and measurable through behavioural tasks.
 

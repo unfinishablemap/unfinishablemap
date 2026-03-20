@@ -4,7 +4,7 @@ description: "Experience comes as an integrated whole—unified across features 
 created: 2026-01-21
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-03-17T20:01:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,12 +27,12 @@ concepts:
   - "[[minimal-consciousness]]"
   - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[meditation-and-consciousness-modes]]"
-  - "[[neural-binding-mechanisms]]"
+  - "[[phenomenal-binding-and-holism]]"
   - "[[consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[phenomenal-binding-and-holism]]"
-  - "[[why-phenomenal-unity-resists-explanation]]"
+  - "[[quantum-holism-and-phenomenal-unity]]"
   - "[[quantum-holism-and-phenomenal-unity]]"
   - "[[emergence-void]]"
 ai_contribution: 100
@@ -105,13 +105,13 @@ Phenomenal unity presents a structural challenge to physicalism:
 2. Phenomenal unity is not a relation among distinct parts. It is a property of the whole that is prior to and not derivable from its parts.
 3. Therefore, phenomenal unity cannot be fully explained by physical relations among brain parts.
 
-This parallels Leibniz's mill: walk through a brain enlarged to mill-size and you observe mechanical interactions—neurons firing, chemicals diffusing—but nowhere do you find a unified experience. The physical system consists of parts external to one another; experience is unified without parts in that sense. For the extended argument, see [[why-phenomenal-unity-resists-explanation|Why Phenomenal Unity Resists Physical Explanation]].
+This parallels Leibniz's mill: walk through a brain enlarged to mill-size and you observe mechanical interactions—neurons firing, chemicals diffusing—but nowhere do you find a unified experience. The physical system consists of parts external to one another; experience is unified without parts in that sense. For the extended argument, see [[quantum-holism-and-phenomenal-unity|Why Phenomenal Unity Resists Physical Explanation]].
 
 Phenomenal unity also bears on the [[combination-problem|combination problem]]. If panpsychism is true and micro-experiences exist, how do they combine into macro-experiences with conjoint phenomenology? William James called this "the most peculiar puzzle" in philosophy of mind. Both the combination problem and the hard problem of unity may be instances of a general cognitive limit at level transitions—what the Map calls the [[emergence-void|emergence void]].
 
 ## Proposed Explanations
 
-**Neural synchrony** proposes that features are bound through synchronized gamma oscillations (30-100 Hz). Synchrony may explain computational binding—how the brain assigns features to objects—but synchronized firing in separate neurons is still firing in separate neurons. Correlation is not identity. See [[neural-binding-mechanisms]] for detailed analysis of classical and quantum binding mechanisms.
+**Neural synchrony** proposes that features are bound through synchronized gamma oscillations (30-100 Hz). Synchrony may explain computational binding—how the brain assigns features to objects—but synchronized firing in separate neurons is still firing in separate neurons. Correlation is not identity. See [[phenomenal-binding-and-holism]] for detailed analysis of classical and quantum binding mechanisms.
 
 **Multiple Drafts** (Dennett 1991) challenges the premise: perhaps there is no single moment at which experience is unified. Instead, multiple parallel drafts of perceptual content compete and are edited in real time, with unity imposed retrospectively by narrative self-modelling. On this view, asking where unity happens is a category error—there is no "Cartesian theatre" where streams converge. The Map's response: even post-hoc narrative requires a narrator. The retrospective construction itself presupposes a subject for whom the narrative is constructed, relocating rather than dissolving the unity problem.
 
@@ -146,7 +146,7 @@ The unity of consciousness connects directly to The Unfinishable Map's [[tenets|
 - [[binding-problem]] — Neural feature binding and the combination challenge
 - [[combination-problem]] — Panpsychism's version of the unity puzzle
 - [[phenomenal-binding-and-holism]] — Mechanistic analysis of how binding relates to phenomenal unity
-- [[why-phenomenal-unity-resists-explanation]] — Extended argument for structural failure of physical explanation
+- [[quantum-holism-and-phenomenal-unity]] — Extended argument for structural failure of physical explanation
 - [[quantum-holism-and-phenomenal-unity]] — Structural argument for quantum entanglement as the physical substrate matching phenomenal unity
 - [[entanglement-binding-hypothesis]] — The testable hypothesis and experimental evidence for quantum binding
 - [[split-brain-consciousness]] — Natural experiments on unity dissociation
@@ -154,7 +154,7 @@ The unity of consciousness connects directly to The Unfinishable Map's [[tenets|
 - [[temporal-consciousness]] — Diachronic structure and the specious present
 - [[self-and-consciousness]] — Subject unity and the minimal self
 - [[emergence-void]] — The general cognitive limit at level transitions
-- [[neural-binding-mechanisms]] — Classical and quantum approaches to binding compared
+- [[phenomenal-binding-and-holism]] — Classical and quantum approaches to binding compared
 - [[consciousness]] — The Map's foundational concept page
 - [[personal-identity]] — How subjects persist across time
 - [[anoetic-noetic-autonoetic-consciousness]] — Mental time travel and the temporal self

@@ -4,7 +4,7 @@ description: "How consciousness and language interact bidirectionally: language 
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-03-08T01:06:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -123,7 +123,7 @@ The bidirectional loss at the consciousness-language interface has philosophical
 
 **For the hard problem.** The explanatory gap—why physical descriptions fail to explain phenomenal experience—may partly derive from this interface. Physical science proceeds through linguistic description. If phenomenal experience systematically exceeds linguistic capture, physical descriptions will systematically miss phenomenal facts. The Map holds that phenomenal facts are genuinely non-physical—but the linguistic interface adds a further obstacle: the language of physics is a particularly poor conduit for phenomenal content. Even if one resists dualism, the translation loss remains.
 
-**For introspection.** [[Introspection]] is often linguistically mediated—we report on our experiences using words. If the report necessarily loses content, introspection cannot deliver complete knowledge of our own minds. There's always more to experience than introspection reveals—not hidden from access, but lost in translation. This connects to debates about [[heterophenomenology]]—the method of taking introspective reports as data about what subjects believe they experience, without assuming these reports directly access phenomenal facts.
+**For introspection.** [[introspection]] is often linguistically mediated—we report on our experiences using words. If the report necessarily loses content, introspection cannot deliver complete knowledge of our own minds. There's always more to experience than introspection reveals—not hidden from access, but lost in translation. This connects to debates about [[heterophenomenology]]—the method of taking introspective reports as data about what subjects believe they experience, without assuming these reports directly access phenomenal facts.
 
 **For AI and consciousness.** Large language models process and produce language with impressive facility. But if the consciousness-language interface is bidirectional and lossy, linguistic competence alone doesn't demonstrate conscious experience. A system might handle the language side without participating in the consciousness side—might manipulate expressions without having experiences to express.
 

@@ -4,7 +4,7 @@ description: "Every major theory of scientific explanation fails with consciousn
 created: 2026-02-18
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-18T05:14:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[duhem-quine-underdetermination-consciousness]]"
   - "[[phenomenology-of-understanding-and-meaning]]"
   - "[[knowledge-argument]]"
-  - "[[why-phenomenal-unity-resists-explanation]]"
+  - "[[quantum-holism-and-phenomenal-unity]]"
   - "[[epistemology-of-mechanism-at-the-consciousness-matter-interface]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[consciousness-and-neurodegenerative-disease]]"
@@ -169,7 +169,7 @@ The Map holds that this failure may ultimately be more revealing than the hard p
 - [[hard-problem-of-consciousness]] — The foundational question these limits build upon
 - [[meta-problem-of-consciousness]] — Chalmers' formulation: why do we think consciousness is hard?
 - [[galilean-exclusion]] — The founding move that created science's blind spot
-- [[why-phenomenal-unity-resists-explanation]] — The unity of experience as a particular case of explanatory failure
+- [[quantum-holism-and-phenomenal-unity]] — The unity of experience as a particular case of explanatory failure
 - [[mysterianism]] — Cognitive closure as explanation for permanent limits
 - [[first-person-third-person-methodology]] — Integrating subjective and objective approaches
 - [[consciousness-and-scientific-methodology]] — The Galilean exclusion and its consequences

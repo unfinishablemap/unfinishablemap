@@ -4,7 +4,7 @@ description: "The measurement problem and the hard problem share an identical lo
 created: 2026-02-01
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-18T18:25:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -76,7 +76,7 @@ If the hard problem reveals something fundamental about the mind-body relation, 
 
 ## The Gap Decoherence Cannot Close
 
-[[Decoherence]] is often claimed to solve the measurement problem. It explains **basis selection**: why measurements yield position eigenstates rather than momentum eigenstates, and why we see "alive" or "dead" rather than exotic superpositions. But decoherence does not explain **outcome selection**: why *this particular* result occurs. After decoherence, the density matrix is diagonal—a classical mixture of possible outcomes, not a definite result. Something must still select one alternative as actual.
+[[decoherence]] is often claimed to solve the measurement problem. It explains **basis selection**: why measurements yield position eigenstates rather than momentum eigenstates, and why we see "alive" or "dead" rather than exotic superpositions. But decoherence does not explain **outcome selection**: why *this particular* result occurs. After decoherence, the density matrix is diagonal—a classical mixture of possible outcomes, not a definite result. Something must still select one alternative as actual.
 
 The parallel with philosophy of mind is precise. Functionalism accounts for the structure of mental states but leaves the [[explanatory-gap]] intact—it explains functional organisation without explaining why that organisation is accompanied by experience. Decoherence accounts for the structure of measurement outcomes but leaves the selection gap intact. Both solve the easy problems while leaving the hard problem untouched.
 
@@ -92,7 +92,7 @@ Whether the wave function is real determines what collapse means. If ontic, coll
 
 ### The Agential Dimension
 
-If measurement requires an observer, and the observer's presence changes outcomes, then agency may be woven into physical law. Wheeler captured this: "No phenomenon is a *real* phenomenon until it is an observed phenomenon." [[Process-philosophy|Process philosophy]] provides a metaphysical framework—Whitehead's "actual occasions" are moments where indeterminate possibility becomes determinate fact, structurally parallel to quantum measurement events.
+If measurement requires an observer, and the observer's presence changes outcomes, then agency may be woven into physical law. Wheeler captured this: "No phenomenon is a *real* phenomenon until it is an observed phenomenon." [[process-philosophy|Process philosophy]] provides a metaphysical framework—Whitehead's "actual occasions" are moments where indeterminate possibility becomes determinate fact, structurally parallel to quantum measurement events.
 
 ## The Causal Closure Loophole
 
@@ -114,7 +114,7 @@ The [[concepts/many-worlds|Many-Worlds Interpretation]] denies that one outcome 
 
 ### Accept the Gap: Objective Collapse
 
-[[Spontaneous-collapse-theories|Objective collapse theories]] (GRW, CSL, Penrose) treat collapse as a real physical process governed by modified dynamics. Standard versions give consciousness no role. But consciousness-integrated variants have been proposed: Kremnizer and Ranchin (2015) propose collapse triggered by integrated information, while Okon and Sebastián (2016) modify CSL so that conscious states affect collapse parameters. This modulation framework aligns with the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]: consciousness nudges existing physical processes rather than overriding them.
+[[spontaneous-collapse-theories|Objective collapse theories]] (GRW, CSL, Penrose) treat collapse as a real physical process governed by modified dynamics. Standard versions give consciousness no role. But consciousness-integrated variants have been proposed: Kremnizer and Ranchin (2015) propose collapse triggered by integrated information, while Okon and Sebastián (2016) modify CSL so that conscious states affect collapse parameters. This modulation framework aligns with the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]: consciousness nudges existing physical processes rather than overriding them.
 
 ### Exploit the Gap: Consciousness Selection
 

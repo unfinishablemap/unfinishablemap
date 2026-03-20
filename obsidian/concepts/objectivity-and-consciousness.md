@@ -4,7 +4,7 @@ description: "Why consciousness resists the view from nowhere. Scientific object
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-03-12T06:25:00+00:00
+ 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-03-12T06:25:00+00:00
 draft: false
 topics:
@@ -51,7 +51,7 @@ Nagel's insight: there is no genuine view from nowhere, only the aspiration towa
 
 ## Objectivity Versus Intersubjectivity
 
-[[Intersubjectivity]] offers an alternative to the view from nowhere. Where objectivity eliminates perspective to achieve perspective-free description, intersubjectivity retains perspective while discovering convergence across different viewpoints.
+[[intersubjectivity]] offers an alternative to the view from nowhere. Where objectivity eliminates perspective to achieve perspective-free description, intersubjectivity retains perspective while discovering convergence across different viewpoints.
 
 When you describe your experience of pain and I recognize the description as matching my own, we achieve intersubjective agreement. Neither of us abandoned first-person access; we found common ground *within* subjectivity. The distinction matters because intersubjectivity might succeed where objectivity fails. Phenomenal consciousness resists the view from nowhere—but multiple conscious perspectives can converge on its features.
 

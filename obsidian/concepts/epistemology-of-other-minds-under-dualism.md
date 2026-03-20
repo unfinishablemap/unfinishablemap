@@ -4,7 +4,7 @@ description: "Dualism both intensifies and enriches the problem of knowing other
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-11T10:02:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -47,7 +47,7 @@ Under physicalism, the [[problem-of-other-minds|problem of other minds]] is alre
 
 **The ontological gap.** If your consciousness is non-physical, no amount of physical investigation can directly reveal it. Brain imaging shows correlates, not constituents. Complete knowledge of your neural states would be complete knowledge of the physical side of the equation—leaving the phenomenal side untouched. The gap between evidence and conclusion is not merely practical but categorical.
 
-**The zombie possibility.** [[Philosophical-zombies|Philosophical zombies]]—beings physically identical to conscious humans but lacking experience—are conceivable under dualism. If conceivable, then behaviour alone cannot logically guarantee consciousness. Two beings could share identical physical properties, identical behaviour, identical functional organisation, while one is conscious and the other is not. This follows from consciousness being non-physical rather than from general scepticism.
+**The zombie possibility.** [[philosophical-zombies|Philosophical zombies]]—beings physically identical to conscious humans but lacking experience—are conceivable under dualism. If conceivable, then behaviour alone cannot logically guarantee consciousness. Two beings could share identical physical properties, identical behaviour, identical functional organisation, while one is conscious and the other is not. This follows from consciousness being non-physical rather than from general scepticism.
 
 **The contingency of mind-body correlation.** Physicalism treats the correlation between mental states and behaviour as lawlike or constitutive. Dualism treats it as contingent—consciousness and physical processes are connected, but the connection is not one of identity or logical necessity. This means behavioural similarity is weaker evidence under dualism than under physicalism. Similar behaviour *suggests* similar experience but cannot *entail* it.
 

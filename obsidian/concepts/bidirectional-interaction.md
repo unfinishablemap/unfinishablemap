@@ -4,15 +4,15 @@ description: "Consciousness and matter causally influence each other. This tenet
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-03-14T20:43:00+00:00
+ 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-03-11T21:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
 concepts:
-  - "[[psychophysical-coupling]]"
-  - "[[selection-laws]]"
+  - "[[psychophysical-laws]]"
+  - "[[psychophysical-laws]]"
   - "[[quantum-neural-timing-constraints]]"
   - "[[attention-as-interface]]"
   - "[[argument-from-reason]]"
@@ -44,7 +44,7 @@ Bidirectional Interaction is one of The Unfinishable Map's five foundational [[t
 
 If consciousness is more than physical processes and yet we can report our experiences, then information about consciousness must enter the physical domain. When you say "I see red" or "that hurts," your words are physical events—air vibrations, written characters, neural impulses driving muscle contractions. If these physical events accurately convey facts about your conscious experience, then consciousness must have causally contributed to producing them.
 
-This seemingly simple observation has radical implications. It means consciousness is not a passive observer but a causal participant in physical reality. The felt quality of pain doesn't merely accompany avoidance behaviour—it causes it. In the Map's framework, [[selection-laws|selection laws]] specify the downward direction—how conscious states influence which physical outcomes become actual.
+This seemingly simple observation has radical implications. It means consciousness is not a passive observer but a causal participant in physical reality. The felt quality of pain doesn't merely accompany avoidance behaviour—it causes it. In the Map's framework, [[psychophysical-laws|selection laws]] specify the downward direction—how conscious states influence which physical outcomes become actual.
 
 ## The Self-Stultification Argument
 
@@ -80,7 +80,7 @@ Two concrete mechanisms have been proposed:
 
 All three share what bidirectional interaction requires: consciousness selecting among outcomes physics leaves undetermined. This selective actualisation—reality concentrating determination where consciousness attends—is captured by [[adaptive-computational-depth|adaptive computational depth]], which argues that the allocator of detail must itself be non-computational. The specific [[coupling-modes|coupling mode]]—basis control, timing control, or probability control—varies between proposals, with Stapp emphasizing the first two and Penrose-Hameroff implying the third.
 
-For detailed specification of how phenomenal properties map to physical parameters, see [[psychophysical-coupling]]. The attention mechanism is currently the most developed, with [[attention-as-interface|voluntary attention]] documenting the ~300ms deployment window and neural signatures (frontal theta, DLPFC/ACC activation) that distinguish willed from instructed attention.
+For detailed specification of how phenomenal properties map to physical parameters, see [[psychophysical-laws]]. The attention mechanism is currently the most developed, with [[attention-as-interface|voluntary attention]] documenting the ~300ms deployment window and neural signatures (frontal theta, DLPFC/ACC activation) that distinguish willed from instructed attention.
 
 ### The Timing Challenge
 
@@ -143,9 +143,9 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [[inter
 
 ## Further Reading
 
-- [[psychophysical-coupling]] — Specification of how phenomenal properties map to physical parameters
+- [[psychophysical-laws]] — Specification of how phenomenal properties map to physical parameters
 - [[coupling-modes]] — Three ways consciousness might influence quantum outcomes: basis, timing, or probability control
-- [[selection-laws]] — The downward direction of psychophysical laws
+- [[psychophysical-laws]] — The downward direction of psychophysical laws
 - [[quantum-neural-timing-constraints]] — The timing hierarchy from decoherence to neural decisions
 - [[argument-from-reason]] — Complementary self-defeat argument targeting physicalism
 - [[attention-as-interface|voluntary attention]] — The attention interface with neural evidence

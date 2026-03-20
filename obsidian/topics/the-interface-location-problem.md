@@ -4,7 +4,7 @@ description: "Where does consciousness meet the brain? Four candidate sites exis
 created: 2026-02-09
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-03-18T04:44:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 last_deep_review: 2026-03-14T22:46:00+00:00
 topics:
@@ -18,9 +18,9 @@ concepts:
   - "[[brain-interface-boundary]]"
   - "[[decoherence]]"
   - "[[coupling-modes]]"
-  - "[[quantum-coherence-and-binding-evidence]]"
+  - "[[quantum-neural-mechanisms-and-coherence]]"
   - "[[measurement-problem]]"
-  - "[[psychophysical-coupling]]"
+  - "[[psychophysical-laws]]"
   - "[[motor-selection]]"
   - "[[mental-effort]]"
 related_articles:
@@ -52,7 +52,7 @@ The interface location problem is not merely a detail to be filled in later. It 
 
 **Mechanism constraints.** Each candidate site faces different [[decoherence]] timescales, different relationships to neural computation, and different connections to the [[attention-as-interface|attention system]] through which the Map proposes consciousness acts. A mechanism that works for microtubules may fail for ion channels, and vice versa.
 
-**Scope of influence.** The interface location constrains what consciousness can affect. If the interface operates at individual synapses, consciousness might influence fine-grained neural patterns. If it operates at the level of cortical columns, consciousness selects among coarser-grained alternatives — consistent with the ~10 bits/second [[psychophysical-coupling|bandwidth constraint]] on conscious processing.
+**Scope of influence.** The interface location constrains what consciousness can affect. If the interface operates at individual synapses, consciousness might influence fine-grained neural patterns. If it operates at the level of cortical columns, consciousness selects among coarser-grained alternatives — consistent with the ~10 bits/second [[psychophysical-laws|bandwidth constraint]] on conscious processing.
 
 ## The Candidates
 
@@ -78,7 +78,7 @@ Henry Stapp proposes that consciousness operates through quantum effects at ion 
 
 A more recent proposal suggests that cortical microcolumns — ensembles of roughly 100 neurons — couple resonantly with the quantum electromagnetic zero-point field, forming macroscopic coherence domains. On this account, consciousness selects among patterns at the column level rather than at individual molecular sites.
 
-**Strengths.** The scale matches the [[psychophysical-coupling|bandwidth constraint]]. If consciousness selects among column-level patterns rather than individual molecular states, the ~10 bits/second limit on conscious processing makes sense: you choose among a manageable number of macroscopic alternatives. The proposal connects to established neuroscience — cortical columns are well-characterised functional units. Column-scale selection would explain why conscious influence feels coarse-grained (you decide to act, not which synapses to fire). Note however that the quantum coherence mechanism remains highly speculative — zero-point field coupling at cortical scales has no established experimental support in neuroscience.
+**Strengths.** The scale matches the [[psychophysical-laws|bandwidth constraint]]. If consciousness selects among column-level patterns rather than individual molecular states, the ~10 bits/second limit on conscious processing makes sense: you choose among a manageable number of macroscopic alternatives. The proposal connects to established neuroscience — cortical columns are well-characterised functional units. Column-scale selection would explain why conscious influence feels coarse-grained (you decide to act, not which synapses to fire). Note however that the quantum coherence mechanism remains highly speculative — zero-point field coupling at cortical scales has no established experimental support in neuroscience.
 
 **Difficulties.** The proposal is less developed than Orch OR or Stapp's ion channel account. The mechanism by which cortical columns achieve quantum coherence is speculative. The proposal faces the same general decoherence objection as other candidates, amplified by the larger spatial scale.
 
@@ -202,7 +202,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies to the hier
 - [[concepts/consciousness-selecting-neural-patterns]] — The proposed selection mechanism in detail
 - [[quantum-consciousness]] — Quantum selection mechanisms (Stapp, Orch OR)
 - [[decoherence]] — The quantum coherence challenge in biological systems
-- [[psychophysical-coupling]] — Bandwidth constraints on the mind-brain connection
+- [[psychophysical-laws]] — Bandwidth constraints on the mind-brain connection
 
 ## References
 

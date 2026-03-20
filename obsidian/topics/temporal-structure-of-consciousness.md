@@ -4,7 +4,7 @@ description: "How consciousness requires time, time may require consciousness, a
 created: 2026-01-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-19T08:30:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ concepts:
   - "[[illusionism]]"
   - "[[binding-problem]]"
   - "[[unity-of-consciousness]]"
-  - "[[neural-binding-mechanisms]]"
+  - "[[phenomenal-binding-and-holism]]"
   - "[[working-memory]]"
   - "[[interactionist-dualism]]"
   - "[[personal-identity]]"
@@ -84,7 +84,7 @@ This poses a puzzle: how can succession be experienced if multiple moments must 
 
 **Retentionalists** (Husserl, Broad) hold that each moment contains intentional content directed at past and future. Husserl identified three inseparable components: **retention** (the just-past echoing in awareness), **primal impression** (the strictly present), and **protention** (openness toward the about-to-arrive).
 
-The Map suggests a synthesis: experience is genuinely extended, but the extension involves [[collapse-and-time|quantum collapse]]. The duration-block is constituted by collapses with retrocausal constraints—the past echoes in the present because retrocausal boundary conditions link them. The [[temporal-phenomenology-quantum-selection|temporal phenomenology of quantum selection]] maps Husserl's three components onto collapsed, collapsing, and uncollapsed quantum states. This is speculative (neural decoherence timescales differ vastly from phenomenal duration), but it offers a framework where temporal phenomenology has metaphysical significance.
+The Map suggests a synthesis: experience is genuinely extended, but the extension involves [[collapse-and-time|quantum collapse]]. The duration-block is constituted by collapses with retrocausal constraints—the past echoes in the present because retrocausal boundary conditions link them. The [[temporal-consciousness|temporal phenomenology of quantum selection]] maps Husserl's three components onto collapsed, collapsing, and uncollapsed quantum states. This is speculative (neural decoherence timescales differ vastly from phenomenal duration), but it offers a framework where temporal phenomenology has metaphysical significance.
 
 ## Three Levels of Temporal Integration
 
@@ -100,7 +100,7 @@ The specious present itself must be integrated with its predecessors and success
 
 ### Macro-Integration: The Temporal Self
 
-[[Anoetic-noetic-autonoetic-consciousness]] integrates experience across a lifetime. Remembering your childhood isn't merely accessing stored information—you *inhabit* the memory from a first-person perspective, experiencing yourself as the same subject. This connects temporal integration to [[personal-identity]]: the narrative self depends on macro-integration. Without it, you would have experience but not autobiography.
+[[anoetic-noetic-autonoetic-consciousness]] integrates experience across a lifetime. Remembering your childhood isn't merely accessing stored information—you *inhabit* the memory from a first-person perspective, experiencing yourself as the same subject. This connects temporal integration to [[personal-identity]]: the narrative self depends on macro-integration. Without it, you would have experience but not autobiography.
 
 ## Bergson's Durée
 
@@ -184,7 +184,7 @@ This exclusion would be categorical—not insufficient complexity but fundamenta
 
 Meditation traditions provide phenomenological data unavailable through ordinary introspection.
 
-**Temporal microstructure.** Trained contemplatives report experience arising in discrete pulses. [[Neurophenomenology]] proposes meditation reveals fine-grained temporal dynamics normally below threshold. The Buddhist *khanika* (momentariness) describes rapid arising and passing that untrained awareness blurs into continuity.
+**Temporal microstructure.** Trained contemplatives report experience arising in discrete pulses. [[neurophenomenology]] proposes meditation reveals fine-grained temporal dynamics normally below threshold. The Buddhist *khanika* (momentariness) describes rapid arising and passing that untrained awareness blurs into continuity.
 
 **Cessation states.** In *nirodha samapatti*, perception and feeling cease entirely—awareness without temporal flow. If consciousness constitutes time through collapse, suspended collapse would eliminate temporal experience.
 
@@ -224,7 +224,7 @@ The temporal structure of consciousness connects to all five [[tenets]]:
 ## Further Reading
 
 - [[temporal-consciousness]] — The specious present, Bergson's durée, temporal binding, and experienced duration
-- [[temporal-phenomenology-quantum-selection]] — What quantum selection feels like from within: retention-protention as experiential signature of collapse
+- [[temporal-consciousness]] — What quantum selection feels like from within: retention-protention as experiential signature of collapse
 - [[philosophy-of-time]] — A-theory, B-theory, presentism, eternalism, growing block
 - [[time-collapse-and-agency]] — The Map's full framework on time, collapse, and agency
 - [[collapse-and-time]] — How quantum collapse may constitute time's arrow

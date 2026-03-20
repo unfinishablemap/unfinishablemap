@@ -4,7 +4,7 @@ description: "Interface friction is the resistance consciousness encounters when
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-19T08:37:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 last_deep_review: 2026-03-19T08:37:00+00:00
 topics:
@@ -14,7 +14,7 @@ concepts:
   - "[[mind-matter-interface]]"
   - "[[brain-interface-boundary]]"
   - "[[attention-as-interface]]"
-  - "[[psychophysical-coupling]]"
+  - "[[psychophysical-laws]]"
   - "[[filter-theory]]"
   - "[[mental-effort]]"
   - "[[decoherence]]"
@@ -55,7 +55,7 @@ Decoherence pressure means consciousness cannot hold options open indefinitely. 
 
 ### Coupling Imprecision
 
-The [[psychophysical-coupling|coupling laws]] connecting conscious states to neural selections are not perfectly tight. Intention does not map one-to-one onto neural outcome. The same intention can produce different neural implementations depending on context, fatigue, arousal, and competing neural activity. Conversely, similar neural states can serve different conscious purposes.
+The [[psychophysical-laws|coupling laws]] connecting conscious states to neural selections are not perfectly tight. Intention does not map one-to-one onto neural outcome. The same intention can produce different neural implementations depending on context, fatigue, arousal, and competing neural activity. Conversely, similar neural states can serve different conscious purposes.
 
 This coupling imprecision is familiar from everyday experience. The word you wanted escapes you. The movement you intended overshoots or undershoots. The thought you tried to hold dissolves before you can articulate it. These failures are not random noise—they reflect the imprecision of mapping between two fundamentally different domains (mental and physical) through a finite interface.
 
@@ -65,7 +65,7 @@ Sustaining conscious influence requires [[mental-effort|effort]]. The phenomenol
 
 A tension exists between the bandwidth limitation (tens of bits per second) and the observation rate the quantum Zeno effect would require (potentially far faster than conscious deliberation). One resolution: the observations that sustain Zeno stabilisation need not be individually conscious. Consciousness may set the *target* pattern at low bandwidth while a sub-personal coupling mechanism sustains the high-frequency observations. The felt effort of concentration would then reflect the cost of maintaining this target specification against competing demands, not the cost of each individual quantum observation.
 
-[[Attentional-economics|Attentional economics]] treats this cost seriously. Attention is a scarce resource because the interface channel is narrow and maintaining selection against the brain's default dynamics is effortful. Interface friction explains *why* attention is scarce: the mind-brain channel has finite capacity and maintaining influence through it requires sustained expenditure.
+[[attentional-economics|Attentional economics]] treats this cost seriously. Attention is a scarce resource because the interface channel is narrow and maintaining selection against the brain's default dynamics is effortful. Interface friction explains *why* attention is scarce: the mind-brain channel has finite capacity and maintaining influence through it requires sustained expenditure.
 
 ## Friction as Diagnostic
 
@@ -112,7 +112,7 @@ The filter model also generates a distinctive prediction: reduced neural constra
 - [[mind-matter-interface]] — The two-layer architecture where friction operates
 - [[bandwidth-of-consciousness]] — The bandwidth bottleneck as primary friction source
 - [[brain-interface-boundary]] — Why the interface is brain-local
-- [[psychophysical-coupling]] — The coupling laws friction degrades
+- [[psychophysical-laws]] — The coupling laws friction degrades
 - [[attention-as-interface]] — Attention as the primary friction-bearing mechanism
 - [[mental-effort]] — The phenomenology of interface cost
 - [[attentional-economics]] — Attention as scarce resource under friction constraints

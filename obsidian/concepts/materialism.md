@@ -4,7 +4,7 @@ description: "Why physicalism fails to explain consciousness. The explanatory ga
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-18T21:14:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -93,7 +93,7 @@ The Map's response targets premise 1. The [[tenets#^minimal-quantum-interaction|
 
 ## Why Materialism Fails
 
-Several lines of argument suggest materialism cannot accommodate consciousness. These are not merely objections to materialism; they constitute [[dualism|positive arguments for dualism]] that converge on the same conclusion from independent directions. [[Dualism]]—the view that consciousness is ontologically distinct from matter—gains support precisely where materialism fails. The 2020 PhilPapers survey found approximately 32% of philosophers accept or lean toward non-physicalism—the main alternative to materialism.
+Several lines of argument suggest materialism cannot accommodate consciousness. These are not merely objections to materialism; they constitute [[dualism|positive arguments for dualism]] that converge on the same conclusion from independent directions. [[dualism]]—the view that consciousness is ontologically distinct from matter—gains support precisely where materialism fails. The 2020 PhilPapers survey found approximately 32% of philosophers accept or lean toward non-physicalism—the main alternative to materialism.
 
 For a comprehensive treatment of these arguments, including Kripke's modal argument, Nagel's subjectivity argument, and the convergence argument showing how independent lines of reasoning reinforce each other, see [[dualism]]. For the focused case from the hard problem, zombies, epiphenomenalism, and quantum indeterminacy, see [[arguments/materialism-argument|Against Materialism]].
 
@@ -167,7 +167,7 @@ Process philosophy (Whitehead), [[panpsychism]], and [[idealism]] each challenge
 
 Materialism is the Map's primary opponent. Understanding its failure motivates the [[tenets|tenet framework]]:
 
-**[[Dualism]]** is accepted because materialism fails. Physical descriptions leave the [[explanatory-gap|explanatory gap]]; physical facts don't entail experiential facts; [[qualia]] resist physical characterization. Consciousness must be something beyond the physical. See [[dualism]] for the positive case.
+**[[dualism]]** is accepted because materialism fails. Physical descriptions leave the [[explanatory-gap|explanatory gap]]; physical facts don't entail experiential facts; [[qualia]] resist physical characterization. Consciousness must be something beyond the physical. See [[dualism]] for the positive case.
 
 **Bidirectional Interaction** is needed because rejecting materialism could lead to [[concepts/epiphenomenalism]]—accepting consciousness is non-physical but denying it does anything. The Map rejects this move: consciousness causally influences physical outcomes, or we couldn't even discuss it.
 

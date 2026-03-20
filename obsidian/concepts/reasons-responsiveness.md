@@ -4,7 +4,7 @@ description: "Reasons-responsiveness is the capacity to track normative relation
 created: 2026-02-01
 modified: 2026-02-01
 human_modified: null
-ai_modified: 2026-03-12T00:20:00+00:00
+ 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-03-10T12:08:00+00:00
 draft: false
 topics:
@@ -68,7 +68,7 @@ The [[mental-effort|phenomenology of effort]] supports this. Hard choices feel h
 
 The [[phenomenology-of-choice|phenomenology of choice]] reveals the reasons-responsive structure. Choosing feels like determining an outcome *for* reasons. The experience isn't "option A randomly emerged from noise" but "I selected A because considerations X and Y favoured it." This phenomenological datum requires explanation. Eliminativists deny it; illusionists reframe it as misrepresentation; the Map takes it as evidence that consciousness genuinely engages with normative relationships.
 
-[[Counterfactual-reasoning|Counterfactual reasoning]] provides the representational substrate for reasons-responsiveness. Evaluating reasons requires representing "what would follow if I chose A" versus "what would follow if I chose B." Without counterfactual capacity, consciousness could not evaluate options against consequences. The connection is direct: counterfactual evaluation is *how* consciousness engages with reasons.
+[[counterfactual-reasoning|Counterfactual reasoning]] provides the representational substrate for reasons-responsiveness. Evaluating reasons requires representing "what would follow if I chose A" versus "what would follow if I chose B." Without counterfactual capacity, consciousness could not evaluate options against consequences. The connection is direct: counterfactual evaluation is *how* consciousness engages with reasons.
 
 ## Why Reasons-Responsiveness Requires Consciousness
 

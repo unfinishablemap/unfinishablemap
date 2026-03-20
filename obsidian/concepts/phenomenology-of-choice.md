@@ -4,7 +4,7 @@ description: "The experiential structure of deliberation and decision-making: fe
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-12T00:20:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -23,7 +23,7 @@ concepts:
   - "[[haecceity]]"
   - "[[decoherence]]"
   - "[[quantum-indeterminacy-free-will]]"
-  - "[[quantum-coherence-and-binding-evidence]]"
+  - "[[quantum-neural-mechanisms-and-coherence]]"
   - "[[luck-objection]]"
   - "[[causal-interface]]"
 related_articles:
@@ -65,7 +65,7 @@ Both patterns share the same structure: genuine openness followed by determinate
 
 The [[retrocausality|retrocausal]] dimension adds complexity. If selection operates atemporally—determining which history becomes real—the phenomenology of deciding "now" may be how atemporal selection manifests to time-bound consciousness.
 
-The [[decoherence|decoherence objection]]—that quantum coherence cannot survive in warm neural tissue—is addressed through [[quantum-coherence-and-binding-evidence|protection mechanisms]] that may shield relevant superpositions. More fundamentally, consciousness may operate at the point of *outcome selection* after decoherence has selected the measurement basis, biasing which eigenstate becomes actual without requiring sustained coherence.
+The [[decoherence|decoherence objection]]—that quantum coherence cannot survive in warm neural tissue—is addressed through [[quantum-neural-mechanisms-and-coherence|protection mechanisms]] that may shield relevant superpositions. More fundamentally, consciousness may operate at the point of *outcome selection* after decoherence has selected the measurement basis, biasing which eigenstate becomes actual without requiring sustained coherence.
 
 ### Authorship: The Sense of Agency
 
@@ -119,7 +119,7 @@ When choice feels effortful, frontal theta increases. When choice feels automati
 
 ## Deliberation and Duration
 
-Henri Bergson's concept of [[temporal-consciousness|durée]] illuminates deliberation. Choosing unfolds in lived time—qualitative duration where past and present interpenetrate—not spatialized clock-time. See [[temporal-consciousness]] for how time-experience shapes what consciousness can do, and [[temporal-phenomenology-quantum-selection]] for how the temporal structure of deliberation—holding open possibilities, settling on one—may be the experiential signature of quantum selection.
+Henri Bergson's concept of [[temporal-consciousness|durée]] illuminates deliberation. Choosing unfolds in lived time—qualitative duration where past and present interpenetrate—not spatialized clock-time. See [[temporal-consciousness]] for how time-experience shapes what consciousness can do, and [[temporal-consciousness]] for how the temporal structure of deliberation—holding open possibilities, settling on one—may be the experiential signature of quantum selection.
 
 Bergson argued that determinism treats mental states as discrete units causing each other mechanically. But in lived duration, mental states interpenetrate. Options don't sit statically waiting to be picked; they evolve through deliberation. What "option A" means changes as you consider option B. A free act emerges from the whole self—the full depth of one's lived duration—not from a chain of discrete events.
 

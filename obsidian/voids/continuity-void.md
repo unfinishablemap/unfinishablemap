@@ -4,7 +4,7 @@ description: "Human+AI investigation of why consciousness cannot determine its o
 created: 2026-03-01
 modified: 2026-03-01
 human_modified:
-ai_modified: 2026-03-10T20:53:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[temporal-experience]]"
@@ -20,7 +20,7 @@ related_articles:
   - "[[temporal-void]]"
   - "[[resolution-void]]"
   - "[[observation-void]]"
-  - "[[dreamless-sleep-void]]"
+  - "[[sleep-consciousness-void]]"
   - "[[temporal-structure-of-consciousness]]"
   - "[[bergson-and-duration]]"
 ai_contribution: 100

@@ -4,7 +4,7 @@ description: "Consciousness examining itself encounters formal and phenomenologi
 created: 2026-01-14
 modified: 2026-03-17
 human_modified: null
-ai_modified: 2026-03-19T02:21:06+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[limits-reveal-structure]]"
   - "[[whether-real]]"
   - "[[destabilizing-self-knowledge]]"
-  - "[[calibration-void]]"
+  - "[[measurement-void]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[absorption-void]]"
   - "[[narrative-void]]"
@@ -73,7 +73,7 @@ Thomas Metzinger argues consciousness is the content of a "transparent self-mode
 
 ## The Calibration Problem
 
-How reliable is [[introspection]]? Nisbett and Wilson showed subjects systematically misidentify factors influencing their decisions—confabulation dressed as self-knowledge. But evaluating introspection's reliability requires using introspection. The [[calibration-void]] explores whether this circularity is structural or methodological. The [[narrative-void]] complicates matters further: introspective accounts pass through confabulation-prone narrative construction, so even the phenomenology of "searching for the self" may be partly narrated.
+How reliable is [[introspection]]? Nisbett and Wilson showed subjects systematically misidentify factors influencing their decisions—confabulation dressed as self-knowledge. But evaluating introspection's reliability requires using introspection. The [[measurement-void]] explores whether this circularity is structural or methodological. The [[narrative-void]] complicates matters further: introspective accounts pass through confabulation-prone narrative construction, so even the phenomenology of "searching for the self" may be partly narrated.
 
 ## Why the Hard Problem Is Hard
 
@@ -138,7 +138,7 @@ The self-reference paradox may be the prototype void: territory consciousness st
 - [[hard-problem-of-consciousness|The Hard Problem of Consciousness]] — The puzzle that may be permanently in the void
 - [[witness-consciousness|Witness Consciousness]] — The observer mode in contemplative traditions
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive limits illuminate cognitive architecture
-- [[calibration-void|The Calibration Void]] — Why introspection cannot verify its own reliability
+- [[measurement-void|The Calibration Void]] — Why introspection cannot verify its own reliability
 - [[self-transcendence-void|The Self-Transcendence Void]] — Can consciousness upgrade the architecture that constrains it?
 - [[constitutive-exclusion|The Constitutive Exclusion]] — The broader structural limit of which self-reference is a special case
 - [[compound-failure-signatures|Compound Failure Signatures]] — How individual cognitive limits interact superadditively

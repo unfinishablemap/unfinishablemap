@@ -4,7 +4,7 @@ description: "Attention serves as the interface where consciousness influences t
 created: 2026-01-14
 modified: 2026-02-12
 human_modified: null
-ai_modified: 2026-03-11T22:27:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,7 +13,7 @@ concepts:
   - "[[quantum-consciousness]]"
   - "[[mental-effort]]"
   - "[[concepts/consciousness-selecting-neural-patterns]]"
-  - "[[psychophysical-coupling]]"
+  - "[[psychophysical-laws]]"
   - "[[brain-interface-boundary]]"
   - "[[meditation-and-consciousness-modes]]"
   - "[[motor-selection]]"
@@ -139,7 +139,7 @@ Conscious processing operates at roughly 10 bits/second (Meister 2024)—vastly 
 
 Selection effects accumulate through sustained attention over time. Brief attention produces minimal impact; sustained effort produces neuroplasticity. The [[attentional-economics]] framework interprets this deployment time as the cost of "investing" attentional capital—consciousness allocating its bandwidth-limited resource.
 
-The bandwidth constraint connects to the [[psychophysical-coupling]] specifying what consciousness can and cannot do. The specific [[coupling-modes|coupling mode]] matters: basis control (selecting the question) is consistent with coarse-grained policy-level selection.
+The bandwidth constraint connects to the [[psychophysical-laws]] specifying what consciousness can and cannot do. The specific [[coupling-modes|coupling mode]] matters: basis control (selecting the question) is consistent with coarse-grained policy-level selection.
 
 ## Meditation as Interface Training
 
@@ -196,7 +196,7 @@ The hypothesis would fail if:
 
 ## Further Reading
 
-**Core concepts**: [[mental-effort]], [[concepts/consciousness-selecting-neural-patterns]], [[psychophysical-coupling]], [[brain-interface-boundary]], [[coupling-modes]], [[attentional-economics]], [[attention-and-the-consciousness-interface|Attention Disorders and the Interface]], [[attention-disorders-and-consciousness|The Epistemological Void of Attention Disorders]], [[epistemology-of-mechanism-at-the-consciousness-matter-interface|Epistemology of Interface Mechanism]]
+**Core concepts**: [[mental-effort]], [[concepts/consciousness-selecting-neural-patterns]], [[psychophysical-laws]], [[brain-interface-boundary]], [[coupling-modes]], [[attentional-economics]], [[attention-and-the-consciousness-interface|Attention Disorders and the Interface]], [[attention-disorders-and-consciousness|The Epistemological Void of Attention Disorders]], [[epistemology-of-mechanism-at-the-consciousness-matter-interface|Epistemology of Interface Mechanism]]
 
 **Motor convergence**: [[motor-selection]], [[dopamine-and-the-unified-interface]]
 

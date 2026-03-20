@@ -4,7 +4,7 @@ description: "How the Map's interface framework transforms biological teleology 
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-11T15:33:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,8 +16,8 @@ concepts:
   - "[[agent-teleology]]"
   - "[[mental-causation]]"
   - "[[attention-as-interface]]"
-  - "[[attention-motor-quantum-interface]]"
-  - "[[dopamine-selection-interface]]"
+  - "[[attention-as-interface]]"
+  - "[[motor-selection]]"
   - "[[evolution-of-consciousness]]"
   - "[[motor-selection]]"
 related_articles:
@@ -36,7 +36,7 @@ last_curated:
 last_deep_review: 2026-03-11T15:33:00+00:00
 ---
 
-Biology banished purpose from nature. Darwin showed that apparent design arises from blind variation and selection, and the neo-Darwinian synthesis completed the project: biological "functions" are selected effects, not intentions. Organs exist *because of* what they did, not *for* what they will do. The Unfinishable Map accepts this account for all of biology except one domain. Where conscious organisms act through the [[attention-motor-quantum-interface|unified selection interface]], genuine teleology re-enters nature—not as cosmic design or divine intention, but as conscious purpose realised through a specific physical mechanism. This article develops the connection between biological teleology and the Map's interface framework, arguing that the interface is where the "as if" purposiveness of biological function becomes the real purposiveness of conscious agency.
+Biology banished purpose from nature. Darwin showed that apparent design arises from blind variation and selection, and the neo-Darwinian synthesis completed the project: biological "functions" are selected effects, not intentions. Organs exist *because of* what they did, not *for* what they will do. The Unfinishable Map accepts this account for all of biology except one domain. Where conscious organisms act through the [[attention-as-interface|unified selection interface]], genuine teleology re-enters nature—not as cosmic design or divine intention, but as conscious purpose realised through a specific physical mechanism. This article develops the connection between biological teleology and the Map's interface framework, arguing that the interface is where the "as if" purposiveness of biological function becomes the real purposiveness of conscious agency.
 
 ## The Standard Account: Function Without Purpose
 

@@ -4,7 +4,7 @@ description: "Exploring how consciousness transforms the problem of induction fr
 created: 2026-02-15
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-03-17T01:32:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -106,7 +106,7 @@ The Map's tenets illuminate the consciousness-induction relationship in several 
 
 - [[argument-from-reason]]
 - [[phenomenology-of-epistemic-cognition]]
-- [[consciousness-and-semantic-understanding]]
+- [[phenomenology-of-understanding-and-meaning]]
 - [[temporal-structure-of-consciousness]]
 - [[consciousness-and-normative-force]]
 - [[epistemic-advantages-of-dualism]]

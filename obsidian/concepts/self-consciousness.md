@@ -4,7 +4,7 @@ description: "How can consciousness be aware of itself? Self-consciousness raise
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-25T15:22:00+00:00
+ 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-02-23T14:22:00+00:00
 draft: false
 topics:
@@ -17,7 +17,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[baseline-cognition]]"
   - "[[jourdain-hypothesis]]"
-  - "[[the-unobservable-self]]"
+  - "[[self-reference-paradox]]"
   - "[[galilean-exclusion]]"
 related_articles:
   - "[[tenets]]"
@@ -104,7 +104,7 @@ Self-consciousness connects to the Map's foundational commitments at multiple po
 - [[self-and-consciousness]] — The minimal self as structural feature of consciousness
 - [[introspection]] — The practice of attending to one's own mental states
 - [[metacognition]] — Monitoring cognition vs knowing that one monitors
-- [[the-unobservable-self]] — Why the observer cannot catch itself observing
+- [[self-reference-paradox]] — Why the observer cannot catch itself observing
 - [[ownership-void|The Ownership Void]] — Why the for-me-ness of experience hides its own ground
 - [[phenomenology-of-self-awareness]] — What self-reference feels like from the inside
 - [[jourdain-hypothesis]] — Having mental states vs knowing you have them

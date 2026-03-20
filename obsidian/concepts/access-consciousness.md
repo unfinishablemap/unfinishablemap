@@ -4,7 +4,7 @@ description: "Access consciousness makes mental states available for reasoning a
 created: 2026-01-22
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-03-03T16:48:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 last_deep_review: 2026-03-03T16:48:00+00:00
 topics:
@@ -52,7 +52,7 @@ Key features: (1) availability to multiple cognitive systems, (2) rational contr
 
 Block's 1995 paper "On a Confusion about a Function of Consciousness" argued that conflating access consciousness (information available for reasoning, report, and action) with [[phenomenal-consciousness|phenomenal consciousness]] (the subjective "what it's like") has "bad results"—functions of access-machinery get "illicitly transferred" to phenomenal consciousness.
 
-**For consciousness science**: [[Global-workspace-theory|Global Workspace Theory]] explains when information becomes A-conscious (global broadcast) but not why broadcast feels like anything. The theory succeeds at access while leaving the [[hard-problem-of-consciousness|hard problem]] untouched.
+**For consciousness science**: [[global-workspace-theory|Global Workspace Theory]] explains when information becomes A-conscious (global broadcast) but not why broadcast feels like anything. The theory succeeds at access while leaving the [[hard-problem-of-consciousness|hard problem]] untouched.
 
 **For dualism**: Acknowledging A-consciousness *strengthens* the dualist position. Physicalism can explain access-mechanisms; what remains inexplicable is why globally broadcast information feels like anything. The [[explanatory-gap|explanatory gap]] persists even after we understand access.
 
@@ -92,7 +92,7 @@ This connects to [[cognitive-phenomenology]]—whether thinking has experiential
 
 If [[phenomenal-overflow|overflow]] is real, attention selects what becomes A-conscious from a richer phenomenal field—attention doesn't create P-consciousness but determines what reaches access-machinery. This fits the dualist view: phenomenal consciousness exists in parallel with functional access, and attention is the bridge.
 
-**Stapp's quantum mechanism**: [[Stapp-quantum-mind|Henry Stapp's model]] proposes that [[attention-as-interface|attention is the interface]] where consciousness influences physical processes through the quantum Zeno effect. Critics like Tegmark argue this requires measurements faster than decoherence timescales—a [[timing-gap-problem|timing gap]] of roughly twelve orders of magnitude between quantum decoherence in neural systems (~10⁻¹³ seconds) and conscious attention (~10⁻¹ seconds). The model remains speculative and contested among physicists. See [[motor-selection]] for how selection might work in action.
+**Stapp's quantum mechanism**: [[stapp-quantum-mind|Henry Stapp's model]] proposes that [[attention-as-interface|attention is the interface]] where consciousness influences physical processes through the quantum Zeno effect. Critics like Tegmark argue this requires measurements faster than decoherence timescales—a [[timing-gap-problem|timing gap]] of roughly twelve orders of magnitude between quantum decoherence in neural systems (~10⁻¹³ seconds) and conscious attention (~10⁻¹ seconds). The model remains speculative and contested among physicists. See [[motor-selection]] for how selection might work in action.
 
 ## Access Consciousness and Dualist Interaction {#interaction}
 
@@ -104,7 +104,7 @@ If [[tenets#^bidirectional|consciousness causally influences the brain]], access
 
 ### Dualism
 
-Access consciousness reveals what physicalism *can* explain: functional availability, information integration, global broadcast. [[Global-workspace-theory|Global Workspace Theory]] succeeds at this task. What remains inexplicable is [[phenomenal-consciousness|why global broadcast feels like anything]]. By isolating A-consciousness as the functional aspect, we clarify that the [[hard-problem-of-consciousness|hard problem]] concerns P-consciousness specifically.
+Access consciousness reveals what physicalism *can* explain: functional availability, information integration, global broadcast. [[global-workspace-theory|Global Workspace Theory]] succeeds at this task. What remains inexplicable is [[phenomenal-consciousness|why global broadcast feels like anything]]. By isolating A-consciousness as the functional aspect, we clarify that the [[hard-problem-of-consciousness|hard problem]] concerns P-consciousness specifically.
 
 The [[explanatory-gap|explanatory gap]] persists: neural mechanisms for access don't bridge to phenomenology. Block's dissociations strengthen dualism: if access and phenomenology can come apart, they're distinct. Blindsight suggests access without phenomenology; [[phenomenal-overflow|overflow]] suggests phenomenology exceeding access. If P-consciousness isn't reducible to A-consciousness, and A-consciousness is functionally explicable, then P-consciousness requires non-physical explanation.
 
@@ -126,21 +126,21 @@ Access consciousness is where this becomes existentially urgent. When you choose
 
 ### Occam's Razor Has Limits
 
-[[Global-workspace-theory|Global Workspace Theory]] explains A-consciousness but leaves P-consciousness unexplained. [[Integrated-information-theory|Integrated Information Theory]] attempts to address P-consciousness but faces its own difficulties. The 2025 [[global-workspace-theory#the-cogitate-experiment|COGITATE adversarial collaboration]] found neither theory fully captured the phenomena.
+[[global-workspace-theory|Global Workspace Theory]] explains A-consciousness but leaves P-consciousness unexplained. [[integrated-information-theory|Integrated Information Theory]] attempts to address P-consciousness but faces its own difficulties. The 2025 [[global-workspace-theory#the-cogitate-experiment|COGITATE adversarial collaboration]] found neither theory fully captured the phenomena.
 
 This illustrates [[tenets#^occams-limits|the limits of Occam's Razor]]. Physicalist theories are simpler (one substance) but struggle with consciousness. Dualism is more complex but handles both access (functional) and phenomenology (irreducible). The A-consciousness / P-consciousness distinction shows *what* physicalism can explain (access) and *what* it cannot (phenomenology).
 
 ## Further Reading
 
-- [[Phenomenal-consciousness|Phenomenal consciousness]]—the complement to A-consciousness in Block's framework
+- [[phenomenal-consciousness|Phenomenal consciousness]]—the complement to A-consciousness in Block's framework
 - [[phenomenal-overflow|Phenomenal overflow]]—Block's argument that phenomenology exceeds access capacity
-- [[Global-workspace-theory|Global Workspace Theory]]—neuroscientific theory of A-consciousness mechanisms
-- [[Attention-as-interface|Attention as interface]]—how consciousness controls what becomes accessible
-- [[Stapp-quantum-mind|Stapp's quantum mind]]—mechanism for conscious selection of what gets accessed
-- [[Cognitive-phenomenology|Cognitive phenomenology]]—whether thoughts have phenomenal character or are only A-conscious
-- [[Baseline-cognition|Baseline cognition]]—great ape intelligence shows what's possible without full A-consciousness
-- [[Working-memory|Working memory]]—the capacity limit on what can be A-conscious simultaneously
-- [[Metacognition]]—awareness of one's own cognitive states, requiring A-consciousness
+- [[global-workspace-theory|Global Workspace Theory]]—neuroscientific theory of A-consciousness mechanisms
+- [[attention-as-interface|Attention as interface]]—how consciousness controls what becomes accessible
+- [[stapp-quantum-mind|Stapp's quantum mind]]—mechanism for conscious selection of what gets accessed
+- [[cognitive-phenomenology|Cognitive phenomenology]]—whether thoughts have phenomenal character or are only A-conscious
+- [[baseline-cognition|Baseline cognition]]—great ape intelligence shows what's possible without full A-consciousness
+- [[working-memory|Working memory]]—the capacity limit on what can be A-conscious simultaneously
+- [[metacognition]]—awareness of one's own cognitive states, requiring A-consciousness
 
 ## References
 

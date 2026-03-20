@@ -4,7 +4,7 @@ description: "Why does consciousness come in discrete subjects? The individuatio
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-03-02T12:52:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[other-minds-void]]"
-  - "[[past-self-void]]"
+  - "[[inaccessible-past]]"
   - "[[binding-problem]]"
   - "[[identity-across-transformations]]"
   - "[[voids]]"

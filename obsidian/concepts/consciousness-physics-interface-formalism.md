@@ -4,7 +4,7 @@ description: "The formal mathematical components and constraints any theory of c
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-20T02:04:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,7 +20,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[the-interface-specification-problem]]"
-  - "[[selection-laws]]"
+  - "[[psychophysical-laws]]"
   - "[[born-rule-derivation-failures-consciousness-collapse]]"
   - "[[mind-matter-interface]]"
   - "[[interface-formalization-void]]"

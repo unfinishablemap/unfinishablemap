@@ -4,7 +4,7 @@ description: "Moral responsibility is not binary but graded by attentional capac
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-03-18T15:28:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -42,7 +42,7 @@ The responsibility gradient framework developed here makes this implication syst
 
 Traditional accounts of [[moral-responsibility]] require three conditions: control (could have done otherwise), sourcehood (the agent originated the action), and knowledge (the agent understood what they were doing). The Map's [[agent-causation]] framework grounds all three in consciousness's role as selector among quantum-indeterminate neural states.
 
-But selection operates through attention. The [[attention-as-interface]] hypothesis identifies attention as the channel through which consciousness exerts causal influence. [[Control-theoretic-will|Control-theoretic will]] formalises this: consciousness is a low-bandwidth controller (~10 bits/second) that gates, stabilises, and steers neural dynamics rather than computing them. If this is correct, then the quality and scope of an agent's attentional capacity directly determines how much control, sourcehood, and knowledge they can exercise at any given moment.
+But selection operates through attention. The [[attention-as-interface]] hypothesis identifies attention as the channel through which consciousness exerts causal influence. [[control-theoretic-will|Control-theoretic will]] formalises this: consciousness is a low-bandwidth controller (~10 bits/second) that gates, stabilises, and steers neural dynamics rather than computing them. If this is correct, then the quality and scope of an agent's attentional capacity directly determines how much control, sourcehood, and knowledge they can exercise at any given moment.
 
 An agent with impaired attentional capacity hasn't lost consciousness—they remain a subject of experience, a genuine agent. But their controller is operating with degraded bandwidth, noisy sensors, or reduced authority over the plant. The moral weight of their choices should reflect this.
 
@@ -52,7 +52,7 @@ Attentional capacity is not a single variable. The responsibility gradient opera
 
 ### Bandwidth
 
-[[Working-memory|Working memory]] capacity (~4±1 items) determines how many considerations an agent can hold simultaneously during deliberation. Genuine moral reasoning often requires holding the action, its consequences, the affected parties, and applicable principles together in awareness. An agent with temporarily or chronically reduced working memory capacity—through fatigue, intoxication, developmental factors, or neurological damage—can entertain fewer of these simultaneously. Their deliberation is structurally impoverished, not because they don't care but because they cannot hold enough threads to reason well.
+[[working-memory|Working memory]] capacity (~4±1 items) determines how many considerations an agent can hold simultaneously during deliberation. Genuine moral reasoning often requires holding the action, its consequences, the affected parties, and applicable principles together in awareness. An agent with temporarily or chronically reduced working memory capacity—through fatigue, intoxication, developmental factors, or neurological damage—can entertain fewer of these simultaneously. Their deliberation is structurally impoverished, not because they don't care but because they cannot hold enough threads to reason well.
 
 This dimension affects the *knowledge* requirement most directly. You cannot be fully responsible for consequences you lacked the bandwidth to foresee.
 
@@ -113,7 +113,7 @@ The cultivation principle means the gradient is temporally extended. Responsibil
 
 ## The Control-Theoretic Interpretation
 
-[[Control-theoretic-will|Control-theoretic will]] provides formal vocabulary for the gradient. The five dimensions map onto control-theoretic parameters:
+[[control-theoretic-will|Control-theoretic will]] provides formal vocabulary for the gradient. The five dimensions map onto control-theoretic parameters:
 
 | Dimension | Control Parameter |
 |-----------|------------------|

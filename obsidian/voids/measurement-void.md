@@ -4,7 +4,7 @@ description: "Why consciousness resists measurement at every level—no units, n
 created: 2026-02-25
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-18T05:59:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[phenomenology-of-the-edge]]"
   - "[[whether-real]]"
   - "[[consciousness-only-territories]]"
-  - "[[the-unobservable-self]]"
+  - "[[self-reference-paradox]]"
   - "[[destabilizing-self-knowledge]]"
   - "[[consciousness-and-the-problem-of-measurement-standards]]"
   - "[[self-reference-paradox]]"
@@ -139,7 +139,7 @@ The measurement void follows from the Map's [[tenets]] with particular directnes
 
 - [[observation-void]] — How every method of studying consciousness transforms what it studies
 - [[introspective-opacity]] — Why we access mental contents but never the mechanisms producing them
-- [[the-unobservable-self]] — The subject that cannot become its own object
+- [[self-reference-paradox]] — The subject that cannot become its own object
 - [[substrate-void]] — What consciousness is made of, when every answer collapses
 - [[intersubjective-void]] — Whether experiences can be genuinely shared
 - [[intrinsic-nature-void]] — What matter is in itself, beneath relational properties

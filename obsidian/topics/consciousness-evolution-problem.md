@@ -4,7 +4,7 @@ description: "Why does evolution make consciousness so puzzling? The fitness val
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-03-14T22:05:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -101,7 +101,7 @@ This position is honest but risks premature surrender. The Map's [[tenets#^occam
 
 ### Dissolve the Problem
 
-Illusionists and eliminativists argue there is no consciousness-evolution problem because there is no phenomenal consciousness. [[Illusionism]] holds that what we call experience is a misrepresentation by introspective mechanisms—neural systems that model their own processing in experiential terms without there being genuine experience behind the model. If so, evolution explains the modelling mechanisms and the problem evaporates.
+Illusionists and eliminativists argue there is no consciousness-evolution problem because there is no phenomenal consciousness. [[illusionism]] holds that what we call experience is a misrepresentation by introspective mechanisms—neural systems that model their own processing in experiential terms without there being genuine experience behind the model. If so, evolution explains the modelling mechanisms and the problem evaporates.
 
 The Map rejects this dissolution. As noted in the [[evolution-of-consciousness]] article, the illusion problem is at least as hard as the hard problem. Why would evolution produce organisms that systematically misrepresent their own cognition? The illusionist replaces "why did consciousness evolve?" with "why did the illusion of consciousness evolve?"—and confronts comparable explanatory burdens.
 

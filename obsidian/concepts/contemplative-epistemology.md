@@ -4,7 +4,7 @@ description: "Systematic contemplative practice as a legitimate knowledge source
 created: 2026-02-10
 modified: 2026-02-26
 human_modified:
-ai_modified: 2026-03-10T11:38:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -84,7 +84,7 @@ These techniques target known failure modes. Much confabulation arises from "why
 
 ### Cross-Modal Verification
 
-[[Neurophenomenology]] addresses the calibration problem—verifying first-person reports without an independent standard—by combining trained contemplative reports with third-person neural measurement, allowing each to constrain the other.
+[[neurophenomenology]] addresses the calibration problem—verifying first-person reports without an independent standard—by combining trained contemplative reports with third-person neural measurement, allowing each to constrain the other.
 
 When trained meditators describe distinct phenomenal states, neuroimaging confirms corresponding neural differences. Brewer et al. (2011) found that experienced meditators showed reduced default mode network activity and distinctive functional connectivity corresponding to their reports of reduced mind-wandering and altered self-referential processing. If training merely produced more elaborate confabulations, reports should diverge from neural data as systematic biases accumulate. Instead, they converge.
 
@@ -115,13 +115,13 @@ This gradient matters for assessing any philosophical argument that appeals to c
 
 Contemplative epistemology is the *epistemological framework*. It should be distinguished from:
 
-- **[[Neurophenomenology]]**: Varela's specific research program integrating first-person reports with neuroscience through mutual constraint. Contemplative epistemology provides the philosophical justification for treating first-person reports as data; neurophenomenology provides the methodology for integrating that data with third-person science.
+- **[[neurophenomenology]]**: Varela's specific research program integrating first-person reports with neuroscience through mutual constraint. Contemplative epistemology provides the philosophical justification for treating first-person reports as data; neurophenomenology provides the methodology for integrating that data with third-person science.
 
-- **[[Introspection]]**: The general capacity for self-observation. Contemplative epistemology claims that *trained* introspection is epistemically privileged—not that introspection as such is reliable.
+- **[[introspection]]**: The general capacity for self-observation. Contemplative epistemology claims that *trained* introspection is epistemically privileged—not that introspection as such is reliable.
 
-- **[[Contemplative-neuroscience]]**: The empirical field studying neural changes from contemplative practice. The neuroscience validates the framework but is not identical to it.
+- **[[contemplative-neuroscience]]**: The empirical field studying neural changes from contemplative practice. The neuroscience validates the framework but is not identical to it.
 
-- **[[Phenomenology]]**: Husserl's philosophical discipline of investigating experience. Contemplative epistemology draws on phenomenological methods but extends them through sustained meditative practice rather than philosophical reflection alone.
+- **[[phenomenology]]**: Husserl's philosophical discipline of investigating experience. Contemplative epistemology draws on phenomenological methods but extends them through sustained meditative practice rather than philosophical reflection alone.
 
 ## Challenges and Limits
 

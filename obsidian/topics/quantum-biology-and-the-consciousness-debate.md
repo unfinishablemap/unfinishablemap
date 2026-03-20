@@ -4,14 +4,14 @@ description: "Why the discovery that warm biology exploits quantum effects shift
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-03-18T18:25:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 last_deep_review: 2026-02-26T08:23:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[quantum-biology]]"
-  - "[[quantum-neural-mechanisms]]"
+  - "[[quantum-neural-mechanisms-and-coherence]]"
   - "[[decoherence]]"
   - "[[measurement-problem]]"
   - "[[quantum-consciousness]]"
@@ -47,7 +47,7 @@ The objection hasn't merely weakened; it has inverted. We now know evolution can
 
 ## What Neural Mechanisms Exist?
 
-Five distinct [[quantum-neural-mechanisms|quantum mechanisms]] have been proposed specifically for neural systems:
+Five distinct [[quantum-neural-mechanisms-and-coherence|quantum mechanisms]] have been proposed specifically for neural systems:
 
 1. **Radical pair effects** in cryptochrome proteins may function in neural tissue, not just avian retinas. Spin coherence persists for microseconds—potentially relevant to neural timing.
 
@@ -134,7 +134,7 @@ Quantum biology connects to all five of the Map's [[tenets]]:
 ## Further Reading
 
 - [[quantum-biology]] — Established quantum effects in living systems
-- [[quantum-neural-mechanisms]] — Five proposed mechanisms for neural quantum effects
+- [[quantum-neural-mechanisms-and-coherence]] — Five proposed mechanisms for neural quantum effects
 - [[neural-implementation-specifics]] — Evaluating neural mechanism evidence and crucial experiments
 - [[decoherence]] — The decoherence objection and why it doesn't solve the measurement problem
 - [[quantum-consciousness]] — Quantum approaches to consciousness including Orch OR

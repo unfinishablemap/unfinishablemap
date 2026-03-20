@@ -4,7 +4,7 @@ description: "Working memory manipulation requires consciousness while maintenan
 created: 2026-01-17
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-03-11T21:51:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -86,7 +86,7 @@ Manipulation involves operating on representations as representations—taking w
 
 These operations have the structure of [[metacognition|metarepresentation]]—representing representations. You cannot take something as an object of thought without being conscious of it; otherwise, it's not an object for you but merely a state you're in. The [[phenomenology-of-choice|phenomenology of deliberate manipulation]]—holding alternatives, comparing them, settling on one—reflects this structure.
 
-[[Mental-effort|Mental effort]] tracks this distinction precisely. Passive maintenance feels effortless—phone numbers "held in mind" without active work. Active manipulation feels effortful—mental arithmetic, logical reasoning, creative recombination all involve phenomenal cost.
+[[mental-effort|Mental effort]] tracks this distinction precisely. Passive maintenance feels effortless—phone numbers "held in mind" without active work. Active manipulation feels effortful—mental arithmetic, logical reasoning, creative recombination all involve phenomenal cost.
 
 ## Recursive Cognition and Language
 
@@ -128,7 +128,7 @@ WM binding in the episodic buffer resembles perceptual binding: both integrate m
 
 The [[attention-as-interface]] hypothesis proposes that consciousness influences neural systems through attention. Working memory may be where this interface operates most intensively. The relationship is bidirectional: attention determines what enters working memory, and held contents direct subsequent attention—creating a feedback loop between consciousness and cognition.
 
-**Bandwidth constraint**: The Map's [[psychophysical-coupling-law|coupling law research]] estimates consciousness's causal bandwidth at ~10 bits/second, a limit explored further in [[bandwidth-of-consciousness]]. This matches WM capacity limitations remarkably well—suggesting both may reflect the same fundamental constraint on consciousness-matter interaction. The [[attentional-economics]] framework treats WM capacity as "attentional capital"—the liquid assets available for manipulation within any given moment.
+**Bandwidth constraint**: The Map's [[psychophysical-laws|coupling law research]] estimates consciousness's causal bandwidth at ~10 bits/second, a limit explored further in [[bandwidth-of-consciousness]]. This matches WM capacity limitations remarkably well—suggesting both may reflect the same fundamental constraint on consciousness-matter interaction. The [[attentional-economics]] framework treats WM capacity as "attentional capital"—the liquid assets available for manipulation within any given moment.
 
 **Effort asymmetry**: The maintenance/manipulation distinction explains why some cognitive processes feel effortful and others don't. Mental effort corresponds to conscious manipulation through the interface—what the Map calls [[interface-friction]]—while passive maintenance operates without consciousness and without effort.
 
@@ -182,7 +182,7 @@ None currently obtains. The asymmetry persists across studies; binding remains c
 
 ## Further Reading
 
-- [[consciousness-and-semantic-understanding]] — How multiple meanings are held and woven into unified understanding
+- [[phenomenology-of-understanding-and-meaning]] — How multiple meanings are held and woven into unified understanding
 - [[consciousness-as-amplifier]] — How WM expansion enables cognitive amplification
 - [[language-recursion-and-consciousness]] — How recursive linguistic structure depends on expanded WM capacity
 - [[attention-as-interface]] — Attention as the causal bridge between consciousness and neural systems

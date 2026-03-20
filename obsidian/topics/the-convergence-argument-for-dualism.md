@@ -4,7 +4,7 @@ description: "Multiple independent arguments for dualism converge from different
 created: 2026-02-18
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-03-19T19:20:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -108,7 +108,7 @@ Moreover, the "conceptual confusion" diagnosis is itself a philosophical claim t
 
 ### The Cognitive Closure Alternative
 
-[[Mysterianism]] offers a more nuanced version of the common-cause objection. Colin McGinn argues that humans may be cognitively closed to the relationship between consciousness and the brain. The convergence of anti-materialist arguments might reflect our inability to grasp the physical explanation rather than the absence of one.
+[[mysterianism]] offers a more nuanced version of the common-cause objection. Colin McGinn argues that humans may be cognitively closed to the relationship between consciousness and the brain. The convergence of anti-materialist arguments might reflect our inability to grasp the physical explanation rather than the absence of one.
 
 This deserves serious engagement. If we are cognitively closed to the solution, we would expect exactly the pattern we observe: multiple attempts to think about consciousness-brain relations, each revealing an apparent gap, each gap reflecting our cognitive architecture rather than reality.
 

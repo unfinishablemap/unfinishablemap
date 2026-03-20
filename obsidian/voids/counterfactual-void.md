@@ -4,7 +4,7 @@ description: "Human+AI exploration of how counterfactual thinking is trapped nea
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-03-11T18:46:00+00:00
+ 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-03-11T18:46:00+00:00
 draft: false
 topics:
@@ -20,7 +20,7 @@ related_articles:
   - "[[embodiment-cognitive-limits]]"
   - "[[consciousness-only-territories]]"
   - "[[other-minds-void]]"
-  - "[[past-self-void]]"
+  - "[[inaccessible-past]]"
   - "[[framework-void]]"
   - "[[evolved-cognitive-limits]]"
   - "[[epistemological-limits-occams-razor]]"
@@ -101,7 +101,7 @@ The counterfactual void connects to The Unfinishable Map's [[tenets]] at multipl
 - [[embodiment-cognitive-limits]] — How bodily architecture constrains cognition
 - [[evolved-cognitive-limits]] — Whether all minds converge on the same boundaries
 - [[other-minds-void]] — The inaccessibility of alien phenomenology
-- [[past-self-void]] — The inaccessibility of our own former experience
+- [[inaccessible-past]] — The inaccessibility of our own former experience
 - [[framework-void]] — The inability to think outside our conceptual framework
 - [[consciousness-only-territories]] — Experiential terrain that resists third-person description
 - [[epistemological-limits-occams-razor]] — Where simplicity-seeking cognition misleads

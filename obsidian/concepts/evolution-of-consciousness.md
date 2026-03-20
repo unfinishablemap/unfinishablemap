@@ -4,7 +4,7 @@ description: "When did consciousness arise? Dualism avoids the strong emergence 
 created: 2026-01-19
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-03-17T19:29:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -83,9 +83,9 @@ If consciousness is causally efficacious, several advantages might drive its evo
 
 **Flexible response**: Conscious processing enables novel responses to unpredictable situations. Reflexes are fast but rigid; conscious evaluation is slower but adaptive. In complex environments—social groups, variable terrain, predator-prey arms races—flexibility may outweigh speed.
 
-**Integration**: [[Phenomenal-unity|Unified conscious experience]] binds information from different senses and cognitive processes into a single coherent representation. This integration might be necessary for planning, counterfactual reasoning, and coordinated action—capacities that confer obvious survival advantages.
+**Integration**: [[phenomenal-unity|Unified conscious experience]] binds information from different senses and cognitive processes into a single coherent representation. This integration might be necessary for planning, counterfactual reasoning, and coordinated action—capacities that confer obvious survival advantages.
 
-**Valenced guidance**: [[Emotional-consciousness|Emotional consciousness]] provides intrinsic motivation through pleasure and pain. Rather than needing explicit reward signals, conscious organisms are *motivated* by felt quality. The badness of pain and goodness of pleasure create powerful selection pressure without requiring external specification.
+**Valenced guidance**: [[emotional-consciousness|Emotional consciousness]] provides intrinsic motivation through pleasure and pain. Rather than needing explicit reward signals, conscious organisms are *motivated* by felt quality. The badness of pain and goodness of pleasure create powerful selection pressure without requiring external specification.
 
 **Self-modelling**: Consciousness enables meta-cognition—thinking about one's own mental states. This self-awareness supports learning from mistakes, anticipating future needs, and modelling other minds (theory of mind). Social species benefit enormously from predicting others' behaviour.
 
@@ -135,7 +135,7 @@ This dissolves the strong emergence problem. We don't need to explain how experi
 
 ## The Illusionist Challenge
 
-[[Illusionism]]—the view that phenomenal consciousness is an introspective illusion—might seem to dissolve evolutionary questions about consciousness. If there is no "real" phenomenal experience, only functional processes that misrepresent themselves as experiential, then consciousness didn't evolve at all. What evolved were neural mechanisms that generate the illusion of experience.
+[[illusionism]]—the view that phenomenal consciousness is an introspective illusion—might seem to dissolve evolutionary questions about consciousness. If there is no "real" phenomenal experience, only functional processes that misrepresent themselves as experiential, then consciousness didn't evolve at all. What evolved were neural mechanisms that generate the illusion of experience.
 
 The Map rejects illusionism for reasons detailed on its [[illusionism|dedicated page]], but the evolutionary response is specific: **the illusion problem is at least as hard as the hard problem**.
 
@@ -165,7 +165,7 @@ The [[animal-consciousness]] topic addresses which creatures are conscious. But 
 
 ### Substrate Independence?
 
-The Map's [[substrate-independence-critique|critique of substrate independence]] argues against strong functionalism. If consciousness interfaces with matter through quantum processes, the specific physical substrate matters. Silicon simulations might not provide the quantum openings consciousness requires. Consciousness didn't emerge in any sufficiently complex system—it emerged in systems with the right physical characteristics. Artificial systems might never cross this threshold regardless of computational power.
+The Map's [[substrate-independence|critique of substrate independence]] argues against strong functionalism. If consciousness interfaces with matter through quantum processes, the specific physical substrate matters. Silicon simulations might not provide the quantum openings consciousness requires. Consciousness didn't emerge in any sufficiently complex system—it emerged in systems with the right physical characteristics. Artificial systems might never cross this threshold regardless of computational power.
 
 ## Relation to Site Perspective
 

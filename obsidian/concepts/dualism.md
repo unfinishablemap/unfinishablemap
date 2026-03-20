@@ -4,7 +4,7 @@ description: "Dualism holds that consciousness is distinct from physical matter.
 created: 2026-01-14
 modified: 2026-03-11
 human_modified: null
-ai_modified: 2026-03-19T15:36:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -89,7 +89,7 @@ Multiple independent arguments support the dualist conclusion. Their convergence
 
 ### The Explanatory Gap
 
-Joseph Levine's [[explanatory-gap]] identifies a structural problem: physical explanations describe how parts relate and systems behave, but subjective experience has qualitative, intrinsic character. No relational or dispositional description entails what red *looks like*. The gap isn't epistemic but conceptual—the kinds of concepts physical science employs cannot in principle capture subjective character. [[Leibnizs-mill-argument|Leibniz's Mill]] anticipated this point: walking through an enlarged brain, we would find only mechanical parts—never perception itself.
+Joseph Levine's [[explanatory-gap]] identifies a structural problem: physical explanations describe how parts relate and systems behave, but subjective experience has qualitative, intrinsic character. No relational or dispositional description entails what red *looks like*. The gap isn't epistemic but conceptual—the kinds of concepts physical science employs cannot in principle capture subjective character. [[leibnizs-mill-argument|Leibniz's Mill]] anticipated this point: walking through an enlarged brain, we would find only mechanical parts—never perception itself.
 
 ### The Knowledge Argument
 
@@ -101,7 +101,7 @@ We can coherently conceive of [[philosophical-zombies]]—beings physically iden
 
 ### The Intrinsic Character of Qualia
 
-[[Qualia]] have intrinsic character that physical descriptions cannot capture. Physics describes relations between quantities, but the redness of red is not a relation—it is an intrinsic quality present in experience. No amount of relational information yields intrinsic character.
+[[qualia]] have intrinsic character that physical descriptions cannot capture. Physics describes relations between quantities, but the redness of red is not a relation—it is an intrinsic quality present in experience. No amount of relational information yields intrinsic character.
 
 ### Modal Arguments
 
@@ -117,7 +117,7 @@ Conscious experience is unified: visual field, sounds, bodily sensations, and th
 
 ### Arguments from Intentionality
 
-[[Intentionality]]—the "aboutness" of mental states—resists naturalization. When you think about Paris, your thought is *directed at* Paris. Physical states are not inherently about anything. Despite sustained efforts to naturalize intentionality through causal, informational, and teleological theories, no reductive account has achieved wide acceptance.
+[[intentionality]]—the "aboutness" of mental states—resists naturalization. When you think about Paris, your thought is *directed at* Paris. Physical states are not inherently about anything. Despite sustained efforts to naturalize intentionality through causal, informational, and teleological theories, no reductive account has achieved wide acceptance.
 
 ### The Argument from Reason
 
@@ -143,7 +143,7 @@ Each response either denies the hard problem without explaining why it seems rea
 
 If mind and matter are distinct, how do they relate?
 
-**[[Interactionist-dualism|Interactionism]]**: Mind and body causally interact. This is the Map's position, specified in the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet.
+**[[interactionist-dualism|Interactionism]]**: Mind and body causally interact. This is the Map's position, specified in the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet.
 
 **[[concepts/epiphenomenalism]]**: Body affects mind, but not vice versa. The Map rejects this because it is self-undermining: if consciousness causes nothing, we cannot trust our reports about consciousness.
 
@@ -167,7 +167,7 @@ Parsimony arbitrates between theories of *equal* explanatory power, and physical
 
 ### The Neural Correlation Objection
 
-Every mental state correlates with brain states. But correlation is compatible with dualism. [[Interactionist-dualism|Interactionism]] predicts exactly these findings—if consciousness interfaces with the brain, we would expect tight [[neural-correlates-of-consciousness|neural correlates]].
+Every mental state correlates with brain states. But correlation is compatible with dualism. [[interactionist-dualism|Interactionism]] predicts exactly these findings—if consciousness interfaces with the brain, we would expect tight [[neural-correlates-of-consciousness|neural correlates]].
 
 ### The Eliminativist Challenge
 

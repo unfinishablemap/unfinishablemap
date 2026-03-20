@@ -4,7 +4,7 @@ description: "Creative insight unfolds through qualitatively distinct experienti
 created: 2026-03-07
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-03-08T17:11:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ related_articles:
   - "[[categorical-surprise]]"
   - "[[phenomenology-of-epistemic-cognition]]"
   - "[[philosophy-of-science-under-dualism]]"
-  - "[[aesthetic-dimension-of-consciousness]]"
+  - "[[aesthetics-and-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -154,7 +154,7 @@ The phenomenology of creative insight supports several of the Map's [[tenets]].
 - [[phenomenology-of-epistemic-cognition]]
 - [[consciousness-and-scientific-explanation]]
 - [[philosophy-of-science-under-dualism]]
-- [[aesthetic-dimension-of-consciousness]]
+- [[aesthetics-and-consciousness]]
 
 ## References
 

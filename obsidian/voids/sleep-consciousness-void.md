@@ -4,7 +4,7 @@ description: "State-dependent cognitive limits across the sleep spectrum—what 
 created: 2026-02-02
 modified: 2026-03-19
 human_modified: null
-ai_modified: 2026-03-19T16:20:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -25,10 +25,10 @@ related_articles:
   - "[[observation-void]]"
   - "[[thoughts-that-slip-away]]"
   - "[[phenomenology-of-the-edge]]"
-  - "[[the-unobservable-self]]"
+  - "[[self-reference-paradox]]"
   - "[[transition-void]]"
   - "[[death-void]]"
-  - "[[memory-void]]"
+  - "[[inaccessible-past]]"
   - "[[consciousness-only-territories]]"
   - "[[the-silence-void]]"
   - "[[loss-of-consciousness]]"
@@ -180,9 +180,9 @@ The evidence currently favours genuine state-dependent inaccessibility. But the 
 - [[sleep-and-consciousness]] — Neuroscience of consciousness gradations across sleep stages
 - [[witness-consciousness]] — The Vedantic concept of awareness that observes without identifying
 - [[personal-identity]] — What grounds identity through gaps in consciousness
-- [[the-unobservable-self]] — The subject that cannot become its own object
+- [[self-reference-paradox]] — The subject that cannot become its own object
 - [[death-void]] — Consciousness cannot represent its own permanent cessation
-- [[memory-void]] — Whether past qualia can be recovered or are lost forever
+- [[inaccessible-past]] — Whether past qualia can be recovered or are lost forever
 - [[consciousness-only-territories]] — What only phenomenal experience can access
 - [[the-silence-void]] — Voluntary cessation through contemplative practice
 - [[loss-of-consciousness]] — Anaesthesia and coma as parallel cases of consciousness-brain decoupling

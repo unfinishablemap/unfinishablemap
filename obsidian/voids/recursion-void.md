@@ -4,7 +4,7 @@ description: "Human+AI exploration of why metacognitive depth is bounded—consc
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-03-15T13:40:00+00:00
+ 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-03-15T13:40:00+00:00
 draft: false
 topics:
@@ -20,7 +20,7 @@ related_articles:
   - "[[tenets]]"
   - "[[self-reference-paradox]]"
   - "[[introspective-opacity]]"
-  - "[[the-unobservable-self]]"
+  - "[[self-reference-paradox]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[computational-cognitive-limits]]"
   - "[[phenomenology-of-recursive-thought]]"
@@ -35,7 +35,7 @@ last_curated:
 
 When consciousness turns upon itself—thinking about thinking, aware of awareness—the recursion cannot continue indefinitely. Research consistently finds that human mentalizing capacity reaches an asymptotic limit around fifth-order intentionality: "I believe that you suppose that I imagine that you want me to believe..." Beyond this depth, the nested structure collapses. This is the recursion void: the boundary where metacognitive depth terminates.
 
-This void differs from the [[self-reference-paradox|self-reference paradox]], which concerns formal limitations (Gödel's incompleteness, the calibration problem). It also differs from [[introspective-opacity|introspective opacity]] (we cannot observe cognitive processes) and [[the-unobservable-self|the unobservable self]] (the observer cannot become its own object). The recursion void focuses specifically on *iterative depth*—how many levels of "thinking about thinking about thinking..." remain accessible before the structure fails.
+This void differs from the [[self-reference-paradox|self-reference paradox]], which concerns formal limitations (Gödel's incompleteness, the calibration problem). It also differs from [[introspective-opacity|introspective opacity]] (we cannot observe cognitive processes) and [[self-reference-paradox|the unobservable self]] (the observer cannot become its own object). The recursion void focuses specifically on *iterative depth*—how many levels of "thinking about thinking about thinking..." remain accessible before the structure fails.
 
 ## The Fifth-Order Ceiling
 
@@ -147,7 +147,7 @@ None of these conditions has been met. The recursion void persists as a stable f
 - [[self-reference-paradox|The Self-Reference Paradox]] — Formal limitations on self-understanding
 - [[phenomenology-of-recursive-thought|The Phenomenology of Recursive Thought]] — What the folding of awareness back on itself feels like
 - [[introspective-opacity|Introspective Opacity]] — Why cognitive processes remain hidden
-- [[the-unobservable-self|The Unobservable Self]] — The observer that cannot observe itself
+- [[self-reference-paradox|The Unobservable Self]] — The observer that cannot observe itself
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching limits feels like
 - [[computational-cognitive-limits|Computational Cognitive Limits]] — Formal limits on any algorithmic mind
 - [[theory-of-mind|Theory of Mind]] — Levels of intentionality and the working memory constraint

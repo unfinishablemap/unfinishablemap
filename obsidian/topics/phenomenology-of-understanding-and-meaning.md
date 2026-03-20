@@ -4,13 +4,13 @@ description: "Understanding has irreducible phenomenal character—the click of 
 created: 2026-01-22
 modified: 2026-03-16
 human_modified:
-ai_modified: 2026-03-16T17:02:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
   - "[[meaning-of-life]]"
-  - "[[aesthetic-dimension-of-consciousness]]"
+  - "[[aesthetics-and-consciousness]]"
 concepts:
   - "[[cognitive-phenomenology]]"
   - "[[epistemic-emotions]]"
@@ -36,7 +36,7 @@ related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-mathematical-cognition]]"
   - "[[surprise-prediction-error-and-consciousness]]"
-  - "[[consciousness-and-the-authority-of-logic]]"
+  - "[[consciousness-and-the-authority-of-formal-systems]]"
   - "[[consciousness-and-counterfactual-reasoning]]"
   - "[[phenomenology-of-epistemic-cognition]]"
   - "[[argument-from-reason]]"
@@ -94,7 +94,7 @@ Among the most philosophically significant aspects is the experience of necessit
 
 ### Aesthetic Meaning
 
-[[phenomenology-of-musical-understanding|Musical understanding]] provides the clearest case of meaning that cannot be stated propositionally — a point explored further in the Map's treatment of the [[aesthetic-dimension-of-consciousness]]. When a minor key passage sounds, listeners experience something — sadness, darkness, yearning — but the meaning cannot be translated into any assertion. The music generates felt significance directly, without passing through propositional content.
+[[phenomenology-of-musical-understanding|Musical understanding]] provides the clearest case of meaning that cannot be stated propositionally — a point explored further in the Map's treatment of the [[aesthetics-and-consciousness]]. When a minor key passage sounds, listeners experience something — sadness, darkness, yearning — but the meaning cannot be translated into any assertion. The music generates felt significance directly, without passing through propositional content.
 
 The meaning of a harmonic resolution is constituted by its phenomenal character — by the felt release of tension, the satisfaction of an anticipated continuation arriving. A system that processed the same harmonic relations without temporal phenomenology — without the specious present that holds preceding notes in retention while protention reaches toward what follows — would process structure without generating meaning. The meaning *is* the experience of the structure, not the structure itself.
 
@@ -221,7 +221,7 @@ Several findings would weaken PCT and the phenomenal constitution of meaning:
 - [[temporal-structure-of-understanding]] — The temporal unfolding of comprehension
 - [[consciousness-and-mathematical-cognition]] — Mathematical insight as paradigm case
 - [[epistemic-emotions]] — Feelings directed at knowledge itself
-- [[consciousness-and-the-authority-of-logic]] — Why logical relationships carry normative force
+- [[consciousness-and-the-authority-of-formal-systems]] — Why logical relationships carry normative force
 - [[phenomenology-of-intellectual-effort]] — The experience of reasoning as work
 - [[phenomenology-of-epistemic-cognition]] — The felt weight of reasons
 - [[argument-from-reason]] — Why genuine reasoning requires consciousness

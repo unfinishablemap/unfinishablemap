@@ -4,7 +4,7 @@ description: "Quantum mechanics' central puzzle: why measurement yields definite
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-03-19T10:12:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[mental-causation]]"
   - "[[mental-effort]]"
   - "[[multi-mind-collapse-problem]]"
-  - "[[interface-locality]]"
+  - "[[brain-interface-boundary]]"
   - "[[prebiotic-collapse]]"
   - "[[indexical-identity-quantum-measurement]]"
   - "[[quantum-probability-consciousness]]"
@@ -99,11 +99,11 @@ This reveals a gap across major interpretations:
 - **Relational QM** treats any physical system as "observer," leaving first-person perspective outside
 - **Many-Worlds** makes every outcome equally real yet requires explaining which branch "I" occupy
 
-[[Haecceity]]—"thisness"—names what needs explaining. Two functionally identical minds would be numerically distinct; something makes one *mine*. Whether haecceity is primitive, derivative, or merely conventional (as Buddhist philosophy might argue) remains open. The Map takes no position on haecceity's ultimate nature—only that being *this* particular subject is what any complete account must address. If consciousness participates in collapse, it does so *as* the particularity of a subject—determining which outcome is actual *for this consciousness*.
+[[haecceity]]—"thisness"—names what needs explaining. Two functionally identical minds would be numerically distinct; something makes one *mine*. Whether haecceity is primitive, derivative, or merely conventional (as Buddhist philosophy might argue) remains open. The Map takes no position on haecceity's ultimate nature—only that being *this* particular subject is what any complete account must address. If consciousness participates in collapse, it does so *as* the particularity of a subject—determining which outcome is actual *for this consciousness*.
 
 ## Why Decoherence Doesn't Solve It
 
-[[Decoherence]] is sometimes claimed to solve the measurement problem. It doesn't—though it explains something substantial: why macroscopic superpositions vanish and which basis is selected. As Tomaz et al. note: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured" (2025). This clean partition—decoherence handles all structural work while leaving the actuality question untouched—supports the [[physics-as-disclosure|disclosure reading]]: the measurement problem marks a boundary in reality, not a gap in theory.
+[[decoherence]] is sometimes claimed to solve the measurement problem. It doesn't—though it explains something substantial: why macroscopic superpositions vanish and which basis is selected. As Tomaz et al. note: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured" (2025). This clean partition—decoherence handles all structural work while leaving the actuality question untouched—supports the [[physics-as-disclosure|disclosure reading]]: the measurement problem marks a boundary in reality, not a gap in theory.
 
 ### A Gödelian Parallel: Systems That Cannot Describe Themselves
 
@@ -171,13 +171,13 @@ Consciousness-based interpretations face a further challenge: what happens when 
 
 This "[[multi-mind-collapse-problem]]" generates uncomfortable options: (1) *first observer wins*—but relativity provides no absolute temporal ordering; (2) *consensus required*—demanding nonlocal coordination; (3) *dominant consciousness*—requiring an unmeasurable hierarchy of observer "strength."
 
-The Map's resolution combines [[interface-locality]] with [[prebiotic-collapse|objective collapse]]. External reality is determined by physical objective reduction. Each consciousness *modulates* collapse only in its own brain's quantum events, not the external world directly. Alice's consciousness affects Alice's neural patterns; Bob's affects Bob's. Agreement reflects that external reality was determined by physics, not that consciousnesses coordinated.
+The Map's resolution combines [[brain-interface-boundary]] with [[prebiotic-collapse|objective collapse]]. External reality is determined by physical objective reduction. Each consciousness *modulates* collapse only in its own brain's quantum events, not the external world directly. Alice's consciousness affects Alice's neural patterns; Bob's affects Bob's. Agreement reflects that external reality was determined by physics, not that consciousnesses coordinated.
 
 ## The Causal Closure Loophole
 
 The measurement problem reveals a genuine gap in physical explanation—where [[mental-causation]] becomes *possible*, though the gap alone does not establish that consciousness fills it.
 
-[[Causal-closure|Causal closure]] claims every physical event has a sufficient physical cause. At quantum measurement, this fails: the Born rule yields *probabilities*, not determinate causes—predicting ensemble statistics without explaining why *this* measurement yielded *this* outcome. [[physical-completeness|Physical completeness]] clarifies the distinction: physics is *structurally* complete (no hidden variables are missing) yet *ontologically* partial (the selection of actuality from possibility falls outside structural description).
+[[causal-closure|Causal closure]] claims every physical event has a sufficient physical cause. At quantum measurement, this fails: the Born rule yields *probabilities*, not determinate causes—predicting ensemble statistics without explaining why *this* measurement yielded *this* outcome. [[physical-completeness|Physical completeness]] clarifies the distinction: physics is *structurally* complete (no hidden variables are missing) yet *ontologically* partial (the selection of actuality from possibility falls outside structural description).
 
 This creates the "causal closure loophole": physics fixes the *distribution* of outcomes but leaves the *selection* of individual outcomes unexplained.
 
@@ -241,7 +241,7 @@ The measurement problem is central to the Map's framework. It provides the *perm
 - [[qm-interpretations-beyond-many-worlds]] — comparative assessment of interpretations' consciousness compatibility
 - [[self-stultification]] — Why epiphenomenalism undermines its own epistemic basis
 - [[interactionist-dualism]], [[causal-closure]], [[mental-causation]] — The broader framework
-- [[multi-mind-collapse-problem]], [[interface-locality]], [[prebiotic-collapse]] — How the Map resolves coordination puzzles
+- [[multi-mind-collapse-problem]], [[brain-interface-boundary]], [[prebiotic-collapse]] — How the Map resolves coordination puzzles
 - [[topics/free-will]] — How quantum indeterminacy enables libertarian free will
 - [[haecceity]] — The "thisness" grounding indexical identity
 - [[mysterianism]] — Why some explanatory gaps may be unclosable

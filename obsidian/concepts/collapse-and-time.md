@@ -4,7 +4,7 @@ description: "Wavefunction collapse introduces temporal asymmetry into physics. 
 created: 2026-01-14
 modified: 2026-03-07
 human_modified: null
-ai_modified: 2026-03-17T17:30:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[quantum-measurement-and-consciousness]]"
   - "[[consciousness-collapse-arrow-of-time-2026-01-14]]"
   - "[[atemporal-causation]]"
-  - "[[temporal-phenomenology-quantum-selection]]"
+  - "[[temporal-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -96,7 +96,7 @@ The Map proposes a **modified growing block**. Past and present exist; the futur
 
 Kastner's PTI resolves the apparent tension: offer and confirmation waves exist in a timeless pre-spacetime realm, while actualized transactions establish empirical spacetime events. The "future" participating in transactions is the possibility space of potential absorbers, not ontologically existing future facts. This allows both real collapse and time-symmetric physics.
 
-This isn't growth *in* time but the *constitution of* time. The [[temporal-consciousness|specious present]] may be the phenomenological manifestation of consciousness's constitutive role—not merely a neural representation. The [[temporal-phenomenology-quantum-selection|temporal phenomenology of quantum selection]] develops this idea further.
+This isn't growth *in* time but the *constitution of* time. The [[temporal-consciousness|specious present]] may be the phenomenological manifestation of consciousness's constitutive role—not merely a neural representation. The [[temporal-consciousness|temporal phenomenology of quantum selection]] develops this idea further.
 
 ### Agent Identity Across Collapse
 
@@ -140,7 +140,7 @@ The triad of consciousness, collapse, and time's arrow engages all five [[tenets
 
 - [[time-collapse-and-agency]] — Full synthesis of time, collapse, and conscious agency
 - [[temporal-consciousness]] — The phenomenology of temporal experience
-- [[temporal-phenomenology-quantum-selection]] — Felt structure of time as experiential signature of quantum selection
+- [[temporal-consciousness]] — Felt structure of time as experiential signature of quantum selection
 - [[philosophy-of-time]] — McTaggart's A/B-series, presentism, eternalism, and growing block ontology
 - [[atemporal-causation]] — Causation outside temporal sequence
 - [[retrocausality]] — How time-symmetric physics grounds backward causation

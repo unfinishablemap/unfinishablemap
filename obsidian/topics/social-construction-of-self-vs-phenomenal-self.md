@@ -4,7 +4,7 @@ description: "Two accounts of selfhood compete: social construction (self as cul
 created: 2026-02-12
 modified: 2026-02-16
 human_modified:
-ai_modified: 2026-02-16T03:40:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -24,9 +24,9 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[diachronic-agency-and-personal-narrative]]"
-  - "[[the-unobservable-self]]"
+  - "[[self-reference-paradox]]"
   - "[[destabilizing-self-knowledge]]"
-  - "[[past-self-void]]"
+  - "[[inaccessible-past]]"
   - "[[cognitive-integration-and-the-self]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[embodied-consciousness-and-the-interface]]"
@@ -118,9 +118,9 @@ This analysis connects to the Map's foundational commitments at multiple points.
 - [[intersubjectivity]] — How phenomenal experience can be shared between minds
 - [[topics/consciousness-and-social-cognition]] — The role of consciousness in enabling social self-models
 - [[diachronic-agency-and-personal-narrative]] — How narrative shapes agency across time
-- [[the-unobservable-self]] — Why the phenomenal self resists its own introspective gaze
+- [[self-reference-paradox]] — Why the phenomenal self resists its own introspective gaze
 - [[haecceity]] — Primitive thisness and why qualitative identity is insufficient
-- [[past-self-void]] — The reconstructive nature of autobiographical memory
+- [[inaccessible-past]] — The reconstructive nature of autobiographical memory
 - [[contemplative-practice-as-philosophical-evidence]] — Meditative phenomenology as evidence for the persistence of the phenomenal self
 - [[embodied-consciousness-and-the-interface]] — The lived body as pre-social foundation for phenomenal selfhood
 - [[first-person-third-person-methodology]] — Why constructionism's third-person methodology misses the phenomenal self

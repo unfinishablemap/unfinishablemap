@@ -4,7 +4,7 @@ description: "When multiple minds observe entangled systems, whose consciousness
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-20T00:52:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -106,7 +106,7 @@ The [[decoherence]] challenge constrains but doesn't eliminate [[brain-interface
 
 ## The Illusionist Challenge
 
-[[Illusionism]] might seem to dissolve the problem: if there's no "real" consciousness selecting outcomes, there's nothing requiring coordination.
+[[illusionism]] might seem to dissolve the problem: if there's no "real" consciousness selecting outcomes, there's nothing requiring coordination.
 
 But Raymond Tallis's regress objection applies. To say multiple "illusions" need no coordination requires explaining why each brain produces *its own* illusion. The functional processes generating the seeming must be local—but this is precisely what interface locality claims about consciousness itself. Why does Brain A's illusion-generating process create the seeming of being *this* observer, distinct from Brain B's? The problem relocates rather than dissolves.
 

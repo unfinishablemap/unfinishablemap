@@ -4,7 +4,7 @@ description: "Every conceptual framework excludes what it cannot represent. The 
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-03-19T02:21:06+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,7 +43,7 @@ This makes the framework void a kind of meta-void: the condition that generates 
 
 A conceptual framework does not merely organise information. It determines what counts as information, what questions seem meaningful, and what answers seem possible. Thomas Kuhn argued that scientists working within different paradigms "see different things when they look from the same point in the same direction" — not metaphorically, but because the framework shapes perception itself.
 
-This self-concealment distinguishes the framework void from other cognitive limits. The [[language-thought-boundary]] can be felt: one senses the presence of content that resists articulation. [[Conceptual-impossibility]] announces itself through cognitive blockage — the mind strains against a contradiction and knows it is straining. The framework void typically produces no such signal. One's framework feels not like a framework but like transparent access to truth. The walls of the prison are invisible because they are made of the same material as the air inside.
+This self-concealment distinguishes the framework void from other cognitive limits. The [[language-thought-boundary]] can be felt: one senses the presence of content that resists articulation. [[conceptual-impossibility]] announces itself through cognitive blockage — the mind strains against a contradiction and knows it is straining. The framework void typically produces no such signal. One's framework feels not like a framework but like transparent access to truth. The walls of the prison are invisible because they are made of the same material as the air inside.
 
 Three features characterise this void:
 

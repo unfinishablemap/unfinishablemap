@@ -4,7 +4,7 @@ description: "Why controlling attention feels like work—and what this universa
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-18T18:25:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -118,7 +118,7 @@ Advanced meditators report "effortless awareness"—stable attention without the
 
 The resolution involves two modes of consciousness (see [[meditation-and-consciousness-modes]]):
 
-**Active selection**: Consciousness engages through attention, actively selecting among possible neural states. This feels effortful because it *is* continuous engagement. The [[temporal-phenomenology-quantum-selection|temporal phenomenology of selection]] proposes that effort's phenomenal character reflects consciousness working to bias outcomes against the system's spontaneous tendencies.
+**Active selection**: Consciousness engages through attention, actively selecting among possible neural states. This feels effortful because it *is* continuous engagement. The [[temporal-consciousness|temporal phenomenology of selection]] proposes that effort's phenomenal character reflects consciousness working to bias outcomes against the system's spontaneous tendencies.
 
 **Passive witnessing**: Consciousness observes without selecting. Neural patterns evolve according to their natural dynamics. This feels effortless because observation without selection requires less engagement.
 

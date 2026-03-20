@@ -4,7 +4,7 @@ description: "Consciousness as causally inert byproduct. Self-stultification pro
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-03-19T06:54:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -139,7 +139,7 @@ Epiphenomenalism predicts no correlation between consciousness and cognitive cap
 
 ### The Contemplative Neuroscience Evidence
 
-[[Contemplative-neuroscience|Contemplative neuroscience]] provides further empirical challenge. Meditation training produces measurable neuroplastic changes, and the *content* of conscious intention matters—compassion meditation produces different neural changes than focused attention meditation. This is an instance of [[content-specificity-of-mental-causation|content-specificity]], the broader pattern where the *meaning* of a conscious state determines *which* physical effect occurs. The therapeutic efficacy of mindfulness-based interventions poses a particular challenge: if phenomenology were causally inert, such interventions should be no more effective than placebo. They are substantially more effective. See [[contemplative-practice-as-philosophical-evidence]] for the full argument.
+[[contemplative-neuroscience|Contemplative neuroscience]] provides further empirical challenge. Meditation training produces measurable neuroplastic changes, and the *content* of conscious intention matters—compassion meditation produces different neural changes than focused attention meditation. This is an instance of [[content-specificity-of-mental-causation|content-specificity]], the broader pattern where the *meaning* of a conscious state determines *which* physical effect occurs. The therapeutic efficacy of mindfulness-based interventions poses a particular challenge: if phenomenology were causally inert, such interventions should be no more effective than placebo. They are substantially more effective. See [[contemplative-practice-as-philosophical-evidence]] for the full argument.
 
 ## Relation to the Map's Perspective
 

@@ -4,12 +4,12 @@ description: "What makes life meaningful? The Map suggests meaning is grounded i
 created: 2026-01-08
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-03-10T07:43:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[nihilism]]"
+  - "[[nihilism-and-existentialism]]"
   - "[[existentialism]]"
   - "[[purpose-and-alignment]]"
   - "[[topics/free-will]]"
@@ -135,7 +135,7 @@ The Map's position is that intrinsic properties of experience—its qualitative 
 
 ### Against Evolutionary Debunking
 
-[[Normative-void|Evolutionary debunking arguments]] suggest our moral intuitions are unreliable because natural selection shaped them for fitness, not truth. Does this extend to intuitions about consciousness-grounded value?
+[[normative-void|Evolutionary debunking arguments]] suggest our moral intuitions are unreliable because natural selection shaped them for fitness, not truth. Does this extend to intuitions about consciousness-grounded value?
 
 The disanalogy is crucial. Moral intuitions are *about* external facts (what's right, what's obligatory). Our access to them is indirect. But the intrinsic value of conscious experience isn't an inference about external facts—it's given in the experience itself. We don't conclude that pain is bad by observing it from outside; the badness is phenomenologically present in the suffering. Evolution could distort our beliefs *about* consciousness, but the immediate givenness of experience isn't a belief to be distorted.
 
@@ -145,7 +145,7 @@ The disanalogy is crucial. Moral intuitions are *about* external facts (what's r
 
 ## The Illusionist Challenge
 
-[[Illusionism]]—the view that phenomenal consciousness is an introspective illusion—presents the most radical objection to consciousness-grounded meaning. If qualia are representational fictions, grounding meaning in experiential quality would ground it in nothing real.
+[[illusionism]]—the view that phenomenal consciousness is an introspective illusion—presents the most radical objection to consciousness-grounded meaning. If qualia are representational fictions, grounding meaning in experiential quality would ground it in nothing real.
 
 ### The Regress Response
 
@@ -155,7 +155,7 @@ Sartre's analysis of the *pour-soi* (being-for-itself) anticipated this point: c
 
 ### The Contemplative Challenge
 
-[[Introspection]] research reveals trained contemplatives access experiential quality directly—not as attribution but as observed feature. If phenomenal states were illusory, contemplative training should dissolve the illusion. Instead, practice *refines* phenomenal access, revealing finer-grained distinctions. What would training be refining access to if phenomenal properties didn't exist?
+[[introspection]] research reveals trained contemplatives access experiential quality directly—not as attribution but as observed feature. If phenomenal states were illusory, contemplative training should dissolve the illusion. Instead, practice *refines* phenomenal access, revealing finer-grained distinctions. What would training be refining access to if phenomenal properties didn't exist?
 
 ### The Functional Asymmetry
 
@@ -229,7 +229,7 @@ The [[haecceity]] of personal identity matters here. *You*—this particular con
 
 The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet explains why consciousness-grounded meaning shouldn't be dismissed for complexity. Simpler accounts—meaning as preference-satisfaction, meaning as adaptive fiction—may reflect conceptual poverty rather than insight. Consciousness is strange; meaning may be equally strange.
 
-[[Mysterianism]] takes this further: we may be cognitively closed with respect to exactly *how* consciousness grounds meaning. We can know that it does without fully understanding the mechanism. The [[normative-void]] extends this analysis to ethics—some moral truths may be permanently beyond human cognitive reach.
+[[mysterianism]] takes this further: we may be cognitively closed with respect to exactly *how* consciousness grounds meaning. We can know that it does without fully understanding the mechanism. The [[normative-void]] extends this analysis to ethics—some moral truths may be permanently beyond human cognitive reach.
 
 ## What Makes a Life Meaningful?
 
@@ -256,7 +256,7 @@ The position takes seriously what we actually know: consciousness exists, it's r
 ## Further Reading
 
 ### Core Concepts
-- [[nihilism]] — The case for meaninglessness and responses to it
+- [[nihilism-and-existentialism]] — The case for meaninglessness and responses to it
 - [[existentialism]] — Sartre's pour-soi and the phenomenology of freedom support consciousness-grounded meaning
 - [[topics/phenomenal-value-realism]] — The metaethical grounding for consciousness-based value
 - [[purpose-and-alignment]] — How AI alignment depends on unresolved questions about meaning

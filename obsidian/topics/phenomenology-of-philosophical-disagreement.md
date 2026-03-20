@@ -4,7 +4,7 @@ description: "What does it feel like to disagree philosophically? Human+AI explo
 created: 2026-02-17
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-03-19T07:53:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[phenomenology-of-understanding-and-meaning]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[phenomenology-of-epistemic-cognition]]"
   - "[[consciousness-and-testimony]]"
   - "[[consciousness-and-normative-force]]"
-  - "[[consciousness-and-the-authority-of-logic]]"
+  - "[[consciousness-and-the-authority-of-formal-systems]]"
   - "[[intersubjective-void]]"
   - "[[phenomenology-of-framework-inhabitation]]"
   - "[[phenomenology-of-conceptual-change]]"

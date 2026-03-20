@@ -4,7 +4,7 @@ description: "Surprise requires phenomenal consciousness—not just prediction e
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-19T21:47:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -59,7 +59,7 @@ Genuine surprise—the felt jolt when expectation shatters—requires phenomenal
 
 ## The Gap Between Error and Experience
 
-[[Predictive-processing|Predictive processing]] (PP) models the brain as a hierarchical prediction engine. When predictions fail, error signals propagate upward, updating the model. This is computationally elegant and empirically productive. But it describes only one side of what happens when a loud crash interrupts silence.
+[[predictive-processing|Predictive processing]] (PP) models the brain as a hierarchical prediction engine. When predictions fail, error signals propagate upward, updating the model. This is computationally elegant and empirically productive. But it describes only one side of what happens when a loud crash interrupts silence.
 
 The computational side: a high-magnitude prediction error, large precision weighting, rapid model updating.
 

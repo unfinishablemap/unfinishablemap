@@ -4,7 +4,7 @@ description: "Hindu, Buddhist, and Taoist traditions converge with dualism on co
 created: 2026-01-09
 modified: 2026-02-06
 human_modified: null
-ai_modified: 2026-03-19T13:02:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,7 +12,7 @@ topics:
   - "[[personal-identity]]"
 concepts:
   - "[[buddhism-and-dualism]]"
-  - "[[nihilism]]"
+  - "[[nihilism-and-existentialism]]"
   - "[[existentialism]]"
   - "[[neurophenomenology]]"
   - "[[dream-consciousness]]"
@@ -204,7 +204,7 @@ Eastern philosophy illuminates all five of the Map's [[tenets]], while raising p
 - [[self-and-consciousness]] — Minimal self vs. narrative self
 - [[personal-identity]] — What makes you the same person over time
 - [[meaning-of-life]] — Western approaches to significance
-- [[nihilism]] — Compare Buddhist and Western responses to meaninglessness
+- [[nihilism-and-existentialism]] — Compare Buddhist and Western responses to meaninglessness
 - [[buddhist-perspectives-meaning-2026-01-06]] — Detailed research notes
 - [[tenets]] — The Map's framework for comparison
 

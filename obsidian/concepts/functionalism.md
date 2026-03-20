@@ -4,7 +4,7 @@ description: "Mental states defined by causal roles, not substrate. Absent quali
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-03-11T20:06:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[predictive-processing]]"
   - "[[global-workspace-theory]]"
   - "[[llm-consciousness]]"
-  - "[[substrate-independence-critique]]"
+  - "[[substrate-independence]]"
   - "[[temporal-consciousness]]"
   - "[[dualism]]"
   - "[[mental-causation]]"
@@ -100,7 +100,7 @@ If either is possible, functionalism is false: mental states have qualitative ch
 
 ### The Illusionist Response
 
-[[Illusionism]] offers functionalism's most radical defense: qualia as we conceive them don't exist. Introspection systematically misrepresents our internal states; what seems irreducible is actually a cognitive illusion.
+[[illusionism]] offers functionalism's most radical defense: qualia as we conceive them don't exist. Introspection systematically misrepresents our internal states; what seems irreducible is actually a cognitive illusion.
 
 The deeper problem: even an illusion requires a subject to whom things *seem* a certain way. If introspection misrepresents internal states, the misrepresentation itself is an experience—something it is like to be misled about one's own mind. Phenomenal character cannot be eliminated by relabeling it as error, because the error is itself phenomenal. Illusionism pushes the problem back rather than dissolving it.
 
@@ -144,7 +144,7 @@ If consciousness is merely functional organization, it can't "do" anything beyon
 
 ### Temporal Structure
 
-Functionalism characterizes mental states by their causal roles, abstracting away from *how* those roles unfold in time. But [[temporal-consciousness]] may be constitutive of consciousness: the retention of the immediate past and protention of what follows, held together in a unified specious present. If this temporal phenomenology is essential to conscious experience rather than an optional feature, then functional equivalence—which captures input-output mappings without requiring any particular temporal structure—cannot guarantee consciousness. See [[substrate-independence-critique]] for the full argument that substrate-level temporal properties matter.
+Functionalism characterizes mental states by their causal roles, abstracting away from *how* those roles unfold in time. But [[temporal-consciousness]] may be constitutive of consciousness: the retention of the immediate past and protention of what follows, held together in a unified specious present. If this temporal phenomenology is essential to conscious experience rather than an optional feature, then functional equivalence—which captures input-output mappings without requiring any particular temporal structure—cannot guarantee consciousness. See [[substrate-independence]] for the full argument that substrate-level temporal properties matter.
 
 ### The AI Question
 
@@ -182,7 +182,7 @@ The Map's response: the substrate matters because consciousness involves somethi
 - [[evolution-of-consciousness]] — The emergence problem functionalism cannot solve
 - [[consciousness-and-the-philosophy-of-biology]] — Why biological function concepts fail to capture consciousness
 - [[arguments/functionalism-argument]] — Five formal arguments against functionalism
-- [[substrate-independence-critique]] — Why the substrate matters for consciousness
+- [[substrate-independence]] — Why the substrate matters for consciousness
 - [[ai-consciousness]] — The question of machine minds
 - [[qualia]] — What functionalism may leave out
 - [[emotion-and-dualism]] — Emotions as a domain where functional decomposition fails to capture phenomenal character

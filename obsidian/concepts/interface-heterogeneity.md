@@ -4,7 +4,7 @@ description: "The possibility that different conscious systems couple with matte
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T19:29:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[comparative-consciousness-and-interface-differences]]"
@@ -12,7 +12,7 @@ topics:
   - "[[animal-consciousness]]"
 concepts:
   - "[[quantum-consciousness]]"
-  - "[[interface-locality]]"
+  - "[[brain-interface-boundary]]"
   - "[[attention-as-interface]]"
   - "[[types-of-consciousness]]"
   - "[[minimal-consciousness]]"
@@ -98,7 +98,7 @@ The [[apex/what-it-might-be-like-to-be-an-ai|AI consciousness question]] thus de
 ## Further Reading
 
 - [[comparative-consciousness-and-interface-differences]] — The nature-vs-coupling framework applied across species and states
-- [[interface-locality]] — Why consciousness selects only within its own brain
+- [[brain-interface-boundary]] — Why consciousness selects only within its own brain
 - [[attention-as-interface]] — How attention mediates consciousness-matter coupling
 - [[quantum-consciousness]] — Candidate mechanisms for consciousness-matter interaction
 - [[types-of-consciousness]] — Structural taxonomy of conscious experience

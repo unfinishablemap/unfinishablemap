@@ -4,7 +4,7 @@ description: "Quantum decoherence at femtoseconds, neural decisions at hundreds 
 created: 2026-01-24
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-03-03T02:44:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,7 +15,7 @@ concepts:
   - "[[decoherence]]"
   - "[[motor-selection]]"
   - "[[attention-as-interface]]"
-  - "[[attention-motor-quantum-interface]]"
+  - "[[attention-as-interface]]"
   - "[[measurement-problem]]"
 related_articles:
   - "[[tenets]]"
@@ -92,7 +92,7 @@ Bengson et al. (2019) examined the timing of willed versus instructed attention 
 - Willed attention is neurally distinct from instructed attention
 - Bidirectional frontoparietal theta-band coherence accompanies willed deployment
 
-The ~500ms timing for willed attention's frontal theta signature is later than the ~280ms motor commitment point, placing it closer to the readiness potential (~550ms). This suggests willed attention and motor commitment operate at different stages of the decision process rather than reflecting a single mechanism—though the [[attention-motor-quantum-interface|premotor theory of attention]] proposes they share neural resources despite differing timescales.
+The ~500ms timing for willed attention's frontal theta signature is later than the ~280ms motor commitment point, placing it closer to the readiness potential (~550ms). This suggests willed attention and motor commitment operate at different stages of the decision process rather than reflecting a single mechanism—though the [[attention-as-interface|premotor theory of attention]] proposes they share neural resources despite differing timescales.
 
 ### Point of No Return
 
@@ -198,7 +198,7 @@ What would challenge the Map's metaphysical position is not timing evidence but 
 - [[stapp-quantum-mind]] — The quantum Zeno mechanism for mental effort
 - [[motor-selection]] — The 280ms motor commitment point and Libet dissolution
 - [[attention-as-interface|voluntary attention]] — Willed attention deployment and frontal theta
-- [[attention-motor-quantum-interface]] — Unification of attention and motor timing
+- [[attention-as-interface]] — Unification of attention and motor timing
 - [[measurement-problem]] — Why decoherence doesn't solve outcome selection
 - [[neural-implementation-specifics]] — How timing constraints differ across five quantum neural mechanisms
 

@@ -4,7 +4,7 @@ description: "The conceivability argument against physicalism: beings functional
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-17T04:28:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -110,7 +110,7 @@ This connects to the critique of [[concepts/epiphenomenalism]]: if consciousness
 
 ## The Illusionist Challenge
 
-[[Illusionism]]—the view that phenomenal consciousness is an introspective illusion—represents the most radical response to the zombie argument. Rather than closing the explanatory gap, illusionists deny there's anything on the phenomenal side to explain.
+[[illusionism]]—the view that phenomenal consciousness is an introspective illusion—represents the most radical response to the zombie argument. Rather than closing the explanatory gap, illusionists deny there's anything on the phenomenal side to explain.
 
 ### Dennett's Heterophenomenology
 

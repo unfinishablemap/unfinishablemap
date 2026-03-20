@@ -4,7 +4,7 @@ description: "Constraint satisfaction has distinctive phenomenal character — t
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-03-04T13:38:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[phenomenology-of-cognitive-capacity]]"
@@ -108,7 +108,7 @@ The disconnect between computational complexity and phenomenal intensity poses a
 - [[choking-phenomenon-mental-causation]]
 - [[predictive-processing-and-dualism]]
 - [[phenomenology-of-intellectual-effort]]
-- [[consciousness-and-aesthetic-creation]]
+- [[aesthetics-and-consciousness]]
 - [[cognitive-phenomenology]]
 
 ## References

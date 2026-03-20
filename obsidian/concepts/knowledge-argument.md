@@ -4,7 +4,7 @@ description: "Mary knows all physical facts about color but seems to learn somet
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-18T19:57:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[tenets]]"
   - "[[epiphenomenalism]]"
   - "[[knowledge-argument-marys-room-2026-01-14]]"
-  - "[[aesthetic-irreducibility-arguments]]"
+  - "[[aesthetics-and-consciousness]]"
   - "[[epistemology-of-introspection]]"
 ai_contribution: 100
 author: null
@@ -125,7 +125,7 @@ The knowledge argument shares deep structure with other anti-physicalist argumen
 
 **The Objectivity Paradox**: Mary's case exemplifies the broader tension between [[objectivity-and-consciousness|objectivity and consciousness]]. Science aims for the "view from nowhere"—perspective-free description independent of any observer. But consciousness *is* perspective. Mary possessed the maximally objective description of color vision yet lacked the subjective reality it describes. Eliminating the observer eliminates the subject matter.
 
-**The Aesthetic Knowledge Argument**: The [[aesthetic-irreducibility-arguments|aesthetic irreducibility arguments]] run a stronger version of Mary's Room. Imagine someone with complete physical knowledge of Bach's *Goldberg Variations* — acoustic analysis, harmonic structure, neural correlates. Upon hearing the work, they learn an integrated aesthetic fact that exceeds not only physical facts but simpler phenomenal facts: knowing what individual notes sound like does not entail knowing what the *Goldberg Variations* as a whole are like to hear.
+**The Aesthetic Knowledge Argument**: The [[aesthetics-and-consciousness|aesthetic irreducibility arguments]] run a stronger version of Mary's Room. Imagine someone with complete physical knowledge of Bach's *Goldberg Variations* — acoustic analysis, harmonic structure, neural correlates. Upon hearing the work, they learn an integrated aesthetic fact that exceeds not only physical facts but simpler phenomenal facts: knowing what individual notes sound like does not entail knowing what the *Goldberg Variations* as a whole are like to hear.
 
 **The Convergence Argument**: The knowledge argument is not alone. It is one of several converging [[dualism|arguments for dualism]]—alongside the explanatory gap, conceivability argument, inverted qualia, modal arguments, Nagel's subjectivity argument, the unity of consciousness, and arguments from intentionality. These arguments exploit different features of consciousness through different logical routes yet converge on the same conclusion. Their cumulative force is stronger than any individual argument.
 
@@ -173,7 +173,7 @@ The argument's resilience comes from its simplicity: minimal assumptions (Mary k
 
 ## Relation to The Unfinishable Map's Perspective
 
-If the knowledge argument is sound, it provides powerful support for the [[tenets#^dualism|Dualism]] tenet. The core claim—that physical knowledge leaves phenomenal knowledge unaddressed—aligns with what the Map means by consciousness being irreducible, though the inference from epistemic gap (Mary lacks certain knowledge) to metaphysical distinctness (non-physical facts exist) is contested. [[Qualia]] would have a qualitative character that no physical description captures.
+If the knowledge argument is sound, it provides powerful support for the [[tenets#^dualism|Dualism]] tenet. The core claim—that physical knowledge leaves phenomenal knowledge unaddressed—aligns with what the Map means by consciousness being irreducible, though the inference from epistemic gap (Mary lacks certain knowledge) to metaphysical distinctness (non-physical facts exist) is contested. [[qualia]] would have a qualitative character that no physical description captures.
 
 The argument also supports the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet. If the learning intuition holds, physicalism's [[epistemological-limits-of-occams-razor|apparent parsimony]] fails before it. When the "simpler" theory conflicts with what nearly everyone recognizes, simplicity may not be decisive—though as noted, the intuition's reliability is itself debated.
 
@@ -196,7 +196,7 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 - [[consciousness-and-the-ontology-of-dispositions]] — Why Mary's learning shows phenomenal character exceeds dispositional description
 - [[concepts/materialism]] — The view the argument challenges
 - [[language-and-consciousness]] — How reference to consciousness resists standard theories of meaning, reinforcing the knowledge argument's gap
-- [[aesthetic-irreducibility-arguments]] — The aesthetic version of Mary's Room, where integrated aesthetic facts exceed both physical and simpler phenomenal facts
+- [[aesthetics-and-consciousness]] — The aesthetic version of Mary's Room, where integrated aesthetic facts exceed both physical and simpler phenomenal facts
 - [[tenets]] — How the Map's framework responds
 
 ## References

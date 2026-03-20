@@ -4,7 +4,7 @@ description: "How philosophy of biology—function, teleology, organism, adaptat
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-01T05:47:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[consciousness-evolution-problem]]"
@@ -30,7 +30,7 @@ related_articles:
   - "[[reductionism-and-consciousness]]"
   - "[[explanatory-gap]]"
   - "[[downward-causation]]"
-  - "[[selection-laws]]"
+  - "[[psychophysical-laws]]"
   - "[[biological-teleology-and-the-interface-framework]]"
 ai_contribution: 100
 author:
@@ -78,7 +78,7 @@ The adaptationist programme in evolutionary biology explains traits by identifyi
 
 If consciousness is not reducible to physical structure, then its origin cannot be explained purely by natural selection acting on physical variation. Selection can explain the *neural architecture* that correlates with consciousness—increasingly complex brains, richer sensory processing, more flexible behaviour. But the emergence of subjective experience itself sits outside the reach of selectionist explanation. This is not a gap in current knowledge; it is a principled limit. Selection explains why certain physical structures persist, not why those structures give rise to inner experience.
 
-This parallels broader debates in philosophy of biology about the limits of adaptationism. Gould and Lewontin's "spandrels" argument (1979) showed that not every trait is an adaptation—some are by-products of architectural constraints. On a purely epiphenomenalist view, consciousness would be the most profound spandrel of all: not itself selected for, yet arising as an accompaniment to neural complexity that *was* selected for. But the Map rejects [[the-epiphenomenalist-threat|epiphenomenalism]]. If consciousness is causally efficacious—biasing quantum outcomes through [[downward-causation|downward causation]]—then it is genuinely adaptive, contributing to fitness through a channel that standard adaptationist frameworks cannot trace because the causal contribution runs through [[selection-laws|non-physical selection]] rather than classical mechanism.
+This parallels broader debates in philosophy of biology about the limits of adaptationism. Gould and Lewontin's "spandrels" argument (1979) showed that not every trait is an adaptation—some are by-products of architectural constraints. On a purely epiphenomenalist view, consciousness would be the most profound spandrel of all: not itself selected for, yet arising as an accompaniment to neural complexity that *was* selected for. But the Map rejects [[the-epiphenomenalist-threat|epiphenomenalism]]. If consciousness is causally efficacious—biasing quantum outcomes through [[downward-causation|downward causation]]—then it is genuinely adaptive, contributing to fitness through a channel that standard adaptationist frameworks cannot trace because the causal contribution runs through [[psychophysical-laws|non-physical selection]] rather than classical mechanism.
 
 ## Natural Kinds and Consciousness
 

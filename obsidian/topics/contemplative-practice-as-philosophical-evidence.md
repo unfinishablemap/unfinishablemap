@@ -4,7 +4,7 @@ description: "Cross-traditional contemplative practice functions as philosophica
 created: 2026-01-27
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-19T04:31:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,13 +39,13 @@ related_articles:
   - "[[introspection-rehabilitation]]"
   - "[[epistemology-of-introspection]]"
   - "[[phenomenology-of-returning-attention]]"
-  - "[[paradox-of-effortless-mastery]]"
+  - "[[consciousness-and-skilled-performance]]"
   - "[[contemplative-pathology-and-interface-malfunction]]"
   - "[[topics/free-will]]"
   - "[[testing-the-map-from-inside]]"
-  - "[[contemplative-training-and-phenomenal-access]]"
+  - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[contemplative-verification-of-consciousness-theories]]"
-  - "[[aesthetic-irreducibility-arguments]]"
+  - "[[aesthetics-and-consciousness]]"
   - "[[phenomenological-method-and-evidence-standards]]"
 ai_contribution: 100
 author:
@@ -74,7 +74,7 @@ A practice counts as philosophical methodology when it satisfies three condition
 
 **Directed at philosophical questions.** The philosophical use of meditation is distinct from its therapeutic applications: investigating the structure of consciousness itself. What is the temporal grain of experience? Is the self constructed or discovered? Can awareness exist independently of objects? Contemplative practice generates first-person data bearing on these questions directly.
 
-**Constraint on theory.** Contemplative findings eliminate theoretical options. The cross-traditional discovery that the narrative self can be experientially deconstructed constrains theories of personal identity. The [[contemplative-training-and-phenomenal-access|progressive disclosure]] of temporal microstructure constrains theories of [[temporal-consciousness]].
+**Constraint on theory.** Contemplative findings eliminate theoretical options. The cross-traditional discovery that the narrative self can be experientially deconstructed constrains theories of personal identity. The [[contemplative-practice-as-philosophical-evidence|progressive disclosure]] of temporal microstructure constrains theories of [[temporal-consciousness]].
 
 ### Comparison with Standard Methods
 
@@ -142,7 +142,7 @@ The convergent findings, combined with neuroplasticity data, create empirical te
 
 ### Evidence Against Epiphenomenalism
 
-[[concepts/epiphenomenalism|Epiphenomenalism]] predicts that conscious states are causally inert. [[Contemplative-neuroscience]] demonstrates otherwise: meditation training produces measurable neural changes — cortical thickening, altered network connectivity, modulated default mode activity — that correlate specifically with *phenomenologically engaged* practice. Studies distinguish willed attention (self-directed focus with distinct frontal theta signatures) from exogenous attention (automatic capture). The neuroplastic outcomes differ systematically. If consciousness were epiphenomenal, this distinction should not exist.
+[[concepts/epiphenomenalism|Epiphenomenalism]] predicts that conscious states are causally inert. [[contemplative-neuroscience]] demonstrates otherwise: meditation training produces measurable neural changes — cortical thickening, altered network connectivity, modulated default mode activity — that correlate specifically with *phenomenologically engaged* practice. Studies distinguish willed attention (self-directed focus with distinct frontal theta signatures) from exogenous attention (automatic capture). The neuroplastic outcomes differ systematically. If consciousness were epiphenomenal, this distinction should not exist.
 
 The *content* of conscious intention also tracks neural outcomes. Weng et al. (2013) found that seven hours of cultivating felt compassion altered inferior parietal and dorsolateral prefrontal cortex activity differently from breath attention meditation. Phenomenological qualities predict outcomes in ways the epiphenomenalist cannot explain without multiplying brute correlations.
 
@@ -150,7 +150,7 @@ This evidence eliminates epiphenomenalism specifically — the view that conscio
 
 ### Evidence Against Reductive Materialism
 
-[[Neurophenomenology]] shows that first-person phenomenological training improves correlation with third-person neural data. Trained meditators generate phenomenological reports that predict neural signatures invisible to untrained observation. If phenomenal properties were identical to neural properties, purely neural analysis should capture everything the first-person perspective reveals — yet trained contemplatives consistently uncover phenomenal structure that third-person methods miss. The persistent pattern across multiple traditions and research paradigms suggests the non-redundancy reflects a genuine explanatory gap rather than a practical limitation of current neuroscience.
+[[neurophenomenology]] shows that first-person phenomenological training improves correlation with third-person neural data. Trained meditators generate phenomenological reports that predict neural signatures invisible to untrained observation. If phenomenal properties were identical to neural properties, purely neural analysis should capture everything the first-person perspective reveals — yet trained contemplatives consistently uncover phenomenal structure that third-person methods miss. The persistent pattern across multiple traditions and research paradigms suggests the non-redundancy reflects a genuine explanatory gap rather than a practical limitation of current neuroscience.
 
 The jhāna states offer a sharp test case for the persistent [[explanatory-gap]]. Neuroscience can identify which brain connectivity patterns correspond to jhāna practice but cannot explain why a particular reorganisation of functional gradients produces the phenomenal quality of infinite space rather than equanimity. Better data on both sides produce more precise *correlations* without producing *explanations* of why particular neural patterns feel a particular way. The [[galilean-exclusion]] provides a structural diagnosis: science was founded by excluding subjective quality from its domain, so improved measurement refines correlations without bridging the gap between physical description and felt experience.
 
@@ -235,14 +235,14 @@ The distinction between willed and exogenous attention in [[contemplative-neuros
 - [[galilean-exclusion]] — The methodological exclusion that made the explanatory gap structurally inevitable
 - [[contemplative-pathology-and-interface-malfunction]] — When contemplative practice destabilises the interface
 - [[phenomenology-of-returning-attention]] — The micro-phenomenology of attentional recovery during practice
-- [[paradox-of-effortless-mastery]] — The developmental arc from effortful practice to effortless mastery
+- [[consciousness-and-skilled-performance]] — The developmental arc from effortful practice to effortless mastery
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Meditation as voluntary interface modulation within a systematic comparison of five altered states
-- [[contemplative-training-and-phenomenal-access]] — How practice progressively expands access to phenomenal structure
+- [[contemplative-practice-as-philosophical-evidence]] — How practice progressively expands access to phenomenal structure
 - [[contemplative-verification-of-consciousness-theories]] — Can meditation verify philosophical claims?
 - [[consciousness-and-scientific-methodology]] — How consciousness challenges the scientific method itself
 - [[phenomenological-method-and-evidence-standards]] — Husserl's evidence taxonomy and how it calibrates the epistemic weight of first-person data
 - [[phenomenology]] — Husserl's phenomenological method and its relation to contemplative practice
-- [[aesthetic-irreducibility-arguments]] — Aesthetic sensitivity deepening with training as evidence for irreducibility
+- [[aesthetics-and-consciousness]] — Aesthetic sensitivity deepening with training as evidence for irreducibility
 
 ## References
 

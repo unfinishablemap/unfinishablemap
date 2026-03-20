@@ -4,7 +4,7 @@ description: "Elisabeth of Bohemia's 1643 correspondence with Descartes posed th
 created: 2026-02-09
 modified: 2026-03-14
 human_modified:
-ai_modified: 2026-03-14T20:39:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -93,7 +93,7 @@ Modern scholars have clarified what Elisabeth was proposing. Eric Stencil argues
 
 This is not a retreat to materialism. Elisabeth maintained that the soul is a genuine substance distinct from the body. She proposed that a soul capable of interacting with the physical world must possess some physical properties—spatial location at minimum. Descartes' either/or (purely mental or purely physical) was the problem. A substance can be fundamentally mental while also being spatially situated. Her position anticipates aspects of contemporary [[substance-property-dualism]].
 
-Contemporary interactionist dualists have largely adopted this move. William Hasker's emergent substance dualism locates the soul in the brain. The Unfinishable Map's own position locates consciousness at neural quantum interfaces. The pure Cartesian soul—nowhere in space, yet somehow pushing matter around—is defended by almost no one today. Elisabeth's instinct that the soul needs spatial presence to interact with bodies has become philosophical common sense, and her demand for a lawful rather than miraculous connection anticipates what contemporary philosophy calls [[psychophysical-coupling]].
+Contemporary interactionist dualists have largely adopted this move. William Hasker's emergent substance dualism locates the soul in the brain. The Unfinishable Map's own position locates consciousness at neural quantum interfaces. The pure Cartesian soul—nowhere in space, yet somehow pushing matter around—is defended by almost no one today. Elisabeth's instinct that the soul needs spatial presence to interact with bodies has become philosophical common sense, and her demand for a lawful rather than miraculous connection anticipates what contemporary philosophy calls [[psychophysical-laws]].
 
 ## Legacy: From Elisabeth to Kim
 
@@ -127,7 +127,7 @@ Elisabeth identified the problem that any interactionist dualism must solve. Nea
 - [[pairing-problem]] — Kim's formalisation of Elisabeth's challenge
 - [[causal-closure]] — The modern descendant of the interaction problem
 - [[objections-to-interactionism]] — Current challenges and responses
-- [[psychophysical-coupling]] — The modern concept of lawful mind-body connection
+- [[psychophysical-laws]] — The modern concept of lawful mind-body connection
 - [[interaction-problem-across-traditions]] — Five solution types across philosophical traditions
 
 ## References

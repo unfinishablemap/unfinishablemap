@@ -4,7 +4,7 @@ description: "Why normative claims grip us: the shared phenomenal architecture o
 created: 2026-02-13
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-03-18T15:28:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[phenomenology-of-moral-experience]]"
@@ -31,12 +31,12 @@ related_articles:
   - "[[normative-void]]"
   - "[[phenomenal-depth]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
-  - "[[aesthetic-dimension-of-consciousness]]"
+  - "[[aesthetics-and-consciousness]]"
   - "[[phenomenology-of-deliberation-under-uncertainty]]"
   - "[[authentic-vs-inauthentic-choice]]"
   - "[[explanatory-gap]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
-  - "[[consciousness-and-the-authority-of-logic]]"
+  - "[[consciousness-and-the-authority-of-formal-systems]]"
   - "[[consciousness-and-moral-agency-under-duress]]"
   - "[[phenomenal-normativity-environmental-ethics]]"
 ai_contribution: 100
@@ -92,7 +92,7 @@ Epistemic demands have their own phenomenal character. Encountering a valid argu
 
 ### Aesthetic Normativity
 
-The [[aesthetic-dimension-of-consciousness|aesthetic dimension]] carries normative force through invitation rather than compulsion. Beauty draws attention; ugliness repels. These are not moral demands — nothing obligates you to find a sunset beautiful — but they present their objects as meriting certain responses. Aesthetic experience displays what Kant called disinterestedness: appreciation detached from practical desire.
+The [[aesthetics-and-consciousness|aesthetic dimension]] carries normative force through invitation rather than compulsion. Beauty draws attention; ugliness repels. These are not moral demands — nothing obligates you to find a sunset beautiful — but they present their objects as meriting certain responses. Aesthetic experience displays what Kant called disinterestedness: appreciation detached from practical desire.
 
 ### Prudential Normativity
 
@@ -162,7 +162,7 @@ The consciousness-based account would face pressure if:
 - [[topics/phenomenal-value-realism]] — Value as constituted by conscious experience
 - [[phenomenology-of-moral-experience]] — What moral perception feels like from the inside
 - [[cognitive-phenomenology]] — The felt character of thinking and reasoning
-- [[aesthetic-dimension-of-consciousness]] — Beauty and ugliness as irreducible phenomenal features
+- [[aesthetics-and-consciousness]] — Beauty and ugliness as irreducible phenomenal features
 - [[normative-void]] — Where normative perception reaches its limits
 - [[consciousness-value-connection]] — Why consciousness is necessary for value
 - [[contemplative-practice-as-philosophical-evidence]] — Contemplative deepening of normative perception
@@ -174,7 +174,7 @@ The consciousness-based account would face pressure if:
 - [[agent-causation]] — Conscious origination of action
 - [[normative-phenomenology]] — The phenomenology of normative experience
 - [[hard-problem-of-consciousness]] — Why consciousness resists reductive explanation
-- [[consciousness-and-the-authority-of-logic]] — How consciousness grounds logic's binding force
+- [[consciousness-and-the-authority-of-formal-systems]] — How consciousness grounds logic's binding force
 - [[consciousness-and-moral-agency-under-duress]] — Moral agency when normative demands are extreme
 - [[phenomenal-normativity-environmental-ethics]] — Extending phenomenal normativity to environmental obligations
 - [[phenomenal-depth]] — Layers of phenomenal experience accessible through attention

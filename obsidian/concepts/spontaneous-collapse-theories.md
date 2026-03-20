@@ -4,7 +4,7 @@ description: "GRW, CSL, and Penrose OR: physical collapse mechanisms that solve 
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-03-18T23:52:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 last_deep_review: 2026-03-15T01:27:00+00:00
 topics: []
@@ -24,7 +24,7 @@ concepts:
   - "[[bi-aspectual-ontology]]"
 related_articles:
   - "[[quantum-consciousness]]"
-  - "[[psychophysical-coupling]]"
+  - "[[psychophysical-laws]]"
   - "[[stapp-quantum-mind]]"
   - "[[causal-closure]]"
   - "[[argument-from-reason]]"
@@ -179,7 +179,7 @@ The **consciousness-modulated CSL** model (Chalmers and McQueen's CSL-IIT or sim
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: This tenet *requires* spontaneous collapse theories. Without baseline physical collapse, consciousness would need to collapse every quantum event in the universe (panpsychism) or solve the prebiotic collapse problem. GRW/CSL provide the minimal design: consciousness modulates existing stochastic processes.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Modulating collapse rate, location, or outcome provides concrete mechanism for consciousness causally influencing the physical world. See [[psychophysical-coupling]] for specification of coupling laws.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Modulating collapse rate, location, or outcome provides concrete mechanism for consciousness causally influencing the physical world. See [[psychophysical-laws]] for specification of coupling laws.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Objective collapse theories explicitly reject branching. Wave function collapse is real, non-reversible, and creates definite outcomes—introducing [[collapse-and-time|temporal asymmetry]] that may constitute an independent arrow of time. Indexical identity matters.
 
@@ -194,9 +194,9 @@ The **consciousness-modulated CSL** model (Chalmers and McQueen's CSL-IIT or sim
 - [[quantum-measurement-and-consciousness]] — the philosophical dimensions of measurement: why the problem resists physical solution
 - [[prebiotic-collapse]] - dedicated treatment of what collapsed before consciousness
 - [[quantum-consciousness]] - how consciousness modulates baseline collapse
-- [[quantum-neural-mechanisms]] - neural loci for quantum effects (radical pairs, microtubules, ion tunneling)
+- [[quantum-neural-mechanisms-and-coherence]] - neural loci for quantum effects (radical pairs, microtubules, ion tunneling)
 - [[stapp-quantum-mind]] - alternative consciousness-collapse model (observer-selection)
-- [[psychophysical-coupling]] - how phenomenal properties map to physical parameters
+- [[psychophysical-laws]] - how phenomenal properties map to physical parameters
 - [[decoherence]] - relationship between environmental decoherence and objective collapse, including basis selection vs. outcome selection
 - [[concepts/many-worlds]] - the Map's rejection of branching interpretations
 - [[qm-interpretations-beyond-many-worlds]] — comparative survey of interpretations and their consciousness implications

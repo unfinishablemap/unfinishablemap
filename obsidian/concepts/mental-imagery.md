@@ -4,7 +4,7 @@ description: "Voluntary mental imagery is consistent with consciousness's causal
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-03-19T10:05:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -111,7 +111,7 @@ Mental imagery supports [[bidirectional-interaction]] through multiple channels:
 
 **The explanatory gap manifests in imagery variation.** Hyperphantasics and aphantasics show overlapping visual cortex activation during imagery tasks, yet one group experiences vivid images while the other reports nothing. Research has identified differences in frontoparietal-visual connectivity between groups,[^zeman] but even where activation patterns overlap, phenomenal experience diverges. This phenomenal difference beyond what functional differences predict supports the [[tenets#^dualism|Dualism]] tenet's claim that consciousness is irreducible.
 
-The attention-imagery interface connects to the Map's broader framework. [[Attention-as-interface|Attention]] may determine which imagery becomes conscious; consciousness then manipulates it; the manipulated imagery guides subsequent action. This chain—attention → conscious imagery → action—instantiates the bidirectional flow the Map posits.
+The attention-imagery interface connects to the Map's broader framework. [[attention-as-interface|Attention]] may determine which imagery becomes conscious; consciousness then manipulates it; the manipulated imagery guides subsequent action. This chain—attention → conscious imagery → action—instantiates the bidirectional flow the Map posits.
 
 ## Further Reading
 

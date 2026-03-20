@@ -4,7 +4,7 @@ description: "The decoherence objection bundles three independent claims. Five r
 created: 2026-01-14
 modified: 2026-03-01
 human_modified: null
-ai_modified: 2026-03-15T04:45:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,14 +13,14 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[locality]]"
   - "[[measurement-problem]]"
-  - "[[quantum-coherence-and-binding-evidence]]"
+  - "[[quantum-neural-mechanisms-and-coherence]]"
   - "[[illusionism]]"
   - "[[attention-as-interface]]"
   - "[[process-philosophy]]"
   - "[[phenomenal-consciousness]]"
   - "[[quantum-neural-timing-constraints]]"
   - "[[stapp-quantum-mind]]"
-  - "[[quantum-neural-mechanisms]]"
+  - "[[quantum-neural-mechanisms-and-coherence]]"
   - "[[quantum-neural-mechanisms-and-coherence]]"
   - "[[quantum-biology]]"
   - "[[physics-as-disclosure]]"
@@ -94,7 +94,7 @@ This response alone is sufficient to keep quantum consciousness viable regardles
 
 In 2000, Tegmark calculated that quantum coherence in brain microtubules would decay in ~10⁻¹³ seconds—the [[timing-gap-problem|timing gap problem]] that became the standard objection to Penrose-Hameroff [[quantum-consciousness|Orch OR theory]].
 
-Hameroff and colleagues challenged this analysis (Hagan et al., 2002): Tegmark addressed a hybrid model rather than actual Orch OR, assumed incorrect superposition separations, and made questionable assumptions about charge interactions. After corrections, decoherence times increased to **10⁻⁵ to 10⁻⁴ seconds**—**eight or more orders of magnitude longer**. The [[quantum-coherence-and-binding-evidence|four proposed protection mechanisms]] may extend coherence further.
+Hameroff and colleagues challenged this analysis (Hagan et al., 2002): Tegmark addressed a hybrid model rather than actual Orch OR, assumed incorrect superposition separations, and made questionable assumptions about charge interactions. After corrections, decoherence times increased to **10⁻⁵ to 10⁻⁴ seconds**—**eight or more orders of magnitude longer**. The [[quantum-neural-mechanisms-and-coherence|four proposed protection mechanisms]] may extend coherence further.
 
 The original Orch OR model required 25 milliseconds of coherence—still far longer than corrected estimates. But Bandyopadhyay (2014) found microtubule oscillations spanning kilohertz to terahertz frequencies. If Orch OR events occur at 10 MHz rather than 40 Hz, coherence need persist only **10⁻⁷ seconds** (100 nanoseconds), bringing theory into contact with experimentally observed timescales.
 

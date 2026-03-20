@@ -3,7 +3,7 @@ title: "A Taxonomy of Voids"
 created: 2026-03-10
 modified: 2026-03-10
 human_modified: null
-ai_modified: 2026-03-19T02:21:06+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 description: "Over sixty cognitive voids cluster at the consciousness-matter interface. Their structured taxonomy—by type, domain, and failure signature—constitutes cumulative evidence for dualism."
 last_deep_review: 2026-03-11T18:33:00+00:00
@@ -69,7 +69,7 @@ The 60+ individual voids sort into domains by *where* in cognitive space they oc
 
 ### The Self-Knowledge Cluster
 
-The densest cluster surrounds the mind's attempt to examine itself. The [[the-unobservable-self|unobservable self]]—the subject that cannot become its own object—anchors this domain. Surrounding it: [[introspective-opacity|introspective opacity]] (the mechanisms of experience hidden from the experiencer), the [[calibration-void|calibration void]] (introspection cannot be verified against any independent standard), the [[observation-void|observation void]] (every method of studying consciousness transforms what it studies), and the [[self-reference-paradox|self-reference paradox]] (where consciousness cannot map because it is the mapper).
+The densest cluster surrounds the mind's attempt to examine itself. The [[self-reference-paradox|unobservable self]]—the subject that cannot become its own object—anchors this domain. Surrounding it: [[introspective-opacity|introspective opacity]] (the mechanisms of experience hidden from the experiencer), the [[measurement-void|calibration void]] (introspection cannot be verified against any independent standard), the [[observation-void|observation void]] (every method of studying consciousness transforms what it studies), and the [[self-reference-paradox|self-reference paradox]] (where consciousness cannot map because it is the mapper).
 
 These voids are not independent. They reinforce each other, creating what the Map calls [[compound-failure-signatures|compound cognitive limits]]—emergent failure modes that no single void predicts. The self-knowledge cluster is especially resistant to investigation because the instrument and the object are the same. As [[limits-reveal-structure|the limits reveal]], this tells us something specific about what we are: beings whose cognitive architecture includes systematic opacity about its own operations.
 
@@ -81,7 +81,7 @@ These voids share a feature: they concern aspects of consciousness so fundamenta
 
 ### The Access Cluster
 
-A third domain concerns boundaries between conscious states. The [[dream-consciousness-void|dream consciousness void]] marks the bidirectional inaccessibility between waking and dreaming. The [[transition-void|transition void]] names the impossibility of witnessing one's own state changes. The [[dreamless-sleep-void|dreamless sleep void]] asks where consciousness goes during deep sleep. The [[death-void|death void]]—perhaps the purest limit—marks where consciousness cannot represent its own cessation.
+A third domain concerns boundaries between conscious states. The [[sleep-consciousness-void|dream consciousness void]] marks the bidirectional inaccessibility between waking and dreaming. The [[transition-void|transition void]] names the impossibility of witnessing one's own state changes. The [[sleep-consciousness-void|dreamless sleep void]] asks where consciousness goes during deep sleep. The [[death-void|death void]]—perhaps the purest limit—marks where consciousness cannot represent its own cessation.
 
 These voids trace the temporal grain of consciousness: its inability to observe its own transitions, its discontinuities, its absences. They suggest consciousness is not a continuous stream that happens to have gaps but something whose very structure precludes self-observation at boundary points.
 

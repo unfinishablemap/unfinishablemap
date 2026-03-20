@@ -4,7 +4,7 @@ description: "Human creativity differs in kind from animal innovation and AI gen
 created: 2026-02-01
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-03-04T22:18:50+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 last_deep_review: 2026-02-25T06:57:00+00:00
 topics:
@@ -33,9 +33,9 @@ related_articles:
   - "[[consciousness-creativity-novelty-generation-2026-01-19]]"
   - "[[surprise-prediction-error-and-consciousness]]"
   - "[[creativity-void]]"
-  - "[[aesthetic-dimension-of-consciousness]]"
-  - "[[consciousness-and-aesthetic-creation]]"
-  - "[[consciousness-and-mathematical-creativity]]"
+  - "[[aesthetics-and-consciousness]]"
+  - "[[aesthetics-and-consciousness]]"
+  - "[[consciousness-and-mathematical-cognition]]"
   - "[[consciousness-and-skilled-performance]]"
   - "[[incubation-effect-and-unconscious-processing]]"
   - "[[phenomenology-of-imagination]]"
@@ -71,7 +71,7 @@ Research on [[conscious-vs-unconscious-processing|conscious versus unconscious p
 
 **Durable information maintenance.** Novel combination requires holding multiple elements in mind simultaneously. Subliminal information decays within 500ms; consciously accessed information persists for seconds to minutes. Human [[working-memory]] maintains 3–4 items in focused attention (Cowan, 2010)—enough to represent a goal alongside alternative approaches. You cannot combine elements that fade before combination completes.
 
-**Novel combinations of operations.** [[Global-workspace-theory|Global workspace]] research shows consciousness enables flexibly chaining learned procedures in new sequences. Unconscious processing follows fixed stimulus-response mappings. Great apes' restriction to the zone reflects this: information remains local to individual modules, unavailable for broadcast and recombination.
+**Novel combinations of operations.** [[global-workspace-theory|Global workspace]] research shows consciousness enables flexibly chaining learned procedures in new sequences. Unconscious processing follows fixed stimulus-response mappings. Great apes' restriction to the zone reflects this: information remains local to individual modules, unavailable for broadcast and recombination.
 
 **Spontaneous intentional action.** Creative generation requires initiating action from internal states alone—imagining goals not triggered by current circumstances. Blindsight patients cannot spontaneously use blind-field information; great apes show analogous limitations in self-initiated goal pursuit.
 
@@ -81,7 +81,7 @@ Beyond these functional requirements, several features of human creativity depen
 
 **Temporal stakes.** Human creativity occurs within [[temporal-consciousness|durée]]—Bergson's lived time, where each moment integrates the entire past and faces an open future. The artist working on what they suspect will be their final painting creates under existential pressure that shapes what they attempt and what standards they hold themselves to. AI systems face no temporal horizon.
 
-**Aesthetic experience as guide.** The [[aesthetic-dimension-of-consciousness|aesthetic dimension]] of consciousness operates as an evaluative mechanism during creation. Mathematicians report that correct proofs *feel* elegant before verification. Composers hear when a passage works. This aesthetic guidance requires there to be something it is like to encounter the work-in-progress—it responds to meaning, context, and the creator's own experiential history.
+**Aesthetic experience as guide.** The [[aesthetics-and-consciousness|aesthetic dimension]] of consciousness operates as an evaluative mechanism during creation. Mathematicians report that correct proofs *feel* elegant before verification. Composers hear when a passage works. This aesthetic guidance requires there to be something it is like to encounter the work-in-progress—it responds to meaning, context, and the creator's own experiential history.
 
 ## The Creative Mechanism
 
@@ -158,9 +158,9 @@ Current evidence does not support any of these conditions.
 - [[temporal-consciousness]] — Bergson's lived time as creative becoming
 - [[agent-causation]] — Philosophical framework for mental causation including creative generation
 - [[creativity-void]] — Why the creative source remains phenomenologically hidden
-- [[aesthetic-dimension-of-consciousness]] — Beauty as irreducible phenomenal property
+- [[aesthetics-and-consciousness]] — Beauty as irreducible phenomenal property
 - [[phenomenology-of-understanding-and-meaning]] — Five modes of phenomenal meaning underlying creative selection
-- [[consciousness-and-aesthetic-creation]] — Making art as evidence for bidirectional interaction
+- [[aesthetics-and-consciousness]] — Making art as evidence for bidirectional interaction
 - [[phenomenology-of-imagination]] — Phenomenal imagination and creative exploration
 - [[incubation-effect-and-unconscious-processing]] — The role of unconscious incubation in creativity
 

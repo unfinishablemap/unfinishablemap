@@ -4,7 +4,7 @@ description: "Two forms of dualism: separate mental substances versus irreducibl
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-03-09T12:16:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -113,7 +113,7 @@ Substance dualists respond in three ways: (1) accepting that minds are spatially
 
 ## The Illusionist Challenge
 
-[[Illusionism]]—the view that phenomenal consciousness is an illusion created by the brain's self-model—challenges both forms of dualism. If qualia are not what they seem, then the intuitions driving the substance/property distinction may be systematically misleading.
+[[illusionism]]—the view that phenomenal consciousness is an illusion created by the brain's self-model—challenges both forms of dualism. If qualia are not what they seem, then the intuitions driving the substance/property distinction may be systematically misleading.
 
 ### The Challenge Stated
 
@@ -127,7 +127,7 @@ If this is correct, the entire dualism debate rests on a mistake. Both substance
 
 **Introspection survives debunking:** Even granting that introspection is imperfect—subject to biases, constructed rather than transparent—this doesn't establish that its referent is illusory. Visual perception is constructed and fallible, yet we don't conclude that external objects are illusions. The question is whether phenomenal states exist, not whether our access to them is infallible.
 
-**The contemplative challenge:** [[Witness-consciousness]]—pure awareness stripped of intentional content—presents a problem for illusionism. In advanced meditative states, practitioners report consciousness persisting even as representational content falls away. If consciousness were *identical* with representation (as illusionism implies), eliminating representation should eliminate consciousness. That it doesn't suggests consciousness is something over and above its contents.
+**The contemplative challenge:** [[witness-consciousness]]—pure awareness stripped of intentional content—presents a problem for illusionism. In advanced meditative states, practitioners report consciousness persisting even as representational content falls away. If consciousness were *identical* with representation (as illusionism implies), eliminating representation should eliminate consciousness. That it doesn't suggests consciousness is something over and above its contents.
 
 ### Implications for the Distinction
 

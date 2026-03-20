@@ -4,7 +4,7 @@ description: "McGinn's cognitive closure thesis: human minds may be constitution
 created: 2026-01-15
 modified: 2026-02-18
 human_modified: null
-ai_modified: 2026-03-18T23:59:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,7 +18,7 @@ concepts:
   - "[[combination-problem]]"
   - "[[introspection]]"
   - "[[decoherence]]"
-  - "[[consciousness-and-mathematical-understanding]]"
+  - "[[consciousness-and-mathematical-cognition]]"
   - "[[architecture-of-cognitive-closure]]"
   - "[[computational-cognitive-limits]]"
   - "[[evolved-cognitive-limits]]"
@@ -113,7 +113,7 @@ Property P may be the intrinsic categorical nature of matter—whatever underlie
 
 ## Mathematical Understanding and Cognitive Closure
 
-[[consciousness-and-mathematical-understanding|Mathematical understanding]] provides evidence for cognitive limits. Roger Penrose argued that mathematicians recognise truths that no formal system can prove—we can see that the Gödel sentence G is true, even though the system containing G cannot derive it.
+[[consciousness-and-mathematical-cognition|Mathematical understanding]] provides evidence for cognitive limits. Roger Penrose argued that mathematicians recognise truths that no formal system can prove—we can see that the Gödel sentence G is true, even though the system containing G cannot derive it.
 
 Two distinct types of limits converge here. [[computational-cognitive-limits|Computational limits]]—Gödel's incompleteness, the halting problem, Chaitin's constant—are *mathematically proven* and constrain any algorithmic process. McGinn's cognitive closure is a *hypothesis* about human biology: evolution shaped minds for survival, not for solving every problem. If human cognition is computational, both limits apply; if consciousness transcends computation (as Penrose suggests), we might escape formal limits while remaining subject to biological ones—or vice versa. Both point toward the same conclusion: not all truths are accessible to all minds.
 
@@ -224,7 +224,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [[collective-cognitive-limits]] — How cognitive closure extends to groups through paradigm blindness
 - [[computational-cognitive-limits]] — Proven mathematical limits on what any algorithmic mind can know
 - [[architecture-of-cognitive-closure]] — Fodor's nativist argument and how maturation creates new closures
-- [[consciousness-and-mathematical-understanding]] — Mathematical insight as evidence for cognitive limits
+- [[consciousness-and-mathematical-cognition]] — Mathematical insight as evidence for cognitive limits
 - [[minimal-consciousness]] — Complete neural mapping yet unknowable experience
 - [[phenomenology-of-the-edge]] — What cognitive closure feels like from the inside
 - [[altered-states-as-void-probes]] — Whether altered states can transcend cognitive closure or merely map its edges

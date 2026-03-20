@@ -4,7 +4,7 @@ description: "Consciousness selects which quantum possibilities become actual ne
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-03-18T19:05:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,7 +16,7 @@ concepts:
   - "[[mental-causation]]"
   - "[[causal-closure]]"
   - "[[measurement-problem]]"
-  - "[[psychophysical-coupling]]"
+  - "[[psychophysical-laws]]"
   - "[[spontaneous-collapse-theories]]"
   - "[[retrocausality]]"
   - "[[collapse-and-time]]"
@@ -150,7 +150,7 @@ Selection is indeterminate from physics' perspective but determinate from the su
 
 ## Candidate Constraint Families
 
-What exactly can consciousness select? Four candidate coupling laws—attention-bounded, policy-level, basis-choice, and indexical selection—are developed in detail in [[psychophysical-coupling]], where they are evaluated against the ~10 bits/second bandwidth constraint. The key distinction: selection ranges from choosing which observable to measure (Stapp's minimal Process 1) to selecting which outcome is experienced as "this one" (connecting to the Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet).
+What exactly can consciousness select? Four candidate coupling laws—attention-bounded, policy-level, basis-choice, and indexical selection—are developed in detail in [[psychophysical-laws]], where they are evaluated against the ~10 bits/second bandwidth constraint. The key distinction: selection ranges from choosing which observable to measure (Stapp's minimal Process 1) to selecting which outcome is experienced as "this one" (connecting to the Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet).
 
 ## Relation to Site Perspective
 
@@ -204,7 +204,7 @@ The framework would face serious difficulty if:
 
 - [[consciousness-and-creativity]] — How selection integrates with imagination's generative role
 - [[attention-and-the-consciousness-interface]] — ADHD, OCD, and meditation deficits reveal selection interface dysfunction
-- [[psychophysical-coupling]] — Candidate coupling laws and bandwidth constraints
+- [[psychophysical-laws]] — Candidate coupling laws and bandwidth constraints
 - [[mental-effort]] — The phenomenology of effort and Stapp's mechanism
 - [[attention-as-interface|voluntary attention]] — The willed/instructed distinction
 - [[witness-consciousness]] — Contemplative evidence for awareness selecting content

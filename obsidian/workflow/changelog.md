@@ -5,6 +5,16 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 04:33 UTC - refine-draft (bulk wikilink repair)
+- **Status**: Success
+- **Files**: 235 content files across topics/, concepts/, voids/, apex/
+- **Changes**:
+  - Fixed 4 key archived article references: aesthetic-dimension-of-consciousness (10 files, 28 replacements), aesthetic-irreducibility-arguments (6 files, 12 replacements), predictive-processing-and-the-maps-framework (1 file)
+  - Fixed 30+ additional archived article reference types across ~235 files (the-unobservable-self→self-reference-paradox, psychophysical-coupling→psychophysical-laws, selection-laws→psychophysical-laws, consciousness-independent-baseline-cognition→baseline-cognition, past-self-void→inaccessible-past, dream-consciousness-void→sleep-consciousness-void, dreamless-sleep-void→sleep-consciousness-void, and 23 more mappings)
+  - Fixed ~196 case-mismatch wikilinks (e.g., Illusionism→illusionism, Blindsight→blindsight, Witness-consciousness→witness-consciousness)
+  - Followed replacement chains where superseded_by targets were themselves archived
+- **Published**: yes
+
 ## 2026-03-20 04:14 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/indian-philosophy-of-mind]]

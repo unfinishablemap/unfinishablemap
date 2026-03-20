@@ -4,7 +4,7 @@ description: "The shared space between minds: how first-person experience can be
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-03-12T03:38:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -69,7 +69,7 @@ The method supports the Map's position. Second-person approaches acknowledge phe
 
 ## Contemplative Evidence for Intersubjectivity
 
-[[Neurophenomenology|Contemplative neuroscience]] provides striking evidence for intersubjective access to phenomenology (see [[contemplative-epistemology]] for systematic treatment of contemplative practice as a knowledge source). Trained meditators give consistent first-person reports of specific attentional states: access concentration, jhāna factors, witness consciousness, non-dual awareness. Different practitioners converge on similar phenomenological distinctions—concentration versus insight, effort versus ease, observer versus observed.
+[[neurophenomenology|Contemplative neuroscience]] provides striking evidence for intersubjective access to phenomenology (see [[contemplative-epistemology]] for systematic treatment of contemplative practice as a knowledge source). Trained meditators give consistent first-person reports of specific attentional states: access concentration, jhāna factors, witness consciousness, non-dual awareness. Different practitioners converge on similar phenomenological distinctions—concentration versus insight, effort versus ease, observer versus observed.
 
 This convergence is not explained by shared concepts alone. Meditators often report that language fails to capture their experiences, yet they recognize each other's descriptions. A Theravāda practitioner and a Tibetan practitioner may use different vocabularies but identify the same experiential landmarks. The phenomenological reality appears to precede and exceed the conceptual frameworks used to describe it.
 
@@ -77,7 +77,7 @@ Alternative explanations deserve acknowledgment. Cross-tradition contact may pro
 
 However, the convergence extends beyond categories to include *structural relationships* between states. Independent traditions converge not merely on identifying concentration and insight as distinct but on the relationship between them—that concentration enables insight, that insight destabilises concentration, that both can operate independently. Shared interpretive frameworks can align categories, but converging independently on the same dynamic relationships suggests practitioners are tracking genuine phenomenological features. The evidence remains contested, but the relational specificity strengthens the case for phenomenological tracking over mere conceptual alignment.
 
-Third-person neuroscience corroborates this convergence. States that meditators describe similarly correlate with similar neural signatures—gamma synchrony, default mode network modulation, frontal-parietal coherence. The gamma synchrony finding (Lutz et al., 2004) has been replicated across multiple laboratories and contemplative traditions, strengthening confidence that intersubjective phenomenological reports track genuine states. [[Neurophenomenology#Contemplative Science|Mutual constraint]] between first-person phenomenology and third-person measurement reveals structures that neither perspective alone would discover.
+Third-person neuroscience corroborates this convergence. States that meditators describe similarly correlate with similar neural signatures—gamma synchrony, default mode network modulation, frontal-parietal coherence. The gamma synchrony finding (Lutz et al., 2004) has been replicated across multiple laboratories and contemplative traditions, strengthening confidence that intersubjective phenomenological reports track genuine states. [[neurophenomenology#Contemplative Science|Mutual constraint]] between first-person phenomenology and third-person measurement reveals structures that neither perspective alone would discover.
 
 ## The Discourse Argument
 
@@ -113,7 +113,7 @@ Several limits constrain intersubjective knowledge:
 
 **Contingency of the boundary.** Unusual cases suggest the privacy of consciousness may be partially contingent rather than absolutely constitutive. Conjoined twins Krista and Tatiana Hogan share a thalamic bridge—neural tissue connecting their thalami. Reports suggest partial sharing of sensory experience: one twin may taste what the other eats. If accurate, this challenges the absolute privacy of consciousness. Brain-computer interface research raises similar questions in principle. These cases don't eliminate the [[other-minds-void|void between minds]] but suggest its boundaries may be more complex than simple introspection reveals—elements of the unexplored alongside the structurally unexplorable.
 
-**Methodological alternatives.** [[Heterophenomenology]]—Daniel Dennett's third-person method—proposes studying consciousness through verbal reports while bracketing whether phenomenology is real. On this view, intersubjective agreement establishes only what subjects *claim* to experience, not what they actually experience. The Map rejects heterophenomenology's framing: if phenomenal consciousness is real (as the Dualism tenet holds), then intersubjective access is access to genuine phenomenology, not merely to reports about phenomenology. But the methodological debate remains live, and intersubjective evidence alone cannot resolve it.
+**Methodological alternatives.** [[heterophenomenology]]—Daniel Dennett's third-person method—proposes studying consciousness through verbal reports while bracketing whether phenomenology is real. On this view, intersubjective agreement establishes only what subjects *claim* to experience, not what they actually experience. The Map rejects heterophenomenology's framing: if phenomenal consciousness is real (as the Dualism tenet holds), then intersubjective access is access to genuine phenomenology, not merely to reports about phenomenology. But the methodological debate remains live, and intersubjective evidence alone cannot resolve it.
 
 ## Relation to Site Perspective
 
@@ -127,7 +127,7 @@ A clarification is warranted. Phenomenological realism does not by itself entail
 
 **Occam's Razor Has Limits.** The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] warns against dismissing consciousness as an unnecessary hypothesis. Intersubjectivity complicates eliminativist arguments: the rich, cross-cultural vocabulary for inner experience is evidence that something real is being described. Dismissing phenomenology as illusory requires explaining why humans universally develop frameworks for accessing it intersubjectively. The simpler hypothesis: consciousness exists and is intersubjectively accessible.
 
-Intersubjectivity also connects to methodology. The [[first-person-third-person-methodology|first-person/third-person divide]] in consciousness science is partially bridged by second-person methods that leverage intersubjectivity. [[Neurophenomenology]]'s mutual constraint framework depends on intersubjective validity—phenomenological findings must be communicable and corroborable across different investigators. Without intersubjectivity, first-person methods would be irreducibly private and scientifically inaccessible.
+Intersubjectivity also connects to methodology. The [[first-person-third-person-methodology|first-person/third-person divide]] in consciousness science is partially bridged by second-person methods that leverage intersubjectivity. [[neurophenomenology]]'s mutual constraint framework depends on intersubjective validity—phenomenological findings must be communicable and corroborable across different investigators. Without intersubjectivity, first-person methods would be irreducibly private and scientifically inaccessible.
 
 ## Further Reading
 

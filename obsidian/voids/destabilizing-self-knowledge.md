@@ -4,7 +4,7 @@ description: "Could certain truths about consciousness be structurally inaccessi
 created: 2026-01-27
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-03-14T06:21:00+00:00
+ 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-03-14T06:21:00+00:00
 draft: false
 topics:
@@ -19,7 +19,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[self-reference-paradox]]"
-  - "[[the-unobservable-self]]"
+  - "[[self-reference-paradox]]"
   - "[[defended-territory]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[thoughts-that-slip-away]]"
@@ -177,14 +177,14 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 ## Further Reading
 
 - [[voids|Voids in the Map]] — The broader framework for cognitive limits
-- [[the-unobservable-self|The Unobservable Self]] — The observer that cannot observe itself
+- [[self-reference-paradox|The Unobservable Self]] — The observer that cannot observe itself
 - [[self-reference-paradox|The Self-Reference Paradox]] — Formal limits on self-understanding
 - [[defended-territory|Defended Territory]] — Active blocking of cognitive access
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — The phenomenology of slippage
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — Limit-experiences across traditions
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn on structural inaccessibility
 - [[transparency-void|The Transparency Void]] — Consciousness cannot verify its own representations
-- [[calibration-void|The Calibration Void]] — Introspection lacks independent calibration standards
+- [[measurement-void|The Calibration Void]] — Introspection lacks independent calibration standards
 - [[transition-void|The Transition Void]] — Consciousness cannot witness its own state transitions
 
 ## References

@@ -4,7 +4,7 @@ description: "Dolphins and corvids evolved sophisticated cognition independently
 created: 2026-03-13
 modified: 2026-03-13
 human_modified:
-ai_modified: 2026-03-17T19:29:00+00:00
+ 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-03-13T16:19:00+00:00
 draft: false
 topics:
@@ -107,7 +107,7 @@ Whether great apes possess limited cumulative culture remains debated—some res
 
 This gradient matters. If consciousness were binary—present or absent—we'd expect a sharp boundary between species with amplified capacities and those without. Instead, we observe a spectrum consistent with consciousness admitting of degrees, kinds, or varying interface bandwidth. Corvids may possess a form of metarepresentation that enables tool culture without supporting the full recursive mindreading that human consciousness enables. Dolphins may have self-awareness sufficient for mirror recognition without the declarative metacognition that supports cumulative culture.
 
-The [[comparative-consciousness-and-interface-differences|interface differences]] framework proposes that consciousness interacts with different neural architectures through different interface configurations, producing qualitatively different cognitive profiles. [[Interface-heterogeneity|Interface heterogeneity]]—the possibility that different organisms couple with consciousness through fundamentally different mechanisms—would explain why cetaceans and corvids achieve partially overlapping but distinct cognitive outcomes: same amplifying factor, different substrates, different coupling.
+The [[comparative-consciousness-and-interface-differences|interface differences]] framework proposes that consciousness interacts with different neural architectures through different interface configurations, producing qualitatively different cognitive profiles. [[interface-heterogeneity|Interface heterogeneity]]—the possibility that different organisms couple with consciousness through fundamentally different mechanisms—would explain why cetaceans and corvids achieve partially overlapping but distinct cognitive outcomes: same amplifying factor, different substrates, different coupling.
 
 ## The Neural Architecture Challenge
 

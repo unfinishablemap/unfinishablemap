@@ -4,7 +4,7 @@ description: "How we access mathematical truth and what that access feels likeâ€
 created: 2026-02-08
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-19T14:50:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[argument-from-reason]]"
   - "[[epistemic-advantages-of-dualism]]"
   - "[[phenomenology-of-understanding-and-meaning]]"
-  - "[[aesthetic-irreducibility-arguments]]"
+  - "[[aesthetics-and-consciousness]]"
   - "[[phenomenology-of-creative-insight]]"
   - "[[phenomenology-of-intellectual-effort]]"
   - "[[phenomenology-of-epistemic-cognition]]"

@@ -3,7 +3,7 @@ title: "Thoughts That Slip Away"
 created: 2026-01-13
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-16T07:17:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 description: "Why some thoughts vanish as you reach for them—cataloguing slippage mechanisms from tip-of-tongue to double concealment, and asking whether patterns in what slips reveal occluded territory."
 topics: []
@@ -140,8 +140,8 @@ The evidence for content-specific slippage remains suggestive rather than conclu
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What consciousness encounters at its boundaries
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's analysis of structural limits
 - [[illusionism|Illusionism]] — The radical challenge that slippage is misrepresentation
-- [[dream-consciousness-void|The Dream Consciousness Void]] — The bidirectional void between waking and dreaming where slippage is systematic
-- [[memory-void|The Memory Void]] — Whether past experiences are recoverable or lost forever
+- [[sleep-consciousness-void|The Dream Consciousness Void]] — The bidirectional void between waking and dreaming where slippage is systematic
+- [[inaccessible-past|The Memory Void]] — Whether past experiences are recoverable or lost forever
 - [[attention-created-voids|Attention-Created Voids]] — How attending generates unattendable territory
 - [[absorption-void|The Absorption Void]] — Peak experiences that resist introspective access
 

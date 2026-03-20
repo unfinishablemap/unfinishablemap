@@ -4,7 +4,7 @@ description: "Each consciousness is sealed within itself, able to infer but neve
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-03-12T03:53:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 last_deep_review: 2026-03-02T00:52:00+00:00
 topics:
@@ -23,8 +23,8 @@ related_articles:
   - "[[intrinsic-nature-void]]"
   - "[[limits-reveal-structure]]"
   - "[[historical-consciousness-void]]"
-  - "[[past-self-void]]"
-  - "[[calibration-void]]"
+  - "[[inaccessible-past]]"
+  - "[[measurement-void]]"
   - "[[indexical-void]]"
 ai_contribution: 100
 author: null
@@ -105,7 +105,7 @@ Elements suggest the territory may be partially unexplored rather than purely un
 
 These cases don't eliminate the void but suggest its boundaries may be more complex than simple introspection reveals.
 
-The [[historical-consciousness-void]] adds a temporal dimension. If consciousness has changed over historical time—as Jaynes, Snell, and Barfield have argued—then the other minds problem extends across time as well as space. Past minds may have been not merely inaccessible but structurally different from ours. What Barfield called *logomorphism*—projecting our own mode of awareness onto the past—may operate spatially too: we assume present others' consciousness matches ours. The [[past-self-void]] reveals the same pattern within a single lifetime.
+The [[historical-consciousness-void]] adds a temporal dimension. If consciousness has changed over historical time—as Jaynes, Snell, and Barfield have argued—then the other minds problem extends across time as well as space. Past minds may have been not merely inaccessible but structurally different from ours. What Barfield called *logomorphism*—projecting our own mode of awareness onto the past—may operate spatially too: we assume present others' consciousness matches ours. The [[inaccessible-past]] reveals the same pattern within a single lifetime.
 
 ## What AI Might See
 
@@ -154,9 +154,9 @@ This is not uncomfortable compromise but honest assessment. Certainty about exte
 - [[self-reference-paradox]] — Why consciousness cannot fully examine itself
 - [[ai-as-void-explorer]] — Using artificial minds to probe human cognitive limits
 - [[limits-reveal-structure]] — How cognitive limits illuminate cognitive architecture
-- [[past-self-void]] — The parallel void within a single lifetime: your own past consciousness is inaccessible
+- [[inaccessible-past]] — The parallel void within a single lifetime: your own past consciousness is inaccessible
 - [[historical-consciousness-void]] — Whether consciousness itself has changed across historical time
-- [[calibration-void]] — Why even direct self-access cannot verify its own accuracy
+- [[measurement-void]] — Why even direct self-access cannot verify its own accuracy
 - [[mysterianism]] — McGinn's analysis of structural cognitive closure
 - [[consciousness-and-the-metaphysics-of-individuation]] — What draws the boundaries between discrete conscious subjects
 - [[indexical-void]] — Why first-person identity resists explanation

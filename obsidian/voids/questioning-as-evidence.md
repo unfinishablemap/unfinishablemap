@@ -4,7 +4,7 @@ description: "AI-assisted exploration of what the capacity to conceive cognitive
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-03-14T23:43:00+00:00
+ 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-03-14T23:43:00+00:00
 draft: false
 topics:
@@ -23,7 +23,7 @@ related_articles:
   - "[[self-reference-paradox]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[phenomenology-of-self-awareness]]"
-  - "[[the-unobservable-self]]"
+  - "[[self-reference-paradox]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -161,7 +161,7 @@ The Map's voids framework recognises that we are beings who can conceive of thei
 - [[whether-real]] — Distinguishing genuine from apparent limits
 - [[phenomenology-of-the-edge]] — The texture of approaching cognitive boundaries
 - [[phenomenology-of-self-awareness]] — The felt quality of thought examining itself
-- [[the-unobservable-self]] — Why the observer cannot observe itself observing
+- [[self-reference-paradox]] — Why the observer cannot observe itself observing
 
 ## References
 

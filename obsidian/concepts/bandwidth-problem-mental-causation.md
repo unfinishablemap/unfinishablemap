@@ -4,7 +4,7 @@ description: "Even granting that consciousness can influence the brain, does the
 created: 2026-02-23
 modified: 2026-03-01
 human_modified:
-ai_modified: 2026-03-18T19:05:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,9 +16,9 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[psychophysical-laws]]"
-  - "[[psychophysical-coupling]]"
+  - "[[psychophysical-laws]]"
   - "[[attention-as-interface]]"
-  - "[[selection-laws]]"
+  - "[[psychophysical-laws]]"
   - "[[asymmetric-bandwidth-consciousness]]"
   - "[[epiphenomenalism]]"
 related_articles:
@@ -82,13 +82,13 @@ The hierarchical structure addresses the grain problem directly. Consciousness o
 
 This architecture raises a natural concern: if the brain does all the specification work, is consciousness [[epiphenomenalism|epiphenomenal]]? The answer depends on whether the alternatives among which consciousness selects are genuinely open. If quantum indeterminacies leave multiple neural configurations physically possible—as the Map's framework maintains—then policy-level selection is real causal work. The brain prepares the options; consciousness determines which option becomes actual, potentially through [[valence-as-selection-currency|valence as a common evaluative metric]] that compresses complex situations into simple better-or-worse comparisons.
 
-The very existence of a measurable, consistent, task-independent throughput ceiling — ~10 bits per second, not zero, not random — is itself evidence that consciousness performs work. [[Epiphenomenalism|Epiphenomena]] have no capacity limits because they process nothing. The narrowness of the channel reflects not causal impotence but appropriate division of labour: consciousness provides direction, the brain provides detail. Most behaviour — habitual actions, reflexes, overlearned skills — bypasses conscious selection entirely, operating within the brain's full bandwidth. The conscious channel handles only what requires deliberate intervention, which is precisely where the bandwidth constraint applies.
+The very existence of a measurable, consistent, task-independent throughput ceiling — ~10 bits per second, not zero, not random — is itself evidence that consciousness performs work. [[epiphenomenalism|Epiphenomena]] have no capacity limits because they process nothing. The narrowness of the channel reflects not causal impotence but appropriate division of labour: consciousness provides direction, the brain provides detail. Most behaviour — habitual actions, reflexes, overlearned skills — bypasses conscious selection entirely, operating within the brain's full bandwidth. The conscious channel handles only what requires deliberate intervention, which is precisely where the bandwidth constraint applies.
 
 ## The Format Translation Problem
 
 Even granting hierarchical selection, a residual problem remains: how does intentional content—structured by goals and meanings—interface with physical mechanisms structured by forces and timings? Selecting "reach for the cup" is intentional. The quantum event that implements that selection is physical. What bridges these descriptions?
 
-This is the format dimension of the bandwidth problem, and it connects to the broader [[psychophysical-laws|psychophysical coupling problem]]. The Map requires [[selection-laws|selection laws]]—laws specifying how phenomenal states map to physical selections. The bandwidth problem sharpens this requirement: whatever coupling law governs the interface, it must translate between intentional and physical vocabularies without requiring the intentional side to encode physical details.
+This is the format dimension of the bandwidth problem, and it connects to the broader [[psychophysical-laws|psychophysical coupling problem]]. The Map requires [[psychophysical-laws|selection laws]]—laws specifying how phenomenal states map to physical selections. The bandwidth problem sharpens this requirement: whatever coupling law governs the interface, it must translate between intentional and physical vocabularies without requiring the intentional side to encode physical details.
 
 One proposed mechanism—Stapp's quantum Zeno framework—suggests consciousness poses questions ("is this neural pattern present?") and the physical system answers. If viable, the intentional content would determine *which question* to ask while physics determines the answer. This separation of labour would mean consciousness need not encode physical specifications—it would encode attentional targets, and the brain's architecture would translate these into the relevant physical observables. Whether this specific mechanism works remains contested; the Map treats it as one possibility among others rather than a commitment.
 
@@ -126,7 +126,7 @@ The bandwidth problem also differs from the [[concepts/binding-problem|binding p
 - [[downward-causation]] — The broader framework for mental-to-physical causation
 - [[mental-causation]] — The philosophical problem of how mind affects body
 - [[psychophysical-laws]] — The coupling laws the bandwidth problem constrains
-- [[selection-laws]] — Laws governing the downward direction of mind-body interaction
+- [[psychophysical-laws]] — Laws governing the downward direction of mind-body interaction
 - [[attention-as-interface]] — Attention as the selection channel through which consciousness operates
 - [[resolution-void]] — The broader resolution gap between brain processing and conscious access
 

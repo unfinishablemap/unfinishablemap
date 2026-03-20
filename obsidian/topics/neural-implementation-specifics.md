@@ -4,12 +4,12 @@ description: "Evaluating quantum neural mechanism evidence. Radical pairs lead, 
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-03-03T02:44:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[quantum-neural-mechanisms]]"
+  - "[[quantum-neural-mechanisms-and-coherence]]"
   - "[[quantum-biology]]"
   - "[[quantum-consciousness]]"
   - "[[decoherence]]"
@@ -231,7 +231,7 @@ None of these has been demonstrated to be the *actual* mechanism of conscious in
 
 ## Further Reading
 
-- [[quantum-neural-mechanisms]] — Survey of all five proposed mechanisms
+- [[quantum-neural-mechanisms-and-coherence]] — Survey of all five proposed mechanisms
 - [[quantum-biology]] — Established quantum effects in living systems
 - [[quantum-neural-timing-constraints]] — The timing hierarchy and decoherence challenge
 - [[decoherence]] — The decoherence critique in detail

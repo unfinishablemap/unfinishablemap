@@ -4,7 +4,7 @@ description: "Actions that are genuinely intentional yet arise without prior del
 created: 2026-02-13
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-02-17T10:12:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -27,7 +27,7 @@ related_articles:
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[consciousness-and-agency]]"
   - "[[consciousness-and-skilled-performance]]"
-  - "[[paradox-of-effortless-mastery]]"
+  - "[[consciousness-and-skilled-performance]]"
   - "[[libet-experiments]]"
   - "[[concept-of-free-will]]"
 ai_contribution: 100
@@ -98,7 +98,7 @@ Bergson's account of [[temporal-consciousness|durée]] illuminates why. In lived
 
 Meditation traditions offer refined phenomenological accounts. In [[witness-consciousness|witnessing practice]], meditators observe intentions arising before they are acted upon. Advanced practitioners report a space between intention-arising and action in which endorsement occurs—a micro-moment of "signing off" that is not deliberation in the ordinary sense (no weighing of alternatives, no effortful comparison) but is not purely automatic either (Lutz et al., 2008). This endorsement is better understood as the selection mechanism operating transparently: the practitioner's refined awareness detects what normally occurs below the threshold of attention.
 
-The Zen concept of *mushin* (no-mind) describes action that arises from a still centre—unpremeditated yet perfectly appropriate (Suzuki, 1959). The tea ceremony, martial arts, and calligraphy all cultivate spontaneous intentional action as a practice: training the self to respond with precision while relinquishing deliberate control. The [[paradox-of-effortless-mastery|paradox of effortless mastery]] illuminates why: years of disciplined practice build the depth from which spontaneous action draws.
+The Zen concept of *mushin* (no-mind) describes action that arises from a still centre—unpremeditated yet perfectly appropriate (Suzuki, 1959). The tea ceremony, martial arts, and calligraphy all cultivate spontaneous intentional action as a practice: training the self to respond with precision while relinquishing deliberate control. The [[consciousness-and-skilled-performance|paradox of effortless mastery]] illuminates why: years of disciplined practice build the depth from which spontaneous action draws.
 
 This is not passivity. The practitioner has cultivated the conditions for intelligent spontaneity through years of disciplined training. The spontaneous action is *prepared* without being *planned*. [[implicit-memory|Skill delegation]] provides part of the mechanism, but spontaneous intentional action goes beyond mere skill execution—it involves novel, context-sensitive responses that pure automaticity cannot produce.
 
@@ -145,7 +145,7 @@ The account of spontaneous intentional action offered here would face difficulty
 - [[consciousness-and-skilled-performance|phenomenology of flow states]] — Flow as effortless, absorbed action—a neighbouring category
 - [[interface-friction]] — Why some conscious selections require effort and others do not
 - [[libet-experiments]] — Neuroscientific challenges to conscious initiation of action
-- [[paradox-of-effortless-mastery]] — How disciplined training yields spontaneous expertise
+- [[consciousness-and-skilled-performance]] — How disciplined training yields spontaneous expertise
 
 ## References
 

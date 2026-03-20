@@ -4,7 +4,7 @@ description: "A comprehensive treatment of attention as consciousness's interfac
 created: 2026-02-01
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-18T19:05:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -108,7 +108,7 @@ Parkinson's patients can move when externally prompted but struggle with self-in
 
 ## The Attention-Consciousness Dissociation
 
-Attention and consciousness can come apart. [[Blindsight]] patients orient toward stimuli they deny seeing—attention without awareness. Peripheral vision delivers conscious experience without focal attention—awareness without attending. Koch and Tsuchiya's (2007) framework organises these into four cases:
+Attention and consciousness can come apart. [[blindsight]] patients orient toward stimuli they deny seeing—attention without awareness. Peripheral vision delivers conscious experience without focal attention—awareness without attending. Koch and Tsuchiya's (2007) framework organises these into four cases:
 
 | Attention | Consciousness | Example |
 |-----------|---------------|---------|

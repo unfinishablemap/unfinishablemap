@@ -4,7 +4,7 @@ description: "What kind of knowledge does introspection provide? Human+AI analys
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-03-18T15:28:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[epistemology]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[introspection-rehabilitation]]"
   - "[[epistemology-of-introspective-calibration]]"
   - "[[phenomenal-conservatism-and-introspective-evidence]]"
-  - "[[the-unobservable-self]]"
+  - "[[self-reference-paradox]]"
   - "[[introspective-opacity]]"
   - "[[ethics-and-value-in-a-dualist-world]]"
   - "[[phenomenal-acquaintance]]"
@@ -93,7 +93,7 @@ The Map's position is that introspection constitutes a sui generis epistemic cap
 
 **Domain-variable reliability.** Introspective reliability varies systematically across domains: strongest for attended phenomenal content, weaker for background states, and absent for causal processes. This gradient, which the [[epistemology-of-introspective-calibration|calibration strategies]] map in detail, reflects the structure of introspective access rather than a uniform capacity.
 
-**Trainability.** Unlike foundational capacities (you cannot train yourself to have better logical intuitions in the same way), introspective skill improves with practice along a logarithmic learning curve — matching the acquisition pattern of genuine perceptual skills (Fox et al. 2012). This trainability supports the view that introspection involves a real capacity engaging with real features of experience. [[Neurophenomenology]] provides the validation framework: trained introspective reports predict neural signatures that untrained reports miss, confirming that improved access tracks genuine phenomenal structure rather than producing more elaborate confabulations.
+**Trainability.** Unlike foundational capacities (you cannot train yourself to have better logical intuitions in the same way), introspective skill improves with practice along a logarithmic learning curve — matching the acquisition pattern of genuine perceptual skills (Fox et al. 2012). This trainability supports the view that introspection involves a real capacity engaging with real features of experience. [[neurophenomenology]] provides the validation framework: trained introspective reports predict neural signatures that untrained reports miss, confirming that improved access tracks genuine phenomenal structure rather than producing more elaborate confabulations.
 
 ## What Introspection Can Establish
 
@@ -125,7 +125,7 @@ The sui generis model yields clear epistemological conclusions about what intros
 - [[phenomenal-conservatism-and-introspective-evidence]] — Huemer's principle as epistemological grounding
 - [[phenomenal-acquaintance]] — The direct epistemic relation underlying the acquaintance model
 - [[acquaintance-knowledge]] — Russell's distinction and its role in the knowledge argument
-- [[the-unobservable-self]] — The structural impossibility of observing the observer
+- [[self-reference-paradox]] — The structural impossibility of observing the observer
 - [[introspective-opacity]] — Where introspective access fails structurally
 - [[contemplative-epistemology]] — Systematic contemplative practice as knowledge source
 - [[first-person-third-person-methodology]] — The methodological divide in consciousness science

@@ -4,7 +4,7 @@ description: "What formal mapping connects conscious states to physical selectio
 created: 2026-02-19
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-03-19T19:58:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,7 +13,7 @@ topics:
   - "[[mental-causation]]"
 concepts:
   - "[[psychophysical-laws]]"
-  - "[[selection-laws]]"
+  - "[[psychophysical-laws]]"
   - "[[coupling-modes]]"
   - "[[control-theoretic-will]]"
   - "[[attention-as-interface]]"
@@ -23,7 +23,7 @@ concepts:
   - "[[attentional-economics]]"
   - "[[motor-selection]]"
   - "[[decoherence]]"
-  - "[[psychophysical-coupling]]"
+  - "[[psychophysical-laws]]"
   - "[[mysterianism]]"
   - "[[explanatory-gap]]"
   - "[[neurophenomenology]]"
@@ -181,7 +181,7 @@ The psychophysical control law is the specification gap at the centre of the Map
 - [[the-interface-specification-problem]] — The complementary problem: where does consciousness couple to the brain?
 - [[control-theoretic-will]] — The control-theoretic framing this article builds on
 - [[coupling-modes]] — Basis, timing, and probability control as coupling modes
-- [[selection-laws]] — The downward direction of psychophysical law
+- [[psychophysical-laws]] — The downward direction of psychophysical law
 - [[concepts/consciousness-selecting-neural-patterns]] — The mechanism the control law governs
 - [[attention-as-interface]] — The interface through which control operates
 - [[attentional-economics]] — The ~10 bits/second bandwidth constraint

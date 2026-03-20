@@ -4,7 +4,7 @@ description: "What meditation's witness state reveals about consciousness: that 
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-03-11T19:28:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -75,7 +75,7 @@ The Map's stronger claim is about qualitative character. The witness mode has di
 
 ### The Self Is Constructed, Not Given
 
-The witness mode reveals the self-narrative as construction—a discovery that points toward [[the-unobservable-self|the unobservable self]] as a genuine void in understanding. Ordinarily, thoughts about "me"—my plans, my past, my concerns—seem to emanate from a stable center. The witness perspective shows these thoughts arising and passing like any other mental content. The "me" is not the thinker but something thought *about*.
+The witness mode reveals the self-narrative as construction—a discovery that points toward [[self-reference-paradox|the unobservable self]] as a genuine void in understanding. Ordinarily, thoughts about "me"—my plans, my past, my concerns—seem to emanate from a stable center. The witness perspective shows these thoughts arising and passing like any other mental content. The "me" is not the thinker but something thought *about*.
 
 This dissolves not into nihilism but into a different understanding. There is awareness; there is no fixed self that possesses it. The minimal phenomenal self—the bare "for-me-ness" of experience—survives. What dissolves is the narrative elaboration: the stories about who this awareness belongs to.
 

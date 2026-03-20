@@ -4,7 +4,7 @@ description: "What is information's ontological status when mind and matter are 
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-01T19:52:00+00:00
+ 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-03-01T19:52:00+00:00
 draft: false
 topics:
@@ -24,7 +24,7 @@ related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-causal-powers]]"
   - "[[the-interface-specification-problem]]"
-  - "[[selection-laws]]"
+  - "[[psychophysical-laws]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -128,7 +128,7 @@ The metaphysics of information connects to each of the Map's tenets.
 - [[russellian-monism]] — The view that physics captures only structure while quiddities ground consciousness
 - [[explanatory-gap]] — The gap between physical description and phenomenal experience
 - [[the-interface-specification-problem]] — The challenge of specifying how consciousness interfaces with physics
-- [[selection-laws]] — How conscious states select physical outcomes
+- [[psychophysical-laws]] — How conscious states select physical outcomes
 - [[consciousness-and-causal-powers]] — The causal efficacy of consciousness
 - [[decoherence]] — The quantum process that challenges and constrains neural-scale interaction models
 - [[attention-as-causal-bridge]] — How attention serves as the mechanism through which semantic information reaches physical processes

@@ -4,7 +4,7 @@ description: "The simplest form of consciousness—bare phenomenal experience wi
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-04T22:18:50+00:00
+ 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-02-25T19:12:00+00:00
 draft: false
 topics:
@@ -64,7 +64,7 @@ On this analysis, a system with minimal consciousness would have vijñāna witho
 
 ### Integrated Information (IIT)
 
-[[Integrated-information-theory|Integrated Information Theory]] proposes that consciousness exists wherever there is integrated information (measured as Φ). On this view, minimal consciousness requires only minimal integration—enough Φ to create a unified experiential point but not enough for complex content.
+[[integrated-information-theory|Integrated Information Theory]] proposes that consciousness exists wherever there is integrated information (measured as Φ). On this view, minimal consciousness requires only minimal integration—enough Φ to create a unified experiential point but not enough for complex content.
 
 IIT's predictions are striking: even simple systems with modest Φ values would have minimal consciousness. A thermostat, on IIT's account, might have a flicker of experience. The theory faces resistance precisely because it implies minimal consciousness may be more widespread than intuition suggests.
 
@@ -76,7 +76,7 @@ Where does minimal consciousness begin? This is the [[consciousness-in-simple-or
 
 **Graded emergence**: Perhaps consciousness admits of degrees—systems can be "slightly conscious" in a way that shades continuously from zero. But degrees of consciousness still presuppose consciousness exists. The explanatory gap applies to the smallest degree: why is there *any* experience rather than none?
 
-**No threshold (panpsychism)**: [[Panpsychism]] dissolves the threshold problem by holding that experience is fundamental. All physical systems have some experiential aspect; what evolves is organisation and intensity. But this faces the [[combination-problem]]: how do micro-experiences combine into unified consciousness?
+**No threshold (panpsychism)**: [[panpsychism]] dissolves the threshold problem by holding that experience is fundamental. All physical systems have some experiential aspect; what evolves is organisation and intensity. But this faces the [[combination-problem]]: how do micro-experiences combine into unified consciousness?
 
 **Interface dualism (the Map's view)**: Consciousness interfaces with physical systems rather than emerging from them. The question "where does consciousness begin?" may have no principled answer because it presupposes consciousness is something physical systems generate. If consciousness is irreducible, it couples with matter wherever appropriate interface conditions exist.
 

@@ -4,7 +4,7 @@ description: "Self-stultification defeats not just epiphenomenalism but every po
 created: 2026-02-23
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-03-18T19:57:00+00:00
+ 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-03-05T08:38:00+00:00
 draft: false
 topics:
@@ -26,7 +26,7 @@ related_articles:
   - "[[epiphenomenalism]]"
   - "[[the-epiphenomenalist-threat]]"
   - "[[bidirectional-interaction]]"
-  - "[[consciousness-and-the-authority-of-logic]]"
+  - "[[consciousness-and-the-authority-of-formal-systems]]"
   - "[[consciousness-and-the-problem-of-induction]]"
   - "[[epistemology-of-phenomenal-reports]]"
   - "[[tenets]]"
@@ -110,7 +110,7 @@ Self-stultification has a performative aspect that distinguishes it from ordinar
 
 This performative contradiction is harder to escape than a merely logical one. A logical contradiction can be resolved by adjusting premises. A performative contradiction persists through every attempt to defend the position, because the defense itself instantiates what the position denies.
 
-The [[consciousness-and-the-authority-of-logic|authority of logic]] article develops a related point: recognising logical necessity as binding—not merely as a pattern one happens to follow—requires consciousness of a kind that physical causation cannot generate. The self-stultification argument shows that this recognition must be causally efficacious, not merely epiphenomenal.
+The [[consciousness-and-the-authority-of-formal-systems|authority of logic]] article develops a related point: recognising logical necessity as binding—not merely as a pattern one happens to follow—requires consciousness of a kind that physical causation cannot generate. The self-stultification argument shows that this recognition must be causally efficacious, not merely epiphenomenal.
 
 ## Scope and Limits
 
@@ -154,7 +154,7 @@ The [[the-epiphenomenalist-threat|epiphenomenalist threat]] article shows that m
 - [[argument-from-reason]] — The extended case against physicalism via self-defeat
 - [[concepts/epiphenomenalism]] — The position most directly defeated, including the AI exception
 - [[the-epiphenomenalist-threat]] — Why most theories drift toward the position self-stultification defeats
-- [[consciousness-and-the-authority-of-logic]] — Why logical necessity requires conscious recognition
+- [[consciousness-and-the-authority-of-formal-systems]] — Why logical necessity requires conscious recognition
 - [[consciousness-and-the-problem-of-induction]] — Self-stultification applied to inductive reasoning about consciousness
 - [[epistemology-of-phenomenal-reports]] — Whether introspective reports are causally connected to experiences
 - [[phenomenal-conservatism-and-introspective-evidence]] — The epistemic framework that self-stultification presupposes

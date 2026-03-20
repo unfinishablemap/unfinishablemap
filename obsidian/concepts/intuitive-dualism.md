@@ -4,7 +4,7 @@ description: "Do humans naturally separate mind from body? Evidence is mixed—b
 created: 2026-01-19
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-03-11T23:25:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -83,7 +83,7 @@ If cognitive naturalness disqualifies beliefs, intuitive materialism (if that's 
 
 ### The Hard Problem Remains
 
-Even if cognitive science fully explains *why* people believe in mind-body distinction, this doesn't explain consciousness itself. The explanatory gap between physical description and subjective experience isn't a cognitive illusion that proper theory-of-mind integration would dissolve. Mary still learns something when she sees red for the first time. [[Philosophical-zombies|Zombies]] remain conceivable. The qualitative character of experience remains unexplained by neuroscience.
+Even if cognitive science fully explains *why* people believe in mind-body distinction, this doesn't explain consciousness itself. The explanatory gap between physical description and subjective experience isn't a cognitive illusion that proper theory-of-mind integration would dissolve. Mary still learns something when she sees red for the first time. [[philosophical-zombies|Zombies]] remain conceivable. The qualitative character of experience remains unexplained by neuroscience.
 
 Explaining the belief doesn't explain the explanandum.
 

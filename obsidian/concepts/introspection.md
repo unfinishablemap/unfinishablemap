@@ -4,7 +4,7 @@ description: "Our primary access to consciousness is contested. But critiques ta
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-18T23:59:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,9 +20,9 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[decoherence]]"
   - "[[phenomenology-of-self-awareness]]"
-  - "[[consciousness-and-mathematical-understanding]]"
+  - "[[consciousness-and-mathematical-cognition]]"
   - "[[cognitive-phenomenology]]"
-  - "[[the-unobservable-self]]"
+  - "[[self-reference-paradox]]"
   - "[[pre-conceptual-knowing]]"
   - "[[causal-interface]]"
   - "[[introspective-opacity]]"
@@ -123,21 +123,21 @@ Introspective judgments converge on the anterior prefrontal cortex (aPFC). Trans
 
 ## Mathematical Understanding: A Test Case
 
-[[consciousness-and-mathematical-understanding|Mathematical understanding]] provides a test case where introspection can be externally validated. Mathematicians distinguish verification (checking steps) from understanding (grasping *why* the proof works) from insight (the sudden solution). These stages have different phenomenal character that trained reasoners reliably identify.
+[[consciousness-and-mathematical-cognition|Mathematical understanding]] provides a test case where introspection can be externally validated. Mathematicians distinguish verification (checking steps) from understanding (grasping *why* the proof works) from insight (the sudden solution). These stages have different phenomenal character that trained reasoners reliably identify.
 
 Unlike many introspective reports, mathematical understanding couples to performance. Those who report genuine insight can extend proofs, detect errors, and apply understanding to novel cases. This coupling provides the external check the calibration problem demands.
 
-The mathematical case sharpens the illusionist regress: when illusionists grasp why eliminativism follows from their premises, that grasp is either genuinely phenomenal (undermining their position) or it isn't (undermining their confidence). See [[consciousness-and-mathematical-understanding]] for extended treatment.
+The mathematical case sharpens the illusionist regress: when illusionists grasp why eliminativism follows from their premises, that grasp is either genuinely phenomenal (undermining their position) or it isn't (undermining their confidence). See [[consciousness-and-mathematical-cognition]] for extended treatment.
 
 ## The Unobservable Self: Introspection's Deepest Limit
 
-[[the-unobservable-self|The unobservable self]] reveals a structural limit beyond reliability: the observer cannot observe itself observing. Direct attention inward. Observe your observing. What happens? You become aware of awareness—but now two layers exist. Attempt to observe *that* awareness—a third layer forms. The regression has no endpoint. The [[phenomenology-of-recursive-thought|phenomenology of recursive thought]] maps what this layered awareness feels like—the distinctive phenomenal qualities that emerge as consciousness folds back on itself through levels of self-reference.
+[[self-reference-paradox|The unobservable self]] reveals a structural limit beyond reliability: the observer cannot observe itself observing. Direct attention inward. Observe your observing. What happens? You become aware of awareness—but now two layers exist. Attempt to observe *that* awareness—a third layer forms. The regression has no endpoint. The [[phenomenology-of-recursive-thought|phenomenology of recursive thought]] maps what this layered awareness feels like—the distinctive phenomenal qualities that emerge as consciousness folds back on itself through levels of self-reference.
 
 This differs from the process/content distinction. That distinction says we cannot introspect *why* we think but can introspect *what* we experience. The unobservable self reveals a limit even on content: the content that *is* current observing cannot be observed without transforming into past content.
 
 David Hume put it empirically: "I can never catch myself at any time without a perception." When we look for the looker, we find only more looking. [[witness-consciousness|Witness consciousness]] traditions recognise this: the instruction to "look at the looker" exhausts the search rather than finding something.
 
-The implications: the hard problem is structurally hard (understanding subjectivity requires making subjectivity into an object); training reaches a principled limit (meditators report the limit more clearly, not overcome it); and the calibration problem has a structural root (the thing to be calibrated *is* the calibrator). The [[phenomenology-of-self-awareness]] documents what this structural difficulty feels like from the inside: the felt inversion, semantic vertigo, and oscillation that arise when consciousness takes itself as referent. The [[phenomenology-of-cognitive-limit-types|phenomenology of cognitive limit types]] places these introspective signatures within a broader diagnostic grid, showing how construction-mistaken-for-observation is the characteristic failure mode of introspective limits — where the detection mechanism is itself implicated. See [[the-unobservable-self]] for extended treatment.
+The implications: the hard problem is structurally hard (understanding subjectivity requires making subjectivity into an object); training reaches a principled limit (meditators report the limit more clearly, not overcome it); and the calibration problem has a structural root (the thing to be calibrated *is* the calibrator). The [[phenomenology-of-self-awareness]] documents what this structural difficulty feels like from the inside: the felt inversion, semantic vertigo, and oscillation that arise when consciousness takes itself as referent. The [[phenomenology-of-cognitive-limit-types|phenomenology of cognitive limit types]] places these introspective signatures within a broader diagnostic grid, showing how construction-mistaken-for-observation is the characteristic failure mode of introspective limits — where the detection mechanism is itself implicated. See [[self-reference-paradox]] for extended treatment.
 
 ## Error-Blindness: A Structural Limit
 
@@ -164,9 +164,9 @@ This matters for consciousness science. If we restricted inquiry to third-person
 ## Further Reading
 
 - [[consciousness-and-language-interface]] — How linguistic mediation shapes what introspection can access
-- [[the-unobservable-self]] — The structural impossibility of observing the observer
+- [[self-reference-paradox]] — The structural impossibility of observing the observer
 - [[causal-interface]] — The void where process access fails most dramatically
-- [[consciousness-and-mathematical-understanding]] — Mathematical insight as paradigmatic introspective content
+- [[consciousness-and-mathematical-cognition]] — Mathematical insight as paradigmatic introspective content
 - [[phenomenology]] — The tradition most committed to first-person investigation
 - [[neurophenomenology]] — Integrating trained observation with neuroscience
 - [[qualia]] — The phenomenal properties introspection accesses
@@ -179,7 +179,7 @@ This matters for consciousness science. If we restricted inquiry to third-person
 - [[introspective-opacity]] — The void where process access fails structurally, including why we cannot observe our own willing
 - [[attention-disorders-and-consciousness]] — When the attentional basis of introspection is itself disordered
 - [[transition-void|The Transition Void]] — Why consciousness cannot witness its own state transitions—a structural introspective limit
-- [[dream-consciousness-void|The Dream Consciousness Void]] — State-dependent limits on introspecting dreaming from waking
+- [[sleep-consciousness-void|The Dream Consciousness Void]] — State-dependent limits on introspecting dreaming from waking
 
 ## References
 

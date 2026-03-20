@@ -4,7 +4,7 @@ description: "Blindsight, anosognosia, alien hand syndrome, and other dissociati
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-03-10T22:23:00+00:00
+ 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-03-10T22:23:00+00:00
 draft: false
 topics:
@@ -58,13 +58,13 @@ Each row represents an empirically confirmed dissociation. The rest of this arti
 
 ### Perceptual Ascending — Blindsight
 
-[[Blindsight]] patients with V1 damage discriminate visual stimuli they deny seeing. The visual information reaches motor and decision systems through subcortical pathways—the patient can point to the stimulus, identify its motion direction, even respond to emotional expressions—but none of this enters conscious awareness. Processing without phenomenal experience.
+[[blindsight]] patients with V1 damage discriminate visual stimuli they deny seeing. The visual information reaches motor and decision systems through subcortical pathways—the patient can point to the stimulus, identify its motion direction, even respond to emotional expressions—but none of this enters conscious awareness. Processing without phenomenal experience.
 
 What this maps: a perceptual ascending channel that requires V1 and its cortical projections. Alternative pathways (retina → superior colliculus → extrastriate cortex) carry information that can guide action but cannot deliver [[phenomenal-consciousness|phenomenal content]] to the conscious subject. The interface has a specific architecture for rendering sensory data into experience, and that architecture can be severed while leaving the data itself intact.
 
 ### Affective Ascending — Pain Asymbolia
 
-[[Pain-asymbolia|Pain asymbolia]] patients detect nociceptive stimuli and localise them accurately—"that's a sharp prick on my left hand"—but lack the felt awfulness that makes pain matter. They do not withdraw, guard, or show distress. The sensory-discriminative dimension survives; the affective-motivational dimension is abolished.
+[[pain-asymbolia|Pain asymbolia]] patients detect nociceptive stimuli and localise them accurately—"that's a sharp prick on my left hand"—but lack the felt awfulness that makes pain matter. They do not withdraw, guard, or show distress. The sensory-discriminative dimension survives; the affective-motivational dimension is abolished.
 
 What this maps: an affective ascending channel, anatomically distinct from the sensory one. The sensory channel (somatosensory cortex, posterior insula) delivers *what* and *where*. The affective channel (anterior insula, anterior cingulate, limbic connections) delivers *how much it matters*. The clean separation—not a graded reduction but a complete absence of the affective dimension—argues that valence is a discrete interface component, not an intrinsic property of nociceptive signals.
 
@@ -102,7 +102,7 @@ What this maps: bilateral channels that maintain [[unity-of-consciousness|phenom
 
 Hemineglect, typically following right parietal damage, causes patients to ignore the left half of space—not because sensory processing has failed, but because the attentional mechanism that grants conscious access to that space is damaged. Patients may eat food from only the right side of their plate, draw only the right half of a clock face, and fail to notice objects on their left even when staring directly at them.
 
-What this maps: an attentional gating mechanism that determines which available content enters consciousness. Unlike blindsight, where the relevant sensory pathway is destroyed, neglect patients have intact visual systems. The information reaches the brain but is not selected for conscious access. [[Attention-as-interface|Attention]] serves as a gate—a selection filter between processed content and conscious experience. When the gate jams shut for half of space, that half effectively disappears from the conscious world.
+What this maps: an attentional gating mechanism that determines which available content enters consciousness. Unlike blindsight, where the relevant sensory pathway is destroyed, neglect patients have intact visual systems. The information reaches the brain but is not selected for conscious access. [[attention-as-interface|Attention]] serves as a gate—a selection filter between processed content and conscious experience. When the gate jams shut for half of space, that half effectively disappears from the conscious world.
 
 Hemineglect and blindsight are complementary. Blindsight: intact processing, destroyed delivery pathway, no conscious access. Hemineglect: intact processing, intact pathways, broken selection mechanism, no conscious access. Both produce absence of awareness, but by disrupting different interface components. This double dissociation within the ascending direction confirms that delivery and selection are architecturally distinct.
 

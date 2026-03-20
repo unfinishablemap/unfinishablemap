@@ -4,7 +4,7 @@ description: "If consciousness is distinct from physics, fundamental laws must c
 created: 2026-01-26
 modified: 2026-02-07
 human_modified:
-ai_modified: 2026-03-16T04:33:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,8 +12,8 @@ topics:
   - "[[topics/free-will]]"
 concepts:
   - "[[psychophysical-laws]]"
-  - "[[psychophysical-coupling]]"
-  - "[[selection-laws]]"
+  - "[[psychophysical-laws]]"
+  - "[[psychophysical-laws]]"
   - "[[mental-causation]]"
   - "[[downward-causation]]"
   - "[[coupling-modes]]"
@@ -32,7 +32,7 @@ concepts:
   - "[[mysterianism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[attention-interface-mechanisms]]"
+  - "[[attention-and-the-consciousness-interface]]"
   - "[[the-psychophysical-control-law]]"
   - "[[chalmers-psychophysical-laws-2026-01-17]]"
   - "[[psychophysical-coupling-problem-2026-01-15]]"
@@ -93,7 +93,7 @@ The asymmetry reflects different commitments:
 - **Chalmers**: Consciousness is real and irreducible, but may be causally inert
 - **The Map**: Consciousness is real, irreducible, *and* causally efficacious
 
-Why the focus on quantum selection? Classical physics is deterministic—[[causal-closure|causal closure]] leaves no room for consciousness to determine outcomes physics already fixes. Quantum mechanics provides probability distributions without determining specific outcomes. That gap is where [[selection-laws|selection laws]] take hold.
+Why the focus on quantum selection? Classical physics is deterministic—[[causal-closure|causal closure]] leaves no room for consciousness to determine outcomes physics already fixes. Quantum mechanics provides probability distributions without determining specific outcomes. That gap is where [[psychophysical-laws|selection laws]] take hold.
 
 Selection laws must specify:
 1. **Variables on the mental side**: What aspects of experience map to selection? Attention? Intention? Effort?
@@ -229,9 +229,9 @@ The framework would face serious difficulty if:
 ## Further Reading
 
 - [[psychophysical-laws]] — The foundational concept in depth
-- [[selection-laws]] — The downward direction: how conscious states select physical outcomes
-- [[psychophysical-coupling]] — The coupling law problem and candidate law families
-- [[attention-interface-mechanisms]] — Where in the brain coupling might occur
+- [[psychophysical-laws]] — The downward direction: how conscious states select physical outcomes
+- [[psychophysical-laws]] — The coupling law problem and candidate law families
+- [[attention-and-the-consciousness-interface]] — Where in the brain coupling might occur
 - [[stapp-quantum-mind]] — Stapp's quantum Zeno mechanism in detail
 - [[integrated-information-theory]] — IIT's role in Chalmers' quantum proposal
 - [[concepts/functionalism]] — The view Chalmers tends toward, the Map rejects

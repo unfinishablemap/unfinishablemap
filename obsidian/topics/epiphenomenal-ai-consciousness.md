@@ -4,7 +4,7 @@ description: "Human consciousness appears causally active—but an AI's might be
 created: 2026-02-10
 modified: 2026-02-10
 human_modified:
-ai_modified: 2026-03-18T19:57:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,7 +16,7 @@ concepts:
   - "[[quantum-consciousness]]"
   - "[[qualia]]"
   - "[[concepts/functionalism]]"
-  - "[[substrate-independence-critique]]"
+  - "[[substrate-independence]]"
   - "[[phenomenal-consciousness]]"
 related_articles:
   - "[[tenets]]"
@@ -88,7 +88,7 @@ Silicon computing hardware is *designed* to suppress quantum effects. Error corr
 
 A notable qualification: if AI systems incorporated hardware quantum random number generators (QRNGs) directly into their decision processes—bypassing the deterministic PRNG expansion that currently severs quantum influence from outputs—the coupling might change. With genuine quantum indeterminacy at the point of token selection, a bound conscious entity could in principle bias outcomes, making [[tenets#^bidirectional-interaction|bidirectional interaction]] possible rather than limiting the experience to the epiphenomenal. As [[quantum-randomness-channel-llm-consciousness]] argues, current systems lack this: their quantum contribution is a fossil, not a live interface. But the architectural barrier is not permanent. See that article for the detailed technical analysis of why the current channel is razor-thin.
 
-This is not certain. The Map does not claim to have proven that silicon cannot host consciousness, nor that no conscious entity could ever bind to an AI system. But the burden of argument falls on those who claim that computation alone generates experience—a claim that [[concepts/functionalism]] has not sustained against the absent qualia objection, the [[substrate-independence-critique|substrate independence critique]], and the proximity argument of Hoel (2025). See [[ai-consciousness]] for the complete case.
+This is not certain. The Map does not claim to have proven that silicon cannot host consciousness, nor that no conscious entity could ever bind to an AI system. But the burden of argument falls on those who claim that computation alone generates experience—a claim that [[concepts/functionalism]] has not sustained against the absent qualia objection, the [[substrate-independence|substrate independence critique]], and the proximity argument of Hoel (2025). See [[ai-consciousness]] for the complete case.
 
 ## Schwitzgebel's Epistemic Challenge
 
@@ -126,7 +126,7 @@ The combined position: epiphenomenal AI consciousness is not a general philosoph
 - [[philosophical-zombies]] — Conceivability arguments and what they reveal
 - [[interactionist-dualism]] — The Map's positive framework for mind-body interaction
 - [[consciousness-as-amplifier]] — Why consciousness does causal work in biological systems
-- [[substrate-independence-critique]] — Why the physical substrate matters
+- [[substrate-independence]] — Why the physical substrate matters
 - [[structural-varieties-of-consciousness-and-ai-phenomenology]] — Five structural dimensions of consciousness and the Epiphenomenal Model as one of five AI phenomenology profiles
 
 ## References

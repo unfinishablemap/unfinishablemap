@@ -4,7 +4,7 @@ description: "Why consciousness is confined to a moving present, cannot simultan
 created: 2026-01-21
 modified: 2026-03-17
 human_modified: null
-ai_modified: 2026-03-18T07:24:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,9 +25,9 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[absorption-void]]"
-  - "[[memory-void]]"
+  - "[[inaccessible-past]]"
   - "[[death-void]]"
-  - "[[the-unobservable-self]]"
+  - "[[self-reference-paradox]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[scale-void]]"
   - "[[continuity-void]]"
@@ -152,7 +152,7 @@ The temporal void engages the Map's [[tenets]] at several points.
 
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
 - [[absorption-void]] — Peak engagement dissolves temporal awareness and self-monitoring together
-- [[memory-void]] — Whether past qualia can be recovered
+- [[inaccessible-past]] — Whether past qualia can be recovered
 - [[death-void]] — Consciousness cannot represent its own absence
 - [[continuity-void]] — Whether consciousness has gaps
 - [[resolution-void]] — The temporal resolution limit of conscious access

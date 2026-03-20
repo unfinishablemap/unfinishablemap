@@ -4,7 +4,7 @@ description: "The combination problem reveals something fundamental about subjec
 created: 2026-02-15
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-02-17T17:42:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,8 +25,8 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[panpsychism-consciousness-2026-01-08]]"
-  - "[[why-phenomenal-unity-resists-explanation]]"
-  - "[[quantum-binding-and-phenomenal-unity]]"
+  - "[[quantum-holism-and-phenomenal-unity]]"
+  - "[[quantum-holism-and-phenomenal-unity]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -138,7 +138,7 @@ The Map recognises what panpsychism gets right: consciousness is fundamental, em
 - [[combination-problem]] — Definitional treatment of the problem and its dimensions
 - [[panpsychism]] — The view facing this challenge
 - [[russellian-monism]] — The most developed framework for contemporary panpsychism
-- [[why-phenomenal-unity-resists-explanation]] — Why unity cannot be functionally explained
+- [[quantum-holism-and-phenomenal-unity]] — Why unity cannot be functionally explained
 - [[the-strong-emergence-of-consciousness]] — Emergence and its limits
 - [[idealism]] — An alternative that claims to invert the combination problem
 - [[process-philosophy]] — Whitehead's experiential framework

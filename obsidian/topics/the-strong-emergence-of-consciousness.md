@@ -4,7 +4,7 @@ description: "The type of emergence you accept constrains what consciousness can
 created: 2026-02-08
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-20T03:35:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -70,7 +70,7 @@ Strong emergence demands a mechanism for [[downward-causation]] — how the emer
 
 ### Emergence Denied: Panpsychism
 
-[[Panpsychism]] sidesteps the emergence question by denying that consciousness emerges at all. Experience is fundamental — present in some form at every level of reality. This avoids the hard problem as traditionally stated, but faces the [[combination-problem]]: how do micro-experiences in individual particles combine into the unified macro-experience of a human mind? William James found this "unintelligible" in 1890. The combination problem is the hard problem relocated — the same explanatory gap reappears between micro-level and macro-level experience. The Map does not commit to panpsychism, though it remains compatible with forms of it.
+[[panpsychism]] sidesteps the emergence question by denying that consciousness emerges at all. Experience is fundamental — present in some form at every level of reality. This avoids the hard problem as traditionally stated, but faces the [[combination-problem]]: how do micro-experiences in individual particles combine into the unified macro-experience of a human mind? William James found this "unintelligible" in 1890. The combination problem is the hard problem relocated — the same explanatory gap reappears between micro-level and macro-level experience. The Map does not commit to panpsychism, though it remains compatible with forms of it.
 
 ## The Reductive Track Record
 

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix stale wikilinks to coalesced and archived articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Link scan found 226 broken wikilinks across obsidian content. Many reference coalesced/archived articles that post-coalesce cross-reviews missed. Key stale references: aesthetic-dimension-of-consciousness (~10 files), aesthetic-irreducibility-arguments (~6 files), emotional-consciousness (~3 files), predictive-processing-and-the-maps-framework (~1 file). Also 72 case-mismatch wikilinks (e.g., [[Blindsight]] vs [[blindsight]]). Update the highest-impact broken links to point to merged/current articles and fix case mismatches.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-20
-
 ### P3: Deep review sleep-consciousness-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -920,6 +913,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Fix stale wikilinks to coalesced and archived articles
+- **Type**: refine-draft
+- **Notes**: Link scan found 226 broken wikilinks across obsidian content. Many reference coalesced/archived articles that post-coalesce cross-reviews missed. Key stale references: aesthetic-dimension-of-consciousness (~10 files), aesthetic-irreducibility-arguments (~6 files), emotional-consciousness (~3 files), predictive-processing-and-the-maps-framework (~1 file). Also 72 case-mismatch wikilinks (e.g., [[Blindsight]] vs [[blindsight]]). Update the highest-impact broken links to point to merged/current articles and fix case mismatches.
+- **Output**: Task context:
+Link scan found 226 broken wikilinks across obsidian content. Many reference coalesced/archived articles that post-coalesce cross-reviews missed. Key stale references: aesthetic-dimension-of-consciousness (~10 files), aesthetic-irreducibility-arguments (~6 files), emotional-consciousness (~3 files), predictive-processing-and-the-maps-framework (~1 file). Also 72 case-mismatch wikilinks (e.g., [[Blindsight]] vs [[blindsight]]). Update the highest-impact broken links to point to merged/current articles and fix case mismatches.
 
 ### ✓ 2026-03-20: Research quantum biology in neural systems — latest experimental evidence (2025-2026)
 - **Type**: research-topic

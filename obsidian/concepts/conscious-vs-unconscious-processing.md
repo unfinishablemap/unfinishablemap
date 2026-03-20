@@ -4,7 +4,7 @@ description: "Consciousness enables specific functions unconscious processing ca
 created: 2026-01-23
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-03-18T13:10:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -118,7 +118,7 @@ For the Map's argument here, the functional evidence for [[tenets#^bidirectional
 
 ## Blindsight: The Paradigm Case
 
-[[Blindsight]] provides the clearest evidence that consciousness adds functionality beyond unconscious processing.
+[[blindsight]] provides the clearest evidence that consciousness adds functionality beyond unconscious processing.
 
 Patients with V1 damage report being completely blind in portions of their visual field. Yet when forced to guess about stimuli in their blind field, they perform above chance for orientation, motion, and emotional expression.
 

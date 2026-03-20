@@ -4,7 +4,7 @@ description: "Human+AI inquiry into why we cannot introspect how experiences bec
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-02-25T15:22:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -17,7 +17,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[the-unobservable-self]]"
+  - "[[self-reference-paradox]]"
   - "[[introspective-opacity]]"
   - "[[other-minds-void]]"
   - "[[self-reference-paradox]]"
@@ -71,11 +71,11 @@ This affective divergence matters. The same structural void—the absence of the
 
 ## The Peculiar Recursion
 
-Attempting to introspect ownership produces a distinctive recursion. Unlike the [[the-unobservable-self|unobservable self]], where the observer generates new layers of observation, the ownership void traps attention in a different way: the attending itself is "mine," which means ownership is present in the very act of looking for it. It cannot be isolated because isolation would require a vantage point outside ownership—an experience that is not "for anyone"—and such a vantage point would not be experience at all.
+Attempting to introspect ownership produces a distinctive recursion. Unlike the [[self-reference-paradox|unobservable self]], where the observer generates new layers of observation, the ownership void traps attention in a different way: the attending itself is "mine," which means ownership is present in the very act of looking for it. It cannot be isolated because isolation would require a vantage point outside ownership—an experience that is not "for anyone"—and such a vantage point would not be experience at all.
 
 This distinguishes the ownership void from neighbouring voids:
 
-- The **[[the-unobservable-self|unobservable self]]** concerns the subject that cannot become its own object. The ownership void asks why any experience feels appropriated by a subject.
+- The **[[self-reference-paradox|unobservable self]]** concerns the subject that cannot become its own object. The ownership void asks why any experience feels appropriated by a subject.
 - **[[introspective-opacity]]** concerns hidden cognitive processes. The ownership void concerns a specific phenomenal feature—mineness—that is normally present but whose ground is hidden.
 - The **[[self-reference-paradox]]** concerns logical structure. The ownership void is phenomenological: about felt belonging, not formal reflexivity.
 
@@ -102,7 +102,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies. Predictive
 ## Further Reading
 
 - [[voids]] — The broader framework for investigating cognitive limits
-- [[the-unobservable-self]] — The observer that cannot observe itself observing
+- [[self-reference-paradox]] — The observer that cannot observe itself observing
 - [[introspective-opacity]] — Why cognitive processes hide from introspection
 - [[transparency-void]] — When cognitive mechanisms become invisible through transparency
 - [[other-minds-void]] — The impossibility of accessing another subject's ownership

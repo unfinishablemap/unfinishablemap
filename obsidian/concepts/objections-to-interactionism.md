@@ -4,7 +4,7 @@ description: "Six major challenges to dualism: pairing, conservation, parsimony,
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-03-11T10:02:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -58,7 +58,7 @@ Bailey, Rasmussen, and Van Horn (2011) argue there is "no pairing problem." If [
 
 ### The Quantum Fit
 
-The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] framework provides a natural answer. If consciousness interfaces with the brain at quantum indeterminacies in specific neural structures, consciousness is located *where those structures are*. [[interface-locality|Interface locality]] reinforces this: the quantum Zeno mechanism requires observer-system coupling that exists only within one's neural substrate. The pairing is built into the mechanism.
+The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] framework provides a natural answer. If consciousness interfaces with the brain at quantum indeterminacies in specific neural structures, consciousness is located *where those structures are*. [[brain-interface-boundary|Interface locality]] reinforces this: the quantum Zeno mechanism requires observer-system coupling that exists only within one's neural substrate. The pairing is built into the mechanism.
 
 ## Conservation Laws
 
@@ -172,7 +172,7 @@ These are empirical and interpretive questions, not settled by philosophical arg
 
 | Objection | Target | Site's Response | Strength |
 |-----------|--------|-----------------|----------|
-| Pairing problem | Substance dualism | Minds are spatially located (in brains); [[interface-locality]] provides natural pairing; [[haecceity]] offers alternative grounding | Strong |
+| Pairing problem | Substance dualism | Minds are spatially located (in brains); [[brain-interface-boundary]] provides natural pairing; [[haecceity]] offers alternative grounding | Strong |
 | Conservation laws | Interactionism | Conservation is local/conditional (Pitts/Cucu); selection not injection at quantum indeterminacies; see [[conservation-laws-and-mental-causation]] | Strong |
 | Parsimony | Dualism | Consciousness is evidence; materialism doesn't explain it; simplicity isn't truth | Strong |
 | Decoherence | Quantum interactionism | Quantum biology evidence, decoherence doesn't solve measurement problem | Moderate |
@@ -203,7 +203,7 @@ The exclusion argument receives two complementary responses: quantum insufficien
 - [[dualism]] — Positive arguments for the Map's position
 - [[quantum-consciousness]] — The mechanism for mind-matter interface
 - [[decoherence]] — The quantum biology challenge and evidence
-- [[interface-locality]] — Why consciousness can only select within its own brain
+- [[brain-interface-boundary]] — Why consciousness can only select within its own brain
 - [[objections-to-interactionist-dualism-2026-01-15]] — Research notes for this article
 - [[interaction-problem-across-traditions]] — Five solution types across Western and non-Western philosophy
 

@@ -4,7 +4,7 @@ description: "Consciousness cannot verify whether it accurately represents reali
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-03-19T02:21:06+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -77,7 +77,7 @@ The transparency void occupies distinctive territory among the Map's [[voids]]:
 
 - The [[intrinsic-nature-void]] asks what matter is in itself—a question about the world's hidden nature
 - The [[self-reference-paradox]] asks whether consciousness can map itself—a question about reflexivity
-- [[Introspective-opacity|Introspective opacity]] addresses why we cannot observe our own cognitive mechanisms
+- [[introspective-opacity|Introspective opacity]] addresses why we cannot observe our own cognitive mechanisms
 
 The transparency void asks something different: whether the *medium* of all mapping introduces systematic distortion. It concerns the reliability of the mapping apparatus itself. Introspective opacity means we cannot see the machinery; the transparency void means we cannot determine whether the machinery's output tracks reality or merely tracks fitness.
 

@@ -4,7 +4,7 @@ description: "Human+AI exploration of what aesthetic experience reveals about co
 created: 2026-02-05
 modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-03-18T05:36:00+00:00
+ 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-03-18T05:36:00+00:00
 draft: false
 topics:
@@ -18,7 +18,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[aesthetic-dimension-of-consciousness]]"
+  - "[[aesthetics-and-consciousness]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[apophatic-approaches]]"
   - "[[creativity-void]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[consciousness-only-territories]]"
   - "[[pre-conceptual-knowing]]"
   - "[[language-thought-boundary]]"
-  - "[[aesthetic-irreducibility-arguments]]"
+  - "[[aesthetics-and-consciousness]]"
   - "[[aesthetics-and-consciousness]]"
 ai_contribution: 100
 author: null
@@ -142,9 +142,9 @@ The aesthetic void suggests that consciousness has access to something ordinary 
 ## Further Reading
 
 - [[voids]] — The broader framework for investigating cognitive limits
-- [[aesthetic-dimension-of-consciousness]] — Why beauty pervades conscious experience and resists physical reduction
+- [[aesthetics-and-consciousness]] — Why beauty pervades conscious experience and resists physical reduction
 - [[aesthetics-and-consciousness]] — Why aesthetic experience is the strongest test case for irreducibility
-- [[aesthetic-irreducibility-arguments]] — Substrate independence and formal precision as irreducibility arguments
+- [[aesthetics-and-consciousness]] — Substrate independence and formal precision as irreducibility arguments
 - [[creativity-void]] — The companion void: where creative insight originates
 - [[affective-void]] — Emotions beyond human reach
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like

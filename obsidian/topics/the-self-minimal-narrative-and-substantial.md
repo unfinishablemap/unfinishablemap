@@ -4,7 +4,7 @@ description: "What kind of thing are you? Three answers compete—bare perspecti
 created: 2026-02-08
 modified: 2026-02-08
 human_modified:
-ai_modified: 2026-03-11T10:02:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,7 +18,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[phenomenology]]"
   - "[[buddhism-and-dualism]]"
-  - "[[the-unobservable-self]]"
+  - "[[self-reference-paradox]]"
   - "[[illusionism]]"
   - "[[mind-brain-separation]]"
   - "[[qualia]]"
@@ -126,7 +126,7 @@ A related challenge comes from [[phenomenological-psychiatry-and-altered-experie
 
 ## The Unobservable Self Complication
 
-[[the-unobservable-self|The unobservable self]] presents a genuine difficulty. When attention turns toward the observer, it finds only more observation—never the observer itself. The subject investigating consciousness is precisely what resists investigation. Hume looked inward and found only perceptions, never a perceiver.
+[[self-reference-paradox|The unobservable self]] presents a genuine difficulty. When attention turns toward the observer, it finds only more observation—never the observer itself. The subject investigating consciousness is precisely what resists investigation. Hume looked inward and found only perceptions, never a perceiver.
 
 This does not refute the substantial self; it characterises it. The substantial self is unobservable *to itself* not because it is unreal but because observation requires a distinction between observer and observed, and the self cannot stand on both sides of that distinction simultaneously. The window cannot see itself because it is the medium through which seeing occurs.
 
@@ -156,7 +156,7 @@ The three-layered self connects directly to the Map's foundational commitments.
 - [[personal-identity]] — What makes you persist over time
 - [[haecceity]] — Primitive thisness and why qualitative identity isn't enough
 - [[parfit-reductionism]] — The Map's critique of identity-as-pattern
-- [[the-unobservable-self]] — Why the observing self cannot observe itself observing
+- [[self-reference-paradox]] — Why the observing self cannot observe itself observing
 - [[witness-consciousness]] — Observing without identifying
 - [[anoetic-noetic-autonoetic-consciousness]] — Mental time travel and the temporally extended self
 - [[buddhism-and-dualism]] — Buddhist no-self and the Map's irreducibility thesis

@@ -4,7 +4,7 @@ description: "Does consciousness vary in nature, in coupling mechanism, or both?
 created: 2026-02-01
 modified: 2026-03-07
 human_modified: null
-ai_modified: 2026-03-17T19:29:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,7 +18,7 @@ concepts:
   - "[[access-consciousness]]"
   - "[[types-of-consciousness]]"
   - "[[attention-as-interface]]"
-  - "[[interface-locality]]"
+  - "[[brain-interface-boundary]]"
   - "[[neural-correlates-of-consciousness]]"
   - "[[emotion-and-dualism]]"
   - "[[altered-states-of-consciousness]]"
@@ -86,7 +86,7 @@ Octopus consciousness presents a striking case for exploring the nature-vs-coupl
 
 The octopus nervous system distributes two-thirds of its neurons in the arms, which exhibit semi-autonomous behaviour. An octopus arm can solve simple problems even when severed. This is primarily a coupling question: could cephalopod consciousness couple through a distributed mechanism, with multiple localised coupling points rather than a single unified one? The nature of the conscious entity involved is a separate question—it might be the same type as vertebrate consciousness, coupled differently.
 
-For the Map, this connects to [[interface-locality]]—the question of why consciousness selects only within its own brain. If coupling is spatially local, cephalopod architecture might support multiple coupling points, each with partial phenomenal unity. Or the system might achieve centralised consciousness despite distributed processing, funnelling through a unified coupling point. Both options remain entirely speculative.
+For the Map, this connects to [[brain-interface-boundary]]—the question of why consciousness selects only within its own brain. If coupling is spatially local, cephalopod architecture might support multiple coupling points, each with partial phenomenal unity. Or the system might achieve centralised consciousness despite distributed processing, funnelling through a unified coupling point. Both options remain entirely speculative.
 
 ### Insect Consciousness: Minimal Coupling or Different Nature?
 
@@ -136,7 +136,7 @@ This reframes the comparative question twice over. Instead of asking only "does 
 
 ### Emotional vs. Cognitive Consciousness
 
-[[Emotional-consciousness|Emotional consciousness]] and cognitive consciousness may differ in nature, coupling, or both. Affective neuroscience suggests emotional experience arises from subcortical structures (Panksepp's primary emotional systems) while cognitive consciousness correlates with cortical processing.
+[[emotional-consciousness|Emotional consciousness]] and cognitive consciousness may differ in nature, coupling, or both. Affective neuroscience suggests emotional experience arises from subcortical structures (Panksepp's primary emotional systems) while cognitive consciousness correlates with cortical processing.
 
 The coupling difference is clear: different neural sites and mechanisms. But the valenced character of emotion—its intrinsic goodness or badness—might reflect a difference in *nature*, not just coupling. The felt quality of pain seems categorically different from the felt quality of visual perception—possibly indicating different types of conscious entity rather than the same consciousness coupled at different neural sites.
 
@@ -148,7 +148,7 @@ Different sensory modalities produce qualitatively distinct experiences. Visual,
 
 On a same-nature, same-coupling model, modality differences arise entirely from which neural content reaches a single coupling point—different inputs, same interface. On a different-coupling model, each modality might involve distinct consciousness-matter coupling—visual consciousness coupling through visual cortex quantum processes, auditory through different mechanisms. The nature of the conscious entity could be the same in both cases.
 
-The binding problem complicates any different-coupling model. Unified experience integrates multiple modalities—we perceive a dog as a single object, not separate visual and auditory streams. If different modalities used different coupling mechanisms, binding would require coordination across them. [[quantum-binding-and-phenomenal-unity|Quantum entanglement]] might provide such coordination, linking coupling channels into unified experience.
+The binding problem complicates any different-coupling model. Unified experience integrates multiple modalities—we perceive a dog as a single object, not separate visual and auditory streams. If different modalities used different coupling mechanisms, binding would require coordination across them. [[quantum-holism-and-phenomenal-unity|Quantum entanglement]] might provide such coordination, linking coupling channels into unified experience.
 
 ## Temporal Variation in Coupling
 
@@ -221,7 +221,7 @@ Several findings would constrain the nature-vs-coupling question:
 ### Interface Mechanisms
 - [[quantum-consciousness]] — Orch OR, Stapp's Zeno effect, Fisher's hypothesis
 - [[attention-as-interface]] — How attention mediates consciousness-matter coupling
-- [[interface-locality]] — Why consciousness selects only within its own brain
+- [[brain-interface-boundary]] — Why consciousness selects only within its own brain
 
 ### Types of Consciousness
 - [[types-of-consciousness]] — Structural taxonomy: phenomenal, access, monitoring, and dissociable features

@@ -4,7 +4,7 @@ description: "The measurement problem is not a deficiency in quantum mechanics b
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-15T07:30:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -67,7 +67,7 @@ This is what makes the measurement problem distinctive. After a century, no with
 
 Decoherence is sometimes presented as a solution to the measurement problem. It is not — but its partial success *strengthens* the disclosure reading.
 
-[[Decoherence]] explains why macroscopic superpositions vanish. Through interaction with the environment, quantum coherence leaks away on timescales of 10⁻³⁰ seconds or less for everyday objects. Decoherence selects the *basis* — which observables become definite — and explains why we never see cats in superposition. This is a genuine and substantial physical achievement.
+[[decoherence]] explains why macroscopic superpositions vanish. Through interaction with the environment, quantum coherence leaks away on timescales of 10⁻³⁰ seconds or less for everyday objects. Decoherence selects the *basis* — which observables become definite — and explains why we never see cats in superposition. This is a genuine and substantial physical achievement.
 
 What decoherence does not explain is why *this particular* outcome occurs. As Tomaz et al. note: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured" (2025).
 

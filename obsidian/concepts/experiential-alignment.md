@@ -4,7 +4,7 @@ description: "AI should target experiential quality, not preference satisfaction
 created: 2026-01-17
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-03-11T16:41:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[purpose-and-alignment]]"
@@ -158,7 +158,7 @@ The objective includes governance as part of its specification—without which a
 
 ## The Illusionist Challenge
 
-[[Illusionism]]—the view that phenomenal consciousness is an introspective illusion—presents the most radical objection to experiential alignment. If there is no phenomenal experience to target, the entire framework collapses.
+[[illusionism]]—the view that phenomenal consciousness is an introspective illusion—presents the most radical objection to experiential alignment. If there is no phenomenal experience to target, the entire framework collapses.
 
 ### The Regress Response
 
@@ -184,7 +184,7 @@ The eight experiential dimensions are not merely theoretical constructs—they c
 
 ### Witness Consciousness and Experiential Access
 
-[[Witness-consciousness]] traditions (Advaita Vedanta's *sakshi*, Buddhist *sati*) systematically cultivate the capacity to observe experiential states. Practitioners report accessing:
+[[witness-consciousness]] traditions (Advaita Vedanta's *sakshi*, Buddhist *sati*) systematically cultivate the capacity to observe experiential states. Practitioners report accessing:
 
 - **Hedonic valence** as the pleasure-pain axis present even in subtle experience
 - **Suffering** as distinct from mere pain—an existential quality involving resistance and contraction
@@ -195,7 +195,7 @@ These are not inferences from behaviour but direct phenomenological observations
 
 ### The Buddhist Complication
 
-[[Buddhism-and-dualism|Buddhist perspectives]] introduce an important nuance. While phenomenal value realism grounds experiential alignment, Buddhist analysis suggests attachment to positive experiences itself causes suffering. The second noble truth identifies *tanha* (craving) as the origin of suffering—including craving for pleasant experience.
+[[buddhism-and-dualism|Buddhist perspectives]] introduce an important nuance. While phenomenal value realism grounds experiential alignment, Buddhist analysis suggests attachment to positive experiences itself causes suffering. The second noble truth identifies *tanha* (craving) as the origin of suffering—including craving for pleasant experience.
 
 This doesn't undermine experiential alignment but refines it. The framework's diversity maintenance principle—preserving experiential variety rather than maximizing any single dimension—resonates with Buddhist middle way thinking. The suffering floor doesn't mandate maximizing pleasure; it mandates preventing extreme suffering. The meaning and agency dimensions may be satisfied through equanimity rather than hedonic maximization.
 
@@ -209,7 +209,7 @@ Experiential alignment follows directly from the Map's foundational commitments,
 
 **[[tenets#^dualism|Dualism]]**: If consciousness is fundamental and irreducible, experiential quality is not derivable from physical description alone. First-person methods are necessary, not merely convenient. Behavioural proxies cannot substitute for the experiential target. The [[illusionism|illusionist]] alternative—that phenomenal consciousness is an illusion—would collapse experiential alignment into sophisticated preferentism. But the regress argument applies: even the "illusion" of suffering has a felt quality that cannot be eliminated by relabeling. The Map's dualism ensures that experience is real enough to serve as an alignment target.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The agency dimension connects directly to the Map's position on how consciousness influences the physical world. If consciousness operates through quantum selection (biasing otherwise indeterminate outcomes), then genuine agency involves this selection mechanism—not mere phenomenal appearance of agency. Experiential alignment's agency preservation requirement gains concrete meaning: we should preserve the conditions under which consciousness can exercise its quantum interface. [[Decoherence]] considerations apply here—if AI systems create environments that disrupt the neural quantum mechanisms through which agency operates, they undermine genuine agency even while providing phenomenal simulations. This is why the agency dimension cannot be reduced to "feeling" agentic.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The agency dimension connects directly to the Map's position on how consciousness influences the physical world. If consciousness operates through quantum selection (biasing otherwise indeterminate outcomes), then genuine agency involves this selection mechanism—not mere phenomenal appearance of agency. Experiential alignment's agency preservation requirement gains concrete meaning: we should preserve the conditions under which consciousness can exercise its quantum interface. [[decoherence]] considerations apply here—if AI systems create environments that disrupt the neural quantum mechanisms through which agency operates, they undermine genuine agency even while providing phenomenal simulations. This is why the agency dimension cannot be reduced to "feeling" agentic.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness causally influences the physical world, agency is not just phenomenal appearance but real efficacy. Alignment should preserve genuine agency, not agency illusions. The experiential dimension of agency tracks something real: the conscious selection of outcomes. This is why the framework requires distinguishing:
 
@@ -218,7 +218,7 @@ Experiential alignment follows directly from the Map's foundational commitments,
 
 Preferentist approaches that satisfy phenomenal agency while eliminating causal agency would fail experiential alignment even if subjects reported satisfaction. The person who "feels" in control while being systematically manipulated lacks genuine agency regardless of their preferences.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: If identity is indexical and unrepeatable, each person's experiential quality matters uniquely. [[Haecceity]]—the non-qualitative property of being *this* particular conscious subject—grounds why aggregate statistics cannot substitute for individual experience. The person suffering is *this* person, not an instance of a type. A many-worlds framework where "all outcomes occur" provides no resources for preferring one branch's experiential quality over another's. The Map's rejection of many-worlds thus supports experiential alignment's suffering floor requirement: we cannot excuse extreme suffering in some individuals by pointing to aggregate flourishing, because each individual's haecceity makes their suffering uniquely theirs.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: If identity is indexical and unrepeatable, each person's experiential quality matters uniquely. [[haecceity]]—the non-qualitative property of being *this* particular conscious subject—grounds why aggregate statistics cannot substitute for individual experience. The person suffering is *this* person, not an instance of a type. A many-worlds framework where "all outcomes occur" provides no resources for preferring one branch's experiential quality over another's. The Map's rejection of many-worlds thus supports experiential alignment's suffering floor requirement: we cannot excuse extreme suffering in some individuals by pointing to aggregate flourishing, because each individual's haecceity makes their suffering uniquely theirs.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The preferentist approach is simpler—learn from choices, maximize satisfaction. Experiential alignment accepts that the target is harder to specify, harder to measure, and harder to optimize. But this complexity reflects the genuine difficulty of the target:
 

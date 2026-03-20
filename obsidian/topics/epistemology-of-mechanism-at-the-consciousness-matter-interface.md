@@ -4,7 +4,7 @@ description: "What kind of knowledge is possible about how consciousness interac
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-02-22T05:31:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,7 +15,7 @@ concepts:
   - "[[psychophysical-laws]]"
   - "[[causal-closure]]"
   - "[[attention-as-interface]]"
-  - "[[selection-laws]]"
+  - "[[psychophysical-laws]]"
 related_articles:
   - "[[tenets]]"
   - "[[the-interface-specification-problem]]"
@@ -39,7 +39,7 @@ Mechanistic explanation in science works by decomposing a phenomenon into compon
 
 At the consciousness-matter interface, this strategy faces a categorical challenge. The "components" on one side are physical—neurons, ion channels, quantum states. The "components" on the other side are phenomenal—experiences, intentions, felt qualities. A mechanistic account of their interaction would need to specify operations that span two ontologically distinct domains. But operations, in the mechanistic framework, are defined by their physical implementation. An operation that begins in the phenomenal and terminates in the physical is not an operation in any standard scientific sense—it is precisely the thing that needs explaining.
 
-This does not show that mechanistic explanation is impossible here. It shows that applying it requires extending the concept of mechanism beyond its established scientific use—a challenge that [[consciousness-and-the-philosophy-of-explanation|extends to other explanatory frameworks]] as well. The Map's proposed [[selection-laws]]—laws governing how phenomenal states determine quantum outcomes—represent exactly such an extension. They preserve the structure of mechanistic explanation (specifiable inputs, lawful transformations, determinate outputs) while acknowledging that the inputs are phenomenal rather than physical. Whether this extension is legitimate or a category error is itself an epistemological question that cannot be settled in advance.
+This does not show that mechanistic explanation is impossible here. It shows that applying it requires extending the concept of mechanism beyond its established scientific use—a challenge that [[consciousness-and-the-philosophy-of-explanation|extends to other explanatory frameworks]] as well. The Map's proposed [[psychophysical-laws]]—laws governing how phenomenal states determine quantum outcomes—represent exactly such an extension. They preserve the structure of mechanistic explanation (specifiable inputs, lawful transformations, determinate outputs) while acknowledging that the inputs are phenomenal rather than physical. Whether this extension is legitimate or a category error is itself an epistemological question that cannot be settled in advance.
 
 One further caveat: this entire framework assumes quantum mechanics involves genuine outcome selection—that is, wavefunction collapse. Under the [[concepts/many-worlds|Many-Worlds Interpretation]], all quantum outcomes occur in different branches and there are no outcomes to "select." The Map's [[tenets#^no-many-worlds|rejection of Many-Worlds]] is therefore not peripheral to the epistemology—it is a precondition for the problem as formulated here.
 
@@ -131,7 +131,7 @@ The Map's honest assessment: the epistemology of mechanism at the interface is c
 
 - [[the-interface-specification-problem]] — What a complete specification of the interface must contain
 - [[psychophysical-laws-bridging-mind-and-matter]] — How psychophysical laws bridge mind and matter
-- [[selection-laws]] — What selection laws must specify and candidate formulations
+- [[psychophysical-laws]] — What selection laws must specify and candidate formulations
 - [[mental-causation]] — The broader case for consciousness causing physical effects
 - [[history-of-interactionist-dualism]] — From Descartes to contemporary quantum approaches
 - [[epistemology-of-convergence-arguments]] — When and how convergence carries evidential weight

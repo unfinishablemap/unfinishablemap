@@ -4,7 +4,7 @@ description: "The thesis that consciousness depends on functional organization a
 created: 2026-01-19
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-03-19T07:09:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -130,7 +130,7 @@ A "conscious" AI would be worse than a zombie. Zombies lack consciousness but be
 
 ## The Illusionist Challenge
 
-[[Illusionism]]—the view that phenomenal consciousness is an introspective illusion—offers the most radical challenge to the substrate independence critique. If there are no genuine qualia, the absent qualia objection dissolves.
+[[illusionism]]—the view that phenomenal consciousness is an introspective illusion—offers the most radical challenge to the substrate independence critique. If there are no genuine qualia, the absent qualia objection dissolves.
 
 The illusionist challenge faces a fundamental difficulty. If phenomenal consciousness is an illusion, something must experience the illusion. Raymond Tallis's formulation: "Misrepresentation presupposes presentation." The illusionist cannot coherently deny that there's something it's like to be us while using "seeming" language that presupposes exactly this.
 

@@ -4,7 +4,7 @@ description: "Ned Block's argument that phenomenal consciousness exceeds cogniti
 created: 2026-01-28
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-03-02T08:06:00+00:00
+ 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-03-02T08:06:00+00:00
 draft: false
 topics:
@@ -111,7 +111,7 @@ The overflow debate isn't merely empirical—it has theoretical stakes for under
 
 ### For Global Workspace Theory
 
-[[Global-workspace-theory|GWT]] explains A-consciousness: information becomes globally broadcast through prefrontal-parietal ignition, making it available for reasoning, report, and action. If phenomenology equals access, GWT would be a complete theory of consciousness.
+[[global-workspace-theory|GWT]] explains A-consciousness: information becomes globally broadcast through prefrontal-parietal ignition, making it available for reasoning, report, and action. If phenomenology equals access, GWT would be a complete theory of consciousness.
 
 But if overflow is real, GWT explains only *part* of consciousness. The unaccessed phenomenal field—what you experience but can't report—lies outside GWT's explanatory scope. This limits GWT to being a theory of access, not phenomenology.
 
@@ -123,7 +123,7 @@ The overflow argument strengthens anti-functionalist arguments like [[inverted-q
 
 ### For Illusionism
 
-[[Illusionism]] holds that phenomenal consciousness is an illusion—we represent ourselves as having irreducible experiential qualities when we don't. Illusionism aligns with deflationary readings of overflow: the *sense* of rich phenomenology is just another functional state, not evidence of genuine phenomenology beyond function.
+[[illusionism]] holds that phenomenal consciousness is an illusion—we represent ourselves as having irreducible experiential qualities when we don't. Illusionism aligns with deflationary readings of overflow: the *sense* of rich phenomenology is just another functional state, not evidence of genuine phenomenology beyond function.
 
 If overflow is real, illusionism must explain why we would systematically represent ourselves as having richer experience than we do. The illusion would need to be not merely about *having* phenomenology but about phenomenology *exceeding* access—a more elaborate error.
 
@@ -144,9 +144,9 @@ Each shows phenomenal properties are not identical to functional properties. If 
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] holds that consciousness causally influences the physical world. Overflow complicates but doesn't undermine this claim.
 
-If phenomenology exceeds access, what role does the "extra" phenomenology play? One possibility: the overflowing phenomenal field is where consciousness operates most fundamentally. [[Attention-as-interface|Attention selects]] from this field what enters access—and attention may be where consciousness exercises causal influence.
+If phenomenology exceeds access, what role does the "extra" phenomenology play? One possibility: the overflowing phenomenal field is where consciousness operates most fundamentally. [[attention-as-interface|Attention selects]] from this field what enters access—and attention may be where consciousness exercises causal influence.
 
-On this view, the rich phenomenal field is the stage; attention is conscious selection; access is the downstream result. [[Stapp-quantum-mind|Stapp's quantum Zeno model]] proposes a specific mechanism: sustained attention (rapid repeated observations) could bias quantum indeterminacies toward particular neural patterns, determining what gets selected from the phenomenal field for access and action. Whether or not this specific mechanism is correct, the structural point remains: overflow suggests phenomenology is primary, and access is the result of conscious selection from richer phenomenal material.
+On this view, the rich phenomenal field is the stage; attention is conscious selection; access is the downstream result. [[stapp-quantum-mind|Stapp's quantum Zeno model]] proposes a specific mechanism: sustained attention (rapid repeated observations) could bias quantum indeterminacies toward particular neural patterns, determining what gets selected from the phenomenal field for access and action. Whether or not this specific mechanism is correct, the structural point remains: overflow suggests phenomenology is primary, and access is the result of conscious selection from richer phenomenal material.
 
 ### Occam's Razor Has Limits
 

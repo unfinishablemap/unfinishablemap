@@ -4,7 +4,7 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-03-20T02:19:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics: []
 concepts:
@@ -35,13 +35,13 @@ concepts:
   - "[[emergence]]"
   - "[[idealism]]"
   - "[[pairing-problem]]"
-  - "[[psychophysical-coupling]]"
+  - "[[psychophysical-laws]]"
   - "[[semantic-memory]]"
   - "[[cognitive-phenomenology]]"
   - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[witness-consciousness]]"
   - "[[altered-states-of-consciousness]]"
-  - "[[substrate-independence-critique]]"
+  - "[[substrate-independence]]"
   - "[[introspection]]"
   - "[[decoherence]]"
   - "[[buddhism-and-dualism]]"
@@ -167,9 +167,9 @@ See [[concepts/materialism]] for detailed treatment of each position.
 
 ### Substrate Independence Fails
 
-If the explanatory gap is real, [[substrate-independence-critique|substrate independence]] is false. Functional organization supervenes on physical arrangements—if physical facts don't explain phenomenal facts, neither does functional organization.
+If the explanatory gap is real, [[substrate-independence|substrate independence]] is false. Functional organization supervenes on physical arrangements—if physical facts don't explain phenomenal facts, neither does functional organization.
 
-Block's (1978) China brain illustrates: the entire population implementing a brain's functional organization. If this doesn't suffice for China, why should it suffice for silicon? See [[substrate-independence-critique]] for the full argument.
+Block's (1978) China brain illustrates: the entire population implementing a brain's functional organization. If this doesn't suffice for China, why should it suffice for silicon? See [[substrate-independence]] for the full argument.
 
 ### Epiphenomenalism
 
@@ -181,7 +181,7 @@ Block's (1978) China brain illustrates: the entire population implementing a bra
 
 ### Chalmers' Psychophysical Framework
 
-Chalmers proposes that consciousness requires new *fundamental laws*—psychophysical principles bridging phenomenal and physical domains. His three principles (Structural Coherence, Organizational Invariance, Double-Aspect Information) specify constraints on what a solution would look like. In "Consciousness and the Collapse of the Wave Function" (2022), Chalmers and McQueen develop a quantum version, arguing that consciousness cannot be superposed. The Map's [[psychophysical-coupling]] builds on this framework.
+Chalmers proposes that consciousness requires new *fundamental laws*—psychophysical principles bridging phenomenal and physical domains. His three principles (Structural Coherence, Organizational Invariance, Double-Aspect Information) specify constraints on what a solution would look like. In "Consciousness and the Collapse of the Wave Function" (2022), Chalmers and McQueen develop a quantum version, arguing that consciousness cannot be superposed. The Map's [[psychophysical-laws]] builds on this framework.
 
 ### Russellian Monism
 
@@ -237,7 +237,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 - [[explanatory-gap]] — Levine's formulation and physicalist responses
 - [[concepts/materialism]] — Why physicalist explanations fail
 - [[arguments/materialism-argument|Against Materialism]] — Focused argument from hard problem, zombies, and quantum indeterminacy
-- [[substrate-independence-critique]] — Why the hard problem entails substrate skepticism
+- [[substrate-independence]] — Why the hard problem entails substrate skepticism
 - [[combination-problem]] — Panpsychism's parallel challenge
 - [[mysterianism]] — McGinn's cognitive closure thesis
 - [[intrinsic-nature-void]] — Why physics describes only structure, leaving intrinsic nature unknowable

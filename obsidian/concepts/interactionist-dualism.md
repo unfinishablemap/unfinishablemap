@@ -4,13 +4,13 @@ description: "Mind and body are distinct yet causally connected. Quantum indeter
 created: 2026-01-14
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-19T03:42:00+00:00
+ 2026-03-20T04:33:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
 concepts:
-  - "[[psychophysical-coupling]]"
+  - "[[psychophysical-laws]]"
   - "[[psychophysical-laws]]"
   - "[[evolution-of-consciousness]]"
   - "[[dualism]]"
@@ -28,7 +28,7 @@ concepts:
   - "[[binding-problem]]"
   - "[[causal-closure]]"
   - "[[multi-mind-collapse-problem]]"
-  - "[[interface-locality]]"
+  - "[[brain-interface-boundary]]"
   - "[[prebiotic-collapse]]"
   - "[[objections-to-interactionism]]"
   - "[[quantum-indeterminacy-free-will]]"
@@ -123,7 +123,7 @@ Kim asks: what pairs a particular mind with a particular body? If minds are non-
 
 ## The Multi-Mind Collapse Problem
 
-If consciousness causes quantum collapse, what happens when multiple minds observe the same system? The [[multi-mind-collapse-problem|solution]] combines [[interface-locality]] with [[prebiotic-collapse]]: each consciousness interfaces only with its own brain; external systems collapse through objective physical processes. Attention is neurally implemented—you cannot attend to distant quantum systems. No coordination is needed because each mind operates on its own substrate.
+If consciousness causes quantum collapse, what happens when multiple minds observe the same system? The [[multi-mind-collapse-problem|solution]] combines [[brain-interface-boundary]] with [[prebiotic-collapse]]: each consciousness interfaces only with its own brain; external systems collapse through objective physical processes. Attention is neurally implemented—you cannot attend to distant quantum systems. No coordination is needed because each mind operates on its own substrate.
 
 ## Quantum Interactionism
 
@@ -143,7 +143,7 @@ What would falsify quantum interactionism? (1) Proving quantum indeterminacy is 
 
 ## Psychophysical Coupling Mechanisms
 
-Beyond *where* consciousness interfaces with physics, interactionism must specify *which* phenomenal properties map to *which* physical selections. Five candidate [[psychophysical-coupling|mechanisms]] have been proposed, from attention→observation (most developed) to qualia→basis (speculative). Only attention and intention mechanisms meet basic scientific adequacy criteria. This specification challenge remains central to interactionism's scientific status.
+Beyond *where* consciousness interfaces with physics, interactionism must specify *which* phenomenal properties map to *which* physical selections. Five candidate [[psychophysical-laws|mechanisms]] have been proposed, from attention→observation (most developed) to qualia→basis (speculative). Only attention and intention mechanisms meet basic scientific adequacy criteria. This specification challenge remains central to interactionism's scientific status.
 
 ## The Decoherence Objection
 
@@ -215,7 +215,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 
 **Mechanisms:**
 - [[stapp-quantum-mind]] — Quantum Zeno mechanism for consciousness-brain interaction
-- [[psychophysical-coupling]] — How phenomenal properties map to physical selections
+- [[psychophysical-laws]] — How phenomenal properties map to physical selections
 - [[attention-as-interface]] — Attention as the causal interface
 - [[amplification-mechanisms-consciousness-physics]] — Six proposed mechanisms for bridging the quantum-to-neural gap
 - [[amplification-void]] — Why the quantum-to-neural chain is structurally untraceable
