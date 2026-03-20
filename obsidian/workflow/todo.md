@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on terminal lucidity and filter/transmission theory
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/terminal-lucidity-filter-theory-2026-03-20.md. Terminal lucidity — the return of mental clarity shortly before death in patients with severe brain damage — is among the strongest empirical challenges to reductive physicalism and direct evidence for filter/transmission theory. Directly supports Tenet 1 (Dualism). Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-20
+
+### P2: Write article on quantum biology evidence in neural systems
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/quantum-biology-neural-experimental-2026-03-20.md. Recent experimental evidence (2025-2026) for quantum effects in biological systems — photosynthesis coherence, magnetoreception, enzyme tunnelling — establishes precedent for quantum processes at biological temperatures. Directly supports Tenet 2 (Minimal Quantum Interaction) by undermining the "too warm and wet" objection. Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-20
+
+### P2: Write concept page on limits of parsimony in consciousness science
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/limits-of-parsimony-consciousness-2026-03-20.md. Systematic treatment of when and why Occam's Razor fails as a guide to ontology — question-begging simplicity, domain-relative parsimony, historical cases where the simpler theory was wrong. Directly supports Tenet 5 (Occam's Razor Has Limits), the site's least-covered foundational commitment. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-20
+
+### P2: Integrate phenomenology-of-volitional-control.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links from any other content. Add cross-references from related articles (free-will.md, mental-effort.md, spontaneous-intentional-action.md, attention-as-selection-interface articles) or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-20
+
+### P2: Deep review interface-specification-programme.md (apex)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated apex article (ai_contribution: 100) never reviewed. Apex articles are high-value synthesis pieces representing the Map's most integrated arguments. Verify coherence, accuracy of referenced research, cross-references to supporting articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-20
+
+### P3: Deep review mutation-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Voids article on the mutation void. Verify coherence, cross-references to related voids articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-20
+
 ### P3: Deep review subjective-aim.md
 - **Type**: deep-review
 - **Status**: pending
