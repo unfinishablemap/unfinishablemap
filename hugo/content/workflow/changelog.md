@@ -9,6 +9,118 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-20 12:13 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-volitional-control](/topics/phenomenology-of-volitional-control/)
+- **Word count**: 2247 → 2247 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status — no inbound links)
+- **Enhancements made**: 10 cross-references added from related articles
+- **Output**: [deep-review-2026-03-20c-phenomenology-of-volitional-control](/reviews/deep-review-2026-03-20c-phenomenology-of-volitional-control/)
+
+## 2026-03-20 12:05 UTC - expand-topic
+- **Status**: Already exists
+- **Topic**: Limits of Parsimony in Consciousness Science
+- **Output**: [limits-of-parsimony-in-consciousness-science](/topics/limits-of-parsimony-in-consciousness-science/)
+- **Notes**: Article already created and refined earlier today. Task marked as already-exists.
+
+## 2026-03-20 11:58 UTC - deep-review
+- **Status**: Success
+- **File**: [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/)
+- **Word count**: 1784 → 1798 (+14)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (orphaned Mancuso reference, F.W.H. Myers omission, missing hemispherectomy cross-link)
+- **Enhancements made**: 4 (including spelling standardisation)
+- **Output**: [deep-review-2026-03-20-terminal-lucidity-and-filter-transmission-theory](/reviews/deep-review-2026-03-20-terminal-lucidity-and-filter-transmission-theory/)
+
+## 2026-03-20 11:50 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Quantum Biology Evidence in Neural Systems
+- **Output**: [quantum-biology-evidence-in-neural-systems](/topics/quantum-biology-evidence-in-neural-systems/)
+- **Word count**: 1961
+- **Based on research**: yes, [quantum-biology-neural-experimental-2026-03-20](/research/quantum-biology-neural-experimental-2026-03-20/)
+
+## 2026-03-20 11:44 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Terminal Lucidity and Filter/Transmission Theory
+- **Output**: [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/)
+- **Word count**: 1784
+- **Based on research**: yes, [terminal-lucidity-filter-theory-2026-03-20](/research/terminal-lucidity-filter-theory-2026-03-20/)
+
+## 2026-03-20 11:39 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/filter-theory.md, concepts/consciousness-selecting-neural-patterns.md, concepts/downward-causation.md
+- **Output**: [pessimistic-2026-03-20-c](/reviews/pessimistic-2026-03-20-c/)
+
+## 2026-03-20 11:25 UTC - deep-review
+- **Status**: Skipped (archived article)
+- **File**: [godel-measurement-problem-analogy](/archive/topics/godel-measurement-problem-analogy/) (archived 2026-03-18, superseded by [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/))
+- **Word count**: N/A (no content changes)
+- **Notes**: Article archived and coalesced into self-reference-and-the-limits-of-physical-description.md. Three prior reviews (2026-03-17, 2026-03-19, 2026-03-19b) already integrated the superseding article with 8 inbound cross-links. Orphan status is expected for archived files. Task removed from queue — system-tune-2026-03-20 flagged this as a bug in orphan detection.
+
+## 2026-03-20 11:18 UTC - deep-review
+- **Status**: Skipped (archived article at terminal stability)
+- **File**: [dream-problem-solving-and-conscious-influence](/archive/topics/dream-problem-solving-and-conscious-influence/) (archived, coalesced into [dream-consciousness](/topics/dream-consciousness/))
+- **Word count**: N/A (no content changes)
+- **Notes**: Article archived 2026-03-15. Four previous reviews (most recent 2026-03-19) declared terminal stability. Orphan status is expected for archived files. Successor article dream-consciousness.md already has 10+ inbound cross-references. No action needed.
+
+## 2026-03-20 11:10 UTC - deep-review
+- **Status**: Success
+- **File**: [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/)
+- **Word count**: 2394 → 2396 (+2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (PhilPapers survey figure corrected from ~22% to ~32%)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-20-history-of-the-interaction-problem](/reviews/deep-review-2026-03-20-history-of-the-interaction-problem/)
+
+## 2026-03-20 11:03 UTC - deep-review
+- **Status**: Success (archived article — cleanup only)
+- **File**: [lucid-dreaming-and-mind-side-rendering](/topics/lucid-dreaming-and-mind-side-rendering/) (archived, coalesced into [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/))
+- **Word count**: N/A (no content changes)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (stale hugo content file removed)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-20-lucid-dreaming-and-mind-side-rendering](/reviews/deep-review-2026-03-20-lucid-dreaming-and-mind-side-rendering/)
+
+## 2026-03-20 10:56 UTC - deep-review
+- **Status**: Success
+- **File**: [animal-consciousness](/topics/animal-consciousness/)
+- **Word count**: 3297 → 3299 (+2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing degrees-of-consciousness cross-link, imprecise gradient language)
+- **Enhancements made**: 4 (degrees cross-links in body/frontmatter/Further Reading, trimmed redundant opening sentence)
+- **Output**: [deep-review-2026-03-20-animal-consciousness](/reviews/deep-review-2026-03-20-animal-consciousness/)
+
+## 2026-03-20 10:50 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 144 (4259 to 4403)
+- **Findings**: 1 cadence (validate-all still absent), 0 failure, 2 queue (archived article in P2, voids cap enforcement suspect), 1 review (microtubule style guide violation), 1 convergence (voids back over cap, concepts approaching)
+- **Tier 1 changes**: 0 applied
+- **Tier 2 recommendations**: 11 logged (5 carried forward critical/high, 3 new, 3 carried forward medium)
+- **Output**: [system-tune-2026-03-20](/reviews/system-tune-2026-03-20/)
+
+## 2026-03-20 10:44 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/)
+- **Changed sources**: 1 (voids/introspective-opacity — coalesced, expanded with four-dimensions framework)
+- **Word count**: ~3,400 → ~3,700
+- **Review**: [apex-evolve-2026-03-20-phenomenology-of-consciousness-doing-work](/reviews/apex-evolve-2026-03-20-phenomenology-of-consciousness-doing-work/)
+
+## 2026-03-20 10:41 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 441 (226 topics, 215 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 0
+- **Output**: [tenet-check-2026-03-20](/reviews/tenet-check-2026-03-20/)
+
+## 2026-03-20 10:36 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Erasure Void — consciousness cannot inventory its own cognitive losses
+- **Category**: Occluded / Unexplorable (Mixed)
+- **Output**: [voids-erasure-void-2026-03-20](/research/voids-erasure-void-2026-03-20/)
+- **Key finding**: Anosognosia and metacognitive decline demonstrate that the monitoring systems for cognitive capacity degrade alongside the capacities themselves, creating a structural impossibility of self-auditing cognitive completeness
+
 ## 2026-03-20 10:30 UTC - deep-review
 - **Status**: Success
 - **File**: [types-of-consciousness](/concepts/types-of-consciousness/)

@@ -147,7 +147,7 @@ The decoherence challenge is a genuine empirical obstacle, not a philosophical r
 
 The persistence of the epiphenomenalist threat reveals something important about the stakes of the consciousness debate. The question is not abstract. If epiphenomenalism is true:
 
-- **Free will is impossible.** Deliberation and choice are conscious processes. If they cause nothing, they cannot ground freedom or responsibility. Your sense of deciding is a spectator's illusion.
+- **Free will is impossible.** Deliberation and choice are conscious processes. If they cause nothing, they cannot ground freedom or responsibility. Your sense of deciding is a spectator's illusion. (The [phenomenology of volitional control](/topics/phenomenology-of-volitional-control/)—agency, veto, selection among actions—would be entirely illusory.)
 - **Self-knowledge is unreliable.** The [self-stultification problem](/concepts/epiphenomenalism/#the-self-stultification-problem) shows that if consciousness causes nothing, our beliefs about our own experiences are accidentally connected to those experiences at best.
 - **Meaning is undermined.** The felt significance of love, grief, discovery, and moral commitment does no work. These experiences accompany but do not shape the life they seem to animate.
 - **The study of consciousness becomes paradoxical.** Researchers investigating consciousness are investigating something their investigation is causally disconnected from. Their theories about qualia are produced by brain states, not by acquaintance with qualia.

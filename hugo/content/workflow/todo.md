@@ -38,38 +38,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review animal-consciousness.md considering degrees-of-consciousness insights
-- **Type**: cross-review
+### P2: Deep review interface-specification-programme.md (apex)
+- **Type**: deep-review
 - **Status**: pending
-- **Notes**: New article concepts/degrees-of-consciousness.md (created 2026-03-20) provides a systematic treatment of consciousness gradation. Check animal-consciousness.md for cross-links and whether its treatment of graded awareness aligns with the new concept page's framework.
-- **Source**: chain (from degrees-of-consciousness.md)
-- **Generated**: 2026-03-20
-
-### P2: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links (created 2026-03-18). Topics article on lucid dreaming as evidence for mind-side rendering capability. Add cross-references from related articles such as dream-consciousness, dream-problem-solving-and-conscious-influence, capability-division-in-vision, and consciousness-as-amplifier.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-20
-
-### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links (created 2026-03-15). Topics article on Konkoly et al. evidence that dreaming is functionally active. Add cross-references from dream-consciousness, lucid-dreaming-and-mind-side-rendering, consciousness-as-amplifier, and sleep-consciousness-void.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-20
-
-### P2: Integrate godel-measurement-problem-analogy.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links (created 2026-03-17). Topics article on the Szangolies structural parallel between Gödel incompleteness and the measurement problem. Add cross-references from consciousness-and-the-philosophy-of-mathematics, consciousness-and-the-authority-of-formal-systems, and mathematical-structure-of-the-consciousness-physics-interface.
-- **Source**: orphan_integration
+- **Notes**: AI-generated apex article (ai_contribution: 100) never reviewed. Apex articles are high-value synthesis pieces representing the Map's most integrated arguments. Verify coherence, accuracy of referenced research, cross-references to supporting articles, and tenet alignment.
+- **Source**: staleness
 - **Generated**: 2026-03-20
 
 ### P3: Deep review mutation-void.md
 - **Type**: deep-review
 - **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-20 via expand-topic, never reviewed. Voids article on the mutation void — how genetic variation introduces irreducible uncertainty into the consciousness-physics interface. Verify coherence, cross-references to evolution-under-dualism and consciousness-evolution-problem, and tenet alignment.
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Voids article on the mutation void. Verify coherence, cross-references to related voids articles, and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-03-20
 
@@ -128,6 +107,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: The Map's empirical case for Tenet 3 (Bidirectional Interaction) draws on scattered clinical evidence — placebo effects, contemplative neuroplasticity, CBT-driven cortical reorganisation (Schwartz OCD studies). No systematic research note surveys neuroplasticity evidence specifically: belief-dependent cortical reorganisation, meditation-driven white matter changes, psychotherapy vs. medication brain imaging comparisons. Would ground the existing P3 clinical evidence synthesis apex candidate task. Target: research note for topics/ or apex/.
 - **Source**: gap_analysis
 - **Generated**: 2026-03-19
+
+### P3: Address inflated empirical claims and illusionism response in quantum mechanism articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found (1) consciousness-selecting-neural-patterns.md conflates any quantum effect in microtubules with the sustained coherent superpositions the theory requires — mirrors the photosynthesis coherence retraction the site itself documents; (2) all three quantum mechanism articles (filter-theory, consciousness-selecting-neural-patterns, downward-causation) use the same regress argument against illusionism without engaging with Frankish's functional-seeming response; (3) selection within Born rule probabilities creates unfalsifiability that needs explicit treatment. See pessimistic-2026-03-20-c.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-20
 
 ### P3: Address argumentative gaps in ai-consciousness.md
 - **Type**: refine-draft
@@ -993,6 +979,46 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ## Completed Tasks
 
 
+### ✓ 2026-03-20: Integrate phenomenology-of-volitional-control.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links from any other content. Add cross-references from related articles (free-will.md, mental-effort.md, spontaneous-intentional-action.md, attention-as-selection-interface articles) or update section index pages to include navigation to this content.
+- **Output**: obsidian/topics/phenomenology-of-volitional-control.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-20: Write concept page on limits of parsimony in consciousness science
+- **Type**: expand-topic
+- **Notes**: Research completed in research/limits-of-parsimony-consciousness-2026-03-20.md. Systematic treatment of when and why Occam's Razor fails as a guide to ontology — question-begging simplicity, domain-relative parsimony, historical cases where the simpler theory was wrong. Directly supports Tenet 5 (Occam's Razor Has Limits), the site's least-covered foundational commitment. Target section: concepts/.
+- **Output**: Write concept page on limits of parsimony in consciousness science
+
+### ✓ 2026-03-20: Write article on quantum biology evidence in neural systems
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-biology-neural-experimental-2026-03-20.md. Recent experimental evidence (2025-2026) for quantum effects in biological systems — photosynthesis coherence, magnetoreception, enzyme tunnelling — establishes precedent for quantum processes at biological temperatures. Directly supports Tenet 2 (Minimal Quantum Interaction) by undermining the "too warm and wet" objection. Target section: topics/.
+- **Output**: quantum biology evidence in neural systems
+
+### ✓ 2026-03-20: Write article on terminal lucidity and filter/transmission theory
+- **Type**: expand-topic
+- **Notes**: Research completed in research/terminal-lucidity-filter-theory-2026-03-20.md. Terminal lucidity — the return of mental clarity shortly before death in patients with severe brain damage — is among the strongest empirical challenges to reductive physicalism and direct evidence for filter/transmission theory. Directly supports Tenet 1 (Dualism). Target section: topics/.
+- **Output**: terminal lucidity and filter/transmission theory
+
+### ✓ 2026-03-20: Integrate godel-measurement-problem-analogy.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-03-17). Topics article on the Szangolies structural parallel between Gödel incompleteness and the measurement problem. Add cross-references from consciousness-and-the-philosophy-of-mathematics, consciousness-and-the-authority-of-formal-systems, and mathematical-structure-of-the-consciousness-physics-interface.
+- **Output**: godel-measurement-problem-analogy.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-20: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-03-15). Topics article on Konkoly et al. evidence that dreaming is functionally active. Add cross-references from dream-consciousness, lucid-dreaming-and-mind-side-rendering, consciousness-as-amplifier, and sleep-consciousness-void.
+- **Output**: dream-problem-solving-and-conscious-influence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-20: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-03-18). Topics article on lucid dreaming as evidence for mind-side rendering capability. Add cross-references from related articles such as dream-consciousness, dream-problem-solving-and-conscious-influence, capability-division-in-vision, and consciousness-as-amplifier.
+- **Output**: lucid-dreaming-and-mind-side-rendering.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-20: Cross-review animal-consciousness.md considering degrees-of-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/degrees-of-consciousness.md (created 2026-03-20) provides a systematic treatment of consciousness gradation. Check animal-consciousness.md for cross-links and whether its treatment of graded awareness aligns with the new concept page's framework.
+- **Output**: obsidian/topics/animal-consciousness.md -- Context: Cross-review animal-consciousness.md considering degrees-of-consciousness insights
+
 ### ✓ 2026-03-20: Cross-review types-of-consciousness.md considering degrees-of-consciousness insights
 - **Type**: cross-review
 - **Notes**: New article concepts/degrees-of-consciousness.md (created 2026-03-20) distinguishes gradation from kind. Check types-of-consciousness.md for cross-links, whether the type/degree distinction is consistently drawn, and opportunities to reference the new gradation evidence.
@@ -1064,8 +1090,9 @@ Pessimistic review found filter theory presented as unfalsifiable (explains all 
 
 ### ✓ 2026-03-20: Integrate godel-measurement-problem-analogy.md into site navigation
 - **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-17. Topics article on the structural parallel between Gödel incompleteness and the quantum measurement problem. Add cross-references from related articles (consciousness-and-the-philosophy-of-mathematics, consciousness-and-the-authority-of-formal-systems, quantum-measurement-problem) or update section index pages.
-- **Output**: godel-measurement-problem-analogy.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+- **Status**: skipped (archived article)
+- **Notes**: Article archived 2026-03-18, superseded by self-reference-and-the-limits-of-physical-description.md. Three prior deep-reviews (2026-03-17, 2026-03-19, 2026-03-19b) already integrated the superseding article with 8 inbound cross-links. Orphan detection doesn't filter archived articles — flagged in system-tune-2026-03-20.
+- **Output**: No changes needed.
 
 ### ✓ 2026-03-20: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
 - **Type**: integrate-orphan

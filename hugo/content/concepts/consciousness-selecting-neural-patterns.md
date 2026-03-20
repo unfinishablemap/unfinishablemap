@@ -61,7 +61,7 @@ The brain offers several candidate "selection sites" where quantum effects might
 
 **Cortical microcolumn networks**: Keppler (2025) proposes that cortical microcolumns couple resonantly with the quantum electromagnetic zero-point field, forming coherence domains among which consciousness selects.
 
-**Attention networks** (Stapp): Mental effort corresponds to repeated "observations" that hold neural patterns in place via the quantum Zeno effect. Attention is the locus of selection—though the physics connecting attention-timescale events to femtosecond-timescale Zeno observations remains an open problem (see decoherence section below).
+**Attention networks** (Stapp): Mental effort corresponds to repeated "observations" that hold neural patterns in place via the quantum Zeno effect. Attention is the locus of selection—though the physics connecting attention-timescale events to femtosecond-timescale Zeno observations remains an open problem (see decoherence section below). The [phenomenology of volitional control](/topics/phenomenology-of-volitional-control/)—what it feels like when consciousness vetoes or selects—provides first-person evidence for this mechanism.
 
 **Consciousness-collapse with CSL dynamics** (Chalmers-McQueen): Collapse rate depends on integrated information—systems with more integrated information trigger faster collapse. Their key insight is the "super-resistance" problem: if consciousness triggers collapse, the Zeno effect would prevent transitions between conscious states. Their solution uses gradual CSL collapse rather than instantaneous projection, avoiding Zeno freezing while preserving consciousness's role as collapse trigger.
 

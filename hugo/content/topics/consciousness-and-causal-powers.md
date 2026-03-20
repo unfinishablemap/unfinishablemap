@@ -115,7 +115,7 @@ This requires [psychophysical-laws](/concepts/psychophysical-laws/)—psychophys
 
 ### Volitional Modulation
 
-Consciousness might modulate the strength of its own causal influence—what we experience as "trying harder" or "letting go." This meta-level causal power would explain the [phenomenology of effort](/topics/phenomenology-of-intellectual-effort/): the sense that we can choose how much conscious attention to devote to a task, how strongly to resist an impulse, how thoroughly to deliberate.
+The [phenomenology of volitional control](/topics/phenomenology-of-volitional-control/)—including conscious veto and the "whether" component of intentional action (Brass & Haggard 2007)—provides direct evidence that consciousness modulates its own causal engagement. Consciousness might modulate the strength of its own causal influence—what we experience as "trying harder" or "letting go." This meta-level causal power would explain the [phenomenology of effort](/topics/phenomenology-of-intellectual-effort/): the sense that we can choose how much conscious attention to devote to a task, how strongly to resist an impulse, how thoroughly to deliberate.
 
 The phenomenology here is instructive. Resisting a strong impulse feels effortful in a way that going along with it does not. Maintaining focus on a boring task requires something that letting attention wander does not. These phenomenological differences suggest that consciousness can vary its causal engagement—that the intensity of phenomenal effort corresponds to the strength of causal influence on neural outcomes.
 

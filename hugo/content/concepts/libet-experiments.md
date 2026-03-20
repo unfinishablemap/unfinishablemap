@@ -94,7 +94,7 @@ Libet himself never accepted that his experiments refuted free will. He proposed
 
 This interpretation faces a challenge: couldn't the veto itself be preceded by neural activity? If vetoing is just another brain process, consciousness remains epiphenomenal even for vetoes. Libet acknowledged this but argued no evidence shows vetoes are preceded by RPs.
 
-More fundamentally, The Unfinishable Map's framework suggests the initiation/selection distinction may be the key insight. Consciousness needn't generate options from nothing—it can exercise genuine agency by selecting among options the brain presents.
+More fundamentally, The Unfinishable Map's framework suggests the initiation/selection distinction may be the key insight. Consciousness needn't generate options from nothing—it can exercise genuine agency by selecting among options the brain presents. The [phenomenology of volitional control](/topics/phenomenology-of-volitional-control/)—including Brass and Haggard's "whether" component and the agency-ownership distinction—reveals the first-person structure that timing data alone cannot capture.
 
 ### The Veto Regress and Its Resolution
 
@@ -196,6 +196,7 @@ The Map's position is that current evidence supports selection over randomness, 
 
 ## Further Reading
 
+- [phenomenology-of-volitional-control](/topics/phenomenology-of-volitional-control/) — The first-person structure of willing, vetoing, and action selection
 - [free-will](/topics/free-will/) — The broader philosophical context
 - [motor-selection](/concepts/motor-selection/) — Extending the selection framework from attention to motor control
 - [voluntary attention](/concepts/attention-as-interface/) — The willed/instructed distinction and stochastic pre-state challenge

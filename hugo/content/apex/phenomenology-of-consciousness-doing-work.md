@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-08 13:37:00+00:00
+ai_modified: 2026-03-20 10:44:00+00:00
 ai_system: claude-opus-4-6
-apex_last_synthesis: 2026-02-23 12:07:00+00:00
+apex_last_synthesis: 2026-03-20 10:44:00+00:00
 apex_sources:
 - topics/phenomenology-of-agency-vs-passivity
 - topics/consciousness-and-causal-powers
@@ -12,7 +12,7 @@ apex_sources:
 - topics/cross-cultural-phenomenology-of-agency
 - concepts/mental-effort
 - concepts/phenomenology-of-choice
-- concepts/volitional-opacity
+- voids/introspective-opacity
 - concepts/attention-as-interface
 apex_thesis: The felt texture of consciousness in action — effort, selection, holding,
   and opacity — constitutes a coherent phenomenological profile that cross-cultural
@@ -21,7 +21,7 @@ author: null
 concepts:
 - '[[mental-effort]]'
 - '[[phenomenology-of-choice]]'
-- '[[introspective-opacity|volitional opacity]]'
+- '[[introspective-opacity]]'
 - '[[attention-as-interface]]'
 created: 2026-02-23
 date: &id001 2026-02-23
@@ -88,9 +88,13 @@ The holding dimension connects to the Map's account of [causal powers](/topics/c
 
 The fourth feature is conspicuous by its absence. We experience effort, selection, and holding — but we never experience *how* any of these produce their effects. The [mechanism connecting will to action](/voids/introspective-opacity/) is phenomenologically invisible. You decide to raise your arm, and your arm rises. Between the intention and the execution there is a gap — not a temporal gap (the sequence is smooth) but an experiential one. You cannot introspect the causal interface.
 
-This opacity is not a failure of attention or a cultural artefact. It appears universally across traditions. The Western phenomenologist cannot observe how willing produces movement. The Daoist cannot explain how *wu wei* works. The Buddhist meditator, refining introspective access to ever finer granularity, still cannot point to the mechanism by which intentions produce physical effects. As the [cross-cultural phenomenology of agency](/topics/cross-cultural-phenomenology-of-agency/) documents, the gap between willing and doing is invisible everywhere.
+The expanded treatment of [introspective opacity](/voids/introspective-opacity/) reveals that this gap has four distinct dimensions. *Temporal opacity*: by the time introspection occurs, the act of willing has already passed — James compared it to "seizing a spinning top to catch its motion." *Process opacity*: we access the products of cognition (the decision reached, the action taken) but never the production — the computations remain dark. *Mechanism opacity*: even metacognitive reflection yields descriptions ("I thought about it differently") but no actual mechanisms. *Ontological opacity*: consciousness cannot objectify its own willing without transforming it — Sartre's insight that the for-itself is fundamentally not an object applies with particular force to volitional acts.
 
-The Map treats this as a genuine void — a boundary of the knowable rather than a temporary ignorance. If consciousness operates at quantum indeterminacies in neural systems, the interface is at a scale and of a nature that phenomenological access cannot reach. We experience the inputs (intention, attention, effort) and the outputs (action, sustained focus, selected outcomes) but not the transduction between phenomenal and physical domains. The opacity is what you would expect if the interface operates below the resolution of introspection.
+This four-dimensional opacity is not a failure of attention or a cultural artefact. It appears universally across traditions. The Western phenomenologist cannot observe how willing produces movement. The Daoist cannot explain how *wu wei* works. The Buddhist meditator, refining introspective access to ever finer granularity, discovers more *characteristics* of volitional states without gaining access to their generative mechanisms. As the [cross-cultural phenomenology of agency](/topics/cross-cultural-phenomenology-of-agency/) documents, the gap between willing and doing is invisible everywhere.
+
+A striking corollary is the *transparency illusion*: despite this structural opacity, we *feel* transparent to ourselves. We feel we know why we act, how we decide, what moves us. Wegner called this the mind's "best trick" — fabricated explanations feel no different from veridical ones. Nisbett and Wilson's classic experiments demonstrated the disconnect: subjects who chose stockings based on position effects confabulated elaborate reasons involving quality and colour. They had access to the content of their choice but not the process that determined it. Choice blindness experiments extend the finding — when choices are secretly switched, subjects confabulate reasons for decisions they never made with equal confidence. The opacity is not merely present; it is invisible from within.
+
+The Map treats this as a genuine void — a boundary of the knowable rather than a temporary ignorance. If consciousness operates at quantum indeterminacies in neural systems, the interface is at a scale and of a nature that phenomenological access cannot reach. We experience the inputs (intention, attention, effort) and the outputs (action, sustained focus, selected outcomes) but not the transduction between phenomenal and physical domains. The opacity is what you would expect if the interface operates below the resolution of introspection — and the transparency illusion is what you would expect if the system were designed for action, not self-observation.
 
 ## Test Cases
 
@@ -122,7 +126,7 @@ Contemplative evidence also bears on the opacity feature. Buddhist traditions de
 
 ## The Universal Core
 
-The [cross-cultural evidence](/topics/cross-cultural-phenomenology-of-agency/) converges on a claim the Map takes as significant: despite radical variation in how cultures frame agency (Markus & Kitayama, 1991), the phenomenological profile of consciousness doing work persists. Three invariants emerge across independent traditions.
+If the four features were culturally constructed — if "effort" and "selection" were Western folk-psychological categories imposed on experience — cross-cultural variation should dissolve or transform them. The [cross-cultural evidence](/topics/cross-cultural-phenomenology-of-agency/) converges on the opposite claim, which the Map takes as significant: despite radical variation in how cultures frame agency (Markus & Kitayama, 1991), the phenomenological profile of consciousness doing work persists. Three invariants emerge across independent traditions.
 
 First, the contrast between doing and undergoing. Whether framed as effortful willing (Western), effortless action (*wu wei*, Daoist), or conditioned arising without permanent self (Buddhist), every tradition preserves the felt difference between voluntary action and mere happening. A hand rising because you raise it differs experientially from a hand lifted by someone else, regardless of cultural framework.
 
@@ -138,7 +142,7 @@ The four features — effort, selection, holding, opacity — form a coherent pr
 
 **Phenomenological analysis** (choice, agency-passivity) identifies the features from first-person investigation. **Neuroscience** (willed-instructed attention distinction, LPFC-mediated imagery) provides third-person correlates that track the phenomenological distinctions. **Evolutionary theory** explains why the features exist — a consciousness that does genuine causal work should feel like work, should involve selection, should require sustained engagement, and should operate through a mechanism below introspective access. **Cross-cultural evidence** shows the profile persists across traditions that interpret it radically differently. **Clinical dissociations** (anarchic hand, depersonalisation, thought insertion) reveal what happens when individual features are stripped away, confirming that the profile comprises separable components rather than a single undifferentiated sensation.
 
-The convergence is the argument. No single line of evidence is decisive — a determined physicalist can accommodate each finding individually. But the pattern across evidence types is more naturally explained by the Map's framework, in which consciousness genuinely selects among physical possibilities, than by accounts in which the entire phenomenological profile is decorative. The physicalist must explain why a causally disconnected consciousness would systematically track genuine cognitive demand — why effort scales with difficulty, why selection maps onto open alternatives, why holding depletes over time — rather than varying independently. Under the Map's framework, these correlations are expected: the phenomenology tracks the work because consciousness is doing the work.
+The convergence is the argument. No single line of evidence is decisive — a determined physicalist can accommodate each finding individually. But the pattern across evidence types is more naturally explained by the Map's framework, in which consciousness genuinely selects among physical possibilities, than by accounts in which the entire phenomenological profile is decorative. And the four-dimensional opacity that pervades the profile — the structural impossibility of catching the mechanism in the act — is precisely what dualism predicts for an interface between ontologically distinct domains. A system designed for action, not self-observation, would feel transparent while being opaque. Under the Map's framework, these correlations are expected: the phenomenology tracks the work because consciousness is doing the work.
 
 ## Relation to Site Perspective
 
@@ -163,7 +167,7 @@ This apex article synthesises:
 - [Cross-Cultural Phenomenology of Agency](/topics/cross-cultural-phenomenology-of-agency/) — How cultural frameworks shape agency experience while leaving a universal phenomenological core intact
 - [Mental Effort and the Quantum Zeno Effect](/concepts/mental-effort/) — The phenomenology of effortful attention as evidence for consciousness-matter interaction
 - [Phenomenology of Choice](/concepts/phenomenology-of-choice/) — The experiential structure of deliberation, decision, and authorship
-- [Volitional Opacity](/voids/introspective-opacity/) — Why the mechanism connecting will to action is permanently invisible to introspection
+- [Introspective Opacity](/voids/introspective-opacity/) — Why we cannot observe our own cognitive processes, with volitional opacity as the deepest case
 - [Attention as Interface](/concepts/attention-as-interface/) — How attention functions as the causal bridge between consciousness and neural systems
 - [Attention as Causal Bridge](/apex/attention-as-causal-bridge/) — The mechanism by which attention mediates consciousness-brain interaction
 

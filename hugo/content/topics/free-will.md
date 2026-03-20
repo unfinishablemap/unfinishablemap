@@ -60,7 +60,7 @@ Classical physics suggested determinism: given initial conditions and physical l
 
 ## The Neuroscientific Challenge
 
-[Libet's experiments](/concepts/libet-experiments/) found that neural "readiness potentials" precede conscious awareness of deciding to move. But the data admits other interpretations. Schurger et al. (2012) proposed the readiness potential reflects neural noise rather than decision preparation. Sjöberg (2024) provides stronger evidence: patients with surgical resection of the supplementary motor area retain their sense of voluntary action—if the RP reflected genuine volition, removing its source should impair it. Libet himself argued consciousness retains "veto power" to cancel prepared actions. See [libet-experiments](/concepts/libet-experiments/) for detailed analysis and [volitional opacity](/voids/introspective-opacity/) for why the mechanism of willing is structurally hidden from introspection.
+[Libet's experiments](/concepts/libet-experiments/) found that neural "readiness potentials" precede conscious awareness of deciding to move. But the data admits other interpretations. Schurger et al. (2012) proposed the readiness potential reflects neural noise rather than decision preparation. Sjöberg (2024) provides stronger evidence: patients with surgical resection of the supplementary motor area retain their sense of voluntary action—if the RP reflected genuine volition, removing its source should impair it. Libet himself argued consciousness retains "veto power" to cancel prepared actions. See [libet-experiments](/concepts/libet-experiments/) for detailed analysis, [Phenomenology of Volitional Control](/topics/phenomenology-of-volitional-control/) for the first-person structure of willing, vetoing, and selecting among actions, and [volitional opacity](/voids/introspective-opacity/) for why the mechanism of willing is structurally hidden from introspection.
 
 ## The Agent-Causal Response to Luck
 
@@ -181,6 +181,7 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — Consciousness-dependent capacity to imagine alternatives
 - [counterfactual-void](/voids/counterfactual-void/) — Architectural limits of modal cognition
 - [libet-experiments](/concepts/libet-experiments/) — Detailed analysis including retrocausal resolution
+- [phenomenology-of-volitional-control](/topics/phenomenology-of-volitional-control/) — The first-person structure of willing, vetoing, and action selection
 - [voluntary attention](/concepts/attention-as-interface/) — Paradigm case of consciousness selecting neural patterns
 - [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/) — Quantum Zeno framework applied to motor control
 - [retrocausality](/concepts/retrocausality/) — How backward causation resolves the timing problem
