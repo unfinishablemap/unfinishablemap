@@ -4,8 +4,8 @@ description: "Wheeler's participatory universe — the thesis that observers con
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-24T10:59:00+00:00
-last_deep_review: 2026-02-22T08:14:00+00:00
+ai_modified: 2026-03-20T06:06:00+00:00
+last_deep_review: 2026-03-20T06:06:00+00:00
 draft: false
 topics:
   - "[[quantum-measurement-and-subjective-probability]]"
@@ -41,7 +41,7 @@ Wheeler (1911–2008) spent decades at the frontier of physics — contributing 
 
 Three interlocking ideas form his participatory framework:
 
-**[[it-from-bit-and-participatory-ontology|It from bit]].** Every physical quantity "derives its ultimate significance from bits, binary yes-or-no indications" extracted through acts of observation (Wheeler 1990). Information is not a feature of pre-existing physical reality but the means by which that reality comes to be. Matter comes from measurement, not measurement from matter. This is [[adaptive-computational-depth|adaptive computational depth]] avant la lettre: the universe's informational content increases where observers engage with it.
+**[[it-from-bit-and-participatory-ontology|It from bit]].** Every physical quantity "derives its ultimate significance from bits, binary yes-or-no indications" extracted through acts of observation (Wheeler 1990). Information is not a feature of pre-existing physical reality but the means by which that reality comes to be. Matter comes from measurement, not measurement from matter. The Map reads this as [[adaptive-computational-depth|adaptive computational depth]] avant la lettre: the universe's informational content increases where observers engage with it.
 
 **The delayed-choice experiment.** Wheeler proposed — and experimentalists later confirmed — that a measurement choice made *now* determines whether a photon behaved as a wave or a particle in the *past*. This is not retrocausal in the ordinary sense; it shows that quantum properties are not fixed until registered. Present observation reaches backward. "We are participants in bringing into being not only the near and here, but the far away and long ago."
 
@@ -69,11 +69,11 @@ Wheeler's vision did not end with him. Two significant developments carry the pa
 
 ### QBism and Participatory Realism
 
-Christopher Fuchs, Wheeler's student, developed QBism (Quantum Bayesianism) and in 2017 coined the term "participatory realism." QBism treats quantum states as reflecting an agent's beliefs about future experiences rather than objective features of reality. Quantum probabilities are subjective and Bayesian. Different agents can legitimately assign different quantum states to the same system.
+Christopher Fuchs, who studied closely with Wheeler during the 1990s, developed QBism (Quantum Bayesianism) and in 2017 coined the term "participatory realism." QBism treats quantum states as reflecting an agent's beliefs about future experiences rather than objective features of reality. Quantum probabilities are subjective and Bayesian. Different agents can legitimately assign different quantum states to the same system.
 
 Fuchs framed this as completing Wheeler's program: "Reality consists of more than can be captured by any putative third-person account of it." The irreducibility of the first-person perspective echoes the explanatory gap that motivates dualism.
 
-However, QBism is deliberately agnostic about collapse ontology. It neither affirms nor denies that collapse is a real physical event — a significant divergence from the Map's framework, which requires real collapse as the interface where consciousness acts.
+However, QBism is deliberately agnostic about collapse ontology. It neither affirms nor denies that collapse is a real physical event — a significant divergence from the Map's framework, which requires real collapse as the interface where consciousness acts. Ismael (2025) offers a different continuation: a participatory universe that retains scientific realism, arguing that observer-participation and mind-independent reality are compatible rather than opposed.
 
 ### Stapp's Quantum Mind
 
