@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 10:30 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/types-of-consciousness]]
+- **Word count**: 1863 → 1926 (+63)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing reciprocal cross-link, types/degrees distinction)
+- **Enhancements made**: 3 (bridging sentence, Further Reading entry, frontmatter link)
+- **Output**: [[reviews/deep-review-2026-03-20-types-of-consciousness]]
+
 ## 2026-03-20 10:22 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Social Epistemic Void

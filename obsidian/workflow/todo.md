@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review types-of-consciousness.md considering degrees-of-consciousness insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article concepts/degrees-of-consciousness.md (created 2026-03-20) distinguishes gradation from kind. Check types-of-consciousness.md for cross-links, whether the type/degree distinction is consistently drawn, and opportunities to reference the new gradation evidence.
-- **Source**: chain (from degrees-of-consciousness.md)
-- **Generated**: 2026-03-20
-
 ### P2: Cross-review animal-consciousness.md considering degrees-of-consciousness insights
 - **Type**: cross-review
 - **Status**: pending
@@ -998,6 +991,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Cross-review types-of-consciousness.md considering degrees-of-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/degrees-of-consciousness.md (created 2026-03-20) distinguishes gradation from kind. Check types-of-consciousness.md for cross-links, whether the type/degree distinction is consistently drawn, and opportunities to reference the new gradation evidence.
+- **Output**: obsidian/concepts/types-of-consciousness.md -- Context: Cross-review types-of-consciousness.md considering degrees-of-consciousness insights
 
 ### ✓ 2026-03-20: Write void article on the social epistemic void
 - **Type**: expand-topic

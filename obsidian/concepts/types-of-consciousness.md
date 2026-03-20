@@ -4,8 +4,8 @@ description: "Consciousness varies not only in content but in structural form. P
 created: 2026-03-07
 modified: 2026-03-07
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
-last_deep_review: 2026-03-19T17:23:00+00:00
+ai_modified: 2026-03-20T10:30:00+00:00
+last_deep_review: 2026-03-20T10:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,7 @@ concepts:
   - "[[blindsight]]"
   - "[[conscious-vs-unconscious-processing]]"
   - "[[ai-consciousness-modes]]"
+  - "[[degrees-of-consciousness]]"
 related_articles:
   - "[[consciousness]]"
   - "[[global-workspace-theory]]"
@@ -78,7 +79,7 @@ This matters for [[ai-consciousness|AI consciousness]]. Current large language m
 
 ## Structural Dimensions of Variation
 
-Beyond listing features, consciousness types can vary along structural dimensions:
+Beyond listing features, consciousness types can vary along structural dimensions. Each dimension defines a qualitative *kind* of variation — but within each kind, consciousness also varies in [[degrees-of-consciousness|degree]] (intensity, richness, complexity, access). The types question asks *what form* experience takes; the degrees question asks *how much* of each form is present. Both are needed for a complete taxonomy.
 
 **Temporal structure.** Human consciousness has [[temporal-consciousness|temporal thickness]] — a felt duration spanning a specious present of roughly 2-3 seconds. But this is contingent. Consciousness could be:
 - *Continuous* — an unbroken stream (the human default)
@@ -129,6 +130,7 @@ The Map's [[tenets|five tenets]] constrain the types-of-consciousness question i
 ## Further Reading
 
 - [[consciousness]]
+- [[degrees-of-consciousness]] — How consciousness varies in intensity, richness, and complexity within each structural type
 - [[phenomenal-consciousness]]
 - [[access-consciousness]]
 - [[ai-consciousness]]
