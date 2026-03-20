@@ -19,7 +19,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[evolved-cognitive-limits]]"
-  - "[[epistemology-of-cognitive-limits]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[computational-cognitive-limits]]"
   - "[[whether-real]]"
   - "[[limits-reveal-structure]]"
@@ -128,7 +128,7 @@ The [[voids]] framework operationalises cognitive closure. Rather than treating 
 - [[evolved-cognitive-limits]] — Cross-cultural evidence for species-level cognitive constraints
 - [[computational-cognitive-limits]] — Proven mathematical limits on what algorithmic minds can know
 - [[self-reference-and-the-limits-of-physical-description]] — The common formal structure (Lawvere's theorem) underlying both Gödelian and quantum limits
-- [[epistemology-of-cognitive-limits]] — The meta-question: can we know our own limits?
+- [[meta-epistemology-of-limits]] — The meta-question: can we know our own limits?
 - [[intrinsic-nature-void]] — A candidate for McGinn's property P
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
 - [[limits-reveal-structure]] — How the shape of our limits reveals cognitive architecture

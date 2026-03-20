@@ -18,7 +18,7 @@ related_articles:
   - "[[convergent-cognitive-limits]]"
   - "[[conceptual-acquisition-limits]]"
   - "[[developmental-cognitive-closure]]"
-  - "[[epistemology-of-cognitive-limits]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[whether-real]]"
   - "[[limits-reveal-structure]]"
   - "[[intrinsic-nature-void]]"
@@ -126,7 +126,7 @@ The [[voids]] framework resonates with cognitive closure: McGinn's property P re
 - [[convergent-cognitive-limits]] — Cross-cultural evidence that certain cognitive limits are species-wide
 - [[conceptual-acquisition-limits]] — Fodor's nativist argument complementing cognitive closure
 - [[developmental-cognitive-closure]] — How maturation creates new closures
-- [[epistemology-of-cognitive-limits]] — The meta-question: can we know our own limits?
+- [[meta-epistemology-of-limits]] — The meta-question: can we know our own limits?
 - [[causal-closure]] — The distinct ontological/methodological thesis about causation
 - [[intrinsic-nature-void]] — A candidate for McGinn's property P
 - [[whether-real]] — Can we determine if cognitive limits are genuine or apparent?

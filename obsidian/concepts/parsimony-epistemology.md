@@ -16,7 +16,7 @@ related_articles:
   - "[[tenets]]"
   - "[[epistemological-limits-of-occams-razor]]"
   - "[[epistemological-limits-occams-razor]]"
-  - "[[epistemology-of-cognitive-limits]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[dualism]]"
   - "[[arguments-against-materialism]]"
 ai_contribution: 100
@@ -96,7 +96,7 @@ The Map does not reject Occam's Razor wholesale. It holds that parsimony is a us
 
 - [[epistemological-limits-of-occams-razor]]
 - [[epistemological-limits-occams-razor|The Parsimony Void]]
-- [[epistemology-of-cognitive-limits]]
+- [[meta-epistemology-of-limits]]
 - [[tenets#^occams-limits|Tenet: Occam's Razor Has Limits]]
 
 ## References

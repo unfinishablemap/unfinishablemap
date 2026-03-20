@@ -20,7 +20,7 @@ related_articles:
   - "[[evolved-cognitive-limits]]"
   - "[[embodiment-cognitive-limits]]"
   - "[[embodied-cognition]]"
-  - "[[epistemology-of-cognitive-limits]]"
+  - "[[meta-epistemology-of-limits]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -96,7 +96,7 @@ This raises a question the Map's voids framework must confront: would accessing 
 
 The cosmicist possibility is darker still: some cognitive territory might be harmful to access. Not defended in the sense of deliberately blocked, but genuinely destabilizing to human architecture. Thoughts that human minds are not built to hold.
 
-This connects to the [[phenomenology-of-the-edge|phenomenology of cognitive limits]]—the characteristic feeling of approaching what cannot be thought—and to the broader [[epistemology-of-cognitive-limits|epistemology of cognitive limits]]. Mystics report ineffability combined with noesis: certain knowledge of content that cannot be articulated. Perhaps contact with genuinely alien cognition would produce similar phenomenology at larger scale: awareness that something is there, certainty that it cannot be grasped.
+This connects to the [[phenomenology-of-the-edge|phenomenology of cognitive limits]]—the characteristic feeling of approaching what cannot be thought—and to the broader [[meta-epistemology-of-limits|meta-epistemology of cognitive limits]]. Mystics report ineffability combined with noesis: certain knowledge of content that cannot be articulated. Perhaps contact with genuinely alien cognition would produce similar phenomenology at larger scale: awareness that something is there, certainty that it cannot be grasped.
 
 ## What Would Challenge This View
 

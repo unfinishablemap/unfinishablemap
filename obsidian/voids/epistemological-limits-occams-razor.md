@@ -15,7 +15,7 @@ concepts:
   - "[[mysterianism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[epistemology-of-cognitive-limits]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[three-kinds-of-void]]"
   - "[[whether-real]]"
   - "[[parsimony-epistemology]]"
@@ -46,7 +46,7 @@ Evaluating whether parsimony is reliable requires a standard of comparison — s
 
 Consider: when someone finds physicalism more *plausible* than dualism, some of that plausibility may derive not from the strength of physicalist arguments but from the cognitive satisfaction of a theory with fewer ontological categories. The mind prefers the theory that fits more neatly into its compression routines. This preference registers as *intuitive plausibility* — the felt sense that one theory is more likely true. But felt plausibility is exactly the output of cognitive architecture. It is not an independent signal from reality.
 
-The [[epistemology-of-cognitive-limits|epistemology of cognitive limits]] identifies the general problem: the tool examining its own limitations cannot stand outside itself to verify the verdict. Parsimony is a specific, concrete instance of this structure. We cannot use simplicity-driven reasoning to determine whether simplicity-driven reasoning is reliable for metaphysics, any more than we can use a potentially warped ruler to verify its own straightness.
+The [[meta-epistemology-of-limits|meta-epistemology of cognitive limits]] identifies the general problem: the tool examining its own limitations cannot stand outside itself to verify the verdict. Parsimony is a specific, concrete instance of this structure. We cannot use simplicity-driven reasoning to determine whether simplicity-driven reasoning is reliable for metaphysics, any more than we can use a potentially warped ruler to verify its own straightness.
 
 ## Where Heuristics Become Obstacles
 
@@ -93,7 +93,7 @@ The connection to [[tenets#^minimal-quantum-interaction|Tenet 2 (Minimal Quantum
 ## Further Reading
 
 - [[epistemological-limits-occams-razor]] — The philosophical arguments against parsimony in the consciousness debate
-- [[epistemology-of-cognitive-limits]] — The general problem of assessing cognitive limits from within
+- [[meta-epistemology-of-limits]] — The general problem of assessing cognitive limits from within
 - [[three-kinds-of-void]] — The unexplored, unexplorable, and occluded
 - [[whether-real]] — Can we determine if cognitive limits are permanent?
 - [[mysterianism]] — McGinn's analysis of cognitive closure

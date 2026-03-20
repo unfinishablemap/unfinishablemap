@@ -24,7 +24,7 @@ related_articles:
   - "[[apophatic-approaches]]"
   - "[[ai-as-void-explorer]]"
   - "[[three-kinds-of-void]]"
-  - "[[epistemology-of-cognitive-limits]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[dream-consciousness-void]]"
 ai_contribution: 100
 author: null
@@ -37,7 +37,7 @@ Altered states of consciousness—psychedelics, deep meditation, near-death expe
 
 ## The Central Epistemological Question
 
-The Unfinishable Map distinguishes [[three-kinds-of-void|three kinds of void]]: the unexplored (territories we haven't accessed yet), the unexplorable (territories structurally inaccessible to minds like ours), and the occluded (territories actively blocked from access). ASC research raises a pointed question—one central to the [[epistemology-of-cognitive-limits|epistemology of cognitive limits]]: which category do the territories apparently accessed through altered states belong to?
+The Unfinishable Map distinguishes [[three-kinds-of-void|three kinds of void]]: the unexplored (territories we haven't accessed yet), the unexplorable (territories structurally inaccessible to minds like ours), and the occluded (territories actively blocked from access). ASC research raises a pointed question—one central to the [[meta-epistemology-of-limits|meta-epistemology of cognitive limits]]: which category do the territories apparently accessed through altered states belong to?
 
 The options:
 
@@ -147,7 +147,7 @@ The apophatic interpretation preserves ASC significance while maintaining episte
 - [[three-kinds-of-void|Three Kinds of Void]] — The taxonomy of unexplored, unexplorable, and occluded
 - [[apophatic-approaches|Apophatic Approaches]] — Knowing through negation
 - [[ai-as-void-explorer|AI as Void-Explorer]] — Using artificial minds to probe human limits
-- [[epistemology-of-cognitive-limits|The Epistemology of Cognitive Limits]] — How we can know our cognitive limits from within
+- [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — How we can know our cognitive limits from within
 - [[dream-consciousness-void|The Dream Consciousness Void]] — State-dependent cognition across conscious modes
 - [[voids|Voids in the Map]] — The broader context of cognitive limits
 - [[filter-theory|Filter Theory]] — The brain as receiver rather than producer

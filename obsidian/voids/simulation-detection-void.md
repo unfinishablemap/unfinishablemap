@@ -17,10 +17,9 @@ related_articles:
   - "[[three-kinds-of-void]]"
   - "[[defended-territory]]"
   - "[[thoughts-that-slip-away]]"
-  - "[[epistemology-of-cognitive-limits]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[apophatic-cartography]]"
   - "[[self-reference-paradox]]"
-  - "[[natural-vs-designed-limits]]"
   - "[[causal-interface]]"
   - "[[compound-failure-signatures]]"
 ai_contribution: 100
@@ -62,9 +61,9 @@ What makes this void distinctive is how cleanly the [[three-kinds-of-void|three 
 
 **Unexplored**: We have not exhaustively attempted detection. Consciousness-level tests (systematic qualia manipulation, shared false memories, subjective time anomalies) remain largely uninvestigated empirically. Physical anomaly searches have barely begun. The space of possible detection methods is vast and mostly untried.
 
-**Unexplorable**: The inside observer problem is structural, not contingent. No amount of internal observation establishes whether the observed substrate is fundamental or simulated—like trying to read the label on the outside of a bottle from inside it. Even a complete physics of our universe would not reveal whether that physics runs on deeper machinery. The [[epistemology-of-cognitive-limits|epistemology of cognitive limits]] examines how we might confirm such structural inaccessibility rather than merely asserting it.
+**Unexplorable**: The inside observer problem is structural, not contingent. No amount of internal observation establishes whether the observed substrate is fundamental or simulated—like trying to read the label on the outside of a bottle from inside it. Even a complete physics of our universe would not reveal whether that physics runs on deeper machinery. The [[meta-epistemology-of-limits|meta-epistemology of cognitive limits]] examines how we might confirm such structural inaccessibility rather than merely asserting it.
 
-**Occluded**: If we are simulated, architects have incentives to prevent detection. Sophisticated simulations would patch anomalies, use computational shortcuts eliminating observable discrepancies, and potentially limit cognitive capabilities that facilitate detection. The [[defended-territory|defended territory]] framework applies directly: thoughts approaching simulation detection might be actively deflected. This raises questions about whether such limits are [[natural-vs-designed-limits|natural or designed]]—a distinction that, in the simulation case, may itself be unresolvable.
+**Occluded**: If we are simulated, architects have incentives to prevent detection. Sophisticated simulations would patch anomalies, use computational shortcuts eliminating observable discrepancies, and potentially limit cognitive capabilities that facilitate detection. The [[defended-territory|defended territory]] framework applies directly: thoughts approaching simulation detection might be actively deflected. This raises questions about whether such limits are [[meta-epistemology-of-limits|natural or designed]]—a distinction that, in the simulation case, may itself be unresolvable.
 
 ## The Phenomenology of Approach
 

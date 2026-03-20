@@ -28,7 +28,7 @@ related_articles:
   - "[[mathematical-void]]"
   - "[[language-thought-boundary]]"
   - "[[creativity-void]]"
-  - "[[epistemology-of-cognitive-limits]]"
+  - "[[meta-epistemology-of-limits]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6

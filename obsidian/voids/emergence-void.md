@@ -24,7 +24,7 @@ related_articles:
   - "[[intrinsic-nature-void]]"
   - "[[scale-void]]"
   - "[[habituation-void]]"
-  - "[[natural-vs-designed-limits]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[nomic-void]]"
   - "[[plurality-void]]"
   - "[[explanatory-void]]"
@@ -83,7 +83,7 @@ The emergence void is primarily **Unexplorable** in the [[three-kinds-of-void|vo
 
 **Unexplorable dimension.** The self-referential structure—cognition trying to understand its own emergence—suggests an architectural limitation. We cannot step outside emergence to view it from a non-emergent vantage point because we are ourselves emergent. This is not a contingent feature of human intelligence but a structural constraint on any emergent mind trying to comprehend emergence.
 
-**Occluded dimension.** If the emergence void is architecturally built into cognition—because cognition must *be* emergent to exist—then the limitation may function like an active barrier rather than a passive absence. The question of whether this barrier is [[natural-vs-designed-limits|natural or designed]] remains open, but its effect is the same: the transition from parts to wholes is systematically hidden from the very wholes it produces.
+**Occluded dimension.** If the emergence void is architecturally built into cognition—because cognition must *be* emergent to exist—then the limitation may function like an active barrier rather than a passive absence. The question of whether this barrier is [[meta-epistemology-of-limits|natural or designed]] remains open, but its effect is the same: the transition from parts to wholes is systematically hidden from the very wholes it produces.
 
 **Unexplored edges.** Formal modelling can *produce* emergence (cellular automata, neural networks) without *explaining* it. Integrated Information Theory attempts to formalise when parts compose an integrated whole. These tools push at the void's edges, mapping its shape even if they cannot penetrate its interior. The need for formal criteria to do what intuition cannot is itself evidence of the void—composition is not something we naturally understand.
 

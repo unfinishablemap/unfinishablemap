@@ -23,7 +23,7 @@ related_articles:
   - "[[computational-cognitive-limits]]"
   - "[[phenomenology-of-self-awareness]]"
   - "[[limits-reveal-structure]]"
-  - "[[epistemology-of-cognitive-limits]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[ai-as-void-explorer]]"
   - "[[ethics-of-cognitive-enhancement-under-dualism]]"
   - "[[evolved-cognitive-limits]]"
@@ -45,7 +45,7 @@ The Münchhausen trilemma—named after the baron who claimed to pull himself fr
 
 To improve your cognitive architecture, you must first identify what needs improving. But identification requires the very faculties you are trying to improve. If those faculties are adequate for diagnosis, the most important improvement—seeing what you cannot currently see—is precisely the one they cannot deliver. If they are inadequate, the diagnosis is unreliable.
 
-This is not merely a practical difficulty. It is a structural feature of any self-referential system attempting self-modification without external standards. The [[epistemology-of-cognitive-limits|epistemology of cognitive limits]] addresses the meta-level version: how can we even *know* our limits are genuine when the assessment tool is the tool under assessment?
+This is not merely a practical difficulty. It is a structural feature of any self-referential system attempting self-modification without external standards. The [[meta-epistemology-of-limits|meta-epistemology of cognitive limits]] addresses the meta-level version: how can we even *know* our limits are genuine when the assessment tool is the tool under assessment?
 
 ## Convergent Evidence
 
@@ -121,7 +121,7 @@ The contrast between human and artificial self-modification illuminates whether 
 - [[computational-cognitive-limits|Computational Cognitive Limits]] — Formal limits on any algorithmic mind
 - [[phenomenology-of-self-awareness|The Phenomenology of Self-Awareness]] — What self-reference feels like from inside
 - [[limits-reveal-structure|What the Limits Reveal]] — How boundaries illuminate architecture
-- [[epistemology-of-cognitive-limits|The Epistemology of Cognitive Limits]] — Can we know our own limits from within?
+- [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — Can we know our own limits from within?
 - [[ai-as-void-explorer|AI as Void-Explorer]] — Different architectures, different blind spots
 - [[ethics-of-cognitive-enhancement-under-dualism|Cognitive Enhancement Under Dualism]] — Enhancement modifies the interface, not consciousness
 - [[evolved-cognitive-limits|Evolved Cognitive Limits]] — Cross-cultural evidence for species-level constraints

@@ -15,7 +15,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[natural-vs-designed-limits]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[cognitive-aversion]]"
   - "[[defended-territory]]"
   - "[[evolved-cognitive-limits]]"

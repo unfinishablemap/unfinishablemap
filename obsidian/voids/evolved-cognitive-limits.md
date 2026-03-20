@@ -15,7 +15,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[natural-vs-designed-limits]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[cognitive-aversion]]"
   - "[[embodiment-cognitive-limits]]"
   - "[[architecture-of-cognitive-closure]]"
@@ -115,7 +115,7 @@ The Map's existing void taxonomy maps three territories. Evolved cognitive limit
 - Unlike the **Unexplorable**, they are not necessarily beyond all possible cognition — they are beyond *evolved* cognition specifically
 - Unlike the **Occluded** (which the Map associates with deliberate concealment, as in [[simulation]] scenarios), they are maintained by the blind watchmaker of natural selection rather than by any intentional agent
 
-The naturally occluded may overlap with [[natural-vs-designed-limits|the question of natural versus designed limits]], but they add specificity: these are limits where ignorance had positive fitness value. Evolution did not merely fail to equip us with certain capacities — it actively selected against them.
+The naturally occluded may overlap with [[meta-epistemology-of-limits|the question of natural versus designed limits]], but they add specificity: these are limits where ignorance had positive fitness value. Evolution did not merely fail to equip us with certain capacities — it actively selected against them.
 
 ## The WEIRD Caveat
 
@@ -153,7 +153,7 @@ The bootstrapping problem remains: if our philosophical intuitions are fitness-s
 ## Further Reading
 
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
-- [[natural-vs-designed-limits]] — Distinguishing evolved from engineered limits
+- [[meta-epistemology-of-limits]] — Distinguishing evolved from engineered limits
 - [[cognitive-aversion]] — Motivational deflection that steers thought from certain territories
 - [[collective-cognitive-limits]] — How groups have limits beyond individuals
 - [[limits-reveal-structure]] — How limitation illuminates architecture

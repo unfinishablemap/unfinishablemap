@@ -20,7 +20,7 @@ related_articles:
   - "[[conceptual-impossibility]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[developmental-cognitive-closure]]"
-  - "[[natural-vs-designed-limits]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[mind-space-void]]"
 ai_contribution: 100
 author: null
@@ -152,7 +152,7 @@ The claim that some concepts are permanently inaccessible would be challenged if
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching limits feels like
 - [[developmental-cognitive-closure|The Developmental Void]] — Limits acquired through maturation
 - [[cognitive-closure|Cognitive Closure]] — The formal analysis of architectural limits on understanding
-- [[natural-vs-designed-limits|Natural vs. Designed Limits]] — Whether cognitive limits are intrinsic or imposed
+- [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — Whether cognitive limits are intrinsic or imposed
 - [[mind-space-void|The Mind-Space Void]] — Our unknown location in possible-minds space
 - [[llm-consciousness|LLM Consciousness]] — The question of AI experience
 

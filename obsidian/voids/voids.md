@@ -64,7 +64,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[convergence-of-the-void-catalogue|Convergence of the Void Catalogue]] — How independently catalogued voids converge into five families
 - [[cartography-problem|The Cartography Problem]] — Whether a map of cognitive voids can map its own incompleteness
 - [[dissolution-problem|The Dissolution Problem]] — Why we cannot predict which cognitive limits will prove permanent
-- [[epistemology-of-cognitive-limits|The Epistemology of Cognitive Limits]] — How we can know our cognitive limits from within a limited mind
+- [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — How we can know our cognitive limits from within a limited mind
 - [[evidential-weight-of-voids|The Evidential Weight of Voids]] — Whether the pattern of cognitive voids constitutes an argument for dualism
 - [[void-as-ground-of-meaning|The Void as Ground of Meaning]] — Why cognitive limits are preconditions for meaning, not merely obstacles
 
@@ -161,7 +161,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 
 - [[evolved-cognitive-limits|Evolved Cognitive Limits]] — Cross-cultural evidence for shared limits
 - [[collective-cognitive-limits|Collective Cognitive Limits]] — What groups cannot think
-- [[natural-vs-designed-limits|Natural vs. Designed Cognitive Limits]] — Evolved versus engineered constraints
+- [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — Evolved versus engineered constraints
 - [[tenet-generated-voids|Tenet-Generated Voids]] — Limits implied by the Map's commitments
 - [[historical-consciousness-void|The Historical Consciousness Void]] — Whether consciousness itself has changed over historical time
 

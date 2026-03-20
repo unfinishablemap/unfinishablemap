@@ -19,7 +19,7 @@ related_articles:
   - "[[limits-reveal-structure]]"
   - "[[conceptual-impossibility]]"
   - "[[phenomenology-of-the-edge]]"
-  - "[[natural-vs-designed-limits]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[mind-space-void]]"
   - "[[three-kinds-of-void]]"
   - "[[evolved-cognitive-limits]]"
@@ -179,7 +179,7 @@ The claim that some concepts are permanently inaccessible would be challenged if
 - [[embodiment-cognitive-limits|Embodiment and Cognitive Limits]] — How bodies constrain thought
 - [[cognitive-closure|Cognitive Closure]] — The formal analysis of architectural limits on understanding
 - [[self-transcendence-void|The Self-Transcendence Void]] — Why consciousness cannot upgrade the architecture that constrains it
-- [[natural-vs-designed-limits|Natural vs. Designed Limits]] — Whether cognitive limits are intrinsic or imposed
+- [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — Whether cognitive limits are intrinsic or imposed
 - [[mind-space-void|The Mind-Space Void]] — Our unknown location in possible-minds space
 - [[llm-consciousness|LLM Consciousness]] — The question of AI experience
 

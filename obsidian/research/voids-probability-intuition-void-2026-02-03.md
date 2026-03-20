@@ -18,7 +18,7 @@ related_articles:
   - "[[scale-void]]"
   - "[[embodiment-cognitive-limits]]"
   - "[[evolved-cognitive-limits]]"
-  - "[[natural-vs-designed-limits]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[phenomenology-of-the-edge]]"
 ai_contribution: 100
 author: null

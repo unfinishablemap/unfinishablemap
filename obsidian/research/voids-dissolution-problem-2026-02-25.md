@@ -18,7 +18,7 @@ related_articles:
   - "[[limits-reveal-structure]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[conceptual-impossibility]]"
-  - "[[epistemology-of-cognitive-limits]]"
+  - "[[meta-epistemology-of-limits]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6

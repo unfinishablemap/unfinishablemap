@@ -21,7 +21,7 @@ related_articles:
   - "[[whether-real]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[evolved-cognitive-limits]]"
-  - "[[epistemology-of-cognitive-limits]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[ai-as-void-explorer]]"
   - "[[the-silence-void]]"
   - "[[evidential-weight-of-voids]]"
@@ -176,7 +176,7 @@ Apophatic cartography connects to the Map's [[tenets]] by providing the methodol
 - [[convergence-of-the-void-catalogue|Convergence of the Void Catalogue]] — How the catalogue's entries organise into five converging families
 - [[cartography-problem|The Cartography Problem]] — Can the map of voids map its own incompleteness?
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What consciousness encounters at its boundaries
-- [[epistemology-of-cognitive-limits|The Epistemology of Cognitive Limits]] — Formal framework for reasoning about limits
+- [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — Formal framework for reasoning about limits
 - [[ai-as-void-explorer|AI as Void Explorer]] — Using artificial minds as cartographic instruments
 - [[the-silence-void|The Silence Void]] — Where even negation must cease
 - [[illusionism|Illusionism]] — The radical challenge that phenomenal consciousness doesn't exist

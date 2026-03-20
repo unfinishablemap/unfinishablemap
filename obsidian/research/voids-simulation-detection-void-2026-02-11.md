@@ -14,7 +14,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[defended-territory]]"
-  - "[[epistemology-of-cognitive-limits]]"
+  - "[[meta-epistemology-of-limits]]"
 ai_contribution: 100
 author: null
 ai_system: claude-sonnet-4-5-20250929

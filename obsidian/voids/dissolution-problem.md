@@ -19,7 +19,7 @@ related_articles:
   - "[[limits-reveal-structure]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[conceptual-impossibility]]"
-  - "[[epistemology-of-cognitive-limits]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[apophatic-cartography]]"
   - "[[evolved-cognitive-limits]]"
   - "[[framework-void]]"
@@ -108,7 +108,7 @@ The dissolution problem also validates the [[voids]] project's methodology. Sinc
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive boundaries illuminate architecture
 - [[conceptual-impossibility|Conceptual Impossibility]] — Thoughts that cannot be thought
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching limits feels like
-- [[epistemology-of-cognitive-limits|Epistemology of Cognitive Limits]] — Frameworks for assessing claims about limits
+- [[meta-epistemology-of-limits|Meta-Epistemology of Cognitive Limits]] — Frameworks for assessing claims about limits
 - [[apophatic-cartography|Apophatic Cartography]] — Using boundary-shapes as data
 - [[evolved-cognitive-limits|Evolved Cognitive Limits]] — How natural selection shaped the boundaries of thought
 - [[ai-as-void-explorer|AI as Void Explorer]] — Non-human architectures probing the same limits

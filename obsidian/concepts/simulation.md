@@ -21,7 +21,7 @@ concepts:
   - "[[decoherence]]"
   - "[[haecceity]]"
   - "[[computational-cognitive-limits]]"
-  - "[[natural-vs-designed-limits]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[evolved-cognitive-limits]]"
 related_articles:
   - "[[tenets]]"
@@ -116,7 +116,7 @@ The Map's framework suggests the third option. If consciousness operates through
 
 If we are simulated, we inherit all [[computational-cognitive-limits|computational limits]]: Gödel's incompleteness, the halting problem, Rice's theorem. This creates a tension with Penrose-style arguments: if consciousness genuinely grasps Gödel sentences that formal systems cannot prove, it transcends computation—yet simulated computations *can't* genuinely grasp these truths. Either the simulation hypothesis is false, Lucas-Penrose arguments fail, or consciousness operates non-computationally even within the simulation. The Map's commitment to bidirectional interaction suggests the third option.
 
-A further question: are these limits [[natural-vs-designed-limits|natural features of finite cognition, or designed constraints]]? A simulator could impose limits beyond those inherent to computation itself. The [[evolved-cognitive-limits|evolved cognitive limits]] framework adds another dimension: limits that appear species-wide might reflect either architectural constraints of any mind or fitness-shaped blind spots—and in a simulation, the distinction between "evolved" and "designed" blurs.
+A further question: are these limits [[meta-epistemology-of-limits|natural features of finite cognition, or designed constraints]]? A simulator could impose limits beyond those inherent to computation itself. The [[evolved-cognitive-limits|evolved cognitive limits]] framework adds another dimension: limits that appear species-wide might reflect either architectural constraints of any mind or fitness-shaped blind spots—and in a simulation, the distinction between "evolved" and "designed" blurs.
 
 This has implications for [[ai-consciousness]]: if we're simulated and conscious, digital systems might also achieve consciousness under the right conditions—the barrier would be architectural, not substrate-based.
 
@@ -193,7 +193,7 @@ Whether or not we are simulated, the *possibility* of simulation illuminates wha
 - [[haecceity]] — The indexical identity problem that simulation resolves
 - [[decoherence]] — The timescale objection and its application within simulations
 - [[computational-cognitive-limits]] — Formal limits that constrain simulated minds
-- [[natural-vs-designed-limits]] — Whether cognitive limits are natural or engineered
+- [[meta-epistemology-of-limits]] — Whether cognitive limits are natural or engineered
 - [[evolved-cognitive-limits]] — Species-level limits that blur the evolved/designed distinction in simulation
 - [[tenets]] — The foundational commitments these concepts serve
 

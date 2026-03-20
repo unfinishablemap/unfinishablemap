@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate meta-epistemology-of-limits.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Voids article on the meta-epistemology of cognitive limits, created via coalesce on 2026-03-19. Add cross-references from related voids articles (taxonomy-of-voids, compound-cognitive-limits, epistemic-horizon-void) and concept pages referencing epistemic limits.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review causal-closure.md considering physical-completeness insights
 - **Type**: cross-review
 - **Status**: pending
@@ -872,6 +865,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Integrate meta-epistemology-of-limits.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Voids article on the meta-epistemology of cognitive limits, created via coalesce on 2026-03-19. Add cross-references from related voids articles (taxonomy-of-voids, compound-cognitive-limits, epistemic-horizon-void) and concept pages referencing epistemic limits.
+- **Output**: obsidian/voids/meta-epistemology-of-limits.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-20: Integrate physical-completeness.md into site navigation
 - **Type**: integrate-orphan

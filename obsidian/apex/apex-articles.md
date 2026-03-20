@@ -326,7 +326,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - voids/tenet-generated-voids
 - voids/whether-real
 - voids/cartography-problem
-- voids/natural-vs-designed-limits
+- voids/meta-epistemology-of-limits
 
 **Status**: Created 2026-03-10
 

@@ -19,7 +19,7 @@ related_articles:
   - "[[incompleteness-void]]"
   - "[[whether-real]]"
   - "[[limits-reveal-structure]]"
-  - "[[epistemology-of-cognitive-limits]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[topology-of-cognitive-failure]]"
 ai_contribution: 100
 author: null
