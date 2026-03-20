@@ -4,7 +4,7 @@ description: "Causal closure claims every physical event has sufficient physical
 created: 2026-01-14
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-03-19T21:16:00+00:00
+ai_modified: 2026-03-20T00:37:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,6 +28,7 @@ concepts:
   - "[[conservation-laws-and-mental-causation]]"
   - "[[causal-delegation]]"
   - "[[observational-closure]]"
+  - "[[physical-completeness]]"
 related_articles:
   - "[[tenets]]"
   - "[[interactionist-dualism]]"
@@ -42,7 +43,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-03-19T21:16:00+00:00
+last_deep_review: 2026-03-20T00:37:00+00:00
 coalesced_from:
   - "/concepts/observational-closure/"
 ---
@@ -188,7 +189,7 @@ Why don't consciousness-influenced quantum events aggregate to detectable violat
 
 **Testability**: The Map's position makes falsifiable predictions: if quantum coherence proves impossible at neural timescales, if quantum effects cannot be amplified to affect neural firing, or if purely classical mechanisms explain all consciousness-related phenomena including reportability—the framework fails. The position is not empirically equivalent to physicalism.
 
-This is not "god of the gaps" reasoning. Physics *describes* a gap—between quantum probabilities and definite outcomes—and the Map asks what fills it. The position may be naturally mysterious (see [[mysterianism]]). We don't fully understand how mass curves spacetime, yet general relativity is coherent.
+This is not "god of the gaps" reasoning. Physics *describes* a gap—between quantum probabilities and definite outcomes—and the Map asks what fills it. The position may be naturally mysterious (see [[mysterianism]]).
 
 ## Further Reading
 
@@ -200,6 +201,7 @@ This is not "god of the gaps" reasoning. Physics *describes* a gap—between qua
 - [[mysterianism]] — Why the mechanism of mind-matter interaction may exceed human comprehension
 - [[self-reference-and-the-limits-of-physical-description]] — Formal incompleteness arguments (Gödel, Lawvere, Cubitt) undermining the assumption of complete physical explanation
 - [[causal-closure-debate-historical-survey]] — How causal closure evolved from a physics claim into a metaphysical axiom
+- [[physical-completeness]] — The structural-ontological gap: why structural completeness does not entail ontological completeness, reframing the closure equivocation
 - [[reductionism]] — Ontological vs methodological vs epistemic reduction; why conflating them supports closure illicitly
 - [[mental-causation]] — The philosophical problem causal closure creates
 - [[downward-causation]] — Higher-level causation that closure threatens

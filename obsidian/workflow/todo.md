@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review causal-closure.md considering physical-completeness insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article concepts/physical-completeness.md was created 2026-03-19. The causal-closure article covers the causal closure principle and should cross-reference this new dedicated treatment of physical completeness. Check for opportunities to add [[physical-completeness]] links, reinforce arguments, and ensure terminological consistency between the two articles.
-- **Source**: chain (from physical-completeness.md)
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review quantum-consciousness articles considering consciousness-physics-interface-formalism insights
 - **Type**: cross-review
 - **Status**: pending
@@ -865,6 +858,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Cross-review causal-closure.md considering physical-completeness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/physical-completeness.md was created 2026-03-19. The causal-closure article covers the causal closure principle and should cross-reference this new dedicated treatment of physical completeness. Check for opportunities to add [[physical-completeness]] links, reinforce arguments, and ensure terminological consistency between the two articles.
+- **Output**: obsidian/concepts/causal-closure.md -- Context: Cross-review causal-closure.md considering physical-completeness insights
 
 ### ✓ 2026-03-20: Integrate meta-epistemology-of-limits.md into site navigation
 - **Type**: integrate-orphan
