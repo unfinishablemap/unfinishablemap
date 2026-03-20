@@ -99,7 +99,7 @@ Under hypnosis, subjects report that their arm rises "by itself." The motor outp
 
 ### Ownership Without Agency
 
-Anarchic hand syndrome (Della Sala et al., 1991) presents a further dissociation: patients recognise a hand as *theirs* (ownership) while denying that its actions are *theirs* (agency). The hand reaches for objects, manipulates tools, even interferes with the other hand—all without the patient's sense of authorship. Ownership and agency, normally bundled together, are phenomenologically and neurologically separable.
+Anarchic hand syndrome (Della Sala et al., 1991) presents a further dissociation: patients recognise a hand as *theirs* (ownership) while denying that its actions are *theirs* (agency). (For how Gallagher's ownership-agency distinction bears on the Libet debate specifically, see [[phenomenology-of-volitional-control|Phenomenology of Volitional Control]].) The hand reaches for objects, manipulates tools, even interferes with the other hand—all without the patient's sense of authorship. Ownership and agency, normally bundled together, are phenomenologically and neurologically separable.
 
 This matters because it reveals that the sense of agency is not simply body-ownership plus motor output. Something additional—the Map would say: genuine conscious selection—must be present for full agentic phenomenology. The [[ownership-void|ownership void]] explores a deeper puzzle: not just how ownership separates from agency, but why the ownership relation itself—the felt sense that any experience is *mine*—hides its own mechanism from introspection.
 
@@ -156,6 +156,7 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 - [[authentic-vs-inauthentic-choice]] — Phenomenological layers of ownership in choice
 - [[introspective-opacity|volitional opacity]] — Why the mechanism connecting will to action is invisible
 - [[ownership-void|The Ownership Void]] — Why the ownership relation hides from introspection
+- [[phenomenology-of-volitional-control]] — The Libet debate, conscious veto, and the "whether" component of intentional action
 - [[topics/free-will]] — The broader philosophical context
 - [[consciousness-and-agency]] — Apex synthesis of agency across the Map
 - [[moral-implications-of-genuine-agency]] — What the reality of agency implies for obligation, character, and moral life

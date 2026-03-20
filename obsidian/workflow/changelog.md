@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 12:13 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-volitional-control]]
+- **Word count**: 2247 → 2247 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status — no inbound links)
+- **Enhancements made**: 10 cross-references added from related articles
+- **Output**: [[reviews/deep-review-2026-03-20c-phenomenology-of-volitional-control]]
+
 ## 2026-03-20 12:05 UTC - expand-topic
 - **Status**: Already exists
 - **Topic**: Limits of Parsimony in Consciousness Science

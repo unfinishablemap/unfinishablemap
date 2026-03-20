@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenology-of-volitional-control.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links from any other content. Add cross-references from related articles (free-will.md, mental-effort.md, spontaneous-intentional-action.md, attention-as-selection-interface articles) or update section index pages to include navigation to this content.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-20
-
 ### P2: Deep review interface-specification-programme.md (apex)
 - **Type**: deep-review
 - **Status**: pending
@@ -984,6 +977,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Integrate phenomenology-of-volitional-control.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links from any other content. Add cross-references from related articles (free-will.md, mental-effort.md, spontaneous-intentional-action.md, attention-as-selection-interface articles) or update section index pages to include navigation to this content.
+- **Output**: obsidian/topics/phenomenology-of-volitional-control.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-20: Write concept page on limits of parsimony in consciousness science
 - **Type**: expand-topic

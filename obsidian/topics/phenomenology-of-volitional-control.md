@@ -4,8 +4,8 @@ description: "The first-person experience of willing—agency, veto, and the Lib
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T07:24:00+00:00
-last_deep_review: 2026-03-20T07:24:00+00:00
+ai_modified: 2026-03-20T12:13:00+00:00
+last_deep_review: 2026-03-20T12:13:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
