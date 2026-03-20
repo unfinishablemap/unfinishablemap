@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write topic article on clinical phenomenology as philosophical evidence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: The Map uses clinical dissociations effectively across multiple articles (anarchic hand, schizophrenia, pain asymbolia, choking, dissociation) but lacks a dedicated treatment of clinical phenomenology as a philosophical method — what can we learn about consciousness from cases where its components come apart? Builds on phenomenology-of-volitional-control, consciousness-and-causal-powers, phenomenology-of-agency-vs-passivity. Target section: topics/. See optimistic-2026-03-20-midday.md
-- **Source**: gap_analysis
-- **Generated**: 2026-03-20
-
 ### P2: Address observational closure unfalsifiability and unity fragility in apex articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -1021,6 +1014,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Write topic article on clinical phenomenology as philosophical evidence
+- **Type**: expand-topic
+- **Notes**: The Map uses clinical dissociations effectively across multiple articles (anarchic hand, schizophrenia, pain asymbolia, choking, dissociation) but lacks a dedicated treatment of clinical phenomenology as a philosophical method — what can we learn about consciousness from cases where its components come apart? Builds on phenomenology-of-volitional-control, consciousness-and-causal-powers, phenomenology-of-agency-vs-passivity. Target section: topics/. See optimistic-2026-03-20-midday.md
+- **Output**: Write topic article on clinical phenomenology as philosophical evidence
 
 ### ✓ 2026-03-20: Add cross-links between mechanistic-phenomenological cluster articles
 - **Type**: refine-draft

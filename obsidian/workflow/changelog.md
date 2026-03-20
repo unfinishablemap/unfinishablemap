@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 17:44 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Clinical Phenomenology as Philosophical Evidence
+- **Output**: [[clinical-phenomenology-as-philosophical-evidence]]
+- **Word count**: 1723
+- **Based on research**: No (synthesised from existing Map articles on clinical disruptions)
+
 ## 2026-03-20 17:31 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 444 non-draft articles; focused on philosophy-of-science cluster (Kuhn, Duhem-Quine, Galilean exclusion, emergence, induction, epistemic advantages) and phenomenological evidence cluster (skilled performance, temporal selection, clinical dissociation, filter theory, valence, memory phenomenology)

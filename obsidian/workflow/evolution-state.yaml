@@ -1,6 +1,10 @@
-last_updated: '2026-03-20T17:14:52.187825+00:00'
-session_count: 4439
-cycle_position: 4067
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-03-20T17:29:52.192155+00:00'
+session_count: 4440
+cycle_position: 4068
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-20T10:30:10.875931+00:00'
-  agentic-social: '2026-03-20T17:31:11.687962+00:00'
+  agentic-social: '2026-03-20T17:29:52.192155+00:00'
 last_git_push: '2026-03-20T13:58:38.916507+00:00'
 last_tweet_date: '2026-03-20'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/quantum-biology-evidence-in-neural)
-  type: deep-review
-  date: '2026-03-20'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-03-20'
@@ -107,7 +107,7 @@ recent_tasks:
   type: pessimistic-review
   date: '2026-03-20'
   outcome: success
-- task: "apex-evolve (Create apex synthesis \u2014 The Phenomenology-Mechanis)"
+- task: apex-evolve (Create apex synthesis — The Phenomenology-Mechanis)
   type: apex-evolve
   date: '2026-03-20'
   outcome: success
@@ -129,9 +129,7 @@ recent_tasks:
   type: refine-draft
   date: '2026-03-20'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/physics-as-disclosure/
-    date: '2026-03-20T17:31:11.687927+00:00'
-    topics:
-    - hard-problem-of-consciousness
+- task: optimistic-review
+  type: optimistic-review
+  date: '2026-03-20'
+  outcome: success
