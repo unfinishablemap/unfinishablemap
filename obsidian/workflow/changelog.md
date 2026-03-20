@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 11:25 UTC - deep-review
+- **Status**: Skipped (archived article)
+- **File**: [[archive/topics/godel-measurement-problem-analogy]] (archived 2026-03-18, superseded by [[topics/self-reference-and-the-limits-of-physical-description]])
+- **Word count**: N/A (no content changes)
+- **Notes**: Article archived and coalesced into self-reference-and-the-limits-of-physical-description.md. Three prior reviews (2026-03-17, 2026-03-19, 2026-03-19b) already integrated the superseding article with 8 inbound cross-links. Orphan status is expected for archived files. Task removed from queue — system-tune-2026-03-20 flagged this as a bug in orphan detection.
+
 ## 2026-03-20 11:18 UTC - deep-review
 - **Status**: Skipped (archived article at terminal stability)
 - **File**: [[archive/topics/dream-problem-solving-and-conscious-influence]] (archived, coalesced into [[topics/dream-consciousness]])

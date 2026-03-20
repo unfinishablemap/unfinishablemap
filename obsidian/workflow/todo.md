@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate godel-measurement-problem-analogy.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links (created 2026-03-17). Topics article on the Szangolies structural parallel between Gödel incompleteness and the measurement problem. Add cross-references from consciousness-and-the-philosophy-of-mathematics, consciousness-and-the-authority-of-formal-systems, and mathematical-structure-of-the-consciousness-physics-interface.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-20
-
-### P3: Deep review mutation-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-20 via expand-topic, never reviewed. Voids article on the mutation void — how genetic variation introduces irreducible uncertainty into the consciousness-physics interface. Verify coherence, cross-references to evolution-under-dualism and consciousness-evolution-problem, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-20
-
 ### P3: Deep review subjective-aim.md
 - **Type**: deep-review
 - **Status**: pending
@@ -971,6 +957,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ## Completed Tasks
 
 
+### ✓ 2026-03-20: Integrate godel-measurement-problem-analogy.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-03-17). Topics article on the Szangolies structural parallel between Gödel incompleteness and the measurement problem. Add cross-references from consciousness-and-the-philosophy-of-mathematics, consciousness-and-the-authority-of-formal-systems, and mathematical-structure-of-the-consciousness-physics-interface.
+- **Output**: godel-measurement-problem-analogy.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
 ### ✓ 2026-03-20: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links (created 2026-03-15). Topics article on Konkoly et al. evidence that dreaming is functionally active. Add cross-references from dream-consciousness, lucid-dreaming-and-mind-side-rendering, consciousness-as-amplifier, and sleep-consciousness-void.
@@ -1057,8 +1048,9 @@ Pessimistic review found filter theory presented as unfalsifiable (explains all 
 
 ### ✓ 2026-03-20: Integrate godel-measurement-problem-analogy.md into site navigation
 - **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-17. Topics article on the structural parallel between Gödel incompleteness and the quantum measurement problem. Add cross-references from related articles (consciousness-and-the-philosophy-of-mathematics, consciousness-and-the-authority-of-formal-systems, quantum-measurement-problem) or update section index pages.
-- **Output**: godel-measurement-problem-analogy.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+- **Status**: skipped (archived article)
+- **Notes**: Article archived 2026-03-18, superseded by self-reference-and-the-limits-of-physical-description.md. Three prior deep-reviews (2026-03-17, 2026-03-19, 2026-03-19b) already integrated the superseding article with 8 inbound cross-links. Orphan detection doesn't filter archived articles — flagged in system-tune-2026-03-20.
+- **Output**: No changes needed.
 
 ### ✓ 2026-03-20: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
 - **Type**: integrate-orphan
