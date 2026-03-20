@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-20T02:49:00+00:00
+ai_modified: 2026-03-20T03:54:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Research quantum biology in neural systems — latest experimental evidence (2025-2026)
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: The Map's Tenet 2 (Minimal Quantum Interaction) depends on quantum effects persisting in warm, wet neural tissue. The existing research notes (quantum-biology-consciousness-2026-01-16, quantum-biology-neural-mechanisms-2026-01-24) are now two months old. Recent developments in quantum biology — particularly around microtubule coherence timescales, phonon-mediated quantum transport in ion channels, and Posner molecule experiments — may strengthen or constrain the tenet's empirical basis. Survey 2025-2026 literature on: (1) quantum coherence duration in biological systems at 37°C, (2) ion channel tunneling evidence, (3) Posner molecule phosphorus-31 entanglement experiments, (4) any neural-specific quantum biology findings. Target: research note.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-20
+
+### P2: Fix stale wikilinks to coalesced and archived articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Link scan found 226 broken wikilinks across obsidian content. Many reference coalesced/archived articles that post-coalesce cross-reviews missed. Key stale references: aesthetic-dimension-of-consciousness (~10 files), aesthetic-irreducibility-arguments (~6 files), emotional-consciousness (~3 files), predictive-processing-and-the-maps-framework (~1 file). Also 72 case-mismatch wikilinks (e.g., [[Blindsight]] vs [[blindsight]]). Update the highest-impact broken links to point to merged/current articles and fix case mismatches.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-20
+
+### P3: Deep review sleep-consciousness-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) with no recorded deep review. Voids article on the consciousness gap during dreamless sleep. Verify coherence, cross-references to related consciousness/sleep articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-20
+
+### P3: Deep review panpsychisms-combination-problem.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-17 — 31 days ago. Topics article on the combination problem as a challenge to panpsychism, directly relevant to Tenet 1 (Dualism). Verify coherence, cross-references to combination-problem concept page and panpsychism articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-20
+
+### P3: Deep review elisabeths-contemporaries-and-the-interaction-debate.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-17 — 31 days ago. Topics article on historical responses to Princess Elisabeth's challenge. Verify accuracy of historical claims, coherence, cross-references to princess-elizabeths-challenge and history-of-interactionist-dualism, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-20
 
 ### P3: Deep review von-neumann-wigner-interpretation.md
 - **Type**: deep-review
