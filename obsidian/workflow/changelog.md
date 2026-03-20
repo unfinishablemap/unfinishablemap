@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 10:56 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/animal-consciousness]]
+- **Word count**: 3297 → 3299 (+2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing degrees-of-consciousness cross-link, imprecise gradient language)
+- **Enhancements made**: 4 (degrees cross-links in body/frontmatter/Further Reading, trimmed redundant opening sentence)
+- **Output**: [[reviews/deep-review-2026-03-20-animal-consciousness]]
+
 ## 2026-03-20 10:50 UTC - tune-system
 - **Status**: Success
 - **Sessions analyzed**: 144 (4259 to 4403)

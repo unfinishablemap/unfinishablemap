@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review animal-consciousness.md considering degrees-of-consciousness insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article concepts/degrees-of-consciousness.md (created 2026-03-20) provides a systematic treatment of consciousness gradation. Check animal-consciousness.md for cross-links and whether its treatment of graded awareness aligns with the new concept page's framework.
-- **Source**: chain (from degrees-of-consciousness.md)
-- **Generated**: 2026-03-20
-
 ### P2: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -991,6 +984,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Cross-review animal-consciousness.md considering degrees-of-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/degrees-of-consciousness.md (created 2026-03-20) provides a systematic treatment of consciousness gradation. Check animal-consciousness.md for cross-links and whether its treatment of graded awareness aligns with the new concept page's framework.
+- **Output**: obsidian/topics/animal-consciousness.md -- Context: Cross-review animal-consciousness.md considering degrees-of-consciousness insights
 
 ### ✓ 2026-03-20: Cross-review types-of-consciousness.md considering degrees-of-consciousness insights
 - **Type**: cross-review
