@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 13:41 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
+- **Changes**: Added epistemological parity argument (Moncrieff 2023), IIT challenge from ketamine, expanded cardiac arrest evidence, added 1 new reference
+- **Published**: yes
+
 ## 2026-03-20 13:33 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/epistemology-of-introspection-and-calibration]]

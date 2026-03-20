@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Refine anaesthesia-and-the-consciousness-interface.md with new filter/transmission research
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research note consciousness-anesthesia-filter-theory-2026-03-20.md provides updated analysis of anaesthesia through the filter/transmission lens. Integrate relevant findings into the existing anaesthesia article, particularly any new evidence or arguments that strengthen the filter-theory framing of anaesthetic mechanisms.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-20
-
 ### P3: Deep review mutation-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -995,6 +988,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Refine anaesthesia-and-the-consciousness-interface.md with new filter/transmission research
+- **Type**: refine-draft
+- **Notes**: Research note consciousness-anesthesia-filter-theory-2026-03-20.md provides updated analysis of anaesthesia through the filter/transmission lens. Integrate relevant findings into the existing anaesthesia article, particularly any new evidence or arguments that strengthen the filter-theory framing of anaesthetic mechanisms.
+- **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
+
+Task context:
+Research note consciousness-anesthesia-filter-theory-2026-03-20.md provides updated analysis of anaesthesia through the filter/transmission lens. Integrate relevant findings into the existing anaesthesia article, particularly any new evidence or arguments that strengthen the filter-theory framing of anaesthetic mechanisms.
 
 ### ✓ 2026-03-20: Cross-review filter-theory.md considering terminal lucidity and filter/transmission theory evidence
 - **Type**: cross-review

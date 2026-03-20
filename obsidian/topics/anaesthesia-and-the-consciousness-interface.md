@@ -4,7 +4,7 @@ description: "Anaesthetic pharmacology maps the consciousness-brain interface wi
 created: 2026-02-23
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T13:03:00+00:00
+ai_modified: 2026-03-20T13:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -79,13 +79,17 @@ This dissociation — consciousness present, memory encoding absent — reveals 
 
 ## Graded Consciousness and Filter Theory Predictions
 
-The pharmacological dissections described above reveal a pattern with direct implications for the production-versus-filter debate. If the brain produces consciousness, anaesthesia should produce a relatively uniform dimming — consciousness fading as neural activity is suppressed, like a generator losing power. Instead, different anaesthetic agents produce qualitatively different consciousness profiles depending on which molecular targets they engage. Propofol and xenon suppress experience entirely; ketamine preserves rich inner experience while severing environmental connection; sub-anaesthetic doses of most agents create intermediate states where consciousness narrows without disappearing.
+A critical epistemological point frames this evidence: under normal conditions, production and transmission theories make identical predictions about brain-consciousness correlations. Both predict that disrupting neural activity will alter consciousness. The theories diverge only in abnormal cases — where consciousness persists despite severe neural disruption, or where different disruptions produce qualitatively different consciousness profiles rather than uniform dimming. Anaesthesia provides exactly these distinguishing cases.
+
+If the brain produces consciousness, anaesthesia should produce a relatively uniform dimming — consciousness fading as neural activity is suppressed, like a generator losing power. Instead, different anaesthetic agents produce qualitatively different consciousness profiles depending on which molecular targets they engage. Propofol and xenon suppress experience entirely; ketamine preserves rich inner experience while severing environmental connection; sub-anaesthetic doses of most agents create intermediate states where consciousness narrows without disappearing.
 
 This pattern fits a narrowing filter better than a dimming generator. A generator losing power should produce quantitative reduction — less experience, uniformly. A filter being selectively restricted should produce qualitative transformation — different kinds of experience depending on which filter channels are narrowed. The pharmacological evidence overwhelmingly supports the latter pattern.
 
+The ketamine case also poses a specific challenge to integrated information theory (IIT), which identifies consciousness with integrated information (Phi). Under ketamine, brain complexity measured by PCI remains at waking levels — Phi is high — yet consciousness is disconnected from the environment rather than fully present. IIT predicts that high Phi should correspond to full consciousness, not a dissociated dream state. Filter theory accommodates this naturally: the brain's information integration capacity remains intact because consciousness is still engaging through the interface, but the environmental access channels have been pharmacologically blocked.
+
 The three-state taxonomy that has emerged from anaesthesia research — connected consciousness, disconnected consciousness, and unconsciousness — maps directly onto filter theory's predictions. Connected consciousness, detectable through the isolated forearm technique (where a tourniquet prevents neuromuscular blockade from reaching one arm, allowing patients to signal awareness while otherwise paralysed), represents a state where the filter narrows environmental access without eliminating it. Disconnected consciousness — vivid dreaming, hallucinations, distorted self-perception — represents a state where the filter blocks environmental input while consciousness continues to express itself through internally generated content. Some studies have found that nearly all participants recalled dreaming during periods of behavioural unresponsiveness, suggesting disconnected consciousness is far more common under anaesthesia than the clinical picture of "unconsciousness" implies.
 
-This graded spectrum generates specific filter theory predictions. First, consciousness should sometimes intensify when the brain's filtering capacity is reduced — and the evidence from [[loss-of-consciousness|terminal lucidity]], near-death experiences during cardiac arrest, and psychedelic states supports this. Second, disconnected consciousness under anaesthesia should preserve the complexity of brain dynamics associated with conscious processing — and Sarasso et al.'s TMS-EEG comparisons confirm this for ketamine, where brain complexity remains at waking levels despite complete behavioural unresponsiveness. Third, the specific pattern of consciousness preserved or lost should depend on which molecular targets are engaged, not on overall neural suppression — and the pharmacological dissections confirm this precisely.
+This graded spectrum generates specific filter theory predictions. First, consciousness should sometimes intensify when the brain's filtering capacity is reduced — and converging evidence supports this. Terminal lucidity produces coherent awareness in severely deteriorated brains. Cardiac arrest patients show surges of gamma oscillations and high neural coherence during the dying process, with approximately 40% showing brain activity returning to near-normal levels during CPR — a neurobiological paradox if the failing brain is the generator, but expected if it is a filter losing its restrictive capacity. [[loss-of-consciousness|Psychedelic states]] add further support. Second, disconnected consciousness under anaesthesia should preserve the complexity of brain dynamics associated with conscious processing — and Sarasso et al.'s TMS-EEG comparisons confirm this for ketamine, where brain complexity remains at waking levels despite complete behavioural unresponsiveness. Third, the specific pattern of consciousness preserved or lost should depend on which molecular targets are engaged, not on overall neural suppression — and the pharmacological dissections confirm this precisely.
 
 ## The Active Reboot Problem
 
@@ -166,18 +170,24 @@ Anaesthetic pharmacology connects to each of the Map's [[tenets]] in concrete wa
 1. Sanders, R. D., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8.
 1. Sarasso, S., et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099-3105.
 1. Bhatt, M. B., et al. (2019). General anesthesia: a probe to explore consciousness. *Frontiers in Systems Neuroscience*, 13, 36.
+1. Moncrieff, J. (2023). An evidence-based critical review of the mind-brain identity theory. *Frontiers in Psychology*, 14, 1254857.
 1. Bhatt, D. P., et al. (2024). A transmissive theory of brain function: implications for health, disease, and consciousness. *NeuroSci*, 3(3), 32.
 
-<!-- AI REFINEMENT LOG - 2026-03-20
+<!-- AI REFINEMENT LOG - 2026-03-20 (second pass)
 Changes made:
-- Added three-state taxonomy (connected, disconnected, unconscious consciousness) from Sanders et al. to opening paragraph
-- Added new section "Graded Consciousness and Filter Theory Predictions" with narrowing-filter vs dimming-generator argument, isolated forearm technique, disconnected consciousness prevalence, and three specific filter theory predictions
-- Strengthened Dualism paragraph in Relation to Site Perspective with graded spectrum and filter theory framing
-- Expanded Bidirectional Interaction paragraph with disconnected consciousness as evidence of active consciousness agency
-- Added 4 new references: Sanders et al. 2023, Sarasso et al. 2015, Bhatt et al. 2019, Bhatt et al. 2024
+- Added epistemological parity argument (Moncrieff 2023): production and transmission theories make identical predictions under normal conditions; anaesthesia provides the distinguishing cases
+- Added IIT challenge paragraph: ketamine preserves high Phi but produces only disconnected consciousness, which filter theory explains naturally
+- Expanded cardiac arrest evidence with specific findings: gamma oscillation surges, ~40% brain activity returning during CPR
+- Added Moncrieff 2023 reference
+
+Previous pass (same day):
+- Added three-state taxonomy from Sanders et al.
+- Added "Graded Consciousness and Filter Theory Predictions" section
+- Strengthened Dualism and Bidirectional Interaction in Relation to Site Perspective
+- Added 4 references: Sanders et al. 2023, Sarasso et al. 2015, Bhatt et al. 2019, Bhatt et al. 2024
 
 Based on research in research/consciousness-anesthesia-filter-theory-2026-03-20.md.
-Key improvements: Graded loss evidence now explicitly framed as filter theory predictions; article makes the narrowing-filter argument rather than leaving it implicit.
+Key improvements: Epistemological framing now explicit; IIT challenge sharpens theoretical contrast; cardiac arrest evidence more concrete.
 
 This log should be removed after human review.
 -->
