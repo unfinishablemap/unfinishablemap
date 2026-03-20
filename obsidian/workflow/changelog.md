@@ -5,6 +5,11 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 09:26 UTC - deep-review
+- **Status**: Skipped (archived content)
+- **File**: death-phenomenology-beyond-ndes
+- **Notes**: Article was archived on 2026-03-11 and coalesced into [[death-and-consciousness]]. Third review (2026-03-18) already concluded article has fully converged and future reviews are unnecessary. Orphan-integration task should target the superseding article [[death-and-consciousness]] if needed.
+
 ## 2026-03-20 09:19 UTC - deep-review
 - **Status**: Success
 - **File**: [[methodological-pluralism]]
