@@ -4,7 +4,7 @@ description: "The consciousness-causes-collapse interpretation of quantum mechan
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T01:45:00+00:00
+ai_modified: 2026-03-20T02:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,8 @@ concepts:
   - "[[multi-mind-collapse-problem]]"
   - "[[prebiotic-collapse]]"
   - "[[causal-closure]]"
+  - "[[consciousness-physics-interface-formalism]]"
+  - "[[brain-interface-boundary]]"
 related_articles:
   - "[[tenets]]"
   - "[[quantum-measurement-and-consciousness]]"
@@ -28,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-20T02:11:00+00:00
 ---
 
 The von Neumann–Wigner interpretation holds that conscious observation causes quantum wave function collapse. Originating in John von Neumann's 1932 mathematical analysis and developed by Eugene Wigner in the 1960s, it is the first rigorous proposal placing consciousness at the centre of quantum mechanics. The Unfinishable Map draws on this interpretation's core insight—that the [[measurement-problem|measurement problem]] creates logical space for consciousness—while preferring more specific accounts of *how* consciousness participates.
@@ -51,7 +53,7 @@ Wigner's central argument came through a thought experiment now known as "Wigner
 
 The thought experiment sharpens the question: does the friend's consciousness collapse the wave function, or does it remain uncollapsed until Wigner looks? If the friend has genuine conscious experience of a definite result, then consciousness—not merely physical interaction—precipitates collapse. As Wigner put it: "It is not possible to formulate the laws of quantum mechanics in a fully consistent way without reference to the consciousness."
 
-Wigner later retreated from this strong position, partly due to concerns about solipsism and the difficulty of specifying *whose* consciousness triggers collapse. But the argument he introduced—that conscious observation occupies a unique position in the measurement chain—remains influential.
+Wigner later retreated from this strong position, partly due to concerns about solipsism and the difficulty of specifying *whose* consciousness triggers collapse. But the argument he introduced—that conscious observation occupies a unique position in the measurement chain—remains influential. The Wigner's friend scenario has seen renewed attention in quantum foundations, with Frauchiger and Renner (2018) constructing a no-go theorem that sharpens the original paradox for any single-world interpretation.
 
 ## Strengths of the Interpretation
 
@@ -67,15 +69,15 @@ The von Neumann–Wigner interpretation has genuine philosophical virtues:
 
 Several objections have shaped the interpretation's reception:
 
-**The prebiotic problem.** If consciousness causes collapse, what determined quantum outcomes for the 13.7 billion years before conscious observers existed? Stars formed, chemistry proceeded, and evolution unfolded—all requiring definite physical outcomes. See [[prebiotic-collapse]] for the Map's resolution through objective reduction with consciousness modulation.
+**The prebiotic problem.** If consciousness causes collapse, what determined quantum outcomes for the ~13.8 billion years before conscious observers existed? Stars formed, chemistry proceeded, and evolution unfolded—all requiring definite physical outcomes. See [[prebiotic-collapse]] for the Map's resolution through objective reduction with consciousness modulation.
 
 **The multi-observer problem.** When multiple conscious observers measure the same system, whose consciousness collapses the wave function? If Alice and Bob observe correlated quantum systems, their results must agree—but the interpretation provides no mechanism for coordinating independent conscious collapses. The [[multi-mind-collapse-problem]] develops this challenge in detail.
 
 **The demarcation problem.** Which systems are conscious? If consciousness causes collapse, the answer matters physically. But we have no agreed criterion for consciousness—making the interpretation's predictions depend on an unsolved problem in philosophy of mind.
 
-**Mechanism deficit.** Saying consciousness "causes" collapse names the proposed cause without specifying how it operates. What is the coupling between a non-physical mind and a quantum system? Without a mechanism, the interpretation is more a placeholder than a theory.
+**Mechanism deficit.** Saying consciousness "causes" collapse names the proposed cause without specifying how it operates. What is the coupling between a non-physical mind and a quantum system? Without a mechanism, the interpretation is more a placeholder than a theory. The [[consciousness-physics-interface-formalism|consciousness–physics interface formalism]] explores what a rigorous specification of this coupling might look like.
 
-## From Von Neumann–Wigner to Stapp
+## From von Neumann–Wigner to Stapp
 
 Henry Stapp developed what is arguably the most sophisticated successor to the von Neumann–Wigner interpretation. Working within von Neumann's mathematical framework, Stapp identified a specific mechanism: the quantum Zeno effect. Conscious [[mental-effort|mental effort]] acts as rapid, repeated observation of desired neural patterns, holding them in place through the Zeno effect—preventing quantum evolution away from the attended state.
 
@@ -91,7 +93,7 @@ The von Neumann–Wigner interpretation is an ancestor of the Map's framework, n
 
 **From Wigner:** Consciousness occupies a unique position in the measurement chain—the one element that resists quantum-mechanical treatment. The Map's [[tenets#^dualism|Dualism]] tenet affirms this irreducibility, and the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet affirms that consciousness does causal work.
 
-**Beyond both:** The Map addresses von Neumann–Wigner's weaknesses through objective collapse theories that provide [[prebiotic-collapse|baseline collapse]] before consciousness, [[interface-locality]] that resolves the [[multi-mind-collapse-problem|multi-observer problem]], and Stapp's quantum Zeno mechanism that specifies *how* consciousness acts. Where von Neumann–Wigner left "consciousness causes collapse" as an unanalysed primitive, the Map pursues a detailed [[interface-specification-programme|interface specification]].
+**Beyond both:** The Map addresses von Neumann–Wigner's weaknesses through objective collapse theories that provide [[prebiotic-collapse|baseline collapse]] before consciousness, [[brain-interface-boundary|interface locality]] that resolves the [[multi-mind-collapse-problem|multi-observer problem]], and Stapp's quantum Zeno mechanism that specifies *how* consciousness acts. Where von Neumann–Wigner left "consciousness causes collapse" as an unanalysed primitive, the Map pursues a detailed [[the-interface-specification-problem|interface specification]].
 
 The interpretation also connects to [[tenets#^no-many-worlds|No Many Worlds]]: Many-Worlds was motivated partly as an escape from the von Neumann–Wigner conclusion. If consciousness causes collapse, and this seems problematic, eliminate collapse entirely. The Map rejects this move—the measurement problem's openness to consciousness is a feature, not a bug.
 
@@ -104,13 +106,15 @@ The interpretation also connects to [[tenets#^no-many-worlds|No Many Worlds]]: M
 - [[prebiotic-collapse]] — The Map's resolution of the prebiotic collapse problem
 - [[multi-mind-collapse-problem]] — The multi-observer coordination challenge
 - [[coupling-modes]] — How consciousness couples to physics: basis, timing, and probability control
+- [[consciousness-physics-interface-formalism]] — Formal framework for the consciousness–physics coupling
 - [[spontaneous-collapse-theories]] — Objective collapse as baseline mechanism
-- [[interface-locality]] — Each consciousness modulates only its own brain's quantum events
+- [[brain-interface-boundary]] — Why consciousness acts only on its own brain's quantum events
 - [[tenets]] — The Map's foundational commitments
 
 ## References
 
 1. Von Neumann, J. (1932/1955). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
 2. Wigner, E. (1961). "Remarks on the Mind-Body Question." In I.J. Good (ed.), *The Scientist Speculates*. Heinemann.
-3. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-4. Southgate, A. & Oquatre-six, C. (2026-01-14). The Measurement Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/measurement-problem/
+3. Frauchiger, D. & Renner, R. (2018). "Quantum theory cannot consistently describe the use of itself." *Nature Communications*, 9(1), 3711.
+4. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+5. Southgate, A. & Oquatre-six, C. (2026-01-14). The Measurement Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/measurement-problem/
