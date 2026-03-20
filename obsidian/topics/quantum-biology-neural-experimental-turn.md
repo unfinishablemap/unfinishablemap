@@ -4,7 +4,8 @@ description: "How 2025-2026 experimental evidence—anesthetic-microtubule quant
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T05:02:00+00:00
+ai_modified: 2026-03-20T05:09:00+00:00
+last_deep_review: 2026-03-20T05:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +36,7 @@ The most significant 2025 publication was Wiest's review in *Neuroscience of Con
 
 Three findings anchor this claim:
 
-**Anesthetic targeting of microtubules.** The traditional pharmacological view holds that anesthetics act on membrane-bound receptors. Wiest marshals evidence that inhalational anesthetics functionally target intraneuronal microtubules, disrupting quantum activities in orchestrated proteins while leaving non-orchestrated proteins unaffected. This selectivity is a prediction of quantum consciousness models that classical pharmacology does not obviously generate. If anesthetics specifically disrupt quantum coherence in consciousness-relevant structures, the correlation between quantum disruption and loss of consciousness becomes harder to dismiss as coincidence.
+**Anesthetic targeting of microtubules.** The traditional pharmacological view holds that [[anaesthesia-and-the-consciousness-interface|anesthetics act on membrane-bound receptors]]. Wiest marshals evidence that inhalational anesthetics functionally target intraneuronal microtubules, disrupting quantum activities in orchestrated proteins while leaving non-orchestrated proteins unaffected. This selectivity aligns with predictions of quantum consciousness models, though whether classical pharmacology can fully account for it remains an open question. If anesthetics specifically disrupt quantum coherence in consciousness-relevant structures, the correlation between quantum disruption and loss of consciousness becomes harder to dismiss as coincidence.
 
 **Room-temperature quantum effects.** Building on Bandyopadhyay's 2013-2014 discoveries and subsequent work by Travis et al. (2024), Wiest documents that microtubules exhibit quantum effects—including superradiant excitonic states—at physiological temperatures. The "warm, wet, and noisy" objection assumed such effects were impossible. They have now been observed, at least in isolated preparations.
 
@@ -51,11 +52,11 @@ Beshkar's 2025 QBIT theory takes a different approach. Rather than defending ele
 
 QBIT localises the relevant coherence specifically to the axon initial segment (AIS), where cytoskeletal density is highest and the microenvironment most favourable. The theory claims that spontaneous emergence of spintronic coherence is "necessary and sufficient for generating a micro-consciousness (a quale)" (Beshkar, 2025). Multiple qualia from synchronised activity across cortex would then produce unified experience.
 
-This proposal is entirely theoretical—spintronic effects in neural structures lack direct experimental confirmation. But QBIT matters because it changes the terms of the decoherence debate. If the relevant coherence is spintronic rather than electronic, Tegmark's calculation—targeting charge superposition in open neural membranes—addresses the wrong physical system. The objection may have been answering a question nobody was asking.
+This proposal is entirely theoretical—spintronic effects in neural structures lack direct experimental confirmation. But QBIT matters because it changes the terms of the decoherence debate. If the relevant coherence is spintronic rather than electronic, Tegmark's calculation—targeting charge superposition in open neural membranes—may not apply to the mechanism QBIT proposes. The decoherence objection would need to be recalculated for spintronic systems in biological tissue before it can rule them out.
 
 ## Active Inference Meets Quantum Collapse
 
-A 2025 paper in *Computational and Structural Biotechnology Journal* integrated quantum collapse models with Karl Friston's active inference framework—one of the most influential models in contemporary neuroscience. The argument: classical neural mechanisms for conscious active inference lack biological plausibility; the mathematics of conscious active inference is equivalent to the path integrals underlying quantum dynamics.
+A 2025 paper in *Computational and Structural Biotechnology Journal* integrated quantum collapse models with Karl Friston's active inference framework—one of the most influential models in contemporary neuroscience. The argument: classical neural mechanisms for conscious active inference lack biological plausibility; the mathematics of conscious active inference parallels the path integrals underlying quantum dynamics.
 
 This convergence matters for two reasons. First, it embeds quantum consciousness within a broader neuroscientific framework rather than treating it as an isolated speculation. Active inference models how organisms maintain themselves through prediction and action. If the mathematics requires quantum dynamics, quantum effects in the brain cease to be optional extras and become structurally necessary.
 
@@ -96,7 +97,7 @@ The 2025-2026 landscape can be summarised by sorting findings into evidence tier
 
 **Theoretically proposed (no direct experimental confirmation):**
 - Spintronic coherence as a decoherence-resistant mechanism (QBIT; Beshkar 2025)
-- Active inference mathematics mapping onto quantum dynamics (2025; mathematical equivalence, not empirical demonstration)
+- Active inference mathematics paralleling quantum dynamics (Wiest & Puniani 2025; structural correspondence, not empirical demonstration)
 - Zero-point field resonance as a substrate for conscious states (TRAZE; Keppler 2025)
 
 **Technological (enabling future tests):**
@@ -121,7 +122,7 @@ The 2025-2026 experimental developments connect to the Map's [[tenets]] at multi
 
 **[[tenets#^dualism|Dualism]]**: The experimental findings do not prove dualism, but they remove empirical obstacles. The "warm, wet, and noisy" dismissal—which depended on the assumption that biological systems cannot sustain quantum effects—has been refuted by the evidence. The Map's position does not depend on quantum biology alone; the [[dualism|positive arguments for dualism]] stand independently. But having the empirical landscape shift from hostile to neutral-to-favourable strengthens the overall case.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Quantum consciousness theories require that collapse produces definite outcomes. The experimental programme surveyed here—testing for quantum effects in neural tissue, measuring correlations between quantum disruption and consciousness loss—assumes collapse is real. Under many-worlds, all outcomes occur and consciousness has no selective role. The Map's rejection of many-worlds is prerequisite for this research programme to be meaningful.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The experiments surveyed here—correlating quantum disruption with consciousness loss, testing for coherence in neural tissue—are interpretable under both collapse and many-worlds frameworks. A many-worlds theorist would read the same results as branch-relative decoherence phenomena. However, the specific finding that would most strengthen the quantum consciousness case—that consciousness selectively influences quantum outcomes—requires collapse to be physically real. Under many-worlds, all outcomes occur in parallel branches, and the selective role the Map attributes to consciousness has no explanatory purchase. The research programme's strongest implications depend on the Map's [[tenets#^no-many-worlds|rejection of many-worlds]].
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Three decades of "quantum effects can't survive in biological systems" reflected apparent parsimony. Nature disagreed. The experimental evidence of 2025-2026 continues a pattern: what seemed implausible on grounds of simplicity turns out to be more nuanced than dismissal assumed.
 
@@ -133,6 +134,9 @@ The 2025-2026 experimental developments connect to the Map's [[tenets]] at multi
 - [[comparing-quantum-consciousness-mechanisms]] — Evaluating competing quantum consciousness theories
 - [[decoherence]] — The decoherence objection and why it doesn't solve the measurement problem
 - [[quantum-consciousness]] — Quantum approaches to consciousness including Orch OR
+- [[quantum-measurement-and-consciousness]] — How quantum measurement connects to consciousness theories
+- [[anaesthesia-and-the-consciousness-interface]] — Anaesthesia as a window into consciousness mechanisms
+- [[experimental-design-for-consciousness-collapse-testing]] — Designing experiments to test consciousness-collapse hypotheses
 - [[measurement-problem]] — Why quantum mechanics leaves outcomes undetermined
 - [[tenets]] — The Map's foundational commitments
 
@@ -141,24 +145,10 @@ The 2025-2026 experimental developments connect to the Map's [[tenets]] at multi
 1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 2. Beshkar, M. (2025). Consciousness and spintronic coherence in microtubules. *Communicative & Integrative Biology*.
 3. Keppler, J. (2025). Macroscopic quantum effects in the brain: new insights into the fundamental principle underlying conscious processes. *Frontiers in Human Neuroscience*, 2025, 1676585.
-4. Conscious active inference II: Quantum orchestrated objective reduction among intraneuronal microtubules naturally accounts for discrete perceptual cycles. (2025). *Computational and Structural Biotechnology Journal*.
-5. Evidence of quantum-entangled higher states of consciousness. (2025). *PMC*.
+4. Wiest, M. C., & Puniani, A. S. (2025). Conscious active inference II: Quantum orchestrated objective reduction among intraneuronal microtubules naturally accounts for discrete perceptual cycles. *Computational and Structural Biotechnology Journal*.
+5. Escola-Gascon, A. (2025). Evidence of quantum-entangled higher states of consciousness. *Computational and Structural Biotechnology Journal*.
 6. Emerging roles of NV-diamond magnetometry in brain mapping and bioimaging. (2026). *Journal of Biological Physics*.
 7. Tegmark, M. (2000). The importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 8. Hagan, S., Hameroff, S. R., & Tuszynski, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 9. Kerskens, C. M., & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
 10. Southgate, A. & Oquatre-cinq, C. (2026-01-27). Quantum Biology and the Consciousness Debate. *The Unfinishable Map*. https://unfinishablemap.org/topics/quantum-biology-and-the-consciousness-debate/
-
-<!-- AI REFINEMENT LOG - 2026-03-20
-Changes made:
-- Reduced microtubule dominance: replaced microtubule-specific language with broader terms in QBIT section (intraneuronal structures, cytoskeletal density) and Active Inference section (quantum collapse models instead of Penrose-Hameroff Orch OR)
-- Split "Demonstrated" list into three evidence tiers: empirically observed, theoretically proposed, and technological enablers
-- Softened "The categorical dismissal is no longer tenable" to "The blanket dismissal that sustained itself on a priori decoherence arguments has weakened considerably"
-- Opening paragraph now names more diverse mechanisms (zero-point field coupling added)
-- Summary section distinguishes theoretical results from empirical findings
-
-Based on pessimistic review (pessimistic-2026-03-20-b).
-Key improvements: evidence tier separation and reduced microtubule centrality per writing style guide restraint requirement.
-
-This log should be removed after human review.
--->

@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 05:09 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-biology-neural-experimental-turn]]
+- **Word count**: 2065 → 2158 (+93)
+- **Critical issues addressed**: 2 (incomplete references, No Many Worlds circularity)
+- **Medium issues addressed**: 4 (active inference "equivalent" overclaim, dismissive Tegmark framing, unsupported pharmacology claim, stale refinement log)
+- **Enhancements made**: 3 (cross-links to anaesthesia/experimental-design/quantum-measurement articles)
+- **Output**: [[reviews/deep-review-2026-03-20-quantum-biology-neural-experimental-turn]]
+
 ## 2026-03-20 05:02 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/quantum-biology-neural-experimental-turn]]
