@@ -4,13 +4,12 @@ description: "Cognitive overload and automatisation reveal consciousness as a ba
 created: 2026-02-15
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-11T03:23:00+00:00
+ai_modified: 2026-03-20T06:48:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-and-skilled-performance]]"
-  - "[[consciousness-and-skilled-performance]]"
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[choking-phenomenon-mental-causation]]"
 concepts:
   - "[[cognitive-phenomenology]]"
@@ -38,7 +37,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-22
 last_curated:
-last_deep_review: 2026-02-23T06:20:00+00:00
+last_deep_review: 2026-03-20T06:48:00+00:00
 coalesced_from:
   - "/topics/phenomenology-of-cognitive-load/"
   - "/topics/phenomenology-of-cognitive-automatisation/"
@@ -94,7 +93,7 @@ If this phenomenology is accurate, consciousness has privileged access to its ow
 
 ### The Maintenance Problem
 
-Cognitive load reveals that maintaining representations in working memory is *active*. Items don't persist on their own; they must be held there. Kahneman (1973) influentially characterised attention as a limited resource whose deployment produces a distinctive sense of effort. The phenomenology of maintenance reveals this effort in its most basic form, with qualitative character distinct from the effort of reasoning. Before you can reason about premises, you must keep them present in consciousness. The [[phenomenology-of-intellectual-effort]] explores the strain of reasoning itself; capacity phenomenology reveals the more basic work of simply keeping materials available.
+Cognitive load reveals that maintaining representations in working memory is *active*. Baddeley's (2012) multi-component model describes the architecture — phonological loop, visuospatial sketchpad, central executive — but the phenomenology adds something the model does not capture: items don't persist on their own; they must be held there. Kahneman (1973) influentially characterised attention as a limited resource whose deployment produces a distinctive sense of effort. The phenomenology of maintenance reveals this effort in its most basic form, with qualitative character distinct from the effort of reasoning. Before you can reason about premises, you must keep them present in consciousness. The [[phenomenology-of-intellectual-effort]] explores the strain of reasoning itself; capacity phenomenology reveals the more basic work of simply keeping materials available.
 
 If consciousness were epiphenomenal, there would be no phenomenology of effort in maintenance. Items would simply be stored or not, and consciousness would observe the results. Instead, the experience is of *doing* — actively holding, refreshing, sustaining. Behavioural evidence supports this: working memory shows a discrete capacity limit of roughly four items (Rouder et al., 2008), and the felt sense of approaching that threshold precedes measurable performance decline.
 
@@ -147,8 +146,7 @@ The claim that cognitive capacity phenomenology is irreducible would face diffic
 ## Further Reading
 
 - [[phenomenology-of-intellectual-effort]] — The effort of reasoning itself, complementing the capacity constraints explored here
-- [[consciousness-and-skilled-performance|phenomenology of flow states]] — The opposite experiential pole: effortless engagement at peak performance
-- [[consciousness-and-skilled-performance]] — How consciousness participates in skilled action
+- [[consciousness-and-skilled-performance]] — How consciousness participates in skilled action, including the opposite experiential pole of effortless flow
 - [[choking-phenomenon-mental-causation]] — When conscious re-entry disrupts automated performance
 - [[phenomenology-of-returning-attention]] — What it is like to redirect cognitive resources after distraction
 - [[working-memory]] — The cognitive architecture that capacity phenomenology reveals from inside
