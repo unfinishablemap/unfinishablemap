@@ -4,7 +4,7 @@ description: "From Princess Elisabeth's 1643 challenge through occasionalism, ex
 created: 2026-02-02
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T10:14:00+00:00
+ai_modified: 2026-03-20T11:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-20T11:10:00+00:00
 coalesced_from:
   - "/topics/history-of-interactionist-dualism/"
   - "/topics/princess-elizabeths-challenge/"
@@ -122,7 +122,7 @@ Recent work by Pitts and Cucu demonstrates that conservation laws are *local* an
 
 **Chalmers** (1996) established the [[hard-problem-of-consciousness]] as distinct from "easy" problems about cognitive functions. His [[philosophical-zombies|zombie argument]] showed that physical facts don't entail phenomenal facts. **Swinburne** (2013) defended substance dualism with arguments for personal identity. **Hasker** (1999) developed emergent substance dualism: the soul emerges from brain function but is a non-physical substance with its own causal powers.
 
-The 2020 PhilPapers survey found roughly 22% of professional philosophers accept or lean toward non-physicalist views—second only to physicalism at 51%. Dualism is no longer marginal.
+The 2020 PhilPapers survey found roughly 32% of professional philosophers accept or lean toward non-physicalist views of mind—a substantial minority against physicalism's 52%. Dualism is no longer marginal.
 
 ## Relation to Site Perspective
 
