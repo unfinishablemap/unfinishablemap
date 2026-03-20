@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review consciousness-physics-interface-formalism.md considering mathematical-structure insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article mathematical-structure-of-the-consciousness-physics-interface.md (created 2026-03-19) provides detailed operator formalism, Hilbert space models, and Born rule constraints that directly relate to the formalism concept page. Check for cross-links, reinforcing arguments, terminology consistency, and opportunities to strengthen the concept page with the new article's framework.
-- **Source**: chain (from mathematical-structure-of-the-consciousness-physics-interface.md)
-- **Generated**: 2026-03-20
-
 ### P2: Cross-review hard-problem-of-consciousness.md considering metaproblem insights
 - **Type**: cross-review
 - **Status**: pending
@@ -883,6 +876,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Cross-review consciousness-physics-interface-formalism.md considering mathematical-structure insights
+- **Type**: cross-review
+- **Notes**: New article mathematical-structure-of-the-consciousness-physics-interface.md (created 2026-03-19) provides detailed operator formalism, Hilbert space models, and Born rule constraints that directly relate to the formalism concept page. Check for cross-links, reinforcing arguments, terminology consistency, and opportunities to strengthen the concept page with the new article's framework.
+- **Output**: obsidian/concepts/consciousness-physics-interface-formalism.md -- Context: Cross-review consciousness-physics-interface-formalism.md considering mathematical-structure insights
 
 ### ✓ 2026-03-20: Research limits of parsimony arguments in consciousness science
 - **Type**: research-topic
