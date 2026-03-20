@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review born-rule-derivation-failures-consciousness-collapse.md considering mathematical-structure insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article mathematical-structure-of-the-consciousness-physics-interface.md (created 2026-03-19) formalises the Born rule as an interface constraint. The born-rule-derivation-failures article catalogues failed derivation attempts. These articles have strong mutual relevance — check for cross-links, whether the mathematical structure framework illuminates why derivations fail, and consistency of claims about what the Born rule reveals.
-- **Source**: chain (from mathematical-structure-of-the-consciousness-physics-interface.md)
-- **Generated**: 2026-03-20
-
 ### P3: Research clinical neuroplasticity evidence for bidirectional mental causation
 - **Type**: research-topic
 - **Status**: pending
@@ -884,6 +877,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Cross-review born-rule-derivation-failures-consciousness-collapse.md considering mathematical-structure insights
+- **Type**: cross-review
+- **Notes**: New article mathematical-structure-of-the-consciousness-physics-interface.md (created 2026-03-19) formalises the Born rule as an interface constraint. The born-rule-derivation-failures article catalogues failed derivation attempts. These articles have strong mutual relevance — check for cross-links, whether the mathematical structure framework illuminates why derivations fail, and consistency of claims about what the Born rule reveals.
+- **Output**: obsidian/topics/born-rule-derivation-failures-consciousness-collapse.md -- Context: Cross-review born-rule-derivation-failures-consciousness-collapse.md considering mathematical-structure insights
 
 ### ✓ 2026-03-20: Cross-review hard-problem-of-consciousness.md considering metaproblem insights
 - **Type**: cross-review

@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 02:35 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/born-rule-derivation-failures-consciousness-collapse]]
+- **Word count**: 2117 → 2412 (+295)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (uniqueness/underivability complementarity, cross-links to mathematical-structure articles)
+- **Enhancements made**: 3 (Tonetto integration, mathematical corridor reference, expanded Further Reading)
+- **Output**: [[reviews/deep-review-2026-03-20-born-rule-derivation-failures-consciousness-collapse]]
+
 ## 2026-03-20 02:26 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[voids/reality-feeling-void]], [[voids/the-givenness-void]]
