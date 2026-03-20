@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 08:37 UTC - research-topic
+- **Status**: Success
+- **Topic**: Consciousness during general anesthesia — graded loss and implications for filter theory
+- **Output**: [[consciousness-anesthesia-filter-theory-2026-03-20]]
+- **Sources consulted**: 14
+
 ## 2026-03-20 08:29 UTC - deep-review
 - **Status**: Skipped (archived article)
 - **File**: temporal-constitution-and-consciousness (archived 2026-03-18, coalesced into [[topics/temporal-structure-of-consciousness]])

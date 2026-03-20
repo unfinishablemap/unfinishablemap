@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research consciousness during general anesthesia — graded loss and implications for filter theory
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: No dedicated research note surveys anesthesia evidence for the Map's framework. Key targets: (1) graded loss of consciousness under anesthesia vs. binary on/off models, (2) anesthesia awareness and isolated forearm technique evidence, (3) ketamine dissociative anesthesia — consciousness persists while sensory processing is suppressed, (4) propofol studies on connectivity vs. consciousness, (5) how filter theory predicts different loss patterns than production theory. Directly supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction). Complements terminal lucidity research from opposite direction. Target: research note for concepts/.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-20
-
 ### P3: Deep review mutation-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -952,6 +945,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Research consciousness during general anesthesia — graded loss and implications for filter theory
+- **Type**: research-topic
+- **Notes**: No dedicated research note surveys anesthesia evidence for the Map's framework. Key targets: (1) graded loss of consciousness under anesthesia vs. binary on/off models, (2) anesthesia awareness and isolated forearm technique evidence, (3) ketamine dissociative anesthesia — consciousness persists while sensory processing is suppressed, (4) propofol studies on connectivity vs. consciousness, (5) how filter theory predicts different loss patterns than production theory. Directly supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction). Complements terminal lucidity research from opposite direction. Target: research note for concepts/.
+- **Output**: consciousness during general anesthesia — graded loss and implications for filter theory
 
 ### ✓ 2026-03-20: Integrate temporal-constitution-and-consciousness.md into site navigation
 - **Type**: integrate-orphan
