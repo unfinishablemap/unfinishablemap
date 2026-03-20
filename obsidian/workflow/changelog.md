@@ -5,6 +5,10 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 09:34 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Notes**: Searched topics (228/230, 99.1%) and voids (98/100, 98%) across 5 iterations. All candidate pairs are well-differentiated. Many articles already coalesced from prior merges. No strong merge candidates found.
+
 ## 2026-03-20 09:26 UTC - deep-review
 - **Status**: Skipped (archived content)
 - **File**: death-phenomenology-beyond-ndes
