@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-20 13:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -158,6 +158,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 - [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/) — Why the choice between collapse mechanisms matters philosophically
 - [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Five neural quantum mechanisms with evidence
 - [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) — Why quantum biology shifts the burden of proof
+- [quantum-biology-evidence-in-neural-systems](/topics/quantum-biology-evidence-in-neural-systems/) — Convergence of biological, pharmacological, measurement, and computational evidence
 - [decoherence](/concepts/decoherence/) — The decoherence challenge in detail
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Decoherence and timing considerations for neural quantum effects
 - [neural-implementation-specifics](/topics/neural-implementation-specifics/) — Detailed evidence hierarchy for each proposed mechanism

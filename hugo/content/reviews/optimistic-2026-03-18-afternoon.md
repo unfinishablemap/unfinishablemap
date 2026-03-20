@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-03-18
-date: '2026-03-18'
+date: '2026-03-20'
 draft: false
 related_articles: []
 title: Optimistic Review - 2026-03-18 Afternoon
@@ -81,7 +81,7 @@ The Map's [Cognitive Closure](/concepts/cognitive-closure/) article develops McG
 ### High Priority
 
 #### Philosophy of Evidence for Subjective Phenomena
-- **Builds on**: [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/), [epistemology-of-introspection](/topics/epistemology-of-introspection/), [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/)
+- **Builds on**: [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/), [epistemology-of-introspection-and-calibration](/topics/epistemology-of-introspection-and-calibration/), [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/)
 - **Would address**: The Map implicitly operates with a theory of what counts as evidence when the phenomenon is irreducibly subjective, but has never articulated this explicitly. What are the standards? When does convergence across contemplative traditions constitute evidence? How does phenomenological evidence interact with neuroscientific evidence?
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports all tenets by providing epistemological foundations for the Map's methodology

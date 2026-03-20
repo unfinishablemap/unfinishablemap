@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-20 08:09:00+00:00
+ai_modified: 2026-03-20 12:49:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -43,7 +43,7 @@ topics:
 - '[[loss-of-consciousness]]'
 ---
 
-Altered states of consciousness (ASCs) constitute a diverse family of experiences—psychedelics, anesthesia, meditation, hypnosis, flow states, dreaming, near-death experiences, and [psychiatric conditions](/topics/phenomenological-psychiatry-and-altered-experience/) like depersonalization and schizophrenia—unified by [qualitative](/concepts/qualia/) deviation from baseline waking consciousness. For dualism, ASCs are particularly revealing: they demonstrate that consciousness operates in multiple modes with distinct phenomenal qualities, suggesting the brain-consciousness interface has configurable settings rather than being a simple on/off producer. The [filter theory](/concepts/filter-theory/) interprets each ASC as a different configuration of the filtering mechanism—some states *loosen* the filter (psychedelics, mystical experiences), others *narrow* it (anesthesia, deep sleep), still others *reconfigure* it (meditation, flow). The [hypnagogic transition](/topics/hypnagogic-phenomenology-and-interface-modulation/) at sleep onset illustrates the filter loosening in real time—a brief window where constraint relaxes before the interface narrows into NREM. Where these naturally occurring states involve temporary reconfiguration, [cognitive enhancement](/topics/ethics-of-cognitive-enhancement-under-dualism/) would constitute deliberate, permanent interface modification—raising distinctive ethical questions about identity, agency, and consent.
+Altered states of consciousness (ASCs) constitute a diverse family of experiences—psychedelics, anesthesia, meditation, hypnosis, flow states, dreaming, near-death experiences, [terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/), and [psychiatric conditions](/topics/phenomenological-psychiatry-and-altered-experience/) like depersonalization and schizophrenia—unified by [qualitative](/concepts/qualia/) deviation from baseline waking consciousness. For dualism, ASCs are particularly revealing: they demonstrate that consciousness operates in multiple modes with distinct phenomenal qualities, suggesting the brain-consciousness interface has configurable settings rather than being a simple on/off producer. The [filter theory](/concepts/filter-theory/) interprets each ASC as a different configuration of the filtering mechanism—some states *loosen* the filter (psychedelics, mystical experiences), others *narrow* it (anesthesia, deep sleep), still others *reconfigure* it (meditation, flow). The [hypnagogic transition](/topics/hypnagogic-phenomenology-and-interface-modulation/) at sleep onset illustrates the filter loosening in real time—a brief window where constraint relaxes before the interface narrows into NREM. Where these naturally occurring states involve temporary reconfiguration, [cognitive enhancement](/topics/ethics-of-cognitive-enhancement-under-dualism/) would constitute deliberate, permanent interface modification—raising distinctive ethical questions about identity, agency, and consent.
 
 ## Defining Altered States
 

@@ -38,11 +38,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review interface-specification-programme.md (apex)
-- **Type**: deep-review
+### P2: Integrate measurement-problem-as-hard-problem.md into site navigation
+- **Type**: integrate-orphan
 - **Status**: pending
-- **Notes**: AI-generated apex article (ai_contribution: 100) never reviewed. Apex articles are high-value synthesis pieces representing the Map's most integrated arguments. Verify coherence, accuracy of referenced research, cross-references to supporting articles, and tenet alignment.
-- **Source**: staleness
+- **Notes**: File has no inbound links. Created 2026-02-15, still orphaned after 33 days. Add cross-references from hard-problem-of-consciousness.md, quantum-consciousness.md, godel-measurement-problem-analogy.md, consciousness-in-smeared-quantum-states.md, and related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-20
+
+### P2: Cross-review filter-theory.md considering terminal lucidity and filter/transmission theory evidence
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article terminal-lucidity-and-filter-transmission-theory.md (created 2026-03-20) provides direct empirical evidence for filter/transmission theory via terminal lucidity cases. Review filter-theory.md and consciousness-and-death.md for cross-links to the new article, whether terminal lucidity evidence strengthens existing arguments, and consistency in how filter/transmission theory is characterised.
+- **Source**: chain (from terminal-lucidity-and-filter-transmission-theory.md)
+- **Generated**: 2026-03-20
+
+### P2: Refine anaesthesia-and-the-consciousness-interface.md with new filter/transmission research
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research note consciousness-anesthesia-filter-theory-2026-03-20.md provides updated analysis of anaesthesia through the filter/transmission lens. Integrate relevant findings into the existing anaesthesia article, particularly any new evidence or arguments that strengthen the filter-theory framing of anaesthetic mechanisms.
+- **Source**: unconsumed_research
 - **Generated**: 2026-03-20
 
 ### P3: Deep review mutation-void.md
@@ -976,8 +990,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The "how thought fails" methodology in the voids programme is genuinely novel. Extracting it as a standalone methodological contribution would position the Map as innovating in philosophical method. Builds on taxonomy-of-voids, compound-failure-signatures, limits-reveal-structure, phenomenology-of-the-edge. See optimistic-2026-03-20-afternoon.md
 - **Generated**: 2026-03-20
 
+### P3: Write apex article on phenomenology-mechanism bridge
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Synthesis tracing the full argument chain from first-person phenomenology (volitional control, agency) through neural architecture (affordance competition, Zeno stabilization) to metaphysical agency (agent causation, mental causation). Six source articles form complete chain but no existing piece traces it end-to-end. Target section: apex/. See optimistic-2026-03-20-midday.md
+- **Generated**: 2026-03-20
+
+### P3: Write article on clinical phenomenology as philosophical evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Double dissociations (anarchic hand, schizophrenia), pain asymbolia, choking phenomenon used across multiple articles but no dedicated treatment of clinical phenomenology as philosophical method. Would strengthen the evidential base for consciousness's non-reducible structure. Target section: topics/. See optimistic-2026-03-20-midday.md
+- **Generated**: 2026-03-20
+
+### P3: Write concept page on skill delegation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Consciousness training procedural systems, withdrawing active control, retaining override capacity. Used across agent-causation, motor-control, phenomenology-of-agency but never given unified treatment. Evidence: choking phenomenon, automaticity gradients, learning curves. Target section: concepts/. See optimistic-2026-03-20-midday.md
+- **Generated**: 2026-03-20
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Integrate quantum-biology-evidence-in-neural-systems.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-20 via expand-topic from quantum biology research. Add cross-references from comparing-quantum-consciousness-mechanisms.md, brain-specialness-boundary.md, quantum-consciousness.md, amplification-mechanisms-consciousness-physics.md, and related articles.
+- **Output**: obsidian/topics/quantum-biology-evidence-in-neural-systems.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-20: Integrate terminal-lucidity-and-filter-transmission-theory.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-20 via expand-topic from terminal lucidity and filter/transmission research. Add cross-references from filter-theory.md, consciousness-and-death.md, near-death-experiences.md, anaesthesia-and-the-consciousness-interface.md, and related articles. Update section index if needed.
+- **Output**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-20: Deep review interface-specification-programme.md (apex)
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution: 100) never reviewed. Apex articles are high-value synthesis pieces representing the Map's most integrated arguments. Verify coherence, accuracy of referenced research, cross-references to supporting articles, and tenet alignment.
+- **Output**: obsidian/apex/interface-specification-programme.md
 
 ### ✓ 2026-03-20: Integrate phenomenology-of-volitional-control.md into site navigation
 - **Type**: integrate-orphan

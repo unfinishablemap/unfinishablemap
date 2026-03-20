@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-20 13:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -91,7 +91,7 @@ The Map distinguishes what quantum biology has established from what remains hyp
 - Which theory (if any) correctly describes the consciousness-quantum interface
 - Whether the relevant timescales align with neural processing
 
-The 2024-2025 experimental wave—microtubule super-radiance, anesthetic-quantum correlations, cryptochrome Zeno effects—has strengthened circumstantial evidence. But no experiment has directly demonstrated that consciousness affects quantum outcomes, or that disrupting neural quantum effects selectively impairs consciousness while leaving other functions intact.
+The 2024-2025 experimental wave—microtubule super-radiance, anesthetic-quantum correlations, cryptochrome Zeno effects—has strengthened circumstantial evidence. The [cumulative case for quantum effects in neural systems](/topics/quantum-biology-evidence-in-neural-systems/) rests on convergence across independent lines—biological precedent, pharmacological correlation, direct measurement, and computational modelling—rather than any single finding. But no experiment has directly demonstrated that consciousness affects quantum outcomes, or that disrupting neural quantum effects selectively impairs consciousness while leaving other functions intact.
 
 ## The Decoherence Debate Today
 
@@ -137,6 +137,7 @@ Quantum biology connects to all five of the Map's [tenets](/tenets/):
 
 - [quantum-biology](/concepts/quantum-biology/) — Established quantum effects in living systems
 - [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Five proposed mechanisms for neural quantum effects
+- [quantum-biology-evidence-in-neural-systems](/topics/quantum-biology-evidence-in-neural-systems/) — Convergence analysis across four independent evidence lines
 - [neural-implementation-specifics](/topics/neural-implementation-specifics/) — Evaluating neural mechanism evidence and crucial experiments
 - [decoherence](/concepts/decoherence/) — The decoherence objection and why it doesn't solve the measurement problem
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum approaches to consciousness including Orch OR

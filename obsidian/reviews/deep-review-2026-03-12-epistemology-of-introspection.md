@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-03-12
-**Article**: [[epistemology-of-introspection|The Epistemology of Introspection]]
+**Article**: [[epistemology-of-introspection-and-calibration|The Epistemology of Introspection]]
 **Previous review**: [[deep-review-2026-03-11-epistemology-of-introspection|2026-03-11]]
 
 ## Pessimistic Analysis Summary

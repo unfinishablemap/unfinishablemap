@@ -16,7 +16,7 @@ last_curated:
 ---
 
 **Date**: 2026-03-11
-**Article**: [[epistemology-of-introspective-calibration|The Epistemology of Introspective Calibration]]
+**Article**: [[epistemology-of-introspection-and-calibration|The Epistemology of Introspective Calibration]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

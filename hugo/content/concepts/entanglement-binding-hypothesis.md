@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-01
-ai_modified: 2026-03-03 15:41:00+00:00
+ai_modified: 2026-03-20 13:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -111,6 +111,7 @@ The entanglement binding hypothesis aligns with several of the Map's [tenets](/t
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Phenomenal unity and its dimensions
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Orch OR, Stapp, and other quantum consciousness mechanisms
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's version of the unity challenge
+- [quantum-biology-evidence-in-neural-systems](/topics/quantum-biology-evidence-in-neural-systems/) — How four independent evidence lines converge on neural quantum effects
 - [decoherence](/concepts/decoherence/) — The standard objection to quantum effects in biological systems
 
 ## References

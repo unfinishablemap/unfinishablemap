@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-20 07:29:00+00:00
+ai_modified: 2026-03-20 13:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -113,7 +113,7 @@ The 2025-2026 landscape can be summarised by sorting findings into evidence tier
 - That the twin entanglement EEG findings reflect genuine biological quantum effects
 - That disrupting neural quantum effects selectively impairs consciousness while leaving other functions intact
 
-The gap between observed effects and the theoretical frameworks built on them defines the field's research programme for the coming years. NV-diamond quantum sensors may bridge several of these gaps by enabling direct measurement of quantum effects in living neural tissue.
+The gap between observed effects and the theoretical frameworks built on them defines the field's research programme for the coming years. NV-diamond quantum sensors may bridge several of these gaps by enabling direct measurement of quantum effects in living neural tissue. For how these evidence lines—biological precedent, pharmacological correlation, direct measurement, and computational modelling—converge into a cumulative case, see [the convergence analysis](/topics/quantum-biology-evidence-in-neural-systems/).
 
 ## Relation to Site Perspective
 
@@ -131,6 +131,7 @@ The 2025-2026 experimental developments connect to the Map's [tenets](/tenets/) 
 
 ## Further Reading
 
+- [quantum-biology-evidence-in-neural-systems](/topics/quantum-biology-evidence-in-neural-systems/) — Convergence analysis across four independent evidence lines
 - [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) — Overview of quantum biology's relevance to consciousness
 - [quantum-biology](/concepts/quantum-biology/) — Established quantum effects in living systems
 - [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Five proposed mechanisms for neural quantum effects

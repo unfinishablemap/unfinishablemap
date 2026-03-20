@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-03-18 07:18:00+00:00
+ai_modified: 2026-03-20 12:49:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -102,7 +102,7 @@ The Map does not rely on the quantum hypothesis to make its case for filter theo
 
 Psychedelics illuminate several of the Map's [tenets](/tenets/):
 
-**Dualism.** The neuroimaging paradox—less brain activity producing richer experience—is the single most direct pharmacological challenge to production models. If the brain produces consciousness as the liver produces bile, suppressing brain activity should suppress consciousness. It does not. Filter theory, grounded in dualism, predicts the observed result.
+**Dualism.** The neuroimaging paradox—less brain activity producing richer experience—is the single most direct pharmacological challenge to production models. If the brain produces consciousness as the liver produces bile, suppressing brain activity should suppress consciousness. It does not. Filter theory, grounded in dualism, predicts the observed result. [Terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/) provides the complementary case: cognitive function returning despite severe structural brain damage, where the filter's collapse near death briefly permits unfiltered transmission.
 
 **Minimal Quantum Interaction.** The Orch OR psychedelic hypothesis, while speculative, proposes a concrete mechanism for the Map's tenet: psychedelics alter quantum dynamics in microtubules, expanding the interface through which consciousness interacts with neural processes. This remains a possibility to investigate rather than a commitment.
 
@@ -117,6 +117,7 @@ Psychedelics illuminate several of the Map's [tenets](/tenets/):
 - [default-mode-network](/concepts/default-mode-network/) — The brain's self-referential system and its role in filtering
 - [dream-consciousness](/topics/dream-consciousness/) — Another state where reduced filtering yields expanded experience
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Lucid dreaming as non-pharmacological evidence for the same filter-loosening pattern
+- [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/) — The complementary case: cognitive return despite severe structural brain damage
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — The complementary case: increased filtering eliminates experience
 - [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis placing psychedelic evidence within the convergence matrix of five altered states
 

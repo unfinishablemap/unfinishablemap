@@ -43,7 +43,7 @@ related_articles:
 - '[[the-observer-witness-in-meditation]]'
 - '[[methodology-of-consciousness-research]]'
 - '[[introspection-rehabilitation]]'
-- '[[epistemology-of-introspection]]'
+- '[[epistemology-of-introspection-and-calibration]]'
 - '[[phenomenology-of-returning-attention]]'
 - '[[consciousness-and-skilled-performance]]'
 - '[[contemplative-pathology-and-interface-malfunction]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-20 11:50:00+00:00
+ai_modified: 2026-03-20 13:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Assessing the cumulative evidence for quantum effects in neural tis
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-20 13:03:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -27,6 +27,8 @@ related_articles:
 - '[[quantum-biology-neural-experimental-turn]]'
 - '[[comparing-quantum-consciousness-mechanisms]]'
 - '[[anaesthesia-and-the-consciousness-interface]]'
+- '[[causal-closure]]'
+- '[[terminal-lucidity-and-filter-transmission-theory]]'
 title: Quantum Biology Evidence in Neural Systems
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -40,7 +42,7 @@ Before evaluating neural-specific evidence, the broader context of [quantum-biol
 
 Three established systems set the prior:
 
-**Avian magnetoreception** relies on quantum spin coherence in cryptochrome proteins. Radical pairs maintain entangled states for microseconds in warm tissue. A 2024 *Nature Communications* study demonstrated that the [quantum Zeno effect](/concepts/stapp-quantum-mind/) enables this magnetosensitivity—the same mechanism Stapp proposes for consciousness-brain interaction has a confirmed biological precedent (Atkins et al., 2024). A 2026 Princeton study provided computational confirmation of the radical pair mechanism in European robin cryptochrome (Xu et al., 2026).
+**Avian magnetoreception** relies on quantum spin coherence in cryptochrome proteins. Radical pairs maintain entangled states for microseconds in warm tissue. A 2024 *Nature Communications* study demonstrated that the quantum Zeno effect—where frequent environmental interactions stabilise quantum states rather than destroying them—enables this magnetosensitivity (Atkins et al., 2024). Stapp's model of [consciousness-brain interaction](/concepts/stapp-quantum-mind/) invokes the same general principle, though applied differently: mental acts as repeated observations holding desired neural patterns. The biological precedent does not validate Stapp's specific proposal, but it establishes that Zeno-type dynamics operate in warm tissue. A 2026 Princeton study provided computational confirmation of the radical pair mechanism in European robin cryptochrome (Xu et al., 2026).
 
 **Enzyme quantum tunnelling** accelerates reactions by factors of 10^12 to 10^17. Kinetic isotope effects confirm the mechanism. Evolution did not avoid quantum effects in catalysis; it optimised them.
 
@@ -54,7 +56,7 @@ The strongest current evidence linking quantum effects to consciousness comes fr
 
 **Anaesthetic targeting of microtubules.** The traditional view holds that anaesthetics act on membrane-bound receptors. Wiest's 2025 review in *Neuroscience of Consciousness* marshals evidence that inhalational anaesthetics also functionally target intraneuronal microtubules, disrupting quantum activities in consciousness-relevant proteins while leaving other proteins unaffected (Wiest, 2025). This selectivity is a prediction of quantum consciousness models that classical pharmacology does not obviously make.
 
-**The epothilone B experiment.** Khan et al. (2024) found that rats given epothilone B—a microtubule-stabilising drug—took over a minute longer to lose consciousness under anaesthesia (Cohen's d = 1.9, a large effect). If consciousness had nothing to do with microtubule quantum states, stabilising microtubules should not affect anaesthetic onset. No classical mechanism connecting microtubule rigidity to anaesthetic resistance has been proposed, whereas quantum models predicted this result.
+**The epothilone B experiment.** Khan et al. (2024) found that rats given epothilone B—a microtubule-stabilising drug—took over a minute longer to lose consciousness under anaesthesia (Cohen's d = 1.9, a large effect). If consciousness had nothing to do with microtubule quantum states, stabilising microtubules should not affect anaesthetic onset. No classical mechanism connecting microtubule rigidity to anaesthetic resistance has yet been published, though one cannot be ruled out—microtubules participate in multiple cellular processes. Quantum models, however, predicted this result in advance.
 
 **Anaesthetic-oscillation correlation.** Computer modelling found that anaesthetics specifically abolish a 613 THz quantum oscillation peak in microtubules while non-anaesthetics do not—matching predictions from Fröhlich coherence theory.
 
@@ -80,7 +82,7 @@ A third category comprises computational models that increasingly require or ben
 
 **Discrete perceptual cycles.** Conscious experience appears to proceed in discrete moments rather than continuously. Quantum collapse provides a natural mechanism for this discreteness that classical models struggle to explain. The active inference integration argues that orchestrated objective reduction naturally accounts for non-overlapping perceptual cycles.
 
-**Decoherence recalculations.** Tegmark's influential 2000 estimate of femtosecond coherence times assumed thermal equilibrium and unrealistic parameters. Hagan et al. (2002) corrected these assumptions, extending estimates by seven orders of magnitude to 10-100 microseconds. A 2025 computational study incorporating realistic biological conditions estimated 1-2 microseconds. These are not measurements but they demonstrate that the theoretical framework accommodates biologically relevant coherence times.
+**Decoherence recalculations.** Tegmark's influential 2000 estimate of femtosecond coherence times assumed thermal equilibrium and unrealistic parameters. Hagan et al. (2002) corrected these assumptions, extending estimates by seven orders of magnitude to 10-100 microseconds. Subsequent computational work incorporating realistic biological conditions has yielded estimates in the low-microsecond range. These are not measurements but they demonstrate that the theoretical framework accommodates biologically relevant coherence times.
 
 **Limitations.** Mathematical parallels between active inference and quantum dynamics might reflect structural isomorphism without physical correspondence. Recalculated decoherence times remain estimates, not measurements. Theoretical compatibility is necessary but not sufficient.
 
@@ -121,6 +123,8 @@ The convergence of evidence connects to the Map's [tenets](/tenets/) in a specif
 
 **[Dualism](/tenets/#dualism)** does not depend on quantum biology. The [positive arguments for dualism](/concepts/dualism/) stand independently. But dualism's plausibility increases when the physical interface it requires—quantum indeterminacy in neural tissue—is shown to exist. The evidence removes an empirical obstacle without constituting proof.
 
+**[No Many Worlds](/tenets/#no-many-worlds)** matters because the significance of this evidence depends on what quantum mechanics means. If all outcomes occur in every branch (MWI), then "consciousness selecting outcomes" is incoherent—there is no selection, only branching. The Map rejects MWI: collapse is real, outcomes are singular, and [causal closure](/concepts/causal-closure/) is not absolute. Under collapse interpretations, neural quantum indeterminacy creates genuine openness where consciousness could act. The convergence evidence matters precisely because collapse matters.
+
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** finds another instance here. The "simple" dismissal—that warm biology must be classical—has been progressively falsified. Each new quantum biological discovery extends the pattern: apparent parsimony reflected ignorance of nature's actual complexity.
 
 ## Further Reading
@@ -134,6 +138,8 @@ The convergence of evidence connects to the Map's [tenets](/tenets/) in a specif
 - [decoherence](/concepts/decoherence/) — The decoherence objection and why it does not solve the measurement problem
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum approaches to consciousness including Orch OR
 - [measurement-problem](/concepts/measurement-problem/) — Why quantum mechanics leaves outcomes undetermined
+- [causal-closure](/concepts/causal-closure/) — Why causal closure is not absolute at quantum indeterminacies
+- [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/) — Complementary evidence from terminal lucidity supporting non-production models of consciousness
 
 ## References
 

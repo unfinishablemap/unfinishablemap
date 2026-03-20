@@ -49,7 +49,7 @@ topics: []
 - Distinction between holist and contrastive underdetermination
 
 ### Enhancements Made
-- Added inline cross-link to [epistemology-of-introspection](/topics/epistemology-of-introspection/) in theory-ladenness of first-person reports discussion
+- Added inline cross-link to [epistemology-of-introspection-and-calibration](/topics/epistemology-of-introspection-and-calibration/) in theory-ladenness of first-person reports discussion
 - Added inline cross-link to [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/) with explanatory sentence on how phenomenal reports can gain evidential standing despite underdetermination
 - Added inline cross-link to [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) with specific conditions for evidential convergence
 - Added inline cross-link to [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) in Kuhn's Values section
@@ -57,7 +57,7 @@ topics: []
 - Removed stale AI refinement log
 
 ### Cross-links Added
-- [epistemology-of-introspection](/topics/epistemology-of-introspection/) (inline in layer 2 of vulnerability section)
+- [epistemology-of-introspection-and-calibration](/topics/epistemology-of-introspection-and-calibration/) (inline in layer 2 of vulnerability section)
 - [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/) (inline in layer 2 of vulnerability section)
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) (inline in Framework Dependence and Convergence section)
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) (inline in Kuhn's Values section)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-20 13:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -67,6 +67,8 @@ Orch OR locates quantum effects in microtubules—protein structures inside neur
 - **2024 epothilone B study**: Microtubule-stabilizing drugs delayed anesthetic unconsciousness, demonstrating that microtubule integrity affects consciousness-related processes. However, this shows microtubule *involvement*—not quantum involvement. Microtubules are structural proteins with many cellular roles, so drug effects on consciousness do not by themselves distinguish quantum from classical microtubule function.
 - Room-temperature superradiance in tryptophan networks demonstrates quantum collective behavior at body temperature
 - **2025 Wiest et al.**: Anesthetics abolish a 613 THz quantum oscillation peak in microtubules while non-anesthetics don't—a testable signature, though independent replication is needed
+
+These findings form part of a broader [convergence of independent evidence lines](/topics/quantum-biology-evidence-in-neural-systems/)—biological precedent, pharmacological correlation, direct measurement, and computational modelling—that strengthens the cumulative case even where individual lines remain inconclusive.
 
 **Challenge**: The [decoherence objection](/concepts/decoherence/) remains the most serious obstacle. Tegmark calculated coherence times of 10⁻¹³ seconds—too short for neural relevance. Revised calculations accounting for protective mechanisms extend estimates to 10⁻⁵ seconds, but **this is still three orders of magnitude shorter than neural decisions (~300ms)**—the [timing gap](/concepts/timing-gap-problem/) is reduced but not eliminated for mechanisms requiring sustained coherence. However, [alternative mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) operate through discrete quantum events rather than continuous superposition, sidestepping this constraint entirely. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing analysis.
 
@@ -226,6 +228,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 - [it-from-bit-and-participatory-ontology](/topics/it-from-bit-and-participatory-ontology/) — Wheeler's information ontology and the case for informational foundations
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Which interpretations leave room for consciousness as causal participant
 - [quantum-biology](/concepts/quantum-biology/) — Evolution exploiting quantum effects
+- [quantum-biology-evidence-in-neural-systems](/topics/quantum-biology-evidence-in-neural-systems/) — Convergence of four evidence lines for neural quantum effects
 
 ## References
 

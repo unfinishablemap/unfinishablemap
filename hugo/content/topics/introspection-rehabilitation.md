@@ -29,7 +29,7 @@ related_articles:
 - '[[phenomenal-conservatism-and-introspective-evidence]]'
 - '[[introspective-opacity]]'
 - '[[introspection-reliability-first-person-2026-01-15]]'
-- '[[epistemology-of-introspection]]'
+- '[[epistemology-of-introspection-and-calibration]]'
 - '[[heterophenomenology]]'
 - '[[methodology-of-consciousness-research]]'
 - '[[measurement-void]]'
@@ -130,7 +130,7 @@ Consciousness research that restricts itself to third-person methods studies beh
 
 [Phenomenal conservatism](/topics/phenomenal-conservatism-and-introspective-evidence/) provides the epistemological grounding: if experience presents itself as qualitative, unified, and subjective, those presentations deserve default trust as evidence. The rehabilitation programme shows that this default trust, while requiring qualification, is not misplaced. Specific methods address specific failure modes. Training improves accuracy. Cross-modal verification constrains confabulation.
 
-The result is not a return to Cartesian infallibility but something more useful: a calibrated, methodologically aware form of first-person investigation that can work alongside neuroscience rather than being dismissed by it. The [epistemology of introspection](/topics/epistemology-of-introspection/) develops the positive account — arguing that introspection is best understood as a sui generis epistemic capacity, neither perception nor inference, providing direct but fallible access to phenomenal states.
+The result is not a return to Cartesian infallibility but something more useful: a calibrated, methodologically aware form of first-person investigation that can work alongside neuroscience rather than being dismissed by it. The [epistemology of introspection](/topics/epistemology-of-introspection-and-calibration/) develops the positive account — arguing that introspection is best understood as a sui generis epistemic capacity, neither perception nor inference, providing direct but fallible access to phenomenal states.
 
 ## Relation to Site Perspective
 
@@ -150,7 +150,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet gains 
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Systematic contemplative practice as knowledge source
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — When first-person reports constitute evidence
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — The persistent methodological gap
-- [epistemology-of-introspection](/topics/epistemology-of-introspection/) — Competing models of introspective epistemology and the sui generis account
+- [epistemology-of-introspection-and-calibration](/topics/epistemology-of-introspection-and-calibration/) — Competing models of introspective epistemology and the sui generis account
 - [heterophenomenology](/concepts/heterophenomenology/) — Dennett's alternative to taking introspection at face value
 
 ## References

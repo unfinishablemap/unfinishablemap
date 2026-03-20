@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-20 13:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -133,7 +133,7 @@ This response dissolves Claim 2 for the entire class of discrete-event mechanism
 
 *Targets Claim 1, categorical version. Strength: Moderate—establishes possibility, not actuality.*
 
-Three established examples refute the categorical claim that warm biological systems exclude quantum effects. See [quantum-biology](/concepts/quantum-biology/) for comprehensive evidence.
+Three established examples refute the categorical claim that warm biological systems exclude quantum effects. See [quantum-biology](/concepts/quantum-biology/) for comprehensive evidence and [the convergence analysis](/topics/quantum-biology-evidence-in-neural-systems/) for how biological precedent combines with pharmacological, measurement, and computational evidence specifically in neural systems.
 
 **Magnetoreception**: Birds navigate using quantum entanglement in cryptochrome proteins, with spin coherence persisting for *microseconds*—a million times longer than typical molecular decoherence in solution. **Enzyme catalysis**: Quantum tunnelling contributes to reaction acceleration factors of 10¹² to 10¹⁷, confirmed by large kinetic isotope effects. **Photosynthesis**: While coherence lifetimes proved shorter than initially claimed (~60 femtoseconds), quantum effects demonstrably operate in warm biological conditions.
 
@@ -197,6 +197,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits) tenet is direct
 - [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't solve the measurement problem
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-physics interaction
 - [quantum-biology](/concepts/quantum-biology/) — Comprehensive coverage of biological quantum effects
+- [quantum-biology-evidence-in-neural-systems](/topics/quantum-biology-evidence-in-neural-systems/) — Convergence of four independent evidence lines for neural quantum effects
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — Which mechanisms face which constraints
 - [physics-as-disclosure](/concepts/physics-as-disclosure/) — Why decoherence's clean partition supports the disclosure reading of quantum mechanics
 - [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/) — The receding quantum-classical boundary

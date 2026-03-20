@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-20 12:49:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -107,6 +107,10 @@ The key difference: anaesthesia disrupts the filter from outside; cessation may 
 [Near-death experiences](/concepts/near-death-experiences/) present a similar pattern. Parnia's AWARE II study (2023) found that 39% of cardiac arrest survivors reported some conscious awareness during arrest, with 21% describing transcendent experiences characterized as "more real than real" (Van Lommel et al. 2001 found 18%).
 
 Skeptics note the majority report nothing, suggesting memory reconstruction during recovery. But materialists must explain why dysfunction would produce experiences described as clearer than normal waking life; filter theory has a ready answer: compromised interface, less constraint.
+
+### Terminal Lucidity
+
+[Terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/)—the return of mental clarity, memory, and personality in patients with severe neurodegeneration shortly before death—poses the most direct structural problem for production models. In late-stage Alzheimer's, the cortical substrate that production models require for cognition has been substantially destroyed. Yet Batthyány and Greyson's (2020) 124-case survey found that more than 80% showed complete remission, with the majority dying within hours to days. Filter theory predicts this: as the filtering apparatus collapses near death, consciousness briefly regains access to capacities the diseased brain had been blocking. Production models must explain how a brain with massive neuronal loss briefly performs at levels its physical state should not permit.
 
 ### Covert Consciousness
 
@@ -226,6 +230,7 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The proposed mechanism for mind-brain interface
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) — Sleep-onset phenomenology as real-time filter loosening
 - [habituation-void](/voids/habituation-void/) — Habituation as a filtering mechanism that screens out the familiar
+- [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/) — The strongest single-phenomenon case for filter theory: cognitive return despite severe structural brain damage
 - [death-and-consciousness](/topics/death-and-consciousness/) — Broader dying phenomenology as evidence for filter loosening near death
 - [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis: how five altered states converge on the same multi-channel filter architecture
 

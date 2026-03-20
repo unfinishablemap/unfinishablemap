@@ -135,7 +135,7 @@ The Map acknowledges these limitations while rejecting the eliminativist conclus
 
 Introspection's limits may reflect [cognitive closure](/concepts/mysterianism/)—constitutional limits on what human minds can understand. McGinn's cognitive closure thesis suggests humans might be to consciousness what squirrels are to quantum mechanics: constitutionally incapable of grasping the solution. This supports the Occam's Razor Has Limits tenet: phenomenology's resistance to explanation might reflect our cognitive boundaries, not consciousness's unreality.
 
-Methodological humility (introspection is hard, possibly impossibly hard) is compatible with ontological realism (phenomenology is real despite access difficulties). The [epistemology of introspection](/topics/epistemology-of-introspection/) develops the positive account of what kind of knowledge introspection provides — arguing it is a sui generis epistemic capacity that provides direct phenomenal presentation combined with fallible judgement about that presentation.
+Methodological humility (introspection is hard, possibly impossibly hard) is compatible with ontological realism (phenomenology is real despite access difficulties). The [epistemology of introspection](/topics/epistemology-of-introspection-and-calibration/) develops the positive account of what kind of knowledge introspection provides — arguing it is a sui generis epistemic capacity that provides direct phenomenal presentation combined with fallible judgement about that presentation.
 
 ## Relation to Site Perspective
 
@@ -166,7 +166,7 @@ The Map's position: embrace methodological pluralism (first-person, second-perso
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)—The case that contemplative practice is genuine philosophical method, with cross-tradition convergence evidence supporting neurophenomenological integration
 - [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/)—What genuine understanding of another person requires beyond third-person knowledge
 - [introspection-rehabilitation](/topics/introspection-rehabilitation/)—Systematic recovery of trained introspection's evidential standing
-- [epistemology-of-introspection](/topics/epistemology-of-introspection/)—Competing models of introspective knowledge and the sui generis account
+- [epistemology-of-introspection](/topics/epistemology-of-introspection-and-calibration/)—Competing models of introspective knowledge and the sui generis account
 - [consciousness-and-the-problem-of-measurement-standards](/topics/consciousness-and-the-problem-of-measurement-standards/)—Why the measurement triad (units, instruments, calibration) breaks down for phenomenal quantities
 
 ## References

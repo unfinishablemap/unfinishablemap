@@ -29,7 +29,7 @@ related_articles:
 - '[[pre-conceptual-knowing]]'
 - '[[modal-structure-of-phenomenal-properties]]'
 - '[[intentionality]]'
-- '[[epistemology-of-introspection]]'
+- '[[epistemology-of-introspection-and-calibration]]'
 - '[[phenomenal-transparency]]'
 - '[[acquaintance-void]]'
 title: Phenomenal Acquaintance
@@ -83,7 +83,7 @@ Phenomenal acquaintance grounds several moves in philosophy of consciousness:
 
 A common objection: if phenomenal acquaintance is so direct and immediate, it should be infallible. But [introspection](/concepts/introspection/) is demonstrably fallible. How can acquaintance be both immediate and error-prone?
 
-The resolution lies in distinguishing the relation from judgements based on it. Phenomenal acquaintance with a shade of blue is not itself a judgement—it is a presentation. Error enters when the subject forms beliefs about the presentation: classifying the shade, comparing it to memory, attributing properties to it. These downstream judgements are fallible because they involve concepts, memory, and inference. The acquaintance relation itself presents what it presents. The [epistemology of introspection](/topics/epistemology-of-introspection/) develops this acquaintance/judgement distinction into a full account: introspection provides infallible *presentation* but fallible *judgement*, and errors empirically cluster at the judgement level — categorisation, intensity, emotional valence — rather than at the level of bare phenomenal presence.
+The resolution lies in distinguishing the relation from judgements based on it. Phenomenal acquaintance with a shade of blue is not itself a judgement—it is a presentation. Error enters when the subject forms beliefs about the presentation: classifying the shade, comparing it to memory, attributing properties to it. These downstream judgements are fallible because they involve concepts, memory, and inference. The acquaintance relation itself presents what it presents. The [epistemology of introspection](/topics/epistemology-of-introspection-and-calibration/) develops this acquaintance/judgement distinction into a full account: introspection provides infallible *presentation* but fallible *judgement*, and errors empirically cluster at the judgement level — categorisation, intensity, emotional valence — rather than at the level of bare phenomenal presence.
 
 This is not to claim that acquaintance is infallible in any metaphysically loaded sense. The point is structural: the immediacy of phenomenal acquaintance means that certain kinds of error—those involving misrepresentation across a causal chain—do not arise. Other kinds of error—misclassification, inattention, imprecise description—remain possible because they involve operations that go beyond the acquaintance relation itself.
 
@@ -114,7 +114,7 @@ A stronger concern emerges from the distinction between phenomenal acquaintance 
 - [phenomenal intentionality](/concepts/intentionality/#phenomenal-intentionality-theory) — The thesis that genuine aboutness derives from phenomenal consciousness via acquaintance
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — The structural features of the qualities acquaintance reveals
 - [introspection](/concepts/introspection/) — The reliability debate and the relation between acquaintance and introspective judgement
-- [epistemology-of-introspection](/topics/epistemology-of-introspection/) — The competing models (acquaintance, inner sense, transparency, inferentialism) and the case for sui generis introspective access
+- [epistemology-of-introspection-and-calibration](/topics/epistemology-of-introspection-and-calibration/) — The competing models (acquaintance, inner sense, transparency, inferentialism) and the case for sui generis introspective access
 - [acquaintance-void](/voids/acquaintance-void/) — The structural limits on what modes of acquaintance are possible
 
 ## References

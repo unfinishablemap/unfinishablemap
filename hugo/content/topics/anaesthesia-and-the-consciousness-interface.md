@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-20 09:41:00+00:00
+ai_modified: 2026-03-20 13:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -151,6 +151,7 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Anaesthesia within the spectrum of altered states
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy for the consciousness-brain interface
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why brains specifically serve as consciousness interfaces
+- [quantum-biology-evidence-in-neural-systems](/topics/quantum-biology-evidence-in-neural-systems/) — Convergence of pharmacological and other evidence for neural quantum effects
 - [binding-problem](/concepts/binding-problem/) — Temporal and spatial binding challenges relevant to anaesthetic disruption
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the mechanism through which consciousness acts
 - [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis: anaesthetic dissociations compared with four other altered states in a convergence matrix

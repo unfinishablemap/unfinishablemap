@@ -41,7 +41,7 @@ related_articles:
   - "[[epistemology-of-phenomenal-reports]]"
   - "[[consciousness-and-interpersonal-understanding]]"
   - "[[cognitive-science-of-dualism]]"
-  - "[[epistemology-of-introspection]]"
+  - "[[epistemology-of-introspection-and-calibration]]"
   - "[[contemplative-neuroscience]]"
   - "[[quantum-measurement-and-consciousness]]"
   - "[[consciousness-and-the-structure-of-scientific-revolutions]]"
@@ -126,7 +126,7 @@ The Map's position: epistemic asymmetry reflects ontological asymmetry. The diff
 
 Introspection's unreliability — a common objection to first-person methods — actually supports the Map's position. Early experimental psychology produced inconsistent introspective results. Contemporary critics argue introspection suffers from self-observation problems and response bias. The Map acknowledges these limitations while rejecting the eliminativist conclusion. Difficulty accessing phenomenology doesn't entail its unreality. Compare quantum measurement: the observer effect makes quantum systems difficult to observe without disturbing them, but this reflects deep features of quantum reality, not its non-existence.
 
-Trained introspection addresses the reliability objection by treating first-person observation as a skill. Contemplative traditions have developed sophisticated techniques over millennia. As [[contemplative-practice-as-philosophical-evidence|cross-traditional evidence confirms]], trained meditators produce more consistent and fine-grained phenomenological reports. Husserl's [[phenomenological-method-and-evidence-standards|evidence taxonomy]] adds rigour: apodictic evidence (experience exists) is indubitable, while presumptive evidence (background phenomenology persists when unattended) remains revisable. The [[epistemology-of-introspection|epistemology of introspection]] develops the positive account — arguing introspection is a sui generis epistemic capacity providing direct phenomenal presentation combined with fallible judgement.
+Trained introspection addresses the reliability objection by treating first-person observation as a skill. Contemplative traditions have developed sophisticated techniques over millennia. As [[contemplative-practice-as-philosophical-evidence|cross-traditional evidence confirms]], trained meditators produce more consistent and fine-grained phenomenological reports. Husserl's [[phenomenological-method-and-evidence-standards|evidence taxonomy]] adds rigour: apodictic evidence (experience exists) is indubitable, while presumptive evidence (background phenomenology persists when unattended) remains revisable. The [[epistemology-of-introspection-and-calibration|epistemology of introspection]] develops the positive account — arguing introspection is a sui generis epistemic capacity providing direct phenomenal presentation combined with fallible judgement.
 
 Introspection's limits may reflect [[mysterianism|cognitive closure]] — constitutional limits on human understanding. Methodological humility (introspection is hard, possibly impossibly hard) is compatible with ontological realism (phenomenology is real despite access difficulties).
 
@@ -150,7 +150,7 @@ This does not warrant defeatism. It warrants recognising that consciousness may 
 
 - [[introspection-rehabilitation]] — The case for restoring introspection as a serious method
 - [[contemplative-practice-as-philosophical-evidence]] — Cross-traditional convergence as philosophical methodology
-- [[epistemology-of-introspection]] — Competing models of introspective knowledge and the sui generis account
+- [[epistemology-of-introspection-and-calibration]] — Competing models of introspective knowledge and the sui generis account
 - [[epistemology-of-phenomenal-reports]] — How first-person reports gain evidential standing in science
 - [[phenomenological-method-and-evidence-standards]] — Husserl's evidence taxonomy and its consequences
 - [[contemplative-neuroscience]] — Empirical integration of first-person and third-person methods

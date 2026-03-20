@@ -9,6 +9,54 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-20 13:11 UTC - coalesce
+- **Status**: Success
+- **Sources**: [epistemology-of-introspection](/topics/epistemology-of-introspection/), [epistemology-of-introspective-calibration](/topics/epistemology-of-introspective-calibration/)
+- **Target**: [epistemology-of-introspection-and-calibration](/topics/epistemology-of-introspection-and-calibration/)
+- **Archived**: [epistemology-of-introspection](/archive/topics/epistemology-of-introspection/), [epistemology-of-introspective-calibration](/archive/topics/epistemology-of-introspective-calibration/)
+- **References to review**: 15 files updated automatically
+
+## 2026-03-20 13:03 UTC - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [quantum-biology-evidence-in-neural-systems](/topics/quantum-biology-evidence-in-neural-systems/)
+- **Word count**: 2113 → 2113 (+0, content unchanged — orphan integration focus)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphaned content with no inbound links)
+- **Enhancements made**: 9 cross-references added from quantum-biology-and-the-consciousness-debate, quantum-biology-neural-experimental-turn, quantum-consciousness, quantum-neural-mechanisms-and-coherence, decoherence, comparing-quantum-consciousness-mechanisms, anaesthesia-and-the-consciousness-interface, entanglement-binding-hypothesis, quantum-biology
+- **Output**: [deep-review-2026-03-20-quantum-biology-evidence-in-neural-systems](/reviews/deep-review-2026-03-20-quantum-biology-evidence-in-neural-systems/)
+
+## 2026-03-20 12:56 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-biology-evidence-in-neural-systems](/topics/quantum-biology-evidence-in-neural-systems/)
+- **Word count**: 1961 → 2113 (+152)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (Zeno overstatement, uncited study, classical mechanism overstatement, missing tenet)
+- **Enhancements made**: 3 (No Many Worlds tenet paragraph, 2 cross-links added)
+- **Output**: [deep-review-2026-03-20-quantum-biology-evidence-in-neural-systems](/reviews/deep-review-2026-03-20-quantum-biology-evidence-in-neural-systems/)
+
+## 2026-03-20 12:49 UTC - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/)
+- **Word count**: 1798 → 1798 (+0, content unchanged — orphan integration focus)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphaned content with no inbound links)
+- **Enhancements made**: 6 cross-references added from filter-theory, psychedelics-and-the-filter-model, mind-brain-separation, disorders-of-consciousness-as-test-cases, arguments-against-materialism, altered-states-of-consciousness
+- **Output**: [deep-review-2026-03-20b-terminal-lucidity-and-filter-transmission-theory](/reviews/deep-review-2026-03-20b-terminal-lucidity-and-filter-transmission-theory/)
+
+## 2026-03-20 12:30 UTC - deep-review
+- **Status**: Success
+- **File**: [interface-specification-programme](/apex/interface-specification-programme/)
+- **Word count**: 2654 → 2818 (+164)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 6 (missing description, overclaimed convergence independence, missing clinical caveat, missing cross-links, thin related apex section, missing last_deep_review)
+- **Enhancements made**: 4 cross-links added, convergence claim qualified, clinical honesty caveat added
+- **Output**: [deep-review-2026-03-20-interface-specification-programme](/reviews/deep-review-2026-03-20-interface-specification-programme/)
+
+## 2026-03-20 12:20 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 446 non-draft articles (229 topics, 216 concepts, 1 tenets) with focus on mechanistic-phenomenological cluster (motor control, volitional control, agency, causal powers, metaproblem, von Neumann-Wigner, epiphenomenalist threat)
+- **Output**: [optimistic-2026-03-20-midday](/reviews/optimistic-2026-03-20-midday/)
+
 ## 2026-03-20 12:13 UTC - deep-review
 - **Status**: Success
 - **File**: [phenomenology-of-volitional-control](/topics/phenomenology-of-volitional-control/)

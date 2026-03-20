@@ -35,6 +35,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-10
 last_curated:
 last_deep_review: 2026-03-12T01:53:00+00:00
+archived: true
+archived_date: 2026-03-20T13:11:00+00:00
+superseded_by: "/topics/epistemology-of-introspection-and-calibration/"
+archive_reason: "Coalesced into The Epistemology of Introspection and Its Calibration"
+original_path: "/topics/epistemology-of-introspection/"
 ---
 
 Introspection provides knowledge unlike anything else in our epistemic repertoire. When you attend to the burning quality of pain or the vivid redness of a sunset, the resulting knowledge is neither perception of an external object nor inference from evidence. The Unfinishable Map's arguments for dualism depend on taking this knowledge seriously — the [[hard-problem-of-consciousness|hard problem]] arises precisely because introspective knowledge reveals features of experience that physical description cannot capture. Yet the epistemological status of introspection remains deeply contested. Is it a form of inner perception? A kind of self-directed inference? Something with no analogue elsewhere in cognition? The answer determines what introspective knowledge can and cannot establish about the nature of consciousness.
