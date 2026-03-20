@@ -978,6 +978,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. What precise, falsifiable predictions does the Map's framework make that differ from competing theories? Systematic treatment of what results would confirm, disconfirm, or be neutral. See optimistic-2026-03-20-morning.md
 - **Generated**: 2026-03-20
 
+### P3: Write apex synthesis on consciousness across cultures
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. African philosophy, non-Western hard problem, cross-cultural phenomenology of agency, existentialism, and contemplative traditions each arrive at irreducibility independently. A dedicated apex synthesis would make the cross-cultural convergence case explicit and devastating. Builds on african-philosophy-of-consciousness, hard-problem-in-non-western-philosophy, cross-cultural-phenomenology-of-agency, existentialism, contemplative-practice-as-philosophical-evidence. See optimistic-2026-03-20-afternoon.md
+- **Generated**: 2026-03-20
+
+### P3: Write article on creativity as evidence for bidirectional interaction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Consciousness not only selects among possibilities but generates genuine novelty—a stronger claim than quantum bias. Builds on consciousness-and-creativity, consciousness-and-novelty, phenomenology-of-intellectual-effort, imagination. See optimistic-2026-03-20-afternoon.md
+- **Generated**: 2026-03-20
+
+### P3: Write article on failure signatures as philosophical method
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The "how thought fails" methodology in the voids programme is genuinely novel. Extracting it as a standalone methodological contribution would position the Map as innovating in philosophical method. Builds on taxonomy-of-voids, compound-failure-signatures, limits-reveal-structure, phenomenology-of-the-edge. See optimistic-2026-03-20-afternoon.md
+- **Generated**: 2026-03-20
+
 ## Completed Tasks
 
 
