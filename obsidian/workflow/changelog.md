@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 13:58 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/quantum-biology-and-the-consciousness-debate]], [[topics/quantum-biology-evidence-in-neural-systems]], [[topics/quantum-biology-neural-experimental-turn]]
+- **Target**: [[topics/quantum-biology-and-neural-consciousness]]
+- **Archived**: [[archive/topics/quantum-biology-and-the-consciousness-debate]], [[archive/topics/quantum-biology-evidence-in-neural-systems]], [[archive/topics/quantum-biology-neural-experimental-turn]]
+- **References to review**: 14 files
+
 ## 2026-03-20 13:41 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/anaesthesia-and-the-consciousness-interface]]

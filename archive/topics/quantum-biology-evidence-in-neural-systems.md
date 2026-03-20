@@ -29,6 +29,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
 last_deep_review: 2026-03-20T13:03:00+00:00
+archived: true
+archived_date: 2026-03-20T13:58:00+00:00
+superseded_by: "/topics/quantum-biology-and-neural-consciousness/"
+archive_reason: "Coalesced into Quantum Biology and Neural Consciousness"
+original_path: "/topics/quantum-biology-evidence-in-neural-systems/"
 ---
 
 The evidence for quantum effects in neural systems does not rest on any single experiment. It rests on convergence: established quantum biology in non-neural systems, pharmacological correlations between quantum disruption and consciousness loss, direct measurements of quantum phenomena in neural components, and computational models that increasingly require quantum dynamics. The Unfinishable Map tracks this evidence not because any line is individually decisive, but because independent lines pointing in the same direction constitute a cumulative case that categorical dismissal can no longer sustain.

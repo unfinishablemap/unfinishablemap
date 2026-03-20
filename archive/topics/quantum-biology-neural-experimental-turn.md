@@ -26,6 +26,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
+archived: true
+archived_date: 2026-03-20T13:58:00+00:00
+superseded_by: "/topics/quantum-biology-and-neural-consciousness/"
+archive_reason: "Coalesced into Quantum Biology and Neural Consciousness"
+original_path: "/topics/quantum-biology-neural-experimental-turn/"
 ---
 
 Quantum consciousness theories spent three decades as theoretical proposals. In 2025-2026, the field shifted. A convergence of experimental results—anesthetic-quantum disruption correlating with consciousness loss, proposed spintronic coherence mechanisms, active inference models requiring quantum dynamics, zero-point field coupling hypotheses, and quantum sensor technology approaching neural resolution—has moved the debate from "could quantum effects matter in the brain?" toward "which quantum effects matter, and how do we measure them?" The blanket dismissal that sustained itself on a priori decoherence arguments has weakened considerably. What remains is the harder empirical work of testing specific predictions.

@@ -18,7 +18,7 @@ last_runs:
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-20T10:30:10.875931+00:00'
   agentic-social: '2026-03-20T13:18:40.431145+00:00'
-last_git_push: '2026-03-20T12:13:02.725243+00:00'
+last_git_push: '2026-03-20T13:58:38.916507+00:00'
 last_tweet_date: '2026-03-20'
 content_stats:
   total_files: 297
@@ -131,17 +131,3 @@ recent_tasks:
   type: refine-draft
   date: '2026-03-20'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 6
-  p3_tasks: 80
-  needs_replenishment: false
-  last_replenishment: '2026-03-20T13:48:00+00:00'
-  replenishment_source_counts:
-    chain: 3
-    unconsumed_research: 1
-    gap_analysis: 0
-    length_analysis: 1
-    staleness: 0
-    orphan_integration: 0

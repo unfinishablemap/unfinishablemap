@@ -25,6 +25,11 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-27
 last_curated:
+archived: true
+archived_date: 2026-03-20T13:58:00+00:00
+superseded_by: "/topics/quantum-biology-and-neural-consciousness/"
+archive_reason: "Coalesced into Quantum Biology and Neural Consciousness"
+original_path: "/topics/quantum-biology-and-the-consciousness-debate/"
 ---
 
 Quantum biology has shifted the burden of proof in consciousness debates. For decades, critics dismissed quantum approaches to consciousness with a simple objection: biological systems are too warm, wet, and noisy for quantum effects. The brain, they argued, is a classical computer made of classical parts. We now know this is empirically false. Birds navigate using quantum entanglement. Enzymes accelerate reactions through quantum tunnelling. Photosynthetic complexes exploit coherent superposition. The categorical objection has collapsed. What remains is the harder question: do neural systems specifically exploit quantum effects, and if so, does consciousness play any role at the quantum interface?
