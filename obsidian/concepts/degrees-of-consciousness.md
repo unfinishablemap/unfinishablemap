@@ -4,7 +4,8 @@ description: "Consciousness varies in intensity and richness, not just in kind. 
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T09:50:00+00:00
+ai_modified: 2026-03-20T10:03:00+00:00
+last_deep_review: 2026-03-20T10:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -60,7 +61,7 @@ These dimensions can vary independently. Ketamine dissociation involves high phe
 - **Disconnected consciousness** — phenomenal experience persists (dreams, hallucinations) but connection to external stimuli is severed
 - **Unconsciousness** — no reportable experience
 
-Different agents produce different gradation profiles. Propofol creates relatively sharp transitions. Ketamine preserves vivid phenomenal states while disconnecting access and motor control. Xenon produces graded dimming. The pharmacological diversity of these profiles — each agent targeting distinct molecular systems — maps the interface architecture through which consciousness connects to neural activity.
+Different agents produce different gradation profiles. Propofol creates relatively sharp transitions. Ketamine preserves vivid phenomenal states while disconnecting access and motor control. Xenon produces graded dimming. Complete [[loss-of-consciousness|loss of consciousness]] under deep anaesthesia represents the endpoint of this gradient, though even here the boundary is contested. The pharmacological diversity of these profiles — each agent targeting distinct molecular systems — maps the interface architecture through which consciousness connects to neural activity.
 
 ### Sleep and Dreaming
 
@@ -92,7 +93,7 @@ This predicts specific gradation patterns. Interface disruption should produce g
 
 ### Emergence vs. Interface
 
-The gradation question discriminates between production and interface models. If the brain produces consciousness, degrees should track neural complexity in a roughly monotonic fashion — more complexity, more consciousness. But the empirical pattern is more complex. Psychedelics reduce measurable neural organisation (decreased connectivity, entropy increase) while intensifying phenomenal experience. Deep meditation reduces cognitive complexity while preserving or intensifying phenomenal clarity. These inversions are difficult for production models but predicted by filter models where reduced constraint can increase transmission.
+The gradation question discriminates between production and interface models. If the brain produces consciousness, degrees should track neural complexity in a roughly monotonic fashion — more complexity, more consciousness. But the empirical pattern is more complex. Psychedelics reduce default mode network connectivity and increase neural entropy — markers of reduced large-scale organisation — while intensifying phenomenal experience. Deep meditation reduces cognitive complexity while preserving or intensifying phenomenal clarity. These dissociations between neural organisation and experiential intensity are difficult for straightforward production models but predicted by filter models where reduced constraint can increase transmission.
 
 ## The Lower Bound Problem
 
@@ -111,6 +112,8 @@ Degrees of consciousness raise a fundamental question: is there a lowest degree,
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The degree of consciousness may reflect the bandwidth of the quantum interface — how many collapse events per unit time consciousness can influence, or how precisely it can bias outcomes. Higher degrees of consciousness correspond to richer interface engagement; lower degrees to narrower channels. This predicts that degrees should vary with the availability of suitable quantum substrates in neural tissue.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness causally influences the physical world, the degree of that influence may itself be graded. Intense conscious engagement (deliberate effort, focused attention) may involve more interface events than passive awareness. The [[phenomenology-of-agency-vs-passivity|phenomenology of agency]] supports this: effortful choice feels different from passive observation, suggesting different degrees of causal engagement.
+
+**[[tenets#^no-many-worlds|No Many Worlds]]**: If consciousness participates in quantum collapse — selecting among superposed outcomes — then the degree of consciousness may determine the scope of that participation. Under many-worlds, all outcomes occur and no selection happens; gradation would be irrelevant to physics. Under collapse interpretations, the degree of conscious engagement could modulate which collapse events consciousness influences, making gradation physically consequential rather than merely phenomenological.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The temptation to treat consciousness as binary — present or absent, on or off — reflects a preference for simplicity over accuracy. Consciousness may be irreducibly graded in ways that resist neat categorisation. The multiple dimensions of gradation (intensity, richness, complexity, access) compound this: a single scalar measure of "how conscious" a system is may not exist.
 
