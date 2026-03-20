@@ -135,6 +135,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-19
 
+### P3: Address inflated empirical claims and illusionism response in quantum mechanism articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found (1) consciousness-selecting-neural-patterns.md conflates any quantum effect in microtubules with the sustained coherent superpositions the theory requires — mirrors the photosynthesis coherence retraction the site itself documents; (2) all three quantum mechanism articles (filter-theory, consciousness-selecting-neural-patterns, downward-causation) use the same regress argument against illusionism without engaging with Frankish's functional-seeming response; (3) selection within Born rule probabilities creates unfalsifiability that needs explicit treatment. See pessimistic-2026-03-20-c.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-20
+
 ### P3: Address argumentative gaps in ai-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
