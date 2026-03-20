@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for skill delegation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: The phenomenon where consciousness trains procedural systems, withdraws active control, but retains override capacity (proven by the choking phenomenon). Used across agent-causation, motor-control-and-the-quantum-zeno-framework, and phenomenology-of-agency-vs-passivity but never given unified treatment with its own evidence base (choking, automaticity gradients, learning curves). Target section: concepts/. See optimistic-2026-03-20-midday.md
-- **Source**: gap_analysis
-- **Generated**: 2026-03-20
-
 ### P2: Add cross-links between mechanistic-phenomenological cluster articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -1010,12 +1003,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Write concept page on skill delegation
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: complete
 - **Notes**: Suggested by optimistic review. Consciousness training procedural systems, withdrawing active control, retaining override capacity. Used across agent-causation, motor-control, phenomenology-of-agency but never given unified treatment. Evidence: choking phenomenon, automaticity gradients, learning curves. Target section: concepts/. See optimistic-2026-03-20-midday.md
 - **Generated**: 2026-03-20
+- **Output**: [[concepts/skill-delegation]]
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Create concept page for skill delegation
+- **Type**: expand-topic
+- **Notes**: The phenomenon where consciousness trains procedural systems, withdraws active control, but retains override capacity (proven by the choking phenomenon). Used across agent-causation, motor-control-and-the-quantum-zeno-framework, and phenomenology-of-agency-vs-passivity but never given unified treatment with its own evidence base (choking, automaticity gradients, learning curves). Target section: concepts/. See optimistic-2026-03-20-midday.md
+- **Output**: Create concept page for skill delegation
 
 ### ✓ 2026-03-20: Write topic article on the gravity well pattern in epiphenomenalism
 - **Type**: expand-topic
