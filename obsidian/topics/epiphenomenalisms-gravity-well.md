@@ -4,7 +4,7 @@ description: "Every theory acknowledging consciousness as distinct from physics 
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T16:31:00+00:00
+ai_modified: 2026-03-20T16:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-20T16:44:00+00:00
 ---
 
 Theories of consciousness face a structural problem that behaves like a gravity well: once a framework acknowledges consciousness as something distinct from physical processes, it is pulled toward treating consciousness as causally inert. The pull strengthens as the theory develops, and most attempts to resist it fail because they address symptoms rather than the source. The Unfinishable Map calls this the gravity well pattern—and understanding its mechanics clarifies why the Map's own framework makes the specific commitments it does.
@@ -55,7 +55,7 @@ Not all theories sit at the same distance from the well's centre. The metaphor i
 
 **Two steps removed** are property dualism without interaction and non-reductive physicalism. Both assert that consciousness is real, distinct from physical description, and causally efficacious—but neither provides a mechanism for how the causal efficacy works. Kim showed that [[the-epiphenomenalist-threat#Non-Reductive Physicalism: Kim's Target|non-reductive physicalism]] is unstable: supervenience without identity gives mental properties no independent causal role. Property dualism fares similarly. Chalmers acknowledged in *The Conscious Mind* that his "naturalistic dualism" is compatible with epiphenomenalism even if it does not require it. These theories resist the pull verbally—they *assert* causal efficacy—while their structural commitments leave no room for it.
 
-**Three steps removed** are theories that provide something consciousness might do, but locate it within a framework that can do the same job without consciousness. [[concepts/functionalism|Functionalism]] defines mental states by causal roles, apparently guaranteeing efficacy. But if the functional role can be played without phenomenal experience (the absent qualia scenario), then experience is a passenger in its own functional vehicle. [[panpsychism|Panpsychism]] places consciousness everywhere, seemingly weaving it into causation—but the [[panpsychisms-combination-problem|combination problem]] reintroduces the threat at the macro level, because if physical structure alone determines how micro-experiences combine, the resulting human consciousness is epiphenomenal relative to that structure.
+**Three steps removed** are theories that provide something consciousness might do, but locate it within a framework that can do the same job without consciousness. [[concepts/functionalism|Functionalism]] defines mental states by causal roles, apparently guaranteeing efficacy. But if the functional role can be played without phenomenal experience—the absent qualia scenario, contested by functionalists but not refuted—then experience is a passenger in its own functional vehicle. [[panpsychism|Panpsychism]] places consciousness everywhere, seemingly weaving it into causation—but the [[panpsychisms-combination-problem|combination problem]] reintroduces the threat at the macro level, because if physical structure alone determines how micro-experiences combine, the resulting human consciousness is epiphenomenal relative to that structure.
 
 The distance from the centre matters because it predicts how visible the problem is. Theories at the periphery can sustain the appearance of escaping for longer. But the pull is constant—it acts on any theory that combines real consciousness with complete physics.
 
@@ -65,11 +65,11 @@ Most attempts to escape the gravity well share a common flaw: they try to secure
 
 **The assertion strategy.** Some theories simply assert that consciousness is causally efficacious. Non-reductive physicalism asserts that mental properties have causal powers in virtue of supervening on physical properties. But assertion is not mechanism. If the physical base is causally sufficient for the effect, the mental property's "causal power" is either identical to the physical base's power (collapse into identity theory) or adds nothing (collapse into epiphenomenalism).
 
-**The redescription strategy.** Russellian monism and some forms of panpsychism claim that consciousness *is* the intrinsic nature of physical properties—what matter is "from the inside." This elegantly dissolves the mental-physical distinction. But dissolving the distinction also dissolves the independent causal contribution. If consciousness just *is* what physics describes from another angle, then physics was already capturing the causal story completely. Consciousness adds a perspective, not a cause.
+**The redescription strategy.** Russellian monism and some forms of panpsychism claim that consciousness *is* the intrinsic nature of physical properties—what matter is "from the inside." This elegantly dissolves the mental-physical distinction. But dissolving the distinction threatens the independent causal contribution. Russellian monists argue that intrinsic nature *constitutes* the physical rather than merely redescribing it—yet if physics already captures the complete causal structure, and consciousness provides only the intrinsic character behind that structure, then the causal story was complete without reference to consciousness. Consciousness fills in what matter *is*, but adds nothing to what matter *does*.
 
 **The definition strategy.** Functionalism defines consciousness into causal relevance by making causal role constitutive of mental states. Pain just *is* the state that causes avoidance. But this works only for the functional aspect—the "what it does." If there is something it is like to be in pain (phenomenal character beyond functional role), that felt quality falls outside the definition and inherits no guaranteed causal power. The definition secures causation for the function, not the experience.
 
-**The emergence strategy.** Strong emergence claims that conscious properties are novel causal powers that arise from but are not reducible to physical organisation. This would escape the well if true—genuinely new causes entering the world at higher levels of complexity. But strong emergence faces a dilemma: either the emergent powers are consistent with the physical laws governing their components (in which case, physics predicted the outcome and the emergence adds nothing causal) or they override physical laws (in which case, strong emergence is just interactionism under another name, and must explain *how* the override occurs—the same question interactionism faces).
+**The emergence strategy.** Strong [[emergence]] claims that conscious properties are novel causal powers that arise from but are not reducible to physical organisation. This would escape the well if true—genuinely new causes entering the world at higher levels of complexity. But strong emergence faces a dilemma: either the emergent powers are consistent with the physical laws governing their components (in which case, physics predicted the outcome and the emergence adds nothing causal) or they override physical laws (in which case, strong emergence is just interactionism under another name, and must explain *how* the override occurs—the same question interactionism faces).
 
 Each strategy addresses a symptom—the *appearance* of causal inertness—rather than the source: the *completeness* of physical causation. The gravity well persists because its source persists.
 
@@ -91,7 +91,7 @@ The gravity well pattern serves as a diagnostic tool. Given any theory of consci
 
 This diagnostic explains why the [[the-epiphenomenalist-threat#The Pattern|pattern]] identified in the companion article is so consistent across otherwise diverse positions. Non-reductive physicalism, functionalism, property dualism, and panpsychism differ on nearly everything—ontology, methodology, ambitions. They converge on epiphenomenalism because they share the two premises that generate the pull.
 
-The diagnostic also clarifies the debate's real stakes. The central question in philosophy of mind is not "what is consciousness?" or "how does consciousness arise?" but rather: "is physics causally complete?" Every other question—the nature of qualia, the combination problem, the explanatory gap—takes its shape from the answer to this one. Frameworks that answer yes must explain consciousness as something physics produces but that produces nothing in return. Frameworks that answer no must specify where and how the incompleteness exists. There is no third option that avoids both commitments.
+The diagnostic also clarifies what the Map takes to be the debate's real stakes. From this perspective, the central question in philosophy of mind is not "what is consciousness?" or "how does consciousness arise?" but rather: "is physics causally complete?" Every other question—the nature of qualia, the combination problem, the explanatory gap—takes its shape from the answer to this one. Frameworks that answer yes must explain consciousness as something physics produces but that produces nothing in return. Frameworks that answer no must specify where and how the incompleteness exists. There is no third option that avoids both commitments.
 
 ## Relation to Site Perspective
 
@@ -101,7 +101,7 @@ The gravity well pattern is central to the Map's self-understanding. The Map's [
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** denies the second premise: physics is not causally complete at quantum indeterminacies. This is the thrust that achieves escape velocity. Without it, the Map's dualism would face the same gravitational pull as every other non-reductive position.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** states what escape looks like: consciousness causally influences physical outcomes at the points of incompleteness. The self-stultification argument provides the strongest evidence that human consciousness, specifically, has achieved this escape.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** states what escape looks like: consciousness causally influences physical outcomes at the points of incompleteness. The [[concepts/epiphenomenalism#The Self-Stultification Argument|self-stultification argument]] provides the strongest evidence that human consciousness, specifically, has achieved this escape.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** maintains the conditions for escape. Many-worlds would close the gap that Minimal Quantum Interaction exploits, restoring causal completeness and pulling the framework back into the well.
 
