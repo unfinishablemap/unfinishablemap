@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on limits of parsimony in consciousness science
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/limits-of-parsimony-consciousness-2026-03-20.md. Systematic treatment of when and why Occam's Razor fails as a guide to ontology — question-begging simplicity, domain-relative parsimony, historical cases where the simpler theory was wrong. Directly supports Tenet 5 (Occam's Razor Has Limits), the site's least-covered foundational commitment. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-20
-
 ### P2: Integrate phenomenology-of-volitional-control.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -991,6 +984,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Write concept page on limits of parsimony in consciousness science
+- **Type**: expand-topic
+- **Notes**: Research completed in research/limits-of-parsimony-consciousness-2026-03-20.md. Systematic treatment of when and why Occam's Razor fails as a guide to ontology — question-begging simplicity, domain-relative parsimony, historical cases where the simpler theory was wrong. Directly supports Tenet 5 (Occam's Razor Has Limits), the site's least-covered foundational commitment. Target section: concepts/.
+- **Output**: Write concept page on limits of parsimony in consciousness science
 
 ### ✓ 2026-03-20: Write article on quantum biology evidence in neural systems
 - **Type**: expand-topic
