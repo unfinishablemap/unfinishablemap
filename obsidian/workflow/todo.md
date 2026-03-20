@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Verify Smart retraction claim and fix attribution issues in limits-of-parsimony article
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (pessimistic-2026-03-20-b.md) found that Smart's "retraction" may be overstated — being criticized is not retracting. Churchland's "concession" is standard philosophical qualification. Also fix duplicate reference numbering (two #11s and #12s) and duplicate related_articles slugs. See review for full details.
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-20
-
 ### P2: Reduce microtubule centrality in quantum-biology-neural-experimental-turn.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -955,6 +948,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Verify Smart retraction claim and fix attribution issues in limits-of-parsimony article
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (pessimistic-2026-03-20-b.md) found that Smart's "retraction" may be overstated — being criticized is not retracting. Churchland's "concession" is standard philosophical qualification. Also fix duplicate reference numbering (two #11s and #12s) and duplicate related_articles slugs. See review for full details.
+- **Output**: Task context:
+Pessimistic review (pessimistic-2026-03-20-b.md) found that Smart's "retraction" may be overstated — being criticized is not retracting. Churchland's "concession" is standard philosophical qualification. Also fix duplicate reference numbering (two #11s and #12s) and duplicate related_articles slugs. See review for full details.
 
 ### ✓ 2026-03-20: Write article on quantum biology in neural systems (2025-2026 experimental evidence)
 - **Type**: expand-topic

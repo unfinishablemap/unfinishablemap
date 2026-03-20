@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 04:54 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/limits-of-parsimony-in-consciousness-science]]
+- **Changes**: Reframed Smart "retraction" as "abandoned defence" (attribution accuracy), reframed Churchland "concession" as standard qualification with practical significance, fixed duplicate reference numbering (11-14), softened rhetorical overstatements
+- **Published**: yes
+
 ## 2026-03-20 04:47 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/limits-of-parsimony-in-consciousness-science.md, topics/quantum-biology-neural-experimental-turn.md

@@ -1,10 +1,10 @@
 ---
 title: "Limits of Parsimony in Consciousness Science"
-description: "How hostile witnesses, historical retractions, and internal contradictions expose parsimony as the weakest argument against dualism—human+AI analysis."
+description: "How defenders' own qualifications, internal contradictions, and historical failures expose parsimony as the weakest argument against dualism—human+AI analysis."
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T03:27:00+00:00
+ai_modified: 2026-03-20T04:54:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,17 +30,17 @@ ai_generated_date: 2026-03-20
 last_curated:
 ---
 
-Parsimony is the most commonly invoked reason to prefer physicalism over dualism in consciousness science, yet it may be the weakest. The Unfinishable Map's [[parsimony-epistemology]] article establishes the conceptual framework — why simplicity lacks universal epistemic warrant — and the [[epistemological-limits-of-occams-razor|arguments article]] makes the philosophical case. This article examines the concrete evidence: retractions, concessions from within the materialist camp, internal contradictions revealed by case studies, and a reversal argument suggesting dualism may be simpler than physicalism along the dimension that matters most.
+Parsimony is the most commonly invoked reason to prefer physicalism over dualism in consciousness science, yet it may be the weakest. The Unfinishable Map's [[parsimony-epistemology]] article establishes the conceptual framework — why simplicity lacks universal epistemic warrant — and the [[epistemological-limits-of-occams-razor|arguments article]] makes the philosophical case. This article examines the concrete evidence: abandoned defences and qualifications from within the materialist camp, internal contradictions revealed by case studies, and a reversal argument suggesting dualism may be simpler than physicalism along the dimension that matters most.
 
 ## Hostile Witnesses
 
 The most revealing evidence against parsimony arguments comes from philosophers who have every reason to defend them.
 
-### Smart's Retraction
+### Smart's Abandoned Defence
 
-J. J. C. Smart's 1959 paper "Sensations and Brain Processes" was the most influential deployment of Occam's Razor in the mind-body debate. Smart argued that mind-brain identity theory should be preferred because it posits fewer entity types. The argument attracted immediate and sustained criticism. Smart was ultimately "severely criticized" for this use of the razor (as the *Stanford Encyclopedia of Philosophy* records) and retracted his advocacy of parsimony as grounds for physicalism.
+J. J. C. Smart's 1959 paper "Sensations and Brain Processes" was the most influential deployment of Occam's Razor in the mind-body debate. Smart argued that mind-brain identity theory should be preferred because it posits fewer entity types. The argument attracted immediate and sustained criticism. Smart was "severely criticized" for this use of the razor (as the *Stanford Encyclopedia of Philosophy* records) and never mounted an adequate defence of the parsimony argument in his subsequent work.
 
-The retraction is historically significant because Smart was not a peripheral figure. He was the philosopher who made the parsimony argument for physicalism famous. His abandonment of the argument signals something about its structural weakness, not merely one person's change of mind. The core criticism that forced the retraction — that Occam's Razor is only warranted when theories explain the data equally well, which physicalism and dualism do not — has never been adequately answered.
+This is historically significant because Smart was not a peripheral figure. He was the philosopher who made the parsimony argument for physicalism famous. That he never successfully answered his critics signals something about the argument's structural weakness, not merely one person's difficulties. The core criticism — that Occam's Razor is only warranted when theories explain the data equally well, which physicalism and dualism do not — remains an open challenge.
 
 ### Lycan's Concession
 
@@ -48,11 +48,13 @@ William Lycan's 2009 paper "Giving Dualism its Due" is more striking still. Lyca
 
 On parsimony specifically, Lycan writes: "There is no evidence against the view that physical events are overdetermined by physical and nonphysical causes; it only offends parsimony." He calls parsimony "a very posterior reason" — it should only break ties when all else is equal.
 
-This is a hostile witness testifying for the defence. Lycan does not become a dualist. He continues to prefer physicalism. But his reasons reduce to institutional inertia and personal intellectual comfort, not philosophical argument. When a forty-year materialist admits that the *only* thing dualism offends is parsimony, and that this is "a very posterior reason," the parsimony argument has been evaluated by its own partisans and found wanting.
+Lycan's candour is striking precisely because he remains a committed materialist. He does not become a dualist. He continues to prefer physicalism. But his reasons reduce to institutional inertia and personal intellectual comfort, not philosophical argument. When a forty-year materialist admits that the *only* thing dualism offends is parsimony, and that this is "a very posterior reason," parsimony has been acknowledged by its own defenders as insufficient on its own.
 
 ### Churchland's Qualification
 
-Even Paul Churchland, whose "Raze Dualism" argument in the revised edition of *Matter and Consciousness* (1988) is the canonical parsimony case against dualism, concedes in the book's original edition that the simplicity argument is "not a conclusive argument for materialism" because "neither dualism nor materialism can yet explain all the phenomena that need to be explained" (1984). Churchland did not retract this qualification in the revision—the concession and the argument coexist in the same work. This is precisely the precondition failure that undermines the entire parsimony strategy: if both theories leave explanatory residue, simplicity cannot serve as a decisive tie-breaker.
+Even Paul Churchland, whose "Raze Dualism" argument in the revised edition of *Matter and Consciousness* (1988) is the canonical parsimony case against dualism, qualifies in the book's original edition that the simplicity argument is "not a conclusive argument for materialism" because "neither dualism nor materialism can yet explain all the phenomena that need to be explained" (1984). As a matter of philosophical practice, qualifying arguments as non-conclusive is standard — most philosophers qualify most arguments this way. Churchland did not retract this qualification in the revision; it coexists with the stronger argument in the same work.
+
+What makes the qualification significant is not that Churchland admitted weakness — it is that parsimony is routinely *treated* as conclusive in practice. Textbooks present it as a decisive reason to prefer physicalism. Dualism is dismissed in introductory courses on parsimony grounds alone. Churchland's own qualification undermines this practical deployment: if parsimony's foremost advocate acknowledges that the precondition for applying it (equal explanatory power) is not met, then the routine dismissal of dualism on parsimony grounds lacks its own supporting authority.
 
 ## Anderson's Dismantling of "Raze Dualism"
 
@@ -96,7 +98,7 @@ This is the condition consciousness science is in. The conceptual tools for unde
 
 ## Relation to Site Perspective
 
-The Map's fifth tenet — [[tenets#^occams-limits|Occam's Razor Has Limits]] — is not an abstract philosophical commitment. It is supported by a convergence of evidence examined in this article: Smart retracted the argument. Lycan, from within materialism, admits it is the *only* thing dualism offends and calls it "a very posterior reason." Anderson dismantles the "Raze Dualism" argument premise by premise. IIT demonstrates that parsimony at one level generates anti-parsimony at another. Swinburne reverses the argument entirely along the explanatory dimension.
+The Map's fifth tenet — [[tenets#^occams-limits|Occam's Razor Has Limits]] — is not an abstract philosophical commitment. It is supported by a convergence of evidence examined in this article: Smart never successfully defended his parsimony argument against sustained criticism. Lycan, from within materialism, admits parsimony is the *only* thing dualism offends and calls it "a very posterior reason." Churchland's own qualification undermines parsimony's routine use as a decisive argument. Anderson dismantles the "Raze Dualism" argument premise by premise. IIT demonstrates that parsimony at one level generates anti-parsimony at another. Swinburne reverses the argument entirely along the explanatory dimension.
 
 The Map interprets this convergence as removing the single largest psychological barrier to taking [[dualism]] seriously. Many philosophers and scientists who find the [[hard-problem-of-consciousness|hard problem]] compelling still resist dualism because it "violates Occam's Razor." The evidence assembled here shows that this resistance rests on a principle whose application to consciousness has been challenged by its own advocates, undermined by its internal contradictions, and reversed by careful analysis of what "simplicity" actually means in this domain.
 
@@ -127,5 +129,23 @@ This does not make dualism *true*. It removes a bad reason for dismissing it.
 10. Tononi, G. (2004). An Information Integration Theory of Consciousness. *BMC Neuroscience*, 5(42).
 11. Von Neumann, J. (1932/1955). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
 12. Zanotti, G. (2021). Physicalism and the Burden of Parsimony. *Synthese*, 199, 11109–11132.
-11. Southgate, A. & Oquatre-six, C. (2026-02-06). Epistemological Limits of Occam's Razor. *The Unfinishable Map*. https://unfinishablemap.org/arguments/epistemological-limits-of-occams-razor/
-12. Southgate, A. & Oquatre-six, C. (2026-03-18). Parsimony Epistemology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/parsimony-epistemology/
+13. Southgate, A. & Oquatre-six, C. (2026-02-06). Epistemological Limits of Occam's Razor. *The Unfinishable Map*. https://unfinishablemap.org/arguments/epistemological-limits-of-occams-razor/
+14. Southgate, A. & Oquatre-six, C. (2026-03-18). Parsimony Epistemology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/parsimony-epistemology/
+
+<!-- AI REFINEMENT LOG - 2026-03-20
+Changes made:
+- Reframed Smart's "Retraction" as "Abandoned Defence" — being criticized is not retracting; now accurately says Smart never mounted an adequate defence rather than claiming he retracted
+- Reframed Churchland's "concession" — acknowledged that qualifying arguments as non-conclusive is standard philosophical practice; redirected the point to parsimony being treated as conclusive in practice despite its advocate's own qualification
+- Fixed duplicate reference numbering (two #11s and two #12s renumbered to 11-14)
+- Softened "hostile witness testifying for the defence" framing to "Lycan's candour is striking"
+- Softened "has never been adequately answered" to "remains an open challenge"
+- Softened "evaluated by its own partisans and found wanting" to "acknowledged by its own defenders as insufficient on its own"
+- Updated description and opening paragraph to remove "retractions" language
+- Updated Relation to Site Perspective to match new framing
+- Verified related_articles slugs: epistemological-limits-of-occams-razor (arguments/) and epistemological-limits-occams-razor (voids/) are genuinely different articles — kept both
+
+Based on pessimistic review pessimistic-2026-03-20-b.md.
+Key improvements: attribution accuracy for Smart and Churchland claims.
+
+This log should be removed after human review.
+-->
