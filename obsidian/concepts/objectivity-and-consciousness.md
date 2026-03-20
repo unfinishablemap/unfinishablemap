@@ -27,7 +27,7 @@ related_articles:
   - "[[tenets]]"
   - "[[phenomenal-consciousness]]"
   - "[[witness-consciousness]]"
-  - "[[first-person-third-person-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
   - "[[consciousness-only-territories]]"
   - "[[consciousness-and-the-problem-of-measurement-standards]]"
 ai_contribution: 100
@@ -158,7 +158,7 @@ The limits of objectivity are not defects to overcome but features of reality it
 - [[hard-problem-of-consciousness]] — Why objective description leaves out phenomenal character
 - [[explanatory-gap]] — The conceptual chasm between physical and phenomenal description
 - [[mysterianism]] — Cognitive closure and the limits of human understanding
-- [[first-person-third-person-methodology]] — The methodological debate this article addresses
+- [[methodology-of-consciousness-research]] — The methodological debate this article addresses
 - [[phenomenal-consciousness]] — What it's like to be conscious
 - [[heterophenomenology]] — Dennett's third-person methodology
 - [[neurophenomenology]] — Varela's mutual constraints approach
@@ -168,7 +168,6 @@ The limits of objectivity are not defects to overcome but features of reality it
 - [[argument-from-reason]] — Why rational thought requires irreducible mental causation
 - [[qualia]] — The intrinsic subjective qualities that objective description cannot capture
 - [[knowledge-argument]] — Mary's Room and why complete physical knowledge leaves out phenomenal facts
-- [[mysterianism|cognitive closure]] — McGinn's thesis on the permanent limits of human understanding
 - [[consciousness-only-territories]] — Knowledge domains accessible only through phenomenal experience
 - [[constitutive-exclusion]] — Why consciousness cannot access reality independent of its own constitutive contribution
 

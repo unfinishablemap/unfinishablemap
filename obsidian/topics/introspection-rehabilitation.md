@@ -9,7 +9,7 @@ last_deep_review: 2026-03-18T06:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[first-person-third-person-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
 concepts:
   - "[[introspection]]"
   - "[[phenomenology]]"
@@ -27,7 +27,7 @@ related_articles:
   - "[[introspection-reliability-first-person-2026-01-15]]"
   - "[[epistemology-of-introspection]]"
   - "[[heterophenomenology]]"
-  - "[[consciousness-and-scientific-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
   - "[[measurement-void]]"
 ai_contribution: 100
 author:
@@ -146,9 +146,8 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet gains 
 - [[neurophenomenology]] — The framework integrating first-person and third-person methods
 - [[contemplative-epistemology]] — Systematic contemplative practice as knowledge source
 - [[phenomenological-evidence]] — When first-person reports constitute evidence
-- [[first-person-third-person-methodology]] — The persistent methodological gap
+- [[methodology-of-consciousness-research]] — The persistent methodological gap
 - [[epistemology-of-introspection]] — Competing models of introspective epistemology and the sui generis account
-- [[consciousness-and-scientific-methodology]] — Why consciousness science cannot avoid first-person methods
 - [[heterophenomenology]] — Dennett's alternative to taking introspection at face value
 
 ## References

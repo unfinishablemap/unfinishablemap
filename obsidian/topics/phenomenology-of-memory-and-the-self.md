@@ -25,9 +25,7 @@ related_articles:
   - "[[the-self-minimal-narrative-and-substantial]]"
   - "[[diachronic-agency-and-personal-narrative]]"
   - "[[inaccessible-past]]"
-  - "[[inaccessible-past]]"
   - "[[social-construction-of-self-vs-phenomenal-self]]"
-  - "[[temporal-structure-of-consciousness]]"
   - "[[temporal-structure-of-consciousness]]"
 ai_contribution: 100
 author:
@@ -113,7 +111,6 @@ The phenomenology of memory and self connects directly to the Map's foundational
 - [[the-self-minimal-narrative-and-substantial]]
 - [[personal-identity]]
 - [[diachronic-agency-and-personal-narrative]]
-- [[inaccessible-past]]
 - [[inaccessible-past]]
 - [[consciousness-and-memory]]
 - [[temporal-consciousness]]

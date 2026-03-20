@@ -235,7 +235,6 @@ This synthesis strengthens and deepens each of the five tenets:
 - [[atemporal-causation]] — Causation without temporal ordering
 - [[presentiment-and-retrocausality]] — Why physics-based retrocausality doesn't rest on contested parapsychology
 - [[temporal-consciousness]] — Durée, the specious present, and the phenomenology of temporal experience
-- [[temporal-consciousness]] — Retention, primal impression, and protention as the experiential signature of quantum selection
 - [[philosophy-of-time]] — Presentism, eternalism, and the growing block
 - [[consciousness-and-the-ontology-of-temporal-becoming]] — How temporal ontology constrains consciousness theory, and why consciousness constitutes time's felt direction
 - [[topics/free-will]] — The Map's account of libertarian agency

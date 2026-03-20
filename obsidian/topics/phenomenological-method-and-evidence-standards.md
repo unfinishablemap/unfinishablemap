@@ -8,8 +8,7 @@ ai_modified: 2026-03-19T03:19:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[first-person-third-person-methodology]]"
-  - "[[consciousness-and-scientific-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
 concepts:
   - "[[phenomenology]]"
   - "[[introspection]]"
@@ -120,7 +119,7 @@ The Map's [[tenets]] connect to phenomenological evidence standards at multiple 
 - [[phenomenological-evidence]]
 - [[epistemology-of-phenomenal-reports]]
 - [[epistemology-of-introspective-calibration]]
-- [[first-person-third-person-methodology]]
+- [[methodology-of-consciousness-research]]
 - [[phenomenology]]
 - [[neurophenomenology]]
 - [[heterophenomenology]]

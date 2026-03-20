@@ -10,7 +10,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-and-methodological-failure]]"
-  - "[[consciousness-and-scientific-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
 concepts:
   - "[[concepts/materialism]]"
   - "[[explanatory-gap]]"
@@ -40,7 +40,7 @@ Kuhn argued that normal science operates within an accepted paradigm: a set of a
 
 This programme has been productive. fMRI, EEG, lesion studies, and optogenetics have revealed increasingly detailed connections between neural activity and conscious states. Binocular rivalry, change blindness, the global workspace — these are the puzzles Kuhn described, tractable problems that the paradigm equips researchers to solve.
 
-But Kuhn distinguished puzzle-solving from progress on foundational questions. Normal science does not test the paradigm's core assumptions. It extends them. NCC research extends physicalism by mapping correlations, but this activity presupposes rather than demonstrates that consciousness is physical. As the Map's analysis of [[consciousness-and-scientific-methodology|scientific methodology and consciousness]] argues, science achieved its power by excluding subjectivity — then turned around to study what it excluded using the same methods.
+But Kuhn distinguished puzzle-solving from progress on foundational questions. Normal science does not test the paradigm's core assumptions. It extends them. NCC research extends physicalism by mapping correlations, but this activity presupposes rather than demonstrates that consciousness is physical. As the Map's analysis of [[methodology-of-consciousness-research|scientific methodology and consciousness]] argues, science achieved its power by excluding subjectivity — then turned around to study what it excluded using the same methods.
 
 ## The Anomalies
 
@@ -78,7 +78,7 @@ There is a deeper question: whether Kuhn's framework, developed for natural scie
 
 First, in Kuhn's historical examples — Copernicus, Lavoisier, Einstein — the anomalies were publicly observable. Everyone could see that Mercury's orbit did not match Newtonian predictions. The anomaly that drives the consciousness crisis — the explanatory gap — is not like this. It is a *philosophical* anomaly: the impossibility of deriving phenomenal character from physical description. Some researchers deny it exists (illusionists, strong functionalists). The anomaly itself is contested in a way that perihelion precession was not.
 
-Second, Kuhn's revolutions replace one paradigm with another that better handles the anomalies *within the same domain*. A consciousness revolution would need to bridge two domains: the physical (where the current paradigm operates) and the phenomenal (which the current paradigm cannot reach). This is not a revolution within a science but a revolution about what the science's domain includes. It may require what [[consciousness-and-scientific-methodology|the Map describes]] as an expansion of scientific methodology itself — not just new theories but new kinds of evidence and new standards of explanation.
+Second, Kuhn's revolutions replace one paradigm with another that better handles the anomalies *within the same domain*. A consciousness revolution would need to bridge two domains: the physical (where the current paradigm operates) and the phenomenal (which the current paradigm cannot reach). This is not a revolution within a science but a revolution about what the science's domain includes. It may require what [[methodology-of-consciousness-research|the Map describes]] as an expansion of scientific methodology itself — not just new theories but new kinds of evidence and new standards of explanation.
 
 These features suggest that the consciousness debate may demand a different kind of revolution than Kuhn described: not paradigm replacement but paradigm expansion. The successor framework would need to accommodate everything physicalism explains about neural correlates while incorporating subjective experience as an irreducible domain with its own lawful regularities — what the Map describes as [[psychophysical-laws-bridging-mind-and-matter|psychophysical bridge laws]].
 
@@ -96,8 +96,7 @@ The Unfinishable Map interprets Kuhn's framework as illuminating rather than res
 
 - [[philosophy-of-science-under-dualism]]
 - [[consciousness-and-methodological-failure]]
-- [[consciousness-and-methodological-failure]]
-- [[consciousness-and-scientific-methodology]]
+- [[methodology-of-consciousness-research]]
 - [[phenomenology-of-conceptual-change]]
 - [[phenomenology-of-framework-inhabitation|The Phenomenology of Framework Inhabitation]]
 - [[epistemological-limits-occams-razor]]

@@ -154,7 +154,6 @@ The phenomenology of effort provides a datum any account must explain. If contro
 - [[dopamine-and-the-unified-interface]] — Dopamine prepares the selection interface; theta oscillations provide the timing substrate
 - [[attention-as-interface]] — Attention as the interface layer between consciousness and neural systems
 - [[structure-of-attention]] — How attention is organized across voluntary, involuntary, and meta-attentional layers
-- [[attention-as-interface|voluntary attention]] — The willed/instructed distinction and neural signatures
 - [[phenomenology-of-choice]] — The choosing-observing distinction
 - [[meditation-and-consciousness-modes]] — Selection vs witnessing modes
 - [[illusionism]] — The eliminativist challenge

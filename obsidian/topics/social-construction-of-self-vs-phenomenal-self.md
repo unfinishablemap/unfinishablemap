@@ -30,7 +30,7 @@ related_articles:
   - "[[cognitive-integration-and-the-self]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[embodied-consciousness-and-the-interface]]"
-  - "[[first-person-third-person-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -123,7 +123,7 @@ This analysis connects to the Map's foundational commitments at multiple points.
 - [[inaccessible-past]] — The reconstructive nature of autobiographical memory
 - [[contemplative-practice-as-philosophical-evidence]] — Meditative phenomenology as evidence for the persistence of the phenomenal self
 - [[embodied-consciousness-and-the-interface]] — The lived body as pre-social foundation for phenomenal selfhood
-- [[first-person-third-person-methodology]] — Why constructionism's third-person methodology misses the phenomenal self
+- [[methodology-of-consciousness-research]] — Why constructionism's third-person methodology misses the phenomenal self
 
 ## References
 

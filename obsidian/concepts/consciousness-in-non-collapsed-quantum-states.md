@@ -93,7 +93,6 @@ The Map's [[tenets]] commit to consciousness as an active selector among superpo
 - [[comparing-quantum-consciousness-mechanisms]]
 - [[stapp-quantum-mind]]
 - [[quantum-consciousness]]
-- [[quantum-measurement-and-consciousness]]
 - [[spontaneous-collapse-theories]]
 - [[indexical-identity-quantum-measurement]]
 - [[indexical-knowledge-and-identity]]

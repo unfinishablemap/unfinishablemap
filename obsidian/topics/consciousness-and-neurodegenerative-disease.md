@@ -140,7 +140,6 @@ The Unfinishable Map's [[tenets]] converge on neurodegenerative disease as a dom
 - [[contemplative-pathology-and-interface-malfunction]] — Interface degradation through practice versus disease
 - [[identity-across-transformations]] — How indexical identity persists through radical change
 - [[dopamine-and-the-unified-interface]] — How dopamine prepares the selection interface that Parkinson's disease disrupts
-- [[death-and-consciousness]] — Deathbed visions, shared death experiences, and nearing death awareness alongside terminal lucidity
 
 ## References
 

@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-03-11T21:17:00+00:00
 draft: false
 topics:
-  - "[[consciousness-and-scientific-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
   - "[[consciousness-and-the-limits-of-explanation]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
@@ -33,7 +33,7 @@ last_deep_review: 2026-02-23T23:20:00+00:00
 
 The Unfinishable Map holds that consciousness is not reducible to physical processes. If this is correct, several core doctrines in philosophy of science — the unity of science, standard demarcation criteria, theory choice by parsimony, and scientific realism about unobservables — require revision. Not abandonment. Revision. Dualism does not reject science. It redraws the boundaries of what science studies, how it chooses between theories, and what scientific success actually tells us about reality.
 
-Other articles on the Map address how dualism affects [[consciousness-and-scientific-explanation|scientific explanation]] and [[consciousness-and-scientific-methodology|methodology]]. This article addresses the structural questions one level up: how philosophy of science itself changes when a fundamental domain — conscious experience — falls outside the physical.
+Other articles on the Map address how dualism affects [[consciousness-and-scientific-explanation|scientific explanation]] and [[methodology-of-consciousness-research|methodology]]. This article addresses the structural questions one level up: how philosophy of science itself changes when a fundamental domain — conscious experience — falls outside the physical.
 
 ## The Unity of Science
 
@@ -108,7 +108,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet pr
 ## Further Reading
 
 - [[consciousness-and-scientific-explanation]] — How non-reductive explanation works under dualism
-- [[consciousness-and-scientific-methodology]] — Why the scientific method structurally excludes subjectivity
+- [[methodology-of-consciousness-research]] — Why the scientific method structurally excludes subjectivity
 - [[consciousness-and-the-limits-of-explanation]] — Why every major theory of scientific explanation fails with consciousness
 - [[consciousness-and-methodological-failure]] — How theoretical virtues conflict when applied to consciousness
 - [[psychophysical-laws-bridging-mind-and-matter]] — Bridge laws as the positive alternative to reduction

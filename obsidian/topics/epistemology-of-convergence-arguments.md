@@ -28,7 +28,7 @@ related_articles:
   - "[[cross-cultural-phenomenology-of-agency]]"
   - "[[evolved-cognitive-limits]]"
   - "[[cross-cultural-convergence-on-mental-causation]]"
-  - "[[first-person-third-person-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -176,7 +176,7 @@ The Map treats convergence as genuine evidence while acknowledging its limits. C
 - [[contemplative-practice-as-philosophical-evidence]] — Convergence across contemplative traditions
 - [[dualism]] — The individual arguments catalogued
 - [[cross-cultural-convergence-on-mental-causation]] — Convergence on mental causation across traditions
-- [[first-person-third-person-methodology]] — Why methodological diversity strengthens convergence
+- [[methodology-of-consciousness-research]] — Why methodological diversity strengthens convergence
 - [[methodological-pluralism]] — Multiple methods as a philosophical approach
 
 ## References

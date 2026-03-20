@@ -33,7 +33,6 @@ related_articles:
   - "[[tenets]]"
   - "[[phenomenal-binding-and-holism]]"
   - "[[quantum-holism-and-phenomenal-unity]]"
-  - "[[quantum-holism-and-phenomenal-unity]]"
   - "[[emergence-void]]"
 ai_contribution: 100
 author:
@@ -147,14 +146,12 @@ The unity of consciousness connects directly to The Unfinishable Map's [[tenets|
 - [[combination-problem]] — Panpsychism's version of the unity puzzle
 - [[phenomenal-binding-and-holism]] — Mechanistic analysis of how binding relates to phenomenal unity
 - [[quantum-holism-and-phenomenal-unity]] — Extended argument for structural failure of physical explanation
-- [[quantum-holism-and-phenomenal-unity]] — Structural argument for quantum entanglement as the physical substrate matching phenomenal unity
 - [[entanglement-binding-hypothesis]] — The testable hypothesis and experimental evidence for quantum binding
 - [[split-brain-consciousness]] — Natural experiments on unity dissociation
 - [[phenomenal-binding-and-multimodal-integration]] — Cross-modal binding as the hardest synchronic case: temporal recalibration, inverse effectiveness, and the unity of place
 - [[temporal-consciousness]] — Diachronic structure and the specious present
 - [[self-and-consciousness]] — Subject unity and the minimal self
 - [[emergence-void]] — The general cognitive limit at level transitions
-- [[phenomenal-binding-and-holism]] — Classical and quantum approaches to binding compared
 - [[consciousness]] — The Map's foundational concept page
 - [[personal-identity]] — How subjects persist across time
 - [[anoetic-noetic-autonoetic-consciousness]] — Mental time travel and the temporal self

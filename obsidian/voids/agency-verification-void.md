@@ -24,7 +24,6 @@ related_articles:
   - "[[introspective-opacity]]"
   - "[[causal-interface]]"
   - "[[self-reference-paradox]]"
-  - "[[self-reference-paradox]]"
   - "[[defended-territory]]"
   - "[[whether-real]]"
   - "[[limits-reveal-structure]]"
@@ -105,7 +104,6 @@ The void is also [[tenet-generated-voids|tenet-generated]]. Because the Map hold
 - [[introspective-opacity|Volitional Opacity]] — The opacity of *how* we decide
 - [[causal-interface|The Causal Interface Void]] — The opacity of *how* consciousness connects to physics
 - [[self-reference-paradox|The Self-Reference Paradox]] — Why consciousness cannot fully model itself
-- [[self-reference-paradox|The Unobservable Self]] — The observer that eludes observation
 - [[defended-territory|Defended Territory]] — Could some limits be actively imposed?
 - [[tenet-generated-voids|Tenet-Generated Voids]] — How each tenet generates its characteristic void
 - [[topics/free-will|Free Will]] — The broader context for questions of agency

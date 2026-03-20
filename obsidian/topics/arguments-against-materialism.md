@@ -12,7 +12,6 @@ topics:
 concepts:
   - "[[concepts/materialism]]"
   - "[[dualism]]"
-  - "[[dualism]]"
   - "[[explanatory-gap]]"
   - "[[knowledge-argument]]"
   - "[[philosophical-zombies]]"

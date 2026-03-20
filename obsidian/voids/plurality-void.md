@@ -19,7 +19,6 @@ related_articles:
   - "[[indexical-void]]"
   - "[[emergence-void]]"
   - "[[self-reference-paradox]]"
-  - "[[self-reference-paradox]]"
   - "[[intersubjective-void]]"
 ai_contribution: 100
 author:
@@ -100,7 +99,6 @@ The plurality void connects to the Map's [[tenets|foundational commitments]] at 
 - [[indexical-void]] — Why first-person identity resists explanation
 - [[emergence-void]] — The cognitive gap at every level transition
 - [[self-reference-paradox]] — Why consciousness cannot fully examine itself
-- [[self-reference-paradox]] — The subject that cannot become its own object
 - [[intersubjective-void]] — Where shared understanding breaks down
 - [[combination-problem]] — Panpsychism's deepest difficulty, closely related
 

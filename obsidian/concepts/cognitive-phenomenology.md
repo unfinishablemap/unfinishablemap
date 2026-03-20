@@ -268,7 +268,6 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 ## Further Reading
 
 - [[phenomenology-of-understanding-and-meaning]] — Five modes of phenomenal meaning: semantic, aesthetic, temporal, self-reflexive, evaluative
-- [[phenomenology-of-understanding-and-meaning]] — How consciousness weaves meanings into unified understanding
 - [[consciousness-and-language-interface]] — The bidirectional, lossy interface between consciousness and language
 - [[temporal-structure-of-understanding]] — Understanding's temporal phenomenology
 - [[language-recursion-and-consciousness]] — Recursive language as evidence for consciousness-dependent cognition

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced methodology articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce created topics/methodology-of-consciousness-research.md from consciousness-and-scientific-methodology and first-person-third-person-methodology. The following files reference the archived articles and need wikilinks updated: introspection-rehabilitation.md, epistemology-of-introspective-calibration.md, epistemology-of-phenomenal-reports.md, contemplative-practice-as-philosophical-evidence.md, consciousness-and-the-limits-of-explanation.md, consciousness-and-the-problem-of-measurement-standards.md, consciousness-and-social-cognition.md, phenomenology-of-creative-insight.md, contemplative-epistemology.md, consciousness-and-scientific-explanation.md, experimental-design-for-consciousness-collapse-testing.md, phenomenological-method-and-evidence-standards.md, duhem-quine-underdetermination-consciousness.md, consciousness-and-the-structure-of-scientific-revolutions.md, philosophy-of-science-under-dualism.md, galilean-exclusion.md, the-subject-object-distinction-as-philosophical-discovery.md, social-construction-of-self-vs-phenomenal-self.md, quantum-measurement-and-consciousness.md, epistemology-of-convergence-arguments.md, epistemology-of-introspection.md, objectivity-and-consciousness.md, methodological-pluralism.md, intersubjectivity.md, intuitive-dualism.md, contemplative-neuroscience.md, conscious-vs-unconscious-processing.md, phenomenology.md, heterophenomenology.md, phenomenological-evidence.md, consciousness-and-interpersonal-understanding.md, consciousness-and-testimony.md, phenomenal-conservatism-and-introspective-evidence.md, cognitive-science-of-dualism.md. Replace [[consciousness-and-scientific-methodology]] and [[first-person-third-person-methodology]] with [[methodology-of-consciousness-research]].
-- **Source**: coalesce
-- **Generated**: 2026-03-20
-
 ### P2: Cross-review articles considering terminal lucidity concept page
 - **Type**: cross-review
 - **Status**: pending
@@ -1001,6 +994,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Update references to coalesced methodology articles
+- **Type**: cross-review
+- **Notes**: Coalesce created topics/methodology-of-consciousness-research.md from consciousness-and-scientific-methodology and first-person-third-person-methodology. The following files reference the archived articles and need wikilinks updated: introspection-rehabilitation.md, epistemology-of-introspective-calibration.md, epistemology-of-phenomenal-reports.md, contemplative-practice-as-philosophical-evidence.md, consciousness-and-the-limits-of-explanation.md, consciousness-and-the-problem-of-measurement-standards.md, consciousness-and-social-cognition.md, phenomenology-of-creative-insight.md, contemplative-epistemology.md, consciousness-and-scientific-explanation.md, experimental-design-for-consciousness-collapse-testing.md, phenomenological-method-and-evidence-standards.md, duhem-quine-underdetermination-consciousness.md, consciousness-and-the-structure-of-scientific-revolutions.md, philosophy-of-science-under-dualism.md, galilean-exclusion.md, the-subject-object-distinction-as-philosophical-discovery.md, social-construction-of-self-vs-phenomenal-self.md, quantum-measurement-and-consciousness.md, epistemology-of-convergence-arguments.md, epistemology-of-introspection.md, objectivity-and-consciousness.md, methodological-pluralism.md, intersubjectivity.md, intuitive-dualism.md, contemplative-neuroscience.md, conscious-vs-unconscious-processing.md, phenomenology.md, heterophenomenology.md, phenomenological-evidence.md, consciousness-and-interpersonal-understanding.md, consciousness-and-testimony.md, phenomenal-conservatism-and-introspective-evidence.md, cognitive-science-of-dualism.md. Replace [[consciousness-and-scientific-methodology]] and [[first-person-third-person-methodology]] with [[methodology-of-consciousness-research]].
+- **Output**: None -- Context: Update references to coalesced methodology articles
 
 ### ✓ 2026-03-20: Write concept page on terminal lucidity
 - **Type**: expand-topic

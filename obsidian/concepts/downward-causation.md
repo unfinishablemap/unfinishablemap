@@ -25,7 +25,6 @@ concepts:
   - "[[luck-objection]]"
   - "[[pairing-problem]]"
   - "[[decoherence]]"
-  - "[[psychophysical-laws]]"
 related_articles:
   - "[[tenets]]"
   - "[[downward-causation-mental-causation-2026-01-15]]"

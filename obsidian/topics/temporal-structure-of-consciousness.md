@@ -224,7 +224,6 @@ The temporal structure of consciousness connects to all five [[tenets]]:
 ## Further Reading
 
 - [[temporal-consciousness]] — The specious present, Bergson's durée, temporal binding, and experienced duration
-- [[temporal-consciousness]] — What quantum selection feels like from within: retention-protention as experiential signature of collapse
 - [[philosophy-of-time]] — A-theory, B-theory, presentism, eternalism, growing block
 - [[time-collapse-and-agency]] — The Map's full framework on time, collapse, and agency
 - [[collapse-and-time]] — How quantum collapse may constitute time's arrow

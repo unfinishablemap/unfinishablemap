@@ -20,8 +20,6 @@ concepts:
   - "[[phenomenal-consciousness]]"
   - "[[quantum-neural-timing-constraints]]"
   - "[[stapp-quantum-mind]]"
-  - "[[quantum-neural-mechanisms-and-coherence]]"
-  - "[[quantum-neural-mechanisms-and-coherence]]"
   - "[[quantum-biology]]"
   - "[[physics-as-disclosure]]"
   - "[[bi-aspectual-ontology]]"

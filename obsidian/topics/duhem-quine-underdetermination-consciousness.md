@@ -8,7 +8,7 @@ ai_modified: 2026-03-18T18:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[consciousness-and-scientific-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
   - "[[consciousness-and-the-limits-of-explanation]]"
   - "[[consciousness-and-methodological-failure]]"
   - "[[phenomenology-of-framework-inhabitation]]"

@@ -16,10 +16,8 @@ concepts:
   - "[[agent-teleology]]"
   - "[[mental-causation]]"
   - "[[attention-as-interface]]"
-  - "[[attention-as-interface]]"
   - "[[motor-selection]]"
   - "[[evolution-of-consciousness]]"
-  - "[[motor-selection]]"
 related_articles:
   - "[[tenets]]"
   - "[[evolution-under-dualism]]"

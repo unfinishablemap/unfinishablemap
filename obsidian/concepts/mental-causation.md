@@ -12,7 +12,6 @@ topics:
 concepts:
   - "[[psychophysical-laws]]"
   - "[[psychophysical-laws-bridging-mind-and-matter]]"
-  - "[[psychophysical-laws]]"
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"
   - "[[concepts/epiphenomenalism]]"
@@ -191,7 +190,6 @@ Mental causation, as defended here, is falsifiable:
 - [[evolutionary-case-for-mental-causation]] — The evolutionary argument for consciousness's causal effects
 - [[psychophysical-laws-bridging-mind-and-matter]] — Framework requiring selection laws for mental causation
 - [[psychophysical-laws]] — How mental states select physical outcomes
-- [[psychophysical-laws]] — Candidate coupling mechanisms
 - [[coupling-modes]] — Taxonomy: basis, timing, or probability control
 - [[causal-delegation]] — Mechanism by which physical states hand off causal work to experiences
 - [[delegatory-dualism]] — Saad's 2025 response: experiences preempt rather than overdetermine

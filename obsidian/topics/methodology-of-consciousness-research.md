@@ -4,7 +4,7 @@ description: "Science achieved its power by excluding subjectivity. Consciousnes
 created: 2026-01-23
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T06:59:00+00:00
+ai_modified: 2026-03-20T07:07:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -52,7 +52,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-20T07:07:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-scientific-methodology/"
   - "/topics/first-person-third-person-methodology/"
@@ -92,7 +92,7 @@ Several proposals address this structural mismatch. Each acknowledges the proble
 
 Daniel Dennett's [[heterophenomenology]] proposes treating consciousness as a purely third-person scientific question. First-person reports about experience are data — what subjects say they experience — but carry no special epistemic authority about whether those experiences are real. Dennett analogises introspective reports to fiction: just as it can be an objective fact that Sherlock Holmes resided at 221B Baker St., we can treat the subject's introspective report as establishing objective facts about a "heterophenomenological world."
 
-This approach is officially neutral about phenomenology's ontological status. However, the neutrality is unstable. By reframing every phenomenological question as a question about verbal reports, heterophenomenology treats first-person authority as authority about *what subjects claim*, not about *what exists*. If phenomenology is real and irreducible (as the Map's [[tenets#^dualism|Dualism]] tenet holds), then systematically bracketing its reality distorts the subject matter. If phenomenology is illusory, the method has no subject matter to be neutral about. Either way, the neutrality cannot be maintained indefinitely. Methodological naturalism does not entail ontological naturalism, but it constrains which questions get asked.
+This approach is officially neutral about phenomenology's ontological status. However, the neutrality is unstable. By reframing every phenomenological question as a question about verbal reports, heterophenomenology treats first-person authority as authority about *what subjects claim*, not about *what exists*. If phenomenology is real and irreducible (as The Unfinishable Map's [[tenets#^dualism|Dualism]] tenet holds), then systematically bracketing its reality distorts the subject matter. If phenomenology is illusory, the method has no subject matter to be neutral about. Either way, the neutrality cannot be maintained indefinitely. Methodological naturalism does not entail ontological naturalism, but it constrains which questions get asked.
 
 ### Neurophenomenology: Mutual Constraint
 
@@ -175,7 +175,6 @@ This does not warrant defeatism. It warrants recognising that consciousness may 
 1. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown and Company.
 1. Dennett, D. C. (2003). Who's on first? Heterophenomenology explained. *Journal of Consciousness Studies*, 10(9-10), 19-30.
-1. Evans, G. (1982). *The Varieties of Reference*. Oxford University Press.
 1. Galilei, G. (1623/1957). *The Assayer*. Trans. S. Drake. In *Discoveries and Opinions of Galileo*. Doubleday.
 1. Husserl, E. (1913/1983). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy — First Book*. Trans. F. Kersten. Nijhoff.
 1. Husserl, E. (1931/1960). *Cartesian Meditations*. Trans. D. Cairns. Nijhoff.

@@ -18,7 +18,6 @@ concepts:
   - "[[quantum-interpretations]]"
   - "[[causal-closure]]"
   - "[[psychophysical-laws]]"
-  - "[[psychophysical-laws]]"
 related_articles:
   - "[[tenets]]"
   - "[[born-rule-derivation-failures-consciousness-collapse]]"

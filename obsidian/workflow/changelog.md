@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 07:07 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/methodology-of-consciousness-research]]
+- **Word count**: 2620 → 2610 (-10)
+- **Critical issues addressed**: 2 (orphaned Evans reference, 112 broken wikilinks site-wide)
+- **Medium issues addressed**: 1 (first-mention style guide)
+- **Enhancements made**: 0 (article stable from prior reviews; main work was reference hygiene)
+- **Output**: [[reviews/deep-review-2026-03-20-methodology-of-consciousness-research]]
+
 ## 2026-03-20 06:59 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[topics/consciousness-and-scientific-methodology]], [[topics/first-person-third-person-methodology]]

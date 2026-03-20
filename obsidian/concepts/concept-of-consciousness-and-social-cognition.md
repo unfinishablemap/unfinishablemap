@@ -14,7 +14,6 @@ concepts:
   - "[[jourdain-hypothesis]]"
   - "[[minimal-consciousness]]"
   - "[[metacognition]]"
-  - "[[metacognition]]"
   - "[[consciousness-as-amplifier]]"
   - "[[teaching-as-metarepresentation]]"
   - "[[cumulative-culture]]"

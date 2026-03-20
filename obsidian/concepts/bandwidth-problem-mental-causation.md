@@ -16,9 +16,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[psychophysical-laws]]"
-  - "[[psychophysical-laws]]"
   - "[[attention-as-interface]]"
-  - "[[psychophysical-laws]]"
   - "[[asymmetric-bandwidth-consciousness]]"
   - "[[epiphenomenalism]]"
 related_articles:
@@ -126,7 +124,6 @@ The bandwidth problem also differs from the [[concepts/binding-problem|binding p
 - [[downward-causation]] — The broader framework for mental-to-physical causation
 - [[mental-causation]] — The philosophical problem of how mind affects body
 - [[psychophysical-laws]] — The coupling laws the bandwidth problem constrains
-- [[psychophysical-laws]] — Laws governing the downward direction of mind-body interaction
 - [[attention-as-interface]] — Attention as the selection channel through which consciousness operates
 - [[resolution-void]] — The broader resolution gap between brain processing and conscious access
 

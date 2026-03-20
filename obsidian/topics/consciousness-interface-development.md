@@ -26,7 +26,6 @@ related_articles:
   - "[[architecture-of-cognitive-closure]]"
   - "[[baseline-cognition]]"
   - "[[bandwidth-of-consciousness]]"
-  - "[[baseline-cognition]]"
   - "[[contemplative-neuroscience]]"
   - "[[dopamine-and-the-unified-interface]]"
 ai_contribution: 100

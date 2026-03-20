@@ -24,7 +24,6 @@ concepts:
   - "[[jourdain-hypothesis]]"
   - "[[baseline-cognition]]"
   - "[[self-reference-paradox]]"
-  - "[[temporal-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[eastern-philosophy-consciousness]]"

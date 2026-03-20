@@ -21,7 +21,6 @@ related_articles:
   - "[[three-kinds-of-void]]"
   - "[[origin-of-consciousness]]"
   - "[[self-reference-paradox]]"
-  - "[[self-reference-paradox]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[inaccessible-past]]"
   - "[[consciousness-only-territories]]"

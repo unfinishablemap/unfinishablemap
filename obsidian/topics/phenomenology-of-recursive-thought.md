@@ -16,7 +16,6 @@ concepts:
   - "[[higher-order-theories]]"
   - "[[self-reference-paradox]]"
   - "[[witness-consciousness]]"
-  - "[[self-reference-paradox]]"
   - "[[phenomenology]]"
   - "[[downward-causation]]"
   - "[[temporal-consciousness]]"
@@ -142,7 +141,6 @@ The phenomenology of recursive thought suggests several conclusions:
 ## Further Reading
 
 - [[self-reference-paradox]] — The structural limits of consciousness examining itself
-- [[self-reference-paradox]] — Why the observer cannot observe itself observing
 - [[metacognition]] — The cognitive capacity distinct from phenomenal recursion (including metarepresentation)
 - [[cognitive-phenomenology]] — Whether thinking itself has phenomenal character
 - [[higher-order-theories]] — Theories that make recursion central to consciousness

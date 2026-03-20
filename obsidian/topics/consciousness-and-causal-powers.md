@@ -16,7 +16,6 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[psychophysical-laws]]"
-  - "[[psychophysical-laws]]"
   - "[[agent-causation]]"
   - "[[phenomenal-consciousness]]"
   - "[[qualia]]"

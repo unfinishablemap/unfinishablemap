@@ -167,7 +167,6 @@ The Map's interpretation would face difficulty if:
 - [[illusionism]] — The eliminativist challenge and how sleep evidence bears on it
 - [[introspection]] — First-person access and its reliability across states
 - [[witness-consciousness]] — The observer that may persist through sleep yoga
-- [[dream-consciousness]] — Lucid dreaming, problem-solving, and the filter model applied to dreams
 - [[decoherence]] — Quantum Zeno mechanism and sleep state transitions
 - [[haecceity]] — Indexical identity through the sleep-wake gap
 - [[hypnagogic-phenomenology-and-interface-modulation]] — The sleep-onset transition as a window into interface modulation

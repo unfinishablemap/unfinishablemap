@@ -10,8 +10,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[epistemic-advantages-of-dualism]]"
-  - "[[consciousness-and-scientific-methodology]]"
-  - "[[first-person-third-person-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
 concepts:
   - "[[neurophenomenology]]"
   - "[[introspection]]"
@@ -47,7 +46,7 @@ Contemplative epistemology rests on a structural asymmetry: consciousness is the
 
 The framework does not seek to replace third-person science but to complement it. Francisco Varela's [[neurophenomenology]] formalised this as "mutual constraint"—first-person phenomenological reports and third-person neural data each inform and constrain the other (Varela 1996; Thompson 2007). Neither alone suffices.
 
-The principal objection comes from Dennett's heterophenomenology, which holds that first-person reports are behavioural data to be studied from outside—not privileged access to consciousness itself. Contemplative epistemology's response is that heterophenomenology systematically loses the *phenomenal character* that makes consciousness puzzling in the first place. Functional descriptions of what meditators report capture the structure of their claims but not the qualitative features those claims are about. If the explanatory gap between functional description and phenomenal experience is genuine—as the Unfinishable Map argues—then heterophenomenology is a useful complement that tracks a different dimension of the same phenomenon, not a complete methodology (Velmans 2007; see also [[first-person-third-person-methodology]]).
+The principal objection comes from Dennett's heterophenomenology, which holds that first-person reports are behavioural data to be studied from outside—not privileged access to consciousness itself. Contemplative epistemology's response is that heterophenomenology systematically loses the *phenomenal character* that makes consciousness puzzling in the first place. Functional descriptions of what meditators report capture the structure of their claims but not the qualitative features those claims are about. If the explanatory gap between functional description and phenomenal experience is genuine—as the Unfinishable Map argues—then heterophenomenology is a useful complement that tracks a different dimension of the same phenomenon, not a complete methodology (Velmans 2007; see also [[methodology-of-consciousness-research]]).
 
 What contemplative epistemology adds beyond general neurophenomenology is the insistence that *training matters epistemically*. Just as astronomical observation improved with telescopic technology, first-person observation improves with contemplative training. The untrained mind is a poor instrument for investigating its own operations. The trained mind is substantially better.
 
@@ -152,8 +151,7 @@ Contemplative epistemology is the *epistemological framework*. It should be dist
 - [[witness-consciousness]] — The observer phenomenon as key contemplative finding
 - [[meditation-and-consciousness-modes]] — Active selection and passive witnessing as distinct epistemic modes
 - [[contemplative-practice-as-philosophical-evidence]] — Applying contemplative knowledge to test philosophical positions
-- [[first-person-third-person-methodology]] — The methodological gap between subjective and objective approaches
-- [[consciousness-and-scientific-methodology]] — Why standard scientific methodology struggles with consciousness
+- [[methodology-of-consciousness-research]] — The methodological gap between subjective and objective approaches
 - [[phenomenology]] — The philosophical tradition grounding contemplative methods
 - [[phenomenological-evidence]] — When first-person reports constitute evidence
 - [[buddhism-and-dualism]] — How Buddhist no-self findings relate to dualist frameworks

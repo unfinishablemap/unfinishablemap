@@ -7,7 +7,7 @@ human_modified:
  2026-03-20T04:33:46+00:00
 draft: false
 topics:
-  - "[[first-person-third-person-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[neurophenomenology]]"
@@ -116,7 +116,7 @@ The Map speculates that methodological pluralism may be more than a practical ne
 
 ## Further Reading
 
-- [[first-person-third-person-methodology]]—The methodological divide and why it reflects ontological dualism
+- [[methodology-of-consciousness-research]]—The methodological divide and why it reflects ontological dualism
 - [[neurophenomenology]]—Varela's mutual constraint framework in detail
 - [[heterophenomenology]]—Dennett's third-person-only approach and why the Map rejects it
 - [[phenomenological-evidence]]—Conditions under which first-person reports constitute evidence

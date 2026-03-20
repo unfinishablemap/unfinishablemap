@@ -140,7 +140,6 @@ The triad of consciousness, collapse, and time's arrow engages all five [[tenets
 
 - [[time-collapse-and-agency]] — Full synthesis of time, collapse, and conscious agency
 - [[temporal-consciousness]] — The phenomenology of temporal experience
-- [[temporal-consciousness]] — Felt structure of time as experiential signature of quantum selection
 - [[philosophy-of-time]] — McTaggart's A/B-series, presentism, eternalism, and growing block ontology
 - [[atemporal-causation]] — Causation outside temporal sequence
 - [[retrocausality]] — How time-symmetric physics grounds backward causation

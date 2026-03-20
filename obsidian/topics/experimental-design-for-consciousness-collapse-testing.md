@@ -22,7 +22,7 @@ related_articles:
   - "[[quantum-measurement-and-consciousness]]"
   - "[[consciousness-in-smeared-quantum-states]]"
   - "[[comparing-quantum-consciousness-mechanisms]]"
-  - "[[consciousness-and-scientific-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
   - "[[time-collapse-and-agency]]"
   - "[[qm-interpretations-beyond-many-worlds]]"
 ai_contribution: 100
@@ -141,7 +141,7 @@ The Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is directly r
 - [[quantum-measurement-and-consciousness]]
 - [[consciousness-in-smeared-quantum-states]]
 - [[comparing-quantum-consciousness-mechanisms]]
-- [[consciousness-and-scientific-methodology]]
+- [[methodology-of-consciousness-research]]
 - [[time-collapse-and-agency]]
 - [[testability-ledger]] — Systematic catalogue of what would disconfirm the Map's framework
 

@@ -23,7 +23,6 @@ related_articles:
   - "[[intentionality-void]]"
   - "[[self-reference-paradox]]"
   - "[[intrinsic-nature-void]]"
-  - "[[self-reference-paradox]]"
   - "[[explanatory-gap]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[mysterianism]]"
@@ -112,7 +111,6 @@ For the [[simulation|simulation hypothesis]], phenomenal transparency makes the 
 - [[introspection]] — The reliability and limits of first-person access
 - [[phenomenal-consciousness]] — The broader category that transparency shapes
 - [[introspective-opacity]] — The structural limit where process access fails
-- [[self-reference-paradox]] — Recursive limits on self-knowledge
 - [[explanatory-gap]] — The gap between physical description and phenomenal experience that transparency makes vivid
 - [[contemplative-practice-as-philosophical-evidence]] — Whether sustained contemplative practice can reduce transparency
 - [[mysterianism]] — Cognitive closure as a structural limit on understanding consciousness

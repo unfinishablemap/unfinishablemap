@@ -8,7 +8,7 @@ ai_modified: 2026-03-05T06:39:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[first-person-third-person-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
   - "[[phenomenology-of-epistemic-cognition]]"
   - "[[phenomenology-of-trust]]"
   - "[[consciousness-and-collective-phenomena]]"
@@ -161,7 +161,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet is
 - [[consciousness-and-the-authority-of-formal-systems]] — Logical compulsion and consciousness
 - [[introspection-rehabilitation]] — Restoring introspection as a serious method
 - [[phenomenal-conservatism-and-introspective-evidence]] — Phenomenal experience as evidence
-- [[first-person-third-person-methodology]] — Methodological tensions in consciousness science
+- [[methodology-of-consciousness-research]] — Methodological tensions in consciousness science
 - [[argument-from-reason]] — The broader self-defeat challenge to physicalism
 - [[epistemic-advantages-of-dualism]] — Why dualism provides better epistemic resources
 - [[consciousness-and-interpersonal-understanding]] — How minds understand each other

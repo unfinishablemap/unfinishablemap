@@ -8,7 +8,7 @@ human_modified: null
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[first-person-third-person-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
   - "[[quantum-neural-timing-constraints]]"
   - "[[cognitive-science-of-dualism]]"
 concepts:
@@ -101,7 +101,7 @@ Whitehead's process philosophy reframes the debate. Each "actual occasion" has b
 
 ## Contemplative Perspectives
 
-Contemplative traditions offer evidence beyond untrained intuitions. Buddhist psychology finds neither substance dualism nor materialism—only streams of momentary mental events including irreducibly mental elements (feelings, perceptions, volitions). Cross-cultural reports of [[witness-consciousness]]—stable awareness observing experience without being identical to content—suggest trained observation reveals something systematic fitting neither Bloom's innate dualism nor Barrett's intuitive materialism. See [[first-person-third-person-methodology]] for the methodological debate.
+Contemplative traditions offer evidence beyond untrained intuitions. Buddhist psychology finds neither substance dualism nor materialism—only streams of momentary mental events including irreducibly mental elements (feelings, perceptions, volitions). Cross-cultural reports of [[witness-consciousness]]—stable awareness observing experience without being identical to content—suggest trained observation reveals something systematic fitting neither Bloom's innate dualism nor Barrett's intuitive materialism. See [[methodology-of-consciousness-research]] for the methodological debate.
 
 ## What Would Challenge This View?
 
@@ -144,7 +144,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] receives the most d
 - [[cognitive-science-of-dualism]] — How cognitive science's methods frame and limit the dualism debate
 - [[dualism]] — The philosophical case, including engagement with "folk error" objection
 - [[illusionism]] — The radical view that phenomenal consciousness is itself illusion
-- [[first-person-third-person-methodology]] — Debates about introspective methodology
+- [[methodology-of-consciousness-research]] — Debates about introspective methodology
 - [[theory-of-mind]] — Mentalizing capacities and their connection to dualist thinking
 - [[witness-consciousness]] — Contemplative evidence for non-dual awareness
 - [[quantum-neural-timing-constraints]] — How neural timing windows relate to quantum mechanisms

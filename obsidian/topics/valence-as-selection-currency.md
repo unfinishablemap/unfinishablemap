@@ -18,7 +18,6 @@ concepts:
   - "[[control-theoretic-will]]"
   - "[[agent-teleology]]"
   - "[[attention-as-interface]]"
-  - "[[psychophysical-laws]]"
   - "[[topics/phenomenal-value-realism]]"
 related_articles:
   - "[[tenets]]"
@@ -157,7 +156,6 @@ The selection currency thesis is where several of the Map's tenets converge into
 - [[agent-teleology]] — Genuine purpose through conscious causation
 - [[topics/phenomenal-value-realism]] — Values grounded in phenomenal properties
 - [[attention-as-interface]] — The attentional channel through which selection operates
-- [[psychophysical-laws]] — The broader framework of laws bridging mind and matter
 - [[bandwidth-problem-mental-causation]] — The ~10 bits/second constraint on conscious selection
 - [[pain-consciousness-and-causal-power]] — Pain asymbolia as evidence that valence does causal work
 

@@ -10,7 +10,7 @@ topics:
   - "[[topics/consciousness-and-social-cognition]]"
   - "[[phenomenology-of-understanding-and-meaning]]"
   - "[[emotion-and-dualism]]"
-  - "[[first-person-third-person-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
 concepts:
   - "[[problem-of-other-minds]]"
   - "[[intersubjectivity]]"

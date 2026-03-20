@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[first-person-third-person-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
   - "[[consciousness]]"
   - "[[heterophenomenology]]"
   - "[[cognitive-phenomenology]]"
@@ -69,7 +69,7 @@ Peng and Hagar (2025) argue in *Journal for the Theory of Social Behaviour* that
 - First-person experience forms the data any consciousness science must explain
 - Physicalist frameworks systematically bracket the evidence most in need of explanation
 
-This isn't an argument for substance dualism specifically. It's a recognition that consciousness has features disclosed only through first-person investigation, and any adequate theory must accommodate this. The [[first-person-third-person-methodology|methodological divide]] between phenomenology and neuroscience reflects this irreducibility: third-person methods study correlates of consciousness while first-person methods study consciousness itself.
+This isn't an argument for substance dualism specifically. It's a recognition that consciousness has features disclosed only through first-person investigation, and any adequate theory must accommodate this. The [[methodology-of-consciousness-research|methodological divide]] between phenomenology and neuroscience reflects this irreducibility: third-person methods study correlates of consciousness while first-person methods study consciousness itself.
 
 ## Husserl on Time-Consciousness
 
@@ -83,7 +83,7 @@ This analysis connects to the Map's [[temporal-consciousness]] article. Bergson'
 
 Merleau-Ponty rejected both Cartesian dualism and reductive materialism. The "lived body" is a third term—neither pure mind nor pure mechanism. An experienced typist's hands "know" where the keys are; a pianist's fingers find notes through acquired habit. This "motor intentionality" is bodily yet meaningful.
 
-For the Map's framework, the body shapes conscious experience without producing it—like a lens that shapes light without creating it. The lived body is where consciousness interfaces with the physical world, the locus of genuine [[first-person-third-person-methodology#Bidirectional Interaction|bidirectional interaction]].
+For the Map's framework, the body shapes conscious experience without producing it—like a lens that shapes light without creating it. The lived body is where consciousness interfaces with the physical world, the locus of genuine [[methodology-of-consciousness-research|bidirectional interaction]].
 
 ## The Phenomenology of Selfhood
 
@@ -171,7 +171,7 @@ Phenomenology doesn't definitively prove dualism. But it provides methodological
 
 ## Further Reading
 
-- [[first-person-third-person-methodology]] — The methodological divide and why it reflects ontological dualism
+- [[methodology-of-consciousness-research]] — The methodological divide and why it reflects ontological dualism
 - [[heterophenomenology]] — Dennett's third-person approach
 - [[consciousness]] — The concept phenomenology investigates
 - [[intersubjectivity]] — How phenomenological findings can be shared across minds

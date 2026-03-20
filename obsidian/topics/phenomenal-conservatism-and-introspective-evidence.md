@@ -8,7 +8,7 @@ ai_modified: 2026-03-14T23:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[first-person-third-person-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
 concepts:
   - "[[introspection]]"
   - "[[phenomenological-evidence]]"

@@ -26,7 +26,6 @@ related_articles:
   - "[[narrative-void]]"
   - "[[thoughts-that-slip-away]]"
   - "[[phenomenology-of-the-edge]]"
-  - "[[self-reference-paradox]]"
   - "[[ownership-void]]"
   - "[[emotional-epistemology-void]]"
   - "[[causal-interface]]"
@@ -216,7 +215,6 @@ None of these conditions has been met. Introspective opacity persists across cul
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching limits feels like
 - [[attention-created-voids|Attention-Created Voids]] — How attending to phenomena can destroy them
 - [[ownership-void|The Ownership Void]] — Why the ownership relation hides from the subject who bears it
-- [[self-reference-paradox|The Self-Reference Paradox]] — Formal limitations on self-understanding
 - [[introspection|Introspection and First-Person Methods]] — Reliability and limits of self-examination
 - [[emotional-epistemology-void|The Emotional Epistemology Void]] — Whether affective states constitute genuine process-knowledge
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn on structural cognitive limits

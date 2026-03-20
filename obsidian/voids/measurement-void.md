@@ -28,7 +28,6 @@ related_articles:
   - "[[self-reference-paradox]]"
   - "[[destabilizing-self-knowledge]]"
   - "[[consciousness-and-the-problem-of-measurement-standards]]"
-  - "[[self-reference-paradox]]"
   - "[[substrate-void]]"
   - "[[intrinsic-nature-void]]"
   - "[[intersubjective-void]]"

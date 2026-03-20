@@ -12,14 +12,12 @@ topics:
 concepts:
   - "[[cognitive-phenomenology]]"
   - "[[temporal-consciousness]]"
-  - "[[temporal-consciousness]]"
   - "[[working-memory]]"
   - "[[consciousness-as-amplifier]]"
   - "[[epistemic-emotions]]"
   - "[[language-recursion-and-consciousness]]"
   - "[[illusionism]]"
   - "[[phenomenology]]"
-  - "[[temporal-consciousness]]"
   - "[[introspection]]"
   - "[[decoherence]]"
   - "[[phenomenology-of-choice]]"
@@ -189,11 +187,9 @@ This doesn't prove AI cannot understand. It suggests that if AI does understand,
 - [[cognitive-phenomenology]] — The broader debate about whether thinking has phenomenal character
 - [[temporal-consciousness]] — How consciousness structures time experience more generally
 - [[consciousness-and-mathematical-cognition]] — Mathematical insight as paradigm case of understanding
-- [[temporal-consciousness]] — The temporal window within which binding occurs
 - [[working-memory]] — The cognitive system supporting temporal manipulation
 - [[epistemic-emotions]] — Feelings of knowing, curiosity, and other understanding-related phenomenology
 - [[language-recursion-and-consciousness]] — How recursive structure processing reveals temporal phenomenology
-- [[temporal-consciousness]] — Bergson's concept of lived time as interpenetrating flow
 - [[phenomenology-of-understanding-and-meaning]] — Related argument that meaning is constitutively phenomenal
 - [[phenomenology-of-choice]] — Parallels between the phenomenology of choosing and understanding
 - [[agent-causation]] — Understanding as a case of conscious agency in cognition

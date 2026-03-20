@@ -17,7 +17,6 @@ concepts:
   - "[[control-theoretic-will]]"
   - "[[agent-teleology]]"
   - "[[attention-as-interface]]"
-  - "[[psychophysical-laws]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[topics/phenomenal-value-realism]]"
 related_articles:
@@ -150,7 +149,6 @@ The Map should eventually take a position on this fork. The graduated middle pat
 - [[control-theoretic-will]] — Will as a low-bandwidth control signal
 - [[agent-teleology]] — Genuine purpose through conscious causation
 - [[topics/phenomenal-value-realism]] — Values grounded in phenomenal properties
-- [[psychophysical-laws]] — Laws and candidate mechanisms for mind-brain interaction
 - [[concepts/epiphenomenalism]] — The view this fork partially threatens to resurrect
 - [[attention-as-interface]] — The interface through which consciousness acts
 - [[pain-consciousness-and-causal-power]] — Pain asymbolia as evidence that valence does causal work in selection

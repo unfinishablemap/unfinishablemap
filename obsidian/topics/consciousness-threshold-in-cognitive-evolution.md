@@ -16,7 +16,6 @@ concepts:
   - "[[emergence]]"
   - "[[working-memory]]"
   - "[[metacognition]]"
-  - "[[metacognition]]"
   - "[[phenomenal-consciousness]]"
   - "[[animal-consciousness]]"
 related_articles:

@@ -8,10 +8,8 @@ human_modified:
 last_deep_review: 2026-03-11T01:38:00+00:00
 draft: false
 topics:
-  - "[[consciousness-and-scientific-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
   - "[[hard-problem-of-consciousness]]"
-  - "[[first-person-third-person-methodology]]"
-  - "[[consciousness-and-scientific-methodology]]"
 concepts:
   - "[[introspection]]"
   - "[[contemplative-epistemology]]"

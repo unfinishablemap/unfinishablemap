@@ -29,7 +29,7 @@ related_articles:
   - "[[qm-interpretations-beyond-many-worlds]]"
   - "[[consciousness-measurement-problem-2026-01-16]]"
   - "[[measurement-problem-quantum-mechanics-2026-01-14]]"
-  - "[[first-person-third-person-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
   - "[[consciousness-in-smeared-quantum-states]]"
   - "[[the-convergence-argument-for-dualism]]"
   - "[[the-participatory-universe]]"

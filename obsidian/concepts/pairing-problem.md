@@ -173,7 +173,6 @@ The [[objections-to-interactionism]] article provides comprehensive treatment of
 
 - [[brain-interface-boundary]] - Why consciousness can only select within its own brain (critical companion)
 - [[objections-to-interactionism]] - Comprehensive treatment of all six objections including pairing
-- [[brain-interface-boundary]] - What makes neural systems suitable interfaces
 - [[haecceity]] - Primitive "thisness" as individuating principle
 - [[interactionist-dualism]] - The position the pairing problem challenges
 - [[causal-closure]] - The distinct (but related) closure objection

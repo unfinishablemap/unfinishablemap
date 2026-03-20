@@ -193,7 +193,6 @@ None currently obtains. The asymmetry persists across studies; binding remains c
 - [[metacognition]] — Self-monitoring as consciousness-enabled capacity
 - [[concept-of-consciousness-and-social-cognition]] — How expanded WM capacity enables recursive mindreading
 - [[baseline-cognition]] — What neural systems achieve without conscious amplification
-- [[metacognition|metarepresentation]] — Representing representations as representations
 - [[counterfactual-reasoning]] — Thinking about what might have been
 - [[bandwidth-of-consciousness]] — The throughput limits of conscious processing
 - [[interface-friction]] — The felt cost of consciousness-matter interaction

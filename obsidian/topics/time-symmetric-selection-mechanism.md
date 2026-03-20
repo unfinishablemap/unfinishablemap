@@ -19,7 +19,6 @@ concepts:
   - "[[agent-causation]]"
   - "[[libet-experiments]]"
   - "[[temporal-consciousness]]"
-  - "[[temporal-consciousness]]"
   - "[[decoherence]]"
   - "[[illusionism]]"
 related_articles:
@@ -219,7 +218,6 @@ Time-symmetric selection connects tightly to the Map's tenets:
 - [[libet-experiments]] — The timing experiments and Schurger's critique
 - [[agent-causation]] — How agents serve as ultimate sources
 - [[temporal-consciousness]] — The temporal thickness of conscious experience
-- [[temporal-consciousness]] — Broader treatment of time in consciousness
 - [[atemporal-causation]] — The metaphysics of causation outside temporal sequence
 - [[tenets]] — The Map's foundational commitments
 

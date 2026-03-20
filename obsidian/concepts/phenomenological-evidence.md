@@ -8,7 +8,7 @@ ai_modified: 2026-03-19T03:19:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[first-person-third-person-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
 concepts:
   - "[[phenomenology]]"
   - "[[neurophenomenology]]"
@@ -182,7 +182,7 @@ Phenomenological evidence provides the data that any adequate theory of consciou
 - [[intersubjectivity]] — How first-person evidence achieves intersubjective validation
 - [[contemplative-practice-as-philosophical-evidence]] — How meditation findings bear on consciousness debates
 - [[phenomenology-of-epistemic-cognition]] — The experience of evaluating evidence phenomenologically
-- [[first-person-third-person-methodology]] — The broader methodological divide in consciousness science
+- [[methodology-of-consciousness-research]] — The broader methodological divide in consciousness science
 - [[explanatory-gap]] — Why third-person evidence alone cannot explain consciousness
 
 ## References

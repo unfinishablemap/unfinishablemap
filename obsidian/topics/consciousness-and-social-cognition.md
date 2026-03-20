@@ -143,7 +143,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly. T
 - [[cetacean-and-corvid-consciousness]] — Dolphins and corvids display Level 1-2 social cognition through radically different neural architectures
 - [[duhem-quine-underdetermination-consciousness]] — Why falsifiability conditions for consciousness claims face deep underdetermination
 - [[consciousness-and-methodological-failure]] — How standard theoretical virtues systematically malfunction when applied to consciousness
-- [[consciousness-and-scientific-methodology]] — The structural challenge of studying subjective phenomena with objective methods
+- [[methodology-of-consciousness-research]] — The structural challenge of studying subjective phenomena with objective methods
 
 ## References
 

@@ -23,7 +23,6 @@ related_articles:
   - "[[self-reference-paradox]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[phenomenology-of-self-awareness]]"
-  - "[[self-reference-paradox]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -161,7 +160,6 @@ The Map's voids framework recognises that we are beings who can conceive of thei
 - [[whether-real]] — Distinguishing genuine from apparent limits
 - [[phenomenology-of-the-edge]] — The texture of approaching cognitive boundaries
 - [[phenomenology-of-self-awareness]] — The felt quality of thought examining itself
-- [[self-reference-paradox]] — Why the observer cannot observe itself observing
 
 ## References
 

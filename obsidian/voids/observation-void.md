@@ -19,7 +19,6 @@ related_articles:
   - "[[introspective-opacity]]"
   - "[[self-reference-paradox]]"
   - "[[causal-interface]]"
-  - "[[self-reference-paradox]]"
   - "[[consciousness-only-territories]]"
   - "[[defended-territory]]"
   - "[[apophatic-approaches]]"
@@ -112,7 +111,6 @@ The observation void also connects to [[self-reference-paradox]] (the subject th
 - [[introspective-opacity]] — Why we access mental contents but never the mechanisms producing them
 - [[self-reference-paradox]] — The subject that cannot become its own object
 - [[causal-interface]] — The hidden mechanism of mind-body interaction
-- [[self-reference-paradox]] — Where consciousness cannot map because it is the mapper
 - [[consciousness-only-territories]] — Knowledge accessible only through phenomenal experience
 - [[apophatic-approaches]] — Knowing through negation—an indirect route past the void
 - [[constitutive-exclusion]] — Why consciousness cannot access reality independent of its own constitutive contribution

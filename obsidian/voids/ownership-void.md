@@ -20,7 +20,6 @@ related_articles:
   - "[[self-reference-paradox]]"
   - "[[introspective-opacity]]"
   - "[[other-minds-void]]"
-  - "[[self-reference-paradox]]"
   - "[[transparency-void]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[consciousness-and-the-ownership-problem]]"
@@ -106,7 +105,6 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies. Predictive
 - [[introspective-opacity]] — Why cognitive processes hide from introspection
 - [[transparency-void]] — When cognitive mechanisms become invisible through transparency
 - [[other-minds-void]] — The impossibility of accessing another subject's ownership
-- [[self-reference-paradox]] — Formal limitations on self-understanding
 - [[phenomenology-of-the-edge]] — What approaching limits feels like
 - [[self-and-consciousness]] — Minimal self and pre-reflective awareness
 - [[consciousness-and-the-ownership-problem]] — Why experience belongs to anyone, and what happens when it stops

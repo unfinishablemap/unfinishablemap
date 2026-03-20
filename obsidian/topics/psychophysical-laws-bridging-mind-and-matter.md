@@ -12,8 +12,6 @@ topics:
   - "[[topics/free-will]]"
 concepts:
   - "[[psychophysical-laws]]"
-  - "[[psychophysical-laws]]"
-  - "[[psychophysical-laws]]"
   - "[[mental-causation]]"
   - "[[downward-causation]]"
   - "[[coupling-modes]]"
@@ -229,8 +227,6 @@ The framework would face serious difficulty if:
 ## Further Reading
 
 - [[psychophysical-laws]] — The foundational concept in depth
-- [[psychophysical-laws]] — The downward direction: how conscious states select physical outcomes
-- [[psychophysical-laws]] — The coupling law problem and candidate law families
 - [[attention-and-the-consciousness-interface]] — Where in the brain coupling might occur
 - [[stapp-quantum-mind]] — Stapp's quantum Zeno mechanism in detail
 - [[integrated-information-theory]] — IIT's role in Chalmers' quantum proposal

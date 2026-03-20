@@ -21,7 +21,7 @@ concepts:
   - "[[heterophenomenology]]"
 related_articles:
   - "[[tenets]]"
-  - "[[first-person-third-person-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
   - "[[quantum-measurement-and-consciousness]]"
   - "[[self-reference-paradox]]"
 ai_contribution: 100
@@ -96,7 +96,7 @@ Currently, none of these conditions has been met. Cross-cultural convergence con
 - [[self-reference-paradox]]
 - [[explanatory-gap]]
 - [[phenomenology]]
-- [[first-person-third-person-methodology]]
+- [[methodology-of-consciousness-research]]
 - [[quantum-measurement-and-consciousness]]
 - [[knowledge-argument]]
 - [[objectivity-and-consciousness]]

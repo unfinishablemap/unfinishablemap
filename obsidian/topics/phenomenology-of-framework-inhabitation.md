@@ -35,7 +35,6 @@ related_articles:
   - "[[argument-from-reason]]"
   - "[[consciousness-and-the-phenomenology-of-constraint-satisfaction]]"
   - "[[consciousness-and-methodological-failure]]"
-  - "[[consciousness-and-methodological-failure]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

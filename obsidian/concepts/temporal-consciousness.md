@@ -70,7 +70,6 @@ related_articles:
   - "[[authentic-vs-inauthentic-choice]]"
   - "[[bergson-and-duration]]"
   - "[[phenomenology-of-anticipation]]"
-  - "[[temporal-structure-of-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6

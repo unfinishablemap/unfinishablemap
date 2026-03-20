@@ -26,7 +26,6 @@ related_articles:
   - "[[tenets]]"
   - "[[panpsychism-consciousness-2026-01-08]]"
   - "[[quantum-holism-and-phenomenal-unity]]"
-  - "[[quantum-holism-and-phenomenal-unity]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

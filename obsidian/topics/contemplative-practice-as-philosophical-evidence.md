@@ -9,8 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[eastern-philosophy-consciousness]]"
-  - "[[first-person-third-person-methodology]]"
-  - "[[consciousness-and-scientific-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
 concepts:
   - "[[contemplative-neuroscience]]"
   - "[[neurophenomenology]]"
@@ -35,7 +34,7 @@ related_articles:
   - "[[the-convergence-argument-for-dualism]]"
   - "[[epistemology-of-convergence-arguments]]"
   - "[[the-observer-witness-in-meditation]]"
-  - "[[first-person-third-person-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
   - "[[introspection-rehabilitation]]"
   - "[[epistemology-of-introspection]]"
   - "[[phenomenology-of-returning-attention]]"
@@ -227,7 +226,7 @@ The distinction between willed and exogenous attention in [[contemplative-neuros
 - [[meditation-and-consciousness-modes]] — Active selection and passive witnessing as dual modes
 - [[altered-states-of-consciousness]] — Jhāna states and the range of conscious experience
 - [[introspection]] — The reliability debate and process/content distinction
-- [[first-person-third-person-methodology]] — Why both perspectives are necessary
+- [[methodology-of-consciousness-research]] — Why both perspectives are necessary
 - [[eastern-philosophy-consciousness]] — The contemplative traditions providing this evidence
 - [[explanatory-gap]] — The gap between physical description and phenomenal experience
 - [[introspection-rehabilitation]] — The case for rehabilitating introspective methods
@@ -239,7 +238,6 @@ The distinction between willed and exogenous attention in [[contemplative-neuros
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Meditation as voluntary interface modulation within a systematic comparison of five altered states
 - [[contemplative-practice-as-philosophical-evidence]] — How practice progressively expands access to phenomenal structure
 - [[contemplative-verification-of-consciousness-theories]] — Can meditation verify philosophical claims?
-- [[consciousness-and-scientific-methodology]] — How consciousness challenges the scientific method itself
 - [[phenomenological-method-and-evidence-standards]] — Husserl's evidence taxonomy and how it calibrates the epistemic weight of first-person data
 - [[phenomenology]] — Husserl's phenomenological method and its relation to contemplative practice
 - [[aesthetics-and-consciousness]] — Aesthetic sensitivity deepening with training as evidence for irreducibility

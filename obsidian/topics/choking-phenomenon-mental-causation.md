@@ -140,7 +140,6 @@ For the Map's broader case, choking provides the clearest evidence type: negativ
 - [[agent-causation]] — Substance causation as an alternative to event causation
 - [[concepts/epiphenomenalism]] — The view choking evidence refutes
 - [[illusionism]] — The eliminativist challenge and why choking resists it
-- [[attention-as-interface|voluntary attention]] — The neural signatures of willed versus stimulus-driven attention
 - [[mental-effort]] — The phenomenology of effortful attention
 - [[phenomenology-of-deliberation-under-uncertainty]] — Choking as deliberative vertigo under performance pressure
 - [[witness-consciousness]] — Contemplative parallels to anoetic awareness

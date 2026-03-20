@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
-  - "[[consciousness-and-scientific-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
 concepts:
   - "[[cognitive-phenomenology]]"
   - "[[consciousness-and-creativity]]"

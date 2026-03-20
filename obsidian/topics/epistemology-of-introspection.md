@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[epistemology]]"
   - "[[hard-problem-of-consciousness]]"
-  - "[[first-person-third-person-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
 concepts:
   - "[[introspection]]"
   - "[[qualia]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[ethics-and-value-in-a-dualist-world]]"
   - "[[phenomenal-acquaintance]]"
   - "[[acquaintance-knowledge]]"
-  - "[[first-person-third-person-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
   - "[[phenomenological-evidence]]"
   - "[[neurophenomenology]]"
 ai_contribution: 100
@@ -128,7 +128,7 @@ The sui generis model yields clear epistemological conclusions about what intros
 - [[self-reference-paradox]] — The structural impossibility of observing the observer
 - [[introspective-opacity]] — Where introspective access fails structurally
 - [[contemplative-epistemology]] — Systematic contemplative practice as knowledge source
-- [[first-person-third-person-methodology]] — The methodological divide in consciousness science
+- [[methodology-of-consciousness-research]] — The methodological divide in consciousness science
 - [[phenomenological-evidence]] — When first-person reports constitute evidence
 - [[neurophenomenology]] — The mutual constraint framework validating trained introspection
 - [[ethics-and-value-in-a-dualist-world]] — How introspective epistemology grounds unified dualist ethics

@@ -12,7 +12,6 @@ topics:
   - "[[topics/free-will]]"
 concepts:
   - "[[psychophysical-laws]]"
-  - "[[psychophysical-laws]]"
   - "[[quantum-neural-timing-constraints]]"
   - "[[attention-as-interface]]"
   - "[[argument-from-reason]]"
@@ -21,7 +20,6 @@ concepts:
   - "[[mental-causation]]"
   - "[[causal-closure]]"
   - "[[quantum-consciousness]]"
-  - "[[psychophysical-laws]]"
   - "[[downward-causation]]"
   - "[[self-stultification]]"
 related_articles:
@@ -145,7 +143,6 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [[inter
 
 - [[psychophysical-laws]] — Specification of how phenomenal properties map to physical parameters
 - [[coupling-modes]] — Three ways consciousness might influence quantum outcomes: basis, timing, or probability control
-- [[psychophysical-laws]] — The downward direction of psychophysical laws
 - [[quantum-neural-timing-constraints]] — The timing hierarchy from decoherence to neural decisions
 - [[argument-from-reason]] — Complementary self-defeat argument targeting physicalism
 - [[attention-as-interface|voluntary attention]] — The attention interface with neural evidence

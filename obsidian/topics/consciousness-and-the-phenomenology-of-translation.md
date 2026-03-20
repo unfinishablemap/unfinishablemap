@@ -20,7 +20,6 @@ related_articles:
   - "[[consciousness-and-language-interface]]"
   - "[[language-thought-boundary]]"
   - "[[phenomenology-of-understanding-and-meaning]]"
-  - "[[phenomenology-of-understanding-and-meaning]]"
   - "[[intersubjective-void]]"
   - "[[consciousness-and-interpersonal-understanding]]"
   - "[[tenets]]"
@@ -122,7 +121,6 @@ The phenomenology of translation connects to the Map's [[tenets]] at several poi
 - [[language-thought-boundary]] — Where thought exceeds what language can capture
 - [[cognitive-phenomenology]] — Whether thinking has phenomenal character beyond sensory accompaniments
 - [[phenomenology-of-understanding-and-meaning]] — How consciousness constitutes semantic grasp
-- [[phenomenology-of-understanding-and-meaning]] — The felt quality of comprehension
 - [[intersubjective-void]] — The gap between minds that translation attempts to bridge
 - [[consciousness-and-interpersonal-understanding]] — Phenomenal engagement with other minds
 

@@ -24,7 +24,6 @@ concepts:
   - "[[concepts/epiphenomenalism]]"
   - "[[witness-consciousness]]"
   - "[[phenomenology-of-choice]]"
-  - "[[metacognition]]"
   - "[[phenomenal-consciousness]]"
   - "[[access-consciousness]]"
   - "[[causal-delegation]]"

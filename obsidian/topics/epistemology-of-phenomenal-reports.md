@@ -28,9 +28,8 @@ concepts:
 related_articles:
   - "[[knowledge-argument]]"
   - "[[introspection-rehabilitation]]"
-  - "[[first-person-third-person-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
   - "[[argument-from-reason]]"
-  - "[[consciousness-and-scientific-methodology]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -97,7 +96,7 @@ But consciousness *is* how things seem. Phenomenal reports describe the very fea
 
 The epistemology of phenomenal reports exposes a tension within scientific methodology itself. Science aspires to objectivity—the "view from nowhere" that Thomas Nagel (1986) identified as inherently unable to capture consciousness's perspective-dependent nature. As the Map's treatment of [[objectivity-and-consciousness]] argues, this aspiration works brilliantly for phenomena that do not essentially involve a point of view. It struggles with the one phenomenon that *is* a point of view.
 
-This does not mean science must abandon objectivity. It means recognising that objectivity comes in degrees, and that some phenomena may require methodological pluralism. The first-person/third-person divide in [[first-person-third-person-methodology|consciousness research methodology]] reflects a genuine ontological asymmetry, not merely a gap in current techniques. If consciousness is irreducible to physical processes, then no third-person method will ever fully capture what phenomenal reports convey.
+This does not mean science must abandon objectivity. It means recognising that objectivity comes in degrees, and that some phenomena may require methodological pluralism. The first-person/third-person divide in [[methodology-of-consciousness-research|consciousness research methodology]] reflects a genuine ontological asymmetry, not merely a gap in current techniques. If consciousness is irreducible to physical processes, then no third-person method will ever fully capture what phenomenal reports convey.
 
 The [[knowledge-argument]] makes this vivid: Mary, who knows all physical facts about colour vision, still learns something new upon seeing red. What she learns is precisely what a phenomenal report attempts to communicate—the qualitative character of experience that physical description leaves out.
 
@@ -123,7 +122,7 @@ The Occam's Razor tenet is also relevant. Eliminativists about phenomenal report
 - [[introspection-rehabilitation]]
 - [[heterophenomenology]]
 - [[neurophenomenology]]
-- [[first-person-third-person-methodology]]
+- [[methodology-of-consciousness-research]]
 - [[objectivity-and-consciousness]]
 - [[intersubjectivity]]
 - [[phenomenal-consciousness]]
@@ -136,7 +135,6 @@ The Occam's Razor tenet is also relevant. Eliminativists about phenomenal report
 - [[contemplative-epistemology]]
 - [[mysterianism]]
 - [[phenomenological-evidence]]
-- [[consciousness-and-scientific-methodology]]
 
 ## References
 

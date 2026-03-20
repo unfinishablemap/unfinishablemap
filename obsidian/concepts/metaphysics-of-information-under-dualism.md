@@ -128,7 +128,6 @@ The metaphysics of information connects to each of the Map's tenets.
 - [[russellian-monism]] — The view that physics captures only structure while quiddities ground consciousness
 - [[explanatory-gap]] — The gap between physical description and phenomenal experience
 - [[the-interface-specification-problem]] — The challenge of specifying how consciousness interfaces with physics
-- [[psychophysical-laws]] — How conscious states select physical outcomes
 - [[consciousness-and-causal-powers]] — The causal efficacy of consciousness
 - [[decoherence]] — The quantum process that challenges and constrains neural-scale interaction models
 - [[attention-as-causal-bridge]] — How attention serves as the mechanism through which semantic information reaches physical processes

@@ -29,7 +29,6 @@ concepts:
   - "[[philosophical-zombies]]"
   - "[[phenomenology-of-choice]]"
   - "[[working-memory]]"
-  - "[[metacognition]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-simple-organisms-2026-01-19]]"
@@ -248,7 +247,6 @@ The Map rejects MWI partly because it undermines the [[haecceity]]—the irreduc
 - [[minimal-consciousness]] — The simplest form of consciousness and what it requires
 - [[witness-consciousness]] — Meditative access to minimal awareness states
 - [[working-memory]] — The capacity expansion that enables consciousness-dependent cognition
-- [[metacognition]] — The procedural/declarative distinction
 
 ### Skeptical Perspectives
 - [[illusionism]] — The radical physicalist response and why the regress problem persists

@@ -27,7 +27,6 @@ related_articles:
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[consciousness-and-agency]]"
   - "[[consciousness-and-skilled-performance]]"
-  - "[[consciousness-and-skilled-performance]]"
   - "[[libet-experiments]]"
   - "[[concept-of-free-will]]"
 ai_contribution: 100
@@ -145,7 +144,6 @@ The account of spontaneous intentional action offered here would face difficulty
 - [[consciousness-and-skilled-performance|phenomenology of flow states]] — Flow as effortless, absorbed action—a neighbouring category
 - [[interface-friction]] — Why some conscious selections require effort and others do not
 - [[libet-experiments]] — Neuroscientific challenges to conscious initiation of action
-- [[consciousness-and-skilled-performance]] — How disciplined training yields spontaneous expertise
 
 ## References
 

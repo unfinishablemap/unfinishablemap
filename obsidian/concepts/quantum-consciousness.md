@@ -19,7 +19,6 @@ concepts:
   - "[[psychophysical-laws]]"
   - "[[causal-closure]]"
   - "[[quantum-holism-and-phenomenal-unity]]"
-  - "[[psychophysical-laws]]"
   - "[[brain-interface-boundary]]"
   - "[[quantum-biology]]"
   - "[[quantum-neural-mechanisms-and-coherence]]"
@@ -203,7 +202,6 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 - [[decoherence]] — Analysis of the decoherence challenge
 - [[psychophysical-laws]] — What a coupling law must specify
 - [[coupling-modes]] — Basis, timing, and probability control: how consciousness might couple
-- [[psychophysical-laws]] — The downward direction of psychophysical laws
 - [[brain-interface-boundary]] — Why consciousness selects only within its own brain
 - [[quantum-holism-and-phenomenal-unity]] — Entanglement and phenomenal unity
 - [[phenomenal-binding-and-holism]] — Classical vs. quantum binding mechanisms

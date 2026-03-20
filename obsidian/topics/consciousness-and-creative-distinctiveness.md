@@ -34,7 +34,6 @@ related_articles:
   - "[[surprise-prediction-error-and-consciousness]]"
   - "[[creativity-void]]"
   - "[[aesthetics-and-consciousness]]"
-  - "[[aesthetics-and-consciousness]]"
   - "[[consciousness-and-mathematical-cognition]]"
   - "[[consciousness-and-skilled-performance]]"
   - "[[incubation-effect-and-unconscious-processing]]"
@@ -160,7 +159,6 @@ Current evidence does not support any of these conditions.
 - [[creativity-void]] — Why the creative source remains phenomenologically hidden
 - [[aesthetics-and-consciousness]] — Beauty as irreducible phenomenal property
 - [[phenomenology-of-understanding-and-meaning]] — Five modes of phenomenal meaning underlying creative selection
-- [[aesthetics-and-consciousness]] — Making art as evidence for bidirectional interaction
 - [[phenomenology-of-imagination]] — Phenomenal imagination and creative exploration
 - [[incubation-effect-and-unconscious-processing]] — The role of unconscious incubation in creativity
 

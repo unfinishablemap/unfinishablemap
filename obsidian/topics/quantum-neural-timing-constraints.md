@@ -15,7 +15,6 @@ concepts:
   - "[[decoherence]]"
   - "[[motor-selection]]"
   - "[[attention-as-interface]]"
-  - "[[attention-as-interface]]"
   - "[[measurement-problem]]"
 related_articles:
   - "[[tenets]]"
@@ -198,7 +197,6 @@ What would challenge the Map's metaphysical position is not timing evidence but 
 - [[stapp-quantum-mind]] — The quantum Zeno mechanism for mental effort
 - [[motor-selection]] — The 280ms motor commitment point and Libet dissolution
 - [[attention-as-interface|voluntary attention]] — Willed attention deployment and frontal theta
-- [[attention-as-interface]] — Unification of attention and motor timing
 - [[measurement-problem]] — Why decoherence doesn't solve outcome selection
 - [[neural-implementation-specifics]] — How timing constraints differ across five quantum neural mechanisms
 

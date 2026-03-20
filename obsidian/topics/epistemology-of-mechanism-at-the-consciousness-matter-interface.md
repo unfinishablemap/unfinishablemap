@@ -15,7 +15,6 @@ concepts:
   - "[[psychophysical-laws]]"
   - "[[causal-closure]]"
   - "[[attention-as-interface]]"
-  - "[[psychophysical-laws]]"
 related_articles:
   - "[[tenets]]"
   - "[[the-interface-specification-problem]]"

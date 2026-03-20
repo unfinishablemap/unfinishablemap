@@ -16,7 +16,6 @@ concepts:
   - "[[philosophical-zombies]]"
   - "[[illusionism]]"
   - "[[knowledge-argument]]"
-  - "[[dualism]]"
   - "[[idealism]]"
   - "[[mysterianism]]"
   - "[[introspection]]"

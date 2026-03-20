@@ -11,7 +11,6 @@ topics:
   - "[[topics/free-will]]"
 concepts:
   - "[[psychophysical-laws]]"
-  - "[[psychophysical-laws]]"
   - "[[evolution-of-consciousness]]"
   - "[[dualism]]"
   - "[[concepts/epiphenomenalism]]"
@@ -215,7 +214,6 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 
 **Mechanisms:**
 - [[stapp-quantum-mind]] — Quantum Zeno mechanism for consciousness-brain interaction
-- [[psychophysical-laws]] — How phenomenal properties map to physical selections
 - [[attention-as-interface]] — Attention as the causal interface
 - [[amplification-mechanisms-consciousness-physics]] — Six proposed mechanisms for bridging the quantum-to-neural gap
 - [[amplification-void]] — Why the quantum-to-neural chain is structurally untraceable

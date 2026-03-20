@@ -25,7 +25,6 @@ related_articles:
   - "[[temporal-void]]"
   - "[[self-reference-paradox]]"
   - "[[thoughts-that-slip-away]]"
-  - "[[self-reference-paradox]]"
   - "[[indexical-void]]"
   - "[[consciousness-and-memory]]"
   - "[[contemplative-epistemology]]"
@@ -181,7 +180,6 @@ None of these conditions has been met. Memory is construction, not retrieval, an
 - [[anoetic-noetic-autonoetic-consciousness]] — The self-knowing awareness that enables "mental time travel"
 - [[personal-identity]] — What makes you the same person over time
 - [[self-reference-paradox]] — The present self is also elusive
-- [[self-reference-paradox]] — Structural limits on self-understanding
 - [[thoughts-that-slip-away]] — Related phenomenology of cognitive limitation
 - [[consciousness-and-memory]] — How memory systems map onto levels of consciousness
 - [[contemplative-epistemology]] — The epistemic standing of contemplative reports

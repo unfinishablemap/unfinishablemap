@@ -20,7 +20,7 @@ concepts:
   - "[[mental-causation]]"
 related_articles:
   - "[[tenets]]"
-  - "[[first-person-third-person-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
   - "[[cognitive-science-dualism-2026-01-15]]"
   - "[[phenomenology]]"
 ai_contribution: 100
@@ -37,7 +37,7 @@ Cognitive science operates under methodological materialism — it studies the m
 
 Cognitive science inherits from behaviourism and computational theory of mind a commitment to third-person explanation. Neural correlates, information processing, and functional organisation are the currency of explanation. This works for perception, memory, and motor control. It does not work — at least not yet, and perhaps not in principle — for phenomenal [[consciousness]].
 
-The problem is not that cognitive science uses third-person methods. All empirical science does. The problem is the inference from "our methods don't detect non-physical causation" to "non-physical causation doesn't exist." This is like concluding that radio waves don't exist because a thermometer can't measure them. The analogy is imperfect — radio waves were eventually detected by other physical instruments — but the logical point stands: absence of evidence within a restricted methodology is not evidence of absence. The [[first-person-third-person-methodology|methodological gap]] between first-person phenomenology and third-person neuroscience may track a genuine ontological distinction rather than a temporary limitation.
+The problem is not that cognitive science uses third-person methods. All empirical science does. The problem is the inference from "our methods don't detect non-physical causation" to "non-physical causation doesn't exist." This is like concluding that radio waves don't exist because a thermometer can't measure them. The analogy is imperfect — radio waves were eventually detected by other physical instruments — but the logical point stands: absence of evidence within a restricted methodology is not evidence of absence. The [[methodology-of-consciousness-research|methodological gap]] between first-person phenomenology and third-person neuroscience may track a genuine ontological distinction rather than a temporary limitation.
 
 ## What Cognitive Science Actually Shows
 
@@ -53,7 +53,7 @@ Cognitive neuroscience has mapped extensive correlations between brain states an
 
 What *is* in dispute is whether correlation equals identity. Every neural correlate study presupposes that the subject's first-person report is a valid indicator of their experience — the experimenter asks "what do you see?" and trusts the answer. But this trust in [[introspection]] smuggles in an irreducibly first-person element. The data include both the brain scan *and* the subject's phenomenal report, and the report is not itself a brain scan.
 
-A physicalist might object that verbal reports are just behavioural outputs — motor responses measurable in third-person terms like any other. But this objection proves the point. If the report is *merely* a behavioural output, then the neural correlate study has correlated brain states with mouth movements, not with experience. The study's explanatory value depends on treating the report as testimony *about* something — about what the subject consciously perceives. Strip away that interpretive layer and the correlation between brain state and experience disappears, leaving only a correlation between two physical events. Cognitive science depends on [[first-person-third-person-methodology|first-person testimony]] to ground its third-person measurements, creating a methodological circle it cannot close from within.
+A physicalist might object that verbal reports are just behavioural outputs — motor responses measurable in third-person terms like any other. But this objection proves the point. If the report is *merely* a behavioural output, then the neural correlate study has correlated brain states with mouth movements, not with experience. The study's explanatory value depends on treating the report as testimony *about* something — about what the subject consciously perceives. Strip away that interpretive layer and the correlation between brain state and experience disappears, leaving only a correlation between two physical events. Cognitive science depends on [[methodology-of-consciousness-research|first-person testimony]] to ground its third-person measurements, creating a methodological circle it cannot close from within.
 
 ### Embodied Cognition Reshapes but Does Not Resolve the Problem
 
@@ -98,7 +98,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] receives perhaps th
 ## Further Reading
 
 - [[intuitive-dualism]] — Whether humans naturally think dualistically
-- [[first-person-third-person-methodology]] — The methodological gap in consciousness research
+- [[methodology-of-consciousness-research]] — The methodological gap in consciousness research
 - [[neural-correlates-of-consciousness]] — Why correlations between brain states and experience don't settle the metaphysics
 - [[predictive-processing]] — The brain as prediction engine and why it leaves consciousness unexplained
 - [[embodied-cognition]] — How bodily dependence reshapes but doesn't resolve the mind-body problem

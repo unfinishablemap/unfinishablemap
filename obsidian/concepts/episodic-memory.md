@@ -41,7 +41,6 @@ related_articles:
   - "[[temporal-void]]"
   - "[[episodic-memory-consciousness-2026-01-16]]"
   - "[[inaccessible-past]]"
-  - "[[inaccessible-past]]"
   - "[[phenomenology-of-memory-and-the-self]]"
   - "[[capability-division-problem]]"
   - "[[memory-as-dual-domain-capability]]"
@@ -204,7 +203,6 @@ Episodic memory supports all five foundational commitments.
 - [[working-memory]] — The cognitive workspace for mental time travel
 - [[personal-identity]] — How memory relates to selfhood
 - [[inaccessible-past]] — Why the past self is structurally inaccessible, not merely forgotten
-- [[inaccessible-past]] — Whether past qualia persist or are lost forever
 - [[binding-problem]] — Unity of experience and hippocampal binding
 - [[parfit-reductionism]] — Why identity matters, not just continuity
 - [[illusionism]] — The challenge to phenomenal consciousness claims

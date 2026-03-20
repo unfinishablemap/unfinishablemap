@@ -85,7 +85,6 @@ The Map speculates that the boundary between corrected and uncorrected signals m
 - [[reconstruction-paradox]] — the philosophical paradox this mechanism creates
 - [[dualist-perception]]
 - [[predictive-processing-and-dualism]]
-- [[dualist-perception]]
 - [[attention-as-interface]]
 - [[filter-theory]]
 - [[cognitive-closure]]

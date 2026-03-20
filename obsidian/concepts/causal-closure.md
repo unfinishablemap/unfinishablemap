@@ -209,7 +209,6 @@ This is not "god of the gaps" reasoning. Physics *describes* a gap—between qua
 - [[interactionist-dualism]] — The position that mental causation enables
 - [[quantum-consciousness]] — Mechanisms for consciousness-matter interaction; includes decoherence response
 - [[concepts/epiphenomenalism]] — The view accepting closure forces
-- [[mysterianism|cognitive closure]] — McGinn's epistemic closure; distinct from but related to observational closure
 - [[topics/free-will]] — Implications for agency
 - [[concepts/materialism]] — The worldview closure supports
 - [[explanatory-gap]] — Why physical knowledge leaves phenomenal experience unexplained

@@ -23,7 +23,7 @@ concepts:
   - "[[global-workspace-theory]]"
   - "[[integrated-information-theory]]"
   - "[[mysterianism]]"
-  - "[[first-person-third-person-methodology]]"
+  - "[[methodology-of-consciousness-research]]"
   - "[[qualia]]"
   - "[[knowledge-argument]]"
   - "[[phenomenal-overflow]]"
@@ -269,7 +269,6 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 - [[phenomenal-overflow]] — The contested hypothesis that phenomenology exceeds access
 - [[working-memory]] — The maintenance function requiring consciousness
 - [[attention-as-interface|attention]] — The gatekeeper for conscious access
-- [[attention-as-interface|voluntary attention]] — How consciousness directs attention
 - [[global-workspace-theory]] — The theoretical framework for consciousness as broadcast
 - [[stapp-quantum-mind]] — Quantum mechanism for consciousness-attention interface
 - [[concepts/epiphenomenalism]] — The view that consciousness is causally inert and why it fails
