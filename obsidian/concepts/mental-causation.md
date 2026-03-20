@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T17:19:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,6 +39,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[arguments/epiphenomenalism-argument]]"
+  - "[[metaproblem-of-consciousness-under-dualism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -146,7 +147,7 @@ The strongest positive argument for mental causation is the self-stultification 
 4. Beliefs formed without causal connection to their subject matter are not rationally held
 5. Therefore, epiphenomenalism cannot be rationally believed on the basis of evidence about consciousness
 
-If mental states cause nothing, then your beliefs about consciousness aren't caused by consciousness — making the denial epistemically self-defeating. The [[evolutionary-case-for-mental-causation|evolutionary case]] provides complementary support, and the [[choking-phenomenon-mental-causation|choking phenomenon]] offers empirical evidence: conscious interference with automatized skills demonstrates causation.
+If mental states cause nothing, then your beliefs about consciousness aren't caused by consciousness — making the denial epistemically self-defeating. The [[metaproblem-of-consciousness-under-dualism|metaproblem of consciousness]] runs a parallel argument: if consciousness doesn't cause our problem intuitions, those intuitions cannot be explained as tracking their subject matter—interactionism's realizationism is the only position that avoids this. The [[evolutionary-case-for-mental-causation|evolutionary case]] provides complementary support, and the [[choking-phenomenon-mental-causation|choking phenomenon]] offers empirical evidence: conscious interference with automatized skills demonstrates causation.
 
 ### The Illusionist Response
 
@@ -214,6 +215,7 @@ Mental causation, as defended here, is falsifiable:
 - [[brain-interface-boundary]] — Why consciousness affects only its own brain
 - [[attention-as-interface]] — How attention implements the consciousness-physics interface
 - [[mind-matter-interface]] — The unified two-layer architecture integrating filter theory and quantum selection
+- [[metaproblem-of-consciousness-under-dualism]] — The realizationism argument: self-stultification applied to problem intuitions
 
 ## References
 
@@ -230,3 +232,12 @@ Mental causation, as defended here, is falsifiable:
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Woodward, J. (2003). *Making Things Happen*. Oxford University Press.
 1. Yablo, S. (1992). Mental Causation. *Philosophical Review*, 101: 245-280.
+
+<!-- AI REFINEMENT LOG - 2026-03-20
+Changes made:
+- Added cross-link to metaproblem-of-consciousness-under-dualism in self-stultification section (parallel realizationism argument)
+- Added metaproblem to related_articles frontmatter and Further Reading
+
+Based on optimistic-2026-03-20-midday.md cross-linking suggestions.
+This log should be removed after human review.
+-->

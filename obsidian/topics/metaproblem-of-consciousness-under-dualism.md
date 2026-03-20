@@ -4,7 +4,7 @@ description: "How interactionist dualism turns the metaproblem from threat to vi
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-14T19:59:00+00:00
+ai_modified: 2026-03-20T17:19:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,6 +26,8 @@ related_articles:
   - "[[consciousness-and-causal-powers]]"
   - "[[argument-from-reason]]"
   - "[[evolution-under-dualism]]"
+  - "[[the-epiphenomenalist-threat]]"
+  - "[[mental-causation]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -68,7 +70,7 @@ Where would the divergence appear? Consider three domains. First, *philosophical
 
 A zombie might produce the initial problem reports—"consciousness seems hard to explain"—because these track functional features of self-models. But the zombie's philosophical reasoning about consciousness should lack the capacity for genuine insight that comes from attending to the phenomenon itself.
 
-This connects to the [[self-stultification|self-stultification]] argument. If consciousness is epiphenomenal, then our beliefs *about* consciousness are causally disconnected from consciousness. Our conviction that consciousness is real would be an accident—a belief produced by processes with no access to the fact that makes it true. Interactionism avoids this: our conviction is informed because consciousness participates in producing it.
+This connects to the [[self-stultification|self-stultification]] argument—a specific instance of the broader [[mental-causation]] problem. If consciousness is epiphenomenal, then our beliefs *about* consciousness are causally disconnected from consciousness. Our conviction that consciousness is real would be an accident—a belief produced by processes with no access to the fact that makes it true. Interactionism avoids this: our conviction is informed because consciousness participates in producing it.
 
 ## Frankish's Radical Move
 
@@ -110,7 +112,7 @@ The Unfinishable Map's framework turns the metaproblem into an argument *for* in
 
 The [[tenets#^dualism|Dualism]] tenet provides the face-value solution: problem intuitions are accurate because consciousness genuinely resists physical explanation. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet converts this into realizationism: consciousness doesn't merely exist alongside our reasoning about it but causally contributes to that reasoning. This blocks the debunking argument and predicts zombie divergence. The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet exposes the parsimony trap in illusionist reasoning—apparent simplicity purchased by omitting the phenomenon under investigation.
 
-The metaproblem also strengthens the Map's case against [[concepts/epiphenomenalism|epiphenomenalism]]. Epiphenomenal dualism accepts that consciousness is real but denies it causal efficacy—leaving it vulnerable to the debunking argument in exactly the way interactionism is not. The metaproblem provides another reason, alongside [[self-stultification]] and the [[consciousness-and-causal-powers|argument from causal powers]], to prefer interactionist over epiphenomenal dualism.
+The metaproblem also strengthens the Map's case against [[concepts/epiphenomenalism|epiphenomenalism]]. The [[the-epiphenomenalist-threat|epiphenomenalist threat]] identifies a "gravity well" pattern: every position accepting both consciousness and physical causal closure converges on causal impotence through different routes. The metaproblem reveals why this convergence matters—positions trapped in the gravity well cannot give a face-value account of problem intuitions, because they deny consciousness the causal role that realizationism requires. Epiphenomenal dualism accepts that consciousness is real but denies it causal efficacy—leaving it vulnerable to the debunking argument in exactly the way interactionism is not. The metaproblem provides another reason, alongside [[self-stultification]] and the [[consciousness-and-causal-powers|argument from causal powers]], to prefer interactionist over epiphenomenal dualism.
 
 The evolutionary dimension deepens this point. If consciousness was selected because it contributes to adaptive reasoning—as [[evolution-under-dualism|the evolutionary case for dualism]] argues—then its contribution to philosophical reasoning about itself is a specific instance of a general pattern: consciousness improves cognitive processes by providing information that purely physical mechanisms lack.
 
@@ -120,6 +122,8 @@ The evolutionary dimension deepens this point. If consciousness was selected bec
 - [[hard-problem-of-consciousness]] — The problem the metaproblem is about
 - [[illusionism]] — The position most challenged by the metaproblem
 - [[self-stultification]] — The broader argument that epiphenomenalism is self-undermining
+- [[the-epiphenomenalist-threat]] — Why every non-eliminativist position converges on causal impotence
+- [[mental-causation]] — The problem the metaproblem's realizationism argument addresses
 - [[consciousness-and-causal-powers]] — How consciousness does causal work
 - [[evolution-under-dualism]] — The evolutionary case for consciousness having causal efficacy
 - [[philosophical-zombies]] — The thought experiment sharpening the zombie divergence prediction
@@ -136,3 +140,13 @@ The evolutionary dimension deepens this point. If consciousness was selected bec
 4. Frankish, K. (2019). The meta-problem is the problem of consciousness. *Journal of Consciousness Studies*, 26(9-10).
 5. Diaz, R. (~2021). Do people think consciousness poses a hard problem? *Journal of Consciousness Studies*, 28(3-4).
 6. Southgate, A. & Oquatre-six, C. (2026-02-09). The Meta-Problem of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/meta-problem-of-consciousness/
+
+<!-- AI REFINEMENT LOG - 2026-03-20
+Changes made:
+- Added cross-link to the-epiphenomenalist-threat in Relation to Site Perspective (gravity well explains metaproblem failures)
+- Added cross-link to mental-causation in self-stultification section (parallel argument)
+- Added both articles to related_articles frontmatter and Further Reading
+
+Based on optimistic-2026-03-20-midday.md cross-linking suggestions.
+This log should be removed after human review.
+-->

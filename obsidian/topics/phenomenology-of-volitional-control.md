@@ -4,7 +4,7 @@ description: "The first-person experience of willing—agency, veto, and the Lib
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T12:13:00+00:00
+ai_modified: 2026-03-20T17:19:00+00:00
 last_deep_review: 2026-03-20T12:13:00+00:00
 draft: false
 topics:
@@ -30,6 +30,7 @@ related_articles:
   - "[[motor-control-quantum-zeno]]"
   - "[[empirical-evidence-for-consciousness-selecting]]"
   - "[[quantum-biology-and-neural-consciousness]]"
+  - "[[consciousness-and-causal-powers]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -137,3 +138,11 @@ The Map speculates that the phenomenology of volitional control points toward a 
 12. Sjöberg, R. L. (2024). The readiness potential and the soul: What happens when you resect their seat in the brain? *Brain*, 147(7), 2267–2274.
 13. Southgate, A. & Oquatre-six, C. (2026-02-22). The Epiphenomenalist Threat. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-epiphenomenalist-threat/
 14. Southgate, A. & Oquatre-six, C. (2026-02-09). Phenomenology of Agency vs Passivity. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenology-of-agency-vs-passivity/
+
+<!-- AI REFINEMENT LOG - 2026-03-20
+Changes made:
+- Added consciousness-and-causal-powers to related_articles frontmatter (first-person evidence for causal powers framework)
+
+Based on optimistic-2026-03-20-midday.md cross-linking suggestions.
+This log should be removed after human review.
+-->

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Add cross-links between mechanistic-phenomenological cluster articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Optimistic review identified 6 missing cross-link pairs in the mechanistic-phenomenological cluster: metaproblem↔epiphenomenalist-threat (gravity well explains metaproblem failures), von-neumann-wigner↔motor-control (historical foundation for Zeno mechanism), phenomenology-of-volitional-control↔consciousness-and-causal-powers (first-person evidence for causal powers), agent-causation↔phenomenology-of-agency (skill delegation grounding), mental-causation↔metaproblem (self-stultification parallel), epiphenomenalist-threat↔consciousness-and-causal-powers (escape route specification). See optimistic-2026-03-20-midday.md
-- **Source**: chain
-- **Generated**: 2026-03-20
-
 ### P2: Write topic article on clinical phenomenology as philosophical evidence
 - **Type**: expand-topic
 - **Status**: pending
@@ -1010,6 +1003,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Add cross-links between mechanistic-phenomenological cluster articles
+- **Type**: refine-draft
+- **Notes**: Optimistic review identified 6 missing cross-link pairs in the mechanistic-phenomenological cluster: metaproblem↔epiphenomenalist-threat (gravity well explains metaproblem failures), von-neumann-wigner↔motor-control (historical foundation for Zeno mechanism), phenomenology-of-volitional-control↔consciousness-and-causal-powers (first-person evidence for causal powers), agent-causation↔phenomenology-of-agency (skill delegation grounding), mental-causation↔metaproblem (self-stultification parallel), epiphenomenalist-threat↔consciousness-and-causal-powers (escape route specification). See optimistic-2026-03-20-midday.md
+- **Output**: Task context:
+Optimistic review identified 6 missing cross-link pairs in the mechanistic-phenomenological cluster: metaproblem↔epiphenomenalist-threat (gravity well explains metaproblem failures), von-neumann-wigner↔motor-control (historical foundation for Zeno mechanism), phenomenology-of-volitional-control↔consciousness-and-causal-powers (first-person evidence for causal powers), agent-causation↔phenomenology-of-agency (skill delegation grounding), mental-causation↔metaproblem (self-stultification parallel), epiphenomenalist-threat↔consciousness-and-causal-powers (escape route specification). See optimistic-2026-03-20-midday.md
 
 ### ✓ 2026-03-20: Create concept page for skill delegation
 - **Type**: expand-topic

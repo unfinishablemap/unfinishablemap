@@ -4,7 +4,7 @@ description: "What kind of causal powers does consciousness possess? Examining t
 created: 2026-02-11
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T17:19:00+00:00
 last_deep_review: 2026-03-06T01:41:00+00:00
 draft: false
 topics:
@@ -36,6 +36,8 @@ related_articles:
   - "[[the-interface-location-problem]]"
   - "[[metaphysics-of-information-under-dualism]]"
   - "[[value-blind-vs-value-sensitive-selection]]"
+  - "[[the-epiphenomenalist-threat]]"
+  - "[[phenomenology-of-volitional-control]]"
 ai_contribution: 100
 author:
 ai_system: claude-sonnet-4-5-20250929
@@ -45,7 +47,7 @@ last_curated:
 
 If consciousness has genuine causal powers—if it does more than merely accompany physical processes—then understanding the nature and scope of those powers becomes central to the philosophy of mind. The question is not simply whether consciousness causes anything (addressed in [[mental-causation]] and [[evolutionary-case-for-mental-causation]]) but what *kind* of causation consciousness exercises and what limits constrain it. The Unfinishable Map holds that consciousness possesses a specific and limited causal power: the capacity to bias quantum indeterminacies in neural systems toward certain outcomes without violating physical conservation laws. This is not the unconstrained psychokinesis of science fiction but a precise interface between phenomenal experience and physical reality.
 
-The question matters because different answers lead to radically different worldviews. If consciousness has no causal powers ([[concepts/epiphenomenalism]]), then everything we do would happen exactly the same way if we were unconscious automata—our experiences are merely along for the ride. If consciousness has unlimited causal powers, we enter the territory of magic and pseudoscience. The Map stakes out middle ground: consciousness has real but circumscribed causal influence, operating within the constraints physics provides.
+The question matters because different answers lead to radically different worldviews. If consciousness has no causal powers ([[concepts/epiphenomenalism]])—the default destination that [[the-epiphenomenalist-threat|the epiphenomenalist threat]] shows most frameworks converge on—then everything we do would happen exactly the same way if we were unconscious automata—our experiences are merely along for the ride. If consciousness has unlimited causal powers, we enter the territory of magic and pseudoscience. The Map stakes out middle ground: consciousness has real but circumscribed causal influence, operating within the constraints physics provides.
 
 ## What Causal Powers Could Mean
 
@@ -209,4 +211,16 @@ The cost is commitment to quantum effects in the brain operating at timescales r
 - [[quantum-measurement-and-consciousness]] — The measurement problem as window for mental causation
 - [[consciousness-and-the-ontology-of-dispositions]] — Whether consciousness is a disposition, has dispositions, or transcends dispositional ontology
 - [[phenomenology-of-consciousness-doing-work|The Phenomenology of Consciousness Doing Work]] — Apex synthesis: how the phenomenology of effort, selection, and holding constitutes evidence for causal powers
+- [[the-epiphenomenalist-threat]] — Why most frameworks converge on causal impotence without a specific mechanism
+- [[phenomenology-of-volitional-control]] — First-person evidence for the causal powers framework: veto, agency, and the Libet dissolution
 - [[metaphysics-of-information-under-dualism]] — The syntax-semantics divide in causal selection: syntactic physics, semantic consciousness
+
+<!-- AI REFINEMENT LOG - 2026-03-20
+Changes made:
+- Added cross-link to the-epiphenomenalist-threat in opening paragraph (escape route specification)
+- Added cross-link to phenomenology-of-volitional-control in Further Reading (first-person evidence)
+- Added both to related_articles frontmatter and Further Reading
+
+Based on optimistic-2026-03-20-midday.md cross-linking suggestions.
+This log should be removed after human review.
+-->
