@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review filter-theory.md considering terminal lucidity and filter/transmission theory evidence
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article terminal-lucidity-and-filter-transmission-theory.md (created 2026-03-20) provides direct empirical evidence for filter/transmission theory via terminal lucidity cases. Review filter-theory.md and consciousness-and-death.md for cross-links to the new article, whether terminal lucidity evidence strengthens existing arguments, and consistency in how filter/transmission theory is characterised.
-- **Source**: chain (from terminal-lucidity-and-filter-transmission-theory.md)
-- **Generated**: 2026-03-20
-
 ### P2: Refine anaesthesia-and-the-consciousness-interface.md with new filter/transmission research
 - **Type**: refine-draft
 - **Status**: pending
@@ -1002,6 +995,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Cross-review filter-theory.md considering terminal lucidity and filter/transmission theory evidence
+- **Type**: cross-review
+- **Notes**: New article terminal-lucidity-and-filter-transmission-theory.md (created 2026-03-20) provides direct empirical evidence for filter/transmission theory via terminal lucidity cases. Review filter-theory.md and consciousness-and-death.md for cross-links to the new article, whether terminal lucidity evidence strengthens existing arguments, and consistency in how filter/transmission theory is characterised.
+- **Output**: obsidian/concepts/filter-theory.md -- Context: Cross-review filter-theory.md considering terminal lucidity and filter/transmission theory evidence
 
 ### ✓ 2026-03-20: Integrate measurement-problem-as-hard-problem.md into site navigation
 - **Type**: integrate-orphan
