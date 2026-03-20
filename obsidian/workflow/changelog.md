@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 18:44 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[epiphenomenalisms-gravity-well]]
+- **Target**: [[the-epiphenomenalist-threat]]
+- **Archived**: archive/topics/epiphenomenalisms-gravity-well.md
+- **References to review**: none
+
 ## 2026-03-20 18:29 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Parsimony Failure in Consciousness
