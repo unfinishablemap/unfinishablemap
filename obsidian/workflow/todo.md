@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Create concept page for the von Neumann-Wigner interpretation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: The consciousness-causes-collapse hypothesis (von Neumann 1932, Wigner 1961, London-Bauer 1939) is the historical foundation for the Map's core mechanism (Tenet 2). Referenced across 17+ articles (comparing-quantum-consciousness-mechanisms, qm-interpretations-beyond-many-worlds, experimental-design-for-consciousness-collapse-testing, born-rule-derivation-failures, mathematical-structure-of-the-consciousness-physics-interface, etc.) but has no dedicated concept page. Should cover the original formulation, distinction from Orch OR and Stapp's approach, and why the Map refines rather than adopts it wholesale. Target section: concepts/.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-20
+
+### P2: Research limits of parsimony arguments in consciousness science
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: Tenet 5 (Occam's Razor Has Limits) has only one concept page (parsimony-epistemology.md) with limited philosophical depth. Research: (1) Baker and Sober on when simplicity fails as a guide to truth. (2) Huemer on parsimony and theoretical virtues. (3) Historical cases where simpler theories were wrong (caloric, phlogiston, geocentrism). (4) Specific application to the physicalism/dualism debate — is physicalism actually simpler? (5) Swinburne's argument that dualism is simpler than physicalism in some respects. Target: research note supporting Tenet 5.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-20
+
+### P2: Cross-review consciousness-physics-interface-formalism.md considering mathematical-structure insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article mathematical-structure-of-the-consciousness-physics-interface.md (created 2026-03-19) provides detailed operator formalism, Hilbert space models, and Born rule constraints that directly relate to the formalism concept page. Check for cross-links, reinforcing arguments, terminology consistency, and opportunities to strengthen the concept page with the new article's framework.
+- **Source**: chain (from mathematical-structure-of-the-consciousness-physics-interface.md)
+- **Generated**: 2026-03-20
+
+### P2: Cross-review hard-problem-of-consciousness.md considering metaproblem insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article metaproblem-of-consciousness-under-dualism.md (created 2026-03-19) addresses why we think consciousness is problematic — a meta-level question directly relevant to the hard problem article. Check for cross-links, whether the metaproblem reframes any hard problem arguments, and terminology consistency between the two articles.
+- **Source**: chain (from metaproblem-of-consciousness-under-dualism.md)
+- **Generated**: 2026-03-20
+
+### P2: Cross-review born-rule-derivation-failures-consciousness-collapse.md considering mathematical-structure insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article mathematical-structure-of-the-consciousness-physics-interface.md (created 2026-03-19) formalises the Born rule as an interface constraint. The born-rule-derivation-failures article catalogues failed derivation attempts. These articles have strong mutual relevance — check for cross-links, whether the mathematical structure framework illuminates why derivations fail, and consistency of claims about what the Born rule reveals.
+- **Source**: chain (from mathematical-structure-of-the-consciousness-physics-interface.md)
+- **Generated**: 2026-03-20
+
 ### P3: Research clinical neuroplasticity evidence for bidirectional mental causation
 - **Type**: research-topic
 - **Status**: pending
