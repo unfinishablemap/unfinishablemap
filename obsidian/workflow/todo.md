@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links (created 2026-03-15). Topics article on Konkoly et al. evidence that dreaming is functionally active. Add cross-references from dream-consciousness, lucid-dreaming-and-mind-side-rendering, consciousness-as-amplifier, and sleep-consciousness-void.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-20
-
 ### P2: Integrate godel-measurement-problem-analogy.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -977,6 +970,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-03-15). Topics article on Konkoly et al. evidence that dreaming is functionally active. Add cross-references from dream-consciousness, lucid-dreaming-and-mind-side-rendering, consciousness-as-amplifier, and sleep-consciousness-void.
+- **Output**: dream-problem-solving-and-conscious-influence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-20: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
 - **Type**: integrate-orphan

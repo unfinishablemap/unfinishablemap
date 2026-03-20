@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 11:18 UTC - deep-review
+- **Status**: Skipped (archived article at terminal stability)
+- **File**: [[archive/topics/dream-problem-solving-and-conscious-influence]] (archived, coalesced into [[topics/dream-consciousness]])
+- **Word count**: N/A (no content changes)
+- **Notes**: Article archived 2026-03-15. Four previous reviews (most recent 2026-03-19) declared terminal stability. Orphan status is expected for archived files. Successor article dream-consciousness.md already has 10+ inbound cross-references. No action needed.
+
 ## 2026-03-20 11:10 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/history-of-the-interaction-problem]]
