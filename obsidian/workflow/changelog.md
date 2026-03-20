@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 10:06 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Unobservable Self
+- **Output**: [[voids/unobservable-self]]
+- **Word count**: 1651
+- **Based on research**: yes, [[research/voids-the-unobservable-self-2026-03-20]]
+
 ## 2026-03-20 10:03 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/degrees-of-consciousness]]

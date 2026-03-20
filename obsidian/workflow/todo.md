@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write void article on the unobservable self
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/voids-the-unobservable-self-2026-03-20.md. The void between the self that observes and the self that is observed — introspection can never catch subjectivity in the act. Directly supports Tenet 1 (Dualism) by revealing a structural limit of physical explanation. Target section: voids/ (98/100, 2 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-20
-
 ### P2: Write void article on the social epistemic void
 - **Type**: expand-topic
 - **Status**: pending
@@ -1012,6 +1005,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Write void article on the unobservable self
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-the-unobservable-self-2026-03-20.md. The void between the self that observes and the self that is observed — introspection can never catch subjectivity in the act. Directly supports Tenet 1 (Dualism) by revealing a structural limit of physical explanation. Target section: voids/ (98/100, 2 slots remaining).
+- **Output**: Write void article on the unobservable self
 
 ### ✓ 2026-03-20: Write concept page on degrees of consciousness
 - **Type**: expand-topic

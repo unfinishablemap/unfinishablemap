@@ -84,7 +84,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[valence-void|The Valence Void]] — Why experience has a built-in good/bad dimension
 - [[normative-void|The Normative Void]] — Moral truths beyond human cognitive reach
 - [[inaccessible-past|The Inaccessible Past]] — Why past conscious states cannot be re-entered, only reconstructed
-- [[self-reference-paradox|The Unobservable Self]] — The subject that cannot be its own object
+- [[unobservable-self|The Unobservable Self]] — The subject that cannot be its own object
 - [[death-void|The Death Void]] — Consciousness cannot represent its own absence
 - [[sleep-consciousness-void|The Dreamless Sleep Void]] — Where consciousness goes during deep sleep
 - [[intentionality-void|The Intentionality Void]] — How thoughts achieve their aboutness, hidden from the consciousness it constitutes
