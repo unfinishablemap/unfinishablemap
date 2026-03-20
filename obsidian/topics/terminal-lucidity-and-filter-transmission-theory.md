@@ -4,7 +4,7 @@ description: "Terminal lucidity—cognitive clarity returning despite severe bra
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T11:44:00+00:00
+ai_modified: 2026-03-20T11:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,14 +28,14 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-20T11:58:00+00:00
 ---
 
 Terminal lucidity—the return of mental clarity, memory, and personality in patients with severe neurodegeneration shortly before death—provides the strongest single-phenomenon case for [[filter-theory|filter/transmission theory]] over productive (generative) models of consciousness. Where other anomalies like [[near-death-experiences]] and [[psychedelics-and-the-filter-model|psychedelic states]] each admit plausible materialist explanations taken individually, terminal lucidity poses a structural problem for production models: if the brain generates consciousness the way a factory produces goods, then a factory with its machinery destroyed cannot produce a final flawless product. Yet that is what terminal lucidity appears to involve.
 
 ## The Logical Structure of the Challenge
 
-The standard materialist framework rests on what Christopher (2022) calls the "loss-of-function lesion premise": brain damage reduces cognition, therefore cognition is brain-generated. This inference pattern is supported by extensive neuroscience—lesion studies, pharmacological manipulation, neuroimaging correlations. Terminal lucidity does not deny the general pattern. It exploits an asymmetry the pattern cannot accommodate.
+The standard materialist framework rests on what Christopher (2022) calls the "loss-of-function lesion premise": brain damage reduces cognition, therefore cognition is brain-generated (see also Mancuso, 2023, for a systematic critique). This inference pattern is supported by extensive neuroscience—lesion studies, pharmacological manipulation, neuroimaging correlations. Terminal lucidity does not deny the general pattern. It exploits an asymmetry the pattern cannot accommodate.
 
 In late-stage Alzheimer's disease, the brain has undergone massive neuronal loss, widespread amyloid plaque accumulation, and neurofibrillary tangle formation throughout the cortex. Cortical atrophy is substantial and irreversible. On a strict production model, these patients lack the neural substrate for complex cognition. Yet Batthyány and Greyson's 2020 survey of 124 cases found that more than 80% showed complete remission—return of memory, orientation, and responsive verbal ability—with the majority dying within hours to days (Batthyány & Greyson, 2020).
 
@@ -45,7 +45,7 @@ The logical force is this: production models predict a monotonic relationship be
 
 Other phenomena that challenge production models—NDEs, psychedelic experiences, covert consciousness—each face specific materialist rebuttals that blunt their evidential force:
 
-- **NDEs** occur during cardiac arrest, but sceptics argue that residual brain activity or memory consolidation during recovery could explain the experiences. The timing remains contested.
+- **NDEs** occur during cardiac arrest, but skeptics argue that residual brain activity or memory consolidation during recovery could explain the experiences. The timing remains contested.
 - **Psychedelic states** involve decreased default mode network activity alongside expanded experience, but materialists can argue that altered neural processing simply produces altered (not enhanced) consciousness.
 - **Covert consciousness** in behaviourally unresponsive patients demonstrates consciousness persisting through interface damage, but materialists can point to preserved cortical tissue as the substrate.
 
@@ -55,7 +55,7 @@ The materialist must argue either that the damage was less severe than it appear
 
 ## What Filter Theory Specifically Predicts
 
-[[filter-theory|Filter/transmission theory]]—developed by Bergson, William James, and Huxley, and systematised by Kelly et al. in *Irreducible Mind* (2007)—proposes that the brain constrains rather than generates consciousness. On this framework, memories are not stored in neurons but accessed through them. Cognitive capacities are not produced by neural tissue but expressed through it.
+[[filter-theory|Filter/transmission theory]]—developed by F. W. H. Myers, Bergson, William James, and Huxley, and systematised by Kelly et al. in *Irreducible Mind* (2007)—proposes that the brain constrains rather than generates consciousness. On this framework, memories are not stored in neurons but accessed through them. Cognitive capacities are not produced by neural tissue but expressed through it.
 
 Terminal lucidity fits this framework with notable specificity. As the filtering apparatus collapses near death, consciousness briefly regains access to capacities the diseased brain had been blocking. The operative words, as Kelly et al. emphasise, are "filter, transmit, permit, channel, select, extract, limit, regulate, condition, modify—not produce, generate or create" (Kelly et al., 2007). A dying filter produces a final window of unfiltered transmission.
 
@@ -95,7 +95,7 @@ Terminal lucidity's significance for filter theory is strongest when placed with
 - **Psychedelic states**: Decreased brain activity accompanies expanded consciousness
 - **Near-death experiences**: Enhanced experience during cardiac arrest
 - **Covert consciousness**: Awareness persists when behavioural expression is destroyed
-- **Hemispherectomy**: Removing half the brain preserves substantially normal consciousness
+- **Hemispherectomy**: Removing half the brain preserves substantially normal consciousness (see [[mind-brain-separation]])
 
 Each phenomenon, considered alone, permits materialist explanation. Taken together, they form a pattern that production models must explain case by case with different mechanisms, while filter theory provides a single interpretive framework. Terminal lucidity is the strongest individual element because the structural damage is most severe and the cognitive return most dramatic—the gap between what the brain's physical state permits on production models and what the patient actually demonstrates is widest here.
 
