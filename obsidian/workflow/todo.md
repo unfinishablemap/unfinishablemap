@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-20T05:54:00+00:00
+ai_modified: 2026-03-20T06:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write concept page on terminal lucidity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/terminal-lucidity-filter-theory-2026-03-20.md. Terminal lucidity — unexpected return of mental clarity in patients with severe neurodegeneration shortly before death — is one of the strongest empirical challenges to productive theories of consciousness. Batthyány's dataset shows 80%+ complete remission despite progressive structural brain damage. Directly supports Tenet 1 (Dualism) and filter/transmission models. Target section: concepts/ (topics at 230 cap).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-20
+
+### P2: Cross-review articles considering phenomenology of volitional control insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article obsidian/topics/phenomenology-of-volitional-control.md was created 2026-03-20. Related articles that may benefit from cross-references: free-will.md (agency and deliberation), consciousness-and-motor-control.md (voluntary movement), spontaneous-intentional-action.md (spontaneous action). Check for cross-links, reinforcing arguments about Libet experiments, readiness potentials, and volitional phenomenology.
+- **Source**: chain (from phenomenology-of-volitional-control.md)
+- **Generated**: 2026-03-20
+
+### P2: Cross-review articles considering quantum biology in neural systems insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article obsidian/topics/quantum-biology-neural-experimentation.md was created 2026-03-20 from research on 2025-2026 experimental results. Related articles that may benefit from cross-references: comparing-quantum-consciousness-mechanisms.md (quantum mechanisms), quantum-decoherence-problem.md (decoherence timescales), consciousness-and-quantum-biology.md (quantum biology overview). Check for updated experimental evidence and cross-links.
+- **Source**: chain (from quantum-biology-neural-experimentation.md)
+- **Generated**: 2026-03-20
+
+### P2: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Created 2026-03-18. Topics article on lucid dreaming as evidence for mind-side rendering capability. Add cross-references from related articles (dreams-as-consciousness-laboratory, dream-problem-solving-and-conscious-influence, filter-theory, capability-division-problem) or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-20
+
+### P2: Integrate godel-measurement-problem-analogy.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Created 2026-03-17. Topics article on the structural parallel between Gödel incompleteness and the quantum measurement problem. Add cross-references from related articles (consciousness-and-the-philosophy-of-mathematics, consciousness-and-the-authority-of-formal-systems, quantum-measurement-problem) or update section index pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-20
+
+### P2: Integrate temporal-constitution-and-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Created 2026-03-17. Topics article on how temporal structure constitutes conscious experience. Add cross-references from related articles (temporal-consciousness, temporal-void, consciousness-and-the-ontology-of-temporal-becoming, smoothness-problem) or update section index pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-20
+
+### P2: Research consciousness during general anesthesia — graded loss and implications for filter theory
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: No dedicated research note surveys anesthesia evidence for the Map's framework. Key targets: (1) graded loss of consciousness under anesthesia vs. binary on/off models, (2) anesthesia awareness and isolated forearm technique evidence, (3) ketamine dissociative anesthesia — consciousness persists while sensory processing is suppressed, (4) propofol studies on connectivity vs. consciousness, (5) how filter theory predicts different loss patterns than production theory. Directly supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction). Complements terminal lucidity research from opposite direction. Target: research note for concepts/.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-20
 
 ### P3: Deep review mutation-void.md
 - **Type**: deep-review

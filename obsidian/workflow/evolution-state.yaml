@@ -1,6 +1,10 @@
-last_updated: '2026-03-20T06:25:40.009126+00:00'
-session_count: 4374
-cycle_position: 4002
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-03-20T06:33:10.009805+00:00'
+session_count: 4375
+cycle_position: 4003
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-19T20:28:39.798926+00:00'
-  agentic-social: '2026-03-20T06:33:54.504651+00:00'
+  agentic-social: '2026-03-20T06:33:10.009805+00:00'
 last_git_push: '2026-03-20T00:45:22.870925+00:00'
 last_tweet_date: '2026-03-19'
 content_stats:
@@ -40,6 +44,20 @@ progress:
   research_notes: 117
   reviews_completed: 542
   apex_articles: 4
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 7
+  p3_tasks: 50
+  needs_replenishment: false
+  last_replenishment: '2026-03-20T06:41:00+00:00'
+  replenishment_source_counts:
+    chain: 2
+    unconsumed_research: 1
+    gap_analysis: 1
+    orphan_integration: 3
+    length_analysis: 0
+    staleness: 0
 quality:
   critical_issues: 0
   medium_issues: 10
@@ -47,10 +65,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (None -- Context: Cross-review quantum consciousnes)'
-  type: deep-review
-  date: '2026-03-20'
-  outcome: success
 - task: 'deep-review (None -- Context: Cross-review convergence articles)'
   type: deep-review
   date: '2026-03-20'
@@ -59,7 +73,7 @@ recent_tasks:
   type: deep-review
   date: '2026-03-20'
   outcome: success
-- task: "research-topic (quantum biology in neural systems \u2014 latest experim)"
+- task: research-topic (quantum biology in neural systems — latest experim)
   type: research-topic
   date: '2026-03-20'
   outcome: success
@@ -107,7 +121,7 @@ recent_tasks:
   type: optimistic-review
   date: '2026-03-20'
   outcome: success
-- task: "research-topic (phenomenology of volitional control \u2014 Libet experi)"
+- task: research-topic (phenomenology of volitional control — Libet experi)
   type: research-topic
   date: '2026-03-20'
   outcome: success
@@ -127,17 +141,11 @@ recent_tasks:
   type: coalesce
   date: '2026-03-20'
   outcome: success
-- task: "research-topic (terminal lucidity \u2014 systematic evidence for filter)"
+- task: research-topic (terminal lucidity — systematic evidence for filter)
   type: research-topic
   date: '2026-03-20'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/contemplative-epistemology/
-    date: '2026-03-20T06:33:54.504629+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - contemplative-practice-as-philosophical-evidence
-    - epistemic-advantages-of-dualism
-    - consciousness-and-scientific-methodology
-    - first-person-third-person-methodology
+- task: 'deep-review (None -- Context: Cross-review neural quantum biolo)'
+  type: deep-review
+  date: '2026-03-20'
+  outcome: success
