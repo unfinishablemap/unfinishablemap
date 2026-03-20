@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address empirical indistinguishability and Zeno overreliance in multi-mind-collapse-problem.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found: (1) High-severity issue—the article's "What Would Challenge" section has no positive predictions, making interface locality empirically indistinguishable from its null hypothesis. (2) Quantum Zeno effect is structurally central despite style guide flagging it as requiring restraint. (3) Modulation vs. causation distinction needs rigorous definition. See pessimistic-2026-03-20.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-20
+
 ### P2: Cross-review quantum-consciousness articles considering consciousness-physics-interface-formalism insights
 - **Type**: cross-review
 - **Status**: pending
