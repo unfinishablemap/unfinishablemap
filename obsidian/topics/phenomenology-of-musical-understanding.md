@@ -4,11 +4,11 @@ description: "Musical understanding reveals consciousness as irreducibly tempora
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-03-11T21:35:00+00:00
+ai_modified: 2026-03-20T00:21:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[aesthetic-dimension-of-consciousness]]"
+  - "[[aesthetics-and-consciousness]]"
 concepts:
   - "[[temporal-consciousness]]"
   - "[[qualia]]"
@@ -16,20 +16,19 @@ concepts:
   - "[[phenomenal-binding-and-holism]]"
   - "[[cognitive-phenomenology]]"
   - "[[concepts/functionalism]]"
-  - "[[consciousness-and-semantic-understanding]]"
+  - "[[phenomenology-of-understanding-and-meaning]]"
   - "[[temporal-structure-of-understanding]]"
   - "[[topics/phenomenal-value-realism]]"
 related_articles:
   - "[[tenets]]"
   - "[[emotion-and-dualism]]"
   - "[[surprise-prediction-error-and-consciousness]]"
-  - "[[aesthetic-irreducibility-arguments]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-18
 last_curated:
-last_deep_review: 2026-02-21T23:55:00+00:00
+last_deep_review: 2026-03-20T00:21:00+00:00
 ---
 
 Music poses a distinctive challenge for theories of consciousness. When you hear a melody resolve from tension to resolution—when a minor key passage shifts to major, or a dissonant chord finds its tonic—you *understand* something. But what you understand cannot be stated propositionally. The understanding is irreducibly phenomenal: temporal, aesthetic, and emotional in ways that resist translation into any other medium. The Unfinishable Map argues that musical understanding provides a particularly revealing test case for dualism, because it combines temporal phenomenology, aesthetic qualia, and non-propositional meaning in a single experience that materialist accounts struggle to accommodate.
@@ -44,7 +43,7 @@ This understanding has several distinctive features:
 
 **Non-propositional content.** Music means something, but what it means cannot be fully captured in words. A funeral march communicates grief, but not the proposition "someone has died." A triumphant fanfare communicates exultation without asserting anything. This is not vagueness or imprecision—it is a different *kind* of meaning, one that operates through felt quality rather than representational content.
 
-**Aesthetic normativity.** Musical understanding involves perceiving rightness and wrongness. When a trained listener hears a wrong note in a familiar piece, the wrongness is immediate and involuntary—not a judgment applied after perception but a feature of the perception itself. This normative dimension connects to the broader argument from [[aesthetic-dimension-of-consciousness|aesthetic consciousness]]: the rightness of a particular harmonic progression is intrinsic to how it is experienced, not an evaluation layered onto neutral sensory data.
+**Aesthetic normativity.** Musical understanding involves perceiving rightness and wrongness. When a trained listener hears a wrong note in a familiar piece, the wrongness is immediate and involuntary—not a judgment applied after perception but a feature of the perception itself. This normative dimension connects to the broader argument from [[aesthetics-and-consciousness|aesthetic consciousness]]: the rightness of a particular harmonic progression is intrinsic to how it is experienced, not an evaluation layered onto neutral sensory data.
 
 ## The Specious Present and Musical Coherence
 
@@ -116,14 +115,12 @@ Musical understanding connects to the Map's framework through several tenets.
 
 ## Further Reading
 
-- [[aesthetic-dimension-of-consciousness]] — Beauty and aesthetic quality in conscious experience
-- [[aesthetic-irreducibility-arguments]] — Why beauty resists reduction even where formal properties (harmonic ratios, symmetry) are fully specified
+- [[aesthetics-and-consciousness]] — Beauty, aesthetic quality, and why aesthetic experience resists reduction even where formal properties are fully specified
 - [[temporal-consciousness]] — The specious present, durée, and temporal binding
 - [[emotion-and-dualism]] — Valence, felt quality, and non-propositional emotion
 - [[cognitive-phenomenology]] — The felt quality of understanding and thought
 - [[temporal-structure-of-understanding]] — How understanding unfolds temporally
 - [[topics/phenomenal-value-realism]] — Intrinsic value in conscious experience
-- [[consciousness-and-semantic-understanding]] — Phenomenal consciousness and meaning
 - [[phenomenal-binding-and-holism]] — The binding of experience into unified wholes
 - [[phenomenology-of-understanding-and-meaning]] — Unified account of five phenomenal meaning modes, including aesthetic meaning through music
 
