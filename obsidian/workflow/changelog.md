@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 10:44 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/phenomenology-of-consciousness-doing-work]]
+- **Changed sources**: 1 (voids/introspective-opacity — coalesced, expanded with four-dimensions framework)
+- **Word count**: ~3,400 → ~3,700
+- **Review**: [[reviews/apex-evolve-2026-03-20-phenomenology-of-consciousness-doing-work]]
+
 ## 2026-03-20 10:41 UTC - check-tenets
 - **Status**: Success
 - **Files checked**: 441 (226 topics, 215 concepts)
