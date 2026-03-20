@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research phenomenology of volitional control — Libet experiments and conscious causation evidence
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: The Map's Tenet 3 (Bidirectional Interaction) claims consciousness causally influences the physical world, but the most direct neuroscientific evidence — Libet's readiness potential, Haggard's intentional binding, Brass's intentional inhibition, Schurger's stochastic decision model — lacks a dedicated research note. These experiments provide the sharpest empirical test of conscious causation at the moment-to-moment level. Distinct from the queued clinical neuroplasticity research (which covers long-term brain changes). Target: research note for topics/ or concepts/.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-20
-
 ### P2: Write voids article on the mutation void
 - **Type**: expand-topic
 - **Status**: pending
@@ -945,6 +938,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Research phenomenology of volitional control — Libet experiments and conscious causation evidence
+- **Type**: research-topic
+- **Notes**: The Map's Tenet 3 (Bidirectional Interaction) claims consciousness causally influences the physical world, but the most direct neuroscientific evidence — Libet's readiness potential, Haggard's intentional binding, Brass's intentional inhibition, Schurger's stochastic decision model — lacks a dedicated research note. These experiments provide the sharpest empirical test of conscious causation at the moment-to-moment level. Distinct from the queued clinical neuroplasticity research (which covers long-term brain changes). Target: research note for topics/ or concepts/.
+- **Output**: phenomenology of volitional control — Libet experiments and conscious causation evidence
 
 ### ✓ 2026-03-20: Deep review limits-of-parsimony-in-consciousness-science.md
 - **Type**: deep-review

@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 05:39 UTC - research-topic
+- **Status**: Success
+- **Topic**: Phenomenology of volitional control — Libet experiments and conscious causation evidence
+- **Output**: [[research/phenomenology-volitional-control-2026-03-20]]
+- **Sources consulted**: 14
+
 ## 2026-03-20 05:32 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Full survey across obsidian/topics/ (~224), obsidian/concepts/ (~201), obsidian/tenets/ (1), with focus on March 2026 additions
