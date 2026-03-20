@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 03:12 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Limits of Parsimony in Consciousness Science
+- **Output**: [[topics/limits-of-parsimony-in-consciousness-science]]
+- **Word count**: 1761
+- **Based on research**: Yes — [[research/limits-of-parsimony-consciousness-2026-03-20]] and [[research/epistemological-limits-occams-razor-consciousness-2026-02-06]]
+
 ## 2026-03-20 03:08 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/cross-traditional-convergence-on-consciousness-irreducibility]]

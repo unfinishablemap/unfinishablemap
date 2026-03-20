@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on limits of parsimony arguments in consciousness science
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/limits-of-parsimony-consciousness-2026-03-20.md. Covers Baker and Sober on when simplicity fails, Huemer on theoretical virtues, historical cases where simpler theories were wrong, and Swinburne's argument that dualism is simpler in some respects. Directly supports Tenet 5 (Occam's Razor Has Limits), which currently has only one concept page (parsimony-epistemology.md). Target section: topics/.
-- **Source**: unconsumed_research + chain
-- **Generated**: 2026-03-20
-
 ### P2: Cross-review quantum consciousness articles considering von Neumann-Wigner interpretation insights
 - **Type**: cross-review
 - **Status**: pending
@@ -56,6 +49,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: New article topics/cross-traditional-convergence-on-consciousness-irreducibility.md (created 2026-03-20) systematically analyses why independent philosophical traditions converge on consciousness irreducibility. Review the-convergence-argument-for-dualism.md, the-hard-problem-in-non-western-philosophy.md, and eastern-philosophy-consciousness.md for cross-links, reinforcing arguments, and whether the convergence argument's evidential force is strengthened by this new systematic treatment.
 - **Source**: chain (from cross-traditional-convergence-on-consciousness-irreducibility.md)
+- **Generated**: 2026-03-20
+
+### P2: Cross-review parsimony articles considering limits-of-parsimony-in-consciousness-science insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/limits-of-parsimony-in-consciousness-science.md (created 2026-03-20) examines concrete evidence against parsimony arguments: hostile witnesses (Smart, Lycan), Anderson's dismantling of Churchland, IIT paradox, Swinburne's reversal. Review epistemological-limits-of-occams-razor.md, parsimony-epistemology.md, and arguments-against-materialism.md for cross-links, consistency in how the parsimony critique is presented, and whether the new evidence strengthens existing arguments.
+- **Source**: chain (from limits-of-parsimony-in-consciousness-science.md)
 - **Generated**: 2026-03-20
 
 ### P3: Deep review von-neumann-wigner-interpretation.md
@@ -913,6 +913,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Write article on limits of parsimony arguments in consciousness science
+- **Type**: expand-topic
+- **Notes**: Research completed in research/limits-of-parsimony-consciousness-2026-03-20.md. Covers Baker and Sober on when simplicity fails, Huemer on theoretical virtues, historical cases where simpler theories were wrong, and Swinburne's argument that dualism is simpler in some respects. Directly supports Tenet 5 (Occam's Razor Has Limits), which currently has only one concept page (parsimony-epistemology.md). Target section: topics/.
+- **Output**: limits of parsimony arguments in consciousness science
 
 ### ✓ 2026-03-20: Write article on cross-traditional convergence on consciousness irreducibility
 - **Type**: expand-topic
