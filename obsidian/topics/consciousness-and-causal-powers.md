@@ -28,6 +28,7 @@ concepts:
   - "[[pain-asymbolia]]"
 related_articles:
   - "[[tenets]]"
+  - "[[phenomenology-mechanism-bridge]]"
   - "[[epiphenomenalism]]"
   - "[[evolutionary-case-for-mental-causation]]"
   - "[[conservation-laws-and-mental-causation]]"

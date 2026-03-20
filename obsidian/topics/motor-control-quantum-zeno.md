@@ -21,6 +21,7 @@ concepts:
   - "[[decoherence]]"
 related_articles:
   - "[[tenets]]"
+  - "[[phenomenology-mechanism-bridge]]"
   - "[[motor-control-quantum-zeno-2026-01-18]]"
   - "[[attention-motor-planning-quantum-interface-2026-01-23]]"
   - "[[dopamine-attention-motor-quantum-interface-2026-01-24]]"

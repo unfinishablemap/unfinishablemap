@@ -18,6 +18,7 @@ concepts:
   - "[[attention-schema-theory]]"
 related_articles:
   - "[[tenets]]"
+  - "[[phenomenology-mechanism-bridge]]"
   - "[[consciousness-and-agency]]"
   - "[[contemplative-path]]"
   - "[[testing-the-map-from-inside]]"

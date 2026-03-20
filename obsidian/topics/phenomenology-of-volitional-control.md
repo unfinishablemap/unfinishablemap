@@ -26,6 +26,7 @@ concepts:
   - "[[causal-closure]]"
 related_articles:
   - "[[tenets]]"
+  - "[[phenomenology-mechanism-bridge]]"
   - "[[phenomenology-volitional-control-2026-03-20]]"
   - "[[motor-control-quantum-zeno]]"
   - "[[empirical-evidence-for-consciousness-selecting]]"

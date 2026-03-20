@@ -27,6 +27,7 @@ concepts:
   - "[[concepts/epiphenomenalism]]"
 related_articles:
   - "[[tenets]]"
+  - "[[phenomenology-mechanism-bridge]]"
   - "[[consciousness-and-agency]]"
   - "[[dream-consciousness]]"
   - "[[choking-phenomenon-mental-causation]]"

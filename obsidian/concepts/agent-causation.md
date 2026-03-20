@@ -33,6 +33,7 @@ concepts:
   - "[[emergence]]"
 related_articles:
   - "[[tenets]]"
+  - "[[phenomenology-mechanism-bridge]]"
   - "[[process-and-consciousness]]"
   - "[[agent-causation-libertarian-free-will-2026-01-14]]"
   - "[[voluntary-attention-control-mechanisms-2026-01-17]]"

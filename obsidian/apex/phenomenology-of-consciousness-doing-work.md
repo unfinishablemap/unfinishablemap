@@ -20,6 +20,7 @@ concepts:
   - "[[attention-as-interface]]"
 related_articles:
   - "[[tenets]]"
+  - "[[phenomenology-mechanism-bridge]]"
   - "[[attention-as-causal-bridge]]"
   - "[[consciousness-and-agency]]"
   - "[[testing-the-map-from-inside]]"

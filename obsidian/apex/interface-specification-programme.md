@@ -18,6 +18,7 @@ concepts:
 description: "Six converging lines of inquiry—bandwidth, control operations, causal delegation, causal powers, the psychophysical control law, and attention disorders—specify the mind-matter interface as a research programme."
 related_articles:
   - "[[tenets]]"
+  - "[[phenomenology-mechanism-bridge]]"
   - "[[apex-articles]]"
   - "[[the-interface-specification-problem]]"
   - "[[mathematical-structure-of-the-consciousness-physics-interface]]"

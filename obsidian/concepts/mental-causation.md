@@ -38,6 +38,7 @@ concepts:
   - "[[cross-cultural-convergence-on-mental-causation]]"
 related_articles:
   - "[[tenets]]"
+  - "[[phenomenology-mechanism-bridge]]"
   - "[[arguments/epiphenomenalism-argument]]"
   - "[[metaproblem-of-consciousness-under-dualism]]"
 ai_contribution: 100
