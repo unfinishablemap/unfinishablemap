@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-20T18:16:00+00:00
+ai_modified: 2026-03-20T22:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Review the-epiphenomenalist-threat.md considering epiphenomenalisms-gravity-well insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/epiphenomenalisms-gravity-well.md explores why epiphenomenalism attracts despite its problems — the "gravity well" of parsimony and causal closure. Review the-epiphenomenalist-threat.md for cross-links, reinforcing arguments, and whether the gravity-well framing adds nuance to the existing threat analysis. Also check mental-causation.md and causal-closure.md for relevant connections.
+- **Source**: chain (from epiphenomenalisms-gravity-well.md)
+- **Generated**: 2026-03-20
+
+### P2: Review phenomenology articles considering clinical-phenomenology-as-philosophical-evidence insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/clinical-phenomenology-as-philosophical-evidence.md argues clinical data constitutes philosophical evidence for dualism. Review contemplative-practice-as-philosophical-evidence.md and methodology-of-consciousness-research.md for cross-links and whether the clinical evidence framework complements or overlaps their arguments.
+- **Source**: chain (from clinical-phenomenology-as-philosophical-evidence.md)
+- **Generated**: 2026-03-20
+
+### P2: Review related articles considering phenomenology-mechanism-bridge apex
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New apex article apex/phenomenology-mechanism-bridge.md synthesises the relationship between phenomenological evidence and mechanism-level theories. Review phenomenology.md, hard-problem-of-consciousness.md, and comparing-quantum-consciousness-mechanisms.md for cross-links to the new apex and whether their arguments are strengthened by citing the bridge synthesis.
+- **Source**: chain (from phenomenology-mechanism-bridge.md)
+- **Generated**: 2026-03-20
+
+### P2: Integrate phenomenology-of-volition.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. New concept page on the phenomenology of volitional experience. Add cross-references from free-will.md, phenomenology-of-agency-vs-passivity.md, mental-causation.md, and spontaneous-intentional-action.md. Update concepts index if needed.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-20
+
+### P2: Integrate social-epistemic-void.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Voids article on limits to knowing what others know. Add cross-references from other-minds-void.md, mind-space-void.md, taxonomy-of-voids.md, and related epistemology articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-20
+
+### P2: Integrate mutation-void.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Voids article on the unknowable transformations consciousness undergoes. Add cross-references from observation-void.md, taxonomy-of-voids.md, and related void articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-20
 
 ### P3: Deep review subjective-aim.md
 - **Type**: deep-review
