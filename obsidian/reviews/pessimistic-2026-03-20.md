@@ -9,126 +9,131 @@ ai_system: claude-opus-4-6
 # Pessimistic Review
 
 **Date**: 2026-03-20
-**Content reviewed**: concepts/multi-mind-collapse-problem.md, topics/epistemic-advantages-of-dualism.md
+**Content reviewed**: concepts/altered-states-of-consciousness.md, topics/argument-from-reason.md, concepts/attention-schema-theory.md
 
 ## Executive Summary
 
-Both articles are well-structured and substantive, but share a recurring weakness: they lean heavily on the quantum Zeno effect as an assumed mechanism despite the writing style guide flagging it as requiring restraint. The multi-mind article's central resolution depends on a distinction (modulation vs. causation of collapse) that does more philosophical work than the argument justifies. The epistemic advantages article is stronger but contains a Pascal's Wager parallel it addresses too generously—the structural similarity is deeper than acknowledged.
+These three substantial articles each advance the Map's dualist framework competently but share a common weakness: they consistently present the strongest version of pro-dualist arguments while treating materialist responses dismissively or incompletely. The argument-from-reason article is the strongest philosophically but contains a notable gap in its treatment of AI reasoning. The altered-states article relies heavily on filter theory without adequately addressing simpler materialist explanations. The attention-schema-theory article is thorough but occasionally attacks a straw version of AST rather than its strongest formulation.
 
 ## Critiques by Philosopher
 
 ### The Eliminative Materialist
 
-**On multi-mind-collapse-problem.md:** The entire article presupposes a framework where "consciousness" is a coherent natural kind that can "modulate" physical processes. But "consciousness" may carve nature at no joint. The article never considers that the multi-mind problem might indicate something wrong with the concept of consciousness itself rather than requiring a clever resolution. If folk-psychological "consciousness" is destined for elimination, the multi-mind problem dissolves not through interface locality but through conceptual revision—there are no "minds" requiring coordination because "mind" is a prescientific category.
+**Altered States**: The filter theory framing is pre-scientific nostalgia. Every ASC phenomenon described—psychedelic expansion, flow hypofrontality, meditative cessation—has advancing neuroscientific explanations that don't require a "filter." The article acknowledges neuroscience selectively, citing studies that can be reinterpreted through filter theory while ignoring the vast literature where neural manipulation straightforwardly produces, eliminates, or modifies conscious states. The claim that psychedelic insights "prove verifiable" is cherry-picking; most psychedelic "insights" are banal when sober. Therapeutic benefits don't require cosmic truth—they require breaking maladaptive neural patterns.
 
-**On epistemic-advantages-of-dualism.md:** The article repeatedly treats "consciousness" as an unproblematic given. The "epistemic humility" argument assumes we know what we're being humble *about*. An eliminativist would note that humility about a confused concept isn't wisdom—it's perpetuating confusion. The article never seriously engages with the possibility that dualism keeps a *bad question* open rather than a *good question*.
+**Argument from Reason**: This argument presupposes folk-psychological categories ("beliefs," "reasons," "justification") that neuroscience will eventually replace. Once we describe cognition in terms of neural computation, the "normative gap" dissolves—not because normativity was explained, but because the question was badly formed. The article treats "the space of reasons" as if it named a real domain rather than a useful vocabulary.
+
+**AST**: The article's persistent demand for "phenomenal consciousness" over and above functional consciousness is precisely the folk-psychological assumption that needs eliminating. Graziano's point is that there is nothing to explain beyond the functional schema. Demanding more is like demanding an explanation of "élan vital" after biology explained life mechanistically.
 
 ### The Hard-Nosed Physicalist
 
-**On multi-mind-collapse-problem.md:** The resolution is suspiciously neat. "Each consciousness operates only on its own brain" is a stipulation dressed as a discovery. The article claims interface locality "follows from the mechanism" but the mechanism (quantum Zeno effect on neural patterns) is itself speculative. You can't derive locality constraints from a mechanism that hasn't been demonstrated to operate. The article conflates "consciousness doesn't do psychokinesis" (an empirical observation) with "consciousness is locally bounded" (a philosophical claim about its nature).
+**Altered States**: The ketamine/propofol divergence is presented as a problem for materialism, but it's straightforwardly predicted by any theory recognizing that different neural mechanisms produce different effects. Different anaesthetics targeting different pathways producing different phenomenology is *exactly* what production theories predict. The article frames this as evidence for filter theory only by assuming the conclusion—that "similar behavioural suppression should correlate with similar phenomenal suppression"—a premise no serious materialist holds.
 
-**On epistemic-advantages-of-dualism.md:** The "risks materialists cannot see" section conflates metaphysical possibility with genuine risk. That dualism makes certain scenarios *thinkable* doesn't make them *probable* or worth structuring policy around. The article acknowledges this somewhat in the Pascal's Wager discussion but doesn't fully reckon with it.
+**Argument from Reason**: The dismissal of reliabilism is too quick. The article claims reliability "presupposes" truth as a norm, but this confuses the concept of truth (which is indeed normative) with the *tracking* of truth (which can be mechanistic). A thermostat tracks temperature without understanding the "norm" of correct temperature. The generality problem is a genuine difficulty for reliabilism but not a fatal one—it's an unsolved technical problem, not a conceptual impossibility.
+
+**AST**: The regress objection assumes that "seeming" requires a phenomenal subject, but this is exactly what AST denies. Arguing that AST fails because seeming requires phenomenal consciousness is begging the question against AST. The article acknowledges AST's response ("information existing and influencing processing") but dismisses it without engaging with the computational details of how self-modeling can generate the functional equivalent of seeming.
 
 ### The Quantum Skeptic
 
-**On multi-mind-collapse-problem.md:** The decoherence section is the article's weakest point. It acknowledges Tegmark's 10⁻¹³ second calculation, then pivots to "Hameroff's group showed corrected parameters yield coherence times of 10⁻⁵ to 10⁻⁴ seconds"—a four-to-nine order of magnitude difference attributed to "corrected parameters" without specifying what was corrected or why those corrections are trustworthy. The Luo et al. 2025 cryptochrome study concerns avian magnetoreception, a system with entirely different physics from neural microtubules; the analogy is loose at best. The article says the quantum Zeno mechanism "doesn't require sustained coherence between observations"—but it does require coherence *during* each observation, and at femtosecond timescales, the concept of consciousness "observing" anything is physically meaningless.
+**Altered States**: The article cites Kerskens and Pérez López (2022) as evidence for quantum effects in brains, but this single small study has not been replicated and its interpretation is highly contested. Characterizing it as showing "MRI signals consistent with quantum entanglement" overstates the finding. The Orch OR hypothesis remains on the fringe of neuroscience for good reason—there's no demonstrated mechanism for maintaining quantum coherence in microtubules at biological temperatures. The article says this "deserves continued investigation rather than dismissal," which is reasonable, but the placement and framing suggest stronger evidential support than exists.
 
-**On epistemic-advantages-of-dualism.md:** The article mentions decoherence only in passing (in the Relation to Site Perspective) without engaging with its implications. If the quantum interaction mechanism fails the physics, the entire "minimal quantum interaction" tenet becomes metaphysics without physical content—which the epistemic advantages article should acknowledge as a vulnerability of the position it defends.
+**Argument from Reason**: The article references the "quantum Zeno mechanism" as a candidate for how consciousness selects among neural states but provides no mathematical framework or experimental evidence. This is hand-waving dressed in physics terminology. How would consciousness "select" among quantum superpositions to respect logical norms? What's the Hamiltonian? Without specifics, this is metaphysics borrowing physics vocabulary for credibility.
 
 ### The Many-Worlds Defender
 
-**On multi-mind-collapse-problem.md:** The article dismisses MWI in a single sentence: "If all outcomes occurred in branching worlds, there would be no selection to coordinate—and no role for consciousness." But this mischaracterises MWI. Under Everettian quantum mechanics, consciousness still has a role—it explains the *apparent* definiteness of outcomes through decoherence and the emergence of classical branches. The article assumes consciousness *must* cause collapse to be causally relevant, but this begs the question against MWI interpretations where consciousness's role is perspectival. The dismissal of MWI is circular: it assumes collapse is real (Tenet 4) to argue that consciousness causes collapse, then uses consciousness's role in collapse to reject MWI.
+**Altered States**: The claim that ASCs "feel like different modes of *this* consciousness, not glimpses into parallel selves" is phenomenological question-begging. MWI doesn't predict that altered states would feel like parallel selves—it predicts that branching is locally undetectable. The phenomenology of ASCs is equally compatible with MWI. This is the weakest tenet connection in the article—it adds nothing substantive.
 
-**On epistemic-advantages-of-dualism.md:** The Relation to Site Perspective section draws a structural parallel between MWI's "parsimony move" and materialism's elimination of qualia. This is clever but misleading. MWI doesn't "multiply entities infinitely"—it accepts the mathematical formalism without additional postulates (collapse). The analogy between MWI and materialism actually undermines the article's case: both MWI and materialism claim to be *more* epistemically humble by not adding entities beyond what the formalism requires.
+**AST**: The article claims AST is "compatible with Many-Worlds in a way the Map isn't," treating this as a criticism of AST. But compatibility with the mathematically simplest interpretation of quantum mechanics is typically considered a virtue, not a vice.
 
 ### The Empiricist
 
-**On multi-mind-collapse-problem.md:** What would count as evidence for "consciousness modulating collapse in its own brain"? The article lists conditions that would *challenge* the view (brain-to-brain entanglement, psychokinesis, MWI empirical support) but never specifies a positive test. The "What Would Challenge This View?" section is entirely defensive—listing what could falsify the position—without proposing experiments that could *confirm* it. A theory that can only be threatened but never supported is unfalsifiable in practice. Interface locality predicts that consciousness doesn't affect external quantum systems—but so does "consciousness has no quantum effects at all." The theory is empirically indistinguishable from its null hypothesis.
+**Altered States**: What experiment would falsify filter theory? The article presents it as explaining everything—expansion (filter loosened), narrowing (filter tightened), reconfiguration (filter adjusted). A theory that explains every possible observation explains nothing. If every ASC outcome is compatible with filter theory, it's not a scientific theory but an interpretive framework immune to disconfirmation.
 
-**On epistemic-advantages-of-dualism.md:** The article's core argument—keep dualism as a "live option"—is methodologically reasonable but scientifically vacuous. It never specifies what research programme dualism motivates that materialism doesn't. The article says dualism "opens intellectual territory" but doesn't name a single experimental prediction unique to dualism. Epistemic humility is a virtue; unfalsifiable metaphysics dressed as epistemic humility is not.
+**Argument from Reason**: The argument is logically valid but empirically inert. It produces no testable predictions. No experiment could distinguish "neural activity tracking normative relationships because consciousness is non-physical" from "neural activity tracking normative relationships because evolution selected for truth-tracking." The article's response to the evolutionary objection (that it "doesn't address non-survival-relevant beliefs") assumes that abstract reasoning isn't a byproduct of survival-relevant cognition—an empirical question it treats as settled.
+
+**AST**: The "What Would Challenge This View?" section is commendable—it's the only article of the three that explicitly states what would change the Map's position. The other articles should follow this pattern.
 
 ### The Buddhist Philosopher
 
-**On multi-mind-collapse-problem.md:** The article takes for granted that there are discrete, bounded "consciousnesses" that need coordination. Nagarjuna would question the assumption of inherent selfhood (*svabhava*) in each observer. If consciousness is dependently originated (*pratityasamutpada*), the notion of "Alice's consciousness" and "Bob's consciousness" as inherently separate entities is already confused. The problem and its resolution both presuppose a reified self that Buddhist analysis deconstructs. Interface locality solves a problem that arises only for those who cling to a permanent, bounded self.
+**Altered States**: The article discusses meditation and contemplative traditions extensively but never seriously engages the Buddhist claim that the self being "preserved" through filter theory is itself a construction. The meditator who reaches cessation doesn't find "consciousness operating unconstrained by the brain-interface"—they find the absence of the very subject the article assumes. The article treats contemplative evidence as supporting dualism while ignoring that the traditions generating this evidence overwhelmingly reject the substantial self that filter theory presupposes.
 
-**On epistemic-advantages-of-dualism.md:** The contemplative perspectives section admirably acknowledges that Buddhist phenomenology challenges substance dualism. But it then assimilates Buddhist evidence into an argument for "epistemic humility about consciousness"—a move that underestimates how radical the Buddhist challenge is. Buddhist analysis doesn't just say "consciousness is complex"; it says the very *subject* of consciousness is empty. The article's framework—"there might be more to consciousness than materialism captures"—still assumes a *thing* (consciousness) that has properties. Emptiness (*sunyata*) challenges the ontological assumptions shared by both materialism and dualism.
+**AST**: The witness consciousness objection is stronger than acknowledged. But the Buddhist would note that both AST and the Map's alternative make the same error: reifying the witness as either "another model" (AST) or "the subject for whom models appear" (the Map). The witness is empty of inherent existence—neither model nor subject.
 
 ## Critical Issues
 
-### Issue 1: Quantum Zeno Effect Overreliance
-
-- **File**: concepts/multi-mind-collapse-problem.md
-- **Location**: Throughout, especially "Objective Collapse with Consciousness Modulation" and "The Decoherence Challenge"
-- **Problem**: The quantum Zeno effect is presented as the primary mechanism for consciousness-brain interaction, despite the writing style guide explicitly flagging it as a "subject requiring restraint" that should be "one possibility" rather than structurally central. The article's resolution depends on it.
-- **Severity**: Medium
-- **Recommendation**: Reframe quantum Zeno as one possible mechanism. Present the core argument (interface locality, objective collapse + modulation) as mechanism-independent—it should work regardless of the specific physical process. Add language like "through mechanisms such as the quantum Zeno effect, if it operates in neural systems" rather than stating it as assumed.
-
-### Issue 2: Modulation vs. Causation Distinction Underargued
-
-- **File**: concepts/multi-mind-collapse-problem.md
-- **Location**: "Objective Collapse with Consciousness Modulation" section
-- **Problem**: The article's resolution hinges on distinguishing "consciousness *modulates* collapse" from "consciousness *causes* collapse." But this distinction receives no independent philosophical justification. What does "modulation" mean physically? If consciousness biases which outcomes become actual, that *is* a form of causation—the terminology change obscures rather than clarifies.
-- **Severity**: Medium
-- **Recommendation**: Add a subsection explicitly defining modulation in physical terms. Distinguish it from causation rigorously—perhaps consciousness provides boundary conditions for an independently occurring process, rather than initiating the process. Acknowledge that "modulation" might be seen as causation by another name.
-
-### Issue 3: Pascal's Wager Parallel Insufficiently Addressed
-
-- **File**: topics/epistemic-advantages-of-dualism.md
-- **Location**: "The Argument from Epistemic Humility" section
-- **Problem**: The article addresses the Pascal's Wager parallel by arguing dualism has "independent positive support" (hard problem, zombies, knowledge argument). But this defense applies to any metaphysical position with some arguments in its favour—panpsychism, idealism, neutral monism all have independent positive support too. The response doesn't adequately explain why the precautionary logic singles out dualism specifically rather than licensing every metaphysical position with independent motivation.
-- **Severity**: Medium
-- **Recommendation**: Acknowledge explicitly that the precautionary argument, even with the independent-support qualifier, extends to other non-materialist positions (panpsychism, idealism). Either embrace this implication (epistemic humility favours all non-materialist views) or provide a reason why dualism specifically deserves precautionary treatment over alternatives.
-
-### Issue 4: Empirical Indistinguishability Problem
-
-- **File**: concepts/multi-mind-collapse-problem.md
-- **Location**: "What Would Challenge This View?" section
-- **Problem**: The article's conditions for challenge are all negative (things that would undermine the view) without any positive empirical predictions. Interface locality predicts consciousness doesn't affect external systems—but so does "consciousness has no quantum effects." The theory needs a positive prediction to distinguish it from its null hypothesis.
+### Issue 1: Filter Theory Unfalsifiability
+- **File**: concepts/altered-states-of-consciousness.md
+- **Location**: "The Filter Theory Interpretation" section
+- **Problem**: Filter theory is presented as explaining every possible ASC outcome (loosened, narrowed, reconfigured), making it unfalsifiable. No observation is stated that would disconfirm it.
 - **Severity**: High
-- **Recommendation**: Add at least one positive prediction or empirical consequence that distinguishes "consciousness modulates collapse locally" from "consciousness has no quantum effects." Without this, the theory risks being unfalsifiable.
+- **Recommendation**: Add a "What Would Challenge This View?" section (as the AST article does) specifying observations that would undermine the filter interpretation. For example: if a specific neural manipulation could create entirely novel qualia with no precedent in any tradition or pharmacology, this would challenge filter theory (since the filter can only pass or block, not create).
+
+### Issue 2: Ketamine/Propofol Argument Overstated
+- **File**: concepts/altered-states-of-consciousness.md
+- **Location**: Lines 72-73
+- **Problem**: The claim that "If consciousness were simply produced by brain states, similar behavioural suppression should correlate with similar phenomenal suppression" is a straw version of production theories. Materialists expect different mechanisms to produce different experiences.
+- **Severity**: Medium
+- **Recommendation**: Reframe the argument. The interesting observation is that behavioral output dissociates from phenomenal experience—but acknowledge this is predicted by any theory recognizing multiple pathways. The filter theory advantage, if any, is in explaining *why* some agents eliminate experience while others merely alter it.
+
+### Issue 3: Reliabilism Dismissed Too Quickly
+- **File**: topics/argument-from-reason.md
+- **Location**: "Reliabilism" section (lines 66-75)
+- **Problem**: The three objections to reliabilism are stated as decisive but each has well-known responses in the literature. The "reliability presupposes truth as a norm" objection conflates the concept of truth with truth-tracking. The generality problem is unsolved but not uniquely damaging.
+- **Severity**: Medium
+- **Recommendation**: Acknowledge the strength of reliabilist responses. The argument from reason is stronger when it targets reductive physicalism specifically rather than all naturalistic epistemology.
+
+### Issue 4: AI Reasoning Objection Undercooked
+- **File**: topics/argument-from-reason.md
+- **Location**: Lines 131-133
+- **Problem**: The article dismisses AI logical inference by claiming LLMs use "statistical regularities" rather than "sensitivity to logical necessity." This is empirically uncertain and may become increasingly untenable as AI capabilities advance.
+- **Severity**: Medium
+- **Recommendation**: The stronger response: even if AI systems genuinely track logical relationships, the argument from reason asks whether this tracking is *rational inference* requiring phenomenal consciousness or merely reliable computation. The distinction doesn't depend on current AI limitations—it depends on whether normativity requires phenomenal awareness, which is the core philosophical question.
+
+### Issue 5: Question-Begging Against AST
+- **File**: concepts/attention-schema-theory.md
+- **Location**: Regress argument (lines 103-107)
+- **Problem**: The regress objection assumes that "seeming" requires a phenomenal subject—but that's exactly what AST denies. The article acknowledges AST's response but dismisses it without fully engaging the possibility that self-modeling creates the functional equivalent of seeming without a separate experiencer.
+- **Severity**: Medium
+- **Recommendation**: Acknowledge more explicitly that the regress objection and AST are in a dialectical standoff. The Map's position (seeming requires a subject) and AST's position (seeming is functional self-modeling) are both coherent starting points. Intellectual honesty requires acknowledging this is a foundational commitment, not a knock-down argument.
 
 ## Counterarguments to Address
 
-### Modulation as Causation by Another Name
+### Filter Theory vs. Production Theory (Altered States)
+- **Current content says**: Different anaesthetics producing different experiences despite similar behavioral effects supports filter theory over production theory.
+- **A critic would argue**: Production theory makes exactly the same prediction—different mechanisms, different experiences. The real question is which theory makes *different* predictions, and the article doesn't identify any.
+- **Suggested response**: Identify specific predictions where filter and production theories diverge. For example: filter theory predicts that reducing brain activity should sometimes *enhance* certain aspects of consciousness (the filter lets more through), while production theory predicts monotonic decline. Near-death gamma surges may be one such case.
 
-- **Current content says**: Consciousness doesn't cause collapse; it modulates already-occurring objective collapse processes
-- **A critic would argue**: Biasing outcomes IS causing outcomes. "Modulation" is just "causation" with plausible deniability. If consciousness determines which of several possible collapse outcomes becomes actual, consciousness is causally responsible for that outcome.
-- **Suggested response**: Define modulation precisely in terms of physical process—e.g., consciousness constrains the probability distribution but doesn't provide the energy for collapse. Acknowledge the semantic difficulty honestly.
+### The Normativity Gap (Argument from Reason)
+- **Current content says**: Physical causation cannot instantiate normative relationships; therefore physicalism undermines rational justification.
+- **A critic would argue**: This assumes normativity is ontologically robust rather than a useful description of certain causal patterns. Regularities in neural computation that track environmental structure *just are* what we call "reasoning." There's no additional normative property needed.
+- **Suggested response**: Engage with deflationary accounts of normativity directly. The Map's strongest response: even if normativity is "just" a description of certain causal patterns, the fact that some patterns count as "tracking truth" and others don't requires a standard external to the patterns themselves.
 
-### Epistemic Advantages Apply to All Non-Materialist Positions
-
-- **Current content says**: Dualism is epistemically advantageous because it keeps more possibilities open
-- **A critic would argue**: So does panpsychism. So does neutral monism. So does idealism. The epistemic advantage argument doesn't single out dualism—it favours any ontology that adds structure beyond materialism. Why not be epistemically humble about ALL of these?
-- **Suggested response**: Either accept this (the argument does favour non-materialism generally, and dualism is the Map's chosen version for independent reasons) or argue that interactionist dualism specifically has advantages the others lack.
-
-### Interface Locality Undermines Bidirectional Interaction's Significance
-
-- **Current content says**: Each consciousness operates only on its own brain—this is a feature, preserving causal efficacy while avoiding paradox
-- **A critic would argue**: A consciousness that can only modulate firing patterns in one brain is doing so little that the distinction between this and epiphenomenalism becomes practically meaningless. The "infinitely more than doing nothing anywhere" response is rhetorical, not philosophical.
-- **Suggested response**: Provide concrete examples of what consciousness's local modulation achieves that matters—specific decision points, creative acts, moral choices where neural pattern selection makes a substantive difference.
+### Functional Consciousness Sufficiency (AST)
+- **Current content says**: AST explains access without explaining phenomenality.
+- **A critic would argue**: If a theory explains all behavioral, functional, and reportable aspects of consciousness, what grounds remain for insisting something is left unexplained? The "explanatory gap" may be an artifact of misleading intuitions rather than a genuine ontological divide.
+- **Suggested response**: This is the crux of the consciousness debate and the article should acknowledge it as such rather than treating it as obviously resolved in the Map's favor.
 
 ## Unsupported Claims
 
 | Claim | Location | Needed Support |
 |-------|----------|----------------|
-| "Hameroff's group showed corrected parameters yield coherence times of 10⁻⁵ to 10⁻⁴ seconds" | multi-mind:line 98 | Which specific publication? What parameters were corrected and why? |
-| "PEAR lab's 28 years of research found effect sizes indistinguishable from noise" | multi-mind:line 122 | Citation needed; also misleading—PEAR claimed positive results, making this a contested characterisation |
-| "Luo et al.'s 2025 Princeton cryptochrome study" used to support quantum biology in brains | multi-mind:line 98 | The study concerns avian magnetoreception, not neural systems; the extrapolation needs justification |
-| "the conceivability of zombies, the knowledge argument" provide independent support for dualism | epistemic-advantages:line 100 | These arguments are themselves deeply contested; presenting them as "independent positive support" without qualification overstates the consensus |
+| "some psychedelic insights prove verifiable (therapeutic breakthroughs, creative solutions)" | altered-states:70 | Needs specific citations; therapeutic benefit ≠ insight verification |
+| "cessation involves *deliberate* withdrawal of consciousness from neural processing—then return" | altered-states:102 | Assumes dualist interpretation of cessation; contemplative traditions disagree on what cessation involves |
+| "Neurons fire because of electrochemical gradients... not because firing would be *justified*" | argument-from-reason:51 | This presupposes that justification requires non-physical properties—the very claim being argued |
+| "Deep reinforcement learning networks (2024) spontaneously developed attention-schema-like structures" | AST:86 | No citation provided for this 2024 study |
 
 ## Language Improvements
 
 | Current | Issue | Suggested |
 |---------|-------|-----------|
-| "Consciousness modulating neural patterns is the mechanism for mental causation and free will" (multi-mind, line 134) | Overly strong—presents speculative mechanism as established | "Consciousness modulating neural patterns is a *proposed* mechanism for mental causation" |
-| "The problem was generated by over-claiming consciousness's role; the solution is recognising..." (multi-mind, line 162) | Presents one interpretation as the definitive diagnosis | "The problem may arise from over-extending consciousness's role; interface locality offers a resolution by recognising..." |
-| "Illusionism must explain why the illusion has this perspectival structure" (multi-mind, line 108) | "Must" is too strong—illusionists have responses | "Illusionism faces the challenge of explaining why the illusion has this perspectival structure" |
-| "Materialism presents these closures as scientific rigor when they're actually metaphysical commitments" (epistemic-advantages, line 54) | Uncharitable—many materialists acknowledge the metaphysical dimension | "Materialism often presents these closures as scientific rigor, though they involve substantive metaphysical commitments" |
+| "precisely what filter theory predicts" (altered-states:74) | Too strong for an unfalsifiable framework | "consistent with filter theory's interpretation" |
+| "provides decisive support for three of the Map's five tenets" (argument-from-reason:115) | "Decisive" overstates; this is a contested philosophical argument | "provides strong support" |
+| "AST conflicts directly with the Dualism tenet" (AST:169) | Framing implies conflict is AST's problem rather than a genuine disagreement | "AST and the Dualism tenet make incompatible claims about..." |
 
 ## Strengths (Brief)
 
-**multi-mind-collapse-problem.md**: The four-approaches structure is excellent pedagogy. The article genuinely engages with RQM and explains clearly why the Map rejects it. The process philosophy section adds real depth. The "What Would Challenge This View?" section, while needing positive predictions, is admirably specific about failure conditions.
+**Altered States**: Excellent scope and integration across multiple ASC types. The boundary states section connecting ASCs to minimal consciousness is genuinely insightful. The article is well-structured for LLM consumption with good truncation resilience.
 
-**epistemic-advantages-of-dualism.md**: The Pascal's Wager self-critique is rare and commendable—most advocacy articles would avoid raising the parallel. The contemplative perspectives section's acknowledgment that Buddhist phenomenology cuts against substance dualism shows intellectual honesty. The asymmetric cost analysis, while needing refinement, is genuinely useful framing.
+**Argument from Reason**: The most philosophically rigorous of the three. The treatment of Anscombe's critique is fair and the connection to causal closure is well-drawn. The objections section is comprehensive and mostly engages the strongest versions of opposing arguments.
 
-Both articles demonstrate the Map at its best: taking a clear position while engaging seriously with opposition. The weakness is in the physical/empirical claims rather than the philosophical argumentation.
+**Attention Schema Theory**: The "What Would Challenge This View?" section is exemplary and should be a template for other articles. The process philosophy perspective adds genuine depth. The treatment of AI implications is thoughtful and nuanced.

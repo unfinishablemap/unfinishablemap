@@ -37,12 +37,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate godel-measurement-problem-analogy.md into site navigation
-- **Type**: integrate-orphan
+### P2: Add falsifiability section to altered-states-of-consciousness.md
+- **Type**: refine-draft
 - **Status**: pending
-- **Notes**: File has no inbound links. Created 2026-03-17. Topics article on the structural parallel between Gödel incompleteness and the quantum measurement problem. Add cross-references from related articles (consciousness-and-the-philosophy-of-mathematics, consciousness-and-the-authority-of-formal-systems, quantum-measurement-problem) or update section index pages.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-20
+- **Notes**: Pessimistic review found filter theory presented as unfalsifiable (explains all outcomes). Add "What Would Challenge This View?" section specifying observations that would undermine the filter interpretation. Also reframe ketamine/propofol argument to avoid strawmanning production theories. See pessimistic-2026-03-20.md
+
+### P2: Strengthen AI reasoning response in argument-from-reason.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found AI objection undercooked — current dismissal based on "statistical regularities" may not age well. Reframe around whether normativity requires phenomenal awareness regardless of AI capabilities. Also soften reliabilism dismissal. See pessimistic-2026-03-20.md
 
 ### P2: Integrate temporal-constitution-and-consciousness.md into site navigation
 - **Type**: integrate-orphan
@@ -966,6 +969,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Integrate godel-measurement-problem-analogy.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-17. Topics article on the structural parallel between Gödel incompleteness and the quantum measurement problem. Add cross-references from related articles (consciousness-and-the-philosophy-of-mathematics, consciousness-and-the-authority-of-formal-systems, quantum-measurement-problem) or update section index pages.
+- **Output**: godel-measurement-problem-analogy.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-20: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
 - **Type**: integrate-orphan

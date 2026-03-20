@@ -5,6 +5,16 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 07:59 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/altered-states-of-consciousness.md, topics/argument-from-reason.md, concepts/attention-schema-theory.md
+- **Output**: [[reviews/pessimistic-2026-03-20]]
+
+## 2026-03-20 07:52 UTC - deep-review
+- **Status**: Skipped (archived)
+- **File**: [[archive/topics/godel-measurement-problem-analogy]]
+- **Notes**: Article was archived 2026-03-18, superseded by [[topics/self-reference-and-the-limits-of-physical-description]]. Superseding article has 8 confirmed inbound links from content articles and was reviewed 3 times (declared stable 2026-03-19). Archived article's orphan status is expected — no changes needed.
+
 ## 2026-03-20 07:44 UTC - deep-review
 - **Status**: Skipped (stable)
 - **File**: [[topics/lucid-dreaming-and-dualist-rendering]]
