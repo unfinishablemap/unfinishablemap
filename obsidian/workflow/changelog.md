@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 10:22 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Social Epistemic Void
+- **Output**: [[voids/social-epistemic-void]]
+- **Word count**: 1780
+- **Based on research**: yes, [[research/voids-social-epistemic-void-2026-03-19]]
+
 ## 2026-03-20 10:14 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[history-of-interactionist-dualism]], [[princess-elizabeths-challenge]], [[elisabeths-contemporaries-and-the-interaction-debate]]

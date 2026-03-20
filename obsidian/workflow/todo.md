@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write void article on the social epistemic void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/voids-social-epistemic-void-2026-03-19.md. The gap between collective knowledge and individual understanding — social epistemology reveals how consciousness mediates between shared and private knowledge. Target section: voids/ (98/100, 2 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-20
-
 ### P2: Cross-review types-of-consciousness.md considering degrees-of-consciousness insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1005,6 +998,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Write void article on the social epistemic void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-social-epistemic-void-2026-03-19.md. The gap between collective knowledge and individual understanding — social epistemology reveals how consciousness mediates between shared and private knowledge. Target section: voids/ (98/100, 2 slots remaining).
+- **Output**: Write void article on the social epistemic void
 
 ### ✓ 2026-03-20: Write void article on the unobservable self
 - **Type**: expand-topic
