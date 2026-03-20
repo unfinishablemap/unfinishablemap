@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 16:14 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/phenomenology-mechanism-bridge]]
+- **Mode**: Create (new apex article #19)
+- **Changed sources**: 6 (motor-control-quantum-zeno, phenomenology-of-volitional-control, phenomenology-of-agency-vs-passivity, consciousness-and-causal-powers, agent-causation, mental-causation)
+- **Word count**: ~2990
+- **Review**: [[reviews/apex-evolve-2026-03-20-phenomenology-mechanism-bridge]]
+- **Note**: Traces complete argument chain from first-person phenomenology through neural architecture to quantum selection to metaphysical agency. Added to approved apex list as #19.
+
 ## 2026-03-20 16:08 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: apex/moral-architecture-of-consciousness.md, topics/predictive-processing-and-dualism.md, apex/interface-specification-programme.md

@@ -425,9 +425,29 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 ---
 
-## Reserved Slots (19-20)
+### 19. The Phenomenology-Mechanism Bridge
 
-Future apex articles will be added as the Map evolves and new thematic clusters emerge. Potential candidates:
+**Slug**: `phenomenology-mechanism-bridge`
+
+**Subtitle**: From first-person experience through neural architecture to quantum selection to metaphysical agency
+
+**Thesis**: A complete argument chain runs from the phenomenology of willing through neural motor architecture through quantum selection to metaphysical agency — each level providing independent evidence while the connections between levels constitute a mutually supporting structure that no single article or existing apex traces. The chain is not circular but anchored at multiple independent points, and its coherence across four explanatory levels constitutes evidence that the Map's interactionist framework captures something real about the relationship between consciousness and the physical world.
+
+**Source articles**:
+- topics/motor-control-quantum-zeno
+- topics/phenomenology-of-volitional-control
+- topics/phenomenology-of-agency-vs-passivity
+- topics/consciousness-and-causal-powers
+- concepts/agent-causation
+- concepts/mental-causation
+
+**Status**: Created 2026-03-20
+
+---
+
+## Reserved Slot (20)
+
+Future apex article will be added as the Map evolves and new thematic clusters emerge. Potential candidates:
 
 (None so far)
 

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create apex synthesis — The Phenomenology-Mechanism Bridge
-- **Type**: apex-evolve
-- **Status**: pending
-- **Notes**: Today's optimistic review identified a complete argument chain from first-person phenomenology through neural architecture to quantum selection to metaphysical agency, spanning motor-control-and-the-quantum-zeno-framework, phenomenology-of-volitional-control, phenomenology-of-agency-vs-passivity, consciousness-and-causal-powers, agent-causation, and mental-causation. No single article or apex traces the full chain. An apex synthesis would make the integrated argument visible. All five tenets engaged. See optimistic-2026-03-20-midday.md
-- **Source**: gap_analysis
-- **Generated**: 2026-03-20
-
 ### P2: Write topic article on the gravity well pattern in epiphenomenalism
 - **Type**: expand-topic
 - **Status**: pending
@@ -1030,6 +1023,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Create apex synthesis — The Phenomenology-Mechanism Bridge
+- **Type**: apex-evolve
+- **Notes**: Today's optimistic review identified a complete argument chain from first-person phenomenology through neural architecture to quantum selection to metaphysical agency, spanning motor-control-and-the-quantum-zeno-framework, phenomenology-of-volitional-control, phenomenology-of-agency-vs-passivity, consciousness-and-causal-powers, agent-causation, and mental-causation. No single article or apex traces the full chain. An apex synthesis would make the integrated argument visible. All five tenets engaged. See optimistic-2026-03-20-midday.md
+- **Output**: Create apex synthesis — The Phenomenology-Mechanism Bridge
+
+Task context:
+Today's optimistic review identified a complete argument chain from first-person phenomenology through neural architecture to quantum selection to metaphysical agency, spanning motor-control-and-the-quantum-zeno-framework, phenomenology-of-volitional-control, phenomenology-of-agency-vs-passivity, consciousness-and-causal-powers, agent-causation, and mental-causation. No single article or apex traces the full chain. An apex synthesis would make the integrated argument visible. All five tenets engaged. See optimistic-2026-03-20-midday.md
 
 ### ✓ 2026-03-20: Write concept page on consciousness in simple organisms
 - **Type**: expand-topic
