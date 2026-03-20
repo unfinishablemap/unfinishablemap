@@ -4,7 +4,7 @@ description: "Constraint satisfaction has distinctive phenomenal character — t
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-20T23:42:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-cognitive-capacity]]"
@@ -18,12 +18,16 @@ related_articles:
   - "[[predictive-processing-and-dualism]]"
   - "[[phenomenology-of-deliberation-under-uncertainty]]"
   - "[[choking-phenomenon-mental-causation]]"
+  - "[[phenomenology-of-agency-vs-passivity]]"
+  - "[[phenomenology-of-volitional-control]]"
+  - "[[consciousness-and-causal-powers]]"
+  - "[[phenomenology-mechanism-bridge]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-20
 last_curated:
-last_deep_review: 2026-02-22T09:02:00+00:00
+last_deep_review: 2026-03-20T23:42:00+00:00
 ---
 
 Constraint satisfaction — finding solutions that meet multiple competing demands simultaneously — has a distinctive phenomenology that pure computation lacks. When consciousness navigates constraints, it doesn't merely process them; it *feels* them as resistance, weight, and texture. The Unfinishable Map argues this phenomenal character is not decorative but constitutive: constraint satisfaction feels like something *because* consciousness is doing genuine causal work at the interface between mind and brain.
@@ -44,9 +48,9 @@ The [[phenomenology-of-cognitive-capacity|phenomenology of cognitive capacity]] 
 
 The Unfinishable Map's framework — particularly the [[control-theoretic-will|control-theoretic model of will]] — reframes constraint satisfaction as a domain where consciousness performs its core function: selection among options the brain prepares.
 
-In this view, the brain's unconscious processing generates candidate solutions at enormous bandwidth — aggregate sensory and neural processing reaches ~10⁹ bits/second (Nørretranders, 1998). Consciousness operates at roughly ~10 bits/second, selecting among these candidates. Constraint satisfaction is where this architecture becomes most phenomenally vivid, because the constraints themselves shape which candidates the brain generates and which consciousness can accept.
+In this view, the brain's unconscious processing generates candidate solutions at enormous bandwidth — aggregate sensory and neural processing reaches ~10⁹ bits/second (Nørretranders, 1998). Consciousness operates at roughly 10 bits/second, selecting among these candidates. Constraint satisfaction is where this architecture becomes most phenomenally vivid, because the constraints themselves shape which candidates the brain generates and which consciousness can accept.
 
-Three features of this selection process have distinctive phenomenal character:
+This selection architecture parallels what the [[phenomenology-of-volitional-control|phenomenology of volitional control]] describes for motor action: the brain prepares multiple candidates, and consciousness selects among them. Constraint satisfaction is where this architecture manifests in cognition more broadly. Three features of the selection process have distinctive phenomenal character:
 
 **The narrowing.** As constraints tighten, the space of viable options contracts. This contraction is felt — not inferred — as a progressive focusing of attention. Anyone who has worked a crossword puzzle recognises that heavily constrained cells feel different from open ones: the constraint itself guides awareness toward a smaller region of possibility, and this guidance has phenomenal character.
 
@@ -80,9 +84,9 @@ Partial satisfaction also produces a distinctive residual phenomenology. After a
 
 The [[phenomenology-of-cognitive-capacity|phenomenology of cognitive capacity]] reveals a critical boundary in constraint satisfaction: as constraint patterns become familiar, consciousness withdraws from active engagement. An experienced driver navigates the constraints of traffic flow without the felt tension a learner experiences. A fluent speaker satisfies grammatical constraints without phenomenal effort.
 
-This withdrawal is asymmetric. Consciousness readily delegates familiar constraint patterns to unconscious processing, but re-engaging with automatised constraints — as in the [[choking-phenomenon-mental-causation|choking phenomenon]] — produces interference rather than enhancement. The expert golfer who consciously monitors their swing's constraints performs *worse* than one who lets automatised processing handle them.
+This withdrawal is asymmetric, tracking the same [[phenomenology-of-agency-vs-passivity|agency-passivity distinction]] that structures volitional experience generally. Consciousness readily delegates familiar constraint patterns to unconscious processing, but re-engaging with automatised constraints — as in the [[choking-phenomenon-mental-causation|choking phenomenon]] — produces interference rather than enhancement. The expert golfer who consciously monitors their swing's constraints performs *worse* than one who lets automatised processing handle them.
 
-This asymmetry has implications for the Map's framework. If consciousness were merely observing constraint satisfaction, re-engagement should be neutral — watching doesn't interfere. If consciousness were the sole processor, withdrawal should be impossible — there would be no other system to delegate to. The pattern — active engagement during learning, delegation during mastery, interference during re-engagement — matches the [[control-theoretic-will|control-theoretic]] prediction: consciousness is a genuine causal agent whose intervention is appropriate during novel constraint navigation but counterproductive when applied to already-optimised processes.
+This asymmetry has implications for the Map's framework. If consciousness were merely observing constraint satisfaction, re-engagement should be neutral — watching doesn't interfere. If consciousness were the sole processor, withdrawal should be impossible — there would be no other system to delegate to. The pattern — active engagement during learning, delegation during mastery, interference during re-engagement — matches the [[control-theoretic-will|control-theoretic]] prediction: consciousness is a genuine causal agent whose intervention is appropriate during novel constraint navigation but counterproductive when applied to already-optimised processes. This three-phase pattern is one strand of the broader evidence that [[consciousness-and-causal-powers|consciousness has genuine causal powers]] — the constraint domain makes the causal contribution particularly vivid because the quality of solutions degrades measurably when conscious engagement is either absent (novel problems handled by rote) or excessive (expert performance disrupted by attention).
 
 ## Relation to Site Perspective
 
@@ -108,8 +112,12 @@ The disconnect between computational complexity and phenomenal intensity poses a
 - [[choking-phenomenon-mental-causation]]
 - [[predictive-processing-and-dualism]]
 - [[phenomenology-of-intellectual-effort]]
+- [[phenomenology-of-agency-vs-passivity]]
+- [[phenomenology-of-volitional-control]]
+- [[consciousness-and-causal-powers]]
 - [[aesthetics-and-consciousness]]
 - [[cognitive-phenomenology]]
+- [[phenomenology-mechanism-bridge]]
 
 ## References
 

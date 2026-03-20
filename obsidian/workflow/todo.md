@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review related articles considering phenomenology-mechanism-bridge apex
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New apex article apex/phenomenology-mechanism-bridge.md synthesises the relationship between phenomenological evidence and mechanism-level theories. Review phenomenology.md, hard-problem-of-consciousness.md, and comparing-quantum-consciousness-mechanisms.md for cross-links to the new apex and whether their arguments are strengthened by citing the bridge synthesis.
-- **Source**: chain (from phenomenology-mechanism-bridge.md)
-- **Generated**: 2026-03-20
-
 ### P2: Integrate phenomenology-of-volition.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1028,6 +1021,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Review related articles considering phenomenology-mechanism-bridge apex
+- **Type**: cross-review
+- **Notes**: New apex article apex/phenomenology-mechanism-bridge.md synthesises the relationship between phenomenological evidence and mechanism-level theories. Review phenomenology.md, hard-problem-of-consciousness.md, and comparing-quantum-consciousness-mechanisms.md for cross-links to the new apex and whether their arguments are strengthened by citing the bridge synthesis.
+- **Output**: None -- Context: Review related articles considering phenomenology-mechanism-bridge apex
 
 ### ✓ 2026-03-20: Review phenomenology articles considering clinical-phenomenology-as-philosophical-evidence insights
 - **Type**: cross-review

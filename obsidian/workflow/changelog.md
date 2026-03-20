@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 23:42 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-phenomenology-of-constraint-satisfaction]]
+- **Word count**: 1975 → 2079 (+104)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (apex cross-links, volitional control link, causal powers link, redundant hedge, apex integration)
+- **Enhancements made**: 4 (3 body-text cross-links with contextual sentences, 4 Further Reading additions)
+- **Output**: [[reviews/deep-review-2026-03-20-consciousness-and-the-phenomenology-of-constraint-satisfaction]]
+
 ## 2026-03-20 23:27 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-phenomenology-of-translation]]
