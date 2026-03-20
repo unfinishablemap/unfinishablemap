@@ -4,7 +4,7 @@ description: "Multiple independent philosophical arguments converge on the same 
 created: 2026-02-27
 modified: 2026-02-27
 human_modified:
-ai_modified: 2026-03-19T20:06:00+00:00
+ai_modified: 2026-03-20T12:49:00+00:00
 last_deep_review: 2026-02-27T19:46:00+00:00
 draft: false
 topics:
@@ -49,6 +49,8 @@ This strategy misses the forest for the trees. Seven or more independent argumen
 The arguments exploit genuinely different features of consciousness. The explanatory gap concerns the absence of transparent connections between physical and phenomenal properties. The knowledge argument concerns the incompleteness of physical information. The conceivability argument concerns the logical separability of physics and experience. Arguments from qualia concern intrinsic qualitative character. The subjectivity argument concerns the irreducibility of perspective. The unity argument concerns the composition of conscious subjects from physical parts. The argument from reason concerns the normative character of inference. Each identifies a distinct aspect of experience that materialism struggles to accommodate.
 
 A materialist might object that these arguments share a hidden flaw—perhaps a common reliance on unreliable intuitions about consciousness. But this objection would need to identify a single error that explains away arguments from information incompleteness, logical possibility, normativity of inference, unity of subjects, and qualitative character simultaneously. The diversity of premises is precisely what makes the convergence significant.
+
+These philosophical arguments gain empirical support from phenomena that production models struggle to accommodate. [[terminal-lucidity-and-filter-transmission-theory|Terminal lucidity]]—cognitive clarity returning in patients with severe neurodegeneration—breaks the monotonic relationship between neural substrate and cognitive capacity that production models predict. Alongside [[psychedelics-and-the-filter-model|psychedelic states]], [[near-death-experiences]], and [[disorders-of-consciousness-as-test-cases|covert consciousness]], it forms a convergent empirical pattern pointing toward the same conclusion the philosophical arguments reach through reason.
 
 For detailed treatment of each argument, see [[dualism]]. For the focused systematic case from the hard problem through quantum indeterminacy, see [[arguments/materialism-argument|Against Materialism]].
 

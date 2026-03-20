@@ -4,7 +4,7 @@ description: "Terminal lucidity—cognitive clarity returning despite severe bra
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T11:58:00+00:00
+ai_modified: 2026-03-20T12:49:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,12 +23,14 @@ related_articles:
   - "[[psychedelics-and-the-filter-model]]"
   - "[[disorders-of-consciousness-as-test-cases]]"
   - "[[altered-states-as-interface-evidence]]"
+  - "[[arguments-against-materialism]]"
+  - "[[clinical-dissociation-as-systematic-evidence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review: 2026-03-20T11:58:00+00:00
+last_deep_review: 2026-03-20T12:49:00+00:00
 ---
 
 Terminal lucidity—the return of mental clarity, memory, and personality in patients with severe neurodegeneration shortly before death—provides the strongest single-phenomenon case for [[filter-theory|filter/transmission theory]] over productive (generative) models of consciousness. Where other anomalies like [[near-death-experiences]] and [[psychedelics-and-the-filter-model|psychedelic states]] each admit plausible materialist explanations taken individually, terminal lucidity poses a structural problem for production models: if the brain generates consciousness the way a factory produces goods, then a factory with its machinery destroyed cannot produce a final flawless product. Yet that is what terminal lucidity appears to involve.
