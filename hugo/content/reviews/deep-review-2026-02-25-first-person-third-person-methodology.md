@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-25
-**Article**: [First-Person vs Third-Person Methodology in Consciousness Science](/topics/first-person-third-person-methodology/)
+**Article**: [First-Person vs Third-Person Methodology in Consciousness Science](/topics/methodology-of-consciousness-research/)
 **Previous review**: [2026-01-25](/reviews/deep-review-2026-01-25-first-person-third-person-methodology/)
 
 ## Pessimistic Analysis Summary
@@ -83,7 +83,7 @@ All six major attributions verified as accurate:
 
 ### Cross-links Added
 
-- [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/)
+- [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/)
 - [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/)
 - [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/)
 - [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)

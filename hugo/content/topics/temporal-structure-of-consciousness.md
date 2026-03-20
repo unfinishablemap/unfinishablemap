@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-03-19 08:30:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ concepts:
 - '[[illusionism]]'
 - '[[binding-problem]]'
 - '[[unity-of-consciousness]]'
-- '[[neural-binding-mechanisms]]'
+- '[[phenomenal-binding-and-holism]]'
 - '[[working-memory]]'
 - '[[interactionist-dualism]]'
 - '[[personal-identity]]'
@@ -103,7 +103,7 @@ The specious present itself must be integrated with its predecessors and success
 
 ### Macro-Integration: The Temporal Self
 
-[Anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) integrates experience across a lifetime. Remembering your childhood isn't merely accessing stored information—you *inhabit* the memory from a first-person perspective, experiencing yourself as the same subject. This connects temporal integration to [personal-identity](/topics/personal-identity/): the narrative self depends on macro-integration. Without it, you would have experience but not autobiography.
+[anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) integrates experience across a lifetime. Remembering your childhood isn't merely accessing stored information—you *inhabit* the memory from a first-person perspective, experiencing yourself as the same subject. This connects temporal integration to [personal-identity](/topics/personal-identity/): the narrative self depends on macro-integration. Without it, you would have experience but not autobiography.
 
 ## Bergson's Durée
 
@@ -187,7 +187,7 @@ This exclusion would be categorical—not insufficient complexity but fundamenta
 
 Meditation traditions provide phenomenological data unavailable through ordinary introspection.
 
-**Temporal microstructure.** Trained contemplatives report experience arising in discrete pulses. [Neurophenomenology](/concepts/neurophenomenology/) proposes meditation reveals fine-grained temporal dynamics normally below threshold. The Buddhist *khanika* (momentariness) describes rapid arising and passing that untrained awareness blurs into continuity.
+**Temporal microstructure.** Trained contemplatives report experience arising in discrete pulses. [neurophenomenology](/concepts/neurophenomenology/) proposes meditation reveals fine-grained temporal dynamics normally below threshold. The Buddhist *khanika* (momentariness) describes rapid arising and passing that untrained awareness blurs into continuity.
 
 **Cessation states.** In *nirodha samapatti*, perception and feeling cease entirely—awareness without temporal flow. If consciousness constitutes time through collapse, suspended collapse would eliminate temporal experience.
 
@@ -227,7 +227,6 @@ The temporal structure of consciousness connects to all five [tenets](/tenets/):
 ## Further Reading
 
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present, Bergson's durée, temporal binding, and experienced duration
-- [temporal-phenomenology-quantum-selection](/concepts/temporal-consciousness/) — What quantum selection feels like from within: retention-protention as experiential signature of collapse
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, presentism, eternalism, growing block
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — The Map's full framework on time, collapse, and agency
 - [collapse-and-time](/concepts/collapse-and-time/) — How quantum collapse may constitute time's arrow

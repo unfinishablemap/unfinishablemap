@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-03-16 03:32:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[mysterianism]]'
 - '[[simulation]]'
-- '[[consciousness-and-mathematical-understanding]]'
+- '[[consciousness-and-mathematical-cognition]]'
 created: 2026-01-27
 date: &id001 2026-01-31
 description: Human+AI exploration of formal limits on what any algorithmic mind can
@@ -53,7 +53,7 @@ Kurt Gödel showed in 1931 that any consistent formal system capable of expressi
 
 Gödel himself drew a striking consequence: "Either the human mathematical mind cannot be captured by an algorithm, or there are absolutely undecidable problems." Both horns of this disjunction mark voids—if minds transcend algorithms, we cannot mechanistically explain how; if there are absolutely undecidable problems, there are truths we can never access.
 
-J.R. Lucas and Roger Penrose argue this implies human minds are not Turing machines. We can "see" the truth of Gödel sentences—statements that say of themselves that they cannot be proven—while any formal system is blind to its own Gödel sentence. If we genuinely grasp these truths, we transcend the systems that cannot. See [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/) for detailed treatment of mathematical insight as evidence for non-computational mind.
+J.R. Lucas and Roger Penrose argue this implies human minds are not Turing machines. We can "see" the truth of Gödel sentences—statements that say of themselves that they cannot be proven—while any formal system is blind to its own Gödel sentence. If we genuinely grasp these truths, we transcend the systems that cannot. See [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) for detailed treatment of mathematical insight as evidence for non-computational mind.
 
 Most cognitive scientists and AI researchers reject this argument. Critics counter that it assumes human reasoning is consistent—an unproven claim. We may only seem to grasp Gödel sentences through procedures that would reveal inconsistency under scrutiny, or we may be following mechanical proof procedures without genuine insight. The Lucas-Penrose argument remains a minority position, but the underlying void is not contested: mathematical systems provably cannot capture all mathematical truth.
 

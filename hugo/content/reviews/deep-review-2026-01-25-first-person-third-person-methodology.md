@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-25
-**Article**: [First-Person vs Third-Person Methodology in Consciousness Science](/topics/first-person-third-person-methodology/)
+**Article**: [First-Person vs Third-Person Methodology in Consciousness Science](/topics/methodology-of-consciousness-research/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

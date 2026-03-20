@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-19 10:05:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -34,7 +34,7 @@ related_articles:
 - '[[phenomenology-of-recursive-thought]]'
 - '[[phenomenology-of-anticipation]]'
 - '[[phenomenology-of-understanding-and-meaning]]'
-- '[[consciousness-and-aesthetic-creation]]'
+- '[[aesthetics-and-consciousness]]'
 - '[[consciousness-and-creative-distinctiveness]]'
 - '[[incubation-effect-and-unconscious-processing]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
@@ -117,7 +117,7 @@ Imagination bears on several of the Map's [tenets](/tenets/) in distinctive ways
 - [consciousness-and-counterfactual-reasoning](/topics/consciousness-and-counterfactual-reasoning/) — Why representing non-actuality requires consciousness
 - [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-thought/) — When imagination takes itself as object
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — Forward-directed imagination and temporal experience
-- [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/) — Imagination in artistic creation
+- [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Imagination in artistic creation
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — The felt quality of grasping meaning
 - [dream-consciousness](/topics/dream-consciousness/) — Dreams as involuntary imagination
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Lucid dreaming as voluntary imagination operating with full phenomenal richness during sleep

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-12
-ai_modified: 2026-02-16 05:10:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,7 @@ related_articles:
 - '[[intersubjectivity]]'
 title: Methodological Pluralism
 topics:
-- '[[first-person-third-person-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 
@@ -62,7 +62,7 @@ Methodological pluralism should not be confused with several weaker positions:
 
 ### First-Person Methods
 
-[Phenomenology](/concepts/phenomenology/), [introspection](/concepts/introspection/), and contemplative practice provide systematic first-person access to conscious experience. Classical phenomenology (Husserl, Merleau-Ponty) developed rigorous techniques—the epoché, eidetic variation, phenomenological reduction—for investigating experiential structures. Contemplative traditions refined sustained attention to consciousness's own features across centuries of practice.
+[phenomenology](/concepts/phenomenology/), [introspection](/concepts/introspection/), and contemplative practice provide systematic first-person access to conscious experience. Classical phenomenology (Husserl, Merleau-Ponty) developed rigorous techniques—the epoché, eidetic variation, phenomenological reduction—for investigating experiential structures. Contemplative traditions refined sustained attention to consciousness's own features across centuries of practice.
 
 The key insight: first-person methods are not merely subjective opinion. With proper training and intersubjective corroboration, they produce [reliable evidence](/concepts/phenomenological-evidence/) about consciousness structures invisible to external observation. Meditators' reports of [jhana states](/concepts/meditation-and-consciousness-modes/), for instance, converge across traditions and correlate with distinct neural signatures—neither outcome achievable by untrained introspection or brain imaging alone.
 
@@ -118,7 +118,7 @@ The Map speculates that methodological pluralism may be more than a practical ne
 
 ## Further Reading
 
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/)—The methodological divide and why it reflects ontological dualism
+- [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)—The methodological divide and why it reflects ontological dualism
 - [neurophenomenology](/concepts/neurophenomenology/)—Varela's mutual constraint framework in detail
 - [heterophenomenology](/concepts/heterophenomenology/)—Dennett's third-person-only approach and why the Map rejects it
 - [phenomenological-evidence](/concepts/phenomenological-evidence/)—Conditions under which first-person reports constitute evidence

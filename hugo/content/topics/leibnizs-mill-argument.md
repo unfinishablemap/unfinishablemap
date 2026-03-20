@@ -1,11 +1,10 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-03-11 10:02:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[dualism]]'
 - '[[dualism]]'
 - '[[explanatory-gap]]'
 - '[[qualia]]'
@@ -84,7 +83,7 @@ This response misses Leibniz's point. The wetness analogy fails because wetness 
 
 **The mistake objection**: Perhaps we are wrong to expect perception to appear as something distinct from the parts. Our intuition that it should might reflect confusion rather than insight. Where, after all, is "computation" when we walk through a computer? We find only transistors, yet computation is real and reducible to physical processes.
 
-The computation analogy is seductive but misleading. Computation *is* fully captured by structural description—we can specify exactly what makes a process computational in terms of state transitions and symbol manipulations. Nothing is left over. With perception, something is left over: the felt quality, the "what it is like." A complete functional description of color processing—wavelengths detected, neural signals propagated, discriminations made—leaves out what red *looks like*. The response concedes the explanatory gap while denying its metaphysical significance. [Illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is an illusion—takes this path, but faces the challenge of explaining what generates the illusion and to whom things seem any way at all.
+The computation analogy is seductive but misleading. Computation *is* fully captured by structural description—we can specify exactly what makes a process computational in terms of state transitions and symbol manipulations. Nothing is left over. With perception, something is left over: the felt quality, the "what it is like." A complete functional description of color processing—wavelengths detected, neural signals propagated, discriminations made—leaves out what red *looks like*. The response concedes the explanatory gap while denying its metaphysical significance. [illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is an illusion—takes this path, but faces the challenge of explaining what generates the illusion and to whom things seem any way at all.
 
 **The knowledge objection**: Our inability to find perception by inspecting parts reflects our limited epistemic position, not an ontological gap. A more complete science might bridge the gap.
 

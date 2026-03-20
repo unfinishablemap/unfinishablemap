@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-03-19 07:09:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-12 03:00:00+00:00
 apex_sources:
@@ -195,7 +195,7 @@ This apex article synthesizes:
 - [process-and-consciousness](/apex/process-and-consciousness/) — Reality as becoming, with implications for temporal consciousness
 - [functionalism](/concepts/functionalism/) — The philosophical foundation for AI consciousness claims and its failures
 - [continual-learning-argument](/concepts/continual-learning-argument/) — Formal framework for why static systems cannot be conscious
-- [substrate-independence-critique](/concepts/substrate-independence/) — Why substrate matters for consciousness
+- [substrate-independence](/concepts/substrate-independence/) — Why substrate matters for consciousness
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemic challenge AI intensifies
 - [haecceity](/concepts/haecceity/) — The irreducible thisness of conscious experience
 

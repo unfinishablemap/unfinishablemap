@@ -62,7 +62,7 @@ topics: []
 - [argument-from-reason](/topics/argument-from-reason/)
 - [contemplative-reliability](/concepts/contemplative-epistemology/)
 - [mysterianism](/concepts/mysterianism/)
-- [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/)
+- [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/)
 - [intersubjectivity](/concepts/intersubjectivity/) (strengthened in-body reference)
 
 ## Remaining Items

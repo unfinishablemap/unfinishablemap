@@ -191,7 +191,7 @@ The distinction between willed and exogenous attention in [contemplative-neurosc
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Active selection and passive witnessing as dual modes
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Jhāna states and the range of conscious experience
 - [introspection](/concepts/introspection/) — The reliability debate and process/content distinction
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — Why both perspectives are necessary
+- [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) — Why both perspectives are necessary
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — The contemplative traditions providing this evidence
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal experience
 - [introspection-rehabilitation](/topics/introspection-rehabilitation/) — The case for rehabilitating introspective methods

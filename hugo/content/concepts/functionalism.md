@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-03-11 20:06:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,7 +12,7 @@ concepts:
 - '[[predictive-processing]]'
 - '[[global-workspace-theory]]'
 - '[[llm-consciousness]]'
-- '[[substrate-independence-critique]]'
+- '[[substrate-independence]]'
 - '[[temporal-consciousness]]'
 - '[[dualism]]'
 - '[[mental-causation]]'
@@ -103,7 +103,7 @@ If either is possible, functionalism is false: mental states have qualitative ch
 
 ### The Illusionist Response
 
-[Illusionism](/concepts/illusionism/) offers functionalism's most radical defense: qualia as we conceive them don't exist. Introspection systematically misrepresents our internal states; what seems irreducible is actually a cognitive illusion.
+[illusionism](/concepts/illusionism/) offers functionalism's most radical defense: qualia as we conceive them don't exist. Introspection systematically misrepresents our internal states; what seems irreducible is actually a cognitive illusion.
 
 The deeper problem: even an illusion requires a subject to whom things *seem* a certain way. If introspection misrepresents internal states, the misrepresentation itself is an experience—something it is like to be misled about one's own mind. Phenomenal character cannot be eliminated by relabeling it as error, because the error is itself phenomenal. Illusionism pushes the problem back rather than dissolving it.
 
@@ -147,7 +147,7 @@ If consciousness is merely functional organization, it can't "do" anything beyon
 
 ### Temporal Structure
 
-Functionalism characterizes mental states by their causal roles, abstracting away from *how* those roles unfold in time. But [temporal-consciousness](/concepts/temporal-consciousness/) may be constitutive of consciousness: the retention of the immediate past and protention of what follows, held together in a unified specious present. If this temporal phenomenology is essential to conscious experience rather than an optional feature, then functional equivalence—which captures input-output mappings without requiring any particular temporal structure—cannot guarantee consciousness. See [substrate-independence-critique](/concepts/substrate-independence/) for the full argument that substrate-level temporal properties matter.
+Functionalism characterizes mental states by their causal roles, abstracting away from *how* those roles unfold in time. But [temporal-consciousness](/concepts/temporal-consciousness/) may be constitutive of consciousness: the retention of the immediate past and protention of what follows, held together in a unified specious present. If this temporal phenomenology is essential to conscious experience rather than an optional feature, then functional equivalence—which captures input-output mappings without requiring any particular temporal structure—cannot guarantee consciousness. See [substrate-independence](/concepts/substrate-independence/) for the full argument that substrate-level temporal properties matter.
 
 ### The AI Question
 
@@ -185,7 +185,7 @@ The Map's response: the substrate matters because consciousness involves somethi
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — The emergence problem functionalism cannot solve
 - [consciousness-and-the-philosophy-of-biology](/topics/consciousness-and-the-philosophy-of-biology/) — Why biological function concepts fail to capture consciousness
 - [functionalism-argument](/arguments/functionalism-argument/) — Five formal arguments against functionalism
-- [substrate-independence-critique](/concepts/substrate-independence/) — Why the substrate matters for consciousness
+- [substrate-independence](/concepts/substrate-independence/) — Why the substrate matters for consciousness
 - [ai-consciousness](/topics/ai-consciousness/) — The question of machine minds
 - [qualia](/concepts/qualia/) — What functionalism may leave out
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — Emotions as a domain where functional decomposition fails to capture phenomenal character

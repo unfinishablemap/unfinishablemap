@@ -20,7 +20,7 @@ last_curated: null
 last_deep_review: 2026-03-06 05:27:00+00:00
 modified: *id001
 related_articles:
-- '[[first-person-third-person-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 - '[[phenomenology]]'
 - '[[neurophenomenology]]'
 - '[[objectivity-and-consciousness]]'
@@ -29,7 +29,7 @@ related_articles:
 title: Heterophenomenology
 topics:
 - '[[consciousness]]'
-- '[[first-person-third-person-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 ---
 
 Heterophenomenology is Daniel Dennett's method for studying consciousness using only third-person scientific techniques. It treats subjects' introspective reports about their experiences as data establishing what they *claim* to experience—a "heterophenomenological world"—while remaining officially neutral about whether phenomenal consciousness exists. This neutrality is problematic: heterophenomenology's methodological commitments effectively bracket phenomenology's reality, treating first-person authority as extending only to what subjects say, not to the phenomenological facts they report.
@@ -126,13 +126,13 @@ Three core objections:
 
 The Map can acknowledge heterophenomenology's usefulness as a research tool while rejecting its philosophical framework. Collecting verbal reports systematically, treating them as data requiring explanation, and seeking neural correlates are valuable practices. Neuroscience routinely asks subjects "What do you experience?" and correlates responses with brain activity.
 
-What the Map rejects is the claim that this exhausts consciousness science—that there is no genuine first-person data beyond verbal reports, no phenomenological structures requiring first-person investigation, no [epistemic asymmetry](/topics/first-person-third-person-methodology/#the-explanatory-gap) tracking a real ontological asymmetry. The [measurement standards problem](/topics/consciousness-and-the-problem-of-measurement-standards/) sharpens this critique: operationally defined "measurements" of consciousness measure neural states, not phenomenal states, and the question of whether those neural proxies track the right thing remains unanswerable from the third-person perspective alone.
+What the Map rejects is the claim that this exhausts consciousness science—that there is no genuine first-person data beyond verbal reports, no phenomenological structures requiring first-person investigation, no [epistemic asymmetry](/topics/methodology-of-consciousness-research/) tracking a real ontological asymmetry. The [measurement standards problem](/topics/consciousness-and-the-problem-of-measurement-standards/) sharpens this critique: operationally defined "measurements" of consciousness measure neural states, not phenomenal states, and the question of whether those neural proxies track the right thing remains unanswerable from the third-person perspective alone.
 
 Heterophenomenology works as a tool within a larger framework that includes disciplined first-person investigation ([phenomenology](/concepts/phenomenology/), [contemplative neuroscience](/concepts/neurophenomenology/#contemplative-science)), second-person empathic methods, and philosophical argument about consciousness's nature. It fails as a complete methodology because it systematically excludes phenomenology itself.
 
 ## Relation to Site Perspective
 
-Heterophenomenology exemplifies the third-person-only approach to consciousness that the Map's [Dualism tenet](/tenets/#dualism) rejects. The [methodological divide](/topics/first-person-third-person-methodology/) between first-person phenomenology and third-person neuroscience reflects a genuine ontological divide—phenomenal properties resist third-person description not because science is immature but because consciousness has irreducibly first-person character.
+Heterophenomenology exemplifies the third-person-only approach to consciousness that the Map's [Dualism tenet](/tenets/#dualism) rejects. The [methodological divide](/topics/methodology-of-consciousness-research/) between first-person phenomenology and third-person neuroscience reflects a genuine ontological divide—phenomenal properties resist third-person description not because science is immature but because consciousness has irreducibly first-person character.
 
 The [Occam's Razor Has Limits tenet](/tenets/#occams-razor-has-limits) applies here: heterophenomenology's apparent simplicity (one method for all science) may reflect conceptual poverty rather than genuine parsimony. If consciousness genuinely has features accessible only first-personally, then excluding first-person methods sacrifices truth for methodological uniformity.
 
@@ -142,7 +142,7 @@ The Map endorses methodological pluralism: consciousness requires multiple inves
 
 ## Further Reading
 
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/)—Comprehensive treatment of the methodological divide and why it reflects ontological dualism
+- [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)—Comprehensive treatment of the methodological divide and why it reflects ontological dualism
 - [phenomenology](/concepts/phenomenology/)—Classical first-person investigation methods that heterophenomenology rejects
 - [neurophenomenology](/concepts/neurophenomenology/)—Varela's mutual constraint framework integrating first- and third-person perspectives
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)—The tension between objective science and subjective experience

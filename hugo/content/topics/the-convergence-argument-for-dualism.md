@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-03-19 19:20:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -111,7 +111,7 @@ Moreover, the "conceptual confusion" diagnosis is itself a philosophical claim t
 
 ### The Cognitive Closure Alternative
 
-[Mysterianism](/concepts/mysterianism/) offers a more nuanced version of the common-cause objection. Colin McGinn argues that humans may be cognitively closed to the relationship between consciousness and the brain. The convergence of anti-materialist arguments might reflect our inability to grasp the physical explanation rather than the absence of one.
+[mysterianism](/concepts/mysterianism/) offers a more nuanced version of the common-cause objection. Colin McGinn argues that humans may be cognitively closed to the relationship between consciousness and the brain. The convergence of anti-materialist arguments might reflect our inability to grasp the physical explanation rather than the absence of one.
 
 This deserves serious engagement. If we are cognitively closed to the solution, we would expect exactly the pattern we observe: multiple attempts to think about consciousness-brain relations, each revealing an apparent gap, each gap reflecting our cognitive architecture rather than reality.
 

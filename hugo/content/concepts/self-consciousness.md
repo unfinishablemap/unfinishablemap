@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-02-25 15:22:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,7 +12,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[baseline-cognition]]'
 - '[[jourdain-hypothesis]]'
-- '[[the-unobservable-self]]'
+- '[[self-reference-paradox]]'
 - '[[galilean-exclusion]]'
 created: 2026-02-22
 date: &id001 2026-02-22
@@ -107,7 +107,7 @@ Self-consciousness connects to the Map's foundational commitments at multiple po
 - [self-and-consciousness](/concepts/self-and-consciousness/) — The minimal self as structural feature of consciousness
 - [introspection](/concepts/introspection/) — The practice of attending to one's own mental states
 - [metacognition](/concepts/metacognition/) — Monitoring cognition vs knowing that one monitors
-- [the-unobservable-self](/voids/self-reference-paradox/) — Why the observer cannot catch itself observing
+- [self-reference-paradox](/voids/self-reference-paradox/) — Why the observer cannot catch itself observing
 - [The Ownership Void](/voids/ownership-void/) — Why the for-me-ness of experience hides its own ground
 - [phenomenology-of-self-awareness](/voids/phenomenology-of-self-awareness/) — What self-reference feels like from the inside
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — Having mental states vs knowing you have them

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-11 15:33:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -10,10 +10,8 @@ concepts:
 - '[[agent-teleology]]'
 - '[[mental-causation]]'
 - '[[attention-as-interface]]'
-- '[[attention-motor-quantum-interface]]'
-- '[[dopamine-selection-interface]]'
-- '[[evolution-of-consciousness]]'
 - '[[motor-selection]]'
+- '[[evolution-of-consciousness]]'
 created: 2026-03-11
 date: &id001 2026-03-11
 description: How the Map's interface framework transforms biological teleology from

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-18 15:03:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,8 +19,7 @@ concepts:
 - '[[haecceity]]'
 - '[[jourdain-hypothesis]]'
 - '[[baseline-cognition]]'
-- '[[the-unobservable-self]]'
-- '[[temporal-consciousness]]'
+- '[[self-reference-paradox]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 description: The minimal self is not added to consciousness but is its very form.
@@ -63,7 +62,7 @@ Children don't develop full autonoetic consciousness until age 4-5, explaining c
 
 ## Metacognition and the Self
 
-[Metacognition](/concepts/metacognition/) and the minimal self must be carefully distinguished. Metacognition monitors conscious content; the minimal self is the first-person perspective that makes there be content to monitor.
+[metacognition](/concepts/metacognition/) and the minimal self must be carefully distinguished. Metacognition monitors conscious content; the minimal self is the first-person perspective that makes there be content to monitor.
 
 Empirical evidence shows they can come apart. In flow states, subjects report vivid phenomenal experience—consciousness with clear for-me-ness—while metacognitive self-monitoring recedes. Young children (before age 3-4) have phenomenal experiences without the metacognitive capacity to reflect on those experiences. These dissociations suggest the minimal self is more fundamental than metacognitive self-monitoring. (Blindsight involves information processing without phenomenal consciousness, illustrating that metacognition requires consciousness rather than demonstrating the minimal self operating without metacognition.) The [phenomenology of recursive thought](/topics/phenomenology-of-recursive-thought/) explores what happens when the minimal self takes its own awareness as object—generating a distinctive "doubled awareness" where one experiences being both observer and observed.
 
@@ -151,7 +150,7 @@ The filter theory interprets these findings coherently: the narrative self is co
 
 ## Further Reading
 
-- [the-unobservable-self](/voids/self-reference-paradox/) — Why the observing self cannot observe itself observing
+- [self-reference-paradox](/voids/self-reference-paradox/) — Why the observing self cannot observe itself observing
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — Having mental states vs knowing you have them
 - [cognitive-integration-and-the-self](/topics/cognitive-integration-and-the-self/) — How consciousness binds information across time and modality to constitute the integrative self
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist no-self and the Map's irreducibility thesis

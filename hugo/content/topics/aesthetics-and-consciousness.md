@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-17 01:15:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -64,9 +64,9 @@ related_articles:
 - '[[acquaintance-knowledge]]'
 - '[[phenomenology-of-musical-understanding]]'
 - '[[the-binding-problem-a-systematic-treatment]]'
-- '[[quantum-binding-and-phenomenal-unity]]'
+- '[[quantum-holism-and-phenomenal-unity]]'
 - '[[consciousness-and-creative-distinctiveness]]'
-- '[[consciousness-and-mathematical-creativity]]'
+- '[[consciousness-and-mathematical-cognition]]'
 - '[[creativity-void]]'
 - '[[consciousness-and-skilled-performance]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
@@ -159,7 +159,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — Parallel analysis for moral value
 - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) — The five standard varieties of phenomenal binding
 - [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/) — Why human creativity differs in kind from AI and animal creativity
-- [consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/) — Mathematical creativity as the sharpest case for consciousness as causal force
+- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Mathematical creativity as the sharpest case for consciousness as causal force
 - [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) — Temporal depth in musical aesthetic experience
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and what physical information leaves out
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Conceivability arguments for dualism
@@ -168,7 +168,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Why aesthetic knowledge requires experience
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — Why phenomenal properties resist physical reduction
 - [cognitive-closure](/concepts/cognitive-closure/) — Why the structure-experience gap may be permanent
-- [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Quantum approaches to the binding problem
+- [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Quantum approaches to the binding problem
 
 ## References
 

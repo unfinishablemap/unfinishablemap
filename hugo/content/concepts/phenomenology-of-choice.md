@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-12 00:20:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,7 +19,7 @@ concepts:
 - '[[haecceity]]'
 - '[[decoherence]]'
 - '[[quantum-indeterminacy-free-will]]'
-- '[[quantum-coherence-and-binding-evidence]]'
+- '[[quantum-neural-mechanisms-and-coherence]]'
 - '[[luck-objection]]'
 - '[[causal-interface]]'
 created: 2026-01-22
@@ -121,7 +121,7 @@ When choice feels effortful, frontal theta increases. When choice feels automati
 
 ## Deliberation and Duration
 
-Henri Bergson's concept of [durée](/concepts/temporal-consciousness/) illuminates deliberation. Choosing unfolds in lived time—qualitative duration where past and present interpenetrate—not spatialized clock-time. See [temporal-consciousness](/concepts/temporal-consciousness/) for how time-experience shapes what consciousness can do, and [temporal-phenomenology-quantum-selection](/concepts/temporal-consciousness/) for how the temporal structure of deliberation—holding open possibilities, settling on one—may be the experiential signature of quantum selection.
+Henri Bergson's concept of [durée](/concepts/temporal-consciousness/) illuminates deliberation. Choosing unfolds in lived time—qualitative duration where past and present interpenetrate—not spatialized clock-time. See [temporal-consciousness](/concepts/temporal-consciousness/) for how time-experience shapes what consciousness can do, and [temporal-consciousness](/concepts/temporal-consciousness/) for how the temporal structure of deliberation—holding open possibilities, settling on one—may be the experiential signature of quantum selection.
 
 Bergson argued that determinism treats mental states as discrete units causing each other mechanically. But in lived duration, mental states interpenetrate. Options don't sit statically waiting to be picked; they evolve through deliberation. What "option A" means changes as you consider option B. A free act emerges from the whole self—the full depth of one's lived duration—not from a chain of discrete events.
 

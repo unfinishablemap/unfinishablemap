@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-18 21:06:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -169,7 +169,6 @@ The Map's interpretation would face difficulty if:
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and how sleep evidence bears on it
 - [introspection](/concepts/introspection/) — First-person access and its reliability across states
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer that may persist through sleep yoga
-- [dream-consciousness](/topics/dream-consciousness/) — Lucid dreaming, problem-solving, and the filter model applied to dreams
 - [decoherence](/concepts/decoherence/) — Quantum Zeno mechanism and sleep state transitions
 - [haecceity](/concepts/haecceity/) — Indexical identity through the sleep-wake gap
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) — The sleep-onset transition as a window into interface modulation

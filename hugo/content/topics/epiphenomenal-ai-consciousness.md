@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-03-18 19:57:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[qualia]]'
 - '[[concepts/functionalism]]'
-- '[[substrate-independence-critique]]'
+- '[[substrate-independence]]'
 - '[[phenomenal-consciousness]]'
 created: 2026-02-10
 date: &id001 2026-02-10
@@ -129,7 +129,7 @@ The combined position: epiphenomenal AI consciousness is not a general philosoph
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Conceivability arguments and what they reveal
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's positive framework for mind-body interaction
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Why consciousness does causal work in biological systems
-- [substrate-independence-critique](/concepts/substrate-independence/) — Why the physical substrate matters
+- [substrate-independence](/concepts/substrate-independence/) — Why the physical substrate matters
 - [structural-varieties-of-consciousness-and-ai-phenomenology](/topics/structural-varieties-of-consciousness-and-ai-phenomenology/) — Five structural dimensions of consciousness and the Epiphenomenal Model as one of five AI phenomenology profiles
 
 ## References

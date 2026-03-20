@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-18 19:05:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -13,7 +13,7 @@ concepts:
 - '[[mental-causation]]'
 - '[[causal-closure]]'
 - '[[measurement-problem]]'
-- '[[psychophysical-coupling]]'
+- '[[psychophysical-laws]]'
 - '[[spontaneous-collapse-theories]]'
 - '[[retrocausality]]'
 - '[[collapse-and-time]]'
@@ -154,7 +154,7 @@ Selection is indeterminate from physics' perspective but determinate from the su
 
 ## Candidate Constraint Families
 
-What exactly can consciousness select? Four candidate coupling laws—attention-bounded, policy-level, basis-choice, and indexical selection—are developed in detail in [psychophysical-coupling](/concepts/psychophysical-laws/), where they are evaluated against the ~10 bits/second bandwidth constraint. The key distinction: selection ranges from choosing which observable to measure (Stapp's minimal Process 1) to selecting which outcome is experienced as "this one" (connecting to the Map's [No Many Worlds](/tenets/#no-many-worlds) tenet).
+What exactly can consciousness select? Four candidate coupling laws—attention-bounded, policy-level, basis-choice, and indexical selection—are developed in detail in [psychophysical-laws](/concepts/psychophysical-laws/), where they are evaluated against the ~10 bits/second bandwidth constraint. The key distinction: selection ranges from choosing which observable to measure (Stapp's minimal Process 1) to selecting which outcome is experienced as "this one" (connecting to the Map's [No Many Worlds](/tenets/#no-many-worlds) tenet).
 
 ## Relation to Site Perspective
 
@@ -208,7 +208,7 @@ The framework would face serious difficulty if:
 
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How selection integrates with imagination's generative role
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — ADHD, OCD, and meditation deficits reveal selection interface dysfunction
-- [psychophysical-coupling](/concepts/psychophysical-laws/) — Candidate coupling laws and bandwidth constraints
+- [psychophysical-laws](/concepts/psychophysical-laws/) — Candidate coupling laws and bandwidth constraints
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effort and Stapp's mechanism
 - [voluntary attention](/concepts/attention-as-interface/) — The willed/instructed distinction
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative evidence for awareness selecting content

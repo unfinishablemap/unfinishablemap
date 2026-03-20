@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-12 06:25:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -30,7 +30,7 @@ related_articles:
 - '[[tenets]]'
 - '[[phenomenal-consciousness]]'
 - '[[witness-consciousness]]'
-- '[[first-person-third-person-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 - '[[consciousness-only-territories]]'
 - '[[consciousness-and-the-problem-of-measurement-standards]]'
 title: Objectivity and Consciousness
@@ -53,7 +53,7 @@ Nagel's insight: there is no genuine view from nowhere, only the aspiration towa
 
 ## Objectivity Versus Intersubjectivity
 
-[Intersubjectivity](/concepts/intersubjectivity/) offers an alternative to the view from nowhere. Where objectivity eliminates perspective to achieve perspective-free description, intersubjectivity retains perspective while discovering convergence across different viewpoints.
+[intersubjectivity](/concepts/intersubjectivity/) offers an alternative to the view from nowhere. Where objectivity eliminates perspective to achieve perspective-free description, intersubjectivity retains perspective while discovering convergence across different viewpoints.
 
 When you describe your experience of pain and I recognize the description as matching my own, we achieve intersubjective agreement. Neither of us abandoned first-person access; we found common ground *within* subjectivity. The distinction matters because intersubjectivity might succeed where objectivity fails. Phenomenal consciousness resists the view from nowhere—but multiple conscious perspectives can converge on its features.
 
@@ -160,7 +160,7 @@ The limits of objectivity are not defects to overcome but features of reality it
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why objective description leaves out phenomenal character
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual chasm between physical and phenomenal description
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of human understanding
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — The methodological debate this article addresses
+- [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — The methodological debate this article addresses
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — What it's like to be conscious
 - [heterophenomenology](/concepts/heterophenomenology/) — Dennett's third-person methodology
 - [neurophenomenology](/concepts/neurophenomenology/) — Varela's mutual constraints approach
@@ -170,7 +170,6 @@ The limits of objectivity are not defects to overcome but features of reality it
 - [argument-from-reason](/topics/argument-from-reason/) — Why rational thought requires irreducible mental causation
 - [qualia](/concepts/qualia/) — The intrinsic subjective qualities that objective description cannot capture
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and why complete physical knowledge leaves out phenomenal facts
-- [cognitive closure](/concepts/mysterianism/) — McGinn's thesis on the permanent limits of human understanding
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Knowledge domains accessible only through phenomenal experience
 - [constitutive-exclusion](/topics/constitutive-exclusion/) — Why consciousness cannot access reality independent of its own constitutive contribution
 

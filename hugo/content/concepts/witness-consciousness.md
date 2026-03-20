@@ -1,11 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-13 23:30:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[the-unobservable-self]]'
+- '[[self-reference-paradox]]'
 - '[[buddhism-and-dualism]]'
 - '[[self-and-consciousness]]'
 - '[[introspection]]'
@@ -192,7 +192,7 @@ What contemplatives discovered through sustained practice, phenomenology articul
 
 ## Further Reading
 
-- [the-unobservable-self](/voids/self-reference-paradox/) — Why the observing self cannot observe itself
+- [self-reference-paradox](/voids/self-reference-paradox/) — Why the observing self cannot observe itself
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Irreducibility without permanence
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Minimal phenomenal experience
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) — Sleep-onset phenomenology and the witness during interface transitions

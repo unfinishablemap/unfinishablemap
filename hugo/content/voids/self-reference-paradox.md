@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-19 02:21:06+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -37,7 +37,7 @@ related_articles:
 - '[[limits-reveal-structure]]'
 - '[[whether-real]]'
 - '[[destabilizing-self-knowledge]]'
-- '[[calibration-void]]'
+- '[[measurement-void]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[absorption-void]]'
 - '[[narrative-void]]'
@@ -76,7 +76,7 @@ Thomas Metzinger argues consciousness is the content of a "transparent self-mode
 
 ## The Calibration Problem
 
-How reliable is [introspection](/concepts/introspection/)? Nisbett and Wilson showed subjects systematically misidentify factors influencing their decisions—confabulation dressed as self-knowledge. But evaluating introspection's reliability requires using introspection. The [calibration-void](/voids/measurement-void/) explores whether this circularity is structural or methodological. The [narrative-void](/voids/narrative-void/) complicates matters further: introspective accounts pass through confabulation-prone narrative construction, so even the phenomenology of "searching for the self" may be partly narrated.
+How reliable is [introspection](/concepts/introspection/)? Nisbett and Wilson showed subjects systematically misidentify factors influencing their decisions—confabulation dressed as self-knowledge. But evaluating introspection's reliability requires using introspection. The [measurement-void](/voids/measurement-void/) explores whether this circularity is structural or methodological. The [narrative-void](/voids/narrative-void/) complicates matters further: introspective accounts pass through confabulation-prone narrative construction, so even the phenomenology of "searching for the self" may be partly narrated.
 
 ## Why the Hard Problem Is Hard
 

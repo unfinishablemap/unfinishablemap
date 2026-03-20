@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-03-15 07:10:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -12,7 +12,6 @@ concepts:
 - '[[higher-order-theories]]'
 - '[[self-reference-paradox]]'
 - '[[witness-consciousness]]'
-- '[[the-unobservable-self]]'
 - '[[phenomenology]]'
 - '[[downward-causation]]'
 - '[[temporal-consciousness]]'
@@ -59,7 +58,7 @@ This collapse isn't mere cognitive fatigue. It reveals something about the struc
 
 When I think about the tree, there is a clean division: I am the subject, the tree is the object. When I think about my thinking, this division blurs. The thought I am examining was just now the subject doing the thinking, and the thought now examining it will shortly become an object for further examination.
 
-This temporal asymmetry has phenomenal consequences. The thought I catch is always already past—by the time I observe it, a new observing-thought has taken its place. As [the-unobservable-self](/voids/self-reference-paradox/) elaborates, the observer cannot observe itself in the act of observing. We find only what observation has produced, never observation itself producing.
+This temporal asymmetry has phenomenal consequences. The thought I catch is always already past—by the time I observe it, a new observing-thought has taken its place. As [self-reference-paradox](/voids/self-reference-paradox/) elaborates, the observer cannot observe itself in the act of observing. We find only what observation has produced, never observation itself producing.
 
 David Hume put it empirically: "I can never catch myself at any time without a perception." We find thoughts, feelings, memories—contents of consciousness but never the consciousness containing them. When we look for the looker, we find only more looking.
 
@@ -144,7 +143,6 @@ The phenomenology of recursive thought suggests several conclusions:
 ## Further Reading
 
 - [self-reference-paradox](/voids/self-reference-paradox/) — The structural limits of consciousness examining itself
-- [the-unobservable-self](/voids/self-reference-paradox/) — Why the observer cannot observe itself observing
 - [metacognition](/concepts/metacognition/) — The cognitive capacity distinct from phenomenal recursion (including metarepresentation)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking itself has phenomenal character
 - [higher-order-theories](/concepts/higher-order-theories/) — Theories that make recursion central to consciousness

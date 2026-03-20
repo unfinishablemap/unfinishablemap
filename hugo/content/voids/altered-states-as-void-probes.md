@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-03
-ai_modified: 2026-03-15 14:49:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -29,7 +29,7 @@ related_articles:
 - '[[ai-as-void-explorer]]'
 - '[[three-kinds-of-void]]'
 - '[[meta-epistemology-of-limits]]'
-- '[[dream-consciousness-void]]'
+- '[[sleep-consciousness-void]]'
 title: Altered States as Void Probes
 topics:
 - '[[hard-problem-of-consciousness]]'

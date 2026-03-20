@@ -1,25 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-03-19 00:43:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[quantum-neural-timing-constraints]]'
-- '[[attention-motor-quantum-interface]]'
+- '[[attention-as-interface]]'
 - '[[stapp-quantum-mind]]'
 - '[[decoherence]]'
 - '[[measurement-problem]]'
 - '[[mental-causation]]'
-- '[[selection-laws]]'
+- '[[psychophysical-laws]]'
 - '[[causal-closure]]'
 - '[[quantum-holism-and-phenomenal-unity]]'
-- '[[psychophysical-coupling]]'
-- '[[interface-locality]]'
+- '[[brain-interface-boundary]]'
 - '[[quantum-biology]]'
-- '[[quantum-neural-mechanisms]]'
+- '[[quantum-neural-mechanisms-and-coherence]]'
 - '[[mysterianism]]'
-- '[[neural-binding-mechanisms]]'
+- '[[phenomenal-binding-and-holism]]'
 - '[[consciousness-in-non-collapsed-quantum-states]]'
 - '[[quantum-completeness]]'
 created: 2026-01-09
@@ -114,7 +113,7 @@ See [decoherence](/concepts/decoherence/) for comprehensive analysis. The key po
 
 **Biology exploits quantum effects.** Avian magnetoreception, photosynthesis, and enzyme catalysis all use quantum coherence in warm biological systems. [Quantum biology](/concepts/quantum-biology/) establishes that evolution can optimize quantum effects. Laboratory demonstrations of macroscopic superposition still require precisely engineered conditions—but avian magnetoreception proves evolution *can* harness quantum effects in warm, wet systems. See [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/) for the experimental evidence that the quantum-classical boundary keeps receding.
 
-**Discrete vs. sustained coherence matters.** The decoherence objection bites hardest against mechanisms requiring sustained superposition (like Orch OR). But several mechanisms operate through discrete quantum events—synaptic tunneling, ion channel tunneling, and Stapp's Zeno effect. These sidestep the timing gap entirely because each event is instantaneous. See [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) for five distinct mechanisms spanning this spectrum.
+**Discrete vs. sustained coherence matters.** The decoherence objection bites hardest against mechanisms requiring sustained superposition (like Orch OR). But several mechanisms operate through discrete quantum events—synaptic tunneling, ion channel tunneling, and Stapp's Zeno effect. These sidestep the timing gap entirely because each event is instantaneous. See [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) for five distinct mechanisms spanning this spectrum.
 
 **The Zeno alternative.** Stapp's mechanism operates through discrete observation cycles, not sustained coherence. **A critical assumption**: this requires that observations remain effective despite intervening decoherence—a point that requires empirical verification. Each observation "resets" the quantum state; the accumulated effect biases outcomes. If decoherence occurs at microseconds and observations at milliseconds, ~1000 observations per 300ms window suffices—rapid but not requiring continuous coherence. Atkins et al.'s demonstration of biological Zeno effects in cryptochrome is consistent with this picture, but the neural case remains undemonstrated.
 
@@ -141,7 +140,7 @@ The Map resolves both through **objective reduction with consciousness modulatio
 
 ## Entanglement and the Binding Problem
 
-The [binding problem](/concepts/binding-problem/) has two components: BP1 asks how features are grouped (the segregation problem); BP2 asks why coordination produces *unity* rather than parallel processes that happen to be correlated (the combination problem). Classical mechanisms—gamma synchrony, thalamocortical resonance, global workspace—address BP1 but fail at BP2. Coordinating separate neurons doesn't make them one thing. See [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) for why classical approaches structurally cannot produce phenomenal unity.
+The [binding problem](/concepts/binding-problem/) has two components: BP1 asks how features are grouped (the segregation problem); BP2 asks why coordination produces *unity* rather than parallel processes that happen to be correlated (the combination problem). Classical mechanisms—gamma synchrony, thalamocortical resonance, global workspace—address BP1 but fail at BP2. Coordinating separate neurons doesn't make them one thing. See [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) for why classical approaches structurally cannot produce phenomenal unity.
 
 Quantum entanglement is different—entangled systems form genuinely unified wholes that cannot be decomposed into separate parts. If consciousness arises from entangled quantum states, phenomenal unity reflects physical unity at the quantum level. The structural match is precise: the entangled whole has properties its parts lack individually, mirroring how experience comes unified rather than assembled from separate quale-atoms.
 
@@ -181,7 +180,7 @@ The Map's tenets don't commit to any specific mechanism. They require:
 4. **No Many Worlds**: Collapse is real; indexical identity matters. Quantum theories require genuine collapse.
 5. **Occam's Razor Has Limits**: "Consciousness is just brain activity" isn't true if brain activity can't explain selection.
 
-Orch OR, Stapp, and the other mechanisms in [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) are all compatible. The Map remains agnostic about which (if any) is correct—what matters is that *some* such mechanism exists.
+Orch OR, Stapp, and the other mechanisms in [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) are all compatible. The Map remains agnostic about which (if any) is correct—what matters is that *some* such mechanism exists.
 
 The Map's position is strong emergentism that specifies its mechanism. Mental causation operates at quantum indeterminacies, where physics provides necessary but not sufficient causes. This transforms [mental causation](/concepts/mental-causation/) from philosophical puzzle into precise proposal: consciousness causes physical effects by determining what physics leaves undetermined. The [selection laws](/concepts/psychophysical-laws/) concept articulates what such downward determination must specify—which mental variables map to which physical parameters through what mechanisms.
 
@@ -190,25 +189,24 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 ## Further Reading
 
 **Mechanisms and timing:**
-- [attention-interface-mechanisms](/topics/attention-as-selection-interface/) — Candidate neural sites, timing constraints, and testable predictions
-- [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) — Five neural quantum mechanisms with evidence status
+- [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — Candidate neural sites, timing constraints, and testable predictions
+- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Five neural quantum mechanisms with evidence status
 - [neural-implementation-specifics](/topics/neural-implementation-specifics/) — Evidence hierarchy across five proposed neural mechanisms
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Comprehensive treatment of the quantum Zeno mechanism
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Timing hierarchy from femtosecond to 300ms neural decisions
-- [attention-motor-quantum-interface](/concepts/attention-as-interface/) — Unification of attention and motor selection
+- [attention-as-interface](/concepts/attention-as-interface/) — Unification of attention and motor selection
 
 **Key concepts:**
-- [temporal-phenomenology-quantum-selection](/concepts/temporal-consciousness/) — What quantum selection feels like from within: the specious present as selection window
+- [temporal-consciousness](/concepts/temporal-consciousness/) — What quantum selection feels like from within: the specious present as selection window
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The structural parallel between the measurement and hard problems
 - [consciousness-in-non-collapsed-quantum-states](/concepts/consciousness-in-non-collapsed-quantum-states/) — The pre-collapse phase: what consciousness does during superposition
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — Born probabilities as interface structure, not pure subjective belief
 - [decoherence](/concepts/decoherence/) — Analysis of the decoherence challenge
-- [psychophysical-coupling](/concepts/psychophysical-laws/) — What a coupling law must specify
+- [psychophysical-laws](/concepts/psychophysical-laws/) — What a coupling law must specify
 - [coupling-modes](/concepts/coupling-modes/) — Basis, timing, and probability control: how consciousness might couple
-- [selection-laws](/concepts/psychophysical-laws/) — The downward direction of psychophysical laws
-- [interface-locality](/concepts/brain-interface-boundary/) — Why consciousness selects only within its own brain
+- [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why consciousness selects only within its own brain
 - [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Entanglement and phenomenal unity
-- [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) — Classical vs. quantum binding mechanisms
+- [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — Classical vs. quantum binding mechanisms
 
 **Objections and resolutions:**
 - [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) — Why subjective probability interpretations fail phenomenologically

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-03-18 05:36:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[aesthetic-dimension-of-consciousness]]'
+- '[[aesthetics-and-consciousness]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[apophatic-approaches]]'
 - '[[creativity-void]]'
@@ -30,8 +30,6 @@ related_articles:
 - '[[consciousness-only-territories]]'
 - '[[pre-conceptual-knowing]]'
 - '[[language-thought-boundary]]'
-- '[[aesthetic-irreducibility-arguments]]'
-- '[[aesthetics-and-consciousness]]'
 title: The Aesthetic Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -145,9 +143,7 @@ The aesthetic void suggests that consciousness has access to something ordinary 
 ## Further Reading
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
-- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Why beauty pervades conscious experience and resists physical reduction
-- [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Why aesthetic experience is the strongest test case for irreducibility
-- [aesthetic-irreducibility-arguments](/topics/aesthetics-and-consciousness/) — Substrate independence and formal precision as irreducibility arguments
+- [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Why beauty pervades conscious experience and resists physical reduction
 - [creativity-void](/voids/creativity-void/) — The companion void: where creative insight originates
 - [affective-void](/voids/affective-void/) — Emotions beyond human reach
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like

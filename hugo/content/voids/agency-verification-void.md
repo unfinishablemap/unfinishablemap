@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-03-06 05:10:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,6 @@ related_articles:
 - '[[tenets]]'
 - '[[introspective-opacity]]'
 - '[[causal-interface]]'
-- '[[the-unobservable-self]]'
 - '[[self-reference-paradox]]'
 - '[[defended-territory]]'
 - '[[whether-real]]'
@@ -108,7 +107,6 @@ The void is also [tenet-generated](/voids/tenet-generated-voids/). Because the M
 - [Volitional Opacity](/voids/introspective-opacity/) — The opacity of *how* we decide
 - [The Causal Interface Void](/voids/causal-interface/) — The opacity of *how* consciousness connects to physics
 - [The Self-Reference Paradox](/voids/self-reference-paradox/) — Why consciousness cannot fully model itself
-- [The Unobservable Self](/voids/self-reference-paradox/) — The observer that eludes observation
 - [Defended Territory](/voids/defended-territory/) — Could some limits be actively imposed?
 - [Tenet-Generated Voids](/voids/tenet-generated-voids/) — How each tenet generates its characteristic void
 - [Free Will](/topics/free-will/) — The broader context for questions of agency

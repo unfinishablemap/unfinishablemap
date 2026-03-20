@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-12 03:38:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ last_curated: null
 last_deep_review: 2026-03-12 03:38:00+00:00
 modified: *id001
 related_articles:
-- '[[first-person-third-person-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 - '[[witness-consciousness]]'
 - '[[epistemology-of-other-minds-under-dualism]]'
 - '[[tenets]]'
@@ -115,7 +115,7 @@ Several limits constrain intersubjective knowledge:
 
 **Contingency of the boundary.** Unusual cases suggest the privacy of consciousness may be partially contingent rather than absolutely constitutive. Conjoined twins Krista and Tatiana Hogan share a thalamic bridge—neural tissue connecting their thalami. Reports suggest partial sharing of sensory experience: one twin may taste what the other eats. If accurate, this challenges the absolute privacy of consciousness. Brain-computer interface research raises similar questions in principle. These cases don't eliminate the [void between minds](/voids/other-minds-void/) but suggest its boundaries may be more complex than simple introspection reveals—elements of the unexplored alongside the structurally unexplorable.
 
-**Methodological alternatives.** [Heterophenomenology](/concepts/heterophenomenology/)—Daniel Dennett's third-person method—proposes studying consciousness through verbal reports while bracketing whether phenomenology is real. On this view, intersubjective agreement establishes only what subjects *claim* to experience, not what they actually experience. The Map rejects heterophenomenology's framing: if phenomenal consciousness is real (as the Dualism tenet holds), then intersubjective access is access to genuine phenomenology, not merely to reports about phenomenology. But the methodological debate remains live, and intersubjective evidence alone cannot resolve it.
+**Methodological alternatives.** [heterophenomenology](/concepts/heterophenomenology/)—Daniel Dennett's third-person method—proposes studying consciousness through verbal reports while bracketing whether phenomenology is real. On this view, intersubjective agreement establishes only what subjects *claim* to experience, not what they actually experience. The Map rejects heterophenomenology's framing: if phenomenal consciousness is real (as the Dualism tenet holds), then intersubjective access is access to genuine phenomenology, not merely to reports about phenomenology. But the methodological debate remains live, and intersubjective evidence alone cannot resolve it.
 
 ## Relation to Site Perspective
 
@@ -129,7 +129,7 @@ A clarification is warranted. Phenomenological realism does not by itself entail
 
 **Occam's Razor Has Limits.** The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) warns against dismissing consciousness as an unnecessary hypothesis. Intersubjectivity complicates eliminativist arguments: the rich, cross-cultural vocabulary for inner experience is evidence that something real is being described. Dismissing phenomenology as illusory requires explaining why humans universally develop frameworks for accessing it intersubjectively. The simpler hypothesis: consciousness exists and is intersubjectively accessible.
 
-Intersubjectivity also connects to methodology. The [first-person/third-person divide](/topics/first-person-third-person-methodology/) in consciousness science is partially bridged by second-person methods that leverage intersubjectivity. [Neurophenomenology](/concepts/neurophenomenology/)'s mutual constraint framework depends on intersubjective validity—phenomenological findings must be communicable and corroborable across different investigators. Without intersubjectivity, first-person methods would be irreducibly private and scientifically inaccessible.
+Intersubjectivity also connects to methodology. The [first-person/third-person divide](/topics/methodology-of-consciousness-research/) in consciousness science is partially bridged by second-person methods that leverage intersubjectivity. [neurophenomenology](/concepts/neurophenomenology/)'s mutual constraint framework depends on intersubjective validity—phenomenological findings must be communicable and corroborable across different investigators. Without intersubjectivity, first-person methods would be irreducibly private and scientifically inaccessible.
 
 ## Further Reading
 
@@ -139,7 +139,7 @@ Intersubjectivity also connects to methodology. The [first-person/third-person d
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Systematic contemplative practice as a knowledge source, grounding the contemplative evidence discussed here
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) — The "view from nowhere" and its limits; objectivity as intersubjective agreement
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemological puzzle that intersubjectivity addresses
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — How intersubjectivity bridges methodological perspectives
+- [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — How intersubjectivity bridges methodological perspectives
 - [neurophenomenology](/concepts/neurophenomenology/) — Varela's mutual constraint framework grounded in intersubjective corroboration
 - [heterophenomenology](/concepts/heterophenomenology/) — Dennett's third-person approach that brackets intersubjective access to phenomenology
 - [phenomenology](/concepts/phenomenology/) — Classical first-person methods and their intersubjective validation

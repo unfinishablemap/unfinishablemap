@@ -1,12 +1,10 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-04
-ai_modified: 2026-03-01 13:54:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[attention-motor-quantum-interface]]'
-- '[[dopamine-selection-interface]]'
 - '[[attention-as-interface]]'
 - '[[motor-selection]]'
 - '[[quantum-consciousness]]'
@@ -32,7 +30,7 @@ topics:
 
 Why does one molecule—dopamine—mediate both the anticipation of reward and the initiation of movement? The standard answer treats this as evolutionary convenience: wanting and pursuing typically go together, so coupling them is efficient. The Unfinishable Map proposes a deeper explanation: dopamine serves both functions because attention and motor planning are the same system, and dopamine prepares this unified system for conscious selection rather than performing the selection itself.
 
-The [attention-motor-quantum-interface](/concepts/attention-as-interface/) is where consciousness may select among possibilities, with dopamine setting the conditions for that selection. This article examines what dopamine research reveals about the unified interface hypothesis. The evidence suggests that dopamine does not cause selection but rather prepares the system for selection to occur—marking what matters, setting thresholds, and creating the neural conditions in which conscious choice could operate.
+The [attention-as-interface](/concepts/attention-as-interface/) is where consciousness may select among possibilities, with dopamine setting the conditions for that selection. This article examines what dopamine research reveals about the unified interface hypothesis. The evidence suggests that dopamine does not cause selection but rather prepares the system for selection to occur—marking what matters, setting thresholds, and creating the neural conditions in which conscious choice could operate.
 
 ## The Salience Bridge
 
@@ -214,10 +212,8 @@ What dopamine research provides is a candidate locus and a constraint: whatever 
 
 ## Further Reading
 
-- [attention-motor-quantum-interface](/concepts/attention-as-interface/) — The broader framework for the unified interface
-- [dopamine-selection-interface](/concepts/motor-selection/) — Technical details on dopamine's role in selection
-- [motor-selection](/concepts/motor-selection/) — Motor selection mechanisms
-- [voluntary attention](/concepts/attention-as-interface/) — The neural basis of willed attention
+- [attention-as-interface](/concepts/attention-as-interface/) — The broader framework for the unified interface
+- [motor-selection](/concepts/motor-selection/) — Technical details on dopamine's role in selection
 - [free-will](/topics/free-will/) — The broader philosophical question
 - [mental-effort](/concepts/mental-effort/) — Why selection feels effortful
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum mechanisms for consciousness-brain interaction

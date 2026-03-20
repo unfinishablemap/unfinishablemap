@@ -42,7 +42,7 @@ The structural parallel between the measurement problem and hard problem—both 
 
 The Map centers first-person experience throughout while avoiding the slide into subjectivism. The [vertiginous-question](/topics/vertiginous-question/) captures Nagel's fundamental insight: even complete third-person knowledge would leave indexical questions unanswered. Why am I *this* particular conscious being rather than another or none at all?
 
-The [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) provides rigorous treatment of the methodological divide. The critique of Dennett's heterophenomenology is particularly well-executed—showing how "methodological neutrality" functions as ontological commitment. The Map correctly identifies that treating first-person reports as "mere behavior" begs the question against phenomenal realism.
+The [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) provides rigorous treatment of the methodological divide. The critique of Dennett's heterophenomenology is particularly well-executed—showing how "methodological neutrality" functions as ontological commitment. The Map correctly identifies that treating first-person reports as "mere behavior" begs the question against phenomenal realism.
 
 The contemplative evidence framework—treating trained introspective reports as genuine data that can discriminate between theories—advances beyond mere assertion of phenomenological authority. The Map acknowledges that introspection is fallible while arguing that disciplined phenomenological inquiry, especially when convergent across observers, constitutes genuine evidence.
 

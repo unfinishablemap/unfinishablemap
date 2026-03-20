@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-03-18 05:14:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -18,7 +18,7 @@ concepts:
 - '[[dualism]]'
 - '[[haecceity]]'
 - '[[witness-consciousness]]'
-- '[[aesthetic-dimension-of-consciousness]]'
+- '[[aesthetics-and-consciousness]]'
 created: 2026-01-16
 date: &id001 2026-03-12
 description: The view that phenomenal experiences carry intrinsic normative force—pain's
@@ -170,7 +170,7 @@ Phenomenal normativity would face pressure if:
 - [qualia](/concepts/qualia/) — The qualitative features of experience
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — Valence as the felt quality of emotions
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — How phenomenal normativity manifests across moral, epistemic, aesthetic, and prudential domains
-- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Aesthetic normativity beyond hedonic valence
+- [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Aesthetic normativity beyond hedonic valence
 - [meaning-of-life](/topics/meaning-of-life/) — How consciousness grounds meaning
 - [experiential-alignment](/concepts/experiential-alignment/) — Operationalizing phenomenal normativity for AI alignment
 - [introspection](/concepts/introspection/) — First-person access to phenomenal states

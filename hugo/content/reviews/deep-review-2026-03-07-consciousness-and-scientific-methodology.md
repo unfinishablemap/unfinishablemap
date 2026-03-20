@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-07
-**Article**: [Consciousness and Scientific Methodology](/topics/consciousness-and-scientific-methodology/)
+**Article**: [Consciousness and Scientific Methodology](/topics/methodology-of-consciousness-research/)
 **Previous review**: [2026-03-05](/reviews/deep-review-2026-03-05-consciousness-and-scientific-methodology/)
 **Context**: Cross-review considering phenomenology-of-scientific-discovery insights
 

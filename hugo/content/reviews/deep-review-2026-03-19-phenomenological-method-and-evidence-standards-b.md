@@ -48,8 +48,8 @@ topics: []
   3. [heterophenomenology](/concepts/heterophenomenology/) — Added reference in vs. Classical Phenomenology section
   4. [neurophenomenology](/concepts/neurophenomenology/) — Added reference in Varela's Method section
   5. [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/) — Added reference in Evidential Status Problem section
-  6. [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — Added reference in Neurophenomenology section
-  7. [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/) — Added reference in adequate methodology section
+  6. [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) — Added reference in Neurophenomenology section
+  7. [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/) — Added reference in adequate methodology section
 
 ### Cross-links Added (inbound to article)
 - From [phenomenological-evidence](/concepts/phenomenological-evidence/) — body text link
@@ -57,8 +57,8 @@ topics: []
 - From [heterophenomenology](/concepts/heterophenomenology/) — body text link
 - From [neurophenomenology](/concepts/neurophenomenology/) — body text link
 - From [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/) — body text link
-- From [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — body text link
-- From [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/) — body text link
+- From [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) — body text link
+- From [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/) — body text link
 
 Note: [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) already lists this article in its related_articles frontmatter.
 

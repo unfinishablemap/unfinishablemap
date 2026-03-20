@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-03-14 06:21:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,6 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[self-reference-paradox]]'
-- '[[the-unobservable-self]]'
 - '[[defended-territory]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[thoughts-that-slip-away]]'
@@ -181,7 +180,6 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 
 - [Voids in the Map](/voids/) — The broader framework for cognitive limits
 - [The Unobservable Self](/voids/self-reference-paradox/) — The observer that cannot observe itself
-- [The Self-Reference Paradox](/voids/self-reference-paradox/) — Formal limits on self-understanding
 - [Defended Territory](/voids/defended-territory/) — Active blocking of cognitive access
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — The phenomenology of slippage
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — Limit-experiences across traditions

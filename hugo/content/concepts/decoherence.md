@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-15 04:45:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -12,15 +12,13 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[locality]]'
 - '[[measurement-problem]]'
-- '[[quantum-coherence-and-binding-evidence]]'
+- '[[quantum-neural-mechanisms-and-coherence]]'
 - '[[illusionism]]'
 - '[[attention-as-interface]]'
 - '[[process-philosophy]]'
 - '[[phenomenal-consciousness]]'
 - '[[quantum-neural-timing-constraints]]'
 - '[[stapp-quantum-mind]]'
-- '[[quantum-neural-mechanisms]]'
-- '[[quantum-neural-mechanisms-and-coherence]]'
 - '[[quantum-biology]]'
 - '[[physics-as-disclosure]]'
 - '[[bi-aspectual-ontology]]'

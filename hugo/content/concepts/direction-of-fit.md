@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-05 06:39:57+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ related_articles:
 - '[[tenets]]'
 title: Direction of Fit
 topics:
-- '[[consciousness-and-aesthetic-creation]]'
+- '[[aesthetics-and-consciousness]]'
 - '[[placebo-effect-and-mental-causation]]'
 - '[[temporal-structure-of-consciousness]]'
 ---
@@ -114,7 +114,7 @@ The argument that direction of fit supports dualism and bidirectional interactio
 
 - [intentionality](/concepts/intentionality/) — The broader phenomenon of mental directedness that direction of fit classifies
 - [agent-causation](/concepts/agent-causation/) — How agents exercise world-to-mind causal power
-- [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/) — Direction of fit in artistic creation, where the reversal from appreciation to creation makes causation explicit
+- [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Direction of fit in artistic creation, where the reversal from appreciation to creation makes causation explicit
 - [mental-causation](/concepts/mental-causation/) — The problem direction of fit helps frame
 - [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) — Empirical evidence that belief content drives physiological outcomes
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — Intentions' inherent temporal directedness connects direction of fit to temporal consciousness

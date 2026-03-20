@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-03-12 00:03:00+00:00
+ai_modified: 2026-03-20 03:47:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,6 +16,7 @@ concepts:
 - '[[functionalism]]'
 - '[[conceivability-possibility-inference]]'
 - '[[philosophical-zombies]]'
+- '[[parsimony-epistemology]]'
 created: 2026-02-22
 date: &id001 2026-02-22
 description: Reductionism succeeds across science—temperature, life, heredity all
@@ -24,11 +25,13 @@ description: Reductionism succeeds across science—temperature, life, heredity 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-23 01:43:00+00:00
+last_deep_review: 2026-03-20 03:47:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[reductionism-consciousness-philosophy-2026-01-19]]'
+- '[[limits-of-parsimony-in-consciousness-science]]'
+- '[[consciousness-and-the-structure-of-scientific-revolutions]]'
 title: Reductionism and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -121,7 +124,7 @@ The Unfinishable Map's [Dualism tenet](/tenets/#dualism) asserts that consciousn
 
 The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) addresses the causal consequence. If consciousness is irreducible, the exclusion argument (Kim 2005) demands either reduction or epiphenomenalism. The Map escapes this dilemma by denying [causal closure](/concepts/causal-closure/) at quantum indeterminacies—consciousness acts where physics is genuinely incomplete, biasing outcomes without competing with physical causes.
 
-The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) confronts the parsimony objection directly. Reductionism appears simpler—one substance instead of two. But the history of science shows that apparent simplicity regularly masks ignorance. The "simple" geocentric model, the "simple" continuous matter hypothesis, the "simple" deterministic universe—all lost to more complex truths. If consciousness is categorically different from everything else reductionism handles, the simpler theory is simply wrong.
+The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) confronts the parsimony objection directly. Reductionism appears simpler—one substance instead of two. But as [parsimony-epistemology](/concepts/parsimony-epistemology/) demonstrates, "simplicity" is not one property but several—ontological, syntactic, explanatory—and they yield contradictory verdicts. Physicalism wins on ontological parsimony (one substance type) but loses on explanatory simplicity: it must treat consciousness as a brute fact about physical arrangements, while dualism provides a reason for experience to exist. More fundamentally, the parsimony argument requires that physicalism and dualism explain consciousness equally well. They do not. The transparency test failure catalogued here is precisely the precondition failure that the Map's [parsimony analysis](/topics/limits-of-parsimony-in-consciousness-science/) identifies as fatal to the entire strategy: if reductionism leaves consciousness opaque in a way it leaves nothing else opaque, the theories are not explanatory equals, and parsimony cannot serve as a tie-breaker.
 
 ## Further Reading
 
@@ -133,8 +136,11 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) confronts the parsi
 - [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/) — Whether conceivability entails metaphysical possibility
 - [emergence](/concepts/emergence/) — Strong emergence as the framework for irreducible properties
 - [materialism](/concepts/materialism/) — The view reductionism about consciousness underwrites
+- [parsimony-epistemology](/concepts/parsimony-epistemology/) — Why "simplicity" fragments into conflicting dimensions
+- [limits-of-parsimony-in-consciousness-science](/topics/limits-of-parsimony-in-consciousness-science/) — The concrete evidence against parsimony in the consciousness debate
 - [Against Materialism](/arguments/materialism-argument/) — The systematic argument from hard problem through quantum indeterminacy
 - [causal-closure](/concepts/causal-closure/) — The principle reductionists assume and the Map denies at quantum level
+- [consciousness-and-the-structure-of-scientific-revolutions](/topics/consciousness-and-the-structure-of-scientific-revolutions/) — Kuhnian analysis of physicalism as a paradigm in crisis
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain asymbolia as empirical evidence against reduction, with phenomenal character inseparable from causal power
 
 ## References

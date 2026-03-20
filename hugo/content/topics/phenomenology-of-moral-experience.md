@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-03-18 15:28:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -16,7 +16,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[phenomenology]]'
 - '[[illusionism]]'
-- '[[aesthetic-dimension-of-consciousness]]'
+- '[[aesthetics-and-consciousness]]'
 - '[[moral-phenomenology-and-perception]]'
 - '[[phenomenal-normativity]]'
 - '[[normative-phenomenology]]'
@@ -198,7 +198,7 @@ The phenomenology of moral experience connects to the Map's [foundational commit
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — The shared phenomenal architecture of moral, epistemic, aesthetic, and prudential demands
 - [normative-phenomenology](/concepts/normative-phenomenology/) — First-person investigation of normative experience broadly
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — Valence as the felt quality of emotion
-- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Why aesthetic experience resists reduction
+- [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Why aesthetic experience resists reduction
 - [normative-void](/voids/normative-void/) — Cognitive limits on moral knowledge
 - [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds moral desert
 - [introspection](/concepts/introspection/) — First-person access to phenomenal states

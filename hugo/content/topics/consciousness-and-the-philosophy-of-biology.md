@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-01 05:47:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,7 +31,7 @@ related_articles:
 - '[[reductionism-and-consciousness]]'
 - '[[explanatory-gap]]'
 - '[[downward-causation]]'
-- '[[selection-laws]]'
+- '[[psychophysical-laws]]'
 - '[[biological-teleology-and-the-interface-framework]]'
 title: Consciousness and the Philosophy of Biology
 topics:

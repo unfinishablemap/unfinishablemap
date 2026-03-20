@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-18 19:05:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,9 +11,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[psychophysical-laws]]'
-- '[[psychophysical-coupling]]'
 - '[[attention-as-interface]]'
-- '[[selection-laws]]'
 - '[[asymmetric-bandwidth-consciousness]]'
 - '[[epiphenomenalism]]'
 created: 2026-02-23
@@ -129,7 +127,6 @@ The bandwidth problem also differs from the [binding problem](/concepts/binding-
 - [downward-causation](/concepts/downward-causation/) — The broader framework for mental-to-physical causation
 - [mental-causation](/concepts/mental-causation/) — The philosophical problem of how mind affects body
 - [psychophysical-laws](/concepts/psychophysical-laws/) — The coupling laws the bandwidth problem constrains
-- [selection-laws](/concepts/psychophysical-laws/) — Laws governing the downward direction of mind-body interaction
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the selection channel through which consciousness operates
 - [resolution-void](/voids/resolution-void/) — The broader resolution gap between brain processing and conscious access
 

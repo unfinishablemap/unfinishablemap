@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-15 01:45:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,9 +24,8 @@ related_articles:
 - '[[three-kinds-of-void]]'
 - '[[origin-of-consciousness]]'
 - '[[self-reference-paradox]]'
-- '[[the-unobservable-self]]'
 - '[[phenomenology-of-the-edge]]'
-- '[[past-self-void]]'
+- '[[inaccessible-past]]'
 - '[[consciousness-only-territories]]'
 - '[[death-and-consciousness]]'
 - '[[void-as-ground-of-meaning]]'
@@ -158,9 +157,9 @@ The death void connects directly to the Map's [foundational commitments](/tenets
 - [origin-of-consciousness](/voids/origin-of-consciousness/) — The prior void: why consciousness exists at all
 - [self-reference-paradox](/voids/self-reference-paradox/) — Related structural obstacle to self-examination
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
-- [past-self-void](/voids/inaccessible-past/) — The discontinuity of personal identity over time
+- [inaccessible-past](/voids/inaccessible-past/) — The discontinuity of personal identity over time
 - [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/) — Why the death void is not merely a limit but a precondition for temporal meaning
-- [death-phenomenology-beyond-ndes](/topics/death-and-consciousness/) — Empirical phenomenology of dying: deathbed visions, terminal lucidity, and shared death experiences
+- [death-and-consciousness](/topics/death-and-consciousness/) — Empirical phenomenology of dying: deathbed visions, terminal lucidity, and shared death experiences
 
 ## References
 

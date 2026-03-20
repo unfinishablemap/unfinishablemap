@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-30
-ai_modified: 2026-03-14 23:43:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,6 @@ related_articles:
 - '[[self-reference-paradox]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[phenomenology-of-self-awareness]]'
-- '[[the-unobservable-self]]'
 title: The Question as Evidence
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -164,7 +163,6 @@ The Map's voids framework recognises that we are beings who can conceive of thei
 - [whether-real](/voids/whether-real/) — Distinguishing genuine from apparent limits
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — The texture of approaching cognitive boundaries
 - [phenomenology-of-self-awareness](/voids/phenomenology-of-self-awareness/) — The felt quality of thought examining itself
-- [the-unobservable-self](/voids/self-reference-paradox/) — Why the observer cannot observe itself observing
 
 ## References
 

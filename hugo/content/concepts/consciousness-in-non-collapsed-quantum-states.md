@@ -96,7 +96,6 @@ The Map's [tenets](/tenets/) commit to consciousness as an active selector among
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
 - [quantum-consciousness](/concepts/quantum-consciousness/)
-- [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/)
 - [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/)

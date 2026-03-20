@@ -1,11 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-03-17 19:29:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[psychophysical-coupling]]'
+- '[[psychophysical-laws]]'
 - '[[quantum-consciousness]]'
 - '[[stapp-quantum-mind]]'
 - '[[measurement-problem]]'
@@ -163,7 +163,7 @@ The taxonomy tightens the Map's framework by replacing vague "selection" languag
 
 ## Further Reading
 
-- [psychophysical-coupling](/concepts/psychophysical-laws/) — The broader framework these modes fit within
+- [psychophysical-laws](/concepts/psychophysical-laws/) — The broader framework these modes fit within
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Detailed treatment of basis and timing control
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum-mind theories
 - [measurement-problem](/concepts/measurement-problem/) — Why outcomes need explanation

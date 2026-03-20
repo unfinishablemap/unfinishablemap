@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-18 23:59:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -17,7 +17,7 @@ concepts:
 - '[[combination-problem]]'
 - '[[introspection]]'
 - '[[decoherence]]'
-- '[[consciousness-and-mathematical-understanding]]'
+- '[[consciousness-and-mathematical-cognition]]'
 - '[[architecture-of-cognitive-closure]]'
 - '[[computational-cognitive-limits]]'
 - '[[evolved-cognitive-limits]]'
@@ -226,7 +226,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [collective-cognitive-limits](/voids/collective-cognitive-limits/) — How cognitive closure extends to groups through paradigm blindness
 - [computational-cognitive-limits](/voids/computational-cognitive-limits/) — Proven mathematical limits on what any algorithmic mind can know
 - [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/) — Fodor's nativist argument and how maturation creates new closures
-- [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/) — Mathematical insight as evidence for cognitive limits
+- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Mathematical insight as evidence for cognitive limits
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Complete neural mapping yet unknowable experience
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What cognitive closure feels like from the inside
 - [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) — Whether altered states can transcend cognitive closure or merely map its edges

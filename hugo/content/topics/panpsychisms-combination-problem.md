@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-17 17:42:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -30,8 +30,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[panpsychism-consciousness-2026-01-08]]'
-- '[[why-phenomenal-unity-resists-explanation]]'
-- '[[quantum-binding-and-phenomenal-unity]]'
+- '[[quantum-holism-and-phenomenal-unity]]'
 title: Panpsychism's Combination Problem in Depth
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -141,7 +140,7 @@ The Map recognises what panpsychism gets right: consciousness is fundamental, em
 - [combination-problem](/concepts/combination-problem/) — Definitional treatment of the problem and its dimensions
 - [panpsychism](/concepts/panpsychism/) — The view facing this challenge
 - [russellian-monism](/concepts/russellian-monism/) — The most developed framework for contemporary panpsychism
-- [why-phenomenal-unity-resists-explanation](/topics/quantum-holism-and-phenomenal-unity/) — Why unity cannot be functionally explained
+- [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Why unity cannot be functionally explained
 - [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/) — Emergence and its limits
 - [idealism](/concepts/idealism/) — An alternative that claims to invert the combination problem
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's experiential framework

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-18 19:05:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -111,7 +111,7 @@ Parkinson's patients can move when externally prompted but struggle with self-in
 
 ## The Attention-Consciousness Dissociation
 
-Attention and consciousness can come apart. [Blindsight](/concepts/blindsight/) patients orient toward stimuli they deny seeing—attention without awareness. Peripheral vision delivers conscious experience without focal attention—awareness without attending. Koch and Tsuchiya's (2007) framework organises these into four cases:
+Attention and consciousness can come apart. [blindsight](/concepts/blindsight/) patients orient toward stimuli they deny seeing—attention without awareness. Peripheral vision delivers conscious experience without focal attention—awareness without attending. Koch and Tsuchiya's (2007) framework organises these into four cases:
 
 | Attention | Consciousness | Example |
 |-----------|---------------|---------|

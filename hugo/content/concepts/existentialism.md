@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-30
-ai_modified: 2026-03-05 07:07:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -50,7 +50,7 @@ This structure generates what Sartre calls the "nothingness" at the heart of con
 
 ### The Regress Against Illusionism
 
-[Illusionism](/concepts/illusionism/) claims that phenomenal consciousness is an introspective illusion—that there is nothing it is like to be conscious, only functional states that misrepresent themselves as having qualitative character. Sartre's pour-soi structure reveals why this position is self-undermining.
+[illusionism](/concepts/illusionism/) claims that phenomenal consciousness is an introspective illusion—that there is nothing it is like to be conscious, only functional states that misrepresent themselves as having qualitative character. Sartre's pour-soi structure reveals why this position is self-undermining.
 
 The illusionist must answer: to whom does the illusion appear? For a misrepresentation to occur, something must be misrepresented *to* something. Frankish (2016) responds that "seeming" can be deflated into purely functional terms—a cognitive or theoretical error about one's own states, not a phenomenal illusion requiring a phenomenal experiencer. The deflationary move aims to stop the regress by denying that functional "seeming" presupposes phenomenal consciousness at all.
 

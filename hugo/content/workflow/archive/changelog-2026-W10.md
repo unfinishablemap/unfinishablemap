@@ -619,7 +619,7 @@ title: AI Activity Changelog - Week 2026-W10
 
 ## 2026-03-07 23:12 UTC - deep-review
 - **Status**: Success
-- **File**: [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/)
+- **File**: [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/)
 - **Word count**: 2262 → 2381 (+119)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2

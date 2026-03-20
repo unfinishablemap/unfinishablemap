@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-12 12:21:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -76,7 +76,7 @@ Why should metarepresentation require consciousness?
 
 **The nested binding problem**: Recursive mindreading requires holding multiple representational levels in coordinated awareness. The representations must be bound together—you must experience the whole structure at once to compare levels and compute their relationships.
 
-The functionalist response: unconscious processing can implement recursive data structures; computers manipulate nested representations without consciousness. But functional recursion differs from phenomenal unity. A computer can tokenize "she thinks I think the food is hidden" without experiencing the nested structure as a unified whole. The difference matters because theory of mind requires *comparing* levels—distinguishing your belief from their belief about your belief—which requires simultaneous access to both. The phenomenal unity that binds nested levels into a single experiential content appears necessary for this operation. [Working-memory](/concepts/working-memory/) and [global-workspace-theory](/concepts/global-workspace-theory/) research support this: manipulating information (not just maintaining it) requires conscious access. Level 3+ theory of mind demands exactly this manipulative capacity.
+The functionalist response: unconscious processing can implement recursive data structures; computers manipulate nested representations without consciousness. But functional recursion differs from phenomenal unity. A computer can tokenize "she thinks I think the food is hidden" without experiencing the nested structure as a unified whole. The difference matters because theory of mind requires *comparing* levels—distinguishing your belief from their belief about your belief—which requires simultaneous access to both. The phenomenal unity that binds nested levels into a single experiential content appears necessary for this operation. [working-memory](/concepts/working-memory/) and [global-workspace-theory](/concepts/global-workspace-theory/) research support this: manipulating information (not just maintaining it) requires conscious access. Level 3+ theory of mind demands exactly this manipulative capacity.
 
 **The metarepresentational criterion**: To represent a mental state *as* a mental state (rather than as a worldly fact), you must mark it as a representation that could be false, that an agent holds, that you can evaluate. This is what distinguishes belief attribution from behavior prediction. When you predict "she will look where she last saw food," you're tracking behavioral regularities. When you attribute "she believes the food is there," you're representing a representational state as a representational state—with all the properties that entails (truth-aptness, agent-relativity, potential falsity).
 
@@ -165,7 +165,7 @@ The connection to [free will](/topics/free-will/) is direct. Libertarian free wi
 
 ## The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/) denies phenomenal consciousness exists. On this view, theory of mind is sophisticated information processing about others' information processing. There's no phenomenal "extra"—no experiencing of others as subjects—just functional attribution of states.
+[illusionism](/concepts/illusionism/) denies phenomenal consciousness exists. On this view, theory of mind is sophisticated information processing about others' information processing. There's no phenomenal "extra"—no experiencing of others as subjects—just functional attribution of states.
 
 The challenge for illusionism: explaining why theory of mind develops alongside phenomenal self-awareness, why it correlates with metacognitive capacity, and why it seems to require experiencing what it's like to have a perspective. The illusionist must explain these correlations as coincidental or provide alternative accounts of the developmental and comparative data.
 

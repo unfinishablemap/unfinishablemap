@@ -33,7 +33,7 @@ related_articles:
 title: Duhem-Quine Underdetermination in Consciousness Science
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[consciousness-and-scientific-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 - '[[consciousness-and-the-limits-of-explanation]]'
 - '[[consciousness-and-methodological-failure]]'
 - '[[phenomenology-of-framework-inhabitation]]'

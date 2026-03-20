@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-18 19:57:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -30,7 +30,7 @@ related_articles:
 - '[[tenets]]'
 - '[[epiphenomenalism]]'
 - '[[knowledge-argument-marys-room-2026-01-14]]'
-- '[[aesthetic-irreducibility-arguments]]'
+- '[[aesthetics-and-consciousness]]'
 - '[[epistemology-of-introspection]]'
 title: The Knowledge Argument (Mary's Room)
 topics:
@@ -175,7 +175,7 @@ The argument's resilience comes from its simplicity: minimal assumptions (Mary k
 
 ## Relation to The Unfinishable Map's Perspective
 
-If the knowledge argument is sound, it provides powerful support for the [Dualism](/tenets/#dualism) tenet. The core claim—that physical knowledge leaves phenomenal knowledge unaddressed—aligns with what the Map means by consciousness being irreducible, though the inference from epistemic gap (Mary lacks certain knowledge) to metaphysical distinctness (non-physical facts exist) is contested. [Qualia](/concepts/qualia/) would have a qualitative character that no physical description captures.
+If the knowledge argument is sound, it provides powerful support for the [Dualism](/tenets/#dualism) tenet. The core claim—that physical knowledge leaves phenomenal knowledge unaddressed—aligns with what the Map means by consciousness being irreducible, though the inference from epistemic gap (Mary lacks certain knowledge) to metaphysical distinctness (non-physical facts exist) is contested. [qualia](/concepts/qualia/) would have a qualitative character that no physical description captures.
 
 The argument also supports the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet. If the learning intuition holds, physicalism's [apparent parsimony](/arguments/epistemological-limits-of-occams-razor/) fails before it. When the "simpler" theory conflicts with what nearly everyone recognizes, simplicity may not be decisive—though as noted, the intuition's reliability is itself debated.
 
@@ -198,7 +198,7 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 - [consciousness-and-the-ontology-of-dispositions](/topics/consciousness-and-the-ontology-of-dispositions/) — Why Mary's learning shows phenomenal character exceeds dispositional description
 - [materialism](/concepts/materialism/) — The view the argument challenges
 - [language-and-consciousness](/concepts/language-and-consciousness/) — How reference to consciousness resists standard theories of meaning, reinforcing the knowledge argument's gap
-- [aesthetic-irreducibility-arguments](/topics/aesthetics-and-consciousness/) — The aesthetic version of Mary's Room, where integrated aesthetic facts exceed both physical and simpler phenomenal facts
+- [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — The aesthetic version of Mary's Room, where integrated aesthetic facts exceed both physical and simpler phenomenal facts
 - [tenets](/tenets/) — How the Map's framework responds
 
 ## References

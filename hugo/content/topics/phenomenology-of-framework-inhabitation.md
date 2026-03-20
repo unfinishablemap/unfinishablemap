@@ -42,7 +42,6 @@ related_articles:
 - '[[argument-from-reason]]'
 - '[[consciousness-and-the-phenomenology-of-constraint-satisfaction]]'
 - '[[consciousness-and-methodological-failure]]'
-- '[[consciousness-and-methodological-failure]]'
 title: The Phenomenology of Framework Inhabitation
 topics:
 - '[[hard-problem-of-consciousness]]'

@@ -34,7 +34,7 @@ related_articles:
 title: Phenomenal Conservatism and Introspective Evidence
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[first-person-third-person-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 ---
 
 Phenomenal conservatism holds that if it seems to you that something is the case, you have at least prima facie justification for believing it—unless you have specific reasons to doubt. The Unfinishable Map argues that this principle, developed by Michael Huemer as a general epistemological framework, has profound implications for consciousness science. When experience presents itself as qualitative, unified, and subjective, phenomenal conservatism says these presentations deserve default trust as evidence. This secures the data that dualist arguments depend on: the reality of qualitative character cannot be dismissed as mere intuition without positive reasons. The question becomes not whether introspective evidence can earn its keep, but whether materialists have adequate defeaters for what consciousness presents.

@@ -70,7 +70,7 @@ Six sympathetic personas applied:
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Connects timing work to this debate
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Observer-dependent quantum framework
 - [voluntary-attention](/concepts/attention-as-interface/) — The ~300ms mechanism
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — Methodology debates
+- [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) — Methodology debates
 - [mysterianism-cognitive-closure](/concepts/mysterianism/) — Cognitive limits connection
 
 ## Remaining Items

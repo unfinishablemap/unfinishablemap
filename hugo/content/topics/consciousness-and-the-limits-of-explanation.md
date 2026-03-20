@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-18 05:14:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -32,13 +32,12 @@ related_articles:
 - '[[tenets]]'
 - '[[dualism]]'
 - '[[consciousness-and-methodological-failure]]'
-- '[[consciousness-and-methodological-failure]]'
-- '[[first-person-third-person-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 - '[[argument-from-reason]]'
 - '[[duhem-quine-underdetermination-consciousness]]'
 - '[[phenomenology-of-understanding-and-meaning]]'
 - '[[knowledge-argument]]'
-- '[[why-phenomenal-unity-resists-explanation]]'
+- '[[quantum-holism-and-phenomenal-unity]]'
 - '[[epistemology-of-mechanism-at-the-consciousness-matter-interface]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[consciousness-and-neurodegenerative-disease]]'
@@ -46,7 +45,7 @@ related_articles:
 title: Consciousness and the Limits of Explanation
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[consciousness-and-scientific-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 - '[[philosophy-of-mind]]'
 ---
 
@@ -150,7 +149,7 @@ A genuine resolution would require one of:
 
 **An account of understanding that is not phenomenal.** If understanding can be fully characterised in functional or computational terms — without reference to how it *feels* to understand — then scientific explanation could be self-grounding. The difficulty is that functional accounts of understanding seem to describe the *structure* of understanding while leaving out the *experience*.
 
-**A science that includes first-person data.** If phenomenal experience were admitted as irreducible scientific data — not as something to be explained away but as part of the explanatory base — the reflexive gap would narrow. [First-person/third-person integration](/topics/first-person-third-person-methodology/) explores this possibility, and [contemplative traditions](/topics/contemplative-practice-as-philosophical-evidence/) have developed systematic methods for generating such data. But the approach requires abandoning the Galilean exclusion that made science successful.
+**A science that includes first-person data.** If phenomenal experience were admitted as irreducible scientific data — not as something to be explained away but as part of the explanatory base — the reflexive gap would narrow. [First-person/third-person integration](/topics/methodology-of-consciousness-research/) explores this possibility, and [contemplative traditions](/topics/contemplative-practice-as-philosophical-evidence/) have developed systematic methods for generating such data. But the approach requires abandoning the Galilean exclusion that made science successful.
 
 **Acceptance that the gap is permanent.** Mysterianism holds that some explanatory limits reflect cognitive architecture rather than the world's structure. Perhaps science cannot explain its own explanatory capacity for the same reason an eye cannot see itself directly — the instrument cannot take itself as its own object.
 
@@ -172,12 +171,10 @@ The Map holds that this failure may ultimately be more revealing than the hard p
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The foundational question these limits build upon
 - [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) — Chalmers' formulation: why do we think consciousness is hard?
 - [galilean-exclusion](/concepts/galilean-exclusion/) — The founding move that created science's blind spot
-- [why-phenomenal-unity-resists-explanation](/topics/quantum-holism-and-phenomenal-unity/) — The unity of experience as a particular case of explanatory failure
+- [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — The unity of experience as a particular case of explanatory failure
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure as explanation for permanent limits
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — Integrating subjective and objective approaches
-- [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/) — The Galilean exclusion and its consequences
+- [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — Integrating subjective and objective approaches
 - [consciousness-and-methodological-failure](/topics/consciousness-and-methodological-failure/) — Why standard criteria for theory choice falter with consciousness
-- [consciousness-and-methodological-failure](/topics/consciousness-and-methodological-failure/) — Whether philosophy can make progress on consciousness
 - [argument-from-reason](/topics/argument-from-reason/) — A parallel self-referential argument against physicalism
 - [knowledge-argument](/concepts/knowledge-argument/) — What testimony cannot convey about phenomenal experience
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether the act of understanding has irreducible phenomenal character

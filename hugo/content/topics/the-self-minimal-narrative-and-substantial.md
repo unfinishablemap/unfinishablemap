@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-03-11 10:02:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,7 +12,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[phenomenology]]'
 - '[[buddhism-and-dualism]]'
-- '[[the-unobservable-self]]'
+- '[[self-reference-paradox]]'
 - '[[illusionism]]'
 - '[[mind-brain-separation]]'
 - '[[qualia]]'
@@ -159,7 +159,7 @@ The three-layered self connects directly to the Map's foundational commitments.
 - [personal-identity](/topics/personal-identity/) — What makes you persist over time
 - [haecceity](/concepts/haecceity/) — Primitive thisness and why qualitative identity isn't enough
 - [parfit-reductionism](/concepts/parfit-reductionism/) — The Map's critique of identity-as-pattern
-- [the-unobservable-self](/voids/self-reference-paradox/) — Why the observing self cannot observe itself observing
+- [self-reference-paradox](/voids/self-reference-paradox/) — Why the observing self cannot observe itself observing
 - [witness-consciousness](/concepts/witness-consciousness/) — Observing without identifying
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and the temporally extended self
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist no-self and the Map's irreducibility thesis

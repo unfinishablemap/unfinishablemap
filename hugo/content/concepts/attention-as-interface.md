@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-11 22:27:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -12,7 +12,7 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[mental-effort]]'
 - '[[concepts/consciousness-selecting-neural-patterns]]'
-- '[[psychophysical-coupling]]'
+- '[[psychophysical-laws]]'
 - '[[brain-interface-boundary]]'
 - '[[meditation-and-consciousness-modes]]'
 - '[[motor-selection]]'
@@ -142,7 +142,7 @@ Conscious processing operates at roughly 10 bits/second (Meister 2024)—vastly 
 
 Selection effects accumulate through sustained attention over time. Brief attention produces minimal impact; sustained effort produces neuroplasticity. The [attentional-economics](/concepts/attentional-economics/) framework interprets this deployment time as the cost of "investing" attentional capital—consciousness allocating its bandwidth-limited resource.
 
-The bandwidth constraint connects to the [psychophysical-coupling](/concepts/psychophysical-laws/) specifying what consciousness can and cannot do. The specific [coupling mode](/concepts/coupling-modes/) matters: basis control (selecting the question) is consistent with coarse-grained policy-level selection.
+The bandwidth constraint connects to the [psychophysical-laws](/concepts/psychophysical-laws/) specifying what consciousness can and cannot do. The specific [coupling mode](/concepts/coupling-modes/) matters: basis control (selecting the question) is consistent with coarse-grained policy-level selection.
 
 ## Meditation as Interface Training
 
@@ -199,7 +199,7 @@ The hypothesis would fail if:
 
 ## Further Reading
 
-**Core concepts**: [mental-effort](/concepts/mental-effort/), [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/), [psychophysical-coupling](/concepts/psychophysical-laws/), [brain-interface-boundary](/concepts/brain-interface-boundary/), [coupling-modes](/concepts/coupling-modes/), [attentional-economics](/concepts/attentional-economics/), [Attention Disorders and the Interface](/topics/attention-and-the-consciousness-interface/), [The Epistemological Void of Attention Disorders](/voids/attention-disorders-and-consciousness/), [Epistemology of Interface Mechanism](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/)
+**Core concepts**: [mental-effort](/concepts/mental-effort/), [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/), [psychophysical-laws](/concepts/psychophysical-laws/), [brain-interface-boundary](/concepts/brain-interface-boundary/), [coupling-modes](/concepts/coupling-modes/), [attentional-economics](/concepts/attentional-economics/), [Attention Disorders and the Interface](/topics/attention-and-the-consciousness-interface/), [The Epistemological Void of Attention Disorders](/voids/attention-disorders-and-consciousness/), [Epistemology of Interface Mechanism](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/)
 
 **Motor convergence**: [motor-selection](/concepts/motor-selection/), [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)
 

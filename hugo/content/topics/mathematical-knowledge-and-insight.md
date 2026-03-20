@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-03-19 14:50:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -38,7 +38,7 @@ related_articles:
 - '[[argument-from-reason]]'
 - '[[epistemic-advantages-of-dualism]]'
 - '[[phenomenology-of-understanding-and-meaning]]'
-- '[[aesthetic-irreducibility-arguments]]'
+- '[[aesthetics-and-consciousness]]'
 - '[[phenomenology-of-creative-insight]]'
 - '[[phenomenology-of-intellectual-effort]]'
 - '[[phenomenology-of-epistemic-cognition]]'

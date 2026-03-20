@@ -107,7 +107,7 @@ The **epistemology-of-convergence-arguments** article demonstrates exemplary int
 - **Tenet alignment**: Tenet 1 (Dualism) — if lived time resists quantitative capture, consciousness exceeds physical description
 
 #### The Methodology of Paradigm Expansion
-- **Builds on**: [consciousness-and-the-structure-of-scientific-revolutions](/topics/consciousness-and-the-structure-of-scientific-revolutions/), [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/), [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/)
+- **Builds on**: [consciousness-and-the-structure-of-scientific-revolutions](/topics/consciousness-and-the-structure-of-scientific-revolutions/), [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/), [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/)
 - **Would address**: The Kuhn article's distinction between paradigm replacement and paradigm expansion is an original insight that deserves further development. What would a paradigm expansion look like concretely? What methodological changes would be required? How does it relate to the Map's existing discussion of psychophysical bridge laws?
 - **Estimated scope**: Short-medium article
 - **Tenet alignment**: Tenet 5 (Occam's Razor Has Limits) — paradigm expansion requires accepting that the current framework's methodological constraints are too narrow

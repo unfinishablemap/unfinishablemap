@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-03-19 04:17:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,9 +31,8 @@ modified: *id001
 related_articles:
 - '[[knowledge-argument]]'
 - '[[introspection-rehabilitation]]'
-- '[[first-person-third-person-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 - '[[argument-from-reason]]'
-- '[[consciousness-and-scientific-methodology]]'
 title: Epistemology of Phenomenal Reports in Science
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -61,7 +60,7 @@ This creates an uncomfortable circularity for eliminativists: the very neuroscie
 
 ## The Reliability Question
 
-Admitting that phenomenal reports are indispensable does not mean accepting them uncritically. [Introspection](/concepts/introspection/) is demonstrably fallible in certain domains. Nisbett and Wilson's classic 1977 studies showed that people confabulate explanations for their choices, reporting reasons that could not have caused their decisions. Change blindness experiments reveal that subjects fail to notice substantial alterations in their visual field. These findings ground legitimate scepticism.
+Admitting that phenomenal reports are indispensable does not mean accepting them uncritically. [introspection](/concepts/introspection/) is demonstrably fallible in certain domains. Nisbett and Wilson's classic 1977 studies showed that people confabulate explanations for their choices, reporting reasons that could not have caused their decisions. Change blindness experiments reveal that subjects fail to notice substantial alterations in their visual field. These findings ground legitimate scepticism.
 
 However, as the Map's treatment of [introspection rehabilitation](/topics/introspection-rehabilitation/) argues, these critiques conflate two distinct targets. The process/content distinction is crucial: introspection about *why* we chose something (causal process) is unreliable, but introspection about *what* we are currently experiencing (phenomenal content) operates differently. When a subject reports seeing red, they are not theorising about causal mechanisms—they are reporting the qualitative character of their present experience.
 
@@ -99,7 +98,7 @@ But consciousness *is* how things seem. Phenomenal reports describe the very fea
 
 The epistemology of phenomenal reports exposes a tension within scientific methodology itself. Science aspires to objectivity—the "view from nowhere" that Thomas Nagel (1986) identified as inherently unable to capture consciousness's perspective-dependent nature. As the Map's treatment of [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) argues, this aspiration works brilliantly for phenomena that do not essentially involve a point of view. It struggles with the one phenomenon that *is* a point of view.
 
-This does not mean science must abandon objectivity. It means recognising that objectivity comes in degrees, and that some phenomena may require methodological pluralism. The first-person/third-person divide in [consciousness research methodology](/topics/first-person-third-person-methodology/) reflects a genuine ontological asymmetry, not merely a gap in current techniques. If consciousness is irreducible to physical processes, then no third-person method will ever fully capture what phenomenal reports convey.
+This does not mean science must abandon objectivity. It means recognising that objectivity comes in degrees, and that some phenomena may require methodological pluralism. The first-person/third-person divide in [consciousness research methodology](/topics/methodology-of-consciousness-research/) reflects a genuine ontological asymmetry, not merely a gap in current techniques. If consciousness is irreducible to physical processes, then no third-person method will ever fully capture what phenomenal reports convey.
 
 The [knowledge-argument](/concepts/knowledge-argument/) makes this vivid: Mary, who knows all physical facts about colour vision, still learns something new upon seeing red. What she learns is precisely what a phenomenal report attempts to communicate—the qualitative character of experience that physical description leaves out.
 
@@ -125,7 +124,7 @@ The Occam's Razor tenet is also relevant. Eliminativists about phenomenal report
 - [introspection-rehabilitation](/topics/introspection-rehabilitation/)
 - [heterophenomenology](/concepts/heterophenomenology/)
 - [neurophenomenology](/concepts/neurophenomenology/)
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/)
+- [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)
 - [intersubjectivity](/concepts/intersubjectivity/)
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/)
@@ -138,7 +137,6 @@ The Occam's Razor tenet is also relevant. Eliminativists about phenomenal report
 - [contemplative-epistemology](/concepts/contemplative-epistemology/)
 - [mysterianism](/concepts/mysterianism/)
 - [phenomenological-evidence](/concepts/phenomenological-evidence/)
-- [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/)
 
 ## References
 

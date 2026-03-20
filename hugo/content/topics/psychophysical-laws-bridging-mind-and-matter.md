@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-07
-ai_modified: 2026-03-16 04:33:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -10,8 +10,6 @@ coalesced_from:
 - /topics/psychophysical-coupling-law-mechanisms/
 concepts:
 - '[[psychophysical-laws]]'
-- '[[psychophysical-coupling]]'
-- '[[selection-laws]]'
 - '[[mental-causation]]'
 - '[[downward-causation]]'
 - '[[coupling-modes]]'
@@ -40,7 +38,7 @@ last_deep_review: 2026-03-16 04:33:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[attention-interface-mechanisms]]'
+- '[[attention-and-the-consciousness-interface]]'
 - '[[the-psychophysical-control-law]]'
 - '[[chalmers-psychophysical-laws-2026-01-17]]'
 - '[[psychophysical-coupling-problem-2026-01-15]]'
@@ -232,9 +230,7 @@ The framework would face serious difficulty if:
 ## Further Reading
 
 - [psychophysical-laws](/concepts/psychophysical-laws/) — The foundational concept in depth
-- [selection-laws](/concepts/psychophysical-laws/) — The downward direction: how conscious states select physical outcomes
-- [psychophysical-coupling](/concepts/psychophysical-laws/) — The coupling law problem and candidate law families
-- [attention-interface-mechanisms](/topics/attention-as-selection-interface/) — Where in the brain coupling might occur
+- [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — Where in the brain coupling might occur
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism in detail
 - [integrated-information-theory](/concepts/integrated-information-theory/) — IIT's role in Chalmers' quantum proposal
 - [functionalism](/concepts/functionalism/) — The view Chalmers tends toward, the Map rejects

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-19 07:33:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -18,14 +18,14 @@ concepts:
 - '[[decoherence]]'
 - '[[haecceity]]'
 - '[[epistemic-emotions]]'
-- '[[consciousness-and-mathematical-understanding]]'
+- '[[consciousness-and-mathematical-cognition]]'
 - '[[consciousness-as-amplifier]]'
 - '[[language-recursion-and-consciousness]]'
 - '[[language-thought-boundary]]'
 - '[[working-memory]]'
 - '[[temporal-structure-of-understanding]]'
 - '[[temporal-consciousness]]'
-- '[[consciousness-and-semantic-understanding]]'
+- '[[phenomenology-of-understanding-and-meaning]]'
 - '[[symbol-grounding-problem]]'
 - '[[metacognition]]'
 - '[[knowledge-argument]]'
@@ -271,12 +271,11 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 ## Further Reading
 
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — Five modes of phenomenal meaning: semantic, aesthetic, temporal, self-reflexive, evaluative
-- [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/) — How consciousness weaves meanings into unified understanding
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) — The bidirectional, lossy interface between consciousness and language
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — Understanding's temporal phenomenology
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — Recursive language as evidence for consciousness-dependent cognition
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where speakable and thinkable part ways
-- [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/) — Mathematical insight as paradigm case
+- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Mathematical insight as paradigm case
 - [intentionality](/concepts/intentionality/) — The "aboutness" of mental states
 - [ai-consciousness](/topics/ai-consciousness/) — Why the Map holds AI systems lack genuine understanding
 - [ai-consciousness-modes](/concepts/ai-consciousness-modes/) — Tulving's consciousness modes as diagnostic for AI phenomenology

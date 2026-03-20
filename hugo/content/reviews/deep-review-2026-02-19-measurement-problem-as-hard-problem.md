@@ -67,7 +67,7 @@ topics: []
 
 ### Cross-links Added
 
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/)
+- [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/)
 - [mysterianism](/concepts/mysterianism/)
 - [process-philosophy](/concepts/process-philosophy/)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)

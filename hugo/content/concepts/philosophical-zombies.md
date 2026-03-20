@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-17 04:28:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -112,7 +112,7 @@ This connects to the critique of [epiphenomenalism](/concepts/epiphenomenalism/)
 
 ## The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is an introspective illusion—represents the most radical response to the zombie argument. Rather than closing the explanatory gap, illusionists deny there's anything on the phenomenal side to explain.
+[illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is an introspective illusion—represents the most radical response to the zombie argument. Rather than closing the explanatory gap, illusionists deny there's anything on the phenomenal side to explain.
 
 ### Dennett's Heterophenomenology
 

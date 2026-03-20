@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-17 20:29:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -126,7 +126,7 @@ For AI, the Map's rejection of [functionalism](/concepts/functionalism/) complic
 
 ## The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/) offers a radical response: if phenomenal consciousness is introspective illusion, the asymmetry dissolves. No hidden phenomenal realm exists to access. Keith Frankish proposes that what seems phenomenal consists of functional states that misrepresent themselves as having phenomenal character.
+[illusionism](/concepts/illusionism/) offers a radical response: if phenomenal consciousness is introspective illusion, the asymmetry dissolves. No hidden phenomenal realm exists to access. Keith Frankish proposes that what seems phenomenal consists of functional states that misrepresent themselves as having phenomenal character.
 
 The Map maintains illusionism relocates rather than dissolves the problem. If I'm under an illusion of phenomenal consciousness, something must be doing the seeming—the asymmetry reappears at the meta-level. The discourse argument gains force: why would humans across cultures develop sophisticated vocabularies for something illusory? The convergence suggests something real and shared underlies it. And [contemplative practice](/concepts/witness-consciousness/) refines rather than dissolves phenomenal access—the seeming deepens under investigation rather than revealing emptiness.
 

@@ -139,8 +139,8 @@ Third, [neurophenomenological](/concepts/neurophenomenology/) cross-validation p
 - [contemplative-training-and-phenomenal-access](/topics/contemplative-evidence-for-consciousness-theories/) — How practice progressively expands access to phenomenal structure
 - [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) — Contemplative findings as evidence for and against specific theories
 - [contemplative-verification-of-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — Can meditation verify philosophical claims? Where it succeeds and fails
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — The methodological divide between first-person and third-person approaches
-- [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/) — How consciousness challenges the scientific method itself
+- [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) — The methodological divide between first-person and third-person approaches
+- [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/) — How consciousness challenges the scientific method itself
 - [neurophenomenology](/concepts/neurophenomenology/) — Varela's mutual constraint framework integrating first-person and third-person methods
 - [introspection-rehabilitation](/topics/introspection-rehabilitation/) — The case for trained introspection as reliable method
 - [phenomenology](/concepts/phenomenology/) — Husserl's phenomenological method and its relation to contemplative practice

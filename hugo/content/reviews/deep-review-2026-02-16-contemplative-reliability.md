@@ -27,7 +27,7 @@ topics: []
 
 ### Medium Issues Found
 - **Temporal microstructure convergence claim unsupported**: The Degrees of Reliability table cited "Convergent reports across Buddhist (khaṇa), phenomenological, and contemplative traditions" without specific citations. **Resolution**: Added "Husserlian time-consciousness" for specificity and qualified with "though systematic comparison remains limited."
-- **Heterophenomenology challenge unaddressed**: The process/content distinction implicitly responds to Dennett's heterophenomenology but never names it. **Resolution**: Added parenthetical cross-link to [heterophenomenology](/concepts/heterophenomenology/) and [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) in the Content Rather Than Process section.
+- **Heterophenomenology challenge unaddressed**: The process/content distinction implicitly responds to Dennett's heterophenomenology but never names it. **Resolution**: Added parenthetical cross-link to [heterophenomenology](/concepts/heterophenomenology/) and [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) in the Content Rather Than Process section.
 
 ### Counterarguments Considered
 - **Eliminative Materialist**: Fox et al. conflation of interoceptive with introspective accuracy — already addressed by prior refinement (explicit inferential gap discussion, convergent evidence added).
@@ -48,14 +48,14 @@ topics: []
 
 ### Enhancements Made
 - Accurate Brewer et al. characterization with proper study design description
-- Cross-links to [heterophenomenology](/concepts/heterophenomenology/) and [first-person-third-person-methodology](/topics/first-person-third-person-methodology/)
+- Cross-links to [heterophenomenology](/concepts/heterophenomenology/) and [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/)
 - Qualified temporal microstructure convergence claim
 - Removed stale AI refinement log comment
 - Added [heterophenomenology](/concepts/heterophenomenology/) to Further Reading section
 
 ### Cross-links Added
 - [heterophenomenology](/concepts/heterophenomenology/) (inline and Further Reading)
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) (inline and Further Reading)
+- [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) (inline and Further Reading)
 
 ## Remaining Items
 

@@ -58,7 +58,7 @@ No new counterarguments beyond those already addressed in the previous review. T
 This was the primary focus of the review. Nine inbound cross-references added:
 
 1. **[arguments-for-dualism](/concepts/the-case-for-dualism/)** — In "The Folk Error Objection" section, added link alongside [intuitive-dualism](/concepts/intuitive-dualism/)
-2. **[first-person-third-person-methodology](/topics/first-person-third-person-methodology/)** — In "The Methodological Problem" section, referencing the methodological circle argument
+2. **[first-person-third-person-methodology](/topics/methodology-of-consciousness-research/)** — In "The Methodological Problem" section, referencing the methodological circle argument
 3. **[phenomenology](/concepts/phenomenology/)** — In "First-Person Irreducibility" section, linking the mention of empirically widespread intuitive dualism
 4. **[explanatory-gap](/concepts/explanatory-gap/)** — In "From Epistemic to Ontological" section, connecting the methodological circle to the gap's persistence
 5. **[cognitive-closure](/concepts/cognitive-closure/)** — In "Why the Mind-Body Problem?" section, noting how asymmetric access shapes cognitive science

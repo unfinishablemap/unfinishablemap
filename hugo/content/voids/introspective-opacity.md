@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-06 11:38:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -28,11 +28,10 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[the-unobservable-self]]'
+- '[[self-reference-paradox]]'
 - '[[narrative-void]]'
 - '[[thoughts-that-slip-away]]'
 - '[[phenomenology-of-the-edge]]'
-- '[[self-reference-paradox]]'
 - '[[ownership-void]]'
 - '[[emotional-epistemology-void]]'
 - '[[causal-interface]]'
@@ -219,7 +218,6 @@ None of these conditions has been met. Introspective opacity persists across cul
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
 - [Attention-Created Voids](/voids/attention-created-voids/) — How attending to phenomena can destroy them
 - [The Ownership Void](/voids/ownership-void/) — Why the ownership relation hides from the subject who bears it
-- [The Self-Reference Paradox](/voids/self-reference-paradox/) — Formal limitations on self-understanding
 - [Introspection and First-Person Methods](/concepts/introspection/) — Reliability and limits of self-examination
 - [The Emotional Epistemology Void](/voids/emotional-epistemology-void/) — Whether affective states constitute genuine process-knowledge
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn on structural cognitive limits

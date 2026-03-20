@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-18 21:14:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -12,7 +12,6 @@ concepts:
 - '[[philosophical-zombies]]'
 - '[[illusionism]]'
 - '[[knowledge-argument]]'
-- '[[dualism]]'
 - '[[idealism]]'
 - '[[mysterianism]]'
 - '[[introspection]]'
@@ -95,7 +94,7 @@ The Map's response targets premise 1. The [Minimal Quantum Interaction](/tenets/
 
 ## Why Materialism Fails
 
-Several lines of argument suggest materialism cannot accommodate consciousness. These are not merely objections to materialism; they constitute [positive arguments for dualism](/concepts/dualism/) that converge on the same conclusion from independent directions. [Dualism](/concepts/dualism/)—the view that consciousness is ontologically distinct from matter—gains support precisely where materialism fails. The 2020 PhilPapers survey found approximately 32% of philosophers accept or lean toward non-physicalism—the main alternative to materialism.
+Several lines of argument suggest materialism cannot accommodate consciousness. These are not merely objections to materialism; they constitute [positive arguments for dualism](/concepts/dualism/) that converge on the same conclusion from independent directions. [dualism](/concepts/dualism/)—the view that consciousness is ontologically distinct from matter—gains support precisely where materialism fails. The 2020 PhilPapers survey found approximately 32% of philosophers accept or lean toward non-physicalism—the main alternative to materialism.
 
 For a comprehensive treatment of these arguments, including Kripke's modal argument, Nagel's subjectivity argument, and the convergence argument showing how independent lines of reasoning reinforce each other, see [dualism](/concepts/dualism/). For the focused case from the hard problem, zombies, epiphenomenalism, and quantum indeterminacy, see [Against Materialism](/arguments/materialism-argument/).
 
@@ -169,7 +168,7 @@ Process philosophy (Whitehead), [panpsychism](/concepts/panpsychism/), and [idea
 
 Materialism is the Map's primary opponent. Understanding its failure motivates the [tenet framework](/tenets/):
 
-**[Dualism](/concepts/dualism/)** is accepted because materialism fails. Physical descriptions leave the [explanatory gap](/concepts/explanatory-gap/); physical facts don't entail experiential facts; [qualia](/concepts/qualia/) resist physical characterization. Consciousness must be something beyond the physical. See [dualism](/concepts/dualism/) for the positive case.
+**[dualism](/concepts/dualism/)** is accepted because materialism fails. Physical descriptions leave the [explanatory gap](/concepts/explanatory-gap/); physical facts don't entail experiential facts; [qualia](/concepts/qualia/) resist physical characterization. Consciousness must be something beyond the physical. See [dualism](/concepts/dualism/) for the positive case.
 
 **Bidirectional Interaction** is needed because rejecting materialism could lead to [epiphenomenalism](/concepts/epiphenomenalism/)—accepting consciousness is non-physical but denying it does anything. The Map rejects this move: consciousness causally influences physical outcomes, or we couldn't even discuss it.
 

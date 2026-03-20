@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-03-19 05:33:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -62,7 +62,7 @@ What follows examines both the evidence — dissociations, richness, perspective
 
 We can trace the causal chain from photons reflecting off a surface, through retinal transduction, lateral geniculate processing, and cortical computation (Palmer, 1999). At each step, the physical description is in principle complete: wavelengths, firing rates, activation patterns. Yet somewhere in this chain, the redness of red appears — the physical description never entails the phenomenal quality (Nagel, 1974).
 
-Three features make perception particularly revealing. First, perceptual [qualia](/concepts/qualia/) are *determinate*. The redness you experience has a specific qualitative character, not a vague approximation. This determinacy makes it clear that something exists beyond the physical description — wavelength distributions and neural firing rates are equally determinate, yet they describe the wrong kind of thing. Second, perception is *shared enough* for productive disagreement. Most people can discuss colour experience and recognise what is at stake, even if the [inverted-qualia](/concepts/inverted-qualia/) scenario shows they might not share the same qualia. Third, perception has *dissociations* that make the relationship between processing and experience empirically tractable. [Blindsight](/concepts/blindsight/), inattentional blindness, and subliminal perception all separate the processing of perceptual information from the conscious experience of perceiving, providing natural experiments in what consciousness adds.
+Three features make perception particularly revealing. First, perceptual [qualia](/concepts/qualia/) are *determinate*. The redness you experience has a specific qualitative character, not a vague approximation. This determinacy makes it clear that something exists beyond the physical description — wavelength distributions and neural firing rates are equally determinate, yet they describe the wrong kind of thing. Second, perception is *shared enough* for productive disagreement. Most people can discuss colour experience and recognise what is at stake, even if the [inverted-qualia](/concepts/inverted-qualia/) scenario shows they might not share the same qualia. Third, perception has *dissociations* that make the relationship between processing and experience empirically tractable. [blindsight](/concepts/blindsight/), inattentional blindness, and subliminal perception all separate the processing of perceptual information from the conscious experience of perceiving, providing natural experiments in what consciousness adds.
 
 The [knowledge-argument](/concepts/knowledge-argument/) crystallises the gap: a neuroscientist who knows everything about colour processing but has never seen red still learns something when she finally sees it (Jackson, 1982). A physicalist can acknowledge this gap while insisting it is merely epistemic. The dualist holds that the gap is ontological: phenomenal qualities are genuinely distinct from the physical properties that occasion them. If correct, no completed neuroscience of vision will explain why red looks the way it does, because the explanation requires crossing into a domain that neuroscience does not describe.
 

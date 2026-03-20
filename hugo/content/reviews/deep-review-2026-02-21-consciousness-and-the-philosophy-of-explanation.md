@@ -60,7 +60,7 @@ topics: []
 
 ### Cross-links Added
 - Inline: [explanatory-gap](/concepts/explanatory-gap/), [cognitive-phenomenology](/concepts/cognitive-phenomenology/), [epistemic-emotions](/concepts/epistemic-emotions/), [machine-consciousness](/topics/machine-consciousness/), [argument-from-reason](/topics/argument-from-reason/)
-- Frontmatter topics: [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/)
+- Frontmatter topics: [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/)
 - Frontmatter concepts: [cognitive-phenomenology](/concepts/cognitive-phenomenology/), [epistemic-emotions](/concepts/epistemic-emotions/)
 - Frontmatter related_articles: [argument-from-reason](/topics/argument-from-reason/), [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/), [consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-limits-of-explanation/), [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-methodological-failure/)
 - Further Reading: 6 new entries added

@@ -56,7 +56,7 @@ All six pessimistic personas engaged. No new critical objections beyond those ad
 **Frontmatter (related_articles) additions:**
 - [introspection-rehabilitation](/topics/introspection-rehabilitation/)
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/)
+- [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/)
 - [phenomenological-evidence](/concepts/phenomenological-evidence/)
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/)
 - [knowledge-argument](/concepts/knowledge-argument/)
@@ -66,7 +66,7 @@ All six pessimistic personas engaged. No new critical objections beyond those ad
 **Body text links added in:**
 - [introspection-rehabilitation](/topics/introspection-rehabilitation/) — "The Rehabilitation's Significance" section
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — "Acquaintance and Error" section
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — "Introspection's Limits" section
+- [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) — "Introspection's Limits" section
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — "The Reliability Objection" section
 - [knowledge-argument](/concepts/knowledge-argument/) — "The Introspection Question" section
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/) — "Authority of First-Person Reports" section
@@ -74,7 +74,7 @@ All six pessimistic personas engaged. No new critical objections beyond those ad
 **Further Reading entries added in:**
 - [introspection-rehabilitation](/topics/introspection-rehabilitation/)
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/)
+- [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/)
 - [phenomenological-evidence](/concepts/phenomenological-evidence/)
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/)
 

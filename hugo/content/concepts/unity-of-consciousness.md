@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-03-17 20:01:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ concepts:
 - '[[minimal-consciousness]]'
 - '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[meditation-and-consciousness-modes]]'
-- '[[neural-binding-mechanisms]]'
+- '[[phenomenal-binding-and-holism]]'
 - '[[consciousness]]'
 created: 2026-01-21
 date: &id001 2026-02-25
@@ -42,7 +42,6 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[phenomenal-binding-and-holism]]'
-- '[[why-phenomenal-unity-resists-explanation]]'
 - '[[quantum-holism-and-phenomenal-unity]]'
 - '[[emergence-void]]'
 title: The Unity of Consciousness
@@ -114,7 +113,7 @@ Phenomenal unity also bears on the [combination problem](/concepts/combination-p
 
 ## Proposed Explanations
 
-**Neural synchrony** proposes that features are bound through synchronized gamma oscillations (30-100 Hz). Synchrony may explain computational binding—how the brain assigns features to objects—but synchronized firing in separate neurons is still firing in separate neurons. Correlation is not identity. See [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) for detailed analysis of classical and quantum binding mechanisms.
+**Neural synchrony** proposes that features are bound through synchronized gamma oscillations (30-100 Hz). Synchrony may explain computational binding—how the brain assigns features to objects—but synchronized firing in separate neurons is still firing in separate neurons. Correlation is not identity. See [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) for detailed analysis of classical and quantum binding mechanisms.
 
 **Multiple Drafts** (Dennett 1991) challenges the premise: perhaps there is no single moment at which experience is unified. Instead, multiple parallel drafts of perceptual content compete and are edited in real time, with unity imposed retrospectively by narrative self-modelling. On this view, asking where unity happens is a category error—there is no "Cartesian theatre" where streams converge. The Map's response: even post-hoc narrative requires a narrator. The retrospective construction itself presupposes a subject for whom the narrative is constructed, relocating rather than dissolving the unity problem.
 
@@ -149,15 +148,13 @@ The unity of consciousness connects directly to The Unfinishable Map's [foundati
 - [binding-problem](/concepts/binding-problem/) — Neural feature binding and the combination challenge
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's version of the unity puzzle
 - [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — Mechanistic analysis of how binding relates to phenomenal unity
-- [why-phenomenal-unity-resists-explanation](/topics/quantum-holism-and-phenomenal-unity/) — Extended argument for structural failure of physical explanation
-- [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Structural argument for quantum entanglement as the physical substrate matching phenomenal unity
+- [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Extended argument for structural failure of physical explanation
 - [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) — The testable hypothesis and experimental evidence for quantum binding
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Natural experiments on unity dissociation
 - [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/) — Cross-modal binding as the hardest synchronic case: temporal recalibration, inverse effectiveness, and the unity of place
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Diachronic structure and the specious present
 - [self-and-consciousness](/concepts/self-and-consciousness/) — Subject unity and the minimal self
 - [emergence-void](/voids/emergence-void/) — The general cognitive limit at level transitions
-- [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) — Classical and quantum approaches to binding compared
 - [consciousness](/concepts/consciousness/) — The Map's foundational concept page
 - [personal-identity](/topics/personal-identity/) — How subjects persist across time
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and the temporal self

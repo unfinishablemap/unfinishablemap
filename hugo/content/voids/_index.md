@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-03-19 02:21:06+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
@@ -137,6 +137,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [Altered States as Void Probes](/voids/altered-states-as-void-probes/) — Whether altered states reveal cognitive limits or simulate transcendence
 - [Consciousness and Attention Disorders](/voids/attention-disorders-and-consciousness/) — When consciousness's own instrument is disordered
 - [Introspective Opacity](/voids/introspective-opacity/) — Why we access mental contents but never the mechanisms that produce them
+- [The Mutation Void](/voids/mutation-void/) — Thoughts that transform upon inspection, where attending changes the content
 - [The Phenomenal Presence Void](/voids/phenomenal-presence-void/) — Why experience's immediacy and felt realness hide their own mechanisms
 - [The Silence Void](/voids/the-silence-void/) — Whether cognitive silence accesses truths that reasoning cannot reach
 - [The Surplus Void](/voids/the-surplus-void/) — Why experience delivers richness far beyond survival requirements

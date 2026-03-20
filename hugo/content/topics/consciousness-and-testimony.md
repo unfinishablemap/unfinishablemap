@@ -46,7 +46,7 @@ related_articles:
 title: Consciousness and Testimony
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[first-person-third-person-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 - '[[phenomenology-of-epistemic-cognition]]'
 - '[[phenomenology-of-trust]]'
 - '[[consciousness-and-collective-phenomena]]'
@@ -164,7 +164,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet is
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Logical compulsion and consciousness
 - [introspection-rehabilitation](/topics/introspection-rehabilitation/) — Restoring introspection as a serious method
 - [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — Phenomenal experience as evidence
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — Methodological tensions in consciousness science
+- [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — Methodological tensions in consciousness science
 - [argument-from-reason](/topics/argument-from-reason/) — The broader self-defeat challenge to physicalism
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Why dualism provides better epistemic resources
 - [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/) — How minds understand each other

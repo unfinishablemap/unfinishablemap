@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-03-16 15:17:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ related_articles:
 - '[[phenomenal-consciousness]]'
 - '[[dualism]]'
 - '[[temporal-consciousness]]'
-- '[[quantum-coherence-and-binding-evidence]]'
+- '[[quantum-neural-mechanisms-and-coherence]]'
 - '[[quantum-holism-and-phenomenal-unity]]'
 title: Phenomenal Binding and Holism
 topics:
@@ -112,7 +112,7 @@ The thalamus receives converging inputs from all sensory modalities and projects
 
 ## Experimental Evidence
 
-Experimental work has moved from theoretical possibility toward direct support (see [quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/) for comprehensive analysis):
+Experimental work has moved from theoretical possibility toward direct support (see [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) for comprehensive analysis):
 
 - **Microtubule-anesthesia link (Wiest et al., 2024):** Rats treated with a microtubule-stabilizing drug took significantly longer to lose consciousness under anesthesia (Cohen's d = 1.9). The quantum model predicted this; classical pharmacology has not explained why microtubule stabilization specifically delays anesthesia.
 - **Brain entanglement signatures (Kerskens & Pérez, 2022):** MRI signals indicating entanglement correlated with consciousness—present during waking, absent during sleep, tracking working memory performance. Warren (2023) raised methodological concerns; replication is needed.
@@ -148,11 +148,11 @@ Phenomenal binding illuminates why the Map's [tenets](/tenets/) take the positio
 - [process-and-consciousness](/apex/process-and-consciousness/) — How process philosophy illuminates phenomenal unity through actual occasions
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Phenomenal unity, its varieties, and the broader conceptual framing
 - [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Extended structural argument, decoherence debate, and experimental evidence for quantum binding
-- [quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/) — Experimental support for quantum binding mechanisms
+- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Experimental support for quantum binding mechanisms
 - [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/) — Cross-modal binding as the hardest case: temporal recalibration, inverse effectiveness, and the phenomenology of place
 - [dualist-perception](/topics/dualist-perception/) — Perceptual experience as the paradigm case of binding, including cross-modal unity
 - [filter-theory](/concepts/filter-theory/) — If the brain transmits rather than generates consciousness, unity is intrinsic to what is transmitted
-- [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/) — Aesthetic creation as a demanding case of phenomenal binding across temporal development
+- [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Aesthetic creation as a demanding case of phenomenal binding across temporal development
 - [binding-problem](/concepts/binding-problem/) — The neural challenge and historical formulation
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-quantum interface

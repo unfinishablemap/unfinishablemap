@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-03-19 16:20:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -31,10 +31,10 @@ related_articles:
 - '[[observation-void]]'
 - '[[thoughts-that-slip-away]]'
 - '[[phenomenology-of-the-edge]]'
-- '[[the-unobservable-self]]'
+- '[[self-reference-paradox]]'
 - '[[transition-void]]'
 - '[[death-void]]'
-- '[[memory-void]]'
+- '[[inaccessible-past]]'
 - '[[consciousness-only-territories]]'
 - '[[the-silence-void]]'
 - '[[loss-of-consciousness]]'
@@ -183,9 +183,9 @@ The evidence currently favours genuine state-dependent inaccessibility. But the 
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — Neuroscience of consciousness gradations across sleep stages
 - [witness-consciousness](/concepts/witness-consciousness/) — The Vedantic concept of awareness that observes without identifying
 - [personal-identity](/topics/personal-identity/) — What grounds identity through gaps in consciousness
-- [the-unobservable-self](/voids/self-reference-paradox/) — The subject that cannot become its own object
+- [self-reference-paradox](/voids/self-reference-paradox/) — The subject that cannot become its own object
 - [death-void](/voids/death-void/) — Consciousness cannot represent its own permanent cessation
-- [memory-void](/voids/inaccessible-past/) — Whether past qualia can be recovered or are lost forever
+- [inaccessible-past](/voids/inaccessible-past/) — Whether past qualia can be recovered or are lost forever
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What only phenomenal experience can access
 - [the-silence-void](/voids/the-silence-void/) — Voluntary cessation through contemplative practice
 - [loss-of-consciousness](/topics/loss-of-consciousness/) — Anaesthesia and coma as parallel cases of consciousness-brain decoupling

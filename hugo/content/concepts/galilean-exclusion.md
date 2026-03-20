@@ -22,13 +22,13 @@ last_curated: null
 last_deep_review: 2026-02-21 00:06:00+00:00
 modified: *id001
 related_articles:
-- '[[first-person-third-person-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 - '[[introspection-rehabilitation]]'
 - '[[heterophenomenology]]'
 - '[[concepts/materialism]]'
 title: Galilean Exclusion
 topics:
-- '[[consciousness-and-scientific-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 - '[[hard-problem-of-consciousness]]'
 - '[[consciousness-and-the-authority-of-mathematics]]'
 ---
@@ -93,7 +93,7 @@ The Unfinishable Map's [tenets](/tenets/) engage with the Galilean exclusion at 
 
 ## Further Reading
 
-- [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/) — How the exclusion shapes and constrains the methods available for studying consciousness
+- [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — How the exclusion shapes and constrains the methods available for studying consciousness
 - [consciousness-and-the-authority-of-mathematics](/topics/consciousness-and-the-authority-of-formal-systems/) — Mathematics' power over the primary qualities Galileo kept, and its limits regarding the secondary qualities he excluded
 - [explanatory-gap](/concepts/explanatory-gap/) — The structural gap between physical description and phenomenal experience
 - [functionalism](/concepts/functionalism/) — The approach that maps mental states to functional roles — an accommodation within, not an escape from, the Galilean framework

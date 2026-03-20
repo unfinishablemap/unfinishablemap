@@ -32,8 +32,7 @@ related_articles:
 title: Phenomenological Method and Evidence Standards
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[first-person-third-person-methodology]]'
-- '[[consciousness-and-scientific-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 ---
 
 The Unfinishable Map holds that phenomenological method is not casual introspection elevated to philosophical dignity but a rigorous discipline with its own internal evidence standards. Husserl developed a taxonomy of evidence types—apodictic, adequate, assertoric, presumptive—that distinguish what can be known with certainty about experience from what remains open to revision. These standards matter for consciousness science because they determine how much weight first-person data can bear: whether phenomenal reports are merely suggestive, or whether some of what they reveal is beyond reasonable doubt. For dualist philosophy of mind, the answer shapes whether the [hard problem](/topics/hard-problem-of-consciousness/) is a methodologically principled finding or a folk intuition awaiting dissolution.
@@ -123,7 +122,7 @@ The Map's [tenets](/tenets/) connect to phenomenological evidence standards at m
 - [phenomenological-evidence](/concepts/phenomenological-evidence/)
 - [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/)
 - [epistemology-of-introspective-calibration](/topics/epistemology-of-introspective-calibration/)
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/)
+- [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)
 - [phenomenology](/concepts/phenomenology/)
 - [neurophenomenology](/concepts/neurophenomenology/)
 - [heterophenomenology](/concepts/heterophenomenology/)

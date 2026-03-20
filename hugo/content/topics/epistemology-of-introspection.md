@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-03-18 15:28:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,19 +25,19 @@ related_articles:
 - '[[introspection-rehabilitation]]'
 - '[[epistemology-of-introspective-calibration]]'
 - '[[phenomenal-conservatism-and-introspective-evidence]]'
-- '[[the-unobservable-self]]'
+- '[[self-reference-paradox]]'
 - '[[introspective-opacity]]'
 - '[[ethics-and-value-in-a-dualist-world]]'
 - '[[phenomenal-acquaintance]]'
 - '[[acquaintance-knowledge]]'
-- '[[first-person-third-person-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 - '[[phenomenological-evidence]]'
 - '[[neurophenomenology]]'
 title: The Epistemology of Introspection
 topics:
 - '[[epistemology]]'
 - '[[hard-problem-of-consciousness]]'
-- '[[first-person-third-person-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 ---
 
 Introspection provides knowledge unlike anything else in our epistemic repertoire. When you attend to the burning quality of pain or the vivid redness of a sunset, the resulting knowledge is neither perception of an external object nor inference from evidence. The Unfinishable Map's arguments for dualism depend on taking this knowledge seriously — the [hard problem](/topics/hard-problem-of-consciousness/) arises precisely because introspective knowledge reveals features of experience that physical description cannot capture. Yet the epistemological status of introspection remains deeply contested. Is it a form of inner perception? A kind of self-directed inference? Something with no analogue elsewhere in cognition? The answer determines what introspective knowledge can and cannot establish about the nature of consciousness.
@@ -96,7 +96,7 @@ The Map's position is that introspection constitutes a sui generis epistemic cap
 
 **Domain-variable reliability.** Introspective reliability varies systematically across domains: strongest for attended phenomenal content, weaker for background states, and absent for causal processes. This gradient, which the [calibration strategies](/topics/epistemology-of-introspective-calibration/) map in detail, reflects the structure of introspective access rather than a uniform capacity.
 
-**Trainability.** Unlike foundational capacities (you cannot train yourself to have better logical intuitions in the same way), introspective skill improves with practice along a logarithmic learning curve — matching the acquisition pattern of genuine perceptual skills (Fox et al. 2012). This trainability supports the view that introspection involves a real capacity engaging with real features of experience. [Neurophenomenology](/concepts/neurophenomenology/) provides the validation framework: trained introspective reports predict neural signatures that untrained reports miss, confirming that improved access tracks genuine phenomenal structure rather than producing more elaborate confabulations.
+**Trainability.** Unlike foundational capacities (you cannot train yourself to have better logical intuitions in the same way), introspective skill improves with practice along a logarithmic learning curve — matching the acquisition pattern of genuine perceptual skills (Fox et al. 2012). This trainability supports the view that introspection involves a real capacity engaging with real features of experience. [neurophenomenology](/concepts/neurophenomenology/) provides the validation framework: trained introspective reports predict neural signatures that untrained reports miss, confirming that improved access tracks genuine phenomenal structure rather than producing more elaborate confabulations.
 
 ## What Introspection Can Establish
 
@@ -128,10 +128,10 @@ The sui generis model yields clear epistemological conclusions about what intros
 - [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — Huemer's principle as epistemological grounding
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct epistemic relation underlying the acquaintance model
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Russell's distinction and its role in the knowledge argument
-- [the-unobservable-self](/voids/self-reference-paradox/) — The structural impossibility of observing the observer
+- [self-reference-paradox](/voids/self-reference-paradox/) — The structural impossibility of observing the observer
 - [introspective-opacity](/voids/introspective-opacity/) — Where introspective access fails structurally
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Systematic contemplative practice as knowledge source
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — The methodological divide in consciousness science
+- [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — The methodological divide in consciousness science
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — When first-person reports constitute evidence
 - [neurophenomenology](/concepts/neurophenomenology/) — The mutual constraint framework validating trained introspection
 - [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/) — How introspective epistemology grounds unified dualist ethics

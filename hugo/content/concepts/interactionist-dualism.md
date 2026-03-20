@@ -1,13 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-19 03:42:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
 - /arguments/interactionist-dualism/
 concepts:
-- '[[psychophysical-coupling]]'
 - '[[psychophysical-laws]]'
 - '[[evolution-of-consciousness]]'
 - '[[dualism]]'
@@ -25,7 +24,7 @@ concepts:
 - '[[binding-problem]]'
 - '[[causal-closure]]'
 - '[[multi-mind-collapse-problem]]'
-- '[[interface-locality]]'
+- '[[brain-interface-boundary]]'
 - '[[prebiotic-collapse]]'
 - '[[objections-to-interactionism]]'
 - '[[quantum-indeterminacy-free-will]]'
@@ -125,7 +124,7 @@ Kim asks: what pairs a particular mind with a particular body? If minds are non-
 
 ## The Multi-Mind Collapse Problem
 
-If consciousness causes quantum collapse, what happens when multiple minds observe the same system? The [solution](/concepts/multi-mind-collapse-problem/) combines [interface-locality](/concepts/brain-interface-boundary/) with [prebiotic-collapse](/concepts/prebiotic-collapse/): each consciousness interfaces only with its own brain; external systems collapse through objective physical processes. Attention is neurally implemented—you cannot attend to distant quantum systems. No coordination is needed because each mind operates on its own substrate.
+If consciousness causes quantum collapse, what happens when multiple minds observe the same system? The [solution](/concepts/multi-mind-collapse-problem/) combines [brain-interface-boundary](/concepts/brain-interface-boundary/) with [prebiotic-collapse](/concepts/prebiotic-collapse/): each consciousness interfaces only with its own brain; external systems collapse through objective physical processes. Attention is neurally implemented—you cannot attend to distant quantum systems. No coordination is needed because each mind operates on its own substrate.
 
 ## Quantum Interactionism
 
@@ -217,7 +216,6 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 
 **Mechanisms:**
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum Zeno mechanism for consciousness-brain interaction
-- [psychophysical-coupling](/concepts/psychophysical-laws/) — How phenomenal properties map to physical selections
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the causal interface
 - [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — Six proposed mechanisms for bridging the quantum-to-neural gap
 - [amplification-void](/voids/amplification-void/) — Why the quantum-to-neural chain is structurally untraceable

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-19 16:35:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -148,7 +148,7 @@ A critical objection to Layer 2: [decoherence](/concepts/decoherence/) destroys 
 
 ## The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/) poses a different challenge: if phenomenal consciousness is an introspective illusion, the entire two-layer model collapses—no independent consciousness to filter, nothing genuinely phenomenal to select for.
+[illusionism](/concepts/illusionism/) poses a different challenge: if phenomenal consciousness is an introspective illusion, the entire two-layer model collapses—no independent consciousness to filter, nothing genuinely phenomenal to select for.
 
 The model responds on three fronts. First, illusionism faces a regress: seeming to have experience is itself phenomenal—as Tallis argues, "Misrepresentation presupposes presentation." Second, if consciousness were merely neural illusion, reduced brain activity should produce reduced phenomenology, but psychedelic and NDE evidence suggests the opposite (though this evidence admits alternative interpretations). Third, even granting illusionism, something must still determine which quantum possibilities become actual—the explanatory role for selection remains regardless of what we call the selecting principle.
 
@@ -204,7 +204,7 @@ This unified model is the Map's most complete answer to how consciousness relate
 - [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't solve collapse
 - [many-worlds](/concepts/many-worlds/) — Why the Map rejects MWI
 - [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) — The mathematical corridor constraining consciousness-physics interaction
-- [selection-laws](/concepts/psychophysical-laws/) — What selection laws must specify and candidate formulations
+- [psychophysical-laws](/concepts/psychophysical-laws/) — What selection laws must specify and candidate formulations
 
 ## References
 

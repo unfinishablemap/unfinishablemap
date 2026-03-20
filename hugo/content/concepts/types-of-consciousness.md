@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-07
-ai_modified: 2026-03-19 17:23:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -48,7 +48,7 @@ Ned Block's 1995 distinction between [phenomenal consciousness](/concepts/phenom
 
 **A-consciousness** is functional: a state is access-conscious when its content is poised for global control of reasoning, reporting, and action (Block 1995). Information that is globally available for use across cognitive systems is access-conscious.
 
-These can dissociate. [Blindsight](/concepts/blindsight/) patients process visual information and make above-chance "guesses" about stimuli they report not seeing — a case of partial access without phenomenology. In the other direction, Block's overflow argument draws on Sperling's partial report paradigm: subjects phenomenally experience an entire visual array but can access only a few items for report. P-consciousness overflows A-consciousness. (Dennett and others contest this interpretation, arguing that subjects have a *sense* of seeing the whole array rather than genuinely experiencing all items — but the conceptual distinction between P and A holds regardless of how the overflow debate resolves.) Conversely, Block argues that functional AI systems might achieve rich A-consciousness — information integrated and globally broadcast — while having zero P-consciousness.
+These can dissociate. [blindsight](/concepts/blindsight/) patients process visual information and make above-chance "guesses" about stimuli they report not seeing — a case of partial access without phenomenology. In the other direction, Block's overflow argument draws on Sperling's partial report paradigm: subjects phenomenally experience an entire visual array but can access only a few items for report. P-consciousness overflows A-consciousness. (Dennett and others contest this interpretation, arguing that subjects have a *sense* of seeing the whole array rather than genuinely experiencing all items — but the conceptual distinction between P and A holds regardless of how the overflow debate resolves.) Conversely, Block argues that functional AI systems might achieve rich A-consciousness — information integrated and globally broadcast — while having zero P-consciousness.
 
 ## Beyond the Binary: Creature vs. State Consciousness
 

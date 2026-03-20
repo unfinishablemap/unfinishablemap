@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-19 08:37:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[mind-matter-interface]]'
 - '[[brain-interface-boundary]]'
 - '[[attention-as-interface]]'
-- '[[psychophysical-coupling]]'
+- '[[psychophysical-laws]]'
 - '[[filter-theory]]'
 - '[[mental-effort]]'
 - '[[decoherence]]'
@@ -115,7 +115,7 @@ The filter model also generates a distinctive prediction: reduced neural constra
 - [mind-matter-interface](/concepts/mind-matter-interface/) — The two-layer architecture where friction operates
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The bandwidth bottleneck as primary friction source
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why the interface is brain-local
-- [psychophysical-coupling](/concepts/psychophysical-laws/) — The coupling laws friction degrades
+- [psychophysical-laws](/concepts/psychophysical-laws/) — The coupling laws friction degrades
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the primary friction-bearing mechanism
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of interface cost
 - [attentional-economics](/concepts/attentional-economics/) — Attention as scarce resource under friction constraints

@@ -183,7 +183,7 @@ The Map interprets this asymmetry as evidence for the irreducibility of phenomen
 - [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — The neuroplasticity evidence in detail
 - [neurophenomenology](/concepts/neurophenomenology/) — Varela's framework for mutual constraints
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — How meditation evidence distinguishes theories
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — Why both perspectives are necessary
+- [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) — Why both perspectives are necessary
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — The two modes: active selection and passive witnessing
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer phenomenon in contemplative traditions
 - [default-mode-network](/concepts/default-mode-network/) — The self-referential network meditation modulates

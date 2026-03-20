@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-18 20:50:00+00:00
+ai_modified: 2026-03-20 08:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -71,7 +71,9 @@ Several findings support the filter interpretation:
 
 A materialist objection holds that these "insights" are illusory—confabulations that merely *feel* profound without genuine epistemic value. A deeper version notes that psychedelics disrupt the very neural processes required for accurate introspection—how can we trust reports from compromised metacognitive systems? The response: some psychedelic insights prove verifiable (therapeutic breakthroughs, creative solutions), and the expansion hypothesis predicts their *selectivity*—not random confabulation but access to genuinely suppressed information (childhood memories, repressed patterns). Pure confabulation would be random; genuine filter-loosening would be informative. Clinical studies of psilocybin-assisted therapy show lasting improvements in depression and anxiety that correlate with reported mystical-type experiences, suggesting the insights have functional validity beyond subjective impression.
 
-**Identical outputs, divergent experiences.** Different anaesthetics (propofol vs. ketamine) can produce identical behavioural outputs—unresponsiveness, amnesia—while producing radically different conscious experiences. Ketamine preserves vivid experience despite behavioural unresponsiveness; propofol seems to eliminate experience entirely. Mashour and Bharioke (2024) demonstrate this asymmetry through neuroimaging: both agents suppress cortical activity, but through different thalamic pathways with different phenomenal consequences. If consciousness were simply produced by brain states, similar behavioural suppression should correlate with similar phenomenal suppression. The divergence suggests the brain *mediates* rather than *generates* experience.
+**Identical outputs, divergent experiences.** Different anaesthetics (propofol vs. ketamine) can produce identical behavioural outputs—unresponsiveness, amnesia—while producing radically different conscious experiences. Ketamine preserves vivid experience despite behavioural unresponsiveness; propofol seems to eliminate experience entirely. Mashour and Bharioke (2024) demonstrate this asymmetry through neuroimaging: both agents suppress cortical activity, but through different thalamic pathways with different phenomenal consequences.
+
+A sophisticated production theorist would note that propofol and ketamine act on different receptor systems (GABA-A vs. NMDA) and disrupt different neural circuits—so production theory *does* predict different phenomenal outcomes from different mechanisms, even when gross behavioural output converges. The challenge for production accounts is not the bare fact of divergence but its *character*: ketamine produces organised, coherent experience (vivid imagery, out-of-body phenomena, narrative structure) precisely when the neural systems supposedly generating consciousness are severely disrupted. If consciousness is what certain neural circuits produce, profoundly disrupting those circuits should degrade the product—not redirect it into novel coherent forms. Filter theory offers a natural explanation: ketamine reconfigures the interface, blocking some channels while opening others, rather than damaging the generator.
 
 **Information received but not perceived.** Mashour and Bharioke's 2024 *Neuron* review confirms that sensory information reaches the brain during light sedation but is not perceived—what they term "received but not perceived." The signal arrives; something prevents its manifestation in consciousness. This is precisely what filter theory predicts—disruption of interface rather than disruption of consciousness itself.
 
@@ -125,6 +127,22 @@ These boundaries illuminate each other. Advanced meditators approaching cessatio
 
 This raises a question for filter theory: does the filter determine *how much* consciousness manifests or *what kind*? The psychedelic loosens filtering to allow more of Mind at Large through; the minimal organism may lack sophisticated filtering entirely yet manifest only rudimentary experience. The answer may involve what the brain provides beyond filtering—representational structures, attention mechanisms, integration capacities—that shape which aspects of consciousness can manifest through a given interface. A simple nervous system provides a simple interface; a complex one provides a complex interface. Consciousness itself may be the same; its manifestation varies with interface sophistication.
 
+## What Would Challenge This View?
+
+A theory that can explain any outcome explains nothing. The filter interpretation of ASCs must specify observations that would count against it—otherwise it risks degenerating into an unfalsifiable framework that simply relabels whatever neuroscience discovers.
+
+**Observations that would undermine the filter interpretation:**
+
+- **Constructive complexity from simple disruption.** If a simple, well-understood neural disruption (say, blocking a single receptor type) reliably produced *novel* phenomenal content with no correspondence to prior experience or external reality—pure confabulation with no informational structure—this would favour production over filtering. Filter theory predicts that loosened constraints reveal *pre-existing* content (suppressed memories, cross-modal information, aspects of "Mind at Large"); pure noise generation would suggest the brain constructs rather than transmits.
+
+- **Perfect phenomenal-neural mapping.** If neuroscience achieved a complete, fine-grained mapping from neural states to phenomenal states—where every qualitative feature of every ASC could be predicted from brain activity alone, with no residual or surprises—the filter would become explanatorily idle. The theory's value lies precisely in cases where neural state and phenomenal state come apart.
+
+- **No coherent experience under severe disruption.** Filter theory predicts that some forms of brain compromise should *expand* rather than degrade experience (as in NDEs and certain psychedelic states). If careful investigation showed that every case of severe neural disruption produced only confused, degraded, or absent experience—with no exceptions—the "failing filter reveals more" prediction would be disconfirmed.
+
+- **Successful artificial generation of novel qualia.** If an artificial system with no biological heritage could generate genuinely novel phenomenal states (not just novel *reports* of states), this would support the view that consciousness is generated rather than received. The filter theory's explanatory advantage depends partly on the difficulty of accounting for qualia through construction alone.
+
+These are genuine empirical stakes, not just logical possibilities. The filter interpretation makes predictions that differ from production models, and those predictions can fail.
+
 ## Relation to Site Perspective
 
 Altered states illuminate the Map's [tenets](/tenets/) from multiple angles:
@@ -156,7 +174,7 @@ The filter theory provides a unified framework: ASCs reveal different configurat
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — How anaesthetic agents reconfigure the consciousness interface
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Contemplative practices as evidence for irreducible consciousness
 - [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/) — How psychiatric conditions reveal the hidden architecture of consciousness
-- [death-phenomenology-beyond-ndes](/topics/death-and-consciousness/) — Death-related altered states: deathbed visions, terminal lucidity, and nearing death awareness
+- [death-and-consciousness](/topics/death-and-consciousness/) — Death-related altered states: deathbed visions, terminal lucidity, and nearing death awareness
 - [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis: systematic comparison of five altered states mapping the multi-channel interface architecture
 
 ## References
@@ -186,3 +204,13 @@ Tart, C. T. (Ed.). (1969). *Altered States of Consciousness*. Wiley.
 Wang, H. et al. (2025). Thalamic nuclei orchestrating consciousness through state-specific connectivity. *Communications Biology*, 8, 92.
 
 Xu, G. et al. (2023). Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain. *PNAS*, 120(19), e2216268120.
+
+<!-- AI REFINEMENT LOG - 2026-03-20
+Changes made:
+- Added "What Would Challenge This View?" section specifying four categories of observation that would undermine the filter interpretation, addressing unfalsifiability concern from pessimistic review
+- Reframed ketamine/propofol argument: acknowledged that production theory predicts different phenomenal outcomes from different receptor mechanisms, then focused the argument on the specific challenge (coherent novel experience under severe disruption) rather than the strawman (identical suppression should yield identical phenomenology)
+
+Key improvements: Intellectual honesty—filter theory now has explicit empirical stakes; anaesthesia argument engages sophisticated production theory rather than a simplified version.
+
+This log should be removed after human review.
+-->

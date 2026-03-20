@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-05 14:55:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -109,13 +109,13 @@ What seems clear is that PCS proponents accept there's something special about p
 
 ## The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/) offers an alternative to PCS: rather than explaining phenomenal concepts, deny that they refer to anything real. There are no phenomenal properties for concepts to pick out—only the *illusion* that there are.
+[illusionism](/concepts/illusionism/) offers an alternative to PCS: rather than explaining phenomenal concepts, deny that they refer to anything real. There are no phenomenal properties for concepts to pick out—only the *illusion* that there are.
 
 This faces Raymond Tallis's regress objection: misrepresentation presupposes presentation. To be under an illusion, something must be *experiencing* the illusion. There must be something it's like to have the mistaken belief that consciousness is phenomenal. The seeming itself is phenomenal.
 
 The regress applies equally to PCS. If phenomenal concepts are "direct" or "quotational" or "constitutional," *something* must be directly apprehending, quoting, or constituting. These modes of presentation must present *to* something. PCS and illusionism both face the question: who or what is on the receiving end of these concepts?
 
-[Introspection](/concepts/introspection/) is central here. PCS relies on introspective access to phenomenal states—that's how we form phenomenal concepts in the first place. But introspection is itself phenomenal. The ability to turn attention inward and notice what experience is like presupposes the very kind of awareness that PCS claims to explain.
+[introspection](/concepts/introspection/) is central here. PCS relies on introspective access to phenomenal states—that's how we form phenomenal concepts in the first place. But introspection is itself phenomenal. The ability to turn attention inward and notice what experience is like presupposes the very kind of awareness that PCS claims to explain.
 
 ## Contemplative Evidence
 
@@ -159,7 +159,7 @@ Several findings would strengthen PCS and weaken the dualist interpretation:
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: PCS assumes that phenomenal concepts merely *represent* brain states without affecting them. But the deployment of phenomenal concepts itself requires causal work—the brain must do something to generate these "direct" or "quotational" concepts. If phenomenal concepts involve consciousness directly grasping its own states (as Loar suggests), this grasping may constitute the kind of downward causation the Map affirms. The concept doesn't just passively represent; consciousness actively apprehends. This active element resists purely bottom-up explanation.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The [zombie](/concepts/philosophical-zombies/) thought experiment central to Chalmers's master argument presupposes indexical identity—*I* could have been a zombie, or *this* world could have lacked consciousness. [Haecceity](/concepts/haecceity/)—the irreducible thisness of individual perspective—underlies the conceivability intuition. Many-worlds interpretations complicate such indexicality: if all outcomes are equally real, questions about what "could have been" become questions about which branch one inhabits. The Map's rejection of many-worlds preserves the zombie conceivability intuition in its original force—PCS cannot escape by retreating to a framework where indexical questions lose their grip.
+**[No Many Worlds](/tenets/#no-many-worlds)**: The [zombie](/concepts/philosophical-zombies/) thought experiment central to Chalmers's master argument presupposes indexical identity—*I* could have been a zombie, or *this* world could have lacked consciousness. [haecceity](/concepts/haecceity/)—the irreducible thisness of individual perspective—underlies the conceivability intuition. Many-worlds interpretations complicate such indexicality: if all outcomes are equally real, questions about what "could have been" become questions about which branch one inhabits. The Map's rejection of many-worlds preserves the zombie conceivability intuition in its original force—PCS cannot escape by retreating to a framework where indexical questions lose their grip.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: PCS often appeals to parsimony: why posit non-physical properties when the gap might be merely conceptual? But apparent simplicity may reflect ignorance. If the gap persists despite sophisticated attempts to explain it, perhaps the simpler explanation is that physics genuinely cannot capture everything about consciousness. The "conceptual" explanation adds complexity by requiring an account of why phenomenal concepts are so peculiarly unlike other concepts—and this peculiarity itself becomes the new puzzle. Parsimony cuts both ways.
 

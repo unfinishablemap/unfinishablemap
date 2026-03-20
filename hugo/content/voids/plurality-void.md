@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-03-10 21:23:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,6 @@ related_articles:
 - '[[indexical-void]]'
 - '[[emergence-void]]'
 - '[[self-reference-paradox]]'
-- '[[the-unobservable-self]]'
 - '[[intersubjective-void]]'
 title: The Plurality Void
 topics:
@@ -103,7 +102,6 @@ The plurality void connects to the Map's [foundational commitments](/tenets/) at
 - [indexical-void](/voids/indexical-void/) — Why first-person identity resists explanation
 - [emergence-void](/voids/emergence-void/) — The cognitive gap at every level transition
 - [self-reference-paradox](/voids/self-reference-paradox/) — Why consciousness cannot fully examine itself
-- [the-unobservable-self](/voids/self-reference-paradox/) — The subject that cannot become its own object
 - [intersubjective-void](/voids/intersubjective-void/) — Where shared understanding breaks down
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's deepest difficulty, closely related
 

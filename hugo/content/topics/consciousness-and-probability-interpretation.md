@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-03-19 16:12:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[measurement-problem]]'
 - '[[phenomenal-consciousness]]'
 - '[[narrative-coherence]]'
-- '[[selection-laws]]'
+- '[[psychophysical-laws]]'
 - '[[qbism]]'
 created: 2026-02-13
 date: &id001 2026-02-13
@@ -135,7 +135,7 @@ The distinction matters for the interface view. Cognitive blindness is a limitat
 - [cognitive closure](/concepts/mysterianism/) — Why some features of mind-body interaction may be permanently inaccessible
 - [probability-intuition-void](/voids/probability-intuition-void/) — The cognitive void at the heart of probabilistic reasoning
 - [narrative-coherence](/concepts/narrative-coherence/) — How narrative structure overrides probabilistic reasoning
-- [selection-laws](/concepts/psychophysical-laws/) — Formalising consciousness's downward selection among quantum outcomes
+- [psychophysical-laws](/concepts/psychophysical-laws/) — Formalising consciousness's downward selection among quantum outcomes
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — What genuine uncertainty feels like from the inside
 - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — Why MWI cannot recover the Born rule without circularity
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Which QM interpretations leave room for consciousness at the interface

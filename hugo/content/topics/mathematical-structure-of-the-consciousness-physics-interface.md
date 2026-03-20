@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-03-18 01:44:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,7 +11,6 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[quantum-interpretations]]'
 - '[[causal-closure]]'
-- '[[selection-laws]]'
 - '[[psychophysical-laws]]'
 created: 2026-03-18
 date: &id001 2026-03-18
@@ -134,7 +133,7 @@ The mathematical structure of the consciousness-physics interface connects direc
 - [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) — Why the Born rule's underivability suggests consciousness at the interface
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/) — What a complete specification of the interface must contain
 - [epistemology-of-mechanism-at-the-consciousness-matter-interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/) — What epistemic methods can reach the interface
-- [selection-laws](/concepts/psychophysical-laws/) — What selection laws must specify and candidate formulations
+- [psychophysical-laws](/concepts/psychophysical-laws/) — What selection laws must specify and candidate formulations
 - [coupling-modes](/concepts/coupling-modes/) — Taxonomy of how consciousness couples: basis, timing, or probability control
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — The reverse inference from mind to matter
 - [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/) — What happens to consciousness in unresolved quantum superpositions

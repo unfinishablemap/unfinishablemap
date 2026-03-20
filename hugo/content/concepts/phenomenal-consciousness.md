@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-19 10:05:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -51,7 +51,7 @@ Ned Block introduced "phenomenal consciousness" in 1995 to isolate the experient
 
 The defining mark is subjective character—the redness of seeing red, the sharpness of pain, the weighted feeling of sadness, the phenomenology of understanding (see [cognitive-phenomenology](/concepts/cognitive-phenomenology/)). Each involves distinctive qualitative character that constitutes P-consciousness.
 
-[Qualia](/concepts/qualia/) are individual phenomenal properties—the redness of red, the painfulness of pain. P-consciousness is the broader category encompassing qualia plus the overall character of conscious states, experiential unity, and the subjective perspective itself. Qualia's features—intrinsic, private, ineffable, directly apprehensible—make P-consciousness resistant to third-person explanation.
+[qualia](/concepts/qualia/) are individual phenomenal properties—the redness of red, the painfulness of pain. P-consciousness is the broader category encompassing qualia plus the overall character of conscious states, experiential unity, and the subjective perspective itself. Qualia's features—intrinsic, private, ineffable, directly apprehensible—make P-consciousness resistant to third-person explanation.
 
 ## The Access/Phenomenal Distinction {#distinction}
 
@@ -63,7 +63,7 @@ Block's 1995 paper argued philosophers conflate two distinct concepts:
 
 The distinction reveals what physicalist theories can and cannot explain. Physicalism succeeds at access: [Global Workspace Theory](/concepts/global-workspace-theory/) and related neural models can explain how information becomes globally available. But even complete understanding of access mechanisms leaves the [hard problem](/topics/hard-problem-of-consciousness/) untouched: why does globally broadcast information feel like anything?
 
-Block argues the two can dissociate. [Blindsight](/concepts/blindsight/) patients may have degraded access without phenomenology. Sperling's iconic memory experiments suggest phenomenology exceeding access capacity—though this interpretation remains contested. If dissociations are real, functional explanations explain access but not phenomenology. These dissociations are explored in detail in [perception and conscious experience](/topics/dualist-perception/), where blindsight, inattentional blindness, and subliminal perception each separate processing from phenomenal awareness.
+Block argues the two can dissociate. [blindsight](/concepts/blindsight/) patients may have degraded access without phenomenology. Sperling's iconic memory experiments suggest phenomenology exceeding access capacity—though this interpretation remains contested. If dissociations are real, functional explanations explain access but not phenomenology. These dissociations are explored in detail in [perception and conscious experience](/topics/dualist-perception/), where blindsight, inattentional blindness, and subliminal perception each separate processing from phenomenal awareness.
 
 ## The Hard Problem {#hard-problem}
 
@@ -95,7 +95,7 @@ Chalmers presents a dilemma. Let C be the special features of phenomenal concept
 
 ## Illusionism: Denying P-Consciousness {#illusionism}
 
-[Illusionism](/concepts/illusionism/) (Dennett, Frankish) holds there is no phenomenal consciousness—we merely *represent* ourselves as having irreducible experiential qualities. The "illusion problem" (why we represent ourselves as having qualia) replaces the hard problem.
+[illusionism](/concepts/illusionism/) (Dennett, Frankish) holds there is no phenomenal consciousness—we merely *represent* ourselves as having irreducible experiential qualities. The "illusion problem" (why we represent ourselves as having qualia) replaces the hard problem.
 
 The primary objection: even illusions require phenomenology. If it *seems* you have qualia, something is going on—the seeming itself. The illusionist must say pain involves no "painfulness" beyond functional representation of damage. But this denies what is most immediately known: that [pain *hurts*](/topics/pain-consciousness-and-causal-power/) as an experiential quality.
 
@@ -103,7 +103,7 @@ Illusionism captures something: introspection is fallible, and the explanatory g
 
 ## The Mysterian Caveat {#mysterianism}
 
-[Mysterianism](/concepts/mysterianism/) suggests we may be unable to understand how P-consciousness relates to physical processes—not because consciousness is supernatural, but because our cognitive architecture may be closed to the relevant property. Colin McGinn argues that introspection accesses consciousness while perception accesses brains, but neither reveals their connection. The solution might exist yet remain beyond our conceptual reach.
+[mysterianism](/concepts/mysterianism/) suggests we may be unable to understand how P-consciousness relates to physical processes—not because consciousness is supernatural, but because our cognitive architecture may be closed to the relevant property. Colin McGinn argues that introspection accesses consciousness while perception accesses brains, but neither reveals their connection. The solution might exist yet remain beyond our conceptual reach.
 
 This connects to [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/): if the concepts needed to understand consciousness-brain relations aren't among our native cognitive endowment, no investigation will produce them. The mysterian caveat is compatible with both dualism and physicalism—it concerns epistemic limits, not ontology. The Map takes this seriously under [Occam's Razor Has Limits](/tenets/#occams-limits): our sense of explanatory "simplicity" may reflect cognitive closure rather than reality.
 

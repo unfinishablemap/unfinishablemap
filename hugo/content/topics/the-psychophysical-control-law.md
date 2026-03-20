@@ -1,12 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-19 19:58:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[psychophysical-laws]]'
-- '[[selection-laws]]'
 - '[[coupling-modes]]'
 - '[[control-theoretic-will]]'
 - '[[attention-as-interface]]'
@@ -16,7 +15,6 @@ concepts:
 - '[[attentional-economics]]'
 - '[[motor-selection]]'
 - '[[decoherence]]'
-- '[[psychophysical-coupling]]'
 - '[[mysterianism]]'
 - '[[explanatory-gap]]'
 - '[[neurophenomenology]]'
@@ -184,7 +182,6 @@ The psychophysical control law is the specification gap at the centre of the Map
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/) — The complementary problem: where does consciousness couple to the brain?
 - [control-theoretic-will](/concepts/control-theoretic-will/) — The control-theoretic framing this article builds on
 - [coupling-modes](/concepts/coupling-modes/) — Basis, timing, and probability control as coupling modes
-- [selection-laws](/concepts/psychophysical-laws/) — The downward direction of psychophysical law
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The mechanism the control law governs
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface through which control operates
 - [attentional-economics](/concepts/attentional-economics/) — The ~10 bits/second bandwidth constraint

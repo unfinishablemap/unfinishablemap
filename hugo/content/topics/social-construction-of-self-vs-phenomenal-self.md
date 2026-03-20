@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-12
-ai_modified: 2026-02-16 03:40:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,13 +28,13 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[diachronic-agency-and-personal-narrative]]'
-- '[[the-unobservable-self]]'
+- '[[self-reference-paradox]]'
 - '[[destabilizing-self-knowledge]]'
-- '[[past-self-void]]'
+- '[[inaccessible-past]]'
 - '[[cognitive-integration-and-the-self]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[embodied-consciousness-and-the-interface]]'
-- '[[first-person-third-person-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 title: Social Construction of Self vs Phenomenal Self
 topics:
 - '[[personal-identity]]'
@@ -121,12 +121,12 @@ This analysis connects to the Map's foundational commitments at multiple points.
 - [intersubjectivity](/concepts/intersubjectivity/) — How phenomenal experience can be shared between minds
 - [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — The role of consciousness in enabling social self-models
 - [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/) — How narrative shapes agency across time
-- [the-unobservable-self](/voids/self-reference-paradox/) — Why the phenomenal self resists its own introspective gaze
+- [self-reference-paradox](/voids/self-reference-paradox/) — Why the phenomenal self resists its own introspective gaze
 - [haecceity](/concepts/haecceity/) — Primitive thisness and why qualitative identity is insufficient
-- [past-self-void](/voids/inaccessible-past/) — The reconstructive nature of autobiographical memory
+- [inaccessible-past](/voids/inaccessible-past/) — The reconstructive nature of autobiographical memory
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Meditative phenomenology as evidence for the persistence of the phenomenal self
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — The lived body as pre-social foundation for phenomenal selfhood
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — Why constructionism's third-person methodology misses the phenomenal self
+- [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — Why constructionism's third-person methodology misses the phenomenal self
 
 ## References
 

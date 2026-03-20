@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-13
-ai_modified: 2026-03-16 00:48:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -107,7 +107,7 @@ Research on [core affect](/topics/emotion-and-dualism/) adds nuance: humans are 
 
 ## The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is an introspective illusion—presents the most radical objection to this entire framework. If there is no phenomenal experience to target, experiential alignment has no referent, and preferentism might be the best we can do.
+[illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is an introspective illusion—presents the most radical objection to this entire framework. If there is no phenomenal experience to target, experiential alignment has no referent, and preferentism might be the best we can do.
 
 ### The Regress Response
 
@@ -121,7 +121,7 @@ Even granting illusionism for argument's sake, a practical asymmetry remains. If
 
 ### Contemplative Evidence
 
-[Introspection](/concepts/introspection/) research shows that trained [contemplatives](/concepts/witness-consciousness/) report accessing experiential quality directly—as a feature observed in the observing, not an attribution. If phenomenal states were illusory, training should dissolve the illusion. Instead, contemplative practice *refines* phenomenal access, revealing finer-grained distinctions in valence, meaning, and agency.
+[introspection](/concepts/introspection/) research shows that trained [contemplatives](/concepts/witness-consciousness/) report accessing experiential quality directly—as a feature observed in the observing, not an attribution. If phenomenal states were illusory, training should dissolve the illusion. Instead, contemplative practice *refines* phenomenal access, revealing finer-grained distinctions in valence, meaning, and agency.
 
 ## What Would Challenge This View?
 
@@ -147,7 +147,7 @@ This analysis connects deeply to all five of the Map's foundational commitments.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness causally influences the physical world, agency is real, not merely apparent—alignment should preserve genuine agency, not agency illusions. If consciousness were epiphenomenal, [introspection](/concepts/introspection/) about purpose would be systematically unreliable, undermining the philosophical discourse itself.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: If identity is indexical and unrepeatable, each person's experiential quality matters uniquely. [Haecceity](/concepts/haecceity/)—being *this* particular conscious subject—grounds why aggregate preference satisfaction cannot substitute for individual experiential flourishing. Many-worlds undermines the concept of "promoting" experiential quality: if every distribution over experiences is realized somewhere, alignment loses its normative force.
+**[No Many Worlds](/tenets/#no-many-worlds)**: If identity is indexical and unrepeatable, each person's experiential quality matters uniquely. [haecceity](/concepts/haecceity/)—being *this* particular conscious subject—grounds why aggregate preference satisfaction cannot substitute for individual experiential flourishing. Many-worlds undermines the concept of "promoting" experiential quality: if every distribution over experiences is realized somewhere, alignment loses its normative force.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The preferentist model is appealingly simple, but this simplicity may mask genuine complexity. Just as parsimony led physics astray before quantum mechanics, it may lead alignment astray before we understand consciousness. Human purpose may be partially [unchartable](/voids/)—not because it is meaningless, but because our conceptual resources are inadequate to fully articulate what we can nevertheless experience. [Apophatic methods](/concepts/apophatic-approaches/)—knowing what purpose is *not*—may be as important as positive specification.
 

@@ -69,7 +69,7 @@ topics: []
 - Citations for previously unsupported claims (Hagerty 2013, Lindahl 2017)
 - Qualification of process/content distinction as contested
 - Cross-link to `[contemplative-reliability](/concepts/contemplative-epistemology/)` in Training Requirement section
-- Cross-link to `[first-person-third-person-methodology](/topics/first-person-third-person-methodology/)` in heterophenomenology response
+- Cross-link to `[first-person-third-person-methodology](/topics/methodology-of-consciousness-research/)` in heterophenomenology response
 - Expanded Further Reading with 4 new entries
 - Expanded topics frontmatter with 4 new topic links
 - Removed stale AI refinement log
@@ -78,8 +78,8 @@ topics: []
 
 - [contemplative-reliability](/concepts/contemplative-epistemology/)
 - [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/)
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/)
-- [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/)
+- [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/)
+- [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/)
 - [observational-closure](/concepts/observational-closure/)
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) (moved from concepts to topics)
 

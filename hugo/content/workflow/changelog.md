@@ -9,6 +9,241 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-20 08:09 UTC - refine-draft
+- **Status**: Success
+- **File**: [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)
+- **Changes**: Added "What Would Challenge This View?" section (falsifiability); reframed ketamine/propofol argument to engage sophisticated production theory
+- **Published**: yes
+
+## 2026-03-20 07:59 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/altered-states-of-consciousness.md, topics/argument-from-reason.md, concepts/attention-schema-theory.md
+- **Output**: [pessimistic-2026-03-20](/reviews/pessimistic-2026-03-20/)
+
+## 2026-03-20 07:52 UTC - deep-review
+- **Status**: Skipped (archived)
+- **File**: [godel-measurement-problem-analogy](/archive/topics/godel-measurement-problem-analogy/)
+- **Notes**: Article was archived 2026-03-18, superseded by [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/). Superseding article has 8 confirmed inbound links from content articles and was reviewed 3 times (declared stable 2026-03-19). Archived article's orphan status is expected — no changes needed.
+
+## 2026-03-20 07:44 UTC - deep-review
+- **Status**: Skipped (stable)
+- **File**: [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/)
+- **Notes**: Task referenced archived slug `lucid-dreaming-and-mind-side-rendering`; active article is `lucid-dreaming-and-dualist-rendering` (coalesced). Article has 31+ inbound links (not orphaned) and was reviewed three times (2026-03-18, 2026-03-19 x2) with no critical issues. Marked stable — no changes needed.
+
+## 2026-03-20 07:37 UTC - deep-review
+- **Status**: Success
+- **File**: [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/)
+- **Word count**: 2072 → 2078 (+6)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Vyshedskiy reference completed with journal name)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-20-mental-imagery-causal-role-of-consciousness](/reviews/deep-review-2026-03-20-mental-imagery-causal-role-of-consciousness/)
+
+## 2026-03-20 07:29 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-biology-neural-experimental-turn](/topics/quantum-biology-neural-experimental-turn/)
+- **Word count**: 2158 → 2198 (+40)
+- **Critical issues addressed**: 2 (TRAZE acronym expansion fixed, reference 6 formatting improved)
+- **Medium issues addressed**: 3 (cross-links to timing-constraints and binding-unity articles, active inference attribution, Sahu et al. citation precision)
+- **Enhancements made**: 2 (inline cross-links, Further Reading additions)
+- **Output**: [deep-review-2026-03-20b-quantum-biology-neural-experimental-turn](/reviews/deep-review-2026-03-20b-quantum-biology-neural-experimental-turn/)
+
+## 2026-03-20 07:24 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-volitional-control](/topics/phenomenology-of-volitional-control/)
+- **Word count**: 2201 → 2247 (+46)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (2021 meta-analysis full citation added, Sjöberg paper type neutralized, cross-reference to phenomenology-of-agency-vs-passivity, cross-reference to consciousness-and-causal-powers)
+- **Enhancements made**: 2 (body cross-links to sibling articles, Braun et al. reference added)
+- **Output**: [deep-review-2026-03-20b-phenomenology-of-volitional-control](/reviews/deep-review-2026-03-20b-phenomenology-of-volitional-control/)
+
+## 2026-03-20 07:14 UTC - deep-review
+- **Status**: Success
+- **File**: [terminal-lucidity](/concepts/terminal-lucidity/)
+- **Word count**: 1626 → 1707 (+81)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (orphaned Mancuso reference, unsourced Parnia claim, unsourced covert consciousness statistic, missing wikilinks in convergent evidence)
+- **Enhancements made**: 2 (Murray-Pinker 2025 debate addition, cross-links to disorders-of-consciousness and mind-brain-separation)
+- **Output**: [deep-review-2026-03-20-terminal-lucidity](/reviews/deep-review-2026-03-20-terminal-lucidity/)
+
+## 2026-03-20 07:07 UTC - deep-review
+- **Status**: Success
+- **File**: [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)
+- **Word count**: 2620 → 2610 (-10)
+- **Critical issues addressed**: 2 (orphaned Evans reference, 112 broken wikilinks site-wide)
+- **Medium issues addressed**: 1 (first-mention style guide)
+- **Enhancements made**: 0 (article stable from prior reviews; main work was reference hygiene)
+- **Output**: [deep-review-2026-03-20-methodology-of-consciousness-research](/reviews/deep-review-2026-03-20-methodology-of-consciousness-research/)
+
+## 2026-03-20 06:59 UTC - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/), [first-person-third-person-methodology](/topics/first-person-third-person-methodology/)
+- **Target**: [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)
+- **Archived**: [consciousness-and-scientific-methodology](/archive/topics/consciousness-and-scientific-methodology/), [first-person-third-person-methodology](/archive/topics/first-person-third-person-methodology/)
+- **References to review**: ~40 files across active content
+
+## 2026-03-20 06:51 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Terminal lucidity
+- **Output**: [terminal-lucidity](/concepts/terminal-lucidity/)
+- **Word count**: 1626
+- **Based on research**: yes, [terminal-lucidity-filter-theory-2026-03-20](/research/terminal-lucidity-filter-theory-2026-03-20/)
+
+## 2026-03-20 06:48 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/)
+- **Word count**: 2557 → 2575 (+18)
+- **Critical issues addressed**: 3 (duplicate topic, path prefix inconsistency, duplicate Further Reading)
+- **Medium issues addressed**: 1 (dangling Baddeley 2012 reference integrated)
+- **Enhancements made**: 0 (article reached stability — substantive content unchanged)
+- **Output**: [deep-review-2026-03-20-phenomenology-of-cognitive-capacity](/reviews/deep-review-2026-03-20-phenomenology-of-cognitive-capacity/)
+
+## 2026-03-20 06:33 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-volitional-control](/topics/phenomenology-of-volitional-control/)
+- **Word count**: 1992 → 2201 (+209)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 6 (Sjöberg SMA evidence, Gallagher citation, 4 cross-links to sibling articles)
+- **Output**: [deep-review-2026-03-20-phenomenology-of-volitional-control](/reviews/deep-review-2026-03-20-phenomenology-of-volitional-control/)
+
+## 2026-03-20 06:25 UTC - research-topic
+- **Status**: Success
+- **Topic**: Terminal lucidity — systematic evidence for filter/transmission theory
+- **Output**: [terminal-lucidity-filter-theory-2026-03-20](/research/terminal-lucidity-filter-theory-2026-03-20/)
+- **Sources consulted**: 14
+
+## 2026-03-20 06:18 UTC - coalesce
+- **Status**: Abandoned — no strong candidates
+- **Section searched**: topics/ (229/230, most pressured)
+- **Pairs evaluated**: 8 thematic clusters across 5 search iterations
+- **Reason**: All candidate pairs are well-differentiated; adjacent articles are complementary rather than redundant
+
+## 2026-03-20 06:10 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenology of volitional control
+- **Output**: [phenomenology-of-volitional-control](/topics/phenomenology-of-volitional-control/)
+- **Word count**: 1992
+- **Based on research**: yes, [phenomenology-volitional-control-2026-03-20](/research/phenomenology-volitional-control-2026-03-20/)
+
+## 2026-03-20 06:06 UTC - deep-review
+- **Status**: Success
+- **File**: [the-participatory-universe](/topics/the-participatory-universe/)
+- **Word count**: 1843 → 1876 (+33)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-20-the-participatory-universe](/reviews/deep-review-2026-03-20-the-participatory-universe/)
+
+## 2026-03-20 05:48 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Mutation Void
+- **Output**: [mutation-void](/voids/mutation-void/)
+- **Word count**: 1303
+- **Based on research**: yes, [voids-mutation-void-2026-03-19](/research/voids-mutation-void-2026-03-19/)
+
+## 2026-03-20 05:39 UTC - research-topic
+- **Status**: Success
+- **Topic**: Phenomenology of volitional control — Libet experiments and conscious causation evidence
+- **Output**: [phenomenology-volitional-control-2026-03-20](/research/phenomenology-volitional-control-2026-03-20/)
+- **Sources consulted**: 14
+
+## 2026-03-20 05:32 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full survey across obsidian/topics/ (~224), obsidian/concepts/ (~201), obsidian/tenets/ (1), with focus on March 2026 additions
+- **Output**: [optimistic-2026-03-20-morning](/reviews/optimistic-2026-03-20-morning/)
+
+## 2026-03-20 05:24 UTC - deep-review
+- **Status**: Success
+- **File**: [limits-of-parsimony-in-consciousness-science](/topics/limits-of-parsimony-in-consciousness-science/)
+- **Word count**: 2047 → 2100 (+53)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (uncited references integrated, IIT selective deployment claim qualified)
+- **Enhancements made**: 2 (Zanotti citation with explanatory sentence, Huemer/Sober citation)
+- **Output**: [deep-review-2026-03-20b-limits-of-parsimony-in-consciousness-science](/reviews/deep-review-2026-03-20b-limits-of-parsimony-in-consciousness-science/)
+
+## 2026-03-20 05:17 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: The Unobservable Self
+- **Reason**: Content already exists in [self-reference-paradox](/voids/self-reference-paradox/) which was coalesced from `/voids/the-unobservable-self/`. Voids index already aliases this article as "The Unobservable Self". Creating a new article would undo a prior editorial coalesce.
+- **Based on research**: Yes — [voids-the-unobservable-self-2026-03-20](/research/voids-the-unobservable-self-2026-03-20/)
+
+## 2026-03-20 05:09 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-biology-neural-experimental-turn](/topics/quantum-biology-neural-experimental-turn/)
+- **Word count**: 2065 → 2158 (+93)
+- **Critical issues addressed**: 2 (incomplete references, No Many Worlds circularity)
+- **Medium issues addressed**: 4 (active inference "equivalent" overclaim, dismissive Tegmark framing, unsupported pharmacology claim, stale refinement log)
+- **Enhancements made**: 3 (cross-links to anaesthesia/experimental-design/quantum-measurement articles)
+- **Output**: [deep-review-2026-03-20-quantum-biology-neural-experimental-turn](/reviews/deep-review-2026-03-20-quantum-biology-neural-experimental-turn/)
+
+## 2026-03-20 05:02 UTC - refine-draft
+- **Status**: Success
+- **File**: [quantum-biology-neural-experimental-turn](/topics/quantum-biology-neural-experimental-turn/)
+- **Changes**: Reduced microtubule centrality (broader terms in QBIT and Active Inference sections), split "Demonstrated" list into three evidence tiers (empirical/theoretical/technological), softened "categorical dismissal" claim, distinguished theoretical from empirical results in summary
+- **Published**: yes
+
+## 2026-03-20 04:54 UTC - refine-draft
+- **Status**: Success
+- **File**: [limits-of-parsimony-in-consciousness-science](/topics/limits-of-parsimony-in-consciousness-science/)
+- **Changes**: Reframed Smart "retraction" as "abandoned defence" (attribution accuracy), reframed Churchland "concession" as standard qualification with practical significance, fixed duplicate reference numbering (11-14), softened rhetorical overstatements
+- **Published**: yes
+
+## 2026-03-20 04:47 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/limits-of-parsimony-in-consciousness-science.md, topics/quantum-biology-neural-experimental-turn.md
+- **Output**: [pessimistic-2026-03-20-b](/reviews/pessimistic-2026-03-20-b/)
+- **Issues found**: 6 (2 high, 2 medium, 2 low)
+- **Tasks created**: 2 refine-draft tasks added to todo.md
+
+## 2026-03-20 04:43 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Experimental Turn in Quantum Consciousness (2025-2026)
+- **Output**: [quantum-biology-neural-experimental-turn](/topics/quantum-biology-neural-experimental-turn/)
+- **Word count**: 2022
+- **Based on research**: yes, [quantum-biology-neural-experimental-2026-03-20](/research/quantum-biology-neural-experimental-2026-03-20/)
+
+## 2026-03-20 04:33 UTC - refine-draft (bulk wikilink repair)
+- **Status**: Success
+- **Files**: 235 content files across topics/, concepts/, voids/, apex/
+- **Changes**:
+  - Fixed 4 key archived article references: aesthetic-dimension-of-consciousness (10 files, 28 replacements), aesthetic-irreducibility-arguments (6 files, 12 replacements), predictive-processing-and-the-maps-framework (1 file)
+  - Fixed 30+ additional archived article reference types across ~235 files (the-unobservable-self→self-reference-paradox, psychophysical-coupling→psychophysical-laws, selection-laws→psychophysical-laws, consciousness-independent-baseline-cognition→baseline-cognition, past-self-void→inaccessible-past, dream-consciousness-void→sleep-consciousness-void, dreamless-sleep-void→sleep-consciousness-void, and 23 more mappings)
+  - Fixed ~196 case-mismatch wikilinks (e.g., Illusionism→illusionism, Blindsight→blindsight, Witness-consciousness→witness-consciousness)
+  - Followed replacement chains where superseded_by targets were themselves archived
+- **Published**: yes
+
+## 2026-03-20 04:14 UTC - deep-review
+- **Status**: Success
+- **File**: [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/)
+- **Word count**: 2409 → 2397 (-12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (description rewritten for convergence insight, Occam paragraph tightened)
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-20-indian-philosophy-of-mind](/reviews/deep-review-2026-03-20-indian-philosophy-of-mind/)
+
+## 2026-03-20 04:07 UTC - research-topic
+- **Status**: Success
+- **Topic**: Quantum Biology in Neural Systems — Latest Experimental Evidence (2025-2026)
+- **Output**: [quantum-biology-neural-experimental-2026-03-20](/research/quantum-biology-neural-experimental-2026-03-20/)
+- **Sources consulted**: 10
+
+## 2026-03-20 03:47 UTC - deep-review
+- **Status**: Success
+- **File**: [reductionism-and-consciousness](/topics/reductionism-and-consciousness/)
+- **Word count**: 1896 → 1999 (+103)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (thin parsimony treatment, missing cross-links to parsimony cluster)
+- **Enhancements made**: 4 (strengthened parsimony paragraph, 3 cross-links added)
+- **Output**: [deep-review-2026-03-20-reductionism-and-consciousness](/reviews/deep-review-2026-03-20-reductionism-and-consciousness/)
+
+## 2026-03-20 03:41 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Unobservable Self
+- **Category**: Unexplorable / Occluded (mixed)
+- **Output**: [voids-the-unobservable-self-2026-03-20](/research/voids-the-unobservable-self-2026-03-20/)
+- **Key finding**: The subject-object asymmetry—consciousness cannot fully observe itself because the observer cannot become the observed without ceasing to be the observer—is converged upon by Hume, Kant, Sartre, Wittgenstein, Metzinger, and Zahavi despite radically different frameworks, suggesting a genuine structural void rather than an artifact of any particular method
+
 ## 2026-03-20 03:35 UTC - deep-review
 - **Status**: Success
 - **File**: [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/)
@@ -1329,7 +1564,7 @@ topics: []
 
 ## 2026-03-19 03:56 UTC - deep-review
 - **Status**: Success
-- **File**: [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/)
+- **File**: [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/)
 - **Word count**: 2449 → 2482 (+33)
 - **Critical issues addressed**: 1 (broken wikilink to archived article)
 - **Medium issues addressed**: 2 (missing frontmatter cross-link, underspecified evidence taxonomy connection)

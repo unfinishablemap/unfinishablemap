@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-20 00:52:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -108,7 +108,7 @@ The [decoherence](/concepts/decoherence/) challenge constrains but doesn't elimi
 
 ## The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/) might seem to dissolve the problem: if there's no "real" consciousness selecting outcomes, there's nothing requiring coordination.
+[illusionism](/concepts/illusionism/) might seem to dissolve the problem: if there's no "real" consciousness selecting outcomes, there's nothing requiring coordination.
 
 But Raymond Tallis's regress objection applies. To say multiple "illusions" need no coordination requires explaining why each brain produces *its own* illusion. The functional processes generating the seeming must be local—but this is precisely what interface locality claims about consciousness itself. Why does Brain A's illusion-generating process create the seeming of being *this* observer, distinct from Brain B's? The problem relocates rather than dissolves.
 

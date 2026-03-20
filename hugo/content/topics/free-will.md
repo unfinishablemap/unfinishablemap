@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-03-19 14:01:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -88,7 +88,7 @@ Genuine choice requires [counterfactual reasoning](/concepts/counterfactual-reas
 
 ### The Physical Mechanism Question
 
-How does consciousness interface with the brain? Candidates include quantum selection (biasing indeterminate outcomes or Zeno-like stabilisation), [retrocausal influence](/concepts/retrocausality/), or unknown physics. The Map doesn't commit to any single mechanism. What matters is that consciousness *can* influence physical outcomes without violating physical laws. [Spontaneous collapse theories](/concepts/spontaneous-collapse-theories/) solve the [prebiotic problem](/concepts/prebiotic-collapse/) by providing baseline collapse that consciousness modulates. See [quantum-consciousness](/concepts/quantum-consciousness/) and [attention-interface-mechanisms](/topics/attention-as-selection-interface/) for detailed analysis.
+How does consciousness interface with the brain? Candidates include quantum selection (biasing indeterminate outcomes or Zeno-like stabilisation), [retrocausal influence](/concepts/retrocausality/), or unknown physics. The Map doesn't commit to any single mechanism. What matters is that consciousness *can* influence physical outcomes without violating physical laws. [Spontaneous collapse theories](/concepts/spontaneous-collapse-theories/) solve the [prebiotic problem](/concepts/prebiotic-collapse/) by providing baseline collapse that consciousness modulates. See [quantum-consciousness](/concepts/quantum-consciousness/) and [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) for detailed analysis.
 
 The philosophical case for agent causation does not depend on any particular mechanism. But the [epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) shows that *some* mechanism is needed. The philosophical case establishes *that* agent causation is real; the mechanism question addresses *how*. See [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) for one proposed implementation.
 

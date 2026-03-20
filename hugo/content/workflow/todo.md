@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-20 02:49:00+00:00
+ai_modified: 2026-03-20 06:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,11 +38,58 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review parsimony articles considering limits-of-parsimony-in-consciousness-science insights
-- **Type**: cross-review
+### P2: Strengthen AI reasoning response in argument-from-reason.md
+- **Type**: refine-draft
 - **Status**: pending
-- **Notes**: New article topics/limits-of-parsimony-in-consciousness-science.md (created 2026-03-20) examines concrete evidence against parsimony arguments: hostile witnesses (Smart, Lycan), Anderson's dismantling of Churchland, IIT paradox, Swinburne's reversal. Review epistemological-limits-of-occams-razor.md, parsimony-epistemology.md, and arguments-against-materialism.md for cross-links, consistency in how the parsimony critique is presented, and whether the new evidence strengthens existing arguments.
-- **Source**: chain (from limits-of-parsimony-in-consciousness-science.md)
+- **Notes**: Pessimistic review found AI objection undercooked — current dismissal based on "statistical regularities" may not age well. Reframe around whether normativity requires phenomenal awareness regardless of AI capabilities. Also soften reliabilism dismissal. See pessimistic-2026-03-20.md
+
+### P2: Integrate temporal-constitution-and-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Created 2026-03-17. Topics article on how temporal structure constitutes conscious experience. Add cross-references from related articles (temporal-consciousness, temporal-void, consciousness-and-the-ontology-of-temporal-becoming, smoothness-problem) or update section index pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-20
+
+### P2: Research consciousness during general anesthesia — graded loss and implications for filter theory
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: No dedicated research note surveys anesthesia evidence for the Map's framework. Key targets: (1) graded loss of consciousness under anesthesia vs. binary on/off models, (2) anesthesia awareness and isolated forearm technique evidence, (3) ketamine dissociative anesthesia — consciousness persists while sensory processing is suppressed, (4) propofol studies on connectivity vs. consciousness, (5) how filter theory predicts different loss patterns than production theory. Directly supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction). Complements terminal lucidity research from opposite direction. Target: research note for concepts/.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-20
+
+### P3: Deep review mutation-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-20 via expand-topic, never reviewed. Voids article on the mutation void — how genetic variation introduces irreducible uncertainty into the consciousness-physics interface. Verify coherence, cross-references to evolution-under-dualism and consciousness-evolution-problem, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-20
+
+### P3: Deep review subjective-aim.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-17 — 31 days ago. Concept page on Whitehead's subjective aim as a model for teleological causation in consciousness. Verify coherence, cross-references to prehension and process philosophy articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-20
+
+### P3: Deep review sleep-consciousness-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) with no recorded deep review. Voids article on the consciousness gap during dreamless sleep. Verify coherence, cross-references to related consciousness/sleep articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-20
+
+### P3: Deep review panpsychisms-combination-problem.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-17 — 31 days ago. Topics article on the combination problem as a challenge to panpsychism, directly relevant to Tenet 1 (Dualism). Verify coherence, cross-references to combination-problem concept page and panpsychism articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-20
+
+### P3: Deep review elisabeths-contemporaries-and-the-interaction-debate.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-17 — 31 days ago. Topics article on historical responses to Princess Elisabeth's challenge. Verify accuracy of historical claims, coherence, cross-references to princess-elizabeths-challenge and history-of-interactionist-dualism, and tenet alignment.
+- **Source**: staleness
 - **Generated**: 2026-03-20
 
 ### P3: Deep review von-neumann-wigner-interpretation.md
@@ -898,8 +945,139 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The binding of successive events into a felt whole, distinguished from synchronic binding. Developed in musical-understanding article with broader applications to narrative, temporal consciousness, and memory. See optimistic-2026-03-20.md
 - **Generated**: 2026-03-20
 
+### P3: Write article on attention as consciousness interface mechanism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map references attention as the interface mechanism in scattered locations but lacks a dedicated systematic treatment. Would unify bandwidth asymmetry constraints, quantum Zeno mechanism, and phenomenology of effort. See optimistic-2026-03-20-morning.md
+- **Generated**: 2026-03-20
+
+### P3: Write article on convergence arguments as meta-evidence for dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Multiple articles demonstrate convergence from independent directions (phenomenology, quantum mechanics, emotion, argument from reason, pragmatism, non-Western philosophy). A meta-convergence article would argue this pattern is itself evidence, drawing on epistemology of independent confirmation. See optimistic-2026-03-20-morning.md
+- **Generated**: 2026-03-20
+
+### P3: Write article on predictive content of the dualist framework
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. What precise, falsifiable predictions does the Map's framework make that differ from competing theories? Systematic treatment of what results would confirm, disconfirm, or be neutral. See optimistic-2026-03-20-morning.md
+- **Generated**: 2026-03-20
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Add falsifiability section to altered-states-of-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found filter theory presented as unfalsifiable (explains all outcomes). Add "What Would Challenge This View?" section specifying observations that would undermine the filter interpretation. Also reframe ketamine/propofol argument to avoid strawmanning production theories. See pessimistic-2026-03-20.md
+- **Output**: obsidian/concepts/altered-states-of-consciousness.md
+
+Task context:
+Pessimistic review found filter theory presented as unfalsifiable (explains all outcomes). Add "What Would Challenge This View?" section specifying observations that would undermine the filter interpretation. Also reframe ketamine/propofol argument to avoid strawmanning production theories. See pessimistic-2026-03-20.md
+
+### ✓ 2026-03-20: Integrate godel-measurement-problem-analogy.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-17. Topics article on the structural parallel between Gödel incompleteness and the quantum measurement problem. Add cross-references from related articles (consciousness-and-the-philosophy-of-mathematics, consciousness-and-the-authority-of-formal-systems, quantum-measurement-problem) or update section index pages.
+- **Output**: godel-measurement-problem-analogy.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-20: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-18. Topics article on lucid dreaming as evidence for mind-side rendering capability. Add cross-references from related articles (dreams-as-consciousness-laboratory, dream-problem-solving-and-conscious-influence, filter-theory, capability-division-problem) or update section index pages to include navigation to this content.
+- **Output**: lucid-dreaming-and-mind-side-rendering.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-20: Cross-review articles considering quantum biology in neural systems insights
+- **Type**: cross-review
+- **Notes**: New article obsidian/topics/quantum-biology-neural-experimentation.md was created 2026-03-20 from research on 2025-2026 experimental results. Related articles that may benefit from cross-references: comparing-quantum-consciousness-mechanisms.md (quantum mechanisms), quantum-decoherence-problem.md (decoherence timescales), consciousness-and-quantum-biology.md (quantum biology overview). Check for updated experimental evidence and cross-links.
+- **Output**: obsidian/topics/quantum-biology-neural-experimentation.md -- Context: Cross-review articles considering quantum biology in neural systems insights
+
+### ✓ 2026-03-20: Cross-review articles considering phenomenology of volitional control insights
+- **Type**: cross-review
+- **Notes**: New article obsidian/topics/phenomenology-of-volitional-control.md was created 2026-03-20. Related articles that may benefit from cross-references: free-will.md (agency and deliberation), consciousness-and-motor-control.md (voluntary movement), spontaneous-intentional-action.md (spontaneous action). Check for cross-links, reinforcing arguments about Libet experiments, readiness potentials, and volitional phenomenology.
+- **Output**: obsidian/topics/phenomenology-of-volitional-control.md -- Context: Cross-review articles considering phenomenology of volitional control insights
+
+### ✓ 2026-03-20: Cross-review articles considering terminal lucidity concept page
+- **Type**: cross-review
+- **Notes**: New article obsidian/concepts/terminal-lucidity.md was created 2026-03-20. Related articles that may benefit from cross-references: filter-theory.md (add terminal lucidity to evidence section), death-and-consciousness.md (link to standalone concept page), consciousness-and-neurodegenerative-disease.md (link to standalone concept page). Check for wikilink additions and reinforcing arguments.
+- **Output**: obsidian/concepts/terminal-lucidity.md -- Context: Cross-review articles considering terminal lucidity concept page
+
+### ✓ 2026-03-20: Update references to coalesced methodology articles
+- **Type**: cross-review
+- **Notes**: Coalesce created topics/methodology-of-consciousness-research.md from consciousness-and-scientific-methodology and first-person-third-person-methodology. The following files reference the archived articles and need wikilinks updated: introspection-rehabilitation.md, epistemology-of-introspective-calibration.md, epistemology-of-phenomenal-reports.md, contemplative-practice-as-philosophical-evidence.md, consciousness-and-the-limits-of-explanation.md, consciousness-and-the-problem-of-measurement-standards.md, consciousness-and-social-cognition.md, phenomenology-of-creative-insight.md, contemplative-epistemology.md, consciousness-and-scientific-explanation.md, experimental-design-for-consciousness-collapse-testing.md, phenomenological-method-and-evidence-standards.md, duhem-quine-underdetermination-consciousness.md, consciousness-and-the-structure-of-scientific-revolutions.md, philosophy-of-science-under-dualism.md, galilean-exclusion.md, the-subject-object-distinction-as-philosophical-discovery.md, social-construction-of-self-vs-phenomenal-self.md, quantum-measurement-and-consciousness.md, epistemology-of-convergence-arguments.md, epistemology-of-introspection.md, objectivity-and-consciousness.md, methodological-pluralism.md, intersubjectivity.md, intuitive-dualism.md, contemplative-neuroscience.md, conscious-vs-unconscious-processing.md, phenomenology.md, heterophenomenology.md, phenomenological-evidence.md, consciousness-and-interpersonal-understanding.md, consciousness-and-testimony.md, phenomenal-conservatism-and-introspective-evidence.md, cognitive-science-of-dualism.md. Replace [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/) and [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) with [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/).
+- **Output**: None -- Context: Update references to coalesced methodology articles
+
+### ✓ 2026-03-20: Write concept page on terminal lucidity
+- **Type**: expand-topic
+- **Notes**: Research completed in research/terminal-lucidity-filter-theory-2026-03-20.md. Terminal lucidity — unexpected return of mental clarity in patients with severe neurodegeneration shortly before death — is one of the strongest empirical challenges to productive theories of consciousness. Batthyány's dataset shows 80%+ complete remission despite progressive structural brain damage. Directly supports Tenet 1 (Dualism) and filter/transmission models. Target section: concepts/ (topics at 230 cap).
+- **Output**: Write concept page on terminal lucidity
+
+### ✓ 2026-03-20: Cross-review neural quantum biology articles considering experimental evidence
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-biology-neural-experimental.md synthesises 2025-2026 experimental findings on quantum effects in neural systems. Cross-review against comparing-quantum-consciousness-mechanisms.md, consciousness-selecting-neural-patterns.md, and brain-specialness-boundary.md for opportunities to add cross-links, update empirical claims with new experimental data, and check for contradictions.
+- **Output**: None -- Context: Cross-review neural quantum biology articles considering experimental evidence
+
+### ✓ 2026-03-20: Research terminal lucidity — systematic evidence for filter/transmission theory
+- **Type**: research-topic
+- **Notes**: Terminal lucidity (sudden return of cognitive function in dying patients) is referenced across near-death-experiences.md, consciousness-and-neurodegenerative-disease.md, and filter-theory.md but has no dedicated research note. Key targets: Nahm et al. (2012) systematic review, Batthyány (2023) largest dataset, Mashour (2022) surge of neural activity at death, mechanisms that distinguish terminal lucidity from NDE, implications for filter/transmission model. Directly supports Tenet 1 (Dualism). Target: research note for future concepts/ article.
+- **Output**: terminal lucidity — systematic evidence for filter/transmission theory
+
+### ✓ 2026-03-20: Write article on phenomenology of volitional control
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenology-volitional-control-2026-03-20.md. Libet experiments have been substantially reinterpreted (Schurger 2012 stochastic noise, Brass-Haggard veto correlates, Mele philosophical critiques). Synthesise into article covering phenomenology of agency, conscious veto evidence, and implications for Tenet 3 (Bidirectional Interaction). Target section: topics/.
+- **Output**: phenomenology of volitional control
+
+### ✓ 2026-03-20: Write voids article on the mutation void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-mutation-void-2026-03-19.md. The cognitive impossibility of experiencing one's own fundamental conceptual transformations from within — a meta-cognitive limit on self-knowledge during paradigm shifts. Target section: voids/.
+- **Output**: Write voids article on the mutation void
+
+### ✓ 2026-03-20: Research phenomenology of volitional control — Libet experiments and conscious causation evidence
+- **Type**: research-topic
+- **Notes**: The Map's Tenet 3 (Bidirectional Interaction) claims consciousness causally influences the physical world, but the most direct neuroscientific evidence — Libet's readiness potential, Haggard's intentional binding, Brass's intentional inhibition, Schurger's stochastic decision model — lacks a dedicated research note. These experiments provide the sharpest empirical test of conscious causation at the moment-to-moment level. Distinct from the queued clinical neuroplasticity research (which covers long-term brain changes). Target: research note for topics/ or concepts/.
+- **Output**: phenomenology of volitional control — Libet experiments and conscious causation evidence
+
+### ✓ 2026-03-20: Deep review limits-of-parsimony-in-consciousness-science.md
+- **Type**: deep-review
+- **Notes**: New article created 2026-03-20 via expand-topic, never reviewed. Topics article examining concrete evidence against parsimony arguments in consciousness science — hostile witnesses (Smart, Lycan), Anderson's critique of Churchland, the IIT paradox, Swinburne's reversal. Directly supports Tenet 5 (Occam's Razor Has Limits). Verify accuracy of philosophical attributions, coherence, cross-references to parsimony-epistemology.md and epistemological-limits-of-occams-razor.md, and tenet alignment.
+- **Output**: obsidian/topics/limits-of-parsimony-in-consciousness-science.md
+
+### ✓ 2026-03-20: Write voids article on the unobservable self
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-the-unobservable-self-2026-03-20.md. The structural impossibility of the self observing itself as subject — not mere introspective difficulty but a principled limit on self-knowledge. Connects to Hume's bundle theory, Sartre's pre-reflective cogito, and Metzinger's self-model theory. Target section: voids/.
+- **Output**: Write voids article on the unobservable self
+
+### ✓ 2026-03-20: Reduce microtubule centrality in quantum-biology-neural-experimental-turn.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (pessimistic-2026-03-20-b.md) found microtubules dominate 5 of 7 sections, violating the writing style guide's restraint requirement. Also: split "demonstrated" list into evidence tiers, soften "categorical dismissal is no longer tenable", and distinguish theoretical results from empirical findings in the summary section.
+- **Output**: obsidian/topics/quantum-biology-neural-experimental-turn.md
+
+Task context:
+Pessimistic review (pessimistic-2026-03-20-b.md) found microtubules dominate 5 of 7 sections, violating the writing style guide's restraint requirement. Also: split "demonstrated" list into evidence tiers, soften "categorical dismissal is no longer tenable", and distinguish theoretical results from empirical findings in the summary section.
+
+### ✓ 2026-03-20: Verify Smart retraction claim and fix attribution issues in limits-of-parsimony article
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (pessimistic-2026-03-20-b.md) found that Smart's "retraction" may be overstated — being criticized is not retracting. Churchland's "concession" is standard philosophical qualification. Also fix duplicate reference numbering (two #11s and #12s) and duplicate related_articles slugs. See review for full details.
+- **Output**: Task context:
+Pessimistic review (pessimistic-2026-03-20-b.md) found that Smart's "retraction" may be overstated — being criticized is not retracting. Churchland's "concession" is standard philosophical qualification. Also fix duplicate reference numbering (two #11s and #12s) and duplicate related_articles slugs. See review for full details.
+
+### ✓ 2026-03-20: Write article on quantum biology in neural systems (2025-2026 experimental evidence)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-biology-neural-experimental-2026-03-20.md. Surveys 2025-2026 literature on quantum coherence in biological systems at 37°C, ion channel tunneling evidence, Posner molecule entanglement experiments, and neural-specific quantum biology findings. Directly grounds Tenet 2 (Minimal Quantum Interaction) with latest empirical evidence. Target section: topics/.
+- **Output**: quantum biology in neural systems (2025-2026 experimental evidence)
+
+### ✓ 2026-03-20: Fix stale wikilinks to coalesced and archived articles
+- **Type**: refine-draft
+- **Notes**: Link scan found 226 broken wikilinks across obsidian content. Many reference coalesced/archived articles that post-coalesce cross-reviews missed. Key stale references: aesthetic-dimension-of-consciousness (~10 files), aesthetic-irreducibility-arguments (~6 files), emotional-consciousness (~3 files), predictive-processing-and-the-maps-framework (~1 file). Also 72 case-mismatch wikilinks (e.g., [Blindsight](/concepts/blindsight/) vs [blindsight](/concepts/blindsight/)). Update the highest-impact broken links to point to merged/current articles and fix case mismatches.
+- **Output**: Task context:
+Link scan found 226 broken wikilinks across obsidian content. Many reference coalesced/archived articles that post-coalesce cross-reviews missed. Key stale references: aesthetic-dimension-of-consciousness (~10 files), aesthetic-irreducibility-arguments (~6 files), emotional-consciousness (~3 files), predictive-processing-and-the-maps-framework (~1 file). Also 72 case-mismatch wikilinks (e.g., [Blindsight](/concepts/blindsight/) vs [blindsight](/concepts/blindsight/)). Update the highest-impact broken links to point to merged/current articles and fix case mismatches.
+
+### ✓ 2026-03-20: Research quantum biology in neural systems — latest experimental evidence (2025-2026)
+- **Type**: research-topic
+- **Notes**: The Map's Tenet 2 (Minimal Quantum Interaction) depends on quantum effects persisting in warm, wet neural tissue. The existing research notes (quantum-biology-consciousness-2026-01-16, quantum-biology-neural-mechanisms-2026-01-24) are now two months old. Recent developments in quantum biology — particularly around microtubule coherence timescales, phonon-mediated quantum transport in ion channels, and Posner molecule experiments — may strengthen or constrain the tenet's empirical basis. Survey 2025-2026 literature on: (1) quantum coherence duration in biological systems at 37°C, (2) ion channel tunneling evidence, (3) Posner molecule phosphorus-31 entanglement experiments, (4) any neural-specific quantum biology findings. Target: research note.
+- **Output**: quantum biology in neural systems — latest experimental evidence (2025-2026)
+
+### ✓ 2026-03-20: Cross-review parsimony articles considering limits-of-parsimony-in-consciousness-science insights
+- **Type**: cross-review
+- **Notes**: New article topics/limits-of-parsimony-in-consciousness-science.md (created 2026-03-20) examines concrete evidence against parsimony arguments: hostile witnesses (Smart, Lycan), Anderson's dismantling of Churchland, IIT paradox, Swinburne's reversal. Review epistemological-limits-of-occams-razor.md, parsimony-epistemology.md, and arguments-against-materialism.md for cross-links, consistency in how the parsimony critique is presented, and whether the new evidence strengthens existing arguments.
+- **Output**: None -- Context: Cross-review parsimony articles considering limits-of-parsimony-in-consciousness-science insights
 
 ### ✓ 2026-03-20: Cross-review convergence articles considering cross-traditional convergence insights
 - **Type**: cross-review

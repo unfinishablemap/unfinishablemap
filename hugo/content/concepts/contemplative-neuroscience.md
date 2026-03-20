@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-10 21:53:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 coalesced_from:
@@ -36,7 +36,7 @@ related_articles:
 - '[[mental-effort]]'
 - '[[mysterianism]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
-- '[[first-person-third-person-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 title: Contemplative Neuroscience
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -53,7 +53,7 @@ How to interpret this integration is contested. Materialists argue that trained 
 
 ## The Integration Framework
 
-[Neurophenomenology](/concepts/neurophenomenology/)'s "mutual constraints" framework underlies contemplative neuroscience. Trained meditators distinguish experiential states with precision unavailable to naive subjects—and these phenomenological categories predict neural signatures. Conversely, neural findings (like which practices modulate [default-mode-network](/concepts/default-mode-network/)) constrain phenomenological models.
+[neurophenomenology](/concepts/neurophenomenology/)'s "mutual constraints" framework underlies contemplative neuroscience. Trained meditators distinguish experiential states with precision unavailable to naive subjects—and these phenomenological categories predict neural signatures. Conversely, neural findings (like which practices modulate [default-mode-network](/concepts/default-mode-network/)) constrain phenomenological models.
 
 This bidirectional flow distinguishes contemplative neuroscience from both pure phenomenology (which ignores brain) and eliminative neuroscience (which ignores experience).
 
@@ -85,7 +85,7 @@ The [DMN](/concepts/default-mode-network/)—associated with mind-wandering, sel
 
 Meditators show reduced DMN activation and increased connectivity between DMN and executive networks. Long-term practice may transform resting state into more "present-centered" awareness.
 
-DMN reduction provides neural signature for the experiential shift from discursive self-narrative to present-moment awareness. [Witness-consciousness](/concepts/witness-consciousness/) traditions describe precisely this transition. This exemplifies [neurophenomenology](/concepts/neurophenomenology/): third-person measurement correlates with first-person experience, and neither is reducible to the other.
+DMN reduction provides neural signature for the experiential shift from discursive self-narrative to present-moment awareness. [witness-consciousness](/concepts/witness-consciousness/) traditions describe precisely this transition. This exemplifies [neurophenomenology](/concepts/neurophenomenology/): third-person measurement correlates with first-person experience, and neither is reducible to the other.
 
 ### Attention Network Plasticity
 
@@ -174,7 +174,7 @@ Contemplative neuroscience provides paradigm empirical evidence for [bidirection
 
 ### Dualism
 
-The mutual constraints framework shows phenomenology is not eliminable. If [phenomenal-consciousness](/concepts/phenomenal-consciousness/) reduced to neural processes, first-person training wouldn't improve correlation with third-person measurements. [Neurophenomenology](/concepts/neurophenomenology/) requires both approaches because consciousness has phenomenological properties not captured by purely physical description.
+The mutual constraints framework shows phenomenology is not eliminable. If [phenomenal-consciousness](/concepts/phenomenal-consciousness/) reduced to neural processes, first-person training wouldn't improve correlation with third-person measurements. [neurophenomenology](/concepts/neurophenomenology/) requires both approaches because consciousness has phenomenological properties not captured by purely physical description.
 
 ### Minimal Quantum Interaction
 
@@ -190,18 +190,18 @@ The more sophisticated our phenomenological categories and neural correlates bec
 
 ## Further Reading
 
-- [Neurophenomenology](/concepts/neurophenomenology/): Varela's framework for integrating first-person and third-person methods through mutual constraints
+- [neurophenomenology](/concepts/neurophenomenology/): Varela's framework for integrating first-person and third-person methods through mutual constraints
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/): How meditation evidence distinguishes theories
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/): Why both perspectives are necessary
+- [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/): Why both perspectives are necessary
 - [mental-effort](/concepts/mental-effort/): The phenomenology of effort and Stapp's quantum Zeno mechanism, including Schwartz's OCD neuroplasticity evidence
-- [Witness-consciousness](/concepts/witness-consciousness/): Eastern contemplative traditions' phenomenological framework that meditation cultivates
+- [witness-consciousness](/concepts/witness-consciousness/): Eastern contemplative traditions' phenomenological framework that meditation cultivates
 - [Voluntary attention control](/concepts/attention-as-interface/): Neural mechanisms underlying willed vs. instructed vs. exogenous attention
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/): The two modes: active selection and passive witnessing
 - [temporal-consciousness](/concepts/temporal-consciousness/): How the temporal structure of conscious experience relates to neural binding and gamma synchrony
 - [free-will](/topics/free-will/): How meditation evidence connects to agent causation and libertarian accounts
 - [Emotional-consciousness](/topics/emotion-and-dualism/): Phenomenal character of emotions and their role in consciousness
 - [epiphenomenalism](/concepts/epiphenomenalism/): Why contemplative neuroscience challenges the view that consciousness is causally inert
-- [Bidirectional-interaction](/concepts/bidirectional-interaction/): The central tenet that contemplative neuroscience supports empirically
+- [bidirectional-interaction](/concepts/bidirectional-interaction/): The central tenet that contemplative neuroscience supports empirically
 - [mysterianism](/concepts/mysterianism/): Why the explanatory gap persists even with refined phenomenological and neuroscientific methods
 
 [^lazar]: Lazar, S. W., et al. (2005). "Meditation experience is associated with increased cortical thickness." PMC. https://pmc.ncbi.nlm.nih.gov/articles/PMC1361002/

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-03-08 17:11:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -44,12 +44,12 @@ related_articles:
 - '[[categorical-surprise]]'
 - '[[phenomenology-of-epistemic-cognition]]'
 - '[[philosophy-of-science-under-dualism]]'
-- '[[aesthetic-dimension-of-consciousness]]'
+- '[[aesthetics-and-consciousness]]'
 title: Phenomenology of Creative Insight
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[topics/free-will]]'
-- '[[consciousness-and-scientific-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 ---
 
 Creative insight has a phenomenology unlike any other cognitive activity. Whether the domain is artistic composition, mathematical proof, or scientific discovery, insight unfolds through qualitatively distinct experiential phases—effortful search, felt impasse, involuntary restructuring, and the unmistakable phenomenal shock of the "aha" moment—each with a character that resists reduction to its neural correlates. The Unfinishable Map argues that this phenomenal structure is not ornamental. It is the creative process as experienced from the inside, and its irreducibility to physical description strengthens the case for [dualism](/tenets/#dualism) about consciousness.
@@ -157,7 +157,7 @@ The phenomenology of creative insight supports several of the Map's [tenets](/te
 - [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/)
 - [consciousness-and-scientific-explanation](/concepts/consciousness-and-scientific-explanation/)
 - [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/)
-- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/)
+- [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/)
 
 ## References
 

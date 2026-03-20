@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-19 02:43:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -19,7 +19,7 @@ concepts:
 - '[[philosophical-zombies]]'
 - '[[agent-causation]]'
 - '[[explanatory-gap]]'
-- '[[aesthetic-dimension-of-consciousness]]'
+- '[[aesthetics-and-consciousness]]'
 - '[[moral-responsibility]]'
 created: 2026-02-02
 date: &id001 2026-02-09
@@ -259,7 +259,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The evaluative dimension of the explanatory gap
 - [free-will](/topics/free-will/) — Agency as intrinsically valuable phenomenal experience
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — What contemplative practice reveals about value and consciousness
-- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Why aesthetic value resists hedonistic reduction
+- [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Why aesthetic value resists hedonistic reduction
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — Valence as the felt quality of emotions
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Why pain's phenomenal character is inseparable from its causal and evaluative role
 - [haecceity](/concepts/haecceity/) — Why *this* experience matters, not just experience-of-this-type

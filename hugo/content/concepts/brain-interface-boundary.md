@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-03-11 22:57:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -12,9 +12,9 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[pairing-problem]]'
 - '[[attention-as-interface]]'
-- '[[quantum-coherence-and-binding-evidence]]'
+- '[[quantum-neural-mechanisms-and-coherence]]'
 - '[[concepts/consciousness-selecting-neural-patterns]]'
-- '[[psychophysical-coupling]]'
+- '[[psychophysical-laws]]'
 - '[[illusionism]]'
 - '[[decoherence]]'
 - '[[introspection]]'
@@ -129,7 +129,7 @@ The Map's framework suggests quantum sensitivity is essential but not sufficient
 
 ## The Decoherence Challenge
 
-[Decoherence](/concepts/decoherence/) should destroy quantum effects in warm brain tissue within femtoseconds. Three considerations temper this objection: the Tegmark-Hameroff timescale debate remains unresolved (corrected coherence times may be 10⁻⁵ to 10⁻⁴ seconds); [quantum-biology](/concepts/quantum-biology/) demonstrates evolution *can* optimise biological systems for quantum coherence (avian magnetoreception maintains spin coherence for microseconds); and Stapp's Zeno mechanism requires rapid repeated observation rather than sustained superposition—though as [the selection mechanism article](/concepts/consciousness-selecting-neural-patterns/) details, a timescale gap of roughly ten orders of magnitude remains between attention and required observation rates. See [decoherence](/concepts/decoherence/) for full analysis.
+[decoherence](/concepts/decoherence/) should destroy quantum effects in warm brain tissue within femtoseconds. Three considerations temper this objection: the Tegmark-Hameroff timescale debate remains unresolved (corrected coherence times may be 10⁻⁵ to 10⁻⁴ seconds); [quantum-biology](/concepts/quantum-biology/) demonstrates evolution *can* optimise biological systems for quantum coherence (avian magnetoreception maintains spin coherence for microseconds); and Stapp's Zeno mechanism requires rapid repeated observation rather than sustained superposition—though as [the selection mechanism article](/concepts/consciousness-selecting-neural-patterns/) details, a timescale gap of roughly ten orders of magnitude remains between attention and required observation rates. See [decoherence](/concepts/decoherence/) for full analysis.
 
 ## What Would Challenge This View?
 
@@ -168,7 +168,7 @@ Together, these explain why consciousness acts on brains specifically: brains me
 - [brain-specialness-boundary](/topics/brain-specialness-boundary/) — Why consciousness acts only here, not everywhere
 - [mind-matter-interface](/concepts/mind-matter-interface/) — How filter theory and quantum selection unify
 - [pairing-problem](/concepts/pairing-problem/) — What pairs this mind with this body
-- [quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/) — Evidence for quantum effects in brain tissue
+- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Evidence for quantum effects in brain tissue
 - [filter-theory](/concepts/filter-theory/) — The transmission model of consciousness
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum selection mechanisms
 - [attention-as-interface](/concepts/attention-as-interface/) — The quantum Zeno mechanism for mind-body interaction

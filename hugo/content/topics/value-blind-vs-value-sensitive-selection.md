@@ -1,17 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-05 01:17:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[selection-laws]]'
+- '[[psychophysical-laws]]'
 - '[[valence]]'
 - '[[consciousness-value-connection]]'
 - '[[control-theoretic-will]]'
 - '[[agent-teleology]]'
 - '[[attention-as-interface]]'
-- '[[psychophysical-laws]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[topics/phenomenal-value-realism]]'
 created: 2026-02-19
@@ -44,7 +43,7 @@ This article states the fork explicitly, maps the consequences of each horn, and
 
 The fork arises from the intersection of three commitments, each well-developed in the Map's existing content:
 
-**Selection exists.** The [selection-laws](/concepts/psychophysical-laws/) framework specifies that consciousness selects among quantum-mechanically underdetermined neural outcomes. [Control-theoretic will](/concepts/control-theoretic-will/) formalises this: consciousness is a low-bandwidth controller (~10 bits/second) that gates, stabilises, vetoes, and steers neural dynamics.
+**Selection exists.** The [psychophysical-laws](/concepts/psychophysical-laws/) framework specifies that consciousness selects among quantum-mechanically underdetermined neural outcomes. [Control-theoretic will](/concepts/control-theoretic-will/) formalises this: consciousness is a low-bandwidth controller (~10 bits/second) that gates, stabilises, vetoes, and steers neural dynamics.
 
 **Value is phenomenal.** The [consciousness-value-connection](/concepts/consciousness-value-connection/) holds that value requires consciousness. [Phenomenal value realism](/topics/phenomenal-value-realism/) goes further: some phenomenal properties just *are* value properties. The felt badness of pain constitutes badness; it is not a representation of badness.
 
@@ -117,7 +116,7 @@ If selection is value-sensitive, different predictions follow:
 
 The Map's existing content leans value-sensitive without having committed. The [valence](/concepts/valence/) article states: "if consciousness biases neural outcomes, valence may provide the criterion for selection. Consciousness doesn't randomly influence quantum indeterminacies—it does so guided by valenced assessment." The [agent-teleology](/concepts/agent-teleology/) article affirms that conscious beings act *for reasons*, implying value-directed action. The [control-theoretic-will](/concepts/control-theoretic-will/) article lists "values" in the controller's setpoint.
 
-But the [selection-laws](/concepts/psychophysical-laws/) article develops only attention and intention as mechanisms with physical implementations (Stapp, Eccles). Valence is listed as a candidate but acknowledged as undeveloped. The mechanism gap is real: leaning value-sensitive without a mechanism is an aspiration, not a position.
+But the [psychophysical-laws](/concepts/psychophysical-laws/) article develops only attention and intention as mechanisms with physical implementations (Stapp, Eccles). Valence is listed as a candidate but acknowledged as undeveloped. The mechanism gap is real: leaning value-sensitive without a mechanism is an aspiration, not a position.
 
 ## A Possible Middle Path
 
@@ -147,13 +146,12 @@ The Map should eventually take a position on this fork. The graduated middle pat
 
 ## Further Reading
 
-- [selection-laws](/concepts/psychophysical-laws/) — The framework for how consciousness influences physical outcomes
+- [psychophysical-laws](/concepts/psychophysical-laws/) — The framework for how consciousness influences physical outcomes
 - [valence](/concepts/valence/) — The positive-negative dimension of experience
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value
 - [control-theoretic-will](/concepts/control-theoretic-will/) — Will as a low-bandwidth control signal
 - [agent-teleology](/concepts/agent-teleology/) — Genuine purpose through conscious causation
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Values grounded in phenomenal properties
-- [psychophysical-laws](/concepts/psychophysical-laws/) — Laws and candidate mechanisms for mind-brain interaction
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view this fork partially threatens to resurrect
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface through which consciousness acts
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain asymbolia as evidence that valence does causal work in selection

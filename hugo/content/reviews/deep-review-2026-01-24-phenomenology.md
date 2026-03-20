@@ -55,13 +55,13 @@ topics: []
 - The reliability objection response distinguishing process/content access
 
 ### Enhancements Made
-- Added link to [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) in body text and Further Reading
+- Added link to [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) in body text and Further Reading
 - Strengthened Merleau-Ponty section with lens/radio analogies for interface interpretation
 - Updated quantum tenet section with concrete timing research
 - Expanded Further Reading with 4 new entries
 
 ### Cross-links Added
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) (frontmatter and body)
+- [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) (frontmatter and body)
 - [consciousness](/concepts/consciousness/) (frontmatter and Further Reading)
 - [heterophenomenology](/concepts/heterophenomenology/) (frontmatter and Further Reading)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) (frontmatter and Further Reading)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-03-19 16:06:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[prebiotic-collapse]]'
 - '[[causal-closure]]'
-- '[[psychophysical-coupling]]'
+- '[[psychophysical-laws]]'
 - '[[integrated-information-theory]]'
 created: 2026-02-22
 date: &id001 2026-02-22
@@ -118,7 +118,7 @@ The model also faces honest difficulties. IIT's measure of integrated informatio
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — what collapsed before consciousness existed
 - [collapse-and-time](/concepts/collapse-and-time/) — collapse, irreversibility, and the arrow of time
 - [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/) — how to test consciousness-collapse hypotheses
-- [psychophysical-coupling](/concepts/psychophysical-laws/) — how consciousness interfaces with collapse parameters
+- [psychophysical-laws](/concepts/psychophysical-laws/) — how consciousness interfaces with collapse parameters
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — alternative: consciousness via quantum Zeno effect
 - [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) — when multiple minds observe the same system
 - [free-will](/topics/free-will/) — how stochastic collapse enables libertarian free will

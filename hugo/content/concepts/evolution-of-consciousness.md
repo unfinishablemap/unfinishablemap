@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-17 19:29:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -137,7 +137,7 @@ This dissolves the strong emergence problem. We don't need to explain how experi
 
 ## The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is an introspective illusion—might seem to dissolve evolutionary questions about consciousness. If there is no "real" phenomenal experience, only functional processes that misrepresent themselves as experiential, then consciousness didn't evolve at all. What evolved were neural mechanisms that generate the illusion of experience.
+[illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is an introspective illusion—might seem to dissolve evolutionary questions about consciousness. If there is no "real" phenomenal experience, only functional processes that misrepresent themselves as experiential, then consciousness didn't evolve at all. What evolved were neural mechanisms that generate the illusion of experience.
 
 The Map rejects illusionism for reasons detailed on its [dedicated page](/concepts/illusionism/), but the evolutionary response is specific: **the illusion problem is at least as hard as the hard problem**.
 

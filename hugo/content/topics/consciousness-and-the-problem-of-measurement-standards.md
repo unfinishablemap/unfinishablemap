@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-05 16:17:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,19 +24,18 @@ last_curated: null
 last_deep_review: 2026-03-02 01:52:00+00:00
 modified: *id001
 related_articles:
-- '[[consciousness-and-scientific-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 - '[[epistemology-of-phenomenal-reports]]'
-- '[[first-person-third-person-methodology]]'
 - '[[introspection-rehabilitation]]'
 - '[[quantum-measurement-and-consciousness]]'
 - '[[knowledge-argument]]'
 - '[[consciousness-and-the-meta-problem-of-scientific-explanation]]'
-- '[[quantification-void]]'
+- '[[measurement-void]]'
 title: Consciousness and the Problem of Measurement Standards
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[consciousness-and-science]]'
-- '[[first-person-third-person-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 ---
 
 The Unfinishable Map argues that the impossibility of measurement standards for phenomenal consciousness is not a temporary scientific limitation but a philosophical consequence of consciousness's irreducibility. Science requires three things to measure any quantity: a unit (what counts as one of the thing), an instrument (what detects it), and calibration (how to ensure instruments agree). For temperature, mass, and electromagnetic frequency, all three exist. For the intensity of pain, the depth of blue, or the felt weight of a moral dilemma, none do — and the reasons they cannot be constructed illuminate why consciousness resists physical reduction.
@@ -105,23 +104,22 @@ The Map's [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is also relev
 
 The Map's [Bidirectional Interaction](/tenets/#bidirectional) tenet holds that consciousness causally influences the physical world. The measurement standards problem illuminates a related asymmetry: physical quantities are measurable because their causal effects are publicly accessible, but consciousness's causal influence — if real — works through channels (neural activity, behaviour) that do not carry phenomenal information. We can measure the *effects* of consciousness on the physical world, but measuring consciousness itself requires access to the side of the interaction that remains private. Bidirectional causation without bidirectional measurability is exactly what a dualist framework predicts.
 
-The [quantification-void](/voids/measurement-void/) traces this same impossibility through five independent routes — units, instruments, interpersonal comparison, introspection, and proxy metrics — each failing for different structural reasons yet converging on the same impasse.
+The [measurement-void](/voids/measurement-void/) traces this same impossibility through five independent routes — units, instruments, interpersonal comparison, introspection, and proxy metrics — each failing for different structural reasons yet converging on the same impasse.
 
 The argument here also parallels the [knowledge argument](/concepts/knowledge-argument/): Mary knows every physical fact about colour vision yet learns something new upon seeing red. The measurement standards problem generalises this insight — it is not just that phenomenal knowledge exceeds physical knowledge, but that the entire apparatus of physical measurement (units, instruments, calibration) cannot be constructed for phenomenal quantities. The knowledge argument shows the gap for a single case; the measurement argument shows it is structural.
 
-As the Map explores in [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/), science achieved its power by excluding subjectivity from its descriptions of nature. The measurement standards problem is a precise expression of this exclusion's cost: a science built on observer-independent measurement confronts a phenomenon that is constitutively observer-dependent. The structural parallel with the [quantum measurement problem](/topics/quantum-measurement-and-consciousness/) is notable: both involve a point where third-person description fails to determine a first-person fact. The response is not to abandon science but to recognise its methodological boundaries — and to develop [complementary methods](/topics/first-person-third-person-methodology/) that take phenomenal experience seriously on its own terms.
+As the Map explores in [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/), science achieved its power by excluding subjectivity from its descriptions of nature. The measurement standards problem is a precise expression of this exclusion's cost: a science built on observer-independent measurement confronts a phenomenon that is constitutively observer-dependent. The structural parallel with the [quantum measurement problem](/topics/quantum-measurement-and-consciousness/) is notable: both involve a point where third-person description fails to determine a first-person fact. The response is not to abandon science but to recognise its methodological boundaries — and to develop [complementary methods](/topics/methodology-of-consciousness-research/) that take phenomenal experience seriously on its own terms.
 
 ## Further Reading
 
-- [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/)
+- [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)
 - [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/)
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/)
 - [introspection-rehabilitation](/topics/introspection-rehabilitation/)
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
 - [knowledge-argument](/concepts/knowledge-argument/)
 - [consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-limits-of-explanation/)
-- [quantification-void](/voids/measurement-void/)
+- [measurement-void](/voids/measurement-void/)
 
 ## References
 

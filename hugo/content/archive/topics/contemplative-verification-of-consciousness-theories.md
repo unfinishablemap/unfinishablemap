@@ -145,7 +145,7 @@ Contemplative evidence is compatible with this tenet but cannot verify it. The m
 ## Further Reading
 
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — What the evidence reveals about consciousness
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — The methodological divide as ontological evidence
+- [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) — The methodological divide as ontological evidence
 - [neurophenomenology](/concepts/neurophenomenology/) — Varela's framework for integrating perspectives
 - [introspection](/concepts/introspection/) — The reliability debate and training effects
 - [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/) — Phenomenology of witness consciousness

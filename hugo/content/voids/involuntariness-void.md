@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-05
-ai_modified: 2026-03-11 20:16:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ related_articles:
 - '[[introspective-opacity|volitional opacity]]'
 - '[[ownership-void]]'
 - '[[affective-void]]'
-- '[[dreamless-sleep-void]]'
+- '[[sleep-consciousness-void]]'
 - '[[agency-verification-void]]'
 - '[[absorption-void]]'
 - '[[appetitive-void]]'
@@ -111,7 +111,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly. T
 - [ownership-void](/voids/ownership-void/) — Why we cannot introspect how experiences become ours
 - [affective-void](/voids/affective-void/) — The emotions we cannot feel
 - [appetitive-void](/voids/appetitive-void/) — The desires we cannot choose
-- [dreamless-sleep-void](/voids/sleep-consciousness-void/) — Where consciousness goes when it departs involuntarily
+- [sleep-consciousness-void](/voids/sleep-consciousness-void/) — Where consciousness goes when it departs involuntarily
 - [absorption-void](/voids/absorption-void/) — When peak experience eliminates reflective access
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, and occluded
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like

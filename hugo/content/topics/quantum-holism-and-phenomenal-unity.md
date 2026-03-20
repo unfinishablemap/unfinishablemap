@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-03-03 15:41:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -10,7 +10,7 @@ coalesced_from:
 concepts:
 - '[[unity-of-consciousness]]'
 - '[[binding-problem]]'
-- '[[neural-binding-mechanisms]]'
+- '[[phenomenal-binding-and-holism]]'
 - '[[quantum-consciousness]]'
 - '[[combination-problem]]'
 - '[[emergence]]'
@@ -28,7 +28,7 @@ concepts:
 - '[[phenomenology-of-choice]]'
 - '[[consciousness-as-amplifier]]'
 - '[[quantum-biology]]'
-- '[[quantum-coherence-and-binding-evidence]]'
+- '[[quantum-neural-mechanisms-and-coherence]]'
 created: 2026-01-21
 date: &id001 2026-02-25
 description: Classical binding mechanisms coordinate separate processes but cannot
@@ -200,7 +200,7 @@ The Map holds that current evidence favours the quantum position while acknowled
 - [binding-problem](/concepts/binding-problem/) — The neural challenge of feature binding (BP1 and BP2)
 - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) — Comprehensive taxonomy of five binding varieties
 - [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/) — Cross-modal binding as the hardest case, with empirical phenomena (temporal recalibration, inverse effectiveness) that resist classical explanation
-- [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) — Why classical mechanisms fail and quantum mechanisms may succeed
+- [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — Why classical mechanisms fail and quantum mechanisms may succeed
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gulf between physical and phenomenal
 - [emergence](/concepts/emergence/) — Weak vs strong emergence and consciousness
@@ -212,7 +212,7 @@ The Map holds that current evidence favours the quantum position while acknowled
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Orch OR and other quantum consciousness theories
 - [quantum-biology](/concepts/quantum-biology/) — Established quantum effects in living systems
 - [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) — Why quantum biology shifts the burden of proof
-- [quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/) — Detailed treatment of neural coherence evidence
+- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Detailed treatment of neural coherence evidence
 - [decoherence](/concepts/decoherence/) — Why quantum effects might persist in biological systems
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Natural experiments on when binding fails
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-03-15 07:30:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -70,7 +70,7 @@ This is what makes the measurement problem distinctive. After a century, no with
 
 Decoherence is sometimes presented as a solution to the measurement problem. It is not — but its partial success *strengthens* the disclosure reading.
 
-[Decoherence](/concepts/decoherence/) explains why macroscopic superpositions vanish. Through interaction with the environment, quantum coherence leaks away on timescales of 10⁻³⁰ seconds or less for everyday objects. Decoherence selects the *basis* — which observables become definite — and explains why we never see cats in superposition. This is a genuine and substantial physical achievement.
+[decoherence](/concepts/decoherence/) explains why macroscopic superpositions vanish. Through interaction with the environment, quantum coherence leaks away on timescales of 10⁻³⁰ seconds or less for everyday objects. Decoherence selects the *basis* — which observables become definite — and explains why we never see cats in superposition. This is a genuine and substantial physical achievement.
 
 What decoherence does not explain is why *this particular* outcome occurs. As Tomaz et al. note: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured" (2025).
 

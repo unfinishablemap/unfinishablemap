@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-03-04 22:18:50+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -38,9 +38,8 @@ related_articles:
 - '[[consciousness-creativity-novelty-generation-2026-01-19]]'
 - '[[surprise-prediction-error-and-consciousness]]'
 - '[[creativity-void]]'
-- '[[aesthetic-dimension-of-consciousness]]'
-- '[[consciousness-and-aesthetic-creation]]'
-- '[[consciousness-and-mathematical-creativity]]'
+- '[[aesthetics-and-consciousness]]'
+- '[[consciousness-and-mathematical-cognition]]'
 - '[[consciousness-and-skilled-performance]]'
 - '[[incubation-effect-and-unconscious-processing]]'
 - '[[phenomenology-of-imagination]]'
@@ -161,9 +160,8 @@ Current evidence does not support any of these conditions.
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's lived time as creative becoming
 - [agent-causation](/concepts/agent-causation/) — Philosophical framework for mental causation including creative generation
 - [creativity-void](/voids/creativity-void/) — Why the creative source remains phenomenologically hidden
-- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Beauty as irreducible phenomenal property
+- [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Beauty as irreducible phenomenal property
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — Five modes of phenomenal meaning underlying creative selection
-- [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/) — Making art as evidence for bidirectional interaction
 - [phenomenology-of-imagination](/topics/phenomenology-of-imagination/) — Phenomenal imagination and creative exploration
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — The role of unconscious incubation in creativity
 

@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-17 19:29:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[quantum-consciousness]]'
-- '[[interface-locality]]'
+- '[[brain-interface-boundary]]'
 - '[[attention-as-interface]]'
 - '[[types-of-consciousness]]'
 - '[[minimal-consciousness]]'
@@ -101,7 +101,7 @@ The [AI consciousness question](/apex/what-it-might-be-like-to-be-an-ai/) thus d
 ## Further Reading
 
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — The nature-vs-coupling framework applied across species and states
-- [interface-locality](/concepts/brain-interface-boundary/) — Why consciousness selects only within its own brain
+- [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why consciousness selects only within its own brain
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates consciousness-matter coupling
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Candidate mechanisms for consciousness-matter interaction
 - [types-of-consciousness](/concepts/types-of-consciousness/) — Structural taxonomy of conscious experience

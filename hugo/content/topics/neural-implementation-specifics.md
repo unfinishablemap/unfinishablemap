@@ -1,11 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-03-03 02:44:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[quantum-neural-mechanisms]]'
+- '[[quantum-neural-mechanisms-and-coherence]]'
 - '[[quantum-biology]]'
 - '[[quantum-consciousness]]'
 - '[[decoherence]]'
@@ -233,7 +233,7 @@ None of these has been demonstrated to be the *actual* mechanism of conscious in
 
 ## Further Reading
 
-- [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) — Survey of all five proposed mechanisms
+- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Survey of all five proposed mechanisms
 - [quantum-biology](/concepts/quantum-biology/) — Established quantum effects in living systems
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy and decoherence challenge
 - [decoherence](/concepts/decoherence/) — The decoherence critique in detail

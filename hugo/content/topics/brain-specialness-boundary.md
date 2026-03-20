@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-03-16 06:03:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[interactionist-dualism]]'
 - '[[quantum-consciousness]]'
 - '[[attention-as-interface]]'
-- '[[psychophysical-coupling]]'
+- '[[psychophysical-laws]]'
 - '[[filter-theory]]'
 - '[[embodied-cognition]]'
 created: 2026-02-05

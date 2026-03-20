@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-03-17 20:01:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,10 +27,8 @@ related_articles:
 - '[[tenets]]'
 - '[[the-self-minimal-narrative-and-substantial]]'
 - '[[diachronic-agency-and-personal-narrative]]'
-- '[[past-self-void]]'
-- '[[memory-void]]'
+- '[[inaccessible-past]]'
 - '[[social-construction-of-self-vs-phenomenal-self]]'
-- '[[temporal-structure-of-consciousness]]'
 - '[[temporal-structure-of-consciousness]]'
 title: Phenomenology of Memory and the Self
 topics:
@@ -75,7 +73,7 @@ The same process that builds the self threatens it. Memory's reconstructive natu
 
 **The constructive turn in memory science**: Schacter and Addis's constructive episodic simulation hypothesis holds that episodic memory and episodic future thinking share a common constructive system. (Schacter and Addis emphasize the adaptive advantages of this arrangement—flexible recombination serves future planning. The existential implications are the Map's own reading.) Remembering the past uses the same neural machinery as imagining the future—both involve flexibly recombining elements into coherent scenes. This means memories are not preserved recordings but present constructions assembled from stored fragments. Each retrieval modifies the trace, incorporating current emotional states and intervening experiences.
 
-The phenomenological consequence is unsettling. If every memory is a reconstruction, then the past self encountered in remembering is partly a creation of the present self. The "double presence" of autonoetic recall involves a present self and a *constructed* past self—not the past self as it actually was. The [past-self-void](/voids/inaccessible-past/) identifies this gap: the original experience is structurally irrecoverable. What persists reliably is propositional content (the *that* of what happened), while phenomenal content (*what it was like*) survives only as fragmentary traces that reconstruction fills and reshapes.
+The phenomenological consequence is unsettling. If every memory is a reconstruction, then the past self encountered in remembering is partly a creation of the present self. The "double presence" of autonoetic recall involves a present self and a *constructed* past self—not the past self as it actually was. The [inaccessible-past](/voids/inaccessible-past/) identifies this gap: the original experience is structurally irrecoverable. What persists reliably is propositional content (the *that* of what happened), while phenomenal content (*what it was like*) survives only as fragmentary traces that reconstruction fills and reshapes.
 
 **Identity distortion**: Memory's selectivity means some experiences are preserved and others lost. The resulting self-narrative is shaped by availability bias, emotional salience, and retrieval practice. Traumatic memories may dominate the narrative, not because they are objectively more significant but because they are more retrievable. Conversely, gradual positive changes may leave no discrete memorable episodes, rendering them invisible to autobiographical reflection. The self that memory constructs is systematically biased by the architecture of encoding and retrieval.
 
@@ -95,7 +93,7 @@ Proust's involuntary memory—the madeleine dipped in tea, the uneven cobbleston
 
 What Proustian memory does reveal is the *aspiration* built into the memory-self relationship. The self seeks its own past not merely as information but as experience—it wants to re-live, not just recall. This aspiration is significant regardless of whether it can be satisfied. It discloses the self as a being oriented toward its own temporal depths, unsatisfied by propositional knowledge about what happened, driven toward phenomenal contact with who it was.
 
-The [memory-void](/voids/inaccessible-past/) sits precisely at this boundary. Memory promises self-encounter across time but delivers reconstruction. The gap between promise and delivery is not a bug in the memory system. It is a structural feature of temporal selfhood, a limit that cannot be overcome without transcending the very constructive process that makes memory possible. The forward-directed counterpart—how the self reaches *toward* its future through [anticipation](/topics/phenomenology-of-anticipation/)—completes the picture of temporal selfhood that memory alone only half reveals.
+The [inaccessible-past](/voids/inaccessible-past/) sits precisely at this boundary. Memory promises self-encounter across time but delivers reconstruction. The gap between promise and delivery is not a bug in the memory system. It is a structural feature of temporal selfhood, a limit that cannot be overcome without transcending the very constructive process that makes memory possible. The forward-directed counterpart—how the self reaches *toward* its future through [anticipation](/topics/phenomenology-of-anticipation/)—completes the picture of temporal selfhood that memory alone only half reveals.
 
 ## Relation to Site Perspective
 
@@ -115,8 +113,7 @@ The phenomenology of memory and self connects directly to the Map's foundational
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/)
 - [personal-identity](/topics/personal-identity/)
 - [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/)
-- [past-self-void](/voids/inaccessible-past/)
-- [memory-void](/voids/inaccessible-past/)
+- [inaccessible-past](/voids/inaccessible-past/)
 - [consciousness-and-memory](/topics/consciousness-and-memory/)
 - [temporal-consciousness](/concepts/temporal-consciousness/)
 - [self-and-consciousness](/concepts/self-and-consciousness/)

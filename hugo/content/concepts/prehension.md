@@ -11,7 +11,6 @@ concepts:
 - '[[temporal-consciousness]]'
 - '[[combination-problem]]'
 - '[[phenomenal-binding-and-holism]]'
-- '[[temporal-consciousness]]'
 - '[[anoetic-noetic-autonoetic-consciousness]]'
 created: 2026-02-09
 date: &id001 2026-02-09
@@ -116,7 +115,6 @@ Prehension intersects with the Map's framework in several ways, though the Map d
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's durée and its parallels with prehensive inheritance
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Memory as re-prehension of past occasions
 - [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — How prehension achieves experiential unity
-- [temporal-consciousness](/concepts/temporal-consciousness/) — The neuroscience of time experience that prehension illuminates
 - [causal-closure](/concepts/causal-closure/) — The doctrine prehension challenges by positing non-mechanistic causation
 
 ## References

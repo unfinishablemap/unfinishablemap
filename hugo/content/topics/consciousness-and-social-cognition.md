@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-18 21:29:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -92,7 +92,7 @@ Social constructionists are right that much of what we call "social understandin
 
 George Herbert Mead's account of selfhood through "taking the attitude of the other" presupposes that there is something it is like to take that attitude. If perspective-taking were purely computational — a function mapping inputs to outputs without anyone experiencing the shift — then Mead's process would produce social behaviour without social understanding. The functional output might be indistinguishable, but the inner reality would be entirely different.
 
-[Intersubjectivity](/concepts/intersubjectivity/) — the shared space between minds — requires minds that are phenomenally present to each other, not merely causally connected. As Dan Zahavi (2001) argues, empathy and social understanding are not a matter of inference from behaviour to hidden mental states but of direct experiential engagement with another subject. The phenomenological tradition treats intersubjectivity as constitutive of experience itself, not as a cognitive achievement layered on top of isolated minds. If this is right, then [collective intentionality](/topics/consciousness-and-collective-phenomena/) — the capacity for genuinely shared goals and commitments — depends on phenomenal subjects who can participate in shared experiential space.
+[intersubjectivity](/concepts/intersubjectivity/) — the shared space between minds — requires minds that are phenomenally present to each other, not merely causally connected. As Dan Zahavi (2001) argues, empathy and social understanding are not a matter of inference from behaviour to hidden mental states but of direct experiential engagement with another subject. The phenomenological tradition treats intersubjectivity as constitutive of experience itself, not as a cognitive achievement layered on top of isolated minds. If this is right, then [collective intentionality](/topics/consciousness-and-collective-phenomena/) — the capacity for genuinely shared goals and commitments — depends on phenomenal subjects who can participate in shared experiential space.
 
 ## The AI Test Case
 
@@ -145,7 +145,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly. T
 - [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/) — Dolphins and corvids display Level 1-2 social cognition through radically different neural architectures
 - [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/) — Why falsifiability conditions for consciousness claims face deep underdetermination
 - [consciousness-and-methodological-failure](/topics/consciousness-and-methodological-failure/) — How standard theoretical virtues systematically malfunction when applied to consciousness
-- [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/) — The structural challenge of studying subjective phenomena with objective methods
+- [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — The structural challenge of studying subjective phenomena with objective methods
 
 ## References
 

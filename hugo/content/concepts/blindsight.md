@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-18 07:18:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -149,7 +149,7 @@ This concedes property dualism: if functionally similar computations produce con
 
 ## The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/) offers a different interpretation. If phenomenal consciousness is an illusion—a systematic misrepresentation of our cognitive states—then blindsight shows what cognition looks like when the illusion-generating mechanism is damaged.
+[illusionism](/concepts/illusionism/) offers a different interpretation. If phenomenal consciousness is an illusion—a systematic misrepresentation of our cognitive states—then blindsight shows what cognition looks like when the illusion-generating mechanism is damaged.
 
 On the illusionist view, V1 and its connections to prefrontal cortex generate *representations of having* phenomenal properties rather than genuine ones. Blindsight patients lack this representational machinery, so they don't represent themselves as seeing—but visual information is processed regardless.
 

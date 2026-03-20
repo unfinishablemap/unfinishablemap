@@ -54,7 +54,7 @@ Added links TO contemplative-neuroscience-integration FROM:
 2. **[contemplative-neuroscience](/concepts/contemplative-neuroscience/)** — Added to Further Reading section
    - Rationale: Closely related concept article covering same territory
 
-3. **[first-person-third-person-methodology](/topics/first-person-third-person-methodology/)** — Added inline in "Contemplative Neuroscience as Evidence" section
+3. **[first-person-third-person-methodology](/topics/methodology-of-consciousness-research/)** — Added inline in "Contemplative Neuroscience as Evidence" section
    - Rationale: The integration article provides detailed treatment of the mutual constraints framework
 
 4. **[bidirectional-interaction](/concepts/bidirectional-interaction/)** — Added to Further Reading section

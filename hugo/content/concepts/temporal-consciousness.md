@@ -84,7 +84,6 @@ related_articles:
 - '[[authentic-vs-inauthentic-choice]]'
 - '[[bergson-and-duration]]'
 - '[[phenomenology-of-anticipation]]'
-- '[[temporal-structure-of-consciousness]]'
 title: Temporal Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'

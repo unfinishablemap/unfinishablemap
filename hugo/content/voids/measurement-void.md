@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-18 05:59:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -32,10 +32,9 @@ related_articles:
 - '[[phenomenology-of-the-edge]]'
 - '[[whether-real]]'
 - '[[consciousness-only-territories]]'
-- '[[the-unobservable-self]]'
+- '[[self-reference-paradox]]'
 - '[[destabilizing-self-knowledge]]'
 - '[[consciousness-and-the-problem-of-measurement-standards]]'
-- '[[self-reference-paradox]]'
 - '[[substrate-void]]'
 - '[[intrinsic-nature-void]]'
 - '[[intersubjective-void]]'
@@ -142,7 +141,7 @@ The measurement void follows from the Map's [tenets](/tenets/) with particular d
 
 - [observation-void](/voids/observation-void/) — How every method of studying consciousness transforms what it studies
 - [introspective-opacity](/voids/introspective-opacity/) — Why we access mental contents but never the mechanisms producing them
-- [the-unobservable-self](/voids/self-reference-paradox/) — The subject that cannot become its own object
+- [self-reference-paradox](/voids/self-reference-paradox/) — The subject that cannot become its own object
 - [substrate-void](/voids/substrate-void/) — What consciousness is made of, when every answer collapses
 - [intersubjective-void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — What matter is in itself, beneath relational properties

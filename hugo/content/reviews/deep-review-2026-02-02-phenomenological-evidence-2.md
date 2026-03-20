@@ -53,7 +53,7 @@ Added `[phenomenological-evidence](/concepts/phenomenological-evidence/)` links 
 2. **[introspection](/concepts/introspection/)** — Process/content distinction section now points readers to the specific conditions making phenomenal content evidential
 3. **[phenomenology](/concepts/phenomenology/)** — Reliability objection section now connects to detailed evidence criteria
 4. **[neurophenomenology](/concepts/neurophenomenology/)** — Training/reliability section now connects to the evidence framework that justifies neurophenomenology's approach
-5. **[first-person-third-person-methodology](/topics/first-person-third-person-methodology/)** — Mutual constraint framework section links to the evidence conditions that validate first-person reports
+5. **[first-person-third-person-methodology](/topics/methodology-of-consciousness-research/)** — Mutual constraint framework section links to the evidence conditions that validate first-person reports
 6. **[qualia](/concepts/qualia/)** — Direct apprehensibility property now connects to how that access becomes genuine evidence
 7. **[hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)** — Phenomenological evidence section header now links to the dedicated concept page
 

@@ -65,7 +65,7 @@ topics: []
 - [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) → duhem-quine
 - [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-methodological-failure/) → duhem-quine
 - [consciousness-and-the-phenomenology-of-framework-dependence](/topics/phenomenology-of-framework-inhabitation/) → duhem-quine
-- [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/) → duhem-quine
+- [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/) → duhem-quine
 
 **Total inbound links: 11** (up from 5)
 

@@ -41,7 +41,7 @@ related_articles:
 title: Phenomenological Evidence
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[first-person-third-person-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 ---
 
 Phenomenological evidence is first-person data about conscious experience—reports of what it is like to perceive, think, feel, and act from the inside. Unlike third-person evidence (behavioural observations, neural measurements), phenomenological evidence describes the qualitative structure of experience as accessed by the experiencing subject. The Unfinishable Map holds that such evidence, properly gathered through rigorous methods, constitutes irreplaceable data for consciousness science. A theory that predicts neural correlates but fails to capture phenomenal structure has explained the wrong thing—this is the core insight behind the [hard problem of consciousness](/topics/hard-problem-of-consciousness/).
@@ -184,7 +184,7 @@ Phenomenological evidence provides the data that any adequate theory of consciou
 - [intersubjectivity](/concepts/intersubjectivity/) — How first-person evidence achieves intersubjective validation
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — How meditation findings bear on consciousness debates
 - [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/) — The experience of evaluating evidence phenomenologically
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — The broader methodological divide in consciousness science
+- [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — The broader methodological divide in consciousness science
 - [explanatory-gap](/concepts/explanatory-gap/) — Why third-person evidence alone cannot explain consciousness
 
 ## References

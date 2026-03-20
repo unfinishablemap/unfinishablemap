@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-02-17 10:12:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -32,7 +32,6 @@ related_articles:
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[consciousness-and-agency]]'
 - '[[consciousness-and-skilled-performance]]'
-- '[[paradox-of-effortless-mastery]]'
 - '[[libet-experiments]]'
 - '[[concept-of-free-will]]'
 title: Spontaneous Intentional Action
@@ -147,7 +146,6 @@ The account of spontaneous intentional action offered here would face difficulty
 - [phenomenology of flow states](/topics/consciousness-and-skilled-performance/) — Flow as effortless, absorbed action—a neighbouring category
 - [interface-friction](/concepts/interface-friction/) — Why some conscious selections require effort and others do not
 - [libet-experiments](/concepts/libet-experiments/) — Neuroscientific challenges to conscious initiation of action
-- [paradox-of-effortless-mastery](/topics/consciousness-and-skilled-performance/) — How disciplined training yields spontaneous expertise
 
 ## References
 

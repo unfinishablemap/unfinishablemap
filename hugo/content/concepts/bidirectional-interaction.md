@@ -1,12 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-14 20:43:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[psychophysical-coupling]]'
-- '[[selection-laws]]'
+- '[[psychophysical-laws]]'
 - '[[quantum-neural-timing-constraints]]'
 - '[[attention-as-interface]]'
 - '[[argument-from-reason]]'
@@ -15,7 +14,6 @@ concepts:
 - '[[mental-causation]]'
 - '[[causal-closure]]'
 - '[[quantum-consciousness]]'
-- '[[psychophysical-laws]]'
 - '[[downward-causation]]'
 - '[[self-stultification]]'
 created: 2026-01-23
@@ -82,7 +80,7 @@ Two concrete mechanisms have been proposed:
 
 All three share what bidirectional interaction requires: consciousness selecting among outcomes physics leaves undetermined. This selective actualisation—reality concentrating determination where consciousness attends—is captured by [adaptive computational depth](/concepts/adaptive-computational-depth/), which argues that the allocator of detail must itself be non-computational. The specific [coupling mode](/concepts/coupling-modes/)—basis control, timing control, or probability control—varies between proposals, with Stapp emphasizing the first two and Penrose-Hameroff implying the third.
 
-For detailed specification of how phenomenal properties map to physical parameters, see [psychophysical-coupling](/concepts/psychophysical-laws/). The attention mechanism is currently the most developed, with [voluntary attention](/concepts/attention-as-interface/) documenting the ~300ms deployment window and neural signatures (frontal theta, DLPFC/ACC activation) that distinguish willed from instructed attention.
+For detailed specification of how phenomenal properties map to physical parameters, see [psychophysical-laws](/concepts/psychophysical-laws/). The attention mechanism is currently the most developed, with [voluntary attention](/concepts/attention-as-interface/) documenting the ~300ms deployment window and neural signatures (frontal theta, DLPFC/ACC activation) that distinguish willed from instructed attention.
 
 ### The Timing Challenge
 
@@ -145,9 +143,8 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [intera
 
 ## Further Reading
 
-- [psychophysical-coupling](/concepts/psychophysical-laws/) — Specification of how phenomenal properties map to physical parameters
+- [psychophysical-laws](/concepts/psychophysical-laws/) — Specification of how phenomenal properties map to physical parameters
 - [coupling-modes](/concepts/coupling-modes/) — Three ways consciousness might influence quantum outcomes: basis, timing, or probability control
-- [selection-laws](/concepts/psychophysical-laws/) — The downward direction of psychophysical laws
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy from decoherence to neural decisions
 - [argument-from-reason](/topics/argument-from-reason/) — Complementary self-defeat argument targeting physicalism
 - [voluntary attention](/concepts/attention-as-interface/) — The attention interface with neural evidence

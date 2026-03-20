@@ -69,7 +69,7 @@ All six adversarial personas engaged. No new counterarguments requiring textual 
 - Added [measurement-void](/voids/measurement-void/) cross-link in calibration failure section
 - Added Hagerty et al. (2013) citation for jhāna fMRI evidence
 - Clarified "performative coherence" as article's interpretive framing
-- Added [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/) and [heterophenomenology](/concepts/heterophenomenology/) to Further Reading
+- Added [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/) and [heterophenomenology](/concepts/heterophenomenology/) to Further Reading
 - Added three new entries to related_articles frontmatter
 
 ### Cross-links Added
@@ -77,7 +77,7 @@ All six adversarial personas engaged. No new counterarguments requiring textual 
 - [heterophenomenology](/concepts/heterophenomenology/) — Dennett's position in critical phenomenology section
 - [explanatory-gap](/concepts/explanatory-gap/) — tenet section on dualism
 - [measurement-void](/voids/measurement-void/) — calibration failure section
-- [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/) — Further Reading
+- [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/) — Further Reading
 
 ## Remaining Items
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-11 10:02:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -13,7 +13,6 @@ concepts:
 - '[[causal-closure]]'
 - '[[emergence]]'
 - '[[phenomenal-acquaintance]]'
-- '[[selection-laws]]'
 - '[[meta-problem-of-consciousness]]'
 created: 2026-02-23
 date: &id001 2026-02-24
@@ -36,7 +35,7 @@ related_articles:
 title: Consciousness and Scientific Explanation Under Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[consciousness-and-scientific-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 - '[[consciousness-and-the-limits-of-explanation]]'
 ---
 
@@ -131,7 +130,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet opens 
 ## Further Reading
 
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — The framework for laws connecting mind and brain
-- [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/) — Why scientific method structurally excludes subjectivity
+- [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — Why scientific method structurally excludes subjectivity
 - [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) — How consciousness breaks standard theories of explanation
 - [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) — Why reduction succeeds everywhere except consciousness
 - [evolution-under-dualism](/topics/evolution-under-dualism/) — How evolutionary biology operates under dualist assumptions

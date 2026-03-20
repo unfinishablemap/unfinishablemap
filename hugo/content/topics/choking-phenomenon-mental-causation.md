@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-15 07:30:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -79,7 +79,7 @@ Choking shares a phenomenological structure with [deliberative vertigo](/topics/
 
 ## The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/) attempts to explain choking without genuine mental causation. On this view, the "attention" disrupting skilled performance is itself a physical process misrepresented as conscious. The disruption is brain state interfering with brain state—no phenomenal consciousness required.
+[illusionism](/concepts/illusionism/) attempts to explain choking without genuine mental causation. On this view, the "attention" disrupting skilled performance is itself a physical process misrepresented as conscious. The disruption is brain state interfering with brain state—no phenomenal consciousness required.
 
 This analysis faces several problems.
 
@@ -142,7 +142,6 @@ For the Map's broader case, choking provides the clearest evidence type: negativ
 - [agent-causation](/concepts/agent-causation/) — Substance causation as an alternative to event causation
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view choking evidence refutes
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and why choking resists it
-- [voluntary attention](/concepts/attention-as-interface/) — The neural signatures of willed versus stimulus-driven attention
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effortful attention
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — Choking as deliberative vertigo under performance pressure
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative parallels to anoetic awareness

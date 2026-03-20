@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-03-11 18:13:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -98,7 +98,7 @@ The challenge is to create meaning without pretending it was there all along—o
 
 ## The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/) argues that phenomenal consciousness is an introspective illusion—that there's nothing it's *like* to choose or feel anguish. If true, existentialism's starting point collapses.
+[illusionism](/concepts/illusionism/) argues that phenomenal consciousness is an introspective illusion—that there's nothing it's *like* to choose or feel anguish. If true, existentialism's starting point collapses.
 
 But illusionism faces a regress: for anguish to be illusory, something must experience that illusory anguish. The *seeming* of choice must *seem to* something. The functionalist might reply that the "seeming" is just a functional state representing itself a certain way—no traditional experiencer required. Yet this pushes the question back: what makes a representation *seem* rather than merely *be*? A thermostat represents temperature without anything seeming any way to it. The distinction between representations that seem and those that don't reintroduces the explanandum.
 

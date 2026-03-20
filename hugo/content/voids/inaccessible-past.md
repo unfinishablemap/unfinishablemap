@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-03-19 12:31:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -32,7 +32,6 @@ related_articles:
 - '[[temporal-void]]'
 - '[[self-reference-paradox]]'
 - '[[thoughts-that-slip-away]]'
-- '[[the-unobservable-self]]'
 - '[[indexical-void]]'
 - '[[consciousness-and-memory]]'
 - '[[contemplative-epistemology]]'
@@ -183,8 +182,7 @@ None of these conditions has been met. Memory is construction, not retrieval, an
 - [episodic-memory](/concepts/episodic-memory/) — The memory system that stores experienced events
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The self-knowing awareness that enables "mental time travel"
 - [personal-identity](/topics/personal-identity/) — What makes you the same person over time
-- [the-unobservable-self](/voids/self-reference-paradox/) — The present self is also elusive
-- [self-reference-paradox](/voids/self-reference-paradox/) — Structural limits on self-understanding
+- [self-reference-paradox](/voids/self-reference-paradox/) — The present self is also elusive
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — Related phenomenology of cognitive limitation
 - [consciousness-and-memory](/topics/consciousness-and-memory/) — How memory systems map onto levels of consciousness
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — The epistemic standing of contemplative reports

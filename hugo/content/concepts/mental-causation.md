@@ -1,13 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-19 13:25:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[psychophysical-coupling]]'
+- '[[psychophysical-laws]]'
 - '[[psychophysical-laws-bridging-mind-and-matter]]'
-- '[[selection-laws]]'
 - '[[causal-closure]]'
 - '[[interactionist-dualism]]'
 - '[[concepts/epiphenomenalism]]'
@@ -17,7 +16,7 @@ concepts:
 - '[[downward-causation]]'
 - '[[reductionism]]'
 - '[[illusionism]]'
-- '[[interface-locality]]'
+- '[[brain-interface-boundary]]'
 - '[[concepts/many-worlds]]'
 - '[[pairing-problem]]'
 - '[[decoherence]]'
@@ -137,7 +136,7 @@ Whitehead's process philosophy offers a complementary reframing: "actual occasio
 
 ### The Interface Question
 
-If consciousness causes physical effects, why only in *this* brain? The [pairing problem](/concepts/pairing-problem/) asks what connects a particular mind to a particular body. The Map's response: [interface-locality](/concepts/brain-interface-boundary/) constrains mental causation to neural systems already integrated into the subject's control loop — consciousness can only influence quantum systems it can "observe" through the [attention mechanism](/concepts/attention-as-interface/).
+If consciousness causes physical effects, why only in *this* brain? The [pairing problem](/concepts/pairing-problem/) asks what connects a particular mind to a particular body. The Map's response: [brain-interface-boundary](/concepts/brain-interface-boundary/) constrains mental causation to neural systems already integrated into the subject's control loop — consciousness can only influence quantum systems it can "observe" through the [attention mechanism](/concepts/attention-as-interface/).
 
 ## The Self-Stultification Argument
 
@@ -153,7 +152,7 @@ If mental states cause nothing, then your beliefs about consciousness aren't cau
 
 ### The Illusionist Response
 
-[Illusionism](/concepts/illusionism/) attempts to sidestep this argument. Frankish introduces *quasi-phenomenal properties*: functional states that represent themselves as having phenomenal character without possessing it. To "seem" to have phenomenal consciousness is just to be in a state that disposes one to judge and react *as if* one has phenomenal properties.
+[illusionism](/concepts/illusionism/) attempts to sidestep this argument. Frankish introduces *quasi-phenomenal properties*: functional states that represent themselves as having phenomenal character without possessing it. To "seem" to have phenomenal consciousness is just to be in a state that disposes one to judge and react *as if* one has phenomenal properties.
 
 The Map's concern is structural. Even granting functional seeming, the illusionist faces a dilemma: if functional seeming retains any experiential dimension, the regress reasserts itself; if it eliminates experiential character entirely, it no longer explains why phenomenal consciousness strikes us as overwhelmingly real. The functional story explains why we produce certain *reports*, but reports are not what makes the hard problem hard. For the self-stultification argument specifically: the illusionist's position is produced by quasi-phenomenal states that, by hypothesis, misrepresent their own nature — undermining the epistemic basis for the position.
 
@@ -192,8 +191,7 @@ Mental causation, as defended here, is falsifiable:
 - [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/) — Mental imagery as a test case for consciousness's causal efficacy
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — The evolutionary argument for consciousness's causal effects
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Framework requiring selection laws for mental causation
-- [selection-laws](/concepts/psychophysical-laws/) — How mental states select physical outcomes
-- [psychophysical-laws](/concepts/psychophysical-laws/) — Candidate coupling mechanisms
+- [psychophysical-laws](/concepts/psychophysical-laws/) — How mental states select physical outcomes
 - [coupling-modes](/concepts/coupling-modes/) — Taxonomy: basis, timing, or probability control
 - [causal-delegation](/concepts/causal-delegation/) — Mechanism by which physical states hand off causal work to experiences
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's 2025 response: experiences preempt rather than overdetermine
@@ -215,7 +213,7 @@ Mental causation, as defended here, is falsifiable:
 - [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) — Meaning determines which physical effect occurs
 - [quantum-consciousness](/concepts/quantum-consciousness/) — How consciousness interfaces with physics
 - [decoherence](/concepts/decoherence/) — The physics challenge and why it doesn't close the quantum opening
-- [interface-locality](/concepts/brain-interface-boundary/) — Why consciousness affects only its own brain
+- [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why consciousness affects only its own brain
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention implements the consciousness-physics interface
 - [mind-matter-interface](/concepts/mind-matter-interface/) — The unified two-layer architecture integrating filter theory and quantum selection
 

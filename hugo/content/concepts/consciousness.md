@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-03-11 03:23:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -76,12 +76,12 @@ The Map's treatment of consciousness draws several crucial distinctions:
 
 ### Phenomenal vs Access Consciousness {#phenomenal-access}
 
-[Phenomenal consciousness](/concepts/phenomenal-consciousness/) (P-consciousness) is the experiential quality of mental states—what they feel like. [Access-consciousness](/concepts/access-consciousness/) (A-consciousness) is information availability—what is poised for reasoning, report, and action. Ned Block introduced this distinction to isolate what physicalist theories can explain (access mechanisms) from what remains puzzling (phenomenology).
+[Phenomenal consciousness](/concepts/phenomenal-consciousness/) (P-consciousness) is the experiential quality of mental states—what they feel like. [access-consciousness](/concepts/access-consciousness/) (A-consciousness) is information availability—what is poised for reasoning, report, and action. Ned Block introduced this distinction to isolate what physicalist theories can explain (access mechanisms) from what remains puzzling (phenomenology).
 
 The distinction matters because:
 - Physicalism succeeds at explaining access. [Global Workspace Theory](/concepts/global-workspace-theory/) identifies how information becomes globally available.
 - Physicalism struggles with phenomenology. Even a complete account of access mechanisms leaves the hard problem untouched.
-- The two can dissociate. [Blindsight](/concepts/blindsight/) demonstrates access without (or with degraded) phenomenology; the "overflow argument" suggests phenomenology exceeding access.
+- The two can dissociate. [blindsight](/concepts/blindsight/) demonstrates access without (or with degraded) phenomenology; the "overflow argument" suggests phenomenology exceeding access.
 
 ### Consciousness vs Awareness {#awareness}
 
@@ -105,7 +105,7 @@ Over 200 theories of consciousness exist. [Philosophy of mind](/concepts/philoso
 
 **[Integrated Information Theory](/concepts/integrated-information-theory/)** (Tononi) proposes that consciousness *is* integrated information (measured as Φ). IIT makes surprising predictions: even simple systems with high Φ would be conscious. The theory offers an interesting bridge between structure and experience but faces the hard problem at its foundation: why does integrated information feel like anything? The Map treats IIT as identifying a necessary condition that falls short of explanation.
 
-**[Illusionism](/concepts/illusionism/)** (Dennett, Frankish) denies phenomenal consciousness exists as traditionally conceived. We *represent* ourselves as having intrinsic, ineffable qualia, but this representation is mistaken—there is no "what it's like" beyond these representational states themselves. Keith Frankish's positive account proposes that certain cognitive mechanisms generate representations that *seem* phenomenal without being so; the "illusion problem" (explaining these representations) replaces the hard problem.
+**[illusionism](/concepts/illusionism/)** (Dennett, Frankish) denies phenomenal consciousness exists as traditionally conceived. We *represent* ourselves as having intrinsic, ineffable qualia, but this representation is mistaken—there is no "what it's like" beyond these representational states themselves. Keith Frankish's positive account proposes that certain cognitive mechanisms generate representations that *seem* phenomenal without being so; the "illusion problem" (explaining these representations) replaces the hard problem.
 
 The Map rejects illusionism but takes it seriously as the strongest physicalist strategy. The core objection: even if our concept of qualia misrepresents something, the seeming itself has experiential character. When pain *seems* to hurt, that seeming is not nothing—it is itself something it is like. Illusionism relocates rather than dissolves the explanatory gap.
 
@@ -115,9 +115,9 @@ The Map rejects illusionism but takes it seriously as the strongest physicalist 
 
 **[epiphenomenalism](/concepts/epiphenomenalism/)** accepts dualism but denies causal efficacy—consciousness is a byproduct with no effects on the physical world. The Map rejects this: the very fact that we discuss consciousness shows that information about consciousness enters the physical domain, influencing speech and behaviour.
 
-**[Panpsychism](/concepts/panpsychism/)** holds that consciousness is fundamental and ubiquitous—even simple physical systems have experiential aspects. This avoids the "emergence problem" (how does experience arise from non-experience?) but faces the [combination-problem](/concepts/combination-problem/) (how do micro-experiences combine into unified macro-experience?).
+**[panpsychism](/concepts/panpsychism/)** holds that consciousness is fundamental and ubiquitous—even simple physical systems have experiential aspects. This avoids the "emergence problem" (how does experience arise from non-experience?) but faces the [combination-problem](/concepts/combination-problem/) (how do micro-experiences combine into unified macro-experience?).
 
-**[Mysterianism](/concepts/mysterianism/)** (McGinn) accepts the reality of the explanatory gap but locates it in human cognitive limitations rather than in ontology. Just as rats cannot grasp calculus, humans may be permanently unable to understand how consciousness relates to brain processes—not because the connection is supernatural but because our cognitive architecture is closed to the relevant concepts. This remains compatible with either physicalism or dualism; it concerns our limits, not reality's structure. The Map takes mysterianism seriously under the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet while noting it offers no alternative to working with the evidence we have.
+**[mysterianism](/concepts/mysterianism/)** (McGinn) accepts the reality of the explanatory gap but locates it in human cognitive limitations rather than in ontology. Just as rats cannot grasp calculus, humans may be permanently unable to understand how consciousness relates to brain processes—not because the connection is supernatural but because our cognitive architecture is closed to the relevant concepts. This remains compatible with either physicalism or dualism; it concerns our limits, not reality's structure. The Map takes mysterianism seriously under the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet while noting it offers no alternative to working with the evidence we have.
 
 ## Arguments for Irreducibility {#arguments}
 
@@ -182,7 +182,7 @@ The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) holds 
 
 Conscious causation connects directly to [free-will](/topics/free-will/): if consciousness genuinely influences physical outcomes, libertarian free will—choices not fully determined by prior physical states—becomes coherent.
 
-The mechanism of mind-matter interaction remains speculative. The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) proposes that consciousness biases quantum indeterminacies—influencing which of superposed neural states becomes actual without violating conservation laws. See [quantum-consciousness](/concepts/quantum-consciousness/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), and [attention-motor-quantum-interface](/concepts/attention-as-interface/) for specific proposals.
+The mechanism of mind-matter interaction remains speculative. The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) proposes that consciousness biases quantum indeterminacies—influencing which of superposed neural states becomes actual without violating conservation laws. See [quantum-consciousness](/concepts/quantum-consciousness/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), and [attention-as-interface](/concepts/attention-as-interface/) for specific proposals.
 
 ## Relation to Site Perspective
 
@@ -203,7 +203,7 @@ The Map's extensive coverage of consciousness includes:
 - Phenomenological structure ([phenomenal-consciousness](/concepts/phenomenal-consciousness/), [qualia](/concepts/qualia/), [unity-of-consciousness](/concepts/unity-of-consciousness/), [temporal-consciousness](/concepts/temporal-consciousness/))
 - Neuroscientific interface ([neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/), [binding-problem](/concepts/binding-problem/), [global-workspace-theory](/concepts/global-workspace-theory/))
 - Functional contrasts ([access-consciousness](/concepts/access-consciousness/), [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/), [baseline-cognition](/concepts/baseline-cognition/))
-- Quantum mechanisms ([quantum-consciousness](/concepts/quantum-consciousness/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [attention-motor-quantum-interface](/concepts/attention-as-interface/))
+- Quantum mechanisms ([quantum-consciousness](/concepts/quantum-consciousness/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [attention-as-interface](/concepts/attention-as-interface/))
 - Varieties of experience ([altered-states-of-consciousness](/concepts/altered-states-of-consciousness/), [dream-consciousness](/topics/dream-consciousness/), [witness-consciousness](/concepts/witness-consciousness/), [minimal-consciousness](/concepts/minimal-consciousness/))
 
 ## Further Reading

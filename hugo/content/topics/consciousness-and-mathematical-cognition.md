@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-03-19 15:06:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -42,7 +42,7 @@ related_articles:
 - '[[incompleteness-void]]'
 - '[[incubation-effect-and-unconscious-processing]]'
 - '[[phenomenology-of-understanding-and-meaning]]'
-- '[[aesthetic-dimension-of-consciousness]]'
+- '[[aesthetics-and-consciousness]]'
 - '[[mathematical-knowledge-and-insight]]'
 - '[[consciousness-and-the-authority-of-formal-systems]]'
 - '[[self-reference-and-the-limits-of-physical-description]]'
@@ -226,7 +226,7 @@ The view would be supported by continued failure of AI to achieve transformation
 - [mathematical-void](/voids/mathematical-void/) — Cognitive limits on mathematical comprehension
 - [incompleteness-void](/voids/incompleteness-void/) — The boundary Gödel's theorems reveal
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — Empirical evidence for unconscious creative processing
-- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Why aesthetic experience matters philosophically
+- [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Why aesthetic experience matters philosophically
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — The felt difference between mechanical verification and genuine comprehension
 - [computational-cognitive-limits](/voids/computational-cognitive-limits/) — Formal proofs of what computation cannot do
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — Parallels between choice phenomenology and insight phenomenology

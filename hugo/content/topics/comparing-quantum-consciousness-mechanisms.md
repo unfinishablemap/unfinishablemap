@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-19 22:47:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[quantum-consciousness]]'
 - '[[stapp-quantum-mind]]'
-- '[[quantum-neural-mechanisms]]'
+- '[[quantum-neural-mechanisms-and-coherence]]'
 - '[[spontaneous-collapse-theories]]'
 - '[[measurement-problem]]'
 - '[[decoherence]]'
-- '[[psychophysical-coupling]]'
+- '[[psychophysical-laws]]'
 - '[[mental-causation]]'
 - '[[interactionist-dualism]]'
 created: 2026-02-09
@@ -156,7 +156,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism in detail
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and Penrose OR models
 - [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/) — Why the choice between collapse mechanisms matters philosophically
-- [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) — Five neural quantum mechanisms with evidence
+- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Five neural quantum mechanisms with evidence
 - [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) — Why quantum biology shifts the burden of proof
 - [decoherence](/concepts/decoherence/) — The decoherence challenge in detail
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Decoherence and timing considerations for neural quantum effects
@@ -166,7 +166,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — Why mechanism choice matters for libertarian free will
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — What collapsed before conscious observers
 - [coupling-modes](/concepts/coupling-modes/) — How consciousness might couple to quantum systems
-- [psychophysical-coupling](/concepts/psychophysical-laws/) — What a coupling law must specify
+- [psychophysical-laws](/concepts/psychophysical-laws/) — What a coupling law must specify
 - [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — Six proposed mechanisms for scaling quantum effects to neural outcomes
 - [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) — Penrose OR's experimental frontier: DP model falsification and next-generation tests
 - [measurement-problem](/concepts/measurement-problem/) — Why quantum mechanics leaves outcomes undetermined

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-03-11 21:51:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -185,7 +185,7 @@ None currently obtains. The asymmetry persists across studies; binding remains c
 
 ## Further Reading
 
-- [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/) — How multiple meanings are held and woven into unified understanding
+- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — How multiple meanings are held and woven into unified understanding
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How WM expansion enables cognitive amplification
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — How recursive linguistic structure depends on expanded WM capacity
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the causal bridge between consciousness and neural systems
@@ -196,7 +196,6 @@ None currently obtains. The asymmetry persists across studies; binding remains c
 - [metacognition](/concepts/metacognition/) — Self-monitoring as consciousness-enabled capacity
 - [concept-of-consciousness-and-social-cognition](/concepts/concept-of-consciousness-and-social-cognition/) — How expanded WM capacity enables recursive mindreading
 - [baseline-cognition](/concepts/baseline-cognition/) — What neural systems achieve without conscious amplification
-- [metarepresentation](/concepts/metacognition/) — Representing representations as representations
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — Thinking about what might have been
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The throughput limits of conscious processing
 - [interface-friction](/concepts/interface-friction/) — The felt cost of consciousness-matter interaction

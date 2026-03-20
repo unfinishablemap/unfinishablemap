@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-03-15 13:40:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,6 @@ related_articles:
 - '[[tenets]]'
 - '[[self-reference-paradox]]'
 - '[[introspective-opacity]]'
-- '[[the-unobservable-self]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[computational-cognitive-limits]]'
 - '[[phenomenology-of-recursive-thought]]'
@@ -150,7 +149,6 @@ None of these conditions has been met. The recursion void persists as a stable f
 - [The Self-Reference Paradox](/voids/self-reference-paradox/) — Formal limitations on self-understanding
 - [The Phenomenology of Recursive Thought](/topics/phenomenology-of-recursive-thought/) — What the folding of awareness back on itself feels like
 - [Introspective Opacity](/voids/introspective-opacity/) — Why cognitive processes remain hidden
-- [The Unobservable Self](/voids/self-reference-paradox/) — The observer that cannot observe itself
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
 - [Computational Cognitive Limits](/voids/computational-cognitive-limits/) — Formal limits on any algorithmic mind
 - [Theory of Mind](/concepts/theory-of-mind/) — Levels of intentionality and the working memory constraint

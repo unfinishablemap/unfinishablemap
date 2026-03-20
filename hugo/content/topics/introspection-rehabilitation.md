@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-03-18 06:14:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,18 +25,18 @@ last_deep_review: 2026-03-18 06:14:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[contemplative-training-and-phenomenal-access]]'
+- '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[phenomenal-conservatism-and-introspective-evidence]]'
 - '[[introspective-opacity]]'
 - '[[introspection-reliability-first-person-2026-01-15]]'
 - '[[epistemology-of-introspection]]'
 - '[[heterophenomenology]]'
-- '[[consciousness-and-scientific-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 - '[[measurement-void]]'
 title: Rehabilitating Introspection
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[first-person-third-person-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 ---
 
 Introspection was pronounced unreliable in the 1970s and has spent decades under suspicion. Nisbett and Wilson showed that people confabulate explanations for decisions shaped by factors they cannot access. Choice blindness experiments confirmed the pattern. Schwitzgebel catalogued failures across multiple domains. The cumulative effect was devastating: if we cannot trust what we say about our own minds, how can first-person evidence anchor any theory of consciousness?
@@ -102,7 +102,7 @@ This directly addresses confabulation. Much confabulation occurs because subject
 
 Francisco Varela's [neurophenomenology](/concepts/neurophenomenology/) provides the framework that addresses the calibration problem. Trained first-person reports are combined with third-person neural measurement, allowing each to constrain the other.
 
-The strongest evidence comes from [contemplative research on progressive disclosure](/topics/contemplative-evidence-for-consciousness-theories/). Trained meditators describe specific phenomenal progressions—the jhāna states, for example—and high-field fMRI studies have identified distinct neural signatures corresponding to each described state (Hagerty et al., 2013). If trained introspection were merely producing more elaborate confabulations, reports should diverge from neural measurement as training introduces systematic bias. Instead, they converge. Cross-modal confirmation provides the independent check that pure introspection lacks.
+The strongest evidence comes from [contemplative research on progressive disclosure](/topics/contemplative-practice-as-philosophical-evidence/). Trained meditators describe specific phenomenal progressions—the jhāna states, for example—and high-field fMRI studies have identified distinct neural signatures corresponding to each described state (Hagerty et al., 2013). If trained introspection were merely producing more elaborate confabulations, reports should diverge from neural measurement as training introduces systematic bias. Instead, they converge. Cross-modal confirmation provides the independent check that pure introspection lacks.
 
 ### Critical Phenomenology
 
@@ -143,15 +143,14 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet gains 
 ## Further Reading
 
 - [introspection](/concepts/introspection/) — Comprehensive treatment of the reliability debate
-- [contemplative-training-and-phenomenal-access](/topics/contemplative-evidence-for-consciousness-theories/) — How training expands phenomenal access
+- [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — How training expands phenomenal access
 - [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — Epistemological grounding for first-person data
 - [introspective-opacity](/voids/introspective-opacity/) — The structural limits that rehabilitation cannot overcome
 - [neurophenomenology](/concepts/neurophenomenology/) — The framework integrating first-person and third-person methods
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Systematic contemplative practice as knowledge source
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — When first-person reports constitute evidence
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — The persistent methodological gap
+- [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — The persistent methodological gap
 - [epistemology-of-introspection](/topics/epistemology-of-introspection/) — Competing models of introspective epistemology and the sui generis account
-- [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/) — Why consciousness science cannot avoid first-person methods
 - [heterophenomenology](/concepts/heterophenomenology/) — Dennett's alternative to taking introspection at face value
 
 ## References

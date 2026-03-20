@@ -28,7 +28,6 @@ related_articles:
 - '[[tenets]]'
 - '[[consciousness-and-the-ontology-of-temporal-becoming]]'
 - '[[temporal-structure-of-consciousness]]'
-- '[[temporal-structure-of-consciousness]]'
 - '[[phenomenology-of-temporal-selection]]'
 title: Bergson and Duration
 topics:

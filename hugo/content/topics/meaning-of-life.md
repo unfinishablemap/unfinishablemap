@@ -1,11 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-03-10 07:43:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[nihilism]]'
+- '[[nihilism-and-existentialism]]'
 - '[[existentialism]]'
 - '[[purpose-and-alignment]]'
 - '[[topics/free-will]]'
@@ -147,7 +147,7 @@ The disanalogy is crucial. Moral intuitions are *about* external facts (what's r
 
 ## The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is an introspective illusion—presents the most radical objection to consciousness-grounded meaning. If qualia are representational fictions, grounding meaning in experiential quality would ground it in nothing real.
+[illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is an introspective illusion—presents the most radical objection to consciousness-grounded meaning. If qualia are representational fictions, grounding meaning in experiential quality would ground it in nothing real.
 
 ### The Regress Response
 
@@ -157,7 +157,7 @@ Sartre's analysis of the *pour-soi* (being-for-itself) anticipated this point: c
 
 ### The Contemplative Challenge
 
-[Introspection](/concepts/introspection/) research reveals trained contemplatives access experiential quality directly—not as attribution but as observed feature. If phenomenal states were illusory, contemplative training should dissolve the illusion. Instead, practice *refines* phenomenal access, revealing finer-grained distinctions. What would training be refining access to if phenomenal properties didn't exist?
+[introspection](/concepts/introspection/) research reveals trained contemplatives access experiential quality directly—not as attribution but as observed feature. If phenomenal states were illusory, contemplative training should dissolve the illusion. Instead, practice *refines* phenomenal access, revealing finer-grained distinctions. What would training be refining access to if phenomenal properties didn't exist?
 
 ### The Functional Asymmetry
 
@@ -231,7 +231,7 @@ The [haecceity](/concepts/haecceity/) of personal identity matters here. *You*�
 
 The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet explains why consciousness-grounded meaning shouldn't be dismissed for complexity. Simpler accounts—meaning as preference-satisfaction, meaning as adaptive fiction—may reflect conceptual poverty rather than insight. Consciousness is strange; meaning may be equally strange.
 
-[Mysterianism](/concepts/mysterianism/) takes this further: we may be cognitively closed with respect to exactly *how* consciousness grounds meaning. We can know that it does without fully understanding the mechanism. The [normative-void](/voids/normative-void/) extends this analysis to ethics—some moral truths may be permanently beyond human cognitive reach.
+[mysterianism](/concepts/mysterianism/) takes this further: we may be cognitively closed with respect to exactly *how* consciousness grounds meaning. We can know that it does without fully understanding the mechanism. The [normative-void](/voids/normative-void/) extends this analysis to ethics—some moral truths may be permanently beyond human cognitive reach.
 
 ## What Makes a Life Meaningful?
 
@@ -258,7 +258,7 @@ The position takes seriously what we actually know: consciousness exists, it's r
 ## Further Reading
 
 ### Core Concepts
-- [nihilism](/concepts/nihilism-and-existentialism/) — The case for meaninglessness and responses to it
+- [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/) — The case for meaninglessness and responses to it
 - [existentialism](/concepts/existentialism/) — Sartre's pour-soi and the phenomenology of freedom support consciousness-grounded meaning
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical grounding for consciousness-based value
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — How AI alignment depends on unresolved questions about meaning

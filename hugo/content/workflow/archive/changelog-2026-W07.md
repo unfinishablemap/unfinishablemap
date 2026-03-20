@@ -1495,7 +1495,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-12 18:34 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and Scientific Methodology
-- **Output**: [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/)
+- **Output**: [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/)
 - **Word count**: 1788
 - **Based on research**: No (informed by existing research on first-person/third-person methodology)
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-19 06:47:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -117,9 +117,9 @@ PP has strong affinities with [illusionism](/concepts/illusionism/)—the view t
 
 **The regress problem.** Illusionism must explain why the illusion seems phenomenal. If my experience of red seems to have qualitative character, something is doing the seeming. That seeming is itself a phenomenal state requiring explanation. PP can explain why I *represent* having phenomenal experience, but the representation must itself be represented somewhere, and that representation must appear *to* something. The regress terminates only if there is genuine phenomenal appearance at some level.
 
-**Introspection survives the debunking.** [Introspection](/concepts/introspection/) faces legitimate criticisms regarding process access—we don't reliably know *why* we make decisions. But introspective access to phenomenal *content*—that there is something it's like right now—isn't obviously defeated by showing that our explanations confabulate. The existence of experience differs from accurate reports about its causes. PP explains prediction error processing; it doesn't explain away the existence of the experience receiving that explanation.
+**Introspection survives the debunking.** [introspection](/concepts/introspection/) faces legitimate criticisms regarding process access—we don't reliably know *why* we make decisions. But introspective access to phenomenal *content*—that there is something it's like right now—isn't obviously defeated by showing that our explanations confabulate. The existence of experience differs from accurate reports about its causes. PP explains prediction error processing; it doesn't explain away the existence of the experience receiving that explanation.
 
-**Contemplative challenge.** Meditation practices cultivate direct observation of prediction error in action—watching expectations arise and dissolve. Trained contemplatives report that this observation is itself phenomenally rich. The predictions are experienced as mental events; their observation is experienced as awareness. [Witness-consciousness](/concepts/witness-consciousness/) traditions specifically distinguish the observing awareness from the content observed. PP might explain how contents are generated without explaining the witness that observes them.
+**Contemplative challenge.** Meditation practices cultivate direct observation of prediction error in action—watching expectations arise and dissolve. Trained contemplatives report that this observation is itself phenomenally rich. The predictions are experienced as mental events; their observation is experienced as awareness. [witness-consciousness](/concepts/witness-consciousness/) traditions specifically distinguish the observing awareness from the content observed. PP might explain how contents are generated without explaining the witness that observes them.
 
 **The functional asymmetry.** Why do humans discuss phenomenal consciousness while sophisticated prediction-error-minimizing systems (weather models, market prediction algorithms) do not? If phenomenal seeming were just another prediction, we'd expect any sufficiently complex predictive system to "believe" it's conscious. The selective appearance of consciousness in biological systems suggests something beyond prediction is involved.
 
@@ -169,7 +169,7 @@ Meditation traditions provide empirical data on PP's claims, accessible through 
 
 **Precision modulation.** [Focused attention practices](/concepts/meditation-and-consciousness-modes/) seem to involve voluntarily adjusting precision weighting—making some prediction errors more salient, others less. The phenomenal character shifts: background noise fades; the meditation object becomes vivid. PP explains the mechanism; it doesn't explain why adjusting precision *feels* different.
 
-**[Witness-consciousness](/concepts/witness-consciousness/)'s challenge.** Advanced practitioners report stable awareness persisting even as predictions cycle through. The witness observes the controlled hallucination without being identical to it. If perception is hallucination, what is observing the hallucination? The witness cannot be another hallucination without infinite regress.
+**[witness-consciousness](/concepts/witness-consciousness/)'s challenge.** Advanced practitioners report stable awareness persisting even as predictions cycle through. The witness observes the controlled hallucination without being identical to it. If perception is hallucination, what is observing the hallucination? The witness cannot be another hallucination without infinite regress.
 
 **Cessation states.** In *nirodha samāpatti* (cessation of perception and feeling), meditators report complete stopping of predictive activity—no perception, no model, no errors—followed by return. If consciousness were identical to prediction, cessation should equal non-existence. Yet some practitioners report something more nuanced: a kind of awareness even of the absence—though Buddhist traditions themselves debate whether cessation involves residual awareness or genuine non-consciousness.
 

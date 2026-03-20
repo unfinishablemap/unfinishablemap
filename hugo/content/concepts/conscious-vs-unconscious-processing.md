@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-18 13:10:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -20,7 +20,7 @@ concepts:
 - '[[global-workspace-theory]]'
 - '[[integrated-information-theory]]'
 - '[[mysterianism]]'
-- '[[first-person-third-person-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 - '[[qualia]]'
 - '[[knowledge-argument]]'
 - '[[phenomenal-overflow]]'
@@ -120,7 +120,7 @@ For the Map's argument here, the functional evidence for [Bidirectional Interact
 
 ## Blindsight: The Paradigm Case
 
-[Blindsight](/concepts/blindsight/) provides the clearest evidence that consciousness adds functionality beyond unconscious processing.
+[blindsight](/concepts/blindsight/) provides the clearest evidence that consciousness adds functionality beyond unconscious processing.
 
 Patients with V1 damage report being completely blind in portions of their visual field. Yet when forced to guess about stimuli in their blind field, they perform above chance for orientation, motion, and emotional expression.
 
@@ -271,7 +271,6 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 - [phenomenal-overflow](/concepts/phenomenal-overflow/) — The contested hypothesis that phenomenology exceeds access
 - [working-memory](/concepts/working-memory/) — The maintenance function requiring consciousness
 - [attention](/concepts/attention-as-interface/) — The gatekeeper for conscious access
-- [voluntary attention](/concepts/attention-as-interface/) — How consciousness directs attention
 - [global-workspace-theory](/concepts/global-workspace-theory/) — The theoretical framework for consciousness as broadcast
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum mechanism for consciousness-attention interface
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness is causally inert and why it fails

@@ -43,7 +43,6 @@ related_articles:
 - '[[bergson-and-duration]]'
 - '[[non-temporal-consciousness]]'
 - '[[temporal-void]]'
-- '[[temporal-void]]'
 - '[[phenomenology-of-anticipation]]'
 - '[[phenomenology-of-memory-and-the-self]]'
 - '[[consciousness-and-creative-distinctiveness]]'
@@ -153,7 +152,6 @@ Whitehead's [process metaphysics](/concepts/process-philosophy/) provides a fram
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Collapse, free will, and time's arrow
 - [bergson-and-duration](/topics/bergson-and-duration/) — Durée as irreducible temporal phenomenology
 - [temporal-void](/voids/temporal-void/) — The specific void of memory versus anticipation
-- [temporal-void](/voids/temporal-void/) — Why consciousness cannot escape the present
 - [non-temporal-consciousness](/topics/non-temporal-consciousness/) — Whether the deepest level of mind transcends time
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces irreversibility
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, and the three major positions

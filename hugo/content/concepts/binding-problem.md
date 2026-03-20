@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-03 15:41:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ concepts:
 - '[[illusionism]]'
 - '[[explanatory-gap]]'
 - '[[agent-causation]]'
-- '[[neural-binding-mechanisms]]'
+- '[[phenomenal-binding-and-holism]]'
 - '[[entanglement-binding-hypothesis]]'
 created: 2026-01-14
 date: &id001 2026-02-28
@@ -79,7 +79,7 @@ The Map rejects this. First, the illusionist faces infinite regress: to experien
 
 ## Classical Proposed Solutions
 
-Several mechanisms have been proposed for computational binding (BP1). See [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) for detailed treatment.
+Several mechanisms have been proposed for computational binding (BP1). See [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) for detailed treatment.
 
 **Binding by synchrony**: Features belonging to the same object bind through synchronized gamma-band oscillations (30-100 Hz). But synchronized firing consists of separate events in separate neurons. Why does correlation feel like unity? Classical coordination does not produce ontological holism—the whole remains reducible to coordinated parts.
 
@@ -187,7 +187,7 @@ The binding problem illuminates why the Map's [tenets](/tenets/) take the positi
 
 ## Further Reading
 
-- [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) — Classical and quantum binding mechanisms
+- [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — Classical and quantum binding mechanisms
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Phenomenal unity and its varieties; binding is the synchronic dimension
 - [combination-problem](/concepts/combination-problem/) — How micro-experiences combine into macro-experience
 - [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) — Entanglement as the basis for unity; structural argument and experimental evidence

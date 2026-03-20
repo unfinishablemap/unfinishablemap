@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-12 00:03:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[reductionism]]'
 - '[[mental-causation]]'
-- '[[selection-laws]]'
+- '[[psychophysical-laws]]'
 - '[[causal-closure]]'
 - '[[emergence]]'
 - '[[interactionist-dualism]]'
@@ -20,7 +20,6 @@ concepts:
 - '[[luck-objection]]'
 - '[[pairing-problem]]'
 - '[[decoherence]]'
-- '[[psychophysical-laws]]'
 created: 2026-01-18
 date: &id001 2026-01-18
 description: Higher-level properties can causally influence lower-level processes.
@@ -115,7 +114,7 @@ Several responses are available, though none fully resolves the gap:
 
 **The discrete observation alternative**: Stapp's quantum Zeno mechanism may sidestep the sustained coherence requirement entirely. If consciousness operates through discrete observation cycles rather than maintained superposition—rapid repeated "probing actions" that each reset the quantum state—the relevant question shifts from "can coherence survive?" to "can observation cycles operate fast enough?" If decoherence occurs at microseconds and observations at milliseconds, approximately 1000 observations per 300ms attentional window might suffice to bias outcomes cumulatively. This mechanism doesn't require consciousness to track femtosecond processes directly.
 
-**Outcome selection persists**: [Decoherence](/concepts/decoherence/) doesn't eliminate quantum indeterminacy—it explains why interference effects wash out, but outcomes still require determination. As a 2025 review notes: "the problem of outcomes is still open." Even after decoherence, something must select which outcome becomes actual.
+**Outcome selection persists**: [decoherence](/concepts/decoherence/) doesn't eliminate quantum indeterminacy—it explains why interference effects wash out, but outcomes still require determination. As a 2025 review notes: "the problem of outcomes is still open." Even after decoherence, something must select which outcome becomes actual.
 
 **The bandwidth question**: The bandwidth of conscious thought—measured at roughly 10 bits per second—suggests consciousness operates at the level of policies and attention allocation, not individual quantum events. This raises a question the Map must acknowledge as unresolved: how does coarse-grained conscious intention translate into whatever fine-grained observations the Zeno mechanism requires? One possibility is that sustained attention sets boundary conditions that neural mechanisms implement at faster timescales—consciousness provides the "what" while brain architecture handles the "how fast." But this remains speculative.
 
@@ -155,7 +154,7 @@ The Map defends *strong* downward causation. The Dualism tenet holds consciousne
 
 ## The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/) poses a radical challenge: if phenomenal consciousness is an illusion, there's nothing non-physical to exercise downward causation. But illusionism faces a regress—to be under an illusion that consciousness exists requires *something it is like* to have that mistaken representation. As Raymond Tallis notes: "Misrepresentation presupposes presentation."
+[illusionism](/concepts/illusionism/) poses a radical challenge: if phenomenal consciousness is an illusion, there's nothing non-physical to exercise downward causation. But illusionism faces a regress—to be under an illusion that consciousness exists requires *something it is like* to have that mistaken representation. As Raymond Tallis notes: "Misrepresentation presupposes presentation."
 
 The illusionist trades the hard problem for an equally hard "illusion problem." Whatever produces our "illusion" must influence our verbal reports. If that production is purely physical, reports should be about neural states, not phenomenal properties. If something non-physical shapes report content, that's downward causation.
 
@@ -191,7 +190,7 @@ Kim's exclusion argument remains the primary challenge to mental causation. But 
 
 - [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) — Empirical evidence that the meaning of conscious states determines which physical effects occur
 - [mental-causation](/concepts/mental-causation/) — The philosophical problem downward causation addresses
-- [selection-laws](/concepts/psychophysical-laws/) — The downward direction of psychophysical laws
+- [psychophysical-laws](/concepts/psychophysical-laws/) — The downward direction of psychophysical laws
 - [causal-closure](/concepts/causal-closure/) — The principle downward causation challenges
 - [emergence](/concepts/emergence/) — Strong emergence requires downward causation
 - [interactionist-dualism](/concepts/interactionist-dualism/) — the Map's framework defending downward causation

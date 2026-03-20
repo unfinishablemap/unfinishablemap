@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-03-18 15:28:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -37,12 +37,12 @@ related_articles:
 - '[[normative-void]]'
 - '[[phenomenal-depth]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
-- '[[aesthetic-dimension-of-consciousness]]'
+- '[[aesthetics-and-consciousness]]'
 - '[[phenomenology-of-deliberation-under-uncertainty]]'
 - '[[authentic-vs-inauthentic-choice]]'
 - '[[explanatory-gap]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
-- '[[consciousness-and-the-authority-of-logic]]'
+- '[[consciousness-and-the-authority-of-formal-systems]]'
 - '[[consciousness-and-moral-agency-under-duress]]'
 - '[[phenomenal-normativity-environmental-ethics]]'
 title: Consciousness and Normative Force
@@ -165,7 +165,7 @@ The consciousness-based account would face pressure if:
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as constituted by conscious experience
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — What moral perception feels like from the inside
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The felt character of thinking and reasoning
-- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Beauty and ugliness as irreducible phenomenal features
+- [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Beauty and ugliness as irreducible phenomenal features
 - [normative-void](/voids/normative-void/) — Where normative perception reaches its limits
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Contemplative deepening of normative perception
@@ -177,7 +177,7 @@ The consciousness-based account would face pressure if:
 - [agent-causation](/concepts/agent-causation/) — Conscious origination of action
 - [normative-phenomenology](/concepts/normative-phenomenology/) — The phenomenology of normative experience
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists reductive explanation
-- [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-formal-systems/) — How consciousness grounds logic's binding force
+- [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — How consciousness grounds logic's binding force
 - [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/) — Moral agency when normative demands are extreme
 - [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/) — Extending phenomenal normativity to environmental obligations
 - [phenomenal-depth](/concepts/phenomenal-depth/) — Layers of phenomenal experience accessible through attention

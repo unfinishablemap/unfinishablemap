@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-19 17:33:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -206,7 +206,6 @@ The Map's [tenets](/tenets/) converge on loss of consciousness as a domain where
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) — The graded interface transition at sleep onset
 - [haecceity](/concepts/haecceity/) — The indexical identity problem posed by temporal gaps in experience
 - [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis placing loss of consciousness within a convergence matrix of five altered states
-- [death-phenomenology-beyond-ndes](/topics/death-and-consciousness/) — The broader phenomenology of dying beyond NDEs and loss of consciousness
 - [dream-consciousness](/topics/dream-consciousness/) — Dream states as contrast case: consciousness persists during sleep with distinct phenomenal modes and cognitive contributions
 
 ## References

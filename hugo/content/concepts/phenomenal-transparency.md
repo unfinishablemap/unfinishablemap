@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-15 06:26:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,9 +27,8 @@ related_articles:
 - '[[tenets]]'
 - '[[destabilizing-self-knowledge]]'
 - '[[intentionality-void]]'
-- '[[the-unobservable-self]]'
-- '[[intrinsic-nature-void]]'
 - '[[self-reference-paradox]]'
+- '[[intrinsic-nature-void]]'
 - '[[explanatory-gap]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[mysterianism]]'
@@ -111,11 +110,10 @@ For the [simulation hypothesis](/concepts/simulation/), phenomenal transparency 
 - [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/) — What happens when transparency breaks down, and why some self-knowledge may be structurally inaccessible
 - [intentionality-void](/voids/intentionality-void/) — Transparency applied to the aboutness of thought
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The question of what matter is in itself, hidden behind transparent perception
-- [the-unobservable-self](/voids/self-reference-paradox/) — The structural impossibility of observing the observer
+- [self-reference-paradox](/voids/self-reference-paradox/) — The structural impossibility of observing the observer
 - [introspection](/concepts/introspection/) — The reliability and limits of first-person access
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The broader category that transparency shapes
 - [introspective-opacity](/voids/introspective-opacity/) — The structural limit where process access fails
-- [self-reference-paradox](/voids/self-reference-paradox/) — Recursive limits on self-knowledge
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal experience that transparency makes vivid
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Whether sustained contemplative practice can reduce transparency
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure as a structural limit on understanding consciousness

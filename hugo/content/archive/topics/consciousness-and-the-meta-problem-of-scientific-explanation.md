@@ -99,7 +99,7 @@ A genuine resolution would require one of:
 
 1. **An account of understanding that is not phenomenal.** If understanding can be fully characterised in functional or computational terms — without reference to how it *feels* to understand — then scientific explanation could be self-grounding. The difficulty is that functional accounts of understanding seem to describe the *structure* of understanding while leaving out the *experience*. An AI system can process explanatory structures without (presumably) experiencing the sense of comprehension.
 
-2. **A science that includes first-person data.** If phenomenal experience were admitted as irreducible scientific data — not as something to be explained away but as part of the explanatory base — the reflexive gap would narrow. [First-person/third-person integration](/topics/first-person-third-person-methodology/) explores this possibility, but it requires abandoning the Galilean exclusion that made science successful.
+2. **A science that includes first-person data.** If phenomenal experience were admitted as irreducible scientific data — not as something to be explained away but as part of the explanatory base — the reflexive gap would narrow. [First-person/third-person integration](/topics/methodology-of-consciousness-research/) explores this possibility, but it requires abandoning the Galilean exclusion that made science successful.
 
 3. **Acceptance that the gap is permanent.** [Mysterianism](/concepts/mysterianism/) holds that some explanatory limits reflect cognitive architecture rather than the world's structure. Perhaps science cannot explain its own explanatory capacity for the same reason an eye cannot see itself directly — the instrument cannot take itself as its own object. This would mean the meta-problem of scientific explanation is not a problem to be solved but a boundary to be acknowledged.
 
@@ -118,13 +118,13 @@ The Map speculates that the meta-problem of scientific explanation may ultimatel
 ## Further Reading
 
 - [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) — How consciousness breaks specific theories of scientific explanation
-- [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/) — The Galilean exclusion and its consequences for consciousness research
+- [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/) — The Galilean exclusion and its consequences for consciousness research
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The foundational question the meta-problem builds upon
 - [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) — Chalmers' formulation: why do we think consciousness is hard?
 - [explanatory-gap](/concepts/explanatory-gap/) — The specific gap between physical description and phenomenal experience
 - [galilean-exclusion](/concepts/galilean-exclusion/) — The founding move that created science's blind spot
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure as explanation for permanent limits
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — Integrating subjective and objective approaches
+- [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) — Integrating subjective and objective approaches
 - [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-methodological-failure/) — Why standard criteria for theory choice falter with consciousness
 - [argument-from-reason](/topics/argument-from-reason/) — A parallel self-referential argument: physicalism undermines rational grounds for believing physicalism
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether the act of understanding has irreducible phenomenal character

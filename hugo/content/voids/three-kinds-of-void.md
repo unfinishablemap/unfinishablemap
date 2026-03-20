@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-31
-ai_modified: 2026-03-16 08:47:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts:
@@ -22,7 +22,7 @@ related_articles:
 - '[[hard-problem-of-consciousness]]'
 - '[[thoughts-that-slip-away]]'
 - '[[defended-territory]]'
-- '[[dream-consciousness-void]]'
+- '[[sleep-consciousness-void]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[whether-real]]'
 - '[[synesthetic-void]]'
@@ -88,7 +88,7 @@ The three-part taxonomy organises investigation but does not confine it. The [sy
 ## Further Reading
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
-- [dream-consciousness-void](/voids/sleep-consciousness-void/) — A void combining features of all three types
+- [sleep-consciousness-void](/voids/sleep-consciousness-void/) — A void combining features of all three types
 - [synesthetic-void](/voids/synesthetic-void/) — An intra-species void spanning all three categories
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — The phenomenology of cognitive slippage
 - [defended-territory](/voids/defended-territory/) — Specific tests for whether territory is defended

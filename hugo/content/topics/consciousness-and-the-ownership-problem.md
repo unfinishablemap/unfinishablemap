@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-18 22:42:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[phenomenology]]'
 - '[[qualia]]'
 - '[[binding-problem]]'
-- '[[why-phenomenal-unity-resists-explanation]]'
+- '[[quantum-holism-and-phenomenal-unity]]'
 - '[[philosophical-zombies]]'
 - '[[illusionism]]'
 - '[[parfit-reductionism]]'
@@ -28,7 +28,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[the-self-minimal-narrative-and-substantial]]'
-- '[[the-unobservable-self]]'
+- '[[self-reference-paradox]]'
 - '[[identity-across-transformations]]'
 - '[[ownership-void]]'
 - '[[phenomenological-psychiatry-and-altered-experience]]'
@@ -134,7 +134,7 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 - [haecceity](/concepts/haecceity/) — Primitive thisness and why ownership cannot be replicated
 - [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) — Why "I" and "mine" resist impersonal translation
 - [personal-identity](/topics/personal-identity/) — What persists when ownership extends through time
-- [the-unobservable-self](/voids/self-reference-paradox/) — Why the owner resists observation
+- [self-reference-paradox](/voids/self-reference-paradox/) — Why the owner resists observation
 - [binding-problem](/concepts/binding-problem/) — Unity of experience as distinct from ownership of experience
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The prior question ownership presupposes
 - [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — What makes a subject a discrete subject at all (prior to ownership)

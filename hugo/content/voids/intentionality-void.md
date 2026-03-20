@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-03-19 02:21:06+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[the-unobservable-self]]'
+- '[[self-reference-paradox]]'
 - '[[creativity-void]]'
 - '[[intrinsic-nature-void]]'
 - '[[three-kinds-of-void]]'
@@ -141,7 +141,7 @@ The intentionality void connects directly to the Map's [foundational commitments
 ## Further Reading
 
 - [voids](/voids/) — The broader framework for cognitive dark spaces
-- [the-unobservable-self](/voids/self-reference-paradox/) — The observer that cannot observe itself observing
+- [self-reference-paradox](/voids/self-reference-paradox/) — The observer that cannot observe itself observing
 - [creativity-void](/voids/creativity-void/) — Where insight originates, equally opaque to introspection
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Physics describes what matter does, not what it is
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, occluded

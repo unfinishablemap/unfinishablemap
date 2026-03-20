@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-03-06 05:40:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,10 +24,10 @@ related_articles:
 - '[[three-kinds-of-void]]'
 - '[[observation-void]]'
 - '[[introspective-opacity]]'
-- '[[calibration-void]]'
+- '[[measurement-void]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[acquaintance-void]]'
-- '[[dreamless-sleep-void]]'
+- '[[sleep-consciousness-void]]'
 title: The Minimal Consciousness Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -86,7 +86,7 @@ Several implications follow:
 
 **Consciousness may have no natural minimum.** If Nagel is right that consciousness extends broadly across the animal kingdom and IIT is right that Φ > 0 suffices, then ever-simpler experiences may extend below any threshold we can examine. The void is not a wall but an asymptote.
 
-**Investigation of consciousness is self-limiting.** The enrichment problem is not contingent (like lacking the right instruments) but structural (the instrument modifies the measurement). This places the minimal consciousness void alongside the [calibration-void](/voids/measurement-void/) and the [observation-void](/voids/observation-void/) as evidence that consciousness has a constitutive relationship with opacity—it functions in part because certain aspects of its operation remain invisible to itself.
+**Investigation of consciousness is self-limiting.** The enrichment problem is not contingent (like lacking the right instruments) but structural (the instrument modifies the measurement). This places the minimal consciousness void alongside the [measurement-void](/voids/measurement-void/) and the [observation-void](/voids/observation-void/) as evidence that consciousness has a constitutive relationship with opacity—it functions in part because certain aspects of its operation remain invisible to itself.
 
 ## Relation to Site Perspective
 
@@ -102,11 +102,11 @@ The minimal consciousness void aligns with the Map's [tenets](/tenets/) in sever
 
 - [minimal-consciousness](/concepts/minimal-consciousness/) — The concept of bare phenomenal experience at its simplest
 - [observation-void](/voids/observation-void/) — How every method of studying consciousness transforms what it studies
-- [calibration-void](/voids/measurement-void/) — Why introspection cannot be verified against any independent standard
+- [measurement-void](/voids/measurement-void/) — Why introspection cannot be verified against any independent standard
 - [introspective-opacity](/voids/introspective-opacity/) — Why we access mental contents but never the mechanisms producing them
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its cognitive boundaries
 - [acquaintance-void](/voids/acquaintance-void/) — Modes of direct phenomenal contact structurally inaccessible to minds like ours
-- [dreamless-sleep-void](/voids/sleep-consciousness-void/) — Where consciousness goes during absence, and whether cessation is genuine zero
+- [sleep-consciousness-void](/voids/sleep-consciousness-void/) — Where consciousness goes during absence, and whether cessation is genuine zero
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The taxonomy of unexplored, unexplorable, and occluded
 
 ## References

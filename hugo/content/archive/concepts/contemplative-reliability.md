@@ -69,7 +69,7 @@ The implication—stated carefully—is that contemplative reliability is a trai
 
 The most important condition for reliability is *what* contemplative practitioners report on. The Nisbett-Wilson critique targets causal *processes*—why a choice was made, what mechanism produced a response. Contemplative reliability concerns phenomenal *content*—what experience is like, what structures appear under sustained attention, how conscious states unfold.
 
-This maps onto Russell's distinction between knowledge by acquaintance and knowledge by description. Contemplatives report on what they are directly acquainted with: the qualitative character of present experience. They do not—and cannot—introspect the neural mechanisms generating that experience. The process/content boundary is where reliability changes character, and respecting it is essential. (This distinction also addresses the [heterophenomenological](/concepts/heterophenomenology/) challenge that first-person reports are already interpreted representations—see [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) for the broader debate.)
+This maps onto Russell's distinction between knowledge by acquaintance and knowledge by description. Contemplatives report on what they are directly acquainted with: the qualitative character of present experience. They do not—and cannot—introspect the neural mechanisms generating that experience. The process/content boundary is where reliability changes character, and respecting it is essential. (This distinction also addresses the [heterophenomenological](/concepts/heterophenomenology/) challenge that first-person reports are already interpreted representations—see [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) for the broader debate.)
 
 ### Methodological Rigour
 
@@ -133,7 +133,7 @@ This gradient matters for assessing any philosophical argument that appeals to c
 - [introspection-rehabilitation](/topics/introspection-rehabilitation/) — The broader case for restoring introspection as a serious method
 - [introspection](/concepts/introspection/) — The reliability debate and the process/content distinction
 - [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/) — Contemplative practice as part of philosophy's toolkit
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — The broader debate on integrating first-person and third-person methods
+- [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) — The broader debate on integrating first-person and third-person methods
 - [neurophenomenology](/concepts/neurophenomenology/) — Varela's mutual constraint framework for cross-modal verification
 - [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — Empirical evidence on neural changes from contemplative training
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — When first-person reports constitute evidence

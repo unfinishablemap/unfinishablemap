@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-03-19 10:05:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ related_articles:
 - '[[capability-division-problem]]'
 - '[[capability-division-in-vision]]'
 - '[[dualist-perception]]'
-- '[[consciousness-independent-baseline-cognition]]'
+- '[[baseline-cognition]]'
 - '[[consciousness-and-memory]]'
 - '[[psychedelics-and-the-filter-model]]'
 - '[[three-dimensional-world-representation-problem]]'
@@ -99,7 +99,7 @@ The filter model's explanation is structurally simpler. Waking imagination passe
 
 ### Phenomenal Completeness
 
-Dreams include integrated multisensory experience (vision, audition, touch, proprioception, emotion) without any corresponding sensory transduction. The rendering system produces the full qualitative spectrum autonomously. [Blindsight](/concepts/blindsight/) demonstrates that the brain can process visual information without phenomenal experience; dreams demonstrate the converse — phenomenal experience without visual input. This double dissociation supports the view that phenomenal rendering is a distinct capability, not an automatic consequence of information processing.
+Dreams include integrated multisensory experience (vision, audition, touch, proprioception, emotion) without any corresponding sensory transduction. The rendering system produces the full qualitative spectrum autonomously. [blindsight](/concepts/blindsight/) demonstrates that the brain can process visual information without phenomenal experience; dreams demonstrate the converse — phenomenal experience without visual input. This double dissociation supports the view that phenomenal rendering is a distinct capability, not an automatic consequence of information processing.
 
 The vision evidence sharpens this point. In waking vision, consciousness enters at [perceptual organisation](/concepts/capability-division-in-vision/#where-consciousness-enters) — the binding of features into coherent objects, the segregation of figure from ground. These operations correlate with phenomenal awareness and fail in blindsight. In dreams, the same perceptual organisation occurs without any feature extraction from external stimuli. The dreamer perceives unified objects in coherent spatial arrangements — exactly the operations that waking vision research identifies as consciousness-dependent — generated entirely from mind-side resources.
 
@@ -117,7 +117,7 @@ The filter model has a cleaner account. During waking, consciousness accesses se
 
 ## The Epiphenomenalist Difficulty
 
-[Epiphenomenalism](/concepts/epiphenomenalism/) — the view that consciousness accompanies brain activity without causally contributing — faces specific difficulties with lucid dreaming evidence.
+[epiphenomenalism](/concepts/epiphenomenalism/) — the view that consciousness accompanies brain activity without causally contributing — faces specific difficulties with lucid dreaming evidence.
 
 If consciousness is causally inert, the lucid dreamer's experience of controlling the dream is entirely illusory. The neural processes generating dream content and the neural processes underlying the feeling of control run in parallel with no causal connection. But the two-way communication studies complicate this: Konkoly et al. (2021) demonstrated that lucid dreamers can receive novel questions during verified REM sleep, process them, and respond using pre-arranged eye signals. The dreamer integrates new external information with ongoing dream content — a function that empirical evidence associates specifically with conscious access rather than unconscious processing.
 

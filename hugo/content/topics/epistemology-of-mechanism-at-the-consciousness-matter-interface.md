@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-02-22 05:31:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -10,7 +10,6 @@ concepts:
 - '[[psychophysical-laws]]'
 - '[[causal-closure]]'
 - '[[attention-as-interface]]'
-- '[[selection-laws]]'
 created: 2026-02-21
 date: &id001 2026-02-21
 description: What kind of knowledge is possible about how consciousness interacts
@@ -42,7 +41,7 @@ Mechanistic explanation in science works by decomposing a phenomenon into compon
 
 At the consciousness-matter interface, this strategy faces a categorical challenge. The "components" on one side are physical—neurons, ion channels, quantum states. The "components" on the other side are phenomenal—experiences, intentions, felt qualities. A mechanistic account of their interaction would need to specify operations that span two ontologically distinct domains. But operations, in the mechanistic framework, are defined by their physical implementation. An operation that begins in the phenomenal and terminates in the physical is not an operation in any standard scientific sense—it is precisely the thing that needs explaining.
 
-This does not show that mechanistic explanation is impossible here. It shows that applying it requires extending the concept of mechanism beyond its established scientific use—a challenge that [extends to other explanatory frameworks](/topics/consciousness-and-the-limits-of-explanation/) as well. The Map's proposed [selection-laws](/concepts/psychophysical-laws/)—laws governing how phenomenal states determine quantum outcomes—represent exactly such an extension. They preserve the structure of mechanistic explanation (specifiable inputs, lawful transformations, determinate outputs) while acknowledging that the inputs are phenomenal rather than physical. Whether this extension is legitimate or a category error is itself an epistemological question that cannot be settled in advance.
+This does not show that mechanistic explanation is impossible here. It shows that applying it requires extending the concept of mechanism beyond its established scientific use—a challenge that [extends to other explanatory frameworks](/topics/consciousness-and-the-limits-of-explanation/) as well. The Map's proposed [psychophysical-laws](/concepts/psychophysical-laws/)—laws governing how phenomenal states determine quantum outcomes—represent exactly such an extension. They preserve the structure of mechanistic explanation (specifiable inputs, lawful transformations, determinate outputs) while acknowledging that the inputs are phenomenal rather than physical. Whether this extension is legitimate or a category error is itself an epistemological question that cannot be settled in advance.
 
 One further caveat: this entire framework assumes quantum mechanics involves genuine outcome selection—that is, wavefunction collapse. Under the [Many-Worlds Interpretation](/concepts/many-worlds/), all quantum outcomes occur in different branches and there are no outcomes to "select." The Map's [rejection of Many-Worlds](/tenets/#no-many-worlds) is therefore not peripheral to the epistemology—it is a precondition for the problem as formulated here.
 
@@ -134,7 +133,7 @@ The Map's honest assessment: the epistemology of mechanism at the interface is c
 
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/) — What a complete specification of the interface must contain
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — How psychophysical laws bridge mind and matter
-- [selection-laws](/concepts/psychophysical-laws/) — What selection laws must specify and candidate formulations
+- [psychophysical-laws](/concepts/psychophysical-laws/) — What selection laws must specify and candidate formulations
 - [mental-causation](/concepts/mental-causation/) — The broader case for consciousness causing physical effects
 - [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/) — From Descartes to contemporary quantum approaches
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — When and how convergence carries evidential weight

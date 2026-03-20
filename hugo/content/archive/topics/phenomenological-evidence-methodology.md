@@ -144,7 +144,7 @@ The methodology demonstrates that phenomenological evidence, properly gathered, 
 ## Further Reading
 
 - [neurophenomenology](/concepts/neurophenomenology/) — Varela's framework for integrating first-person and third-person methods
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — The broader methodological divide in consciousness science
+- [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) — The broader methodological divide in consciousness science
 - [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — Empirical research validating trained introspection
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — How meditation findings bear on consciousness debates
 - [intersubjectivity](/concepts/intersubjectivity/) — The shared space grounding phenomenological validation

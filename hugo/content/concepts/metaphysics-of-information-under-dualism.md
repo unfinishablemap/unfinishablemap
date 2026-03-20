@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-01 19:52:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,7 @@ related_articles:
 - '[[tenets]]'
 - '[[consciousness-and-causal-powers]]'
 - '[[the-interface-specification-problem]]'
-- '[[selection-laws]]'
+- '[[psychophysical-laws]]'
 title: The Metaphysics of Information Under Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -131,7 +131,6 @@ The metaphysics of information connects to each of the Map's tenets.
 - [russellian-monism](/concepts/russellian-monism/) — The view that physics captures only structure while quiddities ground consciousness
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal experience
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/) — The challenge of specifying how consciousness interfaces with physics
-- [selection-laws](/concepts/psychophysical-laws/) — How conscious states select physical outcomes
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The causal efficacy of consciousness
 - [decoherence](/concepts/decoherence/) — The quantum process that challenges and constrains neural-scale interaction models
 - [attention-as-causal-bridge](/apex/attention-as-causal-bridge/) — How attention serves as the mechanism through which semantic information reaches physical processes

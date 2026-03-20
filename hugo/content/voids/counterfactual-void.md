@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-03-11 18:46:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ related_articles:
 - '[[embodiment-cognitive-limits]]'
 - '[[consciousness-only-territories]]'
 - '[[other-minds-void]]'
-- '[[past-self-void]]'
+- '[[inaccessible-past]]'
 - '[[framework-void]]'
 - '[[evolved-cognitive-limits]]'
 - '[[epistemological-limits-occams-razor]]'
@@ -104,7 +104,7 @@ The counterfactual void connects to The Unfinishable Map's [tenets](/tenets/) at
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) — How bodily architecture constrains cognition
 - [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Whether all minds converge on the same boundaries
 - [other-minds-void](/voids/other-minds-void/) — The inaccessibility of alien phenomenology
-- [past-self-void](/voids/inaccessible-past/) — The inaccessibility of our own former experience
+- [inaccessible-past](/voids/inaccessible-past/) — The inaccessibility of our own former experience
 - [framework-void](/voids/framework-void/) — The inability to think outside our conceptual framework
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Experiential terrain that resists third-person description
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Where simplicity-seeking cognition misleads

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-02-25 15:22:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,10 +22,9 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[the-unobservable-self]]'
+- '[[self-reference-paradox]]'
 - '[[introspective-opacity]]'
 - '[[other-minds-void]]'
-- '[[self-reference-paradox]]'
 - '[[transparency-void]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[consciousness-and-the-ownership-problem]]'
@@ -105,11 +104,10 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies. Predictive
 ## Further Reading
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
-- [the-unobservable-self](/voids/self-reference-paradox/) — The observer that cannot observe itself observing
+- [self-reference-paradox](/voids/self-reference-paradox/) — The observer that cannot observe itself observing
 - [introspective-opacity](/voids/introspective-opacity/) — Why cognitive processes hide from introspection
 - [transparency-void](/voids/transparency-void/) — When cognitive mechanisms become invisible through transparency
 - [other-minds-void](/voids/other-minds-void/) — The impossibility of accessing another subject's ownership
-- [self-reference-paradox](/voids/self-reference-paradox/) — Formal limitations on self-understanding
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
 - [self-and-consciousness](/concepts/self-and-consciousness/) — Minimal self and pre-reflective awareness
 - [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — Why experience belongs to anyone, and what happens when it stops

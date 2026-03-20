@@ -264,7 +264,6 @@ This methodological constraint cuts both ways. GWT proponents can claim any appa
 - [dream-consciousness](/topics/dream-consciousness/) — Dreaming without full workspace engagement
 - [metacognition](/concepts/metacognition/) — Self-reflective processes and workspace engagement
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — The amplification hypothesis connecting workspace access to cognitive enhancement
-- [metarepresentation](/concepts/metacognition/) — How workspace broadcast may enable representing representations as representations
 - [global-workspace-theory-2026-01-14](/research/global-workspace-theory-2026-01-14/) — Detailed research notes
 
 ## References

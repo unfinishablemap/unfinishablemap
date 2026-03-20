@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-18 07:24:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -35,9 +35,9 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[absorption-void]]'
-- '[[memory-void]]'
+- '[[inaccessible-past]]'
 - '[[death-void]]'
-- '[[the-unobservable-self]]'
+- '[[self-reference-paradox]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[scale-void]]'
 - '[[continuity-void]]'
@@ -155,7 +155,7 @@ The temporal void engages the Map's [tenets](/tenets/) at several points.
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [absorption-void](/voids/absorption-void/) — Peak engagement dissolves temporal awareness and self-monitoring together
-- [memory-void](/voids/inaccessible-past/) — Whether past qualia can be recovered
+- [inaccessible-past](/voids/inaccessible-past/) — Whether past qualia can be recovered
 - [death-void](/voids/death-void/) — Consciousness cannot represent its own absence
 - [continuity-void](/voids/continuity-void/) — Whether consciousness has gaps
 - [resolution-void](/voids/resolution-void/) — The temporal resolution limit of conscious access

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-17 01:32:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -109,7 +109,7 @@ The Map's tenets illuminate the consciousness-induction relationship in several 
 
 - [argument-from-reason](/topics/argument-from-reason/)
 - [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/)
-- [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/)
+- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/)
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/)
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/)

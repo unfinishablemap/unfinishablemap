@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-19 03:19:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -49,7 +49,7 @@ Varela (1946-2001) proposed neurophenomenology as "a methodological remedy for t
 2. **Neural measurement**: Brain activity recorded during specific experiential states
 3. **Mutual constraint**: First-person reports and neural data inform each other; neither reduces to the other
 
-[Contemplative-neuroscience](/concepts/contemplative-neuroscience/) has empirically validated this framework. The Shamatha Project demonstrated that phenomenological training produces measurable improvements in attention and discrimination. Crucially, phenomenological reports predict neural signatures, while neural findings validate phenomenological categories—top-down causation that challenges [epiphenomenalism](/concepts/epiphenomenalism/).
+[contemplative-neuroscience](/concepts/contemplative-neuroscience/) has empirically validated this framework. The Shamatha Project demonstrated that phenomenological training produces measurable improvements in attention and discrimination. Crucially, phenomenological reports predict neural signatures, while neural findings validate phenomenological categories—top-down causation that challenges [epiphenomenalism](/concepts/epiphenomenalism/).
 
 ## Contemplative Science
 
@@ -139,7 +139,7 @@ None demonstrated. Fox et al. shows robust training effects; cross-traditional s
 
 **[Occam's Razor Has Limits](/tenets/#occam)**: Dismissing two millennia of systematic first-person research as "merely subjective" isn't parsimony—it's methodological blindness. Meditation reveals phenomenal complexity invisible to third-person science.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Meditation demonstrates consciousness's active capacity. [Contemplative-neuroscience](/concepts/contemplative-neuroscience/) distinguishes willed attention (distinct frontal theta), instructed attention, and exogenous attention. The *content* of conscious intention matters causally: cultivating compassion produces different neural changes than sustaining breath attention.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Meditation demonstrates consciousness's active capacity. [contemplative-neuroscience](/concepts/contemplative-neuroscience/) distinguishes willed attention (distinct frontal theta), instructed attention, and exogenous attention. The *content* of conscious intention matters causally: cultivating compassion produces different neural changes than sustaining breath attention.
 
 Meditation exhibits the structure of [self-forming actions](/topics/free-will/): the meditator sustains attention against competing impulses, and through effort, neural infrastructure reorganizes. The [two modes](/concepts/meditation-and-consciousness-modes/)—willed attention (effortful selection) versus witnessing awareness (effortless reception)—reveal different forms of causal efficacy.
 

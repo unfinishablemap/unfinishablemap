@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-19 17:42:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -34,7 +34,7 @@ related_articles:
 - '[[cross-cultural-phenomenology-of-agency]]'
 - '[[evolved-cognitive-limits]]'
 - '[[cross-cultural-convergence-on-mental-causation]]'
-- '[[first-person-third-person-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 title: The Epistemology of Convergence Arguments
 topics:
 - '[[the-convergence-argument-for-dualism]]'
@@ -131,7 +131,7 @@ The empirical evidence complicates this story. Barrett et al.'s (2021) cross-cul
 
 ### Cognitive Closure
 
-[Mysterianism](/concepts/mysterianism/) — the view associated with Colin McGinn that humans may be cognitively closed to the consciousness-brain relationship — offers a subtler anti-realist account. Perhaps traditions converge on irreducibility not because consciousness *is* irreducible but because human minds cannot grasp the reductive explanation. The convergence tracks a shared limitation, not a shared truth.
+[mysterianism](/concepts/mysterianism/) — the view associated with Colin McGinn that humans may be cognitively closed to the consciousness-brain relationship — offers a subtler anti-realist account. Perhaps traditions converge on irreducibility not because consciousness *is* irreducible but because human minds cannot grasp the reductive explanation. The convergence tracks a shared limitation, not a shared truth.
 
 Two observations limit this objection. First, cognitive closure does not favour physicalism — if the solution is beyond us, we cannot know whether it is reductive or non-reductive. Mysterianism entails agnosticism, not materialism. Second, a generic cognitive limitation would be expected to produce *variable* philosophical errors, not convergence on a structurally precise diagnosis. The fact that traditions independently identify the same *kind* of gap — between structural description and qualitative character — is more naturally explained by a real feature of consciousness than by a shared blind spot.
 
@@ -179,7 +179,7 @@ The Map treats convergence as genuine evidence while acknowledging its limits. C
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Convergence across contemplative traditions
 - [dualism](/concepts/dualism/) — The individual arguments catalogued
 - [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/) — Convergence on mental causation across traditions
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — Why methodological diversity strengthens convergence
+- [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — Why methodological diversity strengthens convergence
 - [methodological-pluralism](/concepts/methodological-pluralism/) — Multiple methods as a philosophical approach
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-16 03:48:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,7 @@ related_articles:
 - '[[consciousness-only-territories]]'
 - '[[pre-conceptual-knowing]]'
 - '[[intrinsic-nature-void]]'
-- '[[aesthetic-irreducibility-arguments]]'
+- '[[aesthetics-and-consciousness]]'
 - '[[epistemology-of-introspection]]'
 title: Acquaintance Knowledge
 topics:
@@ -111,7 +111,7 @@ Mary's gap is indexical as well as qualitative: she lacks not just knowledge of 
 - [qualia](/concepts/qualia/) — The phenomenal properties acquaintance reveals
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics describes structure but not qualitative character
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gap between physical and phenomenal
-- [aesthetic-irreducibility-arguments](/topics/aesthetics-and-consciousness/) — Why aesthetic knowledge requires acquaintance across diverse substrates
+- [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Why aesthetic knowledge requires acquaintance across diverse substrates
 - [epistemology-of-introspection](/topics/epistemology-of-introspection/) — How acquaintance functions within a sui generis model of introspective knowledge
 
 ## References

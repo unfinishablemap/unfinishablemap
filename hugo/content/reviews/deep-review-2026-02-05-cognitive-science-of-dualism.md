@@ -75,7 +75,7 @@ None. The article is factually accurate with correct citations and attributions.
 ### Cross-links Added
 
 - [consciousness](/concepts/consciousness/) (2 new inline links)
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) (1 new inline link)
+- [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) (1 new inline link)
 - [explanatory-gap](/concepts/explanatory-gap/) (2 new inline links)
 - [materialism](/concepts/materialism/) (1 new inline link)
 - [introspection](/concepts/introspection/) (1 new inline link)

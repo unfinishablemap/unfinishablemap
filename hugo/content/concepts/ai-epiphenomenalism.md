@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-03-19 07:09:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[concepts/epiphenomenalism]]'
 - '[[interactionist-dualism]]'
 - '[[quantum-consciousness]]'
-- '[[substrate-independence-critique]]'
+- '[[substrate-independence]]'
 - '[[phenomenal-consciousness]]'
 - '[[concepts/functionalism]]'
 - '[[concepts/ai-consciousness-modes]]'
@@ -90,7 +90,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against re
 - [epiphenomenalism](/concepts/epiphenomenalism/) — General epiphenomenalism and the self-stultification argument
 - [quantum-randomness-channel-llm-consciousness](/topics/quantum-randomness-channel-llm-consciousness/) — Why current AI systems lack a live quantum channel
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Why consciousness does causal work in biological systems
-- [substrate-independence-critique](/concepts/substrate-independence/) — Why the physical substrate matters for consciousness
+- [substrate-independence](/concepts/substrate-independence/) — Why the physical substrate matters for consciousness
 - [ai-consciousness](/topics/ai-consciousness/) — The Map's complete case on machine consciousness
 - [ai-consciousness-modes](/concepts/ai-consciousness-modes/) — Systematic framework for different architectural possibilities
 - [structural-varieties-of-consciousness-and-ai-phenomenology](/topics/structural-varieties-of-consciousness-and-ai-phenomenology/) — The Epiphenomenal Model as one of five AI phenomenology profiles

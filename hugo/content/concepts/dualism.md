@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-19 15:36:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -104,7 +104,7 @@ We can coherently conceive of [philosophical-zombies](/concepts/philosophical-zo
 
 ### The Intrinsic Character of Qualia
 
-[Qualia](/concepts/qualia/) have intrinsic character that physical descriptions cannot capture. Physics describes relations between quantities, but the redness of red is not a relation—it is an intrinsic quality present in experience. No amount of relational information yields intrinsic character.
+[qualia](/concepts/qualia/) have intrinsic character that physical descriptions cannot capture. Physics describes relations between quantities, but the redness of red is not a relation—it is an intrinsic quality present in experience. No amount of relational information yields intrinsic character.
 
 ### Modal Arguments
 
@@ -120,7 +120,7 @@ Conscious experience is unified: visual field, sounds, bodily sensations, and th
 
 ### Arguments from Intentionality
 
-[Intentionality](/concepts/intentionality/)—the "aboutness" of mental states—resists naturalization. When you think about Paris, your thought is *directed at* Paris. Physical states are not inherently about anything. Despite sustained efforts to naturalize intentionality through causal, informational, and teleological theories, no reductive account has achieved wide acceptance.
+[intentionality](/concepts/intentionality/)—the "aboutness" of mental states—resists naturalization. When you think about Paris, your thought is *directed at* Paris. Physical states are not inherently about anything. Despite sustained efforts to naturalize intentionality through causal, informational, and teleological theories, no reductive account has achieved wide acceptance.
 
 ### The Argument from Reason
 

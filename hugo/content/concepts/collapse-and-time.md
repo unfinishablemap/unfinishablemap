@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-17 17:30:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ related_articles:
 - '[[quantum-measurement-and-consciousness]]'
 - '[[consciousness-collapse-arrow-of-time-2026-01-14]]'
 - '[[atemporal-causation]]'
-- '[[temporal-phenomenology-quantum-selection]]'
+- '[[temporal-consciousness]]'
 title: Collapse and the Arrow of Time
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -143,7 +143,6 @@ The triad of consciousness, collapse, and time's arrow engages all five [tenets]
 
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Full synthesis of time, collapse, and conscious agency
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The phenomenology of temporal experience
-- [temporal-phenomenology-quantum-selection](/concepts/temporal-consciousness/) — Felt structure of time as experiential signature of quantum selection
 - [philosophy-of-time](/concepts/philosophy-of-time/) — McTaggart's A/B-series, presentism, eternalism, and growing block ontology
 - [atemporal-causation](/concepts/atemporal-causation/) — Causation outside temporal sequence
 - [retrocausality](/concepts/retrocausality/) — How time-symmetric physics grounds backward causation

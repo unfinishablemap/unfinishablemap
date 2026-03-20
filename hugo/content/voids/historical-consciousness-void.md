@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-01
-ai_modified: 2026-03-17 08:14:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,9 +22,9 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[past-self-void]]'
+- '[[inaccessible-past]]'
 - '[[other-minds-void]]'
-- '[[calibration-void]]'
+- '[[measurement-void]]'
 - '[[evolved-cognitive-limits]]'
 - '[[architecture-of-cognitive-closure]]'
 - '[[three-kinds-of-void]]'
@@ -109,9 +109,9 @@ The Map's own framework is itself historically situated. The Unfinishable Map's 
 ## Further Reading
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
-- [past-self-void](/voids/inaccessible-past/) — The parallel void within a single lifetime: your own past is inaccessible
+- [inaccessible-past](/voids/inaccessible-past/) — The parallel void within a single lifetime: your own past is inaccessible
 - [other-minds-void](/voids/other-minds-void/) — Access to consciousness beyond our own
-- [calibration-void](/voids/measurement-void/) — Why introspection cannot verify its own accuracy
+- [measurement-void](/voids/measurement-void/) — Why introspection cannot verify its own accuracy
 - [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for shared cognitive limits
 - [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/) — What concepts can minds form?
 - [cognitive-aversion](/voids/cognitive-aversion/) — Thoughts we systematically flee

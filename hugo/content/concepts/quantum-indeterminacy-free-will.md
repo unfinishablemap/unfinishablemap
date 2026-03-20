@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-10 13:23:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -197,7 +197,7 @@ For free will specifically: MWI means every choice *and* its alternatives are al
 
 ## The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is an illusion constructed by neural processes—offers a different interpretation of the phenomenology of effort. On this view, the feeling of choosing is constructed post-hoc; there is no genuine selection, only the appearance of it. Dennett argues we lack a Cartesian theatre where consciousness watches and selects; "consciousness" is just what the brain does.
+[illusionism](/concepts/illusionism/)—the view that phenomenal consciousness is an illusion constructed by neural processes—offers a different interpretation of the phenomenology of effort. On this view, the feeling of choosing is constructed post-hoc; there is no genuine selection, only the appearance of it. Dennett argues we lack a Cartesian theatre where consciousness watches and selects; "consciousness" is just what the brain does.
 
 The Map's response: illusionism is self-undermining. If the appearance of reasoning is wholly constructed by neural processes unconnected to any real reasoning, then the decision to adopt illusionism was itself constructed—not genuinely reasoned to. The illusionist cannot coherently claim to have *reasoned* to their position without presupposing the phenomenal engagement they deny.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-03-17 06:43:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,7 +17,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[introspection]]'
 - '[[buddhism-and-dualism]]'
-- '[[quantum-coherence-and-binding-evidence]]'
+- '[[quantum-neural-mechanisms-and-coherence]]'
 - '[[decoherence]]'
 - '[[qbism]]'
 - '[[quantum-probability-consciousness]]'
@@ -253,7 +253,7 @@ The choice of quantum interpretation bears directly on all five [tenets](/tenets
 ### Consciousness-Physics Interface
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — What selected quantum outcomes before conscious observers existed
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-physics interface
-- [quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/) — How quantum effects may survive in warm biology
+- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — How quantum effects may survive in warm biology
 - [retrocausality](/concepts/retrocausality/) — Time-symmetric causation and free will
 - [atemporal-causation](/concepts/atemporal-causation/) — Causation outside temporal sequence
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse relates to temporal experience

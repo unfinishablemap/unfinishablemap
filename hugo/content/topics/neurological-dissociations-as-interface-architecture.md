@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-03-10 22:23:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -61,7 +61,7 @@ Each row represents an empirically confirmed dissociation. The rest of this arti
 
 ### Perceptual Ascending — Blindsight
 
-[Blindsight](/concepts/blindsight/) patients with V1 damage discriminate visual stimuli they deny seeing. The visual information reaches motor and decision systems through subcortical pathways—the patient can point to the stimulus, identify its motion direction, even respond to emotional expressions—but none of this enters conscious awareness. Processing without phenomenal experience.
+[blindsight](/concepts/blindsight/) patients with V1 damage discriminate visual stimuli they deny seeing. The visual information reaches motor and decision systems through subcortical pathways—the patient can point to the stimulus, identify its motion direction, even respond to emotional expressions—but none of this enters conscious awareness. Processing without phenomenal experience.
 
 What this maps: a perceptual ascending channel that requires V1 and its cortical projections. Alternative pathways (retina → superior colliculus → extrastriate cortex) carry information that can guide action but cannot deliver [phenomenal content](/concepts/phenomenal-consciousness/) to the conscious subject. The interface has a specific architecture for rendering sensory data into experience, and that architecture can be severed while leaving the data itself intact.
 

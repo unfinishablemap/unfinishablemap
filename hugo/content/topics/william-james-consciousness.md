@@ -186,7 +186,6 @@ James's philosophy aligns with all five tenets, though the alignment varies in d
 - [introspection](/concepts/introspection/) — Limits James identified, confirmed by contemporary research
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the mechanism of mind-matter interaction
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Contemporary quantum approach to James's attention theory
-- [voluntary attention](/concepts/attention-as-interface/) — The phenomenology of effortful attention
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's development of Jamesian themes
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Why maintaining dualism as live option is epistemically responsible
 - [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/) — James's pragmatic opening developed into a full argument for dualism

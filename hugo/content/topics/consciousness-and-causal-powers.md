@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-03-18 19:57:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -10,7 +10,6 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[psychophysical-laws]]'
-- '[[selection-laws]]'
 - '[[agent-causation]]'
 - '[[phenomenal-consciousness]]'
 - '[[qualia]]'
@@ -112,7 +111,7 @@ The character of conscious experience—what it feels like—might itself contri
 
 Different phenomenal qualities produce different behavioural responses: sharp pain provokes withdrawal, burning pain motivates cooling, aching pain produces protective immobility. This quality-action mapping tracks phenomenal character more transparently than underlying neural patterns, suggesting the quale is part of the causal process itself. Pain anticipation extends this further—imagined future pain alters present behaviour through phenomenal content alone, with no current nociceptive input. See [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) for whether valence enters the selection mechanism.
 
-This requires [selection-laws](/concepts/psychophysical-laws/)—psychophysical laws specifying how phenomenal character maps to action tendencies. The Map speculates that such laws exist, linking the qualitative nature of [qualia](/concepts/qualia/) to their causal role. See [phenomenal-value-realism](/topics/phenomenal-value-realism/) for the ethical implications of treating phenomenal character as causally real.
+This requires [psychophysical-laws](/concepts/psychophysical-laws/)—psychophysical laws specifying how phenomenal character maps to action tendencies. The Map speculates that such laws exist, linking the qualitative nature of [qualia](/concepts/qualia/) to their causal role. See [phenomenal-value-realism](/topics/phenomenal-value-realism/) for the ethical implications of treating phenomenal character as causally real.
 
 ### Volitional Modulation
 
@@ -188,7 +187,7 @@ This framework has several virtues:
 
 **Ontological restraint**: It grants consciousness causal efficacy without multiplying unexplained powers. One mechanism (quantum selection) suffices for all forms of mental causation the Map requires.
 
-**Empirical compatibility**: The framework makes no predictions inconsistent with current physics or neuroscience. Quantum effects in neural microtubules are controversial (see [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/)), but the hypothesis is not empirically ruled out.
+**Empirical compatibility**: The framework makes no predictions inconsistent with current physics or neuroscience. Quantum effects in neural microtubules are controversial (see [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)), but the hypothesis is not empirically ruled out.
 
 **Explanatory power**: The framework explains the phenomenology of effort, the limits of voluntary control, the correlation between attention and neural persistence, and the evolutionary value of consciousness—all from a single causal mechanism.
 
@@ -203,7 +202,7 @@ The cost is commitment to quantum effects in the brain operating at timescales r
 - [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/) — Voluntary imagery as concrete evidence for consciousness's causal powers
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Evidence from natural selection for causal efficacy
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Formal frameworks for mind-matter interaction
-- [selection-laws](/concepts/psychophysical-laws/) — Laws specifying how mental states select physical outcomes
+- [psychophysical-laws](/concepts/psychophysical-laws/) — Laws specifying how mental states select physical outcomes
 - [agent-causation](/concepts/agent-causation/) — The person as ultimate cause of action
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain as the paradigm case for phenomenal biasing
 - [free-will](/topics/free-will/) — How causal powers relate to freedom and responsibility

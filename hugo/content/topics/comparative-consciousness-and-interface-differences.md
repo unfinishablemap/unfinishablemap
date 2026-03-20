@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-03-17 19:29:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,7 +12,7 @@ concepts:
 - '[[access-consciousness]]'
 - '[[types-of-consciousness]]'
 - '[[attention-as-interface]]'
-- '[[interface-locality]]'
+- '[[brain-interface-boundary]]'
 - '[[neural-correlates-of-consciousness]]'
 - '[[emotion-and-dualism]]'
 - '[[altered-states-of-consciousness]]'
@@ -88,7 +88,7 @@ Octopus consciousness presents a striking case for exploring the nature-vs-coupl
 
 The octopus nervous system distributes two-thirds of its neurons in the arms, which exhibit semi-autonomous behaviour. An octopus arm can solve simple problems even when severed. This is primarily a coupling question: could cephalopod consciousness couple through a distributed mechanism, with multiple localised coupling points rather than a single unified one? The nature of the conscious entity involved is a separate question—it might be the same type as vertebrate consciousness, coupled differently.
 
-For the Map, this connects to [interface-locality](/concepts/brain-interface-boundary/)—the question of why consciousness selects only within its own brain. If coupling is spatially local, cephalopod architecture might support multiple coupling points, each with partial phenomenal unity. Or the system might achieve centralised consciousness despite distributed processing, funnelling through a unified coupling point. Both options remain entirely speculative.
+For the Map, this connects to [brain-interface-boundary](/concepts/brain-interface-boundary/)—the question of why consciousness selects only within its own brain. If coupling is spatially local, cephalopod architecture might support multiple coupling points, each with partial phenomenal unity. Or the system might achieve centralised consciousness despite distributed processing, funnelling through a unified coupling point. Both options remain entirely speculative.
 
 ### Insect Consciousness: Minimal Coupling or Different Nature?
 
@@ -223,7 +223,7 @@ Several findings would constrain the nature-vs-coupling question:
 ### Interface Mechanisms
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Orch OR, Stapp's Zeno effect, Fisher's hypothesis
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates consciousness-matter coupling
-- [interface-locality](/concepts/brain-interface-boundary/) — Why consciousness selects only within its own brain
+- [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why consciousness selects only within its own brain
 
 ### Types of Consciousness
 - [types-of-consciousness](/concepts/types-of-consciousness/) — Structural taxonomy: phenomenal, access, monitoring, and dissociable features

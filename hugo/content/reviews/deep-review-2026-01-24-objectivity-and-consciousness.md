@@ -71,7 +71,7 @@ topics: []
 - [explanatory-gap](/concepts/explanatory-gap/)
 - [mysterianism](/concepts/mysterianism/)
 - [argument-from-reason](/topics/argument-from-reason/)
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/)
+- [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/)
 
 ## Remaining Items
 

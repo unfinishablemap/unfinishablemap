@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-19 10:12:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -13,7 +13,7 @@ concepts:
 - '[[mental-causation]]'
 - '[[mental-effort]]'
 - '[[multi-mind-collapse-problem]]'
-- '[[interface-locality]]'
+- '[[brain-interface-boundary]]'
 - '[[prebiotic-collapse]]'
 - '[[indexical-identity-quantum-measurement]]'
 - '[[quantum-probability-consciousness]]'
@@ -101,11 +101,11 @@ This reveals a gap across major interpretations:
 - **Relational QM** treats any physical system as "observer," leaving first-person perspective outside
 - **Many-Worlds** makes every outcome equally real yet requires explaining which branch "I" occupy
 
-[Haecceity](/concepts/haecceity/)—"thisness"—names what needs explaining. Two functionally identical minds would be numerically distinct; something makes one *mine*. Whether haecceity is primitive, derivative, or merely conventional (as Buddhist philosophy might argue) remains open. The Map takes no position on haecceity's ultimate nature—only that being *this* particular subject is what any complete account must address. If consciousness participates in collapse, it does so *as* the particularity of a subject—determining which outcome is actual *for this consciousness*.
+[haecceity](/concepts/haecceity/)—"thisness"—names what needs explaining. Two functionally identical minds would be numerically distinct; something makes one *mine*. Whether haecceity is primitive, derivative, or merely conventional (as Buddhist philosophy might argue) remains open. The Map takes no position on haecceity's ultimate nature—only that being *this* particular subject is what any complete account must address. If consciousness participates in collapse, it does so *as* the particularity of a subject—determining which outcome is actual *for this consciousness*.
 
 ## Why Decoherence Doesn't Solve It
 
-[Decoherence](/concepts/decoherence/) is sometimes claimed to solve the measurement problem. It doesn't—though it explains something substantial: why macroscopic superpositions vanish and which basis is selected. As Tomaz et al. note: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured" (2025). This clean partition—decoherence handles all structural work while leaving the actuality question untouched—supports the [disclosure reading](/concepts/physics-as-disclosure/): the measurement problem marks a boundary in reality, not a gap in theory.
+[decoherence](/concepts/decoherence/) is sometimes claimed to solve the measurement problem. It doesn't—though it explains something substantial: why macroscopic superpositions vanish and which basis is selected. As Tomaz et al. note: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured" (2025). This clean partition—decoherence handles all structural work while leaving the actuality question untouched—supports the [disclosure reading](/concepts/physics-as-disclosure/): the measurement problem marks a boundary in reality, not a gap in theory.
 
 ### A Gödelian Parallel: Systems That Cannot Describe Themselves
 
@@ -173,7 +173,7 @@ Consciousness-based interpretations face a further challenge: what happens when 
 
 This "[multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/)" generates uncomfortable options: (1) *first observer wins*—but relativity provides no absolute temporal ordering; (2) *consensus required*—demanding nonlocal coordination; (3) *dominant consciousness*—requiring an unmeasurable hierarchy of observer "strength."
 
-The Map's resolution combines [interface-locality](/concepts/brain-interface-boundary/) with [objective collapse](/concepts/prebiotic-collapse/). External reality is determined by physical objective reduction. Each consciousness *modulates* collapse only in its own brain's quantum events, not the external world directly. Alice's consciousness affects Alice's neural patterns; Bob's affects Bob's. Agreement reflects that external reality was determined by physics, not that consciousnesses coordinated.
+The Map's resolution combines [brain-interface-boundary](/concepts/brain-interface-boundary/) with [objective collapse](/concepts/prebiotic-collapse/). External reality is determined by physical objective reduction. Each consciousness *modulates* collapse only in its own brain's quantum events, not the external world directly. Alice's consciousness affects Alice's neural patterns; Bob's affects Bob's. Agreement reflects that external reality was determined by physics, not that consciousnesses coordinated.
 
 ## The Causal Closure Loophole
 
@@ -243,7 +243,7 @@ The measurement problem is central to the Map's framework. It provides the *perm
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — comparative assessment of interpretations' consciousness compatibility
 - [self-stultification](/concepts/self-stultification/) — Why epiphenomenalism undermines its own epistemic basis
 - [interactionist-dualism](/concepts/interactionist-dualism/), [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation/) — The broader framework
-- [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/), [interface-locality](/concepts/brain-interface-boundary/), [prebiotic-collapse](/concepts/prebiotic-collapse/) — How the Map resolves coordination puzzles
+- [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/), [brain-interface-boundary](/concepts/brain-interface-boundary/), [prebiotic-collapse](/concepts/prebiotic-collapse/) — How the Map resolves coordination puzzles
 - [free-will](/topics/free-will/) — How quantum indeterminacy enables libertarian free will
 - [haecceity](/concepts/haecceity/) — The "thisness" grounding indexical identity
 - [mysterianism](/concepts/mysterianism/) — Why some explanatory gaps may be unclosable

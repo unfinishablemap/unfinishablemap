@@ -11,7 +11,6 @@ concepts:
 - '[[emergence]]'
 - '[[working-memory]]'
 - '[[metacognition]]'
-- '[[metacognition]]'
 - '[[phenomenal-consciousness]]'
 - '[[animal-consciousness]]'
 created: 2026-02-23

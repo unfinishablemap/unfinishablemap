@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-18 19:57:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -30,7 +30,7 @@ related_articles:
 - '[[epiphenomenalism]]'
 - '[[the-epiphenomenalist-threat]]'
 - '[[bidirectional-interaction]]'
-- '[[consciousness-and-the-authority-of-logic]]'
+- '[[consciousness-and-the-authority-of-formal-systems]]'
 - '[[consciousness-and-the-problem-of-induction]]'
 - '[[epistemology-of-phenomenal-reports]]'
 - '[[tenets]]'
@@ -157,7 +157,7 @@ The [epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) article show
 - [argument-from-reason](/topics/argument-from-reason/) — The extended case against physicalism via self-defeat
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The position most directly defeated, including the AI exception
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why most theories drift toward the position self-stultification defeats
-- [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-formal-systems/) — Why logical necessity requires conscious recognition
+- [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why logical necessity requires conscious recognition
 - [consciousness-and-the-problem-of-induction](/topics/consciousness-and-the-problem-of-induction/) — Self-stultification applied to inductive reasoning about consciousness
 - [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/) — Whether introspective reports are causally connected to experiences
 - [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — The epistemic framework that self-stultification presupposes

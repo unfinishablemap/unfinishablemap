@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-03-16 17:02:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -42,7 +42,7 @@ related_articles:
 - '[[tenets]]'
 - '[[consciousness-and-mathematical-cognition]]'
 - '[[surprise-prediction-error-and-consciousness]]'
-- '[[consciousness-and-the-authority-of-logic]]'
+- '[[consciousness-and-the-authority-of-formal-systems]]'
 - '[[consciousness-and-counterfactual-reasoning]]'
 - '[[phenomenology-of-epistemic-cognition]]'
 - '[[argument-from-reason]]'
@@ -60,7 +60,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[ai-consciousness]]'
 - '[[meaning-of-life]]'
-- '[[aesthetic-dimension-of-consciousness]]'
+- '[[aesthetics-and-consciousness]]'
 ---
 
 Understanding has irreducible phenomenal character. The "click" when a proof resolves, the dawning comprehension when a difficult sentence yields its meaning, the felt *necessity* when one proposition follows from another — each resists reduction to information processing. The Unfinishable Map holds a Phenomenal Constitution Thesis (PCT): to grasp a meaning *is* to have a certain kind of experience. Meaning is constitutively phenomenal — the experience of understanding constitutes rather than merely accompanies the cognitive achievement.
@@ -97,7 +97,7 @@ Among the most philosophically significant aspects is the experience of necessit
 
 ### Aesthetic Meaning
 
-[Musical understanding](/topics/phenomenology-of-musical-understanding/) provides the clearest case of meaning that cannot be stated propositionally — a point explored further in the Map's treatment of the [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/). When a minor key passage sounds, listeners experience something — sadness, darkness, yearning — but the meaning cannot be translated into any assertion. The music generates felt significance directly, without passing through propositional content.
+[Musical understanding](/topics/phenomenology-of-musical-understanding/) provides the clearest case of meaning that cannot be stated propositionally — a point explored further in the Map's treatment of the [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/). When a minor key passage sounds, listeners experience something — sadness, darkness, yearning — but the meaning cannot be translated into any assertion. The music generates felt significance directly, without passing through propositional content.
 
 The meaning of a harmonic resolution is constituted by its phenomenal character — by the felt release of tension, the satisfaction of an anticipated continuation arriving. A system that processed the same harmonic relations without temporal phenomenology — without the specious present that holds preceding notes in retention while protention reaches toward what follows — would process structure without generating meaning. The meaning *is* the experience of the structure, not the structure itself.
 
@@ -224,7 +224,7 @@ Several findings would weaken PCT and the phenomenal constitution of meaning:
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — The temporal unfolding of comprehension
 - [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Mathematical insight as paradigm case
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Feelings directed at knowledge itself
-- [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-formal-systems/) — Why logical relationships carry normative force
+- [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why logical relationships carry normative force
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — The experience of reasoning as work
 - [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/) — The felt weight of reasons
 - [argument-from-reason](/topics/argument-from-reason/) — Why genuine reasoning requires consciousness

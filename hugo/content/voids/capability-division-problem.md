@@ -110,7 +110,6 @@ The Map speculates that the capability division may ultimately prove asymmetric:
 - [interactionist-dualism](/concepts/interactionist-dualism/)
 - [epiphenomenalism](/concepts/epiphenomenalism/)
 - [capability-division-in-vision](/concepts/capability-division-in-vision/) — The vision-specific case study applying this framework
-- [dualist-perception](/topics/dualist-perception/)
 - [binding-void](/voids/binding-void/) — The perceptual binding problem as a void
 - [causal-interface](/voids/causal-interface/) — The mind-brain interface itself
 - [interface-formalization-void](/voids/interface-formalization-void/) — Why formalising the interface may be impossible

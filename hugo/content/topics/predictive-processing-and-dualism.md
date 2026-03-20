@@ -1,11 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-19 13:17:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
-- /topics/predictive-processing-and-the-maps-framework/
+- /topics/predictive-processing-and-dualism/
 - /topics/predictive-processing-and-active-inference-under-dualism/
 concepts:
 - '[[predictive-processing]]'

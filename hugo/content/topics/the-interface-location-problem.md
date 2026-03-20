@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-18 04:44:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -14,9 +14,9 @@ concepts:
 - '[[brain-interface-boundary]]'
 - '[[decoherence]]'
 - '[[coupling-modes]]'
-- '[[quantum-coherence-and-binding-evidence]]'
+- '[[quantum-neural-mechanisms-and-coherence]]'
 - '[[measurement-problem]]'
-- '[[psychophysical-coupling]]'
+- '[[psychophysical-laws]]'
 - '[[motor-selection]]'
 - '[[mental-effort]]'
 created: 2026-02-09
@@ -205,7 +205,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies to the hier
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The proposed selection mechanism in detail
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum selection mechanisms (Stapp, Orch OR)
 - [decoherence](/concepts/decoherence/) — The quantum coherence challenge in biological systems
-- [psychophysical-coupling](/concepts/psychophysical-laws/) — Bandwidth constraints on the mind-brain connection
+- [psychophysical-laws](/concepts/psychophysical-laws/) — Bandwidth constraints on the mind-brain connection
 
 ## References
 

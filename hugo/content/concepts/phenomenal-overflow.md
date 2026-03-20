@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-03-02 08:06:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -126,7 +126,7 @@ The overflow argument strengthens anti-functionalist arguments like [inverted qu
 
 ### For Illusionism
 
-[Illusionism](/concepts/illusionism/) holds that phenomenal consciousness is an illusion—we represent ourselves as having irreducible experiential qualities when we don't. Illusionism aligns with deflationary readings of overflow: the *sense* of rich phenomenology is just another functional state, not evidence of genuine phenomenology beyond function.
+[illusionism](/concepts/illusionism/) holds that phenomenal consciousness is an illusion—we represent ourselves as having irreducible experiential qualities when we don't. Illusionism aligns with deflationary readings of overflow: the *sense* of rich phenomenology is just another functional state, not evidence of genuine phenomenology beyond function.
 
 If overflow is real, illusionism must explain why we would systematically represent ourselves as having richer experience than we do. The illusion would need to be not merely about *having* phenomenology but about phenomenology *exceeding* access—a more elaborate error.
 

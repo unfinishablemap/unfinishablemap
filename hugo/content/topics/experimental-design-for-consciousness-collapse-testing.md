@@ -28,7 +28,7 @@ related_articles:
 - '[[quantum-measurement-and-consciousness]]'
 - '[[consciousness-in-smeared-quantum-states]]'
 - '[[comparing-quantum-consciousness-mechanisms]]'
-- '[[consciousness-and-scientific-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 - '[[time-collapse-and-agency]]'
 - '[[qm-interpretations-beyond-many-worlds]]'
 title: Experimental Design for Consciousness-Collapse Testing
@@ -144,7 +144,7 @@ The Map's [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is directly r
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
 - [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/)
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
-- [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/)
+- [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/)
 - [testability-ledger](/project/testability-ledger/) — Systematic catalogue of what would disconfirm the Map's framework
 

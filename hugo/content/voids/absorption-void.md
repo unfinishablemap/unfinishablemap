@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-03-11 19:33:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[three-kinds-of-void]]'
-- '[[the-unobservable-self]]'
+- '[[self-reference-paradox]]'
 - '[[attention-created-voids]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[altered-states-as-void-probes]]'
@@ -93,7 +93,7 @@ The Map speculates that the absorption void may be partly occluded rather than m
 
 - [voids](/voids/) — The voids framework: unexplored, unexplorable, occluded
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The core taxonomy of cognitive limits
-- [the-unobservable-self](/voids/self-reference-paradox/) — The subject that cannot be its own object
+- [self-reference-paradox](/voids/self-reference-paradox/) — The subject that cannot be its own object
 - [attention-created-voids](/voids/attention-created-voids/) — What attention excludes by selecting
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) — Whether altered states reveal or simulate transcendence

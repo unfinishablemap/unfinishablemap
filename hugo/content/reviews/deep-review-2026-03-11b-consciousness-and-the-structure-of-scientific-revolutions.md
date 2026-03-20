@@ -47,7 +47,7 @@ topics: []
 ### Cross-links Added (FROM other articles TO this one)
 
 1. [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/) — In theory choice section (Kuhn's insight) and Lakatos assessment section
-2. [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/) — In "The Deeper Implication" section
+2. [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/) — In "The Deeper Implication" section
 3. [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-methodological-failure/) — In standard account section (Kuhn reference)
 4. [arguments-against-materialism](/topics/arguments-against-materialism/) — In "Misplaced Confidence in Future Science" section
 5. [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) — In "Why the Asymmetry Matters" section

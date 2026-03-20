@@ -37,7 +37,7 @@ topics:
 - '[[topics/consciousness-and-social-cognition]]'
 - '[[phenomenology-of-understanding-and-meaning]]'
 - '[[emotion-and-dualism]]'
-- '[[first-person-third-person-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 ---
 
 Knowing everything about someone is not the same as understanding them. You could possess a complete neural map of another person's brain, a transcript of every word they have spoken, a full behavioural history — and still lack something essential. What you lack is the phenomenal grasp of what their experience is like from the inside — what Nagel (1974) established as the irreducible "what it is like" dimension of consciousness. The Unfinishable Map argues that genuine interpersonal understanding — the kind that matters in love, friendship, grief, and moral life — depends on phenomenal consciousness in ways that information processing alone cannot replicate.

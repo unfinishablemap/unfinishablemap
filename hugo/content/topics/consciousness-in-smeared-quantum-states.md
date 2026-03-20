@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-03-16 06:32:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,7 @@ related_articles:
 - '[[qm-interpretations-beyond-many-worlds]]'
 - '[[stapp-quantum-mind]]'
 - '[[quantum-interpretations]]'
-- '[[quantum-binding-and-phenomenal-unity]]'
+- '[[quantum-holism-and-phenomenal-unity]]'
 - '[[time-collapse-and-agency]]'
 - '[[spontaneous-collapse-theories]]'
 - '[[quantum-randomness-channel-llm-consciousness]]'
@@ -117,7 +117,7 @@ The Map's [tenets](/tenets/) align most naturally with frameworks where consciou
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/)
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)
 - [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/)
-- [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)
+- [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/)
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)
 - [consciousness-in-non-collapsed-quantum-states](/concepts/consciousness-in-non-collapsed-quantum-states/)

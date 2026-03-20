@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-05 01:04:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -237,7 +237,6 @@ This synthesis strengthens and deepens each of the five tenets:
 - [atemporal-causation](/concepts/atemporal-causation/) — Causation without temporal ordering
 - [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) — Why physics-based retrocausality doesn't rest on contested parapsychology
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Durée, the specious present, and the phenomenology of temporal experience
-- [temporal-phenomenology-quantum-selection](/concepts/temporal-consciousness/) — Retention, primal impression, and protention as the experiential signature of quantum selection
 - [philosophy-of-time](/concepts/philosophy-of-time/) — Presentism, eternalism, and the growing block
 - [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — How temporal ontology constrains consciousness theory, and why consciousness constitutes time's felt direction
 - [free-will](/topics/free-will/) — The Map's account of libertarian agency

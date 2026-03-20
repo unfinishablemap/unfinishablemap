@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-03-19 17:33:00+00:00
+ai_modified: 2026-03-20 07:37:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Voluntary mental imagery provides a distinctive test case for consc
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-22 11:03:00+00:00
+last_deep_review: 2026-03-20 07:37:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -138,7 +138,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly to
 
 [^motor]: Di Rienzo, F. et al. (2016). Online and offline performance gains following motor imagery practice. *Frontiers in Human Neuroscience*, 10, 315.
 
-[^vyshedskiy]: Vyshedskiy, A. (2019). Voluntary and Involuntary Imagination: Neurological Mechanisms, Developmental Path, Clinical Implications, and Evolutionary Trajectory.
+[^vyshedskiy]: Vyshedskiy, A. (2019). Voluntary and Involuntary Imagination: Neurological Mechanisms, Developmental Path, Clinical Implications, and Evolutionary Trajectory. *Research Ideas and Outcomes*, 5, e38775.
 
 [^zeman]: Zeman, A. et al. (2024). Aphantasia and hyperphantasia: exploring imagery vividness extremes. *Trends in Cognitive Sciences*.
 

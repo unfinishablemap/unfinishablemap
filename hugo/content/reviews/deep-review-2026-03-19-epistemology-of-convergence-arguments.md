@@ -29,7 +29,7 @@ None. The article remains well-constructed with no factual errors, attribution p
 - **Sāṃkhya characterization imprecise**: Line 49 said consciousness is "irreducible to physical processes" but Sāṃkhya's Prakṛti includes mental processes (correctly noted later at line 87). Fixed: changed to "irreducible to the processes constituting the rest of reality" which is accurate for both Sāṃkhya and Descartes.
 - **Bootstrapping sentence overly dense**: The cross-link insertion from a previous coalesce made the sentence unwieldy. Fixed: restructured into three sentences while preserving the cross-link and all content.
 - **O'Brien-Kop (2023) uncited**: Reference appeared in the References section but was never cited in text. Fixed: added inline citation to the Sāṃkhya discussion.
-- **Missing cross-links**: Added links to [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/) and [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) which are directly relevant.
+- **Missing cross-links**: Added links to [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/) and [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) which are directly relevant.
 - **Minor prose tightening**: Geocentrism paragraph, meditative traditions sentence, and opening methodology paragraph tightened for concision.
 
 ### Counterarguments Considered
@@ -60,7 +60,7 @@ All counterarguments from the previous review remain adequately addressed. No ne
 
 ### Cross-links Added
 - [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/)
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/)
+- [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/)
 
 ## Remaining Items
 

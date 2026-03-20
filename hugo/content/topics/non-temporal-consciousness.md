@@ -9,8 +9,6 @@ concepts:
 - '[[phenomenology]]'
 - '[[qualia]]'
 - '[[temporal-consciousness]]'
-- '[[temporal-consciousness]]'
-- '[[temporal-consciousness]]'
 - '[[unity-of-consciousness]]'
 - '[[collapse-and-time]]'
 - '[[witness-consciousness]]'

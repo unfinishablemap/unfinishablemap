@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-18 19:05:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,7 +19,7 @@ concepts:
 - '[[loss-of-consciousness]]'
 - '[[near-death-experiences]]'
 - '[[dream-consciousness]]'
-- '[[brain-specialness]]'
+- '[[brain-interface-boundary]]'
 - '[[measurement-problem]]'
 created: 2026-01-15
 date: &id001 2026-01-15
@@ -126,7 +126,7 @@ Patients with an entire hemisphere surgically removed retain substantially norma
 
 The [minimal-consciousness](/concepts/minimal-consciousness/) literature raises a sharp question: where does the filter begin? *C. elegans* (302 neurons) displays learning behaviors yet may lack the structural complexity for consciousness to interface effectively. The slime mold *Physarum polycephalum* solves mazes without any neurons, suggesting cognition and consciousness may fully dissociate—information processing without phenomenal experience.
 
-This connects to [brain-specialness](/concepts/brain-interface-boundary/): not just *any* complex system serves as a consciousness interface. The brain's specific properties (quantum sensitivity, representational structure, attention mechanisms) make it suitable. Slime molds, despite sophisticated computation, may lack whatever property makes the interface work.
+This connects to [brain-interface-boundary](/concepts/brain-interface-boundary/): not just *any* complex system serves as a consciousness interface. The brain's specific properties (quantum sensitivity, representational structure, attention mechanisms) make it suitable. Slime molds, despite sophisticated computation, may lack whatever property makes the interface work.
 
 ## The Rendering Engine Analogy
 
@@ -152,7 +152,7 @@ The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) te
 
 ### "Why brains specifically?"
 
-The [brain-specialness](/concepts/brain-interface-boundary/) article identifies five criteria an interface requires: quantum sensitivity, representational structure, attention mechanisms, feedback integration, and developmental history. Brains evolved under selection pressure to meet all five; most physical systems meet none.
+The [brain-interface-boundary](/concepts/brain-interface-boundary/) article identifies five criteria an interface requires: quantum sensitivity, representational structure, attention mechanisms, feedback integration, and developmental history. Brains evolved under selection pressure to meet all five; most physical systems meet none.
 
 ### "Isn't 'filtering' just a metaphor?"
 
@@ -212,7 +212,7 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Psychedelics, flow, and interface configurations
 - [asymmetric-bandwidth-consciousness](/concepts/asymmetric-bandwidth-consciousness/) — Why the 100-million-fold bandwidth gap fits filter theory naturally
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the specific mechanism of filtering
-- [brain-specialness](/concepts/brain-interface-boundary/) — Why brains specifically serve as interfaces
+- [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why brains specifically serve as interfaces
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/) — How conscious states map to physical selections
 - [the-interface-location-problem](/topics/the-interface-location-problem/) — Where consciousness meets the brain
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy
@@ -226,7 +226,7 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The proposed mechanism for mind-brain interface
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) — Sleep-onset phenomenology as real-time filter loosening
 - [habituation-void](/voids/habituation-void/) — Habituation as a filtering mechanism that screens out the familiar
-- [death-phenomenology-beyond-ndes](/topics/death-and-consciousness/) — Broader dying phenomenology as evidence for filter loosening near death
+- [death-and-consciousness](/topics/death-and-consciousness/) — Broader dying phenomenology as evidence for filter loosening near death
 - [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis: how five altered states converge on the same multi-channel filter architecture
 
 ## References

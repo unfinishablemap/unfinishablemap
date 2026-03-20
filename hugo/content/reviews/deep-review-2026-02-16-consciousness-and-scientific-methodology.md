@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-16
-**Article**: [Consciousness and Scientific Methodology](/topics/consciousness-and-scientific-methodology/)
+**Article**: [Consciousness and Scientific Methodology](/topics/methodology-of-consciousness-research/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

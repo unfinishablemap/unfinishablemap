@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-18 18:25:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -39,7 +39,7 @@ related_articles:
 - '[[qm-interpretations-beyond-many-worlds]]'
 - '[[consciousness-measurement-problem-2026-01-16]]'
 - '[[measurement-problem-quantum-mechanics-2026-01-14]]'
-- '[[first-person-third-person-methodology]]'
+- '[[methodology-of-consciousness-research]]'
 - '[[consciousness-in-smeared-quantum-states]]'
 - '[[the-convergence-argument-for-dualism]]'
 - '[[the-participatory-universe]]'
@@ -80,7 +80,7 @@ If the hard problem reveals something fundamental about the mind-body relation, 
 
 ## The Gap Decoherence Cannot Close
 
-[Decoherence](/concepts/decoherence/) is often claimed to solve the measurement problem. It explains **basis selection**: why measurements yield position eigenstates rather than momentum eigenstates, and why we see "alive" or "dead" rather than exotic superpositions. But decoherence does not explain **outcome selection**: why *this particular* result occurs. After decoherence, the density matrix is diagonal—a classical mixture of possible outcomes, not a definite result. Something must still select one alternative as actual.
+[decoherence](/concepts/decoherence/) is often claimed to solve the measurement problem. It explains **basis selection**: why measurements yield position eigenstates rather than momentum eigenstates, and why we see "alive" or "dead" rather than exotic superpositions. But decoherence does not explain **outcome selection**: why *this particular* result occurs. After decoherence, the density matrix is diagonal—a classical mixture of possible outcomes, not a definite result. Something must still select one alternative as actual.
 
 The parallel with philosophy of mind is precise. Functionalism accounts for the structure of mental states but leaves the [explanatory-gap](/concepts/explanatory-gap/) intact—it explains functional organisation without explaining why that organisation is accompanied by experience. Decoherence accounts for the structure of measurement outcomes but leaves the selection gap intact. Both solve the easy problems while leaving the hard problem untouched.
 

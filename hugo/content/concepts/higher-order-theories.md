@@ -218,7 +218,6 @@ The hard problem remains hard.
 - [metacognition](/concepts/metacognition/) — The metarepresentational distinction HOT may conflate
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The puzzle HOT doesn't solve
 - [global-workspace-theory](/concepts/global-workspace-theory/) — A complementary functionalist theory
-- [metacognition](/concepts/metacognition/) — The cognitive capacity HOT conflates with consciousness
 - [self-reference-paradox](/voids/self-reference-paradox/) — The recursive structure HOT requires
 - [functionalism](/concepts/functionalism/) — The philosophical framework underlying HOT
 - [illusionism](/concepts/illusionism/) — HOT's logical extreme: phenomenal consciousness as illusion

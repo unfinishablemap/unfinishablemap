@@ -1877,7 +1877,7 @@ Comprehensive review applying pessimistic (6 personas) and optimistic (6 persona
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
 - [voluntary-attention](/concepts/attention-as-interface/)
-- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/)
+- [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/)
 - [mysterianism-cognitive-closure](/concepts/mysterianism/)
 
 ### Output

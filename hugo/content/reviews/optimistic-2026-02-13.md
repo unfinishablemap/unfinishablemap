@@ -44,7 +44,7 @@ The [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-t
 
 The [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) article addresses a challenge Nagel takes seriously: embodied cognition seems to undermine dualism. The article's response—that embodied cognition reveals the *interface* rather than refuting the distinction—is philosophically astute. The radio antenna analogy works well, and the treatment of Merleau-Ponty is fair to the phenomenological tradition while showing it does not mandate materialism.
 
-The [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) article would resonate particularly. Nagel has long argued that the subjective character of experience creates a methodological challenge for science. The Map builds this into a systematic position about multiple investigative approaches being required.
+The [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) article would resonate particularly. Nagel has long argued that the subjective character of experience creates a methodological challenge for science. The Map builds this into a systematic position about multiple investigative approaches being required.
 
 ### The Process Philosopher (Whitehead)
 
@@ -141,7 +141,7 @@ The [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-an
 ### Medium Priority
 
 #### The Hard Problem in Analytic vs. Continental Philosophy
-- **Builds on**: [phenomenology](/concepts/phenomenology/), [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [first-person-third-person-methodology](/topics/first-person-third-person-methodology/)
+- **Builds on**: [phenomenology](/concepts/phenomenology/), [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/)
 - **Would address**: How different philosophical traditions frame consciousness. Continental phenomenology and analytic philosophy of mind approach the same problem differently. The Map draws on both but hasn't explicitly mapped the convergence.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Dualism (both traditions find materialism insufficient), Occam's limits (both traditions resist simple answers)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-19 21:31:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -37,7 +37,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[neural-correlates-consciousness-2026-01-14]]'
-- '[[quantification-void]]'
+- '[[measurement-void]]'
 - '[[consciousness-and-the-problem-of-measurement-standards]]'
 - '[[duhem-quine-underdetermination-consciousness]]'
 title: Neural Correlates of Consciousness
@@ -169,7 +169,7 @@ Over 200 theories of consciousness exist. IIT and GNWT were both challenged by C
 
 NCC research marks a genuine advance in consciousness science. We know more than ever about which brain regions correlate with conscious experience. We have powerful methods for testing theories.
 
-Yet NCC cannot cross a certain boundary. It can map correlations with increasing precision. It cannot tell us what consciousness *is*, why it exists, or how—if at all—it relates to the physical world beyond correlation. The [quantification-void](/voids/measurement-void/) illuminates the depth of this limitation: five independent routes to measuring consciousness—units, instruments, interpersonal comparison, introspection, proxy metrics—all fail for structural rather than technical reasons. The [measurement standards problem](/topics/consciousness-and-the-problem-of-measurement-standards/) traces why the entire apparatus of physical measurement—units, instruments, and calibration—cannot be constructed for phenomenal quantities. NCC research, however sophisticated, operates entirely within the proxy layer. As the [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) article argues, every NCC study presupposes first-person report as irreducible data—the experimenter trusts the subject's testimony about what they experience, smuggling in a first-person element the methodology cannot itself explain.
+Yet NCC cannot cross a certain boundary. It can map correlations with increasing precision. It cannot tell us what consciousness *is*, why it exists, or how—if at all—it relates to the physical world beyond correlation. The [measurement-void](/voids/measurement-void/) illuminates the depth of this limitation: five independent routes to measuring consciousness—units, instruments, interpersonal comparison, introspection, proxy metrics—all fail for structural rather than technical reasons. The [measurement standards problem](/topics/consciousness-and-the-problem-of-measurement-standards/) traces why the entire apparatus of physical measurement—units, instruments, and calibration—cannot be constructed for phenomenal quantities. NCC research, however sophisticated, operates entirely within the proxy layer. As the [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) article argues, every NCC study presupposes first-person report as irreducible data—the experimenter trusts the subject's testimony about what they experience, smuggling in a first-person element the methodology cannot itself explain.
 
 These remain philosophical questions. The Map holds that consciousness is irreducible, that it interacts bidirectionally with physics, and that this interaction occurs at quantum indeterminacies. NCC findings are compatible with this framework. They would be equally compatible with materialism. The hard problem, the explanatory gap, and the metaphysics of mind-brain relations remain exactly where they were—though we now know better where in the brain to investigate them.
 
@@ -185,7 +185,7 @@ These remain philosophical questions. The Map holds that consciousness is irredu
 - [episodic-memory](/concepts/episodic-memory/) — Autonoetic consciousness and hippocampal NCCs
 - [binding-problem](/concepts/binding-problem/) — How hippocampal binding connects consciousness and memory
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Functional dissociations showing consciousness enables operations unconscious processing cannot
-- [quantification-void](/voids/measurement-void/) — Why consciousness resists measurement at every level
+- [measurement-void](/voids/measurement-void/) — Why consciousness resists measurement at every level
 
 ## References
 

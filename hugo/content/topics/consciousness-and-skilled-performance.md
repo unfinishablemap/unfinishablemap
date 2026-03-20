@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-19 16:42:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -45,7 +45,7 @@ related_articles:
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[attention-and-the-consciousness-interface]]'
 - '[[embodied-consciousness-and-the-interface]]'
-- '[[contemplative-training-and-phenomenal-access]]'
+- '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[habituation-void]]'
 - '[[conscious-vs-unconscious-processing]]'
 - '[[sensorimotor-contingencies-and-the-interface]]'
@@ -167,7 +167,7 @@ The strongest physicalist counterargument is that executive attention networks a
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — Perception as mastery of sensorimotor laws
 - [phenomenology-of-embodiment-under-dualism](/topics/phenomenology-of-embodiment-under-dualism/) — Bodily absence, ownership, and what embodiment feels like from the inside
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — The cognitive dimension of effortful learning
-- [contemplative-training-and-phenomenal-access](/topics/contemplative-evidence-for-consciousness-theories/) — Meditation as a parallel case of trained skill
+- [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Meditation as a parallel case of trained skill
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence on consciousness-requiring functions
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The felt difference between authored and discovered action
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/) — The cognitive parallel to motor skill transition

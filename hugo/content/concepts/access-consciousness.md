@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-03 16:48:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -142,7 +142,7 @@ This illustrates [the limits of Occam's Razor](/tenets/#occams-limits). Physical
 - [Cognitive phenomenology](/concepts/cognitive-phenomenology/)—whether thoughts have phenomenal character or are only A-conscious
 - [Baseline cognition](/concepts/baseline-cognition/)—great ape intelligence shows what's possible without full A-consciousness
 - [Working memory](/concepts/working-memory/)—the capacity limit on what can be A-conscious simultaneously
-- [Metacognition](/concepts/metacognition/)—awareness of one's own cognitive states, requiring A-consciousness
+- [metacognition](/concepts/metacognition/)—awareness of one's own cognitive states, requiring A-consciousness
 
 ## References
 

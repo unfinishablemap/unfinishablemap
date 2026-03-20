@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-05
-ai_modified: 2026-03-14 15:16:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[creativity-void]]'
-- '[[the-unobservable-self]]'
+- '[[self-reference-paradox]]'
 - '[[thoughts-that-slip-away]]'
 - '[[introspective-opacity]]'
 - '[[absorption-void]]'
@@ -122,7 +122,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet connects through the indexic
 
 - [creativity-void](/voids/creativity-void/) — The related void concerning creative insight's hidden origins
 - [introspective-opacity](/voids/introspective-opacity/) — Why we cannot observe cognitive processes, including willing
-- [the-unobservable-self](/voids/self-reference-paradox/) — The observer that cannot observe itself
+- [self-reference-paradox](/voids/self-reference-paradox/) — The observer that cannot observe itself
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — How thoughts escape before they can be captured
 - [absorption-void](/voids/absorption-void/) — Where focused attention swallows the attending self
 - [involuntariness-void](/voids/involuntariness-void/) — Consciousness cannot opt out of its own spontaneous content

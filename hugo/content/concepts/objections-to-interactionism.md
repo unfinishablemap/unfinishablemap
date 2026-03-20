@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-11 10:02:00+00:00
+ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -174,7 +174,7 @@ These are empirical and interpretive questions, not settled by philosophical arg
 
 | Objection | Target | Site's Response | Strength |
 |-----------|--------|-----------------|----------|
-| Pairing problem | Substance dualism | Minds are spatially located (in brains); [interface-locality](/concepts/brain-interface-boundary/) provides natural pairing; [haecceity](/concepts/haecceity/) offers alternative grounding | Strong |
+| Pairing problem | Substance dualism | Minds are spatially located (in brains); [brain-interface-boundary](/concepts/brain-interface-boundary/) provides natural pairing; [haecceity](/concepts/haecceity/) offers alternative grounding | Strong |
 | Conservation laws | Interactionism | Conservation is local/conditional (Pitts/Cucu); selection not injection at quantum indeterminacies; see [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) | Strong |
 | Parsimony | Dualism | Consciousness is evidence; materialism doesn't explain it; simplicity isn't truth | Strong |
 | Decoherence | Quantum interactionism | Quantum biology evidence, decoherence doesn't solve measurement problem | Moderate |
@@ -205,7 +205,7 @@ The exclusion argument receives two complementary responses: quantum insufficien
 - [dualism](/concepts/dualism/) — Positive arguments for the Map's position
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The mechanism for mind-matter interface
 - [decoherence](/concepts/decoherence/) — The quantum biology challenge and evidence
-- [interface-locality](/concepts/brain-interface-boundary/) — Why consciousness can only select within its own brain
+- [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why consciousness can only select within its own brain
 - [objections-to-interactionist-dualism-2026-01-15](/research/objections-to-interactionist-dualism-2026-01-15/) — Research notes for this article
 - [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/) — Five solution types across Western and non-Western philosophy
 

@@ -69,7 +69,7 @@ The zombie thought experiment is not about whether zombies are likely or even ph
 
 The hard problem approaches the frontier through conceptual analysis. The methodological debate approaches it empirically—and finds the same wall.
 
-[The methodological debate](/topics/first-person-third-person-methodology/) in consciousness science reveals the same structure from a different angle. Neuroscience studies consciousness from the outside—observing neural correlates, measuring brain activity, tracking information processing. Phenomenology studies consciousness from the inside—attending to the structure of experience as it is lived. These are not merely different methods for studying the same thing. They reveal fundamentally different aspects of reality.
+[The methodological debate](/topics/methodology-of-consciousness-research/) in consciousness science reveals the same structure from a different angle. Neuroscience studies consciousness from the outside—observing neural correlates, measuring brain activity, tracking information processing. Phenomenology studies consciousness from the inside—attending to the structure of experience as it is lived. These are not merely different methods for studying the same thing. They reveal fundamentally different aspects of reality.
 
 The persistence of this methodological gap after decades of neuroscientific progress provides strong evidence that it is not merely a gap in our current understanding. If consciousness were reducible to physical processes, we would expect third-person neuroscience to eventually capture first-person phenomenology. Instead, the two approaches remain incommensurable.
 
@@ -172,6 +172,6 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses the objec
 This apex article synthesises:
 - [The Hard Problem of Consciousness](/topics/hard-problem-of-consciousness/) — The formulation that crystallised the explanatory gap as the central mystery
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — The possibility that human minds cannot grasp consciousness-brain relations
-- [First-Person vs Third-Person Methodology](/topics/first-person-third-person-methodology/) — The persistent methodological divide that reflects ontological difference
+- [First-Person vs Third-Person Methodology](/topics/methodology-of-consciousness-research/) — The persistent methodological divide that reflects ontological difference
 - Consciousness and Mathematical Understanding — Penrose's argument that consciousness enables non-algorithmic insight
 - [The Explanatory Gap](/concepts/explanatory-gap/) — Levine's original formulation of what physical explanation leaves out
