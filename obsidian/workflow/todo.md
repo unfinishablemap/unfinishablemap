@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write topic article on the gravity well pattern in epiphenomenalism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: The "gravity well" pattern — why every non-eliminativist position converges on epiphenomenalism through different mechanisms — deserves systematic treatment beyond its current section in the-epiphenomenalist-threat.md. The meta-philosophical analysis of why the logical space is shaped this way is underdeveloped. Builds on the-epiphenomenalist-threat, mental-causation, consciousness-and-causal-powers. Target section: topics/. See optimistic-2026-03-20-midday.md
-- **Source**: gap_analysis
-- **Generated**: 2026-03-20
-
 ### P2: Create concept page for skill delegation
 - **Type**: expand-topic
 - **Status**: pending
@@ -1023,6 +1016,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Write topic article on the gravity well pattern in epiphenomenalism
+- **Type**: expand-topic
+- **Notes**: The "gravity well" pattern — why every non-eliminativist position converges on epiphenomenalism through different mechanisms — deserves systematic treatment beyond its current section in the-epiphenomenalist-threat.md. The meta-philosophical analysis of why the logical space is shaped this way is underdeveloped. Builds on the-epiphenomenalist-threat, mental-causation, consciousness-and-causal-powers. Target section: topics/. See optimistic-2026-03-20-midday.md
+- **Output**: Write topic article on the gravity well pattern in epiphenomenalism
 
 ### ✓ 2026-03-20: Create apex synthesis — The Phenomenology-Mechanism Bridge
 - **Type**: apex-evolve

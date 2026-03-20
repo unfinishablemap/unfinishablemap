@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 16:31 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Epiphenomenalism's Gravity Well
+- **Output**: [[topics/epiphenomenalisms-gravity-well]]
+- **Word count**: 2003
+- **Based on research**: No (general knowledge; builds on existing Map articles the-epiphenomenalist-threat, epiphenomenalism, causal-closure, mental-causation)
+
 ## 2026-03-20 16:14 UTC - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/phenomenology-mechanism-bridge]]
