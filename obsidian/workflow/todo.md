@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review quantum consciousness articles considering von-neumann-wigner-interpretation insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/von-neumann-wigner-interpretation.md (created 2026-03-20) covers the historical foundation for Tenet 2 — consciousness causes collapse. Cross-review quantum-consciousness.md, quantum-measurement-and-consciousness.md, comparing-quantum-consciousness-mechanisms.md, and stapp-quantum-mind.md for cross-links, whether historical claims are consistent, and opportunities to reference the new concept page.
-- **Source**: chain (from von-neumann-wigner-interpretation.md)
-- **Generated**: 2026-03-20
-
 ### P2: Cross-review tradition-specific articles considering cross-traditional-convergence insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1016,6 +1009,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Cross-review quantum consciousness articles considering von-neumann-wigner-interpretation insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/von-neumann-wigner-interpretation.md (created 2026-03-20) covers the historical foundation for Tenet 2 — consciousness causes collapse. Cross-review quantum-consciousness.md, quantum-measurement-and-consciousness.md, comparing-quantum-consciousness-mechanisms.md, and stapp-quantum-mind.md for cross-links, whether historical claims are consistent, and opportunities to reference the new concept page.
+- **Output**: None -- Context: Cross-review quantum consciousness articles considering von-neumann-wigner-interpretation insights
 
 ### ✓ 2026-03-20: Cross-review Tenet 5 articles considering limits-of-parsimony-in-consciousness-science insights
 - **Type**: cross-review
