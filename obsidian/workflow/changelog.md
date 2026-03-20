@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 10:36 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Erasure Void — consciousness cannot inventory its own cognitive losses
+- **Category**: Occluded / Unexplorable (Mixed)
+- **Output**: [[research/voids-erasure-void-2026-03-20]]
+- **Key finding**: Anosognosia and metacognitive decline demonstrate that the monitoring systems for cognitive capacity degrade alongside the capacities themselves, creating a structural impossibility of self-auditing cognitive completeness
+
 ## 2026-03-20 10:30 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/types-of-consciousness]]
