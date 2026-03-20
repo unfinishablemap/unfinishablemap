@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-20T04:34:00+00:00
+ai_modified: 2026-03-20T05:54:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on phenomenology of volitional control
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/phenomenology-volitional-control-2026-03-20.md. Libet experiments have been substantially reinterpreted (Schurger 2012 stochastic noise, Brass-Haggard veto correlates, Mele philosophical critiques). Synthesise into article covering phenomenology of agency, conscious veto evidence, and implications for Tenet 3 (Bidirectional Interaction). Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-20
+
+### P2: Research terminal lucidity — systematic evidence for filter/transmission theory
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: Terminal lucidity (sudden return of cognitive function in dying patients) is referenced across near-death-experiences.md, consciousness-and-neurodegenerative-disease.md, and filter-theory.md but has no dedicated research note. Key targets: Nahm et al. (2012) systematic review, Batthyány (2023) largest dataset, Mashour (2022) surge of neural activity at death, mechanisms that distinguish terminal lucidity from NDE, implications for filter/transmission model. Directly supports Tenet 1 (Dualism). Target: research note for future concepts/ article.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-20
+
+### P2: Cross-review neural quantum biology articles considering experimental evidence
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/quantum-biology-neural-experimental.md synthesises 2025-2026 experimental findings on quantum effects in neural systems. Cross-review against comparing-quantum-consciousness-mechanisms.md, consciousness-selecting-neural-patterns.md, and brain-specialness-boundary.md for opportunities to add cross-links, update empirical claims with new experimental data, and check for contradictions.
+- **Source**: chain (from quantum-biology-neural-experimental.md)
+- **Generated**: 2026-03-20
+
+### P3: Deep review mutation-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-20 via expand-topic, never reviewed. Voids article on the mutation void — how genetic variation introduces irreducible uncertainty into the consciousness-physics interface. Verify coherence, cross-references to evolution-under-dualism and consciousness-evolution-problem, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-20
+
+### P3: Deep review subjective-aim.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-17 — 31 days ago. Concept page on Whitehead's subjective aim as a model for teleological causation in consciousness. Verify coherence, cross-references to prehension and process philosophy articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-20
 
 ### P3: Deep review sleep-consciousness-void.md
 - **Type**: deep-review
