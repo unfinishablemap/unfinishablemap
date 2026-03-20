@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 06:18 UTC - coalesce
+- **Status**: Abandoned — no strong candidates
+- **Section searched**: topics/ (229/230, most pressured)
+- **Pairs evaluated**: 8 thematic clusters across 5 search iterations
+- **Reason**: All candidate pairs are well-differentiated; adjacent articles are complementary rather than redundant
+
 ## 2026-03-20 06:10 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenology of volitional control
