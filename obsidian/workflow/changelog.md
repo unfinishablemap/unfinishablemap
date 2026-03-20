@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 11:03 UTC - deep-review
+- **Status**: Success (archived article — cleanup only)
+- **File**: [[topics/lucid-dreaming-and-mind-side-rendering]] (archived, coalesced into [[topics/lucid-dreaming-and-dualist-rendering]])
+- **Word count**: N/A (no content changes)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (stale hugo content file removed)
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-03-20-lucid-dreaming-and-mind-side-rendering]]
+
 ## 2026-03-20 10:56 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/animal-consciousness]]
