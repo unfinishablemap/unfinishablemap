@@ -5,6 +5,11 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 07:44 UTC - deep-review
+- **Status**: Skipped (stable)
+- **File**: [[topics/lucid-dreaming-and-dualist-rendering]]
+- **Notes**: Task referenced archived slug `lucid-dreaming-and-mind-side-rendering`; active article is `lucid-dreaming-and-dualist-rendering` (coalesced). Article has 31+ inbound links (not orphaned) and was reviewed three times (2026-03-18, 2026-03-19 x2) with no critical issues. Marked stable — no changes needed.
+
 ## 2026-03-20 07:37 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/mental-imagery-causal-role-of-consciousness]]
