@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on quantum biology evidence in neural systems
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/quantum-biology-neural-experimental-2026-03-20.md. Recent experimental evidence (2025-2026) for quantum effects in biological systems — photosynthesis coherence, magnetoreception, enzyme tunnelling — establishes precedent for quantum processes at biological temperatures. Directly supports Tenet 2 (Minimal Quantum Interaction) by undermining the "too warm and wet" objection. Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-20
-
 ### P2: Write concept page on limits of parsimony in consciousness science
 - **Type**: expand-topic
 - **Status**: pending
@@ -998,6 +991,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Write article on quantum biology evidence in neural systems
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-biology-neural-experimental-2026-03-20.md. Recent experimental evidence (2025-2026) for quantum effects in biological systems — photosynthesis coherence, magnetoreception, enzyme tunnelling — establishes precedent for quantum processes at biological temperatures. Directly supports Tenet 2 (Minimal Quantum Interaction) by undermining the "too warm and wet" objection. Target section: topics/.
+- **Output**: quantum biology evidence in neural systems
 
 ### ✓ 2026-03-20: Write article on terminal lucidity and filter/transmission theory
 - **Type**: expand-topic

@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 11:50 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Quantum Biology Evidence in Neural Systems
+- **Output**: [[quantum-biology-evidence-in-neural-systems]]
+- **Word count**: 1961
+- **Based on research**: yes, [[quantum-biology-neural-experimental-2026-03-20]]
+
 ## 2026-03-20 11:44 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Terminal Lucidity and Filter/Transmission Theory
