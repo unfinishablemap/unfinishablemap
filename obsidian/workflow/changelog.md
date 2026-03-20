@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 15:44 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Consciousness in simple organisms
+- **Reason**: Content already comprehensively covered across three existing articles: topics/consciousness-in-simple-organisms.md (285 lines, coalesced from minimal-consciousness), concepts/minimal-consciousness.md (thresholds, empirical indicators), and concepts/evolution-of-consciousness.md (boundary organisms, evolutionary emergence). Slug `consciousness-in-simple-organisms` collides with existing topic. Research note (consciousness-simple-organisms-2026-01-19.md) was already consumed when the topic article was originally created.
+- **Todo task**: Marked as skipped
+
 ## 2026-03-20 15:28 UTC - condense
 - **Status**: Success
 - **File**: [[concepts/quantum-neural-mechanisms-and-coherence]]

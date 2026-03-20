@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-20T13:48:00+00:00
+ai_modified: 2026-03-20T15:58:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,11 +37,39 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on consciousness in simple organisms
+### P2: Create apex synthesis — The Phenomenology-Mechanism Bridge
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: Today's optimistic review identified a complete argument chain from first-person phenomenology through neural architecture to quantum selection to metaphysical agency, spanning motor-control-and-the-quantum-zeno-framework, phenomenology-of-volitional-control, phenomenology-of-agency-vs-passivity, consciousness-and-causal-powers, agent-causation, and mental-causation. No single article or apex traces the full chain. An apex synthesis would make the integrated argument visible. All five tenets engaged. See optimistic-2026-03-20-midday.md
+- **Source**: gap_analysis
+- **Generated**: 2026-03-20
+
+### P2: Write topic article on the gravity well pattern in epiphenomenalism
 - **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Research completed in research/consciousness-simple-organisms-2026-01-19.md. Where does the consciousness-physics interface begin in biological complexity? Relevant to Tenet 1 (Dualism) and the Map's framework for grading consciousness across biological systems. Complements animal-consciousness.md and degrees-of-consciousness.md. Target section: concepts/ (215/230, 15 slots available).
-- **Source**: unconsumed_research
+- **Notes**: The "gravity well" pattern — why every non-eliminativist position converges on epiphenomenalism through different mechanisms — deserves systematic treatment beyond its current section in the-epiphenomenalist-threat.md. The meta-philosophical analysis of why the logical space is shaped this way is underdeveloped. Builds on the-epiphenomenalist-threat, mental-causation, consciousness-and-causal-powers. Target section: topics/. See optimistic-2026-03-20-midday.md
+- **Source**: gap_analysis
+- **Generated**: 2026-03-20
+
+### P2: Create concept page for skill delegation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: The phenomenon where consciousness trains procedural systems, withdraws active control, but retains override capacity (proven by the choking phenomenon). Used across agent-causation, motor-control-and-the-quantum-zeno-framework, and phenomenology-of-agency-vs-passivity but never given unified treatment with its own evidence base (choking, automaticity gradients, learning curves). Target section: concepts/. See optimistic-2026-03-20-midday.md
+- **Source**: gap_analysis
+- **Generated**: 2026-03-20
+
+### P2: Add cross-links between mechanistic-phenomenological cluster articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Optimistic review identified 6 missing cross-link pairs in the mechanistic-phenomenological cluster: metaproblem↔epiphenomenalist-threat (gravity well explains metaproblem failures), von-neumann-wigner↔motor-control (historical foundation for Zeno mechanism), phenomenology-of-volitional-control↔consciousness-and-causal-powers (first-person evidence for causal powers), agent-causation↔phenomenology-of-agency (skill delegation grounding), mental-causation↔metaproblem (self-stultification parallel), epiphenomenalist-threat↔consciousness-and-causal-powers (escape route specification). See optimistic-2026-03-20-midday.md
+- **Source**: chain
+- **Generated**: 2026-03-20
+
+### P2: Write topic article on clinical phenomenology as philosophical evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: The Map uses clinical dissociations effectively across multiple articles (anarchic hand, schizophrenia, pain asymbolia, choking, dissociation) but lacks a dedicated treatment of clinical phenomenology as a philosophical method — what can we learn about consciousness from cases where its components come apart? Builds on phenomenology-of-volitional-control, consciousness-and-causal-powers, phenomenology-of-agency-vs-passivity. Target section: topics/. See optimistic-2026-03-20-midday.md
+- **Source**: gap_analysis
 - **Generated**: 2026-03-20
 
 ### P3: Deep review mutation-void.md
@@ -995,6 +1023,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Write concept page on consciousness in simple organisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-simple-organisms-2026-01-19.md. Where does the consciousness-physics interface begin in biological complexity? Relevant to Tenet 1 (Dualism) and the Map's framework for grading consciousness across biological systems. Complements animal-consciousness.md and degrees-of-consciousness.md. Target section: concepts/ (215/230, 15 slots available).
+- **Output**: Write concept page on consciousness in simple organisms
 
 ### ✓ 2026-03-20: Condense quantum-neural-mechanisms-and-coherence.md (3504 words, 100% of hard threshold)
 - **Type**: condense
