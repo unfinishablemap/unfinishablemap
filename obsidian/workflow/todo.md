@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense russellian-monism.md (3830 words, 109% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments (Russellian monism vs the Map's dualism, combination problem, structural realism critique) while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-19
-
 ### P3: Research clinical neuroplasticity evidence for bidirectional mental causation
 - **Type**: research-topic
 - **Status**: pending
@@ -851,6 +844,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-20: Condense russellian-monism.md (3830 words, 109% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments (Russellian monism vs the Map's dualism, combination problem, structural realism critique) while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/russellian-monism.md
 
 ### ✓ 2026-03-20: Cross-review quantum-consciousness articles considering consciousness-physics-interface-formalism insights
 - **Type**: cross-review
