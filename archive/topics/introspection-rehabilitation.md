@@ -34,6 +34,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-11
 last_curated:
+archived: true
+archived_date: 2026-03-21T18:48:00+00:00
+superseded_by: "/topics/epistemology-of-introspection-and-calibration/"
+archive_reason: "Coalesced into The Epistemology of Introspection and Its Calibration"
+original_path: "/topics/introspection-rehabilitation/"
 ---
 
 Introspection was pronounced unreliable in the 1970s and has spent decades under suspicion. Nisbett and Wilson showed that people confabulate explanations for decisions shaped by factors they cannot access. Choice blindness experiments confirmed the pattern. Schwitzgebel catalogued failures across multiple domains. The cumulative effect was devastating: if we cannot trust what we say about our own minds, how can first-person evidence anchor any theory of consciousness?

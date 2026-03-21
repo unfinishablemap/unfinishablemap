@@ -67,6 +67,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-21
 
+### P2: Update references to coalesced introspection-rehabilitation article
+- **Type**: cross-review
+- **Notes**: Coalesce merged introspection-rehabilitation.md into epistemology-of-introspection-and-calibration.md. The following active content files reference the archived article and may need wikilinks updated: phenomenal-conservatism-and-introspective-evidence.md, epistemology-of-phenomenal-reports.md, galilean-exclusion.md, contemplative-practice-as-philosophical-evidence.md, consciousness-and-the-problem-of-measurement-standards.md, comparative-phenomenology-of-meditative-traditions.md, methodology-of-consciousness-research.md, phenomenology-of-memory-and-the-self.md, consciousness-and-testimony.md, contemplative-epistemology.md
+- **Source**: coalesce
+- **Generated**: 2026-03-21
+
 ### P3: Explore feminist philosophy of consciousness
 - **Type**: expand-topic
 - **Status**: pending

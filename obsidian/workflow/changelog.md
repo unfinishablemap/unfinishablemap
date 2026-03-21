@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 18:48 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[introspection-rehabilitation]]
+- **Target**: [[epistemology-of-introspection-and-calibration]]
+- **Archived**: archive/topics/introspection-rehabilitation.md
+- **References to review**: 11 active content files reference the archived article
+
 ## 2026-03-21 18:25 UTC - research-topic
 - **Status**: Success
 - **Topic**: Clinical neuroplasticity evidence for bidirectional mental causation
