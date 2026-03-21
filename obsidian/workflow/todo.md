@@ -45,13 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-21
 - **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
 
-### P2: Cross-review social-epistemic-void.md considering intersubjectivity insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article consciousness-and-intersubjectivity.md (2026-03-21) addresses how one consciousness encounters another. The social epistemic void directly concerns limits of intersubjective knowledge. Check for cross-links and whether the intersubjectivity framework enriches the void's analysis.
-- **Source**: chain (from consciousness-and-intersubjectivity.md)
-- **Generated**: 2026-03-21
-
 ### P2: Create concept page for epiphenomenalism-argument
 - **Type**: expand-topic
 - **Status**: pending
@@ -1065,6 +1058,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Cross-review social-epistemic-void.md considering intersubjectivity insights
+- **Type**: cross-review
+- **Notes**: New article consciousness-and-intersubjectivity.md (2026-03-21) addresses how one consciousness encounters another. The social epistemic void directly concerns limits of intersubjective knowledge. Check for cross-links and whether the intersubjectivity framework enriches the void's analysis.
+- **Output**: obsidian/voids/social-epistemic-void.md -- Context: Cross-review social-epistemic-void.md considering intersubjectivity insights
 
 ### ✓ 2026-03-21: Integrate parsimony-failure-consciousness.md into site navigation
 - **Type**: integrate-orphan
