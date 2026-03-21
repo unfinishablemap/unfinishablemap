@@ -5,6 +5,14 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 08:39 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Epistemological Limits of Parsimony
+- **Output**: [[concepts/epistemological-limits-parsimony]]
+- **Word count**: 1345
+- **Based on research**: yes, [[research/limits-of-parsimony-consciousness-2026-03-20]] and [[research/epistemological-limits-occams-razor-consciousness-2026-02-06]]
+- **Notes**: Slug adjusted from `epistemological-limits-of-occams-razor` to `epistemological-limits-parsimony` to avoid collision with existing arguments article. Defines taxonomy of parsimony failure conditions and detection criteria.
+
 ## 2026-03-21 08:33 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/motor-control-quantum-zeno]]
