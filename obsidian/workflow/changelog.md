@@ -5,6 +5,14 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 08:54 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/epistemological-limits-parsimony]], [[concepts/parsimony-failure-consciousness]]
+- **Target**: [[concepts/parsimony-epistemology]]
+- **Archived**: [[archive/concepts/epistemological-limits-parsimony]], [[archive/concepts/parsimony-failure-consciousness]]
+- **References to review**: none
+- **Notes**: Three parsimony articles (parsimony-epistemology, epistemological-limits-parsimony, parsimony-failure-consciousness) had high redundancy — all discussed Huemer/Sober, three dimensions of simplicity, hard problem, domain sensitivity. Merged into single comprehensive article preserving unique contributions (hostile witnesses, idealism symmetry, detection criteria, self-referential dimension). Concepts section reduced from 219 to 217 (cap: 230).
+
 ## 2026-03-21 08:39 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Epistemological Limits of Parsimony

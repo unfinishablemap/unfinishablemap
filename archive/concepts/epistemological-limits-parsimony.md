@@ -25,6 +25,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-21
 last_curated:
+archived: true
+archived_date: 2026-03-21T08:54:00+00:00
+superseded_by: "/concepts/parsimony-epistemology/"
+archive_reason: "Coalesced into Parsimony Epistemology"
+original_path: "/concepts/epistemological-limits-parsimony/"
 ---
 
 The epistemological limits of parsimony are the formal conditions under which Occam's Razor ceases to be a reliable guide to truth. The Unfinishable Map treats this as a foundational concept because the most common objection to [[dualism]] — that [[concepts/materialism|physicalism]] is "simpler" — depends on parsimony having epistemic authority in the consciousness domain. Multiple independent philosophical analyses converge on the conclusion that parsimony has no such authority there. This article defines the concept and its taxonomy of failure modes; for the general epistemology of parsimony, see [[parsimony-epistemology]]; for the specific application to consciousness, see [[parsimony-failure-consciousness]]; for the full argumentative case, see [[epistemological-limits-of-occams-razor]].

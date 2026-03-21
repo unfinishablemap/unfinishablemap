@@ -27,6 +27,11 @@ ai_generated_date: 2026-03-20
 last_curated:
 last_deep_review: 2026-03-20T19:29:00+00:00
 last_refined: 2026-03-21T03:43:00+00:00
+archived: true
+archived_date: 2026-03-21T08:54:00+00:00
+superseded_by: "/concepts/parsimony-epistemology/"
+archive_reason: "Coalesced into Parsimony Epistemology"
+original_path: "/concepts/parsimony-failure-consciousness/"
 ---
 
 Parsimony failure in consciousness refers to the structural inability of Occam's Razor to adjudicate between [[concepts/materialism|physicalism]] and [[dualism]] in the mind-body debate. Unlike domains where parsimony reliably guides theory choice, consciousness satisfies none of the preconditions that give simplicity its epistemic force. This article identifies the three preconditions and explains why each fails. For the general epistemology of parsimony, see [[parsimony-epistemology]]; for the historical and evidential case, see [[limits-of-parsimony-in-consciousness-science]].
