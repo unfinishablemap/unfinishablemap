@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-21T14:19:00+00:00
+ai_modified: 2026-03-21T18:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on clinical neuroplasticity evidence for bidirectional mental causation
+- **Type**: expand-topic
+- **Notes**: Research completed in research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md. Schwartz-Stapp-Beauregard quantum Zeno framework, CBT vs pharmacological neuroimaging comparisons, meditation-driven structural remodelling, and placebo-stimulated neuroplasticity converge on bidirectional causation. Synthesise into site content supporting Tenet 3. Target section: topics/.
+- **Source**: chain + unconsumed_research
+- **Generated**: 2026-03-21
+
+### P2: Cross-review social-construction-of-self-vs-phenomenal-self.md considering intersubjectivity insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intersubjectivity.md (2026-03-21) develops intersubjective constitution of selfhood. Check social-construction-of-self-vs-phenomenal-self.md for cross-links, reinforcing arguments on social vs phenomenal self, and whether the intersubjectivity framework strengthens or complicates its position.
+- **Source**: chain (from consciousness-and-intersubjectivity.md)
+- **Generated**: 2026-03-21
+
+### P2: Cross-review epistemology-of-other-minds-under-dualism.md considering intersubjectivity insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intersubjectivity.md (2026-03-21) addresses the other minds problem from an intersubjective angle. Check epistemology-of-other-minds-under-dualism.md for cross-links, whether intersubjective constitution provides new epistemic resources beyond analogical inference, and consistency of positions.
+- **Source**: chain (from consciousness-and-intersubjectivity.md)
+- **Generated**: 2026-03-21
+
+### P2: Research enactivism as challenge to interactionist dualism
+- **Type**: research-topic
+- **Notes**: Enactivism (Varela, Thompson, Di Paolo) is a major framework taking consciousness seriously while challenging both physicalism and traditional dualism. No existing article or research note covers it. The Map's interactionist framework shares affinities (embodiment, lived experience) but differs fundamentally (dualism vs process monism). Research should cover: (1) Thompson's "Mind in Life" and the autopoietic theory of consciousness, (2) Di Paolo's sensorimotor enactivism, (3) where enactivism agrees with and diverges from the Map's tenets, (4) whether the interface model can incorporate enactivist insights without abandoning dualism. Target: research note.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-21
+
+### P2: Cross-review consciousness-and-interpersonal-understanding.md considering new intersubjectivity article
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intersubjectivity.md (2026-03-21) develops the intersubjective dimension of consciousness. Check consciousness-and-interpersonal-understanding.md for cross-links, whether the intersubjectivity framework deepens its account of what bridges the gap between minds, and terminological consistency.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-21
 
 ### P3: Explore feminist philosophy of consciousness
 - **Type**: expand-topic
