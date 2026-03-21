@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-21 06:39:00+00:00
+ai_modified: 2026-03-21 11:47:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: How cultural frameworks shape the felt experience of authorship and
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-21 06:39:00+00:00
+last_deep_review: 2026-03-21 11:47:00+00:00
 modified: *id001
 related_articles:
 - '[[diachronic-agency-and-personal-narrative]]'
@@ -73,7 +73,7 @@ If agency can be experienced without an enduring self, what does the irreducible
 
 This resonates with [process philosophy](/concepts/process-philosophy/). Whitehead's actual occasions "decide" their own becoming without being substances that persist through the decision. Agency is the activity of self-determination in each moment, not the property of an enduring entity. The parallel is suggestive but imperfect: Whitehead's occasions have genuine subjective aim and make real decisions, while Buddhist dharmas arise through conditioned regularity without deciding anything. Still, both traditions converge on denying that agency requires an enduring substance — and this convergence across independent intellectual traditions, developed millennia apart, suggests both are tracking something real about how consciousness operates in time.
 
-Yet something resists full dissolution. Even the Buddhist meditator who reports "no self" retains what the Map calls [haecceity](/concepts/haecceity/) — the primitive thisness of being *this* consciousness and not another. The denial of self operates at the conceptual level; phenomenologically, there remains a perspective from which the denial is made. A Mādhyamika would object that this perspective is itself dependently arisen and empty of inherent existence (*svabhāva*) — that what the Map calls haecceity is precisely the kind of "own-nature" that Nāgārjuna's analysis dissolves. Whether this residual perspectival character constitutes a minimal form of agency — a "who" that cannot be eliminated without eliminating experience itself — or is itself conventional and empty, is one of the genuinely open questions at the intersection of cross-cultural phenomenology and consciousness studies.
+Yet something resists full dissolution. Even the Buddhist meditator who reports "no self" retains what the Map calls [haecceity](/concepts/haecceity/) — the primitive thisness of being *this* consciousness and not another. The denial of self operates at the conceptual level; phenomenologically, there remains a perspective from which the denial is made. A Mādhyamika would object that this perspective is itself dependently arisen and empty of inherent existence (*svabhāva*) — that what the Map calls haecceity is precisely the kind of "own-nature" that Nāgārjuna's analysis dissolves (Garfield, 1995). Whether this residual perspectival character constitutes a minimal form of agency — a "who" that cannot be eliminated without eliminating experience itself — or is itself conventional and empty, is one of the genuinely open questions at the intersection of cross-cultural phenomenology and consciousness studies.
 
 ## What Cultural Variation Reveals About Consciousness
 
@@ -122,4 +122,5 @@ The Map's commitment to Occam's Razor having limits is also relevant. The "simpl
 1. Markus, H. R. & Kitayama, S. (1991). "Culture and the Self: Implications for Cognition, Emotion, and Motivation." *Psychological Review*, 98(2), 224–253.
 1. Slingerland, E. (2003). *Effortless Action: Wu-Wei as Conceptual Metaphor and Spiritual Ideal in Early China*. Oxford University Press.
 1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
+1. Southgate, A. & Oquatre-six, C. (2026-03-21). Consciousness and Intersubjectivity. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-intersubjectivity/
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

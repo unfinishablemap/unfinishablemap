@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-21 07:24:00+00:00
+ai_modified: 2026-03-21 12:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -58,13 +58,15 @@ Different anaesthetic classes disrupt different aspects of conscious experience,
 
 ### Phenomenal Presence
 
-Propofol, acting primarily through GABA-A receptors, abolishes phenomenal experience almost completely. Patients report nothing — no dreams, no sense of time, no residual awareness. Brain complexity measured by the perturbational complexity index (PCI) drops dramatically. The posterior cortical "hot zone" identified by recent adversarial consciousness research as the substrate of conscious content falls largely silent.
+Propofol and xenon both abolish phenomenal experience — patients report nothing, no dreams, no sense of time, no residual awareness. Brain complexity measured by the perturbational complexity index (PCI) drops dramatically under both agents. Yet Sarasso et al. (2015) demonstrated that the underlying neural patterns differ strikingly: propofol produces a low-amplitude, spatially local slow wave, while xenon produces a high-amplitude, spatially global slow wave. Two mechanistically distinct disruptions converge on the same phenomenological outcome — extinction of experience — suggesting they each disable the same interface component through different molecular pathways.
 
-This suggests GABA-A-mediated inhibition disrupts the interface component responsible for phenomenal presence itself — the basic fact that there is something it is like. The [world-to-mind directedness](/concepts/direction-of-fit/) of experience — [pain's inherent aim at cessation](/topics/pain-consciousness-and-causal-power/), desire's orientation toward satisfaction — vanishes alongside phenomenal content.
+Propofol acts primarily through GABA-A receptors; xenon through NMDA receptor antagonism (like ketamine, but with radically different effects on consciousness — a dissociation explored in the next section). That two different receptor systems can independently shut down phenomenal presence reinforces the structured interface model: the component responsible for the basic fact that there is something it is like can be reached through multiple molecular routes, each targeting a different aspect of its underlying architecture. The [world-to-mind directedness](/concepts/direction-of-fit/) of experience — [pain's inherent aim at cessation](/topics/pain-consciousness-and-causal-power/), desire's orientation toward satisfaction — vanishes alongside phenomenal content regardless of which route is taken.
 
 ### Content Without Access
 
-Ketamine, blocking NMDA receptors, produces a radically different pattern. Behavioural unresponsiveness is equivalent to propofol, yet patients report vivid experiences — elaborate dreams, perceived journeys, encounters with other beings. Brain dynamics under ketamine remain similar to waking consciousness in their complexity. Ketamine dissociates phenomenal experience from behavioural access: consciousness continues, but its connection to motor output and environmental responsiveness is severed.
+Ketamine, blocking NMDA receptors, produces a radically different pattern. Behavioural unresponsiveness is equivalent to propofol, yet patients report vivid experiences — elaborate dreams, perceived journeys, encounters with other beings. Brain dynamics under ketamine show wakefulness-like complex spatiotemporal activation (Sarasso et al., 2015) rather than the slow-wave collapse seen under propofol or xenon. Ketamine dissociates phenomenal experience from behavioural access: consciousness continues, but its connection to motor output and environmental responsiveness is severed.
+
+The xenon-ketamine contrast is particularly striking. Both are NMDA receptor antagonists, yet xenon extinguishes experience while ketamine preserves it. The difference lies in their secondary targets and network-level effects: xenon's broader action on two-pore potassium channels and its effects on thalamocortical connectivity suppress the phenomenal interface, while ketamine's more selective NMDA blockade severs the access channels while sparing it. Same primary receptor, opposite phenomenological outcomes — strong evidence that the interface's components are pharmacologically separable even at the level of a single receptor system.
 
 On the Map's framework, ketamine disrupts the interface's access channels — the pathways through which consciousness connects to action and environmental engagement — while leaving the phenomenal interface largely intact. This is consistent with the [attention-motor architecture](/topics/the-interface-location-problem/) as a distinct interface layer: ketamine spares the posterior hot zone (phenomenal presence) while disrupting frontoparietal connectivity (access and control). The dissociation also bears on the [self-stultification problem](/topics/self-stultification-as-master-argument/): patients who later report vivid ketamine experiences demonstrate that consciousness maintained its causal connection to memory even when severed from behavioural output. If consciousness were epiphenomenal during the ketamine state, the reliability of these later reports would be [self-stultifying](/concepts/self-stultification/) — presupposing the very causal efficacy that epiphenomenalism denies.
 
@@ -84,7 +86,7 @@ This dissociation — consciousness present, memory encoding absent — reveals 
 
 A critical epistemological point frames this evidence: under normal conditions, production and transmission theories make identical predictions about brain-consciousness correlations. Both predict that disrupting neural activity will alter consciousness. The theories diverge only in abnormal cases — where consciousness persists despite severe neural disruption, or where different disruptions produce qualitatively different consciousness profiles rather than uniform dimming. Anaesthesia provides exactly these distinguishing cases.
 
-If the brain produces consciousness, anaesthesia should produce a relatively uniform dimming — consciousness fading as neural activity is suppressed, like a generator losing power. Instead, different anaesthetic agents produce qualitatively different consciousness profiles depending on which molecular targets they engage. Propofol and xenon suppress experience entirely; ketamine preserves rich inner experience while severing environmental connection; sub-anaesthetic doses of most agents create intermediate states where consciousness narrows without disappearing.
+Researchers have decomposed conscious experience under anaesthesia into three separable components: wakefulness, internal awareness, and environmental connectedness (Bhatt et al., 2019). Different anaesthetic agents selectively impair different components of this triad, producing agent-specific consciousness profiles rather than uniform suppression. If the brain produces consciousness, anaesthesia should produce a relatively uniform dimming — consciousness fading as neural activity is suppressed, like a generator losing power. Instead, different agents produce qualitatively different profiles depending on which molecular targets they engage. Propofol and xenon suppress experience entirely; ketamine preserves rich inner experience while severing environmental connection; sub-anaesthetic doses of most agents create intermediate states where consciousness narrows without disappearing.
 
 This pattern fits a narrowing filter better than a dimming generator. A generator losing power should produce quantitative reduction — less experience, uniformly. A filter being selectively restricted should produce qualitative transformation — different kinds of experience depending on which filter channels are narrowed. The pharmacological evidence overwhelmingly supports the latter pattern.
 
@@ -179,20 +181,22 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 1. Parnia, S., et al. (2023). AWAreness during REsuscitation — II: a multi-center study of consciousness and awareness in cardiac arrest. *Resuscitation*, 191, 109903.
 1. Bhatt, D. P., et al. (2024). A transmissive theory of brain function: implications for health, disease, and consciousness. *NeuroSci*, 3(3), 32.
 
-<!-- AI REFINEMENT LOG - 2026-03-21
+<!-- AI REFINEMENT LOG - 2026-03-21 (pass 2)
 Changes made:
-- Added Noreika et al. (2018) implicit processing finding to Memory Encoding section: words processed semantically during anaesthesia despite no recall
-- Added inline citations for cardiac arrest evidence (Xu et al. 2023, Parnia et al. 2023)
-- Added 3 new references: Noreika et al. 2018, Xu et al. 2023, Parnia et al. 2023
+- Expanded Phenomenal Presence section: added xenon alongside propofol with Sarasso et al.'s finding that both suppress experience but through different neural patterns (low-amplitude local vs high-amplitude global slow wave)
+- Added xenon-ketamine NMDA contrast: both are NMDA antagonists yet produce opposite phenomenological outcomes, strengthening the pharmacological separability argument
+- Added three-component decomposition (wakefulness, internal awareness, connectedness) from Bhatt et al. 2019 to Graded Consciousness section
+- Made ketamine brain dynamics description more specific ("wakefulness-like complex spatiotemporal activation")
 
-Previous passes (2026-03-20, two passes):
+Previous passes (2026-03-20 and 2026-03-21 pass 1):
 - Added three-state taxonomy, "Graded Consciousness and Filter Theory Predictions" section
 - Added epistemological parity argument (Moncrieff 2023), IIT challenge paragraph
 - Expanded cardiac arrest evidence, strengthened tenet connections
-- Added references: Sanders et al. 2023, Sarasso et al. 2015, Bhatt et al. 2019, Bhatt et al. 2024, Moncrieff 2023
+- Added Noreika et al. (2018) implicit processing, inline citations for cardiac arrest evidence
+- Added references: Sanders et al. 2023, Sarasso et al. 2015, Bhatt et al. 2019, Bhatt et al. 2024, Moncrieff 2023, Noreika et al. 2018, Xu et al. 2023, Parnia et al. 2023
 
 Based on research in research/consciousness-anesthesia-filter-theory-2026-03-20.md.
-Key improvements: Evidence claims now fully cited; Memory Encoding section strengthened with implicit processing evidence.
+Key improvements: Propofol-xenon mechanistic distinction and xenon-ketamine NMDA contrast strengthen pharmacological specificity argument; three-component decomposition adds scientific framework.
 
 This log should be removed after human review.
 -->

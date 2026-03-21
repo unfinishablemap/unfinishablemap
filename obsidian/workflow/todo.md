@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-21T11:02:00+00:00
+ai_modified: 2026-03-21T12:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review social-epistemic-void.md and phenomenology-of-collective-intentionality-and-we-consciousness.md considering intersubjectivity insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article consciousness-and-intersubjectivity.md explores how one consciousness encounters another — empathy, theory of mind, and the other minds problem under dualism. Check social-epistemic-void.md for cross-links to intersubjectivity treatment; check phenomenology-of-collective-intentionality-and-we-consciousness.md for reinforcing arguments and potential contradictions around individual vs collective consciousness.
+- **Source**: chain (from consciousness-and-intersubjectivity.md)
+- **Generated**: 2026-03-21
+
+### P2: Cross-review anaesthesia-and-the-consciousness-interface.md and contemplative-practice-as-philosophical-evidence.md considering clinical phenomenology evidence
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article clinical-phenomenology-as-philosophical-evidence.md systematises clinical phenomenological data as evidence for consciousness theories. Check anaesthesia-and-the-consciousness-interface.md for cross-links to the broader evidential framework; check contemplative-practice-as-philosophical-evidence.md for parallel structure (both argue from first-person evidence) and potential cross-references.
+- **Source**: chain (from clinical-phenomenology-as-philosophical-evidence.md)
+- **Generated**: 2026-03-21
+
+### P2: Cross-review mental-causation.md and self-stultification-as-master-argument.md considering arguments-against-epiphenomenalism insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page arguments-against-epiphenomenalism.md consolidates the Map's anti-epiphenomenalist arguments. Deep reviews already added cross-links from epiphenomenalism.md and the-epiphenomenalist-threat.md. Check mental-causation.md for cross-links to the new unified treatment; check self-stultification-as-master-argument.md for consistency with how the self-stultification argument is presented in the new page.
+- **Source**: chain (from arguments-against-epiphenomenalism.md)
+- **Generated**: 2026-03-21
+
+### P3: Deep review consciousness-and-intersubjectivity.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-21 via expand-topic, never reviewed. Topics article on how one consciousness encounters another under dualism — empathy, theory of mind, other minds problem. Verify accuracy of philosophical attributions (Levinas, Buber, Husserl), coherence of the dualist response, cross-references to social-epistemic-void and phenomenology-of-collective-intentionality, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-21
+
+### P3: Deep review phenomenology-of-volition.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-20 via expand-topic, never reviewed. Concept page on the phenomenology of volitional experience — the felt quality of willing, intending, and initiating action. Verify coherence, accuracy of phenomenological claims, cross-references to phenomenology-of-agency-vs-passivity and free-will, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-21
 
 ### ✓ 2026-03-21: Write article on consciousness and intersubjectivity
 - **Type**: expand-topic

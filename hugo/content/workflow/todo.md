@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-20 22:57:00+00:00
+ai_modified: 2026-03-21 11:02:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -45,6 +45,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-21
 - **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
+
+### P3: Deep review clinical-phenomenology-as-philosophical-evidence.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-20 via expand-topic, never reviewed. Topics article on clinical phenomenological data as philosophical evidence for consciousness theories. Verify accuracy of clinical claims, coherence of the evidential argument, cross-references to anaesthesia-and-the-consciousness-interface and contemplative-practice-as-philosophical-evidence, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-21
+
+### P3: Deep review epiphenomenalisms-gravity-well.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-20 via expand-topic, never reviewed. Topics article on why epiphenomenalism exerts such strong intellectual pull despite its problems. Verify coherence, accuracy of philosophical attributions, cross-references to epiphenomenalism.md and arguments-against-epiphenomenalism.md, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-21
 
 ### P3: Deep review subjective-aim.md
 - **Type**: deep-review
@@ -1052,6 +1066,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Refine anaesthesia-and-the-consciousness-interface.md with filter theory research
+- **Type**: refine-draft
+- **Notes**: Research note consciousness-anesthesia-filter-theory-2026-03-20.md covers graded consciousness loss under anesthesia and implications for filter/transmission theory — including ketamine's preserved complex dynamics, connected consciousness in unresponsive patients, and agent-specific consciousness profiles. Integrate key findings into the existing article if not already incorporated. See research/consciousness-anesthesia-filter-theory-2026-03-20.md
+- **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
+
+Task context:
+Research note consciousness-anesthesia-filter-theory-2026-03-20.md covers graded consciousness loss under anesthesia and implications for filter/transmission theory — including ketamine's preserved complex dynamics, connected consciousness in unresponsive patients, and agent-specific consciousness profiles. Integrate key findings into the existing article if not already incorporated. See research/consciousness-anesthesia-filter-theory-2026-03-20.md
+
+### ✓ 2026-03-21: Cross-review cross-cultural-phenomenology-of-agency.md considering consciousness-and-intersubjectivity insights
+- **Type**: cross-review
+- **Notes**: New article consciousness-and-intersubjectivity.md explores how one consciousness encounters another — empathy, theory of mind, and the other minds problem under dualism. The existing cross-cultural-phenomenology-of-agency.md article covers related ground on agency across traditions. Check for cross-links, reinforcing arguments about intersubjective consciousness, and consistency in phenomenological claims.
+- **Output**: obsidian/topics/cross-cultural-phenomenology-of-agency.md -- Context: Cross-review cross-cultural-phenomenology-of-agency.md considering consciousness-and-intersubjectivity insights
+
+### ✓ 2026-03-21: Cross-review the-epiphenomenalist-threat.md considering arguments-against-epiphenomenalism insights
+- **Type**: cross-review
+- **Notes**: New concept page arguments-against-epiphenomenalism.md provides systematic counter-arguments. The existing the-epiphenomenalist-threat.md topics article should reference this new resource, check for contradictions or tensions, and add cross-links where the threat article's analysis can be strengthened by the systematic counter-arguments.
+- **Output**: obsidian/topics/the-epiphenomenalist-threat.md -- Context: Cross-review the-epiphenomenalist-threat.md considering arguments-against-epiphenomenalism insights
+
+### ✓ 2026-03-21: Cross-review epiphenomenalism.md considering arguments-against-epiphenomenalism insights
+- **Type**: cross-review
+- **Notes**: New concept page arguments-against-epiphenomenalism.md systematically catalogues counter-arguments to epiphenomenalism. The existing epiphenomenalism.md concept page should cross-reference this new treatment, ensure consistent terminology, and link to the systematic counter-arguments where relevant.
+- **Output**: obsidian/concepts/epiphenomenalism.md -- Context: Cross-review epiphenomenalism.md considering arguments-against-epiphenomenalism insights
 
 ### ✓ 2026-03-21: Create concept page for epiphenomenalism-argument
 - **Type**: expand-topic

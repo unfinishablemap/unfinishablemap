@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-21 11:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -27,7 +27,7 @@ description: Consciousness as causally inert byproduct. Self-stultification prov
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-19 06:54:00+00:00
+last_deep_review: 2026-03-21 11:09:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -35,6 +35,7 @@ related_articles:
 - '[[contemplative-neuroscience]]'
 - '[[ai-epiphenomenalism]]'
 - '[[the-epiphenomenalist-threat]]'
+- '[[arguments-against-epiphenomenalism]]'
 title: Epiphenomenalism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -82,7 +83,7 @@ This reasoning is weak. We also don't understand how physical states produce con
 
 ## The Self-Stultification Problem
 
-The most powerful objection to epiphenomenalism is that it undermines itself. The [cumulative case against epiphenomenalism](/arguments/epiphenomenalism-argument/) presents this argument alongside evolutionary, knowledge-based, and introspective objections. It also appears in formal premise-conclusion form in the [argument for interactionist dualism](/concepts/interactionist-dualism/), and is developed in detail in the [mental-causation](/concepts/mental-causation/) article.
+The most powerful objection to epiphenomenalism is that it undermines itself. The [cumulative case against epiphenomenalism](/arguments/epiphenomenalism-argument/) presents this argument alongside evolutionary, knowledge-based, and introspective objections. The [arguments against epiphenomenalism](/concepts/arguments-against-epiphenomenalism/) article classifies these into four logically independent argument types—epistemic, evolutionary, phenomenological, and the knowledge argument reversed—showing how their cumulative burden escalates even when individual defences succeed. It also appears in formal premise-conclusion form in the [argument for interactionist dualism](/concepts/interactionist-dualism/), and is developed in detail in the [mental-causation](/concepts/mental-causation/) article.
 
 Consider: you're reading an argument for epiphenomenalism. You find it convincing. You form the belief that consciousness is causally inert.
 
@@ -190,6 +191,7 @@ The self-stultification problem remains the strongest objection: if epiphenomena
 - [agent-causation](/concepts/agent-causation/) — The positive framework for mental causation
 - [luck-objection](/concepts/luck-objection/) — Why genuine authorship requires more than passive reception of indeterminacy
 - [llm-consciousness](/concepts/llm-consciousness/) — Relevant to the AI exception in the self-stultification argument
+- [arguments-against-epiphenomenalism](/concepts/arguments-against-epiphenomenalism/) — Four independent argument types converging against epiphenomenalism
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why the threat recurs across theories and what it takes to escape it
 - [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) — Why AI consciousness, if present, would be architecturally epiphenomenal
 - [dualism](/concepts/dualism/) — The foundational framework; epiphenomenalism is one of three dualist positions

@@ -9,6 +9,49 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-21 12:02 UTC - refine-draft
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Changes**: Added propofol-xenon mechanistic distinction (Sarasso et al. 2015), xenon-ketamine NMDA contrast, three-component decomposition (wakefulness/awareness/connectedness from Bhatt et al. 2019), more specific ketamine TMS-EEG description
+- **Published**: yes
+
+## 2026-03-21 11:47 UTC - deep-review
+- **Status**: Success
+- **File**: [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/)
+- **Word count**: 1925 → 1940 (+15)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Garfield inline citation)
+- **Enhancements made**: 1 (self-citation for consciousness-and-intersubjectivity)
+- **Output**: [deep-review-2026-03-21c-cross-cultural-phenomenology-of-agency](/reviews/deep-review-2026-03-21c-cross-cultural-phenomenology-of-agency/)
+- **Note**: Fourth review confirms full stability. Article recommended for exclusion from review rotation.
+
+## 2026-03-21 11:33 UTC - deep-review
+- **Status**: Success
+- **File**: [arguments-against-epiphenomenalism](/concepts/arguments-against-epiphenomenalism/)
+- **Word count**: 1348 → 1570 (+222)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (unsourced contemplative evidence, missing epiphenomenalist responses, missing cross-links)
+- **Enhancements made**: 5 (reliabilist response, byproduct response, citations, contemplative cross-link, free will connection)
+- **Output**: [deep-review-2026-03-21-arguments-against-epiphenomenalism](/reviews/deep-review-2026-03-21-arguments-against-epiphenomenalism/)
+
+## 2026-03-21 11:17 UTC - deep-review
+- **Status**: Success
+- **File**: [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)
+- **Word count**: 3851 → 3873 (+22)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to arguments-against-epiphenomenalism)
+- **Enhancements made**: 1 (cross-link integration with new classification article)
+- **Output**: [deep-review-2026-03-21-the-epiphenomenalist-threat](/reviews/deep-review-2026-03-21-the-epiphenomenalist-threat/)
+
+## 2026-03-21 11:09 UTC - deep-review
+- **Status**: Success
+- **File**: [epiphenomenalism](/concepts/epiphenomenalism/)
+- **Word count**: 3119 → 3159 (+40)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to arguments-against-epiphenomenalism)
+- **Enhancements made**: 1 (cross-link integration with new companion article)
+- **Output**: [deep-review-2026-03-21-epiphenomenalism](/reviews/deep-review-2026-03-21-epiphenomenalism/)
+
 ## 2026-03-21 10:55 UTC - apex-evolve
 - **Status**: Complete
 - **Article**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
