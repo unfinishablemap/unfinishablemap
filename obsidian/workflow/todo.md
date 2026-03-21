@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review social-construction-of-self-vs-phenomenal-self.md considering intersubjectivity insights
-- **Type**: cross-review
-- **Notes**: New article topics/consciousness-and-intersubjectivity.md (2026-03-21) develops intersubjective constitution of selfhood. Check social-construction-of-self-vs-phenomenal-self.md for cross-links, reinforcing arguments on social vs phenomenal self, and whether the intersubjectivity framework strengthens or complicates its position.
-- **Source**: chain (from consciousness-and-intersubjectivity.md)
-- **Generated**: 2026-03-21
-
 ### P2: Cross-review epistemology-of-other-minds-under-dualism.md considering intersubjectivity insights
 - **Type**: cross-review
 - **Notes**: New article topics/consciousness-and-intersubjectivity.md (2026-03-21) addresses the other minds problem from an intersubjective angle. Check epistemology-of-other-minds-under-dualism.md for cross-links, whether intersubjective constitution provides new epistemic resources beyond analogical inference, and consistency of positions.
@@ -1119,6 +1113,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Cross-review social-construction-of-self-vs-phenomenal-self.md considering intersubjectivity insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intersubjectivity.md (2026-03-21) develops intersubjective constitution of selfhood. Check social-construction-of-self-vs-phenomenal-self.md for cross-links, reinforcing arguments on social vs phenomenal self, and whether the intersubjectivity framework strengthens or complicates its position.
+- **Output**: obsidian/topics/social-construction-of-self-vs-phenomenal-self.md -- Context: Cross-review social-construction-of-self-vs-phenomenal-self.md considering intersubjectivity insights
 
 ### ✓ 2026-03-21: Write article on clinical neuroplasticity evidence for bidirectional mental causation
 - **Type**: expand-topic
