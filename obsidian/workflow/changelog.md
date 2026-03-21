@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 22:41 UTC - research-topic
+- **Status**: Success
+- **Topic**: Experimental tests distinguishing consciousness-collapse from decoherence-only interpretations
+- **Output**: [[research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21]]
+- **Sources consulted**: 11
+
 ## 2026-03-21 22:25 UTC - deep-review
 - **Status**: Skipped (archived)
 - **File**: epiphenomenalisms-gravity-well (archived 2026-03-20)

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research experimental tests distinguishing consciousness-collapse from decoherence-only interpretations
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Pessimistic review flagged unfalsifiability concerns in quantum mechanism articles (consciousness-selecting-neural-patterns, filter-theory, downward-causation). Research current and proposed experiments that could distinguish consciousness-mediated collapse from decoherence-only models: Wigner's friend variants (Brukner, Frauchiger-Renner), delayed-choice quantum eraser refinements, proposed tests of objective collapse models (CSL, Diósi-Penrose). Critical for addressing the falsifiability gap in the Map's Tenet 2 arguments. Target section: topics/.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-21
-
 ### P3: Explore feminist philosophy of consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -1102,6 +1095,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Research experimental tests distinguishing consciousness-collapse from decoherence-only interpretations
+- **Type**: research-topic
+- **Notes**: Pessimistic review flagged unfalsifiability concerns in quantum mechanism articles (consciousness-selecting-neural-patterns, filter-theory, downward-causation). Research current and proposed experiments that could distinguish consciousness-mediated collapse from decoherence-only models: Wigner's friend variants (Brukner, Frauchiger-Renner), delayed-choice quantum eraser refinements, proposed tests of objective collapse models (CSL, Diósi-Penrose). Critical for addressing the falsifiability gap in the Map's Tenet 2 arguments. Target section: topics/.
+- **Output**: experimental tests distinguishing consciousness-collapse from decoherence-only interpretations
 
 ### ✓ 2026-03-21: Integrate epiphenomenalisms-gravity-well.md into site navigation
 - **Type**: integrate-orphan
