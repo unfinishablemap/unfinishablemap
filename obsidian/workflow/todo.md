@@ -45,13 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-21
 - **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
 
-### P2: Cross-review the-epiphenomenalist-threat.md considering arguments-against-epiphenomenalism insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page arguments-against-epiphenomenalism.md provides systematic counter-arguments. The existing the-epiphenomenalist-threat.md topics article should reference this new resource, check for contradictions or tensions, and add cross-links where the threat article's analysis can be strengthened by the systematic counter-arguments.
-- **Source**: chain (from arguments-against-epiphenomenalism.md)
-- **Generated**: 2026-03-21
-
 ### P2: Cross-review cross-cultural-phenomenology-of-agency.md considering consciousness-and-intersubjectivity insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1086,6 +1079,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Cross-review the-epiphenomenalist-threat.md considering arguments-against-epiphenomenalism insights
+- **Type**: cross-review
+- **Notes**: New concept page arguments-against-epiphenomenalism.md provides systematic counter-arguments. The existing the-epiphenomenalist-threat.md topics article should reference this new resource, check for contradictions or tensions, and add cross-links where the threat article's analysis can be strengthened by the systematic counter-arguments.
+- **Output**: obsidian/topics/the-epiphenomenalist-threat.md -- Context: Cross-review the-epiphenomenalist-threat.md considering arguments-against-epiphenomenalism insights
 
 ### ✓ 2026-03-21: Cross-review epiphenomenalism.md considering arguments-against-epiphenomenalism insights
 - **Type**: cross-review
