@@ -111,6 +111,7 @@ The void also connects to the Map's [[tenets#^bidirectional-interaction|Bidirect
 - [[whether-real]] — Whether cognitive limits are permanent or merely current
 - [[destabilizing-self-knowledge]] — What happens when transparency breaks down
 - [[limits-reveal-structure]] — How boundaries illuminate architecture
+- [[social-epistemic-void|The Social Epistemic Void]] — How social knowledge mechanisms compound transparency by enforcing consensus on phenomenal reports
 
 ## References
 

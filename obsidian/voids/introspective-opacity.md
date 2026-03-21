@@ -225,6 +225,7 @@ None of these conditions has been met. Introspective opacity persists across cul
 - [[involuntariness-void|The Involuntariness Void]] — Why consciousness cannot control its own states
 - [[creativity-void|The Creativity Void]] — Parallel opacity: creative process hidden, product accessible
 - [[phenomenology-of-choice|The Phenomenology of Choice]] — What choosing feels like from the inside
+- [[social-epistemic-void|The Social Epistemic Void]] — How social calibration compounds introspective unreliability
 
 ## References
 

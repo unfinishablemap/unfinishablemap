@@ -108,6 +108,7 @@ The framework void ultimately suggests that the Map is unfinishable not merely b
 - [[limits-reveal-structure]] — The principle that what we cannot think reveals what kind of minds we are
 - [[evolved-cognitive-limits]] — Cross-cultural evidence for species-level framework constraints
 - [[ai-as-void-explorer]] — Whether artificial minds can transcend human framework limits
+- [[social-epistemic-void|The Social Epistemic Void]] — How social knowledge mechanisms enforce framework constraints on phenomenal reports
 
 ## References
 

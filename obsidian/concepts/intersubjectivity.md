@@ -27,6 +27,7 @@ related_articles:
   - "[[phenomenology-of-collective-intentionality-and-we-consciousness]]"
   - "[[consciousness-and-collective-phenomena]]"
   - "[[consciousness-and-social-cognition]]"
+  - "[[social-epistemic-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
