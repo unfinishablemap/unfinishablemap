@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-03-21T18:55:45.246257+00:00'
-session_count: 4523
-cycle_position: 4151
+last_updated: '2026-03-21T19:10:45.246940+00:00'
+session_count: 4524
+cycle_position: 4152
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/cross-cultural-phenomenology-of-ag)
-  type: deep-review
-  date: '2026-03-21'
-  outcome: success
 - task: refine-draft (obsidian/topics/anaesthesia-and-the-consciousness-)
   type: refine-draft
   date: '2026-03-21'
@@ -132,5 +128,9 @@ recent_tasks:
   outcome: success
 - task: expand-topic (clinical neuroplasticity evidence for bidirectiona)
   type: expand-topic
+  date: '2026-03-21'
+  outcome: success
+- task: deep-review (obsidian/topics/social-construction-of-self-vs-phe)
+  type: deep-review
   date: '2026-03-21'
   outcome: success
