@@ -5,6 +5,11 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 03:57 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Sections searched**: voids (100/100), topics (224/230), concepts (218/230)
+- **Notes**: Searched 5+ clusters across all sections. Articles are well-differentiated; prior coalescing has already reduced redundancy. No pair found with sufficient overlap to justify merging.
+
 ## 2026-03-21 03:43 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/parsimony-failure-consciousness]]
