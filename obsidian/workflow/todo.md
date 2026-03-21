@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Refine parsimony-failure-consciousness.md with limits-of-parsimony research
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research completed in research/limits-of-parsimony-consciousness-2026-03-20.md covers Cartwright's patchwork of laws, Stanford's problem of unconceived alternatives, Sober's formal parsimony framework, and van Fraassen's empiricist critique. Integrate key findings to strengthen the article's argument that parsimony fails for consciousness. Directly supports Tenet 5 (Occam's Razor Has Limits).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-21
-
 ### P2: Refine quantum-biology-and-neural-consciousness.md with 2025-2026 experimental evidence
 - **Type**: refine-draft
 - **Status**: pending
@@ -1038,6 +1031,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Refine parsimony-failure-consciousness.md with limits-of-parsimony research
+- **Type**: refine-draft
+- **Notes**: Research completed in research/limits-of-parsimony-consciousness-2026-03-20.md covers Cartwright's patchwork of laws, Stanford's problem of unconceived alternatives, Sober's formal parsimony framework, and van Fraassen's empiricist critique. Integrate key findings to strengthen the article's argument that parsimony fails for consciousness. Directly supports Tenet 5 (Occam's Razor Has Limits).
+- **Output**: obsidian/concepts/parsimony-failure-consciousness.md
+
+Task context:
+Research completed in research/limits-of-parsimony-consciousness-2026-03-20.md covers Cartwright's patchwork of laws, Stanford's problem of unconceived alternatives, Sober's formal parsimony framework, and van Fraassen's empiricist critique. Integrate key findings to strengthen the article's argument that parsimony fails for consciousness. Directly supports Tenet 5 (Occam's Razor Has Limits).
 
 ### ✓ 2026-03-21: Condense introspective-opacity.md (3025 words, 101% of hard threshold)
 - **Type**: condense

@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 03:43 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/parsimony-failure-consciousness]]
+- **Changes**: Added hostile witnesses section (Lycan, Smart), historical parsimony failures (Masi), Chalmers' Maxwell analogy; 4 new references integrated from research notes
+- **Published**: yes
+
 ## 2026-03-21 03:27 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/materialism]]
