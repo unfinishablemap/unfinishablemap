@@ -4,7 +4,7 @@ description: "How cultural frameworks shape the felt experience of authorship an
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-21T04:54:00+00:00
+ai_modified: 2026-03-21T05:54:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -33,6 +33,7 @@ related_articles:
   - "[[buddhism-and-dualism]]"
   - "[[process-philosophy]]"
   - "[[cross-cultural-convergence-on-mental-causation]]"
+  - "[[phenomenology-of-volition]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -55,7 +56,7 @@ These are not merely philosophical positions. They shape how practitioners actua
 
 Despite cultural shaping, certain features of agency experience appear to persist across traditions. Three candidates for cross-cultural invariants stand out.
 
-**First, the something-it-is-like of acting.** Whether framed as effortful willing, [[consciousness-and-skilled-performance|effortless flow]], or witnessing, every tradition acknowledges that action has a felt quality distinguishable from mere happening. A hand rising because I raise it differs experientially from a hand rising because someone lifts it, regardless of cultural framework. This first-person contrast between doing and undergoing appears universal — even traditions that deny a permanent agent preserve the phenomenological distinction.
+**First, the something-it-is-like of acting.** Whether framed as effortful willing, [[consciousness-and-skilled-performance|effortless flow]], or witnessing, every tradition acknowledges that action has a felt quality distinguishable from mere happening. The [[phenomenology-of-volition]] analyses this felt quality into four components — initiation, sustained control, effort, and veto — each with distinct phenomenological signatures and distinct neural correlates. These components provide the fine-grained structure beneath the cross-cultural invariant identified here. A hand rising because I raise it differs experientially from a hand rising because someone lifts it, regardless of cultural framework. This first-person contrast between doing and undergoing appears universal — even traditions that deny a permanent agent preserve the phenomenological distinction.
 
 **Second, the opacity of the causal mechanism.** No culture reports direct introspective access to *how* willing produces action. The [[introspective-opacity|volitional opacity]] that the Map identifies as a genuine void — a boundary of the knowable — appears in other traditions too: the Daoist cannot explain how *wu wei* works, the Buddhist cannot point to the mechanism by which intentions produce effects across the causal chain. The gap between willing and doing is cross-culturally invisible.
 
@@ -103,6 +104,7 @@ The Map's commitment to Occam's Razor having limits is also relevant. The "simpl
 - [[buddhism-and-dualism]]
 - [[process-philosophy]]
 - [[consciousness-and-skilled-performance|phenomenology of flow states]]
+- [[phenomenology-of-volition]] — The four-component structure of willing that underlies agency across cultures
 - [[contemplative-practice-as-philosophical-evidence]]
 - [[cross-traditional-convergence-on-consciousness-irreducibility]]
 - [[cross-cultural-convergence-on-mental-causation]]

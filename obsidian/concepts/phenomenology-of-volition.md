@@ -4,7 +4,7 @@ description: "The first-person structure of willing—initiation, sustained cont
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-21T00:57:00+00:00
+ai_modified: 2026-03-21T05:54:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -27,6 +27,7 @@ related_articles:
   - "[[phenomenology-volitional-control-2026-03-20]]"
   - "[[control-theoretic-will]]"
   - "[[concept-of-free-will]]"
+  - "[[cross-cultural-phenomenology-of-agency]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -85,6 +86,8 @@ The phenomenology of volition overlaps with but is not identical to several neig
 
 Wegner's influential *The Illusion of Conscious Will* (2002) argues that the experience of willing is a post-hoc construction — the brain decides, then generates a feeling of having decided. If correct, volitional phenomenology would be evidentially worthless.
 
+[[cross-cultural-phenomenology-of-agency|Cross-cultural phenomenology of agency]] provides independent support: the something-it-is-like of acting, the opacity of volitional mechanism, and the link between agency and temporal openness persist across cultures that frame agency very differently — from Western effortful willing to Daoist *wu wei* to Buddhist conditioned arising. If the four components were cultural constructions, this cross-cultural persistence would be unexplained.
+
 The four-component structure identified here is the strongest reply. Wegner's evidence comes primarily from cases where agency attribution goes wrong — automatisms, hypnosis, the "I Spy" experiment where subjects feel they chose actions they were guided toward. These cases involve *initiation* phenomenology alone. They say nothing about sustained control, effort gradients, or active veto. A theory that explains initiation errors cannot dismiss the entire phenomenology of volition without addressing why the brain generates four distinguishable experiential components with distinct neural correlates and distinct clinical dissociation patterns. The illusion would need to be not one trick but four independent tricks, each precisely calibrated to real cognitive demands.
 
 ## Why Volitional Phenomenology Matters
@@ -115,6 +118,7 @@ The Map's [[tenets]] predict the structure of volitional experience. **Dualism**
 - [[motor-selection]] — Motor choice as a paradigm case of volitional selection
 - [[control-theoretic-will]] — Engineering models of volition and their limits
 - [[consciousness-and-causal-powers]] — The full case for conscious causal efficacy
+- [[cross-cultural-phenomenology-of-agency]] — How the invariants of volitional experience persist across radically different cultural frameworks
 
 ## References
 

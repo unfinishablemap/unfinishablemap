@@ -4,7 +4,7 @@ description: "Cross-traditional meditation reports converge on structural featur
 created: 2026-03-07
 modified: 2026-03-07
 human_modified:
-ai_modified: 2026-03-08T08:34:00+00:00
+ai_modified: 2026-03-21T05:54:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,6 +29,7 @@ related_articles:
   - "[[the-convergence-argument-for-dualism]]"
   - "[[epistemology-of-convergence-arguments]]"
   - "[[indian-philosophy-of-mind]]"
+  - "[[the-hard-problem-in-non-western-philosophy]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -145,6 +146,8 @@ The convergence supports a moderate phenomenological realism: first-person repor
 
 A Dennettian [[epistemology-of-phenomenal-reports|heterophenomenological]] objection holds that convergent reports might reflect convergent *beliefs* about what meditation should produce—transmitted through teacher-student lineages—rather than convergent experiences. This objection has force where traditions share historical contact, but weakens where convergence crosses independent cultural boundaries. Buddhist monks and Carmelite nuns do not share teachers, training manuals, or expected outcomes, yet report structurally similar self-dissolution. The belief-convergence explanation requires an implausible degree of independent convergence on the same false beliefs.
 
+[[the-hard-problem-in-non-western-philosophy|The hard problem in non-Western philosophy]] documents convergence at the argumentative level — Indian, Islamic, African, and Japanese traditions independently identifying consciousness as irreducible. This article documents convergence at the experiential level. Together, the two levels reinforce each other: contemplative practitioners and philosophical theorists arrive at similar conclusions through independent methods.
+
 This aligns with [[neurophenomenology|neurophenomenology's]] core insight: trained first-person observation produces reliable data. Varela's "mutual constraints" methodology gains credibility when phenomenological reports converge across traditions with different training protocols, different conceptual vocabularies, and different expected outcomes.
 
 ### The Underdetermination Problem
@@ -179,6 +182,7 @@ The divergence zones illustrate [[tenets#^occams-limits|Occam's Razor Has Limits
 - [[epistemology-of-convergence-arguments]] — Methodology of convergence reasoning
 - [[the-subject-object-distinction-as-philosophical-discovery]] — The third convergence zone explored
 - [[indian-philosophy-of-mind]] — Broader Indian philosophical context
+- [[the-hard-problem-in-non-western-philosophy]] — Argumentative-level convergence complementing this article's experiential-level convergence
 - [[introspection-rehabilitation]] — Defence of first-person methodology
 - [[contemplative-epistemology]] — Epistemic foundations of contemplative inquiry
 - [[absorption-void]] — The phenomenology of absorptive states as cognitive limit

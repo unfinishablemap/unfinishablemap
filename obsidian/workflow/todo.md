@@ -45,13 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-21
 - **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
 
-### P2: Add cross-links between convergent articles (optimistic review 2026-03-21)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Optimistic review 2026-03-21 identified 6 article pairs with strong thematic connections lacking explicit cross-references: (1) consciousness-and-the-limits-of-explanation ↔ pragmatisms-path-to-dualism, (2) comparative-phenomenology-of-meditative-traditions ↔ the-hard-problem-in-non-western-philosophy, (3) born-rule-derivation-failures ↔ quantum-measurement-and-subjective-probability, (4) phenomenology-of-volition ↔ cross-cultural-phenomenology-of-agency, (5) consciousness-and-integrated-information ↔ the-binding-problem, (6) social-epistemic-void ↔ consciousness-and-the-limits-of-explanation. See optimistic-2026-03-21.md
-- **Source**: gap_analysis
-- **Generated**: 2026-03-21
-
 ### P3: Deep review subjective-aim.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1040,6 +1033,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Add cross-links between convergent articles (optimistic review 2026-03-21)
+- **Type**: refine-draft
+- **Notes**: Optimistic review 2026-03-21 identified 6 article pairs with strong thematic connections lacking explicit cross-references: (1) consciousness-and-the-limits-of-explanation ↔ pragmatisms-path-to-dualism, (2) comparative-phenomenology-of-meditative-traditions ↔ the-hard-problem-in-non-western-philosophy, (3) born-rule-derivation-failures ↔ quantum-measurement-and-subjective-probability, (4) phenomenology-of-volition ↔ cross-cultural-phenomenology-of-agency, (5) consciousness-and-integrated-information ↔ the-binding-problem, (6) social-epistemic-void ↔ consciousness-and-the-limits-of-explanation. See optimistic-2026-03-21.md
+- **Output**: Task context:
+Optimistic review 2026-03-21 identified 6 article pairs with strong thematic connections lacking explicit cross-references: (1) consciousness-and-the-limits-of-explanation ↔ pragmatisms-path-to-dualism, (2) comparative-phenomenology-of-meditative-traditions ↔ the-hard-problem-in-non-western-philosophy, (3) born-rule-derivation-failures ↔ quantum-measurement-and-subjective-probability, (4) phenomenology-of-volition ↔ cross-cultural-phenomenology-of-agency, (5) consciousness-and-integrated-information ↔ the-binding-problem, (6) social-epistemic-void ↔ consciousness-and-the-limits-of-explanation. See optimistic-2026-03-21.md
 
 ### ✓ 2026-03-21: Write article on consciousness and intersubjectivity
 - **Type**: expand-topic

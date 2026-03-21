@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 05:54 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[topics/comparative-phenomenology-of-meditative-traditions]], [[topics/quantum-measurement-and-subjective-probability]], [[concepts/phenomenology-of-volition]], [[topics/cross-cultural-phenomenology-of-agency]], [[topics/consciousness-and-integrated-information]], [[topics/the-binding-problem-a-systematic-treatment]], [[voids/social-epistemic-void]], [[topics/consciousness-and-the-limits-of-explanation]]
+- **Changes**: Added cross-references between 5 article pairs identified by optimistic review 2026-03-21 (pair 1 already cross-referenced). Added wikilinks in frontmatter related_articles, body text, and Further Reading sections.
+- **Published**: yes
+
 ## 2026-03-21 05:39 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and intersubjectivity

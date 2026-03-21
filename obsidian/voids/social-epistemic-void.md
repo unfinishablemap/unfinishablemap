@@ -4,7 +4,7 @@ description: "Human+AI investigation of how testimony, hermeneutical injustice, 
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-21T01:12:00+00:00
+ai_modified: 2026-03-21T05:54:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,7 @@ related_articles:
   - "[[transparency-void]]"
   - "[[consciousness-and-testimony]]"
   - "[[intersubjectivity]]"
+  - "[[consciousness-and-the-limits-of-explanation]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -105,6 +106,8 @@ The Unfinishable Map's [[tenets]] illuminate why the social epistemic void is es
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** suggests that consciousness causally influences the physical world through quantum-level mechanisms. Such influence would be extraordinarily difficult to communicate testimonially. The social epistemic void would actively suppress reports of experienced agency—the felt sense of willing, choosing, directing attention—because these reports cannot be publicly verified or paradigmatically accommodated within physicalist frameworks.
 
+The social dimension of explanation connects to a deeper structural issue. [[consciousness-and-the-limits-of-explanation|Consciousness and the limits of explanation]] argues that explanation itself presupposes phenomenal understanding — the felt "aha" that makes explanatory relations intelligible. If explanation depends on consciousness, and consciousness is the one domain where social epistemic mechanisms systematically fail, then our collective capacity to explain consciousness is doubly compromised: by the reflexive gap (the thing being explained is the thing doing the explaining) and by the social epistemic void (the social infrastructure for validating explanatory progress cannot reach phenomenal facts).
+
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** provides the most direct connection. The social epistemic void is a concrete mechanism by which simplicity preferences are enforced collectively. Social knowledge systems prefer communicable, consensus-friendly, parsimonious explanations. Aspects of consciousness that are complex, ineffable, or non-standard are systematically filtered out. If consciousness has irreducibly complex features—as dualism suggests—social epistemology is structurally biased against discovering them.
 
 ## Further Reading
@@ -118,6 +121,7 @@ The Unfinishable Map's [[tenets]] illuminate why the social epistemic void is es
 - [[transparency-void|The Transparency Void]] — Why consciousness cannot verify its own accuracy
 - [[consciousness-and-testimony|Consciousness and Testimony]] — Testimony requires consciousness yet cannot fully convey it
 - [[intersubjectivity|Intersubjectivity]] — The shared space between minds
+- [[consciousness-and-the-limits-of-explanation]] — Why explanation itself presupposes the phenomenal understanding that social epistemology cannot validate
 
 ## References
 

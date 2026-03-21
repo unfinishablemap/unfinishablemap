@@ -4,7 +4,7 @@ description: "Every major theory of scientific explanation fails with consciousn
 created: 2026-02-18
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-21T05:54:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,6 +35,7 @@ related_articles:
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[consciousness-and-neurodegenerative-disease]]"
   - "[[pragmatisms-path-to-dualism]]"
+  - "[[social-epistemic-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -106,7 +107,7 @@ Other scientific blind spots do not have this reflexive character. Science canno
 
 Bas van Fraassen's *The Scientific Image* (1980) argues that explanation is not an objective relation between theory and world but a pragmatic relation involving a questioner, a context, and interests. What counts as a good explanation depends on what the questioner already knows, what alternatives they are considering, and what would satisfy their curiosity.
 
-This pragmatic view inadvertently supports the reflexive gap. If explanation is irreducibly tied to the interests and understanding of conscious agents, then explanation is not a feature of the world discovered by science — it is a feature of the interaction between conscious minds and the world. Remove consciousness and explanatory relations do not merely go unrecognised; they cease to exist. Van Fraassen does not draw this dualist conclusion himself, but his analysis leads naturally to it: explanation is not in the territory but in the map-maker. The Map's [[pragmatisms-path-to-dualism|pragmatic path to dualism]] develops this further, showing how pragmatism's reflexive application to its own evaluative criterion arrives at dualism through three converging stages — James's pragmatic openness, van Fraassen's pragmatic explanation, and the self-defeat of materialist pragmatism.
+This pragmatic view inadvertently supports the reflexive gap. If explanation is irreducibly tied to the interests and understanding of conscious agents, then explanation is not a feature of the world discovered by science — it is a feature of the interaction between conscious minds and the world. The [[social-epistemic-void]] compounds this difficulty: the social mechanisms through which explanatory progress is validated — testimony, consensus, hermeneutical resources — systematically fail when applied to phenomenal experience, the very domain where explanation's foundations lie. Remove consciousness and explanatory relations do not merely go unrecognised; they cease to exist. Van Fraassen does not draw this dualist conclusion himself, but his analysis leads naturally to it: explanation is not in the territory but in the map-maker. The Map's [[pragmatisms-path-to-dualism|pragmatic path to dualism]] develops this further, showing how pragmatism's reflexive application to its own evaluative criterion arrives at dualism through three converging stages — James's pragmatic openness, van Fraassen's pragmatic explanation, and the self-defeat of materialist pragmatism.
 
 ## The Explanatory Regress
 
@@ -181,6 +182,7 @@ The Map holds that this failure may ultimately be more revealing than the hard p
 - [[contemplative-practice-as-philosophical-evidence]] — First-person methods that address the reflexive gap from within experience
 - [[consciousness-and-neurodegenerative-disease]] — What the loss of understanding in neurodegeneration reveals about its phenomenal basis
 - [[dualism]] — The converging arguments that consciousness exceeds physics
+- [[social-epistemic-void]] — How the social infrastructure of explanation systematically fails for phenomenal experience
 
 ## References
 

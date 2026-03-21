@@ -4,7 +4,7 @@ description: "A comprehensive taxonomy of binding problems—perceptual, tempora
 created: 2026-02-14
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-03-19T08:08:00+00:00
+ai_modified: 2026-03-21T05:54:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,6 +35,7 @@ related_articles:
   - "[[binding-problem-consciousness-2026-01-14]]"
   - "[[phenomenal-binding-multimodal-integration-2026-01-23]]"
   - "[[neural-binding-quantum-entanglement-2026-01-19]]"
+  - "[[consciousness-and-integrated-information]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -140,7 +141,7 @@ Classical approaches address BP1 with increasing sophistication but leave BP2 un
 
 - **Binding by synchrony** says unity is temporal coincidence — but coincidence is not identity
 - **Global Workspace Theory** says unity is global availability — but availability is functional, not experiential
-- **IIT** says consciousness *is* integration — and makes testable predictions about when consciousness is present (the dissociations section above discusses this). But as argued there, predictive success does not settle the explanatory question: even if Φ perfectly tracks consciousness, the identification of phenomenal unity with integrated information is an additional metaphysical claim, not a consequence of the empirical correlation.
+- **IIT** says consciousness *is* integration — and makes testable predictions about when consciousness is present (the dissociations section above discusses this). But as argued there, predictive success does not settle the explanatory question: even if Φ perfectly tracks consciousness, the identification of phenomenal unity with integrated information is an additional metaphysical claim, not a consequence of the empirical correlation. [[consciousness-and-integrated-information|The Map's critique of IIT]] develops three specific objections — the passivity problem, the expander graph problem, and the temporal gap — showing that the identity thesis renders consciousness causally inert.
 
 The functionalist response — that once all coordination is explained, "unity" names the coordination itself and nothing remains — faces the dissociation evidence discussed above: during NREM sleep, local computational coordination continues while both global integration and phenomenal unity are absent. If the functionalist equates unity with global integration, this is consistent — but then the "explanation" of unity consists of pointing to the correlation between integration measures and consciousness, which restates rather than resolves the question of why integrated processing is accompanied by unified experience.
 
@@ -198,6 +199,7 @@ The systematic treatment of binding presented here rests on claims that could be
 - [[phenomenal-binding-and-multimodal-integration]] — Cross-modal binding as the hardest case: temporal recalibration, inverse effectiveness, and the unity of place
 - [[neural-refresh-rates]] — Discrete oscillatory sampling rates and the smoothness problem in temporal binding
 - [[combination-problem]] — Panpsychism's version of the binding puzzle
+- [[consciousness-and-integrated-information]] — IIT's identity thesis: integration as definition versus activity
 
 ## References
 

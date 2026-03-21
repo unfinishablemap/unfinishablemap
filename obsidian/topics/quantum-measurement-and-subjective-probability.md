@@ -4,7 +4,7 @@ description: "QBism's probabilities are structurally dependent on consciousness�
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-03-04T16:07:00+00:00
+ai_modified: 2026-03-21T05:54:00+00:00
 last_deep_review: 2026-02-27T07:46:00+00:00
 draft: false
 topics:
@@ -20,6 +20,7 @@ related_articles:
   - "[[qm-interpretations-beyond-many-worlds]]"
   - "[[quantum-measurement-subjective-probability-2026-01-23]]"
   - "[[quantum-measurement-and-consciousness]]"
+  - "[[born-rule-derivation-failures-consciousness-collapse]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
@@ -130,6 +131,8 @@ The general hard problem—why qualitative experience exists at all—belongs to
 
 Consider a Stern-Gerlach measurement. QBism says the Born rule describes rational constraints on an agent's credences about possible outcomes. But credences about *what*? Not about abstract propositions—about what the agent will *experience*. The agent's credences concern which phenomenal state will obtain: seeing the detector flash in one position rather than another, the felt surprise or confirmation of a particular result.
 
+The observer-dependence hidden within QBism's framework is part of a broader pattern. [[born-rule-derivation-failures-consciousness-collapse|Every major attempt to derive the Born rule]] — the probability prescription QBism reinterprets as subjective credence — either smuggles in probabilistic assumptions or presupposes an observer. QBism makes this presupposition explicit by design, but the fact that objective derivations cannot eliminate it either suggests the observer-dependence runs deeper than QBism's particular epistemic framing.
+
 QBism's probabilities are therefore not merely about beliefs but about the relationship between an agent's current mental state and a future mental state. The Born rule constrains transitions *between* conscious experiences. This means consciousness appears on both sides of the probability relation—as the subject assigning credences *and* as the content those credences are about. Other interpretations can treat Born probabilities as features of physical systems independent of any mental state. QBism cannot: its probabilities are defined over the space of possible experiences.
 
 This creates a distinctive circularity. QBism explains measurement outcomes as belief updates, but the beliefs in question are beliefs about experiential outcomes. The framework presupposes a space of possible conscious experiences in order to define the probability measure it calls fundamental. Objective interpretations face no analogous circularity—their probabilities describe physical propensities regardless of whether anyone experiences the results.
@@ -156,6 +159,7 @@ This article connects to multiple tenets:
 - [[measurement-problem]] — The puzzle these interpretations address
 - [[phenomenal-consciousness]] — What subjective experience is
 - [[quantum-measurement-and-consciousness]] — The measurement problem as a philosophical problem about observation and consciousness
+- [[born-rule-derivation-failures-consciousness-collapse]] — Why the Born rule cannot be derived from physics alone — the observer-dependence QBism makes explicit
 
 ## References
 
