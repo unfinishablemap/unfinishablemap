@@ -5,6 +5,14 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 10:43 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Arguments Against Epiphenomenalism
+- **Output**: [[concepts/arguments-against-epiphenomenalism]]
+- **Word count**: 1348
+- **Based on research**: No (general knowledge; extensive existing site content referenced)
+- **Notes**: Original slug `epiphenomenalism-argument` collided with `arguments/epiphenomenalism-argument`. Used `arguments-against-epiphenomenalism` instead. Taxonomic concept page classifying four argument types and their logical relationships.
+
 ## 2026-03-21 10:24 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/social-epistemic-void]]

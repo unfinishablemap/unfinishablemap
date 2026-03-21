@@ -45,13 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-21
 - **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
 
-### P2: Create concept page for epiphenomenalism-argument
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Referenced 6 times across active content but has no concept page. Related to existing epiphenomenalism.md concept but distinct — focuses on the argument structure (from causal closure to epiphenomenalism as a reductio). Target section: concepts/.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-21
-
 ### P3: Deep review subjective-aim.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1058,6 +1051,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Create concept page for epiphenomenalism-argument
+- **Type**: expand-topic
+- **Notes**: Referenced 6 times across active content but has no concept page. Related to existing epiphenomenalism.md concept but distinct — focuses on the argument structure (from causal closure to epiphenomenalism as a reductio). Target section: concepts/.
+- **Output**: Create concept page for epiphenomenalism-argument
 
 ### ✓ 2026-03-21: Cross-review social-epistemic-void.md considering intersubjectivity insights
 - **Type**: cross-review
