@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address decoherence bait-and-switch in quantum-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the article conflates "decoherence doesn't solve the measurement problem" with "quantum consciousness mechanisms work in brains." Separate these as independent arguments. Also soften language presenting quantum theories' shared claims as established fact. See pessimistic-2026-03-20-e.md
+- **Generated**: 2026-03-20
+
+### P2: Reframe amplification hypothesis in animal-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the consciousness-as-amplifier thesis presented as established science rather than the Map's interpretation. Acknowledge physicalist alternatives (prefrontal expansion, enhanced connectivity). Rename "The Scientific Consensus" section. See pessimistic-2026-03-20-e.md
+- **Generated**: 2026-03-20
+
 ### P2: Integrate phenomenology-of-volition.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending

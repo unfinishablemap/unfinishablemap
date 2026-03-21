@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-20 23:59 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/quantum-consciousness.md, concepts/embodied-cognition.md, topics/animal-consciousness.md
+- **Output**: [[reviews/pessimistic-2026-03-20-e]]
+- **Issues found**: 2 high (decoherence bait-and-switch, amplification hypothesis framing), 3 medium (choking argument, consensus section title, radio analogy)
+- **Tasks created**: 2 (refine-draft for quantum-consciousness.md and animal-consciousness.md)
+
 ## 2026-03-20 23:42 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-phenomenology-of-constraint-satisfaction]]
