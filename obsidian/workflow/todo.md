@@ -45,13 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-21
 - **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
 
-### P2: Cross-review epistemology-of-other-minds-under-dualism.md considering intersubjectivity insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article consciousness-and-intersubjectivity.md (2026-03-21) explores whether consciousness is constitutively intersubjective. Check for cross-links, whether the intersubjectivity argument strengthens or complicates the epistemological analysis, and terminology consistency.
-- **Source**: chain (from consciousness-and-intersubjectivity.md)
-- **Generated**: 2026-03-21
-
 ### P2: Integrate parsimony-failure-consciousness.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1079,6 +1072,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Cross-review epistemology-of-other-minds-under-dualism.md considering intersubjectivity insights
+- **Type**: cross-review
+- **Notes**: New article consciousness-and-intersubjectivity.md (2026-03-21) explores whether consciousness is constitutively intersubjective. Check for cross-links, whether the intersubjectivity argument strengthens or complicates the epistemological analysis, and terminology consistency.
+- **Output**: obsidian/concepts/epistemology-of-other-minds-under-dualism.md -- Context: Cross-review epistemology-of-other-minds-under-dualism.md considering intersubjectivity insights
 
 ### ✓ 2026-03-21: Cross-review phenomenology-of-collective-intentionality-and-we-consciousness.md considering intersubjectivity insights
 - **Type**: cross-review
