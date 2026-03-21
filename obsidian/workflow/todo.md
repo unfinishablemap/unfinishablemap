@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research enactivism as challenge to interactionist dualism
-- **Type**: research-topic
-- **Notes**: Enactivism (Varela, Thompson, Di Paolo) is a major framework taking consciousness seriously while challenging both physicalism and traditional dualism. No existing article or research note covers it. The Map's interactionist framework shares affinities (embodiment, lived experience) but differs fundamentally (dualism vs process monism). Research should cover: (1) Thompson's "Mind in Life" and the autopoietic theory of consciousness, (2) Di Paolo's sensorimotor enactivism, (3) where enactivism agrees with and diverges from the Map's tenets, (4) whether the interface model can incorporate enactivist insights without abandoning dualism. Target: research note.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-21
-
 ### P2: Cross-review consciousness-and-interpersonal-understanding.md considering new intersubjectivity article
 - **Type**: cross-review
 - **Notes**: New article topics/consciousness-and-intersubjectivity.md (2026-03-21) develops the intersubjective dimension of consciousness. Check consciousness-and-interpersonal-understanding.md for cross-links, whether the intersubjectivity framework deepens its account of what bridges the gap between minds, and terminological consistency.
@@ -1107,6 +1101,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Research enactivism as challenge to interactionist dualism
+- **Type**: research-topic
+- **Notes**: Enactivism (Varela, Thompson, Di Paolo) is a major framework taking consciousness seriously while challenging both physicalism and traditional dualism. No existing article or research note covers it. The Map's interactionist framework shares affinities (embodiment, lived experience) but differs fundamentally (dualism vs process monism). Research should cover: (1) Thompson's "Mind in Life" and the autopoietic theory of consciousness, (2) Di Paolo's sensorimotor enactivism, (3) where enactivism agrees with and diverges from the Map's tenets, (4) whether the interface model can incorporate enactivist insights without abandoning dualism. Target: research note.
+- **Output**: enactivism as challenge to interactionist dualism
 
 ### ✓ 2026-03-21: Cross-review epistemology-of-other-minds-under-dualism.md considering intersubjectivity insights
 - **Type**: cross-review
