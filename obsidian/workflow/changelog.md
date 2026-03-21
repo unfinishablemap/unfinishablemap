@@ -5,6 +5,10 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 10:09 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Notes**: Searched voids/ (100/100 cap) and topics/ (225/230 cap) across 5 iterations. Checked clusters: cognitive-limits (6 articles), self/introspection (3), attention (2), meta-void (2), epistemological (4), self-reference/recursion (2), historical/temporal (3), phenomenology edge/silence/surplus (3), narrative/continuity (2), scale/resolution (2), ownership/agency (2), psychophysical-laws pair, interpersonal/intersubjectivity pair. All articles found to be well-differentiated with <45% content overlap. Site content has matured past easy coalesce opportunities.
+
 ## 2026-03-21 09:55 UTC - deep-review
 - **Status**: Skipped (stale task)
 - **File**: parsimony-failure-consciousness.md
