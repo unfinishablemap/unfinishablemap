@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review the-hard-problem-in-non-western-philosophy.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-18 — 31 days ago. Topics article demonstrating cross-cultural convergence on consciousness as irreducible. Praised in optimistic review 2026-03-21 for intellectual honesty about the Chinese counter-example. Verify accuracy of tradition-specific claims, cross-references to comparative-phenomenology-of-meditative-traditions, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-21
-
 ### P2: Write article on consciousness and intersubjectivity
 - **Type**: expand-topic
 - **Status**: pending
@@ -1045,6 +1038,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Deep review the-hard-problem-in-non-western-philosophy.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-18 — 31 days ago. Topics article demonstrating cross-cultural convergence on consciousness as irreducible. Praised in optimistic review 2026-03-21 for intellectual honesty about the Chinese counter-example. Verify accuracy of tradition-specific claims, cross-references to comparative-phenomenology-of-meditative-traditions, and tenet alignment.
+- **Output**: obsidian/topics/the-hard-problem-in-non-western-philosophy.md
 
 ### ✓ 2026-03-21: Deep review cross-cultural-phenomenology-of-agency.md
 - **Type**: deep-review

@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 05:09 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/the-hard-problem-in-non-western-philosophy]]
+- **Word count**: 2691 → 2811 (+120)
+- **Critical issues addressed**: 2 (unattributed ori-inu quotation, stale HTML refinement log)
+- **Medium issues addressed**: 2 (al-Ghazālī absence from Islamic section, orphan references for Ganeri/Thompson)
+- **Enhancements made**: 4 (al-Ghazālī paragraph, Ganeri inline citation, Thompson inline citation, ori-inu paraphrase)
+- **Output**: [[reviews/deep-review-2026-03-21-the-hard-problem-in-non-western-philosophy]]
+
 ## 2026-03-21 04:54 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/cross-cultural-phenomenology-of-agency]]
