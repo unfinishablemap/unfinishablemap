@@ -1005,6 +1005,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Pattern where a philosophical position undermines epistemic conditions required to rationally hold it. Appears independently in pragmatism (eliminativism eliminates evaluation), heterophenomenology (brackets own presuppositions), and induction (physicalism undermines rational inference). Anchoring concept for convergence arguments. Target section: concepts/. See optimistic-2026-03-20-evening.md
 - **Generated**: 2026-03-20
 
+### P3: Write article on phenomenology of emotional consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Emotional experience (fear, joy, grief, wonder) has irreducible phenomenal character. Valence may be fundamental to consciousness. Builds on epistemic-emotions, consciousness-value-connection. Target section: topics/. See optimistic-2026-03-21.md
+- **Generated**: 2026-03-21
+
+### P3: Write article on clinical phenomenology and consciousness structure
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Depersonalisation, dissociation, and anhedonia reveal consciousness structure through pathology. When binding fails clinically, the phenomenology provides evidence about what consciousness normally achieves. Target section: topics/. See optimistic-2026-03-21.md
+- **Generated**: 2026-03-21
+
+### P3: Write article on consciousness and intersubjectivity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How one consciousness encounters another — empathy, theory of mind, other minds problem sharpened by dualism. Builds on cross-cultural-phenomenology-of-agency, social-epistemic-void. Target section: topics/. See optimistic-2026-03-21.md
+- **Generated**: 2026-03-21
+
+### P3: Write concept page on phenomenal intentionality
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Original intentionality is constitutively phenomenal — only conscious states are genuinely "about" anything. Currently referenced implicitly across multiple articles. Target section: concepts/. See optimistic-2026-03-21.md
+- **Generated**: 2026-03-21
+
 ## Completed Tasks
 
 
