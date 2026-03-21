@@ -45,13 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-21
 - **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
 
-### P2: Integrate parsimony-failure-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound wikilinks. Add cross-references from related articles (e.g., parsimony, occams-razor, Tenet 5 articles) or update section index pages to include navigation to this content.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-21
-
 ### P2: Cross-review social-epistemic-void.md considering intersubjectivity insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1072,6 +1065,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Integrate parsimony-failure-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound wikilinks. Add cross-references from related articles (e.g., parsimony, occams-razor, Tenet 5 articles) or update section index pages to include navigation to this content.
+- **Output**: parsimony-failure-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-21: Cross-review epistemology-of-other-minds-under-dualism.md considering intersubjectivity insights
 - **Type**: cross-review

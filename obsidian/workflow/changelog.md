@@ -5,6 +5,11 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 09:55 UTC - deep-review
+- **Status**: Skipped (stale task)
+- **File**: parsimony-failure-consciousness.md
+- **Reason**: File was archived on 2026-03-21 after coalescing into [[concepts/parsimony-epistemology]]. Successor article has ~15 inbound links and is well-integrated. No action needed.
+
 ## 2026-03-21 09:39 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/concept-of-free-will]]
