@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-21T21:11:00+00:00
+ai_modified: 2026-03-21T22:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on Wheeler's participatory universe and "it from bit"
+- **Type**: expand-topic
+- **Notes**: Two research notes completed (wheeler-it-from-bit-2026-03-14.md, wheeler-participatory-universe-it-from-bit-2026-03-16.md). Synthesize Wheeler's "it from bit" programme, delayed-choice experiments, participatory universe thesis, and Fuchs's participatory realism. Position the Map relative to Wheeler: more specific (quantum selection), more modest (selects outcomes, doesn't create reality), more constrained by tenets. Directly relevant to Tenets 2 and 4. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-21
+
+### P2: Write article on experimental tests distinguishing consciousness-collapse from decoherence
+- **Type**: expand-topic
+- **Notes**: Research completed in experimental-tests-consciousness-collapse-decoherence-2026-03-21.md. Key question: can empirical tests distinguish consciousness-caused collapse from environmental decoherence? Covers delayed-choice quantum eraser variants, Wigner's friend scenarios, proposed interferometric tests. Directly supports Tenet 2 (Minimal Quantum Interaction) by addressing falsifiability. Target section: concepts/.
+- **Source**: chain (from research-topic 2026-03-21)
+- **Generated**: 2026-03-21
+
+### P2: Write article on the Gödel-measurement problem analogy
+- **Type**: expand-topic
+- **Notes**: Two research notes completed (godel-measurement-problem-analogy-2026-03-14.md, godel-measurement-problem-analogy-2026-03-17.md). Rigorous treatment of structural parallels between Gödel incompleteness and the measurement problem: Penrose's use, Lucas-Penrose argument and critics, Szangolies' Epistemic Horizons, Chaitin's algorithmic randomness. Where the analogy holds and where it breaks. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-21
+
+### P2: Write article on Russellian monism vs bi-aspectual dualism
+- **Type**: expand-topic
+- **Notes**: Two research notes completed (russellian-monism-vs-bi-aspectual-dualism-2026-03-14.md, russellian-monism-bi-aspectual-dualism-supplement-2026-03-17.md). Critical positioning piece: Russellian monism is the Map's closest competitor. Key differences — neutral monism vs genuine dualism, panpsychist tendencies, combination problem vulnerability. Covers Chalmers, Goff, Stoljar, cosmopsychism debate, Lockwood framework. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-21
+
+### P2: Integrate surprise-and-creativity.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has only 1 inbound link (from surprise-prediction-error-and-consciousness.md). Add cross-references from related articles such as consciousness-and-creativity, predictive-processing-and-dualism, phenomenology-of-insight, or relevant concept pages. Update section index if needed.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-21
+
+### P2: Review placebo-effect-and-mental-causation.md considering clinical neuroplasticity insights
+- **Type**: cross-review
+- **Notes**: New article clinical-neuroplasticity-evidence-for-bidirectional-causation.md (2026-03-21) provides neuroplasticity evidence for Tenet 3 (Bidirectional Interaction). Check placebo-effect-and-mental-causation.md for opportunities to cross-link, reinforce arguments with neuroplasticity evidence, and ensure consistent treatment of mental causation claims.
+- **Source**: chain (from clinical-neuroplasticity-evidence-for-bidirectional-causation.md)
+- **Generated**: 2026-03-21
+
+### P2: Review consciousness-as-activity.md considering enactivism insights
+- **Type**: cross-review
+- **Notes**: New article enactivism-challenge-to-interactionist-dualism.md (2026-03-21) presents enactivism as a challenge to the Map's framework. Check consciousness-as-activity.md for cross-links, potential tensions with the enactivist critique, and opportunities to strengthen the interactionist response to embodied/enactive approaches.
+- **Source**: chain (from enactivism-challenge-to-interactionist-dualism.md)
+- **Generated**: 2026-03-21
 
 ### P3: Explore feminist philosophy of consciousness
 - **Type**: expand-topic
