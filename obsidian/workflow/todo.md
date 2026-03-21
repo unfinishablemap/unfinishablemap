@@ -45,13 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-21
 - **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
 
-### P2: Refine terminal-lucidity.md with filter/transmission theory evidence
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research note terminal-lucidity-filter-theory-2026-03-20.md provides systematic evidence from Nahm & Greyson (2009/2012), Batthyány's 124-case survey, and the 2018 NIA workshop elevating terminal lucidity to a research priority. Integrate the filter/transmission theory framing and latest empirical data (2025 Murray-Pinker exchange bringing debate to mainstream) into the existing concept page.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-21
-
 ### P2: Refine quantum-biology-and-neural-consciousness.md with 2025-2026 experimental evidence
 - **Type**: refine-draft
 - **Status**: pending
@@ -1065,6 +1058,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Refine terminal-lucidity.md with filter/transmission theory evidence
+- **Type**: refine-draft
+- **Notes**: Research note terminal-lucidity-filter-theory-2026-03-20.md provides systematic evidence from Nahm & Greyson (2009/2012), Batthyány's 124-case survey, and the 2018 NIA workshop elevating terminal lucidity to a research priority. Integrate the filter/transmission theory framing and latest empirical data (2025 Murray-Pinker exchange bringing debate to mainstream) into the existing concept page.
+- **Output**: obsidian/concepts/terminal-lucidity.md
+
+Task context:
+Research note terminal-lucidity-filter-theory-2026-03-20.md provides systematic evidence from Nahm & Greyson (2009/2012), Batthyány's 124-case survey, and the 2018 NIA workshop elevating terminal lucidity to a research priority. Integrate the filter/transmission theory framing and latest empirical data (2025 Murray-Pinker exchange bringing debate to mainstream) into the existing concept page.
 
 ### ✓ 2026-03-21: Refine anaesthesia-and-the-consciousness-interface.md with filter theory research
 - **Type**: refine-draft
