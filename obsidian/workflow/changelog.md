@@ -5,6 +5,11 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 20:40 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/simulation.md, topics/ai-consciousness.md, concepts/epiphenomenalism.md
+- **Output**: [[reviews/pessimistic-2026-03-21-c]]
+
 ## 2026-03-21 20:26 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/self-consciousness]]
