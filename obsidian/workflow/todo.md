@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review placebo-effect-and-mental-causation.md and empirical-evidence-for-consciousness-selecting.md considering new neuroplasticity article
-- **Type**: cross-review
-- **Notes**: New article topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md (2026-03-21) synthesises clinical neuroplasticity evidence for bidirectional causation. Check placebo-effect-and-mental-causation.md and empirical-evidence-for-consciousness-selecting.md for cross-links, whether the neuroplasticity convergence argument strengthens their cases, and terminological consistency.
-- **Source**: chain (from clinical-neuroplasticity-evidence-for-bidirectional-causation.md)
-- **Generated**: 2026-03-21
-
 ### P3: Explore feminist philosophy of consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -1089,6 +1083,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Cross-review placebo-effect-and-mental-causation.md and empirical-evidence-for-consciousness-selecting.md considering new neuroplasticity article
+- **Type**: cross-review
+- **Notes**: New article topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md (2026-03-21) synthesises clinical neuroplasticity evidence for bidirectional causation. Check placebo-effect-and-mental-causation.md and empirical-evidence-for-consciousness-selecting.md for cross-links, whether the neuroplasticity convergence argument strengthens their cases, and terminological consistency.
+- **Output**: obsidian/topics/placebo-effect-and-mental-causation.md -- Context: Cross-review placebo-effect-and-mental-causation.md and empirical-evidence-for-consciousness-selecting.md considering new neuroplasticity article
 
 ### ✓ 2026-03-21: Update references to coalesced introspection-rehabilitation article
 - **Type**: cross-review
