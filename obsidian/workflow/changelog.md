@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 23:47 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness-Collapse Versus Decoherence: The Experimental Landscape
+- **Output**: [[consciousness-collapse-versus-decoherence-experiments]]
+- **Word count**: 1880
+- **Based on research**: yes, [[experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21]]
+
 ## 2026-03-21 23:32 UTC - coalesce
 - **Status**: Abandoned (no candidates)
 - **Sections scanned**: voids (100/100), topics (226/230), concepts (218/230)

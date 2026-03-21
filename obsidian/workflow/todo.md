@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on experimental tests distinguishing consciousness-collapse from decoherence
-- **Type**: expand-topic
-- **Notes**: Research completed in experimental-tests-consciousness-collapse-decoherence-2026-03-21.md. Key question: can empirical tests distinguish consciousness-caused collapse from environmental decoherence? Covers delayed-choice quantum eraser variants, Wigner's friend scenarios, proposed interferometric tests. Directly supports Tenet 2 (Minimal Quantum Interaction) by addressing falsifiability. Target section: concepts/.
-- **Source**: chain (from research-topic 2026-03-21)
-- **Generated**: 2026-03-21
-
 ### P2: Write article on the Gödel-measurement problem analogy
 - **Type**: expand-topic
 - **Notes**: Two research notes completed (godel-measurement-problem-analogy-2026-03-14.md, godel-measurement-problem-analogy-2026-03-17.md). Rigorous treatment of structural parallels between Gödel incompleteness and the measurement problem: Penrose's use, Lucas-Penrose argument and critics, Szangolies' Epistemic Horizons, Chaitin's algorithmic randomness. Where the analogy holds and where it breaks. Target section: concepts/.
@@ -1131,6 +1125,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Write article on experimental tests distinguishing consciousness-collapse from decoherence
+- **Type**: expand-topic
+- **Notes**: Research completed in experimental-tests-consciousness-collapse-decoherence-2026-03-21.md. Key question: can empirical tests distinguish consciousness-caused collapse from environmental decoherence? Covers delayed-choice quantum eraser variants, Wigner's friend scenarios, proposed interferometric tests. Directly supports Tenet 2 (Minimal Quantum Interaction) by addressing falsifiability. Target section: concepts/.
+- **Output**: experimental tests distinguishing consciousness-collapse from decoherence
 
 ### ✓ 2026-03-21: Write article on Wheeler's participatory universe and "it from bit"
 - **Type**: expand-topic
