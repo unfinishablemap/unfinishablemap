@@ -4,7 +4,7 @@ description: "Four converging clinical evidence streams—OCD self-directed neur
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-03-21T19:55:00+00:00
+ai_modified: 2026-03-21T21:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-21
 last_curated:
-last_deep_review: 2026-03-21T19:55:00+00:00
+last_deep_review: 2026-03-21T21:40:00+00:00
 ---
 
 Clinical [[neuroplasticity]] research provides the strongest empirical evidence that consciousness causally reshapes the brain rather than passively accompanying neural activity. Four independent evidence streams—self-directed neuroplasticity in OCD treatment, psychotherapy neuroimaging showing distinct causal pathways, meditation-driven structural remodelling, and placebo-stimulated neuroplasticity—converge on a single conclusion: intentional mental activity produces lasting changes in neural architecture through routes that differ from pharmacological (bottom-up) intervention. The Unfinishable Map holds that this convergence constitutes a serious empirical challenge to [[concepts/epiphenomenalism|epiphenomenalism]] and to the [[causal-closure|causal closure]] of the physical.
@@ -110,12 +110,13 @@ The Map speculates that these clinical findings may eventually prove more persua
 
 ## References
 
-1. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
-2. Schwartz, J. M., & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks/HarperCollins.
-3. Marzbani, H., et al. (2022). Neural effects of cognitive behavioral therapy in psychiatric disorders: A systematic review and activation likelihood estimation meta-analysis. *Frontiers in Psychology*, 13, 853804.
-4. Rodríguez-Martín, M. L., et al. (2024). Neurobiological changes induced by mindfulness and meditation: A systematic review. *Biomedicines*, 12(11), 2613.
-5. Marueckova, A., et al. (2024). Placebo stimulates neuroplasticity in depression: Implications for clinical practice and research. *Frontiers in Psychiatry*, 14, 1301143.
-6. Manzotti, R., & Moderato, P. (2023). An evidence-based critical review of the mind-brain identity theory. *Frontiers in Psychology*, 14, 1150605.
-7. Álvarez, F. J. (2013). Consciousness, brain, neuroplasticity. *Frontiers in Psychology*, 4, 412.
-8. Southgate, A. & Oquatre-six, C. (2026-02-15). The Placebo Effect and Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/topics/placebo-effect-and-mental-causation/
-9. Southgate, A. & Oquatre-six, C. (2026-02-21). Empirical Evidence for Consciousness-Selecting. *The Unfinishable Map*. https://unfinishablemap.org/topics/empirical-evidence-for-consciousness-selecting/
+1. Schwartz, J. M. (1998). Neuroanatomical aspects of cognitive-behavioural therapy response in obsessive-compulsive disorder. *British Journal of Psychiatry*, 173(Suppl. 35), 38-44.
+2. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
+3. Schwartz, J. M., & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks/HarperCollins.
+4. Marzbani, H., et al. (2022). Neural effects of cognitive behavioral therapy in psychiatric disorders: A systematic review and activation likelihood estimation meta-analysis. *Frontiers in Psychology*, 13, 853804.
+5. Rodríguez-Martín, M. L., et al. (2024). Neurobiological changes induced by mindfulness and meditation: A systematic review. *Biomedicines*, 12(11), 2613.
+6. Marueckova, A., et al. (2024). Placebo stimulates neuroplasticity in depression: Implications for clinical practice and research. *Frontiers in Psychiatry*, 14, 1301143.
+7. Manzotti, R., & Moderato, P. (2023). An evidence-based critical review of the mind-brain identity theory. *Frontiers in Psychology*, 14, 1150605.
+8. Álvarez, F. J. (2013). Consciousness, brain, neuroplasticity. *Frontiers in Psychology*, 4, 412.
+9. Southgate, A. & Oquatre-six, C. (2026-02-15). The Placebo Effect and Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/topics/placebo-effect-and-mental-causation/
+10. Southgate, A. & Oquatre-six, C. (2026-02-21). Empirical Evidence for Consciousness-Selecting. *The Unfinishable Map*. https://unfinishablemap.org/topics/empirical-evidence-for-consciousness-selecting/

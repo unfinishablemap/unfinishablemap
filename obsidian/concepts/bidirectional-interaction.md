@@ -90,6 +90,10 @@ A persistent objection concerns timescales: Tegmark (2000) calculated quantum [[
 
 The conscious/unconscious processing literature reveals systematic asymmetries. [[conscious-vs-unconscious-processing|Randeniya's 2025 meta-analysis]] found that only 10% of claimed unconscious processing effects in fMRI studies survive rigorous methodology—most purported demonstrations of "unconscious cognition" reflect weak stimuli or brief exposure, not genuine bypassing of consciousness. Global Neuronal Workspace Theory (Dehaene, Changeux) identifies three cognitive functions requiring consciousness: durable maintenance (keeping information available beyond brief windows), novel combinations (creating new representations from existing elements), and spontaneous intentional action (initiating behavior without external triggers). If consciousness were epiphenomenal, it could not enable functions that unconscious processing cannot achieve.
 
+### Clinical Neuroplasticity
+
+The [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]] provides four converging empirical streams supporting bidirectional causation: self-directed neuroplasticity in OCD, psychotherapy neuroimaging showing distinct top-down versus bottom-up causal pathways, meditation-driven structural remodelling, and placebo-stimulated neuroplasticity. The systematic divergence between psychological (top-down) and pharmacological (bottom-up) intervention pathways across independent research programmes is difficult to accommodate if mental descriptions are mere redescriptions of physical processes.
+
 ### Content-Specificity
 
 The [[content-specificity-of-mental-causation|content-specificity of mental causation]] provides direct empirical evidence for bidirectional interaction. When consciousness causes physical effects, the *meaning* of the mental state determines *which* effect occurs. Tell someone a pill is a painkiller and endogenous opioids are released; tell them it is a stimulant and heart rate increases. The identical physical stimulus produces different physiological cascades depending on conscious belief content. This pattern—replicated across placebo effects, skilled performance, pain experience, and creative cognition—is what bidirectional interaction predicts: not generic mental force, but semantically structured causation flowing from consciousness to body.
@@ -153,6 +157,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [[inter
 - [[stapp-quantum-mind]] — The quantum Zeno mechanism in detail
 - [[evolutionary-case-for-mental-causation]] — The evolutionary argument for mental causation
 - [[consciousness-as-amplifier]] — Evolutionary evidence for causal efficacy
+- [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] — Four converging clinical evidence streams for mental causation
 - [[contemplative-neuroscience]] — How meditation research demonstrates bidirectional interaction in practice
 - [[mental-imagery-causal-role-of-consciousness]] — Voluntary imagery as evidence for consciousness's causal role
 - [[choking-phenomenon-mental-causation]] — Negative evidence: when consciousness interferes with automaticity

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate clinical-neuroplasticity-evidence-for-bidirectional-causation.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Recently created (2026-03-21) article on clinical neuroplasticity evidence for bidirectional mental causation. Add cross-references from related articles such as placebo-effect-and-mental-causation, empirical-evidence-for-consciousness-selecting, mental-causation, and bidirectional-interaction concept page.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-21
-
 ### P2: Integrate skill-delegation.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1111,6 +1104,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Integrate clinical-neuroplasticity-evidence-for-bidirectional-causation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Recently created (2026-03-21) article on clinical neuroplasticity evidence for bidirectional mental causation. Add cross-references from related articles such as placebo-effect-and-mental-causation, empirical-evidence-for-consciousness-selecting, mental-causation, and bidirectional-interaction concept page.
+- **Output**: obsidian/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-21: Write article on enactivism as challenge to interactionist dualism
 - **Type**: expand-topic

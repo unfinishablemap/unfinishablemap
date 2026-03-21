@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 21:40 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]]
+- **Word count**: 1811 → 1811 (+0)
+- **Critical issues addressed**: 1 (missing reference)
+- **Medium issues addressed**: 1 (orphan integration)
+- **Enhancements made**: 7 cross-links added from related articles, reference list corrected
+- **Output**: [[reviews/deep-review-2026-03-21b-clinical-neuroplasticity-evidence-for-bidirectional-causation]]
+
 ## 2026-03-21 21:25 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/enactivism-challenge-to-interactionist-dualism]]
