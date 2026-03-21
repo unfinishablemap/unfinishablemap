@@ -4,7 +4,7 @@ description: "Actions that are genuinely intentional yet arise without prior del
 created: 2026-02-13
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-03-21T00:57:00+00:00
+ai_modified: 2026-03-21T02:27:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -22,6 +22,7 @@ concepts:
   - "[[authentic-vs-inauthentic-choice]]"
   - "[[interface-friction]]"
   - "[[reasons-responsiveness]]"
+  - "[[phenomenology-of-volition]]"
 related_articles:
   - "[[tenets]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
@@ -38,7 +39,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-13
 last_curated:
-last_deep_review: 2026-03-20T14:59:00+00:00
+last_deep_review: 2026-03-21T02:27:00+00:00
 ---
 
 Some of the most revealing exercises of agency arrive without deliberation. You reach for a friend's hand without planning to. You speak a sentence that surprises you with its precision. You stop walking to watch a hawk, having never decided to stop. These are spontaneous intentional actions: goal-directed, owned, and meaningful, yet initiated without prior deliberation or conscious planning. They occupy a philosophically rich middle ground between the two categories that dominate discussions of agency—effortful deliberate choice and automatic habitual behaviour—and their existence challenges accounts that reduce [[concept-of-free-will|free will]] to either.
@@ -63,9 +64,9 @@ What remains is a category of actions that are intentional—goal-directed, flex
 
 The [[phenomenology-of-agency-vs-passivity|agency-passivity spectrum]] helps locate spontaneous intentional action experientially.
 
-**Authorship without effort.** The sense of "I did this" is present, but the [[mental-effort|phenomenology of effort]] is absent or minimal. This dissociation is philosophically important. If effort tracked agency itself (rather than the difficulty of selection), spontaneous intentional actions would feel passive. They do not. You own the spontaneous kind word; it feels like something you did, not something that happened to you.
+**Authorship without effort.** The [[phenomenology-of-volition|four components of volitional experience]]—initiation, sustained control, effort, and veto—are selectively present in spontaneous intentional action. Initiation phenomenology is vivid: the sense of "I did this" is unmistakable. But sustained control and effort are compressed nearly to zero. This selective profile is philosophically important. If authorship required all four components operating at full intensity, spontaneous actions would feel unauthored. Instead, initiation alone carries the mark of agency. You own the spontaneous kind word; it feels like something you did, not something that happened to you. Crucially, veto capacity is preserved—you *can* stop the reaching hand, catch the word before it leaves your mouth—which confirms that spontaneous action remains under conscious governance even when effort and deliberation are absent.
 
-**Compressed temporality.** Deliberate choice unfolds in Bergson's [[temporal-consciousness|durée]]—lived qualitative time in which options interpenetrate, evolve, and eventually resolve. Spontaneous intentional action compresses this arc. The intention and the action arise together or nearly so. There may be no experiential gap between wanting and doing—yet the action is not automatic either. It carries the mark of intelligent sensitivity to the situation.
+**Compressed temporality.** Deliberate choice unfolds in Bergson's [[temporal-consciousness|durée]]—lived qualitative time in which options interpenetrate, evolve, and eventually resolve. Spontaneous intentional action compresses this arc: intention and action arise together, with no experiential gap between wanting and doing—yet the action carries the mark of intelligent sensitivity to the situation rather than automaticity.
 
 **Retrospective recognition.** Often the intentional character of a spontaneous action becomes fully clear only after the fact. You realise you stopped for the hawk because something in you recognised its importance. The action was intelligent from the start, but its intelligence becomes articulable only in retrospect. This connects to [[introspective-opacity|volitional opacity]]: the mechanism of initiation is hidden, yet the action is clearly authored.
 
@@ -87,7 +88,7 @@ Philosophical accounts of free will often focus on deliberation as the paradigm 
 
 The Map's [[agent-causation|agent-causal framework]] handles this naturally. Consciousness selects among possibilities the brain presents. Sometimes selection requires extended deliberation—holding options open, comparing, effortfully resolving. Other times, the right option is immediately apparent and selection is instant. The same mechanism operates in both cases: consciousness biasing quantum indeterminacies toward outcomes that express its content. What varies is the difficulty of selection, not its nature.
 
-This explains the [[phenomenology-of-agency-vs-passivity|phenomenological profile]]. Effort tracks difficulty of selection, not presence of selection. Easy selection feels effortless—but it is still selection. The agent is still the source. Spontaneous action represents the low-[[interface-friction|friction]] end of the mind-brain interface, where the brain presents a well-prepared option that consciousness need only endorse.
+This explains the [[phenomenology-of-agency-vs-passivity|phenomenological profile]]. Effort tracks difficulty of selection, not presence of selection. Easy selection feels effortless but is still selection. Spontaneous action represents the low-[[interface-friction|friction]] end of the mind-brain interface, where the brain presents a well-prepared option that consciousness need only endorse.
 
 The [[agent-causation#luck-objection|luck objection]] to libertarian free will—that undetermined selection is mere randomness, not genuine agency—might seem especially acute for spontaneous action, where no reasons are explicitly weighed. But the Map's framework distinguishes agent-causation from chance: the agent's accumulated character, values, and [[reasons-responsiveness|responsiveness to reasons]] shape selection even when reasons are not consciously rehearsed. Spontaneous actions are not random; they express the depth of the agent.
 

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review spontaneous-intentional-action.md considering phenomenology of volition insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept article concepts/phenomenology-of-volition.md (created 2026-03-20) overlaps significantly with spontaneous-intentional-action.md on the experience of initiating action. Check for redundancy, add cross-links, ensure the concept page and this article complement rather than duplicate each other, and verify consistent terminology.
-- **Source**: chain (from phenomenology-of-volition.md)
-- **Generated**: 2026-03-21
-
 ### P2: Condense introspective-opacity.md (3025 words, 101% of hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -1052,6 +1045,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Cross-review spontaneous-intentional-action.md considering phenomenology of volition insights
+- **Type**: cross-review
+- **Notes**: New concept article concepts/phenomenology-of-volition.md (created 2026-03-20) overlaps significantly with spontaneous-intentional-action.md on the experience of initiating action. Check for redundancy, add cross-links, ensure the concept page and this article complement rather than duplicate each other, and verify consistent terminology.
+- **Output**: obsidian/concepts/spontaneous-intentional-action.md -- Context: Cross-review spontaneous-intentional-action.md considering phenomenology of volition insights
 
 ### ✓ 2026-03-21: Cross-review free-will.md considering phenomenology of volition insights
 - **Type**: cross-review
