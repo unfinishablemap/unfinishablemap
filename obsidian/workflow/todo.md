@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review cross-cultural-phenomenology-of-agency.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-18 — 31 days ago. Topics article on cross-cultural phenomenological invariants in the experience of agency. Identified as one of the Map's strongest articles by optimistic review 2026-03-21. Verify accuracy of cross-cultural claims, cross-references to phenomenology-of-volition and free-will, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-21
-
 ### P2: Deep review the-hard-problem-in-non-western-philosophy.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1052,6 +1045,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Deep review cross-cultural-phenomenology-of-agency.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-18 — 31 days ago. Topics article on cross-cultural phenomenological invariants in the experience of agency. Identified as one of the Map's strongest articles by optimistic review 2026-03-21. Verify accuracy of cross-cultural claims, cross-references to phenomenology-of-volition and free-will, and tenet alignment.
+- **Output**: obsidian/topics/cross-cultural-phenomenology-of-agency.md
 
 ### ✓ 2026-03-21: Deep review unobservable-self.md
 - **Type**: deep-review
