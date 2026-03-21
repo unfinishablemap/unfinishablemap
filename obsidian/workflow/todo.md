@@ -45,6 +45,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-21
 - **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
 
+### P2: Cross-review social-epistemic-void.md considering consciousness-and-intersubjectivity insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/consciousness-and-intersubjectivity.md explores intersubjectivity under dualism and explicitly references social-epistemic-void.md. Check for cross-links, reinforcing arguments about shared epistemic limitations, and consistency in how the other-minds problem is framed across both articles.
+- **Source**: chain (from consciousness-and-intersubjectivity.md)
+- **Generated**: 2026-03-21
+
+### P2: Cross-review cross-cultural-phenomenology-of-agency.md considering consciousness-and-intersubjectivity insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/consciousness-and-intersubjectivity.md builds on cross-cultural-phenomenology-of-agency.md and develops intersubjective dimensions of consciousness. Check for opportunities to add cross-links, whether the intersubjectivity article's treatment of cultural variation in self-other boundaries strengthens the agency article, and terminological consistency.
+- **Source**: chain (from consciousness-and-intersubjectivity.md)
+- **Generated**: 2026-03-21
+
+### P2: Refine anaesthesia-and-the-consciousness-interface.md with filter theory research
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research note consciousness-anesthesia-filter-theory-2026-03-20.md provides substantial new evidence on graded consciousness under anesthesia — disconnected consciousness, ketamine's preserved dynamics, and challenges to both naive physicalism and IIT. Integrate key findings into the existing article, particularly the filter/transmission theory implications and the graded spectrum evidence (Sanders et al. 2023, Sarasso et al. 2021).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-21
+
+### P2: Refine terminal-lucidity.md with filter/transmission theory evidence
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research note terminal-lucidity-filter-theory-2026-03-20.md provides systematic evidence from Nahm & Greyson (2009/2012), Batthyány's 124-case survey, and the 2018 NIA workshop elevating terminal lucidity to a research priority. Integrate the filter/transmission theory framing and latest empirical data (2025 Murray-Pinker exchange bringing debate to mainstream) into the existing concept page.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-21
+
+### P2: Refine quantum-biology-and-neural-consciousness.md with 2025-2026 experimental evidence
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research note quantum-biology-neural-experimental-2026-03-20.md documents significant 2025-2026 developments: Wiest (2025) review in Neuroscience of Consciousness synthesizing microtubule evidence, TRAZE zero-point field theory, twin-study EEG entanglement evidence, QBIT spintronic coherence theory, and Orch OR integration with active inference. Update the existing article with these latest experimental results and theoretical developments.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-21
+
 ### P3: Deep review subjective-aim.md
 - **Type**: deep-review
 - **Status**: pending
