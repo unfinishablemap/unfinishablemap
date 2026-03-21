@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 12:02 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
+- **Changes**: Added propofol-xenon mechanistic distinction (Sarasso et al. 2015), xenon-ketamine NMDA contrast, three-component decomposition (wakefulness/awareness/connectedness from Bhatt et al. 2019), more specific ketamine TMS-EEG description
+- **Published**: yes
+
 ## 2026-03-21 11:47 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/cross-cultural-phenomenology-of-agency]]

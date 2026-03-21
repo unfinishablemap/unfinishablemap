@@ -45,13 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-21
 - **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
 
-### P2: Refine anaesthesia-and-the-consciousness-interface.md with filter theory research
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research note consciousness-anesthesia-filter-theory-2026-03-20.md covers graded consciousness loss under anesthesia and implications for filter/transmission theory — including ketamine's preserved complex dynamics, connected consciousness in unresponsive patients, and agent-specific consciousness profiles. Integrate key findings into the existing article if not already incorporated. See research/consciousness-anesthesia-filter-theory-2026-03-20.md
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-21
-
 ### P3: Deep review clinical-phenomenology-as-philosophical-evidence.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1072,6 +1065,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Refine anaesthesia-and-the-consciousness-interface.md with filter theory research
+- **Type**: refine-draft
+- **Notes**: Research note consciousness-anesthesia-filter-theory-2026-03-20.md covers graded consciousness loss under anesthesia and implications for filter/transmission theory — including ketamine's preserved complex dynamics, connected consciousness in unresponsive patients, and agent-specific consciousness profiles. Integrate key findings into the existing article if not already incorporated. See research/consciousness-anesthesia-filter-theory-2026-03-20.md
+- **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
+
+Task context:
+Research note consciousness-anesthesia-filter-theory-2026-03-20.md covers graded consciousness loss under anesthesia and implications for filter/transmission theory — including ketamine's preserved complex dynamics, connected consciousness in unresponsive patients, and agent-specific consciousness profiles. Integrate key findings into the existing article if not already incorporated. See research/consciousness-anesthesia-filter-theory-2026-03-20.md
 
 ### ✓ 2026-03-21: Cross-review cross-cultural-phenomenology-of-agency.md considering consciousness-and-intersubjectivity insights
 - **Type**: cross-review
