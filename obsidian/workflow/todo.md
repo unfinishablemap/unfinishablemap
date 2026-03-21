@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Only 1 existing article (african-philosophy-of-consciousness). Ubuntu and relational consciousness, decolonial approaches to mind deserve development. Strengthens convergence argument across traditions. Target section: topics/.
 - **Generated**: 2026-03-21
 
-### P2: Strengthen cross-cultural-phenomenology-of-agency.md inference from persistence to irreducibility
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the central inference — from cross-cultural phenomenological persistence to irreducibility — is underdetermined. Biological universalism explains the same invariants. Distinguish functional invariants (biology explains) from phenomenal invariants (Map claims biology cannot). Currently conflates them. See pessimistic-2026-03-21-b.md
-- **Generated**: 2026-03-21
-
 ### P3: Deep review consciousness-and-intersubjectivity.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1103,6 +1097,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Strengthen cross-cultural-phenomenology-of-agency.md inference from persistence to irreducibility
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the central inference — from cross-cultural phenomenological persistence to irreducibility — is underdetermined. Biological universalism explains the same invariants. Distinguish functional invariants (biology explains) from phenomenal invariants (Map claims biology cannot). Currently conflates them. See pessimistic-2026-03-21-b.md
+- **Output**: obsidian/topics/cross-cultural-phenomenology-of-agency.md
+
+Task context:
+Pessimistic review found the central inference — from cross-cultural phenomenological persistence to irreducibility — is underdetermined. Biological universalism explains the same invariants. Distinguish functional invariants (biology explains) from phenomenal invariants (Map claims biology cannot). Currently conflates them. See pessimistic-2026-03-21-b.md
 
 ### ✓ 2026-03-21: Address unspecified quantum selection mechanism in causal-closure.md
 - **Type**: refine-draft
