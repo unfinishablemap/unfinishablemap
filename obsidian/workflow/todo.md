@@ -1095,6 +1095,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Original intentionality is constitutively phenomenal — only conscious states are genuinely "about" anything. Currently referenced implicitly across multiple articles. Target section: concepts/. See optimistic-2026-03-21.md
 - **Generated**: 2026-03-21
 
+### P3: Write article on philosophy of perception under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The enactivism-challenge article opens a gap: sensorimotor contingencies specify *which* qualities experience has but not *that* there are qualities. A dedicated treatment of perception under the Map's dualist framework would fill this. Builds on dualist-perception, sensorimotor-contingencies-and-the-interface. Target section: topics/. See optimistic-2026-03-21-evening.md
+- **Generated**: 2026-03-21
+
+### P3: Write article on the self under interactionist dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Recent deep reviews of social-construction-of-self-vs-phenomenal-self, self-and-consciousness, and self-consciousness raise a question the Map hasn't systematically addressed: what is the self under interactionist dualism? The self is where all five tenets converge. Target section: topics/. See optimistic-2026-03-21-evening.md
+- **Generated**: 2026-03-21
+
 ## Completed Tasks
 
 
