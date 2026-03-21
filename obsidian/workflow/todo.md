@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate cross-traditional-convergence-on-consciousness-irreducibility.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: Topics article created 2026-03-20 has only 3 inbound links. A convergence argument across philosophical traditions is central to the Map's methodology. Add cross-references from tradition-specific articles (indian-philosophy-of-mind, african-philosophy-of-consciousness, buddhist-perspectives, cross-cultural-phenomenology-of-agency) and the convergence methodology discussions.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-21
-
 ### P2: Integrate von-neumann-wigner-interpretation.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1111,6 +1104,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Integrate cross-traditional-convergence-on-consciousness-irreducibility.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article created 2026-03-20 has only 3 inbound links. A convergence argument across philosophical traditions is central to the Map's methodology. Add cross-references from tradition-specific articles (indian-philosophy-of-mind, african-philosophy-of-consciousness, buddhist-perspectives, cross-cultural-phenomenology-of-agency) and the convergence methodology discussions.
+- **Output**: obsidian/topics/cross-traditional-convergence-on-consciousness-irreducibility.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-21: Integrate degrees-of-consciousness.md into site navigation
 - **Type**: integrate-orphan

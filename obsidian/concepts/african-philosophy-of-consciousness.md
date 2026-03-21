@@ -24,6 +24,7 @@ related_articles:
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[cross-cultural-phenomenology-of-agency]]"
   - "[[cross-cultural-convergence-on-mental-causation]]"
+  - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -32,7 +33,7 @@ last_curated:
 last_deep_review: 2026-02-24T05:23:00+00:00
 ---
 
-African philosophical traditions offer frameworks for understanding consciousness that differ fundamentally from the Western individualist paradigm. Where Descartes began with the isolated thinking subject, many African traditions begin with relation — consciousness as something that emerges through, and is sustained by, connections between persons, ancestors, and the wider community of being. The Unfinishable Map finds in these traditions independent support for consciousness as irreducible to physical processes, along with resources for thinking about mind-body interaction that Western philosophy has largely overlooked.
+African philosophical traditions offer frameworks for understanding consciousness that differ fundamentally from the Western individualist paradigm. Where Descartes began with the isolated thinking subject, many African traditions begin with relation — consciousness as something that emerges through, and is sustained by, connections between persons, ancestors, and the wider community of being. The Unfinishable Map finds in these traditions independent support for consciousness as irreducible to physical processes, along with resources for thinking about mind-body interaction that Western philosophy has largely overlooked. African traditions contribute to the broader [[cross-traditional-convergence-on-consciousness-irreducibility|cross-traditional convergence on irreducibility]]—arriving at this recognition through communal and relational metaphysics rather than the individual-focused analysis of Indian or Western traditions.
 
 ## Relational Personhood and Ubuntu
 

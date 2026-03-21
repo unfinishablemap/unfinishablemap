@@ -22,6 +22,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[buddhist-perspectives-meaning-2026-01-06]]"
+  - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -60,7 +61,7 @@ The Dualism tenet states: "Consciousness is not reducible to physical processes.
 
 **the Map does not require a unified self**: The tenet is compatible with consciousness being fragmented, multiple, or constantly reconstructed. [[unity-of-consciousness|phenomenal unity]] is addressed separately.
 
-What the Map requires is *irreducibility*: at any given moment, conscious experience has properties that no physical description captures. This is the [[hard-problem-of-consciousness|hard problem]]—why there is something it is like to undergo certain physical processes.
+What the Map requires is *irreducibility*: at any given moment, conscious experience has properties that no physical description captures. This is the [[hard-problem-of-consciousness|hard problem]]—why there is something it is like to undergo certain physical processes. Buddhism's convergence with other traditions on this point—despite rejecting their metaphysics of substance and self—is among the strongest evidence that irreducibility tracks a real feature of consciousness rather than a cultural assumption. See [[cross-traditional-convergence-on-consciousness-irreducibility]] for the full analysis.
 
 ## The Compatibility Thesis
 

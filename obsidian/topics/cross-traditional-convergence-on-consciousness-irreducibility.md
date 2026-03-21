@@ -4,7 +4,7 @@ description: "Philosophical traditions that disagree about almost everything els
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T03:08:00+00:00
+ai_modified: 2026-03-21T17:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,12 +26,14 @@ related_articles:
   - "[[cross-cultural-phenomenology-of-agency]]"
   - "[[eastern-philosophy-consciousness]]"
   - "[[samkhya-three-way-distinction]]"
+  - "[[indian-philosophy-of-mind]]"
+  - "[[islamic-sufi-philosophy-of-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review: 2026-03-20T03:08:00+00:00
+last_deep_review: 2026-03-21T17:10:00+00:00
 ---
 
 Philosophical traditions separated by millennia, geography, and fundamental metaphysical commitments converge on a single recognition: consciousness is not reducible to its physical substrate. The Unfinishable Map argues that this convergence pattern is itself a philosophical datum requiring explanation. Traditions that disagree about whether a self exists, whether matter is real, whether causation runs upward or downward, and whether the universe is one or many—all converge when they investigate consciousness with sufficient depth. Irreducibility functions as an attractor of sustained philosophical inquiry, and the most parsimonious explanation is that these traditions are tracking something real.
@@ -42,7 +44,7 @@ This article does not catalogue which traditions say what about consciousness—
 
 Consider three traditions that disagree about nearly everything metaphysical:
 
-**Sāṃkhya** holds that consciousness (*Puruṣa*) is eternal, changeless, and completely passive. Matter (*Prakṛti*) does all the work. There is no self that acts—only a [[witness-consciousness|witness]] that observes. Yet Sāṃkhya insists that this witness is utterly irreducible to the material processes it observes. No arrangement of *Prakṛti* produces *Puruṣa*.
+**[[indian-philosophy-of-mind|Sāṃkhya]]** holds that consciousness (*Puruṣa*) is eternal, changeless, and completely passive. Matter (*Prakṛti*) does all the work. There is no self that acts—only a [[witness-consciousness|witness]] that observes. Yet Sāṃkhya insists that this witness is utterly irreducible to the material processes it observes. No arrangement of *Prakṛti* produces *Puruṣa*.
 
 **Buddhism** denies the existence of any enduring self or witness. Consciousness is a stream of momentary events with no underlying substance. The metaphysics could not be more different from Sāṃkhya's. Yet Buddhist phenomenological analysis—particularly the doctrine of *svasaṃvedana* (reflexive self-awareness) in Dignāga and Dharmakīrti—arrives at the same structural recognition: each moment of awareness has an intrinsic phenomenal character that no third-person description captures.
 
@@ -100,7 +102,7 @@ The most striking feature of the pattern is not that traditions agree on irreduc
 | Western analytic | Yes | Debated | Debated | Debated |
 | Kyoto School | Yes | Pre-subjective | Anti-substantialist | Prior to causation |
 
-These traditions do not agree because they share premises—they arrive at irreducibility *despite* their premises pulling in different directions. A Buddhist who denies substance and self still finds irreducibility. A Sāṃkhya philosopher who affirms eternal substance and passive witness still finds irreducibility. An analytic philosopher who brackets all metaphysical commitments and works only with thought experiments still finds irreducibility. Nyāya's realist interactionism, Advaita's monist idealism, Ibn Sīnā's Aristotelian substance dualism, and Nishida's pre-subjective "pure experience" each bring radically different frameworks—yet each finds the same structural limit when third-person description confronts first-person acquaintance.
+These traditions do not agree because they share premises—they arrive at irreducibility *despite* their premises pulling in different directions. A Buddhist who denies substance and self still finds irreducibility. A Sāṃkhya philosopher who affirms eternal substance and passive witness still finds irreducibility. An analytic philosopher who brackets all metaphysical commitments and works only with thought experiments still finds irreducibility. Nyāya's realist interactionism, Advaita's monist idealism, [[islamic-sufi-philosophy-of-consciousness|Ibn Sīnā's]] Aristotelian substance dualism, and Nishida's pre-subjective "pure experience" each bring radically different frameworks—yet each finds the same structural limit when third-person description confronts first-person acquaintance.
 
 This pattern of agreement-despite-disagreement is precisely the structure the [[epistemology-of-convergence-arguments]] analyses as carrying the strongest evidential force. When conclusions hold despite divergent premises, the conclusion is more likely tracking an external reality than reflecting a shared assumption—because the assumptions are not shared.
 
@@ -129,6 +131,9 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]]—that
 - [[contemplative-practice-as-philosophical-evidence]]
 - [[eastern-philosophy-consciousness]]
 - [[samkhya-three-way-distinction]]
+- [[indian-philosophy-of-mind]]
+- [[islamic-sufi-philosophy-of-consciousness]]
+- [[african-philosophy-of-consciousness]]
 
 ## References
 

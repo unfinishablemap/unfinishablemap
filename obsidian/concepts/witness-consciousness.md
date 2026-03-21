@@ -28,6 +28,7 @@ related_articles:
   - "[[eastern-philosophy-consciousness]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[hypnagogic-phenomenology-and-interface-modulation]]"
+  - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -52,7 +53,7 @@ Buddhism's *anattā* (no-self) doctrine seems incompatible with an eternal witne
 
 Buddhism doesn't claim "consciousness is an illusion" (that would be eliminativism); it claims "the permanent self *owning* consciousness is an illusion." What [[self-and-consciousness|Zahavi calls]] the minimal self's "for-me-ness" may survive the no-self critique. See [[buddhism-and-dualism]] for detailed treatment.
 
-The witness concept appears with striking consistency across independent traditions—a pattern the [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] examines in detail, mapping where traditions converge on the witness's phenomenological structure while diverging on its metaphysical status.
+The witness concept appears with striking consistency across independent traditions—a pattern the [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] examines in detail, mapping where traditions converge on the witness's phenomenological structure while diverging on its metaphysical status. This is one instance of the broader [[cross-traditional-convergence-on-consciousness-irreducibility|cross-traditional convergence on consciousness irreducibility]].
 
 ### Sufi Murāqaba: Watchful Awareness
 
