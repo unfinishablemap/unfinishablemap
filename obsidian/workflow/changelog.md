@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 13:34 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/causal-closure]]
+- **Changes**: Added explicit mechanism gap acknowledgment, Born rule challenge subsection, epiphenomenalism worry subsection; qualified collapse-interpretation dependence; softened selection claims throughout
+- **Published**: yes
+
 ## 2026-03-21 13:19 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/mental-causation]]

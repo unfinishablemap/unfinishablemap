@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-21 11:02:00+00:00
+ai_modified: 2026-03-21 12:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,32 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Address unspecified quantum selection mechanism in causal-closure.md
+- **Type**: refine-draft
+- **Status**: done
+- **Notes**: Pessimistic review found the "quantum exception" section claims consciousness "selects" quantum outcomes but never specifies how, how it preserves Born rule statistics, or why it isn't empirically equivalent to epiphenomenalism. Acknowledge the mechanism gap explicitly rather than implying it's well-understood. See pessimistic-2026-03-21-b.md
+- **Generated**: 2026-03-21
+
+### P2: Strengthen cross-cultural-phenomenology-of-agency.md inference from persistence to irreducibility
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the central inference — from cross-cultural phenomenological persistence to irreducibility — is underdetermined. Biological universalism explains the same invariants. Distinguish functional invariants (biology explains) from phenomenal invariants (Map claims biology cannot). Currently conflates them. See pessimistic-2026-03-21-b.md
+- **Generated**: 2026-03-21
+
+### P3: Deep review consciousness-and-intersubjectivity.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-21 via expand-topic, never reviewed. Topics article on how one consciousness encounters another under dualism — empathy, theory of mind, other minds problem. Verify accuracy of philosophical attributions (Levinas, Buber, Husserl), coherence of the dualist response, cross-references to social-epistemic-void and phenomenology-of-collective-intentionality, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-21
+
+### P3: Deep review phenomenology-of-volition.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-20 via expand-topic, never reviewed. Concept page on the phenomenology of volitional experience — the felt quality of willing, intending, and initiating action. Verify coherence, accuracy of phenomenological claims, cross-references to phenomenology-of-agency-vs-passivity and free-will, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-21
 
 ### ✓ 2026-03-21: Write article on consciousness and intersubjectivity
 - **Type**: expand-topic
@@ -1066,6 +1092,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Cross-review mental-causation.md and self-stultification-as-master-argument.md considering arguments-against-epiphenomenalism insights
+- **Type**: cross-review
+- **Notes**: New concept page arguments-against-epiphenomenalism.md consolidates the Map's anti-epiphenomenalist arguments. Deep reviews already added cross-links from epiphenomenalism.md and the-epiphenomenalist-threat.md. Check mental-causation.md for cross-links to the new unified treatment; check self-stultification-as-master-argument.md for consistency with how the self-stultification argument is presented in the new page.
+- **Output**: obsidian/concepts/mental-causation.md -- Context: Cross-review mental-causation.md and self-stultification-as-master-argument.md considering arguments-against-epiphenomenalism insights
+
+### ✓ 2026-03-21: Cross-review anaesthesia-and-the-consciousness-interface.md and contemplative-practice-as-philosophical-evidence.md considering clinical phenomenology evidence
+- **Type**: cross-review
+- **Notes**: New article clinical-phenomenology-as-philosophical-evidence.md systematises clinical phenomenological data as evidence for consciousness theories. Check anaesthesia-and-the-consciousness-interface.md for cross-links to the broader evidential framework; check contemplative-practice-as-philosophical-evidence.md for parallel structure (both argue from first-person evidence) and potential cross-references.
+- **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md -- Context: Cross-review anaesthesia-and-the-consciousness-interface.md and contemplative-practice-as-philosophical-evidence.md considering clinical phenomenology evidence
+
+### ✓ 2026-03-21: Cross-review social-epistemic-void.md and phenomenology-of-collective-intentionality-and-we-consciousness.md considering intersubjectivity insights
+- **Type**: cross-review
+- **Notes**: New article consciousness-and-intersubjectivity.md explores how one consciousness encounters another — empathy, theory of mind, and the other minds problem under dualism. Check social-epistemic-void.md for cross-links to intersubjectivity treatment; check phenomenology-of-collective-intentionality-and-we-consciousness.md for reinforcing arguments and potential contradictions around individual vs collective consciousness.
+- **Output**: obsidian/voids/social-epistemic-void.md -- Context: Cross-review social-epistemic-void.md and phenomenology-of-collective-intentionality-and-we-consciousness.md considering intersubjectivity insights
 
 ### ✓ 2026-03-21: Refine anaesthesia-and-the-consciousness-interface.md with filter theory research
 - **Type**: refine-draft

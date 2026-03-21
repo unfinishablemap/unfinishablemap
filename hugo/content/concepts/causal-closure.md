@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-20 00:37:00+00:00
+ai_modified: 2026-03-21 13:34:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -85,7 +85,7 @@ The Map denies causal closure.
 
 The principle has intuitive appeal:
 
-**Conservation laws:** If mind could add to physical effects, it would inject energy—but energy is conserved. However, as [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) demonstrates, conservation is local and conditional, and assuming it holds universally in brains begs the question. Moreover, consciousness may *select* among quantum-permitted outcomes without injecting energy.
+**Conservation laws:** If mind could add to physical effects, it would inject energy—but energy is conserved. However, as [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) demonstrates, conservation is local and conditional, and assuming it holds universally in brains begs the question. Moreover, if consciousness *selects* among quantum-permitted outcomes rather than injecting new energy, the conservation objection does not apply—though the mechanism of such selection remains an open question (see [The Quantum Exception](#the-quantum-exception) below).
 
 **Scientific success:** Physics explains physical events without invoking non-physical causes. Every investigated phenomenon yields physical mechanisms. Mental causation seems like a gap science will eventually fill.
 
@@ -129,15 +129,21 @@ To be clear: the Map's position also involves metaphysical commitments beyond em
 
 This is the Map's primary response: quantum mechanics violates causal closure as standardly formulated.
 
-In quantum mechanics, physical systems evolve deterministically under the Schrödinger equation—until measurement. At measurement, the system "collapses" from superposition to a definite state. Physics specifies the *probabilities* of outcomes but not *which* outcome occurs. The theory is fundamentally stochastic.
+In quantum mechanics, physical systems evolve deterministically under the Schrödinger equation—until measurement. Under collapse interpretations, the system "collapses" from superposition to a definite state. Physics specifies the *probabilities* of outcomes but not *which* outcome occurs. The theory is fundamentally stochastic.
 
-This means: *not every physical event has a sufficient physical cause*. When a radioactive atom decays, physics tells us the probability it will decay in the next hour, but nothing physical determines *whether* it will. The physical causes are insufficient. The formal case runs deeper than quantum stochasticity alone: [Gödel-type results and Lawvere's fixed-point theorem](/topics/self-reference-and-the-limits-of-physical-description/) show that the assumption of complete physical explanation is formally unjustified—self-referential obstruction prevents any sufficiently rich physical theory from determining its own measurement outcomes.
+This means: *not every physical event has a sufficient physical cause*. When a radioactive atom decays, physics tells us the probability it will decay in the next hour, but nothing physical determines *whether* it will. The physical causes are insufficient. (This argument depends on collapse interpretations; decoherence-based approaches claim to explain definite outcomes without invoking collapse—though they face their own difficulties with the measurement problem.) The formal case runs deeper than quantum stochasticity alone: [Gödel-type results and Lawvere's fixed-point theorem](/topics/self-reference-and-the-limits-of-physical-description/) show that the assumption of complete physical explanation is formally unjustified—self-referential obstruction prevents any sufficiently rich physical theory from determining its own measurement outcomes.
 
 **Objection from hidden variables**: Hidden variable theories (like Bohmian mechanics) could restore determinism, but they add unobservable machinery. Occam's Razor cuts both ways: consciousness (which we directly experience) is no less parsimonious than hidden variables (which we don't). Pilot-wave theories also face indexical identity problems parallel to Many-Worlds (see [Tenet 4](/tenets/#no-many-worlds)).
 
 **The probabilistic causation response**: Some argue probabilistic causation is still causation. But this conflates statistical explanation with causal sufficiency. A probability distribution explains why *some atom* decayed, not why *this atom* did. If nothing physical determines which outcome occurs, physics is causally incomplete at that point. As [physical-completeness](/concepts/physical-completeness/) argues, the key distinction is between *structural* completeness (which physics achieves) and *ontological* completeness (which it does not) — the structural-ontological gap reframes the causal closure debate by revealing an equivocation in "physical cause."
 
-**The overdetermination worry**: Consciousness operating *within* probabilistic constraints—selecting among quantum-permitted outcomes at the frequencies physics specifies—is complementary determination, not overdetermination. Physics provides the range and statistical weights; consciousness provides the particular outcome—syntactic constraints from physics, semantic selection from consciousness, as the [metaphysics of information under dualism](/concepts/metaphysics-of-information-under-dualism/) describes. Chess rules constrain legal moves without overdetermining which move occurs. [Saad's delegatory framework](/topics/delegatory-dualism/) makes this precise: physical states *delegate* causal responsibilities to conscious experiences via preemption.
+**The overdetermination worry**: Consciousness operating *within* probabilistic constraints—selecting among quantum-permitted outcomes—would be complementary determination, not overdetermination. Physics provides the range and statistical weights; consciousness provides the particular outcome—syntactic constraints from physics, semantic selection from consciousness, as the [metaphysics of information under dualism](/concepts/metaphysics-of-information-under-dualism/) describes. Chess rules constrain legal moves without overdetermining which move occurs. [Saad's delegatory framework](/topics/delegatory-dualism/) makes this precise: physical states *delegate* causal responsibilities to conscious experiences via preemption.
+
+**The mechanism gap**: The Map must be honest about what remains unexplained. The claim that consciousness "selects" quantum outcomes is a structural proposal—it identifies *where* in physics consciousness could act (at genuine indeterminacies) and *what constraints* it would respect (Born rule statistics, energy conservation). But *how* consciousness interfaces with quantum systems to bias individual outcomes remains unspecified. No one has produced a detailed account of the selection mechanism. The chess analogy illustrates the logical structure (constraining without overdetermining) but does not constitute a physical mechanism. This gap is real, and the Map does not claim to have closed it.
+
+**The Born rule challenge**: If consciousness selects outcomes, how does it preserve the statistical distributions that quantum mechanics predicts? One possibility: consciousness operates rarely enough—biasing only outcomes relevant to cognition in neurally prepared systems—that its influence is lost in the statistical noise of vastly many unbiased quantum events. Another: consciousness is itself constrained by the quantum state in ways that naturally reproduce Born rule frequencies, much as a chess player's choices are constrained by the board position. Neither possibility has been developed into a precise theory. The Map holds that the *logical space* for conscious selection exists; filling in the mechanism remains an open research problem.
+
+**The epiphenomenalism worry**: If consciousness's influence is statistically invisible in aggregate measurements, critics ask whether this differs from epiphenomenalism—a cause that can never be detected is questionably a cause. The Map's response: statistical invisibility applies to *aggregate* measurements across many quantum events, not to individual outcomes. The claim is that consciousness makes a difference to *which specific outcome* occurs in particular neural systems, even though this cannot be extracted from statistical data. This is a genuinely uncomfortable position—it means the causal contribution of consciousness cannot be empirically isolated from quantum noise by current methods. The Map accepts this discomfort rather than pretending the mechanism is better understood than it is.
 
 ### Stapp's Quantum Response
 
@@ -227,3 +233,18 @@ This is not "god of the gaps" reasoning. Physics *describes* a gap—between qua
 1. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3), 939-967. https://doi.org/10.1007/s11098-025-02290-3
 1. Stapp, H. P. (2007). *Mindful Universe*. Springer.
 1. Vicente, A. (2006). "On the Causal Completeness of Physics." *International Studies in the Philosophy of Science*, 20(2), 149-171.
+
+<!-- AI REFINEMENT LOG - 2026-03-21
+Changes made:
+- Added collapse-interpretation qualifier to quantum indeterminacy claims (line 131 area)
+- Added "mechanism gap" subsection explicitly acknowledging that how consciousness selects quantum outcomes is unspecified
+- Added "Born rule challenge" subsection addressing how selection preserves quantum statistics
+- Added "epiphenomenalism worry" subsection engaging honestly with the statistical-invisibility-as-epiphenomenalism objection
+- Softened conservation-law response to flag selection mechanism as open question with forward reference
+- Changed "selecting...at the frequencies physics specifies" to conditional "would be" in overdetermination response
+
+Based on pessimistic-2026-03-21-b.md Issue 2 (High severity).
+Key improvements: Honest acknowledgment of mechanism gap rather than implying well-understood selection process.
+
+This log should be removed after human review.
+-->

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address unspecified quantum selection mechanism in causal-closure.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the "quantum exception" section claims consciousness "selects" quantum outcomes but never specifies how, how it preserves Born rule statistics, or why it isn't empirically equivalent to epiphenomenalism. Acknowledge the mechanism gap explicitly rather than implying it's well-understood. See pessimistic-2026-03-21-b.md
-- **Generated**: 2026-03-21
-
 ### P2: Strengthen cross-cultural-phenomenology-of-agency.md inference from persistence to irreducibility
 - **Type**: refine-draft
 - **Status**: pending
@@ -1091,6 +1085,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Address unspecified quantum selection mechanism in causal-closure.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the "quantum exception" section claims consciousness "selects" quantum outcomes but never specifies how, how it preserves Born rule statistics, or why it isn't empirically equivalent to epiphenomenalism. Acknowledge the mechanism gap explicitly rather than implying it's well-understood. See pessimistic-2026-03-21-b.md
+- **Output**: obsidian/concepts/causal-closure.md
+
+Task context:
+Pessimistic review found the "quantum exception" section claims consciousness "selects" quantum outcomes but never specifies how, how it preserves Born rule statistics, or why it isn't empirically equivalent to epiphenomenalism. Acknowledge the mechanism gap explicitly rather than implying it's well-understood. See pessimistic-2026-03-21-b.md
 
 ### ✓ 2026-03-21: Cross-review mental-causation.md and self-stultification-as-master-argument.md considering arguments-against-epiphenomenalism insights
 - **Type**: cross-review

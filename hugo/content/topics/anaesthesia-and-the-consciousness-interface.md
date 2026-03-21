@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-21 12:02:00+00:00
+ai_modified: 2026-03-21 12:49:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Anaesthetic pharmacology maps the consciousness-brain interface wit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-23 17:35:00+00:00
+last_deep_review: 2026-03-21 12:49:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -31,6 +31,8 @@ related_articles:
 - '[[mind-brain-separation]]'
 - '[[brain-interface-boundary]]'
 - '[[contemplative-pathology-and-interface-malfunction]]'
+- '[[contemplative-practice-as-philosophical-evidence]]'
+- '[[clinical-phenomenology-as-philosophical-evidence]]'
 - '[[temporal-structure-of-consciousness]]'
 - '[[self-stultification-as-master-argument]]'
 - '[[epistemology-of-other-minds-under-dualism]]'
@@ -46,9 +48,9 @@ The key insight is that anaesthetic agents are not interchangeable. Propofol, ke
 
 ## The Meyer-Overton Correlation and Its Limits
 
-For over a century, the Meyer-Overton correlation — the observation that anaesthetic potency correlates with lipid solubility — suggested that anaesthetics work through a single, simple mechanism: dissolving into cell membranes and disrupting neural function nonspecifically. If true, this would support a production model in which consciousness is a generic product of neural activity that can be generically suppressed.
+For over a century, the Meyer-Overton correlation — anaesthetic potency correlating with lipid solubility — suggested a single mechanism: nonspecific membrane disruption. This would support production models where consciousness is a generic product of neural activity that can be generically suppressed.
 
-The correlation has not survived modern pharmacology. Anaesthetics act through specific molecular targets: GABA-A receptors (propofol, sevoflurane), NMDA receptors (ketamine, xenon), two-pore potassium channels (volatile agents), and glycine receptors (several inhalational agents). Some compounds with high lipid solubility produce no anaesthesia at all, while others with low solubility are potent anaesthetics. The correlation was real but misleading — lipid solubility correlated with anaesthetic potency because the relevant protein targets happen to sit in lipid environments, not because lipid disruption itself causes unconsciousness.
+The correlation has not survived modern pharmacology. Anaesthetics act through specific molecular targets: GABA-A receptors (propofol, sevoflurane), NMDA receptors (ketamine, xenon), two-pore potassium channels (volatile agents), and glycine receptors (several inhalational agents). Some compounds with high lipid solubility produce no anaesthesia at all, while others with low solubility are potent anaesthetics. The correlation was real but misleading — relevant protein targets sit in lipid environments, but lipid disruption itself does not cause unconsciousness.
 
 This matters for the interface question. A nonspecific membrane effect would suggest consciousness depends on generic neural function. Specific receptor targets suggest it depends on particular molecular systems — precisely the kind of structured interface the Map's framework requires.
 
@@ -68,6 +70,8 @@ Ketamine, blocking NMDA receptors, produces a radically different pattern. Behav
 
 The xenon-ketamine contrast is particularly striking. Both are NMDA receptor antagonists, yet xenon extinguishes experience while ketamine preserves it. The difference lies in their secondary targets and network-level effects: xenon's broader action on two-pore potassium channels and its effects on thalamocortical connectivity suppress the phenomenal interface, while ketamine's more selective NMDA blockade severs the access channels while sparing it. Same primary receptor, opposite phenomenological outcomes — strong evidence that the interface's components are pharmacologically separable even at the level of a single receptor system.
 
+This pharmacological dissociation parallels the [contemplative discovery](/topics/contemplative-practice-as-philosophical-evidence/) that awareness can be distinguished from its contents — the same architectural feature revealed from opposite directions, with ketamine imposing the separation involuntarily and meditative practice achieving it through sustained training.
+
 On the Map's framework, ketamine disrupts the interface's access channels — the pathways through which consciousness connects to action and environmental engagement — while leaving the phenomenal interface largely intact. This is consistent with the [attention-motor architecture](/topics/the-interface-location-problem/) as a distinct interface layer: ketamine spares the posterior hot zone (phenomenal presence) while disrupting frontoparietal connectivity (access and control). The dissociation also bears on the [self-stultification problem](/topics/self-stultification-as-master-argument/): patients who later report vivid ketamine experiences demonstrate that consciousness maintained its causal connection to memory even when severed from behavioural output. If consciousness were epiphenomenal during the ketamine state, the reliability of these later reports would be [self-stultifying](/concepts/self-stultification/) — presupposing the very causal efficacy that epiphenomenalism denies.
 
 ### Temporal Binding
@@ -84,11 +88,11 @@ This dissociation — consciousness present, memory encoding absent — reveals 
 
 ## Graded Consciousness and Filter Theory Predictions
 
-A critical epistemological point frames this evidence: under normal conditions, production and transmission theories make identical predictions about brain-consciousness correlations. Both predict that disrupting neural activity will alter consciousness. The theories diverge only in abnormal cases — where consciousness persists despite severe neural disruption, or where different disruptions produce qualitatively different consciousness profiles rather than uniform dimming. Anaesthesia provides exactly these distinguishing cases.
+A critical epistemological point: under normal conditions, production and transmission theories make identical predictions. Both predict that disrupting neural activity alters consciousness. They diverge in abnormal cases — where consciousness persists despite severe disruption, or where different disruptions produce qualitatively different profiles rather than uniform dimming. Anaesthesia provides exactly these distinguishing cases.
 
-Researchers have decomposed conscious experience under anaesthesia into three separable components: wakefulness, internal awareness, and environmental connectedness (Bhatt et al., 2019). Different anaesthetic agents selectively impair different components of this triad, producing agent-specific consciousness profiles rather than uniform suppression. If the brain produces consciousness, anaesthesia should produce a relatively uniform dimming — consciousness fading as neural activity is suppressed, like a generator losing power. Instead, different agents produce qualitatively different profiles depending on which molecular targets they engage. Propofol and xenon suppress experience entirely; ketamine preserves rich inner experience while severing environmental connection; sub-anaesthetic doses of most agents create intermediate states where consciousness narrows without disappearing.
+Bhatt et al. (2019) decompose conscious experience under anaesthesia into three separable components: wakefulness, internal awareness, and environmental connectedness. Different agents selectively impair different components, producing agent-specific profiles rather than uniform suppression. If the brain produces consciousness, anaesthesia should produce relatively uniform dimming — like a generator losing power. Instead, different agents produce qualitatively different profiles depending on which molecular targets they engage. Propofol and xenon suppress experience entirely; ketamine preserves rich inner experience while severing environmental connection; sub-anaesthetic doses of most agents create intermediate states where consciousness narrows without disappearing.
 
-This pattern fits a narrowing filter better than a dimming generator. A generator losing power should produce quantitative reduction — less experience, uniformly. A filter being selectively restricted should produce qualitative transformation — different kinds of experience depending on which filter channels are narrowed. The pharmacological evidence overwhelmingly supports the latter pattern.
+This pattern fits a narrowing filter better than a dimming generator. A generator losing power should produce quantitative reduction — less experience, uniformly. A filter being selectively restricted should produce qualitative transformation — different kinds of experience depending on which channels are narrowed. The pharmacological evidence supports the latter pattern.
 
 The ketamine case also poses a specific challenge to integrated information theory (IIT), which identifies consciousness with integrated information (Phi). Under ketamine, brain complexity measured by PCI remains at waking levels — Phi is high — yet consciousness is disconnected from the environment rather than fully present. IIT predicts that high Phi should correspond to full consciousness, not a dissociated dream state. Filter theory accommodates this naturally: the brain's information integration capacity remains intact because consciousness is still engaging through the interface, but the environmental access channels have been pharmacologically blocked.
 
@@ -110,7 +114,7 @@ Clinical anaesthesiology has developed several technologies to monitor conscious
 
 The limitation is telling. No monitor directly detects the presence or absence of consciousness. All infer consciousness from neural signatures — and all fail in some cases. BIS monitoring cannot distinguish ketamine's vivid conscious states from propofol's phenomenal extinction, since both produce similar behavioural and some similar electroencephalographic patterns. PCI performs better by measuring cortical complexity, but even this tracks the neural side of the interface rather than consciousness per se.
 
-This measurement gap parallels a deeper philosophical point. If consciousness were identical to the neural processes being monitored, perfect monitoring should in principle be possible. The persistent gap between neural measurement and conscious presence is what the Map expects: monitors measure the physical interface, but the non-physical consciousness that engages through that interface cannot be captured by physical measurement alone. The [epistemology of other minds](/concepts/epistemology-of-other-minds-under-dualism/) applies with particular force here: inferring whether another person is conscious during anaesthesia is precisely the kind of judgement that depends on the interface framework. Under interactionism, behavioural evidence is reliable because consciousness causally shapes it — but anaesthesia disrupts exactly that causal channel.
+This measurement gap parallels a deeper philosophical point. If consciousness were identical to the neural processes being monitored, perfect monitoring should in principle be possible. The persistent gap between neural measurement and conscious presence is what the Map expects: monitors measure the physical interface, but consciousness itself cannot be captured by physical measurement alone. The [epistemology of other minds](/concepts/epistemology-of-other-minds-under-dualism/) applies with particular force here: inferring consciousness during anaesthesia depends on the interface framework, and anaesthesia disrupts exactly the causal channel through which consciousness normally shapes the behavioural evidence we rely on.
 
 ## Anaesthetic Resistance and Interface Variation
 
@@ -126,7 +130,7 @@ Anaesthesia demonstrates that specific molecular systems are necessary for the i
 
 The pharmacological map is also incomplete. Current anaesthetics were discovered largely through empirical trial rather than theoretical prediction. Undiscovered interface components — those not targeted by any known drug — would be invisible to pharmacological dissection. The map shows what current tools can reach, not the full territory.
 
-Finally, anaesthetic evidence cannot by itself distinguish between the Map's interactionist interpretation and a sophisticated functionalist account in which consciousness supervenes on specific neural dynamics. Both predict that disrupting particular molecular systems should alter consciousness in specific ways. The distinguishing evidence must come from convergence with other lines of enquiry — the [hard problem](/topics/hard-problem-of-consciousness/) itself, cases where consciousness persists despite profound neural disruption, and the parallel evidence from [contemplative pathology](/topics/contemplative-pathology-and-interface-malfunction/), where the same interface components identified pharmacologically can be disrupted from the consciousness side through meditative practice rather than molecular intervention.
+Finally, anaesthetic evidence cannot by itself distinguish between the Map's interactionist interpretation and a sophisticated functionalist account in which consciousness supervenes on specific neural dynamics. Both predict that disrupting particular molecular systems should alter consciousness in specific ways. The distinguishing evidence must come from convergence with other lines of enquiry — the [hard problem](/topics/hard-problem-of-consciousness/) itself, cases where consciousness persists despite profound neural disruption, and the parallel evidence from [contemplative pathology](/topics/contemplative-pathology-and-interface-malfunction/), where the same interface components identified pharmacologically can be disrupted from the consciousness side through meditative practice, and from [clinical phenomenology](/topics/clinical-phenomenology-as-philosophical-evidence/), where psychiatric and neurological conditions produce involuntary selective disruptions that map onto the same modular architecture. The convergence of pharmacological, contemplative, and clinical evidence — three independent methodologies revealing the same interface components from different directions — strengthens the case for genuine architectural structure beyond what any single evidence stream could establish.
 
 ## Relation to Site Perspective
 
@@ -160,6 +164,8 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 - [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Quantum biology, neural evidence convergence, and the consciousness debate
 - [binding-problem](/concepts/binding-problem/) — Temporal and spatial binding challenges relevant to anaesthetic disruption
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the mechanism through which consciousness acts
+- [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Voluntary contemplative evidence converging with pharmacological findings on the same interface architecture
+- [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/) — Clinical disruptions as the involuntary counterpart to pharmacological and contemplative evidence
 - [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis: anaesthetic dissociations compared with four other altered states in a convergence matrix
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain's resistance to reduction and the decisive test case of pain asymbolia
 

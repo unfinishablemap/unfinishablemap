@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-21 10:24:00+00:00
+ai_modified: 2026-03-21 12:34:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Human+AI investigation of how testimony, hermeneutical injustice, a
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-21 10:24:00+00:00
+last_deep_review: 2026-03-21 12:34:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -32,6 +32,7 @@ related_articles:
 - '[[intersubjectivity]]'
 - '[[consciousness-and-the-limits-of-explanation]]'
 - '[[consciousness-and-intersubjectivity]]'
+- '[[phenomenology-of-collective-intentionality-and-we-consciousness]]'
 title: The Social Epistemic Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -66,9 +67,9 @@ Eric Schwitzgebel argues that "we are prone to gross error, even in favorable ci
 
 What Schwitzgebel documents at the individual level becomes more troubling at the social level. We calibrate our introspective reports against what others report. If your experience of colour, of inner speech, of emotional texture differs from the apparent norm, you face two options: report the difference (risking incomprehension or dismissal) or adjust your self-understanding to match the consensus.
 
-The adjustment happens below the threshold of deliberate choice, beginning before language. Research on [intersubjectivity](/topics/consciousness-and-intersubjectivity/) shows that joint attention, social referencing, and protoconversational behaviour establish self-other alignment from early infancy—social calibration of phenomenal attention operates before a child has any explicit concepts for experience. As language develops, children learn which phenomenal reports are met with understanding and which with puzzlement. Over decades, this social calibration shapes not merely how people *describe* their experience but how they *attend* to it—which features they foreground, which they ignore, which they reinterpret to fit available categories.
+The adjustment begins before deliberate choice, before language. Research on [intersubjectivity](/topics/consciousness-and-intersubjectivity/) shows that joint attention, social referencing, and protoconversational behaviour establish self-other alignment from early infancy—social calibration of phenomenal attention operates before a child has any explicit concepts for experience. As language develops, children learn which phenomenal reports are met with understanding and which with puzzlement. Over decades, this shapes not merely how people *describe* their experience but how they *attend* to it—which features they foreground, which they ignore, which they reinterpret to fit available categories.
 
-This mechanism explains a puzzle: why do people seem to agree so readily about phenomenal experience when the [intersubjective-void](/voids/intersubjective-void/) suggests such agreement should be nearly impossible to verify? The agreement may be partly an artifact of social calibration—we have trained each other to report experiences using shared categories, and this training masks whatever underlying phenomenal diversity exists.
+This mechanism explains a puzzle: why do people seem to agree so readily about phenomenal experience when the [intersubjective-void](/voids/intersubjective-void/) suggests such agreement should be nearly impossible to verify? The agreement may be partly an artifact of social calibration—we have trained each other to report experiences using shared categories, and this training masks whatever underlying phenomenal diversity exists. The effect deepens in collective contexts: what Zahavi calls [we-mode phenomenology](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/) transforms the experiential perspective itself, so that participants in joint activities, rituals, or collective effervescence experience phenomenal conformity not as compliance but as shared reality—social calibration operating at the level of experiential structure, not merely verbal report.
 
 ## The Private Language Barrier
 
@@ -126,6 +127,7 @@ The social dimension of explanation connects to a deeper structural issue. [Cons
 - [Consciousness and Testimony](/topics/consciousness-and-testimony/) — Testimony requires consciousness yet cannot fully convey it
 - [Intersubjectivity](/concepts/intersubjectivity/) — The shared space between minds
 - [Consciousness and Intersubjectivity](/topics/consciousness-and-intersubjectivity/) — Whether consciousness is ontologically individual or constitutively shaped by encounter with other minds
+- [Collective Intentionality and We-Consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/) — How we-mode phenomenology transforms individual experience in collective contexts
 - [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) — Why explanation itself presupposes the phenomenal understanding that social epistemology cannot validate
 
 ## References

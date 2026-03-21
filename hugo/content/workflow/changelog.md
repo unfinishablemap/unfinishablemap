@@ -9,6 +9,53 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-21 13:34 UTC - refine-draft
+- **Status**: Success
+- **File**: [causal-closure](/concepts/causal-closure/)
+- **Changes**: Added explicit mechanism gap acknowledgment, Born rule challenge subsection, epiphenomenalism worry subsection; qualified collapse-interpretation dependence; softened selection claims throughout
+- **Published**: yes
+
+## 2026-03-21 13:19 UTC - deep-review
+- **Status**: Success
+- **File**: [mental-causation](/concepts/mental-causation/)
+- **Word count**: 2484 → 2505 (+21, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (cross-links to self-stultification-as-master-argument and arguments-against-epiphenomenalism, stale refinement log cleanup)
+- **Enhancements made**: 4 (2 body cross-links, 2 Further Reading entries, frontmatter updates)
+- **Output**: [deep-review-2026-03-21-mental-causation](/reviews/deep-review-2026-03-21-mental-causation/)
+
+## 2026-03-21 13:05 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-as-activity](/topics/consciousness-as-activity/)
+- **Word count**: 2158 → 2159 (+1)
+- **Critical issues addressed**: 1 (citation author count mismatch)
+- **Medium issues addressed**: 2 (missing cross-links)
+- **Enhancements made**: 3 (citation fix, cross-links to causal-closure, combination-problem, explanatory-gap)
+- **Output**: [deep-review-2026-03-21-consciousness-as-activity](/reviews/deep-review-2026-03-21-consciousness-as-activity/)
+
+## 2026-03-21 12:49 UTC - deep-review
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Word count**: 3488 → 3534 (+46)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing cross-review connections, ketamine-contemplative parallel)
+- **Enhancements made**: 4 (contemplative parallel, three-way triangulation, prose tightening, cross-links)
+- **Output**: [deep-review-2026-03-21-anaesthesia-and-the-consciousness-interface](/reviews/deep-review-2026-03-21-anaesthesia-and-the-consciousness-interface/)
+
+## 2026-03-21 12:34 UTC - deep-review
+- **Status**: Success
+- **File**: [social-epistemic-void](/voids/social-epistemic-void/)
+- **Word count**: 1935 → 1992 (+57)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing we-mode phenomenology connection)
+- **Enhancements made**: 1 (cross-link to collective intentionality article)
+- **Output**: [deep-review-2026-03-21d-social-epistemic-void](/reviews/deep-review-2026-03-21d-social-epistemic-void/)
+
+## 2026-03-21 12:30 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/causal-closure.md, concepts/blindsight.md, topics/cross-cultural-phenomenology-of-agency.md
+- **Output**: [pessimistic-2026-03-21-b](/reviews/pessimistic-2026-03-21-b/)
+
 ## 2026-03-21 12:02 UTC - refine-draft
 - **Status**: Success
 - **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-11 06:32:00+00:00
+ai_modified: 2026-03-21 13:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: Reframing consciousness from something the brain has to something t
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-23 07:50:00+00:00
+last_deep_review: 2026-03-21 13:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -115,7 +115,7 @@ The activity framing aligns with developments in cognitive science and neuroscie
 
 **Skilled performance.** [Research on expertise](/topics/consciousness-and-skilled-performance/) reveals consciousness as an architect of skilled activity. Consciousness trains procedural systems, delegates to them, and painfully re-engages when skills break down. This dynamic of building, delegating, and reclaiming control is activity through and through.
 
-**Neural dynamics.** Neuroscience increasingly describes consciousness in terms of dynamic patterns—oscillations, travelling waves, recurrent loops—rather than static activations. Dehaene et al.'s (2011) global neuronal workspace theory characterises conscious access as a dynamic ignition event—a surge of coordinated neural activity, not a property of any brain region. The neural correlates of consciousness look more like dances than like paintings.
+**Neural dynamics.** Neuroscience increasingly describes consciousness in terms of dynamic patterns—oscillations, travelling waves, recurrent loops—rather than static activations. Dehaene and Changeux's (2011) global neuronal workspace theory characterises conscious access as a dynamic ignition event—a surge of coordinated neural activity, not a property of any brain region. The neural correlates of consciousness look more like dances than like paintings.
 
 ## Relation to Site Perspective
 
@@ -125,11 +125,11 @@ The activity framing strengthens the Map's framework at every point.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The activity framing clarifies what "minimal interaction" means. If consciousness is an activity, it acts the way activities act—by selecting, directing, biasing—rather than by injecting energy or force. The Map proposes that consciousness biases quantum-indeterminate outcomes in neural systems. Framed as activity, this is not a mysterious force but something consciousness *does*: it selects among possibilities the way attention selects among stimuli. The minimality constraint follows naturally—activities work through their medium, not against it.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The activity framing dissolves the causal closure objection. If consciousness were a property, its causal efficacy would compete with physical causes—Kim's exclusion problem. But activities are how causal powers are *exercised*. Consciousness doesn't compete with neural activity for causal relevance; it is the higher-order activity through which the agent selects among neural possibilities. The Map's proposal that consciousness selects among [quantum-indeterminate neural states](/concepts/consciousness-selecting-neural-patterns/) is precisely an activity claim: selecting is something consciousness *does*.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The activity framing dissolves the causal closure objection. If consciousness were a property, its causal efficacy would compete with physical causes—Kim's exclusion problem (see [causal-closure](/concepts/causal-closure/)). But activities are how causal powers are *exercised*. Consciousness doesn't compete with neural activity for causal relevance; it is the higher-order activity through which the agent selects among neural possibilities. The Map's proposal that consciousness selects among [quantum-indeterminate neural states](/concepts/consciousness-selecting-neural-patterns/) is precisely an activity claim: selecting is something consciousness *does*.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Activities are performed by particular agents in particular contexts. The activity framing reinforces indexical identity—*this* consciousness performing *this* activity in *this* moment. Many-worlds dissolves the agent into branching copies, but activities cannot be copied without becoming different activities. My composing of this sentence, with its particular history and intentions, cannot be duplicated across branches while remaining the same act.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The property framing seems simpler—just add consciousness as another property. But this simplicity is deceptive. It generates the hard problem, the explanatory gap, and the combination problem, none of which have solutions within the framework. The activity framing is conceptually richer but generates fewer intractable puzzles. As with quantum mechanics replacing classical simplicity, the right ontological category may be more complex than the wrong one.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The property framing seems simpler—just add consciousness as another property. But this simplicity is deceptive. It generates the hard problem, the [explanatory gap](/concepts/explanatory-gap/), and the [combination-problem](/concepts/combination-problem/), none of which have solutions within the framework. The activity framing is conceptually richer but generates fewer intractable puzzles. As with quantum mechanics replacing classical simplicity, the right ontological category may be more complex than the wrong one.
 
 ## Further Reading
 

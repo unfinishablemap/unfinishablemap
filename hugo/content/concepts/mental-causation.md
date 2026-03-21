@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-21 00:57:00+00:00
+ai_modified: 2026-03-21 13:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -38,13 +38,15 @@ description: How mental states cause physical effects despite Kim's exclusion ar
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-19 13:25:00+00:00
+last_deep_review: 2026-03-21 13:19:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[phenomenology-mechanism-bridge]]'
 - '[[arguments/epiphenomenalism-argument]]'
 - '[[metaproblem-of-consciousness-under-dualism]]'
+- '[[self-stultification-as-master-argument]]'
+- '[[arguments-against-epiphenomenalism]]'
 title: Mental Causation
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -142,7 +144,7 @@ If consciousness causes physical effects, why only in *this* brain? The [pairing
 
 ## The Self-Stultification Argument
 
-The strongest positive argument for mental causation is the self-stultification problem. The [formal argument against epiphenomenalism](/arguments/epiphenomenalism/):
+The strongest positive argument for mental causation is [self-stultification](/topics/self-stultification-as-master-argument/). The [formal argument against epiphenomenalism](/arguments/epiphenomenalism/):
 
 1. We discuss consciousness — we write about qualia, debate the hard problem, report our experiences
 2. If epiphenomenalism is true, these discussions are not caused by consciousness itself
@@ -168,7 +170,7 @@ Mental causation is central to the Map's framework.
 
 **Strong Emergence**: the Map's position can be understood as strong [emergentism](/concepts/emergence/) with a mechanism. The quantum framework specifies *where* and *how*: at indeterminacies, through biasing probabilities.
 
-**Against Epiphenomenalism**: The [self-stultification argument](/concepts/epiphenomenalism/) shows mental causation must occur. If consciousness causes nothing, we can't rationally believe anything about consciousness.
+**Against Epiphenomenalism**: The [cumulative case](/concepts/arguments-against-epiphenomenalism/) shows mental causation must occur. Self-stultification is the strongest blade: if consciousness causes nothing, we can't rationally believe anything about consciousness.
 
 **Agent Causation**: The [agent-causal framework](/concepts/agent-causation/) provides the metaphysics. The conscious subject exercises causal powers at quantum openings, addressing Kim's exclusion argument by rejecting its event-causal assumptions.
 
@@ -219,6 +221,8 @@ Mental causation, as defended here, is falsifiable:
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention implements the consciousness-physics interface
 - [mind-matter-interface](/concepts/mind-matter-interface/) — The unified two-layer architecture integrating filter theory and quantum selection
 - [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — The realizationism argument: self-stultification applied to problem intuitions
+- [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — Self-stultification generalised beyond epiphenomenalism
+- [arguments-against-epiphenomenalism](/concepts/arguments-against-epiphenomenalism/) — Four independent argument types converging against causal inertness
 
 ## References
 
@@ -235,12 +239,3 @@ Mental causation, as defended here, is falsifiable:
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Woodward, J. (2003). *Making Things Happen*. Oxford University Press.
 1. Yablo, S. (1992). Mental Causation. *Philosophical Review*, 101: 245-280.
-
-<!-- AI REFINEMENT LOG - 2026-03-20
-Changes made:
-- Added cross-link to metaproblem-of-consciousness-under-dualism in self-stultification section (parallel realizationism argument)
-- Added metaproblem to related_articles frontmatter and Further Reading
-
-Based on optimistic-2026-03-20-midday.md cross-linking suggestions.
-This log should be removed after human review.
--->
