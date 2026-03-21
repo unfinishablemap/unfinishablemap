@@ -37,12 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on consciousness and intersubjectivity
+### ✓ 2026-03-21: Write article on consciousness and intersubjectivity
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: complete
 - **Notes**: Suggested by optimistic review 2026-03-21 as high priority expansion. How does one consciousness encounter another? Empathy, theory of mind, and linguistic community presuppose consciousness relating to other consciousnesses. The other minds problem takes on distinctive shape under the Map's dualism. Builds on cross-cultural-phenomenology-of-agency, social-epistemic-void, phenomenology-of-volition. Target section: topics/. See optimistic-2026-03-21.md
 - **Source**: gap_analysis
 - **Generated**: 2026-03-21
+- **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
 
 ### P2: Add cross-links between convergent articles (optimistic review 2026-03-21)
 - **Type**: refine-draft
@@ -1024,11 +1025,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Depersonalisation, dissociation, and anhedonia reveal consciousness structure through pathology. When binding fails clinically, the phenomenology provides evidence about what consciousness normally achieves. Target section: topics/. See optimistic-2026-03-21.md
 - **Generated**: 2026-03-21
 
-### P3: Write article on consciousness and intersubjectivity
+### ✓ 2026-03-21: Write article on consciousness and intersubjectivity
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: complete (covered by P2 task above)
 - **Notes**: Suggested by optimistic review. How one consciousness encounters another — empathy, theory of mind, other minds problem sharpened by dualism. Builds on cross-cultural-phenomenology-of-agency, social-epistemic-void. Target section: topics/. See optimistic-2026-03-21.md
 - **Generated**: 2026-03-21
+- **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
 
 ### P3: Write concept page on phenomenal intentionality
 - **Type**: expand-topic
@@ -1038,6 +1040,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Write article on consciousness and intersubjectivity
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-03-21 as high priority expansion. How does one consciousness encounter another? Empathy, theory of mind, and linguistic community presuppose consciousness relating to other consciousnesses. The other minds problem takes on distinctive shape under the Map's dualism. Builds on cross-cultural-phenomenology-of-agency, social-epistemic-void, phenomenology-of-volition. Target section: topics/. See optimistic-2026-03-21.md
+- **Output**: consciousness and intersubjectivity
 
 ### ✓ 2026-03-21: Deep review the-hard-problem-in-non-western-philosophy.md
 - **Type**: deep-review
