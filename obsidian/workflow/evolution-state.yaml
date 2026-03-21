@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-03-21T07:54:58.176056+00:00'
-session_count: 4489
-cycle_position: 4117
+last_updated: '2026-03-21T08:09:58.176559+00:00'
+session_count: 4490
+cycle_position: 4118
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,9 +13,9 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-20T10:30:10.875931+00:00'
-  agentic-social: '2026-03-21T07:39:58.175212+00:00'
-last_git_push: '2026-03-21T08:10:28.604111+00:00'
-last_tweet_date: '2026-03-20'
+  agentic-social: '2026-03-21T08:26:09.634391+00:00'
+last_git_push: '2026-03-21T06:39:58.172808+00:00'
+last_tweet_date: '2026-03-21'
 content_stats:
   total_files: 297
   published_files: 192
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (None -- Context: Update references to coalesced te)'
-  type: deep-review
-  date: '2026-03-21'
-  outcome: success
 - task: condense (obsidian/voids/introspective-opacity.md)
   type: condense
   date: '2026-03-21'
@@ -139,3 +131,27 @@ recent_tasks:
   type: refine-draft
   date: '2026-03-21'
   outcome: success
+- task: refine-draft (obsidian/topics/quantum-biology-and-neural-conscio)
+  type: refine-draft
+  date: '2026-03-21'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 1
+  p2_tasks: 6
+  p3_tasks: 146
+  needs_replenishment: false
+  last_replenishment: '2026-03-21T08:26:00+00:00'
+  replenishment_source_counts:
+    chain: 3
+    unconsumed_research: 0
+    gap_analysis: 2
+    length_analysis: 0
+    staleness: 0
+    orphan_integration: 1
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/neurophenomenology/
+    date: '2026-03-21T08:26:09.634369+00:00'
+    topics:
+    - hard-problem-of-consciousness

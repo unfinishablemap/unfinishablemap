@@ -45,6 +45,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-21
 - **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
 
+### P1: Create concept page for epistemological-limits-of-occams-razor
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Referenced 21 times across active content but has no concept page. Directly supports Tenet 5 (Occam's Razor Has Limits). Critical gap — readers following wikilinks reach a dead end. Target section: concepts/.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-21
+
+### P2: Cross-review phenomenology-of-collective-intentionality-and-we-consciousness.md considering intersubjectivity insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article consciousness-and-intersubjectivity.md (2026-03-21) directly references we-consciousness and shared intentionality. Check for cross-links, reinforcing arguments about intersubjective constitution of consciousness, or contradictions between individual interface model and collective intentionality.
+- **Source**: chain (from consciousness-and-intersubjectivity.md)
+- **Generated**: 2026-03-21
+
+### P2: Cross-review epistemology-of-other-minds-under-dualism.md considering intersubjectivity insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article consciousness-and-intersubjectivity.md (2026-03-21) explores whether consciousness is constitutively intersubjective. Check for cross-links, whether the intersubjectivity argument strengthens or complicates the epistemological analysis, and terminology consistency.
+- **Source**: chain (from consciousness-and-intersubjectivity.md)
+- **Generated**: 2026-03-21
+
+### P2: Integrate parsimony-failure-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound wikilinks. Add cross-references from related articles (e.g., parsimony, occams-razor, Tenet 5 articles) or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-21
+
+### P2: Cross-review social-epistemic-void.md considering intersubjectivity insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article consciousness-and-intersubjectivity.md (2026-03-21) addresses how one consciousness encounters another. The social epistemic void directly concerns limits of intersubjective knowledge. Check for cross-links and whether the intersubjectivity framework enriches the void's analysis.
+- **Source**: chain (from consciousness-and-intersubjectivity.md)
+- **Generated**: 2026-03-21
+
+### P2: Create concept page for epiphenomenalism-argument
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Referenced 6 times across active content but has no concept page. Related to existing epiphenomenalism.md concept but distinct — focuses on the argument structure (from causal closure to epiphenomenalism as a reductio). Target section: concepts/.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-21
+
 ### P3: Deep review subjective-aim.md
 - **Type**: deep-review
 - **Status**: pending
