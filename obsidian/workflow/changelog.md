@@ -5,6 +5,11 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 23:17 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Wheeler's participatory universe and "it from bit"
+- **Reason**: Research already consumed by two existing articles: [[topics/the-participatory-universe]] (2026-02-22) and [[topics/it-from-bit-and-participatory-ontology]] (2026-03-15). Both are comprehensive, recently deep-reviewed, and cover all material from the three research notes. Task was a replenishment false positive from unconsumed_research detection.
+
 ## 2026-03-21 23:12 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-limits-of-explanation]]
