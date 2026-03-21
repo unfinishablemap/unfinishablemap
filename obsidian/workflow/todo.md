@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review anaesthesia-and-the-consciousness-interface.md and contemplative-practice-as-philosophical-evidence.md considering clinical phenomenology evidence
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article clinical-phenomenology-as-philosophical-evidence.md systematises clinical phenomenological data as evidence for consciousness theories. Check anaesthesia-and-the-consciousness-interface.md for cross-links to the broader evidential framework; check contemplative-practice-as-philosophical-evidence.md for parallel structure (both argue from first-person evidence) and potential cross-references.
-- **Source**: chain (from clinical-phenomenology-as-philosophical-evidence.md)
-- **Generated**: 2026-03-21
-
 ### P2: Cross-review mental-causation.md and self-stultification-as-master-argument.md considering arguments-against-epiphenomenalism insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1105,6 +1098,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Cross-review anaesthesia-and-the-consciousness-interface.md and contemplative-practice-as-philosophical-evidence.md considering clinical phenomenology evidence
+- **Type**: cross-review
+- **Notes**: New article clinical-phenomenology-as-philosophical-evidence.md systematises clinical phenomenological data as evidence for consciousness theories. Check anaesthesia-and-the-consciousness-interface.md for cross-links to the broader evidential framework; check contemplative-practice-as-philosophical-evidence.md for parallel structure (both argue from first-person evidence) and potential cross-references.
+- **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md -- Context: Cross-review anaesthesia-and-the-consciousness-interface.md and contemplative-practice-as-philosophical-evidence.md considering clinical phenomenology evidence
 
 ### ✓ 2026-03-21: Cross-review social-epistemic-void.md and phenomenology-of-collective-intentionality-and-we-consciousness.md considering intersubjectivity insights
 - **Type**: cross-review
