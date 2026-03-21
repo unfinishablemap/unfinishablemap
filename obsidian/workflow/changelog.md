@@ -5,6 +5,16 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 09:10 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-collective-intentionality-and-we-consciousness]]
+- **Word count**: 2282 → 2308 (+26)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing cross-links to consciousness-and-intersubjectivity and social-epistemic-void)
+- **Enhancements made**: 2 (reciprocal cross-link in body, frontmatter updates)
+- **Output**: [[reviews/deep-review-2026-03-21-phenomenology-of-collective-intentionality-and-we-consciousness]]
+- **Notes**: Cross-review against new consciousness-and-intersubjectivity article. Third review — article has reached stability.
+
 ## 2026-03-21 08:54 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[concepts/epistemological-limits-parsimony]], [[concepts/parsimony-failure-consciousness]]
