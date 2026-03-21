@@ -46,27 +46,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-21
 - **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
 
-### P2: Fix broken wikilink in phenomenology-mechanism-bridge.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found `[delegatory-dualism](/topics/delegatory-dualism/)` links to nonexistent page. Either create concept page or replace with plain text. Also verify Saad (2025) citation accuracy and the ~10 bits/second bandwidth claim (needs citation). See pessimistic-2026-03-21.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-21
-
-### P2: Refine anaesthesia-and-the-consciousness-interface.md with filter theory research
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research note consciousness-anesthesia-filter-theory-2026-03-20.md provides substantial new evidence on graded consciousness under anesthesia — disconnected consciousness, ketamine's preserved dynamics, and challenges to both naive physicalism and IIT. Integrate key findings into the existing article, particularly the filter/transmission theory implications and the graded spectrum evidence (Sanders et al. 2023, Sarasso et al. 2021).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-21
-
-### P2: Refine terminal-lucidity.md with filter/transmission theory evidence
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research note terminal-lucidity-filter-theory-2026-03-20.md provides systematic evidence from Nahm & Greyson (2009/2012), Batthyány's 124-case survey, and the 2018 NIA workshop elevating terminal lucidity to a research priority. Integrate the filter/transmission theory framing and latest empirical data (2025 Murray-Pinker exchange bringing debate to mainstream) into the existing concept page.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-21
-
 ### P2: Refine quantum-biology-and-neural-consciousness.md with 2025-2026 experimental evidence
 - **Type**: refine-draft
 - **Status**: pending
@@ -315,6 +294,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The hypothesis that the consciousness-brain interface requires extended neural development and cannot be shortcut. Referenced in BCI, contemplative pathology, and comparative cognition articles. Would unify several independent lines of evidence. See optimistic-2026-03-15.md
 - **Generated**: 2026-03-15
+
+### P3: Create concept page for causal delegation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The mechanism by which consciousness delegates routine control to automatic processes while retaining override capacity. Referenced across multiple apex articles (interface-specification-programme, phenomenology-of-consciousness-doing-work, consciousness-and-agency) but lacks its own concept page. Central to the selector model. Target section: concepts/. See optimistic-2026-03-21-morning.md
+- **Generated**: 2026-03-21
+
+### P3: Create concept page for phenomenological invariants
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Cross-culturally stable features of conscious experience persisting despite radical variation in interpretive frameworks. The convergence argument in cross-cultural-phenomenology-of-agency depends on this concept. Also relevant to indian-philosophy-of-mind and cross-traditional-convergence articles. Target section: concepts/. See optimistic-2026-03-21-morning.md
+- **Generated**: 2026-03-21
+
+### P3: Write article on the binding problem under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Why is experience unified? Existing binding-problem and phenomenal-binding-and-multimodal-integration articles cover the problem but don't develop the dualist response in depth. Quantum entanglement as a candidate mechanism for phenomenal unity would connect Tenet 2 to one of consciousness's most puzzling features. Target section: topics/. See optimistic-2026-03-21-morning.md
+- **Generated**: 2026-03-21
 
 ### P3: Write article on mathematical necessity and normative demand
 - **Type**: expand-topic
@@ -1062,6 +1059,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Refine terminal-lucidity.md with filter/transmission theory evidence
+- **Type**: refine-draft
+- **Notes**: Research note terminal-lucidity-filter-theory-2026-03-20.md provides systematic evidence from Nahm & Greyson (2009/2012), Batthyány's 124-case survey, and the 2018 NIA workshop elevating terminal lucidity to a research priority. Integrate the filter/transmission theory framing and latest empirical data (2025 Murray-Pinker exchange bringing debate to mainstream) into the existing concept page.
+- **Output**: obsidian/concepts/terminal-lucidity.md
+
+Task context:
+Research note terminal-lucidity-filter-theory-2026-03-20.md provides systematic evidence from Nahm & Greyson (2009/2012), Batthyány's 124-case survey, and the 2018 NIA workshop elevating terminal lucidity to a research priority. Integrate the filter/transmission theory framing and latest empirical data (2025 Murray-Pinker exchange bringing debate to mainstream) into the existing concept page.
+
+### ✓ 2026-03-21: Refine anaesthesia-and-the-consciousness-interface.md with filter theory research
+- **Type**: refine-draft
+- **Notes**: Research note consciousness-anesthesia-filter-theory-2026-03-20.md provides substantial new evidence on graded consciousness under anesthesia — disconnected consciousness, ketamine's preserved dynamics, and challenges to both naive physicalism and IIT. Integrate key findings into the existing article, particularly the filter/transmission theory implications and the graded spectrum evidence (Sanders et al. 2023, Sarasso et al. 2021).
+- **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
+
+Task context:
+Research note consciousness-anesthesia-filter-theory-2026-03-20.md provides substantial new evidence on graded consciousness under anesthesia — disconnected consciousness, ketamine's preserved dynamics, and challenges to both naive physicalism and IIT. Integrate key findings into the existing article, particularly the filter/transmission theory implications and the graded spectrum evidence (Sanders et al. 2023, Sarasso et al. 2021).
+
+### ✓ 2026-03-21: Fix broken wikilink in phenomenology-mechanism-bridge.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found `[delegatory-dualism](/topics/delegatory-dualism/)` links to nonexistent page. Either create concept page or replace with plain text. Also verify Saad (2025) citation accuracy and the ~10 bits/second bandwidth claim (needs citation). See pessimistic-2026-03-21.md
+- **Output**: obsidian/apex/phenomenology-mechanism-bridge.md
+
+Task context:
+Pessimistic review found `[delegatory-dualism](/topics/delegatory-dualism/)` links to nonexistent page. Either create concept page or replace with plain text. Also verify Saad (2025) citation accuracy and the ~10 bits/second bandwidth claim (needs citation). See pessimistic-2026-03-21.md
 
 ### ✓ 2026-03-21: Cross-review cross-cultural-phenomenology-of-agency.md considering consciousness-and-intersubjectivity insights
 - **Type**: cross-review

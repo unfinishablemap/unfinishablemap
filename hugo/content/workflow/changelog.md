@@ -9,6 +9,38 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-21 07:54 UTC - refine-draft
+- **Status**: Success
+- **File**: [terminal-lucidity](/concepts/terminal-lucidity/)
+- **Changes**: Enriched filter/transmission theory section with Bergson/James/Huxley intellectual lineage; expanded Murray-Pinker exchange with specific rhetorical framing; added 3 historical references
+- **Published**: yes
+
+## 2026-03-21 07:40 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 225 topics, 218 concepts, 5 apex articles, 1 tenets document (all non-draft)
+- **Output**: [optimistic-2026-03-21-morning](/reviews/optimistic-2026-03-21-morning/)
+
+## 2026-03-21 07:24 UTC - refine-draft
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Changes**: Added Noreika et al. (2018) implicit processing evidence to Memory Encoding section; added inline citations for cardiac arrest evidence (Xu et al. 2023, Parnia et al. 2023); added 3 new references
+- **Published**: yes
+
+## 2026-03-21 07:09 UTC - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/)
+- **Changes**: Added citations for ~10 bits/s bandwidth (Nørretranders 1998) and 60% prediction accuracy (Soon et al. 2008); acknowledged circularity risk in quantum Zeno mechanism and recharacterized Level Three as candidate mechanism; weakened coherence-as-evidence claims; improved MWI engagement with substantive response to Wallace's decision-theoretic argument; verified delegatory-dualism wikilink and Saad citation (both valid)
+- **Published**: yes
+
+## 2026-03-21 06:55 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/)
+- **Word count**: 2360 → 2439 (+79)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 4 (neonatal imitation replication caveat, softened quantum mechanism, Zahavi attribution fix, cross-links to theory-of-mind and embodied-cognition)
+- **Output**: [deep-review-2026-03-21-consciousness-and-intersubjectivity](/reviews/deep-review-2026-03-21-consciousness-and-intersubjectivity/)
+
 ## 2026-03-21 06:39 UTC - deep-review
 - **Status**: Success
 - **File**: [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/)

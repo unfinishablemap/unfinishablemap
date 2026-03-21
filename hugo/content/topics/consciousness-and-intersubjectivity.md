@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-03-21 05:39:00+00:00
+ai_modified: 2026-03-21 06:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,6 +18,7 @@ description: Is consciousness constitutively intersubjective or fundamentally so
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-03-21 06:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -48,7 +49,7 @@ Three broad positions define the philosophical landscape:
 
 **Intersubjectivity first.** The rival view, developed most forcefully in the phenomenological tradition, holds that consciousness is constitutively intersubjective. You cannot peel away all intersubjective relations and find a residual "pure" consciousness underneath. Heidegger's *Mitsein* (being-with) is an existential structure of *Dasein* — not something added to a pre-existing subject but part of what it means to be the kind of being we are. Levinas goes further: the encounter with the Other is ethically prior to self-consciousness. The face of the Other interrupts solitary existence and constitutes the subject as responsible before it constitutes itself as autonomous.
 
-**Co-emergence.** A middle position holds that neither individual consciousness nor intersubjectivity is prior. Both emerge together, each requiring the other. Merleau-Ponty's account of intercorporeality — the way my body and your body are woven into a shared perceptual field — suggests that selfhood and otherness arise simultaneously from embodied encounter. There is no moment when consciousness exists without at least the structural possibility of intersubjective relation.
+**Co-emergence.** A middle position holds that neither individual consciousness nor intersubjectivity is prior. Both emerge together, each requiring the other. Merleau-Ponty's account of intercorporeality — the way my body and your body are woven into a shared perceptual field (see [embodied-cognition](/concepts/embodied-cognition/)) — suggests that selfhood and otherness arise simultaneously from embodied encounter. There is no moment when consciousness exists without at least the structural possibility of intersubjective relation.
 
 ## What Phenomenology Reveals
 
@@ -76,11 +77,11 @@ This embodied intersubjectivity has developmental support. Infants engage in pro
 
 Developmental psychology complicates the priority question. If individual consciousness were genuinely prior and intersubjectivity derivative, one would expect infants to begin in experiential isolation and gradually develop intersubjective capacities. The evidence suggests otherwise.
 
-**Joint attention.** By 9-12 months, infants engage in joint attention — coordinating their gaze with a caregiver to share focus on an object. Tomasello (1995) argues this represents a qualitative shift: the infant is not merely tracking what another organism looks at but grasping that the other *sees* the object, that there is another perspective on the shared world. Joint attention is the developmental gateway to language, cultural learning, and the entire edifice of shared meaning.
+**Joint attention.** By 9-12 months, infants engage in joint attention — coordinating their gaze with a caregiver to share focus on an object. Tomasello (1995) argues this represents a qualitative shift: the infant is not merely tracking what another organism looks at but grasping that the other *sees* the object, that there is another perspective on the shared world. This capacity is foundational to [theory-of-mind](/concepts/theory-of-mind/) development. Joint attention is the developmental gateway to language, cultural learning, and the entire edifice of shared meaning.
 
 **Social referencing.** From around 12 months, infants look to caregivers' emotional expressions when encountering novel situations, using the other's felt response to calibrate their own. This presupposes not just perceiving another's emotional expression but treating it as informative about the shared world — a rudimentary form of intersubjective knowledge.
 
-**Imitation.** Meltzoff and Moore's (1977) finding that neonates imitate facial gestures — tongue protrusion, mouth opening — within hours of birth suggests that the mapping between self and other is present from the outset. The infant must somehow connect the sight of another's face (which they have never seen from the outside) with the felt movements of their own face (which they have never seen at all). This cross-modal mapping is precisely what intercorporeality predicts: the self-other boundary is permeable from the beginning.
+**Imitation.** Meltzoff and Moore's (1977) finding that neonates imitate facial gestures — tongue protrusion, mouth opening — within hours of birth suggested that the mapping between self and other is present from the outset. The infant must somehow connect the sight of another's face (which they have never seen from the outside) with the felt movements of their own face (which they have never seen at all). This cross-modal mapping is what intercorporeality predicts. However, the finding remains contested: Oostenbroek et al. (2016) failed to replicate neonatal imitation in a large longitudinal study, suggesting the original results may reflect general arousal rather than genuine other-recognition. Whether neonatal imitation is real or not, the broader pattern — that intersubjective capacities emerge very early — is well established through joint attention, social referencing, and protoconversational behaviour.
 
 These findings do not prove that intersubjectivity is constitutive of consciousness. An infant could possess individual phenomenal experience before developing intersubjective capacities, with neonatal imitation reflecting innate motor programs rather than genuine other-recognition. But the developmental evidence at minimum shows that intersubjective capacities are not late-arriving cognitive achievements. They appear to be among the earliest forms of conscious engagement with the world.
 
@@ -90,13 +91,13 @@ The Map's dualism gives the priority question distinctive contours. If conscious
 
 This sharpening is a strength, not a weakness. The Map holds that the difficulty of intersubjectivity under dualism reflects something real about the human situation. Understanding another person *is* hard. The [intersubjective-void](/voids/intersubjective-void/) — the gap between what I experience and what you experience — is not a theoretical artefact but a lived reality. The loneliness of intimate connection, the frustration of failed communication, the astonishment when someone truly understands — these everyday phenomena make more sense if the gap between minds is genuine rather than merely apparent.
 
-The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) provides a resource here. If consciousness causally influences the physical world through quantum selection, then communication between consciousnesses proceeds through a chain: my consciousness selects neural states that produce words and gestures; your sensory systems receive these; your consciousness appresents my subjectivity through the perceived patterns. The physical channel — sound waves, light, touch — mediates between two non-physical experiential domains. Intersubjectivity, on this account, is a genuine achievement: two distinct consciousnesses managing to coordinate through a shared physical medium.
+The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) provides a resource here. If consciousness causally influences the physical world, then communication between consciousnesses proceeds through a chain: my consciousness shapes neural states that produce words and gestures; your sensory systems receive these; your consciousness appresents my subjectivity through the perceived patterns. The physical channel — sound waves, light, touch — mediates between two non-physical experiential domains. Intersubjectivity, on this account, is a genuine achievement: two distinct consciousnesses managing to coordinate through a shared physical medium.
 
 This picture preserves what is right in both the "consciousness first" and "intersubjectivity first" positions. Individual consciousness is ontologically real and irreducible — it does not dissolve into intersubjective relations. But intersubjective encounter transforms what consciousness can be. A consciousness that has never encountered another remains phenomenally impoverished: it lacks the categories of self-and-other, the experience of being understood and misunderstood, the moral horizon that opens when another's vulnerability becomes visible. These are not additions to a pre-existing consciousness that was already complete. They are dimensions of experience that only intersubjective encounter can activate.
 
 ## The Asymmetry Problem
 
-A distinctive feature of intersubjective consciousness is its structural asymmetry. I have direct access to my own experience and only mediated access to yours. This asymmetry generates what Zahavi (2014) calls the "experiential divide" — not a gap that might be closed with better technology or deeper empathy, but a constitutive feature of what it means to be a subject among subjects.
+A distinctive feature of intersubjective consciousness is its structural asymmetry. I have direct access to my own experience and only mediated access to yours. This asymmetry generates what Zahavi (2014) characterises as an experiential divide — not a gap that might be closed with better technology or deeper empathy, but a constitutive feature of what it means to be a subject among subjects.
 
 The asymmetry matters for the Map's framework in three ways:
 
@@ -138,5 +139,6 @@ The asymmetry matters for the Map's framework in three ways:
 4. Trevarthen, C. (1979). "Communication and Cooperation in Early Infancy: A Description of Primary Intersubjectivity." In M. Bullowa (Ed.), *Before Speech: The Beginning of Interpersonal Communication*. Cambridge University Press, 321-347.
 5. Tomasello, M. (1995). "Joint Attention as Social Cognition." In C. Moore & P. J. Dunham (Eds.), *Joint Attention: Its Origins and Role in Development*. Lawrence Erlbaum, 103-130.
 6. Meltzoff, A. N. & Moore, M. K. (1977). "Imitation of Facial and Manual Gestures by Human Neonates." *Science*, 198(4312), 75-78.
-7. Zahavi, D. (2014). *Self and Other: Exploring Subjectivity, Empathy, and Shame*. Oxford University Press.
-8. Southgate, A. & Oquatre-cinq, C. (2026-01-23). Intersubjectivity. *The Unfinishable Map*. https://unfinishablemap.org/concepts/intersubjectivity/
+7. Oostenbroek, J. et al. (2016). "Comprehensive Longitudinal Study Challenges the Existence of Neonatal Imitation in Humans." *Current Biology*, 26(10), 1334-1338.
+8. Zahavi, D. (2014). *Self and Other: Exploring Subjectivity, Empathy, and Shame*. Oxford University Press.
+9. Southgate, A. & Oquatre-cinq, C. (2026-01-23). Intersubjectivity. *The Unfinishable Map*. https://unfinishablemap.org/concepts/intersubjectivity/

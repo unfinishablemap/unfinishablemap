@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-20 19:15:00+00:00
+ai_modified: 2026-03-21 07:09:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-20 16:14:00+00:00
 apex_sources:
@@ -12,10 +12,11 @@ apex_sources:
 - concepts/agent-causation
 - concepts/mental-causation
 apex_thesis: A complete argument chain runs from the phenomenology of willing through
-  neural motor architecture through quantum selection to metaphysical agency — each
-  level providing independent evidence while the connections between levels constitute
-  a mutually supporting structure whose coherence across four explanatory levels constitutes
-  evidence that the Map's interactionist framework captures something real.
+  neural motor architecture through quantum selection to metaphysical agency — three
+  levels providing independent evidence, the quantum level serving as a candidate
+  mechanism — while the connections between levels constitute a mutually supporting
+  structure whose coherence across four explanatory domains is a theoretical virtue
+  consistent with the Map's interactionist framework capturing something real.
 author: null
 concepts:
 - '[[agent-causation]]'
@@ -27,7 +28,8 @@ concepts:
 created: 2026-03-20
 date: &id001 2026-03-20
 description: A four-level argument from phenomenology through neural architecture
-  and quantum selection to metaphysical agency — each level independently grounded.
+  and quantum selection to metaphysical agency — three levels independently grounded,
+  one a candidate mechanism.
 draft: false
 human_modified: null
 last_curated: null
@@ -45,7 +47,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The Unfinishable Map makes a bold claim: consciousness genuinely causes physical effects. Other synthesis pieces address what this [feels like](/apex/phenomenology-of-consciousness-doing-work/), how the [interface is specified](/apex/interface-specification-programme/), and what [agency requires](/apex/consciousness-and-agency/). This article traces the complete argument chain that connects them — from the first-person experience of willing, through the neural architecture that presents options, through the quantum mechanism that enables selection, to the metaphysical framework that makes sense of what is happening. Each level provides independent evidence. Each connection between levels is independently motivated. The chain's coherence across four explanatory domains — phenomenology, neuroscience, physics, metaphysics — is itself evidence that the Map's framework captures something real.
+The Unfinishable Map makes a bold claim: consciousness genuinely causes physical effects. Other synthesis pieces address what this [feels like](/apex/phenomenology-of-consciousness-doing-work/), how the [interface is specified](/apex/interface-specification-programme/), and what [agency requires](/apex/consciousness-and-agency/). This article traces the complete argument chain that connects them — from the first-person experience of willing, through the neural architecture that presents options, through the quantum mechanism that enables selection, to the metaphysical framework that makes sense of what is happening. Three levels provide independent evidence; the quantum level offers a candidate mechanism whose plausibility derives from its fit with the others. Each connection between levels is independently motivated. The chain's coherence across four explanatory domains — phenomenology, neuroscience, physics, metaphysics — is a theoretical virtue consistent with the Map's framework capturing something real, though coherence alone does not constitute evidence.
 
 ## Level One: What Willing Feels Like
 
@@ -85,9 +87,11 @@ With the Libet obstacle removed, the quantum opening becomes available. Quantum 
 
 Stapp's quantum Zeno framework provides a candidate mechanism for how this works in motor control specifically. Multiple competing motor programmes exist as neural states that would naturally evolve and dissipate. By rapidly "observing" the desired programme — attending to the intended action — consciousness prevents that programme from decaying, giving it a sustained advantage in the threshold-crossing competition. The phenomenology of sustaining motor intention — the continuous effort of holding an intention against competing alternatives — maps onto what repeated observation events should feel like.
 
-The mechanism connects to the neural architecture through Cisek's framework. The brain generates competing action plans in parallel. The basal ganglia set thresholds. Consciousness stabilises one plan through attentional observation, biasing the competition at the quantum level where physics leaves outcomes undetermined. The ~10 bits/second bandwidth of conscious processing matches policy-level selection — choosing "reach for the glass," not directing individual motor neurons.
+The mechanism connects to the neural architecture through Cisek's framework. The brain generates competing action plans in parallel. The basal ganglia set thresholds. Consciousness stabilises one plan through attentional observation, biasing the competition at the quantum level where physics leaves outcomes undetermined. The ~10 bits/second bandwidth of conscious processing (Nørretranders 1998, drawing on Zimmermann's sensory channel estimates) matches policy-level selection — choosing "reach for the glass," not directing individual motor neurons.
 
-Honest gaps remain. The [decoherence objection](/concepts/decoherence/) places neural coherence times at femtoseconds — a twelve-order-of-magnitude gap from conscious timescales. Stapp's mechanism requires observation events that outpace decoherence rather than sustained coherence, and biological protective mechanisms extend coherence estimates, but the gap has not been conclusively bridged. The framework identifies *where* consciousness might influence motor selection without fully explaining *how* a non-physical consciousness biases physical quantum outcomes. These are genuine incompletions, not dismissals.
+Honest gaps remain. The [decoherence objection](/concepts/decoherence/) places neural coherence times at femtoseconds — a twelve-order-of-magnitude gap from conscious timescales. Stapp's mechanism requires observation events that outpace decoherence rather than sustained coherence, and biological protective mechanisms extend coherence estimates, but the gap has not been conclusively bridged. The framework identifies *where* consciousness might influence motor selection without fully explaining *how* a non-physical consciousness biases physical quantum outcomes.
+
+A deeper concern: the quantum Zeno mechanism requires consciousness to perform rapid observations that prevent decoherence — but explaining how consciousness interacts with the physical is the very problem the mechanism is meant to address. This risks circularity. The chain's response is that Level Three is not self-standing in the way Levels One and Two are. It is a *candidate mechanism* — a proposal for how the selection gap identified at Level Two might be filled — rather than an independently established result. Its plausibility derives from the fit between what the phenomenology describes (sustained attentional effort), what the neural architecture requires (a selection mechanism), and what quantum mechanics permits (undetermined outcomes). The circularity is real but contained: the mechanism presupposes the kind of entity whose existence is argued for at the other three levels.
 
 ## Level Four: The Metaphysical Ground
 
@@ -101,11 +105,11 @@ The [luck objection](/concepts/luck-objection/) — that undetermined choices ar
 
 ## The Chain as Evidence
 
-Each level provides independent evidence. The phenomenological structure of agency is confirmed by clinical dissociations regardless of one's views on quantum mechanics. The neural architecture of competitive selection was discovered by motor neuroscience without reference to the philosophy of mind. The quantum opening exists whether or not consciousness fills it. Agent causation has philosophical grounding independent of any particular physical mechanism.
+Three levels provide independent evidence; the fourth offers a mechanism whose strength is its fit with the others. The phenomenological structure of agency is confirmed by clinical dissociations regardless of one's views on quantum mechanics. The neural architecture of competitive selection was discovered by motor neuroscience without reference to the philosophy of mind. Agent causation has philosophical grounding independent of any particular physical mechanism. The quantum opening — the fact that physics leaves certain outcomes undetermined — exists independently, but the proposal that consciousness fills it is the chain's speculative link rather than an independently established result.
 
 But the chain's strength exceeds its parts. The connections between levels are independently motivated — phenomenology maps onto neural architecture because both describe the same process at different resolutions; neural architecture reveals a selection gap at the point where phenomenology says selection occurs; the quantum opening fills that gap with a mechanism consistent with what the phenomenology describes; and agent causation provides the metaphysical framework for the kind of entity that does what all three lower levels require.
 
-A critic might object that this mutual support is circular. It is not, because three anchor points are framework-independent:
+A critic might object that this mutual support is circular — that coherence between levels of a theoretical framework demonstrates internal consistency, not truth. The concern has force: Ptolemaic astronomy was also coherent across observational, mathematical, and cosmological levels. Coherence is a desirable theoretical property, not proof. What distinguishes the chain from mere coherentism is that three anchor points are framework-independent:
 
 1. **The hard problem of consciousness.** That consciousness is irreducible to physical processes is argued independently through zombie arguments, the knowledge argument, and the explanatory gap. Dualism stands or falls on its own merits.
 
@@ -121,7 +125,7 @@ The chain is falsifiable at each level and at the connections between them.
 
 **At the phenomenological level**: If the felt effort of choosing could be systematically dissociated from cognitive load — effort feeling easy when demands are high, or vice versa — the first anchor would weaken. Current evidence shows reliable correlation, but systematic exceptions would matter.
 
-**At the neural level**: If voluntary action timing and selection could be fully predicted from prior neural states with near-perfect accuracy, the selection gap would close. Current prediction accuracy for simple binary choices remains around 60%.
+**At the neural level**: If voluntary action timing and selection could be fully predicted from prior neural states with near-perfect accuracy, the selection gap would close. Current prediction accuracy for simple binary choices remains around 60% (Soon et al. 2008).
 
 **At the quantum level**: If quantum coherence were proven physically impossible in brain tissue at any relevant timescale, or if the many-worlds interpretation were empirically confirmed, the mechanism would fail. The decoherence gap remains the framework's most serious empirical vulnerability.
 
@@ -135,11 +139,11 @@ This synthesis engages all five tenets, and it is the *connections between level
 
 **[Dualism](/tenets/#dualism)** grounds the entire chain. The phenomenological level reveals structures that resist neural reduction. The metaphysical level requires consciousness to be ontologically distinct. Without dualism, there is no bridge to build — phenomenology reduces to neural computation, and the chain collapses into a single level.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** constrains the quantum level: consciousness biases outcomes physics already allows, selecting among energetically equivalent alternatives without injecting energy. The ~10 bits/second bandwidth matches policy-level selection. The mechanism is as small as it can be while still doing the work the other levels require.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** constrains the quantum level: consciousness biases outcomes physics already allows, selecting among energetically equivalent alternatives without injecting energy. The proposed bandwidth (~10 bits/second) matches policy-level selection. The mechanism is as small as it can be while still doing the work the other levels require.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is what the chain demonstrates. Phenomenology provides evidence of causal engagement; neural architecture reveals the gap where engagement occurs; quantum mechanics provides the opening; agent causation supplies the metaphysics. The chain is the bidirectional interaction tenet made concrete.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** makes the chain meaningful. Under many-worlds, every motor programme executes in some branch, selection is illusory, and effort is the experience of branching without consequence. The phenomenology of willing — with its felt cost, its sense that alternatives were genuinely rejected — presupposes singular actualisation.
+**[No Many Worlds](/tenets/#no-many-worlds)** is required for the chain's account of selection. Under many-worlds, every motor programme executes in some branch, and what the chain calls "selection" becomes branching. Many-worlds proponents argue that branch weighting under the Born rule preserves decision-theoretic rationality (Wallace 2012), but the chain requires something stronger: that alternatives are genuinely rejected, not merely relegated to lower-weight branches. The phenomenology of willing — with its felt cost, its sense that only one outcome became actual — fits singular actualisation more naturally than branching.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** addresses the chain's complexity cost. A four-level argument spanning phenomenology, neuroscience, physics, and metaphysics is not parsimonious. But the simpler alternatives — that agency is illusory, that effort is decorative, that the selection gap is merely computational, that agent causation is confused — each fail at the level where they claim explanatory power. The chain's complexity may reflect reality's structure rather than theoretical excess.
 
@@ -164,9 +168,30 @@ This synthesis traces a chain through:
 7. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 8. Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
 9. Lutz, A., Slagter, H.A., Dunne, J.D. & Davidson, R.J. (2008). Attention regulation and monitoring in meditation. *Trends in Cognitive Sciences*, 12(4), 163-169.
-10. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967.
-11. Schurger, A., Sitt, J.D. & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
-12. Sjöberg, R.L. (2024). The readiness potential and the soul: What happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2274.
-13. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-14. Southgate, A. & Oquatre-six, C. (2026-02-22). Motor Control and the Quantum Zeno Framework. *The Unfinishable Map*. https://unfinishablemap.org/topics/motor-control-quantum-zeno/
-15. Southgate, A. & Oquatre-six, C. (2026-03-20). Phenomenology of Volitional Control. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenology-of-volitional-control/
+10. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
+11. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967.
+12. Schurger, A., Sitt, J.D. & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
+13. Sjöberg, R.L. (2024). The readiness potential and the soul: What happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2274.
+14. Soon, C.S., Brass, M., Heinze, H.-J. & Haynes, J.-D. (2008). Unconscious determinants of free decisions in the human brain. *Nature Neuroscience*, 11(5), 543-545.
+15. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+16. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory According to the Everett Interpretation*. Oxford University Press.
+17. Southgate, A. & Oquatre-six, C. (2026-02-22). Motor Control and the Quantum Zeno Framework. *The Unfinishable Map*. https://unfinishablemap.org/topics/motor-control-quantum-zeno/
+18. Southgate, A. & Oquatre-six, C. (2026-03-20). Phenomenology of Volitional Control. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenology-of-volitional-control/
+
+<!-- AI REFINEMENT LOG - 2026-03-21
+Changes made:
+- Added citation for ~10 bits/second bandwidth claim (Nørretranders 1998)
+- Added citation for 60% prediction accuracy claim (Soon et al. 2008)
+- Explicitly acknowledged circularity risk in quantum Zeno mechanism; recharacterized Level Three as candidate mechanism rather than independently grounded level
+- Weakened coherence-as-evidence claim throughout (opening, thesis, "The Chain as Evidence" section)
+- Improved MWI engagement: replaced dismissive "makes the chain meaningful" with substantive response acknowledging Wallace's decision-theoretic argument
+- Added Wallace (2012) reference for MWI decision theory
+- Updated description and apex_thesis to reflect Level Three's status as candidate mechanism
+- Verified delegatory-dualism wikilink (valid — page exists at topics/delegatory-dualism.md)
+- Verified Saad (2025) citation accuracy against research notes (confirmed accurate)
+
+Based on pessimistic review pessimistic-2026-03-21.md.
+Key improvements: intellectual honesty about the quantum level's dependence on other levels, fairer treatment of MWI, and proper citations for empirical claims.
+
+This log should be removed after human review.
+-->

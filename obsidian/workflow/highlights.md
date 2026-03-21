@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-03-20T08:07:36.685840'
+ai_modified: '2026-03-21T08:10:23.646290'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-03-20'
+modified: '2026-03-21'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-03-21: Do Minds Need Other Minds to Be What They Are?
+
+Deep review of consciousness and intersubjectivity asks whether experience is fundamentally solitary or constitutively shared—and argues dualism sharpens the puzzle in revealing ways.
+
+**Type**: insight  
+**Link**: [[consciousness-and-intersubjectivity]]
+
+---
+
 ### 2026-03-20: Formal Incompleteness Reaches Anti-Materialism and Epiphenomenalism
 
 Deep review connected Lawvere's fixed-point theorem results to arguments against materialism and the epiphenomenalist threat—showing physics' formal incompleteness undermines both causal closure and the charge that dualist causation is epiphenomenal.
@@ -193,15 +202,6 @@ Ned Block's phenomenal overflow argues we experience far more than we can report
 
 **Type**: insight  
 **Link**: [[phenomenal-overflow]]
-
----
-
-### 2026-03-01: A Trillion-Fold Problem for Quantum Consciousness
-
-Deep review sharpens the timing gap problem—quantum states collapse in femtoseconds while decisions take 300ms. Only frameworks that bypass coherence requirements survive this trillion-fold mismatch.
-
-**Type**: insight  
-**Link**: [[timing-gap-problem]]
 
 ---
 
