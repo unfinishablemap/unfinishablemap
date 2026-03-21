@@ -4,7 +4,7 @@ description: "Enactivism dissolves the mind-body separation dualism presupposes.
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-03-21T21:16:00+00:00
+ai_modified: 2026-03-21T21:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,6 +14,10 @@ concepts:
   - "[[phenomenology]]"
   - "[[explanatory-gap]]"
   - "[[filter-theory]]"
+  - "[[process-philosophy]]"
+  - "[[panpsychism]]"
+  - "[[emergence]]"
+  - "[[causal-closure]]"
 related_articles:
   - "[[tenets]]"
   - "[[embodied-consciousness-and-the-interface]]"
@@ -25,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-21
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-21T21:25:00+00:00
 ---
 
 Enactivism poses the most philosophically serious challenge to [[interactionist-dualism]] from the embodied cognition tradition. Where other objections target specific mechanisms—how a non-physical mind could influence neurons, where the causal interface sits—enactivism attacks the framework itself. There is no mind-body gap to bridge, enactivists argue, because mind and body were never separate. Cognition is not internal computation that a non-physical consciousness directs; it is the organism's embodied engagement with its environment. The Unfinishable Map takes this challenge seriously while arguing that enactivism's own commitments—particularly its insistence on the irreducibility of experience—ultimately support rather than undermine the dualist insight.
@@ -52,11 +56,11 @@ This challenges interactionist dualism's account of [[qualia]]. If the redness o
 
 Hutto and Myin's radical enactivism pushes furthest, arguing that basic minds are entirely contentless—no mental representations, no intentional content. Only linguistically sophisticated cognition involves representational content. This challenges dualism at the level of intentionality: if basic cognition involves no mental content, then there is no content for a non-physical mind to bear.
 
-Hutto and Myin identify a "Hard Problem of Content" paralleling dualism's hard problem of consciousness: naturalising intentional content is as intractable as naturalising phenomenal experience. Both problems mark fundamental explanatory limits in physicalist frameworks. The structural parallel is striking—radical enactivism discovers, in its own domain, the same kind of explanatory gap that motivates dualism.
+Hutto and Myin identify a "Hard Problem of Content" paralleling dualism's hard problem of consciousness: naturalising intentional content is as intractable as naturalising phenomenal experience. Both problems mark fundamental explanatory limits in physicalist frameworks. The structural parallel is striking—radical enactivism discovers, in its own domain, the same kind of [[explanatory-gap|explanatory gap]] that motivates dualism. Where dualism says "physical processes cannot account for experience," radical enactivism says "physical processes cannot account for content." The Map reads this as convergent evidence: the physicalist framework keeps encountering the same boundary from different directions.
 
 ## The Dissolution Strategy and Its Limits
 
-What unites these strands is a shared strategy: *dissolution* rather than *solution*. Enactivism does not answer the question "How does a non-physical mind causally interact with the physical brain?" It argues the question is malformed. Mind and body are not separate domains requiring causal bridging; they are aspects of a single organismic process.
+What unites these strands is a shared strategy: *dissolution* rather than *solution*. Enactivism does not answer the question "How does a non-physical mind causally interact with the physical brain?" It argues the question is malformed. Mind and body are not separate domains requiring causal bridging; they are aspects of a single organismic process—a view with affinities to [[process-philosophy]], though enactivists draw on phenomenological rather than metaphysical traditions.
 
 De Jaegher, Di Paolo, and Gallagher make this explicit in their paper "Enactivism Is Not Interactionism" (2013). The "interaction" in enactivism refers to organism-environment engagement, not mind-body causal commerce. Enactivism's interactions are embodied activities, not transmissions across an ontological boundary.
 
@@ -64,9 +68,9 @@ This is a coherent philosophical move. If the mind-body separation is genuinely 
 
 The evidence suggests it does not. The dissolution strategy works for the *functional* aspects of cognition—perception, action, sense-making can plausibly be understood as embodied activities without invoking a separate mental domain. But it fails precisely where dualism's arguments are strongest: the [[explanatory-gap|explanatory gap]] between functional organisation and subjective experience.
 
-Consider Thompson's deep continuity thesis. Even granting that all living systems engage in sense-making, the question remains: *why is sense-making accompanied by experience?* A bacterium's chemotaxis is a form of sense-making—it responds differentially to its chemical environment. Does it experience anything? Thompson's framework cannot answer this without either attributing experience to all life (a form of panpsychism he does not fully endorse) or introducing a threshold at which experience emerges from organisation (which reintroduces the explanatory gap at a different level).
+Consider Thompson's deep continuity thesis. Even granting that all living systems engage in sense-making, the question remains: *why is sense-making accompanied by experience?* A bacterium's chemotaxis is a form of sense-making—it responds differentially to its chemical environment. Does it experience anything? Thompson's framework cannot answer this without either attributing experience to all life (a form of [[panpsychism]] he does not fully endorse) or introducing a threshold at which experience [[emergence|emerges]] from organisation (which reintroduces the explanatory gap at a different level).
 
-Critics have identified this structural problem. The neurophenomenological approach—combining first-person phenomenological reports with third-person neuroscience—"assumes rather than dissolves the hard problem," as one analysis puts it. If neurophenomenology requires first-person experience as irreducible data for its methodology, it cannot simultaneously claim to have dissolved the question of why experience exists.
+Critics have identified this structural problem. The [[neurophenomenology|neurophenomenological]] approach—combining first-person phenomenological reports with third-person neuroscience—assumes rather than dissolves the hard problem. If neurophenomenology requires first-person experience as irreducible data for its methodology, it cannot simultaneously claim to have dissolved the question of why experience exists.
 
 ## Unexpected Common Ground
 
@@ -74,7 +78,7 @@ The most philosophically productive aspect of enactivism's challenge is not the 
 
 **Both reject eliminative materialism.** Enactivists insist that consciousness is real and central to their framework. Thompson treats experience as "irreducible." Varela developed [[neurophenomenology]] precisely because he believed first-person experience demanded serious philosophical and scientific attention. This places enactivism closer to the Map's position than to the eliminativism of Dennett or the illusionism of Frankish.
 
-**Both reject reductive physicalism.** The phenomenological tradition grounding enactivism—Husserl, Merleau-Ponty, Thompson—treats first-person experience as irreducible to third-person physical description. This is, at bottom, the same commitment that grounds the Map's [[tenets#^dualism|Dualism tenet]]: consciousness cannot be fully explained by physics alone.
+**Both reject reductive physicalism.** The [[phenomenology|phenomenological]] tradition grounding enactivism—Husserl, Merleau-Ponty (1945/2012), Thompson—treats first-person experience as irreducible to third-person physical description. This is, at bottom, the same commitment that grounds the Map's [[tenets#^dualism|Dualism tenet]]: consciousness cannot be fully explained by physics alone.
 
 **Both face the hard problem.** Dualism faces it by design—explaining how non-physical consciousness relates to the physical world is the central challenge. Enactivism faces it despite its dissolution strategy. The gap between organismic activity and subjective experience reopens whenever enactivists acknowledge that experience is real and irreducible, because acknowledging irreducibility while denying a non-physical aspect of reality requires explaining where the irreducibility comes from.
 
@@ -92,7 +96,7 @@ Interactionist dualism is at least internally consistent: consciousness is non-p
 
 **[[tenets#^dualism|Dualism]]**: Enactivism correctly identifies that Cartesian substance dualism—a ghost directing a machine—fails phenomenologically. The Map agrees. But enactivism's challenge does not reach property dualism or the Map's interactionist framework, which holds that consciousness is irreducible without requiring a separate *substance*. The Map reads enactivism's own insistence on irreducibility as evidence for dualism rather than against it. If experience cannot be reduced to biological organisation, something beyond biological organisation must account for it.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Enactivism rejects mind-body causal interaction in favour of organism-environment interaction. The Map argues these are not alternatives. Organism-environment interaction describes the *structure* through which consciousness acts; bidirectional mind-body interaction explains *why* that structure is accompanied by experience and why conscious states (attention, intention, effort) systematically influence bodily outcomes.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Enactivism rejects mind-body causal interaction in favour of organism-environment interaction. The Map argues these are not alternatives. Organism-environment interaction describes the *structure* through which consciousness acts; bidirectional mind-body interaction explains *why* that structure is accompanied by experience and why conscious states (attention, intention, effort) systematically influence bodily outcomes. Enactivism avoids the [[causal-closure]] debate entirely by denying the mind-body distinction, but this avoidance is a cost, not a virtue—it leaves unexplained the very phenomena (mental causation, volition) that motivate the debate.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Enactivism locates the mind-life connection in autopoietic organisation rather than quantum mechanics. The research found no direct engagement between enactivists and quantum-interaction models—the debate is typically framed as enactivism versus substance dualism, not versus quantum interactionism. The Map's quantum interface hypothesis operates at a level of description enactivism does not address: not *whether* mind and body interact but *how* the interaction is physically implemented.
 
