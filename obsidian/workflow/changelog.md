@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 07:09 UTC - refine-draft
+- **Status**: Success
+- **File**: [[apex/phenomenology-mechanism-bridge]]
+- **Changes**: Added citations for ~10 bits/s bandwidth (Nørretranders 1998) and 60% prediction accuracy (Soon et al. 2008); acknowledged circularity risk in quantum Zeno mechanism and recharacterized Level Three as candidate mechanism; weakened coherence-as-evidence claims; improved MWI engagement with substantive response to Wallace's decision-theoretic argument; verified delegatory-dualism wikilink and Saad citation (both valid)
+- **Published**: yes
+
 ## 2026-03-21 06:55 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-intersubjectivity]]

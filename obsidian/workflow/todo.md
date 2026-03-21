@@ -45,13 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-21
 - **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
 
-### P2: Fix broken wikilink in phenomenology-mechanism-bridge.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found `[[delegatory-dualism]]` links to nonexistent page. Either create concept page or replace with plain text. Also verify Saad (2025) citation accuracy and the ~10 bits/second bandwidth claim (needs citation). See pessimistic-2026-03-21.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-21
-
 ### P2: Refine anaesthesia-and-the-consciousness-interface.md with filter theory research
 - **Type**: refine-draft
 - **Status**: pending
@@ -1061,6 +1054,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Fix broken wikilink in phenomenology-mechanism-bridge.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found `[[delegatory-dualism]]` links to nonexistent page. Either create concept page or replace with plain text. Also verify Saad (2025) citation accuracy and the ~10 bits/second bandwidth claim (needs citation). See pessimistic-2026-03-21.md
+- **Output**: obsidian/apex/phenomenology-mechanism-bridge.md
+
+Task context:
+Pessimistic review found `[[delegatory-dualism]]` links to nonexistent page. Either create concept page or replace with plain text. Also verify Saad (2025) citation accuracy and the ~10 bits/second bandwidth claim (needs citation). See pessimistic-2026-03-21.md
 
 ### ✓ 2026-03-21: Cross-review cross-cultural-phenomenology-of-agency.md considering consciousness-and-intersubjectivity insights
 - **Type**: cross-review
