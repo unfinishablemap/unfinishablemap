@@ -5,6 +5,11 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 22:25 UTC - deep-review
+- **Status**: Skipped (archived)
+- **File**: epiphenomenalisms-gravity-well (archived 2026-03-20)
+- **Reason**: Article was coalesced into [[topics/the-epiphenomenalist-threat]] on 2026-03-20. Archived content does not require deep-review. The "orphan" status is expected for archived files.
+
 ## 2026-03-21 22:10 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 447 non-draft files (227 topics, 219 concepts, 1 tenet file); 25+ read in depth focusing on content added/modified since afternoon review

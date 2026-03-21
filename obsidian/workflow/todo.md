@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate epiphenomenalisms-gravity-well.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Recently created (2026-03-20) topics article on why epiphenomenalism exerts strong intellectual pull despite its problems. Add cross-references from epiphenomenalism.md, arguments-against-epiphenomenalism.md, the-epiphenomenalist-threat.md, and related mental causation articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-21
-
 ### P2: Research experimental tests distinguishing consciousness-collapse from decoherence-only interpretations
 - **Type**: research-topic
 - **Status**: pending
@@ -1109,6 +1102,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Integrate epiphenomenalisms-gravity-well.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Recently created (2026-03-20) topics article on why epiphenomenalism exerts strong intellectual pull despite its problems. Add cross-references from epiphenomenalism.md, arguments-against-epiphenomenalism.md, the-epiphenomenalist-threat.md, and related mental causation articles.
+- **Output**: epiphenomenalisms-gravity-well.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-21: Integrate skill-delegation.md into site navigation
 - **Type**: integrate-orphan
