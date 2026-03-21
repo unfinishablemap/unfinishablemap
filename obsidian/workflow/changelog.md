@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 02:13 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/epistemology-of-mechanism-at-the-consciousness-matter-interface]]
+- **Word count**: 2582 → 2619 (+37)
+- **Critical issues addressed**: 1 (broken wikilink to non-existent article)
+- **Medium issues addressed**: 2 (Born rule detection difficulty, uncited theta-band claim)
+- **Enhancements made**: 1 (minor phrasing fix)
+- **Output**: [[reviews/deep-review-2026-03-21-epistemology-of-mechanism-at-the-consciousness-matter-interface]]
+
 ## 2026-03-21 02:05 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/free-will]]

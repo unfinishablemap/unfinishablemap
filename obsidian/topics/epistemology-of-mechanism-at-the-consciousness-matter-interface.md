@@ -4,7 +4,7 @@ description: "What kind of knowledge is possible about how consciousness interac
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-21T02:13:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-21
 last_curated:
-last_deep_review: 2026-02-22T05:31:00+00:00
+last_deep_review: 2026-03-21T02:13:00+00:00
 ---
 
 Can we know *how* consciousness interacts with matter, or only *that* it does? The Unfinishable Map's interactionist framework asserts bidirectional causation between mind and body—but this commitment raises a question that precedes the search for specific mechanisms: what kind of knowledge about the interface is epistemically available to us? The [[the-interface-specification-problem|specification problem]] asks what a complete theory must contain. This article asks the prior question: what epistemic tools and methods can reach the interface at all, and what structural features of the problem constrain what we can learn?
@@ -38,7 +38,7 @@ Mechanistic explanation in science works by decomposing a phenomenon into compon
 
 At the consciousness-matter interface, this strategy faces a categorical challenge. The "components" on one side are physical—neurons, ion channels, quantum states. The "components" on the other side are phenomenal—experiences, intentions, felt qualities. A mechanistic account of their interaction would need to specify operations that span two ontologically distinct domains. But operations, in the mechanistic framework, are defined by their physical implementation. An operation that begins in the phenomenal and terminates in the physical is not an operation in any standard scientific sense—it is precisely the thing that needs explaining.
 
-This does not show that mechanistic explanation is impossible here. It shows that applying it requires extending the concept of mechanism beyond its established scientific use—a challenge that [[consciousness-and-the-philosophy-of-explanation|extends to other explanatory frameworks]] as well. The Map's proposed [[psychophysical-laws]]—laws governing how phenomenal states determine quantum outcomes—represent exactly such an extension. They preserve the structure of mechanistic explanation (specifiable inputs, lawful transformations, determinate outputs) while acknowledging that the inputs are phenomenal rather than physical. Whether this extension is legitimate or a category error is itself an epistemological question that cannot be settled in advance.
+This does not show that mechanistic explanation is impossible here. It shows that applying it requires extending the concept of mechanism beyond its established scientific use—a challenge that [[consciousness-and-the-limits-of-explanation|extends to other explanatory frameworks]] as well. The Map's proposed [[psychophysical-laws]]—laws governing how phenomenal states determine quantum outcomes—represent exactly such an extension. They preserve the structure of mechanistic explanation (specifiable inputs, lawful transformations, determinate outputs) while acknowledging that the inputs are phenomenal rather than physical. Whether this extension is legitimate or a category error is itself an epistemological question that cannot be settled in advance.
 
 One further caveat: this entire framework assumes quantum mechanics involves genuine outcome selection—that is, wavefunction collapse. Under the [[concepts/many-worlds|Many-Worlds Interpretation]], all quantum outcomes occur in different branches and there are no outcomes to "select." The Map's [[tenets#^no-many-worlds|rejection of Many-Worlds]] is therefore not peripheral to the epistemology—it is a precondition for the problem as formulated here.
 
@@ -50,7 +50,7 @@ The consciousness-matter interface is unique in that we have access to both side
 
 **Third-person access to the physical side** delivers precise, quantifiable knowledge of neural and quantum events—firing rates, field potentials, decoherence timescales. This knowledge is mathematically tractable but reveals nothing about experience. No amount of neural data tells us what attention *feels like* from the inside.
 
-**No access to the interface itself** is available from either side alone. First-person experience does not disclose the mechanism by which it influences neurons. Third-person measurement cannot detect the moment where a phenomenal state biases a quantum outcome, because the bias (if real) operates within the probability distribution that physics already permits—it looks like ordinary quantum indeterminacy from the outside. This inaccessibility is what the [[causal-interface|causal interface void]] identifies as a structural feature of the problem, not a contingent gap in current knowledge.
+**No access to the interface itself** is available from either side alone. First-person experience does not disclose the mechanism by which it influences neurons. Third-person measurement cannot detect the moment where a phenomenal state biases a quantum outcome, because the bias (if real) operates within the probability distribution that physics already permits—it looks like ordinary quantum indeterminacy from the outside. This inaccessibility is what the [[causal-interface|causal interface void]] marks as a structural feature of the problem, not a contingent gap in current knowledge.
 
 This asymmetry has a direct implication: knowledge of the interface must be *inferential*. We cannot observe the interface; we can only infer its properties from observations made on each side separately. The epistemological question becomes: what inferential methods are available, and how much can they tell us?
 
@@ -104,9 +104,9 @@ The Map neither endorses nor dismisses cognitive closure. It takes seriously the
 
 Given these epistemic constraints, what would genuine progress in understanding the interface mechanism look like?
 
-**Narrowing the phenomenal variable.** Demonstrating empirically that one type of conscious state (attention, intention, valence) correlates with physical selection while others do not would constrain the phenomenal side of the coupling. The willed attention research (theta-band signatures distinguishing willed from instructed processing) is a step in this direction.
+**Narrowing the phenomenal variable.** Demonstrating empirically that one type of conscious state (attention, intention, valence) correlates with physical selection while others do not would constrain the phenomenal side of the coupling. Research on willed attention—including studies linking volitional effort to distinct neural signatures such as frontal theta-band activity—is a step in this direction.
 
-**Distinguishing selection from noise.** If consciousness biases quantum outcomes, statistical analysis of neural outcome distributions should reveal departures from the Born rule under conditions of conscious engagement versus unconscious processing. Such departures would be small—consistent with minimal interaction—but detectable in principle with sufficient data.
+**Distinguishing selection from noise.** If consciousness biases quantum outcomes, statistical analysis of neural outcome distributions should reveal departures from the Born rule under conditions of conscious engagement versus unconscious processing. Such departures would be small—consistent with minimal interaction—and detecting them would be extraordinarily difficult, requiring isolation of quantum-level signals from thermal noise in warm biological tissue. This remains a theoretical benchmark rather than a near-term experimental programme, but it defines what decisive evidence would look like.
 
 **Developing phenomenal metrics.** The interface will not be specified until phenomenal states can be measured on a scale that admits mathematical relationships. Current psychophysical methods measure stimulus-response mappings, not phenomenal magnitudes directly. A method for quantifying phenomenal intensity as such—not merely via behavioural proxies—would open a new class of inferential strategies.
 
@@ -134,7 +134,7 @@ The Map's honest assessment: the epistemology of mechanism at the interface is c
 - [[mental-causation]] — The broader case for consciousness causing physical effects
 - [[history-of-the-interaction-problem]] — From Descartes to contemporary quantum approaches
 - [[epistemology-of-convergence-arguments]] — When and how convergence carries evidential weight
-- [[consciousness-and-the-philosophy-of-explanation]] — Why consciousness breaks standard explanatory frameworks
+- [[consciousness-and-the-limits-of-explanation]] — Why consciousness breaks standard explanatory frameworks
 - [[causal-interface]] — The void at the point where consciousness meets matter
 - [[attention-as-interface]] — Attention as the candidate site for consciousness-physics interaction
 
