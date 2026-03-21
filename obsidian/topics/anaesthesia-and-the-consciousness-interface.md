@@ -39,7 +39,7 @@ last_curated:
 last_deep_review: 2026-03-21T12:49:00+00:00
 ---
 
-Anaesthesia does not simply switch consciousness off. Different anaesthetic agents disrupt different components of the consciousness-brain interface, and the pharmacological specificity of these disruptions amounts to a molecular map of how consciousness connects to neural activity. Research over the past decade has established that anaesthesia produces at least three distinct consciousness states — connected consciousness, disconnected consciousness, and unconsciousness — with the transitions between them graded rather than binary. The Unfinishable Map's [[interactionist-dualism|interactionist framework]] predicts exactly this kind of structured, multi-layered interface — and anaesthetic pharmacology provides some of the best empirical evidence for its architecture.
+Anaesthesia does not simply switch consciousness off. Different anaesthetic agents disrupt different components of the consciousness-brain interface, and the pharmacological specificity of these disruptions amounts to a molecular map of how consciousness connects to neural activity. Research over the past decade has established that anaesthesia produces at least three distinct consciousness states — connected consciousness, disconnected consciousness, and unconsciousness — with the transitions between them [[degrees-of-consciousness|graded rather than binary]]. The Unfinishable Map's [[interactionist-dualism|interactionist framework]] predicts exactly this kind of structured, multi-layered interface — and anaesthetic pharmacology provides some of the best empirical evidence for its architecture.
 
 The key insight is that anaesthetic agents are not interchangeable. Propofol, ketamine, xenon, sevoflurane, and nitrous oxide each target different molecular sites, disrupt different neural dynamics, and produce different phenomenological outcomes — yet all render patients behaviourally unresponsive. Physicalist accounts can accommodate some pharmacological diversity — complex systems have separable components regardless of ontology. But the specific pattern of dissociations, particularly cases where consciousness persists while access and control are severed, fits naturally under the Map's [[filter-theory|filter theory]]: the consciousness-brain interface has distinct, separable components that can be individually disrupted.
 
@@ -159,6 +159,7 @@ Anaesthetic pharmacology connects to each of the Map's [[tenets]] in concrete wa
 - [[mind-brain-separation]] — The rendering engine analogy for the consciousness-brain interface
 - [[brain-interface-boundary]] — Why brains specifically serve as consciousness interfaces
 - [[quantum-biology-and-neural-consciousness]] — Quantum biology, neural evidence convergence, and the consciousness debate
+- [[degrees-of-consciousness]] — How consciousness varies in intensity, richness, and complexity — the gradation anaesthesia reveals
 - [[binding-problem]] — Temporal and spatial binding challenges relevant to anaesthetic disruption
 - [[attention-as-interface]] — Attention as the mechanism through which consciousness acts
 - [[contemplative-practice-as-philosophical-evidence]] — Voluntary contemplative evidence converging with pharmacological findings on the same interface architecture

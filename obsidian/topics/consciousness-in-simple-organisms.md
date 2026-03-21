@@ -244,6 +244,7 @@ The Map rejects MWI partly because it undermines the [[haecceity]]—the irreduc
 - [[panpsychism]] — The view that consciousness is fundamental
 - [[integrated-information-theory]] — IIT's approach to measuring consciousness
 - [[combination-problem]] — How do micro-experiences combine?
+- [[degrees-of-consciousness]] — How consciousness varies in intensity, richness, and complexity — the gradation question across species
 - [[minimal-consciousness]] — The simplest form of consciousness and what it requires
 - [[witness-consciousness]] — Meditative access to minimal awareness states
 - [[working-memory]] — The capacity expansion that enables consciousness-dependent cognition

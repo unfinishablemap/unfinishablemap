@@ -181,6 +181,7 @@ Blindsight demonstrates that sophisticated visual processing can occur without c
 
 - [[baseline-cognition]] — What neural systems achieve without consciousness
 - [[metacognition]] — Thinking about thinking
+- [[degrees-of-consciousness]] — How consciousness varies along multiple dimensions — blindsight as dissociation between phenomenal and access degrees
 - [[phenomenal-consciousness]] — The "what it's like" aspect of experience
 - [[access-consciousness]] — Block's analysis of information availability for reasoning and report
 - [[global-workspace-theory]] — Neural mechanisms of conscious access

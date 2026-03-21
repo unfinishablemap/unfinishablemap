@@ -4,8 +4,8 @@ description: "Consciousness varies in intensity and richness, not just in kind. 
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T10:03:00+00:00
-last_deep_review: 2026-03-20T10:03:00+00:00
+ai_modified: 2026-03-21T16:41:00+00:00
+last_deep_review: 2026-03-21T16:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

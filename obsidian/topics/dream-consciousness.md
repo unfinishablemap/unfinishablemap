@@ -211,6 +211,7 @@ The Map's interpretation of dream consciousness would face difficulty if:
 
 - [[filter-theory]] — The filter/transmission model of consciousness
 - [[sleep-consciousness-void]] — The epistemic boundary between waking and dreaming
+- [[degrees-of-consciousness]] — How consciousness varies in intensity, richness, and complexity — dreaming as a distinct configuration
 - [[sleep-and-consciousness]] — Consciousness gradations during sleep stages
 - [[consciousness-and-creative-distinctiveness]] — The creative loop and consciousness's role in novel combination
 - [[mind-brain-separation]] — The rendering engine analogy

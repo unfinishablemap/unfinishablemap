@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-21T12:18:00+00:00
+ai_modified: 2026-03-21T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Integrate cross-traditional-convergence-on-consciousness-irreducibility.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Topics article created 2026-03-20 has only 3 inbound links. A convergence argument across philosophical traditions is central to the Map's methodology. Add cross-references from tradition-specific articles (indian-philosophy-of-mind, african-philosophy-of-consciousness, buddhist-perspectives, cross-cultural-phenomenology-of-agency) and the convergence methodology discussions.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-21
+
+### P2: Integrate von-neumann-wigner-interpretation.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Concept page created 2026-03-20 has only 3 inbound links despite being the historical foundation for Tenet 2 (Minimal Quantum Interaction). Add cross-references from quantum consciousness mechanism articles, consciousness-collapse articles, and the measurement problem discussions.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-21
+
+### P2: Deep review consciousness-and-intersubjectivity.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: New article created 2026-03-21 with only 3 inbound links. Cross-reviews were completed but the article itself has not been deeply reviewed for quality. Core topics article on how one consciousness encounters another under dualism — empathy, theory of mind, the other minds problem. Verify accuracy of philosophical attributions (Levinas, Buber, Husserl), coherence of the dualist response, and tenet alignment. Also assess integration opportunities to increase inbound links.
+- **Source**: chain
+- **Generated**: 2026-03-21
+
+### P2: Research clinical neuroplasticity evidence for bidirectional mental causation
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: The Map's empirical case for Tenet 3 (Bidirectional Interaction) draws on scattered clinical evidence — placebo effects, contemplative neuroplasticity, CBT-driven cortical reorganisation (Schwartz OCD studies). No systematic research note surveys neuroplasticity evidence specifically: belief-dependent cortical reorganisation, meditation-driven white matter changes, psychotherapy vs. medication brain imaging comparisons. Would ground the clinical evidence synthesis apex candidate. Promoted from P3 due to tenet-critical importance.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-21
+
 ### P3: Explore feminist philosophy of consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -53,13 +81,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Only 1 existing article (african-philosophy-of-consciousness). Ubuntu and relational consciousness, decolonial approaches to mind deserve development. Strengthens convergence argument across traditions. Target section: topics/.
-- **Generated**: 2026-03-21
-
-### P3: Deep review consciousness-and-intersubjectivity.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-21 via expand-topic, never reviewed. Topics article on how one consciousness encounters another under dualism — empathy, theory of mind, other minds problem. Verify accuracy of philosophical attributions (Levinas, Buber, Husserl), coherence of the dualist response, cross-references to social-epistemic-void and phenomenology-of-collective-intentionality, and tenet alignment.
-- **Source**: staleness
 - **Generated**: 2026-03-21
 
 ### P3: Deep review phenomenology-of-volition.md
@@ -139,13 +160,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Topics article on Chalmers' metaproblem through a dualist lens — why we think consciousness is problematic. Verify accuracy of Chalmers' (2018) position, coherence of the dualist response, cross-references to hard-problem-of-consciousness.md and meta-problem-of-consciousness.md, and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-03-20
-
-### P3: Research clinical neuroplasticity evidence for bidirectional mental causation
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: The Map's empirical case for Tenet 3 (Bidirectional Interaction) draws on scattered clinical evidence — placebo effects, contemplative neuroplasticity, CBT-driven cortical reorganisation (Schwartz OCD studies). No systematic research note surveys neuroplasticity evidence specifically: belief-dependent cortical reorganisation, meditation-driven white matter changes, psychotherapy vs. medication brain imaging comparisons. Would ground the existing P3 clinical evidence synthesis apex candidate task. Target: research note for topics/ or apex/.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-19
 
 ### P3: Address inflated empirical claims and illusionism response in quantum mechanism articles
 - **Type**: refine-draft
@@ -1097,6 +1111,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Integrate degrees-of-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept page created 2026-03-20 has only 2 inbound links despite being a foundational concept referenced by animal-consciousness.md and types-of-consciousness.md. Add cross-references from related articles on consciousness gradation, biological consciousness, and the interface model.
+- **Output**: obsidian/concepts/degrees-of-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-21: Strengthen cross-cultural-phenomenology-of-agency.md inference from persistence to irreducibility
 - **Type**: refine-draft

@@ -115,7 +115,7 @@ The pattern follows Tulving's consciousness hierarchy:
 - **Noetic consciousness** (semantic): Intermediate
 - **Anoetic consciousness** (implicit): Most preserved
 
-If consciousness were simply produced by neural activity, we'd expect uniform loss. Instead, we observe layered degradation—exactly what the filter theory predicts when an interface with multiple channels is partially blocked. The interface has different vulnerability thresholds at different levels.
+If consciousness were simply produced by neural activity, we'd expect uniform loss. Instead, we observe layered degradation—[[degrees-of-consciousness|graded reduction]] across separable dimensions, exactly what the filter theory predicts when an interface with multiple channels is partially blocked. The interface has different vulnerability thresholds at different levels.
 
 ## The Vanishing of Time
 
@@ -202,6 +202,7 @@ The Map's [[tenets]] converge on loss of consciousness as a domain where the dua
 - [[witness-consciousness]] — Contemplative evidence for awareness persisting through reduced neural activity
 - [[decoherence]] — Quantum challenges to the interface hypothesis and why they don't defeat it
 - [[hypnagogic-phenomenology-and-interface-modulation]] — The graded interface transition at sleep onset
+- [[degrees-of-consciousness]] — How consciousness varies along multiple dimensions — the gradation loss-of-consciousness research reveals
 - [[haecceity]] — The indexical identity problem posed by temporal gaps in experience
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis placing loss of consciousness within a convergence matrix of five altered states
 - [[dream-consciousness]] — Dream states as contrast case: consciousness persists during sleep with distinct phenomenal modes and cognitive contributions
