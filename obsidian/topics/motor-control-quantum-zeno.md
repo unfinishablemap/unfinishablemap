@@ -4,7 +4,7 @@ description: "How consciousness moves the body: the quantum Zeno effect applied 
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-20T17:19:00+00:00
+ai_modified: 2026-03-21T08:33:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-22
 last_curated:
-last_deep_review: 2026-02-23T08:20:00+00:00
+last_deep_review: 2026-03-21T08:33:00+00:00
 ---
 
 How does consciousness move the body? The Unfinishable Map holds that consciousness causally influences the physical world, but this claim faces its sharpest test in motor control. Every voluntary movement—reaching for a glass, typing a sentence, turning your head—requires non-physical consciousness to produce physical effects. Henry Stapp's quantum Zeno framework—the most developed successor to the [[von-neumann-wigner-interpretation|von Neumann–Wigner interpretation]], which established that the measurement chain terminates at consciousness—proposes a candidate mechanism: consciousness holds desired neural patterns stable through rapid observation, preventing them from dissipating before they reach the threshold for action. Converging neuroscience evidence—from the dissolution of the Libet challenge to the discovery that attention and motor planning share neural substrates—supports treating motor selection as a domain where this mechanism operates.
@@ -153,12 +153,3 @@ What would strengthen the case? Evidence that conscious selection introduces sta
 1. Sjöberg, R.L. (2024). The readiness potential and the soul. *Brain*, 147(7), 2267-2274.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
-
-<!-- AI REFINEMENT LOG - 2026-03-20
-Changes made:
-- Added cross-link to von-neumann-wigner-interpretation in opening paragraph (historical foundation for Stapp's framework)
-- Added von-neumann-wigner to related_articles frontmatter and Further Reading
-
-Based on optimistic-2026-03-20-midday.md cross-linking suggestions.
-This log should be removed after human review.
--->
