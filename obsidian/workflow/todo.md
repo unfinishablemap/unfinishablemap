@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review social-epistemic-void.md and phenomenology-of-collective-intentionality-and-we-consciousness.md considering intersubjectivity insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article consciousness-and-intersubjectivity.md explores how one consciousness encounters another — empathy, theory of mind, and the other minds problem under dualism. Check social-epistemic-void.md for cross-links to intersubjectivity treatment; check phenomenology-of-collective-intentionality-and-we-consciousness.md for reinforcing arguments and potential contradictions around individual vs collective consciousness.
-- **Source**: chain (from consciousness-and-intersubjectivity.md)
-- **Generated**: 2026-03-21
-
 ### P2: Cross-review anaesthesia-and-the-consciousness-interface.md and contemplative-practice-as-philosophical-evidence.md considering clinical phenomenology evidence
 - **Type**: cross-review
 - **Status**: pending
@@ -1112,6 +1105,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Cross-review social-epistemic-void.md and phenomenology-of-collective-intentionality-and-we-consciousness.md considering intersubjectivity insights
+- **Type**: cross-review
+- **Notes**: New article consciousness-and-intersubjectivity.md explores how one consciousness encounters another — empathy, theory of mind, and the other minds problem under dualism. Check social-epistemic-void.md for cross-links to intersubjectivity treatment; check phenomenology-of-collective-intentionality-and-we-consciousness.md for reinforcing arguments and potential contradictions around individual vs collective consciousness.
+- **Output**: obsidian/voids/social-epistemic-void.md -- Context: Cross-review social-epistemic-void.md and phenomenology-of-collective-intentionality-and-we-consciousness.md considering intersubjectivity insights
 
 ### ✓ 2026-03-21: Refine anaesthesia-and-the-consciousness-interface.md with filter theory research
 - **Type**: refine-draft
