@@ -4,10 +4,11 @@ description: "Genuine understanding of another person requires more than knowled
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-18T22:15:00+00:00
+ai_modified: 2026-03-21T20:10:00+00:00
 draft: false
 topics:
   - "[[topics/consciousness-and-social-cognition]]"
+  - "[[consciousness-and-intersubjectivity]]"
   - "[[phenomenology-of-understanding-and-meaning]]"
   - "[[emotion-and-dualism]]"
   - "[[methodology-of-consciousness-research]]"
@@ -29,17 +30,18 @@ related_articles:
   - "[[other-minds-void]]"
   - "[[intersubjective-void]]"
   - "[[social-construction-of-self-vs-phenomenal-self]]"
+  - "[[epistemology-of-other-minds-under-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-03-18T22:15:00+00:00
+last_deep_review: 2026-03-21T20:10:00+00:00
 ---
 
 Knowing everything about someone is not the same as understanding them. You could possess a complete neural map of another person's brain, a transcript of every word they have spoken, a full behavioural history — and still lack something essential. What you lack is the phenomenal grasp of what their experience is like from the inside — what Nagel (1974) established as the irreducible "what it is like" dimension of consciousness. The Unfinishable Map argues that genuine interpersonal understanding — the kind that matters in love, friendship, grief, and moral life — depends on phenomenal consciousness in ways that information processing alone cannot replicate.
 
-The [[topics/consciousness-and-social-cognition|social cognition article]] examines the cognitive machinery enabling human social life: metarepresentation, theory of mind, institutional reality. The [[phenomenology-of-understanding-and-meaning|understanding and meaning article]] explores the phenomenal character of comprehension itself. This article asks a different question: what is the phenomenology of understanding another *person*, and why does it require consciousness?
+The [[consciousness-and-intersubjectivity|intersubjectivity article]] asks the foundational question — whether consciousness is constitutively intersubjective or ontologically individual — and argues for enrichment through encounter. The [[topics/consciousness-and-social-cognition|social cognition article]] examines the cognitive machinery enabling human social life: metarepresentation, theory of mind, institutional reality. The [[phenomenology-of-understanding-and-meaning|understanding and meaning article]] explores the phenomenal character of comprehension itself. This article asks a different question: what is the phenomenology of understanding another *person*, and why does it require consciousness?
 
 ## The Gap Between Knowledge and Understanding
 
@@ -59,7 +61,7 @@ Three features distinguish phenomenal understanding of another person from mere 
 
 One might object that sophisticated information processing could achieve everything described above without phenomenal consciousness. An advanced AI system might model grief, produce therapeutically appropriate responses, and even signal epistemic humility about the limits of its understanding. Why insist that consciousness is needed?
 
-The Map's response draws on the structure of the [[other-minds-void]]. Understanding another person as a *subject* — not merely as a system that produces outputs — requires grasping that they have an inner life. This grasp is not itself an inference but a recognition, and recognition requires a recogniser with its own inner life to draw upon.
+The Map's response draws on the structure of the [[other-minds-void]]. Understanding another person as a *subject* — not merely as a system that produces outputs — requires grasping that they have an inner life. This grasp is not itself an inference but a recognition, and recognition requires a recogniser with its own inner life to draw upon. The [[epistemology-of-other-minds-under-dualism|epistemology of other minds]] article details how dualism intensifies this challenge: the non-physical nature of consciousness means other minds cannot be read off from physical evidence, yet the Map argues this intensification reflects genuine features of the interpersonal situation rather than creating a spurious problem.
 
 Consider the [[inverted-qualia]] scenario. Suppose your experience of red is phenomenally like my experience of green, but we use the same words and make the same discriminations. No behavioural or third-person evidence reveals the difference. Whether inverted qualia scenarios describe genuine metaphysical possibilities is contested — functionalists deny that experiences could diverge while all functional properties remain identical. But if the Map's dualism is correct, such divergence is at least coherent: there is something it is like for each of us, and the "what it's like" may diverge in ways behaviour cannot reveal. The [[consciousness-and-the-problem-of-other-properties|problem of other properties]] argues this opacity extends beyond colour to every phenomenal quality — pain, emotion, temporal experience. Understanding another person must navigate this structural opacity. You must acknowledge that their phenomenal world may diverge from yours in ways you cannot detect, and this acknowledgment requires having a phenomenal world of your own to recognise as potentially different.
 
@@ -77,7 +79,7 @@ The [[phenomenology-of-understanding-and-meaning|phenomenology of understanding]
 
 ## Shared Experience and Its Limits
 
-The intuition behind phrases like "I understand what you're going through" rests on the assumption that experiences can be, to some degree, shared. The Map takes a nuanced position: experiences cannot be literally shared (each consciousness is its own), but phenomenal overlap enables genuine understanding.
+The intuition behind phrases like "I understand what you're going through" rests on the assumption that experiences can be, to some degree, shared. The Map takes a nuanced position: experiences cannot be literally shared (each consciousness is its own), but phenomenal overlap enables genuine understanding. The [[consciousness-and-intersubjectivity|intersubjectivity article]] explores this structural asymmetry at the ontological level — the fact that I have direct access to my experience and only mediated access to yours is not a deficiency but a constitutive feature of what it means to be a subject among subjects. Here we examine what that asymmetry means for the phenomenology of interpersonal understanding specifically.
 
 This overlap operates through structural similarity. Two people who have both experienced the death of a parent share a structural feature of their phenomenal histories — not the *same* experience, but experiences with enough shared architecture to support mutual recognition. The recognition is fallible. Your grief and mine may share structural features while differing in ways neither of us detects. But fallibility does not mean failure. Approximate, revisable understanding of another person is the best that embodied, separated consciousnesses can achieve, and it is sufficient to ground real moral relationships.
 
@@ -113,8 +115,10 @@ None of these would refute dualism directly, but they would weaken the case that
 
 ## Further Reading
 
+- [[consciousness-and-intersubjectivity]] — The foundational question: is consciousness constitutively intersubjective or ontologically individual?
 - [[topics/consciousness-and-social-cognition]] — The cognitive machinery enabling social life: metarepresentation, theory of mind, institutional reality
 - [[phenomenology-of-understanding-and-meaning]] — The phenomenal character of understanding and meaning in cognitive contexts
+- [[epistemology-of-other-minds-under-dualism]] — How dualism reshapes the epistemology of knowing other minds
 - [[other-minds-void]] — The structural privacy of consciousness and how we navigate it
 - [[intersubjective-void]] — Whether experiences can be genuinely shared
 - [[consciousness-only-territories]] — Experiential regions that may be permanently beyond external access

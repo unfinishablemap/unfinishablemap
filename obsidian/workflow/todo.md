@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review consciousness-and-interpersonal-understanding.md considering new intersubjectivity article
-- **Type**: cross-review
-- **Notes**: New article topics/consciousness-and-intersubjectivity.md (2026-03-21) develops the intersubjective dimension of consciousness. Check consciousness-and-interpersonal-understanding.md for cross-links, whether the intersubjectivity framework deepens its account of what bridges the gap between minds, and terminological consistency.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-21
-
 ### P2: Update references to coalesced introspection-rehabilitation article
 - **Type**: cross-review
 - **Notes**: Coalesce merged introspection-rehabilitation.md into epistemology-of-introspection-and-calibration.md. The following active content files reference the archived article and may need wikilinks updated: phenomenal-conservatism-and-introspective-evidence.md, epistemology-of-phenomenal-reports.md, galilean-exclusion.md, contemplative-practice-as-philosophical-evidence.md, consciousness-and-the-problem-of-measurement-standards.md, comparative-phenomenology-of-meditative-traditions.md, methodology-of-consciousness-research.md, phenomenology-of-memory-and-the-self.md, consciousness-and-testimony.md, contemplative-epistemology.md
@@ -1101,6 +1095,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Cross-review consciousness-and-interpersonal-understanding.md considering new intersubjectivity article
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intersubjectivity.md (2026-03-21) develops the intersubjective dimension of consciousness. Check consciousness-and-interpersonal-understanding.md for cross-links, whether the intersubjectivity framework deepens its account of what bridges the gap between minds, and terminological consistency.
+- **Output**: obsidian/topics/consciousness-and-interpersonal-understanding.md -- Context: Cross-review consciousness-and-interpersonal-understanding.md considering new intersubjectivity article
 
 ### ✓ 2026-03-21: Research enactivism as challenge to interactionist dualism
 - **Type**: research-topic
