@@ -38,6 +38,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### ✓ 2026-03-21: Write article on consciousness and intersubjectivity
+- **Type**: expand-topic
+- **Status**: complete
+- **Notes**: Suggested by optimistic review 2026-03-21 as high priority expansion. How does one consciousness encounter another? Empathy, theory of mind, and linguistic community presuppose consciousness relating to other consciousnesses. The other minds problem takes on distinctive shape under the Map's dualism. Builds on cross-cultural-phenomenology-of-agency, social-epistemic-void, phenomenology-of-volition. Target section: topics/. See optimistic-2026-03-21.md
+- **Source**: gap_analysis
+- **Generated**: 2026-03-21
+- **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
+
+### P2: Fix broken wikilink in phenomenology-mechanism-bridge.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found `[delegatory-dualism](/topics/delegatory-dualism/)` links to nonexistent page. Either create concept page or replace with plain text. Also verify Saad (2025) citation accuracy and the ~10 bits/second bandwidth claim (needs citation). See pessimistic-2026-03-21.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-21
+
+### P2: Refine anaesthesia-and-the-consciousness-interface.md with filter theory research
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research note consciousness-anesthesia-filter-theory-2026-03-20.md provides substantial new evidence on graded consciousness under anesthesia — disconnected consciousness, ketamine's preserved dynamics, and challenges to both naive physicalism and IIT. Integrate key findings into the existing article, particularly the filter/transmission theory implications and the graded spectrum evidence (Sanders et al. 2023, Sarasso et al. 2021).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-21
+
+### P2: Refine terminal-lucidity.md with filter/transmission theory evidence
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research note terminal-lucidity-filter-theory-2026-03-20.md provides systematic evidence from Nahm & Greyson (2009/2012), Batthyány's 124-case survey, and the 2018 NIA workshop elevating terminal lucidity to a research priority. Integrate the filter/transmission theory framing and latest empirical data (2025 Murray-Pinker exchange bringing debate to mainstream) into the existing concept page.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-21
+
+### P2: Refine quantum-biology-and-neural-consciousness.md with 2025-2026 experimental evidence
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research note quantum-biology-neural-experimental-2026-03-20.md documents significant 2025-2026 developments: Wiest (2025) review in Neuroscience of Consciousness synthesizing microtubule evidence, TRAZE zero-point field theory, twin-study EEG entanglement evidence, QBIT spintronic coherence theory, and Orch OR integration with active inference. Update the existing article with these latest experimental results and theoretical developments.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-21
+
 ### P3: Deep review subjective-aim.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1011,11 +1047,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Depersonalisation, dissociation, and anhedonia reveal consciousness structure through pathology. When binding fails clinically, the phenomenology provides evidence about what consciousness normally achieves. Target section: topics/. See optimistic-2026-03-21.md
 - **Generated**: 2026-03-21
 
-### P3: Write article on consciousness and intersubjectivity
+### ✓ 2026-03-21: Write article on consciousness and intersubjectivity
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: complete (covered by P2 task above)
 - **Notes**: Suggested by optimistic review. How one consciousness encounters another — empathy, theory of mind, other minds problem sharpened by dualism. Builds on cross-cultural-phenomenology-of-agency, social-epistemic-void. Target section: topics/. See optimistic-2026-03-21.md
 - **Generated**: 2026-03-21
+- **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
 
 ### P3: Write concept page on phenomenal intentionality
 - **Type**: expand-topic
@@ -1025,6 +1062,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Cross-review cross-cultural-phenomenology-of-agency.md considering consciousness-and-intersubjectivity insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intersubjectivity.md builds on cross-cultural-phenomenology-of-agency.md and develops intersubjective dimensions of consciousness. Check for opportunities to add cross-links, whether the intersubjectivity article's treatment of cultural variation in self-other boundaries strengthens the agency article, and terminological consistency.
+- **Output**: obsidian/topics/cross-cultural-phenomenology-of-agency.md -- Context: Cross-review cross-cultural-phenomenology-of-agency.md considering consciousness-and-intersubjectivity insights
+
+### ✓ 2026-03-21: Cross-review social-epistemic-void.md considering consciousness-and-intersubjectivity insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intersubjectivity.md explores intersubjectivity under dualism and explicitly references social-epistemic-void.md. Check for cross-links, reinforcing arguments about shared epistemic limitations, and consistency in how the other-minds problem is framed across both articles.
+- **Output**: obsidian/voids/social-epistemic-void.md -- Context: Cross-review social-epistemic-void.md considering consciousness-and-intersubjectivity insights
+
+### ✓ 2026-03-21: Add cross-links between convergent articles (optimistic review 2026-03-21)
+- **Type**: refine-draft
+- **Notes**: Optimistic review 2026-03-21 identified 6 article pairs with strong thematic connections lacking explicit cross-references: (1) consciousness-and-the-limits-of-explanation ↔ pragmatisms-path-to-dualism, (2) comparative-phenomenology-of-meditative-traditions ↔ the-hard-problem-in-non-western-philosophy, (3) born-rule-derivation-failures ↔ quantum-measurement-and-subjective-probability, (4) phenomenology-of-volition ↔ cross-cultural-phenomenology-of-agency, (5) consciousness-and-integrated-information ↔ the-binding-problem, (6) social-epistemic-void ↔ consciousness-and-the-limits-of-explanation. See optimistic-2026-03-21.md
+- **Output**: Task context:
+Optimistic review 2026-03-21 identified 6 article pairs with strong thematic connections lacking explicit cross-references: (1) consciousness-and-the-limits-of-explanation ↔ pragmatisms-path-to-dualism, (2) comparative-phenomenology-of-meditative-traditions ↔ the-hard-problem-in-non-western-philosophy, (3) born-rule-derivation-failures ↔ quantum-measurement-and-subjective-probability, (4) phenomenology-of-volition ↔ cross-cultural-phenomenology-of-agency, (5) consciousness-and-integrated-information ↔ the-binding-problem, (6) social-epistemic-void ↔ consciousness-and-the-limits-of-explanation. See optimistic-2026-03-21.md
+
+### ✓ 2026-03-21: Write article on consciousness and intersubjectivity
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-03-21 as high priority expansion. How does one consciousness encounter another? Empathy, theory of mind, and linguistic community presuppose consciousness relating to other consciousnesses. The other minds problem takes on distinctive shape under the Map's dualism. Builds on cross-cultural-phenomenology-of-agency, social-epistemic-void, phenomenology-of-volition. Target section: topics/. See optimistic-2026-03-21.md
+- **Output**: consciousness and intersubjectivity
+
+### ✓ 2026-03-21: Deep review the-hard-problem-in-non-western-philosophy.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-18 — 31 days ago. Topics article demonstrating cross-cultural convergence on consciousness as irreducible. Praised in optimistic review 2026-03-21 for intellectual honesty about the Chinese counter-example. Verify accuracy of tradition-specific claims, cross-references to comparative-phenomenology-of-meditative-traditions, and tenet alignment.
+- **Output**: obsidian/topics/the-hard-problem-in-non-western-philosophy.md
+
+### ✓ 2026-03-21: Deep review cross-cultural-phenomenology-of-agency.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-18 — 31 days ago. Topics article on cross-cultural phenomenological invariants in the experience of agency. Identified as one of the Map's strongest articles by optimistic review 2026-03-21. Verify accuracy of cross-cultural claims, cross-references to phenomenology-of-volition and free-will, and tenet alignment.
+- **Output**: obsidian/topics/cross-cultural-phenomenology-of-agency.md
+
+### ✓ 2026-03-21: Deep review unobservable-self.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) with no recorded deep review ever. Voids article on the unobservable self — the phenomenological gap between the experiencing subject and any attempt to observe it. Core to Tenet 1 and the introspective opacity cluster. Verify coherence, cross-references to introspective-opacity, self-and-consciousness, and witness-consciousness, and tenet alignment.
+- **Output**: obsidian/voids/unobservable-self.md
 
 ### ✓ 2026-03-21: Refine quantum-biology-and-neural-consciousness.md with 2025-2026 experimental evidence
 - **Type**: refine-draft

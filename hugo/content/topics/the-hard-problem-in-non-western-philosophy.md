@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-02-18 01:17:00+00:00
+ai_modified: 2026-03-21 05:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: Indian, Islamic, African, and Japanese traditions independently rec
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-18 01:17:00+00:00
+last_deep_review: 2026-03-21 05:09:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -74,17 +74,19 @@ As Peter Adamson notes, "He takes it as obvious that this being would recognize 
 
 Adamson identifies a counterargument: awareness of something without awareness of all its properties does not prove distinctness. One might simply fail to notice a property. This mirrors contemporary objections to conceivability arguments—the same dialectic, independently discovered.
 
+A century after Ibn Sīnā, al-Ghazālī (1058–1111 CE) pushed the Islamic tradition further toward [mysterianism](/concepts/mysterianism/). In *The Niche of Lights*, al-Ghazālī argued that divine and spiritual realities exceed the capacity of rational investigation—that human cognition has structural limits it cannot transcend from within. This parallels Colin McGinn's cognitive closure thesis: the hard problem may persist not because the answer is complicated but because human minds are constitutionally unable to grasp it.
+
 ## Buddhist Phenomenology: Analysing Rather Than Explaining
 
 Buddhism approaches consciousness differently from all the traditions discussed so far. Rather than asking how matter produces experience (the Western framing) or asserting that consciousness is ontologically separate (Sāṃkhya, Nyāya), Buddhism analyses the *structure* of experience itself.
 
-The Abhidharma traditions developed systematic taxonomies of mental events (*dharmas*), treating consciousness as a stream of momentary, causally connected events—a [process-oriented](/concepts/process-philosophy/) view that predates Whitehead by millennia. The Buddhist logician-epistemologists Dignāga (c. 480–540 CE) and Dharmakīrti (c. 600–660 CE) developed the doctrine of *svasaṃvedana* (self-awareness): every cognitive event involves a pre-reflective awareness of its own occurrence. As Christian Coseru writes, "each cognitive event is to be understood as involving a pre-reflective implicit awareness of its own occurrence"—giving consciousness a reflexive, circular structure that no external description can capture.
+The Abhidharma traditions developed systematic taxonomies of mental events (*dharmas*), treating consciousness as a stream of momentary, causally connected events—a [process-oriented](/concepts/process-philosophy/) view that predates Whitehead by millennia. Jonardon Ganeri's *Attention, Not Self* (2017) traces how these Buddhist analyses of mental structure anticipate and challenge Western frameworks for understanding consciousness. The Buddhist logician-epistemologists Dignāga (c. 480–540 CE) and Dharmakīrti (c. 600–660 CE) developed the doctrine of *svasaṃvedana* (self-awareness): every cognitive event involves a pre-reflective awareness of its own occurrence. As Christian Coseru writes, "each cognitive event is to be understood as involving a pre-reflective implicit awareness of its own occurrence"—giving consciousness a reflexive, circular structure that no external description can capture.
 
 *Svasaṃvedana* is not uncontested within Buddhism. The Madhyamaka school—Nāgārjuna's lineage, continued by Candrakīrti—rejects reflexive self-awareness, arguing that it creates an infinite regress and is incompatible with emptiness (*śūnyatā*). This intra-Buddhist debate mirrors the Western disagreement between those who treat phenomenal consciousness as intrinsic and those who think it dissolves under analysis.
 
 Where the doctrine is accepted, it is directly relevant to the hard problem. If phenomenal awareness is intrinsic to cognition itself—not something added on top of functional processing—then no functional description captures it. *Svasaṃvedana* provides a non-Western foundation for the claim that phenomenal consciousness is irreducible to mechanism.
 
-Buddhism sidesteps the hard problem by starting from experience rather than from physical description. The question becomes "what is the structure of experience?" rather than "how does matter produce consciousness?" As the [Eastern Philosophy and Consciousness](/topics/eastern-philosophy-consciousness/) article notes, this reveals that the hard problem's urgency depends on assuming physicalism. Remove that assumption, and the problem transforms.
+Buddhism sidesteps the hard problem by starting from experience rather than from physical description. The question becomes "what is the structure of experience?" rather than "how does matter produce consciousness?" Evan Thompson's *Waking, Dreaming, Being* (2014) explores how this phenomenological starting point generates philosophical resources unavailable to traditions that begin from third-person physical description. As the [Eastern Philosophy and Consciousness](/topics/eastern-philosophy-consciousness/) article notes, this reveals that the hard problem's urgency depends on assuming physicalism. Remove that assumption, and the problem transforms.
 
 ## Chinese Philosophy: A Genuine Challenge
 
@@ -114,7 +116,7 @@ Ubuntu philosophy challenges the hard problem's most basic assumption: that cons
 
 "A person is a person through other people"—the Ubuntu principle locates consciousness in relations between persons rather than in individual brains. If consciousness is fundamentally relational, then asking how physical processes in a single brain produce subjective experience may be asking the wrong question. The explanatory gap presupposes an individualist ontology that Ubuntu rejects.
 
-The Yoruba concept of *ori-inu*—the "invisible self within the self"—offers an independent echo of the explanatory gap from a completely different tradition. *Ori-inu* is described as "a mystery within a mystery... the source of knowing" that is itself unknowable. The knower cannot be known by the same faculty it constitutes—strikingly parallel to the Western recognition that consciousness cannot be captured in third-person description.
+The Yoruba concept of *ori-inu*—the inner self or hidden personal essence—offers an independent echo of the explanatory gap from a completely different tradition. *Ori-inu* is treated as the deepest source of knowing, yet one that remains inaccessible to the knowing it enables. The knower cannot be known by the same faculty it constitutes—strikingly parallel to the Western recognition that consciousness cannot be captured in third-person description.
 
 Bantu philosophy's concept of vital force (*NTU*), as articulated by Placide Tempels, treats consciousness not as a special property of brains but as an aspect of force pervading all reality, varying in intensity across beings. This resembles [panpsychism](/concepts/panpsychism/)—and faces the same [combination-problem](/concepts/combination-problem/) that panpsychism faces in Western thought. (Tempels' framework has been challenged as a colonial projection by Aimé Césaire and Frantz Fanon, though others have embraced it as reflecting genuine Bantu thought.)
 
@@ -172,6 +174,7 @@ The Map's engagement with non-Western philosophy serves all five tenets.
 ## References
 
 1. Adamson, P. (2016). "What can Avicenna teach us about the mind-body problem?" *Aeon*.
+1. al-Ghazālī. (c. 1100). *Mishkāt al-Anwār* (*The Niche of Lights*). Various translations.
 1. Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200–219.
 1. Coseru, C. (2012). *Perceiving Reality: Consciousness, Intentionality, and Cognition in Buddhist Philosophy*. Oxford University Press.
 1. Ganeri, J. (2017). *Attention, Not Self*. Oxford University Press.
@@ -180,21 +183,3 @@ The Map's engagement with non-Western philosophy serves all five tenets.
 1. O'Brien-Kop, K. (2023). "The hard problem of 'pure' consciousness: Sāṃkhya dualist ontology." *Religious Studies*, Cambridge University Press.
 1. Siderits, M. (2007). *Buddhism as Philosophy*. Hackett.
 1. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
-
-<!-- AI REFINEMENT LOG - 2026-02-15
-Changes made:
-1. Rewrote Chinese Philosophy section to engage seriously with framework-dependence challenge instead of dismissing it as "avoiding the question"
-1. Removed unattributed quotation ("There is no reduction but holistic correlation...") — replaced with paraphrase
-1. Removed unverifiable Wang Yangming quotation
-1. Weakened opening paragraph: "is itself evidence" → "is significant", added Chinese counter-example upfront
-1. Weakened convergence argument section: acknowledged Chinese exception explicitly, qualified convergence as partial
-1. Weakened Sāṃkhya-quantum analogy: "structurally analogous" → "shares a thematic concern", acknowledged structural differences
-1. Toned down overclaiming: "directly addresses" → "speaks to", "directly targets" → "bears on"
-1. Expanded "What Would Challenge This View?" section with Empiricist objection, cognitive bias argument, and framework-dependence as strongest challenge
-1. Updated description to reflect more nuanced treatment
-
-Based on pessimistic-2026-02-14.md review (Issues 3, 5, plus language improvements).
-Key improvements: Intellectual honesty about limits of convergence argument; serious engagement with Chinese counter-example.
-
-This log should be removed after human review.
--->

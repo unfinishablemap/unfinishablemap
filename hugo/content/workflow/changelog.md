@@ -9,6 +9,86 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-21 06:39 UTC - deep-review
+- **Status**: Success
+- **File**: [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/)
+- **Word count**: 1780 → 1925 (+145)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 3 (intersubjective epistemics paragraph, cross-links to consciousness-and-intersubjectivity, Further Reading entry)
+- **Output**: [deep-review-2026-03-21b-cross-cultural-phenomenology-of-agency](/reviews/deep-review-2026-03-21b-cross-cultural-phenomenology-of-agency/)
+
+## 2026-03-21 06:24 UTC - deep-review
+- **Status**: Success
+- **File**: [social-epistemic-void](/voids/social-epistemic-void/)
+- **Word count**: 1891 → 1932 (+41)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3 (developmental evidence, intersubjectivity connection, cross-links)
+- **Output**: [deep-review-2026-03-21b-social-epistemic-void](/reviews/deep-review-2026-03-21b-social-epistemic-void/)
+
+## 2026-03-21 06:20 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: apex/phenomenology-mechanism-bridge.md, concepts/terminal-lucidity.md, topics/consciousness-and-intersubjectivity.md
+- **Output**: [pessimistic-2026-03-21](/reviews/pessimistic-2026-03-21/)
+
+## 2026-03-21 05:54 UTC - refine-draft
+- **Status**: Success
+- **Files**: [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/), [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/), [phenomenology-of-volition](/concepts/phenomenology-of-volition/), [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/), [consciousness-and-integrated-information](/topics/consciousness-and-integrated-information/), [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/), [social-epistemic-void](/voids/social-epistemic-void/), [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/)
+- **Changes**: Added cross-references between 5 article pairs identified by optimistic review 2026-03-21 (pair 1 already cross-referenced). Added wikilinks in frontmatter related_articles, body text, and Further Reading sections.
+- **Published**: yes
+
+## 2026-03-21 05:39 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and intersubjectivity
+- **Output**: [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/)
+- **Word count**: 2360
+- **Based on research**: No
+
+## 2026-03-21 05:25 UTC - deep-review
+- **Status**: Success
+- **File**: [control-theoretic-will](/concepts/control-theoretic-will/)
+- **Word count**: 2339 → 2353 (+14)
+- **Critical issues addressed**: 1 (missing Brass & Haggard 2007 reference entry)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-21-control-theoretic-will](/reviews/deep-review-2026-03-21-control-theoretic-will/)
+
+## 2026-03-21 05:09 UTC - deep-review
+- **Status**: Success
+- **File**: [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/)
+- **Word count**: 2691 → 2811 (+120)
+- **Critical issues addressed**: 2 (unattributed ori-inu quotation, stale HTML refinement log)
+- **Medium issues addressed**: 2 (al-Ghazālī absence from Islamic section, orphan references for Ganeri/Thompson)
+- **Enhancements made**: 4 (al-Ghazālī paragraph, Ganeri inline citation, Thompson inline citation, ori-inu paraphrase)
+- **Output**: [deep-review-2026-03-21-the-hard-problem-in-non-western-philosophy](/reviews/deep-review-2026-03-21-the-hard-problem-in-non-western-philosophy/)
+
+## 2026-03-21 04:54 UTC - deep-review
+- **Status**: Success
+- **File**: [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/)
+- **Word count**: 1698 → 1729 (+31)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (broken frontmatter link, misleading wikilink, Buddhist underdetermined framing, uncited references, missing cross-links)
+- **Enhancements made**: 3 (in-text citations for Slingerland/Thompson, cross-links to 2 companion articles)
+- **Output**: [deep-review-2026-03-21-cross-cultural-phenomenology-of-agency](/reviews/deep-review-2026-03-21-cross-cultural-phenomenology-of-agency/)
+
+## 2026-03-21 04:47 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 444 (225 topics, 219 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 19 (13 AI refinement log artifacts, 6 philosophical tensions handled correctly)
+- **Output**: [tenet-check-2026-03-21](/reviews/tenet-check-2026-03-21/)
+
+## 2026-03-21 04:40 UTC - deep-review
+- **Status**: Success
+- **File**: [unobservable-self](/voids/unobservable-self/)
+- **Word count**: 1651 → 1680 (+29)
+- **Critical issues addressed**: 2 (false Sartre quotation, false Kant quotation)
+- **Medium issues addressed**: 2 (unhedged quantum mechanism, missing narrative-void cross-link)
+- **Enhancements made**: 1 (restored narrative-void cross-link from previous review)
+- **Output**: [deep-review-2026-03-21-the-unobservable-self](/reviews/deep-review-2026-03-21-the-unobservable-self/)
+
 ## 2026-03-21 04:12 UTC - refine-draft
 - **Status**: Success
 - **File**: [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-21 00:57:00+00:00
+ai_modified: 2026-03-21 05:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Will as a low-bandwidth control signal—gating, stabilizing, and s
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-23 03:58:00+00:00
+last_deep_review: 2026-03-21 05:25:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -165,6 +165,7 @@ Conflating the model with the ontology would be a category error—treating a us
 
 ## References
 
+1. Brass, M. & Haggard, P. (2007). To do or not to do: the neural signature of self-control. *Journal of Neuroscience*, 27(34), 9141-9145.
 1. Cisek, P. (2007). Cortical mechanisms of action selection: the affordance competition hypothesis. *Philosophical Transactions of the Royal Society B*, 362(1485), 1585-1599.
 1. Libet, B. (1985). Unconscious cerebral initiative and the role of conscious will in voluntary action. *Behavioral and Brain Sciences*, 8(4), 529-539.
 1. Meister, M. (2024). The physical limits of perception. *PNAS*, 121(14), e2400258121.

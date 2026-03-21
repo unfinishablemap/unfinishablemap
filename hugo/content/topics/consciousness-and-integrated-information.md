@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-03-19 23:02:00+00:00
+ai_modified: 2026-03-21 05:54:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -42,6 +42,7 @@ related_articles:
 - '[[cognitive-integration-and-the-self]]'
 - '[[phenomenal-binding-and-holism]]'
 - '[[metaphysics-of-information-under-dualism]]'
+- '[[the-binding-problem-a-systematic-treatment]]'
 title: Consciousness and Integrated Information
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -146,7 +147,7 @@ This selective character is what the Map's framework predicts. If consciousness 
 
 ## The Binding Problem Revisited
 
-The [binding problem](/concepts/binding-problem/)—how distributed neural processing produces unified experience—looks different depending on whether integration is treated as identity or activity.
+The [binding problem](/concepts/binding-problem/)—how distributed neural processing produces unified experience—looks different depending on whether integration is treated as identity or activity. [The systematic treatment of binding](/topics/the-binding-problem-a-systematic-treatment/) reveals that this is not one problem but a family of five (intra-modal, cross-modal, temporal, cognitive, and subject binding), each exhibiting the same gap between physical coordination and phenomenal unity. IIT's identity thesis claims to dissolve all five simultaneously, but the dissolution is unsatisfying for the same reason in every case.
 
 IIT claims to dissolve the binding problem: if consciousness *is* integration, then asking how integration produces consciousness is a category error. But this dissolution is unsatisfying. We can still ask *why* integrated information should be conscious. The binding problem reappears as the question of why phi feels like anything.
 
@@ -180,6 +181,7 @@ The choice between identity and activity frameworks maps directly onto the Map's
 - [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — Binding as a phenomenal rather than physical achievement
 - [cognitive-integration-and-the-self](/topics/cognitive-integration-and-the-self/) — How integration constitutes the unified self
 - [binding-problem](/concepts/binding-problem/) — The puzzle of how distributed processing yields unified experience
+- [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) — Five varieties of binding that IIT's identity thesis claims to dissolve
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — Why information cannot be identical to consciousness under dualism
 - [measurement-problem](/concepts/measurement-problem/) — The quantum puzzle that creates logical space for conscious selection
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The puzzle both IIT and the Map address
