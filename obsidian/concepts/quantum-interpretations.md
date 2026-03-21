@@ -64,7 +64,7 @@ Answers fall into three categories:
 - Measurement causes collapse, but "measurement" is undefined
 - Classical apparatus is assumed to exist alongside quantum systems
 
-**Consciousness role:** The original Copenhagen avoided the question by requiring classical measuring apparatus. Von Neumann and Wigner later suggested consciousness might be the collapse trigger, but this isn't standard Copenhagen.
+**Consciousness role:** The original Copenhagen avoided the question by requiring classical measuring apparatus. Von Neumann and Wigner later suggested consciousness might be the collapse trigger—see [[von-neumann-wigner-interpretation]] for the full account—but this isn't standard Copenhagen.
 
 **Site compatibility:** Moderate. Copenhagen's undefined measurement leaves logical space for consciousness, but its instrumentalism conflicts with the Map's realist commitments about consciousness.
 

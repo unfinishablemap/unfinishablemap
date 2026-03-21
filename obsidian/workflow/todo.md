@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate von-neumann-wigner-interpretation.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: Concept page created 2026-03-20 has only 3 inbound links despite being the historical foundation for Tenet 2 (Minimal Quantum Interaction). Add cross-references from quantum consciousness mechanism articles, consciousness-collapse articles, and the measurement problem discussions.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-21
-
 ### P2: Deep review consciousness-and-intersubjectivity.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1104,6 +1097,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Integrate von-neumann-wigner-interpretation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept page created 2026-03-20 has only 3 inbound links despite being the historical foundation for Tenet 2 (Minimal Quantum Interaction). Add cross-references from quantum consciousness mechanism articles, consciousness-collapse articles, and the measurement problem discussions.
+- **Output**: obsidian/concepts/von-neumann-wigner-interpretation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-21: Integrate cross-traditional-convergence-on-consciousness-irreducibility.md into site navigation
 - **Type**: integrate-orphan
