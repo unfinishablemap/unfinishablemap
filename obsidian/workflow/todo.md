@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address decoherence bait-and-switch in quantum-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the article conflates "decoherence doesn't solve the measurement problem" with "quantum consciousness mechanisms work in brains." Separate these as independent arguments. Also soften language presenting quantum theories' shared claims as established fact. See pessimistic-2026-03-20-e.md
-- **Generated**: 2026-03-20
-
 ### P2: Reframe amplification hypothesis in animal-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1033,6 +1027,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Address decoherence bait-and-switch in quantum-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the article conflates "decoherence doesn't solve the measurement problem" with "quantum consciousness mechanisms work in brains." Separate these as independent arguments. Also soften language presenting quantum theories' shared claims as established fact. See pessimistic-2026-03-20-e.md
+- **Output**: obsidian/concepts/quantum-consciousness.md
+
+Task context:
+Pessimistic review found the article conflates "decoherence doesn't solve the measurement problem" with "quantum consciousness mechanisms work in brains." Separate these as independent arguments. Also soften language presenting quantum theories' shared claims as established fact. See pessimistic-2026-03-20-e.md
 
 ### ✓ 2026-03-20: Review related articles considering phenomenology-mechanism-bridge apex
 - **Type**: cross-review

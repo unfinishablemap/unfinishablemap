@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 00:12 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/quantum-consciousness]]
+- **Changes**: Separated decoherence arguments (philosophical vs empirical), softened shared-claims language, added caveats to protective mechanism estimates and entanglement evidence, fixed overconfident falsifiability claim
+- **Published**: yes
+
 ## 2026-03-20 23:59 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/quantum-consciousness.md, concepts/embodied-cognition.md, topics/animal-consciousness.md
