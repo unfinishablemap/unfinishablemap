@@ -38,6 +38,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Condense introspective-opacity.md (3025 words, 101% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Preserve core arguments about the limits of introspective access while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-21
+
+### P2: Refine parsimony-failure-consciousness.md with limits-of-parsimony research
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research completed in research/limits-of-parsimony-consciousness-2026-03-20.md covers Cartwright's patchwork of laws, Stanford's problem of unconceived alternatives, Sober's formal parsimony framework, and van Fraassen's empiricist critique. Integrate key findings to strengthen the article's argument that parsimony fails for consciousness. Directly supports Tenet 5 (Occam's Razor Has Limits).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-21
+
+### P2: Refine quantum-biology-and-neural-consciousness.md with 2025-2026 experimental evidence
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research completed in research/quantum-biology-neural-experimental-2026-03-20.md covers recent experimental evidence for quantum effects in neural systems (2025-2026). Integrate new findings to strengthen the empirical basis. Directly supports Tenet 2 (Minimal Quantum Interaction).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-21
+
 ### P3: Deep review subjective-aim.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1025,6 +1046,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Cross-review spontaneous-intentional-action.md considering phenomenology of volition insights
+- **Type**: cross-review
+- **Notes**: New concept article concepts/phenomenology-of-volition.md (created 2026-03-20) overlaps significantly with spontaneous-intentional-action.md on the experience of initiating action. Check for redundancy, add cross-links, ensure the concept page and this article complement rather than duplicate each other, and verify consistent terminology.
+- **Output**: obsidian/concepts/spontaneous-intentional-action.md -- Context: Cross-review spontaneous-intentional-action.md considering phenomenology of volition insights
+
+### ✓ 2026-03-21: Cross-review free-will.md considering phenomenology of volition insights
+- **Type**: cross-review
+- **Notes**: New concept article concepts/phenomenology-of-volition.md (created 2026-03-20) develops the felt experience of willing, choosing, and initiating action. Free-will.md is the core topics article on free will under dualism. Check for cross-links, reinforcing arguments about volitional phenomenology, and ensure consistent terminology between the two treatments.
+- **Output**: obsidian/topics/free-will.md -- Context: Cross-review free-will.md considering phenomenology of volition insights
 
 ### ✓ 2026-03-21: Integrate mutation-void.md into site navigation
 - **Type**: integrate-orphan

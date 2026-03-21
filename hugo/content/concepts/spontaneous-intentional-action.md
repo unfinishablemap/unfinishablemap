@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-03-21 00:57:00+00:00
+ai_modified: 2026-03-21 02:27:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,6 +18,7 @@ concepts:
 - '[[authentic-vs-inauthentic-choice]]'
 - '[[interface-friction]]'
 - '[[reasons-responsiveness]]'
+- '[[phenomenology-of-volition]]'
 created: 2026-02-13
 date: &id001 2026-02-17
 description: Actions that are genuinely intentional yet arise without prior deliberation—a
@@ -25,7 +26,7 @@ description: Actions that are genuinely intentional yet arise without prior deli
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-20 14:59:00+00:00
+last_deep_review: 2026-03-21 02:27:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -65,9 +66,9 @@ What remains is a category of actions that are intentional—goal-directed, flex
 
 The [agency-passivity spectrum](/topics/phenomenology-of-agency-vs-passivity/) helps locate spontaneous intentional action experientially.
 
-**Authorship without effort.** The sense of "I did this" is present, but the [phenomenology of effort](/concepts/mental-effort/) is absent or minimal. This dissociation is philosophically important. If effort tracked agency itself (rather than the difficulty of selection), spontaneous intentional actions would feel passive. They do not. You own the spontaneous kind word; it feels like something you did, not something that happened to you.
+**Authorship without effort.** The [four components of volitional experience](/concepts/phenomenology-of-volition/)—initiation, sustained control, effort, and veto—are selectively present in spontaneous intentional action. Initiation phenomenology is vivid: the sense of "I did this" is unmistakable. But sustained control and effort are compressed nearly to zero. This selective profile is philosophically important. If authorship required all four components operating at full intensity, spontaneous actions would feel unauthored. Instead, initiation alone carries the mark of agency. You own the spontaneous kind word; it feels like something you did, not something that happened to you. Crucially, veto capacity is preserved—you *can* stop the reaching hand, catch the word before it leaves your mouth—which confirms that spontaneous action remains under conscious governance even when effort and deliberation are absent.
 
-**Compressed temporality.** Deliberate choice unfolds in Bergson's [durée](/concepts/temporal-consciousness/)—lived qualitative time in which options interpenetrate, evolve, and eventually resolve. Spontaneous intentional action compresses this arc. The intention and the action arise together or nearly so. There may be no experiential gap between wanting and doing—yet the action is not automatic either. It carries the mark of intelligent sensitivity to the situation.
+**Compressed temporality.** Deliberate choice unfolds in Bergson's [durée](/concepts/temporal-consciousness/)—lived qualitative time in which options interpenetrate, evolve, and eventually resolve. Spontaneous intentional action compresses this arc: intention and action arise together, with no experiential gap between wanting and doing—yet the action carries the mark of intelligent sensitivity to the situation rather than automaticity.
 
 **Retrospective recognition.** Often the intentional character of a spontaneous action becomes fully clear only after the fact. You realise you stopped for the hawk because something in you recognised its importance. The action was intelligent from the start, but its intelligence becomes articulable only in retrospect. This connects to [volitional opacity](/voids/introspective-opacity/): the mechanism of initiation is hidden, yet the action is clearly authored.
 
@@ -89,7 +90,7 @@ Philosophical accounts of free will often focus on deliberation as the paradigm 
 
 The Map's [agent-causal framework](/concepts/agent-causation/) handles this naturally. Consciousness selects among possibilities the brain presents. Sometimes selection requires extended deliberation—holding options open, comparing, effortfully resolving. Other times, the right option is immediately apparent and selection is instant. The same mechanism operates in both cases: consciousness biasing quantum indeterminacies toward outcomes that express its content. What varies is the difficulty of selection, not its nature.
 
-This explains the [phenomenological profile](/topics/phenomenology-of-agency-vs-passivity/). Effort tracks difficulty of selection, not presence of selection. Easy selection feels effortless—but it is still selection. The agent is still the source. Spontaneous action represents the low-[friction](/concepts/interface-friction/) end of the mind-brain interface, where the brain presents a well-prepared option that consciousness need only endorse.
+This explains the [phenomenological profile](/topics/phenomenology-of-agency-vs-passivity/). Effort tracks difficulty of selection, not presence of selection. Easy selection feels effortless but is still selection. Spontaneous action represents the low-[friction](/concepts/interface-friction/) end of the mind-brain interface, where the brain presents a well-prepared option that consciousness need only endorse.
 
 The [luck objection](/concepts/agent-causation/#luck-objection) to libertarian free will—that undetermined selection is mere randomness, not genuine agency—might seem especially acute for spontaneous action, where no reasons are explicitly weighed. But the Map's framework distinguishes agent-causation from chance: the agent's accumulated character, values, and [responsiveness to reasons](/concepts/reasons-responsiveness/) shape selection even when reasons are not consciously rehearsed. Spontaneous actions are not random; they express the depth of the agent.
 

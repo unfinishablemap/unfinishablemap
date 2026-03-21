@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-03-21 00:57:00+00:00
+ai_modified: 2026-03-21 02:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -32,7 +32,7 @@ description: Can we genuinely author our choices? The Map defends agent-causal l
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-25 12:26:00+00:00
+last_deep_review: 2026-03-21 02:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -68,7 +68,7 @@ The **[luck objection](/concepts/luck-objection/)** is the strongest challenge t
 
 Three lines of evidence support genuine agent causation:
 
-1. **Phenomenology of effort**: Choosing feels effortful. If choices were random fluctuations, there would be no phenomenology of effort. The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-effort/) extends this to reasoning.
+1. **Phenomenology of volition**: The [phenomenology of volition](/concepts/phenomenology-of-volition/) reveals four distinguishable components of willing — initiation, sustained control, effort, and veto — each with distinct neural correlates and clinical dissociation patterns. If choices were random fluctuations, this articulated structure would have no explanation. The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-effort/) extends the effort component to reasoning.
 2. **Reasons-guidance**: Selection responds to what matters to the agent. Reasons *influence* (though don't determine) which outcome actualizes.
 3. **Distinctive neural signatures**: Willed actions show frontal theta oscillations and bidirectional coherence that automatic processes lack.
 
@@ -76,7 +76,7 @@ The physicalist can accommodate the neural data—different neural modes explain
 
 ### Introspective Reliability
 
-Schwitzgebel (2011) has documented pervasive introspective failures. Why trust phenomenology about agency? Because the argument depends on a *coarse-grained, first-order distinction*—choosing feels different from observing—not on subtle introspective classification. Even Wegner (2002), who argues conscious will is an illusion, acknowledges the robust feeling of effort; his claim is that it *misrepresents its cause*, not that it doesn't exist. Three features make agency phenomenology robust: the distinction is coarse-grained (choosing vs observing), behaviourally consequential (reports correlate with distinct neural signatures), and cross-domain stable (the same effortful quality appears in attention, motor control, reasoning, and creative generation). The Map argues that the existence and structure of this phenomenology, combined with its neural correlates, is better explained by genuine agent involvement than by systematic misleading.
+Schwitzgebel (2011) has documented pervasive introspective failures. Why trust phenomenology about agency? Because the argument depends on a *coarse-grained, first-order distinction*—choosing feels different from observing—not on subtle introspective classification. Even Wegner (2002), who argues conscious will is an illusion, acknowledges the robust feeling of effort; his claim is that it *misrepresents its cause*, not that it doesn't exist. Three features make agency phenomenology robust: the distinction is coarse-grained (choosing vs observing), behaviourally consequential (reports correlate with distinct neural signatures), and cross-domain stable (the same effortful quality appears in attention, motor control, reasoning, and creative generation). Moreover, agency and ownership dissociate in clinical populations — schizophrenia and anarchic hand syndrome show that initiation phenomenology tracks genuine causal structure rather than being blanket confabulation applied to all movement (Gallagher & Zahavi, 2012). Dismissing volitional phenomenology as illusion requires not one trick but four independent tricks — fabricating initiation, sustained control, effort gradients, and active veto, each calibrated to real cognitive demands with distinct neural substrates. The Map argues that this structured phenomenology, combined with its neural correlates, is better explained by genuine agent involvement than by systematic misleading.
 
 ### The Phenomenology of Choice
 
@@ -205,3 +205,4 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 1. Suddendorf, T., & Corballis, M. C. (2007). The evolution of foresight. *Behavioral and Brain Sciences*, 30(3), 299-313.
 1. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
 1. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
+1. Gallagher, S., & Zahavi, D. (2012). *The Phenomenological Mind* (2nd ed.). Routledge.

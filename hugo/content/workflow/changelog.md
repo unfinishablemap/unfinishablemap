@@ -9,6 +9,33 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-21 02:27 UTC - deep-review
+- **Status**: Success
+- **File**: [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/)
+- **Word count**: 2376 → 2420 (+44)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (four-component framework integration, veto preservation argument, frontmatter cross-link)
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-21-spontaneous-intentional-action](/reviews/deep-review-2026-03-21-spontaneous-intentional-action/)
+
+## 2026-03-21 02:13 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemology-of-mechanism-at-the-consciousness-matter-interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/)
+- **Word count**: 2582 → 2619 (+37)
+- **Critical issues addressed**: 1 (broken wikilink to non-existent article)
+- **Medium issues addressed**: 2 (Born rule detection difficulty, uncited theta-band claim)
+- **Enhancements made**: 1 (minor phrasing fix)
+- **Output**: [deep-review-2026-03-21-epistemology-of-mechanism-at-the-consciousness-matter-interface](/reviews/deep-review-2026-03-21-epistemology-of-mechanism-at-the-consciousness-matter-interface/)
+
+## 2026-03-21 02:05 UTC - deep-review
+- **Status**: Success
+- **File**: [free-will](/topics/free-will/)
+- **Word count**: 2303 → 2406 (+103)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (four-component volitional structure integration, "four independent tricks" argument, body-text cross-link to phenomenology-of-volition)
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-21-free-will](/reviews/deep-review-2026-03-21-free-will/)
+
 ## 2026-03-21 01:42 UTC - deep-review
 - **Status**: Success
 - **File**: [mutation-void](/voids/mutation-void/)

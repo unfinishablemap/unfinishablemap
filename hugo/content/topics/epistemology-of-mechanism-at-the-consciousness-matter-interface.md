@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-21 02:13:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: What kind of knowledge is possible about how consciousness interact
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-22 05:31:00+00:00
+last_deep_review: 2026-03-21 02:13:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,7 +53,7 @@ The consciousness-matter interface is unique in that we have access to both side
 
 **Third-person access to the physical side** delivers precise, quantifiable knowledge of neural and quantum events—firing rates, field potentials, decoherence timescales. This knowledge is mathematically tractable but reveals nothing about experience. No amount of neural data tells us what attention *feels like* from the inside.
 
-**No access to the interface itself** is available from either side alone. First-person experience does not disclose the mechanism by which it influences neurons. Third-person measurement cannot detect the moment where a phenomenal state biases a quantum outcome, because the bias (if real) operates within the probability distribution that physics already permits—it looks like ordinary quantum indeterminacy from the outside. This inaccessibility is what the [causal interface void](/voids/causal-interface/) identifies as a structural feature of the problem, not a contingent gap in current knowledge.
+**No access to the interface itself** is available from either side alone. First-person experience does not disclose the mechanism by which it influences neurons. Third-person measurement cannot detect the moment where a phenomenal state biases a quantum outcome, because the bias (if real) operates within the probability distribution that physics already permits—it looks like ordinary quantum indeterminacy from the outside. This inaccessibility is what the [causal interface void](/voids/causal-interface/) marks as a structural feature of the problem, not a contingent gap in current knowledge.
 
 This asymmetry has a direct implication: knowledge of the interface must be *inferential*. We cannot observe the interface; we can only infer its properties from observations made on each side separately. The epistemological question becomes: what inferential methods are available, and how much can they tell us?
 
@@ -107,9 +107,9 @@ The Map neither endorses nor dismisses cognitive closure. It takes seriously the
 
 Given these epistemic constraints, what would genuine progress in understanding the interface mechanism look like?
 
-**Narrowing the phenomenal variable.** Demonstrating empirically that one type of conscious state (attention, intention, valence) correlates with physical selection while others do not would constrain the phenomenal side of the coupling. The willed attention research (theta-band signatures distinguishing willed from instructed processing) is a step in this direction.
+**Narrowing the phenomenal variable.** Demonstrating empirically that one type of conscious state (attention, intention, valence) correlates with physical selection while others do not would constrain the phenomenal side of the coupling. Research on willed attention—including studies linking volitional effort to distinct neural signatures such as frontal theta-band activity—is a step in this direction.
 
-**Distinguishing selection from noise.** If consciousness biases quantum outcomes, statistical analysis of neural outcome distributions should reveal departures from the Born rule under conditions of conscious engagement versus unconscious processing. Such departures would be small—consistent with minimal interaction—but detectable in principle with sufficient data.
+**Distinguishing selection from noise.** If consciousness biases quantum outcomes, statistical analysis of neural outcome distributions should reveal departures from the Born rule under conditions of conscious engagement versus unconscious processing. Such departures would be small—consistent with minimal interaction—and detecting them would be extraordinarily difficult, requiring isolation of quantum-level signals from thermal noise in warm biological tissue. This remains a theoretical benchmark rather than a near-term experimental programme, but it defines what decisive evidence would look like.
 
 **Developing phenomenal metrics.** The interface will not be specified until phenomenal states can be measured on a scale that admits mathematical relationships. Current psychophysical methods measure stimulus-response mappings, not phenomenal magnitudes directly. A method for quantifying phenomenal intensity as such—not merely via behavioural proxies—would open a new class of inferential strategies.
 
@@ -137,7 +137,7 @@ The Map's honest assessment: the epistemology of mechanism at the interface is c
 - [mental-causation](/concepts/mental-causation/) — The broader case for consciousness causing physical effects
 - [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/) — From Descartes to contemporary quantum approaches
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — When and how convergence carries evidential weight
-- [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) — Why consciousness breaks standard explanatory frameworks
+- [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) — Why consciousness breaks standard explanatory frameworks
 - [causal-interface](/voids/causal-interface/) — The void at the point where consciousness meets matter
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the candidate site for consciousness-physics interaction
 
