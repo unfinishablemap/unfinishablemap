@@ -58,6 +58,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from arguments-against-epiphenomenalism.md)
 - **Generated**: 2026-03-21
 
+### P2: Address unspecified quantum selection mechanism in causal-closure.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the "quantum exception" section claims consciousness "selects" quantum outcomes but never specifies how, how it preserves Born rule statistics, or why it isn't empirically equivalent to epiphenomenalism. Acknowledge the mechanism gap explicitly rather than implying it's well-understood. See pessimistic-2026-03-21-b.md
+- **Generated**: 2026-03-21
+
+### P2: Strengthen cross-cultural-phenomenology-of-agency.md inference from persistence to irreducibility
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the central inference — from cross-cultural phenomenological persistence to irreducibility — is underdetermined. Biological universalism explains the same invariants. Distinguish functional invariants (biology explains) from phenomenal invariants (Map claims biology cannot). Currently conflates them. See pessimistic-2026-03-21-b.md
+- **Generated**: 2026-03-21
+
 ### P3: Deep review consciousness-and-intersubjectivity.md
 - **Type**: deep-review
 - **Status**: pending
