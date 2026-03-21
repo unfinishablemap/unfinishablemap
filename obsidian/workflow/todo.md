@@ -59,6 +59,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from consciousness-and-intersubjectivity.md)
 - **Generated**: 2026-03-21
 
+### P2: Fix broken wikilink in phenomenology-mechanism-bridge.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found `[[delegatory-dualism]]` links to nonexistent page. Either create concept page or replace with plain text. Also verify Saad (2025) citation accuracy and the ~10 bits/second bandwidth claim (needs citation). See pessimistic-2026-03-21.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-21
+
 ### P2: Refine anaesthesia-and-the-consciousness-interface.md with filter theory research
 - **Type**: refine-draft
 - **Status**: pending
