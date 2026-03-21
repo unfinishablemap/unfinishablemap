@@ -4,8 +4,8 @@ description: "Free will as the capacity for genuine authorship of choices. The U
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-02-26T10:03:00+00:00
-last_deep_review: 2026-02-22T09:37:00+00:00
+ai_modified: 2026-03-21T09:39:00+00:00
+last_deep_review: 2026-03-21T09:39:00+00:00
 draft: false
 topics:
   - "[[topics/free-will|Free Will and Determinism]]"
@@ -18,6 +18,7 @@ concepts:
   - "[[quantum-indeterminacy-free-will]]"
   - "[[moral-responsibility]]"
   - "[[concepts/epiphenomenalism]]"
+  - "[[self-stultification]]"
   - "[[mental-effort]]"
   - "[[luck-objection]]"
   - "[[interactionist-dualism]]"
@@ -31,6 +32,7 @@ related_articles:
   - "[[counterfactual-reasoning]]"
   - "[[retrocausality]]"
   - "[[authentic-vs-inauthentic-choice]]"
+  - "[[phenomenology-of-volition]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -62,7 +64,7 @@ Crucially, the agent selects based on [[reasons-responsiveness|reasons]] — con
 
 Three lines of experiential evidence support genuine agency:
 
-**The [[phenomenology-of-choice|phenomenology of choice]]** — Choosing feels fundamentally different from observing. Deliberation involves felt openness among alternatives, resolution when one is selected, and a sense of authorship afterward. If choices were predetermined, this phenomenological structure would be systematically misleading in a way that requires its own explanation.
+**The [[phenomenology-of-choice|phenomenology of choice]]** — Choosing feels fundamentally different from observing. Deliberation involves felt openness among alternatives, resolution when one is selected, and a sense of authorship afterward — what the Map calls the [[phenomenology-of-volition|phenomenology of volition]]. If choices were predetermined, this phenomenological structure would be systematically misleading in a way that requires its own explanation.
 
 **The [[mental-effort|phenomenology of effort]]** — Hard choices feel hard. Sustained attention requires ongoing engagement. William James argued that "the free will question relates solely to the amount of effort of attention." If choices were random fluctuations (as the luck objection suggests), there would be no phenomenology of effort — random events don't feel like work.
 
@@ -126,6 +128,7 @@ Failure of any *particular* proposed mechanism (quantum approaches, retrocausal 
 - [[moral-responsibility]] — How agent causation grounds genuine desert
 - [[counterfactual-reasoning]] — The consciousness-dependent capacity to evaluate alternatives
 - [[attention-as-interface|voluntary attention]] — Neural signatures distinguishing willed from automatic action
+- [[phenomenology-of-volition]] — The felt character of volitional experience and its evidential weight
 - [[authentic-vs-inauthentic-choice]] — When choice engages genuine agency versus running on scripts
 - [[moral-implications-of-genuine-agency]] — What genuine agency implies for obligation, character, and moral life
 
