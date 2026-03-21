@@ -45,13 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-21
 - **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
 
-### P2: Cross-review epiphenomenalism.md considering arguments-against-epiphenomenalism insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page arguments-against-epiphenomenalism.md systematically catalogues counter-arguments to epiphenomenalism. The existing epiphenomenalism.md concept page should cross-reference this new treatment, ensure consistent terminology, and link to the systematic counter-arguments where relevant.
-- **Source**: chain (from arguments-against-epiphenomenalism.md)
-- **Generated**: 2026-03-21
-
 ### P2: Cross-review the-epiphenomenalist-threat.md considering arguments-against-epiphenomenalism insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1093,6 +1086,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Cross-review epiphenomenalism.md considering arguments-against-epiphenomenalism insights
+- **Type**: cross-review
+- **Notes**: New concept page arguments-against-epiphenomenalism.md systematically catalogues counter-arguments to epiphenomenalism. The existing epiphenomenalism.md concept page should cross-reference this new treatment, ensure consistent terminology, and link to the systematic counter-arguments where relevant.
+- **Output**: obsidian/concepts/epiphenomenalism.md -- Context: Cross-review epiphenomenalism.md considering arguments-against-epiphenomenalism insights
 
 ### ✓ 2026-03-21: Create concept page for epiphenomenalism-argument
 - **Type**: expand-topic
