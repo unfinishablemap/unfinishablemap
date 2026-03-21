@@ -4,7 +4,7 @@ description: "Multiple independent empirical lines—evolutionary, cognitive, ne
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-03-18T01:29:00+00:00
+ai_modified: 2026-03-21T00:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-21
 last_curated:
-last_deep_review: 2026-02-22T10:52:00+00:00
+last_deep_review: 2026-03-21T00:43:00+00:00
 ---
 
 No single experiment proves consciousness selects among quantum outcomes in the brain. The Unfinishable Map does not claim otherwise. What exists is a convergence of independent empirical lines—evolutionary, cognitive, neurological, and quantum-biological—that collectively favour the hypothesis over its competitors. Each line of evidence eliminates alternatives. Together they narrow the viable options until [[concepts/consciousness-selecting-neural-patterns|consciousness-selecting]] emerges as the most coherent explanation that survives all constraints.
@@ -82,7 +82,7 @@ The neurological line establishes:
 - **Directed conscious effort produces measurable neural changes.** The changes track the phenomenology of effort.
 - **Willed and automatic processing have distinct signatures.** Something distinguishes them beyond mere task difficulty.
 
-**What the neurological line does not establish:** That the distinction between willed and automatic processing involves quantum effects. A purely computational account—willed attention recruits additional neural circuits—remains viable as an alternative interpretation of the same data. (For first-person evidence from trained observers that complements these third-person findings, see [[contemplative-practice-as-philosophical-evidence|contemplative evidence for consciousness theories]].)
+**What the neurological line does not establish:** That the distinction between willed and automatic processing involves quantum effects. A purely computational account—willed attention recruits additional neural circuits—remains viable as an alternative interpretation of the same data. (For first-person evidence from trained observers that complements these third-person findings, see [[contemplative-practice-as-philosophical-evidence|contemplative practice as philosophical evidence]].)
 
 ## The Quantum-Biological Line
 
@@ -137,7 +137,7 @@ The convergence would lose force if:
 
 The empirical convergence supports all five of the Map's [[tenets]]:
 
-**[[tenets#^dualism|Dualism]]**: The comparative evidence shows consciousness contributes capacities that unconscious processing alone does not achieve. The neurological evidence shows conscious intention dissociates from motor execution. Together they support the claim that consciousness is not reducible to neural computation—though the further step from causal efficacy to non-physicality requires the [[dualism|philosophical arguments]] the Map develops elsewhere.
+**[[tenets#^dualism|Dualism]]**: The comparative evidence shows consciousness contributes capacities that unconscious processing alone does not achieve. The neurological evidence shows conscious intention dissociates from motor execution. Together they support the claim that consciousness is not reducible to neural computation—though the further step from causal efficacy to non-physicality requires the [[dualism|philosophical arguments]] the Map develops elsewhere, building toward [[concepts/interactionist-dualism|interactionist dualism]].
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Quantum biology demonstrates the substrate exists. The bandwidth constraint—approximately 10 bits per second of conscious throughput (Meister, 2024)—ensures selection is minimal. Consciousness selects among coarse-grained action patterns, not individual quantum events.
 
