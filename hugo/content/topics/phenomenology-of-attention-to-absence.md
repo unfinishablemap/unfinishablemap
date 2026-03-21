@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-19 12:54:00+00:00
+ai_modified: 2026-03-21 02:58:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ related_articles:
 - '[[attention-created-voids]]'
 - '[[phenomenology-of-returning-attention]]'
 - '[[structure-of-attention]]'
-- '[[phenomenology-of-temporal-attention]]'
+- '[[phenomenology-of-temporal-consciousness-and-agency]]'
 - '[[phenomenology-of-anticipation]]'
 - '[[thoughts-that-slip-away]]'
 title: The Phenomenology of Attention to Absence
@@ -102,7 +102,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is implicated becau
 - [attention-created-voids](/voids/attention-created-voids/) — How attending produces unattendable territory
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) — The structure of attention returning from absence
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — The forward-directed experience that absence violates
-- [phenomenology-of-temporal-attention](/topics/phenomenology-of-temporal-attention/) — How attention shapes temporal experience
+- [phenomenology-of-temporal-consciousness-and-agency](/topics/phenomenology-of-temporal-consciousness-and-agency/) — How attention shapes temporal experience and agency
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — The phenomenology of cognitive absence
 - [structure-of-attention](/topics/structure-of-attention/) — The architecture of attentional control
 - [intentionality](/concepts/intentionality/) — The directedness of consciousness toward objects

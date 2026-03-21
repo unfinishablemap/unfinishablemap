@@ -65,7 +65,7 @@ topics: []
 - [agent-causation](/concepts/agent-causation/)
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [explanatory-gap](/concepts/explanatory-gap/)
-- [phenomenology-of-temporal-attention](/topics/phenomenology-of-temporal-attention/)
+- [phenomenology-of-temporal-attention](/topics/phenomenology-of-temporal-consciousness-and-agency/)
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)
 
 ## Remaining Items

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-20 19:44:00+00:00
+ai_modified: 2026-03-21 02:58:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -57,7 +57,7 @@ related_articles:
 - '[[temporal-structure-of-consciousness]]'
 - '[[contemplative-path]]'
 - '[[dopamine-and-the-unified-interface]]'
-- '[[phenomenology-of-temporal-selection]]'
+- '[[phenomenology-of-temporal-consciousness-and-agency]]'
 title: Consciousness and Skilled Performance
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -110,7 +110,7 @@ Flow — total absorption in a well-matched challenge — represents what skill 
 
 ### The Phenomenal Signature of Flow
 
-Csikszentmihalyi's research (1975, 1990) identified a convergent experiential profile across disciplines: **absorption** (only task-relevant information reaches awareness), **effortlessness** (high objective difficulty feels smooth — the same performer would [choke](/topics/choking-phenomenon-mental-causation/) if they tried to monitor explicitly), **altered temporality** (hours pass in minutes, or split-seconds dilate — [temporal experience](/concepts/temporal-consciousness/) becomes elastic), **loss of reflective self-awareness** (the inner commentator quiets while pre-reflective self-awareness remains), **intrinsic reward** (the doing itself is satisfying), and a **sense of control without controlling** (no gap between intention and execution). Flow's altered temporality connects to a deeper phenomenon: the [temporal selection](/topics/phenomenology-of-temporal-selection/) that skilled performance requires—sensing the approach of the right moment and acting from within temporal flow, where recognition of rightness and action are phenomenally unified.
+Csikszentmihalyi's research (1975, 1990) identified a convergent experiential profile across disciplines: **absorption** (only task-relevant information reaches awareness), **effortlessness** (high objective difficulty feels smooth — the same performer would [choke](/topics/choking-phenomenon-mental-causation/) if they tried to monitor explicitly), **altered temporality** (hours pass in minutes, or split-seconds dilate — [temporal experience](/concepts/temporal-consciousness/) becomes elastic), **loss of reflective self-awareness** (the inner commentator quiets while pre-reflective self-awareness remains), **intrinsic reward** (the doing itself is satisfying), and a **sense of control without controlling** (no gap between intention and execution). Flow's altered temporality connects to a deeper phenomenon: the [temporal selection](/topics/phenomenology-of-temporal-consciousness-and-agency/) that skilled performance requires—sensing the approach of the right moment and acting from within temporal flow, where recognition of rightness and action are phenomenally unified.
 
 ### Flow as Evidence Against the Deflationary Reading
 

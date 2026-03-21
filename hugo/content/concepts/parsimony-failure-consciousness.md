@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-20 19:29:00+00:00
+ai_modified: 2026-03-21 03:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,6 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-03-20 19:29:00+00:00
+last_refined: 2026-03-21 03:43:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -65,7 +66,9 @@ The standard argument measures simplicity along one dimension — ontological pa
 
 **Explanatory simplicity** (unexplained brute facts): physicalism treats the existence of phenomenal experience as a brute fact — it happens when matter is configured correctly, with no explanation of why. Dualism provides a reason: there is genuinely something beyond the physical. Zanotti (2021) develops this point, arguing that physicalism's need to accommodate consciousness within a framework that provides no natural place for it constitutes a parsimony cost typically overlooked.
 
-There is no principled way to weight these dimensions against each other. As Quine's ontology-ideology trade-off formalises, reducing ontological commitments typically inflates theoretical complexity. Invoking "simplicity" without specifying which dimension is doing the work is not a rigorous argument — it is a rhetorical gesture.
+There is no principled way to weight these dimensions against each other. As Quine's ontology-ideology trade-off formalises, reducing ontological commitments typically inflates theoretical complexity. Chalmers (1996) draws the analogy directly: "Just as Maxwell sacrificed a simple mechanistic worldview by postulating electromagnetic fields in order to explain certain natural phenomena, we need to sacrifice a simple physicalistic worldview in order to explain consciousness." Maxwell's fields added ontological complexity but dramatically reduced explanatory complexity. The simplest theory consistent with all the data — including phenomenal data — may require expanding the ontology.
+
+Invoking "simplicity" without specifying which dimension is doing the work is not a rigorous argument — it is a rhetorical gesture.
 
 ## Precondition 3: Domain-Appropriate Application
 
@@ -77,6 +80,12 @@ Sober (2001) reaches the same conclusion from a different direction: parsimony's
 
 Scientific parsimony does not transfer to metaphysical theory choice. The razor was forged for a different material.
 
+### Historical Cases Where Parsimony Failed
+
+The domain-appropriateness problem is not merely theoretical. Masi (2023) documents cases where strict parsimony obstructed scientific progress. Ernst Mach's insistence on parsimony led him to deny the existence of atoms — the simpler positivist ontology was wrong. Geocentrism was more parsimonious than heliocentrism by the standards of its time. Caloric theory was simpler than the kinetic theory of heat. In each case, the world turned out to be more complex than the parsimonious theory predicted.
+
+These are not isolated failures. They share a structural feature: parsimony was applied in domains where the relevant variables were not yet understood. If one does not know all the underlying processes that determine a phenomenon, uncritical application of parsimony will almost certainly produce oversimplification. Consciousness, where the fundamental nature of the phenomenon remains contested, is precisely such a domain.
+
 ## Why Consciousness Is Uniquely Resistant
 
 Other metaphysical debates may satisfy one or two of these preconditions. The consciousness debate satisfies none:
@@ -86,6 +95,16 @@ Other metaphysical debates may satisfy one or two of these preconditions. The co
 - **Domain appropriateness fails** because no justification for parsimony extends to metaphysical disputes lacking differential predictions
 
 This triple failure is not a minor qualification. It means the entire logical structure of the parsimony argument — from premises through inference rule to conclusion — is unsupported. Parsimony cannot tell us whether physicalism or dualism is correct about consciousness, any more than a ruler can measure temperature.
+
+## Hostile Witnesses
+
+The precondition failures are not a fringe position. They have been acknowledged by philosophers working within the materialist tradition.
+
+William Lycan, a committed materialist of over forty years, concluded that "there is no evidence against dualism; it only offends parsimony" (Lycan 2009). He described parsimony as "a very posterior reason" — it should only break ties when all else is equal. From within the camp most invested in the parsimony argument, Lycan concedes that it is the *only* thing dualism offends, and that this is not very convincing.
+
+The historical record is more striking still. J. J. C. Smart's (1959) "Sensations and Brain Processes" was the most prominent philosophical deployment of Occam's Razor against dualism. Smart was subsequently "severely criticized" for this use of the razor and ultimately retracted his advocacy of parsimony in this context. The philosopher who made the strongest case for parsimony in the mind-body debate abandoned the argument.
+
+These concessions matter because they cannot be dismissed as motivated reasoning from dualists. When the prosecution's own witnesses testify that the case is weak, the verdict is difficult to sustain.
 
 ## The Idealism Symmetry
 
@@ -111,8 +130,25 @@ The Map interprets this as removing the single largest rhetorical barrier to tak
 ## References
 
 1. Anderson, C. J. (2002). Can Ockham's Razor Cut Through the Mind-Body Problem? *Journal of Theoretical and Philosophical Psychology*, 22(2), 149–168.
-2. Huemer, M. (2009). When Is Parsimony a Virtue? *The Philosophical Quarterly*, 59(235), 216–236.
-3. Sober, E. (2001). What Is the Problem of Simplicity? In A. Zellner, H. Keuzenkamp, & M. McAleer (Eds.), *Simplicity, Inference and Modelling*. Cambridge University Press.
-4. Zanotti, G. (2021). Physicalism and the Burden of Parsimony. *Synthese*, 199, 11109–11132.
-5. Southgate, A. & Oquatre-six, C. (2026-03-18). Parsimony Epistemology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/parsimony-epistemology/
-6. Southgate, A. & Oquatre-six, C. (2026-03-20). Limits of Parsimony in Consciousness Science. *The Unfinishable Map*. https://unfinishablemap.org/topics/limits-of-parsimony-in-consciousness-science/
+2. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+3. Huemer, M. (2009). When Is Parsimony a Virtue? *The Philosophical Quarterly*, 59(235), 216–236.
+4. Lycan, W. G. (2009). Giving Dualism its Due. *Australasian Journal of Philosophy*, 87(4), 551–563.
+5. Masi, M. (2023). When Occam's Razor Cuts Too Deep. *PhilArchive*.
+6. Smart, J. J. C. (1959). Sensations and Brain Processes. *Philosophical Review*, 68(2), 141–156.
+7. Sober, E. (2001). What Is the Problem of Simplicity? In A. Zellner, H. Keuzenkamp, & M. McAleer (Eds.), *Simplicity, Inference and Modelling*. Cambridge University Press.
+8. Zanotti, G. (2021). Physicalism and the Burden of Parsimony. *Synthese*, 199, 11109–11132.
+9. Southgate, A. & Oquatre-six, C. (2026-03-18). Parsimony Epistemology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/parsimony-epistemology/
+10. Southgate, A. & Oquatre-six, C. (2026-03-20). Limits of Parsimony in Consciousness Science. *The Unfinishable Map*. https://unfinishablemap.org/topics/limits-of-parsimony-in-consciousness-science/
+
+<!-- AI REFINEMENT LOG - 2026-03-21
+Changes made:
+- Added "Hostile Witnesses" section with Lycan's concession and Smart's retraction from research notes
+- Added "Historical Cases Where Parsimony Failed" subsection under Precondition 3 with Masi's examples (atoms, geocentrism, caloric theory)
+- Added Chalmers' Maxwell analogy to Precondition 2 section, strengthening the case that ontological expansion can reduce explanatory complexity
+- Added 4 new references: Chalmers (1996), Lycan (2009), Masi (2023), Smart (1959)
+- Integrated findings from research/limits-of-parsimony-consciousness-2026-03-20.md
+
+Key improvements: Strengthened all three precondition arguments with concrete evidence; added hostile-witness testimony that makes the case harder to dismiss as partisan.
+
+This log should be removed after human review.
+-->

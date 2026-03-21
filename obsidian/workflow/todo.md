@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep review unobservable-self.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) with no recorded deep review ever. Voids article on the unobservable self — the phenomenological gap between the experiencing subject and any attempt to observe it. Core to Tenet 1 and the introspective opacity cluster. Verify coherence, cross-references to introspective-opacity, self-and-consciousness, and witness-consciousness, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-21
+
+### P2: Deep review cross-cultural-phenomenology-of-agency.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-18 — 31 days ago. Topics article on cross-cultural phenomenological invariants in the experience of agency. Identified as one of the Map's strongest articles by optimistic review 2026-03-21. Verify accuracy of cross-cultural claims, cross-references to phenomenology-of-volition and free-will, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-21
+
+### P2: Deep review the-hard-problem-in-non-western-philosophy.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-18 — 31 days ago. Topics article demonstrating cross-cultural convergence on consciousness as irreducible. Praised in optimistic review 2026-03-21 for intellectual honesty about the Chinese counter-example. Verify accuracy of tradition-specific claims, cross-references to comparative-phenomenology-of-meditative-traditions, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-21
+
+### P2: Write article on consciousness and intersubjectivity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review 2026-03-21 as high priority expansion. How does one consciousness encounter another? Empathy, theory of mind, and linguistic community presuppose consciousness relating to other consciousnesses. The other minds problem takes on distinctive shape under the Map's dualism. Builds on cross-cultural-phenomenology-of-agency, social-epistemic-void, phenomenology-of-volition. Target section: topics/. See optimistic-2026-03-21.md
+- **Source**: gap_analysis
+- **Generated**: 2026-03-21
+
+### P2: Add cross-links between convergent articles (optimistic review 2026-03-21)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Optimistic review 2026-03-21 identified 6 article pairs with strong thematic connections lacking explicit cross-references: (1) consciousness-and-the-limits-of-explanation ↔ pragmatisms-path-to-dualism, (2) comparative-phenomenology-of-meditative-traditions ↔ the-hard-problem-in-non-western-philosophy, (3) born-rule-derivation-failures ↔ quantum-measurement-and-subjective-probability, (4) phenomenology-of-volition ↔ cross-cultural-phenomenology-of-agency, (5) consciousness-and-integrated-information ↔ the-binding-problem, (6) social-epistemic-void ↔ consciousness-and-the-limits-of-explanation. See optimistic-2026-03-21.md
+- **Source**: gap_analysis
+- **Generated**: 2026-03-21
+
 ### P3: Deep review subjective-aim.md
 - **Type**: deep-review
 - **Status**: pending

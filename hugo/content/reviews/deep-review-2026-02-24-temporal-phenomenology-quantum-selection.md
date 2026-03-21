@@ -68,7 +68,7 @@ topics: []
 
 ### Cross-links Summary (Cumulative)
 First pass (7 inbound links added):
-- [temporal-consciousness](/concepts/temporal-consciousness/), [collapse-and-time](/concepts/collapse-and-time/), [specious-present-temporal-experience](/concepts/temporal-consciousness/), [mental-effort](/concepts/mental-effort/), [consciousness-and-temporal-asymmetry](/topics/consciousness-and-temporal-becoming/), [phenomenology-of-choice](/concepts/phenomenology-of-choice/), [phenomenology-of-temporal-attention](/topics/phenomenology-of-temporal-attention/)
+- [temporal-consciousness](/concepts/temporal-consciousness/), [collapse-and-time](/concepts/collapse-and-time/), [specious-present-temporal-experience](/concepts/temporal-consciousness/), [mental-effort](/concepts/mental-effort/), [consciousness-and-temporal-asymmetry](/topics/consciousness-and-temporal-becoming/), [phenomenology-of-choice](/concepts/phenomenology-of-choice/), [phenomenology-of-temporal-attention](/topics/phenomenology-of-temporal-consciousness-and-agency/)
 
 Second pass (5 additional inbound links added):
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/), [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/), [time-consciousness-growing-block](/apex/time-consciousness-growing-block/), [retrocausality](/concepts/retrocausality/), [quantum-consciousness](/concepts/quantum-consciousness/)

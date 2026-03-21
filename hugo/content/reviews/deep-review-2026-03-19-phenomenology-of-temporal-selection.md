@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-19
-**Article**: [The Phenomenology of Temporal Selection](/topics/phenomenology-of-temporal-selection/)
+**Article**: [The Phenomenology of Temporal Selection](/topics/phenomenology-of-temporal-consciousness-and-agency/)
 **Previous review**: [2026-03-17](/reviews/deep-review-2026-03-17-phenomenology-of-temporal-selection/)
 
 ## Context
@@ -47,7 +47,7 @@ No new counterarguments beyond those addressed in the 2026-03-17 review. The sta
 ### Enhancements Made
 - Added inbound cross-reference from [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) (new "Temporal Selection" subsection in Phenomenology of Temporal Agency)
 - Added inbound cross-reference from [time-collapse-and-agency](/topics/time-collapse-and-agency/) (new paragraph on temporal selection under phenomenology of temporal agency)
-- Added inbound cross-reference from [phenomenology-of-temporal-attention](/topics/phenomenology-of-temporal-attention/) (new paragraph in Temporal Selection and the Interface section)
+- Added inbound cross-reference from [phenomenology-of-temporal-attention](/topics/phenomenology-of-temporal-consciousness-and-agency/) (new paragraph in Temporal Selection and the Interface section)
 - Added inbound cross-reference from [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) (extended Agency and Anticipatory Consciousness paragraph)
 - Added inbound cross-reference from [bergson-and-duration](/topics/bergson-and-duration/) (extended Duration and Free Will paragraph)
 - Added inbound cross-reference from [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/) (extended flow phenomenal signature paragraph)
@@ -60,7 +60,7 @@ No new counterarguments beyond those addressed in the 2026-03-17 review. The sta
 ### Cross-links Added (Inbound)
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/)
-- [phenomenology-of-temporal-attention](/topics/phenomenology-of-temporal-attention/)
+- [phenomenology-of-temporal-attention](/topics/phenomenology-of-temporal-consciousness-and-agency/)
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)
 - [bergson-and-duration](/topics/bergson-and-duration/)
 - [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/)

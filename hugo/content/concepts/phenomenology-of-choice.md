@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-21 00:57:00+00:00
+ai_modified: 2026-03-21 02:58:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -35,7 +35,7 @@ related_articles:
 - '[[tenets]]'
 - '[[concept-of-free-will]]'
 - '[[phenomenology-of-consciousness-doing-work]]'
-- '[[phenomenology-of-temporal-selection]]'
+- '[[phenomenology-of-temporal-consciousness-and-agency]]'
 title: Phenomenology of Choice
 topics:
 - '[[topics/free-will]]'
@@ -63,7 +63,7 @@ This settling can be gradual or sudden:
 - **Gradual resolution**: The preferred option emerges slowly, gaining felt momentum until its actualisation seems almost inevitable
 - **Sudden decision**: Alternatives remain equipoised until a discrete moment when one becomes actual—sometimes surprising even the chooser
 
-Both patterns share the same structure: genuine openness followed by determinate actualisation. Gradual decisions feel less effortful; sudden decisions often feel more *willed*, as though the agent intervened at the decisive moment. The [phenomenology of temporal selection](/topics/phenomenology-of-temporal-selection/) develops the temporal dimension of this settling: the transition from open deliberation to committed action maps onto the three-phase structure of timing windows, where "not yet" gives way to the kairos moment of "now" and the irreversible closure of "too late." Yet in neither case can we observe *how* intention becomes action—the mechanism is phenomenologically invisible. This is the [causal interface void](/voids/causal-interface/): we experience ourselves as causes but cannot access the interface that makes causation possible. The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-effort/) examines a parallel case: the effort of reasoning, where consciousness works to hold premises together and trace implications, with similar opacity about how this effort translates into cognitive outcomes.
+Both patterns share the same structure: genuine openness followed by determinate actualisation. Gradual decisions feel less effortful; sudden decisions often feel more *willed*, as though the agent intervened at the decisive moment. The [phenomenology of temporal selection](/topics/phenomenology-of-temporal-consciousness-and-agency/) develops the temporal dimension of this settling: the transition from open deliberation to committed action maps onto the three-phase structure of timing windows, where "not yet" gives way to the kairos moment of "now" and the irreversible closure of "too late." Yet in neither case can we observe *how* intention becomes action—the mechanism is phenomenologically invisible. This is the [causal interface void](/voids/causal-interface/): we experience ourselves as causes but cannot access the interface that makes causation possible. The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-effort/) examines a parallel case: the effort of reasoning, where consciousness works to hold premises together and trace implications, with similar opacity about how this effort translates into cognitive outcomes.
 
 The [retrocausal](/concepts/retrocausality/) dimension adds complexity. If selection operates atemporally—determining which history becomes real—the phenomenology of deciding "now" may be how atemporal selection manifests to time-bound consciousness.
 

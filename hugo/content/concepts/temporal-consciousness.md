@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-19 18:48:00+00:00
+ai_modified: 2026-03-21 02:58:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -79,7 +79,7 @@ related_articles:
 - '[[consciousness-as-activity]]'
 - '[[motor-control-quantum-zeno]]'
 - '[[quantum-measurement-and-consciousness]]'
-- '[[phenomenology-of-temporal-attention]]'
+- '[[phenomenology-of-temporal-consciousness-and-agency]]'
 - '[[phenomenology-of-deliberation-under-uncertainty]]'
 - '[[authentic-vs-inauthentic-choice]]'
 - '[[bergson-and-duration]]'

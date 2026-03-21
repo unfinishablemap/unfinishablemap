@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-18
-**Article**: [The Phenomenology of Temporal Attention](/topics/phenomenology-of-temporal-attention/)
+**Article**: [The Phenomenology of Temporal Attention](/topics/phenomenology-of-temporal-consciousness-and-agency/)
 **Previous review**: [2026-02-19](/reviews/deep-review-2026-02-19-phenomenology-of-temporal-attention/)
 
 ## Pessimistic Analysis Summary

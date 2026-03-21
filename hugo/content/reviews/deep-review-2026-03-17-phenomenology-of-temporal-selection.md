@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-17
-**Article**: [The Phenomenology of Temporal Selection](/topics/phenomenology-of-temporal-selection/)
+**Article**: [The Phenomenology of Temporal Selection](/topics/phenomenology-of-temporal-consciousness-and-agency/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

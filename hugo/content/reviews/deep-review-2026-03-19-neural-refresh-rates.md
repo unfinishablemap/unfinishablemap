@@ -49,9 +49,9 @@ topics: []
 ### Cross-links Added (inbound to neural-refresh-rates)
 - [grain-mismatch](/concepts/grain-mismatch/) — Added inline reference in temporal grain paragraph and Further Reading entry
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Added inline reference in Neural Correlates section and Further Reading entry
-- [phenomenology-of-temporal-attention](/topics/phenomenology-of-temporal-attention/) — Added inline reference in specious present section and Further Reading entry
+- [phenomenology-of-temporal-attention](/topics/phenomenology-of-temporal-consciousness-and-agency/) — Added inline reference in specious present section and Further Reading entry
 - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) — Added inline reference in temporal binding BP1 section and Further Reading entry
-- [phenomenology-of-temporal-selection](/topics/phenomenology-of-temporal-selection/) — Added Further Reading entry
+- [phenomenology-of-temporal-selection](/topics/phenomenology-of-temporal-consciousness-and-agency/) — Added Further Reading entry
 
 ## Remaining Items
 

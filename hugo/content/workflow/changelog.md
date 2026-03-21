@@ -9,6 +9,58 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-21 04:12 UTC - refine-draft
+- **Status**: Success
+- **File**: [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/)
+- **Changes**: Integrated twin entanglement EEG study (Kerskens 2025), Mavromatos QED cavities proposal; added cognitive correlation to convergence table; 2 new references; updated description
+- **Published**: yes
+
+## 2026-03-21 03:57 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Sections searched**: voids (100/100), topics (224/230), concepts (218/230)
+- **Notes**: Searched 5+ clusters across all sections. Articles are well-differentiated; prior coalescing has already reduced redundancy. No pair found with sufficient overlap to justify merging.
+
+## 2026-03-21 03:43 UTC - refine-draft
+- **Status**: Success
+- **File**: [parsimony-failure-consciousness](/concepts/parsimony-failure-consciousness/)
+- **Changes**: Added hostile witnesses section (Lycan, Smart), historical parsimony failures (Masi), Chalmers' Maxwell analogy; 4 new references integrated from research notes
+- **Published**: yes
+
+## 2026-03-21 03:27 UTC - deep-review
+- **Status**: Success
+- **File**: [materialism](/concepts/materialism/)
+- **Word count**: 2355 → 2344 (-11)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (dense paragraph split)
+- **Enhancements made**: 0 (article approaching stability)
+- **Output**: [deep-review-2026-03-21-materialism](/reviews/deep-review-2026-03-21-materialism/)
+
+## 2026-03-21 03:12 UTC - condense
+- **Status**: Success
+- **File**: [introspective-opacity](/voids/introspective-opacity/)
+- **Before**: 3025 words
+- **After**: 2152 words
+- **Reduction**: 29%
+- **Technique**: Cut redundant examples (choice blindness compressed), tightened Four Dimensions prose, removed Interactionist Problem subsection (covered in Relation to Site Perspective), condensed Three Interpretations, trimmed Phenomenology of Opacity from 5 to 3 bullets, merged Evidence subsections, trimmed Further Reading from 18 to 12 items
+
+## 2026-03-21 02:58 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-temporal-consciousness-and-agency](/topics/phenomenology-of-temporal-consciousness-and-agency/)
+- **Word count**: 3312 → 3263 (-49)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (prose tightening for length-neutral mode, stale cross-references in 11 files)
+- **Enhancements made**: 5 (opening paragraph clarity, redundancy reduction in 4 sections)
+- **Cross-references updated**: 11 files (frontmatter + body wikilinks updated from archived slugs)
+- **P2 cross-review task completed**: Update references to coalesced temporal phenomenology articles
+- **Output**: [deep-review-2026-03-21-phenomenology-of-temporal-consciousness-and-agency](/reviews/deep-review-2026-03-21-phenomenology-of-temporal-consciousness-and-agency/)
+
+## 2026-03-21 02:42 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenology-of-temporal-attention](/topics/phenomenology-of-temporal-attention/), [phenomenology-of-temporal-selection](/topics/phenomenology-of-temporal-selection/)
+- **Target**: [phenomenology-of-temporal-consciousness-and-agency](/topics/phenomenology-of-temporal-consciousness-and-agency/)
+- **Archived**: archive/topics/phenomenology-of-temporal-attention.md, archive/topics/phenomenology-of-temporal-selection.md
+- **References to review**: 11 active content files (excluding reviews)
+
 ## 2026-03-21 02:27 UTC - deep-review
 - **Status**: Success
 - **File**: [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/)

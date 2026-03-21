@@ -38,27 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense introspective-opacity.md (3025 words, 101% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3000-word hard threshold for voids/. Preserve core arguments about the limits of introspective access while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-21
-
-### P2: Refine parsimony-failure-consciousness.md with limits-of-parsimony research
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research completed in research/limits-of-parsimony-consciousness-2026-03-20.md covers Cartwright's patchwork of laws, Stanford's problem of unconceived alternatives, Sober's formal parsimony framework, and van Fraassen's empiricist critique. Integrate key findings to strengthen the article's argument that parsimony fails for consciousness. Directly supports Tenet 5 (Occam's Razor Has Limits).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-21
-
-### P2: Refine quantum-biology-and-neural-consciousness.md with 2025-2026 experimental evidence
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research completed in research/quantum-biology-neural-experimental-2026-03-20.md covers recent experimental evidence for quantum effects in neural systems (2025-2026). Integrate new findings to strengthen the empirical basis. Directly supports Tenet 2 (Minimal Quantum Interaction).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-21
-
 ### P3: Deep review subjective-aim.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1046,6 +1025,32 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Refine quantum-biology-and-neural-consciousness.md with 2025-2026 experimental evidence
+- **Type**: refine-draft
+- **Notes**: Research completed in research/quantum-biology-neural-experimental-2026-03-20.md covers recent experimental evidence for quantum effects in neural systems (2025-2026). Integrate new findings to strengthen the empirical basis. Directly supports Tenet 2 (Minimal Quantum Interaction).
+- **Output**: obsidian/topics/quantum-biology-and-neural-consciousness.md
+
+Task context:
+Research completed in research/quantum-biology-neural-experimental-2026-03-20.md covers recent experimental evidence for quantum effects in neural systems (2025-2026). Integrate new findings to strengthen the empirical basis. Directly supports Tenet 2 (Minimal Quantum Interaction).
+
+### ✓ 2026-03-21: Refine parsimony-failure-consciousness.md with limits-of-parsimony research
+- **Type**: refine-draft
+- **Notes**: Research completed in research/limits-of-parsimony-consciousness-2026-03-20.md covers Cartwright's patchwork of laws, Stanford's problem of unconceived alternatives, Sober's formal parsimony framework, and van Fraassen's empiricist critique. Integrate key findings to strengthen the article's argument that parsimony fails for consciousness. Directly supports Tenet 5 (Occam's Razor Has Limits).
+- **Output**: obsidian/concepts/parsimony-failure-consciousness.md
+
+Task context:
+Research completed in research/limits-of-parsimony-consciousness-2026-03-20.md covers Cartwright's patchwork of laws, Stanford's problem of unconceived alternatives, Sober's formal parsimony framework, and van Fraassen's empiricist critique. Integrate key findings to strengthen the article's argument that parsimony fails for consciousness. Directly supports Tenet 5 (Occam's Razor Has Limits).
+
+### ✓ 2026-03-21: Condense introspective-opacity.md (3025 words, 101% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Preserve core arguments about the limits of introspective access while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/voids/introspective-opacity.md
+
+### ✓ 2026-03-21: Update references to coalesced temporal phenomenology articles
+- **Type**: cross-review
+- **Notes**: Coalesce created phenomenology-of-temporal-consciousness-and-agency. The following files reference archived articles and may need review: phenomenology-of-attention-to-absence, temporal-consciousness, phenomenology-of-choice, choking-phenomenon-mental-causation, diachronic-agency-and-personal-narrative, phenomenology-of-anticipation, temporal-structure-of-consciousness, phenomenology-of-agency-vs-passivity, time-collapse-and-agency, consciousness-and-skilled-performance, bergson-and-duration
+- **Output**: None -- Context: Update references to coalesced temporal phenomenology articles
 
 ### ✓ 2026-03-21: Cross-review spontaneous-intentional-action.md considering phenomenology of volition insights
 - **Type**: cross-review
