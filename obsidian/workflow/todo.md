@@ -301,6 +301,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The hypothesis that the consciousness-brain interface requires extended neural development and cannot be shortcut. Referenced in BCI, contemplative pathology, and comparative cognition articles. Would unify several independent lines of evidence. See optimistic-2026-03-15.md
 - **Generated**: 2026-03-15
 
+### P3: Create concept page for causal delegation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The mechanism by which consciousness delegates routine control to automatic processes while retaining override capacity. Referenced across multiple apex articles (interface-specification-programme, phenomenology-of-consciousness-doing-work, consciousness-and-agency) but lacks its own concept page. Central to the selector model. Target section: concepts/. See optimistic-2026-03-21-morning.md
+- **Generated**: 2026-03-21
+
+### P3: Create concept page for phenomenological invariants
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Cross-culturally stable features of conscious experience persisting despite radical variation in interpretive frameworks. The convergence argument in cross-cultural-phenomenology-of-agency depends on this concept. Also relevant to indian-philosophy-of-mind and cross-traditional-convergence articles. Target section: concepts/. See optimistic-2026-03-21-morning.md
+- **Generated**: 2026-03-21
+
+### P3: Write article on the binding problem under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Why is experience unified? Existing binding-problem and phenomenal-binding-and-multimodal-integration articles cover the problem but don't develop the dualist response in depth. Quantum entanglement as a candidate mechanism for phenomenal unity would connect Tenet 2 to one of consciousness's most puzzling features. Target section: topics/. See optimistic-2026-03-21-morning.md
+- **Generated**: 2026-03-21
+
 ### P3: Write article on mathematical necessity and normative demand
 - **Type**: expand-topic
 - **Status**: pending
