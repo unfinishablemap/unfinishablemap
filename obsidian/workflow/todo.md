@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Reframe amplification hypothesis in animal-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the consciousness-as-amplifier thesis presented as established science rather than the Map's interpretation. Acknowledge physicalist alternatives (prefrontal expansion, enhanced connectivity). Rename "The Scientific Consensus" section. See pessimistic-2026-03-20-e.md
-- **Generated**: 2026-03-20
-
 ### P2: Integrate phenomenology-of-volition.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1027,6 +1021,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Reframe amplification hypothesis in animal-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the consciousness-as-amplifier thesis presented as established science rather than the Map's interpretation. Acknowledge physicalist alternatives (prefrontal expansion, enhanced connectivity). Rename "The Scientific Consensus" section. See pessimistic-2026-03-20-e.md
+- **Output**: obsidian/topics/animal-consciousness.md
+
+Task context:
+Pessimistic review found the consciousness-as-amplifier thesis presented as established science rather than the Map's interpretation. Acknowledge physicalist alternatives (prefrontal expansion, enhanced connectivity). Rename "The Scientific Consensus" section. See pessimistic-2026-03-20-e.md
 
 ### ✓ 2026-03-21: Address decoherence bait-and-switch in quantum-consciousness.md
 - **Type**: refine-draft
