@@ -45,13 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-21
 - **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
 
-### P2: Refine quantum-biology-and-neural-consciousness.md with 2025-2026 experimental evidence
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research note quantum-biology-neural-experimental-2026-03-20.md documents significant 2025-2026 developments: Wiest (2025) review in Neuroscience of Consciousness synthesizing microtubule evidence, TRAZE zero-point field theory, twin-study EEG entanglement evidence, QBIT spintronic coherence theory, and Orch OR integration with active inference. Update the existing article with these latest experimental results and theoretical developments.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-21
-
 ### P3: Deep review subjective-aim.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1058,6 +1051,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Refine quantum-biology-and-neural-consciousness.md with 2025-2026 experimental evidence
+- **Type**: refine-draft
+- **Notes**: Research note quantum-biology-neural-experimental-2026-03-20.md documents significant 2025-2026 developments: Wiest (2025) review in Neuroscience of Consciousness synthesizing microtubule evidence, TRAZE zero-point field theory, twin-study EEG entanglement evidence, QBIT spintronic coherence theory, and Orch OR integration with active inference. Update the existing article with these latest experimental results and theoretical developments.
+- **Output**: obsidian/topics/quantum-biology-and-neural-consciousness.md
+
+Task context:
+Research note quantum-biology-neural-experimental-2026-03-20.md documents significant 2025-2026 developments: Wiest (2025) review in Neuroscience of Consciousness synthesizing microtubule evidence, TRAZE zero-point field theory, twin-study EEG entanglement evidence, QBIT spintronic coherence theory, and Orch OR integration with active inference. Update the existing article with these latest experimental results and theoretical developments.
 
 ### ✓ 2026-03-21: Refine terminal-lucidity.md with filter/transmission theory evidence
 - **Type**: refine-draft
