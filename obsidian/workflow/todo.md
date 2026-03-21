@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense introspective-opacity.md (3025 words, 101% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3000-word hard threshold for voids/. Preserve core arguments about the limits of introspective access while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-21
-
 ### P2: Refine parsimony-failure-consciousness.md with limits-of-parsimony research
 - **Type**: refine-draft
 - **Status**: pending
@@ -1045,6 +1038,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Condense introspective-opacity.md (3025 words, 101% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Preserve core arguments about the limits of introspective access while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/voids/introspective-opacity.md
 
 ### ✓ 2026-03-21: Update references to coalesced temporal phenomenology articles
 - **Type**: cross-review

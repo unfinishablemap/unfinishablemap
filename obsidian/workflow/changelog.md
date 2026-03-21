@@ -5,6 +5,14 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 03:12 UTC - condense
+- **Status**: Success
+- **File**: [[voids/introspective-opacity]]
+- **Before**: 3025 words
+- **After**: 2152 words
+- **Reduction**: 29%
+- **Technique**: Cut redundant examples (choice blindness compressed), tightened Four Dimensions prose, removed Interactionist Problem subsection (covered in Relation to Site Perspective), condensed Three Interpretations, trimmed Phenomenology of Opacity from 5 to 3 bullets, merged Evidence subsections, trimmed Further Reading from 18 to 12 items
+
 ## 2026-03-21 02:58 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-temporal-consciousness-and-agency]]
