@@ -4,7 +4,7 @@ description: "Agent causation holds that persons originate actions directly as s
 created: 2026-01-15
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-03-20T19:44:00+00:00
+ai_modified: 2026-03-21T00:57:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -179,7 +179,7 @@ First-person experience confirms the distinction: being *pulled* by a loud noise
 
 This convergence across distinct domains—different brain regions, output pathways, evolutionary pressures—answers the single-domain objection. If agent-causal signatures were artifacts of attention-specific processing, they wouldn't appear identically in motor control.
 
-The Libet challenge has also substantially weakened. Schurger's reinterpretation treats the readiness potential as noise artifact; Sjöberg (2024) shows SMA resection doesn't impair voluntary action; Desmurget dissociates intention (parietal) from execution (premotor). Motor control now supports agent causation rather than challenging it. See [[phenomenology-of-volitional-control|Phenomenology of Volitional Control]] for the full phenomenological case—including the agency-ownership distinction and conscious veto—that survives the Libet reinterpretation.
+The Libet challenge has also substantially weakened. Schurger's reinterpretation treats the readiness potential as noise artifact; Sjöberg (2024) shows SMA resection doesn't impair voluntary action; Desmurget dissociates intention (parietal) from execution (premotor). Motor control now supports agent causation rather than challenging it. See [[phenomenology-of-volitional-control|Phenomenology of Volitional Control]] for the full phenomenological case—including the agency-ownership distinction and conscious veto—that survives the Libet reinterpretation. The [[phenomenology-of-volition|phenomenology of volition]] identifies four distinguishable components of willing—initiation, sustained control, effort, and veto—each with distinct neural correlates and clinical dissociation patterns.
 
 This literature provides what agent-causal philosophy traditionally lacked: naturalistic mechanism—identifying where (frontal cortex), when (300ms window), and how (theta oscillations) agents act through neural networks, without reducing consciousness to neural activity.
 

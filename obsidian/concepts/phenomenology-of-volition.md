@@ -4,7 +4,7 @@ description: "The first-person structure of willing—initiation, sustained cont
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T23:14:00+00:00
+ai_modified: 2026-03-21T00:57:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review: 2026-03-20T23:14:00+00:00
+last_deep_review: 2026-03-21T00:57:00+00:00
 ---
 
 Volition has a distinctive phenomenology. When you will an action — raising your arm, directing attention, suppressing an impulse — the experience differs qualitatively from anything that merely happens to you. The Unfinishable Map treats this phenomenology as evidence, not illusion: the first-person structure of willing reveals components that [[mental-causation|mental causation]] theories must account for and that [[concepts/epiphenomenalism|epiphenomenalist]] dismissals cannot explain away. Where [[phenomenology-of-choice|phenomenology of choice]] concerns the experience of deliberating between options, the phenomenology of volition concerns the experience of *exerting control itself* — the what-it-is-like of initiating, sustaining, and vetoing action.
@@ -67,7 +67,7 @@ Effort also has a directional quality. It feels like pushing *against* something
 
 The capacity to refrain is phenomenologically distinct from the capacity to initiate. When you suppress an impulse — catching an angry retort before it leaves your mouth, stopping your hand from reaching for a phone — there is a specific experience of *active inhibition* that differs from both action and mere inaction.
 
-Libet himself recognized this "free won't" as the strongest evidence for conscious causal efficacy in his own data. Brass and Haggard's neuroimaging confirmed distinct neural substrates for the "whether" component of action — dorsal fronto-median cortex activation during intentional inhibition, exerting top-down suppression of premotor areas. The veto is not merely the absence of a go signal but an active neural process with its own circuitry and its own phenomenology.
+[[libet-experiments|Libet]] himself recognized this "free won't" as the strongest evidence for conscious causal efficacy in his own data. Brass and Haggard's neuroimaging confirmed distinct neural substrates for the "whether" component of action — dorsal fronto-median cortex activation during intentional inhibition, exerting top-down suppression of premotor areas. The veto is not merely the absence of a go signal but an active neural process with its own circuitry and its own phenomenology.
 
 The veto's phenomenology includes a characteristic *holding back* that can require as much effort as initiation. Resisting temptation is experienced as work. Contemplative practitioners describe this with precision: the Buddhist concept of *vīriya* (energetic effort) applies equally to initiating wholesome action and restraining unwholesome impulse. Both require volitional engagement; both feel effortful; both produce the sense of authorship.
 

@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-20T17:19:00+00:00
+ai_modified: 2026-03-21T00:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -130,7 +130,7 @@ If all quantum outcomes occur in branching universes, there's no "selection" for
 
 The exclusion argument assumes event causation — events causing events according to laws. But [[agent-causation|agent causation]] offers a different model: substances (agents) causing events through exercise of causal powers.
 
-E.J. Lowe argued that all causation is fundamentally [[agent-causation#The Metaphysical Foundation: Substance Causation|substance causation]]. The conscious subject causes actions not as one event producing another but as an agent exercising powers. If consciousness is a substance with genuine causal powers operating at quantum indeterminacies, the exclusion argument's framework doesn't apply. The phenomenology of [[mental-effort|mental effort]] supports this: effort feels like *doing* something, not observing correlated events. The [[phenomenology-of-volitional-control|phenomenology of volitional control]]—including Brass and Haggard's "whether" component and Wegner's illusion theory rebuttal—provides the detailed first-person case.
+E.J. Lowe argued that all causation is fundamentally [[agent-causation#The Metaphysical Foundation: Substance Causation|substance causation]]. The conscious subject causes actions not as one event producing another but as an agent exercising powers. If consciousness is a substance with genuine causal powers operating at quantum indeterminacies, the exclusion argument's framework doesn't apply. The phenomenology of [[mental-effort|mental effort]] supports this: effort feels like *doing* something, not observing correlated events. The [[phenomenology-of-volition|phenomenology of volition]] reveals four distinguishable components of willing—initiation, sustained control, effort, and veto—each tracking genuine causal engagement. The [[phenomenology-of-volitional-control|phenomenology of volitional control]]—including Brass and Haggard's "whether" component and Wegner's illusion theory rebuttal—provides the detailed first-person case.
 
 Whitehead's process philosophy offers a complementary reframing: "actual occasions" exercise self-determination in constituting themselves from their causal inheritance. If all causation involves experiential self-determination, human mental causation exemplifies what causation fundamentally is. See [[interaction-problem-across-traditions]] for how process solutions form one of five recurring types across philosophical traditions. The [[cross-cultural-convergence-on-mental-causation|cross-cultural convergence]] on mental causation — Indian, African, and Western traditions independently concluding that consciousness is causally efficacious — provides further evidential support for the interactionist position.
 

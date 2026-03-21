@@ -4,7 +4,7 @@ description: "Why controlling attention feels like work—and what this universa
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-21T00:57:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -154,6 +154,7 @@ The phenomenology of effort provides a datum any account must explain. If contro
 - [[dopamine-and-the-unified-interface]] — Dopamine prepares the selection interface; theta oscillations provide the timing substrate
 - [[attention-as-interface]] — Attention as the interface layer between consciousness and neural systems
 - [[structure-of-attention]] — How attention is organized across voluntary, involuntary, and meta-attentional layers
+- [[phenomenology-of-volition]] — The four-component structure of willing: initiation, sustained control, effort, and veto
 - [[phenomenology-of-choice]] — The choosing-observing distinction
 - [[meditation-and-consciousness-modes]] — Selection vs witnessing modes
 - [[illusionism]] — The eliminativist challenge

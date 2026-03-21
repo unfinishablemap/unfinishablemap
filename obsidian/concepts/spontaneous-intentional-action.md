@@ -4,7 +4,7 @@ description: "Actions that are genuinely intentional yet arise without prior del
 created: 2026-02-13
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-03-20T14:59:00+00:00
+ai_modified: 2026-03-21T00:57:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -139,6 +139,7 @@ The account of spontaneous intentional action offered here would face difficulty
 
 ## Further Reading
 
+- [[phenomenology-of-volition]] — The four components of willing that spontaneous action compresses or bypasses
 - [[phenomenology-of-choice]] — The full deliberative arc that spontaneous action compresses
 - [[agent-causation]] — Why agents, not events, are the source of action
 - [[phenomenology-of-agency-vs-passivity]] — The spectrum from doing to undergoing
