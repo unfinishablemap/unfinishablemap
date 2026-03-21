@@ -96,7 +96,7 @@ But what does minimal Phi predict about minimal consciousness? The *C. elegans* 
 
 **The binding question**: IIT's Phi measures integration across the whole system, but *C. elegans* shows relatively modular neural circuits. Does Phi measure the right kind of integration? The worm's connectome is known completely, yet researchers cannot calculate its actual Phi due to computational intractability—they can only estimate it for simplified models.
 
-**Quantity versus quality**: If a 302-neuron worm has positive Phi, its experience would be vastly simpler than human consciousness. IIT predicts this: Phi scales with integration, so minimal neural systems should have minimal experience. But this makes consciousness appear graduated rather than threshold-based—a counterintuitive implication that IIT embraces.
+**Quantity versus quality**: If a 302-neuron worm has positive Phi, its experience would be vastly simpler than human consciousness. IIT predicts this: Phi scales with integration, so minimal neural systems should have minimal experience. But this makes consciousness appear [graduated rather than threshold-based](/concepts/degrees-of-consciousness/)—a counterintuitive implication that IIT embraces.
 
 See [minimal-consciousness](/concepts/minimal-consciousness/) for detailed treatment of consciousness in simple organisms and the distribution problem IIT's panpsychism raises.
 
@@ -217,6 +217,7 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — IIT's failure to explain multi-second experienced duration despite calculating instantaneous Φ
 - [phenomenal unity](/concepts/unity-of-consciousness/) — The unity IIT claims to explain via integration
 - [binding-problem](/concepts/binding-problem/) — The related puzzle of how features combine
+- [degrees-of-consciousness](/concepts/degrees-of-consciousness/) — How consciousness varies in intensity and complexity — what Φ purports to measure
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Empirical tests of IIT in simple organisms
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The puzzle IIT addresses
 - [panpsychism](/concepts/panpsychism/) — A related view on consciousness's ubiquity

@@ -159,6 +159,7 @@ The filter theory provides a unified framework: ASCs reveal different configurat
 
 ## Further Reading
 
+- [degrees-of-consciousness](/concepts/degrees-of-consciousness/) — How consciousness varies in intensity, richness, and complexity across altered states
 - [minimal-consciousness](/concepts/minimal-consciousness/) — The lower boundary of conscious experience
 - [filter-theory](/concepts/filter-theory/) — The theoretical framework for interpreting ASCs
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Voluntary access to altered states

@@ -142,6 +142,7 @@ This illustrates [the limits of Occam's Razor](/tenets/#occams-limits). Physical
 - [Cognitive phenomenology](/concepts/cognitive-phenomenology/)—whether thoughts have phenomenal character or are only A-conscious
 - [Baseline cognition](/concepts/baseline-cognition/)—great ape intelligence shows what's possible without full A-consciousness
 - [Working memory](/concepts/working-memory/)—the capacity limit on what can be A-conscious simultaneously
+- [degrees-of-consciousness](/concepts/degrees-of-consciousness/)—how consciousness varies along multiple dimensions, with access as one separable axis
 - [metacognition](/concepts/metacognition/)—awareness of one's own cognitive states, requiring A-consciousness
 
 ## References

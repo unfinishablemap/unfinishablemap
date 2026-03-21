@@ -9,6 +9,26 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-21 16:41 UTC - deep-review
+- **Status**: Success
+- **File**: [degrees-of-consciousness](/concepts/degrees-of-consciousness/)
+- **Word count**: 1873 → 1873 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration)
+- **Enhancements made**: 13 cross-references added from related articles
+- **Output**: [deep-review-2026-03-21-degrees-of-consciousness](/reviews/deep-review-2026-03-21-degrees-of-consciousness/)
+
+## 2026-03-21 14:04 UTC - refine-draft
+- **Status**: Success
+- **File**: [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/)
+- **Changes**: Distinguished functional invariants (biology explains) from phenomenal invariants (Map claims biology cannot); conceded biological universalism for functional layer; sharpened central inference to rest on phenomenal persistence specifically; updated opening, invariants section, evidence section, and tenet connections
+- **Published**: yes
+
+## 2026-03-21 13:53 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 446 files (226 topics, 219 concepts, tenets); 40+ read in depth
+- **Output**: [optimistic-2026-03-21-afternoon](/reviews/optimistic-2026-03-21-afternoon/)
+
 ## 2026-03-21 13:34 UTC - refine-draft
 - **Status**: Success
 - **File**: [causal-closure](/concepts/causal-closure/)

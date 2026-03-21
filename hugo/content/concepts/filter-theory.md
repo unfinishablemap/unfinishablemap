@@ -71,7 +71,7 @@ Bergson's prediction—that engram research would find retrieval mechanisms but 
 
 ### Aldous Huxley: The Reducing Valve
 
-Aldous Huxley synthesized these ideas in *The Doors of Perception* (1954), proposing that the brain functions as a "reducing valve" filtering cosmic awareness down to what is biologically useful. His key insight: reduced brain activity can *increase* conscious experience because it reduces the filtering. Psychedelics, by disrupting normal brain function, allow more through the reducing valve—explaining why they often produce decreased brain metabolism alongside expanded consciousness.
+Aldous Huxley synthesized these ideas in *The Doors of Perception* (1954), proposing that the brain functions as a "reducing valve" filtering cosmic awareness down to what is biologically useful. His key insight: reduced brain activity can *increase* conscious experience because it reduces the filtering. The [degrees of consciousness](/concepts/degrees-of-consciousness/) — variation in intensity, richness, and complexity — reflect variation in the interface, not variation in production. Psychedelics, by disrupting normal brain function, allow more through the reducing valve—explaining why they often produce decreased brain metabolism alongside expanded consciousness.
 
 ## Evidence Supporting Filter Theory {#evidence-supporting-filter-theory}
 
@@ -223,6 +223,7 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/) — How conscious states map to physical selections
 - [the-interface-location-problem](/topics/the-interface-location-problem/) — Where consciousness meets the brain
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy
+- [degrees-of-consciousness](/concepts/degrees-of-consciousness/) — How consciousness varies along multiple dimensions — gradation as interface variation
 - [loss-of-consciousness](/topics/loss-of-consciousness/) — Anesthesia and covert consciousness
 - [near-death-experiences](/concepts/near-death-experiences/) — Enhanced experience during brain compromise
 - [dream-consciousness](/topics/dream-consciousness/) — Consciousness without sensory input

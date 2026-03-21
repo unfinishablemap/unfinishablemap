@@ -37,7 +37,7 @@ Disorders of consciousness (DoC)—vegetative state, minimally conscious state, 
 
 ## The Clinical Spectrum
 
-DoC cases form a spectrum that no theory predicted before clinical observation revealed it.
+DoC cases form a [spectrum](/concepts/degrees-of-consciousness/) that no theory predicted before clinical observation revealed it.
 
 **Coma** involves the total absence of both wakefulness and awareness. The brainstem arousal systems are compromised, and no sleep-wake cycling occurs. Most theories agree that coma represents the most severe disruption—though they disagree about whether consciousness is absent or merely inaccessible.
 
@@ -141,6 +141,7 @@ The Unfinishable Map's [tenets](/tenets/) converge on DoC cases as among the mos
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain asymbolia and pain's inseparable phenomenal-causal character as a test case
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Another classic dissociation case that challenges simple unity
 - [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/) — The epistemic framework for how clinical cases generate philosophical evidence
+- [degrees-of-consciousness](/concepts/degrees-of-consciousness/) — How consciousness varies in intensity, richness, and complexity — the gradation DoC cases reveal
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Anaesthesia as a parallel case of reversible consciousness disruption
 
 ## References

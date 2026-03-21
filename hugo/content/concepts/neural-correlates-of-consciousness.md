@@ -181,6 +181,7 @@ These remain philosophical questions. The Map holds that consciousness is irredu
 - [integrated-information-theory](/concepts/integrated-information-theory/) — One major NCC-compatible theory
 - [interactionist-dualism](/concepts/interactionist-dualism/) — How non-physical consciousness could interact with NCC
 - [illusionism](/concepts/illusionism/) — The view that consciousness is a brain-generated illusion
+- [degrees-of-consciousness](/concepts/degrees-of-consciousness/) — How consciousness varies in intensity and complexity — what NCCs track at different levels
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer phenomenon and NCCs
 - [episodic-memory](/concepts/episodic-memory/) — Autonoetic consciousness and hippocampal NCCs
 - [binding-problem](/concepts/binding-problem/) — How hippocampal binding connects consciousness and memory

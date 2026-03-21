@@ -77,7 +77,7 @@ Where does minimal consciousness begin? This is the [distribution problem](/topi
 
 **Sharp threshold**: Some theories imply consciousness appears suddenly when certain conditions are met. Below the threshold: nothing. Above: experience. But what could make the difference so stark? Why should a small increment in physical organisation create something rather than nothing?
 
-**Graded emergence**: Perhaps consciousness admits of degrees—systems can be "slightly conscious" in a way that shades continuously from zero. But degrees of consciousness still presuppose consciousness exists. The explanatory gap applies to the smallest degree: why is there *any* experience rather than none?
+**Graded emergence**: Perhaps consciousness admits of [degrees](/concepts/degrees-of-consciousness/)—systems can be "slightly conscious" in a way that shades continuously from zero. But degrees of consciousness still presuppose consciousness exists. The explanatory gap applies to the smallest degree: why is there *any* experience rather than none?
 
 **No threshold (panpsychism)**: [panpsychism](/concepts/panpsychism/) dissolves the threshold problem by holding that experience is fundamental. All physical systems have some experiential aspect; what evolves is organisation and intensity. But this faces the [combination-problem](/concepts/combination-problem/): how do micro-experiences combine into unified consciousness?
 
@@ -147,6 +147,7 @@ The concept matters for several reasons:
 - [integrated-information-theory](/concepts/integrated-information-theory/) — A theory that implies widespread minimal consciousness
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative access to awareness without content
 - [metarepresentation](/concepts/metacognition/) — The capacity minimal consciousness may lack
+- [degrees-of-consciousness](/concepts/degrees-of-consciousness/) — How consciousness varies in intensity, richness, and complexity
 - [explanatory-gap](/concepts/explanatory-gap/) — Why we cannot determine consciousness presence from structure
 - [minimal-consciousness-void](/voids/minimal-consciousness-void/) — Why consciousness cannot investigate its own lower bound
 - [introspective-opacity](/voids/introspective-opacity/) — Why we access mental contents but never the mechanisms producing them

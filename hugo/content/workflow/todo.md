@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-21 12:18:00+00:00
+ai_modified: 2026-03-21 14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,23 +38,50 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address unspecified quantum selection mechanism in causal-closure.md
-- **Type**: refine-draft
-- **Status**: done
-- **Notes**: Pessimistic review found the "quantum exception" section claims consciousness "selects" quantum outcomes but never specifies how, how it preserves Born rule statistics, or why it isn't empirically equivalent to epiphenomenalism. Acknowledge the mechanism gap explicitly rather than implying it's well-understood. See pessimistic-2026-03-21-b.md
-- **Generated**: 2026-03-21
-
-### P2: Strengthen cross-cultural-phenomenology-of-agency.md inference from persistence to irreducibility
-- **Type**: refine-draft
+### P2: Integrate cross-traditional-convergence-on-consciousness-irreducibility.md into site navigation
+- **Type**: integrate-orphan
 - **Status**: pending
-- **Notes**: Pessimistic review found the central inference — from cross-cultural phenomenological persistence to irreducibility — is underdetermined. Biological universalism explains the same invariants. Distinguish functional invariants (biology explains) from phenomenal invariants (Map claims biology cannot). Currently conflates them. See pessimistic-2026-03-21-b.md
+- **Notes**: Topics article created 2026-03-20 has only 3 inbound links. A convergence argument across philosophical traditions is central to the Map's methodology. Add cross-references from tradition-specific articles (indian-philosophy-of-mind, african-philosophy-of-consciousness, buddhist-perspectives, cross-cultural-phenomenology-of-agency) and the convergence methodology discussions.
+- **Source**: orphan_integration
 - **Generated**: 2026-03-21
 
-### P3: Deep review consciousness-and-intersubjectivity.md
+### P2: Integrate von-neumann-wigner-interpretation.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Concept page created 2026-03-20 has only 3 inbound links despite being the historical foundation for Tenet 2 (Minimal Quantum Interaction). Add cross-references from quantum consciousness mechanism articles, consciousness-collapse articles, and the measurement problem discussions.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-21
+
+### P2: Deep review consciousness-and-intersubjectivity.md
 - **Type**: deep-review
 - **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-21 via expand-topic, never reviewed. Topics article on how one consciousness encounters another under dualism — empathy, theory of mind, other minds problem. Verify accuracy of philosophical attributions (Levinas, Buber, Husserl), coherence of the dualist response, cross-references to social-epistemic-void and phenomenology-of-collective-intentionality, and tenet alignment.
-- **Source**: staleness
+- **Notes**: New article created 2026-03-21 with only 3 inbound links. Cross-reviews were completed but the article itself has not been deeply reviewed for quality. Core topics article on how one consciousness encounters another under dualism — empathy, theory of mind, the other minds problem. Verify accuracy of philosophical attributions (Levinas, Buber, Husserl), coherence of the dualist response, and tenet alignment. Also assess integration opportunities to increase inbound links.
+- **Source**: chain
+- **Generated**: 2026-03-21
+
+### P2: Research clinical neuroplasticity evidence for bidirectional mental causation
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: The Map's empirical case for Tenet 3 (Bidirectional Interaction) draws on scattered clinical evidence — placebo effects, contemplative neuroplasticity, CBT-driven cortical reorganisation (Schwartz OCD studies). No systematic research note surveys neuroplasticity evidence specifically: belief-dependent cortical reorganisation, meditation-driven white matter changes, psychotherapy vs. medication brain imaging comparisons. Would ground the clinical evidence synthesis apex candidate. Promoted from P3 due to tenet-critical importance.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-21
+
+### P3: Explore feminist philosophy of consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Zero coverage of feminist philosophical perspectives currently. Feminist standpoint epistemology, gender and embodiment, feminist critiques of dualism. Could strengthen Tenet 5 by showing how "simple" frameworks encode unexamined assumptions. Target section: topics/.
+- **Generated**: 2026-03-21
+
+### P3: Systematic treatment of artificial consciousness under the Map's framework
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Existing AI articles (ai-epiphenomenalism, ai-consciousness-modes) are thin relative to the topic's urgency. The Map's tenets have specific consequences for digital consciousness—especially Tenet 2 (quantum interaction in neural systems). Target section: topics/.
+- **Generated**: 2026-03-21
+
+### P3: Expand African philosophical traditions coverage
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Only 1 existing article (african-philosophy-of-consciousness). Ubuntu and relational consciousness, decolonial approaches to mind deserve development. Strengthens convergence argument across traditions. Target section: topics/.
 - **Generated**: 2026-03-21
 
 ### P3: Deep review phenomenology-of-volition.md
@@ -134,13 +161,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Topics article on Chalmers' metaproblem through a dualist lens — why we think consciousness is problematic. Verify accuracy of Chalmers' (2018) position, coherence of the dualist response, cross-references to hard-problem-of-consciousness.md and meta-problem-of-consciousness.md, and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-03-20
-
-### P3: Research clinical neuroplasticity evidence for bidirectional mental causation
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: The Map's empirical case for Tenet 3 (Bidirectional Interaction) draws on scattered clinical evidence — placebo effects, contemplative neuroplasticity, CBT-driven cortical reorganisation (Schwartz OCD studies). No systematic research note surveys neuroplasticity evidence specifically: belief-dependent cortical reorganisation, meditation-driven white matter changes, psychotherapy vs. medication brain imaging comparisons. Would ground the existing P3 clinical evidence synthesis apex candidate task. Target: research note for topics/ or apex/.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-19
 
 ### P3: Address inflated empirical claims and illusionism response in quantum mechanism articles
 - **Type**: refine-draft
@@ -1092,6 +1112,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Integrate degrees-of-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept page created 2026-03-20 has only 2 inbound links despite being a foundational concept referenced by animal-consciousness.md and types-of-consciousness.md. Add cross-references from related articles on consciousness gradation, biological consciousness, and the interface model.
+- **Output**: obsidian/concepts/degrees-of-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-21: Strengthen cross-cultural-phenomenology-of-agency.md inference from persistence to irreducibility
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the central inference — from cross-cultural phenomenological persistence to irreducibility — is underdetermined. Biological universalism explains the same invariants. Distinguish functional invariants (biology explains) from phenomenal invariants (Map claims biology cannot). Currently conflates them. See pessimistic-2026-03-21-b.md
+- **Output**: obsidian/topics/cross-cultural-phenomenology-of-agency.md
+
+Task context:
+Pessimistic review found the central inference — from cross-cultural phenomenological persistence to irreducibility — is underdetermined. Biological universalism explains the same invariants. Distinguish functional invariants (biology explains) from phenomenal invariants (Map claims biology cannot). Currently conflates them. See pessimistic-2026-03-21-b.md
+
+### ✓ 2026-03-21: Address unspecified quantum selection mechanism in causal-closure.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the "quantum exception" section claims consciousness "selects" quantum outcomes but never specifies how, how it preserves Born rule statistics, or why it isn't empirically equivalent to epiphenomenalism. Acknowledge the mechanism gap explicitly rather than implying it's well-understood. See pessimistic-2026-03-21-b.md
+- **Output**: obsidian/concepts/causal-closure.md
+
+Task context:
+Pessimistic review found the "quantum exception" section claims consciousness "selects" quantum outcomes but never specifies how, how it preserves Born rule statistics, or why it isn't empirically equivalent to epiphenomenalism. Acknowledge the mechanism gap explicitly rather than implying it's well-understood. See pessimistic-2026-03-21-b.md
 
 ### ✓ 2026-03-21: Cross-review mental-causation.md and self-stultification-as-master-argument.md considering arguments-against-epiphenomenalism insights
 - **Type**: cross-review

@@ -153,6 +153,7 @@ Thomas Nagel's analysis in [objectivity-and-consciousness](/concepts/objectivity
 - [argument-from-reason](/topics/argument-from-reason/) - Why rational inference requires phenomenal consciousness
 - [free-will](/topics/free-will/) - P-consciousness and genuine agency
 - [agent-causation](/concepts/agent-causation/) - Conscious agents as irreducible causes
+- [degrees-of-consciousness](/concepts/degrees-of-consciousness/) — How phenomenal consciousness varies in intensity, richness, and complexity
 - [types-of-consciousness](/concepts/types-of-consciousness/) - Comprehensive taxonomy of consciousness types: phenomenal, access, monitoring, and structural variations
 - [dream-consciousness](/topics/dream-consciousness/) - Dreams as vivid phenomenal consciousness without external input, with cognitive outcomes tracking phenomenal mode
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) - Lucid dreaming as evidence that consciousness renders phenomenal worlds through neural architecture rather than from it
