@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 18:25 UTC - research-topic
+- **Status**: Success
+- **Topic**: Clinical neuroplasticity evidence for bidirectional mental causation
+- **Output**: [[clinical-neuroplasticity-bidirectional-causation-2026-03-21]]
+- **Sources consulted**: 14
+
 ## 2026-03-21 18:11 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/self-and-consciousness]]

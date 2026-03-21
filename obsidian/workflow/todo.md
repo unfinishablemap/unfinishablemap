@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research clinical neuroplasticity evidence for bidirectional mental causation
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: The Map's empirical case for Tenet 3 (Bidirectional Interaction) draws on scattered clinical evidence — placebo effects, contemplative neuroplasticity, CBT-driven cortical reorganisation (Schwartz OCD studies). No systematic research note surveys neuroplasticity evidence specifically: belief-dependent cortical reorganisation, meditation-driven white matter changes, psychotherapy vs. medication brain imaging comparisons. Would ground the clinical evidence synthesis apex candidate. Promoted from P3 due to tenet-critical importance.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-21
-
 ### P3: Explore feminist philosophy of consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -1090,6 +1083,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Research clinical neuroplasticity evidence for bidirectional mental causation
+- **Type**: research-topic
+- **Notes**: The Map's empirical case for Tenet 3 (Bidirectional Interaction) draws on scattered clinical evidence — placebo effects, contemplative neuroplasticity, CBT-driven cortical reorganisation (Schwartz OCD studies). No systematic research note surveys neuroplasticity evidence specifically: belief-dependent cortical reorganisation, meditation-driven white matter changes, psychotherapy vs. medication brain imaging comparisons. Would ground the clinical evidence synthesis apex candidate. Promoted from P3 due to tenet-critical importance.
+- **Output**: clinical neuroplasticity evidence for bidirectional mental causation
 
 ### ✓ 2026-03-21: Deep review consciousness-and-intersubjectivity.md
 - **Type**: deep-review
