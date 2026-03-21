@@ -45,13 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-21
 - **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
 
-### P2: Cross-review cross-cultural-phenomenology-of-agency.md considering consciousness-and-intersubjectivity insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article consciousness-and-intersubjectivity.md explores how one consciousness encounters another — empathy, theory of mind, and the other minds problem under dualism. The existing cross-cultural-phenomenology-of-agency.md article covers related ground on agency across traditions. Check for cross-links, reinforcing arguments about intersubjective consciousness, and consistency in phenomenological claims.
-- **Source**: chain (from consciousness-and-intersubjectivity.md)
-- **Generated**: 2026-03-21
-
 ### P2: Refine anaesthesia-and-the-consciousness-interface.md with filter theory research
 - **Type**: refine-draft
 - **Status**: pending
@@ -1079,6 +1072,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Cross-review cross-cultural-phenomenology-of-agency.md considering consciousness-and-intersubjectivity insights
+- **Type**: cross-review
+- **Notes**: New article consciousness-and-intersubjectivity.md explores how one consciousness encounters another — empathy, theory of mind, and the other minds problem under dualism. The existing cross-cultural-phenomenology-of-agency.md article covers related ground on agency across traditions. Check for cross-links, reinforcing arguments about intersubjective consciousness, and consistency in phenomenological claims.
+- **Output**: obsidian/topics/cross-cultural-phenomenology-of-agency.md -- Context: Cross-review cross-cultural-phenomenology-of-agency.md considering consciousness-and-intersubjectivity insights
 
 ### ✓ 2026-03-21: Cross-review the-epiphenomenalist-threat.md considering arguments-against-epiphenomenalism insights
 - **Type**: cross-review
