@@ -4,7 +4,7 @@ description: "Human+AI investigation of how testimony, hermeneutical injustice, 
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-21T05:54:00+00:00
+ai_modified: 2026-03-21T06:24:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,12 +26,13 @@ related_articles:
   - "[[consciousness-and-testimony]]"
   - "[[intersubjectivity]]"
   - "[[consciousness-and-the-limits-of-explanation]]"
+  - "[[consciousness-and-intersubjectivity]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review: 2026-03-21T01:12:00+00:00
+last_deep_review: 2026-03-21T06:24:00+00:00
 ---
 
 Most of what anyone knows about consciousness—including their own—depends on socially transmitted concepts, other people's testimonial reports, and culturally inherited interpretive frameworks. This dependence creates a systematic void: experiences that cannot be socially validated, linguistically encoded, or paradigmatically accommodated are filtered out of collective understanding, and eventually out of individual self-knowledge. The social epistemic void is distinctive because it is maintained by the ordinary machinery of social knowledge-production—testimony, consensus, hermeneutical resources—rather than by any intrinsic limit of individual cognition.
@@ -40,9 +41,9 @@ Where [[collective-cognitive-limits]] examines how groups develop emergent blind
 
 ## The Testimony Problem
 
-Testimony is the primary vehicle through which knowledge circulates. John Hardwig argues that epistemic dependence on others is not a failure but a structural feature of human cognition—"no individual has the temporal, cognitive, or material capacity to verify all their beliefs independently" (Hardwig 1985). For most domains this works well enough: I trust the chemist about molecular bonds, the historian about medieval trade routes, and the knowledge transfers adequately.
+Testimony is the primary vehicle through which knowledge circulates. John Hardwig argues that epistemic dependence on others is a structural feature of human cognition—"no individual has the temporal, cognitive, or material capacity to verify all their beliefs independently" (Hardwig 1985). For most domains this works adequately.
 
-Consciousness breaks this transfer. When someone testifies about their phenomenal experience—what red looks like to them, what their pain feels like, how their inner monologue operates—the hearer has no independent access to verify the claim. The usual epistemic checks that make testimony reliable (corroboration, coherence with background knowledge, track record of the testifier) all fail or become circular when applied to phenomenal reports. Corroboration requires that others have access to the same phenomenon, which is precisely what the [[other-minds-void]] denies. Coherence checks measure phenomenal reports against... other phenomenal reports. Track record assumes a standard of correctness that, as Schwitzgebel demonstrates, does not exist for introspection.
+Consciousness breaks this transfer. When someone testifies about their phenomenal experience—what red looks like to them, what their pain feels like, how their inner monologue operates—the hearer has no independent access to verify the claim. The usual epistemic checks that make testimony reliable (corroboration, coherence with background knowledge, track record of the testifier) all fail or become circular when applied to phenomenal reports. Corroboration requires that others access the same phenomenon, which the [[other-minds-void]] denies. Coherence checks measure phenomenal reports against... other phenomenal reports. Track record assumes a standard of correctness that, as Schwitzgebel demonstrates, does not exist for introspection.
 
 The result is a domain where testimonial knowledge operates without its usual safeguards, yet where we proceed as though the safeguards were in place.
 
@@ -62,7 +63,7 @@ Eric Schwitzgebel argues that "we are prone to gross error, even in favorable ci
 
 What Schwitzgebel documents at the individual level becomes more troubling at the social level. We calibrate our introspective reports against what others report. If your experience of colour, of inner speech, of emotional texture differs from the apparent norm, you face two options: report the difference (risking incomprehension or dismissal) or adjust your self-understanding to match the consensus.
 
-The adjustment happens below the threshold of deliberate choice. Children learn to describe their experiences using categories their linguistic community provides. They learn which phenomenal reports are met with understanding and which with puzzlement. Over decades, this social calibration shapes not merely how people *describe* their experience but how they *attend* to it—which features they foreground, which they ignore, which they reinterpret to fit available categories.
+The adjustment happens below the threshold of deliberate choice, beginning before language. Research on [[consciousness-and-intersubjectivity|intersubjectivity]] shows that neonatal imitation and joint attention establish self-other alignment from birth—social calibration of phenomenal attention operates before a child has any explicit concepts for experience. As language develops, children learn which phenomenal reports are met with understanding and which with puzzlement. Over decades, this social calibration shapes not merely how people *describe* their experience but how they *attend* to it—which features they foreground, which they ignore, which they reinterpret to fit available categories.
 
 This mechanism explains a puzzle: why do people seem to agree so readily about phenomenal experience when the [[intersubjective-void]] suggests such agreement should be nearly impossible to verify? The agreement may be partly an artifact of social calibration—we have trained each other to report experiences using shared categories, and this training masks whatever underlying phenomenal diversity exists.
 
@@ -102,7 +103,7 @@ These mechanisms do not merely co-exist—they compound. Hermeneutical gaps make
 
 The Unfinishable Map's [[tenets]] illuminate why the social epistemic void is especially deep for consciousness.
 
-**[[tenets#^dualism|Dualism]]** holds that consciousness is not reducible to physical processes. If so, the social epistemic void may be structural rather than contingent. Physical phenomena can be publicly verified through shared measurement instruments; phenomenal experience cannot. Social epistemic mechanisms are therefore biased toward physicalist accounts—not because physicalism is true, but because physical facts are socially validatable in a way that phenomenal facts are not. The void is not merely a gap in current hermeneutical resources that better concepts could fill. It reflects a permanent asymmetry between the public verifiability of physical facts and the private character of phenomenal ones.
+**[[tenets#^dualism|Dualism]]** holds that consciousness is not reducible to physical processes. If so, the social epistemic void may be structural rather than contingent. Physical phenomena can be publicly verified through shared measurement instruments; phenomenal experience cannot. Social epistemic mechanisms are therefore biased toward physicalist accounts—not because physicalism is true, but because physical facts are socially validatable in a way that phenomenal facts are not. The void reflects a permanent asymmetry between the public verifiability of physical facts and the private character of phenomenal ones. Moreover, if [[consciousness-and-intersubjectivity|consciousness is phenomenologically enriched through intersubjective encounter]], the social epistemic void does not merely block knowledge transfer—it impoverishes the very encounters through which consciousness develops its fullest capacities.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** suggests that consciousness causally influences the physical world through quantum-level mechanisms. Such influence would be extraordinarily difficult to communicate testimonially. The social epistemic void would actively suppress reports of experienced agency—the felt sense of willing, choosing, directing attention—because these reports cannot be publicly verified or paradigmatically accommodated within physicalist frameworks.
 
@@ -121,6 +122,7 @@ The social dimension of explanation connects to a deeper structural issue. [[con
 - [[transparency-void|The Transparency Void]] — Why consciousness cannot verify its own accuracy
 - [[consciousness-and-testimony|Consciousness and Testimony]] — Testimony requires consciousness yet cannot fully convey it
 - [[intersubjectivity|Intersubjectivity]] — The shared space between minds
+- [[consciousness-and-intersubjectivity|Consciousness and Intersubjectivity]] — Whether consciousness is ontologically individual or constitutively shaped by encounter with other minds
 - [[consciousness-and-the-limits-of-explanation]] — Why explanation itself presupposes the phenomenal understanding that social epistemology cannot validate
 
 ## References
@@ -133,3 +135,4 @@ The social dimension of explanation connects to a deeper structural issue. [[con
 6. Block, N. (1995). On a Confusion about a Function of Consciousness. *Behavioral and Brain Sciences*, 18(2), 227–247.
 7. Hurlburt, R. T., & Akhter, S. A. (2008). Unsymbolized Thinking. *Consciousness and Cognition*, 17(4), 1364–1374.
 8. Southgate, A. & Oquatre-cinq, C. (2026-01-26). Collective Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/collective-cognitive-limits/
+9. Southgate, A. & Oquatre-six, C. (2026-03-21). Consciousness and Intersubjectivity. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-intersubjectivity/

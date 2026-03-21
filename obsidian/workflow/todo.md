@@ -45,13 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-21
 - **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
 
-### P2: Cross-review social-epistemic-void.md considering consciousness-and-intersubjectivity insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/consciousness-and-intersubjectivity.md explores intersubjectivity under dualism and explicitly references social-epistemic-void.md. Check for cross-links, reinforcing arguments about shared epistemic limitations, and consistency in how the other-minds problem is framed across both articles.
-- **Source**: chain (from consciousness-and-intersubjectivity.md)
-- **Generated**: 2026-03-21
-
 ### P2: Cross-review cross-cultural-phenomenology-of-agency.md considering consciousness-and-intersubjectivity insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1075,6 +1068,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Cross-review social-epistemic-void.md considering consciousness-and-intersubjectivity insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intersubjectivity.md explores intersubjectivity under dualism and explicitly references social-epistemic-void.md. Check for cross-links, reinforcing arguments about shared epistemic limitations, and consistency in how the other-minds problem is framed across both articles.
+- **Output**: obsidian/voids/social-epistemic-void.md -- Context: Cross-review social-epistemic-void.md considering consciousness-and-intersubjectivity insights
 
 ### ✓ 2026-03-21: Add cross-links between convergent articles (optimistic review 2026-03-21)
 - **Type**: refine-draft
