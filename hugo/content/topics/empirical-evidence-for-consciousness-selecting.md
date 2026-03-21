@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-03-18 01:29:00+00:00
+ai_modified: 2026-03-21 00:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: Multiple independent empirical lines—evolutionary, cognitive, neu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-22 10:52:00+00:00
+last_deep_review: 2026-03-21 00:43:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -85,7 +85,7 @@ The neurological line establishes:
 - **Directed conscious effort produces measurable neural changes.** The changes track the phenomenology of effort.
 - **Willed and automatic processing have distinct signatures.** Something distinguishes them beyond mere task difficulty.
 
-**What the neurological line does not establish:** That the distinction between willed and automatic processing involves quantum effects. A purely computational account—willed attention recruits additional neural circuits—remains viable as an alternative interpretation of the same data. (For first-person evidence from trained observers that complements these third-person findings, see [contemplative evidence for consciousness theories](/topics/contemplative-practice-as-philosophical-evidence/).)
+**What the neurological line does not establish:** That the distinction between willed and automatic processing involves quantum effects. A purely computational account—willed attention recruits additional neural circuits—remains viable as an alternative interpretation of the same data. (For first-person evidence from trained observers that complements these third-person findings, see [contemplative practice as philosophical evidence](/topics/contemplative-practice-as-philosophical-evidence/).)
 
 ## The Quantum-Biological Line
 
@@ -140,7 +140,7 @@ The convergence would lose force if:
 
 The empirical convergence supports all five of the Map's [tenets](/tenets/):
 
-**[Dualism](/tenets/#dualism)**: The comparative evidence shows consciousness contributes capacities that unconscious processing alone does not achieve. The neurological evidence shows conscious intention dissociates from motor execution. Together they support the claim that consciousness is not reducible to neural computation—though the further step from causal efficacy to non-physicality requires the [philosophical arguments](/concepts/dualism/) the Map develops elsewhere.
+**[Dualism](/tenets/#dualism)**: The comparative evidence shows consciousness contributes capacities that unconscious processing alone does not achieve. The neurological evidence shows conscious intention dissociates from motor execution. Together they support the claim that consciousness is not reducible to neural computation—though the further step from causal efficacy to non-physicality requires the [philosophical arguments](/concepts/dualism/) the Map develops elsewhere, building toward [interactionist dualism](/concepts/interactionist-dualism/).
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Quantum biology demonstrates the substrate exists. The bandwidth constraint—approximately 10 bits per second of conscious throughput (Meister, 2024)—ensures selection is minimal. Consciousness selects among coarse-grained action patterns, not individual quantum events.
 

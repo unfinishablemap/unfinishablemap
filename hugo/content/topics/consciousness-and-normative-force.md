@@ -47,7 +47,7 @@ related_articles:
 - '[[phenomenal-normativity-environmental-ethics]]'
 title: Consciousness and Normative Force
 topics:
-- '[[phenomenology-of-moral-experience]]'
+- '[[phenomenology-of-moral-life]]'
 - '[[ethics-of-consciousness]]'
 - '[[topics/free-will]]'
 - '[[meaning-of-life]]'
@@ -163,7 +163,7 @@ The consciousness-based account would face pressure if:
 
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — Normativity as intrinsic to phenomenal character
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as constituted by conscious experience
-- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — What moral perception feels like from the inside
+- [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — The full arc of moral consciousness from perception through deliberation to choice
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The felt character of thinking and reasoning
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Beauty and ugliness as irreducible phenomenal features
 - [normative-void](/voids/normative-void/) — Where normative perception reaches its limits

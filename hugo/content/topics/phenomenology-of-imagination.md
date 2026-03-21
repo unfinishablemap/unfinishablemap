@@ -39,7 +39,7 @@ related_articles:
 - '[[incubation-effect-and-unconscious-processing]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[dream-consciousness]]'
-- '[[phenomenology-of-moral-experience]]'
+- '[[phenomenology-of-moral-life]]'
 - '[[creativity-void]]'
 title: The Phenomenology of Imagination
 topics:
@@ -121,7 +121,7 @@ Imagination bears on several of the Map's [tenets](/tenets/) in distinctive ways
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — The felt quality of grasping meaning
 - [dream-consciousness](/topics/dream-consciousness/) — Dreams as involuntary imagination
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Lucid dreaming as voluntary imagination operating with full phenomenal richness during sleep
-- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — Moral imagination and the felt quality of ethical perception
+- [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — Moral imagination and the felt quality of ethical perception
 - [creativity-void](/voids/creativity-void/) — The opacity of consciousness's generative processes
 
 ## References

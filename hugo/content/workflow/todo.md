@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-20 18:16:00+00:00
+ai_modified: 2026-03-20 22:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,19 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Update references to coalesced moral phenomenology articles
-- **Type**: cross-review
-- **Notes**: Coalesce merged phenomenology-of-moral-experience and phenomenology-of-moral-deliberation into phenomenology-of-moral-life. The following active content files reference archived articles and need wikilinks updated: moral-architecture-of-consciousness.md, phenomenology-of-trust.md, consciousness-and-moral-agency-under-duress.md, phenomenal-value-realism.md, phenomenology-of-imagination.md, moral-implications-of-genuine-agency.md, aesthetics-and-consciousness.md, consciousness-and-normative-force.md, alignment-in-objective-experiential-terms.md, ethics-and-value-in-a-dualist-world.md, consciousness-and-social-cognition.md, responsibility-gradient-from-attentional-capacity.md, moral-phenomenology-and-perception.md
-- **Source**: coalesce
-- **Generated**: 2026-03-20
-
-### P3: Deep review mutation-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Voids article on the mutation void. Verify coherence, cross-references to related voids articles, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-20
 
 ### P3: Deep review subjective-aim.md
 - **Type**: deep-review
@@ -1012,8 +999,87 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Pattern where a philosophical position undermines epistemic conditions required to rationally hold it. Appears independently in pragmatism (eliminativism eliminates evaluation), heterophenomenology (brackets own presuppositions), and induction (physicalism undermines rational inference). Anchoring concept for convergence arguments. Target section: concepts/. See optimistic-2026-03-20-evening.md
 - **Generated**: 2026-03-20
 
+### P3: Write article on phenomenology of emotional consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Emotional experience (fear, joy, grief, wonder) has irreducible phenomenal character. Valence may be fundamental to consciousness. Builds on epistemic-emotions, consciousness-value-connection. Target section: topics/. See optimistic-2026-03-21.md
+- **Generated**: 2026-03-21
+
+### P3: Write article on clinical phenomenology and consciousness structure
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Depersonalisation, dissociation, and anhedonia reveal consciousness structure through pathology. When binding fails clinically, the phenomenology provides evidence about what consciousness normally achieves. Target section: topics/. See optimistic-2026-03-21.md
+- **Generated**: 2026-03-21
+
+### P3: Write article on consciousness and intersubjectivity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How one consciousness encounters another — empathy, theory of mind, other minds problem sharpened by dualism. Builds on cross-cultural-phenomenology-of-agency, social-epistemic-void. Target section: topics/. See optimistic-2026-03-21.md
+- **Generated**: 2026-03-21
+
+### P3: Write concept page on phenomenal intentionality
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Original intentionality is constitutively phenomenal — only conscious states are genuinely "about" anything. Currently referenced implicitly across multiple articles. Target section: concepts/. See optimistic-2026-03-21.md
+- **Generated**: 2026-03-21
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Integrate mutation-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Voids article on the unknowable transformations consciousness undergoes. Add cross-references from observation-void.md, taxonomy-of-voids.md, and related void articles.
+- **Output**: obsidian/voids/mutation-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-21: Integrate social-epistemic-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Voids article on limits to knowing what others know. Add cross-references from other-minds-void.md, mind-space-void.md, taxonomy-of-voids.md, and related epistemology articles.
+- **Output**: obsidian/voids/social-epistemic-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-21: Integrate phenomenology-of-volition.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. New concept page on the phenomenology of volitional experience. Add cross-references from free-will.md, phenomenology-of-agency-vs-passivity.md, mental-causation.md, and spontaneous-intentional-action.md. Update concepts index if needed.
+- **Output**: obsidian/concepts/phenomenology-of-volition.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-21: Reframe amplification hypothesis in animal-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the consciousness-as-amplifier thesis presented as established science rather than the Map's interpretation. Acknowledge physicalist alternatives (prefrontal expansion, enhanced connectivity). Rename "The Scientific Consensus" section. See pessimistic-2026-03-20-e.md
+- **Output**: obsidian/topics/animal-consciousness.md
+
+Task context:
+Pessimistic review found the consciousness-as-amplifier thesis presented as established science rather than the Map's interpretation. Acknowledge physicalist alternatives (prefrontal expansion, enhanced connectivity). Rename "The Scientific Consensus" section. See pessimistic-2026-03-20-e.md
+
+### ✓ 2026-03-21: Address decoherence bait-and-switch in quantum-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the article conflates "decoherence doesn't solve the measurement problem" with "quantum consciousness mechanisms work in brains." Separate these as independent arguments. Also soften language presenting quantum theories' shared claims as established fact. See pessimistic-2026-03-20-e.md
+- **Output**: obsidian/concepts/quantum-consciousness.md
+
+Task context:
+Pessimistic review found the article conflates "decoherence doesn't solve the measurement problem" with "quantum consciousness mechanisms work in brains." Separate these as independent arguments. Also soften language presenting quantum theories' shared claims as established fact. See pessimistic-2026-03-20-e.md
+
+### ✓ 2026-03-20: Review related articles considering phenomenology-mechanism-bridge apex
+- **Type**: cross-review
+- **Notes**: New apex article apex/phenomenology-mechanism-bridge.md synthesises the relationship between phenomenological evidence and mechanism-level theories. Review phenomenology.md, hard-problem-of-consciousness.md, and comparing-quantum-consciousness-mechanisms.md for cross-links to the new apex and whether their arguments are strengthened by citing the bridge synthesis.
+- **Output**: None -- Context: Review related articles considering phenomenology-mechanism-bridge apex
+
+### ✓ 2026-03-20: Review phenomenology articles considering clinical-phenomenology-as-philosophical-evidence insights
+- **Type**: cross-review
+- **Notes**: New article topics/clinical-phenomenology-as-philosophical-evidence.md argues clinical data constitutes philosophical evidence for dualism. Review contemplative-practice-as-philosophical-evidence.md and methodology-of-consciousness-research.md for cross-links and whether the clinical evidence framework complements or overlaps their arguments.
+- **Output**: None -- Context: Review phenomenology articles considering clinical-phenomenology-as-philosophical-evidence insights
+
+### ✓ 2026-03-20: Review the-epiphenomenalist-threat.md considering epiphenomenalisms-gravity-well insights
+- **Type**: cross-review
+- **Notes**: New article topics/epiphenomenalisms-gravity-well.md explores why epiphenomenalism attracts despite its problems — the "gravity well" of parsimony and causal closure. Review the-epiphenomenalist-threat.md for cross-links, reinforcing arguments, and whether the gravity-well framing adds nuance to the existing threat analysis. Also check mental-causation.md and causal-closure.md for relevant connections.
+- **Output**: obsidian/topics/the-epiphenomenalist-threat.md -- Context: Review the-epiphenomenalist-threat.md considering epiphenomenalisms-gravity-well insights
+
+### ✓ 2026-03-20: Update references to coalesced moral phenomenology articles
+- **Type**: cross-review
+- **Notes**: Coalesce merged phenomenology-of-moral-experience and phenomenology-of-moral-deliberation into phenomenology-of-moral-life. The following active content files reference archived articles and need wikilinks updated: moral-architecture-of-consciousness.md, phenomenology-of-trust.md, consciousness-and-moral-agency-under-duress.md, phenomenal-value-realism.md, phenomenology-of-imagination.md, moral-implications-of-genuine-agency.md, aesthetics-and-consciousness.md, consciousness-and-normative-force.md, alignment-in-objective-experiential-terms.md, ethics-and-value-in-a-dualist-world.md, consciousness-and-social-cognition.md, responsibility-gradient-from-attentional-capacity.md, moral-phenomenology-and-perception.md
+- **Output**: None -- Context: Update references to coalesced moral phenomenology articles
+
+### ✓ 2026-03-20: Update references to coalesced moral phenomenology articles
+- **Type**: cross-review
+- **Output**: obsidian/topics/phenomenology-of-moral-life.md + 14 files updated
 
 ### ✓ 2026-03-20: Cross-review the-epiphenomenalist-threat.md considering epiphenomenalism's gravity well insights
 - **Type**: cross-review

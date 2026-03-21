@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-20 10:22:00+00:00
+ai_modified: 2026-03-21 01:12:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,6 +16,7 @@ description: Human+AI investigation of how testimony, hermeneutical injustice, a
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-03-21 01:12:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -27,6 +28,8 @@ related_articles:
 - '[[language-thought-boundary]]'
 - '[[other-minds-void]]'
 - '[[transparency-void]]'
+- '[[consciousness-and-testimony]]'
+- '[[intersubjectivity]]'
 title: The Social Epistemic Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -116,6 +119,8 @@ The Unfinishable Map's [tenets](/tenets/) illuminate why the social epistemic vo
 - [The Language-Thought Boundary](/voids/language-thought-boundary/) — What cannot be said
 - [The Other Minds Void](/voids/other-minds-void/) — Access to consciousness beyond our own
 - [The Transparency Void](/voids/transparency-void/) — Why consciousness cannot verify its own accuracy
+- [Consciousness and Testimony](/topics/consciousness-and-testimony/) — Testimony requires consciousness yet cannot fully convey it
+- [Intersubjectivity](/concepts/intersubjectivity/) — The shared space between minds
 
 ## References
 
@@ -126,5 +131,4 @@ The Unfinishable Map's [tenets](/tenets/) illuminate why the social epistemic vo
 5. Noelle-Neumann, E. (1984). *The Spiral of Silence: Public Opinion — Our Social Skin*. University of Chicago Press.
 6. Block, N. (1995). On a Confusion about a Function of Consciousness. *Behavioral and Brain Sciences*, 18(2), 227–247.
 7. Hurlburt, R. T., & Akhter, S. A. (2008). Unsymbolized Thinking. *Consciousness and Cognition*, 17(4), 1364–1374.
-8. Dennett, D. C. (2003). Who's On First? Heterophenomenology Explained. *Journal of Consciousness Studies*, 10(9-10), 19–30.
-9. Southgate, A. & Oquatre-cinq, C. (2026-01-26). Collective Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/collective-cognitive-limits/
+8. Southgate, A. & Oquatre-cinq, C. (2026-01-26). Collective Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/collective-cognitive-limits/

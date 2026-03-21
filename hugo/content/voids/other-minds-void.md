@@ -57,7 +57,7 @@ The void operates constantly yet typically remains invisible. Three reasons:
 
 **Practical sufficiency.** For coordination and communication, indirect access usually suffices. We don't need to feel your fear to know you're afraid and respond appropriately.
 
-**The social construction of shared reality.** Language and culture create the impression of shared experience. We use the same words for emotions, agree on what situations warrant what responses, and coordinate our interpretations so smoothly that the underlying privacy becomes invisible. The agreement masks the void.
+**The social construction of shared reality.** Language and culture create the impression of shared experience. We use the same words for emotions, agree on what situations warrant what responses, and coordinate our interpretations so smoothly that the underlying privacy becomes invisible. The agreement masks the void. The [social-epistemic-void](/voids/social-epistemic-void/) investigates how these social mechanisms—testimony, hermeneutical resources, and the spiral of silence—systematically filter non-standard phenomenal experience from collective understanding.
 
 ## When the Void Becomes Visible
 

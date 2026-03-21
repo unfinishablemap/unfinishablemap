@@ -34,7 +34,7 @@ topics:
 - '[[topics/free-will]]'
 - '[[ethics-of-consciousness]]'
 - '[[consciousness-and-moral-agency-under-duress]]'
-- '[[phenomenology-of-moral-experience]]'
+- '[[phenomenology-of-moral-life]]'
 ---
 
 Moral responsibility is not binary. The Unfinishable Map's [attentional economics](/concepts/attentional-economics/) framework implies that if agency scales with attentional capacity, then so does moral desert. An agent with full attentional resources—rested, undistracted, emotionally regulated, trained in deliberation—bears more responsibility for a harmful choice than one whose attentional capacity is depleted, impaired, or overwhelmed. The framework is a structural consequence of taking seriously the claim that consciousness influences the physical world through a bandwidth-limited channel.

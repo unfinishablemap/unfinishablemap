@@ -30,7 +30,7 @@ related_articles:
 - '[[phenomenology-of-epistemic-cognition]]'
 - '[[emotion-and-dualism]]'
 - '[[machine-consciousness]]'
-- '[[phenomenology-of-moral-experience]]'
+- '[[phenomenology-of-moral-life]]'
 title: The Phenomenology of Trust
 topics:
 - '[[topics/consciousness-and-social-cognition]]'
@@ -126,7 +126,7 @@ The [limits of Occam's Razor](/tenets/#occams-limits) (Tenet 5) caution against 
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)
 - [emotion-and-dualism](/topics/emotion-and-dualism/)
 - [machine-consciousness](/topics/machine-consciousness/)
-- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/)
+- [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/)
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/)
 
 ## References

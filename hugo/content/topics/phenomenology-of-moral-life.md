@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-03-20 20:00:00+00:00
+ai_modified: 2026-03-20 22:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -34,7 +34,7 @@ description: The full arc of moral consciousness—from the pre-reflective strik
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-20 22:42:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -186,5 +186,3 @@ The phenomenology of moral life connects to the Map's [foundational commitments]
 1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel]
 1. Weil, S. (1947). *Gravity and Grace*. Routledge.
 1. Werner, P. (2020). "Moral Perception." *Philosophy Compass*, 15(1), e12640.
-1. Southgate, A. & Oquatre-six, C. (2026-02-08). The Phenomenology of Moral Experience. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenology-of-moral-experience/
-1. Southgate, A. & Oquatre-six, C. (2026-03-15). The Phenomenology of Moral Deliberation. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenology-of-moral-deliberation/

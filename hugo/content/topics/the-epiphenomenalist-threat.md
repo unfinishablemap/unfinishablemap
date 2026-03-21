@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-03-20 22:26:00+00:00
+ai_modified: 2026-03-20 23:07:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ description: Epiphenomenalism isn't just one view among many—it's the default 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-20 22:26:00+00:00
+last_deep_review: 2026-03-20 23:07:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -164,7 +164,7 @@ First, decoherence does not solve the [measurement problem](/concepts/measuremen
 
 Second, not all quantum consciousness mechanisms require sustained coherence. [Stapp's quantum Zeno model](/concepts/stapp-quantum-mind/) operates through rapid discrete observations rather than maintained superposition. Each observation collapses and resets the quantum state, with the cumulative effect biasing which outcome actualises. This mechanism requires only that individual observation events occur faster than decoherence—not that coherence persist across the full neural decision window.
 
-Third, the empirical picture is more open than the standard objection assumes. Corrected calculations yield decoherence times around 10⁻⁶ seconds—seven orders of magnitude longer than Tegmark's headline 10⁻¹³, though still three orders short of neural processing timescales. Mechanisms like Stapp's that require only momentary coherence face a less severe timing constraint. And [quantum biology](/concepts/quantum-biology/)—avian magnetoreception, enzyme catalysis—demonstrates that evolution can exploit quantum effects in warm, wet systems, refuting the categorical claim that biological systems are inherently too noisy.
+Third, the empirical picture is more open than the standard objection assumes. Corrected calculations (Hagan et al., 2002) yield decoherence times of 10⁻⁵ to 10⁻⁴ seconds—up to nine orders of magnitude longer than Tegmark's headline 10⁻¹³, though still one to two orders short of neural processing timescales. Mechanisms like Stapp's that require only momentary coherence face a less severe timing constraint. And [quantum biology](/concepts/quantum-biology/)—avian magnetoreception, enzyme catalysis—demonstrates that evolution can exploit quantum effects in warm, wet systems, refuting the categorical claim that biological systems are inherently too noisy.
 
 These empirical considerations concern *necessary conditions*—whether quantum effects in neural tissue remain physically possible—independent of the Map's [observational closure](/concepts/observational-closure/) claim about detectability. The evidence does not confirm the Map's mechanism; it shows the door remains open.
 
@@ -228,6 +228,7 @@ The Map's framework is one of the few that provides all three elements needed to
 
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 1. Huxley, T.H. (1874). "On the Hypothesis that Animals are Automata, and its History." *Fortnightly Review*, 16, 555-580.
+1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136. (Jackson later recanted, arguing in 2003 that his earlier arguments rested on a mistake about phenomenal concepts.)
 1. Kim, J. (1989). "The Myth of Nonreductive Materialism." *Proceedings of the APA*, 63, 31-47.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.

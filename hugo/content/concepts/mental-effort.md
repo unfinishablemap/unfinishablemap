@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-21 00:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -156,6 +156,7 @@ The phenomenology of effort provides a datum any account must explain. If contro
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Dopamine prepares the selection interface; theta oscillations provide the timing substrate
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the interface layer between consciousness and neural systems
 - [structure-of-attention](/topics/structure-of-attention/) — How attention is organized across voluntary, involuntary, and meta-attentional layers
+- [phenomenology-of-volition](/concepts/phenomenology-of-volition/) — The four-component structure of willing: initiation, sustained control, effort, and veto
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The choosing-observing distinction
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Selection vs witnessing modes
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge

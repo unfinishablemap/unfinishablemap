@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-13
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-21 01:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -33,7 +33,7 @@ topics: []
 
 Some thoughts refuse to stay. You almost have it—the insight forming at the edge of awareness—and then it's gone. The dream narrative that feels so important upon waking dissolves as you reach for it. The word sits right there, you *know* it, yet it won't come. Most such slippage has mundane explanations. But the [voids project](/voids/) asks: could some of it point toward genuinely occluded territory?
 
-This article catalogues the mechanisms by which thoughts slip away, distinguishing ordinary cognitive phenomena from patterns that may warrant further investigation.
+This article catalogues the mechanisms by which thoughts slip away, distinguishing ordinary cognitive phenomena from patterns that may warrant further investigation. Slippage differs from the [mutation void](/voids/mutation-void/), where thoughts do not vanish but *transform*—the pre-attended content becomes something different when consciousness reaches for it. Slippage is loss; mutation is involuntary metamorphosis.
 
 ## The Spectrum of Slippage
 

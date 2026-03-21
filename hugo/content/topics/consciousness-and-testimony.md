@@ -43,6 +43,7 @@ related_articles:
 - '[[knowledge-argument]]'
 - '[[phenomenology-of-deliberation-under-uncertainty]]'
 - '[[consciousness-and-language-interface]]'
+- '[[social-epistemic-void]]'
 title: Consciousness and Testimony
 topics:
 - '[[hard-problem-of-consciousness]]'

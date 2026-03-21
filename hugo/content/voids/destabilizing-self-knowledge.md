@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-21 01:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -40,7 +40,7 @@ This void sits at the intersection of the [Unexplorable and Occluded](/voids/). 
 
 The brain studying itself creates fundamental epistemological challenges. A 2025 paper in *Physics of Life Reviews* identifies the core problem: investigating consciousness requires both perception (external observation of brains) and introspection (internal access to experience). These two modes yield formulations that cannot be harmonized.
 
-The neuroimaging paradox makes this concrete. The observation changes the observed state—the "studied brain" differs from the "studying brain" in the very act of study. The system cannot achieve stable self-representation because representing changes what is represented.
+The neuroimaging paradox makes this concrete. The observation changes the observed state—the "studied brain" differs from the "studying brain" in the very act of study. The system cannot achieve stable self-representation because representing changes what is represented. The [mutation-void](/voids/mutation-void/) taxonomises this instability at the level of individual thoughts: performative, temporal, attentional, emotional, and meditative mutations each show a different way that the act of cognition transforms its own content.
 
 Schopenhauer recognized this early: the brain attempting to understand itself faces the peculiar difficulty that the instrument of investigation is the object being investigated. Each advance in self-knowledge alters the self being known. The target moves with the inquiry.
 

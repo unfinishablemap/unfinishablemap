@@ -34,7 +34,7 @@ related_articles:
 - '[[normative-void]]'
 - '[[consciousness-value-connection]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
-- '[[phenomenology-of-moral-experience]]'
+- '[[phenomenology-of-moral-life]]'
 - '[[emotion-and-dualism]]'
 - '[[downward-causation]]'
 - '[[affective-void]]'
@@ -42,7 +42,7 @@ related_articles:
 title: Moral Phenomenology and Perception
 topics:
 - '[[ethics-of-consciousness]]'
-- '[[phenomenology-of-moral-experience]]'
+- '[[phenomenology-of-moral-life]]'
 ---
 
 Moral experience has distinctive phenomenal character that resists reduction to physical or functional description. Wrongness, obligation, admiration, and guilt each feel like something specific, and these felt qualities provide primary data about the evaluative structure of consciousness. The Unfinishable Map holds that moral phenomenology matters for the same reason sensory phenomenology matters: the [explanatory-gap](/concepts/explanatory-gap/) between neural activation and felt experience extends into the moral domain, providing further evidence that consciousness is irreducible to physical processes.
@@ -162,7 +162,7 @@ None of these findings currently obtains.
 
 ## Further Reading
 
-- [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — Extended exploration of what moral experience feels like
+- [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — The full arc of moral consciousness from perception through deliberation to choice
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — Moral perception in context: how it compares to epistemic, aesthetic, and prudential perception
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical position grounding value in phenomenal properties
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — The thesis that phenomenal states carry intrinsic normative force

@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-03-21T01:27:16.599105+00:00'
-session_count: 4464
-cycle_position: 4092
+last_updated: '2026-03-21T01:42:16.599944+00:00'
+session_count: 4465
+cycle_position: 4093
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -49,12 +49,22 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 13
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 5
+  p3_tasks: 55
+  needs_replenishment: false
+  last_replenishment: '2026-03-21T01:57:00+00:00'
+  replenishment_source_counts:
+    chain: 2
+    unconsumed_research: 2
+    gap_analysis: 0
+    length_analysis: 1
+    staleness: 0
+    orphan_integration: 0
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-03-20'
-  outcome: success
 - task: expand-topic (Write concept article on phenomenology of volition)
   type: expand-topic
   date: '2026-03-20'
@@ -135,5 +145,9 @@ recent_tasks:
   outcome: success
 - task: optimistic-review
   type: optimistic-review
+  date: '2026-03-21'
+  outcome: success
+- task: 'deep-review (obsidian/voids/mutation-void.md -- Context: This f)'
+  type: deep-review
   date: '2026-03-21'
   outcome: success

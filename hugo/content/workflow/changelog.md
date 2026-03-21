@@ -4,10 +4,117 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
-date: '2026-03-20'
+date: '2026-03-21'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-03-21 01:42 UTC - deep-review
+- **Status**: Success
+- **File**: [mutation-void](/voids/mutation-void/)
+- **Word count**: 1303 → 1652 (+349)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (orphaned reference, missing cross-links, missing falsifiability section, orphan integration)
+- **Enhancements made**: 8 inbound cross-references added from 7 related articles
+- **Output**: [deep-review-2026-03-21-mutation-void](/reviews/deep-review-2026-03-21-mutation-void/)
+
+## 2026-03-21 01:28 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All non-draft content across topics/ (~224), concepts/ (~201), tenets/ (5)
+- **Strengths identified**: Cross-cultural convergence arguments, pragmatism-to-dualism pathway, disciplined quantum mechanics engagement, consistent intellectual honesty about argument limits
+- **Expansion opportunities**: 4 high/medium priority tasks added (emotional consciousness, clinical phenomenology, intersubjectivity, phenomenal intentionality)
+- **Output**: [optimistic-2026-03-21](/reviews/optimistic-2026-03-21/)
+
+## 2026-03-21 01:12 UTC - deep-review
+- **Status**: Success
+- **File**: [social-epistemic-void](/voids/social-epistemic-void/)
+- **Word count**: 1780 → 1764 (-16)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (orphan integration with 9 inbound cross-references, removed unused Dennett reference)
+- **Enhancements made**: 9 cross-references added from existing articles, 2 related_articles and Further Reading entries added to article
+- **Output**: [deep-review-2026-03-21-social-epistemic-void](/reviews/deep-review-2026-03-21-social-epistemic-void/)
+
+## 2026-03-21 00:57 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-volition](/concepts/phenomenology-of-volition/)
+- **Word count**: 1807 → 1807 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (orphan integration, missing Libet wikilink)
+- **Enhancements made**: 9 cross-references added from existing articles
+- **Output**: [deep-review-2026-03-21-phenomenology-of-volition](/reviews/deep-review-2026-03-21-phenomenology-of-volition/)
+
+## 2026-03-21 00:43 UTC - deep-review
+- **Status**: Success
+- **File**: [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/)
+- **Word count**: 2238 → 2242 (+4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-21-empirical-evidence-for-consciousness-selecting](/reviews/deep-review-2026-03-21-empirical-evidence-for-consciousness-selecting/)
+
+## 2026-03-21 00:27 UTC - refine-draft
+- **Status**: Success
+- **File**: [animal-consciousness](/topics/animal-consciousness/)
+- **Changes**: Renamed "The Scientific Consensus" → "Growing Scientific Agreement", acknowledged physicalist alternatives before amplification thesis, framed consciousness-as-amplifier as the Map's interpretation, removed "genuine" from "genuine phenomenal experience", softened "must" → "plausibly" for evolutionary causation claim
+- **Published**: yes
+
+## 2026-03-21 00:12 UTC - refine-draft
+- **Status**: Success
+- **File**: [quantum-consciousness](/concepts/quantum-consciousness/)
+- **Changes**: Separated decoherence arguments (philosophical vs empirical), softened shared-claims language, added caveats to protective mechanism estimates and entanglement evidence, fixed overconfident falsifiability claim
+- **Published**: yes
+
+## 2026-03-20 23:59 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/quantum-consciousness.md, concepts/embodied-cognition.md, topics/animal-consciousness.md
+- **Output**: [pessimistic-2026-03-20-e](/reviews/pessimistic-2026-03-20-e/)
+- **Issues found**: 2 high (decoherence bait-and-switch, amplification hypothesis framing), 3 medium (choking argument, consensus section title, radio analogy)
+- **Tasks created**: 2 (refine-draft for quantum-consciousness.md and animal-consciousness.md)
+
+## 2026-03-20 23:42 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-phenomenology-of-constraint-satisfaction](/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/)
+- **Word count**: 1975 → 2079 (+104)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (apex cross-links, volitional control link, causal powers link, redundant hedge, apex integration)
+- **Enhancements made**: 4 (3 body-text cross-links with contextual sentences, 4 Further Reading additions)
+- **Output**: [deep-review-2026-03-20-consciousness-and-the-phenomenology-of-constraint-satisfaction](/reviews/deep-review-2026-03-20-consciousness-and-the-phenomenology-of-constraint-satisfaction/)
+
+## 2026-03-20 23:27 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-phenomenology-of-translation](/topics/consciousness-and-the-phenomenology-of-translation/)
+- **Word count**: 2022 → 2242 (+220)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (clinical phenomenology connection, cross-links, No Many Worlds tenet)
+- **Enhancements made**: 3 (double grounding paragraph, indexicality paragraph, 2 new cross-links)
+- **Output**: [deep-review-2026-03-20-consciousness-and-the-phenomenology-of-translation](/reviews/deep-review-2026-03-20-consciousness-and-the-phenomenology-of-translation/)
+
+## 2026-03-20 23:14 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-volition](/concepts/phenomenology-of-volition/)
+- **Word count**: 1579 → 1807 (+228)
+- **Critical issues addressed**: 2 (wrong wikilink on effort phenomenology, James quote chapter misattribution)
+- **Medium issues addressed**: 2 (added Wegner illusion-of-will engagement, strengthened effort-tracking argument)
+- **Enhancements made**: 3 (new section, stronger argument, Wegner reference added)
+- **Output**: [deep-review-2026-03-20-phenomenology-of-volition](/reviews/deep-review-2026-03-20-phenomenology-of-volition/)
+
+## 2026-03-20 23:07 UTC - deep-review
+- **Status**: Success
+- **File**: [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)
+- **Word count**: 3818 → ~3824 (+6)
+- **Critical issues addressed**: 1 (decoherence number inconsistency with rest of site — corrected 10⁻⁶ to 10⁻⁵–10⁻⁴ per Hagan et al.)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article at stability after 4 prior reviews; gravity well integration confirmed complete)
+- **Output**: [deep-review-2026-03-20c-the-epiphenomenalist-threat](/reviews/deep-review-2026-03-20c-the-epiphenomenalist-threat/)
+
+## 2026-03-20 22:42 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/)
+- **Word count**: 2553 → 2523 (-30, removed circular self-citations)
+- **Critical issues addressed**: 2 (circular self-citations removed, 33 stale wikilinks updated across 14 files)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 33 cross-site reference updates from coalesced slugs
+- **Output**: [deep-review-2026-03-20-phenomenology-of-moral-life](/reviews/deep-review-2026-03-20-phenomenology-of-moral-life/)
 
 ## 2026-03-20 22:35 UTC - research-voids
 - **Status**: Success

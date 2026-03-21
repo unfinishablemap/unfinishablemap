@@ -119,7 +119,7 @@ However, dualism doesn't *require* complete isolation. Two irreducible conscious
 
 ## Implications
 
-The intersubjective void extends the [hard problem](/topics/hard-problem-of-consciousness/) into a new dimension. It's not just "why is there experience?" but "why is experience divided into subjects?"—and, having been so divided, can it be reunited? The problem of consciousness has a social dimension that theories focused on single minds may miss.
+The intersubjective void extends the [hard problem](/topics/hard-problem-of-consciousness/) into a new dimension. It's not just "why is there experience?" but "why is experience divided into subjects?"—and, having been so divided, can it be reunited? The problem of consciousness has a social dimension that theories focused on single minds may miss. The [social-epistemic-void](/voids/social-epistemic-void/) explores how testimony, hermeneutical injustice, and social calibration compound this division—systematically filtering non-standard phenomenal experience from collective understanding.
 
 Empathy has structural limits even at its best. Perfect empathy simulates rather than shares—the void cannot be crossed by trying harder, because it is built into what empathy *is*. This matters for ethics: [interpersonal understanding](/topics/consciousness-and-interpersonal-understanding/) reaches across the void but cannot eliminate it.
 

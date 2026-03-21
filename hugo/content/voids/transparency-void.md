@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-21 01:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -82,7 +82,7 @@ The transparency void occupies distinctive territory among the Map's [voids](/vo
 - The [self-reference-paradox](/voids/self-reference-paradox/) asks whether consciousness can map itself—a question about reflexivity
 - [Introspective opacity](/voids/introspective-opacity/) addresses why we cannot observe our own cognitive mechanisms
 
-The transparency void asks something different: whether the *medium* of all mapping introduces systematic distortion. It concerns the reliability of the mapping apparatus itself. Introspective opacity means we cannot see the machinery; the transparency void means we cannot determine whether the machinery's output tracks reality or merely tracks fitness.
+The transparency void asks something different: whether the *medium* of all mapping introduces systematic distortion. It concerns the reliability of the mapping apparatus itself. Introspective opacity means we cannot see the machinery; the transparency void means we cannot determine whether the machinery's output tracks reality or merely tracks fitness. The [mutation-void](/voids/mutation-void/) occupies yet another position: it concerns cases where the act of attending to content *transforms* that content, so the machinery doesn't merely hide or distort but actively reshapes what it processes.
 
 This void is also deeper than the simulation hypothesis. The question of whether we inhabit a simulation is epistemically irresolvable because of the transparency void, not the other way around. Even if we are not in a simulation—even if perception has perfectly ordinary physical causes—we still cannot verify that cognitive processing preserves truth rather than coherent distortion. The transparency void applies regardless of metaphysical backdrop.
 
@@ -114,6 +114,7 @@ The void also connects to the Map's [Bidirectional Interaction](/tenets/#bidirec
 - [whether-real](/voids/whether-real/) — Whether cognitive limits are permanent or merely current
 - [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/) — What happens when transparency breaks down
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
+- [The Social Epistemic Void](/voids/social-epistemic-void/) — How social knowledge mechanisms compound transparency by enforcing consensus on phenomenal reports
 
 ## References
 

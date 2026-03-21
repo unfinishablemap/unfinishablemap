@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-21 01:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -153,7 +153,7 @@ The [Dualism](/tenets/#dualism) tenet asserts that consciousness is irreducible 
 
 The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet gains support from training literature. The Fox study's logarithmic correlation between meditation experience and accuracy—though cross-sectional—is consistent with introspection being a trainable skill whose apparent unreliability reflects untrained observation. First-person investigation may reveal features of consciousness invisible to third-person methods.
 
-The objection that introspection "modifies its target" supports the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. If attention affects experience, consciousness has causal efficacy—the "contamination" worry becomes evidence for what the tenet claims.
+The objection that introspection "modifies its target" supports the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. If attention affects experience, consciousness has causal efficacy—the "contamination" worry becomes evidence for what the tenet claims. The [mutation-void](/voids/mutation-void/) develops this insight into a taxonomy of specific transformation types: performative, temporal, attentional, emotional, dream, and meditative mutations each demonstrate that introspective modification is not a single uniform phenomenon but a family of distinct instabilities.
 
 The [No Many Worlds](/tenets/#no-many-worlds) tenet receives indirect support. Introspective reports uniformly describe singular, determinate experiences. No contemplative tradition reports phenomenology consistent with superposition. This suggests consciousness involves collapse to definite outcomes.
 

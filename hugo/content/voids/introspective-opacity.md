@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-21 01:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -91,7 +91,7 @@ Higher-order thought theories distinguish metacognition (assessing cognitive sta
 
 Sartre's phenomenological analysis reaches deeper. Consciousness cannot objectify itself without self-distortion. The for-itself—being conscious—is fundamentally not an object. To say "I am" is already to miss one's own being—the being that constantly makes itself cannot be captured in a static assertion.
 
-Any attempt at self-reflection transforms the original conscious state. Pre-reflective consciousness becomes reflective consciousness in the act of examination. The very thing we seek to know changes shape when we reach for it.
+Any attempt at self-reflection transforms the original conscious state. Pre-reflective consciousness becomes reflective consciousness in the act of examination. The very thing we seek to know changes shape when we reach for it. The [mutation-void](/voids/mutation-void/) identifies specific classes of this transformation—performative, temporal, attentional, emotional—showing that mutation is not a single phenomenon but a family of related instabilities.
 
 ## The Special Case of Volition
 
@@ -228,6 +228,7 @@ None of these conditions has been met. Introspective opacity persists across cul
 - [The Involuntariness Void](/voids/involuntariness-void/) — Why consciousness cannot control its own states
 - [The Creativity Void](/voids/creativity-void/) — Parallel opacity: creative process hidden, product accessible
 - [The Phenomenology of Choice](/concepts/phenomenology-of-choice/) — What choosing feels like from the inside
+- [The Social Epistemic Void](/voids/social-epistemic-void/) — How social calibration compounds introspective unreliability
 
 ## References
 

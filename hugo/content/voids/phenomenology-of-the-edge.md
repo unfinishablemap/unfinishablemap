@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-21 01:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -151,6 +151,7 @@ The [apophatic tradition](/concepts/apophatic-approaches/) offers methods for en
 - [Voids in the Map](/voids/) — The broader context of cognitive limits and what they reveal
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for engaging with what exceeds articulation
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalising edge-phenomenology as evidential data for boundary-mapping
+- [The Mutation Void](/voids/mutation-void/) — Thoughts that transform upon inspection rather than slipping away
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — The phenomenology of slippage and dissolving insights
 - [The Habituation Void](/voids/habituation-void/) — Where the edge is not approached but hidden by familiarity
 - [The Silence Void](/voids/the-silence-void/) — The ultimate edge: where cognitive cessation opens territory mapping cannot reach

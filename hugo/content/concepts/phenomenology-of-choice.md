@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-21 00:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -43,7 +43,7 @@ topics:
 
 Choosing feels like something. This obvious fact carries philosophical weight that is often overlooked. When you deliberate between options and settle on one, there is a distinctive qualitative character to the experience—a phenomenology of decision that differs markedly from passively observing events unfold. This phenomenology provides evidence for the Map's framework: consciousness as genuine selector rather than epiphenomenal spectator. See [free will](/concepts/concept-of-free-will/) for the Map's agent-causal position that this phenomenology supports.
 
-The phenomenology of choice encompasses deliberation, resolution, and authorship. Each phase has distinctive experiential signatures that materialist accounts struggle to explain while the Map's [agent-causal](/concepts/agent-causation/) framework predicts them.
+The phenomenology of choice encompasses deliberation, resolution, and authorship. Each phase has distinctive experiential signatures that materialist accounts struggle to explain while the Map's [agent-causal](/concepts/agent-causation/) framework predicts them. Where the [phenomenology of volition](/concepts/phenomenology-of-volition/) concerns the exertion of will itself—initiation, sustained control, effort, and veto—the phenomenology of choice concerns the preceding deliberative phase: weighing options, experiencing their felt significance, and arriving at resolution.
 
 ## The Structure of Choosing
 
@@ -197,6 +197,7 @@ The phenomenology of choice aligns with what the Map's tenets predict:
 
 ## Further Reading
 
+- [phenomenology-of-volition](/concepts/phenomenology-of-volition/) — The exertion of will itself: initiation, sustained control, effort, and veto
 - [free-will](/topics/free-will/) — The broader debate and the Map's position
 - [agent-causation](/concepts/agent-causation/) — Why choice requires agents, not just events
 - [mental-effort](/concepts/mental-effort/) — The quantum Zeno mechanism and why effort should feel like work

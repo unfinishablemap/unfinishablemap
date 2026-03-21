@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-20 20:14:00+00:00
+ai_modified: 2026-03-21 00:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -54,7 +54,7 @@ Every moment of experience falls somewhere on an axis between doing and undergoi
 
 At the active pole, experience has a distinctive character. When you deliberate and choose, direct attention voluntarily, or initiate a physical movement, several phenomenal features present themselves:
 
-- **Effort**: Active states feel like work. Sustaining focus on a difficult text, resisting distraction, or holding a decision open all involve phenomenal cost. The [phenomenology of effort](/concepts/mental-effort/) tracks real cognitive engagement—hard tasks feel hard because consciousness is doing more, not because the brain generates an arbitrary difficulty signal.
+- **Effort**: Active states feel like work. Sustaining focus on a difficult text, resisting distraction, or holding a decision open all involve phenomenal cost. The [phenomenology of effort](/concepts/mental-effort/) tracks real cognitive engagement—hard tasks feel hard because consciousness is doing more, not because the brain generates an arbitrary difficulty signal. The [phenomenology of volition](/concepts/phenomenology-of-volition/) identifies effort as one of four distinguishable components of willing, alongside initiation, sustained control, and veto.
 
 - **Authorship**: Actions feel *mine* in a way observations do not. The [sense of agency](/concepts/phenomenology-of-choice/) after a decision—"I chose this"—is a distinctive phenomenal quality absent from passively received outcomes.
 
@@ -152,6 +152,7 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 
 ## Further Reading
 
+- [phenomenology-of-volition](/concepts/phenomenology-of-volition/) — The four components of willing: initiation, sustained control, effort, and veto
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The detailed structure of choosing
 - [witness-consciousness](/concepts/witness-consciousness/) — The passive pole explored through contemplative traditions
 - [agent-causation](/concepts/agent-causation/) — Why genuine agency requires agent-causation, not event-causation

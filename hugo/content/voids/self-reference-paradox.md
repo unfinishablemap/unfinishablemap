@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-21 01:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -68,7 +68,7 @@ Still, self-referential systems—whether formal or biological—face characteri
 
 Direct the attention inward. Observe your own observing. You become aware of awareness—but now there are two layers: the awareness observed and the awareness observing it. Attempt to observe *that* awareness—a third layer forms. The [phenomenology of recursive thought](/topics/phenomenology-of-recursive-thought/) maps this layered structure; the [recursion-void](/voids/recursion-void/) quantifies the limit at approximately fifth-order intentionality.
 
-Unlike infinite mirrors where the same image repeats, each layer is genuinely new—a fresh act of attention attending to the previous. The [witness consciousness](/concepts/witness-consciousness/) traditions recognise this: the Sanskrit *sakshi* refers to awareness that observes without becoming an object. Awareness can take objects—thoughts, sensations, even other acts of awareness. But awareness cannot take its own *current act* as object. The moment it tries, a new current act forms, and the target has shifted.
+Unlike infinite mirrors where the same image repeats, each layer is genuinely new—a fresh act of attention attending to the previous. This is a specific instance of what the [mutation-void](/voids/mutation-void/) calls attention mutation: attending to awareness produces a different awareness, not a faithful copy. The [witness consciousness](/concepts/witness-consciousness/) traditions recognise this: the Sanskrit *sakshi* refers to awareness that observes without becoming an object. Awareness can take objects—thoughts, sensations, even other acts of awareness. But awareness cannot take its own *current act* as object. The moment it tries, a new current act forms, and the target has shifted.
 
 ## Transparent Self-Models
 

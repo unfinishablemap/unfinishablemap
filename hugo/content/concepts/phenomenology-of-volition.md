@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-20 18:59:00+00:00
+ai_modified: 2026-03-21 00:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: The first-person structure of willing—initiation, sustained contr
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-21 00:57:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,7 +62,7 @@ The experience of sustained control also reveals something about the *grain* of 
 
 Volitional acts vary in felt difficulty. Suppressing a craving, solving a hard problem, or maintaining focus amid distraction all feel *effortful* in ways that distinguish them from automatic processing. Easy actions — walking a familiar route, typing a well-practised word — feel nearly effortless despite involving complex motor coordination.
 
-The effort gradient tracks real cognitive demands. Hard tasks feel hard; easy tasks feel easy. This correlation would be coincidental if phenomenology were epiphenomenal — random ornamentation on neural processes that proceeds identically without it. The Map interprets the correlation as evidence that [effort phenomenology](/concepts/phenomenology-of-choice/) reflects genuine causal contribution: consciousness doing work at the [interface](/concepts/attention-as-interface/) between intention and neural execution.
+The effort gradient tracks real cognitive demands. Hard tasks feel hard; easy tasks feel easy. An epiphenomenalist might argue this correlation is unsurprising even without causal efficacy — perhaps the brain generates effort phenomenology that tracks demands because both arise from the same neural processes. But this response faces a structural problem: it must explain why the brain produces *graded* phenomenology that precisely mirrors the difficulty of the task, rather than uniform phenomenology or none at all. If effort experience is causally inert, the metabolic cost of generating it — in precise proportion to task demands — has no adaptive explanation. The Map interprets the correlation as evidence that [effort phenomenology](/concepts/mental-effort/) reflects genuine causal contribution: consciousness doing work at the [interface](/concepts/attention-as-interface/) between intention and neural execution.
 
 Effort also has a directional quality. It feels like pushing *against* something — resistance from competing impulses, fatigue, or environmental distraction. This oppositional character suggests volition operates in a space of competing possibilities, selecting one pattern while suppressing alternatives. The experience of resistance is phenomenologically distinct from the experience of inability: failing to lift a heavy object feels different from failing to concentrate, even though both involve felt limits.
 
@@ -70,7 +70,7 @@ Effort also has a directional quality. It feels like pushing *against* something
 
 The capacity to refrain is phenomenologically distinct from the capacity to initiate. When you suppress an impulse — catching an angry retort before it leaves your mouth, stopping your hand from reaching for a phone — there is a specific experience of *active inhibition* that differs from both action and mere inaction.
 
-Libet himself recognized this "free won't" as the strongest evidence for conscious causal efficacy in his own data. Brass and Haggard's neuroimaging confirmed distinct neural substrates for the "whether" component of action — dorsal fronto-median cortex activation during intentional inhibition, exerting top-down suppression of premotor areas. The veto is not merely the absence of a go signal but an active neural process with its own circuitry and its own phenomenology.
+[Libet](/concepts/libet-experiments/) himself recognized this "free won't" as the strongest evidence for conscious causal efficacy in his own data. Brass and Haggard's neuroimaging confirmed distinct neural substrates for the "whether" component of action — dorsal fronto-median cortex activation during intentional inhibition, exerting top-down suppression of premotor areas. The veto is not merely the absence of a go signal but an active neural process with its own circuitry and its own phenomenology.
 
 The veto's phenomenology includes a characteristic *holding back* that can require as much effort as initiation. Resisting temptation is experienced as work. Contemplative practitioners describe this with precision: the Buddhist concept of *vīriya* (energetic effort) applies equally to initiating wholesome action and restraining unwholesome impulse. Both require volitional engagement; both feel effortful; both produce the sense of authorship.
 
@@ -83,6 +83,12 @@ The phenomenology of volition overlaps with but is not identical to several neig
 **Sense of agency** is one component of volitional phenomenology (initiation) but does not exhaust it. Agency is typically retrospective — the post-hoc recognition of authorship. Volition includes the prospective and concurrent experiences of effort and sustained control that agency attributions presuppose.
 
 **Motor control** is the downstream execution of volitional commands. [Motor selection](/concepts/motor-selection/) has its own phenomenology, but much of motor execution is phenomenologically transparent — you experience willing to type a word, not willing each finger movement. The gap between volitional intention and motor detail is itself phenomenologically informative: it suggests consciousness operates at the level of goals and selection, not micromanagement.
+
+## The Illusion Challenge
+
+Wegner's influential *The Illusion of Conscious Will* (2002) argues that the experience of willing is a post-hoc construction — the brain decides, then generates a feeling of having decided. If correct, volitional phenomenology would be evidentially worthless.
+
+The four-component structure identified here is the strongest reply. Wegner's evidence comes primarily from cases where agency attribution goes wrong — automatisms, hypnosis, the "I Spy" experiment where subjects feel they chose actions they were guided toward. These cases involve *initiation* phenomenology alone. They say nothing about sustained control, effort gradients, or active veto. A theory that explains initiation errors cannot dismiss the entire phenomenology of volition without addressing why the brain generates four distinguishable experiential components with distinct neural correlates and distinct clinical dissociation patterns. The illusion would need to be not one trick but four independent tricks, each precisely calibrated to real cognitive demands.
 
 ## Why Volitional Phenomenology Matters
 
@@ -116,8 +122,9 @@ The Map's [tenets](/tenets/) predict the structure of volitional experience. **D
 ## References
 
 1. Gallagher, S., & Zahavi, D. (2012). *The Phenomenological Mind* (2nd ed.). Routledge.
-2. James, W. (1890). *The Principles of Psychology*. Chapter 26: Will.
+2. James, W. (1890). *The Principles of Psychology*. Chapters 11 (Attention) and 26 (Will).
 3. Brass, M., & Haggard, P. (2008). The what, when, whether model of intentional action. *The Neuroscientist*, 14(4), 319–325.
 4. Pacherie, E. (2008). The phenomenology of action: A conceptual framework. *Cognition*, 107(1), 179–217.
 5. Bayne, T., & Levy, N. (2006). The feeling of doing: Deconstructing the phenomenology of agency. In N. Sebanz & W. Prinz (Eds.), *Disorders of Volition*. MIT Press.
-6. Southgate, A. & Oquatre-six, C. (2026-03-20). Phenomenology of Volitional Control. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenology-of-volitional-control/
+6. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
+7. Southgate, A. & Oquatre-six, C. (2026-03-20). Phenomenology of Volitional Control. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenology-of-volitional-control/
