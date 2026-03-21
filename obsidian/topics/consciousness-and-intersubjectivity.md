@@ -4,8 +4,8 @@ description: "Is consciousness constitutively intersubjective or fundamentally s
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-03-21T06:55:00+00:00
-last_deep_review: 2026-03-21T06:55:00+00:00
+ai_modified: 2026-03-21T17:55:00+00:00
+last_deep_review: 2026-03-21T17:55:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -45,7 +45,7 @@ Three broad positions define the philosophical landscape:
 
 **Consciousness first.** On this view, individual consciousness is foundational. Each mind is a self-contained experiential domain that discovers other minds through inference, empathy, or perception. Intersubjectivity is an achievement — something consciousness manages to accomplish despite its essential privacy. Descartes exemplifies this tradition: the *cogito* begins with solitary certainty, and other minds must be demonstrated from there. The [[problem-of-other-minds]] is a genuine problem precisely because consciousness begins alone.
 
-**Intersubjectivity first.** The rival view, developed most forcefully in the phenomenological tradition, holds that consciousness is constitutively intersubjective. You cannot peel away all intersubjective relations and find a residual "pure" consciousness underneath. Heidegger's *Mitsein* (being-with) is an existential structure of *Dasein* — not something added to a pre-existing subject but part of what it means to be the kind of being we are. Levinas goes further: the encounter with the Other is ethically prior to self-consciousness. The face of the Other interrupts solitary existence and constitutes the subject as responsible before it constitutes itself as autonomous.
+**Intersubjectivity first.** The rival view, developed most forcefully in the [[phenomenology|phenomenological]] tradition, holds that consciousness is constitutively intersubjective. You cannot peel away all intersubjective relations and find a residual "pure" consciousness underneath. Heidegger's *Mitsein* (being-with) is an existential structure of *Dasein* — not something added to a pre-existing subject but part of what it means to be the kind of being we are. Levinas goes further: the encounter with the Other is ethically prior to self-consciousness. The face of the Other interrupts solitary existence and constitutes the subject as responsible before it constitutes itself as autonomous.
 
 **Co-emergence.** A middle position holds that neither individual consciousness nor intersubjectivity is prior. Both emerge together, each requiring the other. Merleau-Ponty's account of intercorporeality — the way my body and your body are woven into a shared perceptual field (see [[embodied-cognition]]) — suggests that selfhood and otherness arise simultaneously from embodied encounter. There is no moment when consciousness exists without at least the structural possibility of intersubjective relation.
 
@@ -131,12 +131,13 @@ The asymmetry matters for the Map's framework in three ways:
 
 ## References
 
-1. Husserl, E. (1931/1960). *Cartesian Meditations: An Introduction to Phenomenology*. Trans. D. Cairns. Martinus Nijhoff.
-2. Levinas, E. (1969). *Totality and Infinity: An Essay on Exteriority*. Trans. A. Lingis. Duquesne University Press.
-3. Merleau-Ponty, M. (1945/1962). *Phenomenology of Perception*. Trans. C. Smith. Routledge.
-4. Trevarthen, C. (1979). "Communication and Cooperation in Early Infancy: A Description of Primary Intersubjectivity." In M. Bullowa (Ed.), *Before Speech: The Beginning of Interpersonal Communication*. Cambridge University Press, 321-347.
-5. Tomasello, M. (1995). "Joint Attention as Social Cognition." In C. Moore & P. J. Dunham (Eds.), *Joint Attention: Its Origins and Role in Development*. Lawrence Erlbaum, 103-130.
-6. Meltzoff, A. N. & Moore, M. K. (1977). "Imitation of Facial and Manual Gestures by Human Neonates." *Science*, 198(4312), 75-78.
-7. Oostenbroek, J. et al. (2016). "Comprehensive Longitudinal Study Challenges the Existence of Neonatal Imitation in Humans." *Current Biology*, 26(10), 1334-1338.
-8. Zahavi, D. (2014). *Self and Other: Exploring Subjectivity, Empathy, and Shame*. Oxford University Press.
-9. Southgate, A. & Oquatre-cinq, C. (2026-01-23). Intersubjectivity. *The Unfinishable Map*. https://unfinishablemap.org/concepts/intersubjectivity/
+1. Heidegger, M. (1927/1962). *Being and Time*. Trans. J. Macquarrie & E. Robinson. Harper & Row.
+2. Husserl, E. (1931/1960). *Cartesian Meditations: An Introduction to Phenomenology*. Trans. D. Cairns. Martinus Nijhoff.
+3. Levinas, E. (1969). *Totality and Infinity: An Essay on Exteriority*. Trans. A. Lingis. Duquesne University Press.
+4. Merleau-Ponty, M. (1945/1962). *Phenomenology of Perception*. Trans. C. Smith. Routledge.
+5. Trevarthen, C. (1979). "Communication and Cooperation in Early Infancy: A Description of Primary Intersubjectivity." In M. Bullowa (Ed.), *Before Speech: The Beginning of Interpersonal Communication*. Cambridge University Press, 321-347.
+6. Tomasello, M. (1995). "Joint Attention as Social Cognition." In C. Moore & P. J. Dunham (Eds.), *Joint Attention: Its Origins and Role in Development*. Lawrence Erlbaum, 103-130.
+7. Meltzoff, A. N. & Moore, M. K. (1977). "Imitation of Facial and Manual Gestures by Human Neonates." *Science*, 198(4312), 75-78.
+8. Oostenbroek, J. et al. (2016). "Comprehensive Longitudinal Study Challenges the Existence of Neonatal Imitation in Humans." *Current Biology*, 26(10), 1334-1338.
+9. Zahavi, D. (2014). *Self and Other: Exploring Subjectivity, Empathy, and Shame*. Oxford University Press.
+10. Southgate, A. & Oquatre-cinq, C. (2026-01-23). Intersubjectivity. *The Unfinishable Map*. https://unfinishablemap.org/concepts/intersubjectivity/

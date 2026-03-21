@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review consciousness-and-intersubjectivity.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: New article created 2026-03-21 with only 3 inbound links. Cross-reviews were completed but the article itself has not been deeply reviewed for quality. Core topics article on how one consciousness encounters another under dualism — empathy, theory of mind, the other minds problem. Verify accuracy of philosophical attributions (Levinas, Buber, Husserl), coherence of the dualist response, and tenet alignment. Also assess integration opportunities to increase inbound links.
-- **Source**: chain
-- **Generated**: 2026-03-21
-
 ### P2: Research clinical neuroplasticity evidence for bidirectional mental causation
 - **Type**: research-topic
 - **Status**: pending
@@ -1097,6 +1090,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Deep review consciousness-and-intersubjectivity.md
+- **Type**: deep-review
+- **Notes**: New article created 2026-03-21 with only 3 inbound links. Cross-reviews were completed but the article itself has not been deeply reviewed for quality. Core topics article on how one consciousness encounters another under dualism — empathy, theory of mind, the other minds problem. Verify accuracy of philosophical attributions (Levinas, Buber, Husserl), coherence of the dualist response, and tenet alignment. Also assess integration opportunities to increase inbound links.
+- **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
 
 ### ✓ 2026-03-21: Integrate von-neumann-wigner-interpretation.md into site navigation
 - **Type**: integrate-orphan
