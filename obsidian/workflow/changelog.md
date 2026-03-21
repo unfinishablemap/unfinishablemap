@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 18:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Clinical neuroplasticity evidence for bidirectional mental causation
+- **Output**: [[clinical-neuroplasticity-evidence-for-bidirectional-causation]]
+- **Word count**: 1775
+- **Based on research**: yes, [[clinical-neuroplasticity-bidirectional-causation-2026-03-21]]
+
 ## 2026-03-21 18:48 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[introspection-rehabilitation]]

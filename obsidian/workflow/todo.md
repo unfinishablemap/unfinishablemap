@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on clinical neuroplasticity evidence for bidirectional mental causation
-- **Type**: expand-topic
-- **Notes**: Research completed in research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md. Schwartz-Stapp-Beauregard quantum Zeno framework, CBT vs pharmacological neuroimaging comparisons, meditation-driven structural remodelling, and placebo-stimulated neuroplasticity converge on bidirectional causation. Synthesise into site content supporting Tenet 3. Target section: topics/.
-- **Source**: chain + unconsumed_research
-- **Generated**: 2026-03-21
-
 ### P2: Cross-review social-construction-of-self-vs-phenomenal-self.md considering intersubjectivity insights
 - **Type**: cross-review
 - **Notes**: New article topics/consciousness-and-intersubjectivity.md (2026-03-21) develops intersubjective constitution of selfhood. Check social-construction-of-self-vs-phenomenal-self.md for cross-links, reinforcing arguments on social vs phenomenal self, and whether the intersubjectivity framework strengthens or complicates its position.
@@ -71,6 +65,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: cross-review
 - **Notes**: Coalesce merged introspection-rehabilitation.md into epistemology-of-introspection-and-calibration.md. The following active content files reference the archived article and may need wikilinks updated: phenomenal-conservatism-and-introspective-evidence.md, epistemology-of-phenomenal-reports.md, galilean-exclusion.md, contemplative-practice-as-philosophical-evidence.md, consciousness-and-the-problem-of-measurement-standards.md, comparative-phenomenology-of-meditative-traditions.md, methodology-of-consciousness-research.md, phenomenology-of-memory-and-the-self.md, consciousness-and-testimony.md, contemplative-epistemology.md
 - **Source**: coalesce
+- **Generated**: 2026-03-21
+
+### P2: Cross-review placebo-effect-and-mental-causation.md and empirical-evidence-for-consciousness-selecting.md considering new neuroplasticity article
+- **Type**: cross-review
+- **Notes**: New article topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md (2026-03-21) synthesises clinical neuroplasticity evidence for bidirectional causation. Check placebo-effect-and-mental-causation.md and empirical-evidence-for-consciousness-selecting.md for cross-links, whether the neuroplasticity convergence argument strengthens their cases, and terminological consistency.
+- **Source**: chain (from clinical-neuroplasticity-evidence-for-bidirectional-causation.md)
 - **Generated**: 2026-03-21
 
 ### P3: Explore feminist philosophy of consciousness
@@ -1119,6 +1119,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Write article on clinical neuroplasticity evidence for bidirectional mental causation
+- **Type**: expand-topic
+- **Notes**: Research completed in research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md. Schwartz-Stapp-Beauregard quantum Zeno framework, CBT vs pharmacological neuroimaging comparisons, meditation-driven structural remodelling, and placebo-stimulated neuroplasticity converge on bidirectional causation. Synthesise into site content supporting Tenet 3. Target section: topics/.
+- **Output**: clinical neuroplasticity evidence for bidirectional mental causation
 
 ### ✓ 2026-03-21: Research clinical neuroplasticity evidence for bidirectional mental causation
 - **Type**: research-topic
