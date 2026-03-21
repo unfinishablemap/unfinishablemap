@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on enactivism as challenge to interactionist dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/enactivism-challenge-interactionist-dualism-2026-03-21.md. Enactivism (Varela, Thompson, Rosch) challenges interactionist dualism by dissolving mind-body separation rather than explaining the interface. However, enactivism faces its own hard problem of consciousness and shares the Map's commitment to phenomenological irreducibility. Article should present the challenge fairly, identify shared ground, and articulate the dualist response — particularly that enactivism's dissolution strategy leaves the explanatory gap intact. Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-21
-
 ### P2: Integrate clinical-neuroplasticity-evidence-for-bidirectional-causation.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1118,6 +1111,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Write article on enactivism as challenge to interactionist dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/enactivism-challenge-interactionist-dualism-2026-03-21.md. Enactivism (Varela, Thompson, Rosch) challenges interactionist dualism by dissolving mind-body separation rather than explaining the interface. However, enactivism faces its own hard problem of consciousness and shares the Map's commitment to phenomenological irreducibility. Article should present the challenge fairly, identify shared ground, and articulate the dualist response — particularly that enactivism's dissolution strategy leaves the explanatory gap intact. Target section: topics/.
+- **Output**: enactivism as challenge to interactionist dualism
 
 ### ✓ 2026-03-21: Cross-review placebo-effect-and-mental-causation.md and empirical-evidence-for-consciousness-selecting.md considering new neuroplasticity article
 - **Type**: cross-review

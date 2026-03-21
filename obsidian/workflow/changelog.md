@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 21:16 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Enactivism's Challenge to Interactionist Dualism
+- **Output**: [[topics/enactivism-challenge-to-interactionist-dualism]]
+- **Word count**: 1885
+- **Based on research**: yes, [[research/enactivism-challenge-interactionist-dualism-2026-03-21]]
+
 ## 2026-03-21 20:55 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/placebo-effect-and-mental-causation]]
