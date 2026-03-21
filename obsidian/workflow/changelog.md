@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 04:12 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-biology-and-neural-consciousness]]
+- **Changes**: Integrated twin entanglement EEG study (Kerskens 2025), Mavromatos QED cavities proposal; added cognitive correlation to convergence table; 2 new references; updated description
+- **Published**: yes
+
 ## 2026-03-21 03:57 UTC - coalesce
 - **Status**: Abandoned (no strong candidates)
 - **Sections searched**: voids (100/100), topics (224/230), concepts (218/230)

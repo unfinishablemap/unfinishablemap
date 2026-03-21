@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Refine quantum-biology-and-neural-consciousness.md with 2025-2026 experimental evidence
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research completed in research/quantum-biology-neural-experimental-2026-03-20.md covers recent experimental evidence for quantum effects in neural systems (2025-2026). Integrate new findings to strengthen the empirical basis. Directly supports Tenet 2 (Minimal Quantum Interaction).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-21
-
 ### P3: Deep review subjective-aim.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1031,6 +1024,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Refine quantum-biology-and-neural-consciousness.md with 2025-2026 experimental evidence
+- **Type**: refine-draft
+- **Notes**: Research completed in research/quantum-biology-neural-experimental-2026-03-20.md covers recent experimental evidence for quantum effects in neural systems (2025-2026). Integrate new findings to strengthen the empirical basis. Directly supports Tenet 2 (Minimal Quantum Interaction).
+- **Output**: obsidian/topics/quantum-biology-and-neural-consciousness.md
+
+Task context:
+Research completed in research/quantum-biology-neural-experimental-2026-03-20.md covers recent experimental evidence for quantum effects in neural systems (2025-2026). Integrate new findings to strengthen the empirical basis. Directly supports Tenet 2 (Minimal Quantum Interaction).
 
 ### ✓ 2026-03-21: Refine parsimony-failure-consciousness.md with limits-of-parsimony research
 - **Type**: refine-draft
