@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 07:24 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
+- **Changes**: Added Noreika et al. (2018) implicit processing evidence to Memory Encoding section; added inline citations for cardiac arrest evidence (Xu et al. 2023, Parnia et al. 2023); added 3 new references
+- **Published**: yes
+
 ## 2026-03-21 07:09 UTC - refine-draft
 - **Status**: Success
 - **File**: [[apex/phenomenology-mechanism-bridge]]

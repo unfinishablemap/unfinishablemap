@@ -45,13 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-21
 - **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
 
-### P2: Refine anaesthesia-and-the-consciousness-interface.md with filter theory research
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research note consciousness-anesthesia-filter-theory-2026-03-20.md provides substantial new evidence on graded consciousness under anesthesia — disconnected consciousness, ketamine's preserved dynamics, and challenges to both naive physicalism and IIT. Integrate key findings into the existing article, particularly the filter/transmission theory implications and the graded spectrum evidence (Sanders et al. 2023, Sarasso et al. 2021).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-21
-
 ### P2: Refine terminal-lucidity.md with filter/transmission theory evidence
 - **Type**: refine-draft
 - **Status**: pending
@@ -1054,6 +1047,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Refine anaesthesia-and-the-consciousness-interface.md with filter theory research
+- **Type**: refine-draft
+- **Notes**: Research note consciousness-anesthesia-filter-theory-2026-03-20.md provides substantial new evidence on graded consciousness under anesthesia — disconnected consciousness, ketamine's preserved dynamics, and challenges to both naive physicalism and IIT. Integrate key findings into the existing article, particularly the filter/transmission theory implications and the graded spectrum evidence (Sanders et al. 2023, Sarasso et al. 2021).
+- **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
+
+Task context:
+Research note consciousness-anesthesia-filter-theory-2026-03-20.md provides substantial new evidence on graded consciousness under anesthesia — disconnected consciousness, ketamine's preserved dynamics, and challenges to both naive physicalism and IIT. Integrate key findings into the existing article, particularly the filter/transmission theory implications and the graded spectrum evidence (Sanders et al. 2023, Sarasso et al. 2021).
 
 ### ✓ 2026-03-21: Fix broken wikilink in phenomenology-mechanism-bridge.md
 - **Type**: refine-draft
