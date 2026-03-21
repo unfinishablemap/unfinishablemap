@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-21T18:40:00+00:00
+ai_modified: 2026-03-21T21:11:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on enactivism as challenge to interactionist dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/enactivism-challenge-interactionist-dualism-2026-03-21.md. Enactivism (Varela, Thompson, Rosch) challenges interactionist dualism by dissolving mind-body separation rather than explaining the interface. However, enactivism faces its own hard problem of consciousness and shares the Map's commitment to phenomenological irreducibility. Article should present the challenge fairly, identify shared ground, and articulate the dualist response — particularly that enactivism's dissolution strategy leaves the explanatory gap intact. Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-21
+
+### P2: Integrate clinical-neuroplasticity-evidence-for-bidirectional-causation.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Recently created (2026-03-21) article on clinical neuroplasticity evidence for bidirectional mental causation. Add cross-references from related articles such as placebo-effect-and-mental-causation, empirical-evidence-for-consciousness-selecting, mental-causation, and bidirectional-interaction concept page.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-21
+
+### P2: Integrate skill-delegation.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Recently created (2026-03-20) concept page on consciousness training procedural systems and retaining override capacity. Add cross-references from related articles such as phenomenology-of-agency-vs-passivity, choking-phenomenon-mental-causation, consciousness-and-skilled-performance, and attention-and-the-consciousness-interface.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-21
+
+### P2: Integrate epiphenomenalisms-gravity-well.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Recently created (2026-03-20) topics article on why epiphenomenalism exerts strong intellectual pull despite its problems. Add cross-references from epiphenomenalism.md, arguments-against-epiphenomenalism.md, the-epiphenomenalist-threat.md, and related mental causation articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-21
+
+### P2: Research experimental tests distinguishing consciousness-collapse from decoherence-only interpretations
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: Pessimistic review flagged unfalsifiability concerns in quantum mechanism articles (consciousness-selecting-neural-patterns, filter-theory, downward-causation). Research current and proposed experiments that could distinguish consciousness-mediated collapse from decoherence-only models: Wigner's friend variants (Brukner, Frauchiger-Renner), delayed-choice quantum eraser refinements, proposed tests of objective collapse models (CSL, Diósi-Penrose). Critical for addressing the falsifiability gap in the Map's Tenet 2 arguments. Target section: topics/.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-21
 
 ### P3: Explore feminist philosophy of consciousness
 - **Type**: expand-topic
