@@ -28,6 +28,7 @@ concepts:
 - '[[concepts/epiphenomenalism]]'
 - '[[consciousness-in-non-collapsed-quantum-states]]'
 - '[[quantum-completeness]]'
+- '[[von-neumann-wigner-interpretation]]'
 created: 2026-01-14
 date: &id001 2026-01-16
 description: 'Quantum mechanics'' central puzzle: why measurement yields definite
@@ -149,7 +150,7 @@ Particles always have definite positions, guided by the wave function through a 
 
 ### Consciousness-Based Interpretations
 
-Conscious observation precipitates collapse. Von Neumann's formalism permits placing collapse anywhere in the measurement chain, including at the observer's consciousness, as Wigner explored.
+Conscious observation precipitates collapse. Von Neumann's formalism permits placing collapse anywhere in the measurement chain, including at the observer's consciousness, as Wigner explored. See [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/) for the foundational account—von Neumann's movable cut, Wigner's consciousness thesis, and the lineage to Stapp's quantum Zeno framework.
 
 **Relation to site tenets:** Most aligned with [Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction). The Map prefers Stapp's quantum Zeno approach over von Neumann-Wigner consciousness-collapse, since Zeno uses orthodox quantum mechanics—consciousness *selects* within physics rather than intervening from outside it. The specific [coupling mode](/concepts/coupling-modes/) matters: basis control (Process 1) and timing control (Zeno effect) rather than direct probability modification.
 

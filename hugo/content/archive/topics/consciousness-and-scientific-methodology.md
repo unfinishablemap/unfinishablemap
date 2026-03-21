@@ -136,7 +136,7 @@ The broader implications for [doing science under dualist commitments](/concepts
 ## Further Reading
 
 - [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) — The specific methodological approaches to consciousness research
-- [introspection-rehabilitation](/topics/introspection-rehabilitation/) — The case for trained introspection as reliable first-person method
+- [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/) — The case for trained introspection as reliable first-person method
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Contemplative practice as a source of knowledge about consciousness
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — What counts as genuine phenomenological evidence
 - [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) — Husserl's evidence taxonomy and its consequences for first-person data

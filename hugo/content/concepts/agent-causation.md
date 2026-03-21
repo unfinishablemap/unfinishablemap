@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-21 00:57:00+00:00
+ai_modified: 2026-03-21 16:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ description: Agent causation holds that persons originate actions directly as su
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-22 16:47:00+00:00
+last_deep_review: 2026-03-21 16:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -88,7 +88,7 @@ E.J. Lowe developed the most systematic contemporary defence of substance causat
 
 **Powers and liabilities**: Substances have causal powers (capacities to produce effects) and liabilities (susceptibilities to be affected). A match has the power to ignite; wood has the liability to burn. Causation occurs when powers meet liabilities.
 
-**Free agents as unmoved movers**: Free agents are "unmoved movers, or initiators of new causal chains." When you make a choice, *you* initiate the causal chain—there's no prior event that determines your choice.
+**Free agents as unmoved movers**: Free agents are "unmoved movers, or initiators of new causal chains"—no prior event determines the choice.
 
 **Volitions as uncaused by events**: Volitions (acts of will) have no *event-cause*—no prior event determines them—but they do have an *agent-cause*: the agent produces them directly. "Uncaused" means uncaused by events, not uncaused simpliciter.
 
@@ -145,7 +145,7 @@ This also addresses the [pairing problem](/concepts/pairing-problem/): if consci
 
 Why can't we observe this interface in action? The [causal interface void](/voids/causal-interface/) explains: the mechanism is systematically invisible from both first-person introspection (which accesses intentions and actions but not their connection) and third-person observation (which sees correlates but not causation). This opacity is *predicted* by minimal quantum interaction—a minimal influence leaves minimal traces. The invisibility is not an embarrassment but a consequence of the interface being precisely small enough to avoid violating conservation laws.
 
-The [decoherence challenge](/concepts/decoherence/)—that warm neural tissue decoheres too fast (the [timing-gap-problem](/concepts/timing-gap-problem/))—assumes quantum effects must persist at computation timescales. The Map requires only that consciousness biases outcomes *at* decoherence, and quantum biology has revealed unexpected coherence in warm biological systems.
+The [decoherence challenge](/concepts/decoherence/)—that warm neural tissue decoheres too fast (the [timing-gap-problem](/concepts/timing-gap-problem/))—assumes quantum effects must persist at computation timescales. The Map requires only that consciousness biases outcomes *at* decoherence; quantum biology has demonstrated unexpected coherence in warm biological systems (photosynthetic complexes, avian magnetoreception).
 
 ## Agent Causation and Sourcehood
 
@@ -271,12 +271,3 @@ Against [epiphenomenalism](/concepts/epiphenomenalism/): substance causation com
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-15). Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/mental-causation/
-
-<!-- AI REFINEMENT LOG - 2026-03-20
-Changes made:
-- Added cross-link to phenomenology-of-agency-vs-passivity in Skill Delegation section (empirical grounding for agent causation)
-- Added phenomenology-of-agency-vs-passivity to related_articles frontmatter and Further Reading
-
-Based on optimistic-2026-03-20-midday.md cross-linking suggestions.
-This log should be removed after human review.
--->

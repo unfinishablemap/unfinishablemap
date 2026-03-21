@@ -57,7 +57,7 @@ The Map's framework separates these cleanly. Objective reduction solves prebioti
 
 ## The Problem Stated
 
-Wigner famously proposed that consciousness causes wavefunction collapse—measurement isn't complete until a mind observes the result. But Penrose identified the devastating implication: mutations are quantum events, so "they would exist only in linearly superposed form until they finally led to the evolution of a conscious being—whose very existence depends on all the right mutations having 'actually' taken place!"
+Wigner famously proposed that consciousness causes wavefunction collapse—the [von Neumann–Wigner interpretation](/concepts/von-neumann-wigner-interpretation/) holds that measurement isn't complete until a mind observes the result. But Penrose identified the devastating implication: mutations are quantum events, so "they would exist only in linearly superposed form until they finally led to the evolution of a conscious being—whose very existence depends on all the right mutations having 'actually' taken place!"
 
 The circularity is obvious. If consciousness is required for collapse, and collapse is required for the molecular events that produced consciousness, we have a bootstrapping problem. Either:
 - The universe remained in superposition for 13.8 billion years until humans looked

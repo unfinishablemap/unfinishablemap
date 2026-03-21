@@ -67,7 +67,7 @@ topics: []
 - [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/)
 - [the-subject-object-distinction-as-philosophical-discovery](/topics/the-subject-object-distinction-as-philosophical-discovery/)
 - [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/)
-- [introspection-rehabilitation](/topics/introspection-rehabilitation/)
+- [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/)
 - [contemplative-epistemology](/concepts/contemplative-epistemology/)
 - [absorption-void](/voids/absorption-void/)
 

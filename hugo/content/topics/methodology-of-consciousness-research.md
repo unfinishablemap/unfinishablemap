@@ -151,7 +151,7 @@ This does not warrant defeatism. It warrants recognising that consciousness may 
 
 ## Further Reading
 
-- [introspection-rehabilitation](/topics/introspection-rehabilitation/) — The case for restoring introspection as a serious method
+- [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/) — The case for restoring introspection as a serious method
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Cross-traditional convergence as philosophical methodology
 - [epistemology-of-introspection-and-calibration](/topics/epistemology-of-introspection-and-calibration/) — Competing models of introspective knowledge and the sui generis account
 - [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/) — How first-person reports gain evidential standing in science

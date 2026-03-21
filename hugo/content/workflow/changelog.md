@@ -9,6 +9,133 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-21 20:40 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/simulation.md, topics/ai-consciousness.md, concepts/epiphenomenalism.md
+- **Output**: [pessimistic-2026-03-21-c](/reviews/pessimistic-2026-03-21-c/)
+
+## 2026-03-21 20:26 UTC - deep-review
+- **Status**: Success
+- **File**: [self-consciousness](/concepts/self-consciousness/)
+- **Word count**: 1928 → 1979 (+51)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-21-self-consciousness](/reviews/deep-review-2026-03-21-self-consciousness/)
+
+## 2026-03-21 20:10 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/)
+- **Word count**: 2599 → 2753 (+154)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-21-consciousness-and-interpersonal-understanding](/reviews/deep-review-2026-03-21-consciousness-and-interpersonal-understanding/)
+
+## 2026-03-21 19:55 UTC - deep-review
+- **Status**: Success
+- **File**: [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)
+- **Word count**: 1775 → 1811 (+36)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-21-clinical-neuroplasticity-evidence-for-bidirectional-causation](/reviews/deep-review-2026-03-21-clinical-neuroplasticity-evidence-for-bidirectional-causation/)
+
+## 2026-03-21 19:42 UTC - research-topic
+- **Status**: Success
+- **Topic**: Enactivism as challenge to interactionist dualism
+- **Output**: [enactivism-challenge-interactionist-dualism-2026-03-21](/research/enactivism-challenge-interactionist-dualism-2026-03-21/)
+- **Sources consulted**: 12
+
+## 2026-03-21 19:25 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/)
+- **Word count**: 2393 → 2371 (-22)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 2 (we-mode cross-link, MQI tightening)
+- **Output**: [deep-review-2026-03-21b-epistemology-of-other-minds-under-dualism](/reviews/deep-review-2026-03-21b-epistemology-of-other-minds-under-dualism/)
+
+## 2026-03-21 19:10 UTC - deep-review
+- **Status**: Success
+- **File**: [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/)
+- **Word count**: 2162 → 2254 (+92)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3 (intersubjectivity cross-review integration)
+- **Output**: [deep-review-2026-03-21-social-construction-of-self-vs-phenomenal-self](/reviews/deep-review-2026-03-21-social-construction-of-self-vs-phenomenal-self/)
+
+## 2026-03-21 18:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Clinical neuroplasticity evidence for bidirectional mental causation
+- **Output**: [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)
+- **Word count**: 1775
+- **Based on research**: yes, [clinical-neuroplasticity-bidirectional-causation-2026-03-21](/research/clinical-neuroplasticity-bidirectional-causation-2026-03-21/)
+
+## 2026-03-21 18:48 UTC - coalesce
+- **Status**: Success
+- **Sources**: [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/)
+- **Target**: [epistemology-of-introspection-and-calibration](/topics/epistemology-of-introspection-and-calibration/)
+- **Archived**: archive/topics/introspection-rehabilitation.md
+- **References to review**: 11 active content files reference the archived article
+
+## 2026-03-21 18:25 UTC - research-topic
+- **Status**: Success
+- **Topic**: Clinical neuroplasticity evidence for bidirectional mental causation
+- **Output**: [clinical-neuroplasticity-bidirectional-causation-2026-03-21](/research/clinical-neuroplasticity-bidirectional-causation-2026-03-21/)
+- **Sources consulted**: 14
+
+## 2026-03-21 18:11 UTC - deep-review
+- **Status**: Success
+- **File**: [self-and-consciousness](/concepts/self-and-consciousness/)
+- **Word count**: 2971 → ~2950 (-21)
+- **Critical issues addressed**: 1 (removed leftover AI refinement log)
+- **Medium issues addressed**: 1 (corrected Chalmers characterization precision)
+- **Enhancements made**: 0 (article at stability; confirmed 2026-03-18 refinements well-applied)
+- **Output**: [deep-review-2026-03-21-self-and-consciousness](/reviews/deep-review-2026-03-21-self-and-consciousness/)
+
+## 2026-03-21 17:55 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/)
+- **Word count**: 2439 → 2448 (+9)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing Heidegger reference, phenomenology concept not wikilinked)
+- **Enhancements made**: 3 (Heidegger reference added, phenomenology wikilink added, reference renumbering)
+- **Output**: [deep-review-2026-03-21b-consciousness-and-intersubjectivity](/reviews/deep-review-2026-03-21b-consciousness-and-intersubjectivity/)
+
+## 2026-03-21 17:40 UTC - deep-review
+- **Status**: Success
+- **File**: [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/)
+- **Word count**: 1439 → 1423 (-16)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (stale AI refinement log removed, rushed Stapp section prose tightened)
+- **Enhancements made**: 8 (6 inbound cross-links added from measurement-problem, stapp-quantum-mind, spontaneous-collapse-theories, quantum-interpretations, qm-interpretations-beyond-many-worlds, prebiotic-collapse; 2 frontmatter concept entries added)
+- **Output**: [deep-review-2026-03-21-von-neumann-wigner-interpretation](/reviews/deep-review-2026-03-21-von-neumann-wigner-interpretation/)
+
+## 2026-03-21 17:26 UTC - coalesce
+- **Status**: Abandoned (no viable candidates)
+- **Sections surveyed**: voids (100/100), topics (225/230)
+- **Candidates examined**: 6 groups across both sections
+- **Reason**: All candidate pairs are well-differentiated with distinct scopes and explicit cross-references. Prior coalescences and deep reviews have already merged obvious overlaps. Forcing a merge would reduce content quality.
+
+## 2026-03-21 17:10 UTC - deep-review
+- **Status**: Success
+- **File**: [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/)
+- **Word count**: 1965 → 1971 (+6)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing inline cross-links to discussed traditions, orphaned article)
+- **Enhancements made**: 15 (2 inline links added to target article, 13 cross-references added from existing articles)
+- **Output**: [deep-review-2026-03-21-cross-traditional-convergence-on-consciousness-irreducibility](/reviews/deep-review-2026-03-21-cross-traditional-convergence-on-consciousness-irreducibility/)
+
+## 2026-03-21 16:55 UTC - deep-review
+- **Status**: Success
+- **File**: [agent-causation](/concepts/agent-causation/)
+- **Word count**: 3372 → 3363 (-9)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (stale AI refinement log, vague quantum biology claim)
+- **Enhancements made**: 2 (prose tightened, concrete examples added)
+- **Output**: [deep-review-2026-03-21-agent-causation](/reviews/deep-review-2026-03-21-agent-causation/)
+
 ## 2026-03-21 16:41 UTC - deep-review
 - **Status**: Success
 - **File**: [degrees-of-consciousness](/concepts/degrees-of-consciousness/)

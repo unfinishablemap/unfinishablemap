@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-21 18:11:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -27,7 +27,7 @@ description: The minimal self is not added to consciousness but is its very form
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-22 15:54:00+00:00
+last_deep_review: 2026-03-21 18:11:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -122,7 +122,7 @@ The relationship between self and consciousness bears directly on the [hard prob
 
 This suggests the self is not an additional phenomenon requiring a separate explanation. The minimal self *is* the form conscious experience takes. Explaining consciousness means explaining why there is something it is like to be this subject, and the self is implicit in the question.
 
-Property dualism, as Chalmers articulates it in *The Conscious Mind*, holds that qualia are ontologically independent of physical properties—irreducible features of reality that physical description cannot capture. The minimal self could be understood as the most fundamental such property: the property of having a first-person perspective. If qualia are irreducible, so is the experiential perspective from which they appear.
+Property dualism, as Chalmers articulates it in *The Conscious Mind*, holds that qualia are not logically entailed by physical properties—they are fundamental features of reality that physical description alone cannot capture. The minimal self could be understood as the most fundamental such property: the property of having a first-person perspective. If qualia are irreducible, so is the experiential perspective from which they appear.
 
 ## The Binding Connection
 
@@ -176,14 +176,3 @@ The filter theory interprets these findings coherently: the narrative self is co
 1. Sass, L.A. & Parnas, J. (2003). Schizophrenia, consciousness, and the self. *Schizophrenia Bulletin*, 29(3), 427-444.
 1. Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
-
-<!-- AI REFINEMENT LOG - 2026-03-18
-Changes made:
-- Replaced bare assertion that primitive numerical identity is "less costly" with three substantive arguments: (1) the reductionist's own explanatory burden for the appearance of diachronic identity, (2) practical rationality's dependence on numerical identity, (3) the dualist's non-physical subject as candidate bearer
-- Narrowed "Buddhist reductionism" label to "Abhidharma reductionism" and added Madhyamaka qualification: Nagarjuna's four-cornered negation rejects all three positions in the framework, not just substance persistence
-- Engaged the Madhyamaka challenge directly rather than assimilating it to position 2
-
-Prompted by pessimistic review Issues #3 (cost comparison asserted not argued) and Buddhist Philosopher critique (Madhyamaka misrepresented).
-
-This log should be removed after human review.
--->

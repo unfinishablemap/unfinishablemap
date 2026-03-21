@@ -194,7 +194,7 @@ The distinction between willed and exogenous attention in [contemplative-neurosc
 - [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) — Why both perspectives are necessary
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — The contemplative traditions providing this evidence
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal experience
-- [introspection-rehabilitation](/topics/introspection-rehabilitation/) — The case for rehabilitating introspective methods
+- [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/) — The case for rehabilitating introspective methods
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — When convergence constitutes genuine evidence
 - [galilean-exclusion](/concepts/galilean-exclusion/) — The methodological exclusion that made the explanatory gap structurally inevitable
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — When contemplative practice destabilises the interface: what pathology reveals

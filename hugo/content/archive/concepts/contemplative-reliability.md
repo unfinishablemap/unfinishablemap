@@ -130,7 +130,7 @@ This gradient matters for assessing any philosophical argument that appeals to c
 ## Further Reading
 
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — The epistemological framework treating contemplative practice as knowledge source
-- [introspection-rehabilitation](/topics/introspection-rehabilitation/) — The broader case for restoring introspection as a serious method
+- [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/) — The broader case for restoring introspection as a serious method
 - [introspection](/concepts/introspection/) — The reliability debate and the process/content distinction
 - [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/) — Contemplative practice as part of philosophy's toolkit
 - [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) — The broader debate on integrating first-person and third-person methods

@@ -32,6 +32,7 @@ related_articles:
 - '[[duhem-quine-underdetermination-consciousness]]'
 - '[[what-consciousness-tells-us-about-physics]]'
 - '[[consciousness-and-memory]]'
+- '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
 title: The Explanatory Gap
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -144,7 +145,7 @@ How do we know about the gap in the first place? Through [introspection](/concep
 
 This critique targets the wrong level. Studies like Nisbett and Wilson's concern process access—why we make decisions. The gap argument depends on content access—recognizing that experience has qualitative character at all. Even systematic errors about *why* we prefer one face don't undermine that we *have* visual experience. The gap argument requires only that something is like something to us—and this seems undeniable regardless of introspection's reliability about causes.
 
-The explanatory gap is one of several independent [arguments against materialism](/concepts/dualism/). What makes the cumulative case powerful is convergence: the gap argument, the [knowledge argument](/concepts/knowledge-argument/), the [zombie argument](/concepts/philosophical-zombies/), Kripke's modal argument, and Nagel's subjectivity argument all proceed through different routes to the same conclusion. When independent lines of reasoning converge, the probability that they're all mistaken decreases.
+The explanatory gap is one of several independent [arguments against materialism](/concepts/dualism/). What makes the cumulative case powerful is convergence: the gap argument, the [knowledge argument](/concepts/knowledge-argument/), the [zombie argument](/concepts/philosophical-zombies/), Kripke's modal argument, and Nagel's subjectivity argument all proceed through different routes to the same conclusion. When independent lines of reasoning converge, the probability that they're all mistaken decreases. The convergence extends across cultures: traditions from Sāṃkhya to Buddhism to Islamic philosophy independently identify the same [structural gap between third-person description and first-person acquaintance](/topics/cross-traditional-convergence-on-consciousness-irreducibility/), despite disagreeing about substance, self, and causation.
 
 ## Process Philosophy Perspective
 

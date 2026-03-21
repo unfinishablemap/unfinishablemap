@@ -21,6 +21,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[illusionism]]'
 - '[[quantum-completeness]]'
+- '[[von-neumann-wigner-interpretation]]'
 created: 2026-01-22
 date: &id001 2026-01-22
 description: 'Mental effort operates through the quantum Zeno effect: rapid attention
@@ -47,7 +48,7 @@ The model has remarkable properties. It explains why controlling attention feels
 
 ## The Core Mechanism
 
-Stapp builds on von Neumann's formulation of quantum mechanics, placing the observer-observed boundary within the brain—at neural processes where consciousness interfaces with quantum indeterminacies.
+Stapp builds on von Neumann's formulation of quantum mechanics, placing the observer-observed boundary within the brain—at neural processes where consciousness interfaces with quantum indeterminacies. His model is the most sophisticated successor to the [von Neumann–Wigner interpretation](/concepts/von-neumann-wigner-interpretation/), retaining von Neumann's mathematical framework while specifying a concrete mechanism.
 
 The quantum Zeno effect is well-established: when a quantum system is observed repeatedly at short intervals, its evolution is suppressed. Each observation collapses the superposition; rapid observations keep the system effectively stationary.
 

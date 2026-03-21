@@ -88,7 +88,7 @@ All six major attributions verified as accurate:
 - [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/)
 - [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)
 - [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/)
-- [introspection-rehabilitation](/topics/introspection-rehabilitation/)
+- [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/)
 
 ## Word Count
 

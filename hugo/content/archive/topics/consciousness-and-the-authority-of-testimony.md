@@ -52,7 +52,7 @@ Testimony about one's own conscious experience resists this pattern. If someone 
 
 This is not to say that first-person reports are beyond challenge. In anosognosia, split-brain confabulation, and certain psychiatric conditions, clinicians do weigh clinical assessment against self-report — and sometimes override it. But these cases involve disruptions to the very cognitive systems that generate accurate phenomenal reports. They show that the reporting mechanism can malfunction, not that a properly functioning third-person method can displace first-person access. The authority of phenomenal testimony is defeasible at the margins but resistant to wholesale displacement in a way that testimony about external states is not.
 
-This asymmetry is not absolute. People can be confused about the character of their experience, mislabelling emotions or mislocating sensations. Eric Schwitzgebel (2008) documents extensive evidence that naive introspection is unreliable in many domains, and the [rehabilitation of introspection](/topics/introspection-rehabilitation/) shows that first-person reports are fallible. But the *kind* of fallibility involved is different from external testimony. When someone misreports an external state of affairs, the error is between the report and the world. When someone mischaracterises their experience, the error is between the report and a phenomenal reality to which only they have access. No third party is better positioned to correct the error, because no third party has the relevant access.
+This asymmetry is not absolute. People can be confused about the character of their experience, mislabelling emotions or mislocating sensations. Eric Schwitzgebel (2008) documents extensive evidence that naive introspection is unreliable in many domains, and the [rehabilitation of introspection](/topics/epistemology-of-introspection-and-calibration/) shows that first-person reports are fallible. But the *kind* of fallibility involved is different from external testimony. When someone misreports an external state of affairs, the error is between the report and the world. When someone mischaracterises their experience, the error is between the report and a phenomenal reality to which only they have access. No third party is better positioned to correct the error, because no third party has the relevant access.
 
 ## Why Third-Person Displacement Fails
 
@@ -112,7 +112,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet is
 
 - [phenomenology-of-trust-and-testimony](/topics/consciousness-and-testimony/) — The felt experience of receiving testimony
 - [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-formal-systems/) — Logical compulsion and consciousness
-- [introspection-rehabilitation](/topics/introspection-rehabilitation/) — Restoring introspection as a serious method
+- [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/) — Restoring introspection as a serious method
 - [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — Phenomenal experience as evidence
 - [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) — Methodological tensions in consciousness science
 - [argument-from-reason](/topics/argument-from-reason/) — The broader self-defeat challenge to physicalism

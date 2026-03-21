@@ -62,7 +62,7 @@ None. No factual errors, attribution errors, dropped qualifiers, internal contra
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — linked in Gertler acquaintance discussion
 - [self-stultification](/concepts/self-stultification/) — linked in self-defeat argument
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — linked in new contemplative phenomenology paragraph
-- [introspection-rehabilitation](/topics/introspection-rehabilitation/) — linked in new contemplative paragraph and Further Reading
+- [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/) — linked in new contemplative paragraph and Further Reading
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — added to Further Reading
 
 ## Remaining Items

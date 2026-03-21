@@ -49,6 +49,7 @@ related_articles:
 - '[[indian-philosophy-of-mind]]'
 - '[[the-hard-problem-in-non-western-philosophy]]'
 - '[[cross-cultural-phenomenology-of-agency]]'
+- '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
 title: Eastern Philosophy and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -102,7 +103,7 @@ For the Map, Taoism contributes in three ways. First, *wu wei* addresses the [wi
 
 Despite different starting points, all three traditions converge on claims that support the Map's framework:
 
-**Consciousness is real and significant.** None is eliminativist. Buddhism denies the permanent self *owning* consciousness, not consciousness itself. That traditions investigating consciousness for millennia through systematic practice all conclude it is real supports the Dualism tenet's rejection of eliminative materialism. This convergence extends beyond the three traditions treated here: [African](/concepts/african-philosophy-of-consciousness/) and [Islamic](/concepts/islamic-sufi-philosophy-of-consciousness/) philosophical traditions independently reach similar conclusions, strengthening the [cross-cultural convergence](/concepts/cross-cultural-convergence-on-mental-causation/) on consciousness as irreducible.
+**Consciousness is real and significant.** None is eliminativist. Buddhism denies the permanent self *owning* consciousness, not consciousness itself. That traditions investigating consciousness for millennia through systematic practice all conclude it is real supports the Dualism tenet's rejection of eliminative materialism. This convergence extends beyond the three traditions treated here: [African](/concepts/african-philosophy-of-consciousness/) and [Islamic](/concepts/islamic-sufi-philosophy-of-consciousness/) philosophical traditions independently reach similar conclusions. The [cross-traditional convergence on irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) analyses this pattern in detail, showing that traditions disagreeing about substance, self, and causation all arrive at the same structural recognition—functioning as an attractor of sustained philosophical inquiry.
 
 **Contemplative methods access what theory cannot.** Cross-traditional convergence appears on the impermanence of mental contents, witnessing awareness distinct from what it observes, and cessation states. The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) maps three convergence zones (self-dissolution, contentless awareness, subject-object collapse) alongside three axes of genuine divergence (witness status, affective tone, cessation versus plenitude). That independent traditions converge on structural findings while diverging on interpretation suggests they're discovering something real—though Thompson (2020) cautions that apparent agreement may mask significant experiential differences.
 

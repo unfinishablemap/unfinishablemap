@@ -61,7 +61,7 @@ topics: []
 ### Cross-links Added
 - [episodic-memory](/concepts/episodic-memory/) (replacing archived [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/))
 - [narrative-coherence](/concepts/narrative-coherence/)
-- [introspection-rehabilitation](/topics/introspection-rehabilitation/)
+- [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/)
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)
 
 ## Remaining Items

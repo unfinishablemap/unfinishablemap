@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-21 14:19:00+00:00
+ai_modified: 2026-03-21 18:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,32 +38,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate cross-traditional-convergence-on-consciousness-irreducibility.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: Topics article created 2026-03-20 has only 3 inbound links. A convergence argument across philosophical traditions is central to the Map's methodology. Add cross-references from tradition-specific articles (indian-philosophy-of-mind, african-philosophy-of-consciousness, buddhist-perspectives, cross-cultural-phenomenology-of-agency) and the convergence methodology discussions.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-21
-
-### P2: Integrate von-neumann-wigner-interpretation.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: Concept page created 2026-03-20 has only 3 inbound links despite being the historical foundation for Tenet 2 (Minimal Quantum Interaction). Add cross-references from quantum consciousness mechanism articles, consciousness-collapse articles, and the measurement problem discussions.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-21
-
-### P2: Deep review consciousness-and-intersubjectivity.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: New article created 2026-03-21 with only 3 inbound links. Cross-reviews were completed but the article itself has not been deeply reviewed for quality. Core topics article on how one consciousness encounters another under dualism — empathy, theory of mind, the other minds problem. Verify accuracy of philosophical attributions (Levinas, Buber, Husserl), coherence of the dualist response, and tenet alignment. Also assess integration opportunities to increase inbound links.
-- **Source**: chain
-- **Generated**: 2026-03-21
-
-### P2: Research clinical neuroplasticity evidence for bidirectional mental causation
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: The Map's empirical case for Tenet 3 (Bidirectional Interaction) draws on scattered clinical evidence — placebo effects, contemplative neuroplasticity, CBT-driven cortical reorganisation (Schwartz OCD studies). No systematic research note surveys neuroplasticity evidence specifically: belief-dependent cortical reorganisation, meditation-driven white matter changes, psychotherapy vs. medication brain imaging comparisons. Would ground the clinical evidence synthesis apex candidate. Promoted from P3 due to tenet-critical importance.
-- **Source**: gap_analysis
+### P2: Cross-review placebo-effect-and-mental-causation.md and empirical-evidence-for-consciousness-selecting.md considering new neuroplasticity article
+- **Type**: cross-review
+- **Notes**: New article topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md (2026-03-21) synthesises clinical neuroplasticity evidence for bidirectional causation. Check placebo-effect-and-mental-causation.md and empirical-evidence-for-consciousness-selecting.md for cross-links, whether the neuroplasticity convergence argument strengthens their cases, and terminological consistency.
+- **Source**: chain (from clinical-neuroplasticity-evidence-for-bidirectional-causation.md)
 - **Generated**: 2026-03-21
 
 ### P3: Explore feminist philosophy of consciousness
@@ -1112,6 +1090,56 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Update references to coalesced introspection-rehabilitation article
+- **Type**: cross-review
+- **Notes**: Coalesce merged introspection-rehabilitation.md into epistemology-of-introspection-and-calibration.md. The following active content files reference the archived article and may need wikilinks updated: phenomenal-conservatism-and-introspective-evidence.md, epistemology-of-phenomenal-reports.md, galilean-exclusion.md, contemplative-practice-as-philosophical-evidence.md, consciousness-and-the-problem-of-measurement-standards.md, comparative-phenomenology-of-meditative-traditions.md, methodology-of-consciousness-research.md, phenomenology-of-memory-and-the-self.md, consciousness-and-testimony.md, contemplative-epistemology.md
+- **Output**: None -- Context: Update references to coalesced introspection-rehabilitation article
+
+### ✓ 2026-03-21: Cross-review consciousness-and-interpersonal-understanding.md considering new intersubjectivity article
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intersubjectivity.md (2026-03-21) develops the intersubjective dimension of consciousness. Check consciousness-and-interpersonal-understanding.md for cross-links, whether the intersubjectivity framework deepens its account of what bridges the gap between minds, and terminological consistency.
+- **Output**: obsidian/topics/consciousness-and-interpersonal-understanding.md -- Context: Cross-review consciousness-and-interpersonal-understanding.md considering new intersubjectivity article
+
+### ✓ 2026-03-21: Research enactivism as challenge to interactionist dualism
+- **Type**: research-topic
+- **Notes**: Enactivism (Varela, Thompson, Di Paolo) is a major framework taking consciousness seriously while challenging both physicalism and traditional dualism. No existing article or research note covers it. The Map's interactionist framework shares affinities (embodiment, lived experience) but differs fundamentally (dualism vs process monism). Research should cover: (1) Thompson's "Mind in Life" and the autopoietic theory of consciousness, (2) Di Paolo's sensorimotor enactivism, (3) where enactivism agrees with and diverges from the Map's tenets, (4) whether the interface model can incorporate enactivist insights without abandoning dualism. Target: research note.
+- **Output**: enactivism as challenge to interactionist dualism
+
+### ✓ 2026-03-21: Cross-review epistemology-of-other-minds-under-dualism.md considering intersubjectivity insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intersubjectivity.md (2026-03-21) addresses the other minds problem from an intersubjective angle. Check epistemology-of-other-minds-under-dualism.md for cross-links, whether intersubjective constitution provides new epistemic resources beyond analogical inference, and consistency of positions.
+- **Output**: obsidian/concepts/epistemology-of-other-minds-under-dualism.md -- Context: Cross-review epistemology-of-other-minds-under-dualism.md considering intersubjectivity insights
+
+### ✓ 2026-03-21: Cross-review social-construction-of-self-vs-phenomenal-self.md considering intersubjectivity insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intersubjectivity.md (2026-03-21) develops intersubjective constitution of selfhood. Check social-construction-of-self-vs-phenomenal-self.md for cross-links, reinforcing arguments on social vs phenomenal self, and whether the intersubjectivity framework strengthens or complicates its position.
+- **Output**: obsidian/topics/social-construction-of-self-vs-phenomenal-self.md -- Context: Cross-review social-construction-of-self-vs-phenomenal-self.md considering intersubjectivity insights
+
+### ✓ 2026-03-21: Write article on clinical neuroplasticity evidence for bidirectional mental causation
+- **Type**: expand-topic
+- **Notes**: Research completed in research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md. Schwartz-Stapp-Beauregard quantum Zeno framework, CBT vs pharmacological neuroimaging comparisons, meditation-driven structural remodelling, and placebo-stimulated neuroplasticity converge on bidirectional causation. Synthesise into site content supporting Tenet 3. Target section: topics/.
+- **Output**: clinical neuroplasticity evidence for bidirectional mental causation
+
+### ✓ 2026-03-21: Research clinical neuroplasticity evidence for bidirectional mental causation
+- **Type**: research-topic
+- **Notes**: The Map's empirical case for Tenet 3 (Bidirectional Interaction) draws on scattered clinical evidence — placebo effects, contemplative neuroplasticity, CBT-driven cortical reorganisation (Schwartz OCD studies). No systematic research note surveys neuroplasticity evidence specifically: belief-dependent cortical reorganisation, meditation-driven white matter changes, psychotherapy vs. medication brain imaging comparisons. Would ground the clinical evidence synthesis apex candidate. Promoted from P3 due to tenet-critical importance.
+- **Output**: clinical neuroplasticity evidence for bidirectional mental causation
+
+### ✓ 2026-03-21: Deep review consciousness-and-intersubjectivity.md
+- **Type**: deep-review
+- **Notes**: New article created 2026-03-21 with only 3 inbound links. Cross-reviews were completed but the article itself has not been deeply reviewed for quality. Core topics article on how one consciousness encounters another under dualism — empathy, theory of mind, the other minds problem. Verify accuracy of philosophical attributions (Levinas, Buber, Husserl), coherence of the dualist response, and tenet alignment. Also assess integration opportunities to increase inbound links.
+- **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
+
+### ✓ 2026-03-21: Integrate von-neumann-wigner-interpretation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept page created 2026-03-20 has only 3 inbound links despite being the historical foundation for Tenet 2 (Minimal Quantum Interaction). Add cross-references from quantum consciousness mechanism articles, consciousness-collapse articles, and the measurement problem discussions.
+- **Output**: obsidian/concepts/von-neumann-wigner-interpretation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-21: Integrate cross-traditional-convergence-on-consciousness-irreducibility.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article created 2026-03-20 has only 3 inbound links. A convergence argument across philosophical traditions is central to the Map's methodology. Add cross-references from tradition-specific articles (indian-philosophy-of-mind, african-philosophy-of-consciousness, buddhist-perspectives, cross-cultural-phenomenology-of-agency) and the convergence methodology discussions.
+- **Output**: obsidian/topics/cross-traditional-convergence-on-consciousness-irreducibility.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-21: Integrate degrees-of-consciousness.md into site navigation
 - **Type**: integrate-orphan

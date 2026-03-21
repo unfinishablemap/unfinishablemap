@@ -27,6 +27,7 @@ related_articles:
 - '[[samkhya-three-way-distinction]]'
 - '[[eastern-philosophy-consciousness]]'
 - '[[tenets]]'
+- '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
 title: Cross-Cultural Convergence on Mental Causation
 topics:
 - '[[indian-philosophy-of-mind]]'
@@ -47,6 +48,8 @@ Three major philosophical lineages developed robust accounts of mental causation
 **Western philosophy** developed its own independent case. Plato's arguments for the soul as self-moving mover, Aristotle's account of rational agency, the Cartesian tradition of substance dualism, and contemporary arguments from [agent-causation](/concepts/agent-causation/) all assert that mental states genuinely cause physical effects. The Western tradition's distinctive contribution is formalising the problem through the lens of [causal-closure](/concepts/causal-closure/)—articulating precisely what must be denied for mental causation to be possible. Kim's exclusion argument (2005) represents the strongest modern formulation of this challenge, making the Western tradition's convergence on mental causation all the more notable: philosophers who understand the exclusion problem most clearly still find reasons to reject epiphenomenalism.
 
 ## Why Convergence Matters Epistemically
+
+This convergence on mental causation operates alongside a parallel convergence: these same traditions also independently conclude that consciousness is [irreducible to physical description](/topics/cross-traditional-convergence-on-consciousness-irreducibility/). The two patterns reinforce each other—consciousness is both irreducible *and* causally efficacious across independent traditions.
 
 The [epistemology of convergence](/topics/epistemology-of-convergence-arguments/) explains why independent agreement carries evidential weight. If a single tradition endorsed mental causation, a sceptic could attribute this to cultural bias, conceptual confusion, or a particular metaphysical commitment that might not generalise. When multiple traditions converge, these explanations lose force.
 

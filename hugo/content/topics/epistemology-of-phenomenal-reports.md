@@ -62,7 +62,7 @@ This creates an uncomfortable circularity for eliminativists: the very neuroscie
 
 Admitting that phenomenal reports are indispensable does not mean accepting them uncritically. [introspection](/concepts/introspection/) is demonstrably fallible in certain domains. Nisbett and Wilson's classic 1977 studies showed that people confabulate explanations for their choices, reporting reasons that could not have caused their decisions. Change blindness experiments reveal that subjects fail to notice substantial alterations in their visual field. These findings ground legitimate scepticism.
 
-However, as the Map's treatment of [introspection rehabilitation](/topics/introspection-rehabilitation/) argues, these critiques conflate two distinct targets. The process/content distinction is crucial: introspection about *why* we chose something (causal process) is unreliable, but introspection about *what* we are currently experiencing (phenomenal content) operates differently. When a subject reports seeing red, they are not theorising about causal mechanisms—they are reporting the qualitative character of their present experience.
+However, as the Map's treatment of [introspection rehabilitation](/topics/epistemology-of-introspection-and-calibration/) argues, these critiques conflate two distinct targets. The process/content distinction is crucial: introspection about *why* we chose something (causal process) is unreliable, but introspection about *what* we are currently experiencing (phenomenal content) operates differently. When a subject reports seeing red, they are not theorising about causal mechanisms—they are reporting the qualitative character of their present experience.
 
 The [phenomenological tradition](/concepts/phenomenology/) formalises this insight into a disciplined method. Husserl's [epoché](/topics/phenomenological-method-and-evidence-standards/)—the systematic suspension of theoretical assumptions about experience—transforms naive introspection into trained observation. When contemplatives practise phenomenological attention, they learn to bracket interpretive frameworks and attend to phenomena as given. This is precisely the operation that separates reliable phenomenal content reports from unreliable causal-process speculation, and it explains why the training effects documented in the empirical literature follow a skill-acquisition pattern rather than appearing arbitrarily.
 
@@ -121,7 +121,7 @@ The Occam's Razor tenet is also relevant. Eliminativists about phenomenal report
 ## Further Reading
 
 - [introspection](/concepts/introspection/)
-- [introspection-rehabilitation](/topics/introspection-rehabilitation/)
+- [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/)
 - [heterophenomenology](/concepts/heterophenomenology/)
 - [neurophenomenology](/concepts/neurophenomenology/)
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)

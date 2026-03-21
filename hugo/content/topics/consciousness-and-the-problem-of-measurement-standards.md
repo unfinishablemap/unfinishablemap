@@ -114,7 +114,7 @@ As the Map explores in [methodology-of-consciousness-research](/topics/methodolo
 
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)
 - [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/)
-- [introspection-rehabilitation](/topics/introspection-rehabilitation/)
+- [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/)
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
 - [knowledge-argument](/concepts/knowledge-argument/)

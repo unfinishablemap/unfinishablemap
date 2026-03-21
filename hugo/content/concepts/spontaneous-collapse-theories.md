@@ -42,7 +42,7 @@ Spontaneous collapse theories (also called objective collapse or dynamical reduc
 
 ## The Prebiotic Collapse Problem
 
-The von Neumann-Wigner interpretation posits that consciousness causes [wave function collapse](/concepts/measurement-problem/). This creates two severe difficulties:
+The [von Neumann–Wigner interpretation](/concepts/von-neumann-wigner-interpretation/) posits that consciousness causes [wave function collapse](/concepts/measurement-problem/). This creates two severe difficulties:
 
 1. **Infinite regress**: If measurement requires conscious observation, what collapses the observer's own wave function? An infinite chain of observers?
 2. **Prebiotic collapse**: Quantum events occurred for billions of years before consciousness evolved. Did superpositions persist across the early universe? Did the first bacteria collapse cosmic wave functions? (See [measurement-problem](/concepts/measurement-problem/) for the broader context.)

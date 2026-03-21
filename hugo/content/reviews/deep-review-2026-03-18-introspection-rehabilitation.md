@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-18
-**Article**: [Rehabilitating Introspection](/topics/introspection-rehabilitation/)
+**Article**: [Rehabilitating Introspection](/topics/epistemology-of-introspection-and-calibration/)
 **Previous review**: [2026-02-15](/reviews/deep-review-2026-02-15-introspection-rehabilitation/)
 
 ## Pessimistic Analysis Summary

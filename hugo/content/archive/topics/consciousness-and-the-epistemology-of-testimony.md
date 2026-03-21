@@ -84,7 +84,7 @@ These testimonial networks create a collective epistemic resource. When a philos
 
 However, testimonial networks also introduce distinctive risks. Testimony about consciousness is vulnerable to a form of epistemic drift: as reports pass through chains of interpreters, the propositional content may remain stable while the phenomenal grounding erodes. A meditator describes a specific attentional state from direct experience. A commentator summarises the description. A philosopher cites the summary. A textbook paraphrases the philosopher. Each step in the chain preserves propositional structure while losing connection to the original phenomenal ground. The result is testimony about consciousness that is propositionally correct but phenomenally hollow — words that accurately describe a structure while conveying nothing of the experience that gave those words their meaning.
 
-This drift helps explain why consciousness discourse sometimes feels circular. The same testimonial descriptions recirculate — "there is something it is like," "the qualitative character of experience," "the felt quality of pain" — each carrying less phenomenal weight with each retransmission. The remedy, on the Map's account, is not better testimony but renewed first-person investigation. Each person who attends carefully to their own experience refreshes the phenomenal grounding that testimonial chains inevitably attenuate. This is one reason [introspective rehabilitation](/topics/introspection-rehabilitation/) matters: it restores the epistemic foundation on which testimonial knowledge of consciousness ultimately rests.
+This drift helps explain why consciousness discourse sometimes feels circular. The same testimonial descriptions recirculate — "there is something it is like," "the qualitative character of experience," "the felt quality of pain" — each carrying less phenomenal weight with each retransmission. The remedy, on the Map's account, is not better testimony but renewed first-person investigation. Each person who attends carefully to their own experience refreshes the phenomenal grounding that testimonial chains inevitably attenuate. This is one reason [introspective rehabilitation](/topics/epistemology-of-introspection-and-calibration/) matters: it restores the epistemic foundation on which testimonial knowledge of consciousness ultimately rests.
 
 ## The Asymmetry with External-Fact Testimony
 
@@ -116,7 +116,7 @@ The Map's [tenets](/tenets/) illuminate the epistemology of testimony about cons
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemic gap between minds
 - [intersubjective-void](/voids/intersubjective-void/) — The constitutive gap between consciousnesses
 - [knowledge-argument](/concepts/knowledge-argument/) — What testimony cannot convey about phenomenal experience
-- [introspection-rehabilitation](/topics/introspection-rehabilitation/) — Restoring introspective evidence
+- [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/) — Restoring introspective evidence
 - [argument-from-reason](/topics/argument-from-reason/) — Why rational discourse requires conscious causation
 
 ## References

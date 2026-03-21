@@ -54,7 +54,7 @@ All six pessimistic personas engaged. No new critical objections beyond those ad
 ### Cross-links Added (FROM other articles TO this one)
 
 **Frontmatter (related_articles) additions:**
-- [introspection-rehabilitation](/topics/introspection-rehabilitation/)
+- [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/)
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)
 - [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/)
 - [phenomenological-evidence](/concepts/phenomenological-evidence/)
@@ -64,7 +64,7 @@ All six pessimistic personas engaged. No new critical objections beyond those ad
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/)
 
 **Body text links added in:**
-- [introspection-rehabilitation](/topics/introspection-rehabilitation/) — "The Rehabilitation's Significance" section
+- [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/) — "The Rehabilitation's Significance" section
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — "Acquaintance and Error" section
 - [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) — "Introspection's Limits" section
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — "The Reliability Objection" section
@@ -72,7 +72,7 @@ All six pessimistic personas engaged. No new critical objections beyond those ad
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/) — "Authority of First-Person Reports" section
 
 **Further Reading entries added in:**
-- [introspection-rehabilitation](/topics/introspection-rehabilitation/)
+- [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/)
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)
 - [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/)
 - [phenomenological-evidence](/concepts/phenomenological-evidence/)

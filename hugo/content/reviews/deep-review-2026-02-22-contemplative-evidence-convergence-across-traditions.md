@@ -65,7 +65,7 @@ topics: []
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) (in Demir et al. caveat)
 - [neuroplasticity](/concepts/neuroplasticity/) (in tenet connection section and "What the Pattern Reveals")
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) (in new bootstrapping paragraph)
-- [introspection-rehabilitation](/topics/introspection-rehabilitation/) (in Further Reading)
+- [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/) (in Further Reading)
 
 ## Remaining Items
 

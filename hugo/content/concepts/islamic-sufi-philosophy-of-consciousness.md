@@ -27,6 +27,7 @@ related_articles:
 - '[[comparative-phenomenology-of-meditative-traditions]]'
 - '[[hard-problem-non-western-philosophy-2026-02-14]]'
 - '[[interaction-problem-non-western-philosophy-2026-02-17]]'
+- '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
 title: Islamic and Sufi Philosophy of Consciousness
 topics:
 - '[[the-hard-problem-in-non-western-philosophy]]'
@@ -34,7 +35,7 @@ topics:
 - '[[contemplative-practice-as-philosophical-evidence]]'
 ---
 
-The Islamic philosophical tradition developed one of the most sustained pre-modern investigations of consciousness, spanning six centuries from Avicenna's proof that self-awareness is independent of the body to Mulla Sadra's processual account of the soul's transformation from material to immaterial existence. The Unfinishable Map has engaged individual Islamic thinkers elsewhere—Avicenna's Flying Man in the [hard problem survey](/topics/the-hard-problem-in-non-western-philosophy/), Mulla Sadra's processual ontology in the [interaction problem survey](/topics/interaction-problem-across-traditions/)—but the tradition as a whole, and especially the Sufi contemplative dimension, deserves dedicated treatment.
+The Islamic philosophical tradition developed one of the most sustained pre-modern investigations of consciousness, spanning six centuries from Avicenna's proof that self-awareness is independent of the body to Mulla Sadra's processual account of the soul's transformation from material to immaterial existence. The Unfinishable Map has engaged individual Islamic thinkers elsewhere—Avicenna's Flying Man in the [hard problem survey](/topics/the-hard-problem-in-non-western-philosophy/), Mulla Sadra's processual ontology in the [interaction problem survey](/topics/interaction-problem-across-traditions/)—but the tradition as a whole, and especially the Sufi contemplative dimension, deserves dedicated treatment. Islamic philosophy's independent arrival at consciousness irreducibility through entirely different methods than Western analytic philosophy contributes to the broader [cross-traditional convergence pattern](/topics/cross-traditional-convergence-on-consciousness-irreducibility/).
 
 Where Western philosophy of mind separated theoretical argument from experiential investigation, the Islamic tradition kept them together: the same thinkers who produced rigorous metaphysical arguments also held that direct contemplative experience was epistemically indispensable.
 

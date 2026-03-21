@@ -59,7 +59,7 @@ Or consider the relationship between awareness and its contents. Is awareness al
 
 A practice counts as philosophical methodology when it satisfies three conditions: it is disciplined (following systematic procedures rather than casual impression), it is directed at philosophical questions (not merely therapeutic or devotional), and it produces findings that constrain theoretical options.
 
-Contemplative practice meets all three. (This argument assumes that trained introspection is at least partially reliable—a claim defended in the [rehabilitation of introspection](/topics/introspection-rehabilitation/) and supported by neurophenomenological cross-validation discussed in the theory-ladenness section.)
+Contemplative practice meets all three. (This argument assumes that trained introspection is at least partially reliable—a claim defended in the [rehabilitation of introspection](/topics/epistemology-of-introspection-and-calibration/) and supported by neurophenomenological cross-validation discussed in the theory-ladenness section.)
 
 **Disciplined procedure.** Contemplative traditions prescribe specific techniques with precise instructions, progressive stages, and criteria for competence. Shamatha training, for instance, involves sustained single-pointed attention with explicit markers of progress: stability, vividness, and the capacity to maintain focus without effort. As Dreyfus (2011) argues, even "mindfulness"—often presented as simple present-moment awareness—involves sophisticated cognitive dimensions that casual descriptions obscure. These are not vague instructions to "look within" but structured methodological protocols comparable in rigour to Husserl's epoché—and arguably more demanding, since they require sustained practice rather than momentary reflection.
 
@@ -142,7 +142,7 @@ Third, [neurophenomenological](/concepts/neurophenomenology/) cross-validation p
 - [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) — The methodological divide between first-person and third-person approaches
 - [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/) — How consciousness challenges the scientific method itself
 - [neurophenomenology](/concepts/neurophenomenology/) — Varela's mutual constraint framework integrating first-person and third-person methods
-- [introspection-rehabilitation](/topics/introspection-rehabilitation/) — The case for trained introspection as reliable method
+- [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/) — The case for trained introspection as reliable method
 - [phenomenology](/concepts/phenomenology/) — Husserl's phenomenological method and its relation to contemplative practice
 
 ## References

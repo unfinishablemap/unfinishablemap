@@ -77,6 +77,7 @@ related_articles:
 - '[[the-hard-problem-in-non-western-philosophy]]'
 - '[[the-convergence-argument-for-dualism]]'
 - '[[indian-philosophy-of-mind]]'
+- '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
 title: The Hard Problem of Consciousness
 topics: []
 ---
@@ -120,7 +121,7 @@ The [objectivity paradox](/concepts/objectivity-and-consciousness/) sharpens thi
 
 The [emergence-void](/voids/emergence-void/) suggests this gap may be the deepest instance of a more general cognitive limit. The [universal hard problem thesis](/topics/emergence-as-universal-hard-problem/) argues that every level transition—physics to chemistry, chemistry to biology, neurons to experience—harbours the same gap between arrangement and qualitative character. Reduction relocates these gaps rather than closing them; consciousness is where the gap becomes impossible to paper over.
 
-Strikingly, [non-Western traditions](/topics/the-hard-problem-in-non-western-philosophy/)—Sāṃkhya, Nyāya, Buddhist phenomenology, Islamic philosophy—independently recognized this gap centuries before Chalmers named it, suggesting it tracks a real feature of consciousness rather than a Western conceptual artifact.
+Strikingly, [non-Western traditions](/topics/the-hard-problem-in-non-western-philosophy/)—Sāṃkhya, Nyāya, Buddhist phenomenology, Islamic philosophy—independently recognized this gap centuries before Chalmers named it, suggesting it tracks a real feature of consciousness rather than a Western conceptual artifact. The [cross-traditional convergence on irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/)—where traditions that disagree about substance, self, and causation all converge on this structural limit—is itself a philosophical datum requiring explanation.
 
 ## Beyond Sensory Qualia
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-20 17:19:00+00:00
+ai_modified: 2026-03-21 17:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: The consciousness-causes-collapse interpretation of quantum mechani
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-20 02:11:00+00:00
+last_deep_review: 2026-03-21 17:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -87,7 +87,7 @@ Henry Stapp developed what is arguably the most sophisticated successor to the v
 
 Stapp's approach differs from von Neumann–Wigner in a crucial respect. Where Wigner proposed that consciousness collapses the wave function from *outside* physics, Stapp's consciousness operates *within* orthodox quantum mechanics. The "Heisenberg choice" (Process 1 in von Neumann's formalism)—selecting which question to pose to nature—is where consciousness acts. This is not an addition to physics but an identification of where consciousness fits within existing physics.
 
-The distinction matters for the Map's framework. Consciousness *selecting within* physics respects [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) more naturally than consciousness *intervening from outside* it. The [motor control article](/topics/motor-control-quantum-zeno/) develops the concrete neuroscience: Cisek's affordance competition model shows how multiple action plans compete in parallel within neural populations, providing the substrate for Zeno stabilisation—the historical lineage from von Neumann through Wigner to Stapp connects directly to how consciousness selects among competing motor programs. See [stapp-quantum-mind](/concepts/stapp-quantum-mind/) and [coupling-modes](/concepts/coupling-modes/) for detailed treatment of how basis and timing control differ from direct probability modification.
+The distinction matters for the Map's framework. Consciousness *selecting within* physics respects [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) more naturally than consciousness *intervening from outside* it. Cisek's affordance competition model shows how multiple action plans compete in parallel within neural populations, providing the substrate for Zeno stabilisation—see [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/) for how this lineage from von Neumann through Stapp connects to concrete motor neuroscience. See [stapp-quantum-mind](/concepts/stapp-quantum-mind/) and [coupling-modes](/concepts/coupling-modes/) for detailed treatment of how basis and timing control differ from direct probability modification.
 
 ## Relation to Site Perspective
 
@@ -123,12 +123,3 @@ The interpretation also connects to [No Many Worlds](/tenets/#no-many-worlds): M
 3. Frauchiger, D. & Renner, R. (2018). "Quantum theory cannot consistently describe the use of itself." *Nature Communications*, 9(1), 3711.
 4. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 5. Southgate, A. & Oquatre-six, C. (2026-01-14). The Measurement Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/measurement-problem/
-
-<!-- AI REFINEMENT LOG - 2026-03-20
-Changes made:
-- Added cross-link to motor-control-quantum-zeno in From von Neumann–Wigner to Stapp section (historical foundation for Zeno mechanism)
-- Added motor-control-quantum-zeno to related_articles frontmatter and Further Reading
-
-Based on optimistic-2026-03-20-midday.md cross-linking suggestions.
-This log should be removed after human review.
--->

@@ -111,7 +111,7 @@ This process is imperfect and everyone knows it. The felt inadequacy of testimon
 
 Testimonial chains amplify this loss. When knowledge passes through multiple testifiers — Alice tells Bob, who tells Carol — each link involves a conscious being reconstructing meaning from words and re-encoding it for the next recipient. The degradation is not merely information-theoretic noise. It reflects the repeated crossing and re-crossing of intersubjective voids, each transit losing something of the original phenomenal grounding. A meditator describes a specific attentional state from direct experience. A commentator summarises the description. A philosopher cites the summary. A textbook paraphrases the philosopher. Each step preserves propositional structure while losing connection to the original phenomenal ground. The result is testimony that is propositionally correct but phenomenally hollow.
 
-This drift helps explain why consciousness discourse sometimes feels circular. The same testimonial descriptions recirculate — "there is something it is like," "the qualitative character of experience" — each carrying less phenomenal weight with each retransmission. The remedy is not better testimony but renewed first-person investigation. Each person who attends carefully to their own experience refreshes the phenomenal grounding that testimonial chains inevitably attenuate. This is one reason [introspective rehabilitation](/topics/introspection-rehabilitation/) matters.
+This drift helps explain why consciousness discourse sometimes feels circular. The same testimonial descriptions recirculate — "there is something it is like," "the qualitative character of experience" — each carrying less phenomenal weight with each retransmission. The remedy is not better testimony but renewed first-person investigation. Each person who attends carefully to their own experience refreshes the phenomenal grounding that testimonial chains inevitably attenuate. This is one reason [introspective rehabilitation](/topics/epistemology-of-introspection-and-calibration/) matters.
 
 ## What Testimony Cannot Convey
 
@@ -163,7 +163,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet is
 - [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/) — The felt character of weighing evidence and revising belief
 - [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/) — Testimonial evidence in consciousness science
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Logical compulsion and consciousness
-- [introspection-rehabilitation](/topics/introspection-rehabilitation/) — Restoring introspection as a serious method
+- [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/) — Restoring introspection as a serious method
 - [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — Phenomenal experience as evidence
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — Methodological tensions in consciousness science
 - [argument-from-reason](/topics/argument-from-reason/) — The broader self-defeat challenge to physicalism

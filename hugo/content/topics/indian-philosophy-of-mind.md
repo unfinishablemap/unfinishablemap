@@ -32,6 +32,7 @@ related_articles:
 - '[[bidirectional-interaction]]'
 - '[[self-and-consciousness]]'
 - '[[mental-causation]]'
+- '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
 title: Indian Philosophy of Mind
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -45,7 +46,7 @@ topics:
 
 The Unfinishable Map's commitment to dualism—that consciousness is irreducible to physical processes—was articulated independently in India over two thousand years before Descartes. Three classical Indian schools developed sophisticated philosophies of mind that remain philosophically live: Samkhya, Nyaya, and Vedanta. Each takes consciousness as fundamental, but they disagree sharply on what follows. Samkhya places mind on the *matter* side of the divide. Nyaya treats consciousness as an adventitious quality of a non-physical self. Vedanta dissolves the divide entirely, making consciousness the sole reality. These internal disagreements illuminate problems the Map must face, and the depth of Indian engagement with consciousness offers resources Western philosophy of mind has largely neglected.
 
-For broader cross-cultural context, see [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/) and [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/).
+For broader cross-cultural context, see [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/) and [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/). The fact that these three schools converge on irreducibility despite their radical disagreements about what follows is a case study of the broader [cross-traditional convergence pattern](/topics/cross-traditional-convergence-on-consciousness-irreducibility/).
 
 ## Samkhya: Mind as Matter
 

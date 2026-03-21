@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-12
-ai_modified: 2026-03-20 08:22:00+00:00
+ai_modified: 2026-03-21 19:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: 'Two accounts of selfhood compete: social construction (self as cul
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-20 08:22:00+00:00
+last_deep_review: 2026-03-21 19:10:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -64,7 +64,7 @@ The phenomenal self has features that resist social construction:
 
 **Developmental priority.** Neonates show signs of phenomenal selfhood—preferential response to self-touch, proprioceptive awareness, basic affective states—weeks or months before the social interactions that constructionists identify as self-generating (Rochat 2003). Something must be there to undergo the socialisation process. The phenomenal self does not require the social to exist; the social self requires the phenomenal to get started.
 
-**Cross-cultural invariance.** While self-concepts vary enormously across cultures—individualist versus collectivist, narrative versus relational—the phenomenal self appears structurally identical. This is a philosophical inference from the nature of first-personal givenness rather than an empirical finding: the "for-me-ness" of experience does not differ between a Tokyo office worker and an Amazonian hunter-gatherer, even though their socially constructed identities share almost nothing. What is socially constructed varies; what is phenomenally given does not.
+**Cross-cultural invariance.** While self-concepts vary enormously across cultures—individualist versus collectivist, narrative versus relational—the phenomenal self appears structurally identical. This is a philosophical inference from the nature of first-personal givenness rather than an empirical finding: the "for-me-ness" of experience does not differ between a Tokyo office worker and an Amazonian hunter-gatherer, even though their socially constructed identities share almost nothing. The [discourse argument](/concepts/intersubjectivity/#the-discourse-argument) reinforces this: every human culture develops rich vocabulary for inner experience—sensation versus thought, voluntary versus involuntary attention—suggesting genuine [intersubjective](/concepts/intersubjectivity/) access to phenomenal features that precede and exceed any particular culture's construction of them. What is socially constructed varies; what is phenomenally given does not.
 
 **Persistence through social dissolution.** When social identity breaks down—through exile, solitary confinement, or radical cultural displacement—the phenomenal self continues. Conversely, contemplative practice that strips away social self-identification reveals [witness-awareness](/concepts/witness-consciousness/) rather than vacancy. The social self can dissolve while the phenomenal self persists. The reverse does not happen: when phenomenal consciousness ceases (dreamless sleep, anaesthesia), no social self remains.
 
@@ -82,7 +82,7 @@ Consider [autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciou
 
 The critical asymmetry: social construction of self depends on phenomenal selfhood, but not vice versa.
 
-Social construction requires subjects who can recognise each other, interpret each other's behaviour, and internalise each other's perspectives. [These capacities](/topics/consciousness-and-social-cognition/) require phenomenal consciousness. Mead's "taking the attitude of the other" presupposes something it is like to take that attitude—a phenomenal subject who experiences the perspective-shift. Butler's performative constitution presupposes an experiential arena in which performances occur and are registered.
+Social construction requires subjects who can recognise each other, interpret each other's behaviour, and internalise each other's perspectives. [These capacities](/topics/consciousness-and-social-cognition/) require phenomenal consciousness. Husserl's analysis of [intersubjectivity](/concepts/intersubjectivity/) confirms the point: we perceive others as subjects through "appresentation"—grasping their subjectivity directly in embodied encounter, not by inference from behaviour. This perception of others *as phenomenal subjects* is itself a phenomenal act. The [constitutive void between minds](/voids/other-minds-void/)—the gap that makes genuine intersubjectivity possible—requires separate phenomenal subjects on both sides. Mead's "taking the attitude of the other" presupposes something it is like to take that attitude—a phenomenal subject who experiences the perspective-shift. Butler's performative constitution presupposes an experiential arena in which performances occur and are registered.
 
 A community of [philosophical zombies](/concepts/philosophical-zombies/)—functionally identical to humans but lacking phenomenal consciousness—could not socially construct selves in any meaningful sense. They might produce the same behaviours, use the same language, follow the same social norms. But there would be no one for whom the social identity is an identity. The construction would lack a site. Performance without experience is mechanism without meaning.
 

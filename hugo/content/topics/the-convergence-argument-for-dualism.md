@@ -35,6 +35,7 @@ related_articles:
 - '[[epistemology-of-convergence-arguments]]'
 - '[[reductionism-and-consciousness]]'
 - '[[cross-cultural-convergence-on-mental-causation]]'
+- '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
 title: The Convergence Argument for Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -119,7 +120,7 @@ Three responses bear on this. First, cognitive closure doesn't favor physicalism
 
 ## Convergence Across Traditions
 
-The convergence extends beyond analytic philosophy. Multiple philosophical traditions — Hindu, Buddhist, Islamic, and Chinese — have recognized consciousness as presenting distinctive challenges to purely physical or materialist accounts, despite radically different metaphysical frameworks. The [subject-object distinction](/topics/the-subject-object-distinction-as-philosophical-discovery/) provides the clearest example: Descartes' *cogito*, Husserl's phenomenological reduction, Advaita Vedanta's *sakshi*, and Buddhist meditative deconstruction all encounter the same structural asymmetry between experiencer and experienced — through different methods, from different starting points, reaching different metaphysical conclusions, yet converging on the distinction's phenomenological reality.
+The convergence extends beyond analytic philosophy. Multiple philosophical traditions — Hindu, Buddhist, Islamic, and Chinese — have recognized consciousness as presenting distinctive challenges to purely physical or materialist accounts, despite radically different metaphysical frameworks. The [cross-traditional convergence on irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) analyses this pattern in detail, showing that traditions disagreeing about substance, self, and causation all arrive at the same structural recognition. The [subject-object distinction](/topics/the-subject-object-distinction-as-philosophical-discovery/) provides the clearest example: Descartes' *cogito*, Husserl's phenomenological reduction, Advaita Vedanta's *sakshi*, and Buddhist meditative deconstruction all encounter the same structural asymmetry between experiencer and experienced — through different methods, from different starting points, reaching different metaphysical conclusions, yet converging on the distinction's phenomenological reality.
 
 The degree of independence varies. Buddhism emerged from the broader Indian philosophical milieu that also produced Vedanta, so their shared recognition of consciousness as irreducible partly reflects a common cultural and intellectual inheritance. Indo-Greek exchange through Gandhara and Alexander's campaigns created possible channels of influence between Western and Indian thought. These connections weaken the independence claim for some pairings.
 

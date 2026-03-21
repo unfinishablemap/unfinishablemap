@@ -154,7 +154,7 @@ The honest acknowledgment is that the calibration strategies do not close the [m
 ## Further Reading
 
 - [measurement-void](/voids/measurement-void/) — Why strict calibration of introspection is structurally impossible
-- [introspection-rehabilitation](/topics/introspection-rehabilitation/) — The broader case for restoring introspection as a serious method
+- [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/) — The broader case for restoring introspection as a serious method
 - [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — Huemer's principle as epistemological grounding for introspective evidence
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Systematic contemplative practice as knowledge source
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Cross-traditional convergence as philosophical methodology

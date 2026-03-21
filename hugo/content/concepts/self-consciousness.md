@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-21 20:26:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: 'How can consciousness be aware of itself? Self-consciousness raise
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-23 14:22:00+00:00
+last_deep_review: 2026-03-21 20:26:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -33,6 +33,7 @@ related_articles:
 - '[[self-consciousness-philosophy-2026-01-15]]'
 - '[[reductionism-and-consciousness]]'
 - '[[ownership-void]]'
+- '[[epistemology-of-introspection-and-calibration]]'
 title: Self-Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -48,7 +49,7 @@ Dan Zahavi draws a distinction that reshapes the entire debate. **Pre-reflective
 
 This pre-reflective dimension is what makes the [minimal self](/concepts/self-and-consciousness/) possible. It is necessary (there are no genuinely anonymous experiences), non-observational (you do not observe yourself having the experience — you simply have it as yours), and non-thematic (you are not attending to yourself but to the apple). Pre-reflective self-consciousness is the background condition for all experience, not an additional mental act layered on top.
 
-**Reflective self-consciousness** is the deliberate, thematic awareness of one's own mental states. When you pause to notice that you are feeling anxious, or when you consider whether your perception is accurate, you are exercising reflective self-consciousness. This is what people ordinarily mean by "self-awareness" — the capacity for [introspection](/concepts/introspection/), for taking one's own experience as an object of attention.
+**Reflective self-consciousness** is the deliberate, thematic awareness of one's own mental states. When you pause to notice that you are feeling anxious, or when you consider whether your perception is accurate, you are exercising reflective self-consciousness. This is what people ordinarily mean by "self-awareness" — the capacity for [introspection](/concepts/introspection/), for taking one's own experience as an object of attention. The [epistemology of introspection](/topics/epistemology-of-introspection-and-calibration/) reveals that this reflective capacity, while fallible, is trainable and provides genuine epistemic access to phenomenal content — a finding that matters because self-consciousness is the precondition for any introspective method.
 
 The relationship between these two forms is asymmetric. Reflective self-consciousness presupposes pre-reflective self-consciousness: you can only deliberately attend to your experience if experience already comes tagged as yours. But pre-reflective self-consciousness does not require reflection — it operates in its absence. An infant has pre-reflective self-consciousness without the capacity for reflection. A great ape experiences the world from a first-person perspective without (probably) being able to reflect on the fact that it does so.
 
@@ -80,7 +81,7 @@ The [Jourdain Hypothesis](/concepts/jourdain-hypothesis/) illuminates this quest
 
 The [baseline cognition](/concepts/baseline-cognition/) research is revealing. Great apes demonstrate sophisticated cognition — tool use, social learning, procedural metacognition — yet appear to lack the recursive self-reflection that characterises human thought. They monitor their cognitive states (procedural [metacognition](/concepts/metacognition/)) without representing themselves *as beings who have cognitive states*. The gap between procedural metacognition and genuine self-consciousness — between *adjusting behaviour based on uncertainty* and *knowing that one is uncertain* — may be where reflective self-consciousness enters.
 
-This comparative picture suggests self-consciousness has degrees. Pre-reflective self-consciousness may be widespread among conscious creatures. Reflective self-consciousness — the capacity to take one's own awareness as an object of thought — may be far more restricted, perhaps to humans and a handful of other species. Full recursive self-consciousness — thinking about the fact that one is thinking about one's thinking — may be uniquely human, and as the [phenomenology of self-reference](/voids/phenomenology-of-self-awareness/) reveals, even human self-consciousness encounters structural limits when it attempts deep recursion.
+This comparative picture suggests self-consciousness has degrees. Pre-reflective self-consciousness may be widespread among conscious creatures. Reflective self-consciousness — the capacity to take one's own awareness as an object of thought — may be far more restricted, perhaps to humans and a handful of other species. Full recursive self-consciousness — thinking about the fact that one is thinking about one's thinking — may be uniquely human, and as the [phenomenology of self-awareness](/voids/phenomenology-of-self-awareness/) reveals, even human self-consciousness encounters structural limits when it attempts deep recursion.
 
 ## The Meta-Hard Problem
 
@@ -106,10 +107,11 @@ Self-consciousness connects to the Map's foundational commitments at multiple po
 
 - [self-and-consciousness](/concepts/self-and-consciousness/) — The minimal self as structural feature of consciousness
 - [introspection](/concepts/introspection/) — The practice of attending to one's own mental states
+- [epistemology-of-introspection-and-calibration](/topics/epistemology-of-introspection-and-calibration/) — What kind of knowledge introspection provides, and how its reliability varies by domain
 - [metacognition](/concepts/metacognition/) — Monitoring cognition vs knowing that one monitors
 - [self-reference-paradox](/voids/self-reference-paradox/) — Why the observer cannot catch itself observing
 - [The Ownership Void](/voids/ownership-void/) — Why the for-me-ness of experience hides its own ground
-- [phenomenology-of-self-awareness](/voids/phenomenology-of-self-awareness/) — What self-reference feels like from the inside
+- [phenomenology-of-self-awareness](/voids/phenomenology-of-self-awareness/) — What self-awareness feels like from the inside
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — Having mental states vs knowing you have them
 - [witness-consciousness](/concepts/witness-consciousness/) — Awareness stripped of reflexive identification
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — Three conceptions of selfhood

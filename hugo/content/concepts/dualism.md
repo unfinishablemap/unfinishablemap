@@ -62,6 +62,7 @@ related_articles:
 - '[[cognitive-science-of-dualism]]'
 - '[[topics/free-will]]'
 - '[[analytic-idealism-and-mind-centric-metaphysics]]'
+- '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
 title: Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -129,7 +130,7 @@ The [argument-from-reason](/topics/argument-from-reason/) targets physicalism fr
 
 ### The Convergence
 
-No single argument establishes dualism conclusively. But the explanatory gap, knowledge argument, conceivability, qualia, modal arguments, subjectivity, unity, intentionality, and the argument from reason exploit genuinely different features of consciousness through different logical structures, yet converge on the same conclusion. If a single shared intuition were doing all the work, they would not generate distinct objections requiring distinct responses.
+No single argument establishes dualism conclusively. But the explanatory gap, knowledge argument, conceivability, qualia, modal arguments, subjectivity, unity, intentionality, and the argument from reason exploit genuinely different features of consciousness through different logical structures, yet converge on the same conclusion. If a single shared intuition were doing all the work, they would not generate distinct objections requiring distinct responses. The convergence extends across philosophical traditions: [Sāṃkhya, Buddhism, Islamic philosophy, African traditions, and the Kyoto School](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) independently arrive at irreducibility despite disagreeing about substance, self, and causation—suggesting they are tracking a real feature of consciousness rather than a shared cultural assumption.
 
 ## Physicalist Responses and Their Limits
 

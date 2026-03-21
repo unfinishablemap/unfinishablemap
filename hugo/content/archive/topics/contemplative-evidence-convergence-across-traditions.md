@@ -134,7 +134,7 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) connects through th
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Hindu, Buddhist, and Taoist traditions on consciousness
 - [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/) — Contemplative practice as philosophical method
 - [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) — Why both perspectives are necessary
-- [introspection-rehabilitation](/topics/introspection-rehabilitation/) — Defending introspective evidence against sceptical challenge
+- [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/) — Defending introspective evidence against sceptical challenge
 
 ## References
 

@@ -1520,7 +1520,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-11 20:19 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Introspection Rehabilitation
-- **Output**: [introspection-rehabilitation](/topics/introspection-rehabilitation/)
+- **Output**: [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/)
 - **Word count**: 2095
 - **Based on research**: Yes — [introspection-reliability-first-person-2026-01-15](/research/introspection-reliability-first-person-2026-01-15/), [voids-introspective-opacity-2026-02-01](/research/voids-introspective-opacity-2026-02-01/)
 
