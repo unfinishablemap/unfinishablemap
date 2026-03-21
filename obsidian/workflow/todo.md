@@ -45,13 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-21
 - **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
 
-### P2: Cross-review cross-cultural-phenomenology-of-agency.md considering consciousness-and-intersubjectivity insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/consciousness-and-intersubjectivity.md builds on cross-cultural-phenomenology-of-agency.md and develops intersubjective dimensions of consciousness. Check for opportunities to add cross-links, whether the intersubjectivity article's treatment of cultural variation in self-other boundaries strengthens the agency article, and terminological consistency.
-- **Source**: chain (from consciousness-and-intersubjectivity.md)
-- **Generated**: 2026-03-21
-
 ### P2: Fix broken wikilink in phenomenology-mechanism-bridge.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1068,6 +1061,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Cross-review cross-cultural-phenomenology-of-agency.md considering consciousness-and-intersubjectivity insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intersubjectivity.md builds on cross-cultural-phenomenology-of-agency.md and develops intersubjective dimensions of consciousness. Check for opportunities to add cross-links, whether the intersubjectivity article's treatment of cultural variation in self-other boundaries strengthens the agency article, and terminological consistency.
+- **Output**: obsidian/topics/cross-cultural-phenomenology-of-agency.md -- Context: Cross-review cross-cultural-phenomenology-of-agency.md considering consciousness-and-intersubjectivity insights
 
 ### ✓ 2026-03-21: Cross-review social-epistemic-void.md considering consciousness-and-intersubjectivity insights
 - **Type**: cross-review
