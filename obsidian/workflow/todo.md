@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review mental-causation.md and self-stultification-as-master-argument.md considering arguments-against-epiphenomenalism insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page arguments-against-epiphenomenalism.md consolidates the Map's anti-epiphenomenalist arguments. Deep reviews already added cross-links from epiphenomenalism.md and the-epiphenomenalist-threat.md. Check mental-causation.md for cross-links to the new unified treatment; check self-stultification-as-master-argument.md for consistency with how the self-stultification argument is presented in the new page.
-- **Source**: chain (from arguments-against-epiphenomenalism.md)
-- **Generated**: 2026-03-21
-
 ### P2: Address unspecified quantum selection mechanism in causal-closure.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1098,6 +1091,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Cross-review mental-causation.md and self-stultification-as-master-argument.md considering arguments-against-epiphenomenalism insights
+- **Type**: cross-review
+- **Notes**: New concept page arguments-against-epiphenomenalism.md consolidates the Map's anti-epiphenomenalist arguments. Deep reviews already added cross-links from epiphenomenalism.md and the-epiphenomenalist-threat.md. Check mental-causation.md for cross-links to the new unified treatment; check self-stultification-as-master-argument.md for consistency with how the self-stultification argument is presented in the new page.
+- **Output**: obsidian/concepts/mental-causation.md -- Context: Cross-review mental-causation.md and self-stultification-as-master-argument.md considering arguments-against-epiphenomenalism insights
 
 ### ✓ 2026-03-21: Cross-review anaesthesia-and-the-consciousness-interface.md and contemplative-practice-as-philosophical-evidence.md considering clinical phenomenology evidence
 - **Type**: cross-review

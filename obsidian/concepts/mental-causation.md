@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-21T00:57:00+00:00
+ai_modified: 2026-03-21T13:19:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,12 +41,14 @@ related_articles:
   - "[[phenomenology-mechanism-bridge]]"
   - "[[arguments/epiphenomenalism-argument]]"
   - "[[metaproblem-of-consciousness-under-dualism]]"
+  - "[[self-stultification-as-master-argument]]"
+  - "[[arguments-against-epiphenomenalism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-03-19T13:25:00+00:00
+last_deep_review: 2026-03-21T13:19:00+00:00
 ---
 
 Mental causation — one of the central problems in [[philosophy-of-mind|philosophy of mind]] — is the thesis that mental states cause physical effects. When you decide to raise your arm, your decision causes the arm to rise. When pain motivates avoidance, the pain causes the avoidance. This seems obvious from experience but faces a formidable challenge: Jaegwon Kim's exclusion argument, which concludes that mental properties are either physical or causally inert. The Unfinishable Map's quantum framework provides a response: consciousness causes physical effects at points where physics is genuinely incomplete.
@@ -140,7 +142,7 @@ If consciousness causes physical effects, why only in *this* brain? The [[pairin
 
 ## The Self-Stultification Argument
 
-The strongest positive argument for mental causation is the self-stultification problem. The [[arguments/epiphenomenalism|formal argument against epiphenomenalism]]:
+The strongest positive argument for mental causation is [[self-stultification-as-master-argument|self-stultification]]. The [[arguments/epiphenomenalism|formal argument against epiphenomenalism]]:
 
 1. We discuss consciousness — we write about qualia, debate the hard problem, report our experiences
 2. If epiphenomenalism is true, these discussions are not caused by consciousness itself
@@ -166,7 +168,7 @@ Mental causation is central to the Map's framework.
 
 **Strong Emergence**: the Map's position can be understood as strong [[emergence|emergentism]] with a mechanism. The quantum framework specifies *where* and *how*: at indeterminacies, through biasing probabilities.
 
-**Against Epiphenomenalism**: The [[concepts/epiphenomenalism|self-stultification argument]] shows mental causation must occur. If consciousness causes nothing, we can't rationally believe anything about consciousness.
+**Against Epiphenomenalism**: The [[arguments-against-epiphenomenalism|cumulative case]] shows mental causation must occur. Self-stultification is the strongest blade: if consciousness causes nothing, we can't rationally believe anything about consciousness.
 
 **Agent Causation**: The [[agent-causation|agent-causal framework]] provides the metaphysics. The conscious subject exercises causal powers at quantum openings, addressing Kim's exclusion argument by rejecting its event-causal assumptions.
 
@@ -217,6 +219,8 @@ Mental causation, as defended here, is falsifiable:
 - [[attention-as-interface]] — How attention implements the consciousness-physics interface
 - [[mind-matter-interface]] — The unified two-layer architecture integrating filter theory and quantum selection
 - [[metaproblem-of-consciousness-under-dualism]] — The realizationism argument: self-stultification applied to problem intuitions
+- [[self-stultification-as-master-argument]] — Self-stultification generalised beyond epiphenomenalism
+- [[arguments-against-epiphenomenalism]] — Four independent argument types converging against causal inertness
 
 ## References
 
@@ -233,12 +237,3 @@ Mental causation, as defended here, is falsifiable:
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Woodward, J. (2003). *Making Things Happen*. Oxford University Press.
 1. Yablo, S. (1992). Mental Causation. *Philosophical Review*, 101: 245-280.
-
-<!-- AI REFINEMENT LOG - 2026-03-20
-Changes made:
-- Added cross-link to metaproblem-of-consciousness-under-dualism in self-stultification section (parallel realizationism argument)
-- Added metaproblem to related_articles frontmatter and Further Reading
-
-Based on optimistic-2026-03-20-midday.md cross-linking suggestions.
-This log should be removed after human review.
--->

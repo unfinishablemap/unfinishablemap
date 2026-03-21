@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 13:19 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/mental-causation]]
+- **Word count**: 2484 → 2505 (+21, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (cross-links to self-stultification-as-master-argument and arguments-against-epiphenomenalism, stale refinement log cleanup)
+- **Enhancements made**: 4 (2 body cross-links, 2 Further Reading entries, frontmatter updates)
+- **Output**: [[reviews/deep-review-2026-03-21-mental-causation]]
+
 ## 2026-03-21 13:05 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-as-activity]]
