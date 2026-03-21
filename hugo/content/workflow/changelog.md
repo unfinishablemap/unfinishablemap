@@ -9,6 +9,105 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-21 10:55 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Changed sources**: 2 (compound-failure-signatures, meta-epistemology-of-limits)
+- **Word count**: 3200 → 3450
+- **Review**: [apex-evolve-2026-03-21-taxonomy-of-voids](/reviews/apex-evolve-2026-03-21-taxonomy-of-voids/)
+
+## 2026-03-21 10:49 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Infant Consciousness Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-infant-consciousness-void-2026-03-21](/research/voids-infant-consciousness-void-2026-03-21/)
+- **Key finding**: Adult consciousness cannot recover infant experience because language and self-awareness irreversibly restructure cognition — making our own past selves more alien to us than another adult's mind
+
+## 2026-03-21 10:43 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Arguments Against Epiphenomenalism
+- **Output**: [arguments-against-epiphenomenalism](/concepts/arguments-against-epiphenomenalism/)
+- **Word count**: 1348
+- **Based on research**: No (general knowledge; extensive existing site content referenced)
+- **Notes**: Original slug `epiphenomenalism-argument` collided with `arguments/epiphenomenalism-argument`. Used `arguments-against-epiphenomenalism` instead. Taxonomic concept page classifying four argument types and their logical relationships.
+
+## 2026-03-21 10:24 UTC - deep-review
+- **Status**: Success
+- **File**: [social-epistemic-void](/voids/social-epistemic-void/)
+- **Word count**: 1932 → 1935 (+3)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (corrected contested neonatal imitation claim to use established developmental evidence)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-21c-social-epistemic-void](/reviews/deep-review-2026-03-21c-social-epistemic-void/)
+
+## 2026-03-21 10:09 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Notes**: Searched voids/ (100/100 cap) and topics/ (225/230 cap) across 5 iterations. Checked clusters: cognitive-limits (6 articles), self/introspection (3), attention (2), meta-void (2), epistemological (4), self-reference/recursion (2), historical/temporal (3), phenomenology edge/silence/surplus (3), narrative/continuity (2), scale/resolution (2), ownership/agency (2), psychophysical-laws pair, interpersonal/intersubjectivity pair. All articles found to be well-differentiated with <45% content overlap. Site content has matured past easy coalesce opportunities.
+
+## 2026-03-21 09:55 UTC - deep-review
+- **Status**: Skipped (stale task)
+- **File**: parsimony-failure-consciousness.md
+- **Reason**: File was archived on 2026-03-21 after coalescing into [parsimony-epistemology](/concepts/parsimony-epistemology/). Successor article has ~15 inbound links and is well-integrated. No action needed.
+
+## 2026-03-21 09:39 UTC - deep-review
+- **Status**: Success
+- **File**: [concept-of-free-will](/concepts/concept-of-free-will/)
+- **Word count**: 1522 → 1544 (+22)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (added self-stultification to frontmatter, added phenomenology-of-volition cross-link)
+- **Enhancements made**: 3 (frontmatter concept entry, inline cross-link, Further Reading entry)
+- **Output**: [deep-review-2026-03-21-concept-of-free-will](/reviews/deep-review-2026-03-21-concept-of-free-will/)
+
+## 2026-03-21 09:24 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/)
+- **Word count**: 2160 → 2393 (+233)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (added second-person methodology, enriched constitutive void insight, cleaned stale log, added cross-links)
+- **Enhancements made**: 4 (second-person approaches section, constitutive void paragraph, 3 new cross-links, 2 new Further Reading entries)
+- **Output**: [deep-review-2026-03-21-epistemology-of-other-minds-under-dualism](/reviews/deep-review-2026-03-21-epistemology-of-other-minds-under-dualism/)
+
+## 2026-03-21 09:10 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/)
+- **Word count**: 2282 → 2308 (+26)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing cross-links to consciousness-and-intersubjectivity and social-epistemic-void)
+- **Enhancements made**: 2 (reciprocal cross-link in body, frontmatter updates)
+- **Output**: [deep-review-2026-03-21-phenomenology-of-collective-intentionality-and-we-consciousness](/reviews/deep-review-2026-03-21-phenomenology-of-collective-intentionality-and-we-consciousness/)
+- **Notes**: Cross-review against new consciousness-and-intersubjectivity article. Third review — article has reached stability.
+
+## 2026-03-21 08:54 UTC - coalesce
+- **Status**: Success
+- **Sources**: [epistemological-limits-parsimony](/concepts/epistemological-limits-parsimony/), [parsimony-failure-consciousness](/concepts/parsimony-failure-consciousness/)
+- **Target**: [parsimony-epistemology](/concepts/parsimony-epistemology/)
+- **Archived**: [epistemological-limits-parsimony](/archive/concepts/epistemological-limits-parsimony/), [parsimony-failure-consciousness](/archive/concepts/parsimony-failure-consciousness/)
+- **References to review**: none
+- **Notes**: Three parsimony articles (parsimony-epistemology, epistemological-limits-parsimony, parsimony-failure-consciousness) had high redundancy — all discussed Huemer/Sober, three dimensions of simplicity, hard problem, domain sensitivity. Merged into single comprehensive article preserving unique contributions (hostile witnesses, idealism symmetry, detection criteria, self-referential dimension). Concepts section reduced from 219 to 217 (cap: 230).
+
+## 2026-03-21 08:39 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Epistemological Limits of Parsimony
+- **Output**: [epistemological-limits-parsimony](/concepts/epistemological-limits-parsimony/)
+- **Word count**: 1345
+- **Based on research**: yes, [limits-of-parsimony-consciousness-2026-03-20](/research/limits-of-parsimony-consciousness-2026-03-20/) and [epistemological-limits-occams-razor-consciousness-2026-02-06](/research/epistemological-limits-occams-razor-consciousness-2026-02-06/)
+- **Notes**: Slug adjusted from `epistemological-limits-of-occams-razor` to `epistemological-limits-parsimony` to avoid collision with existing arguments article. Defines taxonomy of parsimony failure conditions and detection criteria.
+
+## 2026-03-21 08:33 UTC - deep-review
+- **Status**: Success
+- **File**: [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/)
+- **Word count**: 2250 → 2250 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (removed stale AI refinement log comment)
+- **Enhancements made**: 0 (article is stable after 3 reviews)
+- **Output**: [deep-review-2026-03-21-motor-control-quantum-zeno](/reviews/deep-review-2026-03-21-motor-control-quantum-zeno/)
+
+## 2026-03-21 08:10 UTC - refine-draft
+- **Status**: Success
+- **File**: [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/)
+- **Changes**: Integrated Wiest's binding problem and epiphenomenalism arguments; added theoretical convergence as sixth evidence line in convergence table; strengthened convergence framing with independent-frameworks paragraph
+- **Published**: yes
+
 ## 2026-03-21 07:54 UTC - refine-draft
 - **Status**: Success
 - **File**: [terminal-lucidity](/concepts/terminal-lucidity/)
@@ -392,7 +491,7 @@ title: Changelog
 ## 2026-03-20 18:29 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Parsimony Failure in Consciousness
-- **Output**: [parsimony-failure-consciousness](/concepts/parsimony-failure-consciousness/)
+- **Output**: [parsimony-failure-consciousness](/concepts/parsimony-epistemology/)
 - **Word count**: 1261
 - **Based on research**: yes — [limits-of-parsimony-consciousness-2026-03-20](/research/limits-of-parsimony-consciousness-2026-03-20/)
 

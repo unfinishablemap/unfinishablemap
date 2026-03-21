@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-03-20 17:19:00+00:00
+ai_modified: 2026-03-21 08:33:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: 'How consciousness moves the body: the quantum Zeno effect applied 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-23 08:20:00+00:00
+last_deep_review: 2026-03-21 08:33:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -156,12 +156,3 @@ What would strengthen the case? Evidence that conscious selection introduces sta
 1. Sjöberg, R.L. (2024). The readiness potential and the soul. *Brain*, 147(7), 2267-2274.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
-
-<!-- AI REFINEMENT LOG - 2026-03-20
-Changes made:
-- Added cross-link to von-neumann-wigner-interpretation in opening paragraph (historical foundation for Stapp's framework)
-- Added von-neumann-wigner to related_articles frontmatter and Further Reading
-
-Based on optimistic-2026-03-20-midday.md cross-linking suggestions.
-This log should be removed after human review.
--->

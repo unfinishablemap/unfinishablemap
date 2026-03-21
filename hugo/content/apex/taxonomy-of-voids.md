@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-21 10:55:00+00:00
 ai_system: claude-opus-4-6
-apex_last_synthesis: 2026-03-10 14:08:00+00:00
+apex_last_synthesis: 2026-03-21 10:55:00+00:00
 apex_sources:
 - voids/voids
 - voids/three-kinds-of-void
@@ -103,6 +103,8 @@ Different voids do not merely mark different locations in cognitive space—they
 
 Self-referential limits produce **self-refutation**: the proposition that would express the limit undermines itself, as Wittgenstein demonstrated in the *Tractatus*. Conceptual limits produce **aporia**: equally plausible yet inconsistent premises, generating the specific phenomenology of being blocked rather than confused. Introspective limits produce **construction mistaken for observation**: the sense of direct access to processes that are actually inferred. Pattern-matching limits produce **systematic illusion**: consistent misperception that resists correction even after detection. Expressive limits produce **ineffability**: the sense of knowing something that cannot be articulated—a signature familiar from contemplative traditions and aesthetic experience alike. Meta-cognitive limits produce **epistemic vertigo**: destabilisation when cognition turns on itself. The [full topology](/voids/compound-failure-signatures/) catalogues further signatures—modular selective loss, wrong model selection—but these six capture the primary modes through which consciousness-related voids manifest.
 
+These signatures rarely appear in isolation. Where multiple limits overlap, their interaction produces qualitatively different phenomenology through three modes: **superadditive interference**, where overlapping cognitive limits compound beyond their sum; **mutual reinforcement**, where limits on examining limits create self-defending structures; and **emergent occlusion**, where interactions generate entirely new blind spots that no single void predicts. The self-reference paradox interacting with the language-thought boundary, for instance, creates a zone where consciousness can neither model *nor* articulate what it is—each limit alone permits partial access, but the compound shuts both routes simultaneously. The void catalogue is not a collection of independent items but an interacting system whose relationships are as informative as the individual entries.
+
 The specificity matters. If every void produced the same generic failure—vague mystery, undifferentiated confusion—the taxonomy would collapse into unfalsifiable mysticism. Different voids producing different signatures is evidence that the taxonomy tracks real structure. As [apophatic cartography](/voids/apophatic-cartography/) formalises: signature specificity is one of four criteria for treating cognitive failure as data about genuine boundaries.
 
 The other three criteria—structured persistence across time and frameworks, cross-observer convergence across independent traditions, and framework independence (the failure persists even when the motivating assumptions are abandoned)—strengthen the case that at least some voids mark genuine limits rather than current ignorance.
@@ -128,6 +130,8 @@ The [phenomenology of the edge](/voids/phenomenology-of-the-edge/) adds first-pe
 ## The Taxonomy's Own Limits
 
 Intellectual honesty demands acknowledging what the taxonomy cannot determine. The [question of whether the voids are genuine](/voids/whether-real/)—permanent features of cognitive architecture or merely current ignorance—may itself be formally undecidable from within any limited cognitive system. The tool examining its own limitations cannot establish whether those limitations are genuine or merely apparent.
+
+The [meta-epistemology of cognitive limits](/voids/meta-epistemology-of-limits/) sharpens this challenge. From inside, a genuinely impossible problem produces the same phenomenology as a merely very hard one—sustained effort, repeated failure, the sense of hitting a wall. Success proves a problem was solvable; failure, even across centuries and cultures, proves nothing conclusive. Worse, the assessment requires the very faculties under assessment—a recursive bind that no internal method can escape. A further axis of uncertainty opens: could some limits be *designed* constraints rather than natural features of finite minds? If we exist within a constructed reality, our cognitive boundaries might serve purposes beyond our detection. Whether natural or designed, the appropriate response remains the same—careful attention to what can be thought, honest acknowledgment of what cannot—but the distinction matters for what the voids ultimately reveal about reality.
 
 The [cartography problem](/voids/cartography-problem/) deepens this: a complete catalog of cognitive voids is provably impossible. Kit Fine's formal work on "ignorance of ignorance" shows that knowledge of second-order ignorance is impossible under plausible epistemic assumptions. The map of voids cannot know its own boundaries. This is not a defect but a structural theorem confirming the framework: the Map is unfinishable not merely because the territory is vast but because the mapping process is constitutively unable to achieve completeness about its own blind spots.
 

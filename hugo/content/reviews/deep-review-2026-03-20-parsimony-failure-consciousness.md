@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-20
-**Article**: [Parsimony Failure in Consciousness](/concepts/parsimony-failure-consciousness/)
+**Article**: [Parsimony Failure in Consciousness](/concepts/parsimony-epistemology/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

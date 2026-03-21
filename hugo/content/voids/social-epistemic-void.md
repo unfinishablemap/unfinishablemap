@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-21 06:24:00+00:00
+ai_modified: 2026-03-21 10:24:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Human+AI investigation of how testimony, hermeneutical injustice, a
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-21 06:24:00+00:00
+last_deep_review: 2026-03-21 10:24:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -66,7 +66,7 @@ Eric Schwitzgebel argues that "we are prone to gross error, even in favorable ci
 
 What Schwitzgebel documents at the individual level becomes more troubling at the social level. We calibrate our introspective reports against what others report. If your experience of colour, of inner speech, of emotional texture differs from the apparent norm, you face two options: report the difference (risking incomprehension or dismissal) or adjust your self-understanding to match the consensus.
 
-The adjustment happens below the threshold of deliberate choice, beginning before language. Research on [intersubjectivity](/topics/consciousness-and-intersubjectivity/) shows that neonatal imitation and joint attention establish self-other alignment from birth—social calibration of phenomenal attention operates before a child has any explicit concepts for experience. As language develops, children learn which phenomenal reports are met with understanding and which with puzzlement. Over decades, this social calibration shapes not merely how people *describe* their experience but how they *attend* to it—which features they foreground, which they ignore, which they reinterpret to fit available categories.
+The adjustment happens below the threshold of deliberate choice, beginning before language. Research on [intersubjectivity](/topics/consciousness-and-intersubjectivity/) shows that joint attention, social referencing, and protoconversational behaviour establish self-other alignment from early infancy—social calibration of phenomenal attention operates before a child has any explicit concepts for experience. As language develops, children learn which phenomenal reports are met with understanding and which with puzzlement. Over decades, this social calibration shapes not merely how people *describe* their experience but how they *attend* to it—which features they foreground, which they ignore, which they reinterpret to fit available categories.
 
 This mechanism explains a puzzle: why do people seem to agree so readily about phenomenal experience when the [intersubjective-void](/voids/intersubjective-void/) suggests such agreement should be nearly impossible to verify? The agreement may be partly an artifact of social calibration—we have trained each other to report experiences using shared categories, and this training masks whatever underlying phenomenal diversity exists.
 

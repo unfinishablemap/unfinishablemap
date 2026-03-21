@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-03-18 04:44:00+00:00
+ai_modified: 2026-03-21 09:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,13 +19,14 @@ description: What it is like to think as 'we' rather than 'I'—the distinctive 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-16 05:18:00+00:00
+last_deep_review: 2026-03-21 09:10:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[intersubjective-void]]'
 - '[[other-minds-void]]'
 - '[[social-construction-of-self-vs-phenomenal-self]]'
+- '[[social-epistemic-void]]'
 - '[[consciousness-and-skilled-performance]]'
 - '[[consciousness-and-normative-force]]'
 - '[[phenomenology-of-musical-understanding]]'
@@ -39,6 +40,7 @@ topics:
 - '[[consciousness-and-collective-phenomena]]'
 - '[[topics/consciousness-and-social-cognition]]'
 - '[[consciousness-and-interpersonal-understanding]]'
+- '[[consciousness-and-intersubjectivity]]'
 - '[[phenomenology-of-trust]]'
 ---
 
@@ -94,7 +96,7 @@ If consciousness interfaces with the physical world through quantum indeterminac
 
 The Map's response is that we-consciousness does not require a shared physical substrate. The "we" in we-mode experience is an intentional structure within individual consciousness, not a bridge between consciousnesses. When you experience a joint activity as "ours," this is your consciousness representing the activity under a collective mode — just as your consciousness can represent objects under different perceptual modes (seeing versus hearing the same event). The collective mode of representation is phenomenally distinctive but physically implemented in individual brains.
 
-This account preserves the Map's commitment to individual neural substrates while explaining why we-mode experience feels genuinely different from I-mode experience. The difference is in the intentional structure — what the experience is *about* and *how* it is about it — not in the physical substrate that supports it.
+This account preserves the Map's commitment to individual neural substrates while explaining why we-mode experience feels genuinely different from I-mode experience. The difference is in the intentional structure — what the experience is *about* and *how* it is about it — not in the physical substrate that supports it. As the Map's treatment of [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) argues more broadly, consciousness is ontologically individual but phenomenologically enriched through intersubjective encounter — we-mode experience is a striking instance of this enrichment.
 
 This also connects to the [problem-of-other-minds](/concepts/problem-of-other-minds/): if each participant's "we" is individually constructed, the question of whether your we-mode experience matches mine becomes a variant of the classic epistemic gap.
 
@@ -116,6 +118,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet deepens the significance of 
 - [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — How individual consciousness enables human social cognition
 - [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/) — The phenomenology of understanding another person
 - [phenomenology-of-trust](/topics/phenomenology-of-trust/) — How trust operates across the intersubjective void
+- [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) — Whether consciousness is constitutively intersubjective or ontologically individual
 - [intersubjective-void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared
 - [intersubjectivity](/concepts/intersubjectivity/) — The shared space between phenomenal subjects
 - [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/) — Why social construction requires phenomenal subjects

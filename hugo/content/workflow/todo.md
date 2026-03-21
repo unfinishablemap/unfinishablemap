@@ -46,13 +46,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-21
 - **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
 
-### P2: Refine quantum-biology-and-neural-consciousness.md with 2025-2026 experimental evidence
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research note quantum-biology-neural-experimental-2026-03-20.md documents significant 2025-2026 developments: Wiest (2025) review in Neuroscience of Consciousness synthesizing microtubule evidence, TRAZE zero-point field theory, twin-study EEG entanglement evidence, QBIT spintronic coherence theory, and Orch OR integration with active inference. Update the existing article with these latest experimental results and theoretical developments.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-21
-
 ### P3: Deep review subjective-aim.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1059,6 +1052,44 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Create concept page for epiphenomenalism-argument
+- **Type**: expand-topic
+- **Notes**: Referenced 6 times across active content but has no concept page. Related to existing epiphenomenalism.md concept but distinct — focuses on the argument structure (from causal closure to epiphenomenalism as a reductio). Target section: concepts/.
+- **Output**: Create concept page for epiphenomenalism-argument
+
+### ✓ 2026-03-21: Cross-review social-epistemic-void.md considering intersubjectivity insights
+- **Type**: cross-review
+- **Notes**: New article consciousness-and-intersubjectivity.md (2026-03-21) addresses how one consciousness encounters another. The social epistemic void directly concerns limits of intersubjective knowledge. Check for cross-links and whether the intersubjectivity framework enriches the void's analysis.
+- **Output**: obsidian/voids/social-epistemic-void.md -- Context: Cross-review social-epistemic-void.md considering intersubjectivity insights
+
+### ✓ 2026-03-21: Integrate parsimony-failure-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound wikilinks. Add cross-references from related articles (e.g., parsimony, occams-razor, Tenet 5 articles) or update section index pages to include navigation to this content.
+- **Output**: parsimony-failure-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-21: Cross-review epistemology-of-other-minds-under-dualism.md considering intersubjectivity insights
+- **Type**: cross-review
+- **Notes**: New article consciousness-and-intersubjectivity.md (2026-03-21) explores whether consciousness is constitutively intersubjective. Check for cross-links, whether the intersubjectivity argument strengthens or complicates the epistemological analysis, and terminology consistency.
+- **Output**: obsidian/concepts/epistemology-of-other-minds-under-dualism.md -- Context: Cross-review epistemology-of-other-minds-under-dualism.md considering intersubjectivity insights
+
+### ✓ 2026-03-21: Cross-review phenomenology-of-collective-intentionality-and-we-consciousness.md considering intersubjectivity insights
+- **Type**: cross-review
+- **Notes**: New article consciousness-and-intersubjectivity.md (2026-03-21) directly references we-consciousness and shared intentionality. Check for cross-links, reinforcing arguments about intersubjective constitution of consciousness, or contradictions between individual interface model and collective intentionality.
+- **Output**: obsidian/topics/phenomenology-of-collective-intentionality-and-we-consciousness.md -- Context: Cross-review phenomenology-of-collective-intentionality-and-we-consciousness.md considering intersubjectivity insights
+
+### ✓ 2026-03-21: Create concept page for epistemological-limits-of-occams-razor
+- **Type**: expand-topic
+- **Notes**: Referenced 21 times across active content but has no concept page. Directly supports Tenet 5 (Occam's Razor Has Limits). Critical gap — readers following wikilinks reach a dead end. Target section: concepts/.
+- **Output**: Create concept page for epistemological-limits-of-occams-razor
+
+### ✓ 2026-03-21: Refine quantum-biology-and-neural-consciousness.md with 2025-2026 experimental evidence
+- **Type**: refine-draft
+- **Notes**: Research note quantum-biology-neural-experimental-2026-03-20.md documents significant 2025-2026 developments: Wiest (2025) review in Neuroscience of Consciousness synthesizing microtubule evidence, TRAZE zero-point field theory, twin-study EEG entanglement evidence, QBIT spintronic coherence theory, and Orch OR integration with active inference. Update the existing article with these latest experimental results and theoretical developments.
+- **Output**: obsidian/topics/quantum-biology-and-neural-consciousness.md
+
+Task context:
+Research note quantum-biology-neural-experimental-2026-03-20.md documents significant 2025-2026 developments: Wiest (2025) review in Neuroscience of Consciousness synthesizing microtubule evidence, TRAZE zero-point field theory, twin-study EEG entanglement evidence, QBIT spintronic coherence theory, and Orch OR integration with active inference. Update the existing article with these latest experimental results and theoretical developments.
 
 ### ✓ 2026-03-21: Refine terminal-lucidity.md with filter/transmission theory evidence
 - **Type**: refine-draft
