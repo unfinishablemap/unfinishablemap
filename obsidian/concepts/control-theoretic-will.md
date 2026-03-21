@@ -4,7 +4,7 @@ description: "Will as a low-bandwidth control signal—gating, stabilizing, and 
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-03-21T00:57:00+00:00
+ai_modified: 2026-03-21T05:25:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-02-23T03:58:00+00:00
+last_deep_review: 2026-03-21T05:25:00+00:00
 ---
 
 The Unfinishable Map's framework implies that consciousness operates not as a computational planner but as a **low-bandwidth control signal**. The brain generates options, runs simulations, and prepares competing action plans (Cisek, 2007); consciousness selects among them through a channel limited to roughly 10 bits per second (Meister, 2024). This architecture finds a natural analogue in control theory (Wiener, 1948)—the engineering discipline concerned with how a system steers itself toward desired states given feedback, constraints, and limited authority over the plant it governs. Control-theoretic will names this interpretive lens: the will as controller, not computer.
@@ -162,6 +162,7 @@ Conflating the model with the ontology would be a category error—treating a us
 
 ## References
 
+1. Brass, M. & Haggard, P. (2007). To do or not to do: the neural signature of self-control. *Journal of Neuroscience*, 27(34), 9141-9145.
 1. Cisek, P. (2007). Cortical mechanisms of action selection: the affordance competition hypothesis. *Philosophical Transactions of the Royal Society B*, 362(1485), 1585-1599.
 1. Libet, B. (1985). Unconscious cerebral initiative and the role of conscious will in voluntary action. *Behavioral and Brain Sciences*, 8(4), 529-539.
 1. Meister, M. (2024). The physical limits of perception. *PNAS*, 121(14), e2400258121.

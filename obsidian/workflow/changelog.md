@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 05:25 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/control-theoretic-will]]
+- **Word count**: 2339 → 2353 (+14)
+- **Critical issues addressed**: 1 (missing Brass & Haggard 2007 reference entry)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-03-21-control-theoretic-will]]
+
 ## 2026-03-21 05:09 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/the-hard-problem-in-non-western-philosophy]]
