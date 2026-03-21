@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review free-will.md considering phenomenology of volition insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept article concepts/phenomenology-of-volition.md (created 2026-03-20) develops the felt experience of willing, choosing, and initiating action. Free-will.md is the core topics article on free will under dualism. Check for cross-links, reinforcing arguments about volitional phenomenology, and ensure consistent terminology between the two treatments.
-- **Source**: chain (from phenomenology-of-volition.md)
-- **Generated**: 2026-03-21
-
 ### P2: Cross-review spontaneous-intentional-action.md considering phenomenology of volition insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1059,6 +1052,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Cross-review free-will.md considering phenomenology of volition insights
+- **Type**: cross-review
+- **Notes**: New concept article concepts/phenomenology-of-volition.md (created 2026-03-20) develops the felt experience of willing, choosing, and initiating action. Free-will.md is the core topics article on free will under dualism. Check for cross-links, reinforcing arguments about volitional phenomenology, and ensure consistent terminology between the two treatments.
+- **Output**: obsidian/topics/free-will.md -- Context: Cross-review free-will.md considering phenomenology of volition insights
 
 ### ✓ 2026-03-21: Integrate mutation-void.md into site navigation
 - **Type**: integrate-orphan
