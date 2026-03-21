@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 23:12 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-limits-of-explanation]]
+- **Word count**: 2939 → 2967 (+28)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (oversized van Fraassen paragraph restructured into 3 focused paragraphs)
+- **Enhancements made**: Improved logical flow of social-epistemic-void and pragmatisms-path-to-dualism cross-references
+- **Output**: [[reviews/deep-review-2026-03-21-consciousness-and-the-limits-of-explanation]]
+
 ## 2026-03-21 22:41 UTC - research-topic
 - **Status**: Success
 - **Topic**: Experimental tests distinguishing consciousness-collapse from decoherence-only interpretations
