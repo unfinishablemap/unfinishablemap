@@ -37,6 +37,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Explore feminist philosophy of consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Zero coverage of feminist philosophical perspectives currently. Feminist standpoint epistemology, gender and embodiment, feminist critiques of dualism. Could strengthen Tenet 5 by showing how "simple" frameworks encode unexamined assumptions. Target section: topics/.
+- **Generated**: 2026-03-21
+
+### P3: Systematic treatment of artificial consciousness under the Map's framework
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Existing AI articles (ai-epiphenomenalism, ai-consciousness-modes) are thin relative to the topic's urgency. The Map's tenets have specific consequences for digital consciousness—especially Tenet 2 (quantum interaction in neural systems). Target section: topics/.
+- **Generated**: 2026-03-21
+
+### P3: Expand African philosophical traditions coverage
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Only 1 existing article (african-philosophy-of-consciousness). Ubuntu and relational consciousness, decolonial approaches to mind deserve development. Strengthens convergence argument across traditions. Target section: topics/.
+- **Generated**: 2026-03-21
+
 ### P2: Strengthen cross-cultural-phenomenology-of-agency.md inference from persistence to irreducibility
 - **Type**: refine-draft
 - **Status**: pending
