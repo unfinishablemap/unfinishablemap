@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate mutation-void.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Voids article on the unknowable transformations consciousness undergoes. Add cross-references from observation-void.md, taxonomy-of-voids.md, and related void articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-20
-
 ### P3: Deep review subjective-aim.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1031,6 +1024,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Integrate mutation-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Voids article on the unknowable transformations consciousness undergoes. Add cross-references from observation-void.md, taxonomy-of-voids.md, and related void articles.
+- **Output**: obsidian/voids/mutation-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-21: Integrate social-epistemic-void.md into site navigation
 - **Type**: integrate-orphan

@@ -4,7 +4,7 @@ description: "Human+AI exploration of what consciousness encounters at its cogni
 created: 2026-01-19
 modified: 2026-02-03
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-21T01:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -149,6 +149,7 @@ The [[apophatic-approaches|apophatic tradition]] offers methods for engaging wit
 - [[voids|Voids in the Map]] — The broader context of cognitive limits and what they reveal
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for engaging with what exceeds articulation
 - [[apophatic-cartography|Apophatic Cartography as Epistemic Method]] — Formalising edge-phenomenology as evidential data for boundary-mapping
+- [[mutation-void|The Mutation Void]] — Thoughts that transform upon inspection rather than slipping away
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — The phenomenology of slippage and dissolving insights
 - [[habituation-void|The Habituation Void]] — Where the edge is not approached but hidden by familiarity
 - [[the-silence-void|The Silence Void]] — The ultimate edge: where cognitive cessation opens territory mapping cannot reach

@@ -4,7 +4,7 @@ description: "Why we cannot observe our own cognitive processes—we access ment
 created: 2026-02-02
 modified: 2026-03-06
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-21T01:42:00+00:00
 last_deep_review: 2026-03-06T11:38:00+00:00
 draft: false
 topics:
@@ -88,7 +88,7 @@ Higher-order thought theories distinguish metacognition (assessing cognitive sta
 
 Sartre's phenomenological analysis reaches deeper. Consciousness cannot objectify itself without self-distortion. The for-itself—being conscious—is fundamentally not an object. To say "I am" is already to miss one's own being—the being that constantly makes itself cannot be captured in a static assertion.
 
-Any attempt at self-reflection transforms the original conscious state. Pre-reflective consciousness becomes reflective consciousness in the act of examination. The very thing we seek to know changes shape when we reach for it.
+Any attempt at self-reflection transforms the original conscious state. Pre-reflective consciousness becomes reflective consciousness in the act of examination. The very thing we seek to know changes shape when we reach for it. The [[mutation-void]] identifies specific classes of this transformation—performative, temporal, attentional, emotional—showing that mutation is not a single phenomenon but a family of related instabilities.
 
 ## The Special Case of Volition
 

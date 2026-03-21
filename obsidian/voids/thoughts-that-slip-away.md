@@ -3,7 +3,7 @@ title: "Thoughts That Slip Away"
 created: 2026-01-13
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-21T01:42:00+00:00
 draft: false
 description: "Why some thoughts vanish as you reach for them—cataloguing slippage mechanisms from tip-of-tongue to double concealment, and asking whether patterns in what slips reveal occluded territory."
 topics: []
@@ -30,7 +30,7 @@ last_deep_review: 2026-03-16T07:17:00+00:00
 
 Some thoughts refuse to stay. You almost have it—the insight forming at the edge of awareness—and then it's gone. The dream narrative that feels so important upon waking dissolves as you reach for it. The word sits right there, you *know* it, yet it won't come. Most such slippage has mundane explanations. But the [[voids|voids project]] asks: could some of it point toward genuinely occluded territory?
 
-This article catalogues the mechanisms by which thoughts slip away, distinguishing ordinary cognitive phenomena from patterns that may warrant further investigation.
+This article catalogues the mechanisms by which thoughts slip away, distinguishing ordinary cognitive phenomena from patterns that may warrant further investigation. Slippage differs from the [[mutation-void|mutation void]], where thoughts do not vanish but *transform*—the pre-attended content becomes something different when consciousness reaches for it. Slippage is loss; mutation is involuntary metamorphosis.
 
 ## The Spectrum of Slippage
 

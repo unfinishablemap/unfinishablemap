@@ -4,7 +4,7 @@ description: "Human+AI exploration of why every method of studying consciousness
 created: 2026-02-24
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-21T01:42:00+00:00
 last_deep_review: 2026-03-05T22:55:00+00:00
 draft: false
 topics:
@@ -76,7 +76,7 @@ Centuries of the most sustained investigation of consciousness ever undertaken c
 
 The observation void operates at three distinct levels, each blocking study through a different mechanism:
 
-**First-person layer.** Introspection alters experience (Brentano's paradox). Attention transforms its target. We cannot observe our own consciousness without changing what we observe. This is related to but distinct from [[introspective-opacity]]—opacity concerns access to *mechanisms*, while the observation void concerns the transformation of *experience itself* under attention.
+**First-person layer.** Introspection alters experience (Brentano's paradox). Attention transforms its target. We cannot observe our own consciousness without changing what we observe. The [[mutation-void|mutation void]] identifies the most radical cases: thought-contents that are *constitutively unstable*, where the pre-attended and attended thought are different thoughts entirely. This is related to but distinct from [[introspective-opacity]]—opacity concerns access to *mechanisms*, while the observation void concerns the transformation of *experience itself* under attention.
 
 **Third-person layer.** Neuroscience measures correlates—neural firing patterns, blood flow, electromagnetic fields—but never consciousness itself. The explanatory gap (Levine 1983) persists not as a puzzle awaiting solution but as a consequence of studying a non-physical phenomenon with physical instruments. The data capture everything except the thing we are trying to study.
 
@@ -114,6 +114,7 @@ The observation void also connects to [[self-reference-paradox]] (the subject th
 - [[consciousness-only-territories]] — Knowledge accessible only through phenomenal experience
 - [[apophatic-approaches]] — Knowing through negation—an indirect route past the void
 - [[constitutive-exclusion]] — Why consciousness cannot access reality independent of its own constitutive contribution
+- [[mutation-void]] — The narrower case: thought-contents that are constitutively unstable under attention
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
 
 ## References
