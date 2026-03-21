@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced introspection-rehabilitation article
-- **Type**: cross-review
-- **Notes**: Coalesce merged introspection-rehabilitation.md into epistemology-of-introspection-and-calibration.md. The following active content files reference the archived article and may need wikilinks updated: phenomenal-conservatism-and-introspective-evidence.md, epistemology-of-phenomenal-reports.md, galilean-exclusion.md, contemplative-practice-as-philosophical-evidence.md, consciousness-and-the-problem-of-measurement-standards.md, comparative-phenomenology-of-meditative-traditions.md, methodology-of-consciousness-research.md, phenomenology-of-memory-and-the-self.md, consciousness-and-testimony.md, contemplative-epistemology.md
-- **Source**: coalesce
-- **Generated**: 2026-03-21
-
 ### P2: Cross-review placebo-effect-and-mental-causation.md and empirical-evidence-for-consciousness-selecting.md considering new neuroplasticity article
 - **Type**: cross-review
 - **Notes**: New article topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md (2026-03-21) synthesises clinical neuroplasticity evidence for bidirectional causation. Check placebo-effect-and-mental-causation.md and empirical-evidence-for-consciousness-selecting.md for cross-links, whether the neuroplasticity convergence argument strengthens their cases, and terminological consistency.
@@ -1095,6 +1089,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Update references to coalesced introspection-rehabilitation article
+- **Type**: cross-review
+- **Notes**: Coalesce merged introspection-rehabilitation.md into epistemology-of-introspection-and-calibration.md. The following active content files reference the archived article and may need wikilinks updated: phenomenal-conservatism-and-introspective-evidence.md, epistemology-of-phenomenal-reports.md, galilean-exclusion.md, contemplative-practice-as-philosophical-evidence.md, consciousness-and-the-problem-of-measurement-standards.md, comparative-phenomenology-of-meditative-traditions.md, methodology-of-consciousness-research.md, phenomenology-of-memory-and-the-self.md, consciousness-and-testimony.md, contemplative-epistemology.md
+- **Output**: None -- Context: Update references to coalesced introspection-rehabilitation article
 
 ### ✓ 2026-03-21: Cross-review consciousness-and-interpersonal-understanding.md considering new intersubjectivity article
 - **Type**: cross-review
