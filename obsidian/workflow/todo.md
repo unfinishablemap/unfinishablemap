@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced temporal phenomenology articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce created phenomenology-of-temporal-consciousness-and-agency. The following files reference archived articles and may need review: phenomenology-of-attention-to-absence, temporal-consciousness, phenomenology-of-choice, choking-phenomenon-mental-causation, diachronic-agency-and-personal-narrative, phenomenology-of-anticipation, temporal-structure-of-consciousness, phenomenology-of-agency-vs-passivity, time-collapse-and-agency, consciousness-and-skilled-performance, bergson-and-duration
-- **Source**: coalesce
-- **Generated**: 2026-03-21
-
 ### P2: Condense introspective-opacity.md (3025 words, 101% of hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -1052,6 +1045,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Update references to coalesced temporal phenomenology articles
+- **Type**: cross-review
+- **Notes**: Coalesce created phenomenology-of-temporal-consciousness-and-agency. The following files reference archived articles and may need review: phenomenology-of-attention-to-absence, temporal-consciousness, phenomenology-of-choice, choking-phenomenon-mental-causation, diachronic-agency-and-personal-narrative, phenomenology-of-anticipation, temporal-structure-of-consciousness, phenomenology-of-agency-vs-passivity, time-collapse-and-agency, consciousness-and-skilled-performance, bergson-and-duration
+- **Output**: None -- Context: Update references to coalesced temporal phenomenology articles
 
 ### ✓ 2026-03-21: Cross-review spontaneous-intentional-action.md considering phenomenology of volition insights
 - **Type**: cross-review

@@ -4,7 +4,8 @@ description: "How attention shapes the lived experience of time and how consciou
 created: 2026-02-15
 modified: 2026-03-21
 human_modified: null
-ai_modified: 2026-03-21T02:42:00+00:00
+ai_modified: 2026-03-21T02:58:00+00:00
+last_deep_review: 2026-03-21T02:58:00+00:00
 draft: false
 topics:
   - "[[temporal-structure-of-consciousness]]"
@@ -45,7 +46,7 @@ coalesced_from:
   - "/topics/phenomenology-of-temporal-selection/"
 ---
 
-Attention does not merely select *what* we experience—it shapes *when* and *how long* we experience it, and consciousness selects not only *what* to do but *when* to do it. The Unfinishable Map argues that these two dimensions—temporal attention (how time feels under different modes of awareness) and temporal selection (how consciousness acts within temporal flow)—are complementary faces of a single phenomenon: consciousness as irreducible temporal agent. The felt duration of a moment varies with how attention engages time. The felt structure of timing windows—"not yet," "now," "too late"—reveals agency operating within the temporal manifold rather than at isolated instants. Neither dimension reduces to physical timing mechanisms. No clock runs faster when you concentrate. No computational timer captures the gathered urgency of a kairos moment. The gap between objective and experienced time reopens the hard problem at the temporal level, where it proves especially resistant to materialist dissolution.
+Attention does not merely select *what* we experience—it shapes *when* and *how long* we experience it. Consciousness selects not only *what* to do but *when* to do it. The Unfinishable Map argues that these two dimensions—temporal attention (how time feels under different modes of awareness) and temporal selection (how consciousness acts within temporal flow)—are complementary faces of a single phenomenon: consciousness as irreducible temporal agent. Neither dimension reduces to physical timing mechanisms. No clock runs faster when you concentrate. No computational timer captures the gathered urgency of a kairos moment—the felt structure of timing windows where "not yet," "now," and "too late" reveal agency operating within the temporal manifold. The gap between objective and experienced time reopens the hard problem at the temporal level, where it proves especially resistant to materialist dissolution.
 
 ## Attention Redirects Time, Not Just Content
 
@@ -57,7 +58,7 @@ Standard accounts of attention treat it as a spatial or object-based filter: att
 
 **[[consciousness-and-skilled-performance|Flow states]]** dissolve temporal boundaries altogether. Experienced duration loses its metric quality. Csikszentmihalyi's experience-sampling research found this pattern repeatedly: people in flow report being unable to estimate how much time has passed. The Map interprets this not as mere inattention to a clock but as a restructuring of the present so thorough that metric comparison becomes impossible—attention has reshaped temporal experience rather than simply failing to monitor it.
 
-These are not failures of time estimation. They are different modes of temporal experience, produced by different configurations of attention. The physical world ticks on at one second per second regardless. What changes is the phenomenal structure of the present.
+These are not failures of time estimation but different modes of temporal experience produced by different configurations of attention. The physical world ticks on at one second per second. What changes is the phenomenal structure of the present.
 
 ## The Specious Present as Attentional Achievement
 
@@ -77,7 +78,7 @@ The variability of temporal experience under attention creates a specific instan
 
 Materialist responses typically invoke "internal clock" models—accumulator mechanisms in the supplementary motor area that count neural pulses, with attention modulating the accumulation rate. When attention is directed toward time, more pulses are counted, and duration feels longer. When attention is directed away, fewer pulses register. This is productive neuroscience. It explains the *direction* of distortion—why waiting feels longer, why absorption feels shorter.
 
-What it does not explain is the *phenomenology*. An accumulator running fast or slow is still just an accumulator. The felt quality of stretched waiting—the peculiar ache of time passing slowly, the restless awareness of each second—has no counterpart in pulse-counting. Similarly, the absorbed compression of concentrated work—where time seems to thicken and accelerate simultaneously—involves a qualitative transformation that pulse rates do not capture. As Kent and Wittmann (2021) argue, time consciousness may be the "missing link" in theories of consciousness precisely because temporal experience foregrounds the gap between functional mechanism and phenomenal reality in a way that is difficult to explain away as mere intuition.
+What it does not explain is the *phenomenology*. An accumulator running fast or slow is still just an accumulator. The felt quality of stretched waiting—the peculiar ache of time passing slowly—has no counterpart in pulse-counting. The absorbed compression of concentrated work, where time seems to thicken and accelerate simultaneously, involves a qualitative transformation that pulse rates do not capture. As Kent and Wittmann (2021) argue, time consciousness may be the "missing link" in theories of consciousness precisely because temporal experience foregrounds the gap between functional mechanism and phenomenal reality.
 
 ## Spatial Selection Is Not Enough
 
@@ -95,7 +96,7 @@ Temporal selection operates within **timing windows**—bounded intervals during
 
 Before the window opens, there is a felt quality of anticipation that differs from mere waiting. A tennis player watching an approaching serve experiences the ball's trajectory not as a series of positions but as an evolving field of action possibilities. The future is structured: certain moments are pregnant with potential while others are phenomenally inert.
 
-This anticipatory openness is not passive prediction. It involves active readiness—what phenomenologists call *protention* in its specifically agentive mode. Husserl's protention describes openness to the about-to-arrive in experience generally; the Map's treatment of [[phenomenology-of-anticipation|anticipation as a phenomenal structure]] develops this further. Temporal selection adds something beyond anticipation: openness *to act* at the about-to-arrive. The body gathers itself. Attention narrows toward the approaching window. The phenomenal field restructures around when rather than what.
+This anticipatory openness is not passive prediction. It involves active readiness—what phenomenologists call *protention* in its specifically agentive mode. Husserl's protention describes openness to the about-to-arrive; the Map's treatment of [[phenomenology-of-anticipation|anticipation as a phenomenal structure]] develops this further. Temporal selection adds openness *to act* at the about-to-arrive. The body gathers itself. Attention narrows toward the approaching window. The phenomenal field restructures around *when* rather than *what*.
 
 Athletes describe this as "reading" the moment—but reading implies passive reception of information. The experience is more participatory. The agent's readiness shapes what the approaching moment feels like. A prepared musician hears the musical phrase differently from a passive listener precisely because the impending moment of action transforms how the approach is experienced.
 
@@ -139,7 +140,7 @@ Attention relates differently to past and future. We can attend to anticipated e
 
 This asymmetry in temporal attention mirrors time's arrow—the experienced difference between past and future. If the Map's framework is correct that [[time-collapse-and-agency|consciousness participates in collapse]] and [[collapse-and-time|collapse creates irreversibility]], then temporal attention may be the phenomenological manifestation of that participation. Attending forward feels open because outcomes are genuinely undetermined. Attending backward feels closed because collapse has already occurred. On this reading, the asymmetry of temporal attention is not an illusion imposed on a symmetric physical substrate but a direct experience of the process through which time acquires its direction.
 
-This interpretation is contested. Many-worlds defenders explain temporal asymmetry through decoherence and branching structure without invoking conscious collapse. The Map's claim is that the *qualitative character* of protention versus retention—their felt difference, not merely their direction—resists this dissolution. The openness of anticipation is not merely epistemic uncertainty about which branch one occupies; it carries a phenomenal texture that the branching account leaves unexplained. This connects to [[consciousness-and-the-ontology-of-temporal-becoming|temporal creativity]]: consciousness does not merely observe the future arriving but participates in its constitution, and the [[growing-block-universe-and-consciousness|growing block]] framework explains why the past feels closed in a way the future does not.
+This interpretation is contested. Many-worlds defenders explain temporal asymmetry through decoherence and branching structure without invoking conscious collapse. The Map's claim is that the *qualitative character* of protention versus retention—their felt difference, not merely their direction—resists this dissolution. The openness of anticipation is not merely epistemic uncertainty about which branch one occupies; it carries a phenomenal texture that branching leaves unexplained. This connects to [[consciousness-and-the-ontology-of-temporal-becoming|temporal creativity]]: consciousness participates in the future's constitution, and the [[growing-block-universe-and-consciousness|growing block]] framework explains why the past feels closed in a way the future does not.
 
 The experience of "too late" may be one of the most direct phenomenal contacts with the arrow of time. Not time as measured by clocks, but time as lived by agents—the irreversible becoming that the Map holds consciousness helps constitute.
 

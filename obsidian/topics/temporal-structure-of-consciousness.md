@@ -4,7 +4,7 @@ description: "How consciousness requires time, time may require consciousness, a
 created: 2026-01-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-21T02:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,7 +46,7 @@ related_articles:
   - "[[personal-identity]]"
   - "[[the-binding-problem-a-systematic-treatment]]"
   - "[[neural-refresh-rates-and-the-smoothness-problem]]"
-  - "[[phenomenology-of-temporal-selection]]"
+  - "[[phenomenology-of-temporal-consciousness-and-agency]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -170,7 +170,7 @@ Maintaining attention over time feels effortful. The Map explores [[mental-effor
 
 ### Temporal Selection
 
-These features converge in the [[phenomenology-of-temporal-selection|phenomenology of temporal selection]]—selecting *when* to act, not just *what* to do. Catching a ball, entering a conversation, beginning a musical phrase all require sensing the right moment and acting from within temporal flow. The felt structure of timing windows—"not yet," "now," "too late"—provides the agentive face of temporal becoming that spatial selection models cannot capture.
+These features converge in the [[phenomenology-of-temporal-consciousness-and-agency|phenomenology of temporal selection]]—selecting *when* to act, not just *what* to do. Catching a ball, entering a conversation, beginning a musical phrase all require sensing the right moment and acting from within temporal flow. The felt structure of timing windows—"not yet," "now," "too late"—provides the agentive face of temporal becoming that spatial selection models cannot capture.
 
 ## Implications for Artificial Consciousness
 

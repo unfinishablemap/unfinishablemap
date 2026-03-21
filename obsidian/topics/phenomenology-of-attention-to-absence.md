@@ -4,7 +4,7 @@ description: "How consciousness attends to what isn't there—the distinctive ph
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-03-19T12:54:00+00:00
+ai_modified: 2026-03-21T02:58:00+00:00
 last_deep_review: 2026-03-19T12:54:00+00:00
 draft: false
 topics:
@@ -20,7 +20,7 @@ related_articles:
   - "[[attention-created-voids]]"
   - "[[phenomenology-of-returning-attention]]"
   - "[[structure-of-attention]]"
-  - "[[phenomenology-of-temporal-attention]]"
+  - "[[phenomenology-of-temporal-consciousness-and-agency]]"
   - "[[phenomenology-of-anticipation]]"
   - "[[thoughts-that-slip-away]]"
 ai_contribution: 100
@@ -99,7 +99,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is implicated becau
 - [[attention-created-voids]] — How attending produces unattendable territory
 - [[phenomenology-of-returning-attention]] — The structure of attention returning from absence
 - [[phenomenology-of-anticipation]] — The forward-directed experience that absence violates
-- [[phenomenology-of-temporal-attention]] — How attention shapes temporal experience
+- [[phenomenology-of-temporal-consciousness-and-agency]] — How attention shapes temporal experience and agency
 - [[thoughts-that-slip-away]] — The phenomenology of cognitive absence
 - [[structure-of-attention]] — The architecture of attentional control
 - [[intentionality]] — The directedness of consciousness toward objects

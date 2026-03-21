@@ -4,7 +4,7 @@ description: "Free will, quantum collapse, and time's arrow interlink. If consci
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-21T02:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
-  - "[[phenomenology-of-temporal-selection]]"
+  - "[[phenomenology-of-temporal-consciousness-and-agency]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -118,7 +118,7 @@ If consciousness is actively constituting temporal structure, the specious prese
 
 **Bergson's [[temporal-consciousness|durée]]**: Time as qualitatively flowing, with the past permeating the present and the future anticipated. If consciousness doesn't merely observe time but constitutes it, this interpenetrating quality makes sense. Each moment isn't a slice but an activity, colored by what it's selecting among.
 
-**[[phenomenology-of-temporal-selection|Temporal selection]]**: The detailed phenomenology of *when* to act—the felt structure of timing windows, the anticipatory openness of "not yet," the kairos moment of "now," and the irreversible closure of "too late"—provides the agentive face of this temporal constitution. The asymmetry between "not yet" and "too late" tracks the ontological asymmetry this framework predicts: the future is open because collapse has not occurred; the past is settled because it has.
+**[[phenomenology-of-temporal-consciousness-and-agency|Temporal selection]]**: The detailed phenomenology of *when* to act—the felt structure of timing windows, the anticipatory openness of "not yet," the kairos moment of "now," and the irreversible closure of "too late"—provides the agentive face of this temporal constitution. The asymmetry between "not yet" and "too late" tracks the ontological asymmetry this framework predicts: the future is open because collapse has not occurred; the past is settled because it has.
 
 **Retrocausal insensitivity**: We don't experience backward causation as strange. The Libet data doesn't feel like our choices precede our awareness. This is because the selection isn't temporal—it determines which temporal ordering becomes real. The neural activity "preceding" awareness is part of the selected transaction, not evidence against conscious causation.
 

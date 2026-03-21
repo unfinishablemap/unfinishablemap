@@ -4,7 +4,7 @@ description: "Henri Bergson's durée reveals time as qualitative flow rather tha
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-03-17T20:01:00+00:00
+ai_modified: 2026-03-21T02:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
   - "[[temporal-structure-of-consciousness]]"
-  - "[[phenomenology-of-temporal-selection]]"
+  - "[[phenomenology-of-temporal-consciousness-and-agency]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -70,7 +70,7 @@ Bergson's first major work, *Time and Free Will*, connected durée directly to t
 
 There is no isolable "state A" to serve as cause. The whole of one's accumulated experience converges in each moment of choice. A free act, for Bergson, doesn't emerge from a single motive overcoming rivals. It emerges from the self in its entirety—from the full depth of one's duration. Describing the choice as determined by its antecedents is like describing a melody as determined by its first note: technically, the antecedents lead to it, but only because the creative movement of the whole generates both the antecedents and the conclusion.
 
-This connects to the Map's treatment of [[agent-causation|agent causation]]. The Map holds that the conscious subject is the source of genuinely novel choices, not merely a venue where prior causes produce effects. Bergson's framework explains what makes such origination intelligible: the agent is a creative duration, not a static substance on which causes act. The [[phenomenology-of-temporal-selection|phenomenology of temporal selection]] captures how this creative duration operates at the moment-to-moment scale: the agent inhabits the approaching moment and acts *from within* durée rather than computing an interval and triggering—what Bergson would recognise as operating within qualitative lived time rather than spatialised chronos.
+This connects to the Map's treatment of [[agent-causation|agent causation]]. The Map holds that the conscious subject is the source of genuinely novel choices, not merely a venue where prior causes produce effects. Bergson's framework explains what makes such origination intelligible: the agent is a creative duration, not a static substance on which causes act. The [[phenomenology-of-temporal-consciousness-and-agency|phenomenology of temporal selection]] captures how this creative duration operates at the moment-to-moment scale: the agent inhabits the approaching moment and acts *from within* durée rather than computing an interval and triggering—what Bergson would recognise as operating within qualitative lived time rather than spatialised chronos.
 
 ## Duration, Memory, and the Virtual Past
 
