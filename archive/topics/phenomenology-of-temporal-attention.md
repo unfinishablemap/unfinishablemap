@@ -6,6 +6,11 @@ modified: 2026-02-19
 human_modified:
 ai_modified: 2026-03-19T17:56:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-21T02:42:00+00:00
+superseded_by: "/topics/phenomenology-of-temporal-consciousness-and-agency/"
+archive_reason: "Coalesced into The Phenomenology of Temporal Consciousness and Agency"
+original_path: "/topics/phenomenology-of-temporal-attention/"
 topics:
   - "[[temporal-structure-of-consciousness]]"
   - "[[attention-and-the-consciousness-interface]]"

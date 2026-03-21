@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 02:42 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/phenomenology-of-temporal-attention]], [[topics/phenomenology-of-temporal-selection]]
+- **Target**: [[topics/phenomenology-of-temporal-consciousness-and-agency]]
+- **Archived**: archive/topics/phenomenology-of-temporal-attention.md, archive/topics/phenomenology-of-temporal-selection.md
+- **References to review**: 11 active content files (excluding reviews)
+
 ## 2026-03-21 02:27 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/spontaneous-intentional-action]]
