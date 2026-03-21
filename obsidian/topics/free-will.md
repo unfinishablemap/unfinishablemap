@@ -4,7 +4,7 @@ description: "Can we genuinely author our choices? The Map defends agent-causal 
 created: 2026-01-08
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-03-21T02:05:00+00:00
+ai_modified: 2026-03-21T21:56:00+00:00
 last_deep_review: 2026-03-21T02:05:00+00:00
 draft: false
 topics:
@@ -145,7 +145,7 @@ Failure of any particular proposed mechanism (like quantum approaches) would req
 
 ## Distal Intentions and Prospective Memory
 
-Most voluntary action involves distal intentions formed earlier, not just proximal decisions. The libertarian needn't claim consciousness intervenes at every motor command—what matters is that conscious planning participates in shaping action. See [[prospective-memory]] for how episodic future thinking causally influences present decisions.
+Most voluntary action involves distal intentions formed earlier, not just proximal decisions. The libertarian needn't claim consciousness intervenes at every motor command—what matters is that conscious planning participates in shaping action. [[skill-delegation|Skill delegation]] demonstrates this selective engagement: consciousness trains procedural systems during learning, withdraws from routine execution, and re-engages when novel decisions are needed. See [[prospective-memory]] for how episodic future thinking causally influences present decisions.
 
 ## The Picture That Emerges
 

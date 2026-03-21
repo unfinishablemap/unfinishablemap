@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate skill-delegation.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Recently created (2026-03-20) concept page on consciousness training procedural systems and retaining override capacity. Add cross-references from related articles such as phenomenology-of-agency-vs-passivity, choking-phenomenon-mental-causation, consciousness-and-skilled-performance, and attention-and-the-consciousness-interface.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-21
-
 ### P2: Integrate epiphenomenalisms-gravity-well.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1104,6 +1097,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-21: Integrate skill-delegation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Recently created (2026-03-20) concept page on consciousness training procedural systems and retaining override capacity. Add cross-references from related articles such as phenomenology-of-agency-vs-passivity, choking-phenomenon-mental-causation, consciousness-and-skilled-performance, and attention-and-the-consciousness-interface.
+- **Output**: obsidian/concepts/skill-delegation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-21: Integrate clinical-neuroplasticity-evidence-for-bidirectional-causation.md into site navigation
 - **Type**: integrate-orphan

@@ -4,7 +4,7 @@ description: "Consciousness enables specific functions unconscious processing ca
 created: 2026-01-23
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-21T21:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -65,7 +65,7 @@ This doesn't mean unconscious processing doesn't exist—it means the scope has 
 
 Unconscious processing is real but limited. Subliminal stimuli can influence perception, activate semantic associations, and prime behavioral responses—a masked word like "doctor" facilitates recognition of "nurse," and subliminal faces expressing fear activate the amygdala. [[blindsight|Blindsight patients]] respond to stimuli they report not seeing. The dorsal visual stream can guide action without phenomenal experience.
 
-But unconscious processing operates within established patterns—activating existing associations, executing learned procedures, processing familiar categories. It cannot combine information in novel ways, maintain representations over time, or generate intentional action directed at new goals.
+But unconscious processing operates within established patterns—activating existing associations, executing learned procedures, processing familiar categories. It cannot combine information in novel ways, maintain representations over time, or generate intentional action directed at new goals. The established patterns that unconscious processing follows are often created through [[skill-delegation]]—consciousness calibrates a procedural system during learning, then withdraws, leaving the trained procedure to execute without conscious oversight.
 
 ## What Consciousness Enables
 

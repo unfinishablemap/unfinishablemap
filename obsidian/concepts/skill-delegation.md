@@ -4,7 +4,7 @@ description: "Skill delegation is how consciousness trains procedural systems, w
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T19:44:00+00:00
+ai_modified: 2026-03-21T21:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review: 2026-03-20T19:44:00+00:00
+last_deep_review: 2026-03-21T21:56:00+00:00
 ---
 
 Skill delegation is the process by which consciousness trains a procedural system to perform a task, withdraws from active control, and retains the capacity to re-engage. A novice typist consciously selects each key; an expert's fingers move without reflective guidance. The skill has not vanished from consciousness—it has been *delegated*. The Unfinishable Map treats skill delegation as a central phenomenon for understanding mind-body interaction, because it reveals three things simultaneously: consciousness has genuine causal power (it trains the system), that power operates through an interface (it can withdraw), and the interface remains live (it can re-engage, sometimes disruptively).
@@ -84,7 +84,7 @@ Skill delegation is not binary. Between full conscious control and full automati
 
 **Degraded delegation** occurs when procedural systems fail to maintain performance and consciousness must re-engage. Fatigue, injury, or novel conditions force the expert back toward conscious control. The re-engagement is effortful and often marks the transition from expert to merely competent performance.
 
-These gradients suggest that skill delegation is not a single mechanism but a family of related phenomena involving variable conscious engagement with procedural systems. The common thread is that consciousness can modulate its degree of involvement—proof that the interface is not merely on or off but continuously adjustable.
+These gradients suggest that skill delegation is not a single mechanism but a family of related phenomena involving variable conscious engagement with procedural systems. The common thread is that consciousness can modulate its degree of involvement—proof that the interface is not merely on or off but continuously adjustable. This aligns with what [[conscious-vs-unconscious-processing|research on conscious vs unconscious processing]] reveals: consciousness enables novel combinations and spontaneous intentional action, while unconscious processing follows established patterns. Skill delegation is the process by which novel conscious engagement *creates* the established patterns that unconscious processing can then follow.
 
 ## Skill Delegation and Causal Delegation
 

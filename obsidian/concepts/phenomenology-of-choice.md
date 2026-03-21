@@ -4,7 +4,7 @@ description: "The experiential structure of deliberation and decision-making: fe
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-21T02:58:00+00:00
+ai_modified: 2026-03-21T21:56:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -76,7 +76,7 @@ The sense of agency varies:
 - **Weak authorship**: "This seemed like the only option"
 - **Absent authorship**: "I don't know how that happened"
 
-These variations track something real about different kinds of actions. Spontaneous skilled performance (typing this sentence) produces weak authorship—it happens through me but doesn't feel deliberately chosen. Effortful decisions (career choices, moral dilemmas) produce strong authorship. Automatic habits or compulsions may produce absent authorship.
+These variations track something real about different kinds of actions. Spontaneous skilled performance (typing this sentence) produces weak authorship—it happens through me but doesn't feel deliberately chosen, reflecting [[skill-delegation|delegated skill]] where consciousness has withdrawn from active control. Effortful decisions (career choices, moral dilemmas) produce strong authorship. Automatic habits or compulsions may produce absent authorship.
 
 The sense of agency isn't infallible—patients with frontal damage may report authorship for actions they didn't initiate, or deny authorship for actions they did. But its variation tracks genuine differences in cognitive processing.
 

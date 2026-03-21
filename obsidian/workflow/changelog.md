@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-21 21:56 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/skill-delegation]]
+- **Word count**: 1944 → 1989 (+45)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing conscious-vs-unconscious processing connection)
+- **Enhancements made**: 5 cross-links added from related articles (attention-as-interface, motor-selection, conscious-vs-unconscious-processing, phenomenology-of-choice, free-will)
+- **Output**: [[reviews/deep-review-2026-03-21-skill-delegation]]
+
 ## 2026-03-21 21:40 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]]
