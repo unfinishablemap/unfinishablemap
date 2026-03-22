@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on autonoetic consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/autonoetic-consciousness-2026-02-24.md. Tulving's three-level model (anoetic/noetic/autonoetic), mental time travel, and the phenomenology of self-knowing consciousness. Directly relevant to the Map's arguments about mode asymmetry and consciousness doing causal work. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-22
-
 ### P2: Write concept page on the interaction problem in non-Western philosophy
 - **Type**: expand-topic
 - **Status**: pending
@@ -1162,6 +1155,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Write concept page on autonoetic consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/autonoetic-consciousness-2026-02-24.md. Tulving's three-level model (anoetic/noetic/autonoetic), mental time travel, and the phenomenology of self-knowing consciousness. Directly relevant to the Map's arguments about mode asymmetry and consciousness doing causal work. Target section: concepts/.
+- **Output**: Write concept page on autonoetic consciousness
 
 ### ✓ 2026-03-22: Address asymmetric argumentation in global-workspace-theory.md
 - **Type**: refine-draft
