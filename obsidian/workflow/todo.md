@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review consciousness-as-activity.md considering enactivism insights
-- **Type**: cross-review
-- **Notes**: New article enactivism-challenge-to-interactionist-dualism.md (2026-03-21) presents enactivism as a challenge to the Map's framework. Check consciousness-as-activity.md for cross-links, potential tensions with the enactivist critique, and opportunities to strengthen the interactionist response to embodied/enactive approaches.
-- **Source**: chain (from enactivism-challenge-to-interactionist-dualism.md)
-- **Generated**: 2026-03-21
-
 ### P3: Explore feminist philosophy of consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -1101,6 +1095,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Review consciousness-as-activity.md considering enactivism insights
+- **Type**: cross-review
+- **Notes**: New article enactivism-challenge-to-interactionist-dualism.md (2026-03-21) presents enactivism as a challenge to the Map's framework. Check consciousness-as-activity.md for cross-links, potential tensions with the enactivist critique, and opportunities to strengthen the interactionist response to embodied/enactive approaches.
+- **Output**: obsidian/topics/consciousness-as-activity.md -- Context: Review consciousness-as-activity.md considering enactivism insights
 
 ### ✓ 2026-03-22: Review placebo-effect-and-mental-causation.md considering clinical neuroplasticity insights
 - **Type**: cross-review

@@ -4,7 +4,7 @@ description: "Reframing consciousness from something the brain has to something 
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-21T13:05:00+00:00
+ai_modified: 2026-03-22T01:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,6 +29,7 @@ related_articles:
   - "[[temporal-structure-of-consciousness]]"
   - "[[sensorimotor-contingencies-and-the-interface]]"
   - "[[process-and-consciousness]]"
+  - "[[enactivism-challenge-to-interactionist-dualism]]"
   - "[[consciousness-and-agency]]"
   - "[[biological-teleology-and-the-interface-framework]]"
 ai_contribution: 100
@@ -36,7 +37,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-03-21T13:05:00+00:00
+last_deep_review: 2026-03-22T01:41:00+00:00
 ---
 
 Most philosophy of mind treats consciousness as a property—something the brain *has*, the way a ball has mass or a surface has colour. The Unfinishable Map argues this framing is a mistake that generates false puzzles. Consciousness is better understood as an activity—something the organism *does*. The shift from noun to verb, from possession to performance, reframes the hard problem, aligns naturally with [[interactionist-dualism]], and explains why materialist reduction keeps failing: you cannot reduce an activity to the substrate on which it acts, any more than you can reduce dancing to legs.
@@ -110,6 +111,10 @@ The activity framing aligns with developments in cognitive science and neuroscie
 
 **Enactivism.** The enactivist tradition—Varela, Thompson, Noë—treats consciousness as enacted through [[sensorimotor-contingencies-and-the-interface|sensorimotor engagement]] with the environment. Noë's *Action in Perception* (2004) argues that perception is not passive reception but active exploration: we see by looking, hear by listening, understand by engaging. [[embodied-cognition|Embodied cognition]] extends this insight—the body is not merely a vehicle for a conscious mind but part of the activity that constitutes it.
 
+Enactivism is the closest existing tradition to consciousness-as-activity, and the divergence is instructive. Thompson's *Mind in Life* (2007) develops the *deep continuity thesis*: where there is life, there is mind, because the autopoietic self-maintenance of living systems already constitutes a rudimentary perspective on the environment. This connects activity to life itself—a cell's self-producing organisation is a form of doing, not merely a set of properties. The Map agrees that activity runs deep and that the property framing fails for life as it fails for consciousness.
+
+But enactivism draws a different ontological conclusion. For enactivists, consciousness just *is* the embodied engagement—there is no separate agent performing the activity. De Jaegher, Di Paolo, and Gallagher (2013) make this explicit: the "interaction" in enactivism refers to organism-environment engagement, not to causal commerce between a non-physical mind and a physical body. The activity framing defended here parts company on precisely this point. Activities require agents. Dancing is not self-performing; someone dances. The agent-dependence commitment (see the section on [[#What Activity Means Here|what activity means]]) insists that conscious activity is *performed by* a subject, not identical to organism-environment coupling. Enactivism's own phenomenological commitment—treating experience as irreducible data—implicitly supports this: irreducible experience is experience *for someone*. The [[enactivism-challenge-to-interactionist-dualism|full engagement with enactivism's challenge]] explores how enactivism's dissolution strategy ultimately cannot close the [[explanatory-gap|explanatory gap]] it claims to have dissolved.
+
 **Skilled performance.** [[consciousness-and-skilled-performance|Research on expertise]] reveals consciousness as an architect of skilled activity. Consciousness trains procedural systems, delegates to them, and painfully re-engages when skills break down. This dynamic of building, delegating, and reclaiming control is activity through and through.
 
 **Neural dynamics.** Neuroscience increasingly describes consciousness in terms of dynamic patterns—oscillations, travelling waves, recurrent loops—rather than static activations. Dehaene and Changeux's (2011) global neuronal workspace theory characterises conscious access as a dynamic ignition event—a surge of coordinated neural activity, not a property of any brain region. The neural correlates of consciousness look more like dances than like paintings.
@@ -139,6 +144,7 @@ The activity framing strengthens the Map's framework at every point.
 - [[temporal-structure-of-consciousness]] — Temporal binding as ongoing activity
 - [[process-and-consciousness]] — Apex synthesis connecting process philosophy to the Map's tenets
 - [[sensorimotor-contingencies-and-the-interface]] — Enactivist approaches to conscious activity
+- [[enactivism-challenge-to-interactionist-dualism]] — How enactivism challenges and ultimately reinforces the dualist insight
 - [[consciousness-and-agency]] — Apex synthesis connecting consciousness to agency through activity
 - [[downward-causation]] — How conscious activity exercises causal influence on physical systems
 - [[hard-problem-of-consciousness]] — The puzzle the activity framing reframes
@@ -148,6 +154,7 @@ The activity framing strengthens the Map's framework at every point.
 1. Bergson, H. (1889/2001). *Time and Free Will*. Dover.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 1. Clark, A. (2013). Whatever next? Predictive brains, situated agents, and the future of cognitive science. *Behavioral and Brain Sciences*, 36(3), 181-204.
+1. De Jaegher, H., Di Paolo, E., & Gallagher, S. (2013). Enactivism is not interactionism. *Frontiers in Human Neuroscience*, 6, 345.
 1. Clark, A. (2016). *Surfing Uncertainty: Prediction, Action, and the Embodied Mind*. Oxford University Press.
 1. Dehaene, S., & Changeux, J.-P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200-227.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
