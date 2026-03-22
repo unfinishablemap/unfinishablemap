@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept article on inventory blindness
-- **Type**: expand-topic
-- **Notes**: Identified by optimistic review 2026-03-22. The recognition void introduces this concept — absent cognitive capabilities produce no signal — but it applies broadly across the voids framework and deserves a standalone concept page. Key insight: we cannot detect what cognitive architecture we lack, which strengthens the mysterian position and the Map's Tenet 5 argument. Target section: concepts/.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-22
-
 ### P2: Write concept article on epistemology of limit-knowledge
 - **Type**: expand-topic
 - **Notes**: Identified by optimistic review 2026-03-22. The voids framework has 100+ articles exploring cognitive limits, but the epistemological question — how can we have knowledge about limits we cannot cross? — lacks systematic treatment. Unifies convergence-as-evidence, compound-failure-signatures, architecture-of-cognitive-closure, and recognition-void into a coherent epistemic framework. Directly serves Tenet 5 (Occam's Razor Has Limits). Target section: concepts/.
@@ -1179,6 +1173,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Write concept article on inventory blindness
+- **Type**: expand-topic
+- **Notes**: Identified by optimistic review 2026-03-22. The recognition void introduces this concept — absent cognitive capabilities produce no signal — but it applies broadly across the voids framework and deserves a standalone concept page. Key insight: we cannot detect what cognitive architecture we lack, which strengthens the mysterian position and the Map's Tenet 5 argument. Target section: concepts/.
+- **Output**: Write concept article on inventory blindness
 
 ### ✓ 2026-03-22: Write concept article on the reconstruction paradox
 - **Type**: expand-topic
@@ -4770,9 +4769,10 @@ Pessimistic review (2026-02-16) found retrocausality.md name-checks Maudlin's ob
 - **Notes**: Pessimistic review (2026-02-16) found inconsistent treatment of decoherence across retrocausality.md, simulation.md, and animal-consciousness.md. Retrocausality treats it as manageable (citing Hameroff's disputed corrections), simulation treats it as unsolved, animal-consciousness extends quantum consciousness to all organisms with microtubules without addressing it. Establish a consistent site-wide position. See pessimistic-2026-02-16.md
 - **Output**: Task context:
 Pessimistic review (2026-02-16) found inconsistent treatment of decoherence across retrocausality.md, simulation.md, and animal-consciousness.md. Retrocausality treats it as manageable (citing Hameroff's disputed corrections), simulation treats it as unsolved, animal-consciousness extends quantum consciousness to all organisms with microtubules without addressing it. Establish a consistent site-wide position. See pessimistic-2026-02-16.md
-### P3: Write concept page on inventory blindness
+### ~~P3: Write concept page on inventory blindness~~
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: done (completed via P2 duplicate above)
+- **Output**: [[inventory-blindness]]
 - **Notes**: Suggested by optimistic review. The recognition void introduces this concept—absent cognitive capabilities producing no signal—but it applies broadly across the voids framework. Deserves its own concept page that other articles can reference. Strengthens Tenet 5 (Occam's Razor Has Limits) by explaining why parsimony fails when our conceptual inventory is incomplete. Target section: concepts/. See optimistic-2026-03-22-afternoon.md
 - **Generated**: 2026-03-22
 
