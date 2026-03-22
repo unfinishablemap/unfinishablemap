@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write void article on the recognition void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-recognition-void-2026-03-22.md. The cognitive gap between perceiving and recognising — why consciousness must "find" meaning in what it already sees. Target section: voids/ (99/100, final slot).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-22
-
 ### P2: Cross-review other-minds-void.md considering infant-consciousness insights
 - **Type**: cross-review
 - **Notes**: New article voids/infant-consciousness.md (created 2026-03-22 via expand-topic) explores why our own infant experience is more alien than another adult's mind. Check other-minds-void.md and inaccessible-past.md for cross-links, reinforcing arguments, or tensions with the new infant consciousness treatment.
@@ -1161,6 +1155,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Write void article on the recognition void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-recognition-void-2026-03-22.md. The cognitive gap between perceiving and recognising — why consciousness must "find" meaning in what it already sees. Target section: voids/ (99/100, final slot).
+- **Output**: Write void article on the recognition void
 
 ### ✓ 2026-03-22: Write article on consciousness during general anesthesia and filter theory
 - **Type**: expand-topic

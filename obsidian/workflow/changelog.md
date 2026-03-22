@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 16:01 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Recognition Void
+- **Output**: [[voids/recognition-void]]
+- **Word count**: 1510
+- **Based on research**: yes — [[research/voids-recognition-void-2026-03-22]] and [[research/voids-recognition-void-2026-02-19]]
+
 ## 2026-03-22 15:46 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-threshold-in-cognitive-evolution]]
