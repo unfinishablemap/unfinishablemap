@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Created 2026-03-15 via expand-topic from research on Konkoly et al. targeted memory reactivation during REM. Add cross-references from related articles (dream-consciousness, lucid-dreaming-as-capability-evidence, consciousness-and-memory) or update section index pages.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-22
-
 ### P2: Integrate death-phenomenology-beyond-ndes.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1141,6 +1134,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-15 via expand-topic from research on Konkoly et al. targeted memory reactivation during REM. Add cross-references from related articles (dream-consciousness, lucid-dreaming-as-capability-evidence, consciousness-and-memory) or update section index pages.
+- **Output**: dream-problem-solving-and-conscious-influence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-22: Cross-review social-construction-of-self-vs-phenomenal-self.md considering consciousness-and-intersubjectivity insights
 - **Type**: cross-review
