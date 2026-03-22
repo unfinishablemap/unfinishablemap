@@ -7,6 +7,11 @@ human_modified:
 ai_modified: 2026-03-19T23:17:00+00:00
 last_deep_review: 2026-03-19T23:17:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-22T19:01:00+00:00
+superseded_by: "/topics/consciousness-and-skill-acquisition/"
+archive_reason: "Coalesced into Consciousness and Skill Acquisition"
+original_path: "/topics/consciousness-and-the-neuroscience-of-deliberate-practice/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"

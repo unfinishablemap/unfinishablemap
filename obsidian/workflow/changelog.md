@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 19:01 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[consciousness-and-skilled-performance]], [[consciousness-and-the-neuroscience-of-deliberate-practice]]
+- **Target**: [[consciousness-and-skill-acquisition]]
+- **Archived**: archive/topics/consciousness-and-skilled-performance.md, archive/topics/consciousness-and-the-neuroscience-of-deliberate-practice.md
+- **References to review**: 21 files (cross-review task created)
+
 ## 2026-03-22 18:46 UTC - deep-review
 - **Status**: Skipped (archived file)
 - **File**: phenomenology-of-moral-deliberation (archived 2026-03-20)
