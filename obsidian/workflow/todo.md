@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review convergence-as-evidence.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created via coalesce on 2026-03-22, never reviewed. Coalesced from convergence-of-the-void-catalogue and evidential-weight-of-voids. Verify the merge preserved coherence, eliminated redundancy, maintained tenet alignment, and that cross-references to other voids articles are intact.
-- **Source**: staleness
-- **Generated**: 2026-03-22
-
 ### P3: Deep review infant-consciousness.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-22 via expand-topic, never reviewed. Voids article on why our own infant experience is more alien than another adult's mind. Verify coherence, accuracy of developmental psychology claims, cross-references to inaccessible-past and other-minds-void, and tenet alignment.
@@ -1143,6 +1137,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Deep review convergence-as-evidence.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created via coalesce on 2026-03-22, never reviewed. Coalesced from convergence-of-the-void-catalogue and evidential-weight-of-voids. Verify the merge preserved coherence, eliminated redundancy, maintained tenet alignment, and that cross-references to other voids articles are intact.
+- **Output**: obsidian/voids/convergence-as-evidence.md
 
 ### ✓ 2026-03-22: Cross-review inaccessible-past.md considering infant consciousness void insights
 - **Type**: cross-review
