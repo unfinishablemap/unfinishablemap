@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced social-epistemic-void
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce merged social-epistemic-void into intersubjective-void. The following files reference the archived article and may need wikilink updates: concepts/intersubjectivity.md, concepts/introspection.md, voids/other-minds-void.md, voids/language-thought-boundary.md, voids/introspective-opacity.md, voids/framework-void.md, voids/voids.md, voids/collective-cognitive-limits.md, voids/transparency-void.md, topics/epistemology-of-phenomenal-reports.md, topics/consciousness-and-the-limits-of-explanation.md, topics/phenomenology-of-collective-intentionality-and-we-consciousness.md, topics/consciousness-and-testimony.md, topics/consciousness-and-intersubjectivity.md
-- **Source**: coalesce
-- **Generated**: 2026-03-22
-
 ### P2: Condense global-workspace-theory.md (3500 words, 140% of target)
 - **Type**: condense
 - **Status**: pending
@@ -1127,6 +1120,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Update references to coalesced social-epistemic-void
+- **Type**: cross-review
+- **Notes**: Coalesce merged social-epistemic-void into intersubjective-void. The following files reference the archived article and may need wikilink updates: concepts/intersubjectivity.md, concepts/introspection.md, voids/other-minds-void.md, voids/language-thought-boundary.md, voids/introspective-opacity.md, voids/framework-void.md, voids/voids.md, voids/collective-cognitive-limits.md, voids/transparency-void.md, topics/epistemology-of-phenomenal-reports.md, topics/consciousness-and-the-limits-of-explanation.md, topics/phenomenology-of-collective-intentionality-and-we-consciousness.md, topics/consciousness-and-testimony.md, topics/consciousness-and-intersubjectivity.md
+- **Output**: None -- Context: Update references to coalesced social-epistemic-void
 
 ### ✓ 2026-03-22: Integrate social-epistemic-void.md into site navigation
 - **Type**: integrate-orphan

@@ -4,7 +4,7 @@ description: "Dualism reshapes the philosophy of science—from demarcation and 
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-11T21:17:00+00:00
+ai_modified: 2026-03-22T07:12:00+00:00
 draft: false
 topics:
   - "[[methodology-of-consciousness-research]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-02-23T23:20:00+00:00
+last_deep_review: 2026-03-22T07:12:00+00:00
 ---
 
 The Unfinishable Map holds that consciousness is not reducible to physical processes. If this is correct, several core doctrines in philosophy of science — the unity of science, standard demarcation criteria, theory choice by parsimony, and scientific realism about unobservables — require revision. Not abandonment. Revision. Dualism does not reject science. It redraws the boundaries of what science studies, how it chooses between theories, and what scientific success actually tells us about reality.
@@ -67,7 +67,11 @@ The Map's [[tenets#^occams-limits|fifth tenet]] challenges this reasoning direct
 
 More precisely, parsimony as a theory-choice criterion is domain-relative. Within physics, preferring fewer fundamental forces is well-motivated because the track record of unification is strong. But the question of whether consciousness reduces to physics is not a question *within* physics. It is a question about whether physics exhausts what is real. Applying parsimony across this boundary assumes the very thing in dispute.
 
-Kuhn's insight is relevant here — as the Map's [[consciousness-and-the-structure-of-scientific-revolutions|Kuhnian analysis]] develops, physicalism exhibits the hallmarks of a paradigm in crisis: anomalies accumulating, competing theories proliferating, and no successor framework consolidating. Theory choice is not algorithmic. Scientists weigh virtues differently depending on disciplinary norms and background assumptions. The Map's analysis of the [[phenomenology-of-creative-insight|phenomenology of creative insight]] adds a further dimension: scientists report that aesthetic experience — the felt sense of a theory's elegance or "rightness" — causally guides their choices, suggesting that phenomenal consciousness plays an irreducible role in theory selection. Materialist philosophy of mind weights parsimony heavily because it treats the physical as a settled baseline. Dualist philosophy of mind weights explanatory adequacy — the capacity to account for phenomenal experience — more heavily because it treats consciousness as the most certain datum we have.
+Kuhn's insight is relevant here — as the Map's [[consciousness-and-the-structure-of-scientific-revolutions|Kuhnian analysis]] develops, physicalism exhibits the hallmarks of a paradigm in crisis: anomalies accumulating, competing theories proliferating, and no successor framework consolidating.
+
+Theory choice is not algorithmic. Scientists weigh virtues differently depending on disciplinary norms and background assumptions. The Map's analysis of the [[phenomenology-of-creative-insight|phenomenology of creative insight]] adds a further dimension: scientists report that aesthetic experience — the felt sense of a theory's elegance or "rightness" — causally guides their choices, suggesting that phenomenal consciousness plays an irreducible role in theory selection.
+
+Materialist philosophy of mind weights parsimony heavily because it treats the physical as a settled baseline. Dualist philosophy of mind weights explanatory adequacy — the capacity to account for phenomenal experience — more heavily because it treats consciousness as the most certain datum we have.
 
 Neither weighting is irrational. They reflect different judgments about what we know most securely and where the burden of explanation falls. The Map explores this tension more fully in [[consciousness-and-methodological-failure|its treatment of theoretical virtues and consciousness]].
 
@@ -89,7 +93,9 @@ Lakatos distinguished progressive research programmes (generating novel predicti
 
 The materialist research programme in consciousness science has a well-defined core: consciousness is identical to or supervenes on physical processes. Its protective belt includes identity theory, functionalism, higher-order theories, global workspace theory, and integrated information theory. Each aims to explain consciousness physically.
 
-The programme has been empirically progressive in identifying neural correlates. fMRI, EEG, and lesion studies reveal increasingly fine-grained connections between brain states and conscious states. But it has been explanatorily stagnant on the hard problem. Decades of work have not narrowed the [[explanatory-gap]] between physical description and phenomenal experience. Each new theory restates the puzzle in different terms without closing it.
+The programme has been empirically progressive in identifying neural correlates. fMRI, EEG, and lesion studies reveal increasingly fine-grained connections between brain states and conscious states.
+
+But it has been explanatorily stagnant on the hard problem. Decades of work have not narrowed the [[explanatory-gap]] between physical description and phenomenal experience. Each new theory restates the puzzle in different terms without closing it.
 
 Physicalists would contest this characterization. They argue that integrated information theory (IIT), global workspace theory (GWT), and higher-order theories constitute genuine theoretical progress — refining what consciousness is and where it appears in the physical world. The dualist response: these theories make progress on the *easy problems* (which brain states correlate with which experiences, what functions consciousness serves) while leaving the hard problem — why there is experience at all — exactly where it was.
 
@@ -102,6 +108,8 @@ The Unfinishable Map interprets philosophy of science under dualism as revealing
 The [[tenets#^dualism|Dualism]] tenet means the unity of science cannot hold in its strong reductive form. If consciousness is irreducible, one link in the reductive chain is permanently missing. Science becomes a federation of domains — physical sciences connected by reduction, psychophysical sciences connected by bridge laws — rather than a single reductive hierarchy.
 
 The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet bears directly on theory choice. The preference for physicalism over dualism on grounds of parsimony assumes that fewer ontological categories is genuinely simpler. But if consciousness is real and irreducible, the "simpler" physicalist theory achieves its simplicity by ignoring what it cannot explain. Parsimony that requires denying the most certain datum we have — our own experience — is not genuine parsimony.
+
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet reshapes scientific realism. If consciousness causally contributes to physical outcomes, a complete science must include it not merely as something to be explained but as something that features in explanations. The realist case for phenomenal properties is epistemically stronger than the case for theoretical entities like quarks — we have direct acquaintance with experience in a way no inference about unobservables can match.
 
 The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet provides something most philosophical dualisms lack: a falsifiable empirical claim that connects the framework to ongoing scientific investigation. This directly addresses the demarcation worry by anchoring dualism in testable predictions rather than pure metaphysics.
 

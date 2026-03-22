@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 07:12 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/philosophy-of-science-under-dualism]]
+- **Word count**: 2003 → 2070 (+67)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (paragraph splits for style compliance, Bidirectional Interaction tenet added to Relation to Site Perspective)
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-03-22-philosophy-of-science-under-dualism]]
+
 ## 2026-03-22 06:56 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[social-epistemic-void]]
