@@ -4,7 +4,7 @@ description: "Memory is not storage but structured re-experiencing—and the hie
 created: 2026-02-08
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-22T14:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -133,7 +133,7 @@ Tracking how a memory's phenomenal character changes through consolidation revea
 
 **Months to years**: Recall produces gist rather than texture. The [[anoetic-noetic-autonoetic-consciousness|autonoetic quality]] diminishes—the memory feels more like knowing (noetic) than reliving (autonoetic). Emotional tone persists but in a transformed register. Specific sensory details survive only through rehearsal or strong emotional charge.
 
-**Decades**: For most memories, schematisation is nearly complete. The event has become a semantic fact: "I attended that school," "We lived in that house." Proustian moments—involuntary recalls triggered by sensory cues—can temporarily restore vivid detail, suggesting that some hippocampal traces persist but are not normally accessed.
+**Decades**: For most memories, schematisation is nearly complete. The event has become a semantic fact: "I attended that school," "We lived in that house." Proustian moments—involuntary recalls triggered by sensory cues—can temporarily restore vivid detail, suggesting that some hippocampal traces persist but are not normally accessed. The trajectory's endpoint is childhood amnesia—the universal inability to retrieve episodic memories from before age three to four. The [[infant-consciousness|infant consciousness void]] reveals that this amnesia is not merely forgetting but architectural destruction: the immature hippocampal circuits that encoded early experience are physically remodelled, and the absence of autonoetic self-concept means infant memories were never stored in formats the adult retrieval system can access.
 
 This trajectory describes a systematic transformation of phenomenal character that physicalists must explain. Functionalists can point to the different computational roles played by hippocampal versus cortical retrieval, but this relocates the problem: it explains *that* the functional profile changes, not *why* functional change produces the specific qualitative shift from vivid re-experiencing to bare knowing. Predictive processing accounts can frame schematisation as increasing predictive compression, but they still face the gap between describing an information-theoretic transformation and explaining why compression should feel like anything at all. Complementary Learning Systems (CLS) models explain *why* memories schematise—the hippocampal system learns rapidly and retains contextual specifics, while the cortical system extracts statistical regularities through slow interleaved replay (McClelland et al., 1995)—but they track the information trajectory without addressing the phenomenal one. The variable that tracks the qualitative shift most closely is hippocampal involvement—which, on the Map's framework, is where the [[attention-as-interface|consciousness interface]] engages most directly with memory traces.
 

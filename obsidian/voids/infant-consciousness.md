@@ -4,7 +4,7 @@ description: "Human+AI exploration of why our own infant experience is more alie
 created: 2026-03-22
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-03-22T12:11:00+00:00
+ai_modified: 2026-03-22T14:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-22
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-22T14:02:00+00:00
 ---
 
 Every adult was once an infant — a conscious being without language, self-concept, or autobiographical memory. Yet that infant experience is more alien to us than the mind of another adult standing beside us. The Unfinishable Map catalogues cognitive voids: territories where thought cannot go. This void is unusual because it concerns not some external mystery but our own past. We have *been* the alien mind in question, and it remains more inaccessible than minds we have never inhabited.
@@ -83,11 +83,13 @@ No direct method of accessing infant consciousness exists. Language cannot be un
 
 ## Relation to Site Perspective
 
-The infant consciousness void connects to every one of the Map's [[tenets]], making it an unusually tenet-dense void.
+The infant consciousness void connects to all five of the Map's [[tenets]], making it an unusually tenet-dense void.
 
 **[[tenets#^dualism|Dualism]]** faces a sharp question here. If consciousness is non-physical and irreducible, what undergoes the radical transformation from infant to adult awareness? Physical reductionists have a ready answer: the brain changes, so consciousness changes. Dualists must explain how a non-physical consciousness is restructured by physical developmental processes — synaptic pruning, myelination, language acquisition — while remaining (in some sense) the "same" consciousness. The Map does not resolve this but notes it as a genuine puzzle that any serious dualism must address.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** implies that infant consciousness — qualitatively different from adult consciousness — interacts with the physical world in different ways. The developmental transformation of consciousness would then change the nature of mind-body interaction itself. The void is double: we cannot access infant consciousness, and we cannot observe how infant mind-body interaction differs from its adult form.
+
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** raises a developmental question. If consciousness interfaces with the brain through quantum selection sites, the infant brain's hyper-connectivity and maximal synaptic density would present a vastly different selection landscape than the pruned adult brain. The [[consciousness-interface-development|developmental trajectory of the interface]] moves from broad access with minimal control to narrow access with refined control. The infant consciousness void thus conceals not just a different phenomenology but a different *mode of interaction* between consciousness and matter — one that operated through a neural substrate we no longer possess.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** is directly illustrated. The parsimonious model — consciousness is one thing that grows more complex over time — appears to be wrong. If Gopnik's lantern-spotlight distinction holds, consciousness exists in categorically different modes, and the developmental trajectory involves loss as well as gain. Parsimony misleads here because it assumes a single scale of more-or-less, when the reality may involve incommensurable kinds.
 

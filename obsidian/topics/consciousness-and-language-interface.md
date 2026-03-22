@@ -4,7 +4,7 @@ description: "How consciousness and language interact bidirectionally: language 
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-22T14:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -61,7 +61,7 @@ This formatting operates through [[working-memory|working memory]]. Holding a li
 
 The shaping is real but not total. Several considerations limit language's reach:
 
-**Pre-linguistic experience persists.** Infants experience before language; animals experience without human language; adult experience includes non-verbal dimensions that linguistic framing cannot fully restructure.
+**Pre-linguistic experience persists.** Infants experience before language; animals experience without human language; adult experience includes non-verbal dimensions that linguistic framing cannot fully restructure. The [[infant-consciousness|infant consciousness void]] reveals the deepest consequence: language does not merely add capability but demolishes the pre-linguistic cognitive architecture, making the original mode of experience permanently inaccessible.
 
 **Novel experiences resist formatting.** Genuinely new experiences—a colour never seen, a sound never heard—arrive with phenomenal character before language catches up. Language may subsequently reshape the memory, but the original experience precedes linguistic structuring.
 

@@ -4,7 +4,7 @@ description: "Tulving's tripartite hierarchy classifies consciousness by self-aw
 created: 2026-02-15
 modified: 2026-03-02
 human_modified:
-ai_modified: 2026-03-19T07:16:00+00:00
+ai_modified: 2026-03-22T14:02:00+00:00
 last_deep_review: 2026-03-11T03:23:00+00:00
 draft: false
 topics:
@@ -58,7 +58,7 @@ Noetic consciousness introduces a reflexive dimension absent from anoetic awaren
 
 *Autonoetic* (Greek: *autos* "self" + *noein* "to know") consciousness accompanies [[episodic-memory|episodic memory]] and enables mental time travel. When remembering a past event, the autonoetic subject is simultaneously present as the rememberer *here now* and as the protagonist *there then*. This double presence of self, the felt sense of pastness, and the qualitative character of re-living distinguish autonoetic from noetic awareness.
 
-Wheeler, Stuss, and Tulving (1997) defined autonoetic consciousness as "the capacity that allows adult humans to mentally represent and to become aware of their protracted existence across time." The *remember/know* paradigm operationalises this distinction: subjects who "remember" an item re-experience its encoding context (autonoetic), while those who "know" it recognise it without re-experiencing (noetic)—same information, different [[phenomenal-consciousness|phenomenal]] accompaniment.
+Wheeler, Stuss, and Tulving (1997) defined autonoetic consciousness as "the capacity that allows adult humans to mentally represent and to become aware of their protracted existence across time." This capacity emerges between ages four and six — before which children operate in anoetic and noetic modes without the temporal self-projection that defines adult cognition. The [[infant-consciousness|infant consciousness void]] explores the consequence: the pre-autonoetic mode of experience is permanently inaccessible to the adult who has developed it, because the very apparatus of autonoetic self-awareness prevents simulating its absence. The *remember/know* paradigm operationalises this distinction: subjects who "remember" an item re-experience its encoding context (autonoetic), while those who "know" it recognise it without re-experiencing (noetic)—same information, different [[phenomenal-consciousness|phenomenal]] accompaniment.
 
 ## The Constitutive-Contingent Debate
 

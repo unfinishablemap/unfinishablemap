@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate infant-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-22 via expand-topic. Add cross-references from related articles — inaccessible-past.md, other-minds-void.md, indexical-void.md, transition-void.md, three-kinds-of-void.md — or update voids index to include navigation to this content.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-22
-
 ### P2: Cross-review inaccessible-past.md considering infant consciousness void insights
 - **Type**: cross-review
 - **Notes**: New article obsidian/voids/infant-consciousness.md explores the paradox of having been a consciousness we can never recover. inaccessible-past.md covers the inaccessibility of past experience generally and may benefit from cross-references to this specific, vivid instance of temporal inaccessibility. Check for reinforcing arguments and add [[infant-consciousness]] link.
@@ -1155,6 +1149,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Integrate infant-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-22 via expand-topic. Add cross-references from related articles — inaccessible-past.md, other-minds-void.md, indexical-void.md, transition-void.md, three-kinds-of-void.md — or update voids index to include navigation to this content.
+- **Output**: obsidian/voids/infant-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-22: Update references from social-epistemic-void to intersubjective-void
 - **Type**: cross-review

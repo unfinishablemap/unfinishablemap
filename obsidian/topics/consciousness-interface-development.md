@@ -3,7 +3,7 @@ title: "The Consciousness-Brain Interface Across Development"
 created: 2026-02-15
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-22T14:02:00+00:00
 draft: false
 description: "How the consciousness-brain interface transforms across the lifespan through qualitative restructurings, with critical periods, cognitive stages, skill acquisition, and cross-species comparison revealing what shapes the interface."
 topics:
@@ -48,7 +48,7 @@ The Unfinishable Map's [[mind-matter-interface|interface model]] treats the brai
 
 The infant brain is hyper-connected — roughly twice the synaptic density of an adult brain — and maximally plastic. This gives infant consciousness broad perceptual access: universal phoneme discrimination, cross-race face recognition, possible synesthetic cross-modal integration. But control is minimal. Infant attention is salience-driven, reflexive, at the mercy of environmental stimulation.
 
-The Map's framework interprets this as an interface that offers many potential [[concepts/consciousness-selecting-neural-patterns|quantum selection sites]] but limited capacity to exploit them deliberately. Consciousness encounters a broad landscape of potential interactions with an immature attentional mechanism that cannot yet choose among them systematically. The result is the paradox of infant consciousness: more access, less agency.
+The Map's framework interprets this as an interface that offers many potential [[concepts/consciousness-selecting-neural-patterns|quantum selection sites]] but limited capacity to exploit them deliberately. Consciousness encounters a broad landscape of potential interactions with an immature attentional mechanism that cannot yet choose among them systematically. The result is the paradox of infant consciousness: more access, less agency. The [[infant-consciousness|infant consciousness void]] examines the epistemic consequence — this broad-access, low-control configuration is permanently inaccessible to the adult mind that emerged from it.
 
 Piaget's sensorimotor period captures this configuration: cognition is inseparable from action. The infant does not think about objects and then act — thinking *is* acting, reaching, grasping, mouthing. The interface channels consciousness directly into motor engagement with the environment. Object permanence — understanding that objects exist when unperceived — emerges gradually as the interface gains capacity to maintain representations independently of current sensory input.
 

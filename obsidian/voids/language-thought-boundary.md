@@ -3,7 +3,7 @@ title: "The Language-Thought Boundary"
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-03-17T08:14:00+00:00
+ai_modified: 2026-03-22T14:02:00+00:00
 draft: false
 description: "Where thought exceeds language: visual cognition, qualia, and the limits of articulation. What ineffability reveals about consciousness."
 topics: []
@@ -48,7 +48,7 @@ A harder question: are there thoughts thinkable but not expressible in *any* nat
 
 Temple Grandin reports cognition operating through detailed mental imagery—solving engineering problems by "running simulations" in her head. Einstein described insights emerging from visual thought experiments before translation into equations. For strong visual thinkers, translating thought into language is *lossy*—something is left behind.
 
-Mathematical intuition operates similarly. Mathematicians often "see" a proof's validity before articulating it; the formal proof is a translation of something pre-linguistic. Infants demonstrate cognition before language—object permanence, causal reasoning, numerical competence. Thought, it seems, can exceed what any language captures.
+Mathematical intuition operates similarly. Mathematicians often "see" a proof's validity before articulating it; the formal proof is a translation of something pre-linguistic. Infants demonstrate cognition before language—object permanence, causal reasoning, numerical competence. The [[infant-consciousness|infant consciousness void]] reveals the deeper implication: not only does thought exceed language, but the acquisition of language permanently destroys the pre-linguistic mode of thought, making it inaccessible even to introspection.
 
 ### Conceptual Limits
 

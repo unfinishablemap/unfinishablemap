@@ -4,7 +4,7 @@ description: "Each consciousness is sealed within itself, able to infer but neve
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-22T14:02:00+00:00
 draft: false
 last_deep_review: 2026-03-02T00:52:00+00:00
 topics:
@@ -69,7 +69,7 @@ Certain moments pierce the ordinary invisibility:
 
 **Mystical or psychedelic reports.** Some experiences produce a sense of transcending the self-other boundary—"merging" with another consciousness or with everything. The return to ordinary separateness makes the usual isolation salient by contrast.
 
-**Developmental awakening.** Children around age four develop "theory of mind"—recognising that others have different beliefs. This is an *achievement*, not a given; before it, children treat their own perspective as universal.
+**Developmental awakening.** Children around age four develop "theory of mind"—recognising that others have different beliefs. This is an *achievement*, not a given; before it, children treat their own perspective as universal. The [[infant-consciousness|infant consciousness void]] explores the deeper implication: the pre-theory-of-mind infant experienced a qualitatively different mode of consciousness that the adult can never recover.
 
 ## Philosophical Responses
 
