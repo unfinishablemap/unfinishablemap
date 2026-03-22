@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 03:41 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/responsibility-gradient-from-attentional-capacity]]
+- **Word count**: 2466 → 2549 (+83)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (uncited references, compatibilism distinction)
+- **Enhancements made**: 5 (4 inline citations integrated, 1 paragraph sharpened)
+- **Output**: [[reviews/deep-review-2026-03-22-responsibility-gradient-from-attentional-capacity]]
+
 ## 2026-03-22 03:27 UTC - deep-review
 - **Status**: Skipped (archived)
 - **File**: parsimony-failure-consciousness.md (archived 2026-03-21)

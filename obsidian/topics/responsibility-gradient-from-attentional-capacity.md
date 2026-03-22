@@ -4,7 +4,7 @@ description: "Moral responsibility is not binary but graded by attentional capac
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-22T03:41:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-02-24T00:51:00+00:00
+last_deep_review: 2026-03-22T03:41:00+00:00
 ---
 
 Moral responsibility is not binary. The Unfinishable Map's [[attentional-economics|attentional economics]] framework implies that if agency scales with attentional capacity, then so does moral desert. An agent with full attentional resources—rested, undistracted, emotionally regulated, trained in deliberation—bears more responsibility for a harmful choice than one whose attentional capacity is depleted, impaired, or overwhelmed. The framework is a structural consequence of taking seriously the claim that consciousness influences the physical world through a bandwidth-limited channel.
@@ -42,7 +42,7 @@ The responsibility gradient framework developed here makes this implication syst
 
 Traditional accounts of [[moral-responsibility]] require three conditions: control (could have done otherwise), sourcehood (the agent originated the action), and knowledge (the agent understood what they were doing). The Map's [[agent-causation]] framework grounds all three in consciousness's role as selector among quantum-indeterminate neural states.
 
-But selection operates through attention. The [[attention-as-interface]] hypothesis identifies attention as the channel through which consciousness exerts causal influence. [[control-theoretic-will|Control-theoretic will]] formalises this: consciousness is a low-bandwidth controller (~10 bits/second) that gates, stabilises, and steers neural dynamics rather than computing them. If this is correct, then the quality and scope of an agent's attentional capacity directly determines how much control, sourcehood, and knowledge they can exercise at any given moment.
+But selection operates through attention. The [[attention-as-interface]] hypothesis identifies attention as the channel through which consciousness exerts causal influence. [[control-theoretic-will|Control-theoretic will]] formalises this: consciousness is a low-bandwidth controller (~10 bits/second, drawing on Meister's 2024 analysis of perceptual limits) that gates, stabilises, and steers neural dynamics rather than computing them. If this is correct, then the quality and scope of an agent's attentional capacity directly determines how much control, sourcehood, and knowledge they can exercise at any given moment.
 
 An agent with impaired attentional capacity hasn't lost consciousness—they remain a subject of experience, a genuine agent. But their controller is operating with degraded bandwidth, noisy sensors, or reduced authority over the plant. The moral weight of their choices should reflect this.
 
@@ -52,7 +52,7 @@ Attentional capacity is not a single variable. The responsibility gradient opera
 
 ### Bandwidth
 
-[[working-memory|Working memory]] capacity (~4±1 items) determines how many considerations an agent can hold simultaneously during deliberation. Genuine moral reasoning often requires holding the action, its consequences, the affected parties, and applicable principles together in awareness. An agent with temporarily or chronically reduced working memory capacity—through fatigue, intoxication, developmental factors, or neurological damage—can entertain fewer of these simultaneously. Their deliberation is structurally impoverished, not because they don't care but because they cannot hold enough threads to reason well.
+[[working-memory|Working memory]] capacity (~4±1 items per Cowan, 2001) determines how many considerations an agent can hold simultaneously during deliberation. Genuine moral reasoning often requires holding the action, its consequences, the affected parties, and applicable principles together in awareness. An agent with temporarily or chronically reduced working memory capacity—through fatigue, intoxication, developmental factors, or neurological damage—can entertain fewer of these simultaneously. Their deliberation is structurally impoverished, not because they don't care but because they cannot hold enough threads to reason well.
 
 This dimension affects the *knowledge* requirement most directly. You cannot be fully responsible for consequences you lacked the bandwidth to foresee.
 
@@ -109,7 +109,7 @@ Consider three cases:
 
 **Cultivated capacity.** An emergency physician who has trained extensively in decision-making under pressure has expanded their effective attentional capacity for crisis situations. When they perform well under conditions that would overwhelm an untrained agent, their expanded capacity reflects prior investment. Conversely, an agent who has had opportunities to train and has refused bears more responsibility for attention-demanding moral failures than one who never had access to training.
 
-The cultivation principle means the gradient is temporally extended. Responsibility for a moment's choice may depend on choices made years earlier about developing or neglecting attentional resources.
+The cultivation principle means the gradient is temporally extended. Responsibility for a moment's choice may depend on choices made years earlier about developing or neglecting attentional resources. Schwartz and Begley (2002) provide neuroplasticity evidence that sustained attentional practice physically reshapes neural circuits—cultivation is not merely metaphorical but structurally real.
 
 ## The Control-Theoretic Interpretation
 
@@ -131,9 +131,9 @@ This interpretation clarifies why the gradient has a floor: total loss of contro
 
 The dominant alternatives to graded responsibility are both unsatisfying within the Map's framework.
 
-**Standard compatibilism** holds that agents are responsible if they act on reasons they endorse. Sophisticated versions—notably Fischer and Ravizza's (1998) reasons-responsiveness theory—recognise that responsiveness comes in degrees, and some compatibilists already accept graded responsibility. But compatibilist accounts ground these degrees in neural function, not in the structural constraints on a conscious controller's bandwidth. The Map's framework explains *why* conditions as diverse as fatigue, poverty, and ADHD all diminish responsibility through the same mechanism: they narrow the attentional channel through which consciousness exercises genuine selection. Without this explanatory unification, compatibilist grading remains descriptive rather than mechanistic.
+**Standard compatibilism** holds that agents are responsible if they act on reasons they endorse. Sophisticated versions—notably Fischer and Ravizza's (1998) reasons-responsiveness theory—already accept that responsiveness comes in degrees, yielding graded responsibility. The Map's framework agrees with this grading but identifies what compatibilism leaves unexplained: *why* conditions as diverse as fatigue, poverty, and ADHD all diminish responsibility through the same mechanism. The answer is that they all narrow the attentional channel through which consciousness exercises genuine selection. Compatibilist accounts catalogue the conditions that reduce responsiveness; the Map's framework unifies them under a single causal architecture—a bandwidth-limited conscious controller whose effective authority degrades predictably when its parameters are constrained.
 
-**Hard determinism** eliminates responsibility entirely, treating all attentional variation as just another link in the causal chain. But this denies what the Map affirms: that consciousness genuinely selects among open possibilities, and that this selection constitutes authorship. Attentional capacity modulates the scope of selection; it does not eliminate selection itself.
+**Hard determinism** eliminates responsibility entirely, treating all attentional variation as just another link in the causal chain. But this denies what the Map affirms—and what Kane (1996) argues from a libertarian perspective: that consciousness genuinely selects among open possibilities, and that this selection constitutes authorship. Attentional capacity modulates the scope of selection; it does not eliminate selection itself.
 
 The gradient occupies the space between these extremes. Agents are genuine authors of their choices (against hard determinism), but the breadth and depth of their authorship varies with the attentional resources available for the authoring (against naive compatibilism).
 
@@ -141,7 +141,7 @@ The moral implications extend in both directions. Where most discussions of grad
 
 ## Objections
 
-**"This lets everyone off the hook."** No. Full attentional capacity is the default for healthy adults in ordinary conditions. The gradient applies primarily at the margins—extreme conditions, genuine impairments, and systemic disadvantages. Most moral failures occur within the range of full or near-full capacity. The gradient adds nuance without dissolving responsibility.
+**"This lets everyone off the hook."** No. As Strawson (1962) recognised, our reactive attitudes—resentment, gratitude, indignation—are calibrated to perceived capacity. Full attentional capacity is the default for healthy adults in ordinary conditions. The gradient applies primarily at the margins—extreme conditions, genuine impairments, and systemic disadvantages. Most moral failures occur within the range of full or near-full capacity. The gradient adds nuance without dissolving responsibility.
 
 **"Attentional capacity can't be measured, so the gradient is useless in practice."** Attentional capacity is better characterised than most psychological constructs. Working memory span, sustained attention tests, task-switching paradigms, and attentional blink measures all provide operationalisable proxies. The gradient doesn't require precise measurement to be morally illuminating—it requires acknowledging that capacity varies and that this variation matters.
 
@@ -178,6 +178,7 @@ The moral implications extend in both directions. Where most discussions of grad
 
 ## References
 
+1. Cowan, N. (2001). The magical number 4 in short-term memory. *Behavioral and Brain Sciences*, 24(1), 87-114.
 1. Fischer, J.M. & Ravizza, M. (1998). *Responsibility and Control*. Cambridge University Press.
 1. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
 1. Meister, M. (2024). The physical limits of perception. *Proceedings of the National Academy of Sciences*, 121(14), e2400258121.
