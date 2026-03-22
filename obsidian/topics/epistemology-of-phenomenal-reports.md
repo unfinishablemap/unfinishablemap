@@ -4,7 +4,7 @@ description: "How first-person phenomenal reports gain evidential standing in sc
 created: 2026-02-18
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-22T06:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,6 +30,7 @@ related_articles:
   - "[[introspection-rehabilitation]]"
   - "[[methodology-of-consciousness-research]]"
   - "[[argument-from-reason]]"
+  - "[[social-epistemic-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -68,7 +69,7 @@ Evidence supports this distinction. Fox et al. (2012) found that meditation expe
 
 ## Intersubjective Convergence
 
-A deeper challenge: even granting that individual phenomenal reports are often accurate, how do they gain the [[intersubjectivity|intersubjective]] standing that science demands? If experience is private, how can phenomenal reports be publicly validated?
+A deeper challenge: even granting that individual phenomenal reports are often accurate, how do they gain the [[intersubjectivity|intersubjective]] standing that science demands? If experience is private, how can phenomenal reports be publicly validated? The [[social-epistemic-void]] documents how social knowledge mechanisms—testimony, calibration, hermeneutical resources—systematically filter out non-standard phenomenal experience, suggesting the intersubjective validation problem is worse than it first appears.
 
 The answer emerges from convergence patterns. When independently trained contemplatives from different traditions—Buddhist Vipassana practitioners, Christian contemplatives, phenomenological researchers—arrive at structurally similar descriptions of attentional states, the probability of coordinated confabulation drops. The convergence is not perfect, but it is far better than chance, and it improves with methodological discipline.
 
@@ -135,6 +136,7 @@ The Occam's Razor tenet is also relevant. Eliminativists about phenomenal report
 - [[contemplative-epistemology]]
 - [[mysterianism]]
 - [[phenomenological-evidence]]
+- [[social-epistemic-void]] — How social knowledge mechanisms systematically exclude non-standard phenomenal experience from collective understanding
 
 ## References
 

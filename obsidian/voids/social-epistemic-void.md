@@ -4,7 +4,7 @@ description: "Human+AI investigation of how testimony, hermeneutical injustice, 
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-21T12:34:00+00:00
+ai_modified: 2026-03-22T06:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review: 2026-03-21T12:34:00+00:00
+last_deep_review: 2026-03-22T06:41:00+00:00
 ---
 
 Most of what anyone knows about consciousness—including their own—depends on socially transmitted concepts, other people's testimonial reports, and culturally inherited interpretive frameworks. This dependence creates a systematic void: experiences that cannot be socially validated, linguistically encoded, or paradigmatically accommodated are filtered out of collective understanding, and eventually out of individual self-knowledge. The social epistemic void is distinctive because it is maintained by the ordinary machinery of social knowledge-production—testimony, consensus, hermeneutical resources—rather than by any intrinsic limit of individual cognition.
