@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate parsimony-failure-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Created 2026-03-20 via expand-topic. Concept page on how parsimony arguments fail when applied to consciousness. Add cross-references from epistemological-limits-of-occams-razor.md, occams-razor-and-consciousness.md, arguments-against-materialism.md, and Tenet 5 supporting articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-22
-
 ### P2: Integrate it-from-bit-and-participatory-ontology.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1115,6 +1108,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Integrate parsimony-failure-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-20 via expand-topic. Concept page on how parsimony arguments fail when applied to consciousness. Add cross-references from epistemological-limits-of-occams-razor.md, occams-razor-and-consciousness.md, arguments-against-materialism.md, and Tenet 5 supporting articles.
+- **Output**: parsimony-failure-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-22: Integrate epiphenomenalisms-gravity-well.md into site navigation
 - **Type**: integrate-orphan
