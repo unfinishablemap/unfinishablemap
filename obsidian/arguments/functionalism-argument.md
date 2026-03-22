@@ -3,7 +3,7 @@ title: "Against Functionalism"
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-18T19:57:00+00:00
+ai_modified: 2026-03-22T18:32:00+00:00
 draft: false
 description: "Five converging arguments against functionalism—from absent qualia to the explanatory gap—showing consciousness is irreducible to functional organization."
 topics:
@@ -25,13 +25,13 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[concepts/materialism]]"
-  - "[[epiphenomenalism]]"
+  - "[[arguments/epiphenomenalism-argument]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-02-24T17:44:00+00:00
+last_deep_review: 2026-03-22T18:32:00+00:00
 ---
 
 Functionalism holds that mental states are defined by their functional roles—what they do rather than what they're made of. Pain is whatever state plays the pain role: caused by tissue damage, producing avoidance behavior, generating distress. On this view, consciousness is multiply realizable: the same mental state could occur in neurons, silicon, or alien biochemistry, provided the functional organization is right.
@@ -161,7 +161,7 @@ But illusionism faces a devastating regress. If the *appearance* of phenomenal c
 1. The seeming involves phenomenal properties—in which case phenomenal consciousness exists (the seeming *is* conscious experience)
 2. The seeming involves no phenomenal properties—in which case we need a further account of non-phenomenal seeming
 
-Option 2 generates an explanatory burden as severe as the hard problem. Raymond Tallis puts it sharply: "Misrepresentation presupposes presentation." All illusions presuppose experience. If physical matter cannot generate phenomenal consciousness, it certainly cannot generate the *illusion* of phenomenal consciousness.
+Option 2 generates an explanatory burden as severe as the hard problem. Raymond Tallis puts it sharply in *Aping Mankind* (2011): "Misrepresentation presupposes presentation." All illusions presuppose experience. If physical matter cannot generate phenomenal consciousness, it certainly cannot generate the *illusion* of phenomenal consciousness.
 
 Further evidence against illusionism comes from [[introspection|introspective access to phenomenal content]] (as distinct from processes) and [[witness-consciousness|contemplative phenomenology]], where practice *deepens* rather than dissolves the reality of experience—compounding the regress with illusions of illusions.
 
@@ -233,5 +233,6 @@ The Map's framework takes this seriously. Consciousness is irreducible to physic
 - Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 - Searle, J. (1980). "Minds, Brains, and Programs." *Behavioral and Brain Sciences*, 3(3), 417-424.
 - Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127-136.
+- Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen Publishing.
 - Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Hoel, E. (2026). "A Disproof of Large Language Model Consciousness." *Journal of Consciousness Studies*.
