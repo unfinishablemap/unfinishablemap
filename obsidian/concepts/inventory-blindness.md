@@ -4,7 +4,8 @@ description: "Human+AI analysis of inventory blindness—the epistemic condition
 created: 2026-03-22
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-03-22T22:49:00+00:00
+ai_modified: 2026-03-22T23:19:00+00:00
+last_deep_review: 2026-03-22T23:19:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,6 +20,8 @@ related_articles:
   - "[[voids]]"
   - "[[three-kinds-of-void]]"
   - "[[phenomenology-of-the-edge]]"
+  - "[[introspective-opacity]]"
+  - "[[epistemology-of-limit-knowledge]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -57,11 +60,13 @@ This distinguishes inventory blindness from related phenomena:
 
 **The unknown unknowns** of Rumsfeld's taxonomy come closest, but even this framing implies the unknown unknowns could in principle be enumerated from some more complete vantage point. Inventory blindness questions whether such a vantage point is available for any finite mind.
 
+The Dunning-Kruger effect (Kruger & Dunning, 1999) provides a measurable parallel in bounded domains: incompetence in a skill correlates with inability to recognise that incompetence, because the very skills needed to evaluate performance are the skills that are missing. Inventory blindness extends this logic from specific skills to cognitive architecture itself — from "I lack the skill to judge my skill" to "I lack the capacity to detect my missing capacities."
+
 ## Historical Evidence
 
 Kyle Stanford's problem of unconceived alternatives provides the strongest inductive case for inventory blindness in practice. Examining the history of science, Stanford (2006) demonstrated that scientists have repeatedly failed to conceive of theories that were both well-confirmed by existing evidence and later proved correct. Nineteenth-century physicists had the evidence for general relativity but lacked the conceptual framework to formulate it. The pattern is persistent enough to constitute an inductive argument: our current inventory of theories is almost certainly incomplete, though we cannot specify what is missing.
 
-The history of mathematics reinforces the point. Non-Euclidean geometry was conceivable for centuries before anyone conceived it — not because mathematicians were lazy but because Euclidean assumptions were so deeply embedded in spatial cognition that alternatives did not register as possibilities. The inventory of geometries was incomplete, and the incompleteness was invisible.
+The history of mathematics reinforces the point. Non-Euclidean geometry illustrates a subtler form: mathematicians questioned the parallel postulate for centuries and repeatedly tried to derive it from the other axioms, yet failed to construct the alternative framework that Lobachevsky and Bolyai eventually produced in the 1820s. The problem was not that the possibility of non-Euclidean geometry was inconceivable in principle — the parallel postulate's special status was visible — but that the conceptual tools for building a consistent alternative were absent. The inventory of *constructible geometries* was incomplete, and the incompleteness was invisible even to those probing the boundary.
 
 ## Application Across the Voids Framework
 
@@ -90,6 +95,8 @@ Inventory blindness engages the Map's [[tenets]] at a fundamental level.
 - [[architecture-of-cognitive-closure]]
 - [[parsimony-epistemology]]
 - [[phenomenology-of-the-edge]]
+- [[introspective-opacity]]
+- [[epistemology-of-limit-knowledge]]
 - [[voids]]
 
 ## References
