@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 00:32 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Russellian monism vs bi-aspectual dualism
+- **Output**: [[topics/russellian-monism-versus-bi-aspectual-dualism]]
+- **Word count**: 1916
+- **Based on research**: yes ([[russellian-monism-vs-bi-aspectual-dualism-2026-03-14]], [[russellian-monism-bi-aspectual-dualism-supplement-2026-03-17]])
+
 ## 2026-03-22 00:17 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-collapse-versus-decoherence-experiments]]

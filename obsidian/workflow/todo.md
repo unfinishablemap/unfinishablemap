@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on Russellian monism vs bi-aspectual dualism
-- **Type**: expand-topic
-- **Notes**: Two research notes completed (russellian-monism-vs-bi-aspectual-dualism-2026-03-14.md, russellian-monism-bi-aspectual-dualism-supplement-2026-03-17.md). Critical positioning piece: Russellian monism is the Map's closest competitor. Key differences — neutral monism vs genuine dualism, panpsychist tendencies, combination problem vulnerability. Covers Chalmers, Goff, Stoljar, cosmopsychism debate, Lockwood framework. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-21
-
 ### P2: Integrate surprise-and-creativity.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has only 1 inbound link (from surprise-prediction-error-and-consciousness.md). Add cross-references from related articles such as consciousness-and-creativity, predictive-processing-and-dualism, phenomenology-of-insight, or relevant concept pages. Update section index if needed.
@@ -1119,6 +1113,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Write article on Russellian monism vs bi-aspectual dualism
+- **Type**: expand-topic
+- **Notes**: Two research notes completed (russellian-monism-vs-bi-aspectual-dualism-2026-03-14.md, russellian-monism-bi-aspectual-dualism-supplement-2026-03-17.md). Critical positioning piece: Russellian monism is the Map's closest competitor. Key differences — neutral monism vs genuine dualism, panpsychist tendencies, combination problem vulnerability. Covers Chalmers, Goff, Stoljar, cosmopsychism debate, Lockwood framework. Target section: concepts/.
+- **Output**: Russellian monism vs bi-aspectual dualism
 
 ### ✓ 2026-03-22: Write article on the Gödel-measurement problem analogy
 - **Type**: expand-topic
