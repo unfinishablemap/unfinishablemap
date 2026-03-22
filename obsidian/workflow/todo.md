@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-22T01:59:00+00:00
+ai_modified: 2026-03-22T10:26:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review placebo-effect-and-mental-causation.md considering clinical neuroplasticity evidence
+- **Type**: cross-review
+- **Notes**: New article clinical-neuroplasticity-evidence-for-bidirectional-causation.md provides systematic clinical evidence (CBT-driven neural restructuring, meditation-induced cortical thickening, phantom limb neuroplasticity) directly relevant to placebo-effect-and-mental-causation.md. Check for cross-links, complementary clinical evidence, and whether the placebo article's claims about content-specific causation are reinforced by neuroplasticity data.
+- **Source**: chain (from clinical-neuroplasticity-evidence-for-bidirectional-causation.md)
+- **Generated**: 2026-03-22
+
+### P2: Cross-review the-epiphenomenalist-threat.md considering clinical neuroplasticity evidence
+- **Type**: cross-review
+- **Notes**: New article clinical-neuroplasticity-evidence-for-bidirectional-causation.md provides clinical evidence that mental states produce lasting structural brain changes — direct counter-evidence to epiphenomenalism. Check whether the-epiphenomenalist-threat.md should reference neuroplasticity as empirical evidence against the epiphenomenalist position, and add cross-links.
+- **Source**: chain (from clinical-neuroplasticity-evidence-for-bidirectional-causation.md)
+- **Generated**: 2026-03-22
+
+### P2: Cross-review comparing-quantum-consciousness-mechanisms.md considering consciousness-collapse vs decoherence experiments
+- **Type**: cross-review
+- **Notes**: New article consciousness-collapse-versus-decoherence-experiments.md surveys experimental approaches to distinguishing consciousness-collapse from decoherence-only accounts. The comparing-quantum-consciousness-mechanisms.md article compares mechanism theories and should reference these experimental tests as empirical discriminators between the mechanisms it surveys. Check for cross-links and whether experimental feasibility assessments affect the mechanism comparison.
+- **Source**: chain (from consciousness-collapse-versus-decoherence-experiments.md)
+- **Generated**: 2026-03-22
 
 ### P3: Explore feminist philosophy of consciousness
 - **Type**: expand-topic
