@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review dualism articles considering russellian-monism-versus-bi-aspectual-dualism.md
-- **Type**: cross-review
-- **Notes**: New article obsidian/topics/russellian-monism-versus-bi-aspectual-dualism.md compares the Map's bi-aspectual ontology to its closest competitor (Russellian monism). Check naturalistic-dualism, property-dualism, dual-aspect-monism, and panpsychism articles for cross-links, consistency of positioning claims, and potential contradictions. Directly relevant to Tenet 1 (Dualism).
-- **Source**: chain (from russellian-monism-versus-bi-aspectual-dualism.md)
-- **Generated**: 2026-03-22
-
 ### P2: Cross-review epiphenomenalism articles considering arguments-against-epiphenomenalism.md
 - **Type**: cross-review
 - **Notes**: New concept page obsidian/concepts/arguments-against-epiphenomenalism.md consolidates anti-epiphenomenalism arguments. Check the-epiphenomenalist-threat.md and mental-causation.md for cross-links, reinforcing arguments, and consistency. Supports Tenet 3 (Bidirectional Interaction).
@@ -1185,6 +1179,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Cross-review dualism articles considering russellian-monism-versus-bi-aspectual-dualism.md
+- **Type**: cross-review
+- **Notes**: New article obsidian/topics/russellian-monism-versus-bi-aspectual-dualism.md compares the Map's bi-aspectual ontology to its closest competitor (Russellian monism). Check naturalistic-dualism, property-dualism, dual-aspect-monism, and panpsychism articles for cross-links, consistency of positioning claims, and potential contradictions. Directly relevant to Tenet 1 (Dualism).
+- **Output**: obsidian/topics/russellian-monism-versus-bi-aspectual-dualism.md -- Context: Cross-review dualism articles considering russellian-monism-versus-bi-aspectual-dualism.md
 
 ### ✓ 2026-03-22: Update references to coalesced self-reference-paradox article
 - **Type**: cross-review

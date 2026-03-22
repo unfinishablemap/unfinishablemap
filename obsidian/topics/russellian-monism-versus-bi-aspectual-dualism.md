@@ -4,13 +4,14 @@ description: "Two frameworks agree physics is structurally incomplete, then dive
 created: 2026-03-22
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-03-22T02:11:00+00:00
+ai_modified: 2026-03-22T20:34:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[russellian-monism]]"
   - "[[bi-aspectual-ontology]]"
+  - "[[dualism]]"
   - "[[interactionist-dualism]]"
   - "[[panpsychism]]"
   - "[[combination-problem]]"
@@ -29,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-22
 last_curated:
-last_deep_review: 2026-03-22T02:11:00+00:00
+last_deep_review: 2026-03-22T20:34:00+00:00
 ---
 
 The Unfinishable Map and [[russellian-monism|Russellian monism]] start from the same insight: physics describes only the relational structure of matter — what things *do* — not what they *are*. Both conclude that consciousness cannot be reduced to structural description. Then they diverge. Russellian monism says consciousness *is* the intrinsic nature of physical entities, making mind and body two faces of one stuff. The Map's [[bi-aspectual-ontology|bi-aspectual dualism]] says consciousness is ontologically distinct from physical structure and causally interacts with it at quantum indeterminacies. This divergence — identity versus interaction — determines everything downstream: whether the [[combination-problem|combination problem]] arises, whether consciousness does genuine causal work, and whether many-worlds interpretation remains viable. Recent work by Pautz (2017), Cutter (2019), and Kind (2015) argues that Russellian monism's middle path between physicalism and dualism is unstable. The Map's explicit interactionist dualism is the stable endpoint that Russellian monism approaches but cannot occupy.
@@ -62,7 +63,7 @@ The Map avoids both problems. Individual conscious subjects are fundamental — 
 
 Cutter (2019) argues that Russellian monism is not a stable resting place between physicalism and dualism. The epistemic arguments that motivate rejecting physicalism — the conceivability of [[philosophical-zombies|zombies]], the [[knowledge-argument|knowledge argument]] — apply equally to Russellian monism. If structural-functional duplicates could lack consciousness (against physicalism), then quiddity-structural duplicates could also lack consciousness (against Russellian monism). Kind (2015) reaches a parallel conclusion through different reasoning: non-physicalist variants of Russellian monism collapse into dualism, while physicalist variants collapse into standard physicalism. The programme does not break free of the divide it claims to transcend.
 
-"Russellian monism does not offer a comfortable resting place — one must turn back or else march on to dualism" (Cutter 2019). The Map has marched on.
+"Russellian monism does not offer a comfortable resting place — one must turn back or else march on to [[dualism]]" (Cutter 2019). The Map has marched on.
 
 ### The Epiphenomenalism Return
 
