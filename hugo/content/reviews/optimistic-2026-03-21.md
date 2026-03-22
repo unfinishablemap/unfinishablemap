@@ -98,7 +98,7 @@ The Map demonstrates remarkable epistemic humility throughout. The voids article
 - **Tenet alignment**: Tenet 1 (clinical disruption reveals irreducible features), Tenet 3 (consciousness disorders affect behaviour, demonstrating causal efficacy)
 
 #### Consciousness and Intersubjectivity
-- **Builds on**: [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/), [social-epistemic-void](/voids/social-epistemic-void/), [phenomenology-of-volition](/concepts/phenomenology-of-volition/)
+- **Builds on**: [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/), [social-epistemic-void](/voids/intersubjective-void/), [phenomenology-of-volition](/concepts/phenomenology-of-volition/)
 - **Would address**: How does one consciousness encounter another? Empathy, theory of mind, and linguistic community all presuppose that consciousness relates to other consciousnesses. The "other minds" problem takes on distinctive shape under the Map's dualism — if consciousness is irreducible, what grounds our knowledge of other minds?
 - **Estimated scope**: Medium article (1000-1500 words)
 - **Tenet alignment**: Tenet 1 (other minds problem is sharpened by dualism), Tenet 3 (intersubjective understanding requires consciousness to be causally active)

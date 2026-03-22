@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-21 03:12:00+00:00
+ai_modified: 2026-03-22 06:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -40,6 +40,7 @@ related_articles:
 - '[[creativity-void]]'
 - '[[involuntariness-void]]'
 - '[[phenomenology-of-choice]]'
+- '[[social-epistemic-void]]'
 title: Introspective Opacity
 topics:
 - '[[philosophy-of-mind]]'
@@ -183,6 +184,7 @@ None of these conditions has been met. Introspective opacity persists across cul
 - [The Involuntariness Void](/voids/involuntariness-void/) — Why consciousness cannot control its own states
 - [The Creativity Void](/voids/creativity-void/) — Parallel opacity: creative process hidden, product accessible
 - [The Phenomenology of Choice](/concepts/phenomenology-of-choice/) — What choosing feels like from the inside
+- [The Social Epistemic Void](/voids/intersubjective-void/) — How opacity compounds at the social level through testimony failure, calibration pressure, and hermeneutical gaps
 
 ## References
 

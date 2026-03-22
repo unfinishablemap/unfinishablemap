@@ -164,7 +164,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 
 - [Evolved Cognitive Limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for shared limits
 - [Collective Cognitive Limits](/voids/collective-cognitive-limits/) — What groups cannot think
-- [The Social Epistemic Void](/voids/social-epistemic-void/) — How testimony and social calibration suppress phenomenal knowledge
+- [The Social Epistemic Void](/voids/intersubjective-void/) — How testimony and social calibration suppress phenomenal knowledge
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — Evolved versus engineered constraints
 - [Tenet-Generated Voids](/voids/tenet-generated-voids/) — Limits implied by the Map's commitments
 - [The Historical Consciousness Void](/voids/historical-consciousness-void/) — Whether consciousness itself has changed over historical time

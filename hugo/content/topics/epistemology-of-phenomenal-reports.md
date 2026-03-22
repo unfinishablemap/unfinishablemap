@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-22 06:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -33,6 +33,7 @@ related_articles:
 - '[[introspection-rehabilitation]]'
 - '[[methodology-of-consciousness-research]]'
 - '[[argument-from-reason]]'
+- '[[social-epistemic-void]]'
 title: Epistemology of Phenomenal Reports in Science
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -70,7 +71,7 @@ Evidence supports this distinction. Fox et al. (2012) found that meditation expe
 
 ## Intersubjective Convergence
 
-A deeper challenge: even granting that individual phenomenal reports are often accurate, how do they gain the [intersubjective](/concepts/intersubjectivity/) standing that science demands? If experience is private, how can phenomenal reports be publicly validated?
+A deeper challenge: even granting that individual phenomenal reports are often accurate, how do they gain the [intersubjective](/concepts/intersubjectivity/) standing that science demands? If experience is private, how can phenomenal reports be publicly validated? The [social-epistemic-void](/voids/intersubjective-void/) documents how social knowledge mechanisms—testimony, calibration, hermeneutical resources—systematically filter out non-standard phenomenal experience, suggesting the intersubjective validation problem is worse than it first appears.
 
 The answer emerges from convergence patterns. When independently trained contemplatives from different traditions—Buddhist Vipassana practitioners, Christian contemplatives, phenomenological researchers—arrive at structurally similar descriptions of attentional states, the probability of coordinated confabulation drops. The convergence is not perfect, but it is far better than chance, and it improves with methodological discipline.
 
@@ -137,6 +138,7 @@ The Occam's Razor tenet is also relevant. Eliminativists about phenomenal report
 - [contemplative-epistemology](/concepts/contemplative-epistemology/)
 - [mysterianism](/concepts/mysterianism/)
 - [phenomenological-evidence](/concepts/phenomenological-evidence/)
+- [social-epistemic-void](/voids/intersubjective-void/) — How social knowledge mechanisms systematically exclude non-standard phenomenal experience from collective understanding
 
 ## References
 

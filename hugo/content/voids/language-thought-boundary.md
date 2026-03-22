@@ -130,7 +130,7 @@ Why? Several possibilities:
 
 **Privacy and publicity**: Grasping a concept requires something like intersubjective triangulation—we check our understanding against others'. But I cannot check whether my red matches yours. Without triangulation, genuine conceptual formation may be impossible.
 
-The qualia case suggests that ineffability isn't always a deficiency in our language. Some content may be *constitutively* private, unable in principle to enter the public domain that language requires. The [social-epistemic-void](/voids/social-epistemic-void/) explores how this privacy compounds at the social level: experiences that resist linguistic encoding are progressively filtered out of collective discourse through hermeneutical injustice, social calibration, and the spiral of silence.
+The qualia case suggests that ineffability isn't always a deficiency in our language. Some content may be *constitutively* private, unable in principle to enter the public domain that language requires. The [social-epistemic-void](/voids/intersubjective-void/) explores how this privacy compounds at the social level: experiences that resist linguistic encoding are progressively filtered out of collective discourse through hermeneutical injustice, social calibration, and the spiral of silence.
 
 ## Relation to Site Perspective
 

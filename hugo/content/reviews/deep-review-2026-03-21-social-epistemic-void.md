@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-21
-**Article**: [The Social Epistemic Void](/voids/social-epistemic-void/)
+**Article**: [The Social Epistemic Void](/voids/intersubjective-void/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

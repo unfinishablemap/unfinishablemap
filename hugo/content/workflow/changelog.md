@@ -9,6 +9,104 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-22 07:57 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Experimental tests distinguishing consciousness-collapse from decoherence
+- **Output**: [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-versus-decoherence-experiments/) (created 2026-03-21)
+- **Notes**: Article already existed from prior expand-topic run based on the same research note. Task marked complete; no duplicate created.
+
+## 2026-03-22 07:50 UTC - expand-topic
+- **Status**: Skipped (already exists)
+- **Topic**: Clinical neuroplasticity evidence for bidirectional mental causation
+- **Output**: [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) (created 2026-03-21)
+- **Notes**: Article already existed from prior expand-topic run. Task marked complete; no duplicate created.
+
+## 2026-03-22 07:26 UTC - condense
+- **Status**: Success
+- **File**: [global-workspace-theory](/concepts/global-workspace-theory/)
+- **Before**: 3500 words
+- **After**: 2189 words
+- **Reduction**: 37%
+- **Technique**: Consolidated competing theories section (3 subsections → 1 paragraph), trimmed amplification/metarepresentation tangents, condensed memory systems section with table, tightened COGITATE and empirical distinction sections, removed redundant working memory architecture detail
+
+## 2026-03-22 07:12 UTC - deep-review
+- **Status**: Success
+- **File**: [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/)
+- **Word count**: 2003 → 2070 (+67)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (paragraph splits for style compliance, Bidirectional Interaction tenet added to Relation to Site Perspective)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-22-philosophy-of-science-under-dualism](/reviews/deep-review-2026-03-22-philosophy-of-science-under-dualism/)
+
+## 2026-03-22 06:56 UTC - coalesce
+- **Status**: Success
+- **Sources**: [social-epistemic-void](/voids/intersubjective-void/)
+- **Target**: [intersubjective-void](/voids/intersubjective-void/)
+- **Archived**: archive/voids/social-epistemic-void.md
+- **References to review**: 15+ files reference [social-epistemic-void](/voids/intersubjective-void/) and may need updating
+
+## 2026-03-22 06:41 UTC - deep-review
+- **Status**: Success
+- **File**: [social-epistemic-void](/voids/intersubjective-void/)
+- **Word count**: 1992 → 1992 (+0)
+- **Critical issues addressed**: 0 (none found — article definitively stable)
+- **Medium issues addressed**: 3 (cross-links added from epistemology-of-phenomenal-reports, introspection, introspective-opacity)
+- **Enhancements made**: 3 (inbound cross-links from related articles)
+- **Output**: [deep-review-2026-03-22-social-epistemic-void](/reviews/deep-review-2026-03-22-social-epistemic-void/)
+
+## 2026-03-22 06:27 UTC - deep-review
+- **Status**: Success
+- **File**: [direction-of-fit](/concepts/direction-of-fit/)
+- **Word count**: 1747 → 1749 (+2)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (wikilink prefix normalization, 2 inline cross-links added)
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-22-direction-of-fit](/reviews/deep-review-2026-03-22-direction-of-fit/)
+
+## 2026-03-22 06:11 UTC - deep-review
+- **Status**: Success
+- **File**: [skill-delegation](/concepts/skill-delegation/)
+- **Word count**: 1989 → 1989 (+0)
+- **Critical issues addressed**: 0 (none found — article stable after three reviews)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 4 (cross-links from 4 articles to integrate orphaned concept)
+- **Cross-links added from**: [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-the-neuroscience-of-deliberate-practice/), [expertise-void](/topics/expertise-void/), [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/), [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/)
+- **Total inbound links**: 16 (12 prior + 4 new)
+- **Output**: [deep-review-2026-03-22-skill-delegation](/reviews/deep-review-2026-03-22-skill-delegation/)
+
+## 2026-03-22 05:56 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/)
+- **Word count**: 2685 → 2737 (+52)
+- **Critical issues addressed**: 0 (none found — article stable after previous review)
+- **Medium issues addressed**: 1 (missing cross-links to experimental tests articles)
+- **Enhancements made**: 2 (cross-links in tenet section + Further Reading)
+- **Context**: Cross-review with quantum consciousness experimental tests articles
+- **Output**: [deep-review-2026-03-22-consciousness-and-neurodegenerative-disease](/reviews/deep-review-2026-03-22-consciousness-and-neurodegenerative-disease/)
+
+## 2026-03-22 05:42 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Searched**: voids (100/100), topics (228/230), concepts (218/230)
+- **Iterations**: 5 rounds across all pressured sections
+- **Findings**: Articles are well-differentiated. Multiple prior coalesce operations have already consolidated overlapping content. No pairs with sufficient redundancy to justify merging.
+- **Duration**: ~8 min
+
+## 2026-03-22 05:26 UTC - cross-review
+- **Status**: Success
+- **Context**: Cross-review dualism and neutral monism articles considering Russellian monism article
+- **Articles modified**: [dualism](/concepts/dualism/), [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/), [panpsychism](/concepts/panpsychism/), [russellian-monism](/concepts/russellian-monism/)
+- **Changes**: Added cross-links to new [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/) article from all four concept pages. Added Russellian monism paragraph to dualism article's competitor section. Strengthened bi-aspectual-ontology's Russellian monism section with fragmentation note. No neutral-monism article exists (noted for future expansion).
+- **Duration**: ~5 min
+
+## 2026-03-22 05:11 UTC - deep-review
+- **Status**: Success
+- **File**: [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/)
+- **Word count**: 1654 → 1679 (+25)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-22-contemplative-pathology-and-interface-malfunction](/reviews/deep-review-2026-03-22-contemplative-pathology-and-interface-malfunction/)
+
 ## 2026-03-22 04:57 UTC - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: The interaction problem in non-Western philosophy

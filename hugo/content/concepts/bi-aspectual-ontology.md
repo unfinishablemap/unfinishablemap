@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-22 05:26:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,6 +31,7 @@ related_articles:
 - '[[psychophysical-laws]]'
 - '[[bi-aspectual-ontology-dual-aspect-traditions-2026-03-14]]'
 - '[[russellian-monism-vs-bi-aspectual-dualism-2026-03-14]]'
+- '[[russellian-monism-versus-bi-aspectual-dualism]]'
 title: Bi-Aspectual Ontology
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -94,7 +95,7 @@ The Map parts company at the crucial juncture. If consciousness simply *is* the 
 
 The Map holds instead that consciousness is ontologically distinct from physical structure and interacts with it at quantum indeterminacies. Physics is structurally complete but *ontologically incomplete* — it describes all structure but not all of reality. Consciousness is the missing ontology, not the missing intrinsic nature of the ontology physics already describes.
 
-As Pautz (2017) and Cutter (2020) have argued, Russellian monism faces instability: it requires the same brute linking principles as dualism (connecting quiddities to consciousness) while claiming the parsimony advantage of monism. If the explanatory costs are the same, the monist label buys less than it appears to.
+As Pautz (2017) and Cutter (2020) have argued, Russellian monism faces instability: it requires the same brute linking principles as dualism (connecting quiddities to consciousness) while claiming the parsimony advantage of monism. If the explanatory costs are the same, the monist label buys less than it appears to. The programme has further fragmented into incompatible variants — panpsychist, cosmopsychist, physicalist, dual-aspect — that share only the structuralist premise while disagreeing on everything it was meant to settle (see [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/) for the full comparison).
 
 ## Distinguished from Substance Dualism
 
@@ -149,6 +150,7 @@ Bi-aspectual ontology is the Map's foundational metaphysical picture, connecting
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's specific form of dualism, with quantum interaction mechanism
 - [psychophysical-laws](/concepts/psychophysical-laws/) — How the two aspects are lawfully related
 - [russellian-monism](/concepts/russellian-monism/) — The closest monist competitor, and why the Map diverges
+- [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/) — Direct comparison: why the Map's explicit dualism is the stable endpoint
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — Information as the interface medium between aspects
 - [measurement-problem](/concepts/measurement-problem/) — The quantum puzzle that marks the boundary between aspects
 - [substance-property-dualism](/concepts/substance-property-dualism/) — The traditional dualist options the Map navigates between

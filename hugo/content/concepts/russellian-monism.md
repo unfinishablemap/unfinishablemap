@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-20 01:15:00+00:00
+ai_modified: 2026-03-22 05:26:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -33,6 +33,7 @@ related_articles:
 - '[[interactionist-dualism]]'
 - '[[intrinsic-nature-void]]'
 - '[[russellian-monism-2026-01-15]]'
+- '[[russellian-monism-versus-bi-aspectual-dualism]]'
 title: Russellian Monism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -148,6 +149,7 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 - [consciousness-and-the-ontology-of-dispositions](/topics/consciousness-and-the-ontology-of-dispositions/) — How the powerful qualities framework offers an alternative to quiddities
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics cannot capture intrinsic nature
 - [interactionist-dualism](/concepts/interactionist-dualism/) — the Map's preferred alternative
+- [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/) — Direct comparison with the Map's bi-aspectual dualism
 - [combination-problem](/concepts/combination-problem/) — The central challenge for Russellian panpsychism
 - [illusionism](/concepts/illusionism/) — The rival view denying phenomenal properties exist
 - [mysterianism](/concepts/mysterianism/) — Whether cognitive closure explains the combination problem

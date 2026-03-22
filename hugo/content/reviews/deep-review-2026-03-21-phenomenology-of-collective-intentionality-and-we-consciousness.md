@@ -47,11 +47,11 @@ No new counterarguments beyond those documented in previous reviews. Bedrock dis
 - Added cross-link to [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) in the Interface Problem section, connecting the article's resolution to the broader intersubjectivity framework's third position (ontologically individual, phenomenologically enriched)
 - Added [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) to Further Reading
 - Added [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) to topics frontmatter
-- Added [social-epistemic-void](/voids/social-epistemic-void/) to related_articles frontmatter
+- Added [social-epistemic-void](/voids/intersubjective-void/) to related_articles frontmatter
 
 ### Cross-links Added
 - [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/)
-- [social-epistemic-void](/voids/social-epistemic-void/)
+- [social-epistemic-void](/voids/intersubjective-void/)
 
 ## Remaining Items
 

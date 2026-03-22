@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-03-19 23:02:00+00:00
+ai_modified: 2026-03-22 05:26:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -32,6 +32,7 @@ related_articles:
 - '[[integrated-information-theory]]'
 - '[[consciousness-and-integrated-information]]'
 - '[[origin-of-consciousness]]'
+- '[[russellian-monism-versus-bi-aspectual-dualism]]'
 title: Panpsychism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -192,6 +193,7 @@ But the Map thinks interactionist dualism offers a cleaner solution. Consciousne
 - [combination-problem](/concepts/combination-problem/) — The central challenge facing panpsychism
 - [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/) — In-depth treatment of the combination problem's variants and responses
 - [russellian-monism](/concepts/russellian-monism/) — The most developed theoretical framework for panpsychism
+- [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/) — Why the Map's explicit dualism is preferable to Russellian monism's unstable middle path
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's framework where experience is fundamental to actuality
 - [idealism](/concepts/idealism/) — Broader treatment of idealist positions, including analytic idealism as an alternative that claims to avoid the combination problem
 - [analytic-idealism-and-mind-centric-metaphysics](/topics/analytic-idealism-and-mind-centric-metaphysics/) — Comparative survey of mind-centric frameworks including panpsychism, idealism, and dualism

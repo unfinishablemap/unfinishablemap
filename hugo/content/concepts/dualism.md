@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-20 14:28:00+00:00
+ai_modified: 2026-03-22 05:26:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -63,6 +63,7 @@ related_articles:
 - '[[topics/free-will]]'
 - '[[analytic-idealism-and-mind-centric-metaphysics]]'
 - '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
+- '[[russellian-monism-versus-bi-aspectual-dualism]]'
 title: Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -178,9 +179,11 @@ Every mental state correlates with brain states. But correlation is compatible w
 
 Perhaps "consciousness" doesn't refer to anything real. But this strategy is self-undermining: we cannot coherently discover that "experiences don't exist"—the discovery would itself be an experience. Even if introspection *misrepresents* the nature of experience, the misrepresentation is itself an experience with phenomenal character.
 
-## Why Dualism, Not Idealism?
+## Why Dualism, Not Idealism or Russellian Monism?
 
 The anti-materialist arguments are also claimed by [idealism](/concepts/idealism/)—particularly analytic idealism, which holds consciousness is the sole ontological primitive. Three reasons favour dualism. Physical reality resists us in ways suggesting genuine ontological independence. The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) requires two genuinely distinct domains for cross-domain causation to be meaningful. And idealism faces its own combination problem: explaining how one universal consciousness fragments into billions of apparently isolated subjects. See [idealism](/concepts/idealism/) and [analytic idealism](/topics/analytic-idealism-and-mind-centric-metaphysics/) for detailed treatment.
+
+[Russellian monism](/concepts/russellian-monism/) presents a subtler challenge: it agrees that physics is structurally incomplete and that consciousness is irreducible, then claims consciousness *is* the intrinsic nature of matter—monism wearing dualist insights. But Cutter (2019) and Kind (2015) argue the position is unstable: the same anti-physicalist arguments that motivate Russellian monism push it toward outright dualism. The Map's [bi-aspectual dualism](/concepts/bi-aspectual-ontology/) is the stable endpoint Russellian monism approaches but cannot occupy. See [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/) for the full comparison.
 
 ## What Would Challenge This View?
 
@@ -208,7 +211,7 @@ Combined with the [Bidirectional Interaction](/tenets/#bidirectional-interaction
 
 **Varieties and context:** [substance-property-dualism](/concepts/substance-property-dualism/), [intuitive-dualism](/concepts/intuitive-dualism/), [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/), [buddhism-and-dualism](/concepts/buddhism-and-dualism/)
 
-**Alternative frameworks:** [idealism](/concepts/idealism/), [analytic idealism](/topics/analytic-idealism-and-mind-centric-metaphysics/)
+**Alternative frameworks:** [idealism](/concepts/idealism/), [analytic idealism](/topics/analytic-idealism-and-mind-centric-metaphysics/), [Russellian monism vs bi-aspectual dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/)
 
 **Formal arguments:** [Against Materialism](/arguments/materialism-argument/)
 

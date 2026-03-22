@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-22 06:27:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[agent-causation]]'
 - '[[mental-causation]]'
 - '[[interactionist-dualism]]'
-- '[[concepts/epiphenomenalism]]'
+- '[[epiphenomenalism]]'
 - '[[cognitive-phenomenology]]'
 created: 2026-02-23
 date: &id001 2026-02-23
@@ -19,7 +19,7 @@ description: Direction of fit classifies mental states by whether mind adapts to
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-23 22:50:00+00:00
+last_deep_review: 2026-03-22 06:27:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -64,11 +64,11 @@ Direction of fit is not merely descriptive but *normative*. A belief that fails 
 
 This normativity is difficult to capture in purely physical terms. Neural circuits do implement error signals and correction mechanisms that track reliability—Bayesian updating, prediction error minimisation, synaptic adjustment. These implement normative-like structure. But the *phenomenal* dimension of normativity—the felt sense that a belief is *wrong*, the experienced pull of a desire toward its object—is not obviously captured by describing these mechanisms. The gap parallels the broader [explanatory gap](/concepts/explanatory-gap/): just as describing neural correlates does not entail phenomenal experience, describing error-correction circuitry does not entail that a state *ought* to match reality.
 
-If [phenomenal intentionality theory](/concepts/intentionality/#phenomenal-intentionality-theory) is correct and genuine intentional content requires phenomenal consciousness, then direction of fit inherits this requirement. The normative structure of mental states—the way beliefs *should* track truth and desires *should* guide action—may be grounded in phenomenal character rather than functional role alone.
+If [phenomenal intentionality theory](/concepts/intentionality/#phenomenal-intentionality-theory) is correct and genuine intentional content requires phenomenal consciousness, then direction of fit inherits this requirement. The normative structure of mental states—the way beliefs *should* track truth and desires *should* guide action—may be grounded in [phenomenal character](/concepts/cognitive-phenomenology/) rather than functional role alone.
 
 ## World-to-Mind Fit and Mental Causation
 
-The world-to-mind direction of fit carries special weight for the mind-body problem. Desires and intentions aim to *change reality*. When you intend to raise your arm, the content of the intention specifies a state of affairs that does not yet obtain, and the intention functions to bring that state about.
+The world-to-mind direction of fit carries special weight for the [mind-body problem](/concepts/mental-causation/). Desires and intentions aim to *change reality*. When you intend to raise your arm, the content of the intention specifies a state of affairs that does not yet obtain, and the intention functions to bring that state about.
 
 For this to work, the intentional state must be causally efficacious. The intention must actually cause the arm to rise. If mental states with world-to-mind fit are [epiphenomenal](/concepts/epiphenomenalism/)—causally inert accompaniments of neural activity—then their directedness toward changing the world is an illusion. They "aim" at nothing because they do nothing.
 

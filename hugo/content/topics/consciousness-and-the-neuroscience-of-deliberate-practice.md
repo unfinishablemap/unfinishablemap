@@ -54,7 +54,7 @@ During early skill learning, neuroimaging consistently shows heavy prefrontal co
 
 As skills consolidate, activity shifts from prefrontal to striatal and cerebellar circuits. Poldrack et al. (2001) documented this competition between memory systems in a probabilistic classification task: early trials activated hippocampal and prefrontal systems (declarative, conscious processing), while later trials activated the caudate nucleus (procedural, automatic processing). The two systems competed—increased striatal engagement correlated with decreased hippocampal engagement. Poldrack et al. (2005) extended this picture to motor learning, showing that as a serial reaction time task became automatic, prefrontal activation decreased while striatal activity increased.
 
-This transfer maps onto the phenomenological arc described in the Map's treatment of [skill acquisition](/topics/consciousness-and-skilled-performance/): the shift from effortful rule-following to absorbed competence. Neuroscience adds a specific mechanism: the prefrontal cortex, under conscious direction, establishes patterns that are gradually encoded into faster, more efficient subcortical systems. The architect (prefrontal/conscious) builds structures that the maintenance crew (striatal/procedural) then operates.
+This transfer maps onto the phenomenological arc described in the Map's treatment of [skill acquisition](/topics/consciousness-and-skilled-performance/): the shift from effortful rule-following to absorbed competence. The three-phase pattern of [skill-delegation](/concepts/skill-delegation/)—conscious calibration, progressive withdrawal, and retained override capacity—finds its neural correlate in this prefrontal-to-striatal handoff. Neuroscience adds a specific mechanism: the prefrontal cortex, under conscious direction, establishes patterns that are gradually encoded into faster, more efficient subcortical systems. The architect (prefrontal/conscious) builds structures that the maintenance crew (striatal/procedural) then operates.
 
 The philosophical question: does consciousness *drive* this transfer, or merely accompany it? Passive observation of skill-relevant stimuli does not produce the same corticostriatal shift. Active, engaged practice is required. The neural distinction between watching someone play piano and practising piano oneself is not subtle—it involves fundamentally different circuits and produces fundamentally different plasticity. This is the [mental-causation](/concepts/mental-causation/) question made empirically concrete.
 
@@ -108,6 +108,7 @@ What the data do constrain is the epiphenomenalist position. If the phenomenal q
 
 ## Further Reading
 
+- [skill-delegation](/concepts/skill-delegation/) — The three-phase delegation pattern (calibration, withdrawal, retained override) that corticostriatal transfer instantiates
 - [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/) — The full phenomenological arc of skill acquisition, including why consciousness builds systems that replace it
 - [neuroplasticity](/concepts/neuroplasticity/) — Schwartz's evidence that directed attention reshapes brain structure
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — What happens when consciousness re-enters automated skills

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-22 05:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Neurodegenerative diseases progressively dismantle cognitive facult
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-23 22:05:00+00:00
+last_deep_review: 2026-03-22 05:56:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -32,6 +32,8 @@ related_articles:
 - '[[phenomenology-of-understanding-and-meaning]]'
 - '[[contemplative-pathology-and-interface-malfunction]]'
 - '[[identity-across-transformations]]'
+- '[[experimental-design-for-consciousness-collapse-testing]]'
+- '[[consciousness-collapse-versus-decoherence-experiments]]'
 title: Consciousness and Neurodegenerative Disease
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -98,7 +100,7 @@ Production models—where the brain generates consciousness—face specific diff
 
 **The terminal lucidity puzzle**: If the brain generates cognition, severely atrophied brains should not easily support sudden returns to cognitive clarity. Materialist explanations for terminal lucidity—transient neurochemical surges, temporary disinhibition, complex-systems failure dynamics—are individually plausible for mild improvements. The challenge grows if future prospective studies confirm cases involving sustained lucidity and specific memory retrieval in patients with extensive cortical destruction. At present, the anecdotal evidence base means this remains a puzzle rather than a decisive objection.
 
-**The emotional persistence problem**: Emotional responsiveness in severe dementia often appears disproportionate to the neural resources available. Patients respond to tone of voice, facial expression, and musical atmosphere with appropriate emotions even when cognitive assessment suggests minimal neural integration. If emotions are produced by neural circuits, severely degraded circuits should produce degraded emotions. Instead, emotional experience appears remarkably resilient.
+**The emotional persistence problem**: Emotional responsiveness in severe dementia often appears disproportionate to the neural resources available. Patients respond to tone of voice, facial expression, and musical atmosphere with appropriate emotions even when cognitive assessment suggests minimal neural integration. If emotions are produced by neural circuits, severely degraded circuits should produce degraded emotions. Instead, emotional responsiveness appears remarkably resilient.
 
 ## What Would Challenge This View?
 
@@ -120,7 +122,7 @@ The Unfinishable Map's [tenets](/tenets/) converge on neurodegenerative disease 
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If terminal lucidity is confirmed by prospective research as involving genuine cognitive recovery beyond what residual neural capacity can explain, it would suggest consciousness can sometimes engage with even severely damaged neural tissue to produce coherent cognition. On that reading, consciousness would not be merely along for the ride—[epiphenomenal](/concepts/epiphenomenalism/)—but actively engaged with remaining neural resources. This interpretation is conditional on the evidence base strengthening beyond its current anecdotal state.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Neurodegeneration may constrain where consciousness-brain interaction occurs. If the quantum interface requires specific neural structures—perhaps in posterior cortical regions or subcortical nuclei—then diseases that spare those structures would preserve conscious experience while destroying higher cognitive functions. The pattern of late-surviving phenomenal awareness might map onto the preservation of quantum-level interaction sites.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Neurodegeneration may constrain where consciousness-brain interaction occurs. If the quantum interface requires specific neural structures—perhaps in posterior cortical regions or subcortical nuclei—then diseases that spare those structures would preserve conscious experience while destroying higher cognitive functions. The pattern of late-surviving phenomenal awareness might map onto the preservation of quantum-level interaction sites. Whether such quantum-level interaction is real remains an open empirical question—the [experimental landscape for testing consciousness-collapse](/topics/experimental-design-for-consciousness-collapse-testing/) is narrowing the parameter space, with [ongoing experiments](/topics/consciousness-collapse-versus-decoherence-experiments/) constraining which collapse models remain viable.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The personal identity question in neurodegeneration demands determinate answers. Either the severely demented patient *is* the person she was—the same indexical subject with fewer tools—or she is not. Many-worlds interpretations, where all possible outcomes are equally real, would treat the identity question as indeterminate: in some branches the patient retains identity, in others she doesn't. The Map insists this question has a fact of the matter. The phenomenological evidence—that *something it is like to be her* persists—favours continuity of the conscious subject even through radical cognitive change.
 
@@ -143,6 +145,8 @@ The Unfinishable Map's [tenets](/tenets/) converge on neurodegenerative disease 
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — Interface degradation through practice versus disease
 - [identity-across-transformations](/apex/identity-across-transformations/) — How indexical identity persists through radical change
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — How dopamine prepares the selection interface that Parkinson's disease disrupts
+- [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/) — Can the quantum interaction posited here be tested experimentally?
+- [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-versus-decoherence-experiments/) — The narrowing experimental landscape for collapse models
 
 ## References
 

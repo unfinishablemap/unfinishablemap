@@ -125,7 +125,7 @@ The asymmetry matters for the Map's framework in three ways:
 - [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/) — "We-consciousness" and shared intentionality
 - [other-minds-void](/voids/other-minds-void/) — The constitutive gap between individual consciousnesses
 - [intersubjective-void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared
-- [social-epistemic-void](/voids/social-epistemic-void/) — How social knowledge systems systematically exclude non-standard phenomenal experience
+- [social-epistemic-void](/voids/intersubjective-void/) — How social knowledge systems systematically exclude non-standard phenomenal experience
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemic puzzle that intersubjectivity addresses
 - [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/) — Why social construction requires phenomenal subjects
 - [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/) — How dualism reshapes knowledge of other minds

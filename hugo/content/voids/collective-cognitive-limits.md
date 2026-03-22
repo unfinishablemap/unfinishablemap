@@ -53,7 +53,7 @@ Eviatar Zerubavel's work on "conspiracies of silence" describes a different mech
 
 This is Occluded territory rather than Unexplorable. The elephant isn't invisible; it's defended—a form of [cognitive-aversion](/voids/cognitive-aversion/) operating at the group level. Each conspirator's silence is "symbiotically complemented by others'." Breaking silence requires going from awareness to acknowledgment—a social transition, not merely an individual cognitive act.
 
-Zerubavel documents this across domains: family secrets, institutional cover-ups, national myths. The universality suggests something structural about collective cognition rather than contingent failures of particular groups. Minds coordinated through social structure develop shared blind spots as a feature, not a bug. The [social-epistemic-void](/voids/social-epistemic-void/) examines how these mechanisms operate specifically on phenomenal reports—testimony, hermeneutical injustice, and the spiral of silence filtering non-standard conscious experience from collective discourse.
+Zerubavel documents this across domains: family secrets, institutional cover-ups, national myths. The universality suggests something structural about collective cognition rather than contingent failures of particular groups. Minds coordinated through social structure develop shared blind spots as a feature, not a bug. The [social-epistemic-void](/voids/intersubjective-void/) examines how these mechanisms operate specifically on phenomenal reports—testimony, hermeneutical injustice, and the spiral of silence filtering non-standard conscious experience from collective discourse.
 
 The phenomenology differs from paradigm blindness. Approaching the elephant produces social discomfort—a sense that naming the obvious would be transgressive. You *can* think it; you feel pressure not to express or even fully acknowledge it. This contrasts with Kuhn's paradigm-bound scientist who genuinely cannot see the alternative.
 
@@ -145,7 +145,7 @@ The mapping project therefore requires triangulation: individual minds probing w
 - [AI as Void-Explorer](/voids/ai-as-void-explorer/) — Using artificial minds to probe human limits
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Phenomenology of slippage mechanisms
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — Individual cognitive closure analysis
-- [The Social Epistemic Void](/voids/social-epistemic-void/) — How testimony and social calibration suppress phenomenal knowledge
+- [The Social Epistemic Void](/voids/intersubjective-void/) — How testimony and social calibration suppress phenomenal knowledge
 
 ## References
 

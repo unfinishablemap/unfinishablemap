@@ -38,38 +38,38 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review dualism and neutral monism articles considering Russellian monism article
+### P2: Cross-review social-construction-of-self-vs-phenomenal-self.md considering consciousness-and-intersubjectivity insights
 - **Type**: cross-review
 - **Status**: pending
-- **Notes**: New article topics/russellian-monism-versus-bi-aspectual-dualism.md (2026-03-22) compares Russellian monism with the Map's bi-aspectual dualism. Check bi-aspectual-dualism, neutral-monism, panpsychism, and dualism articles for cross-links, reinforcing arguments, or terminology that needs alignment with the new comparative treatment.
-- **Source**: chain (from russellian-monism-versus-bi-aspectual-dualism.md)
+- **Notes**: New article consciousness-and-intersubjectivity.md (2026-03-21) explores how one consciousness encounters another — empathy, theory of mind, linguistic community. Check social-construction-of-self-vs-phenomenal-self.md for cross-links, reinforcing arguments about phenomenal selfhood in intersubjective contexts, and consistency of treatment of the other minds problem.
+- **Source**: chain (from consciousness-and-intersubjectivity.md)
 - **Generated**: 2026-03-22
 
-### P2: Cross-review quantum consciousness articles considering experimental tests article
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/experimental-design-for-consciousness-collapse-testing.md (2026-03-21) presents falsifiable experimental designs. Check comparing-quantum-consciousness-mechanisms, non-retrocausal-conscious-selection-models, and consciousness-selecting-neural-patterns for cross-links to the experimental framework and consistency of empirical claims.
-- **Source**: chain (from experimental-design-for-consciousness-collapse-testing.md)
-- **Generated**: 2026-03-22
-
-### P2: Integrate skill-delegation.md into site navigation
+### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
-- **Notes**: File has no inbound links. Add cross-references from related articles (e.g., mental-causation, consciousness-and-agency, delegatory-dualism, baseline-cognition) or update section index pages to include navigation to this content.
+- **Notes**: File has no inbound links. Created 2026-03-15 via expand-topic from research on Konkoly et al. targeted memory reactivation during REM. Add cross-references from related articles (dream-consciousness, lucid-dreaming-as-capability-evidence, consciousness-and-memory) or update section index pages.
 - **Source**: orphan_integration
 - **Generated**: 2026-03-22
 
-### P2: Integrate social-epistemic-void.md into site navigation
+### P2: Integrate death-phenomenology-beyond-ndes.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
-- **Notes**: File has no inbound links. Add cross-references from related voids articles (e.g., taxonomy-of-voids, tenet-generated-voids) and topic articles on intersubjectivity or social epistemology to include navigation to this content.
+- **Notes**: File has no inbound links. Created 2026-03-11. Topics article on death phenomenology beyond near-death experiences. Add cross-references from related articles (death-and-consciousness, terminal-lucidity, consciousness-and-neurodegenerative-disease) or update section index pages.
 - **Source**: orphan_integration
 - **Generated**: 2026-03-22
 
-### P2: Condense global-workspace-theory.md (3500 words, 140% of target)
+### P2: Integrate consciousness-and-collective-intentionality.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Created 2026-02-15. Topics article on collective intentionality and shared consciousness. Add cross-references from related articles (consciousness-and-intersubjectivity, other-minds, social-construction-of-self-vs-phenomenal-self) or update section index pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-22
+
+### P2: Condense intersubjective-void.md (3144 words, 105% of hard threshold)
 - **Type**: condense
 - **Status**: pending
-- **Notes**: Article exceeds 3500-word hard warning threshold for concepts/. Preserve core GWT exposition and tenet-relevant analysis while removing redundancy. Recently refined for accuracy — focus on length reduction without losing corrections.
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Recently grew via coalesce merging social-epistemic-void.md into it (2026-03-22). Preserve core arguments about intersubjective cognitive limits while removing redundancy from the merge. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-03-22
 
@@ -1149,6 +1149,46 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Write article on experimental tests distinguishing consciousness-collapse from decoherence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Covers Chalmers & McQueen (2021) IIT+CSL testable predictions, Gran Sasso Diósi-Penrose constraints, and levitated optomechanical proposals. Critical for Tenet 2 (Minimal Quantum Interaction) — the Map needs to engage with empirical prospects for its core mechanism. Target section: topics/.
+- **Output**: experimental tests distinguishing consciousness-collapse from decoherence
+
+### ✓ 2026-03-22: Write article on clinical neuroplasticity evidence for bidirectional mental causation
+- **Type**: expand-topic
+- **Notes**: Research completed in research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md. Four converging evidence streams — Schwartz's self-directed neuroplasticity in OCD, psychotherapy-induced brain changes via neuroimaging meta-analyses, meditation-driven structural remodelling, and placebo-stimulated neuroplasticity — demonstrate intentional mental activity produces lasting neural changes. Directly supports Tenet 3 (Bidirectional Interaction). Target section: topics/.
+- **Output**: clinical neuroplasticity evidence for bidirectional mental causation
+
+### ✓ 2026-03-22: Condense global-workspace-theory.md (3500 words, 140% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard warning threshold for concepts/. Preserve core GWT exposition and tenet-relevant analysis while removing redundancy. Recently refined for accuracy — focus on length reduction without losing corrections.
+- **Output**: obsidian/concepts/global-workspace-theory.md
+
+### ✓ 2026-03-22: Update references to coalesced social-epistemic-void
+- **Type**: cross-review
+- **Notes**: Coalesce merged social-epistemic-void into intersubjective-void. The following files reference the archived article and may need wikilink updates: concepts/intersubjectivity.md, concepts/introspection.md, voids/other-minds-void.md, voids/language-thought-boundary.md, voids/introspective-opacity.md, voids/framework-void.md, voids/voids.md, voids/collective-cognitive-limits.md, voids/transparency-void.md, topics/epistemology-of-phenomenal-reports.md, topics/consciousness-and-the-limits-of-explanation.md, topics/phenomenology-of-collective-intentionality-and-we-consciousness.md, topics/consciousness-and-testimony.md, topics/consciousness-and-intersubjectivity.md
+- **Output**: None -- Context: Update references to coalesced social-epistemic-void
+
+### ✓ 2026-03-22: Integrate social-epistemic-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Add cross-references from related voids articles (e.g., taxonomy-of-voids, tenet-generated-voids) and topic articles on intersubjectivity or social epistemology to include navigation to this content.
+- **Output**: obsidian/voids/social-epistemic-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-22: Integrate skill-delegation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Add cross-references from related articles (e.g., mental-causation, consciousness-and-agency, delegatory-dualism, baseline-cognition) or update section index pages to include navigation to this content.
+- **Output**: obsidian/concepts/skill-delegation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-22: Cross-review quantum consciousness articles considering experimental tests article
+- **Type**: cross-review
+- **Notes**: New article topics/experimental-design-for-consciousness-collapse-testing.md (2026-03-21) presents falsifiable experimental designs. Check comparing-quantum-consciousness-mechanisms, non-retrocausal-conscious-selection-models, and consciousness-selecting-neural-patterns for cross-links to the experimental framework and consistency of empirical claims.
+- **Output**: None -- Context: Cross-review quantum consciousness articles considering experimental tests article
+
+### ✓ 2026-03-22: Cross-review dualism and neutral monism articles considering Russellian monism article
+- **Type**: cross-review
+- **Notes**: New article topics/russellian-monism-versus-bi-aspectual-dualism.md (2026-03-22) compares Russellian monism with the Map's bi-aspectual dualism. Check bi-aspectual-dualism, neutral-monism, panpsychism, and dualism articles for cross-links, reinforcing arguments, or terminology that needs alignment with the new comparative treatment.
+- **Output**: None -- Context: Cross-review dualism and neutral monism articles considering Russellian monism article
 
 ### ✓ 2026-03-22: Write concept page on the interaction problem in non-Western philosophy
 - **Type**: expand-topic

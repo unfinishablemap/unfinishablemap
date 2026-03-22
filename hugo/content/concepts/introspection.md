@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-21 01:42:00+00:00
+ai_modified: 2026-03-22 06:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -36,6 +36,7 @@ related_articles:
 - '[[tenets]]'
 - '[[introspection-reliability-first-person-2026-01-15]]'
 - '[[phenomenology-of-cognitive-limit-types]]'
+- '[[social-epistemic-void]]'
 title: Introspection and First-Person Methods
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -49,7 +50,7 @@ Nisbett and Wilson's 1977 study "Telling More Than We Can Know" demonstrated tha
 
 Choice blindness experiments extended this dramatically. When researchers covertly switched participants' chosen photos, 75% remained blind to the mismatch—and confabulated detailed justifications for choices they never made.
 
-Eric Schwitzgebel catalogued further failures: people cannot reliably report whether they dream in color, how often they experience inner speech, or the character of peripheral vision. The calibration problem looms: how can we evaluate introspection's accuracy when we have no external standard?
+Eric Schwitzgebel catalogued further failures: people cannot reliably report whether they dream in color, how often they experience inner speech, or the character of peripheral vision. The calibration problem looms: how can we evaluate introspection's accuracy when we have no external standard? The [social-epistemic-void](/voids/intersubjective-void/) compounds this: social calibration pressures individuals to adjust phenomenal reports to match consensus, masking whatever underlying diversity exists.
 
 ## The Crucial Distinction: Process vs. Content
 
@@ -182,6 +183,7 @@ This matters for consciousness science. If we restricted inquiry to third-person
 - [attention-disorders-and-consciousness](/voids/attention-disorders-and-consciousness/) — When the attentional basis of introspection is itself disordered
 - [The Transition Void](/voids/transition-void/) — Why consciousness cannot witness its own state transitions—a structural introspective limit
 - [The Dream Consciousness Void](/voids/sleep-consciousness-void/) — State-dependent limits on introspecting dreaming from waking
+- [The Social Epistemic Void](/voids/intersubjective-void/) — How social calibration and hermeneutical gaps compound introspective unreliability at the collective level
 
 ## References
 

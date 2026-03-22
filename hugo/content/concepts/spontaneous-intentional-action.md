@@ -110,7 +110,7 @@ The Zen concept of *mushin* (no-mind) describes action arising from a still cent
 
 The Daoist concept of *wu wei* (non-action or effortless action) offers perhaps the most developed traditional account. As [Eastern philosophical traditions](/topics/eastern-philosophy-consciousness/) elaborate, *wu wei* is not passivity but a mode of [conscious causation](/concepts/agent-causation/) that operates through attunement rather than force. The agent acts spontaneously because accumulated cultivation—what James (1890) called the "ideo-motor" readiness of the whole self—enables immediate, contextually perfect response without deliberative mediation.
 
-That traditions as different as Zen Buddhism, Daoism, and Advaita Vedānta independently identify and cultivate spontaneous intentional action suggests the category is tracking something real about the structure of consciousness, not merely reflecting one culture's concept of agency. The spontaneous action is *prepared* without being *planned*—novel and context-sensitive in ways that pure [skill delegation](/concepts/implicit-memory/) cannot produce.
+That traditions as different as Zen Buddhism, Daoism, and Advaita Vedānta independently identify and cultivate spontaneous intentional action suggests the category is tracking something real about the structure of consciousness, not merely reflecting one culture's concept of agency. The spontaneous action is *prepared* without being *planned*—novel and context-sensitive in ways that pure [skill-delegation](/concepts/skill-delegation/) cannot produce.
 
 ## The Authenticity Connection
 
