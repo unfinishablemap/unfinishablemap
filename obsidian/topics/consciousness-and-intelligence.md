@@ -4,7 +4,7 @@ description: "Exploring whether consciousness and intelligence are independent, 
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-03-22T09:11:00+00:00
+ai_modified: 2026-03-22T19:31:00+00:00
 last_deep_review: 2026-03-02T15:05:00+00:00
 draft: false
 topics:
@@ -144,7 +144,7 @@ If the Map is right, the path to human-level AI runs through consciousness. Not 
 
 ## The Evolutionary Argument
 
-William James argued in 1890 that consciousness must be causally efficacious because it evolved. Evolution selects for traits that improve survival; if consciousness has no effects, it couldn't be selected. The [[evolutionary-case-for-mental-causation|evolutionary case for mental causation]] develops this argument in detail, showing how the systematic correspondence between consciousness and adaptive behaviour provides the strongest evidence against [[concepts/epiphenomenalism]].
+William James argued in 1890 that consciousness must be causally efficacious because it evolved. The [[evolution-of-consciousness|evolution of consciousness]] through natural selection implies it improved survival; if consciousness has no effects, it couldn't be selected. The [[evolutionary-case-for-mental-causation|evolutionary case for mental causation]] develops this argument in detail, showing how the systematic correspondence between consciousness and adaptive behaviour provides the strongest evidence against [[concepts/epiphenomenalism]].
 
 The amplification hypothesis strengthens this argument. If consciousness were [[concepts/epiphenomenalism|epiphenomenal]]—causally inert—then:
 
