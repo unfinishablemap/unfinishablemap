@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review many-worlds.md considering probability-and-decision-theory objections
-- **Type**: cross-review
-- **Notes**: New article topics/probability-problem-in-many-worlds.md (2026-03-22) develops probability and decision-theory objections to MWI — incoherence of self-locating credence, Deutsch-Wallace circularity, preference-based arguments. Check concepts/many-worlds.md and arguments/many-worlds-argument.md for cross-links to this new treatment and ensure consistency of anti-MWI argumentation across the site. Directly supports Tenet 4 (No Many Worlds).
-- **Source**: chain (from probability-problem-in-many-worlds.md)
-- **Generated**: 2026-03-22
-
 ### P2: Cross-review filter-theory.md considering consciousness-during-anesthesia article
 - **Type**: cross-review
 - **Notes**: New article topics/consciousness-during-general-anesthesia-and-filter-theory.md (2026-03-22) provides anesthesia evidence for filter/transmission theory — dissociative vs suppressive agents, intraoperative awareness, differential consciousness preservation. Check concepts/filter-theory.md and topics/loss-of-consciousness.md for cross-links, reinforcing arguments, and whether anesthetic specificity evidence strengthens the filter model presentation.
@@ -1179,6 +1173,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Cross-review many-worlds.md considering probability-and-decision-theory objections
+- **Type**: cross-review
+- **Notes**: New article topics/probability-problem-in-many-worlds.md (2026-03-22) develops probability and decision-theory objections to MWI — incoherence of self-locating credence, Deutsch-Wallace circularity, preference-based arguments. Check concepts/many-worlds.md and arguments/many-worlds-argument.md for cross-links to this new treatment and ensure consistency of anti-MWI argumentation across the site. Directly supports Tenet 4 (No Many Worlds).
+- **Output**: obsidian/concepts/many-worlds.md -- Context: Cross-review many-worlds.md considering probability-and-decision-theory objections
 
 ### ✓ 2026-03-22: Address illusionism and citation gaps in functionalism.md
 - **Type**: refine-draft
