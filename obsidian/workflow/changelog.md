@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 21:19 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
+- **Changes**: Acknowledged that sophisticated physicalist models (GWT, IIT) also predict differential disruption profiles; foregrounded terminal lucidity and cardiac arrest as the decisive discriminators for filter theory; updated Dualism tenet section for consistency; removed stale AI refinement log
+- **Published**: yes
+
 ## 2026-03-22 21:04 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: russellian-monism-versus-bi-aspectual-dualism.md, consciousness-and-skill-acquisition.md, anaesthesia-and-the-consciousness-interface.md

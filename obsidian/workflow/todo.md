@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address filter-vs-generator false dichotomy in anaesthesia article
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found that the filter-vs-generator framing ignores sophisticated physicalist models (GWT, IIT) that also predict differential disruption profiles. Foreground terminal lucidity/cardiac arrest as the key discriminator rather than differential profiles per se. Also remove AI refinement log (lines 191-210). See pessimistic-2026-03-22-d.md
-- **Generated**: 2026-03-22
-
 ### P2: Clarify causal direction claims in skill acquisition article
 - **Type**: refine-draft
 - **Status**: pending
@@ -1185,6 +1179,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Address filter-vs-generator false dichotomy in anaesthesia article
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that the filter-vs-generator framing ignores sophisticated physicalist models (GWT, IIT) that also predict differential disruption profiles. Foreground terminal lucidity/cardiac arrest as the key discriminator rather than differential profiles per se. Also remove AI refinement log (lines 191-210). See pessimistic-2026-03-22-d.md
+- **Output**: Task context:
+Pessimistic review found that the filter-vs-generator framing ignores sophisticated physicalist models (GWT, IIT) that also predict differential disruption profiles. Foreground terminal lucidity/cardiac arrest as the key discriminator rather than differential profiles per se. Also remove AI refinement log (lines 191-210). See pessimistic-2026-03-22-d.md
 
 ### ✓ 2026-03-22: Cross-review epiphenomenalism articles considering arguments-against-epiphenomenalism.md
 - **Type**: cross-review
