@@ -4,7 +4,7 @@ description: "Physical descriptions leave unexplained why neural activity feels 
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-18T21:06:00+00:00
+ai_modified: 2026-03-22T16:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -200,6 +200,7 @@ The gap supports humility. If we cannot understand consciousness from physical d
 - [[philosophical-zombies]] — The thought experiment that converts the gap into an argument against physicalism
 - [[illusionism]] — The strongest physicalist response to the gap
 - [[mysterianism]] — The cognitive closure alternative: the gap as human limitation
+- [[apophatic-approaches]] — How the gap's persistence becomes methodological data through systematic negation
 - [[introspection]] — How we know about the gap in the first place
 - [[integrated-information-theory]] — A theory attempting to bridge the gap
 - [[consciousness-and-the-ontology-of-dispositions]] — The dispositional version of the gap: no catalogue of causal roles entails qualitative character

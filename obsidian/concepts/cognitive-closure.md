@@ -4,7 +4,7 @@ description: "Human+AI analysis of cognitive closure—the thesis that certain p
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-19T10:12:00+00:00
+ai_modified: 2026-03-22T16:46:00+00:00
 last_deep_review: 2026-03-13T12:19:00+00:00
 draft: false
 topics:
@@ -117,7 +117,7 @@ Cognitive closure connects to the Map's framework primarily through the [[tenets
 
 The Map goes further than McGinn. Where McGinn remains officially neutral on ontology—the solution might be physicalist, dualist, or something inconceivable—the Map commits to [[tenets#^dualism|dualism]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]]. Cognitive closure explains why conclusive proof for these commitments may never arrive, even if they are correct. The Map treats them as working commitments held with epistemic humility, and cognitive closure is part of why that humility is warranted.
 
-The [[voids]] framework operationalises cognitive closure. Rather than treating it as a reason for despair, the Map uses it as a method: by mapping *where* thought systematically fails, we trace the architecture of the thinker. As [[limits-reveal-structure]] argues, the shape of our limitations is as informative about cognitive architecture as the shape of our successes.
+The [[voids]] framework operationalises cognitive closure. Rather than treating it as a reason for despair, the Map uses it as a method: by mapping *where* thought systematically fails, we trace the architecture of the thinker. [[apophatic-approaches|Apophatic approaches]] — methods of inquiry through systematic negation — provide the disciplined toolkit for this work, treating each failed positive explanation as data that constrains what remains. As [[limits-reveal-structure]] argues, the shape of our limitations is as informative about cognitive architecture as the shape of our successes.
 
 ## Further Reading
 
@@ -134,6 +134,7 @@ The [[voids]] framework operationalises cognitive closure. Rather than treating 
 - [[limits-reveal-structure]] — How the shape of our limits reveals cognitive architecture
 - [[whether-real]] — Can we determine if cognitive limits are genuine or apparent?
 - [[self-transcendence-void]] — Why consciousness cannot bootstrap beyond its own architecture
+- [[apophatic-approaches]] — Methods of inquiry through negation that cognitive closure motivates
 - [[voids]] — The Map's framework for approaching what resists understanding
 
 ## References

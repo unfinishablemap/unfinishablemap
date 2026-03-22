@@ -4,7 +4,7 @@ description: "McGinn's cognitive closure thesis: human minds may be constitution
 created: 2026-01-15
 modified: 2026-02-18
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-22T16:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -215,7 +215,7 @@ Mysterianism connects to all five tenets:
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Mysterianism provides indirect support. Many-worlds eliminates collapse and any role for consciousness in physics. Rejecting many-worlds because it makes indexical identity inexplicable invokes mysterian intuitions.
 
-The Map goes further than mysterianism in making specific commitments—but presents tenets as commitments, not proofs. Mysterianism's humility is compatible with tentative positions. The [[voids]] framework resonates with mysterian themes: McGinn's property "P" might be void territory that we can map at the *edges* through [[apophatic-cartography|apophatic methods]].
+The Map goes further than mysterianism in making specific commitments—but presents tenets as commitments, not proofs. Mysterianism's humility is compatible with tentative positions. The [[voids]] framework resonates with mysterian themes: McGinn's property "P" might be void territory that we can map at the *edges* through [[apophatic-approaches|apophatic methods]] — systematic negation that treats cognitive failure as data rather than embarrassment. [[apophatic-cartography|Apophatic cartography]] develops these methods into a formal framework with explicit evidential criteria.
 
 ## Further Reading
 
@@ -237,6 +237,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [[hard-problem-of-consciousness]] — The problem mysterians think is unsolvable
 - [[explanatory-gap]] — The conceptual gap that may reflect cognitive closure
 - [[illusionism]] — The rival view that consciousness isn't real
+- [[apophatic-approaches]] — The methodology of knowing through negation that mysterianism motivates
 - [[voids]] — The Map's framework for approaching cognitive limits
 - [[alien-minds-void-explorers]] — Whether different cognitive architectures face different closures
 

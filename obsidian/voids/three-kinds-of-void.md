@@ -4,7 +4,7 @@ description: "The unexplored, the unexplorable, and the occluded—a taxonomy of
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-22T16:46:00+00:00
 draft: false
 last_deep_review: 2026-02-24T18:44:00+00:00
 topics: []
@@ -90,6 +90,7 @@ The three-part taxonomy organises investigation but does not confine it. The [[s
 - [[synesthetic-void]] — An intra-species void spanning all three categories
 - [[thoughts-that-slip-away]] — The phenomenology of cognitive slippage
 - [[defended-territory]] — Specific tests for whether territory is defended
+- [[apophatic-approaches]] — The methodology of knowing through negation that void investigation employs
 - [[apophatic-cartography]] — Formalising criteria for distinguishing genuine closure
 - [[adaptive-cognitive-limits]] — Blind spots as evolutionary features, not defects
 - [[evolved-cognitive-limits]] — Cross-cultural evidence for species-level limits

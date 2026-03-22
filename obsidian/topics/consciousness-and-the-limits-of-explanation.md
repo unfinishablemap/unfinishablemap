@@ -4,7 +4,7 @@ description: "Every major theory of scientific explanation fails with consciousn
 created: 2026-02-18
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-21T23:12:00+00:00
+ai_modified: 2026-03-22T16:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -175,6 +175,7 @@ The Map holds that this failure may ultimately be more revealing than the hard p
 - [[galilean-exclusion]] — The founding move that created science's blind spot
 - [[quantum-holism-and-phenomenal-unity]] — The unity of experience as a particular case of explanatory failure
 - [[mysterianism]] — Cognitive closure as explanation for permanent limits
+- [[apophatic-approaches]] — How systematic negation turns explanatory failure into methodological data
 - [[methodology-of-consciousness-research]] — Integrating subjective and objective approaches
 - [[consciousness-and-methodological-failure]] — Why standard criteria for theory choice falter with consciousness
 - [[argument-from-reason]] — A parallel self-referential argument against physicalism

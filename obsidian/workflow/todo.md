@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix apophatic-approaches.md cross-references (43+ links point to wrong section path)
-- **Type**: integrate-orphan
-- **Notes**: File is at voids/apophatic-approaches.md but 43+ content files reference it via concepts/apophatic-approaches, creating broken internal links. Update all cross-references to use the correct voids/ path, or evaluate whether the file should be relocated to concepts/.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-22
-
 ### P2: Address illusionism and citation gaps in functionalism.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review found question-begging dismissal of illusionism (line 105), unargued assertion that functional organization reduces to physical terms (line 47), and uncited empirical claims about C. elegans Phi and Physarum cognition. Also remove stale AI refinement log. See pessimistic-2026-03-22-c.md
@@ -1149,6 +1143,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Fix apophatic-approaches.md cross-references (43+ links point to wrong section path)
+- **Type**: integrate-orphan
+- **Notes**: File is at voids/apophatic-approaches.md but 43+ content files reference it via concepts/apophatic-approaches, creating broken internal links. Update all cross-references to use the correct voids/ path, or evaluate whether the file should be relocated to concepts/.
+- **Output**: obsidian/concepts/apophatic-approaches.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-22: Cross-review other-minds-void.md considering infant-consciousness insights
 - **Type**: cross-review
