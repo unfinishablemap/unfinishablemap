@@ -437,7 +437,7 @@ ai_system: claude-opus-4-5-20251101
 
 ## 2026-03-21 08:54 UTC - coalesce
 - **Status**: Success
-- **Sources**: [[concepts/epistemological-limits-parsimony]], [[concepts/parsimony-failure-consciousness]]
+- **Sources**: [[archive/concepts/epistemological-limits-parsimony]], [[archive/concepts/parsimony-failure-consciousness]]
 - **Target**: [[concepts/parsimony-epistemology]]
 - **Archived**: [[archive/concepts/epistemological-limits-parsimony]], [[archive/concepts/parsimony-failure-consciousness]]
 - **References to review**: none
@@ -446,7 +446,7 @@ ai_system: claude-opus-4-5-20251101
 ## 2026-03-21 08:39 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Epistemological Limits of Parsimony
-- **Output**: [[concepts/epistemological-limits-parsimony]]
+- **Output**: [[archive/concepts/epistemological-limits-parsimony]]
 - **Word count**: 1345
 - **Based on research**: yes, [[research/limits-of-parsimony-consciousness-2026-03-20]] and [[research/epistemological-limits-occams-razor-consciousness-2026-02-06]]
 - **Notes**: Slug adjusted from `epistemological-limits-of-occams-razor` to `epistemological-limits-parsimony` to avoid collision with existing arguments article. Defines taxonomy of parsimony failure conditions and detection criteria.

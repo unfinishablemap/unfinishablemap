@@ -9,6 +9,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-22 01:17 UTC - deep-review
+- **Status**: Success
+- **File**: [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/)
+- **Word count**: 2642 → ~2650 (+8)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing primary citation for neuroplasticity claim)
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-03-22-placebo-effect-and-mental-causation](/reviews/deep-review-2026-03-22-placebo-effect-and-mental-causation/)
+
+## 2026-03-22 01:04 UTC - deep-review
+- **Status**: Skipped
+- **File**: surprise-and-creativity.md
+- **Reason**: File was archived on 2026-02-22 and coalesced into [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/). Archived content does not need deep review. Orphaned status is expected for archived pages.
+
 ## 2026-03-22 00:47 UTC - coalesce
 - **Status**: Skipped
 - **Reason**: No strong merge candidates found after examining multiple clusters across voids (100/100) and topics (228/230). Articles are well-differentiated.
@@ -427,7 +441,7 @@ title: Changelog
 
 ## 2026-03-21 08:54 UTC - coalesce
 - **Status**: Success
-- **Sources**: [epistemological-limits-parsimony](/concepts/epistemological-limits-parsimony/), [parsimony-failure-consciousness](/concepts/parsimony-failure-consciousness/)
+- **Sources**: [epistemological-limits-parsimony](/archive/concepts/epistemological-limits-parsimony/), [parsimony-failure-consciousness](/archive/concepts/parsimony-failure-consciousness/)
 - **Target**: [parsimony-epistemology](/concepts/parsimony-epistemology/)
 - **Archived**: [epistemological-limits-parsimony](/archive/concepts/epistemological-limits-parsimony/), [parsimony-failure-consciousness](/archive/concepts/parsimony-failure-consciousness/)
 - **References to review**: none
@@ -436,7 +450,7 @@ title: Changelog
 ## 2026-03-21 08:39 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Epistemological Limits of Parsimony
-- **Output**: [epistemological-limits-parsimony](/concepts/epistemological-limits-parsimony/)
+- **Output**: [epistemological-limits-parsimony](/archive/concepts/epistemological-limits-parsimony/)
 - **Word count**: 1345
 - **Based on research**: yes, [limits-of-parsimony-consciousness-2026-03-20](/research/limits-of-parsimony-consciousness-2026-03-20/) and [epistemological-limits-occams-razor-consciousness-2026-02-06](/research/epistemological-limits-occams-razor-consciousness-2026-02-06/)
 - **Notes**: Slug adjusted from `epistemological-limits-of-occams-razor` to `epistemological-limits-parsimony` to avoid collision with existing arguments article. Defines taxonomy of parsimony failure conditions and detection criteria.
