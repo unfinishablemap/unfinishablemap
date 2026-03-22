@@ -4,7 +4,7 @@ description: "Cognitive evolution appears to cross a threshold where consciousne
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-04T22:18:50+00:00
+ai_modified: 2026-03-22T15:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-02-25T12:08:00+00:00
+last_deep_review: 2026-03-22T15:46:00+00:00
 ---
 
 Something changes in cognitive evolution that cannot be explained by neural complexity alone. Great apes possess brains of extraordinary sophistication—tool use, social manipulation, procedural metacognition—yet they cannot perform logical reasoning, sustain cumulative culture, or engage in counterfactual thinking. Humans, separated by roughly 1-2% genetic difference, do all of these. The Unfinishable Map argues that this discontinuity marks a consciousness threshold: a transition where consciousness becomes sufficiently integrated with neural architecture to transform cognitive capacity from within.
@@ -53,9 +53,9 @@ These are not simply "harder" versions of ape cognition. They are qualitatively 
 
 ### Working Memory as a Proxy
 
-The working memory gap between great apes and humans provides quantitative evidence for the threshold. Chimpanzee working memory holds approximately 2±1 items in abstract tasks, compared to the human 7±2. If working memory depends on conscious access—as [[global-workspace-theory|Global Workspace Theory]] proposes, where conscious broadcast makes information available for flexible manipulation—then expanded working memory implies expanded conscious integration.
+The working memory gap between great apes and humans provides quantitative evidence for the threshold. Chimpanzee working memory holds approximately 2±1 items in abstract tasks. Miller (1956) famously estimated human capacity at 7±2 items, though Cowan (2001) revised this to approximately 4±1 items for pure capacity without chunking strategies. Even the conservative estimate represents a two-to-three-fold expansion. If working memory depends on conscious access—as [[global-workspace-theory|Global Workspace Theory]] proposes, where conscious broadcast makes information available for flexible manipulation—then expanded working memory implies expanded conscious integration.
 
-This is not merely a quantitative difference producing proportionally more capability. The jump from two to seven items enables qualitatively new operations. Two items permit comparison. Seven items permit the simultaneous holding of premises, intermediate conclusions, and alternatives that formal reasoning requires. The threshold is not at any particular number but at the point where conscious workspace becomes large enough to sustain operations that could not occur at smaller scales.
+This is not merely a quantitative difference producing proportionally more capability. The jump from two to four-or-more items enables qualitatively new operations. Two items permit comparison. Four items permit tracking relationships, holding intermediate conclusions, and considering alternatives simultaneously—operations that formal reasoning requires. The threshold is not at any particular number but at the point where conscious workspace becomes large enough to sustain operations that could not occur at smaller scales.
 
 ### Consciousness-Dependent Cognitive Functions
 
@@ -123,7 +123,9 @@ The threshold also reinforces the Map's rejection of [[concepts/epiphenomenalism
 
 ## References
 
-1. Lieberman, M. D., et al. (2008). The neural correlates of rule-based and associative learning. *NeuroImage*, 40(3), 1–8.
+1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87–114.
+1. Lieberman, M. D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628–645.
+1. Miller, G. A. (1956). The magical number seven, plus or minus two. *Psychological Review*, 63(2), 81–97.
 1. Suddendorf, T. & Corballis, M. C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299–313.
 1. Whiten, A. (2015). Experimental studies illuminate the cultural transmission of percussive technologies in *Homo* and *Pan*. *Philosophical Transactions of the Royal Society B*, 370(1682).
 1. Ginsburg, S. & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
