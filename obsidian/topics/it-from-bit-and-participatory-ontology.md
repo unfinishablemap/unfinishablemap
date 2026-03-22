@@ -4,8 +4,8 @@ description: "Wheeler's 'it from bit' thesis — that physical reality derives f
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-18T23:37:00+00:00
-last_deep_review: 2026-03-18T23:37:00+00:00
+ai_modified: 2026-03-22T03:56:00+00:00
+last_deep_review: 2026-03-22T03:56:00+00:00
 draft: false
 topics:
   - "[[the-participatory-universe]]"

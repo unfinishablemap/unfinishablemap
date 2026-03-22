@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate it-from-bit-and-participatory-ontology.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Created 2026-03-21 via expand-topic. Article on Wheeler's participatory universe and "it from bit" programme. Add cross-references from consciousness-and-causal-powers.md, quantum-measurement-consciousness-interface.md, physics-as-disclosure.md, and related quantum consciousness articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-22
-
 ### P2: Address asymmetric argumentation in global-workspace-theory.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1108,6 +1101,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Integrate it-from-bit-and-participatory-ontology.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-21 via expand-topic. Article on Wheeler's participatory universe and "it from bit" programme. Add cross-references from consciousness-and-causal-powers.md, quantum-measurement-consciousness-interface.md, physics-as-disclosure.md, and related quantum consciousness articles.
+- **Output**: obsidian/topics/it-from-bit-and-participatory-ontology.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-22: Integrate parsimony-failure-consciousness.md into site navigation
 - **Type**: integrate-orphan
