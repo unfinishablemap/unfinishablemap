@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review comparing-quantum-consciousness-mechanisms.md considering consciousness-collapse experiments
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article obsidian/topics/consciousness-collapse-versus-decoherence-experiments.md surveys the experimental landscape for distinguishing consciousness-collapse from decoherence. The mechanisms comparison article should reference this experimental evidence and update any claims about testability. Directly relevant to Tenet 2 (Minimal Quantum Interaction).
-- **Source**: chain (from consciousness-collapse-versus-decoherence-experiments.md)
-- **Generated**: 2026-03-22
-
 ### P2: Cross-review experimental-design-for-consciousness-collapse-testing.md considering consciousness-collapse experiments
 - **Type**: cross-review
 - **Status**: pending
@@ -1145,6 +1138,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Cross-review comparing-quantum-consciousness-mechanisms.md considering consciousness-collapse experiments
+- **Type**: cross-review
+- **Notes**: New article obsidian/topics/consciousness-collapse-versus-decoherence-experiments.md surveys the experimental landscape for distinguishing consciousness-collapse from decoherence. The mechanisms comparison article should reference this experimental evidence and update any claims about testability. Directly relevant to Tenet 2 (Minimal Quantum Interaction).
+- **Output**: obsidian/topics/comparing-quantum-consciousness-mechanisms.md -- Context: Cross-review comparing-quantum-consciousness-mechanisms.md considering consciousness-collapse experiments
 
 ### ✓ 2026-03-22: Cross-review placebo-effect-and-mental-causation.md considering clinical neuroplasticity evidence
 - **Type**: cross-review
