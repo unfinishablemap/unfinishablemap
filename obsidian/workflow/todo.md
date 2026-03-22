@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review filter-theory.md considering consciousness-during-anesthesia article
-- **Type**: cross-review
-- **Notes**: New article topics/consciousness-during-general-anesthesia-and-filter-theory.md (2026-03-22) provides anesthesia evidence for filter/transmission theory — dissociative vs suppressive agents, intraoperative awareness, differential consciousness preservation. Check concepts/filter-theory.md and topics/loss-of-consciousness.md for cross-links, reinforcing arguments, and whether anesthetic specificity evidence strengthens the filter model presentation.
-- **Source**: chain (from consciousness-during-general-anesthesia-and-filter-theory.md)
-- **Generated**: 2026-03-22
-
 ### P2: Integrate recognition-void.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Created 2026-03-22 via expand-topic. Voids article on the cognitive gap between perceiving and recognising. Add cross-references from related articles — phenomenology-of-understanding-and-meaning.md, categorical-surprise.md, attention-created-voids.md, three-kinds-of-void.md — or update voids index to include navigation to this content.
@@ -1179,6 +1173,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Cross-review filter-theory.md considering consciousness-during-anesthesia article
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-during-general-anesthesia-and-filter-theory.md (2026-03-22) provides anesthesia evidence for filter/transmission theory — dissociative vs suppressive agents, intraoperative awareness, differential consciousness preservation. Check concepts/filter-theory.md and topics/loss-of-consciousness.md for cross-links, reinforcing arguments, and whether anesthetic specificity evidence strengthens the filter model presentation.
+- **Output**: obsidian/concepts/filter-theory.md -- Context: Cross-review filter-theory.md considering consciousness-during-anesthesia article
 
 ### ✓ 2026-03-22: Cross-review many-worlds.md considering probability-and-decision-theory objections
 - **Type**: cross-review
