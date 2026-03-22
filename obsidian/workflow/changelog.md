@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 04:12 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/global-workspace-theory]]
+- **Changes**: Rebalanced Block/Dennett presentation; fixed COGITATE overinterpretation of Tenet 5 support; acknowledged filter theory tension with Bidirectional Interaction tenet
+- **Published**: yes
+
 ## 2026-03-22 03:56 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/it-from-bit-and-participatory-ontology]]

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address asymmetric argumentation in global-workspace-theory.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found Block's overflow argument presented with ~150 words before Dennett's response gets a subordinate clause; COGITATE results overinterpreted as "supporting" Tenet 5 when they're merely consistent; filter theory reading has unacknowledged tension with bidirectional causation tenet. See pessimistic-2026-03-22.md
-- **Generated**: 2026-03-22
-
 ### P3: Explore feminist philosophy of consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -1101,6 +1095,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Address asymmetric argumentation in global-workspace-theory.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found Block's overflow argument presented with ~150 words before Dennett's response gets a subordinate clause; COGITATE results overinterpreted as "supporting" Tenet 5 when they're merely consistent; filter theory reading has unacknowledged tension with bidirectional causation tenet. See pessimistic-2026-03-22.md
+- **Output**: obsidian/concepts/global-workspace-theory.md
+
+Task context:
+Pessimistic review found Block's overflow argument presented with ~150 words before Dennett's response gets a subordinate clause; COGITATE results overinterpreted as "supporting" Tenet 5 when they're merely consistent; filter theory reading has unacknowledged tension with bidirectional causation tenet. See pessimistic-2026-03-22.md
 
 ### ✓ 2026-03-22: Integrate it-from-bit-and-participatory-ontology.md into site navigation
 - **Type**: integrate-orphan
