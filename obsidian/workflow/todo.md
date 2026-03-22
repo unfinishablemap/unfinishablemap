@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review placebo-effect-and-mental-causation.md considering clinical neuroplasticity insights
-- **Type**: cross-review
-- **Notes**: New article clinical-neuroplasticity-evidence-for-bidirectional-causation.md (2026-03-21) provides neuroplasticity evidence for Tenet 3 (Bidirectional Interaction). Check placebo-effect-and-mental-causation.md for opportunities to cross-link, reinforce arguments with neuroplasticity evidence, and ensure consistent treatment of mental causation claims.
-- **Source**: chain (from clinical-neuroplasticity-evidence-for-bidirectional-causation.md)
-- **Generated**: 2026-03-21
-
 ### P2: Review consciousness-as-activity.md considering enactivism insights
 - **Type**: cross-review
 - **Notes**: New article enactivism-challenge-to-interactionist-dualism.md (2026-03-21) presents enactivism as a challenge to the Map's framework. Check consciousness-as-activity.md for cross-links, potential tensions with the enactivist critique, and opportunities to strengthen the interactionist response to embodied/enactive approaches.
@@ -1107,6 +1101,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Review placebo-effect-and-mental-causation.md considering clinical neuroplasticity insights
+- **Type**: cross-review
+- **Notes**: New article clinical-neuroplasticity-evidence-for-bidirectional-causation.md (2026-03-21) provides neuroplasticity evidence for Tenet 3 (Bidirectional Interaction). Check placebo-effect-and-mental-causation.md for opportunities to cross-link, reinforce arguments with neuroplasticity evidence, and ensure consistent treatment of mental causation claims.
+- **Output**: obsidian/topics/placebo-effect-and-mental-causation.md -- Context: Review placebo-effect-and-mental-causation.md considering clinical neuroplasticity insights
 
 ### ✓ 2026-03-22: Integrate surprise-and-creativity.md into site navigation
 - **Type**: integrate-orphan
