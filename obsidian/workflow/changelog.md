@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 22:20 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Perceptual Reconstruction Paradox
+- **Output**: [[concepts/perceptual-reconstruction-paradox]]
+- **Word count**: 944
+- **Based on research**: yes, [[research/reconstruction-paradox-brain-correction-2026-03-09]]
+
 ## 2026-03-22 22:04 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]]

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept article on the reconstruction paradox
-- **Type**: expand-topic
-- **Notes**: Research completed in research/reconstruction-paradox-brain-correction-2026-03-09.md. The brain selectively corrects some perceptual degradations (blind spot, saccadic gaps) while transmitting others unchanged (optical blur, tinnitus, persistent illusions). This asymmetry reveals the consciousness-brain interface architecture and supports the filter/transmission model. Cognitive impenetrability of illusions provides strong evidence that perception is not controlled by conscious knowledge. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-22
-
 ### P2: Write concept article on inventory blindness
 - **Type**: expand-topic
 - **Notes**: Identified by optimistic review 2026-03-22. The recognition void introduces this concept — absent cognitive capabilities produce no signal — but it applies broadly across the voids framework and deserves a standalone concept page. Key insight: we cannot detect what cognitive architecture we lack, which strengthens the mysterian position and the Map's Tenet 5 argument. Target section: concepts/.
@@ -1167,6 +1161,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Write concept article on the reconstruction paradox
+- **Type**: expand-topic
+- **Notes**: Research completed in research/reconstruction-paradox-brain-correction-2026-03-09.md. The brain selectively corrects some perceptual degradations (blind spot, saccadic gaps) while transmitting others unchanged (optical blur, tinnitus, persistent illusions). This asymmetry reveals the consciousness-brain interface architecture and supports the filter/transmission model. Cognitive impenetrability of illusions provides strong evidence that perception is not controlled by conscious knowledge. Target section: concepts/.
+- **Output**: Write concept article on the reconstruction paradox
 
 ### ✓ 2026-03-22: Cross-review bidirectional-causation articles considering clinical-neuroplasticity-evidence.md
 - **Type**: cross-review
