@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write void article on the infant consciousness void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/voids-infant-consciousness-void-2026-03-21.md. The cognitive inaccessibility of infant experience — we all had consciousness before language and memory could record it, creating a permanent epistemic gap. Target section: voids/ (last available slot, 99/100). Supports Tenet 1 (Dualism) via the irreducibility of pre-linguistic phenomenal experience.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-22
-
 ### P2: Cross-review placebo-effect-and-mental-causation.md considering clinical neuroplasticity evidence
 - **Type**: cross-review
 - **Status**: pending
@@ -1159,6 +1152,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Write void article on the infant consciousness void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-infant-consciousness-void-2026-03-21.md. The cognitive inaccessibility of infant experience — we all had consciousness before language and memory could record it, creating a permanent epistemic gap. Target section: voids/ (last available slot, 99/100). Supports Tenet 1 (Dualism) via the irreducibility of pre-linguistic phenomenal experience.
+- **Output**: Write void article on the infant consciousness void
 
 ### ✓ 2026-03-22: Refine anaesthesia-and-the-consciousness-interface.md with filter theory research
 - **Type**: refine-draft
