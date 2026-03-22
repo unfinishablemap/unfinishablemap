@@ -5,6 +5,11 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 18:46 UTC - deep-review
+- **Status**: Skipped (archived file)
+- **File**: phenomenology-of-moral-deliberation (archived 2026-03-20)
+- **Reason**: File was coalesced into [[topics/phenomenology-of-moral-life]] on 2026-03-20. Successor article has ~16 inbound links. Orphan status was stale data from before coalescence.
+
 ## 2026-03-22 18:32 UTC - deep-review
 - **Status**: Success
 - **File**: [[arguments/functionalism-argument]]
