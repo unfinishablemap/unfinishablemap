@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 02:26 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/comparing-quantum-consciousness-mechanisms]]
+- **Word count**: 3233 → 3242 (+9)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Output**: [[reviews/deep-review-2026-03-22-comparing-quantum-consciousness-mechanisms]]
+
 ## 2026-03-22 02:11 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/russellian-monism-versus-bi-aspectual-dualism]]

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review comparing-quantum-consciousness-mechanisms.md considering consciousness-collapse experiments
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/consciousness-collapse-versus-decoherence-experiments.md (2026-03-21) catalogues experimental approaches to distinguishing consciousness-collapse from decoherence-only interpretations. comparing-quantum-consciousness-mechanisms.md provides the theoretical comparison and should cross-reference the experimental landscape article. Check for reinforcing arguments and ensure experimental claims are consistent.
-- **Source**: chain (from consciousness-collapse-versus-decoherence-experiments.md)
-- **Generated**: 2026-03-22
-
 ### P2: Review consciousness-and-the-ontology-of-dispositions.md considering Russellian monism article
 - **Type**: cross-review
 - **Status**: pending
@@ -1130,6 +1123,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Review comparing-quantum-consciousness-mechanisms.md considering consciousness-collapse experiments
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-collapse-versus-decoherence-experiments.md (2026-03-21) catalogues experimental approaches to distinguishing consciousness-collapse from decoherence-only interpretations. comparing-quantum-consciousness-mechanisms.md provides the theoretical comparison and should cross-reference the experimental landscape article. Check for reinforcing arguments and ensure experimental claims are consistent.
+- **Output**: obsidian/topics/comparing-quantum-consciousness-mechanisms.md -- Context: Review comparing-quantum-consciousness-mechanisms.md considering consciousness-collapse experiments
 
 ### ✓ 2026-03-22: Review embodied-consciousness-and-the-interface.md considering enactivism challenge
 - **Type**: cross-review
