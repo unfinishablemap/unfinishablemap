@@ -4655,3 +4655,20 @@ Pessimistic review (2026-02-16) found retrocausality.md name-checks Maudlin's ob
 - **Notes**: Pessimistic review (2026-02-16) found inconsistent treatment of decoherence across retrocausality.md, simulation.md, and animal-consciousness.md. Retrocausality treats it as manageable (citing Hameroff's disputed corrections), simulation treats it as unsolved, animal-consciousness extends quantum consciousness to all organisms with microtubules without addressing it. Establish a consistent site-wide position. See pessimistic-2026-02-16.md
 - **Output**: Task context:
 Pessimistic review (2026-02-16) found inconsistent treatment of decoherence across retrocausality.md, simulation.md, and animal-consciousness.md. Retrocausality treats it as manageable (citing Hameroff's disputed corrections), simulation treats it as unsolved, animal-consciousness extends quantum consciousness to all organisms with microtubules without addressing it. Establish a consistent site-wide position. See pessimistic-2026-02-16.md
+### P3: Write concept page on inventory blindness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The recognition void introduces this concept—absent cognitive capabilities producing no signal—but it applies broadly across the voids framework. Deserves its own concept page that other articles can reference. Strengthens Tenet 5 (Occam's Razor Has Limits) by explaining why parsimony fails when our conceptual inventory is incomplete. Target section: concepts/. See optimistic-2026-03-22-afternoon.md
+- **Generated**: 2026-03-22
+
+### P3: Write concept page on content-specificity as evidence for mental causation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The principle that identical physical stimuli produce different outcomes depending on propositional content of conscious states. Used in the placebo article but applicable across domains (perception, emotion regulation, motor planning). Assembles multiple independent empirical lines into a cumulative case against epiphenomenalism. Target section: concepts/. See optimistic-2026-03-22-afternoon.md
+- **Generated**: 2026-03-22
+
+### P3: Write article on epistemology of limit-knowledge
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How can we have knowledge about limits we cannot cross? The voids framework has 100+ articles on cognitive limits but no systematic treatment of the epistemological question. Builds on convergence-as-evidence, compound-failure-signatures, architecture-of-cognitive-closure, recognition-void. Directly serves Tenet 5. Target section: concepts/. See optimistic-2026-03-22-afternoon.md
+- **Generated**: 2026-03-22
