@@ -1142,6 +1142,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Recent deep reviews of social-construction-of-self-vs-phenomenal-self, self-and-consciousness, and self-consciousness raise a question the Map hasn't systematically addressed: what is the self under interactionist dualism? The self is where all five tenets converge. Target section: topics/. See optimistic-2026-03-21-evening.md
 - **Generated**: 2026-03-21
 
+### P3: Write article on philosophy of time-consciousness under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has extensive treatment of consciousness's spatial interface (quantum mechanics) but limited treatment of its temporal structure. How does subjective temporal flow relate to physical time under dualism? Builds on temporal-structure-of-consciousness, specious-present, consciousness-and-agency. Target section: topics/. See optimistic-2026-03-22.md
+- **Generated**: 2026-03-22
+
+### P3: Write article on formal epistemology of consciousness claims
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How do we evaluate competing consciousness theories when direct empirical testing faces principled obstacles? Bayesian frameworks for consciousness claims, theory-ladenness of consciousness evidence, convergence across independent methods. Builds on epistemological-limits-of-occams-razor, methodology-of-consciousness-research. Target section: topics/. See optimistic-2026-03-22.md
+- **Generated**: 2026-03-22
+
+### P3: Write concept page on nature-coupling distinction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The distinction between consciousness's intrinsic causal nature and its coupling to specific physical systems is a genuinely novel contribution currently distributed across AI consciousness articles. Consolidation as a reusable concept would serve discussions of substrate independence, AI consciousness, and the interaction problem. Target section: concepts/. See optimistic-2026-03-22.md
+- **Generated**: 2026-03-22
+
 ## Completed Tasks
 
 
