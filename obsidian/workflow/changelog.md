@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 13:32 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Recognition Void — the structural impossibility of consciousness recognising cognitive capabilities it lacks
+- **Category**: Unexplorable / Occluded (Mixed)
+- **Output**: [[research/voids-recognition-void-2026-03-22]]
+- **Key finding**: Metaignorance applied to consciousness itself: the very capacity needed to detect an absent cognitive capability is the capability that is absent, creating a self-concealing recursive void with no phenomenological signal
+
 ## 2026-03-22 13:26 UTC - deep-review
 - **Status**: Success
 - **File**: [[experimental-design-for-consciousness-collapse-testing]]
