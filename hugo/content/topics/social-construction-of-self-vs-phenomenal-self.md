@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-12
-ai_modified: 2026-03-21 19:10:00+00:00
+ai_modified: 2026-03-22 08:26:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: 'Two accounts of selfhood compete: social construction (self as cul
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-21 19:10:00+00:00
+last_deep_review: 2026-03-22 08:26:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -35,6 +35,7 @@ related_articles:
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[embodied-consciousness-and-the-interface]]'
 - '[[methodology-of-consciousness-research]]'
+- '[[consciousness-and-intersubjectivity]]'
 title: Social Construction of Self vs Phenomenal Self
 topics:
 - '[[personal-identity]]'
@@ -74,7 +75,7 @@ The two accounts genuinely overlap in the domain of self-understanding. How you 
 
 This is the constructionist's strongest point: phenomenal experience is not raw but interpreted, and interpretation is social. As Schachter and Singer's classic emotion experiments suggested, the "same" physiological arousal—elevated heart rate, flushed face, focused attention—can be experienced as anger, excitement, or fear depending on social context and learned categories. Barrett's constructionist theory of emotion develops this further: emotion categories are not natural kinds but culturally learned concepts that shape how interoceptive signals are experienced (Barrett 2017). The labelling is social; the arousal is not.
 
-But the overlap has a boundary. Social construction shapes the *content* of self-experience—what you experience yourself as. It does not generate the *structure*—that there is a subject having the experience. The distinction between content and structure maps onto the [three-layered model of selfhood](/topics/the-self-minimal-narrative-and-substantial/): social construction operates at the narrative layer, modifying how the self is understood and expressed. The minimal and substantial layers—the phenomenological bedrock—remain untouched by cultural variation.
+But the overlap has a boundary. Social construction shapes the *content* of self-experience—what you experience yourself as. It does not generate the *structure*—that there is a subject having the experience. The Map's [analysis of consciousness and intersubjectivity](/topics/consciousness-and-intersubjectivity/) develops this further: consciousness is ontologically individual but phenomenologically enriched through intersubjective encounter. Intersubjective engagement activates dimensions of experience—self-other distinction, the moral horizon of another's vulnerability, the categories of being understood and misunderstood—that a solitary consciousness would lack. This enrichment is real and transformative, but it presupposes the phenomenal subject it transforms. The distinction between content and structure maps onto the [three-layered model of selfhood](/topics/the-self-minimal-narrative-and-substantial/): social construction operates at the narrative layer, modifying how the self is understood and expressed. The minimal and substantial layers—the phenomenological bedrock—remain untouched by cultural variation.
 
 Consider [autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)—the capacity to mentally travel through time and experience past and future events from a first-person perspective. Social construction deeply shapes *what* you remember and *how* you narrate your past. But the phenomenal capacity for temporal self-projection—the fact that remembering involves re-experiencing rather than mere data retrieval—is not culturally contingent. It is a feature of consciousness itself.
 
@@ -127,6 +128,7 @@ This analysis connects to the Map's foundational commitments at multiple points.
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Meditative phenomenology as evidence for the persistence of the phenomenal self
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — The lived body as pre-social foundation for phenomenal selfhood
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — Why constructionism's third-person methodology misses the phenomenal self
+- [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) — Why consciousness is ontologically individual but phenomenologically enriched through encounter with other minds
 
 ## References
 

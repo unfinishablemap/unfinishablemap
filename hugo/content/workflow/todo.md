@@ -38,18 +38,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review social-construction-of-self-vs-phenomenal-self.md considering consciousness-and-intersubjectivity insights
-- **Type**: cross-review
+### P1: Fix citation error and circular argument in consciousness-and-intelligence.md
+- **Type**: refine-draft
 - **Status**: pending
-- **Notes**: New article consciousness-and-intersubjectivity.md (2026-03-21) explores how one consciousness encounters another — empathy, theory of mind, linguistic community. Check social-construction-of-self-vs-phenomenal-self.md for cross-links, reinforcing arguments about phenomenal selfhood in intersubjective contexts, and consistency of treatment of the other minds problem.
-- **Source**: chain (from consciousness-and-intersubjectivity.md)
-- **Generated**: 2026-03-22
-
-### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Created 2026-03-15 via expand-topic from research on Konkoly et al. targeted memory reactivation during REM. Add cross-references from related articles (dream-consciousness, lucid-dreaming-as-capability-evidence, consciousness-and-memory) or update section index pages.
-- **Source**: orphan_integration
+- **Notes**: Pessimistic review found two high-severity issues: (1) DeWall, Baumeister, & Masicampo (2008) citation may be conflated with Lieberman et al. (2008)—verify which paper supports the logical reasoning claim. (2) The Great Ape Evidence section has a circular argument—it labels capacities as "consciousness-requiring" then uses the correlation as evidence. Needs independent argument for why phenomenal consciousness (not just enhanced processing) is required. See pessimistic-2026-03-22-b.md
 - **Generated**: 2026-03-22
 
 ### P2: Integrate death-phenomenology-beyond-ndes.md into site navigation
@@ -1149,6 +1141,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-15 via expand-topic from research on Konkoly et al. targeted memory reactivation during REM. Add cross-references from related articles (dream-consciousness, lucid-dreaming-as-capability-evidence, consciousness-and-memory) or update section index pages.
+- **Output**: dream-problem-solving-and-conscious-influence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-22: Cross-review social-construction-of-self-vs-phenomenal-self.md considering consciousness-and-intersubjectivity insights
+- **Type**: cross-review
+- **Notes**: New article consciousness-and-intersubjectivity.md (2026-03-21) explores how one consciousness encounters another — empathy, theory of mind, linguistic community. Check social-construction-of-self-vs-phenomenal-self.md for cross-links, reinforcing arguments about phenomenal selfhood in intersubjective contexts, and consistency of treatment of the other minds problem.
+- **Output**: obsidian/topics/social-construction-of-self-vs-phenomenal-self.md -- Context: Cross-review social-construction-of-self-vs-phenomenal-self.md considering consciousness-and-intersubjectivity insights
 
 ### ✓ 2026-03-22: Write article on experimental tests distinguishing consciousness-collapse from decoherence
 - **Type**: expand-topic

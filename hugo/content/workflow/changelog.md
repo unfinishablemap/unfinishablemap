@@ -9,6 +9,34 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-22 08:56 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/consciousness-and-intelligence.md, topics/aesthetics-and-consciousness.md
+- **Output**: [pessimistic-2026-03-22-b](/reviews/pessimistic-2026-03-22-b/)
+
+## 2026-03-22 08:43 UTC - deep-review
+- **Status**: Skipped (terminal stability)
+- **File**: [dream-problem-solving-and-conscious-influence](/archive/topics/dream-problem-solving-and-conscious-influence/)
+- **Notes**: Archived file (coalesced into dream-consciousness 2026-03-15). Previous review (2026-03-19) declared terminal stability with 10+ cross-links to successor article. Orphan status is by design for archived files.
+
+## 2026-03-22 08:26 UTC - deep-review
+- **Status**: Success
+- **File**: [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/)
+- **Word count**: 2254 → 2329 (+75)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to consciousness-and-intersubjectivity)
+- **Enhancements made**: 1 (integrated enrichment thesis from intersubjectivity article)
+- **Output**: [deep-review-2026-03-22-social-construction-of-self-vs-phenomenal-self](/reviews/deep-review-2026-03-22-social-construction-of-self-vs-phenomenal-self/)
+
+## 2026-03-22 08:12 UTC - deep-review
+- **Status**: Success
+- **File**: [philosophical-zombies](/concepts/philosophical-zombies/)
+- **Word count**: 3170 → 2805 (-365)
+- **Critical issues addressed**: 1 (broken wikilink)
+- **Medium issues addressed**: 3 (length condensation, stale refinement log, missing citations)
+- **Enhancements made**: 3 (added Block/Whitehead/Tallis citations, removed redundancy, tightened prose)
+- **Output**: [deep-review-2026-03-22-philosophical-zombies](/reviews/deep-review-2026-03-22-philosophical-zombies/)
+
 ## 2026-03-22 07:57 UTC - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: Experimental tests distinguishing consciousness-collapse from decoherence
