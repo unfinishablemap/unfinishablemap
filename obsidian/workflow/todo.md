@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on the interaction problem in non-Western philosophy
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/interaction-problem-non-western-philosophy-2026-02-17.md. Non-Western philosophical traditions offer alternative frameworks for understanding mind-body interaction that bypass Cartesian assumptions. Strengthens the Map's cross-cultural convergence arguments. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-22
-
 ### P2: Cross-review dualism and neutral monism articles considering Russellian monism article
 - **Type**: cross-review
 - **Status**: pending
@@ -1155,6 +1148,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Write concept page on the interaction problem in non-Western philosophy
+- **Type**: expand-topic
+- **Notes**: Research completed in research/interaction-problem-non-western-philosophy-2026-02-17.md. Non-Western philosophical traditions offer alternative frameworks for understanding mind-body interaction that bypass Cartesian assumptions. Strengthens the Map's cross-cultural convergence arguments. Target section: concepts/.
+- **Output**: Write concept page on the interaction problem in non-Western philosophy
 
 ### ✓ 2026-03-22: Write concept page on autonoetic consciousness
 - **Type**: expand-topic
