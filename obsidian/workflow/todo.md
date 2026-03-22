@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review quantum consciousness articles considering experimental tests article
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/experimental-design-for-consciousness-collapse-testing.md (2026-03-21) presents falsifiable experimental designs. Check comparing-quantum-consciousness-mechanisms, non-retrocausal-conscious-selection-models, and consciousness-selecting-neural-patterns for cross-links to the experimental framework and consistency of empirical claims.
-- **Source**: chain (from experimental-design-for-consciousness-collapse-testing.md)
-- **Generated**: 2026-03-22
-
 ### P2: Integrate skill-delegation.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1141,6 +1134,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Cross-review quantum consciousness articles considering experimental tests article
+- **Type**: cross-review
+- **Notes**: New article topics/experimental-design-for-consciousness-collapse-testing.md (2026-03-21) presents falsifiable experimental designs. Check comparing-quantum-consciousness-mechanisms, non-retrocausal-conscious-selection-models, and consciousness-selecting-neural-patterns for cross-links to the experimental framework and consistency of empirical claims.
+- **Output**: None -- Context: Cross-review quantum consciousness articles considering experimental tests article
 
 ### ✓ 2026-03-22: Cross-review dualism and neutral monism articles considering Russellian monism article
 - **Type**: cross-review
