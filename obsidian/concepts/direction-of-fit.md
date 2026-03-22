@@ -4,7 +4,7 @@ description: "Direction of fit classifies mental states by whether mind adapts t
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-22T06:27:00+00:00
 draft: false
 topics:
   - "[[aesthetics-and-consciousness]]"
@@ -15,7 +15,7 @@ concepts:
   - "[[agent-causation]]"
   - "[[mental-causation]]"
   - "[[interactionist-dualism]]"
-  - "[[concepts/epiphenomenalism]]"
+  - "[[epiphenomenalism]]"
   - "[[cognitive-phenomenology]]"
 related_articles:
   - "[[tenets]]"
@@ -24,7 +24,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-02-23T22:50:00+00:00
+last_deep_review: 2026-03-22T06:27:00+00:00
 ---
 
 Direction of fit is a classification of mental states according to how they relate to the world. Beliefs have *mind-to-world* direction of fit: when a belief conflicts with reality, the belief is at fault and should change. Desires have *world-to-mind* direction of fit: when reality conflicts with a desire, reality is at fault and should change. This asymmetry, introduced by Elizabeth Anscombe in 1957 and developed by John Searle in 1983, reveals something fundamental about [[intentionality]]—and about whether consciousness can be causally inert.
@@ -61,13 +61,13 @@ Direction of fit is not merely descriptive but *normative*. A belief that fails 
 
 This normativity is difficult to capture in purely physical terms. Neural circuits do implement error signals and correction mechanisms that track reliability—Bayesian updating, prediction error minimisation, synaptic adjustment. These implement normative-like structure. But the *phenomenal* dimension of normativity—the felt sense that a belief is *wrong*, the experienced pull of a desire toward its object—is not obviously captured by describing these mechanisms. The gap parallels the broader [[explanatory-gap|explanatory gap]]: just as describing neural correlates does not entail phenomenal experience, describing error-correction circuitry does not entail that a state *ought* to match reality.
 
-If [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality theory]] is correct and genuine intentional content requires phenomenal consciousness, then direction of fit inherits this requirement. The normative structure of mental states—the way beliefs *should* track truth and desires *should* guide action—may be grounded in phenomenal character rather than functional role alone.
+If [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality theory]] is correct and genuine intentional content requires phenomenal consciousness, then direction of fit inherits this requirement. The normative structure of mental states—the way beliefs *should* track truth and desires *should* guide action—may be grounded in [[cognitive-phenomenology|phenomenal character]] rather than functional role alone.
 
 ## World-to-Mind Fit and Mental Causation
 
-The world-to-mind direction of fit carries special weight for the mind-body problem. Desires and intentions aim to *change reality*. When you intend to raise your arm, the content of the intention specifies a state of affairs that does not yet obtain, and the intention functions to bring that state about.
+The world-to-mind direction of fit carries special weight for the [[mental-causation|mind-body problem]]. Desires and intentions aim to *change reality*. When you intend to raise your arm, the content of the intention specifies a state of affairs that does not yet obtain, and the intention functions to bring that state about.
 
-For this to work, the intentional state must be causally efficacious. The intention must actually cause the arm to rise. If mental states with world-to-mind fit are [[concepts/epiphenomenalism|epiphenomenal]]—causally inert accompaniments of neural activity—then their directedness toward changing the world is an illusion. They "aim" at nothing because they do nothing.
+For this to work, the intentional state must be causally efficacious. The intention must actually cause the arm to rise. If mental states with world-to-mind fit are [[epiphenomenalism|epiphenomenal]]—causally inert accompaniments of neural activity—then their directedness toward changing the world is an illusion. They "aim" at nothing because they do nothing.
 
 The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet takes world-to-mind fit at face value. When consciousness holds a representation of a desired state and acts to bring it about, the phenomenal content guides physical outcomes. The [[aesthetics-and-consciousness|aesthetic creation]] case makes this vivid: the painter holds a phenomenal template (world-to-mind fit) and reshapes canvas to match, with continuous phenomenal feedback (mind-to-world fit) guiding each stroke.
 
@@ -116,7 +116,7 @@ The argument that direction of fit supports dualism and bidirectional interactio
 - [[placebo-effect-and-mental-causation]] — Empirical evidence that belief content drives physiological outcomes
 - [[temporal-structure-of-consciousness]] — Intentions' inherent temporal directedness connects direction of fit to temporal consciousness
 - [[cognitive-phenomenology]] — The phenomenal character of thought that may ground direction of fit
-- [[concepts/epiphenomenalism]] — The view that world-to-mind fit challenges
+- [[epiphenomenalism]] — The view that world-to-mind fit challenges
 
 ## References
 
