@@ -5,6 +5,11 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 09:27 UTC - deep-review
+- **Status**: Skipped (archived, terminal stability)
+- **File**: [[death-phenomenology-beyond-ndes]]
+- **Reason**: Article is archived (superseded by [[death-and-consciousness]]). Already reviewed 3 times (2026-03-11, 2026-03-15, 2026-03-18) with no critical issues. Previous review declared terminal stability. Superseding article has 12 inbound links — well-integrated. No modifications appropriate.
+
 ## 2026-03-22 09:11 UTC - refine-draft
 - **Status**: Success
 - **File**: [[consciousness-and-intelligence]]
