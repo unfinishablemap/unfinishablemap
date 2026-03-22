@@ -4,8 +4,8 @@ description: "Head-to-head evaluation of Orch OR, Stapp's Zeno model, Fisher's n
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-22T02:26:00+00:00
-last_deep_review: 2026-03-22T02:26:00+00:00
+ai_modified: 2026-03-22T11:26:00+00:00
+last_deep_review: 2026-03-22T11:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

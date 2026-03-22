@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review comparing-quantum-consciousness-mechanisms.md considering consciousness-collapse vs decoherence experiments
-- **Type**: cross-review
-- **Notes**: New article consciousness-collapse-versus-decoherence-experiments.md surveys experimental approaches to distinguishing consciousness-collapse from decoherence-only accounts. The comparing-quantum-consciousness-mechanisms.md article compares mechanism theories and should reference these experimental tests as empirical discriminators between the mechanisms it surveys. Check for cross-links and whether experimental feasibility assessments affect the mechanism comparison.
-- **Source**: chain (from consciousness-collapse-versus-decoherence-experiments.md)
-- **Generated**: 2026-03-22
-
 ### P3: Explore feminist philosophy of consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -1137,6 +1131,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Cross-review comparing-quantum-consciousness-mechanisms.md considering consciousness-collapse vs decoherence experiments
+- **Type**: cross-review
+- **Notes**: New article consciousness-collapse-versus-decoherence-experiments.md surveys experimental approaches to distinguishing consciousness-collapse from decoherence-only accounts. The comparing-quantum-consciousness-mechanisms.md article compares mechanism theories and should reference these experimental tests as empirical discriminators between the mechanisms it surveys. Check for cross-links and whether experimental feasibility assessments affect the mechanism comparison.
+- **Output**: obsidian/topics/comparing-quantum-consciousness-mechanisms.md -- Context: Cross-review comparing-quantum-consciousness-mechanisms.md considering consciousness-collapse vs decoherence experiments
 
 ### ✓ 2026-03-22: Cross-review the-epiphenomenalist-threat.md considering clinical neuroplasticity evidence
 - **Type**: cross-review
