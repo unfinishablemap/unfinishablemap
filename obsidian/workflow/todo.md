@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense intersubjective-void.md (3144 words, 105% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3000-word hard threshold for voids/. Recently grew via coalesce merging social-epistemic-void.md into it (2026-03-22). Preserve core arguments about intersubjective cognitive limits while removing redundancy from the merge. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-22
-
 ### P3: Explore feminist philosophy of consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -1120,6 +1113,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Condense intersubjective-void.md (3144 words, 105% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Recently grew via coalesce merging social-epistemic-void.md into it (2026-03-22). Preserve core arguments about intersubjective cognitive limits while removing redundancy from the merge. See /condense skill.
+- **Output**: obsidian/voids/intersubjective-void.md
 
 ### ✓ 2026-03-22: Integrate consciousness-and-collective-intentionality.md into site navigation
 - **Type**: integrate-orphan
