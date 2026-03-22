@@ -4,7 +4,7 @@ description: "How would you test whether consciousness participates in wavefunct
 created: 2026-02-19
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-19T21:04:00+00:00
+ai_modified: 2026-03-22T13:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,12 +25,13 @@ related_articles:
   - "[[methodology-of-consciousness-research]]"
   - "[[time-collapse-and-agency]]"
   - "[[qm-interpretations-beyond-many-worlds]]"
+  - "[[consciousness-collapse-versus-decoherence-experiments]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-03-19T21:04:00+00:00
+last_deep_review: 2026-03-22T13:26:00+00:00
 ---
 
 If consciousness participates in [[measurement-problem|wavefunction collapse]], as The Unfinishable Map's [[tenets]] propose, this claim must be testable if it is to count as more than metaphysics. Yet designing an experiment that distinguishes consciousness-driven collapse from purely physical collapse is among the hardest problems in the philosophy of physics. Every physical measurement that could reveal collapse also introduces the very physical interactions that physicalist interpretations invoke as the cause. The challenge is not technological but conceptual: how do you isolate the contribution of consciousness when consciousness is always accompanied by a physical observer?
@@ -63,7 +64,9 @@ The Wigner's friend scenario provides the most direct test framework. Wigner's f
 
 In 2020, Bong et al. derived the "local friendliness" no-go theorem — stronger than Bell's theorem — showing that certain experimental assumptions cannot all be true simultaneously. One of those assumptions is "absoluteness of observed events" — that measurements produce single, definite outcomes. Many-worlds proponents argue that this theorem actually favours MWI, since MWI denies absoluteness of observed events rather than locality or friendliness. Consciousness-collapse proponents must accept the theorem's constraints differently, maintaining absolute outcomes while explaining how consciousness produces them.
 
-Experiments using photonic systems have tested aspects of this theorem, but critics note the obvious limitation: photonic systems lack anything resembling conscious observation. The experiment needs a genuine conscious observer inside the sealed lab, yet the act of sealing a conscious observer from outside interference is technically impossible at the quantum level — the observer's thermal radiation, gravitational field, and electromagnetic interactions leak information continuously.
+Frauchiger and Renner (2018) formalised a related challenge: applying quantum mechanics universally — including to conscious observers — generates contradictions when combined with the assumption that measurements produce single definite outcomes. Consciousness-collapse theorists can coherently reject the universality assumption (conscious systems are precisely where unitarity breaks down), but any viable version must clearly specify where quantum evolution ceases to apply. The [[consciousness-collapse-versus-decoherence-experiments|experimental landscape article]] discusses this constraint in detail.
+
+Experiments using photonic systems have tested aspects of the Wigner's friend theorem, but critics note the obvious limitation: photonic systems lack anything resembling conscious observation. The experiment needs a genuine conscious observer inside the sealed lab, yet the act of sealing a conscious observer from outside interference is technically impossible at the quantum level — the observer's thermal radiation, gravitational field, and electromagnetic interactions leak information continuously.
 
 ### Statistical Anomaly Detection
 
@@ -119,8 +122,8 @@ Beyond this anchor, the Map's [[testability-ledger]] catalogues broader disconfi
 ### Lines of Convergence
 
 Supporting lines of evidence that would strengthen the case, without being individually decisive:
-- Failure of objective collapse theories to match observed collapse rates (weakening the physicalist alternative)
-- Evidence that [[decoherence]] genuinely cannot solve the measurement problem (preserving the explanatory gap)
+- Failure of objective collapse theories to match observed collapse rates (weakening the physicalist alternative) — the [[consciousness-collapse-versus-decoherence-experiments|experimental landscape]] is actively constraining these models, with Gran Sasso results already ruling out the simplest Diósi-Penrose parameterisations
+- Evidence that [[decoherence]] genuinely cannot solve the measurement problem (preserving the explanatory gap) — proposed levitated nanoparticle experiments aim to distinguish CSL collapse from environmental decoherence directly
 - Discovery of quantum coherence effects in neural systems (establishing the physical preconditions)
 - Anomalous collapse dynamics in high-Φ systems (the Chalmers-McQueen prediction — the strongest individual line)
 - Philosophical arguments showing that indexical facts — why *this* outcome for *this* observer — require consciousness (see [[indexical-identity-quantum-measurement]])
@@ -137,6 +140,7 @@ The Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is directly r
 
 ## Further Reading
 
+- [[consciousness-collapse-versus-decoherence-experiments]] — The current experimental landscape: Gran Sasso, levitated nanoparticles, and the path to decisive tests
 - [[collapse-and-time]] — How collapse connects to temporal asymmetry and why collapse realism matters for testability
 - [[quantum-measurement-and-consciousness]]
 - [[consciousness-in-smeared-quantum-states]]
@@ -149,6 +153,7 @@ The Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is directly r
 
 1. Bong, K. W., et al. (2020). "A strong no-go theorem on the Wigner's friend paradox." *Nature Physics*, 16, 1199–1205.
 1. Chalmers, D., & McQueen, K. (2021). "Consciousness and the collapse of the wave function." In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
+1. Frauchiger, D. & Renner, R. (2018). "Quantum theory cannot consistently describe the use of itself." *Nature Communications*, 9, 3711.
 1. Jahn, R. G., & Dunne, B. J. (2005). "The PEAR Proposition." *Journal of Scientific Exploration*, 19(2), 195–245.
 1. Müller, S., et al. (2021). "Quantum measurement arrow of time and fluctuation relations." *Nature Communications*, 12, 1–8.
 1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61, 4194–4206.

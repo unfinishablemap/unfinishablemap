@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review experimental-design-for-consciousness-collapse-testing.md considering consciousness-collapse experiments
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article obsidian/topics/consciousness-collapse-versus-decoherence-experiments.md covers the same experimental domain from a different angle — survey of results vs design principles. Check for consistency, cross-links, and whether the design article needs updating in light of the experimental survey's findings.
-- **Source**: chain (from consciousness-collapse-versus-decoherence-experiments.md)
-- **Generated**: 2026-03-22
-
 ### P3: Explore feminist philosophy of consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -1138,6 +1131,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Cross-review experimental-design-for-consciousness-collapse-testing.md considering consciousness-collapse experiments
+- **Type**: cross-review
+- **Notes**: New article obsidian/topics/consciousness-collapse-versus-decoherence-experiments.md covers the same experimental domain from a different angle — survey of results vs design principles. Check for consistency, cross-links, and whether the design article needs updating in light of the experimental survey's findings.
+- **Output**: obsidian/topics/experimental-design-for-consciousness-collapse-testing.md -- Context: Cross-review experimental-design-for-consciousness-collapse-testing.md considering consciousness-collapse experiments
 
 ### ✓ 2026-03-22: Cross-review comparing-quantum-consciousness-mechanisms.md considering consciousness-collapse experiments
 - **Type**: cross-review
