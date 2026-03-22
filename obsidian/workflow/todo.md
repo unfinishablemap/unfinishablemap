@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-22T10:26:00+00:00
+ai_modified: 2026-03-22T11:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Refine anaesthesia-and-the-consciousness-interface.md with filter theory research
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Incorporate filter theory evidence from general anesthesia data into the existing article — specificity of anesthetic agents as evidence for transmission/filter rather than generation, differential consciousness preservation under different agents, and implications for the interface model. Directly supports Tenet 3 (Bidirectional Interaction).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-22
+
+### P2: Write void article on the infant consciousness void
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/voids-infant-consciousness-void-2026-03-21.md. The cognitive inaccessibility of infant experience — we all had consciousness before language and memory could record it, creating a permanent epistemic gap. Target section: voids/ (last available slot, 99/100). Supports Tenet 1 (Dualism) via the irreducibility of pre-linguistic phenomenal experience.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-22
+
+### P2: Cross-review placebo-effect-and-mental-causation.md considering clinical neuroplasticity evidence
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article obsidian/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md provides convergent evidence for mental causation from neuroplasticity data. Check for cross-links, reinforcing arguments, and whether the placebo article's causal specificity argument is strengthened by neuroplasticity findings.
+- **Source**: chain (from clinical-neuroplasticity-evidence-for-bidirectional-causation.md)
+- **Generated**: 2026-03-22
+
+### P2: Cross-review comparing-quantum-consciousness-mechanisms.md considering consciousness-collapse experiments
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article obsidian/topics/consciousness-collapse-versus-decoherence-experiments.md surveys the experimental landscape for distinguishing consciousness-collapse from decoherence. The mechanisms comparison article should reference this experimental evidence and update any claims about testability. Directly relevant to Tenet 2 (Minimal Quantum Interaction).
+- **Source**: chain (from consciousness-collapse-versus-decoherence-experiments.md)
+- **Generated**: 2026-03-22
+
+### P2: Cross-review experimental-design-for-consciousness-collapse-testing.md considering consciousness-collapse experiments
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article obsidian/topics/consciousness-collapse-versus-decoherence-experiments.md covers the same experimental domain from a different angle — survey of results vs design principles. Check for consistency, cross-links, and whether the design article needs updating in light of the experimental survey's findings.
+- **Source**: chain (from consciousness-collapse-versus-decoherence-experiments.md)
+- **Generated**: 2026-03-22
 
 ### P3: Explore feminist philosophy of consciousness
 - **Type**: expand-topic
