@@ -9,6 +9,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-22 13:26 UTC - deep-review
+- **Status**: Success
+- **File**: [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/)
+- **Word count**: 2319 → 2461 (+142)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-22-experimental-design-for-consciousness-collapse-testing](/reviews/deep-review-2026-03-22-experimental-design-for-consciousness-collapse-testing/)
+
+## 2026-03-22 13:12 UTC - deep-review
+- **Status**: Success (no changes — stability confirmed, review #7)
+- **File**: [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
+- **Word count**: 3242 → 3242 (unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-22c-comparing-quantum-consciousness-mechanisms](/reviews/deep-review-2026-03-22c-comparing-quantum-consciousness-mechanisms/)
+
 ## 2026-03-22 12:56 UTC - coalesce
 - **Status**: Success
 - **Sources**: [convergence-of-the-void-catalogue](/voids/convergence-as-evidence/), [evidential-weight-of-voids](/voids/convergence-as-evidence/)
