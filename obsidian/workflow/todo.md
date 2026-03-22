@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review placebo-effect-and-mental-causation.md considering clinical neuroplasticity evidence
-- **Type**: cross-review
-- **Notes**: New article clinical-neuroplasticity-evidence-for-bidirectional-causation.md provides systematic clinical evidence (CBT-driven neural restructuring, meditation-induced cortical thickening, phantom limb neuroplasticity) directly relevant to placebo-effect-and-mental-causation.md. Check for cross-links, complementary clinical evidence, and whether the placebo article's claims about content-specific causation are reinforced by neuroplasticity data.
-- **Source**: chain (from clinical-neuroplasticity-evidence-for-bidirectional-causation.md)
-- **Generated**: 2026-03-22
-
 ### P2: Cross-review the-epiphenomenalist-threat.md considering clinical neuroplasticity evidence
 - **Type**: cross-review
 - **Notes**: New article clinical-neuroplasticity-evidence-for-bidirectional-causation.md provides clinical evidence that mental states produce lasting structural brain changes — direct counter-evidence to epiphenomenalism. Check whether the-epiphenomenalist-threat.md should reference neuroplasticity as empirical evidence against the epiphenomenalist position, and add cross-links.
@@ -1149,6 +1143,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Cross-review placebo-effect-and-mental-causation.md considering clinical neuroplasticity evidence
+- **Type**: cross-review
+- **Notes**: New article clinical-neuroplasticity-evidence-for-bidirectional-causation.md provides systematic clinical evidence (CBT-driven neural restructuring, meditation-induced cortical thickening, phantom limb neuroplasticity) directly relevant to placebo-effect-and-mental-causation.md. Check for cross-links, complementary clinical evidence, and whether the placebo article's claims about content-specific causation are reinforced by neuroplasticity data.
+- **Output**: obsidian/topics/placebo-effect-and-mental-causation.md -- Context: Cross-review placebo-effect-and-mental-causation.md considering clinical neuroplasticity evidence
 
 ### ✓ 2026-03-22: Condense intersubjective-void.md (3144 words, 105% of hard threshold)
 - **Type**: condense
