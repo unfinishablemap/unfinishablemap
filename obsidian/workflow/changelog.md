@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 08:12 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/philosophical-zombies]]
+- **Word count**: 3170 → 2805 (-365)
+- **Critical issues addressed**: 1 (broken wikilink)
+- **Medium issues addressed**: 3 (length condensation, stale refinement log, missing citations)
+- **Enhancements made**: 3 (added Block/Whitehead/Tallis citations, removed redundancy, tightened prose)
+- **Output**: [[reviews/deep-review-2026-03-22-philosophical-zombies]]
+
 ## 2026-03-22 07:57 UTC - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: Experimental tests distinguishing consciousness-collapse from decoherence
