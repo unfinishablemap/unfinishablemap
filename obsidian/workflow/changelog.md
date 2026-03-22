@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 06:56 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[social-epistemic-void]]
+- **Target**: [[intersubjective-void]]
+- **Archived**: archive/voids/social-epistemic-void.md
+- **References to review**: 15+ files reference [[social-epistemic-void]] and may need updating
+
 ## 2026-03-22 06:41 UTC - deep-review
 - **Status**: Success
 - **File**: [[social-epistemic-void]]

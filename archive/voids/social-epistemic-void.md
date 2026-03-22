@@ -6,6 +6,11 @@ modified: 2026-03-20
 human_modified:
 ai_modified: 2026-03-22T06:41:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-22T06:56:00+00:00
+superseded_by: "/voids/intersubjective-void/"
+archive_reason: "Coalesced into The Intersubjective Void"
+original_path: "/voids/social-epistemic-void/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[philosophy-of-mind]]"
