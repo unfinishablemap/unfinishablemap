@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 11:51 UTC - coalesce
+- **Status**: Abandoned (no merge candidates)
+- **Section surveyed**: topics/ (228/230, most pressured)
+- **Clusters evaluated**: 5 (animal consciousness, collective consciousness, causal powers, temporal consciousness, quantum mechanisms)
+- **Reason**: All candidate clusters are well-differentiated after prior coalescence rounds. Articles address distinct questions and complement rather than duplicate each other.
+
 ## 2026-03-22 11:26 UTC - deep-review
 - **Status**: Success (confirmed stable)
 - **File**: [[comparing-quantum-consciousness-mechanisms]]
