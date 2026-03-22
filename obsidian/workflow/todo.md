@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review epiphenomenalism articles considering arguments-against-epiphenomenalism.md
-- **Type**: cross-review
-- **Notes**: New concept page obsidian/concepts/arguments-against-epiphenomenalism.md consolidates anti-epiphenomenalism arguments. Check the-epiphenomenalist-threat.md and mental-causation.md for cross-links, reinforcing arguments, and consistency. Supports Tenet 3 (Bidirectional Interaction).
-- **Source**: chain (from arguments-against-epiphenomenalism.md)
-- **Generated**: 2026-03-22
-
 ### P2: Cross-review bidirectional-causation articles considering clinical-neuroplasticity-evidence.md
 - **Type**: cross-review
 - **Notes**: New article obsidian/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md provides empirical evidence for mental causation via neuroplasticity. Check bidirectional-interaction.md, mental-causation.md, and placebo-effect-and-mental-causation.md for cross-links and cumulative argument strengthening. Directly supports Tenet 3.
@@ -1179,6 +1173,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Cross-review epiphenomenalism articles considering arguments-against-epiphenomenalism.md
+- **Type**: cross-review
+- **Notes**: New concept page obsidian/concepts/arguments-against-epiphenomenalism.md consolidates anti-epiphenomenalism arguments. Check the-epiphenomenalist-threat.md and mental-causation.md for cross-links, reinforcing arguments, and consistency. Supports Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/concepts/arguments-against-epiphenomenalism.md -- Context: Cross-review epiphenomenalism articles considering arguments-against-epiphenomenalism.md
 
 ### ✓ 2026-03-22: Cross-review dualism articles considering russellian-monism-versus-bi-aspectual-dualism.md
 - **Type**: cross-review
