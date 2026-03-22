@@ -52,7 +52,7 @@ Merleau-Ponty's phenomenology anticipated these findings. His concept of the *in
 
 ## The Expert Blind Spot
 
-The expertise void manifests practically in the phenomenon Nathan and Petrosino (2003) called the *expert blind spot*. Experts lose access to memory traces of their cognitive processes through automatisation—a failure of [[introspection]] that is structurally produced by the expertise itself. The scaffolding of learning is dismantled as skill consolidates. Content expertise can actually impair teaching—the expert cannot reconstruct the steps by which they arrived at understanding because those steps have been absorbed into a seamless competence.
+The expertise void manifests practically in the phenomenon Nathan and Petrosino (2003) called the *expert blind spot*. Experts lose access to memory traces of their cognitive processes through automatisation—the final stage of [[skill-delegation]] where consciousness has fully withdrawn from procedural systems it once calibrated. This is a failure of [[introspection]] that is structurally produced by the expertise itself. The scaffolding of learning is dismantled as skill consolidates. Content expertise can actually impair teaching—the expert cannot reconstruct the steps by which they arrived at understanding because those steps have been absorbed into a seamless competence.
 
 The curse of knowledge (Camerer, Loewenstein, and Weber, 1989) provides experimental confirmation. Once you know something, you cannot accurately reconstruct what it was like not to know it. The bias is asymmetric and remarkably resistant to debiasing—telling people about it or providing financial incentives does not reduce it. In Newton's (1990) tapper experiment, people who tapped out a melody dramatically overestimated how recognisable it would be because they could not suppress their own knowledge of the song. The melody filled in what the tapping lacked, and they could not hear the bare tapping as others heard it.
 
@@ -98,6 +98,7 @@ The expertise void also connects to the [[architecture-of-cognitive-closure|deve
 
 ## Further Reading
 
+- [[skill-delegation]] — The three-phase process (calibration, withdrawal, retained override) that creates the expertise void when withdrawal becomes irreversible
 - [[absorption-void]]
 - [[habituation-void]]
 - [[architecture-of-cognitive-closure]]

@@ -4,7 +4,7 @@ description: "Skill delegation is how consciousness trains procedural systems, w
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-21T21:56:00+00:00
+ai_modified: 2026-03-22T06:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review: 2026-03-21T21:56:00+00:00
+last_deep_review: 2026-03-22T06:11:00+00:00
 ---
 
 Skill delegation is the process by which consciousness trains a procedural system to perform a task, withdraws from active control, and retains the capacity to re-engage. A novice typist consciously selects each key; an expert's fingers move without reflective guidance. The skill has not vanished from consciousness—it has been *delegated*. The Unfinishable Map treats skill delegation as a central phenomenon for understanding mind-body interaction, because it reveals three things simultaneously: consciousness has genuine causal power (it trains the system), that power operates through an interface (it can withdraw), and the interface remains live (it can re-engage, sometimes disruptively).

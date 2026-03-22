@@ -67,7 +67,7 @@ Sustained overload produces something different from acute item loss: a *fog* �
 
 ## The Texture of Withdrawal
 
-Automatisation — the process by which conscious, effortful cognition becomes unconscious and effortless — is the mirror image of overload. Where overload is consciousness encountering a ceiling, automatisation is consciousness vacating a domain.
+Automatisation — the process by which conscious, effortful cognition becomes unconscious and effortless — is the mirror image of overload. Where overload is consciousness encountering a ceiling, automatisation is consciousness vacating a domain. The Map's account of [[skill-delegation]] describes the full arc: conscious calibration during learning, progressive withdrawal as procedural systems absorb the skill, and retained override capacity that allows re-engagement when needed.
 
 The transition is not a clean switch. A new driver consciously monitors mirror checks, gear changes, and following distances. Over months, these become automatic. But in the middle phase, consciousness *hovers* — the driver no longer actively thinks about checking mirrors but remains dimly aware of doing so. This hovering awareness could sharpen into full attention if something unexpected appeared.
 
@@ -146,6 +146,7 @@ The claim that cognitive capacity phenomenology is irreducible would face diffic
 ## Further Reading
 
 - [[phenomenology-of-intellectual-effort]] — The effort of reasoning itself, complementing the capacity constraints explored here
+- [[skill-delegation]] — The three-phase delegation pattern underlying the withdrawal phenomenology described here
 - [[consciousness-and-skilled-performance]] — How consciousness participates in skilled action, including the opposite experiential pole of effortless flow
 - [[choking-phenomenon-mental-causation]] — When conscious re-entry disrupts automated performance
 - [[phenomenology-of-returning-attention]] — What it is like to redirect cognitive resources after distraction
