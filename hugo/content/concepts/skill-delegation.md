@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-20 19:44:00+00:00
+ai_modified: 2026-03-21 21:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Skill delegation is how consciousness trains procedural systems, wi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-20 19:44:00+00:00
+last_deep_review: 2026-03-21 21:56:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -87,7 +87,7 @@ Skill delegation is not binary. Between full conscious control and full automati
 
 **Degraded delegation** occurs when procedural systems fail to maintain performance and consciousness must re-engage. Fatigue, injury, or novel conditions force the expert back toward conscious control. The re-engagement is effortful and often marks the transition from expert to merely competent performance.
 
-These gradients suggest that skill delegation is not a single mechanism but a family of related phenomena involving variable conscious engagement with procedural systems. The common thread is that consciousness can modulate its degree of involvement—proof that the interface is not merely on or off but continuously adjustable.
+These gradients suggest that skill delegation is not a single mechanism but a family of related phenomena involving variable conscious engagement with procedural systems. The common thread is that consciousness can modulate its degree of involvement—proof that the interface is not merely on or off but continuously adjustable. This aligns with what [research on conscious vs unconscious processing](/concepts/conscious-vs-unconscious-processing/) reveals: consciousness enables novel combinations and spontaneous intentional action, while unconscious processing follows established patterns. Skill delegation is the process by which novel conscious engagement *creates* the established patterns that unconscious processing can then follow.
 
 ## Skill Delegation and Causal Delegation
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-21 02:58:00+00:00
+ai_modified: 2026-03-21 21:56:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -78,7 +78,7 @@ The sense of agency varies:
 - **Weak authorship**: "This seemed like the only option"
 - **Absent authorship**: "I don't know how that happened"
 
-These variations track something real about different kinds of actions. Spontaneous skilled performance (typing this sentence) produces weak authorship—it happens through me but doesn't feel deliberately chosen. Effortful decisions (career choices, moral dilemmas) produce strong authorship. Automatic habits or compulsions may produce absent authorship.
+These variations track something real about different kinds of actions. Spontaneous skilled performance (typing this sentence) produces weak authorship—it happens through me but doesn't feel deliberately chosen, reflecting [delegated skill](/concepts/skill-delegation/) where consciousness has withdrawn from active control. Effortful decisions (career choices, moral dilemmas) produce strong authorship. Automatic habits or compulsions may produce absent authorship.
 
 The sense of agency isn't infallible—patients with frontal damage may report authorship for actions they didn't initiate, or deny authorship for actions they did. But its variation tracks genuine differences in cognitive processing.
 

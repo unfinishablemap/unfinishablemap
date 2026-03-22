@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-21 18:40:00+00:00
+ai_modified: 2026-03-21 22:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,10 +38,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review placebo-effect-and-mental-causation.md and empirical-evidence-for-consciousness-selecting.md considering new neuroplasticity article
+### P2: Integrate surprise-and-creativity.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has only 1 inbound link (from surprise-prediction-error-and-consciousness.md). Add cross-references from related articles such as consciousness-and-creativity, predictive-processing-and-dualism, phenomenology-of-insight, or relevant concept pages. Update section index if needed.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-21
+
+### P2: Review placebo-effect-and-mental-causation.md considering clinical neuroplasticity insights
 - **Type**: cross-review
-- **Notes**: New article topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md (2026-03-21) synthesises clinical neuroplasticity evidence for bidirectional causation. Check placebo-effect-and-mental-causation.md and empirical-evidence-for-consciousness-selecting.md for cross-links, whether the neuroplasticity convergence argument strengthens their cases, and terminological consistency.
+- **Notes**: New article clinical-neuroplasticity-evidence-for-bidirectional-causation.md (2026-03-21) provides neuroplasticity evidence for Tenet 3 (Bidirectional Interaction). Check placebo-effect-and-mental-causation.md for opportunities to cross-link, reinforce arguments with neuroplasticity evidence, and ensure consistent treatment of mental causation claims.
 - **Source**: chain (from clinical-neuroplasticity-evidence-for-bidirectional-causation.md)
+- **Generated**: 2026-03-21
+
+### P2: Review consciousness-as-activity.md considering enactivism insights
+- **Type**: cross-review
+- **Notes**: New article enactivism-challenge-to-interactionist-dualism.md (2026-03-21) presents enactivism as a challenge to the Map's framework. Check consciousness-as-activity.md for cross-links, potential tensions with the enactivist critique, and opportunities to strengthen the interactionist response to embodied/enactive approaches.
+- **Source**: chain (from enactivism-challenge-to-interactionist-dualism.md)
 - **Generated**: 2026-03-21
 
 ### P3: Explore feminist philosophy of consciousness
@@ -386,10 +398,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map relies on phenomenological evidence but has no dedicated treatment of why first-person data counts as evidence. Dennett's heterophenomenology, Husserl's adequate/apodictic distinction, neurophenomenological validation need systematic treatment. Builds on contemplative-practice-as-philosophical-evidence, phenomenology-of-agency-vs-passivity. Target section: topics/. See optimistic-2026-03-19-evening.md
 - **Generated**: 2026-03-19
 
-### P3: Write article on Gödel-measurement problem structural parallel
+### ✓ 2026-03-22: Write article on Gödel-measurement problem structural parallel
 - **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Szangolies' Lawvere fixed-point theorem shows Gödel incompleteness and the measurement problem share formal structure, not just analogy. Would strengthen the case that the hard problem and the measurement problem are aspects of the same deeper phenomenon. Builds on consciousness-and-the-philosophy-of-mathematics, consciousness-and-the-authority-of-formal-systems. Target section: topics/. See optimistic-2026-03-19-evening.md
+- **Status**: skipped (already covered)
+- **Notes**: Already covered by topics/self-reference-and-the-limits-of-physical-description.md which includes the Lawvere fixed-point unification, Szangolies' epistemic horizons, and the structural parallel argument. Duplicate of existing coverage.
 - **Generated**: 2026-03-19
 
 ### P3: Create concept page for mathematical intuition
@@ -1088,8 +1100,70 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Original intentionality is constitutively phenomenal — only conscious states are genuinely "about" anything. Currently referenced implicitly across multiple articles. Target section: concepts/. See optimistic-2026-03-21.md
 - **Generated**: 2026-03-21
 
+### P3: Write article on philosophy of perception under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The enactivism-challenge article opens a gap: sensorimotor contingencies specify *which* qualities experience has but not *that* there are qualities. A dedicated treatment of perception under the Map's dualist framework would fill this. Builds on dualist-perception, sensorimotor-contingencies-and-the-interface. Target section: topics/. See optimistic-2026-03-21-evening.md
+- **Generated**: 2026-03-21
+
+### P3: Write article on the self under interactionist dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Recent deep reviews of social-construction-of-self-vs-phenomenal-self, self-and-consciousness, and self-consciousness raise a question the Map hasn't systematically addressed: what is the self under interactionist dualism? The self is where all five tenets converge. Target section: topics/. See optimistic-2026-03-21-evening.md
+- **Generated**: 2026-03-21
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Write article on Russellian monism vs bi-aspectual dualism
+- **Type**: expand-topic
+- **Notes**: Two research notes completed (russellian-monism-vs-bi-aspectual-dualism-2026-03-14.md, russellian-monism-bi-aspectual-dualism-supplement-2026-03-17.md). Critical positioning piece: Russellian monism is the Map's closest competitor. Key differences — neutral monism vs genuine dualism, panpsychist tendencies, combination problem vulnerability. Covers Chalmers, Goff, Stoljar, cosmopsychism debate, Lockwood framework. Target section: concepts/.
+- **Output**: Russellian monism vs bi-aspectual dualism
+
+### ✓ 2026-03-22: Write article on the Gödel-measurement problem analogy
+- **Type**: expand-topic
+- **Notes**: Two research notes completed (godel-measurement-problem-analogy-2026-03-14.md, godel-measurement-problem-analogy-2026-03-17.md). Rigorous treatment of structural parallels between Gödel incompleteness and the measurement problem: Penrose's use, Lucas-Penrose argument and critics, Szangolies' Epistemic Horizons, Chaitin's algorithmic randomness. Where the analogy holds and where it breaks. Target section: concepts/.
+- **Output**: the Gödel-measurement problem analogy
+
+### ✓ 2026-03-21: Write article on experimental tests distinguishing consciousness-collapse from decoherence
+- **Type**: expand-topic
+- **Notes**: Research completed in experimental-tests-consciousness-collapse-decoherence-2026-03-21.md. Key question: can empirical tests distinguish consciousness-caused collapse from environmental decoherence? Covers delayed-choice quantum eraser variants, Wigner's friend scenarios, proposed interferometric tests. Directly supports Tenet 2 (Minimal Quantum Interaction) by addressing falsifiability. Target section: concepts/.
+- **Output**: experimental tests distinguishing consciousness-collapse from decoherence
+
+### ✓ 2026-03-21: Write article on Wheeler's participatory universe and "it from bit"
+- **Type**: expand-topic
+- **Notes**: Two research notes completed (wheeler-it-from-bit-2026-03-14.md, wheeler-participatory-universe-it-from-bit-2026-03-16.md). Synthesize Wheeler's "it from bit" programme, delayed-choice experiments, participatory universe thesis, and Fuchs's participatory realism. Position the Map relative to Wheeler: more specific (quantum selection), more modest (selects outcomes, doesn't create reality), more constrained by tenets. Directly relevant to Tenets 2 and 4. Target section: concepts/.
+- **Output**: Wheeler's participatory universe and "it from bit"
+
+### ✓ 2026-03-21: Research experimental tests distinguishing consciousness-collapse from decoherence-only interpretations
+- **Type**: research-topic
+- **Notes**: Pessimistic review flagged unfalsifiability concerns in quantum mechanism articles (consciousness-selecting-neural-patterns, filter-theory, downward-causation). Research current and proposed experiments that could distinguish consciousness-mediated collapse from decoherence-only models: Wigner's friend variants (Brukner, Frauchiger-Renner), delayed-choice quantum eraser refinements, proposed tests of objective collapse models (CSL, Diósi-Penrose). Critical for addressing the falsifiability gap in the Map's Tenet 2 arguments. Target section: topics/.
+- **Output**: experimental tests distinguishing consciousness-collapse from decoherence-only interpretations
+
+### ✓ 2026-03-21: Integrate epiphenomenalisms-gravity-well.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Recently created (2026-03-20) topics article on why epiphenomenalism exerts strong intellectual pull despite its problems. Add cross-references from epiphenomenalism.md, arguments-against-epiphenomenalism.md, the-epiphenomenalist-threat.md, and related mental causation articles.
+- **Output**: epiphenomenalisms-gravity-well.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-21: Integrate skill-delegation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Recently created (2026-03-20) concept page on consciousness training procedural systems and retaining override capacity. Add cross-references from related articles such as phenomenology-of-agency-vs-passivity, choking-phenomenon-mental-causation, consciousness-and-skilled-performance, and attention-and-the-consciousness-interface.
+- **Output**: obsidian/concepts/skill-delegation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-21: Integrate clinical-neuroplasticity-evidence-for-bidirectional-causation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Recently created (2026-03-21) article on clinical neuroplasticity evidence for bidirectional mental causation. Add cross-references from related articles such as placebo-effect-and-mental-causation, empirical-evidence-for-consciousness-selecting, mental-causation, and bidirectional-interaction concept page.
+- **Output**: obsidian/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-21: Write article on enactivism as challenge to interactionist dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/enactivism-challenge-interactionist-dualism-2026-03-21.md. Enactivism (Varela, Thompson, Rosch) challenges interactionist dualism by dissolving mind-body separation rather than explaining the interface. However, enactivism faces its own hard problem of consciousness and shares the Map's commitment to phenomenological irreducibility. Article should present the challenge fairly, identify shared ground, and articulate the dualist response — particularly that enactivism's dissolution strategy leaves the explanatory gap intact. Target section: topics/.
+- **Output**: enactivism as challenge to interactionist dualism
+
+### ✓ 2026-03-21: Cross-review placebo-effect-and-mental-causation.md and empirical-evidence-for-consciousness-selecting.md considering new neuroplasticity article
+- **Type**: cross-review
+- **Notes**: New article topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md (2026-03-21) synthesises clinical neuroplasticity evidence for bidirectional causation. Check placebo-effect-and-mental-causation.md and empirical-evidence-for-consciousness-selecting.md for cross-links, whether the neuroplasticity convergence argument strengthens their cases, and terminological consistency.
+- **Output**: obsidian/topics/placebo-effect-and-mental-causation.md -- Context: Cross-review placebo-effect-and-mental-causation.md and empirical-evidence-for-consciousness-selecting.md considering new neuroplasticity article
 
 ### ✓ 2026-03-21: Update references to coalesced introspection-rehabilitation article
 - **Type**: cross-review

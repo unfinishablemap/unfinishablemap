@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-21 21:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -153,7 +153,7 @@ Meditation provides a window onto the attention interface. Focused attention (FA
 | Active selection | FA meditation | Engaged | Frontal theta, ACC activation |
 | Passive witnessing | OM meditation | Disengaged | PCC deactivation, DMN quieting |
 
-FA practitioners develop stronger concentration; both selection and witnessing are genuine modes. The capacity for selection includes the capacity to suspend it. Buddhist samatha meditation reveals increasingly fine-grained awareness of the distinction between willed redirection and automatic drift—consistent with the three-level distinction. Advanced practitioners report a [witness](/concepts/witness-consciousness/) quality—awareness observing attention itself.
+FA practitioners develop stronger concentration; both selection and witnessing are genuine modes. The capacity for selection includes the capacity to suspend it. Buddhist samatha meditation reveals increasingly fine-grained awareness of the distinction between willed redirection and automatic drift—consistent with the three-level distinction. Advanced practitioners report a [witness](/concepts/witness-consciousness/) quality—awareness observing attention itself. Meditation training follows the [skill-delegation](/concepts/skill-delegation/) pattern: initial conscious calibration of attentional control, progressive withdrawal as stability develops, and retained override capacity to re-engage when attention drifts.
 
 ## Relation to Major Theories
 

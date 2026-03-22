@@ -77,7 +77,7 @@ Recent neuroscience supports a crucial distinction. Willed attention (internally
 
 Jeffrey Schwartz developed a cognitive therapy for OCD based on directed attention. His four-step method teaches patients to redirect attention away from obsessive thoughts. The striking finding: therapy produces measurable brain changes. PET scans showed altered caudate nucleus metabolism after successful treatment—patients literally reshaped their brains through "self-directed neuroplasticity."
 
-Schwartz and Stapp's 2005 collaboration proposed that mental effort operates through quantum Zeno mechanisms: repeated attention sustains alternative neural patterns, which strengthen over time while obsessive patterns weaken.
+Schwartz and Stapp's 2005 collaboration proposed that mental effort operates through quantum Zeno mechanisms: repeated attention sustains alternative neural patterns, which strengthen over time while obsessive patterns weaken. The [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) extends this case with three additional evidence streams—psychotherapy neuroimaging, meditation structural remodelling, and placebo neuroplasticity—all converging on the same conclusion.
 
 The findings don't definitively prove the quantum Zeno mechanism—a materialist could invoke classical neural self-modification. But they establish that mental effort has physical consequences. Whatever the mechanism, something patients do with their minds changes their brains. This is harder to explain under [epiphenomenalism](/concepts/epiphenomenalism/) than under [interactionist-dualism](/concepts/interactionist-dualism/).
 
@@ -178,6 +178,7 @@ The model generates falsifiable predictions:
 - [the-participatory-universe](/topics/the-participatory-universe/) — Wheeler's participatory vision that Stapp concretises
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The indexical gap: why *this* consciousness selects *this* outcome
 - [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) — Whether valence could extend the Zeno mechanism beyond value-neutral attention
+- [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) — Four converging clinical evidence streams extending Schwartz's OCD research
 - [stapp-mental-effort-mind-matter-2026-01-14](/research/stapp-mental-effort-mind-matter-2026-01-14/) — Detailed research notes
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — How Stapp's Zeno mechanism fits within the broader interpretive landscape
 - [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — Comparative survey: Stapp's Zeno approach alongside five other amplification mechanisms

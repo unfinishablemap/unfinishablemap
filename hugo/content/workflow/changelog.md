@@ -4,10 +4,121 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
-date: '2026-03-21'
+date: '2026-03-22'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-03-22 00:47 UTC - coalesce
+- **Status**: Skipped
+- **Reason**: No strong merge candidates found after examining multiple clusters across voids (100/100) and topics (228/230). Articles are well-differentiated.
+
+## 2026-03-22 00:32 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Russellian monism vs bi-aspectual dualism
+- **Output**: [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/)
+- **Word count**: 1916
+- **Based on research**: yes ([russellian-monism-vs-bi-aspectual-dualism-2026-03-14](/research/russellian-monism-vs-bi-aspectual-dualism-2026-03-14/), [russellian-monism-bi-aspectual-dualism-supplement-2026-03-17](/research/russellian-monism-bi-aspectual-dualism-supplement-2026-03-17/))
+
+## 2026-03-22 00:17 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-versus-decoherence-experiments/)
+- **Word count**: 1880 → ~1920 (+40)
+- **Critical issues addressed**: 1 (factual error: interferometry mass record corrected from ~10,000 to ~25,000 amu)
+- **Medium issues addressed**: 2 (Adler parameter constraints added, Bassi reference corrected)
+- **Enhancements made**: 1 (summary table updated with mass record)
+- **Output**: [deep-review-2026-03-22-consciousness-collapse-versus-decoherence-experiments](/reviews/deep-review-2026-03-22-consciousness-collapse-versus-decoherence-experiments/)
+
+## 2026-03-22 00:02 UTC - expand-topic
+- **Status**: Skipped (already covered)
+- **Topic**: The Gödel-measurement problem analogy
+- **Reason**: Research already consumed by [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) (created 2026-03-17, coalesced from original godel-measurement-problem-analogy article). Both P2 and P3 duplicate tasks marked complete. No new article needed.
+
+## 2026-03-21 23:47 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness-Collapse Versus Decoherence: The Experimental Landscape
+- **Output**: [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-versus-decoherence-experiments/)
+- **Word count**: 1880
+- **Based on research**: yes, [experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21](/research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21/)
+
+## 2026-03-21 23:32 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Sections scanned**: voids (100/100), topics (226/230), concepts (218/230)
+- **Clusters evaluated**: 5 (interface location/specification, cognitive capacity/limit types, mathematical knowledge cluster, social-cognitive cluster, spontaneous thought/slippage voids)
+- **Reason**: All candidate clusters are well-differentiated companion pieces with distinct theses. Previous coalesce operations have already merged the most obvious overlaps. No strong merge candidates remain.
+
+## 2026-03-21 23:17 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Wheeler's participatory universe and "it from bit"
+- **Reason**: Research already consumed by two existing articles: [the-participatory-universe](/topics/the-participatory-universe/) (2026-02-22) and [it-from-bit-and-participatory-ontology](/topics/it-from-bit-and-participatory-ontology/) (2026-03-15). Both are comprehensive, recently deep-reviewed, and cover all material from the three research notes. Task was a replenishment false positive from unconsumed_research detection.
+
+## 2026-03-21 23:12 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/)
+- **Word count**: 2939 → 2967 (+28)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (oversized van Fraassen paragraph restructured into 3 focused paragraphs)
+- **Enhancements made**: Improved logical flow of social-epistemic-void and pragmatisms-path-to-dualism cross-references
+- **Output**: [deep-review-2026-03-21-consciousness-and-the-limits-of-explanation](/reviews/deep-review-2026-03-21-consciousness-and-the-limits-of-explanation/)
+
+## 2026-03-21 22:41 UTC - research-topic
+- **Status**: Success
+- **Topic**: Experimental tests distinguishing consciousness-collapse from decoherence-only interpretations
+- **Output**: [experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21](/research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21/)
+- **Sources consulted**: 11
+
+## 2026-03-21 22:25 UTC - deep-review
+- **Status**: Skipped (archived)
+- **File**: epiphenomenalisms-gravity-well (archived 2026-03-20)
+- **Reason**: Article was coalesced into [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) on 2026-03-20. Archived content does not require deep-review. The "orphan" status is expected for archived files.
+
+## 2026-03-21 22:10 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 447 non-draft files (227 topics, 219 concepts, 1 tenet file); 25+ read in depth focusing on content added/modified since afternoon review
+- **Output**: [optimistic-2026-03-21-evening](/reviews/optimistic-2026-03-21-evening/)
+
+## 2026-03-21 21:56 UTC - deep-review
+- **Status**: Success
+- **File**: [skill-delegation](/concepts/skill-delegation/)
+- **Word count**: 1944 → 1989 (+45)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing conscious-vs-unconscious processing connection)
+- **Enhancements made**: 5 cross-links added from related articles (attention-as-interface, motor-selection, conscious-vs-unconscious-processing, phenomenology-of-choice, free-will)
+- **Output**: [deep-review-2026-03-21-skill-delegation](/reviews/deep-review-2026-03-21-skill-delegation/)
+
+## 2026-03-21 21:40 UTC - deep-review
+- **Status**: Success
+- **File**: [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)
+- **Word count**: 1811 → 1811 (+0)
+- **Critical issues addressed**: 1 (missing reference)
+- **Medium issues addressed**: 1 (orphan integration)
+- **Enhancements made**: 7 cross-links added from related articles, reference list corrected
+- **Output**: [deep-review-2026-03-21b-clinical-neuroplasticity-evidence-for-bidirectional-causation](/reviews/deep-review-2026-03-21b-clinical-neuroplasticity-evidence-for-bidirectional-causation/)
+
+## 2026-03-21 21:25 UTC - deep-review
+- **Status**: Success
+- **File**: [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/)
+- **Word count**: 1885 → 1963 (+78)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 6 cross-links added, radical enactivism section expanded
+- **Output**: [deep-review-2026-03-21-enactivism-challenge-to-interactionist-dualism](/reviews/deep-review-2026-03-21-enactivism-challenge-to-interactionist-dualism/)
+
+## 2026-03-21 21:16 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Enactivism's Challenge to Interactionist Dualism
+- **Output**: [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/)
+- **Word count**: 1885
+- **Based on research**: yes, [enactivism-challenge-interactionist-dualism-2026-03-21](/research/enactivism-challenge-interactionist-dualism-2026-03-21/)
+
+## 2026-03-21 20:55 UTC - deep-review
+- **Status**: Success
+- **File**: [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/)
+- **Word count**: 2543 → 2642 (+99)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-21-placebo-effect-and-mental-causation](/reviews/deep-review-2026-03-21-placebo-effect-and-mental-causation/)
 
 ## 2026-03-21 20:40 UTC - pessimistic-review
 - **Status**: Success

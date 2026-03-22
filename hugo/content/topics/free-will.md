@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-03-21 02:05:00+00:00
+ai_modified: 2026-03-21 21:56:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -148,7 +148,7 @@ Failure of any particular proposed mechanism (like quantum approaches) would req
 
 ## Distal Intentions and Prospective Memory
 
-Most voluntary action involves distal intentions formed earlier, not just proximal decisions. The libertarian needn't claim consciousness intervenes at every motor command—what matters is that conscious planning participates in shaping action. See [prospective-memory](/concepts/prospective-memory/) for how episodic future thinking causally influences present decisions.
+Most voluntary action involves distal intentions formed earlier, not just proximal decisions. The libertarian needn't claim consciousness intervenes at every motor command—what matters is that conscious planning participates in shaping action. [Skill delegation](/concepts/skill-delegation/) demonstrates this selective engagement: consciousness trains procedural systems during learning, withdraws from routine execution, and re-engages when novel decisions are needed. See [prospective-memory](/concepts/prospective-memory/) for how episodic future thinking causally influences present decisions.
 
 ## The Picture That Emerges
 

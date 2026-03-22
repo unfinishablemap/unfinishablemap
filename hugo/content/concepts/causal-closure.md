@@ -211,6 +211,7 @@ This is not "god of the gaps" reasoning. Physics *describes* a gap—between qua
 - [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/) — How causal closure evolved from a physics claim into a metaphysical axiom
 - [physical-completeness](/concepts/physical-completeness/) — The structural-ontological gap: why structural completeness does not entail ontological completeness, reframing the closure equivocation
 - [reductionism](/concepts/reductionism/) — Ontological vs methodological vs epistemic reduction; why conflating them supports closure illicitly
+- [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) — Clinical neuroplasticity evidence challenging causal closure through pathway divergence
 - [mental-causation](/concepts/mental-causation/) — The philosophical problem causal closure creates
 - [downward-causation](/concepts/downward-causation/) — Higher-level causation that closure threatens
 - [emergence](/concepts/emergence/) — The emergentist response to causal closure

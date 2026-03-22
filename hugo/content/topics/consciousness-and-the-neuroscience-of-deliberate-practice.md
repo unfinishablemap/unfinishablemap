@@ -33,6 +33,7 @@ related_articles:
 - '[[downward-causation]]'
 - '[[evolutionary-case-for-mental-causation]]'
 - '[[consciousness-as-perceptual-architect]]'
+- '[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]'
 title: Consciousness and the Neuroscience of Deliberate Practice
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -114,6 +115,7 @@ What the data do constrain is the epiphenomenalist position. If the phenomenal q
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Meditation as a parallel case of deliberate practice
 - [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/) — What it feels like as skills withdraw from conscious control and capacity frees up
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — The broader argument that consciousness must do something
+- [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) — Four converging clinical evidence streams for consciousness reshaping neural architecture
 - [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/) — How perception itself transforms through sustained conscious engagement
 - [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/) — How error signals and conscious correction relate to prediction
 
