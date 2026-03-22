@@ -37,6 +37,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on clinical neuroplasticity evidence for bidirectional mental causation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md. Four converging evidence streams — Schwartz's self-directed neuroplasticity in OCD, psychotherapy-induced brain changes via neuroimaging meta-analyses, meditation-driven structural remodelling, and placebo-stimulated neuroplasticity — demonstrate intentional mental activity produces lasting neural changes. Directly supports Tenet 3 (Bidirectional Interaction). Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-22
+
+### P2: Write article on experimental tests distinguishing consciousness-collapse from decoherence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Covers Chalmers & McQueen (2021) IIT+CSL testable predictions, Gran Sasso Diósi-Penrose constraints, and levitated optomechanical proposals. Critical for Tenet 2 (Minimal Quantum Interaction) — the Map needs to engage with empirical prospects for its core mechanism. Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-22
+
+### P2: Cross-review social-construction-of-self-vs-phenomenal-self.md considering consciousness-and-intersubjectivity insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article consciousness-and-intersubjectivity.md (2026-03-21) explores how one consciousness encounters another — empathy, theory of mind, linguistic community. Check social-construction-of-self-vs-phenomenal-self.md for cross-links, reinforcing arguments about phenomenal selfhood in intersubjective contexts, and consistency of treatment of the other minds problem.
+- **Source**: chain (from consciousness-and-intersubjectivity.md)
+- **Generated**: 2026-03-22
+
+### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Created 2026-03-15 via expand-topic from research on Konkoly et al. targeted memory reactivation during REM. Add cross-references from related articles (dream-consciousness, lucid-dreaming-as-capability-evidence, consciousness-and-memory) or update section index pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-22
+
+### P2: Integrate death-phenomenology-beyond-ndes.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Created 2026-03-11. Topics article on death phenomenology beyond near-death experiences. Add cross-references from related articles (death-and-consciousness, terminal-lucidity, consciousness-and-neurodegenerative-disease) or update section index pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-22
+
+### P2: Integrate consciousness-and-collective-intentionality.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Created 2026-02-15. Topics article on collective intentionality and shared consciousness. Add cross-references from related articles (consciousness-and-intersubjectivity, other-minds, social-construction-of-self-vs-phenomenal-self) or update section index pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-22
+
+### P2: Condense intersubjective-void.md (3144 words, 105% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Recently grew via coalesce merging social-epistemic-void.md into it (2026-03-22). Preserve core arguments about intersubjective cognitive limits while removing redundancy from the merge. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-22
+
 ### P3: Explore feminist philosophy of consciousness
 - **Type**: expand-topic
 - **Status**: pending
