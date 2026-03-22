@@ -4,8 +4,8 @@ description: "If all properties are powers, where does consciousness fit? Explor
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-02-25T20:55:00+00:00
-last_deep_review: 2026-02-25T20:55:00+00:00
+ai_modified: 2026-03-22T02:44:00+00:00
+last_deep_review: 2026-03-22T02:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,6 +13,7 @@ topics:
 concepts:
   - "[[causal-powers]]"
   - "[[russellian-monism]]"
+  - "[[bi-aspectual-ontology]]"
   - "[[interactionist-dualism]]"
   - "[[mental-causation]]"
   - "[[psychophysical-laws]]"
@@ -28,6 +29,7 @@ related_articles:
   - "[[topics/free-will]]"
   - "[[consciousness-and-the-metaphysics-of-laws]]"
   - "[[pain-consciousness-and-causal-power]]"
+  - "[[russellian-monism-versus-bi-aspectual-dualism]]"
   - "[[the-epiphenomenalist-threat]]"
 ai_contribution: 100
 author:
@@ -72,7 +74,7 @@ This looks promising for dualism. If some properties are categorical, consciousn
 
 But categoricalism faces its own difficulty. As [[russellian-monism]] highlights, physics describes only structural and relational properties—only what things *do*. If fundamental physical properties are categorical, physics never tells us what those categories are. We know that mass gravitates and that charge attracts, but not what mass or charge *is* intrinsically. The [[intrinsic-nature-void]] explores why this gap may be principled rather than merely epistemic.
 
-This generates the Russellian gambit: perhaps consciousness *is* the intrinsic categorical nature that underlies physical dispositions. Qualia are what physical structure looks like from the inside. But as the Map argues in its treatment of [[russellian-monism]], this move faces the [[combination-problem]]: how do micro-level categorical-phenomenal properties combine into unified macro-consciousness?
+This generates the Russellian gambit: perhaps consciousness *is* the intrinsic categorical nature that underlies physical dispositions. Qualia are what physical structure looks like from the inside. But as the Map argues in its treatment of [[russellian-monism]], this move faces the [[combination-problem]]: how do micro-level categorical-phenomenal properties combine into unified macro-consciousness? Recent work strengthens the case against the gambit. Cutter (2019) argues that Russellian monism is *unstable* between physicalism and dualism—the epistemic arguments that defeat physicalism defeat Russellian monism too. Pautz (2017) shows it requires the same brute linking principles as dualism, eliminating its claimed parsimony advantage. And Howell (2014) demonstrates that quiddities may be epiphenomenal: if different quiddities could ground the same physical dispositions, phenomenal character makes no distinctive causal contribution. The Map's [[russellian-monism-versus-bi-aspectual-dualism|bi-aspectual dualism]]—where consciousness *interacts with* physical structure rather than constituting it—avoids these problems by giving consciousness genuine causal work at quantum indeterminacies.
 
 ## Powerful Qualities and Phenomenal Properties
 
@@ -88,7 +90,7 @@ This framework has several advantages for the Map's position:
 
 **It grounds mental causation naturally.** If phenomenal qualities are identical with causal powers, consciousness doesn't need a separate mechanism to influence the physical world. Its causal efficacy follows from its nature as a powerful quality. The question is not "how does a quality produce effects?" but rather "what kind of power does this quality-power exercise?"
 
-**It avoids the combination problem.** Unlike Russellian monism, which posits micro-level quiddities that must combine, the Map's dualist framework posits unified phenomenal subjects from the start. The identity theory applies to the unified subject's properties, not to hypothetical micro-experiences.
+**It avoids the combination problem.** Unlike Russellian monism, which posits micro-level quiddities that must combine, the Map's dualist framework posits unified phenomenal subjects from the start. The identity theory applies to the unified subject's properties, not to hypothetical micro-experiences. The Map's [[bi-aspectual-ontology]] makes this precise: structure (what physics describes) and actuality (what consciousness provides) are irreducible aspects that interact causally—consciousness is not a hidden ingredient inside physical properties but a distinct aspect that *does things to* physics at quantum indeterminacies.
 
 ## Dispositions, Consciousness, and the Interface
 
@@ -130,6 +132,8 @@ The central insight the Map draws from dispositional ontology is this: the mind-
 - [[consciousness-and-causal-powers]] — How consciousness exercises its causal powers, with constraints
 - [[consciousness-and-the-metaphysics-of-laws]] — How Humean, governing, and essentialist accounts of laws bear on psychophysical interaction
 - [[russellian-monism]] — The view that quiddities (intrinsic natures) ground consciousness
+- [[russellian-monism-versus-bi-aspectual-dualism]] — Why the Map's bi-aspectual dualism is the stable endpoint Russellian monism cannot reach
+- [[bi-aspectual-ontology]] — The Map's foundational ontology: structure and actuality as irreducible interacting aspects
 - [[intrinsic-nature-void]] — Why physics cannot capture intrinsic nature
 - [[mental-causation]] — The problem of how mental states cause physical events
 - [[psychophysical-laws]] — Principles governing mind-matter interaction
@@ -143,12 +147,18 @@ The central insight the Map draws from dispositional ontology is this: the mind-
 
 Bird, A. (2007). *Nature's Metaphysics: Laws and Properties*. Oxford University Press.
 
+Cutter, B. (2019). Against the middle ground: Why Russellian monism is unstable. *Analytic Philosophy*, 60(2), 109-130.
+
 Heil, J. (2003). *From an Ontological Point of View*. Oxford University Press.
+
+Howell, R.J. (2014). The Russellian monist's problems with mental causation. *The Philosophical Quarterly*, 65(258), 22-39.
 
 Martin, C.B. (2008). *The Mind in Nature*. Oxford University Press.
 
 Molnar, G. (2003). *Powers: A Study in Metaphysics*. Oxford University Press.
 
 Mumford, S. (1998). *Dispositions*. Oxford University Press.
+
+Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? In T. Alter & Y. Nagasawa (Eds.), *Russellian Monism*. Oxford University Press.
 
 Shoemaker, S. (1980). "Causality and Properties." In P. van Inwagen (Ed.), *Time and Cause*. D. Reidel.

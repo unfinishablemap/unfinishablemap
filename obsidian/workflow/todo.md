@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review consciousness-and-the-ontology-of-dispositions.md considering Russellian monism article
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/russellian-monism-versus-bi-aspectual-dualism.md (2026-03-22) provides systematic comparison of Russellian monism and the Map's bi-aspectual dualism. consciousness-and-the-ontology-of-dispositions.md discusses dispositional properties relevant to this debate. Check for cross-links, whether the Russellian monism critique strengthens or challenges the dispositional argument, and ensure terminological consistency.
-- **Source**: chain (from russellian-monism-versus-bi-aspectual-dualism.md)
-- **Generated**: 2026-03-22
-
 ### P2: Integrate epiphenomenalisms-gravity-well.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1123,6 +1116,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Review consciousness-and-the-ontology-of-dispositions.md considering Russellian monism article
+- **Type**: cross-review
+- **Notes**: New article topics/russellian-monism-versus-bi-aspectual-dualism.md (2026-03-22) provides systematic comparison of Russellian monism and the Map's bi-aspectual dualism. consciousness-and-the-ontology-of-dispositions.md discusses dispositional properties relevant to this debate. Check for cross-links, whether the Russellian monism critique strengthens or challenges the dispositional argument, and ensure terminological consistency.
+- **Output**: obsidian/topics/consciousness-and-the-ontology-of-dispositions.md -- Context: Review consciousness-and-the-ontology-of-dispositions.md considering Russellian monism article
 
 ### ✓ 2026-03-22: Review comparing-quantum-consciousness-mechanisms.md considering consciousness-collapse experiments
 - **Type**: cross-review
