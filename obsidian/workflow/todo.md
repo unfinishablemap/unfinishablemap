@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-22T11:42:00+00:00
+ai_modified: 2026-03-22T23:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review cognitive-closure.md considering inventory blindness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/inventory-blindness.md (created 2026-03-22) explores systematic blind spots in our conceptual inventory. Review concepts/cognitive-closure.md for cross-links to the new article, whether the inventory blindness framework strengthens or refines the cognitive closure treatment, and consistency in how epistemic limitations are characterized.
+- **Source**: chain (from inventory-blindness.md)
+- **Generated**: 2026-03-22
+
+### P2: Cross-review selective-perceptual-correction.md considering perceptual reconstruction paradox
+- **Type**: cross-review
+- **Notes**: New article concepts/perceptual-reconstruction-paradox.md (created 2026-03-22) develops the paradox of brain reconstruction under dualism. Review concepts/selective-perceptual-correction.md for cross-links, whether the reconstruction paradox provides new arguments or tensions, and consistency in how perceptual correction mechanisms are framed.
+- **Source**: chain (from perceptual-reconstruction-paradox.md)
+- **Generated**: 2026-03-22
+
+### P2: Cross-review mysterianism.md considering epistemology of limit-knowledge
+- **Type**: cross-review
+- **Notes**: New article concepts/epistemology-of-limit-knowledge.md (created 2026-03-22) provides a systematic epistemic framework for knowledge about cognitive limits. Review concepts/mysterianism.md for cross-links, whether the epistemology of limit-knowledge grounds or challenges mysterian claims, and consistency in how unknowability is characterized.
+- **Source**: chain (from epistemology-of-limit-knowledge.md)
+- **Generated**: 2026-03-22
+
+### P2: Integrate perceptual-reconstruction-paradox.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-22 via expand-topic. Add cross-references from related articles such as filter-theory.md, predictive-processing.md, hard-problem-of-consciousness.md, or consciousness-only-territories.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-22
+
+### P2: Integrate inventory-blindness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-22 via expand-topic. Add cross-references from related articles such as architecture-of-cognitive-closure.md, parsimony-epistemology.md, three-kinds-of-void.md, or phenomenology-of-the-edge.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-22
+
+### P2: Integrate epistemology-of-limit-knowledge.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-22 via expand-topic. Add cross-references from related articles such as meta-epistemology-of-limits.md, convergence-as-evidence.md, compound-failure-signatures.md, or apophatic-approaches.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-22
+
+### P2: Condense consciousness-and-skill-acquisition.md (4151 words, 104% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve core arguments about skill acquisition under dualism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-22
 
 ### P3: Deep review consciousness-and-intersubjectivity.md
 - **Type**: deep-review
