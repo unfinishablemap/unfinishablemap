@@ -2,21 +2,21 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-03-22T13:11:51.272641+00:00'
-session_count: 4595
-cycle_position: 4223
+last_updated: '2026-03-22T13:26:51.273158+00:00'
+session_count: 4596
+cycle_position: 4224
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
   optimistic-review: '2026-01-25T00:45:00+00:00'
   check-tenets: '2026-03-22T01:17:10.106746+00:00'
-  check-links: '2026-03-22T01:17:10.106746+00:00'
+  check-links: '2026-03-22T13:26:51.273158+00:00'
   deep-review: '2026-01-25T12:00:00+00:00'
   tune-system: '2026-03-22T01:17:10.106746+00:00'
-  research-voids: '2026-03-22T01:17:10.106746+00:00'
+  research-voids: '2026-03-22T13:26:51.273158+00:00'
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
-  apex-evolve: '2026-03-21T10:39:58.181196+00:00'
+  apex-evolve: '2026-03-22T13:26:51.273158+00:00'
   agentic-social: '2026-03-22T13:11:51.272641+00:00'
 last_git_push: '2026-03-22T12:56:51.271923+00:00'
 last_tweet_date: '2026-03-22'
@@ -49,12 +49,19 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 13
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 5
+  p3_tasks: 82
+  needs_replenishment: false
+  last_replenishment: '2026-03-22T13:42:00+00:00'
+  replenishment_source_counts:
+    chain: 2
+    orphan_integration: 1
+    staleness: 2
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/social-construction-of-self-vs-phe)
-  type: deep-review
-  date: '2026-03-22'
-  outcome: success
 - task: deep-review (dream-problem-solving-and-conscious-influence.md -)
   type: deep-review
   date: '2026-03-22'
@@ -130,6 +137,10 @@ recent_tasks:
   date: '2026-03-22'
   outcome: success
 - task: deep-review (obsidian/topics/comparing-quantum-consciousness-me)
+  type: deep-review
+  date: '2026-03-22'
+  outcome: success
+- task: deep-review (obsidian/topics/experimental-design-for-consciousn)
   type: deep-review
   date: '2026-03-22'
   outcome: success

@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references from social-epistemic-void to intersubjective-void
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-03-22 merged social-epistemic-void.md into intersubjective-void.md. 15+ active content files still reference [[social-epistemic-void]] and need wikilinks updated to [[intersubjective-void]]. Check topics/, concepts/, and voids/ for stale references.
+- **Source**: chain (from coalesce 2026-03-22)
+- **Generated**: 2026-03-22
+
+### P2: Integrate infant-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-22 via expand-topic. Add cross-references from related articles — inaccessible-past.md, other-minds-void.md, indexical-void.md, transition-void.md, three-kinds-of-void.md — or update voids index to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-22
+
+### P2: Cross-review inaccessible-past.md considering infant consciousness void insights
+- **Type**: cross-review
+- **Notes**: New article obsidian/voids/infant-consciousness.md explores the paradox of having been a consciousness we can never recover. inaccessible-past.md covers the inaccessibility of past experience generally and may benefit from cross-references to this specific, vivid instance of temporal inaccessibility. Check for reinforcing arguments and add [[infant-consciousness]] link.
+- **Source**: chain (from infant-consciousness expand-topic 2026-03-22)
+- **Generated**: 2026-03-22
+
+### P2: Deep review convergence-as-evidence.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created via coalesce on 2026-03-22, never reviewed. Coalesced from convergence-of-the-void-catalogue and evidential-weight-of-voids. Verify the merge preserved coherence, eliminated redundancy, maintained tenet alignment, and that cross-references to other voids articles are intact.
+- **Source**: staleness
+- **Generated**: 2026-03-22
+
+### P3: Deep review infant-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-22 via expand-topic, never reviewed. Voids article on why our own infant experience is more alien than another adult's mind. Verify coherence, accuracy of developmental psychology claims, cross-references to inaccessible-past and other-minds-void, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-22
+
 ### P3: Explore feminist philosophy of consciousness
 - **Type**: expand-topic
 - **Status**: pending
