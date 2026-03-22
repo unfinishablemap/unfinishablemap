@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-03-22T00:32:10.105374+00:00'
-session_count: 4545
-cycle_position: 4173
+last_updated: '2026-03-22T00:47:10.105588+00:00'
+session_count: 4546
+cycle_position: 4174
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,8 +13,8 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-21T10:39:58.181196+00:00'
-  agentic-social: '2026-03-22T00:17:10.104588+00:00'
-last_git_push: '2026-03-21T20:40:45.249711+00:00'
+  agentic-social: '2026-03-22T01:03:59.231612+00:00'
+last_git_push: '2026-03-22T00:47:10.105588+00:00'
 last_tweet_date: '2026-03-21'
 content_stats:
   total_files: 297
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: research-topic (enactivism as challenge to interactionist dualism)
-  type: research-topic
-  date: '2026-03-21'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-03-21'
@@ -119,7 +111,7 @@ recent_tasks:
   type: expand-topic
   date: '2026-03-21'
   outcome: success
-- task: expand-topic (the Gödel-measurement problem analogy)
+- task: "expand-topic (the G\xF6del-measurement problem analogy)"
   type: expand-topic
   date: '2026-03-22'
   outcome: success
@@ -131,3 +123,13 @@ recent_tasks:
   type: expand-topic
   date: '2026-03-22'
   outcome: success
+- task: coalesce
+  type: coalesce
+  date: '2026-03-22'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/default-mode-network/
+    date: '2026-03-22T01:03:59.231595+00:00'
+    topics:
+    - hard-problem-of-consciousness
