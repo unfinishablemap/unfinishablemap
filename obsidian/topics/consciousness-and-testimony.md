@@ -4,7 +4,7 @@ description: "Testimony requires consciousness to function yet cannot fully conv
 created: 2026-02-15
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-03-05T06:39:57+00:00
+ai_modified: 2026-03-22T14:16:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,13 +37,12 @@ related_articles:
   - "[[knowledge-argument]]"
   - "[[phenomenology-of-deliberation-under-uncertainty]]"
   - "[[consciousness-and-language-interface]]"
-  - "[[social-epistemic-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-02-24T18:59:00+00:00
+last_deep_review: 2026-03-22T14:16:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-the-authority-of-testimony/"
   - "/topics/consciousness-and-the-epistemology-of-testimony/"
@@ -78,7 +77,7 @@ Epistemologists divide into two camps on testimony. Reductionists (following Dav
 
 The phenomenology favours the anti-reductionist picture. When a stranger gives you directions, you do not typically run through an inductive argument about the reliability of strangers' directional testimony. You experience a default openness toward their report — a willingness to believe that must be overridden rather than established. This default openness has a distinctive felt quality: a kind of receptivity toward the other's words that is prior to, and different from, the effortful assessment you engage in when you have reason for suspicion.
 
-The reductionist can reply that this default openness is merely efficient heuristic processing — fast pattern-matching rather than conscious evaluation. Research on [[topics/consciousness-and-social-cognition|social cognition]] supports the observation that much credibility assessment operates below conscious awareness: rapid subpersonal evaluation of a speaker's manner and bearing begins before deliberate assessment. The question is whether these subpersonal processes exhaust what happens in testimony reception or merely contribute to it.
+The reductionist can reply that this default openness is merely efficient heuristic processing — fast pattern-matching rather than conscious evaluation. Research on [[consciousness-and-social-cognition|social cognition]] supports the observation that much credibility assessment operates below conscious awareness: rapid subpersonal evaluation of a speaker's manner and bearing begins before deliberate assessment. The question is whether these subpersonal processes exhaust what happens in testimony reception or merely contribute to it.
 
 The Map's framework suggests the latter. Subpersonal processing prepares the ground, but the distinctive character of testimony reception — treating the other as a fellow subject whose reports deserve initial credence because they emerge from genuine experience — involves a conscious orientation that cannot be captured in terms of cue detection alone. Suspicion requires an active withdrawal from this default interpersonal stance — a felt shift from treating the speaker as a subject to monitoring them as an object whose outputs need verification.
 
@@ -98,7 +97,7 @@ Daniel Dennett's "heterophenomenology" attempted to dissolve this asymmetry by t
 
 Not all testimony carries equal phenomenal weight. The felt experience of receiving testimony from an authority differs markedly from receiving it from a peer or a stranger. When an expert speaks within their domain, you experience their words with a particular phenomenal gravitation toward belief that exceeds what the bare propositional content would warrant from an unknown source. There is the experience of felt relief when an authority confirms what you suspected — a settling quality, as though your beliefs have found solid ground. There is the distinctive discomfort of expert disagreement with your settled views — a felt pressure to revise that carries more phenomenal force than disagreement from a non-expert, even when the propositional content is identical.
 
-The danger of testimonial authority lies precisely in its phenomenal power. Because expert testimony carries felt weight that exceeds its propositional content, it can produce belief changes that outrun rational warrant. The geological establishment rejected Alfred Wegener's continental drift hypothesis for decades, partly because the felt authority of established figures outweighed the accumulating evidence. The [[phenomenology-of-epistemic-cognition|phenomenology of belief revision]] reveals how difficult it is to resist this felt authority even when reasons for doubt are strong.
+The danger of testimonial authority lies precisely in its phenomenal power. Because expert testimony carries felt weight that exceeds its propositional content, it can produce belief changes that outrun rational warrant. The geological establishment rejected Alfred Wegener's continental drift hypothesis for decades — partly for legitimate reasons (he lacked a viable mechanism), but partly because the felt authority of established figures discouraged serious engagement with the accumulating observational evidence. The [[phenomenology-of-epistemic-cognition|phenomenology of belief revision]] reveals how difficult it is to resist this felt authority even when reasons for doubt are strong.
 
 ## Testimony Across the Intersubjective Void
 
