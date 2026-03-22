@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenology-of-mathematical-insight.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-08. Topics article on the phenomenology of mathematical insight and understanding. Add cross-references from related articles (mathematical-knowledge-and-insight, consciousness-and-the-philosophy-of-mathematics, consciousness-and-mathematical-cognition, phenomenology-of-understanding-and-meaning) or update section index pages.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-22
-
 ### P3: Deep review consciousness-and-intersubjectivity.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-21 via expand-topic, never reviewed. Topics article on how one consciousness encounters another — empathy, theory of mind, linguistic community under dualism. Verify coherence, accuracy of philosophical claims, cross-references to social-construction-of-self-vs-phenomenal-self and other-minds-void, and tenet alignment.
@@ -1155,6 +1149,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Integrate phenomenology-of-mathematical-insight.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-08. Topics article on the phenomenology of mathematical insight and understanding. Add cross-references from related articles (mathematical-knowledge-and-insight, consciousness-and-the-philosophy-of-mathematics, consciousness-and-mathematical-cognition, phenomenology-of-understanding-and-meaning) or update section index pages.
+- **Output**: phenomenology-of-mathematical-insight.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-22: Integrate evolution-of-consciousness-dualist-perspective.md into site navigation
 - **Type**: integrate-orphan

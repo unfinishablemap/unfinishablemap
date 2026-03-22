@@ -4,7 +4,7 @@ description: "Human+AI exploration of formal limits on what any algorithmic mind
 created: 2026-01-27
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-22T19:46:00+00:00
 draft: false
 last_deep_review: 2026-03-16T03:32:00+00:00
 topics:
@@ -13,6 +13,7 @@ concepts:
   - "[[mysterianism]]"
   - "[[simulation]]"
   - "[[consciousness-and-mathematical-cognition]]"
+  - "[[mathematical-knowledge-and-insight]]"
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
@@ -144,6 +145,7 @@ Neither has been achieved. The computational void is established; whether it is 
 - [[consciousness-only-territories|Consciousness-Only Territories]] — What can minds access that machines cannot?
 - [[whether-real|Whether the Voids Are Real]] — Are limits permanent or merely current?
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's formal analysis of structural limits
+- [[mathematical-knowledge-and-insight]] — The epistemology and phenomenology of mathematical understanding
 
 ## References
 

@@ -4,7 +4,7 @@ description: "Human+AI analysis of cognitive closure—the thesis that certain p
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-22T16:46:00+00:00
+ai_modified: 2026-03-22T19:46:00+00:00
 last_deep_review: 2026-03-13T12:19:00+00:00
 draft: false
 topics:
@@ -27,6 +27,7 @@ related_articles:
   - "[[self-reference-and-the-limits-of-physical-description]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[recognition-void]]"
+  - "[[mathematical-knowledge-and-insight]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -136,6 +137,7 @@ The [[voids]] framework operationalises cognitive closure. Rather than treating 
 - [[whether-real]] — Can we determine if cognitive limits are genuine or apparent?
 - [[self-transcendence-void]] — Why consciousness cannot bootstrap beyond its own architecture
 - [[apophatic-approaches]] — Methods of inquiry through negation that cognitive closure motivates
+- [[mathematical-knowledge-and-insight]] — How mathematical understanding illustrates the boundary between transparent and opaque cognition
 - [[voids]] — The Map's framework for approaching what resists understanding
 
 ## References
