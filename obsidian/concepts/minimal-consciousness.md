@@ -4,8 +4,8 @@ description: "The simplest form of consciousness—bare phenomenal experience wi
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
-last_deep_review: 2026-02-25T19:12:00+00:00
+ai_modified: 2026-03-22T20:30:00+00:00
+last_deep_review: 2026-03-22T20:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -139,6 +139,7 @@ The concept matters for several reasons:
 - [[access-consciousness]] — Global availability for reasoning, which minimal consciousness may lack
 - [[consciousness-in-simple-organisms]] — Detailed examination of candidate organisms
 - [[evolution-of-consciousness]] — When did consciousness first appear?
+- [[infant-consciousness]] — The void of pre-reflective experience at the start of life
 - [[panpsychism]] — The view that dissolves the threshold problem
 - [[combination-problem]] — How micro-experiences might combine
 - [[integrated-information-theory]] — A theory that implies widespread minimal consciousness
@@ -152,7 +153,7 @@ The concept matters for several reasons:
 
 ## References
 
-1. Andrews, K., & Monsó, S. (2024). New York Declaration on Animal Consciousness. NYU Conference on the Emerging Science of Animal Consciousness.
+1. Andrews, K., Birch, J., Sebo, J., & Sims, T. (2024). "Background to the New York Declaration on Animal Consciousness." New York University.
 1. Bayne, T., & Chalmers, D. J. (2003). "What is the unity of consciousness?" In A. Cleeremans (Ed.), *The Unity of Consciousness*.
 1. Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
 1. Metzinger, T. (2020). "Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness." *Philosophy and the Mind Sciences*, 1(I), 7.
