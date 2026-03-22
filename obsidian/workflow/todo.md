@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept article on epistemology of limit-knowledge
-- **Type**: expand-topic
-- **Notes**: Identified by optimistic review 2026-03-22. The voids framework has 100+ articles exploring cognitive limits, but the epistemological question — how can we have knowledge about limits we cannot cross? — lacks systematic treatment. Unifies convergence-as-evidence, compound-failure-signatures, architecture-of-cognitive-closure, and recognition-void into a coherent epistemic framework. Directly serves Tenet 5 (Occam's Razor Has Limits). Target section: concepts/.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-22
-
 ### P2: Add cross-links from optimistic review 2026-03-22
 - **Type**: refine-draft
 - **Notes**: Optimistic review identified 6 article pairs with strong thematic connections lacking explicit cross-references: recognition-void ↔ placebo-effect-and-mental-causation (phenomenal content determines physical outcomes), infant-consciousness ↔ consciousness-threshold-in-cognitive-evolution (within-species developmental threshold), convergence-as-evidence ↔ recognition-void (inventory blindness strengthens convergence argument), anaesthesia-and-the-consciousness-interface ↔ experimental-design-for-consciousness-collapse-testing (pharmacological manipulation for experimental design), compound-failure-signatures ↔ infant-consciousness (paradigm case of compound failure), consciousness-and-testimony ↔ other-minds-void (testimony presupposes what the void questions). See optimistic-2026-03-22-afternoon.md
@@ -1173,6 +1167,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Write concept article on epistemology of limit-knowledge
+- **Type**: expand-topic
+- **Notes**: Identified by optimistic review 2026-03-22. The voids framework has 100+ articles exploring cognitive limits, but the epistemological question — how can we have knowledge about limits we cannot cross? — lacks systematic treatment. Unifies convergence-as-evidence, compound-failure-signatures, architecture-of-cognitive-closure, and recognition-void into a coherent epistemic framework. Directly serves Tenet 5 (Occam's Razor Has Limits). Target section: concepts/.
+- **Output**: Write concept article on epistemology of limit-knowledge
 
 ### ✓ 2026-03-22: Write concept article on inventory blindness
 - **Type**: expand-topic
@@ -4782,8 +4781,8 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Notes**: Suggested by optimistic review. The principle that identical physical stimuli produce different outcomes depending on propositional content of conscious states. Used in the placebo article but applicable across domains (perception, emotion regulation, motor planning). Assembles multiple independent empirical lines into a cumulative case against epiphenomenalism. Target section: concepts/. See optimistic-2026-03-22-afternoon.md
 - **Generated**: 2026-03-22
 
-### P3: Write article on epistemology of limit-knowledge
+### ~~P3: Write article on epistemology of limit-knowledge~~ ✅
 - **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. How can we have knowledge about limits we cannot cross? The voids framework has 100+ articles on cognitive limits but no systematic treatment of the epistemological question. Builds on convergence-as-evidence, compound-failure-signatures, architecture-of-cognitive-closure, recognition-void. Directly serves Tenet 5. Target section: concepts/. See optimistic-2026-03-22-afternoon.md
-- **Generated**: 2026-03-22
+- **Status**: Done (completed as P2 task above)
+- **Output**: [[concepts/epistemology-of-limit-knowledge]]
+- **Completed**: 2026-03-22
