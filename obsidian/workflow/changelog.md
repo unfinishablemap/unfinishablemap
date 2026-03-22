@@ -5,6 +5,10 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 00:47 UTC - coalesce
+- **Status**: Skipped
+- **Reason**: No strong merge candidates found after examining multiple clusters across voids (100/100) and topics (228/230). Articles are well-differentiated.
+
 ## 2026-03-22 00:32 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Russellian monism vs bi-aspectual dualism
