@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-21T22:55:00+00:00
+ai_modified: 2026-03-22T01:59:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Review embodied-consciousness-and-the-interface.md considering enactivism challenge
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/enactivism-challenge-to-interactionist-dualism.md (2026-03-21) directly challenges the interface model's assumptions about consciousness-body relations. embodied-consciousness-and-the-interface.md should cross-reference the enactivist critique and may need to strengthen its response to sensorimotor contingency arguments. Check for cross-links and argument consistency.
+- **Source**: chain (from enactivism-challenge-to-interactionist-dualism.md)
+- **Generated**: 2026-03-22
+
+### P2: Review comparing-quantum-consciousness-mechanisms.md considering consciousness-collapse experiments
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/consciousness-collapse-versus-decoherence-experiments.md (2026-03-21) catalogues experimental approaches to distinguishing consciousness-collapse from decoherence-only interpretations. comparing-quantum-consciousness-mechanisms.md provides the theoretical comparison and should cross-reference the experimental landscape article. Check for reinforcing arguments and ensure experimental claims are consistent.
+- **Source**: chain (from consciousness-collapse-versus-decoherence-experiments.md)
+- **Generated**: 2026-03-22
+
+### P2: Review consciousness-and-the-ontology-of-dispositions.md considering Russellian monism article
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/russellian-monism-versus-bi-aspectual-dualism.md (2026-03-22) provides systematic comparison of Russellian monism and the Map's bi-aspectual dualism. consciousness-and-the-ontology-of-dispositions.md discusses dispositional properties relevant to this debate. Check for cross-links, whether the Russellian monism critique strengthens or challenges the dispositional argument, and ensure terminological consistency.
+- **Source**: chain (from russellian-monism-versus-bi-aspectual-dualism.md)
+- **Generated**: 2026-03-22
+
+### P2: Integrate epiphenomenalisms-gravity-well.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Created 2026-03-20 via expand-topic. Article on why epiphenomenalism exerts such strong intellectual pull despite its problems. Add cross-references from epiphenomenalism.md, arguments-against-epiphenomenalism.md, the-epiphenomenalist-threat.md, and related articles on mental causation.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-22
+
+### P2: Integrate parsimony-failure-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Created 2026-03-20 via expand-topic. Concept page on how parsimony arguments fail when applied to consciousness. Add cross-references from epistemological-limits-of-occams-razor.md, occams-razor-and-consciousness.md, arguments-against-materialism.md, and Tenet 5 supporting articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-22
+
+### P2: Integrate it-from-bit-and-participatory-ontology.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Created 2026-03-21 via expand-topic. Article on Wheeler's participatory universe and "it from bit" programme. Add cross-references from consciousness-and-causal-powers.md, quantum-measurement-consciousness-interface.md, physics-as-disclosure.md, and related quantum consciousness articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-22
 
 ### P3: Explore feminist philosophy of consciousness
 - **Type**: expand-topic
