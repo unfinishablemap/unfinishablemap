@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Refine anaesthesia-and-the-consciousness-interface.md with filter theory research
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Incorporate filter theory evidence from general anesthesia data into the existing article — specificity of anesthetic agents as evidence for transmission/filter rather than generation, differential consciousness preservation under different agents, and implications for the interface model. Directly supports Tenet 3 (Bidirectional Interaction).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-22
-
 ### P2: Write void article on the infant consciousness void
 - **Type**: expand-topic
 - **Status**: pending
@@ -1166,6 +1159,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Refine anaesthesia-and-the-consciousness-interface.md with filter theory research
+- **Type**: refine-draft
+- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Incorporate filter theory evidence from general anesthesia data into the existing article — specificity of anesthetic agents as evidence for transmission/filter rather than generation, differential consciousness preservation under different agents, and implications for the interface model. Directly supports Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
+
+Task context:
+Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Incorporate filter theory evidence from general anesthesia data into the existing article — specificity of anesthetic agents as evidence for transmission/filter rather than generation, differential consciousness preservation under different agents, and implications for the interface model. Directly supports Tenet 3 (Bidirectional Interaction).
 
 ### ✓ 2026-03-22: Cross-review comparing-quantum-consciousness-mechanisms.md considering consciousness-collapse vs decoherence experiments
 - **Type**: cross-review
