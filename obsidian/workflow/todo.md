@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review many-worlds.md considering probability-and-decision-theory objections
+- **Type**: cross-review
+- **Notes**: New article topics/probability-problem-in-many-worlds.md (2026-03-22) develops probability and decision-theory objections to MWI — incoherence of self-locating credence, Deutsch-Wallace circularity, preference-based arguments. Check concepts/many-worlds.md and arguments/many-worlds-argument.md for cross-links to this new treatment and ensure consistency of anti-MWI argumentation across the site. Directly supports Tenet 4 (No Many Worlds).
+- **Source**: chain (from probability-problem-in-many-worlds.md)
+- **Generated**: 2026-03-22
+
+### P2: Cross-review filter-theory.md considering consciousness-during-anesthesia article
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-during-general-anesthesia-and-filter-theory.md (2026-03-22) provides anesthesia evidence for filter/transmission theory — dissociative vs suppressive agents, intraoperative awareness, differential consciousness preservation. Check concepts/filter-theory.md and topics/loss-of-consciousness.md for cross-links, reinforcing arguments, and whether anesthetic specificity evidence strengthens the filter model presentation.
+- **Source**: chain (from consciousness-during-general-anesthesia-and-filter-theory.md)
+- **Generated**: 2026-03-22
+
+### P2: Integrate recognition-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-22 via expand-topic. Voids article on the cognitive gap between perceiving and recognising. Add cross-references from related articles — phenomenology-of-understanding-and-meaning.md, categorical-surprise.md, attention-created-voids.md, three-kinds-of-void.md — or update voids index to include navigation to this content.
+- **Source**: chain (from recognition-void expand-topic)
+- **Generated**: 2026-03-22
+
+### P2: Integrate phenomenology-of-moral-deliberation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-15. Topics article on moral deliberation phenomenology. Add cross-references from related articles (moral-phenomenology, consciousness-and-normative-force, phenomenology-of-deliberation-under-uncertainty, free-will-and-moral-responsibility) or update section index pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-22
+
+### P2: Integrate evolution-of-consciousness-dualist-perspective.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-10. Topics article on evolution of consciousness from a dualist perspective. Add cross-references from related articles (consciousness-evolution-problem, animal-consciousness, evolution-under-dualism, consciousness-as-amplifier) or update section index pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-22
+
+### P2: Integrate phenomenology-of-mathematical-insight.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-08. Topics article on the phenomenology of mathematical insight and understanding. Add cross-references from related articles (mathematical-knowledge-and-insight, consciousness-and-the-philosophy-of-mathematics, consciousness-and-mathematical-cognition, phenomenology-of-understanding-and-meaning) or update section index pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-22
+
+### P3: Deep review consciousness-and-intersubjectivity.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-21 via expand-topic, never reviewed. Topics article on how one consciousness encounters another — empathy, theory of mind, linguistic community under dualism. Verify coherence, accuracy of philosophical claims, cross-references to social-construction-of-self-vs-phenomenal-self and other-minds-void, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-22
+
 ### P3: Deep review infant-consciousness.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-22 via expand-topic, never reviewed. Voids article on why our own infant experience is more alien than another adult's mind. Verify coherence, accuracy of developmental psychology claims, cross-references to inaccessible-past and other-minds-void, and tenet alignment.
