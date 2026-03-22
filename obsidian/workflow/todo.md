@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on clinical neuroplasticity evidence for bidirectional mental causation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md. Four converging evidence streams — Schwartz's self-directed neuroplasticity in OCD, psychotherapy-induced brain changes via neuroimaging meta-analyses, meditation-driven structural remodelling, and placebo-stimulated neuroplasticity — demonstrate intentional mental activity produces lasting neural changes. Directly supports Tenet 3 (Bidirectional Interaction). Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-22
-
 ### P2: Write article on experimental tests distinguishing consciousness-collapse from decoherence
 - **Type**: expand-topic
 - **Status**: pending
@@ -1162,6 +1155,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Write article on clinical neuroplasticity evidence for bidirectional mental causation
+- **Type**: expand-topic
+- **Notes**: Research completed in research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md. Four converging evidence streams — Schwartz's self-directed neuroplasticity in OCD, psychotherapy-induced brain changes via neuroimaging meta-analyses, meditation-driven structural remodelling, and placebo-stimulated neuroplasticity — demonstrate intentional mental activity produces lasting neural changes. Directly supports Tenet 3 (Bidirectional Interaction). Target section: topics/.
+- **Output**: clinical neuroplasticity evidence for bidirectional mental causation
 
 ### ✓ 2026-03-22: Condense global-workspace-theory.md (3500 words, 140% of target)
 - **Type**: condense
