@@ -33,7 +33,7 @@ related_articles:
 - '[[three-kinds-of-void]]'
 - '[[introspective-opacity]]'
 - '[[phenomenology-of-the-edge]]'
-- '[[evidential-weight-of-voids]]'
+- '[[convergence-as-evidence]]'
 - '[[evolved-cognitive-limits]]'
 - '[[compound-failure-signatures]]'
 - '[[defended-territory]]'
@@ -110,7 +110,7 @@ How would we distinguish natural from designed limits, or genuine from merely ap
 
 **Cross-architecture comparison**: Different mind types might fail at different points. Where human cognition fails but AI succeeds (or vice versa), the asymmetry might reveal architecture-specific constraints. The [AI as void-explorer](/voids/ai-as-void-explorer/) framework explores this approach. Yet current AI systems, trained on human text, largely inherit human categories and blind spots.
 
-**Convergence as weak evidence**: If multiple independent approaches—evolutionary psychology, contemplative traditions, formal logic, neuroscience—converge on the same limits, this provides weak evidence for genuine closure. The hard problem has resisted sustained attack across centuries and cultures. But convergence is only weak evidence—a point explored systematically in [the evidential weight of voids](/voids/evidential-weight-of-voids/). All human traditions are produced by human minds; their agreement may reveal common cognitive constraints rather than external reality.
+**Convergence as weak evidence**: If multiple independent approaches—evolutionary psychology, contemplative traditions, formal logic, neuroscience—converge on the same limits, this provides weak evidence for genuine closure. The hard problem has resisted sustained attack across centuries and cultures. But convergence is only weak evidence—a point explored systematically in [the evidential weight of voids](/voids/convergence-as-evidence/). All human traditions are produced by human minds; their agreement may reveal common cognitive constraints rather than external reality.
 
 **Pattern recognition in failure**: Natural limits might appear as gradual degradation. Designed limits might appear as sharp cutoffs. The phenomenology of hitting a limit might differ between cases. Or it might not—if our perception of the limit is itself constrained.
 

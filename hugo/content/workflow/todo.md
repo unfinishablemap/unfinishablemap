@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-22 01:59:00+00:00
+ai_modified: 2026-03-22 11:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,31 +38,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Fix citation error and circular argument in consciousness-and-intelligence.md
-- **Type**: refine-draft
+### P2: Cross-review comparing-quantum-consciousness-mechanisms.md considering consciousness-collapse experiments
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: Pessimistic review found two high-severity issues: (1) DeWall, Baumeister, & Masicampo (2008) citation may be conflated with Lieberman et al. (2008)—verify which paper supports the logical reasoning claim. (2) The Great Ape Evidence section has a circular argument—it labels capacities as "consciousness-requiring" then uses the correlation as evidence. Needs independent argument for why phenomenal consciousness (not just enhanced processing) is required. See pessimistic-2026-03-22-b.md
+- **Notes**: New article obsidian/topics/consciousness-collapse-versus-decoherence-experiments.md surveys the experimental landscape for distinguishing consciousness-collapse from decoherence. The mechanisms comparison article should reference this experimental evidence and update any claims about testability. Directly relevant to Tenet 2 (Minimal Quantum Interaction).
+- **Source**: chain (from consciousness-collapse-versus-decoherence-experiments.md)
 - **Generated**: 2026-03-22
 
-### P2: Integrate death-phenomenology-beyond-ndes.md into site navigation
-- **Type**: integrate-orphan
+### P2: Cross-review experimental-design-for-consciousness-collapse-testing.md considering consciousness-collapse experiments
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: File has no inbound links. Created 2026-03-11. Topics article on death phenomenology beyond near-death experiences. Add cross-references from related articles (death-and-consciousness, terminal-lucidity, consciousness-and-neurodegenerative-disease) or update section index pages.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-22
-
-### P2: Integrate consciousness-and-collective-intentionality.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Created 2026-02-15. Topics article on collective intentionality and shared consciousness. Add cross-references from related articles (consciousness-and-intersubjectivity, other-minds, social-construction-of-self-vs-phenomenal-self) or update section index pages.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-22
-
-### P2: Condense intersubjective-void.md (3144 words, 105% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3000-word hard threshold for voids/. Recently grew via coalesce merging social-epistemic-void.md into it (2026-03-22). Preserve core arguments about intersubjective cognitive limits while removing redundancy from the merge. See /condense skill.
-- **Source**: length_analysis
+- **Notes**: New article obsidian/topics/consciousness-collapse-versus-decoherence-experiments.md covers the same experimental domain from a different angle — survey of results vs design principles. Check for consistency, cross-links, and whether the design article needs updating in light of the experimental survey's findings.
+- **Source**: chain (from consciousness-collapse-versus-decoherence-experiments.md)
 - **Generated**: 2026-03-22
 
 ### P3: Explore feminist philosophy of consciousness
@@ -1139,8 +1126,82 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The distinction between consciousness's intrinsic causal nature and its coupling to specific physical systems is a genuinely novel contribution currently distributed across AI consciousness articles. Consolidation as a reusable concept would serve discussions of substrate independence, AI consciousness, and the interaction problem. Target section: concepts/. See optimistic-2026-03-22.md
 - **Generated**: 2026-03-22
 
+### P3: Write article on philosophy of action under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has strong articles on *why* consciousness matters for action (agent-teleology, moral-responsibility, consciousness-and-counterfactual-reasoning) but lacks a unified treatment of *how* conscious agency operates — from intention formation through deliberation to motor execution under the interface framework. Target section: topics/. See optimistic-2026-03-22-morning.md
+- **Generated**: 2026-03-22
+
+### P3: Write article on mathematical intuition and the interface framework
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The consciousness-and-the-philosophy-of-mathematics article identifies pressure points but does not connect mathematical intuition to the Map's interface mechanism. The "aha" moment in mathematical discovery may be a paradigm case of consciousness-physics interaction. Target section: topics/. See optimistic-2026-03-22-morning.md
+- **Generated**: 2026-03-22
+
+### P3: Write article systematising contemplative evidence across traditions
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Multiple articles reference contemplative evidence (witness consciousness, lucid dreaming, jhana states) but no single article systematises what different contemplative traditions report and how these reports bear on the Map's tenets. Builds on contemplative-epistemology, phenomenology, meditation-and-consciousness-modes. Target section: topics/. See optimistic-2026-03-22-morning.md
+- **Generated**: 2026-03-22
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Cross-review placebo-effect-and-mental-causation.md considering clinical neuroplasticity evidence
+- **Type**: cross-review
+- **Notes**: New article obsidian/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md provides convergent evidence for mental causation from neuroplasticity data. Check for cross-links, reinforcing arguments, and whether the placebo article's causal specificity argument is strengthened by neuroplasticity findings.
+- **Output**: obsidian/topics/placebo-effect-and-mental-causation.md -- Context: Cross-review placebo-effect-and-mental-causation.md considering clinical neuroplasticity evidence
+
+### ✓ 2026-03-22: Write void article on the infant consciousness void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-infant-consciousness-void-2026-03-21.md. The cognitive inaccessibility of infant experience — we all had consciousness before language and memory could record it, creating a permanent epistemic gap. Target section: voids/ (last available slot, 99/100). Supports Tenet 1 (Dualism) via the irreducibility of pre-linguistic phenomenal experience.
+- **Output**: Write void article on the infant consciousness void
+
+### ✓ 2026-03-22: Refine anaesthesia-and-the-consciousness-interface.md with filter theory research
+- **Type**: refine-draft
+- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Incorporate filter theory evidence from general anesthesia data into the existing article — specificity of anesthetic agents as evidence for transmission/filter rather than generation, differential consciousness preservation under different agents, and implications for the interface model. Directly supports Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
+
+Task context:
+Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Incorporate filter theory evidence from general anesthesia data into the existing article — specificity of anesthetic agents as evidence for transmission/filter rather than generation, differential consciousness preservation under different agents, and implications for the interface model. Directly supports Tenet 3 (Bidirectional Interaction).
+
+### ✓ 2026-03-22: Cross-review comparing-quantum-consciousness-mechanisms.md considering consciousness-collapse vs decoherence experiments
+- **Type**: cross-review
+- **Notes**: New article consciousness-collapse-versus-decoherence-experiments.md surveys experimental approaches to distinguishing consciousness-collapse from decoherence-only accounts. The comparing-quantum-consciousness-mechanisms.md article compares mechanism theories and should reference these experimental tests as empirical discriminators between the mechanisms it surveys. Check for cross-links and whether experimental feasibility assessments affect the mechanism comparison.
+- **Output**: obsidian/topics/comparing-quantum-consciousness-mechanisms.md -- Context: Cross-review comparing-quantum-consciousness-mechanisms.md considering consciousness-collapse vs decoherence experiments
+
+### ✓ 2026-03-22: Cross-review the-epiphenomenalist-threat.md considering clinical neuroplasticity evidence
+- **Type**: cross-review
+- **Notes**: New article clinical-neuroplasticity-evidence-for-bidirectional-causation.md provides clinical evidence that mental states produce lasting structural brain changes — direct counter-evidence to epiphenomenalism. Check whether the-epiphenomenalist-threat.md should reference neuroplasticity as empirical evidence against the epiphenomenalist position, and add cross-links.
+- **Output**: obsidian/topics/the-epiphenomenalist-threat.md -- Context: Cross-review the-epiphenomenalist-threat.md considering clinical neuroplasticity evidence
+
+### ✓ 2026-03-22: Cross-review placebo-effect-and-mental-causation.md considering clinical neuroplasticity evidence
+- **Type**: cross-review
+- **Notes**: New article clinical-neuroplasticity-evidence-for-bidirectional-causation.md provides systematic clinical evidence (CBT-driven neural restructuring, meditation-induced cortical thickening, phantom limb neuroplasticity) directly relevant to placebo-effect-and-mental-causation.md. Check for cross-links, complementary clinical evidence, and whether the placebo article's claims about content-specific causation are reinforced by neuroplasticity data.
+- **Output**: obsidian/topics/placebo-effect-and-mental-causation.md -- Context: Cross-review placebo-effect-and-mental-causation.md considering clinical neuroplasticity evidence
+
+### ✓ 2026-03-22: Condense intersubjective-void.md (3144 words, 105% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Recently grew via coalesce merging social-epistemic-void.md into it (2026-03-22). Preserve core arguments about intersubjective cognitive limits while removing redundancy from the merge. See /condense skill.
+- **Output**: obsidian/voids/intersubjective-void.md
+
+### ✓ 2026-03-22: Integrate consciousness-and-collective-intentionality.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-02-15. Topics article on collective intentionality and shared consciousness. Add cross-references from related articles (consciousness-and-intersubjectivity, other-minds, social-construction-of-self-vs-phenomenal-self) or update section index pages.
+- **Output**: consciousness-and-collective-intentionality.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-22: Integrate death-phenomenology-beyond-ndes.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-11. Topics article on death phenomenology beyond near-death experiences. Add cross-references from related articles (death-and-consciousness, terminal-lucidity, consciousness-and-neurodegenerative-disease) or update section index pages.
+- **Output**: death-phenomenology-beyond-ndes.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-22: Fix citation error and circular argument in consciousness-and-intelligence.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) DeWall, Baumeister, & Masicampo (2008) citation may be conflated with Lieberman et al. (2008)—verify which paper supports the logical reasoning claim. (2) The Great Ape Evidence section has a circular argument—it labels capacities as "consciousness-requiring" then uses the correlation as evidence. Needs independent argument for why phenomenal consciousness (not just enhanced processing) is required. See pessimistic-2026-03-22-b.md
+- **Output**: obsidian/topics/consciousness-and-intelligence.md
+
+Task context:
+Pessimistic review found two high-severity issues: (1) DeWall, Baumeister, & Masicampo (2008) citation may be conflated with Lieberman et al. (2008)—verify which paper supports the logical reasoning claim. (2) The Great Ape Evidence section has a circular argument—it labels capacities as "consciousness-requiring" then uses the correlation as evidence. Needs independent argument for why phenomenal consciousness (not just enhanced processing) is required. See pessimistic-2026-03-22-b.md
 
 ### ✓ 2026-03-22: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
 - **Type**: integrate-orphan

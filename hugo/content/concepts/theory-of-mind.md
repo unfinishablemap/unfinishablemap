@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-22 09:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -135,7 +135,7 @@ Great apes present the critical test case. They possess sophisticated social cog
 
 The pattern suggests apes may possess Level 1 theory of mind—and possibly some implicit Level 2 capacity—while lacking Level 3. This maps onto the metarepresentational threshold: they track others' behaviour, perceptions, and perhaps beliefs without representing these *as* mental states subject to evaluation and recursive embedding.
 
-Michael Tomasello's extensive comparative research supports this interpretation. Great apes possess "individual intentionality" but lack the "shared intentionality" that characterises human social cognition. Shared intentionality requires knowing that both parties know they're engaged in a joint activity—a recursive structure that may exceed ape capacity.
+Michael Tomasello's extensive comparative research supports this interpretation. Great apes possess "individual intentionality" but lack the "[shared intentionality](/topics/consciousness-and-collective-phenomena/)" that characterises human social cognition. Shared intentionality requires knowing that both parties know they're engaged in a joint activity—a recursive structure that may exceed ape capacity.
 
 The absence of recursive ToM in apes has downstream consequences: they lack cumulative culture (traditions exist but don't systematically improve across generations), pedagogy requiring the teacher to model the learner's knowledge state, and moral cognition requiring attribution of responsibility for intentional actions. These uniquely human capacities may all depend on the consciousness-enabled metarepresentational threshold.
 

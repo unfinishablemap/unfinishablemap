@@ -64,11 +64,10 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Origin Void](/voids/origin-of-consciousness/) — Why consciousness exists at all—the most logically prior void
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — Using the structure of failure as data
 - [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
-- [Convergence of the Void Catalogue](/voids/convergence-of-the-void-catalogue/) — How independently catalogued voids converge into five families
+- [Convergence as Evidence](/voids/convergence-as-evidence/) — How independently catalogued voids converge into five families and constitute an argument for dualism
 - [The Cartography Problem](/voids/cartography-problem/) — Whether a map of cognitive voids can map its own incompleteness
 - [The Dissolution Problem](/voids/dissolution-problem/) — Why we cannot predict which cognitive limits will prove permanent
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — How we can know our cognitive limits from within a limited mind
-- [The Evidential Weight of Voids](/voids/evidential-weight-of-voids/) — Whether the pattern of cognitive voids constitutes an argument for dualism
 - [The Void as Ground of Meaning](/voids/void-as-ground-of-meaning/) — Why cognitive limits are preconditions for meaning, not merely obstacles
 
 ### Specific Voids
@@ -104,6 +103,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Measurement Void](/voids/measurement-void/) — Why consciousness resists measurement at every level—no units, no instruments, no calibration standards
 - [The Simulation Detection Void](/voids/simulation-detection-void/) — Why embedded observers cannot determine whether their reality is simulated
 - [The Acquaintance Void](/voids/acquaintance-void/) — Modes of direct phenomenal contact structurally inaccessible to minds like ours
+- [The Infant Consciousness Void](/voids/infant-consciousness/) — Why our own infant experience is more alien than another adult's mind
 - [The Minimal Consciousness Void](/voids/minimal-consciousness-void/) — Why consciousness cannot investigate its own lower bound
 - [The Amplification Void](/voids/amplification-void/) — Why the chain from quantum influence to neural effect cannot be traced
 - [The Transition Void](/voids/transition-void/) — Why consciousness cannot witness its own state transitions

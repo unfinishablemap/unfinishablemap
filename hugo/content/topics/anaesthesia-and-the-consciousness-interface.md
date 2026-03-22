@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-21 12:49:00+00:00
+ai_modified: 2026-03-22 11:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ concepts:
 - '[[self-stultification]]'
 - '[[direction-of-fit]]'
 created: 2026-02-23
-date: &id001 2026-03-20
+date: &id001 2026-03-22
 description: Anaesthetic pharmacology maps the consciousness-brain interface with
   unexpected precision. Different agents disrupt different interface components, revealing
   a structured, multi-layered connection between mind and matter.
@@ -94,6 +94,8 @@ Bhatt et al. (2019) decompose conscious experience under anaesthesia into three 
 
 This pattern fits a narrowing filter better than a dimming generator. A generator losing power should produce quantitative reduction — less experience, uniformly. A filter being selectively restricted should produce qualitative transformation — different kinds of experience depending on which channels are narrowed. The pharmacological evidence supports the latter pattern.
 
+The specificity of anaesthetic agents sharpens this argument. Propofol (GABA-A agonist), ketamine (NMDA antagonist), and xenon (also NMDA antagonist, but with additional two-pore potassium channel activity) each engage different molecular targets — and each produces a distinctive consciousness profile, not merely a different depth of suppression. If the brain generates consciousness through some integrated process, agents that suppress neural activity to similar behavioural endpoints should produce roughly similar consciousness outcomes. They do not. The receiver matters: propofol and xenon both silence phenomenal experience through mechanistically different pathways, while ketamine preserves it entirely. This is what a multi-channel transmission system looks like when individual channels are selectively blocked — the pattern of what gets through depends on which channel is disrupted, not on how much total signal is lost. William James's original analogy remains apt: just as a prism does not create colour from white light but passively separates wavelengths that exist independently (James, 1898), the brain may not generate consciousness but differentially transmit aspects of it — and anaesthetic agents, by blocking specific transmission channels, reveal the system's architecture.
+
 The ketamine case also poses a specific challenge to integrated information theory (IIT), which identifies consciousness with integrated information (Phi). Under ketamine, brain complexity measured by PCI remains at waking levels — Phi is high — yet consciousness is disconnected from the environment rather than fully present. IIT predicts that high Phi should correspond to full consciousness, not a dissociated dream state. Filter theory accommodates this naturally: the brain's information integration capacity remains intact because consciousness is still engaging through the interface, but the environmental access channels have been pharmacologically blocked.
 
 The three-state taxonomy that has emerged from anaesthesia research — connected consciousness, disconnected consciousness, and unconsciousness — maps directly onto filter theory's predictions. Connected consciousness, detectable through the isolated forearm technique (where a tourniquet prevents neuromuscular blockade from reaching one arm, allowing patients to signal awareness while otherwise paralysed), represents a state where the filter narrows environmental access without eliminating it. Disconnected consciousness — vivid dreaming, hallucinations, distorted self-perception — represents a state where the filter blocks environmental input while consciousness continues to express itself through internally generated content. Some studies have found that nearly all participants recalled dreaming during periods of behavioural unresponsiveness, suggesting disconnected consciousness is far more common under anaesthesia than the clinical picture of "unconsciousness" implies.
@@ -140,7 +142,7 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: All molecular binding is quantum mechanical in the trivial sense — quantum chemistry governs how anaesthetics dock with their receptor targets. The relevant question is whether the interface involves the kind of quantum indeterminacy through which consciousness might act. Several anaesthetic targets, particularly ion channels and receptor proteins, involve conformational changes at scales where thermal noise and quantum uncertainty overlap. The specificity of anaesthetic action — particular drugs targeting particular molecular sites — is consistent with the interface operating through quantum-sensitive molecular systems, though this remains speculative. The [constrained pluralism](/topics/the-interface-location-problem/) position gains support: the interface operates through the [attention-motor architecture](/concepts/voluntary-attention-control-mechanisms/) at the functional level, with molecular-level effects in receptor proteins and ion channels providing the physical substrate.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The active reboot phenomenon — the brain preparing for consciousness to return rather than consciousness passively re-emerging — suggests causal traffic in both directions. The brain configures the interface; consciousness engages through it. Neither is passive. The graded consciousness spectrum reinforces this: during disconnected consciousness, the brain is pharmacologically severed from environmental input yet consciousness actively generates elaborate internal experience — dreams, perceived journeys, encounters. This is not the behaviour of a passive by-product of neural activity; it is the behaviour of an agent that continues to act through whatever interface channels remain available.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The active reboot phenomenon — the brain preparing for consciousness to return rather than consciousness passively re-emerging — suggests causal traffic in both directions. The brain configures the interface; consciousness engages through it. Neither is passive. The graded consciousness spectrum reinforces this: during disconnected consciousness, the brain is pharmacologically severed from environmental input yet consciousness actively generates elaborate internal experience — dreams, perceived journeys, encounters. This is not the behaviour of a passive by-product of neural activity; it is the behaviour of an agent that continues to act through whatever interface channels remain available. The differential consciousness profiles across anaesthetic agents strengthen this further. When ketamine blocks the environmental access channel, consciousness does not simply diminish — it redirects, producing elaborate internal experience of equal or greater vividness than waking life. When propofol blocks the phenomenal channel itself, consciousness ceases to manifest entirely. This adaptive redirection — consciousness reorganising its activity around whichever channels remain open — is characteristic of an agent interacting with a structured interface, not of a product passively declining as its generator loses power.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: If anaesthesia merely rearranges which branch of a universal wavefunction a patient occupies, the phenomenological specificity of different agents becomes mysterious — why should propofol route consciousness to a no-experience branch while ketamine routes it to a vivid-experience branch? The Map's single-world framework treats anaesthetic effects as real disruptions of a real interface, not branch-selection artifacts. The patient who wakes from propofol and reports nothing was genuinely without phenomenal experience, not merely located in a branch where experience didn't manifest.
 
@@ -186,24 +188,26 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 1. Noreika, V., et al. (2018). Consciousness lost and found: subjective experiences in an unresponsive state. *British Journal of Anaesthesia*, 121(1), 298-305.
 1. Xu, G., et al. (2023). Surge of neurophysiological coherence and connectivity in the dying brain. *Proceedings of the National Academy of Sciences*, 120(19), e2216268120.
 1. Parnia, S., et al. (2023). AWAreness during REsuscitation — II: a multi-center study of consciousness and awareness in cardiac arrest. *Resuscitation*, 191, 109903.
+1. James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin.
 1. Bhatt, D. P., et al. (2024). A transmissive theory of brain function: implications for health, disease, and consciousness. *NeuroSci*, 3(3), 32.
 
-<!-- AI REFINEMENT LOG - 2026-03-21 (pass 2)
+<!-- AI REFINEMENT LOG - 2026-03-22 (pass 3)
 Changes made:
-- Expanded Phenomenal Presence section: added xenon alongside propofol with Sarasso et al.'s finding that both suppress experience but through different neural patterns (low-amplitude local vs high-amplitude global slow wave)
-- Added xenon-ketamine NMDA contrast: both are NMDA antagonists yet produce opposite phenomenological outcomes, strengthening the pharmacological separability argument
-- Added three-component decomposition (wakefulness, internal awareness, connectedness) from Bhatt et al. 2019 to Graded Consciousness section
-- Made ketamine brain dynamics description more specific ("wakefulness-like complex spatiotemporal activation")
+- Added agent specificity paragraph to filter theory section: explicit argument that different receptor targets producing different consciousness profiles (not just different depths) is the key discriminator between filter and production accounts
+- Added James (1898) prism analogy as historical anchor for multi-channel transmission argument
+- Strengthened Bidirectional Interaction tenet section: added adaptive redirection argument (consciousness reorganising around available channels under different agents)
+- Added James 1898 to references
 
-Previous passes (2026-03-20 and 2026-03-21 pass 1):
+Previous passes (2026-03-20, 2026-03-21 pass 1, 2026-03-21 pass 2):
 - Added three-state taxonomy, "Graded Consciousness and Filter Theory Predictions" section
 - Added epistemological parity argument (Moncrieff 2023), IIT challenge paragraph
 - Expanded cardiac arrest evidence, strengthened tenet connections
 - Added Noreika et al. (2018) implicit processing, inline citations for cardiac arrest evidence
-- Added references: Sanders et al. 2023, Sarasso et al. 2015, Bhatt et al. 2019, Bhatt et al. 2024, Moncrieff 2023, Noreika et al. 2018, Xu et al. 2023, Parnia et al. 2023
+- Expanded Phenomenal Presence section with xenon, xenon-ketamine NMDA contrast
+- Added three-component decomposition from Bhatt et al. 2019
 
 Based on research in research/consciousness-anesthesia-filter-theory-2026-03-20.md.
-Key improvements: Propofol-xenon mechanistic distinction and xenon-ketamine NMDA contrast strengthen pharmacological specificity argument; three-component decomposition adds scientific framework.
+Key improvements: Agent specificity as filter-vs-production discriminator; James prism analogy; adaptive redirection strengthening Tenet 3.
 
 This log should be removed after human review.
 -->

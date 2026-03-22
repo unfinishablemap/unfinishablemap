@@ -34,7 +34,7 @@ related_articles:
 - '[[decoherence]]'
 - '[[collective-cognitive-limits]]'
 - '[[void-as-ground-of-meaning]]'
-- '[[convergence-of-the-void-catalogue]]'
+- '[[convergence-as-evidence]]'
 title: What the Limits Reveal
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -156,7 +156,7 @@ The limits-reveal-structure thesis would be undermined if:
 - [The Habituation Void](/voids/habituation-void/) — How familiarity-limits reveal novelty-orientation in consciousness
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
-- [Convergence of the Void Catalogue](/voids/convergence-of-the-void-catalogue/) — How the full catalogue's limits converge into five families
+- [Convergence as Evidence](/voids/convergence-as-evidence/) — How the full catalogue's limits converge into five families and constitute evidence for dualism
 - [Illusionism](/concepts/illusionism/) — The radical challenge that limits are misrepresentations (see Illusionist Challenge section)
 - [Introspection](/concepts/introspection/) — The reliability of first-person access to cognitive architecture
 - [Decoherence](/concepts/decoherence/) — Quantum coherence and the physical possibility of mind-matter interface

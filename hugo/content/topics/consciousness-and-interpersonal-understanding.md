@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-21 20:10:00+00:00
+ai_modified: 2026-03-22 09:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -132,6 +132,7 @@ None of these would refute dualism directly, but they would weaken the case that
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The thought experiment that sharpens the bypass question
 - [moral-responsibility](/concepts/moral-responsibility/) — How moral accountability depends on understanding agents as subjects
 - [phenomenology-of-trust](/topics/phenomenology-of-trust/) — The felt character of trust as interpersonal vulnerability across the intersubjective void
+- [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — How individual consciousness enables collective intentionality and institutional reality
 
 ## References
 

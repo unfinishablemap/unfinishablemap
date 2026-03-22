@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-11
-**Article**: [Convergence of the Void Catalogue](/voids/convergence-of-the-void-catalogue/)
+**Article**: [Convergence of the Void Catalogue](/voids/convergence-as-evidence/)
 **Previous review**: [2026-03-11](/reviews/deep-review-2026-03-11-convergence-of-the-void-catalogue/) (same day, first review)
 
 ## Context
@@ -51,7 +51,7 @@ No new counterarguments beyond those noted in the first review. The article's fo
 ### Cross-links Added (inbound, from other articles)
 - [voids](/voids/) — Added to Foundational Articles section
 - [taxonomy-of-voids](/apex/taxonomy-of-voids/) — Added inline link in "The Convergence Pattern" section + related_articles
-- [evidential-weight-of-voids](/voids/evidential-weight-of-voids/) — Added inline link in Pattern section + Further Reading + related_articles
+- [evidential-weight-of-voids](/voids/convergence-as-evidence/) — Added inline link in Pattern section + Further Reading + related_articles
 - [topology-of-cognitive-failure](/voids/compound-failure-signatures/) — Added to Further Reading + related_articles
 - [compound-cognitive-limits](/voids/compound-failure-signatures/) — Added to Further Reading + related_articles
 - [apophatic-cartography](/voids/apophatic-cartography/) — Added to Further Reading + related_articles

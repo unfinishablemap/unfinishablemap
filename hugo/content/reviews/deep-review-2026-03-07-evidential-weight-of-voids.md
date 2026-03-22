@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-03-07
-**Article**: [The Evidential Weight of Voids](/voids/evidential-weight-of-voids/)
+**Article**: [The Evidential Weight of Voids](/voids/convergence-as-evidence/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

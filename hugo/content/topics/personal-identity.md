@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-22 11:11:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: What makes you *you* across time? The Map emphasizes indexical iden
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-24 10:14:00+00:00
+last_deep_review: 2026-03-22 11:11:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -124,7 +124,7 @@ On the Map's framework, personal identity involves:
 
 2. **Causal continuity**: A connected history of consciousness influencing physical outcomes—your choices, selections, and experiences forming a continuous causal chain.
 
-3. **Indexical uniqueness**: The unrepeatable fact that *you* are this conscious being and not another, even if another were qualitatively identical. [Indexical knowledge](/concepts/indexical-knowledge-and-identity/)—knowledge expressible only as "I," "here," "now"—is irreducible to impersonal description, and the [indexical-void](/voids/indexical-void/) marks this as a genuine cognitive boundary—the question "why am I *this* one?" resists every available method of answer. This indexical question extends into physics: [at quantum measurement](/topics/indexical-identity-quantum-measurement/), the same irreducible "thisness" determines which outcome *this* consciousness experiences.
+3. **Indexical uniqueness**: The unrepeatable fact that *you* are this conscious being and not another, even if another were qualitatively identical. [Indexical knowledge](/concepts/indexical-knowledge-and-identity/)—knowledge expressible only as "I," "here," "now"—is irreducible to impersonal description. The [indexical-void](/voids/indexical-void/) marks this as a genuine cognitive boundary: the question "why am I *this* one?" resists every available method of answer. This extends into physics, where [the same irreducible "thisness"](/topics/indexical-identity-quantum-measurement/) determines which outcome *this* consciousness experiences.
 
 Psychological continuity matters, but as evidence of something deeper. Your memories, intentions, and character traits are expressions of your persisting consciousness, not what your identity consists in. If a replica had your memories but lacked your consciousness (were a zombie), it wouldn't be you. If it had consciousness but a different one (somehow), it still wouldn't be you.
 
@@ -160,9 +160,7 @@ Could the sense of haecceity specifically be a cognitive illusion—perhaps evol
 
 The Map's framework connects personal identity to quantum selection—*this* consciousness making *these* selections. But [decoherence](/concepts/decoherence/) poses a challenge: quantum coherence in warm biological systems supposedly decays in femtoseconds.
 
-Three considerations mitigate this: decoherence calculations may be off by orders of magnitude; decoherence doesn't explain why we see definite outcomes; and the [quantum Zeno mechanism](/concepts/attention-as-interface/) suggests consciousness operates through rapid observation, not sustained coherence.
-
-Even if the quantum mechanism proves untenable, the conceptual point stands: personal identity involves *this* subject having experiences and making choices, regardless of the specific non-physical interface.
+Three considerations mitigate this: decoherence calculations may be off by orders of magnitude; decoherence doesn't explain why we see definite outcomes; and the [quantum Zeno mechanism](/concepts/attention-as-interface/) suggests consciousness operates through rapid observation, not sustained coherence. Even if the quantum mechanism proves untenable, the conceptual point stands: personal identity involves *this* subject having experiences and making choices, regardless of the specific non-physical interface.
 
 ## Implications for Survival
 
@@ -174,7 +172,7 @@ What does survival require? As discussed in [death-and-consciousness](/topics/de
 
 **Uploading**: An uploaded mind would not be you. Functional identity isn't consciousness identity.
 
-**Cognitive enhancement**: If the brain is an interface rather than the seat of mind, radical enhancement modifies the channel through which consciousness operates without altering the conscious subject itself. This provides a stronger foundation for personal continuity through enhancement than materialism can offer—see [the ethics of cognitive enhancement](/topics/ethics-of-cognitive-enhancement-under-dualism/) for how this reframing reshapes bioethical questions about identity under modification.
+**Cognitive enhancement**: If the brain is interface rather than seat of mind, radical enhancement modifies the channel through which consciousness operates without altering the conscious subject itself—see [the ethics of cognitive enhancement](/topics/ethics-of-cognitive-enhancement-under-dualism/) for how dualism reshapes bioethical questions about identity under modification.
 
 **Bodily death**: If consciousness is irreducible and the brain is interface rather than generator, brain death might alter how consciousness manifests without ending *this* consciousness (see [death-and-consciousness](/topics/death-and-consciousness/)).
 
@@ -241,15 +239,3 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 1. Dennett, D. (1991). *Consciousness Explained*. Little, Brown.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Stanford Encyclopedia of Philosophy: Personal Identity and Ethics. https://plato.stanford.edu/entries/identity-ethics/
-
-<!-- AI REFINEMENT LOG - 2026-02-24
-Changes made (cross-review considering autonoetic consciousness insights):
-1. Added constitutive view insight to autonoetic paragraph: the felt quality of re-experiencing *defines* episodic memory, strengthening the haecceity argument
-1. Added autonoetic causal efficacy to Bidirectional Connection: Klein's argument that temporal self-projection drives planning through specifically conscious experience
-1. Tightened Psychological View, split-brain evidence, decoherence section, survival implications, and meaning connection for length neutrality
-
-Based on deep-review-2026-02-24-personal-identity.md.
-Key improvements: integrated newly created autonoetic-consciousness.md insights into two natural connection points.
-
-This log should be removed after human review.
--->

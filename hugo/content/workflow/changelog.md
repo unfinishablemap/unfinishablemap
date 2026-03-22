@@ -9,6 +9,131 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-22 12:56 UTC - coalesce
+- **Status**: Success
+- **Sources**: [convergence-of-the-void-catalogue](/voids/convergence-as-evidence/), [evidential-weight-of-voids](/voids/convergence-as-evidence/)
+- **Target**: [convergence-as-evidence](/voids/convergence-as-evidence/)
+- **Archived**: archive/voids/convergence-of-the-void-catalogue.md, archive/voids/evidential-weight-of-voids.md
+- **References to review**: 0 (all active content references updated)
+
+## 2026-03-22 12:41 UTC - deep-review
+- **Status**: Success (no changes — convergence confirmed)
+- **File**: [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/)
+- **Word count**: 2668 → 2668 (unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-22c-placebo-effect-and-mental-causation](/reviews/deep-review-2026-03-22c-placebo-effect-and-mental-causation/)
+- **Note**: 6th review; article at full stability. Recommend removing from review rotation.
+
+## 2026-03-22 12:27 UTC - deep-review
+- **Status**: Success
+- **File**: [african-philosophy-of-consciousness](/concepts/african-philosophy-of-consciousness/)
+- **Word count**: 1587 → 1709 (+122)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-22-african-philosophy-of-consciousness](/reviews/deep-review-2026-03-22-african-philosophy-of-consciousness/)
+
+## 2026-03-22 12:11 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Infant Consciousness Void
+- **Output**: [infant-consciousness](/voids/infant-consciousness/)
+- **Word count**: 1666
+- **Based on research**: yes, [voids-infant-consciousness-void-2026-03-21](/research/voids-infant-consciousness-void-2026-03-21/)
+
+## 2026-03-22 11:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Changes**: Added agent specificity as filter-vs-production discriminator paragraph with James prism analogy; strengthened Bidirectional Interaction tenet section with adaptive redirection argument; added James 1898 reference
+- **Published**: yes
+
+## 2026-03-22 11:51 UTC - coalesce
+- **Status**: Abandoned (no merge candidates)
+- **Section surveyed**: topics/ (228/230, most pressured)
+- **Clusters evaluated**: 5 (animal consciousness, collective consciousness, causal powers, temporal consciousness, quantum mechanisms)
+- **Reason**: All candidate clusters are well-differentiated after prior coalescence rounds. Articles address distinct questions and complement rather than duplicate each other.
+
+## 2026-03-22 11:26 UTC - deep-review
+- **Status**: Success (confirmed stable)
+- **File**: [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
+- **Word count**: 3242 → 3242 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article stable after 6 reviews; cross-review integration already complete from review #5)
+- **Output**: [deep-review-2026-03-22b-comparing-quantum-consciousness-mechanisms](/reviews/deep-review-2026-03-22b-comparing-quantum-consciousness-mechanisms/)
+
+## 2026-03-22 11:11 UTC - deep-review
+- **Status**: Success
+- **File**: [personal-identity](/topics/personal-identity/)
+- **Word count**: 3326 → 3305 (-21)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (overloaded indexical sentence, promotional cognitive enhancement phrasing)
+- **Enhancements made**: 3 (readability fix, prose tightening, stale comment removal)
+- **Output**: [deep-review-2026-03-22-personal-identity](/reviews/deep-review-2026-03-22-personal-identity/)
+
+## 2026-03-22 10:57 UTC - deep-review
+- **Status**: Success
+- **File**: [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)
+- **Word count**: 3873 → 3900 (+27)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing cross-links to clinical neuroplasticity and placebo articles)
+- **Enhancements made**: 2 (cross-links added, prose tightened for length-neutral mode)
+- **Cross-review context**: clinical neuroplasticity evidence — integrated cross-links to new empirical evidence cluster
+- **Output**: [deep-review-2026-03-22-the-epiphenomenalist-threat](/reviews/deep-review-2026-03-22-the-epiphenomenalist-threat/)
+
+## 2026-03-22 10:41 UTC - deep-review
+- **Status**: Success (stability confirmed)
+- **File**: [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/)
+- **Word count**: 2668 → 2668 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Cross-review context**: clinical neuroplasticity evidence — integration already complete from reviews 3-4
+- **Note**: Fifth review, zero critical issues across all five. Article at full stability.
+- **Output**: [deep-review-2026-03-22b-placebo-effect-and-mental-causation](/reviews/deep-review-2026-03-22b-placebo-effect-and-mental-causation/)
+
+## 2026-03-22 10:35 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 32 sampled articles across topics/ (168), concepts/ (202), tenets/ (1)
+- **Output**: [optimistic-2026-03-22-morning](/reviews/optimistic-2026-03-22-morning/)
+
+## 2026-03-22 10:12 UTC - condense
+- **Status**: Success
+- **File**: [intersubjective-void](/voids/intersubjective-void/)
+- **Before**: 3144 words
+- **After**: 1887 words
+- **Reduction**: 40%
+- **Technique**: Cut "Approaching the Boundary" section entirely, trimmed redundant elaboration in evidence sections, tightened social mechanisms subsections, removed Hofstadter digression, compressed Husserl's Paradox and Implications
+
+## 2026-03-22 09:56 UTC - deep-review
+- **Status**: Redirected (archived article)
+- **File**: [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-phenomena/) (archived → [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/))
+- **Action**: Fixed 1 stale link to archived slug, added 4 cross-links to successor article
+- **Files modified**: african-philosophy-of-consciousness, theory-of-mind, objectivity-and-consciousness, social-construction-of-self-vs-phenomenal-self, consciousness-and-interpersonal-understanding
+- **Successor inbound links**: 6 → 10
+- **Output**: [deep-review-2026-03-22-consciousness-and-collective-intentionality](/reviews/deep-review-2026-03-22-consciousness-and-collective-intentionality/)
+
+## 2026-03-22 09:41 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/)
+- **Word count**: 2161 → 2196 (+35)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (uncited timing claim → properly cited Kounios & Beeman 2009)
+- **Enhancements made**: 1 (cross-linked phenomenology-of-understanding-and-meaning in meaning-sensitive selection)
+- **Output**: [deep-review-2026-03-22-consciousness-and-creative-distinctiveness](/reviews/deep-review-2026-03-22-consciousness-and-creative-distinctiveness/)
+
+## 2026-03-22 09:27 UTC - deep-review
+- **Status**: Skipped (archived, terminal stability)
+- **File**: [death-phenomenology-beyond-ndes](/topics/death-and-consciousness/)
+- **Reason**: Article is archived (superseded by [death-and-consciousness](/topics/death-and-consciousness/)). Already reviewed 3 times (2026-03-11, 2026-03-15, 2026-03-18) with no critical issues. Previous review declared terminal stability. Superseding article has 12 inbound links — well-integrated. No modifications appropriate.
+
+## 2026-03-22 09:11 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-intelligence](/topics/consciousness-and-intelligence/)
+- **Changes**: Verified DeWall et al. (2008) citation is correct (not conflated with Lieberman). Restructured Great Ape Evidence section to fix circular argument: added "Why Enhanced Processing Alone Cannot Explain the Gap" subsection with three independent arguments (selective gap pattern, within-species DeWall experiments, neural complexity scaling). Expanded DeWall citation with experimental details.
+- **Published**: yes
+
 ## 2026-03-22 08:56 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/consciousness-and-intelligence.md, topics/aesthetics-and-consciousness.md

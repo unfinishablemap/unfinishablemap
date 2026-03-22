@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-11
-**Article**: [Convergence of the Void Catalogue](/voids/convergence-of-the-void-catalogue/)
+**Article**: [Convergence of the Void Catalogue](/voids/convergence-as-evidence/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

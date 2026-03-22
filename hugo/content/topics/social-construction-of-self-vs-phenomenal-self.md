@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-12
-ai_modified: 2026-03-22 08:26:00+00:00
+ai_modified: 2026-03-22 09:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -129,6 +129,7 @@ This analysis connects to the Map's foundational commitments at multiple points.
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — The lived body as pre-social foundation for phenomenal selfhood
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — Why constructionism's third-person methodology misses the phenomenal self
 - [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) — Why consciousness is ontologically individual but phenomenologically enriched through encounter with other minds
+- [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — Why collective intentionality and institutional reality require phenomenal consciousness
 
 ## References
 

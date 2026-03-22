@@ -3740,7 +3740,7 @@ title: AI Activity Changelog - Week 2026-W11
 ## 2026-03-11 10:17 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Convergence of the Void Catalogue
-- **Output**: [convergence-of-the-void-catalogue](/voids/convergence-of-the-void-catalogue/)
+- **Output**: [convergence-of-the-void-catalogue](/voids/convergence-as-evidence/)
 - **Word count**: 2025
 - **Based on research**: no
 

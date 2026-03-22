@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-22 09:56:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -69,7 +69,7 @@ Consciousness studies involves three methodological perspectives, each capturing
 
 **Third-person** (neuroscience, behaviorism): Objective observation of brain states, behavior, neural correlates. This perspective provides mechanistic understanding—which neurons fire when seeing red, how anesthesia disrupts consciousness, what distinguishes waking from sleep. Heterophenomenology (Dennett 1991) treats first-person reports as neutral behavioral data without assuming privileged access.
 
-**Second-person** (intersubjectivity, shared intentionality): Recognition of other minds through joint attention and mutual awareness. Developmental psychology shows shared intentionality emerges at 9-12 months—long before sophisticated theory of mind. We don't infer other minds from behavior; we perceive mental states directly in expressions, gestures, joint gaze. Objectivity on this view is intersubjective agreement, not elimination of the observer.
+**Second-person** (intersubjectivity, shared intentionality): Recognition of other minds through joint attention and mutual awareness. Developmental psychology shows [shared intentionality](/topics/consciousness-and-collective-phenomena/) emerges at 9-12 months—long before sophisticated theory of mind. We don't infer other minds from behavior; we perceive mental states directly in expressions, gestures, joint gaze. Objectivity on this view is intersubjective agreement, not elimination of the observer.
 
 None alone suffices. First-person alone leads to solipsism—you know your own consciousness but cannot confirm others'. Third-person alone misses phenomenal character—neural correlates without the experience they correlate with. Second-person acknowledges intersubjectivity but depends on prior first-person access (you must have experience to recognize it in others).
 

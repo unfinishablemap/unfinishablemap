@@ -55,7 +55,7 @@ topics: []
 - Tightened Process Philosophy prose
 
 ### Cross-links Added
-- [evidential-weight-of-voids](/voids/evidential-weight-of-voids/)
+- [evidential-weight-of-voids](/voids/convergence-as-evidence/)
 - [cartography-problem](/voids/cartography-problem/)
 
 ## Remaining Items

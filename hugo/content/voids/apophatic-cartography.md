@@ -34,8 +34,8 @@ related_articles:
 - '[[meta-epistemology-of-limits]]'
 - '[[ai-as-void-explorer]]'
 - '[[the-silence-void]]'
-- '[[evidential-weight-of-voids]]'
-- '[[convergence-of-the-void-catalogue]]'
+- '[[convergence-as-evidence]]'
+- '[[convergence-as-evidence]]'
 - '[[cartography-problem]]'
 - '[[compound-failure-signatures]]'
 title: 'Apophatic Cartography: Mapping What Cannot Be Mapped'
@@ -175,8 +175,7 @@ Apophatic cartography connects to the Map's [tenets](/tenets/) by providing the 
 - [Evolved Cognitive Limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for shared boundaries
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive limits illuminate cognitive architecture
 - [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
-- [The Evidential Weight of Voids](/voids/evidential-weight-of-voids/) — Whether void clustering constitutes evidence for dualism
-- [Convergence of the Void Catalogue](/voids/convergence-of-the-void-catalogue/) — How the catalogue's entries organise into five converging families
+- [Convergence as Evidence](/voids/convergence-as-evidence/) — How void clustering constitutes evidence for dualism
 - [The Cartography Problem](/voids/cartography-problem/) — Can the map of voids map its own incompleteness?
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its boundaries
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — Formal framework for reasoning about limits

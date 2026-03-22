@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-03-18 13:10:00+00:00
+ai_modified: 2026-03-22 09:11:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -105,15 +105,31 @@ Conversely, intelligence shapes how consciousness can manifest. Richer cognitive
 
 The [consciousness-as-intelligence-amplifier](/concepts/consciousness-as-amplifier/) hypothesis draws on comparative cognition to argue that consciousness causally contributes to intelligence. Great apes represent what the Map calls [baseline-cognition](/concepts/baseline-cognition/)—sophisticated neural processing without the full conscious access that humans enjoy.
 
+### The Cognitive Gap
+
+Four capacities distinguish human from great ape cognition:
+
 **Working memory**: Chimpanzee working memory is substantially more limited than human working memory (Tomasello & Herrmann, 2010). The human capacity of 7±2 items isn't merely more storage—it's the capacity to simultaneously manipulate multiple representations, enabling comparison, combination, and flexible reasoning.
 
 **Metacognition**: Great apes show procedural metacognition—uncertainty guides their behaviour—but may lack *declarative* metacognition: representing their knowledge *as* knowledge, taking their beliefs as objects of thought.
 
 **Cumulative culture**: Apes have culture but cannot accumulate improvements across generations. They lack the explicit transmission and deliberate modification that cumulative culture requires. Tennie, Call, and Tomasello (2009) describe ape innovations as within the "zone of latent solutions"—discovering what their existing capacities can already produce, rather than building new capacities.
 
-**Logical reasoning**: Empirical research (DeWall, Baumeister, & Masicampo, 2008) shows that conscious processing specifically enables rule-based logical reasoning. Disrupting conscious attention impairs logic; disrupting unconscious processes does not.
+**Logical reasoning**: DeWall, Baumeister, and Masicampo (2008) tested whether logical reasoning depends on conscious processing through four experiments. Imposing conscious cognitive load (counting backwards while reasoning) impaired performance on logic puzzles, while nonconscious load (thought suppression) did not. Nonconscious priming activated logic-relevant associations but failed to improve actual logical reasoning. The results indicate that conscious, reflective processing is specifically required for rule-based reasoning—unconscious processes can supply relevant concepts but cannot execute the reasoning itself.
 
-The pattern is systematic: precisely those capacities that distinguish human from great ape cognition are capacities that appear to require conscious access. The [consciousness threshold](/topics/consciousness-threshold-in-cognitive-evolution/) article develops this pattern in detail, arguing that the ape-human discontinuity marks a phase transition where consciousness becomes sufficiently integrated with neural architecture to transform cognitive capacity. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that this correlation is no accident—consciousness enables these capacities rather than merely accompanying them.
+### Why Enhanced Processing Alone Cannot Explain the Gap
+
+A physicalist might argue that these capacities simply require more neural complexity—larger prefrontal cortex, more synaptic connections—without invoking phenomenal consciousness. On this view, the ape-human gap reflects quantitative differences in processing power, not a qualitative contribution from subjective experience.
+
+Three considerations count against this purely architectural explanation:
+
+First, the gap is selective rather than uniform. If raw processing power explained the difference, humans should outperform apes proportionally across all cognitive tasks. Instead, humans dramatically exceed apes on tasks involving explicit representation and deliberate manipulation (logical reasoning, metacognitive monitoring, counterfactual planning) while the advantage is modest for tasks like perceptual speed and associative learning. This selective pattern matches what conscious access would predict: enhancement concentrated in capacities requiring information to be held in awareness for deliberate use.
+
+Second, the DeWall et al. experiments provide a within-species test. Human subjects have the same neural architecture whether or not conscious attention is disrupted. When conscious processing is impaired, logical reasoning degrades while other cognitive functions remain intact. The degradation cannot be attributed to reduced processing power—thought suppression consumes cognitive resources without impairing logic, while counting backwards (which occupies conscious attention specifically) does impair it. The variable that tracks the impairment is conscious access, not processing capacity.
+
+Third, great apes possess substantial neural complexity—chimpanzee brains contain roughly 6 billion cortical neurons—yet fail to achieve the capacities in question. The gap does not scale with brain size in the way a processing-power explanation would predict: some corvids with far smaller brains show cognitive flexibility exceeding that of great apes, suggesting that what matters is not raw neural resources but how information becomes available for flexible use.
+
+The [consciousness threshold](/topics/consciousness-threshold-in-cognitive-evolution/) article develops this pattern in detail, arguing that the ape-human discontinuity marks a phase transition where consciousness becomes sufficiently integrated with neural architecture to transform cognitive capacity. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that the selective pattern of the gap is best explained by consciousness enabling these specific capacities rather than merely accompanying them.
 
 ## Implications for Artificial Intelligence
 
@@ -192,3 +208,15 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against di
 1. Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
 1. Tennie, C., Call, J., & Tomasello, M. (2009). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 364(1528), 2405-2415.
 1. Tomasello, M., & Herrmann, E. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
+
+<!-- AI REFINEMENT LOG - 2026-03-22
+Changes made:
+- Verified DeWall et al. (2008) citation is correct and not conflated with Lieberman—the paper is real and supports the logical reasoning claim as cited
+- Expanded the DeWall citation inline with experimental details (four experiments, conscious vs nonconscious load)
+- Restructured Great Ape Evidence section with subsections: "The Cognitive Gap" and "Why Enhanced Processing Alone Cannot Explain the Gap"
+- Added three independent arguments against purely architectural explanation: (1) selective rather than uniform gap pattern, (2) within-species evidence from DeWall experiments, (3) neural complexity scaling problems (corvids vs apes)
+- Softened concluding paragraph to say "selective pattern of the gap is best explained by" rather than asserting correlation equals causation
+
+Addresses pessimistic-2026-03-22-b.md findings.
+This log should be removed after human review.
+-->

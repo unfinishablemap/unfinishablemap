@@ -12,7 +12,7 @@ apex_sources:
 - voids/limits-reveal-structure
 - voids/compound-failure-signatures
 - voids/phenomenology-of-the-edge
-- voids/evidential-weight-of-voids
+- voids/convergence-as-evidence
 - voids/tenet-generated-voids
 - voids/whether-real
 - voids/cartography-problem
@@ -41,7 +41,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[apex-articles]]'
-- '[[convergence-of-the-void-catalogue]]'
+- '[[convergence-as-evidence]]'
 title: A Taxonomy of Voids
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -111,9 +111,9 @@ The other three criteria—structured persistence across time and frameworks, cr
 
 ## The Convergence Pattern
 
-The [convergence analysis](/voids/convergence-of-the-void-catalogue/) reveals that the most striking feature of the taxonomy is not the individual voids but their distribution. Physics has interpretive difficulties. Mathematics has foundational limits. But these arise independently, from different features of different domains. Consciousness-related voids behave differently. The hard problem, the [causal interface](/voids/causal-interface/), intrinsic nature, other minds, introspective opacity, binding, qualitative novelty, ownership of experience—these voids share a common boundary. They all fail at the same juncture: the point where first-person phenomenal reality meets third-person physical description.
+The [convergence analysis](/voids/convergence-as-evidence/) reveals that the most striking feature of the taxonomy is not the individual voids but their distribution. Physics has interpretive difficulties. Mathematics has foundational limits. But these arise independently, from different features of different domains. Consciousness-related voids behave differently. The hard problem, the [causal interface](/voids/causal-interface/), intrinsic nature, other minds, introspective opacity, binding, qualitative novelty, ownership of experience—these voids share a common boundary. They all fail at the same juncture: the point where first-person phenomenal reality meets third-person physical description.
 
-As the [evidential weight argument](/voids/evidential-weight-of-voids/) develops, this clustering supports an abductive inference. Multiple independent philosophical arguments converge on the conclusion that physical facts do not entail phenomenal facts. The pattern has persisted across centuries. And dualism generates a specific prediction about it: if consciousness is ontologically distinct from physical processes, systematic explanatory failure at the consciousness-matter interface is exactly what we should expect.
+As the [evidential weight argument](/voids/convergence-as-evidence/) develops, this clustering supports an abductive inference. Multiple independent philosophical arguments converge on the conclusion that physical facts do not entail phenomenal facts. The pattern has persisted across centuries. And dualism generates a specific prediction about it: if consciousness is ontologically distinct from physical processes, systematic explanatory failure at the consciousness-matter interface is exactly what we should expect.
 
 Each of the Map's five [tenets predicts its characteristic void](/voids/tenet-generated-voids/). Dualism predicts a nature void (confirmed by the [intrinsic nature void](/voids/intrinsic-nature-void/)). Minimal quantum interaction predicts a mechanism void (confirmed by the [amplification void](/voids/amplification-void/)). Bidirectional interaction predicts a detection void (confirmed by introspective opacity). Rejecting many worlds predicts indexical mysteries (confirmed by the [self-reference paradox](/voids/self-reference-paradox/)). The tenets do not merely accommodate the voids after the fact—they were formulated from independent philosophical arguments about consciousness, causation, and identity, and each generates a prediction about where explanation should fail. The systematic cataloguing confirmed these predictions rather than motivating them.
 
@@ -169,7 +169,7 @@ This synthesis draws from:
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — Distinct failure signatures as data
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its boundaries
-- [The Evidential Weight of Voids](/voids/evidential-weight-of-voids/) — The clustering pattern as evidence for dualism
+- [Convergence as Evidence](/voids/convergence-as-evidence/) — The clustering pattern as evidence for dualism
 - [Tenet-Generated Voids](/voids/tenet-generated-voids/) — Framework-generated limits as intellectual honesty
 - [Whether the Voids Are Real](/voids/whether-real/) — The meta-question and its formal undecidability
 - [The Cartography Problem](/voids/cartography-problem/) — Second-order incompleteness of the void catalog

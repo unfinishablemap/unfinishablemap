@@ -70,7 +70,7 @@ topics: []
 7. **Consolidated Inference Problem** — merged two paragraphs into one
 
 ### Cross-links Added
-- [evidential-weight-of-voids](/voids/evidential-weight-of-voids/) — new to related_articles, body text, and Further Reading
+- [evidential-weight-of-voids](/voids/convergence-as-evidence/) — new to related_articles, body text, and Further Reading
 
 ### Length Management
 Article was at 2995 words (150% of soft threshold). Operated in length-neutral mode:

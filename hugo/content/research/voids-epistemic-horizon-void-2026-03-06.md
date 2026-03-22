@@ -19,7 +19,7 @@ related_articles:
 - '[[whether-real]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[topology-of-cognitive-failure]]'
-- '[[evidential-weight-of-voids]]'
+- '[[convergence-as-evidence]]'
 target_section: voids
 title: 'Research Notes - Voids: The Epistemic Horizon Void'
 topics:

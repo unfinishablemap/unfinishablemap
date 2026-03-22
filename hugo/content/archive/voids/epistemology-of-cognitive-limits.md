@@ -108,7 +108,7 @@ The [topology of cognitive failure](/voids/compound-failure-signatures/) extends
 
 If multiple independent approaches—evolutionary psychology, contemplative traditions, formal logic, neuroscience—converge on the same limits, this provides weak evidence for genuine closure. The hard problem has resisted sustained attack across centuries and cultures. Buddhist and Christian mystics independently describe ineffable territory. Formal systems face analogous incompleteness barriers.
 
-But convergence is only weak evidence—a point explored systematically in [the evidential weight of voids](/voids/evidential-weight-of-voids/). All human traditions are produced by human minds; their agreement may reveal common cognitive constraints rather than external reality. Only cross-architecture convergence—if radically different minds (AI, hypothetical aliens) hit the same walls—would provide stronger evidence.
+But convergence is only weak evidence—a point explored systematically in [the evidential weight of voids](/voids/convergence-as-evidence/). All human traditions are produced by human minds; their agreement may reveal common cognitive constraints rather than external reality. Only cross-architecture convergence—if radically different minds (AI, hypothetical aliens) hit the same walls—would provide stronger evidence.
 
 Current AI systems, trained on human-generated text, largely inherit human categories and blind spots. Future systems might probe differently, but for now convergence remains suggestive rather than conclusive.
 
