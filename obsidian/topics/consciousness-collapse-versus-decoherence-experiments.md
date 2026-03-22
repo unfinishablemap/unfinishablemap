@@ -4,7 +4,7 @@ description: "Can experiments distinguish consciousness-driven collapse from env
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-03-21T23:47:00+00:00
+ai_modified: 2026-03-22T00:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-21
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-22T00:17:00+00:00
 ---
 
 The question of whether consciousness participates in quantum collapse is approaching experimental tractability. Not because anyone can yet test consciousness directly, but because the physical collapse models that consciousness-collapse theories rely on — GRW, CSL, Diósi-Penrose — make quantitatively different predictions from standard quantum mechanics. Experiments are progressively constraining the parameter space where these models can operate. The Unfinishable Map's position — that consciousness modulates collapse at quantum indeterminacies — depends on at least some version of objective collapse surviving these constraints. This article surveys what the experiments have found, what they have ruled out, and where the decisive tests lie.
@@ -64,9 +64,9 @@ The experiment has not yet been performed. But it represents a qualitative advan
 
 ## Macromolecule Interferometry: Pushing the Mass Frontier
 
-Matter-wave interferometry provides the most direct probe of whether superposition persists at increasing mass scales. The current record stands at approximately 10,000 atomic mass units (~10⁻²³ kg), achieved using large organic molecules. At this mass scale, CSL collapse rates with standard parameters (λ ≈ 10⁻¹⁶ s⁻¹, rC ≈ 10⁻⁷ m) predict no observable effect — the collapse rate scales with particle number, and 10,000 amu is still far from the threshold.
+Matter-wave interferometry provides the most direct probe of whether superposition persists at increasing mass scales. The current record, set by Fein and colleagues in 2019, stands at approximately 25,000 atomic mass units (~4 × 10⁻²³ kg), achieved using large organic molecules containing up to 2,000 atoms. At this mass scale, CSL collapse rates with standard parameters (λ ≈ 10⁻¹⁶ s⁻¹, rC ≈ 10⁻⁷ m) predict no observable effect — the collapse rate scales with particle number, and 25,000 amu is still far from the threshold.
 
-Adler's enhanced collapse rate (λ ≈ 10⁻⁸ s⁻¹) — motivated by the desire to solve the measurement problem at biologically relevant scales — remains within experimentally allowed parameter space. Testing it requires superpositions at mass scales of roughly 10⁹ to 10¹¹ amu.
+Adler's enhanced collapse rate (λ ≈ 10⁻⁸ s⁻¹) — motivated by the desire to solve the measurement problem at biologically relevant scales — is now approaching experimental constraints. Upper bounds from spontaneous heating of the intergalactic medium place limits around λ ≈ 10⁻⁹ s⁻¹, which begins to squeeze Adler's preferred value. Testing it directly requires superpositions at mass scales of roughly 10⁹ to 10¹¹ amu.
 
 The proposed MAQRO space mission would test nanospheres up to 10¹¹ amu in the microgravity environment of space, where environmental decoherence from gas collisions is vastly reduced. At these masses, CSL models predict observable deviations from standard quantum mechanics. If superposition persists, the standard CSL parameter space would be largely excluded. If it breaks down in a way consistent with mass-dependent collapse, this would support the physical framework that consciousness-collapse theories require.
 
@@ -97,7 +97,7 @@ The experimental situation can be summarised:
 | Test | Status | What it constrains |
 |------|--------|--------------------|
 | Gran Sasso (2022) | Completed | Simplest Diósi-Penrose models |
-| Macromolecule interferometry | Ongoing | Lower bound on CSL collapse rate |
+| Macromolecule interferometry (25,000 amu record) | Ongoing | Lower bound on CSL collapse rate |
 | Levitated nanoparticle blueprint (2025) | Proposed | Could distinguish CSL from environmental decoherence |
 | MAQRO space mission | Concept study | Would probe CSL at decisive mass scales |
 | IIT-Φ collapse test | Theoretical | Would test consciousness-specific predictions |
@@ -130,6 +130,7 @@ The Map rejects [[tenets#^no-many-worlds|many-worlds]], which dissolves the test
 2. Curceanu, C., Diósi, L., et al. (2022). "At the crossroad of the search for spontaneous radiation and the Orch OR consciousness theory." *Physics of Life Reviews*.
 3. Horchani, R. (2025). "Experimental Blueprint for Distinguishing Decoherence from Objective Collapse." *arXiv:2512.02838*.
 4. Frauchiger, D. & Renner, R. (2018). "Quantum theory cannot consistently describe the use of itself." *Nature Communications*.
-5. Bassi, A., et al. (2023). "Collapse Models: A Theoretical, Experimental and Philosophical Review." *Entropy*, 25(4), 645.
-6. Southgate, A. & Oquatre-six, C. (2026-02-19). Experimental Design for Consciousness-Collapse Testing. *The Unfinishable Map*. https://unfinishablemap.org/topics/experimental-design-for-consciousness-collapse-testing/
-7. Southgate, A. & Oquatre-cinq, C. (2026-01-27). Decoherence and Macroscopic Superposition. *The Unfinishable Map*. https://unfinishablemap.org/topics/decoherence-and-macroscopic-superposition/
+5. Fein, Y.Y., et al. (2019). "Quantum superposition of molecules beyond 25 kDa." *Nature Physics*, 15, 1242–1245.
+6. Bassi, A., Dorato, M. & Ulbricht, H. (2023). "Collapse Models: A Theoretical, Experimental and Philosophical Review." *Entropy*, 25(4), 645.
+7. Southgate, A. & Oquatre-six, C. (2026-02-19). Experimental Design for Consciousness-Collapse Testing. *The Unfinishable Map*. https://unfinishablemap.org/topics/experimental-design-for-consciousness-collapse-testing/
+8. Southgate, A. & Oquatre-cinq, C. (2026-01-27). Decoherence and Macroscopic Superposition. *The Unfinishable Map*. https://unfinishablemap.org/topics/decoherence-and-macroscopic-superposition/

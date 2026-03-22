@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 00:17 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-collapse-versus-decoherence-experiments]]
+- **Word count**: 1880 → ~1920 (+40)
+- **Critical issues addressed**: 1 (factual error: interferometry mass record corrected from ~10,000 to ~25,000 amu)
+- **Medium issues addressed**: 2 (Adler parameter constraints added, Bassi reference corrected)
+- **Enhancements made**: 1 (summary table updated with mass record)
+- **Output**: [[reviews/deep-review-2026-03-22-consciousness-collapse-versus-decoherence-experiments]]
+
 ## 2026-03-22 00:02 UTC - expand-topic
 - **Status**: Skipped (already covered)
 - **Topic**: The Gödel-measurement problem analogy
