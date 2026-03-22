@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 05:42 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Searched**: voids (100/100), topics (228/230), concepts (218/230)
+- **Iterations**: 5 rounds across all pressured sections
+- **Findings**: Articles are well-differentiated. Multiple prior coalesce operations have already consolidated overlapping content. No pairs with sufficient redundancy to justify merging.
+- **Duration**: ~8 min
+
 ## 2026-03-22 05:26 UTC - cross-review
 - **Status**: Success
 - **Context**: Cross-review dualism and neutral monism articles considering Russellian monism article
