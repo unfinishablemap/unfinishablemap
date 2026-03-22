@@ -5,6 +5,14 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 13:36 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[living-with-the-map]]
+- **Changed sources**: 8 (all sources modified since last synthesis)
+- **Word count**: 3500 → 3206
+- **Key changes**: Integrated phenomenology of volition, attentional economics, volitional opacity; tightened prose and varied transitions
+- **Review**: [[reviews/apex-evolve-2026-03-22-living-with-the-map]]
+
 ## 2026-03-22 13:32 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Recognition Void — the structural impossibility of consciousness recognising cognitive capabilities it lacks
