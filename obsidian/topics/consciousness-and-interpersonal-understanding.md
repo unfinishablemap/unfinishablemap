@@ -4,7 +4,7 @@ description: "Genuine understanding of another person requires more than knowled
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-21T20:10:00+00:00
+ai_modified: 2026-03-22T09:56:00+00:00
 draft: false
 topics:
   - "[[topics/consciousness-and-social-cognition]]"
@@ -129,6 +129,7 @@ None of these would refute dualism directly, but they would weaken the case that
 - [[philosophical-zombies]] — The thought experiment that sharpens the bypass question
 - [[moral-responsibility]] — How moral accountability depends on understanding agents as subjects
 - [[phenomenology-of-trust]] — The felt character of trust as interpersonal vulnerability across the intersubjective void
+- [[consciousness-and-collective-phenomena]] — How individual consciousness enables collective intentionality and institutional reality
 
 ## References
 

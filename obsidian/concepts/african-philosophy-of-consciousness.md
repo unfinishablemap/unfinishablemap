@@ -4,7 +4,7 @@ description: "African philosophical traditions treat consciousness as relational
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-02-24T05:23:00+00:00
+ai_modified: 2026-03-22T09:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,7 +41,7 @@ The most widely discussed African contribution to consciousness studies is the U
 
 Ubuntu challenges the assumption, deeply embedded in Western philosophy of mind, that consciousness is fundamentally first-personal and solitary. The [[hard-problem-of-consciousness|hard problem]] as Chalmers formulated it asks why *this* physical system gives rise to *this* subjective experience — framing consciousness as something that happens inside individual brains. Ubuntu suggests a reframing: consciousness is not merely housed in individuals but realised through the web of relationships that constitute personhood.
 
-Not all scholars read Ubuntu as metaphysics — Thaddeus Metz and others interpret it primarily as an ethical framework about how persons ought to relate. The stronger reading, which the Map finds philosophically productive, treats the relational claim as genuinely ontological: individual consciousness itself has a relational structure. This does not reduce to [[consciousness-and-collective-intentionality|collective intentionality]] in Searle's sense — Ubuntu is not claiming that groups have consciousness. Rather, a person's inner life is shaped and sustained by their place within a community of minds, living and ancestral.
+Not all scholars read Ubuntu as metaphysics — Thaddeus Metz and others interpret it primarily as an ethical framework about how persons ought to relate. The stronger reading, which the Map finds philosophically productive, treats the relational claim as genuinely ontological: individual consciousness itself has a relational structure. This does not reduce to [[consciousness-and-collective-phenomena|collective intentionality]] in Searle's sense — Ubuntu is not claiming that groups have consciousness. Rather, a person's inner life is shaped and sustained by their place within a community of minds, living and ancestral.
 
 ## Akan Dualism
 

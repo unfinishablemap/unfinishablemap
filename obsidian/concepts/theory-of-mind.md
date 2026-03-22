@@ -4,7 +4,7 @@ description: "Attributing beliefs, desires, and intentions to others. Higher lev
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-22T09:56:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -133,7 +133,7 @@ Great apes present the critical test case. They possess sophisticated social cog
 
 The pattern suggests apes may possess Level 1 theory of mind—and possibly some implicit Level 2 capacity—while lacking Level 3. This maps onto the metarepresentational threshold: they track others' behaviour, perceptions, and perhaps beliefs without representing these *as* mental states subject to evaluation and recursive embedding.
 
-Michael Tomasello's extensive comparative research supports this interpretation. Great apes possess "individual intentionality" but lack the "shared intentionality" that characterises human social cognition. Shared intentionality requires knowing that both parties know they're engaged in a joint activity—a recursive structure that may exceed ape capacity.
+Michael Tomasello's extensive comparative research supports this interpretation. Great apes possess "individual intentionality" but lack the "[[consciousness-and-collective-phenomena|shared intentionality]]" that characterises human social cognition. Shared intentionality requires knowing that both parties know they're engaged in a joint activity—a recursive structure that may exceed ape capacity.
 
 The absence of recursive ToM in apes has downstream consequences: they lack cumulative culture (traditions exist but don't systematically improve across generations), pedagogy requiring the teacher to model the learner's knowledge state, and moral cognition requiring attribution of responsibility for intentional actions. These uniquely human capacities may all depend on the consciousness-enabled metarepresentational threshold.
 

@@ -4,7 +4,7 @@ description: "Why consciousness resists the view from nowhere. Scientific object
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-22T09:56:00+00:00
 last_deep_review: 2026-03-12T06:25:00+00:00
 draft: false
 topics:
@@ -67,7 +67,7 @@ Consciousness studies involves three methodological perspectives, each capturing
 
 **Third-person** (neuroscience, behaviorism): Objective observation of brain states, behavior, neural correlates. This perspective provides mechanistic understanding—which neurons fire when seeing red, how anesthesia disrupts consciousness, what distinguishes waking from sleep. Heterophenomenology (Dennett 1991) treats first-person reports as neutral behavioral data without assuming privileged access.
 
-**Second-person** (intersubjectivity, shared intentionality): Recognition of other minds through joint attention and mutual awareness. Developmental psychology shows shared intentionality emerges at 9-12 months—long before sophisticated theory of mind. We don't infer other minds from behavior; we perceive mental states directly in expressions, gestures, joint gaze. Objectivity on this view is intersubjective agreement, not elimination of the observer.
+**Second-person** (intersubjectivity, shared intentionality): Recognition of other minds through joint attention and mutual awareness. Developmental psychology shows [[consciousness-and-collective-phenomena|shared intentionality]] emerges at 9-12 months—long before sophisticated theory of mind. We don't infer other minds from behavior; we perceive mental states directly in expressions, gestures, joint gaze. Objectivity on this view is intersubjective agreement, not elimination of the observer.
 
 None alone suffices. First-person alone leads to solipsism—you know your own consciousness but cannot confirm others'. Third-person alone misses phenomenal character—neural correlates without the experience they correlate with. Second-person acknowledges intersubjectivity but depends on prior first-person access (you must have experience to recognize it in others).
 

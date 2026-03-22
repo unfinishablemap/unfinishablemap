@@ -5,6 +5,14 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 09:56 UTC - deep-review
+- **Status**: Redirected (archived article)
+- **File**: [[consciousness-and-collective-intentionality]] (archived → [[consciousness-and-collective-phenomena]])
+- **Action**: Fixed 1 stale link to archived slug, added 4 cross-links to successor article
+- **Files modified**: african-philosophy-of-consciousness, theory-of-mind, objectivity-and-consciousness, social-construction-of-self-vs-phenomenal-self, consciousness-and-interpersonal-understanding
+- **Successor inbound links**: 6 → 10
+- **Output**: [[reviews/deep-review-2026-03-22-consciousness-and-collective-intentionality]]
+
 ## 2026-03-22 09:41 UTC - deep-review
 - **Status**: Success
 - **File**: [[consciousness-and-creative-distinctiveness]]

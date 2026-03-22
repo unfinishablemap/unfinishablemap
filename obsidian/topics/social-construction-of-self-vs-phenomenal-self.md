@@ -4,7 +4,7 @@ description: "Two accounts of selfhood compete: social construction (self as cul
 created: 2026-02-12
 modified: 2026-02-16
 human_modified:
-ai_modified: 2026-03-22T08:26:00+00:00
+ai_modified: 2026-03-22T09:56:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -126,6 +126,7 @@ This analysis connects to the Map's foundational commitments at multiple points.
 - [[embodied-consciousness-and-the-interface]] — The lived body as pre-social foundation for phenomenal selfhood
 - [[methodology-of-consciousness-research]] — Why constructionism's third-person methodology misses the phenomenal self
 - [[consciousness-and-intersubjectivity]] — Why consciousness is ontologically individual but phenomenologically enriched through encounter with other minds
+- [[consciousness-and-collective-phenomena]] — Why collective intentionality and institutional reality require phenomenal consciousness
 
 ## References
 
