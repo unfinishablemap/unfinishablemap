@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-18 21:06:00+00:00
+ai_modified: 2026-03-22 16:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -202,6 +202,7 @@ The gap supports humility. If we cannot understand consciousness from physical d
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The thought experiment that converts the gap into an argument against physicalism
 - [illusionism](/concepts/illusionism/) — The strongest physicalist response to the gap
 - [mysterianism](/concepts/mysterianism/) — The cognitive closure alternative: the gap as human limitation
+- [apophatic-approaches](/concepts/apophatic-approaches/) — How the gap's persistence becomes methodological data through systematic negation
 - [introspection](/concepts/introspection/) — How we know about the gap in the first place
 - [integrated-information-theory](/concepts/integrated-information-theory/) — A theory attempting to bridge the gap
 - [consciousness-and-the-ontology-of-dispositions](/topics/consciousness-and-the-ontology-of-dispositions/) — The dispositional version of the gap: no catalogue of causal roles entails qualitative character

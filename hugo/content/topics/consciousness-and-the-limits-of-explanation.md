@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-21 23:12:00+00:00
+ai_modified: 2026-03-22 16:46:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -178,6 +178,7 @@ The Map holds that this failure may ultimately be more revealing than the hard p
 - [galilean-exclusion](/concepts/galilean-exclusion/) — The founding move that created science's blind spot
 - [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — The unity of experience as a particular case of explanatory failure
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure as explanation for permanent limits
+- [apophatic-approaches](/concepts/apophatic-approaches/) — How systematic negation turns explanatory failure into methodological data
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — Integrating subjective and objective approaches
 - [consciousness-and-methodological-failure](/topics/consciousness-and-methodological-failure/) — Why standard criteria for theory choice falter with consciousness
 - [argument-from-reason](/topics/argument-from-reason/) — A parallel self-referential argument against physicalism

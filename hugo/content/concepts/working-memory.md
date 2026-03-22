@@ -73,7 +73,7 @@ This maps onto the Map's framework:
 
 ## The Capacity Gap
 
-Chimpanzee working memory holds approximately 2±1 items (Inoue & Matsuzawa 2007 on numerical sequence tasks). Miller (1956) famously estimated human working memory at 7±2 items, though Cowan (2001) revised this to approximately 4±1 items for pure capacity without chunking strategies. Even the conservative estimate represents a two-to-three-fold expansion over great ape capacity, creating substantial increases in computational possibility.
+Chimpanzee working memory holds approximately 2±1 items (Inoue & Matsuzawa 2007 on numerical sequence tasks). Miller (1956) famously estimated human working memory at 7±2 items, though Cowan (2001) revised this to approximately 4±1 items for pure capacity without chunking strategies. Even the conservative estimate represents a two-to-three-fold expansion over great ape capacity, creating substantial increases in computational possibility. The [consciousness threshold](/topics/consciousness-threshold-in-cognitive-evolution/) hypothesis treats this capacity gap as evidence for a phase transition in cognitive evolution.
 
 With 2 items, you can compare them. With 4-7 items, you can hold multiple comparisons simultaneously, track intermediate results, and manipulate nested structures. The difference is combinatorial: even four items yield six pairwise comparisons plus the ability to hold some comparisons in mind while making further comparisons.
 

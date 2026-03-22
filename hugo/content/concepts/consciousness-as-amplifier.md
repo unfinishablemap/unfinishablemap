@@ -70,7 +70,7 @@ The amplification thesis applies differently to each:
 
 ## The Baseline Cognition Hypothesis
 
-Great apes represent sophisticated [baseline-cognition](/concepts/baseline-cognition/)—what neurons can achieve without substantial conscious contribution. The baseline cognition concept provides the complementary framework to amplification: it characterises the starting point from which consciousness amplifies, showing what domain-specific excellence looks like before metarepresentational capacities are added. This isn't to deny great ape consciousness; they likely have genuine phenomenal experience. But the hypothesis proposes their consciousness may differ qualitatively from human consciousness in ways that limit cognitive amplification.
+Great apes represent sophisticated [baseline-cognition](/concepts/baseline-cognition/)—what neurons can achieve without substantial conscious contribution. The [consciousness threshold](/topics/consciousness-threshold-in-cognitive-evolution/) hypothesis frames this as a phase transition: consciousness shifts from accompanying cognition to actively reshaping it at a critical level of neural complexity. The baseline cognition concept provides the complementary framework to amplification: it characterises the starting point from which consciousness amplifies, showing what domain-specific excellence looks like before metarepresentational capacities are added. This isn't to deny great ape consciousness; they likely have genuine phenomenal experience. But the hypothesis proposes their consciousness may differ qualitatively from human consciousness in ways that limit cognitive amplification.
 
 Evidence supporting this framework:
 

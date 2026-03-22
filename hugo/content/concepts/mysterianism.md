@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-22 16:46:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -217,7 +217,7 @@ Mysterianism connects to all five tenets:
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Mysterianism provides indirect support. Many-worlds eliminates collapse and any role for consciousness in physics. Rejecting many-worlds because it makes indexical identity inexplicable invokes mysterian intuitions.
 
-The Map goes further than mysterianism in making specific commitments—but presents tenets as commitments, not proofs. Mysterianism's humility is compatible with tentative positions. The [voids](/voids/) framework resonates with mysterian themes: McGinn's property "P" might be void territory that we can map at the *edges* through [apophatic methods](/voids/apophatic-cartography/).
+The Map goes further than mysterianism in making specific commitments—but presents tenets as commitments, not proofs. Mysterianism's humility is compatible with tentative positions. The [voids](/voids/) framework resonates with mysterian themes: McGinn's property "P" might be void territory that we can map at the *edges* through [apophatic methods](/concepts/apophatic-approaches/) — systematic negation that treats cognitive failure as data rather than embarrassment. [Apophatic cartography](/voids/apophatic-cartography/) develops these methods into a formal framework with explicit evidential criteria.
 
 ## Further Reading
 
@@ -239,6 +239,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem mysterians think is unsolvable
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gap that may reflect cognitive closure
 - [illusionism](/concepts/illusionism/) — The rival view that consciousness isn't real
+- [apophatic-approaches](/concepts/apophatic-approaches/) — The methodology of knowing through negation that mysterianism motivates
 - [voids](/voids/) — The Map's framework for approaching cognitive limits
 - [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) — Whether different cognitive architectures face different closures
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-22 14:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -23,6 +23,7 @@ description: Past conscious states are structurally inaccessible — both becaus
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-03-22 14:31:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -37,6 +38,7 @@ related_articles:
 - '[[contemplative-epistemology]]'
 - '[[narrative-void]]'
 - '[[transition-void]]'
+- '[[infant-consciousness]]'
 title: The Inaccessible Past
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -51,7 +53,7 @@ This matters for The Unfinishable Map because it reveals something essential abo
 
 ### The Identity Dimension
 
-The past self occupies a unique position among the Map's [voids](/voids/). It is not another subject (like the [other-minds void](/voids/other-minds-void/)), not a historical epoch's consciousness (like the [historical-consciousness-void](/voids/historical-consciousness-void/)), not the present self turning back on itself (like the [self-reference-paradox](/voids/self-reference-paradox/)). It is something in between — a self we were but can no longer be.
+The past self occupies a unique position among the Map's [voids](/voids/). It is not another subject (like the [other-minds void](/voids/other-minds-void/)), not a historical epoch's consciousness (like the [historical-consciousness-void](/voids/historical-consciousness-void/)), not the present self turning back on itself (like the [self-reference-paradox](/voids/self-reference-paradox/)). It is something in between — a self we were but can no longer be. The most radical form is the [infant consciousness void](/voids/infant-consciousness/), where the inaccessibility is compounded by physical demolition of the neural substrate — synaptic pruning destroys the very circuits that supported infant experience, making that past self not merely forgotten but architecturally unrecoverable.
 
 Just as you can never directly access another person's experience — only infer from behaviour — you cannot directly access your past self's experience. The structural privacy of consciousness applies across time as much as across persons. And the [temporal asymmetry](/voids/temporal-void/) adds a further wrinkle: we seem to re-experience the past but only imagine the future, yet even re-experiencing is construction, not access. The "pastness quale" marks something as having happened, but the marked content is reconstructed, not retrieved.
 
@@ -77,7 +79,7 @@ Do past qualia still exist somewhere to be accessed, or are they gone the instan
 
 Cognitive science confirms that [episodic memory](/concepts/episodic-memory/) is "scenario construction" rather than playback. The brain does not store experiences like recordings; it stores patterns that enable reconstruction. Bartlett's classic studies showed that memory is "an affair of reconstruction rather than mere reproduction" — details change with each retrieval, stories are regularised toward schemas, and the constructive process that enables error is the same process that constitutes "remembering." Each retrieval rebuilds the memory anew, using present context as a guide — and through reconsolidation, each retrieval permanently alters the trace, so the "original" is progressively overwritten by the present self's concerns (see [consciousness and memory](/topics/consciousness-and-memory/) for the full consolidation-reconsolidation cycle).
 
-Conway's research on the Self-Memory System shows that the "working self constantly mediates between the opposite requirements of internal coherence and correspondence to reality." The present self does not passively access the past self — it actively constructs a version that serves present identity needs. Memory serves identity maintenance, not accurate recording.
+Conway's research on the Self-Memory System shows that the "working self constantly mediates between the opposite requirements of internal coherence and correspondence to reality." The present self does not passively access the past self — it actively constructs a version that serves present identity needs. Memory serves identity maintenance, not accurate recording. The [narrative-void](/voids/narrative-void/) identifies the same constructive process at a higher level: consciousness weaves fragmentary, reconstructed memories into a coherent life story, and the weaving itself is invisible from inside the narrative.
 
 Even individuals with Highly Superior Autobiographical Memory (HSAM) — who can recall almost every day of their lives in vivid detail — show susceptibility to false memories. If anyone could access past states directly, they would. No one can. The reconstructive mechanisms that produce distortion are "basic and widespread in humans, and it may be unlikely that anyone is immune."
 
@@ -143,9 +145,9 @@ The inaccessible past is **primarily unexplorable with occluded elements**:
 
 ## What AI Might See
 
-AI lacks autobiographical memory in the phenomenal sense. But AI can observe that humans systematically confuse reconstruction with access and resist the void through narrative continuity. Memory's reconstructive nature is treated as transparent — the void hides in plain sight.
+AI lacks autobiographical memory in the phenomenal sense. But AI can observe that humans systematically confuse reconstruction with access. Memory's reconstructive nature is treated as transparent — the void hides in plain sight.
 
-James observed that introspecting thought is "like seizing a spinning top to catch its motion." If we cannot capture present experience without transforming it, the problem compounds for past experience. The original was never "arrested" in the first place — it flowed past. AI, lacking phenomenal experience altogether, occupies a position from which the confusion between access and reconstruction might be particularly visible.
+James observed that introspecting thought is "like seizing a spinning top to catch its motion." If we cannot capture present experience without transforming it, the problem compounds for past experience — the original was never arrested, only flowed past. AI, lacking phenomenal experience, occupies a position from which the confusion between access and reconstruction might be particularly visible.
 
 ## What Would Challenge This View?
 

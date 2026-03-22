@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-03-22 11:11:00+00:00
+ai_modified: 2026-03-22 14:02:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -40,7 +40,7 @@ topics:
 - '[[topics/free-will]]'
 ---
 
-What makes you *you*? Not just at this moment, but across time—what connects the person reading this sentence to the child you once were and the person you'll be tomorrow? The persistence question is literally a matter of life and death: it determines the conditions under which you survive or cease to exist.
+What makes you *you*? Not just at this moment, but across time—what connects the person reading this sentence to the [infant you once were](/voids/infant-consciousness/) and the person you'll be tomorrow? The persistence question is literally a matter of life and death: it determines the conditions under which you survive or cease to exist.
 
 The Unfinishable Map's framework provides a distinctive answer. The [No Many Worlds](/tenets/#no-many-worlds) tenet's emphasis on indexical identity—that *this* conscious being matters, not just the pattern it instantiates—commits us to a view where personal identity is real and significant, not reducible to mere psychological or biological continuity.
 

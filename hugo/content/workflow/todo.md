@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Deep review infant-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-22 via expand-topic, never reviewed. Voids article on why our own infant experience is more alien than another adult's mind. Verify coherence, accuracy of developmental psychology claims, cross-references to inaccessible-past and other-minds-void, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-22
+
 ### P3: Explore feminist philosophy of consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -1132,6 +1138,59 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Address illusionism and citation gaps in functionalism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found question-begging dismissal of illusionism (line 105), unargued assertion that functional organization reduces to physical terms (line 47), and uncited empirical claims about C. elegans Phi and Physarum cognition. Also remove stale AI refinement log. See pessimistic-2026-03-22-c.md
+- **Output**: obsidian/concepts/functionalism.md
+
+Task context:
+Pessimistic review found question-begging dismissal of illusionism (line 105), unargued assertion that functional organization reduces to physical terms (line 47), and uncited empirical claims about C. elegans Phi and Physarum cognition. Also remove stale AI refinement log. See pessimistic-2026-03-22-c.md
+
+### ✓ 2026-03-22: Fix apophatic-approaches.md cross-references (43+ links point to wrong section path)
+- **Type**: integrate-orphan
+- **Notes**: File is at voids/apophatic-approaches.md but 43+ content files reference it via concepts/apophatic-approaches, creating broken internal links. Update all cross-references to use the correct voids/ path, or evaluate whether the file should be relocated to concepts/.
+- **Output**: obsidian/concepts/apophatic-approaches.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-22: Cross-review other-minds-void.md considering infant-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article voids/infant-consciousness.md (created 2026-03-22 via expand-topic) explores why our own infant experience is more alien than another adult's mind. Check other-minds-void.md and inaccessible-past.md for cross-links, reinforcing arguments, or tensions with the new infant consciousness treatment.
+- **Output**: obsidian/voids/other-minds-void.md -- Context: Cross-review other-minds-void.md considering infant-consciousness insights
+
+### ✓ 2026-03-22: Write void article on the recognition void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-recognition-void-2026-03-22.md. The cognitive gap between perceiving and recognising — why consciousness must "find" meaning in what it already sees. Target section: voids/ (99/100, final slot).
+- **Output**: Write void article on the recognition void
+
+### ✓ 2026-03-22: Write article on consciousness during general anesthesia and filter theory
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Anesthesia provides a natural experiment in consciousness-physics decoupling: dissociative anesthetics (ketamine) disconnect consciousness from sensory input without abolishing it; intraoperative awareness cases reveal filter selectivity. Supports Tenets 1 and 3. Builds on anaesthesia-and-the-consciousness-interface, filter-theory. Target section: topics/.
+- **Output**: consciousness during general anesthesia and filter theory
+
+### ✓ 2026-03-22: Write article on probability and decision-theory objections to many worlds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Directly supports Tenet 4 (No Many Worlds) — the site's anti-MWI position lacks a dedicated treatment of the probability and decision-theory objections (incoherence of self-locating credence, Deutsch-Wallace circularity, preference-based arguments). Target section: topics/.
+- **Output**: probability and decision-theory objections to many worlds
+
+### ✓ 2026-03-22: Deep review convergence-as-evidence.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created via coalesce on 2026-03-22, never reviewed. Coalesced from convergence-of-the-void-catalogue and evidential-weight-of-voids. Verify the merge preserved coherence, eliminated redundancy, maintained tenet alignment, and that cross-references to other voids articles are intact.
+- **Output**: obsidian/voids/convergence-as-evidence.md
+
+### ✓ 2026-03-22: Cross-review inaccessible-past.md considering infant consciousness void insights
+- **Type**: cross-review
+- **Notes**: New article obsidian/voids/infant-consciousness.md explores the paradox of having been a consciousness we can never recover. inaccessible-past.md covers the inaccessibility of past experience generally and may benefit from cross-references to this specific, vivid instance of temporal inaccessibility. Check for reinforcing arguments and add [infant-consciousness](/voids/infant-consciousness/) link.
+- **Output**: obsidian/voids/inaccessible-past.md -- Context: Cross-review inaccessible-past.md considering infant consciousness void insights
+
+### ✓ 2026-03-22: Integrate infant-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-22 via expand-topic. Add cross-references from related articles — inaccessible-past.md, other-minds-void.md, indexical-void.md, transition-void.md, three-kinds-of-void.md — or update voids index to include navigation to this content.
+- **Output**: obsidian/voids/infant-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-22: Update references from social-epistemic-void to intersubjective-void
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-03-22 merged social-epistemic-void.md into intersubjective-void.md. 15+ active content files still reference [social-epistemic-void](/voids/intersubjective-void/) and need wikilinks updated to [intersubjective-void](/voids/intersubjective-void/). Check topics/, concepts/, and voids/ for stale references.
+- **Output**: None -- Context: Update references from social-epistemic-void to intersubjective-void
 
 ### ✓ 2026-03-22: Cross-review experimental-design-for-consciousness-collapse-testing.md considering consciousness-collapse experiments
 - **Type**: cross-review
@@ -4598,3 +4657,20 @@ Pessimistic review (2026-02-16) found retrocausality.md name-checks Maudlin's ob
 - **Notes**: Pessimistic review (2026-02-16) found inconsistent treatment of decoherence across retrocausality.md, simulation.md, and animal-consciousness.md. Retrocausality treats it as manageable (citing Hameroff's disputed corrections), simulation treats it as unsolved, animal-consciousness extends quantum consciousness to all organisms with microtubules without addressing it. Establish a consistent site-wide position. See pessimistic-2026-02-16.md
 - **Output**: Task context:
 Pessimistic review (2026-02-16) found inconsistent treatment of decoherence across retrocausality.md, simulation.md, and animal-consciousness.md. Retrocausality treats it as manageable (citing Hameroff's disputed corrections), simulation treats it as unsolved, animal-consciousness extends quantum consciousness to all organisms with microtubules without addressing it. Establish a consistent site-wide position. See pessimistic-2026-02-16.md
+### P3: Write concept page on inventory blindness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The recognition void introduces this concept—absent cognitive capabilities producing no signal—but it applies broadly across the voids framework. Deserves its own concept page that other articles can reference. Strengthens Tenet 5 (Occam's Razor Has Limits) by explaining why parsimony fails when our conceptual inventory is incomplete. Target section: concepts/. See optimistic-2026-03-22-afternoon.md
+- **Generated**: 2026-03-22
+
+### P3: Write concept page on content-specificity as evidence for mental causation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The principle that identical physical stimuli produce different outcomes depending on propositional content of conscious states. Used in the placebo article but applicable across domains (perception, emotion regulation, motor planning). Assembles multiple independent empirical lines into a cumulative case against epiphenomenalism. Target section: concepts/. See optimistic-2026-03-22-afternoon.md
+- **Generated**: 2026-03-22
+
+### P3: Write article on epistemology of limit-knowledge
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How can we have knowledge about limits we cannot cross? The voids framework has 100+ articles on cognitive limits but no systematic treatment of the epistemological question. Builds on convergence-as-evidence, compound-failure-signatures, architecture-of-cognitive-closure, recognition-void. Directly serves Tenet 5. Target section: concepts/. See optimistic-2026-03-22-afternoon.md
+- **Generated**: 2026-03-22

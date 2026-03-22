@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-31
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-22 16:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts:
@@ -92,6 +92,7 @@ The three-part taxonomy organises investigation but does not confine it. The [sy
 - [synesthetic-void](/voids/synesthetic-void/) — An intra-species void spanning all three categories
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — The phenomenology of cognitive slippage
 - [defended-territory](/voids/defended-territory/) — Specific tests for whether territory is defended
+- [apophatic-approaches](/concepts/apophatic-approaches/) — The methodology of knowing through negation that void investigation employs
 - [apophatic-cartography](/voids/apophatic-cartography/) — Formalising criteria for distinguishing genuine closure
 - [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/) — Blind spots as evolutionary features, not defects
 - [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for species-level limits

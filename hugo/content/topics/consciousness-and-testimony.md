@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-05 06:39:57+00:00
+ai_modified: 2026-03-22 14:16:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ description: Testimony requires consciousness to function yet cannot fully conve
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-24 18:59:00+00:00
+last_deep_review: 2026-03-22 14:16:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -43,7 +43,6 @@ related_articles:
 - '[[knowledge-argument]]'
 - '[[phenomenology-of-deliberation-under-uncertainty]]'
 - '[[consciousness-and-language-interface]]'
-- '[[social-epistemic-void]]'
 title: Consciousness and Testimony
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -101,7 +100,7 @@ Daniel Dennett's "heterophenomenology" attempted to dissolve this asymmetry by t
 
 Not all testimony carries equal phenomenal weight. The felt experience of receiving testimony from an authority differs markedly from receiving it from a peer or a stranger. When an expert speaks within their domain, you experience their words with a particular phenomenal gravitation toward belief that exceeds what the bare propositional content would warrant from an unknown source. There is the experience of felt relief when an authority confirms what you suspected — a settling quality, as though your beliefs have found solid ground. There is the distinctive discomfort of expert disagreement with your settled views — a felt pressure to revise that carries more phenomenal force than disagreement from a non-expert, even when the propositional content is identical.
 
-The danger of testimonial authority lies precisely in its phenomenal power. Because expert testimony carries felt weight that exceeds its propositional content, it can produce belief changes that outrun rational warrant. The geological establishment rejected Alfred Wegener's continental drift hypothesis for decades, partly because the felt authority of established figures outweighed the accumulating evidence. The [phenomenology of belief revision](/topics/phenomenology-of-epistemic-cognition/) reveals how difficult it is to resist this felt authority even when reasons for doubt are strong.
+The danger of testimonial authority lies precisely in its phenomenal power. Because expert testimony carries felt weight that exceeds its propositional content, it can produce belief changes that outrun rational warrant. The geological establishment rejected Alfred Wegener's continental drift hypothesis for decades — partly for legitimate reasons (he lacked a viable mechanism), but partly because the felt authority of established figures discouraged serious engagement with the accumulating observational evidence. The [phenomenology of belief revision](/topics/phenomenology-of-epistemic-cognition/) reveals how difficult it is to resist this felt authority even when reasons for doubt are strong.
 
 ## Testimony Across the Intersubjective Void
 

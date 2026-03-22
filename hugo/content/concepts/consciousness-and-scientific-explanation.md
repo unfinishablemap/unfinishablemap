@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-22 13:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Dualism does not stop science—it redirects it. Neural correlates,
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-24 09:59:00+00:00
+last_deep_review: 2026-03-22 13:57:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -101,7 +101,7 @@ Dualism clarifies rather than obscures the explanatory structure of consciousnes
 
 **Psychophysical laws explain** the systematic relationship between physical structures and phenomenal experience — why *this* neural pattern correlates with *this* experience rather than some other. These explanations are non-reductive. They connect domains rather than collapsing one into the other.
 
-**The hard problem** — why there is [experience at all](/concepts/emergence/) — may be where [explanation reaches its limit](/concepts/mysterianism/). The question of why physical structures correlate with phenomenal experience may be as fundamental and unanswerable as the question of why the universe has the physical constants it has. A brute regularity at the base level is not a failure of science. It is where the foundations are.
+**The [hard problem](/topics/hard-problem-of-consciousness/)** — why there is [experience at all](/concepts/emergence/) — may be where [explanation reaches its limit](/concepts/mysterianism/). The question of why physical structures correlate with phenomenal experience may be as fundamental and unanswerable as the question of why the universe has the physical constants it has. A brute regularity at the base level is not a failure of science. It is where the foundations are.
 
 This division does not mean giving up. It means recognising that different questions require different kinds of answers. The question "how does the visual cortex process colour?" has a mechanistic answer. The question "why does processed colour have a phenomenal character?" may require a different kind of answer — or may mark a genuine stopping point, as fundamental constants do in physics.
 

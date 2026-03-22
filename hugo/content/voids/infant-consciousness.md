@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-03-22 12:11:00+00:00
+ai_modified: 2026-03-22 14:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: Human+AI exploration of why our own infant experience is more alien
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-22 14:02:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -85,11 +85,13 @@ No direct method of accessing infant consciousness exists. Language cannot be un
 
 ## Relation to Site Perspective
 
-The infant consciousness void connects to every one of the Map's [tenets](/tenets/), making it an unusually tenet-dense void.
+The infant consciousness void connects to all five of the Map's [tenets](/tenets/), making it an unusually tenet-dense void.
 
 **[Dualism](/tenets/#dualism)** faces a sharp question here. If consciousness is non-physical and irreducible, what undergoes the radical transformation from infant to adult awareness? Physical reductionists have a ready answer: the brain changes, so consciousness changes. Dualists must explain how a non-physical consciousness is restructured by physical developmental processes — synaptic pruning, myelination, language acquisition — while remaining (in some sense) the "same" consciousness. The Map does not resolve this but notes it as a genuine puzzle that any serious dualism must address.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** implies that infant consciousness — qualitatively different from adult consciousness — interacts with the physical world in different ways. The developmental transformation of consciousness would then change the nature of mind-body interaction itself. The void is double: we cannot access infant consciousness, and we cannot observe how infant mind-body interaction differs from its adult form.
+
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** raises a developmental question. If consciousness interfaces with the brain through quantum selection sites, the infant brain's hyper-connectivity and maximal synaptic density would present a vastly different selection landscape than the pruned adult brain. The [developmental trajectory of the interface](/topics/consciousness-interface-development/) moves from broad access with minimal control to narrow access with refined control. The infant consciousness void thus conceals not just a different phenomenology but a different *mode of interaction* between consciousness and matter — one that operated through a neural substrate we no longer possess.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is directly illustrated. The parsimonious model — consciousness is one thing that grows more complex over time — appears to be wrong. If Gopnik's lantern-spotlight distinction holds, consciousness exists in categorically different modes, and the developmental trajectory involves loss as well as gain. Parsimony misleads here because it assumes a single scale of more-or-less, when the reality may involve incommensurable kinds.
 

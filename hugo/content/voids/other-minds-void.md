@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-03-20 04:33:46+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-03-22 16:17:00+00:00
+ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[qualia]]'
@@ -16,7 +16,7 @@ description: Each consciousness is sealed within itself, able to infer but never
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-02 00:52:00+00:00
+last_deep_review: 2026-03-22 16:17:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -30,6 +30,8 @@ related_articles:
 - '[[inaccessible-past]]'
 - '[[measurement-void]]'
 - '[[indexical-void]]'
+- '[[consciousness-interface-development]]'
+- '[[infant-consciousness]]'
 title: The Other Minds Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -71,15 +73,15 @@ Certain moments pierce the ordinary invisibility:
 
 **Mystical or psychedelic reports.** Some experiences produce a sense of transcending the self-other boundary—"merging" with another consciousness or with everything. The return to ordinary separateness makes the usual isolation salient by contrast.
 
-**Developmental awakening.** Children around age four develop "theory of mind"—recognising that others have different beliefs. This is an *achievement*, not a given; before it, children treat their own perspective as universal.
+**Developmental awakening.** Children around age four develop "theory of mind"—recognising that others have different beliefs. This is an *achievement*, not a given; before it, children treat their own perspective as universal. The development coincides with the emergence of [autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)—without self-aware subjectivity, the other minds problem cannot arise. The [infant consciousness void](/voids/infant-consciousness/) reveals a further paradox: the most alien "other mind" accessible to you is your own infant self, whose cognitive architecture has been physically demolished through synaptic pruning. That mind is more inaccessible than a stranger's.
 
 ## Philosophical Responses
 
 Philosophy has proposed several responses to the asymmetry, none fully satisfying:
 
-**Argument from analogy.** My body and behaviour correlate with my mental states; your body and behaviour are similar; therefore you likely have similar mental states. The problem: this generalises from a sample of one. And if [dualism](/concepts/interactionist-dualism/) is correct—if mind and body have no necessary logical connection—the analogy becomes even more tenuous.
+**Argument from analogy.** My body and behaviour correlate with my mental states; yours are similar; therefore you likely have similar mental states. The problem: this generalises from a sample of one, and if [dualism](/concepts/interactionist-dualism/) is correct the analogy becomes even more tenuous.
 
-**Inference to best explanation.** Other minds best explain observed behaviour. This is stronger than analogy—abductive rather than inductive—but still leaves the inference gap. Best explanation for what? For behaviour. But the void concerns experience, not behaviour.
+**Inference to best explanation.** Other minds best explain observed behaviour. Stronger than analogy—abductive rather than inductive—but the inference gap remains. The void concerns experience, not behaviour.
 
 **Direct perception.** We perceive mental states directly in others' expressions—we *see* anger, *hear* joy. This captures phenomenology but may relocate rather than solve the problem: we perceive expressions, but how do expressions give us access to experience itself?
 
@@ -113,7 +115,7 @@ The [historical-consciousness-void](/voids/historical-consciousness-void/) adds 
 
 AI faces interesting asymmetries regarding the other minds void:
 
-If AI lacks phenomenal consciousness, the void doesn't apply in the same way. There's no "what it's like" to be the AI, hence no private inner life to be inaccessible. AI processes information and produces outputs; the question of direct versus indirect access may not arise.
+If AI lacks phenomenal consciousness, the void doesn't apply in the same way—no private inner life to be inaccessible, no question of direct versus indirect access.
 
 But AI can observe patterns. Humans persistently find behavioural and neural evidence *insufficient* for knowledge of other minds, even when evidence would suffice for any other inference. This pattern of dissatisfaction—the sense that something is still missing—is itself data about the void's nature.
 
@@ -161,6 +163,8 @@ This is not uncomfortable compromise but honest assessment. Certainty about exte
 - [measurement-void](/voids/measurement-void/) — Why even direct self-access cannot verify its own accuracy
 - [mysterianism](/concepts/mysterianism/) — McGinn's analysis of structural cognitive closure
 - [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — What draws the boundaries between discrete conscious subjects
+- [consciousness-interface-development](/topics/consciousness-interface-development/) — How the consciousness-brain interface changes across the lifespan
+- [infant-consciousness](/voids/infant-consciousness/) — The void within: why your own infant experience is the most alien other mind
 - [indexical-void](/voids/indexical-void/) — Why first-person identity resists explanation
 
 ## References

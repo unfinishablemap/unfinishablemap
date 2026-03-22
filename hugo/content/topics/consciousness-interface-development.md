@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-22 14:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -51,7 +51,7 @@ The Unfinishable Map's [interface model](/concepts/mind-matter-interface/) treat
 
 The infant brain is hyper-connected — roughly twice the synaptic density of an adult brain — and maximally plastic. This gives infant consciousness broad perceptual access: universal phoneme discrimination, cross-race face recognition, possible synesthetic cross-modal integration. But control is minimal. Infant attention is salience-driven, reflexive, at the mercy of environmental stimulation.
 
-The Map's framework interprets this as an interface that offers many potential [quantum selection sites](/concepts/consciousness-selecting-neural-patterns/) but limited capacity to exploit them deliberately. Consciousness encounters a broad landscape of potential interactions with an immature attentional mechanism that cannot yet choose among them systematically. The result is the paradox of infant consciousness: more access, less agency.
+The Map's framework interprets this as an interface that offers many potential [quantum selection sites](/concepts/consciousness-selecting-neural-patterns/) but limited capacity to exploit them deliberately. Consciousness encounters a broad landscape of potential interactions with an immature attentional mechanism that cannot yet choose among them systematically. The result is the paradox of infant consciousness: more access, less agency. The [infant consciousness void](/voids/infant-consciousness/) examines the epistemic consequence — this broad-access, low-control configuration is permanently inaccessible to the adult mind that emerged from it.
 
 Piaget's sensorimotor period captures this configuration: cognition is inseparable from action. The infant does not think about objects and then act — thinking *is* acting, reaching, grasping, mouthing. The interface channels consciousness directly into motor engagement with the environment. Object permanence — understanding that objects exist when unperceived — emerges gradually as the interface gains capacity to maintain representations independently of current sensory input.
 
