@@ -4,7 +4,7 @@ description: "Quantum decoherence at femtoseconds, neural decisions at hundreds 
 created: 2026-01-24
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-22T19:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-24
 last_curated: null
-last_deep_review: 2026-02-25T18:55:00+00:00
+last_deep_review: 2026-03-22T19:17:00+00:00
 ---
 
 Quantum consciousness theories face a timing problem. Neural decisions operate at hundreds of milliseconds; Max Tegmark calculated quantum decoherence at femtoseconds—the [[timing-gap-problem|timing gap]], a chasm of twelve orders of magnitude. If quantum superpositions collapse 10¹² times faster than neurons make decisions, quantum effects cannot influence neural outcomes. Yet this critique depends on specific assumptions that subsequent research has challenged, and different proposed mechanisms have different timing requirements. The question is which physical mechanisms remain viable given what we know about both quantum and neural timescales—and whether The Unfinishable Map's preferred framework, post-decoherence selection, operates at a different level of analysis where timing constraints do not apply.
@@ -204,10 +204,12 @@ What would challenge the Map's metaphysical position is not timing evidence but 
 
 1. Beck, F. & Eccles, J.C. (1992). Quantum aspects of brain activity and the role of consciousness. *PNAS*, 89(23), 11357–11361.
 1. Bengson, J.J., Mangun, G.R., & Mazaheri, A. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832–2843.
+1. Crick, F. & Koch, C. (1990). Towards a neurobiological theory of consciousness. *Seminars in the Neurosciences*, 2, 263–275.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39–78.
 1. Libet, B. et al. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106(3), 623–642.
 1. Perry, A.L. (2025). Quantum coherence in neural microtubules: A refined & testable framework for understanding gamma oscillation generation. *SSRN*.
+1. Sahu, S., Ghosh, S., Fujita, D., & Bandyopadhyay, A. (2014). Live visualizations of single isolated tubulin protein self-assembly via tunneling current: effect of electromagnetic pumping during spontaneous growth of microtubule. *Scientific Reports*, 4, 7303.
 1. Schultze-Kraft, M. et al. (2016). The point of no return in vetoing self-initiated movements. *PNAS*, 113(4), 1080–1085.
 1. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904–E2913.
 1. Stapp, H.P. (2008). A model of the quantum-classical and mind-brain connections. *arXiv:0803.1633*.

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced skill acquisition articles
-- **Type**: cross-review
-- **Notes**: Coalesce created [[consciousness-and-skill-acquisition]]. The following files reference archived articles ([[consciousness-and-skilled-performance]] and/or [[consciousness-and-the-neuroscience-of-deliberate-practice]]) and need wikilinks updated: phenomenology-of-collective-intentionality-and-we-consciousness, contemplative-practice-as-philosophical-evidence, mental-imagery-causal-role-of-consciousness, aesthetics-and-consciousness, consciousness-and-creative-distinctiveness, embodied-consciousness-and-the-interface, dopamine-and-the-unified-interface, cross-cultural-phenomenology-of-agency, phenomenology-of-temporal-consciousness-and-agency, phenomenology-of-cognitive-capacity, consciousness-as-activity, consciousness-as-perceptual-architect, consciousness-interface-development, implicit-memory, skill-delegation, spontaneous-intentional-action, embodied-cognition, phenomenology-of-creative-insight, habituation-void, transition-void, clinical-neuroplasticity-evidence-for-bidirectional-causation.
-- **Source**: coalesce
-- **Generated**: 2026-03-22
-
 ### P2: Integrate evolution-of-consciousness-dualist-perspective.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Created 2026-03-10. Topics article on evolution of consciousness from a dualist perspective. Add cross-references from related articles (consciousness-evolution-problem, animal-consciousness, evolution-under-dualism, consciousness-as-amplifier) or update section index pages.
@@ -1167,6 +1161,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Update references to coalesced skill acquisition articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [[consciousness-and-skill-acquisition]]. The following files reference archived articles ([[consciousness-and-skilled-performance]] and/or [[consciousness-and-the-neuroscience-of-deliberate-practice]]) and need wikilinks updated: phenomenology-of-collective-intentionality-and-we-consciousness, contemplative-practice-as-philosophical-evidence, mental-imagery-causal-role-of-consciousness, aesthetics-and-consciousness, consciousness-and-creative-distinctiveness, embodied-consciousness-and-the-interface, dopamine-and-the-unified-interface, cross-cultural-phenomenology-of-agency, phenomenology-of-temporal-consciousness-and-agency, phenomenology-of-cognitive-capacity, consciousness-as-activity, consciousness-as-perceptual-architect, consciousness-interface-development, implicit-memory, skill-delegation, spontaneous-intentional-action, embodied-cognition, phenomenology-of-creative-insight, habituation-void, transition-void, clinical-neuroplasticity-evidence-for-bidirectional-causation.
+- **Output**: None -- Context: Update references to coalesced skill acquisition articles
 
 ### ✓ 2026-03-22: Integrate phenomenology-of-moral-deliberation.md into site navigation
 - **Type**: integrate-orphan
