@@ -28,6 +28,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-24
 last_curated:
+archived: true
+archived_date: 2026-03-22T12:56:00+00:00
+superseded_by: "/voids/convergence-as-evidence/"
+archive_reason: "Coalesced into Convergence as Evidence"
+original_path: "/voids/evidential-weight-of-voids/"
 ---
 
 The Unfinishable Map catalogues dozens of cognitive voids—places where understanding breaks down. Taken individually, each void might be dismissed as a puzzle awaiting a solution. Taken collectively, the pattern becomes harder to ignore. The voids cluster around a specific interface: the point where consciousness meets the physical world. This clustering constitutes a distinct, defeasible argument for the Map's dualist framework. If consciousness were nothing more than physical processes, the explanatory gaps should be scattered—hard but tractable problems distributed across domains. Instead, they converge on the one phenomenon that dualism predicts would resist physical explanation.

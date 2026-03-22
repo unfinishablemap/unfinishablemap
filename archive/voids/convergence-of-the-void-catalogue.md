@@ -28,6 +28,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-11
 last_curated:
 last_deep_review: 2026-03-11T23:59:00+00:00
+archived: true
+archived_date: 2026-03-22T12:56:00+00:00
+superseded_by: "/voids/convergence-as-evidence/"
+archive_reason: "Coalesced into Convergence as Evidence"
+original_path: "/voids/convergence-of-the-void-catalogue/"
 ---
 
 The [[voids|void catalogue]] now contains over a hundred entries, each independently motivated—arising from a specific philosophical puzzle, a particular failure of explanation, a distinct place where thought breaks down. Yet when the catalogue is viewed as a whole, a pattern emerges that no individual entry reveals. The voids are not scattered randomly across the landscape of human inquiry. They cluster, they share boundaries, and they converge on a small number of deep structures. This convergence is itself a finding, arguably more significant than any individual void.

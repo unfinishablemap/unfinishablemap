@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 12:56 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[convergence-of-the-void-catalogue]], [[evidential-weight-of-voids]]
+- **Target**: [[convergence-as-evidence]]
+- **Archived**: archive/voids/convergence-of-the-void-catalogue.md, archive/voids/evidential-weight-of-voids.md
+- **References to review**: 0 (all active content references updated)
+
 ## 2026-03-22 12:41 UTC - deep-review
 - **Status**: Success (no changes — convergence confirmed)
 - **File**: [[placebo-effect-and-mental-causation]]

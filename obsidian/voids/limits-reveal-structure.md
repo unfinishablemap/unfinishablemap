@@ -30,7 +30,7 @@ related_articles:
   - "[[decoherence]]"
   - "[[collective-cognitive-limits]]"
   - "[[void-as-ground-of-meaning]]"
-  - "[[convergence-of-the-void-catalogue]]"
+  - "[[convergence-as-evidence]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -154,7 +154,7 @@ The limits-reveal-structure thesis would be undermined if:
 - [[habituation-void|The Habituation Void]] — How familiarity-limits reveal novelty-orientation in consciousness
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching cognitive limits feels like
 - [[whether-real|Whether the Voids Are Real]] — Can we determine if limits are permanent?
-- [[convergence-of-the-void-catalogue|Convergence of the Void Catalogue]] — How the full catalogue's limits converge into five families
+- [[convergence-as-evidence|Convergence as Evidence]] — How the full catalogue's limits converge into five families and constitute evidence for dualism
 - [[illusionism|Illusionism]] — The radical challenge that limits are misrepresentations (see Illusionist Challenge section)
 - [[introspection|Introspection]] — The reliability of first-person access to cognitive architecture
 - [[decoherence|Decoherence]] — Quantum coherence and the physical possibility of mind-matter interface

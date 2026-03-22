@@ -17,7 +17,7 @@ related_articles:
   - "[[whether-real]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[topology-of-cognitive-failure]]"
-  - "[[evidential-weight-of-voids]]"
+  - "[[convergence-as-evidence]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6

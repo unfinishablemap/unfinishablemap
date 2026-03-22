@@ -61,11 +61,10 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[origin-of-consciousness|The Origin Void]] — Why consciousness exists at all—the most logically prior void
 - [[compound-failure-signatures|Compound Failure Signatures]] — Using the structure of failure as data
 - [[whether-real|Whether the Voids Are Real]] — Can we determine if limits are permanent?
-- [[convergence-of-the-void-catalogue|Convergence of the Void Catalogue]] — How independently catalogued voids converge into five families
+- [[convergence-as-evidence|Convergence as Evidence]] — How independently catalogued voids converge into five families and constitute an argument for dualism
 - [[cartography-problem|The Cartography Problem]] — Whether a map of cognitive voids can map its own incompleteness
 - [[dissolution-problem|The Dissolution Problem]] — Why we cannot predict which cognitive limits will prove permanent
 - [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — How we can know our cognitive limits from within a limited mind
-- [[evidential-weight-of-voids|The Evidential Weight of Voids]] — Whether the pattern of cognitive voids constitutes an argument for dualism
 - [[void-as-ground-of-meaning|The Void as Ground of Meaning]] — Why cognitive limits are preconditions for meaning, not merely obstacles
 
 ### Specific Voids

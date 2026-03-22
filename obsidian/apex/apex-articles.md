@@ -322,7 +322,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - voids/limits-reveal-structure
 - voids/compound-failure-signatures
 - voids/phenomenology-of-the-edge
-- voids/evidential-weight-of-voids
+- voids/convergence-as-evidence
 - voids/tenet-generated-voids
 - voids/whether-real
 - voids/cartography-problem

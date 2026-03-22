@@ -22,7 +22,7 @@ related_articles:
   - "[[self-reference-paradox]]"
   - "[[apophatic-approaches]]"
   - "[[evolved-cognitive-limits]]"
-  - "[[convergence-of-the-void-catalogue]]"
+  - "[[convergence-as-evidence]]"
   - "[[phenomenology-of-cognitive-limit-types]]"
   - "[[tenet-generated-voids]]"
   - "[[incompleteness-void]]"
@@ -182,7 +182,7 @@ Current evidence supports structured, persistent failure patterns. The hard prob
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for knowing through negation
 - [[apophatic-cartography|Apophatic Cartography as Epistemic Method]] — Formalising the method with evidential standards
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Phenomenology of cognitive slippage
-- [[convergence-of-the-void-catalogue|Convergence of the Void Catalogue]] — How voids organise into five families
+- [[convergence-as-evidence|Convergence as Evidence]] — How voids organise into five families and constitute evidence for dualism
 - [[self-reference-paradox|The Self-Reference Paradox]] — Where consciousness cannot map because it is the mapper
 - [[mysterianism|Mysterianism]] — McGinn's analysis of cognitive closure
 - [[whether-real|Whether the Voids Are Real]] — Can we determine if limits are permanent?
