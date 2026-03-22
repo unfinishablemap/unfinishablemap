@@ -5,6 +5,11 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 03:11 UTC - deep-review
+- **Status**: Skipped (archived)
+- **File**: epiphenomenalisms-gravity-well (archived 2026-03-20)
+- **Reason**: Article was coalesced into [[topics/the-epiphenomenalist-threat]] on 2026-03-20. Archived content does not require deep-review.
+
 ## 2026-03-22 02:56 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[concepts/global-workspace-theory]] — adversarial analysis from 6 philosophical perspectives

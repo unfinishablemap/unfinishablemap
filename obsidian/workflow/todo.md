@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate epiphenomenalisms-gravity-well.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Created 2026-03-20 via expand-topic. Article on why epiphenomenalism exerts such strong intellectual pull despite its problems. Add cross-references from epiphenomenalism.md, arguments-against-epiphenomenalism.md, the-epiphenomenalist-threat.md, and related articles on mental causation.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-22
-
 ### P2: Integrate parsimony-failure-consciousness.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -106,8 +99,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Deep review epiphenomenalisms-gravity-well.md
 - **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-20 via expand-topic, never reviewed. Topics article on why epiphenomenalism exerts such strong intellectual pull despite its problems. Verify coherence, accuracy of philosophical attributions, cross-references to epiphenomenalism.md and arguments-against-epiphenomenalism.md, and tenet alignment.
+- **Status**: done
+- **Notes**: File was archived (coalesced into the-epiphenomenalist-threat.md on 2026-03-20). No review needed.
 - **Source**: staleness
 - **Generated**: 2026-03-21
 
@@ -1122,6 +1115,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Integrate epiphenomenalisms-gravity-well.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-20 via expand-topic. Article on why epiphenomenalism exerts such strong intellectual pull despite its problems. Add cross-references from epiphenomenalism.md, arguments-against-epiphenomenalism.md, the-epiphenomenalist-threat.md, and related articles on mental causation.
+- **Output**: epiphenomenalisms-gravity-well.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-22: Review consciousness-and-the-ontology-of-dispositions.md considering Russellian monism article
 - **Type**: cross-review
