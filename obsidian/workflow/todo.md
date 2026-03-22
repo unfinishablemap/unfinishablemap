@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references from social-epistemic-void to intersubjective-void
-- **Type**: cross-review
-- **Notes**: Coalesce on 2026-03-22 merged social-epistemic-void.md into intersubjective-void.md. 15+ active content files still reference [[social-epistemic-void]] and need wikilinks updated to [[intersubjective-void]]. Check topics/, concepts/, and voids/ for stale references.
-- **Source**: chain (from coalesce 2026-03-22)
-- **Generated**: 2026-03-22
-
 ### P2: Integrate infant-consciousness.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Created 2026-03-22 via expand-topic. Add cross-references from related articles — inaccessible-past.md, other-minds-void.md, indexical-void.md, transition-void.md, three-kinds-of-void.md — or update voids index to include navigation to this content.
@@ -1161,6 +1155,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Update references from social-epistemic-void to intersubjective-void
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-03-22 merged social-epistemic-void.md into intersubjective-void.md. 15+ active content files still reference [[social-epistemic-void]] and need wikilinks updated to [[intersubjective-void]]. Check topics/, concepts/, and voids/ for stale references.
+- **Output**: None -- Context: Update references from social-epistemic-void to intersubjective-void
 
 ### ✓ 2026-03-22: Cross-review experimental-design-for-consciousness-collapse-testing.md considering consciousness-collapse experiments
 - **Type**: cross-review
