@@ -4,7 +4,7 @@ description: "Anaesthetic pharmacology maps the consciousness-brain interface wi
 created: 2026-02-23
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-03-22T21:19:00+00:00
+ai_modified: 2026-03-22T23:34:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,6 +31,7 @@ related_articles:
   - "[[temporal-structure-of-consciousness]]"
   - "[[self-stultification-as-master-argument]]"
   - "[[epistemology-of-other-minds-under-dualism]]"
+  - "[[experimental-design-for-consciousness-collapse-testing]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -98,6 +99,8 @@ The three-state taxonomy that has emerged from anaesthesia research — connecte
 This graded spectrum generates specific filter theory predictions — and the decisive ones concern cases where consciousness *persists or intensifies* during neural disruption, since these are the cases that sophisticated physicalist models struggle to accommodate.
 
 The strongest discriminating evidence comes from the boundary between anaesthesia and death. Terminal lucidity produces coherent awareness in severely deteriorated brains — patients with advanced neurodegeneration who have been unresponsive for years sometimes recover clarity in their final hours. Cardiac arrest patients show surges of gamma oscillations and high neural coherence during the dying process (Xu et al., 2023), with approximately 40% showing brain activity returning to near-normal levels during CPR (Parnia et al., 2023). These cases are neurobiological paradoxes if the failing brain is the generator: a system losing its capacity to produce consciousness should not produce *more* of it. But they are expected if the brain is a filter losing its restrictive capacity — reduction in filtering allows more consciousness through, not less. [[loss-of-consciousness|Psychedelic states]], where pharmacological disruption of default-mode network activity correlates with expanded rather than diminished experience, add further support.
+
+The pharmacological specificity documented here also bears on [[experimental-design-for-consciousness-collapse-testing|experimental design for consciousness-collapse testing]]. If different anaesthetic agents selectively disrupt different interface channels, pharmacological manipulation could provide the controlled variation that consciousness-collapse experiments need — selectively removing or preserving specific aspects of consciousness while holding others constant, potentially circumventing the confound of embodiment that plagues current experimental proposals.
 
 Two additional predictions follow. First, disconnected consciousness under anaesthesia should preserve the complexity of brain dynamics associated with conscious processing — and Sarasso et al.'s TMS-EEG comparisons confirm this for ketamine, where brain complexity remains at waking levels despite complete behavioural unresponsiveness. Second, the pharmacological dissociations should map onto distinct interface components rather than reflecting uniform suppression — which the receptor-specific profiles documented above confirm, though as noted, modularity alone does not distinguish filter from production accounts without the converging evidence from terminal lucidity and cardiac arrest.
 
@@ -170,6 +173,7 @@ Anaesthetic pharmacology connects to each of the Map's [[tenets]] in concrete wa
 - [[clinical-phenomenology-as-philosophical-evidence]] — Clinical disruptions as the involuntary counterpart to pharmacological and contemplative evidence
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis: anaesthetic dissociations compared with four other altered states in a convergence matrix
 - [[pain-consciousness-and-causal-power]] — Pain's resistance to reduction and the decisive test case of pain asymbolia
+- [[experimental-design-for-consciousness-collapse-testing]] — How pharmacological channel mapping could inform consciousness-collapse experimental design
 
 ## References
 

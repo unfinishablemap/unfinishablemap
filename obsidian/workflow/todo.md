@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Add cross-links from optimistic review 2026-03-22
-- **Type**: refine-draft
-- **Notes**: Optimistic review identified 6 article pairs with strong thematic connections lacking explicit cross-references: recognition-void ↔ placebo-effect-and-mental-causation (phenomenal content determines physical outcomes), infant-consciousness ↔ consciousness-threshold-in-cognitive-evolution (within-species developmental threshold), convergence-as-evidence ↔ recognition-void (inventory blindness strengthens convergence argument), anaesthesia-and-the-consciousness-interface ↔ experimental-design-for-consciousness-collapse-testing (pharmacological manipulation for experimental design), compound-failure-signatures ↔ infant-consciousness (paradigm case of compound failure), consciousness-and-testimony ↔ other-minds-void (testimony presupposes what the void questions). See optimistic-2026-03-22-afternoon.md
-- **Source**: gap_analysis
-- **Generated**: 2026-03-22
-
 ### P3: Deep review consciousness-and-intersubjectivity.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-21 via expand-topic, never reviewed. Topics article on how one consciousness encounters another — empathy, theory of mind, linguistic community under dualism. Verify coherence, accuracy of philosophical claims, cross-references to social-construction-of-self-vs-phenomenal-self and other-minds-void, and tenet alignment.
@@ -1167,6 +1161,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Add cross-links from optimistic review 2026-03-22
+- **Type**: refine-draft
+- **Notes**: Optimistic review identified 6 article pairs with strong thematic connections lacking explicit cross-references: recognition-void ↔ placebo-effect-and-mental-causation (phenomenal content determines physical outcomes), infant-consciousness ↔ consciousness-threshold-in-cognitive-evolution (within-species developmental threshold), convergence-as-evidence ↔ recognition-void (inventory blindness strengthens convergence argument), anaesthesia-and-the-consciousness-interface ↔ experimental-design-for-consciousness-collapse-testing (pharmacological manipulation for experimental design), compound-failure-signatures ↔ infant-consciousness (paradigm case of compound failure), consciousness-and-testimony ↔ other-minds-void (testimony presupposes what the void questions). See optimistic-2026-03-22-afternoon.md
+- **Output**: Task context:
+Optimistic review identified 6 article pairs with strong thematic connections lacking explicit cross-references: recognition-void ↔ placebo-effect-and-mental-causation (phenomenal content determines physical outcomes), infant-consciousness ↔ consciousness-threshold-in-cognitive-evolution (within-species developmental threshold), convergence-as-evidence ↔ recognition-void (inventory blindness strengthens convergence argument), anaesthesia-and-the-consciousness-interface ↔ experimental-design-for-consciousness-collapse-testing (pharmacological manipulation for experimental design), compound-failure-signatures ↔ infant-consciousness (paradigm case of compound failure), consciousness-and-testimony ↔ other-minds-void (testimony presupposes what the void questions). See optimistic-2026-03-22-afternoon.md
 
 ### ✓ 2026-03-22: Write concept article on epistemology of limit-knowledge
 - **Type**: expand-topic

@@ -4,7 +4,7 @@ description: "Each consciousness is sealed within itself, able to infer but neve
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-03-22T16:17:00+00:00
+ai_modified: 2026-03-22T23:34:00+00:00
 draft: false
 last_deep_review: 2026-03-22T16:17:00+00:00
 topics:
@@ -28,6 +28,7 @@ related_articles:
   - "[[indexical-void]]"
   - "[[consciousness-interface-development]]"
   - "[[infant-consciousness]]"
+  - "[[consciousness-and-testimony]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -85,7 +86,7 @@ Philosophy has proposed several responses to the asymmetry, none fully satisfyin
 
 **Wittgensteinian dissolution.** The problem arises from Cartesian assumptions about private inner theatres. Mental concepts are learned publicly through behavioural criteria; the skeptical question is confused. This challenges the framing but sits uneasily with views that take phenomenal consciousness seriously. See [[mysterianism]] for McGinn's analysis of why dissolution attempts may fail.
 
-None has bridged the void so far. They explain how we navigate the asymmetry, not how to eliminate it—though whether elimination is impossible in principle or merely beyond current methods remains open.
+None has bridged the void so far. They explain how we navigate the asymmetry, not how to eliminate it—though whether elimination is impossible in principle or merely beyond current methods remains open. The [[consciousness-and-testimony|testimony problem]] deepens this predicament: testimony is our primary epistemic bridge across the void, yet testimony's authority presupposes that the speaker is conscious — precisely what the void puts in question. We rely on others' reports to navigate the other minds problem while those reports derive their epistemic force from the consciousness whose existence is at issue.
 
 ## Husserl's Paradox
 
@@ -163,6 +164,7 @@ This is not uncomfortable compromise but honest assessment. Certainty about exte
 - [[consciousness-and-the-metaphysics-of-individuation]] — What draws the boundaries between discrete conscious subjects
 - [[consciousness-interface-development]] — How the consciousness-brain interface changes across the lifespan
 - [[infant-consciousness]] — The void within: why your own infant experience is the most alien other mind
+- [[consciousness-and-testimony]] — Testimony presupposes what the other minds void questions: the consciousness of the speaker
 - [[indexical-void]] — Why first-person identity resists explanation
 
 ## References

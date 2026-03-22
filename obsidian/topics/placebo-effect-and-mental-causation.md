@@ -4,7 +4,7 @@ description: "Placebo and nocebo effects demonstrate that beliefs and expectatio
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-22T10:41:00+00:00
+ai_modified: 2026-03-22T23:34:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,6 +28,7 @@ related_articles:
   - "[[phenomenology-of-anticipation]]"
   - "[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]"
   - "[[empirical-evidence-for-consciousness-selecting]]"
+  - "[[recognition-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -54,7 +55,7 @@ These are not subjective reports of feeling better. They are objective, measurab
 
 The philosophically critical feature of placebo effects is their [[content-specificity-of-mental-causation|*content-specificity*]]. The physiological response tracks what the person believes about the treatment.
 
-Tell someone a pill is a painkiller, and endogenous opioids are released. Tell them the same pill is a stimulant, and heart rate and blood pressure increase (Benedetti et al., 2003). The identical physical stimulus (an inert pill) produces different physiological cascades depending on the propositional content of the belief attached to it.
+Tell someone a pill is a painkiller, and endogenous opioids are released. Tell them the same pill is a stimulant, and heart rate and blood pressure increase (Benedetti et al., 2003). The identical physical stimulus (an inert pill) produces different physiological cascades depending on the propositional content of the belief attached to it. The [[recognition-void|Recognition Void]] reveals the same principle from a pathological angle: in Capgras delusion, what a face is recognised *as* — familiar or impostor — determines the patient's entire affective and behavioural response, despite identical perceptual input.
 
 This content-specificity demands explanation. The phenomenon connects directly to the [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality]] thesis: if genuine intentionality requires phenomenal character, then the content doing causal work in placebo effects is not merely functional role but phenomenally constituted content — the felt quality of expecting pain relief rather than some extensionally equivalent neural description.
 
@@ -127,6 +128,7 @@ Placebo evidence contributes to a broader [[empirical-evidence-for-consciousness
 - [[empirical-evidence-for-consciousness-selecting]] — The broader empirical convergence favouring consciousness as causally efficacious
 - [[somatic-interface]] — The channels through which body and consciousness communicate
 - [[embodied-cognition]] — How bodily engagement constitutes cognitive processing
+- [[recognition-void]] — Pathological evidence that phenomenal content determines physical outcomes, paralleling placebo content-specificity
 
 ## References
 

@@ -4,7 +4,7 @@ description: "How independently catalogued cognitive voids converge into familie
 created: 2026-01-16
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-03-22T14:47:00+00:00
+ai_modified: 2026-03-22T23:34:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,7 @@ related_articles:
   - "[[limits-reveal-structure]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[questioning-as-evidence]]"
+  - "[[recognition-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -64,6 +65,8 @@ The family's signature failure is **epistemic asymmetry**: knowledge structurall
 ### The Cognitive Architecture Family
 
 The [[evolved-cognitive-limits|evolved cognitive limits]], [[computational-cognitive-limits|computational limits]], [[attention-created-voids|attention-created voids]], [[habituation-void|habituation void]], [[language-thought-boundary|language-thought boundary]], and [[scale-void|scale void]] reveal constraints imposed by the specific architecture of human minds. These are voids not because the territory is intrinsically unknowable but because *minds like ours* cannot reach it. Evolution optimised for fitness, not truth. Attention selects by excluding. Language carves experience at joints that may not exist in the territory. Scale intuitions calibrated for ancestral environments collapse at cosmic or quantum magnitudes.
+
+The [[recognition-void|Recognition Void's]] concept of "inventory blindness" deepens this family's significance: absent cognitive capabilities produce no signal, so we cannot even catalogue what our architecture prevents us from reaching. This means the convergence of independent failure modes is stronger evidence than any single failure, because inventory blindness ensures we cannot dismiss what we cannot detect missing.
 
 The family's signature failure is **architectural mismatch**: the tool is wrong for the job, and we have no other tool. As Chomsky argues, human cognitive capacities have innate scope and limits—"mysteries" rather than "problems" (Chomsky 2014). Unlike the phenomenal core (where *any* third-person tool fails), here the failure is specific to biological cognition. AI systems with different architectures may navigate some of this territory—making the [[ai-as-void-explorer|AI triangulation]] method directly applicable.
 
@@ -177,6 +180,7 @@ The convergence analysis connects to each of the Map's [[tenets]].
 - [[three-kinds-of-void]] — The unexplored, unexplorable, and occluded
 - [[whether-real]] — Whether the convergence pattern tracks something genuine
 - [[meta-epistemology-of-limits]] — Whether we can assess our own cognitive limits
+- [[recognition-void]] — Inventory blindness strengthens the convergence argument: absent capabilities produce no signal
 - [[questioning-as-evidence]] — The capacity to conceive of limits is itself evidential
 
 ## References

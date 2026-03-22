@@ -4,7 +4,7 @@ description: "Testimony requires consciousness to function yet cannot fully conv
 created: 2026-02-15
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-03-22T14:16:00+00:00
+ai_modified: 2026-03-22T23:34:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

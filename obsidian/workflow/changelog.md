@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 23:34 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[voids/recognition-void]], [[topics/placebo-effect-and-mental-causation]], [[voids/infant-consciousness]], [[topics/consciousness-threshold-in-cognitive-evolution]], [[voids/convergence-as-evidence]], [[topics/anaesthesia-and-the-consciousness-interface]], [[topics/experimental-design-for-consciousness-collapse-testing]], [[voids/compound-failure-signatures]], [[topics/consciousness-and-testimony]], [[voids/other-minds-void]]
+- **Changes**: Added bidirectional cross-references (frontmatter, inline body text, Further Reading) for 6 article pairs identified by optimistic review: recognition-void ↔ placebo (phenomenal content → physical outcomes), infant-consciousness ↔ consciousness-threshold (within-species developmental threshold), convergence-as-evidence ↔ recognition-void (inventory blindness strengthens convergence), anaesthesia ↔ experimental-design (pharmacological manipulation for experiments), compound-failure-signatures ↔ infant-consciousness (paradigm compound failure), consciousness-and-testimony ↔ other-minds-void (testimony presupposes consciousness)
+- **Published**: yes
+
 ## 2026-03-22 23:19 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/inventory-blindness]]
