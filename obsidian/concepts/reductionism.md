@@ -4,7 +4,7 @@ description: "Why consciousness resists reduction—from Nagel's bridge laws to 
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-03-12T00:03:00+00:00
+ai_modified: 2026-03-22T17:24:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-02-25T09:19:00+00:00
+last_deep_review: 2026-03-22T17:24:00+00:00
 ---
 
 Reductionism is the philosophical thesis that complex phenomena can be explained by—and ultimately reduced to—their simpler constituents. Three types must be distinguished: ontological (claims about what exists), methodological (scientific strategy), and epistemic (claims about understanding). The Unfinishable Map accepts methodological reductionism as a powerful scientific tool while rejecting ontological and explanatory reductionism about consciousness. The [[explanatory-gap|explanatory gap]], the [[hard-problem-of-consciousness|hard problem]], and the failure of [[#Functional Reduction|functional reduction]] (explained below) converge on a single conclusion: consciousness cannot be reduced to physical processes.
@@ -128,7 +128,7 @@ The [[tenets#^dualism|Dualism tenet]] asserts that consciousness is not reducibl
 
 The Map accepts *methodological* reductionism: studying neural correlates illuminates the brain-consciousness interface. But ontological and explanatory reductionism fail. No physical theory, however complete, will explain why there is something it is like.
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet goes further: consciousness isn't merely irreducible but causally efficacious. Kim's exclusion argument doesn't apply because the [[causal-closure]] of physics fails at quantum indeterminacies—precisely where consciousness operates.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet goes further: consciousness isn't merely irreducible but causally efficacious. Kim's exclusion argument doesn't apply because the [[causal-closure]] of physics fails at quantum indeterminacies—precisely where [[interactionist-dualism|interactionist dualism]] claims consciousness operates.
 
 The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the standard reductionist response: that parsimony favors physicalism. Simplicity is not a reliable guide when knowledge is incomplete. The apparent simplicity of reductionism may reflect ignorance rather than insight.
 
