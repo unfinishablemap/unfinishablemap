@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review other-minds-void.md considering infant-consciousness insights
-- **Type**: cross-review
-- **Notes**: New article voids/infant-consciousness.md (created 2026-03-22 via expand-topic) explores why our own infant experience is more alien than another adult's mind. Check other-minds-void.md and inaccessible-past.md for cross-links, reinforcing arguments, or tensions with the new infant consciousness treatment.
-- **Source**: chain (from infant-consciousness.md)
-- **Generated**: 2026-03-22
-
 ### P2: Fix apophatic-approaches.md cross-references (43+ links point to wrong section path)
 - **Type**: integrate-orphan
 - **Notes**: File is at voids/apophatic-approaches.md but 43+ content files reference it via concepts/apophatic-approaches, creating broken internal links. Update all cross-references to use the correct voids/ path, or evaluate whether the file should be relocated to concepts/.
@@ -1155,6 +1149,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Cross-review other-minds-void.md considering infant-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article voids/infant-consciousness.md (created 2026-03-22 via expand-topic) explores why our own infant experience is more alien than another adult's mind. Check other-minds-void.md and inaccessible-past.md for cross-links, reinforcing arguments, or tensions with the new infant consciousness treatment.
+- **Output**: obsidian/voids/other-minds-void.md -- Context: Cross-review other-minds-void.md considering infant-consciousness insights
 
 ### ✓ 2026-03-22: Write void article on the recognition void
 - **Type**: expand-topic
