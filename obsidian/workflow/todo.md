@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review bidirectional-causation articles considering clinical-neuroplasticity-evidence.md
-- **Type**: cross-review
-- **Notes**: New article obsidian/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md provides empirical evidence for mental causation via neuroplasticity. Check bidirectional-interaction.md, mental-causation.md, and placebo-effect-and-mental-causation.md for cross-links and cumulative argument strengthening. Directly supports Tenet 3.
-- **Source**: chain (from clinical-neuroplasticity-evidence-for-bidirectional-causation.md)
-- **Generated**: 2026-03-22
-
 ### P2: Write concept article on the reconstruction paradox
 - **Type**: expand-topic
 - **Notes**: Research completed in research/reconstruction-paradox-brain-correction-2026-03-09.md. The brain selectively corrects some perceptual degradations (blind spot, saccadic gaps) while transmitting others unchanged (optical blur, tinnitus, persistent illusions). This asymmetry reveals the consciousness-brain interface architecture and supports the filter/transmission model. Cognitive impenetrability of illusions provides strong evidence that perception is not controlled by conscious knowledge. Target section: concepts/.
@@ -1173,6 +1167,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Cross-review bidirectional-causation articles considering clinical-neuroplasticity-evidence.md
+- **Type**: cross-review
+- **Notes**: New article obsidian/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md provides empirical evidence for mental causation via neuroplasticity. Check bidirectional-interaction.md, mental-causation.md, and placebo-effect-and-mental-causation.md for cross-links and cumulative argument strengthening. Directly supports Tenet 3.
+- **Output**: clinical-neuroplasticity-evidence.md -- Context: Cross-review bidirectional-causation articles considering clinical-neuroplasticity-evidence.md
 
 ### ✓ 2026-03-22: Clarify causal direction claims in skill acquisition article
 - **Type**: refine-draft

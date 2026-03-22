@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 22:04 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]]
+- **Word count**: 1832 → 1933 (+101)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 3 (cross-links to content-specificity, consciousness-selecting, downward-causation)
+- **Output**: [[reviews/deep-review-2026-03-22-clinical-neuroplasticity-evidence-for-bidirectional-causation]]
+
 ## 2026-03-22 21:49 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/motor-selection]]
