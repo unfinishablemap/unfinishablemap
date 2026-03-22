@@ -5,6 +5,14 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 07:26 UTC - condense
+- **Status**: Success
+- **File**: [[concepts/global-workspace-theory]]
+- **Before**: 3500 words
+- **After**: 2189 words
+- **Reduction**: 37%
+- **Technique**: Consolidated competing theories section (3 subsections → 1 paragraph), trimmed amplification/metarepresentation tangents, condensed memory systems section with table, tightened COGITATE and empirical distinction sections, removed redundant working memory architecture detail
+
 ## 2026-03-22 07:12 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/philosophy-of-science-under-dualism]]

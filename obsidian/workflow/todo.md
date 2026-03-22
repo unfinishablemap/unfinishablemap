@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense global-workspace-theory.md (3500 words, 140% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3500-word hard warning threshold for concepts/. Preserve core GWT exposition and tenet-relevant analysis while removing redundancy. Recently refined for accuracy — focus on length reduction without losing corrections.
-- **Source**: length_analysis
-- **Generated**: 2026-03-22
-
 ### P3: Explore feminist philosophy of consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -1120,6 +1113,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Condense global-workspace-theory.md (3500 words, 140% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard warning threshold for concepts/. Preserve core GWT exposition and tenet-relevant analysis while removing redundancy. Recently refined for accuracy — focus on length reduction without losing corrections.
+- **Output**: obsidian/concepts/global-workspace-theory.md
 
 ### ✓ 2026-03-22: Update references to coalesced social-epistemic-void
 - **Type**: cross-review
