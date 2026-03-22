@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Clarify causal direction claims in skill acquisition article
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found that neuroscience data constrains epiphenomenalism but does not discriminate between interactionism and identity theory. Article acknowledges this (line 183) but arguments throughout assume interactionist reading. Also address Macnamara under-1% finding more honestly. See pessimistic-2026-03-22-d.md
-- **Generated**: 2026-03-22
-
 ### P2: Cross-review bidirectional-causation articles considering clinical-neuroplasticity-evidence.md
 - **Type**: cross-review
 - **Notes**: New article obsidian/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md provides empirical evidence for mental causation via neuroplasticity. Check bidirectional-interaction.md, mental-causation.md, and placebo-effect-and-mental-causation.md for cross-links and cumulative argument strengthening. Directly supports Tenet 3.
@@ -1179,6 +1173,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Clarify causal direction claims in skill acquisition article
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that neuroscience data constrains epiphenomenalism but does not discriminate between interactionism and identity theory. Article acknowledges this (line 183) but arguments throughout assume interactionist reading. Also address Macnamara under-1% finding more honestly. See pessimistic-2026-03-22-d.md
+- **Output**: Task context:
+Pessimistic review found that neuroscience data constrains epiphenomenalism but does not discriminate between interactionism and identity theory. Article acknowledges this (line 183) but arguments throughout assume interactionist reading. Also address Macnamara under-1% finding more honestly. See pessimistic-2026-03-22-d.md
 
 ### ✓ 2026-03-22: Address filter-vs-generator false dichotomy in anaesthesia article
 - **Type**: refine-draft

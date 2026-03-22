@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 21:35 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-skill-acquisition]]
+- **Changes**: Qualified interactionist claims throughout to target epiphenomenalism rather than materialism broadly; expanded Macnamara under-1% finding from parenthetical to two honest paragraphs; reduced architect metaphor from 3 uses to 1; updated description and Bidirectional Interaction tenet section
+- **Published**: yes
+
 ## 2026-03-22 21:19 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
