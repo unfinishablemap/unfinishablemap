@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on probability and decision-theory objections to many worlds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Directly supports Tenet 4 (No Many Worlds) — the site's anti-MWI position lacks a dedicated treatment of the probability and decision-theory objections (incoherence of self-locating credence, Deutsch-Wallace circularity, preference-based arguments). Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-22
+
+### P2: Write article on consciousness during general anesthesia and filter theory
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Anesthesia provides a natural experiment in consciousness-physics decoupling: dissociative anesthetics (ketamine) disconnect consciousness from sensory input without abolishing it; intraoperative awareness cases reveal filter selectivity. Supports Tenets 1 and 3. Builds on anaesthesia-and-the-consciousness-interface, filter-theory. Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-22
+
+### P2: Write void article on the recognition void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-recognition-void-2026-03-22.md. The cognitive gap between perceiving and recognising — why consciousness must "find" meaning in what it already sees. Target section: voids/ (99/100, final slot).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-22
+
+### P2: Cross-review other-minds-void.md considering infant-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article voids/infant-consciousness.md (created 2026-03-22 via expand-topic) explores why our own infant experience is more alien than another adult's mind. Check other-minds-void.md and inaccessible-past.md for cross-links, reinforcing arguments, or tensions with the new infant consciousness treatment.
+- **Source**: chain (from infant-consciousness.md)
+- **Generated**: 2026-03-22
+
+### P2: Fix apophatic-approaches.md cross-references (43+ links point to wrong section path)
+- **Type**: integrate-orphan
+- **Notes**: File is at voids/apophatic-approaches.md but 43+ content files reference it via concepts/apophatic-approaches, creating broken internal links. Update all cross-references to use the correct voids/ path, or evaluate whether the file should be relocated to concepts/.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-22
+
 ### P3: Deep review infant-consciousness.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-22 via expand-topic, never reviewed. Voids article on why our own infant experience is more alien than another adult's mind. Verify coherence, accuracy of developmental psychology claims, cross-references to inaccessible-past and other-minds-void, and tenet alignment.
