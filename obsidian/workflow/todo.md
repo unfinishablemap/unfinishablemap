@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Fix citation error and circular argument in consciousness-and-intelligence.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found two high-severity issues: (1) DeWall, Baumeister, & Masicampo (2008) citation may be conflated with Lieberman et al. (2008)—verify which paper supports the logical reasoning claim. (2) The Great Ape Evidence section has a circular argument—it labels capacities as "consciousness-requiring" then uses the correlation as evidence. Needs independent argument for why phenomenal consciousness (not just enhanced processing) is required. See pessimistic-2026-03-22-b.md
+- **Generated**: 2026-03-22
+
 ### P2: Integrate death-phenomenology-beyond-ndes.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
