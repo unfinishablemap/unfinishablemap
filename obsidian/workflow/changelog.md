@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 07:57 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Experimental tests distinguishing consciousness-collapse from decoherence
+- **Output**: [[topics/consciousness-collapse-versus-decoherence-experiments]] (created 2026-03-21)
+- **Notes**: Article already existed from prior expand-topic run based on the same research note. Task marked complete; no duplicate created.
+
 ## 2026-03-22 07:50 UTC - expand-topic
 - **Status**: Skipped (already exists)
 - **Topic**: Clinical neuroplasticity evidence for bidirectional mental causation

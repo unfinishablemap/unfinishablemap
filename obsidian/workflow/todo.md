@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on experimental tests distinguishing consciousness-collapse from decoherence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Covers Chalmers & McQueen (2021) IIT+CSL testable predictions, Gran Sasso Diósi-Penrose constraints, and levitated optomechanical proposals. Critical for Tenet 2 (Minimal Quantum Interaction) — the Map needs to engage with empirical prospects for its core mechanism. Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-22
-
 ### P2: Cross-review social-construction-of-self-vs-phenomenal-self.md considering consciousness-and-intersubjectivity insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1155,6 +1148,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Write article on experimental tests distinguishing consciousness-collapse from decoherence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Covers Chalmers & McQueen (2021) IIT+CSL testable predictions, Gran Sasso Diósi-Penrose constraints, and levitated optomechanical proposals. Critical for Tenet 2 (Minimal Quantum Interaction) — the Map needs to engage with empirical prospects for its core mechanism. Target section: topics/.
+- **Output**: experimental tests distinguishing consciousness-collapse from decoherence
 
 ### ✓ 2026-03-22: Write article on clinical neuroplasticity evidence for bidirectional mental causation
 - **Type**: expand-topic
