@@ -26,6 +26,7 @@ related_articles:
   - "[[intrinsic-nature-void]]"
   - "[[self-reference-and-the-limits-of-physical-description]]"
   - "[[phenomenology-of-the-edge]]"
+  - "[[recognition-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -61,7 +62,7 @@ The analogy extends upward. If humans are to rats as some hypothetical intellige
 
 McGinn's specific application to consciousness turns on how we access each side of the mind-brain relationship.
 
-**Consciousness through introspection.** We access our experiences directly from the inside. Introspection reveals the phenomenal character of pain, colour, emotion—but reveals nothing about neural mechanisms. Looking inward shows *what it is like*; it does not show *how it works*.
+**Consciousness through introspection.** We access our experiences directly from the inside. Introspection reveals the phenomenal character of pain, colour, emotion—but reveals nothing about neural mechanisms. Looking inward shows *what it is like*; it does not show *how it works*. The [[recognition-void]] provides a vivid example: the Capgras-prosopagnosia double dissociation shows that neither introspection nor external observation reveals how perception becomes identification.
 
 **The brain through perception and science.** We access neural activity through external observation—brain scans, electrode recordings, anatomical dissection. Perception reveals structure and function but reveals nothing about why this activity should *feel like anything*.
 

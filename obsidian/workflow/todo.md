@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate recognition-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-22 via expand-topic. Voids article on the cognitive gap between perceiving and recognising. Add cross-references from related articles — phenomenology-of-understanding-and-meaning.md, categorical-surprise.md, attention-created-voids.md, three-kinds-of-void.md — or update voids index to include navigation to this content.
-- **Source**: chain (from recognition-void expand-topic)
-- **Generated**: 2026-03-22
-
 ### P2: Integrate phenomenology-of-moral-deliberation.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Created 2026-03-15. Topics article on moral deliberation phenomenology. Add cross-references from related articles (moral-phenomenology, consciousness-and-normative-force, phenomenology-of-deliberation-under-uncertainty, free-will-and-moral-responsibility) or update section index pages.
@@ -1173,6 +1167,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Integrate recognition-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-22 via expand-topic. Voids article on the cognitive gap between perceiving and recognising. Add cross-references from related articles — phenomenology-of-understanding-and-meaning.md, categorical-surprise.md, attention-created-voids.md, three-kinds-of-void.md — or update voids index to include navigation to this content.
+- **Output**: obsidian/voids/recognition-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-22: Cross-review filter-theory.md considering consciousness-during-anesthesia article
 - **Type**: cross-review

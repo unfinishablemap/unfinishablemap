@@ -27,6 +27,7 @@ related_articles:
   - "[[expertise-void]]"
   - "[[introspective-opacity]]"
   - "[[consciousness-interface-development]]"
+  - "[[recognition-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -122,7 +123,7 @@ What would it feel like to encounter territory closed by architecture or develop
 
 **The false confidence**: You believe you understand a subject until pressed to articulate it. The concept was never there—only the *illusion* of conceptual possession. Philosophical debates may often involve participants exchanging words without sharing concepts.
 
-**Recognition without comprehension**: McGinn notes we can *recognise* that certain thoughts are unthinkable without *comprehending* what those thoughts would be. We know there's a "property P" bridging mind and brain, but we cannot form the concept. The gap is visible even if its contents aren't.
+**Recognition without comprehension**: McGinn notes we can *recognise* that certain thoughts are unthinkable without *comprehending* what those thoughts would be. We know there's a "property P" bridging mind and brain, but we cannot form the concept. The gap is visible even if its contents aren't. The [[recognition-void]] explores this further: recognition itself—the act of identifying something as *something*—operates in complete silence, and its failures (Capgras delusion, prosopagnosia, jamais vu) reveal components that are normally invisible.
 
 **Nostalgia without content**: Adults may sense that children perceive differently, but cannot access the lost perceptions to verify. The intuition of loss exceeds the ability to specify what was lost.
 

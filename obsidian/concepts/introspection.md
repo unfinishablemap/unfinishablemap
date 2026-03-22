@@ -32,6 +32,7 @@ related_articles:
   - "[[introspection-reliability-first-person-2026-01-15]]"
   - "[[phenomenology-of-cognitive-limit-types]]"
   - "[[social-epistemic-void]]"
+  - "[[recognition-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -53,6 +54,8 @@ Eric Schwitzgebel catalogued further failures: people cannot reliably report whe
 ## The Crucial Distinction: Process vs. Content
 
 The critique's target matters. Nisbett and Wilson explicitly distinguish mental *processes* (the causal mechanisms producing decisions) from mental *contents* (current phenomenal states). Their argument concerns process access: we lack insight into *why* we choose as we do. They make no claim about whether we accurately perceive our present experience. The [[causal-interface|causal interface void]] represents the extreme case of this limitation: we cannot observe *how* intention becomes action, though we access both the intention and the resulting movement.
+
+The [[recognition-void]] provides a striking demonstration: neurological conditions like Capgras delusion and prosopagnosia reveal that what seems like a single act of recognition is at least two hidden processes — perceptual identification and affective familiarity — whose binding is invisible to introspection.
 
 This distinction maps onto the [[the-subject-object-distinction-as-philosophical-discovery|subject-object distinction]]: the subject has privileged access to phenomenal content (the subject-side) while the causal processes producing that content remain on the object-side, accessible only through third-person methods. Russell's distinction between knowledge by acquaintance and description captures the same asymmetry. We are *acquainted* with phenomenal content—directly presented with what experience is like—without necessarily having *descriptive* knowledge of the processes producing it. Russell took acquaintance as primitive and pre-conceptual: we know the redness of red through direct presentation, not through propositions. The introspection critics show we lack descriptive access to process; they leave acquaintance with content intact. See [[phenomenological-evidence]] for the conditions under which such acquaintance constitutes genuine evidence. [[introspective-opacity|Introspective opacity]]—explored as a void in the Map—names this structural limit: we access mental contents but never the mechanisms that produce them. The [[intentionality-void|intentionality void]] applies this directly to reference: we know *what* our thoughts are about but not *how* they achieve their aboutness.
 

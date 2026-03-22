@@ -35,6 +35,7 @@ related_articles:
   - "[[involuntariness-void]]"
   - "[[phenomenology-of-choice]]"
   - "[[social-epistemic-void]]"
+  - "[[recognition-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -65,7 +66,7 @@ Consciousness cannot observe itself in real-time. By the time introspection occu
 
 ### Process Opacity
 
-We access mental products but not production. You perceive the solution; you do not perceive solving. The outputs of cognition become conscious; the computations remain dark.
+We access mental products but not production. You perceive the solution; you do not perceive solving. The outputs of cognition become conscious; the computations remain dark. The [[recognition-void]] is a paradigmatic case: you see a face and know whose it is, but the process that bridges perception to identification is structurally invisible.
 
 Carruthers's Interpretive Sensory-Access (ISA) theory makes this explicit: we infer our mental states the way we infer others'—from the outside, using the same mindreading faculty. [[epistemic-emotions|Epistemic emotions]]—curiosity, confusion, the flash of insight—signal process-states (stuck, searching, arrived) without revealing process-mechanisms. Whether these constitute genuine process-knowledge is the question pursued by the [[emotional-epistemology-void]].
 
@@ -182,6 +183,7 @@ None of these conditions has been met. Introspective opacity persists across cul
 - [[creativity-void|The Creativity Void]] — Parallel opacity: creative process hidden, product accessible
 - [[phenomenology-of-choice|The Phenomenology of Choice]] — What choosing feels like from the inside
 - [[social-epistemic-void|The Social Epistemic Void]] — How opacity compounds at the social level through testimony failure, calibration pressure, and hermeneutical gaps
+- [[recognition-void|The Recognition Void]] — Process opacity applied to recognition: the gap between perceiving and knowing-as
 
 ## References
 
