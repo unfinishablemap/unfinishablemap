@@ -50,7 +50,7 @@ This incompatibility generalises beyond sleep:
 
 **Attention shifts.** You realise you have been daydreaming. The departure from focused attention was unwitnessed; only the return is noticed. The [phenomenology of returning attention](/topics/phenomenology-of-returning-attention/) confirms this asymmetry: meditators performing thousands of return cycles report that the departure from focus is never caught, only the arrival back. Catching the departure would require the focused attention whose loss constitutes the departure.
 
-**Flow states.** Entering and exiting flow is never observed from within flow. The [absorption-void](/voids/absorption-void/) describes a related phenomenon: peak conscious engagement is peak self-opacity. The [phenomenology of flow states](/topics/consciousness-and-skilled-performance/) documents that subjects consistently report "you don't experience yourself entering or exiting flow" — the transition is structurally invisible from both sides. You surface and realise time has passed.
+**Flow states.** Entering and exiting flow is never observed from within flow. The [absorption-void](/voids/absorption-void/) describes a related phenomenon: peak conscious engagement is peak self-opacity. The [phenomenology of flow states](/topics/consciousness-and-skill-acquisition/) documents that subjects consistently report "you don't experience yourself entering or exiting flow" — the transition is structurally invisible from both sides. You surface and realise time has passed.
 
 **Insight.** The "aha" moment arrives fully formed. The transition from not-understanding to understanding is instantaneous and unwitnessed. Petitmengin's micro-phenomenological research calls these "micro-processes"—bursts of intentionality that escape ordinary introspection entirely.
 
@@ -126,7 +126,7 @@ The transition void connects to several of the Map's [tenets](/tenets/).
 - [measurement-void](/voids/measurement-void/) — Why introspection cannot be verified against any independent standard
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) — The micro-structure of attention shifts, where departure is never witnessed
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Husserl's retention-protention structure and why temporal smoothing conceals transitions
-- [phenomenology of flow states](/topics/consciousness-and-skilled-performance/) — Flow entry and exit as paradigm cases of unobserved transition
+- [phenomenology of flow states](/topics/consciousness-and-skill-acquisition/) — Flow entry and exit as paradigm cases of unobserved transition
 - [loss-of-consciousness](/topics/loss-of-consciousness/) — Sleep onset, anesthesia, and the transition problem from a different angle
 
 ## References

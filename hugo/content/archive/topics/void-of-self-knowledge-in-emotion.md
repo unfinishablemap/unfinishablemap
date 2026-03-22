@@ -91,7 +91,7 @@ These temporal gaps suggest that emotional self-knowledge is not a snapshot but 
 
 ## The Void's Structure
 
-This void is primarily **occluded** in the Map's [taxonomy](/voids/three-kinds-of-void/). The opacity is not total (we have *some* emotional self-knowledge) and not obviously structural (unlike the [self-reference-paradox](/voids/self-reference-paradox/), there is no formal argument that emotional self-knowledge is impossible). Instead, multiple forces conspire to keep accurate emotional self-knowledge just out of reach:
+This void is primarily **occluded** in the Map's [taxonomy](/voids/three-kinds-of-void/). The opacity is not total (we have *some* emotional self-knowledge) and not obviously structural (unlike the [self-reference-paradox](/voids/unobservable-self/), there is no formal argument that emotional self-knowledge is impossible). Instead, multiple forces conspire to keep accurate emotional self-knowledge just out of reach:
 
 **Construction masquerading as detection.** The brain builds emotions and presents them as found. The construction process is invisible, creating an illusion of discovery where there is manufacture.
 

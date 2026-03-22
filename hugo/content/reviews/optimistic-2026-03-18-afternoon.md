@@ -107,7 +107,7 @@ The Map's [Cognitive Closure](/concepts/cognitive-closure/) article develops McG
 - **Tenet alignment**: Supports Tenets 2-3 by mapping the solution space for minimal quantum interaction
 
 #### Phenomenology of Embodied Skill Acquisition
-- **Builds on**: [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/), choking-under-pressure-as-evidence-for-mental-causation, [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
+- **Builds on**: [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/), choking-under-pressure-as-evidence-for-mental-causation, [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
 - **Would address**: Dreyfus's five-stage expertise model through a dualist lens—the transition from deliberate to fluid performance as optimized consciousness-brain coupling rather than consciousness withdrawing. A concrete domain where the interface model generates distinctive predictions
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Tenet 3—expertise acquisition as evidence that consciousness shapes neural architecture over time

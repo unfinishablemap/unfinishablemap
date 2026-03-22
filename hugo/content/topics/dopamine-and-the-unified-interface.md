@@ -219,7 +219,7 @@ What dopamine research provides is a candidate locus and a constraint: whatever 
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum mechanisms for consciousness-brain interaction
 - [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/) — What progressive dopamine loss reveals about the mind-brain relationship
 - [the-interface-location-problem](/topics/the-interface-location-problem/) — Where in the brain the selection interface operates
-- [phenomenology of flow states](/topics/consciousness-and-skilled-performance/) — When dopamine-prepared selection meets no resistance
+- [phenomenology of flow states](/topics/consciousness-and-skill-acquisition/) — When dopamine-prepared selection meets no resistance
 
 ## References
 

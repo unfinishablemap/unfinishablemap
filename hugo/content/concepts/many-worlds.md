@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-18 23:30:00+00:00
+ai_modified: 2026-03-22 17:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: 'Why the Map rejects MWI: it raises unanswerable questions about in
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-18 23:30:00+00:00
+last_deep_review: 2026-03-22 17:31:00+00:00
 modified: *id001
 related_articles:
 - '[[qm-interpretations-beyond-many-worlds]]'
@@ -73,7 +73,7 @@ MWI defenders invoke self-locating uncertainty: you should be uncertain which br
 
 Quantum mechanics predicts that outcomes occur with specific probabilities given by the Born rule. On MWI, all outcomes occur. This generates two distinct challenges (Wallace 2003): the **incoherence problem**—whether probability is even meaningful when nothing fails to happen—and the **quantitative problem**—why probabilities should follow the Born rule rather than simple branch-counting, which generically contradicts it (Graham 1973).
 
-Three strategies attempt to recover probability: decision-theoretic derivations (Deutsch-Wallace), self-locating uncertainty (Sebens-Carroll), and environment-assisted invariance (Zurek). None has succeeded without circularity. Decision-theoretic axioms are contested as encoding optional metaphysical attitudes rather than requirements of rationality (Kent 2010). Self-locating uncertainty struggles because the uncertainty is either spurious or wrongly placed (Lewis 2007). Envariance derivations assume the connection between quantum states and probabilities that they claim to establish.
+Three strategies attempt to recover probability: decision-theoretic derivations (Deutsch-Wallace), self-locating uncertainty (Sebens-Carroll), and environment-assisted invariance (Zurek). None has succeeded without circularity. Decision-theoretic axioms are contested as encoding optional metaphysical attitudes rather than requirements of rationality (Kent 2010), and even granting the axioms, the derivation tells agents how to bet without explaining why laboratory records show Born-rule frequencies (Albert 2010). Self-locating uncertainty struggles because the uncertainty is either spurious or wrongly placed (Lewis 2007). Envariance derivations assume the connection between quantum states and probabilities that they claim to establish.
 
 A deeper structural problem cuts across all three strategies: well-defined branches require [decoherence](/concepts/decoherence/), but decoherence is described using the Born-rule norm, so the branch structure presupposes the probability rule it claims to ground (Baker 2007, Price 2010). Zhang et al. (2026) identify a unifying bottleneck: all five leading derivation strategies depend irreducibly on the assumption that probabilities of orthogonal outcomes are additive—itself a probabilistic postulate, making every derivation covertly circular. This problem has persisted from Everett's original 1957 thesis through Short's 2023 contribution to *Quantum*—nearly seven decades without resolution.
 
@@ -129,7 +129,7 @@ These are genuine virtues. The Map rejects MWI not because it's obviously wrong 
 
 MWI also claims to dissolve the [prebiotic collapse problem](/concepts/prebiotic-collapse/)—what selected quantum outcomes during 13.8 billion years before consciousness. If all outcomes occur, nothing needed selecting. But the Map's alternative is more conservative: objective reduction handled prebiotic collapse; consciousness modulates collapse only in neural systems.
 
-The case against MWI only succeeds if scientifically respectable alternatives exist. They do. The [comprehensive survey of quantum interpretations](/topics/qm-interpretations-beyond-many-worlds/) establishes five major alternatives: Copenhagen, Bohmian mechanics, QBism, transactional/time-symmetric approaches, and objective collapse theories. The interpretive landscape is genuinely open—surveys of physicists consistently show deep disagreement, with few confident their preferred interpretation is correct (Schlosshauer et al., 2013). The Map favors interpretations where consciousness participates in collapse, as these explain both quantum measurement outcomes and phenomenal facts.
+The case against MWI only succeeds if scientifically respectable alternatives exist. They do. The [comprehensive survey of quantum interpretations](/topics/qm-interpretations-beyond-many-worlds/) establishes five major alternatives: Copenhagen, Bohmian mechanics, QBism, transactional/time-symmetric approaches, and objective collapse theories. The interpretive landscape is genuinely open—surveys consistently show deep disagreement (Schlosshauer et al., 2013). The Map favors interpretations where consciousness participates in collapse, as these explain both quantum measurement outcomes and phenomenal facts.
 
 ## What Would Challenge This View?
 
@@ -193,6 +193,7 @@ Alternative interpretations—particularly [time-symmetric](/concepts/collapse-a
 1. Wallace, D. (2012). *The Emergent Multiverse*. Oxford University Press.
 1. Carroll, S. (2019). *Something Deeply Hidden*. Dutton.
 1. Kent, A. (2010). One world versus many: the inadequacy of Everettian accounts of evolution, probability, and scientific confirmation. In Saunders et al., *Many Worlds?*
+1. Albert, D. (2010). Probability in the Everett picture. In Saunders et al. (eds.), *Many Worlds? Everett, Quantum Theory, and Reality*, Oxford University Press.
 1. Albert, D. & Loewer, B. (1988). Interpreting the Many Worlds Interpretation. *Synthese*.
 1. Graham, N. (1973). The measurement of relative frequency. In *The Many-Worlds Interpretation of Quantum Mechanics*, Princeton University Press.
 1. Baker, D.J. (2007). Measurement outcomes and probability in Everettian quantum mechanics. *Studies in History and Philosophy of Modern Physics*, 38, 153-169.

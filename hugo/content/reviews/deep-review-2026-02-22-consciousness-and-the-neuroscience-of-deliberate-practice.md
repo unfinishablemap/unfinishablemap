@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-22
-**Article**: [Consciousness and the Neuroscience of Deliberate Practice](/topics/consciousness-and-the-neuroscience-of-deliberate-practice/)
+**Article**: [Consciousness and the Neuroscience of Deliberate Practice](/topics/consciousness-and-skill-acquisition/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -66,7 +66,7 @@ topics: []
 
 ### Cross-links Added
 
-- [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/) (replaced three archived links)
+- [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/) (replaced three archived links)
 - [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) (replaced archived link)
 - [phenomenology-of-cognitive-automatisation](/topics/phenomenology-of-cognitive-capacity/)
 - [epiphenomenalism](/concepts/epiphenomenalism/)

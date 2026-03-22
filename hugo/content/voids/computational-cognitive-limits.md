@@ -1,13 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-22 19:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[mysterianism]]'
 - '[[simulation]]'
 - '[[consciousness-and-mathematical-cognition]]'
+- '[[mathematical-knowledge-and-insight]]'
 created: 2026-01-27
 date: &id001 2026-01-31
 description: Human+AI exploration of formal limits on what any algorithmic mind can
@@ -63,7 +64,7 @@ Rice's theorem generalised the halting problem in 1953: any non-trivial semantic
 
 This creates a void between syntax and semantics. We can inspect what a program looks like without being able to determine what it does. The formal structure is accessible; the meaning is occluded.
 
-For minds, this suggests a gap between self-knowledge of structure and self-knowledge of function. We might know the "syntax" of our neural processes—their physical organisation—without knowing their "semantics"—what they compute, what they mean. This connects to [the self-reference paradox](/voids/self-reference-paradox/) and to what Hofstadter calls "strange loops"—self-referential structures that generate meaning through self-modelling yet cannot fully comprehend themselves.
+For minds, this suggests a gap between self-knowledge of structure and self-knowledge of function. We might know the "syntax" of our neural processes—their physical organisation—without knowing their "semantics"—what they compute, what they mean. This connects to [the self-reference paradox](/voids/unobservable-self/) and to what Hofstadter calls "strange loops"—self-referential structures that generate meaning through self-modelling yet cannot fully comprehend themselves.
 
 ## Chaitin's Incompleteness
 
@@ -147,6 +148,7 @@ Neither has been achieved. The computational void is established; whether it is 
 - [Consciousness-Only Territories](/voids/consciousness-only-territories/) — What can minds access that machines cannot?
 - [Whether the Voids Are Real](/voids/whether-real/) — Are limits permanent or merely current?
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis of structural limits
+- [mathematical-knowledge-and-insight](/topics/mathematical-knowledge-and-insight/) — The epistemology and phenomenology of mathematical understanding
 
 ## References
 

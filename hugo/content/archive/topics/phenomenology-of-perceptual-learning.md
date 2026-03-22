@@ -106,8 +106,8 @@ It is not *conceptual change*—acquiring new beliefs about what one perceives. 
 
 ## Further Reading
 
-- [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/) — The motor dimension of skill acquisition and the paradox of effortless mastery
-- [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-the-neuroscience-of-deliberate-practice/) — Neural evidence that conscious engagement drives distinct plasticity
+- [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/) — The motor dimension of skill acquisition and the paradox of effortless mastery
+- [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-skill-acquisition/) — Neural evidence that conscious engagement drives distinct plasticity
 - [phenomenology-of-perceptual-constancy](/topics/consciousness-as-perceptual-architect/) — How objects appear stable despite sensory flux
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/) — The cognitive parallel: how frameworks of understanding transform
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — Perception as mastery of sensorimotor laws

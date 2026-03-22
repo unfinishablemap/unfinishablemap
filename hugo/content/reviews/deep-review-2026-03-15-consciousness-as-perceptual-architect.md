@@ -50,8 +50,8 @@ None. All previously identified issues remain resolved.
 - No content changes to the article itself (stable after two prior reviews)
 
 ### Cross-links Added (from other articles TO this article)
-- [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/) — added in-text reference at expert perception passage + Further Reading + related_articles
-- [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-the-neuroscience-of-deliberate-practice/) — added to Further Reading + related_articles
+- [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/) — added in-text reference at expert perception passage + Further Reading + related_articles
+- [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-skill-acquisition/) — added to Further Reading + related_articles
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/) — added in-text reference contrasting conceptual vs. perceptual transformation + Further Reading + related_articles
 - [neuroplasticity](/concepts/neuroplasticity/) — added to Further Reading + related_articles
 - [implicit-memory](/concepts/implicit-memory/) — added to Further Reading (with perceptual ratchet description) + related_articles

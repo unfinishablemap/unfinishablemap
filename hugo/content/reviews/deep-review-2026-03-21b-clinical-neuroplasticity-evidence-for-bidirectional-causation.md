@@ -55,7 +55,7 @@ topics: []
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Added inline link in Empirical Support section + Further Reading
 
 **Topic articles:**
-- [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-the-neuroscience-of-deliberate-practice/) — Added to related_articles and Further Reading
+- [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-skill-acquisition/) — Added to related_articles and Further Reading
 
 ## Remaining Items
 

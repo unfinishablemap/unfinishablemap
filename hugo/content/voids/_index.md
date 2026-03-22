@@ -92,7 +92,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Intentionality Void](/voids/intentionality-void/) — How thoughts achieve their aboutness, hidden from the consciousness it constitutes
 - [The Creativity Void](/voids/creativity-void/) — Where creative insight originates, inaccessible to introspection
 - [The Aesthetic Void](/voids/aesthetic-void/) — Where articulation fails at beauty and sublimity
-- [The Self-Reference Paradox](/voids/self-reference-paradox/) — Where consciousness cannot map because it is the mapper
+- [The Self-Reference Paradox](/voids/unobservable-self/) — Where consciousness cannot map because it is the mapper
 - [The Incompleteness Void](/voids/incompleteness-void/) — Gödel's shadow on self-knowledge
 - [The Dream Consciousness Void](/voids/sleep-consciousness-void/) — Bidirectional inaccessibility between waking and dreaming
 - [The Temporal Void](/voids/temporal-void/) — Why consciousness is confined to a moving present and cannot simultaneously live and measure its own time

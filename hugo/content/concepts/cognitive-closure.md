@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-22 16:46:00+00:00
+ai_modified: 2026-03-22 19:46:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,6 +31,8 @@ related_articles:
 - '[[intrinsic-nature-void]]'
 - '[[self-reference-and-the-limits-of-physical-description]]'
 - '[[phenomenology-of-the-edge]]'
+- '[[recognition-void]]'
+- '[[mathematical-knowledge-and-insight]]'
 title: Cognitive Closure
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -64,7 +66,7 @@ The analogy extends upward. If humans are to rats as some hypothetical intellige
 
 McGinn's specific application to consciousness turns on how we access each side of the mind-brain relationship.
 
-**Consciousness through introspection.** We access our experiences directly from the inside. Introspection reveals the phenomenal character of pain, colour, emotion—but reveals nothing about neural mechanisms. Looking inward shows *what it is like*; it does not show *how it works*.
+**Consciousness through introspection.** We access our experiences directly from the inside. Introspection reveals the phenomenal character of pain, colour, emotion—but reveals nothing about neural mechanisms. Looking inward shows *what it is like*; it does not show *how it works*. The [recognition-void](/voids/recognition-void/) provides a vivid example: the Capgras-prosopagnosia double dissociation shows that neither introspection nor external observation reveals how perception becomes identification.
 
 **The brain through perception and science.** We access neural activity through external observation—brain scans, electrode recordings, anatomical dissection. Perception reveals structure and function but reveals nothing about why this activity should *feel like anything*.
 
@@ -138,6 +140,7 @@ The [voids](/voids/) framework operationalises cognitive closure. Rather than tr
 - [whether-real](/voids/whether-real/) — Can we determine if cognitive limits are genuine or apparent?
 - [self-transcendence-void](/voids/self-transcendence-void/) — Why consciousness cannot bootstrap beyond its own architecture
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Methods of inquiry through negation that cognitive closure motivates
+- [mathematical-knowledge-and-insight](/topics/mathematical-knowledge-and-insight/) — How mathematical understanding illustrates the boundary between transparent and opaque cognition
 - [voids](/voids/) — The Map's framework for approaching what resists understanding
 
 ## References

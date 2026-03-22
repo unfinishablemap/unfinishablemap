@@ -57,7 +57,7 @@ topics: []
 - Tightened prose in several locations to maintain length-neutral mode
 
 ### Cross-links Added (inbound to recursion-void from other articles)
-- [self-reference-paradox](/voids/self-reference-paradox/) — in Strange Loops section
+- [self-reference-paradox](/voids/unobservable-self/) — in Strange Loops section
 - [the-unobservable-self](/voids/self-reference-paradox/) — in Regression of Attention section
 - [introspective-opacity](/voids/introspective-opacity/) — in Mechanism Opacity section
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — in Multiple Edges section

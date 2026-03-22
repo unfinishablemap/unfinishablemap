@@ -30,6 +30,7 @@ related_articles:
 - '[[machine-question]]'
 - '[[alien-minds-void-explorers]]'
 - '[[apophatic-cartography]]'
+- '[[recognition-void]]'
 title: AI as Void-Explorer
 topics:
 - '[[ai-consciousness]]'

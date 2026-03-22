@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-03-22 09:11:00+00:00
+ai_modified: 2026-03-22 19:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -147,7 +147,7 @@ If the Map is right, the path to human-level AI runs through consciousness. Not 
 
 ## The Evolutionary Argument
 
-William James argued in 1890 that consciousness must be causally efficacious because it evolved. Evolution selects for traits that improve survival; if consciousness has no effects, it couldn't be selected. The [evolutionary case for mental causation](/topics/evolutionary-case-for-mental-causation/) develops this argument in detail, showing how the systematic correspondence between consciousness and adaptive behaviour provides the strongest evidence against [epiphenomenalism](/concepts/epiphenomenalism/).
+William James argued in 1890 that consciousness must be causally efficacious because it evolved. The [evolution of consciousness](/concepts/evolution-of-consciousness/) through natural selection implies it improved survival; if consciousness has no effects, it couldn't be selected. The [evolutionary case for mental causation](/topics/evolutionary-case-for-mental-causation/) develops this argument in detail, showing how the systematic correspondence between consciousness and adaptive behaviour provides the strongest evidence against [epiphenomenalism](/concepts/epiphenomenalism/).
 
 The amplification hypothesis strengthens this argument. If consciousness were [epiphenomenal](/concepts/epiphenomenalism/)—causally inert—then:
 

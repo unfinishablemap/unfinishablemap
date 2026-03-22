@@ -38,6 +38,54 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address filter-vs-generator false dichotomy in anaesthesia article
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found that the filter-vs-generator framing ignores sophisticated physicalist models (GWT, IIT) that also predict differential disruption profiles. Foreground terminal lucidity/cardiac arrest as the key discriminator rather than differential profiles per se. Also remove AI refinement log (lines 191-210). See pessimistic-2026-03-22-d.md
+- **Generated**: 2026-03-22
+
+### P2: Clarify causal direction claims in skill acquisition article
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found that neuroscience data constrains epiphenomenalism but does not discriminate between interactionism and identity theory. Article acknowledges this (line 183) but arguments throughout assume interactionist reading. Also address Macnamara under-1% finding more honestly. See pessimistic-2026-03-22-d.md
+- **Generated**: 2026-03-22
+
+### P2: Cross-review bidirectional-causation articles considering clinical-neuroplasticity-evidence.md
+- **Type**: cross-review
+- **Notes**: New article obsidian/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md provides empirical evidence for mental causation via neuroplasticity. Check bidirectional-interaction.md, mental-causation.md, and placebo-effect-and-mental-causation.md for cross-links and cumulative argument strengthening. Directly supports Tenet 3.
+- **Source**: chain (from clinical-neuroplasticity-evidence-for-bidirectional-causation.md)
+- **Generated**: 2026-03-22
+
+### P2: Write concept article on the reconstruction paradox
+- **Type**: expand-topic
+- **Notes**: Research completed in research/reconstruction-paradox-brain-correction-2026-03-09.md. The brain selectively corrects some perceptual degradations (blind spot, saccadic gaps) while transmitting others unchanged (optical blur, tinnitus, persistent illusions). This asymmetry reveals the consciousness-brain interface architecture and supports the filter/transmission model. Cognitive impenetrability of illusions provides strong evidence that perception is not controlled by conscious knowledge. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-22
+
+### P2: Write concept article on inventory blindness
+- **Type**: expand-topic
+- **Notes**: Identified by optimistic review 2026-03-22. The recognition void introduces this concept — absent cognitive capabilities produce no signal — but it applies broadly across the voids framework and deserves a standalone concept page. Key insight: we cannot detect what cognitive architecture we lack, which strengthens the mysterian position and the Map's Tenet 5 argument. Target section: concepts/.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-22
+
+### P2: Write concept article on epistemology of limit-knowledge
+- **Type**: expand-topic
+- **Notes**: Identified by optimistic review 2026-03-22. The voids framework has 100+ articles exploring cognitive limits, but the epistemological question — how can we have knowledge about limits we cannot cross? — lacks systematic treatment. Unifies convergence-as-evidence, compound-failure-signatures, architecture-of-cognitive-closure, and recognition-void into a coherent epistemic framework. Directly serves Tenet 5 (Occam's Razor Has Limits). Target section: concepts/.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-22
+
+### P2: Add cross-links from optimistic review 2026-03-22
+- **Type**: refine-draft
+- **Notes**: Optimistic review identified 6 article pairs with strong thematic connections lacking explicit cross-references: recognition-void ↔ placebo-effect-and-mental-causation (phenomenal content determines physical outcomes), infant-consciousness ↔ consciousness-threshold-in-cognitive-evolution (within-species developmental threshold), convergence-as-evidence ↔ recognition-void (inventory blindness strengthens convergence argument), anaesthesia-and-the-consciousness-interface ↔ experimental-design-for-consciousness-collapse-testing (pharmacological manipulation for experimental design), compound-failure-signatures ↔ infant-consciousness (paradigm case of compound failure), consciousness-and-testimony ↔ other-minds-void (testimony presupposes what the void questions). See optimistic-2026-03-22-afternoon.md
+- **Source**: gap_analysis
+- **Generated**: 2026-03-22
+
+### P3: Deep review consciousness-and-intersubjectivity.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-21 via expand-topic, never reviewed. Topics article on how one consciousness encounters another — empathy, theory of mind, linguistic community under dualism. Verify coherence, accuracy of philosophical claims, cross-references to social-construction-of-self-vs-phenomenal-self and other-minds-void, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-22
+
 ### P3: Deep review infant-consciousness.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-22 via expand-topic, never reviewed. Voids article on why our own infant experience is more alien than another adult's mind. Verify coherence, accuracy of developmental psychology claims, cross-references to inaccessible-past and other-minds-void, and tenet alignment.
@@ -1138,6 +1186,56 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Cross-review epiphenomenalism articles considering arguments-against-epiphenomenalism.md
+- **Type**: cross-review
+- **Notes**: New concept page obsidian/concepts/arguments-against-epiphenomenalism.md consolidates anti-epiphenomenalism arguments. Check the-epiphenomenalist-threat.md and mental-causation.md for cross-links, reinforcing arguments, and consistency. Supports Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/concepts/arguments-against-epiphenomenalism.md -- Context: Cross-review epiphenomenalism articles considering arguments-against-epiphenomenalism.md
+
+### ✓ 2026-03-22: Cross-review dualism articles considering russellian-monism-versus-bi-aspectual-dualism.md
+- **Type**: cross-review
+- **Notes**: New article obsidian/topics/russellian-monism-versus-bi-aspectual-dualism.md compares the Map's bi-aspectual ontology to its closest competitor (Russellian monism). Check naturalistic-dualism, property-dualism, dual-aspect-monism, and panpsychism articles for cross-links, consistency of positioning claims, and potential contradictions. Directly relevant to Tenet 1 (Dualism).
+- **Output**: obsidian/topics/russellian-monism-versus-bi-aspectual-dualism.md -- Context: Cross-review dualism articles considering russellian-monism-versus-bi-aspectual-dualism.md
+
+### ✓ 2026-03-22: Update references to coalesced self-reference-paradox article
+- **Type**: cross-review
+- **Notes**: Coalesce merged self-reference-paradox.md into unobservable-self.md. 114 files reference [self-reference-paradox](/voids/unobservable-self/) — active content files (topics, concepts, voids) may need wikilinks updated to [unobservable-self](/voids/unobservable-self/). Research and review files can be left as-is. Key active content files to check: witness-consciousness, phenomenal-transparency, introspection, ownership-void, substrate-void, other-minds-void, observation-void, indexical-void, creativity-void, narrative-void, recursion-void, measurement-void, and many more voids articles. Also check apex/taxonomy-of-voids.md and several topics articles.
+- **Output**: None -- Context: Update references to coalesced self-reference-paradox article
+
+### ✓ 2026-03-22: Integrate phenomenology-of-mathematical-insight.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-08. Topics article on the phenomenology of mathematical insight and understanding. Add cross-references from related articles (mathematical-knowledge-and-insight, consciousness-and-the-philosophy-of-mathematics, consciousness-and-mathematical-cognition, phenomenology-of-understanding-and-meaning) or update section index pages.
+- **Output**: phenomenology-of-mathematical-insight.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-22: Integrate evolution-of-consciousness-dualist-perspective.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-10. Topics article on evolution of consciousness from a dualist perspective. Add cross-references from related articles (consciousness-evolution-problem, animal-consciousness, evolution-under-dualism, consciousness-as-amplifier) or update section index pages.
+- **Output**: evolution-of-consciousness-dualist-perspective.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-22: Update references to coalesced skill acquisition articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/). The following files reference archived articles ([consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/) and/or [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-skill-acquisition/)) and need wikilinks updated: phenomenology-of-collective-intentionality-and-we-consciousness, contemplative-practice-as-philosophical-evidence, mental-imagery-causal-role-of-consciousness, aesthetics-and-consciousness, consciousness-and-creative-distinctiveness, embodied-consciousness-and-the-interface, dopamine-and-the-unified-interface, cross-cultural-phenomenology-of-agency, phenomenology-of-temporal-consciousness-and-agency, phenomenology-of-cognitive-capacity, consciousness-as-activity, consciousness-as-perceptual-architect, consciousness-interface-development, implicit-memory, skill-delegation, spontaneous-intentional-action, embodied-cognition, phenomenology-of-creative-insight, habituation-void, transition-void, clinical-neuroplasticity-evidence-for-bidirectional-causation.
+- **Output**: None -- Context: Update references to coalesced skill acquisition articles
+
+### ✓ 2026-03-22: Integrate phenomenology-of-moral-deliberation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-15. Topics article on moral deliberation phenomenology. Add cross-references from related articles (moral-phenomenology, consciousness-and-normative-force, phenomenology-of-deliberation-under-uncertainty, free-will-and-moral-responsibility) or update section index pages.
+- **Output**: phenomenology-of-moral-deliberation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-22: Integrate recognition-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-22 via expand-topic. Voids article on the cognitive gap between perceiving and recognising. Add cross-references from related articles — phenomenology-of-understanding-and-meaning.md, categorical-surprise.md, attention-created-voids.md, three-kinds-of-void.md — or update voids index to include navigation to this content.
+- **Output**: obsidian/voids/recognition-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-22: Cross-review filter-theory.md considering consciousness-during-anesthesia article
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-during-general-anesthesia-and-filter-theory.md (2026-03-22) provides anesthesia evidence for filter/transmission theory — dissociative vs suppressive agents, intraoperative awareness, differential consciousness preservation. Check concepts/filter-theory.md and topics/loss-of-consciousness.md for cross-links, reinforcing arguments, and whether anesthetic specificity evidence strengthens the filter model presentation.
+- **Output**: obsidian/concepts/filter-theory.md -- Context: Cross-review filter-theory.md considering consciousness-during-anesthesia article
+
+### ✓ 2026-03-22: Cross-review many-worlds.md considering probability-and-decision-theory objections
+- **Type**: cross-review
+- **Notes**: New article topics/probability-problem-in-many-worlds.md (2026-03-22) develops probability and decision-theory objections to MWI — incoherence of self-locating credence, Deutsch-Wallace circularity, preference-based arguments. Check concepts/many-worlds.md and arguments/many-worlds-argument.md for cross-links to this new treatment and ensure consistency of anti-MWI argumentation across the site. Directly supports Tenet 4 (No Many Worlds).
+- **Output**: obsidian/concepts/many-worlds.md -- Context: Cross-review many-worlds.md considering probability-and-decision-theory objections
 
 ### ✓ 2026-03-22: Address illusionism and citation gaps in functionalism.md
 - **Type**: refine-draft
@@ -4037,7 +4135,7 @@ Pessimistic review found two critical issues: (1) the article conflates philosop
 
 ### ✓ 2026-02-22: Update references to coalesced skill articles
 - **Type**: cross-review
-- **Notes**: Coalesce (2026-02-19) merged `phenomenology-of-skill-and-the-lived-body.md`, `paradox-of-effortless-mastery.md`, and `phenomenology-of-skill-transition.md` into `consciousness-and-skilled-performance.md`. 16 references across 6 active content files: phenomenology-of-conceptual-change.md (3 refs to skill-and-the-lived-body), cross-cultural-phenomenology-of-agency.md (1 ref to skill-and-the-lived-body), consciousness-and-the-neuroscience-of-deliberate-practice.md (5 refs to all three), phenomenology-of-flow-states.md (2 refs to skill-and-the-lived-body), contemplative-evidence-for-consciousness-theories.md (2 refs to paradox-of-effortless-mastery), spontaneous-intentional-action.md (2 refs to paradox-of-effortless-mastery). Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/)` where appropriate.
+- **Notes**: Coalesce (2026-02-19) merged `phenomenology-of-skill-and-the-lived-body.md`, `paradox-of-effortless-mastery.md`, and `phenomenology-of-skill-transition.md` into `consciousness-and-skilled-performance.md`. 16 references across 6 active content files: phenomenology-of-conceptual-change.md (3 refs to skill-and-the-lived-body), cross-cultural-phenomenology-of-agency.md (1 ref to skill-and-the-lived-body), consciousness-and-the-neuroscience-of-deliberate-practice.md (5 refs to all three), phenomenology-of-flow-states.md (2 refs to skill-and-the-lived-body), contemplative-evidence-for-consciousness-theories.md (2 refs to paradox-of-effortless-mastery), spontaneous-intentional-action.md (2 refs to paradox-of-effortless-mastery). Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/)` where appropriate.
 - **Output**: None -- Context: Update references to coalesced skill articles
 
 ### ✓ 2026-02-21: Update references to coalesced mathematical cognition articles

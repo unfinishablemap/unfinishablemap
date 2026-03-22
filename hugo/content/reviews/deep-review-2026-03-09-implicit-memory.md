@@ -94,7 +94,7 @@ No new counterarguments warranting additional responses were identified.
 
 ### Cross-links Added
 
-- [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/)
+- [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/)
 
 ## Remaining Items
 

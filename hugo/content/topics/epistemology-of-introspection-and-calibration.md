@@ -200,7 +200,7 @@ The honest acknowledgment: these strategies do not close the [measurement-void](
 - [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — Huemer's principle as epistemological grounding
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct epistemic relation underlying the acquaintance model
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Russell's distinction and its role in the knowledge argument
-- [self-reference-paradox](/voids/self-reference-paradox/) — The structural impossibility of observing the observer
+- [self-reference-paradox](/voids/unobservable-self/) — The structural impossibility of observing the observer
 - [introspective-opacity](/voids/introspective-opacity/) — Where introspective access fails structurally
 - [measurement-void](/voids/measurement-void/) — Why strict calibration of introspection is structurally impossible
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Systematic contemplative practice as knowledge source

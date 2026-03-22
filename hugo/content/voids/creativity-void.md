@@ -43,7 +43,7 @@ topics:
 
 Creative insight arrives from somewhere consciousness cannot observe. Mathematicians, artists, and scientists across centuries report the same phenomenology: ideas emerge with sudden illumination, feeling received rather than produced. Henri Poincaré called it "the appearance of sudden illumination, a manifest sign of long, unconscious prior work." But what is this unconscious work? Where does it happen? The creative process is self-opaque in a way that reveals something important about the structure of mind.
 
-The Unfinishable Map explores [voids](/voids/)—territories where thought cannot go or cannot see itself going. The creativity void is particularly instructive because it sits at the intersection of the [unexplored and unexplorable](/voids/three-kinds-of-void/). Some aspects may yield to future investigation. Others may be structurally hidden, like the [unobservable self](/voids/self-reference-paradox/) that cannot catch itself observing.
+The Unfinishable Map explores [voids](/voids/)—territories where thought cannot go or cannot see itself going. The creativity void is particularly instructive because it sits at the intersection of the [unexplored and unexplorable](/voids/three-kinds-of-void/). Some aspects may yield to future investigation. Others may be structurally hidden, like the [unobservable self](/voids/unobservable-self/) that cannot catch itself observing.
 
 ## The Phenomenology of Arrival
 
@@ -59,7 +59,7 @@ The phenomenology has distinctive features:
 
 ## The Process Void
 
-The incubation stage is a void—accessible through its products but not its process. We know ideas emerge; we cannot observe the emerging. This parallels the [unobservable self](/voids/self-reference-paradox/): just as we cannot catch ourselves observing, we cannot catch ourselves creating.
+The incubation stage is a void—accessible through its products but not its process. We know ideas emerge; we cannot observe the emerging. This parallels the [unobservable self](/voids/unobservable-self/): just as we cannot catch ourselves observing, we cannot catch ourselves creating.
 
 One possibility is mere complexity—creative processing occurs in neural channels consciousness lacks access to, like the [default mode network](/concepts/default-mode-network/) generating associations while executive control is elsewhere. But Poincaré noted something deeper: "among the great numbers of combinations blindly formed by the subliminal self, almost all are without interest... only certain ones are harmonious." Something selects. What performs this selection?
 
@@ -144,7 +144,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet connects to the haecceity of
 - [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/) — How consciousness enables creative thought that escapes baseline cognition
 - [Voids in the Map](/voids/) — The framework for cognitive dark spaces
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, occluded
-- [The Unobservable Self](/voids/self-reference-paradox/) — The observer that cannot observe itself
+- [The Unobservable Self](/voids/unobservable-self/) — The observer that cannot observe itself
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Mechanisms of cognitive slippage
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
 - [The Limits of Conceptual Acquisition](/voids/architecture-of-cognitive-closure/) — What concepts minds can form

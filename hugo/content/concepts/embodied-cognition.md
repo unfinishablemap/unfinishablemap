@@ -201,7 +201,7 @@ The key point: embodied cognition challenges a specific historical position (Car
 - [ai-consciousness](/topics/ai-consciousness/) — Why the grounding problem matters for machine minds
 - [neurophenomenology](/concepts/neurophenomenology/) — Varela's integration of embodied cognition with consciousness science
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — The choking evidence as a case study in mental causation
-- [phenomenology of flow states](/topics/consciousness-and-skilled-performance/) — Flow as transformed consciousness, not diminished consciousness
+- [phenomenology of flow states](/topics/consciousness-and-skill-acquisition/) — Flow as transformed consciousness, not diminished consciousness
 - [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — Why disembodied symbol manipulation lacks semantic grounding
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — Embodied spatial engagement and the atmosphere of places
 - [phenomenology-of-embodiment-under-dualism](/topics/phenomenology-of-embodiment-under-dualism/) — What embodiment feels like from the first person: ownership, agency, absence, and pain

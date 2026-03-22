@@ -96,7 +96,7 @@ The Unfinishable Map's tenets illuminate cognitive automatisation in ways that p
 
 The **dualism** tenet reframes automatisation as a relationship between two ontologically distinct domains. Consciousness does not merely "fade" as a neural process winds down—it *withdraws* from a domain of interaction, leaving behind physical systems that it helped structure. The phenomenological gradient of withdrawal, the residual anoetic consciousness of automated processes, and the architectural mismatch of de-automatisation all point to consciousness as something that engages with and disengages from physical systems, rather than being identical to them.
 
-The **bidirectional interaction** tenet explains why automated skills bear the marks of conscious construction. If consciousness causally contributes to neural organisation during learning, then the resulting procedural systems are genuinely different from what unconscious learning alone would produce. This prediction is supported by research on [deliberate practice](/topics/consciousness-and-the-neuroscience-of-deliberate-practice/): consciously directed practice produces different neural outcomes than passive repetition (Ericsson et al., 1993)—the systems consciousness builds are qualitatively distinct from those built without it.
+The **bidirectional interaction** tenet explains why automated skills bear the marks of conscious construction. If consciousness causally contributes to neural organisation during learning, then the resulting procedural systems are genuinely different from what unconscious learning alone would produce. This prediction is supported by research on [deliberate practice](/topics/consciousness-and-skill-acquisition/): consciously directed practice produces different neural outcomes than passive repetition (Ericsson et al., 1993)—the systems consciousness builds are qualitatively distinct from those built without it.
 
 The **minimal quantum interaction** tenet offers a framework for understanding why consciousness operates as a bandwidth-limited interface. If consciousness biases quantum indeterminacy through a mechanism requiring sustained attentional focus, then the pressure toward automatisation makes functional sense: any competence that can be delegated to deterministic procedural systems *should* be, freeing the scarce quantum-selection capacity for domains where genuine indeterminacy remains—novel situations, creative decisions, and moments requiring genuine choice.
 
@@ -104,14 +104,14 @@ Automatisation, from the Map's perspective, is not consciousness becoming unnece
 
 ## Further Reading
 
-- [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/)
+- [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/)
 - [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/)
 - Phenomenology Of Cognitive Load
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)
 - [implicit-memory](/concepts/implicit-memory/)
 - [habituation-void](/voids/habituation-void/)
-- [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-the-neuroscience-of-deliberate-practice/)
+- [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-skill-acquisition/)
 - [attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/)
 - [neural-bandwidth-constraints-and-the-interface](/topics/bandwidth-of-consciousness/)
 

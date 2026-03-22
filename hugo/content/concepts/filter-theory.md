@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-20 13:26:00+00:00
+ai_modified: 2026-03-22 18:01:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -30,10 +30,11 @@ description: The brain transmits and constrains consciousness rather than produc
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-20 13:26:00+00:00
+last_deep_review: 2026-03-22 18:01:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[anaesthesia-and-the-consciousness-interface]]'
 title: Filter Theory of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -50,7 +51,7 @@ Materialism interprets brain-consciousness correlation as production: neural act
 
 Both interpretations explain basic neuroscience findings:
 - Brain damage produces specific deficits → damaged filter components distort or block transmission
-- Anesthetics abolish consciousness → disrupted interface prevents consciousness from manifesting
+- Anesthetics alter or abolish consciousness → disrupted interface changes or blocks what consciousness can manifest
 - Neural correlates predict conscious states → interface configuration determines what aspects of consciousness manifest
 
 The difference appears metaphysical rather than empirical. Yet filter theory does organize expectations differently: it predicts that disrupting the brain could sometimes *enhance* experience (when constraints loosen), whereas production models predict only degradation or alteration. The [evidence section below](#evidence-supporting-filter-theory) examines cases where this distinction matters.
@@ -87,13 +88,11 @@ The [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) artic
 
 ### The Anesthetic Divergence
 
-Different anaesthetics can produce identical behavioural outputs—unresponsiveness, amnesia—while generating radically different conscious experiences. Ketamine preserves vivid experience despite behavioral unresponsiveness; propofol eliminates experience entirely. Mashour et al. (2024) demonstrate this neuroimaging: both agents suppress cortical activity, but through different thalamic pathways with different phenomenal consequences.
+Different anaesthetics produce identical behavioural outputs—unresponsiveness, amnesia—while generating radically different conscious experiences. Research now distinguishes at least three consciousness states under anaesthesia: connected consciousness (environmental awareness), disconnected consciousness (vivid internal experience), and unconsciousness. Propofol eliminates experience entirely; ketamine preserves vivid disconnected consciousness; sub-anaesthetic doses narrow awareness without eliminating it.
 
-This divergence is problematic for production models: if consciousness is produced by brain states, similar behavioral suppression should correlate with similar phenomenal suppression. The divergence suggests the brain *mediates* rather than *generates* experience—different anaesthetics disrupt the filter differently, with different consequences for what manifests.
+This divergence is problematic for production models: disrupting neural activity should produce relatively uniform suppression. Instead, different agents produce qualitatively different consciousness profiles depending on which molecular targets they engage—the brain *mediates* rather than *generates* experience. The [full pharmacological analysis](/topics/anaesthesia-and-the-consciousness-interface/) reveals at least four separable interface components that can be independently disrupted.
 
-### Received But Not Perceived
-
-Mashour and Bharioke's 2024 *Neuron* review confirms that sensory information reaches the brain during light sedation but is not perceived. The signal arrives at sensory cortex; the interface blocks transmission—precisely what filter theory predicts.
+Sensory information also reaches the brain during light sedation but is not perceived (Mashour & Bharioke 2024). The signal arrives at sensory cortex; the interface blocks transmission—precisely what filter theory predicts.
 
 ### Hypnagogic Loosening
 
@@ -224,6 +223,7 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 - [the-interface-location-problem](/topics/the-interface-location-problem/) — Where consciousness meets the brain
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy
 - [degrees-of-consciousness](/concepts/degrees-of-consciousness/) — How consciousness varies along multiple dimensions — gradation as interface variation
+- [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Pharmacological dissection of the interface: how different agents reveal separable filter components
 - [loss-of-consciousness](/topics/loss-of-consciousness/) — Anesthesia and covert consciousness
 - [near-death-experiences](/concepts/near-death-experiences/) — Enhanced experience during brain compromise
 - [dream-consciousness](/topics/dream-consciousness/) — Consciousness without sensory input

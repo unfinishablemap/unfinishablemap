@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-12 00:03:00+00:00
+ai_modified: 2026-03-22 17:24:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Why consciousness resists reduction—from Nagel's bridge laws to K
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-25 09:19:00+00:00
+last_deep_review: 2026-03-22 17:24:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -131,7 +131,7 @@ The [Dualism tenet](/tenets/#dualism) asserts that consciousness is not reducibl
 
 The Map accepts *methodological* reductionism: studying neural correlates illuminates the brain-consciousness interface. But ontological and explanatory reductionism fail. No physical theory, however complete, will explain why there is something it is like.
 
-The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet goes further: consciousness isn't merely irreducible but causally efficacious. Kim's exclusion argument doesn't apply because the [causal-closure](/concepts/causal-closure/) of physics fails at quantum indeterminacies—precisely where consciousness operates.
+The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet goes further: consciousness isn't merely irreducible but causally efficacious. Kim's exclusion argument doesn't apply because the [causal-closure](/concepts/causal-closure/) of physics fails at quantum indeterminacies—precisely where [interactionist dualism](/concepts/interactionist-dualism/) claims consciousness operates.
 
 The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses the standard reductionist response: that parsimony favors physicalism. Simplicity is not a reliable guide when knowledge is incomplete. The apparent simplicity of reductionism may reflect ignorance rather than insight.
 

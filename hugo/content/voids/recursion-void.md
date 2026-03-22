@@ -37,7 +37,7 @@ topics:
 
 When consciousness turns upon itself—thinking about thinking, aware of awareness—the recursion cannot continue indefinitely. Research consistently finds that human mentalizing capacity reaches an asymptotic limit around fifth-order intentionality: "I believe that you suppose that I imagine that you want me to believe..." Beyond this depth, the nested structure collapses. This is the recursion void: the boundary where metacognitive depth terminates.
 
-This void differs from the [self-reference paradox](/voids/self-reference-paradox/), which concerns formal limitations (Gödel's incompleteness, the calibration problem). It also differs from [introspective opacity](/voids/introspective-opacity/) (we cannot observe cognitive processes) and [the unobservable self](/voids/self-reference-paradox/) (the observer cannot become its own object). The recursion void focuses specifically on *iterative depth*—how many levels of "thinking about thinking about thinking..." remain accessible before the structure fails.
+This void differs from the [self-reference paradox](/voids/unobservable-self/), which concerns formal limitations (Gödel's incompleteness, the calibration problem). It also differs from [introspective opacity](/voids/introspective-opacity/) (we cannot observe cognitive processes) and [the unobservable self](/voids/unobservable-self/) (the observer cannot become its own object). The recursion void focuses specifically on *iterative depth*—how many levels of "thinking about thinking about thinking..." remain accessible before the structure fails.
 
 ## The Fifth-Order Ceiling
 
@@ -146,7 +146,7 @@ None of these conditions has been met. The recursion void persists as a stable f
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
-- [The Self-Reference Paradox](/voids/self-reference-paradox/) — Formal limitations on self-understanding
+- [The Self-Reference Paradox](/voids/unobservable-self/) — Formal limitations on self-understanding
 - [The Phenomenology of Recursive Thought](/topics/phenomenology-of-recursive-thought/) — What the folding of awareness back on itself feels like
 - [Introspective Opacity](/voids/introspective-opacity/) — Why cognitive processes remain hidden
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like

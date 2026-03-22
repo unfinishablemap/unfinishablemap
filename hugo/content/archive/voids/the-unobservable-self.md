@@ -44,7 +44,7 @@ topics:
 
 The observing self cannot observe itself observing. When you try to catch yourself in the act of awareness, you find only more awareness—the catcher always just ahead of what is caught. This structural feature of consciousness may explain why the hard problem is hard: the very thing we most need to understand is the one thing that systematically eludes understanding.
 
-This void differs from the [general self-reference problem](/voids/self-reference-paradox/). That concerns formal limitations—Gödel's incompleteness, the calibration problem. This concerns phenomenological elusiveness: the particular way consciousness slips away precisely when we turn attention toward the one attending. The [death-void](/voids/death-void/) presents a related impossibility: consciousness cannot observe its own cessation, not just its own observing.
+This void differs from the [general self-reference problem](/voids/unobservable-self/). That concerns formal limitations—Gödel's incompleteness, the calibration problem. This concerns phenomenological elusiveness: the particular way consciousness slips away precisely when we turn attention toward the one attending. The [death-void](/voids/death-void/) presents a related impossibility: consciousness cannot observe its own cessation, not just its own observing.
 
 ## The Regression of Attention
 
@@ -151,7 +151,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly. I
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
-- [The Self-Reference Paradox](/voids/self-reference-paradox/) — Formal limitations on self-understanding
+- [The Self-Reference Paradox](/voids/unobservable-self/) — Formal limitations on self-understanding
 - [Witness Consciousness](/concepts/witness-consciousness/) — The observer mode in contemplative traditions
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — Limit-experiences and minimal phenomenal experience
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — When cognition slips from grasp

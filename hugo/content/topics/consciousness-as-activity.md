@@ -118,7 +118,7 @@ Enactivism is the closest existing tradition to consciousness-as-activity, and t
 
 But enactivism draws a different ontological conclusion. For enactivists, consciousness just *is* the embodied engagement—there is no separate agent performing the activity. De Jaegher, Di Paolo, and Gallagher (2013) make this explicit: the "interaction" in enactivism refers to organism-environment engagement, not to causal commerce between a non-physical mind and a physical body. The activity framing defended here parts company on precisely this point. Activities require agents. Dancing is not self-performing; someone dances. The agent-dependence commitment (see the section on [what activity means](#what-activity-means-here)) insists that conscious activity is *performed by* a subject, not identical to organism-environment coupling. Enactivism's own phenomenological commitment—treating experience as irreducible data—implicitly supports this: irreducible experience is experience *for someone*. The [full engagement with enactivism's challenge](/topics/enactivism-challenge-to-interactionist-dualism/) explores how enactivism's dissolution strategy ultimately cannot close the [explanatory gap](/concepts/explanatory-gap/) it claims to have dissolved.
 
-**Skilled performance.** [Research on expertise](/topics/consciousness-and-skilled-performance/) reveals consciousness as an architect of skilled activity. Consciousness trains procedural systems, delegates to them, and painfully re-engages when skills break down. This dynamic of building, delegating, and reclaiming control is activity through and through.
+**Skilled performance.** [Research on expertise](/topics/consciousness-and-skill-acquisition/) reveals consciousness as an architect of skilled activity. Consciousness trains procedural systems, delegates to them, and painfully re-engages when skills break down. This dynamic of building, delegating, and reclaiming control is activity through and through.
 
 **Neural dynamics.** Neuroscience increasingly describes consciousness in terms of dynamic patterns—oscillations, travelling waves, recurrent loops—rather than static activations. Dehaene and Changeux's (2011) global neuronal workspace theory characterises conscious access as a dynamic ignition event—a surge of coordinated neural activity, not a property of any brain region. The neural correlates of consciousness look more like dances than like paintings.
 
@@ -143,7 +143,7 @@ The activity framing strengthens the Map's framework at every point.
 - [william-james-consciousness](/topics/william-james-consciousness/) — The stream, attention, and consciousness as doing
 - [agent-causation](/concepts/agent-causation/) — The agent as performer of conscious activity
 - [mental-causation](/concepts/mental-causation/) — Why activities are inherently causal
-- [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/) — Consciousness as architect of skilled action
+- [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/) — Consciousness as architect of skilled action
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — Temporal binding as ongoing activity
 - [process-and-consciousness](/apex/process-and-consciousness/) — Apex synthesis connecting process philosophy to the Map's tenets
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — Enactivist approaches to conscious activity

@@ -110,7 +110,7 @@ For the [simulation hypothesis](/concepts/simulation/), phenomenal transparency 
 - [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/) — What happens when transparency breaks down, and why some self-knowledge may be structurally inaccessible
 - [intentionality-void](/voids/intentionality-void/) — Transparency applied to the aboutness of thought
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The question of what matter is in itself, hidden behind transparent perception
-- [self-reference-paradox](/voids/self-reference-paradox/) — The structural impossibility of observing the observer
+- [self-reference-paradox](/voids/unobservable-self/) — The structural impossibility of observing the observer
 - [introspection](/concepts/introspection/) — The reliability and limits of first-person access
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The broader category that transparency shapes
 - [introspective-opacity](/voids/introspective-opacity/) — The structural limit where process access fails

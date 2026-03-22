@@ -59,7 +59,7 @@ Standard accounts of attention treat it as a spatial or object-based filter: att
 
 **Anxious waiting** stretches duration. Ten minutes in a dentist's chair feels interminable. Here attention monitors time itself, and each moment thins out—less content, more bare awareness of passage. The present empties precisely because attention fills it with expectation rather than engagement.
 
-**[Flow states](/topics/consciousness-and-skilled-performance/)** dissolve temporal boundaries altogether. Experienced duration loses its metric quality. Csikszentmihalyi's experience-sampling research found this pattern repeatedly: people in flow report being unable to estimate how much time has passed. The Map interprets this not as mere inattention to a clock but as a restructuring of the present so thorough that metric comparison becomes impossible—attention has reshaped temporal experience rather than simply failing to monitor it.
+**[Flow states](/topics/consciousness-and-skill-acquisition/)** dissolve temporal boundaries altogether. Experienced duration loses its metric quality. Csikszentmihalyi's experience-sampling research found this pattern repeatedly: people in flow report being unable to estimate how much time has passed. The Map interprets this not as mere inattention to a clock but as a restructuring of the present so thorough that metric comparison becomes impossible—attention has reshaped temporal experience rather than simply failing to monitor it.
 
 These are not failures of time estimation but different modes of temporal experience produced by different configurations of attention. The physical world ticks on at one second per second. What changes is the phenomenal structure of the present.
 
@@ -179,7 +179,7 @@ The phenomenology of temporal consciousness and agency aligns with the Map's [te
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/)
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces temporal asymmetry
-- [phenomenology of flow states](/topics/consciousness-and-skilled-performance/)
+- [phenomenology of flow states](/topics/consciousness-and-skill-acquisition/)
 - [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/)
 - [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/)
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)

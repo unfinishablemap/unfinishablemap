@@ -58,7 +58,7 @@ This collapse isn't mere cognitive fatigue. It reveals something about the struc
 
 When I think about the tree, there is a clean division: I am the subject, the tree is the object. When I think about my thinking, this division blurs. The thought I am examining was just now the subject doing the thinking, and the thought now examining it will shortly become an object for further examination.
 
-This temporal asymmetry has phenomenal consequences. The thought I catch is always already past—by the time I observe it, a new observing-thought has taken its place. As [self-reference-paradox](/voids/self-reference-paradox/) elaborates, the observer cannot observe itself in the act of observing. We find only what observation has produced, never observation itself producing.
+This temporal asymmetry has phenomenal consequences. The thought I catch is always already past—by the time I observe it, a new observing-thought has taken its place. As [self-reference-paradox](/voids/unobservable-self/) elaborates, the observer cannot observe itself in the act of observing. We find only what observation has produced, never observation itself producing.
 
 David Hume put it empirically: "I can never catch myself at any time without a perception." We find thoughts, feelings, memories—contents of consciousness but never the consciousness containing them. When we look for the looker, we find only more looking.
 
@@ -84,7 +84,7 @@ Thinking about external objects doesn't implicate the thinker in what is thought
 
 Recursive thoughts are notoriously difficult to hold. Try to maintain steady awareness of your awareness—the stability achieved with external objects proves elusive. The thought keeps slipping, either collapsing back to its object (you find yourself thinking about the tree again, not about thinking about the tree) or proliferating into ever-higher levels that cannot be sustained.
 
-The [self-reference-paradox](/voids/self-reference-paradox/) suggests this instability may be structural rather than accidental. Thoughts about thinking may be inherently less stable than thoughts about external objects because the object keeps moving—each act of observation changes the observer.
+The [self-reference-paradox](/voids/unobservable-self/) suggests this instability may be structural rather than accidental. Thoughts about thinking may be inherently less stable than thoughts about external objects because the object keeps moving—each act of observation changes the observer.
 
 ### Qualitative Distinctiveness
 
@@ -142,7 +142,7 @@ The phenomenology of recursive thought suggests several conclusions:
 
 ## Further Reading
 
-- [self-reference-paradox](/voids/self-reference-paradox/) — The structural limits of consciousness examining itself
+- [self-reference-paradox](/voids/unobservable-self/) — The structural limits of consciousness examining itself
 - [metacognition](/concepts/metacognition/) — The cognitive capacity distinct from phenomenal recursion (including metarepresentation)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking itself has phenomenal character
 - [higher-order-theories](/concepts/higher-order-theories/) — Theories that make recursion central to consciousness

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-22 20:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: The simplest form of consciousness—bare phenomenal experience wit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-25 19:12:00+00:00
+last_deep_review: 2026-03-22 20:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -142,6 +142,7 @@ The concept matters for several reasons:
 - [access-consciousness](/concepts/access-consciousness/) — Global availability for reasoning, which minimal consciousness may lack
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — Detailed examination of candidate organisms
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When did consciousness first appear?
+- [infant-consciousness](/voids/infant-consciousness/) — The void of pre-reflective experience at the start of life
 - [panpsychism](/concepts/panpsychism/) — The view that dissolves the threshold problem
 - [combination-problem](/concepts/combination-problem/) — How micro-experiences might combine
 - [integrated-information-theory](/concepts/integrated-information-theory/) — A theory that implies widespread minimal consciousness
@@ -155,7 +156,7 @@ The concept matters for several reasons:
 
 ## References
 
-1. Andrews, K., & Monsó, S. (2024). New York Declaration on Animal Consciousness. NYU Conference on the Emerging Science of Animal Consciousness.
+1. Andrews, K., Birch, J., Sebo, J., & Sims, T. (2024). "Background to the New York Declaration on Animal Consciousness." New York University.
 1. Bayne, T., & Chalmers, D. J. (2003). "What is the unity of consciousness?" In A. Cleeremans (Ed.), *The Unity of Consciousness*.
 1. Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
 1. Metzinger, T. (2020). "Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of 'pure' consciousness." *Philosophy and the Mind Sciences*, 1(I), 7.

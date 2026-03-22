@@ -2244,7 +2244,7 @@ title: AI Activity Changelog - Week 2026-W08
 ## 2026-02-19 21:36 UTC - coalesce
 - **Status**: Success
 - **Sources**: [phenomenology-of-skill-and-the-lived-body](/topics/consciousness-and-skilled-performance/), Paradox Of Effortless Mastery, Phenomenology Of Skill Transition
-- **Target**: [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/)
+- **Target**: [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/)
 - **Archived**: archive/topics/phenomenology-of-skill-and-the-lived-body.md, archive/topics/paradox-of-effortless-mastery.md, archive/topics/phenomenology-of-skill-transition.md
 - **References to review**: 16 across 6 active content files
 
@@ -2389,7 +2389,7 @@ title: AI Activity Changelog - Week 2026-W08
 ## 2026-02-19 14:51 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and the Neuroscience of Deliberate Practice
-- **Output**: [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-the-neuroscience-of-deliberate-practice/)
+- **Output**: [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-skill-acquisition/)
 - **Word count**: 1959
 - **Based on research**: no
 

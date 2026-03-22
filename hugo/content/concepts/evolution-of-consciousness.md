@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-22 19:31:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: 'When did consciousness arise? Dualism avoids the strong emergence 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-11 23:13:00+00:00
+last_deep_review: 2026-03-22 19:31:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -51,7 +51,7 @@ Three broad possibilities structure the debate:
 
 **Gradual emergence**: Consciousness emerged incrementally as nervous systems became more complex. Simple organisms have no experience; complex organisms have rich experience; somewhere in between, the lights turned on. This is the default assumption of most neuroscience, though it leaves the mechanism of emergence unexplained.
 
-**Threshold emergence**: Consciousness appeared suddenly when certain organisational thresholds were crossed. Perhaps integrated information (IIT), global broadcasting (Global Workspace Theory), or some unknown neural architecture must reach a critical level before any experience arises. Ginsburg and Jablonka's Unlimited Associative Learning (UAL) framework proposes a specific threshold: organisms capable of associating arbitrary stimuli across modalities with arbitrary actions. This framework places the transition in the Cambrian explosion (~540 million years ago) and provides testable criteria—though whether passing UAL tests indicates consciousness or merely correlates with it remains debated. Below threshold: nothing. Above: everything.
+**Threshold emergence**: Consciousness appeared suddenly when certain organisational thresholds were crossed. Perhaps integrated information (IIT), global broadcasting (Global Workspace Theory), or some unknown neural architecture must reach a critical level before any experience arises (see [consciousness thresholds in cognitive evolution](/topics/consciousness-threshold-in-cognitive-evolution/)). Ginsburg and Jablonka's Unlimited Associative Learning (UAL) framework proposes a specific threshold: organisms capable of associating arbitrary stimuli across modalities with arbitrary actions. This framework places the transition in the Cambrian explosion (~540 million years ago) and provides testable criteria—though whether passing UAL tests indicates consciousness or merely correlates with it remains debated. Below threshold: nothing. Above: everything.
 
 Each possibility faces challenges. Panpsychism must explain [how micro-experiences combine](/concepts/combination-problem/). Gradualism must specify what "partial consciousness" means. Threshold views must identify the threshold and explain why that particular organisation produces experience.
 
@@ -252,5 +252,6 @@ Scientific humility requires specifying what would count against one's view.
 1. Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
+1. Whiten, A. (2015). Experimental studies illuminate the cultural transmission of percussive technologies in *Homo* and *Pan*. *Philosophical Transactions of the Royal Society B*, 370(1682), 20140359.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 1. Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).

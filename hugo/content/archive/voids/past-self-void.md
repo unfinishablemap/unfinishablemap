@@ -53,7 +53,7 @@ The past-self void bridges four existing voids:
 
 **[The temporal asymmetry](/voids/temporal-void/)**: We can re-experience the past (or seem to) but only imagine the future. Yet even re-experiencing is construction, not access. The "pastness quale" marks something as having happened, but the marked content is reconstructed, not retrieved.
 
-**[The self-reference paradox](/voids/self-reference-paradox/)**: Consciousness examining itself faces structural obstacles. The past-self void adds a temporal dimension: the examined self no longer exists to examine.
+**[The self-reference paradox](/voids/unobservable-self/)**: Consciousness examining itself faces structural obstacles. The past-self void adds a temporal dimension: the examined self no longer exists to examine.
 
 **[The historical consciousness void](/voids/historical-consciousness-void/)**: The same structural inaccessibility scales beyond individual lifetimes. If consciousness itself has changed over historical time—as Jaynes, Snell, and Barfield argue—then entire past *forms* of consciousness are inaccessible for the same reason past selves are: the experiencing subject no longer exists to be accessed. What Barfield called *logomorphism*—the fallacy of projecting our own mode of awareness onto the past—parallels how memory confidence masks this void at the individual level.
 
@@ -163,7 +163,7 @@ None of these conditions has been met. Memory is construction, not retrieval, an
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The self-knowing awareness that enables "mental time travel"
 - [personal-identity](/topics/personal-identity/) — What makes you the same person over time
 - [the-unobservable-self](/voids/self-reference-paradox/) — The present self is also elusive
-- [self-reference-paradox](/voids/self-reference-paradox/) — Structural limits on self-understanding
+- [self-reference-paradox](/voids/unobservable-self/) — Structural limits on self-understanding
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — Related phenomenology of cognitive limitation
 
 ## References

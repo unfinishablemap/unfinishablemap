@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-19
-**Article**: [Consciousness and the Neuroscience of Deliberate Practice](/topics/consciousness-and-the-neuroscience-of-deliberate-practice/)
+**Article**: [Consciousness and the Neuroscience of Deliberate Practice](/topics/consciousness-and-skill-acquisition/)
 **Previous review**: [2026-02-22](/reviews/deep-review-2026-02-22-consciousness-and-the-neuroscience-of-deliberate-practice/)
 
 ## Pessimistic Analysis Summary

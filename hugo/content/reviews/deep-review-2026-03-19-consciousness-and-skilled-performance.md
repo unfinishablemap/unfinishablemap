@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-19
-**Article**: [Consciousness and Skilled Performance](/topics/consciousness-and-skilled-performance/)
+**Article**: [Consciousness and Skilled Performance](/topics/consciousness-and-skill-acquisition/)
 **Previous review**: [2026-02-22](/reviews/deep-review-2026-02-22-consciousness-and-skilled-performance/)
 
 ## Pessimistic Analysis Summary

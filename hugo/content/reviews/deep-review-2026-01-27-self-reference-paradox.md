@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-27
-**Article**: [The Self-Reference Paradox](/voids/self-reference-paradox/)
+**Article**: [The Self-Reference Paradox](/voids/unobservable-self/)
 **Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-self-reference-paradox/)
 
 ## Cross-Review Context

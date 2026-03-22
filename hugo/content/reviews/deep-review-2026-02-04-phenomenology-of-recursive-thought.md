@@ -65,7 +65,7 @@ Added inbound links from 7 related articles:
 
 6. **[the-unobservable-self](/voids/self-reference-paradox/)** — Added link in "The Regression of Attention" section, referencing the level mapping and collapse phenomenon
 
-7. **[self-reference-paradox](/voids/self-reference-paradox/)** — Added link in "Strange Loops" section, connecting Hofstadter's strange loop concept to the phenomenology of recursive instability
+7. **[self-reference-paradox](/voids/unobservable-self/)** — Added link in "Strange Loops" section, connecting Hofstadter's strange loop concept to the phenomenology of recursive instability
 
 ## Remaining Items
 

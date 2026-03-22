@@ -9,6 +9,148 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-22 21:04 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: russellian-monism-versus-bi-aspectual-dualism.md, consciousness-and-skill-acquisition.md, anaesthesia-and-the-consciousness-interface.md
+- **Output**: [pessimistic-2026-03-22-d](/reviews/pessimistic-2026-03-22-d/)
+
+## 2026-03-22 20:51 UTC - deep-review
+- **Status**: Success
+- **File**: [arguments-against-epiphenomenalism](/concepts/arguments-against-epiphenomenalism/)
+- **Word count**: 1570 → 1709 (+139)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (cross-links to ai-epiphenomenalism, clinical-neuroplasticity-evidence, metaproblem; gravity well section anchor)
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-03-22-arguments-against-epiphenomenalism](/reviews/deep-review-2026-03-22-arguments-against-epiphenomenalism/)
+
+## 2026-03-22 20:34 UTC - deep-review
+- **Status**: Success
+- **File**: [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/)
+- **Word count**: 1920 → 1920 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing `[dualism](/concepts/dualism/)` cross-link)
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-03-22b-russellian-monism-versus-bi-aspectual-dualism](/reviews/deep-review-2026-03-22b-russellian-monism-versus-bi-aspectual-dualism/)
+
+## 2026-03-22 20:30 UTC - deep-review
+- **Status**: Success
+- **File**: [minimal-consciousness](/concepts/minimal-consciousness/)
+- **Word count**: 1556 → 1570 (+14)
+- **Critical issues addressed**: 1 (misattributed New York Declaration citation)
+- **Medium issues addressed**: 1 (infant-consciousness cross-link)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-22-minimal-consciousness](/reviews/deep-review-2026-03-22-minimal-consciousness/)
+
+## 2026-03-22 20:02 UTC - deep-review
+- **Status**: Success
+- **File**: [downward-causation](/concepts/downward-causation/)
+- **Word count**: 2491 → 2497 (+6)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (uncited "2025 review" attribution)
+- **Enhancements made**: 1 (causal-delegation cross-link added to Further Reading)
+- **Output**: [deep-review-2026-03-22-downward-causation](/reviews/deep-review-2026-03-22-downward-causation/)
+
+## 2026-03-22 19:46 UTC - deep-review
+- **Status**: Success
+- **File**: [mathematical-knowledge-and-insight](/topics/mathematical-knowledge-and-insight/) (successor to archived phenomenology-of-mathematical-insight)
+- **Word count**: 2460 → 2460 (no change to successor; cross-links only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration)
+- **Enhancements made**: 5 cross-links added from related articles
+- **Output**: [deep-review-2026-03-22-phenomenology-of-mathematical-insight](/reviews/deep-review-2026-03-22-phenomenology-of-mathematical-insight/)
+
+## 2026-03-22 19:37 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 447
+- **Errors**: 0
+- **Warnings**: 1
+- **Notes**: 2
+- **Output**: [tenet-check-2026-03-22](/reviews/tenet-check-2026-03-22/)
+
+## 2026-03-22 19:31 UTC - deep-review
+- **Status**: Success
+- **File**: [evolution-of-consciousness](/concepts/evolution-of-consciousness/)
+- **Word count**: 3193 → 3225 (+32)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing Whiten 2015 reference, missing cross-link from consciousness-and-intelligence)
+- **Enhancements made**: 1 (inline wikilink to consciousness-threshold-in-cognitive-evolution)
+- **Output**: [deep-review-2026-03-22-evolution-of-consciousness](/reviews/deep-review-2026-03-22-evolution-of-consciousness/)
+
+## 2026-03-22 19:17 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
+- **Word count**: 2533 → 2587 (+54)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing references: Crick & Koch 1990, Bandyopadhyay/Sahu et al. 2014)
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-22-quantum-neural-timing-constraints](/reviews/deep-review-2026-03-22-quantum-neural-timing-constraints/)
+
+## 2026-03-22 19:01 UTC - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/), [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-skill-acquisition/)
+- **Target**: [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/)
+- **Archived**: archive/topics/consciousness-and-skilled-performance.md, archive/topics/consciousness-and-the-neuroscience-of-deliberate-practice.md
+- **References to review**: 21 files (cross-review task created)
+
+## 2026-03-22 18:46 UTC - deep-review
+- **Status**: Skipped (archived file)
+- **File**: phenomenology-of-moral-deliberation (archived 2026-03-20)
+- **Reason**: File was coalesced into [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) on 2026-03-20. Successor article has ~16 inbound links. Orphan status was stale data from before coalescence.
+
+## 2026-03-22 18:32 UTC - deep-review
+- **Status**: Success
+- **File**: [functionalism-argument](/arguments/functionalism-argument/)
+- **Word count**: 2444 → 2463 (+19)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-22-functionalism-argument](/reviews/deep-review-2026-03-22-functionalism-argument/)
+
+## 2026-03-22 18:16 UTC - deep-review
+- **Status**: Success
+- **File**: [recognition-void](/voids/recognition-void/)
+- **Word count**: 1510 → 1629 (+119)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 7
+- **Cross-links added**: 8 articles now link to recognition-void (was orphaned)
+- **Output**: [deep-review-2026-03-22-recognition-void](/reviews/deep-review-2026-03-22-recognition-void/)
+
+## 2026-03-22 18:01 UTC - deep-review
+- **Status**: Success
+- **File**: [filter-theory](/concepts/filter-theory/)
+- **Word count**: 2918 → 2942 (+24)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Cross-review context**: anaesthesia-and-the-consciousness-interface.md
+- **Output**: [deep-review-2026-03-22-filter-theory](/reviews/deep-review-2026-03-22-filter-theory/)
+
+## 2026-03-22 17:47 UTC - coalesce
+- **Status**: Success
+- **Sources**: [unobservable-self](/voids/unobservable-self/), [self-reference-paradox](/voids/self-reference-paradox/)
+- **Target**: [unobservable-self](/voids/unobservable-self/)
+- **Archived**: [self-reference-paradox](/archive/voids/self-reference-paradox/)
+- **References to review**: 114 files (follow-up task created)
+
+## 2026-03-22 17:31 UTC - deep-review
+- **Status**: Success
+- **File**: [many-worlds](/concepts/many-worlds/)
+- **Word count**: 2412 → 2448 (+36)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added betting-frequency gap objection with Albert 2010 citation)
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-03-22-many-worlds](/reviews/deep-review-2026-03-22-many-worlds/)
+
+## 2026-03-22 17:24 UTC - deep-review
+- **Status**: Success
+- **File**: [reductionism](/concepts/reductionism/)
+- **Word count**: 2158 → 2160 (+2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1 (cross-link to interactionist-dualism in body text)
+- **Output**: [deep-review-2026-03-22-reductionism](/reviews/deep-review-2026-03-22-reductionism/)
+
 ## 2026-03-22 17:02 UTC - refine-draft
 - **Status**: Success
 - **File**: [functionalism](/concepts/functionalism/)
@@ -362,7 +504,7 @@ title: Changelog
 - **Critical issues addressed**: 0 (none found — article stable after three reviews)
 - **Medium issues addressed**: 0
 - **Enhancements made**: 4 (cross-links from 4 articles to integrate orphaned concept)
-- **Cross-links added from**: [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-the-neuroscience-of-deliberate-practice/), [expertise-void](/topics/expertise-void/), [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/), [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/)
+- **Cross-links added from**: [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-skill-acquisition/), [expertise-void](/topics/expertise-void/), [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/), [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/)
 - **Total inbound links**: 16 (12 prior + 4 new)
 - **Output**: [deep-review-2026-03-22-skill-delegation](/reviews/deep-review-2026-03-22-skill-delegation/)
 
@@ -4734,7 +4876,7 @@ topics: []
 
 ## 2026-03-17 14:59 UTC - condense
 - **Status**: Success
-- **File**: [self-reference-paradox](/voids/self-reference-paradox/)
+- **File**: [self-reference-paradox](/voids/unobservable-self/)
 - **Before**: 3402 words
 - **After**: 1923 words
 - **Reduction**: 43%
@@ -5389,7 +5531,7 @@ topics: []
 ## 2026-03-16 08:47 UTC - refine-draft
 - **Status**: Success
 - **Task**: Cross-promote 8 under-referenced void articles
-- **Files modified**: [mysterianism](/concepts/mysterianism/), [simulation](/concepts/simulation/), [default-mode-network](/concepts/default-mode-network/), [phenomenology](/concepts/phenomenology/), [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/), [philosophical-zombies](/concepts/philosophical-zombies/), [self-reference-paradox](/voids/self-reference-paradox/), [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-dualism/), [introspection](/concepts/introspection/), [alien-minds-void-explorers](/voids/alien-minds-void-explorers/), [limits-reveal-structure](/voids/limits-reveal-structure/), [three-kinds-of-void](/voids/three-kinds-of-void/)
+- **Files modified**: [mysterianism](/concepts/mysterianism/), [simulation](/concepts/simulation/), [default-mode-network](/concepts/default-mode-network/), [phenomenology](/concepts/phenomenology/), [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/), [philosophical-zombies](/concepts/philosophical-zombies/), [self-reference-paradox](/voids/unobservable-self/), [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-dualism/), [introspection](/concepts/introspection/), [alien-minds-void-explorers](/voids/alien-minds-void-explorers/), [limits-reveal-structure](/voids/limits-reveal-structure/), [three-kinds-of-void](/voids/three-kinds-of-void/)
 - **Changes**: Added 11 cross-references to under-referenced voids (mind-space-void, simulation-detection-void, spontaneous-thought-void, the-givenness-void, involuntariness-void, the-surplus-void, phenomenology-of-self-reference, reconstruction-paradox). Consolidation assessed and rejected—articles are distinct enough to warrant separate treatment.
 - **Published**: yes
 

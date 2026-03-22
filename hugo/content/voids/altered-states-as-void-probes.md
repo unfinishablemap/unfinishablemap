@@ -69,7 +69,7 @@ ASCs produce characteristic phenomenological signatures:
 
 **Ineffability with noesis.** William James identified this paradox: conviction of knowledge combined with inability to articulate it. Not mere confusion—ineffability paired with strong sense of insight. This might mark genuine encounter with content that exceeds linguistic capacity, or it might mark the breakdown of the conceptual machinery we need for articulation.
 
-**Ego dissolution.** Self-boundaries weaken or vanish. The usual sense of being a subject having experiences dissolves. This connects to [the unobservable self void](/voids/self-reference-paradox/)—the systematic failure to find the observer. ASCs may make this limit phenomenologically vivid without transcending it.
+**Ego dissolution.** Self-boundaries weaken or vanish. The usual sense of being a subject having experiences dissolves. This connects to [the unobservable self void](/voids/unobservable-self/)—the systematic failure to find the observer. ASCs may make this limit phenomenologically vivid without transcending it.
 
 **Unity experience.** Subject-object distinction collapses. This might be access to a deeper layer where separation hasn't been constructed, or it might be what happens when the categorizing mind stops dividing—not positive unity but absence of division.
 

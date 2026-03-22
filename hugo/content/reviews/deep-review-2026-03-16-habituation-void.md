@@ -27,7 +27,7 @@ topics: []
 
 ### Medium Issues Found
 - **Husserl/Heidegger conflation**: "walking along, or hammering a nail, or speaking our native tongue" was attributed to "Edmund Husserl's phenomenology" but the hammering example is quintessentially Heideggerian (Being and Time §15-16). No specific Husserl work was cited. → Reattributed to Heidegger with proper "withdrawal" terminology; removed the misleading Husserl attribution.
-- **Missing cross-links**: Predictive processing counterargument discussed without linking to [predictive-processing](/concepts/predictive-processing/); automaticity/mastery theme not linked to [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/). → Both links added.
+- **Missing cross-links**: Predictive processing counterargument discussed without linking to [predictive-processing](/concepts/predictive-processing/); automaticity/mastery theme not linked to [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/). → Both links added.
 
 ### Counterarguments Considered
 - **Predictive processing account**: Already addressed in previous review (2026-02-03). Response remains strong: conflating information quantity with phenomenal presence. No changes needed.
@@ -48,14 +48,14 @@ topics: []
 - Replaced fabricated quote with authentic Shklovsky passage
 - Fixed Husserl→Heidegger attribution with proper "withdrawal" terminology
 - Added [predictive-processing](/concepts/predictive-processing/) cross-link in Relation to Site Perspective
-- Added [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/) cross-link in existential habituation section
+- Added [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/) cross-link in existential habituation section
 - Tightened "transparency of the familiar" paragraph to avoid Heidegger redundancy after reattribution
 - Added predictive-processing to frontmatter concepts
 - Added consciousness-and-skilled-performance to frontmatter related_articles
 
 ### Cross-links Added
 - [predictive-processing](/concepts/predictive-processing/) (inline in Dualism tenet section)
-- [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/) (parenthetical in existential habituation)
+- [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/) (parenthetical in existential habituation)
 
 ## Remaining Items
 

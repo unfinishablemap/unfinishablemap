@@ -1,12 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-03-22 02:11:00+00:00
+ai_modified: 2026-03-22 20:34:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[russellian-monism]]'
 - '[[bi-aspectual-ontology]]'
+- '[[dualism]]'
 - '[[interactionist-dualism]]'
 - '[[panpsychism]]'
 - '[[combination-problem]]'
@@ -21,7 +22,7 @@ description: Two frameworks agree physics is structurally incomplete, then diver
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-22 02:11:00+00:00
+last_deep_review: 2026-03-22 20:34:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -64,7 +65,7 @@ The Map avoids both problems. Individual conscious subjects are fundamental — 
 
 Cutter (2019) argues that Russellian monism is not a stable resting place between physicalism and dualism. The epistemic arguments that motivate rejecting physicalism — the conceivability of [zombies](/concepts/philosophical-zombies/), the [knowledge argument](/concepts/knowledge-argument/) — apply equally to Russellian monism. If structural-functional duplicates could lack consciousness (against physicalism), then quiddity-structural duplicates could also lack consciousness (against Russellian monism). Kind (2015) reaches a parallel conclusion through different reasoning: non-physicalist variants of Russellian monism collapse into dualism, while physicalist variants collapse into standard physicalism. The programme does not break free of the divide it claims to transcend.
 
-"Russellian monism does not offer a comfortable resting place — one must turn back or else march on to dualism" (Cutter 2019). The Map has marched on.
+"Russellian monism does not offer a comfortable resting place — one must turn back or else march on to [dualism](/concepts/dualism/)" (Cutter 2019). The Map has marched on.
 
 ### The Epiphenomenalism Return
 

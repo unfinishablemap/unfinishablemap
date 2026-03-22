@@ -132,7 +132,7 @@ The evidence currently points toward the appetitive void as genuine. The converg
 - [affective-void](/voids/affective-void/) — Emotions beyond human reach
 - [defended-territory](/voids/defended-territory/) — Whether some thoughts are actively blocked
 - [introspective-opacity](/voids/introspective-opacity/) — Inaccessibility of cognitive processes
-- [self-reference-paradox](/voids/self-reference-paradox/) — Where consciousness cannot map because it is the mapper
+- [self-reference-paradox](/voids/unobservable-self/) — Where consciousness cannot map because it is the mapper
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — Knowledge before and beyond concepts
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
 

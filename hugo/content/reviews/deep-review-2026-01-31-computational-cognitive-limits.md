@@ -75,7 +75,7 @@ No misattribution issues found.
 
 ### Cross-links Added
 
-- Strengthened connection to [self-reference-paradox](/voids/self-reference-paradox/) with Hofstadter context
+- Strengthened connection to [self-reference-paradox](/voids/unobservable-self/) with Hofstadter context
 
 ## Remaining Items
 

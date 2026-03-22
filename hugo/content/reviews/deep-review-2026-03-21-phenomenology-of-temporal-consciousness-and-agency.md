@@ -62,7 +62,7 @@ Updated references in 11 files (frontmatter + body wikilinks):
 - [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/)
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/)
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
-- [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/)
+- [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/)
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
 - [bergson-and-duration](/topics/bergson-and-duration/)
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)

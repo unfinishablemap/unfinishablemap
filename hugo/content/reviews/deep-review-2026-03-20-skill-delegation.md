@@ -50,7 +50,7 @@ topics: []
 
 ### Cross-links Added (Primary Focus)
 Inbound links added from 6 articles to resolve orphan status:
-- [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/) — inline link at delegation discussion + Further Reading
+- [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/) — inline link at delegation discussion + Further Reading
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — inline link at override capacity discussion + Further Reading
 - [implicit-memory](/concepts/implicit-memory/) — inline link at body memory delegation discussion + Further Reading
 - [agent-causation](/concepts/agent-causation/) — inline link at "Skill Delegation and the Interface" section + Further Reading

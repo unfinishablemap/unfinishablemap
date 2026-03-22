@@ -149,14 +149,14 @@ The claim that cognitive capacity phenomenology is irreducible would face diffic
 
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — The effort of reasoning itself, complementing the capacity constraints explored here
 - [skill-delegation](/concepts/skill-delegation/) — The three-phase delegation pattern underlying the withdrawal phenomenology described here
-- [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/) — How consciousness participates in skilled action, including the opposite experiential pole of effortless flow
+- [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/) — How consciousness participates in skilled action, including the opposite experiential pole of effortless flow
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — When conscious re-entry disrupts automated performance
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) — What it is like to redirect cognitive resources after distraction
 - [working-memory](/concepts/working-memory/) — The cognitive architecture that capacity phenomenology reveals from inside
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking has phenomenal character independent of sensory accompaniments
 - [mental-effort](/concepts/mental-effort/) — Attentional effort and the quantum Zeno mechanism
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the bandwidth-limited bridge between consciousness and neural systems
-- [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-the-neuroscience-of-deliberate-practice/) — How deliberate practice reflects conscious causal contribution
+- [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-skill-acquisition/) — How deliberate practice reflects conscious causal contribution
 - [habituation-void](/voids/habituation-void/) — Where habituated experience meets the unchartable
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — Why the interface has the bandwidth it does
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Tulving's hierarchy including anoetic consciousness, the residual awareness in automatised skills

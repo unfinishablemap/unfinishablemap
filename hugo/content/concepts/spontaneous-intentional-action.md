@@ -96,7 +96,7 @@ The [luck objection](/concepts/agent-causation/#luck-objection) to libertarian f
 
 ## Spontaneity and Creativity
 
-Spontaneous intentional action is closely linked to [creative generation](/concepts/consciousness-and-creativity/) and [flow states](/topics/consciousness-and-skilled-performance/). In creative work, the most valued moments are often those where the right idea arrives without being sought—the phrase that writes itself, the brush stroke that finds its own path, the solution that appears in the shower. These are spontaneous intentional actions in the cognitive domain: novel, contextually appropriate, owned, and undeliberated.
+Spontaneous intentional action is closely linked to [creative generation](/concepts/consciousness-and-creativity/) and [flow states](/topics/consciousness-and-skill-acquisition/). In creative work, the most valued moments are often those where the right idea arrives without being sought—the phrase that writes itself, the brush stroke that finds its own path, the solution that appears in the shower. These are spontaneous intentional actions in the cognitive domain: novel, contextually appropriate, owned, and undeliberated.
 
 Bergson's account of [durée](/concepts/temporal-consciousness/) illuminates why. In lived duration, the whole of one's accumulated experience interpenetrates with the present moment. Spontaneous action draws on this entire depth without needing to make it explicit. The musician's improvisation expresses years of training, emotional memory, and situational sensitivity in a single gesture. The action is intelligent because it is *deep*—rooted in the full thickness of lived experience—even though its surface is instantaneous.
 
@@ -153,7 +153,7 @@ The account of spontaneous intentional action offered here would face difficulty
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's lived time and the depth behind spontaneous action
 - [volitional opacity](/voids/introspective-opacity/) — Why the mechanism of spontaneous initiation is hidden
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — Why spontaneous actions often feel more genuinely ours
-- [phenomenology of flow states](/topics/consciousness-and-skilled-performance/) — Flow as effortless, absorbed action—a neighbouring category
+- [phenomenology of flow states](/topics/consciousness-and-skill-acquisition/) — Flow as effortless, absorbed action—a neighbouring category
 - [interface-friction](/concepts/interface-friction/) — Why some conscious selections require effort and others do not
 - [libet-experiments](/concepts/libet-experiments/) — Neuroscientific challenges to conscious initiation of action
 - [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/) — How diverse traditions model agency, including *wu wei*

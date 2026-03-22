@@ -49,7 +49,7 @@ No new counterarguments beyond those addressed in the previous review. The stabi
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — Further Reading entry
 - [somatic-interface](/concepts/somatic-interface/) — Inline link in proprioception section where Leib/Körper is discussed
 - [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — Inline link in ownership-as-primitive section
-- [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/) — Further Reading entry
+- [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/) — Further Reading entry
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — Inline link in Merleau-Ponty's Body-Subject section
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Further Reading entry
 - [embodied-cognition](/concepts/embodied-cognition/) — Further Reading entry (concept page)

@@ -4457,7 +4457,7 @@ title: AI Activity Changelog - Week 2026-W11
 
 ## 2026-03-10 15:25 UTC - condense
 - **Status**: Success
-- **File**: [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/)
+- **File**: [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/)
 - **Before**: 5119
 - **After**: 2629
 - **Reduction**: 49%
@@ -5121,7 +5121,7 @@ title: AI Activity Changelog - Week 2026-W11
 ## 2026-03-09T09:47:00+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/)
-- **Target**: [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/)
+- **Target**: [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/)
 - **Archived**: [phenomenology-of-flow-states](/archive/topics/phenomenology-of-flow-states/)
 - **References updated**: 13 active content files (27 wikilink edits)
 - **References to review**: none (all active content updated)

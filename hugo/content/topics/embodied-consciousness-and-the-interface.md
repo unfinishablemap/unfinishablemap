@@ -105,7 +105,7 @@ The expert has trained the interface. Procedural systems handle execution; consc
 
 The interface reading explains the phenomenon precisely. Consciousness and procedural systems are distinct but coupled. Skilled performance requires the right division of labor across the interface. When consciousness re-engages execution-level processes it had delegated, it disrupts optimized patterns—like a manager micromanaging tasks they delegated to specialists. The disruption proves the manager has real causal power; the improvement after withdrawal proves the specialists can operate with appropriate autonomy.
 
-At the opposite extreme from choking, [flow states](/topics/consciousness-and-skilled-performance/) represent the interface operating with minimal friction—consciousness selects at a coarse-grained level while procedural systems handle execution with maximal autonomy. The Dreyfus progression from novice to expert is, on this reading, the process of training the interface until flow becomes possible.
+At the opposite extreme from choking, [flow states](/topics/consciousness-and-skill-acquisition/) represent the interface operating with minimal friction—consciousness selects at a coarse-grained level while procedural systems handle execution with maximal autonomy. The Dreyfus progression from novice to expert is, on this reading, the process of training the interface until flow becomes possible.
 
 ## The Attention-Motor Convergence
 
@@ -161,7 +161,7 @@ There is also a deeper question the interface reading cannot answer: even if emb
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why brains specifically serve as interfaces
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy for mind-body relations
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — The bidirectional evidence from choking in detail
-- [phenomenology of flow states](/topics/consciousness-and-skilled-performance/) — Flow as frictionless interface operation
+- [phenomenology of flow states](/topics/consciousness-and-skill-acquisition/) — Flow as frictionless interface operation
 - [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) — Proprioception and spatial imagination as dual-domain capabilities supporting the interface reading
 - [somatic-interface](/concepts/somatic-interface/) — The body's internal sensing channels as structured interface substrate
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — How the interface manifests in the felt character of being in a place

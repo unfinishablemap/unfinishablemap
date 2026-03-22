@@ -59,7 +59,7 @@ From these articles to the target:
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) (concept — Further Reading)
 - [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/) (topic — Further Reading)
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) (topic — Further Reading)
-- [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/) (topic — Further Reading)
+- [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/) (topic — Further Reading)
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) (topic — Further Reading)
 
 ## Remaining Items

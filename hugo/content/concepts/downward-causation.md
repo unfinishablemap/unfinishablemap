@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-22 20:02:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,7 +28,7 @@ description: Higher-level properties can causally influence lower-level processe
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-25 10:58:00+00:00
+last_deep_review: 2026-03-22 20:02:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -114,7 +114,7 @@ Several responses are available, though none fully resolves the gap:
 
 **The discrete observation alternative**: Stapp's quantum Zeno mechanism may sidestep the sustained coherence requirement entirely. If consciousness operates through discrete observation cycles rather than maintained superposition—rapid repeated "probing actions" that each reset the quantum state—the relevant question shifts from "can coherence survive?" to "can observation cycles operate fast enough?" If decoherence occurs at microseconds and observations at milliseconds, approximately 1000 observations per 300ms attentional window might suffice to bias outcomes cumulatively. This mechanism doesn't require consciousness to track femtosecond processes directly.
 
-**Outcome selection persists**: [decoherence](/concepts/decoherence/) doesn't eliminate quantum indeterminacy—it explains why interference effects wash out, but outcomes still require determination. As a 2025 review notes: "the problem of outcomes is still open." Even after decoherence, something must select which outcome becomes actual.
+**Outcome selection persists**: [decoherence](/concepts/decoherence/) doesn't eliminate quantum indeterminacy—it explains why interference effects wash out, but outcomes still require determination. The problem of which outcome actualises remains open even after decoherence—something must select which possibility becomes actual.
 
 **The bandwidth question**: The bandwidth of conscious thought—measured at roughly 10 bits per second—suggests consciousness operates at the level of policies and attention allocation, not individual quantum events. This raises a question the Map must acknowledge as unresolved: how does coarse-grained conscious intention translate into whatever fine-grained observations the Zeno mechanism requires? One possibility is that sustained attention sets boundary conditions that neural mechanisms implement at faster timescales—consciousness provides the "what" while brain architecture handles the "how fast." But this remains speculative.
 
@@ -201,6 +201,7 @@ Kim's exclusion argument remains the primary challenge to mental causation. But 
 - [many-worlds](/concepts/many-worlds/) — Why the Map rejects MWI (and why it matters for downward causation)
 - [illusionism](/concepts/illusionism/) — The radical challenge that denies phenomenal consciousness exists
 - [decoherence](/concepts/decoherence/) — The physics challenge and why it doesn't close the quantum opening
+- [causal-delegation](/concepts/causal-delegation/) — How physical states delegate causal work to experience
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention implements downward causation
 - [luck-objection](/concepts/luck-objection/) — The parallel challenge to agent causation
 - [pairing-problem](/concepts/pairing-problem/) — What connects this mind to this body

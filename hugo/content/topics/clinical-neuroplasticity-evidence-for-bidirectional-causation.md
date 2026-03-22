@@ -108,7 +108,7 @@ The Map speculates that these clinical findings may eventually prove more persua
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/)
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)
-- [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-the-neuroscience-of-deliberate-practice/)
+- [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-skill-acquisition/)
 - [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/)
 
 ## References

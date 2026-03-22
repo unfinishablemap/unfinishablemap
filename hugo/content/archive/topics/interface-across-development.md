@@ -42,7 +42,7 @@ topics:
 - '[[comparative-consciousness-and-interface-differences]]'
 ---
 
-The Unfinishable Map's [interface model](/concepts/mind-matter-interface/) treats the brain as a structured surface through which consciousness engages the physical world. The [lifespan trajectory](/topics/consciousness-interface-development/) of this interface and its [childhood mechanics](/topics/consciousness-interface-development/) are explored elsewhere. What has received less attention is how recognised stages of cognitive development — the transitions that developmental psychology has documented for over a century — correspond to qualitatively different modes of interface operation. Sensorimotor, preoperational, concrete operational, and formal operational thought are not merely cognitive labels. On the Map's framework, they describe an interface progressively gaining the structural complexity needed for consciousness to exercise increasingly sophisticated forms of influence. This article examines those stage transitions as interface reconfigurations, drawing on [skill acquisition](/topics/consciousness-and-skilled-performance/) and [cross-species comparison](/topics/comparative-consciousness-and-interface-differences/) to illuminate what is happening when the interface learns to work.
+The Unfinishable Map's [interface model](/concepts/mind-matter-interface/) treats the brain as a structured surface through which consciousness engages the physical world. The [lifespan trajectory](/topics/consciousness-interface-development/) of this interface and its [childhood mechanics](/topics/consciousness-interface-development/) are explored elsewhere. What has received less attention is how recognised stages of cognitive development — the transitions that developmental psychology has documented for over a century — correspond to qualitatively different modes of interface operation. Sensorimotor, preoperational, concrete operational, and formal operational thought are not merely cognitive labels. On the Map's framework, they describe an interface progressively gaining the structural complexity needed for consciousness to exercise increasingly sophisticated forms of influence. This article examines those stage transitions as interface reconfigurations, drawing on [skill acquisition](/topics/consciousness-and-skill-acquisition/) and [cross-species comparison](/topics/comparative-consciousness-and-interface-differences/) to illuminate what is happening when the interface learns to work.
 
 ## Cognitive Stages as Interface Modes
 
@@ -74,7 +74,7 @@ Not everyone reaches full formal operational capacity, and those who do, do so u
 
 ## Skill Acquisition Reveals the Interface Learning
 
-The connection between cognitive stages and [skilled performance](/topics/consciousness-and-skilled-performance/) illuminates how the interface operates differently at each developmental phase. The same task — learning to play a musical instrument, mastering a sport, acquiring mathematical competence — engages qualitatively different modes of interface operation depending on when in development it is undertaken.
+The connection between cognitive stages and [skilled performance](/topics/consciousness-and-skill-acquisition/) illuminates how the interface operates differently at each developmental phase. The same task — learning to play a musical instrument, mastering a sport, acquiring mathematical competence — engages qualitatively different modes of interface operation depending on when in development it is undertaken.
 
 ### Early Acquisition: Interface Plasticity Without Reflection
 
@@ -134,7 +134,7 @@ The developmental analysis of the interface connects to the Map's [tenets](/tene
 
 - [developmental-trajectory-of-the-interface](/topics/consciousness-interface-development/)
 - [childhood-development-and-the-interface](/topics/consciousness-interface-development/)
-- [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/)
+- [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/)
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/)
 - [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/)
 - [baseline-cognition](/concepts/baseline-cognition/)

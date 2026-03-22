@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [The Self-Reference Paradox](/voids/self-reference-paradox/)
+**Article**: [The Self-Reference Paradox](/voids/unobservable-self/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

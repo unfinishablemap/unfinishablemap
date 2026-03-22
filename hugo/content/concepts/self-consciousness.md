@@ -109,7 +109,7 @@ Self-consciousness connects to the Map's foundational commitments at multiple po
 - [introspection](/concepts/introspection/) — The practice of attending to one's own mental states
 - [epistemology-of-introspection-and-calibration](/topics/epistemology-of-introspection-and-calibration/) — What kind of knowledge introspection provides, and how its reliability varies by domain
 - [metacognition](/concepts/metacognition/) — Monitoring cognition vs knowing that one monitors
-- [self-reference-paradox](/voids/self-reference-paradox/) — Why the observer cannot catch itself observing
+- [self-reference-paradox](/voids/unobservable-self/) — Why the observer cannot catch itself observing
 - [The Ownership Void](/voids/ownership-void/) — Why the for-me-ness of experience hides its own ground
 - [phenomenology-of-self-awareness](/voids/phenomenology-of-self-awareness/) — What self-awareness feels like from the inside
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — Having mental states vs knowing you have them

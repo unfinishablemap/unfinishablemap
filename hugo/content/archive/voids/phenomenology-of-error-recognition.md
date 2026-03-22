@@ -135,7 +135,7 @@ None currently obtains. Error-blindness persists despite millennia of attention.
 
 - [metacognition](/concepts/metacognition/) — The cognitive capacity enabling (limited) self-monitoring
 - [introspection](/concepts/introspection/) — First-person methods and their reliability
-- [self-reference-paradox](/voids/self-reference-paradox/) — The deeper structure of consciousness examining itself
+- [self-reference-paradox](/voids/unobservable-self/) — The deeper structure of consciousness examining itself
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and structural limits
 - [cognitive-closure](/concepts/cognitive-closure/) — The structural impossibility of knowing what you cannot know
 - [introspective-opacity](/voids/introspective-opacity/) — Why the mechanism of self-correction remains hidden

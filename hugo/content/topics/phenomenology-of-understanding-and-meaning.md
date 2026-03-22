@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-22 19:46:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -49,6 +49,7 @@ related_articles:
 - '[[explanatory-gap]]'
 - '[[phenomenology-of-intellectual-effort]]'
 - '[[phenomenal-binding-and-holism]]'
+- '[[mathematical-knowledge-and-insight]]'
 - '[[language-recursion-and-consciousness]]'
 - '[[phenomenal-normativity]]'
 - '[[phenomenology-of-musical-understanding]]'
@@ -223,6 +224,7 @@ Several findings would weaken PCT and the phenomenal constitution of meaning:
 - [phenomenal intentionality](/concepts/intentionality/#phenomenal-intentionality-theory) — Why genuine aboutness requires phenomenal consciousness
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — The temporal unfolding of comprehension
 - [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Mathematical insight as paradigm case
+- [mathematical-knowledge-and-insight](/topics/mathematical-knowledge-and-insight/) — The epistemology and felt character of mathematical understanding
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Feelings directed at knowledge itself
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why logical relationships carry normative force
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — The experience of reasoning as work

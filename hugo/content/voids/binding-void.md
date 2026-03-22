@@ -36,6 +36,7 @@ related_articles:
 - '[[limits-reveal-structure]]'
 - '[[consciousness-only-territories]]'
 - '[[compound-failure-signatures]]'
+- '[[recognition-void]]'
 title: The Binding Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -68,7 +69,7 @@ Integrated Information Theory attempts to formalise binding mathematically throu
 
 ## Why Introspection Finds Only the Product
 
-The binding void's mechanism is hidden not behind experience but *within* it. When we introspect on how experience is unified, we find only the result—a unified field with various contents. We can attend to particular elements (the redness here, the sound there) but never to the relation that binds them. The binding is not an object within consciousness; it is the condition that makes consciousness a unified space in which objects can appear.
+The binding void's mechanism is hidden not behind experience but *within* it. When we introspect on how experience is unified, we find only the result—a unified field with various contents. We can attend to particular elements (the redness here, the sound there) but never to the relation that binds them. The [recognition-void](/voids/recognition-void/) reveals a parallel structure at a different scale: the Capgras-prosopagnosia double dissociation shows that what seems like a single act of recognition is at minimum two distinct contributions—perceptual identification and affective familiarity—bound together invisibly. The binding is not an object within consciousness; it is the condition that makes consciousness a unified space in which objects can appear.
 
 The Stanford Encyclopedia of Philosophy notes that introspection "strongly supports" the Unity Thesis but may be "constrained by informational bottlenecks" that prevent access to the mechanism. Introspection may even be a mechanism *for* unifying experiences—examining binding through introspection would be like trying to see one's own eyes without a mirror.
 
@@ -84,7 +85,7 @@ The binding void occupies a precise position in the Map's void taxonomy.
 
 **Not the [causal interface void](/voids/causal-interface/).** The causal interface concerns how consciousness interfaces with the physical world. The binding void concerns how consciousness interfaces *with itself*—how its elements achieve coherence.
 
-**Not the [self-reference paradox](/voids/self-reference-paradox/).** Self-reference concerns consciousness observing itself. The binding void is prior: unity must already obtain before self-observation is possible—it is the foundation on which the self-reference paradox stands.
+**Not the [self-reference paradox](/voids/unobservable-self/).** Self-reference concerns consciousness observing itself. The binding void is prior: unity must already obtain before self-observation is possible—it is the foundation on which the self-reference paradox stands.
 
 ## Evidence That This Is a Void
 
@@ -143,7 +144,7 @@ The binding void connects to the Map's [tenets](/tenets/) at multiple points and
 - [emergence-void](/voids/emergence-void/) — The related void at level transitions; binding operates within a single level
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The core taxonomy: unexplored, unexplorable, occluded
 - [causal-interface](/voids/causal-interface/) — How consciousness interfaces with the physical world
-- [self-reference-paradox](/voids/self-reference-paradox/) — Self-observation requires the unity this void concerns
+- [self-reference-paradox](/voids/unobservable-self/) — Self-observation requires the unity this void concerns
 - [temporal-void](/voids/temporal-void/) — Binding's intersection with the temporal dimension
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — Using the structure of failure as data
 - [mysterianism](/concepts/mysterianism/) — McGinn's cognitive closure thesis, strongly applicable here

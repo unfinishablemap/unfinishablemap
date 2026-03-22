@@ -63,7 +63,7 @@ All internal links verified present:
 - [mental-imagery](/concepts/mental-imagery/), [bidirectional-interaction](/concepts/bidirectional-interaction/), [mental-causation](/concepts/mental-causation/), [epiphenomenalism](/concepts/epiphenomenalism/), [attention-as-interface](/concepts/attention-as-interface/), [downward-causation](/concepts/downward-causation/), [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/), [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [free-will](/topics/free-will/), [phenomenology-of-imagination](/topics/phenomenology-of-imagination/)
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/), [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/), [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/)
-- [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/), [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/), [dream-consciousness](/topics/dream-consciousness/)
+- [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/), [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/), [dream-consciousness](/topics/dream-consciousness/)
 - [baseline-cognition](/concepts/baseline-cognition/), [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/)
 - Research notes: [mental-imagery-consciousness-causal-role-2026-01-23](/research/mental-imagery-consciousness-causal-role-2026-01-23/)
 

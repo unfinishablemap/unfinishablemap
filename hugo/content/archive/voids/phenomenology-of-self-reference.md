@@ -74,7 +74,7 @@ Husserl's analysis of time-consciousness describes something structurally simila
 
 The [intentionality](/concepts/intentionality/) of consciousness—its aboutness, its capacity to be directed at objects—is typically described as a relation between subject and object. Self-reference reveals what happens when this relation bends into a loop. The standard intentional structure presupposes a distinction between what is directed and what is directed-at. When these collapse into one, intentionality reaches a boundary condition.
 
-This is not the same as the [formal self-reference paradox](/voids/self-reference-paradox/) (which concerns logical limitations like Gödel's incompleteness). Nor is it the same as the [unobservable self](/voids/self-reference-paradox/) (which concerns the phenomenological elusiveness of the observer). It is the specific difficulty that arises when the intentional arrow tries to point at its own origin. The difficulty is not that the target is hidden but that targeting and target are the same act.
+This is not the same as the [formal self-reference paradox](/voids/unobservable-self/) (which concerns logical limitations like Gödel's incompleteness). Nor is it the same as the [unobservable self](/voids/self-reference-paradox/) (which concerns the phenomenological elusiveness of the observer). It is the specific difficulty that arises when the intentional arrow tries to point at its own origin. The difficulty is not that the target is hidden but that targeting and target are the same act.
 
 The [recursion-void](/voids/recursion-void/) shows that iterating self-reference collapses around fifth-order depth. But the phenomenology of self-reference suggests the fundamental difficulty appears already at the first iteration. The collapse at higher levels is an amplification of an instability present from the start: the moment reference touches the referrer, something in the intentional structure begins to oscillate.
 
@@ -124,7 +124,7 @@ The phenomenology of self-reference connects to the Map's [tenets](/tenets/) at 
 
 ## Further Reading
 
-- [self-reference-paradox](/voids/self-reference-paradox/) — The formal and structural analysis of consciousness examining itself
+- [self-reference-paradox](/voids/unobservable-self/) — The formal and structural analysis of consciousness examining itself
 - [the-unobservable-self](/voids/self-reference-paradox/) — Why the observer cannot observe itself observing
 - [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-thought/) — The experiential structure of layered meta-cognition
 - [introspective-opacity](/voids/introspective-opacity/) — Why cognitive processes remain hidden while their products become conscious

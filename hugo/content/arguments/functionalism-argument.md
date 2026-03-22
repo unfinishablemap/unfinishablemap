@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-18 19:57:00+00:00
+ai_modified: 2026-03-22 18:32:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,12 +24,12 @@ description: Five converging arguments against functionalism—from absent quali
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-24 17:44:00+00:00
+last_deep_review: 2026-03-22 18:32:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[concepts/materialism]]'
-- '[[epiphenomenalism]]'
+- '[[arguments/epiphenomenalism-argument]]'
 title: Against Functionalism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -163,7 +163,7 @@ But illusionism faces a devastating regress. If the *appearance* of phenomenal c
 1. The seeming involves phenomenal properties—in which case phenomenal consciousness exists (the seeming *is* conscious experience)
 2. The seeming involves no phenomenal properties—in which case we need a further account of non-phenomenal seeming
 
-Option 2 generates an explanatory burden as severe as the hard problem. Raymond Tallis puts it sharply: "Misrepresentation presupposes presentation." All illusions presuppose experience. If physical matter cannot generate phenomenal consciousness, it certainly cannot generate the *illusion* of phenomenal consciousness.
+Option 2 generates an explanatory burden as severe as the hard problem. Raymond Tallis puts it sharply in *Aping Mankind* (2011): "Misrepresentation presupposes presentation." All illusions presuppose experience. If physical matter cannot generate phenomenal consciousness, it certainly cannot generate the *illusion* of phenomenal consciousness.
 
 Further evidence against illusionism comes from [introspective access to phenomenal content](/concepts/introspection/) (as distinct from processes) and [contemplative phenomenology](/concepts/witness-consciousness/), where practice *deepens* rather than dissolves the reality of experience—compounding the regress with illusions of illusions.
 
@@ -235,5 +235,6 @@ The Map's framework takes this seriously. Consciousness is irreducible to physic
 - Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 - Searle, J. (1980). "Minds, Brains, and Programs." *Behavioral and Brain Sciences*, 3(3), 417-424.
 - Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32(127), 127-136.
+- Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen Publishing.
 - Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Hoel, E. (2026). "A Disproof of Large Language Model Consciousness." *Journal of Consciousness Studies*.
