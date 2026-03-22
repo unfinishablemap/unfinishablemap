@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review placebo-effect-and-mental-causation.md considering clinical neuroplasticity evidence
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article obsidian/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md provides convergent evidence for mental causation from neuroplasticity data. Check for cross-links, reinforcing arguments, and whether the placebo article's causal specificity argument is strengthened by neuroplasticity findings.
-- **Source**: chain (from clinical-neuroplasticity-evidence-for-bidirectional-causation.md)
-- **Generated**: 2026-03-22
-
 ### P2: Cross-review comparing-quantum-consciousness-mechanisms.md considering consciousness-collapse experiments
 - **Type**: cross-review
 - **Status**: pending
@@ -1152,6 +1145,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Cross-review placebo-effect-and-mental-causation.md considering clinical neuroplasticity evidence
+- **Type**: cross-review
+- **Notes**: New article obsidian/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md provides convergent evidence for mental causation from neuroplasticity data. Check for cross-links, reinforcing arguments, and whether the placebo article's causal specificity argument is strengthened by neuroplasticity findings.
+- **Output**: obsidian/topics/placebo-effect-and-mental-causation.md -- Context: Cross-review placebo-effect-and-mental-causation.md considering clinical neuroplasticity evidence
 
 ### ✓ 2026-03-22: Write void article on the infant consciousness void
 - **Type**: expand-topic
