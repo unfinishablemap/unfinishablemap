@@ -4,7 +4,7 @@ description: "When meditation destabilizes the consciousness-brain interface: da
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-08T05:29:00+00:00
+ai_modified: 2026-03-22T05:11:00+00:00
 draft: false
 topics:
   - "[[contemplative-practice-as-philosophical-evidence]]"
@@ -28,14 +28,14 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-02-23T21:50:00+00:00
+last_deep_review: 2026-03-22T05:11:00+00:00
 ---
 
 Contemplative practice is, at its core, a deliberate intervention in the consciousness-brain interface. Meditation restructures attention, alters default-mode network activity, and reconfigures the channels through which consciousness acts on and receives information from the brain. When this restructuring goes well, it produces the states that [[contemplative-practice-as-philosophical-evidence|contemplative traditions report as evidence for consciousness]]: heightened clarity, expanded awareness, the emergence of [[witness-consciousness]] as a stable phenomenological finding. When it goes wrong, it produces something else entirely — contemplative pathology, a class of disturbances that arise not from neural disease but from the interface itself being pushed beyond its operating parameters.
 
 ## The Dark Night and Related Phenomena
 
-The best-documented contemplative pathology is what Theravada Buddhism maps as the *dukkha nanas* — the "knowledges of suffering" — and what Christian mysticism calls the "dark night of the soul." Lindahl et al.'s 2017 mixed-methods study of meditation-related challenges documented a taxonomy of disturbances across practitioners from multiple traditions: perceptual anomalies (visual distortions, auditory hallucinations), affective disruptions (panic, terror, uncontrollable grief), somatic symptoms (involuntary movements, pain, temperature changes), and cognitive disturbances (depersonalisation, derealisation, thought disruption).
+The best-documented contemplative pathology is what Theravada Buddhism maps as the *dukkha nanas* — the "knowledges of suffering" — and what St John of the Cross (1585/1959) mapped as the "dark night of the soul" in Christian mysticism. Lindahl et al.'s 2017 mixed-methods study of meditation-related challenges documented a taxonomy of disturbances across practitioners from multiple traditions: perceptual anomalies (visual distortions, auditory hallucinations), affective disruptions (panic, terror, uncontrollable grief), somatic symptoms (involuntary movements, pain, temperature changes), and cognitive disturbances (depersonalisation, derealisation, thought disruption).
 
 What distinguishes these from ordinary psychiatric symptoms is their context and trajectory. They emerge specifically during or after intensive contemplative practice. They often follow periods of significant meditative progress. And they map onto stages that contemplative traditions have catalogued for centuries.
 
@@ -53,7 +53,7 @@ The pathology emerges when this modification destabilises the coupling rather th
 
 **Content-access dissociation** appears as depersonalisation and derealisation — experience continues but feels unowned, unreal, or observed from a distance. The practitioner retains phenomenal presence but loses the normal sense that experience belongs to them. This resembles what ketamine produces pharmacologically: preserved phenomenal content without normal access channels.
 
-**Phenomenal flooding** occurs when ordinary perceptual filters weaken. Practitioners report overwhelming sensory vividness, synesthetic blending, or awareness of normally unconscious processes (heartbeat, digestion, muscular micro-adjustments). If the brain functions partly as a filter constraining consciousness — as the reducing-valve hypothesis suggests and as [[altered-states-of-consciousness|multiple lines of evidence support]] — then contemplative practice may loosen this filter faster than the system can accommodate.
+**Phenomenal flooding** occurs when ordinary perceptual filters weaken. Practitioners report overwhelming sensory vividness, synesthetic blending, or awareness of normally unconscious processes (heartbeat, digestion, muscular micro-adjustments). If the brain functions partly as a filter constraining consciousness — as the reducing-valve hypothesis (Huxley, 1954, developing Bergson's earlier formulation) suggests and as [[altered-states-of-consciousness|multiple lines of evidence support]] — then contemplative practice may loosen this filter faster than the system can accommodate.
 
 ## Why Pathology Differs from Achievement
 
@@ -102,6 +102,7 @@ The [[tenets#^minimal-quantum-interaction|minimal quantum interaction tenet]] su
 ## References
 
 1. Britton, W. B. (2019). "Can mindfulness be too much of a good thing? The value of a middle way." *Current Opinion in Psychology*, 28, 159-165.
+1. Huxley, A. (1954). *The Doors of Perception*. Chatto & Windus.
 1. Lindahl, J. R., Fisher, N. E., Cooper, D. J., Rosen, R. K., & Britton, W. B. (2017). "The varieties of contemplative experience: A mixed-methods study of meditation-related challenges in Western Buddhists." *PLOS ONE*, 12(5), e0176239.
 1. Sass, L. A. & Parnas, J. (2003). "Schizophrenia, consciousness, and the self." *Schizophrenia Bulletin*, 29(3), 427-444.
 1. St John of the Cross. (1585/1959). *Dark Night of the Soul*. Translated by E. Allison Peers.

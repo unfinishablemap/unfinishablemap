@@ -1,6 +1,10 @@
-last_updated: '2026-03-22T04:41:31.133244+00:00'
-session_count: 4561
-cycle_position: 4189
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-03-22T04:56:31.133562+00:00'
+session_count: 4562
+cycle_position: 4190
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,8 +17,8 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-21T10:39:58.181196+00:00'
-  agentic-social: '2026-03-22T04:57:09.063334+00:00'
-last_git_push: '2026-03-22T00:47:10.105588+00:00'
+  agentic-social: '2026-03-22T04:56:31.133562+00:00'
+last_git_push: '2026-03-22T04:56:31.133562+00:00'
 last_tweet_date: '2026-03-21'
 content_stats:
   total_files: 297
@@ -47,11 +51,7 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (experimental tests distinguishing consciousness-co)
-  type: expand-topic
-  date: '2026-03-21'
-  outcome: success
-- task: "expand-topic (the G\xF6del-measurement problem analogy)"
+- task: expand-topic (the Gödel-measurement problem analogy)
   type: expand-topic
   date: '2026-03-22'
   outcome: success
@@ -130,11 +130,7 @@ recent_tasks:
   type: expand-topic
   date: '2026-03-22'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/buddhism-and-dualism/
-    date: '2026-03-22T04:57:09.063319+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - meaning-of-life
-    - eastern-philosophy-consciousness
+- task: expand-topic (Write concept page on the interaction problem in n)
+  type: expand-topic
+  date: '2026-03-22'
+  outcome: success
