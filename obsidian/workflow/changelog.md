@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 09:11 UTC - refine-draft
+- **Status**: Success
+- **File**: [[consciousness-and-intelligence]]
+- **Changes**: Verified DeWall et al. (2008) citation is correct (not conflated with Lieberman). Restructured Great Ape Evidence section to fix circular argument: added "Why Enhanced Processing Alone Cannot Explain the Gap" subsection with three independent arguments (selective gap pattern, within-species DeWall experiments, neural complexity scaling). Expanded DeWall citation with experimental details.
+- **Published**: yes
+
 ## 2026-03-22 08:56 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/consciousness-and-intelligence.md, topics/aesthetics-and-consciousness.md
