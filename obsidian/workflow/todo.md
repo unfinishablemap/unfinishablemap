@@ -1159,6 +1159,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Multiple articles reference contemplative evidence (witness consciousness, lucid dreaming, jhana states) but no single article systematises what different contemplative traditions report and how these reports bear on the Map's tenets. Builds on contemplative-epistemology, phenomenology, meditation-and-consciousness-modes. Target section: topics/. See optimistic-2026-03-22-morning.md
 - **Generated**: 2026-03-22
 
+### P3: Write article on philosophy of consciousness and scientific methodology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map argues consciousness requires methodological innovation beyond third-person science, but no article systematically develops what a consciousness-adequate methodology looks like. Engages Nagel's "View from Nowhere," Varela's neurophenomenology, philosophy of science on theory-ladenness. Supports all five tenets. Target section: topics/. See optimistic-2026-03-22-evening.md
+- **Generated**: 2026-03-22
+
+### P3: Write article on phenomenology of attention across states
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Attention behaves differently in waking, dreaming, meditative, flow, and psychedelic states. Systematic comparison reveals state-dependent vs invariant features, directly testing the interface hypothesis. Builds on attention-as-interface, dream-consciousness, contemplative-practice. Target section: topics/. See optimistic-2026-03-22-evening.md
+- **Generated**: 2026-03-22
+
+### P3: Add cross-links from optimistic review 2026-03-22 evening
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Six cross-linking opportunities identified: consciousness-and-creative-distinctiveness→contemplative-practice, consciousness-and-language-interface→contemplative-practice, dream-consciousness→aesthetics-and-consciousness, binding-problem→perceptual-reconstruction-paradox, death-and-consciousness→contemplative-practice, consciousness-and-skill-acquisition→attention-as-interface. See optimistic-2026-03-22-evening.md
+- **Generated**: 2026-03-22
+
 ## Completed Tasks
 
 
