@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on probability and decision-theory objections to many worlds
-- **Type**: expand-topic
-- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Directly supports Tenet 4 (No Many Worlds) — the site's anti-MWI position lacks a dedicated treatment of the probability and decision-theory objections (incoherence of self-locating credence, Deutsch-Wallace circularity, preference-based arguments). Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-22
-
 ### P2: Write article on consciousness during general anesthesia and filter theory
 - **Type**: expand-topic
 - **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Anesthesia provides a natural experiment in consciousness-physics decoupling: dissociative anesthetics (ketamine) disconnect consciousness from sensory input without abolishing it; intraoperative awareness cases reveal filter selectivity. Supports Tenets 1 and 3. Builds on anaesthesia-and-the-consciousness-interface, filter-theory. Target section: topics/.
@@ -1173,6 +1167,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Write article on probability and decision-theory objections to many worlds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Directly supports Tenet 4 (No Many Worlds) — the site's anti-MWI position lacks a dedicated treatment of the probability and decision-theory objections (incoherence of self-locating credence, Deutsch-Wallace circularity, preference-based arguments). Target section: topics/.
+- **Output**: probability and decision-theory objections to many worlds
 
 ### ✓ 2026-03-22: Deep review convergence-as-evidence.md
 - **Type**: deep-review
