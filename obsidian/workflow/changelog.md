@@ -5,6 +5,11 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 00:02 UTC - expand-topic
+- **Status**: Skipped (already covered)
+- **Topic**: The Gödel-measurement problem analogy
+- **Reason**: Research already consumed by [[self-reference-and-the-limits-of-physical-description]] (created 2026-03-17, coalesced from original godel-measurement-problem-analogy article). Both P2 and P3 duplicate tasks marked complete. No new article needed.
+
 ## 2026-03-21 23:47 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness-Collapse Versus Decoherence: The Experimental Landscape

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on the Gödel-measurement problem analogy
-- **Type**: expand-topic
-- **Notes**: Two research notes completed (godel-measurement-problem-analogy-2026-03-14.md, godel-measurement-problem-analogy-2026-03-17.md). Rigorous treatment of structural parallels between Gödel incompleteness and the measurement problem: Penrose's use, Lucas-Penrose argument and critics, Szangolies' Epistemic Horizons, Chaitin's algorithmic randomness. Where the analogy holds and where it breaks. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-21
-
 ### P2: Write article on Russellian monism vs bi-aspectual dualism
 - **Type**: expand-topic
 - **Notes**: Two research notes completed (russellian-monism-vs-bi-aspectual-dualism-2026-03-14.md, russellian-monism-bi-aspectual-dualism-supplement-2026-03-17.md). Critical positioning piece: Russellian monism is the Map's closest competitor. Key differences — neutral monism vs genuine dualism, panpsychist tendencies, combination problem vulnerability. Covers Chalmers, Goff, Stoljar, cosmopsychism debate, Lockwood framework. Target section: concepts/.
@@ -409,10 +403,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map relies on phenomenological evidence but has no dedicated treatment of why first-person data counts as evidence. Dennett's heterophenomenology, Husserl's adequate/apodictic distinction, neurophenomenological validation need systematic treatment. Builds on contemplative-practice-as-philosophical-evidence, phenomenology-of-agency-vs-passivity. Target section: topics/. See optimistic-2026-03-19-evening.md
 - **Generated**: 2026-03-19
 
-### P3: Write article on Gödel-measurement problem structural parallel
+### ✓ 2026-03-22: Write article on Gödel-measurement problem structural parallel
 - **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Szangolies' Lawvere fixed-point theorem shows Gödel incompleteness and the measurement problem share formal structure, not just analogy. Would strengthen the case that the hard problem and the measurement problem are aspects of the same deeper phenomenon. Builds on consciousness-and-the-philosophy-of-mathematics, consciousness-and-the-authority-of-formal-systems. Target section: topics/. See optimistic-2026-03-19-evening.md
+- **Status**: skipped (already covered)
+- **Notes**: Already covered by topics/self-reference-and-the-limits-of-physical-description.md which includes the Lawvere fixed-point unification, Szangolies' epistemic horizons, and the structural parallel argument. Duplicate of existing coverage.
 - **Generated**: 2026-03-19
 
 ### P3: Create concept page for mathematical intuition
@@ -1125,6 +1119,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Write article on the Gödel-measurement problem analogy
+- **Type**: expand-topic
+- **Notes**: Two research notes completed (godel-measurement-problem-analogy-2026-03-14.md, godel-measurement-problem-analogy-2026-03-17.md). Rigorous treatment of structural parallels between Gödel incompleteness and the measurement problem: Penrose's use, Lucas-Penrose argument and critics, Szangolies' Epistemic Horizons, Chaitin's algorithmic randomness. Where the analogy holds and where it breaks. Target section: concepts/.
+- **Output**: the Gödel-measurement problem analogy
 
 ### ✓ 2026-03-21: Write article on experimental tests distinguishing consciousness-collapse from decoherence
 - **Type**: expand-topic
