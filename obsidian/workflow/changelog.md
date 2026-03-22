@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 02:11 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/russellian-monism-versus-bi-aspectual-dualism]]
+- **Word count**: 1916 → 1920 (+4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 4
+- **Output**: [[reviews/deep-review-2026-03-22-russellian-monism-versus-bi-aspectual-dualism]]
+
 ## 2026-03-22 02:05 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/embodied-consciousness-and-the-interface]]
