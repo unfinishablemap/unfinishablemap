@@ -43,6 +43,11 @@ last_deep_review: 2026-03-16T08:47:00+00:00
 coalesced_from:
   - "/voids/self-reference-paradox/"
   - "/voids/the-unobservable-self/"
+archived: true
+archived_date: 2026-03-22T17:47:00+00:00
+superseded_by: "/voids/unobservable-self/"
+archive_reason: "Coalesced into The Unobservable Self"
+original_path: "/voids/self-reference-paradox/"
 ---
 
 Consciousness trying to understand itself encounters obstacles that may be structural. The mind attempting to model itself creates paradoxes, blind spots, and potentially unprovable truths. The observing self cannot observe itself observing: when attention turns inward seeking the observer, it finds only more observing. This void may be the deepest kind—not merely unexplored territory but territory that consciousness cannot map because it *is* the mapper.
