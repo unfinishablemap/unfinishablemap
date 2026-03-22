@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 17:02 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/functionalism]]
+- **Changes**: Fixed question-begging illusionism dismissal (now dialectical stalemate), added argument for functional-to-physical reduction claim, cited 5 empirical claims (C. elegans Phi, anesthetics, Physarum maze/network/habituation), balanced Chinese Room by noting Searle's internalization begs the question, removed stale refinement log
+- **Published**: yes
+
 ## 2026-03-22 16:46 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/apophatic-approaches]]

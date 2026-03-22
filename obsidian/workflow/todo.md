@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address illusionism and citation gaps in functionalism.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review found question-begging dismissal of illusionism (line 105), unargued assertion that functional organization reduces to physical terms (line 47), and uncited empirical claims about C. elegans Phi and Physarum cognition. Also remove stale AI refinement log. See pessimistic-2026-03-22-c.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-22
-
 ### P3: Deep review infant-consciousness.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-22 via expand-topic, never reviewed. Voids article on why our own infant experience is more alien than another adult's mind. Verify coherence, accuracy of developmental psychology claims, cross-references to inaccessible-past and other-minds-void, and tenet alignment.
@@ -1143,6 +1137,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Address illusionism and citation gaps in functionalism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found question-begging dismissal of illusionism (line 105), unargued assertion that functional organization reduces to physical terms (line 47), and uncited empirical claims about C. elegans Phi and Physarum cognition. Also remove stale AI refinement log. See pessimistic-2026-03-22-c.md
+- **Output**: obsidian/concepts/functionalism.md
+
+Task context:
+Pessimistic review found question-begging dismissal of illusionism (line 105), unargued assertion that functional organization reduces to physical terms (line 47), and uncited empirical claims about C. elegans Phi and Physarum cognition. Also remove stale AI refinement log. See pessimistic-2026-03-22-c.md
 
 ### ✓ 2026-03-22: Fix apophatic-approaches.md cross-references (43+ links point to wrong section path)
 - **Type**: integrate-orphan
