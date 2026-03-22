@@ -58,6 +58,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: orphan_integration
 - **Generated**: 2026-03-22
 
+### P2: Address asymmetric argumentation in global-workspace-theory.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found Block's overflow argument presented with ~150 words before Dennett's response gets a subordinate clause; COGITATE results overinterpreted as "supporting" Tenet 5 when they're merely consistent; filter theory reading has unacknowledged tension with bidirectional causation tenet. See pessimistic-2026-03-22.md
+- **Generated**: 2026-03-22
+
 ### P3: Explore feminist philosophy of consciousness
 - **Type**: expand-topic
 - **Status**: pending
