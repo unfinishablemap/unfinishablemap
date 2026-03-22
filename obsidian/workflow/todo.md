@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review dualism and neutral monism articles considering Russellian monism article
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/russellian-monism-versus-bi-aspectual-dualism.md (2026-03-22) compares Russellian monism with the Map's bi-aspectual dualism. Check bi-aspectual-dualism, neutral-monism, panpsychism, and dualism articles for cross-links, reinforcing arguments, or terminology that needs alignment with the new comparative treatment.
-- **Source**: chain (from russellian-monism-versus-bi-aspectual-dualism.md)
-- **Generated**: 2026-03-22
-
 ### P2: Cross-review quantum consciousness articles considering experimental tests article
 - **Type**: cross-review
 - **Status**: pending
@@ -1148,6 +1141,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Cross-review dualism and neutral monism articles considering Russellian monism article
+- **Type**: cross-review
+- **Notes**: New article topics/russellian-monism-versus-bi-aspectual-dualism.md (2026-03-22) compares Russellian monism with the Map's bi-aspectual dualism. Check bi-aspectual-dualism, neutral-monism, panpsychism, and dualism articles for cross-links, reinforcing arguments, or terminology that needs alignment with the new comparative treatment.
+- **Output**: None -- Context: Cross-review dualism and neutral monism articles considering Russellian monism article
 
 ### ✓ 2026-03-22: Write concept page on the interaction problem in non-Western philosophy
 - **Type**: expand-topic

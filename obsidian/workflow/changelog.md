@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 05:26 UTC - cross-review
+- **Status**: Success
+- **Context**: Cross-review dualism and neutral monism articles considering Russellian monism article
+- **Articles modified**: [[dualism]], [[bi-aspectual-ontology]], [[panpsychism]], [[russellian-monism]]
+- **Changes**: Added cross-links to new [[russellian-monism-versus-bi-aspectual-dualism]] article from all four concept pages. Added Russellian monism paragraph to dualism article's competitor section. Strengthened bi-aspectual-ontology's Russellian monism section with fragmentation note. No neutral-monism article exists (noted for future expansion).
+- **Duration**: ~5 min
+
 ## 2026-03-22 05:11 UTC - deep-review
 - **Status**: Success
 - **File**: [[contemplative-pathology-and-interface-malfunction]]
