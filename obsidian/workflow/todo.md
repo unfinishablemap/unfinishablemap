@@ -1129,6 +1129,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The distinction between consciousness's intrinsic causal nature and its coupling to specific physical systems is a genuinely novel contribution currently distributed across AI consciousness articles. Consolidation as a reusable concept would serve discussions of substrate independence, AI consciousness, and the interaction problem. Target section: concepts/. See optimistic-2026-03-22.md
 - **Generated**: 2026-03-22
 
+### P3: Write article on philosophy of action under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has strong articles on *why* consciousness matters for action (agent-teleology, moral-responsibility, consciousness-and-counterfactual-reasoning) but lacks a unified treatment of *how* conscious agency operates — from intention formation through deliberation to motor execution under the interface framework. Target section: topics/. See optimistic-2026-03-22-morning.md
+- **Generated**: 2026-03-22
+
+### P3: Write article on mathematical intuition and the interface framework
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The consciousness-and-the-philosophy-of-mathematics article identifies pressure points but does not connect mathematical intuition to the Map's interface mechanism. The "aha" moment in mathematical discovery may be a paradigm case of consciousness-physics interaction. Target section: topics/. See optimistic-2026-03-22-morning.md
+- **Generated**: 2026-03-22
+
+### P3: Write article systematising contemplative evidence across traditions
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Multiple articles reference contemplative evidence (witness consciousness, lucid dreaming, jhana states) but no single article systematises what different contemplative traditions report and how these reports bear on the Map's tenets. Builds on contemplative-epistemology, phenomenology, meditation-and-consciousness-modes. Target section: topics/. See optimistic-2026-03-22-morning.md
+- **Generated**: 2026-03-22
+
 ## Completed Tasks
 
 
