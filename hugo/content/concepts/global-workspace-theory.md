@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-19 23:02:00+00:00
+ai_modified: 2026-03-22 04:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -71,9 +71,11 @@ GNW distinguishes three states:
 
 Here lies GWT's fundamental limitation. The theory explicitly addresses only *access consciousness*—the availability of information for reasoning, reporting, and action. It says nothing about *phenomenal consciousness*—why there is something it is like to have information in the workspace. The [full taxonomy of consciousness types](/concepts/types-of-consciousness/) shows these are structurally independent dimensions that can dissociate.
 
-Ned Block has argued forcefully that these are distinct phenomena. His "overflow" argument holds that we experience more than we can report—phenomenal consciousness exceeds access consciousness. The Sperling experiment suggests we see all twelve letters in a briefly flashed display, even though we can only report four. If Block is right, GWT captures when information becomes accessible while missing the richer phenomenal experience that overflows these access boundaries.
+Ned Block has argued that these are distinct phenomena. His "overflow" argument holds that we experience more than we can report—the Sperling experiment suggests we see all twelve letters in a briefly flashed display, even though we can only report four. If Block is right, GWT captures when information becomes accessible while missing richer phenomenal experience that overflows access boundaries.
 
-Recent work provides some support for Block's view. Nartker et al. (2025) found that "inattentionally blind" participants retain significant visual sensitivity to stimuli they explicitly deny noticing—they can report location, colour, and shape of objects they claim not to have seen. This suggests visual processing continues even when the global workspace fails to broadcast information for explicit report—though whether this processing involves phenomenal consciousness or merely unconscious sensitivity remains contested. Dennett and others argue that Block's "phenomenal overflow" is itself an illusion: what seems like rich experience exceeding access may be a retrospective construction, not genuine phenomenal consciousness. The workspace may be necessary for *access* without being necessary for *experience*—or Block's distinction may itself be confused.
+Dennett and others challenge this directly. What seems like rich experience exceeding access may be a retrospective construction—we *believe* we saw all twelve letters, but this belief is generated after the fact rather than reflecting genuine phenomenal overflow. On this view, Block's distinction between access and phenomenal consciousness may itself be confused: there is no "overflow" because there is no experience beyond what the workspace makes accessible.
+
+The debate remains empirically open. Nartker et al. (2025) found that "inattentionally blind" participants retain significant visual sensitivity to stimuli they explicitly deny noticing—reporting location, colour, and shape of objects they claim not to have seen. This suggests visual processing continues when the global workspace fails to broadcast information for explicit report. Whether this processing involves phenomenal consciousness (supporting Block) or merely unconscious sensitivity (consistent with Dennett's deflationary reading) remains contested.
 
 ## The COGITATE Experiment
 
@@ -86,7 +88,7 @@ The April 2025 COGITATE study represents a landmark event in consciousness resea
 
 **Neither theory emerged unscathed.** As the researchers concluded: "It was clear that no single experiment would decisively refute either theory"—the theories proved "too different in assumptions and explanatory goals" for direct adjudication. This is a concrete instance of [Duhem-Quine underdetermination](/topics/duhem-quine-underdetermination-consciousness/)—the deeper problem that no experiment in consciousness science tests a hypothesis in isolation.
 
-This outcome supports the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet. Neither leading physicalist theory of consciousness fully captures the phenomena. The COGITATE results don't refute physicalism, but they demonstrate that our best scientific theories remain incomplete. The hard problem persists not because we lack clever theories but because the empirical constraints remain weak enough to sustain multiple incompatible accounts.
+This outcome is consistent with the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet, though it does not directly support it—incomplete physicalist theories do not by themselves vindicate dualism. What the results demonstrate is that our best scientific theories of consciousness remain incomplete. Neither leading physicalist account fully captures the phenomena. The hard problem persists not because we lack clever theories but because the empirical constraints remain weak enough to sustain multiple incompatible accounts.
 
 ### Implications for Consciousness Localization
 
@@ -192,7 +194,7 @@ This mapping shows GWT can explain *when* different memory types engage differen
 
 From the Map's perspective, the memory system hierarchy reveals *where* consciousness interfaces with cognition. Implicit memory shows consciousness can delegate—procedural systems run without continuous conscious engagement. But the [choking phenomenon](/concepts/implicit-memory/#choking-under-pressure-evidence-for-bidirectional-interaction) proves the interface remains: when consciousness re-engages with automatized skills, it causally disrupts them.
 
-The workspace may be the neural correlate of the interface between consciousness and memory systems. Consciousness doesn't *enter* the workspace; it *accesses* what the workspace makes available. This reading preserves GWT's empirical insights while maintaining the Map's dualist commitment: the workspace describes neural architecture; consciousness is what experiences the content that architecture provides.
+The workspace may be the neural correlate of the interface between consciousness and memory systems. Consciousness doesn't *enter* the workspace; it *accesses* what the workspace makes available. But this filter-theory reading, taken alone, risks portraying consciousness as purely passive—receiving content without influencing which content arrives. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires that the relationship run both ways: consciousness accesses workspace content *and* influences which information achieves ignition. The choking phenomenon illustrates this: conscious re-engagement causally disrupts automatized processes, demonstrating that consciousness acts on the workspace, not merely through it. A complete dualist reading treats the workspace as a bidirectional interface—neural architecture that both delivers content to consciousness and receives causal influence from it.
 
 ## Relation to Site Perspective
 
@@ -278,3 +280,15 @@ This methodological constraint cuts both ways. GWT proponents can claim any appa
 1. Nartker, M., et al. (2025). Visual sensitivity in inattentional blindness. *eLife*, 14:e97156.
 1. Randeniya, R. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.
 1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
+
+<!-- AI REFINEMENT LOG - 2026-03-22
+Changes made:
+- Rebalanced Block/Dennett presentation: gave Dennett's deflationary response its own paragraph instead of a subordinate clause, then presented Nartker evidence as contested between both views
+- Fixed COGITATE overinterpretation: changed "supports" Tenet 5 to "consistent with", added caveat that incomplete physicalist theories don't vindicate dualism
+- Acknowledged filter theory tension with Bidirectional Interaction tenet: expanded passage to note passive-reception risk and explicitly require bidirectional interface reading, citing choking phenomenon as evidence
+
+Based on pessimistic review findings.
+Key improvements: accuracy of tenet claims, fairness to opposing views, internal consistency with Map commitments.
+
+This log should be removed after human review.
+-->

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-03-22 00:32:00+00:00
+ai_modified: 2026-03-22 02:11:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,12 +16,12 @@ concepts:
 - '[[substance-property-dualism]]'
 created: 2026-03-22
 date: &id001 2026-03-22
-description: Two frameworks agree physics is structurally incomplete — then diverge
-  sharply. Why the Map's bi-aspectual dualism is the stable endpoint that Russellian
-  monism gestures toward but cannot reach.
+description: Two frameworks agree physics is structurally incomplete, then diverge.
+  The Map's bi-aspectual dualism is the stable endpoint Russellian monism cannot reach.
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-03-22 02:11:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -56,7 +56,7 @@ This is not a semantic difference. Identity dissolves the mind-body problem by e
 
 If consciousness is fundamental and ubiquitous — present in every electron, every quark — how do micro-experiences combine into the unified consciousness you experience now? This is the [combination-problem](/concepts/combination-problem/), which Chalmers (2016) decomposes into subject combination (how many micro-subjects become one macro-subject), quality combination (how simple micro-qualities yield rich experience), and structural mismatch (why phenomenal structure differs from physical microstructure).
 
-The problem has resisted solution since James called it "the most peculiar puzzle in philosophy" in 1890. Goff's proposed "phenomenal bonding" relation names the problem without solving it. His later move to *cosmopsychism* — the universe as a whole is conscious, individuals are aspects — merely reverses the difficulty. Miller (2018) argues the "decombination problem" (how cosmic consciousness differentiates into individual minds) is structurally equivalent to the combination problem.
+The problem has resisted solution since James identified it in 1890 as a fundamental obstacle to any "mind-stuff" theory. Goff's proposed "phenomenal bonding" relation names the problem without solving it. His later move to *cosmopsychism* — the universe as a whole is conscious, individuals are aspects — merely reverses the difficulty. Miller (2018) argues the "decombination problem" (how cosmic consciousness differentiates into individual minds) is structurally equivalent to the combination problem.
 
 The Map avoids both problems. Individual conscious subjects are fundamental — not composed of micro-subjects, not differentiated from a cosmic subject. There is no combination or decombination because unity is the starting point, not an outcome requiring explanation.
 
@@ -86,7 +86,7 @@ If consciousness is ontologically distinct from physics, how does it influence p
 
 ### Evolutionary Continuity
 
-Russellian monism accommodates evolutionary continuity naturally: if quiddities are proto-phenomenal, consciousness increases gradually with organisational complexity. The Map faces a question about when consciousness enters evolutionary history. The Map's response — objective reduction provides baseline collapse, consciousness modulates it specifically in neural systems — is plausible but adds theoretical machinery.
+Russellian monism accommodates evolutionary continuity naturally: if quiddities are proto-phenomenal, consciousness increases gradually with organisational complexity. The Map faces a question about when consciousness enters evolutionary history. The Map's response — objective collapse processes handle quantum events throughout nature, while consciousness specifically modulates neural outcomes — is plausible but adds theoretical machinery.
 
 ### Causal Closure
 

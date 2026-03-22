@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-21 22:55:00+00:00
+ai_modified: 2026-03-22 01:59:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,11 +38,40 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review consciousness-as-activity.md considering enactivism insights
+### P2: Cross-review dualism and neutral monism articles considering Russellian monism article
 - **Type**: cross-review
-- **Notes**: New article enactivism-challenge-to-interactionist-dualism.md (2026-03-21) presents enactivism as a challenge to the Map's framework. Check consciousness-as-activity.md for cross-links, potential tensions with the enactivist critique, and opportunities to strengthen the interactionist response to embodied/enactive approaches.
-- **Source**: chain (from enactivism-challenge-to-interactionist-dualism.md)
-- **Generated**: 2026-03-21
+- **Status**: pending
+- **Notes**: New article topics/russellian-monism-versus-bi-aspectual-dualism.md (2026-03-22) compares Russellian monism with the Map's bi-aspectual dualism. Check bi-aspectual-dualism, neutral-monism, panpsychism, and dualism articles for cross-links, reinforcing arguments, or terminology that needs alignment with the new comparative treatment.
+- **Source**: chain (from russellian-monism-versus-bi-aspectual-dualism.md)
+- **Generated**: 2026-03-22
+
+### P2: Cross-review quantum consciousness articles considering experimental tests article
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/experimental-design-for-consciousness-collapse-testing.md (2026-03-21) presents falsifiable experimental designs. Check comparing-quantum-consciousness-mechanisms, non-retrocausal-conscious-selection-models, and consciousness-selecting-neural-patterns for cross-links to the experimental framework and consistency of empirical claims.
+- **Source**: chain (from experimental-design-for-consciousness-collapse-testing.md)
+- **Generated**: 2026-03-22
+
+### P2: Integrate skill-delegation.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Add cross-references from related articles (e.g., mental-causation, consciousness-and-agency, delegatory-dualism, baseline-cognition) or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-22
+
+### P2: Integrate social-epistemic-void.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Add cross-references from related voids articles (e.g., taxonomy-of-voids, tenet-generated-voids) and topic articles on intersubjectivity or social epistemology to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-22
+
+### P2: Condense global-workspace-theory.md (3500 words, 140% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3500-word hard warning threshold for concepts/. Preserve core GWT exposition and tenet-relevant analysis while removing redundancy. Recently refined for accuracy — focus on length reduction without losing corrections.
+- **Source**: length_analysis
+- **Generated**: 2026-03-22
 
 ### P3: Explore feminist philosophy of consciousness
 - **Type**: expand-topic
@@ -86,8 +115,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Deep review epiphenomenalisms-gravity-well.md
 - **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-20 via expand-topic, never reviewed. Topics article on why epiphenomenalism exerts such strong intellectual pull despite its problems. Verify coherence, accuracy of philosophical attributions, cross-references to epiphenomenalism.md and arguments-against-epiphenomenalism.md, and tenet alignment.
+- **Status**: done
+- **Notes**: File was archived (coalesced into the-epiphenomenalist-threat.md on 2026-03-20). No review needed.
 - **Source**: staleness
 - **Generated**: 2026-03-21
 
@@ -1100,8 +1129,79 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Recent deep reviews of social-construction-of-self-vs-phenomenal-self, self-and-consciousness, and self-consciousness raise a question the Map hasn't systematically addressed: what is the self under interactionist dualism? The self is where all five tenets converge. Target section: topics/. See optimistic-2026-03-21-evening.md
 - **Generated**: 2026-03-21
 
+### P3: Write article on philosophy of time-consciousness under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has extensive treatment of consciousness's spatial interface (quantum mechanics) but limited treatment of its temporal structure. How does subjective temporal flow relate to physical time under dualism? Builds on temporal-structure-of-consciousness, specious-present, consciousness-and-agency. Target section: topics/. See optimistic-2026-03-22.md
+- **Generated**: 2026-03-22
+
+### P3: Write article on formal epistemology of consciousness claims
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How do we evaluate competing consciousness theories when direct empirical testing faces principled obstacles? Bayesian frameworks for consciousness claims, theory-ladenness of consciousness evidence, convergence across independent methods. Builds on epistemological-limits-of-occams-razor, methodology-of-consciousness-research. Target section: topics/. See optimistic-2026-03-22.md
+- **Generated**: 2026-03-22
+
+### P3: Write concept page on nature-coupling distinction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The distinction between consciousness's intrinsic causal nature and its coupling to specific physical systems is a genuinely novel contribution currently distributed across AI consciousness articles. Consolidation as a reusable concept would serve discussions of substrate independence, AI consciousness, and the interaction problem. Target section: concepts/. See optimistic-2026-03-22.md
+- **Generated**: 2026-03-22
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Write concept page on the interaction problem in non-Western philosophy
+- **Type**: expand-topic
+- **Notes**: Research completed in research/interaction-problem-non-western-philosophy-2026-02-17.md. Non-Western philosophical traditions offer alternative frameworks for understanding mind-body interaction that bypass Cartesian assumptions. Strengthens the Map's cross-cultural convergence arguments. Target section: concepts/.
+- **Output**: Write concept page on the interaction problem in non-Western philosophy
+
+### ✓ 2026-03-22: Write concept page on autonoetic consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/autonoetic-consciousness-2026-02-24.md. Tulving's three-level model (anoetic/noetic/autonoetic), mental time travel, and the phenomenology of self-knowing consciousness. Directly relevant to the Map's arguments about mode asymmetry and consciousness doing causal work. Target section: concepts/.
+- **Output**: Write concept page on autonoetic consciousness
+
+### ✓ 2026-03-22: Address asymmetric argumentation in global-workspace-theory.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found Block's overflow argument presented with ~150 words before Dennett's response gets a subordinate clause; COGITATE results overinterpreted as "supporting" Tenet 5 when they're merely consistent; filter theory reading has unacknowledged tension with bidirectional causation tenet. See pessimistic-2026-03-22.md
+- **Output**: obsidian/concepts/global-workspace-theory.md
+
+Task context:
+Pessimistic review found Block's overflow argument presented with ~150 words before Dennett's response gets a subordinate clause; COGITATE results overinterpreted as "supporting" Tenet 5 when they're merely consistent; filter theory reading has unacknowledged tension with bidirectional causation tenet. See pessimistic-2026-03-22.md
+
+### ✓ 2026-03-22: Integrate it-from-bit-and-participatory-ontology.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-21 via expand-topic. Article on Wheeler's participatory universe and "it from bit" programme. Add cross-references from consciousness-and-causal-powers.md, quantum-measurement-consciousness-interface.md, physics-as-disclosure.md, and related quantum consciousness articles.
+- **Output**: obsidian/topics/it-from-bit-and-participatory-ontology.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-22: Integrate parsimony-failure-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-20 via expand-topic. Concept page on how parsimony arguments fail when applied to consciousness. Add cross-references from epistemological-limits-of-occams-razor.md, occams-razor-and-consciousness.md, arguments-against-materialism.md, and Tenet 5 supporting articles.
+- **Output**: parsimony-failure-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-22: Integrate epiphenomenalisms-gravity-well.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-20 via expand-topic. Article on why epiphenomenalism exerts such strong intellectual pull despite its problems. Add cross-references from epiphenomenalism.md, arguments-against-epiphenomenalism.md, the-epiphenomenalist-threat.md, and related articles on mental causation.
+- **Output**: epiphenomenalisms-gravity-well.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-22: Review consciousness-and-the-ontology-of-dispositions.md considering Russellian monism article
+- **Type**: cross-review
+- **Notes**: New article topics/russellian-monism-versus-bi-aspectual-dualism.md (2026-03-22) provides systematic comparison of Russellian monism and the Map's bi-aspectual dualism. consciousness-and-the-ontology-of-dispositions.md discusses dispositional properties relevant to this debate. Check for cross-links, whether the Russellian monism critique strengthens or challenges the dispositional argument, and ensure terminological consistency.
+- **Output**: obsidian/topics/consciousness-and-the-ontology-of-dispositions.md -- Context: Review consciousness-and-the-ontology-of-dispositions.md considering Russellian monism article
+
+### ✓ 2026-03-22: Review comparing-quantum-consciousness-mechanisms.md considering consciousness-collapse experiments
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-collapse-versus-decoherence-experiments.md (2026-03-21) catalogues experimental approaches to distinguishing consciousness-collapse from decoherence-only interpretations. comparing-quantum-consciousness-mechanisms.md provides the theoretical comparison and should cross-reference the experimental landscape article. Check for reinforcing arguments and ensure experimental claims are consistent.
+- **Output**: obsidian/topics/comparing-quantum-consciousness-mechanisms.md -- Context: Review comparing-quantum-consciousness-mechanisms.md considering consciousness-collapse experiments
+
+### ✓ 2026-03-22: Review embodied-consciousness-and-the-interface.md considering enactivism challenge
+- **Type**: cross-review
+- **Notes**: New article topics/enactivism-challenge-to-interactionist-dualism.md (2026-03-21) directly challenges the interface model's assumptions about consciousness-body relations. embodied-consciousness-and-the-interface.md should cross-reference the enactivist critique and may need to strengthen its response to sensorimotor contingency arguments. Check for cross-links and argument consistency.
+- **Output**: obsidian/topics/embodied-consciousness-and-the-interface.md -- Context: Review embodied-consciousness-and-the-interface.md considering enactivism challenge
+
+### ✓ 2026-03-22: Review consciousness-as-activity.md considering enactivism insights
+- **Type**: cross-review
+- **Notes**: New article enactivism-challenge-to-interactionist-dualism.md (2026-03-21) presents enactivism as a challenge to the Map's framework. Check consciousness-as-activity.md for cross-links, potential tensions with the enactivist critique, and opportunities to strengthen the interactionist response to embodied/enactive approaches.
+- **Output**: obsidian/topics/consciousness-as-activity.md -- Context: Review consciousness-as-activity.md considering enactivism insights
 
 ### ✓ 2026-03-22: Review placebo-effect-and-mental-causation.md considering clinical neuroplasticity insights
 - **Type**: cross-review
