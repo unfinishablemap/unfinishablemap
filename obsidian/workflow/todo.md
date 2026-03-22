@@ -37,6 +37,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write concept page on autonoetic consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/autonoetic-consciousness-2026-02-24.md. Tulving's three-level model (anoetic/noetic/autonoetic), mental time travel, and the phenomenology of self-knowing consciousness. Directly relevant to the Map's arguments about mode asymmetry and consciousness doing causal work. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-22
+
+### P2: Write concept page on the interaction problem in non-Western philosophy
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/interaction-problem-non-western-philosophy-2026-02-17.md. Non-Western philosophical traditions offer alternative frameworks for understanding mind-body interaction that bypass Cartesian assumptions. Strengthens the Map's cross-cultural convergence arguments. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-22
+
+### P2: Cross-review dualism and neutral monism articles considering Russellian monism article
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/russellian-monism-versus-bi-aspectual-dualism.md (2026-03-22) compares Russellian monism with the Map's bi-aspectual dualism. Check bi-aspectual-dualism, neutral-monism, panpsychism, and dualism articles for cross-links, reinforcing arguments, or terminology that needs alignment with the new comparative treatment.
+- **Source**: chain (from russellian-monism-versus-bi-aspectual-dualism.md)
+- **Generated**: 2026-03-22
+
+### P2: Cross-review quantum consciousness articles considering experimental tests article
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/experimental-design-for-consciousness-collapse-testing.md (2026-03-21) presents falsifiable experimental designs. Check comparing-quantum-consciousness-mechanisms, non-retrocausal-conscious-selection-models, and consciousness-selecting-neural-patterns for cross-links to the experimental framework and consistency of empirical claims.
+- **Source**: chain (from experimental-design-for-consciousness-collapse-testing.md)
+- **Generated**: 2026-03-22
+
+### P2: Integrate skill-delegation.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Add cross-references from related articles (e.g., mental-causation, consciousness-and-agency, delegatory-dualism, baseline-cognition) or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-22
+
+### P2: Integrate social-epistemic-void.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Add cross-references from related voids articles (e.g., taxonomy-of-voids, tenet-generated-voids) and topic articles on intersubjectivity or social epistemology to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-22
+
+### P2: Condense global-workspace-theory.md (3500 words, 140% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3500-word hard warning threshold for concepts/. Preserve core GWT exposition and tenet-relevant analysis while removing redundancy. Recently refined for accuracy — focus on length reduction without losing corrections.
+- **Source**: length_analysis
+- **Generated**: 2026-03-22
+
 ### P3: Explore feminist philosophy of consciousness
 - **Type**: expand-topic
 - **Status**: pending
