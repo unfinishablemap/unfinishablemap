@@ -89,12 +89,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-21
 
-### P2: Update references to coalesced self-reference-paradox article
-- **Type**: cross-review
-- **Notes**: Coalesce merged self-reference-paradox.md into unobservable-self.md. 114 files reference [[self-reference-paradox]] — active content files (topics, concepts, voids) may need wikilinks updated to [[unobservable-self]]. Research and review files can be left as-is. Key active content files to check: witness-consciousness, phenomenal-transparency, introspection, ownership-void, substrate-void, other-minds-void, observation-void, indexical-void, creativity-void, narrative-void, recursion-void, measurement-void, and many more voids articles. Also check apex/taxonomy-of-voids.md and several topics articles.
-- **Source**: coalesce
-- **Generated**: 2026-03-22
-
 ### P3: Deep review epiphenomenalisms-gravity-well.md
 - **Type**: deep-review
 - **Status**: done
@@ -1149,6 +1143,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Update references to coalesced self-reference-paradox article
+- **Type**: cross-review
+- **Notes**: Coalesce merged self-reference-paradox.md into unobservable-self.md. 114 files reference [[self-reference-paradox]] — active content files (topics, concepts, voids) may need wikilinks updated to [[unobservable-self]]. Research and review files can be left as-is. Key active content files to check: witness-consciousness, phenomenal-transparency, introspection, ownership-void, substrate-void, other-minds-void, observation-void, indexical-void, creativity-void, narrative-void, recursion-void, measurement-void, and many more voids articles. Also check apex/taxonomy-of-voids.md and several topics articles.
+- **Output**: None -- Context: Update references to coalesced self-reference-paradox article
 
 ### ✓ 2026-03-22: Integrate phenomenology-of-mathematical-insight.md into site navigation
 - **Type**: integrate-orphan

@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 20:02 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/downward-causation]]
+- **Word count**: 2491 → 2497 (+6)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (uncited "2025 review" attribution)
+- **Enhancements made**: 1 (causal-delegation cross-link added to Further Reading)
+- **Output**: [[reviews/deep-review-2026-03-22-downward-causation]]
+
 ## 2026-03-22 19:46 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/mathematical-knowledge-and-insight]] (successor to archived phenomenology-of-mathematical-insight)
