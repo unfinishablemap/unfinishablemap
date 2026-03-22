@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on consciousness during general anesthesia and filter theory
-- **Type**: expand-topic
-- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Anesthesia provides a natural experiment in consciousness-physics decoupling: dissociative anesthetics (ketamine) disconnect consciousness from sensory input without abolishing it; intraoperative awareness cases reveal filter selectivity. Supports Tenets 1 and 3. Builds on anaesthesia-and-the-consciousness-interface, filter-theory. Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-22
-
 ### P2: Write void article on the recognition void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-recognition-void-2026-03-22.md. The cognitive gap between perceiving and recognising — why consciousness must "find" meaning in what it already sees. Target section: voids/ (99/100, final slot).
@@ -1167,6 +1161,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Write article on consciousness during general anesthesia and filter theory
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Anesthesia provides a natural experiment in consciousness-physics decoupling: dissociative anesthetics (ketamine) disconnect consciousness from sensory input without abolishing it; intraoperative awareness cases reveal filter selectivity. Supports Tenets 1 and 3. Builds on anaesthesia-and-the-consciousness-interface, filter-theory. Target section: topics/.
+- **Output**: consciousness during general anesthesia and filter theory
 
 ### ✓ 2026-03-22: Write article on probability and decision-theory objections to many worlds
 - **Type**: expand-topic
