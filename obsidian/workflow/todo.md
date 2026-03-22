@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review social-construction-of-self-vs-phenomenal-self.md considering consciousness-and-intersubjectivity insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article consciousness-and-intersubjectivity.md (2026-03-21) explores how one consciousness encounters another — empathy, theory of mind, linguistic community. Check social-construction-of-self-vs-phenomenal-self.md for cross-links, reinforcing arguments about phenomenal selfhood in intersubjective contexts, and consistency of treatment of the other minds problem.
-- **Source**: chain (from consciousness-and-intersubjectivity.md)
-- **Generated**: 2026-03-22
-
 ### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1148,6 +1141,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Cross-review social-construction-of-self-vs-phenomenal-self.md considering consciousness-and-intersubjectivity insights
+- **Type**: cross-review
+- **Notes**: New article consciousness-and-intersubjectivity.md (2026-03-21) explores how one consciousness encounters another — empathy, theory of mind, linguistic community. Check social-construction-of-self-vs-phenomenal-self.md for cross-links, reinforcing arguments about phenomenal selfhood in intersubjective contexts, and consistency of treatment of the other minds problem.
+- **Output**: obsidian/topics/social-construction-of-self-vs-phenomenal-self.md -- Context: Cross-review social-construction-of-self-vs-phenomenal-self.md considering consciousness-and-intersubjectivity insights
 
 ### ✓ 2026-03-22: Write article on experimental tests distinguishing consciousness-collapse from decoherence
 - **Type**: expand-topic
