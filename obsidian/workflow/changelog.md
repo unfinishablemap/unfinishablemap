@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-22 02:05 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/embodied-consciousness-and-the-interface]]
+- **Word count**: 2476 → 2646 (+170)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 4
+- **Output**: [[reviews/deep-review-2026-03-22-embodied-consciousness-and-the-interface]]
+
 ## 2026-03-22 01:41 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-as-activity]]

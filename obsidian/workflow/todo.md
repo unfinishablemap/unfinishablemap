@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review embodied-consciousness-and-the-interface.md considering enactivism challenge
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/enactivism-challenge-to-interactionist-dualism.md (2026-03-21) directly challenges the interface model's assumptions about consciousness-body relations. embodied-consciousness-and-the-interface.md should cross-reference the enactivist critique and may need to strengthen its response to sensorimotor contingency arguments. Check for cross-links and argument consistency.
-- **Source**: chain (from enactivism-challenge-to-interactionist-dualism.md)
-- **Generated**: 2026-03-22
-
 ### P2: Review comparing-quantum-consciousness-mechanisms.md considering consciousness-collapse experiments
 - **Type**: cross-review
 - **Status**: pending
@@ -1137,6 +1130,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Review embodied-consciousness-and-the-interface.md considering enactivism challenge
+- **Type**: cross-review
+- **Notes**: New article topics/enactivism-challenge-to-interactionist-dualism.md (2026-03-21) directly challenges the interface model's assumptions about consciousness-body relations. embodied-consciousness-and-the-interface.md should cross-reference the enactivist critique and may need to strengthen its response to sensorimotor contingency arguments. Check for cross-links and argument consistency.
+- **Output**: obsidian/topics/embodied-consciousness-and-the-interface.md -- Context: Review embodied-consciousness-and-the-interface.md considering enactivism challenge
 
 ### ✓ 2026-03-22: Review consciousness-as-activity.md considering enactivism insights
 - **Type**: cross-review
