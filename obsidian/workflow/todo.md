@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review dualism articles considering russellian-monism-versus-bi-aspectual-dualism.md
+- **Type**: cross-review
+- **Notes**: New article obsidian/topics/russellian-monism-versus-bi-aspectual-dualism.md compares the Map's bi-aspectual ontology to its closest competitor (Russellian monism). Check naturalistic-dualism, property-dualism, dual-aspect-monism, and panpsychism articles for cross-links, consistency of positioning claims, and potential contradictions. Directly relevant to Tenet 1 (Dualism).
+- **Source**: chain (from russellian-monism-versus-bi-aspectual-dualism.md)
+- **Generated**: 2026-03-22
+
+### P2: Cross-review epiphenomenalism articles considering arguments-against-epiphenomenalism.md
+- **Type**: cross-review
+- **Notes**: New concept page obsidian/concepts/arguments-against-epiphenomenalism.md consolidates anti-epiphenomenalism arguments. Check the-epiphenomenalist-threat.md and mental-causation.md for cross-links, reinforcing arguments, and consistency. Supports Tenet 3 (Bidirectional Interaction).
+- **Source**: chain (from arguments-against-epiphenomenalism.md)
+- **Generated**: 2026-03-22
+
+### P2: Cross-review bidirectional-causation articles considering clinical-neuroplasticity-evidence.md
+- **Type**: cross-review
+- **Notes**: New article obsidian/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md provides empirical evidence for mental causation via neuroplasticity. Check bidirectional-interaction.md, mental-causation.md, and placebo-effect-and-mental-causation.md for cross-links and cumulative argument strengthening. Directly supports Tenet 3.
+- **Source**: chain (from clinical-neuroplasticity-evidence-for-bidirectional-causation.md)
+- **Generated**: 2026-03-22
+
+### P2: Write concept article on the reconstruction paradox
+- **Type**: expand-topic
+- **Notes**: Research completed in research/reconstruction-paradox-brain-correction-2026-03-09.md. The brain selectively corrects some perceptual degradations (blind spot, saccadic gaps) while transmitting others unchanged (optical blur, tinnitus, persistent illusions). This asymmetry reveals the consciousness-brain interface architecture and supports the filter/transmission model. Cognitive impenetrability of illusions provides strong evidence that perception is not controlled by conscious knowledge. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-22
+
+### P2: Write concept article on inventory blindness
+- **Type**: expand-topic
+- **Notes**: Identified by optimistic review 2026-03-22. The recognition void introduces this concept — absent cognitive capabilities produce no signal — but it applies broadly across the voids framework and deserves a standalone concept page. Key insight: we cannot detect what cognitive architecture we lack, which strengthens the mysterian position and the Map's Tenet 5 argument. Target section: concepts/.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-22
+
+### P2: Write concept article on epistemology of limit-knowledge
+- **Type**: expand-topic
+- **Notes**: Identified by optimistic review 2026-03-22. The voids framework has 100+ articles exploring cognitive limits, but the epistemological question — how can we have knowledge about limits we cannot cross? — lacks systematic treatment. Unifies convergence-as-evidence, compound-failure-signatures, architecture-of-cognitive-closure, and recognition-void into a coherent epistemic framework. Directly serves Tenet 5 (Occam's Razor Has Limits). Target section: concepts/.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-22
+
+### P2: Add cross-links from optimistic review 2026-03-22
+- **Type**: refine-draft
+- **Notes**: Optimistic review identified 6 article pairs with strong thematic connections lacking explicit cross-references: recognition-void ↔ placebo-effect-and-mental-causation (phenomenal content determines physical outcomes), infant-consciousness ↔ consciousness-threshold-in-cognitive-evolution (within-species developmental threshold), convergence-as-evidence ↔ recognition-void (inventory blindness strengthens convergence argument), anaesthesia-and-the-consciousness-interface ↔ experimental-design-for-consciousness-collapse-testing (pharmacological manipulation for experimental design), compound-failure-signatures ↔ infant-consciousness (paradigm case of compound failure), consciousness-and-testimony ↔ other-minds-void (testimony presupposes what the void questions). See optimistic-2026-03-22-afternoon.md
+- **Source**: gap_analysis
+- **Generated**: 2026-03-22
+
 ### P3: Deep review consciousness-and-intersubjectivity.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-21 via expand-topic, never reviewed. Topics article on how one consciousness encounters another — empathy, theory of mind, linguistic community under dualism. Verify coherence, accuracy of philosophical claims, cross-references to social-construction-of-self-vs-phenomenal-self and other-minds-void, and tenet alignment.
