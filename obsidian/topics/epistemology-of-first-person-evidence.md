@@ -3,7 +3,7 @@ title: "The Epistemology of First-Person Evidence"
 created: 2026-02-11
 modified: 2026-03-23
 human_modified: null
-ai_modified: 2026-03-23T00:06:00+00:00
+ai_modified: 2026-03-23T11:22:00+00:00
 draft: false
 description: "What introspection reveals, how reliable it is, and why phenomenal reports are indispensable to consciousness science. Competing models, five calibration strategies, and the gradient of warranted trust."
 topics:
@@ -42,12 +42,15 @@ related_articles:
   - "[[argument-from-reason]]"
   - "[[social-epistemic-void]]"
   - "[[objectivity-and-consciousness]]"
+  - "[[epistemology-of-convergence-arguments]]"
+  - "[[epistemology-of-other-minds-under-dualism]]"
+  - "[[epistemology-of-mechanism-at-the-consciousness-matter-interface]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-23
 last_curated: null
-last_deep_review: 2026-03-23T00:06:00+00:00
+last_deep_review: 2026-03-23T11:22:00+00:00
 coalesced_from:
   - "/topics/epistemology-of-introspection-and-calibration/"
   - "/topics/epistemology-of-phenomenal-reports/"
@@ -135,7 +138,7 @@ Nisbett and Wilson's (1977) founding critique of introspection explicitly concer
 
 ### Strategy Two: Convergence Across Independent Traditions
 
-If introspective reports were cultural artefacts, reports from traditions with incompatible metaphysics should diverge. They converge instead — on structural findings. Buddhist vipassanā, Hindu dhyāna, Christian contemplative prayer, and secular mindfulness practitioners all report the constructed character of the narrative self, the distinction between awareness and its contents, and the discrete temporal grain of experience under sustained attention.
+If introspective reports were cultural artefacts, reports from traditions with incompatible metaphysics should diverge. They converge instead — on structural findings (see [[epistemology-of-convergence-arguments]] for formal conditions on when such convergence carries evidential weight). Buddhist vipassanā, Hindu dhyāna, Christian contemplative prayer, and secular mindfulness practitioners all report the constructed character of the narrative self, the distinction between awareness and its contents, and the discrete temporal grain of experience under sustained attention.
 
 Convergence is strongest for *structural* features and weakest for *interpretive* conclusions — precisely what genuine phenomenal access predicts. The strongest objection — that convergence reflects shared neurobiology rather than shared phenomenal access — weakens for fine-grained structural descriptions that go beyond what neurophysiology alone would predict (see [[contemplative-practice-as-philosophical-evidence]]).
 
@@ -183,13 +186,13 @@ But consciousness *is* how things seem. Phenomenal reports describe the very fea
 
 ## The Limits of Reportability
 
-Defending phenomenal reports as genuine data does not mean claiming they capture everything about experience. Some aspects of phenomenal character may resist articulation — not because reporters lack skill, but because the conceptual resources required to express certain experiences may exceed human cognitive architecture. Contemplative traditions have long recognised this: advanced meditative states are routinely described as "ineffable," and practitioners across traditions converge on the recognition that certain phenomenal features resist linguistic encoding.
+Defending phenomenal reports as genuine data does not mean claiming they capture everything about experience. Some aspects of phenomenal character may resist articulation — not because reporters lack skill, but because the conceptual resources required exceed human cognitive architecture. Contemplative traditions have long recognised this: advanced meditative states are routinely described as "ineffable."
 
 A deeper challenge comes from traditions that dissolve the observer-observed boundary. If phenomenal experience is constituted by interdependent processes rather than states possessed by a stable subject, then "phenomenal reports" may reify what is actually fluid and relational. The Map acknowledges this tension: [[phenomenological-evidence|phenomenological evidence standards]] must grapple with the possibility that some features of experience resist not only articulation but the very subject-object structure that reporting presupposes.
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]**: The Map's dualism rests on phenomenal data — qualitative character, the explanatory gap, irreducibility of what-it-is-likeness. The sui generis model secures this data's epistemic standing. Introspective knowledge of attended phenomenal content is direct presentation of the phenomenon dualist arguments identify as irreducible. Schwitzgebel's scepticism does not undermine dualism because it targets the wrong level — background and peripheral states, not the attended phenomenal content from which the hard problem draws its force. If consciousness is non-physical, phenomenal reports convey information that no third-person description can fully capture. They are windows onto an ontologically distinct domain.
+**[[tenets#^dualism|Dualism]]**: The Map's dualism rests on phenomenal data — qualitative character, the explanatory gap, irreducibility of what-it-is-likeness. The sui generis model secures this data's epistemic standing. Schwitzgebel's scepticism does not undermine dualism because it targets the wrong level — background and peripheral states, not the attended phenomenal content from which the hard problem draws its force. If consciousness is non-physical, phenomenal reports convey information that no third-person description can fully capture. They are windows onto an ontologically distinct domain.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Training-dependent improvement of introspective accuracy is itself evidence for bidirectional interaction. If consciousness were epiphenomenal, deliberate attentional training should not produce measurable improvements in reporting accuracy. That it does suggests consciousness causally participates in refining its own observational capacity. More broadly, if consciousness causally influences physical outcomes, then phenomenal reports are causally produced by the experiences they describe — grounding reliability in causal connection rather than pre-established harmony.
 
@@ -212,6 +215,9 @@ A deeper challenge comes from traditions that dissolve the observer-observed bou
 - [[knowledge-argument]] — Mary's room and the limits of physical knowledge
 - [[galilean-exclusion]] — How modern science excluded the subjective
 - [[social-epistemic-void]] — How social knowledge mechanisms filter non-standard phenomenal experience
+- [[epistemology-of-convergence-arguments]] — Formal conditions for when cross-traditional convergence carries evidential weight
+- [[epistemology-of-other-minds-under-dualism]] — How first-person evidence grounds inference to other conscious minds
+- [[epistemology-of-mechanism-at-the-consciousness-matter-interface]] — Epistemic asymmetry between first-person and third-person access to the interface
 
 ## References
 

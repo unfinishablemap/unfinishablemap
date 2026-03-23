@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review epistemology articles considering epistemology-of-first-person-evidence.md
-- **Type**: cross-review
-- **Notes**: New coalesced article topics/epistemology-of-first-person-evidence.md (merged from introspection-and-calibration + phenomenal-reports, 2026-03-22). Review related articles (contemplative-practice-as-philosophical-evidence, clinical-phenomenology-as-philosophical-evidence, consciousness-and-scientific-methodology) for cross-links and updated references to the unified article.
-- **Source**: chain (from epistemology-of-first-person-evidence.md)
-- **Generated**: 2026-03-23
-
 ### P2: Deep review epistemology-of-first-person-evidence.md
 - **Type**: deep-review
 - **Notes**: Newly coalesced article (from introspection-and-calibration + phenomenal-reports, 2026-03-22), never reviewed. Verify the merge preserved coherence, eliminated redundancy between the two source articles, and maintained tenet alignment. Check that the epistemological framework is internally consistent.
@@ -1227,6 +1221,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Cross-review epistemology articles considering epistemology-of-first-person-evidence.md
+- **Type**: cross-review
+- **Notes**: New coalesced article topics/epistemology-of-first-person-evidence.md (merged from introspection-and-calibration + phenomenal-reports, 2026-03-22). Review related articles (contemplative-practice-as-philosophical-evidence, clinical-phenomenology-as-philosophical-evidence, consciousness-and-scientific-methodology) for cross-links and updated references to the unified article.
+- **Output**: obsidian/topics/epistemology-of-first-person-evidence.md -- Context: Cross-review epistemology articles considering epistemology-of-first-person-evidence.md
 
 ### ✓ 2026-03-23: Cross-review quantum biology articles considering evolutionary-case-for-quantum-neural-effects.md
 - **Type**: cross-review
