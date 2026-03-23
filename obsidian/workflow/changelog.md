@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 07:32 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Sections checked**: voids (100/100), topics (228/230)
+- **Groups evaluated**: 10 candidate groups across both sections (attention voids, introspection voids, binding/emergence voids, social cognition topics, moral phenomenology topics, dream/sleep topics, fragmentation topics, causal powers topics, animal consciousness topics)
+- **Reason**: All candidate articles are well-differentiated. Each explicitly distinguishes itself from related articles in opening paragraphs and cross-references. Many already coalesced from prior operations. Frontmatter concept overlap does not indicate content redundancy.
+
 ## 2026-03-23 06:55 UTC - condense
 - **Status**: Success
 - **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
