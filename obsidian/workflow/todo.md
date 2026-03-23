@@ -1165,6 +1165,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Six cross-linking opportunities identified: consciousness-and-creative-distinctiveness→contemplative-practice, consciousness-and-language-interface→contemplative-practice, dream-consciousness→aesthetics-and-consciousness, binding-problem→perceptual-reconstruction-paradox, death-and-consciousness→contemplative-practice, consciousness-and-skill-acquisition→attention-as-interface. See optimistic-2026-03-22-evening.md
 - **Generated**: 2026-03-22
 
+### P3: Write article on epistemology of philosophical disagreement under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map argues for convergence across traditions, but the philosophy of disagreement literature (Christensen, Feldman, Kelly) asks what persistent peer disagreement means for rational confidence. Would strengthen convergence arguments by engaging this challenge directly. Target section: topics/. See optimistic-2026-03-23.md
+- **Generated**: 2026-03-23
+
+### P3: Write article on consciousness and emotional phenomenology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Strong cognitive phenomenology coverage (deliberation, understanding, attention) but thin emotional phenomenology. What it is like to feel anger, grief, joy, awe — emotions present distinctive challenges for physicalism and opportunities for the selection framework. Target section: topics/. See optimistic-2026-03-23.md
+- **Generated**: 2026-03-23
+
+### P3: Write article on philosophy of habit under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Habit formation marks where consciousness withdraws from direct control — the interface delegates. Ravaisson, Dewey, Carlisle, Malafouris offer untapped resources. Builds on consciousness-and-skill-acquisition, skill-delegation, attention-as-interface. Target section: topics/. See optimistic-2026-03-23.md
+- **Generated**: 2026-03-23
+
+### P3: Create concept page for interface bandwidth
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (also noted in previous review). The ~10 bits/second constraint on conscious influence appears across attention-as-interface, bandwidth-of-consciousness, and resolution-bandwidth-interface without a dedicated concept page. Target section: concepts/. See optimistic-2026-03-23.md
+- **Generated**: 2026-03-23
+
+### P3: Add cross-links from optimistic review 2026-03-23 findings
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Six cross-linking opportunities identified: inventory-blindness→dimensionality-void, epistemology-of-limit-knowledge→contemplative-practice, perceptual-reconstruction-paradox→consciousness-and-skill-acquisition, emergence-as-universal-hard-problem→the-convergence-argument-for-dualism, self-stultification-as-master-argument→consciousness-and-testimony, dimensionality-void→phenomenology-of-cognitive-limit-types. See optimistic-2026-03-23.md
+- **Generated**: 2026-03-23
+
 ## Completed Tasks
 
 
