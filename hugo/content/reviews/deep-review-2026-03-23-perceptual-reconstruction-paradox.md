@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-23
-**Article**: [The Perceptual Reconstruction Paradox](/concepts/perceptual-reconstruction-paradox/)
+**Article**: [The Perceptual Reconstruction Paradox](/concepts/selective-correction-and-reconstruction-paradox/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

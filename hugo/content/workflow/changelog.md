@@ -9,6 +9,87 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-23 21:15 UTC - condense
+- **Status**: Success
+- **File**: [self-and-self-consciousness](/concepts/self-and-self-consciousness/)
+- **Before**: 3568 words
+- **After**: 2742 words
+- **Reduction**: 23%
+- **Technique**: Cut redundancy between minimal-self and pre-reflective sections, tightened HOT theory objections, compressed Metzinger and Buddhist no-self discussions, trimmed comparative cognition examples, reduced Further Reading from 23 to 10 items
+
+## 2026-03-23 20:59 UTC - deep-review
+- **Status**: Success
+- **File**: [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)
+- **Word count**: 1770 → 1902 (+132)
+- **Critical issues addressed**: 1 (frontmatter categorization: consciousness-only-territories moved from concepts to related_articles)
+- **Medium issues addressed**: 4 (framework attribution, missing cross-link, illusionism response, Further Reading annotations)
+- **Enhancements made**: 3 (thermostat analogy, consciousness-selecting-neural-patterns link, annotated Further Reading)
+- **Output**: [deep-review-2026-03-23-selective-correction-and-reconstruction-paradox](/reviews/deep-review-2026-03-23-selective-correction-and-reconstruction-paradox/)
+
+## 2026-03-23 20:44 UTC - deep-review
+- **Status**: Skipped (archived file, terminal stability)
+- **File**: [dream-problem-solving-and-conscious-influence](/topics/dream-consciousness/) (archived 2026-03-15; coalesced into [dream-consciousness](/topics/dream-consciousness/))
+- **Notes**: File has reached terminal stability per 2026-03-19 review. Orphan status is expected for archived files. Successor article dream-consciousness.md already has 10+ inbound cross-references.
+
+## 2026-03-23 20:30 UTC - deep-review
+- **Status**: Redirected (archived file → successor integration)
+- **File**: [phenomenology-of-moral-deliberation](/topics/phenomenology-of-moral-life/) (archived; successor: [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/))
+- **Word count**: N/A (no content changes to target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status via cross-linking successor)
+- **Enhancements made**: 5 articles updated with cross-links to successor
+- **Articles updated**: phenomenology-of-deliberation-under-uncertainty, phenomenology-of-choice, moral-responsibility, diachronic-agency-and-personal-narrative, authentic-vs-inauthentic-choice
+- **Output**: [deep-review-2026-03-23-phenomenology-of-moral-deliberation](/reviews/deep-review-2026-03-23-phenomenology-of-moral-deliberation/)
+
+## 2026-03-23 20:14 UTC - deep-review
+- **Status**: Success
+- **File**: [introspection](/concepts/introspection/)
+- **Word count**: 2917 → 2963 (+46)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (blindsight claim qualified, self-reference-paradox cross-review integration)
+- **Enhancements made**: 3 (three-type taxonomy, self-stultification link, prose tightening)
+- **Context**: Cross-review considering self-reference-paradox insights
+- **Output**: [deep-review-2026-03-23-introspection](/reviews/deep-review-2026-03-23-introspection/)
+
+## 2026-03-23 19:59 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-thought/)
+- **Word count**: 2226 → 2344 (+118)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (self-reference-paradox taxonomy connection, self-stultification link, calibration problem caveat)
+- **Enhancements made**: 3 (cross-links, frontmatter updates, related_articles)
+- **Context**: Cross-review considering self-reference-paradox insights
+- **Output**: [deep-review-2026-03-23-phenomenology-of-recursive-thought](/reviews/deep-review-2026-03-23-phenomenology-of-recursive-thought/)
+
+## 2026-03-23 19:45 UTC - coalesce
+- **Status**: Success
+- **Sources**: [selective-perceptual-correction](/concepts/selective-correction-and-reconstruction-paradox/), [perceptual-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)
+- **Target**: [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)
+- **Archived**: archive/concepts/selective-perceptual-correction.md, archive/concepts/perceptual-reconstruction-paradox.md
+- **References updated**: 8 files (perceptual-reconstruction-selection, reconstruction-paradox, neural-refresh-rates-and-the-smoothness-problem, predictive-processing, phenomenal-transparency, predictive-processing-and-dualism, dualist-perception, perception, blindsight)
+- **References to review**: 0 (all active content updated)
+
+## 2026-03-23 19:29 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Lucid dreaming as mind-side rendering evidence
+- **Reason**: Already covered by [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) (coalesced 2026-03-18 from lucid-dreaming-as-capability-evidence + lucid-dreaming-and-mind-side-rendering, deep-reviewed 2026-03-19)
+
+## 2026-03-23 19:14 UTC - deep-review
+- **Status**: Success
+- **File**: [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/)
+- **Word count**: 1316 → 1326 (+10)
+- **Critical issues addressed**: 2 (fabricated citation details, broken wikilinks to archived articles)
+- **Medium issues addressed**: 3 (two author order corrections, missing cross-link)
+- **Enhancements made**: 1 (added perceptual-degradation-and-the-interface cross-link)
+- **Output**: [deep-review-2026-03-23-adaptive-cognitive-limits](/reviews/deep-review-2026-03-23-adaptive-cognitive-limits/)
+
+## 2026-03-23 19:09 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Perceptual Degradation and the Interface
+- **Output**: [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/)
+- **Word count**: 1228
+- **Based on research**: yes, [perceptual-degradation-interface-blur-2026-03-09](/research/perceptual-degradation-interface-blur-2026-03-09/)
+
 ## 2026-03-23 18:44 UTC - refine-draft
 - **Status**: Success
 - **Task**: Update stale wikilinks after coalesce of self-and-consciousness + self-consciousness

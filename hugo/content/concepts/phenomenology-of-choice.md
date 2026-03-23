@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-21 21:56:00+00:00
+ai_modified: 2026-03-23 20:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -36,6 +36,7 @@ related_articles:
 - '[[concept-of-free-will]]'
 - '[[phenomenology-of-consciousness-doing-work]]'
 - '[[phenomenology-of-temporal-consciousness-and-agency]]'
+- '[[phenomenology-of-moral-life]]'
 title: Phenomenology of Choice
 topics:
 - '[[topics/free-will]]'
@@ -211,6 +212,7 @@ The phenomenology of choice aligns with what the Map's tenets predict:
 - [witness-consciousness](/concepts/witness-consciousness/) — The contrast case of choiceless awareness
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Phenomenology across contemplative states
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge to phenomenal choice
+- [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — Moral deliberation as a domain where choice phenomenology is especially vivid
 - [retrocausality](/concepts/retrocausality/) — How atemporal selection might manifest phenomenally
 - [haecceity](/concepts/haecceity/) — Why *this* chooser matters
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — How quantum mechanics supports libertarian freedom

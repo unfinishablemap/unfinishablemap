@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-18
-**Article**: [Selective Perceptual Correction](/concepts/selective-perceptual-correction/)
+**Article**: [Selective Perceptual Correction](/concepts/selective-correction-and-reconstruction-paradox/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

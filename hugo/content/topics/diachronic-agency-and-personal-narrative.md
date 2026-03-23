@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-23 18:44:00+00:00
+ai_modified: 2026-03-23 20:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -32,6 +32,7 @@ related_articles:
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[identity-across-transformations]]'
 - '[[phenomenology-of-temporal-consciousness-and-agency]]'
+- '[[phenomenology-of-moral-life]]'
 title: Diachronic Agency and Personal Narrative
 topics:
 - '[[personal-identity]]'
@@ -138,6 +139,7 @@ Diachronic agency connects the Map's commitments in a distinctive way, linking t
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's qualitative time and lived temporal structure
 - [identity-across-transformations](/apex/identity-across-transformations/) — How the substantial self persists through radical change
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — How genuine agency transforms moral obligation, character, and moral luck
+- [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — The felt arc of moral consciousness from perception through deliberation to having chosen
 
 ## References
 

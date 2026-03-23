@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-23
-**Article**: [Selective Perceptual Correction](/concepts/selective-perceptual-correction/)
+**Article**: [Selective Perceptual Correction](/concepts/selective-correction-and-reconstruction-paradox/)
 **Previous review**: [2026-03-18](/reviews/deep-review-2026-03-18-selective-perceptual-correction/)
 
 ## Pessimistic Analysis Summary
@@ -60,7 +60,7 @@ topics: []
 - Added annotated Further Reading links for both newer articles
 
 ### Cross-links Added
-- [perceptual-reconstruction-paradox](/concepts/perceptual-reconstruction-paradox/)
+- [perceptual-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)
 - [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/)
 
 ## Remaining Items

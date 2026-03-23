@@ -46,7 +46,7 @@ topics:
 
 The Unfinishable Map argues that perception operates through an interface—a structured medium between consciousness and the physical world. Normal perception conceals this interface: experience feels like direct contact with reality. But when perception degrades—through blur, visual noise, or neurological damage—something paradoxical happens. The less faithfully experience tracks the external world, the more visible the interface becomes. This is the blur paradox: degraded perception is epistemically richer about the nature of experience itself, precisely because it is epistemically poorer about the world.
 
-This paradox matters because it exposes features of conscious experience that belong to the subject rather than to any physical object. Blur has a phenomenal character—a specific "what it is like"—that cannot be located in the external world. That character belongs to consciousness, and its visibility under degradation provides evidence for the [irreducibility of experience](#irreducibility-argument) (discussed in detail in the section on irreducibility). A companion article, [Perceptual Degradation and the Interface](/topics/perceptual-failure-and-the-interface/), examines what the *patterns* of degradation—graded loss, selective preservation, compensatory generation—reveal about the interface's architecture.
+This paradox matters because it exposes features of conscious experience that belong to the subject rather than to any physical object. Blur has a phenomenal character—a specific "what it is like"—that cannot be located in the external world. That character belongs to consciousness, and its visibility under degradation provides evidence for the [irreducibility of experience](#irreducibility-argument) (discussed in detail in the section on irreducibility). A companion article, [Perceptual Degradation and the Interface](/concepts/perceptual-degradation-and-the-interface/), examines what the *patterns* of degradation—graded loss, selective preservation, compensatory generation—reveal about the interface's architecture.
 
 ## The Transparency Illusion and Its Failure
 
@@ -110,7 +110,7 @@ The blur paradox engages several of the Map's [tenets](/tenets/).
 
 ## Further Reading
 
-- [perceptual-degradation-and-the-interface](/topics/perceptual-failure-and-the-interface/)
+- [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/)
 - [perception-and-conscious-experience](/topics/dualist-perception/)
 - [phenomenal-transparency](/concepts/phenomenal-transparency/)
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/)

@@ -31,7 +31,7 @@ related_articles:
 - '[[knowledge-argument]]'
 - '[[consciousness-as-perceptual-architect]]'
 - '[[perceptual-failure-and-the-interface]]'
-- '[[perceptual-reconstruction-paradox]]'
+- '[[selective-correction-and-reconstruction-paradox]]'
 - '[[sensorimotor-contingencies-and-the-interface]]'
 - '[[phenomenal-transparency]]'
 title: Perception
@@ -111,7 +111,7 @@ Perception is where the Map's [tenets](/tenets/) find their most concrete applic
 - [phenomenal-overflow](/concepts/phenomenal-overflow/) — When experience outruns cognitive access
 - [filter-theory](/concepts/filter-theory/) — The brain as interface rather than generator
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — What degraded perception reveals about the interface
-- [perceptual-reconstruction-paradox](/concepts/perceptual-reconstruction-paradox/) — Asymmetric perceptual editing as evidence of a conscious recipient
+- [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) — Asymmetric perceptual editing as evidence of a conscious recipient
 - [predictive-processing](/concepts/predictive-processing/) — Perception as hierarchical Bayesian inference
 
 ## References

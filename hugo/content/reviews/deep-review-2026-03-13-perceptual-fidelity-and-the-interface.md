@@ -51,7 +51,7 @@ None. Attribution is accurate; all quotes are properly sourced. No factual error
 - Added companion article to related_articles and Further Reading
 
 ### Cross-links Added
-- [perceptual-degradation-and-the-interface](/topics/perceptual-failure-and-the-interface/) — companion article on degradation patterns revealing interface architecture
+- [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/) — companion article on degradation patterns revealing interface architecture
 
 ## Remaining Items
 

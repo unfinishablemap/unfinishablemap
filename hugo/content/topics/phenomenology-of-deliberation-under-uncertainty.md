@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-15 07:30:00+00:00
+ai_modified: 2026-03-23 20:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -32,6 +32,7 @@ related_articles:
 - '[[tenets]]'
 - '[[spontaneous-intentional-action]]'
 - '[[choking-phenomenon-mental-causation]]'
+- '[[phenomenology-of-moral-life]]'
 title: The Phenomenology of Deliberation Under Uncertainty
 topics:
 - '[[topics/free-will]]'
@@ -156,6 +157,7 @@ The Unfinishable Map's framework illuminates deliberation under uncertainty at s
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Why some moments are denser with experience than others
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Deliberative vertigo applied to skilled execution under pressure
 - [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/) — When commitment arrives without extended deliberation
+- [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — The full arc of moral consciousness, where deliberative uncertainty meets competing moral demands
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-23T16:59:00+00:00
+ai_modified: 2026-03-23T21:29:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Update ~20 stale wikilinks: self-and-consciousness → self-and-self-consciousness
+- **Type**: cross-review
+- **Notes**: Coalesce merged self-and-consciousness.md + self-consciousness.md into self-and-self-consciousness.md, but ~20 active content files still reference the old `[[self-and-consciousness]]` or `[[self-and-consciousness|...]]` slug. Files include personal-identity.md, consciousness-and-memory.md, social-construction-of-self-vs-phenomenal-self.md, phenomenology.md, unity-of-consciousness.md, and others. Update all wikilinks to point to `[[self-and-self-consciousness]]` preserving display text.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-23
+
+### P2: Cross-review articles considering adaptive-cognitive-limits.md
+- **Type**: cross-review
+- **Notes**: New concept page concepts/adaptive-cognitive-limits.md created 2026-03-23 via expand-topic. Review related articles for cross-linking opportunities and consistency: compound-cognitive-limits.md, biological-cognitive-closure.md, taxonomy-of-voids.md, cognitive-closure.md, epistemology-of-limit-knowledge.md. Check for reinforcing arguments, contradictions, or terminology inconsistencies.
+- **Source**: chain (from adaptive-cognitive-limits.md)
+- **Generated**: 2026-03-23
+
+### P2: Cross-review articles considering perceptual-degradation-and-the-interface.md
+- **Type**: cross-review
+- **Notes**: New concept page concepts/perceptual-degradation-and-the-interface.md created 2026-03-23 via expand-topic. Review related articles for cross-linking: perception.md, selective-correction-and-reconstruction-paradox.md, perceptual-fidelity-and-the-interface.md, filter-theory.md, sensorimotor-contingencies-and-the-interface.md. Add [[perceptual-degradation-and-the-interface]] references where relevant.
+- **Source**: chain (from perceptual-degradation-and-the-interface.md)
+- **Generated**: 2026-03-23
+
+### P2: Deep review selective-correction-and-reconstruction-paradox.md
+- **Type**: deep-review
+- **Notes**: Coalesced 2026-03-23 from selective-perceptual-correction.md + perceptual-reconstruction-paradox.md. Never reviewed post-merge. Verify the coalesce preserved coherence, eliminated redundancy between the two source articles, maintained accurate philosophical claims, and has proper cross-references to perception.md, perceptual-degradation-and-the-interface.md, and related consciousness-interface articles.
+- **Source**: chain (from coalesce)
+- **Generated**: 2026-03-23
+
+### P3: Deep review self-and-self-consciousness.md
+- **Type**: deep-review
+- **Notes**: Coalesced from self-and-consciousness.md + self-consciousness.md and subsequently condensed on 2026-03-23. Two transformations in one day—verify the condensed coalesce preserved key arguments from both source articles, eliminated redundancy, and maintains coherent structure. Check cross-references to personal-identity, phenomenology-of-agency-vs-passivity, and social-construction-of-self-vs-phenomenal-self.
+- **Source**: staleness
+- **Generated**: 2026-03-23
+
+### P3: Fix broken wikilinks to archived/coalesced slugs
+- **Type**: refine-draft
+- **Notes**: Gap analysis found broken wikilinks to archived or coalesced article slugs: emotional-consciousness (3 refs in valence.md, evolution-of-consciousness.md, comparative-consciousness-and-interface-differences.md — archived, likely → emotion-and-dualism), attention (5 refs — likely → attention-as-interface). Verify each archived slug's replacement and update wikilinks.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-23
 
 ### P3: Deep review dimensionality-void.md
 - **Type**: deep-review

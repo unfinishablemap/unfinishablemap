@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-12 00:20:00+00:00
+ai_modified: 2026-03-23 20:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,6 +28,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[concept-of-free-will]]'
+- '[[phenomenology-of-moral-life]]'
 title: Moral Responsibility
 topics:
 - '[[topics/free-will]]'
@@ -82,7 +83,7 @@ Compatibilist desert is pragmatic: holding people responsible has good consequen
 
 Moral responsibility requires consciousness. The agent that sources action is a conscious being with [mental causation](/concepts/mental-causation/). This connects to the [consciousness-value-connection](/concepts/consciousness-value-connection/): just as consciousness grounds moral patienthood (who can be harmed), it grounds moral agency (who can be responsible). [phenomenal-value-realism](/topics/phenomenal-value-realism/) deepens this: the felt badness of suffering *constitutes* badness, so the agent who causes suffering causes something genuinely bad—not by convention but by the nature of phenomenal experience. Only a conscious being can genuinely author choices for which they deserve praise or blame.
 
-**Experience of alternatives**: Conscious choice involves experiencing alternatives as live options. Under agent causation, this phenomenology tracks reality—the alternatives were genuinely possible.
+**Experience of alternatives**: Conscious choice involves experiencing alternatives as live options. Under agent causation, this phenomenology tracks reality—the alternatives were genuinely possible. The [phenomenology of moral life](/topics/phenomenology-of-moral-life/) traces the full arc of this experience—from perceiving moral demands through deliberative weighing to the felt ownership of having chosen.
 
 **[Phenomenology of effort](/concepts/mental-effort/)**: The felt difficulty of doing right corresponds to genuine exercise of causal power against countervailing forces. If choices were merely determined, effort phenomenology would be epiphenomenal decoration.
 

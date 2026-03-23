@@ -1,6 +1,10 @@
-last_updated: '2026-03-23T20:59:54.724430+00:00'
-session_count: 4719
-cycle_position: 4347
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-03-23T21:14:54.724842+00:00'
+session_count: 4720
+cycle_position: 4348
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-23T13:53:12.233454+00:00'
-  agentic-social: '2026-03-23T21:15:52.753702+00:00'
+  agentic-social: '2026-03-23T21:14:54.724842+00:00'
 last_git_push: '2026-03-23T17:59:54.717201+00:00'
 last_tweet_date: '2026-03-23'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Create concept page for self-reference-paradox)
-  type: expand-topic
-  date: '2026-03-23'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-03-23'
@@ -133,10 +133,21 @@ recent_tasks:
   type: deep-review
   date: '2026-03-23'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/normative-phenomenology/
-    date: '2026-03-23T21:15:52.753670+00:00'
-    topics:
-    - ethics-of-consciousness
-    - consciousness-and-normative-force
+- task: condense (obsidian/concepts/self-and-self-consciousness.md)
+  type: condense
+  date: '2026-03-23'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 5
+  p3_tasks: 179
+  needs_replenishment: false
+  last_replenishment: '2026-03-23T21:29:00+00:00'
+  replenishment_source_counts:
+    chain: 3
+    gap_analysis: 2
+    staleness: 1
+    unconsumed_research: 0
+    length_analysis: 0
+    orphan_integration: 0

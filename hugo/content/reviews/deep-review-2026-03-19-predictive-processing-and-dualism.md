@@ -72,7 +72,7 @@ Updated wikilinks in 12 active content files from old slugs to `predictive-proce
 - [dualist-perception](/topics/dualist-perception/) (frontmatter, Further Reading)
 - [reconstruction-paradox](/voids/reconstruction-paradox/) (frontmatter, inline, Further Reading, self-citation URL)
 - [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/) (frontmatter, inline, Further Reading)
-- [selective-perceptual-correction](/concepts/selective-perceptual-correction/) (frontmatter, inline, Further Reading)
+- [selective-perceptual-correction](/concepts/selective-correction-and-reconstruction-paradox/) (frontmatter, inline, Further Reading)
 - [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/) (frontmatter, inline, Further Reading)
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) (frontmatter, Further Reading)
 - [categorical-surprise](/concepts/categorical-surprise/) (inline)

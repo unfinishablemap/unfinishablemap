@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-30
-ai_modified: 2026-03-12 00:20:00+00:00
+ai_modified: 2026-03-23 20:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -27,6 +27,7 @@ last_deep_review: 2026-03-04 22:03:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[phenomenology-of-moral-life]]'
 title: Phenomenology of Authentic vs. Inauthentic Choice
 topics:
 - '[[topics/free-will]]'
@@ -230,6 +231,7 @@ The authentic-inauthentic framework would face difficulty if:
 - [personal-identity](/topics/personal-identity/) — What makes the "self" that authenticates choice
 - [haecceity](/concepts/haecceity/) — The unrepeatable thisness of the choosing subject
 - [moral-responsibility](/concepts/moral-responsibility/) — How authenticity bears on desert
+- [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — The full arc of moral consciousness, where authentic deliberation is most clearly demanded
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — The full moral landscape when agency is genuine
 - [tenets](/tenets/) — The Map's foundational commitments
 

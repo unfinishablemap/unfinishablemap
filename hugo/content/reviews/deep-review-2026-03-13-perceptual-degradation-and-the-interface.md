@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-13
-**Article**: [Perceptual Degradation and the Interface](/topics/perceptual-failure-and-the-interface/)
+**Article**: [Perceptual Degradation and the Interface](/concepts/perceptual-degradation-and-the-interface/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

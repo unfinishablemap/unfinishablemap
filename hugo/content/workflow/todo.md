@@ -1241,6 +1241,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ## Completed Tasks
 
 
+### ✓ 2026-03-23: Condense self-and-self-consciousness.md (3568 words, 143% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Recently created via coalesce merging self-and-consciousness + self-consciousness. Preserve core arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/self-and-self-consciousness.md
+
+### ✓ 2026-03-23: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Add cross-references from related articles (dreams-as-consciousness-laboratory, sleep-consciousness-void, bidirectional interaction topics) or update section index pages.
+- **Output**: dream-problem-solving-and-conscious-influence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-23: Integrate phenomenology-of-moral-deliberation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Add cross-references from related articles (free-will, phenomenology-of-agency-vs-passivity, ethics-of-consciousness) or update section index pages to include navigation to this content.
+- **Output**: phenomenology-of-moral-deliberation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-23: Cross-review introspection.md considering self-reference-paradox insights
+- **Type**: cross-review
+- **Notes**: New article concepts/self-reference-paradox.md directly bears on introspective self-reference. Check concepts/introspection.md for opportunities to link to the paradox, strengthen the introspection reliability argument, or note where self-reference creates limits on introspective access.
+- **Output**: obsidian/concepts/introspection.md -- Context: Cross-review introspection.md considering self-reference-paradox insights
+
+### ✓ 2026-03-23: Cross-review phenomenology-of-recursive-thought.md considering self-reference-paradox insights
+- **Type**: cross-review
+- **Notes**: New article concepts/self-reference-paradox.md explores how self-reference creates paradoxes for consciousness theories. Check phenomenology-of-recursive-thought.md for cross-links, reinforcing arguments about recursive awareness, or terminology alignment.
+- **Output**: obsidian/topics/phenomenology-of-recursive-thought.md -- Context: Cross-review phenomenology-of-recursive-thought.md considering self-reference-paradox insights
+
+### ✓ 2026-03-23: Write article on lucid dreaming as mind-side rendering evidence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/lucid-dreaming-mind-side-rendering-2026-03-09.md. Lucid dreaming as evidence that consciousness can generate full perceptual scenes without physical input — supports bidirectional interaction (Tenet 3). Target section: topics/.
+- **Output**: lucid dreaming as mind-side rendering evidence
+
+### ✓ 2026-03-23: Write concept page on perceptual degradation and the interface
+- **Type**: expand-topic
+- **Notes**: Research completed in research/perceptual-degradation-interface-blur-2026-03-09.md. What blur, scotoma, and degraded percepts reveal about the consciousness-physics interface — how perceptual breakdown maps to interface architecture. Target section: concepts/.
+- **Output**: Write concept page on perceptual degradation and the interface
+
 ### ✓ 2026-03-23: Update references to coalesced self/self-consciousness articles
 - **Type**: refine-draft
 - **Notes**: Coalesce merged `self-and-consciousness` and `self-consciousness` into `self-and-self-consciousness`. ~35 active content files still reference the archived slugs. Update `[self-and-consciousness](/concepts/self-and-self-consciousness/)` → `[self-and-self-consciousness](/concepts/self-and-self-consciousness/)` and `[self-consciousness](/concepts/self-and-self-consciousness/)` → `[self-and-self-consciousness](/concepts/self-and-self-consciousness/)` across all active content (topics/, concepts/, voids/). Reviews and research notes can be left as-is since they are historical records.
