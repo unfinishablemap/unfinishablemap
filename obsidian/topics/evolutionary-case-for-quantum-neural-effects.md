@@ -4,7 +4,7 @@ description: "If evolution optimised quantum effects for bird navigation and enz
 created: 2026-03-23
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-03-23T06:10:00+00:00
+ai_modified: 2026-03-23T11:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-23
 last_curated:
-last_deep_review: 2026-03-23T06:10:00+00:00
+last_deep_review: 2026-03-23T11:06:00+00:00
 ---
 
 Evolution has already optimised quantum effects in multiple biological systems—avian magnetoreception, enzyme catalysis, and photosynthetic energy transfer. The Unfinishable Map argues that the same evolutionary logic applies to neural systems, where the computational payoffs of quantum effects would dwarf those of a compass or a faster enzyme. If natural selection discovered quantum solutions for navigation and chemistry, the question is not whether it *could* discover them for neural computation, but whether the selective pressures were strong enough to drive it there.
@@ -94,7 +94,9 @@ If quantum effects occur in neural systems—and the [[quantum-biology-and-neura
 
 The strongest objection holds that even if evolution *could* exploit quantum effects in neural systems, [[decoherence]] makes the task enormously harder than in existing quantum biological systems. Magnetoreception operates in the retina—a relatively isolated environment with light-driven chemistry. Neural tissue is warmer, noisier, and more electrochemically active.
 
-This objection has weakened considerably. Revised decoherence estimates for microtubule interiors yield 10-100 microseconds (Hagan et al., 2002)—comparable to radical pair coherence times in cryptochrome—though these estimates come from Hameroff's collaborators and await independent confirmation. More fundamentally, evolution routinely solves problems that appear thermodynamically prohibitive. ATP synthase operates as a molecular rotary motor with near-perfect efficiency. Photosystem II splits water using sunlight. The [[evolved-cognitive-limits|Fitness-Beats-Truth theorem]] offers a relevant caution here: human intuitions about what seems "biologically plausible" are shaped by fitness rather than truth. Our sense that warm biology *should* be classical may reflect cognitive convenience rather than physical reality—precisely the mistake researchers made before quantum effects in photosynthesis and magnetoreception were confirmed.
+This objection has weakened considerably on two fronts. First, revised decoherence estimates for microtubule interiors yield 10-100 microseconds (Hagan et al., 2002)—comparable to radical pair coherence times in cryptochrome—though these estimates come from Hameroff's collaborators and await independent confirmation. Second, several proposed neural quantum mechanisms—ion channel tunnelling, synaptic tunnelling, Posner molecule nuclear spin—operate through discrete quantum events rather than sustained coherence, sidestepping the decoherence barrier entirely (see [[quantum-neural-mechanisms-and-coherence]]). The decoherence objection applies unevenly: it constrains theories requiring sustained superposition but leaves discrete-event mechanisms untouched.
+
+More fundamentally, evolution routinely solves problems that appear thermodynamically prohibitive. ATP synthase operates as a molecular rotary motor with near-perfect efficiency. Photosystem II splits water using sunlight. The [[evolved-cognitive-limits|Fitness-Beats-Truth theorem]] offers a relevant caution here: human intuitions about what seems "biologically plausible" are shaped by fitness rather than truth. Our sense that warm biology *should* be classical may reflect cognitive convenience rather than physical reality—precisely the mistake researchers made before quantum effects in photosynthesis and magnetoreception were confirmed.
 
 ### Sufficiency of Classical Neural Computation
 
@@ -126,7 +128,7 @@ The evolutionary argument connects to the Map's [[tenets]] at several points:
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If evolution has optimised quantum effects in neural systems, the points of quantum indeterminacy where the Map proposes consciousness acts are not exotic theoretical constructs but evolved biological features—products of billions of years of natural selection, just like the quantum compass in a bird's eye.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The evolutionary argument strengthens the case for bidirectional interaction by establishing that neural quantum effects, if they exist, were shaped by selection for function. A quantum process at the synapse that evolution has optimised for signal control is precisely the kind of interface through which consciousness could influence neural outcomes.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The evolutionary argument strengthens the case for bidirectional interaction by establishing that neural quantum effects, if they exist, were shaped by selection for function. A quantum process at the synapse that evolution has optimised for signal control is precisely the kind of interface through which consciousness could influence neural outcomes. This complements [[evolutionary-case-for-mental-causation|the evolutionary case for mental causation]], which argues from evolutionary logic that consciousness must be causally efficacious. Together, the two arguments suggest that evolution both required consciousness to have causal power and built the quantum substrate through which that power operates.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The history of quantum biology itself illustrates this tenet. The assumption that warm biology must be classical seemed parsimonious until birds turned out to navigate by quantum entanglement. Dismissing quantum neural effects as too complex an evolutionary solution may repeat the same mistake.
 

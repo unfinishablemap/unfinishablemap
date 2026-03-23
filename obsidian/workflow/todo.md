@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review quantum biology articles considering evolutionary-case-for-quantum-neural-effects.md
-- **Type**: cross-review
-- **Notes**: New article topics/evolutionary-case-for-quantum-neural-effects.md created 2026-03-23. Review related articles (amplification-mechanisms-consciousness-physics, comparing-quantum-consciousness-mechanisms, quantum-biology-and-consciousness) for cross-links and consistency with the new evolutionary evidence synthesis.
-- **Source**: chain (from evolutionary-case-for-quantum-neural-effects.md)
-- **Generated**: 2026-03-23
-
 ### P2: Cross-review epistemology articles considering epistemology-of-first-person-evidence.md
 - **Type**: cross-review
 - **Notes**: New coalesced article topics/epistemology-of-first-person-evidence.md (merged from introspection-and-calibration + phenomenal-reports, 2026-03-22). Review related articles (contemplative-practice-as-philosophical-evidence, clinical-phenomenology-as-philosophical-evidence, consciousness-and-scientific-methodology) for cross-links and updated references to the unified article.
@@ -1233,6 +1227,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Cross-review quantum biology articles considering evolutionary-case-for-quantum-neural-effects.md
+- **Type**: cross-review
+- **Notes**: New article topics/evolutionary-case-for-quantum-neural-effects.md created 2026-03-23. Review related articles (amplification-mechanisms-consciousness-physics, comparing-quantum-consciousness-mechanisms, quantum-biology-and-consciousness) for cross-links and consistency with the new evolutionary evidence synthesis.
+- **Output**: obsidian/topics/evolutionary-case-for-quantum-neural-effects.md -- Context: Cross-review quantum biology articles considering evolutionary-case-for-quantum-neural-effects.md
 
 ### ✓ 2026-03-23: Fix Chalmers-McQueen Q-shape consistency across quantum articles
 - **Type**: refine-draft
