@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review biological-cognitive-closure.md considering adaptive-cognitive-limits insights
-- **Type**: cross-review
-- **Notes**: New article concepts/adaptive-cognitive-limits.md (created 2026-03-23) provides evidence that cognitive limits are fitness-optimised rather than defects. biological-cognitive-closure.md references cognitive-aversion and limits-reveal-structure but lacks reciprocal link to adaptive-cognitive-limits. Check for cross-links, reinforcing arguments about evolutionary design of cognition, and terminology consistency.
-- **Source**: chain (from adaptive-cognitive-limits.md)
-- **Generated**: 2026-03-23
-
 ### P2: Cross-review capability-division-problem.md considering lucid-dreaming-and-dualist-rendering insights
 - **Type**: cross-review
 - **Notes**: Lucid-dreaming-and-dualist-rendering.md (updated 2026-03-20 via coalesce) provides concrete empirical evidence for the capability division problem — dreaming demonstrates mind-side rendering when brain-side sensory input is absent. capability-division-problem.md references dream-consciousness but not the lucid dreaming article. Add cross-links and integrate lucid dreaming evidence.
@@ -1286,6 +1280,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Cross-review biological-cognitive-closure.md considering adaptive-cognitive-limits insights
+- **Type**: cross-review
+- **Notes**: New article concepts/adaptive-cognitive-limits.md (created 2026-03-23) provides evidence that cognitive limits are fitness-optimised rather than defects. biological-cognitive-closure.md references cognitive-aversion and limits-reveal-structure but lacks reciprocal link to adaptive-cognitive-limits. Check for cross-links, reinforcing arguments about evolutionary design of cognition, and terminology consistency.
+- **Output**: obsidian/voids/biological-cognitive-closure.md -- Context: Cross-review biological-cognitive-closure.md considering adaptive-cognitive-limits insights
 
 ### ✓ 2026-03-23: Update references to coalesced selection-laws article
 - **Type**: cross-review
