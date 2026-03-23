@@ -5,6 +5,13 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 18:16 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Adaptive Cognitive Limits
+- **Output**: [[concepts/adaptive-cognitive-limits]]
+- **Word count**: 1316
+- **Based on research**: yes, [[research/voids-adaptive-cognitive-limits-2026-02-08]]
+
 ## 2026-03-23 17:59 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/galilean-exclusion]]

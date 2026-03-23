@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for adaptive-cognitive-limits
-- **Type**: expand-topic
-- **Notes**: Referenced by 3 content files (`three-kinds-of-void` and others) but has no page. The concept that certain cognitive limitations may serve adaptive functions — evolved constraints that are features rather than bugs — is relevant to the voids programme and Tenet 5 (Occam's Razor Has Limits). Research note `research/voids-adaptive-cognitive-limits-2026-02-08.md` available as source. Target section: concepts/ (224/230, 6 slots remaining).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-23
-
 ### P2: Fix 5 broken wikilinks to consciousness-and-the-neuroscience-of-deliberate-practice
 - **Type**: refine-draft
 - **Notes**: No `consciousness-and-the-neuroscience-of-deliberate-practice.md` exists. 5 content files reference it (including clinical-neuroplasticity-evidence and phenomenology-of-cognitive-capacity articles). The closest existing article is `consciousness-and-skill-acquisition.md` (topics/). Update all 5 broken wikilinks to point to the correct existing content.
@@ -1251,6 +1245,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Create concept page for adaptive-cognitive-limits
+- **Type**: expand-topic
+- **Notes**: Referenced by 3 content files (`three-kinds-of-void` and others) but has no page. The concept that certain cognitive limitations may serve adaptive functions — evolved constraints that are features rather than bugs — is relevant to the voids programme and Tenet 5 (Occam's Razor Has Limits). Research note `research/voids-adaptive-cognitive-limits-2026-02-08.md` available as source. Target section: concepts/ (224/230, 6 slots remaining).
+- **Output**: Create concept page for adaptive-cognitive-limits
 
 ### ✓ 2026-03-23: Cross-review articles considering self-reference-paradox.md insights
 - **Type**: cross-review
