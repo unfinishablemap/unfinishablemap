@@ -4,7 +4,7 @@ description: "The brain silently corrects some perceptual errors while faithfull
 created: 2026-03-17
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-03-23T19:45:00+00:00
+ai_modified: 2026-03-23T20:59:00+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -17,13 +17,14 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[filter-theory]]"
   - "[[phenomenal-consciousness]]"
-  - "[[consciousness-only-territories]]"
   - "[[heterophenomenology]]"
   - "[[perceptual-reconstruction-selection]]"
   - "[[phenomenal-transparency]]"
+  - "[[consciousness-selecting-neural-patterns]]"
 related_articles:
   - "[[tenets]]"
   - "[[reconstruction-paradox]]"
+  - "[[consciousness-only-territories]]"
   - "[[hard-problem-of-consciousness]]"
   - "[[illusionism]]"
   - "[[epiphenomenalism]]"
@@ -34,7 +35,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-23
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-23T20:59:00+00:00
 coalesced_from:
   - "/concepts/selective-perceptual-correction/"
   - "/concepts/perceptual-reconstruction-paradox/"
@@ -60,7 +61,7 @@ The most revealing cases are cognitively impenetrable illusions. The Müller-Lye
 
 ## The Computational Account
 
-[[predictive-processing-and-dualism|Predictive processing]] provides the best mechanistic explanation. The brain corrects when three conditions converge:
+[[predictive-processing-and-dualism|Predictive processing]] provides the best mechanistic explanation. Drawing on the precision-weighting framework (Friston, 2005; Clark, 2013), the Map identifies three conditions that converge when the brain corrects:
 
 1. **Confident prior prediction** — a well-established statistical model of what to expect
 2. **Ambiguous or absent sensory evidence** — low-precision input that the model can override
@@ -70,7 +71,7 @@ It transmits faithfully when sensory signals are precise and reliable, when no p
 
 This three-condition framework explains the pattern. Blind spot filling meets all three conditions: the brain has strong contextual priors, the sensory evidence is literally absent, and filling serves visual continuity. Optical blur fails condition two: the retinal signal is precise, so the brain has no basis for overriding it. The Müller-Lyer illusion fails by encapsulation: the perceptual module cannot receive the correction that higher cognition would supply.
 
-A third mode emerges when neither autonomous correction nor faithful transmission applies: the brain generates multiple viable reconstructions and consciousness must select among them. Bistable percepts — the Necker cube, binocular rivalry — exemplify this case. [[perceptual-reconstruction-selection|Perceptual reconstruction selection]] explores how this third mode completes the taxonomy: autonomous correction, faithful transmission, and selection under ambiguity each involve a different relationship between brain processing and conscious experience.
+A third mode emerges when neither autonomous correction nor faithful transmission applies: the brain generates multiple viable reconstructions and consciousness must select among them. Bistable percepts — the Necker cube, binocular rivalry — exemplify this case. [[perceptual-reconstruction-selection|Perceptual reconstruction selection]] explores how this third mode completes the taxonomy: autonomous correction, faithful transmission, and selection under ambiguity each involve a different relationship between brain processing and conscious experience. The selection mode is particularly significant for the Map's framework because it provides direct evidence of [[consciousness-selecting-neural-patterns|consciousness selecting among neural patterns]] — the very mechanism the Map's tenets predict.
 
 ## The Paradox
 
@@ -78,7 +79,7 @@ The computational account explains *how* the brain decides what to correct. It d
 
 This makes the reconstruction paradox a perceptual reformulation of the [[hard-problem-of-consciousness|hard problem]]. The experiential difference transforms selective perceptual correction from a neuroscience finding into a philosophical concept. The brain curates a feed for consciousness — sometimes editing, sometimes transmitting raw signal — and the curation implies a recipient whose experience the curation shapes. If consciousness simply *were* the neural processing, there would be no meaningful sense in which blind spot filling "works." It would just be computation with no subject to be informed or misled.
 
-The [[illusionism|illusionist]] response denies the recipient: consciousness is itself a reconstruction, the brain's model of its own processing. Dennett's [[heterophenomenology]] would treat the reported difference between blind-spot filling and optical blur as a disposition to judge, not as evidence of genuine [[phenomenal-consciousness|phenomenal]] difference. But this relocates rather than dissolves the problem. Even on a purely functional reading, the system generates two distinct types of functional seeming — one for edited signals, one for raw transmission — and the existence of this functional bifurcation demands explanation. Why does the system bother generating distinct functional states for its two processing modes, if no one is there to be informed?
+The [[illusionism|illusionist]] response denies the recipient: consciousness is itself a reconstruction, the brain's model of its own processing. Dennett's [[heterophenomenology]] would treat the reported difference between blind-spot filling and optical blur as a disposition to judge, not as evidence of genuine [[phenomenal-consciousness|phenomenal]] difference. But this relocates rather than dissolves the problem. Even on a purely functional reading, the system generates two distinct types of functional seeming — one for edited signals, one for raw transmission — and the existence of this functional bifurcation demands explanation. A thermostat operates in two modes (heating, cooling) without generating distinct experiential states for each. The brain's two-mode processing would be equally unremarkable if it produced no qualitative difference. The fact that it does — that blind-spot filling *feels* seamless while blur *feels* degraded — is precisely the datum that functional accounts must explain rather than redescribe. Why does the system bother generating distinct functional states for its two processing modes, if no one is there to be informed?
 
 ## Cognitive Impenetrability and Phenomenal Transparency
 
@@ -106,10 +107,10 @@ Cognitive impenetrability is closely related to [[phenomenal-transparency]] — 
 - [[perceptual-failure-and-the-interface]] — What degraded perception reveals about the interface
 - [[filter-theory]] — Consciousness as filter rather than generator
 - [[blindsight]] — Visual processing without conscious transmission
-- [[dualist-perception]]
-- [[predictive-processing-and-dualism]]
-- [[attention-as-interface]]
-- [[consciousness-only-territories]]
+- [[dualist-perception]] — How perception provides evidence for dualist frameworks
+- [[predictive-processing-and-dualism]] — The computational framework underlying correction and transmission
+- [[attention-as-interface]] — How attention mediates consciousness's influence on perception
+- [[consciousness-only-territories]] — The epistemic boundaries that the reconstruction paradox reveals
 
 ## References
 

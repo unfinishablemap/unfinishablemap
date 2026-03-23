@@ -5,6 +5,15 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 20:59 UTC - deep-review
+- **Status**: Success
+- **File**: [[selective-correction-and-reconstruction-paradox]]
+- **Word count**: 1770 → 1902 (+132)
+- **Critical issues addressed**: 1 (frontmatter categorization: consciousness-only-territories moved from concepts to related_articles)
+- **Medium issues addressed**: 4 (framework attribution, missing cross-link, illusionism response, Further Reading annotations)
+- **Enhancements made**: 3 (thermostat analogy, consciousness-selecting-neural-patterns link, annotated Further Reading)
+- **Output**: [[reviews/deep-review-2026-03-23-selective-correction-and-reconstruction-paradox]]
+
 ## 2026-03-23 20:44 UTC - deep-review
 - **Status**: Skipped (archived file, terminal stability)
 - **File**: [[dream-problem-solving-and-conscious-influence]] (archived 2026-03-15; coalesced into [[dream-consciousness]])
