@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on lucid dreaming as mind-side rendering evidence
-- **Type**: expand-topic
-- **Notes**: Research completed in research/lucid-dreaming-mind-side-rendering-2026-03-09.md. Lucid dreaming as evidence that consciousness can generate full perceptual scenes without physical input — supports bidirectional interaction (Tenet 3). Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-23
-
 ### P2: Cross-review phenomenology-of-recursive-thought.md considering self-reference-paradox insights
 - **Type**: cross-review
 - **Notes**: New article concepts/self-reference-paradox.md explores how self-reference creates paradoxes for consciousness theories. Check phenomenology-of-recursive-thought.md for cross-links, reinforcing arguments about recursive awareness, or terminology alignment.
@@ -1275,6 +1269,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Write article on lucid dreaming as mind-side rendering evidence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/lucid-dreaming-mind-side-rendering-2026-03-09.md. Lucid dreaming as evidence that consciousness can generate full perceptual scenes without physical input — supports bidirectional interaction (Tenet 3). Target section: topics/.
+- **Output**: lucid dreaming as mind-side rendering evidence
 
 ### ✓ 2026-03-23: Write concept page on perceptual degradation and the interface
 - **Type**: expand-topic

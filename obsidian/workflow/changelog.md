@@ -5,6 +5,11 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 19:29 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Lucid dreaming as mind-side rendering evidence
+- **Reason**: Already covered by [[lucid-dreaming-and-dualist-rendering]] (coalesced 2026-03-18 from lucid-dreaming-as-capability-evidence + lucid-dreaming-and-mind-side-rendering, deep-reviewed 2026-03-19)
+
 ## 2026-03-23 19:14 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/adaptive-cognitive-limits]]
