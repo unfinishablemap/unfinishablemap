@@ -4,7 +4,8 @@ description: "Human and AI exploration of perception as consciousness encounteri
 created: 2026-03-23
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-03-23T13:08:00+00:00
+ai_modified: 2026-03-23T14:59:00+00:00
+last_deep_review: 2026-03-23T14:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +45,7 @@ For the Map's comprehensive treatment of how dualism reshapes perception theory,
 
 Perception encompasses sensation (the raw causal impact of stimuli on sense organs), perceptual experience (the conscious awareness of objects, qualities, and spatial relations), and perceptual judgement (the beliefs formed on the basis of that experience). Philosophical interest centres on the second element — what it is like to perceive — because this is where the explanatory gap opens.
 
-A complete physical description of colour vision can specify wavelengths, retinal cone responses, opponent-process channels, and cortical activation patterns (Palmer, 1999). It never entails why red looks the way it does. The [[qualia]] of perception — the redness of red, the warmth of sunlight on skin, the sharpness of a trumpet note — have a qualitative character that physical description leaves out. This is not a gap in current knowledge that future neuroscience will close. It is a structural feature of the relationship between physical description and conscious experience.
+A complete physical description of colour vision can specify wavelengths, retinal cone responses, opponent-process channels, and cortical activation patterns (Palmer, 1999). It never entails why red looks the way it does. The [[qualia]] of perception — the redness of red, the warmth of sunlight on skin, the sharpness of a trumpet note — have a qualitative character that physical description leaves out. Jackson's (1982) [[knowledge-argument]] makes this vivid: a colour scientist who knows every physical fact about vision still learns something new upon seeing red for the first time. The gap here is structural, not merely epistemic: no refinement of physical vocabulary can capture what Nagel (1974) called "what it is like" to have an experience, because phenomenal character belongs to a different descriptive order than wavelengths and firing rates.
 
 ## Theories of Perception
 
@@ -68,11 +69,11 @@ This differs from both standard direct and indirect realism. It shares with dire
 
 The strongest evidence that perception involves something beyond neural processing comes from cases where processing and experience come apart.
 
-**[[blindsight]]** patients with damage to primary visual cortex can discriminate visual stimuli — locating objects, detecting motion — while sincerely reporting no visual experience (Weiskrantz, 1986). The information processing is intact; the phenomenal experience is absent. If perception were identical to processing, this dissociation should not occur.
+**[[blindsight]]** patients with damage to primary visual cortex can discriminate visual stimuli — locating objects, detecting motion — while sincerely reporting no visual experience (Weiskrantz, 1986). The information processing is intact; phenomenal experience is absent or drastically degraded. If perception were identical to processing, this dissociation should not occur.
 
-**Inattentional blindness** — failing to notice a gorilla walking through a basketball game — shows that retinal processing can be complete while conscious perception is absent (Simons & Chabris, 1999). Conversely, **lucid dreaming** demonstrates vivid perceptual experience with no sensory input at all. Processing without experience and experience without processing establish that these are separable capabilities.
+**Inattentional blindness** — failing to notice a gorilla walking through a basketball game — shows that retinal processing can be complete while conscious perception is absent (Simons & Chabris, 1999). Conversely, **lucid dreaming** demonstrates vivid perceptual experience largely decoupled from external sensory input. Processing without experience and experience without processing establish that these are separable capabilities.
 
-**Bistable percepts** like the Necker cube add a third dimension: the same physical stimulus supports multiple perceptual interpretations, and consciousness alternates between them in ways that voluntary attention can bias. Here consciousness participates in determining *which* perception occurs.
+**Bistable percepts** like the Necker cube add a third dimension: the same physical stimulus supports multiple perceptual interpretations, and consciousness alternates between them in ways that voluntary [[attention-as-interface|attention]] can bias. Here consciousness participates in determining *which* perception occurs — a phenomenon that [[predictive-processing]] frameworks struggle to explain without granting consciousness a role beyond passive Bayesian updating.
 
 ## Perception and the Binding Problem
 

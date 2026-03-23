@@ -5,6 +5,15 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 14:59 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/perception]]
+- **Word count**: 1294 → 1355 (+61)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (style guide cliché, overstated lucid dreaming claim, blindsight oversimplification, unused references, missing cross-links)
+- **Enhancements made**: 4 (Jackson knowledge argument, Nagel reference, predictive-processing cross-link, attention-as-interface cross-link)
+- **Output**: [[reviews/deep-review-2026-03-23-perception]]
+
 ## 2026-03-23 14:52 UTC - condense
 - **Status**: Success
 - **File**: [[voids/biological-cognitive-closure]]
