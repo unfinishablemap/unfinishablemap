@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate disorders-of-consciousness-as-test-cases.md into site navigation (persistent orphan)
-- **Type**: integrate-orphan
-- **Notes**: File still has no inbound links despite prior integration attempt (2026-02-22). Important empirical evidence article — disorders of consciousness (vegetative states, locked-in syndrome, dissociative conditions) test the Map's dualist framework. Needs cross-references from consciousness.md, filter-theory.md, hard-problem-of-consciousness.md, neural-correlates-of-consciousness.md, clinical-neuroplasticity-evidence.md, and phenomenological-psychiatry articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-23
-
 ### P2: Deep review consciousness-and-skill-acquisition.md
 - **Type**: deep-review
 - **Notes**: Article was condensed on 2026-03-23 from 4151 to ~2676 words. Post-condensation review needed to verify the condensed version preserved core arguments, maintained coherent cross-references, and didn't introduce logical gaps. Check tenet alignment and accuracy of claims about skill acquisition under dualism.
@@ -1173,6 +1167,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Integrate disorders-of-consciousness-as-test-cases.md into site navigation (persistent orphan)
+- **Type**: integrate-orphan
+- **Notes**: File still has no inbound links despite prior integration attempt (2026-02-22). Important empirical evidence article — disorders of consciousness (vegetative states, locked-in syndrome, dissociative conditions) test the Map's dualist framework. Needs cross-references from consciousness.md, filter-theory.md, hard-problem-of-consciousness.md, neural-correlates-of-consciousness.md, clinical-neuroplasticity-evidence.md, and phenomenological-psychiatry articles.
+- **Output**: obsidian/topics/disorders-of-consciousness-as-test-cases.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-23: Integrate the-participatory-universe.md into site navigation (persistent orphan)
 - **Type**: integrate-orphan

@@ -4,7 +4,7 @@ description: "Blindsight, anosognosia, alien hand syndrome, and other dissociati
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-03-20T20:14:00+00:00
+ai_modified: 2026-03-23T04:22:00+00:00
 last_deep_review: 2026-03-10T22:23:00+00:00
 draft: false
 topics:
@@ -189,6 +189,7 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 - [[attention-and-the-consciousness-interface]] — What attention pathology reveals and the broader attention-consciousness relationship
 - [[mind-matter-interface]] — The two-layer architecture these dissociations map
 - [[clinical-phenomenology-as-philosophical-evidence]] — How clinical disruptions as a class generate doubly grounded philosophical evidence
+- [[disorders-of-consciousness-as-test-cases]] — Vegetative states, CMD, and locked-in syndrome test theories via consciousness-behaviour dissociation
 - [[embodied-consciousness-and-the-interface]] — Body-level interface considerations
 
 ## References

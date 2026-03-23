@@ -4,7 +4,7 @@ description: "Anaesthetic pharmacology maps the consciousness-brain interface wi
 created: 2026-02-23
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-03-22T23:34:00+00:00
+ai_modified: 2026-03-23T04:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -152,6 +152,7 @@ Anaesthetic pharmacology connects to each of the Map's [[tenets]] in concrete wa
 
 ## Further Reading
 
+- [[disorders-of-consciousness-as-test-cases]] — Vegetative states, CMD, and locked-in syndrome as parallel cases of consciousness-behaviour dissociation
 - [[loss-of-consciousness]] — Broader treatment of consciousness loss including coma, sleep, and covert consciousness
 - [[filter-theory]] — The transmission model of brain-consciousness relation
 - [[the-interface-location-problem]] — Where consciousness meets the brain: candidates and constraints

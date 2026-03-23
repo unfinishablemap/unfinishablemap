@@ -4,8 +4,8 @@ description: "Vegetative states, covert awareness, and locked-in syndrome discri
 created: 2026-02-11
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-20T20:14:00+00:00
-last_deep_review: 2026-03-19T12:18:00+00:00
+ai_modified: 2026-03-23T04:22:00+00:00
+last_deep_review: 2026-03-23T04:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
