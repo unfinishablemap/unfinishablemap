@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review cognitive-closure.md considering inventory blindness insights
-- **Type**: cross-review
-- **Notes**: New article concepts/inventory-blindness.md (created 2026-03-22) explores systematic blind spots in our conceptual inventory. Review concepts/cognitive-closure.md for cross-links to the new article, whether the inventory blindness framework strengthens or refines the cognitive closure treatment, and consistency in how epistemic limitations are characterized.
-- **Source**: chain (from inventory-blindness.md)
-- **Generated**: 2026-03-22
-
 ### P2: Cross-review selective-perceptual-correction.md considering perceptual reconstruction paradox
 - **Type**: cross-review
 - **Notes**: New article concepts/perceptual-reconstruction-paradox.md (created 2026-03-22) develops the paradox of brain reconstruction under dualism. Review concepts/selective-perceptual-correction.md for cross-links, whether the reconstruction paradox provides new arguments or tensions, and consistency in how perceptual correction mechanisms are framed.
@@ -1203,6 +1197,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Cross-review cognitive-closure.md considering inventory blindness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/inventory-blindness.md (created 2026-03-22) explores systematic blind spots in our conceptual inventory. Review concepts/cognitive-closure.md for cross-links to the new article, whether the inventory blindness framework strengthens or refines the cognitive closure treatment, and consistency in how epistemic limitations are characterized.
+- **Output**: obsidian/concepts/cognitive-closure.md -- Context: Cross-review cognitive-closure.md considering inventory blindness insights
 
 ### ✓ 2026-03-23: Update references to coalesced epistemology articles
 - **Type**: cross-review
