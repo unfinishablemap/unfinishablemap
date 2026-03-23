@@ -5,6 +5,14 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 06:55 UTC - condense
+- **Status**: Success
+- **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
+- **Before**: 4001
+- **After**: 3014
+- **Reduction**: 25%
+- **Technique**: Cut redundant xenon-ketamine re-explanation in filter theory section, removed tangential consciousness monitoring section, trimmed overlong tenet paragraphs (bidirectional, MQI), tightened prose throughout
+
 ## 2026-03-23 06:41 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/consciousness]]

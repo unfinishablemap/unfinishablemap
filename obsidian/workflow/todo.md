@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense anaesthesia-and-the-consciousness-interface.md (4001 words, 114% of hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for topics/. Preserve core arguments about anaesthetic mechanisms as evidence for the consciousness-brain interface while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-23
-
 ### P3: Deep review consciousness-and-intersubjectivity.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-21 via expand-topic, never reviewed. Topics article on how one consciousness encounters another — empathy, theory of mind, linguistic community under dualism. Verify coherence, accuracy of philosophical claims, cross-references to social-construction-of-self-vs-phenomenal-self and other-minds-void, and tenet alignment.
@@ -1197,6 +1191,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Condense anaesthesia-and-the-consciousness-interface.md (4001 words, 114% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for topics/. Preserve core arguments about anaesthetic mechanisms as evidence for the consciousness-brain interface while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
 
 ### ✓ 2026-03-23: Integrate consciousness-and-skill-acquisition.md into site navigation
 - **Type**: integrate-orphan
