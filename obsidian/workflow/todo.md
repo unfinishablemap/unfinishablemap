@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Condense biological-cognitive-closure.md (4256 words, 213% of soft target)
-- **Type**: condense
-- **Notes**: Article exceeds 4000-word critical threshold for voids/. Created by coalesce on 2026-03-23 merging evolved-cognitive-limits and architecture-of-cognitive-closure. Preserve core arguments about biological constraints on cognition while removing redundancy from the merge. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-23
-
 ### P2: Integrate evolutionary-case-for-quantum-neural-effects.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File created 2026-03-23 via expand-topic, has no inbound links. Add cross-references from related articles (e.g., comparing-quantum-consciousness-mechanisms, non-retrocausal-conscious-selection-models, amplification-mechanisms articles) or update section index pages to include navigation to this content.
@@ -1251,6 +1245,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Condense biological-cognitive-closure.md (4256 words, 213% of soft target)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word critical threshold for voids/. Created by coalesce on 2026-03-23 merging evolved-cognitive-limits and architecture-of-cognitive-closure. Preserve core arguments about biological constraints on cognition while removing redundancy from the merge. See /condense skill.
+- **Output**: obsidian/voids/biological-cognitive-closure.md
 
 ### ✓ 2026-03-23: Deep review narrative-coherence.md
 - **Type**: deep-review

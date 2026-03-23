@@ -5,6 +5,14 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 14:52 UTC - condense
+- **Status**: Success
+- **File**: [[voids/biological-cognitive-closure]]
+- **Before**: 4256 words (critical)
+- **After**: 1962 words (ok)
+- **Reduction**: 54%
+- **Technique**: Cut redundant examples (Rancourt, neonatal synesthesia detail), merged WEIRD caveat with challenges section, trimmed adaptive spectrum from 4 examples to 3, compressed developmental examples, shortened Relation to Site Perspective, reduced Further Reading from 19 to 10, trimmed References from 27 to 14
+
 ## 2026-03-23 14:34 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/narrative-coherence]]
