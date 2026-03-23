@@ -81,7 +81,7 @@ The Map's [Cognitive Closure](/concepts/cognitive-closure/) article develops McG
 ### High Priority
 
 #### Philosophy of Evidence for Subjective Phenomena
-- **Builds on**: [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/), [epistemology-of-introspection-and-calibration](/topics/epistemology-of-introspection-and-calibration/), [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/)
+- **Builds on**: [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/), [epistemology-of-introspection-and-calibration](/topics/epistemology-of-first-person-evidence/), [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/)
 - **Would address**: The Map implicitly operates with a theory of what counts as evidence when the phenomenon is irreducibly subjective, but has never articulated this explicitly. What are the standards? When does convergence across contemplative traditions constitute evidence? How does phenomenological evidence interact with neuroscientific evidence?
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports all tenets by providing epistemological foundations for the Map's methodology
@@ -113,7 +113,7 @@ The Map's [Cognitive Closure](/concepts/cognitive-closure/) article develops McG
 - **Tenet alignment**: Supports Tenet 3—expertise acquisition as evidence that consciousness shapes neural architecture over time
 
 #### Consciousness and the Authority of Testimony
-- **Builds on**: [consciousness-and-testimony](/topics/consciousness-and-testimony/), [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/), [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/)
+- **Builds on**: [consciousness-and-testimony](/topics/consciousness-and-testimony/), [epistemology-of-phenomenal-reports](/topics/epistemology-of-first-person-evidence/), [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/)
 - **Would address**: Why testimony about subjective experience carries epistemic weight despite being unfalsifiable by third parties. Connects to the other-minds problem and to AI consciousness debates (can an AI testify about its experience?)
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Tenet 1 by showing subjective reports are not merely behavioural but epistemically grounded in phenomenal reality

@@ -46,12 +46,12 @@ None. The article remains well-structured with accurate attributions and no fact
 - Galilean exclusion and reductionism-and-consciousness connections (added in previous review) are well-integrated
 
 ### Enhancements Made
-- Added cross-link to [epistemology-of-introspection-and-calibration](/topics/epistemology-of-introspection-and-calibration/) in the reflective self-consciousness section, establishing that introspective reliability is trainable and that self-consciousness is the precondition for introspective method
+- Added cross-link to [epistemology-of-introspection-and-calibration](/topics/epistemology-of-first-person-evidence/) in the reflective self-consciousness section, establishing that introspective reliability is trainable and that self-consciousness is the precondition for introspective method
 - Added epistemology-of-introspection-and-calibration to related_articles and Further Reading
 - Updated stale display text: "phenomenology of self-reference" → "phenomenology of self-awareness" (body and Further Reading)
 
 ### Cross-links Added
-- [epistemology-of-introspection-and-calibration](/topics/epistemology-of-introspection-and-calibration/) (related_articles, further reading, body text)
+- [epistemology-of-introspection-and-calibration](/topics/epistemology-of-first-person-evidence/) (related_articles, further reading, body text)
 
 ## Remaining Items
 

@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced epistemology articles
+- **Type**: cross-review
+- **Notes**: Coalesce created topics/epistemology-of-first-person-evidence.md from epistemology-of-introspection-and-calibration and epistemology-of-phenomenal-reports. The following files reference archived articles and may need wikilink updates: consciousness-and-testimony, self-consciousness, contemplative-practice-as-philosophical-evidence, phenomenological-method-and-evidence-standards, knowledge-argument, phenomenal-acquaintance, phenomenological-evidence, duhem-quine-underdetermination-consciousness, methodology-of-consciousness-research, acquaintance-knowledge, comparative-phenomenology-of-meditative-traditions, self-stultification-as-master-argument, consciousness-and-the-problem-of-measurement-standards, consciousness-and-the-problem-of-other-properties
+- **Source**: coalesce
+- **Generated**: 2026-03-23
+
 ### P2: Cross-review cognitive-closure.md considering inventory blindness insights
 - **Type**: cross-review
 - **Notes**: New article concepts/inventory-blindness.md (created 2026-03-22) explores systematic blind spots in our conceptual inventory. Review concepts/cognitive-closure.md for cross-links to the new article, whether the inventory blindness framework strengthens or refines the cognitive closure treatment, and consistency in how epistemic limitations are characterized.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-03-19 02:12:00+00:00
+ai_modified: 2026-03-22 23:34:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -40,6 +40,7 @@ related_articles:
 - '[[causal-interface]]'
 - '[[intrinsic-nature-void]]'
 - '[[apophatic-cartography]]'
+- '[[infant-consciousness]]'
 title: Compound Failure Signatures
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -120,6 +121,8 @@ The epistemic analogue: when multiple cognitive limits share underlying architec
 
 **Superadditive interference.** When limits draw on overlapping resources, the compound effect exceeds the sum. The [self-reference-paradox](/voids/unobservable-self/)—consciousness cannot fully model itself—compounds with the [language-thought-boundary](/voids/language-thought-boundary/)—experience exceeds articulable thought. Together they create a zone where consciousness can neither model *nor* articulate what it is. Each limit alone permits partial access: self-reference allows non-linguistic self-awareness, and language allows descriptions of non-self-referential experience. The compound shuts both routes simultaneously.
 
+The [infant consciousness void](/voids/infant-consciousness/) provides a paradigm case: the language barrier (post-linguistic minds cannot simulate pre-linguistic thought), the absence of self-concept (no autonoetic consciousness to anchor memories), and the demolished neural hardware (synaptic pruning physically dismantles the substrate) interact superadditively — each limit reinforces the others, producing an inaccessibility that no single barrier predicts.
+
 **Mutual reinforcement.** Some limits reinforce each other through feedback. The [recursion-void](/voids/recursion-void/)—metacognitive depth bounded around fifth-order intentionality—limits our ability to *think about* other limits. This creates a self-defending structure: the limit on examining limits protects compound void territory from investigation. McGinn (1989) identified multiple problems subject to [cognitive closure](/concepts/mysterianism/)—consciousness, personal identity, free will, meaning—but never systematically asked what their *interaction* produces. The fact that a philosopher can list multiple closures without investigating their compound effect is itself a symptom.
 
 **Emergent occlusion.** The interaction of limits may produce territories hidden for reasons that no single limit explains. Consider the [incompleteness-void](/voids/incompleteness-void/) (self-referential systems contain truths unprovable within themselves) interacting with the [causal interface](/voids/causal-interface/) problem (how consciousness connects to physics). The compound territory is not "what incompleteness hides + what the causal interface obscures." It is the *nature of the connection between formal incompleteness and physical causation*—something neither void alone points to.
@@ -195,6 +198,7 @@ Current evidence supports structured, persistent failure patterns. The hard prob
 - [incompleteness-void](/voids/incompleteness-void/) — Self-referential limits on formal systems
 - [causal-interface](/voids/causal-interface/) — How consciousness connects to physics
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — What matter is in itself
+- [infant-consciousness](/voids/infant-consciousness/) — Paradigm case of compound failure: language barrier + absent self-concept + demolished hardware
 - [phenomenology-of-cognitive-limit-types](/topics/phenomenology-of-cognitive-limit-types/) — How different limit types feel
 
 ## References

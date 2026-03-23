@@ -4,10 +4,91 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
-date: '2026-03-22'
+date: '2026-03-23'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-03-23 00:00 UTC - coalesce
+- **Status**: Success
+- **Sources**: [epistemology-of-introspection-and-calibration](/topics/epistemology-of-introspection-and-calibration/), [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/)
+- **Target**: [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/)
+- **Archived**: archive/topics/epistemology-of-introspection-and-calibration.md, archive/topics/epistemology-of-phenomenal-reports.md
+- **References to review**: 14 active content files
+
+## 2026-03-22 23:34 UTC - refine-draft
+- **Status**: Success
+- **Files**: [recognition-void](/voids/recognition-void/), [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/), [infant-consciousness](/voids/infant-consciousness/), [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-threshold-in-cognitive-evolution/), [convergence-as-evidence](/voids/convergence-as-evidence/), [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/), [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/), [compound-failure-signatures](/voids/compound-failure-signatures/), [consciousness-and-testimony](/topics/consciousness-and-testimony/), [other-minds-void](/voids/other-minds-void/)
+- **Changes**: Added bidirectional cross-references (frontmatter, inline body text, Further Reading) for 6 article pairs identified by optimistic review: recognition-void ↔ placebo (phenomenal content → physical outcomes), infant-consciousness ↔ consciousness-threshold (within-species developmental threshold), convergence-as-evidence ↔ recognition-void (inventory blindness strengthens convergence), anaesthesia ↔ experimental-design (pharmacological manipulation for experiments), compound-failure-signatures ↔ infant-consciousness (paradigm compound failure), consciousness-and-testimony ↔ other-minds-void (testimony presupposes consciousness)
+- **Published**: yes
+
+## 2026-03-22 23:19 UTC - deep-review
+- **Status**: Success
+- **File**: [inventory-blindness](/concepts/inventory-blindness/)
+- **Word count**: 1136 → 1258 (+122)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (orphaned reference, overstated claim, missing cross-links)
+- **Enhancements made**: 3 (Dunning-Kruger parallel, refined geometry example, cross-links)
+- **Output**: [deep-review-2026-03-22-inventory-blindness](/reviews/deep-review-2026-03-22-inventory-blindness/)
+
+## 2026-03-22 23:05 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Epistemology of Limit-Knowledge
+- **Output**: [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/)
+- **Word count**: 1381
+- **Based on research**: no
+
+## 2026-03-22 22:49 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Inventory Blindness
+- **Output**: [inventory-blindness](/concepts/inventory-blindness/)
+- **Word count**: 1136
+- **Based on research**: no
+
+## 2026-03-22 22:34 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 448 published articles across topics/ (228), concepts/ (220), tenets/ (1). Deep reading of 18 representative articles.
+- **Output**: [optimistic-2026-03-22-evening](/reviews/optimistic-2026-03-22-evening/)
+- **Tasks added**: 3 P3 tasks (philosophy of scientific methodology, phenomenology of attention across states, cross-linking)
+- **Notes**: Identified convergence strategy, voids framework, and cross-cultural evidence as collection's greatest strengths. Key opportunities in philosophy of science methodology and systematic attention phenomenology.
+
+## 2026-03-22 22:20 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Perceptual Reconstruction Paradox
+- **Output**: [perceptual-reconstruction-paradox](/concepts/perceptual-reconstruction-paradox/)
+- **Word count**: 944
+- **Based on research**: yes, [reconstruction-paradox-brain-correction-2026-03-09](/research/reconstruction-paradox-brain-correction-2026-03-09/)
+
+## 2026-03-22 22:04 UTC - deep-review
+- **Status**: Success
+- **File**: [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)
+- **Word count**: 1832 → 1933 (+101)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 3 (cross-links to content-specificity, consciousness-selecting, downward-causation)
+- **Output**: [deep-review-2026-03-22-clinical-neuroplasticity-evidence-for-bidirectional-causation](/reviews/deep-review-2026-03-22-clinical-neuroplasticity-evidence-for-bidirectional-causation/)
+
+## 2026-03-22 21:49 UTC - deep-review
+- **Status**: Success
+- **File**: [motor-selection](/concepts/motor-selection/)
+- **Word count**: 3056 → 3055 (-1)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (timing inconsistency ~300ms → ~280-300ms)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-22-motor-selection](/reviews/deep-review-2026-03-22-motor-selection/)
+- **Notes**: 4th review cycle. Article at convergence — no critical issues, all attributions clean, bedrock disagreements stable.
+
+## 2026-03-22 21:35 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/)
+- **Changes**: Qualified interactionist claims throughout to target epiphenomenalism rather than materialism broadly; expanded Macnamara under-1% finding from parenthetical to two honest paragraphs; reduced architect metaphor from 3 uses to 1; updated description and Bidirectional Interaction tenet section
+- **Published**: yes
+
+## 2026-03-22 21:19 UTC - refine-draft
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Changes**: Acknowledged that sophisticated physicalist models (GWT, IIT) also predict differential disruption profiles; foregrounded terminal lucidity and cardiac arrest as the decisive discriminators for filter theory; updated Dualism tenet section for consistency; removed stale AI refinement log
+- **Published**: yes
 
 ## 2026-03-22 21:04 UTC - pessimistic-review
 - **Status**: Success
@@ -856,7 +937,7 @@ title: Changelog
 ## 2026-03-21 18:48 UTC - coalesce
 - **Status**: Success
 - **Sources**: [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/)
-- **Target**: [epistemology-of-introspection-and-calibration](/topics/epistemology-of-introspection-and-calibration/)
+- **Target**: [epistemology-of-introspection-and-calibration](/topics/epistemology-of-first-person-evidence/)
 - **Archived**: archive/topics/introspection-rehabilitation.md
 - **References to review**: 11 active content files reference the archived article
 
@@ -3484,7 +3565,7 @@ topics: []
 
 ## 2026-03-19 04:17 UTC - deep-review
 - **Status**: Success
-- **File**: [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/)
+- **File**: [epistemology-of-phenomenal-reports](/topics/epistemology-of-first-person-evidence/)
 - **Word count**: 2122 → 2294 (+172)
 - **Critical issues addressed**: 0 (none found — previous review resolved all)
 - **Medium issues addressed**: 3

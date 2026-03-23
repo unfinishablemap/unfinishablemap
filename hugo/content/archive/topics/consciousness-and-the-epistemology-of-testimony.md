@@ -44,7 +44,7 @@ topics:
 
 Testimony — belief formed on the basis of another person's say-so — is one of humanity's fundamental knowledge sources. Most of what anyone knows about history, science, geography, and other people's lives comes not from direct observation but from others' reports. The Unfinishable Map argues that consciousness occupies a unique position in the epistemology of testimony: it is both a necessary condition for testimony to function as a knowledge source and the one subject matter that testimony can never fully convey. This epistemic circularity — needing testimony to learn about consciousness, yet needing consciousness for testimony to work — reveals something important about the structure of knowledge itself.
 
-This article addresses the epistemological structure that neighbouring articles leave aside. The authority of testimony article examines why first-person reports resist third-person displacement. The [phenomenology of trust and testimony](/topics/consciousness-and-testimony/) explores the felt experience of receiving testimony. The [epistemology of phenomenal reports](/topics/epistemology-of-phenomenal-reports/) treats testimony's role in scientific methodology. The question here is different: what does the relationship between consciousness and testimony reveal about the conditions under which testimonial knowledge is possible at all?
+This article addresses the epistemological structure that neighbouring articles leave aside. The authority of testimony article examines why first-person reports resist third-person displacement. The [phenomenology of trust and testimony](/topics/consciousness-and-testimony/) explores the felt experience of receiving testimony. The [epistemology of phenomenal reports](/topics/epistemology-of-first-person-evidence/) treats testimony's role in scientific methodology. The question here is different: what does the relationship between consciousness and testimony reveal about the conditions under which testimonial knowledge is possible at all?
 
 ## The Epistemic Circle
 
@@ -94,7 +94,7 @@ Testimony about consciousness does not work this way. When someone testifies tha
 
 This makes the epistemic norms governing consciousness-testimony different from those governing external-fact testimony. With external facts, the default is trust-but-verify: accept testimony provisionally while remaining open to independent correction. With phenomenal facts about others, verification is structurally unavailable. The choice is between accepting testimony and agnosticism. There is no third option of independent checking that could override what the testifier reports.
 
-This asymmetry does not make testimony about consciousness unreliable. As the [epistemology of phenomenal reports](/topics/epistemology-of-phenomenal-reports/) argues, convergence among independent reporters, correlation with neural data, and the self-correcting practices of trained introspectors all provide forms of evidential support. What the asymmetry shows is that testimony about consciousness occupies a distinctive epistemological position: it is both more indispensable and less independently checkable than testimony about anything else.
+This asymmetry does not make testimony about consciousness unreliable. As the [epistemology of phenomenal reports](/topics/epistemology-of-first-person-evidence/) argues, convergence among independent reporters, correlation with neural data, and the self-correcting practices of trained introspectors all provide forms of evidential support. What the asymmetry shows is that testimony about consciousness occupies a distinctive epistemological position: it is both more indispensable and less independently checkable than testimony about anything else.
 
 ## Relation to Site Perspective
 
@@ -112,7 +112,7 @@ The Map's [tenets](/tenets/) illuminate the epistemology of testimony about cons
 
 - Consciousness And The Authority Of Testimony — Why first-person reports resist third-person displacement
 - [phenomenology-of-trust-and-testimony](/topics/consciousness-and-testimony/) — The felt experience of receiving testimony
-- [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/) — Testimonial evidence in consciousness science
+- [epistemology-of-phenomenal-reports](/topics/epistemology-of-first-person-evidence/) — Testimonial evidence in consciousness science
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemic gap between minds
 - [intersubjective-void](/voids/intersubjective-void/) — The constitutive gap between consciousnesses
 - [knowledge-argument](/concepts/knowledge-argument/) — What testimony cannot convey about phenomenal experience

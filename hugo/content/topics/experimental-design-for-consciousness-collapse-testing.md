@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-22 13:26:00+00:00
+ai_modified: 2026-03-22 23:34:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -32,6 +32,7 @@ related_articles:
 - '[[time-collapse-and-agency]]'
 - '[[qm-interpretations-beyond-many-worlds]]'
 - '[[consciousness-collapse-versus-decoherence-experiments]]'
+- '[[anaesthesia-and-the-consciousness-interface]]'
 title: Experimental Design for Consciousness-Collapse Testing
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -87,7 +88,7 @@ The last requirement is the most challenging. Without a quantitative theory of c
 
 ### Anaesthesia and Collapse Rate
 
-If consciousness participates in collapse, removing consciousness should change collapse dynamics. Objective collapse theories (GRW, CSL) predict collapse rates that depend on mass and complexity but not on consciousness. If consciousness-collapse is correct, anaesthetised brains should show different collapse behaviour than conscious brains — perhaps slower collapse rates or broader superposition lifetimes.
+If consciousness participates in collapse, removing consciousness should change collapse dynamics. The [anaesthesia article's](/topics/anaesthesia-and-the-consciousness-interface/) pharmacological dissection of the interface suggests a more refined approach: different anaesthetic agents selectively disrupt different interface channels (phenomenal presence, content access, temporal binding, memory encoding), potentially allowing experiments that remove *specific aspects* of consciousness rather than attempting wholesale elimination. Objective collapse theories (GRW, CSL) predict collapse rates that depend on mass and complexity but not on consciousness. If consciousness-collapse is correct, anaesthetised brains should show different collapse behaviour than conscious brains — perhaps slower collapse rates or broader superposition lifetimes.
 
 This approach faces two problems. First, the predicted effect size is unknown — the Map's Minimal Quantum Interaction tenet suggests the influence is the *smallest possible*, which may be undetectably small with current technology. Second, anaesthesia doesn't cleanly remove consciousness; it alters brain dynamics in ways that change the physical measurement conditions. Any difference in collapse rates could be attributed to the changed physical state rather than the absence of consciousness.
 
@@ -150,6 +151,7 @@ The Map's [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is directly r
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/)
+- [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Pharmacological channel mapping that could inform consciousness-collapse experimental design
 - [testability-ledger](/project/testability-ledger/) — Systematic catalogue of what would disconfirm the Map's framework
 
 ## References

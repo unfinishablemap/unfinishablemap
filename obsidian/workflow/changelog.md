@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 00:00 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/epistemology-of-introspection-and-calibration]], [[topics/epistemology-of-phenomenal-reports]]
+- **Target**: [[topics/epistemology-of-first-person-evidence]]
+- **Archived**: archive/topics/epistemology-of-introspection-and-calibration.md, archive/topics/epistemology-of-phenomenal-reports.md
+- **References to review**: 14 active content files
+
 ## 2026-03-22 23:34 UTC - refine-draft
 - **Status**: Success
 - **Files**: [[voids/recognition-void]], [[topics/placebo-effect-and-mental-causation]], [[voids/infant-consciousness]], [[topics/consciousness-threshold-in-cognitive-evolution]], [[voids/convergence-as-evidence]], [[topics/anaesthesia-and-the-consciousness-interface]], [[topics/experimental-design-for-consciousness-collapse-testing]], [[voids/compound-failure-signatures]], [[topics/consciousness-and-testimony]], [[voids/other-minds-void]]

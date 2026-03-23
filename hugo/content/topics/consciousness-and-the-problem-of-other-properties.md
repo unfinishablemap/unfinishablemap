@@ -120,7 +120,7 @@ Yet this epistemic barrier need not be cause for despair. It reveals something i
 - [other-minds-void](/voids/other-minds-void/)
 - [intersubjective-void](/voids/intersubjective-void/)
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/)
-- [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/)
+- [epistemology-of-phenomenal-reports](/topics/epistemology-of-first-person-evidence/)
 - [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/)
 
 ## References

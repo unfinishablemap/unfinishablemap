@@ -6,6 +6,11 @@ modified: 2026-02-21
 human_modified:
 ai_modified: 2026-03-22T06:41:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-23T00:00:00+00:00
+superseded_by: "/topics/epistemology-of-first-person-evidence/"
+archive_reason: "Coalesced into The Epistemology of First-Person Evidence"
+original_path: "/topics/epistemology-of-phenomenal-reports/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-and-science]]"

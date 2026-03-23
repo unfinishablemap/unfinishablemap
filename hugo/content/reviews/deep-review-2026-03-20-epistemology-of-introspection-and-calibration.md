@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-20
-**Article**: [The Epistemology of Introspection and Its Calibration](/topics/epistemology-of-introspection-and-calibration/)
+**Article**: [The Epistemology of Introspection and Its Calibration](/topics/epistemology-of-first-person-evidence/)
 **Previous review**: [2026-03-11](/reviews/deep-review-2026-03-11-epistemology-of-introspection/) (pre-coalescence version)
 
 ## Pessimistic Analysis Summary

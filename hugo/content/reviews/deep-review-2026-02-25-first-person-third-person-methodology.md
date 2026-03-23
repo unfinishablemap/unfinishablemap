@@ -84,7 +84,7 @@ All six major attributions verified as accurate:
 ### Cross-links Added
 
 - [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/)
-- [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/)
+- [epistemology-of-phenomenal-reports](/topics/epistemology-of-first-person-evidence/)
 - [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/)
 - [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)
 - [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/)

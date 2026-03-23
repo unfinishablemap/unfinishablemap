@@ -86,7 +86,7 @@ The [cartography-problem](/voids/cartography-problem/) proof — that a complete
 ### Medium Priority
 
 #### Philosophy of Introspective Methodology
-- **Builds on**: [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/), [contemplative-epistemology](/concepts/contemplative-epistemology/), [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/)
+- **Builds on**: [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/), [contemplative-epistemology](/concepts/contemplative-epistemology/), [epistemology-of-phenomenal-reports](/topics/epistemology-of-first-person-evidence/)
 - **Would address**: The Map relies extensively on phenomenological evidence but has not consolidated its epistemological defence into a single authoritative treatment. How does introspection gain evidential standing? What are its limits? When should contemplative reports be trusted?
 - **Estimated scope**: Medium article (1500-2000 words)
 - **Tenet alignment**: Epistemological foundation for all phenomenological claims

@@ -64,7 +64,7 @@ topics: []
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)
 - [samkhya-three-way-distinction](/concepts/samkhya-three-way-distinction/)
 - [neurophenomenology](/concepts/neurophenomenology/)
-- [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/)
+- [epistemology-of-phenomenal-reports](/topics/epistemology-of-first-person-evidence/)
 - [the-subject-object-distinction-as-philosophical-discovery](/topics/the-subject-object-distinction-as-philosophical-discovery/)
 - [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/)
 - [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/)

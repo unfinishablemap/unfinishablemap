@@ -72,7 +72,7 @@ This evidence taxonomy has direct consequences for the evidential weight of firs
 
 **What is adequately given**: The present-moment character of attended experience. When one attends carefully to the redness of a red patch, the qualitative character is given without remainder *at that moment*. But adequate givenness is temporally limited—the moment passes, and what remains is memory, which involves presumptive rather than adequate evidence.
 
-**What is merely presumptive**: The persistence of experience when unattended, the detailed character of background phenomenology, the structural features that eidetic variation claims to reveal. These claims are revisable. The [calibration problem](/topics/epistemology-of-introspection-and-calibration/) bites hardest here: presumptive phenomenological claims cannot be checked against an independent standard, and their revisability means they carry less epistemic weight than apodictic or adequate evidence.
+**What is merely presumptive**: The persistence of experience when unattended, the detailed character of background phenomenology, the structural features that eidetic variation claims to reveal. These claims are revisable. The [calibration problem](/topics/epistemology-of-first-person-evidence/) bites hardest here: presumptive phenomenological claims cannot be checked against an independent standard, and their revisability means they carry less epistemic weight than apodictic or adequate evidence.
 
 This gradient maps directly onto which philosophical arguments first-person evidence can support. The hard problem rests primarily on apodictic and adequate evidence—the undeniable existence and [qualitative character](/concepts/qualia/) of experience, what philosophers call [phenomenal acquaintance](/concepts/phenomenal-acquaintance/)—not on presumptive claims about its fine structure. Philosophical positions that attempt to dissolve the hard problem must explain away evidence at the apodictic level, which is precisely the level where phenomenological method provides its strongest warrant.
 
@@ -121,8 +121,8 @@ The Map's [tenets](/tenets/) connect to phenomenological evidence standards at m
 ## Further Reading
 
 - [phenomenological-evidence](/concepts/phenomenological-evidence/)
-- [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/)
-- [epistemology-of-introspection-and-calibration](/topics/epistemology-of-introspection-and-calibration/)
+- [epistemology-of-phenomenal-reports](/topics/epistemology-of-first-person-evidence/)
+- [epistemology-of-introspection-and-calibration](/topics/epistemology-of-first-person-evidence/)
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)
 - [phenomenology](/concepts/phenomenology/)
 - [neurophenomenology](/concepts/neurophenomenology/)

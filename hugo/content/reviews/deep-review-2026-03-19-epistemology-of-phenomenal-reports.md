@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-19
-**Article**: [Epistemology of Phenomenal Reports in Science](/topics/epistemology-of-phenomenal-reports/)
+**Article**: [Epistemology of Phenomenal Reports in Science](/topics/epistemology-of-first-person-evidence/)
 **Previous review**: [2026-02-21](/reviews/deep-review-2026-02-21-epistemology-of-phenomenal-reports/)
 
 ## Pessimistic Analysis Summary

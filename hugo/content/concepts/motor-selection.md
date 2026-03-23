@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-21 21:56:00+00:00
+ai_modified: 2026-03-22 21:49:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ description: Motor control and attention share neural substrates. Dopamine marks
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-25 21:10:00+00:00
+last_deep_review: 2026-03-22 21:49:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -157,7 +157,7 @@ This maps directly onto the Map's framework. Consciousness contributes at the *s
 
 Research on [voluntary attention](/concepts/voluntary-attention-control-mechanisms/) (Bengson 2019) found that willed attention engages distinct neural mechanisms: frontal theta oscillations and bidirectional frontoparietal coherence. Motor control shows the same pattern—willed action involves bidirectional information flow (genuine "deliberation") while instructed action is primarily feedforward.
 
-Both willed attention and willed motor action take approximately 300ms to deploy—versus ~100ms for automatic responses. If attention and motor selection were independent systems, this timing match would be coincidental. In the quantum Zeno framework, 300ms reflects the time required for consciousness to engage through repeated observation and stabilize the selected pattern to threshold.
+Both willed attention and willed motor action take ~280-300ms to deploy—versus ~100ms for automatic responses. If attention and motor selection were independent systems, this timing match would be coincidental. In the quantum Zeno framework, 300ms reflects the time required for consciousness to engage through repeated observation and stabilize the selected pattern to threshold.
 
 ## Quantum Zeno Applied
 

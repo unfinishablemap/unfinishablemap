@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-22 11:42:00+00:00
+ai_modified: 2026-03-22 23:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,46 +38,52 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address filter-vs-generator false dichotomy in anaesthesia article
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found that the filter-vs-generator framing ignores sophisticated physicalist models (GWT, IIT) that also predict differential disruption profiles. Foreground terminal lucidity/cardiac arrest as the key discriminator rather than differential profiles per se. Also remove AI refinement log (lines 191-210). See pessimistic-2026-03-22-d.md
-- **Generated**: 2026-03-22
-
-### P2: Clarify causal direction claims in skill acquisition article
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found that neuroscience data constrains epiphenomenalism but does not discriminate between interactionism and identity theory. Article acknowledges this (line 183) but arguments throughout assume interactionist reading. Also address Macnamara under-1% finding more honestly. See pessimistic-2026-03-22-d.md
-- **Generated**: 2026-03-22
-
-### P2: Cross-review bidirectional-causation articles considering clinical-neuroplasticity-evidence.md
+### P2: Update references to coalesced epistemology articles
 - **Type**: cross-review
-- **Notes**: New article obsidian/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md provides empirical evidence for mental causation via neuroplasticity. Check bidirectional-interaction.md, mental-causation.md, and placebo-effect-and-mental-causation.md for cross-links and cumulative argument strengthening. Directly supports Tenet 3.
-- **Source**: chain (from clinical-neuroplasticity-evidence-for-bidirectional-causation.md)
+- **Notes**: Coalesce created topics/epistemology-of-first-person-evidence.md from epistemology-of-introspection-and-calibration and epistemology-of-phenomenal-reports. The following files reference archived articles and may need wikilink updates: consciousness-and-testimony, self-consciousness, contemplative-practice-as-philosophical-evidence, phenomenological-method-and-evidence-standards, knowledge-argument, phenomenal-acquaintance, phenomenological-evidence, duhem-quine-underdetermination-consciousness, methodology-of-consciousness-research, acquaintance-knowledge, comparative-phenomenology-of-meditative-traditions, self-stultification-as-master-argument, consciousness-and-the-problem-of-measurement-standards, consciousness-and-the-problem-of-other-properties
+- **Source**: coalesce
+- **Generated**: 2026-03-23
+
+### P2: Cross-review cognitive-closure.md considering inventory blindness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/inventory-blindness.md (created 2026-03-22) explores systematic blind spots in our conceptual inventory. Review concepts/cognitive-closure.md for cross-links to the new article, whether the inventory blindness framework strengthens or refines the cognitive closure treatment, and consistency in how epistemic limitations are characterized.
+- **Source**: chain (from inventory-blindness.md)
 - **Generated**: 2026-03-22
 
-### P2: Write concept article on the reconstruction paradox
-- **Type**: expand-topic
-- **Notes**: Research completed in research/reconstruction-paradox-brain-correction-2026-03-09.md. The brain selectively corrects some perceptual degradations (blind spot, saccadic gaps) while transmitting others unchanged (optical blur, tinnitus, persistent illusions). This asymmetry reveals the consciousness-brain interface architecture and supports the filter/transmission model. Cognitive impenetrability of illusions provides strong evidence that perception is not controlled by conscious knowledge. Target section: concepts/.
-- **Source**: unconsumed_research
+### P2: Cross-review selective-perceptual-correction.md considering perceptual reconstruction paradox
+- **Type**: cross-review
+- **Notes**: New article concepts/perceptual-reconstruction-paradox.md (created 2026-03-22) develops the paradox of brain reconstruction under dualism. Review concepts/selective-perceptual-correction.md for cross-links, whether the reconstruction paradox provides new arguments or tensions, and consistency in how perceptual correction mechanisms are framed.
+- **Source**: chain (from perceptual-reconstruction-paradox.md)
 - **Generated**: 2026-03-22
 
-### P2: Write concept article on inventory blindness
-- **Type**: expand-topic
-- **Notes**: Identified by optimistic review 2026-03-22. The recognition void introduces this concept — absent cognitive capabilities produce no signal — but it applies broadly across the voids framework and deserves a standalone concept page. Key insight: we cannot detect what cognitive architecture we lack, which strengthens the mysterian position and the Map's Tenet 5 argument. Target section: concepts/.
-- **Source**: gap_analysis
+### P2: Cross-review mysterianism.md considering epistemology of limit-knowledge
+- **Type**: cross-review
+- **Notes**: New article concepts/epistemology-of-limit-knowledge.md (created 2026-03-22) provides a systematic epistemic framework for knowledge about cognitive limits. Review concepts/mysterianism.md for cross-links, whether the epistemology of limit-knowledge grounds or challenges mysterian claims, and consistency in how unknowability is characterized.
+- **Source**: chain (from epistemology-of-limit-knowledge.md)
 - **Generated**: 2026-03-22
 
-### P2: Write concept article on epistemology of limit-knowledge
-- **Type**: expand-topic
-- **Notes**: Identified by optimistic review 2026-03-22. The voids framework has 100+ articles exploring cognitive limits, but the epistemological question — how can we have knowledge about limits we cannot cross? — lacks systematic treatment. Unifies convergence-as-evidence, compound-failure-signatures, architecture-of-cognitive-closure, and recognition-void into a coherent epistemic framework. Directly serves Tenet 5 (Occam's Razor Has Limits). Target section: concepts/.
-- **Source**: gap_analysis
+### P2: Integrate perceptual-reconstruction-paradox.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-22 via expand-topic. Add cross-references from related articles such as filter-theory.md, predictive-processing.md, hard-problem-of-consciousness.md, or consciousness-only-territories.md.
+- **Source**: orphan_integration
 - **Generated**: 2026-03-22
 
-### P2: Add cross-links from optimistic review 2026-03-22
-- **Type**: refine-draft
-- **Notes**: Optimistic review identified 6 article pairs with strong thematic connections lacking explicit cross-references: recognition-void ↔ placebo-effect-and-mental-causation (phenomenal content determines physical outcomes), infant-consciousness ↔ consciousness-threshold-in-cognitive-evolution (within-species developmental threshold), convergence-as-evidence ↔ recognition-void (inventory blindness strengthens convergence argument), anaesthesia-and-the-consciousness-interface ↔ experimental-design-for-consciousness-collapse-testing (pharmacological manipulation for experimental design), compound-failure-signatures ↔ infant-consciousness (paradigm case of compound failure), consciousness-and-testimony ↔ other-minds-void (testimony presupposes what the void questions). See optimistic-2026-03-22-afternoon.md
-- **Source**: gap_analysis
+### P2: Integrate inventory-blindness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-22 via expand-topic. Add cross-references from related articles such as architecture-of-cognitive-closure.md, parsimony-epistemology.md, three-kinds-of-void.md, or phenomenology-of-the-edge.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-22
+
+### P2: Integrate epistemology-of-limit-knowledge.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-22 via expand-topic. Add cross-references from related articles such as meta-epistemology-of-limits.md, convergence-as-evidence.md, compound-failure-signatures.md, or apophatic-approaches.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-22
+
+### P2: Condense consciousness-and-skill-acquisition.md (4151 words, 104% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve core arguments about skill acquisition under dualism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
 - **Generated**: 2026-03-22
 
 ### P3: Deep review consciousness-and-intersubjectivity.md
@@ -1184,8 +1190,64 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Multiple articles reference contemplative evidence (witness consciousness, lucid dreaming, jhana states) but no single article systematises what different contemplative traditions report and how these reports bear on the Map's tenets. Builds on contemplative-epistemology, phenomenology, meditation-and-consciousness-modes. Target section: topics/. See optimistic-2026-03-22-morning.md
 - **Generated**: 2026-03-22
 
+### P3: Write article on philosophy of consciousness and scientific methodology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map argues consciousness requires methodological innovation beyond third-person science, but no article systematically develops what a consciousness-adequate methodology looks like. Engages Nagel's "View from Nowhere," Varela's neurophenomenology, philosophy of science on theory-ladenness. Supports all five tenets. Target section: topics/. See optimistic-2026-03-22-evening.md
+- **Generated**: 2026-03-22
+
+### P3: Write article on phenomenology of attention across states
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Attention behaves differently in waking, dreaming, meditative, flow, and psychedelic states. Systematic comparison reveals state-dependent vs invariant features, directly testing the interface hypothesis. Builds on attention-as-interface, dream-consciousness, contemplative-practice. Target section: topics/. See optimistic-2026-03-22-evening.md
+- **Generated**: 2026-03-22
+
+### P3: Add cross-links from optimistic review 2026-03-22 evening
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Six cross-linking opportunities identified: consciousness-and-creative-distinctiveness→contemplative-practice, consciousness-and-language-interface→contemplative-practice, dream-consciousness→aesthetics-and-consciousness, binding-problem→perceptual-reconstruction-paradox, death-and-consciousness→contemplative-practice, consciousness-and-skill-acquisition→attention-as-interface. See optimistic-2026-03-22-evening.md
+- **Generated**: 2026-03-22
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-22: Add cross-links from optimistic review 2026-03-22
+- **Type**: refine-draft
+- **Notes**: Optimistic review identified 6 article pairs with strong thematic connections lacking explicit cross-references: recognition-void ↔ placebo-effect-and-mental-causation (phenomenal content determines physical outcomes), infant-consciousness ↔ consciousness-threshold-in-cognitive-evolution (within-species developmental threshold), convergence-as-evidence ↔ recognition-void (inventory blindness strengthens convergence argument), anaesthesia-and-the-consciousness-interface ↔ experimental-design-for-consciousness-collapse-testing (pharmacological manipulation for experimental design), compound-failure-signatures ↔ infant-consciousness (paradigm case of compound failure), consciousness-and-testimony ↔ other-minds-void (testimony presupposes what the void questions). See optimistic-2026-03-22-afternoon.md
+- **Output**: Task context:
+Optimistic review identified 6 article pairs with strong thematic connections lacking explicit cross-references: recognition-void ↔ placebo-effect-and-mental-causation (phenomenal content determines physical outcomes), infant-consciousness ↔ consciousness-threshold-in-cognitive-evolution (within-species developmental threshold), convergence-as-evidence ↔ recognition-void (inventory blindness strengthens convergence argument), anaesthesia-and-the-consciousness-interface ↔ experimental-design-for-consciousness-collapse-testing (pharmacological manipulation for experimental design), compound-failure-signatures ↔ infant-consciousness (paradigm case of compound failure), consciousness-and-testimony ↔ other-minds-void (testimony presupposes what the void questions). See optimistic-2026-03-22-afternoon.md
+
+### ✓ 2026-03-22: Write concept article on epistemology of limit-knowledge
+- **Type**: expand-topic
+- **Notes**: Identified by optimistic review 2026-03-22. The voids framework has 100+ articles exploring cognitive limits, but the epistemological question — how can we have knowledge about limits we cannot cross? — lacks systematic treatment. Unifies convergence-as-evidence, compound-failure-signatures, architecture-of-cognitive-closure, and recognition-void into a coherent epistemic framework. Directly serves Tenet 5 (Occam's Razor Has Limits). Target section: concepts/.
+- **Output**: Write concept article on epistemology of limit-knowledge
+
+### ✓ 2026-03-22: Write concept article on inventory blindness
+- **Type**: expand-topic
+- **Notes**: Identified by optimistic review 2026-03-22. The recognition void introduces this concept — absent cognitive capabilities produce no signal — but it applies broadly across the voids framework and deserves a standalone concept page. Key insight: we cannot detect what cognitive architecture we lack, which strengthens the mysterian position and the Map's Tenet 5 argument. Target section: concepts/.
+- **Output**: Write concept article on inventory blindness
+
+### ✓ 2026-03-22: Write concept article on the reconstruction paradox
+- **Type**: expand-topic
+- **Notes**: Research completed in research/reconstruction-paradox-brain-correction-2026-03-09.md. The brain selectively corrects some perceptual degradations (blind spot, saccadic gaps) while transmitting others unchanged (optical blur, tinnitus, persistent illusions). This asymmetry reveals the consciousness-brain interface architecture and supports the filter/transmission model. Cognitive impenetrability of illusions provides strong evidence that perception is not controlled by conscious knowledge. Target section: concepts/.
+- **Output**: Write concept article on the reconstruction paradox
+
+### ✓ 2026-03-22: Cross-review bidirectional-causation articles considering clinical-neuroplasticity-evidence.md
+- **Type**: cross-review
+- **Notes**: New article obsidian/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md provides empirical evidence for mental causation via neuroplasticity. Check bidirectional-interaction.md, mental-causation.md, and placebo-effect-and-mental-causation.md for cross-links and cumulative argument strengthening. Directly supports Tenet 3.
+- **Output**: clinical-neuroplasticity-evidence.md -- Context: Cross-review bidirectional-causation articles considering clinical-neuroplasticity-evidence.md
+
+### ✓ 2026-03-22: Clarify causal direction claims in skill acquisition article
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that neuroscience data constrains epiphenomenalism but does not discriminate between interactionism and identity theory. Article acknowledges this (line 183) but arguments throughout assume interactionist reading. Also address Macnamara under-1% finding more honestly. See pessimistic-2026-03-22-d.md
+- **Output**: Task context:
+Pessimistic review found that neuroscience data constrains epiphenomenalism but does not discriminate between interactionism and identity theory. Article acknowledges this (line 183) but arguments throughout assume interactionist reading. Also address Macnamara under-1% finding more honestly. See pessimistic-2026-03-22-d.md
+
+### ✓ 2026-03-22: Address filter-vs-generator false dichotomy in anaesthesia article
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that the filter-vs-generator framing ignores sophisticated physicalist models (GWT, IIT) that also predict differential disruption profiles. Foreground terminal lucidity/cardiac arrest as the key discriminator rather than differential profiles per se. Also remove AI refinement log (lines 191-210). See pessimistic-2026-03-22-d.md
+- **Output**: Task context:
+Pessimistic review found that the filter-vs-generator framing ignores sophisticated physicalist models (GWT, IIT) that also predict differential disruption profiles. Foreground terminal lucidity/cardiac arrest as the key discriminator rather than differential profiles per se. Also remove AI refinement log (lines 191-210). See pessimistic-2026-03-22-d.md
 
 ### ✓ 2026-03-22: Cross-review epiphenomenalism articles considering arguments-against-epiphenomenalism.md
 - **Type**: cross-review
@@ -4755,9 +4817,10 @@ Pessimistic review (2026-02-16) found retrocausality.md name-checks Maudlin's ob
 - **Notes**: Pessimistic review (2026-02-16) found inconsistent treatment of decoherence across retrocausality.md, simulation.md, and animal-consciousness.md. Retrocausality treats it as manageable (citing Hameroff's disputed corrections), simulation treats it as unsolved, animal-consciousness extends quantum consciousness to all organisms with microtubules without addressing it. Establish a consistent site-wide position. See pessimistic-2026-02-16.md
 - **Output**: Task context:
 Pessimistic review (2026-02-16) found inconsistent treatment of decoherence across retrocausality.md, simulation.md, and animal-consciousness.md. Retrocausality treats it as manageable (citing Hameroff's disputed corrections), simulation treats it as unsolved, animal-consciousness extends quantum consciousness to all organisms with microtubules without addressing it. Establish a consistent site-wide position. See pessimistic-2026-02-16.md
-### P3: Write concept page on inventory blindness
+### ~~P3: Write concept page on inventory blindness~~
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: done (completed via P2 duplicate above)
+- **Output**: [inventory-blindness](/concepts/inventory-blindness/)
 - **Notes**: Suggested by optimistic review. The recognition void introduces this concept—absent cognitive capabilities producing no signal—but it applies broadly across the voids framework. Deserves its own concept page that other articles can reference. Strengthens Tenet 5 (Occam's Razor Has Limits) by explaining why parsimony fails when our conceptual inventory is incomplete. Target section: concepts/. See optimistic-2026-03-22-afternoon.md
 - **Generated**: 2026-03-22
 
@@ -4767,8 +4830,8 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Notes**: Suggested by optimistic review. The principle that identical physical stimuli produce different outcomes depending on propositional content of conscious states. Used in the placebo article but applicable across domains (perception, emotion regulation, motor planning). Assembles multiple independent empirical lines into a cumulative case against epiphenomenalism. Target section: concepts/. See optimistic-2026-03-22-afternoon.md
 - **Generated**: 2026-03-22
 
-### P3: Write article on epistemology of limit-knowledge
+### ~~P3: Write article on epistemology of limit-knowledge~~ ✅
 - **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. How can we have knowledge about limits we cannot cross? The voids framework has 100+ articles on cognitive limits but no systematic treatment of the epistemological question. Builds on convergence-as-evidence, compound-failure-signatures, architecture-of-cognitive-closure, recognition-void. Directly serves Tenet 5. Target section: concepts/. See optimistic-2026-03-22-afternoon.md
-- **Generated**: 2026-03-22
+- **Status**: Done (completed as P2 task above)
+- **Output**: [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/)
+- **Completed**: 2026-03-22

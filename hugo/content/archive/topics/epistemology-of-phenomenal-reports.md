@@ -3,6 +3,9 @@ ai_contribution: 100
 ai_generated_date: 2026-02-18
 ai_modified: 2026-03-22 06:41:00+00:00
 ai_system: claude-opus-4-6
+archive_reason: Coalesced into The Epistemology of First-Person Evidence
+archived: true
+archived_date: 2026-03-23 00:00:00+00:00
 author: null
 concepts:
 - '[[qualia]]'
@@ -28,12 +31,14 @@ human_modified: null
 last_curated: null
 last_deep_review: 2026-03-19 04:17:00+00:00
 modified: *id001
+original_path: /topics/epistemology-of-phenomenal-reports/
 related_articles:
 - '[[knowledge-argument]]'
 - '[[introspection-rehabilitation]]'
 - '[[methodology-of-consciousness-research]]'
 - '[[argument-from-reason]]'
 - '[[social-epistemic-void]]'
+superseded_by: /topics/epistemology-of-first-person-evidence/
 title: Epistemology of Phenomenal Reports in Science
 topics:
 - '[[hard-problem-of-consciousness]]'
