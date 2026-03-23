@@ -149,7 +149,7 @@ Some clarifications:
 
 **WM is not consciousness.** WM contents correlate with consciousness, but having something in WM isn't identical to being conscious of it (as activity-silent maintenance shows). Consciousness includes qualia, temporal extension, and phenomenal unity that WM models don't explain.
 
-**WM is not the self.** Though WM manipulation connects to agency and executive function, the self extends beyond what's currently in WM. Narrative identity, autobiographical memory, and the [minimal self](/concepts/self-and-consciousness/) all transcend WM's brief temporal window.
+**WM is not the self.** Though WM manipulation connects to agency and executive function, the self extends beyond what's currently in WM. Narrative identity, autobiographical memory, and the [minimal self](/concepts/self-and-self-consciousness/) all transcend WM's brief temporal window.
 
 **WM capacity doesn't measure consciousness.** Individual differences in WM capacity don't imply differences in consciousness quality or intensity. Capacity limits may reflect neural implementation, not consciousness itself. The [phenomenal-overflow](/concepts/phenomenal-overflow/) debate—whether conscious experience exceeds what WM can access—reinforces this distinction.
 

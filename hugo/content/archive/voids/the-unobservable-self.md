@@ -156,7 +156,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly. I
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — Limit-experiences and minimal phenomenal experience
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — When cognition slips from grasp
 - [Introspection and First-Person Methods](/concepts/introspection/) — Reliability and limits of self-examination
-- [Self and Consciousness](/concepts/self-and-consciousness/) — Minimal self versus narrative self
+- [Self and Consciousness](/concepts/self-and-self-consciousness/) — Minimal self versus narrative self
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn on structural cognitive limits
 - [Illusionism](/concepts/illusionism/) — The challenge that the self is a user illusion
 - [The Absorption Void](/voids/absorption-void/) — Peak engagement as peak self-opacity

@@ -113,7 +113,7 @@ McTaggart's A-series (past/present/future — dynamic, perspectival) versus B-se
 
 **The memory-anticipation asymmetry**: The pastness quale — the felt sense of having-been-there — has no forward-looking counterpart.
 
-**Self-entanglement**: Dissolving temporal structure may require dissolving the [self](/concepts/self-and-consciousness/) that experiences time. The [absorption-void](/voids/absorption-void/) confirms this: peak absorption dissolves both self-monitoring and temporal awareness simultaneously.
+**Self-entanglement**: Dissolving temporal structure may require dissolving the [self](/concepts/self-and-self-consciousness/) that experiences time. The [absorption-void](/voids/absorption-void/) confirms this: peak absorption dissolves both self-monitoring and temporal awareness simultaneously.
 
 ## Evidence for the Limit
 

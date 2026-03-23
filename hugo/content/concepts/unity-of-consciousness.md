@@ -65,7 +65,7 @@ Experience flows through time. When you hear a melody, successive notes unify in
 
 ### Subject Unity
 
-All experiences are had by one subject. The visual field, the pain in your knee, the thought you are having—all are experiences *for* a single experiencer. Subject unity is conceptually distinct from both synchronic and diachronic unity. Synchronic unity concerns how features at a moment are bound; subject unity concerns who experiences them. The [minimal self](/concepts/self-and-consciousness/)—basic first-person givenness or "for-me-ness"—may be constitutive of subject unity rather than an additional feature added to consciousness. The deeper question of what makes *this* subject a discrete subject at all—why consciousness comes in bounded units—is the [metaphysics of individuation](/topics/consciousness-and-the-metaphysics-of-individuation/).
+All experiences are had by one subject. The visual field, the pain in your knee, the thought you are having—all are experiences *for* a single experiencer. Subject unity is conceptually distinct from both synchronic and diachronic unity. Synchronic unity concerns how features at a moment are bound; subject unity concerns who experiences them. The [minimal self](/concepts/self-and-self-consciousness/)—basic first-person givenness or "for-me-ness"—may be constitutive of subject unity rather than an additional feature added to consciousness. The deeper question of what makes *this* subject a discrete subject at all—why consciousness comes in bounded units—is the [metaphysics of individuation](/topics/consciousness-and-the-metaphysics-of-individuation/).
 
 ## Phenomenal Unity and Conjoint Phenomenology
 
@@ -153,7 +153,7 @@ The unity of consciousness connects directly to The Unfinishable Map's [foundati
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Natural experiments on unity dissociation
 - [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/) — Cross-modal binding as the hardest synchronic case: temporal recalibration, inverse effectiveness, and the unity of place
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Diachronic structure and the specious present
-- [self-and-consciousness](/concepts/self-and-consciousness/) — Subject unity and the minimal self
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) — Subject unity and the minimal self
 - [emergence-void](/voids/emergence-void/) — The general cognitive limit at level transitions
 - [consciousness](/concepts/consciousness/) — The Map's foundational concept page
 - [personal-identity](/topics/personal-identity/) — How subjects persist across time

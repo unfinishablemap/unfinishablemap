@@ -65,7 +65,7 @@ All cross-links from previous review remain:
 - [phenomenology](/concepts/phenomenology/)
 - [agent-causation](/concepts/agent-causation/)
 - [filter-theory](/concepts/filter-theory/)
-- [self-and-consciousness](/concepts/self-and-consciousness/)
+- [self-and-consciousness](/concepts/self-and-self-consciousness/)
 - [witness-consciousness](/concepts/witness-consciousness/)
 - [panpsychism](/concepts/panpsychism/)
 - [qualia](/concepts/qualia/)

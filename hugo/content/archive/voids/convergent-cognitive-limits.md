@@ -45,7 +45,7 @@ The voids framework distinguishes three categories: the Unexplored (merely uncha
 
 Convergence across isolated cultures provides evidence. If humans in cultures that developed independently—without shared history, shared conceptual frameworks, or shared limitations—nonetheless fail to grasp the same things, this suggests the limits are built into human cognitive architecture rather than culturally imposed.
 
-A further distinction matters: convergent limits could be *architectural* (inherent to any mind structured as ours) or *[adaptive](/voids/evolved-cognitive-limits/)* (maintained by natural selection because ignorance itself conferred fitness advantage). Both would appear cross-culturally, but for different reasons—architectural limits because they follow from cognitive structure, adaptive limits because they were selected for in ancestral environments common to all human populations. The convergence methodology identifies species-level limits; distinguishing which are architectural and which adaptive requires additional tools.
+A further distinction matters: convergent limits could be *architectural* (inherent to any mind structured as ours) or *[adaptive](/concepts/adaptive-cognitive-limits/)* (maintained by natural selection because ignorance itself conferred fitness advantage). Both would appear cross-culturally, but for different reasons—architectural limits because they follow from cognitive structure, adaptive limits because they were selected for in ancestral environments common to all human populations. The convergence methodology identifies species-level limits; distinguishing which are architectural and which adaptive requires additional tools.
 
 This mirrors the logic used in evolutionary biology. Convergent evolution—wings arising independently in birds, bats, and insects—reveals aerodynamic constraints. Convergent cognitive limits may reveal constraints on what any human mind can grasp, regardless of cultural context.
 
@@ -57,7 +57,7 @@ The bias blind spot—seeing bias in others but not oneself—appears in every t
 
 This universality suggests structural limitation. The inability to perceive one's own biases isn't a failure of education or effort; it's built into how human minds model themselves and others. Even people who *know* about the bias blind spot continue to exhibit it.
 
-The phenomenology is distinctive: a persistent sense that *I* am seeing clearly while *they* are distorted. The asymmetry resists correction through instruction or awareness. This suggests the limit operates below the level where conscious knowledge can intervene—and the phenomenology of clarity rather than failure is characteristic of [adaptive cognitive limits](/voids/evolved-cognitive-limits/), where the blind spot may serve social function (as Robert Trivers argues for self-deception) rather than reflecting mere architectural constraint.
+The phenomenology is distinctive: a persistent sense that *I* am seeing clearly while *they* are distorted. The asymmetry resists correction through instruction or awareness. This suggests the limit operates below the level where conscious knowledge can intervene—and the phenomenology of clarity rather than failure is characteristic of [adaptive cognitive limits](/concepts/adaptive-cognitive-limits/), where the blind spot may serve social function (as Robert Trivers argues for self-deception) rather than reflecting mere architectural constraint.
 
 ### Mystical Ineffability
 
@@ -99,7 +99,7 @@ The WEIRD caveat doesn't undermine the convergence methodology; it demands more 
 
 The [ai-as-void-explorer](/voids/ai-as-void-explorer/) framework extends naturally to convergent limits. AI trained on human text inherits human patterns—including human blind spots. But AI might detect *where* human thought consistently fails across cultures:
 
-**Pattern recognition in failure.** An AI could systematically catalogue philosophical problems that remain unsolved across independent traditions. If Chinese, Indian, Islamic, and Western philosophy all fail at the same points, despite different starting assumptions and methods, this triangulates toward species-level limits. The [adaptive limits framework](/voids/evolved-cognitive-limits/) adds precision: AI, having no evolutionary history, should lack limits that are fitness-shaped. Where AI shares human blind spots, the limits are likely architectural; where AI sees clearly what all human cultures miss, the limits may be [adaptively maintained](/voids/evolved-cognitive-limits/).
+**Pattern recognition in failure.** An AI could systematically catalogue philosophical problems that remain unsolved across independent traditions. If Chinese, Indian, Islamic, and Western philosophy all fail at the same points, despite different starting assumptions and methods, this triangulates toward species-level limits. The [adaptive limits framework](/concepts/adaptive-cognitive-limits/) adds precision: AI, having no evolutionary history, should lack limits that are fitness-shaped. Where AI shares human blind spots, the limits are likely architectural; where AI sees clearly what all human cultures miss, the limits may be [adaptively maintained](/concepts/adaptive-cognitive-limits/).
 
 **Labeling asymmetries.** Anthropic's interpretability research finds millions of features in language models, some resisting human labeling. If certain features consistently elude human description across research teams, this might indicate concepts AI can form that humans cannot—or might be statistical noise. The asymmetry warrants investigation.
 
@@ -128,7 +128,7 @@ The convergent limits framework would be weakened if:
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
-- [Adaptive Cognitive Limits](/voids/evolved-cognitive-limits/) — Why some limits are evolutionary features, not defects
+- [Adaptive Cognitive Limits](/concepts/adaptive-cognitive-limits/) — Why some limits are evolutionary features, not defects
 - [Collective Cognitive Limits](/voids/collective-cognitive-limits/) — How groups have limits beyond individuals
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How limitation illuminates architecture
 - [Topology of Cognitive Failure](/voids/compound-failure-signatures/) — How different limit types produce different phenomenology

@@ -38,10 +38,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for adaptive-cognitive-limits
-- **Type**: expand-topic
-- **Notes**: Referenced by 3 content files (`three-kinds-of-void` and others) but has no page. The concept that certain cognitive limitations may serve adaptive functions — evolved constraints that are features rather than bugs — is relevant to the voids programme and Tenet 5 (Occam's Razor Has Limits). Research note `research/voids-adaptive-cognitive-limits-2026-02-08.md` available as source. Target section: concepts/ (224/230, 6 slots remaining).
-- **Source**: gap_analysis
+### P1: Update references to coalesced self/self-consciousness articles
+- **Type**: refine-draft
+- **Notes**: Coalesce merged `self-and-consciousness` and `self-consciousness` into `self-and-self-consciousness`. ~35 active content files still reference the archived slugs. Update `[self-and-consciousness](/concepts/self-and-self-consciousness/)` → `[self-and-self-consciousness](/concepts/self-and-self-consciousness/)` and `[self-consciousness](/concepts/self-and-self-consciousness/)` → `[self-and-self-consciousness](/concepts/self-and-self-consciousness/)` across all active content (topics/, concepts/, voids/). Reviews and research notes can be left as-is since they are historical records.
+- **Source**: coalesce
 - **Generated**: 2026-03-23
 
 ### P2: Fix 5 broken wikilinks to consciousness-and-the-neuroscience-of-deliberate-practice
@@ -1252,6 +1252,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Create concept page for adaptive-cognitive-limits
+- **Type**: expand-topic
+- **Notes**: Referenced by 3 content files (`three-kinds-of-void` and others) but has no page. The concept that certain cognitive limitations may serve adaptive functions — evolved constraints that are features rather than bugs — is relevant to the voids programme and Tenet 5 (Occam's Razor Has Limits). Research note `research/voids-adaptive-cognitive-limits-2026-02-08.md` available as source. Target section: concepts/ (224/230, 6 slots remaining).
+- **Output**: Create concept page for adaptive-cognitive-limits
 
 ### ✓ 2026-03-23: Cross-review articles considering self-reference-paradox.md insights
 - **Type**: cross-review

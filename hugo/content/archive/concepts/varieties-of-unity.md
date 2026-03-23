@@ -66,7 +66,7 @@ All your experiences are had by *one* subject—by you. There is no experience i
 
 Subject unity is not identical to synchronic or diachronic unity, though it's often conflated with both. Synchronic unity concerns how features at a moment are bound; subject unity concerns who experiences them. Diachronic unity concerns how moments connect through time; subject unity concerns whether the same subject persists across those moments.
 
-The [minimal self](/concepts/self-and-consciousness/)—the basic first-person perspective or "for-me-ness"—may be constitutive of subject unity. Every experience has a built-in first-person givenness that makes it *this* subject's experience. Some argue this minimal self is not an additional feature added to consciousness but the very form conscious experience takes.
+The [minimal self](/concepts/self-and-self-consciousness/)—the basic first-person perspective or "for-me-ness"—may be constitutive of subject unity. Every experience has a built-in first-person givenness that makes it *this* subject's experience. Some argue this minimal self is not an additional feature added to consciousness but the very form conscious experience takes.
 
 ## Can These Unities Dissociate?
 
@@ -171,7 +171,7 @@ One might propose all three unities are "really" one thing for parsimony. But if
 - [binding-problem](/concepts/binding-problem/) — The neural challenge of synchronic feature binding
 - [phenomenal-unity](/concepts/unity-of-consciousness/) — Why experience comes as integrated wholes
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Diachronic structure and the specious present
-- [self-and-consciousness](/concepts/self-and-consciousness/) — Subject unity and the minimal self
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) — Subject unity and the minimal self
 - [personal-identity](/topics/personal-identity/) — How subjects persist across time
 - [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and the temporal self
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Natural experiments on unity dissociation

@@ -67,7 +67,7 @@ Neuroscience provides a third-person window into the void that first-person acce
 
 A continuum emerges from heightened DMN activity (rumination, depression) through normal waking self-awareness to suppressed DMN activity (flow, meditation, psychedelic states). Absorption represents the low end of this continuum — maximum task engagement with minimum self-referential processing.
 
-This creates a puzzle for physicalism. The [DMN](/concepts/default-mode-network/) suppression shows that [self-consciousness](/concepts/self-consciousness/) is not a simple correlate of neural activity — it can be selectively eliminated while other aspects of consciousness intensify. A physicalist can point to network competition as the mechanism, but this only relocates the question: why should the brain's architecture separate awareness-of-self from awareness-of-task so cleanly, and what determines which mode dominates? The dissociation suggests an architecture more structured than "consciousness equals processing."
+This creates a puzzle for physicalism. The [DMN](/concepts/default-mode-network/) suppression shows that [self-consciousness](/concepts/self-and-self-consciousness/) is not a simple correlate of neural activity — it can be selectively eliminated while other aspects of consciousness intensify. A physicalist can point to network competition as the mechanism, but this only relocates the question: why should the brain's architecture separate awareness-of-self from awareness-of-task so cleanly, and what determines which mode dominates? The dissociation suggests an architecture more structured than "consciousness equals processing."
 
 ## What the Void Conceals
 

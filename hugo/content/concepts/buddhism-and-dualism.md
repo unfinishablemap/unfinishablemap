@@ -97,7 +97,7 @@ Despite this compatibility, genuine tensions exist.
 
 **The witness problem**: Buddhist meditation reveals [witness-consciousness](/concepts/witness-consciousness/)—the capacity to observe thoughts as objects without identification. This seems to require an observer distinct from what's observed. Some Buddhist schools (especially Advaita-influenced interpretations) lean toward a persistent witness; mainstream Buddhism denies any observer persists. The Map takes no official position, but the phenomenology of witnessing—consciousness observing its own contents—supports the irreducibility claim.
 
-**Minimal self**: [Phenomenological analysis](/concepts/self-and-consciousness/#minimal-self-and-narrative-self) (Zahavi, Gallagher) identifies a "minimal self"—the pre-reflective "for-me-ness" present in all experience. This isn't the narrative self Buddhism deconstructs; it's the structural feature that makes experience first-personal. Buddhism might accept this minimal self exists conventionally while denying it ultimate substantial reality. The Map might accept this compromise—first-personal structure doesn't require permanence.
+**Minimal self**: [Phenomenological analysis](/concepts/self-and-self-consciousness/#minimal-self-and-narrative-self) (Zahavi, Gallagher) identifies a "minimal self"—the pre-reflective "for-me-ness" present in all experience. This isn't the narrative self Buddhism deconstructs; it's the structural feature that makes experience first-personal. Buddhism might accept this minimal self exists conventionally while denying it ultimate substantial reality. The Map might accept this compromise—first-personal structure doesn't require permanence.
 
 **Liberation vs. explanation**: Buddhism aims at *nirvana*—cessation of suffering through transformation of consciousness. The Map aims at understanding consciousness's place in nature. These projects can complement but might ultimately diverge. Buddhism might say: "Why explain consciousness when you could transform it?" the Map might respond: "Understanding might inform transformation."
 
@@ -166,7 +166,7 @@ The comparison also reveals what Buddhism challenges: any residual attachment to
 ## Further Reading
 
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Overview of Buddhist approaches to consciousness
-- [self-and-consciousness](/concepts/self-and-consciousness/) — The minimal self vs. narrative self distinction
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) — The minimal self vs. narrative self distinction
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer in meditation traditions
 - [phenomenology](/concepts/phenomenology/) — Western methods for investigating experience; Buddhism as phenomenology in practice
 - [panpsychism](/concepts/panpsychism/) — Another non-physicalist view, with different tensions with Buddhism

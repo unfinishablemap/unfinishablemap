@@ -48,7 +48,7 @@ topics: []
 - Clear, well-organized structure following the writing style guide
 
 ### Enhancements Made
-- Added cross-links to [self-and-consciousness](/concepts/self-and-consciousness/), [temporal-consciousness](/concepts/temporal-consciousness/), [embodied-cognition](/concepts/embodied-cognition/), [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/), [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/), [intersubjectivity](/concepts/intersubjectivity/), [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
+- Added cross-links to [self-and-consciousness](/concepts/self-and-self-consciousness/), [temporal-consciousness](/concepts/temporal-consciousness/), [embodied-cognition](/concepts/embodied-cognition/), [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/), [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/), [intersubjectivity](/concepts/intersubjectivity/), [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
 - Added 4 new related_articles entries in frontmatter
 - Expanded Further Reading section with annotated links
 - Added 3 missing references (Parnas et al. 2011, Raballo et al. 2021, fixed Parnas & Sass 2025)
@@ -61,7 +61,7 @@ topics: []
 - [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — Added in "Ownership as Primitive" section (clinical evidence)
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — Added in "Disorders of the Axis" section (extended reference)
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Added in temporal disintegration discussion (ipseity context)
-- [self-and-consciousness](/concepts/self-and-consciousness/) — Added in "Minimal Self" section (clinical evidence)
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) — Added in "Minimal Self" section (clinical evidence)
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Added in opening definition (psychiatric conditions)
 - [introspection](/concepts/introspection/) — Added in neurophenomenology discussion (EASE instrument)
 

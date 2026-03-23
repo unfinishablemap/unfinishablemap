@@ -55,7 +55,7 @@ topics: []
 2. [vertiginous-question](/topics/vertiginous-question/) — Added in "Self-Locating Beliefs" section (body) + Further Reading
 3. [many-worlds](/concepts/many-worlds/) — Added in "Indexical Identity Problem" section (body) + Further Reading
 4. [identity-across-transformations](/apex/identity-across-transformations/) — Added in "Pattern Problem" section (body)
-5. [self-and-consciousness](/concepts/self-and-consciousness/) — Added in "No Many Worlds" tenet section (body) + Further Reading
+5. [self-and-consciousness](/concepts/self-and-self-consciousness/) — Added in "No Many Worlds" tenet section (body) + Further Reading
 6. [knowledge-argument](/concepts/knowledge-argument/) — Added in "Acquaintance Knowledge" section (body) + Further Reading
 7. [process-haecceitism](/concepts/process-haecceitism/) — Added in "Buddhist Compatibility" section (body) + Further Reading
 8. [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — Added in "Ownership as Primitive" section (body) + Further Reading

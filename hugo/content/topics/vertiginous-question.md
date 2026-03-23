@@ -146,7 +146,7 @@ The vertiginous question connects to all five tenets:
 - [haecceity](/concepts/haecceity/) — The metaphysical concept of primitive thisness
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — How indexical identity applies to quantum interpretations
 - [personal-identity](/topics/personal-identity/) — What makes you the same person over time
-- [self-and-consciousness](/concepts/self-and-consciousness/) — The minimal self and phenomenology of selfhood
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) — The minimal self and phenomenology of selfhood
 - [many-worlds](/concepts/many-worlds/) — Why indexical identity problems challenge many-worlds
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Why qualitative identity doesn't guarantee conscious identity
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The broader context for consciousness problems

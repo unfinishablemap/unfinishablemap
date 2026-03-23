@@ -148,7 +148,7 @@ The phenomenology of recursive thought suggests several conclusions:
 - [higher-order-theories](/concepts/higher-order-theories/) — Theories that make recursion central to consciousness
 - [introspection](/concepts/introspection/) — The reliability and limits of self-examination
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative phenomenology of observing without identification
-- [self-and-consciousness](/concepts/self-and-consciousness/) — The minimal self and its relation to recursive awareness
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) — The minimal self and its relation to recursive awareness
 - [downward-causation](/concepts/downward-causation/) — How consciousness might influence physical processes
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and temporal thickness that recursive thought requires
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — Self-reflexive meaning as one of five phenomenal meaning modes

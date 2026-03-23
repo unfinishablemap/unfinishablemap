@@ -6,6 +6,11 @@ modified: 2026-01-14
 human_modified: null
 ai_modified: 2026-03-21T18:11:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-23T18:29:00+00:00
+superseded_by: "/concepts/self-and-self-consciousness/"
+archive_reason: "Coalesced into Self and Self-Consciousness"
+original_path: "/concepts/self-and-consciousness/"
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:

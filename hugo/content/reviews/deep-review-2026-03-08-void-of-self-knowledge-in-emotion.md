@@ -50,11 +50,11 @@ topics: []
 - Added replication qualifier for Schachter-Singer study
 - Strengthened materialist-to-dualist transition with explicit functionalist acknowledgment
 - Added No Many Worlds tenet connection via indexical identity
-- Added cross-link to [self-and-consciousness](/concepts/self-and-consciousness/) in body text
+- Added cross-link to [self-and-consciousness](/concepts/self-and-self-consciousness/) in body text
 - Replaced confused river metaphor with clearer formulation
 
 ### Cross-links Added
-- [self-and-consciousness](/concepts/self-and-consciousness/) (in No Many Worlds paragraph)
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) (in No Many Worlds paragraph)
 
 ## Remaining Items
 

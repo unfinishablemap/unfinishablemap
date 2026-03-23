@@ -61,7 +61,7 @@ Added inbound links from 7 related articles:
 
 4. **[witness-consciousness](/concepts/witness-consciousness/)** — Added link in "The Structural Limitation" section, referencing the Level 0/1/2 mapping and explaining why the tower doesn't extend indefinitely
 
-5. **[self-and-consciousness](/concepts/self-and-consciousness/)** — Added link in "Metacognition and the Self" section, connecting minimal self to the "doubled awareness" of recursive thought
+5. **[self-and-consciousness](/concepts/self-and-self-consciousness/)** — Added link in "Metacognition and the Self" section, connecting minimal self to the "doubled awareness" of recursive thought
 
 6. **[the-unobservable-self](/voids/self-reference-paradox/)** — Added link in "The Regression of Attention" section, referencing the level mapping and collapse phenomenon
 

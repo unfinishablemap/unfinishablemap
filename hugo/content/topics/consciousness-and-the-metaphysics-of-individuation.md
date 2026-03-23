@@ -140,7 +140,7 @@ The individuation question connects to all five of the Map's [tenets](/tenets/),
 - [other-minds-void](/voids/other-minds-void/) — The epistemic asymmetry in consciousness access
 - [identity-across-transformations](/apex/identity-across-transformations/) — Apex synthesis: identity through radical change
 - [binding-problem](/concepts/binding-problem/) — The related problem of what binds experiences into a unified field
-- [self-and-consciousness](/concepts/self-and-consciousness/) — The minimal self and phenomenology of subjecthood
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) — The minimal self and phenomenology of subjecthood
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist perspectives on self-boundaries and *anattā*
 - [indexical-void](/voids/indexical-void/) — The void-form of the individuation question: why am I *this* consciousness?
 - [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — What makes experience belong to a subject

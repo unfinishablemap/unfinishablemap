@@ -159,7 +159,7 @@ Consciousness varies along multiple dimensions:
 
 ## Consciousness and the Self {#self}
 
-Consciousness and [selfhood](/concepts/self-and-consciousness/) are intimately connected. Consciousness seems to be *for* someone—there is a subject who experiences. But what is this subject?
+Consciousness and [selfhood](/concepts/self-and-self-consciousness/) are intimately connected. Consciousness seems to be *for* someone—there is a subject who experiences. But what is this subject?
 
 The Map notes several views:
 - The self as substantial soul (Cartesian dualism)

@@ -55,7 +55,7 @@ The minimal self has three features that distinguish it from richer conceptions:
 
 **Non-narrative**: It does not depend on having a life story. Patients with severe amnesia who cannot construct autobiographical narratives still experience from a first-person perspective. The minimal self persists when narrative breaks down. Conversely, [phenomenological psychiatry](/topics/phenomenological-psychiatry-and-altered-experience/) shows that in schizophrenia the minimal self itself can be disrupted—Sass and Parnas's ipseity disturbance model demonstrates that pre-reflective "for-me-ness" can erode through hyperreflexivity (normally tacit features of experience becoming alien objects of attention) and diminished self-affection (weakened sense of being a vital source of awareness), while narrative capacity remains partially intact. In [depersonalization/derealization disorder](/topics/phenomenological-psychiatry-and-altered-experience/), distinct components of the minimal self—mineness, the sense that experiences are one's own; actuality, the sense that the world is real; and temporal presence, the sense of being in the now—can each be disrupted independently, revealing that even the "basic" first-person perspective has internal structure.
 
-**Necessary**: There appear to be no genuinely anonymous experiences—no consciousness that belongs to nobody. [The minimal self](/concepts/self-and-consciousness/) is not an optional addition to experience but its very form.
+**Necessary**: There appear to be no genuinely anonymous experiences—no consciousness that belongs to nobody. [The minimal self](/concepts/self-and-self-consciousness/) is not an optional addition to experience but its very form.
 
 This is a powerful philosophical discovery. It means that even the most radical deconstruction of selfhood—whether through Buddhist meditation, philosophical argument, or neurological damage—cannot eliminate the first-person perspective without eliminating consciousness itself. When meditators report the dissolution of the self, what dissolves is something richer than the minimal self. Something remains: [witness-awareness](/concepts/witness-consciousness/), the bare "that there is experiencing" which persists even when identification with a particular self ceases.
 
@@ -155,7 +155,7 @@ The three-layered self connects directly to the Map's foundational commitments.
 
 ## Further Reading
 
-- [self-and-consciousness](/concepts/self-and-consciousness/) — The minimal self as structural feature of consciousness
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) — The minimal self as structural feature of consciousness
 - [personal-identity](/topics/personal-identity/) — What makes you persist over time
 - [haecceity](/concepts/haecceity/) — Primitive thisness and why qualitative identity isn't enough
 - [parfit-reductionism](/concepts/parfit-reductionism/) — The Map's critique of identity-as-pattern

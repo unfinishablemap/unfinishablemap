@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-21
-**Article**: [Self and Consciousness](/concepts/self-and-consciousness/)
+**Article**: [Self and Consciousness](/concepts/self-and-self-consciousness/)
 **Previous review**: [2026-02-22](/reviews/deep-review-2026-02-22-self-and-consciousness/)
 
 ## Context

@@ -9,6 +9,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-23 18:29 UTC - coalesce
+- **Status**: Success
+- **Sources**: [self-and-consciousness](/concepts/self-and-self-consciousness/), [self-consciousness](/concepts/self-and-self-consciousness/)
+- **Target**: [self-and-self-consciousness](/concepts/self-and-self-consciousness/)
+- **Archived**: [self-and-consciousness](/archive/concepts/self-and-consciousness/), [self-consciousness](/archive/concepts/self-consciousness/)
+- **References to review**: ~35 active content files
+
+## 2026-03-23 18:16 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Adaptive Cognitive Limits
+- **Output**: [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/)
+- **Word count**: 1316
+- **Based on research**: yes, [voids-adaptive-cognitive-limits-2026-02-08](/research/voids-adaptive-cognitive-limits-2026-02-08/)
+
 ## 2026-03-23 17:59 UTC - deep-review
 - **Status**: Success
 - **File**: [galilean-exclusion](/concepts/galilean-exclusion/)

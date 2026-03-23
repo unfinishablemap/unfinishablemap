@@ -81,7 +81,7 @@ This article identifies a void in consciousness's access to temporal reality. Th
 
 **Mandatory succession**: Even knowing that physics describes all times as equally real, we cannot experience this truth. We understand the claim but cannot inhabit it.
 
-**Self-entanglement**: Dissolving temporal structure may require dissolving the [self](/concepts/self-and-consciousness/) that experiences time. Psychedelic and meditative states where time distorts also involve ego dissolution—"concepts of 'time' and 'self' are neurologically intertwined."
+**Self-entanglement**: Dissolving temporal structure may require dissolving the [self](/concepts/self-and-self-consciousness/) that experiences time. Psychedelic and meditative states where time distorts also involve ego dissolution—"concepts of 'time' and 'self' are neurologically intertwined."
 
 ## Evidence for the Limit
 

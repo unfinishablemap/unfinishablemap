@@ -51,13 +51,13 @@ topics: []
 
 ### Enhancements Made
 - Strengthened No Many Worlds tenet connection with phenomenologically grounded argument
-- Added body-text link to [self-and-consciousness](/concepts/self-and-consciousness/) in the self-directed vs self-referential distinction
+- Added body-text link to [self-and-consciousness](/concepts/self-and-self-consciousness/) in the self-directed vs self-referential distinction
 - Removed orphaned Hume reference
 - Removed AI refinement log
 - Softened unsupported empirical claim
 
 ### Cross-links Added
-- [self-and-consciousness](/concepts/self-and-consciousness/) (now linked in body text, was only in frontmatter)
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) (now linked in body text, was only in frontmatter)
 
 ## Remaining Items
 None. Article is in good shape after first review.

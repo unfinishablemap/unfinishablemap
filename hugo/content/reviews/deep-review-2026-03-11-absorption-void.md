@@ -29,7 +29,7 @@ topics: []
 ### Medium Issues Found
 - **Physicalism puzzle non-sequitur**: The claim "more neural engagement should produce more consciousness, not less self-consciousness" doesn't follow even within physicalism — different types of processing can trade off. Resolution: Rewrote to focus on the genuine puzzle (selective elimination of self-consciousness while other consciousness intensifies) and acknowledged the physicalist response (network competition) while noting it relocates rather than dissolves the question.
 - **Sparby (2024) uncited**: Listed in references but never cited in text. Resolution: Added citation to the Buddhist jhana description it supports.
-- **Missing cross-links**: Several natural connections to existing concept pages were absent. Resolution: Added links to [introspection](/concepts/introspection/), [default-mode-network](/concepts/default-mode-network/), [self-consciousness](/concepts/self-consciousness/), and [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/).
+- **Missing cross-links**: Several natural connections to existing concept pages were absent. Resolution: Added links to [introspection](/concepts/introspection/), [default-mode-network](/concepts/default-mode-network/), [self-consciousness](/concepts/self-and-self-consciousness/), and [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/).
 
 ### Counterarguments Considered
 - **Physicalist network competition**: The dissociation between task engagement and self-monitoring is easily explained by anti-correlated brain networks. The revised text acknowledges this response while noting it raises further questions about the architecture.
@@ -55,7 +55,7 @@ topics: []
 ### Cross-links Added
 - [introspection](/concepts/introspection/) — in quantum measurement parallel section
 - [default-mode-network](/concepts/default-mode-network/) — in neural architecture section
-- [self-consciousness](/concepts/self-consciousness/) — in physicalism puzzle paragraph
+- [self-consciousness](/concepts/self-and-self-consciousness/) — in physicalism puzzle paragraph
 - [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/) — in cross-cultural evidence section
 
 ## Remaining Items

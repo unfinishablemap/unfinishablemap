@@ -193,7 +193,7 @@ Emotional consciousness is not a puzzle awaiting functional solution. It is evid
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The subjective, felt aspect of mental states
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The view that phenomenal properties ground objective value
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Boundary cases testing where valenced experience begins
-- [self-and-consciousness](/concepts/self-and-consciousness/) — How selfhood relates to phenomenal experience
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) — How selfhood relates to phenomenal experience
 - [agent-causation](/concepts/agent-causation/) — How consciousness exercises causal influence through valenced assessment
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention operates as the consciousness-brain interface
 - [intentionality](/concepts/intentionality/) — How mental states can be about things

@@ -62,7 +62,7 @@ None. The article was well-constructed with accurate attributions throughout.
 
 - [consciousness](/concepts/consciousness/) (causal efficacy section)
 - [temporal-consciousness](/concepts/temporal-consciousness/) (MWI tenet connection, Further Reading)
-- [self-and-consciousness](/concepts/self-and-consciousness/) (Further Reading)
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) (Further Reading)
 
 ## Remaining Items
 

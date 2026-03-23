@@ -53,14 +53,14 @@ topics: []
 
 ### Enhancements Made
 - Added "DMN and Predictive Models" subsection connecting DMN's self-model maintenance to predictive processing framework via REBUS
-- Added `[narrative self](/concepts/self-and-consciousness/)` wikilink in DMN and Sense of Self section
+- Added `[narrative self](/concepts/self-and-self-consciousness/)` wikilink in DMN and Sense of Self section
 - Added `[self-evaluation](/concepts/introspection/)` wikilink in evidence list
 - Improved "monkey mind" attribution precision
 - Removed stale AI refinement log
 - Updated `ai_system` to current model
 
 ### Cross-links Added
-- [self-and-consciousness](/concepts/self-and-consciousness/) — linked in body at "narrative self" reference
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) — linked in body at "narrative self" reference
 - [introspection](/concepts/introspection/) — linked in body at "self-evaluation" reference
 - [predictive-processing](/concepts/predictive-processing/) — strengthened with new subsection substantiating the Further Reading link
 

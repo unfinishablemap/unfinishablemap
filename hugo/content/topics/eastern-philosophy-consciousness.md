@@ -205,7 +205,7 @@ Eastern philosophy illuminates all five of the Map's [tenets](/tenets/), while r
 - [samkhya-three-way-distinction](/concepts/samkhya-three-way-distinction/) — Samkhya's radical separation of consciousness, mind, and matter
 - [mental-causation](/concepts/mental-causation/) — The philosophical case for consciousness as causally efficacious
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's framework and Buddhist parallels
-- [self-and-consciousness](/concepts/self-and-consciousness/) — Minimal self vs. narrative self
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) — Minimal self vs. narrative self
 - [personal-identity](/topics/personal-identity/) — What makes you the same person over time
 - [meaning-of-life](/topics/meaning-of-life/) — Western approaches to significance
 - [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/) — Compare Buddhist and Western responses to meaninglessness

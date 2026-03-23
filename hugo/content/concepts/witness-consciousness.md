@@ -53,7 +53,7 @@ In Advaita Vedanta, the *sakshi* (witness-self) is pure awareness that observes 
 
 Buddhism's *anattā* (no-self) doctrine seems incompatible with an eternal witness, yet Buddhist meditation cultivates precisely the capacity to observe mental contents without identification. The resolution: [irreducibility and impermanence are logically independent](/concepts/buddhism-and-dualism/#the-compatibility-thesis). The witness can be irreducible at each moment while impermanent across moments—property dualism operating within Buddhist flux. (For the deeper Madhyamaka challenge—whether the witness itself is empty of inherent existence—see [the emptiness response](/concepts/buddhism-and-dualism/#emptiness-challenge).)
 
-Buddhism doesn't claim "consciousness is an illusion" (that would be eliminativism); it claims "the permanent self *owning* consciousness is an illusion." What [Zahavi calls](/concepts/self-and-consciousness/) the minimal self's "for-me-ness" may survive the no-self critique. See [buddhism-and-dualism](/concepts/buddhism-and-dualism/) for detailed treatment.
+Buddhism doesn't claim "consciousness is an illusion" (that would be eliminativism); it claims "the permanent self *owning* consciousness is an illusion." What [Zahavi calls](/concepts/self-and-self-consciousness/) the minimal self's "for-me-ness" may survive the no-self critique. See [buddhism-and-dualism](/concepts/buddhism-and-dualism/) for detailed treatment.
 
 The witness concept appears with striking consistency across independent traditions—a pattern the [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) examines in detail, mapping where traditions converge on the witness's phenomenological structure while diverging on its metaphysical status. This is one instance of the broader [cross-traditional convergence on consciousness irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/).
 
@@ -198,7 +198,7 @@ What contemplatives discovered through sustained practice, phenomenology articul
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Minimal phenomenal experience
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) — Sleep-onset phenomenology and the witness during interface transitions
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Two modes of consciousness in meditation
-- [self-and-consciousness](/concepts/self-and-consciousness/) — Minimal self and narrative self
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) — Minimal self and narrative self
 - [attention-as-interface](/concepts/attention-as-interface/) — How consciousness selects through attention
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effortful selection
 - [Testing the Map from Inside](/apex/testing-the-map-from-inside/) — Apex synthesis: first-person experiments probing witness consciousness and choice

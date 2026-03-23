@@ -109,9 +109,9 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies. Predictive
 - [transparency-void](/voids/transparency-void/) — When cognitive mechanisms become invisible through transparency
 - [other-minds-void](/voids/other-minds-void/) — The impossibility of accessing another subject's ownership
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
-- [self-and-consciousness](/concepts/self-and-consciousness/) — Minimal self and pre-reflective awareness
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) — Minimal self and pre-reflective awareness
 - [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — Why experience belongs to anyone, and what happens when it stops
-- [self-consciousness](/concepts/self-consciousness/) — Pre-reflective for-me-ness and the circularity of self-awareness
+- [self-consciousness](/concepts/self-and-self-consciousness/) — Pre-reflective for-me-ness and the circularity of self-awareness
 - [mysterianism](/concepts/mysterianism/) — McGinn on structural cognitive limits
 
 ## References

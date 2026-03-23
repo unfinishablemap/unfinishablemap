@@ -75,7 +75,7 @@ Key features:
 - **Necessary**: Cannot be absent while consciousness persists
 - **Non-narrative**: Does not depend on autobiographical stories
 
-The [self and consciousness](/concepts/self-and-consciousness/) article develops the minimal self's philosophical significance in depth—arguing that for-me-ness is not added to consciousness but is its very form, and engaging with Buddhist no-self, Metzinger's eliminativism, and the hard problem. The minimal self is disclosed through phenomenological attention to experience itself—an essential feature of every experience, given in first-personal mode rather than observed from outside.
+The [self and consciousness](/concepts/self-and-self-consciousness/) article develops the minimal self's philosophical significance in depth—arguing that for-me-ness is not added to consciousness but is its very form, and engaging with Buddhist no-self, Metzinger's eliminativism, and the hard problem. The minimal self is disclosed through phenomenological attention to experience itself—an essential feature of every experience, given in first-personal mode rather than observed from outside.
 
 ### The Narrative Self
 
@@ -208,7 +208,7 @@ The physicalist might object that positing irreducible phenomenal unity violates
 - [Personal Identity](/topics/personal-identity/) — What makes you the same person across change
 - [Consciousness and Temporal Integration](/topics/temporal-structure-of-consciousness/) — How consciousness binds across extended time scales
 - [Diachronic Agency and Personal Narrative](/topics/diachronic-agency-and-personal-narrative/) — Agency extended across the lifespan
-- [Self and Consciousness](/concepts/self-and-consciousness/) — Relationship between consciousness and selfhood
+- [Self and Consciousness](/concepts/self-and-self-consciousness/) — Relationship between consciousness and selfhood
 - [The Self: Minimal, Narrative, and Substantial](/topics/the-self-minimal-narrative-and-substantial/) — Three-layered model of selfhood
 - [Consciousness and Memory](/topics/consciousness-and-memory/) — The relationship between consciousness and memory formation
 - [Quantum Holism and Phenomenal Unity](/topics/quantum-holism-and-phenomenal-unity/) — Why phenomenal unity resists physical explanation

@@ -201,7 +201,7 @@ The unity of consciousness illustrates why simplicity is not a reliable guide. T
 - [varieties-of-unity](/concepts/unity-of-consciousness/) — Detailed taxonomy of synchronic, diachronic, and subject unity
 - [phenomenal-unity](/concepts/unity-of-consciousness/) — Why experience comes as integrated wholes
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Diachronic structure and the specious present
-- [self-and-consciousness](/concepts/self-and-consciousness/) — Subject unity and the minimal self
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) — Subject unity and the minimal self
 - [consciousness](/concepts/consciousness/) — The Map's foundational concept page
 
 ### Related Problems

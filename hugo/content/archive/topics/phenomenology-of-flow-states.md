@@ -114,7 +114,7 @@ This connects to [temporal integration](/topics/temporal-structure-of-consciousn
 
 Flow transforms self-experience without eliminating the self.
 
-Csikszentmihalyi described the "loss of self-consciousness" in flow. This is easily misread as the loss of self *per se*. The distinction matters. What disappears is the [narrative self](/concepts/self-and-consciousness/) — the running commentary, the self-image management, the awareness of being observed. What remains is the [minimal self](/concepts/self-and-consciousness/) — the bare subjectivity that makes experience experiential, the for-me-ness that constitutes phenomenal consciousness.
+Csikszentmihalyi described the "loss of self-consciousness" in flow. This is easily misread as the loss of self *per se*. The distinction matters. What disappears is the [narrative self](/concepts/self-and-self-consciousness/) — the running commentary, the self-image management, the awareness of being observed. What remains is the [minimal self](/concepts/self-and-self-consciousness/) — the bare subjectivity that makes experience experiential, the for-me-ness that constitutes phenomenal consciousness.
 
 This is not unconsciousness wearing a mask. Contemplative traditions have mapped this territory extensively. Buddhist *jhana* practice cultivates states of absorbed concentration where the narrative self falls silent while awareness intensifies. Zen *mushin* (no-mind) is often misunderstood as mindlessness but is better described as non-reflective engagement — consciousness acting without the intermediary of self-narration.
 
@@ -156,7 +156,7 @@ Flow fits naturally into the Map's selection framework. Consciousness doesn't ne
 - [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) — Temporal binding and the structure of the specious present
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — How the body shapes conscious engagement with the world
 - [contemplative-path](/apex/contemplative-path/) — Contemplative practices that cultivate flow-like states
-- [self-and-consciousness](/concepts/self-and-consciousness/) — Minimal vs. narrative self and the layers of self-awareness
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) — Minimal vs. narrative self and the layers of self-awareness
 - [phenomenology-of-skill-and-the-lived-body](/topics/consciousness-and-skilled-performance/) — How skill development creates the conditions for flow
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The consciousness levels that flow navigates between
 - [pain-asymbolia](/concepts/pain-asymbolia/) — Another case where phenomenal experience dissociates from its expected functional role

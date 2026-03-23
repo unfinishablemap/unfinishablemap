@@ -60,7 +60,7 @@ topics: []
 
 ### Cross-links Added
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) (body text and Further Reading)
-- [self-and-consciousness](/concepts/self-and-consciousness/) (body text, in new Buddhist response paragraph)
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) (body text, in new Buddhist response paragraph)
 
 ## Remaining Items
 

@@ -76,7 +76,7 @@ All attributions verified:
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Added inline in Subject Unity section + implicit via Further Reading
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Added inline in Personal Identity implications section
 - [combination-problem](/concepts/combination-problem/) — Added to Further Reading
-- [self-and-consciousness](/concepts/self-and-consciousness/) — Added to Further Reading
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) — Added to Further Reading
 - [other-minds-void](/voids/other-minds-void/) — Added to Further Reading
 - [indexical-void](/voids/indexical-void/) — Added to Further Reading
 - [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — Added to Further Reading

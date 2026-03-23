@@ -129,7 +129,7 @@ Effort is friction at the [selection interface](/concepts/attention-as-interface
 
 ### The Self in Flow
 
-Csikszentmihalyi's "loss of self-consciousness" in flow is easily misread. What disappears is the [narrative self](/concepts/self-and-consciousness/) — the running commentary and self-image management. What remains is the [minimal self](/concepts/self-and-consciousness/) — bare subjectivity. Contemplative traditions confirm the pattern: Buddhist *jhana* and Zen *mushin* both involve the dropping of reflective self-monitoring while awareness intensifies, achieved through direct attention training rather than task absorption. For the Map, this supports a layered model: flow operates at the [noetic level](/concepts/anoetic-noetic-autonoetic-consciousness/) while the autonoetic layer falls silent.
+Csikszentmihalyi's "loss of self-consciousness" in flow is easily misread. What disappears is the [narrative self](/concepts/self-and-self-consciousness/) — the running commentary and self-image management. What remains is the [minimal self](/concepts/self-and-self-consciousness/) — bare subjectivity. Contemplative traditions confirm the pattern: Buddhist *jhana* and Zen *mushin* both involve the dropping of reflective self-monitoring while awareness intensifies, achieved through direct attention training rather than task absorption. For the Map, this supports a layered model: flow operates at the [noetic level](/concepts/anoetic-noetic-autonoetic-consciousness/) while the autonoetic layer falls silent.
 
 ## When Skills Must Change
 
@@ -188,7 +188,7 @@ The strongest physicalist counterargument is that executive attention networks a
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — How attention and consciousness can come apart
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — Temporal binding and the structure of the specious present
 - [contemplative-path](/apex/contemplative-path/) — Contemplative practices that cultivate flow-like states
-- [self-and-consciousness](/concepts/self-and-consciousness/) — Minimal vs. narrative self and the layers of self-awareness
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) — Minimal vs. narrative self and the layers of self-awareness
 - [pain-asymbolia](/concepts/pain-asymbolia/) — Another case where phenomenal experience dissociates from its expected functional role
 - [The Phenomenology of Consciousness Doing Work](/apex/phenomenology-of-consciousness-doing-work/) — Apex synthesis: flow as a test case revealing that the four features of working consciousness are partially dissociable
 

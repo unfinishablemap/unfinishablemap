@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-31
-**Article**: [Self and Consciousness](/concepts/self-and-consciousness/)
+**Article**: [Self and Consciousness](/concepts/self-and-self-consciousness/)
 **Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-self-and-consciousness/)
 
 ## Pessimistic Analysis Summary

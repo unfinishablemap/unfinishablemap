@@ -149,7 +149,7 @@ Whether any non-human animals achieve genuine autonoetic consciousness remains d
 - [explanatory-gap](/concepts/explanatory-gap/) — Why functional descriptions cannot bridge the transitions
 - [mental-causation](/concepts/mental-causation/) — The broader framework for consciousness as causally efficacious
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The temporal structure of conscious experience underlying mental time travel
-- [self-and-consciousness](/concepts/self-and-consciousness/) — The relationship between selfhood and consciousness that autonoesis presupposes
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) — The relationship between selfhood and consciousness that autonoesis presupposes
 - [ai-consciousness-modes](/concepts/ai-consciousness-modes/) — Tulving's hierarchy as diagnostic tool for AI consciousness
 
 ## References

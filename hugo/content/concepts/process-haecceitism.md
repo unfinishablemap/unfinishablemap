@@ -144,7 +144,7 @@ Process haecceitism connects to the Map's [tenets](/tenets/) as a supporting con
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist compatibility with the Map's dualism
 - [parfit-reductionism](/concepts/parfit-reductionism/) — The pattern-based view that process haecceitism rejects
 - [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) — Why "I," "here," "now" resist impersonal translation—even for processes
-- [self-and-consciousness](/concepts/self-and-consciousness/) — The minimal self and phenomenology of thisness
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) — The minimal self and phenomenology of thisness
 - [identity-across-transformations](/apex/identity-across-transformations/) — Apex synthesis on identity persistence
 - [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — The broader individuation question process haecceitism addresses
 

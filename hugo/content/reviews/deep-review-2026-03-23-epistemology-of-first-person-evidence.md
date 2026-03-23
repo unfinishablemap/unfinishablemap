@@ -72,7 +72,7 @@ Files updated (frontmatter + body + further reading as applicable):
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/)
 - [phenomenological-evidence](/concepts/phenomenological-evidence/)
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)
-- [self-consciousness](/concepts/self-consciousness/)
+- [self-consciousness](/concepts/self-and-self-consciousness/)
 - [knowledge-argument](/concepts/knowledge-argument/)
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/)
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)

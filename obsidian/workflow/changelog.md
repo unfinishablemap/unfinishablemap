@@ -5,6 +5,13 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 18:29 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[self-and-consciousness]], [[self-consciousness]]
+- **Target**: [[self-and-self-consciousness]]
+- **Archived**: [[archive/concepts/self-and-consciousness]], [[archive/concepts/self-consciousness]]
+- **References to review**: ~35 active content files
+
 ## 2026-03-23 18:16 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Adaptive Cognitive Limits

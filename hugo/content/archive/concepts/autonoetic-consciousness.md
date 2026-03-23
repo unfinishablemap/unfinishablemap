@@ -118,7 +118,7 @@ Several findings would weaken the constitutive position and, with it, the dualis
 - [mental-causation](/concepts/mental-causation/) — The broader framework for consciousness as causally efficacious
 - [baseline-cognition](/concepts/baseline-cognition/) — Cognitive capacities without autonoetic self-awareness
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The temporal structure of conscious experience underlying mental time travel
-- [self-and-consciousness](/concepts/self-and-consciousness/) — The relationship between selfhood and consciousness that autonoesis presupposes
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) — The relationship between selfhood and consciousness that autonoesis presupposes
 
 ## References
 

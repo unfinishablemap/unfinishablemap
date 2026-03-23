@@ -151,7 +151,7 @@ Autonoetic consciousness requires [working memory](/concepts/working-memory/) as
 
 ## Episodic Memory and Personal Identity
 
-The connection between memory and [personal identity](/topics/personal-identity/) has been debated since Locke. If memories are constructive reconstructions, does this undermine memory-based identity? Two responses: (1) identity requires continuity of memory processes, not veridical content; (2) identity may lie in the [minimal self](/concepts/self-and-consciousness/) that structures all autonoetic experience—the same "I" inhabiting both present experience and reconstructed memories.
+The connection between memory and [personal identity](/topics/personal-identity/) has been debated since Locke. If memories are constructive reconstructions, does this undermine memory-based identity? Two responses: (1) identity requires continuity of memory processes, not veridical content; (2) identity may lie in the [minimal self](/concepts/self-and-self-consciousness/) that structures all autonoetic experience—the same "I" inhabiting both present experience and reconstructed memories.
 
 The capacity for mental time travel constitutes the *extended self*. Patient KC, without mental time travel, was confined to the present moment—unable to re-inhabit his past or project into his future. This suggests the extended self isn't merely useful but constitutive of personhood.
 

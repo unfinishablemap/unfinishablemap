@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-03-08
 **Article**: [Psychedelics and the Filter Model](/topics/psychedelics-and-the-filter-model/)
 **Previous review**: Never
-**Cross-review against**: [filter-theory](/concepts/filter-theory/), [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/), [default-mode-network](/concepts/default-mode-network/), [dream-consciousness](/topics/dream-consciousness/), [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/), [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/), [self-and-consciousness](/concepts/self-and-consciousness/), [interactionist-dualism](/concepts/interactionist-dualism/)
+**Cross-review against**: [filter-theory](/concepts/filter-theory/), [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/), [default-mode-network](/concepts/default-mode-network/), [dream-consciousness](/topics/dream-consciousness/), [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/), [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/), [self-and-consciousness](/concepts/self-and-self-consciousness/), [interactionist-dualism](/concepts/interactionist-dualism/)
 
 ## Pessimistic Analysis Summary
 
@@ -29,7 +29,7 @@ topics: []
 
 ### Medium Issues Found
 - **DMN suppression ≠ total brain reduction**: The "dimmer generator" analogy oversimplified the materialist position. Sophisticated production models explain expanded experience via disinhibition (suppressing DMN releases other networks). **Resolution**: Replaced with explicit engagement of the disinhibition objection, acknowledging it explains neural patterns while arguing filter theory better explains the experiential result.
-- **Ego dissolution lacks precision**: Article didn't distinguish between loss of minimal self and loss of narrative self. **Resolution**: Added minimal/narrative self distinction with cross-reference to [self-and-consciousness](/concepts/self-and-consciousness/), clarifying that psychedelics dismantle the narrative self while the minimal self persists as witness.
+- **Ego dissolution lacks precision**: Article didn't distinguish between loss of minimal self and loss of narrative self. **Resolution**: Added minimal/narrative self distinction with cross-reference to [self-and-consciousness](/concepts/self-and-self-consciousness/), clarifying that psychedelics dismantle the narrative self while the minimal self persists as witness.
 - **No falsifiability discussion**: Article doesn't address what would disconfirm filter theory. **Deferred**: Genuine weakness but addressing it properly would require significant expansion. The REBUS compatibility section partially addresses this by showing empirical predictions align.
 
 ### Counterarguments Considered
@@ -57,7 +57,7 @@ topics: []
 - Added 3 missing references (Hameroff, Metzinger, Stace)
 
 ### Cross-links Added
-- [self-and-consciousness](/concepts/self-and-consciousness/) — minimal/narrative self distinction in ego dissolution section
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) — minimal/narrative self distinction in ego dissolution section
 
 ## Cross-Review Findings
 

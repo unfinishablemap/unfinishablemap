@@ -91,7 +91,7 @@ For the Map's framework, the body shapes conscious experience without producing 
 
 The epoché reveals not just objects but the structure of subjectivity itself. What remains after bracketing is a first-person perspective—consciousness irreducibly *mine*. Husserl's method thus repeated, with greater precision, the [discovery Descartes had made](/topics/the-subject-object-distinction-as-philosophical-discovery/) two centuries earlier: the subject-object distinction is not a cultural artefact but a structural feature of experience, uncovered through systematic inquiry.
 
-Gallagher and Zahavi identify this as the [minimal self](/concepts/self-and-consciousness/)—pre-reflective self-awareness accompanying every experience. Not the narrative self (the story we construct) but the "for-me-ness" built into experience itself. This minimal self resists elimination: every experience is *someone's* experience. [Phenomenological psychiatry](/topics/phenomenological-psychiatry-and-altered-experience/) provides clinical evidence for this structure: in schizophrenia, the minimal self can be selectively disrupted—a disturbance of *ipseity* that strips experiences of their quality of belonging to someone while leaving consciousness itself intact. If the minimal self is more fundamental than narrative identity, the first-person perspective might persist even when memory fragments—supporting the Map's emphasis on indexical identity.
+Gallagher and Zahavi identify this as the [minimal self](/concepts/self-and-self-consciousness/)—pre-reflective self-awareness accompanying every experience. Not the narrative self (the story we construct) but the "for-me-ness" built into experience itself. This minimal self resists elimination: every experience is *someone's* experience. [Phenomenological psychiatry](/topics/phenomenological-psychiatry-and-altered-experience/) provides clinical evidence for this structure: in schizophrenia, the minimal self can be selectively disrupted—a disturbance of *ipseity* that strips experiences of their quality of belonging to someone while leaving consciousness itself intact. If the minimal self is more fundamental than narrative identity, the first-person perspective might persist even when memory fragments—supporting the Map's emphasis on indexical identity.
 
 ## The Reliability Objection
 
@@ -179,7 +179,7 @@ Phenomenology doesn't definitively prove dualism. But it provides methodological
 - [intersubjectivity](/concepts/intersubjectivity/) — How phenomenological findings can be shared across minds
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist contemplative traditions as phenomenology in practice
 - [neurophenomenology](/concepts/neurophenomenology/) — Integrating trained observation with neuroscience
-- [self-and-consciousness](/concepts/self-and-consciousness/) — The minimal self and phenomenology of selfhood
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) — The minimal self and phenomenology of selfhood
 - [intentionality](/concepts/intentionality/) — The directedness of consciousness
 - [temporal-consciousness](/concepts/temporal-consciousness/) — How experience structures time
 - [qualia](/concepts/qualia/) — The qualitative features phenomenology discloses

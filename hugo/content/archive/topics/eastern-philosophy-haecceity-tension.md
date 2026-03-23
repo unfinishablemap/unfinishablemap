@@ -222,7 +222,7 @@ Process haecceitism is not the simplest view. Anti-haecceitism (identity superve
 - [eastern-metaphysics-integration](/topics/eastern-philosophy-consciousness/) — Hindu, Buddhist, and Taoist frameworks
 - [witness-consciousness](/concepts/witness-consciousness/) — The *sakshi* and subject-object structure
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's framework and Buddhist parallels
-- [self-and-consciousness](/concepts/self-and-consciousness/) — Minimal self vs. narrative self
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) — Minimal self vs. narrative self
 - [personal-identity](/topics/personal-identity/) — What makes you the same person over time
 
 ## References

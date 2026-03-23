@@ -59,7 +59,7 @@ The strong constructionist claim goes further: there is no self prior to or inde
 
 ## The Phenomenal Self: What Construction Requires
 
-The phenomenal self is the experiential subject—[the "for-me-ness"](/concepts/self-and-consciousness/) that makes any experience belong to someone rather than no one. It is what Zahavi calls "first-personal givenness": the structural feature of consciousness whereby every experience comes already marked as mine.
+The phenomenal self is the experiential subject—[the "for-me-ness"](/concepts/self-and-self-consciousness/) that makes any experience belong to someone rather than no one. It is what Zahavi calls "first-personal givenness": the structural feature of consciousness whereby every experience comes already marked as mine.
 
 The phenomenal self has features that resist social construction:
 
@@ -118,7 +118,7 @@ This analysis connects to the Map's foundational commitments at multiple points.
 ## Further Reading
 
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — Three layers of selfhood and why the substantial self grounds the others
-- [self-and-consciousness](/concepts/self-and-consciousness/) — The minimal self as structural feature of experience
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) — The minimal self as structural feature of experience
 - [intersubjectivity](/concepts/intersubjectivity/) — How phenomenal experience can be shared between minds
 - [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — The role of consciousness in enabling social self-models
 - [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/) — How narrative shapes agency across time

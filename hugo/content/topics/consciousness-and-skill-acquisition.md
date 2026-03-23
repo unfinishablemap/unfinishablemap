@@ -124,7 +124,7 @@ Csikszentmihalyi's research (1975, 1990) identified flow's convergent profile: *
 
 The claim that flow is simply [automatised processing](/concepts/implicit-memory/) faces several problems. The jazz musician in flow generates novel phrases responsive to an unrepeatable context—straining standard accounts of procedural memory. Conscious re-engagement *destroys* flow performance while leaving unskilled performance unaffected. Subjects report flow as among the most intensely conscious moments of their lives. And flow produces rich episodic memories resembling consciously encoded episodes, not fragmented high-arousal traces.
 
-The Map proposes that flow represents consciousness selecting without the resistance that generates effort phenomenology. Effort is friction at the [selection interface](/concepts/attention-as-interface/). Skill has prepared the options so well that the right choice presents itself without competition. This explains Csikszentmihalyi's skill-challenge balance and the Map's concept of [interface-friction](/concepts/interface-friction/): practice *aligns* the physical system with consciousness's selection tendencies, so effort drops not because consciousness withdraws but because the interface becomes frictionless. Csikszentmihalyi's "loss of self-consciousness" confirms a layered model: the [narrative self](/concepts/self-and-consciousness/) falls silent while the [minimal self](/concepts/self-and-consciousness/) remains, operating at the [noetic level](/concepts/anoetic-noetic-autonoetic-consciousness/).
+The Map proposes that flow represents consciousness selecting without the resistance that generates effort phenomenology. Effort is friction at the [selection interface](/concepts/attention-as-interface/). Skill has prepared the options so well that the right choice presents itself without competition. This explains Csikszentmihalyi's skill-challenge balance and the Map's concept of [interface-friction](/concepts/interface-friction/): practice *aligns* the physical system with consciousness's selection tendencies, so effort drops not because consciousness withdraws but because the interface becomes frictionless. Csikszentmihalyi's "loss of self-consciousness" confirms a layered model: the [narrative self](/concepts/self-and-self-consciousness/) falls silent while the [minimal self](/concepts/self-and-self-consciousness/) remains, operating at the [noetic level](/concepts/anoetic-noetic-autonoetic-consciousness/).
 
 ## When Skills Must Change
 
@@ -171,7 +171,7 @@ The strongest physicalist counterargument is that executive attention networks e
 - [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) — Clinical evidence for consciousness reshaping neural architecture
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Meditation as a parallel case of trained skill
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The felt difference between authored and discovered action
-- [self-and-consciousness](/concepts/self-and-consciousness/) — Minimal vs. narrative self and the layers of self-awareness
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) — Minimal vs. narrative self and the layers of self-awareness
 - [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/) — Error signals and conscious correction
 
 ## References

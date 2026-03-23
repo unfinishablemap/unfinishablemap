@@ -60,7 +60,7 @@ The DMN thus appears to construct and maintain the ongoing sense of self—the "
 
 ## DMN and the Sense of Self
 
-The correlation between DMN activity and self-referential processing has significant implications for consciousness research. The DMN may be the neural substrate for what contemplatives sometimes call "monkey mind"—the ceaseless internal chatter that constructs and maintains the [narrative self](/concepts/self-and-consciousness/).
+The correlation between DMN activity and self-referential processing has significant implications for consciousness research. The DMN may be the neural substrate for what contemplatives sometimes call "monkey mind"—the ceaseless internal chatter that constructs and maintains the [narrative self](/concepts/self-and-self-consciousness/).
 
 ### Evidence for DMN as Self-Generator
 
@@ -212,7 +212,7 @@ Current evidence does not meet these conditions, but they define the space of po
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — States involving DMN modulation
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Pharmacological evidence for filter theory via DMN suppression
 - [witness-consciousness](/concepts/witness-consciousness/) — The awareness that persists when DMN quiets
-- [self-and-consciousness](/concepts/self-and-consciousness/) — The relationship between self-models and phenomenal experience
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) — The relationship between self-models and phenomenal experience
 - [global-workspace-theory](/concepts/global-workspace-theory/) — How DMN interacts with workspace access
 - [predictive-processing](/concepts/predictive-processing/) — DMN's role in maintaining predictive models
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — The broader NCC research program

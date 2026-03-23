@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Update references to coalesced self/self-consciousness articles
+- **Type**: refine-draft
+- **Notes**: Coalesce merged `self-and-consciousness` and `self-consciousness` into `self-and-self-consciousness`. ~35 active content files still reference the archived slugs. Update `[[self-and-consciousness]]` → `[[self-and-self-consciousness]]` and `[[self-consciousness]]` → `[[self-and-self-consciousness]]` across all active content (topics/, concepts/, voids/). Reviews and research notes can be left as-is since they are historical records.
+- **Source**: coalesce
+- **Generated**: 2026-03-23
+
 ### P2: Fix 5 broken wikilinks to consciousness-and-the-neuroscience-of-deliberate-practice
 - **Type**: refine-draft
 - **Notes**: No `consciousness-and-the-neuroscience-of-deliberate-practice.md` exists. 5 content files reference it (including clinical-neuroplasticity-evidence and phenomenology-of-cognitive-capacity articles). The closest existing article is `consciousness-and-skill-acquisition.md` (topics/). Update all 5 broken wikilinks to point to the correct existing content.

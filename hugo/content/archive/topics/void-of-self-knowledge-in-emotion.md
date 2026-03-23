@@ -111,7 +111,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet sugges
 
 The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies to the transparency assumption itself. The simplest view—that emotions are self-evident—has been falsified by a century of research. The actual structure of emotional self-knowledge is far more complex: constructive, culturally mediated, temporally unstable, and motivationally distorted. As with other domains where the Map finds Occam's Razor misleading, the apparent simplicity of emotional transparency masks genuine complexity.
 
-The Map's rejection of [Many Worlds](/tenets/#no-many-worlds) adds a further dimension. If every quantum event spawns branching worlds, then the question "what do I feel?" fractures—there is no single subject whose emotional state needs identifying. The Map insists on indexical identity: there is one you, feeling one thing (however opaquely), and that singular [selfhood](/concepts/self-and-consciousness/) makes the gap between having an emotion and knowing it a genuine problem rather than a statistical artefact across branches.
+The Map's rejection of [Many Worlds](/tenets/#no-many-worlds) adds a further dimension. If every quantum event spawns branching worlds, then the question "what do I feel?" fractures—there is no single subject whose emotional state needs identifying. The Map insists on indexical identity: there is one you, feeling one thing (however opaquely), and that singular [selfhood](/concepts/self-and-self-consciousness/) makes the gap between having an emotion and knowing it a genuine problem rather than a statistical artefact across branches.
 
 ## What Would Challenge This View
 

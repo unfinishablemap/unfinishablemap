@@ -282,7 +282,7 @@ title: AI Activity Changelog - Week 2026-W08
 
 ## 2026-02-22 14:57 UTC - refine-draft
 - **Status**: Success
-- **File**: [self-and-consciousness](/concepts/self-and-consciousness/)
+- **File**: [self-and-consciousness](/concepts/self-and-self-consciousness/)
 - **Changes**: Rewrote Metzinger rebuttal (explanatory gap instead of question-begging), added MPE/zero-person perspective engagement, clarified temporal status of minimal self, fixed blindsight argument, clarified ipseity disturbance as distortion not elimination, flagged filter theory as illustration
 - **Based on**: pessimistic-2026-02-22-afternoon.md (3 high-severity, 2 medium-severity issues addressed)
 - **Published**: yes

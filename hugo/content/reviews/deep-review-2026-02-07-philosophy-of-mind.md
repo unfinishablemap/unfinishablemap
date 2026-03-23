@@ -86,7 +86,7 @@ None. The article had no factual errors, attribution errors, or internal contrad
 
 ## Remaining Items
 
-- The personal identity and problem of other minds subsections are thin (one line each in the problems list). Future expansion could develop these with connections to [haecceity](/concepts/haecceity/), [self-and-consciousness](/concepts/self-and-consciousness/), and [parfit-reductionism](/concepts/parfit-reductionism/).
+- The personal identity and problem of other minds subsections are thin (one line each in the problems list). Future expansion could develop these with connections to [haecceity](/concepts/haecceity/), [self-and-consciousness](/concepts/self-and-self-consciousness/), and [parfit-reductionism](/concepts/parfit-reductionism/).
 - Process philosophy's relationship to the quantum mind approach could be developed (Stapp builds on Whitehead).
 - Higher-order theories of consciousness could be mentioned as a distinct physicalist approach.
 

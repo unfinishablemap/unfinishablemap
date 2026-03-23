@@ -233,7 +233,7 @@ Eastern metaphysics—dependent origination, emptiness, karmic causation, non-du
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — First-person data as empirical test
 - [contemplative-path](/apex/contemplative-path/) — Apex article synthesizing contemplative traditions
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's framework and Buddhist parallels
-- [self-and-consciousness](/concepts/self-and-consciousness/) — Minimal self vs. narrative self
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) — Minimal self vs. narrative self
 
 ## References
 

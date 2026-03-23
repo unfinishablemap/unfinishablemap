@@ -117,7 +117,7 @@ This combination of philosophical rigor with appropriate humility about limits i
 - **Tenet alignment**: Supports Dualism by showing moral phenomenology has irreducible features
 
 #### Cognitive Integration and the Self
-- **Builds on**: [personal-identity](/topics/personal-identity/), [binding-problem](/concepts/binding-problem/), [self-and-consciousness](/concepts/self-and-consciousness/)
+- **Builds on**: [personal-identity](/topics/personal-identity/), [binding-problem](/concepts/binding-problem/), [self-and-consciousness](/concepts/self-and-self-consciousness/)
 - **Would address**: How the self integrates information across time and modality—the "glue" of personal identity
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports No Many Worlds—indexical identity requires unified self

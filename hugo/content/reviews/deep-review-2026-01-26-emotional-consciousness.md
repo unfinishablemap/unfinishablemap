@@ -63,7 +63,7 @@ All six adversarial personas engaged with the content:
 - Minor prose tightening (removed redundant sentence) for length neutrality
 
 ### Cross-links Added
-- [self-and-consciousness](/concepts/self-and-consciousness/) to Further Reading
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) to Further Reading
 
 ## Remaining Items
 

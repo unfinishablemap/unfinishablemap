@@ -55,7 +55,7 @@ Three features make the ownership problem distinctive:
 
 **It is not the unity problem.** [Phenomenal unity](/concepts/unity-of-consciousness/) explains that experience comes as a whole. But unity and ownership are separable. A unified field of experience still needs a subject for whom it is unified. Unity describes the structure of experience; ownership names its possession.
 
-**It is not the self problem.** The [minimal self](/concepts/self-and-consciousness/)—the "for-me-ness" of experience—describes the phenomenological character of ownership. But describing ownership is not the same as explaining it. Saying experience has a for-me quality restates the fact that experience is owned. The ownership problem asks *why* it has this quality.
+**It is not the self problem.** The [minimal self](/concepts/self-and-self-consciousness/)—the "for-me-ness" of experience—describes the phenomenological character of ownership. But describing ownership is not the same as explaining it. Saying experience has a for-me quality restates the fact that experience is owned. The ownership problem asks *why* it has this quality.
 
 ## Why Physicalism Struggles
 
@@ -130,7 +130,7 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 ## Further Reading
 
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — Three conceptions of selfhood and their relation to ownership
-- [self-and-consciousness](/concepts/self-and-consciousness/) — The minimal self as the form ownership takes
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) — The minimal self as the form ownership takes
 - [haecceity](/concepts/haecceity/) — Primitive thisness and why ownership cannot be replicated
 - [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) — Why "I" and "mine" resist impersonal translation
 - [personal-identity](/topics/personal-identity/) — What persists when ownership extends through time
