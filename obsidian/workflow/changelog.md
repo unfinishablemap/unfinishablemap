@@ -5,6 +5,14 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 02:36 UTC - condense
+- **Status**: Success
+- **File**: [[topics/consciousness-and-skill-acquisition]]
+- **Before**: 4151
+- **After**: 2676
+- **Reduction**: 36%
+- **Technique**: Consolidated 4 neuroscience subsections into one, removed Habit vs Skill section, trimmed flow subsections, reduced repeated anti-epiphenomenalism framing, cut Further Reading from 27 to 15 items, removed AI refinement log
+
 ## 2026-03-23 02:21 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/temporal-structure-of-understanding]]
