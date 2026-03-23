@@ -4,7 +4,7 @@ description: "Natural selection works the same whether physicalism or dualism is
 created: 2026-02-12
 modified: 2026-03-14
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-23T15:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -120,7 +120,7 @@ If consciousness genuinely improves fitness—as the [[evolutionary-case-for-men
 
 What would selection for interface quality look like? Several features of brain evolution become suggestive:
 
-**Neural coherence**: If consciousness interfaces with quantum processes in neural tissue, brains that maintain [[quantum-neural-mechanisms-and-coherence|quantum coherence]] in behaviourally relevant circuits would have fitness advantages. The [[decoherence|decoherence objection]]—that warm biological tissue destroys quantum coherence too rapidly—remains the primary challenge, but [[quantum-biology|quantum biology]] has demonstrated that photosynthesis and avian magnetoreception exploit quantum effects in warm environments. The evolution of microtubule organisation, myelination patterns, and synaptic architecture might reflect selection for quantum-friendly structures alongside selection for computational efficiency.
+**Neural coherence**: If consciousness interfaces with quantum processes in neural tissue, brains that maintain [[quantum-neural-mechanisms-and-coherence|quantum coherence]] in behaviourally relevant circuits would have fitness advantages. The [[decoherence|decoherence objection]]—that warm biological tissue destroys quantum coherence too rapidly—remains the primary challenge, but [[quantum-biology|quantum biology]] has demonstrated that photosynthesis and avian magnetoreception exploit quantum effects in warm environments. The evolution of microtubule organisation, myelination patterns, and synaptic architecture might reflect selection for quantum-friendly structures alongside selection for computational efficiency. The [[evolutionary-case-for-quantum-neural-effects|evolutionary case for quantum neural effects]] develops this argument systematically: if evolution optimised quantum effects for bird navigation and enzyme catalysis, the same selective logic applies to neural systems where computational payoffs are far greater.
 
 **Attentional systems**: The [[attention-as-interface|attention-as-interface]] hypothesis suggests that attention is the mechanism through which consciousness engages with neural processing. The elaborate attentional systems found in mammals and birds—systems far more sophisticated than what pure information processing would require—might reflect selection for richer conscious access to neural content.
 
@@ -170,6 +170,7 @@ None of these would refute dualism itself. They would undermine the specific evo
 - [[interactionist-dualism]] — The framework connecting mind and matter
 - [[filter-theory]] — The transmission/filter model grounding the interface story
 - [[psychophysical-laws]] — Laws governing consciousness-matter relationships
+- [[evolutionary-case-for-quantum-neural-effects]] — Why evolutionary logic makes quantum neural effects probable
 - [[quantum-biology-and-neural-consciousness]] — Quantum biology, neural evidence convergence, and the consciousness debate
 - [[topics/free-will]] — Agent teleology and libertarian agency
 - [[animal-consciousness]] — Convergent consciousness across species

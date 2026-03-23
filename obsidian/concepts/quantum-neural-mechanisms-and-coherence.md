@@ -4,7 +4,7 @@ description: "Five neural quantum mechanisms, four coherence protection strategi
 created: 2026-01-18
 modified: 2026-02-18
 human_modified: null
-ai_modified: 2026-03-20T15:28:00+00:00
+ai_modified: 2026-03-23T15:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -96,7 +96,7 @@ Fisher's 2015 proposal operates at nuclear scales. Phosphorus-31 nuclear spins i
 
 Cytoplasm is a structured gel: actin filaments, ordered water layers near microtubules, and counterion Debye layers all screen thermal fluctuations, potentially working synergistically with the other mechanisms.
 
-These four mechanisms need not operate independently—their combination could extend coherence far beyond any single mechanism. [[quantum-biology|Quantum biology]] confirms the principle: evolution has already optimised quantum effects in photosynthesis and magnetoreception under comparable conditions.
+These four mechanisms need not operate independently—their combination could extend coherence far beyond any single mechanism. [[quantum-biology|Quantum biology]] confirms the principle: evolution has already optimised quantum effects in photosynthesis and magnetoreception under comparable conditions. The [[evolutionary-case-for-quantum-neural-effects|evolutionary case for quantum neural effects]] argues that the same selective logic applies to neural systems—where the computational payoffs would be far greater.
 
 ## Five Neural Quantum Mechanisms
 
@@ -203,6 +203,7 @@ The assumption that warm biology must be classical turned out false. [[quantum-b
 - [[quantum-biology-and-neural-consciousness]] — Quantum biology, neural evidence convergence, and the consciousness debate
 - [[consciousness-physics-interface-formalism]] — The five mathematical constraints any consciousness-physics coupling must satisfy
 - [[coupling-modes]] — Basis, timing, and probability control as coupling mechanisms
+- [[evolutionary-case-for-quantum-neural-effects]] — Why evolutionary logic makes quantum neural effects probable
 - [[amplification-mechanisms-consciousness-physics]] — Six mechanisms bridging quantum effects to macroscopic neural outcomes
 
 ## References

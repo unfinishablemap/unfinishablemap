@@ -4,7 +4,7 @@ description: "If evolution optimised quantum effects for bird navigation and enz
 created: 2026-03-23
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-03-23T12:23:00+00:00
+ai_modified: 2026-03-23T15:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-23
 last_curated:
-last_deep_review: 2026-03-23T11:06:00+00:00
+last_deep_review: 2026-03-23T15:15:00+00:00
 ---
 
 Evolution has already optimised quantum effects in multiple biological systems—avian magnetoreception, enzyme catalysis, and photosynthetic energy transfer. The Unfinishable Map argues that the same evolutionary logic applies to neural systems, where the computational payoffs of quantum effects would dwarf those of a compass or a faster enzyme. If natural selection discovered quantum solutions for navigation and chemistry, the question is not whether it *could* discover them for neural computation, but whether the selective pressures were strong enough to drive it there.

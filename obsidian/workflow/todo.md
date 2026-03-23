@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate evolutionary-case-for-quantum-neural-effects.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File created 2026-03-23 via expand-topic, has no inbound links. Add cross-references from related articles (e.g., comparing-quantum-consciousness-mechanisms, non-retrocausal-conscious-selection-models, amplification-mechanisms articles) or update section index pages to include navigation to this content.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-23
-
 ### P2: Cross-review articles considering new perception.md concept page
 - **Type**: cross-review
 - **Notes**: New concept page obsidian/concepts/perception.md created 2026-03-23 via expand-topic. Check related articles for cross-links, reinforcing arguments, or terminology consistency. Likely candidates: phenomenology articles, sensory processing topics, binding-problem, filter-theory, galilean-exclusion.
@@ -1245,6 +1239,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Integrate evolutionary-case-for-quantum-neural-effects.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-23 via expand-topic, has no inbound links. Add cross-references from related articles (e.g., comparing-quantum-consciousness-mechanisms, non-retrocausal-conscious-selection-models, amplification-mechanisms articles) or update section index pages to include navigation to this content.
+- **Output**: obsidian/topics/evolutionary-case-for-quantum-neural-effects.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-23: Condense biological-cognitive-closure.md (4256 words, 213% of soft target)
 - **Type**: condense

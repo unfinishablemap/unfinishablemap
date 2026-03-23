@@ -4,7 +4,7 @@ description: "Six converging evidence lines—from biological precedent through 
 created: 2026-01-27
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-21T08:10:00+00:00
+ai_modified: 2026-03-23T15:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -48,7 +48,7 @@ The assumption proved false. Nature had already solved the decoherence problem m
 
 **Enzyme catalysis** relies on quantum tunnelling, accelerating reactions by factors of 10¹² to 10¹⁷. Kinetic isotope effects confirm the mechanism. **Photosynthetic energy transfer** exploits quantum coherence for near-perfect efficiency, though coherence times are shorter than initially claimed.
 
-The objection has inverted. We know evolution optimises quantum effects for biological advantage. The burden shifts: why should neural systems be categorically different?
+The objection has inverted. We know evolution optimises quantum effects for biological advantage. The burden shifts: why should neural systems be categorically different? The [[evolutionary-case-for-quantum-neural-effects|evolutionary case for quantum neural effects]] develops this argument in detail—if natural selection discovered quantum solutions for navigation and chemistry, the computational payoffs of quantum effects in neural systems would dwarf those of a compass or a faster enzyme.
 
 ## Candidate Neural Mechanisms
 
@@ -181,6 +181,7 @@ The convergence of quantum biology evidence connects to all five of the Map's [[
 - [[measurement-problem]] — Why quantum mechanics leaves outcomes undetermined
 - [[experimental-design-for-consciousness-collapse-testing]] — Designing experiments to test consciousness-collapse hypotheses
 - [[causal-closure]] — Why causal closure is not absolute at quantum indeterminacies
+- [[evolutionary-case-for-quantum-neural-effects]] — Why evolutionary logic makes quantum neural effects probable
 - [[tenets]] — The Map's foundational commitments
 
 ## References

@@ -4,7 +4,7 @@ description: "The decoherence objection bundles three independent claims. Five r
 created: 2026-01-14
 modified: 2026-03-01
 human_modified: null
-ai_modified: 2026-03-20T13:03:00+00:00
+ai_modified: 2026-03-23T15:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -134,7 +134,7 @@ Three established examples refute the categorical claim that warm biological sys
 
 **Magnetoreception**: Birds navigate using quantum entanglement in cryptochrome proteins, with spin coherence persisting for *microseconds*—a million times longer than typical molecular decoherence in solution. **Enzyme catalysis**: Quantum tunnelling contributes to reaction acceleration factors of 10¹² to 10¹⁷, confirmed by large kinetic isotope effects. **Photosynthesis**: While coherence lifetimes proved shorter than initially claimed (~60 femtoseconds), quantum effects demonstrably operate in warm biological conditions.
 
-Biology evolved to harness quantum effects, not avoid them. The question is whether similar mechanisms operate in neural processing.
+Biology evolved to harness quantum effects, not avoid them. The [[evolutionary-case-for-quantum-neural-effects|evolutionary case for quantum neural effects]] argues that the same selective logic applies to neural systems—where the computational payoffs would dwarf those of a compass or a faster enzyme. The question is whether similar mechanisms operate in neural processing.
 
 ## The Receding Quantum-Classical Boundary
 

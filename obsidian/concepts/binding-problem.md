@@ -4,7 +4,7 @@ description: "How do distributed neural processes combine into unified experienc
 created: 2026-01-14
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-23T15:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -134,7 +134,7 @@ Several quantum binding theories exist. The [[quantum-consciousness|Orch OR theo
 
 The [[entanglement-binding-hypothesis]] develops this approach in detail: entangled quantum states are non-separable—the composite system cannot be decomposed into individual states for each particle—providing the only known physical mechanism that structurally matches phenomenal unity. Early experimental results (Kerskens & Pérez, 2022; Wiest et al., 2024) are consistent with quantum binding but remain preliminary, and the standard [[decoherence]] objection is contested. See [[entanglement-binding-hypothesis]] for the structural argument, experimental evidence, and acknowledged limitations.
 
-The quantum hypothesis is the Map's preferred approach to BP2 because it offers genuine physical holism rather than mere coordination. But it remains speculative, and the Map's core claim—that BP2 is not solved by classical mechanisms—does not depend on any particular quantum theory being correct.
+The quantum hypothesis is the Map's preferred approach to BP2 because it offers genuine physical holism rather than mere coordination. The [[evolutionary-case-for-quantum-neural-effects|evolutionary case for quantum neural effects]] strengthens this approach: if the binding problem genuinely requires quantum entanglement, evolution would be under strong selective pressure to discover it—just as it discovered quantum spin coherence for magnetoreception when classical mechanisms could not detect weak magnetic fields. But the hypothesis remains speculative, and the Map's core claim—that BP2 is not solved by classical mechanisms—does not depend on any particular quantum theory being correct.
 
 ## Phenomenal Unity as Primitive
 
