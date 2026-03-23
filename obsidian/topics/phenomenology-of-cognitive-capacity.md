@@ -8,7 +8,7 @@ ai_modified: 2026-03-20T06:48:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[consciousness-and-skilled-performance]]"
+  - "[[consciousness-and-skill-acquisition]]"
   - "[[free-will]]"
   - "[[choking-phenomenon-mental-causation]]"
 concepts:
@@ -147,7 +147,7 @@ The claim that cognitive capacity phenomenology is irreducible would face diffic
 
 - [[phenomenology-of-intellectual-effort]] — The effort of reasoning itself, complementing the capacity constraints explored here
 - [[skill-delegation]] — The three-phase delegation pattern underlying the withdrawal phenomenology described here
-- [[consciousness-and-skilled-performance]] — How consciousness participates in skilled action, including the opposite experiential pole of effortless flow
+- [[consciousness-and-skill-acquisition]] — How consciousness participates in skilled action, including the opposite experiential pole of effortless flow
 - [[choking-phenomenon-mental-causation]] — When conscious re-entry disrupts automated performance
 - [[phenomenology-of-returning-attention]] — What it is like to redirect cognitive resources after distraction
 - [[working-memory]] — The cognitive architecture that capacity phenomenology reveals from inside

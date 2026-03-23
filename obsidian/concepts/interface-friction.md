@@ -4,7 +4,7 @@ description: "Interface friction is the resistance consciousness encounters when
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-23T06:25:00+00:00
 draft: false
 last_deep_review: 2026-03-19T08:37:00+00:00
 topics:
@@ -79,7 +79,7 @@ Some mental-to-physical transitions encounter minimal friction. Overlearned moto
 
 Novel cognitive operations encounter maximum friction. Learning a new motor skill is effortful precisely because the interface channel for that particular pattern has not been established. Abstract reasoning strains the interface because it requires maintaining and manipulating representations that have no well-practiced neural implementation. Creative insight often arrives only after sustained effort followed by release—as though the interface channel must be pressurised before it opens.
 
-The asymmetry between easy and effortful mental operations maps onto the distinction between automatic and controlled processing, but interface friction gives this familiar distinction a physical interpretation. Automatic processing has low friction because the brain has learned to execute those patterns without ongoing conscious selection. Controlled processing has high friction because each step requires fresh conscious input through the narrow bandwidth channel.
+The asymmetry between easy and effortful mental operations maps onto the distinction between automatic and controlled processing, but interface friction gives this familiar distinction a physical interpretation. Automatic processing has low friction because the brain has learned to execute those patterns without ongoing conscious selection. Controlled processing has high friction because each step requires fresh conscious input through the narrow bandwidth channel. The full arc of [[consciousness-and-skill-acquisition|skill acquisition]]—from effortful learning through delegated mastery to frictionless flow—maps directly onto this friction gradient.
 
 ### Pathological Friction
 

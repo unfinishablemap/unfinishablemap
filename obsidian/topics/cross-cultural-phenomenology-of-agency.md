@@ -28,7 +28,7 @@ related_articles:
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
   - "[[introspective-opacity|volitional opacity]]"
   - "[[buddhist-perspectives-on-meaning]]"
-  - "[[consciousness-and-skilled-performance]]"
+  - "[[consciousness-and-skill-acquisition]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[buddhism-and-dualism]]"
   - "[[process-philosophy]]"
@@ -59,7 +59,7 @@ Despite cultural shaping, certain features of agency experience appear to persis
 
 Three candidates for cross-cultural invariants stand out, and the functional/phenomenal distinction cuts through each of them.
 
-**First, the contrast between doing and undergoing.** A hand rising because I raise it differs from a hand rising because someone lifts it — regardless of cultural framework. The functional aspect of this contrast is well understood: efference-copy signals and comparator mechanisms allow the motor system to distinguish self-generated from externally caused movement, and shared neurology explains why this distinction appears universally. But the phenomenal aspect — *why there is something it is like* to act, why doing *feels* different from undergoing rather than merely being processed differently — is not explained by the comparator model. Every tradition acknowledges this felt quality, whether framed as effortful willing, [[consciousness-and-skilled-performance|effortless flow]], or witnessing. The [[phenomenology-of-volition]] analyses the phenomenal structure into four components — initiation, sustained control, effort, and veto — each with distinct qualitative signatures. Even traditions that deny a permanent agent preserve the phenomenological distinction: the Buddhist practitioner who denies a self still reports that acting differs *in what it is like* from being acted upon.
+**First, the contrast between doing and undergoing.** A hand rising because I raise it differs from a hand rising because someone lifts it — regardless of cultural framework. The functional aspect of this contrast is well understood: efference-copy signals and comparator mechanisms allow the motor system to distinguish self-generated from externally caused movement, and shared neurology explains why this distinction appears universally. But the phenomenal aspect — *why there is something it is like* to act, why doing *feels* different from undergoing rather than merely being processed differently — is not explained by the comparator model. Every tradition acknowledges this felt quality, whether framed as effortful willing, [[consciousness-and-skill-acquisition|effortless flow]], or witnessing. The [[phenomenology-of-volition]] analyses the phenomenal structure into four components — initiation, sustained control, effort, and veto — each with distinct qualitative signatures. Even traditions that deny a permanent agent preserve the phenomenological distinction: the Buddhist practitioner who denies a self still reports that acting differs *in what it is like* from being acted upon.
 
 **Second, the opacity of the causal mechanism.** No culture reports direct introspective access to *how* willing produces action. The [[introspective-opacity|volitional opacity]] that the Map identifies as a genuine void — a boundary of the knowable — appears in other traditions too: the Daoist cannot explain how *wu wei* works, the Buddhist cannot point to the mechanism by which intentions produce effects across the causal chain. The gap between willing and doing is cross-culturally invisible. Here the functional and phenomenal aspects are harder to separate — introspective limits might reflect architectural constraints on self-monitoring (a functional matter) or might indicate something about the nature of the consciousness-to-physical interface. The Map treats this opacity as at least partially phenomenal, but acknowledges the functional reading.
 
@@ -110,7 +110,7 @@ The Map's commitment to Occam's Razor having limits is also relevant. The "simpl
 - [[social-construction-of-self-vs-phenomenal-self]]
 - [[buddhism-and-dualism]]
 - [[process-philosophy]]
-- [[consciousness-and-skilled-performance|phenomenology of flow states]]
+- [[consciousness-and-skill-acquisition|phenomenology of flow states]]
 - [[phenomenology-of-volition]] — The four-component structure of willing that underlies agency across cultures
 - [[contemplative-practice-as-philosophical-evidence]]
 - [[cross-traditional-convergence-on-consciousness-irreducibility]]

@@ -25,7 +25,7 @@ related_articles:
   - "[[attention-and-the-consciousness-interface]]"
   - "[[dualist-perception]]"
   - "[[temporal-structure-of-consciousness]]"
-  - "[[consciousness-and-skilled-performance]]"
+  - "[[consciousness-and-skill-acquisition]]"
   - "[[consciousness-and-the-neuroscience-of-deliberate-practice]]"
   - "[[sensorimotor-contingencies-and-the-interface]]"
   - "[[phenomenology-of-conceptual-change]]"
@@ -150,7 +150,7 @@ And both face the same explanatory gap. Predictive processing frameworks describ
 - [[attention-and-the-consciousness-interface]] — How attention mediates consciousness and neural processing
 - [[the-binding-problem-a-systematic-treatment]] — The broader problem of phenomenal unity
 - [[temporal-structure-of-consciousness]] — Temporal integration in experience
-- [[consciousness-and-skilled-performance]] — Motor dimension of skill acquisition
+- [[consciousness-and-skill-acquisition]] — Motor dimension of skill acquisition
 - [[consciousness-and-the-neuroscience-of-deliberate-practice]] — Neural evidence for conscious engagement in plasticity
 - [[sensorimotor-contingencies-and-the-interface]] — Perception as mastery of sensorimotor laws
 - [[phenomenology-of-conceptual-change]] — The cognitive parallel: how frameworks transform

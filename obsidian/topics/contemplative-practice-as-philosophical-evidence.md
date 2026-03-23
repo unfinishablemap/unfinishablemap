@@ -38,7 +38,7 @@ related_articles:
   - "[[introspection-rehabilitation]]"
   - "[[epistemology-of-first-person-evidence]]"
   - "[[phenomenology-of-returning-attention]]"
-  - "[[consciousness-and-skilled-performance]]"
+  - "[[consciousness-and-skill-acquisition]]"
   - "[[contemplative-pathology-and-interface-malfunction]]"
   - "[[topics/free-will]]"
   - "[[testing-the-map-from-inside]]"
@@ -235,7 +235,7 @@ The distinction between willed and exogenous attention in [[contemplative-neuros
 - [[galilean-exclusion]] — The methodological exclusion that made the explanatory gap structurally inevitable
 - [[contemplative-pathology-and-interface-malfunction]] — When contemplative practice destabilises the interface
 - [[phenomenology-of-returning-attention]] — The micro-phenomenology of attentional recovery during practice
-- [[consciousness-and-skilled-performance]] — The developmental arc from effortful practice to effortless mastery
+- [[consciousness-and-skill-acquisition]] — The developmental arc from effortful practice to effortless mastery
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Meditation as voluntary interface modulation within a systematic comparison of five altered states
 - [[contemplative-practice-as-philosophical-evidence]] — How practice progressively expands access to phenomenal structure
 - [[contemplative-verification-of-consciousness-theories]] — Can meditation verify philosophical claims?

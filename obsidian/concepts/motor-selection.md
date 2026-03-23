@@ -4,7 +4,7 @@ description: "Motor control and attention share neural substrates. Dopamine mark
 created: 2026-01-18
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-03-22T21:49:00+00:00
+ai_modified: 2026-03-23T06:25:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -181,7 +181,7 @@ The [[decoherence]] addresses the standard challenge—rapid decoherence in warm
 
 The [[phenomenology-of-choice|phenomenology of choice]] applies directly to motor selection. Willed movement has distinctive experiential character: felt effort that varies with difficulty, a strong sense of authorship, and the counterfactual sense that "I could have done otherwise." This phenomenological distinction tracks the neural distinction between willed and instructed action—real differences in brain function, not post-hoc narrative.
 
-The sense of agency depends on efference copy—the brain's prediction of sensory consequences of motor commands. Match between prediction and feedback produces sense of agency; mismatch produces passivity experiences (as in alien hand syndrome). From the Map's perspective, efference copy may be how consciousness "reads" whether selection succeeded. The progression from strong authorship (novice) to weak authorship (expert) reflects [[skill-delegation]]—consciousness trains the motor system, then withdraws from active control while retaining override capacity.
+The sense of agency depends on efference copy—the brain's prediction of sensory consequences of motor commands. Match between prediction and feedback produces sense of agency; mismatch produces passivity experiences (as in alien hand syndrome). From the Map's perspective, efference copy may be how consciousness "reads" whether selection succeeded. The progression from strong authorship (novice) to weak authorship (expert) reflects [[skill-delegation]]—consciousness trains the motor system, then withdraws from active control while retaining override capacity. The full [[consciousness-and-skill-acquisition|skill acquisition arc]] charts this transition in detail across deliberate practice, flow, and skill restructuring.
 
 Stapp describes consciousness holding a "template for action" stable through the quantum Zeno effect. When preparing to move, you maintain an intention until the appropriate moment for execution. This holding requires effort—maintaining motor preparation against competing alternatives has phenomenal cost that correlates with difficulty, suggesting the phenomenology tracks something real about conscious contribution.
 

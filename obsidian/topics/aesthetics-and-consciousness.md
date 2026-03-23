@@ -58,7 +58,7 @@ related_articles:
   - "[[consciousness-and-creative-distinctiveness]]"
   - "[[consciousness-and-mathematical-cognition]]"
   - "[[creativity-void]]"
-  - "[[consciousness-and-skilled-performance]]"
+  - "[[consciousness-and-skill-acquisition]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[mathematical-knowledge-and-insight]]"
   - "[[phenomenology-of-creative-insight]]"

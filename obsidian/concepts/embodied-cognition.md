@@ -32,7 +32,7 @@ related_articles:
   - "[[embodied-consciousness-and-the-interface]]"
   - "[[phenomenological-psychiatry-and-altered-experience]]"
   - "[[choking-phenomenon-mental-causation]]"
-  - "[[consciousness-and-skilled-performance]]"
+  - "[[consciousness-and-skill-acquisition]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -199,7 +199,7 @@ The key point: embodied cognition challenges a specific historical position (Car
 - [[ai-consciousness]] — Why the grounding problem matters for machine minds
 - [[neurophenomenology]] — Varela's integration of embodied cognition with consciousness science
 - [[choking-phenomenon-mental-causation]] — The choking evidence as a case study in mental causation
-- [[consciousness-and-skilled-performance|phenomenology of flow states]] — Flow as transformed consciousness, not diminished consciousness
+- [[consciousness-and-skill-acquisition|phenomenology of flow states]] — Flow as transformed consciousness, not diminished consciousness
 - [[symbol-grounding-problem]] — Why disembodied symbol manipulation lacks semantic grounding
 - [[consciousness-and-the-phenomenology-of-place]] — Embodied spatial engagement and the atmosphere of places
 - [[phenomenology-of-embodiment-under-dualism]] — What embodiment feels like from the first person: ownership, agency, absence, and pain

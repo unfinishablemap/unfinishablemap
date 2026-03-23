@@ -25,7 +25,7 @@ related_articles:
   - "[[limits-reveal-structure]]"
   - "[[consciousness-only-territories]]"
   - "[[tenets]]"
-  - "[[consciousness-and-skilled-performance]]"
+  - "[[consciousness-and-skill-acquisition]]"
   - "[[hard-problem-of-consciousness]]"
   - "[[altered-states-of-consciousness]]"
   - "[[recognition-void]]"
@@ -58,7 +58,7 @@ The void operates at every level of experience:
 
 **Semantic habituation.** Repeat a word enough times and it loses meaning—a phenomenon called "semantic satiation." The word "door" becomes mere sound as the neural pathway linking phonemes to concept exhausts itself through repetition. Leon Jakobovits James, who coined the term in 1962, attributed this to "a kind of fatigue. When a brain cell fires, it takes more energy to fire the second time."
 
-**Existential habituation.** Shklovsky warned that habitualization "devours works, clothes, furniture, one's wife, and the fear of war"—life reckoned as nothing, its phenomenal texture consumed by routine. The familiar not only drops from awareness but takes the experiential richness of daily existence with it. Heidegger's phenomenology describes how practical activities become transparent to consciousness: the skilled hammer user experiences the nail, not the hammer. Mastery creates phenomenological invisibility—what Heidegger calls the "withdrawal" of equipment into the background of use. (See [[consciousness-and-skilled-performance|consciousness and skilled performance]] for how this transparency operates in expert action.)
+**Existential habituation.** Shklovsky warned that habitualization "devours works, clothes, furniture, one's wife, and the fear of war"—life reckoned as nothing, its phenomenal texture consumed by routine. The familiar not only drops from awareness but takes the experiential richness of daily existence with it. Heidegger's phenomenology describes how practical activities become transparent to consciousness: the skilled hammer user experiences the nail, not the hammer. Mastery creates phenomenological invisibility—what Heidegger calls the "withdrawal" of equipment into the background of use. (See [[consciousness-and-skill-acquisition|consciousness and skilled performance]] for how this transparency operates in expert action.)
 
 ## Why the Void is Structural
 

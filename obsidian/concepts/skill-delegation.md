@@ -24,7 +24,7 @@ related_articles:
   - "[[tenets]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[choking-phenomenon-mental-causation]]"
-  - "[[consciousness-and-skilled-performance]]"
+  - "[[consciousness-and-skill-acquisition]]"
   - "[[phenomenology-of-consciousness-doing-work]]"
 ai_contribution: 100
 author:
@@ -142,7 +142,7 @@ These patterns are consistent with delegation as the mechanism underlying automa
 - [[agent-causation]] — Why skill delegation presupposes a genuine agent as delegator
 - [[causal-delegation]] — The metaphysical parallel: physical states delegating to consciousness
 - [[choking-phenomenon-mental-causation]] — Extended analysis of choking as evidence for mental causation
-- [[consciousness-and-skilled-performance]] — How consciousness shapes skill acquisition, flow, and performance restructuring
+- [[consciousness-and-skill-acquisition]] — How consciousness shapes skill acquisition, flow, and performance restructuring
 - [[phenomenology-of-agency-vs-passivity]] — The spectrum from doing to undergoing
 - [[attention-as-interface]] — The mechanism through which conscious engagement varies
 - [[mental-effort]] — Why effortful engagement during learning tracks genuine conscious contribution

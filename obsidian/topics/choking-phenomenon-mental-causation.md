@@ -4,7 +4,7 @@ description: "When skilled performers attend to automatized actions, performance
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-03-21T02:58:00+00:00
+ai_modified: 2026-03-23T06:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -141,6 +141,7 @@ For the Map's broader case, choking provides the clearest evidence type: negativ
 - [[concepts/epiphenomenalism]] — The view choking evidence refutes
 - [[illusionism]] — The eliminativist challenge and why choking resists it
 - [[skill-delegation]] — The three-phase delegation pattern that choking disrupts
+- [[consciousness-and-skill-acquisition]] — The full arc from deliberate practice through flow to skill restructuring
 - [[mental-effort]] — The phenomenology of effortful attention
 - [[phenomenology-of-deliberation-under-uncertainty]] — Choking as deliberative vertigo under performance pressure
 - [[witness-consciousness]] — Contemplative parallels to anoetic awareness

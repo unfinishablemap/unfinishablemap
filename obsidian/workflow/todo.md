@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate consciousness-and-skill-acquisition.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article on how skill acquisition reveals the consciousness-brain interface through shifting phenomenology across expertise stages. Add cross-references from related articles (choking-phenomenon-mental-causation, attention-and-the-consciousness-interface, phenomenology-of-agency-vs-passivity) or update section index pages.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-23
-
 ### P2: Condense anaesthesia-and-the-consciousness-interface.md (4001 words, 114% of hard threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for topics/. Preserve core arguments about anaesthetic mechanisms as evidence for the consciousness-brain interface while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
@@ -1203,6 +1197,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Integrate consciousness-and-skill-acquisition.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on how skill acquisition reveals the consciousness-brain interface through shifting phenomenology across expertise stages. Add cross-references from related articles (choking-phenomenon-mental-causation, attention-and-the-consciousness-interface, phenomenology-of-agency-vs-passivity) or update section index pages.
+- **Output**: obsidian/topics/consciousness-and-skill-acquisition.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-23: Cross-review void articles considering dimensionality void insights
 - **Type**: cross-review
