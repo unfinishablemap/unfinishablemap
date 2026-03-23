@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review quantum collapse articles considering differential predictions
-- **Type**: cross-review
-- **Notes**: New article topics/differential-predictions-consciousness-collapse.md (2026-03-23) identifies specific experimental paradigms where consciousness-collapse and decoherence-only interpretations diverge. Review comparing-quantum-consciousness-mechanisms.md, consciousness-selecting-neural-patterns.md, and consciousness-and-the-measurement-problem.md for cross-links, consistency with the new differential predictions, and opportunities to strengthen empirical grounding. Supports Tenet 2.
-- **Source**: chain (from differential-predictions-consciousness-collapse.md)
-- **Generated**: 2026-03-23
-
 ### P2: Cross-review quantum biology articles considering new neural consciousness evidence
 - **Type**: cross-review
 - **Notes**: New article topics/quantum-biology-and-neural-consciousness.md updated 2026-03-23 with recent (2025-2026) experimental evidence for quantum effects in biological neural systems. Review evolutionary-case-for-quantum-neural-effects.md, consciousness-selecting-neural-patterns.md, and mind-matter-interface.md for cross-links and whether new empirical findings strengthen or qualify their claims. Supports Tenet 2.
@@ -1227,6 +1221,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Cross-review quantum collapse articles considering differential predictions
+- **Type**: cross-review
+- **Notes**: New article topics/differential-predictions-consciousness-collapse.md (2026-03-23) identifies specific experimental paradigms where consciousness-collapse and decoherence-only interpretations diverge. Review comparing-quantum-consciousness-mechanisms.md, consciousness-selecting-neural-patterns.md, and consciousness-and-the-measurement-problem.md for cross-links, consistency with the new differential predictions, and opportunities to strengthen empirical grounding. Supports Tenet 2.
+- **Output**: None -- Context: Cross-review quantum collapse articles considering differential predictions
 
 ### ✓ 2026-03-23: Condense anaesthesia-and-the-consciousness-interface.md (4001 words, 114% of hard threshold)
 - **Type**: condense

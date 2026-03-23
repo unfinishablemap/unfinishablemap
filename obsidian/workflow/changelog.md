@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 07:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/arguments-against-materialism]]
+- **Word count**: 2435 → 2538 (+103)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (cross-link to differential predictions, empirical testability paragraph, AI refinement log removal, Further Reading expansion)
+- **Enhancements made**: 2 (quantum collapse cross-links, mechanism/philosophy separation)
+- **Output**: [[reviews/deep-review-2026-03-23-arguments-against-materialism]]
+
 ## 2026-03-23 07:32 UTC - coalesce
 - **Status**: Abandoned (no candidates)
 - **Sections checked**: voids (100/100), topics (228/230)
