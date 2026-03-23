@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-23 18:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[phenomenology]]'
 - '[[introspection]]'
 - '[[mysterianism]]'
-- '[[self-and-consciousness]]'
+- '[[self-and-self-consciousness]]'
 created: 2026-02-24
 date: &id001 2026-02-24
 description: Human+AI inquiry into why we cannot introspect how experiences become
@@ -28,7 +28,6 @@ related_articles:
 - '[[transparency-void]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[consciousness-and-the-ownership-problem]]'
-- '[[self-consciousness]]'
 title: The Ownership Void
 topics:
 - '[[philosophy-of-mind]]'
@@ -109,9 +108,8 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies. Predictive
 - [transparency-void](/voids/transparency-void/) — When cognitive mechanisms become invisible through transparency
 - [other-minds-void](/voids/other-minds-void/) — The impossibility of accessing another subject's ownership
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
-- [self-and-consciousness](/concepts/self-and-self-consciousness/) — Minimal self and pre-reflective awareness
+- [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — Minimal self, pre-reflective awareness, and the circularity of self-knowledge
 - [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — Why experience belongs to anyone, and what happens when it stops
-- [self-consciousness](/concepts/self-and-self-consciousness/) — Pre-reflective for-me-ness and the circularity of self-awareness
 - [mysterianism](/concepts/mysterianism/) — McGinn on structural cognitive limits
 
 ## References

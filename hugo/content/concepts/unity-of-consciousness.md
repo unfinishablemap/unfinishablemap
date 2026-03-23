@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-23 18:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -17,7 +17,7 @@ concepts:
 - '[[split-brain-consciousness]]'
 - '[[illusionism]]'
 - '[[interactionist-dualism]]'
-- '[[self-and-consciousness]]'
+- '[[self-and-self-consciousness]]'
 - '[[temporal-consciousness]]'
 - '[[personal-identity]]'
 - '[[global-workspace-theory]]'
@@ -153,7 +153,7 @@ The unity of consciousness connects directly to The Unfinishable Map's [foundati
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Natural experiments on unity dissociation
 - [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/) — Cross-modal binding as the hardest synchronic case: temporal recalibration, inverse effectiveness, and the unity of place
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Diachronic structure and the specious present
-- [self-and-consciousness](/concepts/self-and-self-consciousness/) — Subject unity and the minimal self
+- [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — Subject unity and the minimal self
 - [emergence-void](/voids/emergence-void/) — The general cognitive limit at level transitions
 - [consciousness](/concepts/consciousness/) — The Map's foundational concept page
 - [personal-identity](/topics/personal-identity/) — How subjects persist across time

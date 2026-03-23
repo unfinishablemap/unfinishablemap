@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-03-22 14:02:00+00:00
+ai_modified: 2026-03-23 18:44:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[qualia]]'
 - '[[death-and-consciousness]]'
 - '[[split-brain-consciousness]]'
-- '[[self-and-consciousness]]'
+- '[[self-and-self-consciousness]]'
 - '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[concepts/many-worlds]]'
 - '[[parfit-reductionism]]'
@@ -212,7 +212,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 - [parfit-reductionism](/concepts/parfit-reductionism/) — The Map's detailed critique of Parfit's view
 - [many-worlds](/concepts/many-worlds/) — Why the Map rejects many-worlds (the indexical problem is central)
 - [haecceity](/concepts/haecceity/) — Primitive thisness, Whitehead's process philosophy, and why qualitative identity isn't enough
-- [self-and-consciousness](/concepts/self-and-self-consciousness/) — The minimal self and phenomenology of selfhood
+- [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The minimal self and phenomenology of selfhood
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and the temporal self
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Empirical evidence on consciousness unity and division
 - [death-and-consciousness](/topics/death-and-consciousness/) — What survival after death would require

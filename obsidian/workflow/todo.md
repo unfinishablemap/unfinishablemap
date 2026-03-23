@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write concept page on perceptual degradation and the interface
+- **Type**: expand-topic
+- **Notes**: Research completed in research/perceptual-degradation-interface-blur-2026-03-09.md. What blur, scotoma, and degraded percepts reveal about the consciousness-physics interface — how perceptual breakdown maps to interface architecture. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-23
+
+### P2: Write article on lucid dreaming as mind-side rendering evidence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/lucid-dreaming-mind-side-rendering-2026-03-09.md. Lucid dreaming as evidence that consciousness can generate full perceptual scenes without physical input — supports bidirectional interaction (Tenet 3). Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-23
+
+### P2: Cross-review phenomenology-of-recursive-thought.md considering self-reference-paradox insights
+- **Type**: cross-review
+- **Notes**: New article concepts/self-reference-paradox.md explores how self-reference creates paradoxes for consciousness theories. Check phenomenology-of-recursive-thought.md for cross-links, reinforcing arguments about recursive awareness, or terminology alignment.
+- **Source**: chain (from concepts/self-reference-paradox.md)
+- **Generated**: 2026-03-23
+
+### P2: Cross-review introspection.md considering self-reference-paradox insights
+- **Type**: cross-review
+- **Notes**: New article concepts/self-reference-paradox.md directly bears on introspective self-reference. Check concepts/introspection.md for opportunities to link to the paradox, strengthen the introspection reliability argument, or note where self-reference creates limits on introspective access.
+- **Source**: chain (from concepts/self-reference-paradox.md)
+- **Generated**: 2026-03-23
+
+### P2: Integrate phenomenology-of-moral-deliberation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Add cross-references from related articles (free-will, phenomenology-of-agency-vs-passivity, ethics-of-consciousness) or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-23
+
+### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Add cross-references from related articles (dreams-as-consciousness-laboratory, sleep-consciousness-void, bidirectional interaction topics) or update section index pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-23
+
+### P2: Condense self-and-self-consciousness.md (3568 words, 143% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Recently created via coalesce merging self-and-consciousness + self-consciousness. Preserve core arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-23
+
 ### P3: Deep review dimensionality-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-23 via expand-topic from research/voids-dimensionality-void-2026-03-23.md, never reviewed. Has only 2 inbound links (minimal integration). Voids article on the limits of conscious spatial representation. Verify coherence, accuracy of claims about dimensional representation, cross-references to related void articles (mathematical-void, mind-space-void), and tenet alignment.

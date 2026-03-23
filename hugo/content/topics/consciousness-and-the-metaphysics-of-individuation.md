@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-23 18:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[combination-problem]]'
 - '[[unity-of-consciousness]]'
 - '[[split-brain-consciousness]]'
-- '[[self-and-consciousness]]'
+- '[[self-and-self-consciousness]]'
 - '[[panpsychism]]'
 - '[[buddhism-and-dualism]]'
 - '[[process-philosophy]]'
@@ -140,7 +140,7 @@ The individuation question connects to all five of the Map's [tenets](/tenets/),
 - [other-minds-void](/voids/other-minds-void/) — The epistemic asymmetry in consciousness access
 - [identity-across-transformations](/apex/identity-across-transformations/) — Apex synthesis: identity through radical change
 - [binding-problem](/concepts/binding-problem/) — The related problem of what binds experiences into a unified field
-- [self-and-consciousness](/concepts/self-and-self-consciousness/) — The minimal self and phenomenology of subjecthood
+- [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The minimal self and phenomenology of subjecthood
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist perspectives on self-boundaries and *anattā*
 - [indexical-void](/voids/indexical-void/) — The void-form of the individuation question: why am I *this* consciousness?
 - [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — What makes experience belong to a subject

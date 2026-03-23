@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-03-12 04:10:00+00:00
+ai_modified: 2026-03-23 18:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -10,7 +10,7 @@ coalesced_from:
 - /concepts/self-locating-beliefs/
 concepts:
 - '[[haecceity]]'
-- '[[self-and-consciousness]]'
+- '[[self-and-self-consciousness]]'
 - '[[qualia]]'
 - '[[phenomenal-consciousness]]'
 - '[[knowledge-argument]]'

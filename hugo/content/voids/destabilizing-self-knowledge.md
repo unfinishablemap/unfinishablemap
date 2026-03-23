@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-03-21 01:42:00+00:00
+ai_modified: 2026-03-23 18:44:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[simulation]]'
 - '[[mysterianism]]'
 - '[[phenomenology]]'
-- '[[self-and-consciousness]]'
+- '[[self-and-self-consciousness]]'
 - '[[metacognition]]'
 created: 2026-01-27
 date: &id001 2026-02-01

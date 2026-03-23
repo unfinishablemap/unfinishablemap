@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-02-25 06:12:00+00:00
+ai_modified: 2026-03-23 18:44:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[haecceity]]'
-- '[[self-and-consciousness]]'
+- '[[self-and-self-consciousness]]'
 - '[[concepts/many-worlds]]'
 - '[[philosophical-zombies]]'
 - '[[qualia]]'
@@ -146,7 +146,7 @@ The vertiginous question connects to all five tenets:
 - [haecceity](/concepts/haecceity/) — The metaphysical concept of primitive thisness
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — How indexical identity applies to quantum interpretations
 - [personal-identity](/topics/personal-identity/) — What makes you the same person over time
-- [self-and-consciousness](/concepts/self-and-self-consciousness/) — The minimal self and phenomenology of selfhood
+- [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The minimal self and phenomenology of selfhood
 - [many-worlds](/concepts/many-worlds/) — Why indexical identity problems challenge many-worlds
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Why qualitative identity doesn't guarantee conscious identity
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The broader context for consciousness problems

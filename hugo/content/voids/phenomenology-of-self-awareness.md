@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-03-18 23:59:00+00:00
+ai_modified: 2026-03-23 18:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -13,7 +13,7 @@ concepts:
 - '[[metacognition]]'
 - '[[introspection]]'
 - '[[epistemic-emotions]]'
-- '[[self-and-consciousness]]'
+- '[[self-and-self-consciousness]]'
 - '[[mysterianism]]'
 created: 2026-01-21
 date: &id001 2026-03-18

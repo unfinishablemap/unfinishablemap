@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-23 18:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -15,7 +15,7 @@ concepts:
 - '[[neurophenomenology]]'
 - '[[dream-consciousness]]'
 - '[[witness-consciousness]]'
-- '[[self-and-consciousness]]'
+- '[[self-and-self-consciousness]]'
 - '[[meditation-and-consciousness-modes]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[illusionism]]'
@@ -205,7 +205,7 @@ Eastern philosophy illuminates all five of the Map's [tenets](/tenets/), while r
 - [samkhya-three-way-distinction](/concepts/samkhya-three-way-distinction/) — Samkhya's radical separation of consciousness, mind, and matter
 - [mental-causation](/concepts/mental-causation/) — The philosophical case for consciousness as causally efficacious
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's framework and Buddhist parallels
-- [self-and-consciousness](/concepts/self-and-self-consciousness/) — Minimal self vs. narrative self
+- [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — Minimal self vs. narrative self
 - [personal-identity](/topics/personal-identity/) — What makes you the same person over time
 - [meaning-of-life](/topics/meaning-of-life/) — Western approaches to significance
 - [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/) — Compare Buddhist and Western responses to meaninglessness

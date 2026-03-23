@@ -1,11 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-12
-ai_modified: 2026-03-22 09:56:00+00:00
+ai_modified: 2026-03-23 18:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[self-and-consciousness]]'
+- '[[self-and-self-consciousness]]'
 - '[[intersubjectivity]]'
 - '[[topics/consciousness-and-social-cognition]]'
 - '[[theory-of-mind]]'
@@ -118,7 +118,7 @@ This analysis connects to the Map's foundational commitments at multiple points.
 ## Further Reading
 
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — Three layers of selfhood and why the substantial self grounds the others
-- [self-and-consciousness](/concepts/self-and-self-consciousness/) — The minimal self as structural feature of experience
+- [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The minimal self as structural feature of experience
 - [intersubjectivity](/concepts/intersubjectivity/) — How phenomenal experience can be shared between minds
 - [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — The role of consciousness in enabling social self-models
 - [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/) — How narrative shapes agency across time

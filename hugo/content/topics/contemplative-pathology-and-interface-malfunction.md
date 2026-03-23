@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-22 05:11:00+00:00
+ai_modified: 2026-03-23 18:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[attention-as-interface]]'
 - '[[contemplative-neuroscience]]'
-- '[[self-and-consciousness]]'
+- '[[self-and-self-consciousness]]'
 created: 2026-02-23
 date: &id001 2026-02-23
 description: 'When meditation destabilizes the consciousness-brain interface: dark

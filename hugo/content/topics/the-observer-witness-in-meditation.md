@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-23 18:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[attention-as-interface]]'
 - '[[mental-effort]]'
 - '[[phenomenology]]'
-- '[[self-and-consciousness]]'
+- '[[self-and-self-consciousness]]'
 - '[[introspection]]'
 - '[[qualia]]'
 - '[[philosophical-zombies]]'
@@ -204,7 +204,7 @@ The witness mode is not an escape from consciousness or a dissolution into uncon
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — How meditation phenomenology supports dualism
 - [attention-as-interface](/concepts/attention-as-interface/) — The selection mechanism in detail
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effortful attention
-- [self-and-consciousness](/concepts/self-and-self-consciousness/) — How the self relates to awareness
+- [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — How the self relates to awareness
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Contemplative traditions on consciousness
 - [meditation-observer-witness-phenomenon-2026-01-18](/research/meditation-observer-witness-phenomenon-2026-01-18/) — Research notes
 

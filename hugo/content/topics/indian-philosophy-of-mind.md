@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-03-20 04:14:00+00:00
+ai_modified: 2026-03-23 18:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -30,7 +30,7 @@ related_articles:
 - '[[tenets]]'
 - '[[buddhism-and-dualism]]'
 - '[[bidirectional-interaction]]'
-- '[[self-and-consciousness]]'
+- '[[self-and-self-consciousness]]'
 - '[[mental-causation]]'
 - '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
 title: Indian Philosophy of Mind
@@ -160,7 +160,7 @@ The Map's engagement with Indian philosophy of mind connects to each tenet.
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's position, closest to Nyaya
 - [agent-causation](/concepts/agent-causation/) — The framework Nyaya independently articulates
 - [substance-property-dualism](/concepts/substance-property-dualism/) — Distinguishing forms of dualism
-- [self-and-consciousness](/concepts/self-and-self-consciousness/) — Minimal self vs. narrative self
+- [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — Minimal self vs. narrative self
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — First-person data as empirical test
 - [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/) — Cross-traditional convergence on self-dissolution, contentless awareness, and subject-object collapse
 - [tenets](/tenets/) — The Map's foundational commitments

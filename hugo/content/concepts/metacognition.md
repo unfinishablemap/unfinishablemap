@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-03-19 11:25:00+00:00
+ai_modified: 2026-03-23 18:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -14,7 +14,7 @@ concepts:
 - '[[introspection]]'
 - '[[dream-consciousness]]'
 - '[[meditation-and-consciousness-modes]]'
-- '[[self-and-consciousness]]'
+- '[[self-and-self-consciousness]]'
 - '[[illusionism]]'
 - '[[decoherence]]'
 - '[[attention-as-interface]]'

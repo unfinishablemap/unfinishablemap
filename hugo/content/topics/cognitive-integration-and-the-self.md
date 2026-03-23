@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-23 18:44:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -31,7 +31,7 @@ title: Cognitive Integration and the Self
 topics:
 - '[[personal-identity]]'
 - '[[temporal-consciousness]]'
-- '[[self-and-consciousness]]'
+- '[[self-and-self-consciousness]]'
 ---
 
 The self is not a static object but an ongoing achievement. Each moment, consciousness integrates information from multiple sensory modalities, recent memories, current perceptions, and anticipated futures into a unified experience of being someone. This integration—the "glue" that holds the self together—raises questions about what makes experience mine, why it persists across disruptions, and whether integration itself is a physical or phenomenal process.

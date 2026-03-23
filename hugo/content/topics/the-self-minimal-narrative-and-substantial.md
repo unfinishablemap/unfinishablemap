@@ -1,11 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-23 18:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[self-and-consciousness]]'
+- '[[self-and-self-consciousness]]'
 - '[[haecceity]]'
 - '[[parfit-reductionism]]'
 - '[[anoetic-noetic-autonoetic-consciousness]]'
@@ -155,7 +155,7 @@ The three-layered self connects directly to the Map's foundational commitments.
 
 ## Further Reading
 
-- [self-and-consciousness](/concepts/self-and-self-consciousness/) — The minimal self as structural feature of consciousness
+- [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The minimal self as structural feature of consciousness
 - [personal-identity](/topics/personal-identity/) — What makes you persist over time
 - [haecceity](/concepts/haecceity/) — Primitive thisness and why qualitative identity isn't enough
 - [parfit-reductionism](/concepts/parfit-reductionism/) — The Map's critique of identity-as-pattern

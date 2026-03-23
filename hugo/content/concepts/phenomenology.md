@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-20 01:07:00+00:00
+ai_modified: 2026-03-23 18:44:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,7 +15,7 @@ concepts:
 - '[[qualia]]'
 - '[[temporal-consciousness]]'
 - '[[mysterianism]]'
-- '[[self-and-consciousness]]'
+- '[[self-and-self-consciousness]]'
 - '[[introspection]]'
 - '[[neurophenomenology]]'
 - '[[meditation-and-consciousness-modes]]'
@@ -179,7 +179,7 @@ Phenomenology doesn't definitively prove dualism. But it provides methodological
 - [intersubjectivity](/concepts/intersubjectivity/) — How phenomenological findings can be shared across minds
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist contemplative traditions as phenomenology in practice
 - [neurophenomenology](/concepts/neurophenomenology/) — Integrating trained observation with neuroscience
-- [self-and-consciousness](/concepts/self-and-self-consciousness/) — The minimal self and phenomenology of selfhood
+- [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The minimal self and phenomenology of selfhood
 - [intentionality](/concepts/intentionality/) — The directedness of consciousness
 - [temporal-consciousness](/concepts/temporal-consciousness/) — How experience structures time
 - [qualia](/concepts/qualia/) — The qualitative features phenomenology discloses

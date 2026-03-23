@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-12 03:53:00+00:00
+ai_modified: 2026-03-23 18:44:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[pairing-problem]]'
-- '[[self-and-consciousness]]'
+- '[[self-and-self-consciousness]]'
 - '[[concepts/many-worlds]]'
 - '[[philosophical-zombies]]'
 - '[[illusionism]]'
@@ -235,7 +235,7 @@ The haecceity concept makes explicit what the Map presupposes. Personal identity
 - [many-worlds](/concepts/many-worlds/) — Why indexical identity problems doom many-worlds
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — How haecceity grounds which outcome *this* consciousness experiences
 - [pairing-problem](/concepts/pairing-problem/) — The haecceity response to Kim's challenge
-- [self-and-consciousness](/concepts/self-and-self-consciousness/) — The minimal self and phenomenology of thisness
+- [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The minimal self and phenomenology of thisness
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Why qualitative identity doesn't guarantee conscious identity
 - [meaning-of-life](/topics/meaning-of-life/) — Why your particular existence matters
 - [illusionism](/concepts/illusionism/) — The challenge that consciousness itself is illusory

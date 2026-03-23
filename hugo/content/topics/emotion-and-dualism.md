@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-17 03:28:00+00:00
+ai_modified: 2026-03-23 18:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -19,7 +19,7 @@ concepts:
 - '[[minimal-consciousness]]'
 - '[[agent-causation]]'
 - '[[attention-as-interface]]'
-- '[[self-and-consciousness]]'
+- '[[self-and-self-consciousness]]'
 - '[[epistemic-emotions]]'
 - '[[explanatory-gap]]'
 - '[[concepts/epiphenomenalism]]'
@@ -170,7 +170,7 @@ Both the cognitivist reduction of emotions to judgments and the somatic reductio
 - [introspective-opacity](/voids/introspective-opacity/) — The broader phenomenon of hidden cognitive processes
 - [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/) — Knowledge that dissolves the capacity to hold it
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Boundary cases testing where valenced experience begins
-- [self-and-consciousness](/concepts/self-and-self-consciousness/) — How selfhood relates to phenomenal experience
+- [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — How selfhood relates to phenomenal experience
 - [higher-order-theories](/concepts/higher-order-theories/) — Theories that consciousness requires higher-order representation
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The position that mind and body are distinct yet causally connected
 - [ai-consciousness](/topics/ai-consciousness/) — Whether artificial systems can be phenomenally conscious

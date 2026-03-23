@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-03-23 17:09:00+00:00
+ai_modified: 2026-03-23 18:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[episodic-memory]]'
-- '[[self-and-consciousness]]'
+- '[[self-and-self-consciousness]]'
 - '[[semantic-memory]]'
 - '[[haecceity]]'
 - '[[phenomenology]]'
@@ -116,7 +116,7 @@ The phenomenology of memory and self connects directly to the Map's foundational
 - [inaccessible-past](/voids/inaccessible-past/)
 - [consciousness-and-memory](/topics/consciousness-and-memory/)
 - [temporal-consciousness](/concepts/temporal-consciousness/)
-- [self-and-consciousness](/concepts/self-and-self-consciousness/)
+- [self-and-self-consciousness](/concepts/self-and-self-consciousness/)
 - [haecceity](/concepts/haecceity/)
 - [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/)
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)

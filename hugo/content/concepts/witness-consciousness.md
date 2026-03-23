@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-23 18:44:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[self-reference-paradox]]'
 - '[[buddhism-and-dualism]]'
-- '[[self-and-consciousness]]'
+- '[[self-and-self-consciousness]]'
 - '[[introspection]]'
 - '[[meditation-and-consciousness-modes]]'
 - '[[phenomenology]]'
@@ -198,7 +198,7 @@ What contemplatives discovered through sustained practice, phenomenology articul
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Minimal phenomenal experience
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) — Sleep-onset phenomenology and the witness during interface transitions
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Two modes of consciousness in meditation
-- [self-and-consciousness](/concepts/self-and-self-consciousness/) — Minimal self and narrative self
+- [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — Minimal self and narrative self
 - [attention-as-interface](/concepts/attention-as-interface/) — How consciousness selects through attention
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effortful selection
 - [Testing the Map from Inside](/apex/testing-the-map-from-inside/) — Apex synthesis: first-person experiments probing witness consciousness and choice

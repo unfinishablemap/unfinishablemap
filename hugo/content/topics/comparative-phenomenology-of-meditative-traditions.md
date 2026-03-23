@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-07
-ai_modified: 2026-03-23 17:09:00+00:00
+ai_modified: 2026-03-23 18:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -14,7 +14,7 @@ concepts:
 - '[[buddhism-and-dualism]]'
 - '[[introspection]]'
 - '[[altered-states-of-consciousness]]'
-- '[[self-and-consciousness]]'
+- '[[self-and-self-consciousness]]'
 created: 2026-03-07
 date: &id001 2026-03-07
 description: Cross-traditional meditation reports converge on structural features

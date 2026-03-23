@@ -1,11 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-23 18:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[self-and-consciousness]]'
+- '[[self-and-self-consciousness]]'
 - '[[haecceity]]'
 - '[[phenomenology]]'
 - '[[qualia]]'
@@ -130,7 +130,7 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 ## Further Reading
 
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — Three conceptions of selfhood and their relation to ownership
-- [self-and-consciousness](/concepts/self-and-self-consciousness/) — The minimal self as the form ownership takes
+- [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The minimal self as the form ownership takes
 - [haecceity](/concepts/haecceity/) — Primitive thisness and why ownership cannot be replicated
 - [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) — Why "I" and "mine" resist impersonal translation
 - [personal-identity](/topics/personal-identity/) — What persists when ownership extends through time

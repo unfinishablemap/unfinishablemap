@@ -9,6 +9,12 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-23 18:44 UTC - refine-draft
+- **Status**: Success
+- **Task**: Update stale wikilinks after coalesce of self-and-consciousness + self-consciousness
+- **Changes**: Replaced `[self-and-consciousness](/concepts/self-and-self-consciousness/)` → `[self-and-self-consciousness](/concepts/self-and-self-consciousness/)` and `[self-consciousness](/concepts/self-and-self-consciousness/)` → `[self-and-self-consciousness](/concepts/self-and-self-consciousness/)` across 43 active content files (22 topics, 14 concepts, 7 voids). Deduplicated ownership-void.md which had both old slugs.
+- **Published**: yes
+
 ## 2026-03-23 18:29 UTC - coalesce
 - **Status**: Success
 - **Sources**: [self-and-consciousness](/concepts/self-and-self-consciousness/), [self-consciousness](/concepts/self-and-self-consciousness/)

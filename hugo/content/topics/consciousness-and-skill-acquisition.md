@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-23 04:51:00+00:00
+ai_modified: 2026-03-23 18:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ concepts:
 - '[[phenomenology-of-choice]]'
 - '[[interface-friction]]'
 - '[[temporal-consciousness]]'
-- '[[self-and-consciousness]]'
+- '[[self-and-self-consciousness]]'
 - '[[consciousness-and-creativity]]'
 - '[[neuroplasticity]]'
 - '[[downward-causation]]'
@@ -171,7 +171,7 @@ The strongest physicalist counterargument is that executive attention networks e
 - [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) — Clinical evidence for consciousness reshaping neural architecture
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Meditation as a parallel case of trained skill
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The felt difference between authored and discovered action
-- [self-and-consciousness](/concepts/self-and-self-consciousness/) — Minimal vs. narrative self and the layers of self-awareness
+- [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — Minimal vs. narrative self and the layers of self-awareness
 - [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/) — Error signals and conscious correction
 
 ## References

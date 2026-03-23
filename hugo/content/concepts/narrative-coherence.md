@@ -1,11 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-23 14:34:00+00:00
+ai_modified: 2026-03-23 18:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[self-and-consciousness]]'
+- '[[self-and-self-consciousness]]'
 - '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[temporal-consciousness]]'
 - '[[parfit-reductionism]]'
@@ -61,7 +61,7 @@ Narrative coherence is a *relational* property—how psychological states are or
 
 This is why diachronic agency depends on narrative coherence rather than psychological continuity alone. Sustaining a project through difficulty—writing a book, maintaining a relationship, pursuing a career—requires not just remembering the initial commitment (continuity) but experiencing the present effort as a meaningful continuation of it (coherence). When the connection between past commitment and present effort becomes merely causal rather than narratively intelligible, perseverance becomes willpower without reason. The [phenomenology of choice](/concepts/phenomenology-of-choice/) under these conditions shifts accordingly: decisions feel arbitrary rather than authored, imposed rather than flowing from one's ongoing commitments.
 
-A no-self theorist might object that narrative coherence is itself a construction—a story the brain tells, with no substantial self behind it. Buddhist philosophy treats attachment to personal narrative as a source of suffering rather than evidence for an enduring subject. The Map's response, developed in [self-and-consciousness](/concepts/self-and-self-consciousness/), is that the constructionist account faces the same problem as Parfit's: *someone* must be doing the constructing. A narrative that organises itself without a narrator is just a pattern; narrative coherence as lived requires a subject who experiences the organising as their own activity. The phenomenological data—the difference between coherence and its absence—demands more than pattern without perspective.
+A no-self theorist might object that narrative coherence is itself a construction—a story the brain tells, with no substantial self behind it. Buddhist philosophy treats attachment to personal narrative as a source of suffering rather than evidence for an enduring subject. The Map's response, developed in [self-and-self-consciousness](/concepts/self-and-self-consciousness/), is that the constructionist account faces the same problem as Parfit's: *someone* must be doing the constructing. A narrative that organises itself without a narrator is just a pattern; narrative coherence as lived requires a subject who experiences the organising as their own activity. The phenomenological data—the difference between coherence and its absence—demands more than pattern without perspective.
 
 ## Breakdowns and What They Reveal
 

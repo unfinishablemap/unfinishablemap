@@ -1,11 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-06 16:38:00+00:00
+ai_modified: 2026-03-23 18:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[self-and-consciousness]]'
+- '[[self-and-self-consciousness]]'
 - '[[phenomenology]]'
 - '[[witness-consciousness]]'
 - '[[panpsychism]]'
@@ -166,7 +166,7 @@ The comparison also reveals what Buddhism challenges: any residual attachment to
 ## Further Reading
 
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Overview of Buddhist approaches to consciousness
-- [self-and-consciousness](/concepts/self-and-self-consciousness/) — The minimal self vs. narrative self distinction
+- [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The minimal self vs. narrative self distinction
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer in meditation traditions
 - [phenomenology](/concepts/phenomenology/) — Western methods for investigating experience; Buddhism as phenomenology in practice
 - [panpsychism](/concepts/panpsychism/) — Another non-physicalist view, with different tensions with Buddhism

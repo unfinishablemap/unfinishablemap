@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-03-18 01:29:00+00:00
+ai_modified: 2026-03-23 18:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[neural-correlates-of-consciousness]]'
 - '[[meditation-and-consciousness-modes]]'
 - '[[altered-states-of-consciousness]]'
-- '[[self-and-consciousness]]'
+- '[[self-and-self-consciousness]]'
 - '[[witness-consciousness]]'
 - '[[introspection]]'
 - '[[global-workspace-theory]]'
@@ -212,7 +212,7 @@ Current evidence does not meet these conditions, but they define the space of po
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — States involving DMN modulation
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Pharmacological evidence for filter theory via DMN suppression
 - [witness-consciousness](/concepts/witness-consciousness/) — The awareness that persists when DMN quiets
-- [self-and-consciousness](/concepts/self-and-self-consciousness/) — The relationship between self-models and phenomenal experience
+- [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The relationship between self-models and phenomenal experience
 - [global-workspace-theory](/concepts/global-workspace-theory/) — How DMN interacts with workspace access
 - [predictive-processing](/concepts/predictive-processing/) — DMN's role in maintaining predictive models
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — The broader NCC research program

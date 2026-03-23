@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-03-16 06:48:00+00:00
+ai_modified: 2026-03-23 18:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[process-philosophy]]'
 - '[[buddhism-and-dualism]]'
 - '[[parfit-reductionism]]'
-- '[[self-and-consciousness]]'
+- '[[self-and-self-consciousness]]'
 created: 2026-02-10
 date: &id001 2026-02-15
 description: 'Particularity without permanence: haecceity applies to experiential
@@ -144,7 +144,7 @@ Process haecceitism connects to the Map's [tenets](/tenets/) as a supporting con
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist compatibility with the Map's dualism
 - [parfit-reductionism](/concepts/parfit-reductionism/) — The pattern-based view that process haecceitism rejects
 - [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) — Why "I," "here," "now" resist impersonal translation—even for processes
-- [self-and-consciousness](/concepts/self-and-self-consciousness/) — The minimal self and phenomenology of thisness
+- [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The minimal self and phenomenology of thisness
 - [identity-across-transformations](/apex/identity-across-transformations/) — Apex synthesis on identity persistence
 - [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — The broader individuation question process haecceitism addresses
 
