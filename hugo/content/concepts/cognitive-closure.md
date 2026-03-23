@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-22 19:46:00+00:00
+ai_modified: 2026-03-23 00:21:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -10,6 +10,7 @@ concepts:
 - '[[concepts/materialism]]'
 - '[[causal-closure]]'
 - '[[observational-closure]]'
+- '[[inventory-blindness]]'
 - '[[architecture-of-cognitive-closure]]'
 created: 2026-03-11
 date: &id001 2026-03-11
@@ -19,7 +20,7 @@ description: Human+AI analysis of cognitive closure—the thesis that certain pr
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-13 12:19:00+00:00
+last_deep_review: 2026-03-23 00:21:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,6 +63,8 @@ McGinn's analogy: a rat cannot grasp calculus. This is not a matter of training 
 
 The analogy extends upward. If humans are to rats as some hypothetical intelligence is to humans, there exist properties we cannot conceive just as rats cannot conceive calculus. Noam Chomsky drew a parallel distinction in *Reflections on Language* (1976) between "problems" (questions within our cognitive capacity) and "mysteries" (questions beyond our cognitive reach). Both Chomsky and McGinn arrive at the same conclusion: biological organisms with specific cognitive architectures should expect some questions to fall outside what that architecture can handle.
 
+Crucially, cognitive closure is self-concealing. [Inventory blindness](/concepts/inventory-blindness/) — the condition in which absent cognitive capabilities produce no signal — ensures that a closed mind experiences its conceptual repertoire as complete rather than restricted. The rat does not feel the absence of calculus; the absence simply does not register. If humans are cognitively closed with respect to the consciousness-physics link, we should expect the closure to be invisible from the inside, which is exactly what we observe: the hard problem feels like a genuine mystery, not like a gap in an otherwise surveyable inventory.
+
 ## The Two-Access Problem
 
 McGinn's specific application to consciousness turns on how we access each side of the mind-brain relationship.
@@ -102,7 +105,7 @@ McGinn focused on consciousness, but cognitive closure is a general thesis about
 
 Critics note that humans transcend biological limits through mathematics, instruments, and computers—so why assume cognitive closure is permanent? McGinn's response: all tools ultimately produce outputs for human understanding. A brain scanner generates images; a computer generates text; a mathematical proof terminates in symbols we must interpret. If property P lies outside our conceptual reach, no tool helps us *grasp* it—tools extend data-gathering capacity, not concept-forming capacity.
 
-The counter-argument carries weight for practical barriers but not for architectural ones. Telescopes overcome the biological limitation of unaided vision because visual concepts are within our reach—we just needed more data. But if the relevant concepts are absent from human cognitive architecture, more data in any format cannot help.
+The counter-argument carries weight for practical barriers but not for architectural ones. Telescopes overcome the biological limitation of unaided vision because visual concepts are within our reach—we just needed more data. But if the relevant concepts are absent from human cognitive architecture, more data in any format cannot help. [Inventory blindness](/concepts/inventory-blindness/) sharpens the point: we cannot even specify what concepts we are missing, so we cannot direct tool-building toward the right targets. The absence is not a known gap waiting to be filled but an invisible boundary we have no means of surveying.
 
 Artificial intelligence presents an interesting test case. An AI with a different cognitive architecture might face different closures—open where we are closed, closed where we are open. This is not a solution to human closure but a confirmation that closure is architecture-specific: different minds have different conceptual reaches.
 
@@ -137,6 +140,7 @@ The [voids](/voids/) framework operationalises cognitive closure. Rather than tr
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — A candidate for McGinn's property P
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How the shape of our limits reveals cognitive architecture
+- [inventory-blindness](/concepts/inventory-blindness/) — Why cognitive closure is invisible from the inside: absent capabilities produce no signal
 - [whether-real](/voids/whether-real/) — Can we determine if cognitive limits are genuine or apparent?
 - [self-transcendence-void](/voids/self-transcendence-void/) — Why consciousness cannot bootstrap beyond its own architecture
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Methods of inquiry through negation that cognitive closure motivates

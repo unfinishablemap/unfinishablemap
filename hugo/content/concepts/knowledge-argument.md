@@ -31,7 +31,7 @@ related_articles:
 - '[[epiphenomenalism]]'
 - '[[knowledge-argument-marys-room-2026-01-14]]'
 - '[[aesthetics-and-consciousness]]'
-- '[[epistemology-of-introspection-and-calibration]]'
+- '[[epistemology-of-first-person-evidence]]'
 title: The Knowledge Argument (Mary's Room)
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -139,7 +139,7 @@ Critics of introspection argue we routinely confabulate about our mental states.
 
 Moreover, contemplative training improves introspective accuracy. Fox et al. (2012) found that meditation experience predicts the ability to detect subtle phenomenal changes—exactly the skill Mary would employ. If introspection were fundamentally unreliable, no amount of practice should help. That training improves accuracy suggests introspection is a skill that can be refined, not a systematically broken faculty.
 
-The introspection objection thus fails on two fronts: it targets the wrong domain (processes, not contents) and it ignores evidence that phenomenal observation can be trained. The [epistemology of introspection](/topics/epistemology-of-first-person-evidence/) develops this into a full account: introspection provides direct phenomenal presentation (what acquaintance captures) combined with fallible judgement (where errors enter), making it a sui generis epistemic capacity well-suited to ground Mary's recognition of novelty.
+The introspection objection thus fails on two fronts: it targets the wrong domain (processes, not contents) and it ignores evidence that phenomenal observation can be trained. The [epistemology of first-person evidence](/topics/epistemology-of-first-person-evidence/) develops this into a full account: introspection provides direct phenomenal presentation (what acquaintance captures) combined with fallible judgement (where errors enter), making it a sui generis epistemic capacity well-suited to ground Mary's recognition of novelty.
 
 ## The Reliability of Consciousness Intuitions
 

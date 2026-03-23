@@ -37,7 +37,7 @@ related_articles:
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[phenomenology-of-epistemic-cognition]]'
 - '[[epistemological-limits-occams-razor]]'
-- '[[epistemology-of-introspection-and-calibration]]'
+- '[[epistemology-of-first-person-evidence]]'
 title: Phenomenological Evidence
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -142,7 +142,7 @@ The phenomenological response distinguishes two targets of introspection:
 - **Cognitive processes**: How we arrive at decisions, what causes our behaviour
 - **Phenomenal content**: What we are currently experiencing (see also [cognitive-phenomenology](/concepts/cognitive-phenomenology/) for the distinctive qualitative character of thought itself)
 
-Nisbett and Wilson's research targeted access to cognitive *processes*, not phenomenal *content*. The epoché asks "what is being experienced?" not "why?" The reliability critique clarifies rather than defeats phenomenological method: untrained observation of cognitive processes is unreliable, but trained observation of phenomenal content produces convergent evidence. The [epistemology of introspection](/topics/epistemology-of-first-person-evidence/) examines the competing models — acquaintance, inner sense, transparency, and inferentialism — and argues that introspection is best understood as a sui generis epistemic capacity with domain-variable reliability: strongest for attended phenomenal content, weaker for background states, and absent for causal processes.
+Nisbett and Wilson's research targeted access to cognitive *processes*, not phenomenal *content*. The epoché asks "what is being experienced?" not "why?" The reliability critique clarifies rather than defeats phenomenological method: untrained observation of cognitive processes is unreliable, but trained observation of phenomenal content produces convergent evidence. The [epistemology of first-person evidence](/topics/epistemology-of-first-person-evidence/) examines the competing models — acquaintance, inner sense, transparency, and inferentialism — and argues that introspection is best understood as a sui generis epistemic capacity with domain-variable reliability: strongest for attended phenomenal content, weaker for background states, and absent for causal processes.
 
 What would count as evidence *against* phenomenological reliability? If trained observers, using systematic methods, produced persistently divergent reports about the same experiential conditions; if phenomenological predictions failed to correlate with any neural or behavioural measures; if contemplative traditions with rigorous training programmes yielded fundamentally incompatible accounts of basic phenomenal structures. Current evidence favours reliability: convergence increases with training, predictions succeed, and diverse traditions report similar structures in deep meditative states. But this assessment depends partly on how we interpret the convergence itself—a question the circularity objection (addressed in the preceding section) presses directly.
 
@@ -177,7 +177,7 @@ Phenomenological evidence provides the data that any adequate theory of consciou
 - [phenomenology](/concepts/phenomenology/) — The philosophical method for generating phenomenological evidence
 - [neurophenomenology](/concepts/neurophenomenology/) — Integration of phenomenological evidence with neuroscience
 - [introspection](/concepts/introspection/) — The reliability debate and trained first-person methods
-- [epistemology-of-introspection-and-calibration](/topics/epistemology-of-first-person-evidence/) — The epistemological models and the case for sui generis introspective knowledge
+- [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/) — The epistemological models and the case for sui generis introspective knowledge
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct, non-inferential relation grounding first-person evidence
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Systematic contemplative practice as a knowledge source about consciousness
 - [heterophenomenology](/concepts/heterophenomenology/) — The third-person alternative approach

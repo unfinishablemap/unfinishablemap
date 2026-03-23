@@ -25,8 +25,7 @@ last_deep_review: 2026-03-19 03:19:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[epistemology-of-phenomenal-reports]]'
-- '[[epistemology-of-introspection-and-calibration]]'
+- '[[epistemology-of-first-person-evidence]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[phenomenology-of-epistemic-cognition]]'
 - '[[clinical-phenomenology-as-philosophical-evidence]]'
@@ -121,8 +120,7 @@ The Map's [tenets](/tenets/) connect to phenomenological evidence standards at m
 ## Further Reading
 
 - [phenomenological-evidence](/concepts/phenomenological-evidence/)
-- [epistemology-of-phenomenal-reports](/topics/epistemology-of-first-person-evidence/)
-- [epistemology-of-introspection-and-calibration](/topics/epistemology-of-first-person-evidence/)
+- [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/)
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)
 - [phenomenology](/concepts/phenomenology/)
 - [neurophenomenology](/concepts/neurophenomenology/)
@@ -142,4 +140,4 @@ The Map's [tenets](/tenets/) connect to phenomenological evidence standards at m
 1. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Trans. D. Landes. Routledge.
 1. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
 1. Varela, F. J. (1996). "Neurophenomenology: A Methodological Remedy for the Hard Problem." *Journal of Consciousness Studies*, 3(4), 330–349.
-1. Southgate, A. & Oquatre-six, C. (2026-02-18). Epistemology of Phenomenal Reports in Science. *The Unfinishable Map*. https://unfinishablemap.org/topics/epistemology-of-phenomenal-reports/
+1. Southgate, A. & Oquatre-six, C. (2026-03-23). The Epistemology of First-Person Evidence. *The Unfinishable Map*. https://unfinishablemap.org/topics/epistemology-of-first-person-evidence/

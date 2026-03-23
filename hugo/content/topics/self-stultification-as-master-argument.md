@@ -32,7 +32,7 @@ related_articles:
 - '[[bidirectional-interaction]]'
 - '[[consciousness-and-the-authority-of-formal-systems]]'
 - '[[consciousness-and-the-problem-of-induction]]'
-- '[[epistemology-of-phenomenal-reports]]'
+- '[[epistemology-of-first-person-evidence]]'
 - '[[tenets]]'
 title: Self-Stultification as Master Argument
 topics:
@@ -159,7 +159,7 @@ The [epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) article show
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why most theories drift toward the position self-stultification defeats
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why logical necessity requires conscious recognition
 - [consciousness-and-the-problem-of-induction](/topics/consciousness-and-the-problem-of-induction/) — Self-stultification applied to inductive reasoning about consciousness
-- [epistemology-of-phenomenal-reports](/topics/epistemology-of-first-person-evidence/) — Whether introspective reports are causally connected to experiences
+- [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/) — Whether introspective reports are causally connected to experiences
 - [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — The epistemic framework that self-stultification presupposes
 - [mental-causation](/concepts/mental-causation/) — The problem self-stultification helps resolve
 - [causal-closure](/concepts/causal-closure/) — The principle whose rejection self-stultification motivates

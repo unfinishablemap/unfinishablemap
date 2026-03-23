@@ -28,7 +28,7 @@ related_articles:
 - '[[substance-property-dualism]]'
 - '[[modal-structure-of-phenomenal-properties]]'
 - '[[consciousness-and-interpersonal-understanding]]'
-- '[[epistemology-of-phenomenal-reports]]'
+- '[[epistemology-of-first-person-evidence]]'
 - '[[epistemology-of-other-minds-under-dualism]]'
 title: Consciousness and the Problem of Other Properties
 topics:
@@ -120,7 +120,7 @@ Yet this epistemic barrier need not be cause for despair. It reveals something i
 - [other-minds-void](/voids/other-minds-void/)
 - [intersubjective-void](/voids/intersubjective-void/)
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/)
-- [epistemology-of-phenomenal-reports](/topics/epistemology-of-first-person-evidence/)
+- [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/)
 - [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/)
 
 ## References

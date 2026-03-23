@@ -25,7 +25,7 @@ last_deep_review: 2026-03-02 01:52:00+00:00
 modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'
-- '[[epistemology-of-phenomenal-reports]]'
+- '[[epistemology-of-first-person-evidence]]'
 - '[[introspection-rehabilitation]]'
 - '[[quantum-measurement-and-consciousness]]'
 - '[[knowledge-argument]]'
@@ -113,7 +113,7 @@ As the Map explores in [methodology-of-consciousness-research](/topics/methodolo
 ## Further Reading
 
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)
-- [epistemology-of-phenomenal-reports](/topics/epistemology-of-first-person-evidence/)
+- [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/)
 - [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/)
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
