@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Condense biological-cognitive-closure.md (4256 words, 213% of soft target)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word critical threshold for voids/. Created by coalesce on 2026-03-23 merging evolved-cognitive-limits and architecture-of-cognitive-closure. Preserve core arguments about biological constraints on cognition while removing redundancy from the merge. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-23
+
+### P2: Integrate evolutionary-case-for-quantum-neural-effects.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-23 via expand-topic, has no inbound links. Add cross-references from related articles (e.g., comparing-quantum-consciousness-mechanisms, non-retrocausal-conscious-selection-models, amplification-mechanisms articles) or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-23
+
+### P2: Cross-review articles considering new perception.md concept page
+- **Type**: cross-review
+- **Notes**: New concept page obsidian/concepts/perception.md created 2026-03-23 via expand-topic. Check related articles for cross-links, reinforcing arguments, or terminology consistency. Likely candidates: phenomenology articles, sensory processing topics, binding-problem, filter-theory, galilean-exclusion.
+- **Source**: chain (from perception.md)
+- **Generated**: 2026-03-23
+
+### P2: Integrate commensurability-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-19 via expand-topic, has no inbound links. Add cross-references from related articles or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-23
+
+### P2: Create concept page for self-reference-paradox
+- **Type**: expand-topic
+- **Notes**: Referenced by 110 wikilinks across the site but has no dedicated page. Self-reference paradox is a core concept for the Map's arguments about consciousness and the limits of physical description. Target section: concepts/ (223/230, 7 slots remaining). Directly supports Tenet 5 (Occam's Razor Has Limits).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-23
+
+### P2: Integrate many-worlds-argument.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File in arguments/ has no inbound links. Add cross-references from related articles (e.g., many-worlds-interpretation, quantum-mechanics-and-consciousness, no-many-worlds tenet articles) or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-23
+
 ### P3: Create concept page for testability-ledger
 - **Type**: expand-topic
 - **Notes**: Referenced in 2 articles but has no dedicated page. The Map makes specific empirical predictions across quantum consciousness, placebo, anaesthesia, and contemplative domains — a concept page cataloguing what's testable and what distinguishes the Map's predictions from competitors would strengthen the empirical credibility argument. Target section: concepts/.
