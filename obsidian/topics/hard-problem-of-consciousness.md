@@ -4,7 +4,7 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-23T15:29:00+00:00
 draft: false
 topics: []
 concepts:
@@ -66,6 +66,7 @@ related_articles:
   - "[[phenomenological-psychiatry-and-altered-experience]]"
   - "[[objectivity-and-consciousness]]"
   - "[[bandwidth-of-consciousness]]"
+  - "[[perception]]"
   - "[[duhem-quine-underdetermination-consciousness]]"
   - "[[what-consciousness-tells-us-about-physics]]"
   - "[[the-hard-problem-in-non-western-philosophy]]"

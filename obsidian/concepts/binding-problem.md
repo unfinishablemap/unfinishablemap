@@ -4,7 +4,7 @@ description: "How do distributed neural processes combine into unified experienc
 created: 2026-01-14
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-03-23T15:15:00+00:00
+ai_modified: 2026-03-23T15:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -66,7 +66,7 @@ William James identified what is now called the "combination problem" in the 19t
 
 BP2 is the "hard" aspect of binding. A unified conscious moment incorporating information from spatially separate brain regions presents a physical puzzle: it implies that several spatially separate processes exert causal power simultaneously as a single whole. The unity isn't just functional coordination; it's the subjective character of experiencing everything *together* within a single phenomenal field.
 
-**Intra-modal binding** concerns features within a single modality—how "red" and "round" bind into one visual object. **[[multimodal-binding|Cross-modal binding]]** concerns features from different senses — see [[phenomenal-binding-and-multimodal-integration|Phenomenal Binding and Multimodal Integration]] for the dedicated treatment. Both are explored in [[dualist-perception|perception and conscious experience]], where binding contributes to the unified character of perceptual awareness. The multimodal case makes the explanatory gap maximally stark: neural mechanisms explain how the brain coordinates separate processing streams (BP1), but not why coordination produces phenomenal unity rather than just functional integration (BP2).
+**Intra-modal binding** concerns features within a single modality—how "red" and "round" bind into one visual object. **[[multimodal-binding|Cross-modal binding]]** concerns features from different senses — see [[phenomenal-binding-and-multimodal-integration|Phenomenal Binding and Multimodal Integration]] for the dedicated treatment. Both are explored in [[perception]] and [[dualist-perception|its dualist treatment]], where binding contributes to the unified character of perceptual awareness. The multimodal case makes the explanatory gap maximally stark: neural mechanisms explain how the brain coordinates separate processing streams (BP1), but not why coordination produces phenomenal unity rather than just functional integration (BP2).
 
 ### The Illusionist Challenge
 

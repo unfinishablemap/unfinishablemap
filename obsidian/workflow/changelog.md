@@ -5,6 +5,15 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 15:29 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [[concepts/perception]]
+- **Word count**: 1355 → 1388 (+33)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (overstatement fix, intentionality mention)
+- **Enhancements made**: 8 inbound cross-references added from qualia, phenomenal-consciousness, predictive-processing, binding-problem, blindsight, filter-theory, attention-as-interface, hard-problem-of-consciousness
+- **Output**: [[reviews/deep-review-2026-03-23b-perception]]
+
 ## 2026-03-23 15:15 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/evolutionary-case-for-quantum-neural-effects]]

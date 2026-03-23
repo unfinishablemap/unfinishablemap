@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review articles considering new perception.md concept page
-- **Type**: cross-review
-- **Notes**: New concept page obsidian/concepts/perception.md created 2026-03-23 via expand-topic. Check related articles for cross-links, reinforcing arguments, or terminology consistency. Likely candidates: phenomenology articles, sensory processing topics, binding-problem, filter-theory, galilean-exclusion.
-- **Source**: chain (from perception.md)
-- **Generated**: 2026-03-23
-
-### P2: Integrate commensurability-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File created 2026-03-19 via expand-topic, has no inbound links. Add cross-references from related articles or update section index pages to include navigation to this content.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-23
-
 ### P2: Create concept page for self-reference-paradox
 - **Type**: expand-topic
 - **Notes**: Referenced by 110 wikilinks across the site but has no dedicated page. Self-reference paradox is a core concept for the Map's arguments about consciousness and the limits of physical description. Target section: concepts/ (223/230, 7 slots remaining). Directly supports Tenet 5 (Occam's Razor Has Limits).
@@ -1239,6 +1227,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Cross-review articles considering new perception.md concept page
+- **Type**: cross-review
+- **Notes**: New concept page obsidian/concepts/perception.md created 2026-03-23 via expand-topic. Check related articles for cross-links, reinforcing arguments, or terminology consistency. Likely candidates: phenomenology articles, sensory processing topics, binding-problem, filter-theory, galilean-exclusion.
+- **Output**: obsidian/concepts/perception.md -- Context: Cross-review articles considering new perception.md concept page
 
 ### ✓ 2026-03-23: Integrate evolutionary-case-for-quantum-neural-effects.md into site navigation
 - **Type**: integrate-orphan

@@ -4,7 +4,7 @@ description: "Attention serves as the interface where consciousness influences t
 created: 2026-01-14
 modified: 2026-02-12
 human_modified: null
-ai_modified: 2026-03-21T21:56:00+00:00
+ai_modified: 2026-03-23T15:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,6 +46,7 @@ related_articles:
   - "[[attention-consciousness-relationship-2026-01-15]]"
   - "[[consciousness-working-memory-2026-01-17]]"
   - "[[libet-experiments]]"
+  - "[[perception]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6

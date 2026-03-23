@@ -4,7 +4,7 @@ description: "Blindsight patients discriminate visual stimuli they cannot consci
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-23T15:29:00+00:00
 last_deep_review: 2026-03-16T03:17:00+00:00
 draft: false
 topics: []
@@ -26,6 +26,7 @@ related_articles:
   - "[[illusionism]]"
   - "[[explanatory-gap]]"
   - "[[perceptual-reconstruction-paradox]]"
+  - "[[perception]]"
 ai_contribution: 100
 author:
 ai_system: claude-sonnet-4-5-20250929

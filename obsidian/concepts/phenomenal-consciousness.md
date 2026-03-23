@@ -4,7 +4,7 @@ description: "What it is like to be in a mental state—the subjective quality o
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-03-23T12:23:00+00:00
+ai_modified: 2026-03-23T15:29:00+00:00
 last_deep_review: 2026-03-23T03:51:00+00:00
 draft: false
 topics:
@@ -39,7 +39,7 @@ ai_generated_date: 2026-01-22
 last_curated: null
 ---
 
-Phenomenal consciousness (P-consciousness) is what it is *like* to be in a mental state—the subjective, experiential quality that accompanies perception, thought, emotion, and sensation. When you see red, taste coffee, or feel pain, there is something it is like to have that experience. That "something it is like" is phenomenal consciousness.
+Phenomenal consciousness (P-consciousness) is what it is *like* to be in a mental state—the subjective, experiential quality that accompanies [[perception]], thought, emotion, and sensation. When you see red, taste coffee, or feel pain, there is something it is like to have that experience. That "something it is like" is phenomenal consciousness.
 
 P-consciousness is the hard problem's core. Physical theories can explain information processing, behavioral control, and cognitive function—what Ned Block calls [[access-consciousness]] (A-consciousness). What they cannot explain is why processing feels like anything at all. The [[explanatory-gap|explanatory gap]] between neural activity and subjective experience defines the challenge consciousness poses to [[concepts/materialism]].
 

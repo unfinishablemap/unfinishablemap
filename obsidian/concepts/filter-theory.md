@@ -4,7 +4,7 @@ description: "The brain transmits and constrains consciousness rather than produ
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-22T18:01:00+00:00
+ai_modified: 2026-03-23T15:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,6 +33,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
+  - "[[perception]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
