@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-03-23 02:09:00+00:00
+ai_modified: 2026-03-23 12:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -67,7 +67,7 @@ The family's signature failure is **epistemic asymmetry**: knowledge structurall
 
 ### The Cognitive Architecture Family
 
-The [evolved cognitive limits](/voids/evolved-cognitive-limits/), [computational limits](/voids/computational-cognitive-limits/), [attention-created voids](/voids/attention-created-voids/), [habituation void](/voids/habituation-void/), [language-thought boundary](/voids/language-thought-boundary/), and [scale void](/voids/scale-void/) reveal constraints imposed by the specific architecture of human minds. These are voids not because the territory is intrinsically unknowable but because *minds like ours* cannot reach it. Evolution optimised for fitness, not truth. Attention selects by excluding. Language carves experience at joints that may not exist in the territory. Scale intuitions calibrated for ancestral environments collapse at cosmic or quantum magnitudes.
+The [evolved cognitive limits](/voids/biological-cognitive-closure/), [computational limits](/voids/computational-cognitive-limits/), [attention-created voids](/voids/attention-created-voids/), [habituation void](/voids/habituation-void/), [language-thought boundary](/voids/language-thought-boundary/), and [scale void](/voids/scale-void/) reveal constraints imposed by the specific architecture of human minds. These are voids not because the territory is intrinsically unknowable but because *minds like ours* cannot reach it. Evolution optimised for fitness, not truth. Attention selects by excluding. Language carves experience at joints that may not exist in the territory. Scale intuitions calibrated for ancestral environments collapse at cosmic or quantum magnitudes.
 
 The [Recognition Void's](/voids/recognition-void/) concept of "inventory blindness" deepens this family's significance: absent cognitive capabilities produce no signal, so we cannot even catalogue what our architecture prevents us from reaching. This means the convergence of independent failure modes is stronger evidence than any single failure, because inventory blindness ensures we cannot dismiss what we cannot detect missing.
 

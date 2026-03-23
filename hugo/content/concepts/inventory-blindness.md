@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-03-23 01:51:00+00:00
+ai_modified: 2026-03-23 12:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ last_deep_review: 2026-03-23 01:51:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[architecture-of-cognitive-closure]]'
+- '[[biological-cognitive-closure]]'
 - '[[parsimony-epistemology]]'
 - '[[voids]]'
 - '[[three-kinds-of-void]]'
@@ -76,7 +76,7 @@ The history of mathematics reinforces the point. Non-Euclidean geometry illustra
 
 Inventory blindness operates wherever the Map identifies cognitive limits, making it a cross-cutting concept rather than a feature of any single void.
 
-The [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/) shows how both innate constraints and developmental pruning progressively narrow what a mind can think. Inventory blindness explains why this narrowing is experienced as completeness rather than restriction — the narrowed mind has no residual awareness of what pruning removed.
+The [biological-cognitive-closure](/voids/biological-cognitive-closure/) shows how both innate constraints and developmental pruning progressively narrow what a mind can think. Inventory blindness explains why this narrowing is experienced as completeness rather than restriction — the narrowed mind has no residual awareness of what pruning removed.
 
 The [recognition-void](/voids/recognition-void/) is where the concept was first identified on the Map. Recognition succeeds silently or fails pathologically; you cannot audit what your recognition system fails to reach. The Capgras-prosopagnosia double dissociation reveals hidden components only because damage makes them *separately* visible — not because introspection could have surveyed them.
 
@@ -96,7 +96,7 @@ Inventory blindness engages the Map's [tenets](/tenets/) at a fundamental level.
 
 - [cognitive-closure](/concepts/cognitive-closure/)
 - [recognition-void](/voids/recognition-void/)
-- [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/)
+- [biological-cognitive-closure](/voids/biological-cognitive-closure/)
 - [parsimony-epistemology](/concepts/parsimony-epistemology/)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
 - [introspective-opacity](/voids/introspective-opacity/)

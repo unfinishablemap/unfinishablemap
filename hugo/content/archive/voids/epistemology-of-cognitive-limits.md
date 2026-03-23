@@ -60,7 +60,7 @@ Noam Chomsky draws a distinction between *problems* and *mysteries*. Problems ar
 
 "If humans are part of the organic world," Chomsky writes, "we should not be surprised to discover that the same properties of mind that yield enormous scope should also impose limits."
 
-The system that gives us power also constrains us. A lung cannot metabolise arbitrary gases. A visual system cannot detect arbitrary wavelengths. A mind cannot think arbitrary thoughts. [Evolution shaped cognition for specific tasks](/voids/evolved-cognitive-limits/)—survival on the African savanna, social coordination, pattern detection in natural environments. There is no reason to expect universal access to all truths.
+The system that gives us power also constrains us. A lung cannot metabolise arbitrary gases. A visual system cannot detect arbitrary wavelengths. A mind cannot think arbitrary thoughts. [Evolution shaped cognition for specific tasks](/voids/biological-cognitive-closure/)—survival on the African savanna, social coordination, pattern detection in natural environments. There is no reason to expect universal access to all truths.
 
 The hard problem of consciousness may be a mystery rather than a problem: the concepts that would bridge neural activity and subjective experience may lie outside human cognitive reach. We access consciousness through [introspection](/concepts/introspection/) and brain through perception, but neither mode reveals the connection between them.
 

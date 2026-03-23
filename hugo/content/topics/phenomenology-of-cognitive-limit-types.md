@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-19 02:21:06+00:00
+ai_modified: 2026-03-23 12:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[phenomenology-of-the-edge]]'
-- '[[evolved-cognitive-limits]]'
+- '[[biological-cognitive-closure]]'
 - '[[cognitive-aversion]]'
 - '[[three-kinds-of-void]]'
 - '[[limits-reveal-structure]]'
@@ -37,7 +37,7 @@ Different cognitive limits feel different from the inside. Hitting a logical par
 
 ## Three Master Phenomenologies
 
-The [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) article identifies three broad phenomenological categories that correspond to the origin of the limit:
+The [biological-cognitive-closure](/voids/biological-cognitive-closure/) article identifies three broad phenomenological categories that correspond to the origin of the limit:
 
 **Frustration** marks architectural limits — constraints built into the structure of human cognition. Trying to visualise a four-dimensional object, holding seven-plus items in working memory, or grasping the hard problem of consciousness all produce the experience of effortful straining against a wall. The thinker knows they are failing. The limit announces itself as obstruction. Frustration is honest: it tells you a boundary exists and that you are pressing against it.
 
@@ -107,7 +107,7 @@ Limits rarely appear in isolation. The [compound-failure-signatures](/voids/comp
 
 ## Why Phenomenology Diagnoses Limit Type
 
-The diagnostic value of phenomenological signatures rests on a hypothesis: the *way* thought fails reflects *what* it is failing against. A wall leaves a different bruise than a fall. This claim is not yet empirically established, but the consistent cross-cultural convergence of failure signatures documented in the [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) literature supports it as a working methodological framework.
+The diagnostic value of phenomenological signatures rests on a hypothesis: the *way* thought fails reflects *what* it is failing against. A wall leaves a different bruise than a fall. This claim is not yet empirically established, but the consistent cross-cultural convergence of failure signatures documented in the [biological-cognitive-closure](/voids/biological-cognitive-closure/) literature supports it as a working methodological framework.
 
 A self-referential difficulty deserves acknowledgment: this taxonomy uses introspective phenomenological reports to map cognitive limits — including limits on introspection itself. The construction-mistaken-for-observation signature warns that introspective data may be partly constructed. The framework does not collapse under this pressure, because the diagnostic grid draws on converging evidence (formal analysis, cross-cultural data, experimental results) rather than introspection alone. But the circularity places an upper bound on confidence: phenomenological diagnosis is a heuristic, not a proof.
 
@@ -131,7 +131,7 @@ The systematic mapping of limit phenomenologies connects to the Map's [tenets](/
 
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at boundaries
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — Structured failure as diagnostic method
-- [Evolved Cognitive Limits](/voids/evolved-cognitive-limits/) — Architectural versus adaptive limits and their origins
+- [Evolved Cognitive Limits](/voids/biological-cognitive-closure/) — Architectural versus adaptive limits and their origins
 - [Cognitive Aversion](/voids/cognitive-aversion/) — The motivational deflection that hides limits
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — The fundamental void taxonomy
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture

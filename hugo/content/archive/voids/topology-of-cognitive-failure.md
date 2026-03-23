@@ -166,7 +166,7 @@ The topology-of-failure thesis would be undermined if:
 
 3. **Failures prove corrigible.** If apparent limits can be transcended through training, enhancement, or reconceptualization, they were not genuine limits but current ignorance. Some failures must prove permanent to mark genuine void boundaries.
 
-Current evidence supports structured, persistent failure patterns. The hard problem remains as puzzling as ever despite millennia of inquiry. [Cross-cultural convergence](/voids/evolved-cognitive-limits/) on ineffability, aporia, and introspective limits suggests we track something real.
+Current evidence supports structured, persistent failure patterns. The hard problem remains as puzzling as ever despite millennia of inquiry. [Cross-cultural convergence](/voids/biological-cognitive-closure/) on ineffability, aporia, and introspective limits suggests we track something real.
 
 ## Relation to Site Perspective
 
@@ -186,7 +186,7 @@ The voids framework itself embodies this insight. We map not by entering void te
 
 - [Voids in the Map](/voids/) — The framework for investigating cognitive dark spaces
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate cognitive architecture
-- [Evolved Cognitive Limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for shared boundaries
+- [Evolved Cognitive Limits](/voids/biological-cognitive-closure/) — Cross-cultural evidence for shared boundaries
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalising the method with evidential standards and safeguards

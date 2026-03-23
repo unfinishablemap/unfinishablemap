@@ -46,7 +46,7 @@ From the Map's perspective, this means consciousness interfaces with a fundament
 
 This developmental reshaping raises distinctive ethical questions: if the interface is being configured during critical windows, enhancement interventions during childhood would interact with natural pruning processes in ways that permanently alter which territories consciousness can access. The [ethics of cognitive enhancement](/topics/ethics-of-cognitive-enhancement-under-dualism/) explores why configuring another person's interface without their consent carries special moral weight under dualism.
 
-This reshaping is visible in [developmental cognitive closure](/voids/architecture-of-cognitive-closure/). Infants discriminate phonemes from all human languages; by 10-12 months, discrimination narrows to native-language sounds. Infants recognise faces across all races; by 9 months, the "other-race effect" sets in. Neonates may experience cross-modal sensory integration that most adults lose entirely. These are not failures of development. They are the costs of specialisation — the interface trading breadth for depth.
+This reshaping is visible in [developmental cognitive closure](/voids/biological-cognitive-closure/). Infants discriminate phonemes from all human languages; by 10-12 months, discrimination narrows to native-language sounds. Infants recognise faces across all races; by 9 months, the "other-race effect" sets in. Neonates may experience cross-modal sensory integration that most adults lose entirely. These are not failures of development. They are the costs of specialisation — the interface trading breadth for depth.
 
 ## When Metarepresentation Comes Online
 
@@ -93,7 +93,7 @@ The developmental interface also highlights the limits of **Occam's Razor**. A p
 ## Further Reading
 
 - [developmental-trajectory-of-the-interface](/topics/consciousness-interface-development/)
-- [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/)
+- [architecture-of-cognitive-closure](/voids/biological-cognitive-closure/)
 - [mind-matter-interface](/concepts/mind-matter-interface/)
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [interface-friction](/concepts/interface-friction/)

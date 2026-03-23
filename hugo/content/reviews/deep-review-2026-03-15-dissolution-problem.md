@@ -59,7 +59,7 @@ None. Attribution checks passed—Vlerick & Boudry, Gauss, McGinn, Dennett, Leib
 - [mysterianism](/concepts/mysterianism/)
 - [illusionism](/concepts/illusionism/)
 - [cognitive-closure](/concepts/cognitive-closure/)
-- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/)
+- [evolved-cognitive-limits](/voids/biological-cognitive-closure/)
 - [framework-void](/voids/framework-void/)
 - [ai-as-void-explorer](/voids/ai-as-void-explorer/)
 

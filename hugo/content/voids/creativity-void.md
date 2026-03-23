@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-23 12:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,7 @@ related_articles:
 - '[[thoughts-that-slip-away]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[limits-reveal-structure]]'
-- '[[architecture-of-cognitive-closure]]'
+- '[[biological-cognitive-closure]]'
 - '[[consciousness-and-creative-distinctiveness]]'
 - '[[topics/free-will]]'
 - '[[process-and-consciousness]]'
@@ -147,7 +147,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet connects to the haecceity of
 - [The Unobservable Self](/voids/unobservable-self/) — The observer that cannot observe itself
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Mechanisms of cognitive slippage
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
-- [The Limits of Conceptual Acquisition](/voids/architecture-of-cognitive-closure/) — What concepts minds can form
+- [The Limits of Conceptual Acquisition](/voids/biological-cognitive-closure/) — What concepts minds can form
 - [Defended Territory](/voids/defended-territory/) — Thoughts blocked by commitment rather than impossibility
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn on structural cognitive limits
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-23 10:06:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Does recursive mindreading require phenomenal consciousness or just
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-28 05:46:00+00:00
+last_deep_review: 2026-03-23 10:06:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -61,7 +61,7 @@ Understanding what others perceive—representing another's perceptual access as
 
 ### Level 2: Belief Attribution
 
-Understanding that others have beliefs that may differ from reality. Recent evidence has strengthened the case for some ape false belief understanding: Krupenye et al. (2016) showed all three great ape species anticipated agents acting on false beliefs, and Buttelmann et al. (2017) found chimpanzees interpreting behaviour through an agent's false belief. Whether these results reflect genuine belief attribution or sophisticated behaviour-reading remains debated (Heyes 2014, Povinelli & Vonk 2003), but the evidence is substantially stronger than earlier negative results suggested.
+Understanding that others have beliefs that may differ from reality. Recent evidence has strengthened the case for some ape false belief understanding: Krupenye et al. (2016) showed chimpanzees, bonobos, and orangutans anticipated agents acting on false beliefs, and Buttelmann et al. (2017) found chimpanzees interpreting behaviour through an agent's false belief. Whether these results reflect genuine belief attribution or sophisticated behaviour-reading remains debated (Heyes 2014, Povinelli & Vonk 2003), but the evidence is substantially stronger than earlier negative results suggested.
 
 ### Level 3: Recursive Mindreading
 
@@ -121,6 +121,8 @@ The claim that consciousness enables advanced social cognition would be undermin
 
 5. **Complete functional explanation**: If cognitive science fully explained recursive mindreading in purely information-processing terms, the explanatory gap would narrow—though the argument from this resistance to a consciousness requirement involves philosophical commitments not all researchers share.
 
+A [Duhem-Quine](/topics/duhem-quine-underdetermination-consciousness/) caveat applies: each condition involves auxiliary assumptions (about what counts as "genuine" belief attribution, "genuine" empathy, or "complete" explanation) that are themselves philosophically contested. The conditions remain informative, but no single empirical result would cleanly falsify or confirm the consciousness requirement.
+
 ## Relation to Site Perspective
 
 ### Bidirectional Interaction
@@ -149,6 +151,10 @@ The simpler hypothesis—social cognition is just sophisticated information proc
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness transforms baseline social cognition into human-level capacities
 - [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/) — Social transmission as paradigm case of consciousness-dependent cognition
 - [working-memory](/concepts/working-memory/) — The workspace enabling recursive mental operations
+
+### Methodology
+- [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/) — Why empirical tests of consciousness claims face deep underdetermination
+- [consciousness-and-methodological-failure](/topics/consciousness-and-methodological-failure/) — How standard methods struggle with consciousness questions
 
 ### Related Topics
 - [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — The topic-level treatment: correlation vs. constitution in social cognition

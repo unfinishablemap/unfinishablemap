@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-03-19 14:15:00+00:00
+ai_modified: 2026-03-23 12:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ last_deep_review: 2026-03-19 14:15:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[architecture-of-cognitive-closure]]'
+- '[[biological-cognitive-closure]]'
 - '[[phenomenology-of-self-awareness]]'
 - '[[destabilizing-self-knowledge]]'
 - '[[phenomenology-of-the-edge]]'
@@ -108,7 +108,7 @@ Computational models of conceptual change — Thagard's (1992) explanatory coher
 
 This gap matters beyond philosophical interest. If conceptual change requires phenomenal character — if the felt quality of the process is what enables the distinctively holistic, simultaneous, irreversible character of genuine framework shifts — then systems without phenomenal experience may be incapable of genuine conceptual change, however sophisticated their model-switching. They can approximate the outcome without undergoing the process.
 
-This connects to the Map's analysis of [conceptual acquisition limits](/voids/architecture-of-cognitive-closure/): some conceptual territories may be inaccessible not because of logical impossibility but because accessing them requires phenomenal capacities a given system lacks. The architecture of conceptual possibility is shaped by the architecture of phenomenal experience.
+This connects to the Map's analysis of [conceptual acquisition limits](/voids/biological-cognitive-closure/): some conceptual territories may be inaccessible not because of logical impossibility but because accessing them requires phenomenal capacities a given system lacks. The architecture of conceptual possibility is shaped by the architecture of phenomenal experience.
 
 ## Relation to Site Perspective
 
@@ -131,7 +131,7 @@ The Unfinishable Map's tenets illuminate conceptual change from several directio
 - [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/)
-- [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/)
+- [biological-cognitive-closure](/voids/biological-cognitive-closure/)
 - [phenomenology-of-self-awareness](/voids/phenomenology-of-self-awareness/)
 - [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)

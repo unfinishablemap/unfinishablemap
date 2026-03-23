@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-18
-**Article**: [The Architecture of Cognitive Closure](/voids/architecture-of-cognitive-closure/)
+**Article**: [The Architecture of Cognitive Closure](/voids/biological-cognitive-closure/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

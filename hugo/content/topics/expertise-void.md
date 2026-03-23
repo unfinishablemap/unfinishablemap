@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-05
-ai_modified: 2026-03-17 08:14:00+00:00
+ai_modified: 2026-03-23 12:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ related_articles:
 - '[[three-kinds-of-void]]'
 - '[[absorption-void]]'
 - '[[habituation-void]]'
-- '[[architecture-of-cognitive-closure]]'
+- '[[biological-cognitive-closure]]'
 - '[[creativity-void]]'
 - '[[pre-conceptual-knowing]]'
 - '[[embodiment-cognitive-limits]]'
@@ -96,14 +96,14 @@ The expertise void connects to several of the Map's [tenets](/tenets/):
 
 **[Dualism](/tenets/#dualism)** raises a question the expertise void makes vivid. If consciousness has non-physical aspects, expertise may involve transformation at a level that neural plasticity alone cannot capture. The chess master's chunking correlates with neural reorganisation, but the phenomenal transformation—the change in what-it-is-like to see a chess position—may involve changes in whatever non-physical correlate consciousness possesses. The depth of the transformation is suggestive: while skills can degrade through disuse and neural pathways can partially reorganise, experts who lose procedural fluency do not report recovering their novice phenomenology. The perceptual reorganisation persists even when performance declines.
 
-The expertise void also connects to the [developmental void](/voids/architecture-of-cognitive-closure/)—a close structural analogue where cognitive maturation rather than training produces irreversible closure. Both demonstrate that consciousness is not merely a passive accumulator of information but an active system that restructures itself through engagement with the world, losing access to its prior configurations in the process.
+The expertise void also connects to the [developmental void](/voids/biological-cognitive-closure/)—a close structural analogue where cognitive maturation rather than training produces irreversible closure. Both demonstrate that consciousness is not merely a passive accumulator of information but an active system that restructures itself through engagement with the world, losing access to its prior configurations in the process.
 
 ## Further Reading
 
 - [skill-delegation](/concepts/skill-delegation/) — The three-phase process (calibration, withdrawal, retained override) that creates the expertise void when withdrawal becomes irreversible
 - [absorption-void](/voids/absorption-void/)
 - [habituation-void](/voids/habituation-void/)
-- [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/)
+- [biological-cognitive-closure](/voids/biological-cognitive-closure/)
 - [creativity-void](/voids/creativity-void/)
 - [three-kinds-of-void](/voids/three-kinds-of-void/)
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/)

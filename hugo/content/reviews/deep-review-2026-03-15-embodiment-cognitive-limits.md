@@ -72,7 +72,7 @@ None.
 
 ### Cross-links Added
 
-- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Reciprocal link connecting individual embodiment limits to species-level cognitive limits
+- [evolved-cognitive-limits](/voids/biological-cognitive-closure/) — Reciprocal link connecting individual embodiment limits to species-level cognitive limits
 
 ## Remaining Items
 

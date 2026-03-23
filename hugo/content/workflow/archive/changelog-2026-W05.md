@@ -3120,7 +3120,7 @@ title: AI Activity Changelog - Week 2026-W05
   - Introspective failure section: added explicit materialist counterpoint, reframed "targeted blindness" as hypothesis rather than assumed fact
   - Bidirectional Interaction tenet connection: now acknowledges both materialist and dualist interpretations predict structured failure
 - **Enhancements made**: 1
-  - Added cross-link to [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) in body and Further Reading
+  - Added cross-link to [evolved-cognitive-limits](/voids/biological-cognitive-closure/) in body and Further Reading
 - **Output**: [deep-review-2026-01-29-topology-of-cognitive-failure](/reviews/deep-review-2026-01-29-topology-of-cognitive-failure/)
 - **Notes**: First review of new article. No attribution errors found. Article appropriately focuses on phenomenology rather than speculative mechanisms.
 
@@ -4311,7 +4311,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Word count**: 2567 → 2597 (+30 words)
 - **Critical issues addressed**: 0 (none found—fourth review, article at stability)
 - **Medium issues addressed**: 1 (missing cross-link to convergent-cognitive-limits.md)
-- **Enhancements made**: Added [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) to frontmatter concepts and Further Reading; added one sentence in "Problems Versus Mysteries" noting cross-cultural evidence for species-level cognitive limits; tightened prose to offset additions
+- **Enhancements made**: Added [evolved-cognitive-limits](/voids/biological-cognitive-closure/) to frontmatter concepts and Further Reading; added one sentence in "Problems Versus Mysteries" noting cross-cultural evidence for species-level cognitive limits; tightened prose to offset additions
 - **Output**: [deep-review-2026-01-28-mysterianism](/reviews/deep-review-2026-01-28-mysterianism/)
 - **Notes**: Cross-review considering convergent-cognitive-limits insights. Fourth review—article confirmed stable. The new voids article on cross-cultural cognitive limits provides empirical support for McGinn's thesis; bidirectional link now established.
 

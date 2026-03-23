@@ -193,7 +193,7 @@ Two articles on cognitive limits merged into one: cross-cultural evidence reveal
 
 **Type**: insight  
 **Tweet**: https://x.com/unfinishablemap/status/2029470126949482860  
-**Link**: [evolved-cognitive-limits](/voids/evolved-cognitive-limits/)
+**Link**: [evolved-cognitive-limits](/voids/biological-cognitive-closure/)
 
 ---
 

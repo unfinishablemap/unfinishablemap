@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-03-23 02:09:00+00:00
+ai_modified: 2026-03-23 12:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,9 +28,8 @@ related_articles:
 - '[[apophatic-approaches]]'
 - '[[apophatic-cartography]]'
 - '[[whether-real]]'
-- '[[architecture-of-cognitive-closure]]'
+- '[[biological-cognitive-closure]]'
 - '[[recognition-void]]'
-- '[[evolved-cognitive-limits]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[voids]]'
 title: Epistemology of Limit-Knowledge
@@ -74,7 +73,7 @@ Convergence produces **triangulation knowledge**: the boundary's location is fix
 
 [The shape of limits reveals cognitive architecture.](/voids/limits-reveal-structure/) If a mind can acquire language but cannot solve certain logical problems without conscious effort, this pattern reveals something about the division between automatic and deliberate processing. The limits are not merely obstacles—they are structural features of the system, as informative as its capacities.
 
-Structural inference produces **architectural knowledge**: conclusions about how the cognitive system is organised, derived from its failure modes. The [developmental evidence](/voids/architecture-of-cognitive-closure/)—phonemic closure, face-recognition narrowing, critical period effects—demonstrates that closure operates at specific architectural joints, not uniformly.
+Structural inference produces **architectural knowledge**: conclusions about how the cognitive system is organised, derived from its failure modes. The [developmental evidence](/voids/biological-cognitive-closure/)—phonemic closure, face-recognition narrowing, critical period effects—demonstrates that closure operates at specific architectural joints, not uniformly.
 
 **Warrant type**: Transcendental (in the Kantian sense). Given that we experience the world *this way*, certain structural features of the experiencing system can be inferred.
 
@@ -127,7 +126,7 @@ The Map's broader project of treating [voids](/voids/) as informative rather tha
 - [apophatic-cartography](/voids/apophatic-cartography/) — Formalised evidential standards for void-mapping
 - [whether-real](/voids/whether-real/) — Can we determine if cognitive limits are permanent?
 - [recognition-void](/voids/recognition-void/) — An example of limit-knowledge from neuroscience
-- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence bearing on limit-knowledge claims
+- [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence bearing on limit-knowledge claims
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What encountering a cognitive limit feels like from the inside
 
 ## References

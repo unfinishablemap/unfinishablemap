@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-03-23 02:09:00+00:00
+ai_modified: 2026-03-23 12:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ related_articles:
 - '[[thoughts-that-slip-away]]'
 - '[[self-reference-paradox]]'
 - '[[apophatic-approaches]]'
-- '[[evolved-cognitive-limits]]'
+- '[[biological-cognitive-closure]]'
 - '[[convergence-as-evidence]]'
 - '[[phenomenology-of-cognitive-limit-types]]'
 - '[[tenet-generated-voids]]'
@@ -165,7 +165,7 @@ The failure-topology thesis would be undermined if:
 
 4. **Compound effects prove additive.** If systematic study shows that overlapping limits simply sum rather than producing superadditive interference, the compound closure thesis would be weakened—though the individual failure signatures would retain their diagnostic value.
 
-Current evidence supports structured, persistent failure patterns. The hard problem remains as puzzling as ever despite millennia of inquiry. [Cross-cultural convergence](/voids/evolved-cognitive-limits/) on ineffability, aporia, and introspective limits suggests we track something real.
+Current evidence supports structured, persistent failure patterns. The hard problem remains as puzzling as ever despite millennia of inquiry. [Cross-cultural convergence](/voids/biological-cognitive-closure/) on ineffability, aporia, and introspective limits suggests we track something real.
 
 ## Relation to Site Perspective
 
@@ -183,7 +183,7 @@ Current evidence supports structured, persistent failure patterns. The hard prob
 
 - [Voids in the Map](/voids/) — The framework for investigating cognitive dark spaces
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate cognitive architecture
-- [Evolved Cognitive Limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for shared boundaries
+- [Evolved Cognitive Limits](/voids/biological-cognitive-closure/) — Cross-cultural evidence for shared boundaries
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalising the method with evidential standards

@@ -58,7 +58,7 @@ topics: []
 From other articles TO recognition-void:
 1. [introspective-opacity](/voids/introspective-opacity/) — added to related_articles, Process Opacity section, and Further Reading
 2. [binding-void](/voids/binding-void/) — added to related_articles and introspection section (Capgras parallel)
-3. [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/) — added to related_articles and Phenomenology of Closure section
+3. [architecture-of-cognitive-closure](/voids/biological-cognitive-closure/) — added to related_articles and Phenomenology of Closure section
 4. [cognitive-closure](/concepts/cognitive-closure/) — added to related_articles and Two-Access Problem section
 5. [three-kinds-of-void](/voids/three-kinds-of-void/) — added to related_articles and Unexplorable section (as exemplar)
 6. [introspection](/concepts/introspection/) — added to related_articles and Process vs Content section

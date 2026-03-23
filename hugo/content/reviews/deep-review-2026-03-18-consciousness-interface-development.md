@@ -56,7 +56,7 @@ This review was triggered by the article's orphan status — no inbound links fr
 - `neuroplasticity.md` (concept): Added inline link in "Meditation and Contemplative Training" section and `related_articles` entry. Adult plasticity contrasts with developmental-period restructuring.
 
 ### Cross-links Added
-- [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/) → [consciousness-interface-development](/topics/consciousness-interface-development/)
+- [architecture-of-cognitive-closure](/voids/biological-cognitive-closure/) → [consciousness-interface-development](/topics/consciousness-interface-development/)
 - [metacognition](/concepts/metacognition/) → [consciousness-interface-development](/topics/consciousness-interface-development/)
 - [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/) → [consciousness-interface-development](/topics/consciousness-interface-development/)
 - [neuroplasticity](/concepts/neuroplasticity/) → [consciousness-interface-development](/topics/consciousness-interface-development/)

@@ -80,7 +80,7 @@ The connection between cognitive stages and [skilled performance](/topics/consci
 
 A five-year-old learning violin does so through the sensorimotor and early preoperational interface. The learning is intensely embodied — hours of physical repetition shape neural circuits during a period of high [plasticity](/concepts/neuroplasticity/). Consciousness participates through attention to the immediate sensory experience: the feeling of the bow, the sound of each note. But the learner cannot reflect on her own learning process. She cannot articulate what she is doing differently when she plays well versus poorly. The interface is plastic enough to be reshaped by practice but lacks the metacognitive structure for deliberate self-monitoring.
 
-This produces a characteristic pattern: early-acquired skills are often deeply embedded, resistant to extinction, and difficult to articulate. The violinist who began at age four plays with a physical fluency that adult beginners struggle to match — not because the adult lacks motivation but because the adult's interface has lost the plasticity that made childhood acquisition so efficient. The [closure](/voids/architecture-of-cognitive-closure/) of critical periods means the adult's interface must work harder for less dramatic results.
+This produces a characteristic pattern: early-acquired skills are often deeply embedded, resistant to extinction, and difficult to articulate. The violinist who began at age four plays with a physical fluency that adult beginners struggle to match — not because the adult lacks motivation but because the adult's interface has lost the plasticity that made childhood acquisition so efficient. The [closure](/voids/biological-cognitive-closure/) of critical periods means the adult's interface must work harder for less dramatic results.
 
 ### Late Acquisition: Reflection Without Plasticity
 
@@ -124,7 +124,7 @@ The developmental analysis of the interface connects to the Map's [tenets](/tene
 
 **[Bidirectional interaction](/tenets/#bidirectional-interaction)** shifts character across development. In early stages, the brain's developmental programme dominates — the interface is being built according to a largely genetic blueprint, and consciousness has minimal capacity to direct the process. In later stages, consciousness-directed attention increasingly shapes the interface through deliberate practice and learning. The developmental trajectory is a story of bidirectional interaction progressively coming into balance as the interface matures enough for consciousness to participate in its own restructuring.
 
-**[Minimal quantum interaction](/tenets/#minimal-quantum-interaction)** is consistent with stage-dependent change. If consciousness influences neural outcomes at quantum selection sites, then the developmental construction of new interface architectures — new network configurations, new connection patterns — creates new sites for such interaction. Each cognitive stage transition opens new possibilities for quantum selection while closing others through [closure](/voids/architecture-of-cognitive-closure/).
+**[Minimal quantum interaction](/tenets/#minimal-quantum-interaction)** is consistent with stage-dependent change. If consciousness influences neural outcomes at quantum selection sites, then the developmental construction of new interface architectures — new network configurations, new connection patterns — creates new sites for such interaction. Each cognitive stage transition opens new possibilities for quantum selection while closing others through [closure](/voids/biological-cognitive-closure/).
 
 **[No Many Worlds](/tenets/#no-many-worlds)** connects to the irreversibility of developmental transitions. On the Map's collapse-realist framework, when cognitive development moves through a stage transition, the previous mode of interface operation is genuinely superseded. The formal operational thinker cannot fully recover the sensorimotor mode of pure embodied engagement. On MWI, every developmental trajectory is realised, making each transition less ontologically decisive.
 
@@ -136,7 +136,7 @@ The developmental analysis of the interface connects to the Map's [tenets](/tene
 - [childhood-development-and-the-interface](/topics/consciousness-interface-development/)
 - [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/)
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/)
-- [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/)
+- [architecture-of-cognitive-closure](/voids/biological-cognitive-closure/)
 - [baseline-cognition](/concepts/baseline-cognition/)
 - [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/)
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/)

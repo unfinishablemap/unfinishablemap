@@ -62,7 +62,7 @@ None. The article has been refined through two prior passes (initial deep review
 3. Added `evolved-cognitive-limits` to frontmatter concepts and Further Reading
 
 ### Cross-links Added
-- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) (body text, frontmatter concepts, Further Reading)
+- [evolved-cognitive-limits](/voids/biological-cognitive-closure/) (body text, frontmatter concepts, Further Reading)
 
 ## Word Count
 

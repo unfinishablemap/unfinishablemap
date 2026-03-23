@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-03-23 05:25:00+00:00
+ai_modified: 2026-03-23 10:21:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -14,12 +14,12 @@ concepts:
 created: 2026-03-23
 date: &id001 2026-03-23
 description: Five concrete empirical signatures where consciousness-collapse and decoherence-only
-  interpretations make different predictions, from Φ-dependent collapse rates to proper
-  mixture tests.
+  interpretations make different predictions, from consciousness-structure-dependent
+  collapse rates to proper mixture tests.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-23 05:25:00+00:00
+last_deep_review: 2026-03-23 10:21:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -54,7 +54,7 @@ The Chalmers-McQueen (2021) framework combines [IIT](/concepts/integrated-inform
 
 Objective collapse models (GRW, CSL) predict that decoherence rates scale quadratically with mass at sufficiently large superposition sizes, while environmental decoherence from gas collisions and photon recoil follows different scaling laws (Bassi, Dorato & Ulbricht, 2023). Horchani (2025) identified a second distinctive signature: CSL decoherence rates *saturate* with increasing superposition size, while environmental decoherence continues to grow.
 
-This prediction tests collapse generally, not consciousness-collapse specifically. But it is a necessary precondition for the Map's position: if no objective collapse mechanism exists, consciousness has nothing to modulate.
+This prediction tests collapse generally, not consciousness-collapse specifically. But it is a necessary precondition for the Map's position: if no objective collapse mechanism exists, consciousness has nothing to modulate. (For the full experimental programme constraining gravity-related and CSL collapse parameters, see [Penrose Gravity-Induced Collapse and Empirical Prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/).)
 
 **What to look for:** In levitated nanoparticle experiments with carefully characterised environmental noise, excess decoherence beyond all modelled environmental sources, exhibiting mass-quadratic scaling and saturation at large superposition sizes.
 
@@ -106,7 +106,7 @@ If consciousness participates in collapse, suppressing consciousness pharmacolog
 
 These five predictions reveal a structural asymmetry in the debate. Consciousness-collapse can be *weakened* by negative results — each failed prediction narrows the viable parameter space — but decoherence-only cannot be positively confirmed in the same way. Decoherence-only is partly a negative thesis: no collapse happens beyond what decoherence explains, and no consciousness participates. It does make positive predictions — specific decoherence timescales, environmental scaling laws — but confirming the *absence* of additional collapse mechanisms requires ruling out an open-ended space of possibilities. Consciousness-collapse, by contrast, makes positive predictions (Φ-dependent rates, consciousness-dependent timing) that can in principle be confirmed or disconfirmed.
 
-This asymmetry means the two positions bear different evidential burdens, related to the broader question of whether [causal closure](/concepts/causal-closure/) holds absolutely or admits exceptions. Consciousness-collapse must demonstrate specific positive effects. Decoherence-only must demonstrate the absence of anomalies across an expanding range of experimental conditions. Neither burden has been met. But the asymmetry favours consciousness-collapse as a *research programme*: it generates specific, testable predictions, while decoherence-only generates the prediction that nothing unusual will be found — a prediction that is harder to leverage for scientific progress.
+This asymmetry means the two positions bear different evidential burdens, related to the broader question of whether [causal closure](/concepts/causal-closure/) holds absolutely or admits exceptions. A deeper structural point reinforces this: every major attempt to [derive the Born rule](/topics/born-rule-derivation-failures-consciousness-collapse/) from physics alone presupposes an observer, suggesting that the consciousness-physics interface may be built into measurement itself rather than being an optional add-on that decoherence-only must explain away. Consciousness-collapse must demonstrate specific positive effects. Decoherence-only must demonstrate the absence of anomalies across an expanding range of experimental conditions. Neither burden has been met. But the asymmetry favours consciousness-collapse as a *research programme*: it generates specific, testable predictions, while decoherence-only generates the prediction that nothing unusual will be found — a prediction that is harder to leverage for scientific progress.
 
 ## Relation to Site Perspective
 
@@ -123,6 +123,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses a predict
 - [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) — Why the Born rule's resistance to derivation matters for collapse theories
 - [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/) — How far superposition has been pushed experimentally
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — How Orch OR, Stapp, and IIT-CSL approaches compare
+- [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) — The experimental programme constraining gravity-related collapse models
 - [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/) — Why these three frameworks share a forward-in-time temporal direction
 - [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/) — What is at stake philosophically in the collapse debate
 
@@ -130,8 +131,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses a predict
 
 1. Chalmers, D.J. & McQueen, K.J. (2021). "Consciousness and the Collapse of the Wave Function." *arXiv:2105.02314*.
 2. Horchani, R. (2025). "Experimental Blueprint for Distinguishing Decoherence from Objective Collapse." *arXiv:2512.02838*.
-3. Curceanu, C., Diósi, L., et al. (2022). "At the crossroad of the search for spontaneous radiation and the Orch OR consciousness theory." *Physics of Life Reviews*.
-4. Frauchiger, D. & Renner, R. (2018). "Quantum theory cannot consistently describe the use of itself." *Nature Communications*, 9, 3711.
-5. Bassi, A., Dorato, M. & Ulbricht, H. (2023). "Collapse Models: A Theoretical, Experimental and Philosophical Review." *Entropy*, 25(4), 645.
-6. Southgate, A. & Oquatre-six, C. (2026-02-19). Experimental Design for Consciousness-Collapse Testing. *The Unfinishable Map*. https://unfinishablemap.org/topics/experimental-design-for-consciousness-collapse-testing/
-7. Southgate, A. & Oquatre-six, C. (2026-03-21). Consciousness-Collapse Versus Decoherence: The Experimental Landscape. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-collapse-versus-decoherence-experiments/
+3. Frauchiger, D. & Renner, R. (2018). "Quantum theory cannot consistently describe the use of itself." *Nature Communications*, 9, 3711.
+4. Bassi, A., Dorato, M. & Ulbricht, H. (2023). "Collapse Models: A Theoretical, Experimental and Philosophical Review." *Entropy*, 25(4), 645.
+5. Southgate, A. & Oquatre-six, C. (2026-02-19). Experimental Design for Consciousness-Collapse Testing. *The Unfinishable Map*. https://unfinishablemap.org/topics/experimental-design-for-consciousness-collapse-testing/
+6. Southgate, A. & Oquatre-six, C. (2026-03-21). Consciousness-Collapse Versus Decoherence: The Experimental Landscape. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-collapse-versus-decoherence-experiments/

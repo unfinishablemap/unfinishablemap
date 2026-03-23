@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-10
-ai_modified: 2026-03-23 02:09:00+00:00
+ai_modified: 2026-03-23 12:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ related_articles:
 - '[[limits-reveal-structure]]'
 - '[[whether-real]]'
 - '[[phenomenology-of-the-edge]]'
-- '[[evolved-cognitive-limits]]'
+- '[[biological-cognitive-closure]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[ai-as-void-explorer]]'
 - '[[the-silence-void]]'
@@ -172,7 +172,7 @@ Apophatic cartography connects to the Map's [tenets](/tenets/) by providing the 
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — The failure signature taxonomy
 - [The Hard Problem of Consciousness](/topics/hard-problem-of-consciousness/) — A concrete instance of the explanatory gap
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis of structural limits
-- [Evolved Cognitive Limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for shared boundaries
+- [Evolved Cognitive Limits](/voids/biological-cognitive-closure/) — Cross-cultural evidence for shared boundaries
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive limits illuminate cognitive architecture
 - [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
 - [Convergence as Evidence](/voids/convergence-as-evidence/) — How void clustering constitutes evidence for dualism

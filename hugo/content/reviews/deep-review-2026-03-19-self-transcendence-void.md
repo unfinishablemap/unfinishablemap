@@ -57,7 +57,7 @@ topics: []
 ### Cross-links Added (Inbound)
 - [mysterianism](/concepts/mysterianism/) — Further Reading
 - [cognitive-closure](/concepts/cognitive-closure/) — Further Reading
-- [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/) — Further Reading
+- [architecture-of-cognitive-closure](/voids/biological-cognitive-closure/) — Further Reading
 - [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/) — Further Reading
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — Further Reading
 - [recursion-void](/voids/recursion-void/) — Further Reading
@@ -66,7 +66,7 @@ topics: []
 - [ai-as-void-explorer](/voids/ai-as-void-explorer/) — Further Reading
 - [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/) — Further Reading
 - [metacognition](/concepts/metacognition/) — Further Reading
-- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Further Reading
+- [evolved-cognitive-limits](/voids/biological-cognitive-closure/) — Further Reading
 
 ## Remaining Items
 

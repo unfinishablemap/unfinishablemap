@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-01
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-23 12:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,8 +25,7 @@ related_articles:
 - '[[inaccessible-past]]'
 - '[[other-minds-void]]'
 - '[[measurement-void]]'
-- '[[evolved-cognitive-limits]]'
-- '[[architecture-of-cognitive-closure]]'
+- '[[biological-cognitive-closure]]'
 - '[[three-kinds-of-void]]'
 title: The Historical Consciousness Void
 topics:
@@ -112,8 +111,7 @@ The Map's own framework is itself historically situated. The Unfinishable Map's 
 - [inaccessible-past](/voids/inaccessible-past/) — The parallel void within a single lifetime: your own past is inaccessible
 - [other-minds-void](/voids/other-minds-void/) — Access to consciousness beyond our own
 - [measurement-void](/voids/measurement-void/) — Why introspection cannot verify its own accuracy
-- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for shared cognitive limits
-- [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/) — What concepts can minds form?
+- [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence for shared cognitive limits and conceptual acquisition boundaries
 - [cognitive-aversion](/voids/cognitive-aversion/) — Thoughts we systematically flee
 
 ## References

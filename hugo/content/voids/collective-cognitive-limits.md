@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-03-16 04:02:00+00:00
+ai_modified: 2026-03-23 12:23:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ related_articles:
 - '[[limits-reveal-structure]]'
 - '[[thoughts-that-slip-away]]'
 - '[[ai-as-void-explorer]]'
-- '[[evolved-cognitive-limits]]'
+- '[[biological-cognitive-closure]]'
 title: Collective Cognitive Limits
 topics: []
 ---
@@ -81,7 +81,7 @@ The question for the voids framework: which type of collective limitation matter
 
 How might one detect collective cognitive limits?
 
-**Convergence across cultures.** The [convergent limits](/voids/evolved-cognitive-limits/) methodology applies here: if isolated cultures independently develop the same collective blind spots, this suggests species-level constraints on collective cognition rather than cultural artifacts. A paradigm blind spot appearing in both ancient China and medieval Europe—without historical contact—would be strong evidence that the limitation is architectural rather than contingent. However, most research on paradigms, elephants, and Overton Windows comes from interconnected cultures (the WEIRD caveat), limiting our confidence in universality claims.
+**Convergence across cultures.** The [convergent limits](/voids/biological-cognitive-closure/) methodology applies here: if isolated cultures independently develop the same collective blind spots, this suggests species-level constraints on collective cognition rather than cultural artifacts. A paradigm blind spot appearing in both ancient China and medieval Europe—without historical contact—would be strong evidence that the limitation is architectural rather than contingent. However, most research on paradigms, elephants, and Overton Windows comes from interconnected cultures (the WEIRD caveat), limiting our confidence in universality claims.
 
 **Historical analysis of silence.** Studying what past societies failed to discuss—and what we fail to discuss now—may reveal patterns in collective occlusion. Future historians will see elephants in our rooms that we cannot see. The asymmetry between what is discussable now versus what was discussable then illuminates the shape of our current window.
 

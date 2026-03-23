@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-03-17 08:14:00+00:00
+ai_modified: 2026-03-23 12:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,7 @@ related_articles:
 - '[[other-minds-void]]'
 - '[[consciousness-only-territories]]'
 - '[[synesthetic-void]]'
-- '[[architecture-of-cognitive-closure]]'
+- '[[biological-cognitive-closure]]'
 - '[[pre-conceptual-knowing]]'
 title: The Acquaintance Void
 topics:
@@ -104,7 +104,7 @@ This mutual opacity is not merely a practical limitation but a structural featur
 - [other-minds-void](/voids/other-minds-void/) — Access to consciousness beyond our own
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Epistemic territories accessible only through experience
 - [synesthetic-void](/voids/synesthetic-void/) — Phenomenal dimensions closed to most minds within our species
-- [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/) — What concepts minds can and cannot form
+- [biological-cognitive-closure](/voids/biological-cognitive-closure/) — What concepts minds can and cannot form
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — Knowledge before and beyond concepts
 
 ## References

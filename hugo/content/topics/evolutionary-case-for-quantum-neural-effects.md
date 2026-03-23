@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-03-23 06:10:00+00:00
+ai_modified: 2026-03-23 12:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: If evolution optimised quantum effects for bird navigation and enzy
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-23 06:10:00+00:00
+last_deep_review: 2026-03-23 11:06:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -30,7 +30,7 @@ related_articles:
 - '[[comparing-quantum-consciousness-mechanisms]]'
 - '[[quantum-biology-neural-mechanisms-2026-01-24]]'
 - '[[dimensionality-void]]'
-- '[[evolved-cognitive-limits]]'
+- '[[biological-cognitive-closure]]'
 title: The Evolutionary Case for Quantum Neural Effects
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -97,7 +97,9 @@ If quantum effects occur in neural systems—and the [converging evidence](/topi
 
 The strongest objection holds that even if evolution *could* exploit quantum effects in neural systems, [decoherence](/concepts/decoherence/) makes the task enormously harder than in existing quantum biological systems. Magnetoreception operates in the retina—a relatively isolated environment with light-driven chemistry. Neural tissue is warmer, noisier, and more electrochemically active.
 
-This objection has weakened considerably. Revised decoherence estimates for microtubule interiors yield 10-100 microseconds (Hagan et al., 2002)—comparable to radical pair coherence times in cryptochrome—though these estimates come from Hameroff's collaborators and await independent confirmation. More fundamentally, evolution routinely solves problems that appear thermodynamically prohibitive. ATP synthase operates as a molecular rotary motor with near-perfect efficiency. Photosystem II splits water using sunlight. The [Fitness-Beats-Truth theorem](/voids/evolved-cognitive-limits/) offers a relevant caution here: human intuitions about what seems "biologically plausible" are shaped by fitness rather than truth. Our sense that warm biology *should* be classical may reflect cognitive convenience rather than physical reality—precisely the mistake researchers made before quantum effects in photosynthesis and magnetoreception were confirmed.
+This objection has weakened considerably on two fronts. First, revised decoherence estimates for microtubule interiors yield 10-100 microseconds (Hagan et al., 2002)—comparable to radical pair coherence times in cryptochrome—though these estimates come from Hameroff's collaborators and await independent confirmation. Second, several proposed neural quantum mechanisms—ion channel tunnelling, synaptic tunnelling, Posner molecule nuclear spin—operate through discrete quantum events rather than sustained coherence, sidestepping the decoherence barrier entirely (see [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)). The decoherence objection applies unevenly: it constrains theories requiring sustained superposition but leaves discrete-event mechanisms untouched.
+
+More fundamentally, evolution routinely solves problems that appear thermodynamically prohibitive. ATP synthase operates as a molecular rotary motor with near-perfect efficiency. Photosystem II splits water using sunlight. The [Fitness-Beats-Truth theorem](/voids/biological-cognitive-closure/) offers a relevant caution here: human intuitions about what seems "biologically plausible" are shaped by fitness rather than truth. Our sense that warm biology *should* be classical may reflect cognitive convenience rather than physical reality—precisely the mistake researchers made before quantum effects in photosynthesis and magnetoreception were confirmed.
 
 ### Sufficiency of Classical Neural Computation
 
@@ -129,7 +131,7 @@ The evolutionary argument connects to the Map's [tenets](/tenets/) at several po
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If evolution has optimised quantum effects in neural systems, the points of quantum indeterminacy where the Map proposes consciousness acts are not exotic theoretical constructs but evolved biological features—products of billions of years of natural selection, just like the quantum compass in a bird's eye.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The evolutionary argument strengthens the case for bidirectional interaction by establishing that neural quantum effects, if they exist, were shaped by selection for function. A quantum process at the synapse that evolution has optimised for signal control is precisely the kind of interface through which consciousness could influence neural outcomes.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The evolutionary argument strengthens the case for bidirectional interaction by establishing that neural quantum effects, if they exist, were shaped by selection for function. A quantum process at the synapse that evolution has optimised for signal control is precisely the kind of interface through which consciousness could influence neural outcomes. This complements [the evolutionary case for mental causation](/topics/evolutionary-case-for-mental-causation/), which argues from evolutionary logic that consciousness must be causally efficacious. Together, the two arguments suggest that evolution both required consciousness to have causal power and built the quantum substrate through which that power operates.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The history of quantum biology itself illustrates this tenet. The assumption that warm biology must be classical seemed parsimonious until birds turned out to navigate by quantum entanglement. Dismissing quantum neural effects as too complex an evolutionary solution may repeat the same mistake.
 
@@ -143,7 +145,7 @@ The evolutionary argument connects to the Map's [tenets](/tenets/) at several po
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness arose and what selected for it
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — Evaluating competing quantum consciousness theories
 - [dimensionality-void](/voids/dimensionality-void/) — Why binding high-dimensional neural activity into unified experience is harder than it appears
-- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — How fitness-shaped intuitions bias our judgment of biological plausibility
+- [biological-cognitive-closure](/voids/biological-cognitive-closure/) — How fitness-shaped intuitions bias our judgment of biological plausibility
 
 ## References
 

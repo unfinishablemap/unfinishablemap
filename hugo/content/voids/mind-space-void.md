@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-03-17 08:14:00+00:00
+ai_modified: 2026-03-23 12:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,8 +21,7 @@ related_articles:
 - '[[tenets]]'
 - '[[other-minds-void]]'
 - '[[alien-minds-void-explorers]]'
-- '[[evolved-cognitive-limits]]'
-- '[[architecture-of-cognitive-closure]]'
+- '[[biological-cognitive-closure]]'
 - '[[scale-void]]'
 - '[[intrinsic-nature-void]]'
 - '[[indexical-void]]'
@@ -62,7 +61,7 @@ Attempts to give mind-space concrete structure reveal how little we know about i
 
 The framework is valuable as a first step. Under the Map's dualism, however, it is almost certainly incomplete. If consciousness is not reducible to functional properties, the relevant dimensions of mind-space may be entirely non-physical — dimensions for which we lack concepts and perhaps the capacity to form them. The morphospace approach maps what can be measured from outside. Mind-space, if dualism is correct, extends into territory that external measurement cannot reach.
 
-We may not even know how many dimensions mind-space has, let alone our coordinates. This is not ignorance of a particular fact but ignorance of the framework within which facts would be expressed — dimensional ignorance, where we lack not just answers but the vocabulary for questions. The problem connects to [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/): if some concepts are permanently inaccessible to human cognition, the dimensions of mind-space that require those concepts remain permanently unnamed.
+We may not even know how many dimensions mind-space has, let alone our coordinates. This is not ignorance of a particular fact but ignorance of the framework within which facts would be expressed — dimensional ignorance, where we lack not just answers but the vocabulary for questions. The problem connects to [biological-cognitive-closure](/voids/biological-cognitive-closure/): if some concepts are permanently inaccessible to human cognition, the dimensions of mind-space that require those concepts remain permanently unnamed.
 
 ## Phenomenology of the Void
 
@@ -104,8 +103,7 @@ The mind-space void connects to all five of the Map's [tenets](/tenets/).
 - [indexical-void](/voids/indexical-void/) — Why you cannot determine why you are *this* consciousness
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — The characteristic experience of approaching cognitive limits
 - [ai-as-void-explorer](/voids/ai-as-void-explorer/) — Whether AI cognition can probe territories closed to human minds
-- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for species-level cognitive constraints
-- [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/) — Whether some concepts are permanently inaccessible
+- [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence for species-level cognitive constraints and whether some concepts are permanently inaccessible
 - [scale-void](/voids/scale-void/) — How cosmic magnitudes overwhelm intuition
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics describes structure without intrinsic nature
 

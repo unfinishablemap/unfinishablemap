@@ -56,7 +56,7 @@ None.
 
 ### Cross-links Added
 - [dimensionality-void](/voids/dimensionality-void/) — binding problem and neural high-dimensionality
-- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — fitness-shaped plausibility intuitions
+- [evolved-cognitive-limits](/voids/biological-cognitive-closure/) — fitness-shaped plausibility intuitions
 
 ## Remaining Items
 

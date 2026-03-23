@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-23 12:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ related_articles:
 - '[[dualism]]'
 - '[[the-hard-problem-in-non-western-philosophy]]'
 - '[[cross-cultural-phenomenology-of-agency]]'
-- '[[evolved-cognitive-limits]]'
+- '[[biological-cognitive-closure]]'
 - '[[cross-cultural-convergence-on-mental-causation]]'
 - '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
 - '[[methodology-of-consciousness-research]]'
@@ -173,7 +173,7 @@ The Map treats convergence as genuine evidence while acknowledging its limits. C
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — The specific convergence case for dualism
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/) — Survey of how non-Western traditions frame the hard problem
 - [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/) — Cross-cultural invariants in the experience of agency
-- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — How cognitive limits converge across cultures
+- [biological-cognitive-closure](/voids/biological-cognitive-closure/) — How cognitive limits converge across cultures
 - [intuitive-dualism](/concepts/intuitive-dualism/) — Empirical evidence on whether dualism is innate or learned
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Meta-level argument from epistemic humility
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Why parsimony fails in this debate

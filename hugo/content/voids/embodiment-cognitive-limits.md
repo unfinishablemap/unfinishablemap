@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-03-15 15:59:00+00:00
+ai_modified: 2026-03-23 12:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ related_articles:
 - '[[intrinsic-nature-void]]'
 - '[[pre-conceptual-knowing]]'
 - '[[language-thought-boundary]]'
-- '[[evolved-cognitive-limits]]'
+- '[[biological-cognitive-closure]]'
 title: Embodiment and Cognitive Limits
 topics:
 - '[[philosophy-of-mind]]'
@@ -154,7 +154,7 @@ AI's failures—plausible-sounding but wrong responses about physical or emotion
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The structural gap at the heart of physical knowledge
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — Knowledge that precedes conceptual articulation
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where speakable and thinkable part ways
-- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Species-level limits shaped by natural selection rather than individual embodiment
+- [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Species-level limits shaped by natural selection rather than individual embodiment
 
 ## References
 

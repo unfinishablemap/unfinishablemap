@@ -125,7 +125,7 @@ The developmental void is a reminder that the boundaries of thought are not stat
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, occluded
 - [The Expertise Void](/topics/expertise-void/) — How deep skill irreversibly transforms perception
 - [The Limits of Conceptual Acquisition](/voids/architecture-of-cognitive-closure/) — What concepts can minds form?
-- [Evolved Cognitive Limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for shared limits
+- [Evolved Cognitive Limits](/voids/biological-cognitive-closure/) — Cross-cultural evidence for shared limits
 - [Embodiment and Cognitive Limits](/voids/embodiment-cognitive-limits/) — How bodies constrain thought
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
 

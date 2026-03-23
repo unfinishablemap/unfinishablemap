@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-03-22 14:02:00+00:00
+ai_modified: 2026-03-23 12:23:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ related_articles:
 - '[[tenets]]'
 - '[[apophatic-approaches]]'
 - '[[thoughts-that-slip-away]]'
-- '[[architecture-of-cognitive-closure]]'
+- '[[biological-cognitive-closure]]'
 - '[[limits-reveal-structure]]'
 - '[[phenomenology-of-the-edge]]'
 title: The Language-Thought Boundary
@@ -161,7 +161,7 @@ The claim that language and thought have genuinely different limits would be cha
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) — The bidirectional, lossy channel between phenomenal experience and language
 - [Voids in the Map](/voids/) — The broader framework for cognitive limits
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
-- [The Limits of Conceptual Acquisition](/voids/architecture-of-cognitive-closure/) — What concepts cannot be formed
+- [The Limits of Conceptual Acquisition](/voids/biological-cognitive-closure/) — What concepts cannot be formed
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Related phenomena of cognitive slippage
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis

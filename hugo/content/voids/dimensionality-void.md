@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-03-23 03:01:00+00:00
+ai_modified: 2026-03-23 12:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ related_articles:
 - '[[tenets]]'
 - '[[mind-space-void]]'
 - '[[scale-void]]'
-- '[[architecture-of-cognitive-closure]]'
+- '[[biological-cognitive-closure]]'
 - '[[intrinsic-nature-void]]'
 - '[[synesthetic-void]]'
 - '[[framework-void]]'
@@ -94,7 +94,7 @@ The dimensionality void connects directly to the Map's [tenets](/tenets/).
 - [mind-space-void](/voids/mind-space-void/) — Why we cannot locate ourselves in the space of possible minds
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — What matter is in itself, beyond relational description
 - [synesthetic-void](/voids/synesthetic-void/) — Phenomenal dimensions closed to most minds within our species
-- [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/) — Whether some concepts are permanently inaccessible
+- [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Whether some concepts are permanently inaccessible
 - [scale-void](/voids/scale-void/) — How cosmic magnitudes overwhelm intuition
 - [framework-void](/voids/framework-void/) — How conceptual frameworks exclude what they cannot represent
 

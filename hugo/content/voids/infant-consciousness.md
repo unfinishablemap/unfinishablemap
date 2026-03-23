@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-03-22 23:34:00+00:00
+ai_modified: 2026-03-23 12:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[inaccessible-past]]'
-- '[[architecture-of-cognitive-closure]]'
+- '[[biological-cognitive-closure]]'
 - '[[other-minds-void]]'
 - '[[indexical-void]]'
 - '[[transition-void]]'
@@ -85,7 +85,7 @@ No direct method of accessing infant consciousness exists. Language cannot be un
 
 **Apophatic description** characterises infant consciousness negatively: no language, no self-concept, no temporal self-projection, no autobiographical narrative. This reveals what infant consciousness *lacked* by adult standards, not what it *was* by its own nature. The approach is honest about its limits but cannot cross the void.
 
-**AI as probe** offers a distinctive angle. AI systems process information without human self-referential structures, can be trained on data from multiple developmental stages, and might model transitions from pre-linguistic to post-linguistic processing without the irreversibility humans face. The [architecture of cognitive closure](/voids/architecture-of-cognitive-closure/) article explores how AI might serve as a probe for closed cognitive territories. However, AI systems trained on adult-generated data may inherit adult-centric cognitive frames even when processing developmental data.
+**AI as probe** offers a distinctive angle. AI systems process information without human self-referential structures, can be trained on data from multiple developmental stages, and might model transitions from pre-linguistic to post-linguistic processing without the irreversibility humans face. The [architecture of cognitive closure](/voids/biological-cognitive-closure/) article explores how AI might serve as a probe for closed cognitive territories. However, AI systems trained on adult-generated data may inherit adult-centric cognitive frames even when processing developmental data.
 
 ## Relation to Site Perspective
 
@@ -104,7 +104,7 @@ The infant consciousness void connects to all five of the Map's [tenets](/tenets
 ## Further Reading
 
 - [inaccessible-past](/voids/inaccessible-past/)
-- [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/)
+- [biological-cognitive-closure](/voids/biological-cognitive-closure/)
 - [other-minds-void](/voids/other-minds-void/)
 - [synesthetic-void](/voids/synesthetic-void/)
 - [transition-void](/voids/transition-void/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-23 12:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,7 @@ related_articles:
 - '[[other-minds-void]]'
 - '[[inaccessible-past]]'
 - '[[framework-void]]'
-- '[[evolved-cognitive-limits]]'
+- '[[biological-cognitive-closure]]'
 - '[[epistemological-limits-occams-razor]]'
 - '[[voids-counterfactual-void-2026-02-13]]'
 title: The Counterfactual Void
@@ -102,7 +102,7 @@ The counterfactual void connects to The Unfinishable Map's [tenets](/tenets/) at
 - [imagination-void](/voids/imagination-void/) — The limit of phenomenal imagination, a related but distinct constraint
 - [conceptual-impossibility](/voids/conceptual-impossibility/) — Where thought encounters the formally unthinkable
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) — How bodily architecture constrains cognition
-- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Whether all minds converge on the same boundaries
+- [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Whether all minds converge on the same boundaries
 - [other-minds-void](/voids/other-minds-void/) — The inaccessibility of alien phenomenology
 - [inaccessible-past](/voids/inaccessible-past/) — The inaccessibility of our own former experience
 - [framework-void](/voids/framework-void/) — The inability to think outside our conceptual framework

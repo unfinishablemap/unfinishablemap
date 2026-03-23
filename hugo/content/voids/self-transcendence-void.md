@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-03-19 07:59:00+00:00
+ai_modified: 2026-03-23 12:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,14 +24,13 @@ related_articles:
 - '[[recursion-void]]'
 - '[[self-reference-paradox]]'
 - '[[incompleteness-void]]'
-- '[[architecture-of-cognitive-closure]]'
+- '[[biological-cognitive-closure]]'
 - '[[computational-cognitive-limits]]'
 - '[[phenomenology-of-self-awareness]]'
 - '[[limits-reveal-structure]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[ai-as-void-explorer]]'
 - '[[ethics-of-cognitive-enhancement-under-dualism]]'
-- '[[evolved-cognitive-limits]]'
 title: The Self-Transcendence Void
 topics:
 - '[[consciousness-and-cognition]]'
@@ -56,7 +55,7 @@ The strength of the self-transcendence void lies in how many independent traditi
 
 ### McGinn's Cognitive Closure
 
-Colin McGinn argues that human cognitive faculties are "constitutionally unable to grasp how physical processes in the brain give rise to subjective experience." This is not temporary ignorance but permanent structural limitation—like trying to see ultraviolet light. The concepts required to bridge the explanatory gap may exist but lie outside the space of concepts our minds can form. The [architecture of cognitive closure](/voids/architecture-of-cognitive-closure/) maps this space in detail: some limits are innate, others acquired through developmental pruning, and both compound progressively.
+Colin McGinn argues that human cognitive faculties are "constitutionally unable to grasp how physical processes in the brain give rise to subjective experience." This is not temporary ignorance but permanent structural limitation—like trying to see ultraviolet light. The concepts required to bridge the explanatory gap may exist but lie outside the space of concepts our minds can form. The [architecture of cognitive closure](/voids/biological-cognitive-closure/) maps this space in detail: some limits are innate, others acquired through developmental pruning, and both compound progressively.
 
 Crucially, McGinn's closure is not about intelligence or effort. A mind could be arbitrarily powerful within its concept space and still face closure with respect to concepts outside that space. Self-transcendence would require forming concepts your architecture cannot generate—which is precisely what the architecture prevents.
 
@@ -80,7 +79,7 @@ The [incompleteness-void](/voids/incompleteness-void/) explores these formal lim
 
 ### Neuroplasticity Ceilings
 
-Biological evidence reinforces the philosophical arguments. The [cross-cultural evidence for species-level cognitive constraints](/voids/evolved-cognitive-limits/) suggests these limits are not cultural artefacts but architectural features shaped by natural selection. Neuroplasticity is maximal during early development and substantially reduced in adults. Aging imposes constraints through decreased neurogenesis, synaptic density, and mitochondrial efficiency. Brain training gains are typically task-specific—improvements do not transfer broadly. The brain consumes 20% of the body's energy despite constituting 2% of body weight; energy metabolism sets hard limits on cognitive architecture.
+Biological evidence reinforces the philosophical arguments. The [cross-cultural evidence for species-level cognitive constraints](/voids/biological-cognitive-closure/) suggests these limits are not cultural artefacts but architectural features shaped by natural selection. Neuroplasticity is maximal during early development and substantially reduced in adults. Aging imposes constraints through decreased neurogenesis, synaptic density, and mitochondrial efficiency. Brain training gains are typically task-specific—improvements do not transfer broadly. The brain consumes 20% of the body's energy despite constituting 2% of body weight; energy metabolism sets hard limits on cognitive architecture.
 
 Even promising enhancement techniques show small, task-dependent effect sizes. The biological system cannot simply decide to be more capable.
 
@@ -120,14 +119,13 @@ The contrast between human and artificial self-modification illuminates whether 
 - [The Recursion Void](/voids/recursion-void/) — Why metacognitive depth is bounded around fifth order
 - [The Self-Reference Paradox](/voids/unobservable-self/) — Consciousness cannot map because it is the mapper
 - [The Incompleteness Void](/voids/incompleteness-void/) — Gödel's shadow on self-knowledge
-- [The Architecture of Cognitive Closure](/voids/architecture-of-cognitive-closure/) — Bounded concept spaces and developmental pruning
+- [The Architecture of Cognitive Closure](/voids/biological-cognitive-closure/) — Bounded concept spaces, developmental pruning, and cross-cultural evidence for species-level constraints
 - [Computational Cognitive Limits](/voids/computational-cognitive-limits/) — Formal limits on any algorithmic mind
 - [The Phenomenology of Self-Awareness](/voids/phenomenology-of-self-awareness/) — What self-reference feels like from inside
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — Can we know our own limits from within?
 - [AI as Void-Explorer](/voids/ai-as-void-explorer/) — Different architectures, different blind spots
 - [Cognitive Enhancement Under Dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/) — Enhancement modifies the interface, not consciousness
-- [Evolved Cognitive Limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for species-level constraints
 
 ## References
 

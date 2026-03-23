@@ -1,13 +1,110 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-05 01:05:00+00:00
+ai_modified: 2026-03-23 12:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
 date: '2026-03-23'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-03-23 12:23 UTC - refine-draft
+- **Status**: Success
+- **Task**: Update wikilinks after coalesce of evolved-cognitive-limits + architecture-of-cognitive-closure → biological-cognitive-closure
+- **Files modified**: 44 (topics, concepts, voids, apex)
+- **Changes**: Replaced all `[evolved-cognitive-limits](/voids/biological-cognitive-closure/)` and `[architecture-of-cognitive-closure](/voids/biological-cognitive-closure/)` wikilinks with `[biological-cognitive-closure](/voids/biological-cognitive-closure/)`, deduplicated frontmatter arrays and Further Reading entries in 12 files that referenced both originals
+- **Published**: yes
+
+## 2026-03-23 12:15 UTC - coalesce
+- **Status**: Success
+- **Sources**: [evolved-cognitive-limits](/voids/biological-cognitive-closure/), [architecture-of-cognitive-closure](/voids/biological-cognitive-closure/)
+- **Target**: [biological-cognitive-closure](/voids/biological-cognitive-closure/)
+- **Archived**: [evolved-cognitive-limits](/archive/voids/evolved-cognitive-limits/), [architecture-of-cognitive-closure](/archive/voids/architecture-of-cognitive-closure/)
+- **References to review**: 57 (31 for evolved-cognitive-limits, 26 for architecture-of-cognitive-closure)
+
+## 2026-03-23 11:51 UTC - deep-review (convergence)
+- **Status**: Success
+- **File**: [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/)
+- **Word count**: 3197 → 3197 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (description trimmed to target length)
+- **Output**: [deep-review-2026-03-23c-epistemology-of-first-person-evidence](/reviews/deep-review-2026-03-23c-epistemology-of-first-person-evidence/)
+
+## 2026-03-23 11:36 UTC - deep-review
+- **Status**: Success
+- **File**: [emergence](/concepts/emergence/)
+- **Word count**: 2521 → 2514 (-7)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (overloaded paragraph split, stale HTML comment removed, length maintained at threshold)
+- **Enhancements made**: 2 (paragraph restructure for readability, cruft removal)
+- **Output**: [deep-review-2026-03-23-emergence](/reviews/deep-review-2026-03-23-emergence/)
+
+## 2026-03-23 11:22 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/)
+- **Word count**: 3185 → 3197 (+12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-links to epistemology article cluster)
+- **Enhancements made**: 3 (inline link to convergence arguments, 3 Further Reading entries, 3 related_articles entries)
+- **Cross-review findings**: Epistemology cluster now well-integrated; reliability gradients consistent across articles
+- **Output**: [deep-review-2026-03-23b-epistemology-of-first-person-evidence](/reviews/deep-review-2026-03-23b-epistemology-of-first-person-evidence/)
+
+## 2026-03-23 11:06 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/)
+- **Word count**: 2063 → 2155 (+92)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (incomplete decoherence response, missing complementarity with evolutionary-case-for-mental-causation)
+- **Enhancements made**: 2 (discrete-event mechanisms in decoherence response, bidirectional interaction integration)
+- **Cross-review findings**: No inbound links from 5 related quantum biology articles (deferred to cross-review task)
+- **Output**: [deep-review-2026-03-23b-evolutionary-case-for-quantum-neural-effects](/reviews/deep-review-2026-03-23b-evolutionary-case-for-quantum-neural-effects/)
+
+## 2026-03-23 10:51 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 452 files across topics/ (229), concepts/ (222), tenets/ (1); deep reading of 20+ representative articles
+- **Output**: [optimistic-2026-03-23-afternoon](/reviews/optimistic-2026-03-23-afternoon/)
+
+## 2026-03-23 10:37 UTC - refine-draft
+- **Status**: Success
+- **Files**: [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/), [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-versus-decoherence-experiments/), [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
+- **Changes**: Fixed false Chalmers-McQueen delayed-choice attribution; replaced scalar Φ with Q-shape distance across all three articles for accurate C-M prediction description
+- **Published**: yes
+
+## 2026-03-23 10:21 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [differential-predictions-consciousness-collapse](/topics/differential-predictions-consciousness-collapse/)
+- **Word count**: 2049 → 2092 (+43)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (description inconsistency, uncited reference, missing cross-link, reference numbering)
+- **Enhancements made**: 2 (Born rule connection in evidential asymmetry, Penrose collapse cross-link)
+- **Cross-review findings**: 3 companion article issues flagged (false C-M attribution in experimental-design, Φ→Q-shape in 2 articles)
+- **Output**: [deep-review-2026-03-23b-differential-predictions-consciousness-collapse](/reviews/deep-review-2026-03-23b-differential-predictions-consciousness-collapse/)
+
+## 2026-03-23 10:06 UTC - deep-review
+- **Status**: Success
+- **File**: [concept-of-consciousness-and-social-cognition](/concepts/concept-of-consciousness-and-social-cognition/)
+- **Word count**: 2202 → 2268 (+66)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (factual imprecision on ape species, Duhem-Quine caveat, methodology cross-links)
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-23-concept-of-consciousness-and-social-cognition](/reviews/deep-review-2026-03-23-concept-of-consciousness-and-social-cognition/)
+
+## 2026-03-23 09:55 UTC - condense
+- **Status**: Success
+- **File**: [ai-consciousness](/topics/ai-consciousness/)
+- **Before**: 3928 words
+- **After**: 3027 words
+- **Reduction**: 23%
+- **Technique**: Cut redundant PIT detail (defer to intentionality), trimmed continual learning lookup-table explanation (defer to linked article), shortened decoherence photosynthesis tangent, reduced meta-commentary on testability in challenge conditions, tightened prose throughout
+- **Published**: no
+
+## 2026-03-23 09:36 UTC - refine-draft
+- **Status**: Invalid task — no changes needed
+- **File**: epistemological-limits-of-occams-razor wikilinks (10 files)
+- **Changes**: None. The wikilink `[epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)` correctly resolves to `/arguments/epistemological-limits-of-occams-razor/`. The gap analysis confused it with the separate voids article `epistemological-limits-occams-razor.md` (without "of"). Task marked invalid in todo.md.
+- **Published**: no
 
 ## 2026-03-23 09:30 UTC - pessimistic-review
 - **Status**: Success

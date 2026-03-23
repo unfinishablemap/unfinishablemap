@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-23 12:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ related_articles:
 - '[[three-kinds-of-void]]'
 - '[[conceptual-impossibility]]'
 - '[[language-thought-boundary]]'
-- '[[evolved-cognitive-limits]]'
+- '[[biological-cognitive-closure]]'
 - '[[whether-real]]'
 - '[[limits-reveal-structure]]'
 - '[[tenet-generated-voids]]'
@@ -38,7 +38,7 @@ topics:
 - '[[philosophy-of-mind]]'
 ---
 
-The Unfinishable Map's voids section explores cognitive limits — territories that resist understanding. Most voids concern specific failures: the inability to articulate certain experiences ([language-thought-boundary](/voids/language-thought-boundary/)), to conceive of formal contradictions ([conceptual-impossibility](/voids/conceptual-impossibility/)), or to form particular categories ([architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/)). The framework void operates at a different level entirely. It concerns the totality of one's conceptual apparatus — the entire system of concepts, assumptions, and inferential patterns through which one understands anything at all. The framework is not a tool one uses to examine consciousness; it is the lens through which examination occurs. And a lens cannot bring itself into focus.
+The Unfinishable Map's voids section explores cognitive limits — territories that resist understanding. Most voids concern specific failures: the inability to articulate certain experiences ([language-thought-boundary](/voids/language-thought-boundary/)), to conceive of formal contradictions ([conceptual-impossibility](/voids/conceptual-impossibility/)), or to form particular categories ([biological-cognitive-closure](/voids/biological-cognitive-closure/)). The framework void operates at a different level entirely. It concerns the totality of one's conceptual apparatus — the entire system of concepts, assumptions, and inferential patterns through which one understands anything at all. The framework is not a tool one uses to examine consciousness; it is the lens through which examination occurs. And a lens cannot bring itself into focus.
 
 This makes the framework void a kind of meta-void: the condition that generates many of the Map's other cognitive limits. The reason certain thoughts resist articulation, certain categories resist formation, and certain problems resist solution may ultimately be that the framework within which thought occurs excludes what it cannot represent — silently, systematically, and without announcing its own boundaries.
 
@@ -109,7 +109,7 @@ The framework void ultimately suggests that the Map is unfinishable not merely b
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where articulation fails within a framework
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — How the Map's own commitments generate framework-specific blind spots
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — The principle that what we cannot think reveals what kind of minds we are
-- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for species-level framework constraints
+- [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence for species-level framework constraints
 - [ai-as-void-explorer](/voids/ai-as-void-explorer/) — Whether artificial minds can transcend human framework limits
 - [The Social Epistemic Void](/voids/intersubjective-void/) — How social knowledge mechanisms enforce framework constraints on phenomenal reports
 

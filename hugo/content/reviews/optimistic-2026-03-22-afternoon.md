@@ -94,7 +94,7 @@ The Recognition Void's treatment of "inventory blindness"—absent capabilities 
 - **Tenet alignment**: Strengthens Tenet 1 (Dualism) by showing that phenomenal transformations during development do not reduce to neural changes, and Tenet 3 (Bidirectional Interaction) by revealing different modes of consciousness-brain coupling across the lifespan
 
 #### Epistemology of Limit-Knowledge
-- **Builds on**: [convergence-as-evidence](/voids/convergence-as-evidence/), [compound-failure-signatures](/voids/compound-failure-signatures/), [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/), [recognition-void](/voids/recognition-void/)
+- **Builds on**: [convergence-as-evidence](/voids/convergence-as-evidence/), [compound-failure-signatures](/voids/compound-failure-signatures/), [architecture-of-cognitive-closure](/voids/biological-cognitive-closure/), [recognition-void](/voids/recognition-void/)
 - **Would address**: The voids framework has accumulated over 100 articles exploring different cognitive limits, yet the *epistemological* question—how can we have knowledge *about* limits we cannot cross?—has not been systematically treated. How does the Map justify claims about what lies beyond the boundary when the boundary is defined by our inability to access what lies beyond it? The recognition void's "inventory blindness" and the convergence article's abductive argument point toward an answer, but a unified treatment would strengthen the voids project's philosophical foundations.
 - **Estimated scope**: Medium article (1500-2000 words)
 - **Tenet alignment**: Directly serves Tenet 5 (Occam's Razor Has Limits) by showing that knowledge of limits is a distinctive epistemic achievement, not a confession of failure

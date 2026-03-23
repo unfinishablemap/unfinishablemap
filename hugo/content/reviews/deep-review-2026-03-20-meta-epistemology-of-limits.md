@@ -63,7 +63,7 @@ Updated across 31 content files including:
 - [cognitive-closure](/concepts/cognitive-closure/) — frontmatter + 1 body link
 - [taxonomy-of-voids](/apex/taxonomy-of-voids/) — apex_sources + 2 body links
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — frontmatter + 1 body link
-- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — frontmatter + 2 body links
+- [evolved-cognitive-limits](/voids/biological-cognitive-closure/) — frontmatter + 2 body links
 - [simulation](/concepts/simulation/) — frontmatter + 2 body links
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — frontmatter + 2 body links
 - [self-transcendence-void](/voids/self-transcendence-void/) — frontmatter + 2 body links

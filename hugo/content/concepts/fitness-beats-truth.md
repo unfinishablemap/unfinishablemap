@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-03-15 17:29:00+00:00
+ai_modified: 2026-03-23 12:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,7 +17,7 @@ last_curated: null
 last_deep_review: 2026-03-15 17:29:00+00:00
 modified: *id001
 related_articles:
-- '[[evolved-cognitive-limits]]'
+- '[[biological-cognitive-closure]]'
 - '[[phenomenal-transparency]]'
 - '[[perceptual-failure-and-the-interface]]'
 - '[[probability-intuition-void]]'
@@ -83,13 +83,13 @@ Together with the FBT theorem, these results establish that evolved cognitive sy
 
 The FBT theorem bears most directly on **[Occam's Razor Has Limits](/tenets/#occams-limits)**. If our perceptual and cognitive systems were tuned by evolution for fitness rather than truth, then our intuitions about which explanations are "simpler" or "more parsimonious" are outputs of a fitness-optimised system rather than reliable reports on the structure of reality. The common objection that dualism is less parsimonious than materialism assumes we can judge parsimony accurately. The FBT theorem provides formal grounds to doubt this assumption—not by showing that parsimony judgments are *wrong*, but by showing that the system generating them was shaped by a process indifferent to truth.
 
-The theorem also connects to **[Dualism](/tenets/#dualism)** through [the evolved cognitive limits framework](/voids/evolved-cognitive-limits/). If the brain is an organ shaped by natural selection for physical-world navigation, and if that shaping systematically favoured fitness over truth, then the brain may be precisely the wrong instrument for understanding consciousness—a phenomenon that, if dualism holds, is not a physical-world feature at all. The persistent difficulty of the [hard problem](/topics/hard-problem-of-consciousness/) may reflect not the hardness of the question but the unsuitability of the instrument asking it.
+The theorem also connects to **[Dualism](/tenets/#dualism)** through [the evolved cognitive limits framework](/voids/biological-cognitive-closure/). If the brain is an organ shaped by natural selection for physical-world navigation, and if that shaping systematically favoured fitness over truth, then the brain may be precisely the wrong instrument for understanding consciousness—a phenomenon that, if dualism holds, is not a physical-world feature at all. The persistent difficulty of the [hard problem](/topics/hard-problem-of-consciousness/) may reflect not the hardness of the question but the unsuitability of the instrument asking it.
 
 For **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**, the FBT theorem raises the possibility that the mechanism by which consciousness influences physical outcomes is among the things our fitness-tuned perception is shaped *not* to detect. If perceiving the mind-brain interface accurately conferred no survival advantage—or actively reduced fitness by disrupting automatic processes—evolution would have selected against that transparency. The [phenomenal transparency](/concepts/phenomenal-transparency/) of experience may be a fitness-serving feature rather than a neutral fact about consciousness.
 
 ## Further Reading
 
-- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — How cognitive limits function as adaptive features shaped by natural selection
+- [biological-cognitive-closure](/voids/biological-cognitive-closure/) — How cognitive limits function as adaptive features shaped by natural selection
 - [phenomenal-transparency](/concepts/phenomenal-transparency/) — Why experience conceals its own representational character
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — Perceptual failure analysed through Hoffman's interface framework
 - [probability-intuition-void](/voids/probability-intuition-void/) — How fitness-tuned cognition distorts probabilistic reasoning

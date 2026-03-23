@@ -65,7 +65,7 @@ None. The article remains philosophically sound.
 
 - [synesthetic-void](/voids/synesthetic-void/)
 - [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/)
-- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/)
+- [evolved-cognitive-limits](/voids/biological-cognitive-closure/)
 - [the-silence-void](/voids/the-silence-void/)
 
 ## Word Count

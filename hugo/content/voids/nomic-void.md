@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-23 12:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ related_articles:
 - '[[embodiment-cognitive-limits]]'
 - '[[emergence-void]]'
 - '[[intrinsic-nature-void]]'
-- '[[evolved-cognitive-limits]]'
+- '[[biological-cognitive-closure]]'
 - '[[alien-minds-void-explorers]]'
 - '[[framework-void]]'
 - '[[what-consciousness-tells-us-about-physics]]'
@@ -101,7 +101,7 @@ Unlike the [computational void](/voids/computational-cognitive-limits/), which i
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) — How bodies constrain thought
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — What matter is in itself—beyond relational description
 - [emergence-void](/voids/emergence-void/) — The gap at every level transition
-- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for shared limits
+- [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence for shared limits
 - [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) — Non-human perspectives on cognitive space
 - [framework-void](/voids/framework-void/) — The circularity of frameworks understanding themselves
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: the laws of physics constrain what a deeper bi-aspectual theory would need to explain
