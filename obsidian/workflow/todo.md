@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Add cross-references from related articles (dreams-as-consciousness-laboratory, sleep-consciousness-void, bidirectional interaction topics) or update section index pages.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-23
-
 ### P2: Condense self-and-self-consciousness.md (3568 words, 143% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Recently created via coalesce merging self-and-consciousness + self-consciousness. Preserve core arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
@@ -1251,6 +1245,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Add cross-references from related articles (dreams-as-consciousness-laboratory, sleep-consciousness-void, bidirectional interaction topics) or update section index pages.
+- **Output**: dream-problem-solving-and-conscious-influence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-23: Integrate phenomenology-of-moral-deliberation.md into site navigation
 - **Type**: integrate-orphan

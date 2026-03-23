@@ -5,6 +5,11 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 20:44 UTC - deep-review
+- **Status**: Skipped (archived file, terminal stability)
+- **File**: [[dream-problem-solving-and-conscious-influence]] (archived 2026-03-15; coalesced into [[dream-consciousness]])
+- **Notes**: File has reached terminal stability per 2026-03-19 review. Orphan status is expected for archived files. Successor article dream-consciousness.md already has 10+ inbound cross-references.
+
 ## 2026-03-23 20:30 UTC - deep-review
 - **Status**: Redirected (archived file → successor integration)
 - **File**: [[phenomenology-of-moral-deliberation]] (archived; successor: [[phenomenology-of-moral-life]])
