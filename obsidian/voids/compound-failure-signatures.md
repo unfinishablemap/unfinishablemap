@@ -4,7 +4,7 @@ description: "Cognitive limits produce structured failure signatures that map vo
 created: 2026-01-29
 modified: 2026-03-19
 human_modified: null
-ai_modified: 2026-03-22T23:34:00+00:00
+ai_modified: 2026-03-23T02:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,7 +51,7 @@ This is [[apophatic-cartography|apophatic cartography]] at its most systematic: 
 
 Multiple philosophical and empirical traditions converge on the insight that failures are not mere obstacles but data. Wittgenstein's ladder points toward what cannot be said—the propositions that would express the limit undermine themselves. Socratic aporia produces a characteristic phenomenology of impasse distinct from ordinary confusion. Introspection fails in systematic ways that reveal the architecture of self-access. Judgment illusions recur because cognition is pattern-based, not logic-based.
 
-The consistency across these domains suggests a principle: **the structure of failure reflects the structure of what causes it**. A wall leaves a different bruise than a fall. Cognitive limits leave different signatures than cognitive difficulties.
+The consistency across these domains suggests a principle: **the structure of failure reflects the structure of what causes it**. A wall leaves a different bruise than a fall. Cognitive limits leave different signatures than cognitive difficulties. The [[epistemology-of-limit-knowledge|epistemology of limit-knowledge]] identifies failure analysis as one of four distinct epistemic methods for generating warranted beliefs about cognitive boundaries, producing *diagnostic knowledge* through abductive inference.
 
 ## A Taxonomy of Failure Signatures
 

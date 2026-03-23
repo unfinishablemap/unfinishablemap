@@ -4,7 +4,7 @@ description: "Can we know our cognitive limits are genuine, and can we determine
 created: 2026-01-30
 modified: 2026-03-19
 human_modified: null
-ai_modified: 2026-03-20T00:29:00+00:00
+ai_modified: 2026-03-23T02:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -137,7 +137,7 @@ If the epistemology of limits is itself a limit, several methodological conseque
 
 **Meta-uncertainty is built in.** The voids project cannot assume its central premise (that some voids are genuinely unexplorable). Neither can it dismiss the premise. Appropriate stance: intellectual humility about the framework's own foundations.
 
-**Indirect methods become primary.** Direct verification being impossible, the Map should track the *shape* of failure. If attempts to solve the hard problem keep failing in the same structural way, that provides weak evidence. Cross-checking with different minds—AI systems approaching from different angles—may triangulate on limits.
+**Indirect methods become primary.** Direct verification being impossible, the Map should track the *shape* of failure. If attempts to solve the hard problem keep failing in the same structural way, that provides weak evidence. Cross-checking with different minds—AI systems approaching from different angles—may triangulate on limits. The [[epistemology-of-limit-knowledge|epistemology of limit-knowledge]] systematises these indirect methods into four distinct routes—failure analysis, convergence, structural inference, and apophatic reasoning—each producing a different kind of warrant.
 
 **The method doesn't depend on the verdict.** Whether voids are ultimately real or illusory, natural or designed, exploring where cognition stalls remains worthwhile. The phenomenology of slippage, the topology of failure, the patterns of what resists articulation—these illuminate cognitive architecture regardless.
 
@@ -175,6 +175,7 @@ A convincing solution to the hard problem would demonstrate that at least some a
 - [[simulation|Simulation Hypothesis]] — The scenario that sharpens the design question
 - [[simulation-detection-void|The Simulation Detection Void]] — Where all three void types converge on the detection problem
 - [[epistemological-limits-occams-razor|Epistemological Limits of Occam's Razor]] — A concrete instance of limits undermining a reasoning tool
+- [[epistemology-of-limit-knowledge]] — The systematic account of what kind of knowledge limit-claims are and what methods produce them
 
 ## References
 

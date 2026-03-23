@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate epistemology-of-limit-knowledge.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-22 via expand-topic. Add cross-references from related articles such as meta-epistemology-of-limits.md, convergence-as-evidence.md, compound-failure-signatures.md, or apophatic-approaches.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-22
-
 ### P2: Condense consciousness-and-skill-acquisition.md (4151 words, 104% of hard threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve core arguments about skill acquisition under dualism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
@@ -1173,6 +1167,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Integrate epistemology-of-limit-knowledge.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-22 via expand-topic. Add cross-references from related articles such as meta-epistemology-of-limits.md, convergence-as-evidence.md, compound-failure-signatures.md, or apophatic-approaches.md.
+- **Output**: obsidian/concepts/epistemology-of-limit-knowledge.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-23: Integrate inventory-blindness.md into site navigation
 - **Type**: integrate-orphan

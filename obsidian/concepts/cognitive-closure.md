@@ -4,7 +4,7 @@ description: "Human+AI analysis of cognitive closure—the thesis that certain p
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-23T00:21:00+00:00
+ai_modified: 2026-03-23T02:09:00+00:00
 last_deep_review: 2026-03-23T00:21:00+00:00
 draft: false
 topics:
@@ -120,7 +120,7 @@ Not all closures have a phenomenology. [[architecture-of-cognitive-closure|Devel
 
 Cognitive closure connects to the Map's framework primarily through the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet. If human minds are cognitively closed with respect to the property linking consciousness to brain, then our intuitions about explanatory simplicity are unreliable in precisely this domain. The apparent simplicity of [[concepts/materialism]] might reflect cognitive limitation rather than ontological insight—parsimony feels compelling because we cannot conceive the alternatives, not because they do not exist.
 
-The Map goes further than McGinn. Where McGinn remains officially neutral on ontology—the solution might be physicalist, dualist, or something inconceivable—the Map commits to [[tenets#^dualism|dualism]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]]. Cognitive closure explains why conclusive proof for these commitments may never arrive, even if they are correct. The Map treats them as working commitments held with epistemic humility, and cognitive closure is part of why that humility is warranted.
+The Map goes further than McGinn. Where McGinn remains officially neutral on ontology—the solution might be physicalist, dualist, or something inconceivable—the Map commits to [[tenets#^dualism|dualism]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]]. Cognitive closure explains why conclusive proof for these commitments may never arrive, even if they are correct. The Map treats them as working commitments held with epistemic humility, and cognitive closure is part of why that humility is warranted. The [[epistemology-of-limit-knowledge|epistemology of limit-knowledge]] provides the systematic account of what kind of knowledge these commitments represent and what warrant structures support them.
 
 The [[voids]] framework operationalises cognitive closure. Rather than treating it as a reason for despair, the Map uses it as a method: by mapping *where* thought systematically fails, we trace the architecture of the thinker. [[apophatic-approaches|Apophatic approaches]] — methods of inquiry through systematic negation — provide the disciplined toolkit for this work, treating each failed positive explanation as data that constrains what remains. As [[limits-reveal-structure]] argues, the shape of our limitations is as informative about cognitive architecture as the shape of our successes.
 
@@ -141,6 +141,7 @@ The [[voids]] framework operationalises cognitive closure. Rather than treating 
 - [[whether-real]] — Can we determine if cognitive limits are genuine or apparent?
 - [[self-transcendence-void]] — Why consciousness cannot bootstrap beyond its own architecture
 - [[apophatic-approaches]] — Methods of inquiry through negation that cognitive closure motivates
+- [[epistemology-of-limit-knowledge]] — The systematic study of what kind of knowledge claims about cognitive limits are and what warrant structures support them
 - [[mathematical-knowledge-and-insight]] — How mathematical understanding illustrates the boundary between transparent and opaque cognition
 - [[voids]] — The Map's framework for approaching what resists understanding
 

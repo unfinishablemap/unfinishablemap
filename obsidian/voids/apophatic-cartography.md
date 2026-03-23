@@ -3,7 +3,7 @@ title: "Apophatic Cartography: Mapping What Cannot Be Mapped"
 created: 2026-01-10
 modified: 2026-03-03
 human_modified: null
-ai_modified: 2026-03-19T02:21:06+00:00
+ai_modified: 2026-03-23T02:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -61,7 +61,7 @@ This aligns with Chomsky's distinction between "problems" (questions our minds a
 
 ## Four Criteria for Boundary Evidence
 
-Traditions demonstrate that negation can be productive, and the failure taxonomy shows that different limits produce different breakdown patterns. But raw materials are not a method. Void-mapping requires explicit evidential standards for when cognitive failure counts as data about genuine boundaries.
+Traditions demonstrate that negation can be productive, and the failure taxonomy shows that different limits produce different breakdown patterns. But raw materials are not a method. Void-mapping requires explicit evidential standards for when cognitive failure counts as data about genuine boundaries. The [[epistemology-of-limit-knowledge|epistemology of limit-knowledge]] provides the broader framework: apophatic reasoning is one of four distinct epistemic methods for generating warranted beliefs about cognitive boundaries, producing *contour knowledge* through eliminative inference.
 
 ### Structured Persistence
 
@@ -178,6 +178,7 @@ Apophatic cartography connects to the Map's [[tenets]] by providing the methodol
 - [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — Formal framework for reasoning about limits
 - [[ai-as-void-explorer|AI as Void Explorer]] — Using artificial minds as cartographic instruments
 - [[the-silence-void|The Silence Void]] — Where even negation must cease
+- [[epistemology-of-limit-knowledge]] — The systematic epistemology underlying all four methods that produce warranted limit-knowledge
 - [[illusionism|Illusionism]] — The radical challenge that phenomenal consciousness doesn't exist
 - [[introspection|Introspection and First-Person Methods]] — The reliability of phenomenal access
 - [[decoherence|Decoherence and Quantum Biology]] — How quantum effects might survive in biological systems
