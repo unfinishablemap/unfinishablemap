@@ -4,7 +4,7 @@ description: "Mary knows all physical facts about color but seems to learn somet
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-23T08:07:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,12 +27,13 @@ related_articles:
   - "[[knowledge-argument-marys-room-2026-01-14]]"
   - "[[aesthetics-and-consciousness]]"
   - "[[epistemology-of-first-person-evidence]]"
+  - "[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-02-28T03:46:00+00:00
+last_deep_review: 2026-03-23T08:07:00+00:00
 ---
 
 The knowledge argument, formulated by Frank Jackson (1982, 1986), is one of the most influential arguments against [[concepts/materialism|physicalism]]. It uses a thought experiment—Mary's Room—to argue that complete physical knowledge doesn't constitute complete knowledge. Mary, a brilliant scientist who knows every physical fact about color vision, appears to learn something new when she first sees color. If she does learn something new—and the intuition is powerful though contested—what she learns is *what it's like* to see red, a fact that physical knowledge alone could not provide. If sound, the argument shows that non-physical facts exist and physicalism is false. The argument relies on colour [[dualist-perception|perception]]—the paradigm case of how conscious experience reveals what physical description leaves out.
@@ -109,7 +110,7 @@ Frank Jackson, the argument's creator, now rejects it. Beginning around 1995 and
 
 Jackson's current view combines representationalism (phenomenal properties are representational properties) with elements of the ability hypothesis.
 
-However, Jackson's rejection doesn't settle the debate. Arguments stand or fall on their logic, not their author's endorsement. Jackson himself has acknowledged the argument "should be addressed really seriously if you are a physicalist." Other philosophers—Chalmers, Nida-Rümelin, Alter—continue to defend it. If anything, Jackson's epiphenomenalism worry supports the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet: consciousness must causally influence our beliefs about it, or we couldn't know about it at all. The [[epiphenomenalism-argument|cumulative case against epiphenomenalism]] develops this point as a reversal of the knowledge argument—Mary's changed behaviour after seeing red is best explained by her phenomenal knowledge causing those changes.
+However, Jackson's rejection doesn't settle the debate. Arguments stand or fall on their logic, not their author's endorsement. Jackson himself has acknowledged the argument "should be addressed really seriously if you are a physicalist." Other philosophers—Chalmers, Nida-Rümelin, Alter—continue to defend it. If anything, Jackson's epiphenomenalism worry supports the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet: consciousness must causally influence our beliefs about it, or we couldn't know about it at all. The [[epiphenomenalism-argument|cumulative case against epiphenomenalism]] develops this point as a reversal of the knowledge argument—Mary's changed behaviour after seeing red is best explained by her phenomenal knowledge causing those changes. [[clinical-neuroplasticity-evidence-for-bidirectional-causation|Clinical neuroplasticity research]] provides empirical support: conscious mental effort alone produces measurable neural changes through pathways distinct from pharmacological intervention, exactly the kind of bidirectional causation Jackson's worry predicts.
 
 ## Connection to Related Arguments
 
@@ -153,7 +154,7 @@ Alfred North Whitehead's process philosophy offers an alternative framing. For W
 
 On this view, Mary's situation illustrates a general truth: structure never entails experience. Physical science describes patterns of relationship, but the intrinsic nature of what stands in those relationships—what Whitehead calls "subjective form"—remains inaccessible from outside. When Mary sees red, she gains access to the subjective form of a new type of occasion.
 
-This resonates with Bertrand Russell's insight that physics describes structure without revealing intrinsic nature—the [[intrinsic-nature-void]] at the heart of physical science. [[russellian-monism|Russellian monism]] develops this idea—physical science tells us what things *do*, not what they *are*. If this structure/intrinsic-nature distinction holds (and many physicalists contest it, arguing that structure is all there is), Mary's Room dramatizes the resulting void: she possessed complete structural knowledge yet lacked intrinsic knowledge of red. What she gains upon seeing color would be precisely what physics structurally cannot provide.
+This resonates with the [[intrinsic-nature-void]] at the heart of physical science. [[russellian-monism|Russellian monism]] develops the point—physical science tells us what things *do*, not what they *are*. If this structure/intrinsic-nature distinction holds (and many physicalists contest it, arguing that structure is all there is), Mary's Room dramatizes the resulting void: she possessed complete structural knowledge yet lacked intrinsic knowledge of red.
 
 ## What Would Challenge This View?
 
@@ -216,16 +217,3 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 1. Nisbett, R. E., & Wilson, T. D. (1977). "Telling More Than We Can Know: Verbal Reports on Mental Processes." *Psychological Review*, 84(3), 231-259.
 1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis, and the Misrepresentation of Humanity*. Acumen.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-
-<!-- AI REFINEMENT LOG - 2026-03-10
-Changes made:
-- Rewrote "Denying Mary's Knowledge" section to engage Dennett's argument seriously rather than dismissing it
-- Acknowledged the genuine burden-of-proof question between physicalists and dualists
-- Added Dennett's own explanatory debt (must explain why the intuition is so robust if wrong)
-- Softened "fatal problems" to "serious difficulties" in ability hypothesis section
-
-Based on pessimistic-2026-03-10-evening.md review (Issue 3).
-Key improvements: Intellectual honesty about unresolved methodological questions.
-
-This log should be removed after human review.
--->

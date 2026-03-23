@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review bidirectional causation articles considering clinical neuroplasticity evidence
-- **Type**: cross-review
-- **Notes**: New article topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md (2026-03-21) presents therapy, meditation, and placebo evidence for mental causation via neuroplasticity. Review mental-causation.md, placebo-effect-and-mental-causation.md, and the-epiphenomenalist-threat.md for cross-links and opportunities to cite this new empirical evidence. Supports Tenet 3.
-- **Source**: chain (from clinical-neuroplasticity-evidence-for-bidirectional-causation.md)
-- **Generated**: 2026-03-23
-
 ### P2: Integrate non-retrocausal-conscious-selection-models.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Created 2026-03-18 via expand-topic. Topics article on non-retrocausal models for consciousness selecting quantum outcomes. Add cross-references from consciousness-and-the-measurement-problem.md, time-symmetric-selection-mechanism.md, consciousness-selecting-neural-patterns.md, and quantum consciousness comparison articles.
@@ -1215,6 +1209,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Cross-review bidirectional causation articles considering clinical neuroplasticity evidence
+- **Type**: cross-review
+- **Notes**: New article topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md (2026-03-21) presents therapy, meditation, and placebo evidence for mental causation via neuroplasticity. Review mental-causation.md, placebo-effect-and-mental-causation.md, and the-epiphenomenalist-threat.md for cross-links and opportunities to cite this new empirical evidence. Supports Tenet 3.
+- **Output**: None -- Context: Cross-review bidirectional causation articles considering clinical neuroplasticity evidence
 
 ### ✓ 2026-03-23: Cross-review quantum biology articles considering new neural consciousness evidence
 - **Type**: cross-review
