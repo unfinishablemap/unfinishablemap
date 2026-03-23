@@ -12,6 +12,7 @@ topics:
   - "[[phenomenology-of-moral-life]]"
   - "[[consciousness-and-moral-agency-under-duress]]"
 concepts:
+  - "[[concept-of-free-will]]"
   - "[[agent-causation]]"
   - "[[moral-responsibility]]"
   - "[[mental-causation]]"

@@ -10,6 +10,7 @@ topics:
   - "[[topics/free-will]]"
   - "[[meaning-of-life]]"
 concepts:
+  - "[[concept-of-free-will]]"
   - "[[existentialism]]"
   - "[[phenomenology-of-choice]]"
   - "[[agent-causation]]"

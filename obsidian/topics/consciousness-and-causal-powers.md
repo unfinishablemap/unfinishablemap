@@ -11,6 +11,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
 concepts:
+  - "[[concept-of-free-will]]"
   - "[[mental-causation]]"
   - "[[downward-causation]]"
   - "[[interactionist-dualism]]"

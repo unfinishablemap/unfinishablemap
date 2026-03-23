@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate concept-of-free-will.md into site navigation (persistent orphan)
-- **Type**: integrate-orphan
-- **Notes**: File still has no inbound links despite prior integration attempt (2026-02-22). Core concept page for the Map — free will is central to Tenet 3 (Bidirectional Interaction). Needs aggressive cross-referencing: ensure free-will.md, agent-causation.md, moral-responsibility.md, libertarian-free-will.md, phenomenology-of-volition.md, and deliberation articles all link to this concept page. Check that wikilinks use the correct slug.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-23
-
 ### P2: Integrate the-participatory-universe.md into site navigation (persistent orphan)
 - **Type**: integrate-orphan
 - **Notes**: File still has no inbound links despite prior integration attempt (2026-02-22). Wheeler's participatory universe is directly relevant to the Map's consciousness-collapse framework and Tenet 2. Needs cross-references from quantum-consciousness.md, observer-dependence.md, measurement-problem.md, collapse-interpretation articles, and the reverse-inference apex. Verify existing links weren't broken by coalescing.
@@ -1185,6 +1179,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Integrate concept-of-free-will.md into site navigation (persistent orphan)
+- **Type**: integrate-orphan
+- **Notes**: File still has no inbound links despite prior integration attempt (2026-02-22). Core concept page for the Map — free will is central to Tenet 3 (Bidirectional Interaction). Needs aggressive cross-referencing: ensure free-will.md, agent-causation.md, moral-responsibility.md, libertarian-free-will.md, phenomenology-of-volition.md, and deliberation articles all link to this concept page. Check that wikilinks use the correct slug.
+- **Output**: obsidian/concepts/concept-of-free-will.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-23: Strengthen convergence argument and address sociological framing in arguments-against-materialism.md
 - **Type**: refine-draft

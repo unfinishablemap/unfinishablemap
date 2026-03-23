@@ -4,8 +4,8 @@ description: "Free will as the capacity for genuine authorship of choices. The U
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-03-21T09:39:00+00:00
-last_deep_review: 2026-03-21T09:39:00+00:00
+ai_modified: 2026-03-23T03:37:00+00:00
+last_deep_review: 2026-03-23T03:37:00+00:00
 draft: false
 topics:
   - "[[topics/free-will|Free Will and Determinism]]"

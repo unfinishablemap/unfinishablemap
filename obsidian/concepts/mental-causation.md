@@ -174,7 +174,7 @@ Mental causation is central to the Map's framework.
 
 ## Why This Matters
 
-Mental causation bears directly on [[topics/free-will|free will]] (consciousness must cause choices for agency to be real), [[moral-implications-of-genuine-agency|moral responsibility]] (blame and praise assume conscious states cause actions), and rationality (beliefs about consciousness must be caused by consciousness to be knowledge).
+Mental causation bears directly on [[concept-of-free-will|free will]] (consciousness must cause choices for agency to be real), [[moral-implications-of-genuine-agency|moral responsibility]] (blame and praise assume conscious states cause actions), and rationality (beliefs about consciousness must be caused by consciousness to be knowledge).
 
 ## What Would Challenge This View?
 

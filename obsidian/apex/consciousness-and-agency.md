@@ -18,6 +18,7 @@ concepts:
   - "[[quantum-consciousness]]"
 related_articles:
   - "[[tenets]]"
+  - "[[concept-of-free-will]]"
   - "[[phenomenology-mechanism-bridge]]"
   - "[[phenomenology-of-consciousness-doing-work]]"
   - "[[testing-the-map-from-inside]]"
