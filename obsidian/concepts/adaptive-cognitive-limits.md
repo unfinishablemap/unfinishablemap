@@ -4,7 +4,7 @@ description: "Human-AI inquiry into cognitive limits as evolutionary features �
 created: 2026-03-23
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-03-23T18:16:00+00:00
+ai_modified: 2026-03-23T19:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,17 +13,19 @@ concepts:
   - "[[phenomenology]]"
 related_articles:
   - "[[voids]]"
-  - "[[evolved-cognitive-limits]]"
+  - "[[biological-cognitive-closure]]"
   - "[[cognitive-aversion]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[three-kinds-of-void]]"
-  - "[[topology-of-cognitive-failure]]"
+  - "[[compound-failure-signatures]]"
+  - "[[perceptual-degradation-and-the-interface]]"
   - "[[limits-reveal-structure]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-23
 last_curated:
+last_deep_review: 2026-03-23T19:14:00+00:00
 ---
 
 Adaptive cognitive limits are cognitive boundaries maintained by natural selection because ignorance itself conferred fitness advantage. The Unfinishable Map distinguishes these from architectural limits (what our minds structurally cannot reach) and deliberate occlusion (what might be hidden by design). Adaptive limits occupy a distinct category: the mind *could* in principle access the blocked territory, but evolution shaped it not to, because not-knowing improved survival. This concept is central to the Map's [[voids]] framework, where it identifies a class of "naturally occluded" voids — blind spots that are features, not defects.
@@ -44,7 +46,7 @@ The FBT theorem addresses perception, but adaptive limits extend across cognitiv
 
 **Strategic self-opacity.** Robert Trivers argues that self-deception evolved to facilitate interpersonal deception: "we deceive ourselves the better to deceive others" (Trivers & von Hippel 2011). Some truths are actively hidden from consciousness — not merely unperceived but suppressed — because transparency would compromise social strategies.
 
-**Negative information value.** Field, Lachmann, and Bergstrom (2018) prove formally that the reproductive value of information can become negative: "an organism that remains ignorant will have higher fitness." Under realistic cost conditions, acquiring information reduces survival prospects.
+**Negative information value.** Field and Bonsall (2018) prove formally that the reproductive value of information can become negative — under realistic cost conditions, an organism that remains ignorant will have higher fitness. Acquiring information reduces survival prospects.
 
 **Epistemic virtue of limitation.** Benjamin Rancourt (2025) argues that cognitive limitations are prerequisites for epistemic agency, not obstacles to it. Without them, deliberation could never close — our limitations prevent us from "considering all possible doubt, leaving a tractable space of possibilities."
 
@@ -78,9 +80,9 @@ The naturally occluded occupy a space where ignorance had positive fitness value
 
 Identifying adaptive limits requires indirect approaches, since the cognitive system shaped to maintain them is the same system that would need to detect them:
 
-**Mathematical analysis.** Hoffman's and Field et al.'s work demonstrates that formal methods can identify the *existence* of adaptive limits without requiring us to see through them.
+**Mathematical analysis.** Hoffman's and Field and Bonsall's work demonstrates that formal methods can identify the *existence* of adaptive limits without requiring us to see through them.
 
-**Cross-cultural convergence.** If a cognitive limit appears universally across isolated cultures, this is evidence for deep evolutionary origin rather than contingent ignorance. The Map's [[evolved-cognitive-limits]] article develops this approach through the convergence methodology.
+**Cross-cultural convergence.** If a cognitive limit appears universally across isolated cultures, this is evidence for deep evolutionary origin rather than contingent ignorance. The Map's [[biological-cognitive-closure]] article develops this approach through the convergence methodology.
 
 **AI probes.** AI systems were not shaped by biological evolution and lack the specific blind spots natural selection maintained. They may reveal aspects of reality that the human interface hides — while humans can identify AI-specific limits emerging from training dynamics.
 
@@ -96,19 +98,20 @@ A bootstrapping problem remains: if philosophical intuitions are fitness-shaped,
 
 ## Further Reading
 
-- [[evolved-cognitive-limits]] — Cross-cultural convergence evidence for species-level cognitive limits
+- [[biological-cognitive-closure]] — How evolution produces cognitive closure through biological mechanisms
 - [[cognitive-aversion]] — The motivational deflection that steers thought away from certain territories
 - [[meta-epistemology-of-limits]] — Whether we can distinguish genuine closure from difficult problems
 - [[three-kinds-of-void]] — The taxonomy adaptive limits refine
-- [[topology-of-cognitive-failure]] — Mapping different modes of cognitive failure
+- [[compound-failure-signatures]] — Mapping different modes of cognitive failure
+- [[perceptual-degradation-and-the-interface]] — How Hoffman's interface theory connects to perceptual breakdown
 
 ## References
 
 1. Hoffman, D. D., Singh, M., & Prakash, C. (2015). The Interface Theory of Perception. *Psychonomic Bulletin & Review*, 22(6), 1480-1506.
 1. Prakash, C., Stephens, K. D., Hoffman, D. D., Singh, M., & Fields, C. (2021). Fitness Beats Truth in the Evolution of Perception. *Psychonomic Bulletin & Review*, 28, 1-17.
-1. Gigerenzer, G., & Todd, P. M. (2012). *Ecological Rationality: Intelligence in the World*. Oxford University Press.
-1. Trivers, R., & von Hippel, W. (2011). The evolution and psychology of self-deception. *Behavioral and Brain Sciences*, 34(1), 1-16.
-1. Field, M. H., Lachmann, M., & Bergstrom, C. T. (2018). Ignorance can be evolutionarily beneficial. *Ecology and Evolution*, 8(2), 1352-1359.
+1. Todd, P. M., & Gigerenzer, G. (2012). *Ecological Rationality: Intelligence in the World*. Oxford University Press.
+1. von Hippel, W., & Trivers, R. (2011). The evolution and psychology of self-deception. *Behavioral and Brain Sciences*, 34(1), 1-16.
+1. Field, J. M., & Bonsall, M. B. (2018). Ignorance can be evolutionarily beneficial. *Ecology and Evolution*, 8(1), 71-77.
 1. McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.
 1. Rancourt, B. T. (2025). The virtue of ignorance: How epistemic agency needs cognitive limitations. *The Southern Journal of Philosophy*, 62.
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-31). Three Kinds of Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/three-kinds-of-void/
