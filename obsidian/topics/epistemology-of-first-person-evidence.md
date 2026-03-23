@@ -3,7 +3,7 @@ title: "The Epistemology of First-Person Evidence"
 created: 2026-02-11
 modified: 2026-03-23
 human_modified: null
-ai_modified: 2026-03-23T11:51:00+00:00
+ai_modified: 2026-03-23T17:09:00+00:00
 draft: false
 description: "What introspection provides, how reliable it is, and why phenomenal reports are indispensable to consciousness science. Four models, five calibration strategies, and warranted trust."
 topics:
@@ -38,7 +38,6 @@ related_articles:
   - "[[measurement-void]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[knowledge-argument]]"
-  - "[[introspection-rehabilitation]]"
   - "[[argument-from-reason]]"
   - "[[social-epistemic-void]]"
   - "[[objectivity-and-consciousness]]"

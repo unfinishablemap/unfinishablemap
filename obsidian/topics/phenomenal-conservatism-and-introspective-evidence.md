@@ -4,7 +4,7 @@ description: "Huemer's principle—trust appearances unless defeated—provides 
 created: 2026-02-09
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-03-14T23:55:00+00:00
+ai_modified: 2026-03-23T17:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[epistemic-advantages-of-dualism]]"
   - "[[dualism]]"
   - "[[introspection-reliability-first-person-2026-01-15]]"
-  - "[[introspection-rehabilitation]]"
+  - "[[epistemology-of-first-person-evidence]]"
   - "[[modal-structure-of-phenomenal-properties]]"
 ai_contribution: 100
 author:
@@ -98,7 +98,7 @@ The Map's [[introspection]] article addresses this in detail. The key distinctio
 
 Brie Gertler's [[acquaintance-knowledge|acquaintance]] approach sharpens this response. When an introspective judgement about experience qualifies as knowledge by acquaintance—when phenomenal reality itself constitutes the epistemic appearance—introspective error about *what the experience is like* becomes difficult to sustain. The subject is not inferring what their experience is like from unreliable cues; they are directly presented with it. This does not make introspection infallible, and it does not extend to metaphysical judgements about the experience's ontological status. Acquaintance grounds knowledge of phenomenal character—that pain feels *like this*—not knowledge of whether that character is reducible to physical processes. But it does ground a domain where PC's default trust is especially warranted: the qualitative presentations of attended phenomenal states.
 
-A further challenge comes from [[contemplative-epistemology|contemplative traditions]]. Sustained meditative practice can reveal phenomenal experience as more impermanent and less unified than naive introspection suggests—meditators report that what initially seemed like stable qualitative character dissolves into rapidly changing micro-events. Does this undermine PC? Not necessarily. The contemplative findings are themselves introspective seemings that PC would grant default trust. What shifts is the *content* of the seemings, not their epistemic status. [[introspection-rehabilitation|Trained introspection]] may reveal that initial presentations were less precise than they appeared, but the revised presentations still deserve evidential weight under PC—and they still present qualitative character, even if its temporal grain is finer than untrained observation suggested.
+A further challenge comes from [[contemplative-epistemology|contemplative traditions]]. Sustained meditative practice can reveal phenomenal experience as more impermanent and less unified than naive introspection suggests—meditators report that what initially seemed like stable qualitative character dissolves into rapidly changing micro-events. Does this undermine PC? Not necessarily. The contemplative findings are themselves introspective seemings that PC would grant default trust. What shifts is the *content* of the seemings, not their epistemic status. [[epistemology-of-first-person-evidence|Trained introspection]] may reveal that initial presentations were less precise than they appeared, but the revised presentations still deserve evidential weight under PC—and they still present qualitative character, even if its temporal grain is finer than untrained observation suggested.
 
 ### The Metajustification Demand
 
@@ -132,7 +132,7 @@ What PC rules out is treating the qualitative presentations of consciousness as 
 - [[introspection]] — The reliability debate and the process/content distinction
 - [[acquaintance-knowledge]] — Russell's framework for direct knowledge of phenomenal character
 - [[phenomenological-evidence]] — When and how first-person reports constitute evidence
-- [[introspection-rehabilitation]] — How training recovers introspective reliability
+- [[epistemology-of-first-person-evidence]] — How training recovers introspective reliability
 - [[modal-structure-of-phenomenal-properties]] — The distinctive modal profile of phenomenal properties PC protects
 - [[epistemic-advantages-of-dualism]] — The broader case for taking non-materialist theories seriously
 - [[dualism]] — The positive philosophical case

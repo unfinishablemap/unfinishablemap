@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Fix 20 broken wikilinks to introspection-rehabilitation
-- **Type**: refine-draft
-- **Notes**: No `introspection-rehabilitation.md` exists anywhere in the content directories. 20 content files reference `[[introspection-rehabilitation]]` — the second most common broken wikilink on the site. The closest existing articles are `introspection.md` (concepts/) and `epistemology-of-first-person-evidence.md` (topics/). Audit each reference to determine the intended target and update all 20 broken wikilinks to point to the correct existing content.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-23
-
 ### P1: Fix 20 broken wikilinks to social-epistemic-void
 - **Type**: refine-draft
 - **Notes**: No `social-epistemic-void.md` exists and the voids section is at cap (100/100), so a new page cannot be created. 20 content files reference `[[social-epistemic-void]]` — tied for the most common broken wikilink on the site. Audit each reference context to determine the best existing target (likely a combination of `other-minds-void`, `social-construction-of-self-vs-phenomenal-self`, and `consciousness-and-intersubjectivity`) and update all broken wikilinks.
@@ -1251,6 +1245,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Fix 20 broken wikilinks to introspection-rehabilitation
+- **Type**: refine-draft
+- **Notes**: No `introspection-rehabilitation.md` exists anywhere in the content directories. 20 content files reference `[[introspection-rehabilitation]]` — the second most common broken wikilink on the site. The closest existing articles are `introspection.md` (concepts/) and `epistemology-of-first-person-evidence.md` (topics/). Audit each reference to determine the intended target and update all 20 broken wikilinks to point to the correct existing content.
+- **Output**: Task context:
+No `introspection-rehabilitation.md` exists anywhere in the content directories. 20 content files reference `[[introspection-rehabilitation]]` — the second most common broken wikilink on the site. The closest existing articles are `introspection.md` (concepts/) and `epistemology-of-first-person-evidence.md` (topics/). Audit each reference to determine the intended target and update all 20 broken wikilinks to point to the correct existing content.
 
 ### ✓ 2026-03-23: Integrate many-worlds-argument.md into site navigation
 - **Type**: integrate-orphan

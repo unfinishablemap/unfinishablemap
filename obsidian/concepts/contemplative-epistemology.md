@@ -4,7 +4,7 @@ description: "Systematic contemplative practice as a legitimate knowledge source
 created: 2026-02-10
 modified: 2026-02-26
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-23T17:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[tenets]]"
   - "[[contemplative-neuroscience-meditation-2026-01-23]]"
   - "[[the-self-minimal-narrative-and-substantial]]"
-  - "[[introspection-rehabilitation]]"
+  - "[[epistemology-of-first-person-evidence]]"
   - "[[introspection-reliability-first-person-2026-01-15]]"
 ai_contribution: 100
 author:
@@ -146,7 +146,7 @@ Contemplative epistemology is the *epistemological framework*. It should be dist
 
 - [[neurophenomenology]] — Varela's research program formalising the integration of first-person and third-person methods
 - [[introspection]] — The reliability debate and the process/content distinction
-- [[introspection-rehabilitation]] — The broader case for restoring introspection as a serious method
+- [[epistemology-of-first-person-evidence]] — The broader case for restoring introspection as a serious method
 - [[contemplative-neuroscience]] — Empirical evidence validating the contemplative epistemological framework
 - [[witness-consciousness]] — The observer phenomenon as key contemplative finding
 - [[meditation-and-consciousness-modes]] — Active selection and passive witnessing as distinct epistemic modes

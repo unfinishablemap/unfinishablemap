@@ -4,7 +4,7 @@ description: "Remembering is not retrieving stored data but re-inhabiting a pers
 created: 2026-02-13
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-23T17:09:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -81,7 +81,7 @@ The phenomenological consequence is unsettling. If every memory is a reconstruct
 
 The felt pastness of genuine memories—the qualitative sense that "this happened to me, back then"—resists reduction to computational description. A computer processing temporal tags can represent that an event occurred at time T without any phenomenal sense of pastness. The pastness quale is something additional: a mode of temporal experience that accompanies autonoetic retrieval.
 
-This has direct implications for the [[hard-problem-of-consciousness|hard problem]]. Materialist theories can explain the *mechanisms* of memory retrieval—how hippocampal pattern completion reconstructs stored traces, how prefrontal monitoring evaluates reconstruction accuracy, how emotional signatures tag retrieved content. What no materialist account has yet explained is why retrieval of a temporal trace should *feel like* re-encountering one's own past rather than merely activating stored information. The Map holds that this gap is not merely unsolved but unsolvable within a physicalist framework—the pastness quale is the hard problem manifesting in the temporal domain. The case for [[introspection-rehabilitation|rehabilitating introspective evidence]] strengthens this claim: if careful phenomenological report is methodologically legitimate, the pastness quale is a datum, not an illusion awaiting debunking.
+This has direct implications for the [[hard-problem-of-consciousness|hard problem]]. Materialist theories can explain the *mechanisms* of memory retrieval—how hippocampal pattern completion reconstructs stored traces, how prefrontal monitoring evaluates reconstruction accuracy, how emotional signatures tag retrieved content. What no materialist account has yet explained is why retrieval of a temporal trace should *feel like* re-encountering one's own past rather than merely activating stored information. The Map holds that this gap is not merely unsolved but unsolvable within a physicalist framework—the pastness quale is the hard problem manifesting in the temporal domain. The case for [[epistemology-of-first-person-evidence|rehabilitating introspective evidence]] strengthens this claim: if careful phenomenological report is methodologically legitimate, the pastness quale is a datum, not an illusion awaiting debunking.
 
 The contrast with [[semantic-memory|noetic consciousness]] sharpens the point. Knowing that you graduated in 2015 (semantic self-knowledge) and *remembering* walking across the stage (episodic self-knowledge) involve different phenomenologies despite similar informational content. The autonoetic version carries the pastness quale, the ownership sense, and the double presence. The noetic version does not. This phenomenological difference, between two states with comparable content, suggests the difference lies in the *mode of consciousness* rather than in the information processed.
 
@@ -120,7 +120,7 @@ The phenomenology of memory and self connects directly to the Map's foundational
 - [[phenomenology-of-anticipation]]
 - [[narrative-coherence]]
 - [[anoetic-noetic-autonoetic-consciousness]]
-- [[introspection-rehabilitation]]
+- [[epistemology-of-first-person-evidence]] — The epistemology of introspective evidence
 
 ## References
 

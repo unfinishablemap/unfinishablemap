@@ -4,7 +4,7 @@ description: "Cross-traditional meditation reports converge on structural featur
 created: 2026-03-07
 modified: 2026-03-07
 human_modified:
-ai_modified: 2026-03-21T05:54:00+00:00
+ai_modified: 2026-03-23T17:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -183,7 +183,7 @@ The divergence zones illustrate [[tenets#^occams-limits|Occam's Razor Has Limits
 - [[the-subject-object-distinction-as-philosophical-discovery]] — The third convergence zone explored
 - [[indian-philosophy-of-mind]] — Broader Indian philosophical context
 - [[the-hard-problem-in-non-western-philosophy]] — Argumentative-level convergence complementing this article's experiential-level convergence
-- [[introspection-rehabilitation]] — Defence of first-person methodology
+- [[epistemology-of-first-person-evidence]] — Defence of first-person methodology
 - [[contemplative-epistemology]] — Epistemic foundations of contemplative inquiry
 - [[absorption-void]] — The phenomenology of absorptive states as cognitive limit
 

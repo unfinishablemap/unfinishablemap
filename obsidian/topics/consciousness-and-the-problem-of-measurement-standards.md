@@ -4,7 +4,7 @@ description: "Science requires measurement standards—units, instruments, calib
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-23T17:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ concepts:
 related_articles:
   - "[[methodology-of-consciousness-research]]"
   - "[[epistemology-of-first-person-evidence]]"
-  - "[[introspection-rehabilitation]]"
+  - "[[introspection]]"
   - "[[quantum-measurement-and-consciousness]]"
   - "[[knowledge-argument]]"
   - "[[consciousness-and-the-meta-problem-of-scientific-explanation]]"
@@ -111,7 +111,7 @@ As the Map explores in [[methodology-of-consciousness-research]], science achiev
 
 - [[methodology-of-consciousness-research]]
 - [[epistemology-of-first-person-evidence]]
-- [[introspection-rehabilitation]]
+- [[introspection]]
 - [[objectivity-and-consciousness]]
 - [[quantum-measurement-and-consciousness]]
 - [[knowledge-argument]]

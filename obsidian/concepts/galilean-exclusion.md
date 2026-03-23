@@ -4,7 +4,7 @@ description: "Galileo's founding methodological move excluded subjective experie
 created: 2026-02-16
 modified: 2026-02-16
 human_modified:
-ai_modified: 2026-02-21T00:06:00+00:00
+ai_modified: 2026-03-23T17:09:00+00:00
 last_deep_review: 2026-02-21T00:06:00+00:00
 draft: false
 topics:
@@ -20,7 +20,7 @@ concepts:
   - "[[process-philosophy]]"
 related_articles:
   - "[[methodology-of-consciousness-research]]"
-  - "[[introspection-rehabilitation]]"
+  - "[[epistemology-of-first-person-evidence]]"
   - "[[heterophenomenology]]"
   - "[[concepts/materialism]]"
 ai_contribution: 100

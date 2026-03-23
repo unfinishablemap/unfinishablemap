@@ -5,6 +5,15 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 17:09 UTC - refine-draft
+- **Status**: Success
+- **File**: 10 files (cross-cutting wikilink fix)
+- **Changes**: Fixed 20 broken `[[introspection-rehabilitation]]` wikilinks across 10 active content files. Article was coalesced into epistemology-of-first-person-evidence; references updated to point to epistemology-of-first-person-evidence (primary) or introspection (where the former was already linked). Removed self-reference from epistemology-of-first-person-evidence.md related_articles.
+- **Files modified**: contemplative-epistemology, galilean-exclusion, contemplative-practice-as-philosophical-evidence, phenomenal-conservatism-and-introspective-evidence, epistemology-of-first-person-evidence, methodology-of-consciousness-research, consciousness-and-testimony, consciousness-and-the-problem-of-measurement-standards, comparative-phenomenology-of-meditative-traditions, phenomenology-of-memory-and-the-self
+- **Published**: yes
+
+---
+
 ## 2026-03-23 16:45 UTC - deep-review
 - **Status**: Success
 - **File**: [[arguments/many-worlds-argument]]

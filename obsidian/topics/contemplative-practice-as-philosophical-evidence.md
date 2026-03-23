@@ -4,7 +4,7 @@ description: "Cross-traditional contemplative practice functions as philosophica
 created: 2026-01-27
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-20T20:14:00+00:00
+ai_modified: 2026-03-23T17:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,6 @@ related_articles:
   - "[[epistemology-of-convergence-arguments]]"
   - "[[the-observer-witness-in-meditation]]"
   - "[[methodology-of-consciousness-research]]"
-  - "[[introspection-rehabilitation]]"
   - "[[epistemology-of-first-person-evidence]]"
   - "[[phenomenology-of-returning-attention]]"
   - "[[consciousness-and-skill-acquisition]]"
@@ -68,7 +67,7 @@ Philosophy has a toolkit: thought experiments test intuitions against imagined s
 
 This creates a gap. Whether awareness can exist independently of objects, whether the ordinary sense of self is constructed or given, what the temporal grain of experience actually is — these questions demand sustained first-person investigation under controlled conditions.
 
-A practice counts as philosophical methodology when it satisfies three conditions: it is disciplined (following systematic procedures rather than casual impression), it is directed at philosophical questions (not merely therapeutic or devotional), and it produces findings that constrain theoretical options. This argument assumes that trained introspection is at least partially reliable — a claim defended in the [[introspection-rehabilitation|rehabilitation of introspection]] and supported by neurophenomenological cross-validation.
+A practice counts as philosophical methodology when it satisfies three conditions: it is disciplined (following systematic procedures rather than casual impression), it is directed at philosophical questions (not merely therapeutic or devotional), and it produces findings that constrain theoretical options. This argument assumes that trained introspection is at least partially reliable — a claim defended in the [[epistemology-of-first-person-evidence|rehabilitation of introspection]] and supported by neurophenomenological cross-validation.
 
 **Disciplined procedure.** Contemplative traditions prescribe specific techniques with precise instructions, progressive stages, and criteria for competence. Shamatha training involves sustained single-pointed attention with explicit markers of progress: stability, vividness, and the capacity to maintain focus without effort. As Dreyfus (2011) argues, even "mindfulness" involves sophisticated cognitive dimensions that casual descriptions obscure. These are structured methodological protocols comparable in rigour to Husserl's epoché — and arguably more demanding, since they require sustained practice rather than momentary reflection.
 
@@ -230,7 +229,7 @@ The distinction between willed and exogenous attention in [[contemplative-neuros
 - [[methodology-of-consciousness-research]] — Why both perspectives are necessary
 - [[eastern-philosophy-consciousness]] — The contemplative traditions providing this evidence
 - [[explanatory-gap]] — The gap between physical description and phenomenal experience
-- [[introspection-rehabilitation]] — The case for rehabilitating introspective methods
+- [[epistemology-of-first-person-evidence]] — The case for rehabilitating introspective methods
 - [[epistemology-of-convergence-arguments]] — When convergence constitutes genuine evidence
 - [[galilean-exclusion]] — The methodological exclusion that made the explanatory gap structurally inevitable
 - [[contemplative-pathology-and-interface-malfunction]] — When contemplative practice destabilises the interface
