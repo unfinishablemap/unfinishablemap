@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenology-of-moral-deliberation.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Add cross-references from related articles (free-will, phenomenology-of-agency-vs-passivity, ethics-of-consciousness) or update section index pages to include navigation to this content.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-23
-
 ### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Add cross-references from related articles (dreams-as-consciousness-laboratory, sleep-consciousness-void, bidirectional interaction topics) or update section index pages.
@@ -1257,6 +1251,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Integrate phenomenology-of-moral-deliberation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Add cross-references from related articles (free-will, phenomenology-of-agency-vs-passivity, ethics-of-consciousness) or update section index pages to include navigation to this content.
+- **Output**: phenomenology-of-moral-deliberation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-23: Cross-review introspection.md considering self-reference-paradox insights
 - **Type**: cross-review

@@ -4,7 +4,7 @@ description: "What it feels like to decide when outcomes are unknowable—the ve
 created: 2026-02-09
 modified: 2026-02-14
 human_modified:
-ai_modified: 2026-03-15T07:30:00+00:00
+ai_modified: 2026-03-23T20:30:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -28,6 +28,7 @@ related_articles:
   - "[[tenets]]"
   - "[[spontaneous-intentional-action]]"
   - "[[choking-phenomenon-mental-causation]]"
+  - "[[phenomenology-of-moral-life]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -154,6 +155,7 @@ The Unfinishable Map's framework illuminates deliberation under uncertainty at s
 - [[temporal-consciousness]] — Why some moments are denser with experience than others
 - [[choking-phenomenon-mental-causation]] — Deliberative vertigo applied to skilled execution under pressure
 - [[spontaneous-intentional-action]] — When commitment arrives without extended deliberation
+- [[phenomenology-of-moral-life]] — The full arc of moral consciousness, where deliberative uncertainty meets competing moral demands
 
 ## References
 

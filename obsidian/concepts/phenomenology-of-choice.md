@@ -4,7 +4,7 @@ description: "The experiential structure of deliberation and decision-making: fe
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-21T21:56:00+00:00
+ai_modified: 2026-03-23T20:30:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -31,6 +31,7 @@ related_articles:
   - "[[concept-of-free-will]]"
   - "[[phenomenology-of-consciousness-doing-work]]"
   - "[[phenomenology-of-temporal-consciousness-and-agency]]"
+  - "[[phenomenology-of-moral-life]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -209,6 +210,7 @@ The phenomenology of choice aligns with what the Map's tenets predict:
 - [[witness-consciousness]] — The contrast case of choiceless awareness
 - [[meditation-and-consciousness-modes]] — Phenomenology across contemplative states
 - [[illusionism]] — The eliminativist challenge to phenomenal choice
+- [[phenomenology-of-moral-life]] — Moral deliberation as a domain where choice phenomenology is especially vivid
 - [[retrocausality]] — How atemporal selection might manifest phenomenally
 - [[haecceity]] — Why *this* chooser matters
 - [[quantum-indeterminacy-free-will]] — How quantum mechanics supports libertarian freedom

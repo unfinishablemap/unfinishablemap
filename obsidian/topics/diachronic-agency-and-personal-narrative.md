@@ -4,7 +4,7 @@ description: "Agency extended across time requires narrative structure—not as 
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-03-23T20:30:00+00:00
 last_deep_review: 2026-03-14T18:39:00+00:00
 draft: false
 topics:
@@ -28,6 +28,7 @@ related_articles:
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[identity-across-transformations]]"
   - "[[phenomenology-of-temporal-consciousness-and-agency]]"
+  - "[[phenomenology-of-moral-life]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -135,6 +136,7 @@ Diachronic agency connects the Map's commitments in a distinctive way, linking t
 - [[temporal-consciousness]] — Bergson's qualitative time and lived temporal structure
 - [[identity-across-transformations]] — How the substantial self persists through radical change
 - [[moral-implications-of-genuine-agency]] — How genuine agency transforms moral obligation, character, and moral luck
+- [[phenomenology-of-moral-life]] — The felt arc of moral consciousness from perception through deliberation to having chosen
 
 ## References
 

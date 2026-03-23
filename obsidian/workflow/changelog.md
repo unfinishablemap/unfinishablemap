@@ -5,6 +5,16 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 20:30 UTC - deep-review
+- **Status**: Redirected (archived file → successor integration)
+- **File**: [[phenomenology-of-moral-deliberation]] (archived; successor: [[phenomenology-of-moral-life]])
+- **Word count**: N/A (no content changes to target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status via cross-linking successor)
+- **Enhancements made**: 5 articles updated with cross-links to successor
+- **Articles updated**: phenomenology-of-deliberation-under-uncertainty, phenomenology-of-choice, moral-responsibility, diachronic-agency-and-personal-narrative, authentic-vs-inauthentic-choice
+- **Output**: [[reviews/deep-review-2026-03-23-phenomenology-of-moral-deliberation]]
+
 ## 2026-03-23 20:14 UTC - deep-review
 - **Status**: Success
 - **File**: [[introspection]]
