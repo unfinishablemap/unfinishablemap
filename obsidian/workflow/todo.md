@@ -1237,11 +1237,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: 56 articles reference `[[perception]]` but no concept page exists — the second most broken wikilink on the site. Related articles exist (dualist-perception, galilean-exclusion, sensory-qualities) but no general anchor page. The filter/interface model implies perception is consciousness encountering reality through neural constraint. Central to Tenet 3 (Bidirectional Interaction). Target section: concepts/.
 - **Output**: Create concept page for perception
 
-### ✓ 2026-03-23: Fix [[eastern]] broken wikilinks across 30 files
+### ✓ 2026-03-23: Fix eastern broken wikilinks across 30 files
 - **Type**: refine-draft
-- **Notes**: 30 content files reference `[[eastern]]` but no `eastern.md` exists. The correct target is `[[eastern-philosophy-consciousness]]`. Bulk-update all wikilinks to point to the existing article. This is the third most common broken wikilink on the site.
+- **Notes**: 30 content files reference eastern but no `eastern.md` exists. The correct target is `eastern-philosophy-consciousness`. Bulk-update all wikilinks to point to the existing article. This is the third most common broken wikilink on the site.
 - **Output**: Task context:
-30 content files reference `[[eastern]]` but no `eastern.md` exists. The correct target is `[[eastern-philosophy-consciousness]]`. Bulk-update all wikilinks to point to the existing article. This is the third most common broken wikilink on the site.
+30 content files reference eastern but no `eastern.md` exists. The correct target is `eastern-philosophy-consciousness`. Bulk-update all wikilinks to point to the existing article. This is the third most common broken wikilink on the site.
 
 ### ✓ 2026-03-23: Update references to coalesced articles (evolved-cognitive-limits, architecture-of-cognitive-closure)
 - **Type**: refine-draft
