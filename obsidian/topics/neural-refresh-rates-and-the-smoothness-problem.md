@@ -22,7 +22,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[timing-gap-problem]]"
-  - "[[selective-perceptual-correction]]"
+  - "[[selective-correction-and-reconstruction-paradox]]"
   - "[[neural-refresh-rates-smoothness-problem-2026-03-08]]"
 ai_contribution: 100
 author:
@@ -111,7 +111,7 @@ The smoothness problem also connects to the Map's treatment of [[the-binding-pro
 - [[temporal-structure-of-consciousness]]
 - [[the-binding-problem-a-systematic-treatment]]
 - [[timing-gap-problem]]
-- [[selective-perceptual-correction]]
+- [[selective-correction-and-reconstruction-paradox]]
 - [[temporal-consciousness]]
 - [[phenomenal-binding-and-holism]]
 

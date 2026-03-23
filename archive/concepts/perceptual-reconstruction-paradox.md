@@ -29,6 +29,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-22
 last_curated:
 last_deep_review: 2026-03-23T01:36:00+00:00
+archived: true
+archived_date: 2026-03-23T19:45:00+00:00
+superseded_by: "/concepts/selective-correction-and-reconstruction-paradox/"
+archive_reason: "Coalesced into Selective Correction and the Reconstruction Paradox"
+original_path: "/concepts/perceptual-reconstruction-paradox/"
 ---
 
 The perceptual reconstruction paradox names the asymmetry between two modes of brain operation: autonomous correction, where the brain silently edits perceptual input before consciousness receives it, and faithful transmission, where degraded or misleading signals reach consciousness unaltered. The Unfinishable Map treats this asymmetry as evidence for an interface architecture between brain and mind—a system that curates a feed for a recipient, implying that the recipient is not identical to the system doing the curating.

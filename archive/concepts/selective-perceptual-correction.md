@@ -32,6 +32,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
 last_deep_review: 2026-03-23T00:51:00+00:00
+archived: true
+archived_date: 2026-03-23T19:45:00+00:00
+superseded_by: "/concepts/selective-correction-and-reconstruction-paradox/"
+archive_reason: "Coalesced into Selective Correction and the Reconstruction Paradox"
+original_path: "/concepts/selective-perceptual-correction/"
 ---
 
 Selective perceptual correction is the brain's asymmetric processing of sensory signals: it silently repairs some perceptual errors before consciousness encounters them while faithfully delivering others—degraded, illusory, or false—without intervention. The brain fills the blind spot, suppresses visual smear during eye movements, and maintains colour constancy, all without conscious awareness. Yet it transmits optical blur, tinnitus, visual floaters, and persistent illusions to consciousness unchanged, even when the conscious mind knows the signal is wrong. This selectivity is not random. It follows identifiable computational principles that reveal the structure of the mind-body interface.

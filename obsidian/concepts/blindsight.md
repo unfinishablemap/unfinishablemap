@@ -25,7 +25,7 @@ related_articles:
   - "[[mind-brain-separation]]"
   - "[[illusionism]]"
   - "[[explanatory-gap]]"
-  - "[[perceptual-reconstruction-paradox]]"
+  - "[[selective-correction-and-reconstruction-paradox]]"
   - "[[perception]]"
 ai_contribution: 100
 author:

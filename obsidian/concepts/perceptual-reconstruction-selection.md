@@ -14,7 +14,7 @@ concepts:
   - "[[predictive-processing]]"
   - "[[interactionist-dualism]]"
   - "[[attention-as-interface]]"
-  - "[[selective-perceptual-correction]]"
+  - "[[selective-correction-and-reconstruction-paradox]]"
   - "[[qualia]]"
   - "[[filter-theory]]"
   - "[[phenomenal-consciousness]]"
@@ -43,7 +43,7 @@ The [[predictive-processing]] framework models this as competition between two e
 
 ## The Selection Gap
 
-[[selective-perceptual-correction|Selective perceptual correction]] describes cases where the brain resolves ambiguity autonomously — filling the blind spot, stabilising vision during saccades — without conscious involvement. The [[reconstruction-paradox|reconstruction paradox]] asks why the brain corrects some signals and not others. Perceptual reconstruction selection addresses a third case: where the brain *cannot* resolve the ambiguity and consciousness must participate.
+[[selective-correction-and-reconstruction-paradox|Selective perceptual correction]] describes cases where the brain resolves ambiguity autonomously — filling the blind spot, stabilising vision during saccades — without conscious involvement. The [[reconstruction-paradox|reconstruction paradox]] asks why the brain corrects some signals and not others. Perceptual reconstruction selection addresses a third case: where the brain *cannot* resolve the ambiguity and consciousness must participate.
 
 This three-way distinction clarifies the architecture:
 
@@ -73,13 +73,13 @@ The Unfinishable Map interprets perceptual reconstruction selection as evidence 
 
 The Minimal Quantum Interaction tenet frames how this contribution might work physically. [[consciousness-selecting-neural-patterns|Consciousness selecting neural patterns]] describes the general mechanism: consciousness biases otherwise indeterminate quantum outcomes in neural systems. Perceptual reconstruction selection may be this mechanism operating at the macroscopic level of competing perceptual hypotheses, where the underlying quantum indeterminacies are amplified through the brain's hierarchical predictive architecture into perceptually distinct outcomes. This is speculative — the link between quantum-level selection and perceptual-level alternation remains unestablished — but the structure is suggestive.
 
-The Map speculates that the meditation findings are particularly revealing. If trained meditators can sustain one percept during binocular rivalry far longer than untrained observers, and if this reflects enhanced conscious control over the selection process, then the degree of conscious influence on perception is not fixed but trainable. This aligns with the diachronic penetration observed in [[selective-perceptual-correction]]: consciousness cannot override perceptual modules in the moment, but sustained practice gradually reshapes the interface. In perceptual reconstruction selection, the reshaping operates faster — within a single viewing session — suggesting that selection under ambiguity may involve a more direct form of conscious influence than either autonomous correction or faithful transmission permits. If [[cognitive-closure]] marks the limits of what consciousness can access about its own mechanisms, selection under ambiguity may represent a region where that boundary is unusually thin — where conscious influence is phenomenally accessible in a way that autonomous correction never is.
+The Map speculates that the meditation findings are particularly revealing. If trained meditators can sustain one percept during binocular rivalry far longer than untrained observers, and if this reflects enhanced conscious control over the selection process, then the degree of conscious influence on perception is not fixed but trainable. This aligns with the diachronic penetration observed in [[selective-correction-and-reconstruction-paradox]]: consciousness cannot override perceptual modules in the moment, but sustained practice gradually reshapes the interface. In perceptual reconstruction selection, the reshaping operates faster — within a single viewing session — suggesting that selection under ambiguity may involve a more direct form of conscious influence than either autonomous correction or faithful transmission permits. If [[cognitive-closure]] marks the limits of what consciousness can access about its own mechanisms, selection under ambiguity may represent a region where that boundary is unusually thin — where conscious influence is phenomenally accessible in a way that autonomous correction never is.
 
 ## Further Reading
 
 - [[consciousness-selecting-neural-patterns]] — the general framework for conscious selection at the neural level
-- [[selective-perceptual-correction]] — the mechanism of autonomous brain correction
-- [[perceptual-reconstruction-paradox]] — the philosophical paradox of asymmetric perceptual editing
+- [[selective-correction-and-reconstruction-paradox]] — the mechanism of autonomous brain correction
+- [[selective-correction-and-reconstruction-paradox|reconstruction paradox]] — the philosophical paradox of asymmetric perceptual editing
 - [[reconstruction-paradox]] — the void exploration of the asymmetry's limits
 - [[attention-as-interface]] — attention as the mechanism of conscious influence
 - [[predictive-processing-and-dualism]] — predictive processing and interactionist dualism

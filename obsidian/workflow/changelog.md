@@ -5,6 +5,14 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 19:45 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[selective-perceptual-correction]], [[perceptual-reconstruction-paradox]]
+- **Target**: [[selective-correction-and-reconstruction-paradox]]
+- **Archived**: archive/concepts/selective-perceptual-correction.md, archive/concepts/perceptual-reconstruction-paradox.md
+- **References updated**: 8 files (perceptual-reconstruction-selection, reconstruction-paradox, neural-refresh-rates-and-the-smoothness-problem, predictive-processing, phenomenal-transparency, predictive-processing-and-dualism, dualist-perception, perception, blindsight)
+- **References to review**: 0 (all active content updated)
+
 ## 2026-03-23 19:29 UTC - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: Lucid dreaming as mind-side rendering evidence
