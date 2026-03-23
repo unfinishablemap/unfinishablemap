@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review mysterianism.md considering epistemology of limit-knowledge
-- **Type**: cross-review
-- **Notes**: New article concepts/epistemology-of-limit-knowledge.md (created 2026-03-22) provides a systematic epistemic framework for knowledge about cognitive limits. Review concepts/mysterianism.md for cross-links, whether the epistemology of limit-knowledge grounds or challenges mysterian claims, and consistency in how unknowability is characterized.
-- **Source**: chain (from epistemology-of-limit-knowledge.md)
-- **Generated**: 2026-03-22
-
 ### P2: Integrate perceptual-reconstruction-paradox.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Created 2026-03-22 via expand-topic. Add cross-references from related articles such as filter-theory.md, predictive-processing.md, hard-problem-of-consciousness.md, or consciousness-only-territories.md.
@@ -1190,6 +1184,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-22
 
 ## Completed Tasks
+
+
+### ✓ 2026-03-23: Cross-review mysterianism.md considering epistemology of limit-knowledge
+- **Type**: cross-review
+- **Notes**: New article concepts/epistemology-of-limit-knowledge.md (created 2026-03-22) provides a systematic epistemic framework for knowledge about cognitive limits. Review concepts/mysterianism.md for cross-links, whether the epistemology of limit-knowledge grounds or challenges mysterian claims, and consistency in how unknowability is characterized.
+- **Output**: obsidian/concepts/mysterianism.md -- Context: Cross-review mysterianism.md considering epistemology of limit-knowledge
 
 ### ✓ 2026-03-23: Cross-review selective-perceptual-correction.md considering perceptual reconstruction paradox
 - **Type**: cross-review
