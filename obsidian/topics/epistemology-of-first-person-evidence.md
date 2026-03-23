@@ -3,7 +3,7 @@ title: "The Epistemology of First-Person Evidence"
 created: 2026-02-11
 modified: 2026-03-23
 human_modified: null
-ai_modified: 2026-03-23T00:00:00+00:00
+ai_modified: 2026-03-23T00:06:00+00:00
 draft: false
 description: "What introspection reveals, how reliable it is, and why phenomenal reports are indispensable to consciousness science. Competing models, five calibration strategies, and the gradient of warranted trust."
 topics:
@@ -47,7 +47,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-23
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-23T00:06:00+00:00
 coalesced_from:
   - "/topics/epistemology-of-introspection-and-calibration/"
   - "/topics/epistemology-of-phenomenal-reports/"

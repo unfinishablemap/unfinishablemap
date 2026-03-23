@@ -24,8 +24,7 @@ related_articles:
   - "[[concepts/materialism]]"
   - "[[interactionist-dualism]]"
   - "[[epistemology-of-convergence-arguments]]"
-  - "[[epistemology-of-introspection-and-calibration]]"
-  - "[[epistemology-of-phenomenal-reports]]"
+  - "[[epistemology-of-first-person-evidence]]"
   - "[[epistemic-advantages-of-dualism]]"
   - "[[parsimony-epistemology]]"
 ai_contribution: 100
@@ -52,7 +51,7 @@ This creates a layered underdetermination:
 
 1. **Theory-ladenness of neural data.** What counts as a "neural correlate of consciousness" depends on which theory defines the relevant contrast. IIT looks for integrated information in posterior cortex; GWT looks for global broadcast to prefrontal areas. The same brain scan supports different claims depending on which theoretical lens interprets it. This is an instance of the broader [[phenomenology-of-framework-inhabitation|framework dependence]] that pervades consciousness research—frameworks do not merely organise evidence but determine what counts as evidence.
 
-2. **Theory-ladenness of first-person reports.** Introspective reports are not raw data—they are shaped by training, context, and theoretical expectations, as the Map's [[epistemology-of-introspection-and-calibration|epistemology of introspection]] develops in detail. The collapse of 19th-century introspectionist psychology, when rival schools could not agree on what subjects experienced under controlled conditions, illustrates this problem historically. The [[epistemology-of-phenomenal-reports|epistemology of phenomenal reports]] examines how first-person data can nonetheless gain evidential standing—but the underdetermination at this level remains severe because the standards for admitting such data are themselves theory-laden.
+2. **Theory-ladenness of first-person reports.** Introspective reports are not raw data—they are shaped by training, context, and theoretical expectations, as the Map's [[epistemology-of-first-person-evidence|epistemology of first-person evidence]] develops in detail. The collapse of 19th-century introspectionist psychology, when rival schools could not agree on what subjects experienced under controlled conditions, illustrates this problem historically. That same article examines how first-person data can nonetheless gain evidential standing—but the underdetermination at this level remains severe because the standards for admitting such data are themselves theory-laden.
 
 3. **The methodological circle in [[neural-correlates-of-consciousness|NCC research]].** Every study of neural correlates presupposes first-person report as irreducible data—the experimenter trusts the subject's testimony about what they experience, smuggling in a first-person element the methodology cannot itself explain. The evidential base for all NCC-related theories is thus underdetermined by methodology at a second-order level: the data themselves depend on assumptions about the reliability and nature of conscious reports.
 
@@ -124,8 +123,7 @@ The Map's honest assessment: underdetermination cuts both ways. It undermines ph
 - [[neural-correlates-of-consciousness]]
 - [[explanatory-gap]]
 - [[epistemology-of-convergence-arguments]]
-- [[epistemology-of-introspection-and-calibration]]
-- [[epistemology-of-phenomenal-reports]]
+- [[epistemology-of-first-person-evidence]]
 - [[epistemic-advantages-of-dualism]]
 
 ## References

@@ -28,7 +28,7 @@ related_articles:
   - "[[bidirectional-interaction]]"
   - "[[consciousness-and-the-authority-of-formal-systems]]"
   - "[[consciousness-and-the-problem-of-induction]]"
-  - "[[epistemology-of-phenomenal-reports]]"
+  - "[[epistemology-of-first-person-evidence]]"
   - "[[tenets]]"
 ai_contribution: 100
 author:
@@ -156,7 +156,7 @@ The [[the-epiphenomenalist-threat|epiphenomenalist threat]] article shows that m
 - [[the-epiphenomenalist-threat]] — Why most theories drift toward the position self-stultification defeats
 - [[consciousness-and-the-authority-of-formal-systems]] — Why logical necessity requires conscious recognition
 - [[consciousness-and-the-problem-of-induction]] — Self-stultification applied to inductive reasoning about consciousness
-- [[epistemology-of-phenomenal-reports]] — Whether introspective reports are causally connected to experiences
+- [[epistemology-of-first-person-evidence]] — Whether introspective reports are causally connected to experiences
 - [[phenomenal-conservatism-and-introspective-evidence]] — The epistemic framework that self-stultification presupposes
 - [[mental-causation]] — The problem self-stultification helps resolve
 - [[causal-closure]] — The principle whose rejection self-stultification motivates

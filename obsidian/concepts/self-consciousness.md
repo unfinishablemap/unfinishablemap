@@ -28,7 +28,7 @@ related_articles:
   - "[[self-consciousness-philosophy-2026-01-15]]"
   - "[[reductionism-and-consciousness]]"
   - "[[ownership-void]]"
-  - "[[epistemology-of-introspection-and-calibration]]"
+  - "[[epistemology-of-first-person-evidence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -46,7 +46,7 @@ Dan Zahavi draws a distinction that reshapes the entire debate. **Pre-reflective
 
 This pre-reflective dimension is what makes the [[self-and-consciousness|minimal self]] possible. It is necessary (there are no genuinely anonymous experiences), non-observational (you do not observe yourself having the experience — you simply have it as yours), and non-thematic (you are not attending to yourself but to the apple). Pre-reflective self-consciousness is the background condition for all experience, not an additional mental act layered on top.
 
-**Reflective self-consciousness** is the deliberate, thematic awareness of one's own mental states. When you pause to notice that you are feeling anxious, or when you consider whether your perception is accurate, you are exercising reflective self-consciousness. This is what people ordinarily mean by "self-awareness" — the capacity for [[introspection]], for taking one's own experience as an object of attention. The [[epistemology-of-introspection-and-calibration|epistemology of introspection]] reveals that this reflective capacity, while fallible, is trainable and provides genuine epistemic access to phenomenal content — a finding that matters because self-consciousness is the precondition for any introspective method.
+**Reflective self-consciousness** is the deliberate, thematic awareness of one's own mental states. When you pause to notice that you are feeling anxious, or when you consider whether your perception is accurate, you are exercising reflective self-consciousness. This is what people ordinarily mean by "self-awareness" — the capacity for [[introspection]], for taking one's own experience as an object of attention. The [[epistemology-of-first-person-evidence|epistemology of first-person evidence]] reveals that this reflective capacity, while fallible, is trainable and provides genuine epistemic access to phenomenal content — a finding that matters because self-consciousness is the precondition for any introspective method.
 
 The relationship between these two forms is asymmetric. Reflective self-consciousness presupposes pre-reflective self-consciousness: you can only deliberately attend to your experience if experience already comes tagged as yours. But pre-reflective self-consciousness does not require reflection — it operates in its absence. An infant has pre-reflective self-consciousness without the capacity for reflection. A great ape experiences the world from a first-person perspective without (probably) being able to reflect on the fact that it does so.
 
@@ -104,7 +104,7 @@ Self-consciousness connects to the Map's foundational commitments at multiple po
 
 - [[self-and-consciousness]] — The minimal self as structural feature of consciousness
 - [[introspection]] — The practice of attending to one's own mental states
-- [[epistemology-of-introspection-and-calibration]] — What kind of knowledge introspection provides, and how its reliability varies by domain
+- [[epistemology-of-first-person-evidence]] — What kind of knowledge introspection provides, and how its reliability varies by domain
 - [[metacognition]] — Monitoring cognition vs knowing that one monitors
 - [[self-reference-paradox]] — Why the observer cannot catch itself observing
 - [[ownership-void|The Ownership Void]] — Why the for-me-ness of experience hides its own ground

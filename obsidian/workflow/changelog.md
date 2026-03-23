@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 00:06 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/epistemology-of-first-person-evidence]]
+- **Word count**: 3185 → 3185 (no change, length-neutral mode)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (updated 27 stale cross-references across 14 files from coalesced slugs)
+- **Enhancements made**: 0 (article content preserved as-is from coalescence)
+- **Output**: [[reviews/deep-review-2026-03-23-epistemology-of-first-person-evidence]]
+
 ## 2026-03-23 00:00 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[topics/epistemology-of-introspection-and-calibration]], [[topics/epistemology-of-phenomenal-reports]]

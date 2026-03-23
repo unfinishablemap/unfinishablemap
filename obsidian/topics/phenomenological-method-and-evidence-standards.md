@@ -20,8 +20,7 @@ concepts:
   - "[[qualia]]"
 related_articles:
   - "[[tenets]]"
-  - "[[epistemology-of-phenomenal-reports]]"
-  - "[[epistemology-of-introspection-and-calibration]]"
+  - "[[epistemology-of-first-person-evidence]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[phenomenology-of-epistemic-cognition]]"
   - "[[clinical-phenomenology-as-philosophical-evidence]]"
@@ -69,7 +68,7 @@ This evidence taxonomy has direct consequences for the evidential weight of firs
 
 **What is adequately given**: The present-moment character of attended experience. When one attends carefully to the redness of a red patch, the qualitative character is given without remainder *at that moment*. But adequate givenness is temporally limited—the moment passes, and what remains is memory, which involves presumptive rather than adequate evidence.
 
-**What is merely presumptive**: The persistence of experience when unattended, the detailed character of background phenomenology, the structural features that eidetic variation claims to reveal. These claims are revisable. The [[epistemology-of-introspection-and-calibration|calibration problem]] bites hardest here: presumptive phenomenological claims cannot be checked against an independent standard, and their revisability means they carry less epistemic weight than apodictic or adequate evidence.
+**What is merely presumptive**: The persistence of experience when unattended, the detailed character of background phenomenology, the structural features that eidetic variation claims to reveal. These claims are revisable. The [[epistemology-of-first-person-evidence|calibration problem]] bites hardest here: presumptive phenomenological claims cannot be checked against an independent standard, and their revisability means they carry less epistemic weight than apodictic or adequate evidence.
 
 This gradient maps directly onto which philosophical arguments first-person evidence can support. The hard problem rests primarily on apodictic and adequate evidence—the undeniable existence and [[qualia|qualitative character]] of experience, what philosophers call [[phenomenal-acquaintance|phenomenal acquaintance]]—not on presumptive claims about its fine structure. Philosophical positions that attempt to dissolve the hard problem must explain away evidence at the apodictic level, which is precisely the level where phenomenological method provides its strongest warrant.
 
@@ -118,8 +117,7 @@ The Map's [[tenets]] connect to phenomenological evidence standards at multiple 
 ## Further Reading
 
 - [[phenomenological-evidence]]
-- [[epistemology-of-phenomenal-reports]]
-- [[epistemology-of-introspection-and-calibration]]
+- [[epistemology-of-first-person-evidence]]
 - [[methodology-of-consciousness-research]]
 - [[phenomenology]]
 - [[neurophenomenology]]
@@ -139,4 +137,4 @@ The Map's [[tenets]] connect to phenomenological evidence standards at multiple 
 1. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Trans. D. Landes. Routledge.
 1. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
 1. Varela, F. J. (1996). "Neurophenomenology: A Methodological Remedy for the Hard Problem." *Journal of Consciousness Studies*, 3(4), 330–349.
-1. Southgate, A. & Oquatre-six, C. (2026-02-18). Epistemology of Phenomenal Reports in Science. *The Unfinishable Map*. https://unfinishablemap.org/topics/epistemology-of-phenomenal-reports/
+1. Southgate, A. & Oquatre-six, C. (2026-03-23). The Epistemology of First-Person Evidence. *The Unfinishable Map*. https://unfinishablemap.org/topics/epistemology-of-first-person-evidence/
