@@ -37,6 +37,11 @@ last_deep_review: 2026-03-08T13:06:00+00:00
 coalesced_from:
   - "/voids/adaptive-cognitive-limits/"
   - "/voids/convergent-cognitive-limits/"
+archived: true
+archived_date: 2026-03-23T12:15:00+00:00
+superseded_by: "/voids/biological-cognitive-closure/"
+archive_reason: "Coalesced into Biological Cognitive Closure"
+original_path: "/voids/evolved-cognitive-limits/"
 ---
 
 Some cognitive limits are not defects but features — blind spots maintained by natural selection because ignorance itself conferred fitness advantages. Cross-cultural research provides the evidence: humans across vastly different cultures converge on the same cognitive failures. The bias blind spot appears universally. Mystical experiences show consistent structure across unrelated traditions. This convergence reveals species-level constraints rather than cultural artifacts, and the [[voids]] framework gains a powerful methodological tool: convergent limits are stronger candidates for the Unexplorable than limits that vary with culture.

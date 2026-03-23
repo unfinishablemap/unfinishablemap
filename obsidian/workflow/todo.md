@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-23T10:37:00+00:00
+ai_modified: 2026-03-23T12:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Update references to coalesced articles (evolved-cognitive-limits, architecture-of-cognitive-closure)
+- **Type**: refine-draft
+- **Notes**: Coalesce on 2026-03-23 merged evolved-cognitive-limits and architecture-of-cognitive-closure into biological-cognitive-closure. 31 active files reference `[[evolved-cognitive-limits]]` and 26 reference `[[architecture-of-cognitive-closure]]`. Update all wikilinks to `[[biological-cognitive-closure]]` (with appropriate display text). Run `grep -rl '\[\[evolved-cognitive-limits' obsidian/{topics,concepts,voids,apex}/` and `grep -rl '\[\[architecture-of-cognitive-closure' obsidian/{topics,concepts,voids,apex}/` to find affected files.
+- **Source**: coalesce
+- **Generated**: 2026-03-23
 
 ### P1: Fix [[eastern]] broken wikilinks across 30 files
 - **Type**: refine-draft

@@ -37,6 +37,11 @@ last_deep_review: 2026-03-18T20:34:00+00:00
 coalesced_from:
   - "/voids/conceptual-acquisition-limits/"
   - "/voids/developmental-cognitive-closure/"
+archived: true
+archived_date: 2026-03-23T12:15:00+00:00
+superseded_by: "/voids/biological-cognitive-closure/"
+archive_reason: "Coalesced into Biological Cognitive Closure"
+original_path: "/voids/architecture-of-cognitive-closure/"
 ---
 
 Human minds have bounded concept spaces—and the boundaries are not all of one kind. Some limits are architectural: fixed by cognitive design, present from birth, constraining which conceptual primitives are available at all. Others are developmental: acquired through the normal process of maturation, as neural pruning and critical period closure dismantle perceptual and conceptual machinery that infants possessed. These two sources of closure compound. We start bounded and become more so. The shape of what we cannot think reveals the shape of what we are.
