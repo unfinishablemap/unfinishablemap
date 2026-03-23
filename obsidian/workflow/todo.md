@@ -43,6 +43,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-23
 
+### P2: Condense ai-consciousness.md (~4500 words, exceeds 3000-word guideline)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Pessimistic review found ai-consciousness.md significantly exceeds the writing style guide's 3000-word maximum for topics. The "What Would Challenge This View?" section alone is ~800 words. Material overlaps with linked concept articles (llm-consciousness, continual-learning-argument). See pessimistic-2026-03-23b.md
+
 ### P2: Cross-review quantum mechanism articles considering differential-predictions-consciousness-collapse.md
 - **Type**: cross-review
 - **Notes**: New article topics/differential-predictions-consciousness-collapse.md created 2026-03-23. Review related articles (consciousness-collapse-versus-decoherence-experiments, comparing-quantum-consciousness-mechanisms, non-retrocausal-conscious-selection-models, born-rule-derivation-failures-consciousness-collapse) for cross-links, consistency, and reinforcing arguments.
