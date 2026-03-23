@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Fix [[eastern]] broken wikilinks across 30 files
+- **Type**: refine-draft
+- **Notes**: 30 content files reference `[[eastern]]` but no `eastern.md` exists. The correct target is `[[eastern-philosophy-consciousness]]`. Bulk-update all wikilinks to point to the existing article. This is the third most common broken wikilink on the site.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-23
+
+### P2: Create concept page for epistemology
+- **Type**: expand-topic
+- **Notes**: 87 articles reference `[[epistemology]]` but no hub page exists — the single most broken wikilink on the site. Multiple epistemology-specific articles exist (epistemology-of-first-person-evidence, epistemic-humility, etc.) but no general concept page anchoring the Map's epistemological framework. Should cover the Map's stance on how we can know about consciousness, link to specific epistemology articles, and connect to Tenet 5 (Occam's Razor Has Limits). Target section: concepts/.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-23
+
+### P2: Create concept page for perception
+- **Type**: expand-topic
+- **Notes**: 56 articles reference `[[perception]]` but no concept page exists — the second most broken wikilink on the site. Related articles exist (dualist-perception, galilean-exclusion, sensory-qualities) but no general anchor page. The filter/interface model implies perception is consciousness encountering reality through neural constraint. Central to Tenet 3 (Bidirectional Interaction). Target section: concepts/.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-23
+
+### P2: Cross-review other-minds-void.md considering consciousness-and-intersubjectivity insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intersubjectivity.md (written 2026-03-21) directly addresses how one consciousness encounters another. The other-minds-void should cross-reference this treatment and check for tensions between the void's framing and the new article's intersubjectivist arguments. Add `[[consciousness-and-intersubjectivity]]` links where appropriate.
+- **Source**: chain (from consciousness-and-intersubjectivity.md)
+- **Generated**: 2026-03-23
+
+### P2: Cross-review phenomenology-of-collective-intentionality-and-we-consciousness.md considering intersubjectivity
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intersubjectivity.md (written 2026-03-21) covers overlapping ground on how consciousnesses relate. Check for: missing cross-links, terminology consistency (intersubjectivity vs we-consciousness), reinforcing arguments, or contradictions between the two treatments. Ensure they complement rather than duplicate.
+- **Source**: chain (from consciousness-and-intersubjectivity.md)
+- **Generated**: 2026-03-23
+
+### P2: Deep review narrative-coherence.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-20 — 31 days ago. Concept page on narrative coherence as a feature of conscious experience. Not currently in the task queue despite meeting staleness threshold. Verify coherence, cross-references to recent intersubjectivity and self-identity articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-23
+
 ### P3: Create concept page for testability-ledger
 - **Type**: expand-topic
 - **Notes**: Referenced in 2 articles but has no dedicated page. The Map makes specific empirical predictions across quantum consciousness, placebo, anaesthesia, and contemplative domains — a concept page cataloguing what's testable and what distinguishes the Map's predictions from competitors would strengthen the empirical credibility argument. Target section: concepts/.
