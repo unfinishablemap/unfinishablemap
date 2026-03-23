@@ -200,6 +200,7 @@ What would challenge the Map's metaphysical position is not timing evidence but 
 - [motor-selection](/concepts/motor-selection/) — The 280ms motor commitment point and Libet dissolution
 - [voluntary attention](/concepts/attention-as-interface/) — Willed attention deployment and frontal theta
 - [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't solve outcome selection
+- [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/) — Comparative analysis of the three forward-in-time frameworks
 - [neural-implementation-specifics](/topics/neural-implementation-specifics/) — How timing constraints differ across five quantum neural mechanisms
 
 ## References

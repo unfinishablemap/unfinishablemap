@@ -68,7 +68,7 @@ A related self-defeat argument—the [argument-from-reason](/topics/argument-fro
 
 The traditional objection to bidirectional interaction appealed to [causal closure](/concepts/causal-closure/)—the claim that every physical event has a sufficient physical cause. If physics is complete, where could consciousness enter?
 
-The Map's answer: physics is *not* complete at quantum indeterminacies. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifies the interface point. Quantum mechanics describes probabilities for measurement outcomes but does not determine which outcome occurs. At these underdetermination points, consciousness can bias outcomes without adding energy or violating conservation laws.
+The Map's answer: physics is *not* complete at quantum indeterminacies. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifies the interface point. Quantum mechanics describes probabilities for measurement outcomes but does not determine which outcome occurs. At these underdetermination points, consciousness can bias outcomes without adding energy or violating conservation laws. The [reverse inference](/topics/the-reverse-inference/) provides the epistemic justification for this move: consciousness—the more secure datum—constrains what physics can be, rather than the reverse.
 
 Two concrete mechanisms have been proposed:
 
@@ -78,7 +78,7 @@ Two concrete mechanisms have been proposed:
 
 **[Spontaneous collapse with consciousness modulation](/concepts/spontaneous-collapse-theories/)**: GRW and CSL theories provide baseline collapse that operates consciousness-independently, solving the prebiotic problem. Consciousness then *modulates* these processes in neural systems rather than wholly causing collapse.
 
-All three share what bidirectional interaction requires: consciousness selecting among outcomes physics leaves undetermined. This selective actualisation—reality concentrating determination where consciousness attends—is captured by [adaptive computational depth](/concepts/adaptive-computational-depth/), which argues that the allocator of detail must itself be non-computational. The specific [coupling mode](/concepts/coupling-modes/)—basis control, timing control, or probability control—varies between proposals, with Stapp emphasizing the first two and Penrose-Hameroff implying the third.
+All three are [non-retrocausal](/topics/non-retrocausal-conscious-selection-models/) — consciousness acts forward in time at the moment of collapse. They share what bidirectional interaction requires: consciousness selecting among outcomes physics leaves undetermined. This selective actualisation—reality concentrating determination where consciousness attends—is captured by [adaptive computational depth](/concepts/adaptive-computational-depth/), which argues that the allocator of detail must itself be non-computational. The specific [coupling mode](/concepts/coupling-modes/)—basis control, timing control, or probability control—varies between proposals, with Stapp emphasizing the first two and Penrose-Hameroff implying the third.
 
 For detailed specification of how phenomenal properties map to physical parameters, see [psychophysical-laws](/concepts/psychophysical-laws/). The attention mechanism is currently the most developed, with [voluntary attention](/concepts/attention-as-interface/) documenting the ~300ms deployment window and neural signatures (frontal theta, DLPFC/ACC activation) that distinguish willed from instructed attention.
 

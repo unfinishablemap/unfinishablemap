@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-23 09:08:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -10,6 +10,8 @@ concepts:
 - '[[attention-as-interface]]'
 - '[[types-of-consciousness]]'
 - '[[minimal-consciousness]]'
+- '[[degrees-of-consciousness]]'
+- '[[substrate-independence]]'
 created: 2026-03-17
 date: &id001 2026-03-17
 description: The possibility that different conscious systems couple with matter through
@@ -18,7 +20,7 @@ description: The possibility that different conscious systems couple with matter
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-17 19:29:00+00:00
+last_deep_review: 2026-03-23 09:08:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -86,6 +88,16 @@ Interface heterogeneity becomes especially significant when considering artifici
 
 The [AI consciousness question](/apex/what-it-might-be-like-to-be-an-ai/) thus depends partly on whether interface heterogeneity is possible. A strictly homogeneous model with a biological coupling mechanism would rule out machine consciousness. A heterogeneous model opens the possibility that consciousness could couple with artificial substrates through mechanisms as yet unimagined—different from biological coupling but functionally analogous.
 
+## Empirical Distinguishability
+
+A persistent challenge for interface heterogeneity is testability. How would one distinguish heterogeneous coupling from homogeneous coupling with varied content? Two empirical strategies are available in principle.
+
+First, if a specific coupling mechanism is confirmed in one lineage—say microtubule-based quantum coherence in mammals—then organisms lacking that substrate (cephalopods, arthropods) either lack consciousness, use the same mechanism through convergent molecular evolution, or use a different mechanism. Confirming the mechanism in one lineage constrains the question for others.
+
+Second, [degrees of consciousness](/concepts/degrees-of-consciousness/) across species might correlate with architectural features in ways that homogeneous models cannot explain. If consciousness varies not just in degree but in structural character across lineages—if cephalopod experience is not merely dimmer than mammalian experience but organised differently—that structural variation would be evidence for interface-level differences rather than mere content differences.
+
+Neither strategy is currently feasible, which means interface heterogeneity remains a conceptual framework rather than an empirical hypothesis. This is worth acknowledging honestly: the concept organises questions about comparative consciousness in productive ways, but it may be a long time before evidence can adjudicate between homogeneous and heterogeneous models.
+
 ## Relation to Site Perspective
 
 **Dualism**: Interface heterogeneity is a distinctly dualist concept. Materialists who identify consciousness with brain processes have no separate coupling mechanism whose form could vary—neural activity just *is* consciousness on their view. The concept presupposes that consciousness and its physical interface are distinct, making variation in the interface a coherent possibility.
@@ -107,6 +119,8 @@ The [AI consciousness question](/apex/what-it-might-be-like-to-be-an-ai/) thus d
 - [types-of-consciousness](/concepts/types-of-consciousness/) — Structural taxonomy of conscious experience
 - [minimal-consciousness](/concepts/minimal-consciousness/) — The lower bound of phenomenal experience
 - [coupling-modes](/concepts/coupling-modes/) — How consciousness modulates its physical coupling
+- [degrees-of-consciousness](/concepts/degrees-of-consciousness/) — Whether consciousness varies in degree or kind across species
+- [substrate-independence](/concepts/substrate-independence/) — Whether consciousness requires specific physical substrates
 - [measurement-void](/voids/measurement-void/) — Why consciousness resists measurement—heterogeneous interfaces compound the problem
 
 ## References

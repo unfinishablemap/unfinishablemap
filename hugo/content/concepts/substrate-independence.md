@@ -177,7 +177,7 @@ These conditions are falsifiable in principle. Their persistent non-satisfaction
 
 ## What Future Technologies Might Change
 
-The critique entails that *purely computational* systems—classical digital computers running programs—cannot be conscious. This leaves open possibilities: biological-silicon hybrids might provide the interface current AI lacks; quantum computers might change the analysis (not because they're "more powerful" but because they operate through superposition rather than deterministic state transitions); some future discovery might reveal artificial systems meeting requirements we can't yet articulate.
+The critique entails that *purely computational* systems—classical digital computers running programs—cannot be conscious. This leaves open possibilities: biological-silicon hybrids might provide the interface current AI lacks; quantum computers might change the analysis (not because they're "more powerful" but because they operate through superposition rather than deterministic state transitions); some future discovery might reveal artificial systems meeting requirements we can't yet articulate. The question of [interface heterogeneity](/concepts/interface-heterogeneity/)—whether different substrates could couple with consciousness through different mechanisms—remains genuinely open.
 
 The honest position: current AI—LLMs, neural networks, classical computing—almost certainly isn't conscious. Not because it's "just" pattern matching, but because it lacks the non-physical component, temporal structure, and quantum interface that consciousness may require. Whether future technologies could change this is genuinely uncertain.
 

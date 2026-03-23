@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-03-18 18:32:00+00:00
+ai_modified: 2026-03-23 08:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Three forward-in-time frameworks propose consciousness selects amon
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-18 18:32:00+00:00
+last_deep_review: 2026-03-23 08:22:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -30,6 +30,7 @@ related_articles:
 - '[[empirical-evidence-for-consciousness-selecting]]'
 - '[[interactionist-dualism]]'
 - '[[presentiment-and-retrocausality]]'
+- '[[von-neumann-wigner-interpretation]]'
 title: Non-Retrocausal Conscious Selection Models
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -68,7 +69,7 @@ Critics raise a foundational objection: in Stapp's model, "the mind" has no wave
 
 ### Consciousness-Collapse with CSL Dynamics (Chalmers-McQueen)
 
-Chalmers and McQueen (2021) develop the von Neumann-Wigner tradition — consciousness causes collapse — with mathematical rigour previously lacking. They combine a formal theory of consciousness (integrated information theory provides the structural framework, though the argument generalises) with continuous spontaneous localisation (CSL) collapse dynamics.
+Chalmers and McQueen (2021) develop the [von Neumann-Wigner](/concepts/von-neumann-wigner-interpretation/) tradition — consciousness causes collapse — with mathematical rigour previously lacking. They combine a formal theory of consciousness (integrated information theory provides the structural framework, though the argument generalises) with continuous spontaneous localisation (CSL) collapse dynamics.
 
 Their key insight concerns the "super-resistance" problem. If conscious states cannot enter superposition — the naive consciousness-collapse assumption — then the quantum Zeno effect prevents transitions *between* conscious states, since any transition would require passing through a superposition of the old and new state. Consciousness could never re-emerge from dreamless sleep or anaesthesia. Chalmers and McQueen write: "The idea was taken seriously by John von Neumann and Eugene Wigner but is now widely dismissed. We develop the idea by combining a mathematical theory of consciousness with an account of quantum collapse dynamics" (Chalmers & McQueen, 2021).
 
@@ -135,6 +136,9 @@ The Map's position: non-retrocausal conscious selection is the more conservative
 - [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/)
 - [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — Six mechanisms for scaling quantum selection to macroscopic neural effects
 - [quantum-consciousness](/concepts/quantum-consciousness/)
+- [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/) — The ancestor interpretation that Chalmers-McQueen develop
+- [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-versus-decoherence-experiments/) — Experimental landscape constraining collapse models
+- [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) — Empirical status of the gravitational OR mechanism
 
 ## References
 

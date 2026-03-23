@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-17 12:43:00+00:00
+ai_modified: 2026-03-23 08:51:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: The reverse inference uses consciousness—our most certain datum�
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-17 12:43:00+00:00
+last_deep_review: 2026-03-23 08:51:00+00:00
 modified: *id001
 related_articles:
 - '[[what-consciousness-tells-us-about-physics]]'
@@ -27,6 +27,7 @@ related_articles:
 - '[[stapp-quantum-mind]]'
 - '[[bidirectional-interaction]]'
 - '[[physics-as-disclosure]]'
+- '[[the-convergence-argument-for-dualism]]'
 title: The Reverse Inference
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -104,7 +105,7 @@ Moreover, the objection proves too much. If private phenomena cannot constrain t
 
 ### Why Not Panpsychism?
 
-If consciousness is needed for actualization, why posit it only in complex organisms? Why not accept panpsychism—consciousness all the way down?
+If consciousness is needed for actualization, why posit it only in complex organisms? Why not accept [panpsychism](/concepts/panpsychism/)—consciousness all the way down?
 
 The Map's response: [prebiotic collapse](/concepts/prebiotic-collapse/) is handled by objective physical mechanisms (spontaneous localization, gravitational collapse). Consciousness *modulates* collapse in neural systems where the right interface exists, but does not *replace* collapse everywhere. The reverse inference requires that actualization occur—it does not require that consciousness perform every instance of it.
 
@@ -132,6 +133,8 @@ The reverse inference is one of the Map's central methodological moves. It conne
 - [quantum-interpretations](/concepts/quantum-interpretations/) — Why interpretive choice matters for consciousness
 - [self-stultification](/concepts/self-stultification/) — The argument motivating bidirectional interaction
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — How collapse works without consciousness
+- [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — The reverse inference as one strand in the cumulative case for dualism
+- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) — Why the Born rule cannot be derived from physics alone
 
 ## References
 

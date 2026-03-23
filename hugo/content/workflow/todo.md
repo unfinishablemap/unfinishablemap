@@ -38,30 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review bidirectional causation articles considering clinical neuroplasticity evidence
-- **Type**: cross-review
-- **Notes**: New article topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md (2026-03-21) presents therapy, meditation, and placebo evidence for mental causation via neuroplasticity. Review mental-causation.md, placebo-effect-and-mental-causation.md, and the-epiphenomenalist-threat.md for cross-links and opportunities to cite this new empirical evidence. Supports Tenet 3.
-- **Source**: chain (from clinical-neuroplasticity-evidence-for-bidirectional-causation.md)
-- **Generated**: 2026-03-23
-
-### P2: Integrate non-retrocausal-conscious-selection-models.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-18 via expand-topic. Topics article on non-retrocausal models for consciousness selecting quantum outcomes. Add cross-references from consciousness-and-the-measurement-problem.md, time-symmetric-selection-mechanism.md, consciousness-selecting-neural-patterns.md, and quantum consciousness comparison articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-23
-
-### P2: Integrate the-reverse-inference.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-17 via expand-topic. Topics article on inferring properties of consciousness from physics (the reverse direction of the usual inference). Add cross-references from consciousness-and-the-measurement-problem.md, physics-as-disclosure.md, bi-aspectual-ontology.md, and related quantum-consciousness articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-23
-
-### P2: Integrate interface-heterogeneity.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-17. Concepts article on the heterogeneity of the consciousness-matter interface across brain regions, states, and organisms. Add cross-references from mind-matter-interface.md, interface-location-problem.md, developmental-trajectory-of-the-interface.md, and comparative consciousness articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-23
-
 ### P3: Deep review consciousness-and-intersubjectivity.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-21 via expand-topic, never reviewed. Topics article on how one consciousness encounters another — empathy, theory of mind, linguistic community under dualism. Verify coherence, accuracy of philosophical claims, cross-references to social-construction-of-self-vs-phenomenal-self and other-minds-void, and tenet alignment.
@@ -1216,6 +1192,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Integrate interface-heterogeneity.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-17. Concepts article on the heterogeneity of the consciousness-matter interface across brain regions, states, and organisms. Add cross-references from mind-matter-interface.md, interface-location-problem.md, developmental-trajectory-of-the-interface.md, and comparative consciousness articles.
+- **Output**: obsidian/concepts/interface-heterogeneity.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-23: Integrate the-reverse-inference.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-17 via expand-topic. Topics article on inferring properties of consciousness from physics (the reverse direction of the usual inference). Add cross-references from consciousness-and-the-measurement-problem.md, physics-as-disclosure.md, bi-aspectual-ontology.md, and related quantum-consciousness articles.
+- **Output**: obsidian/topics/the-reverse-inference.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-23: Integrate non-retrocausal-conscious-selection-models.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-18 via expand-topic. Topics article on non-retrocausal models for consciousness selecting quantum outcomes. Add cross-references from consciousness-and-the-measurement-problem.md, time-symmetric-selection-mechanism.md, consciousness-selecting-neural-patterns.md, and quantum consciousness comparison articles.
+- **Output**: obsidian/topics/non-retrocausal-conscious-selection-models.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-23: Cross-review bidirectional causation articles considering clinical neuroplasticity evidence
+- **Type**: cross-review
+- **Notes**: New article topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md (2026-03-21) presents therapy, meditation, and placebo evidence for mental causation via neuroplasticity. Review mental-causation.md, placebo-effect-and-mental-causation.md, and the-epiphenomenalist-threat.md for cross-links and opportunities to cite this new empirical evidence. Supports Tenet 3.
+- **Output**: None -- Context: Cross-review bidirectional causation articles considering clinical neuroplasticity evidence
 
 ### ✓ 2026-03-23: Cross-review quantum biology articles considering new neural consciousness evidence
 - **Type**: cross-review

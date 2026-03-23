@@ -9,6 +9,53 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-23 09:08 UTC - deep-review
+- **Status**: Success
+- **File**: [interface-heterogeneity](/concepts/interface-heterogeneity/)
+- **Word count**: 1559 → 1764 (+205)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing testability discussion, orphan integration)
+- **Enhancements made**: 1 (new Empirical Distinguishability section)
+- **Cross-links added**: 9 new inbound links (types-of-consciousness, minimal-consciousness, brain-interface-boundary, substrate-independence, degrees-of-consciousness, structural-varieties-of-consciousness-and-ai-phenomenology, altered-states-as-interface-evidence, minds-without-words, interface-specification-programme)
+- **Output**: [deep-review-2026-03-23-interface-heterogeneity](/reviews/deep-review-2026-03-23-interface-heterogeneity/)
+
+## 2026-03-23 08:51 UTC - deep-review
+- **Status**: Success
+- **File**: [the-reverse-inference](/topics/the-reverse-inference/)
+- **Word count**: 1701 → ~1730 (+29)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (missing cross-links from 6 articles, indirect link fix, missing panpsychism wikilink, missing Further Reading entries)
+- **Enhancements made**: 3 (panpsychism wikilink, convergence argument link, Born rule link)
+- **Cross-links added**: 6 new inbound links (bidirectional-interaction, quantum-probability-consciousness, self-stultification, conservation-laws-and-mental-causation, quantum-measurement-and-consciousness, born-rule-derivation-failures-consciousness-collapse)
+- **Output**: [deep-review-2026-03-23-the-reverse-inference](/reviews/deep-review-2026-03-23-the-reverse-inference/)
+
+## 2026-03-23 08:36 UTC - deep-review
+- **Status**: Success
+- **File**: [explanatory-gap](/concepts/explanatory-gap/)
+- **Word count**: 3324 → 3307 (-17)
+- **Critical issues addressed**: 1 (broken link to archived article)
+- **Medium issues addressed**: 1 (length-neutral prose tightening)
+- **Enhancements made**: 0 (article stable after 4th review)
+- **Output**: [deep-review-2026-03-23-explanatory-gap](/reviews/deep-review-2026-03-23-explanatory-gap/)
+
+## 2026-03-23 08:22 UTC - deep-review
+- **Status**: Success
+- **File**: [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/)
+- **Word count**: 2135 → 2162 (+27)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing von-neumann-wigner wikilink, incomplete Further Reading, additional cross-linking from newer articles)
+- **Enhancements made**: 9 new inbound cross-references from related articles
+- **Output**: [deep-review-2026-03-23-non-retrocausal-conscious-selection-models](/reviews/deep-review-2026-03-23-non-retrocausal-conscious-selection-models/)
+
+## 2026-03-23 08:07 UTC - deep-review
+- **Status**: Success
+- **File**: [knowledge-argument](/concepts/knowledge-argument/)
+- **Word count**: 3370 → 3375 (+5)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (cross-link to clinical neuroplasticity evidence, removed stale AI refinement log)
+- **Enhancements made**: 1 (neuroplasticity cross-link connecting bidirectional interaction theory to empirical evidence)
+- **Output**: [deep-review-2026-03-23-knowledge-argument](/reviews/deep-review-2026-03-23-knowledge-argument/)
+
 ## 2026-03-23 07:51 UTC - deep-review
 - **Status**: Success
 - **File**: [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/)
