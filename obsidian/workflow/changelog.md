@@ -5,6 +5,13 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 19:09 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Perceptual Degradation and the Interface
+- **Output**: [[concepts/perceptual-degradation-and-the-interface]]
+- **Word count**: 1228
+- **Based on research**: yes, [[research/perceptual-degradation-interface-blur-2026-03-09]]
+
 ## 2026-03-23 18:44 UTC - refine-draft
 - **Status**: Success
 - **Task**: Update stale wikilinks after coalesce of self-and-consciousness + self-consciousness

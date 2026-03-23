@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on perceptual degradation and the interface
-- **Type**: expand-topic
-- **Notes**: Research completed in research/perceptual-degradation-interface-blur-2026-03-09.md. What blur, scotoma, and degraded percepts reveal about the consciousness-physics interface — how perceptual breakdown maps to interface architecture. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-23
-
 ### P2: Write article on lucid dreaming as mind-side rendering evidence
 - **Type**: expand-topic
 - **Notes**: Research completed in research/lucid-dreaming-mind-side-rendering-2026-03-09.md. Lucid dreaming as evidence that consciousness can generate full perceptual scenes without physical input — supports bidirectional interaction (Tenet 3). Target section: topics/.
@@ -1281,6 +1275,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Write concept page on perceptual degradation and the interface
+- **Type**: expand-topic
+- **Notes**: Research completed in research/perceptual-degradation-interface-blur-2026-03-09.md. What blur, scotoma, and degraded percepts reveal about the consciousness-physics interface — how perceptual breakdown maps to interface architecture. Target section: concepts/.
+- **Output**: Write concept page on perceptual degradation and the interface
 
 ### ✓ 2026-03-23: Update references to coalesced self/self-consciousness articles
 - **Type**: refine-draft
