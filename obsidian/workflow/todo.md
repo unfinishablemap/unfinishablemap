@@ -1213,6 +1213,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Six cross-linking opportunities identified: inventory-blindness→dimensionality-void, epistemology-of-limit-knowledge→contemplative-practice, perceptual-reconstruction-paradox→consciousness-and-skill-acquisition, emergence-as-universal-hard-problem→the-convergence-argument-for-dualism, self-stultification-as-master-argument→consciousness-and-testimony, dimensionality-void→phenomenology-of-cognitive-limit-types. See optimistic-2026-03-23.md
 - **Generated**: 2026-03-23
 
+### P3: Write article on philosophy of action under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has extensive free will and phenomenology-of-agency coverage but lacks a unified action theory treatment — what makes bodily movements count as actions under interactionist dualism. Davidson, Anscombe, Frankfurt all look different under agent causation. Builds on free-will, phenomenology-of-agency-vs-passivity, motor-selection, skill-delegation. Target section: topics/. See optimistic-2026-03-23-afternoon.md
+- **Generated**: 2026-03-23
+
+### P3: Write article on phenomenology of moral emotion
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Strong moral philosophy coverage but thin treatment of moral emotions specifically — guilt, shame, indignation, compassion. These present dual challenges for physicalism (intentionality + qualitative character). Builds on emotion-and-dualism, phenomenology-of-moral-life, consciousness-and-moral-agency-under-duress. Target section: topics/. See optimistic-2026-03-23-afternoon.md
+- **Generated**: 2026-03-23
+
+### P3: Add cross-links from optimistic review 2026-03-23 afternoon findings
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Six cross-linking opportunities identified: the-epiphenomenalist-threat→consciousness-and-the-problem-of-induction, evolutionary-case-for-mental-causation→clinical-dissociation-as-systematic-evidence, pragmatisms-path-to-dualism→contemplative-practice-as-philosophical-evidence, causal-closure→emergence-as-universal-hard-problem, filter-theory→clinical-dissociation-as-systematic-evidence, differential-predictions-consciousness-collapse→philosophical-stakes-of-spontaneous-collapse. See optimistic-2026-03-23-afternoon.md
+- **Generated**: 2026-03-23
+
 ## Completed Tasks
 
 
