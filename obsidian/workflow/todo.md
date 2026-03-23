@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review phenomenology-of-recursive-thought.md considering self-reference-paradox insights
-- **Type**: cross-review
-- **Notes**: New article concepts/self-reference-paradox.md explores how self-reference creates paradoxes for consciousness theories. Check phenomenology-of-recursive-thought.md for cross-links, reinforcing arguments about recursive awareness, or terminology alignment.
-- **Source**: chain (from concepts/self-reference-paradox.md)
-- **Generated**: 2026-03-23
-
 ### P2: Cross-review introspection.md considering self-reference-paradox insights
 - **Type**: cross-review
 - **Notes**: New article concepts/self-reference-paradox.md directly bears on introspective self-reference. Check concepts/introspection.md for opportunities to link to the paradox, strengthen the introspection reliability argument, or note where self-reference creates limits on introspective access.
@@ -1269,6 +1263,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Cross-review phenomenology-of-recursive-thought.md considering self-reference-paradox insights
+- **Type**: cross-review
+- **Notes**: New article concepts/self-reference-paradox.md explores how self-reference creates paradoxes for consciousness theories. Check phenomenology-of-recursive-thought.md for cross-links, reinforcing arguments about recursive awareness, or terminology alignment.
+- **Output**: obsidian/topics/phenomenology-of-recursive-thought.md -- Context: Cross-review phenomenology-of-recursive-thought.md considering self-reference-paradox insights
 
 ### ✓ 2026-03-23: Write article on lucid dreaming as mind-side rendering evidence
 - **Type**: expand-topic
