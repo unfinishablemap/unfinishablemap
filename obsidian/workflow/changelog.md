@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 00:51 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/selective-perceptual-correction]]
+- **Word count**: 1294 → 1375 (+81)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (added cross-references to newer cluster articles, introduced third perceptual mode)
+- **Enhancements made**: 2 (cross-links to perceptual-reconstruction-paradox and perceptual-reconstruction-selection)
+- **Output**: [[reviews/deep-review-2026-03-23-selective-perceptual-correction]]
+
 ## 2026-03-23 00:36 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/epistemology-of-limit-knowledge]]

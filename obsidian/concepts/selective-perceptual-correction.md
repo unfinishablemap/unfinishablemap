@@ -4,7 +4,7 @@ description: "The brain corrects some perceptual errors silently while faithfull
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-18T00:40:00+00:00
+ai_modified: 2026-03-23T00:51:00+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -19,6 +19,8 @@ concepts:
   - "[[phenomenal-consciousness]]"
   - "[[consciousness-only-territories]]"
   - "[[heterophenomenology]]"
+  - "[[perceptual-reconstruction-paradox]]"
+  - "[[perceptual-reconstruction-selection]]"
 related_articles:
   - "[[reconstruction-paradox]]"
   - "[[hard-problem-of-consciousness]]"
@@ -29,12 +31,12 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-03-18T00:40:00+00:00
+last_deep_review: 2026-03-23T00:51:00+00:00
 ---
 
 Selective perceptual correction is the brain's asymmetric processing of sensory signals: it silently repairs some perceptual errors before consciousness encounters them while faithfully delivering others—degraded, illusory, or false—without intervention. The brain fills the blind spot, suppresses visual smear during eye movements, and maintains colour constancy, all without conscious awareness. Yet it transmits optical blur, tinnitus, visual floaters, and persistent illusions to consciousness unchanged, even when the conscious mind knows the signal is wrong. This selectivity is not random. It follows identifiable computational principles that reveal the structure of the mind-body interface.
 
-This concept article describes the *mechanism*—how and when the brain corrects versus transmits. The [[reconstruction-paradox|reconstruction paradox]] explores the deeper philosophical puzzle this mechanism creates: why the asymmetry generates qualitatively different experiences and what that implies about the nature of the experiencing subject.
+This concept article describes the *mechanism*—how and when the brain corrects versus transmits. The [[perceptual-reconstruction-paradox|perceptual reconstruction paradox]] explores the philosophical puzzle this asymmetry creates, and the [[reconstruction-paradox|reconstruction paradox]] void examines what the asymmetry reveals about the unchartable boundaries of conscious access.
 
 ## What Gets Corrected
 
@@ -62,6 +64,8 @@ It transmits faithfully when sensory signals are precise and reliable, when no p
 
 This three-condition framework explains the pattern. Blind spot filling meets all three conditions: the brain has strong contextual priors, the sensory evidence is literally absent, and filling serves visual continuity. Optical blur fails condition two: the retinal signal is precise, so the brain has no basis for overriding it. The Müller-Lyer illusion fails by encapsulation: the perceptual module cannot receive the correction that higher cognition would supply.
 
+A third mode emerges when neither autonomous correction nor faithful transmission applies: the brain generates multiple viable reconstructions and consciousness must select among them. Bistable percepts—the Necker cube, binocular rivalry—exemplify this case. [[perceptual-reconstruction-selection|Perceptual reconstruction selection]] explores how this third mode completes the taxonomy: autonomous correction, faithful transmission, and selection under ambiguity each involve a different relationship between brain processing and conscious experience.
+
 ## Why the Asymmetry Matters Philosophically
 
 The computational account explains *how* the brain decides what to correct. It does not explain why there is something it is like to receive either version. A purely computational system can operate in two modes—error correction for some channels, pass-through for others—without generating any philosophical puzzle. The puzzle arises because these two modes produce qualitatively different *experiences*. The filled-in blind spot feels like continuous vision. Optical blur feels like degraded vision. Each mode has a distinct [[qualia|phenomenal character]].
@@ -82,7 +86,9 @@ The Map speculates that the boundary between corrected and uncorrected signals m
 
 ## Further Reading
 
-- [[reconstruction-paradox]] — the philosophical paradox this mechanism creates
+- [[perceptual-reconstruction-paradox]] — the philosophical paradox this mechanism creates
+- [[reconstruction-paradox]] — the deeper void exploration of the asymmetry's limits
+- [[perceptual-reconstruction-selection]] — the third mode: selection under ambiguity
 - [[dualist-perception]]
 - [[predictive-processing-and-dualism]]
 - [[attention-as-interface]]

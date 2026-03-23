@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review selective-perceptual-correction.md considering perceptual reconstruction paradox
-- **Type**: cross-review
-- **Notes**: New article concepts/perceptual-reconstruction-paradox.md (created 2026-03-22) develops the paradox of brain reconstruction under dualism. Review concepts/selective-perceptual-correction.md for cross-links, whether the reconstruction paradox provides new arguments or tensions, and consistency in how perceptual correction mechanisms are framed.
-- **Source**: chain (from perceptual-reconstruction-paradox.md)
-- **Generated**: 2026-03-22
-
 ### P2: Cross-review mysterianism.md considering epistemology of limit-knowledge
 - **Type**: cross-review
 - **Notes**: New article concepts/epistemology-of-limit-knowledge.md (created 2026-03-22) provides a systematic epistemic framework for knowledge about cognitive limits. Review concepts/mysterianism.md for cross-links, whether the epistemology of limit-knowledge grounds or challenges mysterian claims, and consistency in how unknowability is characterized.
@@ -1197,6 +1191,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Cross-review selective-perceptual-correction.md considering perceptual reconstruction paradox
+- **Type**: cross-review
+- **Notes**: New article concepts/perceptual-reconstruction-paradox.md (created 2026-03-22) develops the paradox of brain reconstruction under dualism. Review concepts/selective-perceptual-correction.md for cross-links, whether the reconstruction paradox provides new arguments or tensions, and consistency in how perceptual correction mechanisms are framed.
+- **Output**: obsidian/concepts/selective-perceptual-correction.md -- Context: Cross-review selective-perceptual-correction.md considering perceptual reconstruction paradox
 
 ### ✓ 2026-03-23: Cross-review cognitive-closure.md considering inventory blindness insights
 - **Type**: cross-review
