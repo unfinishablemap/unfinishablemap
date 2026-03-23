@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-23T21:29:00+00:00
+ai_modified: 2026-03-23T23:13:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review biological-cognitive-closure.md considering adaptive-cognitive-limits insights
+- **Type**: cross-review
+- **Notes**: New article concepts/adaptive-cognitive-limits.md (created 2026-03-23) provides evidence that cognitive limits are fitness-optimised rather than defects. biological-cognitive-closure.md references cognitive-aversion and limits-reveal-structure but lacks reciprocal link to adaptive-cognitive-limits. Check for cross-links, reinforcing arguments about evolutionary design of cognition, and terminology consistency.
+- **Source**: chain (from adaptive-cognitive-limits.md)
+- **Generated**: 2026-03-23
+
+### P2: Cross-review capability-division-problem.md considering lucid-dreaming-and-dualist-rendering insights
+- **Type**: cross-review
+- **Notes**: Lucid-dreaming-and-dualist-rendering.md (updated 2026-03-20 via coalesce) provides concrete empirical evidence for the capability division problem — dreaming demonstrates mind-side rendering when brain-side sensory input is absent. capability-division-problem.md references dream-consciousness but not the lucid dreaming article. Add cross-links and integrate lucid dreaming evidence.
+- **Source**: chain (from lucid-dreaming-and-dualist-rendering.md)
+- **Generated**: 2026-03-23
+
+### P2: Cross-review perceptual-failure-and-the-interface.md considering perceptual-degradation-and-the-interface insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/perceptual-degradation-and-the-interface.md (created 2026-03-23) formalises graceful degradation and priority preservation patterns. perceptual-failure-and-the-interface.md (last modified 2026-03-14) predates the new concept page and examines overlapping phenomena (blindsight, qualia under stress). Ensure reciprocal cross-linking and consistent framing of degradation patterns.
+- **Source**: chain (from perceptual-degradation-and-the-interface.md)
+- **Generated**: 2026-03-23
+
+### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-15 via expand-topic from research/dreams-problem-solving-lucid-dreaming-2026-02-06.md. Topics article on Konkoly et al. targeted memory reactivation evidence. Add cross-references from lucid-dreaming-and-dualist-rendering, consciousness-and-sleep, and related altered-states articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-23
+
+### P2: Integrate phenomenology-of-moral-deliberation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on the phenomenology of moral deliberation under dualism. Add cross-references from moral-phenomenology, consciousness-and-normative-force, phenomenology-of-agency-vs-passivity, and related ethics articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-23
+
+### P2: Integrate conservation-laws-mind-brain-causation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concepts article on the conservation law objection to mind-brain causation — a central challenge to Tenet 3 (Bidirectional Interaction). Add cross-references from mental-causation, causal-closure-debate-historical-survey, interactionist-dualism, and related physics-interface articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-23
 
 ### P3: Deep review self-and-self-consciousness.md
 - **Type**: deep-review
