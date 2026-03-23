@@ -37,6 +37,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address circular fitness argument and unsupported claims in evolution-under-dualism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found two high-severity issues: (1) circular fitness argument in "Selection Pressure on Interfaces" section — interface selection assumes mental causation without independent grounding; (2) unsupported claim that attentional systems are "far more sophisticated than what pure information processing would require" with no computational baseline. See pessimistic-2026-03-23c.md
+
 ### P2: Create concept page for self-reference-paradox
 - **Type**: expand-topic
 - **Notes**: Referenced by 110 wikilinks across the site but has no dedicated page. Self-reference paradox is a core concept for the Map's arguments about consciousness and the limits of physical description. Target section: concepts/ (223/230, 7 slots remaining). Directly supports Tenet 5 (Occam's Razor Has Limits).
