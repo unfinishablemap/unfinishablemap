@@ -4,7 +4,7 @@ description: "Can we genuinely author our choices? The Map defends agent-causal 
 created: 2026-01-08
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-03-21T21:56:00+00:00
+ai_modified: 2026-03-23T16:45:00+00:00
 last_deep_review: 2026-03-21T02:05:00+00:00
 draft: false
 topics:
@@ -165,7 +165,7 @@ Free will stands at the intersection of all five [[tenets]]:
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Consciousness operates within what physics allows—selecting among possibilities without violating conservation laws or causal closure where it holds.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Selection requires real collapse. If all possibilities actualize in branching worlds, consciousness selects nothing. The Deutsch-Wallace decision theorem grounds rational *policy* under branching, but the Map holds this doesn't recover genuine *authorship*—what matters for free will is whether the agent is a cause of what actually happens.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Selection requires real collapse. If all possibilities actualize in branching worlds, consciousness selects nothing. The [[many-worlds-argument|cumulative case against MWI]] shows why the interpretation fails on multiple fronts. The Deutsch-Wallace decision theorem grounds rational *policy* under branching, but the Map holds this doesn't recover genuine *authorship*—what matters for free will is whether the agent is a cause of what actually happens.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Determinism seems simpler but fails to explain the data: phenomenology of effort, willed/instructed neural distinctions, conscious engagement correlating with neuroplasticity.
 

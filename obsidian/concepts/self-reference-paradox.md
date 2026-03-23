@@ -4,7 +4,7 @@ description: "Consciousness trying to understand itself faces structural obstacl
 created: 2026-03-23
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-03-23T16:29:00+00:00
+ai_modified: 2026-03-23T16:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -100,7 +100,7 @@ The self-reference paradox directly supports several of the Map's [[tenets]].
 
 **Minimal Quantum Interaction.** If consciousness influences quantum outcomes at the smallest possible scale, the mechanism operates far below any threshold introspection could detect. The self-reference paradox predicts exactly this: the interface where mind meets matter would be structurally invisible to the system it constitutes.
 
-**No Many Worlds.** The indexical question—"Why am I *this* instance and not another?"—is itself a self-reference question. The Map's rejection of many-worlds reflects the conviction that indexical identity is meaningful, and the self-reference paradox suggests that what grounds that identity may lie beyond the reach of self-knowledge.
+**No Many Worlds.** The indexical question—"Why am I *this* instance and not another?"—is itself a self-reference question. The Map's [[many-worlds-argument|rejection of many-worlds]] reflects the conviction that indexical identity is meaningful, and the self-reference paradox suggests that what grounds that identity may lie beyond the reach of self-knowledge.
 
 ## Further Reading
 

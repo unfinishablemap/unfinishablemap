@@ -3,7 +3,7 @@ title: "Against Many-Worlds"
 created: 2026-01-15
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-02-25T01:14:00+00:00
+ai_modified: 2026-03-23T16:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-02-25T01:14:00+00:00
+last_deep_review: 2026-03-23T16:45:00+00:00
 ---
 
 The many-worlds interpretation (MWI) of quantum mechanics holds that every quantum measurement causes the universe to branch, with all possible outcomes occurring in different branches. The Unfinishable Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet explicitly rejects this interpretation. This article presents the arguments why.
@@ -197,6 +197,7 @@ The Map requires that quantum measurement is real—that definite outcomes genui
 - [[haecceity]] — The metaphysics of "thisness" that MWI cannot accommodate
 - [[parfit-reductionism]] — Parallel problems with identity reductionism
 - [[binding-problem]] — The unity of consciousness that branching threatens
+- [[probability-objections-many-worlds]] — Four probability and decision-theory objections in detail
 - [[interactionist-dualism]] — The positive case for the alternative
 
 ## References

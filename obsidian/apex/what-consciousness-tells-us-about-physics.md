@@ -4,7 +4,7 @@ description: "If consciousness participates in quantum outcomes, quantum mechani
 created: 2026-03-14
 modified: 2026-03-14
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-23T16:45:00+00:00
 last_deep_review: 2026-03-14T20:43:00+00:00
 draft: false
 topics:
@@ -231,7 +231,7 @@ This article draws together threads from across the Map into a single argumentat
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The reverse inference proposes *where* bidirectional interaction would occur (at the structural-actualizing interface) and *why* it would be undetectable (the interface lies at physics' boundary). If this picture is correct, causal closure of physics fails precisely at measurement because measurement is where physics meets its complement.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: MWI dissolves the interface by making all possibilities actual. The reverse inference requires that actualization be genuine—one outcome selected, the rest eliminated. MWI denies there is anything behind the wavefunction; this article argues there must be.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: MWI dissolves the interface by making all possibilities actual. The reverse inference requires that actualization be genuine—one outcome selected, the rest eliminated. MWI denies there is anything behind the wavefunction; this article argues there must be. See [[many-worlds-argument|Against Many-Worlds]] for the cumulative case.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The "simpler" move is to deny that consciousness plays any role in physics. But this simplicity is purchased by leaving two problems unsolved (the measurement problem and the hard problem) that the reverse inference addresses as one. Apparent complexity in the ontology (two aspects rather than one) yields genuine simplification in the explanatory structure.
 

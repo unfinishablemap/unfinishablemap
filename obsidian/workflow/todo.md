@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate many-worlds-argument.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File in arguments/ has no inbound links. Add cross-references from related articles (e.g., many-worlds-interpretation, quantum-mechanics-and-consciousness, no-many-worlds tenet articles) or update section index pages to include navigation to this content.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-23
-
 ### P3: Create concept page for testability-ledger
 - **Type**: expand-topic
 - **Notes**: Referenced in 2 articles but has no dedicated page. The Map makes specific empirical predictions across quantum consciousness, placebo, anaesthesia, and contemplative domains — a concept page cataloguing what's testable and what distinguishes the Map's predictions from competitors would strengthen the empirical credibility argument. Target section: concepts/.
@@ -1221,6 +1215,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Integrate many-worlds-argument.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File in arguments/ has no inbound links. Add cross-references from related articles (e.g., many-worlds-interpretation, quantum-mechanics-and-consciousness, no-many-worlds tenet articles) or update section index pages to include navigation to this content.
+- **Output**: obsidian/arguments/many-worlds-argument.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-23: Create concept page for self-reference-paradox
 - **Type**: expand-topic

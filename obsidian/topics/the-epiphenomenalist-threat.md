@@ -4,7 +4,7 @@ description: "Epiphenomenalism isn't just one view among many—it's the default
 created: 2026-02-22
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-22T10:57:00+00:00
+ai_modified: 2026-03-23T16:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -154,7 +154,7 @@ The Unfinishable Map rejects this premise. The [[tenets#^minimal-quantum-interac
 
 The framework escapes because it denies step 2 of the pattern. Physical events do *not* always have sufficient physical causes. Kim's exclusion argument does not apply where physics is incomplete—there is no physical cause to exclude the mental one. The [[agent-causation|agent-causal framework]] strengthens this: consciousness exercises causal powers at quantum openings through a mode of causation that is irreducibly agentive, not event-causal.
 
-This escape depends on a collapse interpretation. Under [[tenets#^no-many-worlds|many-worlds]], every quantum outcome actualizes—there are no undetermined outcomes for consciousness to select among. The Map's No Many Worlds tenet is not a separate preference; it is a structural requirement for maintaining escape velocity.
+This escape depends on a collapse interpretation. Under [[tenets#^no-many-worlds|many-worlds]], every quantum outcome actualizes—there are no undetermined outcomes for consciousness to select among. The Map's No Many Worlds tenet is not a separate preference; it is a structural requirement for maintaining escape velocity. See [[many-worlds-argument|Against Many-Worlds]] for the full argument.
 
 ## The Decoherence Challenge
 

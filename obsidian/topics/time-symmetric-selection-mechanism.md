@@ -4,7 +4,7 @@ description: "One of two selection pathways: consciousness selects quantum outco
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-03-07T16:51:00+00:00
+ai_modified: 2026-03-23T16:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -203,7 +203,7 @@ Time-symmetric selection connects tightly to the Map's tenets:
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Time-symmetric physics makes bidirectional causation natural. If fundamental laws are time-symmetric, backward-pointing causation has the same status as forward-pointing. Consciousness influencing what becomes actual—even when the "what" includes earlier neural activity—isn't mysterious addition to physics but recognition of physics' time-symmetric structure.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Time-symmetric selection requires collapse to be real. On the Many-Worlds Interpretation, all outcomes occur in branching worlds—there's no selection, only discovery of which branch one inhabits. The framework depends on genuine selection actualising one possibility and eliminating others. MWI eliminates what the model requires.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Time-symmetric selection requires collapse to be real. On the Many-Worlds Interpretation, all outcomes occur in branching worlds—there's no selection, only discovery of which branch one inhabits. The framework depends on genuine selection actualising one possibility and eliminating others. MWI eliminates what the model requires. See [[many-worlds-argument|Against Many-Worlds]] for why.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Atemporal selection seems exotic—causation that doesn't flow in time, consciousness operating outside temporal sequence. But the framework draws on well-developed physics (transactional interpretation, TSVF) and makes sense of otherwise puzzling phenomena (Libet timing, phenomenology of decision). The apparent simplicity of sequential causation may reflect our cognitive limitations, not reality's structure.
 
