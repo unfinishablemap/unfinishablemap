@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-03-18 20:50:00+00:00
+ai_modified: 2026-03-23 14:19:00+00:00
 ai_system: claude-opus-4-6
-apex_last_synthesis: 2026-03-16 02:47:00+00:00
+apex_last_synthesis: 2026-03-23 14:19:00+00:00
 apex_sources:
 - topics/psychedelics-and-the-filter-model
 - topics/dream-consciousness
@@ -35,7 +35,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[phenomenal-consciousness]]'
 created: 2026-03-16
-date: &id001 2026-03-16
+date: &id001 2026-03-23
 description: Five altered states—psychedelics, dreams, hypnagogia, meditation, anaesthesia—converge
   on the same multi-channel interface architecture, mapping consciousness-brain coupling
   through systematic perturbation.
@@ -105,7 +105,7 @@ Meditative cessation events sharpen the point further. Unlike anaesthesia (exter
 
 [Anaesthetic pharmacology](/topics/anaesthesia-and-the-consciousness-interface/) provides the most precise molecular map of the interface. Different agents target different receptor systems and produce different phenomenological outcomes despite identical behavioural unresponsiveness. Propofol (GABA-A) abolishes phenomenal experience entirely—patients report nothing. Ketamine (NMDA) preserves vivid consciousness while severing it from behavioural output. Volatile agents fragment temporal coherence. Midazolam eliminates memory encoding while leaving consciousness and responsiveness largely intact.
 
-These dissociations reveal at least four separable interface components: phenomenal presence, behavioural access, temporal binding, and memory encoding. Each can be pharmacologically isolated. The Meyer-Overton correlation—once taken as evidence for a single anaesthetic mechanism—has been replaced by the recognition that anaesthetics act through specific molecular targets, consistent with a structured interface rather than a generic consciousness-production system.
+These dissociations reveal at least four separable interface components: phenomenal presence, behavioural access, temporal binding, and memory encoding. Each can be pharmacologically isolated. The Meyer-Overton correlation—once taken as evidence for a single anaesthetic mechanism—has been replaced by the recognition that anaesthetics act through specific molecular targets, consistent with a structured interface rather than a generic consciousness-production system. The ketamine case also carries epistemological weight: patients who later report vivid experiences demonstrate that consciousness maintained its causal connection to memory encoding even while severed from behavioural output—a point the Map's [self-stultification argument](/topics/self-stultification-as-master-argument/) develops. If consciousness were epiphenomenal during the ketamine state, the reliability of these later reports would be self-defeating, presupposing the very causal efficacy that epiphenomenalism denies.
 
 The active reboot phenomenon adds a further dimension. Recovery from anaesthesia is not simply the reverse of induction; the brain undertakes specific molecular preparation (including KCC2 downregulation) to reestablish consciousness, as if orienting itself to receive something rather than passively resuming production (Bodart et al., 2021).
 
@@ -136,7 +136,9 @@ Three patterns emerge from this matrix.
 
 The convergence matrix constrains theories of consciousness in ways that individual altered states cannot.
 
-**Production models** must explain why disrupting the brain sometimes enhances consciousness (psychedelics, hypnagogic creativity, REM problem-solving). They must explain why identical behavioural outputs mask radically different phenomenologies (propofol vs. ketamine). They must explain why components dissociate rather than degrading uniformly. Each of these has a piecemeal physicalist explanation—disinhibition, pharmacological specificity, functional separability. What production models lack is a unified account of *why* the interface has this particular architecture.
+A necessary honesty: differential disruption profiles are ontologically neutral. Sophisticated physicalist models—global workspace theory, integrated information theory—also predict that disrupting different neural modules produces different failure modes. The mere fact that interface components dissociate independently does not, by itself, favour filter theory over production models. Both frameworks accommodate structured, multi-component architectures.
+
+The decisive discriminating evidence lies elsewhere: in cases where consciousness *persists or intensifies* during severe neural disruption. Psychedelics expand experience while decreasing cortical activity. Hypnagogic creativity peaks during the transition *away* from full waking function. REM sleep enhances creative problem-solving through a neural configuration that has *withdrawn* executive control. If the brain produces consciousness, then a brain doing less should not produce more. **Production models** must explain these enhancement-through-disruption cases, along with why identical behavioural outputs mask radically different phenomenologies (propofol vs. ketamine). Each has a piecemeal physicalist explanation—disinhibition, pharmacological specificity, functional separability—but the explanations do not converge on a unified account of *why* the interface has this particular architecture.
 
 **Filter theory** provides that unified account. The brain constrains consciousness through multiple semi-independent channels. Different altered states loosen, tighten, or reconfigure different channels. The pattern of what survives and what degrades maps the filter's architecture. Phenomenal presence—the most robust component—corresponds to the receiving side of the interface, which requires only that consciousness have *some* channel through which to manifest. Voluntary attention—the most fragile component—corresponds to the transmitting side, through which consciousness acts back on neural processes. The asymmetry between robust reception and fragile transmission is exactly what an interface model predicts and what a production model must explain ad hoc.
 
@@ -146,7 +148,7 @@ The [Interface Specification Programme](/apex/interface-specification-programme/
 
 Three challenges to this synthesis deserve honest engagement.
 
-**The disinhibition alternative.** For each altered state, a physicalist can offer a disinhibition account: prefrontal withdrawal releases imagery circuits, pharmacological intervention reconfigures network dynamics, sleep pressure shifts neurochemical balance. These accounts explain much of the phenomenological data without invoking non-physical consciousness. The filter interpretation and the disinhibition interpretation make overlapping predictions about individual states. What the disinhibition account struggles with is the *systematic pattern*—why the same multi-component architecture appears across perturbations with entirely different mechanisms. Convergent architecture demands explanation; "each state has its own disinhibition" is not convergence but coincidence.
+**The disinhibition alternative.** For each altered state, a physicalist can offer a disinhibition account: prefrontal withdrawal releases imagery circuits, pharmacological intervention reconfigures network dynamics, sleep pressure shifts neurochemical balance. These accounts explain much of the phenomenological data without invoking non-physical consciousness. As acknowledged in the synthesis section, differential disruption profiles are ontologically neutral—both frameworks predict them. The filter interpretation gains its advantage at two specific points: first, the *systematic convergence*—why the same multi-component architecture appears across perturbations with entirely different mechanisms—and second, the *enhancement-through-disruption* cases where less neural activity produces more consciousness. State-by-state disinhibition accounts are not convergent; they are coincidence dressed as explanation.
 
 **Report reliability.** Altered states compromise the cognitive systems required for accurate introspection. Psychedelic insights may be confabulation; hypnagogic reports are retrospective; dream recall is incomplete. This is a genuine methodological limitation. The response is that report reliability varies across states—meditation enhances rather than degrades metacognitive accuracy (Fox et al., 2012)—and that objective correlates (neuroimaging, creative performance, two-way dream communication) corroborate subjective reports where they can be checked.
 
