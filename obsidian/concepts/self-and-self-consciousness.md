@@ -4,7 +4,7 @@ description: "The minimal self is not added to consciousness but is its very for
 created: 2026-01-14
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-03-23T21:15:00+00:00
+ai_modified: 2026-03-23T22:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,7 +45,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-23
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-23T22:30:00+00:00
 coalesced_from:
   - "/concepts/self-and-consciousness/"
   - "/concepts/self-consciousness/"
@@ -57,7 +57,7 @@ The Unfinishable Map treats both the minimal self and self-consciousness as evid
 
 ## Minimal Self and Narrative Self
 
-Shaun Gallagher and Dan Zahavi distinguish two forms of selfhood. The **minimal self** is pre-reflective first-person consciousness — present whenever consciousness is present. It requires no self-reflection; you don't need to think "I am experiencing this" for the experience to be yours. This "for-me-ness" is necessary (no anonymous experiences exist), non-observational, and non-narrative. Clinical evidence from [[phenomenological-psychiatry-and-altered-experience|phenomenological psychiatry]] supports this: Sass and Parnas's ipseity disturbance model shows that in schizophrenia, for-me-ness can be *distorted* while consciousness persists, suggesting the minimal self admits of degrees while remaining structural.
+Shaun Gallagher and Dan Zahavi distinguish two forms of selfhood. The **minimal self** is pre-reflective first-person consciousness — present whenever consciousness is present. It requires no self-reflection; you don't need to think "I am experiencing this" for the experience to be yours. On the phenomenological account, this "for-me-ness" is necessary (no genuinely anonymous experiences exist), non-observational, and non-narrative. Clinical evidence from [[phenomenological-psychiatry-and-altered-experience|phenomenological psychiatry]] supports this: Sass and Parnas's ipseity disturbance model shows that in schizophrenia, for-me-ness can be *distorted* while consciousness persists, suggesting the minimal self admits of degrees while remaining structural.
 
 The **narrative self** is constructed through self-interpretation — shaped by culture and memory, providing continuity across a lifetime. It presupposes the minimal self: one cannot construct a life story without a basic experiential core. [[cognitive-integration-and-the-self|Cognitive integration and the self]] develops the complementary perspective.
 
@@ -81,7 +81,7 @@ The relationship is asymmetric: reflective self-consciousness presupposes pre-re
 
 The deepest puzzle about self-consciousness was identified by Dieter Henrich, building on Fichte's work: any attempt to *explain* self-consciousness in terms of something more basic appears circular.
 
-Consider the most natural account: self-consciousness arises when consciousness takes itself as its own object. A mental state becomes self-conscious when a second mental act — a reflection, a higher-order thought — is directed at the first. But this model immediately faces a difficulty. The reflecting act must *identify* its target as belonging to the same subject. When I reflect on my pain, I must recognise the pain as *mine* — otherwise the reflection is awareness of some pain, not self-awareness. But recognising mental states as one's own already requires self-consciousness. The explanation presupposes what it was meant to explain.
+Consider the most natural account: self-consciousness arises when consciousness takes itself as its own object — a second mental act directed at the first. But the reflecting act must *identify* its target as belonging to the same subject. When I reflect on my pain, I must recognise the pain as *mine* — otherwise the reflection is awareness of some pain, not self-awareness. Recognising mental states as one's own already requires self-consciousness. The explanation presupposes what it was meant to explain.
 
 Henrich called this the "reflection model" and argued it inevitably fails. Every attempt to construct self-consciousness from non-self-conscious components smuggles self-awareness in through the back door.
 
@@ -117,7 +117,7 @@ The comparative picture suggests self-consciousness has degrees. Pre-reflective 
 
 Thomas Metzinger's self-model theory presents the strongest naturalistic challenge. He argues the self is the content of a "transparent self-model" — a brain-generated representation we cannot see through. His account explains the *structure* of self-experience but not why there is something it is like to have a transparent self-model at all.
 
-Metzinger's later work on minimal phenomenal experience (MPE) poses a sharper challenge: consciousness in its most minimal form might lack subject-structure entirely — a "zero-person perspective." The phenomenological response is that even contentless wakefulness, if genuinely experienced, involves a perspective. The Map treats MPE as an open question.
+Metzinger's later work on minimal phenomenal experience (MPE) poses a sharper challenge: consciousness in its most minimal form might lack subject-structure entirely — a "zero-person perspective." The phenomenological response is that a "zero-person perspective" is incoherent: if there is something it is like to undergo MPE, then there is a subject *for whom* it is like something, however minimal. Eliminating subject-structure means eliminating experience, not finding its floor. The Map treats MPE as an open question but notes this tension in Metzinger's account.
 
 The [[mind-brain-separation|filter theory]] offers an alternative: the self-model could be the interface through which consciousness engages with the brain's processes, rather than the brain producing selfhood. The filter theorist can accept Metzinger's structural observations while denying his conclusion about their source.
 
@@ -151,7 +151,7 @@ The [[galilean-exclusion|Galilean exclusion]] makes this especially stark. Self-
 
 The [[binding-problem|binding problem]] asks how unified conscious experience arises from distributed neural processing. Phenomenal unity and first-person perspective may be two aspects of the same phenomenon — every conscious experience is unified *for* someone.
 
-If the brain does not produce consciousness, the problem inverts: consciousness has intrinsic unity (including the minimal self), and the brain provides informational content that consciousness binds. Unity is a feature of consciousness itself, not an achievement of neural computation. This connects to the [[minimal-consciousness|minimal consciousness]] literature — if the minimal self is a structural feature of consciousness, any conscious system, however simple, would have it.
+If the brain does not produce consciousness, the problem inverts: consciousness has intrinsic unity (including the minimal self), and the brain provides informational content that consciousness binds. On this speculative picture, unity is a feature of consciousness itself, not an achievement of neural computation. This connects to the [[minimal-consciousness|minimal consciousness]] literature — if the minimal self is a structural feature of consciousness, any conscious system, however simple, would have it.
 
 ## Can the Minimal Self Be Tested?
 
@@ -165,7 +165,7 @@ If dissociation cases revealed genuinely anonymous experiences — content exper
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Reflective self-consciousness enables deliberate choice. When consciousness monitors its own states, it can evaluate, revise, and redirect — selecting among competing impulses rather than passively executing whichever is strongest. The capacity for reflective self-awareness is what transforms mere responsiveness into genuine agency, connecting self-consciousness directly to the Map's claim that consciousness causally influences physical outcomes.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: The minimal self is *this* particular perspective, not a pattern that could be multiply instantiated. The [[indexical-knowledge-and-identity|indexical character]] of first-person experience — the unrepeatable fact that *I* am having this experience — supports the tenet's emphasis on indexical identity. A replica with my psychology but a different minimal self would not be *me*. Self-consciousness presupposes a determinate self to be conscious *of* — many-worlds' proliferation of subjects undermines the determinacy that self-consciousness requires.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The minimal self is *this* particular perspective, not a pattern that could be multiply instantiated. The [[indexical-knowledge-and-identity|indexical character]] of first-person experience — the unrepeatable fact that *I* am having this experience — supports the tenet's emphasis on indexical identity. A replica sharing my psychology but grounded in a different minimal self would not be *me*. Self-consciousness presupposes a determinate subject — many-worlds' proliferation of subjects undermines exactly this determinacy.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Treating both the minimal self and self-consciousness as primitive may seem unparsimonious. But the failure of every reductive programme — reflection models, HOT theory, Metzinger's eliminativism, functional decomposition — suggests that simplicity here misleads. If the minimal self is a structural feature of conscious experience, then eliminating it in the name of parsimony means ignoring the evidence most in need of explanation.
 
@@ -194,4 +194,3 @@ If dissociation cases revealed genuinely anonymous experiences — content exper
 8. Sass, L.A. & Parnas, J. (2003). Schizophrenia, consciousness, and the self. *Schizophrenia Bulletin*, 29(3), 427-444.
 9. Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 10. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
-11. Albahari, M. (2006). *Analytical Buddhism: The Two-Tiered Illusion of Self*. Palgrave Macmillan.

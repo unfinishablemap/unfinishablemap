@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-03-23 20:59:00+00:00
+ai_modified: 2026-03-23 22:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ description: The brain silently corrects some perceptual errors while faithfully
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-23 20:59:00+00:00
+last_deep_review: 2026-03-23 22:15:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -58,7 +58,7 @@ Colour constancy, size constancy, temporal binding, and motion interpolation fol
 
 Certain degradations bypass this editing process entirely. Optical blur from uncorrected vision reaches awareness exactly as the retina registers it — and as the [blur paradox](/topics/perceptual-failure-and-the-interface/) reveals, this degraded signal generates novel phenomenal qualities (the texture of blur, the softness of haziness) that belong to the experience rather than the external scene. No sharpening occurs despite the brain's sophisticated edge-detection machinery. Tinnitus presents a persistent neural signal the brain does not suppress even after years. Visual floaters cast real shadows on the retina, and consciousness sees them faithfully.
 
-The most revealing cases are cognitively impenetrable illusions. The Müller-Lyer illusion — lines of equal length appearing unequal — persists even when the observer knows with certainty that the lines are equal. Fodor (1983) and Pylyshyn (1984) identified this as informational encapsulation: perceptual modules process input using only their own internal resources, deaf to corrections from higher cognition. The conscious mind knows the truth and cannot make itself see it.
+The most revealing cases are cognitively impenetrable illusions. The Müller-Lyer illusion — lines of equal length appearing unequal — persists even when the observer knows with certainty that the lines are equal. Fodor (1983) called this *informational encapsulation*; Pylyshyn (1984) termed the closely related phenomenon *cognitive impenetrability*. Both recognised the same core fact: perceptual modules process input using only their own internal resources, deaf to corrections from higher cognition. The conscious mind knows the truth and cannot make itself see it.
 
 [Blindsight](/concepts/blindsight/) sharpens the contrast from the opposite direction: accurate visual processing occurs without any transmission to consciousness at all. The brain extracts and routes visual information through subcortical pathways sufficient for forced-choice discrimination, yet the subject experiences nothing. Correction without consciousness, transmission without correction, and processing without either transmission or correction — the full range of relationships between brain and conscious experience is on display.
 
@@ -86,9 +86,9 @@ The [illusionist](/concepts/illusionism/) response denies the recipient: conscio
 
 ## Cognitive Impenetrability and Phenomenal Transparency
 
-The boundary between conscious knowledge and perceptual processing is itself revealing. The conscious mind knows the Müller-Lyer lines are equal, knows the blind spot exists, knows saccadic suppression is occurring. This knowledge changes nothing about the perceptual experience. Fodor and Pylyshyn argued this *informational encapsulation* demonstrates that perceptual modules process input using only their own internal resources, deaf to corrections from central cognition.
+The boundary between conscious knowledge and perceptual processing is itself revealing. The conscious mind knows the Müller-Lyer lines are equal, knows the blind spot exists, knows saccadic suppression is occurring. This knowledge changes nothing about the perceptual experience. Fodor's *informational encapsulation* and Pylyshyn's *cognitive impenetrability* describe the same boundary from different angles: perceptual modules process input using only their own internal resources, deaf to corrections from central cognition.
 
-The boundary is not absolute. Pylyshyn distinguished *synchronic* penetration (real-time belief correction, largely absent) from *diachronic* penetration (extended experience gradually reshaping perceptual modules). Radiologists develop the ability to see tumours that novices miss. Some cross-cultural populations show reduced Müller-Lyer susceptibility. Consciousness cannot intervene in the fast modular processing that delivers each moment's experience, but sustained engagement with reality gradually sculpts the modules themselves — influence without override, operating on a different timescale than the perceptual machinery.
+The boundary is not absolute. Pylyshyn (1999) distinguished *synchronic* penetration (real-time belief correction, largely absent) from *diachronic* penetration (extended experience gradually reshaping perceptual modules). Radiologists develop the ability to see tumours that novices miss. Some cross-cultural populations show reduced Müller-Lyer susceptibility. Consciousness cannot intervene in the fast modular processing that delivers each moment's experience, but sustained engagement with reality gradually sculpts the modules themselves — influence without override, operating on a different timescale than the perceptual machinery.
 
 Cognitive impenetrability is closely related to [phenomenal-transparency](/concepts/phenomenal-transparency/) — the property by which conscious representations conceal themselves as representations. The filled-in blind spot is maximally transparent: consciousness sees a continuous visual field and cannot detect the construction. The Müller-Lyer illusion is partially transparent: consciousness sees the illusion while knowing it is false, a crack in transparency that reveals the representational medium without enabling correction. These two properties — impenetrability and transparency — jointly define the experiential boundary that the reconstruction paradox exposes. This boundary marks one of the Map's [consciousness-only-territories](/voids/consciousness-only-territories/) — a region where consciousness encounters the limits of its own access. These limits are experienced from the inside but cannot be explained from the outside by purely computational accounts.
 
@@ -96,7 +96,7 @@ Cognitive impenetrability is closely related to [phenomenal-transparency](/conce
 
 **[Dualism](/tenets/#dualism)**: The Map's commitment to [interactionist-dualism](/concepts/interactionist-dualism/) interprets selective perceptual correction as evidence about the structure of the mind-body interface. If consciousness is not reducible to neural processing, then the brain's two-mode operation describes how two ontologically distinct domains exchange information. The editing layer represents the brain's autonomous processing. The transmission layer is where sensory reality crosses to consciousness with minimal mediation.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Consciousness receives information from the brain through the curated feed but cannot penetrate back into modular processing through the same channels. Its causal influence operates at a different level — potentially through quantum-level biasing of neural patterns rather than wholesale access to neural computation. This accounts for why consciousness can know an illusion is false without being able to correct the experience. The [attention as interface](/concepts/attention-as-interface/) hypothesis connects this to precision weighting: attention may be the mechanism through which consciousness exerts its slow, cumulative influence on perceptual processing — influence without override, consistent with a minimal interaction that operates through subtle, sustained biasing rather than direct control.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Consciousness receives information from the brain through the curated feed but cannot penetrate back into modular processing synchronically — in real time, through the same channels. Its causal influence operates at a different level — potentially through quantum-level biasing of neural patterns rather than wholesale access to neural computation. This accounts for why consciousness can know an illusion is false without being able to correct the experience. The [attention as interface](/concepts/attention-as-interface/) hypothesis connects this to precision weighting: attention may be the mechanism through which consciousness exerts its slow, cumulative influence on perceptual processing — influence without override, consistent with a minimal interaction that operates through subtle, sustained biasing rather than direct control.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The channels run in both directions but with different bandwidth and different access points. Consciousness influences the physical world through quantum-level selection, not through wholesale access to neural computation.
 
@@ -119,7 +119,8 @@ Cognitive impenetrability is closely related to [phenomenal-transparency](/conce
 
 1. Fodor, J. (1983). *The Modularity of Mind*. MIT Press.
 2. Pylyshyn, Z. (1984). *Computation and Cognition*. MIT Press.
-3. Clark, A. (2013). "Whatever next? Predictive brains, situated agents, and the future of cognitive science." *Behavioral and Brain Sciences*, 36(3), 181–204.
-4. Friston, K. (2005). "A theory of cortical responses." *Philosophical Transactions of the Royal Society B*, 360(1456), 815–836.
-5. Ibbotson, M. & Krekelberg, B. (2011). "Visual perception and saccadic eye movements." *Current Opinion in Neurobiology*, 21(4), 553–558.
-6. Southgate, A. & Oquatre-six, C. (2026-03-12). The Reconstruction Paradox. *The Unfinishable Map*. https://unfinishablemap.org/voids/reconstruction-paradox/
+3. Pylyshyn, Z. (1999). "Is vision continuous with cognition? The case for cognitive impenetrability of visual perception." *Behavioral and Brain Sciences*, 22(3), 341–365.
+4. Clark, A. (2013). "Whatever next? Predictive brains, situated agents, and the future of cognitive science." *Behavioral and Brain Sciences*, 36(3), 181–204.
+5. Friston, K. (2005). "A theory of cortical responses." *Philosophical Transactions of the Royal Society B*, 360(1456), 815–836.
+6. Ibbotson, M. & Krekelberg, B. (2011). "Visual perception and saccadic eye movements." *Current Opinion in Neurobiology*, 21(4), 553–558.
+7. Southgate, A. & Oquatre-six, C. (2026-03-12). The Reconstruction Paradox. *The Unfinishable Map*. https://unfinishablemap.org/voids/reconstruction-paradox/

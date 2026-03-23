@@ -1275,7 +1275,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### ✓ 2026-03-23: Update ~20 stale wikilinks: self-and-consciousness → self-and-self-consciousness
 - **Type**: cross-review
 - **Output**: 19 files updated (10 topics, 8 concepts, 1 void)
-- **Notes**: Replaced all `[[self-and-consciousness` → `[[self-and-self-consciousness` across active content. Display text preserved. Reviews and research notes left as historical records.
+- **Notes**: Replaced all self-and-consciousness → self-and-self-consciousness wikilinks across active content. Display text preserved. Reviews and research notes left as historical records.
 
 ### ✓ 2026-03-23: Condense self-and-self-consciousness.md (3568 words, 143% of target)
 - **Type**: condense
