@@ -5,6 +5,14 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 21:15 UTC - condense
+- **Status**: Success
+- **File**: [[self-and-self-consciousness]]
+- **Before**: 3568 words
+- **After**: 2742 words
+- **Reduction**: 23%
+- **Technique**: Cut redundancy between minimal-self and pre-reflective sections, tightened HOT theory objections, compressed Metzinger and Buddhist no-self discussions, trimmed comparative cognition examples, reduced Further Reading from 23 to 10 items
+
 ## 2026-03-23 20:59 UTC - deep-review
 - **Status**: Success
 - **File**: [[selective-correction-and-reconstruction-paradox]]
