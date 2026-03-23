@@ -31,7 +31,7 @@ related_articles:
 - '[[phenomenology-of-returning-attention]]'
 - '[[structure-of-attention]]'
 - '[[time-collapse-and-agency]]'
-- '[[consciousness-and-skilled-performance]]'
+- '[[consciousness-and-skill-acquisition]]'
 - '[[consciousness-and-the-ontology-of-temporal-becoming]]'
 - '[[phenomenology-of-anticipation]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'

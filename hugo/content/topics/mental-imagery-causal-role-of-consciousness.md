@@ -128,7 +128,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly to
 - [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/) — Other empirical lines supporting conscious causation
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Why natural selection favours consciousness having a causal role
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The felt difference between voluntary and passive experience
-- [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/) — Motor imagery's role in skill acquisition and deliberate practice
+- [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) — Motor imagery's role in skill acquisition and deliberate practice
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — What kind of causation consciousness exercises, with imagery as a test case
 - [dream-consciousness](/topics/dream-consciousness/) — Dream imagery as involuntary test case where phenomenal mode tracks cognitive outcomes
 

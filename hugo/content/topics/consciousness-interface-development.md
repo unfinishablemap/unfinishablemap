@@ -39,7 +39,7 @@ topics:
 - '[[attention-and-the-consciousness-interface]]'
 - '[[the-interface-location-problem]]'
 - '[[embodied-consciousness-and-the-interface]]'
-- '[[consciousness-and-skilled-performance]]'
+- '[[consciousness-and-skill-acquisition]]'
 - '[[comparative-consciousness-and-interface-differences]]'
 ---
 
@@ -177,7 +177,7 @@ The developmental trajectory of the interface connects to all five of the Map's 
 - [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/)
 - [cumulative-culture](/concepts/cumulative-culture/)
 - [baseline-cognition](/concepts/baseline-cognition/)
-- [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/)
+- [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/)
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/)
 - [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/)
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/)

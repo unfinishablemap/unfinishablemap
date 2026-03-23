@@ -29,7 +29,7 @@ related_articles:
 - '[[limits-reveal-structure]]'
 - '[[consciousness-only-territories]]'
 - '[[tenets]]'
-- '[[consciousness-and-skilled-performance]]'
+- '[[consciousness-and-skill-acquisition]]'
 - '[[hard-problem-of-consciousness]]'
 - '[[altered-states-of-consciousness]]'
 - '[[recognition-void]]'

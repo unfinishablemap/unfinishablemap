@@ -32,7 +32,7 @@ related_articles:
 - '[[tenets]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[consciousness-and-agency]]'
-- '[[consciousness-and-skilled-performance]]'
+- '[[consciousness-and-skill-acquisition]]'
 - '[[libet-experiments]]'
 - '[[concept-of-free-will]]'
 - '[[cross-cultural-phenomenology-of-agency]]'

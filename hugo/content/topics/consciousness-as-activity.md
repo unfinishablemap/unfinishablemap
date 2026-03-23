@@ -30,7 +30,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[william-james-consciousness]]'
-- '[[consciousness-and-skilled-performance]]'
+- '[[consciousness-and-skill-acquisition]]'
 - '[[temporal-structure-of-consciousness]]'
 - '[[sensorimotor-contingencies-and-the-interface]]'
 - '[[process-and-consciousness]]'
@@ -143,7 +143,7 @@ The activity framing strengthens the Map's framework at every point.
 - [william-james-consciousness](/topics/william-james-consciousness/) — The stream, attention, and consciousness as doing
 - [agent-causation](/concepts/agent-causation/) — The agent as performer of conscious activity
 - [mental-causation](/concepts/mental-causation/) — Why activities are inherently causal
-- [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/) — Consciousness as architect of skilled action
+- [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) — Consciousness as architect of skilled action
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — Temporal binding as ongoing activity
 - [process-and-consciousness](/apex/process-and-consciousness/) — Apex synthesis connecting process philosophy to the Map's tenets
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — Enactivist approaches to conscious activity

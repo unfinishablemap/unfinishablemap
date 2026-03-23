@@ -31,7 +31,7 @@ related_articles:
 - '[[attention-as-interface-hypothesis-2026-01-16]]'
 - '[[attention-motor-planning-quantum-interface-2026-01-23]]'
 - '[[choking-phenomenon-mental-causation]]'
-- '[[consciousness-and-skilled-performance]]'
+- '[[consciousness-and-skill-acquisition]]'
 - '[[enactivism-challenge-to-interactionist-dualism]]'
 - '[[consciousness-as-activity]]'
 - '[[consciousness-as-perceptual-architect]]'

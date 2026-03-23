@@ -35,7 +35,7 @@ related_articles:
 - '[[embodied-consciousness-and-the-interface]]'
 - '[[phenomenological-psychiatry-and-altered-experience]]'
 - '[[choking-phenomenon-mental-causation]]'
-- '[[consciousness-and-skilled-performance]]'
+- '[[consciousness-and-skill-acquisition]]'
 title: Embodied Cognition and the Extended Mind
 topics:
 - '[[hard-problem-of-consciousness]]'

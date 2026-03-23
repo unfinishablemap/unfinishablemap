@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-03-23 05:20:00+00:00
+ai_modified: 2026-03-23 05:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Five concrete empirical signatures where consciousness-collapse and
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-23 05:25:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -38,21 +38,21 @@ Consciousness-collapse and decoherence-only interpretations agree on nearly ever
 
 Five differential predictions emerge from the literature. Some are already under experimental investigation. Others require technology that does not yet exist. All are concrete enough that a result in either direction would shift the evidential balance.
 
-## Prediction 1: Φ-Dependent Collapse Rates
+## Prediction 1: Consciousness-Structure-Dependent Collapse Rates
 
-The Chalmers-McQueen (2021) framework predicts that collapse rates depend not only on mass but on integrated information (Φ). Two quantum systems with identical mass, temperature, and environmental coupling but different information-integration structures should exhibit different collapse timescales if consciousness-collapse is correct. Decoherence-only interpretations predict identical behaviour for physically identical systems regardless of their information architecture.
+The Chalmers-McQueen (2021) framework combines [IIT](/concepts/integrated-information-theory/) with continuous spontaneous localisation (CSL) to predict that collapse rates depend not only on mass but on the *qualitative structure of consciousness*. Specifically, collapse rate scales with the distance between Q-shapes — IIT's full characterisation of conscious experience — rather than with the scalar quantity Φ alone. (A single scalar like Φ would fail to distinguish superpositions of distinct conscious states that happen to have equal Φ values.) Two quantum systems with identical mass, temperature, and environmental coupling but different information-integration structures should exhibit different collapse timescales if consciousness-collapse is correct. Decoherence-only interpretations predict identical behaviour for physically identical systems regardless of their information architecture.
 
-**What to look for:** A quantum computer configured with high Φ (many recurrent feedback loops, integrated processing) should lose coherence faster than one with identical physical parameters but low Φ (feedforward architecture, modular processing). The excess decoherence should scale with Φ, not with any standard environmental factor.
+**What to look for:** A quantum computer configured to support rich, integrated feedback (high Q-shape complexity) should lose coherence faster than one with identical physical parameters but modular, feedforward architecture (simpler Q-shape). The excess decoherence should correlate with information-integration structure, not with any standard environmental factor.
 
 **What a positive result means:** Physical collapse rate depends on information structure — strong evidence that something beyond mass and environmental coupling drives collapse.
 
-**What a negative result means:** The IIT-CSL version of consciousness-collapse is directly disconfirmed. The broader consciousness-collapse programme would lose its only quantitative prediction.
+**What a negative result means:** The IIT-CSL version of consciousness-collapse is directly disconfirmed. The broader consciousness-collapse programme would need a different quantitative framework, though the qualitative prediction (consciousness-dependent collapse) could survive under alternative theories of consciousness.
 
-**Current status:** Not yet testable. Computing Φ for real quantum systems is intractable beyond toy models. Engineering controlled Φ variation in quantum computers requires advances in both quantum computing and IIT formalism.
+**Current status:** Not yet testable. Computing Q-shapes for real quantum systems is intractable beyond toy models. IIT itself remains contested — not all consciousness researchers accept integrated information as the relevant measure, and some reject the framework entirely. Engineering controlled variation in information-integration structure within quantum computers requires advances in both quantum computing and consciousness science.
 
 ## Prediction 2: Mass-Quadratic Excess Decoherence
 
-Objective collapse models (GRW, CSL) predict that decoherence rates scale quadratically with mass at sufficiently large superposition sizes, while environmental decoherence from gas collisions and photon recoil follows different scaling laws. Horchani (2025) identified a second distinctive signature: CSL decoherence rates *saturate* with increasing superposition size, while environmental decoherence continues to grow.
+Objective collapse models (GRW, CSL) predict that decoherence rates scale quadratically with mass at sufficiently large superposition sizes, while environmental decoherence from gas collisions and photon recoil follows different scaling laws (Bassi, Dorato & Ulbricht, 2023). Horchani (2025) identified a second distinctive signature: CSL decoherence rates *saturate* with increasing superposition size, while environmental decoherence continues to grow.
 
 This prediction tests collapse generally, not consciousness-collapse specifically. But it is a necessary precondition for the Map's position: if no objective collapse mechanism exists, consciousness has nothing to modulate.
 
@@ -80,9 +80,9 @@ This prediction tests collapse generally, not consciousness-collapse specificall
 
 If consciousness triggers or modulates collapse, the *timing* of collapse should correlate with when a conscious observer becomes entangled with the measurement result — not with when the physical detector registers it. Decoherence-only interpretations predict that environmental entanglement determines effective collapse timing regardless of conscious observation.
 
-**What to look for:** A quantum system is measured by a detector, and the result is stored in quantum memory preserving superposition. If consciousness-collapse is correct, the memory should remain in superposition until a conscious observer accesses it. If collapse is physical, the memory collapses at detection regardless of observation.
+**What to look for:** A quantum system is measured by a detector, and the result is stored in a way that preserves superposition. If consciousness-collapse is correct, the system should remain in superposition until a conscious observer becomes entangled with the outcome. If collapse is physical, the system collapses at detection regardless of observation. Interference tests performed before conscious access could reveal whether collapse has already occurred.
 
-This is a delayed-choice test applied to collapse timing. Chalmers and McQueen outline a version using quantum computers: the quantum memory stores measurement results in superposition, and interference tests on the memory reveal whether collapse has occurred before conscious access.
+This is a delayed-choice structure applied to collapse timing. The Frauchiger-Renner (2018) thought experiment exposes related tensions: quantum theory struggles to consistently describe situations where observers model each other's measurements, creating scenarios where the timing and reality of collapse become experimentally consequential.
 
 **What a positive result means:** Collapse timing correlates with conscious observation, not with physical detection. This would be strong evidence for consciousness-collapse — perhaps the most direct evidence possible.
 
@@ -94,7 +94,7 @@ This is a delayed-choice test applied to collapse timing. Chalmers and McQueen o
 
 If consciousness participates in collapse, suppressing consciousness pharmacologically should alter collapse dynamics in neural tissue. Under general anaesthesia, the brain continues physical operations — neurons fire, metabolism continues — but consciousness is absent or severely diminished. Objective collapse models predict that collapse rates depend on mass and complexity, which are unchanged by anaesthesia. Consciousness-collapse predicts measurable differences.
 
-**What to look for:** Compare collapse-related signatures (spontaneous radiation, anomalous heating, or decoherence rates in neural quantum systems) between conscious and anaesthetised brains. If consciousness-collapse is correct, some measurable difference should appear. Different anaesthetic agents disrupt different aspects of consciousness — propofol eliminates phenomenal presence while ketamine preserves some subjective experience — potentially allowing finer-grained discrimination.
+**What to look for:** Compare collapse-related signatures between conscious and anaesthetised brains. [Spontaneous collapse models](/concepts/spontaneous-collapse-theories/) predict faint observable byproducts — spontaneous photon emission from charged particles undergoing collapse, and anomalous heating from the momentum kicks that collapse events impart. If consciousness-collapse is correct, some measurable difference should appear. Different anaesthetic agents disrupt different aspects of consciousness — propofol eliminates phenomenal presence while ketamine preserves some subjective experience — potentially allowing finer-grained discrimination.
 
 **What a positive result means:** Collapse dynamics change when consciousness is suppressed, controlling for physical changes. This would be powerful evidence for consciousness-collapse.
 
@@ -104,9 +104,9 @@ If consciousness participates in collapse, suppressing consciousness pharmacolog
 
 ## The Evidential Asymmetry
 
-These five predictions reveal a structural asymmetry in the debate. Consciousness-collapse can be *weakened* by negative results — each failed prediction narrows the viable parameter space — but decoherence-only cannot be positively confirmed in the same way. Decoherence-only is a negative thesis: no collapse happens, and no consciousness participates. Confirming a negative requires ruling out all possible collapse and consciousness mechanisms, which is an open-ended task. Consciousness-collapse, by contrast, makes positive predictions (Φ-dependent rates, consciousness-dependent timing) that can in principle be confirmed or disconfirmed.
+These five predictions reveal a structural asymmetry in the debate. Consciousness-collapse can be *weakened* by negative results — each failed prediction narrows the viable parameter space — but decoherence-only cannot be positively confirmed in the same way. Decoherence-only is partly a negative thesis: no collapse happens beyond what decoherence explains, and no consciousness participates. It does make positive predictions — specific decoherence timescales, environmental scaling laws — but confirming the *absence* of additional collapse mechanisms requires ruling out an open-ended space of possibilities. Consciousness-collapse, by contrast, makes positive predictions (Φ-dependent rates, consciousness-dependent timing) that can in principle be confirmed or disconfirmed.
 
-This asymmetry means the two positions bear different evidential burdens. Consciousness-collapse must demonstrate specific positive effects. Decoherence-only must demonstrate the absence of anomalies across an expanding range of experimental conditions. Neither burden has been met. But the asymmetry favours consciousness-collapse as a *research programme*: it generates specific, testable predictions, while decoherence-only generates the prediction that nothing unusual will be found — a prediction that is harder to leverage for scientific progress.
+This asymmetry means the two positions bear different evidential burdens, related to the broader question of whether [causal closure](/concepts/causal-closure/) holds absolutely or admits exceptions. Consciousness-collapse must demonstrate specific positive effects. Decoherence-only must demonstrate the absence of anomalies across an expanding range of experimental conditions. Neither burden has been met. But the asymmetry favours consciousness-collapse as a *research programme*: it generates specific, testable predictions, while decoherence-only generates the prediction that nothing unusual will be found — a prediction that is harder to leverage for scientific progress.
 
 ## Relation to Site Perspective
 

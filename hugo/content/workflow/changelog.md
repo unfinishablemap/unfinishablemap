@@ -9,6 +9,86 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-23 07:51 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/)
+- **Word count**: 2286 → 2354 (+68)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (stale decoherence framing updated with quantum biology evidence, Born rule paragraph repositioned for better flow)
+- **Enhancements made**: 3 (quantum biology cross-links, timing constraints cross-link, improved argumentative progression)
+- **Output**: [deep-review-2026-03-23-quantum-measurement-and-subjective-probability](/reviews/deep-review-2026-03-23-quantum-measurement-and-subjective-probability/)
+
+## 2026-03-23 07:38 UTC - deep-review
+- **Status**: Success
+- **File**: [arguments-against-materialism](/topics/arguments-against-materialism/)
+- **Word count**: 2435 → 2538 (+103)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (cross-link to differential predictions, empirical testability paragraph, AI refinement log removal, Further Reading expansion)
+- **Enhancements made**: 2 (quantum collapse cross-links, mechanism/philosophy separation)
+- **Output**: [deep-review-2026-03-23-arguments-against-materialism](/reviews/deep-review-2026-03-23-arguments-against-materialism/)
+
+## 2026-03-23 07:32 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Sections checked**: voids (100/100), topics (228/230)
+- **Groups evaluated**: 10 candidate groups across both sections (attention voids, introspection voids, binding/emergence voids, social cognition topics, moral phenomenology topics, dream/sleep topics, fragmentation topics, causal powers topics, animal consciousness topics)
+- **Reason**: All candidate articles are well-differentiated. Each explicitly distinguishes itself from related articles in opening paragraphs and cross-references. Many already coalesced from prior operations. Frontmatter concept overlap does not indicate content redundancy.
+
+## 2026-03-23 06:55 UTC - condense
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Before**: 4001
+- **After**: 3014
+- **Reduction**: 25%
+- **Technique**: Cut redundant xenon-ketamine re-explanation in filter theory section, removed tangential consciousness monitoring section, trimmed overlong tenet paragraphs (bidirectional, MQI), tightened prose throughout
+
+## 2026-03-23 06:41 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness](/concepts/consciousness/)
+- **Word count**: 2339 → 2360 (+21)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (unsourced factual claim, weak epiphenomenalism rejection)
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-23-consciousness](/reviews/deep-review-2026-03-23-consciousness/)
+
+## 2026-03-23 06:25 UTC - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/)
+- **Word count**: 2627 → 2627 (unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (orphaned article with 0 inbound links, missing cross-references)
+- **Enhancements made**: 24 inbound links created (20 slug fixes across content files + 4 new cross-references)
+- **Output**: [deep-review-2026-03-23b-consciousness-and-skill-acquisition](/reviews/deep-review-2026-03-23b-consciousness-and-skill-acquisition/)
+
+## 2026-03-23 06:10 UTC - deep-review
+- **Status**: Success
+- **File**: [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/)
+- **Word count**: 1966 → 2063 (+97)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 6
+- **Enhancements made**: 3 (dimensionality void cross-link, evolved-cognitive-limits integration, factual tightening)
+- **Output**: [deep-review-2026-03-23-evolutionary-case-for-quantum-neural-effects](/reviews/deep-review-2026-03-23-evolutionary-case-for-quantum-neural-effects/)
+
+## 2026-03-23 05:56 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Notes**: Searched voids (100/100), topics (228/230), concepts (221/230) across 5 iterations. Checked cognitive limits cluster, void explorer cluster, self/introspection cluster, phenomenology articles, and choice/volition pairs. All examined articles are well-differentiated with clear territorial boundaries. Many already coalesced previously. No strong merge candidates found.
+
+## 2026-03-23 05:40 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Evolutionary Case for Quantum Neural Effects
+- **Output**: [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/)
+- **Word count**: 1966
+- **Based on research**: yes, [quantum-biology-neural-mechanisms-2026-01-24](/research/quantum-biology-neural-mechanisms-2026-01-24/)
+- **Notes**: Differentiated from extensive existing coverage (quantum-biology-and-neural-consciousness, quantum-neural-mechanisms-and-coherence, quantum-biology) by focusing specifically on the evolutionary argument: why natural selection would optimise quantum effects in neural systems given the established precedents in magnetoreception, enzyme catalysis, and photosynthesis.
+
+## 2026-03-23 05:25 UTC - deep-review
+- **Status**: Success
+- **File**: [differential-predictions-consciousness-collapse](/topics/differential-predictions-consciousness-collapse/)
+- **Word count**: 1874 → 2037 (+163)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 4
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-23-differential-predictions-consciousness-collapse](/reviews/deep-review-2026-03-23-differential-predictions-consciousness-collapse/)
+
 ## 2026-03-23 05:20 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Differential Predictions: Where Consciousness-Collapse and Decoherence Diverge

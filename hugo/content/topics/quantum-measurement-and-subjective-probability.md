@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-03-23 04:06:00+00:00
+ai_modified: 2026-03-23 07:51:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: QBism's probabilities are structurally dependent on consciousness�
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-27 07:46:00+00:00
+last_deep_review: 2026-03-23 07:51:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -25,6 +25,8 @@ related_articles:
 - '[[quantum-measurement-subjective-probability-2026-01-23]]'
 - '[[quantum-measurement-and-consciousness]]'
 - '[[born-rule-derivation-failures-consciousness-collapse]]'
+- '[[quantum-biology-and-neural-consciousness]]'
+- '[[quantum-neural-timing-constraints]]'
 title: Quantum Measurement and Subjective Probability
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -88,7 +90,7 @@ Von Neumann (1932) and Wigner (1961) proposed that consciousness does cause coll
 
 Where QBism makes consciousness structurally necessary but only epistemically active, consciousness-collapse makes it causally active as well. This avoids the structural-dependence problem: if consciousness causes collapse, the theory at least acknowledges consciousness as a real causal factor rather than silently relying on it.
 
-But consciousness-collapse faces its own difficulties. Wigner himself moved away from the position by the 1970s-80s, though his reasons were complex. He cited Zeh's work on decoherence, yet decoherence alone does not solve the measurement problem—a point the Map argues elsewhere. Wigner's retreat may have been premature, but the mechanistic challenges remain: quantum superpositions in warm biological systems decohere in ~10^-13 seconds through environmental interaction, far too fast for consciousness to intervene through ordinary neural processes.
+But consciousness-collapse faces its own difficulties. Wigner himself moved away from the position by the 1970s-80s, though his reasons were complex. He cited Zeh's work on decoherence, yet decoherence alone does not solve the measurement problem—a point the Map argues elsewhere. Wigner's retreat may have been premature, but mechanistic challenges remain. Tegmark's original estimate placed decoherence at ~10⁻¹³ seconds in neural tissue—far too fast for consciousness to intervene through ordinary neural processes. However, [converging evidence from quantum biology](/topics/quantum-biology-and-neural-consciousness/) has revised this picture: microtubule interiors may sustain coherence for 10-100 microseconds, and the quantum Zeno effect—the same mechanism Stapp proposes for mental causation—has been confirmed in biological systems (cryptochrome magnetoreception). The categorical decoherence objection has weakened, though a timing gap between microsecond coherence and millisecond neural decisions persists (see [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)).
 
 The deeper problem is the [indexical gap](/topics/indexical-identity-quantum-measurement/)—consciousness-collapse explains *how* collapse happens but not why *this* consciousness exists to trigger it. That argument is developed fully in the companion article.
 
@@ -134,11 +136,11 @@ The general hard problem—why qualitative experience exists at all—belongs to
 
 Consider a Stern-Gerlach measurement. QBism says the Born rule describes rational constraints on an agent's credences about possible outcomes. But credences about *what*? Not about abstract propositions—about what the agent will *experience*. The agent's credences concern which phenomenal state will obtain: seeing the detector flash in one position rather than another, the felt surprise or confirmation of a particular result.
 
-The observer-dependence hidden within QBism's framework is part of a broader pattern. [Every major attempt to derive the Born rule](/topics/born-rule-derivation-failures-consciousness-collapse/) — the probability prescription QBism reinterprets as subjective credence — either smuggles in probabilistic assumptions or presupposes an observer. QBism makes this presupposition explicit by design, but the fact that objective derivations cannot eliminate it either suggests the observer-dependence runs deeper than QBism's particular epistemic framing.
-
 QBism's probabilities are therefore not merely about beliefs but about the relationship between an agent's current mental state and a future mental state. The Born rule constrains transitions *between* conscious experiences. This means consciousness appears on both sides of the probability relation—as the subject assigning credences *and* as the content those credences are about. Other interpretations can treat Born probabilities as features of physical systems independent of any mental state. QBism cannot: its probabilities are defined over the space of possible experiences.
 
 This creates a distinctive circularity. QBism explains measurement outcomes as belief updates, but the beliefs in question are beliefs about experiential outcomes. The framework presupposes a space of possible conscious experiences in order to define the probability measure it calls fundamental. Objective interpretations face no analogous circularity—their probabilities describe physical propensities regardless of whether anyone experiences the results.
+
+This observer-dependence is not unique to QBism's epistemic framing. [Every major attempt to derive the Born rule](/topics/born-rule-derivation-failures-consciousness-collapse/)—the probability prescription QBism reinterprets as subjective credence—either smuggles in probabilistic assumptions or presupposes an observer. QBism makes this presupposition explicit by design, but the fact that objective derivations cannot eliminate it either suggests the observer-dependence runs deeper than any single interpretation.
 
 The phenomenological test, then, is not "does consciousness exist?" (every interpretation must grant this) but "can you define Born probabilities without already presupposing a space of conscious experiences?" For QBism, the answer is no. The theory's central quantity—an agent's credence function—is defined over phenomenal outcomes.
 
@@ -163,6 +165,8 @@ This article connects to multiple tenets:
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — What subjective experience is
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The measurement problem as a philosophical problem about observation and consciousness
 - [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) — Why the Born rule cannot be derived from physics alone — the observer-dependence QBism makes explicit
+- [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Converging evidence that quantum effects operate in neural systems
+- [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy from decoherence to neural decisions
 
 ## References
 

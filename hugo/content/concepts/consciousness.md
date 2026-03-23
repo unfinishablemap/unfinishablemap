@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-23 06:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -33,7 +33,7 @@ description: Consciousness is what it is like to be something—the subjective f
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-25 12:47:00+00:00
+last_deep_review: 2026-03-23 06:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -95,7 +95,7 @@ Both questions connect to the Map's framework: creature consciousness relates to
 
 ## Theories of Consciousness {#theories}
 
-Over 200 theories of consciousness exist. [Philosophy of mind](/concepts/philosophy-of-mind/) provides the broader field within which these theories compete. The Map engages with the most prominent while maintaining its dualist commitments.
+[Philosophy of mind](/concepts/philosophy-of-mind/) has produced many competing theories of consciousness. The Map engages with the most prominent while maintaining its dualist commitments.
 
 ### Physicalist Theories
 
@@ -113,7 +113,7 @@ The Map rejects illusionism but takes it seriously as the strongest physicalist 
 
 **[Interactionist Dualism](/concepts/interactionist-dualism/)** holds that consciousness is distinct from physical processes yet causally connected to them. This is the Map's position. The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) specifies the interface: consciousness influences quantum indeterminacies without injecting energy.
 
-**[epiphenomenalism](/concepts/epiphenomenalism/)** accepts dualism but denies causal efficacy—consciousness is a byproduct with no effects on the physical world. The Map rejects this: the very fact that we discuss consciousness shows that information about consciousness enters the physical domain, influencing speech and behaviour.
+**[epiphenomenalism](/concepts/epiphenomenalism/)** accepts dualism but denies causal efficacy—consciousness is a byproduct with no effects on the physical world. The Map rejects this: our accurate judgments about phenomenal states suggest genuine causal contact with experience. If consciousness had no effects, the reliability of introspective reports about qualia, pain, and colour would be an unexplained coincidence—our zombie twins would say the same words, but only by luck would those words track phenomenal reality.
 
 **[panpsychism](/concepts/panpsychism/)** holds that consciousness is fundamental and ubiquitous—even simple physical systems have experiential aspects. This avoids the "emergence problem" (how does experience arise from non-experience?) but faces the [combination-problem](/concepts/combination-problem/) (how do micro-experiences combine into unified macro-experience?).
 

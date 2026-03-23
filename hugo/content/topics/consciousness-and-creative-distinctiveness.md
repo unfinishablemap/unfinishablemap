@@ -40,7 +40,7 @@ related_articles:
 - '[[creativity-void]]'
 - '[[aesthetics-and-consciousness]]'
 - '[[consciousness-and-mathematical-cognition]]'
-- '[[consciousness-and-skilled-performance]]'
+- '[[consciousness-and-skill-acquisition]]'
 - '[[incubation-effect-and-unconscious-processing]]'
 - '[[phenomenology-of-imagination]]'
 title: Consciousness and Creative Distinctiveness

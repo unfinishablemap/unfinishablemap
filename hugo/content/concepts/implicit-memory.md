@@ -202,7 +202,7 @@ A purely neural account can describe choking as prefrontal-basal ganglia competi
 
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) - Extended analysis of choking as evidence for mental causation
 - [skill-delegation](/concepts/skill-delegation/) — The three-phase pattern of calibration, withdrawal, and retained override
-- [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/) - How consciousness shapes skill acquisition, flow, and performance restructuring
+- [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) - How consciousness shapes skill acquisition, flow, and performance restructuring
 - [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/) — The "perceptual ratchet" concept: how perceptual learning creates irreversible implicit knowledge encoded in perceptual structure
 - [voluntary attention](/concepts/attention-as-interface/) - Why choking involves willed attention specifically, and the neural signatures distinguishing it from stimulus-driven capture
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Tulving's tripartite hierarchy of consciousness levels

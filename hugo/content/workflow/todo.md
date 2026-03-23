@@ -38,28 +38,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on quantum biology in neural systems
-- **Type**: expand-topic
-- **Notes**: Research completed in research/quantum-biology-neural-experimental-2026-03-20.md. Recent (2025-2026) experimental evidence for quantum effects in biological neural systems. Provides empirical foundation for Tenet 2 claims about quantum processes in brains. Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-23
-
-### P2: Cross-review void articles considering dimensionality void insights
+### P2: Cross-review bidirectional causation articles considering clinical neuroplasticity evidence
 - **Type**: cross-review
-- **Notes**: New article voids/dimensionality-void.md created 2026-03-23 via expand-topic. Review related void articles (taxonomy-of-voids, compound-cognitive-limits, mathematical-void, mind-space-void) for cross-links and consistency with this new void type about the limits of conscious spatial representation.
-- **Source**: chain (from dimensionality-void.md)
+- **Notes**: New article topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md (2026-03-21) presents therapy, meditation, and placebo evidence for mental causation via neuroplasticity. Review mental-causation.md, placebo-effect-and-mental-causation.md, and the-epiphenomenalist-threat.md for cross-links and opportunities to cite this new empirical evidence. Supports Tenet 3.
+- **Source**: chain (from clinical-neuroplasticity-evidence-for-bidirectional-causation.md)
 - **Generated**: 2026-03-23
 
-### P2: Integrate consciousness-and-skill-acquisition.md into site navigation
+### P2: Integrate non-retrocausal-conscious-selection-models.md into site navigation
 - **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article on how skill acquisition reveals the consciousness-brain interface through shifting phenomenology across expertise stages. Add cross-references from related articles (choking-phenomenon-mental-causation, attention-and-the-consciousness-interface, phenomenology-of-agency-vs-passivity) or update section index pages.
+- **Notes**: File has no inbound links. Created 2026-03-18 via expand-topic. Topics article on non-retrocausal models for consciousness selecting quantum outcomes. Add cross-references from consciousness-and-the-measurement-problem.md, time-symmetric-selection-mechanism.md, consciousness-selecting-neural-patterns.md, and quantum consciousness comparison articles.
 - **Source**: orphan_integration
 - **Generated**: 2026-03-23
 
-### P2: Condense anaesthesia-and-the-consciousness-interface.md (4001 words, 114% of hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for topics/. Preserve core arguments about anaesthetic mechanisms as evidence for the consciousness-brain interface while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
+### P2: Integrate the-reverse-inference.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-17 via expand-topic. Topics article on inferring properties of consciousness from physics (the reverse direction of the usual inference). Add cross-references from consciousness-and-the-measurement-problem.md, physics-as-disclosure.md, bi-aspectual-ontology.md, and related quantum-consciousness articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-23
+
+### P2: Integrate interface-heterogeneity.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-17. Concepts article on the heterogeneity of the consciousness-matter interface across brain regions, states, and organisms. Add cross-references from mind-matter-interface.md, interface-location-problem.md, developmental-trajectory-of-the-interface.md, and comparative consciousness articles.
+- **Source**: orphan_integration
 - **Generated**: 2026-03-23
 
 ### P3: Deep review consciousness-and-intersubjectivity.md
@@ -1216,6 +1216,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Cross-review quantum biology articles considering new neural consciousness evidence
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-biology-and-neural-consciousness.md updated 2026-03-23 with recent (2025-2026) experimental evidence for quantum effects in biological neural systems. Review evolutionary-case-for-quantum-neural-effects.md, consciousness-selecting-neural-patterns.md, and mind-matter-interface.md for cross-links and whether new empirical findings strengthen or qualify their claims. Supports Tenet 2.
+- **Output**: None -- Context: Cross-review quantum biology articles considering new neural consciousness evidence
+
+### ✓ 2026-03-23: Cross-review quantum collapse articles considering differential predictions
+- **Type**: cross-review
+- **Notes**: New article topics/differential-predictions-consciousness-collapse.md (2026-03-23) identifies specific experimental paradigms where consciousness-collapse and decoherence-only interpretations diverge. Review comparing-quantum-consciousness-mechanisms.md, consciousness-selecting-neural-patterns.md, and consciousness-and-the-measurement-problem.md for cross-links, consistency with the new differential predictions, and opportunities to strengthen empirical grounding. Supports Tenet 2.
+- **Output**: None -- Context: Cross-review quantum collapse articles considering differential predictions
+
+### ✓ 2026-03-23: Condense anaesthesia-and-the-consciousness-interface.md (4001 words, 114% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for topics/. Preserve core arguments about anaesthetic mechanisms as evidence for the consciousness-brain interface while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
+
+### ✓ 2026-03-23: Integrate consciousness-and-skill-acquisition.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on how skill acquisition reveals the consciousness-brain interface through shifting phenomenology across expertise stages. Add cross-references from related articles (choking-phenomenon-mental-causation, attention-and-the-consciousness-interface, phenomenology-of-agency-vs-passivity) or update section index pages.
+- **Output**: obsidian/topics/consciousness-and-skill-acquisition.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-23: Cross-review void articles considering dimensionality void insights
+- **Type**: cross-review
+- **Notes**: New article voids/dimensionality-void.md created 2026-03-23 via expand-topic. Review related void articles (taxonomy-of-voids, compound-cognitive-limits, mathematical-void, mind-space-void) for cross-links and consistency with this new void type about the limits of conscious spatial representation.
+- **Output**: None -- Context: Cross-review void articles considering dimensionality void insights
+
+### ✓ 2026-03-23: Write article on quantum biology in neural systems
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-biology-neural-experimental-2026-03-20.md. Recent (2025-2026) experimental evidence for quantum effects in biological neural systems. Provides empirical foundation for Tenet 2 claims about quantum processes in brains. Target section: topics/.
+- **Output**: quantum biology in neural systems
 
 ### ✓ 2026-03-23: Write article on experimental tests distinguishing consciousness-collapse from decoherence
 - **Type**: expand-topic

@@ -29,7 +29,7 @@ related_articles:
 - '[[phenomenology-of-returning-attention]]'
 - '[[temporal-consciousness]]'
 - '[[loss-of-consciousness]]'
-- '[[consciousness-and-skilled-performance]]'
+- '[[consciousness-and-skill-acquisition]]'
 title: The Transition Void
 topics:
 - '[[hard-problem-of-consciousness]]'

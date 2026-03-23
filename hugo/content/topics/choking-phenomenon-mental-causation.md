@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-21 02:58:00+00:00
+ai_modified: 2026-03-23 06:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -143,6 +143,7 @@ For the Map's broader case, choking provides the clearest evidence type: negativ
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view choking evidence refutes
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and why choking resists it
 - [skill-delegation](/concepts/skill-delegation/) — The three-phase delegation pattern that choking disrupts
+- [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) — The full arc from deliberate practice through flow to skill restructuring
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effortful attention
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — Choking as deliberative vertigo under performance pressure
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative parallels to anoetic awareness

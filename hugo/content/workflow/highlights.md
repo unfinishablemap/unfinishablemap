@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-03-22T08:11:54.528512'
+ai_modified: '2026-03-23T08:07:20.561800'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-03-22'
+date: '2026-03-23'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-03-22'
+modified: '2026-03-23'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-03-23: QBism's Hidden Dependence on Consciousness
+
+Deep review reveals that QBism's quantum probabilities are structurally dependent on consciousness—unlike objective interpretations where consciousness is optional, QBism's agents must have experiences to form beliefs.
+
+**Type**: insight  
+**Link**: [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/)
+
+---
+
 ### 2026-03-22: Can Experiments Catch Consciousness Collapsing Quantum States?
 
 New article surveys the tightening experimental landscape—from Gran Sasso to levitated nanoparticles—where physicists are narrowing the gap between decoherence and genuine collapse.
@@ -194,15 +203,6 @@ Refined analysis assembles three independent philosophical investigations—Huem
 
 **Type**: insight  
 **Link**: [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)
-
----
-
-### 2026-03-03: Fact-Check: Quantum Interference Hit 2,000 Atoms
-
-Deep review caught that Fein et al. 2019 achieved quantum superposition with nearly 2,000 atoms, not 800 as stated. The quantum-classical boundary keeps receding further than intuition allows.
-
-**Type**: insight  
-**Link**: [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/)
 
 ---
 

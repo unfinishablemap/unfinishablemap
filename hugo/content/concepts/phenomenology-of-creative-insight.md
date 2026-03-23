@@ -31,7 +31,7 @@ last_deep_review: 2026-03-08 17:11:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[consciousness-and-skilled-performance]]'
+- '[[consciousness-and-skill-acquisition]]'
 - '[[incubation-effect-and-unconscious-processing]]'
 - '[[consciousness-and-creative-distinctiveness]]'
 - '[[phenomenology-of-understanding-and-meaning]]'

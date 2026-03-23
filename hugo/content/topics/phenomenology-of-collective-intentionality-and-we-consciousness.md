@@ -27,7 +27,7 @@ related_articles:
 - '[[other-minds-void]]'
 - '[[social-construction-of-self-vs-phenomenal-self]]'
 - '[[social-epistemic-void]]'
-- '[[consciousness-and-skilled-performance]]'
+- '[[consciousness-and-skill-acquisition]]'
 - '[[consciousness-and-normative-force]]'
 - '[[phenomenology-of-musical-understanding]]'
 - '[[phenomenal-attention]]'

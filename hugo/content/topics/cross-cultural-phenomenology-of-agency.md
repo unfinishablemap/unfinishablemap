@@ -27,7 +27,7 @@ related_articles:
 - '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
 - '[[introspective-opacity|volitional opacity]]'
 - '[[buddhist-perspectives-on-meaning]]'
-- '[[consciousness-and-skilled-performance]]'
+- '[[consciousness-and-skill-acquisition]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[buddhism-and-dualism]]'
 - '[[process-philosophy]]'
