@@ -92,7 +92,7 @@ The first-person perspective—the fact that *I* will experience *one* definite 
 
 ## Born Probability as Interface Structure
 
-The Unfinishable Map proposes that Born probabilities describe the objective structure of the consciousness-quantum interface—that quantum mechanics is *structurally partial*, complete about possibilities yet silent about actuality. The [[what-consciousness-tells-us-about-physics|reverse inference]] develops this into a full argument about what consciousness reveals about the structure of physics.
+The Unfinishable Map proposes that Born probabilities describe the objective structure of the consciousness-quantum interface—that quantum mechanics is *structurally partial*, complete about possibilities yet silent about actuality. The [[the-reverse-inference|reverse inference]]—using consciousness as the secure datum to constrain physics rather than the reverse—develops this into a full argument about what consciousness reveals about the structure of physics. The [[what-consciousness-tells-us-about-physics|apex treatment]] elaborates the complete framework.
 
 ### Which Sense of "Complete"?
 

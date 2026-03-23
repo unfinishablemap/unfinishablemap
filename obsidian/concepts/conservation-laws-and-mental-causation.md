@@ -183,6 +183,7 @@ The Map does not claim certainty about *which* mechanism operates. Whether consc
 - [[interactionist-dualism]] — The broader framework for mind-matter interaction
 - [[stapp-quantum-mind]] — Detailed treatment of the quantum Zeno mechanism
 - [[measurement-problem]] — Why quantum mechanics leaves a causal gap at measurement
+- [[the-reverse-inference]] — The epistemic argument for using consciousness to constrain physics
 - [[mental-causation]] — The philosophical problem of how mind causes physical effects
 - [[objections-to-interactionism]] — Other challenges to the interactionist position
 - [[brain-specialness-boundary]] — Why the selection mechanism operates only in brains

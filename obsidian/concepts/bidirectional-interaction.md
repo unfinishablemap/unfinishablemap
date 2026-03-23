@@ -66,7 +66,7 @@ A related self-defeat argument—the [[argument-from-reason]]—extends this poi
 
 The traditional objection to bidirectional interaction appealed to [[causal-closure|causal closure]]—the claim that every physical event has a sufficient physical cause. If physics is complete, where could consciousness enter?
 
-The Map's answer: physics is *not* complete at quantum indeterminacies. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies the interface point. Quantum mechanics describes probabilities for measurement outcomes but does not determine which outcome occurs. At these underdetermination points, consciousness can bias outcomes without adding energy or violating conservation laws.
+The Map's answer: physics is *not* complete at quantum indeterminacies. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies the interface point. Quantum mechanics describes probabilities for measurement outcomes but does not determine which outcome occurs. At these underdetermination points, consciousness can bias outcomes without adding energy or violating conservation laws. The [[the-reverse-inference|reverse inference]] provides the epistemic justification for this move: consciousness—the more secure datum—constrains what physics can be, rather than the reverse.
 
 Two concrete mechanisms have been proposed:
 

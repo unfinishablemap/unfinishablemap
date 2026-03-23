@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate the-reverse-inference.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-17 via expand-topic. Topics article on inferring properties of consciousness from physics (the reverse direction of the usual inference). Add cross-references from consciousness-and-the-measurement-problem.md, physics-as-disclosure.md, bi-aspectual-ontology.md, and related quantum-consciousness articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-23
-
 ### P2: Integrate interface-heterogeneity.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Created 2026-03-17. Concepts article on the heterogeneity of the consciousness-matter interface across brain regions, states, and organisms. Add cross-references from mind-matter-interface.md, interface-location-problem.md, developmental-trajectory-of-the-interface.md, and comparative consciousness articles.
@@ -1203,6 +1197,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Integrate the-reverse-inference.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-17 via expand-topic. Topics article on inferring properties of consciousness from physics (the reverse direction of the usual inference). Add cross-references from consciousness-and-the-measurement-problem.md, physics-as-disclosure.md, bi-aspectual-ontology.md, and related quantum-consciousness articles.
+- **Output**: obsidian/topics/the-reverse-inference.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-23: Integrate non-retrocausal-conscious-selection-models.md into site navigation
 - **Type**: integrate-orphan

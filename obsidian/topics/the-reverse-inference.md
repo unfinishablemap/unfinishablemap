@@ -4,8 +4,8 @@ description: "The reverse inference uses consciousness—our most certain datum�
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T12:43:00+00:00
-last_deep_review: 2026-03-17T12:43:00+00:00
+ai_modified: 2026-03-23T08:51:00+00:00
+last_deep_review: 2026-03-23T08:51:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,7 @@ related_articles:
   - "[[stapp-quantum-mind]]"
   - "[[bidirectional-interaction]]"
   - "[[physics-as-disclosure]]"
+  - "[[the-convergence-argument-for-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -101,7 +102,7 @@ Moreover, the objection proves too much. If private phenomena cannot constrain t
 
 ### Why Not Panpsychism?
 
-If consciousness is needed for actualization, why posit it only in complex organisms? Why not accept panpsychism—consciousness all the way down?
+If consciousness is needed for actualization, why posit it only in complex organisms? Why not accept [[panpsychism]]—consciousness all the way down?
 
 The Map's response: [[prebiotic-collapse|prebiotic collapse]] is handled by objective physical mechanisms (spontaneous localization, gravitational collapse). Consciousness *modulates* collapse in neural systems where the right interface exists, but does not *replace* collapse everywhere. The reverse inference requires that actualization occur—it does not require that consciousness perform every instance of it.
 
@@ -129,6 +130,8 @@ The reverse inference is one of the Map's central methodological moves. It conne
 - [[quantum-interpretations]] — Why interpretive choice matters for consciousness
 - [[self-stultification]] — The argument motivating bidirectional interaction
 - [[prebiotic-collapse]] — How collapse works without consciousness
+- [[the-convergence-argument-for-dualism]] — The reverse inference as one strand in the cumulative case for dualism
+- [[born-rule-derivation-failures-consciousness-collapse]] — Why the Born rule cannot be derived from physics alone
 
 ## References
 

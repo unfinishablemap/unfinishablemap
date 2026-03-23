@@ -168,6 +168,7 @@ The argument also supports the [[tenets#^occams-limits|Occam's Razor Has Limits]
 - [[metaproblem-of-consciousness-under-dualism]] — How the metaproblem provides another route to the same conclusion: consciousness must causally contribute to problem reports
 - [[physics-as-disclosure]] — A parallel boundary-marker: physics reaching the limit of structural description
 - [[interactionist-dualism]] — The framework that escapes self-stultification
+- [[the-reverse-inference]] — The methodological move that uses consciousness as a datum to constrain physics
 - [[topics/free-will]] — Self-stultification extends to libertarian free will: choices disconnected from reasons aren't rationally authored
 - [[dualism]] — Multiple arguments converging on irreducibility
 

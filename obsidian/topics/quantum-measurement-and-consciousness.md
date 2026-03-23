@@ -75,7 +75,7 @@ The hard problem asks: why is there *something it is like* to be a physical syst
 
 The [[knowledge-argument|knowledge argument]] applies to both cases with minimal modification. Mary knows all physical facts about colour vision but learns something new when she first sees red. A physicist knows the complete quantum state of a system but not which outcome will obtain *for this observer*. In both cases, the first-person fact is logically independent of the third-person description.
 
-If the hard problem reveals something fundamental about the mind-body relation, the same structure in measurement reveals something fundamental about the observer-physics relation. The measurement problem stands to the hard problem as a specific instance of a general structural feature.
+If the hard problem reveals something fundamental about the mind-body relation, the same structure in measurement reveals something fundamental about the observer-physics relation. The measurement problem stands to the hard problem as a specific instance of a general structural feature. The [[the-reverse-inference|reverse inference]] exploits this structural identity methodologically: if consciousness is the more secure datum, it should constrain our interpretation of measurement rather than the reverse.
 
 ## The Gap Decoherence Cannot Close
 
