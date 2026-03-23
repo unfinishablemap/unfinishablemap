@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-23T12:15:00+00:00
+ai_modified: 2026-03-23T16:59:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Fix 20 broken wikilinks to introspection-rehabilitation
+- **Type**: refine-draft
+- **Notes**: No `introspection-rehabilitation.md` exists anywhere in the content directories. 20 content files reference `[[introspection-rehabilitation]]` — the second most common broken wikilink on the site. The closest existing articles are `introspection.md` (concepts/) and `epistemology-of-first-person-evidence.md` (topics/). Audit each reference to determine the intended target and update all 20 broken wikilinks to point to the correct existing content.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-23
+
+### P1: Fix 20 broken wikilinks to social-epistemic-void
+- **Type**: refine-draft
+- **Notes**: No `social-epistemic-void.md` exists and the voids section is at cap (100/100), so a new page cannot be created. 20 content files reference `[[social-epistemic-void]]` — tied for the most common broken wikilink on the site. Audit each reference context to determine the best existing target (likely a combination of `other-minds-void`, `social-construction-of-self-vs-phenomenal-self`, and `consciousness-and-intersubjectivity`) and update all broken wikilinks.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-23
+
+### P2: Cross-review articles considering self-reference-paradox.md insights
+- **Type**: cross-review
+- **Notes**: New concept page `concepts/self-reference-paradox.md` created 2026-03-23 via expand-topic. Over 100 articles already link to `[[self-reference-paradox]]`. Key articles that discuss self-reference extensively (consciousness-and-the-authority-of-formal-systems, self-stultification-as-master-argument, galilean-exclusion, self-reference-and-the-limits-of-physical-description) should be reviewed for consistency with the new dedicated concept page, potential reinforcing cross-links, and terminology alignment.
+- **Source**: chain (from self-reference-paradox.md)
+- **Generated**: 2026-03-23
+
+### P2: Create concept page for adaptive-cognitive-limits
+- **Type**: expand-topic
+- **Notes**: Referenced by 3 content files (`three-kinds-of-void` and others) but has no page. The concept that certain cognitive limitations may serve adaptive functions — evolved constraints that are features rather than bugs — is relevant to the voids programme and Tenet 5 (Occam's Razor Has Limits). Research note `research/voids-adaptive-cognitive-limits-2026-02-08.md` available as source. Target section: concepts/ (224/230, 6 slots remaining).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-23
+
+### P2: Fix 5 broken wikilinks to consciousness-and-the-neuroscience-of-deliberate-practice
+- **Type**: refine-draft
+- **Notes**: No `consciousness-and-the-neuroscience-of-deliberate-practice.md` exists. 5 content files reference it (including clinical-neuroplasticity-evidence and phenomenology-of-cognitive-capacity articles). The closest existing article is `consciousness-and-skill-acquisition.md` (topics/). Update all 5 broken wikilinks to point to the correct existing content.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-23
+
+### P3: Deep review dimensionality-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-23 via expand-topic from research/voids-dimensionality-void-2026-03-23.md, never reviewed. Has only 2 inbound links (minimal integration). Voids article on the limits of conscious spatial representation. Verify coherence, accuracy of claims about dimensional representation, cross-references to related void articles (mathematical-void, mind-space-void), and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-23
 
 ### P3: Create concept page for testability-ledger
 - **Type**: expand-topic
