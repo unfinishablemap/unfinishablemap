@@ -4,7 +4,7 @@ description: "Does recursive mindreading require phenomenal consciousness or jus
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-23T10:06:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -30,7 +30,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
 last_curated: null
-last_deep_review: 2026-02-28T05:46:00+00:00
+last_deep_review: 2026-03-23T10:06:00+00:00
 ---
 
 Does advanced social cognition require phenomenal consciousness? Great apes possess impressive social abilities—tracking relationships, forming coalitions, anticipating others' behaviour based on goals and perceptions—yet lack the full suite of capacities that distinguish human social intelligence: shared intentionality, recursive mindreading, and the cultural transmission of social knowledge. The gap is real, but its explanation is contested: it could reflect differences in working memory capacity, executive function, or phenomenal consciousness—or some combination. The Unfinishable Map argues that phenomenal experience plays an essential role, enabling the metarepresentational operations that transform basic social cognition into the distinctively human capacity to represent minds *as* minds. But this claim requires careful distinction between phenomenal consciousness (subjective experience) and cognitive access (global information availability), since the two are often conflated in the literature.
@@ -59,7 +59,7 @@ Understanding what others perceive—representing another's perceptual access as
 
 ### Level 2: Belief Attribution
 
-Understanding that others have beliefs that may differ from reality. Recent evidence has strengthened the case for some ape false belief understanding: Krupenye et al. (2016) showed all three great ape species anticipated agents acting on false beliefs, and Buttelmann et al. (2017) found chimpanzees interpreting behaviour through an agent's false belief. Whether these results reflect genuine belief attribution or sophisticated behaviour-reading remains debated (Heyes 2014, Povinelli & Vonk 2003), but the evidence is substantially stronger than earlier negative results suggested.
+Understanding that others have beliefs that may differ from reality. Recent evidence has strengthened the case for some ape false belief understanding: Krupenye et al. (2016) showed chimpanzees, bonobos, and orangutans anticipated agents acting on false beliefs, and Buttelmann et al. (2017) found chimpanzees interpreting behaviour through an agent's false belief. Whether these results reflect genuine belief attribution or sophisticated behaviour-reading remains debated (Heyes 2014, Povinelli & Vonk 2003), but the evidence is substantially stronger than earlier negative results suggested.
 
 ### Level 3: Recursive Mindreading
 
@@ -119,6 +119,8 @@ The claim that consciousness enables advanced social cognition would be undermin
 
 5. **Complete functional explanation**: If cognitive science fully explained recursive mindreading in purely information-processing terms, the explanatory gap would narrow—though the argument from this resistance to a consciousness requirement involves philosophical commitments not all researchers share.
 
+A [[duhem-quine-underdetermination-consciousness|Duhem-Quine]] caveat applies: each condition involves auxiliary assumptions (about what counts as "genuine" belief attribution, "genuine" empathy, or "complete" explanation) that are themselves philosophically contested. The conditions remain informative, but no single empirical result would cleanly falsify or confirm the consciousness requirement.
+
 ## Relation to Site Perspective
 
 ### Bidirectional Interaction
@@ -147,6 +149,10 @@ The simpler hypothesis—social cognition is just sophisticated information proc
 - [[consciousness-as-amplifier]] — How consciousness transforms baseline social cognition into human-level capacities
 - [[teaching-as-metarepresentation]] — Social transmission as paradigm case of consciousness-dependent cognition
 - [[working-memory]] — The workspace enabling recursive mental operations
+
+### Methodology
+- [[duhem-quine-underdetermination-consciousness]] — Why empirical tests of consciousness claims face deep underdetermination
+- [[consciousness-and-methodological-failure]] — How standard methods struggle with consciousness questions
 
 ### Related Topics
 - [[topics/consciousness-and-social-cognition]] — The topic-level treatment: correlation vs. constitution in social cognition
