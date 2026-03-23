@@ -5,6 +5,12 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 16:01 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/evolution-under-dualism]]
+- **Changes**: Fixed circular fitness argument (made conditional on independent evidence), removed unsupported attentional systems claim, strengthened co-evolution temporal objection, qualified zombie nomological impossibility claim, softened overstated language
+- **Published**: yes
+
 ## 2026-03-23 15:44 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/evolution-under-dualism.md — adversarial analysis from 6 philosopher perspectives plus standard quality checks
