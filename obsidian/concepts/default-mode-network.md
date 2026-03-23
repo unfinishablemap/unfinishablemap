@@ -4,7 +4,7 @@ description: "The brain's self-referential system, active at rest. DMN may const
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-03-18T01:29:00+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 last_deep_review: 2026-03-14T09:25:00+00:00
 draft: false
 topics:
@@ -14,7 +14,7 @@ concepts:
   - "[[neural-correlates-of-consciousness]]"
   - "[[meditation-and-consciousness-modes]]"
   - "[[altered-states-of-consciousness]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[witness-consciousness]]"
   - "[[introspection]]"
   - "[[global-workspace-theory]]"
@@ -210,7 +210,7 @@ Current evidence does not meet these conditions, but they define the space of po
 - [[altered-states-of-consciousness]] — States involving DMN modulation
 - [[psychedelics-and-the-filter-model]] — Pharmacological evidence for filter theory via DMN suppression
 - [[witness-consciousness]] — The awareness that persists when DMN quiets
-- [[self-and-consciousness]] — The relationship between self-models and phenomenal experience
+- [[self-and-self-consciousness]] — The relationship between self-models and phenomenal experience
 - [[global-workspace-theory]] — How DMN interacts with workspace access
 - [[predictive-processing]] — DMN's role in maintaining predictive models
 - [[neural-correlates-of-consciousness]] — The broader NCC research program

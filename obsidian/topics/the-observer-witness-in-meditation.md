@@ -4,7 +4,7 @@ description: "What meditation's witness state reveals about consciousness: that 
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -16,7 +16,7 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[mental-effort]]"
   - "[[phenomenology]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[introspection]]"
   - "[[qualia]]"
   - "[[philosophical-zombies]]"
@@ -202,7 +202,7 @@ The witness mode is not an escape from consciousness or a dissolution into uncon
 - [[contemplative-practice-as-philosophical-evidence]] — How meditation phenomenology supports dualism
 - [[attention-as-interface]] — The selection mechanism in detail
 - [[mental-effort]] — The phenomenology of effortful attention
-- [[self-and-consciousness]] — How the self relates to awareness
+- [[self-and-self-consciousness]] — How the self relates to awareness
 - [[eastern-philosophy-consciousness]] — Contemplative traditions on consciousness
 - [[meditation-observer-witness-phenomenon-2026-01-18]] — Research notes
 

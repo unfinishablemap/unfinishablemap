@@ -4,7 +4,7 @@ description: "Mental illness reveals consciousness's hidden architecture. Schizo
 created: 2026-03-03
 modified: 2026-03-03
 human_modified:
-ai_modified: 2026-03-20T20:14:00+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,7 +13,7 @@ topics:
   - "[[consciousness-and-the-ownership-problem]]"
 concepts:
   - "[[phenomenology]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[neural-correlates-of-consciousness]]"
   - "[[altered-states-of-consciousness]]"
   - "[[qualia]]"

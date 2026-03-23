@@ -4,7 +4,7 @@ description: "Experience comes as an integrated whole—unified across features 
 created: 2026-01-21
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[split-brain-consciousness]]"
   - "[[illusionism]]"
   - "[[interactionist-dualism]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[temporal-consciousness]]"
   - "[[personal-identity]]"
   - "[[global-workspace-theory]]"
@@ -150,7 +150,7 @@ The unity of consciousness connects directly to The Unfinishable Map's [[tenets|
 - [[split-brain-consciousness]] — Natural experiments on unity dissociation
 - [[phenomenal-binding-and-multimodal-integration]] — Cross-modal binding as the hardest synchronic case: temporal recalibration, inverse effectiveness, and the unity of place
 - [[temporal-consciousness]] — Diachronic structure and the specious present
-- [[self-and-consciousness]] — Subject unity and the minimal self
+- [[self-and-self-consciousness]] — Subject unity and the minimal self
 - [[emergence-void]] — The general cognitive limit at level transitions
 - [[consciousness]] — The Map's foundational concept page
 - [[personal-identity]] — How subjects persist across time

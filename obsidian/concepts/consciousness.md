@@ -4,7 +4,7 @@ description: "Consciousness is what it is like to be something—the subjective 
 created: 2026-01-24
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-03-23T06:41:00+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 last_deep_review: 2026-03-23T06:41:00+00:00
 draft: false
 topics:
@@ -26,7 +26,7 @@ concepts:
   - "[[knowledge-argument]]"
   - "[[introspection]]"
   - "[[intentionality]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[temporal-consciousness]]"
   - "[[altered-states-of-consciousness]]"
   - "[[evolution-of-consciousness]]"

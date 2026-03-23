@@ -4,7 +4,7 @@ description: "AI-assisted exploration of what the capacity to conceive cognitive
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 last_deep_review: 2026-03-14T23:43:00+00:00
 draft: false
 topics:
@@ -13,7 +13,7 @@ concepts:
   - "[[mysterianism]]"
   - "[[phenomenology]]"
   - "[[metacognition]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"

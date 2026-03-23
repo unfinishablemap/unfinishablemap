@@ -4,13 +4,13 @@ description: "Why does experience belong to anyone? The ownership problem asks w
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[personal-identity]]"
 concepts:
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[haecceity]]"
   - "[[phenomenology]]"
   - "[[qualia]]"
@@ -127,7 +127,7 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 ## Further Reading
 
 - [[the-self-minimal-narrative-and-substantial]] — Three conceptions of selfhood and their relation to ownership
-- [[self-and-consciousness]] — The minimal self as the form ownership takes
+- [[self-and-self-consciousness]] — The minimal self as the form ownership takes
 - [[haecceity]] — Primitive thisness and why ownership cannot be replicated
 - [[indexical-knowledge-and-identity]] — Why "I" and "mine" resist impersonal translation
 - [[personal-identity]] — What persists when ownership extends through time

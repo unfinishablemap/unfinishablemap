@@ -4,7 +4,7 @@ description: "Remembering is not retrieving stored data but re-inhabiting a pers
 created: 2026-02-13
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-23T17:09:00+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -12,7 +12,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[episodic-memory]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[semantic-memory]]"
   - "[[haecceity]]"
   - "[[phenomenology]]"
@@ -114,7 +114,7 @@ The phenomenology of memory and self connects directly to the Map's foundational
 - [[inaccessible-past]]
 - [[consciousness-and-memory]]
 - [[temporal-consciousness]]
-- [[self-and-consciousness]]
+- [[self-and-self-consciousness]]
 - [[haecceity]]
 - [[social-construction-of-self-vs-phenomenal-self]]
 - [[phenomenology-of-anticipation]]

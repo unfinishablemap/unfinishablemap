@@ -4,7 +4,7 @@ description: "Awareness that observes mental contents without identifying with t
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,7 +12,7 @@ topics:
 concepts:
   - "[[self-reference-paradox]]"
   - "[[buddhism-and-dualism]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[introspection]]"
   - "[[meditation-and-consciousness-modes]]"
   - "[[phenomenology]]"
@@ -196,7 +196,7 @@ What contemplatives discovered through sustained practice, phenomenology articul
 - [[phenomenology-of-the-edge]] — Minimal phenomenal experience
 - [[hypnagogic-phenomenology-and-interface-modulation]] — Sleep-onset phenomenology and the witness during interface transitions
 - [[meditation-and-consciousness-modes]] — Two modes of consciousness in meditation
-- [[self-and-consciousness]] — Minimal self and narrative self
+- [[self-and-self-consciousness]] — Minimal self and narrative self
 - [[attention-as-interface]] — How consciousness selects through attention
 - [[mental-effort]] — The phenomenology of effortful selection
 - [[apex/testing-the-map-from-inside|Testing the Map from Inside]] — Apex synthesis: first-person experiments probing witness consciousness and choice

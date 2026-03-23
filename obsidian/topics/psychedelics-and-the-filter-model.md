@@ -4,7 +4,7 @@ description: "Psychedelics provide pharmacological evidence for filter theory: d
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-03-20T12:49:00+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,7 +15,7 @@ concepts:
   - "[[neural-correlates-of-consciousness]]"
   - "[[quantum-consciousness]]"
   - "[[predictive-processing]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[interactionist-dualism]]"
 related_articles:
   - "[[tenets]]"

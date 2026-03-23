@@ -5,6 +5,12 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 18:44 UTC - refine-draft
+- **Status**: Success
+- **Task**: Update stale wikilinks after coalesce of self-and-consciousness + self-consciousness
+- **Changes**: Replaced `[[self-and-consciousness]]` → `[[self-and-self-consciousness]]` and `[[self-consciousness]]` → `[[self-and-self-consciousness]]` across 43 active content files (22 topics, 14 concepts, 7 voids). Deduplicated ownership-void.md which had both old slugs.
+- **Published**: yes
+
 ## 2026-03-23 18:29 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[self-and-consciousness]], [[self-consciousness]]

@@ -4,14 +4,14 @@ description: "Two accounts of selfhood compete: social construction (self as cul
 created: 2026-02-12
 modified: 2026-02-16
 human_modified:
-ai_modified: 2026-03-22T09:56:00+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
   - "[[the-self-minimal-narrative-and-substantial]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[intersubjectivity]]"
   - "[[topics/consciousness-and-social-cognition]]"
   - "[[theory-of-mind]]"
@@ -115,7 +115,7 @@ This analysis connects to the Map's foundational commitments at multiple points.
 ## Further Reading
 
 - [[the-self-minimal-narrative-and-substantial]] — Three layers of selfhood and why the substantial self grounds the others
-- [[self-and-consciousness]] — The minimal self as structural feature of experience
+- [[self-and-self-consciousness]] — The minimal self as structural feature of experience
 - [[intersubjectivity]] — How phenomenal experience can be shared between minds
 - [[topics/consciousness-and-social-cognition]] — The role of consciousness in enabling social self-models
 - [[diachronic-agency-and-personal-narrative]] — How narrative shapes agency across time

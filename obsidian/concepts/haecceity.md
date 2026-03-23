@@ -4,14 +4,14 @@ description: "The quality of being this particular conscious subject. Pattern-ba
 created: 2026-01-16
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-03-12T03:53:00+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[personal-identity]]"
 concepts:
   - "[[pairing-problem]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[concepts/many-worlds]]"
   - "[[philosophical-zombies]]"
   - "[[illusionism]]"
@@ -233,7 +233,7 @@ The haecceity concept makes explicit what the Map presupposes. Personal identity
 - [[concepts/many-worlds]] — Why indexical identity problems doom many-worlds
 - [[indexical-identity-quantum-measurement]] — How haecceity grounds which outcome *this* consciousness experiences
 - [[pairing-problem]] — The haecceity response to Kim's challenge
-- [[self-and-consciousness]] — The minimal self and phenomenology of thisness
+- [[self-and-self-consciousness]] — The minimal self and phenomenology of thisness
 - [[philosophical-zombies]] — Why qualitative identity doesn't guarantee conscious identity
 - [[meaning-of-life]] — Why your particular existence matters
 - [[illusionism]] — The challenge that consciousness itself is illusory

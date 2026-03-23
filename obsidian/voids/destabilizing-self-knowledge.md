@@ -4,7 +4,7 @@ description: "Could certain truths about consciousness be structurally inaccessi
 created: 2026-01-27
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-03-21T01:42:00+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 last_deep_review: 2026-03-14T06:21:00+00:00
 draft: false
 topics:
@@ -13,7 +13,7 @@ concepts:
   - "[[simulation]]"
   - "[[mysterianism]]"
   - "[[phenomenology]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[metacognition]]"
 related_articles:
   - "[[voids]]"

@@ -4,14 +4,14 @@ description: "What kind of thing are you? Three answers compete—bare perspecti
 created: 2026-02-08
 modified: 2026-02-08
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[personal-identity]]"
   - "[[topics/free-will]]"
 concepts:
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[haecceity]]"
   - "[[parfit-reductionism]]"
   - "[[anoetic-noetic-autonoetic-consciousness]]"
@@ -152,7 +152,7 @@ The three-layered self connects directly to the Map's foundational commitments.
 
 ## Further Reading
 
-- [[self-and-consciousness]] — The minimal self as structural feature of consciousness
+- [[self-and-self-consciousness]] — The minimal self as structural feature of consciousness
 - [[personal-identity]] — What makes you persist over time
 - [[haecceity]] — Primitive thisness and why qualitative identity isn't enough
 - [[parfit-reductionism]] — The Map's critique of identity-as-pattern

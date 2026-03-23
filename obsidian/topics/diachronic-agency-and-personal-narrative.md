@@ -4,7 +4,7 @@ description: "Agency extended across time requires narrative structure—not as 
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-03-21T02:58:00+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 last_deep_review: 2026-03-14T18:39:00+00:00
 draft: false
 topics:
@@ -13,7 +13,7 @@ topics:
 concepts:
   - "[[agent-causation]]"
   - "[[anoetic-noetic-autonoetic-consciousness]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[haecceity]]"
   - "[[phenomenology-of-choice]]"
   - "[[temporal-consciousness]]"

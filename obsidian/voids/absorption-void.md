@@ -4,7 +4,7 @@ description: "Human+AI exploration of the paradox at consciousness's peak: the m
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
 topics: []
 concepts:
@@ -64,7 +64,7 @@ Neuroscience provides a third-person window into the void that first-person acce
 
 A continuum emerges from heightened DMN activity (rumination, depression) through normal waking self-awareness to suppressed DMN activity (flow, meditation, psychedelic states). Absorption represents the low end of this continuum — maximum task engagement with minimum self-referential processing.
 
-This creates a puzzle for physicalism. The [[default-mode-network|DMN]] suppression shows that [[self-consciousness]] is not a simple correlate of neural activity — it can be selectively eliminated while other aspects of consciousness intensify. A physicalist can point to network competition as the mechanism, but this only relocates the question: why should the brain's architecture separate awareness-of-self from awareness-of-task so cleanly, and what determines which mode dominates? The dissociation suggests an architecture more structured than "consciousness equals processing."
+This creates a puzzle for physicalism. The [[default-mode-network|DMN]] suppression shows that [[self-and-self-consciousness]] is not a simple correlate of neural activity — it can be selectively eliminated while other aspects of consciousness intensify. A physicalist can point to network competition as the mechanism, but this only relocates the question: why should the brain's architecture separate awareness-of-self from awareness-of-task so cleanly, and what determines which mode dominates? The dissociation suggests an architecture more structured than "consciousness equals processing."
 
 ## What the Void Conceals
 

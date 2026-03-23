@@ -4,7 +4,7 @@ description: "Three rival Indian schools spent two millennia debating what consc
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-03-20T04:14:00+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 last_deep_review: 2026-03-20T04:14:00+00:00
 draft: false
 topics:
@@ -31,7 +31,7 @@ related_articles:
   - "[[tenets]]"
   - "[[buddhism-and-dualism]]"
   - "[[bidirectional-interaction]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[mental-causation]]"
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
 ai_contribution: 100
@@ -157,7 +157,7 @@ The Map's engagement with Indian philosophy of mind connects to each tenet.
 - [[interactionist-dualism]] — The Map's position, closest to Nyaya
 - [[agent-causation]] — The framework Nyaya independently articulates
 - [[substance-property-dualism]] — Distinguishing forms of dualism
-- [[self-and-consciousness]] — Minimal self vs. narrative self
+- [[self-and-self-consciousness]] — Minimal self vs. narrative self
 - [[contemplative-practice-as-philosophical-evidence]] — First-person data as empirical test
 - [[comparative-phenomenology-of-meditative-traditions]] — Cross-traditional convergence on self-dissolution, contentless awareness, and subject-object collapse
 - [[tenets]] — The Map's foundational commitments

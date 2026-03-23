@@ -4,13 +4,13 @@ description: "Consciousness trying to understand itself faces structural obstacl
 created: 2026-03-23
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-03-23T17:44:00+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[self-reference-and-the-limits-of-physical-description]]"
 concepts:
-  - "[[self-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[introspection]]"
   - "[[metacognition]]"
   - "[[mysterianism]]"
@@ -54,7 +54,7 @@ The paradox is not merely formal. It manifests in the phenomenology of everyday 
 
 Metzinger's self-model theory of subjectivity identifies a mechanism: consciousness operates through a "transparent self-model"—a representation so seamless that we cannot perceive it as a representation. We see *through* the model to what it represents, never *at* the model itself. As Metzinger writes, the models giving rise to perception are "transparent (not directly perceivable) and cognitively impenetrable."
 
-This transparency is not accidental. For the self-model to function—for there to be a unified sense of being a subject—the machinery generating that sense must remain invisible. If the model became opaque, the seamless feeling of selfhood would fracture. The architecture of [[self-consciousness]] depends on hiding its own workings. This is a form of [[self-stultification]]: the system undermines its own capacity for self-knowledge as a condition of functioning at all.
+This transparency is not accidental. For the self-model to function—for there to be a unified sense of being a subject—the machinery generating that sense must remain invisible. If the model became opaque, the seamless feeling of selfhood would fracture. The architecture of [[self-and-self-consciousness]] depends on hiding its own workings. This is a form of [[self-stultification]]: the system undermines its own capacity for self-knowledge as a condition of functioning at all.
 
 Hume captured the phenomenological side: "I can never catch myself at any time without a perception." When introspection reaches for the self, it finds only perceptions—never the perceiver. The self is always the subject of experience, never its object. Attempting to observe the observer initiates a regress with no natural stopping point.
 
@@ -104,7 +104,7 @@ The self-reference paradox directly supports several of the Map's [[tenets]].
 
 ## Further Reading
 
-- [[self-consciousness]]
+- [[self-and-self-consciousness]]
 - [[incompleteness-void]]
 - [[recursion-void]]
 - [[the-unobservable-self]]

@@ -4,7 +4,7 @@ description: "Knowledge expressible only as 'I', 'here', 'now'—irreducible to 
 created: 2026-01-27
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-03-12T04:10:00+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
 topics:
   - "[[vertiginous-question]]"
@@ -12,7 +12,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[haecceity]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[qualia]]"
   - "[[phenomenal-consciousness]]"
   - "[[knowledge-argument]]"

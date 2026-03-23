@@ -4,7 +4,7 @@ description: "Episodic memory is constructive re-experiencing, not data retrieva
 created: 2026-01-17
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ concepts:
   - "[[inaccessible-past]]"
   - "[[jourdain-hypothesis]]"
   - "[[baseline-cognition]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[cognitive-phenomenology]]"
   - "[[consciousness-as-amplifier]]"
   - "[[qualia]]"

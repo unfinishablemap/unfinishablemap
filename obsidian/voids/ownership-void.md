@@ -4,7 +4,7 @@ description: "Human+AI inquiry into why we cannot introspect how experiences bec
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -13,7 +13,7 @@ concepts:
   - "[[phenomenology]]"
   - "[[introspection]]"
   - "[[mysterianism]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
@@ -23,7 +23,6 @@ related_articles:
   - "[[transparency-void]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[consciousness-and-the-ownership-problem]]"
-  - "[[self-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -106,9 +105,8 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies. Predictive
 - [[transparency-void]] — When cognitive mechanisms become invisible through transparency
 - [[other-minds-void]] — The impossibility of accessing another subject's ownership
 - [[phenomenology-of-the-edge]] — What approaching limits feels like
-- [[self-and-consciousness]] — Minimal self and pre-reflective awareness
+- [[self-and-self-consciousness]] — Minimal self, pre-reflective awareness, and the circularity of self-knowledge
 - [[consciousness-and-the-ownership-problem]] — Why experience belongs to anyone, and what happens when it stops
-- [[self-consciousness]] — Pre-reflective for-me-ness and the circularity of self-awareness
 - [[mysterianism]] — McGinn on structural cognitive limits
 
 ## References

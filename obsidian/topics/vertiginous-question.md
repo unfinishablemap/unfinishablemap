@@ -4,14 +4,14 @@ description: "Why, of all conscious beings, am *I* this one? The vertiginous que
 created: 2026-01-26
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-02-25T06:12:00+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[personal-identity]]"
 concepts:
   - "[[haecceity]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[concepts/many-worlds]]"
   - "[[philosophical-zombies]]"
   - "[[qualia]]"
@@ -144,7 +144,7 @@ The vertiginous question connects to all five tenets:
 - [[haecceity]] — The metaphysical concept of primitive thisness
 - [[indexical-identity-quantum-measurement]] — How indexical identity applies to quantum interpretations
 - [[personal-identity]] — What makes you the same person over time
-- [[self-and-consciousness]] — The minimal self and phenomenology of selfhood
+- [[self-and-self-consciousness]] — The minimal self and phenomenology of selfhood
 - [[concepts/many-worlds]] — Why indexical identity problems challenge many-worlds
 - [[philosophical-zombies]] — Why qualitative identity doesn't guarantee conscious identity
 - [[hard-problem-of-consciousness]] — The broader context for consciousness problems

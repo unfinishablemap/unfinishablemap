@@ -4,7 +4,7 @@ description: "A comprehensive taxonomy of binding problems—perceptual, tempora
 created: 2026-02-14
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-03-21T05:54:00+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[language-recursion-and-consciousness]]"
   - "[[working-memory]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[topics/free-will]]"
   - "[[agent-causation]]"
   - "[[sleep-and-consciousness]]"

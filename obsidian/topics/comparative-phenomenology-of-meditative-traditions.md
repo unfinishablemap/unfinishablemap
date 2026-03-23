@@ -4,7 +4,7 @@ description: "Cross-traditional meditation reports converge on structural featur
 created: 2026-03-07
 modified: 2026-03-07
 human_modified:
-ai_modified: 2026-03-23T17:09:00+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,7 +20,7 @@ concepts:
   - "[[buddhism-and-dualism]]"
   - "[[introspection]]"
   - "[[altered-states-of-consciousness]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"

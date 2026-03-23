@@ -3,7 +3,7 @@ title: "The Phenomenology of Self-Awareness"
 created: 2026-01-21
 modified: 2026-03-18
 human_modified: null
-ai_modified: 2026-03-18T23:59:00+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
 description: "What does it feel like when consciousness turns back on itself? Self-reference produces felt inversion and semantic vertigo; error recognition reveals the bootstrap problem—the same system that erred must catch its own mistake."
 last_deep_review: 2026-03-18T20:19:00+00:00
@@ -15,7 +15,7 @@ concepts:
   - "[[metacognition]]"
   - "[[introspection]]"
   - "[[epistemic-emotions]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[mysterianism]]"
 related_articles:
   - "[[voids]]"

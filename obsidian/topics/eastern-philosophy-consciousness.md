@@ -4,7 +4,7 @@ description: "Hindu, Buddhist, and Taoist traditions converge with dualism on co
 created: 2026-01-09
 modified: 2026-02-06
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[neurophenomenology]]"
   - "[[dream-consciousness]]"
   - "[[witness-consciousness]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[meditation-and-consciousness-modes]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[illusionism]]"
@@ -202,7 +202,7 @@ Eastern philosophy illuminates all five of the Map's [[tenets]], while raising p
 - [[samkhya-three-way-distinction]] — Samkhya's radical separation of consciousness, mind, and matter
 - [[mental-causation]] — The philosophical case for consciousness as causally efficacious
 - [[process-philosophy]] — Whitehead's framework and Buddhist parallels
-- [[self-and-consciousness]] — Minimal self vs. narrative self
+- [[self-and-self-consciousness]] — Minimal self vs. narrative self
 - [[personal-identity]] — What makes you the same person over time
 - [[meaning-of-life]] — Western approaches to significance
 - [[nihilism-and-existentialism]] — Compare Buddhist and Western responses to meaninglessness

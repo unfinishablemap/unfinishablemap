@@ -4,7 +4,7 @@ description: "Consciousness cannot observe itself observing. Six philosophical t
 created: 2026-01-14
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-03-22T17:47:00+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -13,7 +13,7 @@ topics:
 concepts:
   - "[[introspection]]"
   - "[[phenomenology]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[metacognition]]"
   - "[[intentionality]]"
   - "[[mysterianism]]"

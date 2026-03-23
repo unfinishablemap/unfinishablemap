@@ -4,7 +4,7 @@ description: "What makes you *you* across time? The Map emphasizes indexical ide
 created: 2026-01-08
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-22T14:02:00+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,7 +13,7 @@ concepts:
   - "[[qualia]]"
   - "[[death-and-consciousness]]"
   - "[[split-brain-consciousness]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[concepts/many-worlds]]"
   - "[[parfit-reductionism]]"
@@ -210,7 +210,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 - [[parfit-reductionism]] — The Map's detailed critique of Parfit's view
 - [[concepts/many-worlds]] — Why the Map rejects many-worlds (the indexical problem is central)
 - [[haecceity]] — Primitive thisness, Whitehead's process philosophy, and why qualitative identity isn't enough
-- [[self-and-consciousness]] — The minimal self and phenomenology of selfhood
+- [[self-and-self-consciousness]] — The minimal self and phenomenology of selfhood
 - [[anoetic-noetic-autonoetic-consciousness]] — Mental time travel and the temporal self
 - [[split-brain-consciousness]] — Empirical evidence on consciousness unity and division
 - [[death-and-consciousness]] — What survival after death would require

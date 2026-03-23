@@ -4,7 +4,7 @@ description: "Skill acquisition challenges epiphenomenalism—deliberate practic
 created: 2026-02-02
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-03-23T04:51:00+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ concepts:
   - "[[phenomenology-of-choice]]"
   - "[[interface-friction]]"
   - "[[temporal-consciousness]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[consciousness-and-creativity]]"
   - "[[neuroplasticity]]"
   - "[[downward-causation]]"
@@ -169,7 +169,7 @@ The strongest physicalist counterargument is that executive attention networks e
 - [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] — Clinical evidence for consciousness reshaping neural architecture
 - [[contemplative-practice-as-philosophical-evidence]] — Meditation as a parallel case of trained skill
 - [[phenomenology-of-agency-vs-passivity]] — The felt difference between authored and discovered action
-- [[self-and-consciousness]] — Minimal vs. narrative self and the layers of self-awareness
+- [[self-and-self-consciousness]] — Minimal vs. narrative self and the layers of self-awareness
 - [[surprise-prediction-error-and-consciousness]] — Error signals and conscious correction
 
 ## References

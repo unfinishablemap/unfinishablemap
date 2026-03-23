@@ -4,14 +4,14 @@ description: "Buddhism rejects permanent self while affirming irreducible consci
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-03-06T16:38:00+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[meaning-of-life]]"
   - "[[eastern-philosophy-consciousness]]"
 concepts:
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[phenomenology]]"
   - "[[witness-consciousness]]"
   - "[[panpsychism]]"
@@ -163,7 +163,7 @@ The comparison also reveals what Buddhism challenges: any residual attachment to
 ## Further Reading
 
 - [[eastern-philosophy-consciousness]] — Overview of Buddhist approaches to consciousness
-- [[self-and-consciousness]] — The minimal self vs. narrative self distinction
+- [[self-and-self-consciousness]] — The minimal self vs. narrative self distinction
 - [[witness-consciousness]] — The observer in meditation traditions
 - [[phenomenology]] — Western methods for investigating experience; Buddhism as phenomenology in practice
 - [[panpsychism]] — Another non-physicalist view, with different tensions with Buddhism

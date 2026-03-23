@@ -4,7 +4,7 @@ description: "Why consciousness is confined to a moving present, cannot simultan
 created: 2026-01-21
 modified: 2026-03-17
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,7 +14,7 @@ concepts:
   - "[[introspection]]"
   - "[[mysterianism]]"
   - "[[philosophy-of-time]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[default-mode-network]]"
   - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[episodic-memory]]"

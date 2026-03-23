@@ -4,7 +4,7 @@ description: "Metacognition and metarepresentation are cognitive tools conscious
 created: 2026-01-18
 modified: 2026-02-21
 human_modified: null
-ai_modified: 2026-03-19T11:25:00+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,7 +16,7 @@ concepts:
   - "[[introspection]]"
   - "[[dream-consciousness]]"
   - "[[meditation-and-consciousness-modes]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[illusionism]]"
   - "[[decoherence]]"
   - "[[attention-as-interface]]"

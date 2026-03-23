@@ -4,7 +4,7 @@ description: "Tulving's tripartite hierarchy classifies consciousness by self-aw
 created: 2026-02-15
 modified: 2026-03-02
 human_modified:
-ai_modified: 2026-03-22T14:02:00+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 last_deep_review: 2026-03-11T03:23:00+00:00
 draft: false
 topics:
@@ -22,7 +22,7 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[mental-causation]]"
   - "[[temporal-consciousness]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
 related_articles:
   - "[[personal-identity]]"
   - "[[tenets]]"
@@ -145,7 +145,7 @@ Whether any non-human animals achieve genuine autonoetic consciousness remains d
 - [[explanatory-gap]] — Why functional descriptions cannot bridge the transitions
 - [[mental-causation]] — The broader framework for consciousness as causally efficacious
 - [[temporal-consciousness]] — The temporal structure of conscious experience underlying mental time travel
-- [[self-and-consciousness]] — The relationship between selfhood and consciousness that autonoesis presupposes
+- [[self-and-self-consciousness]] — The relationship between selfhood and consciousness that autonoesis presupposes
 - [[ai-consciousness-modes]] — Tulving's hierarchy as diagnostic tool for AI consciousness
 
 ## References

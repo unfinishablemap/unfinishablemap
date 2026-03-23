@@ -4,7 +4,7 @@ description: "The philosophical method of investigating consciousness through sy
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-20T01:07:00+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,7 +19,7 @@ concepts:
   - "[[qualia]]"
   - "[[temporal-consciousness]]"
   - "[[mysterianism]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[introspection]]"
   - "[[neurophenomenology]]"
   - "[[meditation-and-consciousness-modes]]"
@@ -177,7 +177,7 @@ Phenomenology doesn't definitively prove dualism. But it provides methodological
 - [[intersubjectivity]] — How phenomenological findings can be shared across minds
 - [[buddhism-and-dualism]] — Buddhist contemplative traditions as phenomenology in practice
 - [[neurophenomenology]] — Integrating trained observation with neuroscience
-- [[self-and-consciousness]] — The minimal self and phenomenology of selfhood
+- [[self-and-self-consciousness]] — The minimal self and phenomenology of selfhood
 - [[intentionality]] — The directedness of consciousness
 - [[temporal-consciousness]] — How experience structures time
 - [[qualia]] — The qualitative features phenomenology discloses

@@ -4,7 +4,7 @@ description: "Emotional consciousness provides the strongest empirical case for 
 created: 2026-01-19
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T03:28:00+00:00
+ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,7 +19,7 @@ concepts:
   - "[[minimal-consciousness]]"
   - "[[agent-causation]]"
   - "[[attention-as-interface]]"
-  - "[[self-and-consciousness]]"
+  - "[[self-and-self-consciousness]]"
   - "[[epistemic-emotions]]"
   - "[[explanatory-gap]]"
   - "[[concepts/epiphenomenalism]]"
@@ -167,7 +167,7 @@ Both the cognitivist reduction of emotions to judgments and the somatic reductio
 - [[introspective-opacity]] — The broader phenomenon of hidden cognitive processes
 - [[destabilizing-self-knowledge]] — Knowledge that dissolves the capacity to hold it
 - [[minimal-consciousness]] — Boundary cases testing where valenced experience begins
-- [[self-and-consciousness]] — How selfhood relates to phenomenal experience
+- [[self-and-self-consciousness]] — How selfhood relates to phenomenal experience
 - [[higher-order-theories]] — Theories that consciousness requires higher-order representation
 - [[interactionist-dualism]] — The position that mind and body are distinct yet causally connected
 - [[ai-consciousness]] — Whether artificial systems can be phenomenally conscious
