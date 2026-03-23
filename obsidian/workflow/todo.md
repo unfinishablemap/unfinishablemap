@@ -1261,6 +1261,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Six cross-linking opportunities identified: the-epiphenomenalist-threat→consciousness-and-the-problem-of-induction, evolutionary-case-for-mental-causation→clinical-dissociation-as-systematic-evidence, pragmatisms-path-to-dualism→contemplative-practice-as-philosophical-evidence, causal-closure→emergence-as-universal-hard-problem, filter-theory→clinical-dissociation-as-systematic-evidence, differential-predictions-consciousness-collapse→philosophical-stakes-of-spontaneous-collapse. See optimistic-2026-03-23-afternoon.md
 - **Generated**: 2026-03-23
 
+### P2: Address self-referential link and selection bias in contemplative-practice-as-philosophical-evidence
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found: (1) self-link in Further Reading and related_articles, (2) convergence argument selection bias insufficiently addressed, (3) description overstates "favouring dualism" relative to what the article demonstrates. See pessimistic-2026-03-23d.md
+
 ## Completed Tasks
 
 
