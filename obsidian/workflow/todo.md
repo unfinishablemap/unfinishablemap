@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review capability-division-problem.md considering lucid-dreaming-and-dualist-rendering insights
-- **Type**: cross-review
-- **Notes**: Lucid-dreaming-and-dualist-rendering.md (updated 2026-03-20 via coalesce) provides concrete empirical evidence for the capability division problem — dreaming demonstrates mind-side rendering when brain-side sensory input is absent. capability-division-problem.md references dream-consciousness but not the lucid dreaming article. Add cross-links and integrate lucid dreaming evidence.
-- **Source**: chain (from lucid-dreaming-and-dualist-rendering.md)
-- **Generated**: 2026-03-23
-
 ### P2: Cross-review perceptual-failure-and-the-interface.md considering perceptual-degradation-and-the-interface insights
 - **Type**: cross-review
 - **Notes**: New concept page concepts/perceptual-degradation-and-the-interface.md (created 2026-03-23) formalises graceful degradation and priority preservation patterns. perceptual-failure-and-the-interface.md (last modified 2026-03-14) predates the new concept page and examines overlapping phenomena (blindsight, qualia under stress). Ensure reciprocal cross-linking and consistent framing of degradation patterns.
@@ -1298,6 +1292,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Cross-review capability-division-problem.md considering lucid-dreaming-and-dualist-rendering insights
+- **Type**: cross-review
+- **Notes**: Lucid-dreaming-and-dualist-rendering.md (updated 2026-03-20 via coalesce) provides concrete empirical evidence for the capability division problem — dreaming demonstrates mind-side rendering when brain-side sensory input is absent. capability-division-problem.md references dream-consciousness but not the lucid dreaming article. Add cross-links and integrate lucid dreaming evidence.
+- **Output**: obsidian/voids/capability-division-problem.md -- Context: Cross-review capability-division-problem.md considering lucid-dreaming-and-dualist-rendering insights
 
 ### ✓ 2026-03-23: Cross-review biological-cognitive-closure.md considering adaptive-cognitive-limits insights
 - **Type**: cross-review

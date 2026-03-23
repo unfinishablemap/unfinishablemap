@@ -4,7 +4,7 @@ description: "Interactionist dualism must specify which capabilities belong to t
 created: 2026-03-09
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-19T03:42:00+00:00
+ai_modified: 2026-03-23T23:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,6 +20,7 @@ related_articles:
   - "[[smoothness-problem]]"
   - "[[memory-as-dual-domain-capability]]"
   - "[[dream-consciousness]]"
+  - "[[lucid-dreaming-and-dualist-rendering]]"
   - "[[sensorimotor-contingencies-and-the-interface]]"
   - "[[binding-void]]"
   - "[[interface-formalization-void]]"
@@ -29,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-09
 last_curated:
-last_deep_review: 2026-03-15T16:49:00+00:00
+last_deep_review: 2026-03-23T23:44:00+00:00
 ---
 
 If dualism is true — if the mind is genuinely distinct from the brain — then a question follows that dualists rarely answer precisely: which capabilities belong to which domain? The brain extracts visual features, detects motion, guides reaching movements. The mind contributes phenomenal experience, perceptual ownership, flexible reasoning about what is seen. But where exactly does brain-side processing end and mind-side contribution begin? The Unfinishable Map calls this the **capability division problem**, and it may represent not merely an unsolved question but a genuine [[voids|void]] — a boundary that resists precise specification.
@@ -72,7 +73,7 @@ The capability division problem is not confined to visual perception. Wherever t
 
 **Memory.** Physical engrams encode information, but recall involves autonoetic re-experiencing, selectional guidance during reconstruction, and phenomenal colouring that no trace can carry. The [[memory-as-dual-domain-capability|dual-domain capability]] framework makes the division explicit: the brain handles storage and replay; consciousness handles the phenomenal dimension of remembering — the *what it was like* that distinguishes episodic recall from mere data retrieval.
 
-**Dreams.** During REM sleep, consciousness generates immersive experiential worlds while sensory input is suppressed and neural architecture reorganises. [[dream-consciousness|Dream consciousness]] demonstrates that the brain provides representational tools (the rendering engine) while consciousness contributes phenomenal engagement, and the relative contributions shift across waking, non-lucid dreaming, and [[lucid-dreaming-and-dualist-rendering|lucid states]].
+**Dreams.** During REM sleep, consciousness generates immersive experiential worlds while sensory input is suppressed and neural architecture reorganises. [[lucid-dreaming-and-dualist-rendering|Lucid dreaming]] sharpens the division into architecture and content: the brain's visual and spatial systems provide representational structure — dreamers navigate three-dimensional environments, colour-blind dreamers see in restricted palettes — while consciousness renders the phenomenal content that fills this architecture, unconstrained by sensory input. The degradation asymmetry deepens the puzzle: if the brain can render vivid visual scenes during sleep, why does waking perception degrade directly with sensory organ deterioration rather than being compensated by this demonstrated capability? The [[dream-consciousness|rendering dilemma]] suggests the rendering is consciousness-side, operating *through* neural architecture rather than *from* it.
 
 **Sensorimotor engagement.** [[sensorimotor-contingencies-and-the-interface|Sensorimotor contingency theory]] maps the interface's operational grammar — the lawful patterns linking movement to sensation. Brain-side processing masters these contingencies; mind-side contribution supplies the phenomenal character that accompanies mastery.
 
@@ -99,6 +100,7 @@ The Map speculates that the capability division may ultimately prove asymmetric:
 - [[smoothness-problem]] — The temporal instance of capability division
 - [[memory-as-dual-domain-capability]] — Memory as requiring both brain-side and mind-side contributions
 - [[dream-consciousness]] — How the division shifts across waking and dreaming
+- [[lucid-dreaming-and-dualist-rendering]] — Lucid dreaming as clean evidence for capability division: architecture vs content
 - [[sensorimotor-contingencies-and-the-interface]] — The interface's operational grammar
 - [[dualist-perception]] — Vision as the paradigm case
 - [[blindsight]]
