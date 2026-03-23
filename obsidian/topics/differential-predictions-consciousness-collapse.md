@@ -120,6 +120,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses a predict
 - [[born-rule-derivation-failures-consciousness-collapse]] — Why the Born rule's resistance to derivation matters for collapse theories
 - [[decoherence-and-macroscopic-superposition]] — How far superposition has been pushed experimentally
 - [[comparing-quantum-consciousness-mechanisms]] — How Orch OR, Stapp, and IIT-CSL approaches compare
+- [[non-retrocausal-conscious-selection-models]] — Why these three frameworks share a forward-in-time temporal direction
 - [[philosophical-stakes-of-spontaneous-collapse]] — What is at stake philosophically in the collapse debate
 
 ## References

@@ -82,7 +82,7 @@ A conceptual gap separates Penrose's proposal from the Map's use of it. Gravitat
 
 The Map's framework treats gravitational OR as providing the *occasion* for collapse while consciousness, in neural systems, influences the *selection* among outcomes permitted by the Born rule. This parallels how [[spontaneous-collapse-theories|GRW and CSL]] provide baseline collapse that consciousness modulates rather than creates. The crucial point: consciousness need not intervene in the gravity-determined threshold. It operates downstream, at the moment of outcome selection, where quantum mechanics leaves the result genuinely open.
 
-Whether this selection operates through attentional observation (as [[stapp-quantum-mind|Stapp's Zeno model]] proposes) or through modulation of collapse parameters in high-Φ systems (as the [[comparing-quantum-consciousness-mechanisms|CSL-IIT hybrid]] suggests) remains an open question. What gravitational OR contributes is a physically motivated *reason* for collapse to occur at all—removing the need for consciousness to create collapse from nothing.
+Whether this selection operates through attentional observation (as [[stapp-quantum-mind|Stapp's Zeno model]] proposes) or through modulation of collapse parameters in high-Φ systems (as the [[comparing-quantum-consciousness-mechanisms|CSL-IIT hybrid]] suggests) remains an open question — see [[non-retrocausal-conscious-selection-models]] for a comparative analysis of these forward-in-time frameworks. What gravitational OR contributes is a physically motivated *reason* for collapse to occur at all—removing the need for consciousness to create collapse from nothing.
 
 ## Relation to Site Perspective
 
