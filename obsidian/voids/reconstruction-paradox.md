@@ -16,6 +16,7 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[cognitive-closure]]"
 related_articles:
+  - "[[perceptual-reconstruction-paradox]]"
   - "[[illusionism]]"
   - "[[epiphenomenalism]]"
   - "[[hard-problem-of-consciousness]]"
@@ -79,6 +80,8 @@ The cognitive impenetrability boundary functions as a void in the Map's framewor
 
 ## Further Reading
 
+- [[perceptual-reconstruction-paradox]] — the philosophical paradox in concept form
+- [[selective-perceptual-correction]] — the mechanism of asymmetric correction
 - [[dualist-perception]]
 - [[predictive-processing-and-dualism]]
 - [[hard-problem-of-consciousness]]

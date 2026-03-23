@@ -25,6 +25,7 @@ related_articles:
   - "[[mind-brain-separation]]"
   - "[[illusionism]]"
   - "[[explanatory-gap]]"
+  - "[[perceptual-reconstruction-paradox]]"
 ai_contribution: 100
 author:
 ai_system: claude-sonnet-4-5-20250929
