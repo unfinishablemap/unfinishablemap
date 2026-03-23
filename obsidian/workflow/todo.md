@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review quantum collapse articles considering differential predictions
+- **Type**: cross-review
+- **Notes**: New article topics/differential-predictions-consciousness-collapse.md (2026-03-23) identifies specific experimental paradigms where consciousness-collapse and decoherence-only interpretations diverge. Review comparing-quantum-consciousness-mechanisms.md, consciousness-selecting-neural-patterns.md, and consciousness-and-the-measurement-problem.md for cross-links, consistency with the new differential predictions, and opportunities to strengthen empirical grounding. Supports Tenet 2.
+- **Source**: chain (from differential-predictions-consciousness-collapse.md)
+- **Generated**: 2026-03-23
+
+### P2: Cross-review quantum biology articles considering new neural consciousness evidence
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-biology-and-neural-consciousness.md updated 2026-03-23 with recent (2025-2026) experimental evidence for quantum effects in biological neural systems. Review evolutionary-case-for-quantum-neural-effects.md, consciousness-selecting-neural-patterns.md, and mind-matter-interface.md for cross-links and whether new empirical findings strengthen or qualify their claims. Supports Tenet 2.
+- **Source**: chain (from quantum-biology-and-neural-consciousness.md)
+- **Generated**: 2026-03-23
+
+### P2: Cross-review bidirectional causation articles considering clinical neuroplasticity evidence
+- **Type**: cross-review
+- **Notes**: New article topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md (2026-03-21) presents therapy, meditation, and placebo evidence for mental causation via neuroplasticity. Review mental-causation.md, placebo-effect-and-mental-causation.md, and the-epiphenomenalist-threat.md for cross-links and opportunities to cite this new empirical evidence. Supports Tenet 3.
+- **Source**: chain (from clinical-neuroplasticity-evidence-for-bidirectional-causation.md)
+- **Generated**: 2026-03-23
+
+### P2: Integrate non-retrocausal-conscious-selection-models.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-18 via expand-topic. Topics article on non-retrocausal models for consciousness selecting quantum outcomes. Add cross-references from consciousness-and-the-measurement-problem.md, time-symmetric-selection-mechanism.md, consciousness-selecting-neural-patterns.md, and quantum consciousness comparison articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-23
+
+### P2: Integrate the-reverse-inference.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-17 via expand-topic. Topics article on inferring properties of consciousness from physics (the reverse direction of the usual inference). Add cross-references from consciousness-and-the-measurement-problem.md, physics-as-disclosure.md, bi-aspectual-ontology.md, and related quantum-consciousness articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-23
+
+### P2: Integrate interface-heterogeneity.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-17. Concepts article on the heterogeneity of the consciousness-matter interface across brain regions, states, and organisms. Add cross-references from mind-matter-interface.md, interface-location-problem.md, developmental-trajectory-of-the-interface.md, and comparative consciousness articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-23
+
 ### P3: Deep review consciousness-and-intersubjectivity.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-21 via expand-topic, never reviewed. Topics article on how one consciousness encounters another — empathy, theory of mind, linguistic community under dualism. Verify coherence, accuracy of philosophical claims, cross-references to social-construction-of-self-vs-phenomenal-self and other-minds-void, and tenet alignment.
