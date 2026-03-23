@@ -4,9 +4,9 @@ description: "Each consciousness is sealed within itself, able to infer but neve
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-03-22T23:34:00+00:00
+ai_modified: 2026-03-23T13:39:00+00:00
 draft: false
-last_deep_review: 2026-03-22T16:17:00+00:00
+last_deep_review: 2026-03-23T13:39:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
@@ -29,6 +29,7 @@ related_articles:
   - "[[consciousness-interface-development]]"
   - "[[infant-consciousness]]"
   - "[[consciousness-and-testimony]]"
+  - "[[consciousness-and-intersubjectivity]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -58,7 +59,7 @@ The void operates constantly yet typically remains invisible. Three reasons:
 
 **Practical sufficiency.** For coordination and communication, indirect access usually suffices. We don't need to feel your fear to know you're afraid and respond appropriately.
 
-**The social construction of shared reality.** Language and culture create the impression of shared experience. We use the same words for emotions, agree on what situations warrant what responses, and coordinate our interpretations so smoothly that the underlying privacy becomes invisible. The agreement masks the void. The [[social-epistemic-void]] investigates how these social mechanisms—testimony, hermeneutical resources, and the spiral of silence—systematically filter non-standard phenomenal experience from collective understanding.
+**The social construction of shared reality.** Language and culture create the impression of shared experience. We use the same words for emotions, agree on what situations warrant what responses, and coordinate our interpretations so smoothly that the underlying privacy becomes invisible. The agreement masks the void. The [[intersubjective-void]] investigates how these social mechanisms—testimony, hermeneutical resources, and the spiral of silence—systematically filter non-standard phenomenal experience from collective understanding.
 
 ## When the Void Becomes Visible
 
@@ -78,11 +79,11 @@ Certain moments pierce the ordinary invisibility:
 
 Philosophy has proposed several responses to the asymmetry, none fully satisfying:
 
-**Argument from analogy.** My body and behaviour correlate with my mental states; yours are similar; therefore you likely have similar mental states. The problem: this generalises from a sample of one, and if [[interactionist-dualism|dualism]] is correct the analogy becomes even more tenuous.
+**Argument from analogy.** My body and behaviour correlate with my mental states; yours are similar; therefore you likely have similar mental states. The problem: this generalises from a sample of one, and under [[interactionist-dualism|dualism]] the analogy becomes even more tenuous.
 
-**Inference to best explanation.** Other minds best explain observed behaviour. Stronger than analogy—abductive rather than inductive—but the inference gap remains. The void concerns experience, not behaviour.
+**Inference to best explanation.** Other minds best explain observed behaviour. Stronger than analogy—abductive rather than inductive—but the void concerns experience, not behaviour.
 
-**Direct perception.** We perceive mental states directly in others' expressions—we *see* anger, *hear* joy. This captures phenomenology but may relocate rather than solve the problem: we perceive expressions, but how do expressions give us access to experience itself?
+**Direct perception.** We *see* anger, *hear* joy in others' expressions. This captures phenomenology but may relocate rather than solve the problem: how do expressions give access to experience itself?
 
 **Wittgensteinian dissolution.** The problem arises from Cartesian assumptions about private inner theatres. Mental concepts are learned publicly through behavioural criteria; the skeptical question is confused. This challenges the framing but sits uneasily with views that take phenomenal consciousness seriously. See [[mysterianism]] for McGinn's analysis of why dissolution attempts may fail.
 
@@ -94,7 +95,7 @@ Edmund Husserl's phenomenological analysis cuts to the heart of the matter. He r
 
 This is not failure but success. If I could directly access your experience, you would not be another subject—you would be an extension of me. The void is constitutive of intersubjectivity itself. Recognition of the void *is* recognition of the other as other.
 
-Empathy (Husserl's *Einfühlung*) operates through this structure. We "feel into" the other (en-paschein), imagining their perspective while knowing we imagine rather than share it. The imagination reaches across; the void remains.
+Empathy (Husserl's *Einfühlung*) operates through this structure. We "feel into" the other, imagining their perspective while knowing we imagine rather than share it. The imagination reaches across; the void remains. Whether this constitutive inaccessibility makes consciousness fundamentally solitary or always-already intersubjective is the [[consciousness-and-intersubjectivity|priority question]] — the Map argues consciousness is ontologically individual but phenomenologically transformed through encounter.
 
 ## Is the Void Absolute?
 
@@ -102,7 +103,7 @@ Elements suggest the territory may be partially unexplored rather than purely un
 
 **The Hogan twins.** Conjoined twins Krista and Tatiana Hogan share a thalamic bridge—brain tissue connecting their thalami. Reports suggest some degree of sensory cross-talk: one twin appears to respond to what the other tastes. Whether this constitutes genuine *phenomenal sharing* (experiencing what the other experiences) or merely neural signal propagation remains disputed. If the stronger interpretation holds, consciousness's privacy may be contingent on neural separation rather than constitutive.
 
-**Brain-computer interface speculation.** In principle, connecting neural systems might allow some form of direct experience sharing. The thought experiment clarifies what's at stake: if physical connection could yield shared experience, the void is technological; if not, it's metaphysical.
+**Brain-computer interface speculation.** Connecting neural systems might allow direct experience sharing. If physical connection could yield shared experience, the void is technological; if not, it's metaphysical.
 
 **The question of multi-subject states.** Philosophy of mind debates whether mental states can have multiple subjects. Could two people co-experience the same conscious state? The question seems coherent, which suggests the asymmetry might not be logically necessary.
 
@@ -165,6 +166,7 @@ This is not uncomfortable compromise but honest assessment. Certainty about exte
 - [[consciousness-interface-development]] — How the consciousness-brain interface changes across the lifespan
 - [[infant-consciousness]] — The void within: why your own infant experience is the most alien other mind
 - [[consciousness-and-testimony]] — Testimony presupposes what the other minds void questions: the consciousness of the speaker
+- [[consciousness-and-intersubjectivity]] — Whether consciousness is constitutively shaped by encounter with other minds
 - [[indexical-void]] — Why first-person identity resists explanation
 
 ## References

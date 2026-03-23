@@ -9,6 +9,12 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-23 13:23 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Sections searched**: topics (228/230), voids (99/100), concepts (222/230)
+- **Pairs evaluated**: 5 (cognitive capacity/limit types, interpersonal understanding/intersubjectivity, math trio, explanation limits/methodological failure, dual-domain/3D representation)
+- **Reason**: All candidate pairs are well-differentiated with distinct theses and explicit cross-referencing. Many articles already show coalesced_from metadata from prior merges.
+
 ## 2026-03-23 13:08 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Perception
