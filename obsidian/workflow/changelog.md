@@ -5,6 +5,13 @@ ai_modified: 2026-03-23T12:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 14:06 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Obviousness Void
+- **Category**: Occluded
+- **Output**: [[research/voids-obviousness-void-2026-03-23]]
+- **Key finding**: The feeling of self-evidence functions as cognitive occlusion—a positive phenomenal quality (processing fluency, feeling of rightness) that terminates inquiry before investigation begins, converging across Wittgenstein, Heidegger, Schutz, and cognitive science on the illusion of explanatory depth.
+
 ## 2026-03-23 13:53 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-collective-intentionality-and-we-consciousness]]
