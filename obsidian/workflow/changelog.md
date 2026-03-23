@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-23T12:15:00+00:00
+ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
+
+## 2026-03-23 14:19 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/altered-states-as-interface-evidence]]
+- **Changed sources**: 1 (anaesthesia-and-the-consciousness-interface)
+- **Word count**: 3143 → 3310
+- **Review**: [[reviews/apex-evolve-2026-03-23-altered-states-as-interface-evidence]]
 
 ## 2026-03-23 14:11 UTC - check-tenets
 - **Status**: Warnings
