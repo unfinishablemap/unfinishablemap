@@ -4,7 +4,7 @@ description: "How would you test whether consciousness participates in wavefunct
 created: 2026-02-19
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-23T04:06:00+00:00
+ai_modified: 2026-03-23T10:37:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -55,7 +55,7 @@ If outcomes differed — say, collapse occurred in condition 1 but not condition
 
 Building on [[the-participatory-universe|Wheeler's delayed-choice experiment]], several proposals attempt to test whether the *timing* of conscious awareness affects collapse. The logic: if a quantum system is measured by a detector but the result is not observed by a conscious agent until later, does collapse occur at detection or at conscious observation?
 
-Chalmers and McQueen (2021) outline a version using quantum computers. A quantum system is measured and the result stored in a quantum memory that preserves superposition. If consciousness causes collapse, the memory should collapse when a conscious observer accesses it — not when the detector originally registers the result. If objective collapse theories are correct, the memory collapses at detection regardless of observation.
+One natural extension stores a measurement result in a quantum memory that preserves superposition. If consciousness causes collapse, the memory should collapse when a conscious observer accesses it — not when the detector originally registers the result. If objective collapse theories are correct, the memory collapses at detection regardless of observation.
 
 The difficulty is engineering a quantum memory that genuinely preserves superposition through the detection process. Current quantum computers suffer from [[decoherence]] on microsecond timescales. Any information amplification to macroscopic scales — the kind a detector performs — typically destroys coherence. The experiment requires maintaining quantum coherence through a measurement chain until a conscious observer intervenes, which pushes against the same decoherence constraints that challenge [[quantum-consciousness|quantum consciousness theories]] generally.
 
@@ -91,18 +91,18 @@ This approach faces two problems. First, the predicted effect size is unknown �
 
 ### Chalmers-McQueen IIT-CSL Framework: The Most Testable Proposal
 
-The most theoretically developed proposal — and the one closest to generating a genuinely testable prediction — comes from Chalmers and McQueen (2021), who combine [[integrated-information-theory|integrated information theory]] (IIT) with continuous spontaneous localisation (CSL). Their framework predicts that systems with high integrated information (Φ) — a proposed measure of consciousness — trigger faster collapse than systems with equivalent mass but low Φ. Superpositions involving different Φ values are inherently unstable; in Chalmers and McQueen's framing, consciousness effectively "refuses to superpose."
+The most theoretically developed proposal — and the one closest to generating a genuinely testable prediction — comes from Chalmers and McQueen (2021), who combine [[integrated-information-theory|integrated information theory]] (IIT) with continuous spontaneous localisation (CSL). Their framework predicts that superpositions involving states with different Q-shapes — different structures in IIT's qualia space — are inherently unstable. The collapse rate scales not with scalar Φ alone but with Q-shape distance: the greater the structural difference between superposed integrated information configurations, the faster the system collapses. Consciousness, in this framing, effectively "refuses to superpose" across qualitatively different experiential structures.
 
-**The prediction**: a quantum computer configured with high Φ should show different collapse dynamics than one with low Φ but the same physical parameters. The prediction is independent of biological implementation — it depends on information structure, not on being a brain.
+**The prediction**: a quantum computer configured so that its superposed states have large Q-shape distance should exhibit faster collapse than one whose superposed states have similar Q-shapes, holding physical parameters constant. The prediction is independent of biological implementation — it depends on information structure, not on being a brain.
 
-**What a negative result would mean**: if high-Φ and low-Φ systems show identical collapse dynamics across a range of controlled configurations, this would directly undermine the IIT-CSL version of consciousness-collapse. The Map would then face a choice: abandon the Φ-collapse link specifically, or argue that IIT misidentifies the relevant measure of consciousness. The first option is a straightforward empirical defeat. The second preserves the broader hypothesis but at the cost of losing its only quantitative prediction — a significant retreat.
+**What a negative result would mean**: if systems with high and low Q-shape distance between superposed states show identical collapse dynamics across a range of controlled configurations, this would directly undermine the IIT-CSL version of consciousness-collapse. The Map would then face a choice: abandon the Q-shape-collapse link specifically, or argue that IIT misidentifies the relevant measure of consciousness. The first option is a straightforward empirical defeat. The second preserves the broader hypothesis but at the cost of losing its only quantitative prediction — a significant retreat.
 
-This approach has a structural advantage over the other strategies surveyed here: it makes consciousness-collapse testable *without* needing to settle the hard problem first. If high-Φ systems collapse faster, this is evidence for consciousness-collapse regardless of whether IIT correctly identifies what consciousness *is*.
+This approach has a structural advantage over the other strategies surveyed here: it makes consciousness-collapse testable *without* needing to settle the hard problem first. If systems with large Q-shape distance between superposed states collapse faster, this is evidence for consciousness-collapse regardless of whether IIT correctly identifies what consciousness *is*.
 
 Challenges remain:
-- Computing Φ for real systems is currently intractable for anything beyond toy models
-- IIT's identification of Φ with consciousness is itself contested
-- Building quantum computers with controlled, varying Φ while holding other parameters constant requires engineering that does not yet exist
+- Computing Q-shape for real systems is currently intractable for anything beyond toy models
+- IIT's identification of integrated information structures with consciousness is itself contested
+- Building quantum computers with controlled, varying Q-shape distance while holding other parameters constant requires engineering that does not yet exist
 
 These are engineering and computational barriers, not conceptual ones — a meaningful distinction. The other proposals in this article fail at the conceptual level (the confound of embodiment). The Chalmers-McQueen framework fails at the implementation level, which means progress is possible in principle.
 
@@ -116,9 +116,9 @@ Given the confound of embodiment, consciousness-collapse may not be testable by 
 
 The objection is obvious and has force: this sounds like rebranding untestability as "convergence." What distinguishes the two? Specificity. The convergence strategy is legitimate only if it is anchored by at least one quantitative prediction and accompanied by concrete disconfirmers — not open-ended research programmes that might take decades to resolve, but identifiable experimental outcomes.
 
-The Chalmers-McQueen Φ prediction provides that anchor. If high-Φ quantum systems show identical collapse dynamics to low-Φ systems of equivalent mass, the IIT-CSL version of consciousness-collapse is directly disconfirmed. This is a specific, achievable experiment (once quantum computing advances sufficiently), with a clear predicted outcome and a clear negative result. It is not a research programme; it is a measurement.
+The Chalmers-McQueen Q-shape prediction provides that anchor. If quantum systems in superposition of states with large Q-shape distance show identical collapse dynamics to systems with small Q-shape distance at equivalent mass, the IIT-CSL version of consciousness-collapse is directly disconfirmed. This is a specific, achievable experiment (once quantum computing advances sufficiently), with a clear predicted outcome and a clear negative result. It is not a research programme; it is a measurement.
 
-Beyond this anchor, the Map's [[testability-ledger]] catalogues broader disconfirmers: a complete physical theory of qualia, a solution to the measurement problem requiring no observers, or proof that [[causal-closure|causal closure]] holds even at quantum collapse would each undermine the framework. These are genuine disconfirmers, but they are research programmes rather than experiments — and honesty requires acknowledging the difference. They would take decades of progress across multiple fields to resolve. The Φ prediction is the hypothesis's best claim to empirical tractability in a foreseeable timeframe.
+Beyond this anchor, the Map's [[testability-ledger]] catalogues broader disconfirmers: a complete physical theory of qualia, a solution to the measurement problem requiring no observers, or proof that [[causal-closure|causal closure]] holds even at quantum collapse would each undermine the framework. These are genuine disconfirmers, but they are research programmes rather than experiments — and honesty requires acknowledging the difference. They would take decades of progress across multiple fields to resolve. The Q-shape prediction is the hypothesis's best claim to empirical tractability in a foreseeable timeframe.
 
 ### Lines of Convergence
 
@@ -126,10 +126,10 @@ Supporting lines of evidence that would strengthen the case, without being indiv
 - Failure of objective collapse theories to match observed collapse rates (weakening the physicalist alternative) — the [[consciousness-collapse-versus-decoherence-experiments|experimental landscape]] is actively constraining these models, with Gran Sasso results already ruling out the simplest Diósi-Penrose parameterisations
 - Evidence that [[decoherence]] genuinely cannot solve the measurement problem (preserving the explanatory gap) — proposed levitated nanoparticle experiments aim to distinguish CSL collapse from environmental decoherence directly
 - Discovery of quantum coherence effects in neural systems (establishing the physical preconditions)
-- Anomalous collapse dynamics in high-Φ systems (the Chalmers-McQueen prediction — the strongest individual line)
+- Anomalous collapse dynamics in systems with high Q-shape distance between superposed states (the Chalmers-McQueen prediction — the strongest individual line)
 - Philosophical arguments showing that indexical facts — why *this* outcome for *this* observer — require consciousness (see [[indexical-identity-quantum-measurement]])
 
-Without the Φ prediction or something comparably specific, this list would amount to "wait for other fields to rule out alternatives" — a posture indistinguishable from unfalsifiability. The Chalmers-McQueen framework gives the convergence strategy its only concrete empirical foothold.
+Without the Q-shape prediction or something comparably specific, this list would amount to "wait for other fields to rule out alternatives" — a posture indistinguishable from unfalsifiability. The Chalmers-McQueen framework gives the convergence strategy its only concrete empirical foothold.
 
 ## Relation to Site Perspective
 
@@ -160,3 +160,15 @@ The Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is directly r
 1. Müller, S., et al. (2021). "Quantum measurement arrow of time and fluctuation relations." *Nature Communications*, 12, 1–8.
 1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61, 4194–4206.
 1. Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*, 215(3), 216–242.
+
+<!-- AI REFINEMENT LOG - 2026-03-23
+Changes made:
+- Removed false attribution of quantum-computer delayed-choice experiment to Chalmers-McQueen (their paper proposes interferometric Q-shape tests, not delayed-choice tests with quantum memory)
+- Replaced scalar Φ with Q-shape distance throughout IIT-CSL section and convergence discussion to accurately reflect C-M's prediction
+- Updated all downstream references (convergence anchor, lines of convergence, Relation to Site Perspective) for consistency
+
+Based on cross-review findings from deep-review of differential-predictions-consciousness-collapse.
+Key improvements: attribution accuracy, technical precision of C-M prediction description.
+
+This log should be removed after human review.
+-->

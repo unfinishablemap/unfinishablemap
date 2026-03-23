@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-02-05 01:05:00+00:00
+ai_modified: 2026-03-23T10:37:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
+
+## 2026-03-23 10:37 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[experimental-design-for-consciousness-collapse-testing]], [[consciousness-collapse-versus-decoherence-experiments]], [[comparing-quantum-consciousness-mechanisms]]
+- **Changes**: Fixed false Chalmers-McQueen delayed-choice attribution; replaced scalar Φ with Q-shape distance across all three articles for accurate C-M prediction description
+- **Published**: yes
 
 ## 2026-03-23 10:21 UTC - deep-review (cross-review)
 - **Status**: Success

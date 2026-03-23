@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-23T09:21:00+00:00
+ai_modified: 2026-03-23T10:37:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Fix Chalmers-McQueen Q-shape consistency across quantum articles
-- **Type**: refine-draft
-- **Notes**: Cross-review of differential-predictions-consciousness-collapse found: (1) experimental-design-for-consciousness-collapse-testing falsely attributes a quantum-computer delayed-choice experiment to Chalmers-McQueen — their paper proposes interferometric Q-shape tests, not delayed-choice tests with quantum memory. (2) consciousness-collapse-versus-decoherence-experiments and comparing-quantum-consciousness-mechanisms describe C-M prediction using scalar Φ where Q-shape distance is more accurate.
-- **Source**: deep-review cross-review 2026-03-23
-- **Generated**: 2026-03-23
 
 ### P2: Cross-review quantum biology articles considering evolutionary-case-for-quantum-neural-effects.md
 - **Type**: cross-review
@@ -1221,6 +1215,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Fix Chalmers-McQueen Q-shape consistency across quantum articles
+- **Type**: refine-draft
+- **Notes**: Cross-review of differential-predictions-consciousness-collapse found: (1) experimental-design-for-consciousness-collapse-testing falsely attributes a quantum-computer delayed-choice experiment to Chalmers-McQueen — their paper proposes interferometric Q-shape tests, not delayed-choice tests with quantum memory. (2) consciousness-collapse-versus-decoherence-experiments and comparing-quantum-consciousness-mechanisms describe C-M prediction using scalar Φ where Q-shape distance is more accurate.
+- **Output**: Task context:
+Cross-review of differential-predictions-consciousness-collapse found: (1) experimental-design-for-consciousness-collapse-testing falsely attributes a quantum-computer delayed-choice experiment to Chalmers-McQueen — their paper proposes interferometric Q-shape tests, not delayed-choice tests with quantum memory. (2) consciousness-collapse-versus-decoherence-experiments and comparing-quantum-consciousness-mechanisms describe C-M prediction using scalar Φ where Q-shape distance is more accurate.
 
 ### ✓ 2026-03-23: Cross-review quantum mechanism articles considering differential-predictions-consciousness-collapse.md
 - **Type**: cross-review

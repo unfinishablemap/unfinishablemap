@@ -4,7 +4,7 @@ description: "Head-to-head evaluation of Orch OR, Stapp's Zeno model, Fisher's n
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-22T13:12:00+00:00
+ai_modified: 2026-03-23T10:37:00+00:00
 last_deep_review: 2026-03-22T13:12:00+00:00
 draft: false
 topics:
@@ -99,15 +99,15 @@ Matthew Fisher proposes that phosphorus-31 nuclear spins in Posner molecules (Ca
 
 ## Spontaneous Collapse Hybrids: CSL-IIT and Consciousness-Modulated Collapse
 
-Rather than proposing a specific neural mechanism, hybrid models combine spontaneous collapse theories (GRW, CSL) with consciousness frameworks (particularly [[integrated-information-theory|Integrated Information Theory]]). The core idea: physical collapse mechanisms operate universally as baseline, while consciousness *modulates* collapse parameters — rate, location, or outcome — in neural systems with high integrated information (Φ). In McQueen's formulation, Φ_Max serves as the collapse operator, so systems with higher integrated information experience stronger collapse — though the coupling between Φ and collapse strength is postulated, not derived from deeper principles.
+Rather than proposing a specific neural mechanism, hybrid models combine spontaneous collapse theories (GRW, CSL) with consciousness frameworks (particularly [[integrated-information-theory|Integrated Information Theory]]). The core idea: physical collapse mechanisms operate universally as baseline, while consciousness *modulates* collapse parameters — rate, location, or outcome — based on the structure of integrated information. In Chalmers and McQueen's formulation, superpositions involving states with different Q-shapes (different structures in IIT's qualia space) are inherently unstable: the collapse rate scales with Q-shape distance between superposed states, not with scalar Φ alone — though the coupling between Q-shape distance and collapse strength is postulated, not derived from deeper principles.
 
 **Decoherence vulnerability: Not applicable.** These models don't require neural quantum coherence at all. Collapse occurs through modification of the Schrödinger equation itself (stochastic terms in CSL, discrete jumps in GRW). Consciousness modulates an already-occurring physical process rather than maintaining a fragile quantum state, sidestepping the decoherence objection entirely.
 
-**Phenomenological fit: Framework-dependent.** The phenomenological predictions depend on which consciousness metric serves as the collapse operator. If Φ (integrated information) modulates collapse, then consciousness is most effective in highly integrated systems — matching the intuition that unified experience correlates with integrated processing. But the model doesn't directly predict the effortful character of attention or the willed/automatic distinction. It explains *where* consciousness acts (high-Φ systems) without explaining *what it feels like* to act.
+**Phenomenological fit: Framework-dependent.** The phenomenological predictions depend on which consciousness metric serves as the collapse operator. If Q-shape distance modulates collapse, then consciousness is most effective in highly integrated systems whose superposed states differ structurally — matching the intuition that unified experience correlates with integrated processing. But the model doesn't directly predict the effortful character of attention or the willed/automatic distinction. It explains *where* consciousness acts (systems with rich integrated information structure) without explaining *what it feels like* to act.
 
 **Tenet alignment: Strong.** Hybrid models satisfy all five tenets. Consciousness is ontologically distinct ([[tenets#^dualism|Dualism]]). It modulates rather than creates collapse ([[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] — though whether modulating collapse parameters is more or less minimal than Stapp's discrete observations remains debatable). It causally influences outcomes ([[tenets#^bidirectional-interaction|Bidirectional Interaction]]). Collapse is real and objective ([[tenets#^no-many-worlds|No Many Worlds]]). And the measurement problem's intractability under standard QM demonstrates complexity's necessity ([[tenets#^occams-limits|Occam's Razor Has Limits]]). The prebiotic collapse problem is solved by the physical baseline — consciousness didn't need to exist for stars to form.
 
-**Empirical status: Constrained.** The underlying physics (GRW, CSL) makes falsifiable predictions, and parameter space is shrinking. Germanium detector experiments and matter-wave interference tests constrain collapse rates. However, the consciousness modulation component remains untestable with current technology — we cannot measure whether Φ correlates with collapse dynamics.
+**Empirical status: Constrained.** The underlying physics (GRW, CSL) makes falsifiable predictions, and parameter space is shrinking. Germanium detector experiments and matter-wave interference tests constrain collapse rates. However, the consciousness modulation component remains untestable with current technology — we cannot yet measure whether Q-shape distance correlates with collapse dynamics.
 
 **Falsifiability: Split.** The physical collapse component is highly falsifiable. The consciousness modulation component is not currently testable. This is both honest and concerning — the part we most want to test is the part we cannot reach.
 
@@ -188,3 +188,15 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness. *Neuroscience of Consciousness*, 2025(1), niaf011.
+
+<!-- AI REFINEMENT LOG - 2026-03-23
+Changes made:
+- Replaced Φ_Max collapse operator with Q-shape distance in CSL-IIT hybrid section
+- Updated phenomenological fit to reference Q-shape distance instead of scalar Φ
+- Updated empirical status to reference Q-shape distance
+
+Based on cross-review findings from deep-review of differential-predictions-consciousness-collapse.
+Key improvements: technical precision of C-M prediction description.
+
+This log should be removed after human review.
+-->

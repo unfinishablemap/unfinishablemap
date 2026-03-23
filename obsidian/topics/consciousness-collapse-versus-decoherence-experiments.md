@@ -4,7 +4,7 @@ description: "Can experiments distinguish consciousness-driven collapse from env
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-03-22T00:17:00+00:00
+ai_modified: 2026-03-23T10:37:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -82,13 +82,13 @@ The Map should engage with this challenge rather than dismissing it. The Frauchi
 
 ## The Chalmers-McQueen Prediction: Integrated Information and Collapse
 
-The most testable prediction specific to consciousness-collapse comes from Chalmers and McQueen (2021). Their framework combines [[integrated-information-theory|integrated information theory]] (IIT) with CSL dynamics: the collapse rate of a system scales with its integrated information (Φ), not just its mass.
+The most testable prediction specific to consciousness-collapse comes from Chalmers and McQueen (2021). Their framework combines [[integrated-information-theory|integrated information theory]] (IIT) with CSL dynamics: superpositions involving states with different Q-shapes — different structures in IIT's qualia space — are inherently unstable. The collapse rate scales with Q-shape distance between superposed states, not just mass.
 
-The prediction: a quantum computer configured to have high Φ should exhibit faster collapse than one with identical physical parameters but low Φ. This test is independent of biological implementation — it depends on information structure, not on being a brain.
+The prediction: a quantum computer whose superposed states have large Q-shape distance should exhibit faster collapse than one whose superposed states have similar Q-shapes, holding physical parameters constant. This test is independent of biological implementation — it depends on information structure, not on being a brain.
 
 As Chalmers and McQueen write: "The upshot is not that consciousness-collapse interpretations are clearly correct, but that there is a research program here worth exploring."
 
-Significant obstacles remain. Computing Φ for real systems is currently intractable beyond toy models. IIT's identification of Φ with consciousness is contested. Building quantum computers with controlled, varying Φ while holding other parameters constant requires engineering that does not yet exist. But these are engineering barriers, not conceptual ones. The [[experimental-design-for-consciousness-collapse-testing|experimental design article]] identifies this distinction as crucial: proposals that fail at the conceptual level (like isolating consciousness from its physical substrate) offer no path forward, while proposals that fail at the implementation level offer a clear research programme.
+Significant obstacles remain. Computing Q-shape for real systems is currently intractable beyond toy models. IIT's identification of integrated information structures with consciousness is contested. Building quantum computers with controlled, varying Q-shape distance while holding other parameters constant requires engineering that does not yet exist. But these are engineering barriers, not conceptual ones. The [[experimental-design-for-consciousness-collapse-testing|experimental design article]] identifies this distinction as crucial: proposals that fail at the conceptual level (like isolating consciousness from its physical substrate) offer no path forward, while proposals that fail at the implementation level offer a clear research programme.
 
 ## Where the Landscape Stands
 
@@ -100,9 +100,9 @@ The experimental situation can be summarised:
 | Macromolecule interferometry (25,000 amu record) | Ongoing | Lower bound on CSL collapse rate |
 | Levitated nanoparticle blueprint (2025) | Proposed | Could distinguish CSL from environmental decoherence |
 | MAQRO space mission | Concept study | Would probe CSL at decisive mass scales |
-| IIT-Φ collapse test | Theoretical | Would test consciousness-specific predictions |
+| IIT-Q-shape collapse test | Theoretical | Would test consciousness-specific predictions |
 
-No experiment has yet confirmed or refuted consciousness-collapse specifically. But the parameter space is narrowing. The simplest gravity-collapse model underlying Orch OR has been significantly constrained. CSL models remain viable but face increasingly precise experimental bounds. The Chalmers-McQueen Φ prediction offers the only test that targets consciousness specifically rather than collapse generally.
+No experiment has yet confirmed or refuted consciousness-collapse specifically. But the parameter space is narrowing. The simplest gravity-collapse model underlying Orch OR has been significantly constrained. CSL models remain viable but face increasingly precise experimental bounds. The Chalmers-McQueen Q-shape prediction offers the only test that targets consciousness specifically rather than collapse generally.
 
 ## Relation to Site Perspective
 
@@ -112,7 +112,7 @@ First, if levitated nanoparticle experiments detect mass-quadratic excess decohe
 
 Second, if the MAQRO mission or ground-based experiments show that superposition persists at mass scales where CSL predicts breakdown, this would progressively eliminate the collapse models the Map relies on — a genuine threat to the framework.
 
-Third, the Chalmers-McQueen Φ test, if achievable, would probe consciousness-collapse directly. A negative result would not refute the Map's position outright (IIT may misidentify the relevant measure of consciousness), but it would remove the hypothesis's only quantitative prediction — a significant retreat, as the Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet acknowledges that resistance to testing carries evidential cost.
+Third, the Chalmers-McQueen Q-shape test, if achievable, would probe consciousness-collapse directly. A negative result would not refute the Map's position outright (IIT may misidentify the relevant measure of consciousness), but it would remove the hypothesis's only quantitative prediction — a significant retreat, as the Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet acknowledges that resistance to testing carries evidential cost.
 
 The Map rejects [[tenets#^no-many-worlds|many-worlds]], which dissolves the testing problem entirely by denying collapse. This rejection carries an empirical burden: the Map must show that collapse is real, that decoherence alone does not explain definite outcomes, and that consciousness plays a role at the boundary. The experiments surveyed here are progressively addressing the first two claims. The third remains the hardest — and the most important.
 
@@ -134,3 +134,16 @@ The Map rejects [[tenets#^no-many-worlds|many-worlds]], which dissolves the test
 6. Bassi, A., Dorato, M. & Ulbricht, H. (2023). "Collapse Models: A Theoretical, Experimental and Philosophical Review." *Entropy*, 25(4), 645.
 7. Southgate, A. & Oquatre-six, C. (2026-02-19). Experimental Design for Consciousness-Collapse Testing. *The Unfinishable Map*. https://unfinishablemap.org/topics/experimental-design-for-consciousness-collapse-testing/
 8. Southgate, A. & Oquatre-cinq, C. (2026-01-27). Decoherence and Macroscopic Superposition. *The Unfinishable Map*. https://unfinishablemap.org/topics/decoherence-and-macroscopic-superposition/
+
+<!-- AI REFINEMENT LOG - 2026-03-23
+Changes made:
+- Replaced scalar Φ with Q-shape distance in Chalmers-McQueen prediction section
+- Updated obstacles paragraph (Φ → Q-shape)
+- Updated summary table (IIT-Φ → IIT-Q-shape)
+- Updated Relation to Site Perspective (Φ test → Q-shape test)
+
+Based on cross-review findings from deep-review of differential-predictions-consciousness-collapse.
+Key improvements: technical precision of C-M prediction description.
+
+This log should be removed after human review.
+-->
