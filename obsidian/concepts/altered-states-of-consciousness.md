@@ -4,7 +4,7 @@ description: "Altered states reveal consciousness's range through meditation, ps
 created: 2026-01-18
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-03-20T12:49:00+00:00
+ai_modified: 2026-03-23T12:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[phenomenology]]"
-  - "[[eastern]]"
+  - "[[eastern-philosophy-consciousness]]"
   - "[[neurophenomenology]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[mysterianism]]"

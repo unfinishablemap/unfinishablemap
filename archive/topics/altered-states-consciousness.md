@@ -19,7 +19,7 @@ concepts:
   - "[[witness-consciousness]]"
 related_articles:
   - "[[phenomenology]]"
-  - "[[eastern]]"
+  - "[[eastern-philosophy-consciousness]]"
   - "[[neurophenomenology]]"
   - "[[concepts/epiphenomenalism]]"
 ai_contribution: 100

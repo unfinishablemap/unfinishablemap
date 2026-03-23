@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-20 12:49:00+00:00
+ai_modified: 2026-03-23 12:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[phenomenology]]'
-- '[[eastern]]'
+- '[[eastern-philosophy-consciousness]]'
 - '[[neurophenomenology]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[mysterianism]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-23 09:21:00+00:00
+ai_modified: 2026-03-23 12:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,38 +38,33 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Fix broken wikilinks to epistemological-limits-of-occams-razor (10 files)
-- **Type**: refine-draft
-- **Notes**: The wikilink `[epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)` appears in 10 content files but the actual file is `epistemological-limits-occams-razor.md` (missing "of-"). This creates broken links on the live site. Files affected include dualism.md, materialism.md, knowledge-argument.md, explanatory-gap.md, interactionist-dualism.md, parsimony-epistemology.md, illusionism.md, philosophical-zombies.md, limits-of-parsimony-in-consciousness-science.md, duhem-quine-underdetermination-consciousness.md, and epistemological-limits-occams-razor.md itself. Fix all wikilinks to use the correct slug.
+### P2: Create concept page for epistemology
+- **Type**: expand-topic
+- **Notes**: 87 articles reference `[epistemology](/epistemology/)` but no hub page exists — the single most broken wikilink on the site. Multiple epistemology-specific articles exist (epistemology-of-first-person-evidence, epistemic-humility, etc.) but no general concept page anchoring the Map's epistemological framework. Should cover the Map's stance on how we can know about consciousness, link to specific epistemology articles, and connect to Tenet 5 (Occam's Razor Has Limits). Target section: concepts/.
 - **Source**: gap_analysis
 - **Generated**: 2026-03-23
 
-### P2: Condense ai-consciousness.md (~4500 words, exceeds 3000-word guideline)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Pessimistic review found ai-consciousness.md significantly exceeds the writing style guide's 3000-word maximum for topics. The "What Would Challenge This View?" section alone is ~800 words. Material overlaps with linked concept articles (llm-consciousness, continual-learning-argument). See pessimistic-2026-03-23b.md
-
-### P2: Cross-review quantum mechanism articles considering differential-predictions-consciousness-collapse.md
-- **Type**: cross-review
-- **Notes**: New article topics/differential-predictions-consciousness-collapse.md created 2026-03-23. Review related articles (consciousness-collapse-versus-decoherence-experiments, comparing-quantum-consciousness-mechanisms, non-retrocausal-conscious-selection-models, born-rule-derivation-failures-consciousness-collapse) for cross-links, consistency, and reinforcing arguments.
-- **Source**: chain (from differential-predictions-consciousness-collapse.md)
+### P2: Create concept page for perception
+- **Type**: expand-topic
+- **Notes**: 56 articles reference `[perception](/perception/)` but no concept page exists — the second most broken wikilink on the site. Related articles exist (dualist-perception, galilean-exclusion, sensory-qualities) but no general anchor page. The filter/interface model implies perception is consciousness encountering reality through neural constraint. Central to Tenet 3 (Bidirectional Interaction). Target section: concepts/.
+- **Source**: gap_analysis
 - **Generated**: 2026-03-23
 
-### P2: Cross-review quantum biology articles considering evolutionary-case-for-quantum-neural-effects.md
+### P2: Cross-review other-minds-void.md considering consciousness-and-intersubjectivity insights
 - **Type**: cross-review
-- **Notes**: New article topics/evolutionary-case-for-quantum-neural-effects.md created 2026-03-23. Review related articles (amplification-mechanisms-consciousness-physics, comparing-quantum-consciousness-mechanisms, quantum-biology-and-consciousness) for cross-links and consistency with the new evolutionary evidence synthesis.
-- **Source**: chain (from evolutionary-case-for-quantum-neural-effects.md)
+- **Notes**: New article topics/consciousness-and-intersubjectivity.md (written 2026-03-21) directly addresses how one consciousness encounters another. The other-minds-void should cross-reference this treatment and check for tensions between the void's framing and the new article's intersubjectivist arguments. Add `[consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/)` links where appropriate.
+- **Source**: chain (from consciousness-and-intersubjectivity.md)
 - **Generated**: 2026-03-23
 
-### P2: Cross-review epistemology articles considering epistemology-of-first-person-evidence.md
+### P2: Cross-review phenomenology-of-collective-intentionality-and-we-consciousness.md considering intersubjectivity
 - **Type**: cross-review
-- **Notes**: New coalesced article topics/epistemology-of-first-person-evidence.md (merged from introspection-and-calibration + phenomenal-reports, 2026-03-22). Review related articles (contemplative-practice-as-philosophical-evidence, clinical-phenomenology-as-philosophical-evidence, consciousness-and-scientific-methodology) for cross-links and updated references to the unified article.
-- **Source**: chain (from epistemology-of-first-person-evidence.md)
+- **Notes**: New article topics/consciousness-and-intersubjectivity.md (written 2026-03-21) covers overlapping ground on how consciousnesses relate. Check for: missing cross-links, terminology consistency (intersubjectivity vs we-consciousness), reinforcing arguments, or contradictions between the two treatments. Ensure they complement rather than duplicate.
+- **Source**: chain (from consciousness-and-intersubjectivity.md)
 - **Generated**: 2026-03-23
 
-### P2: Deep review epistemology-of-first-person-evidence.md
+### P2: Deep review narrative-coherence.md
 - **Type**: deep-review
-- **Notes**: Newly coalesced article (from introspection-and-calibration + phenomenal-reports, 2026-03-22), never reviewed. Verify the merge preserved coherence, eliminated redundancy between the two source articles, and maintained tenet alignment. Check that the epistemological framework is internally consistent.
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-20 — 31 days ago. Concept page on narrative coherence as a feature of conscious experience. Not currently in the task queue despite meeting staleness threshold. Verify coherence, cross-references to recent intersubjectivity and self-identity articles, and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-03-23
 
@@ -1231,8 +1226,69 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Six cross-linking opportunities identified: inventory-blindness→dimensionality-void, epistemology-of-limit-knowledge→contemplative-practice, perceptual-reconstruction-paradox→consciousness-and-skill-acquisition, emergence-as-universal-hard-problem→the-convergence-argument-for-dualism, self-stultification-as-master-argument→consciousness-and-testimony, dimensionality-void→phenomenology-of-cognitive-limit-types. See optimistic-2026-03-23.md
 - **Generated**: 2026-03-23
 
+### P3: Write article on philosophy of action under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has extensive free will and phenomenology-of-agency coverage but lacks a unified action theory treatment — what makes bodily movements count as actions under interactionist dualism. Davidson, Anscombe, Frankfurt all look different under agent causation. Builds on free-will, phenomenology-of-agency-vs-passivity, motor-selection, skill-delegation. Target section: topics/. See optimistic-2026-03-23-afternoon.md
+- **Generated**: 2026-03-23
+
+### P3: Write article on phenomenology of moral emotion
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Strong moral philosophy coverage but thin treatment of moral emotions specifically — guilt, shame, indignation, compassion. These present dual challenges for physicalism (intentionality + qualitative character). Builds on emotion-and-dualism, phenomenology-of-moral-life, consciousness-and-moral-agency-under-duress. Target section: topics/. See optimistic-2026-03-23-afternoon.md
+- **Generated**: 2026-03-23
+
+### P3: Add cross-links from optimistic review 2026-03-23 afternoon findings
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Six cross-linking opportunities identified: the-epiphenomenalist-threat→consciousness-and-the-problem-of-induction, evolutionary-case-for-mental-causation→clinical-dissociation-as-systematic-evidence, pragmatisms-path-to-dualism→contemplative-practice-as-philosophical-evidence, causal-closure→emergence-as-universal-hard-problem, filter-theory→clinical-dissociation-as-systematic-evidence, differential-predictions-consciousness-collapse→philosophical-stakes-of-spontaneous-collapse. See optimistic-2026-03-23-afternoon.md
+- **Generated**: 2026-03-23
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Update references to coalesced articles (evolved-cognitive-limits, architecture-of-cognitive-closure)
+- **Type**: refine-draft
+- **Notes**: Coalesce on 2026-03-23 merged evolved-cognitive-limits and architecture-of-cognitive-closure into biological-cognitive-closure. 31 active files reference `[evolved-cognitive-limits](/voids/biological-cognitive-closure/)` and 26 reference `[architecture-of-cognitive-closure](/voids/biological-cognitive-closure/)`. Update all wikilinks to `[biological-cognitive-closure](/voids/biological-cognitive-closure/)` (with appropriate display text). Run `grep -rl '\[\[evolved-cognitive-limits' obsidian/{topics,concepts,voids,apex}/` and `grep -rl '\[\[architecture-of-cognitive-closure' obsidian/{topics,concepts,voids,apex}/` to find affected files.
+- **Output**: Task context:
+Coalesce on 2026-03-23 merged evolved-cognitive-limits and architecture-of-cognitive-closure into biological-cognitive-closure. 31 active files reference `[evolved-cognitive-limits](/voids/biological-cognitive-closure/)` and 26 reference `[architecture-of-cognitive-closure](/voids/biological-cognitive-closure/)`. Update all wikilinks to `[biological-cognitive-closure](/voids/biological-cognitive-closure/)` (with appropriate display text). Run `grep -rl '\[\[evolved-cognitive-limits' obsidian/{topics,concepts,voids,apex}/` and `grep -rl '\[\[architecture-of-cognitive-closure' obsidian/{topics,concepts,voids,apex}/` to find affected files.
+
+### ✓ 2026-03-23: Deep review epistemology-of-first-person-evidence.md
+- **Type**: deep-review
+- **Notes**: Newly coalesced article (from introspection-and-calibration + phenomenal-reports, 2026-03-22), never reviewed. Verify the merge preserved coherence, eliminated redundancy between the two source articles, and maintained tenet alignment. Check that the epistemological framework is internally consistent.
+- **Output**: obsidian/topics/epistemology-of-first-person-evidence.md
+
+### ✓ 2026-03-23: Cross-review epistemology articles considering epistemology-of-first-person-evidence.md
+- **Type**: cross-review
+- **Notes**: New coalesced article topics/epistemology-of-first-person-evidence.md (merged from introspection-and-calibration + phenomenal-reports, 2026-03-22). Review related articles (contemplative-practice-as-philosophical-evidence, clinical-phenomenology-as-philosophical-evidence, consciousness-and-scientific-methodology) for cross-links and updated references to the unified article.
+- **Output**: obsidian/topics/epistemology-of-first-person-evidence.md -- Context: Cross-review epistemology articles considering epistemology-of-first-person-evidence.md
+
+### ✓ 2026-03-23: Cross-review quantum biology articles considering evolutionary-case-for-quantum-neural-effects.md
+- **Type**: cross-review
+- **Notes**: New article topics/evolutionary-case-for-quantum-neural-effects.md created 2026-03-23. Review related articles (amplification-mechanisms-consciousness-physics, comparing-quantum-consciousness-mechanisms, quantum-biology-and-consciousness) for cross-links and consistency with the new evolutionary evidence synthesis.
+- **Output**: obsidian/topics/evolutionary-case-for-quantum-neural-effects.md -- Context: Cross-review quantum biology articles considering evolutionary-case-for-quantum-neural-effects.md
+
+### ✓ 2026-03-23: Fix Chalmers-McQueen Q-shape consistency across quantum articles
+- **Type**: refine-draft
+- **Notes**: Cross-review of differential-predictions-consciousness-collapse found: (1) experimental-design-for-consciousness-collapse-testing falsely attributes a quantum-computer delayed-choice experiment to Chalmers-McQueen — their paper proposes interferometric Q-shape tests, not delayed-choice tests with quantum memory. (2) consciousness-collapse-versus-decoherence-experiments and comparing-quantum-consciousness-mechanisms describe C-M prediction using scalar Φ where Q-shape distance is more accurate.
+- **Output**: Task context:
+Cross-review of differential-predictions-consciousness-collapse found: (1) experimental-design-for-consciousness-collapse-testing falsely attributes a quantum-computer delayed-choice experiment to Chalmers-McQueen — their paper proposes interferometric Q-shape tests, not delayed-choice tests with quantum memory. (2) consciousness-collapse-versus-decoherence-experiments and comparing-quantum-consciousness-mechanisms describe C-M prediction using scalar Φ where Q-shape distance is more accurate.
+
+### ✓ 2026-03-23: Cross-review quantum mechanism articles considering differential-predictions-consciousness-collapse.md
+- **Type**: cross-review
+- **Notes**: New article topics/differential-predictions-consciousness-collapse.md created 2026-03-23. Review related articles (consciousness-collapse-versus-decoherence-experiments, comparing-quantum-consciousness-mechanisms, non-retrocausal-conscious-selection-models, born-rule-derivation-failures-consciousness-collapse) for cross-links, consistency, and reinforcing arguments.
+- **Output**: obsidian/topics/differential-predictions-consciousness-collapse.md -- Context: Cross-review quantum mechanism articles considering differential-predictions-consciousness-collapse.md
+
+### ✓ 2026-03-23: Condense ai-consciousness.md (~4500 words, exceeds 3000-word guideline)
+- **Type**: condense
+- **Notes**: Pessimistic review found ai-consciousness.md significantly exceeds the writing style guide's 3000-word maximum for topics. The "What Would Challenge This View?" section alone is ~800 words. Material overlaps with linked concept articles (llm-consciousness, continual-learning-argument). See pessimistic-2026-03-23b.md
+- **Output**: obsidian/topics/ai-consciousness.md
+
+### ✓ 2026-03-23: Fix broken wikilinks to epistemological-limits-of-occams-razor (10 files)
+- **Type**: refine-draft
+- **Notes**: The wikilink `[epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)` appears in 10 content files but the actual file is `epistemological-limits-occams-razor.md` (missing "of-"). This creates broken links on the live site. Files affected include dualism.md, materialism.md, knowledge-argument.md, explanatory-gap.md, interactionist-dualism.md, parsimony-epistemology.md, illusionism.md, philosophical-zombies.md, limits-of-parsimony-in-consciousness-science.md, duhem-quine-underdetermination-consciousness.md, and epistemological-limits-occams-razor.md itself. Fix all wikilinks to use the correct slug.
+- **Output**: Task context:
+The wikilink `[epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)` appears in 10 content files but the actual file is `epistemological-limits-occams-razor.md` (missing "of-"). This creates broken links on the live site. Files affected include dualism.md, materialism.md, knowledge-argument.md, explanatory-gap.md, interactionist-dualism.md, parsimony-epistemology.md, illusionism.md, philosophical-zombies.md, limits-of-parsimony-in-consciousness-science.md, duhem-quine-underdetermination-consciousness.md, and epistemological-limits-occams-razor.md itself. Fix all wikilinks to use the correct slug.
 
 ### ✓ 2026-03-23: Integrate interface-heterogeneity.md into site navigation
 - **Type**: integrate-orphan

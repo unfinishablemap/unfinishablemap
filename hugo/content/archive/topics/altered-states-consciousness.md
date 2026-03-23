@@ -25,7 +25,7 @@ modified: *id001
 original_path: /topics/altered-states-consciousness/
 related_articles:
 - '[[phenomenology]]'
-- '[[eastern]]'
+- '[[eastern-philosophy-consciousness]]'
 - '[[neurophenomenology]]'
 - '[[concepts/epiphenomenalism]]'
 superseded_by: /concepts/altered-states-of-consciousness/
