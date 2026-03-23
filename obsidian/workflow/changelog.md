@@ -5,6 +5,16 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 10:21 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [[differential-predictions-consciousness-collapse]]
+- **Word count**: 2049 → 2092 (+43)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (description inconsistency, uncited reference, missing cross-link, reference numbering)
+- **Enhancements made**: 2 (Born rule connection in evidential asymmetry, Penrose collapse cross-link)
+- **Cross-review findings**: 3 companion article issues flagged (false C-M attribution in experimental-design, Φ→Q-shape in 2 articles)
+- **Output**: [[reviews/deep-review-2026-03-23b-differential-predictions-consciousness-collapse]]
+
 ## 2026-03-23 10:06 UTC - deep-review
 - **Status**: Success
 - **File**: [[concept-of-consciousness-and-social-cognition]]

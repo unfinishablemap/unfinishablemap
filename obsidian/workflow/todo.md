@@ -37,10 +37,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review quantum mechanism articles considering differential-predictions-consciousness-collapse.md
-- **Type**: cross-review
-- **Notes**: New article topics/differential-predictions-consciousness-collapse.md created 2026-03-23. Review related articles (consciousness-collapse-versus-decoherence-experiments, comparing-quantum-consciousness-mechanisms, non-retrocausal-conscious-selection-models, born-rule-derivation-failures-consciousness-collapse) for cross-links, consistency, and reinforcing arguments.
-- **Source**: chain (from differential-predictions-consciousness-collapse.md)
+### P2: Fix Chalmers-McQueen Q-shape consistency across quantum articles
+- **Type**: refine-draft
+- **Notes**: Cross-review of differential-predictions-consciousness-collapse found: (1) experimental-design-for-consciousness-collapse-testing falsely attributes a quantum-computer delayed-choice experiment to Chalmers-McQueen — their paper proposes interferometric Q-shape tests, not delayed-choice tests with quantum memory. (2) consciousness-collapse-versus-decoherence-experiments and comparing-quantum-consciousness-mechanisms describe C-M prediction using scalar Φ where Q-shape distance is more accurate.
+- **Source**: deep-review cross-review 2026-03-23
 - **Generated**: 2026-03-23
 
 ### P2: Cross-review quantum biology articles considering evolutionary-case-for-quantum-neural-effects.md
@@ -1221,6 +1221,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Cross-review quantum mechanism articles considering differential-predictions-consciousness-collapse.md
+- **Type**: cross-review
+- **Notes**: New article topics/differential-predictions-consciousness-collapse.md created 2026-03-23. Review related articles (consciousness-collapse-versus-decoherence-experiments, comparing-quantum-consciousness-mechanisms, non-retrocausal-conscious-selection-models, born-rule-derivation-failures-consciousness-collapse) for cross-links, consistency, and reinforcing arguments.
+- **Output**: obsidian/topics/differential-predictions-consciousness-collapse.md -- Context: Cross-review quantum mechanism articles considering differential-predictions-consciousness-collapse.md
 
 ### ✓ 2026-03-23: Condense ai-consciousness.md (~4500 words, exceeds 3000-word guideline)
 - **Type**: condense
