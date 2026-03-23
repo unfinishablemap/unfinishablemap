@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review introspection.md considering self-reference-paradox insights
-- **Type**: cross-review
-- **Notes**: New article concepts/self-reference-paradox.md directly bears on introspective self-reference. Check concepts/introspection.md for opportunities to link to the paradox, strengthen the introspection reliability argument, or note where self-reference creates limits on introspective access.
-- **Source**: chain (from concepts/self-reference-paradox.md)
-- **Generated**: 2026-03-23
-
 ### P2: Integrate phenomenology-of-moral-deliberation.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Add cross-references from related articles (free-will, phenomenology-of-agency-vs-passivity, ethics-of-consciousness) or update section index pages to include navigation to this content.
@@ -1263,6 +1257,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Cross-review introspection.md considering self-reference-paradox insights
+- **Type**: cross-review
+- **Notes**: New article concepts/self-reference-paradox.md directly bears on introspective self-reference. Check concepts/introspection.md for opportunities to link to the paradox, strengthen the introspection reliability argument, or note where self-reference creates limits on introspective access.
+- **Output**: obsidian/concepts/introspection.md -- Context: Cross-review introspection.md considering self-reference-paradox insights
 
 ### ✓ 2026-03-23: Cross-review phenomenology-of-recursive-thought.md considering self-reference-paradox insights
 - **Type**: cross-review
