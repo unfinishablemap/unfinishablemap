@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review selective-correction-and-reconstruction-paradox.md
-- **Type**: deep-review
-- **Notes**: Coalesced 2026-03-23 from selective-perceptual-correction.md + perceptual-reconstruction-paradox.md. Never reviewed post-merge. Verify the coalesce preserved coherence, eliminated redundancy between the two source articles, maintained accurate philosophical claims, and has proper cross-references to perception.md, perceptual-degradation-and-the-interface.md, and related consciousness-interface articles.
-- **Source**: chain (from coalesce)
-- **Generated**: 2026-03-23
-
 ### P3: Deep review self-and-self-consciousness.md
 - **Type**: deep-review
 - **Notes**: Coalesced from self-and-consciousness.md + self-consciousness.md and subsequently condensed on 2026-03-23. Two transformations in one day—verify the condensed coalesce preserved key arguments from both source articles, eliminated redundancy, and maintains coherent structure. Check cross-references to personal-identity, phenomenology-of-agency-vs-passivity, and social-construction-of-self-vs-phenomenal-self.
@@ -1262,6 +1256,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Deep review selective-correction-and-reconstruction-paradox.md
+- **Type**: deep-review
+- **Notes**: Coalesced 2026-03-23 from selective-perceptual-correction.md + perceptual-reconstruction-paradox.md. Never reviewed post-merge. Verify the coalesce preserved coherence, eliminated redundancy between the two source articles, maintained accurate philosophical claims, and has proper cross-references to perception.md, perceptual-degradation-and-the-interface.md, and related consciousness-interface articles.
+- **Output**: obsidian/concepts/selective-correction-and-reconstruction-paradox.md
 
 ### ✓ 2026-03-23: Cross-review articles considering perceptual-degradation-and-the-interface.md
 - **Type**: cross-review

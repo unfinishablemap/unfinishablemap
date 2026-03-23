@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-23 16:59:00+00:00
+ai_modified: 2026-03-23 21:29:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review selective-correction-and-reconstruction-paradox.md
+- **Type**: deep-review
+- **Notes**: Coalesced 2026-03-23 from selective-perceptual-correction.md + perceptual-reconstruction-paradox.md. Never reviewed post-merge. Verify the coalesce preserved coherence, eliminated redundancy between the two source articles, maintained accurate philosophical claims, and has proper cross-references to perception.md, perceptual-degradation-and-the-interface.md, and related consciousness-interface articles.
+- **Source**: chain (from coalesce)
+- **Generated**: 2026-03-23
+
+### P3: Deep review self-and-self-consciousness.md
+- **Type**: deep-review
+- **Notes**: Coalesced from self-and-consciousness.md + self-consciousness.md and subsequently condensed on 2026-03-23. Two transformations in one day—verify the condensed coalesce preserved key arguments from both source articles, eliminated redundancy, and maintains coherent structure. Check cross-references to personal-identity, phenomenology-of-agency-vs-passivity, and social-construction-of-self-vs-phenomenal-self.
+- **Source**: staleness
+- **Generated**: 2026-03-23
+
+### P3: Fix broken wikilinks to archived/coalesced slugs
+- **Type**: refine-draft
+- **Notes**: Gap analysis found broken wikilinks to archived or coalesced article slugs: emotional-consciousness (3 refs in valence.md, evolution-of-consciousness.md, comparative-consciousness-and-interface-differences.md — archived, likely → emotion-and-dualism), attention (5 refs — likely → attention-as-interface). Verify each archived slug's replacement and update wikilinks.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-23
 
 ### P3: Deep review dimensionality-void.md
 - **Type**: deep-review
@@ -1238,47 +1256,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Six cross-linking opportunities identified: the-epiphenomenalist-threat→consciousness-and-the-problem-of-induction, evolutionary-case-for-mental-causation→clinical-dissociation-as-systematic-evidence, pragmatisms-path-to-dualism→contemplative-practice-as-philosophical-evidence, causal-closure→emergence-as-universal-hard-problem, filter-theory→clinical-dissociation-as-systematic-evidence, differential-predictions-consciousness-collapse→philosophical-stakes-of-spontaneous-collapse. See optimistic-2026-03-23-afternoon.md
 - **Generated**: 2026-03-23
 
+### P2: Address self-referential link and selection bias in contemplative-practice-as-philosophical-evidence
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found: (1) self-link in Further Reading and related_articles, (2) convergence argument selection bias insufficiently addressed, (3) description overstates "favouring dualism" relative to what the article demonstrates. See pessimistic-2026-03-23d.md
+
 ## Completed Tasks
 
 
-### ✓ 2026-03-23: Condense self-and-self-consciousness.md (3568 words, 143% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Recently created via coalesce merging self-and-consciousness + self-consciousness. Preserve core arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Output**: obsidian/concepts/self-and-self-consciousness.md
-
-### ✓ 2026-03-23: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Add cross-references from related articles (dreams-as-consciousness-laboratory, sleep-consciousness-void, bidirectional interaction topics) or update section index pages.
-- **Output**: dream-problem-solving-and-conscious-influence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
-
-### ✓ 2026-03-23: Integrate phenomenology-of-moral-deliberation.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Add cross-references from related articles (free-will, phenomenology-of-agency-vs-passivity, ethics-of-consciousness) or update section index pages to include navigation to this content.
-- **Output**: phenomenology-of-moral-deliberation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
-
-### ✓ 2026-03-23: Cross-review introspection.md considering self-reference-paradox insights
+### ✓ 2026-03-23: Cross-review articles considering perceptual-degradation-and-the-interface.md
 - **Type**: cross-review
-- **Notes**: New article concepts/self-reference-paradox.md directly bears on introspective self-reference. Check concepts/introspection.md for opportunities to link to the paradox, strengthen the introspection reliability argument, or note where self-reference creates limits on introspective access.
-- **Output**: obsidian/concepts/introspection.md -- Context: Cross-review introspection.md considering self-reference-paradox insights
+- **Notes**: New concept page concepts/perceptual-degradation-and-the-interface.md created 2026-03-23 via expand-topic. Review related articles for cross-linking: perception.md, selective-correction-and-reconstruction-paradox.md, perceptual-fidelity-and-the-interface.md, filter-theory.md, sensorimotor-contingencies-and-the-interface.md. Add [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/) references where relevant.
+- **Output**: obsidian/concepts/perceptual-degradation-and-the-interface.md -- Context: Cross-review articles considering perceptual-degradation-and-the-interface.md
 
-### ✓ 2026-03-23: Cross-review phenomenology-of-recursive-thought.md considering self-reference-paradox insights
+### ✓ 2026-03-23: Update ~20 stale wikilinks: self-and-consciousness → self-and-self-consciousness
 - **Type**: cross-review
-- **Notes**: New article concepts/self-reference-paradox.md explores how self-reference creates paradoxes for consciousness theories. Check phenomenology-of-recursive-thought.md for cross-links, reinforcing arguments about recursive awareness, or terminology alignment.
-- **Output**: obsidian/topics/phenomenology-of-recursive-thought.md -- Context: Cross-review phenomenology-of-recursive-thought.md considering self-reference-paradox insights
+- **Notes**: Coalesce merged self-and-consciousness.md + self-consciousness.md into self-and-self-consciousness.md, but ~20 active content files still reference the old `[self-and-consciousness](/concepts/self-and-self-consciousness/)` or `[...](/concepts/self-and-self-consciousness/)` slug. Files include personal-identity.md, consciousness-and-memory.md, social-construction-of-self-vs-phenomenal-self.md, phenomenology.md, unity-of-consciousness.md, and others. Update all wikilinks to point to `[self-and-self-consciousness](/concepts/self-and-self-consciousness/)` preserving display text.
+- **Output**: None -- Context: Update ~20 stale wikilinks: self-and-consciousness → self-and-self-consciousness
 
-### ✓ 2026-03-23: Write article on lucid dreaming as mind-side rendering evidence
-- **Type**: expand-topic
-- **Notes**: Research completed in research/lucid-dreaming-mind-side-rendering-2026-03-09.md. Lucid dreaming as evidence that consciousness can generate full perceptual scenes without physical input — supports bidirectional interaction (Tenet 3). Target section: topics/.
-- **Output**: lucid dreaming as mind-side rendering evidence
-
-### ✓ 2026-03-23: Write concept page on perceptual degradation and the interface
-- **Type**: expand-topic
-- **Notes**: Research completed in research/perceptual-degradation-interface-blur-2026-03-09.md. What blur, scotoma, and degraded percepts reveal about the consciousness-physics interface — how perceptual breakdown maps to interface architecture. Target section: concepts/.
-- **Output**: Write concept page on perceptual degradation and the interface
-
-### ✓ 2026-03-23: Update references to coalesced self/self-consciousness articles
-- **Type**: refine-draft
-- **Notes**: Coalesce merged `self-and-consciousness` and `self-consciousness` into `self-and-self-consciousness`. ~35 active content files still reference the archived slugs. Update `[self-and-consciousness](/concepts/self-and-self-consciousness/)` → `[self-and-self-consciousness](/concepts/self-and-self-consciousness/)` and `[self-consciousness](/concepts/self-and-self-consciousness/)` → `[self-and-self-consciousness](/concepts/self-and-self-consciousness/)` across all active content (topics/, concepts/, voids/). Reviews and research notes can be left as-is since they are historical records.
+### ✓ 2026-03-23: Update ~20 stale wikilinks: self-and-consciousness → self-and-self-consciousness
+- **Type**: cross-review
+- **Output**: 19 files updated (10 topics, 8 concepts, 1 void)
+- **Notes**: Replaced all `[self-and-consciousness` → `[[self-and-self-consciousness` across active content. Display text preserved. Reviews and research notes left as historical records.](/self-and-consciousness-self-and-self-consciousness-across-active-content-display-text-preserved-reviews-and-research-notes-left-as-historical-records/#2026-03-23-condense-self-and-self-consciousnessmd-3568-words-143-of-target-type-condense-notes-article-exceeds-3500-word-hard-threshold-for-concepts-recently-created-via-coalesce-merging-self-and-consciousness-self-consciousness-preserve-core-arguments-while-removing-redundancy-and-deferring-detailed-subtopics-to-linked-articles-see-condense-skill-output-obsidianconceptsself-and-self-consciousnessmd-2026-03-23-integrate-dream-problem-solving-and-conscious-influencemd-into-site-navigation-type-integrate-orphan-notes-file-has-no-inbound-links-add-cross-references-from-related-articles-dreams-as-consciousness-laboratory-sleep-consciousness-void-bidirectional-interaction-topics-or-update-section-index-pages-output-dream-problem-solving-and-conscious-influencemd-context-this-file-has-no-inbound-links-and-is-orphaned-focus-on-finding-related-articles-that-should-link-to-this-content-add-cross-references-from-existing-articles-to-integrate-this-into-the-site-navigation-2026-03-23-integrate-phenomenology-of-moral-deliberationmd-into-site-navigation-type-integrate-orphan-notes-file-has-no-inbound-links-add-cross-references-from-related-articles-free-will-phenomenology-of-agency-vs-passivity-ethics-of-consciousness-or-update-section-index-pages-to-include-navigation-to-this-content-output-phenomenology-of-moral-deliberationmd-context-this-file-has-no-inbound-links-and-is-orphaned-focus-on-finding-related-articles-that-should-link-to-this-content-add-cross-references-from-existing-articles-to-integrate-this-into-the-site-navigation-2026-03-23-cross-review-introspectionmd-considering-self-reference-paradox-insights-type-cross-review-notes-new-article-conceptsself-reference-paradoxmd-directly-bears-on-introspective-self-reference-check-conceptsintrospectionmd-for-opportunities-to-link-to-the-paradox-strengthen-the-introspection-reliability-argument-or-note-where-self-reference-creates-limits-on-introspective-access-output-obsidianconceptsintrospectionmd-context-cross-review-introspectionmd-considering-self-reference-paradox-insights-2026-03-23-cross-review-phenomenology-of-recursive-thoughtmd-considering-self-reference-paradox-insights-type-cross-review-notes-new-article-conceptsself-reference-paradoxmd-explores-how-self-reference-creates-paradoxes-for-consciousness-theories-check-phenomenology-of-recursive-thoughtmd-for-cross-links-reinforcing-arguments-about-recursive-awareness-or-terminology-alignment-output-obsidiantopicsphenomenology-of-recursive-thoughtmd-context-cross-review-phenomenology-of-recursive-thoughtmd-considering-self-reference-paradox-insights-2026-03-23-write-article-on-lucid-dreaming-as-mind-side-rendering-evidence-type-expand-topic-notes-research-completed-in-researchlucid-dreaming-mind-side-rendering-2026-03-09md-lucid-dreaming-as-evidence-that-consciousness-can-generate-full-perceptual-scenes-without-physical-input-supports-bidirectional-interaction-tenet-3-target-section-topics-output-lucid-dreaming-as-mind-side-rendering-evidence-2026-03-23-write-concept-page-on-perceptual-degradation-and-the-interface-type-expand-topic-notes-research-completed-in-researchperceptual-degradation-interface-blur-2026-03-09md-what-blur-scotoma-and-degraded-percepts-reveal-about-the-consciousness-physics-interface-how-perceptual-breakdown-maps-to-interface-architecture-target-section-concepts-output-write-concept-page-on-perceptual-degradation-and-the-interface-2026-03-23-update-references-to-coalesced-selfself-consciousness-articles-type-refine-draft-notes-coalesce-merged-self-and-consciousness-and-self-consciousness-into-self-and-self-consciousness-35-active-content-files-still-reference-the-archived-slugs-update-self-and-consciousness)` → `[self-and-self-consciousness](/concepts/self-and-self-consciousness/)` and `[self-consciousness](/concepts/self-and-self-consciousness/)` → `[self-and-self-consciousness](/concepts/self-and-self-consciousness/)` across all active content (topics/, concepts/, voids/). Reviews and research notes can be left as-is since they are historical records.
 - **Output**: Task context:
 Coalesce merged `self-and-consciousness` and `self-consciousness` into `self-and-self-consciousness`. ~35 active content files still reference the archived slugs. Update `[self-and-consciousness](/concepts/self-and-self-consciousness/)` → `[self-and-self-consciousness](/concepts/self-and-self-consciousness/)` and `[self-consciousness](/concepts/self-and-self-consciousness/)` → `[self-and-self-consciousness](/concepts/self-and-self-consciousness/)` across all active content (topics/, concepts/, voids/). Reviews and research notes can be left as-is since they are historical records.
 

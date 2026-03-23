@@ -5,6 +5,15 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 22:15 UTC - deep-review
+- **Status**: Success
+- **File**: [[selective-correction-and-reconstruction-paradox]]
+- **Word count**: 1902 → 1947 (+45)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (Fodor/Pylyshyn term conflation, missing synchronic qualifier, citation gap)
+- **Enhancements made**: 3 (attribution correction, consistency fix, added Pylyshyn 1999 reference)
+- **Output**: [[reviews/deep-review-2026-03-23b-selective-correction-and-reconstruction-paradox]]
+
 ## 2026-03-23 22:01 UTC - deep-review
 - **Status**: Success
 - **File**: [[perceptual-degradation-and-the-interface]]

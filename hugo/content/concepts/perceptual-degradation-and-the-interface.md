@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-03-23 19:09:00+00:00
+ai_modified: 2026-03-23 22:01:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,6 +11,7 @@ concepts:
 - '[[qualia]]'
 - '[[blindsight]]'
 - '[[phenomenal-consciousness]]'
+- '[[selective-correction-and-reconstruction-paradox]]'
 created: 2026-03-23
 date: &id001 2026-03-23
 description: How the progressive failure of perception reveals the architecture of
@@ -18,6 +19,7 @@ description: How the progressive failure of perception reveals the architecture 
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-03-23 22:01:00+00:00
 modified: *id001
 related_articles:
 - '[[perceptual-failure-and-the-interface]]'
@@ -45,11 +47,11 @@ Perceptual degradation exhibits four characteristic signatures that, taken toget
 
 ### Graceful Degradation
 
-Perceptual loss is graded, not categorical. Progressive myopia produces expanding blur, not a sharp boundary between seeing and not-seeing. Ageing reduces acuity, colour discrimination, and contrast sensitivity in parallel, each declining smoothly. Ian Phillips has argued that even [blindsight](/concepts/blindsight/)—long treated as paradigmatic unconscious perception—is better understood as "qualitatively degraded conscious vision" where subjects retain dim experience but adopt conservative reporting criteria (Phillips, 2021). If consciousness were an emergent property that switched on at a complexity threshold, degradation should produce threshold effects. Instead it produces a continuum—the signature of a channel whose capacity is shrinking.
+Perceptual loss is graded, not categorical. Progressive myopia produces expanding blur, not a sharp boundary between seeing and not-seeing. Ageing reduces acuity, colour discrimination, and contrast sensitivity in parallel, each declining smoothly. Ian Phillips has argued that even [blindsight](/concepts/blindsight/)—long treated as paradigmatic unconscious perception—is better understood as "qualitatively degraded conscious vision" where subjects retain dim experience but adopt conservative reporting criteria (Phillips, 2021). If consciousness were an emergent property that switched on at a complexity threshold, degradation should produce threshold effects. Instead it produces a continuum—the signature of a channel whose capacity is shrinking. (Integrated Information Theory accommodates graded consciousness without dualism, but its move—treating consciousness as a fundamental measure of integrated information—converges toward the Map's insistence that consciousness is not reducible to mechanism.)
 
 ### Priority Preservation
 
-When bandwidth is constrained, not all information is lost equally. High-contrast edges persist when fine texture vanishes. Motion detection survives when colour discrimination fails. Faces remain recognisable after background detail becomes unreadable. A mere neural read-off would degrade according to which neurons are damaged. A bandwidth-limited channel degrades according to how information is *prioritised for transmission*—a distinction that implies something is doing the prioritising.
+When bandwidth is constrained, not all information is lost equally. High-contrast edges persist when fine texture vanishes. Motion detection survives when colour discrimination fails. Faces remain recognisable after background detail becomes unreadable. A mere neural read-off would degrade according to which neurons are damaged. A bandwidth-limited channel degrades according to how information is *prioritised for transmission*—a distinction that implies something is doing the prioritising. [Attention](/concepts/attention-as-interface/) may be the mechanism by which this prioritisation operates, selecting what crosses the interface when capacity is constrained.
 
 ### Compensatory Generation
 
@@ -67,6 +69,12 @@ Clear perception conceals the interface—it feels like transparent access to re
 
 Błażej Skrzypulec's proposal that blur is *interoceptive*—representing the visual system's own state rather than external objects—reinforces this. When vision blurs, you perceive *that you are seeing less* (Skrzypulec, 2021). But generating this self-report requires a new qualitative character (the felt haziness) that is not present in the neural signals themselves. Interoception, far from domesticating blur for physicalism, deepens the [hard problem](/topics/hard-problem-of-consciousness/): now we need to explain why the system's own operational states feel like something at all.
 
+## The Neural Network Objection
+
+The strongest physicalist reply is that distributed neural networks degrade gracefully by architecture—no interface required. Connectionist models naturally show priority preservation (high-weight connections survive noise), graceful degradation (distributed representations lose precision smoothly), and even compensatory generation (pattern completion from partial input). This is a serious objection for any single signature taken alone.
+
+The force weakens when the four signatures are considered together. Neural network degradation does not predict the anaesthesia dissociation: why should disrupting communication patterns produce categorical absence rather than further degradation? Nor does it predict the [filter-expansion](/concepts/filter-theory/) cases—psychedelic states where reduced neural activity correlates with *expanded* phenomenal content. A system that merely computes and degrades should not produce richer output with less computation. The combination of graceful loss, compensatory generation, categorical disconnection, and expansion-under-degradation is better explained by a channel with its own architecture than by a single system exhibiting different failure modes. The [selective correction paradox](/concepts/selective-correction-and-reconstruction-paradox/) presents a related puzzle: the brain corrects perceptual errors it cannot access through physical mechanisms alone.
+
 ## Connection to Interface Theories
 
 Donald Hoffman's Interface Theory of Perception provides a complementary framework. The Fitness-Beats-Truth theorem shows that "veridical perceptions—strategies tuned to the true structure of the world—are routinely dominated by nonveridical strategies tuned to fitness" (Hoffman et al., 2015). Perception was never designed to show us reality; it is a species-specific desktop interface for navigating fitness payoffs. When that interface degrades, we glimpse what was always true: we were never seeing the world as it is. Hoffman draws idealist conclusions. The Map diverges: rather than treating physical reality as an artefact of consciousness, the Map holds that the interface connects two genuinely distinct domains—the physical and the phenomenal.
@@ -81,6 +89,8 @@ Donald Hoffman's Interface Theory of Perception provides a complementary framewo
 
 **Bidirectional Interaction**: Compensatory phenomena suggest the interface is not a one-way pipe. When external signal drops, the system generates phenomenal content—consciousness or the interface itself actively maintains a phenomenal field. When blur triggers corrective action (squinting, reaching for glasses), information about the interface's own state flows from the phenomenal domain into physical behaviour.
 
+**Occam's Razor Has Limits**: The physicalist can claim that a single-system account (brain = consciousness) is simpler than a two-domain interface model. But the pattern of evidence—graceful degradation, compensatory generation, categorical disconnection, and expansion under reduced activity—requires the physicalist to posit multiple ad hoc mechanisms to explain each failure mode separately. The interface model unifies them under one architecture. Apparent simplicity (one substance) conceals explanatory complexity (many unrelated mechanisms), illustrating the Map's tenet that parsimony is unreliable when the phenomenon is not yet fully characterised.
+
 ## Further Reading
 
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/)
@@ -90,6 +100,8 @@ Donald Hoffman's Interface Theory of Perception provides a complementary framewo
 - [filter-theory](/concepts/filter-theory/)
 - [phenomenal-transparency](/concepts/phenomenal-transparency/)
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)
+- [attention-as-interface](/concepts/attention-as-interface/)
 
 ## References
 
