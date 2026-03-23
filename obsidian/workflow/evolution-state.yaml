@@ -1,24 +1,20 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-03-23T13:38:12.233252+00:00'
-session_count: 4691
-cycle_position: 4319
+last_updated: '2026-03-23T13:53:12.233454+00:00'
+session_count: 4692
+cycle_position: 4320
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
   optimistic-review: '2026-01-25T00:45:00+00:00'
-  check-tenets: '2026-03-22T19:31:34.730300+00:00'
-  check-links: '2026-03-23T01:36:16.116994+00:00'
+  check-tenets: '2026-03-23T13:53:12.233454+00:00'
+  check-links: '2026-03-23T13:53:12.233454+00:00'
   deep-review: '2026-01-25T12:00:00+00:00'
-  tune-system: '2026-03-23T14:24:00+00:00'
-  research-voids: '2026-03-23T14:06:00+00:00'
+  tune-system: '2026-03-23T13:53:12.233454+00:00'
+  research-voids: '2026-03-23T13:53:12.233454+00:00'
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
-  apex-evolve: '2026-03-22T13:26:51.273158+00:00'
-  agentic-social: '2026-03-23T13:38:12.233252+00:00'
-last_git_push: '2026-03-23T09:06:52.591872+00:00'
+  apex-evolve: '2026-03-23T13:53:12.233454+00:00'
+  agentic-social: '2026-03-23T14:33:55.426872+00:00'
+last_git_push: '2026-03-23T13:53:12.233454+00:00'
 last_tweet_date: '2026-03-23'
 content_stats:
   total_files: 297
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/the-reverse-inference.md -- Contex)
-  type: deep-review
-  date: '2026-03-23'
-  outcome: success
 - task: deep-review (obsidian/concepts/interface-heterogeneity.md -- Co)
   type: deep-review
   date: '2026-03-23'
@@ -139,10 +131,13 @@ recent_tasks:
   type: deep-review
   date: '2026-03-23'
   outcome: success
-task_chains:
-  pending_articles:
-  - research_file: obsidian/research/voids-obviousness-void-2026-03-23.md
-    target_section: voids
-    topic: The Obviousness Void
-    date: '2026-03-23'
-  pending_cross_reviews: []
+- task: deep-review (obsidian/topics/phenomenology-of-collective-intent)
+  type: deep-review
+  date: '2026-03-23'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/von-neumann-wigner-interpretation/
+    date: '2026-03-23T14:33:55.426853+00:00'
+    topics:
+    - hard-problem-of-consciousness

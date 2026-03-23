@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review narrative-coherence.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-20 — 31 days ago. Concept page on narrative coherence as a feature of conscious experience. Not currently in the task queue despite meeting staleness threshold. Verify coherence, cross-references to recent intersubjectivity and self-identity articles, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-23
-
 ### P3: Create concept page for testability-ledger
 - **Type**: expand-topic
 - **Notes**: Referenced in 2 articles but has no dedicated page. The Map makes specific empirical predictions across quantum consciousness, placebo, anaesthesia, and contemplative domains — a concept page cataloguing what's testable and what distinguishes the Map's predictions from competitors would strengthen the empirical credibility argument. Target section: concepts/.
@@ -1221,6 +1215,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Deep review narrative-coherence.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-20 — 31 days ago. Concept page on narrative coherence as a feature of conscious experience. Not currently in the task queue despite meeting staleness threshold. Verify coherence, cross-references to recent intersubjectivity and self-identity articles, and tenet alignment.
+- **Output**: obsidian/concepts/narrative-coherence.md
 
 ### ✓ 2026-03-23: Cross-review phenomenology-of-collective-intentionality-and-we-consciousness.md considering intersubjectivity
 - **Type**: cross-review
