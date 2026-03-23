@@ -21,6 +21,7 @@ last_curated: null
 last_deep_review: 2026-03-12 23:19:00+00:00
 modified: *id001
 related_articles:
+- '[[perceptual-reconstruction-paradox]]'
 - '[[illusionism]]'
 - '[[epiphenomenalism]]'
 - '[[hard-problem-of-consciousness]]'
@@ -82,6 +83,8 @@ The cognitive impenetrability boundary functions as a void in the Map's framewor
 
 ## Further Reading
 
+- [perceptual-reconstruction-paradox](/concepts/perceptual-reconstruction-paradox/) — the philosophical paradox in concept form
+- [selective-perceptual-correction](/concepts/selective-perceptual-correction/) — the mechanism of asymmetric correction
 - [dualist-perception](/topics/dualist-perception/)
 - [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)

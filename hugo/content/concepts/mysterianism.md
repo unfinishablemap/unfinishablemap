@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-22 16:46:00+00:00
+ai_modified: 2026-03-23 01:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -23,6 +23,7 @@ concepts:
 - '[[evolved-cognitive-limits]]'
 - '[[cognitive-science-of-dualism]]'
 - '[[causal-closure]]'
+- '[[epistemology-of-limit-knowledge]]'
 created: 2026-01-15
 date: &id001 2026-02-18
 description: 'McGinn''s cognitive closure thesis: human minds may be constitutionally
@@ -30,7 +31,7 @@ description: 'McGinn''s cognitive closure thesis: human minds may be constitutio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-12 11:21:00+00:00
+last_deep_review: 2026-03-23 01:22:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -105,7 +106,7 @@ Consciousness might be such a mystery. The [explanatory-gap](/concepts/explanato
 
 Jerry Fodor's [radical concept nativism](/voids/architecture-of-cognitive-closure/) complements McGinn: while McGinn argues we cannot *conceive* certain properties, Fodor argues we cannot *acquire* certain concepts at all. Learning requires already possessing the concept to formulate hypotheses—if it isn't built in, experience cannot produce it.
 
-McGinn's "property P" may be closed because we lack the primitive concepts required to build toward it. This convergence—Fodor on acquisition, McGinn on conception, Rescher's "agnoseology" on unknowability—suggests any mind powerful enough to think some thoughts is thereby prevented from thinking others. The [intentionality void](/voids/intentionality-void/) illustrates this concretely: we cannot introspect how thoughts achieve their specific reference because introspecting *is* constructing new reference, placing the mechanism permanently outside observation.
+McGinn's "property P" may be closed because we lack the primitive concepts required to build toward it. This convergence—Fodor on acquisition, McGinn on conception, Rescher's "agnoseology" on unknowability—suggests any mind powerful enough to think some thoughts is thereby prevented from thinking others.
 
 ## The Intrinsic Nature Connection
 
@@ -123,9 +124,9 @@ The [mathematical void](/voids/mathematical-void/) illustrates this in practice:
 
 ## The Phenomenology of Cognitive Closure
 
-What does it feel like to approach a cognitive limit? The [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) provides a diagnostic framework: different limits produce different felt qualities, from frustration (architectural limits) through satisfaction (adaptive limits) to illusory comprehension (the deepest adaptive constraints). The [voids article on edge-phenomenology](/voids/phenomenology-of-the-edge/) maps this territory at the experiential level. When consciousness approaches limits through contemplative practice, psychedelics, or philosophical inquiry, consistent features appear: ineffability combined with felt knowledge, ego dissolution paired with enhanced clarity.
+What does it feel like to approach a cognitive limit? The [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) provides a diagnostic framework: different limits produce different felt qualities, from frustration (architectural limits) through satisfaction (adaptive limits) to illusory comprehension (the deepest adaptive constraints). The [voids article on edge-phenomenology](/voids/phenomenology-of-the-edge/) maps this territory at the experiential level. When consciousness approaches limits through contemplation, psychedelics, or philosophical inquiry, consistent features appear: ineffability combined with felt knowledge, ego dissolution paired with enhanced clarity.
 
-Cross-method convergence matters epistemically—these aren't artifacts of particular methods but features of consciousness at its limits. McGinn argues theoretically that certain properties lie beyond our conceptual reach; edge-phenomenology suggests we can *experience* that boundary. The [silence void](/voids/the-silence-void/) represents the limit case: truth accessible only through the cessation of thought constitutes territory permanently outside cognitive mapping. [Altered states research](/voids/altered-states-as-void-probes/) sharpens the question: do extraordinary states *transcend* cognitive closure or merely *approach* it? If they consistently produce the phenomenology of transcendence without yielding communicable insight, this supports McGinn. The [dissolving-insight phenomenon](/voids/thoughts-that-slip-away/) and [cognitive aversion](/voids/cognitive-aversion/) may mark further encounters with representationally closed territory. Cognitive closure has a phenomenology, and that phenomenology is data.
+Cross-method convergence matters epistemically—these are features of consciousness at its limits, not artifacts of particular methods. McGinn argues theoretically that certain properties lie beyond our conceptual reach; edge-phenomenology suggests we can *experience* that boundary. [Altered states research](/voids/altered-states-as-void-probes/) sharpens the question: do extraordinary states *transcend* cognitive closure or merely *approach* it? If they consistently produce the phenomenology of transcendence without yielding communicable insight, this supports McGinn. The [dissolving-insight phenomenon](/voids/thoughts-that-slip-away/) and [cognitive aversion](/voids/cognitive-aversion/) may mark further encounters with representationally closed territory. Cognitive closure has a phenomenology, and that phenomenology is data.
 
 ## What the Limits Reveal
 
@@ -137,7 +138,9 @@ This transforms mysterianism from pessimism into method. By mapping *where* thou
 
 Can we determine if cognitive limits are genuine or merely apparent? The [voids article on this question](/voids/whether-real/) reveals a peculiar epistemic situation: the question may be undecidable from within any limited system. The [meta-epistemology of cognitive limits](/voids/meta-epistemology-of-limits/) explores this meta-level problem, addressing Kriegel's challenge that formulating a problem requires conceptual resources to solve it—and Demircioglu's reply distinguishing *representational* closure (what we can frame) from *psychological* closure (what we can grasp).
 
-Three positions emerge: **The Optimist** holds that cognitive closure remains undemonstrated—past mysteries dissolved when right concepts emerged. **The Pessimist** argues that any endowment providing scope also imposes limits; the hard problem's persistence suggests permanent closure. **The Suspended** position holds the question itself may be formally undecidable—sufficiently deep cognitive closure would hide itself.
+The [epistemology of limit-knowledge](/concepts/epistemology-of-limit-knowledge/) provides formal warrant for claims about boundaries we cannot cross. Four methods produce genuine knowledge from the near side of a limit: failure analysis (structured breakdown patterns diagnose specific boundaries), convergence (independent approaches encountering the same boundary triangulate its location), structural inference (limit-shapes reveal cognitive architecture), and [apophatic reasoning](/concepts/apophatic-approaches/) (systematic negation constrains what lies beyond). These methods dissolve the apparent paradox: limit-knowledge is propositional knowledge *about* a boundary, not acquaintance with territory beyond it.
+
+Three positions on whether closure is permanent emerge: **The Optimist** holds that cognitive closure remains undemonstrated—past mysteries dissolved when right concepts emerged. **The Pessimist** argues that any endowment providing scope also imposes limits; the hard problem's persistence suggests permanent closure. **The Suspended** position holds the question itself may be formally undecidable—sufficiently deep cognitive closure would hide itself.
 
 ## Temporary Versus Permanent
 
@@ -193,9 +196,9 @@ The mysterian response: we can investigate while acknowledging success isn't gua
 
 ### The Vitalism Analogy
 
-Critics note that "life" once seemed as mysterious as consciousness. Vitalists thought some *élan vital* explained living matter. But biology explained life through chemistry and physics—no mystery remained. Perhaps consciousness will follow.
+Critics note that "life" once seemed as mysterious as consciousness. Vitalists posited *élan vital*; biology dissolved the mystery through chemistry and physics. Perhaps consciousness will follow.
 
-The mysterian response: consciousness differs from life. Life's "mystery" was explaining coordinated behavior and reproduction—functional properties that turned out to be mechanistically explicable. Consciousness's mystery is why there's subjective experience at all—not a functional property but the existence of an inner perspective. The analogy fails.
+The mysterian response: life's "mystery" was explaining coordinated behavior and reproduction—functional properties that turned out to be mechanistically explicable. Consciousness's mystery is why there's subjective experience at all—not a functional property but the existence of an inner perspective. The analogy fails.
 
 ### The Squirrel Objection
 
@@ -230,10 +233,10 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Complete neural mapping yet unknowable experience
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What cognitive closure feels like from the inside
 - [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) — Whether altered states can transcend cognitive closure or merely map its edges
+- [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) — How knowledge about unreachable territory can be warranted
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — The meta-level question: how can we know our limits?
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How cognitive limits reveal cognitive architecture
 - [whether-real](/voids/whether-real/) — Can we know if the voids are genuinely permanent?
-- [self-transcendence-void](/voids/self-transcendence-void/) — The Münchhausen problem: consciousness cannot upgrade its own architecture
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Why parsimony cannot settle the consciousness debate
 - [causal-closure](/concepts/causal-closure/) — The distinct ontological thesis about causation (not to be confused with cognitive closure)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem mysterians think is unsolvable

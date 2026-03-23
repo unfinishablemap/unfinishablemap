@@ -9,6 +9,30 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-23 01:36 UTC - deep-review
+- **Status**: Success
+- **File**: [perceptual-reconstruction-paradox](/concepts/perceptual-reconstruction-paradox/)
+- **Context**: Orphan integration — file had no inbound links
+- **Word count**: 944 → 1276 (+332)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (sibling distinction, missing body cross-links, missing inbound links, frontmatter gaps)
+- **Enhancements made**: 7 cross-references added from other articles
+- **Output**: [deep-review-2026-03-23-perceptual-reconstruction-paradox](/reviews/deep-review-2026-03-23-perceptual-reconstruction-paradox/)
+
+---
+
+## 2026-03-23 01:22 UTC - deep-review
+- **Status**: Success
+- **File**: [mysterianism](/concepts/mysterianism/)
+- **Context**: Cross-review considering epistemology-of-limit-knowledge
+- **Word count**: 3331 → 3354 (+23)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to epistemology-of-limit-knowledge)
+- **Enhancements made**: 3 (cross-reference paragraph, Further Reading update, prose tightening)
+- **Output**: [deep-review-2026-03-23-mysterianism](/reviews/deep-review-2026-03-23-mysterianism/)
+
+---
+
 ## 2026-03-23 01:06 UTC - coalesce
 - **Status**: Abandoned (no candidates)
 - **Sections searched**: voids (99/100), topics (226/230), concepts (221/230)

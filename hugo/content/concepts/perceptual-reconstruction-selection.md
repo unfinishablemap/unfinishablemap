@@ -82,7 +82,8 @@ The Map speculates that the meditation findings are particularly revealing. If t
 
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — the general framework for conscious selection at the neural level
 - [selective-perceptual-correction](/concepts/selective-perceptual-correction/) — the mechanism of autonomous brain correction
-- [reconstruction-paradox](/voids/reconstruction-paradox/) — the philosophical paradox of asymmetric perceptual editing
+- [perceptual-reconstruction-paradox](/concepts/perceptual-reconstruction-paradox/) — the philosophical paradox of asymmetric perceptual editing
+- [reconstruction-paradox](/voids/reconstruction-paradox/) — the void exploration of the asymmetry's limits
 - [attention-as-interface](/concepts/attention-as-interface/) — attention as the mechanism of conscious influence
 - [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — predictive processing and interactionist dualism
 - [filter-theory](/concepts/filter-theory/) — the brain as filter rather than generator of consciousness

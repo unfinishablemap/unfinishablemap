@@ -30,6 +30,7 @@ related_articles:
 - '[[mind-brain-separation]]'
 - '[[illusionism]]'
 - '[[explanatory-gap]]'
+- '[[perceptual-reconstruction-paradox]]'
 title: Blindsight
 topics: []
 ---

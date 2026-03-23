@@ -57,7 +57,7 @@ The framework emerged from Karl Friston's Free Energy Principle—living systems
 
 Anil Seth's influential formulation: perception is a "controlled hallucination." What we experience is not the world directly but the brain's best hypothesis about the world, constrained by sensory feedback.
 
-This explains visual illusions, filled-in blind spots, and the constructive nature of perception generally. The vivid red of a tomato isn't a property read off the world—it's the brain's prediction about what's causing incoming signals.
+This explains visual illusions, filled-in blind spots, and the constructive nature of perception generally—though the [reconstruction paradox](/concepts/perceptual-reconstruction-paradox/) reveals that the brain does not always construct: it sometimes transmits raw, uncorrected signals to consciousness, an asymmetry that precision weighting alone does not fully explain. The vivid red of a tomato isn't a property read off the world—it's the brain's prediction about what's causing incoming signals.
 
 But explaining that perception is constructive doesn't explain why the construction is conscious. A weather-prediction system constructs models without experiencing anything.
 
