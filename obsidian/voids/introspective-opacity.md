@@ -106,7 +106,7 @@ What does this opacity feel like from the inside? A crucial caveat: the very opa
 
 **The gap at initiation**: When we try to catch the moment of deciding, we find it elusive. Decisions seem to *appear*—we experience having decided, not deciding. Meditators across traditions report the same: sustained attention on the moment of decision reveals less and less.
 
-**The transparency illusion**: Despite structural opacity, we *feel* transparent to ourselves. This may be the mind's "best trick" (Wegner). Fabricated explanations feel no different from veridical ones, creating confidence where none is warranted.
+**The transparency illusion**: Despite structural opacity, we *feel* transparent to ourselves. This connects to [[inventory-blindness]]: absent capabilities produce no signal, so the illusion of transparency is never challenged from the inside. This may be the mind's "best trick" (Wegner). Fabricated explanations feel no different from veridical ones, creating confidence where none is warranted.
 
 **The akratic revelation**: In weakness of will, we watch ourselves act against our own judgment—revealing that "we" and "our will" are not identical.
 

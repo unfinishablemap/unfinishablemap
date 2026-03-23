@@ -146,7 +146,7 @@ How can one determine whether parsimony applies in a given domain? The failure c
 1. **Do the competing theories generate different empirical predictions?** If not, parsimony lacks its primary epistemic mechanism.
 2. **Do the theories explain the same phenomena equally well?** If one leaves significant explanatory gaps, parsimony cannot break a tie that does not exist.
 3. **Is "simpler" well-defined?** If multiple dimensions of simplicity yield contradictory verdicts, the simplicity comparison is indeterminate.
-4. **Do we possess adequate concepts to judge simplicity?** If the domain is one where our conceptual tools may be fundamentally inadequate, simplicity judgements may be unreliable.
+4. **Do we possess adequate concepts to judge simplicity?** [[inventory-blindness|Inventory blindness]] — the inability to detect missing cognitive capabilities — suggests this is systematically uncertain. If the domain is one where our conceptual tools may be fundamentally inadequate, simplicity judgements may be unreliable.
 
 A domain that fails all four criteria — as the consciousness debate does — is one where parsimony has no epistemic authority. This does not mean the domain is beyond rational investigation. It means that *this particular tool* provides no guidance, and other considerations (explanatory power, theoretical virtues, phenomenological evidence) must carry the weight.
 

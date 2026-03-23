@@ -97,7 +97,7 @@ Limit-knowledge differs from ordinary empirical knowledge in several respects.
 
 ## The Bootstrap Problem
 
-One serious challenge to limit-knowledge deserves attention. If cognitive architecture constrains what we can conceive, it may also constrain our ability to correctly identify our own limits. [[meta-epistemology-of-limits|The meta-epistemological question]]—can we trust our assessments of our own boundaries?—threatens to undermine limit-knowledge from within.
+One serious challenge to limit-knowledge deserves attention. If cognitive architecture constrains what we can conceive, it may also constrain our ability to correctly identify our own limits. [[inventory-blindness|Inventory blindness]] deepens this challenge: absent cognitive capabilities produce no signal, so the limits most needing identification are those least likely to be detected. [[meta-epistemology-of-limits|The meta-epistemological question]]—can we trust our assessments of our own boundaries?—threatens to undermine limit-knowledge from within.
 
 The bootstrap problem does not invalidate limit-knowledge, but it does constrain the confidence we can place in it. Two considerations prevent full sceptical collapse:
 

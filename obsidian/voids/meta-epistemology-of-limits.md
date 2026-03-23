@@ -49,7 +49,7 @@ Two meta-level questions haunt the [[voids|voids framework]]. First: how can we 
 
 Distinguishing between *difficult* and *impossible* seems like it should be straightforward. In practice, it is anything but.
 
-**From inside, they feel identical.** A problem that is merely very hard produces the same phenomenology as one that is constitutionally closed: sustained effort, repeated failure, the sense of hitting a wall. Nothing in the experience itself marks the difference.
+**From inside, they feel identical.** A problem that is merely very hard produces the same phenomenology as one that is constitutionally closed: sustained effort, repeated failure, the sense of hitting a wall. [[inventory-blindness|Inventory blindness]] ensures this: absent cognitive capabilities generate no signal marking the difference between difficulty and impossibility. Nothing in the experience itself marks the difference.
 
 **Success proves contingency; failure proves nothing.** If we solve a problem, we learn it was solvable. But if we fail—even across centuries and cultures—we cannot conclude permanent closure. Perhaps the right concepts haven't emerged yet.
 

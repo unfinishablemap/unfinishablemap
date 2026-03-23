@@ -4,8 +4,8 @@ description: "Human+AI analysis of inventory blindness—the epistemic condition
 created: 2026-03-22
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-03-22T23:19:00+00:00
-last_deep_review: 2026-03-22T23:19:00+00:00
+ai_modified: 2026-03-23T01:51:00+00:00
+last_deep_review: 2026-03-23T01:51:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,7 @@ related_articles:
   - "[[phenomenology-of-the-edge]]"
   - "[[introspective-opacity]]"
   - "[[epistemology-of-limit-knowledge]]"
+  - "[[meta-epistemology-of-limits]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -97,6 +98,7 @@ Inventory blindness engages the Map's [[tenets]] at a fundamental level.
 - [[phenomenology-of-the-edge]]
 - [[introspective-opacity]]
 - [[epistemology-of-limit-knowledge]]
+- [[meta-epistemology-of-limits]]
 - [[voids]]
 
 ## References

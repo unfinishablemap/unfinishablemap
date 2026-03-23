@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate inventory-blindness.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-22 via expand-topic. Add cross-references from related articles such as architecture-of-cognitive-closure.md, parsimony-epistemology.md, three-kinds-of-void.md, or phenomenology-of-the-edge.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-22
-
 ### P2: Integrate epistemology-of-limit-knowledge.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Created 2026-03-22 via expand-topic. Add cross-references from related articles such as meta-epistemology-of-limits.md, convergence-as-evidence.md, compound-failure-signatures.md, or apophatic-approaches.md.
@@ -1179,6 +1173,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Integrate inventory-blindness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-22 via expand-topic. Add cross-references from related articles such as architecture-of-cognitive-closure.md, parsimony-epistemology.md, three-kinds-of-void.md, or phenomenology-of-the-edge.md.
+- **Output**: obsidian/concepts/inventory-blindness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-23: Integrate perceptual-reconstruction-paradox.md into site navigation
 - **Type**: integrate-orphan
