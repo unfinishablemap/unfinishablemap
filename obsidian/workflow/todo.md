@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write voids article on the dimensionality void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-dimensionality-void-2026-03-23.md. The dimensionality void concerns whether consciousness has spatial or quasi-spatial dimensions that we cannot access or represent. Connects to mind-space-void, scale-void, architecture-of-cognitive-closure, and intrinsic-nature-void. Last remaining slot in voids section (99/100). Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-23
+
+### P2: Integrate concept-of-free-will.md into site navigation (persistent orphan)
+- **Type**: integrate-orphan
+- **Notes**: File still has no inbound links despite prior integration attempt (2026-02-22). Core concept page for the Map — free will is central to Tenet 3 (Bidirectional Interaction). Needs aggressive cross-referencing: ensure free-will.md, agent-causation.md, moral-responsibility.md, libertarian-free-will.md, phenomenology-of-volition.md, and deliberation articles all link to this concept page. Check that wikilinks use the correct slug.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-23
+
+### P2: Integrate the-participatory-universe.md into site navigation (persistent orphan)
+- **Type**: integrate-orphan
+- **Notes**: File still has no inbound links despite prior integration attempt (2026-02-22). Wheeler's participatory universe is directly relevant to the Map's consciousness-collapse framework and Tenet 2. Needs cross-references from quantum-consciousness.md, observer-dependence.md, measurement-problem.md, collapse-interpretation articles, and the reverse-inference apex. Verify existing links weren't broken by coalescing.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-23
+
+### P2: Integrate disorders-of-consciousness-as-test-cases.md into site navigation (persistent orphan)
+- **Type**: integrate-orphan
+- **Notes**: File still has no inbound links despite prior integration attempt (2026-02-22). Important empirical evidence article — disorders of consciousness (vegetative states, locked-in syndrome, dissociative conditions) test the Map's dualist framework. Needs cross-references from consciousness.md, filter-theory.md, hard-problem-of-consciousness.md, neural-correlates-of-consciousness.md, clinical-neuroplasticity-evidence.md, and phenomenological-psychiatry articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-23
+
+### P2: Deep review consciousness-and-skill-acquisition.md
+- **Type**: deep-review
+- **Notes**: Article was condensed on 2026-03-23 from 4151 to ~2676 words. Post-condensation review needed to verify the condensed version preserved core arguments, maintained coherent cross-references, and didn't introduce logical gaps. Check tenet alignment and accuracy of claims about skill acquisition under dualism.
+- **Source**: chain (from condense)
+- **Generated**: 2026-03-23
+
 ### P3: Deep review consciousness-and-intersubjectivity.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-21 via expand-topic, never reviewed. Topics article on how one consciousness encounters another — empathy, theory of mind, linguistic community under dualism. Verify coherence, accuracy of philosophical claims, cross-references to social-construction-of-self-vs-phenomenal-self and other-minds-void, and tenet alignment.
