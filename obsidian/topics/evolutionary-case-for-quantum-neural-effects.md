@@ -4,7 +4,7 @@ description: "If evolution optimised quantum effects for bird navigation and enz
 created: 2026-03-23
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-03-23T05:40:00+00:00
+ai_modified: 2026-03-23T06:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,12 +24,14 @@ related_articles:
   - "[[evolution-under-dualism]]"
   - "[[comparing-quantum-consciousness-mechanisms]]"
   - "[[quantum-biology-neural-mechanisms-2026-01-24]]"
+  - "[[dimensionality-void]]"
+  - "[[evolved-cognitive-limits]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-23
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-23T06:10:00+00:00
 ---
 
 Evolution has already optimised quantum effects in multiple biological systems—avian magnetoreception, enzyme catalysis, and photosynthetic energy transfer. The Unfinishable Map argues that the same evolutionary logic applies to neural systems, where the computational payoffs of quantum effects would dwarf those of a compass or a faster enzyme. If natural selection discovered quantum solutions for navigation and chemistry, the question is not whether it *could* discover them for neural computation, but whether the selective pressures were strong enough to drive it there.
@@ -40,9 +42,9 @@ This article examines the evolutionary argument specifically—not the mechanism
 
 Three established quantum biological effects demonstrate that evolution can discover, optimise, and maintain quantum phenomena in warm, wet biological conditions:
 
-**Avian magnetoreception** uses quantum spin entanglement in cryptochrome proteins to detect Earth's magnetic field. Radical pairs maintain coherence for microseconds—vastly longer than the femtosecond timescales Tegmark predicted for biological systems. A 2026 Princeton study confirmed the electron transfer pathway spanning over 18 angstroms, showing how protein structure stabilises radical pairs for magnetic sensing (Luo et al., 2026). Natural selection shaped protein geometry at the angstrom level to protect quantum coherence.
+**Avian magnetoreception** uses quantum spin entanglement in cryptochrome proteins to detect Earth's magnetic field. Radical pairs maintain coherence for microseconds—vastly longer than the femtosecond timescales Tegmark calculated for brain processes (Tegmark, 2000). A 2026 Princeton study confirmed the electron transfer pathway spanning over 18 angstroms, showing how protein structure stabilises radical pairs for magnetic sensing (Luo et al., 2026). Natural selection shaped protein geometry at the angstrom level to protect quantum coherence.
 
-**Enzyme catalysis** exploits quantum tunnelling to accelerate reactions by factors of 10¹² to 10¹⁷. Evolution did not avoid quantum effects in enzymes—it engineered active sites that maximise tunnelling probability through precise control of donor-acceptor distances and vibrational coupling.
+**Enzyme catalysis** exploits quantum tunnelling to accelerate hydrogen transfer reactions. Evolution did not avoid quantum effects in enzymes—it engineered active sites that maximise tunnelling probability through precise control of donor-acceptor distances and vibrational coupling.
 
 **Photosynthetic energy transfer** achieves near-unity efficiency (~99%) in transferring excitation energy to reaction centres. While the role of quantum coherence has been revised downward from early claims, the system demonstrates that evolution builds molecular architectures that interact with quantum phenomena under physiological conditions.
 
@@ -54,9 +56,9 @@ Neural computation confronts at least three challenges where quantum effects cou
 
 ### The Binding Problem
 
-How does the brain combine distributed processing into unified experience? Colour, shape, motion, and meaning are processed in separate cortical areas, yet experience is seamlessly integrated. Classical proposals—gamma synchrony, thalamocortical loops, re-entrant signalling—explain *correlation* between neural populations without explaining *unity*. Neurons firing together remain separate neurons.
+How does the brain combine distributed processing into unified experience? Colour, shape, motion, and meaning are processed in separate cortical areas, yet experience is seamlessly integrated. The difficulty deepens when we consider that brain dynamics occupy spaces of thousands of independent variables—the [[dimensionality-void|dimensionality void]] suggests that binding high-dimensional neural activity into unified experience is an even harder problem than low-dimensional models imply. Classical proposals—gamma synchrony, thalamocortical loops, re-entrant signalling—explain *correlation* between neural populations without explaining *unity*. Neurons firing together remain separate neurons.
 
-Quantum entanglement provides ontological holism: an entangled state is fundamentally indivisible, not assembled from separable components. If the [[binding-problem|binding problem]] genuinely requires holism rather than mere correlation, classical mechanisms cannot solve it regardless of their sophistication. This creates a strong selective pressure: organisms that bind experience more effectively respond to their environments more coherently. If quantum entanglement is the only physical mechanism that produces genuine unity, evolution would be under pressure to discover it—just as it discovered quantum spin coherence for magnetoreception when classical mechanisms could not detect weak magnetic fields.
+Quantum entanglement provides ontological holism: an entangled state is fundamentally indivisible, not assembled from separable components. If the [[binding-problem|binding problem]] genuinely requires holism rather than mere correlation—and this remains contested—classical mechanisms cannot solve it regardless of their sophistication. This creates a strong selective pressure: organisms that bind experience more effectively respond to their environments more coherently. If quantum entanglement is the only physical mechanism that produces genuine unity, evolution would be under pressure to discover it—just as it discovered quantum spin coherence for magnetoreception when classical mechanisms could not detect weak magnetic fields.
 
 ### Stochastic Search and Decision-Making
 
@@ -82,7 +84,7 @@ If quantum effects occur in neural systems—and the [[quantum-biology-and-neura
 
 **Protected microenvironments.** Just as cryptochrome proteins shield radical pairs from decoherence, neural structures should provide environments where quantum coherence persists longer than in unprotected tissue. The hydrophobic interior of microtubules and the densely packed fascicle structure of the axon initial segment (proposed by QBIT theory) are consistent with this prediction. Evolution would have shaped these structures to protect quantum states, not merely for classical structural functions.
 
-**Conserved quantum-relevant proteins.** If quantum effects are functionally important, the proteins mediating them should be highly conserved across species. Tubulin—the protein composing microtubules—is among the most conserved proteins in eukaryotic biology, with sequence similarity exceeding 75% from yeast to humans. While tubulin conservation has classical explanations (cytoskeletal function), its extreme conservation is also what quantum consciousness theories predict.
+**Conserved quantum-relevant proteins.** If quantum effects are functionally important, the proteins mediating them should be highly conserved across species. Tubulin—the protein composing microtubules—is among the most conserved proteins in eukaryotic biology. While tubulin conservation has classical explanations (cytoskeletal function), its extreme conservation is also what quantum consciousness theories predict.
 
 **Scaling with cognitive complexity.** If quantum neural effects contribute to cognitive capacity, species with greater cognitive demands should show more elaborate quantum-relevant neural architecture. This is a testable prediction that current evidence cannot yet confirm or refute—but it follows from the evolutionary logic.
 
@@ -92,7 +94,7 @@ If quantum effects occur in neural systems—and the [[quantum-biology-and-neura
 
 The strongest objection holds that even if evolution *could* exploit quantum effects in neural systems, [[decoherence]] makes the task enormously harder than in existing quantum biological systems. Magnetoreception operates in the retina—a relatively isolated environment with light-driven chemistry. Neural tissue is warmer, noisier, and more electrochemically active.
 
-This objection has weakened considerably. Revised decoherence estimates for microtubule interiors yield 10-100 microseconds (Hagan et al., 2002)—comparable to radical pair coherence times in cryptochrome. More fundamentally, evolution routinely solves problems that appear thermodynamically prohibitive. ATP synthase operates as a molecular rotary motor with near-perfect efficiency. Photosystem II splits water using sunlight. Evolution's capacity to engineer molecular solutions should not be underestimated based on back-of-envelope calculations about what seems physically plausible.
+This objection has weakened considerably. Revised decoherence estimates for microtubule interiors yield 10-100 microseconds (Hagan et al., 2002)—comparable to radical pair coherence times in cryptochrome—though these estimates come from Hameroff's collaborators and await independent confirmation. More fundamentally, evolution routinely solves problems that appear thermodynamically prohibitive. ATP synthase operates as a molecular rotary motor with near-perfect efficiency. Photosystem II splits water using sunlight. The [[evolved-cognitive-limits|Fitness-Beats-Truth theorem]] offers a relevant caution here: human intuitions about what seems "biologically plausible" are shaped by fitness rather than truth. Our sense that warm biology *should* be classical may reflect cognitive convenience rather than physical reality—precisely the mistake researchers made before quantum effects in photosynthesis and magnetoreception were confirmed.
 
 ### Sufficiency of Classical Neural Computation
 
@@ -137,6 +139,8 @@ The evolutionary argument connects to the Map's [[tenets]] at several points:
 - [[evolution-under-dualism]] — How evolution works under dualist assumptions
 - [[evolution-of-consciousness]] — When consciousness arose and what selected for it
 - [[comparing-quantum-consciousness-mechanisms]] — Evaluating competing quantum consciousness theories
+- [[dimensionality-void]] — Why binding high-dimensional neural activity into unified experience is harder than it appears
+- [[evolved-cognitive-limits]] — How fitness-shaped intuitions bias our judgment of biological plausibility
 
 ## References
 

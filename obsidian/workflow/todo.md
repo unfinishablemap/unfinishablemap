@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review void articles considering dimensionality void insights
-- **Type**: cross-review
-- **Notes**: New article voids/dimensionality-void.md created 2026-03-23 via expand-topic. Review related void articles (taxonomy-of-voids, compound-cognitive-limits, mathematical-void, mind-space-void) for cross-links and consistency with this new void type about the limits of conscious spatial representation.
-- **Source**: chain (from dimensionality-void.md)
-- **Generated**: 2026-03-23
-
 ### P2: Integrate consciousness-and-skill-acquisition.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Topics article on how skill acquisition reveals the consciousness-brain interface through shifting phenomenology across expertise stages. Add cross-references from related articles (choking-phenomenon-mental-causation, attention-and-the-consciousness-interface, phenomenology-of-agency-vs-passivity) or update section index pages.
@@ -1209,6 +1203,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Cross-review void articles considering dimensionality void insights
+- **Type**: cross-review
+- **Notes**: New article voids/dimensionality-void.md created 2026-03-23 via expand-topic. Review related void articles (taxonomy-of-voids, compound-cognitive-limits, mathematical-void, mind-space-void) for cross-links and consistency with this new void type about the limits of conscious spatial representation.
+- **Output**: None -- Context: Cross-review void articles considering dimensionality void insights
 
 ### ✓ 2026-03-23: Write article on quantum biology in neural systems
 - **Type**: expand-topic
