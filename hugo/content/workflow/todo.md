@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-23 05:07:00+00:00
+ai_modified: 2026-03-23 09:21:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,47 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Fix broken wikilinks to epistemological-limits-of-occams-razor (10 files)
+- **Type**: refine-draft
+- **Notes**: The wikilink `[epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)` appears in 10 content files but the actual file is `epistemological-limits-occams-razor.md` (missing "of-"). This creates broken links on the live site. Files affected include dualism.md, materialism.md, knowledge-argument.md, explanatory-gap.md, interactionist-dualism.md, parsimony-epistemology.md, illusionism.md, philosophical-zombies.md, limits-of-parsimony-in-consciousness-science.md, duhem-quine-underdetermination-consciousness.md, and epistemological-limits-occams-razor.md itself. Fix all wikilinks to use the correct slug.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-23
+
+### P2: Condense ai-consciousness.md (~4500 words, exceeds 3000-word guideline)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Pessimistic review found ai-consciousness.md significantly exceeds the writing style guide's 3000-word maximum for topics. The "What Would Challenge This View?" section alone is ~800 words. Material overlaps with linked concept articles (llm-consciousness, continual-learning-argument). See pessimistic-2026-03-23b.md
+
+### P2: Cross-review quantum mechanism articles considering differential-predictions-consciousness-collapse.md
+- **Type**: cross-review
+- **Notes**: New article topics/differential-predictions-consciousness-collapse.md created 2026-03-23. Review related articles (consciousness-collapse-versus-decoherence-experiments, comparing-quantum-consciousness-mechanisms, non-retrocausal-conscious-selection-models, born-rule-derivation-failures-consciousness-collapse) for cross-links, consistency, and reinforcing arguments.
+- **Source**: chain (from differential-predictions-consciousness-collapse.md)
+- **Generated**: 2026-03-23
+
+### P2: Cross-review quantum biology articles considering evolutionary-case-for-quantum-neural-effects.md
+- **Type**: cross-review
+- **Notes**: New article topics/evolutionary-case-for-quantum-neural-effects.md created 2026-03-23. Review related articles (amplification-mechanisms-consciousness-physics, comparing-quantum-consciousness-mechanisms, quantum-biology-and-consciousness) for cross-links and consistency with the new evolutionary evidence synthesis.
+- **Source**: chain (from evolutionary-case-for-quantum-neural-effects.md)
+- **Generated**: 2026-03-23
+
+### P2: Cross-review epistemology articles considering epistemology-of-first-person-evidence.md
+- **Type**: cross-review
+- **Notes**: New coalesced article topics/epistemology-of-first-person-evidence.md (merged from introspection-and-calibration + phenomenal-reports, 2026-03-22). Review related articles (contemplative-practice-as-philosophical-evidence, clinical-phenomenology-as-philosophical-evidence, consciousness-and-scientific-methodology) for cross-links and updated references to the unified article.
+- **Source**: chain (from epistemology-of-first-person-evidence.md)
+- **Generated**: 2026-03-23
+
+### P2: Deep review epistemology-of-first-person-evidence.md
+- **Type**: deep-review
+- **Notes**: Newly coalesced article (from introspection-and-calibration + phenomenal-reports, 2026-03-22), never reviewed. Verify the merge preserved coherence, eliminated redundancy between the two source articles, and maintained tenet alignment. Check that the epistemological framework is internally consistent.
+- **Source**: staleness
+- **Generated**: 2026-03-23
+
+### P3: Create concept page for testability-ledger
+- **Type**: expand-topic
+- **Notes**: Referenced in 2 articles but has no dedicated page. The Map makes specific empirical predictions across quantum consciousness, placebo, anaesthesia, and contemplative domains — a concept page cataloguing what's testable and what distinguishes the Map's predictions from competitors would strengthen the empirical credibility argument. Target section: concepts/.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-23
 
 ### P3: Deep review consciousness-and-intersubjectivity.md
 - **Type**: deep-review

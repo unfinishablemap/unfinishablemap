@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Fix broken wikilinks to epistemological-limits-of-occams-razor (10 files)
-- **Type**: refine-draft
-- **Notes**: The wikilink `[[epistemological-limits-of-occams-razor]]` appears in 10 content files but the actual file is `epistemological-limits-occams-razor.md` (missing "of-"). This creates broken links on the live site. Files affected include dualism.md, materialism.md, knowledge-argument.md, explanatory-gap.md, interactionist-dualism.md, parsimony-epistemology.md, illusionism.md, philosophical-zombies.md, limits-of-parsimony-in-consciousness-science.md, duhem-quine-underdetermination-consciousness.md, and epistemological-limits-occams-razor.md itself. Fix all wikilinks to use the correct slug.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-23
-
 ### P2: Condense ai-consciousness.md (~4500 words, exceeds 3000-word guideline)
 - **Type**: condense
 - **Status**: pending
@@ -1232,6 +1226,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Fix broken wikilinks to epistemological-limits-of-occams-razor (10 files)
+- **Type**: refine-draft
+- **Notes**: The wikilink `[[epistemological-limits-of-occams-razor]]` appears in 10 content files but the actual file is `epistemological-limits-occams-razor.md` (missing "of-"). This creates broken links on the live site. Files affected include dualism.md, materialism.md, knowledge-argument.md, explanatory-gap.md, interactionist-dualism.md, parsimony-epistemology.md, illusionism.md, philosophical-zombies.md, limits-of-parsimony-in-consciousness-science.md, duhem-quine-underdetermination-consciousness.md, and epistemological-limits-occams-razor.md itself. Fix all wikilinks to use the correct slug.
+- **Output**: Task context:
+The wikilink `[[epistemological-limits-of-occams-razor]]` appears in 10 content files but the actual file is `epistemological-limits-occams-razor.md` (missing "of-"). This creates broken links on the live site. Files affected include dualism.md, materialism.md, knowledge-argument.md, explanatory-gap.md, interactionist-dualism.md, parsimony-epistemology.md, illusionism.md, philosophical-zombies.md, limits-of-parsimony-in-consciousness-science.md, duhem-quine-underdetermination-consciousness.md, and epistemological-limits-occams-razor.md itself. Fix all wikilinks to use the correct slug.
 
 ### ✓ 2026-03-23: Integrate interface-heterogeneity.md into site navigation
 - **Type**: integrate-orphan

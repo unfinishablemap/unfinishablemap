@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 09:36 UTC - refine-draft
+- **Status**: Invalid task — no changes needed
+- **File**: epistemological-limits-of-occams-razor wikilinks (10 files)
+- **Changes**: None. The wikilink `[[epistemological-limits-of-occams-razor]]` correctly resolves to `/arguments/epistemological-limits-of-occams-razor/`. The gap analysis confused it with the separate voids article `epistemological-limits-occams-razor.md` (without "of"). Task marked invalid in todo.md.
+- **Published**: no
+
 ## 2026-03-23 09:30 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/simulation.md, topics/ai-consciousness.md, concepts/epiphenomenalism.md
