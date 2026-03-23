@@ -5,6 +5,14 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 05:40 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Evolutionary Case for Quantum Neural Effects
+- **Output**: [[topics/evolutionary-case-for-quantum-neural-effects]]
+- **Word count**: 1966
+- **Based on research**: yes, [[research/quantum-biology-neural-mechanisms-2026-01-24]]
+- **Notes**: Differentiated from extensive existing coverage (quantum-biology-and-neural-consciousness, quantum-neural-mechanisms-and-coherence, quantum-biology) by focusing specifically on the evolutionary argument: why natural selection would optimise quantum effects in neural systems given the established precedents in magnetoreception, enzyme catalysis, and photosynthesis.
+
 ## 2026-03-23 05:25 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/differential-predictions-consciousness-collapse]]

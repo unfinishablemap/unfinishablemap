@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on quantum biology in neural systems
-- **Type**: expand-topic
-- **Notes**: Research completed in research/quantum-biology-neural-experimental-2026-03-20.md. Recent (2025-2026) experimental evidence for quantum effects in biological neural systems. Provides empirical foundation for Tenet 2 claims about quantum processes in brains. Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-23
-
 ### P2: Cross-review void articles considering dimensionality void insights
 - **Type**: cross-review
 - **Notes**: New article voids/dimensionality-void.md created 2026-03-23 via expand-topic. Review related void articles (taxonomy-of-voids, compound-cognitive-limits, mathematical-void, mind-space-void) for cross-links and consistency with this new void type about the limits of conscious spatial representation.
@@ -1215,6 +1209,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Write article on quantum biology in neural systems
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-biology-neural-experimental-2026-03-20.md. Recent (2025-2026) experimental evidence for quantum effects in biological neural systems. Provides empirical foundation for Tenet 2 claims about quantum processes in brains. Target section: topics/.
+- **Output**: quantum biology in neural systems
 
 ### ✓ 2026-03-23: Write article on experimental tests distinguishing consciousness-collapse from decoherence
 - **Type**: expand-topic
