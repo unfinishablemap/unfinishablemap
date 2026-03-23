@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-03-23T16:44:54.715111+00:00'
-session_count: 4702
-cycle_position: 4330
+last_updated: '2026-03-23T16:59:54.715303+00:00'
+session_count: 4703
+cycle_position: 4331
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -50,25 +50,7 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 2
-  p2_tasks: 3
-  p3_tasks: 1
-  needs_replenishment: false
-  last_replenishment: '2026-03-23T16:59:00+00:00'
-  replenishment_source_counts:
-    chain: 1
-    unconsumed_research: 0
-    gap_analysis: 3
-    length_analysis: 0
-    staleness: 1
-    orphan_integration: 0
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-03-23'
-  outcome: success
 - task: deep-review (obsidian/topics/epistemology-of-first-person-evide)
   type: deep-review
   date: '2026-03-23'
@@ -150,5 +132,11 @@ recent_tasks:
   outcome: success
 - task: deep-review (obsidian/arguments/many-worlds-argument.md -- Cont)
   type: deep-review
+  date: '2026-03-23'
+  outcome: success
+- task: 'refine-draft (Task context:
+
+    No `introspection-rehabilitation.md`)'
+  type: refine-draft
   date: '2026-03-23'
   outcome: success

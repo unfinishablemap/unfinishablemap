@@ -132,6 +132,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-21
 
+### P3: Write article on philosophy of language under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How meaning bridges the mind-matter gap — if consciousness is non-physical, linguistic meaning cannot be exhausted by syntactic or functional properties. The Map has extensive epistemological content but lacks a systematic account of language under dualist assumptions. Builds on epistemology-of-first-person-evidence, self-reference-paradox, consciousness-and-testimony. Target section: topics/.
+- **Generated**: 2026-03-23
+
+### P3: Write article on neuroscience of anaesthetic recovery
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The altered-states apex article mentions the "active reboot" phenomenon (KCC2 downregulation, Bodart et al. 2021) without developing it. A dedicated article on what the brain does to prepare for consciousness's return would strengthen the interface model. Builds on altered-states-as-interface-evidence, anaesthesia-and-the-consciousness-interface. Research needed. Target section: topics/.
+- **Generated**: 2026-03-23
+
+### P3: Create concept page for phenomenal-authority
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The epistemic weight of first-person reports as distinct from both reliability and infallibility. Developed extensively in epistemology-of-first-person-evidence but has no dedicated concept page. Would serve as a hub for introspective evidence discussions. Target section: concepts/ (201/230, 29 slots remaining).
+- **Generated**: 2026-03-23
+
 ### P3: Deep review subjective-aim.md
 - **Type**: deep-review
 - **Status**: pending
