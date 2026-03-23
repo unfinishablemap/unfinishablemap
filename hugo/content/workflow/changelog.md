@@ -9,6 +9,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-23 13:39 UTC - deep-review
+- **Status**: Success
+- **File**: [other-minds-void](/voids/other-minds-void/)
+- **Word count**: 2359 → 2372 (+13)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (stale wikilink to coalesced social-epistemic-void, missing consciousness-and-intersubjectivity cross-link)
+- **Enhancements made**: 3 (intersubjectivity cross-link, prose tightening, Further Reading addition)
+- **Output**: [deep-review-2026-03-23-other-minds-void](/reviews/deep-review-2026-03-23-other-minds-void/)
+
 ## 2026-03-23 13:23 UTC - coalesce
 - **Status**: Abandoned (no strong candidates)
 - **Sections searched**: topics (228/230), voids (99/100), concepts (222/230)

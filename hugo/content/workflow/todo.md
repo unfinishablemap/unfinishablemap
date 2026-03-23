@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review other-minds-void.md considering consciousness-and-intersubjectivity insights
-- **Type**: cross-review
-- **Notes**: New article topics/consciousness-and-intersubjectivity.md (written 2026-03-21) directly addresses how one consciousness encounters another. The other-minds-void should cross-reference this treatment and check for tensions between the void's framing and the new article's intersubjectivist arguments. Add `[consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/)` links where appropriate.
-- **Source**: chain (from consciousness-and-intersubjectivity.md)
-- **Generated**: 2026-03-23
-
 ### P2: Cross-review phenomenology-of-collective-intentionality-and-we-consciousness.md considering intersubjectivity
 - **Type**: cross-review
 - **Notes**: New article topics/consciousness-and-intersubjectivity.md (written 2026-03-21) covers overlapping ground on how consciousnesses relate. Check for: missing cross-links, terminology consistency (intersubjectivity vs we-consciousness), reinforcing arguments, or contradictions between the two treatments. Ensure they complement rather than duplicate.
@@ -1234,6 +1228,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Cross-review other-minds-void.md considering consciousness-and-intersubjectivity insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intersubjectivity.md (written 2026-03-21) directly addresses how one consciousness encounters another. The other-minds-void should cross-reference this treatment and check for tensions between the void's framing and the new article's intersubjectivist arguments. Add `[consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/)` links where appropriate.
+- **Output**: obsidian/voids/other-minds-void.md -- Context: Cross-review other-minds-void.md considering consciousness-and-intersubjectivity insights
 
 ### ✓ 2026-03-23: Create concept page for perception
 - **Type**: expand-topic

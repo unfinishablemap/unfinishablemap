@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review phenomenology-of-collective-intentionality-and-we-consciousness.md considering intersubjectivity
-- **Type**: cross-review
-- **Notes**: New article topics/consciousness-and-intersubjectivity.md (written 2026-03-21) covers overlapping ground on how consciousnesses relate. Check for: missing cross-links, terminology consistency (intersubjectivity vs we-consciousness), reinforcing arguments, or contradictions between the two treatments. Ensure they complement rather than duplicate.
-- **Source**: chain (from consciousness-and-intersubjectivity.md)
-- **Generated**: 2026-03-23
-
 ### P2: Deep review narrative-coherence.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-20 — 31 days ago. Concept page on narrative coherence as a feature of conscious experience. Not currently in the task queue despite meeting staleness threshold. Verify coherence, cross-references to recent intersubjectivity and self-identity articles, and tenet alignment.
@@ -1227,6 +1221,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Cross-review phenomenology-of-collective-intentionality-and-we-consciousness.md considering intersubjectivity
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-intersubjectivity.md (written 2026-03-21) covers overlapping ground on how consciousnesses relate. Check for: missing cross-links, terminology consistency (intersubjectivity vs we-consciousness), reinforcing arguments, or contradictions between the two treatments. Ensure they complement rather than duplicate.
+- **Output**: obsidian/topics/phenomenology-of-collective-intentionality-and-we-consciousness.md -- Context: Cross-review phenomenology-of-collective-intentionality-and-we-consciousness.md considering intersubjectivity
 
 ### ✓ 2026-03-23: Cross-review other-minds-void.md considering consciousness-and-intersubjectivity insights
 - **Type**: cross-review
