@@ -5,6 +5,14 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 05:20 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Differential Predictions: Where Consciousness-Collapse and Decoherence Diverge
+- **Output**: [[topics/differential-predictions-consciousness-collapse]]
+- **Word count**: 1874
+- **Based on research**: yes, [[research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21]]
+- **Notes**: Two closely related articles already existed (experimental-design-for-consciousness-collapse-testing, consciousness-collapse-versus-decoherence-experiments). This article takes a distinct angle: cataloging five concrete differential predictions (Φ-dependent collapse rates, mass-quadratic excess decoherence, proper vs improper mixtures, consciousness-dependent collapse timing, anaesthesia-modulated collapse dynamics).
+
 ## 2026-03-23 04:51 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-skill-acquisition]]

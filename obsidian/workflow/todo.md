@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on experimental tests distinguishing consciousness-collapse from decoherence
-- **Type**: expand-topic
-- **Notes**: Research completed in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Synthesize experimental paradigms that could distinguish consciousness-dependent collapse from decoherence-only interpretations. Directly supports Tenet 2 (Minimal Quantum Interaction) with empirical grounding. Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-23
-
 ### P2: Write article on quantum biology in neural systems
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-biology-neural-experimental-2026-03-20.md. Recent (2025-2026) experimental evidence for quantum effects in biological neural systems. Provides empirical foundation for Tenet 2 claims about quantum processes in brains. Target section: topics/.
@@ -1221,6 +1215,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Write article on experimental tests distinguishing consciousness-collapse from decoherence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Synthesize experimental paradigms that could distinguish consciousness-dependent collapse from decoherence-only interpretations. Directly supports Tenet 2 (Minimal Quantum Interaction) with empirical grounding. Target section: topics/.
+- **Output**: experimental tests distinguishing consciousness-collapse from decoherence
 
 ### ✓ 2026-03-23: Deep review consciousness-and-skill-acquisition.md
 - **Type**: deep-review
