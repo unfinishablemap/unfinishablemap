@@ -110,7 +110,7 @@ Evolution explains *why brains have these features*—selection pressure for beh
 
 **Why panpsychism seems excessive**: If consciousness requires representational structure, attention mechanisms, feedback integration, and developmental history, most physical systems won't qualify. Brains are special because they're rare.
 
-**Why artificial consciousness is difficult**: Current AI has representational structure and some feedback but arguably lacks quantum sensitivity, genuine attention (as opposed to attention-like processing), and developmental co-construction with any consciousness.
+**Why artificial consciousness is difficult**: Current AI has representational structure and some feedback but arguably lacks quantum sensitivity, genuine attention (as opposed to attention-like processing), and developmental co-construction with any consciousness. Whether an artificial system meeting all five criteria would use the same coupling mechanism as biological brains—or a fundamentally different one—is the open question of [[interface-heterogeneity]].
 
 **Why psychokinesis research yields null results**: Decades of PEAR lab micro-PK research found effect sizes of ~0.0001-0.001—effectively zero. (The PEAR program itself faced methodological criticisms, but its null results are consistent with mainstream findings.) If the Map's mechanism extended to external systems, effects should be far more robust. Their absence supports interface locality. (For fuller treatment, see [[brain-specialness-boundary]].)
 

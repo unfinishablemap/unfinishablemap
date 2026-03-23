@@ -134,7 +134,7 @@ The six source articles were developed to address different philosophical questi
 
 This convergence is not accidental. It reflects the Map's tenets working as constraints should—ruling out possibilities and forcing remaining options to cohere. The result is not yet a complete theory. It is something more honest: a specification precise enough to be wrong. The bandwidth can be measured more exactly. The control operations generate predictions about reaction times and attention dynamics. Clinical evidence can confirm or disconfirm the predicted failure modes. The specification gap marks exactly where new work is needed.
 
-The interface specification programme moves "consciousness interacts with the brain" from a philosophical assertion toward an engineering-level description—incomplete, but with identified parameters, testable constraints, and clear next steps. That progression is the programme's contribution, and it is what distinguishes the Map's interactionism from the vague hand-waving that has historically plagued dualist accounts.
+The interface specification programme moves "consciousness interacts with the brain" from a philosophical assertion toward an engineering-level description—incomplete, but with identified parameters, testable constraints, and clear next steps. Whether this architecture is universal or whether [[interface-heterogeneity|interface heterogeneity]] means different systems couple through different mechanisms remains a major open question. That progression is the programme's contribution, and it is what distinguishes the Map's interactionism from the vague hand-waving that has historically plagued dualist accounts.
 
 ## Relation to Site Perspective
 
