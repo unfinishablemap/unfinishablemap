@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-03-11 17:14:00+00:00
+ai_modified: 2026-03-23 12:53:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,6 +15,7 @@ concepts:
 - '[[intentionality]]'
 - '[[interactionist-dualism]]'
 - '[[concepts/epiphenomenalism]]'
+- '[[emergence]]'
 created: 2026-02-06
 date: &id001 2026-02-06
 description: Philosophy of mind as a field—its central questions, major positions,
@@ -23,7 +24,7 @@ description: Philosophy of mind as a field—its central questions, major positi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-27 15:46:00+00:00
+last_deep_review: 2026-03-23 12:53:00+00:00
 modified: *id001
 related_articles:
 - '[[dualism]]'
@@ -84,7 +85,11 @@ Between strict physicalism and dualism sit several intermediate positions:
 
 - **[russellian-monism](/concepts/russellian-monism/)** proposes that physics describes only relational structure while consciousness is the intrinsic nature of matter. It splits the difference between physicalism and dualism, though it inherits challenges from both.
 
-- **[Analytic idealism](/concepts/idealism/)** inverts physicalism entirely: consciousness is fundamental and matter is how consciousness appears from the outside. This dissolves the hard problem but must explain the regularity and apparent independence of the physical world. See [Analytic Idealism and Mind-Centric Metaphysics](/topics/analytic-idealism-and-mind-centric-metaphysics/) for a comparative survey of these frameworks.
+- **[Strong emergentism](/concepts/emergence/)** accepts physicalist ontology but holds that consciousness is a genuinely novel property that emerges from complex physical systems and cannot be predicted from or reduced to lower-level descriptions. This avoids substance dualism while conceding that reductive physicalism fails. Its challenge is explaining *how* brute emergence works — what makes certain physical arrangements give rise to experience while others do not.
+
+- **[Analytic idealism](/concepts/idealism/)** inverts physicalism entirely: consciousness is fundamental and matter is how consciousness appears from the outside. This dissolves the hard problem but must explain the regularity and apparent independence of the physical world.
+
+For a comparative survey of these mind-centric alternatives, see [Analytic Idealism and Mind-Centric Metaphysics](/topics/analytic-idealism-and-mind-centric-metaphysics/).
 
 Each of these frameworks addresses real shortcomings in physicalism. None has yet achieved the explanatory success that would settle the debate.
 
@@ -117,6 +122,12 @@ The Unfinishable Map's [tenets](/tenets/) constitute a worked-out position withi
 **Tenet 5 (Occam's Razor Has Limits)** challenges the assumption that physicalism wins by default on grounds of simplicity. Philosophy of mind is precisely the domain where apparent parsimony may reflect ignorance rather than insight.
 
 Together, these tenets do not merely select a position from the existing menu. They generate a research programme — still largely speculative, but with concrete directions: investigating whether [quantum biology](/concepts/quantum-biology/) operates in neural systems, developing [psychophysical-laws](/concepts/psychophysical-laws/) that could formalise the mind-body interface, and working toward empirical tests of whether consciousness biases quantum outcomes in ways that differ from chance. The programme's viability depends on whether such tests can be designed; its philosophical coherence does not wait for them.
+
+## References
+
+1. Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+2. Kim, J. (1998). *Mind in a Physical World: An Essay on the Mind-Body Problem and Mental Causation*. MIT Press.
+3. Nagel, T. (1974). What Is It Like to Be a Bat? *The Philosophical Review*, 83(4), 435–450.
 
 ## Further Reading
 

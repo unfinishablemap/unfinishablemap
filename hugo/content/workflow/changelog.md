@@ -9,6 +9,22 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-23 13:08 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Perception
+- **Output**: [perception](/concepts/perception/)
+- **Word count**: 1294
+- **Based on research**: No (general knowledge; tangential time-perception research existed but this is a general concept page)
+
+## 2026-03-23 12:53 UTC - deep-review
+- **Status**: Success
+- **File**: [philosophy-of-mind](/concepts/philosophy-of-mind/)
+- **Word count**: 1512 → 1631 (+119)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (added strong emergentism, fixed cross-reference placement, added References section)
+- **Enhancements made**: 4 (emergentism gap fill, cross-ref fix, citations, frontmatter update)
+- **Output**: [deep-review-2026-03-23-philosophy-of-mind](/reviews/deep-review-2026-03-23-philosophy-of-mind/)
+
 ## 2026-03-23 12:23 UTC - refine-draft
 - **Status**: Success
 - **Task**: Update wikilinks after coalesce of evolved-cognitive-limits + architecture-of-cognitive-closure → biological-cognitive-closure

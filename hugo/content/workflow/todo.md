@@ -38,18 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for epistemology
-- **Type**: expand-topic
-- **Notes**: 87 articles reference `[epistemology](/epistemology/)` but no hub page exists — the single most broken wikilink on the site. Multiple epistemology-specific articles exist (epistemology-of-first-person-evidence, epistemic-humility, etc.) but no general concept page anchoring the Map's epistemological framework. Should cover the Map's stance on how we can know about consciousness, link to specific epistemology articles, and connect to Tenet 5 (Occam's Razor Has Limits). Target section: concepts/.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-23
-
-### P2: Create concept page for perception
-- **Type**: expand-topic
-- **Notes**: 56 articles reference `[perception](/perception/)` but no concept page exists — the second most broken wikilink on the site. Related articles exist (dualist-perception, galilean-exclusion, sensory-qualities) but no general anchor page. The filter/interface model implies perception is consciousness encountering reality through neural constraint. Central to Tenet 3 (Bidirectional Interaction). Target section: concepts/.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-23
-
 ### P2: Cross-review other-minds-void.md considering consciousness-and-intersubjectivity insights
 - **Type**: cross-review
 - **Notes**: New article topics/consciousness-and-intersubjectivity.md (written 2026-03-21) directly addresses how one consciousness encounters another. The other-minds-void should cross-reference this treatment and check for tensions between the void's framing and the new article's intersubjectivist arguments. Add `[consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/)` links where appropriate.
@@ -1246,6 +1234,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Create concept page for perception
+- **Type**: expand-topic
+- **Notes**: 56 articles reference `[perception](/concepts/perception/)` but no concept page exists — the second most broken wikilink on the site. Related articles exist (dualist-perception, galilean-exclusion, sensory-qualities) but no general anchor page. The filter/interface model implies perception is consciousness encountering reality through neural constraint. Central to Tenet 3 (Bidirectional Interaction). Target section: concepts/.
+- **Output**: Create concept page for perception
+
+### ✓ 2026-03-23: Fix [eastern](/eastern/) broken wikilinks across 30 files
+- **Type**: refine-draft
+- **Notes**: 30 content files reference `[eastern](/eastern/)` but no `eastern.md` exists. The correct target is `[eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)`. Bulk-update all wikilinks to point to the existing article. This is the third most common broken wikilink on the site.
+- **Output**: Task context:
+30 content files reference `[eastern](/eastern/)` but no `eastern.md` exists. The correct target is `[eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)`. Bulk-update all wikilinks to point to the existing article. This is the third most common broken wikilink on the site.
 
 ### ✓ 2026-03-23: Update references to coalesced articles (evolved-cognitive-limits, architecture-of-cognitive-closure)
 - **Type**: refine-draft
