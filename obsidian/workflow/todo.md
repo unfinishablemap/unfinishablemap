@@ -1278,6 +1278,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Pessimistic review found: (1) self-link in Further Reading and related_articles, (2) convergence argument selection bias insufficiently addressed, (3) description overstates "favouring dualism" relative to what the article demonstrates. See pessimistic-2026-03-23d.md
 
+### P3: Write article on phenomenology of attention as distinct from computational attention
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map distinguishes phenomenal from computational attention across many articles but lacks a systematic treatment. Builds on mental effort, categorical surprise, bandwidth asymmetry. See optimistic-2026-03-23-night.md
+- **Generated**: 2026-03-23
+
+### P3: Write article on consciousness and mathematical understanding
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Gödel's incompleteness theorems referenced across multiple articles; whether mathematical understanding requires consciousness deserves focused treatment. Builds on limits of explanation, categorical surprise. See optimistic-2026-03-23-night.md
+- **Generated**: 2026-03-23
+
+### P3: Add cross-links from optimistic review 2026-03-23 night findings
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Five cross-linking opportunities identified: limits-of-parsimony↔consciousness-and-the-limits-of-explanation, categorical-surprise→consciousness-and-the-limits-of-explanation, alignment-in-objective-experiential-terms→moral-architecture-of-consciousness, methodological-pluralism↔altered-states-as-interface-evidence, what-consciousness-tells-us-about-physics↔collapse-and-the-arrow-of-time. See optimistic-2026-03-23-night.md
+- **Generated**: 2026-03-23
+
 ## Completed Tasks
 
 
