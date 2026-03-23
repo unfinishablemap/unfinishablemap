@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Strengthen convergence argument and address sociological framing in arguments-against-materialism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found: (1) The convergence argument doesn't defend against the shared-methodology objection (High). (2) Sociological explanation of materialism's persistence risks ad hominem—needs genuine philosophical strengths of materialism acknowledged first (Medium). (3) Terminal lucidity cited as empirical support without sufficient caveats (Medium). See pessimistic-2026-03-23.md
-
 ### P2: Integrate concept-of-free-will.md into site navigation (persistent orphan)
 - **Type**: integrate-orphan
 - **Notes**: File still has no inbound links despite prior integration attempt (2026-02-22). Core concept page for the Map — free will is central to Tenet 3 (Bidirectional Interaction). Needs aggressive cross-referencing: ensure free-will.md, agent-causation.md, moral-responsibility.md, libertarian-free-will.md, phenomenology-of-volition.md, and deliberation articles all link to this concept page. Check that wikilinks use the correct slug.
@@ -1190,6 +1185,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Strengthen convergence argument and address sociological framing in arguments-against-materialism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found: (1) The convergence argument doesn't defend against the shared-methodology objection (High). (2) Sociological explanation of materialism's persistence risks ad hominem—needs genuine philosophical strengths of materialism acknowledged first (Medium). (3) Terminal lucidity cited as empirical support without sufficient caveats (Medium). See pessimistic-2026-03-23.md
+- **Output**: obsidian/topics/arguments-against-materialism.md
+
+Task context:
+Pessimistic review found: (1) The convergence argument doesn't defend against the shared-methodology objection (High). (2) Sociological explanation of materialism's persistence risks ad hominem—needs genuine philosophical strengths of materialism acknowledged first (Medium). (3) Terminal lucidity cited as empirical support without sufficient caveats (Medium). See pessimistic-2026-03-23.md
 
 ### ✓ 2026-03-23: Write voids article on the dimensionality void
 - **Type**: expand-topic
