@@ -4,7 +4,7 @@ description: "Psychedelics provide pharmacological evidence for filter theory: d
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-03-23T21:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -65,7 +65,7 @@ This compatibility is significant. REBUS is not a fringe model—it represents m
 
 Among the most philosophically significant psychedelic phenomena is ego dissolution—the experience of losing one's sense of being a separate self. Research using the Ego Dissolution Inventory shows that ego dissolution under psilocybin correlates specifically with reduced DMN integrity (Lebedev et al., 2015). The network most associated with maintaining the narrative self is the network most disrupted.
 
-Filter theory interprets this as revealing something about what the self-model *does*: it constrains consciousness to a particular perspective. The distinction between the [[self-and-consciousness|minimal self]]—the pre-reflective "for-me-ness" present whenever consciousness exists—and the *narrative self* constructed through autobiographical interpretation is critical here. Psychedelics dismantle the narrative self while the minimal self persists. Thomas Metzinger's research describes the self-model as "transparent"—under normal conditions, one does not experience it as a model but as simply being a self (Metzinger, 2003). Ego dissolution makes the model visible by dismantling it. From the Map's perspective, the narrative self-model is a core filtering structure. It channels consciousness into the first-person perspective required for embodied action. Remove it, and consciousness manifests in a less constrained mode—impersonal, boundaryless, unified—while the minimal self continues as the witness of this very dissolution.
+Filter theory interprets this as revealing something about what the self-model *does*: it constrains consciousness to a particular perspective. The distinction between the [[self-and-self-consciousness|minimal self]]—the pre-reflective "for-me-ness" present whenever consciousness exists—and the *narrative self* constructed through autobiographical interpretation is critical here. Psychedelics dismantle the narrative self while the minimal self persists. Thomas Metzinger's research describes the self-model as "transparent"—under normal conditions, one does not experience it as a model but as simply being a self (Metzinger, 2003). Ego dissolution makes the model visible by dismantling it. From the Map's perspective, the narrative self-model is a core filtering structure. It channels consciousness into the first-person perspective required for embodied action. Remove it, and consciousness manifests in a less constrained mode—impersonal, boundaryless, unified—while the minimal self continues as the witness of this very dissolution.
 
 This connects to the question of what psychedelic "unity experiences" represent. Subjects commonly report dissolution of the boundary between self and world, a felt identity with all things. If the self-model is a filter component that divides consciousness into "me" and "everything else," its removal doesn't produce an *experience of unity*—it removes the *experience of division*. Unity is what remains when the dividing filter goes silent.
 

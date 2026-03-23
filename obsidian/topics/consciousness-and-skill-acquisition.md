@@ -4,7 +4,7 @@ description: "Skill acquisition challenges epiphenomenalism—deliberate practic
 created: 2026-02-02
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-03-23T21:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -122,7 +122,7 @@ Csikszentmihalyi's research (1975, 1990) identified flow's convergent profile: *
 
 The claim that flow is simply [[implicit-memory|automatised processing]] faces several problems. The jazz musician in flow generates novel phrases responsive to an unrepeatable context—straining standard accounts of procedural memory. Conscious re-engagement *destroys* flow performance while leaving unskilled performance unaffected. Subjects report flow as among the most intensely conscious moments of their lives. And flow produces rich episodic memories resembling consciously encoded episodes, not fragmented high-arousal traces.
 
-The Map proposes that flow represents consciousness selecting without the resistance that generates effort phenomenology. Effort is friction at the [[attention-as-interface|selection interface]]. Skill has prepared the options so well that the right choice presents itself without competition. This explains Csikszentmihalyi's skill-challenge balance and the Map's concept of [[interface-friction]]: practice *aligns* the physical system with consciousness's selection tendencies, so effort drops not because consciousness withdraws but because the interface becomes frictionless. Csikszentmihalyi's "loss of self-consciousness" confirms a layered model: the [[self-and-consciousness|narrative self]] falls silent while the [[self-and-consciousness|minimal self]] remains, operating at the [[anoetic-noetic-autonoetic-consciousness|noetic level]].
+The Map proposes that flow represents consciousness selecting without the resistance that generates effort phenomenology. Effort is friction at the [[attention-as-interface|selection interface]]. Skill has prepared the options so well that the right choice presents itself without competition. This explains Csikszentmihalyi's skill-challenge balance and the Map's concept of [[interface-friction]]: practice *aligns* the physical system with consciousness's selection tendencies, so effort drops not because consciousness withdraws but because the interface becomes frictionless. Csikszentmihalyi's "loss of self-consciousness" confirms a layered model: the [[self-and-self-consciousness|narrative self]] falls silent while the [[self-and-self-consciousness|minimal self]] remains, operating at the [[anoetic-noetic-autonoetic-consciousness|noetic level]].
 
 ## When Skills Must Change
 

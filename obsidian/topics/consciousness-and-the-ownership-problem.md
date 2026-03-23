@@ -4,7 +4,7 @@ description: "Why does experience belong to anyone? The ownership problem asks w
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-03-23T21:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -52,7 +52,7 @@ Three features make the ownership problem distinctive:
 
 **It is not the unity problem.** [[unity-of-consciousness|Phenomenal unity]] explains that experience comes as a whole. But unity and ownership are separable. A unified field of experience still needs a subject for whom it is unified. Unity describes the structure of experience; ownership names its possession.
 
-**It is not the self problem.** The [[self-and-consciousness|minimal self]]—the "for-me-ness" of experience—describes the phenomenological character of ownership. But describing ownership is not the same as explaining it. Saying experience has a for-me quality restates the fact that experience is owned. The ownership problem asks *why* it has this quality.
+**It is not the self problem.** The [[self-and-self-consciousness|minimal self]]—the "for-me-ness" of experience—describes the phenomenological character of ownership. But describing ownership is not the same as explaining it. Saying experience has a for-me quality restates the fact that experience is owned. The ownership problem asks *why* it has this quality.
 
 ## Why Physicalism Struggles
 

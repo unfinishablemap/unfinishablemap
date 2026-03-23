@@ -4,7 +4,7 @@ description: "Awareness that observes mental contents without identifying with t
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-03-23T21:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,7 +51,7 @@ In Advaita Vedanta, the *sakshi* (witness-self) is pure awareness that observes 
 
 Buddhism's *anattā* (no-self) doctrine seems incompatible with an eternal witness, yet Buddhist meditation cultivates precisely the capacity to observe mental contents without identification. The resolution: [[buddhism-and-dualism#The Compatibility Thesis|irreducibility and impermanence are logically independent]]. The witness can be irreducible at each moment while impermanent across moments—property dualism operating within Buddhist flux. (For the deeper Madhyamaka challenge—whether the witness itself is empty of inherent existence—see [[buddhism-and-dualism#emptiness-challenge|the emptiness response]].)
 
-Buddhism doesn't claim "consciousness is an illusion" (that would be eliminativism); it claims "the permanent self *owning* consciousness is an illusion." What [[self-and-consciousness|Zahavi calls]] the minimal self's "for-me-ness" may survive the no-self critique. See [[buddhism-and-dualism]] for detailed treatment.
+Buddhism doesn't claim "consciousness is an illusion" (that would be eliminativism); it claims "the permanent self *owning* consciousness is an illusion." What [[self-and-self-consciousness|Zahavi calls]] the minimal self's "for-me-ness" may survive the no-self critique. See [[buddhism-and-dualism]] for detailed treatment.
 
 The witness concept appears with striking consistency across independent traditions—a pattern the [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] examines in detail, mapping where traditions converge on the witness's phenomenological structure while diverging on its metaphysical status. This is one instance of the broader [[cross-traditional-convergence-on-consciousness-irreducibility|cross-traditional convergence on consciousness irreducibility]].
 

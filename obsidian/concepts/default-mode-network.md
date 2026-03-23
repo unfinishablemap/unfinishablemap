@@ -4,7 +4,7 @@ description: "The brain's self-referential system, active at rest. DMN may const
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-03-23T21:43:00+00:00
 last_deep_review: 2026-03-14T09:25:00+00:00
 draft: false
 topics:
@@ -58,7 +58,7 @@ The DMN thus appears to construct and maintain the ongoing sense of self—the "
 
 ## DMN and the Sense of Self
 
-The correlation between DMN activity and self-referential processing has significant implications for consciousness research. The DMN may be the neural substrate for what contemplatives sometimes call "monkey mind"—the ceaseless internal chatter that constructs and maintains the [[self-and-consciousness|narrative self]].
+The correlation between DMN activity and self-referential processing has significant implications for consciousness research. The DMN may be the neural substrate for what contemplatives sometimes call "monkey mind"—the ceaseless internal chatter that constructs and maintains the [[self-and-self-consciousness|narrative self]].
 
 ### Evidence for DMN as Self-Generator
 

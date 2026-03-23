@@ -4,7 +4,7 @@ description: "What kind of thing are you? Three answers compete—bare perspecti
 created: 2026-02-08
 modified: 2026-02-08
 human_modified:
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-03-23T21:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -52,7 +52,7 @@ The minimal self has three features that distinguish it from richer conceptions:
 
 **Non-narrative**: It does not depend on having a life story. Patients with severe amnesia who cannot construct autobiographical narratives still experience from a first-person perspective. The minimal self persists when narrative breaks down. Conversely, [[phenomenological-psychiatry-and-altered-experience|phenomenological psychiatry]] shows that in schizophrenia the minimal self itself can be disrupted—Sass and Parnas's ipseity disturbance model demonstrates that pre-reflective "for-me-ness" can erode through hyperreflexivity (normally tacit features of experience becoming alien objects of attention) and diminished self-affection (weakened sense of being a vital source of awareness), while narrative capacity remains partially intact. In [[phenomenological-psychiatry-and-altered-experience|depersonalization/derealization disorder]], distinct components of the minimal self—mineness, the sense that experiences are one's own; actuality, the sense that the world is real; and temporal presence, the sense of being in the now—can each be disrupted independently, revealing that even the "basic" first-person perspective has internal structure.
 
-**Necessary**: There appear to be no genuinely anonymous experiences—no consciousness that belongs to nobody. [[self-and-consciousness|The minimal self]] is not an optional addition to experience but its very form.
+**Necessary**: There appear to be no genuinely anonymous experiences—no consciousness that belongs to nobody. [[self-and-self-consciousness|The minimal self]] is not an optional addition to experience but its very form.
 
 This is a powerful philosophical discovery. It means that even the most radical deconstruction of selfhood—whether through Buddhist meditation, philosophical argument, or neurological damage—cannot eliminate the first-person perspective without eliminating consciousness itself. When meditators report the dissolution of the self, what dissolves is something richer than the minimal self. Something remains: [[witness-consciousness|witness-awareness]], the bare "that there is experiencing" which persists even when identification with a particular self ceases.
 

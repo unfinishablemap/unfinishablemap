@@ -4,7 +4,7 @@ description: "Remembering is not retrieving stored data but re-inhabiting a pers
 created: 2026-02-13
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-03-23T21:43:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -55,7 +55,7 @@ One objection deserves acknowledgment: if mineness, pastness, and incompleteness
 
 ## Memory as Self-Constitution
 
-The self does not exist first and then remember. The relationship is more intimate: the self becomes temporally extended *through* remembering. Before memory connects present experience to past experience, there is the [[self-and-consciousness|minimal self]]—bare first-person perspective, the "for-me-ness" of each moment. Memory transforms this minimal self into a self with a history, a trajectory, a life. The Map's [[temporal-structure-of-consciousness|temporal constitution thesis]] identifies this as one of four convergent demonstrations that consciousness actively constitutes temporal structure rather than merely inhabiting it.
+The self does not exist first and then remember. The relationship is more intimate: the self becomes temporally extended *through* remembering. Before memory connects present experience to past experience, there is the [[self-and-self-consciousness|minimal self]]—bare first-person perspective, the "for-me-ness" of each moment. Memory transforms this minimal self into a self with a history, a trajectory, a life. The Map's [[temporal-structure-of-consciousness|temporal constitution thesis]] identifies this as one of four convergent demonstrations that consciousness actively constitutes temporal structure rather than merely inhabiting it.
 
 This transformation works through several mechanisms.
 

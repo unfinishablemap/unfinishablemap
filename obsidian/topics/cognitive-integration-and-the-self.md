@@ -4,7 +4,7 @@ description: "How consciousness binds information across time and modality to co
 created: 2026-02-11
 modified: 2026-03-06
 human_modified:
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-03-23T21:43:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -72,7 +72,7 @@ Key features:
 - **Necessary**: Cannot be absent while consciousness persists
 - **Non-narrative**: Does not depend on autobiographical stories
 
-The [[self-and-consciousness|self and consciousness]] article develops the minimal self's philosophical significance in depth—arguing that for-me-ness is not added to consciousness but is its very form, and engaging with Buddhist no-self, Metzinger's eliminativism, and the hard problem. The minimal self is disclosed through phenomenological attention to experience itself—an essential feature of every experience, given in first-personal mode rather than observed from outside.
+The [[self-and-self-consciousness|self and consciousness]] article develops the minimal self's philosophical significance in depth—arguing that for-me-ness is not added to consciousness but is its very form, and engaging with Buddhist no-self, Metzinger's eliminativism, and the hard problem. The minimal self is disclosed through phenomenological attention to experience itself—an essential feature of every experience, given in first-personal mode rather than observed from outside.
 
 ### The Narrative Self
 
@@ -205,7 +205,7 @@ The physicalist might object that positing irreducible phenomenal unity violates
 - [[personal-identity|Personal Identity]] — What makes you the same person across change
 - [[temporal-structure-of-consciousness|Consciousness and Temporal Integration]] — How consciousness binds across extended time scales
 - [[diachronic-agency-and-personal-narrative|Diachronic Agency and Personal Narrative]] — Agency extended across the lifespan
-- [[self-and-consciousness|Self and Consciousness]] — Relationship between consciousness and selfhood
+- [[self-and-self-consciousness|Self and Consciousness]] — Relationship between consciousness and selfhood
 - [[the-self-minimal-narrative-and-substantial|The Self: Minimal, Narrative, and Substantial]] — Three-layered model of selfhood
 - [[consciousness-and-memory|Consciousness and Memory]] — The relationship between consciousness and memory formation
 - [[quantum-holism-and-phenomenal-unity|Quantum Holism and Phenomenal Unity]] — Why phenomenal unity resists physical explanation

@@ -4,7 +4,7 @@ description: "Experience comes as an integrated whole—unified across features 
 created: 2026-01-21
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-03-23T21:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -62,7 +62,7 @@ Experience flows through time. When you hear a melody, successive notes unify in
 
 ### Subject Unity
 
-All experiences are had by one subject. The visual field, the pain in your knee, the thought you are having—all are experiences *for* a single experiencer. Subject unity is conceptually distinct from both synchronic and diachronic unity. Synchronic unity concerns how features at a moment are bound; subject unity concerns who experiences them. The [[self-and-consciousness|minimal self]]—basic first-person givenness or "for-me-ness"—may be constitutive of subject unity rather than an additional feature added to consciousness. The deeper question of what makes *this* subject a discrete subject at all—why consciousness comes in bounded units—is the [[consciousness-and-the-metaphysics-of-individuation|metaphysics of individuation]].
+All experiences are had by one subject. The visual field, the pain in your knee, the thought you are having—all are experiences *for* a single experiencer. Subject unity is conceptually distinct from both synchronic and diachronic unity. Synchronic unity concerns how features at a moment are bound; subject unity concerns who experiences them. The [[self-and-self-consciousness|minimal self]]—basic first-person givenness or "for-me-ness"—may be constitutive of subject unity rather than an additional feature added to consciousness. The deeper question of what makes *this* subject a discrete subject at all—why consciousness comes in bounded units—is the [[consciousness-and-the-metaphysics-of-individuation|metaphysics of individuation]].
 
 ## Phenomenal Unity and Conjoint Phenomenology
 

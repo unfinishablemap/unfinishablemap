@@ -4,7 +4,7 @@ description: "Buddhism rejects permanent self while affirming irreducible consci
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-03-23T21:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -94,7 +94,7 @@ Despite this compatibility, genuine tensions exist.
 
 **The witness problem**: Buddhist meditation reveals [[witness-consciousness]]—the capacity to observe thoughts as objects without identification. This seems to require an observer distinct from what's observed. Some Buddhist schools (especially Advaita-influenced interpretations) lean toward a persistent witness; mainstream Buddhism denies any observer persists. The Map takes no official position, but the phenomenology of witnessing—consciousness observing its own contents—supports the irreducibility claim.
 
-**Minimal self**: [[self-and-consciousness#Minimal Self and Narrative Self|Phenomenological analysis]] (Zahavi, Gallagher) identifies a "minimal self"—the pre-reflective "for-me-ness" present in all experience. This isn't the narrative self Buddhism deconstructs; it's the structural feature that makes experience first-personal. Buddhism might accept this minimal self exists conventionally while denying it ultimate substantial reality. The Map might accept this compromise—first-personal structure doesn't require permanence.
+**Minimal self**: [[self-and-self-consciousness#Minimal Self and Narrative Self|Phenomenological analysis]] (Zahavi, Gallagher) identifies a "minimal self"—the pre-reflective "for-me-ness" present in all experience. This isn't the narrative self Buddhism deconstructs; it's the structural feature that makes experience first-personal. Buddhism might accept this minimal self exists conventionally while denying it ultimate substantial reality. The Map might accept this compromise—first-personal structure doesn't require permanence.
 
 **Liberation vs. explanation**: Buddhism aims at *nirvana*—cessation of suffering through transformation of consciousness. The Map aims at understanding consciousness's place in nature. These projects can complement but might ultimately diverge. Buddhism might say: "Why explain consciousness when you could transform it?" the Map might respond: "Understanding might inform transformation."
 

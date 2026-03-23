@@ -4,7 +4,7 @@ description: "Why consciousness is confined to a moving present, cannot simultan
 created: 2026-01-21
 modified: 2026-03-17
 human_modified: null
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-03-23T21:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -110,7 +110,7 @@ McTaggart's A-series (past/present/future — dynamic, perspectival) versus B-se
 
 **The memory-anticipation asymmetry**: The pastness quale — the felt sense of having-been-there — has no forward-looking counterpart.
 
-**Self-entanglement**: Dissolving temporal structure may require dissolving the [[self-and-consciousness|self]] that experiences time. The [[absorption-void]] confirms this: peak absorption dissolves both self-monitoring and temporal awareness simultaneously.
+**Self-entanglement**: Dissolving temporal structure may require dissolving the [[self-and-self-consciousness|self]] that experiences time. The [[absorption-void]] confirms this: peak absorption dissolves both self-monitoring and temporal awareness simultaneously.
 
 ## Evidence for the Limit
 

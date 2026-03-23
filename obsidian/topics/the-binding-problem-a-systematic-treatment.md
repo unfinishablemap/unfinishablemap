@@ -4,7 +4,7 @@ description: "A comprehensive taxonomy of binding problems—perceptual, tempora
 created: 2026-02-14
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-03-23T21:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -102,7 +102,7 @@ The most fundamental variety: all experiences are had by a single subject. Your 
 
 **BP1 progress**: Self-referential processing involves midline cortical structures (medial prefrontal cortex, posterior cingulate). The "default mode network" maintains a sense of self across task states. Proprioceptive integration produces a sense of bodily ownership.
 
-**BP2 gap**: Subject binding is arguably the most fundamental variety because it cannot be stated in purely computational terms. The question "why are these experiences all mine?" presupposes a subject for whom the binding obtains. No neural mechanism for self-reference explains why there is a *subject* at all — why there is someone for whom these processes are unified rather than parallel processes with no owner. The [[self-and-consciousness|self]] is not another content that gets bound to other contents; it is the perspective from which binding is experienced.
+**BP2 gap**: Subject binding is arguably the most fundamental variety because it cannot be stated in purely computational terms. The question "why are these experiences all mine?" presupposes a subject for whom the binding obtains. No neural mechanism for self-reference explains why there is a *subject* at all — why there is someone for whom these processes are unified rather than parallel processes with no owner. The [[self-and-self-consciousness|self]] is not another content that gets bound to other contents; it is the perspective from which binding is experienced.
 
 [[split-brain-consciousness|Split-brain cases]] test subject binding directly. When the corpus callosum is severed, perceptual binding partially divides. But does the *subject* divide? Nagel argued the result is "too much unity to say 'two', yet too much separation to say 'one'." Phenomenal unity proves more resilient than neural connectivity alone would predict — pointing toward binding mechanisms that transcend local neural correlation.
 

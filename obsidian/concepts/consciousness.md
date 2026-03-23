@@ -4,7 +4,7 @@ description: "Consciousness is what it is like to be something—the subjective 
 created: 2026-01-24
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-03-23T21:43:00+00:00
 last_deep_review: 2026-03-23T06:41:00+00:00
 draft: false
 topics:
@@ -157,7 +157,7 @@ Consciousness varies along multiple dimensions:
 
 ## Consciousness and the Self {#self}
 
-Consciousness and [[self-and-consciousness|selfhood]] are intimately connected. Consciousness seems to be *for* someone—there is a subject who experiences. But what is this subject?
+Consciousness and [[self-and-self-consciousness|selfhood]] are intimately connected. Consciousness seems to be *for* someone—there is a subject who experiences. But what is this subject?
 
 The Map notes several views:
 - The self as substantial soul (Cartesian dualism)

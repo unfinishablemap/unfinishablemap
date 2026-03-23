@@ -4,7 +4,7 @@ description: "Episodic memory is constructive re-experiencing, not data retrieva
 created: 2026-01-17
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-03-23T21:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -149,7 +149,7 @@ Autonoetic consciousness requires [[working-memory|working memory]] as its opera
 
 ## Episodic Memory and Personal Identity
 
-The connection between memory and [[personal-identity|personal identity]] has been debated since Locke. If memories are constructive reconstructions, does this undermine memory-based identity? Two responses: (1) identity requires continuity of memory processes, not veridical content; (2) identity may lie in the [[self-and-consciousness|minimal self]] that structures all autonoetic experience—the same "I" inhabiting both present experience and reconstructed memories.
+The connection between memory and [[personal-identity|personal identity]] has been debated since Locke. If memories are constructive reconstructions, does this undermine memory-based identity? Two responses: (1) identity requires continuity of memory processes, not veridical content; (2) identity may lie in the [[self-and-self-consciousness|minimal self]] that structures all autonoetic experience—the same "I" inhabiting both present experience and reconstructed memories.
 
 The capacity for mental time travel constitutes the *extended self*. Patient KC, without mental time travel, was confined to the present moment—unable to re-inhabit his past or project into his future. This suggests the extended self isn't merely useful but constitutive of personhood.
 

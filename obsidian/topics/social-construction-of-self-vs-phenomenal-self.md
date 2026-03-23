@@ -4,7 +4,7 @@ description: "Two accounts of selfhood compete: social construction (self as cul
 created: 2026-02-12
 modified: 2026-02-16
 human_modified:
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-03-23T21:43:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -56,7 +56,7 @@ The strong constructionist claim goes further: there is no self prior to or inde
 
 ## The Phenomenal Self: What Construction Requires
 
-The phenomenal self is the experiential subject—[[self-and-consciousness|the "for-me-ness"]] that makes any experience belong to someone rather than no one. It is what Zahavi calls "first-personal givenness": the structural feature of consciousness whereby every experience comes already marked as mine.
+The phenomenal self is the experiential subject—[[self-and-self-consciousness|the "for-me-ness"]] that makes any experience belong to someone rather than no one. It is what Zahavi calls "first-personal givenness": the structural feature of consciousness whereby every experience comes already marked as mine.
 
 The phenomenal self has features that resist social construction:
 

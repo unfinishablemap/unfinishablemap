@@ -4,7 +4,7 @@ description: "Working memory manipulation requires consciousness while maintenan
 created: 2026-01-17
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-23T21:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -146,7 +146,7 @@ Some clarifications:
 
 **WM is not consciousness.** WM contents correlate with consciousness, but having something in WM isn't identical to being conscious of it (as activity-silent maintenance shows). Consciousness includes qualia, temporal extension, and phenomenal unity that WM models don't explain.
 
-**WM is not the self.** Though WM manipulation connects to agency and executive function, the self extends beyond what's currently in WM. Narrative identity, autobiographical memory, and the [[self-and-consciousness|minimal self]] all transcend WM's brief temporal window.
+**WM is not the self.** Though WM manipulation connects to agency and executive function, the self extends beyond what's currently in WM. Narrative identity, autobiographical memory, and the [[self-and-self-consciousness|minimal self]] all transcend WM's brief temporal window.
 
 **WM capacity doesn't measure consciousness.** Individual differences in WM capacity don't imply differences in consciousness quality or intensity. Capacity limits may reflect neural implementation, not consciousness itself. The [[phenomenal-overflow]] debate—whether conscious experience exceeds what WM can access—reinforces this distinction.
 

@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update ~20 stale wikilinks: self-and-consciousness → self-and-self-consciousness
-- **Type**: cross-review
-- **Notes**: Coalesce merged self-and-consciousness.md + self-consciousness.md into self-and-self-consciousness.md, but ~20 active content files still reference the old `[[self-and-consciousness]]` or `[[self-and-consciousness|...]]` slug. Files include personal-identity.md, consciousness-and-memory.md, social-construction-of-self-vs-phenomenal-self.md, phenomenology.md, unity-of-consciousness.md, and others. Update all wikilinks to point to `[[self-and-self-consciousness]]` preserving display text.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-23
-
-### P2: Cross-review articles considering adaptive-cognitive-limits.md
-- **Type**: cross-review
-- **Notes**: New concept page concepts/adaptive-cognitive-limits.md created 2026-03-23 via expand-topic. Review related articles for cross-linking opportunities and consistency: compound-cognitive-limits.md, biological-cognitive-closure.md, taxonomy-of-voids.md, cognitive-closure.md, epistemology-of-limit-knowledge.md. Check for reinforcing arguments, contradictions, or terminology inconsistencies.
-- **Source**: chain (from adaptive-cognitive-limits.md)
-- **Generated**: 2026-03-23
-
 ### P2: Cross-review articles considering perceptual-degradation-and-the-interface.md
 - **Type**: cross-review
 - **Notes**: New concept page concepts/perceptual-degradation-and-the-interface.md created 2026-03-23 via expand-topic. Review related articles for cross-linking: perception.md, selective-correction-and-reconstruction-paradox.md, perceptual-fidelity-and-the-interface.md, filter-theory.md, sensorimotor-contingencies-and-the-interface.md. Add [[perceptual-degradation-and-the-interface]] references where relevant.
@@ -1275,6 +1263,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Update ~20 stale wikilinks: self-and-consciousness → self-and-self-consciousness
+- **Type**: cross-review
+- **Notes**: Coalesce merged self-and-consciousness.md + self-consciousness.md into self-and-self-consciousness.md, but ~20 active content files still reference the old `[[self-and-consciousness]]` or `[[self-and-consciousness|...]]` slug. Files include personal-identity.md, consciousness-and-memory.md, social-construction-of-self-vs-phenomenal-self.md, phenomenology.md, unity-of-consciousness.md, and others. Update all wikilinks to point to `[[self-and-self-consciousness]]` preserving display text.
+- **Output**: None -- Context: Update ~20 stale wikilinks: self-and-consciousness → self-and-self-consciousness
+
+### ✓ 2026-03-23: Update ~20 stale wikilinks: self-and-consciousness → self-and-self-consciousness
+- **Type**: cross-review
+- **Output**: 19 files updated (10 topics, 8 concepts, 1 void)
+- **Notes**: Replaced all `[[self-and-consciousness` → `[[self-and-self-consciousness` across active content. Display text preserved. Reviews and research notes left as historical records.
 
 ### ✓ 2026-03-23: Condense self-and-self-consciousness.md (3568 words, 143% of target)
 - **Type**: condense
