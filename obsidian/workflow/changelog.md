@@ -5,6 +5,13 @@ ai_modified: 2026-03-23T12:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 13:08 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Perception
+- **Output**: [[concepts/perception]]
+- **Word count**: 1294
+- **Based on research**: No (general knowledge; tangential time-perception research existed but this is a general concept page)
+
 ## 2026-03-23 12:53 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/philosophy-of-mind]]
