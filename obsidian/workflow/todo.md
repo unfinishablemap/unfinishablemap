@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for self-reference-paradox
-- **Type**: expand-topic
-- **Notes**: Referenced by 110 wikilinks across the site but has no dedicated page. Self-reference paradox is a core concept for the Map's arguments about consciousness and the limits of physical description. Target section: concepts/ (223/230, 7 slots remaining). Directly supports Tenet 5 (Occam's Razor Has Limits).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-23
-
 ### P2: Integrate many-worlds-argument.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File in arguments/ has no inbound links. Add cross-references from related articles (e.g., many-worlds-interpretation, quantum-mechanics-and-consciousness, no-many-worlds tenet articles) or update section index pages to include navigation to this content.
@@ -1227,6 +1221,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Create concept page for self-reference-paradox
+- **Type**: expand-topic
+- **Notes**: Referenced by 110 wikilinks across the site but has no dedicated page. Self-reference paradox is a core concept for the Map's arguments about consciousness and the limits of physical description. Target section: concepts/ (223/230, 7 slots remaining). Directly supports Tenet 5 (Occam's Razor Has Limits).
+- **Output**: Create concept page for self-reference-paradox
 
 ### ✓ 2026-03-23: Address circular fitness argument and unsupported claims in evolution-under-dualism.md
 - **Type**: refine-draft

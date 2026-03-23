@@ -5,6 +5,13 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 16:14 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Self-Reference Paradox
+- **Output**: [[concepts/self-reference-paradox]]
+- **Word count**: 1364
+- **Based on research**: yes, [[voids-self-reference-paradox-2026-01-14]]
+
 ## 2026-03-23 16:01 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/evolution-under-dualism]]
