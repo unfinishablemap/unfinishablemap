@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review consciousness-and-skill-acquisition.md
-- **Type**: deep-review
-- **Notes**: Article was condensed on 2026-03-23 from 4151 to ~2676 words. Post-condensation review needed to verify the condensed version preserved core arguments, maintained coherent cross-references, and didn't introduce logical gaps. Check tenet alignment and accuracy of claims about skill acquisition under dualism.
-- **Source**: chain (from condense)
-- **Generated**: 2026-03-23
-
 ### P3: Deep review consciousness-and-intersubjectivity.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-21 via expand-topic, never reviewed. Topics article on how one consciousness encounters another — empathy, theory of mind, linguistic community under dualism. Verify coherence, accuracy of philosophical claims, cross-references to social-construction-of-self-vs-phenomenal-self and other-minds-void, and tenet alignment.
@@ -1197,6 +1191,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Deep review consciousness-and-skill-acquisition.md
+- **Type**: deep-review
+- **Notes**: Article was condensed on 2026-03-23 from 4151 to ~2676 words. Post-condensation review needed to verify the condensed version preserved core arguments, maintained coherent cross-references, and didn't introduce logical gaps. Check tenet alignment and accuracy of claims about skill acquisition under dualism.
+- **Output**: obsidian/topics/consciousness-and-skill-acquisition.md
 
 ### ✓ 2026-03-23: Integrate disorders-of-consciousness-as-test-cases.md into site navigation (persistent orphan)
 - **Type**: integrate-orphan

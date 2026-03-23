@@ -1,10 +1,10 @@
 ---
 title: "Consciousness and Skill Acquisition"
-description: "Skill acquisition constrains theories of consciousness—deliberate practice, flow, and skill restructuring show that the mode of engagement matters to outcomes, challenging epiphenomenalism while leaving the interactionism-identity debate open."
+description: "Skill acquisition challenges epiphenomenalism—deliberate practice, flow, and skill restructuring show that how consciousness engages shapes outcomes."
 created: 2026-02-02
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-03-23T02:36:00+00:00
+ai_modified: 2026-03-23T04:51:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -64,7 +64,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-03-19T23:17:00+00:00
+last_deep_review: 2026-03-23T04:51:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-skilled-performance/"
   - "/topics/consciousness-and-the-neuroscience-of-deliberate-practice/"
@@ -181,10 +181,8 @@ The strongest physicalist counterargument is that executive attention networks e
 1. Dietrich, A. (2004). Neurocognitive mechanisms underlying the experience of flow. *Consciousness and Cognition*, 13(4), 746-761.
 1. Dreyfus, H., & Dreyfus, S. (1986). *Mind Over Machine: The Power of Human Intuition and Expertise in the Era of the Computer*. Free Press.
 1. Ericsson, K.A., Krampe, R.T., & Tesch-Römer, C. (1993). The Role of Deliberate Practice in the Acquisition of Expert Performance. *Psychological Review*, 100(3), 363-406.
-1. Fields, R.D. (2008). White Matter Matters. *Scientific American*, 298(3), 42-49.
 1. Fischer, S. et al. (2002). Sleep forms memory for finger skills. *Proceedings of the National Academy of Sciences*, 99(18), 11987-11991.
 1. Fitts, P., & Posner, M. (1967). *Human Performance*. Brooks/Cole.
-1. Grafton, S.T. et al. (2008). Neural substrates of visuomotor learning based on improved feedback control and prediction. *NeuroImage*, 39(3), 1383-1395.
 1. Head, H., & Holmes, G. (1911). Sensory disturbances from cerebral lesions. *Brain*, 34(2-3), 102-254.
 1. Iriki, A., Tanaka, M., & Iwamura, Y. (1996). Coding of modified body schema during tool use by macaque postcentral neurones. *NeuroReport*, 7(14), 2325-2330.
 1. Macnamara, B.N., Hambrick, D.Z., & Oswald, F.L. (2014). Deliberate Practice and Performance in Music, Games, Sports, Education, and Professions: A Meta-Analysis. *Psychological Science*, 25(8), 1608-1618.
@@ -194,6 +192,5 @@ The strongest physicalist counterargument is that executive attention networks e
 1. Poldrack, R.A. et al. (2001). Interactive memory systems in the human brain. *Nature*, 414, 546-550.
 1. Robertson, E.M., Pascual-Leone, A. & Press, D.Z. (2004). Awareness modifies the skill-learning benefits of sleep. *Current Biology*, 14(3), 208-212.
 1. Walker, M.P. et al. (2002). Practice with sleep makes perfect. *Neuron*, 35(1), 205-211.
-1. Walker, M.P. & Stickgold, R. (2006). Sleep, memory, and plasticity. *Annual Review of Psychology*, 57, 139-166.
 1. Wolpert, D.M. & Flanagan, J.R. (2001). Motor prediction. *Current Biology*, 11(18), R729-R732.
 1. Zatorre, R.J., Chen, J.L. & Penhune, V.B. (2007). When the brain plays music. *Nature Reviews Neuroscience*, 8(7), 547-558.
