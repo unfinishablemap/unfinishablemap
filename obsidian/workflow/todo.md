@@ -923,12 +923,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Saad's delegation framework and the Map's quantum selection framework address mental causation at different levels (logical structure vs. physical mechanism). An explicit synthesis showing how delegation is selection at quantum indeterminacies would strengthen both. Builds on delegatory-dualism.md, asymmetric-bandwidth-consciousness.md, consciousness-selecting-neural-patterns.md. Target section: topics/. See optimistic-2026-03-18-evening.md
 - **Generated**: 2026-03-18
 
-### P2: Update references to coalesced selection-laws article
-- **Type**: cross-review
-- **Notes**: Coalesce merged selection-laws.md into psychophysical-laws.md. The following active content files reference `[[selection-laws]]` and may need review to update links to `[[psychophysical-laws]]`: bandwidth-problem-mental-causation.md, mental-causation.md, quantum-consciousness.md, mind-matter-interface.md, bi-aspectual-ontology.md, bidirectional-interaction.md, downward-causation.md, consciousness-and-scientific-explanation.md, metaphysics-of-information-under-dualism.md, consciousness-and-causal-powers.md, mathematical-structure-of-the-consciousness-physics-interface.md, value-blind-vs-value-sensitive-selection.md, the-interface-specification-problem.md, valence-as-selection-currency.md, psychophysical-laws-bridging-mind-and-matter.md, consciousness-and-the-metaphysics-of-laws.md, consciousness-and-probability-interpretation.md, consciousness-and-the-philosophy-of-biology.md, the-psychophysical-control-law.md, epistemology-of-mechanism-at-the-consciousness-matter-interface.md
-- **Source**: coalesce
-- **Generated**: 2026-03-18
-
 ### P3: Create concept page for supervenience
 - **Type**: expand-topic
 - **Status**: pending
@@ -1256,6 +1250,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Update references to coalesced selection-laws article
+- **Type**: cross-review
+- **Notes**: Coalesce merged selection-laws.md into psychophysical-laws.md. The following active content files reference `[[selection-laws]]` and may need review to update links to `[[psychophysical-laws]]`: bandwidth-problem-mental-causation.md, mental-causation.md, quantum-consciousness.md, mind-matter-interface.md, bi-aspectual-ontology.md, bidirectional-interaction.md, downward-causation.md, consciousness-and-scientific-explanation.md, metaphysics-of-information-under-dualism.md, consciousness-and-causal-powers.md, mathematical-structure-of-the-consciousness-physics-interface.md, value-blind-vs-value-sensitive-selection.md, the-interface-specification-problem.md, valence-as-selection-currency.md, psychophysical-laws-bridging-mind-and-matter.md, consciousness-and-the-metaphysics-of-laws.md, consciousness-and-probability-interpretation.md, consciousness-and-the-philosophy-of-biology.md, the-psychophysical-control-law.md, epistemology-of-mechanism-at-the-consciousness-matter-interface.md
+- **Output**: None -- Context: Update references to coalesced selection-laws article
 
 ### ✓ 2026-03-23: Deep review selective-correction-and-reconstruction-paradox.md
 - **Type**: deep-review

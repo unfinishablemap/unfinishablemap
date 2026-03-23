@@ -4,7 +4,7 @@ description: "Why, of all conscious beings, am *I* this one? The vertiginous que
 created: 2026-01-26
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-03-23T22:49:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,6 +18,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[moral-responsibility]]"
   - "[[process-haecceitism]]"
+  - "[[indexical-knowledge-and-identity]]"
 related_articles:
   - "[[tenets]]"
   - "[[indexical-identity-quantum-measurement]]"
@@ -26,7 +27,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-26
 last_curated:
-last_deep_review: 2026-02-25T06:12:00+00:00
+last_deep_review: 2026-03-23T22:49:00+00:00
 ---
 
 Why, of all the conscious beings that exist, am *I* this one? The philosopher Benj Hellie named this "the vertiginous question"—vertiginous because contemplating it induces a kind of philosophical vertigo, a dizzying sense that something fundamental about existence resists explanation. This question is distinct from the [[hard-problem-of-consciousness|hard problem]] (why is there consciousness at all?) and from the problem of [[personal-identity]] over time (what makes me the same person I was yesterday?). The vertiginous question asks something more basic: why does *this* particular locus of experience exist, and why is it the one whose experiences I am living?
@@ -157,5 +158,5 @@ The vertiginous question connects to all five tenets:
 1. Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Philosophy*, 76(1), 5-26.
 1. Hellie, B. (2013). "Against Egalitarianism." *Analysis*, 73(2), 304-320.
 1. List, C. (2023). "The Many-Worlds Theory of Consciousness." *Noûs*, 57(2), 316-340.
-1. Roberts, T. S. (2017). "The Even Harder Problem of Consciousness."
+1. Roberts, T. S. (2007). "The Even Harder Problem of Consciousness." *NeuroQuantology*, 5(2), 214-221.
 1. Scotus, J. D. *Ordinatio* II, d.3. (c. 1300).
