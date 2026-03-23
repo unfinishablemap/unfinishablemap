@@ -4,7 +4,7 @@ description: "Walking away from a problem sometimes helps solve it. The incubati
 created: 2026-02-10
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-03-22T19:46:00+00:00
+ai_modified: 2026-03-23T02:21:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -140,6 +140,7 @@ The Map's interpretation of incubation would face difficulty if:
 - [[hypnagogic-phenomenology-and-interface-modulation]] — The phenomenology of sleep-onset consciousness and its creative potential
 - [[attention-as-interface]] — How attention mediates the consciousness-brain interface
 - [[mathematical-knowledge-and-insight]] — The phenomenology of mathematical insight, including Poincaré's incubation reports
+- [[temporal-structure-of-understanding]] — How incubation-insight patterns reveal the temporal phenomenology of understanding
 
 ## References
 

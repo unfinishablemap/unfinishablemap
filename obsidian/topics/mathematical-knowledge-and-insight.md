@@ -4,7 +4,7 @@ description: "How we access mathematical truth and what that access feels like�
 created: 2026-02-08
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-23T02:21:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -147,6 +147,7 @@ These limits are themselves informative. They suggest consciousness accesses mat
 - [[cognitive-phenomenology]] — The case for phenomenal character in thinking
 - [[aesthetics-and-consciousness]] — Aesthetic experience, including mathematical beauty, as evidence for irreducible consciousness
 - [[phenomenology-of-understanding-and-meaning]] — The felt difference between verification and comprehension
+- [[temporal-structure-of-understanding]] — How the "click" of comprehension has constitutive temporal structure
 - [[phenomenology-of-creative-insight]] — The general phenomenology of creative insight across domains
 - [[consciousness-as-amplifier]] — Why understanding may require phenomenal awareness
 

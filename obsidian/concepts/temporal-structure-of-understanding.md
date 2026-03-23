@@ -4,7 +4,7 @@ description: "The click of comprehension has temporal phenomenology: suddenness,
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-23T02:21:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,7 @@ concepts:
   - "[[agent-causation]]"
   - "[[unity-of-consciousness]]"
   - "[[binding-problem]]"
+  - "[[process-philosophy]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-mathematical-cognition]]"
@@ -33,7 +34,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
 last_curated: null
-last_deep_review: 2026-02-25T03:08:00+00:00
+last_deep_review: 2026-03-23T02:21:00+00:00
 ---
 
 Understanding unfolds in time. The "click" when a proof resolves, the gradual emergence of meaning as a complex sentence is parsed, the sudden insight after incubation—all have distinctive temporal phenomenology. This temporal structure is not incidental to understanding but may be constitutive of it. If understanding has a characteristic temporal shape, and if that shape requires phenomenal consciousness, then systems lacking temporal phenomenology may manipulate symbols without genuinely understanding them.
@@ -138,7 +139,7 @@ These contemplative reports align with the claim that understanding has irreduci
 
 ## Process Philosophy Perspective
 
-Alfred North Whitehead's [[temporal-consciousness|process philosophy]] offers a framework for understanding's temporal structure. For Whitehead, experience consists of "actual occasions"—moments of experience that arise, achieve satisfaction, and perish. Each occasion prehends (grasps, integrates) the outcomes of previous occasions.
+Alfred North Whitehead's [[process-philosophy|process philosophy]] offers a framework for understanding's temporal structure. For Whitehead, experience consists of "actual occasions"—moments of experience that arise, achieve satisfaction, and perish. Each occasion prehends (grasps, integrates) the outcomes of previous occasions.
 
 Understanding, on this view, involves a sequence of occasions of increasing complexity. Early occasions prehend the elements to be understood. Later occasions prehend these earlier prehensions plus the relationships emerging between them. The click of understanding would be an occasion that successfully integrates—prehends as unified—what previous occasions held separately.
 
