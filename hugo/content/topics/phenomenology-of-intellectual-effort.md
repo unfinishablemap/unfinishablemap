@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-03-17 20:01:00+00:00
+ai_modified: 2026-03-23 02:21:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -73,7 +73,7 @@ Intellectual work has at least two qualitatively distinct modes:
 
 **The slog.** Most reasoning is effortful traversal. You work through the argument step by step, each step requiring attention and verification. Progress is gradual; understanding accretes. The phenomenology is of labour—satisfying when successful, frustrating when blocked.
 
-**The aha.** Sometimes understanding arrives suddenly and complete. The [insight experience](/concepts/epistemic-emotions/) involves discontinuity: before you didn't see it; now you do. The phenomenology is of revelation rather than construction. The [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) analyses this mode alongside gradual comprehension, showing both have irreducible phenomenal character.
+**The aha.** Sometimes understanding arrives suddenly and complete. The [insight experience](/concepts/epistemic-emotions/) involves discontinuity: before you didn't see it; now you do. The phenomenology is of revelation rather than construction. The [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) analyses this mode alongside gradual comprehension, showing both have irreducible phenomenal character. The [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) examines how these modes—sudden click versus gradual accumulation—have distinctive temporal phenomenology that may require consciousness.
 
 These modes differ phenomenologically, but both involve intellectual effort. The slog's effort is obvious—the sustained work of inference. The aha's effort is less obvious but present: the preparation that precedes insight, the cognitive struggling that sets up the sudden resolution. Insights don't come from nowhere; they come from effortful engagement that creates conditions for discontinuous understanding.
 

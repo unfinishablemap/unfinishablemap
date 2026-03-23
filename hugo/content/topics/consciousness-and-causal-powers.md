@@ -5,6 +5,7 @@ ai_modified: 2026-03-20 17:19:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
+- '[[concept-of-free-will]]'
 - '[[mental-causation]]'
 - '[[downward-causation]]'
 - '[[interactionist-dualism]]'

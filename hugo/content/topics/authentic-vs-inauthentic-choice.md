@@ -5,6 +5,7 @@ ai_modified: 2026-03-12 00:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
+- '[[concept-of-free-will]]'
 - '[[existentialism]]'
 - '[[phenomenology-of-choice]]'
 - '[[agent-causation]]'

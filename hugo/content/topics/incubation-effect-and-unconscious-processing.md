@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-03-22 19:46:00+00:00
+ai_modified: 2026-03-23 02:21:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -143,6 +143,7 @@ The Map's interpretation of incubation would face difficulty if:
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) — The phenomenology of sleep-onset consciousness and its creative potential
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates the consciousness-brain interface
 - [mathematical-knowledge-and-insight](/topics/mathematical-knowledge-and-insight/) — The phenomenology of mathematical insight, including Poincaré's incubation reports
+- [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — How incubation-insight patterns reveal the temporal phenomenology of understanding
 
 ## References
 

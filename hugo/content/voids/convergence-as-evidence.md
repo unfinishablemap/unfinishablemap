@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-03-22 23:34:00+00:00
+ai_modified: 2026-03-23 02:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -93,7 +93,7 @@ These shared boundaries mean that progress on one void potentially shifts the bo
 
 The most striking structural feature: all five families converge directionally on the consciousness-physics interface. The phenomenal core asks what consciousness *is*. The self-knowledge cluster asks why consciousness cannot examine itself. The intersubjectivity gap asks why consciousness is private. The cognitive architecture family asks why *these particular* minds fail at *these particular* questions. The framework reflexivity family asks whether any framework built by conscious minds can fully account for consciousness.
 
-Each family approaches from a different direction, employs different methods, and produces different failure signatures. Yet they all arrive at the same territory: the junction where subjective experience meets objective description. Independent paths producing convergent results is, in scientific practice, among the strongest forms of evidence.
+Each family approaches from a different direction, employs different methods, and produces different failure signatures. Yet they all arrive at the same territory: the junction where subjective experience meets objective description. Independent paths producing convergent results is, in scientific practice, among the strongest forms of evidence. The [epistemology of limit-knowledge](/concepts/epistemology-of-limit-knowledge/) identifies this convergence method as one of four distinct epistemic routes to warranted beliefs about cognitive boundaries, producing what it calls *triangulation knowledge*.
 
 ### Non-Convergent Outliers
 
@@ -185,6 +185,7 @@ The convergence analysis connects to each of the Map's [tenets](/tenets/).
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — Whether we can assess our own cognitive limits
 - [recognition-void](/voids/recognition-void/) — Inventory blindness strengthens the convergence argument: absent capabilities produce no signal
 - [questioning-as-evidence](/voids/questioning-as-evidence/) — The capacity to conceive of limits is itself evidential
+- [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) — The systematic epistemology underlying the four methods that produce warranted limit-knowledge
 
 ## References
 

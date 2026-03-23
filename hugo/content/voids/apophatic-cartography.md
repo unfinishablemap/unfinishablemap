@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-10
-ai_modified: 2026-03-19 02:21:06+00:00
+ai_modified: 2026-03-23 02:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -64,7 +64,7 @@ This aligns with Chomsky's distinction between "problems" (questions our minds a
 
 ## Four Criteria for Boundary Evidence
 
-Traditions demonstrate that negation can be productive, and the failure taxonomy shows that different limits produce different breakdown patterns. But raw materials are not a method. Void-mapping requires explicit evidential standards for when cognitive failure counts as data about genuine boundaries.
+Traditions demonstrate that negation can be productive, and the failure taxonomy shows that different limits produce different breakdown patterns. But raw materials are not a method. Void-mapping requires explicit evidential standards for when cognitive failure counts as data about genuine boundaries. The [epistemology of limit-knowledge](/concepts/epistemology-of-limit-knowledge/) provides the broader framework: apophatic reasoning is one of four distinct epistemic methods for generating warranted beliefs about cognitive boundaries, producing *contour knowledge* through eliminative inference.
 
 ### Structured Persistence
 
@@ -181,6 +181,7 @@ Apophatic cartography connects to the Map's [tenets](/tenets/) by providing the 
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — Formal framework for reasoning about limits
 - [AI as Void Explorer](/voids/ai-as-void-explorer/) — Using artificial minds as cartographic instruments
 - [The Silence Void](/voids/the-silence-void/) — Where even negation must cease
+- [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) — The systematic epistemology underlying all four methods that produce warranted limit-knowledge
 - [Illusionism](/concepts/illusionism/) — The radical challenge that phenomenal consciousness doesn't exist
 - [Introspection and First-Person Methods](/concepts/introspection/) — The reliability of phenomenal access
 - [Decoherence and Quantum Biology](/concepts/decoherence/) — How quantum effects might survive in biological systems

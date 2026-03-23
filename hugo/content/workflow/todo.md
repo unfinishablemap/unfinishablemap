@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-22 23:50:00+00:00
+ai_modified: 2026-03-23 05:07:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,23 +38,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate inventory-blindness.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-22 via expand-topic. Add cross-references from related articles such as architecture-of-cognitive-closure.md, parsimony-epistemology.md, three-kinds-of-void.md, or phenomenology-of-the-edge.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-22
+### P2: Write article on quantum biology in neural systems
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-biology-neural-experimental-2026-03-20.md. Recent (2025-2026) experimental evidence for quantum effects in biological neural systems. Provides empirical foundation for Tenet 2 claims about quantum processes in brains. Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-23
 
-### P2: Integrate epistemology-of-limit-knowledge.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-22 via expand-topic. Add cross-references from related articles such as meta-epistemology-of-limits.md, convergence-as-evidence.md, compound-failure-signatures.md, or apophatic-approaches.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-22
+### P2: Cross-review void articles considering dimensionality void insights
+- **Type**: cross-review
+- **Notes**: New article voids/dimensionality-void.md created 2026-03-23 via expand-topic. Review related void articles (taxonomy-of-voids, compound-cognitive-limits, mathematical-void, mind-space-void) for cross-links and consistency with this new void type about the limits of conscious spatial representation.
+- **Source**: chain (from dimensionality-void.md)
+- **Generated**: 2026-03-23
 
-### P2: Condense consciousness-and-skill-acquisition.md (4151 words, 104% of hard threshold)
+### P2: Integrate consciousness-and-skill-acquisition.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on how skill acquisition reveals the consciousness-brain interface through shifting phenomenology across expertise stages. Add cross-references from related articles (choking-phenomenon-mental-causation, attention-and-the-consciousness-interface, phenomenology-of-agency-vs-passivity) or update section index pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-23
+
+### P2: Condense anaesthesia-and-the-consciousness-interface.md (4001 words, 114% of hard threshold)
 - **Type**: condense
-- **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve core arguments about skill acquisition under dualism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Notes**: Article exceeds 3500-word hard threshold for topics/. Preserve core arguments about anaesthetic mechanisms as evidence for the consciousness-brain interface while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
 - **Source**: length_analysis
-- **Generated**: 2026-03-22
+- **Generated**: 2026-03-23
 
 ### P3: Deep review consciousness-and-intersubjectivity.md
 - **Type**: deep-review
@@ -1178,8 +1184,91 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Six cross-linking opportunities identified: consciousness-and-creative-distinctiveness→contemplative-practice, consciousness-and-language-interface→contemplative-practice, dream-consciousness→aesthetics-and-consciousness, binding-problem→perceptual-reconstruction-paradox, death-and-consciousness→contemplative-practice, consciousness-and-skill-acquisition→attention-as-interface. See optimistic-2026-03-22-evening.md
 - **Generated**: 2026-03-22
 
+### P3: Write article on epistemology of philosophical disagreement under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map argues for convergence across traditions, but the philosophy of disagreement literature (Christensen, Feldman, Kelly) asks what persistent peer disagreement means for rational confidence. Would strengthen convergence arguments by engaging this challenge directly. Target section: topics/. See optimistic-2026-03-23.md
+- **Generated**: 2026-03-23
+
+### P3: Write article on consciousness and emotional phenomenology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Strong cognitive phenomenology coverage (deliberation, understanding, attention) but thin emotional phenomenology. What it is like to feel anger, grief, joy, awe — emotions present distinctive challenges for physicalism and opportunities for the selection framework. Target section: topics/. See optimistic-2026-03-23.md
+- **Generated**: 2026-03-23
+
+### P3: Write article on philosophy of habit under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Habit formation marks where consciousness withdraws from direct control — the interface delegates. Ravaisson, Dewey, Carlisle, Malafouris offer untapped resources. Builds on consciousness-and-skill-acquisition, skill-delegation, attention-as-interface. Target section: topics/. See optimistic-2026-03-23.md
+- **Generated**: 2026-03-23
+
+### P3: Create concept page for interface bandwidth
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (also noted in previous review). The ~10 bits/second constraint on conscious influence appears across attention-as-interface, bandwidth-of-consciousness, and resolution-bandwidth-interface without a dedicated concept page. Target section: concepts/. See optimistic-2026-03-23.md
+- **Generated**: 2026-03-23
+
+### P3: Add cross-links from optimistic review 2026-03-23 findings
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Six cross-linking opportunities identified: inventory-blindness→dimensionality-void, epistemology-of-limit-knowledge→contemplative-practice, perceptual-reconstruction-paradox→consciousness-and-skill-acquisition, emergence-as-universal-hard-problem→the-convergence-argument-for-dualism, self-stultification-as-master-argument→consciousness-and-testimony, dimensionality-void→phenomenology-of-cognitive-limit-types. See optimistic-2026-03-23.md
+- **Generated**: 2026-03-23
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Write article on experimental tests distinguishing consciousness-collapse from decoherence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Synthesize experimental paradigms that could distinguish consciousness-dependent collapse from decoherence-only interpretations. Directly supports Tenet 2 (Minimal Quantum Interaction) with empirical grounding. Target section: topics/.
+- **Output**: experimental tests distinguishing consciousness-collapse from decoherence
+
+### ✓ 2026-03-23: Deep review consciousness-and-skill-acquisition.md
+- **Type**: deep-review
+- **Notes**: Article was condensed on 2026-03-23 from 4151 to ~2676 words. Post-condensation review needed to verify the condensed version preserved core arguments, maintained coherent cross-references, and didn't introduce logical gaps. Check tenet alignment and accuracy of claims about skill acquisition under dualism.
+- **Output**: obsidian/topics/consciousness-and-skill-acquisition.md
+
+### ✓ 2026-03-23: Integrate disorders-of-consciousness-as-test-cases.md into site navigation (persistent orphan)
+- **Type**: integrate-orphan
+- **Notes**: File still has no inbound links despite prior integration attempt (2026-02-22). Important empirical evidence article — disorders of consciousness (vegetative states, locked-in syndrome, dissociative conditions) test the Map's dualist framework. Needs cross-references from consciousness.md, filter-theory.md, hard-problem-of-consciousness.md, neural-correlates-of-consciousness.md, clinical-neuroplasticity-evidence.md, and phenomenological-psychiatry articles.
+- **Output**: obsidian/topics/disorders-of-consciousness-as-test-cases.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-23: Integrate the-participatory-universe.md into site navigation (persistent orphan)
+- **Type**: integrate-orphan
+- **Notes**: File still has no inbound links despite prior integration attempt (2026-02-22). Wheeler's participatory universe is directly relevant to the Map's consciousness-collapse framework and Tenet 2. Needs cross-references from quantum-consciousness.md, observer-dependence.md, measurement-problem.md, collapse-interpretation articles, and the reverse-inference apex. Verify existing links weren't broken by coalescing.
+- **Output**: obsidian/topics/the-participatory-universe.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-23: Integrate concept-of-free-will.md into site navigation (persistent orphan)
+- **Type**: integrate-orphan
+- **Notes**: File still has no inbound links despite prior integration attempt (2026-02-22). Core concept page for the Map — free will is central to Tenet 3 (Bidirectional Interaction). Needs aggressive cross-referencing: ensure free-will.md, agent-causation.md, moral-responsibility.md, libertarian-free-will.md, phenomenology-of-volition.md, and deliberation articles all link to this concept page. Check that wikilinks use the correct slug.
+- **Output**: obsidian/concepts/concept-of-free-will.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-23: Strengthen convergence argument and address sociological framing in arguments-against-materialism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found: (1) The convergence argument doesn't defend against the shared-methodology objection (High). (2) Sociological explanation of materialism's persistence risks ad hominem—needs genuine philosophical strengths of materialism acknowledged first (Medium). (3) Terminal lucidity cited as empirical support without sufficient caveats (Medium). See pessimistic-2026-03-23.md
+- **Output**: obsidian/topics/arguments-against-materialism.md
+
+Task context:
+Pessimistic review found: (1) The convergence argument doesn't defend against the shared-methodology objection (High). (2) Sociological explanation of materialism's persistence risks ad hominem—needs genuine philosophical strengths of materialism acknowledged first (Medium). (3) Terminal lucidity cited as empirical support without sufficient caveats (Medium). See pessimistic-2026-03-23.md
+
+### ✓ 2026-03-23: Write voids article on the dimensionality void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-dimensionality-void-2026-03-23.md. The dimensionality void concerns whether consciousness has spatial or quasi-spatial dimensions that we cannot access or represent. Connects to mind-space-void, scale-void, architecture-of-cognitive-closure, and intrinsic-nature-void. Last remaining slot in voids section (99/100). Target section: voids/.
+- **Output**: Write voids article on the dimensionality void
+
+### ✓ 2026-03-23: Condense consciousness-and-skill-acquisition.md (4151 words, 104% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve core arguments about skill acquisition under dualism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/topics/consciousness-and-skill-acquisition.md
+
+### ✓ 2026-03-23: Integrate epistemology-of-limit-knowledge.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-22 via expand-topic. Add cross-references from related articles such as meta-epistemology-of-limits.md, convergence-as-evidence.md, compound-failure-signatures.md, or apophatic-approaches.md.
+- **Output**: obsidian/concepts/epistemology-of-limit-knowledge.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-23: Integrate inventory-blindness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-22 via expand-topic. Add cross-references from related articles such as architecture-of-cognitive-closure.md, parsimony-epistemology.md, three-kinds-of-void.md, or phenomenology-of-the-edge.md.
+- **Output**: obsidian/concepts/inventory-blindness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-23: Integrate perceptual-reconstruction-paradox.md into site navigation
 - **Type**: integrate-orphan

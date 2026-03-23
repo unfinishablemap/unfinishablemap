@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-16 08:47:00+00:00
+ai_modified: 2026-03-23 02:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -56,7 +56,7 @@ Colin McGinn formalises this into *[cognitive closure](/concepts/mysterianism/)*
 
 McGinn argues humans are likely cognitively closed to "property P"—whatever bridges neural activity and conscious experience. We access consciousness through introspection and brain through perception, but neither reveals the connection. The [hard problem](/topics/hard-problem-of-consciousness/) may be unsolvable not because the solution is supernatural but because it lies outside our cognitive reach.
 
-The *particular* things we cannot think illuminate *what kind* of thinkers we are. This isn't pessimism—it's precision about cognitive architecture.
+The *particular* things we cannot think illuminate *what kind* of thinkers we are. This isn't pessimism—it's precision about cognitive architecture. The [epistemology of limit-knowledge](/concepts/epistemology-of-limit-knowledge/) calls this *structural inference*—one of four methods for generating warranted knowledge about cognitive boundaries, producing *architectural knowledge* through transcendental reasoning.
 
 ## The View from Nowhere
 
@@ -157,6 +157,7 @@ The limits-reveal-structure thesis would be undermined if:
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
 - [Convergence as Evidence](/voids/convergence-as-evidence/) — How the full catalogue's limits converge into five families and constitute evidence for dualism
+- [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) — The systematic epistemology of how knowledge about cognitive limits is warranted
 - [Illusionism](/concepts/illusionism/) — The radical challenge that limits are misrepresentations (see Illusionist Challenge section)
 - [Introspection](/concepts/introspection/) — The reliability of first-person access to cognitive architecture
 - [Decoherence](/concepts/decoherence/) — Quantum coherence and the physical possibility of mind-matter interface

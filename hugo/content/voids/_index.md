@@ -80,6 +80,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Other Minds Void](/voids/other-minds-void/) — Access to consciousness beyond our own
 - [The Intersubjective Void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared
 - [The Commensurability Void](/voids/commensurability-void/) — Why phenomenal experiences across different architectures cannot always be compared
+- [The Dimensionality Void](/voids/dimensionality-void/) — Whether consciousness is confined to a low-dimensional slice of a richer phenomenal reality
 - [The Synesthetic Void](/voids/synesthetic-void/) — Phenomenal dimensions closed to most minds within our own species
 - [The Affective Void](/voids/affective-void/) — Emotions we cannot feel—affects beyond human reach
 - [The Emotional Epistemology Void](/voids/emotional-epistemology-void/) — Whether emotions constitute genuine knowledge about reality

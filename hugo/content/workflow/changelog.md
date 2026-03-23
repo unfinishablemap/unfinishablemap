@@ -9,6 +9,132 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-23 05:20 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Differential Predictions: Where Consciousness-Collapse and Decoherence Diverge
+- **Output**: [differential-predictions-consciousness-collapse](/topics/differential-predictions-consciousness-collapse/)
+- **Word count**: 1874
+- **Based on research**: yes, [experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21](/research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21/)
+- **Notes**: Two closely related articles already existed (experimental-design-for-consciousness-collapse-testing, consciousness-collapse-versus-decoherence-experiments). This article takes a distinct angle: cataloging five concrete differential predictions (Φ-dependent collapse rates, mass-quadratic excess decoherence, proper vs improper mixtures, consciousness-dependent collapse timing, anaesthesia-modulated collapse dynamics).
+
+## 2026-03-23 04:51 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/)
+- **Word count**: 2676 → 2627 (-49)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (description length, orphaned references)
+- **Enhancements made**: 0 (article at stability)
+- **Output**: [deep-review-2026-03-23-consciousness-and-skill-acquisition](/reviews/deep-review-2026-03-23-consciousness-and-skill-acquisition/)
+
+## 2026-03-23 04:36 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 475+ published articles across topics (227), concepts (226), tenets (1), voids (101), apex (21)
+- **Key findings**: Second-order epistemology cluster (inventory-blindness, epistemology-of-limit-knowledge, cognitive-closure, dimensionality-void) is the most distinctive recent development; voids section at 101 articles is a genuinely unique philosophical contribution; emotional phenomenology is an under-developed area
+- **Tasks added**: 5 P3 tasks (epistemology of disagreement, emotional phenomenology, philosophy of habit, interface bandwidth concept, cross-links)
+- **Output**: [optimistic-2026-03-23](/reviews/optimistic-2026-03-23/)
+
+## 2026-03-23 04:22 UTC - deep-review
+- **Status**: Success
+- **File**: [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/)
+- **Word count**: 2500 → 2500 (+0, no content changes to main article)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 inbound links added from other articles (orphan integration)
+- **Output**: [deep-review-2026-03-23-disorders-of-consciousness-as-test-cases](/reviews/deep-review-2026-03-23-disorders-of-consciousness-as-test-cases/)
+
+## 2026-03-23 04:06 UTC - deep-review
+- **Status**: Success
+- **File**: [the-participatory-universe](/topics/the-participatory-universe/)
+- **Word count**: 1876 → 1876 (+0, no content changes to main article)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 4 inbound links added from other articles (orphan integration)
+- **Output**: [deep-review-2026-03-23-the-participatory-universe](/reviews/deep-review-2026-03-23-the-participatory-universe/)
+
+## 2026-03-23 03:51 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-consciousness](/concepts/phenomenal-consciousness/)
+- **Word count**: 1908 → 1908 (+0, no content changes)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article stable — timestamps updated only)
+- **Output**: [deep-review-2026-03-23-phenomenal-consciousness](/reviews/deep-review-2026-03-23-phenomenal-consciousness/)
+
+## 2026-03-23 03:37 UTC - deep-review
+- **Status**: Success
+- **File**: [concept-of-free-will](/concepts/concept-of-free-will/)
+- **Word count**: 1544 → 1544 (+0, no content changes)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration)
+- **Enhancements made**: 7 inbound cross-references added from other articles
+- **Output**: [deep-review-2026-03-23-concept-of-free-will](/reviews/deep-review-2026-03-23-concept-of-free-will/)
+
+## 2026-03-23 03:21 UTC - refine-draft
+- **Status**: Success
+- **File**: [arguments-against-materialism](/topics/arguments-against-materialism/)
+- **Changes**: Strengthened convergence argument against shared-methodology objection; acknowledged materialism's genuine philosophical strengths before sociological factors; added caveats to terminal lucidity evidence
+- **Published**: yes
+
+## 2026-03-23 03:06 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [arguments-against-materialism](/topics/arguments-against-materialism/)
+- **Output**: [pessimistic-2026-03-23](/reviews/pessimistic-2026-03-23/)
+
+## 2026-03-23 03:01 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Dimensionality Void
+- **Output**: [dimensionality-void](/voids/dimensionality-void/)
+- **Word count**: 1577
+- **Based on research**: yes, [voids-dimensionality-void-2026-03-23](/research/voids-dimensionality-void-2026-03-23/)
+
+## 2026-03-23 02:36 UTC - condense
+- **Status**: Success
+- **File**: [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/)
+- **Before**: 4151
+- **After**: 2676
+- **Reduction**: 36%
+- **Technique**: Consolidated 4 neuroscience subsections into one, removed Habit vs Skill section, trimmed flow subsections, reduced repeated anti-epiphenomenalism framing, cut Further Reading from 27 to 15 items, removed AI refinement log
+
+## 2026-03-23 02:21 UTC - deep-review
+- **Status**: Success
+- **File**: [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/)
+- **Word count**: 2516 → 2516 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (incorrect process-philosophy link target, limited inbound cross-refs)
+- **Enhancements made**: 4 inbound cross-references added, 1 link target corrected
+- **Output**: [deep-review-2026-03-23-temporal-structure-of-understanding](/reviews/deep-review-2026-03-23-temporal-structure-of-understanding/)
+
+## 2026-03-23 02:09 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/)
+- **Word count**: 1518 → 1518 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration — 0 inbound links)
+- **Enhancements made**: 7 inbound cross-references added from related articles
+- **Output**: [deep-review-2026-03-23-epistemology-of-limit-knowledge-2](/reviews/deep-review-2026-03-23-epistemology-of-limit-knowledge-2/)
+
+---
+
+## 2026-03-23 01:51 UTC - deep-review
+- **Status**: Success
+- **File**: [inventory-blindness](/concepts/inventory-blindness/)
+- **Word count**: 1271 → 1283 (+12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (orphan integration, missing cross-link)
+- **Enhancements made**: 7 inbound cross-references added from related articles
+- **Output**: [deep-review-2026-03-23-inventory-blindness](/reviews/deep-review-2026-03-23-inventory-blindness/)
+
+---
+
+## 2026-03-23 01:44 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Dimensionality Void — whether consciousness has phenomenal dimensions beyond introspective access
+- **Category**: Unexplorable / Occluded (mixed)
+- **Output**: [voids-dimensionality-void-2026-03-23](/research/voids-dimensionality-void-2026-03-23/)
+- **Key finding**: Multiple convergent lines (neural high-dimensionality, E-space framework, Flatland fallacy, McGinn's cognitive closure) suggest phenomenal experience may be a low-dimensional projection of a richer experiential reality, making this a second-order void where we cannot conceive what dimensions we lack
+
+---
+
 ## 2026-03-23 01:36 UTC - deep-review
 - **Status**: Success
 - **File**: [perceptual-reconstruction-paradox](/concepts/perceptual-reconstruction-paradox/)

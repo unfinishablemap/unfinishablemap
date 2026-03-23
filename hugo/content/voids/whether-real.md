@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-11 23:30:00+00:00
+ai_modified: 2026-03-23 02:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -112,7 +112,7 @@ If the question whether voids are real is itself a void, then:
 
 **The framework must embrace meta-uncertainty.** The [voids project](/voids/) cannot assume its central premise, but neither can it dismiss it. The [cartography problem](/voids/cartography-problem/) deepens this: even setting aside individual voids, cataloging them faces a provable second-order gap—we cannot know what limits we have missed.
 
-**Indirect methods become essential.** Direct verification being impossible, the Map should track the *shape* of failure. If attempts to solve the hard problem keep failing structurally—and if those failures [cluster around the consciousness-matter interface](/voids/convergence-as-evidence/)—the pattern provides weak but cumulative evidence.
+**Indirect methods become essential.** Direct verification being impossible, the Map should track the *shape* of failure. If attempts to solve the hard problem keep failing structurally—and if those failures [cluster around the consciousness-matter interface](/voids/convergence-as-evidence/)—the pattern provides weak but cumulative evidence. The [epistemology of limit-knowledge](/concepts/epistemology-of-limit-knowledge/) formalises these indirect methods and identifies the distinct warrant structures each produces.
 
 **The verdict doesn't change the method.** Whether the voids are ultimately real or illusory, the method remains the same: explore the edges of thought, notice where cognition stalls, investigate the phenomenology of slippage. These activities illuminate cognitive architecture either way.
 
@@ -151,6 +151,7 @@ The voids framework does not require that the voids be real. It requires only th
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [The Phenomenal Presence Void](/voids/phenomenal-presence-void/) — Why the stamp of realness hides itself
 - [Convergence as Evidence](/voids/convergence-as-evidence/) — Whether the clustering pattern constitutes evidence for dualism
+- [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) — What kind of knowledge limit-claims are and what warrant supports them
 - [The Cartography Problem](/voids/cartography-problem/) — Whether the voids project can catalog its own limits
 
 ## References

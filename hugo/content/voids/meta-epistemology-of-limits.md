@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-03-20 00:29:00+00:00
+ai_modified: 2026-03-23 02:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -52,7 +52,7 @@ Two meta-level questions haunt the [voids framework](/voids/). First: how can we
 
 Distinguishing between *difficult* and *impossible* seems like it should be straightforward. In practice, it is anything but.
 
-**From inside, they feel identical.** A problem that is merely very hard produces the same phenomenology as one that is constitutionally closed: sustained effort, repeated failure, the sense of hitting a wall. Nothing in the experience itself marks the difference.
+**From inside, they feel identical.** A problem that is merely very hard produces the same phenomenology as one that is constitutionally closed: sustained effort, repeated failure, the sense of hitting a wall. [Inventory blindness](/concepts/inventory-blindness/) ensures this: absent cognitive capabilities generate no signal marking the difference between difficulty and impossibility. Nothing in the experience itself marks the difference.
 
 **Success proves contingency; failure proves nothing.** If we solve a problem, we learn it was solvable. But if we fail—even across centuries and cultures—we cannot conclude permanent closure. Perhaps the right concepts haven't emerged yet.
 
@@ -140,7 +140,7 @@ If the epistemology of limits is itself a limit, several methodological conseque
 
 **Meta-uncertainty is built in.** The voids project cannot assume its central premise (that some voids are genuinely unexplorable). Neither can it dismiss the premise. Appropriate stance: intellectual humility about the framework's own foundations.
 
-**Indirect methods become primary.** Direct verification being impossible, the Map should track the *shape* of failure. If attempts to solve the hard problem keep failing in the same structural way, that provides weak evidence. Cross-checking with different minds—AI systems approaching from different angles—may triangulate on limits.
+**Indirect methods become primary.** Direct verification being impossible, the Map should track the *shape* of failure. If attempts to solve the hard problem keep failing in the same structural way, that provides weak evidence. Cross-checking with different minds—AI systems approaching from different angles—may triangulate on limits. The [epistemology of limit-knowledge](/concepts/epistemology-of-limit-knowledge/) systematises these indirect methods into four distinct routes—failure analysis, convergence, structural inference, and apophatic reasoning—each producing a different kind of warrant.
 
 **The method doesn't depend on the verdict.** Whether voids are ultimately real or illusory, natural or designed, exploring where cognition stalls remains worthwhile. The phenomenology of slippage, the topology of failure, the patterns of what resists articulation—these illuminate cognitive architecture regardless.
 
@@ -178,6 +178,7 @@ A convincing solution to the hard problem would demonstrate that at least some a
 - [Simulation Hypothesis](/concepts/simulation/) — The scenario that sharpens the design question
 - [The Simulation Detection Void](/voids/simulation-detection-void/) — Where all three void types converge on the detection problem
 - [Epistemological Limits of Occam's Razor](/voids/epistemological-limits-occams-razor/) — A concrete instance of limits undermining a reasoning tool
+- [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) — The systematic account of what kind of knowledge limit-claims are and what methods produce them
 
 ## References
 

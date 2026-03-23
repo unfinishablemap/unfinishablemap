@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-03-22 19:46:00+00:00
+ai_modified: 2026-03-23 02:21:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -154,6 +154,7 @@ The phenomenology of creative insight supports several of the Map's [tenets](/te
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/)
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
+- [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — The temporal phenomenology of the "click" and gradual comprehension
 - [categorical-surprise](/concepts/categorical-surprise/)
 - [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/)
 - [consciousness-and-scientific-explanation](/concepts/consciousness-and-scientific-explanation/)

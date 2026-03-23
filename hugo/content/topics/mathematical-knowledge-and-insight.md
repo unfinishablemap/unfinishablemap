@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-23 02:21:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -150,6 +150,7 @@ These limits are themselves informative. They suggest consciousness accesses mat
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The case for phenomenal character in thinking
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Aesthetic experience, including mathematical beauty, as evidence for irreducible consciousness
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — The felt difference between verification and comprehension
+- [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — How the "click" of comprehension has constitutive temporal structure
 - [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) — The general phenomenology of creative insight across domains
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Why understanding may require phenomenal awareness
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-22 23:34:00+00:00
+ai_modified: 2026-03-23 04:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -155,6 +155,7 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 
 ## Further Reading
 
+- [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/) — Vegetative states, CMD, and locked-in syndrome as parallel cases of consciousness-behaviour dissociation
 - [loss-of-consciousness](/topics/loss-of-consciousness/) — Broader treatment of consciousness loss including coma, sleep, and covert consciousness
 - [filter-theory](/concepts/filter-theory/) — The transmission model of brain-consciousness relation
 - [the-interface-location-problem](/topics/the-interface-location-problem/) — Where consciousness meets the brain: candidates and constraints

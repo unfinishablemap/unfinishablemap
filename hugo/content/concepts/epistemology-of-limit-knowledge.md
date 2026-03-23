@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-03-23 00:36:00+00:00
+ai_modified: 2026-03-23 02:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: Human+AI analysis of how we can have genuine knowledge about cognit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-23 00:36:00+00:00
+last_deep_review: 2026-03-23 02:09:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -100,7 +100,7 @@ Limit-knowledge differs from ordinary empirical knowledge in several respects.
 
 ## The Bootstrap Problem
 
-One serious challenge to limit-knowledge deserves attention. If cognitive architecture constrains what we can conceive, it may also constrain our ability to correctly identify our own limits. [The meta-epistemological question](/voids/meta-epistemology-of-limits/)—can we trust our assessments of our own boundaries?—threatens to undermine limit-knowledge from within.
+One serious challenge to limit-knowledge deserves attention. If cognitive architecture constrains what we can conceive, it may also constrain our ability to correctly identify our own limits. [Inventory blindness](/concepts/inventory-blindness/) deepens this challenge: absent cognitive capabilities produce no signal, so the limits most needing identification are those least likely to be detected. [The meta-epistemological question](/voids/meta-epistemology-of-limits/)—can we trust our assessments of our own boundaries?—threatens to undermine limit-knowledge from within.
 
 The bootstrap problem does not invalidate limit-knowledge, but it does constrain the confidence we can place in it. Two considerations prevent full sceptical collapse:
 

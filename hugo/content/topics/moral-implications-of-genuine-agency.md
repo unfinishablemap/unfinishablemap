@@ -5,6 +5,7 @@ ai_modified: 2026-03-05 19:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
+- '[[concept-of-free-will]]'
 - '[[agent-causation]]'
 - '[[moral-responsibility]]'
 - '[[mental-causation]]'

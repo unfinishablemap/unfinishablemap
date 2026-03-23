@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-23 02:21:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,6 +19,7 @@ concepts:
 - '[[agent-causation]]'
 - '[[unity-of-consciousness]]'
 - '[[binding-problem]]'
+- '[[process-philosophy]]'
 created: 2026-01-22
 date: &id001 2026-01-22
 description: 'The click of comprehension has temporal phenomenology: suddenness, integration,
@@ -26,7 +27,7 @@ description: 'The click of comprehension has temporal phenomenology: suddenness,
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-25 03:08:00+00:00
+last_deep_review: 2026-03-23 02:21:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -140,7 +141,7 @@ These contemplative reports align with the claim that understanding has irreduci
 
 ## Process Philosophy Perspective
 
-Alfred North Whitehead's [process philosophy](/concepts/temporal-consciousness/) offers a framework for understanding's temporal structure. For Whitehead, experience consists of "actual occasions"—moments of experience that arise, achieve satisfaction, and perish. Each occasion prehends (grasps, integrates) the outcomes of previous occasions.
+Alfred North Whitehead's [process philosophy](/concepts/process-philosophy/) offers a framework for understanding's temporal structure. For Whitehead, experience consists of "actual occasions"—moments of experience that arise, achieve satisfaction, and perish. Each occasion prehends (grasps, integrates) the outcomes of previous occasions.
 
 Understanding, on this view, involves a sequence of occasions of increasing complexity. Early occasions prehend the elements to be understood. Later occasions prehend these earlier prehensions plus the relationships emerging between them. The click of understanding would be an occasion that successfully integrates—prehends as unified—what previous occasions held separately.
 

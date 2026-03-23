@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-14 20:43:00+00:00
+ai_modified: 2026-03-23 04:06:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -108,7 +108,7 @@ The Map rejects this move for reasons detailed in [indexical-knowledge-and-ident
 
 ## The Participatory Realism Ambiguity
 
-John Wheeler's "participatory universe" and Fuchs's "participatory realism" attempt to capture something important: observation is not passive revelation but active constitution of facts. Users of quantum mechanics are part of reality, not external to it.
+John [Wheeler's "participatory universe"](/topics/the-participatory-universe/) and Fuchs's "participatory realism" attempt to capture something important: observation is not passive revelation but active constitution of facts. Users of quantum mechanics are part of reality, not external to it.
 
 Fuchs writes that participatory realism represents "attempts to make a deep statement about the nature of reality"—far from instrumentalism or antirealism.
 

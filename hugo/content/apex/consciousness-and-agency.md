@@ -33,6 +33,7 @@ last_deep_review: 2026-03-06 04:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[concept-of-free-will]]'
 - '[[phenomenology-mechanism-bridge]]'
 - '[[phenomenology-of-consciousness-doing-work]]'
 - '[[testing-the-map-from-inside]]'
