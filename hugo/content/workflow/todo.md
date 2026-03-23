@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-
-### P2: Cross-review articles considering self-reference-paradox.md insights
-- **Type**: cross-review
-- **Notes**: New concept page `concepts/self-reference-paradox.md` created 2026-03-23 via expand-topic. Over 100 articles already link to `[self-reference-paradox](/concepts/self-reference-paradox/)`. Key articles that discuss self-reference extensively (consciousness-and-the-authority-of-formal-systems, self-stultification-as-master-argument, galilean-exclusion, self-reference-and-the-limits-of-physical-description) should be reviewed for consistency with the new dedicated concept page, potential reinforcing cross-links, and terminology alignment.
-- **Source**: chain (from self-reference-paradox.md)
-- **Generated**: 2026-03-23
-
 ### P2: Create concept page for adaptive-cognitive-limits
 - **Type**: expand-topic
 - **Notes**: Referenced by 3 content files (`three-kinds-of-void` and others) but has no page. The concept that certain cognitive limitations may serve adaptive functions — evolved constraints that are features rather than bugs — is relevant to the voids programme and Tenet 5 (Occam's Razor Has Limits). Research note `research/voids-adaptive-cognitive-limits-2026-02-08.md` available as source. Target section: concepts/ (224/230, 6 slots remaining).
@@ -1259,6 +1252,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Cross-review articles considering self-reference-paradox.md insights
+- **Type**: cross-review
+- **Notes**: New concept page `concepts/self-reference-paradox.md` created 2026-03-23 via expand-topic. Over 100 articles already link to `[self-reference-paradox](/concepts/self-reference-paradox/)`. Key articles that discuss self-reference extensively (consciousness-and-the-authority-of-formal-systems, self-stultification-as-master-argument, galilean-exclusion, self-reference-and-the-limits-of-physical-description) should be reviewed for consistency with the new dedicated concept page, potential reinforcing cross-links, and terminology alignment.
+- **Output**: obsidian/concepts/self-reference-paradox.md -- Context: Cross-review articles considering self-reference-paradox.md insights
+
+### ✓ 2026-03-23: Fix 20 broken wikilinks to social-epistemic-void
+- **Type**: refine-draft
+- **Notes**: No `social-epistemic-void.md` exists and the voids section is at cap (100/100), so a new page cannot be created. 20 content files reference `[social-epistemic-void](/voids/intersubjective-void/)` — tied for the most common broken wikilink on the site. Audit each reference context to determine the best existing target (likely a combination of `other-minds-void`, `social-construction-of-self-vs-phenomenal-self`, and `consciousness-and-intersubjectivity`) and update all broken wikilinks.
+- **Output**: Task context:
+No `social-epistemic-void.md` exists and the voids section is at cap (100/100), so a new page cannot be created. 20 content files reference `[social-epistemic-void](/voids/intersubjective-void/)` — tied for the most common broken wikilink on the site. Audit each reference context to determine the best existing target (likely a combination of `other-minds-void`, `social-construction-of-self-vs-phenomenal-self`, and `consciousness-and-intersubjectivity`) and update all broken wikilinks.
 
 ### ✓ 2026-03-23: Fix 20 broken wikilinks to introspection-rehabilitation
 - **Type**: refine-draft

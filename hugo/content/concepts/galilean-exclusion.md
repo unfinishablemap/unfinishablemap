@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-03-23 17:09:00+00:00
+ai_modified: 2026-03-23 17:59:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,18 +19,19 @@ description: Galileo's founding methodological move excluded subjective experien
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-21 00:06:00+00:00
+last_deep_review: 2026-03-23 17:59:00+00:00
 modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'
 - '[[epistemology-of-first-person-evidence]]'
 - '[[heterophenomenology]]'
 - '[[concepts/materialism]]'
+- '[[consciousness-and-scientific-explanation]]'
 title: Galilean Exclusion
 topics:
 - '[[methodology-of-consciousness-research]]'
 - '[[hard-problem-of-consciousness]]'
-- '[[consciousness-and-the-authority-of-mathematics]]'
+- '[[consciousness-and-the-authority-of-formal-systems]]'
 ---
 
 The Galilean exclusion is the foundational methodological move by which modern science removed subjective experience from its domain of inquiry. Galileo's distinction between primary qualities (shape, size, motion, number — mathematically describable properties of objects themselves) and secondary qualities (colour, taste, warmth, sound-as-experienced — properties existing only in the experiencing subject) did not merely organise phenomena. It defined what would count as scientifically real. Primary qualities stayed; secondary qualities were set aside as subjective projections irrelevant to physics. This decision made modern science possible. It also made the [hard problem of consciousness](/topics/hard-problem-of-consciousness/) structurally inevitable.
@@ -79,7 +80,7 @@ The [hard problem](/topics/hard-problem-of-consciousness/) is, in significant pa
 
 Theories of consciousness face a dilemma traceable to the exclusion. Approaches that remain within the Galilean framework (functionalism, computationalism, Global Workspace Theory) can describe the structural and functional correlates of consciousness with increasing precision. But they struggle to bridge the gap between structure and quality — precisely because the framework was built by excluding quality. Approaches that break from the framework (panpsychism, [neurophenomenology](/concepts/neurophenomenology/), radical enactivism) gain resources for addressing experience directly, but risk losing the scientific rigour that the exclusion made possible.
 
-The [authority of mathematics](/topics/consciousness-and-the-authority-of-formal-systems/) debate also reflects the exclusion's legacy. Mathematics excels at describing the primary qualities Galileo kept. Its success with structure does not establish its sovereignty over the secondary qualities he excluded.
+The [authority of formal systems](/topics/consciousness-and-the-authority-of-formal-systems/) debate also reflects the exclusion's legacy. Mathematics excels at describing the primary qualities Galileo kept. Its success with structure does not establish its sovereignty over the secondary qualities he excluded.
 
 ## Relation to Site Perspective
 
@@ -94,12 +95,13 @@ The Unfinishable Map's [tenets](/tenets/) engage with the Galilean exclusion at 
 ## Further Reading
 
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — How the exclusion shapes and constrains the methods available for studying consciousness
-- [consciousness-and-the-authority-of-mathematics](/topics/consciousness-and-the-authority-of-formal-systems/) — Mathematics' power over the primary qualities Galileo kept, and its limits regarding the secondary qualities he excluded
+- [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — The power of formal systems over the primary qualities Galileo kept, and their limits regarding the secondary qualities he excluded
 - [explanatory-gap](/concepts/explanatory-gap/) — The structural gap between physical description and phenomenal experience
 - [functionalism](/concepts/functionalism/) — The approach that maps mental states to functional roles — an accommodation within, not an escape from, the Galilean framework
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) — Nagel's argument that objectivity has limits when applied to inherently subjective phenomena
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's attempt to overcome the bifurcation of nature that the Galilean exclusion produced
 - [qualia](/concepts/qualia/) — The secondary qualities themselves — what the exclusion left out
+- [consciousness-and-scientific-explanation](/concepts/consciousness-and-scientific-explanation/) — Why consciousness resists the explanatory strategies that work for other natural phenomena
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem the exclusion made structurally inevitable
 
 ## References
