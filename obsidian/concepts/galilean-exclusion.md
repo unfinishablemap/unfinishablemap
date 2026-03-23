@@ -4,13 +4,13 @@ description: "Galileo's founding methodological move excluded subjective experie
 created: 2026-02-16
 modified: 2026-02-16
 human_modified:
-ai_modified: 2026-03-23T17:09:00+00:00
-last_deep_review: 2026-02-21T00:06:00+00:00
+ai_modified: 2026-03-23T17:59:00+00:00
+last_deep_review: 2026-03-23T17:59:00+00:00
 draft: false
 topics:
   - "[[methodology-of-consciousness-research]]"
   - "[[hard-problem-of-consciousness]]"
-  - "[[consciousness-and-the-authority-of-mathematics]]"
+  - "[[consciousness-and-the-authority-of-formal-systems]]"
 concepts:
   - "[[qualia]]"
   - "[[explanatory-gap]]"
@@ -23,6 +23,7 @@ related_articles:
   - "[[epistemology-of-first-person-evidence]]"
   - "[[heterophenomenology]]"
   - "[[concepts/materialism]]"
+  - "[[consciousness-and-scientific-explanation]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -76,7 +77,7 @@ The [[hard-problem-of-consciousness|hard problem]] is, in significant part, a co
 
 Theories of consciousness face a dilemma traceable to the exclusion. Approaches that remain within the Galilean framework (functionalism, computationalism, Global Workspace Theory) can describe the structural and functional correlates of consciousness with increasing precision. But they struggle to bridge the gap between structure and quality — precisely because the framework was built by excluding quality. Approaches that break from the framework (panpsychism, [[neurophenomenology]], radical enactivism) gain resources for addressing experience directly, but risk losing the scientific rigour that the exclusion made possible.
 
-The [[consciousness-and-the-authority-of-mathematics|authority of mathematics]] debate also reflects the exclusion's legacy. Mathematics excels at describing the primary qualities Galileo kept. Its success with structure does not establish its sovereignty over the secondary qualities he excluded.
+The [[consciousness-and-the-authority-of-formal-systems|authority of formal systems]] debate also reflects the exclusion's legacy. Mathematics excels at describing the primary qualities Galileo kept. Its success with structure does not establish its sovereignty over the secondary qualities he excluded.
 
 ## Relation to Site Perspective
 
@@ -91,12 +92,13 @@ The Unfinishable Map's [[tenets]] engage with the Galilean exclusion at multiple
 ## Further Reading
 
 - [[methodology-of-consciousness-research]] — How the exclusion shapes and constrains the methods available for studying consciousness
-- [[consciousness-and-the-authority-of-mathematics]] — Mathematics' power over the primary qualities Galileo kept, and its limits regarding the secondary qualities he excluded
+- [[consciousness-and-the-authority-of-formal-systems]] — The power of formal systems over the primary qualities Galileo kept, and their limits regarding the secondary qualities he excluded
 - [[explanatory-gap]] — The structural gap between physical description and phenomenal experience
 - [[concepts/functionalism]] — The approach that maps mental states to functional roles — an accommodation within, not an escape from, the Galilean framework
 - [[objectivity-and-consciousness]] — Nagel's argument that objectivity has limits when applied to inherently subjective phenomena
 - [[process-philosophy]] — Whitehead's attempt to overcome the bifurcation of nature that the Galilean exclusion produced
 - [[qualia]] — The secondary qualities themselves — what the exclusion left out
+- [[consciousness-and-scientific-explanation]] — Why consciousness resists the explanatory strategies that work for other natural phenomena
 - [[hard-problem-of-consciousness]] — The problem the exclusion made structurally inevitable
 
 ## References
