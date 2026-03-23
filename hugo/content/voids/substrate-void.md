@@ -57,7 +57,7 @@ The substrate void operates at multiple levels simultaneously.
 
 **Conceptual closure.** Every attempt to say what consciousness *is* (as opposed to what it *does*) encounters a structural barrier. Physical substances can be characterised by measurable properties—mass, charge, extension. Non-physical substance lacks any analogous vocabulary. The conceptual tools available for characterising substances were built for the physical world and fail when turned toward something defined by its difference from that world.
 
-**Introspective opacity.** Consciousness cannot observe its own substrate. When you introspect, you find experiences—colours, pains, thoughts—but never the medium of experiencing. The substrate is the invisible canvas, never anything painted on it. The instrument of investigation is identical to the thing being investigated, which means the substrate is always behind the lens, never in front of it. This parallels the [self-reference paradox](/voids/unobservable-self/): consciousness cannot fully map itself because it is the mapper.
+**Introspective opacity.** Consciousness cannot observe its own substrate. When you introspect, you find experiences—colours, pains, thoughts—but never the medium of experiencing. The substrate is the invisible canvas, never anything painted on it. The instrument of investigation is identical to the thing being investigated, which means the substrate is always behind the lens, never in front of it. This parallels the [self-reference paradox](/concepts/self-reference-paradox/): consciousness cannot fully map itself because it is the mapper.
 
 **Scientific inaccessibility.** Third-person methods describe neural correlates—the physical side of whatever bridge connects mind and matter. They cannot reach the other bank. Neuroscience answers "what brain activity accompanies experience?" without approaching "what is the experiential side made of?" The method is constitutively limited to the physical domain.
 
@@ -105,7 +105,7 @@ This has implications for the Map's central metaphor. Some territory may be unma
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [binding-void](/voids/binding-void/) — Why phenomenal unity resists explanation
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What only consciousness can access
-- [self-reference-paradox](/voids/unobservable-self/) — Why consciousness cannot fully examine itself
+- [self-reference-paradox](/concepts/self-reference-paradox/) — Why consciousness cannot fully examine itself
 
 ## References
 

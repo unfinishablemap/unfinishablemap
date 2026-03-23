@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-07
-ai_modified: 2026-03-21 05:54:00+00:00
+ai_modified: 2026-03-23 17:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -186,7 +186,7 @@ The divergence zones illustrate [Occam's Razor Has Limits](/tenets/#occams-limit
 - [the-subject-object-distinction-as-philosophical-discovery](/topics/the-subject-object-distinction-as-philosophical-discovery/) — The third convergence zone explored
 - [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) — Broader Indian philosophical context
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/) — Argumentative-level convergence complementing this article's experiential-level convergence
-- [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/) — Defence of first-person methodology
+- [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/) — Defence of first-person methodology
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Epistemic foundations of contemplative inquiry
 - [absorption-void](/voids/absorption-void/) — The phenomenology of absorptive states as cognitive limit
 

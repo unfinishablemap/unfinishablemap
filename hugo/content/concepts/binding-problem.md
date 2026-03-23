@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-23 15:29:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -69,7 +69,7 @@ William James identified what is now called the "combination problem" in the 19t
 
 BP2 is the "hard" aspect of binding. A unified conscious moment incorporating information from spatially separate brain regions presents a physical puzzle: it implies that several spatially separate processes exert causal power simultaneously as a single whole. The unity isn't just functional coordination; it's the subjective character of experiencing everything *together* within a single phenomenal field.
 
-**Intra-modal binding** concerns features within a single modality—how "red" and "round" bind into one visual object. **[Cross-modal binding](/concepts/phenomenal-binding-and-holism/)** concerns features from different senses — see [Phenomenal Binding and Multimodal Integration](/topics/phenomenal-binding-and-multimodal-integration/) for the dedicated treatment. Both are explored in [perception and conscious experience](/topics/dualist-perception/), where binding contributes to the unified character of perceptual awareness. The multimodal case makes the explanatory gap maximally stark: neural mechanisms explain how the brain coordinates separate processing streams (BP1), but not why coordination produces phenomenal unity rather than just functional integration (BP2).
+**Intra-modal binding** concerns features within a single modality—how "red" and "round" bind into one visual object. **[Cross-modal binding](/concepts/phenomenal-binding-and-holism/)** concerns features from different senses — see [Phenomenal Binding and Multimodal Integration](/topics/phenomenal-binding-and-multimodal-integration/) for the dedicated treatment. Both are explored in [perception](/concepts/perception/) and [its dualist treatment](/topics/dualist-perception/), where binding contributes to the unified character of perceptual awareness. The multimodal case makes the explanatory gap maximally stark: neural mechanisms explain how the brain coordinates separate processing streams (BP1), but not why coordination produces phenomenal unity rather than just functional integration (BP2).
 
 ### The Illusionist Challenge
 
@@ -137,7 +137,7 @@ Several quantum binding theories exist. The [Orch OR theory](/concepts/quantum-c
 
 The [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) develops this approach in detail: entangled quantum states are non-separable—the composite system cannot be decomposed into individual states for each particle—providing the only known physical mechanism that structurally matches phenomenal unity. Early experimental results (Kerskens & Pérez, 2022; Wiest et al., 2024) are consistent with quantum binding but remain preliminary, and the standard [decoherence](/concepts/decoherence/) objection is contested. See [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) for the structural argument, experimental evidence, and acknowledged limitations.
 
-The quantum hypothesis is the Map's preferred approach to BP2 because it offers genuine physical holism rather than mere coordination. But it remains speculative, and the Map's core claim—that BP2 is not solved by classical mechanisms—does not depend on any particular quantum theory being correct.
+The quantum hypothesis is the Map's preferred approach to BP2 because it offers genuine physical holism rather than mere coordination. The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) strengthens this approach: if the binding problem genuinely requires quantum entanglement, evolution would be under strong selective pressure to discover it—just as it discovered quantum spin coherence for magnetoreception when classical mechanisms could not detect weak magnetic fields. But the hypothesis remains speculative, and the Map's core claim—that BP2 is not solved by classical mechanisms—does not depend on any particular quantum theory being correct.
 
 ## Phenomenal Unity as Primitive
 

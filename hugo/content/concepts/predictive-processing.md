@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-23 15:29:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -38,7 +38,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Predictive processing (PP) proposes that the brain continuously generates predictions about incoming sensory information, comparing predictions against actual input. Perception becomes active inference—the brain's "best guess" about reality—rather than passive reception. This framework has become one of the most influential in cognitive science.
+Predictive processing (PP) proposes that the brain continuously generates predictions about incoming sensory information, comparing predictions against actual input. [Perception](/concepts/perception/) becomes active inference—the brain's "best guess" about reality—rather than passive reception. This framework has become one of the most influential in cognitive science.
 
 For consciousness studies, PP offers a sophisticated account of *what* the brain does but faces the standard question: why should prediction error minimization feel like anything at all?
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-22 23:34:00+00:00
+ai_modified: 2026-03-23 17:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ related_articles:
 - '[[tenets]]'
 - '[[intersubjective-void]]'
 - '[[other-minds-void]]'
-- '[[introspection-rehabilitation]]'
+- '[[introspection]]'
 - '[[phenomenal-conservatism-and-introspective-evidence]]'
 - '[[argument-from-reason]]'
 - '[[epistemic-advantages-of-dualism]]'
@@ -110,7 +110,7 @@ This process is imperfect and everyone knows it. The felt inadequacy of testimon
 
 Testimonial chains amplify this loss. When knowledge passes through multiple testifiers — Alice tells Bob, who tells Carol — each link involves a conscious being reconstructing meaning from words and re-encoding it for the next recipient. The degradation is not merely information-theoretic noise. It reflects the repeated crossing and re-crossing of intersubjective voids, each transit losing something of the original phenomenal grounding. A meditator describes a specific attentional state from direct experience. A commentator summarises the description. A philosopher cites the summary. A textbook paraphrases the philosopher. Each step preserves propositional structure while losing connection to the original phenomenal ground. The result is testimony that is propositionally correct but phenomenally hollow.
 
-This drift helps explain why consciousness discourse sometimes feels circular. The same testimonial descriptions recirculate — "there is something it is like," "the qualitative character of experience" — each carrying less phenomenal weight with each retransmission. The remedy is not better testimony but renewed first-person investigation. Each person who attends carefully to their own experience refreshes the phenomenal grounding that testimonial chains inevitably attenuate. This is one reason [introspective rehabilitation](/topics/epistemology-of-introspection-and-calibration/) matters.
+This drift helps explain why consciousness discourse sometimes feels circular. The same testimonial descriptions recirculate — "there is something it is like," "the qualitative character of experience" — each carrying less phenomenal weight with each retransmission. The remedy is not better testimony but renewed first-person investigation. Each person who attends carefully to their own experience refreshes the phenomenal grounding that testimonial chains inevitably attenuate. This is one reason [introspective rehabilitation](/topics/epistemology-of-first-person-evidence/) matters.
 
 ## What Testimony Cannot Convey
 
@@ -162,7 +162,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet is
 - [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/) — The felt character of weighing evidence and revising belief
 - [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/) — Testimonial evidence and introspective epistemology in consciousness science
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Logical compulsion and consciousness
-- [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/) — Restoring introspection as a serious method
+- [introspection](/concepts/introspection/) — The reliability debate and the case for restoring introspection
 - [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — Phenomenal experience as evidence
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — Methodological tensions in consciousness science
 - [argument-from-reason](/topics/argument-from-reason/) — The broader self-defeat challenge to physicalism

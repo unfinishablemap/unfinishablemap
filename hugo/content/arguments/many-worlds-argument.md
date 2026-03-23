@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-02-25 01:14:00+00:00
+ai_modified: 2026-03-23 16:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: 'A cumulative philosophical case against many-worlds: indexical ide
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-25 01:14:00+00:00
+last_deep_review: 2026-03-23 16:45:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -199,6 +199,7 @@ The Map requires that quantum measurement is real—that definite outcomes genui
 - [haecceity](/concepts/haecceity/) — The metaphysics of "thisness" that MWI cannot accommodate
 - [parfit-reductionism](/concepts/parfit-reductionism/) — Parallel problems with identity reductionism
 - [binding-problem](/concepts/binding-problem/) — The unity of consciousness that branching threatens
+- [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) — Four probability and decision-theory objections in detail
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The positive case for the alternative
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-03-21 21:56:00+00:00
+ai_modified: 2026-03-23 16:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -168,7 +168,7 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Consciousness operates within what physics allows—selecting among possibilities without violating conservation laws or causal closure where it holds.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Selection requires real collapse. If all possibilities actualize in branching worlds, consciousness selects nothing. The Deutsch-Wallace decision theorem grounds rational *policy* under branching, but the Map holds this doesn't recover genuine *authorship*—what matters for free will is whether the agent is a cause of what actually happens.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Selection requires real collapse. If all possibilities actualize in branching worlds, consciousness selects nothing. The [cumulative case against MWI](/arguments/many-worlds-argument/) shows why the interpretation fails on multiple fronts. The Deutsch-Wallace decision theorem grounds rational *policy* under branching, but the Map holds this doesn't recover genuine *authorship*—what matters for free will is whether the agent is a cause of what actually happens.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Determinism seems simpler but fails to explain the data: phenomenology of effort, willed/instructed neural distinctions, conscious engagement correlating with neuroplasticity.
 

@@ -4,7 +4,7 @@ description: "Consciousness cannot verify whether it accurately represents reali
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-03-21T01:42:00+00:00
+ai_modified: 2026-03-23T17:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -111,7 +111,7 @@ The void also connects to the Map's [[tenets#^bidirectional-interaction|Bidirect
 - [[whether-real]] — Whether cognitive limits are permanent or merely current
 - [[destabilizing-self-knowledge]] — What happens when transparency breaks down
 - [[limits-reveal-structure]] — How boundaries illuminate architecture
-- [[social-epistemic-void|The Social Epistemic Void]] — How social knowledge mechanisms compound transparency by enforcing consensus on phenomenal reports
+- [[intersubjective-void|The Intersubjective Void]] — How social knowledge mechanisms compound transparency by enforcing consensus on phenomenal reports
 
 ## References
 

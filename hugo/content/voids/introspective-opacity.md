@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-22 06:41:00+00:00
+ai_modified: 2026-03-23 17:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ related_articles:
 - '[[creativity-void]]'
 - '[[involuntariness-void]]'
 - '[[phenomenology-of-choice]]'
-- '[[social-epistemic-void]]'
+- '[[intersubjective-void]]'
 - '[[recognition-void]]'
 title: Introspective Opacity
 topics:
@@ -53,7 +53,7 @@ We have access to our mental contents—thoughts, images, feelings—but not to 
 
 This opacity extends from general cognition to the specific case of willing. We know *that* we decided, felt, or believed—but not *how*. In the domain of agency, where the stakes are highest, the opacity is deepest: we experience choosing and acting, but whether these experiences genuinely cause our actions remains hidden from introspection.
 
-This void differs from the [unobservable self](/voids/unobservable-self/) (the observer eluding observation) and the [ownership void](/voids/ownership-void/) (the hidden ground of "mineness"). Introspective opacity concerns the *processes* of cognition—how thoughts arise, connect, and transform—remaining hidden even as their products become conscious.
+This void differs from the [unobservable self](/concepts/self-reference-paradox/) (the observer eluding observation) and the [ownership void](/voids/ownership-void/) (the hidden ground of "mineness"). Introspective opacity concerns the *processes* of cognition—how thoughts arise, connect, and transform—remaining hidden even as their products become conscious.
 
 ## The Contents/Process Distinction
 
@@ -174,7 +174,7 @@ None of these conditions has been met. Introspective opacity persists across cul
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
-- [The Unobservable Self](/voids/unobservable-self/) — The observer that cannot observe itself observing
+- [The Unobservable Self](/concepts/self-reference-paradox/) — The observer that cannot observe itself observing
 - [The Narrative Void](/voids/narrative-void/) — How consciousness constructs self-stories it cannot audit
 - [Introspection and First-Person Methods](/concepts/introspection/) — Reliability and limits of self-examination
 - [The Emotional Epistemology Void](/voids/emotional-epistemology-void/) — Whether affective states constitute genuine process-knowledge
@@ -185,7 +185,7 @@ None of these conditions has been met. Introspective opacity persists across cul
 - [The Involuntariness Void](/voids/involuntariness-void/) — Why consciousness cannot control its own states
 - [The Creativity Void](/voids/creativity-void/) — Parallel opacity: creative process hidden, product accessible
 - [The Phenomenology of Choice](/concepts/phenomenology-of-choice/) — What choosing feels like from the inside
-- [The Social Epistemic Void](/voids/intersubjective-void/) — How opacity compounds at the social level through testimony failure, calibration pressure, and hermeneutical gaps
+- [The Intersubjective Void](/voids/intersubjective-void/) — How opacity compounds at the social level through testimony failure, calibration pressure, and hermeneutical gaps
 - [The Recognition Void](/voids/recognition-void/) — Process opacity applied to recognition: the gap between perceiving and knowing-as
 
 ## References

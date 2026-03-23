@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-23 17:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ related_articles:
 - '[[tenets]]'
 - '[[contemplative-neuroscience-meditation-2026-01-23]]'
 - '[[the-self-minimal-narrative-and-substantial]]'
-- '[[introspection-rehabilitation]]'
+- '[[epistemology-of-first-person-evidence]]'
 - '[[introspection-reliability-first-person-2026-01-15]]'
 title: Contemplative Epistemology
 topics:
@@ -149,7 +149,7 @@ Contemplative epistemology is the *epistemological framework*. It should be dist
 
 - [neurophenomenology](/concepts/neurophenomenology/) — Varela's research program formalising the integration of first-person and third-person methods
 - [introspection](/concepts/introspection/) — The reliability debate and the process/content distinction
-- [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/) — The broader case for restoring introspection as a serious method
+- [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/) — The broader case for restoring introspection as a serious method
 - [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — Empirical evidence validating the contemplative epistemological framework
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer phenomenon as key contemplative finding
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Active selection and passive witnessing as distinct epistemic modes

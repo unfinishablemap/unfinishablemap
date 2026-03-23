@@ -4,7 +4,7 @@ description: "Is consciousness constitutively intersubjective or fundamentally s
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-03-21T17:55:00+00:00
+ai_modified: 2026-03-23T17:30:00+00:00
 last_deep_review: 2026-03-21T17:55:00+00:00
 draft: false
 topics:
@@ -25,7 +25,7 @@ related_articles:
   - "[[tenets]]"
   - "[[other-minds-void]]"
   - "[[intersubjective-void]]"
-  - "[[social-epistemic-void]]"
+
   - "[[social-construction-of-self-vs-phenomenal-self]]"
   - "[[epistemology-of-other-minds-under-dualism]]"
 ai_contribution: 100
@@ -123,7 +123,7 @@ The asymmetry matters for the Map's framework in three ways:
 - [[phenomenology-of-collective-intentionality-and-we-consciousness]] — "We-consciousness" and shared intentionality
 - [[other-minds-void]] — The constitutive gap between individual consciousnesses
 - [[intersubjective-void]] — Whether experiences can be genuinely shared
-- [[social-epistemic-void]] — How social knowledge systems systematically exclude non-standard phenomenal experience
+
 - [[problem-of-other-minds]] — The epistemic puzzle that intersubjectivity addresses
 - [[social-construction-of-self-vs-phenomenal-self]] — Why social construction requires phenomenal subjects
 - [[epistemology-of-other-minds-under-dualism]] — How dualism reshapes knowledge of other minds

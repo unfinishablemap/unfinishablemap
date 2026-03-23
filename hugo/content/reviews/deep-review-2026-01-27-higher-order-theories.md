@@ -61,7 +61,7 @@ topics: []
 - [illusionism](/concepts/illusionism/) — Logical extreme of HOT
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — Parallel physicalist strategy
 - [mental-causation](/concepts/mental-causation/) — Where classical framing fails
-- [functionalism](/concepts/functionalism/), [qualia](/concepts/qualia/), [self-reference-paradox](/voids/unobservable-self/), [global-workspace-theory](/concepts/global-workspace-theory/), [metacognition](/concepts/metacognition/)
+- [functionalism](/concepts/functionalism/), [qualia](/concepts/qualia/), [self-reference-paradox](/concepts/self-reference-paradox/), [global-workspace-theory](/concepts/global-workspace-theory/), [metacognition](/concepts/metacognition/)
 
 ## Remaining Items
 

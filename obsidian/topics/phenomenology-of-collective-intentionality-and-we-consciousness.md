@@ -4,7 +4,7 @@ description: "What it is like to think as 'we' rather than 'I'—the distinctive
 created: 2026-03-12
 modified: 2026-03-16
 human_modified:
-ai_modified: 2026-03-23T13:53:00+00:00
+ai_modified: 2026-03-23T17:30:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-collective-phenomena]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[intersubjective-void]]"
   - "[[other-minds-void]]"
   - "[[social-construction-of-self-vs-phenomenal-self]]"
-  - "[[social-epistemic-void]]"
+
   - "[[consciousness-and-skill-acquisition]]"
   - "[[consciousness-and-normative-force]]"
   - "[[phenomenology-of-musical-understanding]]"

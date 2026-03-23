@@ -111,7 +111,7 @@ For void-mapping, this suggests that different cognitive territories fail indepe
 
 These signatures do not always appear in isolation. Where multiple limits overlap, their interaction produces qualitatively different phenomenology.
 
-The default assumption about multiple cognitive limits is additive: if the [self-reference-paradox](/voids/unobservable-self/) hides territory *A* and the [language-thought-boundary](/voids/language-thought-boundary/) hides territory *B*, then both operating together hide *A + B*. This assumption is wrong.
+The default assumption about multiple cognitive limits is additive: if the [self-reference-paradox](/concepts/self-reference-paradox/) hides territory *A* and the [language-thought-boundary](/voids/language-thought-boundary/) hides territory *B*, then both operating together hide *A + B*. This assumption is wrong.
 
 Spagna et al. (2020) demonstrated that when competing cognitive processes draw on overlapping neural resources, performance decrement is superadditive—the combined effect exceeds what either task alone would predict. Their work on posterior alpha and gamma oscillations showed that "the inefficient sharing of neural resources by competing cognitive processes" produces nonlinear interference.
 
@@ -119,7 +119,7 @@ The epistemic analogue: when multiple cognitive limits share underlying architec
 
 ### Three Modes of Compound Interaction
 
-**Superadditive interference.** When limits draw on overlapping resources, the compound effect exceeds the sum. The [self-reference-paradox](/voids/unobservable-self/)—consciousness cannot fully model itself—compounds with the [language-thought-boundary](/voids/language-thought-boundary/)—experience exceeds articulable thought. Together they create a zone where consciousness can neither model *nor* articulate what it is. Each limit alone permits partial access: self-reference allows non-linguistic self-awareness, and language allows descriptions of non-self-referential experience. The compound shuts both routes simultaneously.
+**Superadditive interference.** When limits draw on overlapping resources, the compound effect exceeds the sum. The [self-reference-paradox](/concepts/self-reference-paradox/)—consciousness cannot fully model itself—compounds with the [language-thought-boundary](/voids/language-thought-boundary/)—experience exceeds articulable thought. Together they create a zone where consciousness can neither model *nor* articulate what it is. Each limit alone permits partial access: self-reference allows non-linguistic self-awareness, and language allows descriptions of non-self-referential experience. The compound shuts both routes simultaneously.
 
 The [infant consciousness void](/voids/infant-consciousness/) provides a paradigm case: the language barrier (post-linguistic minds cannot simulate pre-linguistic thought), the absence of self-concept (no autonoetic consciousness to anchor memories), and the demolished neural hardware (synaptic pruning physically dismantles the substrate) interact superadditively — each limit reinforces the others, producing an inaccessibility that no single barrier predicts.
 
@@ -135,7 +135,7 @@ Individual limits produce the crisp signatures catalogued in the taxonomy. Compo
 
 **Dissolving grip.** Where a single limit halts thought at a boundary, compound limits pull thought apart. The experience is not of hitting a wall but of the ground giving way in multiple dimensions simultaneously. Try to simultaneously think about the nature of consciousness (self-reference), articulate that thought (language boundary), and assess whether your articulation is adequate (recursion limit). The thought does not stop—it dissipates.
 
-**The unreachable question.** Some questions are grammatically well-formed but phenomenally impossible to hold fully in mind. "What is the intrinsic nature of the mechanism by which my consciousness influences my brain?" involves the [intrinsic-nature-void](/voids/intrinsic-nature-void/), the [causal interface void](/voids/causal-interface/), and the [self-reference-paradox](/voids/unobservable-self/) simultaneously. Each word is comprehensible; the compound question exceeds cognitive grasp. The signature of compound closure is not unintelligibility but ungraspability.
+**The unreachable question.** Some questions are grammatically well-formed but phenomenally impossible to hold fully in mind. "What is the intrinsic nature of the mechanism by which my consciousness influences my brain?" involves the [intrinsic-nature-void](/voids/intrinsic-nature-void/), the [causal interface void](/voids/causal-interface/), and the [self-reference-paradox](/concepts/self-reference-paradox/) simultaneously. Each word is comprehensible; the compound question exceeds cognitive grasp. The signature of compound closure is not unintelligibility but ungraspability.
 
 ## Probing Methods
 
@@ -175,7 +175,7 @@ Current evidence supports structured, persistent failure patterns. The hard prob
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** connects to introspective failure. If consciousness influences physical processes, systematic blindness to how we access our own mental states may specifically conceal that mechanism. Materialists would attribute the same blindness to computational constraints alone. Both interpretations predict structured failure; they differ on what the structure reveals.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** relates to compound closure around the consciousness-physics interface. It is not merely hard to observe. It sits behind the intersection of the [self-reference-paradox](/voids/unobservable-self/) (the observer cannot observe itself observing), the [intrinsic-nature-void](/voids/intrinsic-nature-void/) (we cannot know what matter is in itself), and the [causal interface void](/voids/causal-interface/) (the mechanism connecting mind and brain is opaque). Three locks, each requiring a different key—and compound closure ensures that possessing any two keys is insufficient.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** relates to compound closure around the consciousness-physics interface. It is not merely hard to observe. It sits behind the intersection of the [self-reference-paradox](/concepts/self-reference-paradox/) (the observer cannot observe itself observing), the [intrinsic-nature-void](/voids/intrinsic-nature-void/) (we cannot know what matter is in itself), and the [causal interface void](/voids/causal-interface/) (the mechanism connecting mind and brain is opaque). Three locks, each requiring a different key—and compound closure ensures that possessing any two keys is insufficient.
 
 [Tenet-generated voids](/voids/tenet-generated-voids/) already recognises that some voids emerge from the *interaction* between tenets rather than from individual commitments. Compound failure signatures extend this principle to the full ecology of cognitive limitation. The Map should treat its voids not as a catalogue of independent items but as an interacting system—where relationships between voids are as informative as the voids themselves, and where [what the limits reveal](/voids/limits-reveal-structure/) includes what their interactions reveal.
 
@@ -189,7 +189,7 @@ Current evidence supports structured, persistent failure patterns. The hard prob
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalising the method with evidential standards
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Phenomenology of cognitive slippage
 - [Convergence as Evidence](/voids/convergence-as-evidence/) — How voids organise into five families and constitute evidence for dualism
-- [The Self-Reference Paradox](/voids/unobservable-self/) — Where consciousness cannot map because it is the mapper
+- [The Self-Reference Paradox](/concepts/self-reference-paradox/) — Where consciousness cannot map because it is the mapper
 - [Mysterianism](/concepts/mysterianism/) — McGinn's analysis of cognitive closure
 - [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — Voids that emerge from interactions between tenets

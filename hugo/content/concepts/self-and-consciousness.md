@@ -72,7 +72,7 @@ Empirical evidence shows they can come apart. In flow states, subjects report vi
 | Metacognitive self | Monitoring one's mental states | Cognitive tool consciousness *enables* |
 | Narrative self | Autobiographical story | Construction using other capacities |
 
-A fourth dimension cuts across all layers: [the unobservable self](/voids/unobservable-self/). When attention seeks the observer, it finds only more observation. The hard problem is hard partly because the subject investigating is what resists investigation.
+A fourth dimension cuts across all layers: [the unobservable self](/concepts/self-reference-paradox/). When attention seeks the observer, it finds only more observation. The hard problem is hard partly because the subject investigating is what resists investigation.
 
 The [Jourdain Hypothesis](/concepts/jourdain-hypothesis/) illuminates this further. Great apes likely possess the minimal self—their experiences have first-person character—but may not *know* they have a self. They experience from a first-person perspective without representing themselves as beings-with-perspectives. The difference between human and great ape self-awareness may be whether they can make the Jourdain transition from experiencing selfhood to knowing they experience it.
 
@@ -150,7 +150,7 @@ The filter theory interprets these findings coherently: the narrative self is co
 
 ## Further Reading
 
-- [self-reference-paradox](/voids/unobservable-self/) — Why the observing self cannot observe itself observing
+- [self-reference-paradox](/concepts/self-reference-paradox/) — Why the observing self cannot observe itself observing
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — Having mental states vs knowing you have them
 - [cognitive-integration-and-the-self](/topics/cognitive-integration-and-the-self/) — How consciousness binds information across time and modality to constitute the integrative self
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist no-self and the Map's irreducibility thesis

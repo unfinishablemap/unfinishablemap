@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-03-18 19:57:00+00:00
+ai_modified: 2026-03-23 15:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -98,7 +98,7 @@ This observation connects the evolutionary argument to the [Minimal Quantum Inte
 
 For the dualist, classical physics presents a problem: its deterministic causal closure leaves no room for mental causation that is not reducible to physical causation. Quantum indeterminacy provides a potential opening—consciousness might bias otherwise undetermined outcomes without injecting energy or violating conservation laws.
 
-The Map does not claim certainty about the mechanism. The evolutionary argument establishes *that* consciousness is causally efficacious; the further arguments discussed in "The Physicalist Account of Mental Causation" (in the section by that name) address whether this efficacy implies non-physicality; and the quantum hypothesis proposes *how* non-physical causation might operate if dualism is correct.
+The Map does not claim certainty about the mechanism. The evolutionary argument establishes *that* consciousness is causally efficacious; the further arguments discussed in "The Physicalist Account of Mental Causation" (in the section by that name) address whether this efficacy implies non-physicality; and the quantum hypothesis proposes *how* non-physical causation might operate if dualism is correct. The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) develops the complementary argument: evolution likely built the quantum substrate through which consciousness operates, just as it built the quantum compass in a bird's eye.
 
 ## Functions Consciousness Enables
 
@@ -178,6 +178,7 @@ The evolutionary argument for mental causation supports multiple Map tenets.
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework where consciousness has causal power
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — How consciousness might have emerged and developed
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain as the strongest evidence that phenomenal character tracks adaptive value
+- [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/) — Why evolution likely built the quantum substrate for mental causation
 - [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) — The broader relationship between the two
 - [consciousness-and-the-philosophy-of-biology](/topics/consciousness-and-the-philosophy-of-biology/) — Why biology's function concepts struggle with consciousness
 - [The Phenomenology of Consciousness Doing Work](/apex/phenomenology-of-consciousness-doing-work/) — Apex synthesis: the phenomenological profile that evolution predicts for a causally efficacious consciousness

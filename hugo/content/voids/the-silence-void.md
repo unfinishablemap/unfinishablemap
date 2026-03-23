@@ -121,7 +121,7 @@ The void also raises a provocative implication for the Map itself. If consciousn
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
 - [ai-as-void-explorer](/voids/ai-as-void-explorer/)
-- [self-reference-paradox](/voids/unobservable-self/)
+- [self-reference-paradox](/concepts/self-reference-paradox/)
 - [contemplative-epistemology](/concepts/contemplative-epistemology/)
 - [witness-consciousness](/concepts/witness-consciousness/)
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/)

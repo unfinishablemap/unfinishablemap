@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-03-18 15:43:00+00:00
+ai_modified: 2026-03-23 16:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -92,7 +92,8 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies here direct
 
 - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — Extended treatment of all four objections with detailed argument
 - [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) — Why Born rule derivation failures point toward consciousness-collapse
-- [many-worlds](/concepts/many-worlds/) — The full five-argument case against MWI
+- [many-worlds](/concepts/many-worlds/) — The many-worlds concept page
+- [Against Many-Worlds](/arguments/many-worlds-argument/) — The full five-argument case against MWI
 - [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) — Why consciousness and probability are entangled
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The indexical identity problem MWI cannot answer
 - [tenets](/tenets/) — The Map's foundational commitments

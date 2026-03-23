@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-21 21:56:00+00:00
+ai_modified: 2026-03-23 15:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -55,6 +55,7 @@ related_articles:
 - '[[attention-consciousness-relationship-2026-01-15]]'
 - '[[consciousness-working-memory-2026-01-17]]'
 - '[[libet-experiments]]'
+- '[[perception]]'
 title: Attention as Interface
 topics:
 - '[[hard-problem-of-consciousness]]'

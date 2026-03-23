@@ -85,7 +85,7 @@ Approaching the calibration void produces a distinctive experiential signature�
 
 **Dissolving ground.** Contemplating Schwitzgebel's examples seriously—Am I really experiencing peripheral vision in colour right now? Am I sure about the phenomenal character of this thought?—produces not the sensation of hitting a wall but of the floor becoming unreliable. The experience is a loss of footing rather than a confrontation with an obstacle.
 
-**Recursive vertigo.** Attempting to introspect about the reliability of introspection generates a self-referential spiral. Am I accurately reporting my uncertainty about my accuracy? This connects both to the [destabilising self-knowledge](/voids/destabilizing-self-knowledge/) pattern—knowledge that undermines its own conditions of possibility—and to the [self-reference-paradox](/voids/unobservable-self/), where consciousness cannot fully map itself because it is the mapper.
+**Recursive vertigo.** Attempting to introspect about the reliability of introspection generates a self-referential spiral. Am I accurately reporting my uncertainty about my accuracy? This connects both to the [destabilising self-knowledge](/voids/destabilizing-self-knowledge/) pattern—knowledge that undermines its own conditions of possibility—and to the [self-reference-paradox](/concepts/self-reference-paradox/), where consciousness cannot fully map itself because it is the mapper.
 
 **Pragmatic forgetting.** The practical impossibility of sustaining radical doubt about introspection means we routinely fall back into naïve trust. The calibration void cannot be inhabited—it can only be glimpsed before the mind reasserts its default confidence.
 

@@ -70,7 +70,7 @@ The constitutive exclusion occupies specific territory within the Map's [voids](
 
 The [observation-void](/voids/observation-void/) says: every attempt to study consciousness transforms what is studied. Introspection alters experience, neuroscience captures correlates but not the phenomenon, contemplative practice dissolves the observer-observed boundary. The constitutive exclusion goes further: there is no untransformed state to yearn for. Consciousness does not merely disturb a pre-existing reality—it participates in constituting what counts as reality.
 
-The [self-reference-paradox](/voids/unobservable-self/) says: consciousness cannot fully map itself because it is the mapper. That void concerns consciousness's relationship to *itself*. The constitutive exclusion concerns consciousness's relationship to *everything else*—to all of reality, not just the self.
+The [self-reference-paradox](/concepts/self-reference-paradox/) says: consciousness cannot fully map itself because it is the mapper. That void concerns consciousness's relationship to *itself*. The constitutive exclusion concerns consciousness's relationship to *everything else*—to all of reality, not just the self.
 
 The [intrinsic-nature-void](/voids/intrinsic-nature-void/) says: physics describes structure (relations) but never intrinsic nature (what has those relations). The constitutive exclusion explains one reason why: our concepts are themselves part of the constitutive contribution, so they cannot step outside themselves to grasp what reality is apart from them.
 
@@ -123,7 +123,7 @@ The constitutive exclusion connects to all five of the Map's [tenets](/tenets/).
 ## Further Reading
 
 - [observation-void](/voids/observation-void/) — The transformation of consciousness under self-study
-- [self-reference-paradox](/voids/unobservable-self/) — Why consciousness cannot fully map itself
+- [self-reference-paradox](/concepts/self-reference-paradox/) — Why consciousness cannot fully map itself
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics captures structure but never intrinsic nature
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists physical explanation
 - [the-subject-object-distinction-as-philosophical-discovery](/topics/the-subject-object-distinction-as-philosophical-discovery/) — Why the subject-object distinction is a philosophical discovery, not a given

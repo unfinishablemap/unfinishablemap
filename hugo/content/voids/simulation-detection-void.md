@@ -71,7 +71,7 @@ What makes this void distinctive is how cleanly the [three categories](/voids/th
 
 The simulation hypothesis exhibits characteristic void phenomenology.
 
-**Recursive vertigo**: Thinking about simulation detection triggers meta-cognitive spirals. If this thought about simulation is itself simulated, is the doubt genuine? The recursion destabilises rather than clarifies—each level of reflection introduces another layer of potential simulation. This resembles the [self-reference paradox](/voids/unobservable-self/) where consciousness cannot map itself because it is the mapper.
+**Recursive vertigo**: Thinking about simulation detection triggers meta-cognitive spirals. If this thought about simulation is itself simulated, is the doubt genuine? The recursion destabilises rather than clarifies—each level of reflection introduces another layer of potential simulation. This resembles the [self-reference paradox](/concepts/self-reference-paradox/) where consciousness cannot map itself because it is the mapper.
 
 **Affective dismissiveness**: Many dismiss the simulation hypothesis as "just science fiction" despite its philosophical rigour. This systematic dismissiveness could indicate [cognitive aversion](/voids/cognitive-aversion/)—minds deflecting from thoughts that approach [defended territory](/voids/defended-territory/).
 
@@ -116,7 +116,7 @@ For The Unfinishable Map as a project, the simulation detection void is clarifyi
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The taxonomy: unexplored, unexplorable, occluded
 - [defended-territory](/voids/defended-territory/) — Could some thoughts be actively blocked?
-- [self-reference-paradox](/voids/unobservable-self/) — The structural obstacle of consciousness examining itself
+- [self-reference-paradox](/concepts/self-reference-paradox/) — The structural obstacle of consciousness examining itself
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — Using the shape of failure as data
 - [apophatic-cartography](/voids/apophatic-cartography/) — Knowing through negation
 

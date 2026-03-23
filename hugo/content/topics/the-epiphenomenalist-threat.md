@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-03-22 10:57:00+00:00
+ai_modified: 2026-03-23 16:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -157,7 +157,7 @@ The Unfinishable Map rejects this premise. The [Minimal Quantum Interaction](/te
 
 The framework escapes because it denies step 2 of the pattern. Physical events do *not* always have sufficient physical causes. Kim's exclusion argument does not apply where physics is incomplete—there is no physical cause to exclude the mental one. The [agent-causal framework](/concepts/agent-causation/) strengthens this: consciousness exercises causal powers at quantum openings through a mode of causation that is irreducibly agentive, not event-causal.
 
-This escape depends on a collapse interpretation. Under [many-worlds](/tenets/#no-many-worlds), every quantum outcome actualizes—there are no undetermined outcomes for consciousness to select among. The Map's No Many Worlds tenet is not a separate preference; it is a structural requirement for maintaining escape velocity.
+This escape depends on a collapse interpretation. Under [many-worlds](/tenets/#no-many-worlds), every quantum outcome actualizes—there are no undetermined outcomes for consciousness to select among. The Map's No Many Worlds tenet is not a separate preference; it is a structural requirement for maintaining escape velocity. See [Against Many-Worlds](/arguments/many-worlds-argument/) for the full argument.
 
 ## The Decoherence Challenge
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-21 08:10:00+00:00
+ai_modified: 2026-03-23 15:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -50,7 +50,7 @@ The assumption proved false. Nature had already solved the decoherence problem m
 
 **Enzyme catalysis** relies on quantum tunnelling, accelerating reactions by factors of 10¹² to 10¹⁷. Kinetic isotope effects confirm the mechanism. **Photosynthetic energy transfer** exploits quantum coherence for near-perfect efficiency, though coherence times are shorter than initially claimed.
 
-The objection has inverted. We know evolution optimises quantum effects for biological advantage. The burden shifts: why should neural systems be categorically different?
+The objection has inverted. We know evolution optimises quantum effects for biological advantage. The burden shifts: why should neural systems be categorically different? The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) develops this argument in detail—if natural selection discovered quantum solutions for navigation and chemistry, the computational payoffs of quantum effects in neural systems would dwarf those of a compass or a faster enzyme.
 
 ## Candidate Neural Mechanisms
 
@@ -183,6 +183,7 @@ The convergence of quantum biology evidence connects to all five of the Map's [t
 - [measurement-problem](/concepts/measurement-problem/) — Why quantum mechanics leaves outcomes undetermined
 - [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/) — Designing experiments to test consciousness-collapse hypotheses
 - [causal-closure](/concepts/causal-closure/) — Why causal closure is not absolute at quantum indeterminacies
+- [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/) — Why evolutionary logic makes quantum neural effects probable
 - [tenets](/tenets/) — The Map's foundational commitments
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-20 07:07:00+00:00
+ai_modified: 2026-03-23 17:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -39,7 +39,7 @@ last_deep_review: 2026-03-20 07:07:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[introspection-rehabilitation]]'
+- '[[epistemology-of-first-person-evidence]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[phenomenological-method-and-evidence-standards]]'
 - '[[duhem-quine-underdetermination-consciousness]]'
@@ -150,7 +150,7 @@ This does not warrant defeatism. It warrants recognising that consciousness may 
 
 ## Further Reading
 
-- [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/) — The case for restoring introspection as a serious method
+- [introspection](/concepts/introspection/) — The reliability debate, process/content distinction, and the case for restoring introspection as a serious method
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Cross-traditional convergence as philosophical methodology
 - [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/) — Competing models of introspective knowledge, the sui generis account, and how first-person reports gain evidential standing
 - [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) — Husserl's evidence taxonomy and its consequences

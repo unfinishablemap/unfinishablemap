@@ -32,7 +32,7 @@ topics:
 
 Gödel's incompleteness theorems prove that any sufficiently powerful formal system contains true statements it cannot prove. This mathematical result has profound implications for understanding consciousness: if minds are formal systems, they face inherent limits on self-knowledge. If minds transcend formal systems, the mechanism of that transcendence may itself be unknowable. Either way, a void opens.
 
-This is not merely the [self-reference paradox](/voids/unobservable-self/) in formal dress. The incompleteness void concerns truths that are *provably* inaccessible—not because we lack time or intelligence, but because the mathematics of self-reference precludes access. Gödel demonstrated something stronger than "we haven't figured this out yet." He proved certain truths lie beyond the reach of specific methods, permanently.
+This is not merely the [self-reference paradox](/concepts/self-reference-paradox/) in formal dress. The incompleteness void concerns truths that are *provably* inaccessible—not because we lack time or intelligence, but because the mathematics of self-reference precludes access. Gödel demonstrated something stronger than "we haven't figured this out yet." He proved certain truths lie beyond the reach of specific methods, permanently.
 
 ## Gödel's Disjunction
 
@@ -157,7 +157,7 @@ The incompleteness void differs from other voids in being *mathematically demons
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
-- [The Self-Reference Paradox](/voids/unobservable-self/) — Phenomenological and structural obstacles to self-understanding
+- [The Self-Reference Paradox](/concepts/self-reference-paradox/) — Phenomenological and structural obstacles to self-understanding
 - [Computational and Cognitive Limits](/voids/computational-cognitive-limits/) — Turing, Gödel, and the boundaries of computation
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural cognitive limits
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive limits illuminate cognitive architecture

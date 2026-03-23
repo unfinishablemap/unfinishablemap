@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-03-23 12:23:00+00:00
+ai_modified: 2026-03-23 17:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -111,7 +111,7 @@ The framework void ultimately suggests that the Map is unfinishable not merely b
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — The principle that what we cannot think reveals what kind of minds we are
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence for species-level framework constraints
 - [ai-as-void-explorer](/voids/ai-as-void-explorer/) — Whether artificial minds can transcend human framework limits
-- [The Social Epistemic Void](/voids/intersubjective-void/) — How social knowledge mechanisms enforce framework constraints on phenomenal reports
+- [The Intersubjective Void](/voids/intersubjective-void/) — How social knowledge mechanisms enforce framework constraints on phenomenal reports
 
 ## References
 

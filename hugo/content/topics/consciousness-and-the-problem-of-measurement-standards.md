@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-23 17:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,7 +26,7 @@ modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'
 - '[[epistemology-of-first-person-evidence]]'
-- '[[introspection-rehabilitation]]'
+- '[[introspection]]'
 - '[[quantum-measurement-and-consciousness]]'
 - '[[knowledge-argument]]'
 - '[[consciousness-and-the-meta-problem-of-scientific-explanation]]'
@@ -114,7 +114,7 @@ As the Map explores in [methodology-of-consciousness-research](/topics/methodolo
 
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)
 - [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/)
-- [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/)
+- [introspection](/concepts/introspection/)
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
 - [knowledge-argument](/concepts/knowledge-argument/)

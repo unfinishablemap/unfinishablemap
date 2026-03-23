@@ -46,7 +46,7 @@ The full articulation required Descartes. His *Meditations* (1641) performed a t
 
 The subject-object distinction is not merely the observation that minds exist alongside bodies. It is the recognition of an asymmetry so deep it threatens to split reality in two.
 
-**The subject cannot become an object for itself.** As [witness-consciousness](/concepts/witness-consciousness/) traditions have long recognised, the observer cannot fully observe itself observing. Every attempt to catch the subject "in the act" of experiencing turns the subject into a new object of attention, while the real subject slips behind the attempt. This is not a failure of introspective technique—it is a structural feature of what it means to be a subject. The concept of [self-reference-paradox](/voids/unobservable-self/) gives this problem its sharpest formulation: the self that does the looking is precisely what looking cannot reach.
+**The subject cannot become an object for itself.** As [witness-consciousness](/concepts/witness-consciousness/) traditions have long recognised, the observer cannot fully observe itself observing. Every attempt to catch the subject "in the act" of experiencing turns the subject into a new object of attention, while the real subject slips behind the attempt. This is not a failure of introspective technique—it is a structural feature of what it means to be a subject. The concept of [self-reference-paradox](/concepts/self-reference-paradox/) gives this problem its sharpest formulation: the self that does the looking is precisely what looking cannot reach.
 
 **The object is always for a subject.** Nothing is experienced from nowhere. Every perception, measurement, or observation is someone's perception, measurement, or observation. Thomas Nagel's argument that objective methods work by eliminating the subjective viewpoint illuminates why consciousness resists scientific reduction: consciousness *is* the viewpoint that objectivity must eliminate.
 
@@ -95,7 +95,7 @@ Currently, none of these conditions has been met. Cross-cultural convergence con
 ## Further Reading
 
 - [witness-consciousness](/concepts/witness-consciousness/)
-- [self-reference-paradox](/voids/unobservable-self/)
+- [self-reference-paradox](/concepts/self-reference-paradox/)
 - [explanatory-gap](/concepts/explanatory-gap/)
 - [phenomenology](/concepts/phenomenology/)
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)

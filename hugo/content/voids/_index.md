@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-03-23 12:23:00+00:00
+ai_modified: 2026-03-23 17:30:00+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
@@ -93,7 +93,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Intentionality Void](/voids/intentionality-void/) — How thoughts achieve their aboutness, hidden from the consciousness it constitutes
 - [The Creativity Void](/voids/creativity-void/) — Where creative insight originates, inaccessible to introspection
 - [The Aesthetic Void](/voids/aesthetic-void/) — Where articulation fails at beauty and sublimity
-- [The Self-Reference Paradox](/voids/unobservable-self/) — Where consciousness cannot map because it is the mapper
+- [The Self-Reference Paradox](/concepts/self-reference-paradox/) — Where consciousness cannot map because it is the mapper
 - [The Incompleteness Void](/voids/incompleteness-void/) — Gödel's shadow on self-knowledge
 - [The Dream Consciousness Void](/voids/sleep-consciousness-void/) — Bidirectional inaccessibility between waking and dreaming
 - [The Temporal Void](/voids/temporal-void/) — Why consciousness is confined to a moving present and cannot simultaneously live and measure its own time
@@ -166,7 +166,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 
 - [Evolved Cognitive Limits](/voids/biological-cognitive-closure/) — Cross-cultural evidence for shared limits
 - [Collective Cognitive Limits](/voids/collective-cognitive-limits/) — What groups cannot think
-- [The Social Epistemic Void](/voids/intersubjective-void/) — How testimony and social calibration suppress phenomenal knowledge
+- [The Intersubjective Void](/voids/intersubjective-void/) — How testimony and social calibration suppress phenomenal knowledge
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — Evolved versus engineered constraints
 - [Tenet-Generated Voids](/voids/tenet-generated-voids/) — Limits implied by the Map's commitments
 - [The Historical Consciousness Void](/voids/historical-consciousness-void/) — Whether consciousness itself has changed over historical time

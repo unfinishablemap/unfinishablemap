@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-22 06:41:00+00:00
+ai_modified: 2026-03-23 17:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -36,7 +36,7 @@ related_articles:
 - '[[tenets]]'
 - '[[introspection-reliability-first-person-2026-01-15]]'
 - '[[phenomenology-of-cognitive-limit-types]]'
-- '[[social-epistemic-void]]'
+- '[[intersubjective-void]]'
 - '[[recognition-void]]'
 title: Introspection and First-Person Methods
 topics:
@@ -51,7 +51,7 @@ Nisbett and Wilson's 1977 study "Telling More Than We Can Know" demonstrated tha
 
 Choice blindness experiments extended this dramatically. When researchers covertly switched participants' chosen photos, 75% remained blind to the mismatch—and confabulated detailed justifications for choices they never made.
 
-Eric Schwitzgebel catalogued further failures: people cannot reliably report whether they dream in color, how often they experience inner speech, or the character of peripheral vision. The calibration problem looms: how can we evaluate introspection's accuracy when we have no external standard? The [social-epistemic-void](/voids/intersubjective-void/) compounds this: social calibration pressures individuals to adjust phenomenal reports to match consensus, masking whatever underlying diversity exists.
+Eric Schwitzgebel catalogued further failures: people cannot reliably report whether they dream in color, how often they experience inner speech, or the character of peripheral vision. The calibration problem looms: how can we evaluate introspection's accuracy when we have no external standard? The [intersubjective-void](/voids/intersubjective-void/) compounds this: social calibration pressures individuals to adjust phenomenal reports to match consensus, masking whatever underlying diversity exists.
 
 ## The Crucial Distinction: Process vs. Content
 
@@ -137,13 +137,13 @@ The mathematical case sharpens the illusionist regress: when illusionists grasp 
 
 ## The Unobservable Self: Introspection's Deepest Limit
 
-[The unobservable self](/voids/unobservable-self/) reveals a structural limit beyond reliability: the observer cannot observe itself observing. Direct attention inward. Observe your observing. What happens? You become aware of awareness—but now two layers exist. Attempt to observe *that* awareness—a third layer forms. The regression has no endpoint. The [phenomenology of recursive thought](/topics/phenomenology-of-recursive-thought/) maps what this layered awareness feels like—the distinctive phenomenal qualities that emerge as consciousness folds back on itself through levels of self-reference.
+[The unobservable self](/concepts/self-reference-paradox/) reveals a structural limit beyond reliability: the observer cannot observe itself observing. Direct attention inward. Observe your observing. What happens? You become aware of awareness—but now two layers exist. Attempt to observe *that* awareness—a third layer forms. The regression has no endpoint. The [phenomenology of recursive thought](/topics/phenomenology-of-recursive-thought/) maps what this layered awareness feels like—the distinctive phenomenal qualities that emerge as consciousness folds back on itself through levels of self-reference.
 
 This differs from the process/content distinction. That distinction says we cannot introspect *why* we think but can introspect *what* we experience. The unobservable self reveals a limit even on content: the content that *is* current observing cannot be observed without transforming into past content.
 
 David Hume put it empirically: "I can never catch myself at any time without a perception." When we look for the looker, we find only more looking. [Witness consciousness](/concepts/witness-consciousness/) traditions recognise this: the instruction to "look at the looker" exhausts the search rather than finding something.
 
-The implications: the hard problem is structurally hard (understanding subjectivity requires making subjectivity into an object); training reaches a principled limit (meditators report the limit more clearly, not overcome it); and the calibration problem has a structural root (the thing to be calibrated *is* the calibrator). The [phenomenology-of-self-awareness](/voids/phenomenology-of-self-awareness/) documents what this structural difficulty feels like from the inside: the felt inversion, semantic vertigo, and oscillation that arise when consciousness takes itself as referent. The [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) places these introspective signatures within a broader diagnostic grid, showing how construction-mistaken-for-observation is the characteristic failure mode of introspective limits — where the detection mechanism is itself implicated. See [self-reference-paradox](/voids/unobservable-self/) for extended treatment.
+The implications: the hard problem is structurally hard (understanding subjectivity requires making subjectivity into an object); training reaches a principled limit (meditators report the limit more clearly, not overcome it); and the calibration problem has a structural root (the thing to be calibrated *is* the calibrator). The [phenomenology-of-self-awareness](/voids/phenomenology-of-self-awareness/) documents what this structural difficulty feels like from the inside: the felt inversion, semantic vertigo, and oscillation that arise when consciousness takes itself as referent. The [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) places these introspective signatures within a broader diagnostic grid, showing how construction-mistaken-for-observation is the characteristic failure mode of introspective limits — where the detection mechanism is itself implicated. See [self-reference-paradox](/concepts/self-reference-paradox/) for extended treatment.
 
 ## Error-Blindness: A Structural Limit
 
@@ -170,7 +170,7 @@ This matters for consciousness science. If we restricted inquiry to third-person
 ## Further Reading
 
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) — How linguistic mediation shapes what introspection can access
-- [self-reference-paradox](/voids/unobservable-self/) — The structural impossibility of observing the observer
+- [self-reference-paradox](/concepts/self-reference-paradox/) — The structural impossibility of observing the observer
 - [causal-interface](/voids/causal-interface/) — The void where process access fails most dramatically
 - [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Mathematical insight as paradigmatic introspective content
 - [phenomenology](/concepts/phenomenology/) — The tradition most committed to first-person investigation
@@ -186,7 +186,7 @@ This matters for consciousness science. If we restricted inquiry to third-person
 - [attention-disorders-and-consciousness](/voids/attention-disorders-and-consciousness/) — When the attentional basis of introspection is itself disordered
 - [The Transition Void](/voids/transition-void/) — Why consciousness cannot witness its own state transitions—a structural introspective limit
 - [The Dream Consciousness Void](/voids/sleep-consciousness-void/) — State-dependent limits on introspecting dreaming from waking
-- [The Social Epistemic Void](/voids/intersubjective-void/) — How social calibration and hermeneutical gaps compound introspective unreliability at the collective level
+- [The Intersubjective Void](/voids/intersubjective-void/) — How social calibration and hermeneutical gaps compound introspective unreliability at the collective level
 
 ## References
 

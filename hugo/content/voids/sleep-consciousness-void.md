@@ -183,7 +183,7 @@ The evidence currently favours genuine state-dependent inaccessibility. But the 
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — Neuroscience of consciousness gradations across sleep stages
 - [witness-consciousness](/concepts/witness-consciousness/) — The Vedantic concept of awareness that observes without identifying
 - [personal-identity](/topics/personal-identity/) — What grounds identity through gaps in consciousness
-- [self-reference-paradox](/voids/unobservable-self/) — The subject that cannot become its own object
+- [self-reference-paradox](/concepts/self-reference-paradox/) — The subject that cannot become its own object
 - [death-void](/voids/death-void/) — Consciousness cannot represent its own permanent cessation
 - [inaccessible-past](/voids/inaccessible-past/) — Whether past qualia can be recovered or are lost forever
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What only phenomenal experience can access

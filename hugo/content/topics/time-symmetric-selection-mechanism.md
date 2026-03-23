@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-03-07 16:51:00+00:00
+ai_modified: 2026-03-23 16:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -206,7 +206,7 @@ Time-symmetric selection connects tightly to the Map's tenets:
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Time-symmetric physics makes bidirectional causation natural. If fundamental laws are time-symmetric, backward-pointing causation has the same status as forward-pointing. Consciousness influencing what becomes actual—even when the "what" includes earlier neural activity—isn't mysterious addition to physics but recognition of physics' time-symmetric structure.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Time-symmetric selection requires collapse to be real. On the Many-Worlds Interpretation, all outcomes occur in branching worlds—there's no selection, only discovery of which branch one inhabits. The framework depends on genuine selection actualising one possibility and eliminating others. MWI eliminates what the model requires.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Time-symmetric selection requires collapse to be real. On the Many-Worlds Interpretation, all outcomes occur in branching worlds—there's no selection, only discovery of which branch one inhabits. The framework depends on genuine selection actualising one possibility and eliminating others. MWI eliminates what the model requires. See [Against Many-Worlds](/arguments/many-worlds-argument/) for why.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Atemporal selection seems exotic—causation that doesn't flow in time, consciousness operating outside temporal sequence. But the framework draws on well-developed physics (transactional interpretation, TSVF) and makes sense of otherwise puzzling phenomena (Libet timing, phenomenology of decision). The apparent simplicity of sequential causation may reflect our cognitive limitations, not reality's structure.
 

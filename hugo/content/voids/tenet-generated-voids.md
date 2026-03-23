@@ -50,7 +50,7 @@ Each tenet generates its characteristic void—a question the tenet points towar
 
 **What it cannot answer**: What *is* the irreducible non-physical aspect?
 
-Dualism establishes that consciousness cannot be fully explained in physical terms, but provides no positive characterisation of what consciousness *is*. The positive nature remains void. This isn't a failure of effort. Any positive description using concepts derived from physical or functional analysis will fail by definition. And we have no access to consciousness-concepts except through a consciousness that cannot fully examine itself (see [self-reference-paradox](/voids/unobservable-self/)).
+Dualism establishes that consciousness cannot be fully explained in physical terms, but provides no positive characterisation of what consciousness *is*. The positive nature remains void. This isn't a failure of effort. Any positive description using concepts derived from physical or functional analysis will fail by definition. And we have no access to consciousness-concepts except through a consciousness that cannot fully examine itself (see [self-reference-paradox](/concepts/self-reference-paradox/)).
 
 The phenomenology of this void: hitting a wall when trying to articulate the nature of experience. "Consciousness is..." and no completion is available that doesn't reduce or merely point. The [binding void](/voids/binding-void/) sharpens this: even the most basic feature of consciousness—phenomenal unity, present in every moment—resists analysis entirely. The [substrate void](/voids/substrate-void/) traces this characterisation failure from Descartes to the present.
 
@@ -170,7 +170,7 @@ The framework-generated-voids analysis would be undermined if:
 - [The Indexical Void](/voids/indexical-void/) — Why am I *this* consciousness?
 - [The Plurality Void](/voids/plurality-void/) — Why consciousness cannot be plural
 - [Whether the Voids Are Real](/voids/whether-real/) — The question of genuine versus apparent limits
-- [The Self-Reference Paradox](/voids/unobservable-self/) — Why consciousness cannot fully examine itself
+- [The Self-Reference Paradox](/concepts/self-reference-paradox/) — Why consciousness cannot fully examine itself
 - [The Binding Void](/voids/binding-void/) — Why phenomenal unity resists explanation entirely
 - [The Substrate Void](/voids/substrate-void/) — What consciousness is made of (the Nature Void in depth)
 - [The Surplus Void](/voids/the-surplus-void/) — Why experience delivers more than function requires

@@ -61,7 +61,7 @@ topics: []
 - [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/) — Further Reading
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — Further Reading
 - [recursion-void](/voids/recursion-void/) — Further Reading
-- [self-reference-paradox](/voids/unobservable-self/) — Further Reading
+- [self-reference-paradox](/concepts/self-reference-paradox/) — Further Reading
 - [incompleteness-void](/voids/incompleteness-void/) — Further Reading
 - [ai-as-void-explorer](/voids/ai-as-void-explorer/) — Further Reading
 - [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/) — Further Reading

@@ -53,7 +53,7 @@ This matters for The Unfinishable Map because it reveals something essential abo
 
 ### The Identity Dimension
 
-The past self occupies a unique position among the Map's [voids](/voids/). It is not another subject (like the [other-minds void](/voids/other-minds-void/)), not a historical epoch's consciousness (like the [historical-consciousness-void](/voids/historical-consciousness-void/)), not the present self turning back on itself (like the [self-reference-paradox](/voids/unobservable-self/)). It is something in between — a self we were but can no longer be. The most radical form is the [infant consciousness void](/voids/infant-consciousness/), where the inaccessibility is compounded by physical demolition of the neural substrate — synaptic pruning destroys the very circuits that supported infant experience, making that past self not merely forgotten but architecturally unrecoverable.
+The past self occupies a unique position among the Map's [voids](/voids/). It is not another subject (like the [other-minds void](/voids/other-minds-void/)), not a historical epoch's consciousness (like the [historical-consciousness-void](/voids/historical-consciousness-void/)), not the present self turning back on itself (like the [self-reference-paradox](/concepts/self-reference-paradox/)). It is something in between — a self we were but can no longer be. The most radical form is the [infant consciousness void](/voids/infant-consciousness/), where the inaccessibility is compounded by physical demolition of the neural substrate — synaptic pruning destroys the very circuits that supported infant experience, making that past self not merely forgotten but architecturally unrecoverable.
 
 Just as you can never directly access another person's experience — only infer from behaviour — you cannot directly access your past self's experience. The structural privacy of consciousness applies across time as much as across persons. And the [temporal asymmetry](/voids/temporal-void/) adds a further wrinkle: we seem to re-experience the past but only imagine the future, yet even re-experiencing is construction, not access. The "pastness quale" marks something as having happened, but the marked content is reconstructed, not retrieved.
 
@@ -184,7 +184,7 @@ None of these conditions has been met. Memory is construction, not retrieval, an
 - [episodic-memory](/concepts/episodic-memory/) — The memory system that stores experienced events
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The self-knowing awareness that enables "mental time travel"
 - [personal-identity](/topics/personal-identity/) — What makes you the same person over time
-- [self-reference-paradox](/voids/unobservable-self/) — The present self is also elusive
+- [self-reference-paradox](/concepts/self-reference-paradox/) — The present self is also elusive
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — Related phenomenology of cognitive limitation
 - [consciousness-and-memory](/topics/consciousness-and-memory/) — How memory systems map onto levels of consciousness
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — The epistemic standing of contemplative reports

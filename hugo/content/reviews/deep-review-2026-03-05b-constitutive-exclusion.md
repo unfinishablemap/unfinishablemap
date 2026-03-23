@@ -49,7 +49,7 @@ topics: []
 
 ### Cross-links Added (Inbound - Orphan Integration)
 8 articles now link to constitutive-exclusion (body link + Further Reading):
-- [self-reference-paradox](/voids/unobservable-self/) — body: self-reference as special case of constitutive exclusion
+- [self-reference-paradox](/concepts/self-reference-paradox/) — body: self-reference as special case of constitutive exclusion
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — body: Kantian cognitive apparatus as constitutive contribution
 - [the-participatory-universe](/topics/the-participatory-universe/) — body: Wheeler's participatory constitution entails constitutive exclusion
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — body: constitutive exclusion makes explanatory gap structural

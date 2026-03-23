@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-23 15:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -72,6 +72,7 @@ related_articles:
 - '[[phenomenological-psychiatry-and-altered-experience]]'
 - '[[objectivity-and-consciousness]]'
 - '[[bandwidth-of-consciousness]]'
+- '[[perception]]'
 - '[[duhem-quine-underdetermination-consciousness]]'
 - '[[what-consciousness-tells-us-about-physics]]'
 - '[[the-hard-problem-in-non-western-philosophy]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-20 13:03:00+00:00
+ai_modified: 2026-03-23 15:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -137,7 +137,7 @@ Three established examples refute the categorical claim that warm biological sys
 
 **Magnetoreception**: Birds navigate using quantum entanglement in cryptochrome proteins, with spin coherence persisting for *microseconds*—a million times longer than typical molecular decoherence in solution. **Enzyme catalysis**: Quantum tunnelling contributes to reaction acceleration factors of 10¹² to 10¹⁷, confirmed by large kinetic isotope effects. **Photosynthesis**: While coherence lifetimes proved shorter than initially claimed (~60 femtoseconds), quantum effects demonstrably operate in warm biological conditions.
 
-Biology evolved to harness quantum effects, not avoid them. The question is whether similar mechanisms operate in neural processing.
+Biology evolved to harness quantum effects, not avoid them. The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) argues that the same selective logic applies to neural systems—where the computational payoffs would dwarf those of a compass or a faster enzyme. The question is whether similar mechanisms operate in neural processing.
 
 ## The Receding Quantum-Classical Boundary
 

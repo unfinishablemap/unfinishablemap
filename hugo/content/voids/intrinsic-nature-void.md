@@ -136,7 +136,7 @@ The hard problem is expected if physics cannot reach intrinsic nature and consci
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [acquaintance-void](/voids/acquaintance-void/) — The narrowness of our phenomenal window into intrinsic nature
 - [valence-void](/voids/valence-void/) — Valence as the most fundamental intrinsic nature we encounter
-- [self-reference-paradox](/voids/unobservable-self/) — Why consciousness cannot fully examine itself
+- [self-reference-paradox](/concepts/self-reference-paradox/) — Why consciousness cannot fully examine itself
 - [constitutive-exclusion](/topics/constitutive-exclusion/) — Why consciousness cannot access reality independent of its own contribution
 
 ## References

@@ -3,7 +3,7 @@ title: "The Epistemology of First-Person Evidence"
 created: 2026-02-11
 modified: 2026-03-23
 human_modified: null
-ai_modified: 2026-03-23T17:09:00+00:00
+ai_modified: 2026-03-23T17:30:00+00:00
 draft: false
 description: "What introspection provides, how reliable it is, and why phenomenal reports are indispensable to consciousness science. Four models, five calibration strategies, and warranted trust."
 topics:
@@ -39,7 +39,7 @@ related_articles:
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[knowledge-argument]]"
   - "[[argument-from-reason]]"
-  - "[[social-epistemic-void]]"
+  - "[[intersubjective-void]]"
   - "[[objectivity-and-consciousness]]"
   - "[[epistemology-of-convergence-arguments]]"
   - "[[epistemology-of-other-minds-under-dualism]]"
@@ -213,7 +213,7 @@ A deeper challenge comes from traditions that dissolve the observer-observed bou
 - [[ethics-and-value-in-a-dualist-world]] — How introspective epistemology grounds unified dualist ethics
 - [[knowledge-argument]] — Mary's room and the limits of physical knowledge
 - [[galilean-exclusion]] — How modern science excluded the subjective
-- [[social-epistemic-void]] — How social knowledge mechanisms filter non-standard phenomenal experience
+- [[intersubjective-void]] — How social knowledge mechanisms filter non-standard phenomenal experience
 - [[epistemology-of-convergence-arguments]] — Formal conditions for when cross-traditional convergence carries evidential weight
 - [[epistemology-of-other-minds-under-dualism]] — How first-person evidence grounds inference to other conscious minds
 - [[epistemology-of-mechanism-at-the-consciousness-matter-interface]] — Epistemic asymmetry between first-person and third-person access to the interface

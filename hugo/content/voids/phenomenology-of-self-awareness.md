@@ -75,7 +75,7 @@ Husserl's analysis of time-consciousness describes something structurally simila
 
 The [intentionality](/concepts/intentionality/) of consciousness—its aboutness—presupposes a distinction between what is directed and what is directed-at. Self-reference bends this relation into a loop. When subject and object collapse into one, intentionality reaches a boundary condition.
 
-This differs from the [formal self-reference paradox](/voids/unobservable-self/) (which concerns logical limitations like Gödel's incompleteness) and from the elusiveness of the observer—the phenomenological fact that attention turned inward finds only more attending, never the attender. The difficulty here is that targeting and target are the same act. The [recursion-void](/voids/recursion-void/) shows that iterating self-reference collapses around fifth-order depth, but the phenomenology suggests the fundamental instability appears already at the first iteration—the collapse at higher levels amplifies what is present from the start.
+This differs from the [formal self-reference paradox](/concepts/self-reference-paradox/) (which concerns logical limitations like Gödel's incompleteness) and from the elusiveness of the observer—the phenomenological fact that attention turned inward finds only more attending, never the attender. The difficulty here is that targeting and target are the same act. The [recursion-void](/voids/recursion-void/) shows that iterating self-reference collapses around fifth-order depth, but the phenomenology suggests the fundamental instability appears already at the first iteration—the collapse at higher levels amplifies what is present from the start.
 
 ## Error-Blindness
 
@@ -179,7 +179,7 @@ None currently obtains. Error-blindness persists despite millennia of attention.
 
 ## Further Reading
 
-- [self-reference-paradox](/voids/unobservable-self/) — The formal and structural analysis of consciousness examining itself
+- [self-reference-paradox](/concepts/self-reference-paradox/) — The formal and structural analysis of consciousness examining itself
 - [observation-void](/voids/observation-void/) — The structural impossibility of observing observation itself
 - [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-thought/) — The experiential structure of layered meta-cognition
 - [metacognition](/concepts/metacognition/) — The cognitive capacity enabling (limited) self-monitoring

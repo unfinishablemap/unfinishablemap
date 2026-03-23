@@ -38,13 +38,13 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The Unfinishable Map catalogues individual [voids](/voids/)—the [self-reference-paradox](/voids/unobservable-self/), the [language-thought-boundary](/voids/language-thought-boundary/), the [recursion-void](/voids/recursion-void/), the [incompleteness-void](/voids/incompleteness-void/)—as if each were an independent obstacle. But cognitive limits do not operate in isolation. Where two or more limits overlap, the hidden territory is not the sum of what each conceals. It is something qualitatively different: an emergent blindness that no single limit predicts and no single investigation can reach.
+The Unfinishable Map catalogues individual [voids](/voids/)—the [self-reference-paradox](/concepts/self-reference-paradox/), the [language-thought-boundary](/voids/language-thought-boundary/), the [recursion-void](/voids/recursion-void/), the [incompleteness-void](/voids/incompleteness-void/)—as if each were an independent obstacle. But cognitive limits do not operate in isolation. Where two or more limits overlap, the hidden territory is not the sum of what each conceals. It is something qualitatively different: an emergent blindness that no single limit predicts and no single investigation can reach.
 
 Cognitive science calls this *superadditivity*. When multiple cognitive demands compete for overlapping resources, their combined interference exceeds the sum of individual effects (Spagna et al., 2020). The move from task-level interference to epistemic limits is not merely analogical. Cognitive limits *are* resource limitations—self-reference, language production, and metacognitive recursion draw on the same neural architecture that Spagna et al. studied. If dual-task performance degrades superadditively because competing processes share neural substrates, then epistemic capacities sharing the same substrates should exhibit the same nonlinearity when exercised simultaneously. Compound cognitive limits create voids larger and stranger than their components.
 
 ## Beyond Additive Blindness
 
-The default assumption about multiple cognitive limits is additive: if the [self-reference-paradox](/voids/unobservable-self/) hides territory *A* and the [language-thought-boundary](/voids/language-thought-boundary/) hides territory *B*, then both operating together hide *A + B*. This assumption is wrong.
+The default assumption about multiple cognitive limits is additive: if the [self-reference-paradox](/concepts/self-reference-paradox/) hides territory *A* and the [language-thought-boundary](/voids/language-thought-boundary/) hides territory *B*, then both operating together hide *A + B*. This assumption is wrong.
 
 Spagna et al. (2020) demonstrated that when competing cognitive processes draw on overlapping neural resources, performance decrement is superadditive—the combined effect exceeds what either task alone would predict. Their work on posterior alpha and gamma oscillations showed that "the inefficient sharing of neural resources by competing cognitive processes" produces nonlinear interference, not simple summation.
 
@@ -56,7 +56,7 @@ Compound limits interact through at least three distinct mechanisms.
 
 ### Superadditive Interference
 
-When limits draw on overlapping resources, the compound effect exceeds the sum. The [self-reference-paradox](/voids/unobservable-self/)—consciousness cannot fully model itself—compounds with the [language-thought-boundary](/voids/language-thought-boundary/)—experience exceeds articulable thought. Together they create a zone where consciousness can neither model *nor* articulate what it is. Each limit alone permits partial access: self-reference allows non-linguistic self-awareness, and language allows descriptions of non-self-referential experience. The compound shuts both routes simultaneously.
+When limits draw on overlapping resources, the compound effect exceeds the sum. The [self-reference-paradox](/concepts/self-reference-paradox/)—consciousness cannot fully model itself—compounds with the [language-thought-boundary](/voids/language-thought-boundary/)—experience exceeds articulable thought. Together they create a zone where consciousness can neither model *nor* articulate what it is. Each limit alone permits partial access: self-reference allows non-linguistic self-awareness, and language allows descriptions of non-self-referential experience. The compound shuts both routes simultaneously.
 
 ### Mutual Reinforcement
 
@@ -96,7 +96,7 @@ The Map's tenet that [Occam's Razor has limits](/tenets/#occams-limits) is direc
 
 The Map's commitment to [dualism](/tenets/#dualism) gains support from compound closure. If consciousness has structural properties not derivable from component analysis—if the compound behaviour of cognitive limits is irreducible to individual limits—this parallels the irreducibility claim at the heart of dualism. The architecture of mind is not a collection of separable capacities and limits but a system whose compound behaviour resists decomposition.
 
-For [minimal quantum interaction](/tenets/#minimal-quantum-interaction), compound voids offer a possible explanation for why the consciousness-physics interface remains hidden. It is not merely hard to observe (empirical difficulty). It sits behind the intersection of the [self-reference-paradox](/voids/unobservable-self/) (the observer cannot observe itself observing), the [intrinsic-nature-void](/voids/intrinsic-nature-void/) (we cannot know what matter is in itself), and the [causal interface void](/voids/causal-interface/) (the mechanism connecting mind and brain is opaque). Three locks, each requiring a different key—and the compound closure ensures that possessing any two keys is insufficient.
+For [minimal quantum interaction](/tenets/#minimal-quantum-interaction), compound voids offer a possible explanation for why the consciousness-physics interface remains hidden. It is not merely hard to observe (empirical difficulty). It sits behind the intersection of the [self-reference-paradox](/concepts/self-reference-paradox/) (the observer cannot observe itself observing), the [intrinsic-nature-void](/voids/intrinsic-nature-void/) (we cannot know what matter is in itself), and the [causal interface void](/voids/causal-interface/) (the mechanism connecting mind and brain is opaque). Three locks, each requiring a different key—and the compound closure ensures that possessing any two keys is insufficient.
 
 [Tenet-generated voids](/voids/tenet-generated-voids/) already recognises that some voids emerge from the *interaction* between tenets rather than from individual commitments. Compound cognitive limits extend this principle beyond tenet-generated voids to the full ecology of cognitive limitation. The Map should treat its voids not as a catalogue of independent items but as an interacting system—where relationships between voids are as informative as the voids themselves, and where [what the limits reveal](/voids/limits-reveal-structure/) includes what their interactions reveal.
 
@@ -105,7 +105,7 @@ For [minimal quantum interaction](/tenets/#minimal-quantum-interaction), compoun
 - [topology-of-cognitive-failure](/voids/compound-failure-signatures/)
 - [tenet-generated-voids](/voids/tenet-generated-voids/)
 - [recursion-void](/voids/recursion-void/)
-- [self-reference-paradox](/voids/unobservable-self/)
+- [self-reference-paradox](/concepts/self-reference-paradox/)
 - [language-thought-boundary](/voids/language-thought-boundary/)
 - [incompleteness-void](/voids/incompleteness-void/)
 - [causal-interface](/voids/causal-interface/)

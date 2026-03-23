@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-23 12:15:00+00:00
+ai_modified: 2026-03-23 16:59:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,9 +38,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review narrative-coherence.md
+
+### P2: Cross-review articles considering self-reference-paradox.md insights
+- **Type**: cross-review
+- **Notes**: New concept page `concepts/self-reference-paradox.md` created 2026-03-23 via expand-topic. Over 100 articles already link to `[self-reference-paradox](/concepts/self-reference-paradox/)`. Key articles that discuss self-reference extensively (consciousness-and-the-authority-of-formal-systems, self-stultification-as-master-argument, galilean-exclusion, self-reference-and-the-limits-of-physical-description) should be reviewed for consistency with the new dedicated concept page, potential reinforcing cross-links, and terminology alignment.
+- **Source**: chain (from self-reference-paradox.md)
+- **Generated**: 2026-03-23
+
+### P2: Create concept page for adaptive-cognitive-limits
+- **Type**: expand-topic
+- **Notes**: Referenced by 3 content files (`three-kinds-of-void` and others) but has no page. The concept that certain cognitive limitations may serve adaptive functions — evolved constraints that are features rather than bugs — is relevant to the voids programme and Tenet 5 (Occam's Razor Has Limits). Research note `research/voids-adaptive-cognitive-limits-2026-02-08.md` available as source. Target section: concepts/ (224/230, 6 slots remaining).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-23
+
+### P2: Fix 5 broken wikilinks to consciousness-and-the-neuroscience-of-deliberate-practice
+- **Type**: refine-draft
+- **Notes**: No `consciousness-and-the-neuroscience-of-deliberate-practice.md` exists. 5 content files reference it (including clinical-neuroplasticity-evidence and phenomenology-of-cognitive-capacity articles). The closest existing article is `consciousness-and-skill-acquisition.md` (topics/). Update all 5 broken wikilinks to point to the correct existing content.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-23
+
+### P3: Deep review dimensionality-void.md
 - **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-20 — 31 days ago. Concept page on narrative coherence as a feature of conscious experience. Not currently in the task queue despite meeting staleness threshold. Verify coherence, cross-references to recent intersubjectivity and self-identity articles, and tenet alignment.
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-23 via expand-topic from research/voids-dimensionality-void-2026-03-23.md, never reviewed. Has only 2 inbound links (minimal integration). Voids article on the limits of conscious spatial representation. Verify coherence, accuracy of claims about dimensional representation, cross-references to related void articles (mathematical-void, mind-space-void), and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-03-23
 
@@ -108,6 +127,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: File was archived (coalesced into the-epiphenomenalist-threat.md on 2026-03-20). No review needed.
 - **Source**: staleness
 - **Generated**: 2026-03-21
+
+### P3: Write article on philosophy of language under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How meaning bridges the mind-matter gap — if consciousness is non-physical, linguistic meaning cannot be exhausted by syntactic or functional properties. The Map has extensive epistemological content but lacks a systematic account of language under dualist assumptions. Builds on epistemology-of-first-person-evidence, self-reference-paradox, consciousness-and-testimony. Target section: topics/.
+- **Generated**: 2026-03-23
+
+### P3: Write article on neuroscience of anaesthetic recovery
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The altered-states apex article mentions the "active reboot" phenomenon (KCC2 downregulation, Bodart et al. 2021) without developing it. A dedicated article on what the brain does to prepare for consciousness's return would strengthen the interface model. Builds on altered-states-as-interface-evidence, anaesthesia-and-the-consciousness-interface. Research needed. Target section: topics/.
+- **Generated**: 2026-03-23
+
+### P3: Create concept page for phenomenal-authority
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The epistemic weight of first-person reports as distinct from both reliability and infallibility. Developed extensively in epistemology-of-first-person-evidence but has no dedicated concept page. Would serve as a hub for introspective evidence discussions. Target section: concepts/ (201/230, 29 slots remaining).
+- **Generated**: 2026-03-23
 
 ### P3: Deep review subjective-aim.md
 - **Type**: deep-review
@@ -1222,6 +1259,50 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Fix 20 broken wikilinks to introspection-rehabilitation
+- **Type**: refine-draft
+- **Notes**: No `introspection-rehabilitation.md` exists anywhere in the content directories. 20 content files reference `[introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/)` — the second most common broken wikilink on the site. The closest existing articles are `introspection.md` (concepts/) and `epistemology-of-first-person-evidence.md` (topics/). Audit each reference to determine the intended target and update all 20 broken wikilinks to point to the correct existing content.
+- **Output**: Task context:
+No `introspection-rehabilitation.md` exists anywhere in the content directories. 20 content files reference `[introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/)` — the second most common broken wikilink on the site. The closest existing articles are `introspection.md` (concepts/) and `epistemology-of-first-person-evidence.md` (topics/). Audit each reference to determine the intended target and update all 20 broken wikilinks to point to the correct existing content.
+
+### ✓ 2026-03-23: Integrate many-worlds-argument.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File in arguments/ has no inbound links. Add cross-references from related articles (e.g., many-worlds-interpretation, quantum-mechanics-and-consciousness, no-many-worlds tenet articles) or update section index pages to include navigation to this content.
+- **Output**: obsidian/arguments/many-worlds-argument.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-23: Create concept page for self-reference-paradox
+- **Type**: expand-topic
+- **Notes**: Referenced by 110 wikilinks across the site but has no dedicated page. Self-reference paradox is a core concept for the Map's arguments about consciousness and the limits of physical description. Target section: concepts/ (223/230, 7 slots remaining). Directly supports Tenet 5 (Occam's Razor Has Limits).
+- **Output**: Create concept page for self-reference-paradox
+
+### ✓ 2026-03-23: Address circular fitness argument and unsupported claims in evolution-under-dualism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) circular fitness argument in "Selection Pressure on Interfaces" section — interface selection assumes mental causation without independent grounding; (2) unsupported claim that attentional systems are "far more sophisticated than what pure information processing would require" with no computational baseline. See pessimistic-2026-03-23c.md
+- **Output**: obsidian/topics/evolution-under-dualism.md
+
+Task context:
+Pessimistic review found two high-severity issues: (1) circular fitness argument in "Selection Pressure on Interfaces" section — interface selection assumes mental causation without independent grounding; (2) unsupported claim that attentional systems are "far more sophisticated than what pure information processing would require" with no computational baseline. See pessimistic-2026-03-23c.md
+
+### ✓ 2026-03-23: Cross-review articles considering new perception.md concept page
+- **Type**: cross-review
+- **Notes**: New concept page obsidian/concepts/perception.md created 2026-03-23 via expand-topic. Check related articles for cross-links, reinforcing arguments, or terminology consistency. Likely candidates: phenomenology articles, sensory processing topics, binding-problem, filter-theory, galilean-exclusion.
+- **Output**: obsidian/concepts/perception.md -- Context: Cross-review articles considering new perception.md concept page
+
+### ✓ 2026-03-23: Integrate evolutionary-case-for-quantum-neural-effects.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-23 via expand-topic, has no inbound links. Add cross-references from related articles (e.g., comparing-quantum-consciousness-mechanisms, non-retrocausal-conscious-selection-models, amplification-mechanisms articles) or update section index pages to include navigation to this content.
+- **Output**: obsidian/topics/evolutionary-case-for-quantum-neural-effects.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-23: Condense biological-cognitive-closure.md (4256 words, 213% of soft target)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word critical threshold for voids/. Created by coalesce on 2026-03-23 merging evolved-cognitive-limits and architecture-of-cognitive-closure. Preserve core arguments about biological constraints on cognition while removing redundancy from the merge. See /condense skill.
+- **Output**: obsidian/voids/biological-cognitive-closure.md
+
+### ✓ 2026-03-23: Deep review narrative-coherence.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-20 — 31 days ago. Concept page on narrative coherence as a feature of conscious experience. Not currently in the task queue despite meeting staleness threshold. Verify coherence, cross-references to recent intersubjectivity and self-identity articles, and tenet alignment.
+- **Output**: obsidian/concepts/narrative-coherence.md
 
 ### ✓ 2026-03-23: Cross-review phenomenology-of-collective-intentionality-and-we-consciousness.md considering intersubjectivity
 - **Type**: cross-review

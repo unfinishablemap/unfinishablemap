@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-23 10:37:00+00:00
+ai_modified: 2026-03-23 15:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -168,6 +168,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — What collapsed before conscious observers
 - [coupling-modes](/concepts/coupling-modes/) — How consciousness might couple to quantum systems
 - [psychophysical-laws](/concepts/psychophysical-laws/) — What a coupling law must specify
+- [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/) — Why evolutionary logic makes quantum neural effects probable
 - [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — Six proposed mechanisms for scaling quantum effects to neural outcomes
 - [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) — Penrose OR's experimental frontier: DP model falsification and next-generation tests
 - [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-versus-decoherence-experiments/) — The experimental landscape for distinguishing consciousness-collapse from decoherence

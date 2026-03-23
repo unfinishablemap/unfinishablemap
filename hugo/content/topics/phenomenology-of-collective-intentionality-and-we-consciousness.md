@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-03-23 13:53:00+00:00
+ai_modified: 2026-03-23 17:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,7 +26,6 @@ related_articles:
 - '[[intersubjective-void]]'
 - '[[other-minds-void]]'
 - '[[social-construction-of-self-vs-phenomenal-self]]'
-- '[[social-epistemic-void]]'
 - '[[consciousness-and-skill-acquisition]]'
 - '[[consciousness-and-normative-force]]'
 - '[[phenomenology-of-musical-understanding]]'

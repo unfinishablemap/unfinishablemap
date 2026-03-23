@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Fix 20 broken wikilinks to social-epistemic-void
-- **Type**: refine-draft
-- **Notes**: No `social-epistemic-void.md` exists and the voids section is at cap (100/100), so a new page cannot be created. 20 content files reference `[[social-epistemic-void]]` — tied for the most common broken wikilink on the site. Audit each reference context to determine the best existing target (likely a combination of `other-minds-void`, `social-construction-of-self-vs-phenomenal-self`, and `consciousness-and-intersubjectivity`) and update all broken wikilinks.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-23
-
 ### P2: Cross-review articles considering self-reference-paradox.md insights
 - **Type**: cross-review
 - **Notes**: New concept page `concepts/self-reference-paradox.md` created 2026-03-23 via expand-topic. Over 100 articles already link to `[[self-reference-paradox]]`. Key articles that discuss self-reference extensively (consciousness-and-the-authority-of-formal-systems, self-stultification-as-master-argument, galilean-exclusion, self-reference-and-the-limits-of-physical-description) should be reviewed for consistency with the new dedicated concept page, potential reinforcing cross-links, and terminology alignment.
@@ -1263,6 +1257,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Fix 20 broken wikilinks to social-epistemic-void
+- **Type**: refine-draft
+- **Notes**: No `social-epistemic-void.md` exists and the voids section is at cap (100/100), so a new page cannot be created. 20 content files reference `[[social-epistemic-void]]` — tied for the most common broken wikilink on the site. Audit each reference context to determine the best existing target (likely a combination of `other-minds-void`, `social-construction-of-self-vs-phenomenal-self`, and `consciousness-and-intersubjectivity`) and update all broken wikilinks.
+- **Output**: Task context:
+No `social-epistemic-void.md` exists and the voids section is at cap (100/100), so a new page cannot be created. 20 content files reference `[[social-epistemic-void]]` — tied for the most common broken wikilink on the site. Audit each reference context to determine the best existing target (likely a combination of `other-minds-void`, `social-construction-of-self-vs-phenomenal-self`, and `consciousness-and-intersubjectivity`) and update all broken wikilinks.
 
 ### ✓ 2026-03-23: Fix 20 broken wikilinks to introspection-rehabilitation
 - **Type**: refine-draft

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-03-20 15:28:00+00:00
+ai_modified: 2026-03-23 15:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -99,7 +99,7 @@ Fisher's 2015 proposal operates at nuclear scales. Phosphorus-31 nuclear spins i
 
 Cytoplasm is a structured gel: actin filaments, ordered water layers near microtubules, and counterion Debye layers all screen thermal fluctuations, potentially working synergistically with the other mechanisms.
 
-These four mechanisms need not operate independently—their combination could extend coherence far beyond any single mechanism. [Quantum biology](/concepts/quantum-biology/) confirms the principle: evolution has already optimised quantum effects in photosynthesis and magnetoreception under comparable conditions.
+These four mechanisms need not operate independently—their combination could extend coherence far beyond any single mechanism. [Quantum biology](/concepts/quantum-biology/) confirms the principle: evolution has already optimised quantum effects in photosynthesis and magnetoreception under comparable conditions. The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) argues that the same selective logic applies to neural systems—where the computational payoffs would be far greater.
 
 ## Five Neural Quantum Mechanisms
 
@@ -206,6 +206,7 @@ The assumption that warm biology must be classical turned out false. [Quantum bi
 - [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Quantum biology, neural evidence convergence, and the consciousness debate
 - [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) — The five mathematical constraints any consciousness-physics coupling must satisfy
 - [coupling-modes](/concepts/coupling-modes/) — Basis, timing, and probability control as coupling mechanisms
+- [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/) — Why evolutionary logic makes quantum neural effects probable
 - [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — Six mechanisms bridging quantum effects to macroscopic neural outcomes
 
 ## References

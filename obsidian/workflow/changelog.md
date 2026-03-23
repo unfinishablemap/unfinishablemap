@@ -5,6 +5,14 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 17:30 UTC - refine-draft
+- **Status**: Success
+- **Files**: 12 content files across topics/, concepts/, voids/
+- **Changes**: Updated all broken `[[social-epistemic-void]]` wikilinks to `[[intersubjective-void]]` (the coalesced successor). 9 files had bare wikilinks, 5 had aliased display-text links, 3 files already had `[[intersubjective-void]]` so stale duplicates were removed instead.
+- **Published**: yes
+
+---
+
 ## 2026-03-23 17:14 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Representative sample across topics (~224), concepts (~201), tenets (1), apex (21), focused on recently created/modified content

@@ -128,7 +128,7 @@ Current evidence favours structural instability. The convergence across contempl
 - [cognitive-aversion](/voids/cognitive-aversion/) — Systematic deflection from threatening content—distinct from involuntary transformation
 - [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/) — Knowledge that undermines the knower's capacity to hold it
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its cognitive boundaries
-- [self-reference-paradox](/voids/unobservable-self/) — The observer that cannot observe itself—a structural source of mutation
+- [self-reference-paradox](/concepts/self-reference-paradox/) — The observer that cannot observe itself—a structural source of mutation
 - [transparency-void](/voids/transparency-void/) — Consciousness cannot verify its own representations
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and why some limits may be permanent
 - [voids](/voids/)

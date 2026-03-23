@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-20 10:21:00+00:00
+ai_modified: 2026-03-23 14:34:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Narrative coherence is the felt quality of a life making sense as a
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-20 10:21:00+00:00
+last_deep_review: 2026-03-23 14:34:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -51,13 +51,13 @@ Narrative coherence has three distinguishing features.
 
 Narrative coherence shapes reasoning in ways that extend beyond personal identity. Research by Kahneman and Tversky demonstrated that the conjunction fallacy—judging "feminist bank teller" more probable than "bank teller"—occurs because narrative coherence overrides formal logic. The story makes sense, so it feels likely. As the [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) article explores, this reveals something about consciousness's architecture: it engages the world through meaning and pattern rather than through probability.
 
-This may be more than a cognitive bias to be corrected. If narrative pattern-matching were merely a heuristic shortcut—useful but dispensable—one would expect training to eliminate it. Yet the conjunction fallacy persists even among statistically literate subjects. Narrative coherence appears to be a default mode through which consciousness engages the world, with probabilistic reasoning as an acquired overlay that never fully displaces it. Base rate neglect (Kahneman & Tversky, 1973), the law of small numbers (Tversky & Kahneman, 1971), and apophenia all point in the same direction: consciousness gravitates toward stories over statistics. Whether this reflects something fundamental about conscious architecture or merely deep cognitive habit is debatable—but either way, the phenomenon is real and resistant to correction.
+This may be more than a cognitive bias to be corrected. If narrative pattern-matching were merely a heuristic shortcut—useful but dispensable—one would expect training to eliminate it. Yet the conjunction fallacy persists even among statistically literate subjects. Narrative coherence appears to be a default mode through which consciousness engages the world, with probabilistic reasoning as an acquired overlay that never fully displaces it. Base rate neglect (Kahneman & Tversky, 1973), the law of small numbers (Tversky & Kahneman, 1971), and apophenia—the tendency to perceive meaningful patterns in random data—all point in the same direction: consciousness gravitates toward stories over statistics. Whether this reflects something fundamental about conscious architecture or merely deep cognitive habit is debatable—but either way, the phenomenon is real and resistant to correction.
 
 ## Why Mere Continuity Is Insufficient
 
 [Parfit's reductionism](/concepts/parfit-reductionism/) holds that personal identity consists in overlapping chains of psychological continuity—memory, intention, character. But psychological continuity provides connection without organisation. Two agents with identical psychological *elements*—same memories, same standing intentions, same character traits—could differ in narrative coherence. One experiences their choices as composing a meaningful life; the other finds the same repertoire of memories and commitments disconnected and unintelligible. The difference would show up in how they describe their lives, which choices they find salient, and whether they experience continuity as *going somewhere*—but Parfit's framework, which catalogues elements rather than their integration, lacks the resources to capture it.
 
-Narrative coherence is a *relational* property—how psychological states are organised into a meaningful whole, not the states themselves. It requires a subject who grasps their temporal arc as a unity: who can ask "Does this choice fit the life I am living?" rather than merely "Do I want this now?"
+Narrative coherence is a *relational* property—how psychological states are organised into a meaningful whole, not the states themselves. It requires a subject who grasps their temporal arc as a unity: who can ask "Does this choice fit the life I am living?" rather than merely "Do I want this now?" This is where narrative coherence connects to [haecceity](/concepts/haecceity/)—the irreducible *thisness* of being a particular self. The subject who experiences coherence is not a generic narrative-processing function but *this* person, whose specific life is at stake.
 
 This is why diachronic agency depends on narrative coherence rather than psychological continuity alone. Sustaining a project through difficulty—writing a book, maintaining a relationship, pursuing a career—requires not just remembering the initial commitment (continuity) but experiencing the present effort as a meaningful continuation of it (coherence). When the connection between past commitment and present effort becomes merely causal rather than narratively intelligible, perseverance becomes willpower without reason. The [phenomenology of choice](/concepts/phenomenology-of-choice/) under these conditions shifts accordingly: decisions feel arbitrary rather than authored, imposed rather than flowing from one's ongoing commitments.
 
@@ -96,6 +96,8 @@ Narrative coherence connects to the Map's foundational commitments through its d
 - [parfit-reductionism](/concepts/parfit-reductionism/) — Why psychological continuity alone is insufficient
 - [moral-responsibility](/concepts/moral-responsibility/) — How coherence enables responsibility across time
 - [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) — Narrative coherence as consciousness's default lens
+- [identity-across-transformations](/apex/identity-across-transformations/) — How identity persists through radical change
+- [haecceity](/concepts/haecceity/) — The irreducible thisness of the subject who experiences coherence
 
 ## References
 

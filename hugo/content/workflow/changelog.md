@@ -9,6 +9,110 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-23 17:30 UTC - refine-draft
+- **Status**: Success
+- **Files**: 12 content files across topics/, concepts/, voids/
+- **Changes**: Updated all broken `[social-epistemic-void](/voids/intersubjective-void/)` wikilinks to `[intersubjective-void](/voids/intersubjective-void/)` (the coalesced successor). 9 files had bare wikilinks, 5 had aliased display-text links, 3 files already had `[intersubjective-void](/voids/intersubjective-void/)` so stale duplicates were removed instead.
+- **Published**: yes
+
+---
+
+## 2026-03-23 17:14 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Representative sample across topics (~224), concepts (~201), tenets (1), apex (21), focused on recently created/modified content
+- **Output**: [optimistic-2026-03-23-evening](/reviews/optimistic-2026-03-23-evening/)
+
+---
+
+## 2026-03-23 17:09 UTC - refine-draft
+- **Status**: Success
+- **File**: 10 files (cross-cutting wikilink fix)
+- **Changes**: Fixed 20 broken `[introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/)` wikilinks across 10 active content files. Article was coalesced into epistemology-of-first-person-evidence; references updated to point to epistemology-of-first-person-evidence (primary) or introspection (where the former was already linked). Removed self-reference from epistemology-of-first-person-evidence.md related_articles.
+- **Files modified**: contemplative-epistemology, galilean-exclusion, contemplative-practice-as-philosophical-evidence, phenomenal-conservatism-and-introspective-evidence, epistemology-of-first-person-evidence, methodology-of-consciousness-research, consciousness-and-testimony, consciousness-and-the-problem-of-measurement-standards, comparative-phenomenology-of-meditative-traditions, phenomenology-of-memory-and-the-self
+- **Published**: yes
+
+---
+
+## 2026-03-23 16:45 UTC - deep-review
+- **Status**: Success
+- **File**: [many-worlds-argument](/arguments/many-worlds-argument/)
+- **Word count**: 2335 → 2345 (+10)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (orphan status, missing cross-reference)
+- **Enhancements made**: 7 (1 outbound link, 6 inbound cross-references from free-will, the-epiphenomenalist-threat, what-consciousness-tells-us-about-physics, time-symmetric-selection-mechanism, self-reference-paradox, probability-objections-many-worlds)
+- **Output**: [deep-review-2026-03-23-many-worlds-argument](/reviews/deep-review-2026-03-23-many-worlds-argument/)
+
+## 2026-03-23 16:29 UTC - deep-review
+- **Status**: Success
+- **File**: [self-reference-paradox](/concepts/self-reference-paradox/)
+- **Word count**: 1364 → 1545 (+181)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 5 (Hofstadter strange loops, self-stultification link, Minimal Quantum Interaction tenet, Penrose 1994 ref, Hofstadter refs)
+- **Output**: [deep-review-2026-03-23-self-reference-paradox](/reviews/deep-review-2026-03-23-self-reference-paradox/)
+
+## 2026-03-23 16:14 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Self-Reference Paradox
+- **Output**: [self-reference-paradox](/concepts/self-reference-paradox/)
+- **Word count**: 1364
+- **Based on research**: yes, [voids-self-reference-paradox-2026-01-14](/research/voids-self-reference-paradox-2026-01-14/)
+
+## 2026-03-23 16:01 UTC - refine-draft
+- **Status**: Success
+- **File**: [evolution-under-dualism](/topics/evolution-under-dualism/)
+- **Changes**: Fixed circular fitness argument (made conditional on independent evidence), removed unsupported attentional systems claim, strengthened co-evolution temporal objection, qualified zombie nomological impossibility claim, softened overstated language
+- **Published**: yes
+
+## 2026-03-23 15:44 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/evolution-under-dualism.md — adversarial analysis from 6 philosopher perspectives plus standard quality checks
+- **Output**: [pessimistic-2026-03-23c](/reviews/pessimistic-2026-03-23c/)
+
+## 2026-03-23 15:29 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [perception](/concepts/perception/)
+- **Word count**: 1355 → 1388 (+33)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (overstatement fix, intentionality mention)
+- **Enhancements made**: 8 inbound cross-references added from qualia, phenomenal-consciousness, predictive-processing, binding-problem, blindsight, filter-theory, attention-as-interface, hard-problem-of-consciousness
+- **Output**: [deep-review-2026-03-23b-perception](/reviews/deep-review-2026-03-23b-perception/)
+
+## 2026-03-23 15:15 UTC - deep-review
+- **Status**: Success
+- **File**: [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/)
+- **Word count**: 2155 → 2155 (+0, no content changes — orphan integration focus)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (zero inbound links resolved)
+- **Enhancements made**: 8 inbound cross-references added from quantum-biology-and-neural-consciousness, quantum-biology, quantum-neural-mechanisms-and-coherence, evolutionary-case-for-mental-causation, evolution-under-dualism, binding-problem, decoherence, comparing-quantum-consciousness-mechanisms
+- **Output**: [deep-review-2026-03-23c-evolutionary-case-for-quantum-neural-effects](/reviews/deep-review-2026-03-23c-evolutionary-case-for-quantum-neural-effects/)
+
+## 2026-03-23 14:59 UTC - deep-review
+- **Status**: Success
+- **File**: [perception](/concepts/perception/)
+- **Word count**: 1294 → 1355 (+61)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (style guide cliché, overstated lucid dreaming claim, blindsight oversimplification, unused references, missing cross-links)
+- **Enhancements made**: 4 (Jackson knowledge argument, Nagel reference, predictive-processing cross-link, attention-as-interface cross-link)
+- **Output**: [deep-review-2026-03-23-perception](/reviews/deep-review-2026-03-23-perception/)
+
+## 2026-03-23 14:52 UTC - condense
+- **Status**: Success
+- **File**: [biological-cognitive-closure](/voids/biological-cognitive-closure/)
+- **Before**: 4256 words (critical)
+- **After**: 1962 words (ok)
+- **Reduction**: 54%
+- **Technique**: Cut redundant examples (Rancourt, neonatal synesthesia detail), merged WEIRD caveat with challenges section, trimmed adaptive spectrum from 4 examples to 3, compressed developmental examples, shortened Relation to Site Perspective, reduced Further Reading from 19 to 10, trimmed References from 27 to 14
+
+## 2026-03-23 14:34 UTC - deep-review
+- **Status**: Success
+- **File**: [narrative-coherence](/concepts/narrative-coherence/)
+- **Word count**: 1586 → 1649 (+63)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (haecceity body reference, identity-across-transformations link, apophenia definition)
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-23-narrative-coherence](/reviews/deep-review-2026-03-23-narrative-coherence/)
+
 ## 2026-03-23 14:24 UTC - tune-system
 - **Status**: Success
 - **Sessions analyzed**: 144 (4547 to 4691)

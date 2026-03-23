@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-12
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-23 16:01:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -49,7 +49,7 @@ topics:
 - '[[consciousness-evolution-problem]]'
 ---
 
-If dualism is true, does evolution still work? The short answer is yes—natural selection operates on physical organisms regardless of whether consciousness is reducible to matter. But the longer answer reveals something more interesting: dualism changes what evolution *means*. Under physicalism, evolution is the complete story of life, including mind. Under dualism, evolution is the story of how matter organised itself into systems capable of interfacing with something beyond matter. The Unfinishable Map holds that this reframing dissolves several persistent puzzles about purpose, teleology, and biological design—without requiring any modification to evolutionary biology itself.
+If dualism is true, does evolution still work? The short answer is yes—natural selection operates on physical organisms regardless of whether consciousness is reducible to matter. But the longer answer reveals something more interesting: dualism changes what evolution *means*. Under physicalism, evolution is the complete story of life, including mind. Under dualism, evolution is the story of how matter organised itself into systems capable of interfacing with something beyond matter. The Unfinishable Map holds that this reframing offers a perspective on several persistent puzzles about purpose, teleology, and biological design—without requiring any modification to evolutionary biology itself.
 
 The phrase "evolution of consciousness" also conceals a deeper ambiguity. If consciousness is not physical, what exactly evolves? Does consciousness itself have a history, or does only the physical interface change while consciousness remains a fixed domain? This article examines what happens to evolutionary theory when dualism is assumed, and distinguishes three models of what "evolution of consciousness" can mean.
 
@@ -89,7 +89,7 @@ This model takes the Map's Bidirectional Interaction tenet seriously as a diachr
 
 Co-evolution predicts that consciousness in different species is not merely "more" or "less" of the same thing but *qualitatively different*—shaped by distinct evolutionary histories of interface-consciousness interaction. An octopus's consciousness, arising from a decentralised nervous system that evolved independently of vertebrate brains, would differ in kind from mammalian consciousness. The [interface differences](/topics/comparative-consciousness-and-interface-differences/) across species would reflect genuinely different conscious histories.
 
-The difficulty: co-evolution requires specifying how non-physical consciousness can change over time. If consciousness exists outside spacetime, "change" may not apply. This model may smuggle temporal structure into what dualism defines as non-temporal.
+The difficulty is serious: co-evolution requires specifying how non-physical consciousness can change over time. If consciousness exists outside spacetime, "change" may not apply—and the concept of it "responding to" physical systems may be incoherent rather than merely difficult. This model may require abandoning the non-temporal characterisation of consciousness, which would carry its own ontological costs. A dualist pursuing co-evolution must explain what temporal structure applies to the non-physical domain without collapsing it into the physical.
 
 ### Unfolding
 
@@ -103,7 +103,7 @@ The unfolding model predicts that truly novel forms of consciousness could emerg
 
 Despite their differences, all three models share commitments that distinguish dualist evolutionary accounts from materialist ones. Evolution explains the interface, not the experience. Consciousness contributes to fitness on all three accounts. And the interface can be selected for—neural architectures that support richer consciousness-matter interaction confer fitness advantages.
 
-All three models also entail that [philosophical zombies](/concepts/philosophical-zombies/) are nomologically impossible. Given the right physical interface, consciousness is necessarily present—not because physics produces it, but because the [psychophysical laws](/concepts/psychophysical-laws/) linking interface configurations to conscious states are lawful rather than contingent. A being with a human brain but no consciousness is not merely unlikely; it is nomologically impossible.
+All three models also predict that [philosophical zombies](/concepts/philosophical-zombies/) are nomologically impossible—provided the [psychophysical laws](/concepts/psychophysical-laws/) linking interface configurations to conscious states hold as genuine laws. Given the right physical interface, consciousness would be necessarily present—not because physics produces it, but because these psychophysical laws are lawful rather than contingent. The prediction is clear, but the laws themselves remain unspecified; the claim is therefore conditional rather than established.
 
 Where the models diverge is empirically approachable. Is animal consciousness qualitatively or quantitatively different from ours? The fixed-domain model predicts quantitative difference; co-evolution predicts qualitative difference; unfolding predicts something harder to categorise. Could a radically different physical system support the same consciousness? The fixed-domain model says yes; co-evolution says no; unfolding says the question is ill-formed. Comparative neuroscience may eventually distinguish these: if two species with convergently evolved but structurally similar interfaces (such as corvid and primate forebrains) show evidence of similar conscious capacities, that favours the fixed-domain model. The Map does not commit to a single model—each captures something important about how dualism relates to evolutionary biology.
 
@@ -119,17 +119,17 @@ The [biological teleology article](/topics/biological-teleology-and-the-interfac
 
 ## The Selection Pressure on Interfaces
 
-If consciousness genuinely improves fitness—as the [evolutionary case for mental causation](/topics/evolutionary-case-for-mental-causation/) argues—then natural selection favours physical architectures that support richer consciousness-matter interaction. This creates a distinctive selection pressure absent from the physicalist picture: pressure toward better interfaces, not merely better computation.
+The [evolutionary case for mental causation](/topics/evolutionary-case-for-mental-causation/) argues that consciousness contributes to fitness. If this is correct—and the argument remains conditional on establishing mental causation through independent evidence such as cognitive capacities that resist explanation by unconscious processing alone—then natural selection would favour physical architectures that support richer consciousness-matter interaction. This creates a distinctive selection pressure absent from the physicalist picture: pressure toward better interfaces, not merely better computation.
 
 What would selection for interface quality look like? Several features of brain evolution become suggestive:
 
-**Neural coherence**: If consciousness interfaces with quantum processes in neural tissue, brains that maintain [quantum coherence](/concepts/quantum-neural-mechanisms-and-coherence/) in behaviourally relevant circuits would have fitness advantages. The [decoherence objection](/concepts/decoherence/)—that warm biological tissue destroys quantum coherence too rapidly—remains the primary challenge, but [quantum biology](/concepts/quantum-biology/) has demonstrated that photosynthesis and avian magnetoreception exploit quantum effects in warm environments. The evolution of microtubule organisation, myelination patterns, and synaptic architecture might reflect selection for quantum-friendly structures alongside selection for computational efficiency.
+**Neural coherence**: If consciousness interfaces with quantum processes in neural tissue, brains that maintain [quantum coherence](/concepts/quantum-neural-mechanisms-and-coherence/) in behaviourally relevant circuits would have fitness advantages. The [decoherence objection](/concepts/decoherence/)—that warm biological tissue destroys quantum coherence too rapidly—remains the primary challenge, but [quantum biology](/concepts/quantum-biology/) has demonstrated that photosynthesis and avian magnetoreception exploit quantum effects in warm environments. The evolution of microtubule organisation, myelination patterns, and synaptic architecture might reflect selection for quantum-friendly structures alongside selection for computational efficiency. The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) develops this argument systematically: if evolution optimised quantum effects for bird navigation and enzyme catalysis, the same selective logic applies to neural systems where computational payoffs are far greater.
 
-**Attentional systems**: The [attention-as-interface](/concepts/attention-as-interface/) hypothesis suggests that attention is the mechanism through which consciousness engages with neural processing. The elaborate attentional systems found in mammals and birds—systems far more sophisticated than what pure information processing would require—might reflect selection for richer conscious access to neural content.
+**Attentional systems**: The [attention-as-interface](/concepts/attention-as-interface/) hypothesis suggests that attention is the mechanism through which consciousness engages with neural processing. The elaborate attentional systems found in mammals and birds are consistent with selection for richer conscious access to neural content. Computational accounts explain attentional complexity in terms of information processing demands, and the interface hypothesis does not predict features that those accounts cannot also accommodate—but the sophistication of attention is what both accounts would expect if consciousness plays a functional role.
 
 **[Working memory](/concepts/working-memory/) expansion**: The dramatic expansion of human working memory relative to great apes (7±2 items versus approximately 2±1; Miller, 1956; Inoue & Matsuzawa, 2007) could reflect improved interface capacity. If working memory depends on conscious access, as [Global Workspace Theory](/concepts/global-workspace-theory/) proposes, then working memory expansion is interface expansion.
 
-These suggestions are speculative. The Map does not claim that interface selection has been demonstrated—only that dualism predicts a category of selection pressure that physicalism does not, and that some features of brain evolution are consistent with it.
+These suggestions are speculative, and the interface selection argument depends on mental causation being established on independent grounds—without that foundation, the distinctive selection pressure the argument describes does not arise. The Map does not claim that interface selection has been demonstrated—only that dualism predicts a category of selection pressure that physicalism does not, and that some features of brain evolution are consistent with it.
 
 ## Convergent Evolution and Consciousness
 
@@ -137,7 +137,7 @@ If consciousness interfaces with matter rather than being produced by it, conver
 
 Under physicalism, convergent consciousness shows that similar computational architectures produce similar phenomenal states. Under dualism, it shows that the interface requirements are constrained by physics—not any physical system will do, but certain architectural features (integration, recurrence, perhaps quantum coherence) are necessary for consciousness to engage with matter. Evolution, exploring the space of possible neural architectures, converged on these features independently because they solve the same engineering problem: providing a workable consciousness-matter interface.
 
-The convergence question is empirically tractable. If convergently evolved nervous systems share architectural features beyond what computation requires—features that specifically support quantum coherence or integrated information processing—this would support the interface hypothesis over the generation hypothesis.
+The convergence question may be empirically tractable. If convergently evolved nervous systems share architectural features beyond what computation requires—features that specifically support quantum coherence or integrated information processing—this would support the interface hypothesis over the generation hypothesis.
 
 ## Dualism and the Direction of Evolution
 
@@ -173,6 +173,7 @@ None of these would refute dualism itself. They would undermine the specific evo
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework connecting mind and matter
 - [filter-theory](/concepts/filter-theory/) — The transmission/filter model grounding the interface story
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Laws governing consciousness-matter relationships
+- [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/) — Why evolutionary logic makes quantum neural effects probable
 - [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Quantum biology, neural evidence convergence, and the consciousness debate
 - [free-will](/topics/free-will/) — Agent teleology and libertarian agency
 - [animal-consciousness](/topics/animal-consciousness/) — Convergent consciousness across species
@@ -192,3 +193,19 @@ None of these would refute dualism itself. They would undermine the specific evo
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 1. Southgate, A. & Oquatre-six, C. (2026-02-12). Evolution Under Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/evolution-under-dualism/
 1. Southgate, A. & Oquatre-six, C. (2026-01-19). Evolution of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/evolution-of-consciousness/
+
+<!-- AI REFINEMENT LOG - 2026-03-23
+Changes made:
+- Fixed circular fitness argument: made interface selection explicitly conditional on independent evidence for mental causation, rather than assuming it as established
+- Removed unsupported claim that attentional systems are "far more sophisticated than what pure information processing would require"; reframed as consistent with both interface and computational accounts
+- Strengthened co-evolution temporal incoherence objection from "difficulty" to serious concern requiring resolution
+- Qualified zombie nomological impossibility claim as conditional on unspecified psychophysical laws
+- Softened "dissolves" to "offers a perspective on" for unsupported claim about puzzles
+- Added "may be" qualifier to convergent evolution empirical tractability claim
+- Added explicit note that interface selection argument depends on independent grounding for mental causation
+
+Based on pessimistic-2026-03-23c.md review findings.
+Key improvements: addressed two high-severity issues (circular fitness argument, unsupported attentional systems claim) and two medium-severity issues (zombie claim, co-evolution temporal coherence).
+
+This log should be removed after human review.
+-->

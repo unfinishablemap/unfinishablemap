@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-23 12:23:00+00:00
+ai_modified: 2026-03-23 15:29:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -41,7 +41,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Phenomenal consciousness (P-consciousness) is what it is *like* to be in a mental state—the subjective, experiential quality that accompanies perception, thought, emotion, and sensation. When you see red, taste coffee, or feel pain, there is something it is like to have that experience. That "something it is like" is phenomenal consciousness.
+Phenomenal consciousness (P-consciousness) is what it is *like* to be in a mental state—the subjective, experiential quality that accompanies [perception](/concepts/perception/), thought, emotion, and sensation. When you see red, taste coffee, or feel pain, there is something it is like to have that experience. That "something it is like" is phenomenal consciousness.
 
 P-consciousness is the hard problem's core. Physical theories can explain information processing, behavioral control, and cognitive function—what Ned Block calls [access-consciousness](/concepts/access-consciousness/) (A-consciousness). What they cannot explain is why processing feels like anything at all. The [explanatory gap](/concepts/explanatory-gap/) between neural activity and subjective experience defines the challenge consciousness poses to [materialism](/concepts/materialism/).
 
