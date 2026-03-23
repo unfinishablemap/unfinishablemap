@@ -4,7 +4,7 @@ description: "Born probabilities describe the consciousness-quantum interface: n
 created: 2026-01-23
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-03-19T00:51:00+00:00
+ai_modified: 2026-03-23T04:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -69,7 +69,7 @@ QBism's core difficulty is the agent problem: it makes agents foundational witho
 
 ### Participatory Realism: The Ambiguous Middle
 
-Wheeler's "participatory universe" and Fuchs's "participatory realism" hold that observers don't passively reveal pre-existing facts but actively constitute them through measurement. But "participation" could be epistemic (belief updating) or ontic (consciousness constituting facts through something like collapse). The ontic reading aligns with the Map's tenets but requires more than Wheeler or Fuchs provide—saying "observers participate in constituting facts" doesn't specify the mechanism.
+[[the-participatory-universe|Wheeler's "participatory universe"]] and Fuchs's "participatory realism" hold that observers don't passively reveal pre-existing facts but actively constitute them through measurement. But "participation" could be epistemic (belief updating) or ontic (consciousness constituting facts through something like collapse). The ontic reading aligns with the Map's tenets but requires more than Wheeler or Fuchs provide—saying "observers participate in constituting facts" doesn't specify the mechanism.
 
 ### Self-Location Measure (Many-Worlds)
 

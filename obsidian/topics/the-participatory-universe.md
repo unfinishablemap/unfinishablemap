@@ -4,8 +4,8 @@ description: "Wheeler's participatory universe — the thesis that observers con
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-20T06:06:00+00:00
-last_deep_review: 2026-03-20T06:06:00+00:00
+ai_modified: 2026-03-23T04:06:00+00:00
+last_deep_review: 2026-03-23T04:06:00+00:00
 draft: false
 topics:
   - "[[quantum-measurement-and-subjective-probability]]"

@@ -4,7 +4,7 @@ description: "Why does *this* consciousness experience *this* outcome? The index
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-03-14T20:43:00+00:00
+ai_modified: 2026-03-23T04:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -106,7 +106,7 @@ The Map rejects this move for reasons detailed in [[indexical-knowledge-and-iden
 
 ## The Participatory Realism Ambiguity
 
-John Wheeler's "participatory universe" and Fuchs's "participatory realism" attempt to capture something important: observation is not passive revelation but active constitution of facts. Users of quantum mechanics are part of reality, not external to it.
+John [[the-participatory-universe|Wheeler's "participatory universe"]] and Fuchs's "participatory realism" attempt to capture something important: observation is not passive revelation but active constitution of facts. Users of quantum mechanics are part of reality, not external to it.
 
 Fuchs writes that participatory realism represents "attempts to make a deep statement about the nature of reality"—far from instrumentalism or antirealism.
 

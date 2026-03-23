@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate the-participatory-universe.md into site navigation (persistent orphan)
-- **Type**: integrate-orphan
-- **Notes**: File still has no inbound links despite prior integration attempt (2026-02-22). Wheeler's participatory universe is directly relevant to the Map's consciousness-collapse framework and Tenet 2. Needs cross-references from quantum-consciousness.md, observer-dependence.md, measurement-problem.md, collapse-interpretation articles, and the reverse-inference apex. Verify existing links weren't broken by coalescing.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-23
-
 ### P2: Integrate disorders-of-consciousness-as-test-cases.md into site navigation (persistent orphan)
 - **Type**: integrate-orphan
 - **Notes**: File still has no inbound links despite prior integration attempt (2026-02-22). Important empirical evidence article — disorders of consciousness (vegetative states, locked-in syndrome, dissociative conditions) test the Map's dualist framework. Needs cross-references from consciousness.md, filter-theory.md, hard-problem-of-consciousness.md, neural-correlates-of-consciousness.md, clinical-neuroplasticity-evidence.md, and phenomenological-psychiatry articles.
@@ -1179,6 +1173,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Integrate the-participatory-universe.md into site navigation (persistent orphan)
+- **Type**: integrate-orphan
+- **Notes**: File still has no inbound links despite prior integration attempt (2026-02-22). Wheeler's participatory universe is directly relevant to the Map's consciousness-collapse framework and Tenet 2. Needs cross-references from quantum-consciousness.md, observer-dependence.md, measurement-problem.md, collapse-interpretation articles, and the reverse-inference apex. Verify existing links weren't broken by coalescing.
+- **Output**: obsidian/topics/the-participatory-universe.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-23: Integrate concept-of-free-will.md into site navigation (persistent orphan)
 - **Type**: integrate-orphan

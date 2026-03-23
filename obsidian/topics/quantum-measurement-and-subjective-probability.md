@@ -4,7 +4,7 @@ description: "QBism's probabilities are structurally dependent on consciousnessâ
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-03-21T05:54:00+00:00
+ai_modified: 2026-03-23T04:06:00+00:00
 last_deep_review: 2026-02-27T07:46:00+00:00
 draft: false
 topics:
@@ -65,7 +65,7 @@ This is internal to QBism's own explanatory structure, not an external demand th
 
 ### The Participation Ambiguity
 
-John Wheeler's "participatory universe" and Fuchs's "participatory realism" attempt to capture something important: observation is active, not passive. The user of quantum mechanics participates in constituting facts.
+John [[the-participatory-universe|Wheeler's "participatory universe"]] and Fuchs's "participatory realism" attempt to capture something important: observation is active, not passive. The user of quantum mechanics participates in constituting facts.
 
 Fuchs writes that participatory realism represents "attempts to make a deep statement about the nature of reality"â€”far from instrumentalism.
 
