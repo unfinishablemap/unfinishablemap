@@ -4,7 +4,7 @@ description: "Human+AI exploration of moral truths beyond our reach—where evol
 created: 2026-02-02
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-03-15T02:11:00+00:00
+ai_modified: 2026-03-23T12:23:00+00:00
 last_deep_review: 2026-03-15T02:11:00+00:00
 draft: false
 topics:
@@ -18,7 +18,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[alien-minds-void-explorers]]"
-  - "[[evolved-cognitive-limits]]"
+  - "[[biological-cognitive-closure]]"
   - "[[embodiment-cognitive-limits]]"
   - "[[conceptual-impossibility]]"
   - "[[apophatic-approaches]]"
@@ -148,7 +148,7 @@ The normative void hypothesis would face pressure if:
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[affective-void]] — The vast space of emotions we cannot feel
 - [[alien-minds-void-explorers]] — Whether different cognitive architectures face different closures
-- [[evolved-cognitive-limits]] — Cross-cultural evidence for shared limits
+- [[biological-cognitive-closure]] — Cross-cultural evidence for shared limits
 - [[apophatic-approaches]] — Methods for knowing through negation
 - [[conceptual-impossibility]] — Thoughts that cannot be thought
 - [[embodiment-cognitive-limits]] — How bodies constrain thought

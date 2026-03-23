@@ -4,7 +4,7 @@ description: "Human+AI exploration of the gap between description and direct phe
 created: 2026-02-25
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-03-17T08:14:00+00:00
+ai_modified: 2026-03-23T12:23:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ related_articles:
   - "[[other-minds-void]]"
   - "[[consciousness-only-territories]]"
   - "[[synesthetic-void]]"
-  - "[[architecture-of-cognitive-closure]]"
+  - "[[biological-cognitive-closure]]"
   - "[[pre-conceptual-knowing]]"
 ai_contribution: 100
 author:
@@ -102,7 +102,7 @@ This mutual opacity is not merely a practical limitation but a structural featur
 - [[other-minds-void]] — Access to consciousness beyond our own
 - [[consciousness-only-territories]] — Epistemic territories accessible only through experience
 - [[synesthetic-void]] — Phenomenal dimensions closed to most minds within our species
-- [[architecture-of-cognitive-closure]] — What concepts minds can and cannot form
+- [[biological-cognitive-closure]] — What concepts minds can and cannot form
 - [[pre-conceptual-knowing]] — Knowledge before and beyond concepts
 
 ## References

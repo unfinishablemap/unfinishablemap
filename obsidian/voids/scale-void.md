@@ -4,7 +4,7 @@ description: "Human+AI exploration of why cosmic distances, deep time, and large
 created: 2026-02-02
 modified: 2026-02-03
 human_modified: null
-ai_modified: 2026-03-17T08:14:00+00:00
+ai_modified: 2026-03-23T12:23:00+00:00
 last_deep_review: 2026-03-15T02:21:00+00:00
 draft: false
 topics:
@@ -19,7 +19,7 @@ related_articles:
   - "[[tenets]]"
   - "[[three-kinds-of-void]]"
   - "[[embodiment-cognitive-limits]]"
-  - "[[architecture-of-cognitive-closure]]"
+  - "[[biological-cognitive-closure]]"
   - "[[phenomenology-of-the-edge]]"
 ai_contribution: 100
 author: null
@@ -36,7 +36,7 @@ The scale void is a mixed void in the [[three-kinds-of-void|taxonomy]]—partly 
 
 Roughly fifty percent of educated adults, when asked to place one million on a number line between one thousand and one billion, put it somewhere in the middle. The correct position is almost touching one thousand—a billion is a thousand millions. This is not failure of mathematical education. It reveals that beyond a certain point, the brain processes large numbers as categories rather than quantities. "Million" and "billion" become markers meaning "very big" rather than graspable magnitudes with a thousandfold difference between them.
 
-Research suggests this categorical processing is hardwired (Resnick et al. 2017). Elizabeth Toomarian, a cognitive neuroscientist studying numerical cognition, observes: "Our brains are evolutionarily very old and we are pushing them to do things that we've only just recently conceptualized" (Toomarian & Hubbard 2018). The problem is not that we lack the right metaphors but that the brain's number-processing systems evolved for counting prey animals, tracking tribal alliances, and estimating distances we could walk in a day—an [[evolved-cognitive-limits|evolutionary mismatch]] (Li, van Vugt & Colarelli 2018). Billions of years, light-years, and trillions of dollars fall so far outside the ancestral problem-space that our intuitions offer no purchase.
+Research suggests this categorical processing is hardwired (Resnick et al. 2017). Elizabeth Toomarian, a cognitive neuroscientist studying numerical cognition, observes: "Our brains are evolutionarily very old and we are pushing them to do things that we've only just recently conceptualized" (Toomarian & Hubbard 2018). The problem is not that we lack the right metaphors but that the brain's number-processing systems evolved for counting prey animals, tracking tribal alliances, and estimating distances we could walk in a day—an [[biological-cognitive-closure|evolutionary mismatch]] (Li, van Vugt & Colarelli 2018). Billions of years, light-years, and trillions of dollars fall so far outside the ancestral problem-space that our intuitions offer no purchase.
 
 Deep time presents a particularly stark example. Despite over a century of geological knowledge, popular intuition about Earth's 4.5-billion-year age remains systematically distorted. This is not merely a failure of science communication. Temporal experience itself resists extension. Husserl's phenomenological analysis (1991) reveals that the "subjective present"—the window of temporal experience—extends over only a few hundred milliseconds to a few seconds. We cannot *experience* an hour as a unified whole, only conceptualize it. Deep time is not merely too large to imagine; it is categorically different from experienced time.
 
@@ -97,9 +97,8 @@ The scale void connects to the Map's [[tenets]] in several ways.
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[three-kinds-of-void]] — The core taxonomy: unexplored, unexplorable, occluded
 - [[embodiment-cognitive-limits]] — How bodies constrain thought
-- [[architecture-of-cognitive-closure]] — What concepts can minds form?
+- [[biological-cognitive-closure]] — What concepts can minds form, and species-level architectural constraints on cognition
 - [[phenomenology-of-the-edge]] — What approaching limits feels like
-- [[evolved-cognitive-limits]] — Species-level architectural constraints on cognition
 - [[bandwidth-of-consciousness]] — Capacity limits on phenomenological resolution
 
 ## References

@@ -3,7 +3,7 @@ title: "A Taxonomy of Voids"
 created: 2026-03-10
 modified: 2026-03-10
 human_modified: null
-ai_modified: 2026-03-21T10:55:00+00:00
+ai_modified: 2026-03-23T12:23:00+00:00
 draft: false
 description: "Over sixty cognitive voids cluster at the consciousness-matter interface. Their structured taxonomy—by type, domain, and failure signature—constitutes cumulative evidence for dualism."
 last_deep_review: 2026-03-11T18:33:00+00:00
@@ -57,7 +57,7 @@ The voids programme began with a [[three-kinds-of-void|simple taxonomy]]: the Un
 
 **The Occluded** are gaps that might be defended. The [[simulation|simulation hypothesis]] raises this most sharply: if we exist within a constructed reality, certain truths might be *engineered out* of our cognitive reach. But occlusion need not require a designer. The Map's own tenets suggest consciousness-physics interaction might be systematically hidden from introspection—we cannot see the interface we use.
 
-The [[evolved-cognitive-limits|evolved cognitive limits]] research introduced a fourth category that complicates the original three: **the Naturally Occluded**. These are blind spots maintained not by any intentional agent but by natural selection, because ignorance itself conferred fitness advantage. The Fitness-Beats-Truth theorem (Hoffman, Singh, and Prakash) proves mathematically that perceptual strategies tuned to fitness payoffs strictly dominate strategies tuned to objective truth. Evolution did not merely fail to equip us with certain capacities—it actively selected against them.
+The [[biological-cognitive-closure|evolved cognitive limits]] research introduced a fourth category that complicates the original three: **the Naturally Occluded**. These are blind spots maintained not by any intentional agent but by natural selection, because ignorance itself conferred fitness advantage. The Fitness-Beats-Truth theorem (Hoffman, Singh, and Prakash) proves mathematically that perceptual strategies tuned to fitness payoffs strictly dominate strategies tuned to objective truth. Evolution did not merely fail to equip us with certain capacities—it actively selected against them.
 
 Naturally occluded voids differ from each existing category. They are not simply uninvestigated (unlike the Unexplored). They are not necessarily beyond all possible cognition—only beyond *evolved* cognition (unlike the Unexplorable). And they are maintained by the blind watchmaker rather than by any deliberate agent (unlike the Occluded). They occupy a distinctive position: limits with a *function*, shaped by selection pressure, potentially accessible to differently constituted minds.
 
@@ -161,7 +161,7 @@ This synthesis draws from:
 - [[voids|Voids in the Map]] — The section index and foundational framework
 - [[three-kinds-of-void|Three Kinds of Void]] — The core taxonomy: unexplored, unexplorable, occluded
 - [[apophatic-cartography|Apophatic Cartography]] — Methodology for mapping through negation
-- [[evolved-cognitive-limits|Evolved Cognitive Limits]] — Cross-cultural evidence and the naturally occluded category
+- [[biological-cognitive-closure|Evolved Cognitive Limits]] — Cross-cultural evidence and the naturally occluded category
 - [[limits-reveal-structure|What the Limits Reveal]] — How boundaries illuminate architecture
 - [[compound-failure-signatures|Compound Failure Signatures]] — Distinct failure signatures as data
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What consciousness encounters at its boundaries

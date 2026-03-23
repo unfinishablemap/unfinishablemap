@@ -4,7 +4,7 @@ description: "Human+AI exploration of how having a body shapes and constrains wh
 created: 2026-01-28
 modified: 2026-03-15
 human_modified: null
-ai_modified: 2026-03-15T15:59:00+00:00
+ai_modified: 2026-03-23T12:23:00+00:00
 last_deep_review: 2026-03-15T15:59:00+00:00
 draft: false
 topics:
@@ -21,7 +21,7 @@ related_articles:
   - "[[intrinsic-nature-void]]"
   - "[[pre-conceptual-knowing]]"
   - "[[language-thought-boundary]]"
-  - "[[evolved-cognitive-limits]]"
+  - "[[biological-cognitive-closure]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -152,7 +152,7 @@ AI's failures—plausible-sounding but wrong responses about physical or emotion
 - [[intrinsic-nature-void]] — The structural gap at the heart of physical knowledge
 - [[pre-conceptual-knowing]] — Knowledge that precedes conceptual articulation
 - [[language-thought-boundary]] — Where speakable and thinkable part ways
-- [[evolved-cognitive-limits]] — Species-level limits shaped by natural selection rather than individual embodiment
+- [[biological-cognitive-closure]] — Species-level limits shaped by natural selection rather than individual embodiment
 
 ## References
 

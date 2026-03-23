@@ -4,7 +4,7 @@ description: "Frameworks are inhabited like dwellings, not carried like luggage.
 created: 2026-02-18
 modified: 2026-03-14
 human_modified:
-ai_modified: 2026-03-14T15:06:00+00:00
+ai_modified: 2026-03-23T12:23:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ related_articles:
   - "[[framework-void]]"
   - "[[language-thought-boundary]]"
   - "[[conceptual-impossibility]]"
-  - "[[evolved-cognitive-limits]]"
+  - "[[biological-cognitive-closure]]"
   - "[[limits-reveal-structure]]"
   - "[[tenet-generated-voids]]"
   - "[[consciousness-and-the-phenomenology-of-translation]]"
@@ -172,7 +172,7 @@ The Map's analysis also resonates with [[mysterianism]]. If frameworks constrain
 
 - [[framework-void]] — The structural analysis of frameworks as cognitive prisons
 - [[language-thought-boundary]] — Where articulation fails within a framework
-- [[evolved-cognitive-limits]] — Cross-cultural evidence for species-level framework constraints
+- [[biological-cognitive-closure]] — Cross-cultural evidence for species-level framework constraints
 - [[limits-reveal-structure]] — What cognitive limits reveal about the architecture of mind
 - [[consciousness-and-the-phenomenology-of-translation]] — The experience of moving between conceptual systems
 - [[tenet-generated-voids]] — How the Map's own commitments create framework-specific blind spots

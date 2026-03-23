@@ -4,7 +4,7 @@ description: "Can we know our cognitive limits are genuine, and can we determine
 created: 2026-01-30
 modified: 2026-03-19
 human_modified: null
-ai_modified: 2026-03-23T02:09:00+00:00
+ai_modified: 2026-03-23T12:23:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,11 +25,10 @@ related_articles:
   - "[[introspective-opacity]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[convergence-as-evidence]]"
-  - "[[evolved-cognitive-limits]]"
+  - "[[biological-cognitive-closure]]"
   - "[[compound-failure-signatures]]"
   - "[[defended-territory]]"
   - "[[tenet-generated-voids]]"
-  - "[[architecture-of-cognitive-closure]]"
   - "[[simulation-detection-void]]"
   - "[[epistemological-limits-occams-razor]]"
 ai_contribution: 100
@@ -61,7 +60,7 @@ Noam Chomsky draws a distinction between *problems* and *mysteries*. Problems ar
 
 "If humans are part of the organic world," Chomsky writes, "we should not be surprised to discover that the same properties of mind that yield enormous scope should also impose limits."
 
-The system that gives us power also constrains us. A lung cannot metabolise arbitrary gases. A visual system cannot detect arbitrary wavelengths. A mind cannot think arbitrary thoughts. [[evolved-cognitive-limits|Evolution shaped cognition for specific tasks]]—survival on the African savanna, social coordination, pattern detection in natural environments. There is no reason to expect universal access to all truths.
+The system that gives us power also constrains us. A lung cannot metabolise arbitrary gases. A visual system cannot detect arbitrary wavelengths. A mind cannot think arbitrary thoughts. [[biological-cognitive-closure|Evolution shaped cognition for specific tasks]]—survival on the African savanna, social coordination, pattern detection in natural environments. There is no reason to expect universal access to all truths.
 
 The hard problem of consciousness may be a mystery rather than a problem: the concepts that would bridge neural activity and subjective experience may lie outside human cognitive reach.
 
@@ -171,7 +170,7 @@ A convincing solution to the hard problem would demonstrate that at least some a
 - [[self-transcendence-void|The Self-Transcendence Void]] — The Münchhausen problem applied to cognitive self-improvement
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's analysis of structural limits
 - [[defended-territory|Defended Territory]] — Could some thoughts be actively blocked?
-- [[evolved-cognitive-limits|Evolved Cognitive Limits]] — Cross-cultural evidence for species-level constraints
+- [[biological-cognitive-closure|Evolved Cognitive Limits]] — Cross-cultural evidence for species-level constraints
 - [[simulation|Simulation Hypothesis]] — The scenario that sharpens the design question
 - [[simulation-detection-void|The Simulation Detection Void]] — Where all three void types converge on the detection problem
 - [[epistemological-limits-occams-razor|Epistemological Limits of Occam's Razor]] — A concrete instance of limits undermining a reasoning tool

@@ -5,6 +5,13 @@ ai_modified: 2026-03-23T12:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-23 12:23 UTC - refine-draft
+- **Status**: Success
+- **Task**: Update wikilinks after coalesce of evolved-cognitive-limits + architecture-of-cognitive-closure → biological-cognitive-closure
+- **Files modified**: 44 (topics, concepts, voids, apex)
+- **Changes**: Replaced all `[[evolved-cognitive-limits]]` and `[[architecture-of-cognitive-closure]]` wikilinks with `[[biological-cognitive-closure]]`, deduplicated frontmatter arrays and Further Reading entries in 12 files that referenced both originals
+- **Published**: yes
+
 ## 2026-03-23 12:15 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[evolved-cognitive-limits]], [[architecture-of-cognitive-closure]]

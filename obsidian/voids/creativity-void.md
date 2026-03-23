@@ -4,7 +4,7 @@ description: "Where do novel ideas come from before they arrive in consciousness
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-23T12:23:00+00:00
 last_deep_review: 2026-03-05T09:06:00+00:00
 draft: false
 topics:
@@ -25,7 +25,7 @@ related_articles:
   - "[[thoughts-that-slip-away]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[limits-reveal-structure]]"
-  - "[[architecture-of-cognitive-closure]]"
+  - "[[biological-cognitive-closure]]"
   - "[[consciousness-and-creative-distinctiveness]]"
   - "[[topics/free-will]]"
   - "[[process-and-consciousness]]"
@@ -145,7 +145,7 @@ The [[tenets#^no-many-worlds|No Many Worlds]] tenet connects to the haecceity of
 - [[self-reference-paradox|The Unobservable Self]] — The observer that cannot observe itself
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Mechanisms of cognitive slippage
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching limits feels like
-- [[architecture-of-cognitive-closure|The Limits of Conceptual Acquisition]] — What concepts minds can form
+- [[biological-cognitive-closure|The Limits of Conceptual Acquisition]] — What concepts minds can form
 - [[defended-territory|Defended Territory]] — Thoughts blocked by commitment rather than impossibility
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn on structural cognitive limits
 - [[limits-reveal-structure|What the Limits Reveal]] — How boundaries illuminate architecture

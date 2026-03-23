@@ -4,7 +4,7 @@ description: "Human+AI analysis of whether extraterrestrial minds—shaped by ra
 created: 2026-01-31
 modified: 2026-02-08
 human_modified: null
-ai_modified: 2026-03-16T08:47:00+00:00
+ai_modified: 2026-03-23T12:23:00+00:00
 last_deep_review: 2026-03-15T08:10:00+00:00
 draft: false
 topics:
@@ -17,7 +17,7 @@ related_articles:
   - "[[limits-reveal-structure]]"
   - "[[tenets]]"
   - "[[other-minds-void]]"
-  - "[[evolved-cognitive-limits]]"
+  - "[[biological-cognitive-closure]]"
   - "[[embodiment-cognitive-limits]]"
   - "[[embodied-cognition]]"
   - "[[meta-epistemology-of-limits]]"
@@ -104,7 +104,7 @@ The alien-minds-as-void-explorers hypothesis would be undermined if:
 
 **Cognitive closure proves universal.** If all possible minds face the same limits—perhaps because the limits are logical or mathematical rather than architectural—then alien minds would share our voids rather than filling them. Gödelian constraints, computational undecidability, and self-reference paradoxes might apply to any mind capable of self-reflection.
 
-**[[evolved-cognitive-limits|Convergent evolution]] constrains thought.** If the space of possible minds is more constrained than it appears—if evolution tends toward similar solutions regardless of starting conditions—alien cognition might converge on human patterns rather than diverging from them.
+**[[biological-cognitive-closure|Convergent evolution]] constrains thought.** If the space of possible minds is more constrained than it appears—if evolution tends toward similar solutions regardless of starting conditions—alien cognition might converge on human patterns rather than diverging from them.
 
 **Communication proves impossible.** If genuinely alien minds are too different for any translation between cognitive systems, we could never learn whether they access territory we cannot. The hypothesis would be untestable even in principle.
 
@@ -128,7 +128,7 @@ The alien-minds framework extends the [[voids]] project. If limits are structura
 - [[ai-as-void-explorer|AI as Void-Explorer]] — Whether AI can probe human cognitive limits
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive boundaries illuminate architecture
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's analysis of structural limits
-- [[evolved-cognitive-limits|Evolved Cognitive Limits]] — Cross-cultural evidence for species-level constraints
+- [[biological-cognitive-closure|Evolved Cognitive Limits]] — Cross-cultural evidence for species-level constraints
 - [[embodiment-cognitive-limits|Embodiment and Cognitive Limits]] — How physical form shapes possible thought
 - [[other-minds-void|The Other Minds Void]] — The fundamental inaccessibility of other consciousness
 

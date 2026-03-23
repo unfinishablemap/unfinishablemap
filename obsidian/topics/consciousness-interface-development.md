@@ -3,7 +3,7 @@ title: "The Consciousness-Brain Interface Across Development"
 created: 2026-02-15
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-22T14:02:00+00:00
+ai_modified: 2026-03-23T12:23:00+00:00
 draft: false
 description: "How the consciousness-brain interface transforms across the lifespan through qualitative restructurings, with critical periods, cognitive stages, skill acquisition, and cross-species comparison revealing what shapes the interface."
 topics:
@@ -23,7 +23,7 @@ concepts:
   - "[[working-memory]]"
   - "[[mental-effort]]"
 related_articles:
-  - "[[architecture-of-cognitive-closure]]"
+  - "[[biological-cognitive-closure]]"
   - "[[baseline-cognition]]"
   - "[[bandwidth-of-consciousness]]"
   - "[[contemplative-neuroscience]]"
@@ -56,7 +56,7 @@ Piaget's sensorimotor period captures this configuration: cognition is inseparab
 
 Between roughly ages 5 and 25, the interface undergoes its most dramatic restructuring. Critical periods close. Perineuronal nets solidify around neurons, fixing circuit architecture. Synaptic pruning eliminates up to half of prefrontal cortex connections. Myelination of long-range axons accelerates, increasing communication speed at the cost of flexibility.
 
-This is where [[architecture-of-cognitive-closure]] becomes irreversible. Infants discriminate phonemes from all human languages; by 10-12 months, discrimination narrows to native-language sounds. Infants recognise faces across all races; by 9 months, the "other-race effect" sets in. Neonates may experience cross-modal sensory integration that most adults lose entirely. These are the costs of specialisation — the interface trading breadth for depth.
+This is where [[biological-cognitive-closure]] becomes irreversible. Infants discriminate phonemes from all human languages; by 10-12 months, discrimination narrows to native-language sounds. Infants recognise faces across all races; by 9 months, the "other-race effect" sets in. Neonates may experience cross-modal sensory integration that most adults lose entirely. These are the costs of specialisation — the interface trading breadth for depth.
 
 Simultaneously, the frontoparietal attention networks that the Map identifies as the [[attention-as-interface|control surface]] for consciousness undergo their most significant maturation. Executive function, working memory, and deliberate attentional control all improve. The interface is being remodelled: fewer sites of potential interaction, but vastly better capacity to select among those that remain.
 
@@ -164,7 +164,7 @@ The developmental trajectory of the interface connects to all five of the Map's 
 
 ## Further Reading
 
-- [[architecture-of-cognitive-closure]]
+- [[biological-cognitive-closure]]
 - [[mind-matter-interface]]
 - [[attention-as-interface]]
 - [[neuroplasticity]]

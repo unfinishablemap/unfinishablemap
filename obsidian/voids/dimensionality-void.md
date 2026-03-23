@@ -4,7 +4,7 @@ description: "Human+AI exploration of whether consciousness operates in a phenom
 created: 2026-03-23
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-03-23T03:01:00+00:00
+ai_modified: 2026-03-23T12:23:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,7 +18,7 @@ related_articles:
   - "[[tenets]]"
   - "[[mind-space-void]]"
   - "[[scale-void]]"
-  - "[[architecture-of-cognitive-closure]]"
+  - "[[biological-cognitive-closure]]"
   - "[[intrinsic-nature-void]]"
   - "[[synesthetic-void]]"
   - "[[framework-void]]"
@@ -91,7 +91,7 @@ The dimensionality void connects directly to the Map's [[tenets]].
 - [[mind-space-void]] — Why we cannot locate ourselves in the space of possible minds
 - [[intrinsic-nature-void]] — What matter is in itself, beyond relational description
 - [[synesthetic-void]] — Phenomenal dimensions closed to most minds within our species
-- [[architecture-of-cognitive-closure]] — Whether some concepts are permanently inaccessible
+- [[biological-cognitive-closure]] — Whether some concepts are permanently inaccessible
 - [[scale-void]] — How cosmic magnitudes overwhelm intuition
 - [[framework-void]] — How conceptual frameworks exclude what they cannot represent
 

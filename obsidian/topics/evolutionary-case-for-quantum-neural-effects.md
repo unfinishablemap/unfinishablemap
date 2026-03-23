@@ -4,7 +4,7 @@ description: "If evolution optimised quantum effects for bird navigation and enz
 created: 2026-03-23
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-03-23T11:06:00+00:00
+ai_modified: 2026-03-23T12:23:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[comparing-quantum-consciousness-mechanisms]]"
   - "[[quantum-biology-neural-mechanisms-2026-01-24]]"
   - "[[dimensionality-void]]"
-  - "[[evolved-cognitive-limits]]"
+  - "[[biological-cognitive-closure]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -96,7 +96,7 @@ The strongest objection holds that even if evolution *could* exploit quantum eff
 
 This objection has weakened considerably on two fronts. First, revised decoherence estimates for microtubule interiors yield 10-100 microseconds (Hagan et al., 2002)—comparable to radical pair coherence times in cryptochrome—though these estimates come from Hameroff's collaborators and await independent confirmation. Second, several proposed neural quantum mechanisms—ion channel tunnelling, synaptic tunnelling, Posner molecule nuclear spin—operate through discrete quantum events rather than sustained coherence, sidestepping the decoherence barrier entirely (see [[quantum-neural-mechanisms-and-coherence]]). The decoherence objection applies unevenly: it constrains theories requiring sustained superposition but leaves discrete-event mechanisms untouched.
 
-More fundamentally, evolution routinely solves problems that appear thermodynamically prohibitive. ATP synthase operates as a molecular rotary motor with near-perfect efficiency. Photosystem II splits water using sunlight. The [[evolved-cognitive-limits|Fitness-Beats-Truth theorem]] offers a relevant caution here: human intuitions about what seems "biologically plausible" are shaped by fitness rather than truth. Our sense that warm biology *should* be classical may reflect cognitive convenience rather than physical reality—precisely the mistake researchers made before quantum effects in photosynthesis and magnetoreception were confirmed.
+More fundamentally, evolution routinely solves problems that appear thermodynamically prohibitive. ATP synthase operates as a molecular rotary motor with near-perfect efficiency. Photosystem II splits water using sunlight. The [[biological-cognitive-closure|Fitness-Beats-Truth theorem]] offers a relevant caution here: human intuitions about what seems "biologically plausible" are shaped by fitness rather than truth. Our sense that warm biology *should* be classical may reflect cognitive convenience rather than physical reality—precisely the mistake researchers made before quantum effects in photosynthesis and magnetoreception were confirmed.
 
 ### Sufficiency of Classical Neural Computation
 
@@ -142,7 +142,7 @@ The evolutionary argument connects to the Map's [[tenets]] at several points:
 - [[evolution-of-consciousness]] — When consciousness arose and what selected for it
 - [[comparing-quantum-consciousness-mechanisms]] — Evaluating competing quantum consciousness theories
 - [[dimensionality-void]] — Why binding high-dimensional neural activity into unified experience is harder than it appears
-- [[evolved-cognitive-limits]] — How fitness-shaped intuitions bias our judgment of biological plausibility
+- [[biological-cognitive-closure]] — How fitness-shaped intuitions bias our judgment of biological plausibility
 
 ## References
 

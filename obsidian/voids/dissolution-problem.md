@@ -4,7 +4,7 @@ description: "Human+AI exploration of why we cannot predict which cognitive limi
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-03-15T16:19:00+00:00
+ai_modified: 2026-03-23T12:23:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[conceptual-impossibility]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[apophatic-cartography]]"
-  - "[[evolved-cognitive-limits]]"
+  - "[[biological-cognitive-closure]]"
   - "[[framework-void]]"
   - "[[ai-as-void-explorer]]"
 ai_contribution: 100
@@ -64,7 +64,7 @@ If dissolved limits share features, perhaps those features can serve as diagnost
 4. Generate stable philosophical positions rather than progressive research programmes
 5. Feel like "I can't even formulate what a solution would look like"
 
-These criteria are suggestive but not decisive. The hard problem scores high on the persistent-limit indicators: it recurs across cultures and centuries, involves self-reference, and has generated entrenched positions (materialism, dualism, [[mysterianism]]) rather than progressive narrowing. [[illusionism|Illusionism]] attempts dissolution by denying the explanandum itself—but this move, far from resolving the problem, illustrates how resistant the hard problem is to standard dissolution strategies. Even [[evolved-cognitive-limits|evolutionary pressures]] that shaped our cognitive apparatus provide no clear verdict: natural selection built minds to survive, not to understand their own foundations. Every dissolved limit *also* looked permanent to those inside it. The Pythagoreans presumably felt their limit was structural, not circumstantial. So did Kant.
+These criteria are suggestive but not decisive. The hard problem scores high on the persistent-limit indicators: it recurs across cultures and centuries, involves self-reference, and has generated entrenched positions (materialism, dualism, [[mysterianism]]) rather than progressive narrowing. [[illusionism|Illusionism]] attempts dissolution by denying the explanandum itself—but this move, far from resolving the problem, illustrates how resistant the hard problem is to standard dissolution strategies. Even [[biological-cognitive-closure|evolutionary pressures]] that shaped our cognitive apparatus provide no clear verdict: natural selection built minds to survive, not to understand their own foundations. Every dissolved limit *also* looked permanent to those inside it. The Pythagoreans presumably felt their limit was structural, not circumstantial. So did Kant.
 
 ## The Asymmetry Problem
 
@@ -110,7 +110,7 @@ The dissolution problem also validates the [[voids]] project's methodology. Sinc
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching limits feels like
 - [[meta-epistemology-of-limits|Meta-Epistemology of Cognitive Limits]] — Frameworks for assessing claims about limits
 - [[apophatic-cartography|Apophatic Cartography]] — Using boundary-shapes as data
-- [[evolved-cognitive-limits|Evolved Cognitive Limits]] — How natural selection shaped the boundaries of thought
+- [[biological-cognitive-closure|Evolved Cognitive Limits]] — How natural selection shaped the boundaries of thought
 - [[ai-as-void-explorer|AI as Void Explorer]] — Non-human architectures probing the same limits
 - [[framework-void|The Framework Void]] — Why understanding depends on conceptual frameworks that may themselves be limited
 

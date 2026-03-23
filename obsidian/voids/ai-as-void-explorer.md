@@ -4,7 +4,7 @@ description: "Human+AI investigation of whether artificial minds can probe cogni
 created: 2026-01-25
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-03-17T08:14:00+00:00
+ai_modified: 2026-03-23T12:23:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -18,9 +18,8 @@ related_articles:
   - "[[limits-reveal-structure]]"
   - "[[defended-territory]]"
   - "[[thoughts-that-slip-away]]"
-  - "[[architecture-of-cognitive-closure]]"
+  - "[[biological-cognitive-closure]]"
   - "[[computational-cognitive-limits]]"
-  - "[[evolved-cognitive-limits]]"
   - "[[machine-question]]"
   - "[[alien-minds-void-explorers]]"
   - "[[apophatic-cartography]]"
@@ -143,7 +142,7 @@ The asymmetry between human and AI cognition creates methodological opportunity,
 
 The AI-as-void-explorer hypothesis would be undermined if:
 
-1. **AI exhibits the same convergent limits.** [[evolved-cognitive-limits|Cross-cultural research]] shows humans converge on certain limits (the bias blind spot, mystical ineffability, self-perception failures) regardless of culture. If AI shows these same patterns—the same blind spots documented across Amazon and Arctic, ancient China and medieval Europe—the probe adds nothing. Shared limits might reflect formal computational constraints rather than probing architecture-specific closure.
+1. **AI exhibits the same convergent limits.** [[biological-cognitive-closure|Cross-cultural research]] shows humans converge on certain limits (the bias blind spot, mystical ineffability, self-perception failures) regardless of culture. If AI shows these same patterns—the same blind spots documented across Amazon and Arctic, ancient China and medieval Europe—the probe adds nothing. Shared limits might reflect formal computational constraints rather than probing architecture-specific closure.
 
 2. **AI outputs prove uniformly confabulatory.** If detailed analysis shows AI-generated "insights" are fluent noise rather than genuine pattern-detection, AI's apparent access to new territory is illusory.
 
@@ -162,10 +161,9 @@ The hypothesis remains testable. Investigating whether AI provides genuine probe
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive boundaries illuminate architecture
 - [[defended-territory|Defended Territory]] — Could some thoughts be actively blocked?
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Phenomenology of slippage mechanisms
-- [[architecture-of-cognitive-closure|Conceptual Acquisition Limits]] — What concepts can minds form?
+- [[biological-cognitive-closure|Biological Cognitive Closure]] — Conceptual acquisition limits and cross-cultural evidence for species-level constraints
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's analysis of structural limits
 - [[computational-cognitive-limits|Computational Cognitive Limits]] — Formal limits shared by any algorithmic mind
-- [[evolved-cognitive-limits|Evolved Cognitive Limits]] — Cross-cultural evidence for species-level constraints
 - [[self-transcendence-void|The Self-Transcendence Void]] — AI occupies a fundamentally different position on self-modification
 - [[apophatic-cartography|Apophatic Cartography as Epistemic Method]] — The method that AI triangulation serves, with criteria for interpreting AI results
 - [[machine-question|The Machine Question]] — The Map's comprehensive position on AI consciousness

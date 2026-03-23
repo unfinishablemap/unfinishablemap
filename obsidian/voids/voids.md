@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-02-02
 human_modified: 2026-01-08
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-23T12:23:00+00:00
 draft: false
 last_deep_review: 2026-03-15T14:29:00+00:00
 topics: []
@@ -143,7 +143,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 
 ### Types of Cognitive Limits
 
-- [[architecture-of-cognitive-closure|The Architecture of Cognitive Closure]] — What concepts can minds form, and voids we acquire through maturation
+- [[biological-cognitive-closure|The Architecture of Cognitive Closure]] — What concepts can minds form, and voids we acquire through maturation
 - [[conceptual-impossibility|Conceptual Impossibility]] — Thoughts that cannot be thought
 - [[computational-cognitive-limits|Computational Cognitive Limits]] — Formal limits on any algorithmic mind
 - [[mathematical-void|The Mathematical Void]] — Where formal manipulation succeeds but understanding fails
@@ -161,7 +161,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 
 ### Comparative Perspectives
 
-- [[evolved-cognitive-limits|Evolved Cognitive Limits]] — Cross-cultural evidence for shared limits
+- [[biological-cognitive-closure|Evolved Cognitive Limits]] — Cross-cultural evidence for shared limits
 - [[collective-cognitive-limits|Collective Cognitive Limits]] — What groups cannot think
 - [[social-epistemic-void|The Social Epistemic Void]] — How testimony and social calibration suppress phenomenal knowledge
 - [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — Evolved versus engineered constraints

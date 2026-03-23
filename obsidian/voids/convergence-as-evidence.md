@@ -4,7 +4,7 @@ description: "How independently catalogued cognitive voids converge into familie
 created: 2026-01-16
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-03-23T02:09:00+00:00
+ai_modified: 2026-03-23T12:23:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -64,7 +64,7 @@ The family's signature failure is **epistemic asymmetry**: knowledge structurall
 
 ### The Cognitive Architecture Family
 
-The [[evolved-cognitive-limits|evolved cognitive limits]], [[computational-cognitive-limits|computational limits]], [[attention-created-voids|attention-created voids]], [[habituation-void|habituation void]], [[language-thought-boundary|language-thought boundary]], and [[scale-void|scale void]] reveal constraints imposed by the specific architecture of human minds. These are voids not because the territory is intrinsically unknowable but because *minds like ours* cannot reach it. Evolution optimised for fitness, not truth. Attention selects by excluding. Language carves experience at joints that may not exist in the territory. Scale intuitions calibrated for ancestral environments collapse at cosmic or quantum magnitudes.
+The [[biological-cognitive-closure|evolved cognitive limits]], [[computational-cognitive-limits|computational limits]], [[attention-created-voids|attention-created voids]], [[habituation-void|habituation void]], [[language-thought-boundary|language-thought boundary]], and [[scale-void|scale void]] reveal constraints imposed by the specific architecture of human minds. These are voids not because the territory is intrinsically unknowable but because *minds like ours* cannot reach it. Evolution optimised for fitness, not truth. Attention selects by excluding. Language carves experience at joints that may not exist in the territory. Scale intuitions calibrated for ancestral environments collapse at cosmic or quantum magnitudes.
 
 The [[recognition-void|Recognition Void's]] concept of "inventory blindness" deepens this family's significance: absent cognitive capabilities produce no signal, so we cannot even catalogue what our architecture prevents us from reaching. This means the convergence of independent failure modes is stronger evidence than any single failure, because inventory blindness ensures we cannot dismiss what we cannot detect missing.
 

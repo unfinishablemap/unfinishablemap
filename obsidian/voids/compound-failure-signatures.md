@@ -4,7 +4,7 @@ description: "Cognitive limits produce structured failure signatures that map vo
 created: 2026-01-29
 modified: 2026-03-19
 human_modified: null
-ai_modified: 2026-03-23T02:09:00+00:00
+ai_modified: 2026-03-23T12:23:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[thoughts-that-slip-away]]"
   - "[[self-reference-paradox]]"
   - "[[apophatic-approaches]]"
-  - "[[evolved-cognitive-limits]]"
+  - "[[biological-cognitive-closure]]"
   - "[[convergence-as-evidence]]"
   - "[[phenomenology-of-cognitive-limit-types]]"
   - "[[tenet-generated-voids]]"
@@ -162,7 +162,7 @@ The failure-topology thesis would be undermined if:
 
 4. **Compound effects prove additive.** If systematic study shows that overlapping limits simply sum rather than producing superadditive interference, the compound closure thesis would be weakened—though the individual failure signatures would retain their diagnostic value.
 
-Current evidence supports structured, persistent failure patterns. The hard problem remains as puzzling as ever despite millennia of inquiry. [[evolved-cognitive-limits|Cross-cultural convergence]] on ineffability, aporia, and introspective limits suggests we track something real.
+Current evidence supports structured, persistent failure patterns. The hard problem remains as puzzling as ever despite millennia of inquiry. [[biological-cognitive-closure|Cross-cultural convergence]] on ineffability, aporia, and introspective limits suggests we track something real.
 
 ## Relation to Site Perspective
 
@@ -180,7 +180,7 @@ Current evidence supports structured, persistent failure patterns. The hard prob
 
 - [[voids|Voids in the Map]] — The framework for investigating cognitive dark spaces
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive boundaries illuminate cognitive architecture
-- [[evolved-cognitive-limits|Evolved Cognitive Limits]] — Cross-cultural evidence for shared boundaries
+- [[biological-cognitive-closure|Evolved Cognitive Limits]] — Cross-cultural evidence for shared boundaries
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching cognitive limits feels like
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for knowing through negation
 - [[apophatic-cartography|Apophatic Cartography as Epistemic Method]] — Formalising the method with evidential standards

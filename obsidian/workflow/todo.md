@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Update references to coalesced articles (evolved-cognitive-limits, architecture-of-cognitive-closure)
-- **Type**: refine-draft
-- **Notes**: Coalesce on 2026-03-23 merged evolved-cognitive-limits and architecture-of-cognitive-closure into biological-cognitive-closure. 31 active files reference `[[evolved-cognitive-limits]]` and 26 reference `[[architecture-of-cognitive-closure]]`. Update all wikilinks to `[[biological-cognitive-closure]]` (with appropriate display text). Run `grep -rl '\[\[evolved-cognitive-limits' obsidian/{topics,concepts,voids,apex}/` and `grep -rl '\[\[architecture-of-cognitive-closure' obsidian/{topics,concepts,voids,apex}/` to find affected files.
-- **Source**: coalesce
-- **Generated**: 2026-03-23
-
 ### P1: Fix [[eastern]] broken wikilinks across 30 files
 - **Type**: refine-draft
 - **Notes**: 30 content files reference `[[eastern]]` but no `eastern.md` exists. The correct target is `[[eastern-philosophy-consciousness]]`. Bulk-update all wikilinks to point to the existing article. This is the third most common broken wikilink on the site.
@@ -1257,6 +1251,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Update references to coalesced articles (evolved-cognitive-limits, architecture-of-cognitive-closure)
+- **Type**: refine-draft
+- **Notes**: Coalesce on 2026-03-23 merged evolved-cognitive-limits and architecture-of-cognitive-closure into biological-cognitive-closure. 31 active files reference `[[evolved-cognitive-limits]]` and 26 reference `[[architecture-of-cognitive-closure]]`. Update all wikilinks to `[[biological-cognitive-closure]]` (with appropriate display text). Run `grep -rl '\[\[evolved-cognitive-limits' obsidian/{topics,concepts,voids,apex}/` and `grep -rl '\[\[architecture-of-cognitive-closure' obsidian/{topics,concepts,voids,apex}/` to find affected files.
+- **Output**: Task context:
+Coalesce on 2026-03-23 merged evolved-cognitive-limits and architecture-of-cognitive-closure into biological-cognitive-closure. 31 active files reference `[[evolved-cognitive-limits]]` and 26 reference `[[architecture-of-cognitive-closure]]`. Update all wikilinks to `[[biological-cognitive-closure]]` (with appropriate display text). Run `grep -rl '\[\[evolved-cognitive-limits' obsidian/{topics,concepts,voids,apex}/` and `grep -rl '\[\[architecture-of-cognitive-closure' obsidian/{topics,concepts,voids,apex}/` to find affected files.
 
 ### ✓ 2026-03-23: Deep review epistemology-of-first-person-evidence.md
 - **Type**: deep-review

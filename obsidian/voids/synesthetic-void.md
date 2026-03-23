@@ -4,7 +4,7 @@ description: "Human+AI exploration of how synesthesia reveals experiential dimen
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-03-22T14:02:00+00:00
+ai_modified: 2026-03-23T12:23:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -17,7 +17,7 @@ related_articles:
   - "[[tenets]]"
   - "[[affective-void]]"
   - "[[other-minds-void]]"
-  - "[[architecture-of-cognitive-closure]]"
+  - "[[biological-cognitive-closure]]"
   - "[[consciousness-only-territories]]"
   - "[[intersubjective-void]]"
   - "[[intrinsic-nature-void]]"
@@ -103,7 +103,7 @@ The synesthetic void connects directly to the Map's [[tenets|foundational commit
 - [[other-minds-void]] — The privacy of consciousness and its implications
 - [[intersubjective-void]] — Whether experiences can be genuinely shared
 - [[consciousness-only-territories]] — What only phenomenal experience can access
-- [[architecture-of-cognitive-closure]] — What concepts can minds form, and voids created through maturation
+- [[biological-cognitive-closure]] — What concepts can minds form, and voids created through maturation
 - [[intrinsic-nature-void]] — What matter is in itself, beyond structural description
 
 ## References

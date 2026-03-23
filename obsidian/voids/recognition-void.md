@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot observe its own r
 created: 2026-03-22
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-03-22T23:34:00+00:00
+ai_modified: 2026-03-23T12:23:00+00:00
 last_deep_review: 2026-03-22T18:16:00+00:00
 draft: false
 topics:
@@ -21,7 +21,7 @@ related_articles:
   - "[[tenets]]"
   - "[[introspective-opacity]]"
   - "[[framework-void]]"
-  - "[[architecture-of-cognitive-closure]]"
+  - "[[biological-cognitive-closure]]"
   - "[[causal-interface]]"
   - "[[binding-void]]"
   - "[[mind-space-void]]"
@@ -68,7 +68,7 @@ The agnosias — modality-specific recognition failures — further decompose th
 
 ## The Recursive Problem
 
-The Recognition Void extends beyond mechanism opacity into a deeper structural problem. McGinn's [[cognitive-closure|cognitive closure]] thesis argues that human minds are constitutionally incapable of solving certain problems — not because the problems are incoherent but because our cognitive architecture cannot represent the solutions. The [[architecture-of-cognitive-closure]] article shows how both innate and developmental constraints progressively narrow our conceptual reach. A dog cannot do calculus, not for lack of effort but for lack of the right kind of mind. Humans likely have analogous closures.
+The Recognition Void extends beyond mechanism opacity into a deeper structural problem. McGinn's [[cognitive-closure|cognitive closure]] thesis argues that human minds are constitutionally incapable of solving certain problems — not because the problems are incoherent but because our cognitive architecture cannot represent the solutions. The [[biological-cognitive-closure]] article shows how both innate and developmental constraints progressively narrow our conceptual reach. A dog cannot do calculus, not for lack of effort but for lack of the right kind of mind. Humans likely have analogous closures.
 
 The recursive structure of this limit is what makes it a void rather than merely a hard problem:
 
@@ -116,7 +116,7 @@ The Recognition Void engages multiple [[tenets]].
 ## Further Reading
 
 - [[introspective-opacity]]
-- [[architecture-of-cognitive-closure]]
+- [[biological-cognitive-closure]]
 - [[framework-void]]
 - [[causal-interface]]
 - [[binding-void]]

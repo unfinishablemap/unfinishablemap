@@ -4,7 +4,7 @@ description: "McGinn's cognitive closure thesis: human minds may be constitution
 created: 2026-01-15
 modified: 2026-02-18
 human_modified: null
-ai_modified: 2026-03-23T01:22:00+00:00
+ai_modified: 2026-03-23T12:23:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,9 +19,8 @@ concepts:
   - "[[introspection]]"
   - "[[decoherence]]"
   - "[[consciousness-and-mathematical-cognition]]"
-  - "[[architecture-of-cognitive-closure]]"
+  - "[[biological-cognitive-closure]]"
   - "[[computational-cognitive-limits]]"
-  - "[[evolved-cognitive-limits]]"
   - "[[cognitive-science-of-dualism]]"
   - "[[causal-closure]]"
   - "[[epistemology-of-limit-knowledge]]"
@@ -78,7 +77,7 @@ They may interact—if the consciousness-physics interface involves properties w
 
 ## Developmental Cognitive Closure
 
-McGinn treats cognitive closure as a fixed feature of species-level architecture. But research on [[architecture-of-cognitive-closure|developmental closure]] reveals that individual humans acquire new closures during maturation. Infants discriminate phonemes from all languages; adults cannot. Critical period closure and synaptic pruning physically dismantle the neural architecture that supported broader access.
+McGinn treats cognitive closure as a fixed feature of species-level architecture. But research on [[biological-cognitive-closure|developmental closure]] reveals that individual humans acquire new closures during maturation. Infants discriminate phonemes from all languages; adults cannot. Critical period closure and synaptic pruning physically dismantle the neural architecture that supported broader access.
 
 This enriches the concept: cognitive closure is not only species-wide and fixed but also individually acquired and developmentally dynamic. Some territory becomes permanently inaccessible through the normal process of growing up.
 
@@ -98,11 +97,11 @@ If complete description doesn't reveal consciousness in a 302-neuron organism, w
 
 Noam Chomsky distinguished "problems" (difficulties within our cognitive capacities) from "mysteries" (beyond cognitive reach, like calculus for dogs). We're biological organisms with specific cognitive architectures—some questions may fall outside what that architecture can handle.
 
-Consciousness might be such a mystery. The [[explanatory-gap]] persists despite centuries of effort—perhaps not because we haven't tried hard enough, but because trying harder won't help. The [[origin-of-consciousness|origin question]]—why consciousness exists at all—is a prior mystery that cognitive closure may explain. Research on [[evolved-cognitive-limits]] shows that certain limits appear universally across isolated cultures, suggesting species-level constraints rather than cultural artifacts. These limits extend to collectives: [[collective-cognitive-limits|paradigm blindness]] shows that scientific communities share blind spots no individual could transcend from within, yet centuries of collective inquiry have not closed the explanatory gap.
+Consciousness might be such a mystery. The [[explanatory-gap]] persists despite centuries of effort—perhaps not because we haven't tried hard enough, but because trying harder won't help. The [[origin-of-consciousness|origin question]]—why consciousness exists at all—is a prior mystery that cognitive closure may explain. Research on [[biological-cognitive-closure]] shows that certain limits appear universally across isolated cultures, suggesting species-level constraints rather than cultural artifacts. These limits extend to collectives: [[collective-cognitive-limits|paradigm blindness]] shows that scientific communities share blind spots no individual could transcend from within, yet centuries of collective inquiry have not closed the explanatory gap.
 
 ## Concept Nativism and Cognitive Closure
 
-Jerry Fodor's [[architecture-of-cognitive-closure|radical concept nativism]] complements McGinn: while McGinn argues we cannot *conceive* certain properties, Fodor argues we cannot *acquire* certain concepts at all. Learning requires already possessing the concept to formulate hypotheses—if it isn't built in, experience cannot produce it.
+Jerry Fodor's [[biological-cognitive-closure|radical concept nativism]] complements McGinn: while McGinn argues we cannot *conceive* certain properties, Fodor argues we cannot *acquire* certain concepts at all. Learning requires already possessing the concept to formulate hypotheses—if it isn't built in, experience cannot produce it.
 
 McGinn's "property P" may be closed because we lack the primitive concepts required to build toward it. This convergence—Fodor on acquisition, McGinn on conception, Rescher's "agnoseology" on unknowability—suggests any mind powerful enough to think some thoughts is thereby prevented from thinking others.
 
@@ -223,10 +222,9 @@ The Map goes further than mysterianism in making specific commitments—but pres
 ## Further Reading
 
 - [[origin-of-consciousness]] — The prior question: why consciousness exists at all
-- [[evolved-cognitive-limits]] — Cross-cultural evidence that certain cognitive limits are species-wide
+- [[biological-cognitive-closure]] — Cross-cultural evidence for species-level constraints, Fodor's nativist argument, and how maturation creates new closures
 - [[collective-cognitive-limits]] — How cognitive closure extends to groups through paradigm blindness
 - [[computational-cognitive-limits]] — Proven mathematical limits on what any algorithmic mind can know
-- [[architecture-of-cognitive-closure]] — Fodor's nativist argument and how maturation creates new closures
 - [[consciousness-and-mathematical-cognition]] — Mathematical insight as evidence for cognitive limits
 - [[minimal-consciousness]] — Complete neural mapping yet unknowable experience
 - [[phenomenology-of-the-edge]] — What cognitive closure feels like from the inside

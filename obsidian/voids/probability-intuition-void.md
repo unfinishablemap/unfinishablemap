@@ -4,7 +4,7 @@ description: "Human+AI exploration of why genuine randomness and probabilistic r
 created: 2026-02-03
 modified: 2026-02-07
 human_modified: null
-ai_modified: 2026-03-19T02:21:06+00:00
+ai_modified: 2026-03-23T12:23:00+00:00
 last_deep_review: 2026-03-15T13:19:00+00:00
 draft: false
 topics:
@@ -22,8 +22,7 @@ related_articles:
   - "[[three-kinds-of-void]]"
   - "[[scale-void]]"
   - "[[embodiment-cognitive-limits]]"
-  - "[[evolved-cognitive-limits]]"
-  - "[[architecture-of-cognitive-closure]]"
+  - "[[biological-cognitive-closure]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[phenomenology-of-deliberation-under-uncertainty]]"
   - "[[hard-problem-of-consciousness]]"
@@ -116,9 +115,8 @@ The probability intuition void connects to the Map's [[tenets]] in several ways.
 - [[scale-void]] — The related void concerning magnitude comprehension
 - [[cognitive-closure]] — McGinn's framework for permanent cognitive limits
 - [[fitness-beats-truth]] — Why natural selection tunes perception for fitness, not accuracy
-- [[evolved-cognitive-limits]] — Cross-cultural evidence that probability errors are species-level
+- [[biological-cognitive-closure]] — Cross-cultural evidence that probability errors are species-level, and how cognitive limits are acquired through development
 - [[compound-failure-signatures]] — How multiple cognitive limits interact superadditively
-- [[architecture-of-cognitive-closure]] — How cognitive limits are acquired through development
 - [[embodiment-cognitive-limits]] — How bodies constrain thought
 - [[phenomenology-of-the-edge]] — What approaching limits feels like
 - [[phenomenology-of-deliberation-under-uncertainty]] — The phenomenology of deciding under unknowable outcomes

@@ -4,7 +4,7 @@ description: "The unexplored, the unexplorable, and the occluded—a taxonomy of
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-22T16:46:00+00:00
+ai_modified: 2026-03-23T12:23:00+00:00
 draft: false
 last_deep_review: 2026-02-24T18:44:00+00:00
 topics: []
@@ -22,7 +22,7 @@ related_articles:
   - "[[whether-real]]"
   - "[[synesthetic-void]]"
   - "[[adaptive-cognitive-limits]]"
-  - "[[evolved-cognitive-limits]]"
+  - "[[biological-cognitive-closure]]"
   - "[[the-silence-void]]"
   - "[[recognition-void]]"
 ai_contribution: 80
@@ -48,7 +48,7 @@ Colin McGinn's [[mysterianism|mysterian]] framework articulates this possibility
 
 McGinn argues that humans may be cognitively closed to what he calls "property P"—whatever property of the brain explains how neural activity gives rise to conscious experience. We access consciousness through introspection and brain through perception, but neither mode reveals the bridge between them. The [[recognition-void]] exemplifies this category: the process by which perception becomes identification is structurally hidden, and its failures (Capgras delusion, prosopagnosia) reveal components that were never accessible to introspection. The [[hard-problem-of-consciousness|hard problem]] might be unsolvable not because it's supernatural but because the solution lies outside our cognitive reach. The [[the-silence-void|silence void]] exemplifies this category: contemplative traditions report that certain truths are accessible only through the cessation of thought, making them structurally inaccessible to any cognitive process—including the process of mapping.
 
-Materialists counter that apparent cognitive closure often dissolves with scientific progress—what seems unthinkable becomes tractable once the right concepts emerge. This is a serious objection. But if the Map's [[tenets]] are correct—consciousness is irreducible and interacts with physical processes—the hard problem may be different in kind from merely difficult problems. [[apophatic-cartography|Apophatic cartography]] formalises criteria for making this distinction — structured persistence, cross-observer convergence, signature specificity, and framework independence. Cross-cultural evidence strengthens the case: where [[evolved-cognitive-limits|cognitive limits converge]] independently across isolated cultures, they point to species-level architecture rather than contingent ignorance. The [[meta-epistemology-of-limits|meta-level question]] of how we can distinguish genuine closure from merely difficult problems may itself be unanswerable from within any limited cognitive system—which is itself evidence for the framework.
+Materialists counter that apparent cognitive closure often dissolves with scientific progress—what seems unthinkable becomes tractable once the right concepts emerge. This is a serious objection. But if the Map's [[tenets]] are correct—consciousness is irreducible and interacts with physical processes—the hard problem may be different in kind from merely difficult problems. [[apophatic-cartography|Apophatic cartography]] formalises criteria for making this distinction — structured persistence, cross-observer convergence, signature specificity, and framework independence. Cross-cultural evidence strengthens the case: where [[biological-cognitive-closure|cognitive limits converge]] independently across isolated cultures, they point to species-level architecture rather than contingent ignorance. The [[meta-epistemology-of-limits|meta-level question]] of how we can distinguish genuine closure from merely difficult problems may itself be unanswerable from within any limited cognitive system—which is itself evidence for the framework.
 
 Thomas Nagel's bat example illustrates this: there is something it is like to be a bat, navigating by echolocation in ways we cannot truly imagine. The bat has experiential territory we cannot enter. Our map has a void where the bat's map has detail.
 
@@ -94,5 +94,5 @@ The three-part taxonomy organises investigation but does not confine it. The [[s
 - [[apophatic-approaches]] — The methodology of knowing through negation that void investigation employs
 - [[apophatic-cartography]] — Formalising criteria for distinguishing genuine closure
 - [[adaptive-cognitive-limits]] — Blind spots as evolutionary features, not defects
-- [[evolved-cognitive-limits]] — Cross-cultural evidence for species-level limits
+- [[biological-cognitive-closure]] — Cross-cultural evidence for species-level limits
 - [[the-silence-void]] — Territory accessible only through the cessation of thought
