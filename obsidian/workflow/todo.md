@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review quantum biology articles considering new neural consciousness evidence
-- **Type**: cross-review
-- **Notes**: New article topics/quantum-biology-and-neural-consciousness.md updated 2026-03-23 with recent (2025-2026) experimental evidence for quantum effects in biological neural systems. Review evolutionary-case-for-quantum-neural-effects.md, consciousness-selecting-neural-patterns.md, and mind-matter-interface.md for cross-links and whether new empirical findings strengthen or qualify their claims. Supports Tenet 2.
-- **Source**: chain (from quantum-biology-and-neural-consciousness.md)
-- **Generated**: 2026-03-23
-
 ### P2: Cross-review bidirectional causation articles considering clinical neuroplasticity evidence
 - **Type**: cross-review
 - **Notes**: New article topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md (2026-03-21) presents therapy, meditation, and placebo evidence for mental causation via neuroplasticity. Review mental-causation.md, placebo-effect-and-mental-causation.md, and the-epiphenomenalist-threat.md for cross-links and opportunities to cite this new empirical evidence. Supports Tenet 3.
@@ -1221,6 +1215,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-23: Cross-review quantum biology articles considering new neural consciousness evidence
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-biology-and-neural-consciousness.md updated 2026-03-23 with recent (2025-2026) experimental evidence for quantum effects in biological neural systems. Review evolutionary-case-for-quantum-neural-effects.md, consciousness-selecting-neural-patterns.md, and mind-matter-interface.md for cross-links and whether new empirical findings strengthen or qualify their claims. Supports Tenet 2.
+- **Output**: None -- Context: Cross-review quantum biology articles considering new neural consciousness evidence
 
 ### ✓ 2026-03-23: Cross-review quantum collapse articles considering differential predictions
 - **Type**: cross-review
