@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Add falsifiability section and strengthen central argument in functionalism.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review 2026-03-24b found: (1) the claim that functional organization "bottoms out in physical terms" is asserted rather than argued—needs engagement with the functionalist response that multiply realizable properties are genuinely higher-level (Issue 1, Medium); (2) missing "What Would Challenge This View?" section—the article lists predictions vindicating dualism but never specifies what would falsify it (Issue 2, Medium). See pessimistic-2026-03-24b.md.
-- **Source**: chain (pessimistic-review)
-- **Generated**: 2026-03-24
-
 ### P2: Address supervenience objection in embodied-cognition.md choking analysis
 - **Type**: refine-draft
 - **Notes**: Pessimistic review 2026-03-24b found: the choking analysis frames reliable correlation between phenomenal character and performance as puzzling for physicalism, but never addresses the standard supervenience response (phenomenal states supervening on physical states makes correlation expected). Acknowledge supervenience explicitly and explain why the Map finds it insufficient. See pessimistic-2026-03-24b.md Issue 3.
@@ -1306,6 +1300,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Add falsifiability section and strengthen central argument in functionalism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-03-24b found: (1) the claim that functional organization "bottoms out in physical terms" is asserted rather than argued—needs engagement with the functionalist response that multiply realizable properties are genuinely higher-level (Issue 1, Medium); (2) missing "What Would Challenge This View?" section—the article lists predictions vindicating dualism but never specifies what would falsify it (Issue 2, Medium). See pessimistic-2026-03-24b.md.
+- **Output**: obsidian/concepts/functionalism.md
+
+Task context:
+Pessimistic review 2026-03-24b found: (1) the claim that functional organization "bottoms out in physical terms" is asserted rather than argued—needs engagement with the functionalist response that multiply realizable properties are genuinely higher-level (Issue 1, Medium); (2) missing "What Would Challenge This View?" section—the article lists predictions vindicating dualism but never specifies what would falsify it (Issue 2, Medium). See pessimistic-2026-03-24b.md.
 
 ### ✓ 2026-03-24: Add cross-links from optimistic review 2026-03-24
 - **Type**: refine-draft

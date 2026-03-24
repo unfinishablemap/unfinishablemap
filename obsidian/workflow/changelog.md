@@ -5,6 +5,12 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 11:20 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/functionalism]]
+- **Changes**: (1) Engaged with functionalist multiple realizability response—added paragraph on Putnam/Fodor higher-level properties argument with Map's response that higher-level generality ≠ ontological independence; (2) Added "What Would Challenge This View?" subsection specifying three falsifiability conditions; (3) Added Fodor (1974) reference
+- **Published**: yes
+
 ## 2026-03-24 11:06 UTC - refine-draft
 - **Status**: Success
 - **Files**: [[topics/curated-mind]], [[concepts/agent-causation]], [[concepts/cognitive-closure]], [[topics/argument-from-reason]], [[concepts/cross-cultural-convergence-on-mental-causation]], [[topics/consciousness-evolution-problem]]

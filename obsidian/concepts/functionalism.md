@@ -4,7 +4,7 @@ description: "Mental states defined by causal roles, not substrate. Absent quali
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-03-24T00:13:00+00:00
+ai_modified: 2026-03-24T11:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,11 @@ last_deep_review: 2026-03-24T00:13:00+00:00
 
 Functionalism is the dominant position in contemporary [[philosophy-of-mind|philosophy of mind]]: the view that mental states are defined by their functional roles—what they do rather than what they're made of. A pain isn't a particular kind of brain state; it's whatever state plays the pain role: being caused by tissue damage, causing distress, prompting avoidance behavior, and so on. If something plays that role, it's pain—regardless of whether it's implemented in neurons, silicon, or alien biochemistry.
 
-The Unfinishable Map rejects functionalism. The [[tenets#^dualism|Dualism]] tenet holds that consciousness is not reducible to physical processes. Functional organization, though abstractly characterized, ultimately bottoms out in physical terms: every functional role is defined by causal relations among physical states, physical inputs, and physical outputs. The abstraction is in the *description*, not in the ontology—a functional specification picks out physical patterns at a higher level of generality, but what it picks out remains entirely physical. If functionalism were true, consciousness would be nothing over and above the right causal structure—which the Map denies. For a systematic presentation of the case against functionalism, see [[arguments/functionalism-argument|Against Functionalism]]—five formal arguments (absent qualia, inverted qualia, Chinese Room, multiple realizability cuts both ways, explanatory gap) with objections and responses.
+The Unfinishable Map rejects functionalism. The [[tenets#^dualism|Dualism]] tenet holds that consciousness is not reducible to physical processes. Functional organization, though abstractly characterized, ultimately bottoms out in physical terms: every functional role is defined by causal relations among physical states, physical inputs, and physical outputs. The abstraction is in the *description*, not in the ontology—a functional specification picks out physical patterns at a higher level of generality, but what it picks out remains entirely physical.
+
+Functionalists push back here. They argue that multiply realizable properties are genuinely higher-level: the property *being in pain* is not identical to any particular physical property precisely because it can be realized by indefinitely many physical substrates. On this view, functional properties are not merely convenient redescriptions of physical patterns but real higher-order properties in their own right—properties that carve nature at joints invisible to lower-level physics (Putnam, 1967; Fodor, 1974). The Map's response: even granting that functional properties are genuinely higher-level, they remain *constituted by* physical relations. A functional property supervenes on physical arrangements—there is nothing to "being in pain" beyond some physical substrate or other playing the pain role. Higher-level generality is not the same as ontological independence. Consciousness, if it is truly non-physical, must be something that could vary even when all functional (and therefore all physical) facts are held fixed—which is precisely what the zombie argument claims.
+
+If functionalism were true, consciousness would be nothing over and above the right causal structure—which the Map denies. For a systematic presentation of the case against functionalism, see [[arguments/functionalism-argument|Against Functionalism]]—five formal arguments (absent qualia, inverted qualia, Chinese Room, multiple realizability cuts both ways, explanatory gap) with objections and responses.
 
 ## The Functionalist View
 
@@ -174,6 +178,16 @@ The debate may be empirically tractable:
 
 The positions make different predictions about what we'll find.
 
+### What Would Challenge This View?
+
+The Map's rejection of functionalism would face serious pressure if:
+
+- **Functional equivalence tracked experience perfectly.** If every functionally equivalent system turned out to have equivalent conscious states—with no exceptions in split-brain cases, disorders of consciousness, or cross-substrate comparisons—the parsimony of functionalism would become hard to resist.
+- **AI systems exhibited genuine phenomenal understanding.** If computational systems demonstrated not just behavioral sophistication but capacities that dualists predict require non-physical consciousness (such as resolving genuinely novel hard-problem puzzles or exhibiting first-person creativity indistinguishable from biological minds), the claim that "something non-physical is missing" would lose empirical support.
+- **Quantum sensitivity proved irrelevant to consciousness.** If consciousness correlated with macroscopic neural processes and showed no dependence on quantum-level phenomena—especially if anesthesia and consciousness disorders were fully explained by classical neural mechanisms—the Minimal Quantum Interaction tenet would be undermined, weakening one pillar of the case against functionalism.
+
+None of these would logically refute dualism (the conceivability arguments would remain), but they would erode the empirical motivation for rejecting functionalism and shift the burden of proof.
+
 ## Further Reading
 
 - [[dualism]] — The convergence of arguments against physicalism
@@ -202,6 +216,7 @@ The positions make different predictions about what we'll find.
 1. Block, N. (1995). "On a Confusion about a Function of Consciousness." *Behavioral and Brain Sciences*, 18(2), 227-247.
 1. Boisseau, R.P., Vogel, D. & Dussutour, A. (2016). "Habituation in non-neural organisms: evidence from slime moulds." *Proceedings of the Royal Society B*, 283(1829), 20160446.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Fodor, J.A. (1974). "Special Sciences (Or: The Disunity of Science as a Working Hypothesis)." *Synthese*, 28(2), 97-115.
 1. Craddock, T.J.A., et al. (2017). "Anesthetic Alterations of Collective Terahertz Oscillations in Tubulin Correlate with Clinical Potency." *Scientific Reports*, 7, 9877.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Lewis, D. (1972). "Psychophysical and Theoretical Identifications." *Australasian Journal of Philosophy*, 50, 249-258.
@@ -213,17 +228,14 @@ The positions make different predictions about what we'll find.
 1. Searle, J. (1980). "Minds, Brains, and Programs." *Behavioral and Brain Sciences*, 3, 417-457.
 1. Tero, A., et al. (2010). "Rules for Biologically Inspired Adaptive Network Design." *Science*, 327(5964), 439-442.
 
-<!-- AI REFINEMENT LOG - 2026-03-22
+<!-- AI REFINEMENT LOG - 2026-03-24
 Changes made:
-1. Rewrote illusionism section to acknowledge dialectical stalemate rather than presenting anti-illusionist response as a knock-down refutation (Issue 1, High)
-2. Expanded argument for why functional organization reduces to physical terms—abstraction is in the description, not the ontology (Issue 2, Medium)
-3. Added inline citations for C. elegans Phi (Oizumi et al. 2014), anesthetic response (Morgan & Bhatt 2015), and Physarum behaviors (Nakagaki 2000, Tero 2010, Boisseau 2016) (Issue 3, Medium)
-4. Removed stale 2026-03-11 AI refinement log (Issue 4, Low)
-5. Added sentence noting Searle's internalization move may beg the question (language improvement)
-6. Added 5 new references to support empirical claims
+1. Engaged with functionalist response on multiple realizability: added paragraph acknowledging that functionalists argue multiply realizable properties are genuinely higher-level (Putnam, Fodor), then gave Map's response that higher-level generality is not ontological independence (Issue 1 from pessimistic-2026-03-24b, Medium)
+2. Added "What Would Challenge This View?" subsection under Empirical Tractability: specifies three conditions that would pressure the Map's rejection of functionalism—perfect functional-experience tracking, AI phenomenal understanding, quantum irrelevance to consciousness (Issue 2 from pessimistic-2026-03-24b, Medium)
+3. Added Fodor (1974) reference
 
-Based on pessimistic review pessimistic-2026-03-22-c.md.
-Key improvements: Intellectual honesty on illusionism dialectic; empirical claims now cited.
+Based on pessimistic review pessimistic-2026-03-24b.md.
+Key improvements: Intellectual honesty on functionalist higher-level properties argument; falsifiability conditions now explicit.
 
 This log should be removed after human review.
 -->
