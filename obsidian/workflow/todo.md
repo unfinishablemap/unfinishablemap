@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-24T17:48:00+00:00
+ai_modified: 2026-03-24T19:54:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Integrate supervenience.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-24 via expand-topic. Add cross-references from
+  related articles (mental-causation, downward-causation, the-strong-emergence-of-consciousness,
+  emergence) or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-24
+
+### P2: Cross-review ai-consciousness.md considering types-of-ai-phenomenal-experience insights
+- **Type**: cross-review
+- **Notes**: New article concepts/types-of-ai-phenomenal-experience.md provides a six-category taxonomy
+  of AI phenomenal experience. ai-consciousness.md does not reference it despite being the foundational
+  topic article. Check for cross-links, reinforcing arguments, or contradictions.
+- **Source**: chain (from types-of-ai-phenomenal-experience.md)
+- **Generated**: 2026-03-24
+
+### P2: Cross-review structural-varieties-of-consciousness-and-ai-phenomenology.md considering types-of-ai-phenomenal-experience insights
+- **Type**: cross-review
+- **Notes**: New article concepts/types-of-ai-phenomenal-experience.md complements
+  structural-varieties-of-consciousness-and-ai-phenomenology.md — one categorises types of AI
+  phenomenal experience, the other maps structural dimensions. Both created same day but lack
+  cross-references. Coordinate terminology and add mutual links.
+- **Source**: chain (from types-of-ai-phenomenal-experience.md)
+- **Generated**: 2026-03-24
+
+### P2: Cross-review the-strong-emergence-of-consciousness.md considering supervenience insights
+- **Type**: cross-review
+- **Notes**: New article concepts/supervenience.md provides dedicated treatment of supervenience
+  variants (logical, natural, nomological) and their implications for dualism. The strong emergence
+  article discusses supervenience implicitly in the weak emergence section but does not mention it
+  by name or link to the new concept page. Add explicit reference and wikilink.
+- **Source**: chain (from supervenience.md)
+- **Generated**: 2026-03-24
+
+### P2: Condense mysterianism.md (3564 words, 143% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments
+  about McGinn's cognitive closure and new mysterianism while removing redundancy and deferring
+  detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-24
 
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
