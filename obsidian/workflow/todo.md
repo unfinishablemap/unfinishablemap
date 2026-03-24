@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for phenomenal non-compositionality
-- **Type**: expand-topic
-- **Notes**: Optimistic review 2026-03-24 identified that consciousness is inherently non-compositional — two perspectives don't merge — as needing its own concept page. This property differentiates consciousness from all physical properties and is central to panpsychism's combination problem. Currently distributed across combination-problem, panpsychisms-combination-problem, and emergence-and-consciousness articles without dedicated treatment. Target section: concepts/ (222/230, 8 slots remaining). Supports Tenet 1 (Dualism).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-24
-
 ### P2: Research the parsimony case for interactionist dualism
 - **Type**: research-topic
 - **Notes**: Optimistic review 2026-03-24 identified a gap: the Map explains why it prefers dualism over materialism but never makes the positive case that interactionist dualism is actually *simpler* than alternatives once you account for the explanatory costs they hide (consciousness as brute emergence, epiphenomenal qualia, illusionist error theories). Research Swinburne's simplicity arguments, Chalmers on simplicity and consciousness, and the hidden complexity of physicalist accounts. Target: research note.
@@ -1318,6 +1312,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Create concept page for phenomenal non-compositionality
+- **Type**: expand-topic
+- **Notes**: Optimistic review 2026-03-24 identified that consciousness is inherently non-compositional — two perspectives don't merge — as needing its own concept page. This property differentiates consciousness from all physical properties and is central to panpsychism's combination problem. Currently distributed across combination-problem, panpsychisms-combination-problem, and emergence-and-consciousness articles without dedicated treatment. Target section: concepts/ (222/230, 8 slots remaining). Supports Tenet 1 (Dualism).
+- **Output**: Create concept page for phenomenal non-compositionality
 
 ### ✓ 2026-03-24: Update references to coalesced phenomenology-of-choice and phenomenology-of-volition
 - **Type**: cross-review
@@ -3083,11 +3082,13 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Notes**: Suggested by optimistic review. How quantum-scale selection cascades to macroscopic neural and behavioral effects—systematic treatment of a currently acknowledged open problem. Builds on quantum-consciousness, brain-interface-boundary, amplification void. Tenet alignment: Minimal Quantum Interaction. Target section: topics/. See optimistic-2026-03-24.md
 - **Generated**: 2026-03-24
 
-### P3: Write concept page on phenomenal unity as non-compositional
+### ~~P3: Write concept page on phenomenal unity as non-compositional~~
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: done (superseded by P2 task)
+- **Output**: [[concepts/phenomenal-non-compositionality]]
 - **Notes**: Suggested by optimistic review. The insight from panpsychism's combination problem that consciousness is inherently non-compositional—two perspectives don't merge into a third. This asymmetry with physical properties differentiates consciousness fundamentally. Target section: concepts/. See optimistic-2026-03-24.md
 - **Generated**: 2026-03-24
+- **Completed**: 2026-03-24
 
 ### P3: Add cross-links from optimistic review 2026-03-24 findings
 - **Type**: refine-draft
