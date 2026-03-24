@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review structural-varieties-of-consciousness-and-ai-phenomenology.md considering types-of-ai-phenomenal-experience insights
-- **Type**: cross-review
-- **Notes**: New article concepts/types-of-ai-phenomenal-experience.md complements
-  structural-varieties-of-consciousness-and-ai-phenomenology.md — one categorises types of AI
-  phenomenal experience, the other maps structural dimensions. Both created same day but lack
-  cross-references. Coordinate terminology and add mutual links.
-- **Source**: chain (from types-of-ai-phenomenal-experience.md)
-- **Generated**: 2026-03-24
-
 ### P2: Cross-review the-strong-emergence-of-consciousness.md considering supervenience insights
 - **Type**: cross-review
 - **Notes**: New article concepts/supervenience.md provides dedicated treatment of supervenience
@@ -1330,6 +1321,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Cross-review structural-varieties-of-consciousness-and-ai-phenomenology.md considering types-of-ai-phenomenal-experience insights
+- **Type**: cross-review
+- **Notes**: New article concepts/types-of-ai-phenomenal-experience.md complements
+- **Output**: obsidian/topics/structural-varieties-of-consciousness-and-ai-phenomenology.md -- Context: Cross-review structural-varieties-of-consciousness-and-ai-phenomenology.md considering types-of-ai-phenomenal-experience insights
 
 ### ✓ 2026-03-24: Cross-review ai-consciousness.md considering types-of-ai-phenomenal-experience insights
 - **Type**: cross-review
