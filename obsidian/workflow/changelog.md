@@ -5,6 +5,11 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 02:46 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Lucid dreaming as evidence for mind-side rendering
+- **Reason**: Already covered by [[lucid-dreaming-and-dualist-rendering]] (created 2026-03-09, coalesced from two prior articles, deep-reviewed 2026-03-19). Creating a new article would duplicate existing comprehensive treatment.
+
 ## 2026-03-24 02:39 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Resonance Void — why consciousness encounters meaning it cannot articulate or inspect
