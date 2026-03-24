@@ -5,6 +5,11 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 02:13 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Penrose gravity-collapse predictions and empirical prospects
+- **Reason**: Article already exists at [[topics/penrose-gravity-induced-collapse-empirical-prospects]] (created 2026-03-15, deep-reviewed 2026-03-18). Stale task from unconsumed_research queue pointing to already-consumed research.
+
 ## 2026-03-24 02:07 UTC - coalesce
 - **Status**: Abandoned (no strong candidates)
 - **Sections searched**: voids (99/100), topics (227/230), concepts (223/230)

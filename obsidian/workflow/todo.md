@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on Penrose gravity-collapse predictions and empirical prospects
-- **Type**: expand-topic
-- **Notes**: Research completed in research/penrose-gravity-collapse-empirical-2026-03-14.md and supplement research/penrose-gravity-collapse-empirical-2026-03-17.md. Synthesize: Diósi-Penrose model predictions, current experimental status (Vinante et al. constraints, MAQRO proposal), and how consciousness-modulated collapse might differ from pure gravitational collapse. Critical for establishing empirical testability of Tenet 2. Target section: topics/ (227/230, 3 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-24
-
 ### P2: Write article on Born rule derivation limits and consciousness
 - **Type**: expand-topic
 - **Notes**: Research completed in research/born-rule-derivation-attempts-2026-03-14.md and follow-up research/born-rule-derivation-limits-followup-2026-03-16.md. Covers Gleason's theorem, Deutsch-Wallace decision-theoretic derivation, Zurek's envariance, QBism Dutch-book, Masanes-Müller axioms. Each derivation attempt assumes something about measurement — supporting the Map's claim that the Born rule is an interface specification. Directly supports Tenet 2. Target section: concepts/ (223/230, 7 slots remaining).
@@ -1298,6 +1292,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Write article on Penrose gravity-collapse predictions and empirical prospects
+- **Type**: expand-topic
+- **Notes**: Research completed in research/penrose-gravity-collapse-empirical-2026-03-14.md and supplement research/penrose-gravity-collapse-empirical-2026-03-17.md. Synthesize: Diósi-Penrose model predictions, current experimental status (Vinante et al. constraints, MAQRO proposal), and how consciousness-modulated collapse might differ from pure gravitational collapse. Critical for establishing empirical testability of Tenet 2. Target section: topics/ (227/230, 3 slots remaining).
+- **Output**: Penrose gravity-collapse predictions and empirical prospects
 
 ### ✓ 2026-03-24: Update references to coalesced consciousness-collapse articles
 - **Type**: cross-review
