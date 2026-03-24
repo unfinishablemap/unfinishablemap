@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-15 via expand-topic from research/dreams-problem-solving-lucid-dreaming-2026-02-06.md. Topics article on Konkoly et al. targeted memory reactivation evidence. Add cross-references from lucid-dreaming-and-dualist-rendering, consciousness-and-sleep, and related altered-states articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-23
-
 ### P2: Integrate phenomenology-of-moral-deliberation.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Topics article on the phenomenology of moral deliberation under dualism. Add cross-references from moral-phenomenology, consciousness-and-normative-force, phenomenology-of-agency-vs-passivity, and related ethics articles.
@@ -1286,6 +1280,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-15 via expand-topic from research/dreams-problem-solving-lucid-dreaming-2026-02-06.md. Topics article on Konkoly et al. targeted memory reactivation evidence. Add cross-references from lucid-dreaming-and-dualist-rendering, consciousness-and-sleep, and related altered-states articles.
+- **Output**: dream-problem-solving-and-conscious-influence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-24: Cross-review perceptual-failure-and-the-interface.md considering perceptual-degradation-and-the-interface insights
 - **Type**: cross-review
