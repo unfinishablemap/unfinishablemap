@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-24T03:45:00+00:00
+ai_modified: 2026-03-24T05:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Incorporate clinical neuroplasticity research into bidirectional-interaction articles
+- **Type**: refine-draft
+- **Notes**: Research completed in research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md. OCD treatment (Schwartz), psychotherapy-induced neuroplasticity, and meditation structural changes provide empirical grounding for Tenet 3 (Bidirectional Interaction). Incorporate findings into mental-causation.md and bidirectional-interaction.md — strengthen empirical evidence sections with specific clinical data.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-24
+
+### P2: Incorporate experimental consciousness-collapse tests research into consciousness-collapse-experimental-landscape.md
+- **Type**: refine-draft
+- **Notes**: Research completed in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Reviews testable predictions distinguishing consciousness-collapse from decoherence — directly relevant to empirical tractability of Tenet 2. Update consciousness-collapse-experimental-landscape.md with new experimental proposals and status assessments.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-24
+
+### P2: Incorporate consciousness-anaesthesia filter theory research into anaesthesia articles
+- **Type**: refine-draft
+- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Graded consciousness loss under anaesthesia and ketamine's preservation of complex brain dynamics with phenomenal disconnection support filter/transmission theory. Incorporate into anaesthesia-and-the-consciousness-interface.md and filter-theory.md with specific pharmacological evidence.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-24
+
+### P2: Condense measurement-problem.md (3516 words, 141% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about the measurement problem's relationship to consciousness while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-24
+
+### P2: Deep review lucid-dreaming-and-dualist-rendering.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) updated via coalesce on 2026-03-20, never reviewed post-coalesce. Topics article on lucid dreaming as evidence for mind-side rendering capability. Verify the coalesce preserved coherence, accuracy of empirical claims about lucid dreaming research, cross-references to dream-problem-solving-and-conscious-influence and capability-division-problem, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-24
+
+### P2: Deep review skill-delegation.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-20 via expand-topic, never reviewed. Concept page on consciousness training procedural systems, withdrawing active control, and retaining override capacity. Verify coherence, accuracy of claims about automaticity and skill acquisition, cross-references to agent-causation, motor-control, phenomenology-of-agency-vs-passivity, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-24
 
 ### P3: Address car-analogy and circularity issues in curated-mind.md
 - **Type**: refine-draft
