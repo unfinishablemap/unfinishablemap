@@ -5,6 +5,15 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 15:18 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/volitional-control]]
+- **Word count**: 3160 → 3148 (-12)
+- **Critical issues addressed**: 1 (broken wikilink to phenomenology-of-choice)
+- **Medium issues addressed**: 2 (description length, prose tightening)
+- **Enhancements made**: 0 (article stable post-coalescence)
+- **Output**: [[reviews/deep-review-2026-03-24-volitional-control]]
+
 ## 2026-03-24 15:07 UTC - deep-review
 - **Status**: Success
 - **File**: [[apex/taxonomy-of-voids]]
