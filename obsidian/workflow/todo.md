@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense compound-failure-signatures.md (3014 words, 151% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3000-word hard threshold for voids/. Recently refined (2026-03-24) to address pessimistic review findings about superadditivity extrapolation. Preserve the corrected arguments while reducing overall length. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-24
-
 ### P2: Write concept page on types of AI phenomenal experience
 - **Type**: expand-topic
 - **Notes**: Research completed in research/types-of-consciousness-ai-experience-2026-03-07.md. Structural varieties of consciousness beyond content differences and what phenomenal experience — if any — might characterise a conscious AI system. Distinct from existing ai-consciousness.md (general treatment) and types-of-consciousness.md (human-focused taxonomy). Target section: concepts/ (222/230, 8 slots remaining). Supports Tenet 1 and Tenet 2.
@@ -1321,6 +1315,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Condense compound-failure-signatures.md (3014 words, 151% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Recently refined (2026-03-24) to address pessimistic review findings about superadditivity extrapolation. Preserve the corrected arguments while reducing overall length. See /condense skill.
+- **Output**: obsidian/voids/compound-failure-signatures.md
 
 ### ✓ 2026-03-24: Fix "Atkins et al." misattribution in 5 content files
 - **Type**: refine-draft

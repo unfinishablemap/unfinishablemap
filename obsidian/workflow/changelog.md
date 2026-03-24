@@ -5,6 +5,14 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 16:48 UTC - condense
+- **Status**: Success
+- **File**: [[voids/compound-failure-signatures]]
+- **Before**: 3014
+- **After**: 1867
+- **Reduction**: 38%
+- **Technique**: Collapsed 5 taxonomy subsections into 2 condensed paragraphs (table retained), trimmed superadditivity discussion, cut 2 probing methods, shortened challenge conditions, reduced Further Reading from 19 to 10 items, removed 3 unused references, removed stale AI refinement log
+
 ## 2026-03-24 16:34 UTC - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/quantum-neural-mechanisms-and-coherence]], [[topics/quantum-biology-and-neural-consciousness]], [[concepts/timing-gap-problem]], [[topics/quantum-holism-and-phenomenal-unity]], [[topics/empirical-evidence-for-consciousness-selecting]]
