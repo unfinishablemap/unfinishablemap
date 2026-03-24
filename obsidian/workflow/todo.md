@@ -37,10 +37,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review quantum consciousness articles considering quantum-biology concept page
-- **Type**: cross-review
-- **Notes**: New concept page concepts/quantum-biology.md (2026-03-24) synthesises 2025-2026 microtubule evidence (Wiest, TRAZE, QBIT). Review comparing-quantum-consciousness-mechanisms.md for cross-links to new experimental findings, consciousness-selecting-neural-patterns.md for consistency with microtubule coherence claims, and consciousness-collapse-experimental-landscape.md for updated experimental status.
-- **Source**: chain (from quantum-biology expand-topic)
+### P1: Fix "Atkins et al." misattribution in 5 content files
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: The cryptochrome Zeno paper (Denton et al. 2024, Nature Communications 15:10823) was incorrectly cited as "Atkins et al." across the site. Fixed in quantum-consciousness.md. Remaining files: concepts/quantum-neural-mechanisms-and-coherence.md, topics/quantum-biology-and-neural-consciousness.md, concepts/timing-gap-problem.md, topics/quantum-holism-and-phenomenal-unity.md, topics/empirical-evidence-for-consciousness-selecting.md. Correct citation: Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024).
+- **Source**: deep-review finding
 - **Generated**: 2026-03-24
 
 ### P2: Condense mysterianism.md (3564 words, 143% of target)
@@ -1326,6 +1327,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Cross-review quantum consciousness articles considering quantum-biology concept page
+- **Type**: cross-review
+- **Notes**: New concept page concepts/quantum-biology.md (2026-03-24) synthesises 2025-2026 microtubule evidence (Wiest, TRAZE, QBIT). Review comparing-quantum-consciousness-mechanisms.md for cross-links to new experimental findings, consciousness-selecting-neural-patterns.md for consistency with microtubule coherence claims, and consciousness-collapse-experimental-landscape.md for updated experimental status.
+- **Output**: None -- Context: Cross-review quantum consciousness articles considering quantum-biology concept page
 
 ### ✓ 2026-03-24: Cross-review agency and volition articles considering volitional-control empirical evidence
 - **Type**: cross-review
