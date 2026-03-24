@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review other-minds and selfhood articles considering consciousness-and-intersubjectivity.md
-- **Type**: cross-review
-- **Notes**: New article consciousness-and-intersubjectivity.md (written 2026-03-21) covers how one consciousness encounters another — empathy, theory of mind, linguistic community under dualism. Review related existing articles for cross-links and consistency: social-construction-of-self-vs-phenomenal-self.md, other-minds-void.md, social-epistemic-void.md, phenomenology-of-agency-vs-passivity.md. Check for contradictions, reinforcing arguments, and missing cross-references.
-- **Source**: chain (expand-topic)
-- **Generated**: 2026-03-24
-
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
 - **Status**: pending
@@ -1302,6 +1296,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Cross-review other-minds and selfhood articles considering consciousness-and-intersubjectivity.md
+- **Type**: cross-review
+- **Notes**: New article consciousness-and-intersubjectivity.md (written 2026-03-21) covers how one consciousness encounters another — empathy, theory of mind, linguistic community under dualism. Review related existing articles for cross-links and consistency: social-construction-of-self-vs-phenomenal-self.md, other-minds-void.md, social-epistemic-void.md, phenomenology-of-agency-vs-passivity.md. Check for contradictions, reinforcing arguments, and missing cross-references.
+- **Output**: obsidian/topics/consciousness-and-intersubjectivity.md -- Context: Cross-review other-minds and selfhood articles considering consciousness-and-intersubjectivity.md
 
 ### ✓ 2026-03-24: Address superadditivity extrapolation overreach in compound-failure-signatures.md
 - **Type**: refine-draft

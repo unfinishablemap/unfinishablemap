@@ -4,8 +4,8 @@ description: "Is consciousness constitutively intersubjective or fundamentally s
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-03-23T17:30:00+00:00
-last_deep_review: 2026-03-21T17:55:00+00:00
+ai_modified: 2026-03-24T12:36:00+00:00
+last_deep_review: 2026-03-24T12:36:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -27,7 +27,9 @@ related_articles:
   - "[[intersubjective-void]]"
 
   - "[[social-construction-of-self-vs-phenomenal-self]]"
+  - "[[the-self-minimal-narrative-and-substantial]]"
   - "[[epistemology-of-other-minds-under-dualism]]"
+  - "[[consciousness-and-testimony]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -93,6 +95,8 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] provid
 
 This picture preserves what is right in both the "consciousness first" and "intersubjectivity first" positions. Individual consciousness is ontologically real and irreducible — it does not dissolve into intersubjective relations. But intersubjective encounter transforms what consciousness can be. A consciousness that has never encountered another remains phenomenally impoverished: it lacks the categories of self-and-other, the experience of being understood and misunderstood, the moral horizon that opens when another's vulnerability becomes visible. These are not additions to a pre-existing consciousness that was already complete. They are dimensions of experience that only intersubjective encounter can activate.
 
+The connection to selfhood is direct. The [[the-self-minimal-narrative-and-substantial|three-layered model of selfhood]] distinguishes the minimal self (bare first-person perspective), the narrative self (autobiographical construction), and the substantial self (irreducible conscious particular). Intersubjective encounter operates primarily at the narrative layer — shaping how the self is understood and expressed — while presupposing the minimal and substantial layers as its phenomenological ground. As the [[social-construction-of-self-vs-phenomenal-self|social construction analysis]] argues, you must already be a phenomenal self before society can construct anything out of you. The phenomenal self provides the experiential subject that intersubjective encounter then transforms.
+
 ## The Asymmetry Problem
 
 A distinctive feature of intersubjective consciousness is its structural asymmetry. I have direct access to my own experience and only mediated access to yours. This asymmetry generates what Zahavi (2014) characterises as an experiential divide — not a gap that might be closed with better technology or deeper empathy, but a constitutive feature of what it means to be a subject among subjects.
@@ -101,9 +105,13 @@ The asymmetry matters for the Map's framework in three ways:
 
 **It grounds the reality of individual consciousness.** If experience were fully intersubjective — if your pain and mine were literally shared — there would be no individual experiencers, only a distributed phenomenal field. The fact that I cannot feel *your* pain, only my empathic response to it, demonstrates that consciousness comes in discrete, bounded units. The Map's dualism predicts exactly this: each consciousness is its own ontological reality.
 
-**It explains why intersubjective knowledge is always approximate.** The [[other-minds-void]] is not a failure of intersubjectivity but a consequence of the asymmetry. I can approach your experience through empathy, testimony, and shared attention, but I cannot coincide with it. This makes interpersonal understanding an ongoing achievement that is never completed — which matches the phenomenology. Understanding another person deepens indefinitely without reaching a terminus.
+**It explains why intersubjective knowledge is always approximate.** The [[other-minds-void]] is not a failure of intersubjectivity but a consequence of the asymmetry. I can approach your experience through empathy, [[consciousness-and-testimony|testimony]], and shared attention, but I cannot coincide with it. This makes [[consciousness-and-interpersonal-understanding|interpersonal understanding]] an ongoing achievement that is never completed — which matches the phenomenology. Understanding another person deepens indefinitely without reaching a terminus.
 
 **It gives moral significance to the attempt.** Because understanding across the asymmetry requires effort, attention, and vulnerability, it carries moral weight. The attempt to understand another consciousness despite the gap is an ethical act — what Levinas would call responsibility. If the gap were illusory or easily bridged, the attempt would lose its significance.
+
+## What Would Challenge This View?
+
+The Map's third position — ontologically individual, phenomenologically enriched — would face difficulty if: (1) a solitary consciousness raised without intersubjective contact developed the full range of self-other categories, moral awareness, and perspective-taking capacities that the article claims require encounter, demonstrating that enrichment is innate rather than intersubjectively activated; (2) constitutive intersubjectivity were demonstrated — if removing all intersubjective relations from a consciousness rendered it not merely impoverished but incoherent, the "ontologically individual" claim would fail; (3) the [[self-and-self-consciousness|minimal self]] turned out to require social construction rather than preceding it, undermining the developmental priority that grounds the Map's position; (4) physicalist accounts of communication proved fully adequate to the phenomenology — if "merely causal interaction between similar physical systems" captured the felt difficulty of genuine intersubjective encounter without remainder, the dualist framing would be unmotivated.
 
 ## Relation to Site Perspective
 
@@ -126,7 +134,10 @@ The asymmetry matters for the Map's framework in three ways:
 
 - [[problem-of-other-minds]] — The epistemic puzzle that intersubjectivity addresses
 - [[social-construction-of-self-vs-phenomenal-self]] — Why social construction requires phenomenal subjects
+- [[the-self-minimal-narrative-and-substantial]] — Three layers of selfhood and how intersubjective encounter operates across them
+- [[self-and-self-consciousness]] — The minimal self as structural feature that intersubjective encounter presupposes
 - [[epistemology-of-other-minds-under-dualism]] — How dualism reshapes knowledge of other minds
+- [[consciousness-and-testimony]] — How testimony bridges the void between minds while presupposing what it cannot verify
 - [[cross-cultural-phenomenology-of-agency]] — Convergent phenomenological reports across cultures as intersubjective evidence
 
 ## References
