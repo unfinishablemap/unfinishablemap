@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review unobservable-self.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article at 2999 words — approaching hard limit of 3000 for voids section. Verify coherence, accuracy of claims about the unobservable self, cross-references to related void articles (self-transcendence-void, phenomenology-of-self-awareness), and tenet alignment. May need condensing if content is redundant.
-- **Source**: staleness
-- **Generated**: 2026-03-24
-
 ### P2: Write article on the reconstruction paradox
 - **Type**: expand-topic
 - **Notes**: Research completed in research/reconstruction-paradox-brain-correction-2026-03-09.md. The paradox that the brain's error-correction mechanisms presuppose the very conscious verification they are supposed to explain — a novel argument for the irreducibility of conscious oversight. No dedicated concept page exists despite being referenced. Target section: concepts/ (223/230, 7 slots remaining).
@@ -1280,6 +1274,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Deep review unobservable-self.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article at 2999 words — approaching hard limit of 3000 for voids section. Verify coherence, accuracy of claims about the unobservable self, cross-references to related void articles (self-transcendence-void, phenomenology-of-self-awareness), and tenet alignment. May need condensing if content is redundant.
+- **Output**: obsidian/voids/unobservable-self.md
 
 ### ✓ 2026-03-24: Write article on lucid dreaming as evidence for mind-side rendering
 - **Type**: expand-topic

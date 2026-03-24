@@ -5,6 +5,15 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 03:00 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/unobservable-self]]
+- **Word count**: 2999 → 2723 (-276)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (length condensation, Metzinger redundancy, redundant hard-problem section, calibration/neighbouring-voids overlap)
+- **Enhancements made**: 0 (condensation-focused review)
+- **Output**: [[reviews/deep-review-2026-03-24-the-unobservable-self]]
+
 ## 2026-03-24 02:46 UTC - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: Lucid dreaming as evidence for mind-side rendering
