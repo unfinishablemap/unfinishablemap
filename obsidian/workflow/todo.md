@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Write article on the parsimony case for interactionist dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/parsimony-case-interactionist-dualism-2026-03-24.md. The positive parsimony argument: interactionist dualism may actually be more parsimonious than competitors once explanatory burdens are properly tallied (hard problem, causal closure gaps, phenomenal judgment). Distinct from existing limits-of-parsimony article which argues parsimony is unreliable, not that dualism wins on parsimony. Directly supports Tenet 5. Target section: topics/ (228/230, slot 1 of 2 remaining).
+- **Source**: chain (research-topic 2026-03-24) + unconsumed_research
+- **Generated**: 2026-03-24
+
+### P2: Write article on phenomenology of volitional control — empirical evidence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenology-volitional-control-2026-03-20.md. Libet reinterpretations (Schurger's stochastic readiness model, Brass-Haggard freedom-not-to-act paradigm) supporting conscious causation rather than undermining it. Distinct from concepts/phenomenology-of-volition.md which covers the felt quality; this covers the empirical evidence. Supports Tenet 3 (Bidirectional Interaction). Target section: topics/ (228/230, slot 2 of 2 remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-24
+
+### P2: Write concept page on quantum biology and neural quantum effects
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-biology-neural-experimental-2026-03-20.md. 2025-2026 microtubule evidence (Wiest, TRAZE, QBIT theories) documenting quantum effects in neural systems. No dedicated concept page synthesising experimental quantum biology findings relevant to consciousness. Supports Tenet 2 (Minimal Quantum Interaction). Target section: concepts/ (223/230, 7 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-24
+
+### P2: Cross-review born-rule and functionalism articles considering phenomenal-non-compositionality
+- **Type**: cross-review
+- **Notes**: New article concepts/phenomenal-non-compositionality.md (2026-03-24) argues phenomenal properties resist compositional analysis. Review born-rule-and-the-consciousness-interface.md for structural parallels (Born rule as non-compositional interface specification) and functionalism.md for the contrast (functional roles compose but phenomenal properties don't). Check for cross-links, reinforcing arguments, and terminology consistency.
+- **Source**: chain (expand-topic 2026-03-24, phenomenal-non-compositionality)
+- **Generated**: 2026-03-24
+
+### P2: Cross-review void catalogue and phenomenology articles considering resonance-void
+- **Type**: cross-review
+- **Notes**: New article voids/resonance-void.md (2026-03-24) introduces absence-vs-presence distinction for voids and explores causal-interface opacity. Review convergence-of-the-void-catalogue.md for taxonomy updates (resonance as new void type), tenet-generated-voids.md for tenet connections, and phenomenology-of-choice-and-volition.md for shared opacity theme. Check for cross-links and contradictions.
+- **Source**: chain (expand-topic 2026-03-24, resonance-void)
+- **Generated**: 2026-03-24
+
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
 - **Status**: pending
