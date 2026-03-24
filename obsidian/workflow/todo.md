@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review quantum probability articles considering born-rule coalesce
-- **Type**: cross-review
-- **Notes**: born-rule-and-the-consciousness-interface.md now unifies derivation-failure and interpretation-invariance arguments into a single article. Review quantum-measurement-and-subjective-probability.md and consciousness-and-probability-interpretation.md for cross-links to the unified treatment and consistency with its broadened scope.
-- **Source**: chain (coalesce born-rule)
-- **Generated**: 2026-03-24
-
 ### P2: Fix broken wikilinks to archived/coalesced slugs (emotional-consciousness, attention)
 - **Type**: refine-draft
 - **Notes**: Broken wikilinks to archived or coalesced article slugs remain in active content: emotional-consciousness (3 refs in valence.md, evolution-of-consciousness.md, comparative-consciousness-and-interface-differences.md — archived, likely → emotion-and-dualism), attention (5 refs — likely → attention-as-interface). Verify each archived slug's replacement and update wikilinks. Promoted from P3 — broken links degrade site navigation integrity.
@@ -1300,6 +1294,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Cross-review quantum probability articles considering born-rule coalesce
+- **Type**: cross-review
+- **Notes**: born-rule-and-the-consciousness-interface.md now unifies derivation-failure and interpretation-invariance arguments into a single article. Review quantum-measurement-and-subjective-probability.md and consciousness-and-probability-interpretation.md for cross-links to the unified treatment and consistency with its broadened scope.
+- **Output**: None -- Context: Cross-review quantum probability articles considering born-rule coalesce
 
 ### ✓ 2026-03-24: Cross-review reconstruction-paradox articles considering curated-mind.md
 - **Type**: cross-review
