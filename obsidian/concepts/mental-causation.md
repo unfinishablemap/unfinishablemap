@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-24T05:26:00+00:00
+ai_modified: 2026-03-24T22:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,6 +12,7 @@ topics:
 concepts:
   - "[[psychophysical-laws]]"
   - "[[psychophysical-laws-bridging-mind-and-matter]]"
+  - "[[supervenience]]"
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"
   - "[[concepts/epiphenomenalism]]"
@@ -48,7 +49,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-03-21T13:19:00+00:00
+last_deep_review: 2026-03-24T22:09:00+00:00
 ---
 
 Mental causation — one of the central problems in [[philosophy-of-mind|philosophy of mind]] — is the thesis that mental states cause physical effects. When you decide to raise your arm, your decision causes the arm to rise. When pain motivates avoidance, the pain causes the avoidance. This seems obvious from experience but faces a formidable challenge: Jaegwon Kim's exclusion argument, which concludes that mental properties are either physical or causally inert. The Unfinishable Map's quantum framework provides a response: consciousness causes physical effects at points where physics is genuinely incomplete.
@@ -78,7 +79,7 @@ Why can't mental and physical causes both contribute through overdetermination? 
 
 Mental properties [[supervenience|supervene]] on physical properties: no mental difference without physical difference. But if mental property M supervenes on physical property P, and P suffices to cause effect E, then M seems causally "screened off."
 
-Kim calls this "causal drainage" — efficacy drains from higher levels to lower levels. The threat extends beyond consciousness to all higher-level properties: does temperature cause anything, or just molecular motion? This generalization either undermines all higher-level causation (implausible) or suggests something is wrong with the exclusion reasoning itself.
+Kim calls this "causal drainage" — efficacy drains from higher levels to lower levels. The threat extends beyond consciousness to all higher-level properties: does temperature cause anything, or just molecular motion? This generalization either undermines all higher-level causation (implausible) or suggests something is wrong with the exclusion reasoning itself. The Map's response reframes the relationship: rather than one-way supervenience (physical determines mental), the [[supervenience|actual picture]] is *mutual constraint* — physical states constrain which experiences are possible, and conscious states constrain which physical outcomes become actual.
 
 ## Major Responses
 
@@ -221,6 +222,7 @@ Mental causation, as defended here, is falsifiable:
 - [[choking-phenomenon-mental-causation]] — Empirical evidence: conscious interference demonstrates causation
 - [[bidirectional-interaction]] — The Map's commitment to consciousness causally influencing the physical
 - [[illusionism]] — The radical challenge denying phenomenal consciousness
+- [[supervenience]] — Why covariance without reduction is the Map's position
 - [[concepts/many-worlds]] — Why the Map rejects MWI (and why it matters here)
 - [[arguments/epiphenomenalism-argument]] — The cumulative case against epiphenomenalism
 - [[conservation-laws-and-mental-causation]] — Why conservation laws don't block mental causation
@@ -263,17 +265,3 @@ Mental causation, as defended here, is falsifiable:
 1. Rodríguez-Martín, M. L., et al. (2024). Neurobiological changes induced by mindfulness and meditation: A systematic review. *Biomedicines*, 12(11), 2613.
 1. Marueckova, A., et al. (2024). Placebo stimulates neuroplasticity in depression: Implications for clinical practice and research. *Frontiers in Psychiatry*, 14, 1301143.
 1. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
-
-<!-- AI REFINEMENT LOG - 2026-03-24
-Changes made:
-- Added new "Empirical Evidence: Clinical Neuroplasticity" section with three subsections
-- "Self-Directed Neuroplasticity in OCD": Schwartz's four-step protocol, PET imaging data on caudate nucleus normalisation
-- "The Pathway Divergence Argument": CBT vs pharmacotherapy meta-analysis data (302 subjects, 18 experiments), directional asymmetry argument against exclusion
-- "Meditation and Placebo": cortical thickness, synaptogenesis/neurogenesis from meditation; placebo content-specificity argument
-- Added bridging paragraph connecting to bidirectional-interaction article
-- Added 5 new references (Schwartz 1998, Schwartz/Stapp/Beauregard 2005, Marzbani 2022, Rodríguez-Martín 2024, Marueckova 2024)
-
-Key improvements: Article previously had no empirical evidence section — all arguments were philosophical. Now integrates specific clinical data supporting mental causation, strengthening the empirical grounding for the quantum opening argument.
-
-This log should be removed after human review.
--->

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review mental-causation.md considering supervenience insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article concepts/supervenience.md (created 2026-03-24) directly addresses supervenience relations that are central to the mental causation debate. Check for cross-links, reinforce the exclusion argument discussion with the new supervenience treatment, and verify consistency of terminology.
-- **Source**: chain (from supervenience.md)
-- **Generated**: 2026-03-24
-
 ### P2: Enhance anaesthesia-and-the-consciousness-interface.md with graded loss research
 - **Type**: refine-draft
 - **Status**: pending
@@ -1339,6 +1332,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Cross-review mental-causation.md considering supervenience insights
+- **Type**: cross-review
+- **Notes**: New article concepts/supervenience.md (created 2026-03-24) directly addresses supervenience relations that are central to the mental causation debate. Check for cross-links, reinforce the exclusion argument discussion with the new supervenience treatment, and verify consistency of terminology.
+- **Output**: obsidian/concepts/mental-causation.md -- Context: Cross-review mental-causation.md considering supervenience insights
 
 ### ✓ 2026-03-24: Cross-review emergence.md considering supervenience insights
 - **Type**: cross-review
