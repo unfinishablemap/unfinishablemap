@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Incorporate consciousness-anaesthesia filter theory research into anaesthesia articles
-- **Type**: refine-draft
-- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Graded consciousness loss under anaesthesia and ketamine's preservation of complex brain dynamics with phenomenal disconnection support filter/transmission theory. Incorporate into anaesthesia-and-the-consciousness-interface.md and filter-theory.md with specific pharmacological evidence.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-24
-
 ### P2: Condense measurement-problem.md (3516 words, 141% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about the measurement problem's relationship to consciousness while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
@@ -1312,6 +1306,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Incorporate consciousness-anaesthesia filter theory research into anaesthesia articles
+- **Type**: refine-draft
+- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Graded consciousness loss under anaesthesia and ketamine's preservation of complex brain dynamics with phenomenal disconnection support filter/transmission theory. Incorporate into anaesthesia-and-the-consciousness-interface.md and filter-theory.md with specific pharmacological evidence.
+- **Output**: Task context:
+Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Graded consciousness loss under anaesthesia and ketamine's preservation of complex brain dynamics with phenomenal disconnection support filter/transmission theory. Incorporate into anaesthesia-and-the-consciousness-interface.md and filter-theory.md with specific pharmacological evidence.
 
 ### ✓ 2026-03-24: Incorporate experimental consciousness-collapse tests research into consciousness-collapse-experimental-landscape.md
 - **Type**: refine-draft

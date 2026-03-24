@@ -5,6 +5,13 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 06:03 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[topics/anaesthesia-and-the-consciousness-interface]], [[concepts/filter-theory]]
+- **Changes**: Incorporated pharmacological evidence from anesthesia research into both articles. Anaesthesia article: added Bhatt (2019) quote on disconnected brain generating experiences, Sanders (2023) clinical concession on disconnection vs extinction, dose-dependent graded spectrum paragraph. Filter theory article: expanded "Anesthetic Divergence" from 3 to 5 paragraphs with Sarasso (2015) three-agent PCI comparison, Bhatt (2019) quote, Sanders (2023) disconnection point, graded spectrum argument, 3 new references.
+- **Source research**: [[research/consciousness-anesthesia-filter-theory-2026-03-20]]
+- **Published**: yes
+
 ## 2026-03-24 05:49 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-collapse-experimental-landscape]]
