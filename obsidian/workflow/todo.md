@@ -3004,3 +3004,33 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Status**: Done (completed as P2 task above)
 - **Output**: [[concepts/epistemology-of-limit-knowledge]]
 - **Completed**: 2026-03-22
+
+### P3: Write article on consciousness and mathematical understanding
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How grasping mathematical necessity differs from processing symbols—the specific case of mathematical truth-tracking as evidence for consciousness. Builds on argument-from-reason, phenomenology-of-intellectual-effort, cognitive-phenomenology. Tenet alignment: Dualism + Bidirectional Interaction. Target section: topics/. See optimistic-2026-03-24.md
+- **Generated**: 2026-03-24
+
+### P3: Write article on philosophy of emotion under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How emotions function as conscious evaluative states under interactionist dualism—bridging phenomenal experience and action. Builds on consciousness-value-connection, phenomenal-normativity, moral-phenomenology. Tenet alignment: Bidirectional Interaction + Dualism. Target section: topics/. See optimistic-2026-03-24.md
+- **Generated**: 2026-03-24
+
+### P3: Write article on the amplification problem as research programme
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How quantum-scale selection cascades to macroscopic neural and behavioral effects—systematic treatment of a currently acknowledged open problem. Builds on quantum-consciousness, brain-interface-boundary, amplification void. Tenet alignment: Minimal Quantum Interaction. Target section: topics/. See optimistic-2026-03-24.md
+- **Generated**: 2026-03-24
+
+### P3: Write concept page on phenomenal unity as non-compositional
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The insight from panpsychism's combination problem that consciousness is inherently non-compositional—two perspectives don't merge into a third. This asymmetry with physical properties differentiates consciousness fundamentally. Target section: concepts/. See optimistic-2026-03-24.md
+- **Generated**: 2026-03-24
+
+### P3: Add cross-links from optimistic review 2026-03-24 findings
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Six cross-linking opportunities: curated-mind↔phenomenal-acquaintance, agent-causation↔consciousness-value-connection, cognitive-closure↔contemplative-practice, argument-from-reason↔phenomenology-of-intellectual-effort, cross-cultural-convergence↔contemplative-practice, consciousness-evolution-problem↔consciousness-value-connection. See optimistic-2026-03-24.md
+- **Generated**: 2026-03-24
