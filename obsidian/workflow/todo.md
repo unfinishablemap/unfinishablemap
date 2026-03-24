@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense mysterianism.md (3564 words, 143% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments
-  about McGinn's cognitive closure and new mysterianism while removing redundancy and deferring
-  detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-24
-
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
 - **Status**: pending
@@ -1312,6 +1304,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Condense mysterianism.md (3564 words, 143% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments
+- **Output**: obsidian/concepts/mysterianism.md
 
 ### ✓ 2026-03-24: Cross-review the-strong-emergence-of-consciousness.md considering supervenience insights
 - **Type**: cross-review

@@ -5,6 +5,14 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 21:24 UTC - condense
+- **Status**: Success
+- **File**: [[concepts/mysterianism]]
+- **Before**: 3564 words
+- **After**: 2561 words
+- **Reduction**: 28%
+- **Technique**: Cut redundancy (Nagel's Bat summary, repeated falsifiability paragraph), removed Process Philosophy section (tangential), compressed Cognitive Closure definition, tightened criticisms and virtues sections, trimmed Further Reading from 23 to 12 links
+
 ## 2026-03-24 21:10 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/the-strong-emergence-of-consciousness]]
