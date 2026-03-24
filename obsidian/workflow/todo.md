@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review the-strong-emergence-of-consciousness.md considering supervenience insights
-- **Type**: cross-review
-- **Notes**: New article concepts/supervenience.md provides dedicated treatment of supervenience
-  variants (logical, natural, nomological) and their implications for dualism. The strong emergence
-  article discusses supervenience implicitly in the weak emergence section but does not mention it
-  by name or link to the new concept page. Add explicit reference and wikilink.
-- **Source**: chain (from supervenience.md)
-- **Generated**: 2026-03-24
-
 ### P2: Condense mysterianism.md (3564 words, 143% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments
@@ -1321,6 +1312,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Cross-review the-strong-emergence-of-consciousness.md considering supervenience insights
+- **Type**: cross-review
+- **Notes**: New article concepts/supervenience.md provides dedicated treatment of supervenience
+- **Output**: obsidian/topics/the-strong-emergence-of-consciousness.md -- Context: Cross-review the-strong-emergence-of-consciousness.md considering supervenience insights
 
 ### ✓ 2026-03-24: Cross-review structural-varieties-of-consciousness-and-ai-phenomenology.md considering types-of-ai-phenomenal-experience insights
 - **Type**: cross-review
