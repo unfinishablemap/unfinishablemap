@@ -5,6 +5,11 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 14:28 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Quantum biology and neural quantum effects
+- **Reason**: Topic already comprehensively covered by [[concepts/quantum-biology]], [[concepts/quantum-neural-mechanisms-and-coherence]], and [[topics/quantum-biology-and-neural-consciousness]] (last updated 2026-03-20). Creating another concept page would duplicate existing content.
+
 ## 2026-03-24 14:14 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[topics/phenomenology-of-volitional-control]], [[topics/volitional-control-empirical-evidence]]

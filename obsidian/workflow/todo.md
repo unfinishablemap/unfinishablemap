@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on quantum biology and neural quantum effects
-- **Type**: expand-topic
-- **Notes**: Research completed in research/quantum-biology-neural-experimental-2026-03-20.md. 2025-2026 microtubule evidence (Wiest, TRAZE, QBIT theories) documenting quantum effects in neural systems. No dedicated concept page synthesising experimental quantum biology findings relevant to consciousness. Supports Tenet 2 (Minimal Quantum Interaction). Target section: concepts/ (223/230, 7 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-24
-
 ### P2: Cross-review born-rule and functionalism articles considering phenomenal-non-compositionality
 - **Type**: cross-review
 - **Notes**: New article concepts/phenomenal-non-compositionality.md (2026-03-24) argues phenomenal properties resist compositional analysis. Review born-rule-and-the-consciousness-interface.md for structural parallels (Born rule as non-compositional interface specification) and functionalism.md for the contrast (functional roles compose but phenomenal properties don't). Check for cross-links, reinforcing arguments, and terminology consistency.
@@ -1320,6 +1314,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Write concept page on quantum biology and neural quantum effects
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-biology-neural-experimental-2026-03-20.md. 2025-2026 microtubule evidence (Wiest, TRAZE, QBIT theories) documenting quantum effects in neural systems. No dedicated concept page synthesising experimental quantum biology findings relevant to consciousness. Supports Tenet 2 (Minimal Quantum Interaction). Target section: concepts/ (223/230, 7 slots remaining).
+- **Output**: Write concept page on quantum biology and neural quantum effects
 
 ### ✓ 2026-03-24: Write article on phenomenology of volitional control — empirical evidence
 - **Type**: expand-topic
