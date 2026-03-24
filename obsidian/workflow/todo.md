@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review void catalogue and phenomenology articles considering resonance-void
-- **Type**: cross-review
-- **Notes**: New article voids/resonance-void.md (2026-03-24) introduces absence-vs-presence distinction for voids and explores causal-interface opacity. Review convergence-of-the-void-catalogue.md for taxonomy updates (resonance as new void type), tenet-generated-voids.md for tenet connections, and phenomenology-of-choice-and-volition.md for shared opacity theme. Check for cross-links and contradictions.
-- **Source**: chain (expand-topic 2026-03-24, resonance-void)
-- **Generated**: 2026-03-24
-
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
 - **Status**: pending
@@ -1308,6 +1302,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Cross-review void catalogue and phenomenology articles considering resonance-void
+- **Type**: cross-review
+- **Notes**: New article voids/resonance-void.md (2026-03-24) introduces absence-vs-presence distinction for voids and explores causal-interface opacity. Review convergence-of-the-void-catalogue.md for taxonomy updates (resonance as new void type), tenet-generated-voids.md for tenet connections, and phenomenology-of-choice-and-volition.md for shared opacity theme. Check for cross-links and contradictions.
+- **Output**: None -- Context: Cross-review void catalogue and phenomenology articles considering resonance-void
 
 ### ✓ 2026-03-24: Cross-review born-rule and functionalism articles considering phenomenal-non-compositionality
 - **Type**: cross-review
