@@ -27,6 +27,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-21
 last_curated:
 last_deep_review: 2026-03-22T00:17:00+00:00
+archived: true
+archived_date: 2026-03-24T00:43:00+00:00
+superseded_by: "/topics/consciousness-collapse-experimental-landscape/"
+archive_reason: "Coalesced into Consciousness-Collapse Versus Decoherence: The Experimental Landscape (unified with Differential Predictions)"
+original_path: "/topics/consciousness-collapse-versus-decoherence-experiments/"
 ---
 
 The question of whether consciousness participates in quantum collapse is approaching experimental tractability. Not because anyone can yet test consciousness directly, but because the physical collapse models that consciousness-collapse theories rely on — GRW, CSL, Diósi-Penrose — make quantitatively different predictions from standard quantum mechanics. Experiments are progressively constraining the parameter space where these models can operate. The Unfinishable Map's position — that consciousness modulates collapse at quantum indeterminacies — depends on at least some version of objective collapse surviving these constraints. This article surveys what the experiments have found, what they have ruled out, and where the decisive tests lie.

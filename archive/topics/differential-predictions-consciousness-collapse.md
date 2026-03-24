@@ -29,6 +29,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-23
 last_curated:
 last_deep_review: 2026-03-23T10:21:00+00:00
+archived: true
+archived_date: 2026-03-24T00:43:00+00:00
+superseded_by: "/topics/consciousness-collapse-experimental-landscape/"
+archive_reason: "Coalesced into Consciousness-Collapse Versus Decoherence: The Experimental Landscape (unified with experimental survey)"
+original_path: "/topics/differential-predictions-consciousness-collapse/"
 ---
 
 Consciousness-collapse and decoherence-only interpretations agree on nearly every experimental outcome currently accessible. This near-perfect overlap is why the debate persists — not because the theories are indistinguishable in principle, but because the points of divergence lie at the edges of experimental reach. The Unfinishable Map's companion articles survey the [[experimental-design-for-consciousness-collapse-testing|conceptual obstacles]] to testing and the [[consciousness-collapse-versus-decoherence-experiments|current experimental landscape]]. This article does something different: it catalogs the specific empirical signatures where the two frameworks make distinct predictions, so that each can be evaluated as experiments advance.

@@ -5,6 +5,13 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 00:43 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[consciousness-collapse-versus-decoherence-experiments]], [[differential-predictions-consciousness-collapse]]
+- **Target**: [[consciousness-collapse-experimental-landscape]]
+- **Archived**: [[archive/topics/consciousness-collapse-versus-decoherence-experiments]], [[archive/topics/differential-predictions-consciousness-collapse]]
+- **References to review**: 6 files (comparing-quantum-consciousness-mechanisms, experimental-design-for-consciousness-collapse-testing, consciousness-and-neurodegenerative-disease, arguments-against-materialism, non-retrocausal-conscious-selection-models, highlights)
+
 ## 2026-03-24 00:32 UTC - deep-review
 - **Status**: Skipped (terminal stability)
 - **File**: [[archive/topics/dream-problem-solving-and-conscious-influence]]
