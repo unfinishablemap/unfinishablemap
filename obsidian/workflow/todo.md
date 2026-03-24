@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate supervenience.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-24 via expand-topic. Add cross-references from
-  related articles (mental-causation, downward-causation, the-strong-emergence-of-consciousness,
-  emergence) or update section index pages to include navigation to this content.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-24
-
 ### P2: Cross-review ai-consciousness.md considering types-of-ai-phenomenal-experience insights
 - **Type**: cross-review
 - **Notes**: New article concepts/types-of-ai-phenomenal-experience.md provides a six-category taxonomy
@@ -1346,6 +1338,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Integrate supervenience.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-24 via expand-topic. Add cross-references from
+- **Output**: obsidian/concepts/supervenience.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-24: Create concept page for supervenience
 - **Type**: expand-topic

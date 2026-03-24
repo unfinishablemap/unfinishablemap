@@ -48,11 +48,11 @@ The philosophical literature distinguishes two fundamentally different concepts:
 
 Higher-level properties arise from component interactions but remain in principle deducible from complete knowledge of the lower level. Temperature as mean molecular kinetic energy is the classic example—surprising to observers perhaps, but derivable from physics.
 
-Weak emergence is compatible with [[concepts/materialism|physicalism]] and [[causal-closure|causal closure]]. The emergent property supervenes on the physical base with *metaphysical necessity*: any world with the same microphysics has the same temperatures.
+Weak emergence is compatible with [[concepts/materialism|physicalism]] and [[causal-closure|causal closure]]. The emergent property [[supervenience|supervenes]] on the physical base with *metaphysical necessity*: any world with the same microphysics has the same temperatures.
 
 ### Strong Emergence
 
-Higher-level properties are genuinely novel—not deducible even in principle from lower-level facts. Strong emergence is incompatible with physicalism. The emergent property supervenes with only *nomological* (natural law) necessity: same physical base could have different emergent properties under different laws. Or no emergent properties at all—the conceivability of [[philosophical-zombies|zombies]] illustrates this.
+Higher-level properties are genuinely novel—not deducible even in principle from lower-level facts. Strong emergence is incompatible with physicalism. The emergent property supervenes with only *nomological* (natural law) necessity (see [[supervenience]] for the distinction): same physical base could have different emergent properties under different laws. Or no emergent properties at all—the conceivability of [[philosophical-zombies|zombies]] illustrates this.
 
 C.D. Broad established emergence as a distinct philosophical position in 1925. His criterion: "the characteristic properties of the whole...cannot, even in theory, be deduced from the most complete knowledge" of component properties in isolation.
 

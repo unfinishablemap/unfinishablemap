@@ -77,7 +77,7 @@ If consciousness is ontologically distinct from physics, their relationship requ
 
 **Supervenience laws** specify which physical states are accompanied by which mental states (physics→phenomenology). **Causal laws** (or "selection laws") specify how mental states influence which physical states become actual (phenomenology→physics).
 
-Crucially, supervenience laws alone yield epiphenomenalism—consciousness merely accompanies physical states without causing anything. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires *causal* laws: consciousness selects among physically underdetermined alternatives, not just accompanies determined outcomes.
+Crucially, [[supervenience]] laws alone yield epiphenomenalism—consciousness merely accompanies physical states without causing anything. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires *causal* laws: consciousness selects among physically underdetermined alternatives, not just accompanies determined outcomes.
 
 Chalmers tends toward epiphenomenalism. The Map diverges: the self-stultification argument shows epiphenomenalism is self-undermining (see Argument 6 below). The [[psychophysical-laws]] page explains Chalmers' framework and where the Map departs.
 

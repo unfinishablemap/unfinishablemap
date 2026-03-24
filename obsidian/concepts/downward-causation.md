@@ -42,7 +42,7 @@ Downward causation is the thesis that higher-level properties can causally influ
 
 Downward causation occurs when properties at one level of organization causally affect processes at lower levels—your decision causing neurons to fire, gene networks controlling protein synthesis, economic pressures affecting individual choices. The term was introduced by Donald Campbell in 1974.
 
-Key distinctions: [[mental-causation|Mental causation]] is a specific instance (mind affecting body). [[emergence|Strong emergence]] implies downward causation—if higher-level properties have novel causal powers, those powers must influence lower levels. Supervenience creates tension: if higher-level properties supervene on lower-level ones, the lower level seems to do all the causal work.
+Key distinctions: [[mental-causation|Mental causation]] is a specific instance (mind affecting body). [[emergence|Strong emergence]] implies downward causation—if higher-level properties have novel causal powers, those powers must influence lower levels. [[supervenience|Supervenience]] creates tension: if higher-level properties supervene on lower-level ones, the lower level seems to do all the causal work.
 
 ## Kim's Causal Exclusion Argument
 

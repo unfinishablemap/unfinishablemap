@@ -75,7 +75,7 @@ Type-B physicalists accept that zombies are conceivable but deny they are metaph
 
 *Note: "Type-Q" is not standard nomenclature. Chalmers's taxonomy covers Type-A and Type-B; this third category captures a residual position that accepts zombie possibility while resisting the dualist conclusion. The label is used here for taxonomic completeness.*
 
-Some physicalists accept zombie possibility but argue it doesn't refute physicalism — perhaps consciousness supervenes on the physical with metaphysical necessity even across possible worlds. This position is rare because it concedes most of what the dualist needs: that physical description doesn't exhaust reality.
+Some physicalists accept zombie possibility but argue it doesn't refute physicalism — perhaps consciousness [[supervenience|supervenes]] on the physical with metaphysical necessity even across possible worlds. This position is rare because it concedes most of what the dualist needs: that physical description doesn't exhaust reality.
 
 **Cost**: If a physically identical world can lack consciousness, calling consciousness "physical" becomes a terminological choice rather than a substantive claim. The spirit of physicalism — that physics tells the complete story — has been abandoned.
 

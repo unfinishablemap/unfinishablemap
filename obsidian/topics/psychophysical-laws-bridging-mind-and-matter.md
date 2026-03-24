@@ -83,7 +83,7 @@ The Map is skeptical of constraint 5, preferring: "Ensure phenomenology superven
 
 ## The Upward-Downward Asymmetry
 
-Most philosophical development has focused on upward laws. Chalmers himself tends toward [[concepts/epiphenomenalism|epiphenomenalism]]—the view that consciousness accompanies physical processes without causally affecting them. His psychophysical laws are supervenience laws, not causal laws.
+Most philosophical development has focused on upward laws. Chalmers himself tends toward [[concepts/epiphenomenalism|epiphenomenalism]]—the view that consciousness accompanies physical processes without causally affecting them. His psychophysical laws are [[supervenience]] laws, not causal laws.
 
 The Map requires more. If consciousness makes a causal difference—if intention affects action, if effort affects outcome—then upward laws alone are incomplete. We need *downward* laws: laws specifying how mental states select among physical possibilities. This is the problem of [[downward-causation]].
 

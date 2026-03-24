@@ -55,11 +55,11 @@ The problem: unlike water=H2O, consciousness=brain states doesn't satisfy. We un
 
 ### Non-Reductive Materialism
 
-A more modest position: mental states *supervene on* physical states (no mental difference without physical difference) but aren't reducible to them. Consciousness is not identical to brain activity but is fully determined by it.
+A more modest position: mental states *[[supervenience|supervene on]]* physical states (no mental difference without physical difference) but aren't reducible to them. Consciousness is not identical to brain activity but is fully determined by it.
 
 This position tries to honor consciousness's distinctiveness while staying materialist. Mental properties are "multiply realizable"—the same mental state could be realized by different physical substrates (silicon, carbon, etc.).
 
-The problem: this doesn't solve the hard problem. Even if consciousness supervenes on the physical, *why* does it? The supervenience relation itself is unexplained. Calling consciousness "non-reducible but physical" doesn't show how physical processes give rise to experience—it just asserts they do.
+The problem: this doesn't solve the hard problem. Even if consciousness supervenes on the physical, *why* does it? The [[supervenience]] relation itself is unexplained. Calling consciousness "non-reducible but physical" doesn't show how physical processes give rise to experience—it just asserts they do.
 
 ### Eliminative Materialism
 

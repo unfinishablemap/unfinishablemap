@@ -74,9 +74,9 @@ Kim concludes that mental properties are causally excluded by their physical rea
 
 Why can't mental and physical causes both contribute through overdetermination? Kim argues systematic overdetermination is untenable. Critics respond that mental properties may be the more *proportional* cause (Yablo), but no response fully dissolves the problem under strong [[causal-closure|causal closure]].
 
-## The Supervenience Problem
+## The [[supervenience|Supervenience]] Problem
 
-Mental properties supervene on physical properties: no mental difference without physical difference. But if mental property M supervenes on physical property P, and P suffices to cause effect E, then M seems causally "screened off."
+Mental properties [[supervenience|supervene]] on physical properties: no mental difference without physical difference. But if mental property M supervenes on physical property P, and P suffices to cause effect E, then M seems causally "screened off."
 
 Kim calls this "causal drainage" — efficacy drains from higher levels to lower levels. The threat extends beyond consciousness to all higher-level properties: does temperature cause anything, or just molecular motion? This generalization either undermines all higher-level causation (implausible) or suggests something is wrong with the exclusion reasoning itself.
 
