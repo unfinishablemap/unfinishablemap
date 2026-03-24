@@ -5,6 +5,12 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 11:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/embodied-cognition]]
+- **Changes**: Added explicit engagement with supervenience response in choking analysis; explained two reasons the Map finds supervenience insufficient (epiphenomenalism deepens hard problem; first-person taxonomy carving at causal joints)
+- **Published**: yes
+
 ## 2026-03-24 11:35 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Full site survey (229 topics, 224 concepts, tenets). Deep sampling of recent content (March 20-24).
