@@ -5,6 +5,14 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 08:39 UTC - check-tenets
+- **Status**: Warnings
+- **Files checked**: 452
+- **Errors**: 0
+- **Warnings**: 3
+- **Notes**: 4
+- **Output**: [[reviews/tenet-check-2026-03-24]]
+
 ## 2026-03-24 08:35 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/curated-mind]]
