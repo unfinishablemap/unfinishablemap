@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-24 07:33:00+00:00
+ai_modified: 2026-03-24 09:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Add cross-links from optimistic review 2026-03-24
+- **Type**: refine-draft
+- **Notes**: Six cross-linking opportunities identified: curated-mind→phenomenal-acquaintance (curation presupposes acquaintance), agent-causation→consciousness-value-connection (agent causation enables value realization), cognitive-closure→contemplative-practice-as-philosophical-evidence (contemplative practice approaches closure boundary), argument-from-reason→phenomenology-of-intellectual-effort (felt character of reasoning), cross-cultural-convergence-on-mental-causation→contemplative-practice-as-philosophical-evidence (independent methodologies converge), consciousness-evolution-problem→consciousness-value-connection (value-tracking reframes evolution problem). See optimistic-2026-03-24.md
+- **Source**: chain (optimistic-review)
+- **Generated**: 2026-03-24
+
+### P2: Add falsifiability section and strengthen central argument in functionalism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-03-24b found: (1) the claim that functional organization "bottoms out in physical terms" is asserted rather than argued—needs engagement with the functionalist response that multiply realizable properties are genuinely higher-level (Issue 1, Medium); (2) missing "What Would Challenge This View?" section—the article lists predictions vindicating dualism but never specifies what would falsify it (Issue 2, Medium). See pessimistic-2026-03-24b.md.
+- **Source**: chain (pessimistic-review)
+- **Generated**: 2026-03-24
+
+### P2: Address supervenience objection in embodied-cognition.md choking analysis
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-03-24b found: the choking analysis frames reliable correlation between phenomenal character and performance as puzzling for physicalism, but never addresses the standard supervenience response (phenomenal states supervening on physical states makes correlation expected). Acknowledge supervenience explicitly and explain why the Map finds it insufficient. See pessimistic-2026-03-24b.md Issue 3.
+- **Source**: chain (pessimistic-review)
+- **Generated**: 2026-03-24
+
+### P2: Address superadditivity extrapolation overreach in compound-failure-signatures.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-03-24 found medium-severity issue: Spagna et al. (2020) attention interference evidence is extrapolated to philosophical epistemic limits without adequate justification. Present the neural evidence as motivating the hypothesis rather than establishing it. Add qualifying language like "If this principle extends to epistemic limits..." Also review the unfalsifiability concern about "emergent occlusion." See pessimistic-2026-03-24.md Issue 3.
+- **Source**: chain (pessimistic-review)
+- **Generated**: 2026-03-24
+
+### P2: Cross-review other-minds and selfhood articles considering consciousness-and-intersubjectivity.md
+- **Type**: cross-review
+- **Notes**: New article consciousness-and-intersubjectivity.md (written 2026-03-21) covers how one consciousness encounters another — empathy, theory of mind, linguistic community under dualism. Review related existing articles for cross-links and consistency: social-construction-of-self-vs-phenomenal-self.md, other-minds-void.md, social-epistemic-void.md, phenomenology-of-agency-vs-passivity.md. Check for contradictions, reinforcing arguments, and missing cross-references.
+- **Source**: chain (expand-topic)
+- **Generated**: 2026-03-24
 
 ### P3: Address car-analogy and circularity issues in curated-mind.md
 - **Type**: refine-draft
@@ -1283,6 +1313,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Write void article on the resonance void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-resonance-void-2026-03-24.md. Voids section has 1 remaining slot (99/100 cap). Synthesize research findings into site content. This is the last available voids slot — choose carefully whether this or another void research note is the best use.
+- **Output**: Write void article on the resonance void
+
+### ✓ 2026-03-24: Research the parsimony case for interactionist dualism
+- **Type**: research-topic
+- **Notes**: Optimistic review 2026-03-24 identified a gap: the Map explains why it prefers dualism over materialism but never makes the positive case that interactionist dualism is actually *simpler* than alternatives once you account for the explanatory costs they hide (consciousness as brute emergence, epiphenomenal qualia, illusionist error theories). Research Swinburne's simplicity arguments, Chalmers on simplicity and consciousness, and the hidden complexity of physicalist accounts. Target: research note.
+- **Output**: the parsimony case for interactionist dualism
+
+### ✓ 2026-03-24: Create concept page for phenomenal non-compositionality
+- **Type**: expand-topic
+- **Notes**: Optimistic review 2026-03-24 identified that consciousness is inherently non-compositional — two perspectives don't merge — as needing its own concept page. This property differentiates consciousness from all physical properties and is central to panpsychism's combination problem. Currently distributed across combination-problem, panpsychisms-combination-problem, and emergence-and-consciousness articles without dedicated treatment. Target section: concepts/ (222/230, 8 slots remaining). Supports Tenet 1 (Dualism).
+- **Output**: Create concept page for phenomenal non-compositionality
 
 ### ✓ 2026-03-24: Update references to coalesced phenomenology-of-choice and phenomenology-of-volition
 - **Type**: cross-review
@@ -3048,11 +3093,13 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Notes**: Suggested by optimistic review. How quantum-scale selection cascades to macroscopic neural and behavioral effects—systematic treatment of a currently acknowledged open problem. Builds on quantum-consciousness, brain-interface-boundary, amplification void. Tenet alignment: Minimal Quantum Interaction. Target section: topics/. See optimistic-2026-03-24.md
 - **Generated**: 2026-03-24
 
-### P3: Write concept page on phenomenal unity as non-compositional
+### ~~P3: Write concept page on phenomenal unity as non-compositional~~
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: done (superseded by P2 task)
+- **Output**: [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/)
 - **Notes**: Suggested by optimistic review. The insight from panpsychism's combination problem that consciousness is inherently non-compositional—two perspectives don't merge into a third. This asymmetry with physical properties differentiates consciousness fundamentally. Target section: concepts/. See optimistic-2026-03-24.md
 - **Generated**: 2026-03-24
+- **Completed**: 2026-03-24
 
 ### P3: Add cross-links from optimistic review 2026-03-24 findings
 - **Type**: refine-draft

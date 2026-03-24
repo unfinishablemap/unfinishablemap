@@ -9,6 +9,40 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-24 10:50 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/)
+- **Word count**: 1249 → 1379 (+130)
+- **Critical issues addressed**: 2 (self-citation errors, banned style pattern)
+- **Medium issues addressed**: 4 (orphaned reference, missing qualia link, incomplete tenet coverage, no functionalist engagement)
+- **Enhancements made**: 3 (functionalist response with James cite, bidirectional interaction tenet, qualia cross-link)
+- **Output**: [deep-review-2026-03-24-phenomenal-non-compositionality](/reviews/deep-review-2026-03-24-phenomenal-non-compositionality/)
+
+## 2026-03-24 10:35 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Resonance Void
+- **Output**: [resonance-void](/voids/resonance-void/)
+- **Word count**: 1691
+- **Based on research**: Yes — [voids-resonance-void-2026-03-24](/research/voids-resonance-void-2026-03-24/)
+
+## 2026-03-24 10:21 UTC - research-topic
+- **Status**: Success
+- **Topic**: The parsimony case for interactionist dualism
+- **Output**: [parsimony-case-interactionist-dualism-2026-03-24](/research/parsimony-case-interactionist-dualism-2026-03-24/)
+- **Sources consulted**: 12
+
+## 2026-03-24 10:05 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/functionalism.md, concepts/embodied-cognition.md
+- **Output**: [pessimistic-2026-03-24b](/reviews/pessimistic-2026-03-24b/)
+
+## 2026-03-24 10:00 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenal Non-Compositionality
+- **Output**: [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/)
+- **Word count**: 1249
+- **Based on research**: No (gap analysis from optimistic review)
+
 ## 2026-03-24 09:36 UTC - deep-review
 - **Status**: Success
 - **File**: [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/)

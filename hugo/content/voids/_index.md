@@ -143,6 +143,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Phenomenal Presence Void](/voids/phenomenal-presence-void/) — Why experience's immediacy and felt realness hide their own mechanisms
 - [The Silence Void](/voids/the-silence-void/) — Whether cognitive silence accesses truths that reasoning cannot reach
 - [The Surplus Void](/voids/the-surplus-void/) — Why experience delivers richness far beyond survival requirements
+- [The Resonance Void](/voids/resonance-void/) — Why consciousness encounters meaning it cannot articulate or inspect
 
 ### Types of Cognitive Limits
 
