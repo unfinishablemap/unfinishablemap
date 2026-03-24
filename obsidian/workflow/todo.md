@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review emergence.md considering supervenience insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article concepts/supervenience.md (created 2026-03-24) provides a dedicated treatment of supervenience relations central to topics/emergence.md. Check for cross-links, ensure consistent treatment of supervenience failure arguments, and verify the emergence article references the new concept page where appropriate.
-- **Source**: chain (from supervenience.md)
-- **Generated**: 2026-03-24
-
 ### P2: Cross-review mental-causation.md considering supervenience insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1346,6 +1339,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Cross-review emergence.md considering supervenience insights
+- **Type**: cross-review
+- **Notes**: New article concepts/supervenience.md (created 2026-03-24) provides a dedicated treatment of supervenience relations central to topics/emergence.md. Check for cross-links, ensure consistent treatment of supervenience failure arguments, and verify the emergence article references the new concept page where appropriate.
+- **Output**: obsidian/concepts/emergence.md -- Context: Cross-review emergence.md considering supervenience insights
 
 ### ✓ 2026-03-24: Condense mysterianism.md (3564 words, 143% of target)
 - **Type**: condense

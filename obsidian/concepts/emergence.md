@@ -4,7 +4,7 @@ description: "Consciousness is the paradigm case of strong emergence: genuinely 
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-23T11:36:00+00:00
+ai_modified: 2026-03-24T21:54:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,7 @@ concepts:
   - "[[minimal-consciousness]]"
   - "[[quantum-indeterminacy-free-will]]"
   - "[[psychophysical-laws]]"
+  - "[[supervenience]]"
   - "[[explanatory-gap]]"
   - "[[measurement-problem]]"
 related_articles:
@@ -35,7 +36,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-03-23T11:36:00+00:00
+last_deep_review: 2026-03-24T21:54:00+00:00
 ---
 
 Emergence is the philosophical concept that higher-level properties arise from lower-level processes yet are not straightforwardly predictable from them. Consciousness is the paradigm case of a property that resists reduction—David Chalmers calls it "the paradigm of a strongly emergent phenomenon" (Chalmers 2006). The Unfinishable Map's framework is best understood as a form of strong emergentism that identifies *where* consciousness could exercise novel causal powers: at [[quantum-consciousness|quantum indeterminacies]] where physics is genuinely incomplete.
@@ -79,7 +80,7 @@ The Map resolves this by denying causal closure—not everywhere, but at the spe
 
 ## Downward Causation
 
-Strong emergence requires downward causation—higher-level features genuinely influencing lower-level processes. Critics argue this violates physical laws. Defenders argue that consciousness exercises powers not reducible to component-level causation.
+Strong emergence requires [[downward-causation|downward causation]]—higher-level features genuinely influencing lower-level processes. Critics argue this violates physical laws; defenders reply that consciousness exercises powers not reducible to component-level causation.
 
 Timothy O'Connor and Hong Yu Wong develop a sophisticated account of strong emergence with genuine causal powers. Emergent properties are "fundamentally novel"—possessing new causal powers not present in parts. They propose "structural triggering conditions"—latent powers manifesting only when components organize appropriately.
 
@@ -136,7 +137,7 @@ The comparison with alternatives is instructive:
 | Panpsychism | [[combination-problem]]: how do micro-experiences combine? |
 | Strong emergentism | Exclusion problem: how does mental causation work? |
 
-The Map has a response to the exclusion problem—consciousness operates at quantum indeterminacies where physics leaves outcomes undetermined. This comparison isn't entirely fair to competitors—panpsychists have developed sophisticated responses to combination (Goff's cosmopsychism, Seager's microexperiential combinatorialism) and physicalists continue refining functionalist accounts. But the quantum framework offers something these alternatives lack: a *locus* within known physics where non-physical causation could operate without violating conservation laws. Whether this advantage survives depends on developing the candidate [[psychophysical-laws|coupling mechanisms]] into testable theories.
+The Map has a response to the exclusion problem—consciousness operates at quantum indeterminacies where physics leaves outcomes undetermined. This comparison isn't entirely fair—panpsychists have developed sophisticated responses to combination (Goff's cosmopsychism, Seager's microexperiential combinatorialism) and physicalists continue refining functionalist accounts. But the quantum framework offers something these alternatives lack: a *locus* within known physics where non-physical causation could operate without violating conservation laws. Whether this advantage survives depends on developing the candidate [[psychophysical-laws|coupling mechanisms]] into testable theories.
 
 ## Can Strong Emergence Be Tested?
 
@@ -177,13 +178,14 @@ The Map's framework can be understood as *emergentist dualism*—consciousness s
 
 - [[dualism]] — Seven converging arguments that physical description cannot capture consciousness
 - [[mental-causation]] — The philosophical problem strong emergence addresses
-- [[evolution-of-consciousness]] — When consciousness emerged and what this reveals about emergence theory
-- [[reductionism-and-consciousness]] — Why consciousness is the singular exception to reductionism's track record
+- [[evolution-of-consciousness]] — When consciousness emerged and what this reveals about emergence
+- [[reductionism-and-consciousness]] — Why consciousness is the singular exception to reductionism's record
 - [[reductionism]] — The three types of reductionism and why consciousness resists each
 - [[interactionist-dualism]] — the Map's framework as strong emergentism at the quantum opening
 - [[psychophysical-laws]] — Candidate coupling mechanisms for how consciousness interacts with quantum systems
 - [[measurement-problem]] — The central puzzle creating logical space for consciousness at quantum indeterminacy
 - [[quantum-measurement-and-consciousness]] — Why measurement is philosophically special, not just a physics puzzle
+- [[supervenience]] — Why phenomenal-physical covariance does not entail physicalism
 - [[causal-closure]] — The principle strong emergentism must deny
 - [[downward-causation]] — How emergent properties causally influence lower levels
 - [[explanatory-gap]] — The chasm between physical descriptions and conscious experience
