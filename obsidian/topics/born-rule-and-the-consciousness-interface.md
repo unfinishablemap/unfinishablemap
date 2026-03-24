@@ -4,7 +4,7 @@ description: "The Born rule resists derivation across every quantum interpretati
 created: 2026-03-15
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-03-24T07:46:00+00:00
+ai_modified: 2026-03-24T08:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-24
 last_curated:
-last_deep_review: 2026-03-24T07:46:00+00:00
+last_deep_review: 2026-03-24T08:20:00+00:00
 coalesced_from:
   - "/topics/born-rule-derivation-failures-consciousness-collapse/"
   - "/topics/born-rule-interpretation-invariance-consciousness/"
@@ -197,32 +197,34 @@ Third, the Map's position does not predict specific deviations from the Born rul
 
 8. Dürr, D., Goldstein, S. & Zanghì, N. (1992). "Quantum Equilibrium and the Origin of Absolute Uncertainty." *Journal of Statistical Physics*, 67, 843–907.
 
-9. Ghirardi, G. C., Rimini, A. & Weber, T. (1986). "Unified Dynamics for Microscopic and Macroscopic Systems." *Physical Review D*, 34, 470.
+9. Finkelstein, D. (1963). "The Logic of Quantum Physics." *Transactions of the New York Academy of Sciences*, 25(6), 621–637.
 
-10. Gleason, A. M. (1957). "Measures on the Closed Subspaces of a Hilbert Space." *Journal of Mathematics and Mechanics*, 6, 885–893.
+10. Ghirardi, G. C., Rimini, A. & Weber, T. (1986). "Unified Dynamics for Microscopic and Macroscopic Systems." *Physical Review D*, 34, 470.
 
-11. Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
+11. Gleason, A. M. (1957). "Measures on the Closed Subspaces of a Hilbert Space." *Journal of Mathematics and Mechanics*, 6, 885–893.
 
-12. Landsman, K. (2025). "The Born Rule — 100 Years Ago and Today." arXiv:2502.08545.
+12. Hartle, J. B. (1968). "Quantum Mechanics of Individual Systems." *American Journal of Physics*, 36(8), 704–712.
 
-13. Masanes, L., Galley, T. D. & Müller, M. P. (2019). "The measurement postulates of quantum mechanics are operationally redundant." *Nature Physics*, 15, 1174–1177.
+13. Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
 
-14. Máttyus, E. (2023). "Environment-Assisted Invariance Does Not Necessitate Born's Rule for Quantum Measurement." *Entropy*, 25(3), 435.
+14. Landsman, K. (2025). "The Born Rule — 100 Years Ago and Today." arXiv:2502.08545.
 
-15. Norsen, T. (2018). "On the Explanation of Born-Rule Statistics in the de Broglie-Bohm Pilot-Wave Theory." *Entropy*, 20(6), 422.
+15. Masanes, L., Galley, T. D. & Müller, M. P. (2019). "The measurement postulates of quantum mechanics are operationally redundant." *Nature Physics*, 15, 1174–1177.
 
-16. Penrose, R. (1996). "On Gravity's Role in Quantum State Reduction." *General Relativity and Gravitation*, 28, 581–600.
+16. Máttyus, E. (2023). "Environment-Assisted Invariance Does Not Necessitate Born's Rule for Quantum Measurement." *Entropy*, 25(3), 435.
 
-17. Schlosshauer, M. & Fine, A. (2005). "On Zurek's Derivation of the Born Rule." *Foundations of Physics*, 35, 197–213.
+17. Penrose, R. (1996). "On Gravity's Role in Quantum State Reduction." *General Relativity and Gravitation*, 28, 581–600.
 
-18. Tonetto, B. "What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry." PhilArchive. https://philarchive.org/rec/TONWPA
+18. Schlosshauer, M. & Fine, A. (2005). "On Zurek's Derivation of the Born Rule." *Foundations of Physics*, 35, 197–213.
 
-19. Torres Alegre, E. O. (2025). "Causal Consistency Selects the Born Rule." arXiv:2512.12636.
+19. Tonetto, B. "What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry." PhilArchive. https://philarchive.org/rec/TONWPA
 
-20. Valentini, A. (1991). "Signal-Locality, Uncertainty, and the Subquantum H-Theorem." *Physics Letters A*, 156, 5–11.
+20. Torres Alegre, E. O. (2025). "Causal Consistency Selects the Born Rule." arXiv:2512.12636.
 
-21. Wallace, D. (2010). "A Formal Proof of the Born Rule from Decision-Theoretic Assumptions." In S. Saunders et al. (eds.), *Many Worlds?*, Oxford University Press.
+21. Valentini, A. (1991). "Signal-Locality, Uncertainty, and the Subquantum H-Theorem." *Physics Letters A*, 156, 5–11.
 
-22. Zhang, J. (2026). "Summing to Uncertainty: On the Necessity of Additivity in Deriving the Born Rule." arXiv:2603.06211.
+22. Wallace, D. (2010). "A Formal Proof of the Born Rule from Decision-Theoretic Assumptions." In S. Saunders et al. (eds.), *Many Worlds?*, Oxford University Press.
 
-23. Zurek, W. H. (2005). "Probabilities from Entanglement, Born's Rule from Envariance." *Physical Review A*, 71, 052105.
+23. Zhang, J. (2026). "Summing to Uncertainty: On the Necessity of Additivity in Deriving the Born Rule." arXiv:2603.06211.
+
+24. Zurek, W. H. (2005). "Probabilities from Entanglement, Born's Rule from Envariance." *Physical Review A*, 71, 052105.

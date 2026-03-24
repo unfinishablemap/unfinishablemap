@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review born-rule-and-the-consciousness-interface.md (post-coalesce)
-- **Type**: deep-review
-- **Notes**: Coalesced 2026-03-24 from born-rule-derivation-failures-consciousness-collapse.md and born-rule-interpretation-invariance-consciousness.md. Verify the merge preserved coherence and key arguments from both source articles, eliminated redundancy, and maintained tenet alignment. Check that all cross-references now point to the unified slug.
-- **Source**: chain (coalesce)
-- **Generated**: 2026-03-24
-
 ### P2: Cross-review reconstruction-paradox articles considering curated-mind.md
 - **Type**: cross-review
 - **Notes**: New article curated-mind.md (2026-03-24) develops the reconstruction paradox into evidence that perceptual error correction presupposes a conscious curator. Review reconstruction-paradox.md and selective-correction-and-reconstruction-paradox.md for cross-links to curated-mind, consistency with the new framing, and reinforcing arguments. Also check perceptual-failure-and-the-interface.md for bidirectional cross-links.
@@ -1312,6 +1306,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Deep review born-rule-and-the-consciousness-interface.md (post-coalesce)
+- **Type**: deep-review
+- **Notes**: Coalesced 2026-03-24 from born-rule-derivation-failures-consciousness-collapse.md and born-rule-interpretation-invariance-consciousness.md. Verify the merge preserved coherence and key arguments from both source articles, eliminated redundancy, and maintained tenet alignment. Check that all cross-references now point to the unified slug.
+- **Output**: obsidian/topics/born-rule-and-the-consciousness-interface.md
 
 ### ✓ 2026-03-24: Integrate curated-mind.md into site navigation
 - **Type**: integrate-orphan
