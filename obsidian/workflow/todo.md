@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review parsimony-case-for-interactionist-dualism.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 via expand-topic, cross-reviewed but never standalone deep-reviewed. Topics article making the positive parsimony argument for interactionist dualism. Verify accuracy of claims about Swinburne's simplicity arguments and Chalmers' consciousness-simplicity analysis, coherence of the hidden-complexity tallying, cross-references to limits-of-parsimony-in-consciousness-science and epistemological-limits-of-occams-razor, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-24
-
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
 - **Status**: pending
@@ -1309,6 +1303,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Deep review parsimony-case-for-interactionist-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 via expand-topic, cross-reviewed but never standalone deep-reviewed. Topics article making the positive parsimony argument for interactionist dualism. Verify accuracy of claims about Swinburne's simplicity arguments and Chalmers' consciousness-simplicity analysis, coherence of the hidden-complexity tallying, cross-references to limits-of-parsimony-in-consciousness-science and epistemological-limits-of-occams-razor, and tenet alignment.
+- **Output**: obsidian/topics/parsimony-case-for-interactionist-dualism.md
 
 ### ✓ 2026-03-24: Write concept page on types of AI phenomenal experience
 - **Type**: expand-topic
