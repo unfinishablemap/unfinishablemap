@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Incorporate experimental consciousness-collapse tests research into consciousness-collapse-experimental-landscape.md
-- **Type**: refine-draft
-- **Notes**: Research completed in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Reviews testable predictions distinguishing consciousness-collapse from decoherence — directly relevant to empirical tractability of Tenet 2. Update consciousness-collapse-experimental-landscape.md with new experimental proposals and status assessments.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-24
-
 ### P2: Incorporate consciousness-anaesthesia filter theory research into anaesthesia articles
 - **Type**: refine-draft
 - **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Graded consciousness loss under anaesthesia and ketamine's preservation of complex brain dynamics with phenomenal disconnection support filter/transmission theory. Incorporate into anaesthesia-and-the-consciousness-interface.md and filter-theory.md with specific pharmacological evidence.
@@ -1318,6 +1312,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Incorporate experimental consciousness-collapse tests research into consciousness-collapse-experimental-landscape.md
+- **Type**: refine-draft
+- **Notes**: Research completed in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Reviews testable predictions distinguishing consciousness-collapse from decoherence — directly relevant to empirical tractability of Tenet 2. Update consciousness-collapse-experimental-landscape.md with new experimental proposals and status assessments.
+- **Output**: obsidian/topics/consciousness-collapse-experimental-landscape.md
+
+Task context:
+Research completed in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Reviews testable predictions distinguishing consciousness-collapse from decoherence — directly relevant to empirical tractability of Tenet 2. Update consciousness-collapse-experimental-landscape.md with new experimental proposals and status assessments.
 
 ### ✓ 2026-03-24: Incorporate clinical neuroplasticity research into bidirectional-interaction articles
 - **Type**: refine-draft

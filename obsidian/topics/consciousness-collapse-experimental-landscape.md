@@ -4,7 +4,7 @@ description: "Can experiments distinguish consciousness-driven collapse from env
 created: 2026-03-21
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-03-24T01:28:00+00:00
+ai_modified: 2026-03-24T05:49:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -57,7 +57,9 @@ The most significant experimental constraint on objective collapse comes from th
 
 The result was negative. No radiation was found beyond residual emissions from the apparatus itself. The team concluded that the simplest versions of gravity-related collapse — those predicting spontaneous photon emission as a collapse byproduct — are "highly implausible."
 
-What this does and does not show requires care. The Gran Sasso result constrains the *simplest* Diósi-Penrose parameterisation. More complex collapse models — including variants Penrose is developing that do not predict spontaneous radiation — remain viable. The result does not touch Stapp's [[quantum-consciousness|quantum Zeno approach]], which operates within standard quantum mechanics without modifying the Schrödinger equation. And it does not address the Chalmers-McQueen IIT-CSL framework, which uses continuous spontaneous localisation rather than gravity-related collapse. See [[non-retrocausal-conscious-selection-models]] for a comparative analysis of all three frameworks.
+In 2024, Barbatti applied atomistic Diósi-Penrose calculations to molecular and biological systems, yielding new collapse-time estimates for specific structures. These calculations provide more granular predictions than the original model's bulk approximations and open additional experimental channels — if the predicted collapse times for particular molecular configurations can be tested, the gravity-collapse programme gains new empirical traction even after Gran Sasso.
+
+What this does and does not show requires care. The Gran Sasso result constrains the *simplest* Diósi-Penrose parameterisation. More complex collapse models — including variants Penrose is developing that do not predict spontaneous radiation, and Barbatti's atomistic refinements — remain viable. The result does not touch Stapp's [[quantum-consciousness|quantum Zeno approach]], which operates within standard quantum mechanics without modifying the Schrödinger equation. And it does not address the Chalmers-McQueen IIT-CSL framework, which uses continuous spontaneous localisation rather than gravity-related collapse. See [[non-retrocausal-conscious-selection-models]] for a comparative analysis of all three frameworks.
 
 The Map should acknowledge Gran Sasso honestly: one candidate mechanism for consciousness-collapse has been significantly constrained. The broader research programme survives because it was never dependent on a single mechanism.
 
@@ -105,9 +107,9 @@ If consciousness triggers or modulates collapse, the *timing* of collapse should
 
 **What to look for:** A quantum system is measured by a detector, and the result is stored in a way that preserves superposition. If consciousness-collapse is correct, the system should remain in superposition until a conscious observer becomes entangled with the outcome. If collapse is physical, the system collapses at detection regardless of observation. Interference tests performed before conscious access could reveal whether collapse has already occurred.
 
-This is a delayed-choice structure applied to collapse timing. The Frauchiger-Renner (2018) thought experiment exposes related tensions: quantum theory struggles to consistently describe situations where observers model each other's measurements, creating scenarios where the timing and reality of collapse become experimentally consequential. Subsequent no-go results have formalised this: the persistent reality of an observer's perception is inconsistent with the universal validity of quantum theory.
+This is a delayed-choice structure applied to collapse timing. The Frauchiger-Renner (2018) thought experiment exposes related tensions: quantum theory struggles to consistently describe situations where observers model each other's measurements, creating scenarios where the timing and reality of collapse become experimentally consequential. A 2021 no-go theorem formalised this: the persistent reality of an observer's perception is inconsistent with the universal validity of quantum theory. In 2025, Allori and colleagues extended this analysis to show that both many-worlds and single-world interpretations face distinct difficulties when reasoning from observation in extended Wigner's friend scenarios — no interpretation emerges unscathed, though the specific tensions differ.
 
-These results challenge consciousness-collapse, but they rest on an assumption consciousness-collapse theorists can coherently reject: that quantum mechanics applies universally to conscious systems. Consciousness-collapse theories propose precisely that conscious systems are where standard quantum evolution breaks down. The Frauchiger-Renner argument constrains which versions of consciousness-collapse are viable: any version must clearly specify where and why quantum evolution ceases to apply.
+These results challenge consciousness-collapse, but they rest on an assumption consciousness-collapse theorists can coherently reject: that quantum mechanics applies universally to conscious systems. Consciousness-collapse theories propose precisely that conscious systems are where standard quantum evolution breaks down. The Frauchiger-Renner argument and its extensions constrain which versions of consciousness-collapse are viable: any version must clearly specify where and why quantum evolution ceases to apply. The 2025 results strengthen the case that this specification is non-optional — consciousness-collapse cannot remain vague about its scope.
 
 **Current status:** Requires quantum memories that maintain coherence through macroscopic measurement chains. Current quantum computer coherence times (microseconds to milliseconds) are insufficient for the delay needed to separate detection from observation by a human observer.
 
@@ -134,6 +136,7 @@ Unlike the six experimental predictions above, this is a theoretical observation
 | Test | Status | What it constrains |
 |------|--------|--------------------|
 | Gran Sasso (2022) | Completed | Simplest Diósi-Penrose models |
+| Atomistic D-P calculations (2024) | Published | Molecular/biological collapse times |
 | Macromolecule interferometry (25,000 amu record) | Ongoing | Lower bound on CSL collapse rate |
 | IIT-Q-shape collapse test | Theoretical | Would test consciousness-specific predictions |
 | Levitated nanoparticle blueprint (2025) | Proposed | Could distinguish CSL from environmental decoherence |
@@ -142,7 +145,7 @@ Unlike the six experimental predictions above, this is a theoretical observation
 | Anaesthesia-modulated collapse test | Conceptual | Would test consciousness-specific participation |
 | MAQRO space mission | Concept study | Would probe CSL at decisive mass scales |
 
-No experiment has yet confirmed or refuted consciousness-collapse specifically. But the parameter space is narrowing. The simplest gravity-collapse model underlying Orch OR has been significantly constrained. CSL models remain viable but face increasingly precise experimental bounds. The Chalmers-McQueen Q-shape prediction offers the only test that targets consciousness specifically rather than collapse generally.
+No experiment has yet confirmed or refuted consciousness-collapse specifically. But the parameter space is narrowing. The simplest gravity-collapse model underlying Orch OR has been significantly constrained, though atomistic refinements in 2024 have opened new prediction channels for gravity-induced collapse. CSL models remain viable but face increasingly precise experimental bounds — Carlesso and Donadi's 2025 comprehensive review maps the remaining parameter space against all current experimental constraints. The Chalmers-McQueen Q-shape prediction offers the only test that targets consciousness specifically rather than collapse generally.
 
 ## The Evidential Asymmetry
 
@@ -180,3 +183,19 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses a predict
 4. Frauchiger, D. & Renner, R. (2018). "Quantum theory cannot consistently describe the use of itself." *Nature Communications*, 9, 3711.
 5. Fein, Y.Y., et al. (2019). "Quantum superposition of molecules beyond 25 kDa." *Nature Physics*, 15, 1242–1245.
 6. Bassi, A., Dorato, M. & Ulbricht, H. (2023). "Collapse Models: A Theoretical, Experimental and Philosophical Review." *Entropy*, 25(4), 645.
+7. Barbatti, M. (2024). "Gravity Induced Wave-Function Collapse." *Physical Chemistry Chemical Physics*.
+8. Allori, V. et al. (2025). "The Extended Wigner's Friend, Many-and Single-Worlds and Reasoning from Observation." *Foundations of Physics*.
+9. Carlesso, M. & Donadi, S. (2025). "Spontaneous Collapse Models." *arXiv:2508.18822*.
+
+<!-- AI REFINEMENT LOG - 2026-03-24
+Changes made:
+- Added Barbatti (2024) atomistic Diósi-Penrose calculations to Gran Sasso section, showing new experimental channels for gravity-collapse beyond the constrained simple model
+- Strengthened Frauchiger-Renner discussion (prediction #4) with Allori et al. (2025) extended Wigner's friend results showing both MWI and single-world face distinct difficulties
+- Added atomistic D-P calculations row to summary status table
+- Updated landscape assessment to reference Carlesso & Donadi (2025) comprehensive parameter space mapping
+- Added three new references: Barbatti (2024), Allori et al. (2025), Carlesso & Donadi (2025)
+
+Key improvements: Integrated findings from research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md to update status assessments with 2024-2025 developments.
+
+This log should be removed after human review.
+-->

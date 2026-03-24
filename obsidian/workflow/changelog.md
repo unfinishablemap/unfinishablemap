@@ -5,6 +5,13 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 05:49 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-collapse-experimental-landscape]]
+- **Changes**: Integrated 2024-2025 research findings — added Barbatti (2024) atomistic D-P calculations to Gran Sasso section, strengthened Frauchiger-Renner discussion with Allori et al. (2025) extended Wigner's friend results, updated landscape assessment with Carlesso & Donadi (2025) parameter space mapping, added 3 new references
+- **Source research**: [[research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21]]
+- **Published**: yes
+
 ## 2026-03-24 05:33 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Full site survey — 230 topics, 224 concepts, tenets page. Deep sampling of 25+ articles across all major clusters.
