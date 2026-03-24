@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate differential-predictions-consciousness-collapse.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File created 2026-03-23 via expand-topic, has no inbound links. Add cross-references from consciousness-collapse-experimental-landscape.md, comparing-quantum-consciousness-mechanisms.md, and other quantum consciousness articles that discuss empirical predictions.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-24
-
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
 - **Status**: pending
@@ -1318,6 +1311,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Integrate differential-predictions-consciousness-collapse.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-23 via expand-topic, has no inbound links. Add cross-references from consciousness-collapse-experimental-landscape.md, comparing-quantum-consciousness-mechanisms.md, and other quantum consciousness articles that discuss empirical predictions.
+- **Output**: differential-predictions-consciousness-collapse.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-24: Integrate resonance-void.md into site navigation
 - **Type**: integrate-orphan
