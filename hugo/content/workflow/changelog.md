@@ -9,6 +9,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-24 02:28 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Born rule interpretation-invariance and consciousness
+- **Output**: [born-rule-interpretation-invariance-consciousness](/topics/born-rule-interpretation-invariance-consciousness/)
+- **Word count**: 2570
+- **Based on research**: yes — [born-rule-derivation-attempts-2026-03-14](/research/born-rule-derivation-attempts-2026-03-14/), [born-rule-derivation-limits-followup-2026-03-16](/research/born-rule-derivation-limits-followup-2026-03-16/)
+
+## 2026-03-24 02:13 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Penrose gravity-collapse predictions and empirical prospects
+- **Reason**: Article already exists at [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) (created 2026-03-15, deep-reviewed 2026-03-18). Stale task from unconsumed_research queue pointing to already-consumed research.
+
+## 2026-03-24 02:07 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Sections searched**: voids (99/100), topics (227/230), concepts (223/230)
+- **Candidates examined**: 5 pairs/groups across voids and topics
+- **Reason**: All candidate pairs are well-differentiated companion pieces that explicitly divide labor. No genuine redundancy found.
+
 ## 2026-03-24 01:43 UTC - deep-review
 - **Status**: Success
 - **File**: [binding-problem](/concepts/binding-problem/)
