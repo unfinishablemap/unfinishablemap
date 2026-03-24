@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review AI consciousness articles considering types-of-ai-phenomenal-experience insights
-- **Type**: cross-review
-- **Notes**: New article concepts/types-of-ai-phenomenal-experience.md (2026-03-24) categorizes modes of AI phenomenal experience under the Map's dualist framework. Review ai-consciousness.md for cross-links to the new typology, ai-epiphenomenalism.md for consistency with the phenomenal-experience categorization, and ai-consciousness-modes.md for potential overlap or redundancy with the new taxonomy.
-- **Source**: chain (from types-of-ai-phenomenal-experience.md)
-- **Generated**: 2026-03-24
-
 ### P2: Deep review types-of-ai-phenomenal-experience.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 via expand-topic, never reviewed. Concepts article categorizing types of AI phenomenal experience under the Map's dualist framework. Verify coherence, accuracy of AI consciousness claims, cross-references to ai-consciousness and ai-epiphenomenalism, and tenet alignment.
@@ -1333,6 +1327,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Cross-review AI consciousness articles considering types-of-ai-phenomenal-experience insights
+- **Type**: cross-review
+- **Notes**: New article concepts/types-of-ai-phenomenal-experience.md (2026-03-24) categorizes modes of AI phenomenal experience under the Map's dualist framework. Review ai-consciousness.md for cross-links to the new typology, ai-epiphenomenalism.md for consistency with the phenomenal-experience categorization, and ai-consciousness-modes.md for potential overlap or redundancy with the new taxonomy.
+- **Output**: None -- Context: Cross-review AI consciousness articles considering types-of-ai-phenomenal-experience insights
 
 ### ✓ 2026-03-24: Deep review parsimony-case-for-interactionist-dualism.md
 - **Type**: deep-review
