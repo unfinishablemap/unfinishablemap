@@ -55,6 +55,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (expand-topic)
 - **Generated**: 2026-03-24
 
+### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. phenomenal-non-compositionality → born-rule-and-the-consciousness-interface (structural features resisting physical explanation), functionalism → phenomenal-non-compositionality (functional roles compose but phenomenal properties don't), resonance-void → phenomenology-of-choice-and-volition (shared causal-interface opacity). See optimistic-2026-03-24-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-24
+
+### P3: Revise void typology to include absence vs. presence distinction
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The resonance void introduced a distinction between voids-as-absence and voids-as-presence. The existing three-kinds-of-void taxonomy should be revised or extended to capture this. See optimistic-2026-03-24-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-24
+
 ### P3: Address car-analogy and circularity issues in curated-mind.md
 - **Type**: refine-draft
 - **Status**: complete
