@@ -5,6 +5,12 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 02:07 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Sections searched**: voids (99/100), topics (227/230), concepts (223/230)
+- **Candidates examined**: 5 pairs/groups across voids and topics
+- **Reason**: All candidate pairs are well-differentiated companion pieces that explicitly divide labor. No genuine redundancy found.
+
 ## 2026-03-24 01:43 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/binding-problem]]
