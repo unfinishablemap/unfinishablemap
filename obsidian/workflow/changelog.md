@@ -5,6 +5,14 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 13:01 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/cognitive-closure]]
+- **Target**: [[concepts/mysterianism]]
+- **Archived**: [[archive/concepts/cognitive-closure]]
+- **References to review**: ~20 content files reference [[cognitive-closure]] (handled by archive redirect)
+- **Notes**: cognitive-closure was previously merged into mysterianism, then recreated as a separate article. Unique contributions (observational closure, inventory blindness emphasis, Lawvere's theorem connection) integrated into mysterianism. Source re-archived.
+
 ## 2026-03-24 12:36 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-intersubjectivity]]

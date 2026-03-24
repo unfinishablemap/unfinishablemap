@@ -101,6 +101,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-24
 
+### P2: Update references to coalesced cognitive-closure article
+- **Type**: cross-review
+- **Notes**: Coalesce merged concepts/cognitive-closure.md into concepts/mysterianism.md. ~20 content files reference [[cognitive-closure]] in frontmatter concepts or related_articles. Archive redirect handles URL preservation, but frontmatter references should be updated to [[mysterianism]] where cognitive closure is the primary concept being referenced. Key files: biological-cognitive-closure, meta-epistemology-of-limits, observational-closure, inventory-blindness, epistemology-of-limit-knowledge, apophatic-approaches, and several voids articles.
+- **Source**: coalesce
+- **Generated**: 2026-03-24
+
 ### P3: Deep review self-and-self-consciousness.md
 - **Type**: deep-review
 - **Notes**: Coalesced from self-and-consciousness.md + self-consciousness.md and subsequently condensed on 2026-03-23. Two transformations in one day—verify the condensed coalesce preserved key arguments from both source articles, eliminated redundancy, and maintains coherent structure. Check cross-references to personal-identity, phenomenology-of-agency-vs-passivity, and social-construction-of-self-vs-phenomenal-self.
