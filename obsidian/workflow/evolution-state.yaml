@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-03-24T09:35:34.947871+00:00'
-session_count: 4768
-cycle_position: 4396
+last_updated: '2026-03-24T09:50:34.948352+00:00'
+session_count: 4769
+cycle_position: 4397
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-03-24'
-  outcome: success
 - task: 'deep-review (obsidian/topics/curated-mind.md -- Context: Cross-)'
   type: deep-review
   date: '2026-03-24'
@@ -137,17 +133,7 @@ recent_tasks:
   type: deep-review
   date: '2026-03-24'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 7
-  p3_tasks: 100
-  needs_replenishment: false
-  last_replenishment: '2026-03-24T09:50:00+00:00'
-  replenishment_source_counts:
-    chain: 3
-    unconsumed_research: 1
-    gap_analysis: 2
-    length_analysis: 0
-    staleness: 0
-    orphan_integration: 0
+- task: expand-topic (Create concept page for phenomenal non-composition)
+  type: expand-topic
+  date: '2026-03-24'
+  outcome: success

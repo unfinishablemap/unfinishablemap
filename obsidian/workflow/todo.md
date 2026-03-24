@@ -55,6 +55,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (optimistic-review)
 - **Generated**: 2026-03-24
 
+### P2: Add falsifiability section and strengthen central argument in functionalism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-03-24b found: (1) the claim that functional organization "bottoms out in physical terms" is asserted rather than argued—needs engagement with the functionalist response that multiply realizable properties are genuinely higher-level (Issue 1, Medium); (2) missing "What Would Challenge This View?" section—the article lists predictions vindicating dualism but never specifies what would falsify it (Issue 2, Medium). See pessimistic-2026-03-24b.md.
+- **Source**: chain (pessimistic-review)
+- **Generated**: 2026-03-24
+
+### P2: Address supervenience objection in embodied-cognition.md choking analysis
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-03-24b found: the choking analysis frames reliable correlation between phenomenal character and performance as puzzling for physicalism, but never addresses the standard supervenience response (phenomenal states supervening on physical states makes correlation expected). Acknowledge supervenience explicitly and explain why the Map finds it insufficient. See pessimistic-2026-03-24b.md Issue 3.
+- **Source**: chain (pessimistic-review)
+- **Generated**: 2026-03-24
+
 ### P2: Address superadditivity extrapolation overreach in compound-failure-signatures.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review 2026-03-24 found medium-severity issue: Spagna et al. (2020) attention interference evidence is extrapolated to philosophical epistemic limits without adequate justification. Present the neural evidence as motivating the hypothesis rather than establishing it. Add qualifying language like "If this principle extends to epistemic limits..." Also review the unfalsifiability concern about "emergent occlusion." See pessimistic-2026-03-24.md Issue 3.
