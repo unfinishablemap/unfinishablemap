@@ -4,7 +4,7 @@ description: "Supervenience defines when higher-level properties depend on lower
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-03-24T19:40:00+00:00
+ai_modified: 2026-03-24T19:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,6 +18,8 @@ concepts:
   - "[[concepts/epiphenomenalism]]"
   - "[[interactionist-dualism]]"
   - "[[concepts/functionalism]]"
+  - "[[concepts/materialism]]"
+  - "[[causal-powers]]"
   - "[[qualia]]"
   - "[[philosophical-zombies]]"
 related_articles:
@@ -30,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-24
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-24T19:59:00+00:00
 ---
 
 Supervenience is a relation of asymmetric dependence between levels of properties: if A-properties supervene on B-properties, then no two things can differ in their A-properties without also differing in their B-properties. The Unfinishable Map accepts that phenomenal properties covary with physical properties — no change in experience without some change in the brain — but rejects the reductive conclusions that physicalists typically draw from this covariance. Supervenience describes a pattern; it does not explain it. The question of *why* particular brain states are accompanied by particular experiences remains the [[hard-problem-of-consciousness|hard problem]], and no amount of supervenience talk resolves it.
@@ -57,7 +59,7 @@ For physicalism, strong supervenience with metaphysical necessity is the standar
 
 Physicalists appeal to supervenience to secure the dependence of mind on matter without requiring crude identity claims. Since Hilary Putnam's multiple realisability argument showed that pain need not be identical to any single brain state (pain could be realised differently in octopi, humans, and hypothetical silicon beings), type-identity theory lost ground. Supervenience offered a replacement: mental properties are not *identical* to physical properties but are *determined* by them.
 
-This allows physicalists to say that fixing the complete physical facts fixes all the mental facts — while acknowledging that different physical configurations might realise the same mental state.
+This allows physicalists to say that fixing the complete physical facts fixes all the mental facts — while acknowledging that different physical configurations might realise the same mental state. (For the Map's critique of this programme, see [[concepts/materialism|materialism]].)
 
 ## Why Supervenience Does Not Entail Physicalism
 
@@ -67,11 +69,11 @@ The Map holds that supervenience, even if accepted, is far weaker than physicali
 
 Supervenience is a modal claim about covariance — it says mental properties *track* physical properties. It says nothing about *why* they do. As Joseph Levine argued, even if pain necessarily accompanies C-fibre firing, this leaves entirely unexplained why C-fibre firing feels like *that* rather than like something else or like nothing at all. The [[explanatory-gap|explanatory gap]] persists even under the strongest supervenience thesis.
 
-Physicalists sometimes respond that other inter-level relations (temperature supervening on molecular motion) involve similar explanatory "gaps." But the cases are disanalogous. Temperature *just is* mean molecular kinetic energy — once you grasp the identity, nothing is left to explain. With consciousness, grasping every physical detail leaves the phenomenal character unexplained. The supervenience relation in the consciousness case demands new fundamental laws — the [[psychophysical-laws|psychophysical laws]] that Chalmers argues must supplement physics.
+Physicalists sometimes respond that other inter-level relations (temperature supervening on molecular motion) involve similar explanatory "gaps." But the cases are disanalogous. Temperature is reductively identified with mean molecular kinetic energy — once the identity is grasped, the explanatory work is done. With consciousness, grasping every physical detail leaves the phenomenal character unexplained. The supervenience relation in the consciousness case demands new fundamental laws — the [[psychophysical-laws|psychophysical laws]] that Chalmers argues must supplement physics.
 
 ### Zombies and Conceivability
 
-The [[philosophical-zombies|zombie argument]] targets supervenience directly. If a being physically identical to you but lacking all conscious experience is conceivable without contradiction, then the physical facts do not metaphysically necessitate the phenomenal facts. Strong psychophysical supervenience fails. Physicalists dispute conceivability here, but the burden is on them to show that physical duplicates *must* be phenomenal duplicates — and no reductive account has discharged that burden.
+The [[philosophical-zombies|zombie argument]] targets supervenience directly. If a being physically identical to you but lacking all conscious experience is conceivable without contradiction, then the physical facts do not metaphysically necessitate the phenomenal facts. Strong psychophysical supervenience fails. Type-B physicalists respond that conceivability does not entail metaphysical possibility — zombies might be conceivable yet impossible, just as water without H₂O is conceivable yet impossible. But this response requires an a posteriori necessity linking the physical to the phenomenal, and no one has identified what grounds that necessity. The explanatory gap is precisely the absence of such a grounding story.
 
 ### Supervenience Without Reduction
 
@@ -81,7 +83,7 @@ This is precisely the Map's position. The correlation between brain states and e
 
 ## Supervenience and the Exclusion Argument
 
-Jaegwon Kim's exclusion argument uses supervenience to argue *against* non-reductive physicalism and, by extension, against dualist mental causation. The argument runs: if mental properties supervene on physical properties, then for any mental cause M of a physical effect P, there exists a physical supervenience base M* that is sufficient for P. The mental cause is either identical to M* (reduction) or excluded by it ([[concepts/epiphenomenalism|epiphenomenalism]]).
+Jaegwon Kim's exclusion argument uses supervenience to argue *against* non-reductive physicalism and, by extension, against dualist mental causation. The argument runs: if mental properties supervene on physical properties, then for any mental cause M of a physical effect P, there exists a physical supervenience base M* that is sufficient for P. The mental cause is either identical to M* (reduction) or excluded by it ([[concepts/epiphenomenalism|epiphenomenalism]]). The mental is stripped of genuine [[causal-powers]] — it becomes causally redundant.
 
 Kim himself concluded that non-reductive physicalism is unstable — it collapses into either reductionism or epiphenomenalism. The Map agrees with Kim's diagnosis of non-reductive physicalism but draws a different conclusion: the problem lies not with mental causation but with the assumption of [[causal-closure|causal closure]]. At quantum indeterminacies, physics does not provide sufficient physical causes. Consciousness can select among physically underdetermined outcomes without competing with physical causes — because at those junctures, there is no sufficient physical cause to compete with. [[mental-causation|Mental causation]] operates in the gaps that physics itself acknowledges.
 
@@ -103,6 +105,8 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] is relevant because
 - [[psychophysical-laws]]
 - [[philosophical-zombies]]
 - [[explanatory-gap]]
+- [[concepts/materialism|materialism]]
+- [[causal-powers]]
 - [[the-strong-emergence-of-consciousness]]
 
 ## References
