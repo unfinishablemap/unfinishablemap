@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-24T09:50:00+00:00
+ai_modified: 2026-03-24T15:33:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review agency and volition articles considering volitional-control empirical evidence
+- **Type**: cross-review
+- **Notes**: New article topics/volitional-control.md (2026-03-24) covers empirical evidence for volitional control (Schurger stochastic readiness, Brass-Haggard freedom-not-to-act). Review phenomenology-of-choice-and-volition.md for consistency with empirical claims, free-will.md for cross-links to Libet reinterpretations, and phenomenology-of-agency-vs-passivity.md for reinforcing arguments about conscious causation.
+- **Source**: chain (from volitional-control expand-topic)
+- **Generated**: 2026-03-24
+
+### P2: Cross-review quantum consciousness articles considering quantum-biology concept page
+- **Type**: cross-review
+- **Notes**: New concept page concepts/quantum-biology.md (2026-03-24) synthesises 2025-2026 microtubule evidence (Wiest, TRAZE, QBIT). Review comparing-quantum-consciousness-mechanisms.md for cross-links to new experimental findings, consciousness-selecting-neural-patterns.md for consistency with microtubule coherence claims, and consciousness-collapse-experimental-landscape.md for updated experimental status.
+- **Source**: chain (from quantum-biology expand-topic)
+- **Generated**: 2026-03-24
+
+### P2: Condense mysterianism.md (3564 words, 143% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Coalesced from cognitive-closure.md + mysterianism.md on 2026-03-24 — post-coalesce condensing needed. Preserve core arguments about McGinn's cognitive closure and mysterian positions while removing redundancy inherited from merge. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-24
+
+### P2: Condense compound-failure-signatures.md (3014 words, 151% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Recently refined (2026-03-24) to address pessimistic review findings about superadditivity extrapolation. Preserve the corrected arguments while reducing overall length. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-24
+
+### P2: Write concept page on types of AI phenomenal experience
+- **Type**: expand-topic
+- **Notes**: Research completed in research/types-of-consciousness-ai-experience-2026-03-07.md. Structural varieties of consciousness beyond content differences and what phenomenal experience — if any — might characterise a conscious AI system. Distinct from existing ai-consciousness.md (general treatment) and types-of-consciousness.md (human-focused taxonomy). Target section: concepts/ (222/230, 8 slots remaining). Supports Tenet 1 and Tenet 2.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-24
+
+### P2: Deep review parsimony-case-for-interactionist-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 via expand-topic, cross-reviewed but never standalone deep-reviewed. Topics article making the positive parsimony argument for interactionist dualism. Verify accuracy of claims about Swinburne's simplicity arguments and Chalmers' consciousness-simplicity analysis, coherence of the hidden-complexity tallying, cross-references to limits-of-parsimony-in-consciousness-science and epistemological-limits-of-occams-razor, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-24
 
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
