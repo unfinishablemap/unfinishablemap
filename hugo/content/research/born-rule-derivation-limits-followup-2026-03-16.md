@@ -23,7 +23,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[born-rule-derivation-attempts-2026-03-14]]'
-- '[[born-rule-derivation-failures-consciousness-collapse]]'
+- '[[born-rule-and-the-consciousness-interface]]'
 - '[[what-consciousness-tells-us-about-physics]]'
 - '[[probability-problem-in-many-worlds]]'
 - '[[philosophical-stakes-of-spontaneous-collapse]]'

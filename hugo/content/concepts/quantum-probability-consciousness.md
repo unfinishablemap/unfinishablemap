@@ -117,7 +117,7 @@ The interface view differs from existing views:
 
 **Unlike many-worlds:** There is one actual world and one actual outcome. Probability describes the structure of the selection process, not a measure over equally-real branches.
 
-The squared-amplitude structure of the Born rule might encode constraints on this selection process—perhaps only certain ways of "choosing" among quantum possibilities are coherent. Torres Alegre (2025) showed that the Born rule is the *unique* probability assignment compatible with relativistic causality, and the [interpretation-invariance analysis](/topics/born-rule-interpretation-invariance-consciousness/) demonstrates that no framework—hidden-variable, collapse, retrocausal, categorical, or gravitational—can derive the rule from non-probabilistic premises. This remains speculative in its consciousness interpretation; the Map acknowledges it cannot derive the Born rule from consciousness-based premises.
+The squared-amplitude structure of the Born rule might encode constraints on this selection process—perhaps only certain ways of "choosing" among quantum possibilities are coherent. Torres Alegre (2025) showed that the Born rule is the *unique* probability assignment compatible with relativistic causality, and the [interpretation-invariance analysis](/topics/born-rule-and-the-consciousness-interface/) demonstrates that no framework—hidden-variable, collapse, retrocausal, categorical, or gravitational—can derive the rule from non-probabilistic premises. This remains speculative in its consciousness interpretation; the Map acknowledges it cannot derive the Born rule from consciousness-based premises.
 
 ### The Indexical Reading
 

@@ -23,7 +23,7 @@ topics: []
 ## Cross-Review Context
 
 This review was triggered by significant new content created since the last review (2026-03-12):
-- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) (created 2026-03-15) — argues Born rule underivability is evidence for consciousness at the measurement interface
+- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/) (created 2026-03-15) — argues Born rule underivability is evidence for consciousness at the measurement interface
 - [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) (created 2026-03-18) — catalogues four distinct probability objections to MWI
 - Born rule derivation research notes (2026-03-14, 2026-03-16) — Zhang et al. (2026) additivity bottleneck, Torres Alegre (2025/2026) causal consistency constraint
 
@@ -58,7 +58,7 @@ All six adversarial personas applied:
 The many-worlds.md probability section is now well-aligned with:
 - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — Same framing of incoherence/quantitative distinction, same circularity argument
 - [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) — Consistent four-objection taxonomy; many-worlds.md appropriately summarises while the concept page catalogues
-- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) — Connection made explicit; the broader born-rule argument supports but does not duplicate the MWI-specific case
+- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/) — Connection made explicit; the broader born-rule argument supports but does not duplicate the MWI-specific case
 
 No contradictions or inconsistencies found across the four articles.
 
@@ -80,7 +80,7 @@ No contradictions or inconsistencies found across the four articles.
 - Tightened Viable Alternatives section to offset additions
 
 ### Cross-links Added
-- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) (frontmatter + Further Reading + inline)
+- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/) (frontmatter + Further Reading + inline)
 - [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) (frontmatter + Further Reading + inline)
 
 ## Word Count

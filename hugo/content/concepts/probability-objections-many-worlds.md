@@ -28,7 +28,7 @@ related_articles:
 title: Probability and Decision-Theory Objections to Many Worlds
 topics:
 - '[[probability-problem-in-many-worlds]]'
-- '[[born-rule-derivation-failures-consciousness-collapse]]'
+- '[[born-rule-and-the-consciousness-interface]]'
 ---
 
 The [Many-Worlds Interpretation](/concepts/many-worlds/) faces four distinct probability objections that collectively undermine its claim to empirical adequacy. The Unfinishable Map identifies these as among the strongest reasons to reject MWI: if a theory cannot account for the probabilities that confirm quantum mechanics, it cannot claim quantum mechanics as evidence in its favour. This concept page catalogues the four objections; for extended argument, see [The Probability Problem in Many Worlds](/topics/probability-problem-in-many-worlds/).
@@ -91,7 +91,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies here direct
 ## Further Reading
 
 - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — Extended treatment of all four objections with detailed argument
-- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) — Why Born rule derivation failures point toward consciousness-collapse
+- [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Why Born rule derivation failures point toward consciousness-collapse
 - [many-worlds](/concepts/many-worlds/) — The many-worlds concept page
 - [Against Many-Worlds](/arguments/many-worlds-argument/) — The full five-argument case against MWI
 - [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) — Why consciousness and probability are entangled

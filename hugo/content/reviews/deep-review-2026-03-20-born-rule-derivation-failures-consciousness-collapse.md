@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-20
-**Article**: [Born Rule Derivation Failures and Consciousness-Collapse](/topics/born-rule-derivation-failures-consciousness-collapse/)
+**Article**: [Born Rule Derivation Failures and Consciousness-Collapse](/topics/born-rule-and-the-consciousness-interface/)
 **Previous review**: [2026-03-15](/reviews/deep-review-2026-03-15-born-rule-derivation-failures-consciousness-collapse/)
 **Context**: Cross-review considering mathematical-structure insights from recently published companion articles.
 

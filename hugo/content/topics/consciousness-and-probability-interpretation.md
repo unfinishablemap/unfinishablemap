@@ -90,7 +90,7 @@ The probability intuition failure illuminates this picture. If consciousness ope
 
 An analogy: a person choosing which path to walk doesn't calculate the distribution of their choices across days. They choose based on mood, intention, weather—qualitative factors. But an observer tracking their choices over time would find statistical regularities. The statistics describe the pattern without capturing the experience of choosing.
 
-Similarly, the Born rule might describe how consciousness's qualitative selections aggregate statistically, without consciousness itself needing to perform probabilistic reasoning. The [interpretation-invariance of the Born rule](/topics/born-rule-interpretation-invariance-consciousness/)—its presence in every major quantum framework without being derivable from any—supports this reading: the rule encodes the consciousness-physics interface rather than a feature of physics that consciousness must compute. The rule characterises the interface from the outside (third-person statistics) while consciousness operates the interface from the inside (first-person meaning-seeking).
+Similarly, the Born rule might describe how consciousness's qualitative selections aggregate statistically, without consciousness itself needing to perform probabilistic reasoning. The [interpretation-invariance of the Born rule](/topics/born-rule-and-the-consciousness-interface/)—its presence in every major quantum framework without being derivable from any—supports this reading: the rule encodes the consciousness-physics interface rather than a feature of physics that consciousness must compute. The rule characterises the interface from the outside (third-person statistics) while consciousness operates the interface from the inside (first-person meaning-seeking).
 
 This resolves the paradox. Consciousness doesn't need to be good at probability because it doesn't *use* probability. Probability describes what consciousness does from a perspective consciousness itself doesn't occupy. The Born rule is a third-person description of a first-person process.
 
@@ -139,7 +139,7 @@ The distinction matters for the interface view. Cognitive blindness is a limitat
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — What genuine uncertainty feels like from the inside
 - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — Why MWI cannot recover the Born rule without circularity
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Which QM interpretations leave room for consciousness at the interface
-- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) — Why Born rule derivation failures point toward consciousness-collapse
+- [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Why Born rule derivation failures point toward consciousness-collapse
 
 ## References
 

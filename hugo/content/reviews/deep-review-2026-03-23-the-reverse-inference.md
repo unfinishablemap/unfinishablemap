@@ -47,7 +47,7 @@ topics: []
 ### Enhancements Made
 - Added `[panpsychism](/concepts/panpsychism/)` wikilink in "Why Not Panpsychism?" section
 - Added `[the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)` to related_articles and Further Reading
-- Added `[born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/)` to Further Reading
+- Added `[born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/)` to Further Reading
 
 ### Cross-links Added (Orphan Integration)
 New inbound links added from 6 articles:
@@ -56,7 +56,7 @@ New inbound links added from 6 articles:
 3. [self-stultification](/concepts/self-stultification/) — Added to Further Reading
 4. [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Added to Further Reading
 5. [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — Added sentence in "The Structural Identity with the Hard Problem" section
-6. [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) — Added sentence in "Why Underivability Matters" section
+6. [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/) — Added sentence in "Why Underivability Matters" section
 
 Combined with 8 inbound links from previous review (measurement-problem, quantum-interpretations, interactionist-dualism, causal-closure, epiphenomenalism, hard-problem-of-consciousness, physics-as-disclosure, explanatory-gap), the article now has 14 inbound links.
 

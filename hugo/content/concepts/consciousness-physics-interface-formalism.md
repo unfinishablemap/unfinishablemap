@@ -25,7 +25,7 @@ related_articles:
 - '[[tenets]]'
 - '[[the-interface-specification-problem]]'
 - '[[psychophysical-laws]]'
-- '[[born-rule-derivation-failures-consciousness-collapse]]'
+- '[[born-rule-and-the-consciousness-interface]]'
 - '[[mind-matter-interface]]'
 - '[[interface-formalization-void]]'
 title: Consciousness-Physics Interface Formalism
@@ -55,7 +55,7 @@ Quantum foundations impose five constraints that any coupling map C must respect
 
 ### 1. Born Rule Preservation
 
-Masanes, Galley, and Müller (2019) proved that the Born rule — p = |ψ|² — is the unique probability assignment consistent with states as Hilbert-space vectors, unitary evolution, and compositional neutrality. The [interpretation-invariance analysis](/topics/born-rule-interpretation-invariance-consciousness/) strengthens this result: the Born rule appears in every major quantum framework—hidden-variable, collapse, retrocausal, categorical, gravitational—without being derivable from any, suggesting it encodes the consciousness-physics interface itself. The coupling map C can bias which individual outcome actualises, but ensemble statistics must remain Born-rule compliant. Over many repetitions, outcome frequencies must match squared amplitudes. Any formalism in which consciousness systematically alters probability distributions is ruled out.
+Masanes, Galley, and Müller (2019) proved that the Born rule — p = |ψ|² — is the unique probability assignment consistent with states as Hilbert-space vectors, unitary evolution, and compositional neutrality. The [interpretation-invariance analysis](/topics/born-rule-and-the-consciousness-interface/) strengthens this result: the Born rule appears in every major quantum framework—hidden-variable, collapse, retrocausal, categorical, gravitational—without being derivable from any, suggesting it encodes the consciousness-physics interface itself. The coupling map C can bias which individual outcome actualises, but ensemble statistics must remain Born-rule compliant. Over many repetitions, outcome frequencies must match squared amplitudes. Any formalism in which consciousness systematically alters probability distributions is ruled out.
 
 ### 2. Inner Product Invariance
 
@@ -114,7 +114,7 @@ The interface formalism concept connects directly to the Map's foundational comm
 - [psychophysical-laws](/concepts/psychophysical-laws/) — The philosophical framework behind the coupling map
 - [coupling-modes](/concepts/coupling-modes/) — How C might operate: basis, timing, or probability control
 - [interface-formalization-void](/voids/interface-formalization-void/) — Whether the specification gap is closable in principle
-- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) — Why the Born rule's underivability constrains the formalism
+- [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Why the Born rule's underivability constrains the formalism
 
 ## References
 

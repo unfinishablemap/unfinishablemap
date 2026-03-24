@@ -72,13 +72,13 @@ All six adversarial personas engaged. No new critical philosophical issues beyon
 - Tightened prose in Orch OR, Stapp, and synthesis sections (-73 words total)
 - Added cross-link to [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) in opening paragraph
 - Added cross-link to [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) in Orch OR empirical section
-- Added [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) to Further Reading
+- Added [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/) to Further Reading
 
 ### Cross-links Added
 
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
-- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/)
+- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/)
 
 ## Word Count
 

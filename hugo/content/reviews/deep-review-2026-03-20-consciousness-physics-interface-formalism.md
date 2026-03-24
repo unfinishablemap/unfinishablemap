@@ -58,7 +58,7 @@ topics: []
   - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — in selection without injection section
   - [interactionist-dualism](/concepts/interactionist-dualism/) — in quantum interactionism section
   - [interface-formalization-void](/voids/interface-formalization-void/) — in Born rule as structural ceiling section
-  - [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) — in underivability significance section
+  - [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/) — in underivability significance section
   - [interface-specification-programme](/apex/interface-specification-programme/) — in interface powers section
 
 ### Cross-links Added

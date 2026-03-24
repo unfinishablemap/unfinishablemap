@@ -28,7 +28,7 @@ topics: []
 
 ### Medium Issues Found
 - **AI refinement log**: HTML comment (lines 183-194) with "should be removed after human review" still present from 2026-03-15 refinement. Resolution: Removed.
-- **Missing cross-link**: New concept page [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) links to [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/), a natural companion this article lacked. Resolution: Added to Further Reading.
+- **Missing cross-link**: New concept page [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) links to [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/), a natural companion this article lacked. Resolution: Added to Further Reading.
 - **Concept page not in frontmatter**: New concept [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) (created 2026-03-18) not listed in `concepts` field. Resolution: Added.
 
 ### Counterarguments Considered
@@ -50,11 +50,11 @@ None. All factual claims attributed with citations.
 
 ### Enhancements Made
 - Removed stale AI refinement log comment
-- Added cross-link to [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) in Further Reading
+- Added cross-link to [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/) in Further Reading
 - Added [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) to concepts frontmatter
 
 ### Cross-links Added
-- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) (Further Reading)
+- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/) (Further Reading)
 
 ## Word Count
 - Before: 2886 words

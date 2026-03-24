@@ -69,7 +69,7 @@ All six adversarial personas were applied. No new counterarguments emerged beyon
 ### Cross-links Added
 
 - [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) (Prediction 2 and Further Reading)
-- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) (Evidential Asymmetry section, inline)
+- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/) (Evidential Asymmetry section, inline)
 
 ## Remaining Items
 

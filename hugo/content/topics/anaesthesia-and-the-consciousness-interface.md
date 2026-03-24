@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-23 06:55:00+00:00
+ai_modified: 2026-03-24 06:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -91,7 +91,9 @@ This dissociation reveals that the interface's connection to memory systems is p
 
 A critical epistemological point: under normal conditions, production and transmission theories make identical predictions. Sophisticated physicalist models — global workspace theory, integrated information theory — also predict differential disruption profiles, since any modular system produces different failure modes when different modules are disrupted. The theories diverge decisively in abnormal cases — where consciousness *persists or intensifies* despite severe neural disruption.
 
-Bhatt et al. (2019) decompose conscious experience under anaesthesia into three separable components: wakefulness, internal awareness, and environmental connectedness. Different agents selectively impair different components, producing agent-specific profiles rather than uniform suppression. The three-state taxonomy that has emerged — connected consciousness, disconnected consciousness, and unconsciousness — maps directly onto filter theory's predictions. Connected consciousness (detectable through the isolated forearm technique) represents narrowed but intact environmental access. Disconnected consciousness — vivid dreaming, hallucinations — represents blocked environmental input while consciousness continues through internally generated content. Some studies find that nearly all participants recalled dreaming during behavioural unresponsiveness, suggesting disconnected consciousness is far more common under anaesthesia than "unconsciousness" implies.
+Bhatt et al. (2019) decompose conscious experience under anaesthesia into three separable components: wakefulness, internal awareness, and environmental connectedness. Different agents selectively impair different components, producing agent-specific profiles rather than uniform suppression. Their key observation — that "whenever the brain is disconnected from the environment under anesthesia, it can generate an entire world of conscious experiences by itself" — captures precisely the filter-theoretic prediction: block one channel and consciousness expresses itself through whatever pathways remain open. The three-state taxonomy that has emerged — connected consciousness, disconnected consciousness, and unconsciousness — maps directly onto filter theory's predictions. Connected consciousness (detectable through the isolated forearm technique) represents narrowed but intact environmental access. Disconnected consciousness — vivid dreaming, hallucinations — represents blocked environmental input while consciousness continues through internally generated content. Sanders et al. (2023) make the clinical point explicit: anaesthesia does not require full loss of consciousness — it is sufficient to just disconnect the patient from the environment. This is a remarkable concession from mainstream anaesthesiology: the discipline's own practitioners acknowledge that what they produce is primarily *disconnection*, not extinction. Some studies find that nearly all participants recalled dreaming during behavioural unresponsiveness, suggesting disconnected consciousness is far more common under anaesthesia than "unconsciousness" implies.
+
+The dose-dependent nature of the transitions reinforces the filter interpretation. Brain complexity measures show continuous, graded changes under propofol — not a sharp threshold between consciousness and unconsciousness. The ASA's own sedation continuum acknowledges this: minimal sedation, moderate sedation, deep sedation, and general anaesthesia form a spectrum, not discrete states. A filter being progressively constricted produces exactly this kind of graded narrowing; a generator being powered down might too, but the qualitative differences between agents — propofol silence versus ketamine vividness at equivalent behavioural depths — are harder to reconcile with a single generation mechanism operating at different power levels.
 
 The ketamine case poses a specific challenge to integrated information theory (IIT). Under ketamine, brain complexity measured by PCI remains at waking levels — Phi is high — yet consciousness is disconnected from the environment. IIT predicts high Phi should correspond to full consciousness, not a dissociated dream state. Filter theory accommodates this naturally: the brain's integration capacity remains intact because consciousness still engages through the interface, but the environmental access channels have been pharmacologically blocked.
 
@@ -182,16 +184,15 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 1. James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin.
 1. Bhatt, D. P., et al. (2024). A transmissive theory of brain function: implications for health, disease, and consciousness. *NeuroSci*, 3(3), 32.
 
-<!-- AI REFINEMENT LOG - 2026-03-22
+<!-- AI REFINEMENT LOG - 2026-03-24
 Changes made:
-- Acknowledged that sophisticated physicalist models (GWT, IIT) also predict differential disruption profiles — differential profiles alone are ontologically neutral
-- Foregrounded terminal lucidity and cardiac arrest as the decisive discriminators for filter theory (consciousness persisting/intensifying during neural disruption)
-- Restructured filter theory predictions section to lead with the key discriminator
-- Updated Dualism tenet section for consistency with revised argument
-- Removed stale AI refinement log from previous passes
+- Added Bhatt et al. (2019) quote about disconnected brain generating conscious experiences — strengthens filter theory prediction
+- Added Sanders et al. (2023) clinical concession that anaesthesia requires only disconnection, not extinction of consciousness
+- Added dose-dependent graded spectrum paragraph with ASA sedation continuum evidence
+- Strengthened filter theory argument: graded constriction vs generator power-down, qualitative agent differences at equivalent behavioural depths
 
-Based on pessimistic review pessimistic-2026-03-22-d.md.
-Key improvements: Honest engagement with strongest physicalist models; sharper identification of what actually distinguishes filter from production accounts.
+Based on research/consciousness-anesthesia-filter-theory-2026-03-20.md.
+Key improvements: Specific pharmacological evidence for graded consciousness loss supporting filter/transmission theory.
 
 This log should be removed after human review.
 -->

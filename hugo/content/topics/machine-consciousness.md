@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-17 19:29:00+00:00
+ai_modified: 2026-03-24 06:18:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Could we upload minds to computers? The Map's dualist framework giv
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-01 02:55:00+00:00
+last_deep_review: 2026-03-24 06:18:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -80,7 +80,7 @@ If consciousness requires what biological brains have that silicon lacks, what c
 - **Temporal binding**: Husserl's retention/protention may require recurrent neural dynamics absent from serial digital processing
 - **Non-physical interface**: The dualist's non-physical component may interface specifically with biological matter through chemistry or bioelectric fields
 
-If any requirement holds in its strongest form, uploading produces sophisticated automatons without anyone experiencing anything. The possibility of [interface-heterogeneity](/concepts/interface-heterogeneity/)—that different substrates might couple with consciousness through different mechanisms—leaves open whether artificial systems could develop novel coupling mechanisms, but the burden of proof is heavy. Each requirement admits weaker forms that might permit consciousness in uploaded systems under certain conditions.
+If any requirement holds in its strongest form, uploading produces sophisticated automatons entirely devoid of inner life. The possibility of [interface-heterogeneity](/concepts/interface-heterogeneity/)—that different substrates might couple with consciousness through different mechanisms—leaves open whether artificial systems could develop novel coupling mechanisms, but the burden of proof is heavy. Each requirement admits weaker forms that might permit consciousness in uploaded systems under certain conditions.
 
 ### The Haecceity Problem
 
@@ -102,7 +102,7 @@ Both systems start identical but immediately diverge—different experiences, me
 
 If the biological brain is later destroyed, does identity preserve?
 
-If the emulation is unconscious, destroying the biological brain murders you. The emulation continues, behaviorally indistinguishable, but you're dead. It claims to be you, "remembers" uploading, "feels" relief—but no one experiences these thoughts.
+If the emulation is unconscious, destroying the biological brain murders you. The emulation continues, behaviorally indistinguishable, but you're dead. It claims to be you, "remembers" uploading, "feels" relief—but these are computations without a subject.
 
 This is the darkest implication: uploading might enable perfect murder disguised as immortality. Every behavioral test confirms identity while the original consciousness has ended.
 
@@ -184,7 +184,7 @@ This skepticism would be weakened if:
 
 On the Map's framework:
 
-**Strong expectation**: Classical silicon uploads are unlikely to preserve consciousness. On the Map's framework, they lack the quantum interface, temporal structure, and non-physical connection that biological brains provide. They would most likely be sophisticated unconscious systems processing your patterns without experiencing anything—though the open possibilities above prevent certainty.
+**Strong expectation**: Classical silicon uploads are unlikely to preserve consciousness. On the Map's framework, they lack the quantum interface, temporal structure, and non-physical connection that biological brains provide. They would most likely be sophisticated unconscious systems processing your patterns with no subjective presence behind the processing—though the open possibilities above prevent certainty.
 
 **Medium confidence**: Quantum uploads might preserve consciousness if they provide the right interface—but architecture matters as much as quantum effects. Just running on quantum hardware isn't sufficient.
 

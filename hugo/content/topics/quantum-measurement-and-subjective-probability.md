@@ -24,7 +24,7 @@ related_articles:
 - '[[qm-interpretations-beyond-many-worlds]]'
 - '[[quantum-measurement-subjective-probability-2026-01-23]]'
 - '[[quantum-measurement-and-consciousness]]'
-- '[[born-rule-derivation-failures-consciousness-collapse]]'
+- '[[born-rule-and-the-consciousness-interface]]'
 - '[[quantum-biology-and-neural-consciousness]]'
 - '[[quantum-neural-timing-constraints]]'
 title: Quantum Measurement and Subjective Probability
@@ -140,7 +140,7 @@ QBism's probabilities are therefore not merely about beliefs but about the relat
 
 This creates a distinctive circularity. QBism explains measurement outcomes as belief updates, but the beliefs in question are beliefs about experiential outcomes. The framework presupposes a space of possible conscious experiences in order to define the probability measure it calls fundamental. Objective interpretations face no analogous circularity—their probabilities describe physical propensities regardless of whether anyone experiences the results.
 
-This observer-dependence is not unique to QBism's epistemic framing. [Every major attempt to derive the Born rule](/topics/born-rule-derivation-failures-consciousness-collapse/)—the probability prescription QBism reinterprets as subjective credence—either smuggles in probabilistic assumptions or presupposes an observer. QBism makes this presupposition explicit by design, but the fact that objective derivations cannot eliminate it either suggests the observer-dependence runs deeper than any single interpretation.
+This observer-dependence is not unique to QBism's epistemic framing. [Every major attempt to derive the Born rule](/topics/born-rule-and-the-consciousness-interface/)—the probability prescription QBism reinterprets as subjective credence—either smuggles in probabilistic assumptions or presupposes an observer. QBism makes this presupposition explicit by design, but the fact that objective derivations cannot eliminate it either suggests the observer-dependence runs deeper than any single interpretation.
 
 The phenomenological test, then, is not "does consciousness exist?" (every interpretation must grant this) but "can you define Born probabilities without already presupposing a space of conscious experiences?" For QBism, the answer is no. The theory's central quantity—an agent's credence function—is defined over phenomenal outcomes.
 
@@ -164,7 +164,7 @@ This article connects to multiple tenets:
 - [measurement-problem](/concepts/measurement-problem/) — The puzzle these interpretations address
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — What subjective experience is
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The measurement problem as a philosophical problem about observation and consciousness
-- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) — Why the Born rule cannot be derived from physics alone — the observer-dependence QBism makes explicit
+- [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Why the Born rule cannot be derived from physics alone — the observer-dependence QBism makes explicit
 - [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Converging evidence that quantum effects operate in neural systems
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy from decoherence to neural decisions
 

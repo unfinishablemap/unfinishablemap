@@ -53,7 +53,7 @@ None. The previous review addressed all critical issues (misattributed citations
 ### Cross-links Added
 - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) (Further Reading)
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) (Further Reading)
-- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) (Further Reading)
+- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/) (Further Reading)
 
 ## Cross-Review Consistency Check
 

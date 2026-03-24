@@ -131,7 +131,7 @@ The Map rejects [many-worlds](/tenets/#no-many-worlds), which dissolves the test
 - [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/) — Where the quantum-classical boundary currently lies
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and Penrose OR in detail
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — How proposed mechanisms compare
-- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) — Why deriving the Born rule matters for collapse theories
+- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/) — Why deriving the Born rule matters for collapse theories
 
 ## References
 

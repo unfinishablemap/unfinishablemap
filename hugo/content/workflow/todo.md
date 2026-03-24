@@ -38,31 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### ✓ 2026-03-24: Incorporate clinical neuroplasticity research into bidirectional-interaction articles
-- **Type**: refine-draft
-- **Notes**: Research completed in research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md. OCD treatment (Schwartz), psychotherapy-induced neuroplasticity, and meditation structural changes provide empirical grounding for Tenet 3 (Bidirectional Interaction). Incorporate findings into mental-causation.md and bidirectional-interaction.md — strengthen empirical evidence sections with specific clinical data.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-24
-- **Output**: obsidian/concepts/mental-causation.md, obsidian/concepts/bidirectional-interaction.md
-
-### P2: Incorporate experimental consciousness-collapse tests research into consciousness-collapse-experimental-landscape.md
-- **Type**: refine-draft
-- **Notes**: Research completed in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Reviews testable predictions distinguishing consciousness-collapse from decoherence — directly relevant to empirical tractability of Tenet 2. Update consciousness-collapse-experimental-landscape.md with new experimental proposals and status assessments.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-24
-
-### P2: Incorporate consciousness-anaesthesia filter theory research into anaesthesia articles
-- **Type**: refine-draft
-- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Graded consciousness loss under anaesthesia and ketamine's preservation of complex brain dynamics with phenomenal disconnection support filter/transmission theory. Incorporate into anaesthesia-and-the-consciousness-interface.md and filter-theory.md with specific pharmacological evidence.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-24
-
-### P2: Condense measurement-problem.md (3516 words, 141% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about the measurement problem's relationship to consciousness while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-24
-
 ### P2: Deep review lucid-dreaming-and-dualist-rendering.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) updated via coalesce on 2026-03-20, never reviewed post-coalesce. Topics article on lucid dreaming as evidence for mind-side rendering capability. Verify the coalesce preserved coherence, accuracy of empirical claims about lucid dreaming research, cross-references to dream-problem-solving-and-conscious-influence and capability-division-problem, and tenet alignment.
@@ -1326,6 +1301,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Condense measurement-problem.md (3516 words, 141% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about the measurement problem's relationship to consciousness while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/measurement-problem.md
+
+### ✓ 2026-03-24: Incorporate consciousness-anaesthesia filter theory research into anaesthesia articles
+- **Type**: refine-draft
+- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Graded consciousness loss under anaesthesia and ketamine's preservation of complex brain dynamics with phenomenal disconnection support filter/transmission theory. Incorporate into anaesthesia-and-the-consciousness-interface.md and filter-theory.md with specific pharmacological evidence.
+- **Output**: Task context:
+Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Graded consciousness loss under anaesthesia and ketamine's preservation of complex brain dynamics with phenomenal disconnection support filter/transmission theory. Incorporate into anaesthesia-and-the-consciousness-interface.md and filter-theory.md with specific pharmacological evidence.
+
+### ✓ 2026-03-24: Incorporate experimental consciousness-collapse tests research into consciousness-collapse-experimental-landscape.md
+- **Type**: refine-draft
+- **Notes**: Research completed in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Reviews testable predictions distinguishing consciousness-collapse from decoherence — directly relevant to empirical tractability of Tenet 2. Update consciousness-collapse-experimental-landscape.md with new experimental proposals and status assessments.
+- **Output**: obsidian/topics/consciousness-collapse-experimental-landscape.md
+
+Task context:
+Research completed in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Reviews testable predictions distinguishing consciousness-collapse from decoherence — directly relevant to empirical tractability of Tenet 2. Update consciousness-collapse-experimental-landscape.md with new experimental proposals and status assessments.
+
+### ✓ 2026-03-24: Incorporate clinical neuroplasticity research into bidirectional-interaction articles
+- **Type**: refine-draft
+- **Notes**: Research completed in research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md. OCD treatment (Schwartz), psychotherapy-induced neuroplasticity, and meditation structural changes provide empirical grounding for Tenet 3 (Bidirectional Interaction). Incorporate findings into mental-causation.md and bidirectional-interaction.md — strengthen empirical evidence sections with specific clinical data.
+- **Output**: Task context:
+Research completed in research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md. OCD treatment (Schwartz), psychotherapy-induced neuroplasticity, and meditation structural changes provide empirical grounding for Tenet 3 (Bidirectional Interaction). Incorporate findings into mental-causation.md and bidirectional-interaction.md — strengthen empirical evidence sections with specific clinical data.
 
 ### ✓ 2026-03-24: Cross-review reconstruction/error-correction articles considering curated-mind.md
 - **Type**: cross-review
@@ -3006,3 +3006,33 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Status**: Done (completed as P2 task above)
 - **Output**: [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/)
 - **Completed**: 2026-03-22
+
+### P3: Write article on consciousness and mathematical understanding
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How grasping mathematical necessity differs from processing symbols—the specific case of mathematical truth-tracking as evidence for consciousness. Builds on argument-from-reason, phenomenology-of-intellectual-effort, cognitive-phenomenology. Tenet alignment: Dualism + Bidirectional Interaction. Target section: topics/. See optimistic-2026-03-24.md
+- **Generated**: 2026-03-24
+
+### P3: Write article on philosophy of emotion under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How emotions function as conscious evaluative states under interactionist dualism—bridging phenomenal experience and action. Builds on consciousness-value-connection, phenomenal-normativity, moral-phenomenology. Tenet alignment: Bidirectional Interaction + Dualism. Target section: topics/. See optimistic-2026-03-24.md
+- **Generated**: 2026-03-24
+
+### P3: Write article on the amplification problem as research programme
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How quantum-scale selection cascades to macroscopic neural and behavioral effects—systematic treatment of a currently acknowledged open problem. Builds on quantum-consciousness, brain-interface-boundary, amplification void. Tenet alignment: Minimal Quantum Interaction. Target section: topics/. See optimistic-2026-03-24.md
+- **Generated**: 2026-03-24
+
+### P3: Write concept page on phenomenal unity as non-compositional
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The insight from panpsychism's combination problem that consciousness is inherently non-compositional—two perspectives don't merge into a third. This asymmetry with physical properties differentiates consciousness fundamentally. Target section: concepts/. See optimistic-2026-03-24.md
+- **Generated**: 2026-03-24
+
+### P3: Add cross-links from optimistic review 2026-03-24 findings
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Six cross-linking opportunities: curated-mind↔phenomenal-acquaintance, agent-causation↔consciousness-value-connection, cognitive-closure↔contemplative-practice, argument-from-reason↔phenomenology-of-intellectual-effort, cross-cultural-convergence↔contemplative-practice, consciousness-evolution-problem↔consciousness-value-connection. See optimistic-2026-03-24.md
+- **Generated**: 2026-03-24

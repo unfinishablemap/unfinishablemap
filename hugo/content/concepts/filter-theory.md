@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-23 15:29:00+00:00
+ai_modified: 2026-03-24 06:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -89,11 +89,15 @@ The [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) artic
 
 ### The Anesthetic Divergence
 
-Different anaesthetics produce identical behavioural outputs—unresponsiveness, amnesia—while generating radically different conscious experiences. Research now distinguishes at least three consciousness states under anaesthesia: connected consciousness (environmental awareness), disconnected consciousness (vivid internal experience), and unconsciousness. Propofol eliminates experience entirely; ketamine preserves vivid disconnected consciousness; sub-anaesthetic doses narrow awareness without eliminating it.
+Different anaesthetics produce identical behavioural outputs—unresponsiveness, amnesia—while generating radically different conscious experiences. Sanders et al. (2023) distinguish at least three consciousness states under anaesthesia: connected consciousness (environmental awareness), disconnected consciousness (vivid internal experience), and unconsciousness. Crucially, anaesthesia does not require full loss of consciousness—clinical effectiveness requires only disconnecting the patient from the environment, not extinguishing experience itself.
 
-This divergence is problematic for production models: disrupting neural activity should produce relatively uniform suppression. Instead, different agents produce qualitatively different consciousness profiles depending on which molecular targets they engage—the brain *mediates* rather than *generates* experience. The [full pharmacological analysis](/topics/anaesthesia-and-the-consciousness-interface/) reveals at least four separable interface components that can be independently disrupted.
+The pharmacological evidence is specific and striking. Sarasso et al. (2015) compared brain complexity under propofol, xenon, and ketamine using TMS-EEG perturbational complexity index (PCI) measurements. Propofol produced a low-amplitude, spatially local slow wave with low complexity. Xenon produced a high-amplitude, spatially global slow wave—mechanistically distinct from propofol but also low complexity. Both abolished reported experience. Ketamine, however, preserved wakefulness-like complex spatiotemporal activation despite equivalent behavioural unresponsiveness—and subjects reported long, vivid dreams. Three agents, three distinct neural signatures, two radically different phenomenological outcomes.
 
-Sensory information also reaches the brain during light sedation but is not perceived (Mashour & Bharioke 2024). The signal arrives at sensory cortex; the interface blocks transmission—precisely what filter theory predicts.
+This three-way comparison is difficult for production models. If neural activity generates consciousness, disrupting it should produce relatively uniform suppression. Instead, different molecular targets yield qualitatively different consciousness profiles—the brain *mediates* rather than *generates* experience. The ketamine case is particularly telling: the brain is pharmacologically disconnected from the environment, yet consciousness persists with full complexity in the form of elaborate internal experience. Bhatt et al. (2019) note that "whenever the brain is disconnected from the environment under anesthesia, it can generate an entire world of conscious experiences by itself"—precisely what filter theory predicts when environmental access channels close but the phenomenal interface remains intact.
+
+The graded, dose-dependent spectrum adds further weight. Consciousness under anaesthesia does not switch off at a threshold; it narrows continuously as dosage increases. This fits a progressively constricting filter better than a generator being powered down. The [full pharmacological analysis](/topics/anaesthesia-and-the-consciousness-interface/) reveals at least four separable interface components that can be independently disrupted.
+
+Sensory information also reaches the brain during light sedation but is not perceived (Noreika et al. 2018; Mashour & Bharioke 2024). The signal arrives at sensory cortex; the interface blocks transmission—precisely what filter theory predicts.
 
 ### Hypnagogic Loosening
 
@@ -250,5 +254,24 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 1. Kelly, E.F., et al. (2007). *Irreducible Mind: Toward a Psychology for the 21st Century*. Rowman & Littlefield.
 1. Mashour, G. A. & Bharioke, A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(8).
 1. Mashour, G. A., et al. (2024). Differential thalamic mechanisms of propofol and ketamine anaesthesia. *Anesthesiology*, 140(5), 923-934.
+1. Noreika, V., et al. (2018). Consciousness lost and found: subjective experiences in an unresponsive state. *British Journal of Anaesthesia*, 121(1), 298-305.
 1. Parnia, S., et al. (2023). "AWAreness during REsuscitation II: A multi-center study of consciousness and awareness in cardiac arrest." *Resuscitation*, 191, 109903.
+1. Sarasso, S., et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099-3105.
+1. Sanders, R. D., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8.
 1. Van Lommel, P., et al. (2001). "Near-death experience in survivors of cardiac arrest." *The Lancet*, 358(9298), 2039-2045.
+
+<!-- AI REFINEMENT LOG - 2026-03-24
+Changes made:
+- Expanded "Anesthetic Divergence" subsection from 3 paragraphs to 5 with specific pharmacological evidence
+- Added Sarasso et al. (2015) three-agent PCI comparison data (propofol vs xenon vs ketamine neural signatures)
+- Added Bhatt et al. (2019) quote on disconnected brain generating conscious experiences
+- Added Sanders et al. (2023) clinical distinction: anaesthesia requires disconnection, not extinction
+- Added dose-dependent graded spectrum argument (progressively constricting filter vs powered-down generator)
+- Added Noreika et al. (2018) citation for semantic processing during sedation
+- Added three new references (Sarasso 2015, Sanders 2023, Noreika 2018)
+
+Based on research/consciousness-anesthesia-filter-theory-2026-03-20.md.
+Key improvements: Transformed brief anesthetic evidence subsection into detailed pharmacological case for filter theory.
+
+This log should be removed after human review.
+-->

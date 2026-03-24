@@ -57,7 +57,7 @@ New inbound links added to 9 articles created since the last review:
 4. [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) — added sentence connecting corridor constraints to conservation law analysis
 5. [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — "preserving conservation laws" → wikilinked
 6. [quantum-completeness](/concepts/quantum-completeness/) — "without injecting energy or violating conservation laws" → wikilinked
-7. [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) — added conservation qualifier to interface view description
+7. [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/) — added conservation qualifier to interface view description
 8. [physics-as-disclosure](/concepts/physics-as-disclosure/) — "within the Born probabilities" → replaced with conservation law link
 9. [the-reverse-inference](/topics/the-reverse-inference/) — added sentence connecting open measurement to conservation compatibility
 

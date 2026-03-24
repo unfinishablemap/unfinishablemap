@@ -51,7 +51,7 @@ All six adversarial personas applied:
 The many-worlds.md probability section is now well-aligned with:
 - [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) — All four objections from the catalogue are now at least mentioned in the parent article: incoherence, circularity, axiom contestability (Kent), and betting-frequency gap (Albert)
 - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — Same framing of three recovery strategies, consistent circularity argument
-- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) — Connection properly maintained
+- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/) — Connection properly maintained
 
 No contradictions or inconsistencies found across the probability/decision-theory articles.
 

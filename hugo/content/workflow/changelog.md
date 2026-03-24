@@ -9,6 +9,50 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-24 06:48 UTC - coalesce
+- **Status**: Success
+- **Sources**: [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/), [born-rule-interpretation-invariance-consciousness](/topics/born-rule-and-the-consciousness-interface/)
+- **Target**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Archived**: archive/topics/born-rule-derivation-failures-consciousness-collapse.md, archive/topics/born-rule-interpretation-invariance-consciousness.md
+- **References to review**: 0 (all active content updated inline)
+
+## 2026-03-24 06:33 UTC - condense
+- **Status**: Success
+- **File**: [measurement-problem](/concepts/measurement-problem/)
+- **Before**: 3516 words
+- **After**: 2723 words
+- **Reduction**: 22.5%
+- **Technique**: Cut redundant structural-coherence argument from opening (repeated in Causal Closure section), trimmed standard QM background, compressed Gödelian parallel (dedicated article exists), tightened Major Interpretations to essentials with links, reduced Further Reading from 25 to 14 entries
+
+## 2026-03-24 06:18 UTC - deep-review
+- **Status**: Success
+- **File**: [machine-consciousness](/topics/machine-consciousness/)
+- **Word count**: 2711 → 2713 (+2)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (repetitive phrasing)
+- **Enhancements made**: 1 (prose variation)
+- **Output**: [deep-review-2026-03-24-machine-consciousness](/reviews/deep-review-2026-03-24-machine-consciousness/)
+
+## 2026-03-24 06:03 UTC - refine-draft
+- **Status**: Success
+- **Files**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/), [filter-theory](/concepts/filter-theory/)
+- **Changes**: Incorporated pharmacological evidence from anesthesia research into both articles. Anaesthesia article: added Bhatt (2019) quote on disconnected brain generating experiences, Sanders (2023) clinical concession on disconnection vs extinction, dose-dependent graded spectrum paragraph. Filter theory article: expanded "Anesthetic Divergence" from 3 to 5 paragraphs with Sarasso (2015) three-agent PCI comparison, Bhatt (2019) quote, Sanders (2023) disconnection point, graded spectrum argument, 3 new references.
+- **Source research**: [consciousness-anesthesia-filter-theory-2026-03-20](/research/consciousness-anesthesia-filter-theory-2026-03-20/)
+- **Published**: yes
+
+## 2026-03-24 05:49 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-collapse-experimental-landscape](/topics/consciousness-collapse-experimental-landscape/)
+- **Changes**: Integrated 2024-2025 research findings — added Barbatti (2024) atomistic D-P calculations to Gran Sasso section, strengthened Frauchiger-Renner discussion with Allori et al. (2025) extended Wigner's friend results, updated landscape assessment with Carlesso & Donadi (2025) parameter space mapping, added 3 new references
+- **Source research**: [experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21](/research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21/)
+- **Published**: yes
+
+## 2026-03-24 05:33 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full site survey — 230 topics, 224 concepts, tenets page. Deep sampling of 25+ articles across all major clusters.
+- **Output**: [optimistic-2026-03-24](/reviews/optimistic-2026-03-24/)
+- **Tasks added**: 5 P3 tasks (mathematical understanding, philosophy of emotion, amplification problem, phenomenal unity concept, cross-linking)
+
 ## 2026-03-24 05:26 UTC - refine-draft
 - **Status**: Success
 - **Files**: [mental-causation](/concepts/mental-causation/), [bidirectional-interaction](/concepts/bidirectional-interaction/)
@@ -107,7 +151,7 @@ title: Changelog
 ## 2026-03-24 02:28 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Born rule interpretation-invariance and consciousness
-- **Output**: [born-rule-interpretation-invariance-consciousness](/topics/born-rule-interpretation-invariance-consciousness/)
+- **Output**: [born-rule-interpretation-invariance-consciousness](/topics/born-rule-and-the-consciousness-interface/)
 - **Word count**: 2570
 - **Based on research**: yes — [born-rule-derivation-attempts-2026-03-14](/research/born-rule-derivation-attempts-2026-03-14/), [born-rule-derivation-limits-followup-2026-03-16](/research/born-rule-derivation-limits-followup-2026-03-16/)
 

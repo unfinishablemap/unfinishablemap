@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-24
-**Article**: [Born Rule Interpretation-Invariance and Consciousness](/topics/born-rule-interpretation-invariance-consciousness/)
+**Article**: [Born Rule Interpretation-Invariance and Consciousness](/topics/born-rule-and-the-consciousness-interface/)
 **Previous review**: [2026-03-24 (orphan integration)](/reviews/deep-review-2026-03-24b-born-rule-interpretation-invariance-consciousness/)
 
 ## Review Focus: Cross-Review

@@ -24,7 +24,7 @@ last_deep_review: 2026-03-18 01:44:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[born-rule-derivation-failures-consciousness-collapse]]'
+- '[[born-rule-and-the-consciousness-interface]]'
 - '[[epistemology-of-mechanism-at-the-consciousness-matter-interface]]'
 - '[[consciousness-in-smeared-quantum-states]]'
 - '[[what-consciousness-tells-us-about-physics]]'
@@ -46,7 +46,7 @@ Three results from quantum foundations collectively constrain the consciousness-
 
 Masanes, Galley, and Müller (2019) demonstrated that the Born rule—the prescription that measurement probabilities equal squared amplitudes, p = |ψ|²—is not one choice among many but the *unique* consistent probability rule given four basic postulates: states as vectors in Hilbert space, unitary evolution, compositional neutrality, and measurement uniqueness. Alternative rules (p = |ψ|, p = |ψ|³, or any other power) violate the logical consistency of these postulates.
 
-For the consciousness-physics interface, this uniqueness is a powerful constraint. The [interpretation-invariance analysis](/topics/born-rule-interpretation-invariance-consciousness/) extends this result: the Born rule is not only mathematically unique but also interpretation-invariant—appearing in every major framework (hidden-variable, collapse, retrocausal, categorical, gravitational) without being derivable from any. If consciousness acts at the point of measurement, it cannot alter the probability rule. It can bias *which* outcome actualises among the possibilities, but the ensemble statistics must remain Born-rule compliant. Any theory proposing that consciousness reshapes quantum probabilities wholesale is ruled out by the mathematics before empirical testing begins.
+For the consciousness-physics interface, this uniqueness is a powerful constraint. The [interpretation-invariance analysis](/topics/born-rule-and-the-consciousness-interface/) extends this result: the Born rule is not only mathematically unique but also interpretation-invariant—appearing in every major framework (hidden-variable, collapse, retrocausal, categorical, gravitational) without being derivable from any. If consciousness acts at the point of measurement, it cannot alter the probability rule. It can bias *which* outcome actualises among the possibilities, but the ensemble statistics must remain Born-rule compliant. Any theory proposing that consciousness reshapes quantum probabilities wholesale is ruled out by the mathematics before empirical testing begins.
 
 ### Inner Product Uniqueness
 
@@ -130,7 +130,7 @@ The mathematical structure of the consciousness-physics interface connects direc
 
 ## Further Reading
 
-- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) — Why the Born rule's underivability suggests consciousness at the interface
+- [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Why the Born rule's underivability suggests consciousness at the interface
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/) — What a complete specification of the interface must contain
 - [epistemology-of-mechanism-at-the-consciousness-matter-interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/) — What epistemic methods can reach the interface
 - [psychophysical-laws](/concepts/psychophysical-laws/) — What selection laws must specify and candidate formulations

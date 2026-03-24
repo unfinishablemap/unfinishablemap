@@ -134,7 +134,7 @@ The reverse inference is one of the Map's central methodological moves. It conne
 - [self-stultification](/concepts/self-stultification/) — The argument motivating bidirectional interaction
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — How collapse works without consciousness
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — The reverse inference as one strand in the cumulative case for dualism
-- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) — Why the Born rule cannot be derived from physics alone
+- [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Why the Born rule cannot be derived from physics alone
 
 ## References
 

@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-03-24
-**Article**: [Born Rule Interpretation-Invariance and Consciousness](/topics/born-rule-interpretation-invariance-consciousness/)
+**Article**: [Born Rule Interpretation-Invariance and Consciousness](/topics/born-rule-and-the-consciousness-interface/)
 **Previous review**: [2026-03-24](/reviews/deep-review-2026-03-24-born-rule-interpretation-invariance-consciousness/) (earlier today)
 
 ## Review Focus: Orphan Integration
@@ -51,7 +51,7 @@ This review focused on resolving the article's orphan status — zero inbound li
 ### Cross-links Added (FROM → TO target)
 
 **Inline cross-links:**
-1. [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) — In "What This Does Not Establish" section, after mentioning interpretations that relocate the explanatory burden
+1. [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/) — In "What This Does Not Establish" section, after mentioning interpretations that relocate the explanatory burden
 2. [measurement-problem](/concepts/measurement-problem/) — In "What Are Born Probabilities?" section, after noting the Born rule is postulated not derived
 3. [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — In "Implications for the Map's Framework" section, new list item on Born rule preservation
 4. [quantum-interpretations](/concepts/quantum-interpretations/) — In "How Interpretations Handle Probability" section, after the blind-spot observation
@@ -65,7 +65,7 @@ This review focused on resolving the article's orphan status — zero inbound li
 12. [qbism](/concepts/qbism/) — In "No Many Worlds" tenet section, on Born rule relocation
 
 **Further Reading additions:**
-- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) Further Reading section
+- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/) Further Reading section
 - [measurement-problem](/concepts/measurement-problem/) Further Reading section
 - [quantum-interpretations](/concepts/quantum-interpretations/) Further Reading section
 

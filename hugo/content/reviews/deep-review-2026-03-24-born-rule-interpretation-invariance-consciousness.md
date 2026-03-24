@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-24
-**Article**: [Born Rule Interpretation-Invariance and Consciousness](/topics/born-rule-interpretation-invariance-consciousness/)
+**Article**: [Born Rule Interpretation-Invariance and Consciousness](/topics/born-rule-and-the-consciousness-interface/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

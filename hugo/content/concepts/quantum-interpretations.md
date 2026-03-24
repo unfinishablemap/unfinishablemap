@@ -145,7 +145,7 @@ See [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) fo
 
 Each interpretation must account for the Born rule—the squared amplitude giving measurement probabilities. The [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) article examines this in depth, [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) details why MWI's attempts to recover the Born rule through decision theory, self-locating uncertainty, and envariance all face serious objections, taxonomising these into distinct failure modes.
 
-The key insight: all standard views share a blind spot—they don't address what probability means *for this consciousness*, the first-person perspective that seems central to what probability is about. The [interpretation-invariance of the Born rule](/topics/born-rule-interpretation-invariance-consciousness/) across all seven major frameworks confirms that no interpretation derives the rule from non-probabilistic, observer-independent premises—a pattern the Map reads as evidence that the rule encodes the consciousness-physics interface.
+The key insight: all standard views share a blind spot—they don't address what probability means *for this consciousness*, the first-person perspective that seems central to what probability is about. The [interpretation-invariance of the Born rule](/topics/born-rule-and-the-consciousness-interface/) across all seven major frameworks confirms that no interpretation derives the rule from non-probabilistic, observer-independent premises—a pattern the Map reads as evidence that the rule encodes the consciousness-physics interface.
 
 The Map proposes that Born probabilities describe the objective structure of the consciousness-quantum interface—neither purely subjective beliefs (QBism) nor features independent of consciousness (standard views). Rather, probability reflects the conditions under which consciousness actualises one possibility among many.
 
@@ -242,7 +242,7 @@ The choice of quantum interpretation bears directly on all five [tenets](/tenets
 
 ### Interpretations and Physics
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — How each interpretation handles Born rule probabilities and the first-person gap
-- [born-rule-interpretation-invariance-consciousness](/topics/born-rule-interpretation-invariance-consciousness/) — Why the Born rule persists across all interpretations without derivation
+- [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Why the Born rule persists across all interpretations without derivation
 - [measurement-problem](/concepts/measurement-problem/) — The problem all interpretations address
 - [many-worlds](/concepts/many-worlds/) — Why the Map rejects MWI
 - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — Why MWI cannot recover the Born rule without circularity
