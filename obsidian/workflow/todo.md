@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-23
 
-### P2: Update references to coalesced consciousness-collapse articles
-- **Type**: cross-review
-- **Notes**: Coalesce merged consciousness-collapse-versus-decoherence-experiments and differential-predictions-consciousness-collapse into consciousness-collapse-experimental-landscape. The following files reference archived slugs and need wikilink updates: comparing-quantum-consciousness-mechanisms.md, experimental-design-for-consciousness-collapse-testing.md, consciousness-and-neurodegenerative-disease.md, arguments-against-materialism.md, non-retrocausal-conscious-selection-models.md. Also update highlights.md reference.
-- **Source**: coalesce
-- **Generated**: 2026-03-24
-
 ### P3: Deep review dimensionality-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-23 via expand-topic from research/voids-dimensionality-void-2026-03-23.md, never reviewed. Has only 2 inbound links (minimal integration). Voids article on the limits of conscious spatial representation. Verify coherence, accuracy of claims about dimensional representation, cross-references to related void articles (mathematical-void, mind-space-void), and tenet alignment.
@@ -1274,6 +1268,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Update references to coalesced consciousness-collapse articles
+- **Type**: cross-review
+- **Notes**: Coalesce merged consciousness-collapse-versus-decoherence-experiments and differential-predictions-consciousness-collapse into consciousness-collapse-experimental-landscape. The following files reference archived slugs and need wikilink updates: comparing-quantum-consciousness-mechanisms.md, experimental-design-for-consciousness-collapse-testing.md, consciousness-and-neurodegenerative-disease.md, arguments-against-materialism.md, non-retrocausal-conscious-selection-models.md. Also update highlights.md reference.
+- **Output**: None -- Context: Update references to coalesced consciousness-collapse articles
 
 ### ✓ 2026-03-24: Integrate conservation-laws-mind-brain-causation.md into site navigation
 - **Type**: integrate-orphan

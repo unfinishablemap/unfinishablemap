@@ -4,7 +4,7 @@ description: "How do distributed neural processes combine into unified experienc
 created: 2026-01-14
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-03-23T15:29:00+00:00
+ai_modified: 2026-03-24T01:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ concepts:
   - "[[cognitive-phenomenology]]"
   - "[[stapp-quantum-mind]]"
   - "[[topics/free-will]]"
-  - "[[multimodal-binding]]"
+  - "[[phenomenal-binding-and-multimodal-integration]]"
   - "[[mysterianism]]"
   - "[[illusionism]]"
   - "[[explanatory-gap]]"
@@ -42,12 +42,13 @@ related_articles:
   - "[[neural-binding-quantum-entanglement-2026-01-19]]"
   - "[[quantum-holism-and-phenomenal-unity]]"
   - "[[phenomenal-binding-multimodal-integration-2026-01-23]]"
+  - "[[consciousness-collapse-experimental-landscape]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-03-01T00:51:00+00:00
+last_deep_review: 2026-03-24T01:43:00+00:00
 coalesced_from:
   - "/concepts/phenomenal-binding/"
 ---
@@ -66,7 +67,7 @@ William James identified what is now called the "combination problem" in the 19t
 
 BP2 is the "hard" aspect of binding. A unified conscious moment incorporating information from spatially separate brain regions presents a physical puzzle: it implies that several spatially separate processes exert causal power simultaneously as a single whole. The unity isn't just functional coordination; it's the subjective character of experiencing everything *together* within a single phenomenal field.
 
-**Intra-modal binding** concerns features within a single modality—how "red" and "round" bind into one visual object. **[[multimodal-binding|Cross-modal binding]]** concerns features from different senses — see [[phenomenal-binding-and-multimodal-integration|Phenomenal Binding and Multimodal Integration]] for the dedicated treatment. Both are explored in [[perception]] and [[dualist-perception|its dualist treatment]], where binding contributes to the unified character of perceptual awareness. The multimodal case makes the explanatory gap maximally stark: neural mechanisms explain how the brain coordinates separate processing streams (BP1), but not why coordination produces phenomenal unity rather than just functional integration (BP2).
+**Intra-modal binding** concerns features within a single modality—how "red" and "round" bind into one visual object. **[[phenomenal-binding-and-multimodal-integration|Cross-modal binding]]** concerns features from different senses—see that article for the dedicated treatment. Both are explored in [[perception]] and [[dualist-perception|its dualist treatment]], where binding contributes to the unified character of perceptual awareness. The multimodal case makes the explanatory gap maximally stark: neural mechanisms explain how the brain coordinates separate processing streams (BP1), but not why coordination produces phenomenal unity rather than just functional integration (BP2).
 
 ### The Illusionist Challenge
 
@@ -166,7 +167,7 @@ The quantum binding hypothesis makes specific predictions:
 4. Anesthetic effects on consciousness have purely classical explanations at the synaptic level
 5. Organisms lacking quantum coherence structures demonstrate phenomenal unity equivalent to humans
 
-Several recent findings are consistent with quantum binding, though the evidence remains preliminary and replication is needed. The debate is live, and the Map's core argument about BP2 does not depend on the quantum hypothesis being vindicated.
+Several recent findings are consistent with quantum binding, though the evidence remains preliminary and replication is needed. The broader [[consciousness-collapse-experimental-landscape|experimental landscape for consciousness-collapse]] surveys where these and related predictions stand—including Gran Sasso constraints, anaesthesia-modulated dynamics, and IIT-CSL tests. The debate is live, and the Map's core argument about BP2 does not depend on the quantum hypothesis being vindicated.
 
 ## Relation to Site Perspective
 
@@ -193,6 +194,7 @@ The binding problem illuminates why the Map's [[tenets]] take the positions they
 - [[illusionism]] — The view that phenomenal unity is illusory
 - [[mysterianism]] — Cognitive closure and the limits of understanding
 - [[consciousness-and-the-phenomenology-of-place]] — Atmospheric binding as a paradigm case of cross-modal phenomenal unity
+- [[consciousness-collapse-experimental-landscape]] — Experimental tests distinguishing consciousness-collapse from decoherence
 
 ## References
 
