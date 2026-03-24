@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-23 21:29:00+00:00
+ai_modified: 2026-03-23 23:13:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -924,12 +924,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Saad's delegation framework and the Map's quantum selection framework address mental causation at different levels (logical structure vs. physical mechanism). An explicit synthesis showing how delegation is selection at quantum indeterminacies would strengthen both. Builds on delegatory-dualism.md, asymmetric-bandwidth-consciousness.md, consciousness-selecting-neural-patterns.md. Target section: topics/. See optimistic-2026-03-18-evening.md
 - **Generated**: 2026-03-18
 
-### P2: Update references to coalesced selection-laws article
-- **Type**: cross-review
-- **Notes**: Coalesce merged selection-laws.md into psychophysical-laws.md. The following active content files reference `[selection-laws](/concepts/psychophysical-laws/)` and may need review to update links to `[psychophysical-laws](/concepts/psychophysical-laws/)`: bandwidth-problem-mental-causation.md, mental-causation.md, quantum-consciousness.md, mind-matter-interface.md, bi-aspectual-ontology.md, bidirectional-interaction.md, downward-causation.md, consciousness-and-scientific-explanation.md, metaphysics-of-information-under-dualism.md, consciousness-and-causal-powers.md, mathematical-structure-of-the-consciousness-physics-interface.md, value-blind-vs-value-sensitive-selection.md, the-interface-specification-problem.md, valence-as-selection-currency.md, psychophysical-laws-bridging-mind-and-matter.md, consciousness-and-the-metaphysics-of-laws.md, consciousness-and-probability-interpretation.md, consciousness-and-the-philosophy-of-biology.md, the-psychophysical-control-law.md, epistemology-of-mechanism-at-the-consciousness-matter-interface.md
-- **Source**: coalesce
-- **Generated**: 2026-03-18
-
 ### P3: Create concept page for supervenience
 - **Type**: expand-topic
 - **Status**: pending
@@ -1255,8 +1249,66 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Pessimistic review found: (1) self-link in Further Reading and related_articles, (2) convergence argument selection bias insufficiently addressed, (3) description overstates "favouring dualism" relative to what the article demonstrates. See pessimistic-2026-03-23d.md
 
+### P3: Write article on phenomenology of attention as distinct from computational attention
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map distinguishes phenomenal from computational attention across many articles but lacks a systematic treatment. Builds on mental effort, categorical surprise, bandwidth asymmetry. See optimistic-2026-03-23-night.md
+- **Generated**: 2026-03-23
+
+### P3: Write article on consciousness and mathematical understanding
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Gödel's incompleteness theorems referenced across multiple articles; whether mathematical understanding requires consciousness deserves focused treatment. Builds on limits of explanation, categorical surprise. See optimistic-2026-03-23-night.md
+- **Generated**: 2026-03-23
+
+### P3: Add cross-links from optimistic review 2026-03-23 night findings
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Five cross-linking opportunities identified: limits-of-parsimony↔consciousness-and-the-limits-of-explanation, categorical-surprise→consciousness-and-the-limits-of-explanation, alignment-in-objective-experiential-terms→moral-architecture-of-consciousness, methodological-pluralism↔altered-states-as-interface-evidence, what-consciousness-tells-us-about-physics↔collapse-and-the-arrow-of-time. See optimistic-2026-03-23-night.md
+- **Generated**: 2026-03-23
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Update references to coalesced consciousness-collapse articles
+- **Type**: cross-review
+- **Notes**: Coalesce merged consciousness-collapse-versus-decoherence-experiments and differential-predictions-consciousness-collapse into consciousness-collapse-experimental-landscape. The following files reference archived slugs and need wikilink updates: comparing-quantum-consciousness-mechanisms.md, experimental-design-for-consciousness-collapse-testing.md, consciousness-and-neurodegenerative-disease.md, arguments-against-materialism.md, non-retrocausal-conscious-selection-models.md. Also update highlights.md reference.
+- **Output**: None -- Context: Update references to coalesced consciousness-collapse articles
+
+### ✓ 2026-03-24: Integrate conservation-laws-mind-brain-causation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concepts article on the conservation law objection to mind-brain causation — a central challenge to Tenet 3 (Bidirectional Interaction). Add cross-references from mental-causation, causal-closure-debate-historical-survey, interactionist-dualism, and related physics-interface articles.
+- **Output**: conservation-laws-mind-brain-causation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-24: Integrate phenomenology-of-moral-deliberation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on the phenomenology of moral deliberation under dualism. Add cross-references from moral-phenomenology, consciousness-and-normative-force, phenomenology-of-agency-vs-passivity, and related ethics articles.
+- **Output**: phenomenology-of-moral-deliberation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-24: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-15 via expand-topic from research/dreams-problem-solving-lucid-dreaming-2026-02-06.md. Topics article on Konkoly et al. targeted memory reactivation evidence. Add cross-references from lucid-dreaming-and-dualist-rendering, consciousness-and-sleep, and related altered-states articles.
+- **Output**: dream-problem-solving-and-conscious-influence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-24: Cross-review perceptual-failure-and-the-interface.md considering perceptual-degradation-and-the-interface insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/perceptual-degradation-and-the-interface.md (created 2026-03-23) formalises graceful degradation and priority preservation patterns. perceptual-failure-and-the-interface.md (last modified 2026-03-14) predates the new concept page and examines overlapping phenomena (blindsight, qualia under stress). Ensure reciprocal cross-linking and consistent framing of degradation patterns.
+- **Output**: obsidian/topics/perceptual-failure-and-the-interface.md -- Context: Cross-review perceptual-failure-and-the-interface.md considering perceptual-degradation-and-the-interface insights
+
+### ✓ 2026-03-23: Cross-review capability-division-problem.md considering lucid-dreaming-and-dualist-rendering insights
+- **Type**: cross-review
+- **Notes**: Lucid-dreaming-and-dualist-rendering.md (updated 2026-03-20 via coalesce) provides concrete empirical evidence for the capability division problem — dreaming demonstrates mind-side rendering when brain-side sensory input is absent. capability-division-problem.md references dream-consciousness but not the lucid dreaming article. Add cross-links and integrate lucid dreaming evidence.
+- **Output**: obsidian/voids/capability-division-problem.md -- Context: Cross-review capability-division-problem.md considering lucid-dreaming-and-dualist-rendering insights
+
+### ✓ 2026-03-23: Cross-review biological-cognitive-closure.md considering adaptive-cognitive-limits insights
+- **Type**: cross-review
+- **Notes**: New article concepts/adaptive-cognitive-limits.md (created 2026-03-23) provides evidence that cognitive limits are fitness-optimised rather than defects. biological-cognitive-closure.md references cognitive-aversion and limits-reveal-structure but lacks reciprocal link to adaptive-cognitive-limits. Check for cross-links, reinforcing arguments about evolutionary design of cognition, and terminology consistency.
+- **Output**: obsidian/voids/biological-cognitive-closure.md -- Context: Cross-review biological-cognitive-closure.md considering adaptive-cognitive-limits insights
+
+### ✓ 2026-03-23: Update references to coalesced selection-laws article
+- **Type**: cross-review
+- **Notes**: Coalesce merged selection-laws.md into psychophysical-laws.md. The following active content files reference `[selection-laws](/concepts/psychophysical-laws/)` and may need review to update links to `[psychophysical-laws](/concepts/psychophysical-laws/)`: bandwidth-problem-mental-causation.md, mental-causation.md, quantum-consciousness.md, mind-matter-interface.md, bi-aspectual-ontology.md, bidirectional-interaction.md, downward-causation.md, consciousness-and-scientific-explanation.md, metaphysics-of-information-under-dualism.md, consciousness-and-causal-powers.md, mathematical-structure-of-the-consciousness-physics-interface.md, value-blind-vs-value-sensitive-selection.md, the-interface-specification-problem.md, valence-as-selection-currency.md, psychophysical-laws-bridging-mind-and-matter.md, consciousness-and-the-metaphysics-of-laws.md, consciousness-and-probability-interpretation.md, consciousness-and-the-philosophy-of-biology.md, the-psychophysical-control-law.md, epistemology-of-mechanism-at-the-consciousness-matter-interface.md
+- **Output**: None -- Context: Update references to coalesced selection-laws article
 
 ### ✓ 2026-03-23: Deep review selective-correction-and-reconstruction-paradox.md
 - **Type**: deep-review

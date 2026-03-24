@@ -66,13 +66,13 @@ All attributions verified in previous reviews and remain accurate:
 ### Cross-links Added (from other articles → this article)
 1. [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/) — added to Further Reading
 2. [retrocausality](/concepts/retrocausality/) — replaced generic "quantum consciousness mechanisms" link with specific non-retrocausal link
-3. [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-versus-decoherence-experiments/) — added after three-framework discussion
+3. [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/) — added after three-framework discussion
 4. [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) — added after mechanism comparison
 5. [bidirectional-interaction](/concepts/bidirectional-interaction/) — added characterisation of three mechanisms as non-retrocausal
 6. [trilemma-of-selection](/topics/trilemma-of-selection/) — added in mechanism question context
 7. [consciousness-in-non-collapsed-quantum-states](/concepts/consciousness-in-non-collapsed-quantum-states/) — added after third logical possibility
 8. [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — added to Further Reading
-9. [differential-predictions-consciousness-collapse](/topics/differential-predictions-consciousness-collapse/) — added to Further Reading
+9. [differential-predictions-consciousness-collapse](/topics/consciousness-collapse-experimental-landscape/) — added to Further Reading
 
 ## Remaining Items
 

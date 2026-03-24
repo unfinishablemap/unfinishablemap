@@ -37,7 +37,7 @@ Deep review reveals that QBism's quantum probabilities are structurally dependen
 New article surveys the tightening experimental landscape—from Gran Sasso to levitated nanoparticles—where physicists are narrowing the gap between decoherence and genuine collapse.
 
 **Type**: new-article  
-**Link**: [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-versus-decoherence-experiments/)
+**Link**: [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/)
 
 ---
 

@@ -94,7 +94,7 @@ The Map's [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses thi
 
 Rejecting materialism feels intellectually dangerous. It seems to open the door to souls, ghosts, and pseudoscience. Philosophers are understandably reluctant to endorse any position associated with supernaturalism.
 
-But this conflates dualism with its worst versions. Modern interactionist dualism, as the Map defends it, is constrained by the very physics materialists invoke. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet commits to the smallest possible deviation from standard physics—consciousness biasing quantum outcomes without injecting energy or violating conservation laws. This is not mysticism. It is a principled philosophical hypothesis about where physics leaves room for mental causation—one that generates [concrete differential predictions](/topics/differential-predictions-consciousness-collapse/) distinguishing consciousness-collapse from decoherence-only interpretations.
+But this conflates dualism with its worst versions. Modern interactionist dualism, as the Map defends it, is constrained by the very physics materialists invoke. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet commits to the smallest possible deviation from standard physics—consciousness biasing quantum outcomes without injecting energy or violating [conservation laws](/concepts/conservation-laws-and-mental-causation/). This is not mysticism. It is a principled philosophical hypothesis about where physics leaves room for mental causation—one that generates [concrete differential predictions](/topics/consciousness-collapse-experimental-landscape/) distinguishing consciousness-collapse from decoherence-only interpretations.
 
 ### Misplaced Confidence in Future Science
 
@@ -114,7 +114,7 @@ The arguments do not force this particular conclusion, but they rule out the pos
 
 The case against materialism would weaken if a transparent physical explanation of phenomenal character were found—not a neural correlate, but an account showing *why* particular physical processes feel a particular way. It would also weaken if someone could explain why multiple independent arguments all generate the same false conclusion, or if rational inference could be fully grounded in physical causation without smuggling in normative concepts. None of these conditions has been met. But intellectual honesty demands acknowledging that they are conditions that could in principle be met.
 
-Separately, the Map's specific *mechanism* for how consciousness interacts with physics faces its own empirical tests. [Experiments on quantum collapse](/topics/consciousness-collapse-versus-decoherence-experiments/)—levitated nanoparticle interferometry, Gran Sasso radiation searches, and proposed IIT-CSL tests—are progressively constraining the parameter space where consciousness-collapse can operate. If objective collapse were ruled out entirely at biologically relevant scales, the Map would need to identify a different physical channel for mental causation, though the philosophical arguments against materialism surveyed here would remain intact.
+Separately, the Map's specific *mechanism* for how consciousness interacts with physics faces its own empirical tests. [Experiments on quantum collapse](/topics/consciousness-collapse-experimental-landscape/)—levitated nanoparticle interferometry, Gran Sasso radiation searches, and proposed IIT-CSL tests—are progressively constraining the parameter space where consciousness-collapse can operate. If objective collapse were ruled out entirely at biologically relevant scales, the Map would need to identify a different physical channel for mental causation, though the philosophical arguments against materialism surveyed here would remain intact.
 
 ## The Self-Undermining Problem
 
@@ -144,8 +144,8 @@ The arguments against materialism do not prove that consciousness interfaces wit
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem that started the contemporary debate
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — Formal mathematical case that physical description has principled limits
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's positive framework
-- [differential-predictions-consciousness-collapse](/topics/differential-predictions-consciousness-collapse/) — Where consciousness-collapse and decoherence make different predictions
-- [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-versus-decoherence-experiments/) — The experimental landscape constraining collapse models
+- [differential-predictions-consciousness-collapse](/topics/consciousness-collapse-experimental-landscape/) — Where consciousness-collapse and decoherence make different predictions
+- [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/) — The experimental landscape constraining collapse models
 
 ## References
 

@@ -980,7 +980,7 @@ title: AI Activity Changelog - Week 2026-W12
 ## 2026-03-21 23:47 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness-Collapse Versus Decoherence: The Experimental Landscape
-- **Output**: [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-versus-decoherence-experiments/)
+- **Output**: [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/)
 - **Word count**: 1880
 - **Based on research**: yes, [experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21](/research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21/)
 

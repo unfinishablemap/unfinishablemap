@@ -74,7 +74,7 @@ The FBT theorem has faced several lines of criticism.
 The FBT theorem does not stand alone. Several independent lines of research converge on the conclusion that cognitive systems are optimised for something other than truth:
 
 - Gerd Gigerenzer's **ecological rationality** programme identifies "less-is-more" effects where systematically ignoring available information yields better decisions. The cognitive system performs better by *not* representing reality fully.
-- Field, Lachmann, and Bergstrom (2018) prove formally that the **reproductive value of information can be negative**—organisms that remain ignorant sometimes have higher fitness than those that acquire information.
+- Field and Bonsall (2018) prove formally that the **reproductive value of information can be negative**—organisms that remain ignorant sometimes have higher fitness than those that acquire information.
 - Robert Trivers argues that **self-deception** evolved to facilitate social deception: "we deceive ourselves the better to deceive others" (Trivers & von Hippel 2011). Some truths are actively hidden from consciousness because knowing them would compromise social strategies.
 
 Together with the FBT theorem, these results establish that evolved cognitive systems are shaped to be selectively ignorant, not comprehensively informed.
@@ -101,6 +101,6 @@ For **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**, the FBT
 1. Hoffman, D. D., Singh, M., & Prakash, C. (2015). The Interface Theory of Perception. *Psychonomic Bulletin & Review*, 22(6), 1480-1506.
 2. Prakash, C., Stephens, K. D., Hoffman, D. D., Singh, M., & Fields, C. (2021). Fitness Beats Truth in the Evolution of Perception. *Psychonomic Bulletin & Review*, 28, 1-17.
 3. Gigerenzer, G., & Todd, P. M. (2012). *Ecological Rationality: Intelligence in the World*. Oxford University Press.
-4. Field, M. H., Lachmann, M., & Bergstrom, C. T. (2018). Ignorance can be evolutionarily beneficial. *Ecology and Evolution*, 8(2), 1352-1359.
+4. Field, J. M., & Bonsall, M. B. (2018). Ignorance can be evolutionarily beneficial. *Ecology and Evolution*, 8(1), 71-77.
 5. Trivers, R., & von Hippel, W. (2011). The evolution and psychology of self-deception. *Behavioral and Brain Sciences*, 34(1), 1-16.
 6. Southgate, A. & Oquatre-six, C. (2026-01-28). Evolved Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/evolved-cognitive-limits/

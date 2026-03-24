@@ -60,7 +60,7 @@ These objections pushed many philosophers toward alternatives: parallelism, [epi
 
 Modern substance dualists have resources unavailable to Descartes:
 
-**Quantum mechanics** provides openings where conservation laws don't rule out mental causation. At quantum indeterminacies, physics specifies probabilities but not outcomes. Consciousness could select among possibilities without injecting energy—which aligns with the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet.
+**Quantum mechanics** provides openings where conservation laws don't rule out mental causation. At quantum indeterminacies, physics specifies probabilities but not outcomes. Consciousness could select among possibilities without injecting energy (see [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/))—which aligns with the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet.
 
 **Naturalistic substance dualism** (E.J. Lowe, Dean Zimmerman) accepts that mental substances are part of the natural world, just not part of the physical world as physics describes it. This avoids the Cartesian separation between nature and mind while preserving genuine ontological distinctness.
 

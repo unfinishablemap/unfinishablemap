@@ -44,7 +44,7 @@ None. Article remains stable after 4th review. Recent refinements (convergence d
 ### Medium Issues Found
 
 1. **Missing cross-link to differential predictions**: The "Fear of the Alternative" section mentioned testable quantum interaction but didn't point to the concrete predictions now cataloged on the Map.
-   - **Resolution**: Added cross-link to [differential-predictions-consciousness-collapse](/topics/differential-predictions-consciousness-collapse/) showing the hypothesis generates concrete differential predictions.
+   - **Resolution**: Added cross-link to [differential-predictions-consciousness-collapse](/topics/consciousness-collapse-experimental-landscape/) showing the hypothesis generates concrete differential predictions.
 
 2. **Missing empirical testability in "What Would Challenge This View?"**: This section listed philosophical conditions but not the empirical tests bearing on the Map's specific mechanism.
    - **Resolution**: Added paragraph noting quantum collapse experiments (levitated nanoparticles, Gran Sasso, IIT-CSL) and clarifying that ruling out objective collapse would challenge the mechanism without undermining the philosophical arguments.
@@ -87,8 +87,8 @@ All major counterarguments remain adequately treated from previous reviews. The 
 
 ### Cross-links Added
 
-- [differential-predictions-consciousness-collapse](/topics/differential-predictions-consciousness-collapse/) (in Fear of the Alternative, Further Reading, related_articles)
-- [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-versus-decoherence-experiments/) (in What Would Challenge This View?, Further Reading, related_articles)
+- [differential-predictions-consciousness-collapse](/topics/consciousness-collapse-experimental-landscape/) (in Fear of the Alternative, Further Reading, related_articles)
+- [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/) (in What Would Challenge This View?, Further Reading, related_articles)
 
 ### Effective Patterns
 

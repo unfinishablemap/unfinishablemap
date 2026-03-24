@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-03-22
 **Article**: [Comparing Quantum Consciousness Mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
 **Previous review**: [2026-03-19](/reviews/deep-review-2026-03-19b-comparing-quantum-consciousness-mechanisms/)
-**Context**: Cross-review considering [Consciousness-Collapse Versus Decoherence: The Experimental Landscape](/topics/consciousness-collapse-versus-decoherence-experiments/)
+**Context**: Cross-review considering [Consciousness-Collapse Versus Decoherence: The Experimental Landscape](/topics/consciousness-collapse-experimental-landscape/)
 
 ## Context
 
@@ -57,12 +57,12 @@ No new philosophical issues. All bedrock disagreements from previous reviews rem
 
 ### Enhancements Made
 
-- Added cross-link to [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-versus-decoherence-experiments/) in falsifiability gap paragraph, related_articles, and Further Reading
+- Added cross-link to [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/) in falsifiability gap paragraph, related_articles, and Further Reading
 - Tightened prose throughout for length neutrality (~30 words trimmed from various sections)
 
 ### Cross-links Added
 
-- [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-versus-decoherence-experiments/)
+- [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/)
 
 ## Word Count
 

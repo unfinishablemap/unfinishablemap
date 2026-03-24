@@ -149,7 +149,7 @@ The interface view does not require sustained coherence. It requires only that c
 
 ## Conservation Laws and Selection
 
-The selection-versus-injection distinction dissolves the energy conservation objection to mental causation. When consciousness selects among outcomes that quantum mechanics already permits, it doesn't add energy—the possible outcomes are already present in the superposition. The Born rule's probability distribution describes energetically-equivalent possibilities; selecting among them respects conservation laws, aligning with the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet.
+The selection-versus-injection distinction dissolves the [energy conservation objection](/concepts/conservation-laws-and-mental-causation/) to mental causation. When consciousness selects among outcomes that quantum mechanics already permits, it doesn't add energy—the possible outcomes are already present in the superposition. The Born rule's probability distribution describes energetically-equivalent possibilities; selecting among them respects conservation laws, aligning with the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet.
 
 ## The Illusionist Challenge
 

@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-03-23
-**Article**: [Differential Predictions: Where Consciousness-Collapse and Decoherence Diverge](/topics/differential-predictions-consciousness-collapse/)
+**Article**: [Differential Predictions: Where Consciousness-Collapse and Decoherence Diverge](/topics/consciousness-collapse-experimental-landscape/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

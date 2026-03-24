@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-03-22 17:02:00+00:00
+ai_modified: 2026-03-24 00:13:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,7 +31,7 @@ description: Mental states defined by causal roles, not substrate. Absent qualia
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-28 01:46:00+00:00
+last_deep_review: 2026-03-24 00:13:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,7 +67,7 @@ This seems to follow from common sense. We attribute pain to dogs without demand
 
 [Predictive processing (PP)](/concepts/predictive-processing/) describes the brain as continuously generating predictions about incoming sensory information. Anil Seth calls perception "controlled hallucination"—the brain's best hypothesis constrained by sensory feedback.
 
-But PP inherits functionalism's core limitation: explaining *that* perception is constructive doesn't explain *why* the construction is conscious. A weather-prediction system constructs models without experiencing anything. PP proponents acknowledge this: the free energy principle "makes no claims about subjective experience."
+But PP inherits functionalism's core limitation: explaining *that* perception is constructive doesn't explain *why* the construction is conscious. A weather-prediction system constructs models without experiencing anything. PP proponents acknowledge this: the free energy principle, as typically formulated, makes no claims about subjective experience.
 
 ### Global Workspace Theory
 
@@ -95,9 +95,9 @@ Functionalists reply that the *system*—person plus rules plus room—understan
 
 The deepest objection to functionalism concerns [qualia](/concepts/qualia/)—the qualitative character of experience. Two thought experiments challenge it:
 
-**Inverted qualia**: Your "red" experience produces the same functional state as my "green" experience. Our behavior is identical, but our experiences differ.
+**[Inverted qualia](/concepts/inverted-qualia/)**: Your "red" experience produces the same functional state as my "green" experience. Our behavior is identical, but our experiences differ.
 
-**Absent qualia**: A philosophical "zombie" functionally identical to you but with no experience at all—acts like it's in pain, believes it's in pain, feels nothing.
+**Absent qualia**: A [philosophical zombie](/concepts/philosophical-zombies/) functionally identical to you but with no experience at all—acts like it's in pain, believes it's in pain, feels nothing.
 
 If either is possible, functionalism is false: mental states have qualitative character not captured by functional role. See [Against Functionalism](/arguments/functionalism-argument/) for the full argument.
 
@@ -133,6 +133,20 @@ David Chalmers frames the issue: we can explain the "easy problems" of conscious
 
 This doesn't prove functionalism wrong. It might be that once you have the right functional organization, experience necessarily comes along. But the necessity would be brute—we couldn't explain why it happens, only describe that it does. This is where [mysterianism](/concepts/mysterianism/) gains traction: perhaps the connection between function and experience lies beyond human cognitive capacity to understand.
 
+## Functionalism's Appeal
+
+Why does anyone accept functionalism, given these objections?
+
+**Common-sense attribution**: We routinely attribute mental states based on behavior and context. Functionalism systematizes this.
+
+**Multiple realizability**: The same mental state in humans and octopuses can't be the same physical state. Functionalism explains how.
+
+**Scientific tractability**: Functional description lets us study cognition without solving metaphysics.
+
+**Avoiding Chauvinism**: Requiring human neurology for consciousness seems arbitrary.
+
+The Map's response: the substrate matters because consciousness involves something non-physical requiring appropriate physical conditions—not just any substrate implementing the right function, but one that can interface with whatever non-physical reality consciousness involves.
+
 ## Relation to Site Perspective
 
 The Map rejects functionalism on multiple grounds:
@@ -163,20 +177,6 @@ The debate may be empirically tractable:
 
 The positions make different predictions about what we'll find.
 
-## Functionalism's Appeal
-
-Why does anyone accept functionalism, given these objections?
-
-**Common-sense attribution**: We routinely attribute mental states based on behavior and context. Functionalism systematizes this.
-
-**Multiple realizability**: The same mental state in humans and octopuses can't be the same physical state. Functionalism explains how.
-
-**Scientific tractability**: Functional description lets us study cognition without solving metaphysics.
-
-**Avoiding Chauvinism**: Requiring human neurology for consciousness seems arbitrary.
-
-The Map's response: the substrate matters because consciousness involves something non-physical requiring appropriate physical conditions—not just any substrate implementing the right function, but one that can interface with whatever non-physical reality consciousness involves.
-
 ## Further Reading
 
 - [dualism](/concepts/dualism/) — The convergence of arguments against physicalism
@@ -202,6 +202,7 @@ The Map's response: the substrate matters because consciousness involves somethi
 ## References
 
 1. Block, N. (1978). "Troubles with Functionalism." *Minnesota Studies in the Philosophy of Science*, 9, 261-325.
+1. Block, N. (1995). "On a Confusion about a Function of Consciousness." *Behavioral and Brain Sciences*, 18(2), 227-247.
 1. Boisseau, R.P., Vogel, D. & Dussutour, A. (2016). "Habituation in non-neural organisms: evidence from slime moulds." *Proceedings of the Royal Society B*, 283(1829), 20160446.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 1. Craddock, T.J.A., et al. (2017). "Anesthetic Alterations of Collective Terahertz Oscillations in Tubulin Correlate with Clinical Potency." *Scientific Reports*, 7, 9877.

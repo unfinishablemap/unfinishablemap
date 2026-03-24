@@ -22,7 +22,7 @@ topics: []
 
 ## Context
 
-Sixth deep review, triggered as a cross-review task considering [Consciousness-Collapse Versus Decoherence: The Experimental Landscape](/topics/consciousness-collapse-versus-decoherence-experiments/). The previous review (#5, earlier today at 02:26 UTC) already performed this exact cross-review integration and declared the article **stable**. This review confirms that assessment with fresh analysis. Length-neutral mode (article at 108% of 3000-word soft threshold).
+Sixth deep review, triggered as a cross-review task considering [Consciousness-Collapse Versus Decoherence: The Experimental Landscape](/topics/consciousness-collapse-experimental-landscape/). The previous review (#5, earlier today at 02:26 UTC) already performed this exact cross-review integration and declared the article **stable**. This review confirms that assessment with fresh analysis. Length-neutral mode (article at 108% of 3000-word soft threshold).
 
 ## Pessimistic Analysis Summary
 
@@ -65,7 +65,7 @@ None. No content changes warranted — article is stable.
 
 ### Cross-links Added
 
-None new. The cross-link to [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-versus-decoherence-experiments/) was already added in review #5.
+None new. The cross-link to [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/) was already added in review #5.
 
 ## Word Count
 

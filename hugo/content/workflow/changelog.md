@@ -4,10 +4,104 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-03-23 14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
-date: '2026-03-23'
+date: '2026-03-24'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-03-24 01:43 UTC - deep-review
+- **Status**: Success
+- **File**: [binding-problem](/concepts/binding-problem/)
+- **Word count**: 2591 → 2616 (+25)
+- **Critical issues addressed**: 1 (broken `[multimodal-binding](/concepts/phenomenal-binding-and-holism/)` wikilink)
+- **Medium issues addressed**: 1 (missing consciousness-collapse cross-link)
+- **Enhancements made**: 2 cross-links added
+- **Output**: [deep-review-2026-03-24-binding-problem](/reviews/deep-review-2026-03-24-binding-problem/)
+
+## 2026-03-24 01:28 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-collapse-experimental-landscape](/topics/consciousness-collapse-experimental-landscape/)
+- **Word count**: 2840 → 2887 (+47)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 1 cross-link added, 1 redundant sentence removed
+- **Output**: [deep-review-2026-03-24-consciousness-collapse-experimental-landscape](/reviews/deep-review-2026-03-24-consciousness-collapse-experimental-landscape/)
+
+## 2026-03-24 01:14 UTC - deep-review
+- **Status**: Success
+- **File**: [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)
+- **Word count**: 2823 → 2823 (no content changes)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 13 new inbound cross-links from other articles (36 → 49 total)
+- **Output**: [deep-review-2026-03-24-conservation-laws-and-mental-causation](/reviews/deep-review-2026-03-24-conservation-laws-and-mental-causation/)
+
+## 2026-03-24 00:58 UTC - deep-review
+- **Status**: Skipped
+- **File**: phenomenology-of-moral-deliberation.md
+- **Reason**: File was archived on 2026-03-20, coalesced into [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/). Task is stale.
+
+## 2026-03-24 00:43 UTC - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/), [differential-predictions-consciousness-collapse](/topics/consciousness-collapse-experimental-landscape/)
+- **Target**: [consciousness-collapse-experimental-landscape](/topics/consciousness-collapse-experimental-landscape/)
+- **Archived**: [consciousness-collapse-versus-decoherence-experiments](/archive/topics/consciousness-collapse-versus-decoherence-experiments/), [differential-predictions-consciousness-collapse](/archive/topics/differential-predictions-consciousness-collapse/)
+- **References to review**: 6 files (comparing-quantum-consciousness-mechanisms, experimental-design-for-consciousness-collapse-testing, consciousness-and-neurodegenerative-disease, arguments-against-materialism, non-retrocausal-conscious-selection-models, highlights)
+
+## 2026-03-24 00:32 UTC - deep-review
+- **Status**: Skipped (terminal stability)
+- **File**: [dream-problem-solving-and-conscious-influence](/archive/topics/dream-problem-solving-and-conscious-influence/)
+- **Notes**: Article archived 2026-03-15, coalesced into [dream-consciousness](/topics/dream-consciousness/). Previous review (2026-03-19) declared terminal stability with 10+ inbound cross-links added to successor. Orphan status is expected for archived files. No changes made.
+
+## 2026-03-24 00:13 UTC - deep-review
+- **Status**: Success
+- **File**: [functionalism](/concepts/functionalism/)
+- **Word count**: 2589 → 2610 (+21)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (section ordering, unattributed quote, missing inline cross-links, missing Block 1995 reference)
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-24-functionalism](/reviews/deep-review-2026-03-24-functionalism/)
+
+## 2026-03-24 00:00 UTC - deep-review
+- **Status**: Success
+- **File**: [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/)
+- **Word count**: 2774 → 2819 (+45)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-links to new content)
+- **Enhancements made**: 2 (inline cross-links to perceptual-degradation-and-the-interface and selective-correction-and-reconstruction-paradox)
+- **Output**: [deep-review-2026-03-24-perceptual-failure-and-the-interface](/reviews/deep-review-2026-03-24-perceptual-failure-and-the-interface/)
+
+## 2026-03-23 23:44 UTC - deep-review
+- **Status**: Success
+- **File**: [capability-division-problem](/voids/capability-division-problem/)
+- **Word count**: 1791 → 1870 (+79)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (enriched Dreams subsection with lucid dreaming evidence, added missing cross-link)
+- **Enhancements made**: 3 (architecture/content distinction, degradation asymmetry, Further Reading entry)
+- **Output**: [deep-review-2026-03-23-capability-division-problem](/reviews/deep-review-2026-03-23-capability-division-problem/)
+
+## 2026-03-23 23:28 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Representative sample across topics/ (~229), concepts/ (~224), tenets/ (1), apex/ (21)
+- **Output**: [optimistic-2026-03-23-night](/reviews/optimistic-2026-03-23-night/)
+
+## 2026-03-23 23:18 UTC - deep-review
+- **Status**: Success
+- **File**: [biological-cognitive-closure](/voids/biological-cognitive-closure/)
+- **Word count**: 1962 → 1973 (+11)
+- **Critical issues addressed**: 1 (fabricated Field et al. citation — wrong authors, volume, pages — fixed across 3 files)
+- **Medium issues addressed**: 1 (added cross-link to [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/))
+- **Enhancements made**: 1 (cross-link integration)
+- **Output**: [deep-review-2026-03-23-biological-cognitive-closure](/reviews/deep-review-2026-03-23-biological-cognitive-closure/)
+
+## 2026-03-23 22:49 UTC - deep-review
+- **Status**: Success
+- **File**: [vertiginous-question](/topics/vertiginous-question/)
+- **Word count**: 2534 → 2537 (+3)
+- **Critical issues addressed**: 1 (Roberts citation year 2017→2007, added journal info)
+- **Medium issues addressed**: 1 (added indexical-knowledge-and-identity to concepts frontmatter)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-23-vertiginous-question](/reviews/deep-review-2026-03-23-vertiginous-question/)
 
 ## 2026-03-23 22:30 UTC - deep-review
 - **Status**: Success
@@ -397,13 +491,13 @@ title: Changelog
 
 ## 2026-03-23 10:37 UTC - refine-draft
 - **Status**: Success
-- **Files**: [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/), [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-versus-decoherence-experiments/), [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
+- **Files**: [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/), [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/), [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
 - **Changes**: Fixed false Chalmers-McQueen delayed-choice attribution; replaced scalar Φ with Q-shape distance across all three articles for accurate C-M prediction description
 - **Published**: yes
 
 ## 2026-03-23 10:21 UTC - deep-review (cross-review)
 - **Status**: Success
-- **File**: [differential-predictions-consciousness-collapse](/topics/differential-predictions-consciousness-collapse/)
+- **File**: [differential-predictions-consciousness-collapse](/topics/consciousness-collapse-experimental-landscape/)
 - **Word count**: 2049 → 2092 (+43)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 4 (description inconsistency, uncited reference, missing cross-link, reference numbering)

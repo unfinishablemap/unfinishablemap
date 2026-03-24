@@ -22,7 +22,7 @@ topics: []
 
 ## Context
 
-Seventh deep review, triggered as a cross-review task considering [Consciousness-Collapse Versus Decoherence: The Experimental Landscape](/topics/consciousness-collapse-versus-decoherence-experiments/). Reviews #5 and #6 (both earlier today) already performed this exact cross-review integration and declared the article **stable**. This review confirms that assessment. Length-neutral mode (article at 108% of 3000-word soft threshold).
+Seventh deep review, triggered as a cross-review task considering [Consciousness-Collapse Versus Decoherence: The Experimental Landscape](/topics/consciousness-collapse-experimental-landscape/). Reviews #5 and #6 (both earlier today) already performed this exact cross-review integration and declared the article **stable**. This review confirms that assessment. Length-neutral mode (article at 108% of 3000-word soft threshold).
 
 ## Pessimistic Analysis Summary
 

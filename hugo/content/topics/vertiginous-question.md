@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-03-23 18:44:00+00:00
+ai_modified: 2026-03-23 22:49:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,6 +13,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[moral-responsibility]]'
 - '[[process-haecceitism]]'
+- '[[indexical-knowledge-and-identity]]'
 created: 2026-01-26
 date: &id001 2026-02-25
 description: Why, of all conscious beings, am *I* this one? The vertiginous question
@@ -20,7 +21,7 @@ description: Why, of all conscious beings, am *I* this one? The vertiginous ques
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-25 06:12:00+00:00
+last_deep_review: 2026-03-23 22:49:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -159,5 +160,5 @@ The vertiginous question connects to all five tenets:
 1. Adams, R. M. (1979). "Primitive Thisness and Primitive Identity." *Journal of Philosophy*, 76(1), 5-26.
 1. Hellie, B. (2013). "Against Egalitarianism." *Analysis*, 73(2), 304-320.
 1. List, C. (2023). "The Many-Worlds Theory of Consciousness." *Noûs*, 57(2), 316-340.
-1. Roberts, T. S. (2017). "The Even Harder Problem of Consciousness."
+1. Roberts, T. S. (2007). "The Even Harder Problem of Consciousness." *NeuroQuantology*, 5(2), 214-221.
 1. Scotus, J. D. *Ordinatio* II, d.3. (c. 1300).

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-03-23 14:52:00+00:00
+ai_modified: 2026-03-23 23:18:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ description: 'Human cognitive limits have biological origins: evolution selects 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-23 23:18:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -48,6 +48,7 @@ related_articles:
 - '[[consciousness-interface-development]]'
 - '[[recognition-void]]'
 - '[[self-transcendence-void]]'
+- '[[adaptive-cognitive-limits]]'
 title: Biological Cognitive Closure
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -83,7 +84,7 @@ The space of *possible* concepts almost certainly exceeds the space of *human-ac
 
 ## Why Limits Are Adaptive
 
-Convergent limits could be *architectural* (inherent to any mind structured as ours) or *adaptive* (maintained by selection because ignorance conferred fitness advantage). Both appear cross-culturally.
+Convergent limits could be *architectural* (inherent to any mind structured as ours) or *adaptive* (maintained by selection because ignorance conferred fitness advantage — see [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/)). Both appear cross-culturally.
 
 ### The Fitness-Beats-Truth Theorem
 
@@ -91,7 +92,7 @@ Hoffman, Singh, and Prakash's Fitness-Beats-Truth theorem proves mathematically 
 
 ### Adaptive Limitation Beyond Perception
 
-The FBT theorem addresses perception, but adaptive limits extend further. Gigerenzer's ecological rationality identifies "less-is-more" effects where ignoring available information leads to better decisions. Trivers argues self-deception evolved to facilitate interpersonal deception — some truths are actively hidden from consciousness. Field, Lachmann, and Bergstrom (2018) prove formally that information's reproductive value can become negative: remaining ignorant sometimes yields higher fitness.
+The FBT theorem addresses perception, but adaptive limits extend further. Gigerenzer's ecological rationality identifies "less-is-more" effects where ignoring available information leads to better decisions. Trivers argues self-deception evolved to facilitate interpersonal deception — some truths are actively hidden from consciousness. Field and Bonsall (2018) prove formally that information's reproductive value can become negative: remaining ignorant sometimes yields higher fitness.
 
 ## Developmental Limits: What Growing Up Closes
 
@@ -158,6 +159,7 @@ The bootstrapping problem remains: if philosophical intuitions are fitness-shape
 - [mysterianism](/concepts/mysterianism/) — McGinn's formal analysis of cognitive closure
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The fundamental void taxonomy
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
+- [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/) — Why evolution maintains ignorance as a fitness advantage
 - [consciousness-interface-development](/topics/consciousness-interface-development/) — How the mind-matter interface changes through maturation
 
 ## References
@@ -166,7 +168,7 @@ The bootstrapping problem remains: if philosophical intuitions are fitness-shape
 2. Prakash, C., Stephens, K. D., Hoffman, D. D., Singh, M., & Fields, C. (2021). Fitness Beats Truth in the Evolution of Perception. *Psychonomic Bulletin & Review*, 28, 1-17.
 3. Gigerenzer, G., & Todd, P. M. (2012). *Ecological Rationality: Intelligence in the World*. Oxford University Press.
 4. Trivers, R., & von Hippel, W. (2011). The evolution and psychology of self-deception. *Behavioral and Brain Sciences*, 34(1), 1-16.
-5. Field, M. H., Lachmann, M., & Bergstrom, C. T. (2018). Ignorance can be evolutionarily beneficial. *Ecology and Evolution*, 8(2), 1352-1359.
+5. Field, J. M., & Bonsall, M. B. (2018). Ignorance can be evolutionarily beneficial. *Ecology and Evolution*, 8(1), 71-77.
 6. McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.
 7. Henrich, J., Heine, S. J., & Norenzayan, A. (2010). The weirdest people in the world? *Behavioral and Brain Sciences*, 33(2-3), 61-83.
 8. Pronin, E., & Hazel, L. (2023). Humans' Bias Blind Spot and Its Societal Significance. *Current Directions in Psychological Science*.

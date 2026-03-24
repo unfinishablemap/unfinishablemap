@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-03-14 00:24:00+00:00
+ai_modified: 2026-03-24 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -22,6 +22,8 @@ concepts:
 - '[[altered-states-of-consciousness]]'
 - '[[default-mode-network]]'
 - '[[causal-closure]]'
+- '[[perceptual-degradation-and-the-interface]]'
+- '[[selective-correction-and-reconstruction-paradox]]'
 created: 2026-03-09
 date: &id001 2026-03-14
 description: 'Perceptual degradation reveals the consciousness-brain interface: its
@@ -29,7 +31,7 @@ description: 'Perceptual degradation reveals the consciousness-brain interface: 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-14 00:24:00+00:00
+last_deep_review: 2026-03-24 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -42,6 +44,8 @@ related_articles:
 - '[[visual-consciousness]]'
 - '[[disorders-of-consciousness-as-test-cases]]'
 - '[[hypnagogic-phenomenology-and-interface-modulation]]'
+- '[[perceptual-degradation-and-the-interface]]'
+- '[[selective-correction-and-reconstruction-paradox]]'
 title: Perceptual Failure and the Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -76,7 +80,7 @@ If consciousness merely *accessed* neural representations—reading them the way
 
 This is not what happens. Perceptual degradation is overwhelmingly graded, partial, and compensated. Vision blurs before it disappears. Colour desaturates before it vanishes. Object recognition degrades through stages of increasing vagueness rather than switching off. Ian Phillips has argued that even [blindsight](/concepts/blindsight/)—long treated as the paradigm case of unconscious perception—is better understood as "qualitatively degraded conscious vision" where subjects retain dim, impoverished experience but adopt conservative reporting criteria (Phillips, 2021).
 
-These patterns suggest a different model: consciousness receives perceptual information through a *transmission channel* with finite bandwidth. When the channel degrades, information is progressively lost rather than categorically eliminated. The analogy is closer to a deteriorating radio signal than to a corrupted hard drive. Static increases, resolution drops, signal fades—but something continues to come through until the channel fails entirely.
+These patterns suggest a different model: consciousness receives perceptual information through a *transmission channel* with finite bandwidth. (The concept of [perceptual degradation and the interface](/concepts/perceptual-degradation-and-the-interface/) formalises these failure signatures.) When the channel degrades, information is progressively lost rather than categorically eliminated. The analogy is closer to a deteriorating radio signal than to a corrupted hard drive. Static increases, resolution drops, signal fades—but something continues to come through until the channel fails entirely.
 
 ## Bandwidth Signatures
 
@@ -86,7 +90,7 @@ Several features of perceptual degradation are consistent with bandwidth limitat
 
 **Priority preservation.** When bandwidth is constrained, not all information is lost equally. High-contrast edges persist when fine texture is gone. Motion detection survives when colour discrimination fails. Faces remain recognisable after background detail becomes unreadable. This pattern is consistent with a channel that prioritises certain information—perhaps the information most relevant to the interface's function of enabling consciousness to act on the physical world. An [attentional](/concepts/attention-as-interface/) mechanism may govern which information crosses the interface first. A mere read-off of neural states would degrade according to which neurons are damaged; a bandwidth-limited channel degrades according to how information is *prioritised for transmission*.
 
-**Compensatory phenomena.** Degraded perception is not simply impoverished—it often generates novel phenomenal content. Eigengrau (the dark gray seen in complete darkness) and phosphenes (light percepts generated without external light) show the visual system producing experience at zero input. Charles Bonnet syndrome generates vivid visual hallucinations in people with deteriorating vision—the interface appears to fill gaps with internally generated content when external signal drops below a threshold. Similar compensatory generation occurs during [hypnagogic transitions](/topics/hypnagogic-phenomenology-and-interface-modulation/), where the interface produces structured imagery as sensory channels disengage sequentially. These phenomena suggest a system that actively maintains a phenomenal field rather than passively relaying whatever arrives.
+**Compensatory phenomena.** Degraded perception is not simply impoverished—it often generates novel phenomenal content. Eigengrau (the dark gray seen in complete darkness) and phosphenes (light percepts generated without external light) show the visual system producing experience at zero input. Charles Bonnet syndrome generates vivid visual hallucinations in people with deteriorating vision—the interface appears to fill gaps with internally generated content when external signal drops below a threshold. Similar compensatory generation occurs during [hypnagogic transitions](/topics/hypnagogic-phenomenology-and-interface-modulation/), where the interface produces structured imagery as sensory channels disengage sequentially. These phenomena suggest a system that actively maintains a phenomenal field rather than passively relaying whatever arrives. The [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) sharpens this point: the brain silently corrects some perceptual errors while faithfully transmitting others to consciousness, an asymmetry that presupposes a recipient whose experience the curation shapes.
 
 ## The Neural Network Objection
 
@@ -142,6 +146,8 @@ The bandwidth model accommodates this directly. A transmission channel with fini
 - [visual-consciousness](/concepts/visual-consciousness/)
 - [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/)
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/)
+- [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/)
+- [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)
 
 ## References
 

@@ -71,7 +71,7 @@ Sorkin (1994) demonstrated that the Born rule implies the absence of third-order
 
 ### 5. Conservation Law Compatibility
 
-The coupling map must not inject energy, momentum, or any conserved quantity into the physical system. Selection among equiprobable quantum outcomes — biasing which of several equally likely results becomes actual — requires no energy transfer. This is the formal basis for the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness acts only where physics is genuinely underdetermined, adding information without adding energy.
+The coupling map must not inject energy, momentum, or any conserved quantity into the physical system (see [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) for the full philosophical argument). Selection among equiprobable quantum outcomes — biasing which of several equally likely results becomes actual — requires no energy transfer. This is the formal basis for the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness acts only where physics is genuinely underdetermined, adding information without adding energy.
 
 Together, these five constraints define what the [mathematical corridor](/topics/mathematical-structure-of-the-consciousness-physics-interface/) article calls the narrow space through which any consciousness-physics interaction must pass. Beyond these formal bounds, empirical evidence adds a sixth practical constraint: the [~10 bits/second bandwidth](/concepts/bandwidth-problem-mental-causation/) of conscious processing limits how much information C can inject per unit time, making the coupling not only mathematically minimal but informationally sparse.
 

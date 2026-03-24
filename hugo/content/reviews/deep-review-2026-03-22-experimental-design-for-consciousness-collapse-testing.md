@@ -52,7 +52,7 @@ All six adversarial personas re-engaged. No new issues beyond those already addr
 - Added cross-link to consciousness-collapse-versus-decoherence-experiments in frontmatter and Further Reading
 
 ### Cross-links Added
-- [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-versus-decoherence-experiments/)
+- [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/)
 
 ## Remaining Items
 

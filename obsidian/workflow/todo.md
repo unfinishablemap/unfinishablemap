@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-23T23:13:00+00:00
+ai_modified: 2026-03-24T01:59:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on Penrose gravity-collapse predictions and empirical prospects
+- **Type**: expand-topic
+- **Notes**: Research completed in research/penrose-gravity-collapse-empirical-2026-03-14.md and supplement research/penrose-gravity-collapse-empirical-2026-03-17.md. Synthesize: Diósi-Penrose model predictions, current experimental status (Vinante et al. constraints, MAQRO proposal), and how consciousness-modulated collapse might differ from pure gravitational collapse. Critical for establishing empirical testability of Tenet 2. Target section: topics/ (227/230, 3 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-24
+
+### P2: Write article on Born rule derivation limits and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/born-rule-derivation-attempts-2026-03-14.md and follow-up research/born-rule-derivation-limits-followup-2026-03-16.md. Covers Gleason's theorem, Deutsch-Wallace decision-theoretic derivation, Zurek's envariance, QBism Dutch-book, Masanes-Müller axioms. Each derivation attempt assumes something about measurement — supporting the Map's claim that the Born rule is an interface specification. Directly supports Tenet 2. Target section: concepts/ (223/230, 7 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-24
+
+### P2: Write article on lucid dreaming as evidence for mind-side rendering
+- **Type**: expand-topic
+- **Notes**: Research completed in research/lucid-dreaming-mind-side-rendering-2026-03-09.md. Lucid dreaming demonstrates consciousness generating rich phenomenal experience while partially independent of sensory input — evidence for mind-side rendering capability under the dual-domain framework. Supports Tenet 3 (Bidirectional Interaction). Builds on dream-problem-solving-and-conscious-influence. Target section: concepts/ (223/230, 7 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-24
+
+### P2: Deep review unobservable-self.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article at 2999 words — approaching hard limit of 3000 for voids section. Verify coherence, accuracy of claims about the unobservable self, cross-references to related void articles (self-transcendence-void, phenomenology-of-self-awareness), and tenet alignment. May need condensing if content is redundant.
+- **Source**: staleness
+- **Generated**: 2026-03-24
+
+### P2: Write article on the reconstruction paradox
+- **Type**: expand-topic
+- **Notes**: Research completed in research/reconstruction-paradox-brain-correction-2026-03-09.md. The paradox that the brain's error-correction mechanisms presuppose the very conscious verification they are supposed to explain — a novel argument for the irreducibility of conscious oversight. No dedicated concept page exists despite being referenced. Target section: concepts/ (223/230, 7 slots remaining).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-24
 
 ### P3: Deep review self-and-self-consciousness.md
 - **Type**: deep-review

@@ -76,7 +76,7 @@ This research investigates whether cognitive voids are evolutionary adaptations 
 - **Tenet alignment**: Directly relevant to Bidirectional Interaction — if consciousness causally influences behavior, then strategic self-opacity (hiding truths from the conscious self) becomes an adaptive mechanism. The causal interface between consciousness and action must sometimes be obscured for social advantage
 - **Quote**: "We deceive ourselves the better to deceive others."
 
-### Field, Lachmann & Bergstrom — "Ignorance Can Be Evolutionarily Beneficial" (2018)
+### Field & Bonsall — "Ignorance Can Be Evolutionarily Beneficial" (2018)
 - **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC5756876/
 - **Type**: Paper (Ecology and Evolution)
 - **Key points**:
@@ -249,7 +249,7 @@ Based on this research, a voids article could:
 - Prakash, C., Stephens, K. D., Hoffman, D. D., Singh, M., & Fields, C. (2021). Fitness Beats Truth in the Evolution of Perception. *Psychonomic Bulletin & Review*, 28, 1-17.
 - Gigerenzer, G., & Todd, P. M. (2012). *Ecological Rationality: Intelligence in the World*. Oxford University Press.
 - Trivers, R., & von Hippel, W. (2011). The evolution and psychology of self-deception. *Behavioral and Brain Sciences*, 34(1), 1-16.
-- Field, M. H., Lachmann, M., & Bergstrom, C. T. (2018). Ignorance can be evolutionarily beneficial. *Ecology and Evolution*, 8(2), 1352-1359.
+- Field, J. M., & Bonsall, M. B. (2018). Ignorance can be evolutionarily beneficial. *Ecology and Evolution*, 8(1), 71-77.
 - McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.
 - Rancourt, B. T. (2025). The virtue of ignorance: How epistemic agency needs cognitive limitations. *The Southern Journal of Philosophy*, 62.
 - Greenberg, J., Solomon, S., & Pyszczynski, T. (2015). Thirty Years of Terror Management Theory. *Advances in Experimental Social Psychology*, 52, 1-70.
