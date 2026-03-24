@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-03-23 21:43:00+00:00
+ai_modified: 2026-03-24 18:39:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -37,7 +37,7 @@ description: Experience comes as an integrated whole—unified across features a
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-01 03:10:00+00:00
+last_deep_review: 2026-03-24 18:39:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -65,7 +65,7 @@ Experience flows through time. When you hear a melody, successive notes unify in
 
 ### Subject Unity
 
-All experiences are had by one subject. The visual field, the pain in your knee, the thought you are having—all are experiences *for* a single experiencer. Subject unity is conceptually distinct from both synchronic and diachronic unity. Synchronic unity concerns how features at a moment are bound; subject unity concerns who experiences them. The [minimal self](/concepts/self-and-self-consciousness/)—basic first-person givenness or "for-me-ness"—may be constitutive of subject unity rather than an additional feature added to consciousness. The deeper question of what makes *this* subject a discrete subject at all—why consciousness comes in bounded units—is the [metaphysics of individuation](/topics/consciousness-and-the-metaphysics-of-individuation/).
+All experiences are had by one subject. The visual field, the pain in your knee, the thought you are having—all are experiences *for* a single experiencer. Subject unity is conceptually distinct from both synchronic and diachronic unity. Synchronic unity concerns how features at a moment are bound; subject unity concerns who experiences them. The [minimal self](/concepts/self-and-self-consciousness/)—basic first-person givenness or "for-me-ness" (Zahavi 2005)—may be constitutive of subject unity rather than an additional feature added to consciousness. The deeper question of what makes *this* subject a discrete subject at all—why consciousness comes in bounded units—is the [metaphysics of individuation](/topics/consciousness-and-the-metaphysics-of-individuation/).
 
 ## Phenomenal Unity and Conjoint Phenomenology
 
@@ -75,7 +75,7 @@ Phenomenal unity is the core of the unity problem. Bayne and Chalmers (2003) ana
 
 **Conjoint phenomenology**: When experiences are subsumed, there is a phenomenology of having them together—a "what it is like" to experience seeing-and-hearing simultaneously. Consider tasting wine. Sweetness, acidity, tannin, and aroma are experienced not as four separate qualia that happen to coincide but as one integrated flavour with its own character. The whole is not the sum of its parts.
 
-This makes phenomenal unity a mereological claim: experiences are *parts* of larger experiences. The total experience has sub-experiences as parts, but the whole has phenomenal properties no part possesses individually.
+This makes phenomenal unity a mereological claim: experiences are *parts* of larger experiences (Revonsuo 2006; Tye 2003). The total experience has sub-experiences as parts, but the whole has phenomenal properties no part possesses individually.
 
 ### Phenomenal vs Access Unity
 

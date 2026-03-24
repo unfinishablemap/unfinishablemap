@@ -9,6 +9,54 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-24 19:09 UTC - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-and-the-philosophy-of-mathematics](/topics/consciousness-and-the-philosophy-of-mathematics/), [mathematical-knowledge-and-insight](/topics/mathematical-knowledge-and-insight/)
+- **Target**: [mathematical-truth-and-conscious-access](/topics/mathematical-truth-and-conscious-access/)
+- **Archived**: [consciousness-and-the-philosophy-of-mathematics](/archive/topics/consciousness-and-the-philosophy-of-mathematics/), [mathematical-knowledge-and-insight](/archive/topics/mathematical-knowledge-and-insight/)
+- **References to review**: 8 active content files (follow-up task created)
+
+## 2026-03-24 18:55 UTC - deep-review
+- **Status**: Success
+- **File**: [volitional-control](/topics/volitional-control/)
+- **Word count**: 3158 → 3133 (-25)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (removed uncited Fried et al. 2011 reference)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-24b-volitional-control](/reviews/deep-review-2026-03-24b-volitional-control/)
+
+## 2026-03-24 18:39 UTC - deep-review
+- **Status**: Success
+- **File**: [unity-of-consciousness](/concepts/unity-of-consciousness/)
+- **Word count**: 2077 → 2083 (+6)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added inline citations for 3 uncited references)
+- **Enhancements made**: 1 (Zahavi, Revonsuo, Tye citations connected to body claims)
+- **Output**: [deep-review-2026-03-24-unity-of-consciousness](/reviews/deep-review-2026-03-24-unity-of-consciousness/)
+
+## 2026-03-24 18:24 UTC - deep-review
+- **Status**: Success
+- **File**: [types-of-ai-phenomenal-experience](/concepts/types-of-ai-phenomenal-experience/)
+- **Word count**: 1913 → 1920 (+7)
+- **Critical issues addressed**: 1 (Metzinger ENP misattribution — conflated genuine suffering concern with false positive problem)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (separated Metzinger's genuine-suffering concern from false positive detection problem)
+- **Output**: [deep-review-2026-03-24b-types-of-ai-phenomenal-experience](/reviews/deep-review-2026-03-24b-types-of-ai-phenomenal-experience/)
+
+## 2026-03-24 18:10 UTC - deep-review
+- **Status**: Success
+- **File**: [types-of-ai-phenomenal-experience](/concepts/types-of-ai-phenomenal-experience/)
+- **Word count**: 1768 → 1913 (+145)
+- **Critical issues addressed**: 2 (unreferenced citations, missing No Many Worlds tenet)
+- **Medium issues addressed**: 2 (missing cross-links, thin functional phenomenality rejection)
+- **Enhancements made**: 5 (Block P/A distinction, Metzinger citation, Schwitzgebel citation, No Many Worlds tenet, grounded "sea of conscious entities")
+- **Output**: [deep-review-2026-03-24-types-of-ai-phenomenal-experience](/reviews/deep-review-2026-03-24-types-of-ai-phenomenal-experience/)
+
+## 2026-03-24 17:55 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 30 articles sampled across topics/, concepts/, and tenets/ (self-stultification, convergence argument, dopamine interface, quantum biology, contemplative practice, volitional control, and more)
+- **Output**: [optimistic-2026-03-24-evening](/reviews/optimistic-2026-03-24-evening/)
+
 ## 2026-03-24 17:33 UTC - deep-review
 - **Status**: Success
 - **File**: [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/)

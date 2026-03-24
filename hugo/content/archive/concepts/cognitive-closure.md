@@ -150,7 +150,7 @@ The [voids](/voids/) framework operationalises cognitive closure. Rather than tr
 - [self-transcendence-void](/voids/self-transcendence-void/) — Why consciousness cannot bootstrap beyond its own architecture
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Methods of inquiry through negation that cognitive closure motivates
 - [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) — The systematic study of what kind of knowledge claims about cognitive limits are and what warrant structures support them
-- [mathematical-knowledge-and-insight](/topics/mathematical-knowledge-and-insight/) — How mathematical understanding illustrates the boundary between transparent and opaque cognition
+- [mathematical-knowledge-and-insight](/topics/mathematical-truth-and-conscious-access/) — How mathematical understanding illustrates the boundary between transparent and opaque cognition
 - [voids](/voids/) — The Map's framework for approaching what resists understanding
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Contemplative practice as a methodology for approaching closure boundaries from within experience
 

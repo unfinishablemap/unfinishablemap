@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-24 15:33:00+00:00
+ai_modified: 2026-03-24 17:48:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Update references to coalesced mathematics articles
+- **Type**: cross-review
+- **Notes**: Coalesce merged consciousness-and-the-philosophy-of-mathematics + mathematical-knowledge-and-insight into mathematical-truth-and-conscious-access. The following files reference archived articles and may need wikilink updates: voids/mathematical-void.md, voids/computational-cognitive-limits.md, concepts/phenomenology-of-creative-insight.md, topics/self-reference-and-the-limits-of-physical-description.md, topics/phenomenology-of-understanding-and-meaning.md, topics/incubation-effect-and-unconscious-processing.md, topics/aesthetics-and-consciousness.md, workflow/highlights.md
+- **Source**: coalesce
+- **Generated**: 2026-03-24
+
+### P2: Condense mysterianism.md (3564 words, 143% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard warning threshold for concepts/. Preserve core arguments about cognitive closure and the new mysterian position while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-24
+
+### P2: Create concept page for supervenience
+- **Type**: expand-topic
+- **Notes**: Fundamental philosophical concept referenced in 14 articles but has no dedicated page. Supervenience is central to the mind-body problem — the Map's rejection of reductive supervenience is implicit across many articles but never systematically explained. A concept page would strengthen arguments in mental-causation, emergence, and epiphenomenalism articles. Target section: concepts/ (224/230).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-24
 
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
@@ -1304,6 +1322,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Deep review volitional-control.md
+- **Type**: deep-review
+- **Notes**: Coalesced on 2026-03-24 from volitional-control-empirical-evidence.md and earlier content. Never reviewed as unified article. Topics article on empirical evidence for conscious volitional control (Schurger, Brass-Haggard, Libet reinterpretations). Verify the coalesce preserved key arguments, eliminated redundancy, and maintains coherent structure. Check cross-references to free-will, phenomenology-of-choice-and-volition, and phenomenology-of-agency-vs-passivity.
+- **Output**: obsidian/topics/volitional-control.md
+
+### ✓ 2026-03-24: Deep review types-of-ai-phenomenal-experience.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 via expand-topic, never reviewed. Concepts article categorizing types of AI phenomenal experience under the Map's dualist framework. Verify coherence, accuracy of AI consciousness claims, cross-references to ai-consciousness and ai-epiphenomenalism, and tenet alignment.
+- **Output**: obsidian/concepts/types-of-ai-phenomenal-experience.md
+
+### ✓ 2026-03-24: Cross-review AI consciousness articles considering types-of-ai-phenomenal-experience insights
+- **Type**: cross-review
+- **Notes**: New article concepts/types-of-ai-phenomenal-experience.md (2026-03-24) categorizes modes of AI phenomenal experience under the Map's dualist framework. Review ai-consciousness.md for cross-links to the new typology, ai-epiphenomenalism.md for consistency with the phenomenal-experience categorization, and ai-consciousness-modes.md for potential overlap or redundancy with the new taxonomy.
+- **Output**: None -- Context: Cross-review AI consciousness articles considering types-of-ai-phenomenal-experience insights
 
 ### ✓ 2026-03-24: Deep review parsimony-case-for-interactionist-dualism.md
 - **Type**: deep-review
@@ -3197,4 +3230,22 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Type**: refine-draft
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Six cross-linking opportunities: curated-mind↔phenomenal-acquaintance, agent-causation↔consciousness-value-connection, cognitive-closure↔contemplative-practice, argument-from-reason↔phenomenology-of-intellectual-effort, cross-cultural-convergence↔contemplative-practice, consciousness-evolution-problem↔consciousness-value-connection. See optimistic-2026-03-24.md
+- **Generated**: 2026-03-24
+
+### P3: Write article on honest accounting of dualism's metaphysical costs
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Address the "too metaphysically expensive" objection from philosophers who accept dualist arguments but resist the ontological cost. Builds on interactionist-dualism, objections-to-interactionism, the-convergence-argument-for-dualism. Tenet alignment: Occam's Razor Has Limits. Target section: topics/. See optimistic-2026-03-24-evening.md
+- **Generated**: 2026-03-24
+
+### P3: Write article on enactivism and embodied cognition under interactionism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Show how enactive/embodied tradition's insights can be preserved within the Map's interface framework rather than treated as mere objection. Builds on embodied-cognition, enactivism-challenge-to-interactionist-dualism, sensorimotor-contingencies-and-the-interface. Tenet alignment: Bidirectional Interaction. Target section: topics/. See optimistic-2026-03-24-evening.md
+- **Generated**: 2026-03-24
+
+### P3: Add cross-links from optimistic review 2026-03-24 evening findings
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Five cross-linking opportunities: self-stultification↔contemplative-practice (rational self-trust), dopamine-interface↔volitional-control (mechanism), convergence-argument↔epistemology-of-convergence-arguments (methodology), quantum-holism↔phenomenal-binding-multimodal (mechanism-problem pair), evolutionary-case↔consciousness-threshold (evolutionary thread). See optimistic-2026-03-24-evening.md
 - **Generated**: 2026-03-24

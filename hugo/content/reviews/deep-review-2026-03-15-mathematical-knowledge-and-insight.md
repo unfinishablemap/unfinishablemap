@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-15
-**Article**: [Mathematical Knowledge and Insight](/topics/mathematical-knowledge-and-insight/)
+**Article**: [Mathematical Knowledge and Insight](/topics/mathematical-truth-and-conscious-access/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-03-24 15:18:00+00:00
+ai_modified: 2026-03-24 18:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ description: The experience of willing tracks real causal architecture, not post
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-24 15:18:00+00:00
+last_deep_review: 2026-03-24 18:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -170,21 +170,20 @@ The **[Occam's Razor Has Limits](/tenets/#occams-limits)** tenet is directly rel
 6. Braun, M. N., Wessler, J., & Friese, M. (2021). A meta-analysis of Libet-style experiments. *Neuroscience & Biobehavioral Reviews*, 128, 182-198.
 7. Della Sala, S., Marchetti, C., & Spinnler, H. (1991). Right-sided anarchic (alien) hand: A longitudinal study. *Neuropsychologia*, 29(11), 1113-1127.
 8. Desmurget, M., et al. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811-813.
-9. Fried, I., Mukamel, R., & Kreiman, G. (2011). Internally generated preactivation of single neurons in human medial frontal cortex predicts volition. *Neuron*, 69(3), 548-562.
-10. Frith, C. D. (1992). *The Cognitive Neuropsychology of Schizophrenia*. Lawrence Erlbaum Associates.
-11. Gallagher, S. (2000). Philosophical conceptions of the self: Implications for cognitive science. *Trends in Cognitive Sciences*, 4(1), 14-21.
-12. Gallagher, S., & Zahavi, D. (2012). *The Phenomenological Mind* (2nd ed.). Routledge.
-13. Goldapple, K., et al. (2004). Modulation of cortical-limbic pathways in major depression. *Archives of General Psychiatry*, 61(1), 34-41.
-14. Haggard, P., Clark, S., & Kalogeras, J. (2002). Voluntary action and conscious awareness. *Nature Neuroscience*, 5(4), 382-385.
-15. Libet, B., Gleason, C. A., Wright, E. W., & Pearl, D. K. (1983). Time of conscious intention to act in relation to onset of cerebral activity (readiness-potential). *Brain*, 106(3), 623-642.
-16. Mele, A. R. (2009). *Effective Intentions: The Power of Conscious Will*. Oxford University Press.
-17. Moore, J. W., & Obhi, S. S. (2012). Intentional binding and the sense of agency: A review. *Consciousness and Cognition*, 21(1), 546-561.
-18. Nahmias, E. (2002). When consciousness matters: A critical review of Daniel Wegner's *The Illusion of Conscious Will*. *Philosophical Psychology*, 15(4), 527-541.
-19. Paquette, V., et al. (2003). "Change the mind and you change the brain": Effects of cognitive-behavioral therapy on the neural correlates of spider phobia. *NeuroImage*, 18(2), 401-409.
-20. Rajan, A., et al. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
-21. Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *Proceedings of the National Academy of Sciences*, 109(42), E2904-E2913.
-22. Schwartz, J. M., et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of OCD. *Archives of General Psychiatry*, 53(2), 109-113.
-23. Sjöberg, R. L. (2024). The readiness potential and the soul: What happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2274.
-24. Voss, M., et al. (2010). Altered awareness of action in schizophrenia: A specific deficit in predicting action consequences. *Brain*, 133(10), 3104-3112.
-25. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
-26. Wolpe, N., et al. (2013). Cues, beliefs, and the sense of agency. *Frontiers in Human Neuroscience*, 7, 734.
+9. Frith, C. D. (1992). *The Cognitive Neuropsychology of Schizophrenia*. Lawrence Erlbaum Associates.
+10. Gallagher, S. (2000). Philosophical conceptions of the self: Implications for cognitive science. *Trends in Cognitive Sciences*, 4(1), 14-21.
+11. Gallagher, S., & Zahavi, D. (2012). *The Phenomenological Mind* (2nd ed.). Routledge.
+12. Goldapple, K., et al. (2004). Modulation of cortical-limbic pathways in major depression. *Archives of General Psychiatry*, 61(1), 34-41.
+13. Haggard, P., Clark, S., & Kalogeras, J. (2002). Voluntary action and conscious awareness. *Nature Neuroscience*, 5(4), 382-385.
+14. Libet, B., Gleason, C. A., Wright, E. W., & Pearl, D. K. (1983). Time of conscious intention to act in relation to onset of cerebral activity (readiness-potential). *Brain*, 106(3), 623-642.
+15. Mele, A. R. (2009). *Effective Intentions: The Power of Conscious Will*. Oxford University Press.
+16. Moore, J. W., & Obhi, S. S. (2012). Intentional binding and the sense of agency: A review. *Consciousness and Cognition*, 21(1), 546-561.
+17. Nahmias, E. (2002). When consciousness matters: A critical review of Daniel Wegner's *The Illusion of Conscious Will*. *Philosophical Psychology*, 15(4), 527-541.
+18. Paquette, V., et al. (2003). "Change the mind and you change the brain": Effects of cognitive-behavioral therapy on the neural correlates of spider phobia. *NeuroImage*, 18(2), 401-409.
+19. Rajan, A., et al. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
+20. Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *Proceedings of the National Academy of Sciences*, 109(42), E2904-E2913.
+21. Schwartz, J. M., et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of OCD. *Archives of General Psychiatry*, 53(2), 109-113.
+22. Sjöberg, R. L. (2024). The readiness potential and the soul: What happens when you resect their seat in the brain? *Brain*, 147(7), 2267-2274.
+23. Voss, M., et al. (2010). Altered awareness of action in schizophrenia: A specific deficit in predicting action consequences. *Brain*, 133(10), 3104-3112.
+24. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
+25. Wolpe, N., et al. (2013). Cues, beliefs, and the sense of agency. *Frontiers in Human Neuroscience*, 7, 734.

@@ -43,11 +43,10 @@ related_articles:
 - '[[incubation-effect-and-unconscious-processing]]'
 - '[[phenomenology-of-understanding-and-meaning]]'
 - '[[aesthetics-and-consciousness]]'
-- '[[mathematical-knowledge-and-insight]]'
+- '[[mathematical-truth-and-conscious-access]]'
 - '[[consciousness-and-the-authority-of-formal-systems]]'
 - '[[self-reference-and-the-limits-of-physical-description]]'
 - '[[topics/consciousness-and-counterfactual-reasoning]]'
-- '[[consciousness-and-the-philosophy-of-mathematics]]'
 title: Consciousness and Mathematical Cognition
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -118,7 +117,7 @@ Mathematicians consistently report that correct proofs *feel* elegant before the
 
 ### The Sense of Discovery
 
-Mathematicians overwhelmingly describe their work as finding rather than inventing. Kurt Gödel was an explicit Platonist—the [philosophy of mathematics article](/topics/consciousness-and-the-philosophy-of-mathematics/) examines what such ontological commitments imply about consciousness. Paul Erdős spoke of proofs being in "The Book." Even anti-Platonist mathematicians often describe their work in discovery terms—as if mathematical truth constrains what they can find rather than reflecting their creative choices. This phenomenology is significant whether or not Platonism is metaphysically correct: the experience of mathematical understanding includes the sense of encountering necessity—that certain things *must* be true and others *cannot* be—a quality that resists reduction to computational processes which merely follow rules without experiencing their necessity.
+Mathematicians overwhelmingly describe their work as finding rather than inventing. Kurt Gödel was an explicit Platonist—the [mathematical truth and conscious access article](/topics/mathematical-truth-and-conscious-access/) examines what such ontological commitments imply about consciousness. Paul Erdős spoke of proofs being in "The Book." Even anti-Platonist mathematicians often describe their work in discovery terms—as if mathematical truth constrains what they can find rather than reflecting their creative choices. This phenomenology is significant whether or not Platonism is metaphysically correct: the experience of mathematical understanding includes the sense of encountering necessity—that certain things *must* be true and others *cannot* be—a quality that resists reduction to computational processes which merely follow rules without experiencing their necessity.
 
 ## Beyond Selection: Mathematical Generation
 
@@ -214,8 +213,7 @@ The view would be supported by continued failure of AI to achieve transformation
 
 ## Further Reading
 
-- [mathematical-knowledge-and-insight](/topics/mathematical-knowledge-and-insight/) — The epistemology and phenomenology of mathematical knowledge
-- [consciousness-and-the-philosophy-of-mathematics](/topics/consciousness-and-the-philosophy-of-mathematics/) — How every major position on mathematical ontology implies a position on consciousness
+- [mathematical-truth-and-conscious-access](/topics/mathematical-truth-and-conscious-access/) — Mathematical ontology, epistemology, and the phenomenology of mathematical knowledge
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The broader case for phenomenal character in thinking
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis
 - [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/) — Why human creativity differs in kind from animal and AI creativity

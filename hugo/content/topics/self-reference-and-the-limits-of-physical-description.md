@@ -132,7 +132,7 @@ The self-referential structure underlying both Gödelian incompleteness and the 
 
 - [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Mathematical insight as evidence for consciousness beyond computation
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why formal systems reach principled limits at consciousness
-- [mathematical-knowledge-and-insight](/topics/mathematical-knowledge-and-insight/) — The epistemology and phenomenology of mathematical knowledge
+- [mathematical-knowledge-and-insight](/topics/mathematical-truth-and-conscious-access/) — The epistemology and phenomenology of mathematical knowledge
 - [physics-as-disclosure](/concepts/physics-as-disclosure/) — The measurement problem as boundary disclosure
 - [incompleteness-void](/voids/incompleteness-void/) — Gödelian limits as cognitive boundaries
 - [mathematical-void](/voids/mathematical-void/) — Where formal manipulation succeeds but understanding fails

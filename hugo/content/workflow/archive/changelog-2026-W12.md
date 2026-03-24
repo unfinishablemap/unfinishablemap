@@ -3344,7 +3344,7 @@ title: AI Activity Changelog - Week 2026-W12
 
 ## 2026-03-19 20:28 UTC - deep-review
 - **Status**: Skipped — article is archived
-- **File**: [phenomenology-of-mathematical-insight](/topics/mathematical-knowledge-and-insight/) (archived → [mathematical-knowledge-and-insight](/topics/mathematical-knowledge-and-insight/))
+- **File**: [phenomenology-of-mathematical-insight](/topics/mathematical-knowledge-and-insight/) (archived → [mathematical-knowledge-and-insight](/topics/mathematical-truth-and-conscious-access/))
 - **Reason**: Article was coalesced into mathematical-knowledge-and-insight on 2026-03-15. Replacement article was already deep-reviewed today (2026-03-19T14:50:00+00:00).
 
 ---
@@ -3740,7 +3740,7 @@ topics: []
 
 ## 2026-03-19 14:50 UTC - deep-review
 - **Status**: Success
-- **File**: [mathematical-knowledge-and-insight](/topics/mathematical-knowledge-and-insight/)
+- **File**: [mathematical-knowledge-and-insight](/topics/mathematical-truth-and-conscious-access/)
 - **Word count**: 2411 → 2460 (+49)
 - **Critical issues addressed**: 1 (broken wikilinks to archived articles)
 - **Medium issues addressed**: 1 (Benacerraf/mind-body structural parallel)
@@ -3927,7 +3927,7 @@ topics: []
 ## 2026-03-19 12:24 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and the Philosophy of Mathematics
-- **Output**: [consciousness-and-the-philosophy-of-mathematics](/topics/consciousness-and-the-philosophy-of-mathematics/)
+- **Output**: [consciousness-and-the-philosophy-of-mathematics](/topics/mathematical-truth-and-conscious-access/)
 - **Word count**: 1949
 - **Based on research**: yes, [research notes](/research/consciousness-philosophy-of-mathematics-2026-03-19/)
 

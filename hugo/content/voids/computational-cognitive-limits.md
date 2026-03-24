@@ -148,7 +148,7 @@ Neither has been achieved. The computational void is established; whether it is 
 - [Consciousness-Only Territories](/voids/consciousness-only-territories/) — What can minds access that machines cannot?
 - [Whether the Voids Are Real](/voids/whether-real/) — Are limits permanent or merely current?
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis of structural limits
-- [mathematical-knowledge-and-insight](/topics/mathematical-knowledge-and-insight/) — The epistemology and phenomenology of mathematical understanding
+- [mathematical-knowledge-and-insight](/topics/mathematical-truth-and-conscious-access/) — The epistemology and phenomenology of mathematical understanding
 
 ## References
 

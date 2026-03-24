@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-19
-**Article**: [Mathematical Knowledge and Insight](/topics/mathematical-knowledge-and-insight/)
+**Article**: [Mathematical Knowledge and Insight](/topics/mathematical-truth-and-conscious-access/)
 **Previous review**: [2026-03-19](/reviews/deep-review-2026-03-19-mathematical-knowledge-and-insight/)
 **Context**: Cross-review considering consciousness-and-the-philosophy-of-mathematics article (second pass)
 

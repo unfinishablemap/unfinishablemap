@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-19
-**Article**: [Mathematical Knowledge and Insight](/topics/mathematical-knowledge-and-insight/)
+**Article**: [Mathematical Knowledge and Insight](/topics/mathematical-truth-and-conscious-access/)
 **Previous review**: [2026-03-15](/reviews/deep-review-2026-03-15-mathematical-knowledge-and-insight/)
 **Context**: Cross-review following creation of consciousness-and-the-philosophy-of-mathematics.md
 
@@ -53,7 +53,7 @@ topics: []
 - Added new article to Further Reading with descriptive annotation
 
 ### Cross-links Added
-- [consciousness-and-the-philosophy-of-mathematics](/topics/consciousness-and-the-philosophy-of-mathematics/) (opening paragraph, related_articles, Further Reading)
+- [consciousness-and-the-philosophy-of-mathematics](/topics/mathematical-truth-and-conscious-access/) (opening paragraph, related_articles, Further Reading)
 
 ## Remaining Items
 
