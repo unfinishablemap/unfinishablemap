@@ -143,7 +143,7 @@ When normative demands from different domains collide, something must adjudicate
 
 The Unfinishable Map identifies this arbiter as consciousness itself. The felt effort of resolving normative conflict—deliberation, weighing, eventual commitment—is phenomenologically distinct from both demands. It is a third thing: the experience of being the point where incompatible normative forces meet and a single action must emerge. This is the phenomenology of [agent-causation](/concepts/agent-causation/): not a mechanical aggregation of competing force-vectors but a genuine act of judgment that could have gone otherwise.
 
-The computationalist alternative—that the brain runs a weighted sum and produces output—struggles with the phenomenology of resolution specifically. Computational models can simulate oscillation between options and even model attention dynamics. What they cannot capture is the first-person character of commitment: the experience of the deliberation *not* determining the outcome, followed by a leap that the agent recognises as genuinely their own act. This is the [phenomenology of choice](/concepts/phenomenology-of-choice/)—resolution is not the gradual dominance of one activation pattern but a decision that acknowledges both demands and accepts the cost of overriding one.
+The computationalist alternative—that the brain runs a weighted sum and produces output—struggles with the phenomenology of resolution specifically. Computational models can simulate oscillation between options and even model attention dynamics. What they cannot capture is the first-person character of commitment: the experience of the deliberation *not* determining the outcome, followed by a leap that the agent recognises as genuinely their own act. This is the [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/)—resolution is not the gradual dominance of one activation pattern but a decision that acknowledges both demands and accepts the cost of overriding one.
 
 ### Moral Residue as Evidence
 
@@ -161,7 +161,7 @@ Normative conflict unfolds in time with a distinctive rhythm.
 
 **Deliberation** has a characteristic oscillation. Attention moves between competing demands, and each time it focuses on one, that demand gains phenomenal weight—not because new reasons appear but because sustained attention deepens its felt force. This amplification dynamic makes normative deliberation so difficult.
 
-**Resolution**, when it comes, has the character of a *leap*. The agent commits without the deliberation having determined the outcome. This is the [phenomenology of choice](/concepts/phenomenology-of-choice/) that [deliberation under uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) also reveals, but normative conflict adds a dimension: the leap involves actively overriding a demand one continues to recognise as legitimate.
+**Resolution**, when it comes, has the character of a *leap*. The agent commits without the deliberation having determined the outcome. This is the [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) that [deliberation under uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) also reveals, but normative conflict adds a dimension: the leap involves actively overriding a demand one continues to recognise as legitimate.
 
 **Aftermath** carries residue. The agent lives forward knowing a genuine demand went unsatisfied—with continuing recognition that the overridden demand was not wrong to claim attention.
 

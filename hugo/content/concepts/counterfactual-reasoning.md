@@ -91,7 +91,7 @@ Counterfactual reasoning bears directly on [free will](/topics/free-will/). Libe
 
 Each step involves counterfactual reasoning. Without the capacity to represent "what would happen if I chose X," genuine deliberation becomes impossible. You would be restricted to what the [baseline cognition](/concepts/baseline-cognition/) framework calls the "zone of latent solutions"—recombining existing patterns without generating genuinely novel possibilities.
 
-The [phenomenology of choice](/concepts/phenomenology-of-choice/) reveals this counterfactual structure. Deliberating feels like holding multiple possibilities open, exploring their implications, and then settling on one. The felt sense of alternatives collapsing to actuality—one becoming real while others fade to mere counterfactuals—is central to the experience of choosing. This phenomenology supports *reasons-responsiveness*: we choose *for* reasons by evaluating how counterfactual outcomes align with what matters to us.
+The [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) reveals this counterfactual structure. Deliberating feels like holding multiple possibilities open, exploring their implications, and then settling on one. The felt sense of alternatives collapsing to actuality—one becoming real while others fade to mere counterfactuals—is central to the experience of choosing. This phenomenology supports *reasons-responsiveness*: we choose *for* reasons by evaluating how counterfactual outcomes align with what matters to us.
 
 ### Agent Causation and Counterfactual Selection
 
@@ -178,7 +178,7 @@ Counterfactual reasoning connects to multiple [tenets](/tenets/):
 - [baseline-cognition](/concepts/baseline-cognition/) — The framework distinguishing consciousness-dependent from baseline cognition
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness amplifies cognitive capacity
 - [free-will](/topics/free-will/) — Counterfactual reasoning's role in genuine choice
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experience of deliberating among alternatives
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The experience of deliberating among alternatives
 - [working-memory](/concepts/working-memory/) — The workspace where counterfactual scenarios are constructed
 - [agent-causation](/concepts/agent-causation/) — How the agent selects among counterfactually represented options
 - [episodic-memory](/concepts/episodic-memory/) — The memory system that supports scenario construction

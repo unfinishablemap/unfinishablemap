@@ -96,7 +96,7 @@ The wanting/liking distinction clarifies dopamine's role in selection:
 
 This satisfies [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction). Consciousness doesn't generate the "pull" of wanting—dopamine does that. Consciousness selects among options that already have pull. The neurotransmitter does the motivational work; the non-physical influence operates only at the selection point.
 
-Why invoke consciousness rather than stochastic neural dynamics? Three considerations: First, the [phenomenology of effort](/concepts/phenomenology-of-choice/)—the felt work of pursuing valued options against resistance—correlates with task difficulty in ways that pure noise cannot explain. Second, the willed/automatic distinction has neural signatures (frontal theta, bidirectional coherence) that wouldn't exist if selection were random. Third, pure randomness produces arbitrary selection, not *choice*—the outcome must be both undetermined and meaningful, which requires something beyond noise to bias which option actualizes.
+Why invoke consciousness rather than stochastic neural dynamics? Three considerations: First, the [phenomenology of effort](/concepts/phenomenology-of-choice-and-volition/)—the felt work of pursuing valued options against resistance—correlates with task difficulty in ways that pure noise cannot explain. Second, the willed/automatic distinction has neural signatures (frontal theta, bidirectional coherence) that wouldn't exist if selection were random. Third, pure randomness produces arbitrary selection, not *choice*—the outcome must be both undetermined and meaningful, which requires something beyond noise to bias which option actualizes.
 
 ## Tonic vs. Phasic: Two Timescales
 
@@ -262,7 +262,7 @@ The quantum selection framework gains explanatory purchase where the simpler vie
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum mechanisms for consciousness-brain interaction
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical framework
 - [free-will](/topics/free-will/) — The broader topic this illuminates
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential character of selection
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The experiential character of selection
 - [mental-effort](/concepts/mental-effort/) — Why selection feels effortful
 - [downward-causation](/concepts/downward-causation/) — How consciousness affects neural processes
 

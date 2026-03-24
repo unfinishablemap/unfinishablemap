@@ -52,13 +52,13 @@ topics: []
 - **Relation to Site Perspective**: Connects all five tenets with genuine substance
 
 ### Enhancements Made
-- Added inline cross-link to [phenomenology-of-choice](/concepts/phenomenology-of-choice/) in the Application to Consciousness section
+- Added inline cross-link to [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) in the Application to Consciousness section
 - Cited Price (2012) in the body text (was previously in References but uncited)
 - Removed stale AI refinement log comment
 - Added Plotinus qualifier about necessary emanation vs selective determination
 
 ### Cross-links Added
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) (inline in Application to Consciousness)
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) (inline in Application to Consciousness)
 - [quantum-consciousness](/concepts/quantum-consciousness/) (inline in step 1 of the selection mechanism)
 
 ## Remaining Items

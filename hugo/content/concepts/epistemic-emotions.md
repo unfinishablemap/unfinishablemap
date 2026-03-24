@@ -107,7 +107,7 @@ The TOT state sharpens this: it isn't just functional retrieval failure—there 
 
 ## Epistemic Emotions and Decision
 
-Epistemic emotions guide cognitive behaviour: curiosity directs inquiry, doubt triggers re-evaluation, certainty ends search. If these emotions were causally inert, their existence would be evolutionarily puzzling. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet proposes that epistemic emotions are consciousness engaging with cognition, not merely observing it. The connection to [the phenomenology of choice](/concepts/phenomenology-of-choice/) is illuminating—decisions involve epistemic emotions as motivational force, not merely information.
+Epistemic emotions guide cognitive behaviour: curiosity directs inquiry, doubt triggers re-evaluation, certainty ends search. If these emotions were causally inert, their existence would be evolutionarily puzzling. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet proposes that epistemic emotions are consciousness engaging with cognition, not merely observing it. The connection to [the phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) is illuminating—decisions involve epistemic emotions as motivational force, not merely information.
 
 ## Contemplative Perspectives
 
@@ -175,7 +175,7 @@ None of these conditions currently obtains.
 - [introspection](/concepts/introspection/) — First-person access to epistemic states
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking itself has phenomenal character
 - [phenomenology-of-self-awareness](/voids/phenomenology-of-self-awareness/) — Why error has no distinctive feeling
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The felt quality of deciding
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The felt quality of deciding
 - [working-memory](/concepts/working-memory/) — Where epistemic emotions interface with cognitive capacity
 - [illusionism](/concepts/illusionism/) — The challenge that epistemic phenomenology is illusion
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Why functional duplicates without experience pose problems

@@ -9,6 +9,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-24 08:06 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenology-of-choice](/concepts/phenomenology-of-choice/), [phenomenology-of-volition](/concepts/phenomenology-of-volition/)
+- **Target**: [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/)
+- **Archived**: [phenomenology-of-choice](/archive/concepts/phenomenology-of-choice/), [phenomenology-of-volition](/archive/concepts/phenomenology-of-volition/)
+- **References to review**: ~71 (follow-up task created as P2 cross-review)
+
 ## 2026-03-24 07:50 UTC - deep-review
 - **Status**: Success
 - **File**: [curated-mind](/topics/curated-mind/)

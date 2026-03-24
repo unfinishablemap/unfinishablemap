@@ -64,7 +64,7 @@ Susanna Siegel argues that an ornithologist seeing a pine grosbeak has a differe
 
 ### Agency versus Passivity
 
-Voluntarily raising your arm and having it raised for you produce different phenomenal experiences despite similar proprioceptive input. The [phenomenal contrast between agency and passivity](/topics/phenomenology-of-agency-vs-passivity/) isolates a phenomenal quality — the sense of authorship — that cannot be explained by sensory differences alone. Anarchic hand syndrome, where a limb acts without the person's intention, strips away the agentive phenomenology while preserving sensory and motor signals. The same structure extends to [choice and deliberation](/concepts/phenomenology-of-choice/), where deciding between options and having one imposed feel phenomenally distinct despite identical outcomes.
+Voluntarily raising your arm and having it raised for you produce different phenomenal experiences despite similar proprioceptive input. The [phenomenal contrast between agency and passivity](/topics/phenomenology-of-agency-vs-passivity/) isolates a phenomenal quality — the sense of authorship — that cannot be explained by sensory differences alone. Anarchic hand syndrome, where a limb acts without the person's intention, strips away the agentive phenomenology while preserving sensory and motor signals. The same structure extends to [choice and deliberation](/concepts/phenomenology-of-choice-and-volition/), where deciding between options and having one imposed feel phenomenally distinct despite identical outcomes.
 
 ## Philosophical Significance
 
@@ -119,7 +119,7 @@ The phenomenal contrast method serves the Map as both evidence and tool — evid
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The debate over whether thinking has irreducible phenomenal character
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — Five modes of phenomenal meaning revealed by contrast analysis
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — Agency versus passivity as a phenomenal contrast
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — Choice and deliberation as phenomenal contrasts
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — Choice and deliberation as phenomenal contrasts
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and the limits of physical information
 - [intentionality](/concepts/intentionality/) — The "aboutness" of mental states and its phenomenal basis
 - [introspection](/concepts/introspection/) — The reliability and limits of first-person evidence

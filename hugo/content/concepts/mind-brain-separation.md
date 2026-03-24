@@ -63,7 +63,7 @@ Not all mental functions depend equally on the brain. Some appear intrinsic to c
 
 **Memory access** sits uncomfortably between physical and mental accounts. Henri Bergson argued that memory is activated through the brain but not contained within neural tissue. Modern engram research poses a genuine challenge: optogenetic studies can reactivate specific memories by stimulating particular neural ensembles. Yet memory remains distributed across networks, and engrams appear to function partly as retrieval mechanisms rather than complete storage. The memory case is the weakest part of the filter theory argument.
 
-**Attention** may be the primary mechanism through which consciousness interacts with the brain, sitting at the border between obviously mental (what we choose to focus on) and obviously neural (which neural populations become active). The [phenomenology of choice](/concepts/phenomenology-of-choice/) illuminates this interface—choosing feels qualitatively different from observing, suggesting the interface has both experiential and physical dimensions.
+**Attention** may be the primary mechanism through which consciousness interacts with the brain, sitting at the border between obviously mental (what we choose to focus on) and obviously neural (which neural populations become active). The [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) illuminates this interface—choosing feels qualitatively different from observing, suggesting the interface has both experiential and physical dimensions.
 
 ## Blindsight and the Dissociation of Processing from Experience
 
@@ -124,7 +124,7 @@ The mind-brain separation framework would face serious difficulty if:
 ## Further Reading
 
 - [filter-theory](/concepts/filter-theory/) — Detailed treatment of the transmission model
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential dimension of selection at the mind-brain interface
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The experiential dimension of selection at the mind-brain interface
 - [motor-selection](/concepts/motor-selection/) — How consciousness may select among motor patterns
 - [illusionism](/concepts/illusionism/) — The strongest physicalist challenge and the regress response
 - [dream-consciousness](/topics/dream-consciousness/) — Dreams as evidence for the filter model

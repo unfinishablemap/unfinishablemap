@@ -61,7 +61,7 @@ topics: []
 ### Cross-links Added
 - [illusionism](/concepts/illusionism/)
 - [philosophical-zombies](/concepts/philosophical-zombies/)
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/)
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)
 - [decoherence](/concepts/decoherence/)
 - [haecceity](/concepts/haecceity/)

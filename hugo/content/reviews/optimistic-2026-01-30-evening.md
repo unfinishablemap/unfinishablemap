@@ -48,7 +48,7 @@ Particularly valuable: the recognition that process philosophy treats consciousn
 
 The **Consciousness and Agency** apex article provides perhaps the strongest philosophical defense of libertarian free will I've encountered. It addresses the luck objection directly (distinguishing conscious selection from lucky indeterminism through three independent markers), grounds agent causation in substance ontology, and integrates neural phenomenology evidence (Desmurget's surgical dissociations).
 
-The innovative retrocausal resolution of the Libet problem deserves special mention: consciousness doesn't need to precede neural activity to cause it—atemporal selection determines which history becomes actual. This respects the neuroscience while preserving genuine agency. The [phenomenology-of-choice](/concepts/phenomenology-of-choice/) and [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) articles extend this into lived experience.
+The innovative retrocausal resolution of the Libet problem deserves special mention: consciousness doesn't need to precede neural activity to cause it—atemporal selection determines which history becomes actual. This respects the neuroscience while preserving genuine agency. The [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) and [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) articles extend this into lived experience.
 
 ### The Mysterian (McGinn)
 

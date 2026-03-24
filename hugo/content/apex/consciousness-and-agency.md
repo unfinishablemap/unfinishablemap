@@ -100,7 +100,7 @@ The luck objection deserves direct engagement. Peter van Inwagen's rollback argu
 
 The Map distinguishes consciousness-selected indeterminism from lucky indeterminism through three features. First, selection is *reasons-guided*—consciousness selects A because A serves goals and expresses values. Reasons don't *determine* the outcome but they *guide* it. "Why A rather than B? Because the agent had reasons for A."
 
-Second, selection involves *[phenomenology of effort](/concepts/phenomenology-of-choice/)*—choosing feels effortful in ways that track genuine cognitive load. Random processes don't feel like work; hard choices feel hard because the phenomenology tracks real causal engagement. The correlation between felt difficulty and measured cognitive load would be coincidental if phenomenology had no functional role. The simpler explanation: phenomenology tracks something real.
+Second, selection involves *[phenomenology of effort](/concepts/phenomenology-of-choice-and-volition/)*—choosing feels effortful in ways that track genuine cognitive load. Random processes don't feel like work; hard choices feel hard because the phenomenology tracks real causal engagement. The correlation between felt difficulty and measured cognitive load would be coincidental if phenomenology had no functional role. The simpler explanation: phenomenology tracks something real.
 
 Third, selection shows *distinctive neural signatures*—willed attention and movement engage frontal theta oscillations and bidirectional frontoparietal coherence that automatic actions lack. Neurosurgical studies reveal a striking dissociation: stimulating one brain area produces conscious intention *without* movement, while stimulating another produces movement *without* any feeling of intending. The phenomenology of deciding is neurally separable from execution machinery—consciousness operates at the selection interface, not in downstream motor circuits. The same selection architecture appears in both attention and motor control, suggesting a unified mechanism rather than coincidence.
 
@@ -210,6 +210,6 @@ This apex article synthesizes:
 - [The Argument from Reason](/topics/argument-from-reason/) — The self-defeat of physicalism and non-phenomenological route to mental causation
 - [Moral Responsibility](/concepts/moral-responsibility/) — How agent causation grounds desert differently than compatibilism
 - [Time, Collapse, and Agency](/topics/time-collapse-and-agency/) — The temporal framework: atemporal selection and consciousness-constituted time
-- [Phenomenology of Choice](/concepts/phenomenology-of-choice/) — The experiential structure that distinguishes choosing from observing
+- [Phenomenology of Choice](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure that distinguishes choosing from observing
 - [Counterfactual Reasoning](/concepts/counterfactual-reasoning/) — The consciousness-dependent capacity to evaluate alternatives
 - [Counterfactual Void](/voids/counterfactual-void/) — The architectural limits of modal cognition and what they reveal about agency's scope

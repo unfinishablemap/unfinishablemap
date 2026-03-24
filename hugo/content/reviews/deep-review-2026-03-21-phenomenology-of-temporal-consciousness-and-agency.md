@@ -67,7 +67,7 @@ Updated references in 11 files (frontmatter + body wikilinks):
 - [bergson-and-duration](/topics/bergson-and-duration/)
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/)
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)
 - [phenomenology-of-attention-to-absence](/topics/phenomenology-of-attention-to-absence/)
 - [temporal-consciousness](/concepts/temporal-consciousness/)
 

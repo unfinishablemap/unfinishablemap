@@ -54,7 +54,7 @@ topics: []
 - Added 4 new cross-links to related Map content
 
 ### Cross-links Added
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/)
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)
 - [mental-effort](/concepts/mental-effort/)
 - [contemplative-epistemology](/concepts/contemplative-epistemology/)
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)

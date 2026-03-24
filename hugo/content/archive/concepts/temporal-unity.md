@@ -98,7 +98,7 @@ These dissociations support the view that temporal unity is a distinct phenomena
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If the specious present is constituted by accumulated collapse events, temporal unity is the phenomenal manifestation of consciousness's participation in collapse. The retention-protention structure maps onto the difference between collapsed (definite past) and uncollapsed (open future) states. Temporal unity would then be what it is like to be at the boundary where superposition resolves into fact.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Agency requires temporal unity. Deliberation involves retaining options under consideration while protending toward their consequences (see [phenomenology-of-choice](/concepts/phenomenology-of-choice/)). Without temporal unity binding these phases into a single deliberative episode, there could be no choosing—only isolated mental states with no experiential connection between weighing and deciding.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Agency requires temporal unity. Deliberation involves retaining options under consideration while protending toward their consequences (see [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)). Without temporal unity binding these phases into a single deliberative episode, there could be no choosing—only isolated mental states with no experiential connection between weighing and deciding.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Temporal unity involves retention inheriting from a *definite, singular* past. Many-worlds defenders reply that each branch-observer inherits determinate content from that branch's history—decoherence selects a preferred basis without collapse. The Map's response: if decoherence alone explains felt determinacy, consciousness plays no role in constituting temporal structure. Temporal unity becomes a passive side-effect of branch selection rather than a manifestation of consciousness participating in the world. The Map holds that temporal unity's phenomenal character—its felt irreversibility, its qualitative asymmetry between past and future—requires consciousness at the collapse boundary, not mere decoherent branching.
 
@@ -115,7 +115,7 @@ These dissociations support the view that temporal unity is a distinct phenomena
 - [collapse-and-time](/concepts/collapse-and-time/) — How consciousness may participate in constituting time's arrow
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno model of consciousness–brain interaction
 - Autonoetic Consciousness — Mental time travel and the temporal self
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — How temporal unity grounds deliberation and choosing
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — How temporal unity grounds deliberation and choosing
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's framework where experiential inheritance grounds continuity
 - [illusionism](/concepts/illusionism/) — The challenge that temporal flow is constructed narrative, not genuine property
 

@@ -95,7 +95,7 @@ Lucid dreams don't escape this constraint. Despite enhanced metacognitive access
 
 ## Voluntary Control and Bidirectional Interaction
 
-Lucid dreamers report varying degrees of dream control. Some achieve remarkable volitional influence: flying, transforming objects, changing locations at will. The [phenomenology of these choices](/concepts/phenomenology-of-choice/)—the felt sense of selecting one dream direction over another—mirrors waking voluntary action. The experience supports the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: consciousness appears able to influence the dream's content, not merely observe it.
+Lucid dreamers report varying degrees of dream control. Some achieve remarkable volitional influence: flying, transforming objects, changing locations at will. The [phenomenology of these choices](/concepts/phenomenology-of-choice-and-volition/)—the felt sense of selecting one dream direction over another—mirrors waking voluntary action. The experience supports the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: consciousness appears able to influence the dream's content, not merely observe it.
 
 However, dream control is not guaranteed. Many lucid dreamers report frustrating episodes where lucidity is achieved but control eludes them—the dream resists manipulation. This suggests the interface between consciousness and brain is negotiated rather than dominated. Consciousness can influence but not dictate.
 
@@ -193,7 +193,7 @@ The Map's interpretation of lucid dreaming would face difficulty if:
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates consciousness-brain interaction
 - [phenomenal-unity](/concepts/unity-of-consciousness/) — Unity of experience during dreams
 - [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Self-referential awareness and mental time travel
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The qualitative character of voluntary selection
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The qualitative character of voluntary selection
 - [interactionist-dualism](/concepts/interactionist-dualism/) — Quantum Zeno mechanism for consciousness-brain interaction
 
 ## References

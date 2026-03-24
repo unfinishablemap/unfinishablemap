@@ -6,6 +6,11 @@ modified: 2026-03-20
 human_modified:
 ai_modified: 2026-03-21T05:54:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-24T08:06:00+00:00
+superseded_by: "/concepts/phenomenology-of-choice-and-volition/"
+archive_reason: "Coalesced into Phenomenology of Choice and Volition"
+original_path: "/concepts/phenomenology-of-volition/"
 topics:
   - "[[topics/free-will]]"
   - "[[phenomenology-of-volitional-control]]"

@@ -89,7 +89,7 @@ These aren't merely subjective improvements. Within the Map's framework, they ar
 
 ## The Phenomenology of Attentional Choice
 
-The [phenomenology of choice](/concepts/phenomenology-of-choice/) reveals that choosing feels different from observing: there's a sense of active participation rather than passive reception. Attentional economics clarifies what this participation involves.
+The [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) reveals that choosing feels different from observing: there's a sense of active participation rather than passive reception. Attentional economics clarifies what this participation involves.
 
 When you choose where to direct attention, you experience:
 

@@ -202,7 +202,7 @@ Yet the gap is instructive: the phenomenology of effort provides evidence for ca
 - [mental-effort](/concepts/mental-effort/) - The phenomenology of effortful attention and will
 - [motor-selection](/concepts/motor-selection/) - How consciousness selects among competing motor patterns
 - [agent-causation](/concepts/agent-causation/) - Philosophical framework for irreducible agency
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) - The subjective experience of choosing
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) - The subjective experience of choosing
 - [free-will](/topics/free-will/) - Voluntary attention as evidence for libertarian free will
 - [libet-experiments](/concepts/libet-experiments/) - Analogous challenge from readiness potentials
 

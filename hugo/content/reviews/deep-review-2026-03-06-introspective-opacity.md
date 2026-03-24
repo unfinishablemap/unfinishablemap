@@ -60,7 +60,7 @@ All 16 citations verified across the merged article. No misattribution found. Ke
 
 ### Enhancements Made
 - Condensed from 3477 → 2998 words (below hard threshold)
-- Added [phenomenology-of-choice](/concepts/phenomenology-of-choice/) to related_articles and Further Reading
+- Added [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) to related_articles and Further Reading
 - Removed redundant prose in Minimal Quantum Interaction section
 - Tightened "causal interface extends inward" passage
 - Trimmed weaker challenge items (cross-cultural divergence, AI process-observation)
@@ -68,7 +68,7 @@ All 16 citations verified across the merged article. No misattribution found. Ke
 - Tightened Nisbett and Wilson introduction
 
 ### Cross-links Added
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) (related_articles, Further Reading)
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) (related_articles, Further Reading)
 
 ### Site-Wide Reference Updates
 Updated `[volitional-opacity](/voids/introspective-opacity/)` → `[introspective-opacity](/voids/introspective-opacity/)` in 12 content files:

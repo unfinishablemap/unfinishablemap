@@ -133,7 +133,7 @@ Protention differs from prediction. Predictive processing models (Clark, Friston
 
 Protention and retention are phenomenologically asymmetric. Retention preserves what has actually been experienced—fading in what Husserl called *Abklang*. Protention opens toward what has not been experienced, carrying only a directional structure shaped by what has been retained. This asymmetry connects to the [impossibility of pre-experience](/topics/consciousness-and-the-ontology-of-temporal-becoming/). Without protention, the specious present would be a trailing smear of fading past; protention gives it forward momentum.
 
-Protention connects to the [phenomenology of choice](/concepts/phenomenology-of-choice/): deliberation requires protentional inhabitation of possible futures, connecting to [agent-causal](/concepts/agent-causation/) accounts of free will and the Map's claim that consciousness selects among quantum possibilities. Unlike [prospective-memory](/concepts/prospective-memory/) (deliberate future simulation), protention is the anticipatory structure that makes deliberation possible.
+Protention connects to the [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/): deliberation requires protentional inhabitation of possible futures, connecting to [agent-causal](/concepts/agent-causation/) accounts of free will and the Map's claim that consciousness selects among quantum possibilities. Unlike [prospective-memory](/concepts/prospective-memory/) (deliberate future simulation), protention is the anticipatory structure that makes deliberation possible.
 
 ## Neural Correlates and Temporal Binding
 
@@ -199,7 +199,7 @@ Temporal consciousness connects to all five tenets:
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The specious present's duration may be the cumulative effect of countless quantum micro-selections, each individually minimal but collectively constituting the duration-block. Through the quantum Zeno mechanism, consciousness holds patterns in durée by rapid repeated selection.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Temporal consciousness provides the substrate for [choosing](/concepts/phenomenology-of-choice/). Selection requires an agent who persists across the moment of choosing, retains what was considered, and acts toward anticipated outcomes. Protention's directional orientation toward one possible future over another participates in selecting which neural patterns become actual. Durée's creative causation is what Bergson means by freedom—and what the Map means by consciousness influencing physical outcomes.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Temporal consciousness provides the substrate for [choosing](/concepts/phenomenology-of-choice-and-volition/). Selection requires an agent who persists across the moment of choosing, retains what was considered, and acts toward anticipated outcomes. Protention's directional orientation toward one possible future over another participates in selecting which neural patterns become actual. Durée's creative causation is what Bergson means by freedom—and what the Map means by consciousness influencing physical outcomes.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: If MWI branching occurred constantly, there would be no unified temporal experience but fragmentation across branches. The coherence of temporal experience—retention genuinely inheriting from a definite past—suggests collapse creates a single temporal thread. Bergson's interpenetrating duration presupposes temporal identity—[haecceity](/concepts/haecceity/)—that many-worlds dissolves.
 
@@ -215,7 +215,7 @@ Temporal consciousness connects to all five tenets:
 - [consciousness-as-activity](/topics/consciousness-as-activity/) — Why temporal extension is constitutive if consciousness is activity
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — How temporal thickness distinguishes genuine from automatic choice
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — Extended exploration of protention, surprise, and anticipatory consciousness
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — How anticipatory consciousness enables deliberation
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — How anticipatory consciousness enables deliberation
 - [neural-refresh-rates](/concepts/neural-refresh-rates/) — The discrete oscillatory sampling rates that create the smoothness problem
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — Comprehensive treatment including the constitutional thesis and circularity problem
 

@@ -62,6 +62,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-23
 
+### P2: Update references to coalesced phenomenology-of-choice and phenomenology-of-volition
+- **Type**: cross-review
+- **Notes**: Coalesce created [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/). ~60 files reference [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) and ~11 reference [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/) (now archived). Update wikilinks in active content (obsidian/ excluding reviews/ and workflow/archive/) to point to the unified article. Priority files: concept-of-free-will.md, agent-causation.md, mental-effort.md, free-will.md, phenomenology-of-agency-vs-passivity.md, testing-the-map-from-inside.md, consciousness-and-agency.md.
+- **Source**: coalesce
+- **Generated**: 2026-03-24
+
 ### P3: Address car-analogy and circularity issues in curated-mind.md
 - **Type**: refine-draft
 - **Status**: complete

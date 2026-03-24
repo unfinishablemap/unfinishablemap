@@ -68,7 +68,7 @@ The **[luck objection](/concepts/luck-objection/)** is the strongest challenge t
 
 Three lines of evidence support genuine agent causation:
 
-1. **Phenomenology of volition**: The [phenomenology of volition](/concepts/phenomenology-of-volition/) reveals four distinguishable components of willing — initiation, sustained control, effort, and veto — each with distinct neural correlates and clinical dissociation patterns. If choices were random fluctuations, this articulated structure would have no explanation. The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-effort/) extends the effort component to reasoning.
+1. **Phenomenology of volition**: The [phenomenology of volition](/concepts/phenomenology-of-choice-and-volition/) reveals four distinguishable components of willing — initiation, sustained control, effort, and veto — each with distinct neural correlates and clinical dissociation patterns. If choices were random fluctuations, this articulated structure would have no explanation. The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-effort/) extends the effort component to reasoning.
 2. **Reasons-guidance**: Selection responds to what matters to the agent. Reasons *influence* (though don't determine) which outcome actualizes.
 3. **Distinctive neural signatures**: Willed actions show frontal theta oscillations and bidirectional coherence that automatic processes lack.
 
@@ -80,7 +80,7 @@ Schwitzgebel (2011) has documented pervasive introspective failures. Why trust p
 
 ### The Phenomenology of Choice
 
-The [phenomenology of choice](/concepts/phenomenology-of-choice/) provides direct evidence that consciousness selects rather than merely observes. This phenomenological distinction maps onto neural reality: willed attention shows different signatures than automatic capture. If choosing were epiphenomenal decoration, this correlation would be coincidental.
+The [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) provides direct evidence that consciousness selects rather than merely observes. This phenomenological distinction maps onto neural reality: willed attention shows different signatures than automatic capture. If choosing were epiphenomenal decoration, this correlation would be coincidental.
 
 ### Counterfactual Reasoning
 
@@ -178,8 +178,8 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 - [agent-causation](/concepts/agent-causation/) — Why the Map's framework is agent-causal, including substance causation
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — How quantum mechanics supports libertarian free will
 - [mental-causation](/concepts/mental-causation/) — How the framework addresses Kim's exclusion argument
-- [phenomenology-of-volition](/concepts/phenomenology-of-volition/) — The four components of willing: initiation, sustained control, effort, and veto
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential structure of deciding
+- [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/) — The four components of willing: initiation, sustained control, effort, and veto
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of deciding
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — Consciousness-dependent capacity to imagine alternatives
 - [counterfactual-void](/voids/counterfactual-void/) — Architectural limits of modal cognition
 - [libet-experiments](/concepts/libet-experiments/) — Detailed analysis including retrocausal resolution

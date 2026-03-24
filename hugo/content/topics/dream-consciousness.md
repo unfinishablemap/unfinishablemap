@@ -122,7 +122,7 @@ Lucid dreaming involves [autonoetic awareness](/concepts/anoetic-noetic-autonoet
 
 ### Voluntary Control
 
-Lucid dreamers report varying degrees of dream control—flying, transforming objects, changing locations. The [phenomenology of these choices](/concepts/phenomenology-of-choice/) mirrors waking voluntary action, supporting the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. Control is not guaranteed: many lucid dreamers achieve lucidity without control, suggesting the interface is negotiated rather than dominated. On the filter model, this is partial filter reactivation: some executive constraint returns while sensory constraint remains absent, and the [attention-as-interface](/concepts/attention-as-interface/) hypothesis proposes consciousness interacts through attentional mechanisms that only partially reactivate during lucid REM.
+Lucid dreamers report varying degrees of dream control—flying, transforming objects, changing locations. The [phenomenology of these choices](/concepts/phenomenology-of-choice-and-volition/) mirrors waking voluntary action, supporting the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. Control is not guaranteed: many lucid dreamers achieve lucidity without control, suggesting the interface is negotiated rather than dominated. On the filter model, this is partial filter reactivation: some executive constraint returns while sensory constraint remains absent, and the [attention-as-interface](/concepts/attention-as-interface/) hypothesis proposes consciousness interacts through attentional mechanisms that only partially reactivate during lucid REM.
 
 ## Problem-Solving: Dreams That Outperform Waking
 
@@ -223,7 +223,7 @@ The Map's interpretation of dream consciousness would face difficulty if:
 - [metacognition](/concepts/metacognition/) — Metacognition's role in consciousness
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) — The sleep-onset transition as graded interface modulation
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Interface configurations across altered states
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The qualitative character of voluntary selection
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The qualitative character of voluntary selection
 - [higher-order-theories](/concepts/higher-order-theories/) — Higher-Order Thought theories challenged by non-lucid dream consciousness
 - [capability-division-problem](/voids/capability-division-problem/) — Which capabilities belong to the brain and which to consciousness
 - [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) — Memory as a dual-domain capability requiring both physical and non-physical contributions

@@ -71,7 +71,7 @@ topics: []
 ### Cross-links Added
 
 - [decoherence](/concepts/decoherence/) — Added to concepts and Further Reading
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — Added to concepts and Further Reading
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — Added to concepts and Further Reading
 - [agent-causation](/concepts/agent-causation/) — Added to concepts and Further Reading
 
 ## Word Count

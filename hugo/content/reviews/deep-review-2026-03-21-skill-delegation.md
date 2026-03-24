@@ -51,7 +51,7 @@ Previous review added 7 inbound links. This review adds 5 more to further integr
 - [attention-as-interface](/concepts/attention-as-interface/) — meditation section: skill delegation pattern in attentional training
 - [motor-selection](/concepts/motor-selection/) — phenomenology of motor choice: authorship progression from novice to expert
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — unconscious processing limitations: delegation creates established patterns
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — authorship section: weak authorship as delegated skill
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — authorship section: weak authorship as delegated skill
 - [free-will](/topics/free-will/) — distal intentions section: skill delegation as selective engagement
 
 Total inbound links now: 12 (7 from previous review + 5 new)

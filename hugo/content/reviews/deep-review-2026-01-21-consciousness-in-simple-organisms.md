@@ -99,7 +99,7 @@ None.
 
 - [philosophical-zombies](/concepts/philosophical-zombies/) (concepts frontmatter and Further Reading)
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) (concepts frontmatter and Further Reading)
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) (concepts frontmatter and Further Reading)
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) (concepts frontmatter and Further Reading)
 - [illusionism](/concepts/illusionism/) (Further Reading with description)
 - [haecceity](/concepts/haecceity/) (inline in No Many Worlds section)
 

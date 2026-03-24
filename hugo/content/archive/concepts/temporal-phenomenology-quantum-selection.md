@@ -132,7 +132,7 @@ What would challenge the framework: evidence that temporal phenomenology is full
 - [phenomenology-of-temporal-attention](/topics/phenomenology-of-temporal-consciousness-and-agency/) — How attention shapes temporal experience
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum Zeno model of consciousness-brain interaction
 - [quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/) — The measurement problem and consciousness
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — What it is like to choose
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — What it is like to choose
 - [mental-effort](/concepts/mental-effort/) — The felt cost of sustained attention
 - [consciousness-and-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — Why past and future feel different
 - [retrocausality](/concepts/retrocausality/) — Time-symmetric physics and backward causation

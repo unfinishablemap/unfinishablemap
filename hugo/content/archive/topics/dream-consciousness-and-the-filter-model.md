@@ -117,7 +117,7 @@ The Unfinishable Map's [tenets](/tenets/) illuminate the dream-filter relationsh
 
 **[Dualism](/tenets/#dualism)**: Dreams demonstrate consciousness generating experiential worlds with qualitative richness—the [hard problem](/topics/hard-problem-of-consciousness/) intensifies rather than dissolves. No neural account explains *why* prefrontal deactivation plus thalamic gating plus cholinergic activation should produce *vivid experiential immersion*. The correlations are established; the explanatory gap remains. Filter theory doesn't close this gap but reframes the brain's contribution from source to medium.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Lucid dreaming provides direct evidence. The dreamer's conscious intention to fly causes flight in the dream—consciousness influences the experiential world. That this influence is partial (dreams resist full control) fits the Map's interactionist framework: consciousness negotiates with physical systems rather than overriding them. The [phenomenology of choice](/concepts/phenomenology-of-choice/) during lucid dreaming—where the dreamer experiences genuine selection among possibilities—parallels the Map's broader account of conscious agency.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Lucid dreaming provides direct evidence. The dreamer's conscious intention to fly causes flight in the dream—consciousness influences the experiential world. That this influence is partial (dreams resist full control) fits the Map's interactionist framework: consciousness negotiates with physical systems rather than overriding them. The [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) during lucid dreaming—where the dreamer experiences genuine selection among possibilities—parallels the Map's broader account of conscious agency.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: During dreaming, the interface between consciousness and brain operates under different conditions. If consciousness normally influences quantum indeterminacies in neural systems, REM sleep's different neurochemistry may alter the parameters of this interaction—perhaps expanding the range of states consciousness can select among, which would explain dream variety. This remains speculative.
 
@@ -134,7 +134,7 @@ The Unfinishable Map's [tenets](/tenets/) illuminate the dream-filter relationsh
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Interface configurations across altered states
 - [default-mode-network](/concepts/default-mode-network/) — The narrative filter and its disruption
 - [near-death-experiences](/concepts/near-death-experiences/) — Enhanced experience during brain compromise
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential dimension of selection
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The experiential dimension of selection
 
 ## References
 

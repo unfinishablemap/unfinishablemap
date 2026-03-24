@@ -63,7 +63,7 @@ Now deliberately control your breath. Make it slower. Hold it briefly. Make it f
 
 The difference should be phenomenologically obvious. Observation has a receptive quality—breath happens; you notice. Control has an active quality—you participate in determining what occurs. The transition between modes is not subtle. You can feel when you shift from watching to directing.
 
-This distinction—between [choosing and observing](/concepts/phenomenology-of-choice/)—tracks something the Map takes to be real. The [trilemma of selection](/topics/trilemma-of-selection/) makes the logic explicit: at any decision point, the outcome is determined, random, or consciously selected. If determined, there should be no felt difference between controlling and observing—both decorate a fixed process. If random, controlling should feel like receiving a coin flip, not like work. Only genuine selection explains why directing your breath feels effortful while watching it feels receptive.
+This distinction—between [choosing and observing](/concepts/phenomenology-of-choice-and-volition/)—tracks something the Map takes to be real. The [trilemma of selection](/topics/trilemma-of-selection/) makes the logic explicit: at any decision point, the outcome is determined, random, or consciously selected. If determined, there should be no felt difference between controlling and observing—both decorate a fixed process. If random, controlling should feel like receiving a coin flip, not like work. Only genuine selection explains why directing your breath feels effortful while watching it feels receptive.
 
 ### The Materialist Response
 
@@ -133,7 +133,7 @@ Contemplative traditions report a developmental pattern: meditation is effortful
 
 ## Testing the Phenomenology of Choice
 
-The basic test showed that choosing feels different from observing. The effort test showed that sustained attention requires genuine work. Now we can examine the structure of choice itself: the Map's framework for [choice](/concepts/phenomenology-of-choice/) predicts specific features that should be introspectively accessible.
+The basic test showed that choosing feels different from observing. The effort test showed that sustained attention requires genuine work. Now we can examine the structure of choice itself: the Map's framework for [choice](/concepts/phenomenology-of-choice-and-volition/) predicts specific features that should be introspectively accessible.
 
 ### The Three-Level Test
 
@@ -274,6 +274,6 @@ This apex article synthesizes:
 - [Introspection and First-Person Methods](/concepts/introspection/) — The reliability debate and process/content distinction
 - [Witness Consciousness](/concepts/witness-consciousness/) — The observer phenomenon and its structural features
 - [Meditation and Consciousness Modes](/concepts/meditation-and-consciousness-modes/) — Active selection and passive witnessing as distinct modes
-- [Phenomenology of Choice](/concepts/phenomenology-of-choice/) — The experiential structure of deliberation and decision
+- [Phenomenology of Choice](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of deliberation and decision
 - [Mental Effort and the Quantum Zeno Effect](/concepts/mental-effort/) — Why sustained attention should feel like work
 - [Neurophenomenology and Contemplative Science](/concepts/neurophenomenology/) — Integrating first-person methods with neuroscience

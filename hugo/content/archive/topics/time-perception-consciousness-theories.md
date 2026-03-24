@@ -168,7 +168,7 @@ This analysis connects to all five of the Map's [foundational commitments](/tene
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If temporal phenomenology involves quantum processes—if collapse contributes to the constitution of experienced duration—then quantum effects at neural sites wouldn't be optional add-ons but participants in consciousness itself. This remains speculative, but the quantum framework provides a candidate mechanism worth exploring.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Temporal structure enables [genuine agency](/concepts/phenomenology-of-choice/)—not just responding to current inputs but integrating past learning with future goals through retention-protention structure. If consciousness flows through time and uses that flow to reason temporally, it does causal work that instantaneous accompaniment couldn't. Epiphenomenal consciousness couldn't have this temporal structure; it would be moment-by-moment accompaniment without the extended flow that enables planning and deliberation.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Temporal structure enables [genuine agency](/concepts/phenomenology-of-choice-and-volition/)—not just responding to current inputs but integrating past learning with future goals through retention-protention structure. If consciousness flows through time and uses that flow to reason temporally, it does causal work that instantaneous accompaniment couldn't. Epiphenomenal consciousness couldn't have this temporal structure; it would be moment-by-moment accompaniment without the extended flow that enables planning and deliberation.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The coherence of temporal experience—the fact that retention genuinely inherits from a definite past—suggests collapse creates a single temporal thread rather than ever-branching copies. In many-worlds, "your" specious present would branch at every quantum event, yet temporal experience feels like singular flow. The phenomenology supports real collapse over branch-splitting.
 
@@ -189,7 +189,7 @@ This analysis connects to all five of the Map's [foundational commitments](/tene
 - [illusionism](/concepts/illusionism/)—the challenge that temporal flow is a "user illusion"
 
 ### Agency and Interaction
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/)—how temporal structure enables genuine choosing
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)—how temporal structure enables genuine choosing
 - [free-will](/topics/free-will/)—temporal agency and the determination question
 - [agent-causation](/concepts/agent-causation/)—the self as originator of action in time
 

@@ -79,7 +79,7 @@ topics: []
 Body text:
 - [emotional-consciousness](/topics/emotion-and-dualism/) — in the emotional reality section
 - [free-will](/topics/free-will/) — in counterfactual inhabitation
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — open alternatives for deliberation
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — open alternatives for deliberation
 - [creativity-void](/voids/creativity-void/) — generative mystery of imagination
 - [mysterianism](/concepts/mysterianism/) — opacity of imaginative construction
 - [explanatory-gap](/concepts/explanatory-gap/) — indeterminate phenomenal states vs. determinate neural states

@@ -224,7 +224,7 @@ Classical binding approaches appear simpler—no quantum effects in warm biologi
 
 ## Further Reading
 
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — How conscious selection operates at the phenomenal level
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — How conscious selection operates at the phenomenal level
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How quantum binding might amplify cognitive capacities
 - [binding-problem](/concepts/binding-problem/) — The full binding problem including classical approaches
 - [phenomenal-unity](/concepts/unity-of-consciousness/) — The philosophical analysis of experiential unity

@@ -68,11 +68,11 @@ None. The previous review (2026-01-20) addressed major gaps including illusionis
 ### Cross-links Added
 Frontmatter concepts:
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/)
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)
 
 Further Reading additions:
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — moved to top with description
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — added second with description
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — added second with description
 
 ## Remaining Items
 

@@ -73,7 +73,7 @@ None. The article is well-constructed with appropriate hedging on speculative cl
 
 ### Cross-links Added
 
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — linked in the Manipulation Requirement section
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — linked in the Manipulation Requirement section
 
 ## Word Count
 

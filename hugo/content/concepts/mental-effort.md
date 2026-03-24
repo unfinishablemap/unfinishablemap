@@ -64,7 +64,7 @@ This neural distinction explains why effort tracks volition. Instructed attentio
 
 ### Choosing vs Observing
 
-The [phenomenology of choice](/concepts/phenomenology-of-choice/) clarifies what effort tracks. The [trilemma of selection](/topics/trilemma-of-selection/) makes the logical structure explicit: at any decision point, the outcome is determined, random, or consciously selected—and only selection explains why choosing feels effortful. When observing a coin flip, you experience the outcome as *happening to* you—no effort, no sense of authorship. When choosing, you participate in determining the outcome. The selection feels like something you *do*.
+The [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) clarifies what effort tracks. The [trilemma of selection](/topics/trilemma-of-selection/) makes the logical structure explicit: at any decision point, the outcome is determined, random, or consciously selected—and only selection explains why choosing feels effortful. When observing a coin flip, you experience the outcome as *happening to* you—no effort, no sense of authorship. When choosing, you participate in determining the outcome. The selection feels like something you *do*.
 
 This distinction extends to multiple levels: selecting among options, refraining from selection, and meta-choosing whether to enter selection mode at all. Each involves effort when consciously undertaken.
 
@@ -156,8 +156,8 @@ The phenomenology of effort provides a datum any account must explain. If contro
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Dopamine prepares the selection interface; theta oscillations provide the timing substrate
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the interface layer between consciousness and neural systems
 - [structure-of-attention](/topics/structure-of-attention/) — How attention is organized across voluntary, involuntary, and meta-attentional layers
-- [phenomenology-of-volition](/concepts/phenomenology-of-volition/) — The four-component structure of willing: initiation, sustained control, effort, and veto
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The choosing-observing distinction
+- [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/) — The four-component structure of willing: initiation, sustained control, effort, and veto
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The choosing-observing distinction
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Selection vs witnessing modes
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum consciousness mechanisms

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-04
-**Article**: [Phenomenology of Choice](/concepts/phenomenology-of-choice/)
+**Article**: [Phenomenology of Choice](/concepts/phenomenology-of-choice-and-volition/)
 **Previous review**: [2026-01-21](/reviews/deep-review-2026-01-21-phenomenology-of-choice/)
 
 ## Pessimistic Analysis Summary

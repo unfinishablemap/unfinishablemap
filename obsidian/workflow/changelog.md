@@ -5,6 +5,13 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 08:06 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/phenomenology-of-choice]], [[concepts/phenomenology-of-volition]]
+- **Target**: [[concepts/phenomenology-of-choice-and-volition]]
+- **Archived**: [[archive/concepts/phenomenology-of-choice]], [[archive/concepts/phenomenology-of-volition]]
+- **References to review**: ~71 (follow-up task created as P2 cross-review)
+
 ## 2026-03-24 07:50 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/curated-mind]]

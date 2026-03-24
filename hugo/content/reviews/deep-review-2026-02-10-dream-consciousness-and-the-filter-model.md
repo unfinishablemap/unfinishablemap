@@ -30,7 +30,7 @@ topics: []
 - **Sensory gating oversimplified**: "Thalamic gate largely blocks sensory input" understated that external stimuli can penetrate and get woven into dreams. Nuanced to acknowledge this, and noted it actually supports filter theory (filter adjusts rather than eliminates). Fixed.
 - **Rendering engine analogy cuts both ways**: The video game analogy ("procedurally generated content rather than externally sourced data") actually supports production models—the engine generates everything. Simplified the analogy to avoid this self-undermining comparison. Fixed.
 - **"Empirically equivalent" inconsistency**: Article stated theories are "often described as empirically equivalent" then listed divergent predictions. Rephrased to clarify they can accommodate findings after the fact but organise expectations differently. Fixed.
-- **Missing cross-links**: Added [near-death-experiences](/concepts/near-death-experiences/) and [phenomenology-of-choice](/concepts/phenomenology-of-choice/) as relevant connections. Fixed.
+- **Missing cross-links**: Added [near-death-experiences](/concepts/near-death-experiences/) and [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) as relevant connections. Fixed.
 
 ### Counterarguments Considered
 - **Churchland**: Production models don't predict degraded experience; they predict differently-organised experience. Addressed by rewriting the production model characterisation.
@@ -57,7 +57,7 @@ topics: []
 
 ### Cross-links Added
 - [near-death-experiences](/concepts/near-death-experiences/)
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/)
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)
 
 ## Remaining Items
 

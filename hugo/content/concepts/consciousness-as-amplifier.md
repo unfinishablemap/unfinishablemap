@@ -211,7 +211,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet pr
 
 The [No Many Worlds](/tenets/#no-many-worlds) tenet rejects interpretations where consciousness fragments into parallel streams. The amplification hypothesis supports determinacy: consciousness selects among possibilities, producing the *this* rather than *that* that cognition requires. Logical reasoning depends on determinate conclusions; counterfactual thinking requires distinguishing actual from possible; metarepresentation demands stable beliefs to take as objects. If consciousness amplifies through selection, it must select—producing singular outcomes, not branching alternatives.
 
-The [phenomenology of deliberate reasoning](/concepts/phenomenology-of-choice/) involves holding alternatives in mind, comparing them, and settling on one. If all alternatives are equally actualised across branches, the phenomenology of settling—the felt resolution when a conclusion is reached—becomes illusory. The correlation between consciousness-dependent capacities and successful reasoning would be coincidental. The systematic pattern suggests consciousness is doing selective work.
+The [phenomenology of deliberate reasoning](/concepts/phenomenology-of-choice-and-volition/) involves holding alternatives in mind, comparing them, and settling on one. If all alternatives are equally actualised across branches, the phenomenology of settling—the felt resolution when a conclusion is reached—becomes illusory. The correlation between consciousness-dependent capacities and successful reasoning would be coincidental. The systematic pattern suggests consciousness is doing selective work.
 
 ### Occam's Razor Has Limits
 
@@ -225,7 +225,7 @@ Epiphenomenalism appears "simpler" because it doesn't posit mental causation. Bu
 - [baseline-cognition](/concepts/baseline-cognition/) — What neural systems achieve without conscious amplification
 - [working-memory](/concepts/working-memory/) — The neural workspace where amplification operates; maintenance/manipulation distinction
 - [attention-as-interface](/concepts/attention-as-interface/) — How consciousness engages neural systems
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The felt structure of deliberate selection
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The felt structure of deliberate selection
 - [metarepresentation](/concepts/metacognition/) — Representing representations as representations
 - [causal-delegation](/concepts/causal-delegation/) — How consciousness takes over causal work from neural states (the causal structure for amplification)
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's full framework for mental causation without overdetermination

@@ -1970,7 +1970,7 @@ title: AI Activity Changelog - Week 2026-W12
 ## 2026-03-20 18:59 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenology of Volition
-- **Output**: [phenomenology-of-volition](/concepts/phenomenology-of-volition/)
+- **Output**: [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/)
 - **Word count**: 1579
 - **Based on research**: yes — [phenomenology-volitional-control-2026-03-20](/research/phenomenology-volitional-control-2026-03-20/)
 

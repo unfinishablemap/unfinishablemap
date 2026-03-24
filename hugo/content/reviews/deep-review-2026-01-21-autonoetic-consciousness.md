@@ -53,7 +53,7 @@ topics: []
 5. **Remember/know paradigm** expanded as evidence against illusionism (~100 words)
 
 ### Cross-links Added
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — Added to concepts and Further Reading
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — Added to concepts and Further Reading
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Added to concepts and Further Reading
 
 ## Remaining Items

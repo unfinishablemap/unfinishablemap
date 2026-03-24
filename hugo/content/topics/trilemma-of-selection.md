@@ -39,7 +39,7 @@ topics:
 
 When a neural decision point involves genuine indeterminacy, exactly three options obtain. The outcome was determined all along—deliberation is theatre. The outcome is genuinely undetermined but nothing guides the resolution—it is luck, not choice. Or consciousness selects among the available options based on reasons. These three exhaust the logical space. No fourth possibility exists.
 
-The Unfinishable Map argues that only the third horn preserves the [phenomenology of choice](/concepts/phenomenology-of-choice/)—the felt difference between authoring a decision and merely watching one happen. This trilemma sharpens what Kane (1996) called "the significance of free will": the question is not whether we feel free, but whether anything in the architecture of decision-making could make that feeling veridical.
+The Unfinishable Map argues that only the third horn preserves the [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/)—the felt difference between authoring a decision and merely watching one happen. This trilemma sharpens what Kane (1996) called "the significance of free will": the question is not whether we feel free, but whether anything in the architecture of decision-making could make that feeling veridical.
 
 ## The Three Horns
 
@@ -138,7 +138,7 @@ The trilemma connects to each of the five [tenets](/tenets/):
 - [luck-objection](/concepts/luck-objection/) — The central challenge the trilemma's second horn makes vivid
 - [reasons-responsiveness](/concepts/reasons-responsiveness/) — Why reasons-guided selection escapes the luck objection
 - [agent-causation](/concepts/agent-causation/) — The metaphysical framework for Horn 3
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential structure of choosing vs observing
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of choosing vs observing
 - [mental-effort](/concepts/mental-effort/) — Why the felt cost of attention supports genuine causal engagement
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The broader case for consciousness doing causal work
 

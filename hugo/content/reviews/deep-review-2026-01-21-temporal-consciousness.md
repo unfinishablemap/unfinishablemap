@@ -83,7 +83,7 @@ topics: []
 ### Cross-links Added
 
 - [illusionism](/concepts/illusionism/) — Added to concepts and Further Reading
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — Added to concepts and Further Reading
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — Added to concepts and Further Reading
 - [explanatory-gap](/concepts/explanatory-gap/) — Added to concepts
 
 ## Remaining Items

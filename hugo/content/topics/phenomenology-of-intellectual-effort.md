@@ -215,7 +215,7 @@ What does it feel like to reason? It feels like work—meaningful, directed, con
 
 - [argument-from-reason](/topics/argument-from-reason/) — The structural case that reasoning requires irreducible consciousness
 - [mental-effort](/concepts/mental-effort/) — Attentional effort and the quantum Zeno mechanism
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experience of deciding
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The experience of deciding
 - [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/) — The experience of evaluating evidence
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Feelings directed at knowledge: curiosity, certainty, doubt
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking itself has experiential character

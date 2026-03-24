@@ -88,7 +88,7 @@ All six adversarial personas engaged with the content. Key objections:
 The previous review already added appropriate cross-links:
 - [philosophical-zombies](/concepts/philosophical-zombies/)
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/)
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)
 - [illusionism](/concepts/illusionism/)
 - [haecceity](/concepts/haecceity/)
 

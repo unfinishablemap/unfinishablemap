@@ -110,7 +110,7 @@ The [meaning-of-life](/topics/meaning-of-life/) article properly distinguishes w
 - **Tenet alignment**: Supports Dualism through the argument that meaningful language requires consciousness.
 
 #### The Phenomenology of Authentic vs. Inauthentic Choice
-- **Builds on**: [existentialism](/concepts/existentialism/), [phenomenology-of-choice](/concepts/phenomenology-of-choice/), bad faith
+- **Builds on**: [existentialism](/concepts/existentialism/), [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/), bad faith
 - **Would address**: Sartre's distinction between authentic and bad-faith choice has phenomenological correlates. What does authentic choosing actually feel like versus going through the motions?
 - **Estimated scope**: Short article
 - **Tenet alignment**: Supports Bidirectional Interaction by identifying phenomenal signatures of genuine agency.

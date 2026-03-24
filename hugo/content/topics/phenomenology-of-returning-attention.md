@@ -95,7 +95,7 @@ A central question: who is the author of the return? Phase Three — the deliber
 
 The Map's framework handles this naturally. Noticing is the brain presenting information to consciousness: "attention has wandered." This is the ascending, physical-to-mental direction. Returning is consciousness acting on that information: "redirect to the breath." This is the descending, mental-to-physical direction. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet predicts exactly this two-directional structure within a single attentional event.
 
-The asymmetry also illuminates why returning attention feels like genuine agency. It is not mere stimulus-response. Between noticing and returning, there is a moment — often very brief — where the meditator could do something else: follow the new thought, give up the practice, shift to a different object. The returning is a choice, however rapid, and carries the [phenomenal signature of choosing](/concepts/phenomenology-of-choice/).
+The asymmetry also illuminates why returning attention feels like genuine agency. It is not mere stimulus-response. Between noticing and returning, there is a moment — often very brief — where the meditator could do something else: follow the new thought, give up the practice, shift to a different object. The returning is a choice, however rapid, and carries the [phenomenal signature of choosing](/concepts/phenomenology-of-choice-and-volition/).
 
 ## What Returns?
 

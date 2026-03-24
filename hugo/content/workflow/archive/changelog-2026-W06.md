@@ -4947,7 +4947,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 02:47 UTC - condense
 - **Status**: Success
-- **File**: [phenomenology-of-choice](/concepts/phenomenology-of-choice/)
+- **File**: [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)
 - **Before**: 3709 words
 - **After**: 2489 words
 - **Reduction**: 33%

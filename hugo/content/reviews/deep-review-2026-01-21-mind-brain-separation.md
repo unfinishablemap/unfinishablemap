@@ -61,7 +61,7 @@ topics: []
 
 ### Cross-links Added
 - [filter-theory](/concepts/filter-theory/) (detailed treatment)
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) (experiential dimension of selection)
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) (experiential dimension of selection)
 - [motor-selection](/concepts/motor-selection/) (motor pattern selection)
 - [illusionism](/concepts/illusionism/) (strongest physicalist challenge)
 - [near-death-experiences](/concepts/near-death-experiences/) (enhanced experience during brain compromise)

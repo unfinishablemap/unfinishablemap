@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-21
-**Article**: [Phenomenology of Volition](/concepts/phenomenology-of-volition/)
+**Article**: [Phenomenology of Volition](/concepts/phenomenology-of-choice-and-volition/)
 **Previous review**: [2026-03-20](/reviews/deep-review-2026-03-20-phenomenology-of-volition/)
 
 ## Pessimistic Analysis Summary
@@ -48,10 +48,10 @@ topics: []
 - Added [libet-experiments](/concepts/libet-experiments/) wikilink in Veto section
 
 ### Cross-links Added (Primary Focus)
-The article was orphaned with zero inbound links. Added [phenomenology-of-volition](/concepts/phenomenology-of-volition/) references to 9 articles:
+The article was orphaned with zero inbound links. Added [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/) references to 9 articles:
 
 **Inline cross-references (with contextual text):**
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — Added distinction sentence in opening and Further Reading entry
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — Added distinction sentence in opening and Further Reading entry
 - [mental-causation](/concepts/mental-causation/) — Added inline reference in Agent Causation section
 - [agent-causation](/concepts/agent-causation/) — Added inline reference in Motor Selection section
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — Added inline reference in Effort bullet point and Further Reading entry

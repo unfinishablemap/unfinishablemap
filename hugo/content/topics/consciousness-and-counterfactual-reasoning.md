@@ -120,7 +120,7 @@ The Map's tenets illuminate counterfactual reasoning from multiple angles:
 - [free-will](/topics/free-will/) — How counterfactual reasoning enables genuine choice
 - [baseline-cognition](/concepts/baseline-cognition/) — The framework distinguishing consciousness-dependent from baseline cognition
 - [consciousness-and-the-problem-of-induction](/topics/consciousness-and-the-problem-of-induction/) — Counterfactual assessment in inductive reasoning
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experience of deliberating among alternatives
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The experience of deliberating among alternatives
 - [agent-causation](/concepts/agent-causation/) — How the agent selects among counterfactually represented options
 
 ## References

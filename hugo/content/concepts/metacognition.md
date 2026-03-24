@@ -79,7 +79,7 @@ Metarepresentation involves three nested levels:
 
 The third level is crucial. Many animals show evidence of second-order states: uncertainty monitoring, strategic information-seeking, adjusting confidence. But these might operate procedurally—functional states that guide behaviour without explicit representation of themselves as mental states. Metarepresentation requires treating your mental states as the kind of thing that *can* be represented, examined, and evaluated.
 
-The [phenomenology of deliberate choice](/concepts/phenomenology-of-choice/) illustrates this structure. When you genuinely choose between options, you represent your possible actions as possible actions—not merely act on the strongest impulse but stand back from the options, recognise them as alternatives you could take, and select among them. This choosing-as-metarepresentation distinguishes human deliberation from sophisticated animal behaviour.
+The [phenomenology of deliberate choice](/concepts/phenomenology-of-choice-and-volition/) illustrates this structure. When you genuinely choose between options, you represent your possible actions as possible actions—not merely act on the strongest impulse but stand back from the options, recognise them as alternatives you could take, and select among them. This choosing-as-metarepresentation distinguishes human deliberation from sophisticated animal behaviour.
 
 ## Neural Substrate and Trainability
 

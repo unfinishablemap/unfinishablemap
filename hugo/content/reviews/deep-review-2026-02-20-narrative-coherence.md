@@ -55,11 +55,11 @@ topics: []
 - Clarified Parfit thought experiment to avoid logical self-defeat
 - Added qualification to conjunction fallacy inference
 - Added no-self/Buddhist engagement paragraph with Map's response
-- Added cross-link to [phenomenology-of-choice](/concepts/phenomenology-of-choice/)
+- Added cross-link to [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)
 - Added 2 new citations (Kahneman & Tversky 1973, Tversky & Kahneman 1971)
 
 ### Cross-links Added
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) (body text and Further Reading)
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) (body text and Further Reading)
 - [self-and-consciousness](/concepts/self-and-self-consciousness/) (body text, in new Buddhist response paragraph)
 
 ## Remaining Items

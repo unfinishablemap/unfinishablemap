@@ -170,7 +170,7 @@ The contemplative neuroscience integration article acknowledges what remains une
 | [predictive-processing](/concepts/predictive-processing/) | [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) | Both address how expectations shape experience |
 | [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) | [attention-interface-mechanisms](/topics/attention-as-selection-interface/) | Specific mechanisms should cross-reference |
 | [combination-problem](/concepts/combination-problem/) | [binding-problem](/concepts/binding-problem/) | Structurally parallel problems deserve explicit connection |
-| [existentialism](/concepts/existentialism/) | [phenomenology-of-choice](/concepts/phenomenology-of-choice/) | Sartre's analysis of choice directly relevant |
+| [existentialism](/concepts/existentialism/) | [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) | Sartre's analysis of choice directly relevant |
 | [temporal-consciousness](/concepts/temporal-consciousness/) | [temporal-consciousness](/concepts/temporal-consciousness/) | Currently separate—should explicitly connect |
 | [semantic-memory](/concepts/semantic-memory/) | [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) | Memory types and conscious awareness |
 | [counterfactual-reasoning](/concepts/counterfactual-reasoning/) | [free-will](/topics/free-will/) | Already connected but could be stronger |

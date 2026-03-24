@@ -158,7 +158,7 @@ Conflating the model with the ontology would be a category error—treating a us
 - [attentional-economics](/concepts/attentional-economics/) — The economics of the controller's scarce bandwidth
 - [motor-selection](/concepts/motor-selection/) — How the unified attention-motor system implements control
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of control effort
-- [phenomenology-of-volition](/concepts/phenomenology-of-volition/) — The experiential structure of willing: initiation, sustained control, effort, and veto
+- [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of willing: initiation, sustained control, effort, and veto
 - [the-psychophysical-control-law](/topics/the-psychophysical-control-law/) — Candidate coupling laws (control laws in this framing)
 - [agent-causation](/concepts/agent-causation/) — The metaphysics of the controller as genuine cause
 - [causal-closure](/concepts/causal-closure/) — Why control requires gaps in physical determinism

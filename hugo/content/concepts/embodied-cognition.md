@@ -108,7 +108,7 @@ The [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) hypothes
 
 The novice requires constant amplification—conscious attention directing each movement. The expert has trained procedural systems to handle execution; consciousness withdraws to meta-level oversight, ready to re-engage but not micromanaging. Choking represents inappropriate amplification: the expert re-engages conscious monitoring at the execution level, disrupting procedural systems optimised to operate without it.
 
-This connects to the [phenomenology of choice](/concepts/phenomenology-of-choice/). The expert in flow isn't experiencing *less*—they're experiencing differently. Both absorbed and effortful modes involve phenomenal consciousness; they differ in what consciousness is doing.
+This connects to the [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/). The expert in flow isn't experiencing *less*—they're experiencing differently. Both absorbed and effortful modes involve phenomenal consciousness; they differ in what consciousness is doing.
 
 ## The Extended Mind Debate
 
@@ -189,7 +189,7 @@ The key point: embodied cognition challenges a specific historical position (Car
 ## Further Reading
 
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness amplifies cognition, illuminating the Dreyfus progression
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The felt distinction between absorbed action and deliberate control
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The felt distinction between absorbed action and deliberate control
 - [phenomenology](/concepts/phenomenology/) — The philosophical tradition grounding embodied cognition
 - [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/) — Clinical evidence that disrupted embodiment reveals consciousness's structural architecture
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The filter theory that can accommodate embodiment

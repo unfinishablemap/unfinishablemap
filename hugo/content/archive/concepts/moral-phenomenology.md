@@ -131,7 +131,7 @@ None of these findings currently obtains. The challenge for sceptics is to produ
 - [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds moral desert
 - [agent-causation](/concepts/agent-causation/) — The metaphysics of origination underlying moral agency
 - [Consciousness and Normative Force](/topics/consciousness-and-normative-force/) — Why moral experience carries binding force
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The felt character of deliberation and decision
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The felt character of deliberation and decision
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — How genuine agency makes moral phenomenology track reality rather than decorate a determined process
 
 ## References

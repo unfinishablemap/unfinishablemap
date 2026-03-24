@@ -59,7 +59,7 @@ Metarepresentation involves three nested levels:
 
 The third level is crucial. Many animals show evidence of second-order states: uncertainty monitoring, strategic information-seeking, adjusting confidence. But these might operate procedurally—functional states that guide behaviour without explicit representation of themselves as mental states. Metarepresentation requires treating your mental states as the kind of thing that *can* be represented, examined, and evaluated.
 
-The [phenomenology of deliberate choice](/concepts/phenomenology-of-choice/) illustrates this structure. When you genuinely choose between options, you represent your possible actions as possible actions—not merely act on the strongest impulse but stand back from the options, recognise them as alternatives you could take, and select among them. This choosing-as-metarepresentation distinguishes human deliberation from sophisticated animal behaviour. The ape may have preferences; the human recognises having preferences and can take them as objects of further evaluation.
+The [phenomenology of deliberate choice](/concepts/phenomenology-of-choice-and-volition/) illustrates this structure. When you genuinely choose between options, you represent your possible actions as possible actions—not merely act on the strongest impulse but stand back from the options, recognise them as alternatives you could take, and select among them. This choosing-as-metarepresentation distinguishes human deliberation from sophisticated animal behaviour. The ape may have preferences; the human recognises having preferences and can take them as objects of further evaluation.
 
 ### Theory of Mind Levels
 
@@ -186,7 +186,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 - [epistemic-emotions](/concepts/epistemic-emotions/) — The phenomenology of knowing
 - [illusionism](/concepts/illusionism/) — The challenge and its regress problem
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative cultivation of metarepresentation
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The "standing back" structure in deliberation
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The "standing back" structure in deliberation
 - [motor-selection](/concepts/motor-selection/) — Choosing among action patterns as metarepresentation
 - [binding-problem](/concepts/binding-problem/) — Why unified metarepresentation requires binding
 - [consciousness-independent-baseline-cognition-2026-01-21](/research/consciousness-independent-baseline-cognition-2026-01-21/) — Research notes on baseline cognition

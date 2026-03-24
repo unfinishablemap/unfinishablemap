@@ -74,7 +74,7 @@ None. The article is well-structured with comprehensive tenet coverage and good 
 
 ### Cross-links Added
 
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/)
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)
 - [illusionism](/concepts/illusionism/)
 - [philosophical-zombies](/concepts/philosophical-zombies/)

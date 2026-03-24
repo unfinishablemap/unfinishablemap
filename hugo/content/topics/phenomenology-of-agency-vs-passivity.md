@@ -54,9 +54,9 @@ Every moment of experience falls somewhere on an axis between doing and undergoi
 
 At the active pole, experience has a distinctive character. When you deliberate and choose, direct attention voluntarily, or initiate a physical movement, several phenomenal features present themselves:
 
-- **Effort**: Active states feel like work. Sustaining focus on a difficult text, resisting distraction, or holding a decision open all involve phenomenal cost. The [phenomenology of effort](/concepts/mental-effort/) tracks real cognitive engagement—hard tasks feel hard because consciousness is doing more, not because the brain generates an arbitrary difficulty signal. The [phenomenology of volition](/concepts/phenomenology-of-volition/) identifies effort as one of four distinguishable components of willing, alongside initiation, sustained control, and veto.
+- **Effort**: Active states feel like work. Sustaining focus on a difficult text, resisting distraction, or holding a decision open all involve phenomenal cost. The [phenomenology of effort](/concepts/mental-effort/) tracks real cognitive engagement—hard tasks feel hard because consciousness is doing more, not because the brain generates an arbitrary difficulty signal. The [phenomenology of volition](/concepts/phenomenology-of-choice-and-volition/) identifies effort as one of four distinguishable components of willing, alongside initiation, sustained control, and veto.
 
-- **Authorship**: Actions feel *mine* in a way observations do not. The [sense of agency](/concepts/phenomenology-of-choice/) after a decision—"I chose this"—is a distinctive phenomenal quality absent from passively received outcomes.
+- **Authorship**: Actions feel *mine* in a way observations do not. The [sense of agency](/concepts/phenomenology-of-choice-and-volition/) after a decision—"I chose this"—is a distinctive phenomenal quality absent from passively received outcomes.
 
 - **Directedness**: Agentic experience has a forward-facing temporal structure. You are oriented toward a goal, shaping what comes next. The future feels open, the present feels like a hinge.
 
@@ -152,8 +152,8 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 
 ## Further Reading
 
-- [phenomenology-of-volition](/concepts/phenomenology-of-volition/) — The four components of willing: initiation, sustained control, effort, and veto
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The detailed structure of choosing
+- [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/) — The four components of willing: initiation, sustained control, effort, and veto
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The detailed structure of choosing
 - [witness-consciousness](/concepts/witness-consciousness/) — The passive pole explored through contemplative traditions
 - [agent-causation](/concepts/agent-causation/) — Why genuine agency requires agent-causation, not event-causation
 - [voluntary attention](/concepts/attention-as-interface/) — Neural signatures distinguishing willed from automatic processing

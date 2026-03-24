@@ -52,7 +52,7 @@ No new counterarguments beyond those addressed in the 2026-03-17 review. The sta
 - Added inbound cross-reference from [bergson-and-duration](/topics/bergson-and-duration/) (extended Duration and Free Will paragraph)
 - Added inbound cross-reference from [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/) (extended flow phenomenal signature paragraph)
 - Added inbound cross-reference from [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) (extended selection framework paragraph)
-- Added inbound cross-reference from [phenomenology-of-choice](/concepts/phenomenology-of-choice/) (extended moment of decision paragraph)
+- Added inbound cross-reference from [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) (extended moment of decision paragraph)
 - Added inbound cross-reference from [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) (extended interface revealed paragraph)
 - Added inbound cross-reference from [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/) (extended temporal phenomenology of projects paragraph)
 - Added phenomenology-of-temporal-selection to related_articles frontmatter in all 10 articles
@@ -65,7 +65,7 @@ No new counterarguments beyond those addressed in the 2026-03-17 review. The sta
 - [bergson-and-duration](/topics/bergson-and-duration/)
 - [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/)
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/)
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
 - [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/)
 

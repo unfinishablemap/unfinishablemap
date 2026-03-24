@@ -66,7 +66,7 @@ Crucially, the agent selects based on [reasons](/concepts/reasons-responsiveness
 
 Three lines of experiential evidence support genuine agency:
 
-**The [phenomenology of choice](/concepts/phenomenology-of-choice/)** — Choosing feels fundamentally different from observing. Deliberation involves felt openness among alternatives, resolution when one is selected, and a sense of authorship afterward — what the Map calls the [phenomenology of volition](/concepts/phenomenology-of-volition/). If choices were predetermined, this phenomenological structure would be systematically misleading in a way that requires its own explanation.
+**The [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/)** — Choosing feels fundamentally different from observing. Deliberation involves felt openness among alternatives, resolution when one is selected, and a sense of authorship afterward — what the Map calls the [phenomenology of volition](/concepts/phenomenology-of-choice-and-volition/). If choices were predetermined, this phenomenological structure would be systematically misleading in a way that requires its own explanation.
 
 **The [phenomenology of effort](/concepts/mental-effort/)** — Hard choices feel hard. Sustained attention requires ongoing engagement. William James argued that "the free will question relates solely to the amount of effort of attention." If choices were random fluctuations (as the luck objection suggests), there would be no phenomenology of effort — random events don't feel like work.
 
@@ -119,7 +119,7 @@ Failure of any *particular* proposed mechanism (quantum approaches, retrocausal 
 
 - [Free Will and Determinism](/topics/free-will/) — The Map's full treatment including neuroscience, luck objection, and temporal problem
 - [agent-causation](/concepts/agent-causation/) — Why the framework is agent-causal and the metaphysics of substance causation
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential structure of deliberation and decision
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of deliberation and decision
 - [mental-causation](/concepts/mental-causation/) — How consciousness causes physical outcomes; response to Kim's exclusion argument
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — The proposed quantum mechanism for mental causation
 - [luck-objection](/concepts/luck-objection/) — The strongest challenge to libertarian free will and the Map's response
@@ -130,7 +130,7 @@ Failure of any *particular* proposed mechanism (quantum approaches, retrocausal 
 - [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds genuine desert
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — The consciousness-dependent capacity to evaluate alternatives
 - [voluntary attention](/concepts/attention-as-interface/) — Neural signatures distinguishing willed from automatic action
-- [phenomenology-of-volition](/concepts/phenomenology-of-volition/) — The felt character of volitional experience and its evidential weight
+- [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/) — The felt character of volitional experience and its evidential weight
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — When choice engages genuine agency versus running on scripts
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — What genuine agency implies for obligation, character, and moral life
 

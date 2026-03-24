@@ -190,7 +190,7 @@ The view would be *supported* by:
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Why understanding may require phenomenal awareness
 - [working-memory](/concepts/working-memory/) — Computational limits that consciousness may transcend
 - [ai-consciousness](/topics/ai-consciousness/) — Whether artificial systems could understand mathematics
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — Parallels between choice phenomenology and insight phenomenology
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — Parallels between choice phenomenology and insight phenomenology
 - [agent-causation](/concepts/agent-causation/) — Mathematical creativity as a case of genuine causal agency
 - [computational-cognitive-limits](/voids/computational-cognitive-limits/) — Formal proofs of what computation cannot do
 

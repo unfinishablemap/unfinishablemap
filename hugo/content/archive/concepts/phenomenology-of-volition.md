@@ -3,6 +3,9 @@ ai_contribution: 100
 ai_generated_date: 2026-03-20
 ai_modified: 2026-03-21 05:54:00+00:00
 ai_system: claude-opus-4-6
+archive_reason: Coalesced into Phenomenology of Choice and Volition
+archived: true
+archived_date: 2026-03-24 08:06:00+00:00
 author: null
 concepts:
 - '[[phenomenology-of-choice]]'
@@ -25,12 +28,14 @@ human_modified: null
 last_curated: null
 last_deep_review: 2026-03-21 00:57:00+00:00
 modified: *id001
+original_path: /concepts/phenomenology-of-volition/
 related_articles:
 - '[[tenets]]'
 - '[[phenomenology-volitional-control-2026-03-20]]'
 - '[[control-theoretic-will]]'
 - '[[concept-of-free-will]]'
 - '[[cross-cultural-phenomenology-of-agency]]'
+superseded_by: /concepts/phenomenology-of-choice-and-volition/
 title: Phenomenology of Volition
 topics:
 - '[[topics/free-will]]'
@@ -39,7 +44,7 @@ topics:
 - '[[consciousness-and-causal-powers]]'
 ---
 
-Volition has a distinctive phenomenology. When you will an action — raising your arm, directing attention, suppressing an impulse — the experience differs qualitatively from anything that merely happens to you. The Unfinishable Map treats this phenomenology as evidence, not illusion: the first-person structure of willing reveals components that [mental causation](/concepts/mental-causation/) theories must account for and that [epiphenomenalist](/concepts/epiphenomenalism/) dismissals cannot explain away. Where [phenomenology of choice](/concepts/phenomenology-of-choice/) concerns the experience of deliberating between options, the phenomenology of volition concerns the experience of *exerting control itself* — the what-it-is-like of initiating, sustaining, and vetoing action.
+Volition has a distinctive phenomenology. When you will an action — raising your arm, directing attention, suppressing an impulse — the experience differs qualitatively from anything that merely happens to you. The Unfinishable Map treats this phenomenology as evidence, not illusion: the first-person structure of willing reveals components that [mental causation](/concepts/mental-causation/) theories must account for and that [epiphenomenalist](/concepts/epiphenomenalism/) dismissals cannot explain away. Where [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) concerns the experience of deliberating between options, the phenomenology of volition concerns the experience of *exerting control itself* — the what-it-is-like of initiating, sustaining, and vetoing action.
 
 ## Components of Volitional Experience
 
@@ -114,7 +119,7 @@ The Map's [tenets](/tenets/) predict the structure of volitional experience. **D
 ## Further Reading
 
 - [phenomenology-of-volitional-control](/topics/phenomenology-of-volitional-control/) — The broader debate: Libet, Schurger, and the evidence for conscious causation
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experience of deliberation and decision
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The experience of deliberation and decision
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The spectrum from full agency to full passivity
 - [mental-effort](/concepts/mental-effort/) — Why effort feels effortful and what this reveals
 - [agent-causation](/concepts/agent-causation/) — The metaphysics of agents as causes

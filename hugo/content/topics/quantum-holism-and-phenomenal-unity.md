@@ -207,7 +207,7 @@ The Map holds that current evidence favours the quantum position while acknowled
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why experience exists at all
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework within which unity finds its place
 - [illusionism](/concepts/illusionism/) — The deflationary challenge (and why it fails)
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — How conscious selection operates at the phenomenal level
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — How conscious selection operates at the phenomenal level
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How quantum binding might amplify cognitive capacities
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Orch OR and other quantum consciousness theories
 - [quantum-biology](/concepts/quantum-biology/) — Established quantum effects in living systems

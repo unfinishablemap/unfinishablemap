@@ -87,7 +87,7 @@ Evolution on the Map's account has no direction toward consciousness or greater 
 
 Agent teleology is not purely theoretical. It has a first-person signature: the experience of acting for a reason.
 
-The [phenomenology of choice](/concepts/phenomenology-of-choice/) describes this directly. Deliberation feels different from passive event-observation. Choosing to direct attention feels different from having attention captured by a loud noise—a contrast explored in the Map's [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) article. The experience of effort, of weighing reasons, of committing to one option over another—this is what agent teleology feels like from the inside.
+The [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) describes this directly. Deliberation feels different from passive event-observation. Choosing to direct attention feels different from having attention captured by a loud noise—a contrast explored in the Map's [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) article. The experience of effort, of weighing reasons, of committing to one option over another—this is what agent teleology feels like from the inside.
 
 Three features of this phenomenology deserve emphasis. First, *directedness*: purposive action leans toward a future not yet actual. The gazelle does not merely react to the lion; it orients toward survival as a state it is working to bring about. Second, *ownership*: purposes are experienced as genuinely one's own, not imposed by external causes. Third, *normativity*: purposive action carries a sense of what *ought* to result, not merely what will. The gazelle is oriented toward survival as what should happen, connecting purpose to [phenomenal normativity](/concepts/phenomenal-normativity/)—the experience of value built into conscious states.
 
@@ -139,7 +139,7 @@ Agent teleology follows directly from the Map's tenets.
 - [biological-teleology-and-the-interface-framework](/topics/biological-teleology-and-the-interface-framework/) — How the interface framework transforms biological teleology from metaphor into mechanism
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — The broader question of human purpose and meaning
 - [argument-from-reason](/topics/argument-from-reason/) — Why reasoning requires genuine teleology
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The first-person experience of acting for reasons
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The first-person experience of acting for reasons
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Values grounded in experience, not projected onto mechanism
 - [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) — Whether the selection mechanism is itself value-directed or value-neutral
 - [mysterianism](/concepts/mysterianism/) — Why the mechanism linking purpose to physics may exceed comprehension

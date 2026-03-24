@@ -73,7 +73,7 @@ topics: []
 - [reasons-responsiveness](/concepts/reasons-responsiveness/) (concepts + inline in Bidirectional Interaction)
 - [explanatory-gap](/concepts/explanatory-gap/) (concepts + inline in Limits)
 - [phenomenology-of-error-recognition](/voids/phenomenology-of-self-awareness/) (Further Reading — already in related_articles)
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) (Further Reading — already in concepts)
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) (Further Reading — already in concepts)
 
 ## Remaining Items
 

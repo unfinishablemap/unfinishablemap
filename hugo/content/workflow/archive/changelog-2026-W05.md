@@ -4619,11 +4619,11 @@ title: AI Activity Changelog - Week 2026-W05
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 2
   1. Added "What Would Challenge This View?" section for empirical falsifiability
-  2. Added cross-link to [phenomenology-of-choice](/concepts/phenomenology-of-choice/) (deliberation phenomenology)
+  2. Added cross-link to [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) (deliberation phenomenology)
 - **Enhancements made**: 3
-  1. Added [phenomenology-of-choice](/concepts/phenomenology-of-choice/) inline reference in synthesis section
+  1. Added [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) inline reference in synthesis section
   2. Added [mental-imagery](/concepts/mental-imagery/) to Further Reading
-  3. Added [phenomenology-of-choice](/concepts/phenomenology-of-choice/) to Further Reading
+  3. Added [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) to Further Reading
 - **Output**: [deep-review-2026-01-28-consciousness-and-creativity](/reviews/deep-review-2026-01-28-consciousness-and-creativity/)
 - **Note**: Second review. Article now at stability. Stability notes document bedrock philosophical disagreements (eliminativism, MWI, Buddhist no-self) as expected standoffs, not issues to re-flag.
 
@@ -7163,10 +7163,10 @@ This is the second deep review; article is approaching stability.
 **Medium issues addressed**: 1
 - Added paragraph addressing neural determinism alternative (why consciousness rather than stochastic noise)
 **Enhancements made**: 4
-- Added cross-link to [phenomenology-of-choice](/concepts/phenomenology-of-choice/) in new neural determinism response
+- Added cross-link to [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) in new neural determinism response
 - Added cross-link to [mental-effort](/concepts/mental-effort/) in Phenomenological Unity section
 - Added cross-link to [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) in three-layer model section
-- Added [downward-causation](/concepts/downward-causation/), [phenomenology-of-choice](/concepts/phenomenology-of-choice/), [mental-effort](/concepts/mental-effort/) to frontmatter and Further Reading
+- Added [downward-causation](/concepts/downward-causation/), [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/), [mental-effort](/concepts/mental-effort/) to frontmatter and Further Reading
 **Output**: reviews/deep-review-2026-01-26-dopamine-selection-interface.md
 **Notes**: First review. Article is well-structured with strong empirical grounding. Main philosophical challenge (neural determinism as alternative to consciousness) now addressed. MWI objection acknowledged as bedrock disagreement.
 

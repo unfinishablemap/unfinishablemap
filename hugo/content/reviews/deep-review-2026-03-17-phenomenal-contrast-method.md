@@ -56,7 +56,7 @@ topics: []
 - [phenomenological-evidence](/concepts/phenomenological-evidence/)
 - [heterophenomenology](/concepts/heterophenomenology/)
 - [neurophenomenology](/concepts/neurophenomenology/)
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/)
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)
 
 ## Remaining Items
 

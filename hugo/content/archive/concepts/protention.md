@@ -75,7 +75,7 @@ Bergson captured this in his account of *durée*: lived time is an interpenetrat
 
 ## Protention, Choice, and Agency
 
-Protention connects to the [phenomenology of choice](/concepts/phenomenology-of-choice/). Deliberation requires more than retaining options considered — it requires protentional inhabitation of possible futures. When deliberating, you lean into each possibility, feeling its character from the anticipatory stance. The [phenomenology of deciding](/topics/free-will/) involves moving between different protentional orientations.
+Protention connects to the [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/). Deliberation requires more than retaining options considered — it requires protentional inhabitation of possible futures. When deliberating, you lean into each possibility, feeling its character from the anticipatory stance. The [phenomenology of deciding](/topics/free-will/) involves moving between different protentional orientations.
 
 Husserl described protention as passive synthesis — something that happens to consciousness at the most basic level of temporal constitution. Deliberation involves higher-order active acts (imagination, evaluation, volition) that operate *upon* the passive protentional flow, redirecting attention across possible continuations. Whether this active redirection modifies protention itself or merely exploits it remains debated in Husserl scholarship, but either way, the result is that consciousness orients toward one possible future over another. This active orientation connects protention to [agent-causal](/concepts/agent-causation/) accounts of free will and to the Map's claim that consciousness selects among quantum possibilities in neural systems.
 
@@ -107,7 +107,7 @@ Protention supports the Map's foundational commitments at multiple points.
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and Husserl's tripartite structure
 - [temporal-thickness](/concepts/temporal-consciousness/) — How protentional reach contributes to moment density
 - [consciousness-and-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — Why protention and retention differ in phenomenal weight
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — How anticipatory consciousness enables deliberation
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — How anticipatory consciousness enables deliberation
 - [prospective-memory](/concepts/prospective-memory/) — Deliberate future simulation vs. pre-reflective protention
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's subjective aim and processual experience
 - [prehension](/concepts/prehension/) — Whitehead's concept of grasping predecessors (retention's metaphysical counterpart)

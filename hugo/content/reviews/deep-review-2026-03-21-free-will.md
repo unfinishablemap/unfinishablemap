@@ -28,8 +28,8 @@ None. The article has been through sixteen previous reviews and all critical iss
 
 ### Medium Issues Found
 
-1. **Under-integration of four-component volitional structure**: The article relied on "phenomenology of effort" as its primary phenomenological evidence for agent causation, but the new [phenomenology-of-volition](/concepts/phenomenology-of-volition/) concept identifies four distinguishable components (initiation, sustained control, effort, veto) with distinct neural correlates and clinical dissociations. This richer evidential base was absent.
-   - **Resolution**: Rewrote the first evidence point in the luck objection response to reference the full four-component structure from [phenomenology-of-volition](/concepts/phenomenology-of-volition/), arguing that this articulated phenomenology is inexplicable as random fluctuation.
+1. **Under-integration of four-component volitional structure**: The article relied on "phenomenology of effort" as its primary phenomenological evidence for agent causation, but the new [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/) concept identifies four distinguishable components (initiation, sustained control, effort, veto) with distinct neural correlates and clinical dissociations. This richer evidential base was absent.
+   - **Resolution**: Rewrote the first evidence point in the luck objection response to reference the full four-component structure from [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/), arguing that this articulated phenomenology is inexplicable as random fluctuation.
 
 2. **Missing "four independent tricks" argument against Wegner**: The phenomenology-of-volition article's strongest reply to the illusion challenge — that dismissing volitional phenomenology requires four independent fabrications, not one — was not deployed in the introspective reliability section.
    - **Resolution**: Added the "four independent tricks" argument and the agency/ownership dissociability evidence (Gallagher & Zahavi) to the introspective reliability section.
@@ -78,7 +78,7 @@ All attributions previously verified across 16 prior reviews. New Gallagher & Za
 3. **Agency/ownership dissociability**: Added Gallagher & Zahavi's evidence that schizophrenia and anarchic hand syndrome dissociate agency from ownership, demonstrating that initiation phenomenology tracks genuine causal structure.
 
 ### Cross-links Added
-- [phenomenology-of-volition](/concepts/phenomenology-of-volition/) — body-text integration in luck objection evidence section (already present in Further Reading)
+- [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/) — body-text integration in luck objection evidence section (already present in Further Reading)
 
 ## Word Count
 
@@ -93,7 +93,7 @@ None. The phenomenology-of-volition cross-review integration is complete.
 
 ## Stability Notes
 
-This article has reached high stability after seventeen reviews. Today's review integrated insights from the newly created [phenomenology-of-volition](/concepts/phenomenology-of-volition/) concept, enriching the phenomenological evidence from single-dimensional (effort) to four-component (initiation, sustained control, effort, veto) and deploying the "four independent tricks" argument against illusion theories.
+This article has reached high stability after seventeen reviews. Today's review integrated insights from the newly created [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/) concept, enriching the phenomenological evidence from single-dimensional (effort) to four-component (initiation, sustained control, effort, veto) and deploying the "four independent tricks" argument against illusion theories.
 
 **Bedrock disagreements that should NOT be re-flagged in future reviews:**
 

@@ -155,7 +155,7 @@ The "folk error" accusation receives careful treatment: "cognitive naturalness d
 | [knowledge-argument](/concepts/knowledge-argument/) | [consciousness-only-territories](/voids/consciousness-only-territories/) | Mary's learning illustrates territories accessible only through conscious experience |
 | [haecceity](/concepts/haecceity/) | [moral-responsibility](/concepts/moral-responsibility/) | Haecceity grounds desert—*this* agent did *this* action |
 | [vertiginous-question](/topics/vertiginous-question/) | [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) | Both address why indexical facts resist third-person reduction |
-| [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) | [phenomenology-of-choice](/concepts/phenomenology-of-choice/) | Meditation reveals the phenomenology of selection/non-selection |
+| [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) | [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) | Meditation reveals the phenomenology of selection/non-selection |
 
 ## New Concept Pages Needed
 

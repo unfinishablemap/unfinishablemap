@@ -27,7 +27,7 @@ None. The article remains well-structured with accurate attributions and sound a
 
 ### Medium Issues Found
 - [Missing frontmatter entry for self-stultification]: The concept `[self-stultification](/concepts/self-stultification/)` is used inline (line 87) but was not listed in the `concepts` frontmatter. **Resolution**: Added to frontmatter.
-- [Missing cross-link to phenomenology-of-volition]: The closely related concept `[phenomenology-of-volition](/concepts/phenomenology-of-volition/)` was not referenced anywhere despite covering volitional experience directly relevant to the phenomenological evidence section. **Resolution**: Added inline cross-link and Further Reading entry.
+- [Missing cross-link to phenomenology-of-volition]: The closely related concept `[phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/)` was not referenced anywhere despite covering volitional experience directly relevant to the phenomenological evidence section. **Resolution**: Added inline cross-link and Further Reading entry.
 
 ### Counterarguments Considered
 - All six adversarial personas found expected philosophical disagreements but no fixable flaws
@@ -59,11 +59,11 @@ No new attributions added since last review.
 
 ### Enhancements Made
 - Added `[self-stultification](/concepts/self-stultification/)` to frontmatter concepts
-- Added `[phenomenology-of-volition](/concepts/phenomenology-of-volition/)` to related_articles and inline cross-link
+- Added `[phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/)` to related_articles and inline cross-link
 - Added Further Reading entry for phenomenology-of-volition
 
 ### Cross-links Added
-- [phenomenology-of-volition](/concepts/phenomenology-of-volition/) — inline link in Phenomenological Evidence section + Further Reading + related_articles
+- [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/) — inline link in Phenomenological Evidence section + Further Reading + related_articles
 
 ## Remaining Items
 

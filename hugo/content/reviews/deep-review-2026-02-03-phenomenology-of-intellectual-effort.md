@@ -57,7 +57,7 @@ None to the target article—article is at 98% of soft threshold (2926/3000 word
 3. **[cognitive-phenomenology](/concepts/cognitive-phenomenology/)** — Added link in sudden insight section, connecting to complementary analysis
 4. **[phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/)** — Added link in effort subsection, cross-referencing detailed treatment
 5. **[free-will](/topics/free-will/)** — Added link in phenomenology of effort point, extending to reasoning
-6. **[phenomenology-of-choice](/concepts/phenomenology-of-choice/)** — Added link connecting decision effort to reasoning effort
+6. **[phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)** — Added link connecting decision effort to reasoning effort
 
 ## Remaining Items
 

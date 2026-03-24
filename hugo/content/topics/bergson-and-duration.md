@@ -136,7 +136,7 @@ Bergson's philosophy aligns with the Map's framework at multiple points while di
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, and the Map's growing block position
 - [free-will](/topics/free-will/) — The Map's defence of agent-causal libertarian free will
 - [agent-causation](/concepts/agent-causation/) — The self as originator of action in durée
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The lived experience of deliberation and decision
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The lived experience of deliberation and decision
 - [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — How temporal ontology constrains consciousness theory, and why consciousness constitutes time's felt direction
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — Duration's creative novelty and the generation-selection model
 - [prehension](/concepts/prehension/) — Whitehead's concept of experiential inheritance

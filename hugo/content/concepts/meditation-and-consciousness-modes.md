@@ -222,7 +222,7 @@ This framework avoids a dualism of substances while preserving genuine distincti
 
 Whitehead's "primordial nature of God" (the eternal ordering of possibilities) and "consequent nature" (the ongoing reception of actualized experience) provide another lens. Witness mode might access something like the primordial ordering—a receptivity to pattern without imposition. Selection mode engages the consequent nature—the ongoing determination of what becomes actual.
 
-This connects to the [phenomenology of choice](/concepts/phenomenology-of-choice/): the felt difference between observing possibilities and selecting among them isn't an illusion but reflects the fundamental structure of how experience unfolds.
+This connects to the [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/): the felt difference between observing possibilities and selecting among them isn't an illusion but reflects the fundamental structure of how experience unfolds.
 
 ## Relation to Site Tenets
 
@@ -271,7 +271,7 @@ FA meditation strengthens selection. OM meditation cultivates witnessing. Both a
 - [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — Neuroplasticity evidence from meditation training supporting bidirectional interaction
 - [neurophenomenology](/concepts/neurophenomenology/) — Varela's mutual constraints framework integrating first-person and third-person methods
 - [illusionism](/concepts/illusionism/) — The illusionist challenge and quasi-phenomenal properties
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The felt difference between choosing and observing
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The felt difference between choosing and observing
 - [attention-as-interface](/concepts/attention-as-interface/) — How consciousness influences matter through attention
 - [mental-effort](/concepts/mental-effort/) — The phenomenology and mechanism of effortful attention
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The quantum Zeno mechanism for selection

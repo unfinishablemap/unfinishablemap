@@ -68,7 +68,7 @@ topics: []
 
 ### Cross-links Added
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) (frontmatter + body + Further Reading)
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) (frontmatter + body + Further Reading)
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) (frontmatter + body + Further Reading)
 - [philosophical-zombies](/concepts/philosophical-zombies/) (frontmatter + body + Further Reading)
 - [haecceity](/concepts/haecceity/) (frontmatter + No Many Worlds section + Further Reading)
 

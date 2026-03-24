@@ -64,9 +64,9 @@ A physicalist can respond that the brain's resource-monitoring systems generate 
 
 ### Selection: The Feel of Choosing
 
-The second feature is the [distinctive phenomenology of selecting among alternatives](/concepts/phenomenology-of-choice/). Choosing differs from observing in ways that resist deflationary explanation (Bayne & Levy, 2006; Pacherie, 2008). During deliberation, options present themselves as genuinely open — both feel like live possibilities you could actualise. There is a characteristic *settling* when one alternative becomes actual and others fade to counterfactuals. And after deciding, a sense of authorship — "I did that" — attaches to the outcome.
+The second feature is the [distinctive phenomenology of selecting among alternatives](/concepts/phenomenology-of-choice-and-volition/). Choosing differs from observing in ways that resist deflationary explanation (Bayne & Levy, 2006; Pacherie, 2008). During deliberation, options present themselves as genuinely open — both feel like live possibilities you could actualise. There is a characteristic *settling* when one alternative becomes actual and others fade to counterfactuals. And after deciding, a sense of authorship — "I did that" — attaches to the outcome.
 
-The contrast with passive observation is phenomenologically vivid. When observing a coin flip, the outcome happens *to* you — no effort, no authorship. When choosing, you participate in determining the outcome. A table adapted from the [phenomenology of choice](/concepts/phenomenology-of-choice/) article captures the asymmetry:
+The contrast with passive observation is phenomenologically vivid. When observing a coin flip, the outcome happens *to* you — no effort, no authorship. When choosing, you participate in determining the outcome. A table adapted from the [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) article captures the asymmetry:
 
 | Feature | Observation | Choice |
 |---------|-------------|--------|
@@ -167,7 +167,7 @@ This apex article synthesises:
 - [Mental Imagery and the Causal Role of Consciousness](/topics/mental-imagery-causal-role-of-consciousness/) — Voluntary imagery as a concrete test case where phenomenal content produces measurable physical effects
 - [Cross-Cultural Phenomenology of Agency](/topics/cross-cultural-phenomenology-of-agency/) — How cultural frameworks shape agency experience while leaving a universal phenomenological core intact
 - [Mental Effort and the Quantum Zeno Effect](/concepts/mental-effort/) — The phenomenology of effortful attention as evidence for consciousness-matter interaction
-- [Phenomenology of Choice](/concepts/phenomenology-of-choice/) — The experiential structure of deliberation, decision, and authorship
+- [Phenomenology of Choice](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of deliberation, decision, and authorship
 - [Introspective Opacity](/voids/introspective-opacity/) — Why we cannot observe our own cognitive processes, with volitional opacity as the deepest case
 - [Attention as Interface](/concepts/attention-as-interface/) — How attention functions as the causal bridge between consciousness and neural systems
 - [Attention as Causal Bridge](/apex/attention-as-causal-bridge/) — The mechanism by which attention mediates consciousness-brain interaction

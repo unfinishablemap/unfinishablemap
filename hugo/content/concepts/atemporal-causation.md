@@ -85,7 +85,7 @@ The [time-symmetric selection mechanism](/topics/time-symmetric-selection-mechan
 
 The readiness potential that [Libet](/concepts/libet-experiments/) detected isn't prior to the cause — it's *part of* what gets caused. The selection determines the whole correlated history at once.
 
-This aligns with the [phenomenology of decision](/concepts/phenomenology-of-choice/). Deliberation feels like weighing genuine alternatives, not receiving pre-made outcomes. Resolution feels like crystallisation — one option becoming actual while others fade. These experiences match atemporal constraint satisfaction better than sequential causation, where the cause must precede the effect and the "deciding" would have to happen before the neural preparation it supposedly governs.
+This aligns with the [phenomenology of decision](/concepts/phenomenology-of-choice-and-volition/). Deliberation feels like weighing genuine alternatives, not receiving pre-made outcomes. Resolution feels like crystallisation — one option becoming actual while others fade. These experiences match atemporal constraint satisfaction better than sequential causation, where the cause must precede the effect and the "deciding" would have to happen before the neural preparation it supposedly governs.
 
 ## Removing an Objection Is Not Providing a Mechanism
 
@@ -157,7 +157,7 @@ Atemporal causation connects to each of the Map's tenets:
 - [agent-causation](/concepts/agent-causation/) — How agents serve as ultimate causal sources
 - [causal-closure](/concepts/causal-closure/) — The principle atemporal causation challenges
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's concrescence as atemporal constitution
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — How atemporal selection manifests in experience
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — How atemporal selection manifests in experience
 
 ## References
 

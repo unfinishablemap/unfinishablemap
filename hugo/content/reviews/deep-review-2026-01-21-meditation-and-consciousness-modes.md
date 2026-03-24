@@ -65,7 +65,7 @@ All addressed through additions described above.
 
 ### Cross-links Added
 - [illusionism](/concepts/illusionism/) (concepts frontmatter and Further Reading)
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) (concepts frontmatter and Further Reading)
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) (concepts frontmatter and Further Reading)
 - [phenomenology](/concepts/phenomenology/) (concepts frontmatter and Further Reading)
 
 ## Summary of Changes

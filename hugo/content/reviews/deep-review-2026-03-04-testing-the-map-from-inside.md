@@ -74,7 +74,7 @@ All six adversarial personas were applied. No new critical issues emerged beyond
 **To this article (inbound — orphan fix):**
 - [introspection](/concepts/introspection/) (Further Reading)
 - [witness-consciousness](/concepts/witness-consciousness/) (Further Reading)
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) (Further Reading)
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) (Further Reading)
 - [mental-effort](/concepts/mental-effort/) (Further Reading)
 - [neurophenomenology](/concepts/neurophenomenology/) (Further Reading)
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) (Further Reading)

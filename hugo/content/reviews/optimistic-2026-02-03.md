@@ -159,7 +159,7 @@ This combination of philosophical rigor with appropriate humility about limits i
 | [dreamless-sleep-void](/voids/sleep-consciousness-void/) | [personal-identity](/topics/personal-identity/) | Deep sleep challenges continuity accounts of identity |
 | [normative-void](/voids/normative-void/) | [meaning-of-life](/topics/meaning-of-life/) | Extends mysterianism to value questions |
 | [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) | [time-symmetric-physics](/concepts/time-symmetric-physics/) | Empirical claims connect to theoretical framework |
-| [phenomenology-of-choice](/concepts/phenomenology-of-choice/) | [motor-selection](/concepts/motor-selection/) | Choice phenomenology parallels motor selection phenomenology |
+| [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) | [motor-selection](/concepts/motor-selection/) | Choice phenomenology parallels motor selection phenomenology |
 | [volitional-opacity](/voids/introspective-opacity/) | [free-will](/topics/free-will/) | Explains why willing's mechanism is hidden |
 | [epistemic-emotions](/concepts/epistemic-emotions/) | [argument-from-reason](/topics/argument-from-reason/) | Emotions like certainty/doubt ground normative tracking |
 

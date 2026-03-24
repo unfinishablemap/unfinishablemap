@@ -62,7 +62,7 @@ Kane would find the Map's treatment of free will among the most developed philos
 
 The supporting network is where the Map exceeds what most treatments offer:
 - [agent-causation](/concepts/agent-causation/) develops the metaphysical framework
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) explores what choosing feels like in detail
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) explores what choosing feels like in detail
 - [libet-experiments](/concepts/libet-experiments/) engages the strongest empirical challenge with the retrocausal resolution
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) provides the physics
 - [luck-objection](/concepts/luck-objection/) addresses the most persistent philosophical challenge

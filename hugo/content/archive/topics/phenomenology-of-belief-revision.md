@@ -60,7 +60,7 @@ William James described something analogous in his account of religious conversi
 
 - **Loss of coherence**: The old belief network stops generating the feeling of things fitting together. Arguments that once seemed decisive now feel hollow.
 - **Epistemic vertigo**: A brief period where neither the old nor the new framework organises experience. The mind floats without stable orientation.
-- **Involuntary recognition**: The new view forces itself into awareness. You do not so much choose to believe differently as find that you already do—a striking contrast with the [phenomenology of deliberate choice](/concepts/phenomenology-of-choice/).
+- **Involuntary recognition**: The new view forces itself into awareness. You do not so much choose to believe differently as find that you already do—a striking contrast with the [phenomenology of deliberate choice](/concepts/phenomenology-of-choice-and-volition/).
 
 This last feature is philosophically significant. Belief revision often has a passive quality at the moment of transition—we undergo it rather than perform it. Yet the process leading to that moment involved active conscious engagement: weighing evidence, entertaining [counterfactuals](/concepts/counterfactual-reasoning/), deploying [mental-effort](/concepts/mental-effort/) to sustain attention on the felt quality of different positions. The rupture arrives as the culmination of conscious work, not as an unconscious output delivered to awareness after the fact.
 
@@ -115,7 +115,7 @@ The bootstrap problem for belief revision also connects to the Map's [tenet on O
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
 - [phenomenology-of-self-awareness](/voids/phenomenology-of-self-awareness/)
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/)
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)
 - [epistemic-emotions](/concepts/epistemic-emotions/)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
 - [contemplative-epistemology](/concepts/contemplative-epistemology/)

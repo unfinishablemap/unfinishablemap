@@ -218,7 +218,7 @@ The temporal structure of consciousness connects to all five [tenets](/tenets/):
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The specious present's duration (~100ms-3s) may reflect accumulated collapse events—each individually minimal but collectively constituting the experienced duration-block. Time-symmetric frameworks make this even more minimal: consciousness satisfies constraints across time rather than pushing events at moments.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Consciousness selects collapse outcomes, affecting physical states. If collapse creates temporal direction, "bidirectional" includes temporal direction—selection propagates into both past and future through retrocausal constraint satisfaction. Temporal experience provides the substrate for agency: choice requires retention of options considered and protention toward outcomes anticipated. The [phenomenology of deliberation](/concepts/phenomenology-of-choice/)—holding possibilities open, then narrowing to decision—presupposes temporal structure.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Consciousness selects collapse outcomes, affecting physical states. If collapse creates temporal direction, "bidirectional" includes temporal direction—selection propagates into both past and future through retrocausal constraint satisfaction. Temporal experience provides the substrate for agency: choice requires retention of options considered and protention toward outcomes anticipated. The [phenomenology of deliberation](/concepts/phenomenology-of-choice-and-volition/)—holding possibilities open, then narrowing to decision—presupposes temporal structure.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: In MWI, temporal integration must work identically in every branch, making it a purely physical process with no role for consciousness—precisely the view the explanatory gap challenges. The coherence of temporal integration—retention inheriting from a definite, singular past—fits more naturally with collapse producing one timeline than with deterministic branching where protentional openness is illusory.
 
@@ -233,7 +233,7 @@ The temporal structure of consciousness connects to all five [tenets](/tenets/):
 - [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/) — How discrete neural oscillations clash with continuous phenomenal experience
 - [free-will](/topics/free-will/) — Temporal agency and the determination question
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The broader challenge of explaining experience
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — What it's like to choose, including temporal aspects
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — What it's like to choose, including temporal aspects
 - [neurophenomenology](/concepts/neurophenomenology/) — Integrating first-person methods with neuroscience
 - [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — How temporal ontology constrains consciousness theory, and why consciousness constitutes time's felt direction
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's framework where experience is fundamental

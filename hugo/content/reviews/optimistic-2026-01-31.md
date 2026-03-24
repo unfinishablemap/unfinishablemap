@@ -174,7 +174,7 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article innovatively prop
 | [implicit-memory](/concepts/implicit-memory/) | [voluntary-attention](/concepts/attention-as-interface/) | Choking shows attention's causal efficacy |
 | [blindsight](/concepts/blindsight/) | [baseline-cognition](/concepts/baseline-cognition/) | Blindsight demonstrates baseline visual processing |
 | [epistemic-emotions](/concepts/epistemic-emotions/) | [metacognition](/concepts/metacognition/) | FOK/TOT as metarepresentational evidence |
-| [phenomenology-of-choice](/concepts/phenomenology-of-choice/) | [agent-causation](/concepts/agent-causation/) | Effort phenomenology grounds agent causation |
+| [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) | [agent-causation](/concepts/agent-causation/) | Effort phenomenology grounds agent causation |
 | [cognitive-phenomenology](/concepts/cognitive-phenomenology/) | [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) | Understanding has phenomenal character processing lacks |
 
 ## New Concept Pages Needed

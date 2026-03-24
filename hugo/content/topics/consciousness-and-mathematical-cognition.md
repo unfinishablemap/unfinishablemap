@@ -229,7 +229,7 @@ The view would be supported by continued failure of AI to achieve transformation
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Why aesthetic experience matters philosophically
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — The felt difference between mechanical verification and genuine comprehension
 - [computational-cognitive-limits](/voids/computational-cognitive-limits/) — Formal proofs of what computation cannot do
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — Parallels between choice phenomenology and insight phenomenology
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — Parallels between choice phenomenology and insight phenomenology
 - [agent-causation](/concepts/agent-causation/) — Mathematical creativity as a case of genuine causal agency
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why logic and mathematics reach a principled boundary at consciousness
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — Gödel's incompleteness and quantum measurement as instances of the same self-referential obstruction

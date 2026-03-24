@@ -77,7 +77,7 @@ Six sympathetic philosopher personas identified strengths and opportunities.
 
 ### Cross-links Added
 
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The "standing back" structure in deliberation
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The "standing back" structure in deliberation
 - [motor-selection](/concepts/motor-selection/) — Choosing among action patterns as metarepresentation
 - [binding-problem](/concepts/binding-problem/) — Why unified metarepresentation requires binding
 

@@ -27,7 +27,7 @@ topics: []
 
 ### Medium Issues Found
 - **Functionalist dismissal too quick**: The article claimed shared phenomenal architecture is "surprising" on functionalist accounts, but functionalism predicts shared *functional* architecture across domains. Resolution: Rewrote to acknowledge the functionalist response, then distinguish phenomenal from functional shared structure — the key evidence is shared *qualitative* character, not shared processing.
-- **Computationalist dismissal underdeveloped**: "Fails to account for several features" listed features without explaining why computational models specifically can't model them. Resolution: Rewrote to concede that computation can model oscillation and attention, then pinpoint what it cannot capture — the first-person character of commitment and the experience of deliberation not determining the outcome. Added cross-link to [phenomenology-of-choice](/concepts/phenomenology-of-choice/).
+- **Computationalist dismissal underdeveloped**: "Fails to account for several features" listed features without explaining why computational models specifically can't model them. Resolution: Rewrote to concede that computation can model oscillation and attention, then pinpoint what it cannot capture — the first-person character of commitment and the experience of deliberation not determining the outcome. Added cross-link to [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/).
 - **MQI tenet connection too vague**: "May represent a case where the stakes of that influence are highest" was a bare possibility claim. Resolution: Rewrote with more substance — normative adjudication is where the agent's commitment must translate into one physical action rather than another at a juncture where demands underdetermine the outcome. Added cross-link to [mental-effort](/concepts/mental-effort/).
 - **Uncited references**: Chudnoff (2013), Kriegel (2015), and Murdoch (1970) appear in References but are not cited in text. Deferred — these serve as background reading and this is acceptable practice for a references section.
 
@@ -52,13 +52,13 @@ topics: []
 - Strengthened functionalist engagement: now distinguishes phenomenal from functional shared architecture
 - Sharpened computationalist response: concedes what computation can model, pinpoints what it cannot
 - Made MQI tenet connection substantive: now explains *why* normative adjudication is a candidate for quantum-level influence
-- Added cross-link to [phenomenology-of-choice](/concepts/phenomenology-of-choice/) at the resolution-as-leap discussion
+- Added cross-link to [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) at the resolution-as-leap discussion
 - Added cross-link to [mental-effort](/concepts/mental-effort/) in the MQI tenet paragraph
 - Fixed broken link to [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) (2 locations)
 - Tightened prose in demand-character, resistance-to-preference, epistemic normativity, and cross-domain conflict sections to maintain length neutrality
 
 ### Cross-links Added
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/)
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)
 - [mental-effort](/concepts/mental-effort/)
 - [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) (fixed from broken link)
 

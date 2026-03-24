@@ -30,9 +30,9 @@ topics: []
 - All attributions verified correct (Searle, Dreyfus, Bergson, Lutz et al., Suzuki, Wegner, James) — no changes from previous review.
 
 ### Medium Issues Found
-- **Four-component framework unconnected in body**: The Further Reading linked to [phenomenology-of-volition](/concepts/phenomenology-of-volition/) with good annotation, but the body never used the precise vocabulary (initiation, sustained control, effort, veto). Resolved by integrating the framework into the "Authorship without effort" subsection.
+- **Four-component framework unconnected in body**: The Further Reading linked to [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/) with good annotation, but the body never used the precise vocabulary (initiation, sustained control, effort, veto). Resolved by integrating the framework into the "Authorship without effort" subsection.
 - **Veto component unaddressed**: The article discussed what spontaneous action includes phenomenologically but not whether veto capacity is preserved. Resolved by noting that veto is preserved — you can stop the reaching hand — confirming conscious governance even without deliberation.
-- **[phenomenology-of-volition](/concepts/phenomenology-of-volition/) missing from frontmatter**: Added to concepts list.
+- **[phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/) missing from frontmatter**: Added to concepts list.
 
 ### Counterarguments Considered
 - All six adversarial personas' positions remain as documented in previous two reviews. No new issues surfaced. These are bedrock disagreements, not fixable problems.
@@ -52,11 +52,11 @@ topics: []
 ### Enhancements Made
 - Integrated four-component volitional framework (initiation, sustained control, effort, veto) into Phenomenological Profile
 - Added veto preservation argument — strengthens the "genuinely authored" claim
-- Added [phenomenology-of-volition](/concepts/phenomenology-of-volition/) to frontmatter concepts
+- Added [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/) to frontmatter concepts
 - Tightened "Compressed temporality" and "For the Selection Framework" prose to offset additions
 
 ### Cross-links Added
-- [phenomenology-of-volition](/concepts/phenomenology-of-volition/) (frontmatter and body)
+- [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/) (frontmatter and body)
 
 ## Remaining Items
 

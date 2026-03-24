@@ -186,7 +186,7 @@ The phenomenology of temporal consciousness and agency aligns with the Map's [te
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
 - [neural-refresh-rates](/concepts/neural-refresh-rates/) — The discrete oscillatory cycles that attention modulates
 - [free-will](/topics/free-will/)
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/)
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)
 - [motor-selection](/concepts/motor-selection/)
 - [bergson-and-duration](/topics/bergson-and-duration/)
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)

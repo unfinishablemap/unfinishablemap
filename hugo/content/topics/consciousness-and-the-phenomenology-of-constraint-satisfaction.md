@@ -108,7 +108,7 @@ The disconnect between computational complexity and phenomenal intensity poses a
 
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
 - [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/)
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/)
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)
 - [control-theoretic-will](/concepts/control-theoretic-will/)
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)

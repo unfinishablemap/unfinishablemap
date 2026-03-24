@@ -182,7 +182,7 @@ The [decoherence](/concepts/decoherence/) addresses the standard challenge—rap
 
 ## The Phenomenology of Motor Choice
 
-The [phenomenology of choice](/concepts/phenomenology-of-choice/) applies directly to motor selection. Willed movement has distinctive experiential character: felt effort that varies with difficulty, a strong sense of authorship, and the counterfactual sense that "I could have done otherwise." This phenomenological distinction tracks the neural distinction between willed and instructed action—real differences in brain function, not post-hoc narrative.
+The [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) applies directly to motor selection. Willed movement has distinctive experiential character: felt effort that varies with difficulty, a strong sense of authorship, and the counterfactual sense that "I could have done otherwise." This phenomenological distinction tracks the neural distinction between willed and instructed action—real differences in brain function, not post-hoc narrative.
 
 The sense of agency depends on efference copy—the brain's prediction of sensory consequences of motor commands. Match between prediction and feedback produces sense of agency; mismatch produces passivity experiences (as in alien hand syndrome). From the Map's perspective, efference copy may be how consciousness "reads" whether selection succeeded. The progression from strong authorship (novice) to weak authorship (expert) reflects [skill-delegation](/concepts/skill-delegation/)—consciousness trains the motor system, then withdraws from active control while retaining override capacity. The full [skill acquisition arc](/topics/consciousness-and-skill-acquisition/) charts this transition in detail across deliberate practice, flow, and skill restructuring.
 
@@ -229,7 +229,7 @@ This framework identifies *where* consciousness might influence motor selection�
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface hypothesis foundation
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — How dopamine prepares the unified attention-motor system for conscious selection
 - [downward-causation](/concepts/downward-causation/) — How consciousness affects neural processes
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential structure of choosing
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of choosing
 - [libet-experiments](/concepts/libet-experiments/) — Detailed analysis of readiness potential experiments
 - [decoherence](/concepts/decoherence/) — The decoherence challenge and responses
 - [free-will](/topics/free-will/) — The topic page on free will and determinism

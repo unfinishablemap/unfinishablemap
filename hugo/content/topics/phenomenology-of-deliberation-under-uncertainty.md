@@ -91,7 +91,7 @@ Deciding under uncertainty requires a distinctive act that deciding under certai
 
 When you know what will happen, choosing is straightforward—pick the best outcome. When you don't know, choosing requires committing to a path without knowing where it leads. This commitment has a specific phenomenal character.
 
-The [moment of decision](/concepts/phenomenology-of-choice/) is always phenomenally significant. But under uncertainty, it acquires an additional dimension: the felt experience of *leaping*. You have deliberated as thoroughly as time and cognition allow; you have estimated as well as you can; and now you must act despite knowing that your deliberation is incomplete and your estimates uncertain. The leap feels like what it is—a volitional act that goes beyond what reason alone can justify.
+The [moment of decision](/concepts/phenomenology-of-choice-and-volition/) is always phenomenally significant. But under uncertainty, it acquires an additional dimension: the felt experience of *leaping*. You have deliberated as thoroughly as time and cognition allow; you have estimated as well as you can; and now you must act despite knowing that your deliberation is incomplete and your estimates uncertain. The leap feels like what it is—a volitional act that goes beyond what reason alone can justify.
 
 The Kierkegaardian "leap"—the movement beyond what reason can justify, explored through the pseudonymous Johannes de Silentio in *Fear and Trembling*—captures an extreme version of this structure in the religious sphere. But the same structure appears in mundane decisions. Accepting a job offer without knowing whether you'll thrive, moving to a new city without certainty about what life there will hold, choosing to trust someone when their trustworthiness is not established—each involves commitment beyond evidence, and each feels different from choosing what you already know is best.
 
@@ -146,7 +146,7 @@ The Unfinishable Map's framework illuminates deliberation under uncertainty at s
 ## Further Reading
 
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — When competing normative demands create the uncertainty that deliberation must resolve
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The general structure of choosing
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The general structure of choosing
 - [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/) — The felt sense of epistemic weight
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — Why uncertainty demands authentic engagement
 - [probability-intuition-void](/voids/probability-intuition-void/) — Our architectural limits in reasoning about chance

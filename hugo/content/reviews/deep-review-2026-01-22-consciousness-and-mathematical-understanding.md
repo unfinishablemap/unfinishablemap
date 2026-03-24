@@ -62,7 +62,7 @@ topics: []
 - Added timescale caveats to Minimal Quantum Interaction section
 
 ### Cross-links Added
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) (frontmatter and Further Reading)
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) (frontmatter and Further Reading)
 - [agent-causation](/concepts/agent-causation/) (frontmatter and Further Reading)
 - [philosophical-zombies](/concepts/philosophical-zombies/) (frontmatter and body)
 

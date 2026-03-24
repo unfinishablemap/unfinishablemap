@@ -119,7 +119,7 @@ The experience of "too late" may be one of the most direct phenomenal contacts w
 - [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/)
 - [phenomenology-of-temporal-attention](/topics/phenomenology-of-temporal-consciousness-and-agency/)
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/)
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)
 - [motor-selection](/concepts/motor-selection/)
 - [bergson-and-duration](/topics/bergson-and-duration/)
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)

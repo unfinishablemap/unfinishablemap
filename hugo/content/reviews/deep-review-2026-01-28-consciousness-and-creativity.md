@@ -61,7 +61,7 @@ topics: []
 3. **Mental-imagery cross-link**: Added to Further Reading, connecting voluntary imagery as paradigm case of consciousness generating and manipulating possibilities.
 
 ### Cross-links Added
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — inline in synthesis section and in Further Reading
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — inline in synthesis section and in Further Reading
 - [mental-imagery](/concepts/mental-imagery/) — in Further Reading
 
 ### Effective Patterns Preserved

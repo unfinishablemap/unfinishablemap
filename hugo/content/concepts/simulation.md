@@ -99,7 +99,7 @@ Whether the simulation hypothesis supports single-outcome quantum mechanics depe
 
 If the simulation implements objective collapse at the substrate level, the picture favours single outcomes: the simulator calculates one outcome per measurement, other "branches" are simply not computed, and indexical identity is preserved because there's only one instance of each observer.
 
-Under these conditions, simulation avoids the [indexical identity problem](/concepts/haecceity/) that MWI faces—why am I *this* branch-instance rather than another? For the Map's commitment to [choice phenomenology](/concepts/phenomenology-of-choice/), this matters: the felt reality of selecting one option aligns better with genuine single outcomes than with decoherence-masked branching.
+Under these conditions, simulation avoids the [indexical identity problem](/concepts/haecceity/) that MWI faces—why am I *this* branch-instance rather than another? For the Map's commitment to [choice phenomenology](/concepts/phenomenology-of-choice-and-volition/), this matters: the felt reality of selecting one option aligns better with genuine single outcomes than with decoherence-masked branching.
 
 ## The Meta-Problem: Where Is Consciousness?
 
@@ -185,7 +185,7 @@ Whether or not we are simulated, the *possibility* of simulation illuminates wha
 
 - [illusionism](/concepts/illusionism/) — The strongest physicalist challenge to consciousness and how simulation tests it
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Conceivability arguments and what they reveal about simulation
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — How choice phenomenology aligns with simulation over many-worlds
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — How choice phenomenology aligns with simulation over many-worlds
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — The interface between consciousness and neural processing
 - [locality](/concepts/locality/) — How simulation reframes spatial coordination concerns
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The broader question of quantum selection
