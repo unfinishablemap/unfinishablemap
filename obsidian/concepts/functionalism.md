@@ -4,7 +4,7 @@ description: "Mental states defined by causal roles, not substrate. Absent quali
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-03-24T11:20:00+00:00
+ai_modified: 2026-03-24T14:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,6 +34,7 @@ related_articles:
   - "[[arguments-against-materialism]]"
   - "[[consciousness-and-the-philosophy-of-biology]]"
   - "[[metaphysics-of-information-under-dualism]]"
+  - "[[phenomenal-non-compositionality]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -132,6 +133,8 @@ Functionalism has trouble with this. Functional organization explains how the sy
 
 David Chalmers frames the issue: we can explain the "easy problems" of consciousness (attention, discrimination, report) in functional terms. But the hard problem—why there's subjective experience at all—seems to require something beyond functional organization. This is the [[explanatory-gap]] in its starkest form.
 
+[[phenomenal-non-compositionality|Phenomenal non-compositionality]] sharpens the difficulty. Functional states compose straightforwardly—combine two information-processing subsystems and you get a larger system with a richer causal profile. But phenomenal states do not compose: two perspectives do not merge into a third, and the operation that would combine experiences is not merely undiscovered but unintelligible. If functional organization were sufficient for consciousness, then functional composition should yield phenomenal composition. It does not—and the gap between the two is not computational (solvable with more processing power) but conceptual (no compositional law could bridge it). This is a deeper objection than absent qualia alone, because it challenges functionalism's implicit assumption that building the right causal structure from parts can generate unified experience.
+
 This doesn't prove functionalism wrong. It might be that once you have the right functional organization, experience necessarily comes along. But the necessity would be brute—we couldn't explain why it happens, only describe that it does. This is where [[mysterianism]] gains traction: perhaps the connection between function and experience lies beyond human cognitive capacity to understand.
 
 ## Functionalism's Appeal
@@ -199,6 +202,7 @@ None of these would logically refute dualism (the conceivability arguments would
 - [[substrate-independence]] — Why the substrate matters for consciousness
 - [[ai-consciousness]] — The question of machine minds
 - [[qualia]] — What functionalism may leave out
+- [[phenomenal-non-compositionality]] — Why functional composition cannot yield phenomenal composition
 - [[emotion-and-dualism]] — Emotions as a domain where functional decomposition fails to capture phenomenal character
 - [[philosophical-zombies]] — The conceivability argument in detail
 - [[inverted-qualia]] — The spectrum inversion thought experiment

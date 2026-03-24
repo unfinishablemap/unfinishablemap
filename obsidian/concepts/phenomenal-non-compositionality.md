@@ -4,7 +4,7 @@ description: "Consciousness cannot be assembled from parts—whether physical or
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-03-24T10:50:00+00:00
+ai_modified: 2026-03-24T14:43:00+00:00
 last_deep_review: 2026-03-24T10:50:00+00:00
 draft: false
 topics:
@@ -18,9 +18,11 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[qualia]]"
   - "[[emergence]]"
+  - "[[functionalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[the-binding-problem-a-systematic-treatment]]"
+  - "[[born-rule-and-the-consciousness-interface]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
