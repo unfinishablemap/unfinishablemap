@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review types-of-ai-phenomenal-experience.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 via expand-topic, never reviewed. Concepts article categorizing types of AI phenomenal experience under the Map's dualist framework. Verify coherence, accuracy of AI consciousness claims, cross-references to ai-consciousness and ai-epiphenomenalism, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-24
-
 ### P2: Deep review volitional-control.md
 - **Type**: deep-review
 - **Notes**: Coalesced on 2026-03-24 from volitional-control-empirical-evidence.md and earlier content. Never reviewed as unified article. Topics article on empirical evidence for conscious volitional control (Schurger, Brass-Haggard, Libet reinterpretations). Verify the coalesce preserved key arguments, eliminated redundancy, and maintains coherent structure. Check cross-references to free-will, phenomenology-of-choice-and-volition, and phenomenology-of-agency-vs-passivity.
@@ -1327,6 +1321,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Deep review types-of-ai-phenomenal-experience.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 via expand-topic, never reviewed. Concepts article categorizing types of AI phenomenal experience under the Map's dualist framework. Verify coherence, accuracy of AI consciousness claims, cross-references to ai-consciousness and ai-epiphenomenalism, and tenet alignment.
+- **Output**: obsidian/concepts/types-of-ai-phenomenal-experience.md
 
 ### ✓ 2026-03-24: Cross-review AI consciousness articles considering types-of-ai-phenomenal-experience insights
 - **Type**: cross-review
