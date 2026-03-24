@@ -4,7 +4,7 @@ description: "When did consciousness arise? Dualism avoids the strong emergence 
 created: 2026-01-19
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-03-22T19:31:00+00:00
+ai_modified: 2026-03-24T09:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -85,7 +85,7 @@ If consciousness is causally efficacious, several advantages might drive its evo
 
 **Integration**: [[phenomenal-unity|Unified conscious experience]] binds information from different senses and cognitive processes into a single coherent representation. This integration might be necessary for planning, counterfactual reasoning, and coordinated action—capacities that confer obvious survival advantages.
 
-**Valenced guidance**: [[emotional-consciousness|Emotional consciousness]] provides intrinsic motivation through pleasure and pain. Rather than needing explicit reward signals, conscious organisms are *motivated* by felt quality. The badness of pain and goodness of pleasure create powerful selection pressure without requiring external specification.
+**Valenced guidance**: [[emotion-and-dualism|Emotional consciousness]] provides intrinsic motivation through pleasure and pain. Rather than needing explicit reward signals, conscious organisms are *motivated* by felt quality. The badness of pain and goodness of pleasure create powerful selection pressure without requiring external specification.
 
 **Self-modelling**: Consciousness enables meta-cognition—thinking about one's own mental states. This self-awareness supports learning from mistakes, anticipating future needs, and modelling other minds (theory of mind). Social species benefit enormously from predicting others' behaviour.
 

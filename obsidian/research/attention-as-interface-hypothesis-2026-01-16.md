@@ -9,7 +9,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
 concepts:
-  - "[[attention]]"
+  - "[[attention-as-interface]]"
   - "[[quantum-consciousness]]"
   - "[[mental-effort]]"
   - "[[concepts/consciousness-selecting-neural-patterns]]"

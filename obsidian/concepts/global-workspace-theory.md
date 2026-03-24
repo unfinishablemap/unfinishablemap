@@ -4,7 +4,7 @@ description: "Global Workspace Theory explains when information becomes consciou
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-03-22T07:26:00+00:00
+ai_modified: 2026-03-24T09:05:00+00:00
 draft: false
 last_deep_review: 2026-03-10T12:38:00+00:00
 topics:
@@ -135,7 +135,7 @@ From the Map's perspective, the workspace may be the neural correlate of the int
 
 GWT is compatible with [[tenets#^dualism|Dualism]] if read as describing neural correlates rather than constituting consciousness. Interactionist dualism predicts that consciousness will have reliable correlates—the physical interface where mind and brain meet. GWT may describe this interface without claiming to explain phenomenal consciousness.
 
-The Map's [[attention|attention article]] notes that attention serves as the "gateway" to the workspace. This connects with Stapp's proposal that attention is where consciousness influences physics through the quantum Zeno effect. GWT provides mainstream neuroscience context for this idea.
+The Map's [[attention-as-interface|attention article]] notes that attention serves as the "gateway" to the workspace. This connects with Stapp's proposal that attention is where consciousness influences physics through the quantum Zeno effect. GWT provides mainstream neuroscience context for this idea.
 
 ### Tension
 

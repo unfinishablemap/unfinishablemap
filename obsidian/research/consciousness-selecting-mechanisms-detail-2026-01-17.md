@@ -9,7 +9,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[quantum-consciousness]]"
-  - "[[attention]]"
+  - "[[attention-as-interface]]"
   - "[[mental-effort]]"
 related_articles:
   - "[[tenets]]"

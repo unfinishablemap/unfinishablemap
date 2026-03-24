@@ -9,7 +9,6 @@ topics:
   - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[attention]]"
   - "[[attention-as-interface]]"
   - "[[mental-effort]]"
   - "[[agent-causation]]"

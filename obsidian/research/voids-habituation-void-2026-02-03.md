@@ -11,7 +11,7 @@ topics:
 concepts:
   - "[[mysterianism]]"
   - "[[phenomenology]]"
-  - "[[attention]]"
+  - "[[attention-as-interface]]"
   - "[[introspection]]"
 related_articles:
   - "[[voids]]"

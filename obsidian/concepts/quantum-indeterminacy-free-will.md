@@ -4,7 +4,7 @@ description: "How quantum mechanics creates logical space for libertarian free w
 created: 2026-01-19
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-24T09:05:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -143,7 +143,7 @@ Key features supporting free will:
 
 **The [[attention-as-interface|attention-consciousness relationship]]**: Koch and Tsuchiya documented that attention and consciousness are dissociable—blindsight patients attend to stimuli they don't consciously see; peripheral awareness presents experiences without focused attention. This dissociation matters: attention is the *mechanism* consciousness uses, not consciousness itself. A non-physical subject (consciousness) deploys a physical mechanism (attention) to influence quantum outcomes.
 
-**Neuroimaging support**: Research shows willed attention has distinct neural signatures from instructed attention—frontal theta oscillations, bidirectional frontoparietal coherence, ~300ms deployment time. The brain distinguishes between doing what you're told and doing what you choose. See [[attention|voluntary attention research]] for details.
+**Neuroimaging support**: Research shows willed attention has distinct neural signatures from instructed attention—frontal theta oscillations, bidirectional frontoparietal coherence, ~300ms deployment time. The brain distinguishes between doing what you're told and doing what you choose. See [[attention-as-interface|voluntary attention research]] for details.
 
 ## Two Domains: Attention and Motor Selection
 

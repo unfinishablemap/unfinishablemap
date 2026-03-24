@@ -4,7 +4,7 @@ description: "Does consciousness vary in nature, in coupling mechanism, or both?
 created: 2026-02-01
 modified: 2026-03-07
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-24T09:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -136,7 +136,7 @@ This reframes the comparative question twice over. Instead of asking only "does 
 
 ### Emotional vs. Cognitive Consciousness
 
-[[emotional-consciousness|Emotional consciousness]] and cognitive consciousness may differ in nature, coupling, or both. Affective neuroscience suggests emotional experience arises from subcortical structures (Panksepp's primary emotional systems) while cognitive consciousness correlates with cortical processing.
+[[emotion-and-dualism|Emotional consciousness]] and cognitive consciousness may differ in nature, coupling, or both. Affective neuroscience suggests emotional experience arises from subcortical structures (Panksepp's primary emotional systems) while cognitive consciousness correlates with cortical processing.
 
 The coupling difference is clear: different neural sites and mechanisms. But the valenced character of emotion—its intrinsic goodness or badness—might reflect a difference in *nature*, not just coupling. The felt quality of pain seems categorically different from the felt quality of visual perception—possibly indicating different types of conscious entity rather than the same consciousness coupled at different neural sites.
 

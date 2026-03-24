@@ -8,7 +8,6 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[attention]]"
   - "[[attention-as-interface]]"
   - "[[mental-effort]]"
   - "[[temporal-consciousness]]"

@@ -9,7 +9,7 @@ target_section: voids
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[attention]]"
+  - "[[attention-as-interface]]"
   - "[[phenomenology]]"
   - "[[mysterianism]]"
 related_articles:

@@ -9,7 +9,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[global-workspace-theory]]"
-  - "[[attention]]"
+  - "[[attention-as-interface]]"
   - "[[concepts/functionalism]]"
 related_articles:
   - "[[tenets]]"
