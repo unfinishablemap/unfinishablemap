@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-03-24T07:18:06.220427+00:00'
-session_count: 4759
-cycle_position: 4387
+last_updated: '2026-03-24T07:33:06.220929+00:00'
+session_count: 4760
+cycle_position: 4388
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -48,24 +48,9 @@ quality:
   critical_issues: 0
   medium_issues: 10
   low_issues: 3
-  orphaned_files: 1
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 5
-  p3_tasks: 171
-  needs_replenishment: false
-  last_replenishment: '2026-03-24T07:33:00+00:00'
-  replenishment_source_counts:
-    chain: 3
-    orphan_integration: 1
-    gap_analysis: 1
+  orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Born rule derivation limits and consciousness)
-  type: expand-topic
-  date: '2026-03-24'
-  outcome: success
 - task: expand-topic (lucid dreaming as evidence for mind-side rendering)
   type: expand-topic
   date: '2026-03-24'
@@ -143,6 +128,10 @@ recent_tasks:
   date: '2026-03-24'
   outcome: success
 - task: deep-review (obsidian/concepts/skill-delegation.md)
+  type: deep-review
+  date: '2026-03-24'
+  outcome: success
+- task: deep-review
   type: deep-review
   date: '2026-03-24'
   outcome: success

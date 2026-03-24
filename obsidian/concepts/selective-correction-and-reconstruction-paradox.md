@@ -110,6 +110,7 @@ Cognitive impenetrability is closely related to [[phenomenal-transparency]] — 
 - [[dualist-perception]] — How perception provides evidence for dualist frameworks
 - [[predictive-processing-and-dualism]] — The computational framework underlying correction and transmission
 - [[attention-as-interface]] — How attention mediates consciousness's influence on perception
+- [[curated-mind]] — The curation argument extended across body schema, memory, and self-model
 - [[consciousness-only-territories]] — The epistemic boundaries that the reconstruction paradox reveals
 
 ## References

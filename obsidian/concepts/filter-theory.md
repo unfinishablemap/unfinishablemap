@@ -236,6 +236,7 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 - [[interactionist-dualism]] — The broader framework
 - [[quantum-consciousness]] — The proposed mechanism for mind-brain interface
 - [[hypnagogic-phenomenology-and-interface-modulation]] — Sleep-onset phenomenology as real-time filter loosening
+- [[curated-mind]] — The brain's asymmetric curation of experience as evidence for filter architecture across vision, body, memory, and self-model
 - [[habituation-void]] — Habituation as a filtering mechanism that screens out the familiar
 - [[terminal-lucidity-and-filter-transmission-theory]] — The strongest single-phenomenon case for filter theory: cognitive return despite severe structural brain damage
 - [[death-and-consciousness]] — Broader dying phenomenology as evidence for filter loosening near death

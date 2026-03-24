@@ -185,6 +185,7 @@ The Map's [[tenets]] find their sharpest expression in perception.
 - [[perceptual-reconstruction-selection]] — Bistable percepts as evidence of conscious selection
 - [[knowledge-argument]] — Mary's Room and what physical knowledge misses
 - [[interactionist-dualism]] — The broader framework for mind-body interaction
+- [[curated-mind]] — The curation argument extended from vision to body schema, memory, and self-model
 - [[filter-theory]] — Consciousness as filter rather than generator
 
 ## References

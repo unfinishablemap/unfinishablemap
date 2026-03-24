@@ -115,6 +115,7 @@ For the [[simulation|simulation hypothesis]], phenomenal transparency makes the 
 - [[contemplative-practice-as-philosophical-evidence]] — Whether sustained contemplative practice can reduce transparency
 - [[mysterianism]] — Cognitive closure as a structural limit on understanding consciousness
 - [[transparency-void]] — The void revealed by transparency: consciousness cannot verify its own fidelity
+- [[curated-mind]] — How the brain's pervasive curation across modalities depends on and demonstrates phenomenal transparency
 - [[meta-problem-of-consciousness]] — Why we think consciousness is hard to explain, and transparency's role in generating that intuition
 
 ## References

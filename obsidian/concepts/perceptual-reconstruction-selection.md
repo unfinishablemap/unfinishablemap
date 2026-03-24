@@ -84,6 +84,7 @@ The Map speculates that the meditation findings are particularly revealing. If t
 - [[attention-as-interface]] — attention as the mechanism of conscious influence
 - [[predictive-processing-and-dualism]] — predictive processing and interactionist dualism
 - [[filter-theory]] — the brain as filter rather than generator of consciousness
+- [[curated-mind]] — The three-mode taxonomy (correction, transmission, selection) applied across body schema, memory, and self-model
 - [[cognitive-closure]] — the limits of what consciousness can access about its own mechanisms
 - [[dualist-perception]]
 

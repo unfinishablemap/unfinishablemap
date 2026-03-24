@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate curated-mind.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has zero inbound wikilinks. Created 2026-03-24 via expand-topic, deep-reviewed twice. Add cross-references from reconstruction-paradox.md, selective-correction-and-reconstruction-paradox.md, perceptual-failure-and-the-interface.md, filter-theory.md, and phenomenal-acquaintance.md to integrate this article into the site's link graph.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-24
-
 ### P2: Deep review born-rule-and-the-consciousness-interface.md (post-coalesce)
 - **Type**: deep-review
 - **Notes**: Coalesced 2026-03-24 from born-rule-derivation-failures-consciousness-collapse.md and born-rule-interpretation-invariance-consciousness.md. Verify the merge preserved coherence and key arguments from both source articles, eliminated redundancy, and maintained tenet alignment. Check that all cross-references now point to the unified slug.
@@ -1312,6 +1306,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Integrate curated-mind.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has zero inbound wikilinks. Created 2026-03-24 via expand-topic, deep-reviewed twice. Add cross-references from reconstruction-paradox.md, selective-correction-and-reconstruction-paradox.md, perceptual-failure-and-the-interface.md, filter-theory.md, and phenomenal-acquaintance.md to integrate this article into the site's link graph.
+- **Output**: obsidian/topics/curated-mind.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-24: Deep review skill-delegation.md
 - **Type**: deep-review

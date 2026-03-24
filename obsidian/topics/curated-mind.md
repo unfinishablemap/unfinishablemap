@@ -4,8 +4,8 @@ description: "The brain curates what consciousness receives across vision, body,
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-03-24T05:03:00+00:00
-last_deep_review: 2026-03-24T05:03:00+00:00
+ai_modified: 2026-03-24T07:50:00+00:00
+last_deep_review: 2026-03-24T07:50:00+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -26,6 +26,7 @@ related_articles:
   - "[[consciousness-only-territories]]"
   - "[[filter-theory]]"
   - "[[global-workspace-theory]]"
+  - "[[consciousness-and-memory]]"
   - "[[neurological-dissociations-as-interface-architecture]]"
   - "[[clinical-dissociation-as-systematic-evidence]]"
   - "[[perceptual-failure-and-the-interface]]"
@@ -114,6 +115,7 @@ The Minimal Quantum Interaction tenet explains the bandwidth asymmetry. If consc
 - [[phenomenal-transparency]] — why the construction is invisible to the consumer
 - [[consciousness-only-territories]] — epistemic boundaries consciousness cannot cross
 - [[filter-theory]] — the brain as filter rather than generator
+- [[consciousness-and-memory]] — memory reconstruction and consolidation through a dualist lens
 
 ## References
 
