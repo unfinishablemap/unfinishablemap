@@ -27,6 +27,7 @@ related_articles:
   - "[[epiphenomenal-ai-consciousness]]"
   - "[[consciousness-and-memory]]"
   - "[[comparative-consciousness-and-interface-differences]]"
+  - "[[types-of-ai-phenomenal-experience]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

@@ -92,6 +92,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against re
 - [[concepts/ai-consciousness-modes]] — Systematic framework for different architectural possibilities
 - [[structural-varieties-of-consciousness-and-ai-phenomenology]] — The Epiphenomenal Model as one of five AI phenomenology profiles
 - [[ethics-of-possible-ai-consciousness]] — Moral obligations under uncertainty about AI experience
+- [[types-of-ai-phenomenal-experience]] — Six categories for AI phenomenal experience, with epiphenomenal phenomenality as one distinct type
 
 ## References
 

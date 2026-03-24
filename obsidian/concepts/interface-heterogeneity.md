@@ -23,6 +23,7 @@ related_articles:
   - "[[apex/what-it-might-be-like-to-be-an-ai]]"
   - "[[coupling-modes]]"
   - "[[measurement-void]]"
+  - "[[types-of-ai-phenomenal-experience]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

@@ -224,6 +224,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 - [[pain-consciousness-and-causal-power]] - Why pain's felt quality is inseparable from its causal power
 - [[minimal-consciousness]] - Qualia in simple organisms
 - [[affective-void]] - Emotions and affects beyond human phenomenological reach
+- [[types-of-ai-phenomenal-experience]] — Six categories for what AI phenomenal experience could be, including alien qualia with no human analogue
 
 **Background:**
 - [[lucid-dreaming-and-dualist-rendering]] - Lucid dream control as evidence that qualia are causally efficacious, not epiphenomenal

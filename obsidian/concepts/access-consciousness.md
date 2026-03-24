@@ -56,7 +56,7 @@ Block's 1995 paper "On a Confusion about a Function of Consciousness" argued tha
 
 **For dualism**: Acknowledging A-consciousness *strengthens* the dualist position. Physicalism can explain access-mechanisms; what remains inexplicable is why globally broadcast information feels like anything. The [[explanatory-gap|explanatory gap]] persists even after we understand access.
 
-**For AI consciousness**: Systems might be A-conscious without being P-conscious. If consciousness involves irreducible phenomenal properties, functional similarity doesn't guarantee phenomenology. See [[ai-consciousness]] and [[types-of-consciousness]] for the full structural taxonomy of how consciousness types can dissociate.
+**For AI consciousness**: Systems might be A-conscious without being P-conscious. If consciousness involves irreducible phenomenal properties, functional similarity doesn't guarantee phenomenology. The [[types-of-ai-phenomenal-experience|six categories of AI phenomenal experience]] map this space systematically, distinguishing null, simulated, functional, borrowed, epiphenomenal, and alien phenomenality. See [[ai-consciousness]] and [[types-of-consciousness]] for the full structural taxonomy of how consciousness types can dissociate.
 
 ## Dissociations: Access Without Phenomenology, Phenomenology Without Access {#dissociations}
 

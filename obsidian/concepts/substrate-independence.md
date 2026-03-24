@@ -215,6 +215,7 @@ The overall framework provides resources for confident skepticism about current 
 - [[machine-consciousness]] — Mind uploading and substrate transfer
 - [[emergence]] — Strong vs. weak emergence and consciousness
 - [[metaphysics-of-information-under-dualism]] — Why information's substrate independence doesn't extend to consciousness under dualism
+- [[types-of-ai-phenomenal-experience]] — Six categories for AI phenomenal experience, with substrate requirements varying across types
 
 ## References
 
