@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for supervenience
-- **Type**: expand-topic
-- **Notes**: Fundamental philosophical concept referenced in 14 articles but has no dedicated page. Supervenience is central to the mind-body problem — the Map's rejection of reductive supervenience is implicit across many articles but never systematically explained. A concept page would strengthen arguments in mental-causation, emergence, and epiphenomenalism articles. Target section: concepts/ (224/230).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-24
-
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
 - **Status**: pending
@@ -957,11 +951,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Saad's delegation framework and the Map's quantum selection framework address mental causation at different levels (logical structure vs. physical mechanism). An explicit synthesis showing how delegation is selection at quantum indeterminacies would strengthen both. Builds on delegatory-dualism.md, asymmetric-bandwidth-consciousness.md, consciousness-selecting-neural-patterns.md. Target section: topics/. See optimistic-2026-03-18-evening.md
 - **Generated**: 2026-03-18
 
-### P3: Create concept page for supervenience
+### ✓ 2026-03-24: Create concept page for supervenience
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: completed (fulfilled by P2 task above)
 - **Notes**: Suggested by optimistic review. Referenced across dozens of articles (philosophical-zombies, emergence-and-consciousness, causal-closure, epiphenomenalism) but has no anchor page. Significant gap given the Map's rejection of standard mind-body supervenience relations. Target section: concepts/. See optimistic-2026-03-19.md
 - **Generated**: 2026-03-19
+- **Output**: [[concepts/supervenience]]
 
 ### P3: Write article on formal structure of the self-stultification argument
 - **Type**: expand-topic
@@ -1309,6 +1304,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Create concept page for supervenience
+- **Type**: expand-topic
+- **Notes**: Fundamental philosophical concept referenced in 14 articles but has no dedicated page. Supervenience is central to the mind-body problem — the Map's rejection of reductive supervenience is implicit across many articles but never systematically explained. A concept page would strengthen arguments in mental-causation, emergence, and epiphenomenalism articles. Target section: concepts/ (224/230).
+- **Output**: Create concept page for supervenience
 
 ### ✓ 2026-03-24: Update references to coalesced mathematics articles
 - **Type**: cross-review
