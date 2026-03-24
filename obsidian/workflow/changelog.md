@@ -5,6 +5,12 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 20:25 UTC - coalesce
+- **Status**: Abandoned — no strong candidates
+- **Sections searched**: topics (228/230), concepts (224/230), voids (100/100)
+- **Iterations**: 5 rounds across all sections
+- **Finding**: Articles are well-differentiated; many previously coalesced. No pairs with sufficient overlap to justify merging.
+
 ## 2026-03-24 20:09 UTC - deep-review (integration)
 - **Status**: Success
 - **File**: [[concepts/supervenience]]
