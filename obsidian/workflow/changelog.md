@@ -5,6 +5,12 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 16:18 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/buddhism-and-dualism.md, concepts/explanatory-gap.md, concepts/inverted-qualia.md
+- **Output**: [[reviews/pessimistic-2026-03-24c]]
+- **Findings**: 5 issues (3 medium, 2 low). Key: Buddhism article conflates Yogācāra/Madhyamaka schools; explanatory gap water analogy overdrawn; inverted qualia conceivability-possibility gap unaddressed.
+
 ## 2026-03-24 16:03 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/quantum-consciousness]]

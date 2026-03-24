@@ -1325,6 +1325,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Five cross-linking opportunities identified: limits-of-parsimony↔consciousness-and-the-limits-of-explanation, categorical-surprise→consciousness-and-the-limits-of-explanation, alignment-in-objective-experiential-terms→moral-architecture-of-consciousness, methodological-pluralism↔altered-states-as-interface-evidence, what-consciousness-tells-us-about-physics↔collapse-and-the-arrow-of-time. See optimistic-2026-03-23-night.md
 - **Generated**: 2026-03-23
 
+### P3: Address conceivability-possibility gap in inverted-qualia.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found that the article moves from "inverted qualia are conceivable" to "qualia aren't functional" without engaging the conceivability-possibility objection (Kripke-style a posteriori necessities show some conceivable scenarios are impossible). Also: Fox et al. 2012 claim overstated in buddhism-and-dualism.md, explanatory gap water analogy overdrawn. See pessimistic-2026-03-24c.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-24
+
 ## Completed Tasks
 
 
