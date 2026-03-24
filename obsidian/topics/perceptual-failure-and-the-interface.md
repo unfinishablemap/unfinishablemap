@@ -4,7 +4,7 @@ description: "Perceptual degradation reveals the consciousness-brain interface: 
 created: 2026-03-09
 modified: 2026-03-14
 human_modified:
-ai_modified: 2026-03-24T00:00:00+00:00
+ai_modified: 2026-03-24T08:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,6 +39,7 @@ related_articles:
   - "[[hypnagogic-phenomenology-and-interface-modulation]]"
   - "[[perceptual-degradation-and-the-interface]]"
   - "[[selective-correction-and-reconstruction-paradox]]"
+  - "[[curated-mind]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -146,6 +147,7 @@ The bandwidth model accommodates this directly. A transmission channel with fini
 - [[hypnagogic-phenomenology-and-interface-modulation]]
 - [[perceptual-degradation-and-the-interface]]
 - [[selective-correction-and-reconstruction-paradox]]
+- [[curated-mind]] — the presupposition argument: curation across vision, body, memory, and self-model
 
 ## References
 

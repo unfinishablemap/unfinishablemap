@@ -4,7 +4,7 @@ description: "Why does the brain silently correct some perceptual errors while f
 created: 2026-03-12
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-03-12T23:19:00+00:00
+ai_modified: 2026-03-24T08:35:00+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -17,6 +17,9 @@ concepts:
   - "[[cognitive-closure]]"
 related_articles:
   - "[[selective-correction-and-reconstruction-paradox]]"
+  - "[[curated-mind]]"
+  - "[[perceptual-reconstruction-selection]]"
+  - "[[perceptual-failure-and-the-interface]]"
   - "[[illusionism]]"
   - "[[epiphenomenalism]]"
   - "[[hard-problem-of-consciousness]]"
@@ -80,8 +83,10 @@ The cognitive impenetrability boundary functions as a void in the Map's framewor
 
 ## Further Reading
 
-- [[selective-correction-and-reconstruction-paradox]] — the philosophical paradox in concept form
-- [[selective-correction-and-reconstruction-paradox]] — the mechanism of asymmetric correction
+- [[selective-correction-and-reconstruction-paradox]] — the concept defining selective correction and the three conditions
+- [[curated-mind]] — the curation argument extended across body schema, memory, and self-model
+- [[perceptual-reconstruction-selection]] — the third mode: consciousness selecting among ambiguous percepts
+- [[perceptual-failure-and-the-interface]] — bandwidth degradation and the interface
 - [[dualist-perception]]
 - [[predictive-processing-and-dualism]]
 - [[hard-problem-of-consciousness]]

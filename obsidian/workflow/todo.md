@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review reconstruction-paradox articles considering curated-mind.md
-- **Type**: cross-review
-- **Notes**: New article curated-mind.md (2026-03-24) develops the reconstruction paradox into evidence that perceptual error correction presupposes a conscious curator. Review reconstruction-paradox.md and selective-correction-and-reconstruction-paradox.md for cross-links to curated-mind, consistency with the new framing, and reinforcing arguments. Also check perceptual-failure-and-the-interface.md for bidirectional cross-links.
-- **Source**: chain (expand-topic curated-mind.md)
-- **Generated**: 2026-03-24
-
 ### P2: Cross-review quantum probability articles considering born-rule coalesce
 - **Type**: cross-review
 - **Notes**: born-rule-and-the-consciousness-interface.md now unifies derivation-failure and interpretation-invariance arguments into a single article. Review quantum-measurement-and-subjective-probability.md and consciousness-and-probability-interpretation.md for cross-links to the unified treatment and consistency with its broadened scope.
@@ -1306,6 +1300,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Cross-review reconstruction-paradox articles considering curated-mind.md
+- **Type**: cross-review
+- **Notes**: New article curated-mind.md (2026-03-24) develops the reconstruction paradox into evidence that perceptual error correction presupposes a conscious curator. Review reconstruction-paradox.md and selective-correction-and-reconstruction-paradox.md for cross-links to curated-mind, consistency with the new framing, and reinforcing arguments. Also check perceptual-failure-and-the-interface.md for bidirectional cross-links.
+- **Output**: obsidian/topics/curated-mind.md -- Context: Cross-review reconstruction-paradox articles considering curated-mind.md
 
 ### ✓ 2026-03-24: Deep review born-rule-and-the-consciousness-interface.md (post-coalesce)
 - **Type**: deep-review
