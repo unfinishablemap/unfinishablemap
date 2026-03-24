@@ -4,7 +4,7 @@ description: "When the corpus callosum is severed, does consciousness split? Rec
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-03-14T19:19:00+00:00
+ai_modified: 2026-03-24T09:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-03-01T04:11:00+00:00
+last_deep_review: 2026-03-24T09:20:00+00:00
 ---
 
 When the corpus callosum is severed—cutting the 250 million nerve fibers connecting the brain's hemispheres—what happens to consciousness? Does it split into two? Remain unified? The answer, it turns out, may be neither. Split-brain cases reveal that our ordinary concept of a "single unified mind" may be inadequate to capture what consciousness actually is.
@@ -242,6 +242,7 @@ The indeterminacy itself may be a clue to what consciousness is.
 
 ### Site Content
 - [[identity-across-transformations]] — Apex synthesis: how indexical identity persists through split-brain, anesthesia, altered states, and death
+- [[neurological-dissociations-as-interface-architecture]] — How split-brain and other dissociations map the functional anatomy of the mind-brain channel
 - [[unity-of-consciousness|phenomenal unity]] — The three dimensions of experiential unity that split-brain cases stress-test
 - [[binding-problem]] — How distributed processes combine into unified experience
 - [[personal-identity]] — What makes you *you* across time
@@ -262,15 +263,3 @@ The indeterminacy itself may be a clue to what consciousness is.
 - Elizabeth Schechter, *Self-Consciousness and "Split" Brains* (2018)
 - Gazzaniga, M.S., "Cerebral specialization and interhemispheric communication," *Brain* (2000)
 - Whitehead, A.N., *Process and Reality* (1929)
-
-<!-- AI REFINEMENT LOG - 2026-03-14
-Changes made:
-- Downgraded entanglement binding hypothesis from explanatory candidate to "one speculative possibility" in the binding problem section; added mechanism-independent conclusion
-- Restructured Minimal Quantum Interaction tenet subsection to lead with the mechanism-independent point and parenthetically note EBH as speculative
-- Replaced prohibited "This is not X. It is Y." construct in closing line with direct phrasing
-
-Based on pessimistic review findings (overemphasis on speculative mechanism, style guide violation).
-Key improvements: core argument now survives without entanglement binding hypothesis; closing line no longer uses banned construct.
-
-This log should be removed after human review.
--->
