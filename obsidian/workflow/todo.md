@@ -79,6 +79,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-24
 
+### P3: Add citation for meditation efficacy claim in epiphenomenalism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the claim that mindfulness interventions are "substantially more effective" than placebo lacks a direct citation. The contemplative neuroscience section also references a "2025 meta-analysis" on unconscious processing that isn't in the References section. Add specific citations or soften language. See pessimistic-2026-03-24d.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-24
+
 ### P3: Address car-analogy and circularity issues in curated-mind.md
 - **Type**: refine-draft
 - **Status**: complete
