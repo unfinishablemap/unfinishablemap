@@ -5,6 +5,15 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 18:55 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/volitional-control]]
+- **Word count**: 3158 → 3133 (-25)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (removed uncited Fried et al. 2011 reference)
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-03-24b-volitional-control]]
+
 ## 2026-03-24 18:39 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/unity-of-consciousness]]

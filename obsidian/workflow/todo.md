@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review volitional-control.md
-- **Type**: deep-review
-- **Notes**: Coalesced on 2026-03-24 from volitional-control-empirical-evidence.md and earlier content. Never reviewed as unified article. Topics article on empirical evidence for conscious volitional control (Schurger, Brass-Haggard, Libet reinterpretations). Verify the coalesce preserved key arguments, eliminated redundancy, and maintains coherent structure. Check cross-references to free-will, phenomenology-of-choice-and-volition, and phenomenology-of-agency-vs-passivity.
-- **Source**: staleness
-- **Generated**: 2026-03-24
-
 ### P2: Condense mysterianism.md (3564 words, 143% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard warning threshold for concepts/. Preserve core arguments about cognitive closure and the new mysterian position while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
@@ -1321,6 +1315,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Deep review volitional-control.md
+- **Type**: deep-review
+- **Notes**: Coalesced on 2026-03-24 from volitional-control-empirical-evidence.md and earlier content. Never reviewed as unified article. Topics article on empirical evidence for conscious volitional control (Schurger, Brass-Haggard, Libet reinterpretations). Verify the coalesce preserved key arguments, eliminated redundancy, and maintains coherent structure. Check cross-references to free-will, phenomenology-of-choice-and-volition, and phenomenology-of-agency-vs-passivity.
+- **Output**: obsidian/topics/volitional-control.md
 
 ### ✓ 2026-03-24: Deep review types-of-ai-phenomenal-experience.md
 - **Type**: deep-review
