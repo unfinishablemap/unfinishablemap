@@ -4,7 +4,7 @@ description: "Altered states reveal consciousness's range through meditation, ps
 created: 2026-01-18
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-03-23T12:38:00+00:00
+ai_modified: 2026-03-24T17:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,12 +36,12 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-03-01T03:40:00+00:00
+last_deep_review: 2026-03-24T17:03:00+00:00
 coalesced_from:
   - "/topics/altered-states-consciousness/"
 ---
 
-Altered states of consciousness (ASCs) constitute a diverse family of experiences—psychedelics, anesthesia, meditation, hypnosis, flow states, dreaming, near-death experiences, [[terminal-lucidity-and-filter-transmission-theory|terminal lucidity]], and [[phenomenological-psychiatry-and-altered-experience|psychiatric conditions]] like depersonalization and schizophrenia—unified by [[qualia|qualitative]] deviation from baseline waking consciousness. For dualism, ASCs are particularly revealing: they demonstrate that consciousness operates in multiple modes with distinct phenomenal qualities, suggesting the brain-consciousness interface has configurable settings rather than being a simple on/off producer. The [[filter-theory|filter theory]] interprets each ASC as a different configuration of the filtering mechanism—some states *loosen* the filter (psychedelics, mystical experiences), others *narrow* it (anesthesia, deep sleep), still others *reconfigure* it (meditation, flow). The [[hypnagogic-phenomenology-and-interface-modulation|hypnagogic transition]] at sleep onset illustrates the filter loosening in real time—a brief window where constraint relaxes before the interface narrows into NREM. Where these naturally occurring states involve temporary reconfiguration, [[ethics-of-cognitive-enhancement-under-dualism|cognitive enhancement]] would constitute deliberate, permanent interface modification—raising distinctive ethical questions about identity, agency, and consent.
+Altered states of consciousness (ASCs) constitute a diverse family of experiences—psychedelics, anesthesia, meditation, hypnosis, flow states, dreaming, near-death experiences, [[terminal-lucidity-and-filter-transmission-theory|terminal lucidity]], and [[phenomenological-psychiatry-and-altered-experience|psychiatric conditions]] like depersonalization and schizophrenia—unified by [[qualia|qualitative]] deviation from baseline waking consciousness. For dualism, ASCs are particularly revealing: they demonstrate that consciousness operates in multiple modes with distinct phenomenal qualities, suggesting the brain-consciousness interface has configurable settings rather than being a simple on/off producer. The [[filter-theory|filter theory]] interprets each ASC as a different configuration of the filtering mechanism—some states *loosen* the filter (psychedelics, mystical experiences), others *narrow* it (anesthesia, deep sleep), still others *reconfigure* it (meditation, flow). The [[hypnagogic-phenomenology-and-interface-modulation|hypnagogic transition]] at sleep onset illustrates real-time filter loosening before the interface narrows into NREM. Where these states involve temporary reconfiguration, [[ethics-of-cognitive-enhancement-under-dualism|cognitive enhancement]] would constitute deliberate, permanent modification—raising ethical questions about identity and agency.
 
 ## Defining Altered States
 
@@ -83,11 +83,11 @@ The REBUS model (Relaxed Beliefs Under Psychedelics) proposes that psychedelics 
 
 Neuroimaging reveals a paradox: psychedelics *decrease* within-network connectivity (especially in the [[neural-correlates-of-consciousness#The Default Mode Network|default mode network]]) while *increasing* between-network connectivity. The brain becomes simultaneously less integrated locally and more integrated globally.
 
-The Penrose-Hameroff Orch OR theory proposes a quantum mechanism: psychedelic molecules bind to microtubules and induce quantum coherence. If consciousness participates in quantum collapse (as the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes), psychedelics might enhance this participation. This hypothesis remains speculative—quantum coherence in warm biological systems faces the [[decoherence]] objection that thermal noise should destroy superpositions almost instantly. However, Kerskens and Pérez López (2022) detected MRI signals consistent with quantum entanglement in living human brains, with the entanglement signatures correlating with conscious states and disappearing when subjects fell asleep. If confirmed, this suggests the decoherence problem may be less prohibitive than Tegmark calculated. The mechanism deserves continued investigation rather than dismissal.
+The Penrose-Hameroff Orch OR theory proposes a quantum mechanism: psychedelic molecules bind to microtubules and induce quantum coherence. If consciousness participates in quantum collapse (as the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes), psychedelics might enhance this participation. This hypothesis remains speculative—quantum coherence in warm biological systems faces the [[decoherence]] objection that thermal noise should destroy superpositions almost instantly. However, Kerskens and Pérez López (2022) reported MRI signals they interpret as consistent with quantum entanglement in living human brains, though the result remains contested—critics note the signals may have classical explanations. If confirmed, this would suggest the decoherence problem may be less prohibitive than Tegmark calculated.
 
 ### Flow States
 
-Csikszentmihalyi's flow—the state of optimal experience during skilled activity—involves "transient hypofrontality": reduced activity in executive control regions (superior frontal gyri) despite enhanced performance. This seems paradoxical: how does reduced control produce better outcomes?
+Csikszentmihalyi's flow—the state of optimal experience during skilled activity—involves what Dietrich (2003) terms "transient hypofrontality": reduced activity in executive control regions despite enhanced performance. This seems paradoxical: how does reduced control produce better outcomes?
 
 Filter theory resolves the paradox. Flow involves consciousness *releasing* active control, allowing highly trained circuits to operate with less interference. The filter narrows to exclude deliberative processing while remaining open to automatic expertise. This supports [[tenets#^bidirectional-interaction|Bidirectional Interaction]]—consciousness normally exerts control, and its deliberate release in flow demonstrates its active role in non-flow cognition.
 
@@ -111,7 +111,7 @@ This form/content distinction strengthens the filter theory interpretation. Wher
 
 ### Near-Death Experiences
 
-Xu et al. (2023) found gamma surges in dying patients—localised to the temporal-parietal-occipital junction, a region specifically associated with out-of-body experiences and consciousness of embodiment. Rivas et al. (2023) documented 120+ cases with veridical elements—accurate perceptions during apparent unconsciousness.
+Xu et al. (2023) found gamma surges in dying patients—localised to the temporal-parietal-occipital junction, a region specifically associated with out-of-body experiences and consciousness of embodiment. Rivas et al. (2023) compiled 120+ case reports with veridical elements—accurate perceptions during apparent unconsciousness—though these are retrospective accounts, not controlled experimental evidence.
 
 The empirical status remains contested. Sceptics note the lack of falsifiable predictions and that some neural activity persists, so consciousness has not been shown to exist entirely without brain function. Advocates argue that some cases resist conventional explanation, and that organised, coherent experiences occurring when the brain is catastrophically failing fits awkwardly with production models. A failing generator should produce failing outputs; a failing filter might still transmit clearly.
 
@@ -184,6 +184,8 @@ Fuchs, T. (2005). Corporealized and Disembodied Minds: A Phenomenological View o
 
 Csikszentmihalyi, M. (1990). *Flow: The Psychology of Optimal Experience*. Harper & Row.
 
+Dietrich, A. (2003). Functional neuroanatomy of altered states of consciousness: The transient hypofrontality hypothesis. *Consciousness and Cognition*, 12(2), 231-256.
+
 Huxley, A. (1954). *The Doors of Perception*. Chatto & Windus.
 
 James, W. (1902). *The Varieties of Religious Experience*. Longmans, Green.
@@ -203,13 +205,3 @@ Tart, C. T. (Ed.). (1969). *Altered States of Consciousness*. Wiley.
 Wang, H. et al. (2025). Thalamic nuclei orchestrating consciousness through state-specific connectivity. *Communications Biology*, 8, 92.
 
 Xu, G. et al. (2023). Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain. *PNAS*, 120(19), e2216268120.
-
-<!-- AI REFINEMENT LOG - 2026-03-20
-Changes made:
-- Added "What Would Challenge This View?" section specifying four categories of observation that would undermine the filter interpretation, addressing unfalsifiability concern from pessimistic review
-- Reframed ketamine/propofol argument: acknowledged that production theory predicts different phenomenal outcomes from different receptor mechanisms, then focused the argument on the specific challenge (coherent novel experience under severe disruption) rather than the strawman (identical suppression should yield identical phenomenology)
-
-Key improvements: Intellectual honesty—filter theory now has explicit empirical stakes; anaesthesia argument engages sophisticated production theory rather than a simplified version.
-
-This log should be removed after human review.
--->
