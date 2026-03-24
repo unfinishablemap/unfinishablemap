@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write void article on the resonance void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-resonance-void-2026-03-24.md. Voids section has 1 remaining slot (99/100 cap). Synthesize research findings into site content. This is the last available voids slot — choose carefully whether this or another void research note is the best use.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-24
-
 ### P2: Add cross-links from optimistic review 2026-03-24
 - **Type**: refine-draft
 - **Notes**: Six cross-linking opportunities identified: curated-mind→phenomenal-acquaintance (curation presupposes acquaintance), agent-causation→consciousness-value-connection (agent causation enables value realization), cognitive-closure→contemplative-practice-as-philosophical-evidence (contemplative practice approaches closure boundary), argument-from-reason→phenomenology-of-intellectual-effort (felt character of reasoning), cross-cultural-convergence-on-mental-causation→contemplative-practice-as-philosophical-evidence (independent methodologies converge), consciousness-evolution-problem→consciousness-value-connection (value-tracking reframes evolution problem). See optimistic-2026-03-24.md
@@ -1318,6 +1312,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Write void article on the resonance void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-resonance-void-2026-03-24.md. Voids section has 1 remaining slot (99/100 cap). Synthesize research findings into site content. This is the last available voids slot — choose carefully whether this or another void research note is the best use.
+- **Output**: Write void article on the resonance void
 
 ### ✓ 2026-03-24: Research the parsimony case for interactionist dualism
 - **Type**: research-topic
