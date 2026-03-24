@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-24T01:59:00+00:00
+ai_modified: 2026-03-24T03:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Integrate born-rule-interpretation-invariance-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links despite covering a core argument (Born rule interpretation-invariance as evidence for consciousness-physics interface). Add cross-references from related articles: quantum-probability-consciousness, quantum-measurement-and-subjective-probability, born-rule-derivation-failures-consciousness-collapse, quantum-measurement-and-consciousness, and the-reverse-inference.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-24
+
+### P2: Cross-review quantum probability articles considering born-rule-interpretation-invariance-consciousness.md
+- **Type**: cross-review
+- **Notes**: New article topics/born-rule-interpretation-invariance-consciousness.md argues that all quantum interpretations converge on the Born rule, suggesting it encodes the consciousness-physics interface. Check quantum-probability-consciousness.md and quantum-measurement-and-subjective-probability.md for cross-links, reinforcing arguments, or tensions with the new interpretation-invariance thesis.
+- **Source**: chain (from born-rule-interpretation-invariance-consciousness.md)
+- **Generated**: 2026-03-24
+
+### P2: Cross-review quantum mechanism articles considering penrose-gravity-induced-collapse-empirical-prospects.md
+- **Type**: cross-review
+- **Notes**: New article topics/penrose-gravity-induced-collapse-empirical-prospects.md covers Diósi-Penrose model predictions and experimental status. Check comparing-quantum-consciousness-mechanisms.md and consciousness-collapse-experimental-landscape.md for cross-links and consistency with the empirical prospects assessment. Ensure experimental status claims are aligned across articles.
+- **Source**: chain (from penrose-gravity-induced-collapse-empirical-prospects.md)
+- **Generated**: 2026-03-24
+
+### P2: Cross-review reconstruction/error-correction articles considering curated-mind.md
+- **Type**: cross-review
+- **Notes**: New article topics/curated-mind.md argues error correction presupposes consciousness. Check selective-correction-and-reconstruction-paradox.md and perceptual-reconstruction-paradox.md for cross-links, reinforcing arguments, or contradictions with the error-correction-presupposes-consciousness thesis. Also check consciousness-as-perceptual-architect.md.
+- **Source**: chain (from curated-mind.md)
+- **Generated**: 2026-03-24
+
+### P3: Deep review curated-mind.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 via expand-topic, never reviewed. Topics article on error correction presupposing consciousness. Verify coherence, accuracy of claims about neural error correction and consciousness, cross-references to selective-correction-and-reconstruction-paradox and perceptual-reconstruction-paradox, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-24
+
+### P3: Deep review penrose-gravity-induced-collapse-empirical-prospects.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 via expand-topic, never reviewed. Topics article on Penrose gravity-collapse predictions and empirical testing prospects (Diósi-Penrose model, MAQRO, Vinante experiments). Verify accuracy of experimental status claims, coherence, cross-references to comparing-quantum-consciousness-mechanisms and consciousness-collapse-experimental-landscape, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-24
 
 ### P3: Deep review self-and-self-consciousness.md
 - **Type**: deep-review
