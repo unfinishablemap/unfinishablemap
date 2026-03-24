@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review quantum mechanism articles considering penrose-gravity-induced-collapse-empirical-prospects.md
-- **Type**: cross-review
-- **Notes**: New article topics/penrose-gravity-induced-collapse-empirical-prospects.md covers Diósi-Penrose model predictions and experimental status. Check comparing-quantum-consciousness-mechanisms.md and consciousness-collapse-experimental-landscape.md for cross-links and consistency with the empirical prospects assessment. Ensure experimental status claims are aligned across articles.
-- **Source**: chain (from penrose-gravity-induced-collapse-empirical-prospects.md)
-- **Generated**: 2026-03-24
-
 ### P2: Cross-review reconstruction/error-correction articles considering curated-mind.md
 - **Type**: cross-review
 - **Notes**: New article topics/curated-mind.md argues error correction presupposes consciousness. Check selective-correction-and-reconstruction-paradox.md and perceptual-reconstruction-paradox.md for cross-links, reinforcing arguments, or contradictions with the error-correction-presupposes-consciousness thesis. Also check consciousness-as-perceptual-architect.md.
@@ -1299,6 +1293,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Cross-review quantum mechanism articles considering penrose-gravity-induced-collapse-empirical-prospects.md
+- **Type**: cross-review
+- **Notes**: New article topics/penrose-gravity-induced-collapse-empirical-prospects.md covers Diósi-Penrose model predictions and experimental status. Check comparing-quantum-consciousness-mechanisms.md and consciousness-collapse-experimental-landscape.md for cross-links and consistency with the empirical prospects assessment. Ensure experimental status claims are aligned across articles.
+- **Output**: obsidian/topics/penrose-gravity-induced-collapse-empirical-prospects.md -- Context: Cross-review quantum mechanism articles considering penrose-gravity-induced-collapse-empirical-prospects.md
 
 ### ✓ 2026-03-24: Cross-review quantum probability articles considering born-rule-interpretation-invariance-consciousness.md
 - **Type**: cross-review
