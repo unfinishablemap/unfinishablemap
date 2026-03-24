@@ -4,7 +4,7 @@ description: "Why does experience belong to anyone? The ownership problem asks w
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-03-23T21:43:00+00:00
+ai_modified: 2026-03-24T09:36:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,13 +27,14 @@ related_articles:
   - "[[identity-across-transformations]]"
   - "[[ownership-void]]"
   - "[[phenomenological-psychiatry-and-altered-experience]]"
+  - "[[phenomenology-of-embodiment-under-dualism]]"
   - "[[indexical-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-03-01T04:40:00+00:00
+last_deep_review: 2026-03-24T09:36:00+00:00
 ---
 
 Why does experience belong to anyone? Every conscious state is someone's conscious state—my pain is *mine*, your perception of blue is *yours*. This seems so obvious it barely warrants mention. Yet the ownership of experience is one of the deepest puzzles in philosophy of mind, because no physical description of a brain state includes the fact that the state is *had by* a particular subject. The ownership problem asks: what makes conscious states belong to someone rather than existing as free-floating experiential events?
@@ -138,6 +139,7 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 - [[ownership-void|The Ownership Void]] — Why the ownership mechanism hides from introspection
 - [[witness-consciousness]] — Ownership stripped of narrative content
 - [[parfit-reductionism]] — The reductionist challenge to primitive ownership
+- [[phenomenology-of-embodiment-under-dualism]] — Bodily ownership and agency as pre-reflective dimensions of embodied subjectivity
 - [[phenomenological-psychiatry-and-altered-experience]] — Clinical evidence for ownership as a separable structural feature of consciousness
 
 ## References
