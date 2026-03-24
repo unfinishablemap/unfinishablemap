@@ -23,7 +23,7 @@ related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-mathematical-cognition]]"
   - "[[consciousness-and-the-authority-of-formal-systems]]"
-  - "[[mathematical-knowledge-and-insight]]"
+  - "[[mathematical-truth-and-conscious-access]]"
   - "[[mathematical-void]]"
   - "[[incompleteness-void]]"
   - "[[quantum-measurement-consciousness-interface]]"
@@ -35,7 +35,7 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
 last_deep_review: 2026-03-19T10:12:00+00:00
-ai_modified: 2026-03-20T13:19:00+00:00
+ai_modified: 2026-03-24T19:24:00+00:00
 coalesced_from:
   - "/topics/self-reference-and-the-limits-of-physical-description/"
   - "/topics/godel-measurement-problem-analogy/"
@@ -129,7 +129,7 @@ The self-referential structure underlying both Gödelian incompleteness and the 
 
 - [[consciousness-and-mathematical-cognition]] — Mathematical insight as evidence for consciousness beyond computation
 - [[consciousness-and-the-authority-of-formal-systems]] — Why formal systems reach principled limits at consciousness
-- [[mathematical-knowledge-and-insight]] — The epistemology and phenomenology of mathematical knowledge
+- [[mathematical-truth-and-conscious-access]] — The epistemology and phenomenology of mathematical knowledge
 - [[physics-as-disclosure]] — The measurement problem as boundary disclosure
 - [[incompleteness-void]] — Gödelian limits as cognitive boundaries
 - [[mathematical-void]] — Where formal manipulation succeeds but understanding fails

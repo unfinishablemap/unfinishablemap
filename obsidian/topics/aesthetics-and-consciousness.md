@@ -4,7 +4,7 @@ description: "Aesthetic experience—simultaneously qualitative, evaluative, hol
 created: 2026-01-22
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-24T19:24:00+00:00
 draft: false
 last_deep_review: 2026-03-11T21:35:00+00:00
 topics:
@@ -60,7 +60,7 @@ related_articles:
   - "[[creativity-void]]"
   - "[[consciousness-and-skill-acquisition]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
-  - "[[mathematical-knowledge-and-insight]]"
+  - "[[mathematical-truth-and-conscious-access]]"
   - "[[phenomenology-of-creative-insight]]"
 ai_contribution: 100
 author:

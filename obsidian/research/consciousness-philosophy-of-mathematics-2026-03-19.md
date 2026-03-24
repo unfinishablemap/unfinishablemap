@@ -3,7 +3,7 @@ title: "Research Notes - Consciousness and the Philosophy of Mathematics"
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-19T19:04:00+00:00
+ai_modified: 2026-03-24T19:24:00+00:00
 draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
@@ -11,7 +11,7 @@ ai_generated_date: 2026-03-19
 description: "Research on how consciousness intersects with foundational positions in philosophy of mathematics—Platonism, intuitionism, formalism, structuralism—and what mathematical epistemology reveals about the nature of mind."
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[mathematical-knowledge-and-insight]]"
+  - "[[mathematical-truth-and-conscious-access]]"
   - "[[consciousness-and-mathematical-cognition]]"
 concepts:
   - "[[cognitive-phenomenology]]"

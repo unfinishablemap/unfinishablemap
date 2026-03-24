@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced mathematics articles
-- **Type**: cross-review
-- **Notes**: Coalesce merged consciousness-and-the-philosophy-of-mathematics + mathematical-knowledge-and-insight into mathematical-truth-and-conscious-access. The following files reference archived articles and may need wikilink updates: voids/mathematical-void.md, voids/computational-cognitive-limits.md, concepts/phenomenology-of-creative-insight.md, topics/self-reference-and-the-limits-of-physical-description.md, topics/phenomenology-of-understanding-and-meaning.md, topics/incubation-effect-and-unconscious-processing.md, topics/aesthetics-and-consciousness.md, workflow/highlights.md
-- **Source**: coalesce
-- **Generated**: 2026-03-24
-
-### P2: Condense mysterianism.md (3564 words, 143% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard warning threshold for concepts/. Preserve core arguments about cognitive closure and the new mysterian position while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-24
-
 ### P2: Create concept page for supervenience
 - **Type**: expand-topic
 - **Notes**: Fundamental philosophical concept referenced in 14 articles but has no dedicated page. Supervenience is central to the mind-body problem — the Map's rejection of reductive supervenience is implicit across many articles but never systematically explained. A concept page would strengthen arguments in mental-causation, emergence, and epiphenomenalism articles. Target section: concepts/ (224/230).
@@ -1321,6 +1309,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Update references to coalesced mathematics articles
+- **Type**: cross-review
+- **Notes**: Coalesce merged consciousness-and-the-philosophy-of-mathematics + mathematical-knowledge-and-insight into mathematical-truth-and-conscious-access. The following files reference archived articles and may need wikilink updates: voids/mathematical-void.md, voids/computational-cognitive-limits.md, concepts/phenomenology-of-creative-insight.md, topics/self-reference-and-the-limits-of-physical-description.md, topics/phenomenology-of-understanding-and-meaning.md, topics/incubation-effect-and-unconscious-processing.md, topics/aesthetics-and-consciousness.md, workflow/highlights.md
+- **Output**: None -- Context: Update references to coalesced mathematics articles
 
 ### ✓ 2026-03-24: Deep review volitional-control.md
 - **Type**: deep-review

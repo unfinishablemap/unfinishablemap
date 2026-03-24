@@ -4,7 +4,7 @@ description: "Understanding has irreducible phenomenal character—the click of 
 created: 2026-01-22
 modified: 2026-03-16
 human_modified:
-ai_modified: 2026-03-22T19:46:00+00:00
+ai_modified: 2026-03-24T19:24:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,7 +43,7 @@ related_articles:
   - "[[explanatory-gap]]"
   - "[[phenomenology-of-intellectual-effort]]"
   - "[[phenomenal-binding-and-holism]]"
-  - "[[mathematical-knowledge-and-insight]]"
+  - "[[mathematical-truth-and-conscious-access]]"
   - "[[language-recursion-and-consciousness]]"
   - "[[phenomenal-normativity]]"
   - "[[phenomenology-of-musical-understanding]]"
@@ -221,7 +221,7 @@ Several findings would weaken PCT and the phenomenal constitution of meaning:
 - [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality]] — Why genuine aboutness requires phenomenal consciousness
 - [[temporal-structure-of-understanding]] — The temporal unfolding of comprehension
 - [[consciousness-and-mathematical-cognition]] — Mathematical insight as paradigm case
-- [[mathematical-knowledge-and-insight]] — The epistemology and felt character of mathematical understanding
+- [[mathematical-truth-and-conscious-access]] — The epistemology and felt character of mathematical understanding
 - [[epistemic-emotions]] — Feelings directed at knowledge itself
 - [[consciousness-and-the-authority-of-formal-systems]] — Why logical relationships carry normative force
 - [[phenomenology-of-intellectual-effort]] — The experience of reasoning as work

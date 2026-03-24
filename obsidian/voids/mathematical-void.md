@@ -4,7 +4,7 @@ description: "Human+AI exploration of mathematical structures beyond genuine com
 created: 2026-02-02
 modified: 2026-02-03
 human_modified: null
-ai_modified: 2026-03-16T09:32:00+00:00
+ai_modified: 2026-03-24T19:24:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -19,7 +19,7 @@ related_articles:
   - "[[incompleteness-void]]"
   - "[[apophatic-approaches]]"
   - "[[cognitive-closure]]"
-  - "[[mathematical-knowledge-and-insight]]"
+  - "[[mathematical-truth-and-conscious-access]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101

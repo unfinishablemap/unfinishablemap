@@ -4,7 +4,7 @@ description: "Every major position on what mathematical objects are implies a po
 created: 2026-01-21
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-03-24T19:09:00+00:00
+ai_modified: 2026-03-24T19:24:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,7 +38,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-24
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-24T19:24:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-the-philosophy-of-mathematics/"
   - "/topics/mathematical-knowledge-and-insight/"
@@ -114,7 +114,7 @@ The phenomenal hallmark of mathematical insight is *felt necessity*. When you un
 
 Compare this with insight in other domains. Scientific insight carries conviction but not necessity—the pattern could have been otherwise. Artistic insight feels *right* but not *inevitable* in the way mathematical proof does. Mathematical necessity is experienced as discovered rather than imposed: the mathematician does not decide the conclusion must follow but *sees* that it must.
 
-Galen Strawson's "understanding-experience" captures part of this. There is something it is like to grasp necessity—a phenomenal quality beyond accompanying imagery or emotion. When you see why the square root of two cannot be rational, the impossibility is not merely believed but *felt*. The proof by contradiction phenomenally *closes off* the alternative.
+What Galen Strawson calls the phenomenology of understanding captures part of this. There is something it is like to grasp necessity—a phenomenal quality beyond accompanying imagery or emotion. When you see why the square root of two cannot be rational, the impossibility is not merely believed but *felt*. The proof by contradiction phenomenally *closes off* the alternative.
 
 Felt necessity admits of degrees. Elementary arithmetic truths carry necessity so transparent it barely registers. Complex proofs may carry necessity that builds gradually. And at the frontier, necessity sometimes arrives all at once—the proof's entire structure suddenly visible, its conclusion felt as inevitable before each step has been consciously verified.
 
@@ -178,7 +178,7 @@ The claim that mathematical knowledge requires irreducible consciousness would f
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The Map speculates that mathematical intuition may involve consciousness biasing quantum indeterminacy toward states that correctly represent mathematical truths. The reliability of intuition would then reflect a non-physical faculty selecting among neural configurations, constrained by mathematical necessity itself. This remains speculative but compatible with the tenet's framework.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Benacerraf's dilemma and the interaction problem share the same structure—and both require that specific outcomes obtain in specific situations. Under many-worlds, every mathematical conjecture is both proved and unproved across branches, dissolving the phenomenology of discovery and the epistemic significance of understanding.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Benacerraf's dilemma and the interaction problem share the same structure—and both require that specific outcomes obtain in specific situations. Mathematical truths themselves are necessary and hold across all branches, but under many-worlds every mathematician both proves and fails to prove every conjecture across the branching structure—dissolving the phenomenology of discovery and the epistemic significance of the specific understanding any individual achieves.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Formalism appeared to offer the simplest account—no abstract objects, no mysterious faculties, just symbols and rules. This apparent simplicity concealed a fundamental inadequacy. The physicalist strategy of reducing mathematical knowledge to neural computation appears simpler—but only by leaving the access problem unsolved and the phenomenology unexplained. Treating mathematical intuition as a genuine epistemic faculty is more complex ontologically but more adequate explanatorily.
 
