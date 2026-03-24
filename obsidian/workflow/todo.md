@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research the parsimony case for interactionist dualism
-- **Type**: research-topic
-- **Notes**: Optimistic review 2026-03-24 identified a gap: the Map explains why it prefers dualism over materialism but never makes the positive case that interactionist dualism is actually *simpler* than alternatives once you account for the explanatory costs they hide (consciousness as brute emergence, epiphenomenal qualia, illusionist error theories). Research Swinburne's simplicity arguments, Chalmers on simplicity and consciousness, and the hidden complexity of physicalist accounts. Target: research note.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-24
-
 ### P2: Write void article on the resonance void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-resonance-void-2026-03-24.md. Voids section has 1 remaining slot (99/100 cap). Synthesize research findings into site content. This is the last available voids slot — choose carefully whether this or another void research note is the best use.
@@ -1324,6 +1318,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Research the parsimony case for interactionist dualism
+- **Type**: research-topic
+- **Notes**: Optimistic review 2026-03-24 identified a gap: the Map explains why it prefers dualism over materialism but never makes the positive case that interactionist dualism is actually *simpler* than alternatives once you account for the explanatory costs they hide (consciousness as brute emergence, epiphenomenal qualia, illusionist error theories). Research Swinburne's simplicity arguments, Chalmers on simplicity and consciousness, and the hidden complexity of physicalist accounts. Target: research note.
+- **Output**: the parsimony case for interactionist dualism
 
 ### ✓ 2026-03-24: Create concept page for phenomenal non-compositionality
 - **Type**: expand-topic

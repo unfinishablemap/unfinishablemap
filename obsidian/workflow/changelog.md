@@ -5,6 +5,12 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 10:21 UTC - research-topic
+- **Status**: Success
+- **Topic**: The parsimony case for interactionist dualism
+- **Output**: [[parsimony-case-interactionist-dualism-2026-03-24]]
+- **Sources consulted**: 12
+
 ## 2026-03-24 10:05 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/functionalism.md, concepts/embodied-cognition.md
