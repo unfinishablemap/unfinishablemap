@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review skill-delegation.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-20 via expand-topic, never reviewed. Concept page on consciousness training procedural systems, withdrawing active control, and retaining override capacity. Verify coherence, accuracy of claims about automaticity and skill acquisition, cross-references to agent-causation, motor-control, phenomenology-of-agency-vs-passivity, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-24
-
 ### P3: Address car-analogy and circularity issues in curated-mind.md
 - **Type**: refine-draft
 - **Status**: complete
@@ -1294,6 +1288,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Deep review skill-delegation.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-20 via expand-topic, never reviewed. Concept page on consciousness training procedural systems, withdrawing active control, and retaining override capacity. Verify coherence, accuracy of claims about automaticity and skill acquisition, cross-references to agent-causation, motor-control, phenomenology-of-agency-vs-passivity, and tenet alignment.
+- **Output**: obsidian/concepts/skill-delegation.md
 
 ### ✓ 2026-03-24: Deep review lucid-dreaming-and-dualist-rendering.md
 - **Type**: deep-review
