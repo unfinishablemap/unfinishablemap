@@ -4,7 +4,7 @@ description: "Interactionist dualism may be simpler than physicalism once all ex
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-03-24T13:13:00+00:00
+ai_modified: 2026-03-24T13:33:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,6 +27,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-24
 last_curated:
+last_deep_review: 2026-03-24T13:33:00+00:00
 ---
 
 The Unfinishable Map's existing articles on [[parsimony-epistemology]] and the [[limits-of-parsimony-in-consciousness-science|limits of parsimony]] make the defensive case: Occam's Razor cannot adjudicate the mind-body problem because its preconditions fail. This article makes the stronger, positive claim. When all explanatory costs are tallied — not just substance count but theoretical proliferation, brute facts, and accommodation of the data — [[interactionist-dualism]] emerges as the more parsimonious position. Physicalism's apparent simplicity is a bookkeeping trick: it hides enormous debts off the balance sheet.
@@ -35,7 +36,7 @@ The Unfinishable Map's existing articles on [[parsimony-epistemology]] and the [
 
 The standard parsimony argument against dualism is disarmingly simple: physicalism posits one substance type, dualism posits two. One is less than two. Prefer physicalism.
 
-This argument counts ontological categories and nothing else. It is like comparing the simplicity of two accounting systems by counting the number of account types while ignoring that one system has billions in unreconciled liabilities. [[parsimony-epistemology#Three Dimensions of Simplicity|Simplicity has three dimensions]] — ontological, syntactic, and explanatory — and physicalism's advantage on the first is purchased at steep cost on the other two.
+This argument counts ontological categories and nothing else. It is like comparing the simplicity of two accounting systems by counting the number of account types while ignoring that one system has billions in unreconciled liabilities. [[parsimony-epistemology#Three Dimensions of Simplicity|Simplicity has three dimensions]] — ontological, syntactic, and explanatory — and physicalism's advantage on the first is purchased at steep cost on the other two. The [[arguments-against-materialism|broader case against materialism]] converges on the same conclusion from multiple independent directions; what follows is the parsimony-specific version of that convergence.
 
 Zanotti (2021) makes this precise. Physicalism's ontological economy comes with what he calls the "burden of parsimony" — the explanatory debts that accumulate when consciousness must be accommodated within a framework that provides no natural place for it. These debts are not speculative future problems. They are present structural features of every physicalist programme.
 
@@ -45,7 +46,7 @@ Zanotti (2021) makes this precise. Physicalism's ontological economy comes with 
 
 If physicalism were a natural fit for consciousness, one would expect convergence on a solution. The opposite has occurred. Physicalists have generated functionalism, higher-order thought theory, higher-order perception theory, global workspace theory, illusionism, eliminativism, and multiple versions of identity theory — each adding distinct theoretical machinery to bridge the [[explanatory-gap]]. The theories are not refinements of a single approach; they are structurally incompatible responses to the same problem.
 
-This proliferation is itself evidence of explanatory strain. When a constraint is natural, theories converge. When a constraint is forced, theories scatter. The physicalist constraint — that consciousness must be nothing over and above the physical — produces fragmentation because the constraint does not fit the phenomenon.
+A physicalist might respond that proliferation is a sign of healthy scientific exploration, not strain. But the analogy fails. In healthy research programmes, competing theories converge as evidence accumulates — rival models of stellar nucleosynthesis, for instance, progressively unified. The physicalist theories of consciousness are not converging. After decades, they remain structurally incompatible, and the [[hard-problem-of-consciousness|hard problem]] remains exactly as Chalmers formulated it. This pattern — persistent fragmentation despite sustained effort — is the signature of a constraint that does not fit the phenomenon.
 
 ### Three Unavoidable Debts
 
@@ -55,13 +56,15 @@ Every physicalist account must accept at least one of three explanatory debts:
 
 **Error theory.** Illusionists (Frankish, Dennett) deny that phenomenal consciousness exists as it seems. This eliminates the explanatory gap by eliminating the explanandum. But it introduces a different cost: an error theory explaining why every conscious being is systematically mistaken about the most immediate feature of their existence. The theory that experience is illusory must explain why the illusion is universal, stable, and resistant to correction — an explanatory burden at least as heavy as the one it replaces.
 
-**Conceptual gap.** Mysterians (McGinn) hold that physicalism is true but human cognition cannot understand how. This concedes that the explanatory gap is real from our perspective while insisting it would dissolve with better concepts. The cost: physicalism's superiority becomes unfalsifiable. If the explanation is in principle beyond our grasp, we cannot evaluate whether it exists.
+**Conceptual gap.** [[mysterianism|Mysterians]] (McGinn) hold that physicalism is true but human cognition cannot understand how. This concedes that the explanatory gap is real from our perspective while insisting it would dissolve with better concepts. The cost: physicalism's superiority becomes unfalsifiable. If the explanation is in principle beyond our grasp, we cannot evaluate whether it exists.
 
 Interactionist dualism avoids all three. It takes consciousness at face value — experience is real, non-physical, and causally efficacious — and adds [[psychophysical-laws]] connecting mental and physical domains. This is a genuine explanatory cost: the nature of these laws remains to be specified. But it is *one* open problem, not three structural debts.
 
+A physicalist might object that brute psychophysical laws are no worse than other brute laws of nature — gravity, for instance, is fundamental and unexplained. But the analogy is asymmetric. Brute physical laws connect entities of the same ontological category; physicalism's brute psychophysical law must connect physical structure to phenomenal character across what the physicalist insists is *not* an ontological divide. This is not merely an unexplained law but an unexplained law whose very possibility the framework cannot articulate. The dualist's psychophysical laws, by contrast, connect two acknowledged categories — the explanatory task is difficult but coherent.
+
 ## The Dimensional Reversal
 
-Hubbard distinguishes three kinds of parsimony and argues that dualism wins on two of three:
+Hubbard distinguishes three kinds of parsimony — roughly corresponding to the ontological, syntactic, and explanatory dimensions identified in the Map's [[parsimony-epistemology|parsimony epistemology]] — and argues that dualism wins on two of three:
 
 **Ontological parsimony** (entity types): Physicalism wins. One substance is fewer than two.
 
@@ -69,7 +72,7 @@ Hubbard distinguishes three kinds of parsimony and argues that dualism wins on t
 
 **Epistemological parsimony** (explanatory economy): Dualism wins. Physicalism must explain *away* consciousness — reduce it, eliminate it, or declare it brute. Each strategy adds explanatory machinery. Dualism explains consciousness by positing that it exists as a genuine feature of reality. The explanation is direct: there is something it is like to be conscious because consciousness is real and irreducible. The remaining task — characterising the psychophysical laws — is a genuine problem but one that does not require denying or dissolving the phenomenon.
 
-The dimensional reversal undermines the standard argument's implicit assumption: that ontological parsimony is the only dimension that matters. There is no principled reason to privilege entity-type count over descriptive economy or explanatory directness. If anything, explanatory simplicity — minimising brute facts and unexplained correlations — is more relevant to theory choice than substance count, because the goal of theory is explanation, not ontological minimalism.
+The dimensional reversal undermines the standard argument's implicit assumption: that ontological parsimony is the only dimension that matters. There is no principled reason to privilege entity-type count over descriptive economy or explanatory directness. Theories are chosen for their power to explain, predict, and unify — not for having the shortest list of substance types. A theory that posits one substance but requires brute facts, error theories, and unresolvable gaps to accommodate its central explanandum has not achieved genuine simplicity. It has achieved a tidy ontology at the cost of an untidy everything else.
 
 ## Interactionism Over Epiphenomenalism
 

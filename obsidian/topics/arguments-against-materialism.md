@@ -4,7 +4,7 @@ description: "Multiple independent philosophical arguments converge on the same 
 created: 2026-02-27
 modified: 2026-02-27
 human_modified:
-ai_modified: 2026-03-23T07:38:00+00:00
+ai_modified: 2026-03-24T13:33:00+00:00
 last_deep_review: 2026-03-23T07:38:00+00:00
 draft: false
 topics:
@@ -32,6 +32,7 @@ related_articles:
   - "[[self-reference-and-the-limits-of-physical-description]]"
   - "[[differential-predictions-consciousness-collapse]]"
   - "[[consciousness-collapse-versus-decoherence-experiments]]"
+  - "[[parsimony-case-for-interactionist-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -85,7 +86,7 @@ Academic philosophy rewards research programs that produce results. Materialism 
 
 [[concepts/materialism|Materialism]] seems simpler: one kind of stuff instead of two. But as [[parsimony-epistemology]] shows, parsimony arbitrates between theories of equal explanatory power. A "simpler" theory that fails to explain the data has not earned the parsimony discount. Materialism does not explain phenomenal consciousness—it either denies it (eliminativism), redefines it functionally while setting aside qualitative character, appeals to the [[phenomenal-concepts-strategy]] to explain away the gap as a feature of our *concepts* rather than of reality, or defers it (future science). None of these is an explanation.
 
-The Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses this directly: simplicity is an unreliable guide when knowledge is incomplete. The apparent simplicity of materialism may reflect what we are *ignoring* rather than what we have *explained*. Strikingly, [[limits-of-parsimony-in-consciousness-science|materialists' own leading defenders]] have acknowledged this weakness — Smart never successfully defended his parsimony argument, Lycan calls parsimony "a very posterior reason," and Churchland qualifies it as "not conclusive." See [[epistemological-limits-occams-razor]] for the full case.
+The Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses this directly: simplicity is an unreliable guide when knowledge is incomplete. The apparent simplicity of materialism may reflect what we are *ignoring* rather than what we have *explained*. Strikingly, [[limits-of-parsimony-in-consciousness-science|materialists' own leading defenders]] have acknowledged this weakness — Smart never successfully defended his parsimony argument, Lycan calls parsimony "a very posterior reason," and Churchland qualifies it as "not conclusive." See [[epistemological-limits-occams-razor]] for the full case. For the positive argument that parsimony actually *favours* interactionist dualism, see [[parsimony-case-for-interactionist-dualism]].
 
 ### Fear of the Alternative
 

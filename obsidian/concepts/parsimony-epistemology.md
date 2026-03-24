@@ -4,7 +4,7 @@ description: "Why Occam's Razor lacks epistemic warrant in the consciousness deb
 created: 2026-03-18
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-03-21T08:54:00+00:00
+ai_modified: 2026-03-24T13:33:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,7 @@ related_articles:
   - "[[epistemological-limits-occams-razor]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[arguments-against-materialism]]"
+  - "[[parsimony-case-for-interactionist-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -160,7 +161,7 @@ This matters because the single most common objection to [[interactionist-dualis
 2. That the competing theories explain consciousness equally well (they do not — physicalism leaves the [[hard-problem-of-consciousness|hard problem]] untouched)
 3. That scientific parsimony transfers to metaphysical theory choice (multiple independent analyses conclude it does not)
 
-The precondition failures are not matters of opinion — they are structural features of the debate that have been acknowledged even by parsimony's most prominent defenders. When the preconditions for applying a principle are unmet, invoking the principle is not cautious reasoning — it is a category error. If parsimony cannot adjudicate the consciousness debate, then the question must be settled on other grounds: explanatory power, phenomenological evidence, the [[knowledge-argument|knowledge argument]], [[philosophical-zombies|conceivability arguments]], and the coherence of the broader theoretical framework. On those grounds, the Map argues, dualism prevails.
+The precondition failures are not matters of opinion — they are structural features of the debate that have been acknowledged even by parsimony's most prominent defenders. When the preconditions for applying a principle are unmet, invoking the principle is not cautious reasoning — it is a category error. If parsimony cannot adjudicate the consciousness debate, then the question must be settled on other grounds: explanatory power, phenomenological evidence, the [[knowledge-argument|knowledge argument]], [[philosophical-zombies|conceivability arguments]], and the coherence of the broader theoretical framework. On those grounds, the Map argues, dualism prevails — and when parsimony *is* correctly applied across all its dimensions, it [[parsimony-case-for-interactionist-dualism|actually favours interactionist dualism]].
 
 ## Further Reading
 

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review parsimony-case-for-interactionist-dualism with related articles
-- **Type**: cross-review
-- **Notes**: Review new article against parsimony-epistemology, limits-of-parsimony-in-consciousness-science, interactionist-dualism, and epistemological-limits-of-occams-razor for consistency, cross-linking, and non-duplication.
-- **Source**: chain (expand-topic 2026-03-24)
-- **Generated**: 2026-03-24
-
 ### P2: Write article on phenomenology of volitional control — empirical evidence
 - **Type**: expand-topic
 - **Notes**: Research completed in research/phenomenology-volitional-control-2026-03-20.md. Libet reinterpretations (Schurger's stochastic readiness model, Brass-Haggard freedom-not-to-act paradigm) supporting conscious causation rather than undermining it. Distinct from concepts/phenomenology-of-volition.md which covers the felt quality; this covers the empirical evidence. Supports Tenet 3 (Bidirectional Interaction). Target section: topics/ (228/230, slot 2 of 2 remaining).
@@ -1332,6 +1326,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Cross-review parsimony-case-for-interactionist-dualism with related articles
+- **Type**: cross-review
+- **Notes**: Review new article against parsimony-epistemology, limits-of-parsimony-in-consciousness-science, interactionist-dualism, and epistemological-limits-of-occams-razor for consistency, cross-linking, and non-duplication.
+- **Output**: None -- Context: Cross-review parsimony-case-for-interactionist-dualism with related articles
 
 ### ✓ 2026-03-24: Write article on the parsimony case for interactionist dualism
 - **Type**: expand-topic
