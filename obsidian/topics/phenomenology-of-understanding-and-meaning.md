@@ -50,6 +50,7 @@ related_articles:
   - "[[phenomenology-of-recursive-thought]]"
   - "[[phenomenology-of-anticipation]]"
   - "[[topics/phenomenal-value-realism]]"
+  - "[[resonance-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -97,7 +98,7 @@ Among the most philosophically significant aspects is the experience of necessit
 
 [[phenomenology-of-musical-understanding|Musical understanding]] provides the clearest case of meaning that cannot be stated propositionally — a point explored further in the Map's treatment of the [[aesthetics-and-consciousness]]. When a minor key passage sounds, listeners experience something — sadness, darkness, yearning — but the meaning cannot be translated into any assertion. The music generates felt significance directly, without passing through propositional content.
 
-The meaning of a harmonic resolution is constituted by its phenomenal character — by the felt release of tension, the satisfaction of an anticipated continuation arriving. A system that processed the same harmonic relations without temporal phenomenology — without the specious present that holds preceding notes in retention while protention reaches toward what follows — would process structure without generating meaning. The meaning *is* the experience of the structure, not the structure itself.
+The meaning of a harmonic resolution is constituted by its phenomenal character — by the felt release of tension, the satisfaction of an anticipated continuation arriving. A system that processed the same harmonic relations without temporal phenomenology — without the specious present that holds preceding notes in retention while protention reaches toward what follows — would process structure without generating meaning. The meaning *is* the experience of the structure, not the structure itself. The [[resonance-void]] investigates what happens when this kind of meaning exceeds articulation entirely — when consciousness registers felt significance across music, ideas, and encounters that resists every attempt to say *what* was understood.
 
 ### Temporal Meaning
 

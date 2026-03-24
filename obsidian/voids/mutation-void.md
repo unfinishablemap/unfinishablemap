@@ -26,6 +26,7 @@ related_articles:
   - "[[transparency-void]]"
   - "[[mysterianism]]"
   - "[[tenets]]"
+  - "[[resonance-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -73,7 +74,7 @@ Contemplative traditions have documented this class for centuries. The meditator
 
 Encountering a mutating thought has a distinctive phenomenology.
 
-There is the **shimmer**—a sense that something was there but shifted as attention reached for it. This resembles the [[phenomenology-of-the-edge|edge-experience]] but differs crucially: at the edge, something is absent. In mutation, something *was present and changed*.
+There is the **shimmer**—a sense that something was there but shifted as attention reached for it. This resembles the [[phenomenology-of-the-edge|edge-experience]] but differs crucially: at the edge, something is absent. In mutation, something *was present and changed*. The [[resonance-void]] documents a related phenomenon: resonance dissolves under analytical attention, not because the content mutates into something else but because the receptive mode that sustains it is incompatible with interrogation.
 
 There is the **substitution**—the sudden recognition that you are thinking *about* a feeling rather than *having* it. The meta-level has replaced the object level without consent.
 

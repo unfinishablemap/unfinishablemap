@@ -29,6 +29,7 @@ related_articles:
   - "[[pre-conceptual-knowing]]"
   - "[[intrinsic-nature-void]]"
   - "[[constitutive-exclusion]]"
+  - "[[resonance-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -160,6 +161,7 @@ The unexplorable dimension is more speculative. If the phenomenal presence mecha
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
 - [[limits-reveal-structure]] — How cognitive boundaries illuminate architecture
 - [[constitutive-exclusion]] — Why consciousness cannot access reality independent of its own contribution
+- [[resonance-void]] — Where consciousness encounters meaning as presence rather than absence—Marion's saturated phenomena in everyday form
 
 ## References
 

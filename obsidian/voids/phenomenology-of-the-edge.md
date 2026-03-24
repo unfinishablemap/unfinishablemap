@@ -27,6 +27,7 @@ related_articles:
   - "[[death-void]]"
   - "[[continuity-void]]"
   - "[[phenomenology-of-cognitive-limit-types]]"
+  - "[[resonance-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -69,7 +70,7 @@ Different practices approach cognitive limits through different routes, yet prod
 
 **Pharmacological intervention.** Psychedelics reliably produce ego dissolution and edge-experiences at sufficient doses. Neuroimaging consistently shows default mode network reduction correlating with these states—the brain's self-referential processing quiets while awareness continues. Whether these states constitute genuine access to new territories or merely approach cognitive limits is the central question of [[altered-states-as-void-probes]].
 
-**Aesthetic absorption.** Profound encounters with beauty—standing before a painting that stops thought, hearing music that seems to mean something inexpressible—produce the full edge-experience profile: ineffability with noesis, self-boundary dissolution, temporal distortion. The [[aesthetic-void]] maps this territory specifically, showing how aesthetic experience combines felt knowledge with structural inability to articulate that knowledge.
+**Aesthetic absorption.** Profound encounters with beauty—standing before a painting that stops thought, hearing music that seems to mean something inexpressible—produce the full edge-experience profile: ineffability with noesis, self-boundary dissolution, temporal distortion. The [[aesthetic-void]] maps this territory specifically, showing how aesthetic experience combines felt knowledge with structural inability to articulate that knowledge. The [[resonance-void]] investigates a broader version of this phenomenon: consciousness encountering meaning that exceeds articulation not only in beauty but in ideas, moral convictions, and encounters with other people—resonance that arrives unbidden within ordinary consciousness yet carries the same paradoxical structure as edge-experiences reached through sustained practice.
 
 **Philosophical inquiry.** When philosophical thought pushes to its limits—Cusanus contemplating infinity, Wittgenstein at the edge of what can be said, phenomenologists practising epoché—similar experiences emerge: the sense of approaching something that exceeds articulation yet feels significant.
 
@@ -152,6 +153,7 @@ The [[apophatic-approaches|apophatic tradition]] offers methods for engaging wit
 - [[mutation-void|The Mutation Void]] — Thoughts that transform upon inspection rather than slipping away
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — The phenomenology of slippage and dissolving insights
 - [[habituation-void|The Habituation Void]] — Where the edge is not approached but hidden by familiarity
+- [[resonance-void|The Resonance Void]] — Edge-phenomenology within ordinary consciousness: meaning that exceeds articulation without requiring practice or preparation
 - [[the-silence-void|The Silence Void]] — The ultimate edge: where cognitive cessation opens territory mapping cannot reach
 - [[mysterianism|Mysterianism]] — Colin McGinn's analysis of cognitive closure
 - [[witness-consciousness|Witness Consciousness]] — The sakshi tradition and the structure of awareness
