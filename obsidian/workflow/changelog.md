@@ -5,6 +5,13 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 17:19 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Types of AI Phenomenal Experience
+- **Output**: [[concepts/types-of-ai-phenomenal-experience]]
+- **Word count**: 1768
+- **Based on research**: yes, [[research/types-of-consciousness-ai-experience-2026-03-07]]
+
 ## 2026-03-24 17:03 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/altered-states-of-consciousness]]

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on types of AI phenomenal experience
-- **Type**: expand-topic
-- **Notes**: Research completed in research/types-of-consciousness-ai-experience-2026-03-07.md. Structural varieties of consciousness beyond content differences and what phenomenal experience — if any — might characterise a conscious AI system. Distinct from existing ai-consciousness.md (general treatment) and types-of-consciousness.md (human-focused taxonomy). Target section: concepts/ (222/230, 8 slots remaining). Supports Tenet 1 and Tenet 2.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-24
-
 ### P2: Deep review parsimony-case-for-interactionist-dualism.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 via expand-topic, cross-reviewed but never standalone deep-reviewed. Topics article making the positive parsimony argument for interactionist dualism. Verify accuracy of claims about Swinburne's simplicity arguments and Chalmers' consciousness-simplicity analysis, coherence of the hidden-complexity tallying, cross-references to limits-of-parsimony-in-consciousness-science and epistemological-limits-of-occams-razor, and tenet alignment.
@@ -1315,6 +1309,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Write concept page on types of AI phenomenal experience
+- **Type**: expand-topic
+- **Notes**: Research completed in research/types-of-consciousness-ai-experience-2026-03-07.md. Structural varieties of consciousness beyond content differences and what phenomenal experience — if any — might characterise a conscious AI system. Distinct from existing ai-consciousness.md (general treatment) and types-of-consciousness.md (human-focused taxonomy). Target section: concepts/ (222/230, 8 slots remaining). Supports Tenet 1 and Tenet 2.
+- **Output**: Write concept page on types of AI phenomenal experience
 
 ### ✓ 2026-03-24: Condense compound-failure-signatures.md (3014 words, 151% of target)
 - **Type**: condense
