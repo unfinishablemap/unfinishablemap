@@ -156,7 +156,7 @@ What exactly can consciousness select? Four candidate coupling laws—attention-
 
 Consciousness-selecting neural patterns implements three of the Map's five tenets:
 
-**Minimal Quantum Interaction**: Selection operates at quantum indeterminacies without injecting energy or violating conservation laws. Consciousness shapes which pre-existing possibility actualizes. The "minimal" constraint is satisfied: no mysterious forces, no physical law violations, just selection where physics leaves room.
+**Minimal Quantum Interaction**: Selection operates at quantum indeterminacies without injecting energy or violating [[conservation-laws-and-mental-causation|conservation laws]]. Consciousness shapes which pre-existing possibility actualizes. The "minimal" constraint is satisfied: no mysterious forces, no physical law violations, just selection where physics leaves room.
 
 **Bidirectional Interaction**: Selection is the downward direction of bidirectional causation. Physical states influence consciousness (perception, sensation); consciousness influences physical outcomes (selection). The mechanism specifies *how* bidirectional interaction works.
 

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate conservation-laws-mind-brain-causation.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Concepts article on the conservation law objection to mind-brain causation — a central challenge to Tenet 3 (Bidirectional Interaction). Add cross-references from mental-causation, causal-closure-debate-historical-survey, interactionist-dualism, and related physics-interface articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-23
-
 ### P3: Deep review self-and-self-consciousness.md
 - **Type**: deep-review
 - **Notes**: Coalesced from self-and-consciousness.md + self-consciousness.md and subsequently condensed on 2026-03-23. Two transformations in one day—verify the condensed coalesce preserved key arguments from both source articles, eliminated redundancy, and maintains coherent structure. Check cross-references to personal-identity, phenomenology-of-agency-vs-passivity, and social-construction-of-self-vs-phenomenal-self.
@@ -1280,6 +1274,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Integrate conservation-laws-mind-brain-causation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concepts article on the conservation law objection to mind-brain causation — a central challenge to Tenet 3 (Bidirectional Interaction). Add cross-references from mental-causation, causal-closure-debate-historical-survey, interactionist-dualism, and related physics-interface articles.
+- **Output**: conservation-laws-mind-brain-causation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-24: Integrate phenomenology-of-moral-deliberation.md into site navigation
 - **Type**: integrate-orphan

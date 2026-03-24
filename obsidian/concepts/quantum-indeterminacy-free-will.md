@@ -137,7 +137,7 @@ Applied to the brain:
 
 Key features supporting free will:
 
-**No energy injection**: Consciousness doesn't add energy; it shapes which pre-existing possibility actualizes. This respects conservation laws and satisfies [[observational-closure]] while allowing genuine [[mental-causation|mental causation]].
+**No energy injection**: Consciousness doesn't add energy; it shapes which pre-existing possibility actualizes. This respects [[conservation-laws-and-mental-causation|conservation laws]] and satisfies [[observational-closure]] while allowing genuine [[mental-causation|mental causation]].
 
 **[[downward-causation|Top-down causation]]**: Mental effort (intention, attention) influences physical outcomes. The mind isn't epiphenomenal—it selects among quantum possibilities that physics leaves undetermined.
 
@@ -178,7 +178,7 @@ Quantum indeterminacy provides the response. At quantum measurement events, phys
 
 This transforms Kim's exclusion argument. Mental causation doesn't compete with physical causation—it operates where physical causation runs out. Consciousness selects among outcomes physics leaves open. There's no overdetermination and no exclusion.
 
-The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet formalizes this: consciousness biases otherwise indeterminate quantum outcomes without injecting energy or violating conservation laws. The smallest possible non-physical influence on physical outcomes.
+The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet formalizes this: consciousness biases otherwise indeterminate quantum outcomes without injecting energy or violating [[conservation-laws-and-mental-causation|conservation laws]]. The smallest possible non-physical influence on physical outcomes.
 
 ## Many-Worlds: The Alternative Rejected
 
