@@ -4,7 +4,7 @@ description: "Can experiments distinguish consciousness-driven collapse from env
 created: 2026-03-21
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-03-24T00:43:00+00:00
+ai_modified: 2026-03-24T01:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-24
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-24T01:28:00+00:00
 coalesced_from:
   - "/topics/consciousness-collapse-versus-decoherence-experiments/"
   - "/topics/differential-predictions-consciousness-collapse/"
@@ -47,7 +47,7 @@ The companion article on [[experimental-design-for-consciousness-collapse-testin
 
 This conclusion is premature. As the Stanford Encyclopedia of Philosophy states explicitly: after decoherence selects a preferred basis and suppresses interference, "the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Decoherence converts a pure superposition into an improper mixture — a state that *looks* classical from the perspective of any subsystem measurement but is not the same as genuine ignorance about a single definite outcome. The distinction between proper and improper mixed states cannot be determined by measuring subsystem observables alone.
 
-This gap is not a technicality. It is the [[measurement-problem]]. Decoherence explains why interference disappears. It does not explain why one particular outcome becomes actual. That explanatory gap is where collapse models — and consciousness — might enter.
+This gap is not a technicality. It is the [[measurement-problem]]. Decoherence explains why interference disappears. It does not explain why one particular outcome becomes actual. Several interpretations address this gap without invoking consciousness — pilot-wave theory posits hidden variables, QBism treats quantum states as subjective degrees of belief — but collapse models propose that superpositions genuinely resolve, and consciousness-collapse theories propose that consciousness participates in that resolution.
 
 ## Current Experimental Constraints
 
@@ -57,7 +57,7 @@ The most significant experimental constraint on objective collapse comes from th
 
 The result was negative. No radiation was found beyond residual emissions from the apparatus itself. The team concluded that the simplest versions of gravity-related collapse — those predicting spontaneous photon emission as a collapse byproduct — are "highly implausible."
 
-What this does and does not show requires care. The Gran Sasso result constrains the *simplest* Diósi-Penrose parameterisation. More complex collapse models — including variants Penrose is developing that do not predict spontaneous radiation — remain viable. The result does not touch Stapp's quantum Zeno approach, which operates within standard quantum mechanics without modifying the Schrödinger equation. And it does not address the Chalmers-McQueen IIT-CSL framework, which uses continuous spontaneous localisation rather than gravity-related collapse. See [[non-retrocausal-conscious-selection-models]] for a comparative analysis of all three frameworks.
+What this does and does not show requires care. The Gran Sasso result constrains the *simplest* Diósi-Penrose parameterisation. More complex collapse models — including variants Penrose is developing that do not predict spontaneous radiation — remain viable. The result does not touch Stapp's [[quantum-consciousness|quantum Zeno approach]], which operates within standard quantum mechanics without modifying the Schrödinger equation. And it does not address the Chalmers-McQueen IIT-CSL framework, which uses continuous spontaneous localisation rather than gravity-related collapse. See [[non-retrocausal-conscious-selection-models]] for a comparative analysis of all three frameworks.
 
 The Map should acknowledge Gran Sasso honestly: one candidate mechanism for consciousness-collapse has been significantly constrained. The broader research programme survives because it was never dependent on a single mechanism.
 
@@ -105,9 +105,9 @@ If consciousness triggers or modulates collapse, the *timing* of collapse should
 
 **What to look for:** A quantum system is measured by a detector, and the result is stored in a way that preserves superposition. If consciousness-collapse is correct, the system should remain in superposition until a conscious observer becomes entangled with the outcome. If collapse is physical, the system collapses at detection regardless of observation. Interference tests performed before conscious access could reveal whether collapse has already occurred.
 
-This is a delayed-choice structure applied to collapse timing. The Frauchiger-Renner (2018) thought experiment exposes related tensions: quantum theory struggles to consistently describe situations where observers model each other's measurements, creating scenarios where the timing and reality of collapse become experimentally consequential. A 2021 no-go theorem formalised this: "the persistent reality of Wigner's friend's perception" is inconsistent with the universal validity of quantum theory.
+This is a delayed-choice structure applied to collapse timing. The Frauchiger-Renner (2018) thought experiment exposes related tensions: quantum theory struggles to consistently describe situations where observers model each other's measurements, creating scenarios where the timing and reality of collapse become experimentally consequential. Subsequent no-go results have formalised this: the persistent reality of an observer's perception is inconsistent with the universal validity of quantum theory.
 
-These results challenge consciousness-collapse, but they rest on an assumption consciousness-collapse theorists can coherently reject: that quantum mechanics applies universally to conscious systems. Consciousness-collapse theories propose precisely that conscious systems are where standard quantum evolution breaks down. The Map should engage with this challenge rather than dismissing it. The Frauchiger-Renner argument constrains which versions of consciousness-collapse are viable: any version must clearly specify where and why quantum evolution ceases to apply.
+These results challenge consciousness-collapse, but they rest on an assumption consciousness-collapse theorists can coherently reject: that quantum mechanics applies universally to conscious systems. Consciousness-collapse theories propose precisely that conscious systems are where standard quantum evolution breaks down. The Frauchiger-Renner argument constrains which versions of consciousness-collapse are viable: any version must clearly specify where and why quantum evolution ceases to apply.
 
 **Current status:** Requires quantum memories that maintain coherence through macroscopic measurement chains. Current quantum computer coherence times (microseconds to milliseconds) are insufficient for the delay needed to separate detection from observation by a human observer.
 
@@ -127,7 +127,7 @@ If the MAQRO mission or equivalent ground-based experiments show that superposit
 
 ### 7. Born Rule Derivation as Indirect Evidence
 
-Every major attempt to [[born-rule-derivation-failures-consciousness-collapse|derive the Born rule]] from physics alone presupposes an observer, suggesting that the consciousness-physics interface may be built into measurement itself rather than being an optional add-on. While not a direct experimental test, the persistent failure to derive the Born rule without observer-dependent assumptions constitutes indirect evidence that consciousness is structurally implicated in quantum measurement.
+Unlike the six experimental predictions above, this is a theoretical observation rather than a laboratory test. Every major attempt to [[born-rule-derivation-failures-consciousness-collapse|derive the Born rule]] from physics alone presupposes an observer, suggesting that the consciousness-physics interface may be built into measurement itself rather than being an optional add-on. The persistent failure to derive the Born rule without observer-dependent assumptions constitutes indirect evidence that consciousness is structurally implicated in quantum measurement.
 
 ## Where the Landscape Stands
 
@@ -148,7 +148,7 @@ No experiment has yet confirmed or refuted consciousness-collapse specifically. 
 
 These predictions reveal a structural asymmetry in the debate. Consciousness-collapse can be *weakened* by negative results — each failed prediction narrows the viable parameter space — but decoherence-only cannot be positively confirmed in the same way. Decoherence-only is partly a negative thesis: no collapse happens beyond what decoherence explains, and no consciousness participates. Consciousness-collapse, by contrast, makes positive predictions (Q-shape-dependent rates, consciousness-dependent timing, anaesthesia-modulated dynamics) that can in principle be confirmed or disconfirmed.
 
-This asymmetry means the two positions bear different evidential burdens, related to the broader question of whether [[causal-closure|causal closure]] holds absolutely or admits exceptions. Consciousness-collapse must demonstrate specific positive effects. Decoherence-only must demonstrate the absence of anomalies across an expanding range of experimental conditions. Neither burden has been met. But the asymmetry favours consciousness-collapse as a *research programme*: it generates specific, testable predictions, while decoherence-only generates the prediction that nothing unusual will be found — a prediction that is harder to leverage for scientific progress.
+This asymmetry means the two positions bear different evidential burdens, related to the broader question of whether [[causal-closure|causal closure]] holds absolutely or admits exceptions. Consciousness-collapse must demonstrate specific positive effects. Decoherence-only must demonstrate the absence of anomalies across an expanding range of experimental conditions — a genuinely testable prediction, but one that grows stronger only incrementally as each new regime is explored. Neither burden has been met. The asymmetry gives consciousness-collapse a pragmatic advantage as a *research programme*: its specific predictions (Q-shape-dependent rates, consciousness-dependent timing) generate targeted experiments, while decoherence-only's prediction that nothing anomalous will appear is harder to leverage for directing new research.
 
 ## Relation to Site Perspective
 
