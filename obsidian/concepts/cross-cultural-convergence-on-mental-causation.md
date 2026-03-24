@@ -4,7 +4,7 @@ description: "Independent philosophical traditions across India, Africa, and the
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-07T09:38:00+00:00
+ai_modified: 2026-03-24T11:06:00+00:00
 draft: false
 topics:
   - "[[indian-philosophy-of-mind]]"
@@ -68,7 +68,7 @@ Beyond the general agreement that mind causes physical effects, the traditions c
 
 **Agency is real and irreducible.** Indian karma doctrines require genuine choice. African personhood concepts ground moral responsibility in real causal power. Western [[agent-causation]] arguments hold that persons originate actions in a way not reducible to event-causal chains. Across these traditions, the phenomenology of willing an action and seeing it happen is taken as evidentially significant, not dismissed as illusion. (Buddhist traditions complicate this picture—*anattā* denies an enduring agent while preserving moral responsibility through different metaphysics—a qualification explored in the selection bias section below.)
 
-**Contemplative investigation supports the causal role of mind.** [[contemplative-practice-as-philosophical-evidence|Contemplative traditions]] across cultures report that trained attention modifies both subjective experience and bodily states—changes in heart rate, pain perception, and emotional regulation through directed mental effort. A physicalist can accommodate these observations as neural-to-bodily causation without invoking non-physical consciousness. But the contemplative traditions themselves, across independent lineages, interpret this phenomenology as evidence that consciousness is the agent, not merely a passenger. The cross-cultural convergence on this interpretation—not just the physiological effects—is what carries evidential weight.
+**Contemplative investigation supports the causal role of mind.** [[contemplative-practice-as-philosophical-evidence|Contemplative traditions]] across cultures report that trained attention modifies both subjective experience and bodily states—changes in heart rate, pain perception, and emotional regulation through directed mental effort. A physicalist can accommodate these observations as neural-to-bodily causation without invoking non-physical consciousness. But the contemplative traditions themselves, across independent lineages, interpret this phenomenology as evidence that consciousness is the agent, not merely a passenger. The cross-cultural convergence on this interpretation—not just the physiological effects—is what carries evidential weight. Contemplative practice also represents a genuinely independent methodology: where philosophical traditions converge through conceptual argument, contemplative traditions converge through sustained first-person investigation. That two distinct methods—rational analysis and disciplined introspective training—independently support mental causation strengthens the case beyond what either method provides alone.
 
 ## Objections and Limitations
 

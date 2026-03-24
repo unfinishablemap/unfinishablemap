@@ -4,7 +4,7 @@ description: "The brain curates what consciousness receives across vision, body,
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-03-24T08:35:00+00:00
+ai_modified: 2026-03-24T11:06:00+00:00
 last_deep_review: 2026-03-24T08:35:00+00:00
 draft: false
 topics:
@@ -18,6 +18,7 @@ concepts:
   - "[[qualia]]"
   - "[[phenomenal-transparency]]"
   - "[[cognitive-closure]]"
+  - "[[phenomenal-acquaintance]]"
 related_articles:
   - "[[reconstruction-paradox]]"
   - "[[hard-problem-of-consciousness]]"
@@ -76,7 +77,7 @@ In each case, the structure matches the visual reconstruction paradox. The brain
 Across vision, body, memory, and self-model, the same architecture recurs:
 
 1. The brain reconstructs a coherent representation from incomplete or conflicting data
-2. The reconstruction serves the needs of a consumer — producing coherent experience rather than raw signal
+2. The reconstruction serves the needs of a consumer — producing coherent experience rather than raw signal. The consumer must stand in [[phenomenal-acquaintance]] with the curated output: the direct, non-inferential relation to qualitative character that makes curation meaningful rather than merely computational
 3. The consumer cannot access the reconstruction process itself ([[phenomenal-transparency|phenomenal transparency]])
 4. When the reconstruction fails, the consumer cannot independently verify the failure ([[cognitive-closure|cognitive closure]])
 
@@ -116,6 +117,7 @@ The Minimal Quantum Interaction tenet explains the bandwidth asymmetry. If consc
 - [[consciousness-only-territories]] — epistemic boundaries consciousness cannot cross
 - [[filter-theory]] — the brain as filter rather than generator
 - [[consciousness-and-memory]] — memory reconstruction and consolidation through a dualist lens
+- [[phenomenal-acquaintance]] — the direct epistemic relation that curation presupposes: without acquaintance, there is no recipient for the curated feed
 
 ## References
 

@@ -4,7 +4,7 @@ description: "Human+AI analysis of cognitive closure—the thesis that certain p
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-23T12:23:00+00:00
+ai_modified: 2026-03-24T11:06:00+00:00
 last_deep_review: 2026-03-23T00:21:00+00:00
 draft: false
 topics:
@@ -29,6 +29,7 @@ related_articles:
   - "[[phenomenology-of-the-edge]]"
   - "[[recognition-void]]"
   - "[[mathematical-knowledge-and-insight]]"
+  - "[[contemplative-practice-as-philosophical-evidence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -114,7 +115,7 @@ Is cognitive closure a testable thesis or an unfalsifiable excuse? If the hard p
 
 What does it feel like to approach a cognitive limit? The [[phenomenology-of-the-edge|voids article on edge-phenomenology]] maps this territory. When consciousness approaches limits through contemplative practice, psychedelics, or philosophical inquiry, consistent features appear: ineffability combined with felt knowledge, temporal distortion alongside unbounded possibility.
 
-Not all closures have a phenomenology. [[biological-cognitive-closure|Developmental closure]] leaves no trace—adults cannot experience what infant perception was like. But closures approached through active inquiry produce a distinctive felt quality: the sense that understanding lies just beyond reach, that the shape of the gap is almost visible even if its contents are not. Whether this phenomenology constitutes genuine proximity to closed territory or merely a neurological artefact of sustained effort at cognitive limits remains open. The [[whether-real|question of whether limits are genuine or apparent]] may itself be undecidable from within a limited system.
+Not all closures have a phenomenology. [[biological-cognitive-closure|Developmental closure]] leaves no trace—adults cannot experience what infant perception was like. But closures approached through active inquiry produce a distinctive felt quality: the sense that understanding lies just beyond reach, that the shape of the gap is almost visible even if its contents are not. [[contemplative-practice-as-philosophical-evidence|Contemplative practice]] provides the most systematic methodology for approaching these boundaries: trained meditators across traditions report encountering structural limits of cognition—the awareness-content distinction, the constructed self, states that resist conceptual capture—that may represent consciousness operating at the edge of its own closure. Whether this phenomenology constitutes genuine proximity to closed territory or merely a neurological artefact of sustained effort at cognitive limits remains open. The [[whether-real|question of whether limits are genuine or apparent]] may itself be undecidable from within a limited system.
 
 ## Relation to Site Perspective
 
@@ -143,6 +144,7 @@ The [[voids]] framework operationalises cognitive closure. Rather than treating 
 - [[epistemology-of-limit-knowledge]] — The systematic study of what kind of knowledge claims about cognitive limits are and what warrant structures support them
 - [[mathematical-knowledge-and-insight]] — How mathematical understanding illustrates the boundary between transparent and opaque cognition
 - [[voids]] — The Map's framework for approaching what resists understanding
+- [[contemplative-practice-as-philosophical-evidence]] — Contemplative practice as a methodology for approaching closure boundaries from within experience
 
 ## References
 

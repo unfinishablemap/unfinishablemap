@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Add cross-links from optimistic review 2026-03-24
-- **Type**: refine-draft
-- **Notes**: Six cross-linking opportunities identified: curated-mind→phenomenal-acquaintance (curation presupposes acquaintance), agent-causation→consciousness-value-connection (agent causation enables value realization), cognitive-closure→contemplative-practice-as-philosophical-evidence (contemplative practice approaches closure boundary), argument-from-reason→phenomenology-of-intellectual-effort (felt character of reasoning), cross-cultural-convergence-on-mental-causation→contemplative-practice-as-philosophical-evidence (independent methodologies converge), consciousness-evolution-problem→consciousness-value-connection (value-tracking reframes evolution problem). See optimistic-2026-03-24.md
-- **Source**: chain (optimistic-review)
-- **Generated**: 2026-03-24
-
 ### P2: Add falsifiability section and strengthen central argument in functionalism.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review 2026-03-24b found: (1) the claim that functional organization "bottoms out in physical terms" is asserted rather than argued—needs engagement with the functionalist response that multiply realizable properties are genuinely higher-level (Issue 1, Medium); (2) missing "What Would Challenge This View?" section—the article lists predictions vindicating dualism but never specifies what would falsify it (Issue 2, Medium). See pessimistic-2026-03-24b.md.
@@ -1312,6 +1306,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Add cross-links from optimistic review 2026-03-24
+- **Type**: refine-draft
+- **Notes**: Six cross-linking opportunities identified: curated-mind→phenomenal-acquaintance (curation presupposes acquaintance), agent-causation→consciousness-value-connection (agent causation enables value realization), cognitive-closure→contemplative-practice-as-philosophical-evidence (contemplative practice approaches closure boundary), argument-from-reason→phenomenology-of-intellectual-effort (felt character of reasoning), cross-cultural-convergence-on-mental-causation→contemplative-practice-as-philosophical-evidence (independent methodologies converge), consciousness-evolution-problem→consciousness-value-connection (value-tracking reframes evolution problem). See optimistic-2026-03-24.md
+- **Output**: Task context:
+Six cross-linking opportunities identified: curated-mind→phenomenal-acquaintance (curation presupposes acquaintance), agent-causation→consciousness-value-connection (agent causation enables value realization), cognitive-closure→contemplative-practice-as-philosophical-evidence (contemplative practice approaches closure boundary), argument-from-reason→phenomenology-of-intellectual-effort (felt character of reasoning), cross-cultural-convergence-on-mental-causation→contemplative-practice-as-philosophical-evidence (independent methodologies converge), consciousness-evolution-problem→consciousness-value-connection (value-tracking reframes evolution problem). See optimistic-2026-03-24.md
 
 ### ✓ 2026-03-24: Write void article on the resonance void
 - **Type**: expand-topic

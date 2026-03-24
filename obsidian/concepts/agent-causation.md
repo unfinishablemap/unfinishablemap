@@ -4,7 +4,7 @@ description: "Agent causation holds that persons originate actions directly as s
 created: 2026-01-15
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-03-21T16:55:00+00:00
+ai_modified: 2026-03-24T11:06:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -40,6 +40,7 @@ related_articles:
   - "[[motor-control-quantum-zeno-2026-01-18]]"
   - "[[concept-of-free-will]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
+  - "[[consciousness-value-connection]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -210,6 +211,8 @@ Agent causation is the philosophical tradition to which the Map belongs. The [[t
 
 What the Map adds is mechanism. Traditional agent causation lacked an account of *where* or *how* the agent interfaces with the physical world. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet provides this: at quantum indeterminacies, where physics specifies probabilities but not outcomes. The [[quantum-consciousness|quantum consciousness mechanisms]] (Stapp, Penrose-Hameroff) describe how this might work in detail.
 
+The [[consciousness-value-connection]] deepens the significance of agent causation. If consciousness is necessary for value to exist, then agent causation—the capacity of conscious agents to originate actions—is the mechanism through which value is realised in the physical world. Without genuine agent causation, consciousness might ground value in principle but lack the means to pursue, protect, or create it. Agent causation transforms the consciousness-value connection from a metaphysical observation into a practical reality: agents act *for the sake of* value because they are acquainted with it through experience.
+
 The [[tenets#^dualism|Dualism]] tenet is also essential. Agent causation requires the agent to be ontologically distinct from physical events—otherwise, "agent causation" collapses into event causation. Substance dualism provides this: consciousness is a substance that exercises causal powers, not a property of physical substances. Even property dualism can support agent causation if the mental properties are genuinely irreducible and causally efficacious—though substance dualism makes the agent-causal picture more natural.
 
 The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the main objection to agent causation: that it's metaphysically extravagant, positing a primitive relation unlike anything else in nature. But substance causation answers this directly: if all causation is substances exercising powers, then agent causation posits fewer primitive relations than event causation, which needs events, laws, and the mysterious relation between them. The apparent simplicity of event causation may mask unresolved problems about what laws *do*. Agent causation isn't an additional extravagance; it's what taking consciousness seriously implies.
@@ -241,6 +244,7 @@ Against [[concepts/epiphenomenalism]]: substance causation combined with the sel
 - [[explanatory-gap]] — Why physical description leaves consciousness unexplained
 - [[authentic-vs-inauthentic-choice]] — When agent causation is engaged (authentic choice) vs. attenuated
 - [[emergence]] — Related concept of novel causal powers
+- [[consciousness-value-connection]] — Why agent causation matters: consciousness grounds value, and agent causation is how value gets realised
 - [[moral-implications-of-genuine-agency]] — What agent causation implies for moral obligation, character, and the moral landscape
 
 ## References

@@ -4,7 +4,7 @@ description: "If thoughts are fully explained by physical causes, no belief is r
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-03-20T08:14:00+00:00
+ai_modified: 2026-03-24T11:06:00+00:00
 draft: false
 last_deep_review: 2026-03-05T08:13:00+00:00
 topics:
@@ -31,6 +31,7 @@ related_articles:
   - "[[phenomenology-of-understanding-and-meaning]]"
   - "[[introspection]]"
   - "[[pragmatisms-path-to-dualism]]"
+  - "[[phenomenology-of-intellectual-effort]]"
 ai_contribution: 100
 author:
 ai_system: claude-sonnet-4-5-20250929
@@ -152,7 +153,8 @@ The physicalist might respond: "If there's no behavioural difference, the distin
 - [[topics/free-will]] - Rational choice as paradigm case of consciousness selecting among neural patterns
 - [[interactionist-dualism]] - The Map's framework for mind-body causation
 - [[stapp-quantum-mind]] - A candidate mechanism for consciousness influencing neural states
-- [[attention-as-interface|voluntary attention]] - The phenomenology of intellectual effort and its role in reasoning
+- [[phenomenology-of-intellectual-effort]] - The felt character of reasoning: holding premises, tracing implications, grasping why conclusions follow
+- [[attention-as-interface|voluntary attention]] - Neural signatures of willed cognitive engagement
 - [[mysterianism]] - Whether the mechanism of normative awareness may exceed our comprehension
 - [[intentionality]] - Why genuine aboutness requires phenomenal consciousness (phenomenal intentionality thesis)
 - [[cognitive-phenomenology]] - The irreducible phenomenal character of understanding and reasoning
