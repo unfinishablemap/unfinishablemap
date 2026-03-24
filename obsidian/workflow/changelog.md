@@ -5,6 +5,12 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 12:05 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/compound-failure-signatures]]
+- **Changes**: Qualified Spagna et al. superadditivity extrapolation (neural evidence now motivates hypothesis rather than establishing it); addressed emergent occlusion unfalsifiability with inline caveats and new falsifiability condition; added Dunbar (1998) citation for fifth-order intentionality; fixed two flagged language patterns
+- **Published**: yes
+
 ## 2026-03-24 11:51 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/embodied-cognition]]

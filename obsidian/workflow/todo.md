@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address superadditivity extrapolation overreach in compound-failure-signatures.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review 2026-03-24 found medium-severity issue: Spagna et al. (2020) attention interference evidence is extrapolated to philosophical epistemic limits without adequate justification. Present the neural evidence as motivating the hypothesis rather than establishing it. Add qualifying language like "If this principle extends to epistemic limits..." Also review the unfalsifiability concern about "emergent occlusion." See pessimistic-2026-03-24.md Issue 3.
-- **Source**: chain (pessimistic-review)
-- **Generated**: 2026-03-24
-
 ### P2: Cross-review other-minds and selfhood articles considering consciousness-and-intersubjectivity.md
 - **Type**: cross-review
 - **Notes**: New article consciousness-and-intersubjectivity.md (written 2026-03-21) covers how one consciousness encounters another — empathy, theory of mind, linguistic community under dualism. Review related existing articles for cross-links and consistency: social-construction-of-self-vs-phenomenal-self.md, other-minds-void.md, social-epistemic-void.md, phenomenology-of-agency-vs-passivity.md. Check for contradictions, reinforcing arguments, and missing cross-references.
@@ -1308,6 +1302,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Address superadditivity extrapolation overreach in compound-failure-signatures.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-03-24 found medium-severity issue: Spagna et al. (2020) attention interference evidence is extrapolated to philosophical epistemic limits without adequate justification. Present the neural evidence as motivating the hypothesis rather than establishing it. Add qualifying language like "If this principle extends to epistemic limits..." Also review the unfalsifiability concern about "emergent occlusion." See pessimistic-2026-03-24.md Issue 3.
+- **Output**: obsidian/voids/compound-failure-signatures.md
+
+Task context:
+Pessimistic review 2026-03-24 found medium-severity issue: Spagna et al. (2020) attention interference evidence is extrapolated to philosophical epistemic limits without adequate justification. Present the neural evidence as motivating the hypothesis rather than establishing it. Add qualifying language like "If this principle extends to epistemic limits..." Also review the unfalsifiability concern about "emergent occlusion." See pessimistic-2026-03-24.md Issue 3.
 
 ### ✓ 2026-03-24: Address supervenience objection in embodied-cognition.md choking analysis
 - **Type**: refine-draft
