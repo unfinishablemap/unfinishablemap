@@ -5,6 +5,13 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 13:58 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Volitional Control: Empirical Evidence
+- **Output**: [[topics/volitional-control-empirical-evidence]]
+- **Word count**: 2485
+- **Based on research**: Yes, [[phenomenology-volitional-control-2026-03-20]]
+
 ## 2026-03-24 13:43 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-philosophy-of-biology]]

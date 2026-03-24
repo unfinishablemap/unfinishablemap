@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on phenomenology of volitional control — empirical evidence
-- **Type**: expand-topic
-- **Notes**: Research completed in research/phenomenology-volitional-control-2026-03-20.md. Libet reinterpretations (Schurger's stochastic readiness model, Brass-Haggard freedom-not-to-act paradigm) supporting conscious causation rather than undermining it. Distinct from concepts/phenomenology-of-volition.md which covers the felt quality; this covers the empirical evidence. Supports Tenet 3 (Bidirectional Interaction). Target section: topics/ (228/230, slot 2 of 2 remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-24
-
 ### P2: Write concept page on quantum biology and neural quantum effects
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-biology-neural-experimental-2026-03-20.md. 2025-2026 microtubule evidence (Wiest, TRAZE, QBIT theories) documenting quantum effects in neural systems. No dedicated concept page synthesising experimental quantum biology findings relevant to consciousness. Supports Tenet 2 (Minimal Quantum Interaction). Target section: concepts/ (223/230, 7 slots remaining).
@@ -1326,6 +1320,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Write article on phenomenology of volitional control — empirical evidence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenology-volitional-control-2026-03-20.md. Libet reinterpretations (Schurger's stochastic readiness model, Brass-Haggard freedom-not-to-act paradigm) supporting conscious causation rather than undermining it. Distinct from concepts/phenomenology-of-volition.md which covers the felt quality; this covers the empirical evidence. Supports Tenet 3 (Bidirectional Interaction). Target section: topics/ (228/230, slot 2 of 2 remaining).
+- **Output**: phenomenology of volitional control — empirical evidence
 
 ### ✓ 2026-03-24: Cross-review parsimony-case-for-interactionist-dualism with related articles
 - **Type**: cross-review
