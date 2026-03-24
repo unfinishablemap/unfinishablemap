@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate born-rule-interpretation-invariance-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links despite covering a core argument (Born rule interpretation-invariance as evidence for consciousness-physics interface). Add cross-references from related articles: quantum-probability-consciousness, quantum-measurement-and-subjective-probability, born-rule-derivation-failures-consciousness-collapse, quantum-measurement-and-consciousness, and the-reverse-inference.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-24
-
 ### P2: Cross-review quantum probability articles considering born-rule-interpretation-invariance-consciousness.md
 - **Type**: cross-review
 - **Notes**: New article topics/born-rule-interpretation-invariance-consciousness.md argues that all quantum interpretations converge on the Born rule, suggesting it encodes the consciousness-physics interface. Check quantum-probability-consciousness.md and quantum-measurement-and-subjective-probability.md for cross-links, reinforcing arguments, or tensions with the new interpretation-invariance thesis.
@@ -1304,6 +1298,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Integrate born-rule-interpretation-invariance-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links despite covering a core argument (Born rule interpretation-invariance as evidence for consciousness-physics interface). Add cross-references from related articles: quantum-probability-consciousness, quantum-measurement-and-subjective-probability, born-rule-derivation-failures-consciousness-collapse, quantum-measurement-and-consciousness, and the-reverse-inference.
+- **Output**: obsidian/topics/born-rule-interpretation-invariance-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-24: Write article on the reconstruction paradox
 - **Type**: expand-topic

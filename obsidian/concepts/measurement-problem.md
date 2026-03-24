@@ -216,7 +216,7 @@ The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] te
 
 The measurement problem focuses on *why* definite outcomes occur, but there's a prior question: what do quantum probabilities *mean*?
 
-The Born rule—squared amplitude gives measurement probabilities—is postulated, not derived. Interpretations (objective propensities, QBism's subjective beliefs, MWI's branch weights) each leave something unexplained. A [[quantum-measurement-and-subjective-probability|phenomenological test]] distinguishes them: can Born probabilities be defined without presupposing conscious experiences? Objective propensities can; QBism's credences cannot—they are defined over what agents will *experience*, making consciousness load-bearing in the formalism itself.
+The Born rule—squared amplitude gives measurement probabilities—is postulated, not derived. Interpretations (objective propensities, QBism's subjective beliefs, MWI's branch weights) each leave something unexplained. The [[born-rule-interpretation-invariance-consciousness|interpretation-invariance of the Born rule]] across all major frameworks—hidden-variable, collapse, retrocausal, categorical—suggests this is not a technical gap but a structural feature of the consciousness-physics boundary. A [[quantum-measurement-and-subjective-probability|phenomenological test]] distinguishes them: can Born probabilities be defined without presupposing conscious experiences? Objective propensities can; QBism's credences cannot—they are defined over what agents will *experience*, making consciousness load-bearing in the formalism itself.
 
 The Unfinishable Map proposes a different view: [[quantum-probability-consciousness|Born probabilities describe the objective structure of the interface]] where consciousness meets quantum indeterminacy—neither purely subjective beliefs nor features of physics independent of consciousness. If this is right, both the measurement problem (why definite outcomes?) and the hard problem (why first-person experience?) are faces of the same puzzle: what happens where consciousness meets physical possibility. The [[what-consciousness-tells-us-about-physics|reverse inference]]—asking what consciousness, taken as datum, reveals about physics—develops this further: if consciousness selects, the measurement problem is a [[physics-as-disclosure|*disclosure*]] of physics' boundary rather than a deficiency, and the Born rule is an interface specification.
 
@@ -230,6 +230,7 @@ The measurement problem is central to the Map's framework. It provides the *perm
 - [[indexical-identity-quantum-measurement]] — The indexical gap all interpretations leave untreated
 - [[quantum-measurement-and-subjective-probability]] — QBism's structural dependence on consciousness
 - [[quantum-probability-consciousness]] — Born probabilities as interface structure
+- [[born-rule-interpretation-invariance-consciousness]] — Why the Born rule resists derivation across all quantum interpretations
 - [[concepts/many-worlds]] — Arguments against MWI
 - [[quantum-consciousness]] — Mechanisms for mind-matter interaction
 - [[coupling-modes]] — Basis, timing, and probability control: how consciousness couples to physics

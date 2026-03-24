@@ -4,7 +4,7 @@ description: "The Born rule resists elimination across every quantum interpretat
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-03-24T03:15:00+00:00
+ai_modified: 2026-03-24T03:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-24
 last_curated:
-last_deep_review: 2026-03-24T03:15:00+00:00
+last_deep_review: 2026-03-24T03:57:00+00:00
 ---
 
 The Born rule — quantum mechanics' prescription that measurement probabilities equal |ψ|² — is the one feature every quantum interpretation shares and none can eliminate. The Unfinishable Map's [[born-rule-derivation-failures-consciousness-collapse|companion article]] examines how six standard derivation strategies each smuggle in probabilistic assumptions or presuppose an observer. This article extends that analysis across the full landscape of quantum interpretations: hidden-variable theories, objective-collapse models, retrocausal frameworks, categorical approaches, and gravitational-collapse proposals. The pattern holds universally. No interpretation derives the Born rule from more basic principles without importing probabilistic or observer-dependent structure. Combined with Torres Alegre's 2025 proof that the Born rule is the *unique* probability assignment compatible with relativistic causality, this interpretation-invariance suggests the rule encodes the consciousness-physics interface — a constraint on how experience encounters indeterminacy that no purely physical framework can generate from within.
