@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review agency and volition articles considering volitional-control empirical evidence
-- **Type**: cross-review
-- **Notes**: New article topics/volitional-control.md (2026-03-24) covers empirical evidence for volitional control (Schurger stochastic readiness, Brass-Haggard freedom-not-to-act). Review phenomenology-of-choice-and-volition.md for consistency with empirical claims, free-will.md for cross-links to Libet reinterpretations, and phenomenology-of-agency-vs-passivity.md for reinforcing arguments about conscious causation.
-- **Source**: chain (from volitional-control expand-topic)
-- **Generated**: 2026-03-24
-
 ### P2: Cross-review quantum consciousness articles considering quantum-biology concept page
 - **Type**: cross-review
 - **Notes**: New concept page concepts/quantum-biology.md (2026-03-24) synthesises 2025-2026 microtubule evidence (Wiest, TRAZE, QBIT). Review comparing-quantum-consciousness-mechanisms.md for cross-links to new experimental findings, consciousness-selecting-neural-patterns.md for consistency with microtubule coherence claims, and consciousness-collapse-experimental-landscape.md for updated experimental status.
@@ -1332,6 +1326,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Cross-review agency and volition articles considering volitional-control empirical evidence
+- **Type**: cross-review
+- **Notes**: New article topics/volitional-control.md (2026-03-24) covers empirical evidence for volitional control (Schurger stochastic readiness, Brass-Haggard freedom-not-to-act). Review phenomenology-of-choice-and-volition.md for consistency with empirical claims, free-will.md for cross-links to Libet reinterpretations, and phenomenology-of-agency-vs-passivity.md for reinforcing arguments about conscious causation.
+- **Output**: None -- Context: Cross-review agency and volition articles considering volitional-control empirical evidence
 
 ### ✓ 2026-03-24: Update references to coalesced cognitive-closure article
 - **Type**: cross-review

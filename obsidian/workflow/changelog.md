@@ -5,6 +5,16 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 15:49 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-agency-vs-passivity]]
+- **Word count**: 2533 → 2711 (+178)
+- **Critical issues addressed**: 1 (broken wikilink from coalescence)
+- **Medium issues addressed**: 2 (intentional binding evidence, neuroplasticity grounding)
+- **Enhancements made**: 3 (intentional binding paragraph, Schwartz effort evidence, updated Further Reading)
+- **Output**: [[reviews/deep-review-2026-03-24-phenomenology-of-agency-vs-passivity]]
+- **Context**: Cross-review integrating volitional-control empirical evidence
+
 ## 2026-03-24 15:39 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/dopamine-and-the-unified-interface]]
