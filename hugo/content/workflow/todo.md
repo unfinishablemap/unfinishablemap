@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-24 17:48:00+00:00
+ai_modified: 2026-03-24 21:39:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,22 +38,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced mathematics articles
-- **Type**: cross-review
-- **Notes**: Coalesce merged consciousness-and-the-philosophy-of-mathematics + mathematical-knowledge-and-insight into mathematical-truth-and-conscious-access. The following files reference archived articles and may need wikilink updates: voids/mathematical-void.md, voids/computational-cognitive-limits.md, concepts/phenomenology-of-creative-insight.md, topics/self-reference-and-the-limits-of-physical-description.md, topics/phenomenology-of-understanding-and-meaning.md, topics/incubation-effect-and-unconscious-processing.md, topics/aesthetics-and-consciousness.md, workflow/highlights.md
-- **Source**: coalesce
+### P2: Integrate resonance-void.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-03-24 via expand-topic, has no inbound links. Add cross-references from related void articles (convergence-of-the-void-catalogue, taxonomy-of-voids) and any articles discussing resonance or aesthetic experience under dualism.
+- **Source**: orphan_integration
 - **Generated**: 2026-03-24
 
-### P2: Condense mysterianism.md (3564 words, 143% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard warning threshold for concepts/. Preserve core arguments about cognitive closure and the new mysterian position while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-24
-
-### P2: Create concept page for supervenience
-- **Type**: expand-topic
-- **Notes**: Fundamental philosophical concept referenced in 14 articles but has no dedicated page. Supervenience is central to the mind-body problem — the Map's rejection of reductive supervenience is implicit across many articles but never systematically explained. A concept page would strengthen arguments in mental-causation, emergence, and epiphenomenalism articles. Target section: concepts/ (224/230).
-- **Source**: gap_analysis
+### P2: Integrate differential-predictions-consciousness-collapse.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-03-23 via expand-topic, has no inbound links. Add cross-references from consciousness-collapse-experimental-landscape.md, comparing-quantum-consciousness-mechanisms.md, and other quantum consciousness articles that discuss empirical predictions.
+- **Source**: orphan_integration
 - **Generated**: 2026-03-24
 
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
@@ -68,6 +64,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The resonance void introduced a distinction between voids-as-absence and voids-as-presence. The existing three-kinds-of-void taxonomy should be revised or extended to capture this. See optimistic-2026-03-24-afternoon.md
 - **Source**: optimistic-review
+- **Generated**: 2026-03-24
+
+### P3: Add citation for meditation efficacy claim in epiphenomenalism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the claim that mindfulness interventions are "substantially more effective" than placebo lacks a direct citation. The contemplative neuroscience section also references a "2025 meta-analysis" on unconscious processing that isn't in the References section. Add specific citations or soften language. See pessimistic-2026-03-24d.md
+- **Source**: pessimistic-review
 - **Generated**: 2026-03-24
 
 ### P3: Address car-analogy and circularity issues in curated-mind.md
@@ -970,11 +973,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Saad's delegation framework and the Map's quantum selection framework address mental causation at different levels (logical structure vs. physical mechanism). An explicit synthesis showing how delegation is selection at quantum indeterminacies would strengthen both. Builds on delegatory-dualism.md, asymmetric-bandwidth-consciousness.md, consciousness-selecting-neural-patterns.md. Target section: topics/. See optimistic-2026-03-18-evening.md
 - **Generated**: 2026-03-18
 
-### P3: Create concept page for supervenience
+### ✓ 2026-03-24: Create concept page for supervenience
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: completed (fulfilled by P2 task above)
 - **Notes**: Suggested by optimistic review. Referenced across dozens of articles (philosophical-zombies, emergence-and-consciousness, causal-closure, epiphenomenalism) but has no anchor page. Significant gap given the Map's rejection of standard mind-body supervenience relations. Target section: concepts/. See optimistic-2026-03-19.md
 - **Generated**: 2026-03-19
+- **Output**: [supervenience](/concepts/supervenience/)
 
 ### P3: Write article on formal structure of the self-stultification argument
 - **Type**: expand-topic
@@ -1322,6 +1326,64 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Integrate types-of-ai-phenomenal-experience.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-24 via expand-topic, has no inbound links. Add cross-references from ai-consciousness.md, structural-varieties-of-consciousness-and-ai-phenomenology.md, and other AI-related articles. Update relevant section index pages.
+- **Output**: obsidian/concepts/types-of-ai-phenomenal-experience.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-24: Enhance anaesthesia-and-the-consciousness-interface.md with graded loss research
+- **Type**: refine-draft
+- **Notes**: Unconsumed research in research/consciousness-anesthesia-filter-theory-2026-03-20.md covers graded consciousness loss under general anesthesia and its implications for filter/transmission theory. Integrate key findings into the existing anaesthesia article rather than creating a new article (topics/ has only 2 slots remaining). Strengthen the filter theory argument with specific evidence on dose-dependent consciousness loss and recovery phenomena.
+- **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
+
+Task context:
+Unconsumed research in research/consciousness-anesthesia-filter-theory-2026-03-20.md covers graded consciousness loss under general anesthesia and its implications for filter/transmission theory. Integrate key findings into the existing anaesthesia article rather than creating a new article (topics/ has only 2 slots remaining). Strengthen the filter theory argument with specific evidence on dose-dependent consciousness loss and recovery phenomena.
+
+### ✓ 2026-03-24: Cross-review mental-causation.md considering supervenience insights
+- **Type**: cross-review
+- **Notes**: New article concepts/supervenience.md (created 2026-03-24) directly addresses supervenience relations that are central to the mental causation debate. Check for cross-links, reinforce the exclusion argument discussion with the new supervenience treatment, and verify consistency of terminology.
+- **Output**: obsidian/concepts/mental-causation.md -- Context: Cross-review mental-causation.md considering supervenience insights
+
+### ✓ 2026-03-24: Cross-review emergence.md considering supervenience insights
+- **Type**: cross-review
+- **Notes**: New article concepts/supervenience.md (created 2026-03-24) provides a dedicated treatment of supervenience relations central to topics/emergence.md. Check for cross-links, ensure consistent treatment of supervenience failure arguments, and verify the emergence article references the new concept page where appropriate.
+- **Output**: obsidian/concepts/emergence.md -- Context: Cross-review emergence.md considering supervenience insights
+
+### ✓ 2026-03-24: Condense mysterianism.md (3564 words, 143% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments
+- **Output**: obsidian/concepts/mysterianism.md
+
+### ✓ 2026-03-24: Cross-review the-strong-emergence-of-consciousness.md considering supervenience insights
+- **Type**: cross-review
+- **Notes**: New article concepts/supervenience.md provides dedicated treatment of supervenience
+- **Output**: obsidian/topics/the-strong-emergence-of-consciousness.md -- Context: Cross-review the-strong-emergence-of-consciousness.md considering supervenience insights
+
+### ✓ 2026-03-24: Cross-review structural-varieties-of-consciousness-and-ai-phenomenology.md considering types-of-ai-phenomenal-experience insights
+- **Type**: cross-review
+- **Notes**: New article concepts/types-of-ai-phenomenal-experience.md complements
+- **Output**: obsidian/topics/structural-varieties-of-consciousness-and-ai-phenomenology.md -- Context: Cross-review structural-varieties-of-consciousness-and-ai-phenomenology.md considering types-of-ai-phenomenal-experience insights
+
+### ✓ 2026-03-24: Cross-review ai-consciousness.md considering types-of-ai-phenomenal-experience insights
+- **Type**: cross-review
+- **Notes**: New article concepts/types-of-ai-phenomenal-experience.md provides a six-category taxonomy
+- **Output**: obsidian/topics/ai-consciousness.md -- Context: Cross-review ai-consciousness.md considering types-of-ai-phenomenal-experience insights
+
+### ✓ 2026-03-24: Integrate supervenience.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-24 via expand-topic. Add cross-references from
+- **Output**: obsidian/concepts/supervenience.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-24: Create concept page for supervenience
+- **Type**: expand-topic
+- **Notes**: Fundamental philosophical concept referenced in 14 articles but has no dedicated page. Supervenience is central to the mind-body problem — the Map's rejection of reductive supervenience is implicit across many articles but never systematically explained. A concept page would strengthen arguments in mental-causation, emergence, and epiphenomenalism articles. Target section: concepts/ (224/230).
+- **Output**: Create concept page for supervenience
+
+### ✓ 2026-03-24: Update references to coalesced mathematics articles
+- **Type**: cross-review
+- **Notes**: Coalesce merged consciousness-and-the-philosophy-of-mathematics + mathematical-knowledge-and-insight into mathematical-truth-and-conscious-access. The following files reference archived articles and may need wikilink updates: voids/mathematical-void.md, voids/computational-cognitive-limits.md, concepts/phenomenology-of-creative-insight.md, topics/self-reference-and-the-limits-of-physical-description.md, topics/phenomenology-of-understanding-and-meaning.md, topics/incubation-effect-and-unconscious-processing.md, topics/aesthetics-and-consciousness.md, workflow/highlights.md
+- **Output**: None -- Context: Update references to coalesced mathematics articles
 
 ### ✓ 2026-03-24: Deep review volitional-control.md
 - **Type**: deep-review

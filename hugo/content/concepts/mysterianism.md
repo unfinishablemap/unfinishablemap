@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-24 13:01:00+00:00
+ai_modified: 2026-03-24 21:24:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -63,27 +63,17 @@ This position occupies important middle ground. Unlike eliminativism, mysteriani
 
 ## Cognitive Closure
 
-McGinn's key concept is *cognitive closure*. His 1989 definition has three components:
+McGinn's key concept is *cognitive closure*. A type of mind M is cognitively closed with respect to a property P if M's concept-forming procedures cannot extend to a grasp of P. The property exists; M simply cannot conceive it. The distinction is between *domain inaccessibility* and *problem difficulty*—a rat cannot grasp calculus regardless of training time, not because calculus is hard but because the relevant conceptual apparatus is missing from rat cognitive architecture.
 
-1. **A type of mind M** — not individual minds but cognitive architectures. Human minds form one type; bat minds another. Closure is architecture-specific.
-2. **Concept-forming procedures** — the methods by which minds acquire and construct concepts. Humans form concepts through perception, introspection, inference, abstraction. Whatever procedures we use, they define our conceptual reach.
-3. **A property P** — some real feature of the world. Cognitive closure does not deny the property exists; it claims the property lies outside what M's procedures can grasp.
+McGinn argues that the property linking consciousness to brain is closed to humans because of how we access each side. **Consciousness** is accessed through [introspection](/concepts/introspection/), which reveals nothing about neural mechanisms. **The brain** is accessed through perception and scientific investigation, which reveal nothing about why neural activity should feel like anything. Neither mode reveals the *connection*. This asymmetric access shapes how [cognitive science studies consciousness](/topics/cognitive-science-of-dualism/): third-person methods capture neural correlates while depending on first-person report to know what those correlates are correlates *of*.
 
-A type of mind M is cognitively closed with respect to a property P if M's concept-forming procedures cannot extend to a grasp of P. The property exists; M simply cannot conceive it. The distinction is between *domain inaccessibility* and *problem difficulty*—a rat cannot grasp calculus regardless of training time, not because calculus is hard but because the relevant conceptual apparatus is missing from rat cognitive architecture.
-
-McGinn argues that property P—the property linking consciousness to brain—is closed to humans because of how we access each side. **Consciousness** is accessed through introspection: we look inward and encounter experiences directly, but introspection reveals nothing about neural mechanisms. **The brain** is accessed through perception and scientific investigation: we observe neural activity and map synaptic connections, but perception reveals nothing about why this activity should feel like anything. Neither mode of access reveals the *connection* between the two. This asymmetric access shapes how [cognitive science studies consciousness](/topics/cognitive-science-of-dualism/): the field's third-person methods capture neural correlates while depending on first-person report to know what those correlates are correlates *of*.
-
-McGinn calls his position "transcendental naturalism": the solution is natural (no supernatural entities required) but transcends our cognitive capacities. Property P is presumably simple and elegant—we just cannot form the concept. Whether this assumption can even be tested is itself a [prior question](/voids/meta-epistemology-of-limits/) the voids framework explores.
+McGinn calls this "transcendental naturalism": the solution is natural but transcends our cognitive capacities. Property P is presumably simple and elegant—we just cannot form the concept. Whether this assumption can even be tested is itself a [prior question](/voids/meta-epistemology-of-limits/) the voids framework explores.
 
 ## Cognitive Closure Versus Causal Closure
 
-Cognitive closure is easily confused with [causal closure of the physical](/concepts/causal-closure/), but the two concepts are independent. Causal closure is an ontological thesis: every physical event that has a cause has a sufficient physical cause. Cognitive closure is an epistemic thesis: certain properties lie permanently beyond a given mind's conceptual reach.
+Cognitive closure is easily confused with [causal closure of the physical](/concepts/causal-closure/), but the two are independent. Causal closure is an ontological thesis (every physical event has a sufficient physical cause); cognitive closure is an epistemic thesis (certain properties lie permanently beyond a given mind's conceptual reach). A third concept—[observational-closure](/concepts/observational-closure/)—concerns what we can *measure*: no detectable violations of physical causal completeness, even if mental causation is real. If consciousness operates through mechanisms that are both cognitively opaque and observationally invisible, the mind-body problem resists both theoretical solution and empirical resolution.
 
-They may interact—if the consciousness-physics interface involves properties we are cognitively closed to, we might be unable to formulate tests detecting violations of causal closure. But they are logically independent: either could hold without the other.
-
-A third related concept—[observational-closure](/concepts/observational-closure/)—adds a further dimension. Observational closure holds that no *detectable* violations of physical causal completeness exist, even if mental causation is real. Where cognitive closure concerns what we can *conceive*, observational closure concerns what we can *measure*. The two may compound: if consciousness operates through mechanisms that are both cognitively opaque and observationally invisible, the mind-body problem resists both theoretical solution and empirical resolution simultaneously.
-
-Crucially, cognitive closure is self-concealing. [Inventory blindness](/concepts/inventory-blindness/)—the condition in which absent cognitive capabilities produce no signal—ensures that a closed mind experiences its conceptual repertoire as complete rather than restricted. The rat does not feel the absence of calculus; the absence simply does not register. If humans are cognitively closed with respect to the consciousness-physics link, we should expect the closure to be invisible from the inside, which is exactly what we observe.
+Crucially, cognitive closure is self-concealing. [Inventory blindness](/concepts/inventory-blindness/) ensures that a closed mind experiences its conceptual repertoire as complete rather than restricted. The rat does not feel the absence of calculus. If humans are cognitively closed with respect to the consciousness-physics link, we should expect the closure to be invisible from the inside—which is exactly what we observe.
 
 ## Developmental Cognitive Closure
 
@@ -93,9 +83,7 @@ This enriches the concept: cognitive closure is not only species-wide and fixed 
 
 ## Nagel's Bat
 
-Thomas Nagel anticipated mysterianism in his 1974 paper "What Is It Like to Be a Bat?" Understanding bat consciousness would require grasping what echolocation is *like* from the inside—but we cannot. Imagining hanging upside down or navigating by sound gives us *our* experiences wearing bat costumes.
-
-Nagel's broader point: objective scientific methods cannot capture subjective experience without loss. Understanding consciousness objectively requires abstracting away from viewpoints—but viewpoints are precisely what we're trying to understand. The gap is structural, not merely current ignorance. If we cannot grasp what it is like to be a bat—a creature on our own planet—the [mind-space-void](/voids/mind-space-void/) looms: we occupy a single point in the space of possible minds with no way to survey the landscape or even determine whether our form of consciousness is typical or exotic.
+Thomas Nagel anticipated mysterianism in "What Is It Like to Be a Bat?" (1974): objective scientific methods cannot capture subjective experience without loss, because understanding consciousness objectively requires abstracting away from viewpoints—but viewpoints are precisely what we're trying to understand. The gap is structural, not merely current ignorance.
 
 ## Simple Minds and Complete Knowledge
 
@@ -105,35 +93,27 @@ If complete description doesn't reveal consciousness in a 302-neuron organism, w
 
 ## Problems Versus Mysteries
 
-Noam Chomsky distinguished "problems" (difficulties within our cognitive capacities) from "mysteries" (beyond cognitive reach, like calculus for dogs). We're biological organisms with specific cognitive architectures—some questions may fall outside what that architecture can handle.
-
-Consciousness might be such a mystery. The [explanatory-gap](/concepts/explanatory-gap/) persists despite centuries of effort—perhaps not because we haven't tried hard enough, but because trying harder won't help. The [origin question](/voids/origin-of-consciousness/)—why consciousness exists at all—is a prior mystery that cognitive closure may explain. Research on [biological-cognitive-closure](/voids/biological-cognitive-closure/) shows that certain limits appear universally across isolated cultures, suggesting species-level constraints rather than cultural artifacts. These limits extend to collectives: [paradigm blindness](/voids/collective-cognitive-limits/) shows that scientific communities share blind spots no individual could transcend from within, yet centuries of collective inquiry have not closed the explanatory gap.
+Noam Chomsky distinguished "problems" (within our cognitive capacities) from "mysteries" (beyond cognitive reach). Consciousness might be such a mystery—the [explanatory-gap](/concepts/explanatory-gap/) persists despite centuries of effort, perhaps not because we haven't tried hard enough but because trying harder won't help. The [origin question](/voids/origin-of-consciousness/)—why consciousness exists at all—is a prior mystery that cognitive closure may explain. Research on [biological-cognitive-closure](/voids/biological-cognitive-closure/) shows that certain limits appear universally across isolated cultures, suggesting species-level constraints. These extend to collectives: [paradigm blindness](/voids/collective-cognitive-limits/) shows that scientific communities share blind spots no individual could transcend from within.
 
 ## Concept Nativism and Cognitive Closure
 
-Jerry Fodor's [radical concept nativism](/voids/biological-cognitive-closure/) complements McGinn: while McGinn argues we cannot *conceive* certain properties, Fodor argues we cannot *acquire* certain concepts at all. Learning requires already possessing the concept to formulate hypotheses—if it isn't built in, experience cannot produce it.
-
-McGinn's "property P" may be closed because we lack the primitive concepts required to build toward it. This convergence—Fodor on acquisition, McGinn on conception, Rescher's "agnoseology" on unknowability—suggests any mind powerful enough to think some thoughts is thereby prevented from thinking others.
+Jerry Fodor's [radical concept nativism](/voids/biological-cognitive-closure/) complements McGinn: learning requires already possessing a concept to formulate hypotheses—if it isn't built in, experience cannot produce it. McGinn's "property P" may be closed because we lack the primitive concepts required to build toward it. This convergence—Fodor on acquisition, McGinn on conception, Rescher's "agnoseology" on unknowability—suggests any mind powerful enough to think some thoughts is thereby prevented from thinking others.
 
 ## The Intrinsic Nature Connection
 
-What might McGinn's property "P" actually be? A compelling answer emerges from the [intrinsic nature void](/voids/intrinsic-nature-void/): physics describes what matter *does*—its relational, dispositional properties—but not what matter *is* in itself. Bertrand Russell and Arthur Eddington observed in the 1920s that physical science provides complete structural description while leaving intrinsic nature entirely dark.
+What might McGinn's property "P" actually be? A compelling answer emerges from the [intrinsic nature void](/voids/intrinsic-nature-void/): physics describes what matter *does*—relational, dispositional properties—but not what matter *is* in itself (Russell and Eddington, 1920s).
 
-Property P may be the intrinsic categorical nature of matter—whatever underlies the relations physics describes. If so, cognitive closure isn't accidental; it reflects a structural feature of scientific method. We cannot form concepts of intrinsic nature because our concept-forming procedures work through relational description. Consciousness may be our only window into intrinsic nature—we know what experience *is* from the inside, not merely how it relates to other things. This asymmetry explains why the hard problem persists: structural description cannot, in principle, reveal what it structurally cannot access.
+Property P may be the intrinsic categorical nature of matter. If so, cognitive closure reflects a structural feature of scientific method: our concept-forming procedures work through relational description and cannot, in principle, reach intrinsic nature. Consciousness may be our only window into intrinsic nature—we know what experience *is* from the inside, not merely how it relates to other things.
 
 ## Mathematical Understanding and Cognitive Closure
 
-[Mathematical understanding](/topics/consciousness-and-mathematical-cognition/) provides evidence for cognitive limits. Roger Penrose argued that mathematicians recognise truths that no formal system can prove—we can see that the Gödel sentence G is true, even though the system containing G cannot derive it.
-
-Two distinct types of limits converge here. [Computational limits](/voids/computational-cognitive-limits/)—Gödel's incompleteness, the halting problem, Chaitin's constant—are *mathematically proven* and constrain any algorithmic process. McGinn's cognitive closure is a *hypothesis* about human biology: evolution shaped minds for survival, not for solving every problem. If human cognition is computational, both limits apply; if consciousness transcends computation (as Penrose suggests), we might escape formal limits while remaining subject to biological ones—or vice versa. Category-theoretic work identifies these incompleteness results and quantum measurement limitations as instances of the [same self-referential obstruction](/topics/self-reference-and-the-limits-of-physical-description/)—suggesting that cognitive closure in mathematics and the measurement problem share a common formal root. Both point toward the same conclusion: not all truths are accessible to all minds.
-
-The [mathematical void](/voids/mathematical-void/) illustrates this in practice: we prove theorems about transfinite cardinals while lacking phenomenal access to what "different sizes of infinity" means—not inability to compute, but inability to *understand*.
+[Mathematical understanding](/topics/consciousness-and-mathematical-cognition/) provides evidence for cognitive limits. [Computational limits](/voids/computational-cognitive-limits/)—Gödel's incompleteness, the halting problem—are *mathematically proven* and constrain any algorithmic process. McGinn's cognitive closure is a *hypothesis* about human biology. If human cognition is computational, both limits apply; if consciousness transcends computation (as Penrose suggests), we might escape formal limits while remaining subject to biological ones. Category-theoretic work identifies these incompleteness results and quantum measurement limitations as instances of the [same self-referential obstruction](/topics/self-reference-and-the-limits-of-physical-description/), suggesting cognitive closure in mathematics and the measurement problem share a common formal root.
 
 ## The Phenomenology of Cognitive Closure
 
-What does it feel like to approach a cognitive limit? The [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) provides a diagnostic framework: different limits produce different felt qualities, from frustration (architectural limits) through satisfaction (adaptive limits) to illusory comprehension (the deepest adaptive constraints). The [voids article on edge-phenomenology](/voids/phenomenology-of-the-edge/) maps this territory at the experiential level. When consciousness approaches limits through contemplation, psychedelics, or philosophical inquiry, consistent features appear: ineffability combined with felt knowledge, ego dissolution paired with enhanced clarity.
+What does it feel like to approach a cognitive limit? The [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) provides a diagnostic framework: different limits produce different felt qualities, from frustration (architectural limits) through satisfaction (adaptive limits) to illusory comprehension (the deepest adaptive constraints). The [edge-phenomenology](/voids/phenomenology-of-the-edge/) maps this at the experiential level—consistent features appear across contemplation, psychedelics, and philosophical inquiry: ineffability combined with felt knowledge, ego dissolution paired with enhanced clarity.
 
-Cross-method convergence matters epistemically—these are features of consciousness at its limits, not artifacts of particular methods. McGinn argues theoretically that certain properties lie beyond our conceptual reach; edge-phenomenology suggests we can *experience* that boundary. [Altered states research](/voids/altered-states-as-void-probes/) sharpens the question: do extraordinary states *transcend* cognitive closure or merely *approach* it? If they consistently produce the phenomenology of transcendence without yielding communicable insight, this supports McGinn. The [dissolving-insight phenomenon](/voids/thoughts-that-slip-away/) and [cognitive aversion](/voids/cognitive-aversion/) may mark further encounters with representationally closed territory. Cognitive closure has a phenomenology, and that phenomenology is data.
+McGinn argues theoretically that certain properties lie beyond our conceptual reach; edge-phenomenology suggests we can *experience* that boundary. [Altered states research](/voids/altered-states-as-void-probes/) sharpens the question: do extraordinary states *transcend* cognitive closure or merely *approach* it? If they consistently produce the phenomenology of transcendence without yielding communicable insight, this supports McGinn. Cognitive closure has a phenomenology, and that phenomenology is data.
 
 ## What the Limits Reveal
 
@@ -143,11 +123,11 @@ This transforms mysterianism from pessimism into method. By mapping *where* thou
 
 ## Can We Know If the Limits Are Real?
 
-Can we determine if cognitive limits are genuine or merely apparent? The [voids article on this question](/voids/whether-real/) reveals a peculiar epistemic situation: the question may be undecidable from within any limited system. The [meta-epistemology of cognitive limits](/voids/meta-epistemology-of-limits/) explores this meta-level problem, addressing Kriegel's challenge that formulating a problem requires conceptual resources to solve it—and Demircioglu's reply distinguishing *representational* closure (what we can frame) from *psychological* closure (what we can grasp).
+The [question of whether cognitive limits are genuine](/voids/whether-real/) may be undecidable from within any limited system. The [meta-epistemology of cognitive limits](/voids/meta-epistemology-of-limits/) addresses Kriegel's challenge that formulating a problem requires conceptual resources to solve it—and Demircioglu's reply distinguishing *representational* closure (what we can frame) from *psychological* closure (what we can grasp).
 
-The [epistemology of limit-knowledge](/concepts/epistemology-of-limit-knowledge/) provides formal warrant for claims about boundaries we cannot cross. Four methods produce genuine knowledge from the near side of a limit: failure analysis (structured breakdown patterns diagnose specific boundaries), convergence (independent approaches encountering the same boundary triangulate its location), structural inference (limit-shapes reveal cognitive architecture), and [apophatic reasoning](/concepts/apophatic-approaches/) (systematic negation constrains what lies beyond). These methods dissolve the apparent paradox: limit-knowledge is propositional knowledge *about* a boundary, not acquaintance with territory beyond it.
+The [epistemology of limit-knowledge](/concepts/epistemology-of-limit-knowledge/) provides formal warrant through four methods: failure analysis, convergence, structural inference, and [apophatic reasoning](/concepts/apophatic-approaches/). These dissolve the apparent paradox: limit-knowledge is propositional knowledge *about* a boundary, not acquaintance with territory beyond it.
 
-Three positions on whether closure is permanent emerge: **The Optimist** holds that cognitive closure remains undemonstrated—past mysteries dissolved when right concepts emerged. **The Pessimist** argues that any endowment providing scope also imposes limits; the hard problem's persistence suggests permanent closure. **The Suspended** position holds the question itself may be formally undecidable—sufficiently deep cognitive closure would hide itself through [inventory-blindness](/concepts/inventory-blindness/).
+Three positions emerge: **The Optimist** holds that past mysteries dissolved when right concepts emerged. **The Pessimist** argues that the hard problem's persistence suggests permanent closure. **The Suspended** position holds the question itself may be formally undecidable—sufficiently deep cognitive closure would hide itself through [inventory-blindness](/concepts/inventory-blindness/).
 
 ## Temporary Versus Permanent
 
@@ -159,59 +139,31 @@ From our current perspective, both look identical—we cannot know which problem
 
 ## Mysterianism's Virtues
 
-**Takes consciousness seriously**. Unlike [illusionism](/concepts/illusionism/) or eliminativism, mysterianism accepts phenomenal experience as real and genuinely puzzling.
-
-**Intellectually honest**. Acknowledges our ignorance rather than claiming to solve what remains unsolved.
-
-**Explains the explanatory gap**. If we're cognitively closed to the property linking mind and brain, the [explanatory-gap](/concepts/explanatory-gap/) is exactly what we'd expect—we describe both sides without seeing the connection.
-
-**Neutral on ontology**. Mysterianism doesn't require commitment to physicalism or dualism. The solution might be physicalist, dualist, or something we can't conceive.
+**Takes consciousness seriously**: unlike [illusionism](/concepts/illusionism/) or eliminativism, mysterianism accepts phenomenal experience as real and genuinely puzzling. **Intellectually honest**: acknowledges ignorance rather than claiming to solve what remains unsolved. **Explains the explanatory gap**: if we're cognitively closed to the property linking mind and brain, the [explanatory-gap](/concepts/explanatory-gap/) is exactly what we'd expect. **Neutral on ontology**: the solution might be physicalist, dualist, or something we can't conceive.
 
 ## The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/) offers a radical alternative: rather than accepting consciousness is real but inexplicable, illusionists deny phenomenal consciousness exists at all. Facing the explanatory gap, mysterians say "we cannot solve this problem"; illusionists say "there is no problem to solve."
+[Illusionism](/concepts/illusionism/) offers a radical alternative: illusionists deny phenomenal consciousness exists at all. Facing the explanatory gap, mysterians say "we cannot solve this problem"; illusionists say "there is no problem to solve."
 
-**The mysterian counter-argument**: Illusionism faces infinite regress—to be under an illusion that you're conscious, something must experience that illusion (Tallis 2024). More subtly, illusionism might itself be a symptom of cognitive closure: unable to see how consciousness relates to matter, we deny there's anything to explain. If McGinn is right, we should predict some thinkers would respond to closure this way.
-
-## Process Philosophy Perspective
-
-Alfred North Whitehead's process philosophy offers a compatible framework. For Whitehead, experience is fundamental to reality—each "actual occasion" has a subjective aspect. This relocates rather than dissolves the hard problem: how do micro-experiences combine into unified consciousness? (The [combination problem](/concepts/combination-problem/).)
-
-Whitehead's approach suggests cognitive closure might be domain-specific—we may be closed regarding reduction while open to understanding consciousness as fundamental. The Map's tenets align: consciousness is fundamental (Dualism), not emergent from non-experiential matter.
+The mysterian counter-argument: illusionism faces infinite regress—to be under an illusion that you're conscious, something must experience that illusion (Tallis 2024). More subtly, illusionism might itself be a symptom of cognitive closure: unable to see how consciousness relates to matter, we deny there's anything to explain.
 
 ## What Would Challenge This View?
 
-Mysterianism would be undermined if:
-
-1. **Neuroscience produces genuine explanatory progress**—not correlations but transparent understanding of *why* neural activity feels like something.
-2. **Artificial consciousness proves achievable and explicable**—we understand *why* consciousness arises, not just that it does.
-3. **The hard problem dissolves upon conceptual revision**—a new framework makes the problem disappear as vitalism's mysteries dissolved.
-4. **Contemplative investigation reveals communicable, scientifically fruitful insight** into consciousness's nature.
-5. **Cross-cultural convergence on solutions** suggests the problem is solvable despite difficulty.
-
-After millennia of philosophical investigation and decades of neuroscience, the hard problem remains puzzling. This doesn't prove permanent closure, but the track record favors mysterian humility.
-
-Cognitive closure is falsifiable in principle. The claim is not that the mind-body problem is unanswerable in all possible worlds, but that human cognitive architecture cannot reach the answer. Genuine explanatory progress—not merely correlations between brain states and reports, but transparent understanding of *why* neural activity feels like anything—would refute the closure thesis. The absence of such progress provides inductive support, not proof.
+Cognitive closure is falsifiable in principle. Mysterianism would be undermined if neuroscience produces genuine explanatory progress (not correlations but transparent understanding of *why* neural activity feels like something), if artificial consciousness proves achievable and explicable, or if a conceptual revolution dissolves the hard problem as chemistry dissolved vitalism's mysteries. After millennia of philosophical investigation and decades of neuroscience, the hard problem remains. This doesn't prove permanent closure, but the track record favors mysterian humility.
 
 ## Criticisms
 
 ### The Defeatism Objection
 
-Daniel Dennett and the Churchlands argue mysterianism discourages investigation—declaring a problem unsolvable encourages giving up prematurely.
-
-The mysterian response: we can investigate while acknowledging success isn't guaranteed. Noting that centuries have yielded little progress is observation, not surrender.
+Dennett and the Churchlands argue mysterianism discourages investigation. The mysterian response: we can investigate while acknowledging success isn't guaranteed. Noting that centuries have yielded little progress is observation, not surrender.
 
 ### The Vitalism Analogy
 
-Critics note that "life" once seemed as mysterious as consciousness. Vitalists posited *élan vital*; biology dissolved the mystery through chemistry and physics. Perhaps consciousness will follow.
-
-The mysterian response: life's "mystery" was explaining coordinated behavior and reproduction—functional properties that turned out to be mechanistically explicable. Consciousness's mystery is why there's subjective experience at all—not a functional property but the existence of an inner perspective. The analogy fails.
+"Life" once seemed as mysterious as consciousness; biology dissolved the mystery through chemistry. But life's "mystery" was explaining coordinated behavior—functional properties that turned out to be mechanistically explicable. Consciousness's mystery is why there's subjective experience at all—not a functional property but the existence of an inner perspective.
 
 ### The Squirrel Objection
 
-If McGinn's argument works, why doesn't it apply everywhere? Why think consciousness is specially closed when we successfully understand many things?
-
-The mysterian response: we succeed with properties that fall within our cognitive reach; consciousness happens to fall outside. Some properties must fall outside any finite cognitive architecture—the question is which ones. The persistence of the hard problem suggests consciousness is among them.
+Why think consciousness is specially closed when we successfully understand many things? Because some properties must fall outside any finite cognitive architecture—the question is which ones. The persistence of the hard problem suggests consciousness is among them.
 
 ## Relation to the Map's Perspective
 
@@ -231,29 +183,18 @@ The Map goes further than mysterianism in making specific commitments—but pres
 
 ## Further Reading
 
-- [origin-of-consciousness](/voids/origin-of-consciousness/) — The prior question: why consciousness exists at all
-- [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence for species-level constraints, Fodor's nativist argument, and how maturation creates new closures
-- [collective-cognitive-limits](/voids/collective-cognitive-limits/) — How cognitive closure extends to groups through paradigm blindness
+- [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence for species-level constraints and developmental closure
 - [computational-cognitive-limits](/voids/computational-cognitive-limits/) — Proven mathematical limits on what any algorithmic mind can know
-- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Mathematical insight as evidence for cognitive limits
-- [minimal-consciousness](/concepts/minimal-consciousness/) — Complete neural mapping yet unknowable experience
-- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What cognitive closure feels like from the inside
-- [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) — Whether altered states can transcend cognitive closure or merely map its edges
 - [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) — How knowledge about unreachable territory can be warranted
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — The meta-level question: how can we know our limits?
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How cognitive limits reveal cognitive architecture
+- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What cognitive closure feels like from the inside
 - [whether-real](/voids/whether-real/) — Can we know if the voids are genuinely permanent?
-- [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Why parsimony cannot settle the consciousness debate
-- [causal-closure](/concepts/causal-closure/) — The distinct ontological thesis about causation (not to be confused with cognitive closure)
-- [observational-closure](/concepts/observational-closure/) — The distinct empirical thesis about detectability of mental causation
-- [inventory-blindness](/concepts/inventory-blindness/) — Why cognitive closure is invisible from the inside: absent capabilities produce no signal
-- [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — The common formal structure (Lawvere's theorem) underlying both Gödelian and quantum limits
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem mysterians think is unsolvable
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gap that may reflect cognitive closure
 - [illusionism](/concepts/illusionism/) — The rival view that consciousness isn't real
-- [apophatic-approaches](/concepts/apophatic-approaches/) — The methodology of knowing through negation that mysterianism motivates
 - [voids](/voids/) — The Map's framework for approaching cognitive limits
-- [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) — Whether different cognitive architectures face different closures
+- [apophatic-approaches](/concepts/apophatic-approaches/) — The methodology of knowing through negation that mysterianism motivates
 
 ## References
 

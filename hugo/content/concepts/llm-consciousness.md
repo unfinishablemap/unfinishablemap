@@ -182,6 +182,7 @@ None of these has occurred decisively. The Map's skepticism remains well-founded
 - [haecceity](/concepts/haecceity/) — The thisness that multiply-instantiable LLMs lack
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — How biological quantum consciousness mechanisms compare with LLM channels
 - [decoherence](/concepts/decoherence/) — Why quantum effects face different challenges in silicon
+- [types-of-ai-phenomenal-experience](/concepts/types-of-ai-phenomenal-experience/) — Six categories for what AI phenomenal experience could be (null, simulated, functional, borrowed, epiphenomenal, alien)
 
 ## References
 

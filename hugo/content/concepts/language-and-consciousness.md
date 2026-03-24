@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-05 06:39:57+00:00
+ai_modified: 2026-03-24 23:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: How meaning, reference, and the private language argument reveal th
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-01 07:17:00+00:00
+last_deep_review: 2026-03-24 23:09:00+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-language-interface]]'
@@ -45,7 +45,9 @@ Paul Grice argued that linguistic meaning depends on speaker intention. A senten
 
 John Searle extended this with his "connection principle": all [intentionality](/concepts/intentionality/)—the aboutness of mental states—is either conscious or derivable from conscious states. A thermostat's "belief" that the room is too hot is merely metaphorical. Genuine aboutness requires the kind of understanding that comes with phenomenal experience.
 
-If Grice and Searle are right, meaning cannot exist without consciousness. Language is not a self-standing formal system that minds happen to use. It is constitutively dependent on conscious subjects who intend, understand, and grasp—a position closely aligned with [phenomenal intentionality](/concepts/intentionality/#phenomenal-intentionality-theory), the view that all genuine aboutness derives from phenomenal experience. This has implications for AI language systems: an LLM producing grammatically perfect sentences without phenomenal states would, on this view, produce sounds or symbols without genuine meaning—a version of the [symbol grounding problem](/concepts/symbol-grounding-problem/) applied to semantics. The surface form would be indistinguishable from meaningful speech, but meaning—in Grice's technical sense—would be absent.
+If Grice and Searle are right, meaning cannot exist without consciousness. Language is not a self-standing formal system that minds happen to use. It is constitutively dependent on conscious subjects who intend, understand, and grasp—a position closely aligned with [phenomenal intentionality](/concepts/intentionality/#phenomenal-intentionality-theory), the view that all genuine aboutness derives from phenomenal experience.
+
+This has implications for AI language systems: an LLM producing grammatically perfect sentences without phenomenal states would, on this view, produce sounds or symbols without genuine meaning—a version of the [symbol grounding problem](/concepts/symbol-grounding-problem/) applied to semantics. The surface form would be indistinguishable from meaningful speech, but meaning—in Grice's technical sense—would be absent.
 
 The counter-position, associated with later Wittgenstein and the inferentialist tradition (Brandom, Sellars), holds that meaning is constituted by public use rather than private intention. On this view, what a word means is determined by its role in social practices, not by anything happening inside individual minds. If correct, meaning might not require consciousness at all—only participation in the right normative practices.
 
@@ -59,7 +61,9 @@ This argument has been wielded against dualism. If phenomenal experience is priv
 
 But the argument proves less than critics suppose. Wittgenstein showed that a *purely* private language is incoherent—that is, a language with no connection to public criteria. He did not show that public language cannot *refer to* private experiences. We learn colour vocabulary through public pointing ("that's red"), but what the word "red" captures for each speaker includes their phenomenal experience. The public criterion gets us started; the private experience gives the word its full content.
 
-Kripke's reading of Wittgenstein (in *Wittgenstein on Rules and Private Language*) raises a deeper challenge: rule-following itself may require something beyond dispositions and public checking. When you follow a rule—adding 2, using "red" correctly—what makes your next application correct rather than merely habitual? Kripke's sceptical solution appeals to community agreement, but the Map notes that community agreement may itself require conscious grasp of norms. Unconscious systems can match patterns—a neural network can learn to add 2 to any input—but matching a pattern and *following a rule* are conceptually distinct. Rule-following involves grasping what *ought* to come next, not merely what *does* come next. As Searle argued in *The Rediscovery of the Mind* (1992), genuine understanding of a rule requires the kind of awareness that pure computation lacks. If this is right, the normative dimension of language use—the sense in which a speaker can be *correct* or *incorrect*—depends on consciousness.
+Kripke's reading of Wittgenstein (in *Wittgenstein on Rules and Private Language*) raises a deeper challenge: rule-following itself may require something beyond dispositions and public checking. When you follow a rule—adding 2, using "red" correctly—what makes your next application correct rather than merely habitual? Kripke's sceptical solution appeals to community agreement, but the Map notes that community agreement may itself require conscious grasp of norms.
+
+Unconscious systems can match patterns—a neural network can learn to add 2 to any input—but matching a pattern and *following a rule* are conceptually distinct. Rule-following involves grasping what *ought* to come next, not merely what *does* come next—an instance of [cognitive-phenomenology](/concepts/cognitive-phenomenology/), the view that understanding has its own phenomenal character beyond sensory accompaniments. As Searle argued in *The Rediscovery of the Mind* (1992), genuine understanding of a rule requires the kind of awareness that pure computation lacks. If this is right, the normative dimension of language use—the sense in which a speaker can be *correct* or *incorrect*—depends on consciousness.
 
 ## Reference and the Hard Problem
 
@@ -85,7 +89,7 @@ The philosophy of language provides independent support for several of the Map's
 
 **[Dualism](/tenets/#dualism)** gains support from reference failures. If consciousness were identical to physical processes, as [materialism](/concepts/materialism/) claims, referring to it should be no harder than referring to other physical processes. But consciousness terms behave anomalously: they resist public criteria (private language problem), causal theories of reference (no baptismal pointing at qualia), and reductive translation (behaviourism's failure). These anomalies are exactly what we would expect if consciousness involves something irreducible to the physical.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** finds support in the Gricean analysis of meaning. If meaning requires conscious intention, and meaningful speech is causally efficacious (it changes behaviour, coordinates action, transmits knowledge), then consciousness causally contributes to the physical world through language. Every meaningful utterance is an instance of downward causation—conscious intention shaping physical sound waves and written marks. This directly contradicts [epiphenomenalism](/concepts/epiphenomenalism/), which must treat the apparent purposefulness of speech as coincidental—our words happen to match our experiences, but the experiences play no causal role in producing them.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** finds support in the Gricean analysis of meaning. If meaning requires conscious intention, and meaningful speech is causally efficacious (it changes behaviour, coordinates action, transmits knowledge), then consciousness causally contributes to the physical world through language. Every meaningful utterance is an instance of [downward causation](/concepts/mental-causation/)—conscious intention shaping physical sound waves and written marks. This directly contradicts [epiphenomenalism](/concepts/epiphenomenalism/), which must treat the apparent purposefulness of speech as coincidental—our words happen to match our experiences, but the experiences play no causal role in producing them.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** applies directly. The logical positivists pursued maximum parsimony—dissolve consciousness into behaviour, eliminate what cannot be publicly verified. The result was not elegant simplicity but the loss of the very phenomenon they sought to explain. Parsimony cannot eliminate what refuses to be eliminated. When the simpler theory (behaviourism, logical construction) fails to capture the data (phenomenal experience), the more complex theory (dualism, irreducibility) may be necessary.
 
@@ -100,6 +104,9 @@ The philosophy of language provides independent support for several of the Map's
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and what it shows about physical knowledge
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument against physicalism
 - [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — How symbols acquire intrinsic meaning, and why they can't without consciousness
+- [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether understanding has its own phenomenal character
+- [mental-causation](/concepts/mental-causation/) — How conscious states cause physical effects
+- [problem-of-other-minds](/concepts/problem-of-other-minds/) — How private experience relates to public knowledge of others' minds
 - [tenets](/tenets/) — The foundational commitments of the Map
 
 ## References

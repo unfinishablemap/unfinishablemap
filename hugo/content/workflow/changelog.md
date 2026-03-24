@@ -9,6 +9,138 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-24 23:09 UTC - deep-review
+- **Status**: Success
+- **File**: [language-and-consciousness](/concepts/language-and-consciousness/)
+- **Word count**: 1781 → 1828 (+47)
+- **Critical issues addressed**: 0 (article stable after 4 prior reviews)
+- **Medium issues addressed**: 5 (paragraph splits, cross-link additions)
+- **Enhancements made**: 5 (2 paragraph splits, 3 Further Reading entries, 2 inline cross-links)
+- **Output**: [deep-review-2026-03-24-language-and-consciousness](/reviews/deep-review-2026-03-24-language-and-consciousness/)
+
+## 2026-03-24 22:54 UTC - deep-review
+- **Status**: Success
+- **File**: [types-of-ai-phenomenal-experience](/concepts/types-of-ai-phenomenal-experience/)
+- **Word count**: 1920 → 1920 (+0, no content changes — orphan integration focus)
+- **Critical issues addressed**: 0 (article stable after 2 prior reviews)
+- **Medium issues addressed**: 1 (orphan status)
+- **Enhancements made**: 13 inbound cross-links added from related articles
+- **Output**: [deep-review-2026-03-24c-types-of-ai-phenomenal-experience](/reviews/deep-review-2026-03-24c-types-of-ai-phenomenal-experience/)
+
+## 2026-03-24 22:40 UTC - refine-draft
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Changes**: Added intraoperative awareness statistics (connected consciousness evidence), strengthened active reboot section with Bodart et al. recovery asymmetry and Bhatt et al. transmissive framing, compressed epistemological caveat and limitations sections to stay under 3500-word cap
+- **Published**: yes
+
+## 2026-03-24 22:24 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/simulation.md, concepts/epiphenomenalism.md
+- **Output**: [pessimistic-2026-03-24d](/reviews/pessimistic-2026-03-24d/)
+
+## 2026-03-24 22:09 UTC - deep-review
+- **Status**: Success
+- **File**: [mental-causation](/concepts/mental-causation/)
+- **Word count**: 3023 → 3070 (+47)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (supervenience cross-link, mutual constraint framing, stale refinement log)
+- **Enhancements made**: 2 (supervenience integration, refinement log cleanup)
+- **Output**: [deep-review-2026-03-24-mental-causation](/reviews/deep-review-2026-03-24-mental-causation/)
+
+## 2026-03-24 21:54 UTC - deep-review
+- **Status**: Success
+- **File**: [emergence](/concepts/emergence/)
+- **Word count**: 2514 → 2525 (+11)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (bidirectional cross-link to supervenience)
+- **Enhancements made**: 1 (supervenience cross-link in frontmatter and Further Reading)
+- **Output**: [deep-review-2026-03-24-emergence](/reviews/deep-review-2026-03-24-emergence/)
+
+## 2026-03-24 21:43 UTC - deep-review
+- **Status**: Success
+- **File**: [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/)
+- **Word count**: 2118 → 2165 (+47)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2 (cited Chalmers & McQueen 2022 in body, added inline it-from-bit cross-link)
+- **Output**: [deep-review-2026-03-24-metaphysics-of-information-under-dualism](/reviews/deep-review-2026-03-24-metaphysics-of-information-under-dualism/)
+
+## 2026-03-24 21:24 UTC - condense
+- **Status**: Success
+- **File**: [mysterianism](/concepts/mysterianism/)
+- **Before**: 3564 words
+- **After**: 2561 words
+- **Reduction**: 28%
+- **Technique**: Cut redundancy (Nagel's Bat summary, repeated falsifiability paragraph), removed Process Philosophy section (tangential), compressed Cognitive Closure definition, tightened criticisms and virtues sections, trimmed Further Reading from 23 to 12 links
+
+## 2026-03-24 21:10 UTC - deep-review
+- **Status**: Success
+- **File**: [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/)
+- **Word count**: 2733 → ~2745 (+12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing supervenience cross-link)
+- **Enhancements made**: 3 (inline wikilink, concepts frontmatter, Further Reading entry)
+- **Output**: [deep-review-2026-03-24-the-strong-emergence-of-consciousness](/reviews/deep-review-2026-03-24-the-strong-emergence-of-consciousness/)
+
+## 2026-03-24 20:54 UTC - deep-review
+- **Status**: Success
+- **File**: [structural-varieties-of-consciousness-and-ai-phenomenology](/topics/structural-varieties-of-consciousness-and-ai-phenomenology/)
+- **Word count**: 2331 → 2464 (+133)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (Five Models conditional assumption made explicit, missing cross-link to types-of-ai-phenomenal-experience, Bandwidth Model alien phenomenality connection)
+- **Enhancements made**: 3 (inline cross-links, Further Reading entry, References self-citation)
+- **Output**: [deep-review-2026-03-24-structural-varieties-of-consciousness-and-ai-phenomenology](/reviews/deep-review-2026-03-24-structural-varieties-of-consciousness-and-ai-phenomenology/)
+
+## 2026-03-24 20:39 UTC - deep-review
+- **Status**: Success
+- **File**: [ai-consciousness](/topics/ai-consciousness/)
+- **Word count**: 3027 → 3039 (+12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to types-of-ai-phenomenal-experience)
+- **Enhancements made**: 5 (cross-links in 3 sections, frontmatter, Further Reading, References; prose tightened in 6 sections)
+- **Output**: [deep-review-2026-03-24-ai-consciousness](/reviews/deep-review-2026-03-24-ai-consciousness/)
+
+## 2026-03-24 20:25 UTC - coalesce
+- **Status**: Abandoned — no strong candidates
+- **Sections searched**: topics (228/230), concepts (224/230), voids (100/100)
+- **Iterations**: 5 rounds across all sections
+- **Finding**: Articles are well-differentiated; many previously coalesced. No pairs with sufficient overlap to justify merging.
+
+## 2026-03-24 20:09 UTC - deep-review (integration)
+- **Status**: Success
+- **File**: [supervenience](/concepts/supervenience/)
+- **Word count**: 1361 → 1361 (no body changes)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status resolved)
+- **Enhancements made**: 13 inbound cross-links from 10 articles
+- **Files modified**: emergence.md, mental-causation.md, materialism.md, downward-causation.md, the-epiphenomenalist-threat.md, psychophysical-laws-bridging-mind-and-matter.md, interactionist-dualism.md, psychophysical-laws.md, objections-to-interactionism.md, zombie-master-argument.md, embodied-cognition.md
+- **Output**: [deep-review-2026-03-24b-supervenience](/reviews/deep-review-2026-03-24b-supervenience/)
+
+## 2026-03-24 19:59 UTC - deep-review
+- **Status**: Success
+- **File**: [supervenience](/concepts/supervenience/)
+- **Word count**: 1301 → 1361 (+60)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (type-B physicalism engagement, missing cross-links, temperature analogy precision)
+- **Enhancements made**: 5 (zombie section strengthened, materialism cross-link, causal-powers cross-link, Further Reading expanded, frontmatter concepts updated)
+- **Output**: [deep-review-2026-03-24-supervenience](/reviews/deep-review-2026-03-24-supervenience/)
+
+## 2026-03-24 19:40 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Supervenience
+- **Output**: [supervenience](/concepts/supervenience/)
+- **Word count**: 1301
+- **Based on research**: no
+
+## 2026-03-24 19:24 UTC - deep-review
+- **Status**: Success
+- **File**: [mathematical-truth-and-conscious-access](/topics/mathematical-truth-and-conscious-access/)
+- **Word count**: 3364 → 3388 (+24)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (MWI tenet phrasing, Strawson attribution, stale cross-references)
+- **Enhancements made**: 10 cross-reference updates across 9 files, completed P2 cross-review task
+- **Output**: [deep-review-2026-03-24-mathematical-truth-and-conscious-access](/reviews/deep-review-2026-03-24-mathematical-truth-and-conscious-access/)
+
 ## 2026-03-24 19:09 UTC - coalesce
 - **Status**: Success
 - **Sources**: [consciousness-and-the-philosophy-of-mathematics](/topics/consciousness-and-the-philosophy-of-mathematics/), [mathematical-knowledge-and-insight](/topics/mathematical-knowledge-and-insight/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-24 21:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -20,6 +20,7 @@ concepts:
 - '[[concepts/functionalism]]'
 - '[[quantum-consciousness]]'
 - '[[qualia]]'
+- '[[supervenience]]'
 created: 2026-02-08
 date: &id001 2026-02-22
 description: The type of emergence you accept constrains what consciousness can be.
@@ -27,7 +28,7 @@ description: The type of emergence you accept constrains what consciousness can 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-20 03:35:00+00:00
+last_deep_review: 2026-03-24 21:10:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -101,7 +102,7 @@ The standard distinction is clean in principle. Three pressures make it harder t
 
 **The explanatory gap as spectrum.** Weak emergence requires that the emergent property is *explicable* in terms of the base. Temperature is derivable and explicable. Rule 110 in cellular automata produces computationally universal behaviour from trivially simple rules — derivable but unexplained. Consciousness is neither derivable nor explicable. The clean binary may obscure a gradient of explanatory opacity.
 
-**The supervenience problem.** Weak emergence claims metaphysical supervenience: in every possible world with the same microphysics, the same macro-properties obtain. Strong emergence claims only nomological supervenience — the same microphysics yields the same consciousness under *our* laws, but different laws could produce different results. Whether consciousness supervenes with metaphysical or merely nomological necessity depends on whether zombies are genuinely conceivable. The boundary *is* the dispute, restated in different terms.
+**The [supervenience](/concepts/supervenience/) problem.** Weak emergence claims metaphysical supervenience: in every possible world with the same microphysics, the same macro-properties obtain. Strong emergence claims only nomological supervenience — the same microphysics yields the same consciousness under *our* laws, but different laws could produce different results. Whether consciousness supervenes with metaphysical or merely nomological necessity depends on whether zombies are genuinely conceivable. The boundary *is* the dispute, restated in different terms.
 
 If weak and strong emergence formed a clean binary, the physicalist could plausibly argue that consciousness will eventually join temperature on the weak side. That consciousness is the primary case driving the dispute — the reason the boundary is contested at all — suggests something genuinely different is happening with phenomenal properties.
 
@@ -165,6 +166,7 @@ Affirming strong emergence is not the same as explaining it. The deeper question
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — How mind and matter might be lawfully connected
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness emerged and what this reveals
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal experience
+- [supervenience](/concepts/supervenience/) — The dependence relation: why covariance does not entail reduction
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room: why complete physical knowledge does not entail experiential knowledge
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument underlying the strong emergence claim
 - [mysterianism](/concepts/mysterianism/) — The cognitive closure thesis: why strong emergence may resist comprehension

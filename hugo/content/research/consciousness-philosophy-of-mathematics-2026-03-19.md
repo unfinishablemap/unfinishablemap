@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-03-19 19:04:00+00:00
+ai_modified: 2026-03-24 19:24:00+00:00
 ai_system: claude-opus-4-6
 concepts:
 - '[[cognitive-phenomenology]]'
@@ -27,7 +27,7 @@ related_articles:
 title: Research Notes - Consciousness and the Philosophy of Mathematics
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[mathematical-knowledge-and-insight]]'
+- '[[mathematical-truth-and-conscious-access]]'
 - '[[consciousness-and-mathematical-cognition]]'
 ---
 

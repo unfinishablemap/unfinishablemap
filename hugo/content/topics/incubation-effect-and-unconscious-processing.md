@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-03-23 02:21:00+00:00
+ai_modified: 2026-03-24 19:24:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,7 @@ related_articles:
 - '[[consciousness-and-creative-distinctiveness]]'
 - '[[dream-consciousness]]'
 - '[[hypnagogic-phenomenology-and-interface-modulation]]'
-- '[[mathematical-knowledge-and-insight]]'
+- '[[mathematical-truth-and-conscious-access]]'
 title: The Incubation Effect and Unconscious Processing
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -142,7 +142,7 @@ The Map's interpretation of incubation would face difficulty if:
 - [mental-effort](/concepts/mental-effort/) — Why conscious engagement feels like work
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) — The phenomenology of sleep-onset consciousness and its creative potential
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates the consciousness-brain interface
-- [mathematical-knowledge-and-insight](/topics/mathematical-truth-and-conscious-access/) — The phenomenology of mathematical insight, including Poincaré's incubation reports
+- [mathematical-truth-and-conscious-access](/topics/mathematical-truth-and-conscious-access/) — The phenomenology of mathematical insight, including Poincaré's incubation reports
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — How incubation-insight patterns reveal the temporal phenomenology of understanding
 
 ## References

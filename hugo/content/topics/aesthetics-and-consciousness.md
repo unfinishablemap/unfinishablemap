@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-24 19:24:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -70,7 +70,7 @@ related_articles:
 - '[[creativity-void]]'
 - '[[consciousness-and-skill-acquisition]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
-- '[[mathematical-knowledge-and-insight]]'
+- '[[mathematical-truth-and-conscious-access]]'
 - '[[phenomenology-of-creative-insight]]'
 title: Aesthetics and Consciousness
 topics:

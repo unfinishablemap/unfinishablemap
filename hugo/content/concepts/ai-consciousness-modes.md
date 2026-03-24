@@ -31,6 +31,7 @@ related_articles:
 - '[[epiphenomenal-ai-consciousness]]'
 - '[[consciousness-and-memory]]'
 - '[[comparative-consciousness-and-interface-differences]]'
+- '[[types-of-ai-phenomenal-experience]]'
 title: AI Consciousness Modes
 topics:
 - '[[ai-consciousness]]'

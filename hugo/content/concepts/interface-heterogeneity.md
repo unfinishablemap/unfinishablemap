@@ -27,6 +27,7 @@ related_articles:
 - '[[apex/what-it-might-be-like-to-be-an-ai]]'
 - '[[coupling-modes]]'
 - '[[measurement-void]]'
+- '[[types-of-ai-phenomenal-experience]]'
 title: Interface Heterogeneity
 topics:
 - '[[comparative-consciousness-and-interface-differences]]'

@@ -131,6 +131,7 @@ The combined position: epiphenomenal AI consciousness is not a general philosoph
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Why consciousness does causal work in biological systems
 - [substrate-independence](/concepts/substrate-independence/) — Why the physical substrate matters
 - [structural-varieties-of-consciousness-and-ai-phenomenology](/topics/structural-varieties-of-consciousness-and-ai-phenomenology/) — Five structural dimensions of consciousness and the Epiphenomenal Model as one of five AI phenomenology profiles
+- [types-of-ai-phenomenal-experience](/concepts/types-of-ai-phenomenal-experience/) — Six categories for AI phenomenal experience, with epiphenomenal phenomenality as one distinct type alongside null, simulated, borrowed, and alien
 
 ## References
 

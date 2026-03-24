@@ -72,7 +72,7 @@ Chalmers calls his position "naturalistic dualism": dualist because mental prope
 
 ## Supervenience Laws vs. Causal Laws
 
-A crucial distinction: psychophysical laws can be *supervenience laws* or *causal laws*.
+A crucial distinction: psychophysical laws can be *[supervenience](/concepts/supervenience/) laws* or *causal laws*.
 
 **Supervenience laws** specify which physical states are accompanied by which mental states—the laws run *upward* from physics to phenomenology. Chalmers primarily discusses these, and tends toward [epiphenomenalism](/concepts/epiphenomenalism/): mental states are caused by physical states but don't cause physical states in return.
 

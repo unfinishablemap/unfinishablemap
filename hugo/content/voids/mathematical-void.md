@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-16 09:32:00+00:00
+ai_modified: 2026-03-24 19:24:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ related_articles:
 - '[[incompleteness-void]]'
 - '[[apophatic-approaches]]'
 - '[[cognitive-closure]]'
-- '[[mathematical-knowledge-and-insight]]'
+- '[[mathematical-truth-and-conscious-access]]'
 title: The Mathematical Void
 topics:
 - '[[philosophy-of-mind]]'

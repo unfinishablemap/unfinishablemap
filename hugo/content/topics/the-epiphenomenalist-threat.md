@@ -83,9 +83,9 @@ Not all theories sit at the same distance from the well's centre. The proximity 
 
 ## Non-Reductive Physicalism: Kim's Target
 
-Non-reductive physicalism was designed to avoid epiphenomenalism. It holds that mental properties are real, irreducible to physical properties, and causally efficacious—while maintaining that everything is ultimately physical. Mental properties supervene on physical properties (no mental difference without physical difference) but are not identical to them.
+Non-reductive physicalism was designed to avoid epiphenomenalism. It holds that mental properties are real, irreducible to physical properties, and causally efficacious—while maintaining that everything is ultimately physical. Mental properties [supervene](/concepts/supervenience/) on physical properties (no mental difference without physical difference) but are not identical to them.
 
-Kim demonstrated that this combination is unstable. If mental property M supervenes on physical property P, and P is causally sufficient for the effect, then M's causal contribution is either identical to P's (collapsing non-reductive into reductive physicalism) or excluded by P's (epiphenomenalism). Supervenience without identity provides no independent causal role.
+Kim demonstrated that this combination is unstable. If mental property M supervenes on physical property P, and P is causally sufficient for the effect, then M's causal contribution is either identical to P's (collapsing non-reductive into reductive physicalism) or excluded by P's (epiphenomenalism). [Supervenience](/concepts/supervenience/) without identity provides no independent causal role.
 
 Non-reductive physicalists have responded with proposals about causal overdetermination, counterfactual dependence, and proportionality. None has achieved consensus. The position remains philosophically viable, but the epiphenomenalist threat has not been neutralized—only managed. Kim himself concluded that non-reductive physicalism is "not a stable position" and that its proponents face a forced choice between reduction and causal impotence (*Physicalism, or Something Near Enough*, 2005).
 

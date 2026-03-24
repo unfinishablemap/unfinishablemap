@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-20 13:19:00+00:00
+ai_modified: 2026-03-24 19:24:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ related_articles:
 - '[[tenets]]'
 - '[[consciousness-and-mathematical-cognition]]'
 - '[[consciousness-and-the-authority-of-formal-systems]]'
-- '[[mathematical-knowledge-and-insight]]'
+- '[[mathematical-truth-and-conscious-access]]'
 - '[[mathematical-void]]'
 - '[[incompleteness-void]]'
 - '[[quantum-measurement-consciousness-interface]]'
@@ -132,7 +132,7 @@ The self-referential structure underlying both Gödelian incompleteness and the 
 
 - [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Mathematical insight as evidence for consciousness beyond computation
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why formal systems reach principled limits at consciousness
-- [mathematical-knowledge-and-insight](/topics/mathematical-truth-and-conscious-access/) — The epistemology and phenomenology of mathematical knowledge
+- [mathematical-truth-and-conscious-access](/topics/mathematical-truth-and-conscious-access/) — The epistemology and phenomenology of mathematical knowledge
 - [physics-as-disclosure](/concepts/physics-as-disclosure/) — The measurement problem as boundary disclosure
 - [incompleteness-void](/voids/incompleteness-void/) — Gödelian limits as cognitive boundaries
 - [mathematical-void](/voids/mathematical-void/) — Where formal manipulation succeeds but understanding fails

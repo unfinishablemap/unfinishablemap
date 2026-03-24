@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-24 21:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: What is information's ontological status when mind and matter are g
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-01 19:52:00+00:00
+last_deep_review: 2026-03-24 21:43:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -77,7 +77,7 @@ The Map's preferred position. Information is the *medium of interaction* between
 - Phenomenal content is real and non-physical—the qualitative character of conscious experience.
 - Information serves as the interface because consciousness interacts with the physical world by biasing which physical information states become actual (through [quantum selection](/concepts/psychophysical-laws/#attention)).
 
-This preserves genuine dualism (mind and matter remain distinct) while explaining why information appears in both domains: it is the point of contact. Just as a translator is neither French nor English but operates in both languages, information operates across the mind-matter boundary without belonging exclusively to either side. The Map's account of [adaptive computational depth](/concepts/adaptive-computational-depth/) extends this: the informational resolution of reality varies with conscious engagement, concentrating detail where consciousness attends.
+This preserves genuine dualism (mind and matter remain distinct) while explaining why information appears in both domains: it is the point of contact. Just as a translator is neither French nor English but operates in both languages, information operates across the mind-matter boundary without belonging exclusively to either side. This resonates with Wheeler's ["it from bit"](/topics/it-from-bit-and-participatory-ontology/) programme, which treats information as constitutive of physical reality—though the Map stops short of Wheeler's idealist implications, insisting that both the physical and the phenomenal remain irreducible. The Map's account of [adaptive computational depth](/concepts/adaptive-computational-depth/) extends this: the informational resolution of reality varies with conscious engagement, concentrating detail where consciousness attends.
 
 ## The Syntax-Semantics Divide
 
@@ -95,7 +95,7 @@ A persistent objection to interactionist dualism is the *causal exclusion proble
 
 The sharpened objection: physical information processing in the brain is causally complete. Every neural state follows from prior neural states according to physical law. Consciousness is informationally redundant—the brain's physical information is sufficient to determine its behaviour.
 
-The response from the Map's framework: physical information processing is *not* causally complete at quantum indeterminacies. Where quantum mechanics leaves outcomes undetermined, no amount of physical information determines which outcome occurs. Consciousness acts at precisely these gaps—biasing which of several physically permitted outcomes becomes actual. The information contributed by consciousness is not redundant because the physical information was *insufficient*. For how this plays out through attention as the selection mechanism, see [the attention-as-causal-bridge model](/apex/attention-as-causal-bridge/).
+The response from the Map's framework: physical information processing is *not* causally complete at quantum indeterminacies. Where quantum mechanics leaves outcomes undetermined, no amount of physical information determines which outcome occurs. Consciousness acts at precisely these gaps—biasing which of several physically permitted outcomes becomes actual (Chalmers & McQueen 2022 develop this connection between consciousness and collapse in detail). The information contributed by consciousness is not redundant because the physical information was *insufficient*. For how this plays out through attention as the selection mechanism, see [the attention-as-causal-bridge model](/apex/attention-as-causal-bridge/).
 
 This is not a god-of-the-gaps argument in the usual sense. The gaps are not due to ignorance of physical law but are structural features of quantum mechanics itself. The indeterminacy is not epistemic (we don't know the outcome) but ontological (there is no fact about the outcome until measurement). Consciousness fills a genuine ontological vacancy, not an epistemic one. The standard objection—that [decoherence](/concepts/decoherence/) destroys quantum superpositions too rapidly for neural-scale effects—targets the *mechanism* but not the *principle*: even after decoherence selects a measurement basis, the outcome within that basis remains undetermined and available for conscious selection (see [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) for the detailed framework).
 

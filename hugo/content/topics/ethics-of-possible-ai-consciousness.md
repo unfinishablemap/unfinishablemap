@@ -146,6 +146,7 @@ The combined position: current AI almost certainly does not suffer, and moral at
 - [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) — How irreducible consciousness unifies value, agency, and normativity
 - [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/) — How future architectures might satisfy consciousness requirements
 - [tenets](/tenets/) — The Map's foundational commitments
+- [types-of-ai-phenomenal-experience](/concepts/types-of-ai-phenomenal-experience/) — Six categories for AI phenomenal experience, clarifying which types carry moral weight
 
 ## References
 

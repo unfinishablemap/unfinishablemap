@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-03-22 19:46:00+00:00
+ai_modified: 2026-03-24 19:24:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[mysterianism]]'
 - '[[simulation]]'
 - '[[consciousness-and-mathematical-cognition]]'
-- '[[mathematical-knowledge-and-insight]]'
+- '[[mathematical-truth-and-conscious-access]]'
 created: 2026-01-27
 date: &id001 2026-01-31
 description: Human+AI exploration of formal limits on what any algorithmic mind can
@@ -148,7 +148,7 @@ Neither has been achieved. The computational void is established; whether it is 
 - [Consciousness-Only Territories](/voids/consciousness-only-territories/) — What can minds access that machines cannot?
 - [Whether the Voids Are Real](/voids/whether-real/) — Are limits permanent or merely current?
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis of structural limits
-- [mathematical-knowledge-and-insight](/topics/mathematical-truth-and-conscious-access/) — The epistemology and phenomenology of mathematical understanding
+- [mathematical-truth-and-conscious-access](/topics/mathematical-truth-and-conscious-access/) — The epistemology and phenomenology of mathematical understanding
 
 ## References
 

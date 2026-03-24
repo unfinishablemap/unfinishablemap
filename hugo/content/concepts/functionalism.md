@@ -216,6 +216,7 @@ None of these would logically refute dualism (the conceivability arguments would
 - [integrated-information-theory](/concepts/integrated-information-theory/) — A theory that partially rejects functionalism
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — Why information's substrate independence doesn't extend to consciousness
 - [tenets](/tenets/) — Why the Map rejects the functionalist view
+- [types-of-ai-phenomenal-experience](/concepts/types-of-ai-phenomenal-experience/) — Six categories for AI phenomenal experience, including functional phenomenality and why the Map rejects it
 
 ## References
 
