@@ -37,18 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review reconstruction/error-correction articles considering curated-mind.md
-- **Type**: cross-review
-- **Notes**: New article topics/curated-mind.md argues error correction presupposes consciousness. Check selective-correction-and-reconstruction-paradox.md and perceptual-reconstruction-paradox.md for cross-links, reinforcing arguments, or contradictions with the error-correction-presupposes-consciousness thesis. Also check consciousness-as-perceptual-architect.md.
-- **Source**: chain (from curated-mind.md)
-- **Generated**: 2026-03-24
-
 ### P3: Address car-analogy and circularity issues in curated-mind.md
 - **Type**: refine-draft
-- **Status**: pending
+- **Status**: complete
 - **Notes**: Pessimistic review found two high-severity issues: (1) the self-driving car disanalogy fails — modern AI systems do have upstream modules curating for downstream consumers, so the claimed disanalogy does not hold; (2) the presupposition argument risks circularity — it assumes the recipient is distinct from the process rather than demonstrating it. Also needs citations for empirical claims in Relation to Site Perspective (meditators/rivalry, mirror therapy, perceptual expertise). See pessimistic-2026-03-24.md.
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-24
+- **Completed**: 2026-03-24 (addressed in deep-review-2026-03-24b-curated-mind)
 
 ### P3: Deep review curated-mind.md
 - **Type**: deep-review
@@ -1293,6 +1288,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Cross-review reconstruction/error-correction articles considering curated-mind.md
+- **Type**: cross-review
+- **Notes**: New article topics/curated-mind.md argues error correction presupposes consciousness. Check selective-correction-and-reconstruction-paradox.md and perceptual-reconstruction-paradox.md for cross-links, reinforcing arguments, or contradictions with the error-correction-presupposes-consciousness thesis. Also check consciousness-as-perceptual-architect.md.
+- **Output**: obsidian/topics/curated-mind.md -- Context: Cross-review reconstruction/error-correction articles considering curated-mind.md
 
 ### ✓ 2026-03-24: Cross-review quantum mechanism articles considering penrose-gravity-induced-collapse-empirical-prospects.md
 - **Type**: cross-review

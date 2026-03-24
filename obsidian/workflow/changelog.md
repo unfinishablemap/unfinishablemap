@@ -5,6 +5,15 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 05:03 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/curated-mind]]
+- **Word count**: 2091 → 2528 (+437)
+- **Critical issues addressed**: 2 (car analogy disanalogy, presupposition circularity)
+- **Medium issues addressed**: 2 (missing citations, missing cross-links to reconstruction cluster)
+- **Enhancements made**: 6 (car analogy rework, IBE reframing, 3 citations, cross-links to neurological-dissociations + clinical-dissociation + perceptual-failure)
+- **Output**: [[reviews/deep-review-2026-03-24b-curated-mind]]
+
 ## 2026-03-24 04:48 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/curated-mind]]
