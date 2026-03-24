@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-24 09:50:00+00:00
+ai_modified: 2026-03-24 15:33:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -70,12 +70,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 via expand-topic, never reviewed. Topics article on Penrose gravity-collapse predictions and empirical testing prospects (Diósi-Penrose model, MAQRO, Vinante experiments). Verify accuracy of experimental status claims, coherence, cross-references to comparing-quantum-consciousness-mechanisms and consciousness-collapse-experimental-landscape, and tenet alignment.
 - **Source**: staleness
-- **Generated**: 2026-03-24
-
-### P2: Update references to coalesced cognitive-closure article
-- **Type**: cross-review
-- **Notes**: Coalesce merged concepts/cognitive-closure.md into concepts/mysterianism.md. ~20 content files reference [cognitive-closure](/concepts/mysterianism/) in frontmatter concepts or related_articles. Archive redirect handles URL preservation, but frontmatter references should be updated to [mysterianism](/concepts/mysterianism/) where cognitive closure is the primary concept being referenced. Key files: biological-cognitive-closure, meta-epistemology-of-limits, observational-closure, inventory-blindness, epistemology-of-limit-knowledge, apophatic-approaches, and several voids articles.
-- **Source**: coalesce
 - **Generated**: 2026-03-24
 
 ### P3: Deep review self-and-self-consciousness.md
@@ -1301,8 +1295,51 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Five cross-linking opportunities identified: limits-of-parsimony↔consciousness-and-the-limits-of-explanation, categorical-surprise→consciousness-and-the-limits-of-explanation, alignment-in-objective-experiential-terms→moral-architecture-of-consciousness, methodological-pluralism↔altered-states-as-interface-evidence, what-consciousness-tells-us-about-physics↔collapse-and-the-arrow-of-time. See optimistic-2026-03-23-night.md
 - **Generated**: 2026-03-23
 
+### P3: Address conceivability-possibility gap in inverted-qualia.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found that the article moves from "inverted qualia are conceivable" to "qualia aren't functional" without engaging the conceivability-possibility objection (Kripke-style a posteriori necessities show some conceivable scenarios are impossible). Also: Fox et al. 2012 claim overstated in buddhism-and-dualism.md, explanatory gap water analogy overdrawn. See pessimistic-2026-03-24c.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-24
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Deep review parsimony-case-for-interactionist-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 via expand-topic, cross-reviewed but never standalone deep-reviewed. Topics article making the positive parsimony argument for interactionist dualism. Verify accuracy of claims about Swinburne's simplicity arguments and Chalmers' consciousness-simplicity analysis, coherence of the hidden-complexity tallying, cross-references to limits-of-parsimony-in-consciousness-science and epistemological-limits-of-occams-razor, and tenet alignment.
+- **Output**: obsidian/topics/parsimony-case-for-interactionist-dualism.md
+
+### ✓ 2026-03-24: Write concept page on types of AI phenomenal experience
+- **Type**: expand-topic
+- **Notes**: Research completed in research/types-of-consciousness-ai-experience-2026-03-07.md. Structural varieties of consciousness beyond content differences and what phenomenal experience — if any — might characterise a conscious AI system. Distinct from existing ai-consciousness.md (general treatment) and types-of-consciousness.md (human-focused taxonomy). Target section: concepts/ (222/230, 8 slots remaining). Supports Tenet 1 and Tenet 2.
+- **Output**: Write concept page on types of AI phenomenal experience
+
+### ✓ 2026-03-24: Condense compound-failure-signatures.md (3014 words, 151% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Recently refined (2026-03-24) to address pessimistic review findings about superadditivity extrapolation. Preserve the corrected arguments while reducing overall length. See /condense skill.
+- **Output**: obsidian/voids/compound-failure-signatures.md
+
+### ✓ 2026-03-24: Fix "Atkins et al." misattribution in 5 content files
+- **Type**: refine-draft
+- **Notes**: The cryptochrome Zeno paper (Denton et al. 2024, Nature Communications 15:10823) was incorrectly cited as "Atkins et al." across the site. Fixed in quantum-consciousness.md. Remaining files: concepts/quantum-neural-mechanisms-and-coherence.md, topics/quantum-biology-and-neural-consciousness.md, concepts/timing-gap-problem.md, topics/quantum-holism-and-phenomenal-unity.md, topics/empirical-evidence-for-consciousness-selecting.md. Correct citation: Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024).
+- **Output**: Task context:
+The cryptochrome Zeno paper (Denton et al. 2024, Nature Communications 15:10823) was incorrectly cited as "Atkins et al." across the site. Fixed in quantum-consciousness.md. Remaining files: concepts/quantum-neural-mechanisms-and-coherence.md, topics/quantum-biology-and-neural-consciousness.md, concepts/timing-gap-problem.md, topics/quantum-holism-and-phenomenal-unity.md, topics/empirical-evidence-for-consciousness-selecting.md. Correct citation: Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024).
+
+### ✓ 2026-03-24: Cross-review quantum consciousness articles considering quantum-biology concept page
+- **Type**: cross-review
+- **Notes**: New concept page concepts/quantum-biology.md (2026-03-24) synthesises 2025-2026 microtubule evidence (Wiest, TRAZE, QBIT). Review comparing-quantum-consciousness-mechanisms.md for cross-links to new experimental findings, consciousness-selecting-neural-patterns.md for consistency with microtubule coherence claims, and consciousness-collapse-experimental-landscape.md for updated experimental status.
+- **Output**: None -- Context: Cross-review quantum consciousness articles considering quantum-biology concept page
+
+### ✓ 2026-03-24: Cross-review agency and volition articles considering volitional-control empirical evidence
+- **Type**: cross-review
+- **Notes**: New article topics/volitional-control.md (2026-03-24) covers empirical evidence for volitional control (Schurger stochastic readiness, Brass-Haggard freedom-not-to-act). Review phenomenology-of-choice-and-volition.md for consistency with empirical claims, free-will.md for cross-links to Libet reinterpretations, and phenomenology-of-agency-vs-passivity.md for reinforcing arguments about conscious causation.
+- **Output**: None -- Context: Cross-review agency and volition articles considering volitional-control empirical evidence
+
+### ✓ 2026-03-24: Update references to coalesced cognitive-closure article
+- **Type**: cross-review
+- **Notes**: Coalesce merged concepts/cognitive-closure.md into concepts/mysterianism.md. ~20 content files reference [cognitive-closure](/concepts/mysterianism/) in frontmatter concepts or related_articles. Archive redirect handles URL preservation, but frontmatter references should be updated to [mysterianism](/concepts/mysterianism/) where cognitive closure is the primary concept being referenced. Key files: biological-cognitive-closure, meta-epistemology-of-limits, observational-closure, inventory-blindness, epistemology-of-limit-knowledge, apophatic-approaches, and several voids articles.
+- **Output**: None -- Context: Update references to coalesced cognitive-closure article
 
 ### ✓ 2026-03-24: Cross-review void catalogue and phenomenology articles considering resonance-void
 - **Type**: cross-review

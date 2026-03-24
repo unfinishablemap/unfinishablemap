@@ -3227,3 +3227,21 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Six cross-linking opportunities: curated-mind↔phenomenal-acquaintance, agent-causation↔consciousness-value-connection, cognitive-closure↔contemplative-practice, argument-from-reason↔phenomenology-of-intellectual-effort, cross-cultural-convergence↔contemplative-practice, consciousness-evolution-problem↔consciousness-value-connection. See optimistic-2026-03-24.md
 - **Generated**: 2026-03-24
+
+### P3: Write article on honest accounting of dualism's metaphysical costs
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Address the "too metaphysically expensive" objection from philosophers who accept dualist arguments but resist the ontological cost. Builds on interactionist-dualism, objections-to-interactionism, the-convergence-argument-for-dualism. Tenet alignment: Occam's Razor Has Limits. Target section: topics/. See optimistic-2026-03-24-evening.md
+- **Generated**: 2026-03-24
+
+### P3: Write article on enactivism and embodied cognition under interactionism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Show how enactive/embodied tradition's insights can be preserved within the Map's interface framework rather than treated as mere objection. Builds on embodied-cognition, enactivism-challenge-to-interactionist-dualism, sensorimotor-contingencies-and-the-interface. Tenet alignment: Bidirectional Interaction. Target section: topics/. See optimistic-2026-03-24-evening.md
+- **Generated**: 2026-03-24
+
+### P3: Add cross-links from optimistic review 2026-03-24 evening findings
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Five cross-linking opportunities: self-stultification↔contemplative-practice (rational self-trust), dopamine-interface↔volitional-control (mechanism), convergence-argument↔epistemology-of-convergence-arguments (methodology), quantum-holism↔phenomenal-binding-multimodal (mechanism-problem pair), evolutionary-case↔consciousness-threshold (evolutionary thread). See optimistic-2026-03-24-evening.md
+- **Generated**: 2026-03-24

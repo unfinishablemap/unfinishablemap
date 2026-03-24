@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-24 16:34:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -132,7 +132,7 @@ This objection has been substantially weakened. In 2002, Hagan, Hameroff, and Tu
 
 The biological precedent strengthens the case. Avian magnetoreception relies on quantum spin coherence in cryptochrome proteins persisting for microseconds at biological temperatures. Xu et al. (2025) provided computational confirmation through ab initio quantum dynamics simulations. If evolution optimised quantum effects for navigation, quantum effects in neural systems are not inherently implausible.
 
-A gap remains. Even corrected coherence times fall three orders of magnitude short of the ~300ms timescale of conscious decisions. Yet this gap may not matter if the relevant mechanisms involve discrete quantum events rather than sustained superposition. The quantum Zeno approach requires only discrete attentional "observations"—each instantaneous—rather than long-lived coherence. Atkins et al. (2024) demonstrated in *Nature Communications* that the quantum Zeno effect enables magnetosensitivity in cryptochrome radical pairs—the same mechanism proposed for consciousness-brain interaction has a confirmed biological counterpart.
+A gap remains. Even corrected coherence times fall three orders of magnitude short of the ~300ms timescale of conscious decisions. Yet this gap may not matter if the relevant mechanisms involve discrete quantum events rather than sustained superposition. The quantum Zeno approach requires only discrete attentional "observations"—each instantaneous—rather than long-lived coherence. Denton et al. (2024) demonstrated in *Nature Communications* that the quantum Zeno effect enables magnetosensitivity in cryptochrome radical pairs—the same mechanism proposed for consciousness-brain interaction has a confirmed biological counterpart.
 
 Most fundamentally, decoherence does not solve the measurement problem. As Schlosshauer's authoritative 2019 review notes, after decoherence selects preferred bases and suppresses interference, the system remains in a mixture of possible outcomes. Consciousness could participate at this collapse point regardless of prior decoherence.
 
@@ -218,7 +218,7 @@ The Map holds that current evidence favours the quantum position while acknowled
 
 ## References
 
-1. Atkins, C. et al. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 12456.
+1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
 1. Baum, E. The Quantum Binding Argument: How 40Hz Gamma Synchrony Requires Quantum Non-Locality. *PhilArchive*.
 1. Bayne, T. & Chalmers, D. (2003). What is the unity of consciousness? In A. Cleeremans (Ed.), *The Unity of Consciousness*. Oxford University Press.
 1. Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown.

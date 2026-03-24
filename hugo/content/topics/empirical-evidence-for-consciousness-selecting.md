@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-03-21 00:43:00+00:00
+ai_modified: 2026-03-24 16:34:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -164,7 +164,7 @@ The empirical convergence supports all five of the Map's [tenets](/tenets/):
 
 ## References
 
-1. Atkins, C., et al. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 12456.
+1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
 1. Desmurget, M., et al. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811-813.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.

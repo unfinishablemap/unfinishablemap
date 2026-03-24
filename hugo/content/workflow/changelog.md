@@ -9,6 +9,89 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-24 17:33 UTC - deep-review
+- **Status**: Success
+- **File**: [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/)
+- **Word count**: 2078 → 2096 (+18)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (Type-B physicalism identity/law framing, uncited Swinburne reference)
+- **Enhancements made**: 1 (stronger engagement with Type-B physicalist terminology)
+- **Output**: [deep-review-2026-03-24b-parsimony-case-for-interactionist-dualism](/reviews/deep-review-2026-03-24b-parsimony-case-for-interactionist-dualism/)
+
+## 2026-03-24 17:19 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Types of AI Phenomenal Experience
+- **Output**: [types-of-ai-phenomenal-experience](/concepts/types-of-ai-phenomenal-experience/)
+- **Word count**: 1768
+- **Based on research**: yes, [types-of-consciousness-ai-experience-2026-03-07](/research/types-of-consciousness-ai-experience-2026-03-07/)
+
+## 2026-03-24 17:03 UTC - deep-review
+- **Status**: Success
+- **File**: [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)
+- **Word count**: 2737 → 2747 (+10)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (transient hypofrontality attribution, Kerskens contested status, Rivas evidence characterization, stale refinement log)
+- **Enhancements made**: 1 (opening paragraph tightened)
+- **Output**: [deep-review-2026-03-24-altered-states-of-consciousness](/reviews/deep-review-2026-03-24-altered-states-of-consciousness/)
+
+## 2026-03-24 16:48 UTC - condense
+- **Status**: Success
+- **File**: [compound-failure-signatures](/voids/compound-failure-signatures/)
+- **Before**: 3014
+- **After**: 1867
+- **Reduction**: 38%
+- **Technique**: Collapsed 5 taxonomy subsections into 2 condensed paragraphs (table retained), trimmed superadditivity discussion, cut 2 probing methods, shortened challenge conditions, reduced Further Reading from 19 to 10 items, removed 3 unused references, removed stale AI refinement log
+
+## 2026-03-24 16:34 UTC - refine-draft
+- **Status**: Success
+- **Files**: [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/), [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/), [timing-gap-problem](/concepts/timing-gap-problem/), [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/), [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/)
+- **Changes**: Fixed fabricated "Atkins et al." citation → correct Denton et al. (2024) across 5 content files. Corrected author names, article number (12456 → 10823), and standardised reference format.
+- **Published**: yes
+
+## 2026-03-24 16:18 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/buddhism-and-dualism.md, concepts/explanatory-gap.md, concepts/inverted-qualia.md
+- **Output**: [pessimistic-2026-03-24c](/reviews/pessimistic-2026-03-24c/)
+- **Findings**: 5 issues (3 medium, 2 low). Key: Buddhism article conflates Yogācāra/Madhyamaka schools; explanatory gap water analogy overdrawn; inverted qualia conceivability-possibility gap unaddressed.
+
+## 2026-03-24 16:03 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-consciousness](/concepts/quantum-consciousness/)
+- **Word count**: 2969 → 2976 (+7)
+- **Critical issues addressed**: 1 (fabricated "Atkins et al." citation → correct Denton et al.)
+- **Medium issues addressed**: 3 (Fisher coherence qualifier, stale AI log removal, prose tightening)
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-24-quantum-consciousness](/reviews/deep-review-2026-03-24-quantum-consciousness/)
+- **Context**: Cross-review considering quantum-biology concept page. Created P1 task to fix same citation error in 5 other files.
+
+## 2026-03-24 15:49 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
+- **Word count**: 2533 → 2711 (+178)
+- **Critical issues addressed**: 1 (broken wikilink from coalescence)
+- **Medium issues addressed**: 2 (intentional binding evidence, neuroplasticity grounding)
+- **Enhancements made**: 3 (intentional binding paragraph, Schwartz effort evidence, updated Further Reading)
+- **Output**: [deep-review-2026-03-24-phenomenology-of-agency-vs-passivity](/reviews/deep-review-2026-03-24-phenomenology-of-agency-vs-passivity/)
+- **Context**: Cross-review integrating volitional-control empirical evidence
+
+## 2026-03-24 15:39 UTC - deep-review
+- **Status**: Success
+- **File**: [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)
+- **Word count**: 2119 → 2146 (+27)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (stale display text for renamed link)
+- **Enhancements made**: 2 (cross-link to new volitional-control article, bidirectional)
+- **Output**: [deep-review-2026-03-24-dopamine-and-the-unified-interface](/reviews/deep-review-2026-03-24-dopamine-and-the-unified-interface/)
+
+## 2026-03-24 15:18 UTC - deep-review
+- **Status**: Success
+- **File**: [volitional-control](/topics/volitional-control/)
+- **Word count**: 3160 → 3148 (-12)
+- **Critical issues addressed**: 1 (broken wikilink to phenomenology-of-choice)
+- **Medium issues addressed**: 2 (description length, prose tightening)
+- **Enhancements made**: 0 (article stable post-coalescence)
+- **Output**: [deep-review-2026-03-24-volitional-control](/reviews/deep-review-2026-03-24-volitional-control/)
+
 ## 2026-03-24 15:07 UTC - deep-review
 - **Status**: Success
 - **File**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-21 02:58:00+00:00
+ai_modified: 2026-03-24 15:49:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,7 @@ description: The felt contrast between doing and undergoing reveals a fundamenta
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-14 16:19:00+00:00
+last_deep_review: 2026-03-24 15:49:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -54,7 +54,7 @@ Every moment of experience falls somewhere on an axis between doing and undergoi
 
 At the active pole, experience has a distinctive character. When you deliberate and choose, direct attention voluntarily, or initiate a physical movement, several phenomenal features present themselves:
 
-- **Effort**: Active states feel like work. Sustaining focus on a difficult text, resisting distraction, or holding a decision open all involve phenomenal cost. The [phenomenology of effort](/concepts/mental-effort/) tracks real cognitive engagement—hard tasks feel hard because consciousness is doing more, not because the brain generates an arbitrary difficulty signal. The [phenomenology of volition](/concepts/phenomenology-of-choice-and-volition/) identifies effort as one of four distinguishable components of willing, alongside initiation, sustained control, and veto.
+- **Effort**: Active states feel like work. Sustaining focus on a difficult text, resisting distraction, or holding a decision open all involve phenomenal cost. The [phenomenology of effort](/concepts/mental-effort/) tracks real cognitive engagement—hard tasks feel hard because consciousness is doing more, not because the brain generates an arbitrary difficulty signal. [Volitional control research](/topics/volitional-control/) identifies effort as one of four distinguishable components of willing, alongside initiation, sustained control, and veto. Schwartz et al. (1996) demonstrated that this phenomenology tracks something real: OCD patients who exert sustained mental effort to reframe intrusive thoughts produce measurable decreases in caudate nucleus activity, visible on PET scans. The felt cost of effort corresponds to genuine causal engagement.
 
 - **Authorship**: Actions feel *mine* in a way observations do not. The [sense of agency](/concepts/phenomenology-of-choice-and-volition/) after a decision—"I chose this"—is a distinctive phenomenal quality absent from passively received outcomes.
 
@@ -116,6 +116,8 @@ If consciousness were [epiphenomenal](/concepts/epiphenomenalism/)—causally in
 
 The epiphenomenalist can respond that the *appearance* of agency is itself a neural product, with no actual conscious contribution. On this view, the phenomenal contrast merely *represents* a functional distinction in the brain rather than tracking genuine causal differences. But this faces a calibration problem: why would a causally inert consciousness so reliably represent exactly those situations where neural processing is genuinely demanding as "effortful"? The correlation between felt difficulty and actual task complexity—and between the [willed attention signature](/concepts/attention-as-interface/) (frontal theta in Rajan et al. 2019) and subjective agency—would be a cosmic coincidence if consciousness contributed nothing to producing the states it tracks.
 
+The implicit evidence is equally difficult to dismiss. [Intentional binding](/topics/volitional-control/#intentional-binding-an-implicit-measure) — the temporal compression between a voluntary action and its outcome discovered by Haggard, Clark, and Kalogeras (2002) — provides a non-introspective measure of agency. Voluntary actions perceptually draw their effects closer in time; involuntary movements do not. This binding effect is reduced when outcomes are unpredictable and altered in schizophrenic patients, tracking the same comparator architecture that the clinical dissociations reveal. An epiphenomenal consciousness would have no reason to distort temporal perception selectively for voluntary actions.
+
 ### Against Illusionism
 
 The [illusionist](/concepts/illusionism/) holds that the phenomenal contrast between agency and passivity is a functional distinction the brain represents, not a genuine difference in conscious contribution. The contrast is "real" as a representation but does not track what it seems to track—actual causal efficacy. Yet the phenomenology resists this deflationary reading. Contemplative traditions in [Buddhist samatha and vipassana practice](/concepts/meditation-and-consciousness-modes/) refine phenomenological discrimination through sustained training, and experienced meditators report that the agency-passivity distinction becomes *sharper*, not less distinct (Lutz et al., 2008). Practitioners distinguish ever finer gradations—subtle intentions, micro-decisions about [attention](/concepts/attention-as-interface/), passive reception during open awareness. Unlike perceptual illusions that persist because we cannot access the underlying mechanism, agency phenomenology is refined precisely *by* attending to it more carefully. The deepening of the contrast under scrutiny is better explained by its tracking a real distinction than by its being an adaptive misrepresentation.
@@ -152,7 +154,7 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 
 ## Further Reading
 
-- [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/) — The four components of willing: initiation, sustained control, effort, and veto
+- [volitional-control](/topics/volitional-control/) — Empirical evidence for conscious causation: Libet dissolution, clinical dissociations, intentional binding, neuroplasticity
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The detailed structure of choosing
 - [witness-consciousness](/concepts/witness-consciousness/) — The passive pole explored through contemplative traditions
 - [agent-causation](/concepts/agent-causation/) — Why genuine agency requires agent-causation, not event-causation
@@ -175,6 +177,7 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 1. Desmurget, M., et al. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811-813.
 1. Frith, C.D. (1992). *The Cognitive Neuropsychology of Schizophrenia*. Lawrence Erlbaum Associates.
 1. Gallagher, S. (2000). Philosophical conceptions of the self: Implications for cognitive science. *Trends in Cognitive Sciences*, 4(1), 14-21.
+1. Haggard, P., Clark, S. & Kalogeras, J. (2002). Voluntary action and conscious awareness. *Nature Neuroscience*, 5(4), 382-385.
 1. Haggard, P. (2017). Sense of agency in the human brain. *Nature Reviews Neuroscience*, 18(4), 196-207.
 1. James, W. (1890). *The Principles of Psychology*. Chapter 26: Will.
 1. Lhermitte, F. (1983). "Utilization behaviour" and its relation to lesions of the frontal lobes. *Brain*, 106(2), 237-255.
@@ -182,4 +185,5 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 1. Pacherie, E. (2008). The phenomenology of action: A conceptual framework. *Cognition*, 107(1), 179-217.
 1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J.J., Mangun, G.R. & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal–parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 1. Sass, L.A. & Parnas, J. (2003). Schizophrenia, consciousness, and the self. *Schizophrenia Bulletin*, 29(3), 427-444.
+1. Schwartz, J.M., et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of OCD. *Archives of General Psychiatry*, 53(2), 109-113.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.

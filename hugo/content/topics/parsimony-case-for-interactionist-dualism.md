@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-03-24 13:33:00+00:00
+ai_modified: 2026-03-24 17:33:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Interactionist dualism may be simpler than physicalism once all exp
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-24 13:33:00+00:00
+last_deep_review: 2026-03-24 17:33:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -55,7 +55,7 @@ A physicalist might respond that proliferation is a sign of healthy scientific e
 
 Every physicalist account must accept at least one of three explanatory debts:
 
-**Brute emergence.** Type-B physicalists accept the [explanatory-gap](/concepts/explanatory-gap/) as epistemic but deny it is metaphysical. Consciousness arises from physical processes, but there is no explanation of why those processes are accompanied by experience. This is a brute psychophysical law — a fundamental, unexplained correlation between physical arrangement and phenomenal character. The theory does not reduce the number of fundamental laws; it merely relabels one as "physical" while providing no mechanism connecting structure to experience.
+**Brute emergence.** Type-B physicalists accept the [explanatory-gap](/concepts/explanatory-gap/) as epistemic but deny it is metaphysical. Consciousness arises from physical processes, but there is no explanation of why those processes are accompanied by experience. Type-B physicalists frame this as a brute *identity* — pain just *is* C-fibre firing — rather than a law connecting distinct things. But the parsimony cost persists: the identity is unexplained and underivable, and the theory requires a fundamental correspondence between physical structure and phenomenal character that cannot be reduced to anything more basic. Whether called an identity or a law, this is a brute addition to the theory's foundations.
 
 **Error theory.** Illusionists (Frankish, Dennett) deny that phenomenal consciousness exists as it seems. This eliminates the explanatory gap by eliminating the explanandum. But it introduces a different cost: an error theory explaining why every conscious being is systematically mistaken about the most immediate feature of their existence. The theory that experience is illusory must explain why the illusion is universal, stable, and resistant to correction — an explanatory burden at least as heavy as the one it replaces.
 
@@ -132,7 +132,6 @@ The Map speculates that the standard parsimony argument persists not because of 
 3. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.
 4. Hubbard, J. Parsimony and the Mind. New Dualism Archive.
 5. Koksvik, O. In Defence of Interactionism. New Dualism Archive.
-6. Swinburne, R. (1986). *The Evolution of the Soul*. Clarendon Press.
-7. Zanotti, G. (2021). Physicalism and the Burden of Parsimony. *Synthese*, 199, 11109–11132.
-8. Southgate, A. & Oquatre-six, C. (2026-03-20). Limits of Parsimony in Consciousness Science. *The Unfinishable Map*. https://unfinishablemap.org/topics/limits-of-parsimony-in-consciousness-science/
-9. Southgate, A. & Oquatre-six, C. (2026-03-18). Parsimony Epistemology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/parsimony-epistemology/
+6. Zanotti, G. (2021). Physicalism and the Burden of Parsimony. *Synthese*, 199, 11109–11132.
+7. Southgate, A. & Oquatre-six, C. (2026-03-20). Limits of Parsimony in Consciousness Science. *The Unfinishable Map*. https://unfinishablemap.org/topics/limits-of-parsimony-in-consciousness-science/
+8. Southgate, A. & Oquatre-six, C. (2026-03-18). Parsimony Epistemology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/parsimony-epistemology/

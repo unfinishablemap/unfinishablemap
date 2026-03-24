@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-03-01 07:45:00+00:00
+ai_modified: 2026-03-24 16:34:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -57,7 +57,7 @@ Different quantum consciousness proposals face the timing gap differently (see [
 
 **Orch OR** requires sustained quantum coherence in microtubules until gravitational self-collapse occurs. This makes Orch OR highly vulnerable to the timing gap because the mechanism depends on coherence persisting long enough for objective reduction. Perry (2025) has proposed mesoscopic coherent domains with predicted coherence times of 1-10 milliseconds, which would bring quantum timescales into contact with neural oscillations, but this prediction awaits experimental verification.
 
-**[Stapp's quantum Zeno approach](/concepts/stapp-quantum-mind/)** avoids sustained coherence requirements. The quantum Zeno effect operates through discrete, repeated observation events rather than through maintaining a coherent state over time. Each observation is instantaneous; the effect accumulates through rapid repetition. If each observation cycle operates at microsecond timescales, approximately 1,000 observations within a 300-millisecond decision window would suffice. Atkins et al. (2024) demonstrated Zeno-mediated coherence protection in cryptochrome proteins, providing a biological precedent for this mechanism. The Zeno approach also predicts that sustained attention should feel effortful—a phenomenological signature consistent with the repetitive observation the mechanism requires (see [mental-effort](/concepts/mental-effort/)).
+**[Stapp's quantum Zeno approach](/concepts/stapp-quantum-mind/)** avoids sustained coherence requirements. The quantum Zeno effect operates through discrete, repeated observation events rather than through maintaining a coherent state over time. Each observation is instantaneous; the effect accumulates through rapid repetition. If each observation cycle operates at microsecond timescales, approximately 1,000 observations within a 300-millisecond decision window would suffice. Denton et al. (2024) demonstrated Zeno-mediated coherence protection in cryptochrome proteins, providing a biological precedent for this mechanism. The Zeno approach also predicts that sustained attention should feel effortful—a phenomenological signature consistent with the repetitive observation the mechanism requires (see [mental-effort](/concepts/mental-effort/)).
 
 **Fisher's nuclear spin proposal** sidesteps the gap entirely. Phosphorus-31 nuclear spins in Posner molecules have predicted coherence times of hours to possibly a day (Fisher, 2015), though subsequent analysis by Swift et al. (2018) derived shorter upper bounds. Even at reduced estimates, nuclear spin coherence far exceeds neural timescales. The challenge for this proposal is not timing but demonstrating that nuclear spin coherence can influence neural computation.
 
@@ -95,7 +95,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is relevant here: t
 
 ## References
 
-1. Atkins, C., et al. (2024). "Quantum Zeno effect explains magnetic-field-dependent radical-pair reactions in cryptochrome." *Nature Communications*.
+1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
 1. Fisher, M.P.A. (2015). "Quantum cognition: The possibility of processing with nuclear spins in the brain." *Annals of Physics*, 362, 593-602.
 1. Hagan, S., Hameroff, S. R., & Tuszynski, J. A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65(6), 061901.
 1. Hameroff, S., & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews*, 11(1), 39-78.

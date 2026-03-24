@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-04
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-24 15:39:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Dopamine serves both attention and motor systems because these syst
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-01 13:54:00+00:00
+last_deep_review: 2026-03-24 15:39:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -163,7 +163,7 @@ Parkinson's disease, with its progressive dopamine depletion, provides a window 
 
 **Preserved reflexes**: Automatic movements intact. Only willed action impaired.
 
-The selectivity is telling. Parkinson's doesn't disable movement—it disables willed movement. The motor circuitry works; the selection interface that engages that circuitry is compromised. See [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/) for what progressive dopamine loss reveals about the mind-brain relationship more broadly.
+The selectivity is telling. Parkinson's doesn't disable movement—it disables willed movement. The motor circuitry works; the selection interface that engages that circuitry is compromised. This dissociation between volitional and automatic action is central to the broader case for [volitional control as genuine causal influence](/topics/volitional-control/). See [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/) for what progressive dopamine loss reveals about the mind-brain relationship more broadly.
 
 ### External Cues as Bypass
 
@@ -219,7 +219,8 @@ What dopamine research provides is a candidate locus and a constraint: whatever 
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum mechanisms for consciousness-brain interaction
 - [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/) — What progressive dopamine loss reveals about the mind-brain relationship
 - [the-interface-location-problem](/topics/the-interface-location-problem/) — Where in the brain the selection interface operates
-- [phenomenology of flow states](/topics/consciousness-and-skill-acquisition/) — When dopamine-prepared selection meets no resistance
+- [volitional-control](/topics/volitional-control/) — Why the willed/automatic dissociation matters for dualism
+- [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) — When dopamine-prepared selection meets no resistance
 
 ## References
 

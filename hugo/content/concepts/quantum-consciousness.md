@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-03-21 00:12:00+00:00
+ai_modified: 2026-03-24 16:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,7 +28,7 @@ description: 'How consciousness might interact with quantum mechanics: Orch OR m
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-01 01:07:00+00:00
+last_deep_review: 2026-03-24 16:03:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -85,7 +85,7 @@ Stapp uses orthodox quantum mechanics—no new physics required. The quantum Zen
 - **Discrete, not sustained**: Unlike Orch OR, the Zeno mechanism operates through discrete observation cycles, not continuous coherence—sidestepping the decoherence timing gap entirely
 - **Attention as interface**: The [attention-consciousness dissociation](/concepts/attention-as-interface/) (Koch & Tsuchiya) shows attention is the mechanism consciousness uses, not consciousness itself
 - **Phenomenological match**: James documented that "sustained voluntary attention is a repetition of successive efforts"—exactly what the Zeno mechanism predicts
-- **Biological precedent**: Atkins et al. (2024) demonstrated quantum Zeno protection in cryptochrome radical pairs—the first evidence that biological systems use this effect
+- **Biological precedent**: Denton et al. (2024) demonstrated quantum Zeno protection in cryptochrome radical pairs—the first evidence that biological systems use this effect
 
 The [premotor theory of attention](/concepts/attention-as-interface/) unifies attention and motor control under this framework. Both show frontal theta oscillations, ~300ms deployment, distinct willed-vs-instructed signatures, and effortful phenomenology. Two domains with identical selection architecture strengthens the case.
 
@@ -95,17 +95,17 @@ The [luck objection](/concepts/luck-objection/)—that quantum indeterminacy is 
 
 **Proponent**: Matthew Fisher (physicist, UCSB)
 
-Fisher's 2015 proposal operates at nuclear rather than electronic scales. Phosphorus-31 nuclear spins in Posner molecules (calcium phosphate clusters) could maintain coherence for ~10⁵ seconds—over a day—because nuclear spins couple weakly to their environment.
+Fisher's 2015 proposal operates at nuclear rather than electronic scales. Phosphorus-31 nuclear spins in Posner molecules (calcium phosphate clusters) could maintain coherence for extended periods—estimates range from ~37 minutes (Player & Hore) to hours or days (Fisher's ~10⁵ seconds)—because nuclear spins couple weakly to their environment.
 
 The mechanism: enzymatic reactions create entangled phosphate pairs; these incorporate into separate Posner molecules; when the molecules enter neurons and release calcium, the correlated patterns influence neural activity.
 
 **Testable predictions**: Lithium-6 and lithium-7 (different nuclear spins) should affect cognition differently. Preliminary evidence shows lithium isotope effects in rat behavior.
 
-This offers a potential route around the decoherence challenge through nuclear spin isolation rather than electronic protection mechanisms.
+This offers a route around the decoherence challenge through nuclear spin isolation rather than electronic protection.
 
 ## Protective Mechanisms for Quantum Coherence
 
-The decoherence objection assumed biological systems are too warm and wet for quantum effects. Proposed protective mechanisms challenge this: hydrophobic microtubule interiors, metabolic energy pumping (Fröhlich coherence), nuclear spin isolation (Fisher's ~10⁵ second coherence), and ordered cytoplasm structure. Hagan et al.'s theoretical estimates, accounting for these mechanisms, extend coherence times from Tegmark's 10⁻¹³ seconds to 10⁻⁵ seconds (seven orders of magnitude). However, these revised estimates assume near-perfect shielding from thermal noise—an assumption most condensed matter physicists regard as optimistic—and 10⁻⁵ seconds is still three orders of magnitude shorter than the ~300ms timescale of neural decisions.
+The decoherence objection assumed biological systems are too warm and wet for quantum effects. Proposed protective mechanisms challenge this: hydrophobic microtubule interiors, metabolic energy pumping (Fröhlich coherence), nuclear spin isolation, and ordered cytoplasm structure. Hagan et al.'s theoretical estimates extend coherence times from Tegmark's 10⁻¹³ seconds to 10⁻⁵ seconds (seven orders of magnitude), though these assume near-perfect thermal shielding—an assumption most condensed matter physicists regard as optimistic—and 10⁻⁵ seconds remains three orders of magnitude shorter than ~300ms neural decisions.
 
 ## The Decoherence Challenge
 
@@ -123,7 +123,7 @@ This is a separate challenge. Even granting that the measurement problem leaves 
 
 **Discrete vs. sustained coherence matters.** The decoherence objection bites hardest against mechanisms requiring sustained superposition (like Orch OR). Several mechanisms instead operate through discrete quantum events—synaptic tunneling, ion channel tunneling, and Stapp's Zeno effect—which sidestep the timing gap because each event is instantaneous. However, even discrete mechanisms require coherent quantum states to act upon; if decoherence destroys superposition in femtoseconds, the question is whether any superposed states survive long enough to be selected. See [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) for five distinct mechanisms spanning this spectrum.
 
-**The Zeno alternative.** Stapp's mechanism operates through discrete observation cycles, not sustained coherence. **A critical assumption**: this requires that observations remain effective despite intervening decoherence—a point that requires empirical verification. Each observation "resets" the quantum state; the accumulated effect biases outcomes. If decoherence occurs at microseconds and observations at milliseconds, ~1000 observations per 300ms window suffices—rapid but not requiring continuous coherence. Atkins et al.'s demonstration of biological Zeno effects in cryptochrome is consistent with this picture, but the neural case remains undemonstrated.
+**The Zeno alternative.** Stapp's mechanism operates through discrete observation cycles, not sustained coherence. **A critical assumption**: this requires that observations remain effective despite intervening decoherence—a point that requires empirical verification. Each observation "resets" the quantum state; the accumulated effect biases outcomes. If decoherence occurs at microseconds and observations at milliseconds, ~1000 observations per 300ms window suffices—rapid but not requiring continuous coherence. Denton et al.'s demonstration of biological Zeno effects in cryptochrome is consistent with this picture, but the neural case remains undemonstrated.
 
 ## What These Theories Share
 
@@ -238,7 +238,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 
 ## References
 
-1. Atkins, C., et al. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 12456.
+1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
 1. Baum, E. B. (2004). *What Is Thought?* MIT Press.
 1. Escolà-Gascón, Á. (2025). Evidence of quantum-entangled higher states of consciousness. *Computational and Structural Biotechnology Journal*, 30, 21-40.
 1. Fisher, M.P.A. (2015). Quantum cognition. *Annals of Physics*, 362, 593-602.
@@ -252,18 +252,3 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 1. Tegmark, M. (2000). Quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. Tomaz, A. A., Mattos, R. S., & Barbatti, M. (2025). The quantum measurement problem: A review of recent trends. *Philosophical Magazine*.
 1. Wiest, O. et al. (2025). A quantum microtubule substrate of consciousness. *Neuroscience of Consciousness*, 2025(1).
-
-<!-- AI REFINEMENT LOG - 2026-03-21
-Changes made:
-- Decoherence Challenge: split into two subsections—"The Philosophical Question" (measurement problem remains open regardless of neural coherence) and "The Empirical Question" (can specific mechanisms operate in brains?)—to eliminate the bait-and-switch conflation identified in pessimistic review
-- Discrete events circularity: added explicit acknowledgment that even discrete mechanisms require coherent states to act upon, addressing the reviewer's "escape route" critique
-- Protective Mechanisms: added context that Hagan et al.'s estimates assume near-perfect thermal shielding (contested) and that 10⁻⁵s is still 3 orders of magnitude short of neural timescales
-- What These Theories Share: reframed shared claims as theoretical commitments rather than established facts ("is proposed to affect" instead of "affects")
-- Falsifiability: replaced "Current evidence runs against these possibilities" with acknowledgment that each has active research programmes
-- Entanglement evidence: softened Kerskens-Pérez from "indicating" to "consistent with" entanglement; noted Escolà-Gascón awaits replication
-- Biology precedent: added caveat that quantum biology precedents involve specialised molecular systems, not large-scale neural coherence
-
-Based on pessimistic review pessimistic-2026-03-20-e.md, Issue 1 (high severity) plus language improvements.
-
-This log should be removed after human review.
--->

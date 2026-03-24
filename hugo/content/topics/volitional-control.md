@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-03-24 14:14:00+00:00
+ai_modified: 2026-03-24 15:18:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -12,7 +12,7 @@ concepts:
 - '[[mental-causation]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[interactionist-dualism]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[phenomenology]]'
 - '[[attention-as-interface]]'
 - '[[consciousness-selecting-neural-patterns]]'
@@ -22,13 +22,12 @@ concepts:
 - '[[causal-closure]]'
 created: 2026-03-20
 date: &id001 2026-03-24
-description: 'Phenomenological structure and empirical evidence converge on a single
-  conclusion: the experience of willing tracks real causal architecture, not post-hoc
-  confabulation, favouring interactionist dualism over epiphenomenalism.'
+description: The experience of willing tracks real causal architecture, not post-hoc
+  confabulation. Phenomenology and empirical evidence converge against epiphenomenalism.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-24 15:18:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -51,7 +50,7 @@ When you decide to raise your hand, something happens that neuroscience has spen
 
 Libet et al. (1983) asked subjects to flex their wrist whenever they felt like it while watching a clock. The readiness potential (RP) — a slow negative EEG shift in premotor cortex — began approximately 550 milliseconds before movement, while subjects reported conscious awareness of their intention only around 200 milliseconds before movement. The gap of roughly 350 milliseconds was widely interpreted as proof that the brain decides before consciousness knows about it.
 
-This interpretation rested on treating the RP as an unconscious decision signal. Schurger, Sitt, and Dehaene (2012) dismantled that assumption. Their accumulator model showed that the RP's shape and timing are exactly what would be expected from ongoing stochastic fluctuations in neural activity — random noise drifting toward a motor threshold — rather than a goal-directed preparatory process. In Libet's paradigm, where subjects must eventually move but choose the moment, premotor activity hovers near threshold. Random fluctuations determine when the threshold is crossed. Their "Libetus interruptus" variant confirmed the prediction: when subjects were unexpectedly interrupted, their neural activity was already near threshold on trials where they would have moved soon.
+This interpretation rested on treating the RP as an unconscious decision signal. Schurger, Sitt, and Dehaene (2012) dismantled that assumption. Their accumulator model showed that the RP's shape and timing are exactly what would be expected from ongoing stochastic fluctuations in neural activity — random noise drifting toward a motor threshold — rather than a goal-directed preparatory process. In Libet's paradigm — subjects must eventually move but choose the moment — premotor activity hovers near threshold, and random fluctuations determine when it is crossed. Their "Libetus interruptus" variant confirmed the prediction: when subjects were unexpectedly interrupted, neural activity was already near threshold on trials where they would have moved soon.
 
 Sjöberg's 2024 analysis of patients who have had the supplementary motor area (SMA) resected — the very region generating the readiness potential — provides independent confirmation. These patients retained their subjective sense of willing while losing voluntary movement execution. Automatic movements like walking remained intact. If the RP were the neural signature of genuine volition, removing its source should impair the experience of willing. It does not.
 
@@ -114,7 +113,7 @@ Critics have objected that the veto itself must be unconsciously initiated, gene
 
 The sense of agency is not only available through introspective report. Haggard, Clark, and Kalogeras (2002) discovered intentional binding — a temporal compression between a voluntary action and its outcome. When subjects press a button voluntarily and hear a tone 250 milliseconds later, they perceive the action as occurring later and the tone as occurring earlier than their actual times. The perceived interval shrinks. This compression does not occur for involuntary movements produced by transcranial magnetic stimulation.
 
-Intentional binding provides an implicit, non-introspective measure of the sense of agency. Moore and Obhi (2012) reviewed a decade of binding research and concluded that the effect tracks the operation of agency mechanisms — particularly the predictive (efference-copy) component — rather than post-hoc inference about authorship. The effect is reduced when outcomes are unpredictable (Wolpe et al., 2013) and altered in schizophrenic patients (Voss et al., 2010), consistent with the same comparator dysfunction that produces delusions of control. These convergences between an implicit timing measure and the comparator model strengthen the case that the phenomenology of agency reflects real computational processes.
+Intentional binding provides an implicit, non-introspective measure of the sense of agency. Moore and Obhi (2012) reviewed a decade of binding research and concluded that the effect tracks the operation of agency mechanisms — particularly the predictive (efference-copy) component — rather than post-hoc inference about authorship. The effect is reduced when outcomes are unpredictable (Wolpe et al., 2013) and altered in schizophrenic patients (Voss et al., 2010), consistent with the comparator dysfunction that produces delusions of control — converging evidence that the phenomenology of agency reflects real computational processes.
 
 ## Directed Effort and Neuroplasticity
 
@@ -159,6 +158,7 @@ The **[Occam's Razor Has Limits](/tenets/#occams-limits)** tenet is directly rel
 - [agent-causation](/concepts/agent-causation/) — The concept of agent causation
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The consciousness-selecting hypothesis
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the primary consciousness-brain interface
+- [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Dopamine's preparatory role in the selection interface
 
 ## References
 
