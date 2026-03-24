@@ -9,6 +9,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-24 07:18 UTC - deep-review
+- **Status**: Success
+- **File**: [skill-delegation](/concepts/skill-delegation/)
+- **Word count**: 1989 → 1989 (+0)
+- **Critical issues addressed**: 0 (none found — 4th review confirms convergence)
+- **Medium issues addressed**: 0 (Tulving characterization acknowledged as acceptable)
+- **Enhancements made**: 0 (article fully converged)
+- **Output**: [deep-review-2026-03-24-skill-delegation](/reviews/deep-review-2026-03-24-skill-delegation/)
+
+## 2026-03-24 07:03 UTC - deep-review
+- **Status**: Success
+- **File**: [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/)
+- **Word count**: 2907 → 2920 (+13)
+- **Critical issues addressed**: 0 (none found — 4th review with zero critical issues)
+- **Medium issues addressed**: 1 (added Konkoly 2026 methodological caveat)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-24-lucid-dreaming-and-dualist-rendering](/reviews/deep-review-2026-03-24-lucid-dreaming-and-dualist-rendering/)
+
 ## 2026-03-24 06:48 UTC - coalesce
 - **Status**: Success
 - **Sources**: [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/), [born-rule-interpretation-invariance-consciousness](/topics/born-rule-and-the-consciousness-interface/)
