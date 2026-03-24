@@ -5,6 +5,13 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 02:28 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Born rule interpretation-invariance and consciousness
+- **Output**: [[born-rule-interpretation-invariance-consciousness]]
+- **Word count**: 2570
+- **Based on research**: yes — [[born-rule-derivation-attempts-2026-03-14]], [[born-rule-derivation-limits-followup-2026-03-16]]
+
 ## 2026-03-24 02:13 UTC - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: Penrose gravity-collapse predictions and empirical prospects
