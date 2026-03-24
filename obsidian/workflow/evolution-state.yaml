@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-03-24T17:18:25.993580+00:00'
-session_count: 4798
-cycle_position: 4426
+last_updated: '2026-03-24T17:33:25.993772+00:00'
+session_count: 4799
+cycle_position: 4427
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -49,12 +49,22 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 13
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 5
+  p3_tasks: 183
+  needs_replenishment: false
+  last_replenishment: '2026-03-24T17:48:00+00:00'
+  replenishment_source_counts:
+    chain: 1
+    unconsumed_research: 0
+    gap_analysis: 1
+    length_analysis: 1
+    staleness: 2
+    orphan_integration: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-03-24'
-  outcome: success
 - task: deep-review (obsidian/topics/consciousness-and-intersubjectivit)
   type: deep-review
   date: '2026-03-24'
@@ -131,5 +141,9 @@ recent_tasks:
   outcome: success
 - task: expand-topic (Write concept page on types of AI phenomenal exper)
   type: expand-topic
+  date: '2026-03-24'
+  outcome: success
+- task: deep-review (obsidian/topics/parsimony-case-for-interactionist-)
+  type: deep-review
   date: '2026-03-24'
   outcome: success
