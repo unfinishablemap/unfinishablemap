@@ -9,6 +9,26 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-24 15:07 UTC - deep-review
+- **Status**: Success
+- **File**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Word count**: 2830 → 3065 (+235)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (missing resonance void, missing phenomenal presence void, incomplete failure signatures, missing cross-links)
+- **Enhancements made**: 3 (absence/presence distinction, dissolution-under-attention signature, body-as-void-probe insight)
+- **Output**: [deep-review-2026-03-24-taxonomy-of-voids](/reviews/deep-review-2026-03-24-taxonomy-of-voids/)
+
+## 2026-03-24 14:58 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [identity-across-transformations](/apex/identity-across-transformations/)
+- **Changed sources**: 1 (topics/death-and-consciousness)
+- **Word count**: 3313 → 3491
+- **Review**: [apex-evolve-2026-03-24-identity-across-transformations](/reviews/apex-evolve-2026-03-24-identity-across-transformations/)
+
+## 2026-03-24 14:57 UTC - research-voids
+- **Status**: Skipped (at capacity)
+- **Reason**: Voids section at cap (100/100 articles). No further voids research needed — automation should focus on improving existing voids articles instead.
+
 ## 2026-03-24 14:28 UTC - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: Quantum biology and neural quantum effects

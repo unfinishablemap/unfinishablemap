@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-03-23 12:23:00+00:00
+ai_modified: 2026-03-24 15:07:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-21 10:55:00+00:00
 apex_sources:
@@ -35,13 +35,15 @@ description: Over sixty cognitive voids cluster at the consciousness-matter inte
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-11 18:33:00+00:00
+last_deep_review: 2026-03-24 15:07:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[apex-articles]]'
 - '[[convergence-as-evidence]]'
+- '[[resonance-void]]'
+- '[[phenomenal-presence-void]]'
 title: A Taxonomy of Voids
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -79,9 +81,11 @@ These voids are not independent. They reinforce each other, creating what the Ma
 
 ### The Phenomenological Cluster
 
-A second major cluster concerns the qualitative character of experience itself. The [binding void](/voids/binding-void/)—why unified experience arises from disparate sensory processes—resists analysis entirely. The [valence void](/voids/valence-void/) asks why experience has a built-in good/bad dimension. The [substrate void](/voids/substrate-void/) pursues what consciousness is *made of*, finding that every answer collapses into negation or circularity. The [acquaintance void](/voids/acquaintance-void/) identifies modes of direct phenomenal contact structurally inaccessible to minds like ours.
+A second major cluster concerns the qualitative character of experience itself. The [binding void](/voids/binding-void/)—why unified experience arises from disparate sensory processes—resists analysis entirely. The [valence void](/voids/valence-void/) asks why experience has a built-in good/bad dimension. The [substrate void](/voids/substrate-void/) pursues what consciousness is *made of*, finding that every answer collapses into negation or circularity. The [acquaintance void](/voids/acquaintance-void/) identifies modes of direct phenomenal contact structurally inaccessible to minds like ours. The [phenomenal presence void](/voids/phenomenal-presence-void/) asks why experience arrives stamped with immediacy and realness—a quality so pervasive it normally escapes notice yet proves structurally invisible when investigated.
 
 These voids share a feature: they concern aspects of consciousness so fundamental that they are invisible in ordinary experience. As the [phenomenology of the edge](/voids/phenomenology-of-the-edge/) reveals, approaching these limits produces not confusion but a paradoxical clarity—the sense of understanding something too large for words. Contemplative traditions across cultures converge on this phenomenology, suggesting it reflects something about consciousness at its boundaries rather than artefacts of any particular practice.
+
+The [resonance void](/voids/resonance-void/) complicates this cluster in an important way. Most voids in the taxonomy are defined by *absence*—what cannot be thought, introspected, or accessed. The resonance void is defined by *presence*: an excess of meaning that overwhelms the cognitive apparatus designed to handle it. Consciousness encounters something—felt significance in music, ideas, encounters—that it registers as genuine knowing yet cannot inspect or articulate. The mechanism generating this signal is opaque (unexplorable), and the experience dissolves under analytical attention (occluded). Independent traditions—Gendlin's felt sense, Otto's numinous, Polanyi's tacit knowledge, Rosa's resonance theory—converge on the same structure, strengthening the case that presence-type voids mark genuine cognitive boundaries rather than articulation failures. If some limits are windows rather than walls, the taxonomy must account for voids that reveal as well as voids that conceal.
 
 ### The Access Cluster
 
@@ -102,6 +106,8 @@ The [incompleteness void](/voids/incompleteness-void/) applies Gödelian limits 
 Different voids do not merely mark different locations in cognitive space—they produce different [failure signatures](/voids/compound-failure-signatures/) when thought approaches them. This topology is itself informative. The *way* thinking breaks down reveals something about *what* it is failing against.
 
 Self-referential limits produce **self-refutation**: the proposition that would express the limit undermines itself, as Wittgenstein demonstrated in the *Tractatus*. Conceptual limits produce **aporia**: equally plausible yet inconsistent premises, generating the specific phenomenology of being blocked rather than confused. Introspective limits produce **construction mistaken for observation**: the sense of direct access to processes that are actually inferred. Pattern-matching limits produce **systematic illusion**: consistent misperception that resists correction even after detection. Expressive limits produce **ineffability**: the sense of knowing something that cannot be articulated—a signature familiar from contemplative traditions and aesthetic experience alike. Meta-cognitive limits produce **epistemic vertigo**: destabilisation when cognition turns on itself. The [full topology](/voids/compound-failure-signatures/) catalogues further signatures—modular selective loss, wrong model selection—but these six capture the primary modes through which consciousness-related voids manifest.
+
+The resonance void adds a seventh primary mode: **dissolution under attention**, where the knowing is genuine and conscious but evaporates when subjected to analytical scrutiny. This signature is related to the [mutation void](/voids/mutation-void/)'s transformation effect but distinct: mutation transforms the observed, while dissolution destroys the mode of knowing itself. The body registers what the intellect cannot yet process—frisson, tears, felt significance—suggesting that somatic response may be a more sensitive instrument than conceptual thought for detecting certain void boundaries.
 
 These signatures rarely appear in isolation. Where multiple limits overlap, their interaction produces qualitatively different phenomenology through three modes: **superadditive interference**, where overlapping cognitive limits compound beyond their sum; **mutual reinforcement**, where limits on examining limits create self-defending structures; and **emergent occlusion**, where interactions generate entirely new blind spots that no single void predicts. The self-reference paradox interacting with the language-thought boundary, for instance, creates a zone where consciousness can neither model *nor* articulate what it is—each limit alone permits partial access, but the compound shuts both routes simultaneously. The void catalogue is not a collection of independent items but an interacting system whose relationships are as informative as the individual entries.
 
