@@ -156,6 +156,7 @@ The **[[tenets#^occams-limits|Occam's Razor Has Limits]]** tenet is directly rel
 - [[agent-causation]] — The concept of agent causation
 - [[consciousness-selecting-neural-patterns]] — The consciousness-selecting hypothesis
 - [[attention-as-interface]] — Attention as the primary consciousness-brain interface
+- [[dopamine-and-the-unified-interface]] — Dopamine's preparatory role in the selection interface
 
 ## References
 

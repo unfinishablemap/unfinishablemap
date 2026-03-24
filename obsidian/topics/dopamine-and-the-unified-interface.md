@@ -4,7 +4,7 @@ description: "Dopamine serves both attention and motor systems because these sys
 created: 2026-02-04
 modified: 2026-02-04
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-24T15:39:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -23,7 +23,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-04
 last_curated: null
-last_deep_review: 2026-03-01T13:54:00+00:00
+last_deep_review: 2026-03-24T15:39:00+00:00
 ---
 
 Why does one molecule—dopamine—mediate both the anticipation of reward and the initiation of movement? The standard answer treats this as evolutionary convenience: wanting and pursuing typically go together, so coupling them is efficient. The Unfinishable Map proposes a deeper explanation: dopamine serves both functions because attention and motor planning are the same system, and dopamine prepares this unified system for conscious selection rather than performing the selection itself.
@@ -161,7 +161,7 @@ Parkinson's disease, with its progressive dopamine depletion, provides a window 
 
 **Preserved reflexes**: Automatic movements intact. Only willed action impaired.
 
-The selectivity is telling. Parkinson's doesn't disable movement—it disables willed movement. The motor circuitry works; the selection interface that engages that circuitry is compromised. See [[consciousness-and-neurodegenerative-disease]] for what progressive dopamine loss reveals about the mind-brain relationship more broadly.
+The selectivity is telling. Parkinson's doesn't disable movement—it disables willed movement. The motor circuitry works; the selection interface that engages that circuitry is compromised. This dissociation between volitional and automatic action is central to the broader case for [[volitional-control|volitional control as genuine causal influence]]. See [[consciousness-and-neurodegenerative-disease]] for what progressive dopamine loss reveals about the mind-brain relationship more broadly.
 
 ### External Cues as Bypass
 
@@ -217,7 +217,8 @@ What dopamine research provides is a candidate locus and a constraint: whatever 
 - [[quantum-consciousness]] — Quantum mechanisms for consciousness-brain interaction
 - [[consciousness-and-neurodegenerative-disease]] — What progressive dopamine loss reveals about the mind-brain relationship
 - [[the-interface-location-problem]] — Where in the brain the selection interface operates
-- [[consciousness-and-skill-acquisition|phenomenology of flow states]] — When dopamine-prepared selection meets no resistance
+- [[volitional-control]] — Why the willed/automatic dissociation matters for dualism
+- [[consciousness-and-skill-acquisition]] — When dopamine-prepared selection meets no resistance
 
 ## References
 
