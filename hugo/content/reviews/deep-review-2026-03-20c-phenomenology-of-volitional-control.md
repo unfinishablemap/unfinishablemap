@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-20
-**Article**: [Phenomenology of Volitional Control](/topics/phenomenology-of-volitional-control/)
+**Article**: [Phenomenology of Volitional Control](/topics/volitional-control/)
 **Previous review**: [2026-03-20b](/reviews/deep-review-2026-03-20b-phenomenology-of-volitional-control/)
 **Context**: Orphan integration — article had no inbound links
 

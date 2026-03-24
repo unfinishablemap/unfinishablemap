@@ -49,14 +49,14 @@ topics: []
 - Added inline void definition in second paragraph for accessibility
 - Connected self-location problem to [indexical-void](/voids/indexical-void/)
 - Added [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) reference in phenomenology section
-- Changed [mysterianism](/concepts/mysterianism/) link to [cognitive-closure](/concepts/cognitive-closure/) (more precise concept)
+- Changed [mysterianism](/concepts/mysterianism/) link to [cognitive-closure](/concepts/mysterianism/) (more precise concept)
 - Added [ai-as-void-explorer](/voids/ai-as-void-explorer/) connection in AI section
 - Expanded Further Reading with three new entries
 - Integrated Perry citation into text
 
 ### Cross-links Added
 - [indexical-void](/voids/indexical-void/)
-- [cognitive-closure](/concepts/cognitive-closure/)
+- [cognitive-closure](/concepts/mysterianism/)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
 - [ai-as-void-explorer](/voids/ai-as-void-explorer/)
 

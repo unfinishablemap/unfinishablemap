@@ -62,7 +62,7 @@ No new counterarguments warranted engagement.
 - Added 4 articles to related_articles frontmatter
 
 ### Cross-links Added
-- [phenomenology-of-volitional-control](/topics/phenomenology-of-volitional-control/)
+- [phenomenology-of-volitional-control](/topics/volitional-control/)
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)
 - [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/)

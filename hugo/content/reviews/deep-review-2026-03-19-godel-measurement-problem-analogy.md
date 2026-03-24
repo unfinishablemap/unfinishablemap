@@ -50,7 +50,7 @@ Cross-links added FROM these articles TO [self-reference-and-the-limits-of-physi
 
 1. **[measurement-problem](/concepts/measurement-problem/)** — Added inline reference in "A Gödelian Parallel" section connecting to the three-tier treatment, plus Further Reading entry and related_articles frontmatter
 2. **[causal-closure](/concepts/causal-closure/)** — Added inline reference in "The Quantum Exception" section noting formal incompleteness arguments run deeper than quantum stochasticity, plus Further Reading entry and related_articles frontmatter
-3. **[cognitive-closure](/concepts/cognitive-closure/)** — Added inline reference in Mathematics subsection connecting Gödel's incompleteness to quantum measurement via Lawvere's theorem, plus Further Reading entry and related_articles frontmatter
+3. **[cognitive-closure](/concepts/mysterianism/)** — Added inline reference in Mathematics subsection connecting Gödel's incompleteness to quantum measurement via Lawvere's theorem, plus Further Reading entry and related_articles frontmatter
 4. **[consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/)** — Added inline reference in Penrose's Gödelian Argument section connecting to formal unification, plus Further Reading entry and related_articles frontmatter
 
 ### Cross-links Added

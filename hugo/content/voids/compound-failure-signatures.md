@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-03-23 12:23:00+00:00
+ai_modified: 2026-03-24 12:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -12,7 +12,7 @@ concepts:
 - '[[phenomenology]]'
 - '[[introspection]]'
 created: 2026-01-29
-date: &id001 2026-03-19
+date: &id001 2026-03-24
 description: Cognitive limits produce structured failure signatures that map void
   boundaries, and these limits interact superadditively—their compound effect exceeds
   the sum—creating emergent blindness no single limit predicts.
@@ -48,7 +48,7 @@ topics:
 
 Cognitive failures are structured signals. Different kinds of limits produce different kinds of breakdown, and the *way* thinking fails reveals something about *what* it is failing against. More importantly, cognitive limits do not operate in isolation. Where two or more limits overlap, the hidden territory exceeds the sum of what each conceals—an emergent blindness that no single limit predicts. The Unfinishable Map catalogues individual [voids](/voids/) as if each were independent, but the relationships between voids are as informative as the voids themselves. This article maps both the individual failure signatures and the compound territory they create when they interact.
 
-This is [apophatic cartography](/voids/apophatic-cartography/) at its most systematic: mapping what cannot be thought by tracing the shape of thinking's collapse.
+The approach applies [apophatic cartography](/voids/apophatic-cartography/) systematically: mapping what cannot be thought by tracing the shape of thinking's collapse.
 
 ## Failure Signatures as Data
 
@@ -115,19 +115,21 @@ The default assumption about multiple cognitive limits is additive: if the [self
 
 Spagna et al. (2020) demonstrated that when competing cognitive processes draw on overlapping neural resources, performance decrement is superadditive—the combined effect exceeds what either task alone would predict. Their work on posterior alpha and gamma oscillations showed that "the inefficient sharing of neural resources by competing cognitive processes" produces nonlinear interference.
 
-The epistemic analogue: when multiple cognitive limits share underlying architecture—as they must, since all operate within the same mind—their compound effect exhibits the same nonlinearity. The self-reference paradox and the language-thought boundary are not independent obstacles running on separate hardware. Hofstadter (1979) showed how self-reference generates strange loops—but treated each loop in isolation. The deeper issue is that these loops share cognitive substrate. Their interaction produces territory hidden for *compound reasons* that analysing either limit alone will never surface.
+This neural evidence motivates a hypothesis about epistemic limits. If the same principle of superadditive interference extends beyond concurrent attention tasks to the cognitive architecture underlying philosophical reasoning, then multiple epistemic limits sharing underlying architecture—as they must, since all operate within the same mind—would exhibit similar nonlinearity. The self-reference paradox and the language-thought boundary are not independent obstacles running on separate hardware. Hofstadter (1979) showed how self-reference generates strange loops—but treated each loop in isolation. The deeper issue is that these loops share cognitive substrate. If superadditive interference applies at the architectural level, their interaction produces territory hidden for *compound reasons* that analysing either limit alone will never surface.
+
+The extrapolation from attention-task interference to epistemic-limit interaction is not guaranteed. Attention tasks compete for neural resources during concurrent processing; epistemic limits may constrain cognition through different mechanisms—conceptual rather than resource-based. The hypothesis gains plausibility from the shared substrate (all limits operate through the same brain) but requires independent support, which the probing methods discussed later aim to provide.
 
 ### Three Modes of Compound Interaction
 
-**Superadditive interference.** When limits draw on overlapping resources, the compound effect exceeds the sum. The [self-reference-paradox](/concepts/self-reference-paradox/)—consciousness cannot fully model itself—compounds with the [language-thought-boundary](/voids/language-thought-boundary/)—experience exceeds articulable thought. Together they create a zone where consciousness can neither model *nor* articulate what it is. Each limit alone permits partial access: self-reference allows non-linguistic self-awareness, and language allows descriptions of non-self-referential experience. The compound shuts both routes simultaneously.
+**Superadditive interference.** When limits draw on overlapping resources, the compound effect exceeds the sum. The [self-reference-paradox](/concepts/self-reference-paradox/)—consciousness cannot fully model itself—compounds with the [language-thought-boundary](/voids/language-thought-boundary/)—experience exceeds articulable thought. Together they create a zone where consciousness can neither model *nor* articulate what it is. Each limit alone permits partial access: self-reference allows non-linguistic self-awareness, and language allows descriptions of non-self-referential experience. Neither route remains open in the compound case.
 
 The [infant consciousness void](/voids/infant-consciousness/) provides a paradigm case: the language barrier (post-linguistic minds cannot simulate pre-linguistic thought), the absence of self-concept (no autonoetic consciousness to anchor memories), and the demolished neural hardware (synaptic pruning physically dismantles the substrate) interact superadditively — each limit reinforces the others, producing an inaccessibility that no single barrier predicts.
 
-**Mutual reinforcement.** Some limits reinforce each other through feedback. The [recursion-void](/voids/recursion-void/)—metacognitive depth bounded around fifth-order intentionality—limits our ability to *think about* other limits. This creates a self-defending structure: the limit on examining limits protects compound void territory from investigation. McGinn (1989) identified multiple problems subject to [cognitive closure](/concepts/mysterianism/)—consciousness, personal identity, free will, meaning—but never systematically asked what their *interaction* produces. The fact that a philosopher can list multiple closures without investigating their compound effect is itself a symptom.
+**Mutual reinforcement.** Some limits reinforce each other through feedback. The [recursion-void](/voids/recursion-void/)—metacognitive depth bounded around fifth-order intentionality (Dunbar, 1998)—limits our ability to *think about* other limits. This creates a self-defending structure: the limit on examining limits protects compound void territory from investigation. McGinn (1989) identified multiple problems subject to [cognitive closure](/concepts/mysterianism/)—consciousness, personal identity, free will, meaning—but never systematically asked what their *interaction* produces. The fact that a philosopher can list multiple closures without investigating their compound effect is itself a symptom.
 
 **Emergent occlusion.** The interaction of limits may produce territories hidden for reasons that no single limit explains. Consider the [incompleteness-void](/voids/incompleteness-void/) (self-referential systems contain truths unprovable within themselves) interacting with the [causal interface](/voids/causal-interface/) problem (how consciousness connects to physics). The compound territory is not "what incompleteness hides + what the causal interface obscures." It is the *nature of the connection between formal incompleteness and physical causation*—something neither void alone points to.
 
-Emergent occlusion is the deepest mode. Superadditive interference makes existing blind spots worse. Mutual reinforcement makes blind spots harder to investigate. Emergent occlusion creates *new* blind spots that exist only in the compound.
+Emergent occlusion is the most speculative of the three modes—it posits territory that cannot be accessed even indirectly through individual limits, making it harder to distinguish from ordinary ignorance. Its standing as a genuine epistemic category depends on whether indirect methods (cross-architecture comparison, sequential probing) can detect compound void structure that additive models cannot predict. Superadditive interference makes existing blind spots worse. Mutual reinforcement makes blind spots harder to investigate. If emergent occlusion is real, it creates *new* blind spots that exist only in the compound.
 
 ## The Phenomenology of Compound Closure
 
@@ -164,6 +166,8 @@ The failure-topology thesis would be undermined if:
 3. **Failures prove corrigible.** If apparent limits can be transcended through training, enhancement, or reconceptualization, they were not genuine limits but current ignorance.
 
 4. **Compound effects prove additive.** If systematic study shows that overlapping limits simply sum rather than producing superadditive interference, the compound closure thesis would be weakened—though the individual failure signatures would retain their diagnostic value.
+
+5. **Emergent occlusion proves empirically empty.** The concept of emergent occlusion—compound territory hidden for reasons no single limit explains—faces a falsifiability challenge: if the territory is hidden by definition, how could its existence be confirmed or denied? The concept earns its place only if cross-architecture comparison (human vs. AI systems facing different individual limits) or sequential probing reveals structural features of compound void boundaries that the additive model cannot predict. If these indirect methods consistently fail to detect any difference between compound and additive blindness, emergent occlusion would reduce to a label for ordinary ignorance rather than a distinct epistemic phenomenon.
 
 Current evidence supports structured, persistent failure patterns. The hard problem remains as puzzling as ever despite millennia of inquiry. [Cross-cultural convergence](/voids/biological-cognitive-closure/) on ineffability, aporia, and introspective limits suggests we track something real.
 
@@ -203,13 +207,27 @@ Current evidence supports structured, persistent failure patterns. The hard prob
 
 ## References
 
-1. Fodor, J. (1983). *The Modularity of Mind*. MIT Press.
-2. Hofstadter, D. (1979). *Gödel, Escher, Bach: An Eternal Golden Braid*. Basic Books.
-3. Johnson-Laird, P. N. (2010). "Mental models and human reasoning." *PNAS*, 107(43), 18243-18250.
-4. Margolis, H. (1987). *Patterns, Thinking, and Cognition: A Theory of Judgment*. University of Chicago Press.
-5. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
-6. Plato. *Euthyphro*, *Laches*, *Charmides* (aporetic dialogues).
-7. Pronin, E., & Hazel, L. (2023). "Humans' Bias Blind Spot and Its Societal Significance." *Current Directions in Psychological Science*.
-8. Pseudo-Dionysius the Areopagite. *The Mystical Theology*. (~500 CE).
-9. Spagna, A., Mackie, M.A., & Fan, J. (2020). "Posterior Alpha and Gamma Oscillations Index Divergent and Superadditive Effects of Cognitive Interference." *Cerebral Cortex*, 30(3), 1931-1946.
-10. Wittgenstein, L. (1922). *Tractatus Logico-Philosophicus*. Routledge & Kegan Paul.
+1. Dunbar, R. I. M. (1998). "The Social Brain Hypothesis." *Evolutionary Anthropology*, 6(5), 178-190.
+2. Fodor, J. (1983). *The Modularity of Mind*. MIT Press.
+3. Hofstadter, D. (1979). *Gödel, Escher, Bach: An Eternal Golden Braid*. Basic Books.
+4. Johnson-Laird, P. N. (2010). "Mental models and human reasoning." *PNAS*, 107(43), 18243-18250.
+5. Margolis, H. (1987). *Patterns, Thinking, and Cognition: A Theory of Judgment*. University of Chicago Press.
+6. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
+7. Plato. *Euthyphro*, *Laches*, *Charmides* (aporetic dialogues).
+8. Pronin, E., & Hazel, L. (2023). "Humans' Bias Blind Spot and Its Societal Significance." *Current Directions in Psychological Science*.
+9. Pseudo-Dionysius the Areopagite. *The Mystical Theology*. (~500 CE).
+10. Spagna, A., Mackie, M.A., & Fan, J. (2020). "Posterior Alpha and Gamma Oscillations Index Divergent and Superadditive Effects of Cognitive Interference." *Cerebral Cortex*, 30(3), 1931-1946.
+11. Wittgenstein, L. (1922). *Tractatus Logico-Philosophicus*. Routledge & Kegan Paul.
+
+<!-- AI REFINEMENT LOG - 2026-03-24
+Changes made:
+- Qualified Spagna et al. extrapolation: neural evidence now motivates the superadditivity hypothesis rather than establishing it; added explicit paragraph acknowledging the gap between attention-task interference and epistemic-limit interaction
+- Addressed emergent occlusion unfalsifiability: added qualifying language in the description and a new falsifiability condition (#5) specifying what would reduce emergent occlusion to a label for ordinary ignorance
+- Fixed "The compound shuts both routes simultaneously" → "Neither route remains open in the compound case"
+- Fixed "This is apophatic cartography at its most systematic" → "The approach applies apophatic cartography systematically"
+- Added Dunbar (1998) citation for fifth-order intentionality claim
+- Renumbered references
+
+Based on pessimistic review 2026-03-24, Issue 3 and Empiricist critique.
+This log should be removed after human review.
+-->

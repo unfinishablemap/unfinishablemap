@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-03-24 10:50:00+00:00
+ai_modified: 2026-03-24 14:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,6 +12,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[qualia]]'
 - '[[emergence]]'
+- '[[functionalism]]'
 created: 2026-03-24
 date: &id001 2026-03-24
 description: Consciousness cannot be assembled from parts—whether physical or experiential.
@@ -25,6 +26,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[the-binding-problem-a-systematic-treatment]]'
+- '[[born-rule-and-the-consciousness-interface]]'
 title: Phenomenal Non-Compositionality
 topics:
 - '[[hard-problem-of-consciousness]]'

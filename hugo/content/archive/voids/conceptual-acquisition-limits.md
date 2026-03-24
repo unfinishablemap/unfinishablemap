@@ -38,7 +38,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Are there concepts human minds cannot acquire—not merely unthought but unthinkable in principle? Jerry Fodor's radical concept nativism argues that all primitive concepts are innate; if true, any concept not built into our cognitive architecture at birth is permanently inaccessible. Colin McGinn's [cognitive closure](/concepts/cognitive-closure/) formalises this: some properties cannot be grasped by minds with our structure. Nicholas Rescher's "agnoseology" (theory of unknowability) maps different categories of inaccessibility. Most provocatively, the emergence of AI operating in thousands of dimensions suggests "alien cognition" that might access concept-territories closed to human minds.
+Are there concepts human minds cannot acquire—not merely unthought but unthinkable in principle? Jerry Fodor's radical concept nativism argues that all primitive concepts are innate; if true, any concept not built into our cognitive architecture at birth is permanently inaccessible. Colin McGinn's [cognitive closure](/concepts/mysterianism/) formalises this: some properties cannot be grasped by minds with our structure. Nicholas Rescher's "agnoseology" (theory of unknowability) maps different categories of inaccessibility. Most provocatively, the emergence of AI operating in thousands of dimensions suggests "alien cognition" that might access concept-territories closed to human minds.
 
 This is a category-defining [void](/voids/)—it concerns not specific unknowable propositions but the architecture of conceptual possibility itself. The shape of what we cannot acquire reveals the shape of what we are.
 
@@ -154,7 +154,7 @@ The claim that some concepts are permanently inaccessible would be challenged if
 - [Conceptual Impossibility](/voids/conceptual-impossibility/) — When logic excludes conception
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
 - [The Developmental Void](/voids/architecture-of-cognitive-closure/) — Limits acquired through maturation
-- [Cognitive Closure](/concepts/cognitive-closure/) — The formal analysis of architectural limits on understanding
+- [Cognitive Closure](/concepts/mysterianism/) — The formal analysis of architectural limits on understanding
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — Whether cognitive limits are intrinsic or imposed
 - [The Mind-Space Void](/voids/mind-space-void/) — Our unknown location in possible-minds space
 - [LLM Consciousness](/concepts/llm-consciousness/) — The question of AI experience

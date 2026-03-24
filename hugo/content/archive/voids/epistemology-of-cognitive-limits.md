@@ -50,7 +50,7 @@ Distinguishing between *difficult* and *impossible* seems like it should be stra
 
 **Success proves contingency; failure proves nothing.** If we solve a problem, we learn it was solvable. But if we fail—even across centuries and cultures—we cannot conclude permanent closure. Perhaps the right concepts haven't emerged yet. Perhaps we haven't tried hard enough or in the right way.
 
-**The assessment requires the faculties under assessment.** To determine whether our cognitive architecture has limits, we must use that very architecture—a self-referential bind that [cognitive closure](/concepts/cognitive-closure/) makes precise. If it is limited in relevant ways, our determination may be systematically wrong. There is no neutral vantage point, and [introspective-opacity](/voids/introspective-opacity/) ensures we cannot simply look inward to check.
+**The assessment requires the faculties under assessment.** To determine whether our cognitive architecture has limits, we must use that very architecture—a self-referential bind that [cognitive closure](/concepts/mysterianism/) makes precise. If it is limited in relevant ways, our determination may be systematically wrong. There is no neutral vantage point, and [introspective-opacity](/voids/introspective-opacity/) ensures we cannot simply look inward to check.
 
 This asymmetry—between what success and failure can teach us—structures the entire epistemology of limits.
 

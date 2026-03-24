@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Fake "Mysterianism" tenet**: The Relation to Site Perspective section included a "### Mysterianism" subsection referencing `[Mysterianism](/tenets/#mysterianism)` as if it were one of the five tenets. No such tenet exists. **Resolution**: Restructured as "### Cognitive Closure" connecting to the `[cognitive-closure](/concepts/cognitive-closure/)` concept, and folded tenet relevance into the Occam's Razor connection where it belongs.
+- **Fake "Mysterianism" tenet**: The Relation to Site Perspective section included a "### Mysterianism" subsection referencing `[Mysterianism](/tenets/#mysterianism)` as if it were one of the five tenets. No such tenet exists. **Resolution**: Restructured as "### Cognitive Closure" connecting to the `[cognitive-closure](/concepts/mysterianism/)` concept, and folded tenet relevance into the Occam's Razor connection where it belongs.
 
 ### Medium Issues Found
 - **Links to archived articles**: `[the-unobservable-self](/voids/self-reference-paradox/)` and `[calibration-void](/voids/measurement-void/)` both link to archived content. **Resolution**: Updated to successors — `self-reference-paradox` (already linked) and `measurement-void` respectively. Updated Further Reading descriptions. Replaced inline `the-unobservable-self` reference with direct description of the phenomenon (since `self-reference-paradox` was already linked in the same sentence).

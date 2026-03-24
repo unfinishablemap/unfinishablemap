@@ -104,7 +104,7 @@ Motor control matters philosophically because it is where [agent-causation](/con
 
 The quantum Zeno framework positions the agent at a specific juncture in the causal chain. Neural computation generates options. Dopamine marks salience. The agent—consciousness—selects among salient options by stabilising one through attention. The framework offers a specific causal role distinct from both libertarian free will (uncaused causes) and compatibilist redescription of determination as "freedom": resolving genuine physical indeterminacy in a direction that reflects what the agent intends.
 
-The Libet dissolution is crucial here. If the readiness potential were an unconscious decision, the agent would arrive too late. With Schurger's reinterpretation, stochastic neural fluctuations provide the raw material—noise accumulating toward threshold—and the agent's contribution is biasing which fluctuations reach threshold and when. The 200ms window of conscious awareness before movement is not a brief afterthought following an unconscious decision; it is the agent operating within a noisy system. See [Phenomenology of Volitional Control](/topics/phenomenology-of-volitional-control/) for the broader phenomenological structure of agency and veto that underlies this mechanism.
+The Libet dissolution is crucial here. If the readiness potential were an unconscious decision, the agent would arrive too late. With Schurger's reinterpretation, stochastic neural fluctuations provide the raw material—noise accumulating toward threshold—and the agent's contribution is biasing which fluctuations reach threshold and when. The 200ms window of conscious awareness before movement is not a brief afterthought following an unconscious decision; it is the agent operating within a noisy system. See [Phenomenology of Volitional Control](/topics/volitional-control/) for the broader phenomenological structure of agency and veto that underlies this mechanism.
 
 ## Challenges and Honest Gaps
 
@@ -137,7 +137,7 @@ What would strengthen the case? Evidence that conscious selection introduces sta
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's mechanism in detail
 - [libet-experiments](/concepts/libet-experiments/) — The readiness potential debate
 - [free-will](/topics/free-will/) — The broader free will question
-- [phenomenology-of-volitional-control](/topics/phenomenology-of-volitional-control/) — The phenomenological structure of willing, vetoing, and selecting
+- [volitional-control](/topics/volitional-control/) — The phenomenological structure of willing, vetoing, and selecting
 - [agent-causation](/concepts/agent-causation/) — Agent causation and its relation to selection
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Timing hierarchy for quantum effects in neural systems
 - [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — Six proposed mechanisms bridging the quantum-to-macroscopic gap

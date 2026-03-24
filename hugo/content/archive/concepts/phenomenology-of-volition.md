@@ -100,7 +100,7 @@ The four-component structure identified here is the strongest reply. Wegner's ev
 
 ## Why Volitional Phenomenology Matters
 
-The phenomenology of volition provides evidence that other approaches to the free will debate overlook. Timing studies (Libet, Schurger) address only one narrow aspect — when awareness of a motor urge occurs relative to neural preparation. They say nothing about sustained control, effort gradients, or veto phenomenology. See [Phenomenology of Volitional Control](/topics/phenomenology-of-volitional-control/) for how these experimental findings have been reinterpreted.
+The phenomenology of volition provides evidence that other approaches to the free will debate overlook. Timing studies (Libet, Schurger) address only one narrow aspect — when awareness of a motor urge occurs relative to neural preparation. They say nothing about sustained control, effort gradients, or veto phenomenology. See [Phenomenology of Volitional Control](/topics/volitional-control/) for how these experimental findings have been reinterpreted.
 
 The [control-theoretic](/concepts/control-theoretic-will/) approach models volition as a feedback loop — error signals driving corrective action. This captures some structural features but omits the qualitative dimension: what it is *like* to exert control. A thermostat implements feedback control without phenomenology. That volition feels like something — and feels different depending on difficulty, stakes, and type of action — is a datum that control theory alone cannot explain.
 
@@ -118,7 +118,7 @@ The Map's [tenets](/tenets/) predict the structure of volitional experience. **D
 
 ## Further Reading
 
-- [phenomenology-of-volitional-control](/topics/phenomenology-of-volitional-control/) — The broader debate: Libet, Schurger, and the evidence for conscious causation
+- [phenomenology-of-volitional-control](/topics/volitional-control/) — The broader debate: Libet, Schurger, and the evidence for conscious causation
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The experience of deliberation and decision
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The spectrum from full agency to full passivity
 - [mental-effort](/concepts/mental-effort/) — Why effort feels effortful and what this reveals

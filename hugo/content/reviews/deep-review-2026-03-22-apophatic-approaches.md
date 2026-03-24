@@ -32,7 +32,7 @@ Fourth review. The article was stable at the last review (no critical issues fou
 
 ### Medium Issues Found
 - **Orphan status**: The article had zero inbound links from other articles despite being a foundational methodology concept referenced by multiple related pages. → Resolved by adding inbound links from 5 articles (see below).
-- **Missing cross-links in article**: No links to `[cognitive-closure](/concepts/cognitive-closure/)` or `[explanatory-gap](/concepts/explanatory-gap/)` despite these being the two most directly related concept pages. → Added both to body text and Further Reading.
+- **Missing cross-links in article**: No links to `[cognitive-closure](/concepts/mysterianism/)` or `[explanatory-gap](/concepts/explanatory-gap/)` despite these being the two most directly related concept pages. → Added both to body text and Further Reading.
 
 ### Counterarguments Considered
 - All six adversarial personas engaged; no new issues beyond those identified in previous reviews.
@@ -50,13 +50,13 @@ Fourth review. The article was stable at the last review (no critical issues fou
 - Creative tenet connections (especially bidirectional interaction as exercise of conscious causation)
 
 ### Enhancements Made
-- Added `[cognitive-closure](/concepts/cognitive-closure/)` link in Application to Consciousness section (natural fit alongside McGinn reference)
-- Added `[explanatory-gap](/concepts/explanatory-gap/)` and `[cognitive-closure](/concepts/cognitive-closure/)` to Further Reading with descriptions
+- Added `[cognitive-closure](/concepts/mysterianism/)` link in Application to Consciousness section (natural fit alongside McGinn reference)
+- Added `[explanatory-gap](/concepts/explanatory-gap/)` and `[cognitive-closure](/concepts/mysterianism/)` to Further Reading with descriptions
 - Added both to concepts frontmatter
 
 ### Cross-links Added (Inbound — Orphan Integration)
 - **[mysterianism](/concepts/mysterianism/)** — Updated body text reference from `[apophatic methods](/voids/apophatic-cartography/)` to `[apophatic methods](/concepts/apophatic-approaches/)` with explanatory expansion; added to Further Reading
-- **[cognitive-closure](/concepts/cognitive-closure/)** — Added contextual reference in Relation to Site Perspective section; added to Further Reading
+- **[cognitive-closure](/concepts/mysterianism/)** — Added contextual reference in Relation to Site Perspective section; added to Further Reading
 - **[explanatory-gap](/concepts/explanatory-gap/)** — Added to Further Reading with description connecting the gap's persistence to apophatic methodology
 - **[three-kinds-of-void](/voids/three-kinds-of-void/)** — Added to Further Reading alongside existing apophatic-cartography link
 - **[consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/)** — Added to Further Reading connecting explanatory failure to apophatic data

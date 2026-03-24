@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-20 05:24:00+00:00
+ai_modified: 2026-03-24 13:33:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,6 +25,7 @@ related_articles:
 - '[[tenets]]'
 - '[[epistemological-limits-of-occams-razor]]'
 - '[[epistemological-limits-occams-razor]]'
+- '[[parsimony-case-for-interactionist-dualism]]'
 title: Limits of Parsimony in Consciousness Science
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -90,7 +91,7 @@ The argument targets explanatory complexity. Physicalism faces a distinctive bur
 
 Dualism takes consciousness at face value. It requires [psychophysical laws](/concepts/psychophysical-laws/) connecting mental and physical domains, whose nature remains to be specified. But it does not need to explain consciousness *away* or reduce it to something it manifestly is not. The theoretical burden is lighter: one correlation to characterise (mind-brain lawful connection) rather than one mystery to dissolve (why physical processes generate experience at all). Zanotti (2021) develops this point systematically, arguing that physicalism's explanatory burden — accounting for consciousness within a framework that provides no natural place for it — constitutes a parsimony cost that is typically overlooked.
 
-Swinburne's reversal does not establish that dualism is simpler overall — ontological parsimony still favours physicalism. But it undermines the assumption that parsimony *unambiguously* favours physicalism. When simplicity is measured along the dimension most relevant to consciousness — explanatory adequacy — dualism has the advantage.
+Swinburne's reversal does not establish that dualism is simpler overall — ontological parsimony still favours physicalism. But it undermines the assumption that parsimony *unambiguously* favours physicalism. When simplicity is measured along the dimension most relevant to consciousness — explanatory adequacy — dualism has the advantage. The [positive parsimony case](/topics/parsimony-case-for-interactionist-dualism/) develops this reversal into a systematic argument that interactionist dualism is the more parsimonious position once all costs are counted.
 
 ## The Historical Pattern
 

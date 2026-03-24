@@ -186,7 +186,7 @@ The claim that some concepts are permanently inaccessible would be challenged if
 - [The Expertise Void](/topics/expertise-void/) — How deep skill irreversibly transforms perception
 - [Evolved Cognitive Limits](/voids/biological-cognitive-closure/) — Cross-cultural evidence for shared limits
 - [Embodiment and Cognitive Limits](/voids/embodiment-cognitive-limits/) — How bodies constrain thought
-- [Cognitive Closure](/concepts/cognitive-closure/) — The formal analysis of architectural limits on understanding
+- [Cognitive Closure](/concepts/mysterianism/) — The formal analysis of architectural limits on understanding
 - [The Self-Transcendence Void](/voids/self-transcendence-void/) — Why consciousness cannot upgrade the architecture that constrains it
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — Whether cognitive limits are intrinsic or imposed
 - [The Mind-Space Void](/voids/mind-space-void/) — Our unknown location in possible-minds space

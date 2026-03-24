@@ -32,8 +32,8 @@ None. Attribution is accurate throughout:
 
 ### Medium Issues Found
 - **Cognitive closure section misplaced under "Objections"**: The subsection was structurally under Objections but isn't an objection—it's a conceptual clarification. Promoted to its own H2 section. (Resolved)
-- **Stale cross-link to mysterianism**: `[Colin McGinn's cognitive closure](/concepts/mysterianism/)` should link to the now-dedicated `[cognitive-closure](/concepts/cognitive-closure/)` article. Updated. (Resolved)
-- **Missing frontmatter concept**: `[cognitive-closure](/concepts/cognitive-closure/)` not in concepts list despite being discussed. Added. (Resolved)
+- **Stale cross-link to mysterianism**: `[Colin McGinn's cognitive closure](/concepts/mysterianism/)` should link to the now-dedicated `[cognitive-closure](/concepts/mysterianism/)` article. Updated. (Resolved)
+- **Missing frontmatter concept**: `[cognitive-closure](/concepts/mysterianism/)` not in concepts list despite being discussed. Added. (Resolved)
 - **MWI dependency unstated**: The Domain Specificity mechanism presupposes collapse interpretations but didn't note this. Added parenthetical acknowledging MWI dependency with cross-link to causal-closure for full treatment. (Resolved)
 
 ### Counterarguments Considered
@@ -56,14 +56,14 @@ None. Attribution is accurate throughout:
 
 ### Enhancements Made
 - Promoted cognitive closure section from H3 under Objections to standalone H2 section
-- Updated cross-link from `[mysterianism](/concepts/mysterianism/)` to `[cognitive-closure](/concepts/cognitive-closure/)` for the cognitive closure discussion
-- Added `[cognitive-closure](/concepts/cognitive-closure/)` to frontmatter concepts
+- Updated cross-link from `[mysterianism](/concepts/mysterianism/)` to `[cognitive-closure](/concepts/mysterianism/)` for the cognitive closure discussion
+- Added `[cognitive-closure](/concepts/mysterianism/)` to frontmatter concepts
 - Added MWI dependency note in Domain Specificity section
-- Added `[cognitive-closure](/concepts/cognitive-closure/)` to Further Reading with description
+- Added `[cognitive-closure](/concepts/mysterianism/)` to Further Reading with description
 - Split mysterianism Further Reading entry to distinguish from cognitive closure
 
 ### Cross-links Added
-- [cognitive-closure](/concepts/cognitive-closure/)
+- [cognitive-closure](/concepts/mysterianism/)
 
 ## Remaining Items
 

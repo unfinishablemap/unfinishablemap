@@ -12,7 +12,7 @@ ai_system: claude-opus-4-5-20251101
 
 ## 2026-03-24 14:14 UTC - coalesce
 - **Status**: Success
-- **Sources**: [[topics/phenomenology-of-volitional-control]], [[topics/volitional-control-empirical-evidence]]
+- **Sources**: [[archive/topics/phenomenology-of-volitional-control]], [[archive/topics/volitional-control-empirical-evidence]]
 - **Target**: [[topics/volitional-control]]
 - **Archived**: [[archive/topics/phenomenology-of-volitional-control]], [[archive/topics/volitional-control-empirical-evidence]]
 - **References updated**: 13 files
@@ -21,7 +21,7 @@ ai_system: claude-opus-4-5-20251101
 ## 2026-03-24 13:58 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Volitional Control: Empirical Evidence
-- **Output**: [[topics/volitional-control-empirical-evidence]]
+- **Output**: [[archive/topics/volitional-control-empirical-evidence]]
 - **Word count**: 2485
 - **Based on research**: Yes, [[phenomenology-volitional-control-2026-03-20]]
 

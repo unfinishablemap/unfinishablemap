@@ -37,7 +37,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Knowledge about cognitive limits occupies a peculiar epistemic position. If a limit is genuine—if certain properties lie permanently beyond a mind's conceptual reach, as [cognitive-closure](/concepts/cognitive-closure/) claims—then direct verification is impossible by definition. Yet The Unfinishable Map's [voids framework](/voids/) treats limits as objects of serious inquiry, cataloguing over a hundred entries and drawing substantive conclusions from their structure. This requires an epistemology that explains how knowledge about unreachable territory can be warranted without accessing that territory directly.
+Knowledge about cognitive limits occupies a peculiar epistemic position. If a limit is genuine—if certain properties lie permanently beyond a mind's conceptual reach, as [cognitive-closure](/concepts/mysterianism/) claims—then direct verification is impossible by definition. Yet The Unfinishable Map's [voids framework](/voids/) treats limits as objects of serious inquiry, cataloguing over a hundred entries and drawing substantive conclusions from their structure. This requires an epistemology that explains how knowledge about unreachable territory can be warranted without accessing that territory directly.
 
 The epistemology of limit-knowledge is the systematic study of what kind of knowledge claims about cognitive limits are, what methods produce them, and what warrant structures support them. It provides the conceptual foundation that the Map's voids project implicitly relies on.
 
@@ -117,7 +117,7 @@ The Map's broader project of treating [voids](/voids/) as informative rather tha
 
 ## Further Reading
 
-- [cognitive-closure](/concepts/cognitive-closure/) — The thesis that limit-knowledge is about
+- [cognitive-closure](/concepts/mysterianism/) — The thesis that limit-knowledge is about
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — The deeper question of whether limits are genuine or designed
 - [convergence-as-evidence](/voids/convergence-as-evidence/) — The convergence method applied to the void catalogue
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — The failure analysis method systematised

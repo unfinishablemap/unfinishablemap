@@ -29,7 +29,7 @@ topics: []
 - **Li et al. 2018 uncited**: Reference listed but never cited inline. Added inline citation with wikilink to [evolved-cognitive-limits](/voids/biological-cognitive-closure/) where evolutionary mismatch is discussed.
 - **Husserl uncited**: Reference listed but no inline citation. Added "(1991)" after Husserl's name where the subjective present is discussed.
 - **SEP Infinity reference orphaned**: Listed in references but never cited in the article. Removed as it supported no specific claim.
-- **Imprecise concept link**: Article linked to [mysterianism](/concepts/mysterianism/) for McGinn's cognitive closure framework, but a dedicated [cognitive-closure](/concepts/cognitive-closure/) article now exists. Updated to more precise link.
+- **Imprecise concept link**: Article linked to [mysterianism](/concepts/mysterianism/) for McGinn's cognitive closure framework, but a dedicated [cognitive-closure](/concepts/mysterianism/) article now exists. Updated to more precise link.
 
 ### Counterarguments Considered
 - No new counterarguments required attention. The article's mixed void classification already handles the materialist objection (that scale-processing is adaptive, not limit-revealing).
@@ -46,15 +46,15 @@ topics: []
 ### Enhancements Made
 - Added inline citation for Li, van Vugt & Colarelli 2018 with cross-link to [evolved-cognitive-limits](/voids/biological-cognitive-closure/)
 - Added inline citation for Husserl 1991
-- Updated [cognitive closure](/concepts/mysterianism/) link to more precise [cognitive closure](/concepts/cognitive-closure/)
-- Added [cognitive-closure](/concepts/cognitive-closure/) to frontmatter concepts
+- Updated [cognitive closure](/concepts/mysterianism/) link to more precise [cognitive closure](/concepts/mysterianism/)
+- Added [cognitive-closure](/concepts/mysterianism/) to frontmatter concepts
 - Added [evolved-cognitive-limits](/voids/biological-cognitive-closure/) and [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) to Further Reading
 - Removed orphaned SEP Infinity reference
 
 ### Cross-links Added
 - [evolved-cognitive-limits](/voids/biological-cognitive-closure/) (inline + Further Reading)
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) (Further Reading)
-- [cognitive-closure](/concepts/cognitive-closure/) (inline link + frontmatter concept)
+- [cognitive-closure](/concepts/mysterianism/) (inline link + frontmatter concept)
 
 ## Remaining Items
 

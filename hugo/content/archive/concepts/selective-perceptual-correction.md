@@ -101,7 +101,7 @@ The Map speculates that the boundary between corrected and uncorrected signals m
 - [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [filter-theory](/concepts/filter-theory/)
-- [cognitive-closure](/concepts/cognitive-closure/)
+- [cognitive-closure](/concepts/mysterianism/)
 - [consciousness-only-territories](/voids/consciousness-only-territories/)
 
 ## References

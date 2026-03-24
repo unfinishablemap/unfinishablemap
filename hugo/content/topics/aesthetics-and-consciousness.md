@@ -167,7 +167,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 - [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) — Aesthetic experience guiding scientific theory choice
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Why aesthetic knowledge requires experience
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — Why phenomenal properties resist physical reduction
-- [cognitive-closure](/concepts/cognitive-closure/) — Why the structure-experience gap may be permanent
+- [cognitive-closure](/concepts/mysterianism/) — Why the structure-experience gap may be permanent
 - [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Quantum approaches to the binding problem
 
 ## References

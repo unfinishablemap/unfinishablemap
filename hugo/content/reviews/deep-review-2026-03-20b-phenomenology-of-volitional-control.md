@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-20
-**Article**: [Phenomenology of Volitional Control](/topics/phenomenology-of-volitional-control/)
+**Article**: [Phenomenology of Volitional Control](/topics/volitional-control/)
 **Previous review**: [2026-03-20](/reviews/deep-review-2026-03-20-phenomenology-of-volitional-control/)
 **Context**: Cross-review considering phenomenology of volitional control insights
 

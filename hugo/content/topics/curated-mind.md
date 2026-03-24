@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-03-24 08:35:00+00:00
+ai_modified: 2026-03-24 11:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,6 +12,7 @@ concepts:
 - '[[qualia]]'
 - '[[phenomenal-transparency]]'
 - '[[cognitive-closure]]'
+- '[[phenomenal-acquaintance]]'
 created: 2026-03-24
 date: &id001 2026-03-24
 description: The brain curates what consciousness receives across vision, body, and
@@ -79,9 +80,9 @@ In each case, the structure matches the visual reconstruction paradox. The brain
 Across vision, body, memory, and self-model, the same architecture recurs:
 
 1. The brain reconstructs a coherent representation from incomplete or conflicting data
-2. The reconstruction serves the needs of a consumer — producing coherent experience rather than raw signal
+2. The reconstruction serves the needs of a consumer — producing coherent experience rather than raw signal. The consumer must stand in [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) with the curated output: the direct, non-inferential relation to qualitative character that makes curation meaningful rather than merely computational
 3. The consumer cannot access the reconstruction process itself ([phenomenal transparency](/concepts/phenomenal-transparency/))
-4. When the reconstruction fails, the consumer cannot independently verify the failure ([cognitive closure](/concepts/cognitive-closure/))
+4. When the reconstruction fails, the consumer cannot independently verify the failure ([cognitive closure](/concepts/mysterianism/))
 
 This convergence across modalities is what makes the curated-mind observation philosophically significant. A single processing quirk in visual cortex might be explained as an evolutionary kludge. But an architectural pattern that operates identically across vision, proprioception, memory, and self-representation suggests something structural about the relationship between the processing system and the experiencing subject. The Map's [dissociation work](/topics/neurological-dissociations-as-interface-architecture/) independently maps the same channels — perceptual ascending, affective ascending, self-model ascending, motor descending — by examining what breaks when specific pathways are destroyed. Anosognosia, discussed there as a failure of the self-model ascending channel, is the same phenomenon examined here as failed self-model curation: the brain delivers a coherent fiction about body state because the editorial mechanism has broken down. That two independent analyses — one from curation patterns, one from dissociation patterns — converge on the same multi-channel architecture strengthens both.
 
@@ -119,6 +120,7 @@ The Minimal Quantum Interaction tenet explains the bandwidth asymmetry. If consc
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — epistemic boundaries consciousness cannot cross
 - [filter-theory](/concepts/filter-theory/) — the brain as filter rather than generator
 - [consciousness-and-memory](/topics/consciousness-and-memory/) — memory reconstruction and consolidation through a dualist lens
+- [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — the direct epistemic relation that curation presupposes: without acquaintance, there is no recipient for the curated feed
 
 ## References
 

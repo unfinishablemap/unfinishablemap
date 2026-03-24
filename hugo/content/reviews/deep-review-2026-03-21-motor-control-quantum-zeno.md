@@ -66,7 +66,7 @@ All six adversarial personas engaged. No new counterarguments beyond those ident
 ### Cross-links Verified
 Recent additions (since last review) all verified as valid and valuable:
 - [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/) — historical lineage for Stapp's framework
-- [phenomenology-of-volitional-control](/topics/phenomenology-of-volitional-control/) — phenomenological structure of agency
+- [phenomenology-of-volitional-control](/topics/volitional-control/) — phenomenological structure of agency
 - [timing-gap-problem](/concepts/timing-gap-problem/) — precise characterization of the decoherence challenge
 - [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — bridges quantum-to-macroscopic gap
 

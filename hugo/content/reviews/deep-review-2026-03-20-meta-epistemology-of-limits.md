@@ -60,7 +60,7 @@ None. Attribution accuracy verified for all cited authors (Chomsky, Kriegel, Dem
 ### Cross-links Fixed (broken old slugs → new)
 Updated across 31 content files including:
 - [mysterianism](/concepts/mysterianism/) — frontmatter deduplicated, 3 body links fixed
-- [cognitive-closure](/concepts/cognitive-closure/) — frontmatter + 1 body link
+- [cognitive-closure](/concepts/mysterianism/) — frontmatter + 1 body link
 - [taxonomy-of-voids](/apex/taxonomy-of-voids/) — apex_sources + 2 body links
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — frontmatter + 1 body link
 - [evolved-cognitive-limits](/voids/biological-cognitive-closure/) — frontmatter + 2 body links

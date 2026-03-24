@@ -27,7 +27,7 @@ topics: []
 
 ### Medium Issues Found
 - [Orphaned reference]: Depraz (2003) listed in References but never cited in body — removed
-- [Missing cross-links]: McGinn's cognitive closure discussed without linking to [mysterianism](/concepts/mysterianism/) or [cognitive-closure](/concepts/cognitive-closure/) — added links
+- [Missing cross-links]: McGinn's cognitive closure discussed without linking to [mysterianism](/concepts/mysterianism/) or [cognitive-closure](/concepts/mysterianism/) — added links
 - [Missing section]: No "What Would Challenge This View" section, unlike peer articles — added with 5 falsifiability conditions
 - [Orphan status]: Zero inbound links from other articles — resolved by adding cross-references from 7 related articles
 
@@ -47,7 +47,7 @@ topics: []
 
 ### Enhancements Made
 - Added "What Would Challenge This View" section with 5 concrete falsifiability conditions
-- Added cross-links to [mysterianism](/concepts/mysterianism/) and [cognitive-closure](/concepts/cognitive-closure/) where McGinn is discussed
+- Added cross-links to [mysterianism](/concepts/mysterianism/) and [cognitive-closure](/concepts/mysterianism/) where McGinn is discussed
 - Expanded Further Reading with descriptions and additional entries (self-reference-paradox, transparency-void, mysterianism)
 - Removed orphaned Depraz reference
 - Added Habermas reference for performative contradictions claim

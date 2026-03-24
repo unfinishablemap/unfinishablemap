@@ -119,7 +119,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet gains 
 
 ### Mysterianism
 
-The [Mysterianism](/tenets/#mysterianism) connection is explicit. Error-blindness may be an instance of [cognitive closure](/concepts/cognitive-closure/)—we cannot know what errors we cannot detect. The bootstrap problem has no complete solution because solving it would require stepping outside our cognitive apparatus. The [phenomenology of the edge](/voids/phenomenology-of-the-edge/)—where thoughts about self-correction become unstable—may mark genuine cognitive limits.
+The [Mysterianism](/tenets/#mysterianism) connection is explicit. Error-blindness may be an instance of [cognitive closure](/concepts/mysterianism/)—we cannot know what errors we cannot detect. The bootstrap problem has no complete solution because solving it would require stepping outside our cognitive apparatus. The [phenomenology of the edge](/voids/phenomenology-of-the-edge/)—where thoughts about self-correction become unstable—may mark genuine cognitive limits.
 
 ### No Many Worlds
 
@@ -137,7 +137,7 @@ None currently obtains. Error-blindness persists despite millennia of attention.
 - [introspection](/concepts/introspection/) — First-person methods and their reliability
 - [self-reference-paradox](/concepts/self-reference-paradox/) — The deeper structure of consciousness examining itself
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and structural limits
-- [cognitive-closure](/concepts/cognitive-closure/) — The structural impossibility of knowing what you cannot know
+- [cognitive-closure](/concepts/mysterianism/) — The structural impossibility of knowing what you cannot know
 - [introspective-opacity](/voids/introspective-opacity/) — Why the mechanism of self-correction remains hidden
 - [calibration-void](/voids/measurement-void/) — The bootstrap problem for introspection itself
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Consciousness at cognitive boundaries

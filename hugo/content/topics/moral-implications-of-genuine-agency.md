@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-05 19:25:00+00:00
+ai_modified: 2026-03-24 12:20:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: If consciousness genuinely causes actions, morality transforms from
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-01 10:45:00+00:00
+last_deep_review: 2026-03-24 12:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -84,7 +84,7 @@ Circumstantial luck—the moral tests one faces—also persists. The person neve
 
 If agency is real, certain positions in moral theory become harder to maintain.
 
-**Error theory weakens.** Moral error theory—the view that all moral claims are false because there are no moral facts—loses one of its key motivations. If agents are genuine causes, then claims about what agents should do are claims about how a real causal power should be exercised. [phenomenal-value-realism](/topics/phenomenal-value-realism/) provides the other half: if the felt badness of suffering *is* badness, then moral facts are grounded in phenomenal experience rather than "floating free" as Mackie's queerness objection supposes. The existence of a causal power does not by itself generate norms—gravity is real without creating obligations about how it "should" operate. But agent causation is distinctive: it involves a conscious being selecting among alternatives *for reasons*. Normative evaluation of such selection—was it done for good reasons, with adequate deliberation?—is not projecting moral properties onto a morally neutral world but evaluating a reasons-responsive process that genuinely operated. Whether this makes moral claims *true* in a robust sense is a further question, but the eliminativist route is harder when agency is real. (Error theorists like Mackie also ground their position in the "queerness" of moral properties; genuine agency does not directly answer that objection.)
+**Error theory weakens.** Moral error theory—the view that all moral claims are false because there are no moral facts—loses one of its key motivations. If agents are genuine causes, then claims about what agents should do are claims about how a real causal power should be exercised. [phenomenal-value-realism](/topics/phenomenal-value-realism/) provides the other half: if the felt badness of suffering *is* badness, then moral facts are grounded in phenomenal experience rather than "floating free" as Mackie's queerness objection supposes. The existence of a causal power does not by itself generate norms—gravity is real without creating obligations about how it "should" operate. But agent causation is distinctive: it involves a conscious being selecting among alternatives *for reasons*. Normative evaluation of such selection—was it done for good reasons, with adequate deliberation?—is not projecting moral properties onto a morally neutral world but evaluating a reasons-responsive process that genuinely operated. Whether this makes moral claims *true* in a robust sense is a further question, but the eliminativist route is harder when agency is real and phenomenal value provides the grounding Mackie found missing.
 
 **Pure consequentialism faces pressure.** If agents are genuine authors of their choices, the consequentialist focus on outcomes alone misses something morally significant: the quality of the selection itself. Two agents might produce identical outcomes—one through careful deliberation, the other through indifference that happened to produce the same result. Under genuine agency, the [quality of authorship](/topics/authentic-vs-inauthentic-choice/) matters. The deliberate choice and the indifferent one differ morally even when their results do not.
 

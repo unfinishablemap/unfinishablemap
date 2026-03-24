@@ -56,7 +56,7 @@ topics: []
 
 ### Cross-links Added (Inbound)
 - [mysterianism](/concepts/mysterianism/) — Further Reading
-- [cognitive-closure](/concepts/cognitive-closure/) — Further Reading
+- [cognitive-closure](/concepts/mysterianism/) — Further Reading
 - [architecture-of-cognitive-closure](/voids/biological-cognitive-closure/) — Further Reading
 - [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/) — Further Reading
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — Further Reading

@@ -52,7 +52,7 @@ topics: []
 - Added inline cross-link to [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/) in late life section
 - Added inline cross-link to [animal-consciousness](/topics/animal-consciousness/) in comparative section
 - Added inline cross-link to [implicit-memory](/concepts/implicit-memory/) in skill acquisition section
-- Added inline cross-link to [cognitive-closure](/concepts/cognitive-closure/) in adult maturity section
+- Added inline cross-link to [cognitive-closure](/concepts/mysterianism/) in adult maturity section
 - Added five articles to Further Reading section
 - Strengthened No Many Worlds tenet connection with ethical stakes argument
 - Tightened verbose passages to maintain length neutrality (3193 → 3197 words)
@@ -62,7 +62,7 @@ topics: []
 - [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/)
 - [animal-consciousness](/topics/animal-consciousness/)
 - [implicit-memory](/concepts/implicit-memory/)
-- [cognitive-closure](/concepts/cognitive-closure/)
+- [cognitive-closure](/concepts/mysterianism/)
 
 ## Remaining Items
 

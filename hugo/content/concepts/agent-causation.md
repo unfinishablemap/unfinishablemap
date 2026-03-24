@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-21 16:55:00+00:00
+ai_modified: 2026-03-24 11:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -46,6 +46,7 @@ related_articles:
 - '[[motor-control-quantum-zeno-2026-01-18]]'
 - '[[concept-of-free-will]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
+- '[[consciousness-value-connection]]'
 title: Agent Causation
 topics:
 - '[[topics/free-will]]'
@@ -181,7 +182,7 @@ First-person experience confirms the distinction: being *pulled* by a loud noise
 
 This convergence across distinct domains—different brain regions, output pathways, evolutionary pressures—answers the single-domain objection. If agent-causal signatures were artifacts of attention-specific processing, they wouldn't appear identically in motor control.
 
-The Libet challenge has also substantially weakened. Schurger's reinterpretation treats the readiness potential as noise artifact; Sjöberg (2024) shows SMA resection doesn't impair voluntary action; Desmurget dissociates intention (parietal) from execution (premotor). Motor control now supports agent causation rather than challenging it. See [Phenomenology of Volitional Control](/topics/phenomenology-of-volitional-control/) for the full phenomenological case—including the agency-ownership distinction and conscious veto—that survives the Libet reinterpretation. The [phenomenology of volition](/concepts/phenomenology-of-choice-and-volition/) identifies four distinguishable components of willing—initiation, sustained control, effort, and veto—each with distinct neural correlates and clinical dissociation patterns.
+The Libet challenge has also substantially weakened. Schurger's reinterpretation treats the readiness potential as noise artifact; Sjöberg (2024) shows SMA resection doesn't impair voluntary action; Desmurget dissociates intention (parietal) from execution (premotor). Motor control now supports agent causation rather than challenging it. See [Phenomenology of Volitional Control](/topics/volitional-control/) for the full phenomenological case—including the agency-ownership distinction and conscious veto—that survives the Libet reinterpretation. The [phenomenology of volition](/concepts/phenomenology-of-choice-and-volition/) identifies four distinguishable components of willing—initiation, sustained control, effort, and veto—each with distinct neural correlates and clinical dissociation patterns.
 
 This literature provides what agent-causal philosophy traditionally lacked: naturalistic mechanism—identifying where (frontal cortex), when (300ms window), and how (theta oscillations) agents act through neural networks, without reducing consciousness to neural activity.
 
@@ -211,6 +212,8 @@ Agent causation is falsifiable. Key challenges:
 Agent causation is the philosophical tradition to which the Map belongs. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet—that consciousness causally influences the physical world—is a claim of agent causation: the conscious subject, as substance, causes physical events.
 
 What the Map adds is mechanism. Traditional agent causation lacked an account of *where* or *how* the agent interfaces with the physical world. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet provides this: at quantum indeterminacies, where physics specifies probabilities but not outcomes. The [quantum consciousness mechanisms](/concepts/quantum-consciousness/) (Stapp, Penrose-Hameroff) describe how this might work in detail.
+
+The [consciousness-value-connection](/concepts/consciousness-value-connection/) deepens the significance of agent causation. If consciousness is necessary for value to exist, then agent causation—the capacity of conscious agents to originate actions—is the mechanism through which value is realised in the physical world. Without genuine agent causation, consciousness might ground value in principle but lack the means to pursue, protect, or create it. Agent causation transforms the consciousness-value connection from a metaphysical observation into a practical reality: agents act *for the sake of* value because they are acquainted with it through experience.
 
 The [Dualism](/tenets/#dualism) tenet is also essential. Agent causation requires the agent to be ontologically distinct from physical events—otherwise, "agent causation" collapses into event causation. Substance dualism provides this: consciousness is a substance that exercises causal powers, not a property of physical substances. Even property dualism can support agent causation if the mental properties are genuinely irreducible and causally efficacious—though substance dualism makes the agent-causal picture more natural.
 
@@ -243,6 +246,7 @@ Against [epiphenomenalism](/concepts/epiphenomenalism/): substance causation com
 - [explanatory-gap](/concepts/explanatory-gap/) — Why physical description leaves consciousness unexplained
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — When agent causation is engaged (authentic choice) vs. attenuated
 - [emergence](/concepts/emergence/) — Related concept of novel causal powers
+- [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why agent causation matters: consciousness grounds value, and agent causation is how value gets realised
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — What agent causation implies for moral obligation, character, and the moral landscape
 
 ## References

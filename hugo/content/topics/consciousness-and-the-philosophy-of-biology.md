@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-24 13:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -13,12 +13,12 @@ concepts:
 - '[[philosophy-of-mind]]'
 created: 2026-02-23
 date: &id001 2026-02-23
-description: How philosophy of biology—function, teleology, organism, adaptation—reframes
-  the consciousness debate beyond physics and neuroscience alone.
+description: Philosophy of biology's own conceptual toolkit—function, teleology, organism,
+  adaptation—struggles with consciousness in ways that deepen the hard problem.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-01 05:47:00+00:00
+last_deep_review: 2026-03-24 13:43:00+00:00
 modified: *id001
 related_articles:
 - '[[evolutionary-case-for-mental-causation]]'
@@ -62,7 +62,7 @@ Modern biology officially banished teleology—the attribution of purpose or dir
 
 Consciousness complicates this settlement. If the Map is right that consciousness causally influences physical outcomes through [agent teleology](/concepts/agent-teleology/), then genuine purpose re-enters the biological world—not as cosmic design, but as local directedness introduced by conscious agents. A bird building a nest acts with purpose not because evolution designed it to, but because a conscious being directs its behaviour toward an end it experiences.
 
-This creates a bifurcation within biology. Unconscious organisms (if any exist) are fully described by teleonomy—apparent purpose grounded in selection. Conscious organisms introduce actual directedness into the causal order. Philosophy of biology lacks a framework for this distinction because it assumes all biological purpose reduces to the same kind of explanation. The Map's [interactionist dualism](/concepts/interactionist-dualism/) suggests that the transition from teleonomy to teleology is the transition from unconscious mechanism to conscious agency—and that this transition is not itself explicable in purely biological terms. The [biological teleology article](/topics/biological-teleology-and-the-interface-framework/) develops the specific mechanism: the attention-motor selection interface is where biological function becomes genuine purpose.
+This creates a bifurcation within biology. Unconscious organisms (if any exist) are fully described by teleonomy—apparent purpose grounded in selection. Conscious organisms introduce actual directedness into the causal order. Philosophy of biology lacks a framework for this distinction because it assumes all biological purpose reduces to the same kind of explanation. The Map's [interactionist dualism](/concepts/interactionist-dualism/) suggests that the transition from teleonomy to teleology is the transition from unconscious mechanism to conscious agency—and that this transition is not itself explicable in purely biological terms. The [biological teleology and interface framework](/topics/biological-teleology-and-the-interface-framework/) explores the specific locus of this transition: the attention-motor selection interface, where biological function crosses into genuine purpose.
 
 ## The Organism Problem
 

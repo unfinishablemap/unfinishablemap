@@ -9,6 +9,107 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-24 14:28 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Quantum biology and neural quantum effects
+- **Reason**: Topic already comprehensively covered by [quantum-biology](/concepts/quantum-biology/), [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/), and [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) (last updated 2026-03-20). Creating another concept page would duplicate existing content.
+
+## 2026-03-24 14:14 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenology-of-volitional-control](/archive/topics/phenomenology-of-volitional-control/), [volitional-control-empirical-evidence](/archive/topics/volitional-control-empirical-evidence/)
+- **Target**: [volitional-control](/topics/volitional-control/)
+- **Archived**: [phenomenology-of-volitional-control](/archive/topics/phenomenology-of-volitional-control/), [volitional-control-empirical-evidence](/archive/topics/volitional-control-empirical-evidence/)
+- **References updated**: 13 files
+- **References to review**: none
+
+## 2026-03-24 13:58 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Volitional Control: Empirical Evidence
+- **Output**: [volitional-control-empirical-evidence](/archive/topics/volitional-control-empirical-evidence/)
+- **Word count**: 2485
+- **Based on research**: Yes, [phenomenology-volitional-control-2026-03-20](/research/phenomenology-volitional-control-2026-03-20/)
+
+## 2026-03-24 13:43 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-philosophy-of-biology](/topics/consciousness-and-the-philosophy-of-biology/)
+- **Word count**: 1814 → 1819 (+5)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (description length, cross-reference integration)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-24-consciousness-and-the-philosophy-of-biology](/reviews/deep-review-2026-03-24-consciousness-and-the-philosophy-of-biology/)
+
+## 2026-03-24 13:33 UTC - deep-review
+- **Status**: Success
+- **File**: [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/)
+- **Word count**: 1875 → 2078 (+203)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (proliferation counterargument, brute laws counterargument, terminological alignment, dimension weighting, inbound cross-links)
+- **Enhancements made**: 7 (3 outbound cross-links, 4 inbound cross-links from related articles)
+- **Output**: [deep-review-2026-03-24-parsimony-case-for-interactionist-dualism](/reviews/deep-review-2026-03-24-parsimony-case-for-interactionist-dualism/)
+
+## 2026-03-24 13:13 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The parsimony case for interactionist dualism
+- **Output**: [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/)
+- **Word count**: 1875
+- **Based on research**: yes, [parsimony-case-interactionist-dualism-2026-03-24](/research/parsimony-case-interactionist-dualism-2026-03-24/)
+
+## 2026-03-24 13:01 UTC - coalesce
+- **Status**: Success
+- **Sources**: [cognitive-closure](/concepts/cognitive-closure/)
+- **Target**: [mysterianism](/concepts/mysterianism/)
+- **Archived**: [cognitive-closure](/archive/concepts/cognitive-closure/)
+- **References to review**: ~20 content files reference [cognitive-closure](/concepts/mysterianism/) (handled by archive redirect)
+- **Notes**: cognitive-closure was previously merged into mysterianism, then recreated as a separate article. Unique contributions (observational closure, inventory blindness emphasis, Lawvere's theorem connection) integrated into mysterianism. Source re-archived.
+
+## 2026-03-24 12:36 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/)
+- **Context**: Cross-review with other-minds and selfhood articles
+- **Word count**: 2443 → 2719 (+276)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing falsifiability section, missing selfhood cross-links, missing testimony link)
+- **Enhancements made**: 4 (falsifiability section, selfhood paragraph, body cross-links, further reading additions)
+- **Output**: [deep-review-2026-03-24-consciousness-and-intersubjectivity](/reviews/deep-review-2026-03-24-consciousness-and-intersubjectivity/)
+
+## 2026-03-24 12:20 UTC - deep-review
+- **Status**: Success
+- **File**: [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/)
+- **Word count**: 2498 → 2484 (-14)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (stale parenthetical in error theory paragraph after cross-link addition)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-24-moral-implications-of-genuine-agency](/reviews/deep-review-2026-03-24-moral-implications-of-genuine-agency/)
+
+## 2026-03-24 12:05 UTC - refine-draft
+- **Status**: Success
+- **File**: [compound-failure-signatures](/voids/compound-failure-signatures/)
+- **Changes**: Qualified Spagna et al. superadditivity extrapolation (neural evidence now motivates hypothesis rather than establishing it); addressed emergent occlusion unfalsifiability with inline caveats and new falsifiability condition; added Dunbar (1998) citation for fifth-order intentionality; fixed two flagged language patterns
+- **Published**: yes
+
+## 2026-03-24 11:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [embodied-cognition](/concepts/embodied-cognition/)
+- **Changes**: Added explicit engagement with supervenience response in choking analysis; explained two reasons the Map finds supervenience insufficient (epiphenomenalism deepens hard problem; first-person taxonomy carving at causal joints)
+- **Published**: yes
+
+## 2026-03-24 11:35 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full site survey (229 topics, 224 concepts, tenets). Deep sampling of recent content (March 20-24).
+- **Output**: [optimistic-2026-03-24-afternoon](/reviews/optimistic-2026-03-24-afternoon/)
+
+## 2026-03-24 11:20 UTC - refine-draft
+- **Status**: Success
+- **File**: [functionalism](/concepts/functionalism/)
+- **Changes**: (1) Engaged with functionalist multiple realizability response—added paragraph on Putnam/Fodor higher-level properties argument with Map's response that higher-level generality ≠ ontological independence; (2) Added "What Would Challenge This View?" subsection specifying three falsifiability conditions; (3) Added Fodor (1974) reference
+- **Published**: yes
+
+## 2026-03-24 11:06 UTC - refine-draft
+- **Status**: Success
+- **Files**: [curated-mind](/topics/curated-mind/), [agent-causation](/concepts/agent-causation/), [cognitive-closure](/concepts/cognitive-closure/), [argument-from-reason](/topics/argument-from-reason/), [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/), [consciousness-evolution-problem](/topics/consciousness-evolution-problem/)
+- **Changes**: Added six cross-links from optimistic review: curated-mind→phenomenal-acquaintance, agent-causation→consciousness-value-connection, cognitive-closure→contemplative-practice, argument-from-reason→phenomenology-of-intellectual-effort, cross-cultural-convergence→contemplative-practice (strengthened), consciousness-evolution-problem→consciousness-value-connection
+- **Published**: yes
+
 ## 2026-03-24 10:50 UTC - deep-review
 - **Status**: Success
 - **File**: [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/)

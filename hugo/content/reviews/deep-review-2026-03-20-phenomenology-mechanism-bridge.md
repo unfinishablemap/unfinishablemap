@@ -65,7 +65,7 @@ topics: []
 
 **Source articles** (added `[phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/)` to related_articles):
 - [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/)
-- [phenomenology-of-volitional-control](/topics/phenomenology-of-volitional-control/)
+- [phenomenology-of-volitional-control](/topics/volitional-control/)
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)
 - [agent-causation](/concepts/agent-causation/)

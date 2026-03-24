@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-20 19:44:00+00:00
+ai_modified: 2026-03-24 11:51:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -96,9 +96,13 @@ This is consistent with [bidirectional interaction](/concepts/mental-causation/)
 
 The standard neuroscience interpretation explains choking as neural resource competition: conscious monitoring is a neural process that competes with automated motor routines for shared resources. On this reading, "attention disrupting performance" is one neural process interfering with another. Baumeister and Beilock's own explanations are framed in these neural-functional terms, and this reading is mainstream.
 
-The interesting question is whether the neural-functional account is *complete*. The phenomenological categories that predict choking—absorbed versus self-reflective, outcome-focused versus mechanics-focused—are not arbitrary labels. They track the *qualitative character* of the performer's experience, and these qualitative differences reliably predict which performers will choke and under what conditions. A purely functional account must explain why phenomenal distinctions (what it's like to be absorbed versus self-monitoring) so reliably track the causal structure. If phenomenal character were causally inert, its systematic correlation with performance outcomes would be a remarkable coincidence—what Chalmers calls the "explanatory gap" applied to action rather than perception.
+The interesting question is whether the neural-functional account is *complete*. The phenomenological categories that predict choking—absorbed versus self-reflective, outcome-focused versus mechanics-focused—are not arbitrary labels. They track the *qualitative character* of the performer's experience, and these qualitative differences reliably predict which performers will choke and under what conditions.
 
-The Map reads the data as supporting bidirectional interaction, while acknowledging that the physicalist reading accommodates the same data (see the [illusionism](/concepts/illusionism/) article for the full debate). The choking evidence alone does not settle the question—but it shows that embodied cognition's own empirical findings sit comfortably within a dualist framework, contrary to the assumption that embodiment research supports physicalism.
+The standard physicalist response invokes supervenience: phenomenal states supervene on physical states, so correlation between phenomenal character and performance is expected rather than puzzling. The physical base states do the causal work; phenomenal character reliably tracks outcomes because it reliably tracks the underlying physical states. On this view, the correlation requires no special explanation.
+
+The Map finds supervenience insufficient for two reasons. First, supervenience explains correlation at the cost of rendering phenomenal character epiphenomenal—it exists, it tracks the causal structure, but it does nothing. This preserves the correlation while deepening the hard problem: why does phenomenal character exist at all if the physical base does all the work? Supervenience describes a lawful relationship between physical and phenomenal without explaining *why* that relationship holds or why there is something it is like to be in these physical states. Second, the phenomenological taxonomy itself carves at the causal joints with surprising precision. Categories like "absorbed" versus "self-monitoring" were developed from first-person phenomenological analysis (Merleau-Ponty, Dreyfus), not reverse-engineered from neural data. That a taxonomy rooted in qualitative experience predicts performance disruption patterns is what supervenience needs to accommodate—and *can* accommodate, but only by treating phenomenal character as a reliable indicator of causally relevant physical states, which raises the question of why consciousness should be so well-structured if it plays no causal role.
+
+The Map reads the data as supporting bidirectional interaction, while acknowledging that the physicalist-supervenience reading accommodates the same data (see the [illusionism](/concepts/illusionism/) article for the full debate). The choking evidence alone does not settle the question—but it shows that embodied cognition's own empirical findings sit comfortably within a dualist framework, contrary to the assumption that embodiment research supports physicalism.
 
 This phenomenological heritage matters. Merleau-Ponty treated lived experience as irreducible, rejecting both Cartesian dualism and reductive materialism. The lived body is a third term—leaving space for property dualism while rejecting substance dualism.
 
@@ -224,19 +228,15 @@ The key point: embodied cognition challenges a specific historical position (Car
 1. Varela, F., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 
-<!-- AI REFINEMENT LOG - 2026-03-10
+<!-- AI REFINEMENT LOG - 2026-03-24
 Changes made:
-- Rewrote choking argument to address self-defeating strategy: instead of conceding physicalist reading then reasserting dualism, now argues phenomenological categories' predictive reliability poses a genuine explanatory puzzle for physicalism
-- Removed standalone Illusionist Challenge subsection (integrated into choking discussion)
-- Reduced quantum Zeno references: trimmed Amplification Connection section, rewrote Minimal Quantum Interaction tenet to mention mechanism only as "one possibility"
-- Acknowledged Buddhist metaphysical divergence (śūnyatā vs irreducibility) in Buddhist Phenomenology section
-- Softened "explicitly opposes" → "developed partly in opposition to" for embodied cognition's relation to Cartesian dualism
-- Softened "missing ingredient isn't" → "missing ingredient may not be" in AI grounding section
-- Removed unsupported "more naturally accommodated by collapse interpretations" claim in No Many Worlds tenet
-- Sharpened falsifiability criterion 1 to focus on phenomenological predictive power rather than restating what's already conceded
+- Added explicit engagement with supervenience response in choking analysis
+- Acknowledged that supervenience makes phenomenal-performance correlation expected, not coincidental
+- Explained two reasons the Map finds supervenience insufficient: (1) it renders phenomenal character epiphenomenal, deepening the hard problem; (2) first-person phenomenological taxonomy carving at causal joints raises the question of why consciousness is so well-structured if causally inert
+- Updated "physicalist reading" to "physicalist-supervenience reading" for precision
 
-Based on pessimistic review (pessimistic-2026-03-10.md).
-Key improvements: Stronger dualist argument, style guide compliance, intellectual honesty on Buddhist philosophy.
+Based on pessimistic review 2026-03-24b, Issue 3.
+Key improvements: Addresses the strongest standard objection to the choking argument rather than leaving it implicit.
 
 This log should be removed after human review.
 -->

@@ -53,7 +53,7 @@ topics: []
 - Eliminated training section redundancy
 
 ### Cross-links Added
-- [cognitive-closure](/concepts/cognitive-closure/)
+- [cognitive-closure](/concepts/mysterianism/)
 
 ## Remaining Items
 

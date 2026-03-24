@@ -30,8 +30,8 @@ None. Attribution accuracy verified for Fodor, McGinn, Rescher, and Chomsky. No 
 1. **Unsourced dimensionality claim**: "Human perceptual experience operates in perhaps 6-7 dimensions" lacked grounding in any standard framework. The specific number gave false precision.
    - **Resolution**: Replaced with "Human cognition integrates a handful of perceptual channels and can attend to only a few variables simultaneously" — accurate without fabricating a number.
 
-2. **Stale cross-link**: `[cognitive closure](/concepts/mysterianism/)` pointed to the general mysterianism page, but a dedicated `[cognitive-closure](/concepts/cognitive-closure/)` concept page was created 2026-03-11.
-   - **Resolution**: Updated link to `[cognitive closure](/concepts/cognitive-closure/)`.
+2. **Stale cross-link**: `[cognitive closure](/concepts/mysterianism/)` pointed to the general mysterianism page, but a dedicated `[cognitive-closure](/concepts/mysterianism/)` concept page was created 2026-03-11.
+   - **Resolution**: Updated link to `[cognitive closure](/concepts/mysterianism/)`.
 
 3. **Missing bidirectional links**: `cognitive-closure`, `natural-vs-designed-limits`, and `mind-space-void` all link TO this article but weren't linked FROM it.
    - **Resolution**: Added to frontmatter `concepts`/`related_articles` and to Further Reading section.
@@ -67,7 +67,7 @@ All six adversarial personas applied; findings consistent with previous two revi
 4. **Tightened prose**: Minor condensation in AI sections to maintain length-neutrality
 
 ### Cross-links Added
-- [cognitive-closure](/concepts/cognitive-closure/)
+- [cognitive-closure](/concepts/mysterianism/)
 - [natural-vs-designed-limits](/voids/meta-epistemology-of-limits/)
 - [mind-space-void](/voids/mind-space-void/)
 

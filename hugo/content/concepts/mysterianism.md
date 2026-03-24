@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-23 12:23:00+00:00
+ai_modified: 2026-03-24 13:01:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
 - /topics/mysterianism-cognitive-closure/
+- /concepts/cognitive-closure/
 - /concepts/cognitive-closure/
 concepts:
 - '[[minimal-consciousness]]'
@@ -22,6 +23,8 @@ concepts:
 - '[[computational-cognitive-limits]]'
 - '[[cognitive-science-of-dualism]]'
 - '[[causal-closure]]'
+- '[[observational-closure]]'
+- '[[inventory-blindness]]'
 - '[[epistemology-of-limit-knowledge]]'
 created: 2026-01-15
 date: &id001 2026-02-18
@@ -46,6 +49,7 @@ related_articles:
 - '[[altered-states-as-void-probes]]'
 - '[[epistemological-limits-occams-razor]]'
 - '[[phenomenology-of-cognitive-limit-types]]'
+- '[[self-reference-and-the-limits-of-physical-description]]'
 title: Mysterianism and Cognitive Closure
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -76,6 +80,10 @@ McGinn calls his position "transcendental naturalism": the solution is natural (
 Cognitive closure is easily confused with [causal closure of the physical](/concepts/causal-closure/), but the two concepts are independent. Causal closure is an ontological thesis: every physical event that has a cause has a sufficient physical cause. Cognitive closure is an epistemic thesis: certain properties lie permanently beyond a given mind's conceptual reach.
 
 They may interact—if the consciousness-physics interface involves properties we are cognitively closed to, we might be unable to formulate tests detecting violations of causal closure. But they are logically independent: either could hold without the other.
+
+A third related concept—[observational-closure](/concepts/observational-closure/)—adds a further dimension. Observational closure holds that no *detectable* violations of physical causal completeness exist, even if mental causation is real. Where cognitive closure concerns what we can *conceive*, observational closure concerns what we can *measure*. The two may compound: if consciousness operates through mechanisms that are both cognitively opaque and observationally invisible, the mind-body problem resists both theoretical solution and empirical resolution simultaneously.
+
+Crucially, cognitive closure is self-concealing. [Inventory blindness](/concepts/inventory-blindness/)—the condition in which absent cognitive capabilities produce no signal—ensures that a closed mind experiences its conceptual repertoire as complete rather than restricted. The rat does not feel the absence of calculus; the absence simply does not register. If humans are cognitively closed with respect to the consciousness-physics link, we should expect the closure to be invisible from the inside, which is exactly what we observe.
 
 ## Developmental Cognitive Closure
 
@@ -117,7 +125,7 @@ Property P may be the intrinsic categorical nature of matter—whatever underlie
 
 [Mathematical understanding](/topics/consciousness-and-mathematical-cognition/) provides evidence for cognitive limits. Roger Penrose argued that mathematicians recognise truths that no formal system can prove—we can see that the Gödel sentence G is true, even though the system containing G cannot derive it.
 
-Two distinct types of limits converge here. [Computational limits](/voids/computational-cognitive-limits/)—Gödel's incompleteness, the halting problem, Chaitin's constant—are *mathematically proven* and constrain any algorithmic process. McGinn's cognitive closure is a *hypothesis* about human biology: evolution shaped minds for survival, not for solving every problem. If human cognition is computational, both limits apply; if consciousness transcends computation (as Penrose suggests), we might escape formal limits while remaining subject to biological ones—or vice versa. Both point toward the same conclusion: not all truths are accessible to all minds.
+Two distinct types of limits converge here. [Computational limits](/voids/computational-cognitive-limits/)—Gödel's incompleteness, the halting problem, Chaitin's constant—are *mathematically proven* and constrain any algorithmic process. McGinn's cognitive closure is a *hypothesis* about human biology: evolution shaped minds for survival, not for solving every problem. If human cognition is computational, both limits apply; if consciousness transcends computation (as Penrose suggests), we might escape formal limits while remaining subject to biological ones—or vice versa. Category-theoretic work identifies these incompleteness results and quantum measurement limitations as instances of the [same self-referential obstruction](/topics/self-reference-and-the-limits-of-physical-description/)—suggesting that cognitive closure in mathematics and the measurement problem share a common formal root. Both point toward the same conclusion: not all truths are accessible to all minds.
 
 The [mathematical void](/voids/mathematical-void/) illustrates this in practice: we prove theorems about transfinite cardinals while lacking phenomenal access to what "different sizes of infinity" means—not inability to compute, but inability to *understand*.
 
@@ -237,6 +245,9 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [whether-real](/voids/whether-real/) — Can we know if the voids are genuinely permanent?
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Why parsimony cannot settle the consciousness debate
 - [causal-closure](/concepts/causal-closure/) — The distinct ontological thesis about causation (not to be confused with cognitive closure)
+- [observational-closure](/concepts/observational-closure/) — The distinct empirical thesis about detectability of mental causation
+- [inventory-blindness](/concepts/inventory-blindness/) — Why cognitive closure is invisible from the inside: absent capabilities produce no signal
+- [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — The common formal structure (Lawvere's theorem) underlying both Gödelian and quantum limits
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem mysterians think is unsolvable
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gap that may reflect cognitive closure
 - [illusionism](/concepts/illusionism/) — The rival view that consciousness isn't real

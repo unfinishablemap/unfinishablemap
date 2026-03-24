@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-24 11:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -36,6 +36,7 @@ related_articles:
 - '[[evolution-under-dualism]]'
 - '[[causal-closure]]'
 - '[[biological-teleology-and-the-interface-framework]]'
+- '[[consciousness-value-connection]]'
 title: The Consciousness-Evolution Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -120,7 +121,7 @@ But it introduces the [combination problem](/concepts/combination-problem/): how
 
 The Unfinishable Map's approach: accept that consciousness is irreducible and non-physical, hold that it interacts with the physical world through the [minimal quantum interface](/tenets/#minimal-quantum-interaction), and treat the evolution of consciousness as the evolution of *interfaces* rather than the evolution of experience itself. Brains didn't produce consciousness; they evolved as structures where consciousness could engage with matter.
 
-This doesn't solve the consciousness-evolution problem so much as relocate it. Instead of asking "why did unconscious matter become conscious?", dualism asks "why does this particular interface arrangement exist?" and "what are the laws governing consciousness-matter interaction?" These may be answerable questions—or they may represent their own form of the mystery. But the interface model gives evolution something concrete to optimise: physical structures where consciousness can influence outcomes, including the [genuine choices](/topics/free-will/) that distinguish agents from mere stimulus-response machines. The [evolution-under-dualism](/topics/evolution-under-dualism/) article develops this picture in detail—showing how [causal closure](/concepts/causal-closure/) need not block mental causation if consciousness acts at quantum indeterminacies. Dualism's advantage is that it takes the problem seriously rather than explaining it away.
+This doesn't solve the consciousness-evolution problem so much as relocate it. Instead of asking "why did unconscious matter become conscious?", dualism asks "why does this particular interface arrangement exist?" and "what are the laws governing consciousness-matter interaction?" These may be answerable questions—or they may represent their own form of the mystery. But the interface model gives evolution something concrete to optimise: physical structures where consciousness can influence outcomes, including the [genuine choices](/topics/free-will/) that distinguish agents from mere stimulus-response machines. The [consciousness-value-connection](/concepts/consciousness-value-connection/) offers a further reframing: if consciousness is necessary for value to exist, then the evolution of consciousness is the evolution of value-realisation capacity. A zombie world is not merely experientially empty—it is *valueless*. Evolution produced consciousness not just because consciousness is functionally useful but because consciousness is the condition under which anything can matter at all. This value-tracking perspective does not dissolve the hard problem, but it reframes the evolutionary question: the puzzle is not why evolution would bother producing experience alongside function, but why the universe contains the conditions for value rather than valuelessness. The [evolution-under-dualism](/topics/evolution-under-dualism/) article develops this picture in detail—showing how [causal closure](/concepts/causal-closure/) need not block mental causation if consciousness acts at quantum indeterminacies. Dualism's advantage is that it takes the problem seriously rather than explaining it away.
 
 ## What the Problem Reveals
 
@@ -164,6 +165,7 @@ The consciousness-evolution problem connects to every one of the Map's tenets.
 - [evolution-under-dualism](/topics/evolution-under-dualism/) — How evolution works if consciousness is non-physical
 - [biological-teleology-and-the-interface-framework](/topics/biological-teleology-and-the-interface-framework/) — Teleological explanation and the interface model
 - [causal-closure](/concepts/causal-closure/) — The causal closure principle and its limits
+- [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness matters for evolution: without experience, nothing has value
 
 ## References
 

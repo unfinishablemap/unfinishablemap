@@ -24,7 +24,7 @@ related_articles:
 - '[[phenomenology-of-deliberation-under-uncertainty]]'
 - '[[choking-phenomenon-mental-causation]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
-- '[[phenomenology-of-volitional-control]]'
+- '[[volitional-control]]'
 - '[[consciousness-and-causal-powers]]'
 - '[[phenomenology-mechanism-bridge]]'
 title: Consciousness and the Phenomenology of Constraint Satisfaction
@@ -52,7 +52,7 @@ The Unfinishable Map's framework — particularly the [control-theoretic model o
 
 In this view, the brain's unconscious processing generates candidate solutions at enormous bandwidth — aggregate sensory and neural processing reaches ~10⁹ bits/second (Nørretranders, 1998). Consciousness operates at roughly 10 bits/second, selecting among these candidates. Constraint satisfaction is where this architecture becomes most phenomenally vivid, because the constraints themselves shape which candidates the brain generates and which consciousness can accept.
 
-This selection architecture parallels what the [phenomenology of volitional control](/topics/phenomenology-of-volitional-control/) describes for motor action: the brain prepares multiple candidates, and consciousness selects among them. Constraint satisfaction is where this architecture manifests in cognition more broadly. Three features of the selection process have distinctive phenomenal character:
+This selection architecture parallels what the [phenomenology of volitional control](/topics/volitional-control/) describes for motor action: the brain prepares multiple candidates, and consciousness selects among them. Constraint satisfaction is where this architecture manifests in cognition more broadly. Three features of the selection process have distinctive phenomenal character:
 
 **The narrowing.** As constraints tighten, the space of viable options contracts. This contraction is felt — not inferred — as a progressive focusing of attention. Anyone who has worked a crossword puzzle recognises that heavily constrained cells feel different from open ones: the constraint itself guides awareness toward a smaller region of possibility, and this guidance has phenomenal character.
 
@@ -115,7 +115,7 @@ The disconnect between computational complexity and phenomenal intensity poses a
 - [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
-- [phenomenology-of-volitional-control](/topics/phenomenology-of-volitional-control/)
+- [volitional-control](/topics/volitional-control/)
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)

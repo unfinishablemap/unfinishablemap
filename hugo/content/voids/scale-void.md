@@ -76,7 +76,7 @@ The scale void spans multiple categories in the [voids taxonomy](/voids/three-ki
 
 ## What the Failure Reveals
 
-Colin McGinn's [cognitive closure](/concepts/cognitive-closure/) framework illuminates why scale-limits might be structural rather than merely educational. McGinn argues that minds can be *cognitively closed* with respect to certain properties—the properties exist, but the mind's concept-forming procedures cannot extend to grasp them. A rat is cognitively closed to calculus not because it lacks sufficient intelligence within its domain but because the conceptual apparatus simply isn't there.
+Colin McGinn's [cognitive closure](/concepts/mysterianism/) framework illuminates why scale-limits might be structural rather than merely educational. McGinn argues that minds can be *cognitively closed* with respect to certain properties—the properties exist, but the mind's concept-forming procedures cannot extend to grasp them. A rat is cognitively closed to calculus not because it lacks sufficient intelligence within its domain but because the conceptual apparatus simply isn't there.
 
 The scale void suggests humans may be cognitively closed to magnitudes beyond our evolutionary niche. Not closed to *representing* them—we can manipulate the symbols—but closed to *comprehending* them. The symbols work; the intuition is absent. We have the pointer without the referent.
 

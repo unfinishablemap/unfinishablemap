@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-20 08:14:00+00:00
+ai_modified: 2026-03-24 11:06:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -34,6 +34,7 @@ related_articles:
 - '[[phenomenology-of-understanding-and-meaning]]'
 - '[[introspection]]'
 - '[[pragmatisms-path-to-dualism]]'
+- '[[phenomenology-of-intellectual-effort]]'
 title: The Argument from Reason
 topics:
 - '[[dualism]]'
@@ -154,7 +155,8 @@ The physicalist might respond: "If there's no behavioural difference, the distin
 - [free-will](/topics/free-will/) - Rational choice as paradigm case of consciousness selecting among neural patterns
 - [interactionist-dualism](/concepts/interactionist-dualism/) - The Map's framework for mind-body causation
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) - A candidate mechanism for consciousness influencing neural states
-- [voluntary attention](/concepts/attention-as-interface/) - The phenomenology of intellectual effort and its role in reasoning
+- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) - The felt character of reasoning: holding premises, tracing implications, grasping why conclusions follow
+- [voluntary attention](/concepts/attention-as-interface/) - Neural signatures of willed cognitive engagement
 - [mysterianism](/concepts/mysterianism/) - Whether the mechanism of normative awareness may exceed our comprehension
 - [intentionality](/concepts/intentionality/) - Why genuine aboutness requires phenomenal consciousness (phenomenal intentionality thesis)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) - The irreducible phenomenal character of understanding and reasoning

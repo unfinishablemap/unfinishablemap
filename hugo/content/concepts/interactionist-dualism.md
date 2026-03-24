@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-24 13:33:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -52,6 +52,7 @@ related_articles:
 - '[[concepts/materialism]]'
 - '[[duhem-quine-underdetermination-consciousness]]'
 - '[[what-consciousness-tells-us-about-physics]]'
+- '[[parsimony-case-for-interactionist-dualism]]'
 title: Interactionist Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -179,7 +180,7 @@ For comprehensive treatment, see [objections-to-interactionism](/concepts/object
 - **Pairing**: Minds have spatial location—in the brain where they interact
 - **Conservation**: Consciousness selects among equal-energy outcomes; no energy added ([conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/))
 - **Exclusion**: At quantum indeterminacies, no sufficient physical cause exists to exclude
-- **Parsimony**: A theory explaining nothing (physicalism on experience) is not parsimonious—see [parsimony-epistemology](/concepts/parsimony-epistemology/) and [Epistemological Limits of Occam's Razor](/arguments/epistemological-limits-of-occams-razor/)
+- **Parsimony**: A theory explaining nothing (physicalism on experience) is not parsimonious—see [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/), [parsimony-epistemology](/concepts/parsimony-epistemology/), and [Epistemological Limits of Occam's Razor](/arguments/epistemological-limits-of-occams-razor/)
 - **Evolutionary**: Phenomenal valence tracking fitness *supports* interactionism
 - **[Decoherence](/concepts/decoherence/)**: Doesn't solve the measurement problem; consciousness may bias outcomes post-decoherence
 - **Eliminativism**: Consciousness refers to what we know most directly; eliminativism about *that* is incoherent

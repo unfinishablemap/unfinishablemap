@@ -42,7 +42,7 @@ related_articles:
 - '[[metaphysics-of-information-under-dualism]]'
 - '[[value-blind-vs-value-sensitive-selection]]'
 - '[[the-epiphenomenalist-threat]]'
-- '[[phenomenology-of-volitional-control]]'
+- '[[volitional-control]]'
 title: Consciousness and Causal Powers
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -119,7 +119,7 @@ This requires [psychophysical-laws](/concepts/psychophysical-laws/)—psychophys
 
 ### Volitional Modulation
 
-The [phenomenology of volitional control](/topics/phenomenology-of-volitional-control/)—including conscious veto and the "whether" component of intentional action (Brass & Haggard 2007)—provides direct evidence that consciousness modulates its own causal engagement. Consciousness might modulate the strength of its own causal influence—what we experience as "trying harder" or "letting go." This meta-level causal power would explain the [phenomenology of effort](/topics/phenomenology-of-intellectual-effort/): the sense that we can choose how much conscious attention to devote to a task, how strongly to resist an impulse, how thoroughly to deliberate.
+The [phenomenology of volitional control](/topics/volitional-control/)—including conscious veto and the "whether" component of intentional action (Brass & Haggard 2007)—provides direct evidence that consciousness modulates its own causal engagement. Consciousness might modulate the strength of its own causal influence—what we experience as "trying harder" or "letting go." This meta-level causal power would explain the [phenomenology of effort](/topics/phenomenology-of-intellectual-effort/): the sense that we can choose how much conscious attention to devote to a task, how strongly to resist an impulse, how thoroughly to deliberate.
 
 The phenomenology here is instructive. Resisting a strong impulse feels effortful in a way that going along with it does not. Maintaining focus on a boring task requires something that letting attention wander does not. These phenomenological differences suggest that consciousness can vary its causal engagement—that the intensity of phenomenal effort corresponds to the strength of causal influence on neural outcomes.
 
@@ -216,13 +216,13 @@ The cost is commitment to quantum effects in the brain operating at timescales r
 - [consciousness-and-the-ontology-of-dispositions](/topics/consciousness-and-the-ontology-of-dispositions/) — Whether consciousness is a disposition, has dispositions, or transcends dispositional ontology
 - [The Phenomenology of Consciousness Doing Work](/apex/phenomenology-of-consciousness-doing-work/) — Apex synthesis: how the phenomenology of effort, selection, and holding constitutes evidence for causal powers
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why most frameworks converge on causal impotence without a specific mechanism
-- [phenomenology-of-volitional-control](/topics/phenomenology-of-volitional-control/) — First-person evidence for the causal powers framework: veto, agency, and the Libet dissolution
+- [volitional-control](/topics/volitional-control/) — First-person evidence for the causal powers framework: veto, agency, and the Libet dissolution
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — The syntax-semantics divide in causal selection: syntactic physics, semantic consciousness
 
 <!-- AI REFINEMENT LOG - 2026-03-20
 Changes made:
 - Added cross-link to the-epiphenomenalist-threat in opening paragraph (escape route specification)
-- Added cross-link to phenomenology-of-volitional-control in Further Reading (first-person evidence)
+- Added cross-link to volitional-control in Further Reading (first-person evidence)
 - Added both to related_articles frontmatter and Further Reading
 
 Based on optimistic-2026-03-20-midday.md cross-linking suggestions.

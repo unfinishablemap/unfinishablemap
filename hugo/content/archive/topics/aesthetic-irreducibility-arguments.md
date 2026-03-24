@@ -117,7 +117,7 @@ This transformative character matters because a physical property does not depen
 
 If aesthetic quality were a structural property of the object, training would improve *detection* but not change the property itself. What happens instead is that the phenomenal landscape expands — new regions of beauty become accessible as consciousness develops. [Contemplative traditions](/topics/contemplative-practice-as-philosophical-evidence/) have developed systematic methods for cultivating this kind of phenomenal receptivity, further suggesting that aesthetic capacity belongs to consciousness rather than to objects.
 
-The training effect tests the formal beauty argument directly. A jazz musician finds beauty in chord extensions that a classical listener finds dissonant. The formal properties are identical for both listeners; the aesthetic experience differs. This suggests the explanatory gap in formal aesthetics may not be merely a temporary ignorance but a case of [cognitive-closure](/concepts/cognitive-closure/) — an architectural limit on what physical description can reveal about phenomenal experience. The structure is fully specified; the gap persists; and more structural detail does not close it. If the property linking formal structure to aesthetic experience lies outside the reach of our concept-forming procedures, the gap is permanent — not because the property is unreal but because our cognitive architecture cannot grasp it.
+The training effect tests the formal beauty argument directly. A jazz musician finds beauty in chord extensions that a classical listener finds dissonant. The formal properties are identical for both listeners; the aesthetic experience differs. This suggests the explanatory gap in formal aesthetics may not be merely a temporary ignorance but a case of [cognitive-closure](/concepts/mysterianism/) — an architectural limit on what physical description can reveal about phenomenal experience. The structure is fully specified; the gap persists; and more structural detail does not close it. If the property linking formal structure to aesthetic experience lies outside the reach of our concept-forming procedures, the gap is permanent — not because the property is unreal but because our cognitive architecture cannot grasp it.
 
 ## Cross-Modal Aesthetic Judgments
 
@@ -168,7 +168,7 @@ The aesthetic irreducibility arguments would weaken if:
 - [knowledge-argument](/concepts/knowledge-argument/) — Why phenomenal facts exceed physical facts
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — Why phenomenal properties resist physical reduction
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Why aesthetic knowledge requires experience
-- [cognitive-closure](/concepts/cognitive-closure/) — Why the structure-experience gap may be permanent
+- [cognitive-closure](/concepts/mysterianism/) — Why the structure-experience gap may be permanent
 
 ## References
 

@@ -53,7 +53,7 @@ None.
 ### Cross-links Added
 - [filter-theory](/concepts/filter-theory/)
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/)
-- [cognitive-closure](/concepts/cognitive-closure/)
+- [cognitive-closure](/concepts/mysterianism/)
 
 ## Remaining Items
 

@@ -50,7 +50,7 @@ This review was triggered by orphan detection: the article had zero inbound link
 
 Each link was added both in the article body (at a contextually natural point) and in the Further Reading section:
 
-1. **[cognitive-closure](/concepts/cognitive-closure/)** — In Relation to Site Perspective section, referencing epistemology-of-limit-knowledge as the systematic account of what kind of knowledge cognitive closure claims represent
+1. **[cognitive-closure](/concepts/mysterianism/)** — In Relation to Site Perspective section, referencing epistemology-of-limit-knowledge as the systematic account of what kind of knowledge cognitive closure claims represent
 2. **[convergence-as-evidence](/voids/convergence-as-evidence/)** — In Directional Convergence section, identifying convergence as one of four epistemic routes producing triangulation knowledge
 3. **[compound-failure-signatures](/voids/compound-failure-signatures/)** — In Failure Signatures as Data section, identifying failure analysis as one of four methods producing diagnostic knowledge
 4. **[limits-reveal-structure](/voids/limits-reveal-structure/)** — In Species-Specific Closure section, identifying structural inference as one of four methods producing architectural knowledge

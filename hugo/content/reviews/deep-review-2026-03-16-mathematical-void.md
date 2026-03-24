@@ -52,10 +52,10 @@ Word count: 2601 → 2610 words (130% of 2000 soft threshold). Operated in lengt
 ### Enhancements Made
 - Kant passage rewritten as accurate paraphrase (length-neutral)
 - Removed stale AI refinement log comment
-- Added `[cognitive-closure](/concepts/cognitive-closure/)` and `[mathematical-knowledge-and-insight](/topics/mathematical-knowledge-and-insight/)` to related_articles
+- Added `[cognitive-closure](/concepts/mysterianism/)` and `[mathematical-knowledge-and-insight](/topics/mathematical-knowledge-and-insight/)` to related_articles
 
 ### Cross-links Added
-- `[cognitive-closure](/concepts/cognitive-closure/)` (in frontmatter)
+- `[cognitive-closure](/concepts/mysterianism/)` (in frontmatter)
 - `[mathematical-knowledge-and-insight](/topics/mathematical-knowledge-and-insight/)` (in frontmatter)
 
 ## Remaining Items

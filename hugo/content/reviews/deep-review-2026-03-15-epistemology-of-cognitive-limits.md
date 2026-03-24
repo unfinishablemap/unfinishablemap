@@ -26,8 +26,8 @@ topics: []
 - None. The attribution fixes from the 2026-02-07 review (McGinn quote sourcing, Kriegel quote accuracy, Dunning-Kruger qualifier preservation) all hold. No new factual errors or misattributions identified.
 
 ### Medium Issues Found
-- **Missing cross-links to new pages**: Five concept/void pages created since the last review (2026-02-07) were directly relevant but unlinked: [cognitive-closure](/concepts/cognitive-closure/), [introspective-opacity](/voids/introspective-opacity/), [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/), [evidential-weight-of-voids](/voids/convergence-as-evidence/), [evolved-cognitive-limits](/voids/biological-cognitive-closure/). Resolution: Added inline wikilinks in body text and updated frontmatter.
-- **Incomplete frontmatter concepts**: [cognitive-closure](/concepts/cognitive-closure/) and [introspection](/concepts/introspection/) were discussed but not listed in concepts. Resolution: Added to frontmatter.
+- **Missing cross-links to new pages**: Five concept/void pages created since the last review (2026-02-07) were directly relevant but unlinked: [cognitive-closure](/concepts/mysterianism/), [introspective-opacity](/voids/introspective-opacity/), [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/), [evidential-weight-of-voids](/voids/convergence-as-evidence/), [evolved-cognitive-limits](/voids/biological-cognitive-closure/). Resolution: Added inline wikilinks in body text and updated frontmatter.
+- **Incomplete frontmatter concepts**: [cognitive-closure](/concepts/mysterianism/) and [introspection](/concepts/introspection/) were discussed but not listed in concepts. Resolution: Added to frontmatter.
 - **Vague IEP reference**: "As the Internet Encyclopedia of Philosophy notes" in the temporary/permanent mysterianism section lacks a specific entry or author citation. Deferred: low priority, and the claim accurately represents the IEP's discussion of mysterianism.
 
 ### Counterarguments Considered
@@ -47,12 +47,12 @@ topics: []
 
 ### Enhancements Made
 - Added 5 cross-links to pages created since last review
-- Updated frontmatter concepts (added [cognitive-closure](/concepts/cognitive-closure/), [introspection](/concepts/introspection/))
+- Updated frontmatter concepts (added [cognitive-closure](/concepts/mysterianism/), [introspection](/concepts/introspection/))
 - Updated frontmatter related_articles (added 4 entries)
 - Trimmed convergence section by ~10 words to maintain length neutrality
 
 ### Cross-links Added
-- [cognitive-closure](/concepts/cognitive-closure/) (Core Problem section)
+- [cognitive-closure](/concepts/mysterianism/) (Core Problem section)
 - [introspective-opacity](/voids/introspective-opacity/) (Core Problem section)
 - [evolved-cognitive-limits](/voids/biological-cognitive-closure/) (Problems and Mysteries section)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) (Phenomenology of the Meta-Limit section)

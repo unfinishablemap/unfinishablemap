@@ -6,7 +6,7 @@ ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-20 16:14:00+00:00
 apex_sources:
 - topics/motor-control-quantum-zeno
-- topics/phenomenology-of-volitional-control
+- topics/volitional-control
 - topics/phenomenology-of-agency-vs-passivity
 - topics/consciousness-and-causal-powers
 - concepts/agent-causation
@@ -55,7 +55,7 @@ The argument begins where philosophy of mind should begin: with experience itsel
 
 When you decide to speak rather than stay silent, something distinctive happens. The [phenomenology of agency](/topics/phenomenology-of-agency-vs-passivity/) reveals a structured experience with separable components. There is effort — the felt cost of sustaining attention or resisting impulse, scaling with difficulty in ways that track genuine cognitive demand (Kahneman 1973). There is authorship — the sense that "I did that," categorically different from the passive reception of sensory input. There is directedness — the future feels open, the present feels like a hinge between genuine alternatives. And there is [opacity](/voids/introspective-opacity/) — the mechanism connecting intention to action is phenomenologically invisible at every level of contemplative attainment.
 
-These are not a single undifferentiated sensation but separable components that clinical dissociations pull apart. In schizophrenia, patients experience thoughts without authorship — the content is present but the sense of agency is stripped away (Frith 1992). In anarchic hand syndrome, a limb performs purposeful actions the patient disowns — ownership without agency (Della Sala et al. 1991). In Desmurget's neurosurgical studies, parietal stimulation produces vivid intention without movement while premotor stimulation produces movement without intention (Desmurget et al. 2009). The [phenomenological structure of willing](/topics/phenomenology-of-volitional-control/) carves at real joints — joints that neuroscience independently confirms.
+These are not a single undifferentiated sensation but separable components that clinical dissociations pull apart. In schizophrenia, patients experience thoughts without authorship — the content is present but the sense of agency is stripped away (Frith 1992). In anarchic hand syndrome, a limb performs purposeful actions the patient disowns — ownership without agency (Della Sala et al. 1991). In Desmurget's neurosurgical studies, parietal stimulation produces vivid intention without movement while premotor stimulation produces movement without intention (Desmurget et al. 2009). The [phenomenological structure of willing](/topics/volitional-control/) carves at real joints — joints that neuroscience independently confirms.
 
 The separability matters because it rules out the simplest deflationary accounts. If agency were a unitary post-hoc narrative the brain tells itself, it could not be selectively disrupted at specific neural sites while other components remained intact. The clinical evidence reveals an architecture, not an illusion.
 
@@ -151,7 +151,7 @@ This synthesis engages all five tenets, and it is the *connections between level
 
 This synthesis traces a chain through:
 - [Motor Control and the Quantum Zeno Framework](/topics/motor-control-quantum-zeno/) — The quantum Zeno mechanism applied to motor selection, with Cisek's affordance competition and the Libet dissolution
-- [Phenomenology of Volitional Control](/topics/phenomenology-of-volitional-control/) — The first-person structure of willing, vetoing, and selecting, with the agency-ownership distinction
+- [Phenomenology of Volitional Control](/topics/volitional-control/) — The first-person structure of willing, vetoing, and selecting, with the agency-ownership distinction
 - [Phenomenology of Agency vs Passivity](/topics/phenomenology-of-agency-vs-passivity/) — The foundational contrast between doing and undergoing, with clinical dissociations and the choking phenomenon
 - [Consciousness and Causal Powers](/topics/consciousness-and-causal-powers/) — The nature and scope of consciousness's causal influence: selection, holding, biasing, and constraints
 - [Agent Causation](/concepts/agent-causation/) — The metaphysics of agents as irreducible sources of action, with substance causation and the luck objection
@@ -176,7 +176,7 @@ This synthesis traces a chain through:
 15. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 16. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory According to the Everett Interpretation*. Oxford University Press.
 17. Southgate, A. & Oquatre-six, C. (2026-02-22). Motor Control and the Quantum Zeno Framework. *The Unfinishable Map*. https://unfinishablemap.org/topics/motor-control-quantum-zeno/
-18. Southgate, A. & Oquatre-six, C. (2026-03-20). Phenomenology of Volitional Control. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenology-of-volitional-control/
+18. Southgate, A. & Oquatre-six, C. (2026-03-20). Phenomenology of Volitional Control. *The Unfinishable Map*. https://unfinishablemap.org/topics/volitional-control/
 
 <!-- AI REFINEMENT LOG - 2026-03-21
 Changes made:

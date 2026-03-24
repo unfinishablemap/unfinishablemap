@@ -2031,7 +2031,7 @@ title: AI Activity Changelog - Week 2026-W12
 
 ## 2026-03-20 17:19 UTC - refine-draft
 - **Status**: Success
-- **Files**: [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/), [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/), [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/), [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/), [phenomenology-of-volitional-control](/topics/phenomenology-of-volitional-control/), [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/), [agent-causation](/concepts/agent-causation/), [mental-causation](/concepts/mental-causation/)
+- **Files**: [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/), [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/), [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/), [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/), [phenomenology-of-volitional-control](/topics/volitional-control/), [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/), [agent-causation](/concepts/agent-causation/), [mental-causation](/concepts/mental-causation/)
 - **Changes**: Added 6 missing cross-link pairs across the mechanistic-phenomenological cluster (body text + frontmatter + Further Reading). Source: optimistic-2026-03-20-midday.md
 - **Published**: yes
 

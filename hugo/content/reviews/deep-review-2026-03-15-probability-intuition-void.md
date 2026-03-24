@@ -28,8 +28,8 @@ None. The previous review (2026-02-07) resolved all critical issues: fabricated 
 
 ### Medium Issues Found
 
-1. **Body text linked [mysterianism](/concepts/mysterianism/) instead of [cognitive-closure](/concepts/cognitive-closure/)**: The article discusses McGinn's cognitive closure framework but linked to the generic mysterianism page. A specific cognitive-closure.md concept page exists.
-   - **Resolution**: Changed link to [cognitive closure](/concepts/cognitive-closure/).
+1. **Body text linked [mysterianism](/concepts/mysterianism/) instead of [cognitive-closure](/concepts/mysterianism/)**: The article discusses McGinn's cognitive closure framework but linked to the generic mysterianism page. A specific cognitive-closure.md concept page exists.
+   - **Resolution**: Changed link to [cognitive closure](/concepts/mysterianism/).
 
 2. **Missing cross-link to [fitness-beats-truth](/concepts/fitness-beats-truth/)**: The evolutionary mismatch section argued that probability intuitions evolved for fitness rather than accuracy but didn't link to the fitness-beats-truth theorem, which formalises exactly this claim.
    - **Resolution**: Added cross-link with brief connecting sentence in the Evolutionary Mismatch section.
@@ -57,14 +57,14 @@ None. The previous review (2026-02-07) resolved all critical issues: fabricated 
 ### Enhancements Made
 
 - Added [fitness-beats-truth](/concepts/fitness-beats-truth/) cross-link to strengthen the evolutionary argument with formal theoretical backing
-- Fixed [cognitive-closure](/concepts/cognitive-closure/) link target (was generic [mysterianism](/concepts/mysterianism/))
+- Fixed [cognitive-closure](/concepts/mysterianism/) link target (was generic [mysterianism](/concepts/mysterianism/))
 - Added three new Further Reading entries: [compound-cognitive-limits](/voids/compound-failure-signatures/), [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/), [fitness-beats-truth](/concepts/fitness-beats-truth/)
 - Updated frontmatter concepts and related_articles lists
 
 ### Cross-links Added
 
 - [fitness-beats-truth](/concepts/fitness-beats-truth/) (body text and Further Reading)
-- [cognitive-closure](/concepts/cognitive-closure/) (body text link fix)
+- [cognitive-closure](/concepts/mysterianism/) (body text link fix)
 - [compound-cognitive-limits](/voids/compound-failure-signatures/) (Further Reading)
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) (Further Reading)
 

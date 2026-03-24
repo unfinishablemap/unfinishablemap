@@ -95,7 +95,7 @@ The cognitive impenetrability boundary functions as a void in the Map's framewor
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
 - [consciousness-only-territories](/voids/consciousness-only-territories/)
 - [illusionism](/concepts/illusionism/)
-- [cognitive-closure](/concepts/cognitive-closure/)
+- [cognitive-closure](/concepts/mysterianism/)
 
 ## References
 

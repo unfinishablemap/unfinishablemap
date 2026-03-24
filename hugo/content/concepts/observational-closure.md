@@ -84,7 +84,7 @@ Many well-confirmed theories specify domains of applicability. Conservation of e
 
 ## Cognitive Closure as a Distinct Thesis
 
-[Colin McGinn's cognitive closure](/concepts/cognitive-closure/)—the thesis that human minds may be constitutionally incapable of understanding the consciousness-physics interface—is conceptually distinct from observational closure. Cognitive closure is an epistemic claim about the limits of human understanding; observational closure is an empirical claim about the limits of physical detection. They may interact: if the consciousness-physics interface involves properties that are both cognitively closed and observationally undetectable, this would explain why the problem resists both theoretical solution and empirical resolution. But the two theses stand or fall independently.
+[Colin McGinn's cognitive closure](/concepts/mysterianism/)—the thesis that human minds may be constitutionally incapable of understanding the consciousness-physics interface—is conceptually distinct from observational closure. Cognitive closure is an epistemic claim about the limits of human understanding; observational closure is an empirical claim about the limits of physical detection. They may interact: if the consciousness-physics interface involves properties that are both cognitively closed and observationally undetectable, this would explain why the problem resists both theoretical solution and empirical resolution. But the two theses stand or fall independently.
 
 ## Relation to Site Perspective
 
@@ -106,7 +106,7 @@ The distinction also bears on testability. The Map's position is not empirically
 - [preemption](/concepts/preemption/) — The causal structure making delegation observationally invisible
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum Zeno framework satisfying observational closure via statistical invisibility
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why mental causation violates neither conservation laws nor observational closure
-- [cognitive-closure](/concepts/cognitive-closure/) — The distinct epistemic thesis about limits of human understanding
+- [cognitive-closure](/concepts/mysterianism/) — The distinct epistemic thesis about limits of human understanding
 - [mysterianism](/concepts/mysterianism/) — Broader philosophical position applying cognitive closure to consciousness
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework observational closure defends
 

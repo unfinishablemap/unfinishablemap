@@ -80,7 +80,7 @@ None. The article has no factual errors, internal contradictions, missing requir
 - [attention-as-interface](/concepts/attention-as-interface/) — In the convergence section opening
 - [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) — In the new flow states paragraph
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — In the challenges section
-- [cognitive-closure](/concepts/cognitive-closure/) — In the new cognitive closure paragraph
+- [cognitive-closure](/concepts/mysterianism/) — In the new cognitive closure paragraph
 - [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — In the AI grounding discussion
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Replacing broken [brain-specialness](/concepts/brain-interface-boundary/) link
 

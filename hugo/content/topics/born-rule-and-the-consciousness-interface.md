@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-03-24 08:20:00+00:00
+ai_modified: 2026-03-24 14:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -37,6 +37,7 @@ related_articles:
 - '[[interface-formalization-void]]'
 - '[[philosophical-stakes-of-spontaneous-collapse]]'
 - '[[penrose-gravity-induced-collapse-empirical-prospects]]'
+- '[[phenomenal-non-compositionality]]'
 title: The Born Rule and the Consciousness-Physics Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -137,7 +138,7 @@ Tonetto's analysis of quantum causal closure identifies where this meeting occur
 
 This reinterpretation explains several otherwise puzzling features:
 
-**Why additivity is irreducible.** If the Born rule governs the interface between consciousness and quantum indeterminacy, additivity is a constraint on how consciousness encounters mutually exclusive possibilities. Consciousness experiences *one* outcome; the others are excluded. The probabilities of excluded outcomes must sum coherently because consciousness cannot experience fractional exclusion. Additivity is an axiom about the structure of experience, not about physics — which is why it cannot be derived from physical postulates.
+**Why additivity is irreducible.** If the Born rule governs the interface between consciousness and quantum indeterminacy, additivity is a constraint on how consciousness encounters mutually exclusive possibilities. Consciousness experiences *one* outcome; the others are excluded. The probabilities of excluded outcomes must sum coherently because consciousness cannot experience fractional exclusion. [Phenomenal non-compositionality](/concepts/phenomenal-non-compositionality/) reinforces this reading: consciousness acts as a unified selector, not as an aggregate of micro-selections that could be decomposed and reassembled. The Born rule's additivity reflects the structure of a non-compositional consciousness encountering discrete alternatives — an axiom about the structure of experience, not about physics, which is why it cannot be derived from physical postulates.
 
 **Why every derivation presupposes an observer.** If the Born rule is an interface specification, it necessarily involves both sides of the interface. No derivation from physics alone can generate it, just as no description of a lock alone can specify the shape of the key.
 
@@ -159,7 +160,7 @@ Third, the Map's position does not predict specific deviations from the Born rul
 
 **[Dualism](/tenets/#dualism)**: If no physical framework — deterministic or stochastic, local or retrocausal, operational or categorical — can generate the Born rule without presupposing observers or probability, this supports the claim that consciousness contributes something ontologically irreducible to the measurement process. The rule marks a boundary that physical description approaches from one side but cannot cross.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The Torres Alegre result specifies what "minimal" means with mathematical precision. Consciousness's influence at quantum indeterminacies must follow the Born rule exactly — not as a choice among possible probability laws but as the unique law compatible with no-signalling. Any interaction pattern other than Born-rule compliance would be empirically visible.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The Torres Alegre result specifies what "minimal" means with mathematical precision. Consciousness's influence at quantum indeterminacies must follow the Born rule exactly — not as a choice among possible probability laws but as the unique law compatible with no-signalling. Any interaction pattern other than Born-rule compliance would be empirically visible. [Phenomenal non-compositionality](/concepts/phenomenal-non-compositionality/) further constrains the interaction: because consciousness cannot be decomposed into sub-experiential parts, its influence at quantum indeterminacies operates at a unified locus rather than being distributed across many independent micro-interactions — consistent with the tenet's insistence on the smallest possible non-physical influence.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Every derivation presupposes an observer who obtains outcomes. If obtaining an outcome is itself an act — consciousness selecting among possibilities — then the Born rule's observer-dependence reflects genuine bidirectional causation. The rule describes not a passive observation but an active interface. Consciousness shapes which outcome actualises without altering the probability distribution that governs the selection.
 
