@@ -3,6 +3,11 @@ title: "Volitional Control: Empirical Evidence"
 description: "Clinical dissociations, brain stimulation, intentional binding, and neuroplasticity converge to show that the phenomenology of willing tracks real causal structures—not post-hoc confabulation."
 created: 2026-03-24
 modified: 2026-03-24
+archived: true
+archived_date: 2026-03-24T14:14:00+00:00
+superseded_by: "/topics/volitional-control/"
+archive_reason: "Coalesced into Volitional Control"
+original_path: "/topics/volitional-control-empirical-evidence/"
 human_modified:
 ai_modified: 2026-03-24T13:58:00+00:00
 draft: false

@@ -2,7 +2,12 @@
 title: "Phenomenology of Volitional Control"
 description: "The first-person experience of willing—agency, veto, and the Libet debate—reveals structures that neuroscience cannot dissolve and that support genuine conscious causation."
 created: 2026-03-20
-modified: 2026-03-20
+modified: 2026-03-24
+archived: true
+archived_date: 2026-03-24T14:14:00+00:00
+superseded_by: "/topics/volitional-control/"
+archive_reason: "Coalesced into Volitional Control"
+original_path: "/topics/phenomenology-of-volitional-control/"
 human_modified:
 ai_modified: 2026-03-20T17:19:00+00:00
 last_deep_review: 2026-03-20T12:13:00+00:00

@@ -8,7 +8,7 @@ ai_modified: 2026-03-24T08:51:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
-  - "[[phenomenology-of-volitional-control]]"
+  - "[[volitional-control]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[consciousness-and-causal-powers]]"
 concepts:
@@ -220,7 +220,7 @@ The phenomenology-of-choice-and-volition framework would face serious difficulty
 - [[retrocausality]] — How atemporal selection might manifest phenomenally
 - [[haecceity]] — Why *this* chooser matters
 - [[quantum-indeterminacy-free-will]] — How quantum mechanics supports libertarian freedom
-- [[phenomenology-of-volitional-control]] — Libet, Schurger, and the evidence for conscious causation
+- [[volitional-control]] — Libet, Schurger, and the evidence for conscious causation
 - [[control-theoretic-will]] — Engineering models of volition and their limits
 - [[cross-cultural-phenomenology-of-agency]] — How the invariants of volitional experience persist across cultures
 - [[phenomenology-of-agency-vs-passivity]] — The spectrum from full agency to full passivity
