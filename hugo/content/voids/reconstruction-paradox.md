@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-03-12 23:19:00+00:00
+ai_modified: 2026-03-24 08:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,6 +22,9 @@ last_deep_review: 2026-03-12 23:19:00+00:00
 modified: *id001
 related_articles:
 - '[[selective-correction-and-reconstruction-paradox]]'
+- '[[curated-mind]]'
+- '[[perceptual-reconstruction-selection]]'
+- '[[perceptual-failure-and-the-interface]]'
 - '[[illusionism]]'
 - '[[epiphenomenalism]]'
 - '[[hard-problem-of-consciousness]]'
@@ -83,8 +86,10 @@ The cognitive impenetrability boundary functions as a void in the Map's framewor
 
 ## Further Reading
 
-- [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) — the philosophical paradox in concept form
-- [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) — the mechanism of asymmetric correction
+- [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) — the concept defining selective correction and the three conditions
+- [curated-mind](/topics/curated-mind/) — the curation argument extended across body schema, memory, and self-model
+- [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/) — the third mode: consciousness selecting among ambiguous percepts
+- [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — bandwidth degradation and the interface
 - [dualist-perception](/topics/dualist-perception/)
 - [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)

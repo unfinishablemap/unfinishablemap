@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-23 21:43:00+00:00
+ai_modified: 2026-03-24 09:36:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Why does experience belong to anyone? The ownership problem asks wh
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-01 04:40:00+00:00
+last_deep_review: 2026-03-24 09:36:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -32,6 +32,7 @@ related_articles:
 - '[[identity-across-transformations]]'
 - '[[ownership-void]]'
 - '[[phenomenological-psychiatry-and-altered-experience]]'
+- '[[phenomenology-of-embodiment-under-dualism]]'
 - '[[indexical-void]]'
 title: Consciousness and the Ownership Problem
 topics:
@@ -141,6 +142,7 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 - [The Ownership Void](/voids/ownership-void/) — Why the ownership mechanism hides from introspection
 - [witness-consciousness](/concepts/witness-consciousness/) — Ownership stripped of narrative content
 - [parfit-reductionism](/concepts/parfit-reductionism/) — The reductionist challenge to primitive ownership
+- [phenomenology-of-embodiment-under-dualism](/topics/phenomenology-of-embodiment-under-dualism/) — Bodily ownership and agency as pre-reflective dimensions of embodied subjectivity
 - [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/) — Clinical evidence for ownership as a separable structural feature of consciousness
 
 ## References

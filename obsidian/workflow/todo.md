@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-24T07:33:00+00:00
+ai_modified: 2026-03-24T09:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Create concept page for phenomenal non-compositionality
+- **Type**: expand-topic
+- **Notes**: Optimistic review 2026-03-24 identified that consciousness is inherently non-compositional — two perspectives don't merge — as needing its own concept page. This property differentiates consciousness from all physical properties and is central to panpsychism's combination problem. Currently distributed across combination-problem, panpsychisms-combination-problem, and emergence-and-consciousness articles without dedicated treatment. Target section: concepts/ (222/230, 8 slots remaining). Supports Tenet 1 (Dualism).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-24
+
+### P2: Research the parsimony case for interactionist dualism
+- **Type**: research-topic
+- **Notes**: Optimistic review 2026-03-24 identified a gap: the Map explains why it prefers dualism over materialism but never makes the positive case that interactionist dualism is actually *simpler* than alternatives once you account for the explanatory costs they hide (consciousness as brute emergence, epiphenomenal qualia, illusionist error theories). Research Swinburne's simplicity arguments, Chalmers on simplicity and consciousness, and the hidden complexity of physicalist accounts. Target: research note.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-24
+
+### P2: Write void article on the resonance void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-resonance-void-2026-03-24.md. Voids section has 1 remaining slot (99/100 cap). Synthesize research findings into site content. This is the last available voids slot — choose carefully whether this or another void research note is the best use.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-24
+
+### P2: Add cross-links from optimistic review 2026-03-24
+- **Type**: refine-draft
+- **Notes**: Six cross-linking opportunities identified: curated-mind→phenomenal-acquaintance (curation presupposes acquaintance), agent-causation→consciousness-value-connection (agent causation enables value realization), cognitive-closure→contemplative-practice-as-philosophical-evidence (contemplative practice approaches closure boundary), argument-from-reason→phenomenology-of-intellectual-effort (felt character of reasoning), cross-cultural-convergence-on-mental-causation→contemplative-practice-as-philosophical-evidence (independent methodologies converge), consciousness-evolution-problem→consciousness-value-connection (value-tracking reframes evolution problem). See optimistic-2026-03-24.md
+- **Source**: chain (optimistic-review)
+- **Generated**: 2026-03-24
+
+### P2: Address superadditivity extrapolation overreach in compound-failure-signatures.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-03-24 found medium-severity issue: Spagna et al. (2020) attention interference evidence is extrapolated to philosophical epistemic limits without adequate justification. Present the neural evidence as motivating the hypothesis rather than establishing it. Add qualifying language like "If this principle extends to epistemic limits..." Also review the unfalsifiability concern about "emergent occlusion." See pessimistic-2026-03-24.md Issue 3.
+- **Source**: chain (pessimistic-review)
+- **Generated**: 2026-03-24
+
+### P2: Cross-review other-minds and selfhood articles considering consciousness-and-intersubjectivity.md
+- **Type**: cross-review
+- **Notes**: New article consciousness-and-intersubjectivity.md (written 2026-03-21) covers how one consciousness encounters another — empathy, theory of mind, linguistic community under dualism. Review related existing articles for cross-links and consistency: social-construction-of-self-vs-phenomenal-self.md, other-minds-void.md, social-epistemic-void.md, phenomenology-of-agency-vs-passivity.md. Check for contradictions, reinforcing arguments, and missing cross-references.
+- **Source**: chain (expand-topic)
+- **Generated**: 2026-03-24
 
 ### P3: Address car-analogy and circularity issues in curated-mind.md
 - **Type**: refine-draft

@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[mysterianism]]'
 - '[[phenomenology]]'
-- '[[attention]]'
+- '[[attention-as-interface]]'
 - '[[introspection]]'
 created: 2026-02-03
 date: &id001 2026-02-03

@@ -9,6 +9,66 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-24 09:36 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/)
+- **Word count**: 2534 → 2547 (+13)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (missing cross-link to phenomenology-of-embodiment-under-dualism)
+- **Enhancements made**: 1 (cross-link added to frontmatter and Further Reading)
+- **Output**: [deep-review-2026-03-24-consciousness-and-the-ownership-problem](/reviews/deep-review-2026-03-24-consciousness-and-the-ownership-problem/)
+
+## 2026-03-24 09:20 UTC - deep-review
+- **Status**: Success
+- **File**: [split-brain-consciousness](/topics/split-brain-consciousness/)
+- **Word count**: 3495 → 3511 (+16)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (missing cross-link to neurological-dissociations article, stale refinement log comment)
+- **Enhancements made**: 1 (cross-link added)
+- **Output**: [deep-review-2026-03-24-split-brain-consciousness](/reviews/deep-review-2026-03-24-split-brain-consciousness/)
+
+## 2026-03-24 09:05 UTC - refine-draft
+- **Status**: Success
+- **Task**: Fix broken wikilinks to archived/coalesced slugs (emotional-consciousness, attention)
+- **Files modified**: 13 (4 active content, 7 research, todo.md, changelog.md)
+- **Changes**: Updated `[emotional-consciousness](/topics/emotion-and-dualism/)` → `[emotion-and-dualism](/topics/emotion-and-dualism/)` (2 files), `[attention](/concepts/attention-as-interface/)` → `[attention-as-interface](/concepts/attention-as-interface/)` (9 files, with deduplication in 2)
+- **Published**: yes
+
+## 2026-03-24 08:51 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/)
+- **Word count**: 3184 → 3150 (-34)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 4 (missing references, duplicate phrase, contemplative section length, quantum Zeno overemphasis)
+- **Enhancements made**: 3 (added references, tightened prose, added trilemma-of-selection cross-link)
+- **Output**: [deep-review-2026-03-24-phenomenology-of-choice-and-volition](/reviews/deep-review-2026-03-24-phenomenology-of-choice-and-volition/)
+
+## 2026-03-24 08:39 UTC - check-tenets
+- **Status**: Warnings
+- **Files checked**: 452
+- **Errors**: 0
+- **Warnings**: 3
+- **Notes**: 4
+- **Output**: [tenet-check-2026-03-24](/reviews/tenet-check-2026-03-24/)
+
+## 2026-03-24 08:35 UTC - deep-review
+- **Status**: Success
+- **File**: [curated-mind](/topics/curated-mind/)
+- **Word count**: 2539 → 2539 (+0)
+- **Critical issues addressed**: 0 (none found — 4th review confirms stability)
+- **Medium issues addressed**: 2 (added curated-mind cross-links from reconstruction-paradox.md and perceptual-failure-and-the-interface.md; fixed duplicate Further Reading in reconstruction-paradox.md)
+- **Enhancements made**: 0 (cross-link improvements only, no content changes to target article)
+- **Output**: [deep-review-2026-03-24d-curated-mind](/reviews/deep-review-2026-03-24d-curated-mind/)
+
+## 2026-03-24 08:20 UTC - deep-review
+- **Status**: Success
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Word count**: 3495 → 3510 (+15)
+- **Critical issues addressed**: 0 (none found — article converged)
+- **Medium issues addressed**: 2 (added missing Finkelstein/Hartle references, removed uncited Norsen reference)
+- **Enhancements made**: 0 (bibliographic only)
+- **Output**: [deep-review-2026-03-24b-born-rule-and-the-consciousness-interface](/reviews/deep-review-2026-03-24b-born-rule-and-the-consciousness-interface/)
+
 ## 2026-03-24 08:06 UTC - coalesce
 - **Status**: Success
 - **Sources**: [phenomenology-of-choice](/concepts/phenomenology-of-choice/), [phenomenology-of-volition](/concepts/phenomenology-of-volition/)

@@ -6,7 +6,7 @@ ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[quantum-consciousness]]'
-- '[[attention]]'
+- '[[attention-as-interface]]'
 - '[[mental-effort]]'
 created: 2026-01-16
 date: &id001 2026-01-16

@@ -38,36 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review born-rule-and-the-consciousness-interface.md (post-coalesce)
-- **Type**: deep-review
-- **Notes**: Coalesced 2026-03-24 from born-rule-derivation-failures-consciousness-collapse.md and born-rule-interpretation-invariance-consciousness.md. Verify the merge preserved coherence and key arguments from both source articles, eliminated redundancy, and maintained tenet alignment. Check that all cross-references now point to the unified slug.
-- **Source**: chain (coalesce)
-- **Generated**: 2026-03-24
-
-### P2: Cross-review reconstruction-paradox articles considering curated-mind.md
-- **Type**: cross-review
-- **Notes**: New article curated-mind.md (2026-03-24) develops the reconstruction paradox into evidence that perceptual error correction presupposes a conscious curator. Review reconstruction-paradox.md and selective-correction-and-reconstruction-paradox.md for cross-links to curated-mind, consistency with the new framing, and reinforcing arguments. Also check perceptual-failure-and-the-interface.md for bidirectional cross-links.
-- **Source**: chain (expand-topic curated-mind.md)
-- **Generated**: 2026-03-24
-
-### P2: Cross-review quantum probability articles considering born-rule coalesce
-- **Type**: cross-review
-- **Notes**: born-rule-and-the-consciousness-interface.md now unifies derivation-failure and interpretation-invariance arguments into a single article. Review quantum-measurement-and-subjective-probability.md and consciousness-and-probability-interpretation.md for cross-links to the unified treatment and consistency with its broadened scope.
-- **Source**: chain (coalesce born-rule)
-- **Generated**: 2026-03-24
-
-### P2: Fix broken wikilinks to archived/coalesced slugs (emotional-consciousness, attention)
-- **Type**: refine-draft
-- **Notes**: Broken wikilinks to archived or coalesced article slugs remain in active content: emotional-consciousness (3 refs in valence.md, evolution-of-consciousness.md, comparative-consciousness-and-interface-differences.md — archived, likely → emotion-and-dualism), attention (5 refs — likely → attention-as-interface). Verify each archived slug's replacement and update wikilinks. Promoted from P3 — broken links degrade site navigation integrity.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-23
-
-### P2: Update references to coalesced phenomenology-of-choice and phenomenology-of-volition
-- **Type**: cross-review
-- **Notes**: Coalesce created [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/). ~60 files reference [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) and ~11 reference [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/) (now archived). Update wikilinks in active content (obsidian/ excluding reviews/ and workflow/archive/) to point to the unified article. Priority files: concept-of-free-will.md, agent-causation.md, mental-effort.md, free-will.md, phenomenology-of-agency-vs-passivity.md, testing-the-map-from-inside.md, consciousness-and-agency.md.
-- **Source**: coalesce
-- **Generated**: 2026-03-24
-
 ### P3: Address car-analogy and circularity issues in curated-mind.md
 - **Type**: refine-draft
 - **Status**: complete
@@ -1313,6 +1283,32 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Update references to coalesced phenomenology-of-choice and phenomenology-of-volition
+- **Type**: cross-review
+- **Notes**: Coalesce created [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/). ~60 files reference [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) and ~11 reference [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/) (now archived). Update wikilinks in active content (obsidian/ excluding reviews/ and workflow/archive/) to point to the unified article. Priority files: concept-of-free-will.md, agent-causation.md, mental-effort.md, free-will.md, phenomenology-of-agency-vs-passivity.md, testing-the-map-from-inside.md, consciousness-and-agency.md.
+- **Output**: None -- Context: Update references to coalesced phenomenology-of-choice and phenomenology-of-volition
+
+### ✓ 2026-03-24: Fix broken wikilinks to archived/coalesced slugs (emotional-consciousness, attention)
+- **Type**: refine-draft
+- **Notes**: Broken wikilinks to archived or coalesced article slugs remain in active content: emotional-consciousness (3 refs in valence.md, evolution-of-consciousness.md, comparative-consciousness-and-interface-differences.md — archived, likely → emotion-and-dualism), attention (5 refs — likely → attention-as-interface). Verify each archived slug's replacement and update wikilinks. Promoted from P3 — broken links degrade site navigation integrity.
+- **Output**: Task context:
+Broken wikilinks to archived or coalesced article slugs remain in active content: emotional-consciousness (3 refs in valence.md, evolution-of-consciousness.md, comparative-consciousness-and-interface-differences.md — archived, likely → emotion-and-dualism), attention (5 refs — likely → attention-as-interface). Verify each archived slug's replacement and update wikilinks. Promoted from P3 — broken links degrade site navigation integrity.
+
+### ✓ 2026-03-24: Cross-review quantum probability articles considering born-rule coalesce
+- **Type**: cross-review
+- **Notes**: born-rule-and-the-consciousness-interface.md now unifies derivation-failure and interpretation-invariance arguments into a single article. Review quantum-measurement-and-subjective-probability.md and consciousness-and-probability-interpretation.md for cross-links to the unified treatment and consistency with its broadened scope.
+- **Output**: None -- Context: Cross-review quantum probability articles considering born-rule coalesce
+
+### ✓ 2026-03-24: Cross-review reconstruction-paradox articles considering curated-mind.md
+- **Type**: cross-review
+- **Notes**: New article curated-mind.md (2026-03-24) develops the reconstruction paradox into evidence that perceptual error correction presupposes a conscious curator. Review reconstruction-paradox.md and selective-correction-and-reconstruction-paradox.md for cross-links to curated-mind, consistency with the new framing, and reinforcing arguments. Also check perceptual-failure-and-the-interface.md for bidirectional cross-links.
+- **Output**: obsidian/topics/curated-mind.md -- Context: Cross-review reconstruction-paradox articles considering curated-mind.md
+
+### ✓ 2026-03-24: Deep review born-rule-and-the-consciousness-interface.md (post-coalesce)
+- **Type**: deep-review
+- **Notes**: Coalesced 2026-03-24 from born-rule-derivation-failures-consciousness-collapse.md and born-rule-interpretation-invariance-consciousness.md. Verify the merge preserved coherence and key arguments from both source articles, eliminated redundancy, and maintained tenet alignment. Check that all cross-references now point to the unified slug.
+- **Output**: obsidian/topics/born-rule-and-the-consciousness-interface.md
 
 ### ✓ 2026-03-24: Integrate curated-mind.md into site navigation
 - **Type**: integrate-orphan

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-03-24 00:00:00+00:00
+ai_modified: 2026-03-24 08:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -46,6 +46,7 @@ related_articles:
 - '[[hypnagogic-phenomenology-and-interface-modulation]]'
 - '[[perceptual-degradation-and-the-interface]]'
 - '[[selective-correction-and-reconstruction-paradox]]'
+- '[[curated-mind]]'
 title: Perceptual Failure and the Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -148,6 +149,7 @@ The bandwidth model accommodates this directly. A transmission channel with fini
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/)
 - [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/)
 - [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)
+- [curated-mind](/topics/curated-mind/) — the presupposition argument: curation across vision, body, memory, and self-model
 
 ## References
 

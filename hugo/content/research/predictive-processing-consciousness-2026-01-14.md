@@ -6,7 +6,7 @@ ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[global-workspace-theory]]'
-- '[[attention]]'
+- '[[attention-as-interface]]'
 - '[[concepts/functionalism]]'
 created: 2026-01-14
 date: &id001 2026-01-14

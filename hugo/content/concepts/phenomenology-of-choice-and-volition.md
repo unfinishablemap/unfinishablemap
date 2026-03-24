@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-24 08:06:00+00:00
+ai_modified: 2026-03-24 08:51:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,6 +29,7 @@ concepts:
 - '[[concepts/epiphenomenalism]]'
 - '[[consciousness-selecting-neural-patterns]]'
 - '[[phenomenology]]'
+- '[[trilemma-of-selection]]'
 created: 2026-01-22
 date: &id001 2026-03-24
 description: 'The experiential arc from deliberation through decision to volitional
@@ -38,7 +39,7 @@ description: 'The experiential arc from deliberation through decision to volitio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-24 08:51:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -134,7 +135,7 @@ The phenomenology of choice differs fundamentally from observation. When observi
 | Counterfactual status | Fixed at arrival | Open until selection |
 | Authorship | Absent | Present |
 
-This maps onto the neural distinction between willed and automatic processing. [Willed attention](/concepts/attention-as-interface/) shows different signatures (frontal theta, bidirectional frontoparietal coherence) than automatic attention capture. The contrast is vivid in attention: being *pulled* by a loud noise versus *directing* focus on difficult text.
+This maps onto the neural distinction between willed and automatic processing. [Willed attention](/concepts/attention-as-interface/) produces distinct signatures absent during automatic attention capture. The contrast is vivid: being *pulled* by a loud noise versus *directing* focus on difficult text.
 
 ## Motor Selection as Paradigm Case
 
@@ -148,15 +149,15 @@ The gap between volitional intention and motor detail is itself phenomenological
 
 The [phenomenology of effort](/concepts/mental-effort/) provides the strongest evidence for genuine conscious contribution. The [trilemma of selection](/topics/trilemma-of-selection/) makes this systematic: at any decision point, the outcome is determined, random, or consciously selected — and only selection generates the phenomenology of effort. If choosing were merely receiving randomly determined outcomes, there should be no phenomenology of effort — random processes don't feel like work. See [consciousness doing work](/apex/phenomenology-of-consciousness-doing-work/) for the broader case.
 
-One candidate mechanism is Stapp's [quantum Zeno model](/concepts/mental-effort/): rapid, repeated acts of attention "hold" desired neural patterns stable, preventing them from decohering into alternatives. This predicts that sustained focus feels effortful, effort can be increased by intensifying attention, fatigue is real, and distraction is easier. The [decoherence objection](/concepts/decoherence/) — that quantum coherence cannot survive in warm neural tissue — is addressed through [protection mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/), and more fundamentally, consciousness may operate at the point of *outcome selection* after decoherence has selected the measurement basis.
+One candidate mechanism is Stapp's [quantum Zeno model](/concepts/mental-effort/), where rapid acts of attention hold desired neural patterns stable — though the [decoherence objection](/concepts/decoherence/) remains a live challenge addressed through [proposed protection mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/).
 
-The core argument, however, does not depend on any specific mechanism. What matters is the structural point: effort phenomenology correlates with genuine cognitive engagement. Whether the underlying interface is quantum Zeno, some other quantum process, or a mechanism not yet conceived, the phenomenological evidence for conscious causal contribution stands independently.
+The core argument does not depend on any specific mechanism. Effort phenomenology correlates with genuine cognitive engagement whether the underlying interface is quantum Zeno, some other quantum process, or a mechanism not yet conceived. The phenomenological evidence for conscious causal contribution stands independently.
 
 ## The Contemplative Perspective
 
 Meditation practice refines phenomenological discrimination, revealing aspects of choice and volition that ordinary introspection misses.
 
-Advanced meditators describe watching decisions arise before identifying with them — a moment where intention appears, followed by a distinct moment of "signing off." Buddhist sources describe this precisely: the Abhidhamma distinguishes *cetanā* (intention/volition) from preceding mental factors; Theravāda manuals describe observing intention in the gap between stimulus and response. The Tibetan *dzogchen* tradition distinguishes recognising thoughts from being captured by them. Hindu sources offer parallels: Patañjali's *viveka-khyāti* witnesses mental modifications without automatic identification; Advaita's *sākṣin* observes intentions arise without authoring them.
+Advanced meditators describe watching decisions arise before identifying with them — a moment where intention appears, followed by a distinct moment of "signing off." Buddhist sources describe this precisely: the Abhidhamma distinguishes *cetanā* (intention/volition) from preceding mental factors; Theravāda manuals describe observing intention in the gap between stimulus and response. The Tibetan *dzogchen* tradition distinguishes recognising thoughts from being captured by them. Hindu contemplative traditions report convergent findings through different frameworks.
 
 [Choiceless awareness](/concepts/witness-consciousness/) provides a contrast case: options arise and pass without selection. This proves consciousness can observe without choosing — the distinction is phenomenally accessible, not just conceptual. Curiously, not-choosing has its own phenomenology: deliberately refraining from decision feels different from both choosing and indecision — active non-selection. The agent can (1) select among options, (2) refrain from selecting, (3) choose whether to enter selecting mode. This three-level structure suggests agency exceeds simple selection.
 
@@ -236,6 +237,7 @@ The phenomenology-of-choice-and-volition framework would face serious difficulty
 1. Bayne, T. & Levy, N. (2006). The feeling of doing: Deconstructing the phenomenology of agency. In N. Sebanz & W. Prinz (Eds.), *Disorders of Volition*. MIT Press.
 1. Bergson, H. (1889). *Time and Free Will: An Essay on the Immediate Data of Consciousness*.
 1. Brass, M., & Haggard, P. (2008). The what, when, whether model of intentional action. *The Neuroscientist*, 14(4), 319–325.
+1. Desmurget, M., Reilly, K. T., Richard, N., Szathmari, A., Mottolese, C., & Sirigu, A. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811–813.
 1. Gallagher, S., & Zahavi, D. (2012). *The Phenomenological Mind* (2nd ed.). Routledge.
 1. Haggard, P. (2017). Sense of agency in the human brain. *Nature Reviews Neuroscience*, 18(4), 196-207.
 1. James, W. (1890). *The Principles of Psychology*. Chapters 11 (Attention) and 26 (Will).
@@ -243,5 +245,6 @@ The phenomenology-of-choice-and-volition framework would face serious difficulty
 1. Nahmias, E., Morris, S., Nadelhoffer, T., & Turner, J. (2004). The phenomenology of free will. *Journal of Consciousness Studies*, 11(7-8), 162-179.
 1. Pacherie, E. (2008). The phenomenology of action: A conceptual framework. *Cognition*, 107(1), 179-217.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Tallis, R. (2010). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 1. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

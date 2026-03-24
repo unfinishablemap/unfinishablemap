@@ -5,7 +5,7 @@ ai_modified: 2026-01-29 02:07:30+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[attention]]'
+- '[[attention-as-interface]]'
 - '[[phenomenology]]'
 - '[[mysterianism]]'
 created: 2026-01-29
