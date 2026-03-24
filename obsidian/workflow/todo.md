@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review perceptual-failure-and-the-interface.md considering perceptual-degradation-and-the-interface insights
-- **Type**: cross-review
-- **Notes**: New concept page concepts/perceptual-degradation-and-the-interface.md (created 2026-03-23) formalises graceful degradation and priority preservation patterns. perceptual-failure-and-the-interface.md (last modified 2026-03-14) predates the new concept page and examines overlapping phenomena (blindsight, qualia under stress). Ensure reciprocal cross-linking and consistent framing of degradation patterns.
-- **Source**: chain (from perceptual-degradation-and-the-interface.md)
-- **Generated**: 2026-03-23
-
 ### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Created 2026-03-15 via expand-topic from research/dreams-problem-solving-lucid-dreaming-2026-02-06.md. Topics article on Konkoly et al. targeted memory reactivation evidence. Add cross-references from lucid-dreaming-and-dualist-rendering, consciousness-and-sleep, and related altered-states articles.
@@ -1292,6 +1286,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Cross-review perceptual-failure-and-the-interface.md considering perceptual-degradation-and-the-interface insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/perceptual-degradation-and-the-interface.md (created 2026-03-23) formalises graceful degradation and priority preservation patterns. perceptual-failure-and-the-interface.md (last modified 2026-03-14) predates the new concept page and examines overlapping phenomena (blindsight, qualia under stress). Ensure reciprocal cross-linking and consistent framing of degradation patterns.
+- **Output**: obsidian/topics/perceptual-failure-and-the-interface.md -- Context: Cross-review perceptual-failure-and-the-interface.md considering perceptual-degradation-and-the-interface insights
 
 ### ✓ 2026-03-23: Cross-review capability-division-problem.md considering lucid-dreaming-and-dualist-rendering insights
 - **Type**: cross-review
