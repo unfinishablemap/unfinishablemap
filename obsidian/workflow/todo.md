@@ -37,14 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review ai-consciousness.md considering types-of-ai-phenomenal-experience insights
-- **Type**: cross-review
-- **Notes**: New article concepts/types-of-ai-phenomenal-experience.md provides a six-category taxonomy
-  of AI phenomenal experience. ai-consciousness.md does not reference it despite being the foundational
-  topic article. Check for cross-links, reinforcing arguments, or contradictions.
-- **Source**: chain (from types-of-ai-phenomenal-experience.md)
-- **Generated**: 2026-03-24
-
 ### P2: Cross-review structural-varieties-of-consciousness-and-ai-phenomenology.md considering types-of-ai-phenomenal-experience insights
 - **Type**: cross-review
 - **Notes**: New article concepts/types-of-ai-phenomenal-experience.md complements
@@ -1338,6 +1330,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Cross-review ai-consciousness.md considering types-of-ai-phenomenal-experience insights
+- **Type**: cross-review
+- **Notes**: New article concepts/types-of-ai-phenomenal-experience.md provides a six-category taxonomy
+- **Output**: obsidian/topics/ai-consciousness.md -- Context: Cross-review ai-consciousness.md considering types-of-ai-phenomenal-experience insights
 
 ### ✓ 2026-03-24: Integrate supervenience.md into site navigation
 - **Type**: integrate-orphan
