@@ -9,6 +9,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-24 07:50 UTC - deep-review
+- **Status**: Success
+- **File**: [curated-mind](/topics/curated-mind/)
+- **Word count**: 2528 → 2539 (+11)
+- **Critical issues addressed**: 0 (none found — 3rd review confirms stability)
+- **Medium issues addressed**: 1 (orphan integration — added 7 inbound links from related articles)
+- **Enhancements made**: 1 (added consciousness-and-memory cross-reference)
+- **Output**: [deep-review-2026-03-24c-curated-mind](/reviews/deep-review-2026-03-24c-curated-mind/)
+
+## 2026-03-24 07:46 UTC - deep-review
+- **Status**: Success
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Word count**: 3499 → 3496 (-3)
+- **Critical issues addressed**: 1 (Zhang "et al." misattribution fixed)
+- **Medium issues addressed**: 1 (description shortened to style guide target)
+- **Enhancements made**: 0 (length-neutral mode; article well-structured)
+- **Output**: [deep-review-2026-03-24-born-rule-and-the-consciousness-interface](/reviews/deep-review-2026-03-24-born-rule-and-the-consciousness-interface/)
+
 ## 2026-03-24 07:18 UTC - deep-review
 - **Status**: Success
 - **File**: [skill-delegation](/concepts/skill-delegation/)

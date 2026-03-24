@@ -80,7 +80,7 @@ Anosognosia patients with right-hemisphere damage remain genuinely unaware of th
 
 What this maps: a self-model ascending channel that delivers the system's own status to awareness. When this channel is damaged, consciousness receives a coherent but false report about the body's capabilities. The patient's conscious experience is internally consistent—they genuinely believe they can move—because the interface is delivering fabricated data about body state.
 
-Anosognosia sharpens the interface picture in a way that blindsight alone cannot. Blindsight shows that sensory data can reach action systems without reaching consciousness. Anosognosia shows that consciousness can receive *actively misleading* information—a curated feed that misrepresents reality. The brain is not a passive conduit; it constructs what it delivers. When the construction mechanism breaks, consciousness gets a coherent fiction rather than degraded truth.
+Anosognosia sharpens the interface picture in a way that blindsight alone cannot. Blindsight shows that sensory data can reach action systems without reaching consciousness. Anosognosia shows that consciousness can receive *actively misleading* information—a [curated feed](/topics/curated-mind/) that misrepresents reality. The brain is not a passive conduit; it constructs what it delivers. When the construction mechanism breaks, consciousness gets a coherent fiction rather than degraded truth.
 
 ## Descending Channels: What Consciousness Delivers to the Brain
 
@@ -193,6 +193,7 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 - [mind-matter-interface](/concepts/mind-matter-interface/) — The two-layer architecture these dissociations map
 - [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/) — How clinical disruptions as a class generate doubly grounded philosophical evidence
 - [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/) — Vegetative states, CMD, and locked-in syndrome test theories via consciousness-behaviour dissociation
+- [curated-mind](/topics/curated-mind/) — The brain's pervasive curation of experience across vision, body, memory, and self-model
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — Body-level interface considerations
 
 ## References

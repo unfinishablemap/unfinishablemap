@@ -199,6 +199,7 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 - [baseline-cognition](/concepts/baseline-cognition/)
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/)
 - [binding-problem](/concepts/binding-problem/)
+- [curated-mind](/topics/curated-mind/) — The brain's asymmetric curation of memory for consciousness, including confabulation and anosognosia
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)
 - [ai-consciousness-modes](/concepts/ai-consciousness-modes/) — The Tulving hierarchy applied as diagnostic tool for AI consciousness

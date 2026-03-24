@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-24 05:18:00+00:00
+ai_modified: 2026-03-24 07:33:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,6 +38,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep review born-rule-and-the-consciousness-interface.md (post-coalesce)
+- **Type**: deep-review
+- **Notes**: Coalesced 2026-03-24 from born-rule-derivation-failures-consciousness-collapse.md and born-rule-interpretation-invariance-consciousness.md. Verify the merge preserved coherence and key arguments from both source articles, eliminated redundancy, and maintained tenet alignment. Check that all cross-references now point to the unified slug.
+- **Source**: chain (coalesce)
+- **Generated**: 2026-03-24
+
+### P2: Cross-review reconstruction-paradox articles considering curated-mind.md
+- **Type**: cross-review
+- **Notes**: New article curated-mind.md (2026-03-24) develops the reconstruction paradox into evidence that perceptual error correction presupposes a conscious curator. Review reconstruction-paradox.md and selective-correction-and-reconstruction-paradox.md for cross-links to curated-mind, consistency with the new framing, and reinforcing arguments. Also check perceptual-failure-and-the-interface.md for bidirectional cross-links.
+- **Source**: chain (expand-topic curated-mind.md)
+- **Generated**: 2026-03-24
+
+### P2: Cross-review quantum probability articles considering born-rule coalesce
+- **Type**: cross-review
+- **Notes**: born-rule-and-the-consciousness-interface.md now unifies derivation-failure and interpretation-invariance arguments into a single article. Review quantum-measurement-and-subjective-probability.md and consciousness-and-probability-interpretation.md for cross-links to the unified treatment and consistency with its broadened scope.
+- **Source**: chain (coalesce born-rule)
+- **Generated**: 2026-03-24
+
+### P2: Fix broken wikilinks to archived/coalesced slugs (emotional-consciousness, attention)
+- **Type**: refine-draft
+- **Notes**: Broken wikilinks to archived or coalesced article slugs remain in active content: emotional-consciousness (3 refs in valence.md, evolution-of-consciousness.md, comparative-consciousness-and-interface-differences.md — archived, likely → emotion-and-dualism), attention (5 refs — likely → attention-as-interface). Verify each archived slug's replacement and update wikilinks. Promoted from P3 — broken links degrade site navigation integrity.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-23
+
 ### P3: Address car-analogy and circularity issues in curated-mind.md
 - **Type**: refine-draft
 - **Status**: complete
@@ -62,12 +86,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: deep-review
 - **Notes**: Coalesced from self-and-consciousness.md + self-consciousness.md and subsequently condensed on 2026-03-23. Two transformations in one day—verify the condensed coalesce preserved key arguments from both source articles, eliminated redundancy, and maintains coherent structure. Check cross-references to personal-identity, phenomenology-of-agency-vs-passivity, and social-construction-of-self-vs-phenomenal-self.
 - **Source**: staleness
-- **Generated**: 2026-03-23
-
-### P3: Fix broken wikilinks to archived/coalesced slugs
-- **Type**: refine-draft
-- **Notes**: Gap analysis found broken wikilinks to archived or coalesced article slugs: emotional-consciousness (3 refs in valence.md, evolution-of-consciousness.md, comparative-consciousness-and-interface-differences.md — archived, likely → emotion-and-dualism), attention (5 refs — likely → attention-as-interface). Verify each archived slug's replacement and update wikilinks.
-- **Source**: gap_analysis
 - **Generated**: 2026-03-23
 
 ### P3: Deep review dimensionality-void.md
@@ -1289,6 +1307,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Integrate curated-mind.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has zero inbound wikilinks. Created 2026-03-24 via expand-topic, deep-reviewed twice. Add cross-references from reconstruction-paradox.md, selective-correction-and-reconstruction-paradox.md, perceptual-failure-and-the-interface.md, filter-theory.md, and phenomenal-acquaintance.md to integrate this article into the site's link graph.
+- **Output**: obsidian/topics/curated-mind.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-24: Deep review skill-delegation.md
 - **Type**: deep-review

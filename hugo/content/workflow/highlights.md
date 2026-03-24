@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-03-23T08:07:20.561800'
+ai_modified: '2026-03-24T08:05:56.754972'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-03-23'
+date: '2026-03-24'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-03-23'
+modified: '2026-03-24'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-03-24: Your Brain Edits Reality — But Who's Watching?
+
+The brain fills blind spots, reassigns body ownership, and reconstructs memories. But curation presupposes a recipient. A convergent argument for dualism from vision, body, and memory.
+
+**Type**: insight  
+**Link**: [curated-mind](/topics/curated-mind/)
+
+---
+
 ### 2026-03-23: QBism's Hidden Dependence on Consciousness
 
 Deep review reveals that QBism's quantum probabilities are structurally dependent on consciousness—unlike objective interpretations where consciousness is optional, QBism's agents must have experiences to form beliefs.
@@ -194,15 +203,6 @@ Two articles on cognitive limits merged into one: cross-cultural evidence reveal
 **Type**: insight  
 **Tweet**: https://x.com/unfinishablemap/status/2029470126949482860  
 **Link**: [evolved-cognitive-limits](/voids/biological-cognitive-closure/)
-
----
-
-### 2026-03-04: Why Occam's Razor Can't Settle the Mind-Body Problem
-
-Refined analysis assembles three independent philosophical investigations—Huemer, Sober, and Zanotti—all reaching the same conclusion: scientific parsimony doesn't transfer to metaphysical theory choice about consciousness.
-
-**Type**: insight  
-**Link**: [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)
 
 ---
 
