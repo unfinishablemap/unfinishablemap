@@ -5,6 +5,14 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 06:33 UTC - condense
+- **Status**: Success
+- **File**: [[measurement-problem]]
+- **Before**: 3516 words
+- **After**: 2723 words
+- **Reduction**: 22.5%
+- **Technique**: Cut redundant structural-coherence argument from opening (repeated in Causal Closure section), trimmed standard QM background, compressed Gödelian parallel (dedicated article exists), tightened Major Interpretations to essentials with links, reduced Further Reading from 25 to 14 entries
+
 ## 2026-03-24 06:18 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/machine-consciousness]]

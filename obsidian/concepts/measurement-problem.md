@@ -4,7 +4,7 @@ description: "Quantum mechanics' central puzzle: why measurement yields definite
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-24T06:33:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -62,19 +62,11 @@ If collapse is real and its cause unspecified, consciousness remains a candidate
 
 What would challenge this framework? Evidence that (1) quantum indeterminacy is apparent rather than real (superdeterminism), (2) consciousness demonstrably cannot influence neural quantum events even in principle, or (3) the hard problem dissolves under analysis.
 
-**The case for structural coherence**: Skeptics ask what work "consciousness selects" does beyond "random collapse." The measurement problem (why definite outcomes?) and the hard problem (why first-person experience?) share a structure: third-person descriptions fail to capture first-person facts. "Random collapse" treats measurement as brute; "consciousness selects" connects it to the one thing we know has first-person facts—consciousness itself.
-
-This unification makes no new empirical predictions—unlike the electricity-magnetism unification, which predicted electromagnetic waves. Unifying two mysteries doesn't explain either, and critics are right that it creates a larger mystery. Yet coherence remains epistemically valuable even without explanation. If two unexplained phenomena share structural features (both involving where first-person facts enter third-person descriptions), treating them as manifestations of one underlying puzzle is more parsimonious than treating them as coincidentally similar.
-
-Conceptual unification can still constrain theorizing: if measurement and hard problems share a root, solutions to one must address the other. The Map's claim: the measurement problem and hard problem are likely two faces of the mind-matter interface, even if we cannot explain that interface. Whether this constitutes genuine insight or merely satisfying systematization may be undecidable (see [[mysterianism]]).
+**The case for structural coherence**: The measurement problem (why definite outcomes?) and the hard problem (why first-person experience?) share a structure: third-person descriptions fail to capture first-person facts. "Random collapse" treats measurement as brute; "consciousness selects" connects it to the one thing we know has first-person facts—consciousness itself. This unification generates no new predictions, and critics are right that it creates a larger mystery. Yet if two unexplained phenomena share structural features, treating them as one underlying puzzle is more parsimonious than treating them as coincidentally similar—and constrains theorizing, since solutions to one must address the other. The Map's claim: these problems are likely two faces of the mind-matter interface (see [[mysterianism]] on whether this is genuine insight or undecidable).
 
 ## The Problem Stated
 
-Quantum systems don't settle into definite states. An electron passing through a double-slit experiment goes through *both* slits simultaneously, as interference patterns demonstrate. Schrödinger's equation describes this evolution deterministically: the wave function spreads, encoding all possibilities.
-
-But when you look, you find the electron at one location. The superposition vanishes. The wave function "collapses" to a single eigenstate of whatever observable you measured.
-
-Three aspects make this problematic:
+Quantum systems evolve deterministically via the Schrödinger equation, forming superpositions of all possible states. Yet measurement yields a single, definite outcome—the wave function "collapses." Three aspects make this problematic:
 
 1. **The mathematics is discontinuous.** Standard quantum mechanics contains two incompatible rules: unitary evolution (continuous, deterministic) and measurement collapse (discontinuous, probabilistic).
 
@@ -88,11 +80,7 @@ The standard measurement problem asks: why does the quantum system exhibit a def
 
 This [[indexical-identity-quantum-measurement|indexical gap]] connects the measurement problem to the [[hard-problem-of-consciousness]]. Both share a structure: third-person descriptions fail to capture first-person facts—facts about *what it is like* to be a particular experiencing subject, the [[qualia|qualitative character]] that no functional or structural description can convey. See [[quantum-measurement-and-consciousness]] for extended treatment of this structural parallel and its implications for the Map's framework.
 
-Functionalists contest this, holding that "why am I this one?" confuses indexical reference with substantial identity—"I" picks out whoever is asking; no further fact remains. This analysis is correct for the *reference* of "I" but doesn't dissolve the phenomenon. When asking "why am I this one?", we note that *something it is like* to be this experiencer exists, and ask what makes that fact true.
-
-The functionalist can insist no such fact exists beyond functional states, but this denies the explanandum rather than explaining it. The strategy generalizes: if "why am I this one?" collapses into convention, "why does this hurt?" faces the same move. Both concern facts about subjective experience.
-
-The argument that this structural parallel constitutes not just analogy but identity—that the measurement problem is an instance of the hard problem—is developed in [[quantum-measurement-and-consciousness|The Measurement Problem as Hard Problem]].
+Functionalists contest this, holding that "why am I this one?" confuses indexical reference with substantial identity. But this analysis, correct for the *reference* of "I," doesn't dissolve the phenomenon: *something it is like* to be this experiencer exists, and asking what makes that fact true is legitimate. Insisting no such fact exists beyond functional states denies the explanandum rather than explaining it. The argument that this structural parallel constitutes identity—that the measurement problem is an instance of the hard problem—is developed in [[quantum-measurement-and-consciousness|The Measurement Problem as Hard Problem]].
 
 This reveals a gap across major interpretations:
 - **[[qbism|QBism]]** dissolves the measurement problem by treating quantum states as subjective beliefs—"collapse" becomes belief-updating. Yet QBism's credences are defined over phenomenal outcomes: consciousness appears on both sides of the probability relation, as the subject assigning credences *and* the content those credences describe. This [[quantum-measurement-and-subjective-probability|structural dependence]] is distinctive—objective interpretations can bracket consciousness without undermining their formalism; QBism cannot
@@ -110,11 +98,9 @@ This reveals a gap across major interpretations:
 
 The decoherence partition invites a structural comparison with Gödel's incompleteness theorems. Gödel showed that any consistent formal system rich enough to encode arithmetic contains true statements it cannot prove—the system reaches a boundary disclosed by its own rules. Quantum mechanics similarly reaches a boundary: it describes every structural feature of measurement yet cannot specify which outcome becomes actual. Both limits arise from within.
 
-This parallel has substance beyond metaphor. Dourdent (2020) identifies *structural* self-reference at the core of both: an observer who is part of the measured system mirrors a formal system encoding statements about itself. The Wigner's friend and Frauchiger-Renner paradoxes instantiate this—quantum theory produces contradictions when applied to observers who are themselves applying quantum theory.
+This parallel has substance beyond metaphor. Dourdent (2020) identifies structural self-reference at the core of both: an observer within the measured system mirrors a formal system encoding statements about itself. More rigorously, Cubitt et al. (2015) proved the spectral gap of quantum many-body systems formally undecidable, and Landsman (2020) connected quantum indeterminism to Chaitin's extension of Gödel's theorem.
 
-More rigorously, Cubitt, Perez-Garcia, and Wolf (2015) proved that the spectral gap of quantum many-body systems is formally undecidable. Landsman (2020) argued that quantum indeterminism follows from Chaitin's extension of Gödel's theorem: measurement outcome strings are algorithmically incompressible, establishing a direct connection between incompleteness and quantum randomness.
-
-**Scope limits**: Franzén (2005) rightly cautions that Gödel's theorems concern provability within axiom systems—extending them to physics risks category error when done loosely. The Map endorses the structural level: both the measurement problem and incompleteness reveal where a descriptive framework reaches a boundary it cannot cross from within, consistent with the [[physics-as-disclosure|disclosure reading]]. Whether this reflects a deeper formal connection (as Landsman's and Cubitt et al.'s results suggest) remains open. [[self-reference-and-the-limits-of-physical-description|Self-Reference and the Limits of Physical Description]] develops this connection across three tiers of rigour—from loose metaphor through structural parallel to formal unification via Lawvere's fixed-point theorem.
+Franzén (2005) rightly cautions that extending Gödel's theorems to physics risks category error. The Map endorses the structural level: both limits reveal where a descriptive framework reaches a boundary it cannot cross from within, consistent with the [[physics-as-disclosure|disclosure reading]]. [[self-reference-and-the-limits-of-physical-description|Self-Reference and the Limits of Physical Description]] develops this across three tiers of rigour—from metaphor through structural parallel to formal unification via Lawvere's theorem.
 
 ## Major Interpretations
 
@@ -122,49 +108,37 @@ Physics has produced several responses to the measurement problem, none universa
 
 ### Copenhagen Interpretation
 
-The original pragmatic approach: collapse is a rule for predictions, not a physical process. Copenhagen leaves room for consciousness but provides no positive account—the measurement boundary remains deliberately unspecified.
+Collapse is a rule for predictions, not a physical process. The measurement boundary remains deliberately unspecified—leaving room for consciousness but providing no positive account.
 
 ### Many-Worlds Interpretation
 
-All outcomes occur. The universe branches at every quantum event, all branches equally real—no collapse, just its appearance from within each branch.
-
-**Relation to site tenets:** **Directly rejected** by [[tenets#^no-many-worlds|No Many Worlds]]. See [[concepts/many-worlds]] for detailed arguments. Key objections: (1) indexical—why am I *this* branch?; (2) [[probability-problem-in-many-worlds|probability]]—what does "70% probable" mean if all outcomes occur?; (3) eliminates [[mental-causation]] entirely—consciousness makes no causal difference if all outcomes occur regardless.
-
-MWI has sophisticated responses. Wallace derives Born probabilities from decision-theoretic coherence, showing what rational betting requires—not what probabilities mean when all outcomes occur. On indexicals, MWI defenders argue all successors are equally me—but collapse theories posit a single actual outcome, making "this one" unambiguous even if unexplained. MWI multiplies the indexical puzzle rather than dissolving it.
+All outcomes occur; the universe branches at every quantum event. **Directly rejected** by [[tenets#^no-many-worlds|No Many Worlds]]. Key objections: (1) indexical—why am I *this* branch?; (2) [[probability-problem-in-many-worlds|probability]]—what does "70% probable" mean if all outcomes occur?; (3) eliminates [[mental-causation]]—consciousness makes no causal difference. Wallace derives Born probabilities from decision-theoretic coherence, but this shows what rational betting requires, not what probabilities mean when all outcomes occur. See [[concepts/many-worlds]] for detailed arguments.
 
 ### Objective Collapse Theories (GRW, CSL, Penrose)
 
-The wave function undergoes real, physical collapse according to modified dynamics. GRW and CSL introduce collapse as a random physical process; Penrose links it to gravitational self-energy. See [[spontaneous-collapse-theories]] for detailed treatment and [[penrose-gravity-induced-collapse-empirical-prospects|Penrose's empirical prospects]] for the experimental programme testing gravity-induced collapse.
-
-**Relation to site tenets:** These theories solve the [[prebiotic-collapse|prebiotic collapse problem]]: wave functions collapsed for billions of years before consciousness evolved. GRW/CSL provide *baseline* collapse—objective reduction happens whether or not anyone observes. Consciousness then *modulates* this existing process in neural systems rather than initiating collapse universally.
-
-This supports [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]: consciousness nudges stochastic processes rather than generating them. McQueen's CSL-IIT hybrid—where integrated information (Φ) amplifies collapse strength—exemplifies this modulation. See [[prebiotic-collapse]] for the cosmological timeline problem.
+Physical collapse according to modified dynamics. See [[spontaneous-collapse-theories]] for detailed treatment. These theories solve the [[prebiotic-collapse|prebiotic collapse problem]]: objective reduction happens whether or not anyone observes. Consciousness then *modulates* this existing process in neural systems rather than initiating collapse universally—supporting [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]. McQueen's CSL-IIT hybrid, where integrated information (Φ) amplifies collapse strength, exemplifies this modulation.
 
 ### Hidden Variables (Bohmian Mechanics)
 
-Particles always have definite positions, guided by the wave function through a "pilot wave." The measurement problem vanishes because particles never lack definite properties—we simply don't know them until measurement.
-
-**Relation to site tenets:** Deterministic throughout—removes the opening for consciousness at collapse.
+Particles always have definite positions guided by a "pilot wave." Deterministic throughout—removes the opening for consciousness at collapse.
 
 ### Consciousness-Based Interpretations
 
-Conscious observation precipitates collapse. Von Neumann's formalism permits placing collapse anywhere in the measurement chain, including at the observer's consciousness, as Wigner explored. See [[von-neumann-wigner-interpretation]] for the foundational account—von Neumann's movable cut, Wigner's consciousness thesis, and the lineage to Stapp's quantum Zeno framework.
-
-**Relation to site tenets:** Most aligned with [[tenets#^bidirectional-interaction|Bidirectional Interaction]] and [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]. The Map prefers Stapp's quantum Zeno approach over von Neumann-Wigner consciousness-collapse, since Zeno uses orthodox quantum mechanics—consciousness *selects* within physics rather than intervening from outside it. The specific [[coupling-modes|coupling mode]] matters: basis control (Process 1) and timing control (Zeno effect) rather than direct probability modification.
+Conscious observation precipitates collapse. Von Neumann's formalism permits placing collapse anywhere in the measurement chain, including at consciousness. See [[von-neumann-wigner-interpretation]] for the foundational account. The Map prefers Stapp's quantum Zeno approach: consciousness *selects* within orthodox quantum mechanics rather than intervening from outside it. The specific [[coupling-modes|coupling mode]] matters—basis control (Process 1) and timing control (Zeno effect) rather than direct probability modification.
 
 #### Stapp's Quantum Zeno Framework
 
-Henry Stapp developed the most detailed consciousness-based approach within orthodox quantum mechanics. His key insight: [[mental-effort]] protracts desired neural assemblies through the quantum Zeno effect—rapid, repeated observation preventing state evolution. This is consciousness *selecting* among quantum possibilities—the orthodox "Heisenberg choice" in von Neumann's formalism—not causing collapse from outside physics. The framework has an implicitly [[retrocausality|retrocausal]] dimension: the Zeno effect selects a trajectory the system would not have followed under free evolution, including neural preparation preceding conscious awareness—compatible with [[retrocausality#The Atemporal Selection Model|atemporal selection]].
+[[mental-effort|Mental effort]] protracts desired neural assemblies through the quantum Zeno effect—rapid, repeated observation preventing state evolution. This is consciousness selecting among quantum possibilities, not causing collapse from outside physics. The framework has an implicitly [[retrocausality|retrocausal]] dimension: the Zeno effect selects trajectories the system would not have followed under free evolution, compatible with [[retrocausality#The Atemporal Selection Model|atemporal selection]].
 
-**Decoherence challenge**: Tegmark (2000) calculated neural quantum coherence times at ~10^-13 seconds—far shorter than neural timescales (~10^-3 seconds), creating a [[timing-gap-problem|twelve-order-of-magnitude timing gap]]. Most physicists consider this decisive. Stapp responds that Zeno effects require rapid *observation events*, not persistent coherence—but what generates such rapid observations in a warm, decoherent brain? This mechanism remains unspecified, leaving a significant gap in the proposal.
+**Decoherence challenge**: Tegmark (2000) calculated neural quantum coherence times at ~10^-13 seconds—far shorter than neural timescales (~10^-3 seconds), a [[timing-gap-problem|twelve-order-of-magnitude timing gap]]. Stapp responds that Zeno effects require rapid *observation events*, not persistent coherence—but the mechanism generating such rapid observations in a warm brain remains unspecified.
 
-**The Map's position**: Given these difficulties, the Map's claim is *structural*, not mechanistic: the measurement problem creates conceptual space for consciousness-selection where deterministic physics offers none. This means defending the *coherence* of consciousness-based selection, not its truth. Whether this conceptual opening corresponds to actual mind-matter interaction remains unknown.
+**The Map's position**: The Map's claim is *structural*, not mechanistic: the measurement problem creates conceptual space for consciousness-selection where deterministic physics offers none—defending *coherence*, not truth.
 
 ## The Observer Problem
 
-What makes an observer? Wigner's friend scenarios sharpen the question: Wigner describes his friend in superposition, but the friend perceives a definite result. Frauchiger and Renner (2018) derive contradictions when observers apply quantum mechanics to each other while assuming single outcomes. The local friendliness theorem (Bong et al. 2020) sharpens this: the assumptions that outcomes are definite for the observer, superposed for an outsider, and mutually compatible cannot all hold.
+Wigner's friend scenarios sharpen this: Frauchiger and Renner (2018) derive contradictions when observers apply quantum mechanics to each other, and the local friendliness theorem (Bong et al. 2020) shows that definite outcomes for the observer, superposition for an outsider, and mutual compatibility cannot all hold.
 
-Albert and Loewer identified the root issue: the measurement problem is really the *determinate-experience problem*. Brains should enter superposition, yet [[consciousness-in-non-collapsed-quantum-states|conscious experience is never superposed]]. Consciousness has a constitutive determinacy—a "definiteness constraint"—that physical systems lack, unexplained by any known physical law. If consciousness participates in collapse, it acts *on* the superposition from experiential definiteness rather than entering it.
+Albert and Loewer identified the root issue: the measurement problem is really the *determinate-experience problem*. Brains should enter superposition, yet [[consciousness-in-non-collapsed-quantum-states|conscious experience is never superposed]]. Consciousness has a constitutive determinacy that physical systems lack. If consciousness participates in collapse, it acts *on* the superposition from experiential definiteness rather than entering it.
 
 ### The Multi-Observer Coordination Problem
 
@@ -204,21 +178,19 @@ The loophole has features that make it specifically hospitable to non-physical c
 
 If the loophole only establishes *where* consciousness could act, what supports the claim that it *does*?
 
-- **Structural parallel and explanatory unification**: The measurement problem (why definite outcomes from superposition?) and the [[hard-problem-of-consciousness]] (why subjective experience from physical processes?) share a structure—both mark points where third-person description fails to capture first-person facts. Treating them as manifestations of one underlying puzzle is more parsimonious than treating them as coincidentally similar. This unification is conceptual rather than predictive—it constrains theorizing rather than generating testable predictions. See [[quantum-measurement-and-consciousness|The Measurement Problem as Hard Problem]] for the full argument.
+- **Structural parallel**: The measurement problem and [[hard-problem-of-consciousness]] share a structure—both mark where third-person description fails to capture first-person facts. Treating them as one underlying puzzle is more parsimonious than coincidence. See [[quantum-measurement-and-consciousness|The Measurement Problem as Hard Problem]].
 
-- **[[self-stultification|Self-stultification of epiphenomenalism]]**: If consciousness has no causal role, then our beliefs about consciousness—including the belief that we are conscious—are not caused by consciousness itself. This undermines the epistemic basis for any claim about consciousness, including the denial of mental causation. If consciousness *must* be causally efficacious to be rationally acknowledged, quantum measurement provides the least disruptive locus for that causation.
+- **[[self-stultification|Self-stultification of epiphenomenalism]]**: If consciousness has no causal role, beliefs about consciousness aren't caused by consciousness—undermining the epistemic basis for any claim about it, including denying mental causation. Quantum measurement provides the least disruptive locus for the causation consciousness requires.
 
-Neither argument is individually decisive. Together they provide cumulative motivation—not proof—for taking consciousness-selection seriously.
-
-The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes that consciousness exploits this loophole—biasing quantum outcomes in ways that physics permits but doesn't determine. The loophole is the necessary condition; the arguments above provide the positive motivation.
+Neither argument is decisive alone. Together they provide cumulative motivation for taking consciousness-selection seriously. The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes that consciousness exploits this loophole—the loophole is the necessary condition; these arguments provide positive motivation.
 
 ## What Are Born Probabilities?
 
 The measurement problem focuses on *why* definite outcomes occur, but there's a prior question: what do quantum probabilities *mean*?
 
-The Born rule—squared amplitude gives measurement probabilities—is postulated, not derived. Interpretations (objective propensities, QBism's subjective beliefs, MWI's branch weights) each leave something unexplained. The [[born-rule-interpretation-invariance-consciousness|interpretation-invariance of the Born rule]] across all major frameworks—hidden-variable, collapse, retrocausal, categorical—suggests this is not a technical gap but a structural feature of the consciousness-physics boundary. A [[quantum-measurement-and-subjective-probability|phenomenological test]] distinguishes them: can Born probabilities be defined without presupposing conscious experiences? Objective propensities can; QBism's credences cannot—they are defined over what agents will *experience*, making consciousness load-bearing in the formalism itself.
+The Born rule—squared amplitude gives measurement probabilities—is postulated, not derived. Its [[born-rule-interpretation-invariance-consciousness|interpretation-invariance]] across all major frameworks suggests this is a structural feature of the consciousness-physics boundary, not a technical gap. A [[quantum-measurement-and-subjective-probability|phenomenological test]] distinguishes interpretations: objective propensities can be defined without consciousness; QBism's credences cannot—they are defined over what agents will *experience*, making consciousness load-bearing in the formalism.
 
-The Unfinishable Map proposes a different view: [[quantum-probability-consciousness|Born probabilities describe the objective structure of the interface]] where consciousness meets quantum indeterminacy—neither purely subjective beliefs nor features of physics independent of consciousness. If this is right, both the measurement problem (why definite outcomes?) and the hard problem (why first-person experience?) are faces of the same puzzle: what happens where consciousness meets physical possibility. The [[what-consciousness-tells-us-about-physics|reverse inference]]—asking what consciousness, taken as datum, reveals about physics—develops this further: if consciousness selects, the measurement problem is a [[physics-as-disclosure|*disclosure*]] of physics' boundary rather than a deficiency, and the Born rule is an interface specification.
+The Map proposes that [[quantum-probability-consciousness|Born probabilities describe the objective structure of the interface]] where consciousness meets quantum indeterminacy. If so, the measurement problem and hard problem are faces of the same puzzle. The [[what-consciousness-tells-us-about-physics|reverse inference]]—asking what consciousness reveals about physics—develops this: if consciousness selects, the measurement problem is a [[physics-as-disclosure|*disclosure*]] of physics' boundary, and the Born rule is an interface specification.
 
 ## Relation to Site Perspective
 
@@ -226,30 +198,19 @@ The measurement problem is central to the Map's framework. It provides the *perm
 
 ## Further Reading
 
-- [[quantum-measurement-and-consciousness]] — Extended treatment of why definite outcomes occur and where consciousness might participate
+- [[quantum-measurement-and-consciousness]] — Why definite outcomes occur and where consciousness might participate
 - [[indexical-identity-quantum-measurement]] — The indexical gap all interpretations leave untreated
-- [[quantum-measurement-and-subjective-probability]] — QBism's structural dependence on consciousness
 - [[quantum-probability-consciousness]] — Born probabilities as interface structure
-- [[born-rule-interpretation-invariance-consciousness]] — Why the Born rule resists derivation across all quantum interpretations
 - [[concepts/many-worlds]] — Arguments against MWI
 - [[quantum-consciousness]] — Mechanisms for mind-matter interaction
 - [[coupling-modes]] — Basis, timing, and probability control: how consciousness couples to physics
-- [[consciousness-in-non-collapsed-quantum-states]] — The pre-collapse phase and the definiteness constraint
-- [[physics-as-disclosure]] — The measurement problem as boundary disclosure, not theoretical deficiency
-- [[bi-aspectual-ontology]] — The two-aspect ontology underlying the disclosure reading
-- [[self-reference-and-the-limits-of-physical-description]] — Gödel-quantum connections from metaphor through formal unification via Lawvere's theorem
-- [[decoherence]] — What decoherence does and doesn't explain
+- [[physics-as-disclosure]] — The measurement problem as boundary disclosure
+- [[self-reference-and-the-limits-of-physical-description]] — Gödel-quantum connections via Lawvere's theorem
 - [[spontaneous-collapse-theories]] — GRW, CSL, and consciousness-modulated collapse
-- [[qm-interpretations-beyond-many-worlds]] — comparative assessment of interpretations' consciousness compatibility
-- [[self-stultification]] — Why epiphenomenalism undermines its own epistemic basis
+- [[qm-interpretations-beyond-many-worlds]] — Comparative assessment of interpretations' consciousness compatibility
 - [[interactionist-dualism]], [[causal-closure]], [[mental-causation]] — The broader framework
-- [[multi-mind-collapse-problem]], [[brain-interface-boundary]], [[prebiotic-collapse]] — How the Map resolves coordination puzzles
-- [[topics/free-will]] — How quantum indeterminacy enables libertarian free will
-- [[haecceity]] — The "thisness" grounding indexical identity
-- [[mysterianism]] — Why some explanatory gaps may be unclosable
-- [[the-reverse-inference]] — Using consciousness as secure datum to constrain which interpretations of physics are viable
-- [[what-consciousness-tells-us-about-physics]] — The reverse inference: what consciousness reveals about physics
-- [[it-from-bit-and-participatory-ontology]] — Wheeler's information ontology and the participatory universe thesis
+- [[multi-mind-collapse-problem]], [[brain-interface-boundary]], [[prebiotic-collapse]] — Coordination puzzles
+- [[what-consciousness-tells-us-about-physics]] — The reverse inference
 - [[tenets]] — The Map's foundational commitments
 
 ## References

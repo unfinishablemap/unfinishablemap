@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense measurement-problem.md (3516 words, 141% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about the measurement problem's relationship to consciousness while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-24
-
 ### P2: Deep review lucid-dreaming-and-dualist-rendering.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) updated via coalesce on 2026-03-20, never reviewed post-coalesce. Topics article on lucid dreaming as evidence for mind-side rendering capability. Verify the coalesce preserved coherence, accuracy of empirical claims about lucid dreaming research, cross-references to dream-problem-solving-and-conscious-influence and capability-division-problem, and tenet alignment.
@@ -1306,6 +1300,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Condense measurement-problem.md (3516 words, 141% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about the measurement problem's relationship to consciousness while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/measurement-problem.md
 
 ### ✓ 2026-03-24: Incorporate consciousness-anaesthesia filter theory research into anaesthesia articles
 - **Type**: refine-draft
