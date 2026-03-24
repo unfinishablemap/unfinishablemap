@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-24T19:54:00+00:00
+ai_modified: 2026-03-24T21:39:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review emergence.md considering supervenience insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article concepts/supervenience.md (created 2026-03-24) provides a dedicated treatment of supervenience relations central to topics/emergence.md. Check for cross-links, ensure consistent treatment of supervenience failure arguments, and verify the emergence article references the new concept page where appropriate.
+- **Source**: chain (from supervenience.md)
+- **Generated**: 2026-03-24
+
+### P2: Cross-review mental-causation.md considering supervenience insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article concepts/supervenience.md (created 2026-03-24) directly addresses supervenience relations that are central to the mental causation debate. Check for cross-links, reinforce the exclusion argument discussion with the new supervenience treatment, and verify consistency of terminology.
+- **Source**: chain (from supervenience.md)
+- **Generated**: 2026-03-24
+
+### P2: Enhance anaesthesia-and-the-consciousness-interface.md with graded loss research
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Unconsumed research in research/consciousness-anesthesia-filter-theory-2026-03-20.md covers graded consciousness loss under general anesthesia and its implications for filter/transmission theory. Integrate key findings into the existing anaesthesia article rather than creating a new article (topics/ has only 2 slots remaining). Strengthen the filter theory argument with specific evidence on dose-dependent consciousness loss and recovery phenomena.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-24
+
+### P2: Integrate types-of-ai-phenomenal-experience.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-03-24 via expand-topic, has no inbound links. Add cross-references from ai-consciousness.md, structural-varieties-of-consciousness-and-ai-phenomenology.md, and other AI-related articles. Update relevant section index pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-24
+
+### P2: Integrate resonance-void.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-03-24 via expand-topic, has no inbound links. Add cross-references from related void articles (convergence-of-the-void-catalogue, taxonomy-of-voids) and any articles discussing resonance or aesthetic experience under dualism.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-24
+
+### P2: Integrate differential-predictions-consciousness-collapse.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-03-23 via expand-topic, has no inbound links. Add cross-references from consciousness-collapse-experimental-landscape.md, comparing-quantum-consciousness-mechanisms.md, and other quantum consciousness articles that discuss empirical predictions.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-24
 
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
