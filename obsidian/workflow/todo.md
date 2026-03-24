@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Incorporate clinical neuroplasticity research into bidirectional-interaction articles
-- **Type**: refine-draft
-- **Notes**: Research completed in research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md. OCD treatment (Schwartz), psychotherapy-induced neuroplasticity, and meditation structural changes provide empirical grounding for Tenet 3 (Bidirectional Interaction). Incorporate findings into mental-causation.md and bidirectional-interaction.md — strengthen empirical evidence sections with specific clinical data.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-24
-
 ### P2: Incorporate experimental consciousness-collapse tests research into consciousness-collapse-experimental-landscape.md
 - **Type**: refine-draft
 - **Notes**: Research completed in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Reviews testable predictions distinguishing consciousness-collapse from decoherence — directly relevant to empirical tractability of Tenet 2. Update consciousness-collapse-experimental-landscape.md with new experimental proposals and status assessments.
@@ -1324,6 +1318,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Incorporate clinical neuroplasticity research into bidirectional-interaction articles
+- **Type**: refine-draft
+- **Notes**: Research completed in research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md. OCD treatment (Schwartz), psychotherapy-induced neuroplasticity, and meditation structural changes provide empirical grounding for Tenet 3 (Bidirectional Interaction). Incorporate findings into mental-causation.md and bidirectional-interaction.md — strengthen empirical evidence sections with specific clinical data.
+- **Output**: Task context:
+Research completed in research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md. OCD treatment (Schwartz), psychotherapy-induced neuroplasticity, and meditation structural changes provide empirical grounding for Tenet 3 (Bidirectional Interaction). Incorporate findings into mental-causation.md and bidirectional-interaction.md — strengthen empirical evidence sections with specific clinical data.
 
 ### ✓ 2026-03-24: Cross-review reconstruction/error-correction articles considering curated-mind.md
 - **Type**: cross-review

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-24 05:26:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -94,7 +94,17 @@ The conscious/unconscious processing literature reveals systematic asymmetries. 
 
 ### Clinical Neuroplasticity
 
-The [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) provides four converging empirical streams supporting bidirectional causation: self-directed neuroplasticity in OCD, psychotherapy neuroimaging showing distinct top-down versus bottom-up causal pathways, meditation-driven structural remodelling, and placebo-stimulated neuroplasticity. The systematic divergence between psychological (top-down) and pharmacological (bottom-up) intervention pathways across independent research programmes is difficult to accommodate if mental descriptions are mere redescriptions of physical processes.
+The [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) provides four converging empirical streams supporting bidirectional causation.
+
+**OCD self-directed neuroplasticity**: Jeffrey Schwartz's four-step cognitive protocol (Relabel, Reattribute, Refocus, Revalue) demonstrated that OCD patients using purely cognitive techniques—no medication—achieved normalisation of hyperactive caudate nucleus metabolism comparable to SSRI pharmacotherapy, as documented by PET imaging (Schwartz, 1998). A conscious decision to implement a therapeutic strategy produced lasting neural change.
+
+**Psychotherapy pathway divergence**: CBT and pharmacotherapy produce comparable clinical outcomes through *different neural pathways*. A 2022 meta-analysis (302 depressed subjects, 18 experiments) found CBT consistently decreases right amygdala activity through top-down cortical-to-limbic modulation, while SSRIs modulate bottom-up through synaptic neurochemistry (Marzbani et al., 2022). This directional asymmetry holds across depression, anxiety, and OCD—suggesting top-down and bottom-up represent genuinely different causal types rather than different descriptions of the same physical process.
+
+**Meditation structural remodelling**: A 2024 systematic review documents that sustained contemplative practice increases cortical thickness, reduces amygdala reactivity, improves brain connectivity, and produces both synaptogenesis and neurogenesis (Rodríguez-Martín et al., 2024). These changes are driven not by correcting pathology but by deliberate cultivation of attentional capacities—intentional mental practice sculpting neural architecture toward consciously defined goals.
+
+**Placebo neuroplasticity**: Belief states with propositional content ("this treatment will help") recruit opioid and dopamine systems and produce specific neuroplastic changes, with different beliefs about different conditions generating different neural signatures (Marueckova et al., 2024). This is a paradigmatic case of [content-specific mental causation](/concepts/content-specificity-of-mental-causation/): meaning determines which physical effect occurs.
+
+The convergence across four independent research programmes is what gives the evidence its philosophical weight. Each stream alone admits physicalist reinterpretation, but the systematic divergence between psychological (top-down) and pharmacological (bottom-up) intervention pathways is difficult to accommodate if mental descriptions are mere redescriptions of physical processes.
 
 ### Content-Specificity
 
@@ -181,3 +191,18 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [intera
 1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194-4206.
 1. Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
 1. Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
+1. Schwartz, J. M. (1998). Neuroanatomical aspects of cognitive-behavioural therapy response in obsessive-compulsive disorder. *British Journal of Psychiatry*, 173(Suppl. 35), 38-44.
+1. Marzbani, H., et al. (2022). Neural effects of cognitive behavioral therapy in psychiatric disorders: A systematic review and activation likelihood estimation meta-analysis. *Frontiers in Psychology*, 13, 853804.
+1. Rodríguez-Martín, M. L., et al. (2024). Neurobiological changes induced by mindfulness and meditation: A systematic review. *Biomedicines*, 12(11), 2613.
+1. Marueckova, A., et al. (2024). Placebo stimulates neuroplasticity in depression: Implications for clinical practice and research. *Frontiers in Psychiatry*, 14, 1301143.
+
+<!-- AI REFINEMENT LOG - 2026-03-24
+Changes made:
+- Expanded "Clinical Neuroplasticity" subsection from 3-line summary to detailed evidence with four labelled streams
+- Added specific data: Schwartz four-step OCD protocol, PET imaging caudate nucleus results, meta-analysis figures (302 subjects/18 experiments), meditation structural changes (cortical thickness, synaptogenesis, neurogenesis), placebo content-specificity
+- Added 4 new references (Schwartz 1998, Marzbani 2022, Rodríguez-Martín 2024, Marueckova 2024)
+
+Key improvements: Clinical Neuroplasticity subsection now provides concrete empirical grounding rather than just pointing to the dedicated article. Readers get the specific evidence without needing to follow the link.
+
+This log should be removed after human review.
+-->

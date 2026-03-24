@@ -55,7 +55,7 @@ Quantum foundations impose five constraints that any coupling map C must respect
 
 ### 1. Born Rule Preservation
 
-Masanes, Galley, and Müller (2019) proved that the Born rule — p = |ψ|² — is the unique probability assignment consistent with states as Hilbert-space vectors, unitary evolution, and compositional neutrality. The coupling map C can bias which individual outcome actualises, but ensemble statistics must remain Born-rule compliant. Over many repetitions, outcome frequencies must match squared amplitudes. Any formalism in which consciousness systematically alters probability distributions is ruled out.
+Masanes, Galley, and Müller (2019) proved that the Born rule — p = |ψ|² — is the unique probability assignment consistent with states as Hilbert-space vectors, unitary evolution, and compositional neutrality. The [interpretation-invariance analysis](/topics/born-rule-interpretation-invariance-consciousness/) strengthens this result: the Born rule appears in every major quantum framework—hidden-variable, collapse, retrocausal, categorical, gravitational—without being derivable from any, suggesting it encodes the consciousness-physics interface itself. The coupling map C can bias which individual outcome actualises, but ensemble statistics must remain Born-rule compliant. Over many repetitions, outcome frequencies must match squared amplitudes. Any formalism in which consciousness systematically alters probability distributions is ruled out.
 
 ### 2. Inner Product Invariance
 

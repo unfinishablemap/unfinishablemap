@@ -5,6 +5,13 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 05:26 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/mental-causation]], [[concepts/bidirectional-interaction]]
+- **Changes**: Added "Empirical Evidence: Clinical Neuroplasticity" section to mental-causation.md (OCD self-directed neuroplasticity, pathway divergence argument, meditation/placebo data). Expanded Clinical Neuroplasticity subsection in bidirectional-interaction.md from 3-line summary to detailed evidence with specific clinical data (Schwartz OCD protocol, meta-analysis figures, meditation structural changes, placebo neuroplasticity). Added references to both files.
+- **Source research**: [[research/clinical-neuroplasticity-bidirectional-causation-2026-03-21]]
+- **Published**: yes
+
 ## 2026-03-24 05:03 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/curated-mind]]

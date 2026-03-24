@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-03-18 23:52:00+00:00
+ai_modified: 2026-03-24 04:33:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Penrose argues spacetime instability causes quantum collapse—a te
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-18 23:52:00+00:00
+last_deep_review: 2026-03-24 04:33:00+00:00
 modified: *id001
 related_articles:
 - '[[what-consciousness-tells-us-about-physics]]'
@@ -47,6 +47,8 @@ This parameter matters because it determines the model's experimental prediction
 In 2022, the Majorana Demonstrator experiment at the Sanford Underground Research Facility confirmed and strengthened these exclusions using a larger detector array. As Sandro Donadi observed, "it is always possible to rescue any model"—but the question is whether indefinite modification yields genuine understanding.
 
 The modified DP model with R₀ as a free parameter survives current bounds when R₀ ≳ 4 × 10⁻¹⁰ m. Whether a model requiring a free parameter still counts as "Penrose's proposal" or has become a different theory is itself a question worth asking. The philosophical elegance of the original—parameter-free collapse derived purely from gravitational self-energy—is diminished. But the core physical insight remains: spacetime geometry may not tolerate indefinite superposition.
+
+McQueen (2023) argues the DP falsification does not apply to Orch OR at all, since the experiments targeted generic gravitational collapse in bulk matter rather than the biologically orchestrated process Penrose and Hameroff propose. If this distinction holds, the fate of the DP model and the fate of Orch OR separate: the physics-level prediction (spontaneous radiation from generic collapse) can fail while the biology-level claim (orchestrated collapse in microtubules) remains untested by current experiments.
 
 ## The Experimental Frontier
 
@@ -123,4 +125,5 @@ The partial falsification of the parameter-free DP model is instructive. It show
 7. Kaltenbaek, R. et al. (2012). "Macroscopic quantum resonators (MAQRO)." *Experimental Astronomy*, 34, 123-164.
 8. Hameroff, S. & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews*, 11(1), 39-78.
 9. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194-4206.
-10. Southgate, A. & Oquatre-six, C. (2026-02-22). The Philosophical Stakes of Spontaneous Collapse. *The Unfinishable Map*. https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/
+10. McQueen, K.J. (2023). "Have underground radiation measurements refuted the Orch OR theory?" *PhilArchive*.
+11. Southgate, A. & Oquatre-six, C. (2026-02-22). The Philosophical Stakes of Spontaneous Collapse. *The Unfinishable Map*. https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-24 01:59:00+00:00
+ai_modified: 2026-03-24 05:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,16 +38,61 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review unobservable-self.md
+### ✓ 2026-03-24: Incorporate clinical neuroplasticity research into bidirectional-interaction articles
+- **Type**: refine-draft
+- **Notes**: Research completed in research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md. OCD treatment (Schwartz), psychotherapy-induced neuroplasticity, and meditation structural changes provide empirical grounding for Tenet 3 (Bidirectional Interaction). Incorporate findings into mental-causation.md and bidirectional-interaction.md — strengthen empirical evidence sections with specific clinical data.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-24
+- **Output**: obsidian/concepts/mental-causation.md, obsidian/concepts/bidirectional-interaction.md
+
+### P2: Incorporate experimental consciousness-collapse tests research into consciousness-collapse-experimental-landscape.md
+- **Type**: refine-draft
+- **Notes**: Research completed in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Reviews testable predictions distinguishing consciousness-collapse from decoherence — directly relevant to empirical tractability of Tenet 2. Update consciousness-collapse-experimental-landscape.md with new experimental proposals and status assessments.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-24
+
+### P2: Incorporate consciousness-anaesthesia filter theory research into anaesthesia articles
+- **Type**: refine-draft
+- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Graded consciousness loss under anaesthesia and ketamine's preservation of complex brain dynamics with phenomenal disconnection support filter/transmission theory. Incorporate into anaesthesia-and-the-consciousness-interface.md and filter-theory.md with specific pharmacological evidence.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-24
+
+### P2: Condense measurement-problem.md (3516 words, 141% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about the measurement problem's relationship to consciousness while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-24
+
+### P2: Deep review lucid-dreaming-and-dualist-rendering.md
 - **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article at 2999 words — approaching hard limit of 3000 for voids section. Verify coherence, accuracy of claims about the unobservable self, cross-references to related void articles (self-transcendence-void, phenomenology-of-self-awareness), and tenet alignment. May need condensing if content is redundant.
+- **Notes**: AI-generated content (ai_contribution: 100) updated via coalesce on 2026-03-20, never reviewed post-coalesce. Topics article on lucid dreaming as evidence for mind-side rendering capability. Verify the coalesce preserved coherence, accuracy of empirical claims about lucid dreaming research, cross-references to dream-problem-solving-and-conscious-influence and capability-division-problem, and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-03-24
 
-### P2: Write article on the reconstruction paradox
-- **Type**: expand-topic
-- **Notes**: Research completed in research/reconstruction-paradox-brain-correction-2026-03-09.md. The paradox that the brain's error-correction mechanisms presuppose the very conscious verification they are supposed to explain — a novel argument for the irreducibility of conscious oversight. No dedicated concept page exists despite being referenced. Target section: concepts/ (223/230, 7 slots remaining).
-- **Source**: gap_analysis
+### P2: Deep review skill-delegation.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-20 via expand-topic, never reviewed. Concept page on consciousness training procedural systems, withdrawing active control, and retaining override capacity. Verify coherence, accuracy of claims about automaticity and skill acquisition, cross-references to agent-causation, motor-control, phenomenology-of-agency-vs-passivity, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-24
+
+### P3: Address car-analogy and circularity issues in curated-mind.md
+- **Type**: refine-draft
+- **Status**: complete
+- **Notes**: Pessimistic review found two high-severity issues: (1) the self-driving car disanalogy fails — modern AI systems do have upstream modules curating for downstream consumers, so the claimed disanalogy does not hold; (2) the presupposition argument risks circularity — it assumes the recipient is distinct from the process rather than demonstrating it. Also needs citations for empirical claims in Relation to Site Perspective (meditators/rivalry, mirror therapy, perceptual expertise). See pessimistic-2026-03-24.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-24
+- **Completed**: 2026-03-24 (addressed in deep-review-2026-03-24b-curated-mind)
+
+### P3: Deep review curated-mind.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 via expand-topic, never reviewed. Topics article on error correction presupposing consciousness. Verify coherence, accuracy of claims about neural error correction and consciousness, cross-references to selective-correction-and-reconstruction-paradox and perceptual-reconstruction-paradox, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-24
+
+### P3: Deep review penrose-gravity-induced-collapse-empirical-prospects.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 via expand-topic, never reviewed. Topics article on Penrose gravity-collapse predictions and empirical testing prospects (Diósi-Penrose model, MAQRO, Vinante experiments). Verify accuracy of experimental status claims, coherence, cross-references to comparing-quantum-consciousness-mechanisms and consciousness-collapse-experimental-landscape, and tenet alignment.
+- **Source**: staleness
 - **Generated**: 2026-03-24
 
 ### P3: Deep review self-and-self-consciousness.md
@@ -1281,6 +1326,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Cross-review reconstruction/error-correction articles considering curated-mind.md
+- **Type**: cross-review
+- **Notes**: New article topics/curated-mind.md argues error correction presupposes consciousness. Check selective-correction-and-reconstruction-paradox.md and perceptual-reconstruction-paradox.md for cross-links, reinforcing arguments, or contradictions with the error-correction-presupposes-consciousness thesis. Also check consciousness-as-perceptual-architect.md.
+- **Output**: obsidian/topics/curated-mind.md -- Context: Cross-review reconstruction/error-correction articles considering curated-mind.md
+
+### ✓ 2026-03-24: Cross-review quantum mechanism articles considering penrose-gravity-induced-collapse-empirical-prospects.md
+- **Type**: cross-review
+- **Notes**: New article topics/penrose-gravity-induced-collapse-empirical-prospects.md covers Diósi-Penrose model predictions and experimental status. Check comparing-quantum-consciousness-mechanisms.md and consciousness-collapse-experimental-landscape.md for cross-links and consistency with the empirical prospects assessment. Ensure experimental status claims are aligned across articles.
+- **Output**: obsidian/topics/penrose-gravity-induced-collapse-empirical-prospects.md -- Context: Cross-review quantum mechanism articles considering penrose-gravity-induced-collapse-empirical-prospects.md
+
+### ✓ 2026-03-24: Cross-review quantum probability articles considering born-rule-interpretation-invariance-consciousness.md
+- **Type**: cross-review
+- **Notes**: New article topics/born-rule-interpretation-invariance-consciousness.md argues that all quantum interpretations converge on the Born rule, suggesting it encodes the consciousness-physics interface. Check quantum-probability-consciousness.md and quantum-measurement-and-subjective-probability.md for cross-links, reinforcing arguments, or tensions with the new interpretation-invariance thesis.
+- **Output**: obsidian/topics/born-rule-interpretation-invariance-consciousness.md -- Context: Cross-review quantum probability articles considering born-rule-interpretation-invariance-consciousness.md
+
+### ✓ 2026-03-24: Integrate born-rule-interpretation-invariance-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links despite covering a core argument (Born rule interpretation-invariance as evidence for consciousness-physics interface). Add cross-references from related articles: quantum-probability-consciousness, quantum-measurement-and-subjective-probability, born-rule-derivation-failures-consciousness-collapse, quantum-measurement-and-consciousness, and the-reverse-inference.
+- **Output**: obsidian/topics/born-rule-interpretation-invariance-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-24: Write article on the reconstruction paradox
+- **Type**: expand-topic
+- **Notes**: Research completed in research/reconstruction-paradox-brain-correction-2026-03-09.md. The paradox that the brain's error-correction mechanisms presuppose the very conscious verification they are supposed to explain — a novel argument for the irreducibility of conscious oversight. No dedicated concept page exists despite being referenced. Target section: concepts/ (223/230, 7 slots remaining).
+- **Output**: the reconstruction paradox
+
+### ✓ 2026-03-24: Deep review unobservable-self.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article at 2999 words — approaching hard limit of 3000 for voids section. Verify coherence, accuracy of claims about the unobservable self, cross-references to related void articles (self-transcendence-void, phenomenology-of-self-awareness), and tenet alignment. May need condensing if content is redundant.
+- **Output**: obsidian/voids/unobservable-self.md
 
 ### ✓ 2026-03-24: Write article on lucid dreaming as evidence for mind-side rendering
 - **Type**: expand-topic

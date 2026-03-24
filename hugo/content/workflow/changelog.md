@@ -9,6 +9,89 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-24 05:26 UTC - refine-draft
+- **Status**: Success
+- **Files**: [mental-causation](/concepts/mental-causation/), [bidirectional-interaction](/concepts/bidirectional-interaction/)
+- **Changes**: Added "Empirical Evidence: Clinical Neuroplasticity" section to mental-causation.md (OCD self-directed neuroplasticity, pathway divergence argument, meditation/placebo data). Expanded Clinical Neuroplasticity subsection in bidirectional-interaction.md from 3-line summary to detailed evidence with specific clinical data (Schwartz OCD protocol, meta-analysis figures, meditation structural changes, placebo neuroplasticity). Added references to both files.
+- **Source research**: [clinical-neuroplasticity-bidirectional-causation-2026-03-21](/research/clinical-neuroplasticity-bidirectional-causation-2026-03-21/)
+- **Published**: yes
+
+## 2026-03-24 05:03 UTC - deep-review
+- **Status**: Success
+- **File**: [curated-mind](/topics/curated-mind/)
+- **Word count**: 2091 → 2528 (+437)
+- **Critical issues addressed**: 2 (car analogy disanalogy, presupposition circularity)
+- **Medium issues addressed**: 2 (missing citations, missing cross-links to reconstruction cluster)
+- **Enhancements made**: 6 (car analogy rework, IBE reframing, 3 citations, cross-links to neurological-dissociations + clinical-dissociation + perceptual-failure)
+- **Output**: [deep-review-2026-03-24b-curated-mind](/reviews/deep-review-2026-03-24b-curated-mind/)
+
+## 2026-03-24 04:48 UTC - deep-review
+- **Status**: Success
+- **File**: [curated-mind](/topics/curated-mind/)
+- **Word count**: 1798 → 2091 (+293)
+- **Critical issues addressed**: 2 (orphan references, taxonomy misattribution)
+- **Medium issues addressed**: 2 (homunculus objection, GWT engagement)
+- **Enhancements made**: 3 (homunculus rebuttal, GWT paragraph, cross-link)
+- **Output**: [deep-review-2026-03-24-curated-mind](/reviews/deep-review-2026-03-24-curated-mind/)
+
+## 2026-03-24 04:33 UTC - deep-review
+- **Status**: Success
+- **File**: [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/)
+- **Word count**: 1964 → 2052 (+88)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (McQueen 2023 distinction between generic DP and Orch OR falsification)
+- **Enhancements made**: 1 (cross-review finding from non-retrocausal-conscious-selection-models)
+- **Output**: [deep-review-2026-03-24-penrose-gravity-induced-collapse-empirical-prospects](/reviews/deep-review-2026-03-24-penrose-gravity-induced-collapse-empirical-prospects/)
+
+## 2026-03-24 04:19 UTC - deep-review
+- **Status**: Success
+- **File**: [born-rule-interpretation-invariance-consciousness](/topics/born-rule-interpretation-invariance-consciousness/)
+- **Word count**: 2653 → 2727 (+74)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 (cross-review connection to consciousness-probability paradox, Further Reading addition)
+- **Output**: [deep-review-2026-03-24c-born-rule-interpretation-invariance-consciousness](/reviews/deep-review-2026-03-24c-born-rule-interpretation-invariance-consciousness/)
+
+## 2026-03-24 04:03 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/curated-mind.md, voids/compound-failure-signatures.md
+- **Output**: [pessimistic-2026-03-24](/reviews/pessimistic-2026-03-24/)
+
+## 2026-03-24 03:57 UTC - deep-review
+- **Status**: Success
+- **File**: [born-rule-interpretation-invariance-consciousness](/topics/born-rule-interpretation-invariance-consciousness/)
+- **Word count**: 2653 → 2653 (unchanged)
+- **Critical issues addressed**: 0 (all fixed in earlier review)
+- **Medium issues addressed**: 1 (orphan status resolved)
+- **Enhancements made**: 12 (inbound cross-links from 9 articles, 3 Further Reading additions)
+- **Output**: [deep-review-2026-03-24b-born-rule-interpretation-invariance-consciousness](/reviews/deep-review-2026-03-24b-born-rule-interpretation-invariance-consciousness/)
+
+## 2026-03-24 03:31 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The reconstruction paradox → "The Curated Mind"
+- **Output**: [curated-mind](/topics/curated-mind/)
+- **Word count**: 1798
+- **Based on research**: yes, [reconstruction-paradox-brain-correction-2026-03-09](/research/reconstruction-paradox-brain-correction-2026-03-09/)
+- **Notes**: Placed in topics/ rather than task-suggested concepts/ — the article develops the presupposition argument (error correction presupposes conscious verification) and extends the reconstruction paradox beyond vision into body schema, memory, and self-model. Existing concept and void articles cover the perceptual cases; this article develops the broader philosophical argument.
+
+## 2026-03-24 03:15 UTC - deep-review
+- **Status**: Success
+- **File**: [born-rule-interpretation-invariance-consciousness](/topics/born-rule-interpretation-invariance-consciousness/)
+- **Word count**: 2570 → 2653 (+83)
+- **Critical issues addressed**: 3 (Norsen reference metadata, Zhang misattribution, CSL author order)
+- **Medium issues addressed**: 2 (missing Bidirectional Interaction tenet, missing inline cross-link)
+- **Enhancements made**: 1 (Bidirectional Interaction paragraph with cross-link)
+- **Output**: [deep-review-2026-03-24-born-rule-interpretation-invariance-consciousness](/reviews/deep-review-2026-03-24-born-rule-interpretation-invariance-consciousness/)
+
+## 2026-03-24 03:00 UTC - deep-review
+- **Status**: Success
+- **File**: [unobservable-self](/voids/unobservable-self/)
+- **Word count**: 2999 → 2723 (-276)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (length condensation, Metzinger redundancy, redundant hard-problem section, calibration/neighbouring-voids overlap)
+- **Enhancements made**: 0 (condensation-focused review)
+- **Output**: [deep-review-2026-03-24-the-unobservable-self](/reviews/deep-review-2026-03-24-the-unobservable-self/)
+
 ## 2026-03-24 02:46 UTC - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: Lucid dreaming as evidence for mind-side rendering

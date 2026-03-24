@@ -167,7 +167,8 @@ Spontaneous collapse theories are typically presented as solving the measurement
 
 This reframing supports the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet:
 
-1. **Baseline collapse**: GRW/CSL handle structural collapse consciousness-independently, solving the prebiotic problem
+1. **Born rule preservation**: The [interpretation-invariance of the Born rule](/topics/born-rule-interpretation-invariance-consciousness/) confirms that GRW/CSL import the rule through their stochastic dynamics rather than deriving it — relocating but not eliminating the consciousness-physics boundary
+2. **Baseline collapse**: GRW/CSL handle structural collapse consciousness-independently, solving the prebiotic problem
 2. **Consciousness modulation**: Neural quantum events can be biased by phenomenal properties (attention, intention, valence) at the disclosed boundary
 3. **No panpsychism required**: Consciousness isn't ubiquitous; it modulates rare, localized quantum events in complex brains
 4. **Falsifiable framework**: Experimental tests constrain models, maintaining scientific rigor
