@@ -9,6 +9,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-24 02:46 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Lucid dreaming as evidence for mind-side rendering
+- **Reason**: Already covered by [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) (created 2026-03-09, coalesced from two prior articles, deep-reviewed 2026-03-19). Creating a new article would duplicate existing comprehensive treatment.
+
+## 2026-03-24 02:39 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Resonance Void — why consciousness encounters meaning it cannot articulate or inspect
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-resonance-void-2026-03-24](/research/voids-resonance-void-2026-03-24/)
+- **Key finding**: Multiple independent traditions (Gendlin's felt sense, Otto's numinous, Rosa's resonance theory, Polanyi's tacit knowledge, frisson neuroscience) converge on the same structure: a form of conscious knowing whose mechanism is opaque to the consciousness that experiences it, suggesting resonance marks contact with a genuine cognitive boundary
+
 ## 2026-03-24 02:28 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Born rule interpretation-invariance and consciousness
