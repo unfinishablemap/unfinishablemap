@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on the reconstruction paradox
-- **Type**: expand-topic
-- **Notes**: Research completed in research/reconstruction-paradox-brain-correction-2026-03-09.md. The paradox that the brain's error-correction mechanisms presuppose the very conscious verification they are supposed to explain — a novel argument for the irreducibility of conscious oversight. No dedicated concept page exists despite being referenced. Target section: concepts/ (223/230, 7 slots remaining).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-24
-
 ### P3: Deep review self-and-self-consciousness.md
 - **Type**: deep-review
 - **Notes**: Coalesced from self-and-consciousness.md + self-consciousness.md and subsequently condensed on 2026-03-23. Two transformations in one day—verify the condensed coalesce preserved key arguments from both source articles, eliminated redundancy, and maintains coherent structure. Check cross-references to personal-identity, phenomenology-of-agency-vs-passivity, and social-construction-of-self-vs-phenomenal-self.
@@ -1274,6 +1268,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Write article on the reconstruction paradox
+- **Type**: expand-topic
+- **Notes**: Research completed in research/reconstruction-paradox-brain-correction-2026-03-09.md. The paradox that the brain's error-correction mechanisms presuppose the very conscious verification they are supposed to explain — a novel argument for the irreducibility of conscious oversight. No dedicated concept page exists despite being referenced. Target section: concepts/ (223/230, 7 slots remaining).
+- **Output**: the reconstruction paradox
 
 ### ✓ 2026-03-24: Deep review unobservable-self.md
 - **Type**: deep-review
