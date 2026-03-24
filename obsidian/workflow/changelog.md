@@ -5,6 +5,12 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 22:40 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
+- **Changes**: Added intraoperative awareness statistics (connected consciousness evidence), strengthened active reboot section with Bodart et al. recovery asymmetry and Bhatt et al. transmissive framing, compressed epistemological caveat and limitations sections to stay under 3500-word cap
+- **Published**: yes
+
 ## 2026-03-24 22:24 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/simulation.md, concepts/epiphenomenalism.md

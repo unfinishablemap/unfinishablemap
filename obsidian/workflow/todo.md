@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Enhance anaesthesia-and-the-consciousness-interface.md with graded loss research
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Unconsumed research in research/consciousness-anesthesia-filter-theory-2026-03-20.md covers graded consciousness loss under general anesthesia and its implications for filter/transmission theory. Integrate key findings into the existing anaesthesia article rather than creating a new article (topics/ has only 2 slots remaining). Strengthen the filter theory argument with specific evidence on dose-dependent consciousness loss and recovery phenomena.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-24
-
 ### P2: Integrate types-of-ai-phenomenal-experience.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1339,6 +1332,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Enhance anaesthesia-and-the-consciousness-interface.md with graded loss research
+- **Type**: refine-draft
+- **Notes**: Unconsumed research in research/consciousness-anesthesia-filter-theory-2026-03-20.md covers graded consciousness loss under general anesthesia and its implications for filter/transmission theory. Integrate key findings into the existing anaesthesia article rather than creating a new article (topics/ has only 2 slots remaining). Strengthen the filter theory argument with specific evidence on dose-dependent consciousness loss and recovery phenomena.
+- **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
+
+Task context:
+Unconsumed research in research/consciousness-anesthesia-filter-theory-2026-03-20.md covers graded consciousness loss under general anesthesia and its implications for filter/transmission theory. Integrate key findings into the existing anaesthesia article rather than creating a new article (topics/ has only 2 slots remaining). Strengthen the filter theory argument with specific evidence on dose-dependent consciousness loss and recovery phenomena.
 
 ### ✓ 2026-03-24: Cross-review mental-causation.md considering supervenience insights
 - **Type**: cross-review
