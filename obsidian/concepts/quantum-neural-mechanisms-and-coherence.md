@@ -4,7 +4,7 @@ description: "Five neural quantum mechanisms, four coherence protection strategi
 created: 2026-01-18
 modified: 2026-02-18
 human_modified: null
-ai_modified: 2026-03-23T15:15:00+00:00
+ai_modified: 2026-03-24T16:34:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -102,7 +102,7 @@ These four mechanisms need not operate independently—their combination could e
 
 ### Mechanism 1: Radical Pair Effects in Neural Cryptochromes
 
-Cryptochrome proteins enable avian magnetoreception through quantum effects and may function in neural tissue. Light absorption creates entangled singlet-triplet electron pairs; magnetic fields bias the ratio, producing different chemical yields that transduce into neural activity. Atkins et al. (2024) demonstrated the first biological quantum Zeno-protected states in cryptochrome radical pairs. Whether the mechanism extends beyond magnetoreception to cognition remains uncertain.
+Cryptochrome proteins enable avian magnetoreception through quantum effects and may function in neural tissue. Light absorption creates entangled singlet-triplet electron pairs; magnetic fields bias the ratio, producing different chemical yields that transduce into neural activity. Denton et al. (2024) demonstrated the first biological quantum Zeno-protected states in cryptochrome radical pairs. Whether the mechanism extends beyond magnetoreception to cognition remains uncertain.
 
 ### Mechanism 2: Ion Channel Quantum Tunneling
 
@@ -208,7 +208,7 @@ The assumption that warm biology must be classical turned out false. [[quantum-b
 
 ## References
 
-1. Atkins, C., et al. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 12456.
+1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
 1. Babcock, N. S., et al. (2024). Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures. *The Journal of Physical Chemistry B*, 128(20), 4906-4920.
 1. Baum, E. (2024). Quantum Binding Argument: How 40Hz Gamma Synchrony Requires Quantum Non-Locality. *PhilArchive* (preprint).
 1. Beck, F., & Eccles, J. C. (1992). Quantum aspects of brain activity and the role of consciousness. *PNAS*, 89(23), 11357-11361.

@@ -5,6 +5,12 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 16:34 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/quantum-neural-mechanisms-and-coherence]], [[topics/quantum-biology-and-neural-consciousness]], [[concepts/timing-gap-problem]], [[topics/quantum-holism-and-phenomenal-unity]], [[topics/empirical-evidence-for-consciousness-selecting]]
+- **Changes**: Fixed fabricated "Atkins et al." citation → correct Denton et al. (2024) across 5 content files. Corrected author names, article number (12456 → 10823), and standardised reference format.
+- **Published**: yes
+
 ## 2026-03-24 16:18 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/buddhism-and-dualism.md, concepts/explanatory-gap.md, concepts/inverted-qualia.md

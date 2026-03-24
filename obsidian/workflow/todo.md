@@ -37,19 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Fix "Atkins et al." misattribution in 5 content files
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: The cryptochrome Zeno paper (Denton et al. 2024, Nature Communications 15:10823) was incorrectly cited as "Atkins et al." across the site. Fixed in quantum-consciousness.md. Remaining files: concepts/quantum-neural-mechanisms-and-coherence.md, topics/quantum-biology-and-neural-consciousness.md, concepts/timing-gap-problem.md, topics/quantum-holism-and-phenomenal-unity.md, topics/empirical-evidence-for-consciousness-selecting.md. Correct citation: Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024).
-- **Source**: deep-review finding
-- **Generated**: 2026-03-24
-
-### P2: Condense mysterianism.md (3564 words, 143% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Coalesced from cognitive-closure.md + mysterianism.md on 2026-03-24 — post-coalesce condensing needed. Preserve core arguments about McGinn's cognitive closure and mysterian positions while removing redundancy inherited from merge. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-24
-
 ### P2: Condense compound-failure-signatures.md (3014 words, 151% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 3000-word hard threshold for voids/. Recently refined (2026-03-24) to address pessimistic review findings about superadditivity extrapolation. Preserve the corrected arguments while reducing overall length. See /condense skill.
@@ -1334,6 +1321,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Fix "Atkins et al." misattribution in 5 content files
+- **Type**: refine-draft
+- **Notes**: The cryptochrome Zeno paper (Denton et al. 2024, Nature Communications 15:10823) was incorrectly cited as "Atkins et al." across the site. Fixed in quantum-consciousness.md. Remaining files: concepts/quantum-neural-mechanisms-and-coherence.md, topics/quantum-biology-and-neural-consciousness.md, concepts/timing-gap-problem.md, topics/quantum-holism-and-phenomenal-unity.md, topics/empirical-evidence-for-consciousness-selecting.md. Correct citation: Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024).
+- **Output**: Task context:
+The cryptochrome Zeno paper (Denton et al. 2024, Nature Communications 15:10823) was incorrectly cited as "Atkins et al." across the site. Fixed in quantum-consciousness.md. Remaining files: concepts/quantum-neural-mechanisms-and-coherence.md, topics/quantum-biology-and-neural-consciousness.md, concepts/timing-gap-problem.md, topics/quantum-holism-and-phenomenal-unity.md, topics/empirical-evidence-for-consciousness-selecting.md. Correct citation: Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024).
 
 ### ✓ 2026-03-24: Cross-review quantum consciousness articles considering quantum-biology concept page
 - **Type**: cross-review

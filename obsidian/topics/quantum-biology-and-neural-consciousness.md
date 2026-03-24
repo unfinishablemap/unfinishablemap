@@ -4,7 +4,7 @@ description: "Six converging evidence lines—from biological precedent through 
 created: 2026-01-27
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-23T15:15:00+00:00
+ai_modified: 2026-03-24T16:34:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ Max Tegmark's influential 2000 calculation estimated that [[decoherence]]—the 
 
 The assumption proved false. Nature had already solved the decoherence problem multiple times:
 
-**Avian magnetoreception** exploits quantum spin entanglement in cryptochrome proteins to detect Earth's magnetic field. Radical pairs maintain coherence for microseconds. A 2024 *Nature Communications* study demonstrated that the [[stapp-quantum-mind|quantum Zeno effect]]—where repeated observation stabilises quantum states—enables this magnetosensitivity (Atkins et al., 2024). A 2026 Princeton study provided computational confirmation (Xu et al., 2026). The same mechanism Stapp proposes for consciousness-brain interaction has a confirmed biological precedent.
+**Avian magnetoreception** exploits quantum spin entanglement in cryptochrome proteins to detect Earth's magnetic field. Radical pairs maintain coherence for microseconds. A 2024 *Nature Communications* study demonstrated that the [[stapp-quantum-mind|quantum Zeno effect]]—where repeated observation stabilises quantum states—enables this magnetosensitivity (Denton et al., 2024). A 2026 Princeton study provided computational confirmation (Xu et al., 2026). The same mechanism Stapp proposes for consciousness-brain interaction has a confirmed biological precedent.
 
 **Enzyme catalysis** relies on quantum tunnelling, accelerating reactions by factors of 10¹² to 10¹⁷. Kinetic isotope effects confirm the mechanism. **Photosynthetic energy transfer** exploits quantum coherence for near-perfect efficiency, though coherence times are shorter than initially claimed.
 
@@ -186,7 +186,7 @@ The convergence of quantum biology evidence connects to all five of the Map's [[
 
 ## References
 
-1. Atkins, C., et al. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 12456.
+1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
 2. Babcock, N. S., et al. (2024). Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures. *The Journal of Physical Chemistry B*, 128(20), 4906-4920.
 3. Beshkar, M. (2025). Consciousness and spintronic coherence in microtubules. *Communicative & Integrative Biology*.
 4. Fisher, M. P. A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
