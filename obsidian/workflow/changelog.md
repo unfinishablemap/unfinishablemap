@@ -5,6 +5,11 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 00:58 UTC - deep-review
+- **Status**: Skipped
+- **File**: phenomenology-of-moral-deliberation.md
+- **Reason**: File was archived on 2026-03-20, coalesced into [[phenomenology-of-moral-life]]. Task is stale.
+
 ## 2026-03-24 00:43 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[consciousness-collapse-versus-decoherence-experiments]], [[differential-predictions-consciousness-collapse]]

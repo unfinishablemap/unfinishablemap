@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenology-of-moral-deliberation.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article on the phenomenology of moral deliberation under dualism. Add cross-references from moral-phenomenology, consciousness-and-normative-force, phenomenology-of-agency-vs-passivity, and related ethics articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-23
-
 ### P2: Integrate conservation-laws-mind-brain-causation.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Concepts article on the conservation law objection to mind-brain causation — a central challenge to Tenet 3 (Bidirectional Interaction). Add cross-references from mental-causation, causal-closure-debate-historical-survey, interactionist-dualism, and related physics-interface articles.
@@ -1286,6 +1280,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-24: Integrate phenomenology-of-moral-deliberation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on the phenomenology of moral deliberation under dualism. Add cross-references from moral-phenomenology, consciousness-and-normative-force, phenomenology-of-agency-vs-passivity, and related ethics articles.
+- **Output**: phenomenology-of-moral-deliberation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-24: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
 - **Type**: integrate-orphan
