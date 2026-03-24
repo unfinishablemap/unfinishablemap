@@ -8,7 +8,7 @@ ai_modified: 2026-03-23T16:45:00+00:00
 draft: false
 topics:
   - "[[probability-problem-in-many-worlds]]"
-  - "[[born-rule-derivation-failures-consciousness-collapse]]"
+  - "[[born-rule-and-the-consciousness-interface]]"
 concepts:
   - "[[concepts/many-worlds]]"
   - "[[measurement-problem]]"
@@ -88,7 +88,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies here direct
 ## Further Reading
 
 - [[probability-problem-in-many-worlds]] — Extended treatment of all four objections with detailed argument
-- [[born-rule-derivation-failures-consciousness-collapse]] — Why Born rule derivation failures point toward consciousness-collapse
+- [[born-rule-and-the-consciousness-interface]] — Why Born rule derivation failures point toward consciousness-collapse
 - [[concepts/many-worlds]] — The many-worlds concept page
 - [[many-worlds-argument|Against Many-Worlds]] — The full five-argument case against MWI
 - [[consciousness-and-probability-interpretation]] — Why consciousness and probability are entangled

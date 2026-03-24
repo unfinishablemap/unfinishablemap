@@ -21,7 +21,7 @@ related_articles:
   - "[[decoherence-and-macroscopic-superposition]]"
   - "[[spontaneous-collapse-theories]]"
   - "[[comparing-quantum-consciousness-mechanisms]]"
-  - "[[born-rule-derivation-failures-consciousness-collapse]]"
+  - "[[born-rule-and-the-consciousness-interface]]"
   - "[[penrose-gravity-induced-collapse-empirical-prospects]]"
   - "[[non-retrocausal-conscious-selection-models]]"
   - "[[philosophical-stakes-of-spontaneous-collapse]]"
@@ -129,7 +129,7 @@ If the MAQRO mission or equivalent ground-based experiments show that superposit
 
 ### 7. Born Rule Derivation as Indirect Evidence
 
-Unlike the six experimental predictions above, this is a theoretical observation rather than a laboratory test. Every major attempt to [[born-rule-derivation-failures-consciousness-collapse|derive the Born rule]] from physics alone presupposes an observer, suggesting that the consciousness-physics interface may be built into measurement itself rather than being an optional add-on. The persistent failure to derive the Born rule without observer-dependent assumptions constitutes indirect evidence that consciousness is structurally implicated in quantum measurement.
+Unlike the six experimental predictions above, this is a theoretical observation rather than a laboratory test. Every major attempt to [[born-rule-and-the-consciousness-interface|derive the Born rule]] from physics alone presupposes an observer, suggesting that the consciousness-physics interface may be built into measurement itself rather than being an optional add-on. The persistent failure to derive the Born rule without observer-dependent assumptions constitutes indirect evidence that consciousness is structurally implicated in quantum measurement.
 
 ## Where the Landscape Stands
 
@@ -169,7 +169,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses a predict
 - [[decoherence-and-macroscopic-superposition]] — Where the quantum-classical boundary currently lies
 - [[spontaneous-collapse-theories]] — GRW, CSL, and Penrose OR in detail
 - [[comparing-quantum-consciousness-mechanisms]] — How proposed mechanisms compare
-- [[born-rule-derivation-failures-consciousness-collapse]] — Why deriving the Born rule matters for collapse theories
+- [[born-rule-and-the-consciousness-interface]] — Why deriving the Born rule matters for collapse theories
 - [[penrose-gravity-induced-collapse-empirical-prospects]] — The experimental programme constraining gravity-related collapse models
 - [[non-retrocausal-conscious-selection-models]] — Why these three frameworks share a forward-in-time temporal direction
 - [[philosophical-stakes-of-spontaneous-collapse]] — What is at stake philosophically in the collapse debate

@@ -5,6 +5,13 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-24 06:48 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[born-rule-derivation-failures-consciousness-collapse]], [[born-rule-interpretation-invariance-consciousness]]
+- **Target**: [[born-rule-and-the-consciousness-interface]]
+- **Archived**: archive/topics/born-rule-derivation-failures-consciousness-collapse.md, archive/topics/born-rule-interpretation-invariance-consciousness.md
+- **References to review**: 0 (all active content updated inline)
+
 ## 2026-03-24 06:33 UTC - condense
 - **Status**: Success
 - **File**: [[measurement-problem]]

@@ -160,7 +160,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 - [[quantum-neural-timing-constraints]] — Decoherence and timing considerations for neural quantum effects
 - [[neural-implementation-specifics]] — Detailed evidence hierarchy for each proposed mechanism
 - [[quantum-measurement-and-consciousness]] — How consciousness relates to quantum measurement
-- [[born-rule-derivation-failures-consciousness-collapse]] — Why collapse interpretations resist deriving the Born rule without consciousness
+- [[born-rule-and-the-consciousness-interface]] — Why collapse interpretations resist deriving the Born rule without consciousness
 - [[quantum-indeterminacy-free-will]] — Why mechanism choice matters for libertarian free will
 - [[prebiotic-collapse]] — What collapsed before conscious observers
 - [[coupling-modes]] — How consciousness might couple to quantum systems

@@ -6,6 +6,11 @@ modified: 2026-03-15
 human_modified:
 ai_modified: 2026-03-20T02:35:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-24T06:48:00+00:00
+superseded_by: "/topics/born-rule-and-the-consciousness-interface/"
+archive_reason: "Coalesced into The Born Rule and the Consciousness-Physics Interface"
+original_path: "/topics/born-rule-derivation-failures-consciousness-collapse/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[quantum-measurement-and-consciousness]]"

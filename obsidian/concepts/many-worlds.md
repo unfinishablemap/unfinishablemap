@@ -26,7 +26,7 @@ related_articles:
   - "[[probability-problem-in-many-worlds]]"
   - "[[quantum-probability-consciousness]]"
   - "[[indexical-identity-quantum-measurement]]"
-  - "[[born-rule-derivation-failures-consciousness-collapse]]"
+  - "[[born-rule-and-the-consciousness-interface]]"
   - "[[probability-objections-many-worlds]]"
   - "[[tenets]]"
 ai_contribution: 100
@@ -75,7 +75,7 @@ Three strategies attempt to recover probability: decision-theoretic derivations 
 
 A deeper structural problem cuts across all three strategies: well-defined branches require [[decoherence]], but decoherence is described using the Born-rule norm, so the branch structure presupposes the probability rule it claims to ground (Baker 2007, Price 2010). Zhang et al. (2026) identify a unifying bottleneck: all five leading derivation strategies depend irreducibly on the assumption that probabilities of orthogonal outcomes are additive—itself a probabilistic postulate, making every derivation covertly circular. This problem has persisted from Everett's original 1957 thesis through Short's 2023 contribution to *Quantum*—nearly seven decades without resolution.
 
-MWI bears this burden more acutely than collapse interpretations: collapse theories can honestly postulate the Born rule as a fundamental law, while MWI must derive it from resources that appear structurally incapable of generating it. The [[born-rule-derivation-failures-consciousness-collapse|broader pattern of Born rule derivation failures]] and the [[born-rule-interpretation-invariance-consciousness|interpretation-invariance analysis]] across all seven major frameworks suggest the rule may encode something about the consciousness-physics interface that no interpretation can extract from physics alone. See [[probability-problem-in-many-worlds]] for the full case against all three recovery strategies, and [[probability-objections-many-worlds]] for a concise catalogue of the four distinct probability objections.
+MWI bears this burden more acutely than collapse interpretations: collapse theories can honestly postulate the Born rule as a fundamental law, while MWI must derive it from resources that appear structurally incapable of generating it. The [[born-rule-and-the-consciousness-interface|broader pattern of Born rule derivation failures]] and the [[born-rule-and-the-consciousness-interface|interpretation-invariance analysis]] across all seven major frameworks suggest the rule may encode something about the consciousness-physics interface that no interpretation can extract from physics alone. See [[probability-problem-in-many-worlds]] for the full case against all three recovery strategies, and [[probability-objections-many-worlds]] for a concise catalogue of the four distinct probability objections.
 
 ### 4. The Preferred Basis Problem
 
@@ -175,7 +175,7 @@ Alternative interpretations—particularly [[collapse-and-time|time-symmetric]] 
 - [[illusionism]] — The strongest physicalist challenge and why it doesn't help MWI
 - [[probability-problem-in-many-worlds]] — Full survey of MWI's probability crisis with all three recovery strategies
 - [[probability-objections-many-worlds]] — Concise catalogue of the four distinct probability objections
-- [[born-rule-derivation-failures-consciousness-collapse]] — Why Born rule derivation failures point toward consciousness-collapse
+- [[born-rule-and-the-consciousness-interface]] — Why Born rule derivation failures point toward consciousness-collapse
 - [[quantum-probability-consciousness]] — How probability connects to consciousness across interpretations
 - [[indexical-knowledge-and-identity]] — Why self-locating knowledge creates problems for branching interpretations
 - [[indexical-identity-quantum-measurement]] — Why indexical identity matters for quantum measurement
