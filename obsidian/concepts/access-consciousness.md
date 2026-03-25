@@ -4,9 +4,9 @@ description: "Access consciousness makes mental states available for reasoning a
 created: 2026-01-22
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-03-25T07:58:00+00:00
+ai_modified: 2026-03-25T17:44:00+00:00
 draft: false
-last_deep_review: 2026-03-03T16:48:00+00:00
+last_deep_review: 2026-03-25T17:44:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
@@ -66,7 +66,7 @@ Block argues A-consciousness and P-consciousness can dissociate in both directio
 
 Blindsight patients have cortical damage causing a blind spot—they report seeing nothing yet can "guess" stimulus properties with above-chance accuracy. This involves *some* information reaching cognitive systems but not full global access.
 
-**Contested interpretations**: Functionalists argue blindsight shows degraded phenomenology matching degraded access—no dissociation to explain, since "access without phenomenology" presupposes phenomenology is something beyond functional access. The Map reads blindsight as minimal or absent P-consciousness despite partial access, supporting the claim that access and phenomenology are distinct. See [[philosophical-zombies]] for whether such dissociation is metaphysically possible. The [[conscious-vs-unconscious-processing|conscious vs unconscious processing]] literature provides complementary evidence: Randeniya's 2025 meta-analysis of 80 experimental conditions across 16 fMRI studies found that only 10% provided genuine evidence for unconscious processing, while consciousness enables three specific functions—durable maintenance, novel combinations, and spontaneous intentional action—that unconscious processing cannot achieve.
+**Contested interpretations**: Functionalists argue blindsight shows degraded phenomenology matching degraded access—no dissociation to explain, since "access without phenomenology" presupposes phenomenology is something beyond functional access. The Map reads blindsight as minimal or absent P-consciousness despite partial access, supporting the claim that access and phenomenology are distinct. See [[philosophical-zombies]] for whether such dissociation is metaphysically possible. The [[conscious-vs-unconscious-processing|conscious vs unconscious processing]] literature provides complementary evidence: Randeniya's 2025 meta-analysis of 80 experimental conditions across 16 fMRI studies found that only 10% provided genuine evidence for unconscious processing. Separately, Global Workspace Theory identifies three functions that require conscious access—durable maintenance, novel combinations, and spontaneous intentional action—suggesting consciousness is not epiphenomenal but functionally essential. Nartker et al. (2025) add nuance: "inattentionally blind" participants retain residual visual sensitivity to stimuli they deny noticing, blurring the boundary between conscious and unconscious access.
 
 ### The Overflow Argument: Phenomenology Without Full Access
 
