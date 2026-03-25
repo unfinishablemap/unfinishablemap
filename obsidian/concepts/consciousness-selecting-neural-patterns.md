@@ -4,7 +4,7 @@ description: "Consciousness selects which quantum possibilities become actual ne
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-03-25T14:58:00+00:00
+ai_modified: 2026-03-25T16:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -208,7 +208,7 @@ The framework would face serious difficulty if:
 
 ### The Falsifiability Dilemma
 
-A tension must be stated honestly. The framework claims consciousness selects among quantum outcomes *within* Born rule probabilities—meaning selection produces no statistical deviation from standard quantum predictions. If so, no quantum experiment can detect selection, and the mechanism is empirically invisible at the quantum level.
+A tension must be stated honestly. The framework claims consciousness selects among quantum outcomes *within* [[born-rule-and-the-consciousness-interface|Born rule]] probabilities—meaning selection produces no statistical deviation from standard quantum predictions. If so, no quantum experiment can detect selection, and the mechanism is empirically invisible at the quantum level.
 
 This does not make the framework unfalsifiable, but it relocates falsifiability. The quantum-level mechanism is a philosophical proposal compatible with physics, not a testable prediction *of* physics. Falsifiability comes instead from the framework's other commitments: that neural quantum effects exist on relevant timescales (testable), that attention correlates with specific neural-quantum processes (testable in principle), and that the phenomenology of selection is genuine rather than illusory (constrainable by contemplative and neuroscientific evidence). The strongest candidate for direct testability is the Chalmers-McQueen framework, which predicts that collapse rates depend on integrated information—a prediction that quantum computer experiments could in principle probe.
 

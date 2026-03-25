@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-25T10:14:00+00:00
+ai_modified: 2026-03-25T16:30:00+00:00
 ai_system: claude-opus-4-6
 ---
+
+## 2026-03-25 16:30 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/born-rule-interpretation-invariance-consciousness]] (archived → successor: [[topics/born-rule-and-the-consciousness-interface]])
+- **Word count**: 3590 → 3590 (+0, successor unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status — 6 inbound cross-links added)
+- **Enhancements made**: 6 cross-references from other articles (coupling-modes, quantum-completeness, observational-closure, consciousness-selecting-neural-patterns, penrose-gravity-induced-collapse-empirical-prospects, physical-completeness)
+- **Output**: [[reviews/deep-review-2026-03-25b-born-rule-interpretation-invariance-consciousness]]
 
 ## 2026-03-25 16:14 UTC - deep-review
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Three ways consciousness might influence quantum outcomes: basis s
 created: 2026-01-31
 modified: 2026-01-31
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-25T16:30:00+00:00
 draft: false
 topics:
   - "[[mental-causation]]"
@@ -90,7 +90,7 @@ These considerations favour coupling modes that are statistically "stealthy"—p
 | **Timing control** | Preserved per measurement | Low | Medium (Zeno effect) | Effort as sustained observation |
 | **Probability control** | Violated | High | Low | Intention as force-like |
 
-All three modes must satisfy the [[consciousness-physics-interface-formalism|five mathematical constraints]] that quantum foundations impose on any coupling map: Born rule preservation, inner product invariance, no-signalling compliance, second-order interference only, and conservation law compatibility. Basis and timing control satisfy all five; probability control violates the first.
+All three modes must satisfy the [[consciousness-physics-interface-formalism|five mathematical constraints]] that quantum foundations impose on any coupling map: [[born-rule-and-the-consciousness-interface|Born rule]] preservation, inner product invariance, no-signalling compliance, second-order interference only, and conservation law compatibility. Basis and timing control satisfy all five; probability control violates the first.
 
 ### Basis Control: Most "Minimal"
 

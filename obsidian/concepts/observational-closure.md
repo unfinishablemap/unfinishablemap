@@ -4,7 +4,7 @@ description: "Observational closure distinguishes empirical from metaphysical ca
 created: 2026-03-13
 modified: 2026-03-13
 human_modified:
-ai_modified: 2026-03-13T17:19:00+00:00
+ai_modified: 2026-03-25T16:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -90,7 +90,7 @@ The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] te
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet affirms that consciousness causally influences the physical world. Together, these two tenets commit the Map to exactly the position observational closure makes coherent: genuine mental causation that respects every empirical finding while denying the metaphysical extrapolation to universal closure.
 
-The distinction also bears on testability. The Map's position is not empirically equivalent to physicalism in all respects—specific mechanisms (quantum Zeno effects in neural tissue, coherence timescales, Born-rule compliance) generate predictions that could fail. Observational closure sets a floor, not a ceiling: mental causation must be observationally invisible in aggregate, but the specific theories proposing *how* it works remain open to empirical challenge.
+The distinction also bears on testability. The Map's position is not empirically equivalent to physicalism in all respects—specific mechanisms (quantum Zeno effects in neural tissue, coherence timescales, [[born-rule-and-the-consciousness-interface|Born-rule]] compliance) generate predictions that could fail. Observational closure sets a floor, not a ceiling: mental causation must be observationally invisible in aggregate, but the specific theories proposing *how* it works remain open to empirical challenge.
 
 ## Further Reading
 

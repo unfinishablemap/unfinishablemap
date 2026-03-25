@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate born-rule-interpretation-invariance-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: Created 2026-03-24 via expand-topic, has no inbound links. Add cross-references from born-rule-and-the-consciousness-interface.md, quantum-probability-consciousness.md, consciousness-and-probability-interpretation.md, and measurement-problem.md. Directly supports Tenet 2 — the Born rule as interface specification.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-25
-
 ### P2: Integrate valence-as-selection-currency.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1375,6 +1368,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Integrate born-rule-interpretation-invariance-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Created 2026-03-24 via expand-topic, has no inbound links. Add cross-references from born-rule-and-the-consciousness-interface.md, quantum-probability-consciousness.md, consciousness-and-probability-interpretation.md, and measurement-problem.md. Directly supports Tenet 2 — the Born rule as interface specification.
+- **Output**: born-rule-interpretation-invariance-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-25: Integrate cognitive-phenomenology-and-the-irreducibility-of-thought.md into site navigation
 - **Type**: integrate-orphan

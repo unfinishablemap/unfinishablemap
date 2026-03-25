@@ -4,7 +4,7 @@ description: "Quantum mechanics is 'partial but complete': structurally exhausti
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-18T01:15:00+00:00
+ai_modified: 2026-03-25T16:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -59,7 +59,7 @@ Yet something is missing from quantum mechanics. Von Neumann's three-process dec
 
 **Process 2** is unitary evolution—the Schrödinger equation governing how quantum states evolve between measurements. Physics determines this completely.
 
-**Process 3** is the Born rule—the probabilities assigned to measurement outcomes. Physics determines these completely.
+**Process 3** is the [[born-rule-and-the-consciousness-interface|Born rule]]—the probabilities assigned to measurement outcomes. Physics determines these completely.
 
 **Process 1** is the act of measurement itself: which observable is chosen, when measurement occurs, and which outcome becomes actual from among the superposed possibilities. Physics does not determine this. The equations predict probabilities, not outcomes. And they are silent on what triggers the transition from superposition to definite result.
 

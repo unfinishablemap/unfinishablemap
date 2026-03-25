@@ -4,7 +4,7 @@ description: "Physics is structurally complete—it captures every relation and 
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-20T00:17:00+00:00
+ai_modified: 2026-03-25T16:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -79,7 +79,7 @@ This distinguishes the Map's position from earlier dualist arguments that relied
 
 ## Causal Closure Reconsidered
 
-The structural-ontological gap reframes the [[causal-closure|causal closure]] debate. Causal closure claims that every physical event has a sufficient physical cause. If "physical" means "structural," this is true: every structural change has a sufficient structural explanation. The Schrödinger equation governs evolution completely; the Born rule assigns probabilities completely.
+The structural-ontological gap reframes the [[causal-closure|causal closure]] debate. Causal closure claims that every physical event has a sufficient physical cause. If "physical" means "structural," this is true: every structural change has a sufficient structural explanation. The Schrödinger equation governs evolution completely; the [[born-rule-and-the-consciousness-interface|Born rule]] assigns probabilities completely.
 
 But causal closure is typically taken to mean something stronger: that *nothing beyond physics* contributes to physical outcomes. The structural-ontological gap reveals the equivocation. From "every structural change has a structural explanation" it does not follow that "every actual outcome is structurally determined." The gap between probability and actuality is a gap *within* the causal story, not a challenge to the causal story from outside.
 
