@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review phenomenology articles considering cognitive-phenomenology-and-the-irreducibility-of-thought.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md created 2026-03-25 via expand-topic. Review phenomenology-of-intellectual-effort.md, phenomenology-of-understanding-and-meaning.md, and phenomenology-of-epistemic-cognition.md for cross-linking opportunities, reinforcing arguments about thought's irreducibility to functional processing, and terminology consistency. Also check concepts/cognitive-phenomenology.md for overlap or complementarity.
-- **Source**: chain (from cognitive-phenomenology-and-the-irreducibility-of-thought.md)
-- **Generated**: 2026-03-25
-
 ### P2: Cross-review agency and causation articles considering agent-causation.md concept page
 - **Type**: cross-review
 - **Status**: pending
@@ -1389,6 +1382,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Cross-review phenomenology articles considering cognitive-phenomenology-and-the-irreducibility-of-thought.md
+- **Type**: cross-review
+- **Notes**: New article topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md created 2026-03-25 via expand-topic. Review phenomenology-of-intellectual-effort.md, phenomenology-of-understanding-and-meaning.md, and phenomenology-of-epistemic-cognition.md for cross-linking opportunities, reinforcing arguments about thought's irreducibility to functional processing, and terminology consistency. Also check concepts/cognitive-phenomenology.md for overlap or complementarity.
+- **Output**: obsidian/topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md -- Context: Cross-review phenomenology articles considering cognitive-phenomenology-and-the-irreducibility-of-thought.md
 
 ### ✓ 2026-03-25: Write concept page on conservation laws and mind-brain causation
 - **Type**: expand-topic
