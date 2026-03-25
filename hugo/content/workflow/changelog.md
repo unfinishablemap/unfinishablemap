@@ -9,6 +9,22 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-25 05:27 UTC - deep-review
+- **Status**: Success (stable — no changes needed)
+- **File**: [timing-gap-problem](/concepts/timing-gap-problem/)
+- **Word count**: 1431 → 1431 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fourth review. Article at full stability since 2026-03-01. Changes since last review were maintenance only (citation fix, broken link removal). All attribution checks pass, all wikilinks resolve.
+- **Output**: [deep-review-2026-03-25-timing-gap-problem](/reviews/deep-review-2026-03-25-timing-gap-problem/)
+
+## 2026-03-25 05:19 UTC - refine-draft
+- **Status**: Invalid (no changes needed)
+- **File**: epistemological-limits-of-occams-razor wikilinks (11 files)
+- **Changes**: None. The page `arguments/epistemological-limits-of-occams-razor.md` exists and all wikilinks resolve correctly to `/arguments/epistemological-limits-of-occams-razor/` in the built site. The gap analysis incorrectly reported these as broken — same conclusion as the 2026-03-23 investigation. Task marked invalid in todo.md.
+- **Published**: n/a
+
 ## 2026-03-25 04:54 UTC - deep-review
 - **Status**: Success
 - **File**: [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/)

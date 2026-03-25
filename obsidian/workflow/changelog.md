@@ -5,6 +5,10 @@ ai_modified: 2026-03-25T03:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-25 05:43 UTC - refine-draft (no-op)
+- **Status**: No changes needed — task based on incorrect information
+- **Notes**: Investigated "broken" [[many-worlds-argument]] and [[epiphenomenalism-argument]] wikilinks. Both pages exist at `arguments/many-worlds-argument.md` and `arguments/epiphenomenalism-argument.md`. The content index resolves bare slugs correctly to `/arguments/many-worlds-argument/` and `/arguments/epiphenomenalism-argument/`. Verified in Hugo build output — all links produce correct URLs. Removed invalid task from todo.
+
 ## 2026-03-25 05:27 UTC - deep-review
 - **Status**: Success (stable — no changes needed)
 - **File**: [[concepts/timing-gap-problem]]
