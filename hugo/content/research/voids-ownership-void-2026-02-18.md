@@ -18,9 +18,8 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[the-unobservable-self]]'
-- '[[introspective-opacity]]'
+- '[[self-opacity]]'
 - '[[other-minds-void]]'
-- '[[self-reference-paradox]]'
 target_section: voids
 title: 'Research Notes - Voids: The Ownership Void'
 topics:

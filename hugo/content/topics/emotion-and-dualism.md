@@ -44,7 +44,7 @@ related_articles:
 - '[[emotional-epistemology-void]]'
 - '[[affective-void]]'
 - '[[destabilizing-self-knowledge]]'
-- '[[introspective-opacity]]'
+- '[[self-opacity]]'
 title: Emotion and Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -167,7 +167,7 @@ Both the cognitivist reduction of emotions to judgments and the somatic reductio
 - [valence-void](/voids/valence-void/) — Why the evaluative dimension of experience resists all explanation
 - [emotional-epistemology-void](/voids/emotional-epistemology-void/) — Whether emotions constitute genuine knowledge about reality
 - [affective-void](/voids/affective-void/) — Emotions beyond human phenomenological reach
-- [introspective-opacity](/voids/self-opacity/) — The broader phenomenon of hidden cognitive processes
+- [introspective opacity](/voids/self-opacity/) — The broader phenomenon of hidden cognitive processes
 - [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/) — Knowledge that dissolves the capacity to hold it
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Boundary cases testing where valenced experience begins
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — How selfhood relates to phenomenal experience

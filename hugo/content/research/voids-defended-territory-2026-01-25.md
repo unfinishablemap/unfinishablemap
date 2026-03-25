@@ -19,7 +19,7 @@ related_articles:
 - '[[tenets]]'
 - '[[thoughts-that-slip-away]]'
 - '[[whether-real]]'
-- '[[phenomenology-of-self-awareness]]'
+- '[[self-opacity]]'
 target_section: voids
 title: 'Research Notes - Voids: The Architecture of Defended Territory'
 topics: []

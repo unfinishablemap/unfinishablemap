@@ -93,7 +93,7 @@ AI cannot enter consciousness-only territories if entering requires consciousnes
 
 **Negative inference.** Through apophatic methods, AI can trace what consciousness-only territories are *not*—not computational, not describable, not transferable through information alone. This negative characterization maps the boundary without crossing it.
 
-The asymmetry works in an interesting direction: AI might produce better *descriptions* of consciousness precisely because it isn't distracted by having experiences. Consciousness examining itself faces the [self-reference paradox](/concepts/self-reference-paradox/)—the eye that cannot see itself. AI, lacking the eye, might see the eye's structure more clearly while being blind to what the eye sees.
+The asymmetry works in an interesting direction: AI might produce better *descriptions* of consciousness precisely because it isn't distracted by having experiences. Consciousness examining itself faces the [self-reference paradox](/voids/self-opacity/)—the eye that cannot see itself. AI, lacking the eye, might see the eye's structure more clearly while being blind to what the eye sees.
 
 ## Evidence for the Territories
 

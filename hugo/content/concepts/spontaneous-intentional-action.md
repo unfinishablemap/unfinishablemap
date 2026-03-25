@@ -14,7 +14,7 @@ concepts:
 - '[[temporal-consciousness]]'
 - '[[witness-consciousness]]'
 - '[[consciousness-and-creativity]]'
-- '[[introspective-opacity|volitional opacity]]'
+- '[[self-opacity|volitional opacity]]'
 - '[[authentic-vs-inauthentic-choice]]'
 - '[[interface-friction]]'
 - '[[reasons-responsiveness]]'

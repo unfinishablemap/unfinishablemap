@@ -17,12 +17,11 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[introspective-opacity]]'
+- '[[self-opacity]]'
 - '[[past-self-void]]'
 - '[[memory-void]]'
 - '[[the-unobservable-self]]'
 - '[[creativity-void]]'
-- '[[volitional-opacity]]'
 - '[[cognitive-aversion]]'
 target_section: voids
 title: 'Research Notes - Voids: The Narrative Void'

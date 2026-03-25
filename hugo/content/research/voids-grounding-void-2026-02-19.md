@@ -19,7 +19,7 @@ related_articles:
 - '[[tenets]]'
 - '[[origin-of-consciousness]]'
 - '[[incompleteness-void]]'
-- '[[self-reference-paradox]]'
+- '[[self-opacity]]'
 - '[[topology-of-cognitive-failure]]'
 target_section: voids
 title: 'Research Notes - Voids: The Grounding Void'

@@ -28,11 +28,10 @@ related_articles:
 - '[[tenets]]'
 - '[[three-kinds-of-void]]'
 - '[[observation-void]]'
-- '[[introspective-opacity]]'
+- '[[self-opacity]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[whether-real]]'
 - '[[consciousness-only-territories]]'
-- '[[self-reference-paradox]]'
 - '[[destabilizing-self-knowledge]]'
 - '[[consciousness-and-the-problem-of-measurement-standards]]'
 - '[[substrate-void]]'
@@ -117,7 +116,7 @@ Approaching the measurement void produces a distinctive experiential signature.
 
 **Dissolving ground.** Contemplating Schwitzgebel's examples seriously—Am I really experiencing peripheral vision in colour right now?—produces not the sensation of hitting a wall but of the floor becoming unreliable. The experience is a loss of footing rather than a confrontation with an obstacle.
 
-**Recursive vertigo.** Attempting to introspect about the reliability of introspection generates a self-referential spiral. Am I accurately reporting my uncertainty about my accuracy? This connects to the [destabilising self-knowledge](/voids/destabilizing-self-knowledge/) pattern and to the [self-reference-paradox](/concepts/self-reference-paradox/), where consciousness cannot fully map itself because it is the mapper.
+**Recursive vertigo.** Attempting to introspect about the reliability of introspection generates a self-referential spiral. Am I accurately reporting my uncertainty about my accuracy? This connects to the [destabilising self-knowledge](/voids/destabilizing-self-knowledge/) pattern and to the [self-reference paradox](/voids/self-opacity/), where consciousness cannot fully map itself because it is the mapper.
 
 **Pragmatic forgetting.** The practical impossibility of sustaining radical doubt about introspection means we routinely fall back into naïve trust. The measurement void cannot be inhabited—it can only be glimpsed before the mind reasserts its default confidence.
 
@@ -135,13 +134,13 @@ The measurement void follows from the Map's [tenets](/tenets/) with particular d
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is challenged directly. The assumption that everything real must be quantifiable—that measurement exhausts ontology—is itself a parsimony move. The measurement void suggests this preference may reflect ignorance rather than insight. The most certain thing in our ontology—that experience exists—is the one thing we cannot measure. The assumption that we know our own minds is perhaps the most deeply entrenched simplicity assumption in philosophy. Descartes built his entire epistemology on the supposed transparency of mind to itself. If introspection is as fallible and uncalibratable as the evidence suggests, our simplest, most intuitive belief about consciousness is mistaken.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** adds a practical dimension. If consciousness causally influences the physical world but cannot be measured, then physical science contains a causal contributor it cannot detect or quantify. The completeness of physical explanation is interrupted by something physically invisible. The mechanism of that influence might be systematically hidden from introspection—a form of [introspective-opacity](/voids/self-opacity/) extending beyond mere mechanism-blindness to the impossibility of calibrating reports about an interface one cannot inspect.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** adds a practical dimension. If consciousness causally influences the physical world but cannot be measured, then physical science contains a causal contributor it cannot detect or quantify. The completeness of physical explanation is interrupted by something physically invisible. The mechanism of that influence might be systematically hidden from introspection—a form of [introspective opacity](/voids/self-opacity/) extending beyond mere mechanism-blindness to the impossibility of calibrating reports about an interface one cannot inspect.
 
 ## Further Reading
 
 - [observation-void](/voids/observation-void/) — How every method of studying consciousness transforms what it studies
-- [introspective-opacity](/voids/self-opacity/) — Why we access mental contents but never the mechanisms producing them
-- [self-reference-paradox](/concepts/self-reference-paradox/) — The subject that cannot become its own object
+- [introspective opacity](/voids/self-opacity/) — Why we access mental contents but never the mechanisms producing them
+- [self-reference paradox](/voids/self-opacity/) — The subject that cannot become its own object
 - [substrate-void](/voids/substrate-void/) — What consciousness is made of, when every answer collapses
 - [intersubjective-void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — What matter is in itself, beneath relational properties

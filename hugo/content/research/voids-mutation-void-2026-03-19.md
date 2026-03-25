@@ -19,9 +19,8 @@ related_articles:
 - '[[tenets]]'
 - '[[observation-void]]'
 - '[[destabilizing-self-knowledge]]'
-- '[[introspective-opacity]]'
+- '[[self-opacity]]'
 - '[[thoughts-that-slip-away]]'
-- '[[self-reference-paradox]]'
 - '[[phenomenology-of-the-edge]]'
 target_section: voids
 title: 'Research Notes - Voids: The Mutation Void'

@@ -20,7 +20,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[destabilizing-self-knowledge]]'
-- '[[introspective-opacity]]'
+- '[[self-opacity]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[three-kinds-of-void]]'
 - '[[dream-consciousness-void]]'

@@ -19,7 +19,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[self-reference-paradox]]'
+- '[[self-opacity]]'
 - '[[the-unobservable-self]]'
 - '[[defended-territory]]'
 - '[[phenomenology-of-the-edge]]'

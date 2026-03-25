@@ -22,7 +22,7 @@ related_articles:
 - '[[collective-cognitive-limits]]'
 - '[[transparency-void]]'
 - '[[framework-void]]'
-- '[[introspective-opacity]]'
+- '[[self-opacity]]'
 target_section: voids
 title: 'Research Notes - Voids: The Social Epistemic Void'
 topics:

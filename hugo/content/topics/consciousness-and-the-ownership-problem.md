@@ -28,7 +28,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[the-self-minimal-narrative-and-substantial]]'
-- '[[self-reference-paradox]]'
+- '[[self-opacity]]'
 - '[[identity-across-transformations]]'
 - '[[ownership-void]]'
 - '[[phenomenological-psychiatry-and-altered-experience]]'
@@ -135,7 +135,7 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 - [haecceity](/concepts/haecceity/) — Primitive thisness and why ownership cannot be replicated
 - [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) — Why "I" and "mine" resist impersonal translation
 - [personal-identity](/topics/personal-identity/) — What persists when ownership extends through time
-- [self-reference-paradox](/concepts/self-reference-paradox/) — Why the owner resists observation
+- [self-reference paradox](/voids/self-opacity/) — Why the owner resists observation
 - [binding-problem](/concepts/binding-problem/) — Unity of experience as distinct from ownership of experience
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The prior question ownership presupposes
 - [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — What makes a subject a discrete subject at all (prior to ownership)

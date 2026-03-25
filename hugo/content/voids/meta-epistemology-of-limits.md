@@ -30,7 +30,7 @@ related_articles:
 - '[[apophatic-approaches]]'
 - '[[limits-reveal-structure]]'
 - '[[three-kinds-of-void]]'
-- '[[introspective-opacity]]'
+- '[[self-opacity]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[convergence-as-evidence]]'
 - '[[biological-cognitive-closure]]'
@@ -54,7 +54,7 @@ Distinguishing between *difficult* and *impossible* seems like it should be stra
 
 **Success proves contingency; failure proves nothing.** If we solve a problem, we learn it was solvable. But if we fail—even across centuries and cultures—we cannot conclude permanent closure. Perhaps the right concepts haven't emerged yet.
 
-**The assessment requires the faculties under assessment.** To determine whether our cognitive architecture has limits, we must use that very architecture—a self-referential bind that [cognitive closure](/concepts/mysterianism/) makes precise. If the architecture is limited in relevant ways, our determination may be systematically wrong. There is no neutral vantage point, and [introspective-opacity](/voids/self-opacity/) ensures we cannot simply look inward to check.
+**The assessment requires the faculties under assessment.** To determine whether our cognitive architecture has limits, we must use that very architecture—a self-referential bind that [cognitive closure](/concepts/mysterianism/) makes precise. If the architecture is limited in relevant ways, our determination may be systematically wrong. There is no neutral vantage point, and [introspective opacity](/voids/self-opacity/) ensures we cannot simply look inward to check.
 
 ## Problems and Mysteries
 

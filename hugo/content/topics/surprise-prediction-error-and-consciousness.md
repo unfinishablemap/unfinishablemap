@@ -45,7 +45,7 @@ related_articles:
 - '[[emotion-and-dualism]]'
 - '[[choking-phenomenon-mental-causation]]'
 - '[[phenomenology-of-understanding-and-meaning]]'
-- '[[phenomenology-of-self-awareness]]'
+- '[[self-opacity]]'
 - '[[phenomenology-of-epistemic-cognition]]'
 - '[[consciousness-and-creative-distinctiveness]]'
 - '[[consciousness-and-mathematical-cognition]]'
@@ -218,7 +218,7 @@ Surprise connects to The Unfinishable Map's [tenets](/tenets/) at multiple point
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — The felt quality of affective states
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — The click of successful integration
 - [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/) — The felt texture of changing one's mind
-- [phenomenology-of-self-awareness](/voids/self-opacity/) — How minds catch their own mistakes
+- [phenomenology of self-awareness](/voids/self-opacity/) — How minds catch their own mistakes
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The "what it's like" quality presupposed by the entire prediction error spectrum
 - [categorical-surprise](/concepts/categorical-surprise/) — Framework-transcending encounters with genuine novelty
 

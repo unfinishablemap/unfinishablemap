@@ -23,7 +23,7 @@ related_articles:
 - '[[embodiment-cognitive-limits]]'
 - '[[creativity-void]]'
 - '[[absorption-void]]'
-- '[[introspective-opacity]]'
+- '[[self-opacity]]'
 - '[[three-kinds-of-void]]'
 target_section: voids
 title: 'Research Notes - Voids: The Expertise Void'

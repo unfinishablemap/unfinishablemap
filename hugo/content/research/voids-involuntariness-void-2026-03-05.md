@@ -17,7 +17,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[volitional-opacity]]'
+- '[[self-opacity]]'
 - '[[agency-verification-void]]'
 - '[[ownership-void]]'
 - '[[appetitive-void]]'

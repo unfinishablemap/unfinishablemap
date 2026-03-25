@@ -32,7 +32,7 @@ related_articles:
 - '[[consciousness-and-interpersonal-understanding]]'
 - '[[brain-computer-interfaces-and-the-interface-boundary]]'
 - '[[framework-void]]'
-- '[[introspective-opacity]]'
+- '[[self-opacity]]'
 - '[[language-thought-boundary]]'
 - '[[transparency-void]]'
 - '[[consciousness-and-testimony]]'
@@ -151,7 +151,7 @@ Empathy has structural limits even at its best—it simulates rather than shares
 - [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/) — Whether "we-mode" experience is genuine sharing
 - [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/) — The gap between knowing-about and understanding-of
 - [framework-void](/voids/framework-void/) — How conceptual frameworks exclude what they cannot represent
-- [introspective-opacity](/voids/self-opacity/) — Why we access contents but never mechanisms
+- [introspective opacity](/voids/self-opacity/) — Why we access contents but never mechanisms
 - [language-thought-boundary](/voids/language-thought-boundary/) — What cannot be said
 - [transparency-void](/voids/transparency-void/) — Why consciousness cannot verify its own accuracy
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/) — Testimony requires consciousness yet cannot fully convey it

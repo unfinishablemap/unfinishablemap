@@ -20,7 +20,7 @@ related_articles:
 - '[[phenomenology-of-the-edge]]'
 - '[[whether-real]]'
 - '[[thoughts-that-slip-away]]'
-- '[[self-reference-paradox]]'
+- '[[self-opacity]]'
 - '[[apophatic-approaches]]'
 target_section: voids
 title: 'Research Notes - Voids: The Topology of Cognitive Failure'

@@ -21,7 +21,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[introspective-opacity|volitional opacity]]'
+- '[[self-opacity|volitional opacity]]'
 - '[[ownership-void]]'
 - '[[affective-void]]'
 - '[[sleep-consciousness-void]]'

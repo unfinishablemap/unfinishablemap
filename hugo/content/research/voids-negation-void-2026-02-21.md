@@ -20,7 +20,7 @@ related_articles:
 - '[[apophatic-approaches]]'
 - '[[language-thought-boundary]]'
 - '[[conceptual-impossibility]]'
-- '[[self-reference-paradox]]'
+- '[[self-opacity]]'
 - '[[topology-of-cognitive-failure]]'
 - '[[consciousness-only-territories]]'
 target_section: voids

@@ -15,13 +15,11 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[attention-as-interface]]'
 - '[[decoherence]]'
-- '[[phenomenology-of-self-awareness]]'
+- '[[self-opacity]]'
 - '[[consciousness-and-mathematical-cognition]]'
 - '[[cognitive-phenomenology]]'
-- '[[self-reference-paradox]]'
 - '[[pre-conceptual-knowing]]'
 - '[[causal-interface]]'
-- '[[introspective-opacity]]'
 - '[[contemplative-epistemology]]'
 - '[[self-stultification]]'
 created: 2026-01-15
@@ -138,13 +136,13 @@ The mathematical case sharpens the illusionist regress: when illusionists grasp 
 
 ## The Unobservable Self: Introspection's Deepest Limit
 
-[The unobservable self](/concepts/self-reference-paradox/) reveals a structural limit beyond reliability: the observer cannot observe itself observing. Direct attention inward. Observe your observing. What happens? You become aware of awareness—but now two layers exist. Attempt to observe *that* awareness—a third layer forms. The regression has no endpoint. The [phenomenology of recursive thought](/topics/phenomenology-of-recursive-thought/) maps what this layered awareness feels like—the distinctive phenomenal qualities that emerge as consciousness folds back on itself through levels of self-reference.
+[The unobservable self](/voids/self-opacity/) reveals a structural limit beyond reliability: the observer cannot observe itself observing. Direct attention inward. Observe your observing. What happens? You become aware of awareness—but now two layers exist. Attempt to observe *that* awareness—a third layer forms. The regression has no endpoint. The [phenomenology of recursive thought](/topics/phenomenology-of-recursive-thought/) maps what this layered awareness feels like—the distinctive phenomenal qualities that emerge as consciousness folds back on itself through levels of self-reference.
 
 This differs from the process/content distinction. That distinction says we cannot introspect *why* we think but can introspect *what* we experience. The unobservable self reveals a limit even on content: the content that *is* current observing cannot be observed without transforming into past content.
 
 David Hume put it empirically: "I can never catch myself at any time without a perception." When we look for the looker, we find only more looking. [Witness consciousness](/concepts/witness-consciousness/) traditions recognise this: the instruction to "look at the looker" exhausts the search rather than finding something.
 
-The [self-reference-paradox](/concepts/self-reference-paradox/) distinguishes three types of limit converging here: *structural* limits analogous to Gödel's incompleteness (some truths about the system are permanently beyond its own reach), *transparency* limits where the self-model must hide its own machinery to function, and *recursive* limits where nested self-observation collapses. All three constrain introspection — a form of [self-stultification](/concepts/self-stultification/) where the system's capacity for self-knowledge is undermined by the very activity of self-knowing. The implications: the hard problem is structurally hard (understanding subjectivity requires making subjectivity into an object); training reaches a principled limit (meditators report the limit more clearly, not overcome it); and the calibration problem has a structural root (the thing to be calibrated *is* the calibrator). The [phenomenology-of-self-awareness](/voids/self-opacity/) documents what this structural difficulty feels like from the inside: the felt inversion, semantic vertigo, and oscillation that arise when consciousness takes itself as referent. The [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) places these introspective signatures within a broader diagnostic grid, showing how construction-mistaken-for-observation is the characteristic failure mode of introspective limits — where the detection mechanism is itself implicated.
+The [self-reference paradox](/voids/self-opacity/) distinguishes three types of limit converging here: *structural* limits analogous to Gödel's incompleteness (some truths about the system are permanently beyond its own reach), *transparency* limits where the self-model must hide its own machinery to function, and *recursive* limits where nested self-observation collapses. All three constrain introspection — a form of [self-stultification](/concepts/self-stultification/) where the system's capacity for self-knowledge is undermined by the very activity of self-knowing. The implications: the hard problem is structurally hard (understanding subjectivity requires making subjectivity into an object); training reaches a principled limit (meditators report the limit more clearly, not overcome it); and the calibration problem has a structural root (the thing to be calibrated *is* the calibrator). The [phenomenology of self-awareness](/voids/self-opacity/) documents what this structural difficulty feels like from the inside: the felt inversion, semantic vertigo, and oscillation that arise when consciousness takes itself as referent. The [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) places these introspective signatures within a broader diagnostic grid, showing how construction-mistaken-for-observation is the characteristic failure mode of introspective limits — where the detection mechanism is itself implicated.
 
 ## Error-Blindness: A Structural Limit
 
@@ -171,7 +169,7 @@ This matters for consciousness science. If we restricted inquiry to third-person
 ## Further Reading
 
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) — How linguistic mediation shapes what introspection can access
-- [self-reference-paradox](/concepts/self-reference-paradox/) — The structural impossibility of observing the observer
+- [self-reference paradox](/voids/self-opacity/) — The structural impossibility of observing the observer
 - [causal-interface](/voids/causal-interface/) — The void where process access fails most dramatically
 - [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Mathematical insight as paradigmatic introspective content
 - [phenomenology](/concepts/phenomenology/) — The tradition most committed to first-person investigation
@@ -182,8 +180,8 @@ This matters for consciousness science. If we restricted inquiry to third-person
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — First-person observation through contemplative practice as legitimate knowledge
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer phenomenon in contemplative traditions
 - [Testing the Map from Inside](/apex/testing-the-map-from-inside/) — Apex synthesis: phenomenological experiments you can run using your own experience
-- [phenomenology-of-self-awareness](/voids/self-opacity/) — Why introspective error cannot be detected from within
-- [introspective-opacity](/voids/self-opacity/) — The void where process access fails structurally, including why we cannot observe our own willing
+- [phenomenology of self-awareness](/voids/self-opacity/) — Why introspective error cannot be detected from within
+- [introspective opacity](/voids/self-opacity/) — The void where process access fails structurally, including why we cannot observe our own willing
 - [attention-disorders-and-consciousness](/voids/attention-disorders-and-consciousness/) — When the attentional basis of introspection is itself disordered
 - [The Transition Void](/voids/transition-void/) — Why consciousness cannot witness its own state transitions—a structural introspective limit
 - [The Dream Consciousness Void](/voids/sleep-consciousness-void/) — State-dependent limits on introspecting dreaming from waking

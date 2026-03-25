@@ -16,7 +16,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[introspective-opacity]]'
+- '[[self-opacity]]'
 - '[[the-unobservable-self]]'
 - '[[attention-created-voids]]'
 - '[[phenomenology-of-the-edge]]'

@@ -20,7 +20,7 @@ related_articles:
 - '[[tenet-generated-voids]]'
 - '[[incompleteness-void]]'
 - '[[recursion-void]]'
-- '[[self-reference-paradox]]'
+- '[[self-opacity]]'
 - '[[language-thought-boundary]]'
 - '[[limits-reveal-structure]]'
 target_section: voids

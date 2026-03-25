@@ -80,7 +80,7 @@ Christian *via negativa*, Buddhist *sunyata*, Advaita Vedanta's *neti neti*, and
 
 ### Signature Specificity
 
-If every cognitive limit produces the same generic "mystery" response, the method collapses into unfalsifiable mysticism. Different boundaries must produce *different* failure signatures. The hard problem produces a different signature than the [self-reference paradox](/concepts/self-reference-paradox/), and both differ from the [intentionality void](/voids/intentionality-void/). The specificity of the signature carries information about the structure of what lies beyond.
+If every cognitive limit produces the same generic "mystery" response, the method collapses into unfalsifiable mysticism. Different boundaries must produce *different* failure signatures. The hard problem produces a different signature than the [self-reference paradox](/voids/self-opacity/), and both differ from the [intentionality void](/voids/intentionality-void/). The specificity of the signature carries information about the structure of what lies beyond.
 
 **The test:** can you distinguish this void from other voids by the characteristic way thought fails when approaching it? If all your voids feel the same, you are probably experiencing a single form of confusion.
 
@@ -142,7 +142,7 @@ The [hard problem](/topics/hard-problem-of-consciousness/) demonstrates the meth
 
 - **Structured persistence**: the explanatory gap has resisted resolution through centuries of inquiry
 - **Cross-observer convergence**: the failure appears independently in analytic philosophy (Chalmers, Nagel, Levine), phenomenology (Husserl, Merleau-Ponty), AI research, and contemplative traditions
-- **Signature specificity**: the hard problem's signature—inability to derive first-person from third-person facts—differs from the [self-reference paradox](/concepts/self-reference-paradox/) (self-refutation) and the [intentionality void](/voids/intentionality-void/) (construction-mistaken-for-observation)
+- **Signature specificity**: the hard problem's signature—inability to derive first-person from third-person facts—differs from the [self-reference paradox](/voids/self-opacity/) (self-refutation) and the [intentionality void](/voids/intentionality-void/) (construction-mistaken-for-observation)
 - **Framework independence**: functionalism, identity theory, illusionism, and eliminativism each abandon the assumptions that generate the gap—yet it persists, redescribed but unresolved
 - **Falsifiability**: a reductive explanation generating genuine understanding of *why* neural activity feels like something would dissolve this void
 

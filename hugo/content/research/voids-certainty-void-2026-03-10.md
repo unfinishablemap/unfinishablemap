@@ -18,7 +18,7 @@ related_articles:
 - '[[tenets]]'
 - '[[calibration-void]]'
 - '[[destabilizing-self-knowledge]]'
-- '[[introspective-opacity]]'
+- '[[self-opacity]]'
 target_section: voids
 title: 'Research Notes - Voids: The Certainty Void'
 topics: []

@@ -13,7 +13,7 @@ concepts:
 - '[[phenomenology]]'
 - '[[introspection]]'
 - '[[meditation-and-consciousness-modes]]'
-- '[[introspective-opacity|volitional opacity]]'
+- '[[self-opacity|volitional opacity]]'
 - '[[implicit-memory]]'
 - '[[embodied-cognition]]'
 - '[[attention-as-interface]]'

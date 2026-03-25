@@ -20,7 +20,7 @@ related_articles:
 - '[[the-unobservable-self]]'
 - '[[thoughts-that-slip-away]]'
 - '[[phenomenology-of-the-edge]]'
-- '[[self-reference-paradox]]'
+- '[[self-opacity]]'
 target_section: voids
 title: 'Research Notes - Voids: Introspective Opacity'
 topics:

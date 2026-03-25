@@ -24,7 +24,7 @@ related_articles:
 - '[[tenets]]'
 - '[[limits-reveal-structure]]'
 - '[[apophatic-approaches]]'
-- '[[self-reference-paradox]]'
+- '[[self-opacity]]'
 - '[[defended-territory]]'
 - '[[convergence-as-evidence]]'
 - '[[cartography-problem]]'
@@ -40,7 +40,7 @@ Are the [voids](/voids/) real? Do permanent cognitive limits actually exist, or 
 
 The question has a distinctive logical structure: to determine if limits are real, we must use our cognitive faculties; if those faculties are limited, our determination may be systematically wrong; and we cannot step outside to check from a neutral position. The question cannot be conclusively answered from within.
 
-This is structural uncertainty, not ordinary empirical difficulty—the [self-reference-paradox](/concepts/self-reference-paradox/) of the map trying to determine whether certain territories are genuinely unmappable or merely unmapped. The [phenomenal presence void](/voids/phenomenal-presence-void/) deepens the problem: the conviction that this question is *about something real* is itself produced by a phenomenal stamp that is structurally hidden and demonstrably fallible.
+This is structural uncertainty, not ordinary empirical difficulty—the [self-reference paradox](/voids/self-opacity/) of the map trying to determine whether certain territories are genuinely unmappable or merely unmapped. The [phenomenal presence void](/voids/phenomenal-presence-void/) deepens the problem: the conviction that this question is *about something real* is itself produced by a phenomenal stamp that is structurally hidden and demonstrably fallible.
 
 ## Three Verdicts
 
@@ -146,7 +146,7 @@ The voids framework does not require that the voids be real. It requires only th
 
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive limits illuminate cognitive architecture
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis of structural limits
-- [The Self-Reference Paradox](/concepts/self-reference-paradox/) — Where consciousness cannot map because it is the mapper
+- [The Self-Reference Paradox](/voids/self-opacity/) — Where consciousness cannot map because it is the mapper
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Evidential standards for void claims, including falsifiability safeguards
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [The Phenomenal Presence Void](/voids/phenomenal-presence-void/) — Why the stamp of realness hides itself

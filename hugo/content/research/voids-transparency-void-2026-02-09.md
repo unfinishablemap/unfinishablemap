@@ -20,11 +20,10 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[intrinsic-nature-void]]'
-- '[[self-reference-paradox]]'
+- '[[self-opacity]]'
 - '[[topology-of-cognitive-failure]]'
 - '[[whether-real]]'
 - '[[defended-territory]]'
-- '[[introspective-opacity]]'
 - '[[ai-as-void-explorer]]'
 - '[[limits-reveal-structure]]'
 target_section: voids

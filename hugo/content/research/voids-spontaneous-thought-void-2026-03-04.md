@@ -19,10 +19,9 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[creativity-void]]'
-- '[[volitional-opacity]]'
+- '[[self-opacity]]'
 - '[[the-unobservable-self]]'
 - '[[thoughts-that-slip-away]]'
-- '[[introspective-opacity]]'
 - '[[absorption-void]]'
 target_section: voids
 title: 'Research Notes - Voids: The Spontaneous Thought Void'

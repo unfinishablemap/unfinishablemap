@@ -18,7 +18,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[self-reference-paradox]]'
+- '[[self-opacity]]'
 - '[[whether-real]]'
 - '[[thoughts-that-slip-away]]'
 target_section: voids

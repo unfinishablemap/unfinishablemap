@@ -37,7 +37,7 @@ related_articles:
 - '[[absorption-void]]'
 - '[[inaccessible-past]]'
 - '[[death-void]]'
-- '[[self-reference-paradox]]'
+- '[[self-opacity]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[scale-void]]'
 - '[[continuity-void]]'

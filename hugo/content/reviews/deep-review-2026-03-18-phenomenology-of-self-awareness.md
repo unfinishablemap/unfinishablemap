@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-18
-**Article**: [The Phenomenology of Self-Awareness](/voids/self-opacity/)
+**Article**: [The Phenomenology of Self-Awareness](/topics/phenomenology-of-self-awareness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

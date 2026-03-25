@@ -20,9 +20,8 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[introspective-opacity]]'
+- '[[self-opacity]]'
 - '[[inaccessible-past]]'
-- '[[self-reference-paradox]]'
 - '[[creativity-void]]'
 - '[[cognitive-aversion]]'
 - '[[narrative-coherence]]'
@@ -53,7 +52,7 @@ The gap extends further than confabulated reasons. Johansson and Hall's choice b
 
 Participants selected between photographs for attractiveness. Researchers secretly substituted the rejected photograph. Most participants did not detect the swap. They proceeded to explain, with normal confidence, why they preferred the face they had actually rejected. The narrative mechanism does not merely fabricate reasons for genuine choices; it fabricates reasons for choices that never occurred.
 
-This finding extends [introspective-opacity](/voids/self-opacity/) into new territory. Introspective opacity concerns the inability to observe cognitive processes—we see contents but not mechanisms. The narrative void goes further: the contents themselves may be fabricated. We are not merely blind to how we think; we can be blind to what we chose. The [measurement-void](/voids/measurement-void/) deepens the problem: even if we suspected our narrative of distortion, we have no independent standard of phenomenal accuracy against which to check it.
+This finding extends [introspective opacity](/voids/self-opacity/) into new territory. Introspective opacity concerns the inability to observe cognitive processes—we see contents but not mechanisms. The narrative void goes further: the contents themselves may be fabricated. We are not merely blind to how we think; we can be blind to what we chose. The [measurement-void](/voids/measurement-void/) deepens the problem: even if we suspected our narrative of distortion, we have no independent standard of phenomenal accuracy against which to check it.
 
 ## Three Layers of the Void
 
@@ -99,9 +98,9 @@ The narrative void also illustrates the Map's [tenet that Occam's Razor has limi
 
 ## Further Reading
 
-- [introspective-opacity](/voids/self-opacity/)
+- [introspective opacity](/voids/self-opacity/)
 - [inaccessible-past](/voids/inaccessible-past/)
-- [self-reference-paradox](/concepts/self-reference-paradox/)
+- [self-reference paradox](/voids/self-opacity/)
 - [creativity-void](/voids/creativity-void/)
 - [cognitive-aversion](/voids/cognitive-aversion/)
 - [narrative-coherence](/concepts/narrative-coherence/)

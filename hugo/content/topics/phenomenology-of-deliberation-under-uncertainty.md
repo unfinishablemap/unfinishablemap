@@ -26,7 +26,7 @@ modified: *id001
 related_articles:
 - '[[authentic-vs-inauthentic-choice]]'
 - '[[probability-intuition-void]]'
-- '[[introspective-opacity|volitional opacity]]'
+- '[[self-opacity|volitional opacity]]'
 - '[[phenomenology-of-anticipation]]'
 - '[[phenomenology-of-intellectual-effort]]'
 - '[[tenets]]'

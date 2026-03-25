@@ -20,7 +20,7 @@ related_articles:
 - '[[cognitive-aversion]]'
 - '[[defended-territory]]'
 - '[[self-transcendence-void]]'
-- '[[introspective-opacity]]'
+- '[[self-opacity]]'
 - '[[framework-void]]'
 target_section: voids
 title: 'Research Notes - Voids: The Complicity Void'

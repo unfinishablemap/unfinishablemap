@@ -16,7 +16,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[self-reference-paradox]]'
+- '[[self-opacity]]'
 target_section: voids
 title: 'Research Notes - Voids: What Cognitive Limits Reveal About Mind Structure'
 topics:

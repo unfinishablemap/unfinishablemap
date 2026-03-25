@@ -8,7 +8,7 @@ concepts:
 - '[[knowledge-argument]]'
 - '[[qualia]]'
 - '[[phenomenal-consciousness]]'
-- '[[indexical-knowledge]]'
+- '[[indexical-knowledge-and-identity]]'
 - '[[introspection]]'
 - '[[explanatory-gap]]'
 - '[[symbol-grounding-problem]]'
@@ -107,7 +107,7 @@ Mary's gap is indexical as well as qualitative: she lacks not just knowledge of 
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and the case against physicalism
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Epistemic territories requiring conscious experience
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — The pre-conceptual foundations of knowledge
-- [indexical-knowledge](/concepts/indexical-knowledge-and-identity/) — Perspective-dependent knowledge irreducible to third-person description
+- [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) — Perspective-dependent knowledge irreducible to third-person description
 - [qualia](/concepts/qualia/) — The phenomenal properties acquaintance reveals
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics describes structure but not qualitative character
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gap between physical and phenomenal

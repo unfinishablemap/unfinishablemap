@@ -19,7 +19,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[three-kinds-of-void]]'
-- '[[self-reference-paradox]]'
+- '[[self-opacity]]'
 - '[[attention-created-voids]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[altered-states-as-void-probes]]'
@@ -75,7 +75,7 @@ The deepest question about the absorption void is whether it has phenomenal cont
 
 Consider: after a period of deep flow, subjects report that something profound happened but cannot say precisely what. Is this because the experience was so rich that memory captures only fragments? Or because the experience, while intense, lacked the self-referential dimension that makes detailed recall possible? The absorption void may conceal plenitude or poverty — and no method of investigation can definitively distinguish between them.
 
-This connects the absorption void to the [unobservable self](/concepts/self-reference-paradox/). In both cases, the observing subject cannot make itself the object of its own observation. But the absorption void adds a twist: it is not the self that is hidden but the self's own peak states. The [selective nature of attention](/voids/attention-created-voids/) ensures that full engagement with a task excludes the very self-monitoring that would record what engagement feels like.
+This connects the absorption void to the [unobservable self](/voids/self-opacity/). In both cases, the observing subject cannot make itself the object of its own observation. But the absorption void adds a twist: it is not the self that is hidden but the self's own peak states. The [selective nature of attention](/voids/attention-created-voids/) ensures that full engagement with a task excludes the very self-monitoring that would record what engagement feels like.
 
 ## Relation to Site Perspective
 
@@ -93,7 +93,7 @@ The Map speculates that the absorption void may be partly occluded rather than m
 
 - [voids](/voids/) — The voids framework: unexplored, unexplorable, occluded
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The core taxonomy of cognitive limits
-- [self-reference-paradox](/concepts/self-reference-paradox/) — The subject that cannot be its own object
+- [self-reference paradox](/voids/self-opacity/) — The subject that cannot be its own object
 - [attention-created-voids](/voids/attention-created-voids/) — What attention excludes by selecting
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) — Whether altered states reveal or simulate transcendence

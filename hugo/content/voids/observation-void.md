@@ -20,8 +20,7 @@ last_deep_review: 2026-03-05 22:55:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
-- '[[introspective-opacity]]'
-- '[[self-reference-paradox]]'
+- '[[self-opacity]]'
 - '[[causal-interface]]'
 - '[[consciousness-only-territories]]'
 - '[[defended-territory]]'
@@ -79,7 +78,7 @@ Centuries of the most sustained investigation of consciousness ever undertaken c
 
 The observation void operates at three distinct levels, each blocking study through a different mechanism:
 
-**First-person layer.** Introspection alters experience (Brentano's paradox). Attention transforms its target. We cannot observe our own consciousness without changing what we observe. The [mutation void](/voids/mutation-void/) identifies the most radical cases: thought-contents that are *constitutively unstable*, where the pre-attended and attended thought are different thoughts entirely. This is related to but distinct from [introspective-opacity](/voids/self-opacity/)—opacity concerns access to *mechanisms*, while the observation void concerns the transformation of *experience itself* under attention.
+**First-person layer.** Introspection alters experience (Brentano's paradox). Attention transforms its target. We cannot observe our own consciousness without changing what we observe. The [mutation void](/voids/mutation-void/) identifies the most radical cases: thought-contents that are *constitutively unstable*, where the pre-attended and attended thought are different thoughts entirely. This is related to but distinct from [introspective opacity](/voids/self-opacity/)—opacity concerns access to *mechanisms*, while the observation void concerns the transformation of *experience itself* under attention.
 
 **Third-person layer.** Neuroscience measures correlates—neural firing patterns, blood flow, electromagnetic fields—but never consciousness itself. The explanatory gap (Levine 1983) persists not as a puzzle awaiting solution but as a consequence of studying a non-physical phenomenon with physical instruments. The data capture everything except the thing we are trying to study.
 
@@ -105,14 +104,14 @@ The observation void follows naturally from the Map's [tenets](/tenets/).
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is directly challenged. The simplest assumption about consciousness—that we can study it by looking, either inward or outward—fails systematically. Understanding consciousness may require methods radically unlike those that work for physical objects. The [dissolution problem](/voids/dissolution-problem/) deepens this point: if preference for simpler explanations biases us toward existing frameworks, it may also bias us toward believing the observation void is merely a technical problem awaiting a clever methodology—when the convergent evidence suggests otherwise.
 
-The observation void also connects to [self-reference-paradox](/concepts/self-reference-paradox/) (the subject that cannot be its own object), [the self-reference paradox](/concepts/self-reference-paradox/) (consciousness cannot fully map itself because it is the mapper), [the causal interface void](/voids/causal-interface/) (the mechanism of mind-body interaction is hidden from the consciousness that uses it), [the calibration void](/voids/measurement-void/) (our only instrument for detecting consciousness cannot be verified against any independent standard), and [the transition void](/voids/transition-void/) (consciousness cannot witness its own state transitions because observation requires the cognitive stance that must be released for the transition to occur). Together, these voids suggest that consciousness has a constitutive relationship with opacity—it functions in part *because* certain aspects of its operation remain invisible to itself. The [constitutive-exclusion](/topics/constitutive-exclusion/) develops this insight further: consciousness does not merely transform what it observes but participates in constituting it, so there is no untransformed state to recover.
+The observation void also connects to [self-reference paradox](/voids/self-opacity/) (the subject that cannot be its own object), [the self-reference paradox](/voids/self-opacity/) (consciousness cannot fully map itself because it is the mapper), [the causal interface void](/voids/causal-interface/) (the mechanism of mind-body interaction is hidden from the consciousness that uses it), [the calibration void](/voids/measurement-void/) (our only instrument for detecting consciousness cannot be verified against any independent standard), and [the transition void](/voids/transition-void/) (consciousness cannot witness its own state transitions because observation requires the cognitive stance that must be released for the transition to occur). Together, these voids suggest that consciousness has a constitutive relationship with opacity—it functions in part *because* certain aspects of its operation remain invisible to itself. The [constitutive-exclusion](/topics/constitutive-exclusion/) develops this insight further: consciousness does not merely transform what it observes but participates in constituting it, so there is no untransformed state to recover.
 
 ## Further Reading
 
 - [dissolution-problem](/voids/dissolution-problem/) — Why we cannot predict which cognitive limits will prove permanent—and why this one likely will
 - [measurement-void](/voids/measurement-void/) — Why introspection cannot be calibrated against any independent standard
-- [introspective-opacity](/voids/self-opacity/) — Why we access mental contents but never the mechanisms producing them
-- [self-reference-paradox](/concepts/self-reference-paradox/) — The subject that cannot become its own object
+- [introspective opacity](/voids/self-opacity/) — Why we access mental contents but never the mechanisms producing them
+- [self-reference paradox](/voids/self-opacity/) — The subject that cannot become its own object
 - [causal-interface](/voids/causal-interface/) — The hidden mechanism of mind-body interaction
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Knowledge accessible only through phenomenal experience
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Knowing through negation—an indirect route past the void

@@ -25,7 +25,7 @@ related_articles:
 - '[[diachronic-agency-and-personal-narrative]]'
 - '[[consciousness-and-moral-agency-under-duress]]'
 - '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
-- '[[introspective-opacity|volitional opacity]]'
+- '[[self-opacity|volitional opacity]]'
 - '[[buddhist-perspectives-on-meaning]]'
 - '[[consciousness-and-skill-acquisition]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'

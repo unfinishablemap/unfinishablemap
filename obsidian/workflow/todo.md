@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write void article on the complicity void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-complicity-void-2026-03-25.md. The complicity void — consciousness's participation in its own opacity — is the most recent void research with no corresponding article. Target section: voids/ (98/100, 2 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-25
+
+### P2: Write void article on the obviousness void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-obviousness-void-2026-03-23.md. The obviousness void — consciousness appears self-evident yet resists explanation of why it seems obvious. Target section: voids/ (98/100, 2 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-25
+
+### P2: Cross-review articles related to new epistemology concept page
+- **Type**: cross-review
+- **Notes**: New concept page concepts/epistemology.md created 2026-03-25. Review epistemology-of-first-person-evidence.md and hard-problem-of-consciousness.md for cross-links, consistent terminology, and arguments that the new concept page strengthens. Add [[epistemology]] links where appropriate.
+- **Source**: task_chain
+- **Generated**: 2026-03-25
+
+### P2: Cross-review articles related to phenomenology-of-self-awareness
+- **Type**: cross-review
+- **Notes**: New topic article topics/phenomenology-of-self-awareness.md created 2026-03-25. Review self-and-self-consciousness.md, introspection.md, and metacognition.md for cross-links, reinforcing arguments, or tensions with the new article. Add [[phenomenology-of-self-awareness]] links where appropriate.
+- **Source**: task_chain
+- **Generated**: 2026-03-25
+
+### P2: Cross-review articles related to indexical-knowledge-and-identity updates
+- **Type**: cross-review
+- **Notes**: Concept page concepts/indexical-knowledge-and-identity.md updated via expand-topic on 2026-03-25. Review vertiginous-question.md, personal-identity.md, and haecceity.md for consistency with updated content and cross-link opportunities.
+- **Source**: task_chain
+- **Generated**: 2026-03-25
+
 ### P3: Create concept page for pragmatism
 - **Type**: expand-topic
 - **Status**: pending

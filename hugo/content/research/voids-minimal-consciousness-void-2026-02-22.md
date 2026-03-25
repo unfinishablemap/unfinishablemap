@@ -18,7 +18,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[three-kinds-of-void]]'
-- '[[introspective-opacity]]'
+- '[[self-opacity]]'
 - '[[resolution-void]]'
 - '[[absorption-void]]'
 - '[[phenomenology-of-the-edge]]'

@@ -23,7 +23,7 @@ related_articles:
 - '[[tenets]]'
 - '[[thoughts-that-slip-away]]'
 - '[[whether-real]]'
-- '[[phenomenology-of-self-awareness]]'
+- '[[self-opacity]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[simulation-detection-void]]'
 - '[[apophatic-approaches]]'

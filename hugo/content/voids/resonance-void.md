@@ -28,7 +28,7 @@ related_articles:
 - '[[the-silence-void]]'
 - '[[the-surplus-void]]'
 - '[[pre-conceptual-knowing]]'
-- '[[introspective-opacity]]'
+- '[[self-opacity]]'
 - '[[phenomenal-presence-void]]'
 - '[[mutation-void]]'
 - '[[apophatic-approaches]]'
@@ -70,7 +70,7 @@ This convergence across phenomenology, theology, epistemology, sociology, and th
 
 ## The Structure of the Void
 
-**Unexplorable dimension.** Gendlin's felt sense, Polanyi's tacit knowledge, and Otto's numinous converge on a structural point: resonance involves conscious knowing whose own mechanism is invisible to the consciousness that experiences it. This is not unconscious processing, which is hidden entirely. Resonance is conscious—you are aware of the felt meaning—but the process generating it cannot be introspected. The [introspective-opacity](/voids/self-opacity/) that characterises much of mental life operates here in a specific way: the signal is vivid while its source remains dark.
+**Unexplorable dimension.** Gendlin's felt sense, Polanyi's tacit knowledge, and Otto's numinous converge on a structural point: resonance involves conscious knowing whose own mechanism is invisible to the consciousness that experiences it. This is not unconscious processing, which is hidden entirely. Resonance is conscious—you are aware of the felt meaning—but the process generating it cannot be introspected. The [introspective opacity](/voids/self-opacity/) that characterises much of mental life operates here in a specific way: the signal is vivid while its source remains dark.
 
 **Occluded dimension.** Rosa's insistence that resonance cannot be manufactured or controlled suggests something stronger than mere cognitive limitation. Resonance arrives unbidden and departs without explanation. Attempting to attend to the experience while having it tends to dissolve it—a pattern shared with the [mutation-void](/voids/mutation-void/), where inspection transforms what is inspected. This raises the question of whether the opacity is architectural (built into how consciousness works) or defensive (protecting something that would be damaged by explicit access). The parallel with Joyce's "aesthetic arrest"—where genuine encounter requires the suspension of ordinary cognitive engagement—suggests the defence may be functional: some forms of knowing require the analytical mind to step aside.
 
@@ -118,7 +118,7 @@ The resonance void also suggests something about the nature of [voids](/voids/) 
 - [the-silence-void](/voids/the-silence-void/)
 - [the-surplus-void](/voids/the-surplus-void/)
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/)
-- [introspective-opacity](/voids/self-opacity/)
+- [introspective opacity](/voids/self-opacity/)
 - [phenomenal-presence-void](/voids/phenomenal-presence-void/)
 - [mutation-void](/voids/mutation-void/)
 - [apophatic-approaches](/concepts/apophatic-approaches/)

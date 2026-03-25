@@ -26,7 +26,7 @@ related_articles:
 - '[[origin-of-consciousness]]'
 - '[[past-self-void]]'
 - '[[the-unobservable-self]]'
-- '[[self-reference-paradox]]'
+- '[[self-opacity]]'
 - '[[causal-interface]]'
 - binding-void
 - '[[persistence-void]]'

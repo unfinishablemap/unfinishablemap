@@ -25,7 +25,7 @@ related_articles:
 - '[[tenets]]'
 - '[[three-kinds-of-void]]'
 - '[[intentionality-void]]'
-- '[[introspective-opacity]]'
+- '[[self-opacity]]'
 - '[[whether-real]]'
 - '[[limits-reveal-structure]]'
 - '[[meta-epistemology-of-limits]]'
@@ -57,7 +57,7 @@ Peter Lipton's work on inference to the best explanation reveals a second dimens
 
 Henk de Regt's analysis of scientific understanding deepens the problem. Intelligibility—the quality that makes a theory usable and comprehensible—turns out to be context-sensitive. Different scientific communities in different eras value different explanatory virtues: simplicity, visualisability, mechanism, mathematical elegance. What counted as genuine understanding in Cartesian mechanics differs from Newtonian physics, which differs again from quantum mechanics. If the very standards of understanding shift historically, "understanding" may not be detecting objective explanatory structure but tracking contingent cognitive-cultural preferences.
 
-The void here is not that we lack explanations but that we cannot explain our own explanatory standards. The criteria by which we judge some accounts as illuminating and others as empty operate partly below the threshold of reflective access—a specific instance of the [introspective-opacity](/voids/self-opacity/) that pervades cognitive life.
+The void here is not that we lack explanations but that we cannot explain our own explanatory standards. The criteria by which we judge some accounts as illuminating and others as empty operate partly below the threshold of reflective access—a specific instance of the [introspective opacity](/voids/self-opacity/) that pervades cognitive life.
 
 ## The Structural Regress
 
@@ -93,7 +93,7 @@ The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet 
 
 - [three-kinds-of-void](/voids/three-kinds-of-void/)
 - [explanatory-gap](/concepts/explanatory-gap/)
-- [introspective-opacity](/voids/self-opacity/)
+- [introspective opacity](/voids/self-opacity/)
 - [intentionality-void](/voids/intentionality-void/)
 - [recursion-void](/voids/recursion-void/)
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)

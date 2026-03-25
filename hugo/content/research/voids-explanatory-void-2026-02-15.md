@@ -21,7 +21,7 @@ related_articles:
 - '[[tenets]]'
 - '[[three-kinds-of-void]]'
 - '[[intentionality-void]]'
-- '[[introspective-opacity]]'
+- '[[self-opacity]]'
 - '[[topology-of-cognitive-failure]]'
 - '[[whether-real]]'
 - '[[limits-reveal-structure]]'

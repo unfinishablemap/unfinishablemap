@@ -23,7 +23,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[introspective-opacity]]'
+- '[[self-opacity]]'
 - '[[framework-void]]'
 - '[[biological-cognitive-closure]]'
 - '[[causal-interface]]'
@@ -31,7 +31,6 @@ related_articles:
 - '[[mind-space-void]]'
 - '[[conceptual-impossibility]]'
 - '[[scale-void]]'
-- '[[self-reference-paradox]]'
 - '[[habituation-void]]'
 - '[[three-kinds-of-void]]'
 - '[[placebo-effect-and-mental-causation]]'
@@ -44,7 +43,7 @@ topics:
 
 Recognition — the act of identifying something as *something* — is so fundamental to consciousness that it normally operates in complete silence. You see a face and know whose it is. You hear a word and grasp its meaning. You encounter a situation and understand what kind of situation it is. None of this involves a detectable "recognition event." The process is structurally hidden from the consciousness it constitutes. The Unfinishable Map calls this the Recognition Void: the gap between perceiving and knowing-as, where consciousness must find meaning in what it already sees but cannot observe itself doing so.
 
-This void has two faces. The first is **mechanism opacity**: you cannot introspect on how recognition works, only receive its products — a specific instance of the broader [introspective-opacity](/voids/self-opacity/) that characterises all cognitive processes. The second is **inventory blindness**: you cannot take stock of what your recognition capacities fail to reach — absent capabilities produce no signal.
+This void has two faces. The first is **mechanism opacity**: you cannot introspect on how recognition works, only receive its products — a specific instance of the broader [introspective opacity](/voids/self-opacity/) that characterises all cognitive processes. The second is **inventory blindness**: you cannot take stock of what your recognition capacities fail to reach — absent capabilities produce no signal.
 
 ## When Recognition Breaks Down
 
@@ -83,7 +82,7 @@ Each level is more thoroughly invisible than the last. Stanford's problem of unc
 
 ## The Phenomenology of Silence
 
-Most voids on the Map produce characteristic phenomenology at their edges. The [scale void](/voids/scale-void/) produces vertigo. The [self-reference paradox](/concepts/self-reference-paradox/) produces the strange-loop sensation. The [edge phenomenology](/voids/phenomenology-of-the-edge/) article catalogues these signatures.
+Most voids on the Map produce characteristic phenomenology at their edges. The [scale void](/voids/scale-void/) produces vertigo. The [self-reference paradox](/voids/self-opacity/) produces the strange-loop sensation. The [edge phenomenology](/voids/phenomenology-of-the-edge/) article catalogues these signatures.
 
 The Recognition Void is distinctive: **it produces nothing**. Where mechanism opacity is concerned, successful recognition is phenomenologically invisible — you see a face and know who it is without noticing any intervening process. Where inventory blindness is concerned, absent capabilities generate no signal at all. You do not feel the gap where an absent cognitive capacity would be.
 
@@ -117,7 +116,7 @@ The Recognition Void engages multiple [tenets](/tenets/).
 
 ## Further Reading
 
-- [introspective-opacity](/voids/self-opacity/)
+- [introspective opacity](/voids/self-opacity/)
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/)
 - [framework-void](/voids/framework-void/)
 - [causal-interface](/voids/causal-interface/)

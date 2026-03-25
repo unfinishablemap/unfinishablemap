@@ -23,8 +23,7 @@ related_articles:
 - '[[cognitive-aversion]]'
 - '[[affective-void]]'
 - '[[defended-territory]]'
-- '[[introspective-opacity]]'
-- '[[self-reference-paradox]]'
+- '[[self-opacity]]'
 - '[[whether-real]]'
 - '[[limits-reveal-structure]]'
 - '[[pre-conceptual-knowing]]'
@@ -51,7 +50,7 @@ This void occupies territory distinct from related limits on the Map:
 
 **[Defended territory](/voids/defended-territory/)** asks whether some thoughts are actively blocked. The appetitive void asks whether desire so thoroughly constitutes the cognitive field that alternative framings never arise to be blocked. There is nothing to defend against because the alternatives are never generated.
 
-**[introspective-opacity](/voids/self-opacity/)** describes the inaccessibility of cognitive processes. The appetitive void describes how wanting shapes the *outcomes* of those processes, even when the processes themselves are transparent. You may observe your reasoning clearly and still not see how desire selected what you reason about.
+**[introspective opacity](/voids/self-opacity/)** describes the inaccessibility of cognitive processes. The appetitive void describes how wanting shapes the *outcomes* of those processes, even when the processes themselves are transparent. You may observe your reasoning clearly and still not see how desire selected what you reason about.
 
 ## The Convergence
 
@@ -131,8 +130,8 @@ The evidence currently points toward the appetitive void as genuine. The converg
 - [cognitive-aversion](/voids/cognitive-aversion/) — Thoughts we systematically flee—the motivational cousin
 - [affective-void](/voids/affective-void/) — Emotions beyond human reach
 - [defended-territory](/voids/defended-territory/) — Whether some thoughts are actively blocked
-- [introspective-opacity](/voids/self-opacity/) — Inaccessibility of cognitive processes
-- [self-reference-paradox](/concepts/self-reference-paradox/) — Where consciousness cannot map because it is the mapper
+- [introspective opacity](/voids/self-opacity/) — Inaccessibility of cognitive processes
+- [self-reference paradox](/voids/self-opacity/) — Where consciousness cannot map because it is the mapper
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — Knowledge before and beyond concepts
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
 

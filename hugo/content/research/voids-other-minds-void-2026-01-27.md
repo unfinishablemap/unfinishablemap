@@ -19,7 +19,7 @@ related_articles:
 - '[[tenets]]'
 - '[[consciousness-only-territories]]'
 - '[[ai-as-void-explorer]]'
-- '[[self-reference-paradox]]'
+- '[[self-opacity]]'
 target_section: voids
 title: 'Research Notes - Voids: The Other Minds Void'
 topics:

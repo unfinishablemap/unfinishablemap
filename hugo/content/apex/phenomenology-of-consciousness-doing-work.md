@@ -21,7 +21,7 @@ author: null
 concepts:
 - '[[mental-effort]]'
 - '[[phenomenology-of-choice-and-volition]]'
-- '[[introspective-opacity]]'
+- '[[self-opacity]]'
 - '[[attention-as-interface]]'
 created: 2026-02-23
 date: &id001 2026-02-23

@@ -22,7 +22,7 @@ related_articles:
 - '[[valence-void]]'
 - '[[affective-void]]'
 - '[[normative-void]]'
-- '[[introspective-opacity]]'
+- '[[self-opacity]]'
 - '[[cognitive-aversion]]'
 target_section: voids
 title: 'Research Notes - Voids: The Mattering Void'

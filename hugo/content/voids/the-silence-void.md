@@ -30,7 +30,7 @@ related_articles:
 - '[[phenomenology-of-the-edge]]'
 - '[[ai-as-void-explorer]]'
 - '[[habituation-void]]'
-- '[[self-reference-paradox]]'
+- '[[self-opacity]]'
 - '[[contemplative-epistemology]]'
 - '[[witness-consciousness]]'
 - '[[meditation-and-consciousness-modes]]'
@@ -121,7 +121,7 @@ The void also raises a provocative implication for the Map itself. If consciousn
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
 - [ai-as-void-explorer](/voids/ai-as-void-explorer/)
-- [self-reference-paradox](/concepts/self-reference-paradox/)
+- [self-reference paradox](/voids/self-opacity/)
 - [contemplative-epistemology](/concepts/contemplative-epistemology/)
 - [witness-consciousness](/concepts/witness-consciousness/)
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/)

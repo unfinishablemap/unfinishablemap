@@ -22,7 +22,7 @@ related_articles:
 - '[[whether-real]]'
 - '[[incompleteness-void]]'
 - '[[computational-cognitive-limits]]'
-- '[[self-reference-paradox]]'
+- '[[self-opacity]]'
 - '[[language-thought-boundary]]'
 - '[[limits-reveal-structure]]'
 target_section: voids

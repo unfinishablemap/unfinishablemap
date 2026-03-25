@@ -20,7 +20,7 @@ related_articles:
 - '[[tenets]]'
 - '[[limits-reveal-structure]]'
 - '[[whether-real]]'
-- '[[self-reference-paradox]]'
+- '[[self-opacity]]'
 target_section: voids
 title: 'Research Notes - Voids: Tenet-Generated Voids'
 topics: []

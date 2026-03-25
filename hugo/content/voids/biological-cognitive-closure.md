@@ -43,7 +43,7 @@ related_articles:
 - '[[phenomenology-of-the-edge]]'
 - '[[mind-space-void]]'
 - '[[expertise-void]]'
-- '[[introspective-opacity]]'
+- '[[self-opacity]]'
 - '[[consciousness-interface-development]]'
 - '[[recognition-void]]'
 - '[[self-transcendence-void]]'

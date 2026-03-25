@@ -23,7 +23,7 @@ concepts:
 - '[[causal-interface]]'
 - '[[counterfactual-reasoning]]'
 - '[[existentialism]]'
-- '[[introspective-opacity|volitional opacity]]'
+- '[[self-opacity|volitional opacity]]'
 created: 2026-01-08
 date: &id001 2026-02-28
 description: Can we genuinely author our choices? The Map defends agent-causal libertarian

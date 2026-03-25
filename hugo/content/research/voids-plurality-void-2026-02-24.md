@@ -18,7 +18,7 @@ related_articles:
 - '[[tenets]]'
 - '[[other-minds-void]]'
 - '[[emergence-void]]'
-- '[[self-reference-paradox]]'
+- '[[self-opacity]]'
 - '[[the-unobservable-self]]'
 target_section: voids
 title: 'Research Notes - Voids: The Plurality Void'

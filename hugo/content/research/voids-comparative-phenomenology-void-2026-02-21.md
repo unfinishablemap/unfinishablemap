@@ -20,7 +20,7 @@ related_articles:
 - '[[tenets]]'
 - '[[other-minds-void]]'
 - '[[intersubjective-void]]'
-- '[[introspective-opacity]]'
+- '[[self-opacity]]'
 - '[[memory-void]]'
 - '[[valence-void]]'
 - '[[language-thought-boundary]]'

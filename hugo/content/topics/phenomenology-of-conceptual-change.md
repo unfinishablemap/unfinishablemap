@@ -24,7 +24,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[biological-cognitive-closure]]'
-- '[[phenomenology-of-self-awareness]]'
+- '[[self-opacity]]'
 - '[[destabilizing-self-knowledge]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[consciousness-as-perceptual-architect]]'
@@ -132,7 +132,7 @@ The Unfinishable Map's tenets illuminate conceptual change from several directio
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/)
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/)
-- [phenomenology-of-self-awareness](/voids/self-opacity/)
+- [phenomenology of self-awareness](/voids/self-opacity/)
 - [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
 - [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/)

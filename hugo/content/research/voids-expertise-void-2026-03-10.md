@@ -16,7 +16,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[absorption-void]]'
-- '[[introspective-opacity]]'
+- '[[self-opacity]]'
 - '[[calibration-void]]'
 target_section: voids
 title: 'Research Notes - Voids: The Expertise Void'

@@ -20,9 +20,8 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[the-unobservable-self]]'
-- '[[self-reference-paradox]]'
+- '[[self-opacity]]'
 - '[[transparency-void]]'
-- '[[introspective-opacity]]'
 - '[[observation-void]]'
 target_section: voids
 title: 'Research Notes - Voids: The Witnessing Void'

@@ -24,7 +24,7 @@ topics: []
 
 ### Critical Issues Found
 - **Unattributed Schwitzgebel claim**: "he has acknowledged this asymmetry" lacked citation. Resolution: reworded to reference the implicit asymmetry in his own evidence (Schwitzgebel 2011, ch. 2-4) rather than claiming explicit acknowledgment.
-- **Broken wikilink**: `epistemology` in frontmatter topics had no corresponding file. Resolution: replaced with `[consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/)` which exists and is more specific.
+- **Broken wikilink**: `[epistemology](/concepts/epistemology/)` in frontmatter topics had no corresponding file. Resolution: replaced with `[consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/)` which exists and is more specific.
 
 ### Medium Issues Found
 - **Missing Dennett engagement**: Heterophenomenology is a major counterargument to the article's entire framework and was not addressed. Resolution: added a paragraph in the Sufficiency Question section engaging with Dennett's approach and explaining why the Map cannot accept it.
@@ -52,7 +52,7 @@ topics: []
 - Added shared neurobiology objection and response in Strategy Two
 - Fixed Schwitzgebel attribution to be more precise
 - Added `[metacognition](/concepts/metacognition/)` cross-link where the concept is discussed
-- Fixed broken `epistemology` frontmatter link
+- Fixed broken `[epistemology](/concepts/epistemology/)` frontmatter link
 - Added Dennett (2003) reference
 
 ### Cross-links Added

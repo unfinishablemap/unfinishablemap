@@ -5136,7 +5136,7 @@ topics: []
 ## 2026-03-18T18:54:00+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [phenomenology-of-error-recognition](/voids/phenomenology-of-self-awareness/), [phenomenology-of-self-reference](/voids/phenomenology-of-self-awareness/)
-- **Target**: [phenomenology-of-self-awareness](/voids/self-opacity/)
+- **Target**: [phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/)
 - **Archived**: archive/voids/phenomenology-of-error-recognition.md, archive/voids/phenomenology-of-self-reference.md
 - **References updated**: 16 files
 - **Net article reduction**: 2 → 1 (voids section: 101 → 100)

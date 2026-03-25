@@ -26,7 +26,7 @@ related_articles:
 - '[[cognitive-aversion]]'
 - '[[three-kinds-of-void]]'
 - '[[limits-reveal-structure]]'
-- '[[phenomenology-of-self-awareness]]'
+- '[[self-opacity]]'
 - '[[compound-failure-signatures]]'
 title: The Phenomenology of Cognitive Limit Types
 topics:

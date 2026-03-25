@@ -25,7 +25,7 @@ related_articles:
 - '[[tenets]]'
 - '[[intrinsic-nature-void]]'
 - '[[questioning-as-evidence]]'
-- '[[self-reference-paradox]]'
+- '[[self-opacity]]'
 - '[[apophatic-approaches]]'
 - '[[thoughts-that-slip-away]]'
 - '[[phenomenology-of-the-edge]]'
@@ -148,7 +148,7 @@ The limits-reveal-structure thesis would be undermined if:
 - [The Question as Evidence](/voids/questioning-as-evidence/) — The meta-insight: that we can conceive of limits is itself evidential
 - [The Void as Ground of Meaning](/voids/void-as-ground-of-meaning/) — The constitutive thesis: limits are preconditions for meaning, not merely obstacles
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis of structural limits
-- [The Self-Reference Paradox](/concepts/self-reference-paradox/) — Where consciousness cannot map because it is the mapper
+- [The Self-Reference Paradox](/voids/self-opacity/) — Where consciousness cannot map because it is the mapper
 - [The Self-Transcendence Void](/voids/self-transcendence-void/) — Why consciousness cannot upgrade its own cognitive architecture
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalising the method with evidential standards

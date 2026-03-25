@@ -23,10 +23,9 @@ related_articles:
 - '[[observation-void]]'
 - '[[thoughts-that-slip-away]]'
 - '[[cognitive-aversion]]'
-- '[[introspective-opacity]]'
+- '[[self-opacity]]'
 - '[[destabilizing-self-knowledge]]'
 - '[[phenomenology-of-the-edge]]'
-- '[[self-reference-paradox]]'
 - '[[transparency-void]]'
 - '[[mysterianism]]'
 - '[[tenets]]'
@@ -125,11 +124,11 @@ Current evidence favours structural instability. The convergence across contempl
 
 - [observation-void](/voids/observation-void/) — The broader void where studying consciousness transforms what is studied
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — The phenomenology of cognitive slippage—related but distinct from mutation
-- [introspective-opacity](/voids/self-opacity/) — Why we access mental contents but never the mechanisms producing them
+- [introspective opacity](/voids/self-opacity/) — Why we access mental contents but never the mechanisms producing them
 - [cognitive-aversion](/voids/cognitive-aversion/) — Systematic deflection from threatening content—distinct from involuntary transformation
 - [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/) — Knowledge that undermines the knower's capacity to hold it
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its cognitive boundaries
-- [self-reference-paradox](/concepts/self-reference-paradox/) — The observer that cannot observe itself—a structural source of mutation
+- [self-reference paradox](/voids/self-opacity/) — The observer that cannot observe itself—a structural source of mutation
 - [transparency-void](/voids/transparency-void/) — Consciousness cannot verify its own representations
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and why some limits may be permanent
 - [voids](/voids/)

@@ -8,7 +8,7 @@ concepts:
 - '[[metacognition]]'
 - '[[introspection]]'
 - '[[cognitive-phenomenology]]'
-- '[[phenomenology-of-self-awareness]]'
+- '[[self-opacity]]'
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[illusionism]]'
 - '[[working-memory]]'
@@ -175,7 +175,7 @@ None of these conditions currently obtains.
 - [metacognition](/concepts/metacognition/) — The cognitive capacity enabling epistemic self-monitoring
 - [introspection](/concepts/introspection/) — First-person access to epistemic states
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking itself has phenomenal character
-- [phenomenology-of-self-awareness](/voids/self-opacity/) — Why error has no distinctive feeling
+- [phenomenology of self-awareness](/voids/self-opacity/) — Why error has no distinctive feeling
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The felt quality of deciding
 - [working-memory](/concepts/working-memory/) — Where epistemic emotions interface with cognitive capacity
 - [illusionism](/concepts/illusionism/) — The challenge that epistemic phenomenology is illusion

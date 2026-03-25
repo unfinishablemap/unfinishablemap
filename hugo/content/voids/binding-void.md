@@ -29,7 +29,7 @@ related_articles:
 - '[[emergence-void]]'
 - '[[causal-interface]]'
 - '[[intrinsic-nature-void]]'
-- '[[self-reference-paradox]]'
+- '[[self-opacity]]'
 - '[[attention-created-voids]]'
 - '[[temporal-void]]'
 - '[[whether-real]]'
@@ -85,7 +85,7 @@ The binding void occupies a precise position in the Map's void taxonomy.
 
 **Not the [causal interface void](/voids/causal-interface/).** The causal interface concerns how consciousness interfaces with the physical world. The binding void concerns how consciousness interfaces *with itself*—how its elements achieve coherence.
 
-**Not the [self-reference paradox](/concepts/self-reference-paradox/).** Self-reference concerns consciousness observing itself. The binding void is prior: unity must already obtain before self-observation is possible—it is the foundation on which the self-reference paradox stands.
+**Not the [self-reference paradox](/voids/self-opacity/).** Self-reference concerns consciousness observing itself. The binding void is prior: unity must already obtain before self-observation is possible—it is the foundation on which the self-reference paradox stands.
 
 ## Evidence That This Is a Void
 
@@ -144,7 +144,7 @@ The binding void connects to the Map's [tenets](/tenets/) at multiple points and
 - [emergence-void](/voids/emergence-void/) — The related void at level transitions; binding operates within a single level
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The core taxonomy: unexplored, unexplorable, occluded
 - [causal-interface](/voids/causal-interface/) — How consciousness interfaces with the physical world
-- [self-reference-paradox](/concepts/self-reference-paradox/) — Self-observation requires the unity this void concerns
+- [self-reference paradox](/voids/self-opacity/) — Self-observation requires the unity this void concerns
 - [temporal-void](/voids/temporal-void/) — Binding's intersection with the temporal dimension
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — Using the structure of failure as data
 - [mysterianism](/concepts/mysterianism/) — McGinn's cognitive closure thesis, strongly applicable here

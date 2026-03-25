@@ -26,7 +26,7 @@ modified: *id001
 related_articles:
 - '[[consciousness-and-causal-powers]]'
 - '[[time-collapse-and-agency]]'
-- '[[introspective-opacity|volitional opacity]]'
+- '[[self-opacity|volitional opacity]]'
 - '[[evolutionary-case-for-mental-causation]]'
 - '[[pain-consciousness-and-causal-power]]'
 - '[[spontaneous-intentional-action]]'

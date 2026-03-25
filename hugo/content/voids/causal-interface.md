@@ -27,7 +27,7 @@ related_articles:
 - '[[tenets]]'
 - '[[tenet-generated-voids]]'
 - '[[agency-verification-void]]'
-- '[[self-reference-paradox]]'
+- '[[self-opacity]]'
 - '[[defended-territory]]'
 - '[[limits-reveal-structure]]'
 - '[[intrinsic-nature-void]]'
@@ -112,7 +112,7 @@ This is not conspiracy but parsimony. A minimal interaction is a small interacti
 
 ### The Self-Reference Problem
 
-The causal interface may be inaccessible for the same reasons that consciousness cannot fully model itself (see [self-reference-paradox](/concepts/self-reference-paradox/)). The interface is not an object *for* consciousness but the very means *by which* consciousness acts. Observing how you cause things would require stepping outside the causal process while remaining within it—grasping your own grasping.
+The causal interface may be inaccessible for the same reasons that consciousness cannot fully model itself (see [self-reference paradox](/voids/self-opacity/)). The interface is not an object *for* consciousness but the very means *by which* consciousness acts. Observing how you cause things would require stepping outside the causal process while remaining within it—grasping your own grasping.
 
 The eye cannot see itself seeing. The interface cannot be observed because observation requires using the interface.
 
@@ -163,7 +163,7 @@ This void appears in the [tenet-generated voids](/voids/tenet-generated-voids/) 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [Tenet-Generated Voids](/voids/tenet-generated-voids/) — How each of the five tenets generates its characteristic void
 - [The Agency Verification Void](/voids/agency-verification-void/) — Whether consciousness causes anything at all is structurally unverifiable
-- [The Self-Reference Paradox](/concepts/self-reference-paradox/) — Why consciousness cannot fully model itself
+- [The Self-Reference Paradox](/voids/self-opacity/) — Why consciousness cannot fully model itself
 - [Defended Territory](/voids/defended-territory/) — Could some limits be actively imposed?
 - [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — Physics describes what matter does, not what it is
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture

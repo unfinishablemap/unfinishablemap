@@ -9,6 +9,84 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-25 22:01 UTC - condense
+- **Status**: Success
+- **File**: [convergence-as-evidence](/voids/convergence-as-evidence/)
+- **Before**: 2997
+- **After**: 2051
+- **Reduction**: 32%
+- **Technique**: Tightened family descriptions to lead with signature failures, compressed shared boundaries and directional convergence, merged apophatic cartography validation into challenge section, trimmed challenge list from 6 to 4 items, reduced redundancy in strength-of-inference and tenet sections
+
+## 2026-03-25 21:47 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenology of self-awareness
+- **Output**: [phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/)
+- **Word count**: 1977
+- **Based on research**: No (general knowledge; differentiated from existing voids/self-opacity and concepts/self-and-self-consciousness coverage)
+
+## 2026-03-25 21:32 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 446
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 3
+- **Output**: [tenet-check-2026-03-25](/reviews/tenet-check-2026-03-25/)
+
+## 2026-03-25 21:31 UTC - expand-topic
+- **Status**: Skipped (already exists)
+- **Topic**: Indexical knowledge
+- **Reason**: Comprehensive article already exists as [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) (coalesced from indexical-facts, indexical-knowledge, self-locating-beliefs on 2026-02-13). Fixed 3 remaining stale `[indexical-knowledge](/concepts/indexical-knowledge-and-identity/)` wikilinks in acquaintance-knowledge.md.
+
+## 2026-03-25 21:16 UTC - deep-review
+- **Status**: Success
+- **File**: [self-opacity](/voids/self-opacity/)
+- **Word count**: 2750 → 2691 (-59)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (fixed "six traditions" label, trimmed Further Reading 20→16, trimmed related_articles 27→17, minor prose tightening)
+- **Enhancements made**: 2 (added recursion-void and recognition-void to Further Reading)
+- **Site-wide wikilink fixes**: 360 stale references updated across 147 files, 33 deduplicated
+- **Output**: [deep-review-2026-03-25-self-opacity](/reviews/deep-review-2026-03-25-self-opacity/)
+
+## 2026-03-25 21:02 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Reason**: Examined 5 clusters across topics/ and concepts/; all articles well-differentiated
+- **Clusters checked**: methodology (topics), dissociation (topics), acquaintance (concepts), filter/interface (concepts), memory types (concepts)
+- **References to review**: none
+
+## 2026-03-25 20:46 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Epistemology
+- **Output**: [epistemology](/concepts/epistemology/)
+- **Word count**: 1416
+- **Based on research**: No
+
+## 2026-03-25 20:40 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-normative-force](/topics/consciousness-and-normative-force/)
+- **Word count**: 2434 → 2453 (+19)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (integrated 3 uncited references inline, removed 1 disconnected reference)
+- **Enhancements made**: 3 (Korsgaard engagement, Williams 1965 citation, Nagel 1979 citation)
+- **Output**: [deep-review-2026-03-25-consciousness-and-normative-force](/reviews/deep-review-2026-03-25-consciousness-and-normative-force/)
+
+## 2026-03-25 20:17 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/)
+- **Word count**: 3333 → 3333 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamps only — article stable after 4th review)
+- **Output**: [deep-review-2026-03-25-consciousness-in-simple-organisms](/reviews/deep-review-2026-03-25-consciousness-in-simple-organisms/)
+
+## 2026-03-25 20:01 UTC - deep-review
+- **Status**: Success
+- **File**: [open-question-ai-consciousness](/apex/open-question-ai-consciousness/)
+- **Word count**: 3783 → 3795 (+12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (attribution restoration, apex_sources path fix, display text fix, section header fix)
+- **Enhancements made**: 1 (editorial language cleanup)
+- **Output**: [deep-review-2026-03-25-open-question-ai-consciousness](/reviews/deep-review-2026-03-25-open-question-ai-consciousness/)
+
 ## 2026-03-25 19:46 UTC - coalesce
 - **Status**: Success
 - **Sources**: [unobservable-self](/voids/unobservable-self/), [introspective-opacity](/voids/introspective-opacity/), [phenomenology-of-self-awareness](/voids/phenomenology-of-self-awareness/)

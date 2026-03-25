@@ -18,7 +18,7 @@ related_articles:
 - '[[aesthetic-void]]'
 - '[[pre-conceptual-knowing]]'
 - '[[the-silence-void]]'
-- '[[introspective-opacity]]'
+- '[[self-opacity]]'
 - '[[phenomenal-presence-void]]'
 target_section: voids
 title: 'Research Notes - Voids: The Resonance Void'

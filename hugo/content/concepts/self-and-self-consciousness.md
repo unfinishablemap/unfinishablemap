@@ -14,7 +14,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[baseline-cognition]]'
 - '[[jourdain-hypothesis]]'
-- '[[self-reference-paradox]]'
+- '[[self-opacity]]'
 - '[[galilean-exclusion]]'
 - '[[buddhism-and-dualism]]'
 - '[[personal-identity]]'
@@ -37,7 +37,6 @@ last_deep_review: 2026-03-23 22:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[phenomenology-of-self-awareness]]'
 - '[[phenomenology-of-recursive-thought]]'
 - '[[the-self-minimal-narrative-and-substantial]]'
 - '[[consciousness-and-the-ownership-problem]]'
@@ -70,7 +69,7 @@ The **narrative self** is constructed through self-interpretation — shaped by 
 | Metacognitive self | Monitoring one's mental states | Cognitive tool consciousness *enables* |
 | Narrative self | Autobiographical story | Construction using other capacities |
 
-A fourth dimension cuts across all layers: [the unobservable self](/concepts/self-reference-paradox/). When attention seeks the observer, it finds only more observation. The hard problem is hard partly because the subject investigating is what resists investigation.
+A fourth dimension cuts across all layers: [the unobservable self](/voids/self-opacity/). When attention seeks the observer, it finds only more observation. The hard problem is hard partly because the subject investigating is what resists investigation.
 
 ## Pre-Reflective and Reflective Self-Consciousness
 
@@ -174,11 +173,11 @@ If dissociation cases revealed genuinely anonymous experiences — content exper
 
 ## Further Reading
 
-- [self-reference-paradox](/concepts/self-reference-paradox/) — Why the observing self cannot observe itself observing
+- [self-reference paradox](/voids/self-opacity/) — Why the observing self cannot observe itself observing
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — Three conceptions of selfhood
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist no-self and the Map's irreducibility thesis
 - [consciousness-and-memory](/topics/consciousness-and-memory/) — How memory systems map onto levels of consciousness
-- [phenomenology-of-self-awareness](/voids/self-opacity/) — What self-awareness feels like from the inside
+- [phenomenology of self-awareness](/voids/self-opacity/) — What self-awareness feels like from the inside
 - [galilean-exclusion](/concepts/galilean-exclusion/) — Why science's founding methodology excludes what self-consciousness is
 - [ownership-void](/voids/ownership-void/) — Why the for-me-ness of experience hides its own ground
 - [personal-identity](/topics/personal-identity/) — How the self persists over time

@@ -21,9 +21,8 @@ related_articles:
 - '[[observation-void]]'
 - '[[dreamless-sleep-void]]'
 - '[[past-self-void]]'
-- '[[volitional-opacity]]'
+- '[[self-opacity]]'
 - '[[transparency-void]]'
-- '[[introspective-opacity]]'
 - '[[phenomenology-of-the-edge]]'
 target_section: voids
 title: 'Research Notes - Voids: The Transition Void'

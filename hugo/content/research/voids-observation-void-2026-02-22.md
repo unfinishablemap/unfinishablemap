@@ -19,10 +19,9 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[introspective-opacity]]'
+- '[[self-opacity]]'
 - '[[the-unobservable-self]]'
 - '[[causal-interface]]'
-- '[[self-reference-paradox]]'
 - '[[consciousness-only-territories]]'
 - '[[topology-of-cognitive-failure]]'
 - '[[defended-territory]]'

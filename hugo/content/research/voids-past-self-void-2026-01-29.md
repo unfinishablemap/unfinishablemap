@@ -21,7 +21,7 @@ related_articles:
 - '[[tenets]]'
 - '[[other-minds-void]]'
 - '[[temporal-asymmetry-remembering-anticipating]]'
-- '[[self-reference-paradox]]'
+- '[[self-opacity]]'
 - '[[thoughts-that-slip-away]]'
 target_section: voids
 title: 'Research Notes - Voids: The Past Self Void'

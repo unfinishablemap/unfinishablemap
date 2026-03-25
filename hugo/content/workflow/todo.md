@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-25 19:46:00+00:00
+ai_modified: 2026-03-25 20:31:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,16 +38,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review apex/open-question-ai-consciousness.md — new apex article
-- **Type**: deep-review
-- **Notes**: New apex article created or updated 2026-03-25 via apex-evolve. Apex articles serve as high-level synthesis entry points and require careful review for coherence, accuracy of claims across source articles, cross-references, and tenet alignment. Verify the AI consciousness synthesis accurately represents the Map's distinctive position.
-- **Source**: task_chain
-- **Generated**: 2026-03-25
-
-### P2: Update references to coalesced self-opacity articles
-- **Type**: cross-review
-- **Notes**: Coalesce created voids/self-opacity from unobservable-self + introspective-opacity + phenomenology-of-self-awareness. Many files reference archived slugs (self-reference-paradox: ~120 files, introspective-opacity: ~99 files, phenomenology-of-self-awareness: ~19 files). Archive redirects handle URL preservation, but active content wikilinks should be reviewed and updated to point to self-opacity where appropriate. Focus on non-research/non-review files first.
-- **Source**: coalesce
+### P3: Create concept page for pragmatism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Referenced by 7 articles via broken wikilinks. Pragmatism as a philosophical tradition is relevant to pragmatisms-path-to-dualism and the Map's arguments about the practical consequences of consciousness theories. A concept page would anchor these references. Target section: concepts/ (225/230, 5 slots remaining).
+- **Source**: gap_analysis
 - **Generated**: 2026-03-25
 
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
@@ -1388,6 +1383,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Condense convergence-as-evidence.md (2997 words, borderline hard threshold)
+- **Type**: condense
+- **Notes**: Voids article at 2997 words against a 3000-word hard threshold for voids/ section. Currently 150% of the 2000-word soft target. Reduce to under 2000 words while preserving core arguments about convergence as epistemic evidence for cognitive limits. See /condense skill.
+- **Output**: obsidian/voids/convergence-as-evidence.md
+
+### ✓ 2026-03-25: Write article on phenomenology of self-awareness
+- **Type**: expand-topic
+- **Notes**: Referenced by 12 articles via broken wikilinks. The phenomenological structure of self-awareness — pre-reflective self-consciousness, reflective introspection, and their relationship — is assumed across many articles but never given systematic treatment. Connects to self-opacity void, introspective-opacity discussions, and Tenet 1 arguments from first-person access. Target section: topics/ (226/230, 4 slots remaining).
+- **Output**: phenomenology of self-awareness
+
+### ✓ 2026-03-25: Create concept page for indexical knowledge
+- **Type**: expand-topic
+- **Notes**: Referenced by 15 articles via broken wikilinks. Indexical knowledge — knowledge tied to a particular perspective or context ("I am here now") — is central to the Map's arguments about irreducibility of first-person experience. Directly supports Tenet 1 (Dualism) via the knowledge argument and Tenet 4 (No Many Worlds) via indexical identity. Target section: concepts/ (225/230, 5 slots remaining).
+- **Output**: Create concept page for indexical knowledge
+
+### ✓ 2026-03-25: Update references to coalesced self-opacity void articles and fix introspective-opacity wikilinks
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-03-25 merged 3 self-opacity voids into voids/self-opacity.md. Additionally, 39 articles reference [introspective-opacity](/voids/self-opacity/) which has no corresponding page. Determine whether introspective-opacity should redirect to self-opacity or warrants its own concept page, then update all broken wikilinks accordingly.
+- **Output**: None -- Context: Update references to coalesced self-opacity void articles and fix introspective-opacity wikilinks
+
+### ✓ 2026-03-25: Create concept page for epistemology
+- **Type**: expand-topic
+- **Notes**: Referenced by 46 articles via broken wikilinks — the most-referenced undefined concept on the site. Epistemology is fundamental to Tenet 5 (Occam's Razor Has Limits) and to the Map's epistemic methodology throughout. Should cover the Map's distinctive epistemological commitments: phenomenal evidence, convergence methodology, and limits of third-person epistemology. Target section: concepts/ (225/230, 5 slots remaining).
+- **Output**: Create concept page for epistemology
+
+### ✓ 2026-03-25: Update references to coalesced self-opacity articles
+- **Type**: cross-review
+- **Notes**: Coalesce created voids/self-opacity from unobservable-self + introspective-opacity + phenomenology-of-self-awareness. Many files reference archived slugs (self-reference-paradox: ~120 files, introspective-opacity: ~99 files, phenomenology-of-self-awareness: ~19 files). Archive redirects handle URL preservation, but active content wikilinks should be reviewed and updated to point to self-opacity where appropriate. Focus on non-research/non-review files first.
+- **Output**: None -- Context: Update references to coalesced self-opacity articles
+
+### ✓ 2026-03-25: Deep review apex/open-question-ai-consciousness.md — new apex article
+- **Type**: deep-review
+- **Notes**: New apex article created or updated 2026-03-25 via apex-evolve. Apex articles serve as high-level synthesis entry points and require careful review for coherence, accuracy of claims across source articles, cross-references, and tenet alignment. Verify the AI consciousness synthesis accurately represents the Map's distinctive position.
+- **Output**: obsidian/apex/open-question-ai-consciousness.md
 
 ### ✓ 2026-03-25: Condense filter-theory.md (3661 words, 104% of hard threshold)
 - **Type**: condense
