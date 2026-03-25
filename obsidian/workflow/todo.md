@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-25T12:43:00+00:00
+ai_modified: 2026-03-25T15:13:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on clinical neuroplasticity evidence for bidirectional mental causation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md. Schwartz's OCD neuroplasticity, Pascual-Leone's piano imagery studies, and meditation-induced cortical thickening provide converging evidence that mental states cause structural brain changes — direct support for Tenet 3 (Bidirectional Interaction). Target section: topics/ (227/230, 3 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-25
+
+### P2: Write article on experimental tests distinguishing consciousness-collapse from decoherence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Identifies specific experimental protocols (delayed-choice quantum eraser variants, Wigner's friend scenarios, anaesthesia-modulated interference) that could empirically distinguish consciousness-collapse from decoherence-only interpretations. Directly supports Tenet 2 (Minimal Quantum Interaction) with testable predictions. Target section: topics/ (227/230, 3 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-25
+
+### P2: Integrate cognitive-phenomenology-and-the-irreducibility-of-thought.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Created 2026-03-25 via expand-topic, has no inbound links. Add cross-references from phenomenology-of-intellectual-effort.md, phenomenology-of-understanding-and-meaning.md, argument-from-reason.md, and cognitive-phenomenology.md. Core article for the Map's case that thought has irreducible phenomenal character.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-25
+
+### P2: Integrate born-rule-interpretation-invariance-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Created 2026-03-24 via expand-topic, has no inbound links. Add cross-references from born-rule-and-the-consciousness-interface.md, quantum-probability-consciousness.md, consciousness-and-probability-interpretation.md, and measurement-problem.md. Directly supports Tenet 2 — the Born rule as interface specification.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-25
+
+### P2: Integrate valence-as-selection-currency.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Created 2026-03-11, has no inbound links despite being a core concept for the selection framework. Add cross-references from consciousness-selecting-neural-patterns.md, emotion-and-dualism.md, phenomenal-normativity.md, and consciousness-and-normative-force.md. Valence as the currency of conscious selection is central to Tenets 2 and 3.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-25
+
+### P2: Deep review interaction-solutions-across-traditions.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-11 via expand-topic, never reviewed. Also orphaned (no inbound links). Topics article on how different philosophical traditions solve the interaction problem. Verify accuracy of tradition representations, coherence, cross-references to princess-elizabeths-challenge and interactionist-dualism, and tenet alignment. Integration review should add inbound links.
+- **Source**: staleness
+- **Generated**: 2026-03-25
 
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
