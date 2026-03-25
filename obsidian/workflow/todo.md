@@ -93,6 +93,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-24
 
+### P3: Add cross-links between aesthetics, trust, embodiment, and contemplative methodology clusters
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Ten cross-linking opportunities identified: aesthetics-and-consciousness ↔ phenomenology-of-musical-understanding (evaluative-quale argument), teaching-as-metarepresentation ↔ cumulative-culture (bidirectional dependency), responsibility-gradient ↔ phenomenology-of-intellectual-courage (courage as high-capacity attentional deployment), contemplative-epistemology ↔ epistemology-of-limit-knowledge (contemplative methods as limit-knowledge method), hypnagogic-phenomenology ↔ somatic-interface (sequential disassembly maps onto somatic channels), pragmatisms-path-to-dualism ↔ argument-from-reason (reflexive self-defeat), social-construction-of-self ↔ cross-cultural-phenomenology-of-agency (phenomenal self invariance), moral-phenomenology-and-perception ↔ normative-phenomenology (demand-character), phenomenology-of-trust ↔ phenomenology-of-collective-intentionality (trust as we-consciousness precondition), embodied-cognition ↔ embodied-consciousness-and-the-interface (concept ↔ topic). See optimistic-2026-03-25-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-25
+
+### P3: Write concept page on evaluative qualia
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Beauty, ugliness, rightness, wrongness as a distinct phenomenal category beyond sensory qualia. Currently discussed across aesthetics-and-consciousness, moral-phenomenology-and-perception, and normative-phenomenology but never given unified treatment. Would anchor the claim that the hard problem extends through evaluation, not just sensation. Target section: concepts/. See optimistic-2026-03-25-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-25
+
 ### P3: Address car-analogy and circularity issues in curated-mind.md
 - **Type**: refine-draft
 - **Status**: complete
