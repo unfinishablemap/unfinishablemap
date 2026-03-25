@@ -5,6 +5,11 @@ ai_modified: 2026-03-25T10:14:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 12:28 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Conservation laws and mind-brain causation
+- **Reason**: Already covered by [[concepts/conservation-laws-and-mental-causation]], which was coalesced from two prior articles including one at the requested slug. Article was deep-reviewed 2026-03-24 and is comprehensive (202 lines, 9 references).
+
 ## 2026-03-25 12:13 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 24-article deep sample across aesthetics, embodiment, ethics, contemplative methodology, social phenomenology, agency, and intellectual virtue clusters (455 non-draft files surveyed)

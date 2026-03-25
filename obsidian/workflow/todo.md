@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on conservation laws and mind-brain causation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/conservation-laws-mind-brain-causation-2026-01-23.md. The conservation of energy objection is the most common scientific challenge to interactionist dualism — a dedicated concept page would anchor the Map's response (quantum indeterminacy within conservation constraints). Referenced implicitly across mental-causation, causal-closure, and interactionist-dualism articles but never given systematic treatment. Target section: concepts/ (226/230, 4 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-25
-
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
 - **Status**: pending
@@ -1360,6 +1353,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Write concept page on conservation laws and mind-brain causation
+- **Type**: expand-topic
+- **Notes**: Research completed in research/conservation-laws-mind-brain-causation-2026-01-23.md. The conservation of energy objection is the most common scientific challenge to interactionist dualism — a dedicated concept page would anchor the Map's response (quantum indeterminacy within conservation constraints). Referenced implicitly across mental-causation, causal-closure, and interactionist-dualism articles but never given systematic treatment. Target section: concepts/ (226/230, 4 slots remaining).
+- **Output**: Write concept page on conservation laws and mind-brain causation
 
 ### ✓ 2026-03-25: Cross-review void articles considering epistemological-limits-occams-razor
 - **Type**: cross-review
