@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-25T02:54:00+00:00
+ai_modified: 2026-03-25T05:08:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Fix broken [[epistemological-limits-of-occams-razor]] wikilinks (11 files)
+- **Type**: refine-draft
+- **Notes**: 11 content files reference [[epistemological-limits-of-occams-razor]] but no page with that slug exists. The existing [[parsimony-epistemology]] covers similar ground (Tenet 5: Occam's Razor Has Limits). Investigate whether to redirect these wikilinks to parsimony-epistemology, or create an alias/redirect page. Ensure all 11 references resolve correctly after the fix.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-25
+
+### P2: Fix broken [[many-worlds-argument]] and [[epiphenomenalism-argument]] wikilinks (16 files)
+- **Type**: refine-draft
+- **Notes**: 9 files reference [[many-worlds-argument]] (no such page; [[many-worlds]] exists) and 7 files reference [[epiphenomenalism-argument]] (no such page; [[the-epiphenomenalist-threat]] and [[epiphenomenalism]] exist). Both are tenet-critical references (Tenet 4: No Many Worlds; Tenet 3: Bidirectional Interaction vs epiphenomenalism). Update each wikilink to point to the correct existing article, or create dedicated argument pages if the existing articles don't cover the specific argumentative content referenced.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-25
+
+### P2: Fix broken [[intentionality#Phenomenal Intentionality Theory]] section anchors (22 files)
+- **Type**: refine-draft
+- **Notes**: 22 content files link to [[intentionality#Phenomenal Intentionality Theory]] but this section anchor may not exist or may have a different heading. Verify the intentionality.md article structure — if the heading exists, check the exact anchor format; if it doesn't, either add the section or update all 22 wikilinks to the correct anchor. This is the highest-frequency broken section-anchor link on the site.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-25
+
+### P2: Cross-review mathematical cognition articles after consciousness-and-the-philosophy-of-mathematics
+- **Type**: cross-review
+- **Notes**: New concept page [[consciousness-and-the-philosophy-of-mathematics]] created 2026-03-25 via expand-topic. Cross-review related articles for opportunities to add inbound links and strengthen arguments: [[mathematical-truth-and-conscious-access]], [[consciousness-and-mathematical-cognition]], [[mathematical-knowledge-and-insight]], and [[born-rule-interpretation-invariance-consciousness]] (recently deep-reviewed). Check for cross-links, shared arguments, and terminology consistency.
+- **Source**: chain (from consciousness-and-the-philosophy-of-mathematics.md)
+- **Generated**: 2026-03-25
+
+### P3: Write concept page for neuroscience of deliberate practice
+- **Type**: expand-topic
+- **Notes**: [[consciousness-and-the-neuroscience-of-deliberate-practice]] is referenced in 3 content files but no page exists. The intersection of deliberate practice research (Ericsson) with the Map's interface model — how sustained conscious effort physically restructures neural pathways — is direct evidence for Tenet 3 (Bidirectional Interaction). Target section: concepts/ (225/230, 5 slots remaining).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-25
 
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
