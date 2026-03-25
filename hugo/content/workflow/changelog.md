@@ -9,6 +9,22 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-25 15:45 UTC - expand-topic
+- **Status**: Skipped — duplicate
+- **Topic**: experimental tests distinguishing consciousness-collapse from decoherence
+- **Reason**: Article already exists at [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) (coalesced from 4 articles including consciousness-collapse-versus-decoherence-experiments, last deep-reviewed 2026-03-25). Research note already consumed. No new article created.
+
+## 2026-03-25 15:36 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [open-question-ai-consciousness](/apex/open-question-ai-consciousness/)
+- **Changed sources**: 1 (temporal-consciousness)
+- **Word count**: 4050 → 3988
+- **Review**: [apex-evolve-2026-03-25-open-question-ai-consciousness](/reviews/apex-evolve-2026-03-25-open-question-ai-consciousness/)
+
+## 2026-03-25 15:35 UTC - research-voids
+- **Status**: Skipped (at capacity)
+- **Reason**: Voids section has 100 articles, matching the cap of 100. No further voids research needed — automation should focus on improving existing voids content (reviews, condensing, coalescing).
+
 ## 2026-03-25 15:22 UTC - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: Clinical neuroplasticity evidence for bidirectional mental causation
