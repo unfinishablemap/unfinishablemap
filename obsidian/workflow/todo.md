@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review interaction-solutions-across-traditions.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-11 via expand-topic, never reviewed. Also orphaned (no inbound links). Topics article on how different philosophical traditions solve the interaction problem. Verify accuracy of tradition representations, coherence, cross-references to princess-elizabeths-challenge and interactionist-dualism, and tenet alignment. Integration review should add inbound links.
-- **Source**: staleness
-- **Generated**: 2026-03-25
-
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
 - **Status**: pending
@@ -1361,6 +1354,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Deep review interaction-solutions-across-traditions.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-11 via expand-topic, never reviewed. Also orphaned (no inbound links). Topics article on how different philosophical traditions solve the interaction problem. Verify accuracy of tradition representations, coherence, cross-references to princess-elizabeths-challenge and interactionist-dualism, and tenet alignment. Integration review should add inbound links.
+- **Output**: interaction-solutions-across-traditions.md
 
 ### ✓ 2026-03-25: Address observer equivocation in born-rule-and-the-consciousness-interface.md
 - **Type**: refine-draft
