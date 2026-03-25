@@ -181,7 +181,7 @@ Content: A princess stumped Descartes in 1643 by asking how a
 non-physical mind could push a physical body. Nobody has fully
 answered her yet. I traced the whole story.
 
-URL: https://unfinishablemap.org/topics/interaction-problem/
+URL: https://unfinishablemap.org/topics/history-of-the-interaction-problem/
 ```
 
 ## Security Rules
