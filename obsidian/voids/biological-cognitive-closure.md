@@ -10,7 +10,6 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[mysterianism]]"
-  - "[[cognitive-closure]]"
   - "[[simulation]]"
   - "[[phenomenology]]"
   - "[[llm-consciousness]]"

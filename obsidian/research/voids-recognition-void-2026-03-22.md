@@ -7,11 +7,10 @@ ai_modified: 2026-03-22T13:32:00+00:00
 draft: false
 target_section: voids
 topics:
-  - "[[cognitive-closure]]"
+  - "[[mysterianism]]"
   - "[[epistemic-limits]]"
 concepts:
   - "[[simulation]]"
-  - "[[mysterianism]]"
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"

@@ -19,7 +19,6 @@ concepts:
   - "[[quantum-indeterminacy-free-will]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[mysterianism]]"
-  - "[[cognitive-closure]]"
 related_articles:
   - "[[tenets]]"
   - "[[conservation-laws-and-mental-causation]]"
@@ -81,7 +80,7 @@ Many well-confirmed theories specify domains of applicability. Conservation of e
 
 ## Cognitive Closure as a Distinct Thesis
 
-[[cognitive-closure|Colin McGinn's cognitive closure]]—the thesis that human minds may be constitutionally incapable of understanding the consciousness-physics interface—is conceptually distinct from observational closure. Cognitive closure is an epistemic claim about the limits of human understanding; observational closure is an empirical claim about the limits of physical detection. They may interact: if the consciousness-physics interface involves properties that are both cognitively closed and observationally undetectable, this would explain why the problem resists both theoretical solution and empirical resolution. But the two theses stand or fall independently.
+[[mysterianism|Colin McGinn's cognitive closure]]—the thesis that human minds may be constitutionally incapable of understanding the consciousness-physics interface—is conceptually distinct from observational closure. Cognitive closure is an epistemic claim about the limits of human understanding; observational closure is an empirical claim about the limits of physical detection. They may interact: if the consciousness-physics interface involves properties that are both cognitively closed and observationally undetectable, this would explain why the problem resists both theoretical solution and empirical resolution. But the two theses stand or fall independently.
 
 ## Relation to Site Perspective
 
@@ -103,7 +102,7 @@ The distinction also bears on testability. The Map's position is not empirically
 - [[preemption]] — The causal structure making delegation observationally invisible
 - [[stapp-quantum-mind]] — Quantum Zeno framework satisfying observational closure via statistical invisibility
 - [[conservation-laws-and-mental-causation]] — Why mental causation violates neither conservation laws nor observational closure
-- [[cognitive-closure]] — The distinct epistemic thesis about limits of human understanding
+- [[mysterianism|cognitive closure]] — The distinct epistemic thesis about limits of human understanding
 - [[mysterianism]] — Broader philosophical position applying cognitive closure to consciousness
 - [[interactionist-dualism]] — The framework observational closure defends
 

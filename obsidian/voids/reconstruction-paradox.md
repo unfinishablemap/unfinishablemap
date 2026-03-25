@@ -14,7 +14,7 @@ concepts:
   - "[[qualia]]"
   - "[[interactionist-dualism]]"
   - "[[explanatory-gap]]"
-  - "[[cognitive-closure]]"
+  - "[[mysterianism]]"
 related_articles:
   - "[[selective-correction-and-reconstruction-paradox]]"
   - "[[curated-mind]]"
@@ -92,7 +92,7 @@ The cognitive impenetrability boundary functions as a void in the Map's framewor
 - [[hard-problem-of-consciousness]]
 - [[consciousness-only-territories]]
 - [[illusionism]]
-- [[cognitive-closure]]
+- [[mysterianism|cognitive closure]]
 
 ## References
 

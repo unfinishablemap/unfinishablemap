@@ -31,7 +31,6 @@ related_articles:
   - "[[limits-reveal-structure]]"
   - "[[surprise-prediction-error-and-consciousness]]"
   - "[[observation-void]]"
-  - "[[cognitive-closure]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[phenomenology-of-cognitive-limit-types]]"
 ai_contribution: 100
@@ -166,7 +165,7 @@ The [[tenets#^no-many-worlds|No Many Worlds]] tenet connects through indexicalit
 
 ### Cognitive Closure
 
-Self-awareness connects directly to [[cognitive-closure|cognitive closure]]. Error-blindness may be an instance of closure—we cannot know what errors we cannot detect. The bootstrap problem has no complete solution because solving it requires stepping outside our cognitive apparatus. The phenomenology of self-reference reveals the same structural limit from a different angle: the tool bends when turned upon itself, and attempts to articulate self-referential insight encounter the dissolving quality that [[thoughts-that-slip-away|thoughts about consciousness]] characteristically exhibit. The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies here too: the assumption that self-awareness is "just" recursive processing hides this circularity behind apparent simplicity.
+Self-awareness connects directly to [[mysterianism|cognitive closure]]. Error-blindness may be an instance of closure—we cannot know what errors we cannot detect. The bootstrap problem has no complete solution because solving it requires stepping outside our cognitive apparatus. The phenomenology of self-reference reveals the same structural limit from a different angle: the tool bends when turned upon itself, and attempts to articulate self-referential insight encounter the dissolving quality that [[thoughts-that-slip-away|thoughts about consciousness]] characteristically exhibit. The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies here too: the assumption that self-awareness is "just" recursive processing hides this circularity behind apparent simplicity.
 
 ## What Would Challenge This View?
 
@@ -184,7 +183,7 @@ None currently obtains. Error-blindness persists despite millennia of attention.
 - [[introspective-opacity]] — Why cognitive processes remain hidden while their products become conscious
 - [[measurement-void]] — The bootstrap problem for introspective calibration
 - [[epistemic-emotions]] — The feelings that accompany and drive cognitive self-correction
-- [[cognitive-closure]] — The structural impossibility of knowing what you cannot know
+- [[mysterianism|cognitive closure]] — The structural impossibility of knowing what you cannot know
 - [[phenomenology-of-the-edge]] — Consciousness at cognitive boundaries
 - [[recursion-void]] — The empirical ceiling on metacognitive depth
 - [[thoughts-that-slip-away]] — The phenomenology of cognitive slippage

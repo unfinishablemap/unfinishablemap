@@ -12,7 +12,6 @@ topics:
 concepts:
   - "[[simulation]]"
   - "[[mysterianism]]"
-  - "[[cognitive-closure]]"
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"

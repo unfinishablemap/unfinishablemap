@@ -12,7 +12,7 @@ topics:
 concepts:
   - "[[predictive-processing]]"
   - "[[interactionist-dualism]]"
-  - "[[cognitive-closure]]"
+  - "[[mysterianism]]"
   - "[[qualia]]"
   - "[[attention-as-interface]]"
   - "[[filter-theory]]"

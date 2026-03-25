@@ -11,7 +11,6 @@ topics:
   - "[[cognitive-science-and-consciousness]]"
 concepts:
   - "[[mysterianism]]"
-  - "[[cognitive-closure]]"
   - "[[metacognition]]"
 related_articles:
   - "[[voids]]"

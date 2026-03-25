@@ -10,7 +10,6 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[mysterianism]]"
-  - "[[cognitive-closure]]"
   - "[[phenomenology]]"
   - "[[introspection]]"
   - "[[explanatory-gap]]"
@@ -59,7 +58,7 @@ Apophatic inquiry proceeds through several related techniques:
 
 The [[hard-problem-of-consciousness|hard problem]] is an apophatic situation. Increasingly sophisticated positive theories — identity theory, functionalism, representationalism, global workspace theory, integrated information theory — have each captured aspects of cognitive function while leaving the explanatory gap untouched: *why* physical processes are accompanied by subjective experience remains unexplained.
 
-Apophatic approaches reframe this persistent pattern as data rather than embarrassment. If the most promising positive frameworks consistently capture function but miss experience, the recurring shape of the failure may outline something about the structure of consciousness itself. Colin McGinn's [[mysterianism|new mysterianism]] makes this explicit: the mind-body problem may be [[cognitive-closure|cognitively closed]] to human minds. Not because the answer is supernatural, but because our concept-forming procedures cannot extend to grasp it.
+Apophatic approaches reframe this persistent pattern as data rather than embarrassment. If the most promising positive frameworks consistently capture function but miss experience, the recurring shape of the failure may outline something about the structure of consciousness itself. Colin McGinn's [[mysterianism|new mysterianism]] makes this explicit: the mind-body problem may be [[mysterianism|cognitively closed]] to human minds. Not because the answer is supernatural, but because our concept-forming procedures cannot extend to grasp it.
 
 This parallels Chomsky's distinction between *problems* (questions our cognitive architecture equips us to answer) and *mysteries* (questions that exceed it). There is no reason to expect that minds evolved for survival would have conceptual access to all truths about reality. The apophatic response is to take cognitive limits seriously as evidence about the structure of what is being investigated, not merely as temporary obstacles.
 
@@ -92,7 +91,7 @@ The Map's [[tenets]] both motivate and are supported by apophatic methods.
 - [[apophatic-cartography]] — The formal cartographic framework with evidential criteria
 - [[mysterianism]] — McGinn's cognitive closure argument
 - [[explanatory-gap]] — The persistent gap between physical description and experience — a core apophatic datum
-- [[cognitive-closure]] — McGinn's thesis that some properties lie beyond a mind's conceptual reach
+- [[mysterianism|cognitive closure]] — McGinn's thesis that some properties lie beyond a mind's conceptual reach
 - [[hard-problem-of-consciousness]] — The central instance of apophatic failure
 - [[phenomenology-of-the-edge]] — What consciousness encounters at its boundaries
 - [[the-silence-void]] — Where even negation must cease

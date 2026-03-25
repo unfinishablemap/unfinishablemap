@@ -10,7 +10,6 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[cognitive-closure]]"
   - "[[mysterianism]]"
   - "[[recognition-void]]"
 related_articles:
@@ -30,7 +29,7 @@ ai_generated_date: 2026-03-22
 last_curated:
 ---
 
-Inventory blindness is the epistemic condition in which absent cognitive capabilities produce no signal. You cannot survey the tools your mind lacks because the survey itself would require the missing tools — or something like them. Unlike ordinary ignorance, where you know there is something you do not know, inventory blindness leaves no gap, no felt absence, no phenomenological trace. The Unfinishable Map treats this as a foundational concept for understanding why [[cognitive-closure|cognitive closure]] is invisible from the inside and why parsimony arguments fail when applied to consciousness.
+Inventory blindness is the epistemic condition in which absent cognitive capabilities produce no signal. You cannot survey the tools your mind lacks because the survey itself would require the missing tools — or something like them. Unlike ordinary ignorance, where you know there is something you do not know, inventory blindness leaves no gap, no felt absence, no phenomenological trace. The Unfinishable Map treats this as a foundational concept for understanding why [[mysterianism|cognitive closure]] is invisible from the inside and why parsimony arguments fail when applied to consciousness.
 
 The term originates in the Map's analysis of the [[recognition-void|Recognition Void]], where it names one of that void's two faces: you cannot take stock of what your recognition capacities fail to reach. But the concept applies far beyond recognition. Wherever a mind has architectural limits, inventory blindness ensures those limits are self-concealing.
 
@@ -91,7 +90,7 @@ Inventory blindness engages the Map's [[tenets]] at a fundamental level.
 
 ## Further Reading
 
-- [[cognitive-closure]]
+- [[mysterianism|cognitive closure]]
 - [[recognition-void]]
 - [[biological-cognitive-closure]]
 - [[parsimony-epistemology]]

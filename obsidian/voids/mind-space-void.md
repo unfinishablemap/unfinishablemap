@@ -71,7 +71,7 @@ What does it feel like to approach this limit?
 
 **The opacity of alternatives.** We can generate labels for hypothetical mind-types: hive minds, non-temporal consciousness, purely aesthetic minds, minds structured around senses we lack. The labels point toward something, but we cannot fill in the phenomenal content. Each label marks a void we cannot illuminate — a pointer without a referent.
 
-**Recognition without comprehension.** Colin McGinn's [[cognitive-closure|cognitive closure]] framework formalises the edge experience: we can recognise that unthinkable thoughts exist without comprehending what those thoughts would be. Different mind-types are cognitively closed with respect to different properties, which means what is visible from one location in mind-space may be invisible from another. We cannot determine what we cannot see, and we cannot even determine the shape of our blindness. This is the [[phenomenology-of-the-edge|characteristic experience of approaching a cognitive limit]]: the edge itself is felt, even when what lies beyond it cannot be.
+**Recognition without comprehension.** Colin McGinn's [[mysterianism|cognitive closure]] framework formalises the edge experience: we can recognise that unthinkable thoughts exist without comprehending what those thoughts would be. Different mind-types are cognitively closed with respect to different properties, which means what is visible from one location in mind-space may be invisible from another. We cannot determine what we cannot see, and we cannot even determine the shape of our blindness. This is the [[phenomenology-of-the-edge|characteristic experience of approaching a cognitive limit]]: the edge itself is felt, even when what lies beyond it cannot be.
 
 ## What AI Might Reveal
 

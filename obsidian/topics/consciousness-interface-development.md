@@ -74,7 +74,7 @@ The fully mature interface — roughly ages 25 to 50 — represents the configur
 
 This interface is optimised for exploitation over exploration. Automatised skills operate below conscious selection, freeing bandwidth for novel problems. The [[mental-effort|phenomenology of effort]] — the felt sense of consciousness exerting influence — is most calibrated during this period.
 
-But the adult interface carries accumulated [[cognitive-closure|closure]]. Not only the developmental closures of childhood but expertise effects that compound throughout adult life: the curse of knowledge, domain-specific rigidity, the progressive inability to access one's own former ignorance.
+But the adult interface carries accumulated [[mysterianism|closure]]. Not only the developmental closures of childhood but expertise effects that compound throughout adult life: the curse of knowledge, domain-specific rigidity, the progressive inability to access one's own former ignorance.
 
 ### Middle Age and Early Aging: Loosening Control
 
@@ -182,7 +182,7 @@ The developmental trajectory of the interface connects to all five of the Map's 
 - [[animal-consciousness]]
 - [[theory-of-mind]]
 - [[implicit-memory]]
-- [[cognitive-closure]]
+- [[mysterianism|cognitive closure]]
 
 ## References
 

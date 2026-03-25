@@ -30,7 +30,6 @@ related_articles:
   - "[[self-reference-paradox]]"
   - "[[habituation-void]]"
   - "[[three-kinds-of-void]]"
-  - "[[cognitive-closure]]"
   - "[[placebo-effect-and-mental-causation]]"
   - "[[convergence-as-evidence]]"
 ai_contribution: 100
@@ -68,7 +67,7 @@ The agnosias — modality-specific recognition failures — further decompose th
 
 ## The Recursive Problem
 
-The Recognition Void extends beyond mechanism opacity into a deeper structural problem. McGinn's [[cognitive-closure|cognitive closure]] thesis argues that human minds are constitutionally incapable of solving certain problems — not because the problems are incoherent but because our cognitive architecture cannot represent the solutions. The [[biological-cognitive-closure]] article shows how both innate and developmental constraints progressively narrow our conceptual reach. A dog cannot do calculus, not for lack of effort but for lack of the right kind of mind. Humans likely have analogous closures.
+The Recognition Void extends beyond mechanism opacity into a deeper structural problem. McGinn's [[mysterianism|cognitive closure]] thesis argues that human minds are constitutionally incapable of solving certain problems — not because the problems are incoherent but because our cognitive architecture cannot represent the solutions. The [[biological-cognitive-closure]] article shows how both innate and developmental constraints progressively narrow our conceptual reach. A dog cannot do calculus, not for lack of effort but for lack of the right kind of mind. Humans likely have analogous closures.
 
 The recursive structure of this limit is what makes it a void rather than merely a hard problem:
 

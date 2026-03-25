@@ -18,7 +18,6 @@ related_articles:
   - "[[intrinsic-nature-void]]"
   - "[[incompleteness-void]]"
   - "[[apophatic-approaches]]"
-  - "[[cognitive-closure]]"
   - "[[mathematical-truth-and-conscious-access]]"
 ai_contribution: 100
 author: null

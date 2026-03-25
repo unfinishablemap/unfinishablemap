@@ -11,7 +11,6 @@ topics:
 concepts:
   - "[[mysterianism]]"
   - "[[illusionism]]"
-  - "[[cognitive-closure]]"
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
@@ -82,7 +81,7 @@ Three positions crystallise:
 
 **The optimist** holds that all limits are contingent. Historical dissolutions prove that "unthinkable" usually means "not yet thought." Human language—a qualitatively different cognitive tool from anything other animals possess—has enabled every past breakthrough and will enable future ones.
 
-**The pessimist** holds that some limits are structural. Scope implies limits: any endowment powerful enough to think some thoughts is thereby prevented from thinking others. The hard problem's distinctive features—self-reference, cross-cultural persistence, resistance to formalism at the interpretive level—distinguish it from historically dissolved limits. [[cognitive-closure|Cognitive closure]] on this view is not a failure of effort but a consequence of architecture.
+**The pessimist** holds that some limits are structural. Scope implies limits: any endowment powerful enough to think some thoughts is thereby prevented from thinking others. The hard problem's distinctive features—self-reference, cross-cultural persistence, resistance to formalism at the interpretive level—distinguish it from historically dissolved limits. [[mysterianism|Cognitive closure]] on this view is not a failure of effort but a consequence of architecture.
 
 **The suspended position** holds that the question is formally undecidable from within. Both verification and falsification appear blocked. If limits are permanent, we cannot detect them. If they are temporary, we cannot be certain a deeper limit doesn't hide behind them. (Quantum mechanics dissolved classical intuitions about particles but left the measurement problem—a different, perhaps deeper limit. Do dissolved limits always reveal deeper limits behind them?)
 

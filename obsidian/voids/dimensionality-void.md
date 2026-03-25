@@ -11,7 +11,6 @@ topics:
   - "[[philosophy-of-mind]]"
 concepts:
   - "[[mysterianism]]"
-  - "[[cognitive-closure]]"
   - "[[phenomenology]]"
 related_articles:
   - "[[voids]]"
@@ -37,7 +36,7 @@ This makes the dimensionality void a second-order limit. A Flatlander confined t
 
 Edwin Abbott's 1884 *Flatland* provides more than analogy here. It illustrates a precise epistemic structure that recurs across multiple philosophical and scientific frameworks.
 
-Colin McGinn's [[cognitive-closure|cognitive closure]] argument formalises the Flatland predicament for consciousness. A mind is cognitively closed with respect to a property if its concept-forming procedures cannot extend to grasping that property. McGinn argues that the solution to the mind-body problem may exist but "lie in dimensions of reality our cognitive architecture cannot access." The key claim is not that the answer is difficult but that we lack the conceptual apparatus to formulate it — the relevant dimensions of the answer-space are outside our introspective reach.
+Colin McGinn's [[mysterianism|cognitive closure]] argument formalises the Flatland predicament for consciousness. A mind is cognitively closed with respect to a property if its concept-forming procedures cannot extend to grasping that property. McGinn argues that the solution to the mind-body problem may exist but "lie in dimensions of reality our cognitive architecture cannot access." The key claim is not that the answer is difficult but that we lack the conceptual apparatus to formulate it — the relevant dimensions of the answer-space are outside our introspective reach.
 
 Peter Sjöstedt-Hughes extends this into an explicit dimensional framework. Drawing on the More-Broad-Smithies theory, he argues that perceptual space and physical space are slices of a higher-dimensional manifold. The brain, on this view, acts as "an inhibiting filtering interface rather than as a producer of mind." Consciousness is already higher-dimensional; the brain constrains access to a navigable projection. If correct, our phenomenal experience is a dimensional cross-section — faithful within its plane, but missing everything orthogonal to it.
 

@@ -13,7 +13,7 @@ concepts:
   - "[[phenomenology]]"
   - "[[qualia]]"
   - "[[anoetic-noetic-autonoetic-consciousness]]"
-  - "[[cognitive-closure]]"
+  - "[[mysterianism]]"
   - "[[introspection]]"
 related_articles:
   - "[[voids]]"

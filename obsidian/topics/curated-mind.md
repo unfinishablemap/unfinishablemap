@@ -17,7 +17,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[qualia]]"
   - "[[phenomenal-transparency]]"
-  - "[[cognitive-closure]]"
+  - "[[mysterianism]]"
   - "[[phenomenal-acquaintance]]"
 related_articles:
   - "[[reconstruction-paradox]]"
@@ -79,7 +79,7 @@ Across vision, body, memory, and self-model, the same architecture recurs:
 1. The brain reconstructs a coherent representation from incomplete or conflicting data
 2. The reconstruction serves the needs of a consumer — producing coherent experience rather than raw signal. The consumer must stand in [[phenomenal-acquaintance]] with the curated output: the direct, non-inferential relation to qualitative character that makes curation meaningful rather than merely computational
 3. The consumer cannot access the reconstruction process itself ([[phenomenal-transparency|phenomenal transparency]])
-4. When the reconstruction fails, the consumer cannot independently verify the failure ([[cognitive-closure|cognitive closure]])
+4. When the reconstruction fails, the consumer cannot independently verify the failure ([[mysterianism|cognitive closure]])
 
 This convergence across modalities is what makes the curated-mind observation philosophically significant. A single processing quirk in visual cortex might be explained as an evolutionary kludge. But an architectural pattern that operates identically across vision, proprioception, memory, and self-representation suggests something structural about the relationship between the processing system and the experiencing subject. The Map's [[neurological-dissociations-as-interface-architecture|dissociation work]] independently maps the same channels — perceptual ascending, affective ascending, self-model ascending, motor descending — by examining what breaks when specific pathways are destroyed. Anosognosia, discussed there as a failure of the self-model ascending channel, is the same phenomenon examined here as failed self-model curation: the brain delivers a coherent fiction about body state because the editorial mechanism has broken down. That two independent analyses — one from curation patterns, one from dissociation patterns — converge on the same multi-channel architecture strengthens both.
 

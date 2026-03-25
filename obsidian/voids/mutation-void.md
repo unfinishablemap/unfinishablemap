@@ -84,7 +84,7 @@ And there is what might be called the **observer's guilt**—a moral tinge to th
 
 ## Mutation as a Mechanism of Cognitive Closure
 
-Colin McGinn argues that consciousness may be [[cognitive-closure|cognitively closed]] to human minds—not because the answer is too complex, but because our minds lack the concepts to grasp it. The mutation void suggests a specific *mechanism* for this closure, complementing [[mysterianism|mysterian]] accounts that identify the limit without explaining how it operates.
+Colin McGinn argues that consciousness may be [[mysterianism|cognitively closed]] to human minds—not because the answer is too complex, but because our minds lack the concepts to grasp it. The mutation void suggests a specific *mechanism* for this closure, complementing [[mysterianism|mysterian]] accounts that identify the limit without explaining how it operates.
 
 Perhaps some truths about consciousness do not merely resist understanding but actively transform when approached. The truth is not hidden behind a wall. It is more like a mirage that recedes as you walk toward it, or—more precisely—like a substance that reacts chemically with the instrument of measurement, ensuring that what the instrument reads is never what was there before measurement began.
 

@@ -53,7 +53,6 @@ concepts:
   - "[[phenomenal-concepts-strategy]]"
 related_articles:
   - "[[tenets]]"
-  - "[[mysterianism]]"
   - "[[concepts/materialism]]"
   - "[[integrated-information-theory]]"
   - "[[consciousness-and-integrated-information]]"

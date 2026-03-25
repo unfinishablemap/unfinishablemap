@@ -9,7 +9,6 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[cognitive-closure]]"
   - "[[mysterianism]]"
   - "[[parsimony-epistemology]]"
   - "[[metacognition]]"
@@ -34,7 +33,7 @@ last_curated:
 last_deep_review: 2026-03-23T02:09:00+00:00
 ---
 
-Knowledge about cognitive limits occupies a peculiar epistemic position. If a limit is genuine—if certain properties lie permanently beyond a mind's conceptual reach, as [[cognitive-closure]] claims—then direct verification is impossible by definition. Yet The Unfinishable Map's [[voids|voids framework]] treats limits as objects of serious inquiry, cataloguing over a hundred entries and drawing substantive conclusions from their structure. This requires an epistemology that explains how knowledge about unreachable territory can be warranted without accessing that territory directly.
+Knowledge about cognitive limits occupies a peculiar epistemic position. If a limit is genuine—if certain properties lie permanently beyond a mind's conceptual reach, as [[mysterianism|cognitive closure]] claims—then direct verification is impossible by definition. Yet The Unfinishable Map's [[voids|voids framework]] treats limits as objects of serious inquiry, cataloguing over a hundred entries and drawing substantive conclusions from their structure. This requires an epistemology that explains how knowledge about unreachable territory can be warranted without accessing that territory directly.
 
 The epistemology of limit-knowledge is the systematic study of what kind of knowledge claims about cognitive limits are, what methods produce them, and what warrant structures support them. It provides the conceptual foundation that the Map's voids project implicitly relies on.
 
@@ -114,7 +113,7 @@ The Map's broader project of treating [[voids]] as informative rather than merel
 
 ## Further Reading
 
-- [[cognitive-closure]] — The thesis that limit-knowledge is about
+- [[mysterianism|cognitive closure]] — The thesis that limit-knowledge is about
 - [[meta-epistemology-of-limits]] — The deeper question of whether limits are genuine or designed
 - [[convergence-as-evidence]] — The convergence method applied to the void catalogue
 - [[compound-failure-signatures]] — The failure analysis method systematised

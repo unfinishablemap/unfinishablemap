@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update stale wikilinks from archived [[cognitive-closure]] to [[mysterianism]]
-- **Type**: refine-draft
-- **Notes**: Coalesce on 2026-03-24 merged cognitive-closure.md into mysterianism.md. Previous reference-update task was marked complete but 46+ files still reference [[cognitive-closure]], pointing to the archive page. Update wikilinks in obsidian/topics/, obsidian/concepts/, and obsidian/voids/ to [[mysterianism]] (or [[mysterianism|cognitive closure]] where the display text matters).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-25
-
 ### P2: Fix wikilinks for nonexistent [[consciousness-collapse-versus-decoherence-experiments]]
 - **Type**: refine-draft
 - **Notes**: 14 files reference [[consciousness-collapse-versus-decoherence-experiments]] but no such article exists (not even in archive). Related articles exist: consciousness-collapse-experimental-landscape.md and experimental-design-for-consciousness-collapse-testing.md. Update wikilinks to point to the most appropriate existing article.
@@ -1337,6 +1331,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Update stale wikilinks from archived [[cognitive-closure]] to [[mysterianism]]
+- **Type**: refine-draft
+- **Notes**: Coalesce on 2026-03-24 merged cognitive-closure.md into mysterianism.md. Previous reference-update task was marked complete but 46+ files still reference [[cognitive-closure]], pointing to the archive page. Update wikilinks in obsidian/topics/, obsidian/concepts/, and obsidian/voids/ to [[mysterianism]] (or [[mysterianism|cognitive closure]] where the display text matters).
+- **Output**: Task context:
+Coalesce on 2026-03-24 merged cognitive-closure.md into mysterianism.md. Previous reference-update task was marked complete but 46+ files still reference [[cognitive-closure]], pointing to the archive page. Update wikilinks in obsidian/topics/, obsidian/concepts/, and obsidian/voids/ to [[mysterianism]] (or [[mysterianism|cognitive closure]] where the display text matters).
 
 ### ✓ 2026-03-25: Update stale wikilinks from archived [[phenomenology-of-choice]] and [[phenomenology-of-volition]]
 - **Type**: refine-draft

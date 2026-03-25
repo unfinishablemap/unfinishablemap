@@ -5,6 +5,12 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-25 02:09 UTC - refine-draft
+- **Status**: Success
+- **File**: 26 files across topics/, concepts/, voids/, research/
+- **Changes**: Updated all [[cognitive-closure]] wikilinks to [[mysterianism]] or [[mysterianism|cognitive closure]]. Deduplicated 20 frontmatter entries where both [[cognitive-closure]] and [[mysterianism]] existed.
+- **Published**: yes
+
 ## 2026-03-25 01:54 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-problem-of-measurement-standards]]
