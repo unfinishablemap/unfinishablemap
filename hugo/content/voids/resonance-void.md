@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-03-24 23:25:00+00:00
+ai_modified: 2026-03-25 07:58:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -42,7 +42,7 @@ related_articles:
 - '[[consciousness-only-territories]]'
 title: The Resonance Void
 topics:
-- '[[phenomenology-tradition]]'
+- '[[phenomenology]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 

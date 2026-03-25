@@ -12,7 +12,7 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[causal-closure]]'
 - '[[quantum-interpretations]]'
-- '[[mathematical-structure-of-reality]]'
+- '[[mathematical-structure-of-the-consciousness-physics-interface]]'
 - '[[mysterianism]]'
 - '[[explanatory-gap]]'
 - '[[decoherence]]'

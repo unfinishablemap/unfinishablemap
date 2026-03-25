@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-03-24T08:05:56.754972'
+ai_modified: '2026-03-25T08:13:34.035790'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-03-24'
+modified: '2026-03-25'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-03-25: Atemporal Causation: Where Cause and Effect Leave Time Behind
+
+Unified article on causation outside temporal sequence. Three quantum frameworks give mathematical form to the idea that consciousness selects outcomes without being located at any moment—dissolving the Libet timing objection.
+
+**Type**: new-article  
+**Link**: [[atemporal-causation]]
+
+---
+
 ### 2026-03-24: Your Brain Edits Reality — But Who's Watching?
 
 The brain fills blind spots, reassigns body ownership, and reconstructs memories. But curation presupposes a recipient. A convergent argument for dualism from vision, body, and memory.
@@ -192,16 +201,6 @@ Deep review of consciousness-and-creativity refined the case that imagination an
 
 **Type**: insight  
 **Link**: [[consciousness-and-creativity]]
-
----
-
-### 2026-03-05: Why Evolution Wants You Ignorant
-
-Two articles on cognitive limits merged into one: cross-cultural evidence reveals blind spots maintained by natural selection because not-knowing conferred survival advantage.
-
-**Type**: insight  
-**Tweet**: https://x.com/unfinishablemap/status/2029470126949482860  
-**Link**: [[evolved-cognitive-limits]]
 
 ---
 
