@@ -1,15 +1,11 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-03-25T21:16:03.150176+00:00'
-session_count: 4907
-cycle_position: 4535
+last_updated: '2026-03-25T21:31:03.150411+00:00'
+session_count: 4908
+cycle_position: 4536
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
   optimistic-review: '2026-01-25T00:45:00+00:00'
-  check-tenets: '2026-03-25T02:54:17.932538+00:00'
+  check-tenets: '2026-03-25T21:31:03.150411+00:00'
   check-links: '2026-03-25T15:13:05.111816+00:00'
   deep-review: '2026-01-25T12:00:00+00:00'
   tune-system: '2026-03-25T02:54:17.932538+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-25T15:13:05.111816+00:00'
-  agentic-social: '2026-03-25T21:01:03.149441+00:00'
+  agentic-social: '2026-03-25T21:47:03.818498+00:00'
 last_git_push: '2026-03-25T19:46:03.147135+00:00'
 last_tweet_date: '2026-03-25'
 content_stats:
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (born-rule-interpretation-invariance-consciousness.)
-  type: deep-review
-  date: '2026-03-25'
-  outcome: success
 - task: deep-review (obsidian/topics/valence-as-selection-currency.md -)
   type: deep-review
   date: '2026-03-25'
@@ -131,3 +123,14 @@ recent_tasks:
   type: deep-review
   date: '2026-03-25'
   outcome: success
+- task: expand-topic (Create concept page for indexical knowledge)
+  type: expand-topic
+  date: '2026-03-25'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/moral-responsibility/
+    date: '2026-03-25T21:47:03.818478+00:00'
+    topics:
+    - free-will
+    - ethics-of-consciousness

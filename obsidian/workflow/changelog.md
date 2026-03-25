@@ -5,6 +5,13 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 21:47 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenology of self-awareness
+- **Output**: [[topics/phenomenology-of-self-awareness]]
+- **Word count**: 1977
+- **Based on research**: No (general knowledge; differentiated from existing voids/self-opacity and concepts/self-and-self-consciousness coverage)
+
 ## 2026-03-25 21:32 UTC - check-tenets
 - **Status**: Success
 - **Files checked**: 446

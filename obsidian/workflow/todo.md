@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on phenomenology of self-awareness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Referenced by 12 articles via broken wikilinks. The phenomenological structure of self-awareness — pre-reflective self-consciousness, reflective introspection, and their relationship — is assumed across many articles but never given systematic treatment. Connects to self-opacity void, introspective-opacity discussions, and Tenet 1 arguments from first-person access. Target section: topics/ (226/230, 4 slots remaining).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-25
-
 ### P2: Condense convergence-as-evidence.md (2997 words, borderline hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -1396,6 +1389,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Write article on phenomenology of self-awareness
+- **Type**: expand-topic
+- **Notes**: Referenced by 12 articles via broken wikilinks. The phenomenological structure of self-awareness — pre-reflective self-consciousness, reflective introspection, and their relationship — is assumed across many articles but never given systematic treatment. Connects to self-opacity void, introspective-opacity discussions, and Tenet 1 arguments from first-person access. Target section: topics/ (226/230, 4 slots remaining).
+- **Output**: phenomenology of self-awareness
 
 ### ✓ 2026-03-25: Create concept page for indexical knowledge
 - **Type**: expand-topic
