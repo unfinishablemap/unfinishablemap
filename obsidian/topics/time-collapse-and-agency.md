@@ -4,7 +4,7 @@ description: "Free will, quantum collapse, and time's arrow interlink. If consci
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-21T02:58:00+00:00
+ai_modified: 2026-03-25T11:13:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,12 +27,13 @@ related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
   - "[[phenomenology-of-temporal-consciousness-and-agency]]"
+  - "[[agent-causation]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-03-05T01:04:00+00:00
+last_deep_review: 2026-03-25T11:13:00+00:00
 ---
 
 The Unfinishable Map's framework makes interconnected claims about time, quantum collapse, and conscious agency that together form a distinctive metaphysics. Free will operates through retrocausal or atemporal quantum selection. Collapse introduces time's arrow into otherwise time-symmetric physics. Consciousness doesn't merely experience time—it may help constitute temporal structure through its role in collapse. These threads weave together: if consciousness selects among quantum outcomes, and collapse creates temporal asymmetry, then agency and time's direction are fundamentally linked.
@@ -102,7 +103,7 @@ This dissolves the apparent paradox. Retrocausality operates within the physics 
 
 ## The Phenomenology of Temporal Agency
 
-If consciousness constitutes time through collapse, what should this feel like? the Map's framework predicts:
+If consciousness constitutes time through collapse, what should this feel like? The Map's framework predicts:
 
 **The [[temporal-consciousness|specious present]]**: [[temporal-consciousness|Temporal experience]] has duration—roughly 100 milliseconds to 3 seconds depending on methodology—within which we experience succession as unified. This isn't clock-time (which has durationless instants) but lived time.
 
@@ -174,11 +175,11 @@ Alfred North Whitehead's process philosophy offers a complementary framework. Fo
 
 ## Implications for Free Will
 
-This metaphysics strengthens the [[topics/free-will|free will]] position:
+This metaphysics strengthens the [[topics/free-will|free will]] position, and deepens [[agent-causation|agent causation's]] philosophical foundations:
 
-**Sourcehood without prior causes**: [[agent-causation|Agent causation]] holds that the agent is the ultimate source of action, not prior events. If consciousness constitutes temporal structure, there's no temporal chain of prior causes to trace back through. The agent doesn't inherit causation from the past; the agent's selection determines what the past is.
+**Sourcehood without prior causes**: Agent causation holds that the agent is the ultimate source of action, not prior events. The [[agent-causation#The Metaphysical Foundation: Substance Causation|substance-causation framework]] developed by Lowe provides the metaphysical grounding: substances exercise causal powers directly, and events are what substances *do*. If consciousness constitutes temporal structure, the substance-causal picture gains additional force—there's no temporal chain of prior causes to trace back through because the agent's selection determines what the past is.
 
-**Alternative possibilities**: Free will traditionally requires that we could have done otherwise. In the growing-block picture with consciousness-constituted collapse, alternatives genuinely existed as superposed possibilities before selection. They weren't hidden or illusory; they were metaphysically open.
+**Alternative possibilities**: Free will traditionally requires that we could have done otherwise. In the growing-block picture with consciousness-constituted collapse, alternatives genuinely existed as superposed possibilities before selection—metaphysically open, not hidden or illusory.
 
 **Non-random selection**: Critics argue quantum indeterminacy gives us random will, not free will. But if selection is atemporal and involves consciousness's constraints across time, it's not random—it's the expression of the agent's rational nature determining which temporal pattern becomes actual. The selection reflects what matters to the agent, not arbitrary quantum fluctuation.
 
@@ -188,9 +189,9 @@ This metaphysics strengthens the [[topics/free-will|free will]] position:
 
 Meditation traditions offer phenomenological data relevant to this framework. What follows describes contemplative reports and the theoretical interpretation the framework places on them—these are distinct: the reports are first-person data; the interpretation is the framework's hypothesis about what they reveal.
 
-**Cessation states.** Advanced contemplatives report *nirodha-samāpatti*—cessation of perception and feeling—as suspension of temporal experience. *Report*: not unconsciousness but awareness without temporal flow. *Interpretation*: if consciousness constitutes time through collapse involvement, withdrawing from collapse suspends time's passage.
+**Cessation states.** Advanced contemplatives report *nirodha-samāpatti*—cessation of perception and feeling—as awareness without temporal flow (not unconsciousness). *Interpretation*: if consciousness constitutes time through collapse involvement, withdrawing from collapse suspends time's passage.
 
-**Jhāna phenomenology.** Concentrative absorption shows systematic variation in temporal experience. First jhāna includes normal flow; higher jhānas report increasingly "timeless" quality. *Report*: progressive dissolution of temporal markers without loss of awareness. *Interpretation*: if the specious present reflects collapse-constitutive activity, reduced active selection should produce this sequence.
+**Jhāna phenomenology.** Concentrative absorption shows systematic variation in temporal experience—normal flow in first jhāna, increasingly "timeless" quality in higher jhānas. *Report*: progressive dissolution of temporal markers without loss of awareness. *Interpretation*: reduced active selection should produce exactly this sequence.
 
 **[[witness-consciousness|Witness consciousness]].** Vipassana and Dzogchen describe stable awareness *of* experience without participation *in* it. *Report*: observing thoughts arise and pass without choosing, with timeless-presence quality. *Interpretation*: suspended selection—consciousness present but not collapsing superpositions.
 

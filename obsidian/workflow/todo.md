@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review agency articles considering agent-causation concept page
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/agent-causation.md created via expand-topic. Review free-will.md, phenomenology-of-agency-vs-passivity.md, concept-of-free-will.md, and phenomenology-mechanism-bridge.md for cross-links and terminological consistency. The agent-causation page references luck objection, motor selection, and quantum indeterminacy — ensure these connections are bidirectional.
-- **Source**: chain (from agent-causation.md)
-- **Generated**: 2026-03-25
-
 ### P2: Cross-review reasoning articles considering cognitive phenomenology irreducibility
 - **Type**: cross-review
 - **Status**: pending
@@ -1367,6 +1360,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Cross-review agency articles considering agent-causation concept page
+- **Type**: cross-review
+- **Notes**: New concept page concepts/agent-causation.md created via expand-topic. Review free-will.md, phenomenology-of-agency-vs-passivity.md, concept-of-free-will.md, and phenomenology-mechanism-bridge.md for cross-links and terminological consistency. The agent-causation page references luck objection, motor selection, and quantum indeterminacy — ensure these connections are bidirectional.
+- **Output**: None -- Context: Cross-review agency articles considering agent-causation concept page
 
 ### ✓ 2026-03-25: Strengthen type/token causation argument in consciousness-and-integrated-information.md
 - **Type**: refine-draft

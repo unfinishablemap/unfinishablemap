@@ -5,6 +5,16 @@ ai_modified: 2026-03-25T10:14:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 11:13 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/time-collapse-and-agency]]
+- **Word count**: 3812 → 3824 (+12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (agent-causation integration, capitalization, frontmatter cross-link)
+- **Enhancements made**: 1 (substance-causation framework connection)
+- **Cross-review context**: [[concepts/agent-causation]]
+- **Output**: [[reviews/deep-review-2026-03-25-time-collapse-and-agency]]
+
 ## 2026-03-25 11:00 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-and-integrated-information]]
