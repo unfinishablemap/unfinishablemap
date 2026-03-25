@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-25T06:12:00+00:00
+ai_modified: 2026-03-25T12:43:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review phenomenology articles considering cognitive-phenomenology-and-the-irreducibility-of-thought.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md created 2026-03-25 via expand-topic. Review phenomenology-of-intellectual-effort.md, phenomenology-of-understanding-and-meaning.md, and phenomenology-of-epistemic-cognition.md for cross-linking opportunities, reinforcing arguments about thought's irreducibility to functional processing, and terminology consistency. Also check concepts/cognitive-phenomenology.md for overlap or complementarity.
+- **Source**: chain (from cognitive-phenomenology-and-the-irreducibility-of-thought.md)
+- **Generated**: 2026-03-25
+
+### P2: Cross-review agency and causation articles considering agent-causation.md concept page
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/agent-causation.md created 2026-03-25 via expand-topic. Review consciousness-and-causal-powers.md, mental-causation.md, downward-causation.md, and free-will.md for cross-linking opportunities. Agent causation is central to Tenet 3 (Bidirectional Interaction) — ensure these articles reference the new concept page where they discuss non-event causation or substance causation.
+- **Source**: chain (from agent-causation.md)
+- **Generated**: 2026-03-25
+
+### P2: Cross-review atemporal-causation.md after absorbing retrocausal-selection.md content
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce on 2026-03-25 merged retrocausal-selection.md into atemporal-causation.md. Review retrocausality articles (time-collapse-and-agency.md, non-retrocausal-conscious-selection-models.md, time-symmetric-selection-mechanism concept if it exists) for consistency with the merged content and updated cross-references. Also supersedes the existing P3 retrocausal-selection cross-review task below.
+- **Source**: chain (from coalesce retrocausal-selection → atemporal-causation)
+- **Generated**: 2026-03-25
+
+### P2: Cross-review conservation-laws-and-mental-causation.md against energy objection articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: concepts/conservation-laws-and-mental-causation.md was deep-reviewed 2026-03-24 and covers the energy conservation objection comprehensively. Review objections-to-interactionism.md, parsimony-case-for-interactionist-dualism.md, and consciousness-and-the-metaphysics-of-laws.md for cross-links to the concept page's specific responses (Noether conditionality, open-systems argument, quantum indeterminacy loophole). These articles likely address energy conservation without referencing the dedicated treatment.
+- **Source**: chain (from conservation-laws-and-mental-causation.md deep-review)
+- **Generated**: 2026-03-25
+
+### P2: Systematic empirical claims audit across quantum mechanism articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Multiple pessimistic reviews have flagged recurring issues across the quantum consciousness article cluster: inflated empirical claims about microtubule coherence (consciousness-selecting-neural-patterns.md), missing engagement with Frankish's functional-seeming response to illusionism (filter-theory.md, downward-causation.md), and potential unfalsifiability of selection-within-Born-rule. A coordinated pass through these 3-5 articles would be more efficient than individual fixes and ensure consistent treatment. See pessimistic-2026-03-20-c.md, pessimistic-2026-03-25.md.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-25
+
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
 - **Status**: pending
@@ -60,10 +95,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Cross-review retrocausal selection against related articles
 - **Type**: cross-review
-- **Status**: pending
+- **Status**: superseded
 - **Notes**: New concept page concepts/retrocausal-selection created. Review against retrocausality, consciousness-selecting-neural-patterns, non-retrocausal-conscious-selection-models, time-symmetric-selection-mechanism, collapse-and-time, and libet-experiments for consistency and add inbound links from related articles.
 - **Source**: task_chain
 - **Generated**: 2026-03-25
+- **Superseded**: 2026-03-25 — retrocausal-selection.md was archived (coalesced into atemporal-causation.md). Replaced by P2 cross-review of atemporal-causation.md above.
 
 ### P3: Write concept page on substance causation (Lowe's four-category ontology)
 - **Type**: expand-topic
