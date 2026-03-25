@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-03-24
-**Article**: [Consciousness-Collapse Versus Decoherence: The Experimental Landscape](/topics/consciousness-collapse-experimental-landscape/)
+**Article**: [Consciousness-Collapse Versus Decoherence: The Experimental Landscape](/topics/testing-consciousness-collapse/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

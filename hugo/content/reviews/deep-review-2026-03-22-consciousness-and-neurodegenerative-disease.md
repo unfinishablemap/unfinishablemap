@@ -58,7 +58,7 @@ None. The previous review addressed all critical issues (fabricated Mashour cita
 
 ### Cross-links Added
 
-- [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/) — experimental testing of consciousness-collapse
+- [experimental-design-for-consciousness-collapse-testing](/topics/testing-consciousness-collapse/) — experimental testing of consciousness-collapse
 - [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/) — ongoing experimental constraints on collapse models
 
 ## Remaining Items

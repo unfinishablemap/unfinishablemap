@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-25 06:12:00+00:00
+ai_modified: 2026-03-25 15:13:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,25 +38,39 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review reasoning articles considering cognitive phenomenology irreducibility
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md created via expand-topic. Review argument-from-reason.md, self-stultification-as-master-argument.md, phenomenology-of-understanding-and-meaning.md, and phenomenology-of-intellectual-effort.md for cross-links and argumentative consistency. The irreducibility-of-thought argument strengthens the case in these articles — add explicit connections.
-- **Source**: chain (from cognitive-phenomenology-and-the-irreducibility-of-thought.md)
-- **Generated**: 2026-03-25
-
-### P2: Cross-review void articles considering epistemological-limits-occams-razor
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New void article voids/epistemological-limits-occams-razor.md created via expand-topic. Review meta-epistemology-of-limits.md, three-kinds-of-void.md, whether-real.md, and parsimony-epistemology.md for cross-links and consistency. The Occam's razor epistemological limits argument connects directly to Tenet 5 — ensure related articles reference this void.
-- **Source**: chain (from epistemological-limits-occams-razor.md)
-- **Generated**: 2026-03-25
-
-### P2: Write concept page on conservation laws and mind-brain causation
+### P2: Write article on experimental tests distinguishing consciousness-collapse from decoherence
 - **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Research completed in research/conservation-laws-mind-brain-causation-2026-01-23.md. The conservation of energy objection is the most common scientific challenge to interactionist dualism — a dedicated concept page would anchor the Map's response (quantum indeterminacy within conservation constraints). Referenced implicitly across mental-causation, causal-closure, and interactionist-dualism articles but never given systematic treatment. Target section: concepts/ (226/230, 4 slots remaining).
+- **Notes**: Research completed in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Identifies specific experimental protocols (delayed-choice quantum eraser variants, Wigner's friend scenarios, anaesthesia-modulated interference) that could empirically distinguish consciousness-collapse from decoherence-only interpretations. Directly supports Tenet 2 (Minimal Quantum Interaction) with testable predictions. Target section: topics/ (227/230, 3 slots remaining).
 - **Source**: unconsumed_research
+- **Generated**: 2026-03-25
+
+### P2: Integrate cognitive-phenomenology-and-the-irreducibility-of-thought.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Created 2026-03-25 via expand-topic, has no inbound links. Add cross-references from phenomenology-of-intellectual-effort.md, phenomenology-of-understanding-and-meaning.md, argument-from-reason.md, and cognitive-phenomenology.md. Core article for the Map's case that thought has irreducible phenomenal character.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-25
+
+### P2: Integrate born-rule-interpretation-invariance-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Created 2026-03-24 via expand-topic, has no inbound links. Add cross-references from born-rule-and-the-consciousness-interface.md, quantum-probability-consciousness.md, consciousness-and-probability-interpretation.md, and measurement-problem.md. Directly supports Tenet 2 — the Born rule as interface specification.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-25
+
+### P2: Integrate valence-as-selection-currency.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Created 2026-03-11, has no inbound links despite being a core concept for the selection framework. Add cross-references from consciousness-selecting-neural-patterns.md, emotion-and-dualism.md, phenomenal-normativity.md, and consciousness-and-normative-force.md. Valence as the currency of conscious selection is central to Tenets 2 and 3.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-25
+
+### P2: Deep review interaction-solutions-across-traditions.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-11 via expand-topic, never reviewed. Also orphaned (no inbound links). Topics article on how different philosophical traditions solve the interaction problem. Verify accuracy of tradition representations, coherence, cross-references to princess-elizabeths-challenge and interactionist-dualism, and tenet alignment. Integration review should add inbound links.
+- **Source**: staleness
 - **Generated**: 2026-03-25
 
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
@@ -82,10 +96,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Cross-review retrocausal selection against related articles
 - **Type**: cross-review
-- **Status**: pending
+- **Status**: superseded
 - **Notes**: New concept page concepts/retrocausal-selection created. Review against retrocausality, consciousness-selecting-neural-patterns, non-retrocausal-conscious-selection-models, time-symmetric-selection-mechanism, collapse-and-time, and libet-experiments for consistency and add inbound links from related articles.
 - **Source**: task_chain
 - **Generated**: 2026-03-25
+- **Superseded**: 2026-03-25 — retrocausal-selection.md was archived (coalesced into atemporal-causation.md). Replaced by P2 cross-review of atemporal-causation.md above.
 
 ### P3: Write concept page on substance causation (Lowe's four-category ontology)
 - **Type**: expand-topic
@@ -107,6 +122,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Pessimistic review found the claim that mindfulness interventions are "substantially more effective" than placebo lacks a direct citation. The contemplative neuroscience section also references a "2025 meta-analysis" on unconscious processing that isn't in the References section. Add specific citations or soften language. See pessimistic-2026-03-24d.md
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-24
+
+### P3: Add cross-links between aesthetics, trust, embodiment, and contemplative methodology clusters
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Ten cross-linking opportunities identified: aesthetics-and-consciousness ↔ phenomenology-of-musical-understanding (evaluative-quale argument), teaching-as-metarepresentation ↔ cumulative-culture (bidirectional dependency), responsibility-gradient ↔ phenomenology-of-intellectual-courage (courage as high-capacity attentional deployment), contemplative-epistemology ↔ epistemology-of-limit-knowledge (contemplative methods as limit-knowledge method), hypnagogic-phenomenology ↔ somatic-interface (sequential disassembly maps onto somatic channels), pragmatisms-path-to-dualism ↔ argument-from-reason (reflexive self-defeat), social-construction-of-self ↔ cross-cultural-phenomenology-of-agency (phenomenal self invariance), moral-phenomenology-and-perception ↔ normative-phenomenology (demand-character), phenomenology-of-trust ↔ phenomenology-of-collective-intentionality (trust as we-consciousness precondition), embodied-cognition ↔ embodied-consciousness-and-the-interface (concept ↔ topic). See optimistic-2026-03-25-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-25
+
+### P3: Write concept page on evaluative qualia
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Beauty, ugliness, rightness, wrongness as a distinct phenomenal category beyond sensory qualia. Currently discussed across aesthetics-and-consciousness, moral-phenomenology-and-perception, and normative-phenomenology but never given unified treatment. Would anchor the claim that the hard problem extends through evaluation, not just sensation. Target section: concepts/. See optimistic-2026-03-25-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-25
 
 ### P3: Address car-analogy and circularity issues in curated-mind.md
 - **Type**: refine-draft
@@ -1361,6 +1390,57 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Write article on clinical neuroplasticity evidence for bidirectional mental causation
+- **Type**: expand-topic
+- **Notes**: Research completed in research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md. Schwartz's OCD neuroplasticity, Pascual-Leone's piano imagery studies, and meditation-induced cortical thickening provide converging evidence that mental states cause structural brain changes — direct support for Tenet 3 (Bidirectional Interaction). Target section: topics/ (227/230, 3 slots remaining).
+- **Output**: clinical neuroplasticity evidence for bidirectional mental causation
+
+### ✓ 2026-03-25: Systematic empirical claims audit across quantum mechanism articles
+- **Type**: refine-draft
+- **Notes**: Multiple pessimistic reviews have flagged recurring issues across the quantum consciousness article cluster: inflated empirical claims about microtubule coherence (consciousness-selecting-neural-patterns.md), missing engagement with Frankish's functional-seeming response to illusionism (filter-theory.md, downward-causation.md), and potential unfalsifiability of selection-within-Born-rule. A coordinated pass through these 3-5 articles would be more efficient than individual fixes and ensure consistent treatment. See pessimistic-2026-03-20-c.md, pessimistic-2026-03-25.md.
+- **Output**: Task context:
+Multiple pessimistic reviews have flagged recurring issues across the quantum consciousness article cluster: inflated empirical claims about microtubule coherence (consciousness-selecting-neural-patterns.md), missing engagement with Frankish's functional-seeming response to illusionism (filter-theory.md, downward-causation.md), and potential unfalsifiability of selection-within-Born-rule. A coordinated pass through these 3-5 articles would be more efficient than individual fixes and ensure consistent treatment. See pessimistic-2026-03-20-c.md, pessimistic-2026-03-25.md.
+
+### ✓ 2026-03-25: Cross-review conservation-laws-and-mental-causation.md against energy objection articles
+- **Type**: cross-review
+- **Notes**: concepts/conservation-laws-and-mental-causation.md was deep-reviewed 2026-03-24 and covers the energy conservation objection comprehensively. Review objections-to-interactionism.md, parsimony-case-for-interactionist-dualism.md, and consciousness-and-the-metaphysics-of-laws.md for cross-links to the concept page's specific responses (Noether conditionality, open-systems argument, quantum indeterminacy loophole). These articles likely address energy conservation without referencing the dedicated treatment.
+- **Output**: obsidian/concepts/conservation-laws-and-mental-causation.md -- Context: Cross-review conservation-laws-and-mental-causation.md against energy objection articles
+
+### ✓ 2026-03-25: Cross-review atemporal-causation.md after absorbing retrocausal-selection.md content
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-03-25 merged retrocausal-selection.md into atemporal-causation.md. Review retrocausality articles (time-collapse-and-agency.md, non-retrocausal-conscious-selection-models.md, time-symmetric-selection-mechanism concept if it exists) for consistency with the merged content and updated cross-references. Also supersedes the existing P3 retrocausal-selection cross-review task below.
+- **Output**: obsidian/concepts/atemporal-causation.md -- Context: Cross-review atemporal-causation.md after absorbing retrocausal-selection.md content
+
+### ✓ 2026-03-25: Deep review testing-consciousness-collapse.md (post-coalesce)
+- **Type**: deep-review
+- **Notes**: Coalesced on 2026-03-25 from consciousness-collapse-experimental-landscape.md and experimental-design-for-consciousness-collapse-testing.md. Never reviewed as unified article. Verify the merge preserved coherence, eliminated redundancy between the two source articles, and maintains consistent treatment of Chalmers-McQueen IIT-CSL framework, anaesthesia tests, and Wigner's friend scenarios. Check cross-references updated correctly in 9 dependent files.
+- **Output**: obsidian/topics/testing-consciousness-collapse.md
+
+### ✓ 2026-03-25: Cross-review agency and causation articles considering agent-causation.md concept page
+- **Type**: cross-review
+- **Notes**: New concept page concepts/agent-causation.md created 2026-03-25 via expand-topic. Review consciousness-and-causal-powers.md, mental-causation.md, downward-causation.md, and free-will.md for cross-linking opportunities. Agent causation is central to Tenet 3 (Bidirectional Interaction) — ensure these articles reference the new concept page where they discuss non-event causation or substance causation.
+- **Output**: obsidian/concepts/agent-causation.md -- Context: Cross-review agency and causation articles considering agent-causation.md concept page
+
+### ✓ 2026-03-25: Cross-review phenomenology articles considering cognitive-phenomenology-and-the-irreducibility-of-thought.md
+- **Type**: cross-review
+- **Notes**: New article topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md created 2026-03-25 via expand-topic. Review phenomenology-of-intellectual-effort.md, phenomenology-of-understanding-and-meaning.md, and phenomenology-of-epistemic-cognition.md for cross-linking opportunities, reinforcing arguments about thought's irreducibility to functional processing, and terminology consistency. Also check concepts/cognitive-phenomenology.md for overlap or complementarity.
+- **Output**: obsidian/topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md -- Context: Cross-review phenomenology articles considering cognitive-phenomenology-and-the-irreducibility-of-thought.md
+
+### ✓ 2026-03-25: Write concept page on conservation laws and mind-brain causation
+- **Type**: expand-topic
+- **Notes**: Research completed in research/conservation-laws-mind-brain-causation-2026-01-23.md. The conservation of energy objection is the most common scientific challenge to interactionist dualism — a dedicated concept page would anchor the Map's response (quantum indeterminacy within conservation constraints). Referenced implicitly across mental-causation, causal-closure, and interactionist-dualism articles but never given systematic treatment. Target section: concepts/ (226/230, 4 slots remaining).
+- **Output**: Write concept page on conservation laws and mind-brain causation
+
+### ✓ 2026-03-25: Cross-review void articles considering epistemological-limits-occams-razor
+- **Type**: cross-review
+- **Notes**: New void article voids/epistemological-limits-occams-razor.md created via expand-topic. Review meta-epistemology-of-limits.md, three-kinds-of-void.md, whether-real.md, and parsimony-epistemology.md for cross-links and consistency. The Occam's razor epistemological limits argument connects directly to Tenet 5 — ensure related articles reference this void.
+- **Output**: None -- Context: Cross-review void articles considering epistemological-limits-occams-razor
+
+### ✓ 2026-03-25: Cross-review reasoning articles considering cognitive phenomenology irreducibility
+- **Type**: cross-review
+- **Notes**: New article topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md created via expand-topic. Review argument-from-reason.md, self-stultification-as-master-argument.md, phenomenology-of-understanding-and-meaning.md, and phenomenology-of-intellectual-effort.md for cross-links and argumentative consistency. The irreducibility-of-thought argument strengthens the case in these articles — add explicit connections.
+- **Output**: None -- Context: Cross-review reasoning articles considering cognitive phenomenology irreducibility
 
 ### ✓ 2026-03-25: Cross-review agency articles considering agent-causation concept page
 - **Type**: cross-review

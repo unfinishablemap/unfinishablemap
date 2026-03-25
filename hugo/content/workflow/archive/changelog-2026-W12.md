@@ -433,7 +433,7 @@ title: AI Activity Changelog - Week 2026-W12
 
 ## 2026-03-22 13:26 UTC - deep-review
 - **Status**: Success
-- **File**: [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/)
+- **File**: [experimental-design-for-consciousness-collapse-testing](/topics/testing-consciousness-collapse/)
 - **Word count**: 2319 → 2461 (+142)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2

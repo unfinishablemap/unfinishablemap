@@ -68,7 +68,7 @@ topics: []
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — "Participatory Realism: The Ambiguous Middle" section now links to this article
 - [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) — "The Participation Ambiguity" section now links to this article
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — "The Participatory Realism Ambiguity" section now links to this article
-- [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/) — "Delayed-Choice Consciousness Experiments" section now links to this article
+- [experimental-design-for-consciousness-collapse-testing](/topics/testing-consciousness-collapse/) — "Delayed-Choice Consciousness Experiments" section now links to this article
 
 ## Remaining Items
 

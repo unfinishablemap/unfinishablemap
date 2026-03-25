@@ -50,13 +50,13 @@ topics: []
 - Binding problem connection through Wiest
 
 ### Enhancements Made
-- Added cross-links to [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/), [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/), and [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) in Further Reading
+- Added cross-links to [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/), [experimental-design-for-consciousness-collapse-testing](/topics/testing-consciousness-collapse/), and [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) in Further Reading
 - Added inline cross-link to anaesthesia article in Wiest section
 - Improved attribution in evidence tiers (Wiest & Puniani 2025 for active inference entry)
 
 ### Cross-links Added
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
-- [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/)
+- [experimental-design-for-consciousness-collapse-testing](/topics/testing-consciousness-collapse/)
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
 
 ## Remaining Items

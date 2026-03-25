@@ -40,7 +40,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Consciousness-collapse and decoherence-only interpretations agree on nearly every experimental outcome currently accessible. This near-perfect overlap is why the debate persists — not because the theories are indistinguishable in principle, but because the points of divergence lie at the edges of experimental reach. The Unfinishable Map's companion articles survey the [conceptual obstacles](/topics/experimental-design-for-consciousness-collapse-testing/) to testing and the [current experimental landscape](/topics/consciousness-collapse-experimental-landscape/). This article does something different: it catalogs the specific empirical signatures where the two frameworks make distinct predictions, so that each can be evaluated as experiments advance.
+Consciousness-collapse and decoherence-only interpretations agree on nearly every experimental outcome currently accessible. This near-perfect overlap is why the debate persists — not because the theories are indistinguishable in principle, but because the points of divergence lie at the edges of experimental reach. The Unfinishable Map's companion articles survey the [conceptual obstacles](/topics/testing-consciousness-collapse/) to testing and the [current experimental landscape](/topics/consciousness-collapse-experimental-landscape/). This article does something different: it catalogs the specific empirical signatures where the two frameworks make distinct predictions, so that each can be evaluated as experiments advance.
 
 Five differential predictions emerge from the literature. Some are already under experimental investigation. Others require technology that does not yet exist. All are concrete enough that a result in either direction would shift the evidential balance.
 
@@ -106,7 +106,7 @@ If consciousness participates in collapse, suppressing consciousness pharmacolog
 
 **What a negative result means:** Collapse dynamics are unchanged by anaesthesia. This is consistent with purely physical collapse and counts against consciousness-specific participation — though the Map's Minimal Quantum Interaction tenet predicts effects that may fall below current measurement sensitivity.
 
-**Current status:** No experiment has attempted this. The predicted effect size is unknown. Anaesthesia alters brain dynamics sufficiently that attributing any observed difference specifically to the absence of consciousness (rather than changed physical conditions) faces the same [confound of embodiment](/topics/experimental-design-for-consciousness-collapse-testing/) that all consciousness-collapse tests encounter.
+**Current status:** No experiment has attempted this. The predicted effect size is unknown. Anaesthesia alters brain dynamics sufficiently that attributing any observed difference specifically to the absence of consciousness (rather than changed physical conditions) faces the same [confound of embodiment](/topics/testing-consciousness-collapse/) that all consciousness-collapse tests encounter.
 
 ## The Evidential Asymmetry
 
@@ -124,7 +124,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses a predict
 
 ## Further Reading
 
-- [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/) — The conceptual obstacles to designing consciousness-collapse experiments
+- [experimental-design-for-consciousness-collapse-testing](/topics/testing-consciousness-collapse/) — The conceptual obstacles to designing consciousness-collapse experiments
 - [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/) — The current experimental landscape and parameter constraints
 - [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/) — Why the Born rule's resistance to derivation matters for collapse theories
 - [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/) — How far superposition has been pushed experimentally

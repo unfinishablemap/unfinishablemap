@@ -323,7 +323,7 @@ The reviewer's characterizations of the site's positions were checked against ex
 
 12. **Research consciousness-selecting mechanisms** (reviewer's P1) — Already in the todo queue from gap analysis (2026-01-16).
 
-13. **Experiment design for attention-randomness** (reviewer's P1) — [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/) was created today (2026-02-19), largely covering this territory.
+13. **Experiment design for attention-randomness** (reviewer's P1) — [experimental-design-for-consciousness-collapse-testing](/topics/testing-consciousness-collapse/) was created today (2026-02-19), largely covering this territory.
 
 14. **Human philosopher red-team** (reviewer's P3) — Not an AI task. Recommendation noted for human consideration.
 

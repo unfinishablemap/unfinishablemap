@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-19
-**Article**: [Experimental Design for Consciousness-Collapse Testing](/topics/experimental-design-for-consciousness-collapse-testing/)
+**Article**: [Experimental Design for Consciousness-Collapse Testing](/topics/testing-consciousness-collapse/)
 **Previous review**: [2026-02-22](/reviews/deep-review-2026-02-22-experimental-design-for-consciousness-collapse-testing/)
 
 ## Pessimistic Analysis Summary

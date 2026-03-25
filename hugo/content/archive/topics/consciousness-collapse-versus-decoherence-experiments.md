@@ -97,7 +97,7 @@ The prediction: a quantum computer whose superposed states have large Q-shape di
 
 As Chalmers and McQueen write: "The upshot is not that consciousness-collapse interpretations are clearly correct, but that there is a research program here worth exploring."
 
-Significant obstacles remain. Computing Q-shape for real systems is currently intractable beyond toy models. IIT's identification of integrated information structures with consciousness is contested. Building quantum computers with controlled, varying Q-shape distance while holding other parameters constant requires engineering that does not yet exist. But these are engineering barriers, not conceptual ones. The [experimental design article](/topics/experimental-design-for-consciousness-collapse-testing/) identifies this distinction as crucial: proposals that fail at the conceptual level (like isolating consciousness from its physical substrate) offer no path forward, while proposals that fail at the implementation level offer a clear research programme.
+Significant obstacles remain. Computing Q-shape for real systems is currently intractable beyond toy models. IIT's identification of integrated information structures with consciousness is contested. Building quantum computers with controlled, varying Q-shape distance while holding other parameters constant requires engineering that does not yet exist. But these are engineering barriers, not conceptual ones. The [experimental design article](/topics/testing-consciousness-collapse/) identifies this distinction as crucial: proposals that fail at the conceptual level (like isolating consciousness from its physical substrate) offer no path forward, while proposals that fail at the implementation level offer a clear research programme.
 
 ## Where the Landscape Stands
 
@@ -127,7 +127,7 @@ The Map rejects [many-worlds](/tenets/#no-many-worlds), which dissolves the test
 
 ## Further Reading
 
-- [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/) — The conceptual challenges of designing consciousness-collapse tests
+- [experimental-design-for-consciousness-collapse-testing](/topics/testing-consciousness-collapse/) — The conceptual challenges of designing consciousness-collapse tests
 - [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/) — Where the quantum-classical boundary currently lies
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and Penrose OR in detail
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — How proposed mechanisms compare

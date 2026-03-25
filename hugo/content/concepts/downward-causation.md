@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-22 20:02:00+00:00
+ai_modified: 2026-03-25 14:58:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -88,7 +88,7 @@ The Map provides what O'Connor-Wong's emergentism lacks: a mechanism for downwar
 
 Classical physics was deterministic—every physical event had sufficient physical causes, leaving no opening for higher-level causation. But quantum mechanics is fundamentally indeterministic. The Schrödinger equation governs continuous evolution, but measurement outcomes are probabilistic. Physics specifies which outcomes *might* occur and with what probability, but not *which* outcome actualises.
 
-This is precisely the opening downward causation requires. Kim's argument depends on physical causes being *sufficient*—if they're merely necessary, there's room for other causal factors. At quantum indeterminacies, physics provides necessary but not sufficient causes. The probabilities constrain but don't determine.
+This is the kind of opening downward causation requires. Kim's argument depends on physical causes being *sufficient*—if they're merely necessary, there's room for other causal factors. At quantum indeterminacies, physics provides necessary but not sufficient causes. The probabilities constrain but don't determine.
 
 ### The Minimal Quantum Interaction Mechanism
 
@@ -112,7 +112,7 @@ Several responses are available, though none fully resolves the gap:
 
 **Revised coherence estimates**: Recent calculations incorporating biological protective mechanisms (Fröhlich coherence, hydrophobic interiors, nuclear spin isolation) extend coherence estimates by many orders of magnitude. Hameroff's group found seven orders of magnitude longer than Tegmark's estimate, reaching 10^-5 to 10^-4 seconds. This still leaves three orders of magnitude between coherence timescales and neural decisions (~300ms)—reduced but not eliminated.
 
-**The discrete observation alternative**: Stapp's quantum Zeno mechanism may sidestep the sustained coherence requirement entirely. If consciousness operates through discrete observation cycles rather than maintained superposition—rapid repeated "probing actions" that each reset the quantum state—the relevant question shifts from "can coherence survive?" to "can observation cycles operate fast enough?" If decoherence occurs at microseconds and observations at milliseconds, approximately 1000 observations per 300ms attentional window might suffice to bias outcomes cumulatively. This mechanism doesn't require consciousness to track femtosecond processes directly.
+**The discrete observation alternative**: Stapp's quantum Zeno mechanism may sidestep the sustained coherence requirement entirely. If consciousness operates through discrete observation cycles rather than maintained superposition—rapid repeated "probing actions" that each reset the quantum state—the relevant question shifts from "can coherence survive?" to "can observation cycles operate fast enough?" This reframing is a research direction, not a proposed solution. The precise number, rate, and physical implementation of such observation cycles remains entirely unspecified. What bridges the gap between millisecond-timescale attention and the rapid observations the Zeno mechanism requires? One possibility is that sustained attention sets boundary conditions that neural mechanisms implement at faster timescales—but this remains speculative, and the gap between the proposal and physical reality spans several orders of magnitude with no detailed bridge.
 
 **Outcome selection persists**: [decoherence](/concepts/decoherence/) doesn't eliminate quantum indeterminacy—it explains why interference effects wash out, but outcomes still require determination. The problem of which outcome actualises remains open even after decoherence—something must select which possibility becomes actual.
 
@@ -154,9 +154,11 @@ The Map defends *strong* downward causation. The Dualism tenet holds consciousne
 
 ## The Illusionist Challenge
 
-[illusionism](/concepts/illusionism/) poses a radical challenge: if phenomenal consciousness is an illusion, there's nothing non-physical to exercise downward causation. But illusionism faces a regress—to be under an illusion that consciousness exists requires *something it is like* to have that mistaken representation. As Raymond Tallis notes: "Misrepresentation presupposes presentation."
+[illusionism](/concepts/illusionism/) poses a radical challenge: if phenomenal consciousness is an illusion, there's nothing non-physical to exercise downward causation. The standard response invokes a regress: to be under an illusion that consciousness exists requires *something it is like* to have that mistaken representation. As Raymond Tallis notes: "Misrepresentation presupposes presentation."
 
-The illusionist trades the hard problem for an equally hard "illusion problem." Whatever produces our "illusion" must influence our verbal reports. If that production is purely physical, reports should be about neural states, not phenomenal properties. If something non-physical shapes report content, that's downward causation.
+Frankish (2016) explicitly addresses this regress: the "seeming" is a functional state, not a phenomenal one—a representation can misrepresent without phenomenal experience. The [consciousness-selecting article](/concepts/consciousness-selecting-neural-patterns/#the-illusionist-challenge) engages this reply in detail, arguing that self-directed representations ("I am phenomenally conscious") face a distinctive burden that external misrepresentations do not.
+
+For downward causation specifically, the illusionist challenge has an additional dimension: whatever produces our "illusion" of consciousness must influence our verbal reports about it. If that production is purely physical, reports should be about neural states, not phenomenal properties. If something non-physical shapes report content, that's downward causation. The regress argument is not decisive—Frankish's functional-seeming response is a serious position—but it establishes that illusionism faces its own explanatory burden at least as demanding as the hard problem.
 
 ## What Would Challenge This View?
 
@@ -170,7 +172,7 @@ Downward causation, as defended here, is falsifiable. Findings that would underm
 
 **Successful illusionist explanation**: If a fully satisfying account emerged explaining why we *seem* to have phenomenal experiences without any phenomenal properties existing—one that doesn't invoke seeming to something—this would dissolve the motivation for downward causation. Current illusionist proposals face the regress problem, but a proposal that genuinely avoided it would challenge the Map's position.
 
-**Violations of Born rule probabilities**: If quantum experiments showed no deviations from standard probabilistic predictions even under conditions where consciousness should bias outcomes, this would constrain the mechanism's strength. Current experimental precision may be insufficient to detect the effects, but persistent null results would accumulate as evidence against the view.
+**The falsifiability dilemma**: The framework claims consciousness selects among outcomes *within* Born rule probabilities. If so, selection is empirically invisible at the quantum level—no experiment measuring outcome distributions could detect it. This means falsifiability must come from the framework's other commitments: the existence of neural quantum effects on relevant timescales, the correlation between attention and quantum processes, and the phenomenology of selection itself. The Chalmers-McQueen prediction that collapse rates depend on integrated information offers the strongest path to direct testability. The Map should acknowledge that "selection within Born probabilities" is a metaphysical interpretation, not a testable physical prediction—its attractiveness depends on independent philosophical arguments for mental causation (see [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/#the-falsifiability-dilemma)).
 
 ## Relation to the Map's Perspective
 
@@ -218,4 +220,20 @@ Kim's exclusion argument remains the primary challenge to mental causation. But 
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
+1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Yablo, S. (1992). Mental Causation. *Philosophical Review*, 101: 245-280.
+
+<!-- AI REFINEMENT LOG - 2026-03-25
+Changes made:
+- Engaged Frankish's functional-seeming response in illusionism section (cross-references consciousness-selecting article)
+- Replaced "Violations of Born rule probabilities" with "The falsifiability dilemma" — explicitly addresses the tension between selection-within-Born-rule and testability
+- Removed unjustified "1000 observations per 300ms" estimate from discrete observation section
+- Reframed discrete observation alternative as research direction, not proposed solution
+- Softened "precisely the opening" to "the kind of opening"
+- Added Frankish (2016) to references
+
+Coordinated with consciousness-selecting-neural-patterns.md and filter-theory.md per pessimistic-2026-03-20-c.md.
+Key improvements: Honest falsifiability analysis, engagement with illusionist dialectic, removed unjustified numerical estimate.
+
+This log should be removed after human review.
+-->

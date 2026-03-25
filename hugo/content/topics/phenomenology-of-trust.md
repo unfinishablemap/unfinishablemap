@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-25 01:40:00+00:00
+ai_modified: 2026-03-25 14:13:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Trust has a distinctive felt character that information processing 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-04 08:23:00+00:00
+last_deep_review: 2026-03-25 14:13:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -38,13 +38,14 @@ topics:
 - '[[phenomenology-of-epistemic-cognition]]'
 - '[[phenomenology-of-deliberation-under-uncertainty]]'
 - '[[consciousness-and-testimony]]'
+- '[[consciousness-and-intersubjectivity]]'
 ---
 
 Trust involves a distinctive phenomenal state — a felt openness toward another consciousness that goes beyond probability estimates about their future behaviour. The Unfinishable Map argues that genuine trust requires phenomenal consciousness because it depends on experiencing another being as a subject, not merely predicting them as an object. This matters for the consciousness debate because trust reveals a domain of human experience where the gap between functional processing and felt reality is particularly stark: a machine could optimise cooperation with another agent without anything it is like to trust that agent.
 
 ## The Felt Character of Trust
 
-Trust has a phenomenology — a what-it-is-like — that resists capture in purely behavioural or computational terms. Annette Baier's influential analysis (1986) identified trust as accepted vulnerability to another's possible ill will — a characterisation that foregrounds the felt dimension. Karen Jones (1996) went further, arguing that trust is an affective attitude of optimism about the other's goodwill, irreducible to a cognitive assessment of reliability. Both accounts point toward what the Map emphasises: trust involves a distinctive conscious orientation toward another subject, not merely a calibrated expectation.
+Trust has a phenomenology — a what-it-is-like — that resists capture in purely behavioural or computational terms. Annette Baier's influential analysis (1986) identified trust as accepted vulnerability to another's possible ill will — a characterisation that foregrounds the felt dimension. Karen Jones (1996) went further, arguing that trust is an affective attitude of optimism about the other's goodwill, irreducible to a cognitive assessment of reliability. Richard Holton (1994) reinforced this distinction by arguing that trust is not a species of belief but a distinctive practical attitude — you can decide to trust someone in a way you cannot decide to believe something, which already hints at trust's connection to conscious agency. All three accounts point toward what the Map emphasises: trust involves a distinctive conscious orientation toward another subject, not merely a calibrated expectation.
 
 Consider the difference between relying on a bridge and trusting a friend. Both involve acting on the expectation that something will hold. But relying on the bridge involves no felt vulnerability toward the bridge, no sense that the bridge might choose to betray you, no gratitude when it bears your weight. Trusting a friend involves all of these. The phenomenal difference is not a matter of degree but of kind: trust toward a conscious being has an interpersonal texture absent from reliance on a mechanism.
 
@@ -58,7 +59,7 @@ Trust sits at the heart of the [problem of other minds](/concepts/problem-of-oth
 
 This creates a distinctive epistemic situation. You can never have direct access to another person's intentions. The [intersubjective void](/voids/intersubjective-void/) — the unchartable gap between your consciousness and theirs — means that trust always operates across an abyss. You experience this abyss phenomenologically: the slight vertigo of depending on someone whose inner life you cannot directly inspect, the felt leap involved in proceeding as though their commitments are genuine.
 
-The Map's dualist framework illuminates why this abyss exists. If consciousness is irreducible to physical processes, then another person's inner life is not merely practically inaccessible (because we lack the right instruments) but constitutively so: there is something about first-person experience that cannot be read off any third-person description, no matter how complete. Trust, then, is the practice of acting across this constitutive gap. It is one of the ways consciousness copes with its own irreducibility in the social domain.
+The Map's dualist framework illuminates why this abyss exists. If consciousness is irreducible to physical processes, then another person's inner life is not merely practically inaccessible (because we lack the right instruments) but constitutively so: there is something about first-person experience that cannot be read off any third-person description, no matter how complete. The [constitutive structure of intersubjectivity](/topics/consciousness-and-intersubjectivity/) — how minds relate to one another at all — shapes what trust can and cannot be. Trust, then, is the practice of acting across this constitutive gap. It is one of the ways consciousness copes with its own irreducibility in the social domain.
 
 Compare this with how a sophisticated AI system might handle cooperation. Such a system could build detailed models of another agent's likely behaviour, assign probabilities to different outcomes, and optimise its strategy accordingly. It might even adjust its behaviour in ways functionally identical to trust. But nothing in this process requires experiencing the other agent as a subject. The functional analogue of trust — cooperative strategy under uncertainty — lacks the felt dimension that makes human trust what it is.
 
@@ -128,6 +129,7 @@ The [limits of Occam's Razor](/tenets/#occams-limits) (Tenet 5) caution against 
 - [machine-consciousness](/topics/machine-consciousness/)
 - [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/)
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/)
+- [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/)
 
 ## References
 

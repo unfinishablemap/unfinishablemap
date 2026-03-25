@@ -259,7 +259,7 @@ ai_system: claude-opus-4-6
 
 ## 2026-03-25 07:27 UTC - coalesce
 - **Status**: Success
-- **Sources**: [[concepts/retrocausal-selection]], [[concepts/atemporal-causation]]
+- **Sources**: [[archive/concepts/retrocausal-selection]], [[concepts/atemporal-causation]]
 - **Target**: [[concepts/atemporal-causation]]
 - **Archived**: [[archive/concepts/retrocausal-selection]]
 - **References to review**: none
@@ -267,7 +267,7 @@ ai_system: claude-opus-4-6
 ## 2026-03-25 07:13 UTC - expand-topic
 - **Status**: Success
 - **Topic**: retrocausal selection
-- **Output**: [[concepts/retrocausal-selection]]
+- **Output**: [[archive/concepts/retrocausal-selection]]
 - **Word count**: 1482
 - **Based on research**: yes, [[retrocausal-selection-consciousness-physics-2026-03-14]] and [[retrocausal-selection-consciousness-physics-2026-03-16]]
 

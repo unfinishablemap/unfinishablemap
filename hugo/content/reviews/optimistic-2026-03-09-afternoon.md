@@ -101,7 +101,7 @@ The Map practices epistemic humility without surrendering to it. [selection-laws
 ### Medium Priority
 
 #### Testable Predictions of the Framework
-- **Builds on**: [selection-laws](/concepts/psychophysical-laws/), [downward-causation](/concepts/downward-causation/), [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/)
+- **Builds on**: [selection-laws](/concepts/psychophysical-laws/), [downward-causation](/concepts/downward-causation/), [experimental-design-for-consciousness-collapse-testing](/topics/testing-consciousness-collapse/)
 - **Would address**: Multiple articles identify "what would challenge this view" individually. A unified article surveying concrete experiments that could falsify major claims would strengthen the Map's scientific credibility
 - **Estimated scope**: Long article (2000-3000 words)
 - **Tenet alignment**: All five tenets—each generates specific testable predictions

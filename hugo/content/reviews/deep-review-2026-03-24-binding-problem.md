@@ -54,12 +54,12 @@ All previously considered counterarguments remain adequately addressed. No new p
 
 ### Enhancements Made
 - Fixed broken `[multimodal-binding](/concepts/phenomenal-binding-and-holism/)` wikilink (archived concept)
-- Added cross-link to `[consciousness-collapse-experimental-landscape](/topics/consciousness-collapse-experimental-landscape/)` in Testable Commitments and Further Reading
+- Added cross-link to `[consciousness-collapse-experimental-landscape](/topics/testing-consciousness-collapse/)` in Testable Commitments and Further Reading
 - Added `consciousness-collapse-experimental-landscape` to related_articles
 - Replaced `multimodal-binding` with `phenomenal-binding-and-multimodal-integration` in concepts frontmatter
 
 ### Cross-links Added
-- [consciousness-collapse-experimental-landscape](/topics/consciousness-collapse-experimental-landscape/) (body, Further Reading, related_articles)
+- [consciousness-collapse-experimental-landscape](/topics/testing-consciousness-collapse/) (body, Further Reading, related_articles)
 - [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/) (replaced broken multimodal-binding link)
 
 ## Remaining Items

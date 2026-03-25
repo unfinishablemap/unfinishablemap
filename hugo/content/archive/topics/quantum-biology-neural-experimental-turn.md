@@ -147,7 +147,7 @@ The 2025-2026 experimental developments connect to the Map's [tenets](/tenets/) 
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum approaches to consciousness including Orch OR
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — How quantum measurement connects to consciousness theories
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Anaesthesia as a window into consciousness mechanisms
-- [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/) — Designing experiments to test consciousness-collapse hypotheses
+- [experimental-design-for-consciousness-collapse-testing](/topics/testing-consciousness-collapse/) — Designing experiments to test consciousness-collapse hypotheses
 - [measurement-problem](/concepts/measurement-problem/) — Why quantum mechanics leaves outcomes undetermined
 - [tenets](/tenets/) — The Map's foundational commitments
 

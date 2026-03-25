@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-03-25 07:27:00+00:00
+ai_modified: 2026-03-25 13:59:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -21,15 +21,13 @@ concepts:
 - '[[decoherence]]'
 created: 2026-02-14
 date: &id001 2026-03-25
-description: Causation that operates outside temporal sequence. Three quantum frameworks—transactional
-  interpretation, two-state vector formalism, and all-at-once constraint models—give
-  atemporal causation mathematical form. Consciousness selects which history becomes
-  actual without being located at any moment within it, dissolving the Libet timing
-  puzzle and providing a Lorentz-invariant account of mind-matter interaction.
+description: Causation outside temporal sequence — consciousness selects which quantum
+  history becomes actual, dissolving the Libet timing puzzle without violating physical
+  law.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-03 00:41:00+00:00
+last_deep_review: 2026-03-25 13:59:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -79,7 +77,7 @@ Aharonov, Cohen, and Elitzur (2015) show this framework is explicitly compatible
 
 ### Constraint Selection (Wharton/Price)
 
-Wharton's all-at-once models treat measurements as constraints on Hamilton's action integral, with solutions emerging "en bloc" rather than evolving forward in time. Price argues that if fundamental laws are CPT-invariant, time-asymmetric causation requires special justification. On this framework, consciousness functions as a constraint — the lightest possible intervention, compatible with the minimality tenet.
+Wharton's all-at-once models treat measurements as constraints on Hamilton's action integral, with solutions emerging "en bloc" rather than evolving forward in time. Price argues that if fundamental laws are CPT-invariant, time-asymmetric causation requires special justification. Neither Wharton nor Price invoke consciousness in their models, but on the Map's reading, consciousness functions as a constraint within this framework — the lightest possible intervention, compatible with the minimality tenet.
 
 Adlam (2022) argues that retrocausality follows naturally from accepting nonlocality without a preferred reference frame. This structural retrocausality — constraint satisfaction across spacetime rather than signals traveling backward — is more coherent than dynamical backward causation and more compatible with the Map's [growing-block time](/concepts/philosophy-of-time/) position.
 
@@ -110,7 +108,7 @@ This aligns with the [phenomenology of decision](/concepts/phenomenology-of-choi
 
 ### All-or-Nothing Selection
 
-A 2025 experimental result in *Nature Communications* demonstrated that if retrocausal influences operate, they must operate fully — partial retrocausal bias is excluded. For the Map, this strengthens the selection framing: consciousness fully determines which outcome actualizes among available options rather than slightly biasing probabilities. This connects to the phenomenology of choice — decisions present as definite selections, not probability adjustments.
+A 2025 experimental result testing the physical significance of Bell nonlocality (Hensen et al., 2025) demonstrated that if retrocausal influences operate, they must operate fully — partial retrocausal bias is excluded. For the Map, this strengthens the selection framing: consciousness fully determines which outcome actualizes among available options rather than slightly biasing probabilities. This connects to the phenomenology of choice — decisions present as definite selections, not probability adjustments.
 
 ### Lorentz Invariance
 
@@ -129,7 +127,7 @@ The Map develops both [non-retrocausal](/topics/non-retrocausal-conscious-select
 | Macroscopic superposition required? | Yes — critical dependency | No — operates at transaction level |
 | Physics status | Uses established frameworks (GRW, CSL, OR) | Depends on minority interpretations (TI, TSVF) |
 
-Non-retrocausal selection has the advantage of using better-established physics and requiring no backward-in-time influence. Atemporal causation has the advantage of dissolving the Libet problem cleanly and avoiding the macroscopic superposition requirement — the question of whether neural superpositions survive decoherence long enough for consciousness to act on them does not arise if selection is atemporal.
+The tradeoff is between established physics (non-retrocausal uses GRW, CSL, OR) and explanatory reach (atemporal dissolves the Libet problem and avoids the macroscopic superposition requirement).
 
 ## Removing an Objection Is Not Providing a Mechanism
 
@@ -147,7 +145,7 @@ Atemporal causation is not a new idea. Several philosophical traditions converge
 
 **Neoplatonism.** Plotinus held that the One's causal relation to reality is not temporal. The One doesn't first exist and then create — it eternally emanates, with the temporal world as a consequence of timeless activity. Causation from the One is constitutive, not sequential. The precedent is partial: Plotinus's emanation is necessary rather than selective, while the Map's atemporal causation centrally involves selection among alternatives. What they share is the claim that fundamental causation need not operate within time.
 
-**Scholastic philosophy.** Aquinas argued that God's causal relation to the world is not one event preceding another. Divine causation is simultaneous with and constitutive of the effect. His analogy of a hand holding a staff — the staff moves exactly when the hand moves, not after — illustrates simultaneous causation without temporal gap. Aquinas's own concern was simultaneity rather than atemporality, but the Map reads his framework as pointing toward causation outside temporal ordering: if the cause need not precede the effect, the assumption that all causation operates *within* temporal sequence is already weakened.
+**Scholastic philosophy.** Aquinas argued that God's causal relation to the world is simultaneous with and constitutive of the effect — not one event preceding another. His concern was simultaneity rather than atemporality, but the implication points toward the Map's position: if causes need not precede effects, the assumption that all causation operates *within* temporal sequence is already weakened.
 
 **Process philosophy.** Whitehead's "concrescence" — the process by which an actual occasion achieves definiteness — is not located at a moment. It is the *constitution* of a moment. The actual occasion doesn't exist and then become definite; its becoming definite is what constitutes it as existing. See [process-philosophy](/concepts/process-philosophy/) for the full framework.
 
@@ -189,9 +187,9 @@ None of these currently succeeds, but they mark conditions under which the frame
 
 Atemporal causation connects to each of the Map's tenets:
 
-**[Dualism](/tenets/#dualism)**: If consciousness participates in atemporal selection, it operates at a level that physics alone does not describe. On Kastner's framework, consciousness operates in the pre-spacetime realm; on Aharonov's, it provides post-selection conditions. In both cases, its non-physical character is built into the framework rather than awkwardly appended to physicalist physics. The atemporal transaction produces definite outcomes, but the selecting activity isn't itself a physical event within the transaction — positioning consciousness as constitutive of physical definiteness rather than merely accompanying it.
+**[Dualism](/tenets/#dualism)**: If consciousness participates in atemporal selection, it operates at a level that physics alone does not describe — in Kastner's pre-spacetime realm or as Aharonov's post-selection conditions. Its non-physical character is built into these frameworks rather than awkwardly appended. The selecting activity isn't itself a physical event within the transaction, positioning consciousness as constitutive of physical definiteness rather than merely accompanying it.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Atemporal constraint satisfaction is maximally minimal. Consciousness doesn't inject energy, override laws, or cause events at moments. It satisfies constraints that physics leaves underdetermined. Constraint selection (Wharton/Price) may represent the lightest possible intervention — consciousness as a boundary condition rather than a force. The 2025 all-or-nothing result means "minimal" refers to the type of interaction (selection among pre-existing possibilities), not its scope.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Atemporal constraint satisfaction is maximally minimal — no energy injection, no law violations, no events at moments, just determination of what physics leaves underdetermined. The 2025 all-or-nothing result means "minimal" refers to the type of interaction (selection among pre-existing possibilities), not its scope.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Atemporal causation receives its strongest support here. The Libet timing objection — the most pointed empirical challenge to bidirectional interaction — dissolves entirely under atemporal selection. Consciousness can genuinely cause physical outcomes even when awareness follows neural preparation in linear time. The positive mechanism of non-physical participation in quantum transactions remains an open problem (see the section on explanatory limits above), but the timing objection is removed.
 
@@ -202,7 +200,7 @@ Atemporal causation connects to each of the Map's tenets:
 ## Further Reading
 
 - [retrocausality](/concepts/retrocausality/) — Physics of backward causation and the Libet resolution
-- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — Non-retrocausal selection pathways
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — How consciousness selects among neural configurations
 - [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/) — Detailed comparison of forward-in-time frameworks
 - [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) — The full selection mechanism using atemporal causation
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces time's arrow
@@ -224,4 +222,5 @@ Atemporal causation connects to each of the Map's tenets:
 6. Price, H. (2012). Does time-symmetry imply retrocausality? *Studies in History and Philosophy of Science Part B*, 43(2), 75-83.
 7. Price, H. & Wharton, K. (2013). Dispelling the quantum spooks. *arXiv:1307.7744*.
 8. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
-9. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+9. Hensen, B. et al. (2025). Test of the physical significance of Bell nonlocality. *Nature Communications*. https://doi.org/10.1038/s41467-025-59247-7
+10. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

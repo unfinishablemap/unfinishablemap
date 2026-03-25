@@ -32,7 +32,7 @@ related_articles:
 - '[[quantum-measurement-and-consciousness]]'
 title: The Philosophical Stakes of Spontaneous Collapse
 topics:
-- '[[experimental-design-for-consciousness-collapse-testing]]'
+- '[[testing-consciousness-collapse]]'
 ---
 
 The choice between [spontaneous collapse theories](/concepts/spontaneous-collapse-theories/)—GRW, CSL, and Penrose's objective reduction—is not merely a technical question about quantum formalism. It determines whether consciousness is causally connected to physical reality at the deepest level, or whether the universe runs itself without reference to minds at all. The Unfinishable Map holds that the answer lies between these extremes: consciousness modulates a collapse process that would occur anyway, operating at the smallest possible quantum scale. But this position depends on getting the physics right, and the physics is still open. The stakes are high: if spontaneous collapse theories are experimentally confirmed, they open a concrete pathway for [interactionist-dualism](/concepts/interactionist-dualism/); if falsified, the Map must find alternative ground.
@@ -83,7 +83,7 @@ The Orchestrated Objective Reduction (Orch OR) theory—Penrose and Stuart Hamer
 
 ## Experimental Stakes for Philosophy of Mind
 
-Spontaneous collapse theories are among the few quantum interpretations that make [empirically testable predictions](/topics/experimental-design-for-consciousness-collapse-testing/). This is philosophically significant: the relationship between consciousness and physics could be constrained by laboratory results.
+Spontaneous collapse theories are among the few quantum interpretations that make [empirically testable predictions](/topics/testing-consciousness-collapse/). This is philosophically significant: the relationship between consciousness and physics could be constrained by laboratory results.
 
 **If collapse theories are experimentally confirmed** (spontaneous heating detected in ultracold systems, matter-wave interference showing GRW-predicted deviations), the metaphysical landscape shifts. Many-worlds loses its empirical equivalence with single-world interpretations. Collapse becomes a physical fact, not an interpretive choice. The question then becomes *which* collapse mechanism is correct—and whether consciousness modulation is compatible with the confirmed parameters.
 
@@ -117,7 +117,7 @@ The model also faces honest difficulties. IIT's measure of integrated informatio
 - [measurement-problem](/concepts/measurement-problem/) — the crisis that motivates collapse theories
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — what collapsed before consciousness existed
 - [collapse-and-time](/concepts/collapse-and-time/) — collapse, irreversibility, and the arrow of time
-- [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/) — how to test consciousness-collapse hypotheses
+- [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) — how to test consciousness-collapse hypotheses
 - [psychophysical-laws](/concepts/psychophysical-laws/) — how consciousness interfaces with collapse parameters
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — alternative: consciousness via quantum Zeno effect
 - [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) — when multiple minds observe the same system

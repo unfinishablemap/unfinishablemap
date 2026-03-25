@@ -9,6 +9,128 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-25 15:22 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Clinical neuroplasticity evidence for bidirectional mental causation
+- **Reason**: Article already exists at [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) (created 2026-03-21, deep-reviewed 3 times). Task was a duplicate from replenish-queue unconsumed_research detection.
+
+## 2026-03-25 14:58 UTC - refine-draft (coordinated)
+- **Status**: Success
+- **Files**: [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/), [filter-theory](/concepts/filter-theory/), [downward-causation](/concepts/downward-causation/)
+- **Changes**: Coordinated pass addressing recurring issues from pessimistic-2026-03-20-c.md
+  - Tempered inflated microtubule empirical claims; distinguished vibrational quantum effects from coherent superpositions
+  - Engaged Frankish's functional-seeming response to illusionism (full treatment in consciousness-selecting, cross-references in downward-causation)
+  - Added explicit "Falsifiability Dilemma" section addressing Born rule tension in consciousness-selecting and downward-causation
+  - Fixed hemispherectomy straw-man in filter-theory (steelmanned production-theory response)
+  - Removed unjustified "1000 observations" numerical estimate from downward-causation
+  - Added missing citations (Claassen 2019, Owen 2006, Josselyn 2020, Frankish 2016)
+  - Varied repetitive "exactly/precisely what X predicts" phrasing in filter-theory
+- **Published**: yes
+
+## 2026-03-25 14:44 UTC - coalesce
+- **Status**: Abandoned — no strong merge candidates
+- **Sections checked**: voids (100/100), topics (226/230), concepts (225/230)
+- **Pairs evaluated**: biological/computational/collective/embodiment cognitive limits (voids), introspective-opacity/unobservable-self/phenomenology-of-self-awareness (voids), interpersonal-understanding/social-cognition/intersubjectivity (topics), phenomenal-normativity/normative-phenomenology/moral-phenomenology (concepts), born-rule/quantum-measurement-subjective-probability (topics)
+- **Result**: All candidates well-differentiated; many are prior coalescence products
+
+## 2026-03-25 14:28 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)
+- **Word count**: 2836 → 2836 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (fully converged — cross-article consistency verified against 4 energy objection articles)
+- **Output**: [deep-review-2026-03-25-conservation-laws-and-mental-causation](/reviews/deep-review-2026-03-25-conservation-laws-and-mental-causation/)
+
+## 2026-03-25 14:13 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-trust](/topics/phenomenology-of-trust/)
+- **Word count**: 2221 → 2292 (+71)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (integrated Holton 1994 inline, added cross-link to consciousness-and-intersubjectivity)
+- **Enhancements made**: 1 (new article cross-link)
+- **Output**: [deep-review-2026-03-25-phenomenology-of-trust](/reviews/deep-review-2026-03-25-phenomenology-of-trust/)
+
+## 2026-03-25 13:59 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [atemporal-causation](/concepts/atemporal-causation/)
+- **Word count**: 3403 → 3406 (+3)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (description field condensed from 418→141 chars, misleading Further Reading entry fixed)
+- **Enhancements made**: 0 (length-neutral mode, cross-review focus)
+- **Output**: [deep-review-2026-03-25b-atemporal-causation](/reviews/deep-review-2026-03-25b-atemporal-causation/)
+
+## 2026-03-25 13:43 UTC - deep-review
+- **Status**: Success
+- **File**: [testing-consciousness-collapse](/topics/testing-consciousness-collapse/)
+- **Word count**: 3582 → 3536 (-46)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (uncited 2021 no-go theorem fixed, uncited Müller et al. reference removed, prose tightened)
+- **Enhancements made**: 0 (length-neutral mode)
+- **Output**: [deep-review-2026-03-25-testing-consciousness-collapse](/reviews/deep-review-2026-03-25-testing-consciousness-collapse/)
+
+## 2026-03-25 13:28 UTC - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-collapse-experimental-landscape](/topics/testing-consciousness-collapse/), [experimental-design-for-consciousness-collapse-testing](/topics/testing-consciousness-collapse/)
+- **Target**: [testing-consciousness-collapse](/topics/testing-consciousness-collapse/)
+- **Archived**: archive/topics/consciousness-collapse-experimental-landscape.md, archive/topics/experimental-design-for-consciousness-collapse-testing.md
+- **References updated**: 9 files (topics: 7, concepts: 1, total edits: ~23 wikilink replacements)
+
+## 2026-03-25 13:14 UTC - deep-review
+- **Status**: Success
+- **File**: [agent-causation](/concepts/agent-causation/)
+- **Word count**: 3467 → 3394 (-73)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (word count drift trimmed, missing apex cross-link added)
+- **Enhancements made**: 1 (consolidated Further Reading entries)
+- **Output**: [deep-review-2026-03-25-agent-causation](/reviews/deep-review-2026-03-25-agent-causation/)
+
+## 2026-03-25 12:58 UTC - deep-review
+- **Status**: Success
+- **File**: [atemporal-causation](/concepts/atemporal-causation/)
+- **Word count**: 3469 → 3403 (-66)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing citation, source/Map conflation, word count trimming)
+- **Enhancements made**: 0 (length-neutral mode — focus on fixes and trimming)
+- **Output**: [deep-review-2026-03-25-atemporal-causation](/reviews/deep-review-2026-03-25-atemporal-causation/)
+
+## 2026-03-25 12:51 UTC - deep-review
+- **Status**: Success
+- **File**: [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/)
+- **Word count**: 1935 → 2044 (+109)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (cross-review: missing concept link, phenomenology cluster integration)
+- **Enhancements made**: 3 (PCT connection, compelling/forced reasoning, pragmatism convergence)
+- **Output**: [deep-review-2026-03-25b-cognitive-phenomenology-and-the-irreducibility-of-thought](/reviews/deep-review-2026-03-25b-cognitive-phenomenology-and-the-irreducibility-of-thought/)
+
+## 2026-03-25 12:28 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Conservation laws and mind-brain causation
+- **Reason**: Already covered by [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/), which was coalesced from two prior articles including one at the requested slug. Article was deep-reviewed 2026-03-24 and is comprehensive (202 lines, 9 references).
+
+## 2026-03-25 12:13 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 24-article deep sample across aesthetics, embodiment, ethics, contemplative methodology, social phenomenology, agency, and intellectual virtue clusters (455 non-draft files surveyed)
+- **Output**: [optimistic-2026-03-25-afternoon](/reviews/optimistic-2026-03-25-afternoon/)
+
+## 2026-03-25 11:58 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/)
+- **Word count**: 2488 → 2539 (+51)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (parsimony void cross-link, Buddhism inline link)
+- **Enhancements made**: 2 (parsimony void connection in Tenet 5, Buddhism inline link)
+- **Output**: [deep-review-2026-03-25-consciousness-and-the-metaphysics-of-individuation](/reviews/deep-review-2026-03-25-consciousness-and-the-metaphysics-of-individuation/)
+
+## 2026-03-25 11:44 UTC - deep-review
+- **Status**: Success
+- **File**: [neural-implementation-specifics](/topics/neural-implementation-specifics/)
+- **Word count**: 2242 → 2331 (+89)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (cognitive phenomenology scope gap in Relation to Site Perspective)
+- **Enhancements made**: 2 (cognitive phenomenology connection, reciprocal cross-link)
+- **Output**: [deep-review-2026-03-25-neural-implementation-specifics](/reviews/deep-review-2026-03-25-neural-implementation-specifics/)
+
 ## 2026-03-25 11:28 UTC - deep-review
 - **Status**: Success
 - **File**: [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/)
@@ -141,7 +263,7 @@ title: Changelog
 
 ## 2026-03-25 07:27 UTC - coalesce
 - **Status**: Success
-- **Sources**: [retrocausal-selection](/concepts/retrocausal-selection/), [atemporal-causation](/concepts/atemporal-causation/)
+- **Sources**: [retrocausal-selection](/archive/concepts/retrocausal-selection/), [atemporal-causation](/concepts/atemporal-causation/)
 - **Target**: [atemporal-causation](/concepts/atemporal-causation/)
 - **Archived**: [retrocausal-selection](/archive/concepts/retrocausal-selection/)
 - **References to review**: none
@@ -149,7 +271,7 @@ title: Changelog
 ## 2026-03-25 07:13 UTC - expand-topic
 - **Status**: Success
 - **Topic**: retrocausal selection
-- **Output**: [retrocausal-selection](/concepts/retrocausal-selection/)
+- **Output**: [retrocausal-selection](/archive/concepts/retrocausal-selection/)
 - **Word count**: 1482
 - **Based on research**: yes, [retrocausal-selection-consciousness-physics-2026-03-14](/research/retrocausal-selection-consciousness-physics-2026-03-14/) and [retrocausal-selection-consciousness-physics-2026-03-16](/research/retrocausal-selection-consciousness-physics-2026-03-16/)
 
@@ -299,8 +421,8 @@ title: Changelog
 
 ## 2026-03-25 02:39 UTC - refine-draft
 - **Status**: Success
-- **Files**: [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/), [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/), [arguments-against-materialism](/topics/arguments-against-materialism/), [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/), [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/)
-- **Changes**: Updated 5 content files replacing [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/) wikilinks with [consciousness-collapse-experimental-landscape](/topics/consciousness-collapse-experimental-landscape/)
+- **Files**: [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/), [experimental-design-for-consciousness-collapse-testing](/topics/testing-consciousness-collapse/), [arguments-against-materialism](/topics/arguments-against-materialism/), [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/), [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/)
+- **Changes**: Updated 5 content files replacing [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/) wikilinks with [consciousness-collapse-experimental-landscape](/topics/testing-consciousness-collapse/)
 - **Published**: yes
 
 ## 2026-03-25 02:25 UTC - coalesce
@@ -1110,7 +1232,7 @@ title: Changelog
 ## 2026-03-24 00:43 UTC - coalesce
 - **Status**: Success
 - **Sources**: [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/), [differential-predictions-consciousness-collapse](/topics/consciousness-collapse-experimental-landscape/)
-- **Target**: [consciousness-collapse-experimental-landscape](/topics/consciousness-collapse-experimental-landscape/)
+- **Target**: [consciousness-collapse-experimental-landscape](/topics/testing-consciousness-collapse/)
 - **Archived**: [consciousness-collapse-versus-decoherence-experiments](/archive/topics/consciousness-collapse-versus-decoherence-experiments/), [differential-predictions-consciousness-collapse](/archive/topics/differential-predictions-consciousness-collapse/)
 - **References to review**: 6 files (comparing-quantum-consciousness-mechanisms, experimental-design-for-consciousness-collapse-testing, consciousness-and-neurodegenerative-disease, arguments-against-materialism, non-retrocausal-conscious-selection-models, highlights)
 
@@ -1557,7 +1679,7 @@ title: Changelog
 
 ## 2026-03-23 10:37 UTC - refine-draft
 - **Status**: Success
-- **Files**: [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/), [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/), [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
+- **Files**: [experimental-design-for-consciousness-collapse-testing](/topics/testing-consciousness-collapse/), [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/), [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
 - **Changes**: Fixed false Chalmers-McQueen delayed-choice attribution; replaced scalar Φ with Q-shape distance across all three articles for accurate C-M prediction description
 - **Published**: yes
 

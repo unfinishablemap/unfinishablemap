@@ -181,7 +181,7 @@ The convergence of quantum biology evidence connects to all five of the Map's [t
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum approaches to consciousness including Orch OR
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism for mental causation
 - [measurement-problem](/concepts/measurement-problem/) — Why quantum mechanics leaves outcomes undetermined
-- [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/) — Designing experiments to test consciousness-collapse hypotheses
+- [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) — Designing experiments to test consciousness-collapse hypotheses
 - [causal-closure](/concepts/causal-closure/) — Why causal closure is not absolute at quantum indeterminacies
 - [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/) — Why evolutionary logic makes quantum neural effects probable
 - [tenets](/tenets/) — The Map's foundational commitments

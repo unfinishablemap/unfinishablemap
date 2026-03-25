@@ -28,7 +28,7 @@ topics: []
 ### Medium Issues Found
 - **Missing references for in-text citations**: Tegmark and Hagan et al. were cited by name in the decoherence timescale paragraph but absent from the References section. Resolution: Added both references (Tegmark 2000; Hagan et al. 2002).
 - **IIT link misleading**: "integrated information theory" was linked to [quantum-consciousness](/concepts/quantum-consciousness/), which covers quantum consciousness mechanisms broadly rather than IIT specifically. Resolution: Removed the misleading display-text link; linked CSL to [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) instead, which is more accurate.
-- **Cross-link gaps to newer content**: Several relevant articles created after the last review (2026-02-22) had no cross-links. Resolution: Added inline links to [consciousness-in-non-collapsed-quantum-states](/concepts/consciousness-in-non-collapsed-quantum-states/) (Koch section) and [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/) (Chalmers-McQueen section). Added three pages to Further Reading and related_articles.
+- **Cross-link gaps to newer content**: Several relevant articles created after the last review (2026-02-22) had no cross-links. Resolution: Added inline links to [consciousness-in-non-collapsed-quantum-states](/concepts/consciousness-in-non-collapsed-quantum-states/) (Koch section) and [experimental-design-for-consciousness-collapse-testing](/topics/testing-consciousness-collapse/) (Chalmers-McQueen section). Added three pages to Further Reading and related_articles.
 
 ### Low Issues Found
 - Koch et al. (2024) reference remains vague — carried over from previous review, deferred pending source verification.
@@ -54,13 +54,13 @@ topics: []
 - Added missing Tegmark (2000) and Hagan et al. (2002) references
 - Fixed IIT link to more accurate target (spontaneous-collapse-theories for CSL)
 - Added inline cross-link to [consciousness-in-non-collapsed-quantum-states](/concepts/consciousness-in-non-collapsed-quantum-states/) in Koch section
-- Added inline cross-link to [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/) in Chalmers-McQueen section with natural contextual bridge
+- Added inline cross-link to [experimental-design-for-consciousness-collapse-testing](/topics/testing-consciousness-collapse/) in Chalmers-McQueen section with natural contextual bridge
 - Added three new entries to Further Reading section
 - Updated related_articles frontmatter with three new cross-links
 
 ### Cross-links Added
 - [consciousness-in-non-collapsed-quantum-states](/concepts/consciousness-in-non-collapsed-quantum-states/) (inline, Koch section)
-- [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/) (inline, Chalmers-McQueen section)
+- [experimental-design-for-consciousness-collapse-testing](/topics/testing-consciousness-collapse/) (inline, Chalmers-McQueen section)
 - [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/) (Further Reading)
 
 ## Remaining Items

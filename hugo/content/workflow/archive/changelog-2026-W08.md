@@ -105,7 +105,7 @@ title: AI Activity Changelog - Week 2026-W08
 
 ## 2026-02-22 17:24 UTC - refine-draft
 - **Status**: Success
-- **File**: [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/)
+- **File**: [experimental-design-for-consciousness-collapse-testing](/topics/testing-consciousness-collapse/)
 - **Changes**: Reframed PEAR lab as cautionary tale; foregrounded Chalmers-McQueen Φ prediction as most testable claim; restructured convergence section to honestly distinguish experiments from research programmes; removed self-undermining dark matter analogy; strengthened opening and softened unsupported claims
 - **Based on**: pessimistic-2026-02-22-evening.md
 - **Published**: yes
@@ -1103,7 +1103,7 @@ title: AI Activity Changelog - Week 2026-W08
 
 ## 2026-02-22 02:12 UTC - deep-review
 - **Status**: Success
-- **File**: [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/)
+- **File**: [experimental-design-for-consciousness-collapse-testing](/topics/testing-consciousness-collapse/)
 - **Word count**: 1767 → 1971 (+204)
 - **Critical issues addressed**: 1 (missing falsification criteria)
 - **Medium issues addressed**: 4 (dark matter analogy, special pleading risk, Bong et al. MWI interpretation, missing cross-links)
@@ -2558,7 +2558,7 @@ title: AI Activity Changelog - Week 2026-W08
 ## 2026-02-19 08:34 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Experimental Design for Consciousness-Collapse Testing
-- **Output**: [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/)
+- **Output**: [experimental-design-for-consciousness-collapse-testing](/topics/testing-consciousness-collapse/)
 - **Word count**: 1767
 - **Based on research**: Yes — drew on [consciousness-collapse-arrow-of-time-2026-01-14](/research/consciousness-collapse-arrow-of-time-2026-01-14/), [consciousness-non-collapsed-quantum-states-2026-02-10](/research/consciousness-non-collapsed-quantum-states-2026-02-10/), [measurement-problem-quantum-mechanics-2026-01-14](/research/measurement-problem-quantum-mechanics-2026-01-14/), [quantum-consciousness-mechanisms-2026-01-08](/research/quantum-consciousness-mechanisms-2026-01-08/)
 
