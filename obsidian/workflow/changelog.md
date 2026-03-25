@@ -5,6 +5,14 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 21:32 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 446
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 3
+- **Output**: [[reviews/tenet-check-2026-03-25]]
+
 ## 2026-03-25 21:31 UTC - expand-topic
 - **Status**: Skipped (already exists)
 - **Topic**: Indexical knowledge
