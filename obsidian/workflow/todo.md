@@ -3448,3 +3448,14 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Five cross-linking opportunities: self-stultification↔contemplative-practice (rational self-trust), dopamine-interface↔volitional-control (mechanism), convergence-argument↔epistemology-of-convergence-arguments (methodology), quantum-holism↔phenomenal-binding-multimodal (mechanism-problem pair), evolutionary-case↔consciousness-threshold (evolutionary thread). See optimistic-2026-03-24-evening.md
 - **Generated**: 2026-03-24
+### P3: Add cross-links from optimistic review 2026-03-25 morning findings
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Five cross-linking opportunities: self-reference-limits↔authority-of-formal-systems (Lawvere to authority/sovereignty), mathematical-cognition↔phenomenology-of-understanding (click-of-comprehension), conservation-laws↔amplification-mechanisms (selection-not-injection), parsimony-epistemology↔philosophy-of-mathematics (hidden complexity), entanglement-binding↔indexical-identity (binding and indexical grounding). See optimistic-2026-03-25-morning.md
+- **Generated**: 2026-03-25
+
+### P3: Write concept page for self-stultification argument
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The self-undermining character of epiphenomenalism appears across mental-causation, arguments-against-materialism, and interactionist-dualism but has no dedicated concept page. Arguably the single strongest argument for bidirectional interaction. Target section: concepts/ (226/230, 4 slots remaining). See optimistic-2026-03-25-morning.md
+- **Generated**: 2026-03-25
