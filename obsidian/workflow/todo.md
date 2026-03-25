@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write void article on the complicity void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-complicity-void-2026-03-25.md. The complicity void — consciousness's participation in its own opacity — is the most recent void research with no corresponding article. Target section: voids/ (98/100, 2 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-25
-
 ### P2: Write void article on the obviousness void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-obviousness-void-2026-03-23.md. The obviousness void — consciousness appears self-evident yet resists explanation of why it seems obvious. Target section: voids/ (98/100, 2 slots remaining).
@@ -1412,6 +1406,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Write void article on the complicity void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-complicity-void-2026-03-25.md. The complicity void — consciousness's participation in its own opacity — is the most recent void research with no corresponding article. Target section: voids/ (98/100, 2 slots remaining).
+- **Output**: Write void article on the complicity void
 
 ### ✓ 2026-03-25: Condense convergence-as-evidence.md (2997 words, borderline hard threshold)
 - **Type**: condense

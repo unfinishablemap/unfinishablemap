@@ -5,6 +5,13 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 22:31 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The complicity void
+- **Output**: [[voids/complicity-void]]
+- **Word count**: 1606
+- **Based on research**: Yes, [[research/voids-complicity-void-2026-03-25]]
+
 ## 2026-03-25 22:26 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-self-awareness]]
