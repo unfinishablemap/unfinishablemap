@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense convergence-as-evidence.md (2997 words, borderline hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Voids article at 2997 words against a 3000-word hard threshold for voids/ section. Currently 150% of the 2000-word soft target. Reduce to under 2000 words while preserving core arguments about convergence as epistemic evidence for cognitive limits. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-25
-
 ### P3: Create concept page for pragmatism
 - **Type**: expand-topic
 - **Status**: pending
@@ -1389,6 +1382,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Condense convergence-as-evidence.md (2997 words, borderline hard threshold)
+- **Type**: condense
+- **Notes**: Voids article at 2997 words against a 3000-word hard threshold for voids/ section. Currently 150% of the 2000-word soft target. Reduce to under 2000 words while preserving core arguments about convergence as epistemic evidence for cognitive limits. See /condense skill.
+- **Output**: obsidian/voids/convergence-as-evidence.md
 
 ### ✓ 2026-03-25: Write article on phenomenology of self-awareness
 - **Type**: expand-topic

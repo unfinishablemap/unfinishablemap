@@ -5,6 +5,14 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 22:01 UTC - condense
+- **Status**: Success
+- **File**: [[voids/convergence-as-evidence]]
+- **Before**: 2997
+- **After**: 2051
+- **Reduction**: 32%
+- **Technique**: Tightened family descriptions to lead with signature failures, compressed shared boundaries and directional convergence, merged apophatic cartography validation into challenge section, trimmed challenge list from 6 to 4 items, reduced redundancy in strength-of-inference and tenet sections
+
 ## 2026-03-25 21:47 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenology of self-awareness
