@@ -5,6 +5,15 @@ ai_modified: 2026-03-25T10:14:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 11:28 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenological-psychiatry-and-altered-experience]]
+- **Word count**: 1677 → 1730 (+53)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (weak embodiment conditional, unattributed quoted phrase)
+- **Enhancements made**: 2 (Tenet 5 connection, intersubjectivity cross-link)
+- **Output**: [[reviews/deep-review-2026-03-25-phenomenological-psychiatry-and-altered-experience]]
+
 ## 2026-03-25 11:13 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/time-collapse-and-agency]]

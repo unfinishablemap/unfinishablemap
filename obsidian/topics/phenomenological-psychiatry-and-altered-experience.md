@@ -4,7 +4,7 @@ description: "Mental illness reveals consciousness's hidden architecture. Schizo
 created: 2026-03-03
 modified: 2026-03-03
 human_modified:
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-03-25T11:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-03
 last_curated:
-last_deep_review: 2026-03-03T09:41:00+00:00
+last_deep_review: 2026-03-25T11:28:00+00:00
 ---
 
 The Unfinishable Map argues that consciousness is irreducible to physical processes. Phenomenological psychiatry—the tradition stretching from Karl Jaspers through Louis Sass, Josef Parnas, and Thomas Fuchs—provides some of the strongest empirical support for this claim. By studying how mental illness alters the *structure* of experience rather than merely its content, phenomenological psychiatry reveals an architecture of consciousness that operates invisibly in health and resists straightforward neural reduction.
@@ -66,7 +66,7 @@ In schizophrenia, Fuchs identifies **disembodiment**: the lived body loses its t
 
 In depression, the opposite occurs: **corporealization** or hyper-embodiment. The lived body becomes heavy, opaque, resistant. Rather than being transparent, the body becomes an oppressive presence blocking engagement with the world. As Fuchs writes, "In severe depression, the body may regain its pure materiality and turn into an obstacle."
 
-This polarity matters philosophically. Both disembodiment *and* hyper-embodiment produce suffering—opposite disruptions of the same interface. If consciousness were identical to brain activity, we might expect only one direction of change to be pathological. The fact that the consciousness-body relationship can be mistuned in opposite ways suggests something more like an [[embodied-consciousness-and-the-interface|interface between distinct domains]] than a simple identity.
+This polarity matters philosophically. Both disembodiment *and* hyper-embodiment produce suffering—opposite disruptions of the same transparency relation. The consciousness-body relationship can be mistuned in two directions: too transparent (the body vanishes as lived medium) or too opaque (the body intrudes as brute physical presence). This bidirectional fragility is what we would expect of an [[embodied-consciousness-and-the-interface|interface between distinct domains]]—a coupling that can loosen at either end—rather than a single system merely malfunctioning.
 
 ## Temporal Destruction in Depression
 
@@ -100,9 +100,9 @@ The structural irreducibility argument runs as follows. If psychiatric condition
 
 The Map interprets this as evidence that first-person experiential structure constitutes an autonomous domain—one that can be investigated on its own terms, generates its own explanatory insights, and resists complete reduction to physical description. As Maung (2019) argues, Chalmers-style property dualism faces no conflict with psychiatric neuroscience. The tight correlations between brain states and conscious states (antidepressants alter temporal experience; antipsychotics reduce ipseity disturbance) are equally consistent with lawful psychophysical correlation as with identity.
 
-The broader [[clinical-phenomenology-as-philosophical-evidence|clinical phenomenology framework]] shows that this convergence of clinical disruptions—across ownership, agency, affect, and temporal experience—generates doubly grounded evidence that discriminates between theories with unusual precision. The Map speculates that the holistic interdependence of consciousness structures—disrupting ipseity simultaneously disrupts temporality, embodiment, and intersubjectivity—points toward the kind of unified, gestalt-like organisation more characteristic of subjective experience than of neural mechanisms. Phenomenological psychiatry reveals consciousness as a "meaningful gestalt" rather than an aggregate of independent modules, and this gestalt character is precisely what the Map's dualist framework predicts.
+The broader [[clinical-phenomenology-as-philosophical-evidence|clinical phenomenology framework]] shows that this convergence of clinical disruptions—across ownership, agency, affect, and temporal experience—generates doubly grounded evidence that discriminates between theories with unusual precision. The Map speculates that the holistic interdependence of consciousness structures—disrupting ipseity simultaneously disrupts temporality, embodiment, and intersubjectivity—points toward the kind of unified, gestalt-like organisation more characteristic of subjective experience than of neural mechanisms. Phenomenological psychiatry reveals consciousness as a meaningful gestalt—disrupting ipseity simultaneously disrupts [[intersubjectivity]], embodiment, and temporal experience—rather than an aggregate of independent modules. This gestalt character is precisely what the Map's dualist framework predicts.
 
-Most phenomenological psychiatrists bracket the ontological question, remaining methodologically neutral on whether the explanatory gap is epistemological or ontological. The Map takes the stronger position: the structural richness of first-person experience, made concrete by a century of phenomenological-psychiatric investigation, is best explained by genuine irreducibility rather than mere current ignorance.
+Most phenomenological psychiatrists bracket the ontological question, remaining methodologically neutral on whether the explanatory gap is epistemological or ontological. The Map takes the stronger position: the structural richness of first-person experience, made concrete by a century of phenomenological-psychiatric investigation, is best explained by genuine irreducibility rather than mere current ignorance. This connects to Tenet 5 ([[tenets#^occams-razor|Occam's Razor Has Limits]])—the reductive explanation may be simpler, but simplicity is a poor guide when the phenomenon to be explained (structured first-person experience) has no precedent in physical science.
 
 ## Further Reading
 
