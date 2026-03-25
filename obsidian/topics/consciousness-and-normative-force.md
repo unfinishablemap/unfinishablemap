@@ -4,7 +4,7 @@ description: "Why normative claims grip us: the shared phenomenal architecture o
 created: 2026-02-13
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-03-25T20:40:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-moral-life]]"
@@ -44,7 +44,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-13
 last_curated:
-last_deep_review: 2026-03-04T07:40:00+00:00
+last_deep_review: 2026-03-25T20:40:00+00:00
 coalesced_from:
   - "/topics/phenomenology-of-normative-experience/"
   - "/topics/consciousness-and-the-grounds-of-normative-authority/"
@@ -64,7 +64,7 @@ The problem sharpens at the boundary of consciousness. A thermostat "recognises"
 
 **Rationalism** locates normative force in reason itself. But rational consistency is a formal property — you can be formally consistent while endorsing monstrous principles, provided you universalise them. The feeling of rational compulsion is itself a phenomenal state. A computer can verify logical consistency without experiencing normative pull. Rationalism presupposes consciousness rather than explaining normative force independently.
 
-**Contractualism** grounds normative force in what rational agents would agree to under idealised conditions. But hypothetical agreement lacks phenomenal grip. The fact that idealised agents *would* agree does not explain why *you*, here, now, feel bound.
+**Contractualism** grounds normative force in what rational agents would agree to under idealised conditions. But hypothetical agreement lacks phenomenal grip. Even Korsgaard's (1996) deeper appeal to practical identity — norms you endorse on reflection constitute who you are — faces the same question: what makes reflective endorsement *binding* rather than merely intellectual? The fact that idealised agents *would* agree does not explain why *you*, here, now, feel bound.
 
 **Naturalism** identifies normative facts with natural facts. But even setting aside Moore's open question, the phenomenological point remains: normative force *feels* different from causal regularity. A world described entirely in terms of natural properties — masses, charges, fitness landscapes — contains no *oughts*. Reducing normative properties to natural ones collapses the distinction that needs explaining.
 
@@ -110,7 +110,7 @@ If normativity were projected onto experience by external mechanisms, one would 
 
 ### Within-Domain Conflict
 
-Two moral obligations collide: you promised to attend a friend's event, but a stranger needs immediate help. Within-domain conflict produces a characteristic phenomenology of *tearing*. The demands share the same felt quality yet pull in opposite directions. This differs from indecision — in indecision, the agent lacks sufficient reason; in normative conflict, the agent has *too much* reason directed at incompatible actions. The weight accumulates rather than cancelling.
+Two moral obligations collide: you promised to attend a friend's event, but a stranger needs immediate help. Within-domain conflict produces a characteristic phenomenology of *tearing* (Williams 1965). The demands share the same felt quality yet pull in opposite directions. This differs from indecision — in indecision, the agent lacks sufficient reason; in normative conflict, the agent has *too much* reason directed at incompatible actions. The weight accumulates rather than cancelling.
 
 Bernard Williams analysed the extreme case: tragic dilemmas where both options are morally catastrophic. He argued that "agent-regret" (Williams 1981) remains appropriate after *either* choice — the overridden obligation persists as "moral residue," an ineliminable trace of the obligation acknowledged but unfulfilled. This residue is not abstract recognition of suboptimality. It is the felt persistence of a demand that one continues to recognise as *legitimate* — not outweighed so much as sacrificed.
 
@@ -122,7 +122,7 @@ More structurally revealing is conflict between domains. A whistleblower faces t
 
 When multiple domains speak simultaneously, each with its own demand structure, how does a single conscious agent produce coherent action? This is structurally analogous to the perceptual [[binding-problem|binding problem]]: just as consciousness unifies colour, shape, and motion into a single visual object, it must unify competing normative demands into a single practical stance.
 
-**Priority views** assigning fixed orderings fail because normative conflicts do not feel like rule-application. People regularly sacrifice moral demands for epistemic ones or vice versa — and these are not always failures of reasoning. **Utilitarian reduction** to a single currency fails because the felt incommensurability of normative domains is a datum: moral guilt and aesthetic displeasure differ qualitatively, not quantitatively. **Faculty models** face a regress: what coordinates the faculties?
+**Priority views** assigning fixed orderings fail because normative conflicts do not feel like rule-application. People regularly sacrifice moral demands for epistemic ones or vice versa — and these are not always failures of reasoning. **Utilitarian reduction** to a single currency fails because the felt incommensurability of normative domains is a datum (Nagel 1979): moral guilt and aesthetic displeasure differ qualitatively, not quantitatively. **Faculty models** face a regress: what coordinates the faculties?
 
 Normative demands arrive within a single field of consciousness — already related, already experienced by the same subject who must act. Within this field, demands carry *felt weight* varying with context: moral demands press with urgency; epistemic demands present with impersonal rigidity; aesthetic demands draw attention; prudential demands pull with intimate gravity. These qualitative differences persist even as relative weights shift.
 
@@ -197,4 +197,3 @@ The consciousness-based account would face pressure if:
 1. Murdoch, I. (1970). *The Sovereignty of Good*. Routledge.
 1. Chudnoff, E. (2013). *Intuition*. Oxford University Press.
 1. Kriegel, U. (2015). *The Varieties of Consciousness*. Oxford University Press.
-1. Palazzo, G., Krings, F., & Hoffrage, U. (2012). "Ethical Blindness." *Journal of Business Ethics*, 109(3), 323-338.

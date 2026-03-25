@@ -5,6 +5,15 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 20:40 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-normative-force]]
+- **Word count**: 2434 → 2453 (+19)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (integrated 3 uncited references inline, removed 1 disconnected reference)
+- **Enhancements made**: 3 (Korsgaard engagement, Williams 1965 citation, Nagel 1979 citation)
+- **Output**: [[reviews/deep-review-2026-03-25-consciousness-and-normative-force]]
+
 ## 2026-03-25 20:17 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-in-simple-organisms]]
