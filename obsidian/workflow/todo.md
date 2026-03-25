@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-25T19:46:00+00:00
+ai_modified: 2026-03-25T20:31:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Create concept page for epistemology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Referenced by 46 articles via broken wikilinks — the most-referenced undefined concept on the site. Epistemology is fundamental to Tenet 5 (Occam's Razor Has Limits) and to the Map's epistemic methodology throughout. Should cover the Map's distinctive epistemological commitments: phenomenal evidence, convergence methodology, and limits of third-person epistemology. Target section: concepts/ (225/230, 5 slots remaining).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-25
+
+### P2: Update references to coalesced self-opacity void articles and fix introspective-opacity wikilinks
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce on 2026-03-25 merged 3 self-opacity voids into voids/self-opacity.md. Additionally, 39 articles reference [[introspective-opacity]] which has no corresponding page. Determine whether introspective-opacity should redirect to self-opacity or warrants its own concept page, then update all broken wikilinks accordingly.
+- **Source**: chain (from self-opacity coalesce) + gap_analysis
+- **Generated**: 2026-03-25
+
+### P2: Create concept page for indexical knowledge
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Referenced by 15 articles via broken wikilinks. Indexical knowledge — knowledge tied to a particular perspective or context ("I am here now") — is central to the Map's arguments about irreducibility of first-person experience. Directly supports Tenet 1 (Dualism) via the knowledge argument and Tenet 4 (No Many Worlds) via indexical identity. Target section: concepts/ (225/230, 5 slots remaining).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-25
+
+### P2: Write article on phenomenology of self-awareness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Referenced by 12 articles via broken wikilinks. The phenomenological structure of self-awareness — pre-reflective self-consciousness, reflective introspection, and their relationship — is assumed across many articles but never given systematic treatment. Connects to self-opacity void, introspective-opacity discussions, and Tenet 1 arguments from first-person access. Target section: topics/ (226/230, 4 slots remaining).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-25
+
+### P2: Condense convergence-as-evidence.md (2997 words, borderline hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Voids article at 2997 words against a 3000-word hard threshold for voids/ section. Currently 150% of the 2000-word soft target. Reduce to under 2000 words while preserving core arguments about convergence as epistemic evidence for cognitive limits. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-25
+
+### P3: Create concept page for pragmatism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Referenced by 7 articles via broken wikilinks. Pragmatism as a philosophical tradition is relevant to pragmatisms-path-to-dualism and the Map's arguments about the practical consequences of consciousness theories. A concept page would anchor these references. Target section: concepts/ (225/230, 5 slots remaining).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-25
 
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
