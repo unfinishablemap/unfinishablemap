@@ -107,7 +107,7 @@ The Map's response: deny causal closure at quantum indeterminacies.
 
 Quantum mechanics specifies probabilities but not which outcome actualizes. Causal closure fails at these points. If consciousness acts at these indeterminacies — selecting among outcomes physics leaves undetermined, as [[non-retrocausal-conscious-selection-models|non-retrocausal conscious selection]] frameworks propose — it causes physical events without competing with physical causes. No overdetermination occurs because physics provides necessary but not sufficient causes. The [[prebiotic-collapse|prebiotic collapse problem]] shows this framework is cosmologically consistent.
 
-The [[mind-matter-interface|two-layer architecture]] places this quantum mechanism as Layer 2 (Interface/Control), complementing Layer 1's filter theory explanation of why brain-consciousness correlation doesn't entail production. This is the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: consciousness biases quantum outcomes where the physical story runs out.
+The [[mind-matter-interface|two-layer architecture]] places this quantum mechanism as Layer 2 (Interface/Control), complementing Layer 1's filter theory explanation of why brain-consciousness correlation doesn't entail production. This is the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: consciousness biases quantum outcomes where the physical story runs out. The [[evolutionary-case-for-quantum-neural-effects|evolutionary case for quantum neural effects]] argues that evolution would have specifically selected for neural architectures supporting this quantum interface—the same selective logic that produced quantum magnetoreception and enzyme tunnelling.
 
 ### The Decoherence Challenge
 
@@ -229,6 +229,7 @@ Mental causation, as defended here, is falsifiable:
 - [[causal-closure]] — The principle mental causation challenges
 - [[causal-closure-debate-historical-survey]] — How the causal closure principle evolved from Elisabeth's challenge through Kim's exclusion argument
 - [[interactionist-dualism]] — The framework accommodating mental causation
+- [[evolutionary-case-for-quantum-neural-effects]] — Why evolution would optimise the quantum substrate for mental causation
 - [[concepts/epiphenomenalism]] — The view denying mental causation
 - [[emergence]] — Mental causation as strong emergence with mechanism
 - [[agent-causation]] — Agent causation as substance causation

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate evolutionary-case-for-quantum-neural-effects.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File created 2026-03-23 via expand-topic, has no inbound links. Add cross-references from quantum-biology, consciousness-selecting-neural-patterns, brain-specialness-boundary, and other articles discussing evolutionary arguments for quantum effects in neural systems.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-25
-
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
 - **Status**: pending
@@ -1338,6 +1332,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Integrate evolutionary-case-for-quantum-neural-effects.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-23 via expand-topic, has no inbound links. Add cross-references from quantum-biology, consciousness-selecting-neural-patterns, brain-specialness-boundary, and other articles discussing evolutionary arguments for quantum effects in neural systems.
+- **Output**: obsidian/topics/evolutionary-case-for-quantum-neural-effects.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-25: Integrate born-rule-interpretation-invariance-consciousness.md into site navigation
 - **Type**: integrate-orphan

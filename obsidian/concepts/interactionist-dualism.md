@@ -195,7 +195,7 @@ Interactionism predicts exactly what [[neural-correlates-of-consciousness|NCC re
 
 ### Evolutionary Compatibility
 
-The [[evolution-of-consciousness|evolution of consciousness]] poses no special problem. What evolved was neural architecture that allows consciousness to *interface* with physical processes. This resolves a puzzle for materialists: how can selection favour phenomenal experience if consciousness is inert? The Map's answer: consciousness *does* affect outcomes (Bidirectional Interaction tenet), so selection acts on it directly.
+The [[evolution-of-consciousness|evolution of consciousness]] poses no special problem. What evolved was neural architecture that allows consciousness to *interface* with physical processes. The [[evolutionary-case-for-quantum-neural-effects|evolutionary case for quantum neural effects]] strengthens this: if evolution optimised quantum effects for bird navigation and enzyme catalysis, the same selective logic applies to neural systems where consciousness interfaces with quantum indeterminacies. This resolves a puzzle for materialists: how can selection favour phenomenal experience if consciousness is inert? The Map's answer: consciousness *does* affect outcomes (Bidirectional Interaction tenet), so selection acts on it directly.
 
 ## Assessment
 

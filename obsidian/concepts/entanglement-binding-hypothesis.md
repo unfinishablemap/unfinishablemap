@@ -75,7 +75,7 @@ The standard objection holds that quantum coherence cannot survive in warm, wet 
 
 This calculation has been substantially challenged. Hagan, Hameroff, and Tuszyński (2002) identified problematic assumptions in Tegmark's model: unrealistically large superposition separation distances and thermal equilibrium conditions that, as they put it, are "equivalent to death, and thus not appropriate for describing living matter." Their corrected estimates yield decoherence times of 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer than Tegmark's figures. Experimental measurements of coherence in microtubule preparations (Saxena et al., 2020) are consistent with the corrected estimates.
 
-Biological precedent further weakens the objection. Quantum coherence plays functional roles in photosynthetic energy transfer and avian magnetoreception, where cryptochrome proteins maintain spin coherence for microseconds. If evolution can harness quantum effects for navigation, it might harness them for consciousness.
+Biological precedent further weakens the objection. Quantum coherence plays functional roles in photosynthetic energy transfer and avian magnetoreception, where cryptochrome proteins maintain spin coherence for microseconds. If evolution can harness quantum effects for navigation, it might harness them for consciousness. The [[evolutionary-case-for-quantum-neural-effects|evolutionary case for quantum neural effects]] develops this argument systematically: the computational payoffs of quantum effects in neural systems would dwarf those of a compass or a faster enzyme, making neural quantum effects probable rather than merely possible.
 
 However, the decoherence objection is not fully resolved. The gap between laboratory demonstrations of microtubule coherence and evidence of functional quantum states in living brains remains substantial. The hypothesis requires quantum coherence not just to exist but to be sustained long enough, at sufficient scale, to underwrite the unity of conscious experience.
 
@@ -112,6 +112,7 @@ The entanglement binding hypothesis aligns with several of the Map's [[tenets]].
 - [[combination-problem]] — Panpsychism's version of the unity challenge
 - [[quantum-biology-and-neural-consciousness]] — Quantum biology, neural evidence convergence, and the consciousness debate
 - [[decoherence]] — The standard objection to quantum effects in biological systems
+- [[evolutionary-case-for-quantum-neural-effects]] — Why evolutionary logic makes quantum neural effects probable
 
 ## References
 

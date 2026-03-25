@@ -109,7 +109,7 @@ The Bischof-Köhler hypothesis suggests animals cannot act on drive states they 
 
 ## The Evolutionary Argument
 
-William James argued in 1890 that consciousness must be causally efficacious to be selected by evolution. The [[evolutionary-case-for-mental-causation|evolutionary case for mental causation]] develops this argument formally; the amplification hypothesis strengthens it with empirical evidence.
+William James argued in 1890 that consciousness must be causally efficacious to be selected by evolution. The [[evolutionary-case-for-mental-causation|evolutionary case for mental causation]] develops this argument formally; the amplification hypothesis strengthens it with empirical evidence. The [[evolutionary-case-for-quantum-neural-effects|evolutionary case for quantum neural effects]] provides the complementary physical argument: if consciousness amplifies cognition through quantum mechanisms, evolution would have specifically optimised neural architecture to support those mechanisms—just as it optimised cryptochrome proteins for quantum magnetoreception.
 
 If consciousness were [[concepts/epiphenomenalism|epiphenomenal]]—causally inert—then:
 1. Human-level intelligence should be achievable through neural complexity alone
@@ -229,6 +229,7 @@ Epiphenomenalism appears "simpler" because it doesn't posit mental causation. Bu
 - [[global-workspace-theory]] — The broadcasting account of conscious access
 - [[concepts/epiphenomenalism]] — The position the amplification evidence contradicts
 - [[interactionist-dualism]] — How consciousness influences brain states
+- [[evolutionary-case-for-quantum-neural-effects]] — Why evolution would optimise quantum neural architecture for consciousness
 - [[cetacean-and-corvid-consciousness]] — Convergent test: dolphins and corvids independently evolved amplification-linked capacities
 
 ## References
