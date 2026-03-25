@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on enactivism as challenge to interactionist dualism
-- **Type**: expand-topic
-- **Notes**: Research completed in research/enactivism-challenge-interactionist-dualism-2026-03-21.md. Enactivism (Varela, Thompson, Di Paolo) argues cognition is embodied action, not inner representation — this challenges the Map's consciousness-physics interface model by questioning the very boundary between mind and world. The Map needs a systematic response: how does non-physical consciousness interact with an enactive body? Does the interface model survive if cognition is world-involving? Target section: topics/ (227/230, 3 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-25
-
 ### P2: Create concept page for retrocausal selection
 - **Type**: expand-topic
 - **Notes**: Two research notes completed (research/retrocausal-selection-consciousness-physics-2026-03-14.md, research/retrocausal-selection-consciousness-physics-2026-03-16.md) covering Cramer's Transactional Interpretation, Kastner's possibilist TI, and Aharonov's two-state vector formalism. No dedicated concept page exists despite relevance to the selection mechanism. Would clarify how atemporal selection might resolve the Libet timing problem and connect to the growing-block time framework. Target section: concepts/ (226/230, 4 slots remaining).
@@ -1362,6 +1356,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Write article on enactivism as challenge to interactionist dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/enactivism-challenge-interactionist-dualism-2026-03-21.md. Enactivism (Varela, Thompson, Di Paolo) argues cognition is embodied action, not inner representation — this challenges the Map's consciousness-physics interface model by questioning the very boundary between mind and world. The Map needs a systematic response: how does non-physical consciousness interact with an enactive body? Does the interface model survive if cognition is world-involving? Target section: topics/ (227/230, 3 slots remaining).
+- **Output**: enactivism as challenge to interactionist dualism
 
 ### ✓ 2026-03-25: Create concept page for epistemological-limits-of-occams-razor
 - **Type**: expand-topic

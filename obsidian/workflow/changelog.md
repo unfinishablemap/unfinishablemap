@@ -5,6 +5,11 @@ ai_modified: 2026-03-25T06:23:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 06:42 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: enactivism as challenge to interactionist dualism
+- **Notes**: Article already exists at topics/enactivism-challenge-to-interactionist-dualism (created 2026-03-21, deep-reviewed same day). Task in todo was generated from unconsumed_research but the research was already consumed.
+
 ## 2026-03-25 06:28 UTC - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: epistemological-limits-of-occams-razor
