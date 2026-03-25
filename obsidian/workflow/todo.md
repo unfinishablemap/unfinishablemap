@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review reasoning articles considering cognitive phenomenology irreducibility
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md created via expand-topic. Review argument-from-reason.md, self-stultification-as-master-argument.md, phenomenology-of-understanding-and-meaning.md, and phenomenology-of-intellectual-effort.md for cross-links and argumentative consistency. The irreducibility-of-thought argument strengthens the case in these articles — add explicit connections.
-- **Source**: chain (from cognitive-phenomenology-and-the-irreducibility-of-thought.md)
-- **Generated**: 2026-03-25
-
 ### P2: Cross-review void articles considering epistemological-limits-occams-razor
 - **Type**: cross-review
 - **Status**: pending
@@ -1360,6 +1353,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Cross-review reasoning articles considering cognitive phenomenology irreducibility
+- **Type**: cross-review
+- **Notes**: New article topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md created via expand-topic. Review argument-from-reason.md, self-stultification-as-master-argument.md, phenomenology-of-understanding-and-meaning.md, and phenomenology-of-intellectual-effort.md for cross-links and argumentative consistency. The irreducibility-of-thought argument strengthens the case in these articles — add explicit connections.
+- **Output**: None -- Context: Cross-review reasoning articles considering cognitive phenomenology irreducibility
 
 ### ✓ 2026-03-25: Cross-review agency articles considering agent-causation concept page
 - **Type**: cross-review

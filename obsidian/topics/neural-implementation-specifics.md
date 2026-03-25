@@ -4,7 +4,7 @@ description: "Evaluating quantum neural mechanism evidence. Radical pairs lead, 
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-25T11:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-03-03T02:44:00+00:00
+last_deep_review: 2026-03-25T11:44:00+00:00
 ---
 
 Five quantum mechanisms have been proposed for neural systems, but they differ dramatically in evidential support. Radical pair effects have the strongest experimental foundation—the quantum Zeno effect in cryptochrome has been computationally demonstrated, and avian magnetoreception provides a working biological precedent. Microtubule coherence has gained recent support from anesthetic studies and room-temperature super-radiance demonstrations, though the Orch OR collapse mechanism remains unverified. Ion channel tunneling, SNARE protein tunneling, and Posner molecule entanglement remain primarily theoretical. Crucially, specific experiments could distinguish among these mechanisms: isotope substitution studies, targeted pharmacological interventions, and correlation of quantum signatures with consciousness level. The Unfinishable Map does not commit to any specific mechanism but tracks which proposals best satisfy empirical constraints.
@@ -215,6 +215,8 @@ The evidence hierarchy shows that not all quantum consciousness proposals are eq
 
 These mechanisms matter because they provide potential loci for non-physical causation. If consciousness is irreducible to physical processes (as the Map's first tenet holds), it must interact with the physical world somewhere. Quantum indeterminacies offer the only known gap in [[causal-closure|physical causal closure]]—places where the [[measurement-problem]] leaves physics permitting but not determining outcomes. The mechanisms surveyed here identify where in neural tissue such gaps might exist and how consciousness might exploit them.
 
+Moreover, if [[cognitive-phenomenology-and-the-irreducibility-of-thought|cognitive phenomenology is irreducible]]—if thinking itself has phenomenal character beyond sensory accompaniments—then the scope of what these mechanisms must underpin extends throughout cognition. The mechanisms are not just candidates for how consciousness colours perception; they must also account for the phenomenal character of understanding, reasoning, and meaning. This expanded scope makes the search for specific mechanisms more pressing, since the alternative (treating cognition as purely computational) fails if thought is phenomenally conscious.
+
 **What distinguishes the Map's approach:**
 
 Many discussions of quantum consciousness conflate theoretical possibility with empirical support. By tracking which mechanisms have evidence and what experiments would test them, the Map maintains intellectual honesty about what we know and don't know. The radical pair mechanism proves that quantum effects can operate at neural-relevant timescales; whether they do so in ways relevant to consciousness remains the open question.
@@ -238,6 +240,7 @@ None of these has been demonstrated to be the *actual* mechanism of conscious in
 - [[neural-correlates-of-consciousness]] — Where consciousness correlates with brain activity
 - [[quantum-consciousness]] — Overview of quantum approaches
 - [[comparing-quantum-consciousness-mechanisms]] — Head-to-head evaluation of competing mechanisms
+- [[cognitive-phenomenology-and-the-irreducibility-of-thought]] — Why the scope of consciousness these mechanisms must serve extends into cognition
 
 ## References
 

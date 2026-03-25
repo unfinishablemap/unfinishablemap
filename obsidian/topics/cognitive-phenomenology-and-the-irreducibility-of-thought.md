@@ -4,7 +4,7 @@ description: "If thinking itself has phenomenal character beyond sensory accompa
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-03-25T09:58:00+00:00
+ai_modified: 2026-03-25T11:44:00+00:00
 last_deep_review: 2026-03-25T09:58:00+00:00
 draft: false
 topics:
@@ -117,6 +117,7 @@ The phenomenal contrast in understanding — hearing French when you understand 
 - [[self-stultification-as-master-argument]] — Materialism undermines its own rational credentials
 - [[pragmatisms-path-to-dualism]] — How cognitive phenomenology in evaluation forces pragmatism toward dualism
 - [[consciousness-as-amplifier]] — Empirical evidence that reasoning requires conscious processing
+- [[neural-implementation-specifics]] — Which quantum mechanisms must account for cognitive, not just sensory, consciousness
 
 ## References
 
