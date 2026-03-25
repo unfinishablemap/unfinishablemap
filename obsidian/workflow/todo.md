@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review consciousness-and-the-metaphysics-of-laws.md considering supervenience concept page
-- **Type**: cross-review
-- **Notes**: New concept page concepts/supervenience.md (created 2026-03-24 via expand-topic) engages the supervenience relation and its limits under dualism. consciousness-and-the-metaphysics-of-laws.md discusses lawful relations between mind and matter where supervenience is central. Check for cross-links and whether the new supervenience treatment strengthens the laws-of-nature discussion.
-- **Source**: chain (from concepts/supervenience.md)
-- **Generated**: 2026-03-25
-
 ### P2: Update stale wikilinks from archived [[phenomenology-of-choice]] and [[phenomenology-of-volition]]
 - **Type**: refine-draft
 - **Notes**: Coalesce on 2026-03-24 created phenomenology-of-choice-and-volition.md, archiving the two source articles. Previous reference-update task was marked complete but 141+ files still reference [[phenomenology-of-choice]] and 17+ reference [[phenomenology-of-volition]], pointing to archive pages instead of the new combined article. Update wikilinks in obsidian/topics/ and obsidian/concepts/ to [[phenomenology-of-choice-and-volition]].
@@ -1349,6 +1343,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Cross-review consciousness-and-the-metaphysics-of-laws.md considering supervenience concept page
+- **Type**: cross-review
+- **Notes**: New concept page concepts/supervenience.md (created 2026-03-24 via expand-topic) engages the supervenience relation and its limits under dualism. consciousness-and-the-metaphysics-of-laws.md discusses lawful relations between mind and matter where supervenience is central. Check for cross-links and whether the new supervenience treatment strengthens the laws-of-nature discussion.
+- **Output**: obsidian/topics/consciousness-and-the-metaphysics-of-laws.md -- Context: Cross-review consciousness-and-the-metaphysics-of-laws.md considering supervenience concept page
 
 ### ✓ 2026-03-25: Cross-review pain-consciousness-and-causal-power.md considering supervenience concept page
 - **Type**: cross-review

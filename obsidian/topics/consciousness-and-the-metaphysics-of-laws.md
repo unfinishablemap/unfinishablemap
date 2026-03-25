@@ -4,7 +4,7 @@ description: "What laws of nature are—Humean regularities, governing principle
 created: 2026-02-16
 modified: 2026-02-16
 human_modified:
-ai_modified: 2026-03-19T04:24:00+00:00
+ai_modified: 2026-03-25T00:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,6 +15,7 @@ concepts:
   - "[[causal-closure]]"
   - "[[mental-causation]]"
   - "[[emergence]]"
+  - "[[supervenience]]"
 related_articles:
   - "[[tenets]]"
   - "[[psychophysical-laws-bridging-mind-and-matter]]"
@@ -24,7 +25,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-16
 last_curated:
-last_deep_review: 2026-03-19T04:24:00+00:00
+last_deep_review: 2026-03-25T00:55:00+00:00
 ---
 
 The question of whether consciousness can interact with the physical world depends not only on physics but on what laws of nature *are*. The Unfinishable Map holds that [[psychophysical-laws|psychophysical laws]]—fundamental principles connecting phenomenal experience to physical processes—must exist if [[tenets#^dualism|dualism]] is true. But whether such laws are coherent, and what form they could take, turns on a prior metaphysical question: what is a law of nature in the first place? Three rival accounts—Humean regularity theory, the governing laws view, and dispositional essentialism—yield sharply different consequences for the mind-body problem. Each opens certain doors for dualist interaction and closes others.
@@ -63,7 +64,7 @@ The challenge for dualists on Humean grounds is different from what one might ex
 
 A Humean might respond that this demand for deeper explanation is unfair—Humean physical laws are equally "shallow." The regularity that masses attract provides no mechanism either. If brute regularity is good enough for gravity, why not for consciousness? The dualist's answer is that the explanatory gap between physical and phenomenal is qualitatively different from the gap between one physical regularity and another. Physical regularities at least involve commensurable quantities; psychophysical regularities bridge [[emergence|ontologically distinct domains]], making the absence of deeper explanation more troubling.
 
-A deeper concern: Humean supervenience holds that everything supervenes on the mosaic of local particular matters of fact. If consciousness adds something beyond the physical mosaic—as dualism claims—then Humean supervenience fails. The Humean picture may accommodate psychophysical *regularities* while being unable to accommodate the non-physical *facts* those regularities describe. A committed Humean might accept psychophysical correlations into the best system while denying that phenomenal properties are ontologically additional—which collapses back into a form of physicalism.
+A deeper concern: [[supervenience|Humean supervenience]] holds that everything supervenes on the mosaic of local particular matters of fact. If consciousness adds something beyond the physical mosaic—as dualism claims—then Humean supervenience fails. The Humean picture may accommodate psychophysical *regularities* while being unable to accommodate the non-physical *facts* those regularities describe. A committed Humean might accept psychophysical correlations into the best system while denying that phenomenal properties are ontologically additional—which collapses back into a form of physicalism.
 
 ### Governing Laws and the Legislation Problem
 
