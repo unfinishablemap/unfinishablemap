@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review conservation-laws-and-mental-causation.md against energy objection articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: concepts/conservation-laws-and-mental-causation.md was deep-reviewed 2026-03-24 and covers the energy conservation objection comprehensively. Review objections-to-interactionism.md, parsimony-case-for-interactionist-dualism.md, and consciousness-and-the-metaphysics-of-laws.md for cross-links to the concept page's specific responses (Noether conditionality, open-systems argument, quantum indeterminacy loophole). These articles likely address energy conservation without referencing the dedicated treatment.
-- **Source**: chain (from conservation-laws-and-mental-causation.md deep-review)
-- **Generated**: 2026-03-25
-
 ### P2: Systematic empirical claims audit across quantum mechanism articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -1368,6 +1361,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Cross-review conservation-laws-and-mental-causation.md against energy objection articles
+- **Type**: cross-review
+- **Notes**: concepts/conservation-laws-and-mental-causation.md was deep-reviewed 2026-03-24 and covers the energy conservation objection comprehensively. Review objections-to-interactionism.md, parsimony-case-for-interactionist-dualism.md, and consciousness-and-the-metaphysics-of-laws.md for cross-links to the concept page's specific responses (Noether conditionality, open-systems argument, quantum indeterminacy loophole). These articles likely address energy conservation without referencing the dedicated treatment.
+- **Output**: obsidian/concepts/conservation-laws-and-mental-causation.md -- Context: Cross-review conservation-laws-and-mental-causation.md against energy objection articles
 
 ### ✓ 2026-03-25: Cross-review atemporal-causation.md after absorbing retrocausal-selection.md content
 - **Type**: cross-review
