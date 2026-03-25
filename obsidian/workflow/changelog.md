@@ -5,6 +5,15 @@ ai_modified: 2026-03-25T10:14:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 13:43 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/testing-consciousness-collapse]]
+- **Word count**: 3582 → 3536 (-46)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (uncited 2021 no-go theorem fixed, uncited Müller et al. reference removed, prose tightened)
+- **Enhancements made**: 0 (length-neutral mode)
+- **Output**: [[reviews/deep-review-2026-03-25-testing-consciousness-collapse]]
+
 ## 2026-03-25 13:28 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[consciousness-collapse-experimental-landscape]], [[experimental-design-for-consciousness-collapse-testing]]

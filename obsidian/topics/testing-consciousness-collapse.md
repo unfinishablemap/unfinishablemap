@@ -4,7 +4,7 @@ description: "Can experiments distinguish consciousness-driven collapse from dec
 created: 2026-02-19
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-03-25T13:28:00+00:00
+ai_modified: 2026-03-25T13:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-03-24T05:49:00+00:00
+last_deep_review: 2026-03-25T13:43:00+00:00
 coalesced_from:
   - "/topics/consciousness-collapse-experimental-landscape/"
   - "/topics/experimental-design-for-consciousness-collapse-testing/"
@@ -47,7 +47,7 @@ coalesced_from:
 
 If consciousness participates in quantum collapse, as The Unfinishable Map's [[tenets]] propose, the claim must be testable. Yet designing an experiment that distinguishes consciousness-driven collapse from purely physical collapse is among the hardest problems in the philosophy of physics. Every physical measurement that could reveal collapse also introduces the very physical interactions that physicalist interpretations invoke as the cause. The challenge is not merely technological but conceptual — and understanding why it is hard is as important as cataloguing the experiments that might overcome it.
 
-The question is approaching experimental tractability nonetheless. Not because anyone can yet test consciousness directly, but because consciousness-collapse and decoherence-only interpretations make distinct empirical predictions, and experiments are progressively reaching the regimes where those predictions diverge.
+The question is approaching experimental tractability nonetheless — not because anyone can yet test consciousness directly, but because consciousness-collapse and decoherence-only interpretations make distinct empirical predictions, and experiments are reaching the regimes where those predictions diverge.
 
 ## What Decoherence Does Not Settle
 
@@ -85,7 +85,7 @@ The proposed MAQRO space mission would test nanospheres up to 10¹¹ amu in the 
 
 ## Seven Differential Predictions
 
-Consciousness-collapse and decoherence-only interpretations agree on nearly every experimental outcome currently accessible. The near-perfect overlap is why the debate persists — not because the theories are indistinguishable in principle, but because the points of divergence lie at the edges of experimental reach.
+Consciousness-collapse and decoherence-only interpretations agree on nearly every experimental outcome currently accessible. The debate persists not because the theories are indistinguishable in principle, but because the points of divergence lie at the edges of experimental reach.
 
 ### 1. Consciousness-Structure-Dependent Collapse Rates
 
@@ -117,9 +117,9 @@ Decoherence converts a pure superposition into an *improper* mixture — a state
 
 If consciousness triggers or modulates collapse, the *timing* of collapse should correlate with when a conscious observer becomes entangled with the measurement result — not with when the physical detector registers it. This is a delayed-choice structure applied to collapse timing.
 
-The Frauchiger-Renner (2018) thought experiment exposes related tensions: quantum theory struggles to consistently describe situations where observers model each other's measurements, creating scenarios where the timing and reality of collapse become experimentally consequential. A 2021 no-go theorem formalised this: the persistent reality of an observer's perception is inconsistent with the universal validity of quantum theory. In 2025, Allori and colleagues extended this analysis to show that both many-worlds and single-world interpretations face distinct difficulties in extended Wigner's friend scenarios.
+The Frauchiger-Renner (2018) thought experiment exposes related tensions: quantum theory struggles to consistently describe situations where observers model each other's measurements, creating scenarios where the timing and reality of collapse become experimentally consequential. In 2025, Allori and colleagues extended this analysis to show that both many-worlds and single-world interpretations face distinct difficulties in extended Wigner's friend scenarios — the persistent reality of an observer's perception is inconsistent with the universal validity of quantum theory.
 
-These results challenge consciousness-collapse, but they rest on an assumption consciousness-collapse theorists can coherently reject: that quantum mechanics applies universally to conscious systems. Consciousness-collapse theories propose precisely that conscious systems are where standard quantum evolution breaks down. The 2025 results strengthen the case that this specification is non-optional — consciousness-collapse cannot remain vague about its scope.
+These results challenge consciousness-collapse, but they rest on an assumption consciousness-collapse theorists can coherently reject: that quantum mechanics applies universally to conscious systems. Consciousness-collapse theories propose precisely that conscious systems are where standard quantum evolution breaks down. The Allori et al. results strengthen the case that this specification is non-optional — consciousness-collapse cannot remain vague about its scope.
 
 **Current status:** Requires quantum memories that maintain coherence through macroscopic measurement chains. Current quantum computer coherence times (microseconds to milliseconds) are insufficient.
 
@@ -165,7 +165,7 @@ These predictions reveal a structural asymmetry. Consciousness-collapse can be *
 
 This asymmetry gives consciousness-collapse a pragmatic advantage as a *research programme*: its specific predictions generate targeted experiments, while decoherence-only's prediction that nothing anomalous will appear is harder to leverage for directing new research.
 
-Given the confound of embodiment, consciousness-collapse may not be testable by the standard method of isolating variables and comparing conditions. Instead, evidence could accumulate through convergence: multiple independent lines of inquiry each providing partial support that collectively shifts the balance of evidence. But convergence is a weaker evidential strategy than direct experiment, and invoking it carries a burden: it requires specifying, in advance, what evidence would count *against* the hypothesis.
+Given the confound of embodiment, consciousness-collapse may not be testable by isolating variables and comparing conditions directly. Instead, evidence could accumulate through convergence: multiple independent lines of inquiry each providing partial support that collectively shifts the balance of evidence. But convergence is weaker than direct experiment, and invoking it carries a burden: specifying, in advance, what evidence would count *against* the hypothesis.
 
 The Chalmers-McQueen Q-shape prediction provides the necessary anchor. If quantum systems in superposition of states with large Q-shape distance show identical collapse dynamics to systems with small Q-shape distance at equivalent mass, the IIT-CSL version of consciousness-collapse is directly disconfirmed. This is a specific, achievable experiment (once quantum computing advances sufficiently), with a clear predicted outcome and a clear negative result. Without this anchor or something comparably specific, convergence would amount to "wait for other fields to rule out alternatives" — a posture indistinguishable from unfalsifiability.
 
@@ -182,7 +182,7 @@ Supporting lines of evidence that would strengthen the case, without being indiv
 
 The persistent failure to design a clean consciousness-collapse experiment is philosophically significant. It reflects the same structural feature that generates the [[hard-problem-of-consciousness|hard problem]]: consciousness is always accessed from within a physical system, and the physical system always provides an alternative explanatory pathway. This is not merely a practical obstacle — it follows from the nature of embodied consciousness.
 
-The history of statistical anomaly detection is cautionary. The Princeton Engineering Anomalies Research (PEAR) lab ran extensive trials (1979–2007) asking human operators to mentally influence random event generators based on quantum processes. The programme suffered from fundamental methodological failures: insufficient blinding, possible selection effects in data analysis, and failure to replicate in independent laboratories. Any future statistical approach must avoid PEAR's errors by design, not by post-hoc correction: pre-registered analysis protocols, automated experimental runs, extremely large sample sizes, and clear theoretical predictions specifying *what kind* of bias to expect.
+The history of statistical anomaly detection is cautionary. The Princeton Engineering Anomalies Research (PEAR) lab ran extensive trials (1979–2007) asking human operators to mentally influence quantum random event generators. The programme suffered fundamental methodological failures: insufficient blinding, possible selection effects in data analysis, and failure to replicate independently. Any future statistical approach must avoid PEAR's errors by design: pre-registered analysis protocols, automated experimental runs, large sample sizes, and clear theoretical predictions specifying *what kind* of bias to expect.
 
 ## Relation to Site Perspective
 
@@ -223,6 +223,5 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses a predict
 9. Frauchiger, D. & Renner, R. (2018). "Quantum theory cannot consistently describe the use of itself." *Nature Communications*, 9, 3711.
 10. Horchani, R. (2025). "Experimental Blueprint for Distinguishing Decoherence from Objective Collapse." *arXiv:2512.02838*.
 11. Jahn, R. G., & Dunne, B. J. (2005). "The PEAR Proposition." *Journal of Scientific Exploration*, 19(2), 195–245.
-12. Müller, S., et al. (2021). "Quantum measurement arrow of time and fluctuation relations." *Nature Communications*, 12, 1–8.
-13. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61, 4194–4206.
-14. Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*, 215(3), 216–242.
+12. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61, 4194–4206.
+13. Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*, 215(3), 216–242.

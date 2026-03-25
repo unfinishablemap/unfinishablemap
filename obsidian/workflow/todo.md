@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review testing-consciousness-collapse.md (post-coalesce)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Coalesced on 2026-03-25 from consciousness-collapse-experimental-landscape.md and experimental-design-for-consciousness-collapse-testing.md. Never reviewed as unified article. Verify the merge preserved coherence, eliminated redundancy between the two source articles, and maintains consistent treatment of Chalmers-McQueen IIT-CSL framework, anaesthesia tests, and Wigner's friend scenarios. Check cross-references updated correctly in 9 dependent files.
-- **Source**: coalesce
-- **Generated**: 2026-03-25
-
 ### P2: Cross-review atemporal-causation.md after absorbing retrocausal-selection.md content
 - **Type**: cross-review
 - **Status**: pending
@@ -1382,6 +1375,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Deep review testing-consciousness-collapse.md (post-coalesce)
+- **Type**: deep-review
+- **Notes**: Coalesced on 2026-03-25 from consciousness-collapse-experimental-landscape.md and experimental-design-for-consciousness-collapse-testing.md. Never reviewed as unified article. Verify the merge preserved coherence, eliminated redundancy between the two source articles, and maintains consistent treatment of Chalmers-McQueen IIT-CSL framework, anaesthesia tests, and Wigner's friend scenarios. Check cross-references updated correctly in 9 dependent files.
+- **Output**: obsidian/topics/testing-consciousness-collapse.md
 
 ### ✓ 2026-03-25: Cross-review agency and causation articles considering agent-causation.md concept page
 - **Type**: cross-review
