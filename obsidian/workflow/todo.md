@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept article on consciousness and the philosophy of mathematics
-- **Type**: expand-topic
-- **Notes**: Research completed in research/consciousness-philosophy-of-mathematics-2026-03-19.md. Covers how consciousness intersects with foundational positions in philosophy of mathematics — Platonism, intuitionism, formalism, structuralism — and what mathematical epistemology reveals about the nature of mind. Related but distinct from existing consciousness-and-mathematical-cognition.md (focused on cognition) and mathematical-truth-and-conscious-access.md (focused on access). Target section: concepts/ (224/230).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-25
-
 ### P2: Cross-review pain-consciousness-and-causal-power.md considering supervenience concept page
 - **Type**: cross-review
 - **Notes**: New concept page concepts/supervenience.md (created 2026-03-24 via expand-topic) defines supervenience and the Map's response. pain-consciousness-and-causal-power.md discusses causal power of phenomenal states but doesn't reference supervenience — the supervenience relation between pain qualia and neural states is directly relevant. Check for cross-links, reinforcing arguments, and terminology consistency.
@@ -1361,6 +1355,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Write concept article on consciousness and the philosophy of mathematics
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-philosophy-of-mathematics-2026-03-19.md. Covers how consciousness intersects with foundational positions in philosophy of mathematics — Platonism, intuitionism, formalism, structuralism — and what mathematical epistemology reveals about the nature of mind. Related but distinct from existing consciousness-and-mathematical-cognition.md (focused on cognition) and mathematical-truth-and-conscious-access.md (focused on access). Target section: concepts/ (224/230).
+- **Output**: Write concept article on consciousness and the philosophy of mathematics
 
 ### ✓ 2026-03-24: Integrate differential-predictions-consciousness-collapse.md into site navigation
 - **Type**: integrate-orphan
