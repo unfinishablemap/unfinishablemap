@@ -32,6 +32,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-25
 last_curated:
+archived: true
+archived_date: 2026-03-25T07:27:00+00:00
+superseded_by: "/concepts/atemporal-causation/"
+archive_reason: "Coalesced into Atemporal Causation"
+original_path: "/concepts/retrocausal-selection/"
 ---
 
 Retrocausal selection is the proposal that consciousness selects which quantum outcome becomes actual by operating outside temporal sequence — not at a specific moment, but atemporally across the entire transaction that constitutes a quantum event. Where [[consciousness-selecting-neural-patterns|non-retrocausal selection]] requires consciousness to act on a superposition at the moment of collapse, retrocausal selection dissolves the question of timing altogether. The Unfinishable Map develops this as one of two pathways for the [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]]: consciousness genuinely influences physical outcomes even when neural activity precedes conscious awareness in the linear temporal sequence.

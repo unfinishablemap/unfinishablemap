@@ -5,6 +5,13 @@ ai_modified: 2026-03-25T06:23:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 07:27 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/retrocausal-selection]], [[concepts/atemporal-causation]]
+- **Target**: [[concepts/atemporal-causation]]
+- **Archived**: [[archive/concepts/retrocausal-selection]]
+- **References to review**: none
+
 ## 2026-03-25 07:13 UTC - expand-topic
 - **Status**: Success
 - **Topic**: retrocausal selection
