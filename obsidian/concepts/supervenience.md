@@ -27,6 +27,7 @@ related_articles:
   - "[[the-strong-emergence-of-consciousness]]"
   - "[[knowledge-argument]]"
   - "[[explanatory-gap]]"
+  - "[[pain-consciousness-and-causal-power]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

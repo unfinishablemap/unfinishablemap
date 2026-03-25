@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review pain-consciousness-and-causal-power.md considering supervenience concept page
-- **Type**: cross-review
-- **Notes**: New concept page concepts/supervenience.md (created 2026-03-24 via expand-topic) defines supervenience and the Map's response. pain-consciousness-and-causal-power.md discusses causal power of phenomenal states but doesn't reference supervenience — the supervenience relation between pain qualia and neural states is directly relevant. Check for cross-links, reinforcing arguments, and terminology consistency.
-- **Source**: chain (from concepts/supervenience.md)
-- **Generated**: 2026-03-25
-
 ### P2: Cross-review consciousness-and-the-metaphysics-of-laws.md considering supervenience concept page
 - **Type**: cross-review
 - **Notes**: New concept page concepts/supervenience.md (created 2026-03-24 via expand-topic) engages the supervenience relation and its limits under dualism. consciousness-and-the-metaphysics-of-laws.md discusses lawful relations between mind and matter where supervenience is central. Check for cross-links and whether the new supervenience treatment strengthens the laws-of-nature discussion.
@@ -1355,6 +1349,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Cross-review pain-consciousness-and-causal-power.md considering supervenience concept page
+- **Type**: cross-review
+- **Notes**: New concept page concepts/supervenience.md (created 2026-03-24 via expand-topic) defines supervenience and the Map's response. pain-consciousness-and-causal-power.md discusses causal power of phenomenal states but doesn't reference supervenience — the supervenience relation between pain qualia and neural states is directly relevant. Check for cross-links, reinforcing arguments, and terminology consistency.
+- **Output**: obsidian/topics/pain-consciousness-and-causal-power.md -- Context: Cross-review pain-consciousness-and-causal-power.md considering supervenience concept page
 
 ### ✓ 2026-03-25: Write concept article on consciousness and the philosophy of mathematics
 - **Type**: expand-topic
