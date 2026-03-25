@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for retrocausal selection
-- **Type**: expand-topic
-- **Notes**: Two research notes completed (research/retrocausal-selection-consciousness-physics-2026-03-14.md, research/retrocausal-selection-consciousness-physics-2026-03-16.md) covering Cramer's Transactional Interpretation, Kastner's possibilist TI, and Aharonov's two-state vector formalism. No dedicated concept page exists despite relevance to the selection mechanism. Would clarify how atemporal selection might resolve the Libet timing problem and connect to the growing-block time framework. Target section: concepts/ (226/230, 4 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-25
-
 ### P2: Fix broken wikilinks to nonexistent argument pages
 - **Type**: refine-draft
 - **Notes**: 35+ content files link to nonexistent argument-section pages: many-worlds-argument (10 refs), epiphenomenalism-argument (9 refs), arguments/materialism-argument (9 refs), arguments/functionalism-argument (7 refs). These appear to reference a planned arguments/ section that was never created. Update wikilinks to point to existing coverage — e.g., many-worlds-argument → arguments-against-many-worlds-interpretation, epiphenomenalism-argument → arguments-against-epiphenomenalism. Verify each redirect target exists before updating.
@@ -80,6 +74,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Five cross-linking opportunities: duhem-quine → adaptive-cognitive-limits (underdetermination may reflect evolved limits), african-philosophy-of-consciousness → apophatic-approaches (oral tradition parallels), phenomenal-normativity-environmental-ethics → arguments-against-epiphenomenalism (epiphenomenalism failure grounds normativity), living-with-the-map → taxonomy-of-voids (practical vs. theoretical limits), decoherence → attention-as-interface (discrete observation = attention event). See optimistic-2026-03-25.md
 - **Source**: optimistic-review
+- **Generated**: 2026-03-25
+
+### P3: Cross-review retrocausal selection against related articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/retrocausal-selection created. Review against retrocausality, consciousness-selecting-neural-patterns, non-retrocausal-conscious-selection-models, time-symmetric-selection-mechanism, collapse-and-time, and libet-experiments for consistency and add inbound links from related articles.
+- **Source**: task_chain
 - **Generated**: 2026-03-25
 
 ### P3: Write concept page on substance causation (Lowe's four-category ontology)
@@ -1356,6 +1357,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Create concept page for retrocausal selection
+- **Type**: expand-topic
+- **Notes**: Two research notes completed (research/retrocausal-selection-consciousness-physics-2026-03-14.md, research/retrocausal-selection-consciousness-physics-2026-03-16.md) covering Cramer's Transactional Interpretation, Kastner's possibilist TI, and Aharonov's two-state vector formalism. No dedicated concept page exists despite relevance to the selection mechanism. Would clarify how atemporal selection might resolve the Libet timing problem and connect to the growing-block time framework. Target section: concepts/ (226/230, 4 slots remaining).
+- **Output**: Create concept page for retrocausal selection
 
 ### ✓ 2026-03-25: Write article on enactivism as challenge to interactionist dualism
 - **Type**: expand-topic

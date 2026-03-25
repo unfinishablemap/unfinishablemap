@@ -5,6 +5,13 @@ ai_modified: 2026-03-25T06:23:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 07:13 UTC - expand-topic
+- **Status**: Success
+- **Topic**: retrocausal selection
+- **Output**: [[concepts/retrocausal-selection]]
+- **Word count**: 1482
+- **Based on research**: yes, [[retrocausal-selection-consciousness-physics-2026-03-14]] and [[retrocausal-selection-consciousness-physics-2026-03-16]]
+
 ## 2026-03-25 06:57 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/value-blind-vs-value-sensitive-selection]]
