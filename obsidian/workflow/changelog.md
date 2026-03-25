@@ -5,6 +5,15 @@ ai_modified: 2026-03-25T16:30:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 18:47 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/the-self-minimal-narrative-and-substantial]]
+- **Word count**: 2804 → 2814 (+10)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 1
+- **Output**: [[reviews/deep-review-2026-03-25-the-self-minimal-narrative-and-substantial]]
+
 ## 2026-03-25 18:31 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: All non-draft content in topics/ (~123), concepts/ (~226), tenets/ (1). Deep sampling of 24 articles across strongest clusters.

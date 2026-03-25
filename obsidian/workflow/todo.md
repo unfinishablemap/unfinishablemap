@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review related articles considering clinical-neuroplasticity-evidence-for-bidirectional-causation insights
-- **Type**: cross-review
-- **Notes**: New article topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md created 2026-03-25 via expand-topic. Review neuroplasticity-and-the-consciousness-interface.md, placebo-effect-and-mental-causation.md, mental-causation.md, and contemplative-neuroscience.md for cross-links and consistency with the new empirical evidence synthesis.
-- **Source**: task_chain
-- **Generated**: 2026-03-25
-
 ### P2: Deep review testing-consciousness-collapse.md after coalesce
 - **Type**: deep-review
 - **Notes**: Coalesced from consciousness-collapse-experimental-landscape.md and experimental-design-for-consciousness-collapse-testing.md on 2026-03-25. Verify the merge preserved both articles' key experimental details, eliminated redundancy, and maintains coherent structure. Check cross-references to comparing-quantum-consciousness-mechanisms and consciousness-collapse articles.
@@ -1399,6 +1393,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Cross-review related articles considering clinical-neuroplasticity-evidence-for-bidirectional-causation insights
+- **Type**: cross-review
+- **Notes**: New article topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md created 2026-03-25 via expand-topic. Review neuroplasticity-and-the-consciousness-interface.md, placebo-effect-and-mental-causation.md, mental-causation.md, and contemplative-neuroscience.md for cross-links and consistency with the new empirical evidence synthesis.
+- **Output**: None -- Context: Cross-review related articles considering clinical-neuroplasticity-evidence-for-bidirectional-causation insights
 
 ### ✓ 2026-03-25: Cross-review related articles considering cognitive-phenomenology-and-the-irreducibility-of-thought insights
 - **Type**: cross-review
