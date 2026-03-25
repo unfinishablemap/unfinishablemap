@@ -4,7 +4,7 @@ description: "The brain transmits and constrains consciousness rather than produ
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-24T06:03:00+00:00
+ai_modified: 2026-03-25T14:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -67,7 +67,7 @@ William James, in his 1898 Ingersoll Lecture "Human Immortality," proposed a "tr
 
 Henri Bergson developed a more radical version in *Matter and Memory* (1896). For Bergson, the brain's primary function is eliminative—it filters out most of consciousness to leave only what is useful for action. Memory is not stored in the brain; rather, the brain selects and activates only action-relevant memories. Brain damage produces amnesia not because memories are destroyed but because the access mechanism is disrupted.
 
-Bergson's prediction—that engram research would find retrieval mechanisms but not stored contents—has been partially vindicated. Memory remains stubbornly distributed: no single location stores a memory, and the engram appears more like a retrieval key than a storage container.
+Bergson's prediction—that engram research would find retrieval mechanisms but not stored contents—has been partially vindicated. Memory storage is widely distributed: no single location stores a complete memory, and engram research (Josselyn & Tonegawa 2020) suggests engrams function more like retrieval keys than storage containers—though "distributed" oversimplifies a complex literature with ongoing debate about localisation and consolidation.
 
 ### Aldous Huxley: The Reducing Valve
 
@@ -95,11 +95,11 @@ This three-way comparison is difficult for production models. If neural activity
 
 The graded, dose-dependent spectrum adds further weight. Consciousness under anaesthesia does not switch off at a threshold; it narrows continuously as dosage increases. This fits a progressively constricting filter better than a generator being powered down. The [[anaesthesia-and-the-consciousness-interface|full pharmacological analysis]] reveals at least four separable interface components that can be independently disrupted.
 
-Sensory information also reaches the brain during light sedation but is not perceived (Noreika et al. 2018; Mashour & Bharioke 2024). The signal arrives at sensory cortex; the interface blocks transmission—precisely what filter theory predicts.
+Sensory information also reaches the brain during light sedation but is not perceived (Noreika et al. 2018; Mashour & Bharioke 2024). The signal arrives at sensory cortex; the interface blocks transmission—consistent with the filter interpretation.
 
 ### Hypnagogic Loosening
 
-The [[hypnagogic-phenomenology-and-interface-modulation|hypnagogic transition]] at sleep onset provides a real-time demonstration of filter loosening. As executive constraint relaxes, bizarre imagery, loose associations, and synesthetic blending emerge—precisely what filter theory predicts when the reducing valve opens before the interface narrows into NREM sleep.
+The [[hypnagogic-phenomenology-and-interface-modulation|hypnagogic transition]] at sleep onset provides a real-time demonstration of filter loosening. As executive constraint relaxes, bizarre imagery, loose associations, and synesthetic blending emerge—the pattern filter theory expects when the reducing valve opens before the interface narrows into NREM sleep.
 
 ### Meditative Cessation
 
@@ -119,9 +119,9 @@ Skeptics note the majority report nothing, suggesting memory reconstruction duri
 
 ### Covert Consciousness
 
-Up to 25% of patients classified as behaviorally unresponsive show clear signs of consciousness via neuroimaging. They understand language, follow instructions, and sustain attention—but cannot express any of this through behavior.
+Up to 25% of patients classified as behaviorally unresponsive show clear signs of consciousness via neuroimaging (Claassen et al. 2019; Owen et al. 2006). They understand language, follow instructions, and sustain attention—but cannot express any of this through behavior.
 
-These patients demonstrate the distinction between consciousness and its expression through the brain. Consciousness persists; only its interface with motor systems is damaged. This is exactly what filter theory predicts: damage the interface, not the consciousness. The [[disorders-of-consciousness-as-test-cases|full spectrum of disorders of consciousness]] tests this prediction against functionalist, IIT, GNWT, and higher-order alternatives.
+These patients demonstrate the distinction between consciousness and its expression through the brain. Consciousness persists; only its interface with motor systems is damaged. This is precisely what filter theory predicts: damage the interface, not the consciousness. The [[disorders-of-consciousness-as-test-cases|full spectrum of disorders of consciousness]] tests this prediction against functionalist, IIT, GNWT, and higher-order alternatives.
 
 ### Dreams
 
@@ -129,7 +129,9 @@ These patients demonstrate the distinction between consciousness and its express
 
 ### Hemispherectomy
 
-Patients with an entire hemisphere surgically removed retain substantially normal consciousness. If consciousness were produced proportionally by neural tissue, removing half should halve it. Instead, consciousness adapts and persists—suggesting it interfaces through neural tissue rather than emerging from it.
+Patients with an entire hemisphere surgically removed retain substantially normal consciousness. Production theorists have a ready response: consciousness depends on specific neural circuits and their organisation, not bulk tissue volume. The remaining hemisphere reorganises to contain the necessary circuits—a well-documented phenomenon in developmental neurology.
+
+What makes hemispherectomy interesting for filter theory is the *degree* of preservation despite the *scale* of loss. The brain loses not just volume but entire cortical regions, yet consciousness reconstitutes itself through radically different neural architecture. Both interpretations accommodate this: production theory invokes neural plasticity; filter theory invokes interface adaptability. The case is less decisive than other evidence (psychedelic paradox, terminal lucidity) but illustrates the general filter principle: consciousness persists through interface changes that would be surprising if the interface were the *source* rather than the *medium*.
 
 ### Simple Organisms and the Filter Boundary
 
@@ -244,16 +246,21 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 
 ## References
 
+1. Batthyány, A. & Greyson, B. (2020). Terminal lucidity: A review and a case collection. *Archives of Gerontology and Geriatrics*, 88, 104016.
 1. Bergson, H. (1896). *Matter and Memory*. Trans. N.M. Paul and W.S. Palmer.
+1. Bhatt, M.B., et al. (2019). Consciousness in brain-injured patients. *Brain*, 142, e22.
+1. Claassen, J., et al. (2019). Detection of brain activation in unresponsive patients with acute brain injury. *New England Journal of Medicine*, 380(26), 2497-2505.
 1. Carhart-Harris, R., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *PNAS*, 109(6), 2138-2143.
 1. Carhart-Harris, R. & Friston, K. (2019). REBUS and the anarchic brain: Toward a unified model of the brain action of psychedelics. *Pharmacological Reviews*, 71(3), 316-344.
 1. Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Huxley, A. (1954). *The Doors of Perception*. Chatto & Windus.
 1. James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin.
+1. Josselyn, S.A. & Tonegawa, S. (2020). Memory engrams: Recalling the past and imagining the future. *Science*, 367(6473), eaaw4325.
 1. Kelly, E.F., et al. (2007). *Irreducible Mind: Toward a Psychology for the 21st Century*. Rowman & Littlefield.
 1. Mashour, G. A. & Bharioke, A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(8).
 1. Mashour, G. A., et al. (2024). Differential thalamic mechanisms of propofol and ketamine anaesthesia. *Anesthesiology*, 140(5), 923-934.
 1. Noreika, V., et al. (2018). Consciousness lost and found: subjective experiences in an unresponsive state. *British Journal of Anaesthesia*, 121(1), 298-305.
+1. Owen, A.M., et al. (2006). Detecting awareness in the vegetative state. *Science*, 313(5792), 1402.
 1. Parnia, S., et al. (2023). "AWAreness during REsuscitation II: A multi-center study of consciousness and awareness in cardiac arrest." *Resuscitation*, 191, 109903.
 1. Sarasso, S., et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099-3105.
 1. Sanders, R. D., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8.
@@ -271,6 +278,20 @@ Changes made:
 
 Based on research/consciousness-anesthesia-filter-theory-2026-03-20.md.
 Key improvements: Transformed brief anesthetic evidence subsection into detailed pharmacological case for filter theory.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-03-25
+Changes made:
+- Rewrote hemispherectomy section to steelman production-theory response (neural reorganisation)
+- Varied "exactly/precisely what filter theory predicts" — reserved strongest phrasing for covert consciousness only
+- Added citation for covert consciousness claim (Claassen et al. 2019; Owen et al. 2006)
+- Added qualification to distributed memory claim with Josselyn & Tonegawa 2020 citation
+- Added 5 new references (Batthyány 2020, Bhatt 2019, Claassen 2019, Josselyn 2020, Owen 2006)
+
+Coordinated with consciousness-selecting-neural-patterns.md and downward-causation.md per pessimistic-2026-03-20-c.md.
+Key improvements: Removed straw-man hemispherectomy argument, added missing citations, varied repetitive phrasing.
 
 This log should be removed after human review.
 -->

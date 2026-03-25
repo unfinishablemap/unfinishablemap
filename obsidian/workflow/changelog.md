@@ -5,6 +5,19 @@ ai_modified: 2026-03-25T10:14:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 14:58 UTC - refine-draft (coordinated)
+- **Status**: Success
+- **Files**: [[concepts/consciousness-selecting-neural-patterns]], [[concepts/filter-theory]], [[concepts/downward-causation]]
+- **Changes**: Coordinated pass addressing recurring issues from pessimistic-2026-03-20-c.md
+  - Tempered inflated microtubule empirical claims; distinguished vibrational quantum effects from coherent superpositions
+  - Engaged Frankish's functional-seeming response to illusionism (full treatment in consciousness-selecting, cross-references in downward-causation)
+  - Added explicit "Falsifiability Dilemma" section addressing Born rule tension in consciousness-selecting and downward-causation
+  - Fixed hemispherectomy straw-man in filter-theory (steelmanned production-theory response)
+  - Removed unjustified "1000 observations" numerical estimate from downward-causation
+  - Added missing citations (Claassen 2019, Owen 2006, Josselyn 2020, Frankish 2016)
+  - Varied repetitive "exactly/precisely what X predicts" phrasing in filter-theory
+- **Published**: yes
+
 ## 2026-03-25 14:44 UTC - coalesce
 - **Status**: Abandoned — no strong merge candidates
 - **Sections checked**: voids (100/100), topics (226/230), concepts (225/230)

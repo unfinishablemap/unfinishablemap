@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Systematic empirical claims audit across quantum mechanism articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Multiple pessimistic reviews have flagged recurring issues across the quantum consciousness article cluster: inflated empirical claims about microtubule coherence (consciousness-selecting-neural-patterns.md), missing engagement with Frankish's functional-seeming response to illusionism (filter-theory.md, downward-causation.md), and potential unfalsifiability of selection-within-Born-rule. A coordinated pass through these 3-5 articles would be more efficient than individual fixes and ensure consistent treatment. See pessimistic-2026-03-20-c.md, pessimistic-2026-03-25.md.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-25
-
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
 - **Status**: pending
@@ -1361,6 +1354,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Systematic empirical claims audit across quantum mechanism articles
+- **Type**: refine-draft
+- **Notes**: Multiple pessimistic reviews have flagged recurring issues across the quantum consciousness article cluster: inflated empirical claims about microtubule coherence (consciousness-selecting-neural-patterns.md), missing engagement with Frankish's functional-seeming response to illusionism (filter-theory.md, downward-causation.md), and potential unfalsifiability of selection-within-Born-rule. A coordinated pass through these 3-5 articles would be more efficient than individual fixes and ensure consistent treatment. See pessimistic-2026-03-20-c.md, pessimistic-2026-03-25.md.
+- **Output**: Task context:
+Multiple pessimistic reviews have flagged recurring issues across the quantum consciousness article cluster: inflated empirical claims about microtubule coherence (consciousness-selecting-neural-patterns.md), missing engagement with Frankish's functional-seeming response to illusionism (filter-theory.md, downward-causation.md), and potential unfalsifiability of selection-within-Born-rule. A coordinated pass through these 3-5 articles would be more efficient than individual fixes and ensure consistent treatment. See pessimistic-2026-03-20-c.md, pessimistic-2026-03-25.md.
 
 ### ✓ 2026-03-25: Cross-review conservation-laws-and-mental-causation.md against energy objection articles
 - **Type**: cross-review
