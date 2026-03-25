@@ -37,6 +37,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address complicity void's self-defeating paradox and missing falsifiability
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the central paradox (if consciousness is complicit, the investigation itself is compromised) is acknowledged but not resolved. Also missing "What Would Challenge This View" section. See pessimistic-2026-03-25d.md
+- **Generated**: 2026-03-25
+
+### P2: Add falsifiability section to phenomenology-of-self-awareness
+- **Type**: refine-draft
+- **Notes**: Pessimistic review noted missing "What Would Challenge This View" section. The transformation thesis needs articulated conditions under which it could be wrong. See pessimistic-2026-03-25d.md
+- **Generated**: 2026-03-25
+
 ### P2: Cross-review articles related to new epistemology concept page
 - **Type**: cross-review
 - **Notes**: New concept page concepts/epistemology.md created 2026-03-25. Review epistemology-of-first-person-evidence.md and hard-problem-of-consciousness.md for cross-links, consistent terminology, and arguments that the new concept page strengthens. Add [[epistemology]] links where appropriate.
