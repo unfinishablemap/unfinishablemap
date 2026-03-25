@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate consciousness-and-the-philosophy-of-mathematics.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File created 2026-03-25 via expand-topic, has no inbound links. Add cross-references from related articles including mathematical-truth-and-conscious-access, consciousness-and-mathematical-cognition, mathematical-void, and other philosophy-of-mathematics articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-25
-
 ### P2: Integrate born-rule-interpretation-invariance-consciousness.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File created 2026-03-24 via expand-topic, has no inbound links. Add cross-references from born-rule-and-the-consciousness-interface, consciousness-and-probability-interpretation, comparing-quantum-consciousness-mechanisms, and other quantum consciousness articles.
@@ -1343,6 +1337,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Integrate consciousness-and-the-philosophy-of-mathematics.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-25 via expand-topic, has no inbound links. Add cross-references from related articles including mathematical-truth-and-conscious-access, consciousness-and-mathematical-cognition, mathematical-void, and other philosophy-of-mathematics articles.
+- **Output**: obsidian/concepts/consciousness-and-the-philosophy-of-mathematics.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-25: Condense parsimony-epistemology.md (3777 words, 108% of hard threshold)
 - **Type**: condense

@@ -22,6 +22,7 @@ concepts:
   - "[[haecceity]]"
   - "[[epistemic-emotions]]"
   - "[[consciousness-and-mathematical-cognition]]"
+  - "[[consciousness-and-the-philosophy-of-mathematics]]"
   - "[[consciousness-as-amplifier]]"
   - "[[language-recursion-and-consciousness]]"
   - "[[language-thought-boundary]]"
@@ -136,7 +137,7 @@ PCT explains several puzzles:
 
 ## The Mathematical Understanding Case
 
-[[consciousness-and-mathematical-cognition|Mathematical understanding]] provides compelling evidence because three phenomenal stages are clearly delineated: **verification** (checking steps follow rules), **understanding** (grasping *why* it works), and **insight** (sudden arrival of solutions). The transition from verification to understanding is phenomenally marked—the same symbols, different experience.
+[[consciousness-and-mathematical-cognition|Mathematical understanding]] provides compelling evidence because three phenomenal stages are clearly delineated. (The [[consciousness-and-the-philosophy-of-mathematics|philosophy of mathematics]] maps the broader landscape: every major position on mathematical ontology implies a position on what consciousness does.): **verification** (checking steps follow rules), **understanding** (grasping *why* it works), and **insight** (sudden arrival of solutions). The transition from verification to understanding is phenomenally marked—the same symbols, different experience.
 
 Mathematical understanding shows tight coupling between phenomenology and performance: those who report genuine understanding can apply insights to new problems, while mere verifiers cannot. If the phenomenal difference were confabulation, it wouldn't predict cognitive success so reliably.
 

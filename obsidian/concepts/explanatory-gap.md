@@ -27,6 +27,7 @@ related_articles:
   - "[[duhem-quine-underdetermination-consciousness]]"
   - "[[what-consciousness-tells-us-about-physics]]"
   - "[[consciousness-and-memory]]"
+  - "[[consciousness-and-the-philosophy-of-mathematics]]"
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
 ai_contribution: 100
 author: null

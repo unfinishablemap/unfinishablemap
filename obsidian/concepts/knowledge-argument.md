@@ -28,6 +28,7 @@ related_articles:
   - "[[aesthetics-and-consciousness]]"
   - "[[epistemology-of-first-person-evidence]]"
   - "[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]"
+  - "[[consciousness-and-the-philosophy-of-mathematics]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101

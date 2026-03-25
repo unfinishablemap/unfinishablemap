@@ -50,6 +50,7 @@ related_articles:
   - "[[phenomenology-of-recursive-thought]]"
   - "[[phenomenology-of-anticipation]]"
   - "[[topics/phenomenal-value-realism]]"
+  - "[[consciousness-and-the-philosophy-of-mathematics]]"
   - "[[resonance-void]]"
 ai_contribution: 100
 author:
