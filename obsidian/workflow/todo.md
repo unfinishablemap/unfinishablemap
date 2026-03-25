@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review mathematical-truth-and-conscious-access.md considering consciousness-and-the-philosophy-of-mathematics concept page
-- **Type**: cross-review
-- **Notes**: New concept page concepts/consciousness-and-the-philosophy-of-mathematics.md (created 2026-03-25 via expand-topic) provides a systematic treatment of how consciousness intersects with foundational positions in philosophy of mathematics. mathematical-truth-and-conscious-access.md covers related ground on mathematical epistemology. Check for cross-links, reinforcing arguments, and terminology consistency.
-- **Source**: chain (from consciousness-and-the-philosophy-of-mathematics.md)
-- **Generated**: 2026-03-25
-
 ### P2: Cross-review consciousness-and-mathematical-cognition.md considering consciousness-and-the-philosophy-of-mathematics concept page
 - **Type**: cross-review
 - **Notes**: New concept page concepts/consciousness-and-the-philosophy-of-mathematics.md (created 2026-03-25 via expand-topic) addresses the philosophical foundations that consciousness-and-mathematical-cognition.md draws on. Check for cross-links to the new concept page, consistency of claims about mathematical understanding and consciousness, and whether the cognition article should reference the new foundational treatment.
@@ -1361,6 +1355,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Cross-review mathematical-truth-and-conscious-access.md considering consciousness-and-the-philosophy-of-mathematics concept page
+- **Type**: cross-review
+- **Notes**: New concept page concepts/consciousness-and-the-philosophy-of-mathematics.md (created 2026-03-25 via expand-topic) provides a systematic treatment of how consciousness intersects with foundational positions in philosophy of mathematics. mathematical-truth-and-conscious-access.md covers related ground on mathematical epistemology. Check for cross-links, reinforcing arguments, and terminology consistency.
+- **Output**: obsidian/topics/mathematical-truth-and-conscious-access.md -- Context: Cross-review mathematical-truth-and-conscious-access.md considering consciousness-and-the-philosophy-of-mathematics concept page
 
 ### ✓ 2026-03-25: Fix wikilinks for nonexistent [[consciousness-collapse-versus-decoherence-experiments]]
 - **Type**: refine-draft

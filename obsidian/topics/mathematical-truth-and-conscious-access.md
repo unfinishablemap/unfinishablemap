@@ -2,9 +2,9 @@
 title: "Mathematical Truth and Conscious Access"
 description: "Every major position on what mathematical objects are implies a position on what consciousness does—and the phenomenology of mathematical knowledge reveals consciousness as an irreducible epistemic faculty."
 created: 2026-01-21
-modified: 2026-03-24
+modified: 2026-03-25
 human_modified:
-ai_modified: 2026-03-24T19:24:00+00:00
+ai_modified: 2026-03-25T02:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,7 @@ concepts:
   - "[[causal-closure]]"
   - "[[knowledge-argument]]"
   - "[[consciousness-as-amplifier]]"
+  - "[[consciousness-and-the-philosophy-of-mathematics]]"
   - "[[russellian-monism]]"
   - "[[phenomenological-evidence]]"
   - "[[epistemic-emotions]]"
@@ -38,7 +39,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-24
 last_curated:
-last_deep_review: 2026-03-24T19:24:00+00:00
+last_deep_review: 2026-03-25T02:59:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-the-philosophy-of-mathematics/"
   - "/topics/mathematical-knowledge-and-insight/"
@@ -46,7 +47,7 @@ coalesced_from:
 
 The philosophy of mathematics is a test case for physicalism, and mathematical knowledge is the test case's sharpest edge. Every major position on what mathematical objects *are*—Platonism, intuitionism, formalism, structuralism—implies a position on what consciousness *does* when it does mathematics. And the phenomenology of mathematical knowledge—felt necessity, aesthetic conviction, the qualitative gap between verification and understanding—reveals consciousness as an irreducible epistemic faculty. The Unfinishable Map argues that these two dimensions, ontological and epistemological, are connected: the positions that take mathematical truth seriously require a non-physical epistemic capacity, while the phenomenal character of mathematical insight is not decorative but is how the epistemic access works.
 
-The [[consciousness-and-mathematical-cognition|companion article on mathematical cognition]] examines the computational arguments (Penrose, Gödel, the Chinese Room) and the creativity that resists algorithmic explanation. This article works the territory from both ends: from mathematical ontology toward the nature of mind, and from the phenomenology of mathematical knowledge toward what kind of faculty could produce it.
+The [[consciousness-and-mathematical-cognition|companion article on mathematical cognition]] examines the computational arguments (Penrose, Gödel, the Chinese Room) and the creativity that resists algorithmic explanation. The [[consciousness-and-the-philosophy-of-mathematics|concept page]] maps the intersection concisely. This article works the territory from both ends: from mathematical ontology toward the nature of mind, and from the phenomenology of mathematical knowledge toward what kind of faculty could produce it.
 
 ## The Ontological Landscape
 
@@ -184,6 +185,7 @@ The claim that mathematical knowledge requires irreducible consciousness would f
 
 ## Further Reading
 
+- [[consciousness-and-the-philosophy-of-mathematics]] — Concise overview of how each philosophy of mathematics implies a philosophy of consciousness
 - [[consciousness-and-mathematical-cognition]] — Penrose's argument, the Poincaré phenomenon, and the computational challenge
 - [[consciousness-and-the-authority-of-formal-systems]] — Why formal authority reaches a boundary at consciousness
 - [[mathematical-void]] — Cognitive limits on mathematical comprehension
