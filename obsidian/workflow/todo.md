@@ -87,6 +87,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-24
 
+### P3: Add cross-links between underdetermination, adaptive limits, African philosophy, and environmental ethics
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Five cross-linking opportunities: duhem-quine → adaptive-cognitive-limits (underdetermination may reflect evolved limits), african-philosophy-of-consciousness → apophatic-approaches (oral tradition parallels), phenomenal-normativity-environmental-ethics → arguments-against-epiphenomenalism (epiphenomenalism failure grounds normativity), living-with-the-map → taxonomy-of-voids (practical vs. theoretical limits), decoherence → attention-as-interface (discrete observation = attention event). See optimistic-2026-03-25.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-25
+
+### P3: Write concept page on substance causation (Lowe's four-category ontology)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Lowe's substance causation framework appears across agent-causation, interactionist-dualism, and consciousness-and-agency apex but has no dedicated page. Would ground the recurring claim that agent-to-event causation isn't metaphysically exceptional. Target section: concepts/. See optimistic-2026-03-25.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-25
+
 ### P3: Add citation for meditation efficacy claim in epiphenomenalism.md
 - **Type**: refine-draft
 - **Status**: pending
