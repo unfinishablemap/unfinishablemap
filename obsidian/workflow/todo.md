@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review agency and causation articles considering agent-causation.md concept page
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/agent-causation.md created 2026-03-25 via expand-topic. Review consciousness-and-causal-powers.md, mental-causation.md, downward-causation.md, and free-will.md for cross-linking opportunities. Agent causation is central to Tenet 3 (Bidirectional Interaction) — ensure these articles reference the new concept page where they discuss non-event causation or substance causation.
-- **Source**: chain (from agent-causation.md)
-- **Generated**: 2026-03-25
-
 ### P2: Cross-review atemporal-causation.md after absorbing retrocausal-selection.md content
 - **Type**: cross-review
 - **Status**: pending
@@ -1382,6 +1375,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Cross-review agency and causation articles considering agent-causation.md concept page
+- **Type**: cross-review
+- **Notes**: New concept page concepts/agent-causation.md created 2026-03-25 via expand-topic. Review consciousness-and-causal-powers.md, mental-causation.md, downward-causation.md, and free-will.md for cross-linking opportunities. Agent causation is central to Tenet 3 (Bidirectional Interaction) — ensure these articles reference the new concept page where they discuss non-event causation or substance causation.
+- **Output**: obsidian/concepts/agent-causation.md -- Context: Cross-review agency and causation articles considering agent-causation.md concept page
 
 ### ✓ 2026-03-25: Cross-review phenomenology articles considering cognitive-phenomenology-and-the-irreducibility-of-thought.md
 - **Type**: cross-review

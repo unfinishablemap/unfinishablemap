@@ -5,6 +5,15 @@ ai_modified: 2026-03-25T10:14:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 13:14 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/agent-causation]]
+- **Word count**: 3467 → 3394 (-73)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (word count drift trimmed, missing apex cross-link added)
+- **Enhancements made**: 1 (consolidated Further Reading entries)
+- **Output**: [[reviews/deep-review-2026-03-25-agent-causation]]
+
 ## 2026-03-25 12:58 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/atemporal-causation]]

@@ -4,7 +4,7 @@ description: "Agent causation holds that persons originate actions directly as s
 created: 2026-01-15
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-03-25T13:14:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -35,6 +35,7 @@ related_articles:
   - "[[tenets]]"
   - "[[phenomenology-mechanism-bridge]]"
   - "[[process-and-consciousness]]"
+  - "[[consciousness-and-agency]]"
   - "[[agent-causation-libertarian-free-will-2026-01-14]]"
   - "[[voluntary-attention-control-mechanisms-2026-01-17]]"
   - "[[motor-control-quantum-zeno-2026-01-18]]"
@@ -46,7 +47,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-03-21T16:55:00+00:00
+last_deep_review: 2026-03-25T13:14:00+00:00
 coalesced_from:
   - "/concepts/substance-causation/"
 ---
@@ -71,7 +72,7 @@ Agent causation rests on a deeper metaphysical thesis: *substance causation*—t
 
 ### Event Causation vs. Substance Causation
 
-The dominant view in contemporary philosophy is *event causation*: events cause events according to laws. The firing of neuron A causes the firing of neuron B. Your desire (an event) causes your action (another event).
+The dominant view in contemporary philosophy is *event causation*: events cause events according to laws. The firing of neuron A causes the firing of neuron B.
 
 Substance causation inverts this. Substances—the neuron, you—are the causal agents. When neuron A fires, the neuron exercises its powers; it isn't that "the firing" causes something. When you act, *you* cause the action—not your desire causing your body to move. Lowe put it directly: "Substances, not events, are the causal source of all change in the world."
 
@@ -85,7 +86,7 @@ E.J. Lowe developed the most systematic contemporary defence of substance causat
 
 **Four-category ontology**: Lowe distinguishes substances (individual things), kinds (categories substances belong to), modes (particular property instances), and attributes (universal properties). Causation operates primarily at the substance level.
 
-**Powers and liabilities**: Substances have causal powers (capacities to produce effects) and liabilities (susceptibilities to be affected). A match has the power to ignite; wood has the liability to burn. Causation occurs when powers meet liabilities.
+**Powers and liabilities**: Substances have causal powers (capacities to produce effects) and liabilities (susceptibilities to be affected). A match has the power to ignite; wood has the liability to burn.
 
 **Free agents as unmoved movers**: Free agents are "unmoved movers, or initiators of new causal chains"—no prior event determines the choice.
 
@@ -95,7 +96,7 @@ E.J. Lowe developed the most systematic contemporary defence of substance causat
 
 The standard objection to [[interactionist-dualism|interactionist dualism]] is that consciousness causing physical events would be "metaphysically exceptional"—a mysterious relation unlike ordinary causation. If ordinary causation is event→event following laws, then consciousness→neurons seems anomalous.
 
-Substance causation dissolves this objection. If *all* causation is substances exercising powers, then consciousness causing events is the same *type* of causation as anything else. The rock breaks the window because the rock exercises powers; consciousness affects neurons because consciousness exercises powers. Same metaphysical structure.
+Substance causation dissolves this objection. If *all* causation is substances exercising powers, then consciousness causing events is the same *type* of causation as anything else—not anomalous but paradigmatic.
 
 This doesn't prove consciousness causes anything—that's an empirical and phenomenological question. But it removes the objection that consciousness *couldn't* cause anything because that would require a fundamentally new kind of causation.
 
@@ -142,7 +143,7 @@ The Map specifies *where* agent causation interfaces with physics: at quantum in
 
 This also addresses the [[pairing-problem|pairing problem]]: if consciousness interfaces at specific quantum-sensitive neural structures, it's spatially located where those structures are. Agent causation operates through particular physical interfaces.
 
-Why can't we observe this interface in action? The [[causal-interface|causal interface void]] explains: the mechanism is systematically invisible from both first-person introspection (which accesses intentions and actions but not their connection) and third-person observation (which sees correlates but not causation). This opacity is *predicted* by minimal quantum interaction—a minimal influence leaves minimal traces. The invisibility is not an embarrassment but a consequence of the interface being precisely small enough to avoid violating conservation laws.
+Why can't we observe this interface in action? The [[causal-interface|causal interface void]] explains: the mechanism is systematically invisible from both first-person introspection (which accesses intentions and actions but not their connection) and third-person observation (which sees correlates but not causation). This opacity is *predicted* by minimal quantum interaction—a minimal influence leaves minimal traces.
 
 The [[decoherence|decoherence challenge]]—that warm neural tissue decoheres too fast (the [[timing-gap-problem]])—assumes quantum effects must persist at computation timescales. The Map requires only that consciousness biases outcomes *at* decoherence; quantum biology has demonstrated unexpected coherence in warm biological systems (photosynthetic complexes, avian magnetoreception).
 
@@ -158,7 +159,7 @@ The retrocausal dimension deepens this: if selection operates through [[atempora
 
 ## Skill Delegation and the Interface
 
-If agents cause actions, why don't they control every detail of skilled performance? The [[implicit-memory|implicit memory]] framework resolves this: skilled automaticity represents *delegation*, not absence. [[skill-delegation|Skill delegation]] follows a consistent three-phase pattern—conscious calibration, progressive withdrawal, and retained override capacity—that parallels the metaphysical structure in [[causal-delegation]]: in both cases, one causal source hands off work to another while retaining the capacity to re-engage.
+If agents cause actions, why don't they control every detail of skilled performance? The [[implicit-memory|implicit memory]] framework resolves this: skilled automaticity represents *delegation*, not absence. [[skill-delegation|Skill delegation]] follows a three-phase pattern—conscious calibration, progressive withdrawal, and retained override capacity—paralleling [[causal-delegation]]'s metaphysical structure.
 
 The "choking under pressure" phenomenon demonstrates causal efficacy—as the [[phenomenology-of-agency-vs-passivity|phenomenology of agency]] details, when experts consciously re-engage with automatised actions, performance degrades. This proves consciousness isn't epiphenomenal: if attention were causally inert, it couldn't interfere with skills. The agency-passivity axis provides the empirical grounding for agent causation, showing that consciousness's causal contribution varies along a spectrum from full agentic selection to passive observation.
 
@@ -221,6 +222,7 @@ Against [[concepts/epiphenomenalism]]: substance causation combined with the sel
 
 ## Further Reading
 
+- [[consciousness-and-agency]] — How consciousness authors action (apex synthesis)
 - [[process-and-consciousness]] — How process philosophy supports agent causation (apex synthesis)
 - [[quantum-indeterminacy-free-will]] — Systematic treatment including Kane's 2024 convergence
 - [[phenomenology-of-choice-and-volition]] — Deliberation, decision, authorship
@@ -233,8 +235,7 @@ Against [[concepts/epiphenomenalism]]: substance causation combined with the sel
 - [[attention-as-interface]] — Attention as causal pathway
 - [[voluntary-attention-control-mechanisms]] — Frontal decision circuits, salience network switching, and thalamic gating
 - [[phenomenology-of-agency-vs-passivity]] — The agency-passivity axis that empirically grounds agent causation
-- [[skill-delegation]] — The three-phase delegation pattern and its parallel with causal delegation
-- [[implicit-memory]] — Skill delegation and choking phenomenon
+- [[skill-delegation]] — The three-phase delegation pattern, choking phenomenon, and parallel with [[causal-delegation]]
 - [[mental-causation]] — The problem substance causation addresses
 - [[downward-causation]] — How higher-level substances influence lower-level processes
 - [[atemporal-causation]] — Causation outside temporal sequence
