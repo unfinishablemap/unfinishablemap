@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on cognitive phenomenology
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/cognitive-phenomenology-thinking-experience-2026-01-17.md. The phenomenal character of thought itself — not just perception — is central to the Map's case that consciousness is irreducible. Proprietary cognitive phenomenology (Strawson, Pitt, Bayne/Montague) vs. conservative views. Strengthens Tenet 1 by showing consciousness pervades cognition, not just sensation. Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-25
-
 ### P2: Write concept page on agent causation
 - **Type**: expand-topic
 - **Status**: pending
@@ -1374,6 +1367,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Write article on cognitive phenomenology
+- **Type**: expand-topic
+- **Notes**: Research completed in research/cognitive-phenomenology-thinking-experience-2026-01-17.md. The phenomenal character of thought itself — not just perception — is central to the Map's case that consciousness is irreducible. Proprietary cognitive phenomenology (Strawson, Pitt, Bayne/Montague) vs. conservative views. Strengthens Tenet 1 by showing consciousness pervades cognition, not just sensation. Target section: topics/.
+- **Output**: cognitive phenomenology
 
 ### ✓ 2026-03-25: Write article on consciousness during anesthesia and filter theory
 - **Type**: expand-topic
