@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-17 20:29:00+00:00
+ai_modified: 2026-03-25 09:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -211,6 +211,7 @@ These aren't mere philosophical positions—they bear on factory farming, AI dev
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — The felt quality of emotion and its ethical implications
 - [illusionism](/concepts/illusionism/) — The challenge from eliminativism about phenomenal consciousness
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — Why pain's badness is built into its phenomenal character
+- [moral-phenomenology-and-perception](/concepts/moral-phenomenology-and-perception/) — What moral experience feels like and whether ethical properties can be directly perceived
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — The pain-suffering distinction and the causal work of felt badness
 - [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/) — Moral responsibility when agency is constrained
 - [normative-void](/voids/normative-void/) — Cognitive limits on moral knowledge—ethical truths beyond human reach

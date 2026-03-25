@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-23 18:44:00+00:00
+ai_modified: 2026-03-25 09:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -175,6 +175,7 @@ Both the cognitivist reduction of emotions to judgments and the somatic reductio
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The position that mind and body are distinct yet causally connected
 - [ai-consciousness](/topics/ai-consciousness/) — Whether artificial systems can be phenomenally conscious
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Moral implications of consciousness
+- [moral-phenomenology-and-perception](/concepts/moral-phenomenology-and-perception/) — The felt character of wrongness, obligation, and guilt as moral qualia
 - [valence-as-selection-currency](/topics/valence-as-selection-currency/) — Valence as the criterion for conscious selection
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — How mood and atmosphere co-constitute place-experience
 - [emotional-consciousness-valence-2026-01-19](/research/emotional-consciousness-valence-2026-01-19/) — Research notes on emotions and valence

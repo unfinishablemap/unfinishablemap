@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-03-23 15:29:00+00:00
+ai_modified: 2026-03-25 09:43:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -223,6 +223,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) - Why qualia resist linguistic capture (bidirectional lossy channel)
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) - Aesthetic qualia resistant to reduction
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) - Whether thinking has phenomenal character
+- [moral-phenomenology-and-perception](/concepts/moral-phenomenology-and-perception/) - Moral qualia: the felt wrongness, obligation, and guilt that extend the hard problem into ethics
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) - Why pain's felt quality is inseparable from its causal power
 - [minimal-consciousness](/concepts/minimal-consciousness/) - Qualia in simple organisms
 - [affective-void](/voids/affective-void/) - Emotions and affects beyond human phenomenological reach

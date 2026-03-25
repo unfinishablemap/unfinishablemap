@@ -38,6 +38,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review reasoning articles considering cognitive phenomenology irreducibility
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md created via expand-topic. Review argument-from-reason.md, self-stultification-as-master-argument.md, phenomenology-of-understanding-and-meaning.md, and phenomenology-of-intellectual-effort.md for cross-links and argumentative consistency. The irreducibility-of-thought argument strengthens the case in these articles — add explicit connections.
+- **Source**: chain (from cognitive-phenomenology-and-the-irreducibility-of-thought.md)
+- **Generated**: 2026-03-25
+
+### P2: Cross-review void articles considering epistemological-limits-occams-razor
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New void article voids/epistemological-limits-occams-razor.md created via expand-topic. Review meta-epistemology-of-limits.md, three-kinds-of-void.md, whether-real.md, and parsimony-epistemology.md for cross-links and consistency. The Occam's razor epistemological limits argument connects directly to Tenet 5 — ensure related articles reference this void.
+- **Source**: chain (from epistemological-limits-occams-razor.md)
+- **Generated**: 2026-03-25
+
+### P2: Write concept page on conservation laws and mind-brain causation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/conservation-laws-mind-brain-causation-2026-01-23.md. The conservation of energy objection is the most common scientific challenge to interactionist dualism — a dedicated concept page would anchor the Map's response (quantum indeterminacy within conservation constraints). Referenced implicitly across mental-causation, causal-closure, and interactionist-dualism articles but never given systematic treatment. Target section: concepts/ (226/230, 4 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-25
+
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
 - **Status**: pending
@@ -1340,6 +1361,54 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Cross-review agency articles considering agent-causation concept page
+- **Type**: cross-review
+- **Notes**: New concept page concepts/agent-causation.md created via expand-topic. Review free-will.md, phenomenology-of-agency-vs-passivity.md, concept-of-free-will.md, and phenomenology-mechanism-bridge.md for cross-links and terminological consistency. The agent-causation page references luck objection, motor selection, and quantum indeterminacy — ensure these connections are bidirectional.
+- **Output**: None -- Context: Cross-review agency articles considering agent-causation concept page
+
+### ✓ 2026-03-25: Strengthen type/token causation argument in consciousness-and-integrated-information.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the type/token causation distinction bears the entire weight of the Map's response to the passivity charge but receives insufficient development. Needs engagement with philosophical literature on token causation (Kim 2005), fuller treatment of decoherence timescales with citations (Tegmark 2000), and acknowledgement of circularity risk in the identity-vs-epiphenomenalism argument. See pessimistic-2026-03-25b.md
+- **Output**: obsidian/topics/consciousness-and-integrated-information.md
+
+Task context:
+Pessimistic review found the type/token causation distinction bears the entire weight of the Map's response to the passivity charge but receives insufficient development. Needs engagement with philosophical literature on token causation (Kim 2005), fuller treatment of decoherence timescales with citations (Tegmark 2000), and acknowledgement of circularity risk in the identity-vs-epiphenomenalism argument. See pessimistic-2026-03-25b.md
+
+### ✓ 2026-03-25: Cross-review embodied consciousness articles considering enactivism challenge
+- **Type**: cross-review
+- **Notes**: New article topics/enactivism-challenge-to-interactionist-dualism.md created via expand-topic. Review embodied-consciousness-and-the-interface.md, sensorimotor-contingencies-and-the-interface.md, and consciousness-as-activity.md for cross-links, reinforcing arguments, and consistency with the enactivism critique. Ensure the Map's response to enactivism is coherent across related articles.
+- **Output**: None -- Context: Cross-review embodied consciousness articles considering enactivism challenge
+
+### ✓ 2026-03-25: Integrate surprise-and-creativity.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has only 1 inbound link (created 2026-02-15). Add cross-references from consciousness-as-amplifier, consciousness-and-mathematical-cognition, and phenomenology-of-understanding-and-meaning. Surprise and creativity are paradigm cases of consciousness doing work that pure computation cannot explain.
+- **Output**: surprise-and-creativity.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-25: Integrate moral-phenomenology.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has only 1 inbound link (created 2026-02-15). Add cross-references from consciousness-and-normative-force, phenomenal-normativity-environmental-ethics, and metaethics-of-consciousness articles. The moral phenomenology concept connects to the Map's broader argument that phenomenal experience grounds normativity.
+- **Output**: moral-phenomenology.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-25: Integrate phenomenology-of-mathematical-insight.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has only 1 inbound link (created 2026-03-08). Add cross-references from consciousness-and-mathematical-cognition, mathematical-knowledge-and-insight, and consciousness-and-the-philosophy-of-mathematics. Also consider links from mathematical-truth-and-conscious-access and phenomenal-forcing discussions.
+- **Output**: phenomenology-of-mathematical-insight.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-25: Write concept page on agent causation
+- **Type**: expand-topic
+- **Notes**: Research completed in research/agent-causation-libertarian-free-will-2026-01-14.md. Agent causation (O'Connor, Clarke, Lowe) is the metaphysical framework underlying Tenet 3's bidirectional interaction — substance causation by a non-physical agent rather than event-event causation. Currently referenced across free-will, mental-causation, and consciousness-and-agency but lacks a dedicated concept page. Target section: concepts/.
+- **Output**: Write concept page on agent causation
+
+### ✓ 2026-03-25: Write article on cognitive phenomenology
+- **Type**: expand-topic
+- **Notes**: Research completed in research/cognitive-phenomenology-thinking-experience-2026-01-17.md. The phenomenal character of thought itself — not just perception — is central to the Map's case that consciousness is irreducible. Proprietary cognitive phenomenology (Strawson, Pitt, Bayne/Montague) vs. conservative views. Strengthens Tenet 1 by showing consciousness pervades cognition, not just sensation. Target section: topics/.
+- **Output**: cognitive phenomenology
+
+### ✓ 2026-03-25: Write article on consciousness during anesthesia and filter theory
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Anesthesia provides a natural experiment for filter theory — if consciousness is filtered rather than generated, anesthetic agents alter the filter rather than extinguishing production. Synthesize research into concept page addressing sevoflurane/ketamine dissociations, connected consciousness during surgery, and implications for Tenet 1. Target section: concepts/.
+- **Output**: consciousness during anesthesia and filter theory
 
 ### ✓ 2026-03-25: Fix malformed and case-sensitive wikilinks across content
 - **Type**: refine-draft

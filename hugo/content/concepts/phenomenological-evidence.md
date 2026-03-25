@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-03-19 03:19:00+00:00
+ai_modified: 2026-03-25 09:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -185,6 +185,7 @@ Phenomenological evidence provides the data that any adequate theory of consciou
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — How meditation findings bear on consciousness debates
 - [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/) — The experience of evaluating evidence phenomenologically
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — The broader methodological divide in consciousness science
+- [moral-phenomenology-and-perception](/concepts/moral-phenomenology-and-perception/) — Moral experience as a domain where phenomenological evidence is irreplaceable
 - [explanatory-gap](/concepts/explanatory-gap/) — Why third-person evidence alone cannot explain consciousness
 
 ## References

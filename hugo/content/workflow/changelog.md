@@ -1,13 +1,125 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-25 06:23:00+00:00
+ai_modified: 2026-03-25 10:14:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
 date: '2026-03-25'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-03-25 11:28 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/)
+- **Word count**: 1677 → 1730 (+53)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (weak embodiment conditional, unattributed quoted phrase)
+- **Enhancements made**: 2 (Tenet 5 connection, intersubjectivity cross-link)
+- **Output**: [deep-review-2026-03-25-phenomenological-psychiatry-and-altered-experience](/reviews/deep-review-2026-03-25-phenomenological-psychiatry-and-altered-experience/)
+
+## 2026-03-25 11:13 UTC - deep-review
+- **Status**: Success
+- **File**: [time-collapse-and-agency](/topics/time-collapse-and-agency/)
+- **Word count**: 3812 → 3824 (+12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (agent-causation integration, capitalization, frontmatter cross-link)
+- **Enhancements made**: 1 (substance-causation framework connection)
+- **Cross-review context**: [agent-causation](/concepts/agent-causation/)
+- **Output**: [deep-review-2026-03-25-time-collapse-and-agency](/reviews/deep-review-2026-03-25-time-collapse-and-agency/)
+
+## 2026-03-25 11:00 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-integrated-information](/topics/consciousness-and-integrated-information/)
+- **Changes**: Expanded type/token causation with Kim (2005) exclusion problem engagement; added decoherence timescale treatment citing Tegmark (2000) and Fisher (2015); acknowledged circularity risk in passivity argument; added 3 references
+- **Published**: yes
+
+## 2026-03-25 10:43 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: consciousness-and-integrated-information.md, consciousness-and-the-structure-of-scientific-revolutions.md, constitutive-exclusion.md
+- **Output**: [pessimistic-2026-03-25b](/reviews/pessimistic-2026-03-25b/)
+
+## 2026-03-25 10:35 UTC - deep-review
+- **Status**: Success
+- **File**: [the-subject-object-distinction-as-philosophical-discovery](/topics/the-subject-object-distinction-as-philosophical-discovery/)
+- **Word count**: 1684 → 2136 (+452)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (enactivist engagement, cross-links, challenge conditions)
+- **Enhancements made**: 4 (new section, fifth challenge condition, 3 further reading entries)
+- **Output**: [deep-review-2026-03-25-the-subject-object-distinction-as-philosophical-discovery](/reviews/deep-review-2026-03-25-the-subject-object-distinction-as-philosophical-discovery/)
+
+## 2026-03-25 10:14 UTC - deep-review
+- **Status**: Success
+- **File**: [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/)
+- **Word count**: 3620 → 3620 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 6 (inbound cross-links from related articles)
+- **Output**: [deep-review-2026-03-25-surprise-prediction-error-and-consciousness](/reviews/deep-review-2026-03-25-surprise-prediction-error-and-consciousness/)
+
+## 2026-03-25 09:58 UTC - deep-review
+- **Status**: Success
+- **File**: [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/)
+- **Word count**: 1765 → 1921 (+156)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (functionalist response, Mary variant question-begging, missing cross-links, amplifier claim hedging)
+- **Enhancements made**: 4 (cross-links to functionalism/explanatory-gap/inverted-qualia/working-memory)
+- **Output**: [deep-review-2026-03-25-cognitive-phenomenology-and-the-irreducibility-of-thought](/reviews/deep-review-2026-03-25-cognitive-phenomenology-and-the-irreducibility-of-thought/)
+
+## 2026-03-25 09:43 UTC - deep-review
+- **Status**: Success
+- **File**: [moral-phenomenology-and-perception](/concepts/moral-phenomenology-and-perception/)
+- **Word count**: 2403 → 2403 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration — 9 missing inbound links)
+- **Enhancements made**: 9 (cross-links added from related articles)
+- **Output**: [deep-review-2026-03-25-moral-phenomenology-and-perception](/reviews/deep-review-2026-03-25-moral-phenomenology-and-perception/)
+
+## 2026-03-25 09:29 UTC - deep-review
+- **Status**: Success (stale file cleanup)
+- **File**: [phenomenology-of-mathematical-insight](/topics/mathematical-knowledge-and-insight/) (archived)
+- **Critical issues addressed**: 1 (stale Hugo file without archive metadata)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Orphan was a stale `hugo/content/topics/` copy left behind by additive-only sync after article was archived. Deleted stale file; proper archive version at `hugo/content/archive/topics/` remains intact. Live successor `mathematical-truth-and-conscious-access` has 10 inbound links and is stable.
+- **Output**: [deep-review-2026-03-25-phenomenology-of-mathematical-insight](/reviews/deep-review-2026-03-25-phenomenology-of-mathematical-insight/)
+
+## 2026-03-25 09:13 UTC - expand-topic
+- **Status**: Skipped (already exists)
+- **Topic**: Agent causation
+- **Output**: [agent-causation](/concepts/agent-causation/) (already exists at concepts/agent-causation.md, created 2026-01-15, last deep review 2026-03-21)
+- **Notes**: Task was stale — article already existed before task was generated. Marked todo as complete.
+
+## 2026-03-25 08:58 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Cognitive phenomenology and the irreducibility of thought
+- **Output**: [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/)
+- **Word count**: 1765
+- **Based on research**: yes, [cognitive-phenomenology-thinking-experience-2026-01-17](/research/cognitive-phenomenology-thinking-experience-2026-01-17/)
+
+## 2026-03-25 08:43 UTC - coalesce
+- **Status**: Success
+- **Sources**: [anesthesia-and-the-filter-argument](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Target**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Archived**: archive/topics/anesthesia-and-the-filter-argument.md
+- **References to review**: none (only changelog referenced the archived article)
+- **Notes**: Newer article (created same day) fully duplicated content already in the comprehensive older article. Older article retained as target since it has 30+ inbound links and covers all evidence from the newer article plus additional pharmacological detail.
+
+## 2026-03-25 08:28 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness during anesthesia and filter theory
+- **Output**: [anesthesia-and-the-filter-argument](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Word count**: 1677
+- **Based on research**: yes, [consciousness-anesthesia-filter-theory-2026-03-20](/research/consciousness-anesthesia-filter-theory-2026-03-20/)
+
+## 2026-03-25 08:23 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-overflow](/concepts/phenomenal-overflow/)
+- **Word count**: 1903 → 1912 (+9)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (functionalism wikilink path prefix, missing McDowell citation)
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-25-phenomenal-overflow](/reviews/deep-review-2026-03-25-phenomenal-overflow/)
 
 ## 2026-03-25 07:58 UTC - refine-draft
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-23 15:29:00+00:00
+ai_modified: 2026-03-25 10:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -33,6 +33,7 @@ related_articles:
 - '[[predictive-processing-and-dualism]]'
 - '[[dreams-lucid-dreaming-consciousness-2026-01-18]]'
 - '[[predictive-processing-consciousness-2026-01-14]]'
+- '[[surprise-prediction-error-and-consciousness]]'
 title: Predictive Processing
 topics:
 - '[[hard-problem-of-consciousness]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-23 20:30:00+00:00
+ai_modified: 2026-03-25 09:43:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -187,6 +187,7 @@ This framework respects the ordinary intuition that people deserve praise and bl
 - [decoherence](/concepts/decoherence/) — The quantum challenge and biological responses
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Responsibility without permanent selfhood
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — Beyond desert: how genuine agency transforms obligation, character, and moral theory
+- [moral-phenomenology-and-perception](/concepts/moral-phenomenology-and-perception/) — The felt character of moral experience that grounds desert judgements
 - [tenets](/tenets/) — The foundational commitments grounding this view
 - [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) — Apex synthesis: moral responsibility within a unified framework of value, agency, normativity, and perception
 

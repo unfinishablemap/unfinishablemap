@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-24 12:20:00+00:00
+ai_modified: 2026-03-25 09:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -135,6 +135,7 @@ Additionally, if Buddhist or compatibilist philosophy demonstrated that every mo
 - [free-will](/topics/free-will/)
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/)
 - [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/)
+- [moral-phenomenology-and-perception](/concepts/moral-phenomenology-and-perception/) — The felt character of wrongness, obligation, and guilt that makes moral deliberation phenomenally serious
 - [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/)
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/)
 - [living-with-the-map](/apex/living-with-the-map/)

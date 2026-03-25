@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-03-25 03:25:00+00:00
+ai_modified: 2026-03-25 10:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -48,6 +48,7 @@ related_articles:
 - '[[consciousness-and-the-authority-of-formal-systems]]'
 - '[[self-reference-and-the-limits-of-physical-description]]'
 - '[[topics/consciousness-and-counterfactual-reasoning]]'
+- '[[surprise-prediction-error-and-consciousness]]'
 title: Consciousness and Mathematical Cognition
 topics:
 - '[[hard-problem-of-consciousness]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-25 01:40:00+00:00
+ai_modified: 2026-03-25 10:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,6 +26,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[consciousness-creativity-novelty-generation-2026-01-19]]'
+- '[[surprise-prediction-error-and-consciousness]]'
 title: Consciousness and Creativity
 topics:
 - '[[topics/free-will]]'

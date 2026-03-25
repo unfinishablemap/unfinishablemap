@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-25 09:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -261,6 +261,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — What contemplative practice reveals about value and consciousness
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Why aesthetic value resists hedonistic reduction
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — Valence as the felt quality of emotions
+- [moral-phenomenology-and-perception](/concepts/moral-phenomenology-and-perception/) — The felt character of moral experience as evidence for phenomenal value
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Why pain's phenomenal character is inseparable from its causal and evaluative role
 - [haecceity](/concepts/haecceity/) — Why *this* experience matters, not just experience-of-this-type
 - [illusionism](/concepts/illusionism/) — The strongest challenge to phenomenal consciousness

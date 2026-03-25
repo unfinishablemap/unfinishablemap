@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-25 08:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Ned Block's argument that phenomenal consciousness exceeds cognitiv
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-02 08:06:00+00:00
+last_deep_review: 2026-03-25 08:23:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -188,4 +188,5 @@ This connects to [pre-conceptual-knowing](/voids/pre-conceptual-knowing/)—the 
 1. Sperling, G. (1960). The information available in brief visual presentations. *Psychological Monographs*, 74(11), 1-29.
 1. Cohen, M. A., & Dennett, D. C. (2011). Consciousness cannot be separated from function. *Trends in Cognitive Sciences*, 15(8), 358-364.
 1. Nartker, M., Firestone, C., Egeth, H., & Phillips, I. (2025). Sensitivity to visual features in inattentional blindness. *eLife*, 13, RP100337.
+1. McDowell, J. (1994). *Mind and World*. Harvard University Press.
 1. Kelly, S. D. (2001). The Non-Conceptual Content of Perceptual Experience: Situation Dependence and Fineness of Grain. *Philosophy and Phenomenological Research*, 62(3), 601-608.

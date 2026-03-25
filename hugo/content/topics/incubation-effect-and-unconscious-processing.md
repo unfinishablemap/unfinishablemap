@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-03-24 19:24:00+00:00
+ai_modified: 2026-03-25 10:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,6 +28,7 @@ related_articles:
 - '[[dream-consciousness]]'
 - '[[hypnagogic-phenomenology-and-interface-modulation]]'
 - '[[mathematical-truth-and-conscious-access]]'
+- '[[surprise-prediction-error-and-consciousness]]'
 title: The Incubation Effect and Unconscious Processing
 topics:
 - '[[hard-problem-of-consciousness]]'

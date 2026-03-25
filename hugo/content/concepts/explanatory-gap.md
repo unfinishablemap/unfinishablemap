@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-23 08:36:00+00:00
+ai_modified: 2026-03-25 09:43:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -209,6 +209,7 @@ The gap supports humility. If we cannot understand consciousness from physical d
 - [consciousness-and-the-ontology-of-dispositions](/topics/consciousness-and-the-ontology-of-dispositions/) — The dispositional version of the gap: no catalogue of causal roles entails qualitative character
 - [tenets](/tenets/) — How the Map's framework responds to the gap
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The evaluative dimension of the gap: if phenomenal properties constitute value, physics cannot reach normativity either
+- [moral-phenomenology-and-perception](/concepts/moral-phenomenology-and-perception/) — The explanatory gap extended into the moral domain: why neural descriptions cannot capture felt wrongness
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The argument that the measurement problem is an instance of the same explanatory gap
 - [explanatory-void](/voids/explanatory-void/) — Why explanation cannot explain itself: the recursive opacity that compounds the gap
 - [epistemology-of-mechanism-at-the-consciousness-matter-interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/) — How the gap constrains what we can know about the consciousness-matter interface

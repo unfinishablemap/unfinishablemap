@@ -1,9 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-24 22:40:00+00:00
+ai_modified: 2026-03-25 08:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
+coalesced_from:
+- /topics/anesthesia-and-the-filter-argument/
 concepts:
 - '[[filter-theory]]'
 - '[[neural-correlates-of-consciousness]]'
