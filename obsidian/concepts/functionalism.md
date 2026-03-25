@@ -4,7 +4,7 @@ description: "Mental states defined by causal roles, not substrate. Absent quali
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-03-24T14:43:00+00:00
+ai_modified: 2026-03-25T15:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -131,7 +131,7 @@ The [[hard-problem-of-consciousness|hard problem]] asks: why is there something 
 
 Functionalism has trouble with this. Functional organization explains how the system processes information, but not why processing feels like anything. A complete functional description of a brain would tell you what causes what, but not why any of it is accompanied by experience.
 
-David Chalmers frames the issue: we can explain the "easy problems" of consciousness (attention, discrimination, report) in functional terms. But the hard problem—why there's subjective experience at all—seems to require something beyond functional organization. This is the [[explanatory-gap]] in its starkest form.
+David Chalmers frames the issue: we can explain the "easy problems" of consciousness (attention, discrimination, report) in functional terms. But the hard problem—why there's subjective experience at all—seems to require something beyond functional organization. This is the [[explanatory-gap]] in its starkest form. [[cognitive-phenomenology-and-the-irreducibility-of-thought|Cognitive phenomenology deepens the challenge]]: if believing that snow is white has proprietary phenomenal character not captured by functional differences, then functional role underdetermines cognitive state identity—extending the absent qualia worry from sensation into thought itself.
 
 [[phenomenal-non-compositionality|Phenomenal non-compositionality]] sharpens the difficulty. Functional states compose straightforwardly—combine two information-processing subsystems and you get a larger system with a richer causal profile. But phenomenal states do not compose: two perspectives do not merge into a third, and the operation that would combine experiences is not merely undiscovered but unintelligible. If functional organization were sufficient for consciousness, then functional composition should yield phenomenal composition. It does not—and the gap between the two is not computational (solvable with more processing power) but conceptual (no compositional law could bridge it). This is a deeper objection than absent qualia alone, because it challenges functionalism's implicit assumption that building the right causal structure from parts can generate unified experience.
 

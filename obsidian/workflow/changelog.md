@@ -5,6 +5,15 @@ ai_modified: 2026-03-25T10:14:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 15:59 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/cognitive-phenomenology-and-the-irreducibility-of-thought]]
+- **Word count**: 2044 → 2044 (+0, no content changes to target article)
+- **Critical issues addressed**: 0 (none found — article stable after 2 prior reviews today)
+- **Medium issues addressed**: 1 (orphan integration)
+- **Enhancements made**: 8 inbound cross-links added from core articles (hard-problem, knowledge-argument, philosophical-zombies, functionalism, explanatory-gap, argument-from-reason, intentionality, consciousness-as-amplifier, cognitive-phenomenology)
+- **Output**: [[reviews/deep-review-2026-03-25c-cognitive-phenomenology-and-the-irreducibility-of-thought]]
+
 ## 2026-03-25 15:45 UTC - expand-topic
 - **Status**: Skipped — duplicate
 - **Topic**: experimental tests distinguishing consciousness-collapse from decoherence

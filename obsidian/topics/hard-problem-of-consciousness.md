@@ -4,7 +4,7 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-03-25T07:58:00+00:00
+ai_modified: 2026-03-25T15:59:00+00:00
 draft: false
 topics: []
 concepts:
@@ -128,7 +128,7 @@ The explanatory gap extends well beyond simple sensory experience into every dim
 - **Minimal minds.** The roundworm *C. elegans* has exactly 302 neurons with every connection mapped—yet we cannot determine whether it experiences anything. Complete structural knowledge does not settle the phenomenal question (see [[minimal-consciousness]]).
 - **The witnessing subject.** [[witness-consciousness|Witness consciousness]] reveals an observing subject that retreats beyond every attempt at objectification—mental contents become objects, but what witnesses them is not itself a thought or sensation.
 - **Temporal flow.** Consciousness flows—retention, primal impression, protention. No neural description explains why this temporal structure feels like anything. If consciousness constitutes time rather than merely occurring within it, physical description becomes circular (see [[temporal-consciousness]], [[collapse-and-time]]).
-- **Cognitive experience.** Even "cold" knowledge retrieval has phenomenal character—the tip-of-the-tongue state, the *aha* of understanding. If [[cognitive-phenomenology]] is real, the gap pervades all mentality, not just sensation.
+- **Cognitive experience.** Even "cold" knowledge retrieval has phenomenal character—the tip-of-the-tongue state, the *aha* of understanding. If [[cognitive-phenomenology]] is real, the gap pervades all mentality, not just sensation—a conclusion explored at length in [[cognitive-phenomenology-and-the-irreducibility-of-thought|the irreducibility of thought]].
 - **Unity.** The [[binding-problem]] asks why separately processed features—colour, shape, motion—are experienced as one unified scene. Interaction mechanisms do not explain why combination *feels* unified, a point where [[quantum-consciousness|quantum approaches]] and the [[quantum-measurement-and-consciousness|structural parallel with the measurement problem]] may become relevant.
 - **Pairing and intentionality.** Kim's [[pairing-problem]] asks what connects *this* mind to *this* body. [[intentionality|Intentionality]]—the aboutness of mental states—resists physical explanation; [[intentionality#Phenomenal Intentionality Theory|Phenomenal Intentionality Theory]] argues it derives from phenomenal consciousness itself.
 

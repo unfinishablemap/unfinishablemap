@@ -4,7 +4,7 @@ description: "Physical descriptions leave unexplained why neural activity feels 
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-25T09:43:00+00:00
+ai_modified: 2026-03-25T15:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -213,6 +213,7 @@ The gap supports humility. If we cannot understand consciousness from physical d
 - [[epistemology-of-mechanism-at-the-consciousness-matter-interface]] — How the gap constrains what we can know about the consciousness-matter interface
 - [[metaphysics-of-information-under-dualism]] — The syntax-semantics divide as an informational framing of the gap
 - [[consciousness-and-the-problem-of-measurement-standards]] — Why the gap extends to measurement itself: no units, instruments, or calibration for phenomenal quantities
+- [[cognitive-phenomenology-and-the-irreducibility-of-thought]] — The explanatory gap extends from sensation into cognition: understanding, reasoning, and insight resist reduction
 - [[emergence-as-universal-hard-problem]] — The argument that every level transition harbours the same gap, and reduction relocates rather than resolves it
 - [[the-reverse-inference]] — How the gap's epistemic asymmetry motivates using consciousness to constrain physics rather than the reverse
 - [[what-consciousness-tells-us-about-physics]] — Apex synthesis: the measurement problem and the hard problem as the same boundary—where third-person description encounters first-person fact

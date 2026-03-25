@@ -4,7 +4,7 @@ description: "Consciousness amplifies intelligence by enabling flexible deployme
 created: 2026-01-21
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-03-25T15:59:00+00:00
 last_deep_review: 2026-03-04T11:37:00+00:00
 draft: false
 topics:
@@ -226,6 +226,7 @@ Epiphenomenalism appears "simpler" because it doesn't posit mental causation. Bu
 - [[metacognition|metarepresentation]] — Representing representations as representations
 - [[causal-delegation]] — How consciousness takes over causal work from neural states (the causal structure for amplification)
 - [[delegatory-dualism]] — Saad's full framework for mental causation without overdetermination
+- [[cognitive-phenomenology-and-the-irreducibility-of-thought]] — Why the phenomenal character of reasoning is irreducible: consciousness pervades cognition
 - [[global-workspace-theory]] — The broadcasting account of conscious access
 - [[concepts/epiphenomenalism]] — The position the amplification evidence contradicts
 - [[interactionist-dualism]] — How consciousness influences brain states

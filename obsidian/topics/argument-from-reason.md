@@ -4,7 +4,7 @@ description: "If thoughts are fully explained by physical causes, no belief is r
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-03-24T11:06:00+00:00
+ai_modified: 2026-03-25T15:59:00+00:00
 draft: false
 last_deep_review: 2026-03-05T08:13:00+00:00
 topics:
@@ -158,6 +158,7 @@ The physicalist might respond: "If there's no behavioural difference, the distin
 - [[mysterianism]] - Whether the mechanism of normative awareness may exceed our comprehension
 - [[intentionality]] - Why genuine aboutness requires phenomenal consciousness (phenomenal intentionality thesis)
 - [[cognitive-phenomenology]] - The irreducible phenomenal character of understanding and reasoning
+- [[cognitive-phenomenology-and-the-irreducibility-of-thought]] - How cognitive phenomenology sharpens the argument from reason and extends the hard problem into cognition
 - [[phenomenology-of-understanding-and-meaning]] - The felt character of comprehension, inference, and meaning integration
 - [[objectivity-and-consciousness]] - Nagel's analysis of how subjectivity enables objectivity
 - [[introspection]] - The reliability of self-knowledge and its connection to self-stultification
