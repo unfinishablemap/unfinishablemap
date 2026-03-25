@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced self-opacity articles
-- **Type**: cross-review
-- **Notes**: Coalesce created voids/self-opacity from unobservable-self + introspective-opacity + phenomenology-of-self-awareness. Many files reference archived slugs (self-reference-paradox: ~120 files, introspective-opacity: ~99 files, phenomenology-of-self-awareness: ~19 files). Archive redirects handle URL preservation, but active content wikilinks should be reviewed and updated to point to self-opacity where appropriate. Focus on non-research/non-review files first.
-- **Source**: coalesce
-- **Generated**: 2026-03-25
-
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
 - **Status**: pending
@@ -1381,6 +1375,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Update references to coalesced self-opacity articles
+- **Type**: cross-review
+- **Notes**: Coalesce created voids/self-opacity from unobservable-self + introspective-opacity + phenomenology-of-self-awareness. Many files reference archived slugs (self-reference-paradox: ~120 files, introspective-opacity: ~99 files, phenomenology-of-self-awareness: ~19 files). Archive redirects handle URL preservation, but active content wikilinks should be reviewed and updated to point to self-opacity where appropriate. Focus on non-research/non-review files first.
+- **Output**: None -- Context: Update references to coalesced self-opacity articles
 
 ### ✓ 2026-03-25: Deep review apex/open-question-ai-consciousness.md — new apex article
 - **Type**: deep-review

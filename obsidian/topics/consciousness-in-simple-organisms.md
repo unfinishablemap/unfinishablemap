@@ -4,7 +4,7 @@ description: "From nematodes to slime molds: where does consciousness begin? The
 created: 2026-01-19
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-03-25T20:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-03-04T17:30:00+00:00
+last_deep_review: 2026-03-25T20:17:00+00:00
 coalesced_from:
   - "/concepts/minimal-consciousness/"
   - "/topics/consciousness-in-simple-organisms/"
