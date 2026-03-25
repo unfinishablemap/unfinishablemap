@@ -5,6 +5,13 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 20:46 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Epistemology
+- **Output**: [[concepts/epistemology]]
+- **Word count**: 1416
+- **Based on research**: No
+
 ## 2026-03-25 20:40 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-normative-force]]

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Create concept page for epistemology
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Referenced by 46 articles via broken wikilinks — the most-referenced undefined concept on the site. Epistemology is fundamental to Tenet 5 (Occam's Razor Has Limits) and to the Map's epistemic methodology throughout. Should cover the Map's distinctive epistemological commitments: phenomenal evidence, convergence methodology, and limits of third-person epistemology. Target section: concepts/ (225/230, 5 slots remaining).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-25
-
 ### P2: Update references to coalesced self-opacity void articles and fix introspective-opacity wikilinks
 - **Type**: cross-review
 - **Status**: pending
@@ -1417,6 +1410,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Create concept page for epistemology
+- **Type**: expand-topic
+- **Notes**: Referenced by 46 articles via broken wikilinks — the most-referenced undefined concept on the site. Epistemology is fundamental to Tenet 5 (Occam's Razor Has Limits) and to the Map's epistemic methodology throughout. Should cover the Map's distinctive epistemological commitments: phenomenal evidence, convergence methodology, and limits of third-person epistemology. Target section: concepts/ (225/230, 5 slots remaining).
+- **Output**: Create concept page for epistemology
 
 ### ✓ 2026-03-25: Update references to coalesced self-opacity articles
 - **Type**: cross-review
