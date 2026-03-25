@@ -31,7 +31,7 @@ related_articles:
   - "[[temporal-structure-of-consciousness]]"
   - "[[self-stultification-as-master-argument]]"
   - "[[epistemology-of-other-minds-under-dualism]]"
-  - "[[experimental-design-for-consciousness-collapse-testing]]"
+  - "[[testing-consciousness-collapse]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -98,7 +98,7 @@ The ketamine case poses a specific challenge to integrated information theory (I
 
 The strongest discriminating evidence comes from the boundary between anaesthesia and death. Terminal lucidity produces coherent awareness in severely deteriorated brains — patients with advanced neurodegeneration who have been unresponsive for years sometimes recover clarity in their final hours. Cardiac arrest patients show surges of gamma oscillations and high neural coherence during the dying process (Xu et al., 2023), with approximately 40% showing brain activity returning to near-normal levels during CPR (Parnia et al., 2023). These cases are neurobiological paradoxes if the failing brain is the generator. But they are expected if the brain is a filter losing its restrictive capacity — reduction in filtering allows more consciousness through, not less. [[loss-of-consciousness|Psychedelic states]], where pharmacological disruption of default-mode network activity correlates with expanded rather than diminished experience, add further support.
 
-The pharmacological specificity documented here also bears on [[experimental-design-for-consciousness-collapse-testing|experimental design for consciousness-collapse testing]]. If different anaesthetic agents selectively disrupt different interface channels, pharmacological manipulation could provide the controlled variation that consciousness-collapse experiments need — selectively removing or preserving specific aspects of consciousness while holding others constant.
+The pharmacological specificity documented here also bears on [[testing-consciousness-collapse|experimental design for consciousness-collapse testing]]. If different anaesthetic agents selectively disrupt different interface channels, pharmacological manipulation could provide the controlled variation that consciousness-collapse experiments need — selectively removing or preserving specific aspects of consciousness while holding others constant.
 
 ## The Active Reboot Problem
 
@@ -162,7 +162,7 @@ Anaesthetic pharmacology connects to each of the Map's [[tenets]] in concrete wa
 - [[clinical-phenomenology-as-philosophical-evidence]] — Clinical disruptions as the involuntary counterpart to pharmacological and contemplative evidence
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis: anaesthetic dissociations compared with four other altered states in a convergence matrix
 - [[pain-consciousness-and-causal-power]] — Pain's resistance to reduction and the decisive test case of pain asymbolia
-- [[experimental-design-for-consciousness-collapse-testing]] — How pharmacological channel mapping could inform consciousness-collapse experimental design
+- [[testing-consciousness-collapse]] — How pharmacological channel mapping could inform consciousness-collapse experimental design
 
 ## References
 

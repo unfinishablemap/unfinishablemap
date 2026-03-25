@@ -42,7 +42,7 @@ related_articles:
   - "[[neural-binding-quantum-entanglement-2026-01-19]]"
   - "[[quantum-holism-and-phenomenal-unity]]"
   - "[[phenomenal-binding-multimodal-integration-2026-01-23]]"
-  - "[[consciousness-collapse-experimental-landscape]]"
+  - "[[testing-consciousness-collapse]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -167,7 +167,7 @@ The quantum binding hypothesis makes specific predictions:
 4. Anesthetic effects on consciousness have purely classical explanations at the synaptic level
 5. Organisms lacking quantum coherence structures demonstrate phenomenal unity equivalent to humans
 
-Several recent findings are consistent with quantum binding, though the evidence remains preliminary and replication is needed. The broader [[consciousness-collapse-experimental-landscape|experimental landscape for consciousness-collapse]] surveys where these and related predictions stand—including Gran Sasso constraints, anaesthesia-modulated dynamics, and IIT-CSL tests. The debate is live, and the Map's core argument about BP2 does not depend on the quantum hypothesis being vindicated.
+Several recent findings are consistent with quantum binding, though the evidence remains preliminary and replication is needed. The broader [[testing-consciousness-collapse|experimental landscape for consciousness-collapse]] surveys where these and related predictions stand—including Gran Sasso constraints, anaesthesia-modulated dynamics, and IIT-CSL tests. The debate is live, and the Map's core argument about BP2 does not depend on the quantum hypothesis being vindicated.
 
 ## Relation to Site Perspective
 
@@ -194,7 +194,7 @@ The binding problem illuminates why the Map's [[tenets]] take the positions they
 - [[illusionism]] — The view that phenomenal unity is illusory
 - [[mysterianism]] — Cognitive closure and the limits of understanding
 - [[consciousness-and-the-phenomenology-of-place]] — Atmospheric binding as a paradigm case of cross-modal phenomenal unity
-- [[consciousness-collapse-experimental-landscape]] — Experimental tests distinguishing consciousness-collapse from decoherence
+- [[testing-consciousness-collapse]] — Experimental tests distinguishing consciousness-collapse from decoherence
 
 ## References
 

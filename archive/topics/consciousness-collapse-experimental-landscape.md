@@ -6,6 +6,11 @@ modified: 2026-03-24
 human_modified:
 ai_modified: 2026-03-24T05:49:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-25T13:28:00+00:00
+superseded_by: "/topics/testing-consciousness-collapse/"
+archive_reason: "Coalesced into Testing Consciousness-Collapse: Obstacles, Experiments, and the Path Forward"
+original_path: "/topics/consciousness-collapse-experimental-landscape/"
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:

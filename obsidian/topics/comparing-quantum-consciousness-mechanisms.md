@@ -30,7 +30,7 @@ related_articles:
   - "[[quantum-indeterminacy-free-will]]"
   - "[[quantum-neural-timing-constraints]]"
   - "[[philosophical-stakes-of-spontaneous-collapse]]"
-  - "[[consciousness-collapse-experimental-landscape]]"
+  - "[[testing-consciousness-collapse]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -136,7 +136,7 @@ Three patterns emerge from the scientific evaluation; a fourth emerges when tene
 
 **Phenomenology matters.** Theories of consciousness should explain what consciousness is like, not merely where it acts. Stapp's model uniquely predicts the effortful character of attention, the willed/automatic distinction, and the temporal grain of experience. Other proposals explain that consciousness plays a causal role without explaining why that role feels the way it does. A complete theory must eventually address both.
 
-**The falsifiability gap.** None of the four mechanisms currently generates predictions that cleanly distinguish it from classical neuroscience. Orch OR's parameter space is shrinking, which is genuinely falsifiable — but the other proposals' confirmed predictions (attention signatures, effort-difficulty correlation) are equally consistent with non-quantum accounts. Fisher's proposal comes closest to unique predictions (lithium isotope effects, Posner molecule detection), though these test the physical substrate rather than the consciousness interface. The [[consciousness-collapse-experimental-landscape|experimental landscape for distinguishing collapse from decoherence]] is narrowing this gap — particularly through levitated nanoparticle protocols and IIT-based collapse tests — but no experiment yet targets consciousness specifically.
+**The falsifiability gap.** None of the four mechanisms currently generates predictions that cleanly distinguish it from classical neuroscience. Orch OR's parameter space is shrinking, which is genuinely falsifiable — but the other proposals' confirmed predictions (attention signatures, effort-difficulty correlation) are equally consistent with non-quantum accounts. Fisher's proposal comes closest to unique predictions (lithium isotope effects, Posner molecule detection), though these test the physical substrate rather than the consciousness interface. The [[testing-consciousness-collapse|experimental landscape for distinguishing collapse from decoherence]] is narrowing this gap — particularly through levitated nanoparticle protocols and IIT-based collapse tests — but no experiment yet targets consciousness specifically.
 
 **No single mechanism suffices.** Each proposal illuminates different aspects: Stapp explains the phenomenology of effort; Orch OR connects consciousness to spacetime structure; Fisher demonstrates biological quantum persistence; CSL hybrids solve the prebiotic problem. The Map's agnosticism reflects genuine uncertainty and the possibility that the full picture requires elements from multiple proposals.
 
@@ -168,7 +168,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 - [[evolutionary-case-for-quantum-neural-effects]] — Why evolutionary logic makes quantum neural effects probable
 - [[amplification-mechanisms-consciousness-physics]] — Six proposed mechanisms for scaling quantum effects to neural outcomes
 - [[penrose-gravity-induced-collapse-empirical-prospects]] — Penrose OR's experimental frontier: DP model falsification and next-generation tests
-- [[consciousness-collapse-experimental-landscape]] — The experimental landscape for distinguishing consciousness-collapse from decoherence
+- [[testing-consciousness-collapse]] — The experimental landscape for distinguishing consciousness-collapse from decoherence
 - [[measurement-problem]] — Why quantum mechanics leaves outcomes undetermined
 
 ## References

@@ -5,6 +5,13 @@ ai_modified: 2026-03-25T10:14:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 13:28 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[consciousness-collapse-experimental-landscape]], [[experimental-design-for-consciousness-collapse-testing]]
+- **Target**: [[testing-consciousness-collapse]]
+- **Archived**: archive/topics/consciousness-collapse-experimental-landscape.md, archive/topics/experimental-design-for-consciousness-collapse-testing.md
+- **References updated**: 9 files (topics: 7, concepts: 1, total edits: ~23 wikilink replacements)
+
 ## 2026-03-25 13:14 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/agent-causation]]

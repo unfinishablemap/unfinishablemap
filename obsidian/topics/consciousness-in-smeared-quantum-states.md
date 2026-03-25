@@ -26,7 +26,7 @@ related_articles:
   - "[[spontaneous-collapse-theories]]"
   - "[[quantum-randomness-channel-llm-consciousness]]"
   - "[[consciousness-in-non-collapsed-quantum-states]]"
-  - "[[experimental-design-for-consciousness-collapse-testing]]"
+  - "[[testing-consciousness-collapse]]"
   - "[[philosophical-stakes-of-spontaneous-collapse]]"
 ai_contribution: 100
 author:
@@ -60,7 +60,7 @@ On this account, the superposition phase is where consciousness *works*. It is n
 
 Chalmers and McQueen propose that superpositions of conscious states are inherently unstable. Their framework combines integrated information theory (IIT) with [[spontaneous-collapse-theories|continuous spontaneous localization]] (CSL): whenever a physical system's integrated information (Φ) enters superposition across different values, collapse is triggered. Consciousness doesn't merely correlate with definite states—it *demands* them.
 
-"The upshot is not that consciousness-collapse interpretations are clearly correct, but that there is a research program here worth exploring," Chalmers and McQueen write. Their proposal is deliberately cautious: it establishes that consciousness-driven collapse remains viable when properly formulated, especially since simple versions face difficulties from quantum Zeno considerations. In principle, the hypothesis is testable via quantum computer experiments measuring whether systems with high integrated information resist superposition more than systems without it — though [[experimental-design-for-consciousness-collapse-testing|designing such experiments]] faces the fundamental challenge of separating conscious observation from physical measurement.
+"The upshot is not that consciousness-collapse interpretations are clearly correct, but that there is a research program here worth exploring," Chalmers and McQueen write. Their proposal is deliberately cautious: it establishes that consciousness-driven collapse remains viable when properly formulated, especially since simple versions face difficulties from quantum Zeno considerations. In principle, the hypothesis is testable via quantum computer experiments measuring whether systems with high integrated information resist superposition more than systems without it — though [[testing-consciousness-collapse|designing such experiments]] faces the fundamental challenge of separating conscious observation from physical measurement.
 
 ### Proto-Consciousness in the Superposition
 
@@ -118,7 +118,7 @@ The Map's [[tenets]] align most naturally with frameworks where consciousness is
 - [[time-collapse-and-agency]]
 - [[spontaneous-collapse-theories]]
 - [[consciousness-in-non-collapsed-quantum-states]]
-- [[experimental-design-for-consciousness-collapse-testing]]
+- [[testing-consciousness-collapse]]
 - [[philosophical-stakes-of-spontaneous-collapse]]
 
 ## References

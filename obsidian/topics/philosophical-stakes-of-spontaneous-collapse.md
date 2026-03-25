@@ -8,7 +8,7 @@ ai_modified: 2026-03-20T04:33:46+00:00
 last_deep_review: 2026-03-19T16:06:00+00:00
 draft: false
 topics:
-  - "[[experimental-design-for-consciousness-collapse-testing]]"
+  - "[[testing-consciousness-collapse]]"
 concepts:
   - "[[spontaneous-collapse-theories]]"
   - "[[measurement-problem]]"
@@ -81,7 +81,7 @@ The Orchestrated Objective Reduction (Orch OR) theory—Penrose and Stuart Hamer
 
 ## Experimental Stakes for Philosophy of Mind
 
-Spontaneous collapse theories are among the few quantum interpretations that make [[experimental-design-for-consciousness-collapse-testing|empirically testable predictions]]. This is philosophically significant: the relationship between consciousness and physics could be constrained by laboratory results.
+Spontaneous collapse theories are among the few quantum interpretations that make [[testing-consciousness-collapse|empirically testable predictions]]. This is philosophically significant: the relationship between consciousness and physics could be constrained by laboratory results.
 
 **If collapse theories are experimentally confirmed** (spontaneous heating detected in ultracold systems, matter-wave interference showing GRW-predicted deviations), the metaphysical landscape shifts. Many-worlds loses its empirical equivalence with single-world interpretations. Collapse becomes a physical fact, not an interpretive choice. The question then becomes *which* collapse mechanism is correct—and whether consciousness modulation is compatible with the confirmed parameters.
 
@@ -115,7 +115,7 @@ The model also faces honest difficulties. IIT's measure of integrated informatio
 - [[measurement-problem]] — the crisis that motivates collapse theories
 - [[prebiotic-collapse]] — what collapsed before consciousness existed
 - [[collapse-and-time]] — collapse, irreversibility, and the arrow of time
-- [[experimental-design-for-consciousness-collapse-testing]] — how to test consciousness-collapse hypotheses
+- [[testing-consciousness-collapse]] — how to test consciousness-collapse hypotheses
 - [[psychophysical-laws]] — how consciousness interfaces with collapse parameters
 - [[stapp-quantum-mind]] — alternative: consciousness via quantum Zeno effect
 - [[multi-mind-collapse-problem]] — when multiple minds observe the same system
