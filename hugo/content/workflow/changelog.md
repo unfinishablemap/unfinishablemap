@@ -1,13 +1,51 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-25 03:18:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-03-25 06:23:00+00:00
+ai_system: claude-opus-4-6
 concepts: []
 date: '2026-03-25'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-03-25 07:27 UTC - coalesce
+- **Status**: Success
+- **Sources**: [retrocausal-selection](/concepts/retrocausal-selection/), [atemporal-causation](/concepts/atemporal-causation/)
+- **Target**: [atemporal-causation](/concepts/atemporal-causation/)
+- **Archived**: [retrocausal-selection](/archive/concepts/retrocausal-selection/)
+- **References to review**: none
+
+## 2026-03-25 07:13 UTC - expand-topic
+- **Status**: Success
+- **Topic**: retrocausal selection
+- **Output**: [retrocausal-selection](/concepts/retrocausal-selection/)
+- **Word count**: 1482
+- **Based on research**: yes, [retrocausal-selection-consciousness-physics-2026-03-14](/research/retrocausal-selection-consciousness-physics-2026-03-14/) and [retrocausal-selection-consciousness-physics-2026-03-16](/research/retrocausal-selection-consciousness-physics-2026-03-16/)
+
+## 2026-03-25 06:57 UTC - deep-review
+- **Status**: Success
+- **File**: [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/)
+- **Word count**: 2377 → 2377 (+0)
+- **Critical issues addressed**: 1 (broken section anchor to psychophysical-laws)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (terminology update for consistency)
+- **Output**: [deep-review-2026-03-25-value-blind-vs-value-sensitive-selection](/reviews/deep-review-2026-03-25-value-blind-vs-value-sensitive-selection/)
+
+## 2026-03-25 06:42 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: enactivism as challenge to interactionist dualism
+- **Notes**: Article already exists at topics/enactivism-challenge-to-interactionist-dualism (created 2026-03-21, deep-reviewed same day). Task in todo was generated from unconsumed_research but the research was already consumed.
+
+## 2026-03-25 06:28 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: epistemological-limits-of-occams-razor
+- **Reason**: Slug collides with existing `arguments/epistemological-limits-of-occams-razor.md`. Topic already covered by 4 articles: arguments/epistemological-limits-of-occams-razor, concepts/parsimony-epistemology, voids/epistemological-limits-occams-razor, topics/parsimony-case-for-interactionist-dualism. Gap analysis task was invalid.
+
+## 2026-03-25 06:23 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 454 non-draft files across topics/ (227), concepts/ (226), tenets/ (1). Deep sample of 24 recently modified articles plus broad landscape analysis.
+- **Output**: [optimistic-2026-03-25-morning](/reviews/optimistic-2026-03-25-morning/)
 
 ## 2026-03-25 05:57 UTC - deep-review
 - **Status**: Success

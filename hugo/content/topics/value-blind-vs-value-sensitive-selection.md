@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-25 06:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Does consciousness select outcomes neutrally or guided by valence? 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-02 05:55:00+00:00
+last_deep_review: 2026-03-25 06:57:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -47,7 +47,7 @@ The fork arises from the intersection of three commitments, each well-developed 
 
 **Value is phenomenal.** The [consciousness-value-connection](/concepts/consciousness-value-connection/) holds that value requires consciousness. [Phenomenal value realism](/topics/phenomenal-value-realism/) goes further: some phenomenal properties just *are* value properties. The felt badness of pain constitutes badness; it is not a representation of badness.
 
-**Valence is listed as a candidate mental variable.** The [selection laws article](/concepts/psychophysical-laws/#what-selection-laws-must-specify) lists valence alongside attention, intention, and effort as candidates for the mental side of the selection law. But it also notes that valence "lacks a developed mechanism specifying how the mental variable connects to physical selection." This is precisely the gap the fork exposes.
+**Valence is listed as a candidate mental variable.** The [selection laws article](/concepts/psychophysical-laws/#the-coupling-problem) lists valence alongside attention, intention, and effort as candidates for the mental side of the coupling law. But it also notes that valence "lacks a developed mechanism specifying how the mental variable connects to physical selection." This is precisely the gap the fork exposes.
 
 If valence is a real phenomenal property that grounds value, and if consciousness causally selects outcomes, then either valence participates in selection or it doesn't. There is no third option within the Map's framework.
 

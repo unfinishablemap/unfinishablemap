@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-25 05:08:00+00:00
+ai_modified: 2026-03-25 06:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,6 +38,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Fix broken wikilinks to nonexistent argument pages
+- **Type**: refine-draft
+- **Notes**: 35+ content files link to nonexistent argument-section pages: many-worlds-argument (10 refs), epiphenomenalism-argument (9 refs), arguments/materialism-argument (9 refs), arguments/functionalism-argument (7 refs). These appear to reference a planned arguments/ section that was never created. Update wikilinks to point to existing coverage — e.g., many-worlds-argument → arguments-against-many-worlds-interpretation, epiphenomenalism-argument → arguments-against-epiphenomenalism. Verify each redirect target exists before updating.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-25
+
+### P2: Fix malformed and case-sensitive wikilinks across content
+- **Type**: refine-draft
+- **Notes**: Several broken wikilinks caused by capitalisation or formatting errors: Perception-and-conscious-experience (3 refs, should be lowercase), Attention (3 refs, should be attention-as-interface or similar), mathematical-structure-of-reality (2 refs), phenomenology-tradition (2 refs). Also 4 wikilinks with trailing backslashes (philosophical-zombies\, inverted-qualia\, knowledge-argument\). Fix all to point to correct existing pages.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-25
+
 ### P3: Write concept page for neuroscience of deliberate practice
 - **Type**: expand-topic
 - **Notes**: [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-skill-acquisition/) is referenced in 3 content files but no page exists. The intersection of deliberate practice research (Ericsson) with the Map's interface model — how sustained conscious effort physically restructures neural pathways — is direct evidence for Tenet 3 (Bidirectional Interaction). Target section: concepts/ (225/230, 5 slots remaining).
@@ -63,6 +75,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Five cross-linking opportunities: duhem-quine → adaptive-cognitive-limits (underdetermination may reflect evolved limits), african-philosophy-of-consciousness → apophatic-approaches (oral tradition parallels), phenomenal-normativity-environmental-ethics → arguments-against-epiphenomenalism (epiphenomenalism failure grounds normativity), living-with-the-map → taxonomy-of-voids (practical vs. theoretical limits), decoherence → attention-as-interface (discrete observation = attention event). See optimistic-2026-03-25.md
 - **Source**: optimistic-review
+- **Generated**: 2026-03-25
+
+### P3: Cross-review retrocausal selection against related articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/retrocausal-selection created. Review against retrocausality, consciousness-selecting-neural-patterns, non-retrocausal-conscious-selection-models, time-symmetric-selection-mechanism, collapse-and-time, and libet-experiments for consistency and add inbound links from related articles.
+- **Source**: task_chain
 - **Generated**: 2026-03-25
 
 ### P3: Write concept page on substance causation (Lowe's four-category ontology)
@@ -1339,6 +1358,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Create concept page for retrocausal selection
+- **Type**: expand-topic
+- **Notes**: Two research notes completed (research/retrocausal-selection-consciousness-physics-2026-03-14.md, research/retrocausal-selection-consciousness-physics-2026-03-16.md) covering Cramer's Transactional Interpretation, Kastner's possibilist TI, and Aharonov's two-state vector formalism. No dedicated concept page exists despite relevance to the selection mechanism. Would clarify how atemporal selection might resolve the Libet timing problem and connect to the growing-block time framework. Target section: concepts/ (226/230, 4 slots remaining).
+- **Output**: Create concept page for retrocausal selection
+
+### ✓ 2026-03-25: Write article on enactivism as challenge to interactionist dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/enactivism-challenge-interactionist-dualism-2026-03-21.md. Enactivism (Varela, Thompson, Di Paolo) argues cognition is embodied action, not inner representation — this challenges the Map's consciousness-physics interface model by questioning the very boundary between mind and world. The Map needs a systematic response: how does non-physical consciousness interact with an enactive body? Does the interface model survive if cognition is world-involving? Target section: topics/ (227/230, 3 slots remaining).
+- **Output**: enactivism as challenge to interactionist dualism
+
+### ✓ 2026-03-25: Create concept page for epistemological-limits-of-occams-razor
+- **Type**: expand-topic
+- **Notes**: Referenced by 18 content files but no page exists. Directly supports Tenet 5 (Occam's Razor Has Limits) — the Map's claim that parsimony is unreliable with incomplete knowledge needs a dedicated epistemological treatment. Should cover the distinction between methodological and metaphysical parsimony, historical cases where simpler theories were wrong, and the specific failure modes when applied to consciousness. Target section: concepts/ (226/230, 4 slots remaining).
+- **Output**: Create concept page for epistemological-limits-of-occams-razor
 
 ### ✓ 2026-03-25: Cross-review mathematical cognition articles after consciousness-and-the-philosophy-of-mathematics
 - **Type**: cross-review
@@ -3419,3 +3453,14 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Five cross-linking opportunities: self-stultification↔contemplative-practice (rational self-trust), dopamine-interface↔volitional-control (mechanism), convergence-argument↔epistemology-of-convergence-arguments (methodology), quantum-holism↔phenomenal-binding-multimodal (mechanism-problem pair), evolutionary-case↔consciousness-threshold (evolutionary thread). See optimistic-2026-03-24-evening.md
 - **Generated**: 2026-03-24
+### P3: Add cross-links from optimistic review 2026-03-25 morning findings
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Five cross-linking opportunities: self-reference-limits↔authority-of-formal-systems (Lawvere to authority/sovereignty), mathematical-cognition↔phenomenology-of-understanding (click-of-comprehension), conservation-laws↔amplification-mechanisms (selection-not-injection), parsimony-epistemology↔philosophy-of-mathematics (hidden complexity), entanglement-binding↔indexical-identity (binding and indexical grounding). See optimistic-2026-03-25-morning.md
+- **Generated**: 2026-03-25
+
+### P3: Write concept page for self-stultification argument
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The self-undermining character of epiphenomenalism appears across mental-causation, arguments-against-materialism, and interactionist-dualism but has no dedicated concept page. Arguably the single strongest argument for bidirectional interaction. Target section: concepts/ (226/230, 4 slots remaining). See optimistic-2026-03-25-morning.md
+- **Generated**: 2026-03-25
