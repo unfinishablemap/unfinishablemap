@@ -5,6 +5,12 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-25 02:39 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[consciousness-and-neurodegenerative-disease]], [[experimental-design-for-consciousness-collapse-testing]], [[arguments-against-materialism]], [[comparing-quantum-consciousness-mechanisms]], [[non-retrocausal-conscious-selection-models]]
+- **Changes**: Updated 5 content files replacing [[consciousness-collapse-versus-decoherence-experiments]] wikilinks with [[consciousness-collapse-experimental-landscape]]
+- **Published**: yes
+
 ## 2026-03-25 02:25 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[consciousness-and-intelligence]], [[consciousness-threshold-in-cognitive-evolution]]

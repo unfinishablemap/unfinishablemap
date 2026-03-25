@@ -4,7 +4,7 @@ description: "Three forward-in-time frameworks propose consciousness selects amo
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-23T08:22:00+00:00
+ai_modified: 2026-03-25T02:39:00+00:00
 last_deep_review: 2026-03-23T08:22:00+00:00
 draft: false
 topics:
@@ -133,7 +133,7 @@ The Map's position: non-retrocausal conscious selection is the more conservative
 - [[amplification-mechanisms-consciousness-physics]] — Six mechanisms for scaling quantum selection to macroscopic neural effects
 - [[quantum-consciousness]]
 - [[von-neumann-wigner-interpretation]] — The ancestor interpretation that Chalmers-McQueen develop
-- [[consciousness-collapse-versus-decoherence-experiments]] — Experimental landscape constraining collapse models
+- [[consciousness-collapse-experimental-landscape]] — Experimental landscape constraining collapse models
 - [[penrose-gravity-induced-collapse-empirical-prospects]] — Empirical status of the gravitational OR mechanism
 
 ## References

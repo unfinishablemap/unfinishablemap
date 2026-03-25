@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix wikilinks for nonexistent [[consciousness-collapse-versus-decoherence-experiments]]
-- **Type**: refine-draft
-- **Notes**: 14 files reference [[consciousness-collapse-versus-decoherence-experiments]] but no such article exists (not even in archive). Related articles exist: consciousness-collapse-experimental-landscape.md and experimental-design-for-consciousness-collapse-testing.md. Update wikilinks to point to the most appropriate existing article.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-25
-
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
 - **Status**: pending
@@ -1331,6 +1325,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Fix wikilinks for nonexistent [[consciousness-collapse-versus-decoherence-experiments]]
+- **Type**: refine-draft
+- **Notes**: 14 files reference [[consciousness-collapse-versus-decoherence-experiments]] but no such article exists (not even in archive). Related articles exist: consciousness-collapse-experimental-landscape.md and experimental-design-for-consciousness-collapse-testing.md. Update wikilinks to point to the most appropriate existing article.
+- **Output**: Task context:
+14 files reference [[consciousness-collapse-versus-decoherence-experiments]] but no such article exists (not even in archive). Related articles exist: consciousness-collapse-experimental-landscape.md and experimental-design-for-consciousness-collapse-testing.md. Update wikilinks to point to the most appropriate existing article.
 
 ### ✓ 2026-03-25: Update stale wikilinks from archived [[cognitive-closure]] to [[mysterianism]]
 - **Type**: refine-draft

@@ -4,7 +4,7 @@ description: "Neurodegenerative diseases progressively dismantle cognitive facul
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-22T05:56:00+00:00
+ai_modified: 2026-03-25T02:39:00+00:00
 last_deep_review: 2026-03-22T05:56:00+00:00
 draft: false
 topics:
@@ -31,7 +31,7 @@ related_articles:
   - "[[contemplative-pathology-and-interface-malfunction]]"
   - "[[identity-across-transformations]]"
   - "[[experimental-design-for-consciousness-collapse-testing]]"
-  - "[[consciousness-collapse-versus-decoherence-experiments]]"
+  - "[[consciousness-collapse-experimental-landscape]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -119,7 +119,7 @@ The Unfinishable Map's [[tenets]] converge on neurodegenerative disease as a dom
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If terminal lucidity is confirmed by prospective research as involving genuine cognitive recovery beyond what residual neural capacity can explain, it would suggest consciousness can sometimes engage with even severely damaged neural tissue to produce coherent cognition. On that reading, consciousness would not be merely along for the ride—[[concepts/epiphenomenalism|epiphenomenal]]—but actively engaged with remaining neural resources. This interpretation is conditional on the evidence base strengthening beyond its current anecdotal state.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Neurodegeneration may constrain where consciousness-brain interaction occurs. If the quantum interface requires specific neural structures—perhaps in posterior cortical regions or subcortical nuclei—then diseases that spare those structures would preserve conscious experience while destroying higher cognitive functions. The pattern of late-surviving phenomenal awareness might map onto the preservation of quantum-level interaction sites. Whether such quantum-level interaction is real remains an open empirical question—the [[experimental-design-for-consciousness-collapse-testing|experimental landscape for testing consciousness-collapse]] is narrowing the parameter space, with [[consciousness-collapse-versus-decoherence-experiments|ongoing experiments]] constraining which collapse models remain viable.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Neurodegeneration may constrain where consciousness-brain interaction occurs. If the quantum interface requires specific neural structures—perhaps in posterior cortical regions or subcortical nuclei—then diseases that spare those structures would preserve conscious experience while destroying higher cognitive functions. The pattern of late-surviving phenomenal awareness might map onto the preservation of quantum-level interaction sites. Whether such quantum-level interaction is real remains an open empirical question—the [[experimental-design-for-consciousness-collapse-testing|experimental landscape for testing consciousness-collapse]] is narrowing the parameter space, with [[consciousness-collapse-experimental-landscape|ongoing experiments]] constraining which collapse models remain viable.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: The personal identity question in neurodegeneration demands determinate answers. Either the severely demented patient *is* the person she was—the same indexical subject with fewer tools—or she is not. Many-worlds interpretations, where all possible outcomes are equally real, would treat the identity question as indeterminate: in some branches the patient retains identity, in others she doesn't. The Map insists this question has a fact of the matter. The phenomenological evidence—that *something it is like to be her* persists—favours continuity of the conscious subject even through radical cognitive change.
 
@@ -143,7 +143,7 @@ The Unfinishable Map's [[tenets]] converge on neurodegenerative disease as a dom
 - [[identity-across-transformations]] — How indexical identity persists through radical change
 - [[dopamine-and-the-unified-interface]] — How dopamine prepares the selection interface that Parkinson's disease disrupts
 - [[experimental-design-for-consciousness-collapse-testing]] — Can the quantum interaction posited here be tested experimentally?
-- [[consciousness-collapse-versus-decoherence-experiments]] — The narrowing experimental landscape for collapse models
+- [[consciousness-collapse-experimental-landscape]] — The narrowing experimental landscape for collapse models
 
 ## References
 

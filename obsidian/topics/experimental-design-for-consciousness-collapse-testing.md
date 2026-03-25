@@ -4,7 +4,7 @@ description: "How would you test whether consciousness participates in wavefunct
 created: 2026-02-19
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-23T10:37:00+00:00
+ai_modified: 2026-03-25T02:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[methodology-of-consciousness-research]]"
   - "[[time-collapse-and-agency]]"
   - "[[qm-interpretations-beyond-many-worlds]]"
-  - "[[consciousness-collapse-versus-decoherence-experiments]]"
+  - "[[consciousness-collapse-experimental-landscape]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
 ai_contribution: 100
 author:
@@ -65,7 +65,7 @@ The Wigner's friend scenario provides the most direct test framework. Wigner's f
 
 In 2020, Bong et al. derived the "local friendliness" no-go theorem — stronger than Bell's theorem — showing that certain experimental assumptions cannot all be true simultaneously. One of those assumptions is "absoluteness of observed events" — that measurements produce single, definite outcomes. Many-worlds proponents argue that this theorem actually favours MWI, since MWI denies absoluteness of observed events rather than locality or friendliness. Consciousness-collapse proponents must accept the theorem's constraints differently, maintaining absolute outcomes while explaining how consciousness produces them.
 
-Frauchiger and Renner (2018) formalised a related challenge: applying quantum mechanics universally — including to conscious observers — generates contradictions when combined with the assumption that measurements produce single definite outcomes. Consciousness-collapse theorists can coherently reject the universality assumption (conscious systems are precisely where unitarity breaks down), but any viable version must clearly specify where quantum evolution ceases to apply. The [[consciousness-collapse-versus-decoherence-experiments|experimental landscape article]] discusses this constraint in detail.
+Frauchiger and Renner (2018) formalised a related challenge: applying quantum mechanics universally — including to conscious observers — generates contradictions when combined with the assumption that measurements produce single definite outcomes. Consciousness-collapse theorists can coherently reject the universality assumption (conscious systems are precisely where unitarity breaks down), but any viable version must clearly specify where quantum evolution ceases to apply. The [[consciousness-collapse-experimental-landscape|experimental landscape article]] discusses this constraint in detail.
 
 Experiments using photonic systems have tested aspects of the Wigner's friend theorem, but critics note the obvious limitation: photonic systems lack anything resembling conscious observation. The experiment needs a genuine conscious observer inside the sealed lab, yet the act of sealing a conscious observer from outside interference is technically impossible at the quantum level — the observer's thermal radiation, gravitational field, and electromagnetic interactions leak information continuously.
 
@@ -123,7 +123,7 @@ Beyond this anchor, the Map's [[testability-ledger]] catalogues broader disconfi
 ### Lines of Convergence
 
 Supporting lines of evidence that would strengthen the case, without being individually decisive:
-- Failure of objective collapse theories to match observed collapse rates (weakening the physicalist alternative) — the [[consciousness-collapse-versus-decoherence-experiments|experimental landscape]] is actively constraining these models, with Gran Sasso results already ruling out the simplest Diósi-Penrose parameterisations
+- Failure of objective collapse theories to match observed collapse rates (weakening the physicalist alternative) — the [[consciousness-collapse-experimental-landscape|experimental landscape]] is actively constraining these models, with Gran Sasso results already ruling out the simplest Diósi-Penrose parameterisations
 - Evidence that [[decoherence]] genuinely cannot solve the measurement problem (preserving the explanatory gap) — proposed levitated nanoparticle experiments aim to distinguish CSL collapse from environmental decoherence directly
 - Discovery of quantum coherence effects in neural systems (establishing the physical preconditions)
 - Anomalous collapse dynamics in systems with high Q-shape distance between superposed states (the Chalmers-McQueen prediction — the strongest individual line)
@@ -141,7 +141,7 @@ The Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is directly r
 
 ## Further Reading
 
-- [[consciousness-collapse-versus-decoherence-experiments]] — The current experimental landscape: Gran Sasso, levitated nanoparticles, and the path to decisive tests
+- [[consciousness-collapse-experimental-landscape]] — The current experimental landscape: Gran Sasso, levitated nanoparticles, and the path to decisive tests
 - [[collapse-and-time]] — How collapse connects to temporal asymmetry and why collapse realism matters for testability
 - [[quantum-measurement-and-consciousness]]
 - [[consciousness-in-smeared-quantum-states]]

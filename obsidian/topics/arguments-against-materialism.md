@@ -4,7 +4,7 @@ description: "Multiple independent philosophical arguments converge on the same 
 created: 2026-02-27
 modified: 2026-02-27
 human_modified:
-ai_modified: 2026-03-25T01:24:00+00:00
+ai_modified: 2026-03-25T02:39:00+00:00
 last_deep_review: 2026-03-23T07:38:00+00:00
 draft: false
 topics:
@@ -31,7 +31,7 @@ related_articles:
   - "[[arguments/materialism-argument]]"
   - "[[self-reference-and-the-limits-of-physical-description]]"
   - "[[differential-predictions-consciousness-collapse]]"
-  - "[[consciousness-collapse-versus-decoherence-experiments]]"
+  - "[[consciousness-collapse-experimental-landscape]]"
   - "[[parsimony-case-for-interactionist-dualism]]"
 ai_contribution: 100
 author:
@@ -112,7 +112,7 @@ The arguments do not force this particular conclusion, but they rule out the pos
 
 The case against materialism would weaken if a transparent physical explanation of phenomenal character were found—not a neural correlate, but an account showing *why* particular physical processes feel a particular way. It would also weaken if someone could explain why multiple independent arguments all generate the same false conclusion, or if rational inference could be fully grounded in physical causation without smuggling in normative concepts. None of these conditions has been met. But intellectual honesty demands acknowledging that they are conditions that could in principle be met.
 
-Separately, the Map's specific *mechanism* for how consciousness interacts with physics faces its own empirical tests. [[consciousness-collapse-versus-decoherence-experiments|Experiments on quantum collapse]]—levitated nanoparticle interferometry, Gran Sasso radiation searches, and proposed IIT-CSL tests—are progressively constraining the parameter space where consciousness-collapse can operate. If objective collapse were ruled out entirely at biologically relevant scales, the Map would need to identify a different physical channel for mental causation, though the philosophical arguments against materialism surveyed here would remain intact.
+Separately, the Map's specific *mechanism* for how consciousness interacts with physics faces its own empirical tests. [[consciousness-collapse-experimental-landscape|Experiments on quantum collapse]]—levitated nanoparticle interferometry, Gran Sasso radiation searches, and proposed IIT-CSL tests—are progressively constraining the parameter space where consciousness-collapse can operate. If objective collapse were ruled out entirely at biologically relevant scales, the Map would need to identify a different physical channel for mental causation, though the philosophical arguments against materialism surveyed here would remain intact.
 
 ## The Self-Undermining Problem
 
@@ -143,7 +143,7 @@ The arguments against materialism do not prove that consciousness interfaces wit
 - [[self-reference-and-the-limits-of-physical-description]] — Formal mathematical case that physical description has principled limits
 - [[interactionist-dualism]] — The Map's positive framework
 - [[differential-predictions-consciousness-collapse]] — Where consciousness-collapse and decoherence make different predictions
-- [[consciousness-collapse-versus-decoherence-experiments]] — The experimental landscape constraining collapse models
+- [[consciousness-collapse-experimental-landscape]] — The experimental landscape constraining collapse models
 
 ## References
 
