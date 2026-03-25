@@ -4,7 +4,7 @@ description: "Logic compels and mathematics describes with extraordinary precisi
 created: 2026-02-15
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-03-18T03:59:00+00:00
+ai_modified: 2026-03-25T07:58:00+00:00
 last_deep_review: 2026-03-18T03:59:00+00:00
 draft: false
 topics:
@@ -26,7 +26,7 @@ concepts:
   - "[[galilean-exclusion]]"
   - "[[philosophical-zombies]]"
   - "[[knowledge-argument]]"
-  - "[[mathematical-structure-of-reality]]"
+  - "[[mathematical-structure-of-the-consciousness-physics-interface]]"
   - "[[materialism]]"
   - "[[phenomenal-transparency]]"
   - "[[conceivability-possibility-inference]]"

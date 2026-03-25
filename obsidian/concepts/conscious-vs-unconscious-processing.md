@@ -4,7 +4,7 @@ description: "Consciousness enables specific functions unconscious processing ca
 created: 2026-01-23
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-03-21T21:56:00+00:00
+ai_modified: 2026-03-25T07:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,7 +45,7 @@ coalesced_from:
 
 If consciousness were merely an epiphenomenal byproduct of neural activity—along for the ride but making no functional difference—then unconscious processes should achieve everything conscious ones can. Yet the empirical evidence shows otherwise. A 2025 meta-analysis reanalyzed 80 experimental conditions from 16 fMRI studies and found that only 10% provided genuine evidence for unconscious processing. Consciousness is not a passive observer. It enables specific cognitive functions that unconscious processing cannot achieve: maintaining information in [[working-memory|working memory]] across time, combining operations in novel ways, and generating voluntary action. The very fact that you are reading and understanding these words—integrating meaning across sentences, holding context, deciding whether to continue—demonstrates consciousness at work.
 
-These findings directly support the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet—consciousness makes a causal difference to cognition and behavior. [[Perception-and-conscious-experience|Perceptual dissociations]]—blindsight, inattentional blindness, subliminal processing—provide the clearest empirical cases of this conscious/unconscious divide.
+These findings directly support the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet—consciousness makes a causal difference to cognition and behavior. [[dualist-perception|Perceptual dissociations]]—blindsight, inattentional blindness, subliminal processing—provide the clearest empirical cases of this conscious/unconscious divide.
 
 ## The Standard Picture (and Its Problems)
 
@@ -148,7 +148,7 @@ This functionality gap supports [[tenets#^bidirectional-interaction|Bidirectiona
 
 ## Attention as Gatekeeper
 
-[[Attention]] gates conscious access. Without attention, information remains subliminal (insufficient signal strength) or preconscious (signal present but attention elsewhere, as in inattentional blindness). With attention, top-down amplification boosts sensory signals into global broadcast, enabling the three consciousness-requiring functions above.
+[[attention-as-interface|Attention]] gates conscious access. Without attention, information remains subliminal (insufficient signal strength) or preconscious (signal present but attention elsewhere, as in inattentional blindness). With attention, top-down amplification boosts sensory signals into global broadcast, enabling the three consciousness-requiring functions above.
 
 Change blindness and inattentional blindness demonstrate that even salient stimuli fail to reach consciousness without attention. For the Map's framework, this connects to [[attention-as-interface|voluntary attention]]: voluntary control of attention becomes a mechanism for consciousness to influence which information enters the workspace. The [[stapp-quantum-mind|quantum Zeno hypothesis]] locates this control at the quantum level.
 

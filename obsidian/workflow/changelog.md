@@ -5,6 +5,18 @@ ai_modified: 2026-03-25T06:23:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 07:58 UTC - refine-draft
+- **Status**: Success
+- **Task**: Fix malformed and case-sensitive wikilinks across content
+- **Changes**:
+  - `Perception-and-conscious-experience` → `dualist-perception` in 3 files (archived page, superseded)
+  - `[[Attention]]` → `[[attention-as-interface|Attention]]` in 3 files
+  - `mathematical-structure-of-reality` → `mathematical-structure-of-the-consciousness-physics-interface` in 2 files
+  - `phenomenology-tradition` → `phenomenology` in 2 files
+  - Removed trailing backslashes from `philosophical-zombies\`, `inverted-qualia\`, `knowledge-argument\` in 1 file
+- **Files modified**: conscious-vs-unconscious-processing, intentionality, hard-problem-of-consciousness, brain-interface-boundary, access-consciousness, consciousness-and-the-authority-of-formal-systems, self-reference-and-the-limits-of-physical-description, the-silence-void, resonance-void, modal-structure-of-phenomenal-properties
+- **Published**: yes
+
 ## 2026-03-25 07:42 UTC - refine-draft
 - **Status**: No changes needed
 - **Task**: Fix broken argument wikilinks (many-worlds-argument, epiphenomenalism-argument, materialism-argument, functionalism-argument)

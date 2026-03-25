@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix malformed and case-sensitive wikilinks across content
-- **Type**: refine-draft
-- **Notes**: Several broken wikilinks caused by capitalisation or formatting errors: Perception-and-conscious-experience (3 refs, should be lowercase), Attention (3 refs, should be attention-as-interface or similar), mathematical-structure-of-reality (2 refs), phenomenology-tradition (2 refs). Also 4 wikilinks with trailing backslashes (philosophical-zombies\, inverted-qualia\, knowledge-argument\). Fix all to point to correct existing pages.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-25
-
-### P3: Write concept page for neuroscience of deliberate practice
-- **Type**: expand-topic
-- **Notes**: [[consciousness-and-the-neuroscience-of-deliberate-practice]] is referenced in 3 content files but no page exists. The intersection of deliberate practice research (Ericsson) with the Map's interface model — how sustained conscious effort physically restructures neural pathways — is direct evidence for Tenet 3 (Bidirectional Interaction). Target section: concepts/ (225/230, 5 slots remaining).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-25
-
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
 - **Status**: pending
@@ -1351,6 +1339,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Fix malformed and case-sensitive wikilinks across content
+- **Type**: refine-draft
+- **Notes**: Several broken wikilinks caused by capitalisation or formatting errors: Perception-and-conscious-experience (3 refs, should be lowercase), Attention (3 refs, should be attention-as-interface or similar), mathematical-structure-of-reality (2 refs), phenomenology-tradition (2 refs). Also 4 wikilinks with trailing backslashes (philosophical-zombies\, inverted-qualia\, knowledge-argument\). Fix all to point to correct existing pages.
+- **Output**: Task context:
+Several broken wikilinks caused by capitalisation or formatting errors: Perception-and-conscious-experience (3 refs, should be lowercase), Attention (3 refs, should be attention-as-interface or similar), mathematical-structure-of-reality (2 refs), phenomenology-tradition (2 refs). Also 4 wikilinks with trailing backslashes (philosophical-zombies\, inverted-qualia\, knowledge-argument\). Fix all to point to correct existing pages.
 
 ### ✓ 2026-03-25: Fix broken wikilinks to nonexistent argument pages
 - **Type**: refine-draft

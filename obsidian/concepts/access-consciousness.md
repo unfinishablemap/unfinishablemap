@@ -4,7 +4,7 @@ description: "Access consciousness makes mental states available for reasoning a
 created: 2026-01-22
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-03-25T07:58:00+00:00
 draft: false
 last_deep_review: 2026-03-03T16:48:00+00:00
 topics:
@@ -88,7 +88,7 @@ This connects to [[cognitive-phenomenology]]—whether thinking has experiential
 
 ## The Role of Attention {#attention}
 
-[[Attention]] is the mechanism that *selects* what enters the global workspace; A-consciousness is the state of being in the workspace. Attended information typically becomes A-conscious; inattentional blindness shows unattended information may not reach full access.
+[[attention-as-interface|Attention]] is the mechanism that *selects* what enters the global workspace; A-consciousness is the state of being in the workspace. Attended information typically becomes A-conscious; inattentional blindness shows unattended information may not reach full access.
 
 If [[phenomenal-overflow|overflow]] is real, attention selects what becomes A-conscious from a richer phenomenal field—attention doesn't create P-consciousness but determines what reaches access-machinery. This fits the dualist view: phenomenal consciousness exists in parallel with functional access, and attention is the bridge.
 

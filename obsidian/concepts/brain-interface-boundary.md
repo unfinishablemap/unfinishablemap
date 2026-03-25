@@ -4,7 +4,7 @@ description: "Brains meet five criteria for consciousness interfaces while exter
 created: 2026-01-16
 modified: 2026-02-22
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-25T07:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -58,7 +58,7 @@ Neural systems model motor plans, perceptual hypotheses, counterfactual possibil
 
 ### 3. Attention Mechanisms
 
-The system must include mechanisms for directed focus—increasing processing resources on specific contents while suppressing others. Stapp's [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno mechanism]] requires repeated observation to hold quantum states stable. [[Attention]] neurally implements this through frontoparietal networks. Systems without attention mechanisms cannot implement Zeno-style selection.
+The system must include mechanisms for directed focus—increasing processing resources on specific contents while suppressing others. Stapp's [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno mechanism]] requires repeated observation to hold quantum states stable. [[attention-as-interface|Attention]] neurally implements this through frontoparietal networks. Systems without attention mechanisms cannot implement Zeno-style selection.
 
 ### 4. Feedback Integration
 

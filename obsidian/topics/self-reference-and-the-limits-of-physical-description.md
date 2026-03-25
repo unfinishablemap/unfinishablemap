@@ -4,6 +4,7 @@ description: "Gödel's incompleteness and the quantum measurement problem share 
 created: 2026-03-17
 modified: 2026-03-18
 human_modified:
+ai_modified: 2026-03-25T07:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,7 +15,7 @@ concepts:
   - "[[quantum-consciousness]]"
   - "[[causal-closure]]"
   - "[[quantum-interpretations]]"
-  - "[[mathematical-structure-of-reality]]"
+  - "[[mathematical-structure-of-the-consciousness-physics-interface]]"
   - "[[mysterianism]]"
   - "[[explanatory-gap]]"
   - "[[decoherence]]"

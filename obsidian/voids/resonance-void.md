@@ -4,10 +4,10 @@ description: "Human+AI exploration of why consciousness encounters meaning it ca
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-03-24T23:25:00+00:00
+ai_modified: 2026-03-25T07:58:00+00:00
 draft: false
 topics:
-  - "[[phenomenology-tradition]]"
+  - "[[phenomenology]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[phenomenology]]"

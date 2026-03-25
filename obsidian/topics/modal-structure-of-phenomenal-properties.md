@@ -4,7 +4,7 @@ description: "Possibility, necessity, and conceivability reveal that phenomenal 
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-25T07:58:00+00:00
 last_deep_review: 2026-03-15T08:50:00+00:00
 draft: false
 topics:
@@ -67,9 +67,9 @@ Each modal argument against materialism exploits a different modal relationship:
 
 | Argument | Modal claim | What varies | What's held fixed |
 |----------|-------------|-------------|-------------------|
-| [[philosophical-zombies\|Zombies]] | Phenomenal properties possibly absent | Phenomenal properties | All physical properties |
-| [[inverted-qualia\|Inverted qualia]] | Phenomenal properties possibly different | Qualitative character | Functional role |
-| [[knowledge-argument\|Mary's Room]] | Phenomenal knowledge possibly absent | Epistemic state | Physical knowledge |
+| [[philosophical-zombies|Zombies]] | Phenomenal properties possibly absent | Phenomenal properties | All physical properties |
+| [[inverted-qualia|Inverted qualia]] | Phenomenal properties possibly different | Qualitative character | Functional role |
+| [[knowledge-argument|Mary's Room]] | Phenomenal knowledge possibly absent | Epistemic state | Physical knowledge |
 | Kripke | Psychophysical identity possibly false | Phenomenal-physical connection | Rigid designation |
 
 These are not four ways of making the same point. They target different aspects of the phenomenal-physical relationship: existence, character, epistemic access, and identity. (The [[zombie-master-argument]] shows how the conceivability argument subsumes several of these as special cases within a single logical structure.) The fact that phenomenal properties permit detachment along every one of these dimensions — when no physical property permits detachment along *any* of them — constitutes a convergence that demands explanation.
