@@ -4,7 +4,8 @@ description: "If thinking itself has phenomenal character beyond sensory accompa
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-03-25T08:58:00+00:00
+ai_modified: 2026-03-25T09:58:00+00:00
+last_deep_review: 2026-03-25T09:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,6 +21,10 @@ concepts:
   - "[[knowledge-argument]]"
   - "[[consciousness-as-amplifier]]"
   - "[[symbol-grounding-problem]]"
+  - "[[functionalism]]"
+  - "[[explanatory-gap]]"
+  - "[[inverted-qualia]]"
+  - "[[working-memory]]"
 related_articles:
   - "[[tenets]]"
   - "[[cognitive-phenomenology-thinking-experience-2026-01-17]]"
@@ -43,7 +48,7 @@ Materialists have a standard response to the hard problem: treat it as a problem
 
 Cognitive phenomenology closes this retreat. If understanding a sentence has phenomenal character over and above the accompanying inner speech, then the hard problem applies to cognition itself. The materialist cannot quarantine the mystery to sensory experience and treat the rest of mental life as safe computational territory.
 
-Consider what this means for functionalism specifically. Functionalism defines mental states by their causal roles — a belief is whatever plays the belief-role in processing. If beliefs have proprietary phenomenal character — if believing that snow is white feels different from believing that grass is green in a way not captured by functional differences — then functional role underdetermines mental state identity. Two systems could share functional organisation while differing in the phenomenal character of their cognitive states, just as the classic inverted [[qualia]] scenario works for sensation.
+Consider what this means for [[functionalism]] specifically. Functionalism defines mental states by their causal roles — a belief is whatever plays the belief-role in processing. If beliefs have proprietary phenomenal character — if believing that snow is white feels different from believing that grass is green in a way not captured by functional differences — then functional role underdetermines mental state identity. Two systems could share functional organisation while differing in the phenomenal character of their cognitive states, just as the classic [[inverted-qualia|inverted qualia]] scenario works for sensation. Functionalists have responses to inverted qualia in the sensory case — notably that functional differences always accompany qualitative differences. But cognitive phenomenology makes this reply harder to sustain: the functional role of understanding a sentence is plausibly identical whether the accompanying phenomenal character differs or not, because cognition's functional profile is more tightly constrained than sensation's.
 
 ## From Sensation to Cognition: Expanding the Explanatory Gap
 
@@ -51,7 +56,9 @@ The [[knowledge-argument|knowledge argument]] (Mary's Room) is typically present
 
 Consider a variant: Mary knows everything physical about the neuroscience of mathematical understanding. She knows which neural populations activate when someone grasps a proof, which connectivity patterns distinguish verification from insight, which neurotransmitters modulate the "aha" moment. But Mary has never *understood* a mathematical proof — she has only processed the physical descriptions. When she first grasps why the square root of two is irrational, does she learn something new?
 
-If cognitive phenomenology exists, she does. She learns what it is like to understand — a phenomenal fact that her exhaustive physical knowledge did not contain. The explanatory gap reopens in the domain of thought itself. Physical description, however complete, leaves out the experience of comprehension.
+The physicalist will object that this begs the question: if Mary truly knows *everything* physical about mathematical understanding, perhaps she already understands — since understanding just is the relevant physical process. But this objection has less force for cognition than for colour. With colour, one might argue that knowing the physics of wavelength processing exhausts what there is to know. With mathematical understanding, the gap is starker: no amount of neuroscientific description of proof-processing seems to *constitute* the grasp of why the conclusion follows from the premises.
+
+If cognitive phenomenology exists, Mary learns something new. She learns what it is like to understand — a phenomenal fact that her exhaustive physical knowledge did not contain. The [[explanatory-gap]] reopens in the domain of thought itself. Physical description, however complete, leaves out the experience of comprehension.
 
 This generalisation matters because it blocks an important materialist strategy: conceding sensory qualia while insisting that cognition is fully physical. If the explanatory gap applies to thinking, then the materialist cannot retreat to a position where consciousness is merely a sensory phenomenon layered on top of otherwise physical cognition. Consciousness pervades the cognitive.
 
@@ -75,7 +82,7 @@ The [[symbol-grounding-problem|symbol grounding problem]] illustrates this from 
 
 ## Consciousness Pervades Cognition
 
-Research on the [[consciousness-as-amplifier|amplification thesis]] provides empirical support for the scope of cognitive phenomenology. Rule-based logical reasoning depends specifically on conscious processing. Maintaining information in working memory can proceed unconsciously, but manipulating it — comparing, combining, restructuring — requires conscious access. The active work of thinking is phenomenally conscious.
+Research on the [[consciousness-as-amplifier|amplification thesis]] provides empirical support for the scope of cognitive phenomenology. Evidence from cognitive science suggests that rule-based logical reasoning depends specifically on conscious processing. Maintaining information in [[working-memory|working memory]] can proceed unconsciously, but manipulating it — comparing, combining, restructuring — appears to require conscious access. If this is correct, the active work of thinking is phenomenally conscious.
 
 This aligns with the [[phenomenology-of-intellectual-effort|phenomenology of intellectual effort]]: the strain of holding premises together, the effort of tracing implications, the resistance when an argument does not work. These are not sensory experiences. They are the felt texture of cognition itself — and they are irreducibly phenomenal.
 
