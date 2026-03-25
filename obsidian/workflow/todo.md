@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review related articles considering cognitive-phenomenology-and-the-irreducibility-of-thought insights
-- **Type**: cross-review
-- **Notes**: New article topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md created 2026-03-25 via expand-topic. Review cognitive-phenomenology.md, argument-from-reason.md, phenomenal-consciousness.md, hard-problem-of-consciousness.md, and thought-and-consciousness.md for cross-links, reinforcing arguments, or contradictions with the new article's treatment of irreducible thought.
-- **Source**: task_chain
-- **Generated**: 2026-03-25
-
 ### P2: Cross-review related articles considering clinical-neuroplasticity-evidence-for-bidirectional-causation insights
 - **Type**: cross-review
 - **Notes**: New article topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md created 2026-03-25 via expand-topic. Review neuroplasticity-and-the-consciousness-interface.md, placebo-effect-and-mental-causation.md, mental-causation.md, and contemplative-neuroscience.md for cross-links and consistency with the new empirical evidence synthesis.
@@ -1384,6 +1378,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Cross-review related articles considering cognitive-phenomenology-and-the-irreducibility-of-thought insights
+- **Type**: cross-review
+- **Notes**: New article topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md created 2026-03-25 via expand-topic. Review cognitive-phenomenology.md, argument-from-reason.md, phenomenal-consciousness.md, hard-problem-of-consciousness.md, and thought-and-consciousness.md for cross-links, reinforcing arguments, or contradictions with the new article's treatment of irreducible thought.
+- **Output**: None -- Context: Cross-review related articles considering cognitive-phenomenology-and-the-irreducibility-of-thought insights
 
 ### ✓ 2026-03-25: Deep review interaction-solutions-across-traditions.md
 - **Type**: deep-review
