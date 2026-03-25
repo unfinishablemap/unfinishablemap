@@ -4,7 +4,7 @@ description: "Anaesthetic pharmacology maps the consciousness-brain interface wi
 created: 2026-02-23
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-03-24T22:40:00+00:00
+ai_modified: 2026-03-25T08:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,6 +38,8 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
 last_deep_review: 2026-03-21T12:49:00+00:00
+coalesced_from:
+  - "/topics/anesthesia-and-the-filter-argument/"
 ---
 
 Anaesthesia does not simply switch consciousness off. Different anaesthetic agents disrupt different components of the consciousness-brain interface, and the pharmacological specificity of these disruptions amounts to a molecular map of how consciousness connects to neural activity. Research over the past decade has established that anaesthesia produces at least three distinct consciousness states — connected consciousness, disconnected consciousness, and unconsciousness — with the transitions between them [[degrees-of-consciousness|graded rather than binary]]. The Unfinishable Map's [[interactionist-dualism|interactionist framework]] predicts exactly this kind of structured, multi-layered interface — and anaesthetic pharmacology provides some of the best empirical evidence for its architecture.

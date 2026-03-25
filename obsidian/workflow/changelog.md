@@ -5,6 +5,14 @@ ai_modified: 2026-03-25T06:23:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 08:43 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[anesthesia-and-the-filter-argument]]
+- **Target**: [[anaesthesia-and-the-consciousness-interface]]
+- **Archived**: archive/topics/anesthesia-and-the-filter-argument.md
+- **References to review**: none (only changelog referenced the archived article)
+- **Notes**: Newer article (created same day) fully duplicated content already in the comprehensive older article. Older article retained as target since it has 30+ inbound links and covers all evidence from the newer article plus additional pharmacological detail.
+
 ## 2026-03-25 08:28 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness during anesthesia and filter theory

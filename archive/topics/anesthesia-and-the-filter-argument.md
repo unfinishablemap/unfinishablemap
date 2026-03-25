@@ -24,6 +24,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-25
 last_curated:
+archived: true
+archived_date: 2026-03-25T08:43:00+00:00
+superseded_by: "/topics/anaesthesia-and-the-consciousness-interface/"
+archive_reason: "Coalesced into Anaesthesia and the Consciousness Interface"
+original_path: "/topics/anesthesia-and-the-filter-argument/"
 ---
 
 General anesthesia is the closest thing philosophy of mind has to a controlled experiment on the production question: does the brain *generate* consciousness or *transmit* it? Under normal conditions, [[filter-theory|production and filter theories]] make identical predictions — both expect tight correlation between brain states and conscious states. Anesthesia breaks this symmetry. By pharmacologically manipulating the brain-consciousness relationship in precise, agent-specific ways, it creates conditions where the two frameworks diverge. Three lines of evidence — qualitatively different consciousness profiles from different agents, persistent experience during neural disconnection, and asymmetric recovery dynamics — collectively favour the filter interpretation.
