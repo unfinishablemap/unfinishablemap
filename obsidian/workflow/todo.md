@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on consciousness during anesthesia and filter theory
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Anesthesia provides a natural experiment for filter theory — if consciousness is filtered rather than generated, anesthetic agents alter the filter rather than extinguishing production. Synthesize research into concept page addressing sevoflurane/ketamine dissociations, connected consciousness during surgery, and implications for Tenet 1. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-25
-
 ### P2: Write article on cognitive phenomenology
 - **Type**: expand-topic
 - **Status**: pending
@@ -1381,6 +1374,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Write article on consciousness during anesthesia and filter theory
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Anesthesia provides a natural experiment for filter theory — if consciousness is filtered rather than generated, anesthetic agents alter the filter rather than extinguishing production. Synthesize research into concept page addressing sevoflurane/ketamine dissociations, connected consciousness during surgery, and implications for Tenet 1. Target section: concepts/.
+- **Output**: consciousness during anesthesia and filter theory
 
 ### ✓ 2026-03-25: Fix malformed and case-sensitive wikilinks across content
 - **Type**: refine-draft
