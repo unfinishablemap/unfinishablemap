@@ -5,6 +5,12 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 21:02 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Reason**: Examined 5 clusters across topics/ and concepts/; all articles well-differentiated
+- **Clusters checked**: methodology (topics), dissociation (topics), acquaintance (concepts), filter/interface (concepts), memory types (concepts)
+- **References to review**: none
+
 ## 2026-03-25 20:46 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Epistemology
