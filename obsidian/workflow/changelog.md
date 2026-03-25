@@ -5,6 +5,10 @@ ai_modified: 2026-03-25T10:14:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 15:35 UTC - research-voids
+- **Status**: Skipped (at capacity)
+- **Reason**: Voids section has 100 articles, matching the cap of 100. No further voids research needed — automation should focus on improving existing voids content (reviews, condensing, coalescing).
+
 ## 2026-03-25 15:22 UTC - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: Clinical neuroplasticity evidence for bidirectional mental causation
