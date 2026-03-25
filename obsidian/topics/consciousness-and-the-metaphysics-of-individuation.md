@@ -4,7 +4,7 @@ description: "Why does consciousness come in discrete subjects? The individuatio
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-03-25T11:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,12 +28,13 @@ related_articles:
   - "[[voids]]"
   - "[[indexical-void]]"
   - "[[consciousness-and-the-ownership-problem]]"
+  - "[[epistemological-limits-occams-razor]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-18
 last_curated:
-last_deep_review: 2026-03-02T12:52:00+00:00
+last_deep_review: 2026-03-25T11:58:00+00:00
 ---
 
 Why does consciousness come in discrete subjects? Every conscious being has a private phenomenal field—a bounded perspective that is *this* perspective rather than any other. But what draws these boundaries? What determines that the world contains billions of separate conscious subjects rather than one vast field of experience, or none at all? The Unfinishable Map's dualist framework makes this question especially acute: if consciousness is not identical to the body, the body cannot be what individuates it.
@@ -100,7 +101,7 @@ Try to locate where "you" ends and "not-you" begins. The exercise fails—not be
 
 Caspar Hare captures a related asymmetry through his concept of "egocentric presentism." One subject's experiences possess an irreducible monadic property of *presence*—they are present in a way that others' experiences are not. This is not solipsism: other people exist and are fully conscious. But their experiences lack the property of being *present*. The "presence" property cannot be reduced to any objective feature of the world, making individuation partly a matter of irreducible indexical fact.
 
-Contemplative traditions report states in which the self-other boundary appears to dissolve—certain Buddhist jhanas, mystical union experiences, psychedelic ego dissolution. These reports are philosophically significant but ambiguous. They may represent genuine access to the pre-individuated ground of consciousness. Or they may represent altered phenomenology *within* an unchanged subject—the experience of boundarylessness without actual dissolution of the boundary.
+Contemplative traditions report states in which the self-other boundary appears to dissolve—certain [[buddhism-and-dualism|Buddhist]] jhanas, mystical union experiences, psychedelic ego dissolution. These reports are philosophically significant but ambiguous. They may represent genuine access to the pre-individuated ground of consciousness. Or they may represent altered phenomenology *within* an unchanged subject—the experience of boundarylessness without actual dissolution of the boundary.
 
 ## What Would Challenge This View?
 
@@ -126,7 +127,7 @@ The individuation question connects to all five of the Map's [[tenets]], but mos
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** suggests that the individuation boundary may be dynamically maintained. If consciousness and brain causally shape each other, the boundary around a subject could be sustained by an ongoing feedback loop rather than fixed by metaphysical fiat. Each interaction reinforces the coupling between *this* consciousness and *this* neural system, progressively deepening the individuation.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** applies here with full force. The simplest account of individuation—subjects are individuated by bodies—fails. A more complex account is needed, perhaps involving primitives (haecceity, presence) that resist further analysis. The individuation problem is a case where reality's structure exceeds the simplest available description.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** applies here with full force. The simplest account of individuation—subjects are individuated by bodies—fails. A more complex account is needed, perhaps involving primitives (haecceity, presence) that resist further analysis. The individuation problem is a case where reality's structure exceeds the simplest available description. The [[epistemological-limits-occams-razor|parsimony void]] identifies why this failure may be systematic: if cognitive parsimony bias makes simpler theories *feel* more plausible regardless of their truth, then the felt implausibility of primitive individuation may reflect architectural preference rather than evidential weight.
 
 ## Further Reading
 
@@ -142,6 +143,7 @@ The individuation question connects to all five of the Map's [[tenets]], but mos
 - [[buddhism-and-dualism]] — Buddhist perspectives on self-boundaries and *anattā*
 - [[indexical-void]] — The void-form of the individuation question: why am I *this* consciousness?
 - [[consciousness-and-the-ownership-problem]] — What makes experience belong to a subject
+- [[epistemological-limits-occams-razor]] — Why parsimony bias may systematically favour simpler individuation accounts
 
 ## References
 

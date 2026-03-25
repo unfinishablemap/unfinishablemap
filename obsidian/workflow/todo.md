@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review void articles considering epistemological-limits-occams-razor
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New void article voids/epistemological-limits-occams-razor.md created via expand-topic. Review meta-epistemology-of-limits.md, three-kinds-of-void.md, whether-real.md, and parsimony-epistemology.md for cross-links and consistency. The Occam's razor epistemological limits argument connects directly to Tenet 5 — ensure related articles reference this void.
-- **Source**: chain (from epistemological-limits-occams-razor.md)
-- **Generated**: 2026-03-25
-
 ### P2: Write concept page on conservation laws and mind-brain causation
 - **Type**: expand-topic
 - **Status**: pending
@@ -1353,6 +1346,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Cross-review void articles considering epistemological-limits-occams-razor
+- **Type**: cross-review
+- **Notes**: New void article voids/epistemological-limits-occams-razor.md created via expand-topic. Review meta-epistemology-of-limits.md, three-kinds-of-void.md, whether-real.md, and parsimony-epistemology.md for cross-links and consistency. The Occam's razor epistemological limits argument connects directly to Tenet 5 — ensure related articles reference this void.
+- **Output**: None -- Context: Cross-review void articles considering epistemological-limits-occams-razor
 
 ### ✓ 2026-03-25: Cross-review reasoning articles considering cognitive phenomenology irreducibility
 - **Type**: cross-review
