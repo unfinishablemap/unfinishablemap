@@ -4,8 +4,8 @@ description: "Counterfactual reasoning imagines what could have been or might be
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-03-25T01:40:00+00:00
-last_deep_review: 2026-03-01T06:54:00+00:00
+ai_modified: 2026-03-25T03:53:00+00:00
+last_deep_review: 2026-03-25T03:53:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -21,6 +21,7 @@ concepts:
   - "[[episodic-memory]]"
   - "[[prospective-memory]]"
   - "[[consciousness-and-creativity]]"
+  - "[[reasons-responsiveness]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-independent-baseline-cognition-2026-01-21]]"
@@ -88,7 +89,7 @@ Counterfactual reasoning bears directly on [[topics/free-will|free will]]. Liber
 
 Each step involves counterfactual reasoning. Without the capacity to represent "what would happen if I chose X," genuine deliberation becomes impossible. You would be restricted to what the [[baseline-cognition|baseline cognition]] framework calls the "zone of latent solutions"—recombining existing patterns without generating genuinely novel possibilities.
 
-The [[phenomenology-of-choice-and-volition|phenomenology of choice]] reveals this counterfactual structure. Deliberating feels like holding multiple possibilities open, exploring their implications, and then settling on one. The felt sense of alternatives collapsing to actuality—one becoming real while others fade to mere counterfactuals—is central to the experience of choosing. This phenomenology supports *reasons-responsiveness*: we choose *for* reasons by evaluating how counterfactual outcomes align with what matters to us.
+The [[phenomenology-of-choice-and-volition|phenomenology of choice]] reveals this counterfactual structure. Deliberating feels like holding multiple possibilities open, exploring their implications, and then settling on one. The felt sense of alternatives collapsing to actuality—one becoming real while others fade to mere counterfactuals—is central to the experience of choosing. This phenomenology supports *[[reasons-responsiveness]]*: we choose *for* reasons by evaluating how counterfactual outcomes align with what matters to us.
 
 ### Agent Causation and Counterfactual Selection
 

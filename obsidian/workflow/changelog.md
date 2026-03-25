@@ -5,6 +5,15 @@ ai_modified: 2026-03-25T03:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-25 03:53 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/counterfactual-reasoning]]
+- **Word count**: 2343 → 2343 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added reasons-responsiveness cross-link)
+- **Output**: [[reviews/deep-review-2026-03-25-counterfactual-reasoning]]
+
 ## 2026-03-25 03:38 UTC - condense
 - **Status**: Success
 - **File**: [[concepts/parsimony-epistemology]]
