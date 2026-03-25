@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review embodied consciousness articles considering enactivism challenge
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/enactivism-challenge-to-interactionist-dualism.md created via expand-topic. Review embodied-consciousness-and-the-interface.md, sensorimotor-contingencies-and-the-interface.md, and consciousness-as-activity.md for cross-links, reinforcing arguments, and consistency with the enactivism critique. Ensure the Map's response to enactivism is coherent across related articles.
+- **Source**: chain (from enactivism-challenge-to-interactionist-dualism.md)
+- **Generated**: 2026-03-25
+
+### P2: Cross-review agency articles considering agent-causation concept page
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/agent-causation.md created via expand-topic. Review free-will.md, phenomenology-of-agency-vs-passivity.md, concept-of-free-will.md, and phenomenology-mechanism-bridge.md for cross-links and terminological consistency. The agent-causation page references luck objection, motor selection, and quantum indeterminacy — ensure these connections are bidirectional.
+- **Source**: chain (from agent-causation.md)
+- **Generated**: 2026-03-25
+
+### P2: Cross-review reasoning articles considering cognitive phenomenology irreducibility
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md created via expand-topic. Review argument-from-reason.md, self-stultification-as-master-argument.md, phenomenology-of-understanding-and-meaning.md, and phenomenology-of-intellectual-effort.md for cross-links and argumentative consistency. The irreducibility-of-thought argument strengthens the case in these articles — add explicit connections.
+- **Source**: chain (from cognitive-phenomenology-and-the-irreducibility-of-thought.md)
+- **Generated**: 2026-03-25
+
+### P2: Cross-review void articles considering epistemological-limits-occams-razor
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New void article voids/epistemological-limits-occams-razor.md created via expand-topic. Review meta-epistemology-of-limits.md, three-kinds-of-void.md, whether-real.md, and parsimony-epistemology.md for cross-links and consistency. The Occam's razor epistemological limits argument connects directly to Tenet 5 — ensure related articles reference this void.
+- **Source**: chain (from epistemological-limits-occams-razor.md)
+- **Generated**: 2026-03-25
+
+### P2: Write concept page on conservation laws and mind-brain causation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/conservation-laws-mind-brain-causation-2026-01-23.md. The conservation of energy objection is the most common scientific challenge to interactionist dualism — a dedicated concept page would anchor the Map's response (quantum indeterminacy within conservation constraints). Referenced implicitly across mental-causation, causal-closure, and interactionist-dualism articles but never given systematic treatment. Target section: concepts/ (226/230, 4 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-25
+
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
 - **Status**: pending
