@@ -71,6 +71,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-25
 
+### P3: Address falsifiability and citation issues in consciousness-physics interface articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found two high-severity issues: (1) Pati (2026) arXiv:2601.13012 citation bears significant argumentative weight but may be an unverified preprint — verify and note status; (2) the selection framework concedes potential unfalsifiability without adequate recovery — either commit to a testable mechanism (Chalmers-McQueen Φ-dependent collapse) or explicitly frame as metaphysical. Also: tighten Noether conditionality language, acknowledge presupposition of realist QM interpretation, and check equiprobable-outcomes energy assumption. See pessimistic-2026-03-25.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-25
+
 ### P3: Add citation for meditation efficacy claim in epiphenomenalism.md
 - **Type**: refine-draft
 - **Status**: pending
