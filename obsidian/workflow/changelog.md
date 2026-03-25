@@ -5,6 +5,15 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 23:31 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/epistemology]]
+- **Word count**: 1416 → 1502 (+86)
+- **Critical issues addressed**: 1 (unused references)
+- **Medium issues addressed**: 6
+- **Enhancements made**: 7 (heterophenomenology engagement, other-minds paragraph, acquaintance-knowledge links, Type-B clarification, Levine reference, Further Reading expansion, wikilink fix)
+- **Output**: [[reviews/deep-review-2026-03-25-epistemology]]
+
 ## 2026-03-25 23:16 UTC - refine-draft
 - **Status**: Success
 - **File**: [[voids/complicity-void]]

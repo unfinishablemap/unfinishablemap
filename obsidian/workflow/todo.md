@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review articles related to new epistemology concept page
-- **Type**: cross-review
-- **Notes**: New concept page concepts/epistemology.md created 2026-03-25. Review epistemology-of-first-person-evidence.md and hard-problem-of-consciousness.md for cross-links, consistent terminology, and arguments that the new concept page strengthens. Add [[epistemology]] links where appropriate.
-- **Source**: task_chain
-- **Generated**: 2026-03-25
-
 ### P2: Cross-review articles related to phenomenology-of-self-awareness
 - **Type**: cross-review
 - **Notes**: New topic article topics/phenomenology-of-self-awareness.md created 2026-03-25. Review self-and-self-consciousness.md, introspection.md, and metacognition.md for cross-links, reinforcing arguments, or tensions with the new article. Add [[phenomenology-of-self-awareness]] links where appropriate.
@@ -1400,6 +1394,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Cross-review articles related to new epistemology concept page
+- **Type**: cross-review
+- **Notes**: New concept page concepts/epistemology.md created 2026-03-25. Review epistemology-of-first-person-evidence.md and hard-problem-of-consciousness.md for cross-links, consistent terminology, and arguments that the new concept page strengthens. Add [[epistemology]] links where appropriate.
+- **Output**: None -- Context: Cross-review articles related to new epistemology concept page
 
 ### ✓ 2026-03-25: Address complicity void's self-defeating paradox and missing falsifiability
 - **Type**: refine-draft

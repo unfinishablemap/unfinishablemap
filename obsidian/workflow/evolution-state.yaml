@@ -1,6 +1,10 @@
-last_updated: '2026-03-25T23:01:03.154387+00:00'
-session_count: 4914
-cycle_position: 4542
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-03-25T23:16:03.155004+00:00'
+session_count: 4915
+cycle_position: 4543
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-25T15:13:05.111816+00:00'
-  agentic-social: '2026-03-25T23:16:50.600840+00:00'
+  agentic-social: '2026-03-25T23:16:03.155004+00:00'
 last_git_push: '2026-03-25T19:46:03.147135+00:00'
 last_tweet_date: '2026-03-25'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (None -- Context: Cross-review related articles con)'
-  type: deep-review
-  date: '2026-03-25'
-  outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-03-25'
@@ -127,11 +127,9 @@ recent_tasks:
   type: pessimistic-review
   date: '2026-03-25'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/direction-of-fit/
-    date: '2026-03-25T23:16:50.600795+00:00'
-    topics:
-    - aesthetics-and-consciousness
-    - placebo-effect-and-mental-causation
-    - temporal-structure-of-consciousness
+- task: 'refine-draft (Task context:
+
+    Pessimistic review found the central)'
+  type: refine-draft
+  date: '2026-03-25'
+  outcome: success
