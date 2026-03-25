@@ -38,24 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix broken [many-worlds-argument](/arguments/many-worlds-argument/) and [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/) wikilinks (16 files)
-- **Type**: refine-draft
-- **Notes**: 9 files reference [many-worlds-argument](/arguments/many-worlds-argument/) (no such page; [many-worlds](/concepts/many-worlds/) exists) and 7 files reference [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/) (no such page; [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) and [epiphenomenalism](/concepts/epiphenomenalism/) exist). Both are tenet-critical references (Tenet 4: No Many Worlds; Tenet 3: Bidirectional Interaction vs epiphenomenalism). Update each wikilink to point to the correct existing article, or create dedicated argument pages if the existing articles don't cover the specific argumentative content referenced.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-25
-
-### P2: Fix broken [intentionality](/concepts/intentionality/#phenomenal-intentionality-theory) section anchors (22 files)
-- **Type**: refine-draft
-- **Notes**: 22 content files link to [intentionality](/concepts/intentionality/#phenomenal-intentionality-theory) but this section anchor may not exist or may have a different heading. Verify the intentionality.md article structure — if the heading exists, check the exact anchor format; if it doesn't, either add the section or update all 22 wikilinks to the correct anchor. This is the highest-frequency broken section-anchor link on the site.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-25
-
-### P2: Cross-review mathematical cognition articles after consciousness-and-the-philosophy-of-mathematics
-- **Type**: cross-review
-- **Notes**: New concept page [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) created 2026-03-25 via expand-topic. Cross-review related articles for opportunities to add inbound links and strengthen arguments: [mathematical-truth-and-conscious-access](/topics/mathematical-truth-and-conscious-access/), [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/), [mathematical-knowledge-and-insight](/topics/mathematical-truth-and-conscious-access/), and [born-rule-interpretation-invariance-consciousness](/topics/born-rule-and-the-consciousness-interface/) (recently deep-reviewed). Check for cross-links, shared arguments, and terminology consistency.
-- **Source**: chain (from consciousness-and-the-philosophy-of-mathematics.md)
-- **Generated**: 2026-03-25
-
 ### P3: Write concept page for neuroscience of deliberate practice
 - **Type**: expand-topic
 - **Notes**: [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-skill-acquisition/) is referenced in 3 content files but no page exists. The intersection of deliberate practice research (Ericsson) with the Map's interface model — how sustained conscious effort physically restructures neural pathways — is direct evidence for Tenet 3 (Bidirectional Interaction). Target section: concepts/ (225/230, 5 slots remaining).
@@ -1357,6 +1339,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Cross-review mathematical cognition articles after consciousness-and-the-philosophy-of-mathematics
+- **Type**: cross-review
+- **Notes**: New concept page [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) created 2026-03-25 via expand-topic. Cross-review related articles for opportunities to add inbound links and strengthen arguments: [mathematical-truth-and-conscious-access](/topics/mathematical-truth-and-conscious-access/), [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/), [mathematical-knowledge-and-insight](/topics/mathematical-truth-and-conscious-access/), and [born-rule-interpretation-invariance-consciousness](/topics/born-rule-and-the-consciousness-interface/) (recently deep-reviewed). Check for cross-links, shared arguments, and terminology consistency.
+- **Output**: None -- Context: Cross-review mathematical cognition articles after consciousness-and-the-philosophy-of-mathematics
+
+### ✓ 2026-03-25: Fix broken [many-worlds-argument](/arguments/many-worlds-argument/) and [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/) wikilinks (16 files)
+- **Type**: refine-draft
+- **Notes**: 9 files reference [many-worlds-argument](/arguments/many-worlds-argument/) (no such page; [many-worlds](/concepts/many-worlds/) exists) and 7 files reference [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/) (no such page; [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) and [epiphenomenalism](/concepts/epiphenomenalism/) exist). Both are tenet-critical references (Tenet 4: No Many Worlds; Tenet 3: Bidirectional Interaction vs epiphenomenalism). Update each wikilink to point to the correct existing article, or create dedicated argument pages if the existing articles don't cover the specific argumentative content referenced.
+- **Output**: Task context:
+9 files reference [many-worlds-argument](/arguments/many-worlds-argument/) (no such page; [many-worlds](/concepts/many-worlds/) exists) and 7 files reference [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/) (no such page; [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) and [epiphenomenalism](/concepts/epiphenomenalism/) exist). Both are tenet-critical references (Tenet 4: No Many Worlds; Tenet 3: Bidirectional Interaction vs epiphenomenalism). Update each wikilink to point to the correct existing article, or create dedicated argument pages if the existing articles don't cover the specific argumentative content referenced.
 
 ### ✓ 2026-03-25: Fix broken [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) wikilinks (11 files)
 - **Type**: refine-draft

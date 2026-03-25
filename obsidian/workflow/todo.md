@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-25T05:08:00+00:00
+ai_modified: 2026-03-25T06:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Create concept page for epistemological-limits-of-occams-razor
+- **Type**: expand-topic
+- **Notes**: Referenced by 18 content files but no page exists. Directly supports Tenet 5 (Occam's Razor Has Limits) — the Map's claim that parsimony is unreliable with incomplete knowledge needs a dedicated epistemological treatment. Should cover the distinction between methodological and metaphysical parsimony, historical cases where simpler theories were wrong, and the specific failure modes when applied to consciousness. Target section: concepts/ (226/230, 4 slots remaining).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-25
+
+### P2: Write article on enactivism as challenge to interactionist dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/enactivism-challenge-interactionist-dualism-2026-03-21.md. Enactivism (Varela, Thompson, Di Paolo) argues cognition is embodied action, not inner representation — this challenges the Map's consciousness-physics interface model by questioning the very boundary between mind and world. The Map needs a systematic response: how does non-physical consciousness interact with an enactive body? Does the interface model survive if cognition is world-involving? Target section: topics/ (227/230, 3 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-25
+
+### P2: Create concept page for retrocausal selection
+- **Type**: expand-topic
+- **Notes**: Two research notes completed (research/retrocausal-selection-consciousness-physics-2026-03-14.md, research/retrocausal-selection-consciousness-physics-2026-03-16.md) covering Cramer's Transactional Interpretation, Kastner's possibilist TI, and Aharonov's two-state vector formalism. No dedicated concept page exists despite relevance to the selection mechanism. Would clarify how atemporal selection might resolve the Libet timing problem and connect to the growing-block time framework. Target section: concepts/ (226/230, 4 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-25
+
+### P2: Fix broken wikilinks to nonexistent argument pages
+- **Type**: refine-draft
+- **Notes**: 35+ content files link to nonexistent argument-section pages: many-worlds-argument (10 refs), epiphenomenalism-argument (9 refs), arguments/materialism-argument (9 refs), arguments/functionalism-argument (7 refs). These appear to reference a planned arguments/ section that was never created. Update wikilinks to point to existing coverage — e.g., many-worlds-argument → arguments-against-many-worlds-interpretation, epiphenomenalism-argument → arguments-against-epiphenomenalism. Verify each redirect target exists before updating.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-25
+
+### P2: Fix malformed and case-sensitive wikilinks across content
+- **Type**: refine-draft
+- **Notes**: Several broken wikilinks caused by capitalisation or formatting errors: Perception-and-conscious-experience (3 refs, should be lowercase), Attention (3 refs, should be attention-as-interface or similar), mathematical-structure-of-reality (2 refs), phenomenology-tradition (2 refs). Also 4 wikilinks with trailing backslashes (philosophical-zombies\, inverted-qualia\, knowledge-argument\). Fix all to point to correct existing pages.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-25
 
 ### P3: Write concept page for neuroscience of deliberate practice
 - **Type**: expand-topic
