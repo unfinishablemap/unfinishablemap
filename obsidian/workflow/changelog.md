@@ -5,6 +5,13 @@ ai_modified: 2026-03-25T16:30:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 17:15 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/born-rule-and-the-consciousness-interface]]
+- **Changes**: Fixed observer equivocation (engaged decoherence-based measurement theories, distinguished definite-outcomes gap from consciousness claim); resolved abductive/structural-disclosure oscillation (consistent abductive framing throughout); language precision improvements
+- **Source**: pessimistic-2026-03-25c.md Issues 1 & 2
+- **Published**: yes
+
 ## 2026-03-25 16:59 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: born-rule-and-the-consciousness-interface.md, agent-causation.md, amplification-mechanisms-consciousness-physics.md

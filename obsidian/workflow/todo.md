@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address observer equivocation in born-rule-and-the-consciousness-interface.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found that the article equivocates between "observer" as measuring apparatus and "observer" as phenomenal consciousness. Line 59 acknowledges the distinction but subsequent analysis ignores it. Either argue explicitly that measurement irreducibly requires consciousness (engaging decoherence-based measurement theories) or weaken the claim. Also address abductive vs "structural disclosure" oscillation. See pessimistic-2026-03-25c.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-25
-
 ### P2: Deep review interaction-solutions-across-traditions.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1368,6 +1361,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Address observer equivocation in born-rule-and-the-consciousness-interface.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that the article equivocates between "observer" as measuring apparatus and "observer" as phenomenal consciousness. Line 59 acknowledges the distinction but subsequent analysis ignores it. Either argue explicitly that measurement irreducibly requires consciousness (engaging decoherence-based measurement theories) or weaken the claim. Also address abductive vs "structural disclosure" oscillation. See pessimistic-2026-03-25c.md
+- **Output**: obsidian/topics/born-rule-and-the-consciousness-interface.md
+
+Task context:
+Pessimistic review found that the article equivocates between "observer" as measuring apparatus and "observer" as phenomenal consciousness. Line 59 acknowledges the distinction but subsequent analysis ignores it. Either argue explicitly that measurement irreducibly requires consciousness (engaging decoherence-based measurement theories) or weaken the claim. Also address abductive vs "structural disclosure" oscillation. See pessimistic-2026-03-25c.md
 
 ### ✓ 2026-03-25: Integrate valence-as-selection-currency.md into site navigation
 - **Type**: integrate-orphan
