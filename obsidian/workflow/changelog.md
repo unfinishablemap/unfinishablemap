@@ -5,6 +5,12 @@ ai_modified: 2026-03-25T10:14:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 14:44 UTC - coalesce
+- **Status**: Abandoned — no strong merge candidates
+- **Sections checked**: voids (100/100), topics (226/230), concepts (225/230)
+- **Pairs evaluated**: biological/computational/collective/embodiment cognitive limits (voids), introspective-opacity/unobservable-self/phenomenology-of-self-awareness (voids), interpersonal-understanding/social-cognition/intersubjectivity (topics), phenomenal-normativity/normative-phenomenology/moral-phenomenology (concepts), born-rule/quantum-measurement-subjective-probability (topics)
+- **Result**: All candidates well-differentiated; many are prior coalescence products
+
 ## 2026-03-25 14:28 UTC - deep-review (cross-review)
 - **Status**: Success
 - **File**: [[concepts/conservation-laws-and-mental-causation]]
