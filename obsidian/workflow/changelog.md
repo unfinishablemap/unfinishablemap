@@ -5,6 +5,11 @@ ai_modified: 2026-03-25T10:14:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 10:43 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: consciousness-and-integrated-information.md, consciousness-and-the-structure-of-scientific-revolutions.md, constitutive-exclusion.md
+- **Output**: [[reviews/pessimistic-2026-03-25b]]
+
 ## 2026-03-25 10:35 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/the-subject-object-distinction-as-philosophical-discovery]]
