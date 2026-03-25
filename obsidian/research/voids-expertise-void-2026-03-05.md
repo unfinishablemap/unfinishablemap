@@ -22,7 +22,7 @@ related_articles:
   - "[[embodiment-cognitive-limits]]"
   - "[[creativity-void]]"
   - "[[absorption-void]]"
-  - "[[introspective-opacity]]"
+  - "[[self-opacity]]"
   - "[[three-kinds-of-void]]"
 ai_contribution: 100
 author: null

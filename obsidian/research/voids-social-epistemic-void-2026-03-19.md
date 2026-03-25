@@ -20,7 +20,7 @@ related_articles:
   - "[[collective-cognitive-limits]]"
   - "[[transparency-void]]"
   - "[[framework-void]]"
-  - "[[introspective-opacity]]"
+  - "[[self-opacity]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6

@@ -25,7 +25,7 @@ related_articles:
   - "[[emergence-void]]"
   - "[[causal-interface]]"
   - "[[intrinsic-nature-void]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
   - "[[attention-created-voids]]"
   - "[[temporal-void]]"
   - "[[whether-real]]"
@@ -82,7 +82,7 @@ The binding void occupies a precise position in the Map's void taxonomy.
 
 **Not the [[causal-interface|causal interface void]].** The causal interface concerns how consciousness interfaces with the physical world. The binding void concerns how consciousness interfaces *with itself*—how its elements achieve coherence.
 
-**Not the [[self-reference-paradox|self-reference paradox]].** Self-reference concerns consciousness observing itself. The binding void is prior: unity must already obtain before self-observation is possible—it is the foundation on which the self-reference paradox stands.
+**Not the [[self-opacity|self-reference paradox]].** Self-reference concerns consciousness observing itself. The binding void is prior: unity must already obtain before self-observation is possible—it is the foundation on which the self-reference paradox stands.
 
 ## Evidence That This Is a Void
 
@@ -141,7 +141,7 @@ The binding void connects to the Map's [[tenets]] at multiple points and provide
 - [[emergence-void]] — The related void at level transitions; binding operates within a single level
 - [[three-kinds-of-void]] — The core taxonomy: unexplored, unexplorable, occluded
 - [[causal-interface]] — How consciousness interfaces with the physical world
-- [[self-reference-paradox]] — Self-observation requires the unity this void concerns
+- [[self-opacity|self-reference paradox]] — Self-observation requires the unity this void concerns
 - [[temporal-void]] — Binding's intersection with the temporal dimension
 - [[compound-failure-signatures]] — Using the structure of failure as data
 - [[mysterianism]] — McGinn's cognitive closure thesis, strongly applicable here

@@ -24,7 +24,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[diachronic-agency-and-personal-narrative]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
   - "[[destabilizing-self-knowledge]]"
   - "[[inaccessible-past]]"
   - "[[cognitive-integration-and-the-self]]"
@@ -119,7 +119,7 @@ This analysis connects to the Map's foundational commitments at multiple points.
 - [[intersubjectivity]] — How phenomenal experience can be shared between minds
 - [[topics/consciousness-and-social-cognition]] — The role of consciousness in enabling social self-models
 - [[diachronic-agency-and-personal-narrative]] — How narrative shapes agency across time
-- [[self-reference-paradox]] — Why the phenomenal self resists its own introspective gaze
+- [[self-opacity|self-reference paradox]] — Why the phenomenal self resists its own introspective gaze
 - [[haecceity]] — Primitive thisness and why qualitative identity is insufficient
 - [[inaccessible-past]] — The reconstructive nature of autobiographical memory
 - [[contemplative-practice-as-philosophical-evidence]] — Meditative phenomenology as evidence for the persistence of the phenomenal self

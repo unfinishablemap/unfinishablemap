@@ -20,9 +20,8 @@ related_articles:
   - "[[origin-of-consciousness]]"
   - "[[limits-reveal-structure]]"
   - "[[whether-real]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
   - "[[phenomenology-of-the-edge]]"
-  - "[[phenomenology-of-self-awareness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -156,10 +155,10 @@ The Map's voids framework recognises that we are beings who can conceive of thei
 - [[voids]] — The broader framework for cognitive limits
 - [[origin-of-consciousness]] — The prior question: why consciousness exists at all
 - [[limits-reveal-structure]] — How boundaries illuminate architecture
-- [[self-reference-paradox]] — Structural obstacles to self-examination
+- [[self-opacity|self-reference paradox]] — Structural obstacles to self-examination
 - [[whether-real]] — Distinguishing genuine from apparent limits
 - [[phenomenology-of-the-edge]] — The texture of approaching cognitive boundaries
-- [[phenomenology-of-self-awareness]] — The felt quality of thought examining itself
+- [[self-opacity|phenomenology of self-awareness]] — The felt quality of thought examining itself
 
 ## References
 

@@ -16,7 +16,7 @@ topics:
 concepts:
   - "[[mental-effort]]"
   - "[[phenomenology-of-choice-and-volition]]"
-  - "[[introspective-opacity]]"
+  - "[[self-opacity]]"
   - "[[attention-as-interface]]"
 related_articles:
   - "[[tenets]]"
@@ -84,9 +84,9 @@ The holding dimension connects to the Map's account of [[consciousness-and-causa
 
 ### Opacity: The Invisible Mechanism
 
-The fourth feature is conspicuous by its absence. We experience effort, selection, and holding — but we never experience *how* any of these produce their effects. The [[introspective-opacity|mechanism connecting will to action]] is phenomenologically invisible. You decide to raise your arm, and your arm rises. Between the intention and the execution there is a gap — not a temporal gap (the sequence is smooth) but an experiential one. You cannot introspect the causal interface.
+The fourth feature is conspicuous by its absence. We experience effort, selection, and holding — but we never experience *how* any of these produce their effects. The [[self-opacity|mechanism connecting will to action]] is phenomenologically invisible. You decide to raise your arm, and your arm rises. Between the intention and the execution there is a gap — not a temporal gap (the sequence is smooth) but an experiential one. You cannot introspect the causal interface.
 
-The expanded treatment of [[introspective-opacity|introspective opacity]] reveals that this gap has four distinct dimensions. *Temporal opacity*: by the time introspection occurs, the act of willing has already passed — James compared it to "seizing a spinning top to catch its motion." *Process opacity*: we access the products of cognition (the decision reached, the action taken) but never the production — the computations remain dark. *Mechanism opacity*: even metacognitive reflection yields descriptions ("I thought about it differently") but no actual mechanisms. *Ontological opacity*: consciousness cannot objectify its own willing without transforming it — Sartre's insight that the for-itself is fundamentally not an object applies with particular force to volitional acts.
+The expanded treatment of [[self-opacity|introspective opacity]] reveals that this gap has four distinct dimensions. *Temporal opacity*: by the time introspection occurs, the act of willing has already passed — James compared it to "seizing a spinning top to catch its motion." *Process opacity*: we access the products of cognition (the decision reached, the action taken) but never the production — the computations remain dark. *Mechanism opacity*: even metacognitive reflection yields descriptions ("I thought about it differently") but no actual mechanisms. *Ontological opacity*: consciousness cannot objectify its own willing without transforming it — Sartre's insight that the for-itself is fundamentally not an object applies with particular force to volitional acts.
 
 This four-dimensional opacity is not a failure of attention or a cultural artefact. It appears universally across traditions. The Western phenomenologist cannot observe how willing produces movement. The Daoist cannot explain how *wu wei* works. The Buddhist meditator, refining introspective access to ever finer granularity, discovers more *characteristics* of volitional states without gaining access to their generative mechanisms. As the [[cross-cultural-phenomenology-of-agency|cross-cultural phenomenology of agency]] documents, the gap between willing and doing is invisible everywhere.
 
@@ -165,7 +165,7 @@ This apex article synthesises:
 - [[cross-cultural-phenomenology-of-agency|Cross-Cultural Phenomenology of Agency]] — How cultural frameworks shape agency experience while leaving a universal phenomenological core intact
 - [[mental-effort|Mental Effort and the Quantum Zeno Effect]] — The phenomenology of effortful attention as evidence for consciousness-matter interaction
 - [[phenomenology-of-choice-and-volition|Phenomenology of Choice]] — The experiential structure of deliberation, decision, and authorship
-- [[introspective-opacity|Introspective Opacity]] — Why we cannot observe our own cognitive processes, with volitional opacity as the deepest case
+- [[self-opacity|Introspective Opacity]] — Why we cannot observe our own cognitive processes, with volitional opacity as the deepest case
 - [[attention-as-interface|Attention as Interface]] — How attention functions as the causal bridge between consciousness and neural systems
 - [[attention-as-causal-bridge|Attention as Causal Bridge]] — The mechanism by which attention mediates consciousness-brain interaction
 

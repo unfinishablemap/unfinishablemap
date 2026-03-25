@@ -17,9 +17,8 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[the-unobservable-self]]"
-  - "[[introspective-opacity]]"
+  - "[[self-opacity]]"
   - "[[other-minds-void]]"
-  - "[[self-reference-paradox]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6

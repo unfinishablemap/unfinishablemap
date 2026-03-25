@@ -15,7 +15,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
   - "[[incompleteness-void]]"
   - "[[whether-real]]"
   - "[[limits-reveal-structure]]"

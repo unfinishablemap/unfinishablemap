@@ -19,7 +19,7 @@ related_articles:
   - "[[tenets]]"
   - "[[three-kinds-of-void]]"
   - "[[observation-void]]"
-  - "[[introspective-opacity]]"
+  - "[[self-opacity]]"
   - "[[measurement-void]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[acquaintance-void]]"
@@ -101,7 +101,7 @@ The minimal consciousness void aligns with the Map's [[tenets]] in several ways.
 - [[minimal-consciousness]] — The concept of bare phenomenal experience at its simplest
 - [[observation-void]] — How every method of studying consciousness transforms what it studies
 - [[measurement-void]] — Why introspection cannot be verified against any independent standard
-- [[introspective-opacity]] — Why we access mental contents but never the mechanisms producing them
+- [[self-opacity|introspective opacity]] — Why we access mental contents but never the mechanisms producing them
 - [[phenomenology-of-the-edge]] — What consciousness encounters at its cognitive boundaries
 - [[acquaintance-void]] — Modes of direct phenomenal contact structurally inaccessible to minds like ours
 - [[sleep-consciousness-void]] — Where consciousness goes during absence, and whether cessation is genuine zero

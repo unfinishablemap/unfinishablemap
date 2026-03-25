@@ -18,7 +18,7 @@ related_articles:
   - "[[tenets]]"
   - "[[three-kinds-of-void]]"
   - "[[phenomenology-of-the-edge]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
   - "[[the-unobservable-self]]"
   - "[[conceptual-impossibility]]"
 ai_contribution: 100

@@ -11,7 +11,7 @@ concepts:
   - "[[mysterianism]]"
   - "[[illusionism]]"
   - "[[introspection]]"
-  - "[[introspective-opacity]]"
+  - "[[self-opacity]]"
   - "[[decoherence]]"
   - "[[attention-as-interface]]"
 related_articles:
@@ -56,7 +56,7 @@ Edmund Husserl identified a deeper pattern: consciousness both forgets its objec
 
 With ordinary forgetting, we notice the gap. We know we've forgotten the name, the appointment, the dream. But double concealment erases the gap itself. We don't know what we don't know. Only indirect evidence—diary entries, others' reports, photographs—reveals that something was there at all.
 
-Double concealment connects to [[introspective-opacity]]—the structural limit preventing us from observing our own cognitive processes. We cannot watch ourselves forget. The mechanism of forgetting operates below the threshold of awareness, and when it succeeds completely, it erases evidence of its own operation. This transforms slippage from mere memory failure into something more fundamental: the mind's activity remains opaque even to itself, and some of that activity systematically removes its own traces.
+Double concealment connects to [[self-opacity|introspective opacity]]—the structural limit preventing us from observing our own cognitive processes. We cannot watch ourselves forget. The mechanism of forgetting operates below the threshold of awareness, and when it succeeds completely, it erases evidence of its own operation. This transforms slippage from mere memory failure into something more fundamental: the mind's activity remains opaque even to itself, and some of that activity systematically removes its own traces.
 
 ## Ordinary Versus Deep Slippage
 
@@ -135,7 +135,7 @@ The evidence for content-specific slippage remains suggestive rather than conclu
 
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
 - [[habituation-void|The Habituation Void]] — Where familiarity rather than forgetting erases experience
-- [[introspective-opacity|Introspective Opacity]] — Why we cannot observe our own cognitive processes
+- [[self-opacity|Introspective Opacity]] — Why we cannot observe our own cognitive processes
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for knowing through negation
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What consciousness encounters at its boundaries
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's analysis of structural limits

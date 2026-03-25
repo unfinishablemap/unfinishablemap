@@ -18,7 +18,7 @@ related_articles:
   - "[[phenomenology-of-the-edge]]"
   - "[[whether-real]]"
   - "[[thoughts-that-slip-away]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
   - "[[apophatic-approaches]]"
 ai_contribution: 100
 author: null

@@ -30,8 +30,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[phenomenal-conservatism-and-introspective-evidence]]"
-  - "[[self-reference-paradox]]"
-  - "[[introspective-opacity]]"
+  - "[[self-opacity]]"
   - "[[ethics-and-value-in-a-dualist-world]]"
   - "[[phenomenal-acquaintance]]"
   - "[[acquaintance-knowledge]]"
@@ -203,8 +202,8 @@ A deeper challenge comes from traditions that dissolve the observer-observed bou
 - [[phenomenal-conservatism-and-introspective-evidence]] — Huemer's principle as epistemological grounding
 - [[phenomenal-acquaintance]] — The direct epistemic relation underlying the acquaintance model
 - [[acquaintance-knowledge]] — Russell's distinction and its role in the knowledge argument
-- [[self-reference-paradox]] — The structural impossibility of observing the observer
-- [[introspective-opacity]] — Where introspective access fails structurally
+- [[self-opacity|self-reference paradox]] — The structural impossibility of observing the observer
+- [[self-opacity|introspective opacity]] — Where introspective access fails structurally
 - [[measurement-void]] — Why strict calibration of introspection is structurally impossible
 - [[contemplative-epistemology]] — Systematic contemplative practice as knowledge source
 - [[contemplative-practice-as-philosophical-evidence]] — Cross-traditional convergence as methodology

@@ -19,7 +19,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[transparency-void]]"
-  - "[[introspective-opacity]]"
+  - "[[self-opacity]]"
   - "[[whether-real]]"
   - "[[destabilizing-self-knowledge]]"
   - "[[phenomenology-of-the-edge]]"
@@ -69,7 +69,7 @@ Thomas Metzinger's account of phenomenal transparency explains the invisibility.
 
 Phenomenal presence is transparency's most fundamental instance. We do not experience our experience-of-realness as an experience—we experience realness directly. The stamp hides itself. The medium through which everything appears real and immediate cannot itself appear as a medium.
 
-This generates a deeper problem than ordinary [[introspective-opacity]]. With introspective opacity, we access mental contents but not the processes that produce them. With phenomenal presence, the process in question *constitutes the condition for accessing anything at all*. The tool we would use to investigate this void is constituted by what we are trying to investigate.
+This generates a deeper problem than ordinary [[self-opacity|introspective opacity]]. With introspective opacity, we access mental contents but not the processes that produce them. With phenomenal presence, the process in question *constitutes the condition for accessing anything at all*. The tool we would use to investigate this void is constituted by what we are trying to investigate.
 
 There may be a principled reason for the concealment. If experience were transparent to its own reality-assessment mechanism—if each perception simultaneously carried the tag "this is my brain's best guess about reality"—perception would not function as perception. It would function as hypothesis. Phenomenal presence may require its own invisibility to work.
 
@@ -152,7 +152,7 @@ The unexplorable dimension is more speculative. If the phenomenal presence mecha
 ## Further Reading
 
 - [[transparency-void]] — Whether consciousness distorts what it represents
-- [[introspective-opacity]] — Why we cannot observe our own cognitive processes
+- [[self-opacity|introspective opacity]] — Why we cannot observe our own cognitive processes
 - [[intrinsic-nature-void]] — Why physics cannot reach what matter is in itself
 - [[pre-conceptual-knowing]] — What lies before conceptual articulation
 - [[consciousness-only-territories]] — What only consciousness can access

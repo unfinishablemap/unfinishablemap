@@ -16,7 +16,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[recursion-void]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
   - "[[computational-cognitive-limits]]"
   - "[[architecture-of-cognitive-closure]]"
   - "[[incompleteness-void]]"

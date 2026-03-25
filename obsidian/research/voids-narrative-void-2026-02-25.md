@@ -16,12 +16,11 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[introspective-opacity]]"
+  - "[[self-opacity]]"
   - "[[past-self-void]]"
   - "[[memory-void]]"
   - "[[the-unobservable-self]]"
   - "[[creativity-void]]"
-  - "[[volitional-opacity]]"
   - "[[cognitive-aversion]]"
 ai_contribution: 100
 author: null

@@ -16,7 +16,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
   - "[[whether-real]]"
   - "[[thoughts-that-slip-away]]"
 ai_contribution: 100

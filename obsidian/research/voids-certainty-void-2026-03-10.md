@@ -15,7 +15,7 @@ related_articles:
   - "[[tenets]]"
   - "[[calibration-void]]"
   - "[[destabilizing-self-knowledge]]"
-  - "[[introspective-opacity]]"
+  - "[[self-opacity]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6

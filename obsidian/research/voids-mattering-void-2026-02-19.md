@@ -21,7 +21,7 @@ related_articles:
   - "[[valence-void]]"
   - "[[affective-void]]"
   - "[[normative-void]]"
-  - "[[introspective-opacity]]"
+  - "[[self-opacity]]"
   - "[[cognitive-aversion]]"
 ai_contribution: 100
 author: null

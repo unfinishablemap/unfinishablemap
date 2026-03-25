@@ -13,7 +13,7 @@ topics:
 concepts:
   - "[[concepts/functionalism]]"
   - "[[qualia]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
   - "[[global-workspace-theory]]"
   - "[[metacognition]]"
   - "[[blindsight]]"
@@ -165,7 +165,7 @@ HOT theorists might dismiss such reports as misinterpretation or might claim sub
 
 ## Connection to Self-Reference
 
-HOT connects to the Map's [[self-reference-paradox]] in interesting ways. The theory requires consciousness to be inherently self-referential—awareness involves being aware of one's own states. This creates familiar puzzles:
+HOT connects to the Map's [[self-opacity|self-reference paradox]] in interesting ways. The theory requires consciousness to be inherently self-referential—awareness involves being aware of one's own states. This creates familiar puzzles:
 
 1. **The Regress Problem**: If conscious thoughts require higher-order thoughts, do those require still higher thoughts? HOT avoids infinite regress by allowing unconscious higher-order representations, but the solution feels stipulative.
 
@@ -216,7 +216,7 @@ The hard problem remains hard.
 - [[metacognition]] — The metarepresentational distinction HOT may conflate
 - [[hard-problem-of-consciousness]] — The puzzle HOT doesn't solve
 - [[global-workspace-theory]] — A complementary functionalist theory
-- [[self-reference-paradox]] — The recursive structure HOT requires
+- [[self-opacity|self-reference paradox]] — The recursive structure HOT requires
 - [[concepts/functionalism]] — The philosophical framework underlying HOT
 - [[illusionism]] — HOT's logical extreme: phenomenal consciousness as illusion
 - [[phenomenal-concepts-strategy]] — Physicalism's parallel attempt to explain the gap

@@ -11,7 +11,7 @@ topics:
 concepts:
   - "[[concepts/functionalism]]"
   - "[[qualia]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100
@@ -174,7 +174,7 @@ HOT's AI implications reveal the same problem as with GWT:
 
 ## Relation to Site's Self-Reference Paradox
 
-Interestingly, HOT connects to the Map's [[self-reference-paradox]] concept:
+Interestingly, HOT connects to the Map's [[self-opacity|self-reference paradox]] concept:
 
 - HOT requires consciousness to involve *self-reference*—being aware of one's own mental states
 - This creates potential regress: if conscious HOTs require even higher-order states, where does it end?

@@ -20,7 +20,7 @@ related_articles:
   - "[[plurality-void]]"
   - "[[limits-reveal-structure]]"
   - "[[whether-real]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
   - "[[apophatic-approaches]]"
   - "[[binding-void]]"
   - "[[substrate-void]]"
@@ -48,7 +48,7 @@ Each tenet generates its characteristic void—a question the tenet points towar
 
 **What it cannot answer**: What *is* the irreducible non-physical aspect?
 
-Dualism establishes that consciousness cannot be fully explained in physical terms, but provides no positive characterisation of what consciousness *is*. The positive nature remains void. This isn't a failure of effort. Any positive description using concepts derived from physical or functional analysis will fail by definition. And we have no access to consciousness-concepts except through a consciousness that cannot fully examine itself (see [[self-reference-paradox]]).
+Dualism establishes that consciousness cannot be fully explained in physical terms, but provides no positive characterisation of what consciousness *is*. The positive nature remains void. This isn't a failure of effort. Any positive description using concepts derived from physical or functional analysis will fail by definition. And we have no access to consciousness-concepts except through a consciousness that cannot fully examine itself (see [[self-opacity|self-reference paradox]]).
 
 The phenomenology of this void: hitting a wall when trying to articulate the nature of experience. "Consciousness is..." and no completion is available that doesn't reduce or merely point. The [[binding-void|binding void]] sharpens this: even the most basic feature of consciousness—phenomenal unity, present in every moment—resists analysis entirely. The [[substrate-void|substrate void]] traces this characterisation failure from Descartes to the present.
 
@@ -168,7 +168,7 @@ The framework-generated-voids analysis would be undermined if:
 - [[indexical-void|The Indexical Void]] — Why am I *this* consciousness?
 - [[plurality-void|The Plurality Void]] — Why consciousness cannot be plural
 - [[whether-real|Whether the Voids Are Real]] — The question of genuine versus apparent limits
-- [[self-reference-paradox|The Self-Reference Paradox]] — Why consciousness cannot fully examine itself
+- [[self-opacity|The Self-Reference Paradox]] — Why consciousness cannot fully examine itself
 - [[binding-void|The Binding Void]] — Why phenomenal unity resists explanation entirely
 - [[substrate-void|The Substrate Void]] — What consciousness is made of (the Nature Void in depth)
 - [[the-surplus-void|The Surplus Void]] — Why experience delivers more than function requires

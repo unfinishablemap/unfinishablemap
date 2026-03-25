@@ -38,7 +38,7 @@ related_articles:
   - "[[emotion-and-dualism]]"
   - "[[choking-phenomenon-mental-causation]]"
   - "[[phenomenology-of-understanding-and-meaning]]"
-  - "[[phenomenology-of-self-awareness]]"
+  - "[[self-opacity]]"
   - "[[phenomenology-of-epistemic-cognition]]"
   - "[[consciousness-and-creative-distinctiveness]]"
   - "[[consciousness-and-mathematical-cognition]]"
@@ -145,7 +145,7 @@ Surprise reveals the structure of expectation that ordinarily remains hidden. In
 
 Surprise therefore serves an epistemic function beyond mere model updating: you learn not only that the world was different from what you expected but *that you had that expectation in the first place*. This is [[metacognition]] through phenomenal disruption rather than reflective monitoring.
 
-This connects to the Map's broader interest in [[phenomenology-of-self-awareness|error recognition]]. Without surprise, expectations would operate invisibly, shaping experience without ever being examined. Surprise ruptures this invisibility, creating moments where the normally transparent structure of anticipation becomes opaque—available for inspection and revision.
+This connects to the Map's broader interest in [[self-opacity|error recognition]]. Without surprise, expectations would operate invisibly, shaping experience without ever being examined. Surprise ruptures this invisibility, creating moments where the normally transparent structure of anticipation becomes opaque—available for inspection and revision.
 
 A predictive processing system can be designed to flag large errors for higher-level processing. But the phenomenal self-disclosure of surprise—the felt revelation that *I expected this* and *I was wrong*—involves a subject who discovers something about itself.
 
@@ -215,7 +215,7 @@ Surprise connects to The Unfinishable Map's [[tenets]] at multiple points.
 - [[emotion-and-dualism]] — The felt quality of affective states
 - [[phenomenology-of-understanding-and-meaning]] — The click of successful integration
 - [[phenomenology-of-epistemic-cognition]] — The felt texture of changing one's mind
-- [[phenomenology-of-self-awareness]] — How minds catch their own mistakes
+- [[self-opacity|phenomenology of self-awareness]] — How minds catch their own mistakes
 - [[phenomenal-consciousness]] — The "what it's like" quality presupposed by the entire prediction error spectrum
 - [[categorical-surprise]] — Framework-transcending encounters with genuine novelty
 

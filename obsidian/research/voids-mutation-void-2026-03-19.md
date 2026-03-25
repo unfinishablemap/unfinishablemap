@@ -18,9 +18,8 @@ related_articles:
   - "[[tenets]]"
   - "[[observation-void]]"
   - "[[destabilizing-self-knowledge]]"
-  - "[[introspective-opacity]]"
+  - "[[self-opacity]]"
   - "[[thoughts-that-slip-away]]"
-  - "[[self-reference-paradox]]"
   - "[[phenomenology-of-the-edge]]"
 ai_contribution: 100
 author: null

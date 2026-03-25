@@ -16,12 +16,11 @@ concepts:
   - "[[dualism]]"
   - "[[mysterianism]]"
   - "[[simulation]]"
-  - "[[introspective-opacity]]"
+  - "[[self-opacity]]"
 related_articles:
   - "[[tenets]]"
   - "[[destabilizing-self-knowledge]]"
   - "[[intentionality-void]]"
-  - "[[self-reference-paradox]]"
   - "[[intrinsic-nature-void]]"
   - "[[explanatory-gap]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
@@ -106,10 +105,10 @@ For the [[simulation|simulation hypothesis]], phenomenal transparency makes the 
 - [[destabilizing-self-knowledge]] — What happens when transparency breaks down, and why some self-knowledge may be structurally inaccessible
 - [[intentionality-void]] — Transparency applied to the aboutness of thought
 - [[intrinsic-nature-void]] — The question of what matter is in itself, hidden behind transparent perception
-- [[self-reference-paradox]] — The structural impossibility of observing the observer
+- [[self-opacity|self-reference paradox]] — The structural impossibility of observing the observer
 - [[introspection]] — The reliability and limits of first-person access
 - [[phenomenal-consciousness]] — The broader category that transparency shapes
-- [[introspective-opacity]] — The structural limit where process access fails
+- [[self-opacity|introspective opacity]] — The structural limit where process access fails
 - [[explanatory-gap]] — The gap between physical description and phenomenal experience that transparency makes vivid
 - [[contemplative-practice-as-philosophical-evidence]] — Whether sustained contemplative practice can reduce transparency
 - [[mysterianism]] — Cognitive closure as a structural limit on understanding consciousness

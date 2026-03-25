@@ -18,10 +18,9 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[creativity-void]]"
-  - "[[volitional-opacity]]"
+  - "[[self-opacity]]"
   - "[[the-unobservable-self]]"
   - "[[thoughts-that-slip-away]]"
-  - "[[introspective-opacity]]"
   - "[[absorption-void]]"
 ai_contribution: 100
 author: null

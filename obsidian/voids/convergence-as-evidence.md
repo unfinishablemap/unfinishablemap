@@ -52,7 +52,7 @@ The family's signature failure is **categorical mismatch**: third-person vocabul
 
 ### The Self-Knowledge Cluster
 
-The [[self-reference-paradox|self-reference paradox]], [[introspective-opacity|introspective opacity]], [[measurement-void|calibration void]], [[inaccessible-past|past-self void]], and [[destabilizing-self-knowledge|destabilising self-knowledge]] converge on a different boundary: consciousness cannot fully examine itself. The observer contaminates the observation. Introspection constructs where it claims to discover. Calibrating one's own reliability requires a reliability already calibrated.
+The [[self-opacity|self-reference paradox]], [[self-opacity|introspective opacity]], [[measurement-void|calibration void]], [[inaccessible-past|past-self void]], and [[destabilizing-self-knowledge|destabilising self-knowledge]] converge on a different boundary: consciousness cannot fully examine itself. The observer contaminates the observation. Introspection constructs where it claims to discover. Calibrating one's own reliability requires a reliability already calibrated.
 
 The family's signature failure is **recursive collapse**: each attempt to deepen self-examination encounters itself as obstacle. The structure is not a wall but a strange loop—the more rigorously you examine the examiner, the less stable the examination becomes.
 

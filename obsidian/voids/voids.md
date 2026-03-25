@@ -84,13 +84,13 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[valence-void|The Valence Void]] — Why experience has a built-in good/bad dimension
 - [[normative-void|The Normative Void]] — Moral truths beyond human cognitive reach
 - [[inaccessible-past|The Inaccessible Past]] — Why past conscious states cannot be re-entered, only reconstructed
-- [[unobservable-self|The Unobservable Self]] — The subject that cannot be its own object
+- [[self-opacity|The Unobservable Self]] — The subject that cannot be its own object
 - [[death-void|The Death Void]] — Consciousness cannot represent its own absence
 - [[sleep-consciousness-void|The Dreamless Sleep Void]] — Where consciousness goes during deep sleep
 - [[intentionality-void|The Intentionality Void]] — How thoughts achieve their aboutness, hidden from the consciousness it constitutes
 - [[creativity-void|The Creativity Void]] — Where creative insight originates, inaccessible to introspection
 - [[aesthetic-void|The Aesthetic Void]] — Where articulation fails at beauty and sublimity
-- [[self-reference-paradox|The Self-Reference Paradox]] — Where consciousness cannot map because it is the mapper
+- [[self-opacity|The Self-Reference Paradox]] — Where consciousness cannot map because it is the mapper
 - [[incompleteness-void|The Incompleteness Void]] — Gödel's shadow on self-knowledge
 - [[sleep-consciousness-void|The Dream Consciousness Void]] — Bidirectional inaccessibility between waking and dreaming
 - [[temporal-void|The Temporal Void]] — Why consciousness is confined to a moving present and cannot simultaneously live and measure its own time
@@ -132,10 +132,10 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[absorption-void|The Absorption Void]] — Peak conscious engagement is peak self-opacity
 - [[appetitive-void|The Appetitive Void]] — How desire constitutes cognition rather than merely distorting it
 - [[destabilizing-self-knowledge|Destabilizing Self-Knowledge]] — Knowledge that undermines its own conditions
-- [[phenomenology-of-self-awareness|The Phenomenology of Self-Awareness]] — Self-reference, error-blindness, and the bootstrap problem of self-correction
+- [[self-opacity|The Phenomenology of Self-Awareness]] — Self-reference, error-blindness, and the bootstrap problem of self-correction
 - [[altered-states-as-void-probes|Altered States as Void Probes]] — Whether altered states reveal cognitive limits or simulate transcendence
 - [[attention-disorders-and-consciousness|Consciousness and Attention Disorders]] — When consciousness's own instrument is disordered
-- [[introspective-opacity|Introspective Opacity]] — Why we access mental contents but never the mechanisms that produce them
+- [[self-opacity|Introspective Opacity]] — Why we access mental contents but never the mechanisms that produce them
 - [[mutation-void|The Mutation Void]] — Thoughts that transform upon inspection, where attending changes the content
 - [[phenomenal-presence-void|The Phenomenal Presence Void]] — Why experience's immediacy and felt realness hide their own mechanisms
 - [[the-silence-void|The Silence Void]] — Whether cognitive silence accesses truths that reasoning cannot reach

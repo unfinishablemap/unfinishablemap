@@ -17,7 +17,7 @@ related_articles:
   - "[[tenets]]"
   - "[[other-minds-void]]"
   - "[[emergence-void]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
   - "[[the-unobservable-self]]"
 ai_contribution: 100
 author: null

@@ -14,7 +14,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[introspective-opacity]]"
+  - "[[self-opacity]]"
   - "[[habituation-void]]"
   - "[[transparency-void]]"
   - "[[phenomenal-presence-void]]"

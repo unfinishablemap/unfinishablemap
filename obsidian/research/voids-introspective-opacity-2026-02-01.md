@@ -19,7 +19,7 @@ related_articles:
   - "[[the-unobservable-self]]"
   - "[[thoughts-that-slip-away]]"
   - "[[phenomenology-of-the-edge]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101

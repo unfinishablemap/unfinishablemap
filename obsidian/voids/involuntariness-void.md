@@ -16,7 +16,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[introspective-opacity|volitional opacity]]"
+  - "[[self-opacity|volitional opacity]]"
   - "[[ownership-void]]"
   - "[[affective-void]]"
   - "[[sleep-consciousness-void]]"
@@ -73,7 +73,7 @@ Three possible explanations emerge:
 
 **Functional necessity.** Organisms that could voluntarily shut off pain, suppress perception, or alter emotional valence would face severe survival disadvantages. Evolution—or whatever process constrains the consciousness-physics interface—may maintain involuntariness as a design requirement. An agent that could freely edit its own experience might decouple from reality entirely.
 
-**Structural opacity.** Metzinger (2003) argues that the phenomenal self-model is "transparent"—we cannot introspect the mechanisms generating experience. If you cannot see the control surface, you cannot operate it. The involuntariness may follow from the same structural feature that the [[introspective-opacity|volitional opacity]] void documents: the mechanisms of consciousness are hidden from the consciousness they produce.
+**Structural opacity.** Metzinger (2003) argues that the phenomenal self-model is "transparent"—we cannot introspect the mechanisms generating experience. If you cannot see the control surface, you cannot operate it. The involuntariness may follow from the same structural feature that the [[self-opacity|volitional opacity]] void documents: the mechanisms of consciousness are hidden from the consciousness they produce.
 
 These explanations are not mutually exclusive. The involuntariness may be multiply determined—constrained by the interface, selected for by evolution, and hidden by structural opacity simultaneously. What they share is the implication that consciousness's inability to govern itself is not a contingent limitation awaiting a fix, but a structural feature of how mind and body interact.
 
@@ -104,7 +104,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly. T
 ## Further Reading
 
 - [[voids]] — The broader framework for cognitive limits
-- [[introspective-opacity|volitional opacity]] — Why we cannot observe the mechanisms of willing
+- [[self-opacity|volitional opacity]] — Why we cannot observe the mechanisms of willing
 - [[ownership-void]] — Why we cannot introspect how experiences become ours
 - [[affective-void]] — The emotions we cannot feel
 - [[appetitive-void]] — The desires we cannot choose

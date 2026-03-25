@@ -19,7 +19,7 @@ related_articles:
   - "[[origin-of-consciousness]]"
   - "[[limits-reveal-structure]]"
   - "[[whether-real]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -104,7 +104,7 @@ The very fact that we can conceive of cognitive voids—that we can ask "what ca
   - The recursion potentially generates regress—conscious states require HOTs, which if conscious require further HOTs
   - Standard reply: the higher-order thought need not itself be conscious unless introspected
   - The structure enables self-monitoring and error correction
-- **Tenet alignment**: The recursive structure relates to [[self-reference-paradox|self-reference paradox]]—consciousness examining consciousness generates layers
+- **Tenet alignment**: The recursive structure relates to [[self-opacity|self-reference paradox]]—consciousness examining consciousness generates layers
 - **Quote**: "A conscious state is a state whose subject is, in some way, aware of being in it."
 
 ### Epistemic Humility and Cognitive Limits

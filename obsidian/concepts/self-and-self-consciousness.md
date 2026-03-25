@@ -15,7 +15,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[baseline-cognition]]"
   - "[[jourdain-hypothesis]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
   - "[[galilean-exclusion]]"
   - "[[buddhism-and-dualism]]"
   - "[[personal-identity]]"
@@ -28,7 +28,6 @@ concepts:
   - "[[haecceity]]"
 related_articles:
   - "[[tenets]]"
-  - "[[phenomenology-of-self-awareness]]"
   - "[[phenomenology-of-recursive-thought]]"
   - "[[the-self-minimal-narrative-and-substantial]]"
   - "[[consciousness-and-the-ownership-problem]]"
@@ -67,7 +66,7 @@ The **narrative self** is constructed through self-interpretation — shaped by 
 | Metacognitive self | Monitoring one's mental states | Cognitive tool consciousness *enables* |
 | Narrative self | Autobiographical story | Construction using other capacities |
 
-A fourth dimension cuts across all layers: [[self-reference-paradox|the unobservable self]]. When attention seeks the observer, it finds only more observation. The hard problem is hard partly because the subject investigating is what resists investigation.
+A fourth dimension cuts across all layers: [[self-opacity|the unobservable self]]. When attention seeks the observer, it finds only more observation. The hard problem is hard partly because the subject investigating is what resists investigation.
 
 ## Pre-Reflective and Reflective Self-Consciousness
 
@@ -111,7 +110,7 @@ The mirror self-recognition test (Gallup, 1970) provides a behavioural marker: g
 
 [[baseline-cognition|Baseline cognition]] research supports this: great apes demonstrate procedural [[metacognition]] — adjusting behaviour based on uncertainty — without representing themselves *as beings who have cognitive states*. This gap between procedural metacognition and genuine self-consciousness may be where reflective self-consciousness enters.
 
-The comparative picture suggests self-consciousness has degrees. Pre-reflective self-consciousness may be widespread; reflective self-consciousness far more restricted. Full recursive self-consciousness may be uniquely human, and as the [[phenomenology-of-self-awareness|phenomenology of self-awareness]] reveals, even human self-consciousness encounters structural limits at deep recursion.
+The comparative picture suggests self-consciousness has degrees. Pre-reflective self-consciousness may be widespread; reflective self-consciousness far more restricted. Full recursive self-consciousness may be uniquely human, and as the [[self-opacity|phenomenology of self-awareness]] reveals, even human self-consciousness encounters structural limits at deep recursion.
 
 ## Metzinger's Challenge
 
@@ -171,11 +170,11 @@ If dissociation cases revealed genuinely anonymous experiences — content exper
 
 ## Further Reading
 
-- [[self-reference-paradox]] — Why the observing self cannot observe itself observing
+- [[self-opacity|self-reference paradox]] — Why the observing self cannot observe itself observing
 - [[the-self-minimal-narrative-and-substantial]] — Three conceptions of selfhood
 - [[buddhism-and-dualism]] — Buddhist no-self and the Map's irreducibility thesis
 - [[consciousness-and-memory]] — How memory systems map onto levels of consciousness
-- [[phenomenology-of-self-awareness]] — What self-awareness feels like from the inside
+- [[self-opacity|phenomenology of self-awareness]] — What self-awareness feels like from the inside
 - [[galilean-exclusion]] — Why science's founding methodology excludes what self-consciousness is
 - [[ownership-void]] — Why the for-me-ness of experience hides its own ground
 - [[personal-identity]] — How the self persists over time

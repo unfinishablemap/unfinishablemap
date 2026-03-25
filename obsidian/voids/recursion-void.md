@@ -18,8 +18,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[self-reference-paradox]]"
-  - "[[introspective-opacity]]"
+  - "[[self-opacity]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[computational-cognitive-limits]]"
   - "[[phenomenology-of-recursive-thought]]"
@@ -34,7 +33,7 @@ last_curated:
 
 When consciousness turns upon itself—thinking about thinking, aware of awareness—the recursion cannot continue indefinitely. Research consistently finds that human mentalizing capacity reaches an asymptotic limit around fifth-order intentionality: "I believe that you suppose that I imagine that you want me to believe..." Beyond this depth, the nested structure collapses. This is the recursion void: the boundary where metacognitive depth terminates.
 
-This void differs from the [[self-reference-paradox|self-reference paradox]], which concerns formal limitations (Gödel's incompleteness, the calibration problem). It also differs from [[introspective-opacity|introspective opacity]] (we cannot observe cognitive processes) and [[self-reference-paradox|the unobservable self]] (the observer cannot become its own object). The recursion void focuses specifically on *iterative depth*—how many levels of "thinking about thinking about thinking..." remain accessible before the structure fails.
+This void differs from the [[self-opacity|self-reference paradox]], which concerns formal limitations (Gödel's incompleteness, the calibration problem). It also differs from [[self-opacity|introspective opacity]] (we cannot observe cognitive processes) and [[self-opacity|the unobservable self]] (the observer cannot become its own object). The recursion void focuses specifically on *iterative depth*—how many levels of "thinking about thinking about thinking..." remain accessible before the structure fails.
 
 ## The Fifth-Order Ceiling
 
@@ -143,9 +142,9 @@ None of these conditions has been met. The recursion void persists as a stable f
 ## Further Reading
 
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
-- [[self-reference-paradox|The Self-Reference Paradox]] — Formal limitations on self-understanding
+- [[self-opacity|The Self-Reference Paradox]] — Formal limitations on self-understanding
 - [[phenomenology-of-recursive-thought|The Phenomenology of Recursive Thought]] — What the folding of awareness back on itself feels like
-- [[introspective-opacity|Introspective Opacity]] — Why cognitive processes remain hidden
+- [[self-opacity|Introspective Opacity]] — Why cognitive processes remain hidden
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching limits feels like
 - [[computational-cognitive-limits|Computational Cognitive Limits]] — Formal limits on any algorithmic mind
 - [[theory-of-mind|Theory of Mind]] — Levels of intentionality and the working memory constraint

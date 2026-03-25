@@ -19,9 +19,8 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[the-unobservable-self]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
   - "[[transparency-void]]"
-  - "[[introspective-opacity]]"
   - "[[observation-void]]"
 ai_contribution: 100
 author: null

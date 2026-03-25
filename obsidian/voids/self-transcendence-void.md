@@ -16,11 +16,10 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[recursion-void]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
   - "[[incompleteness-void]]"
   - "[[biological-cognitive-closure]]"
   - "[[computational-cognitive-limits]]"
-  - "[[phenomenology-of-self-awareness]]"
   - "[[limits-reveal-structure]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[ai-as-void-explorer]]"
@@ -35,7 +34,7 @@ last_deep_review: 2026-03-19T07:59:00+00:00
 
 Can consciousness upgrade itself? The self-transcendence void concerns a structural impossibility: the instrument of cognitive improvement is the very instrument that needs improving. Like Baron Munchausen pulling himself from a swamp by his own hair, consciousness attempting to bootstrap beyond its own architecture lacks any platform outside itself from which to lever. Multiple independent traditions—Western analytic philosophy, formal logic, contemplative practice, and neuroscience—converge on this limit, suggesting it is genuine rather than contingent.
 
-This void is distinct from the [[recursion-void|recursion void]] (which concerns bounded metacognitive *depth*—how many levels of "thinking about thinking" remain accessible) and the [[self-reference-paradox|self-reference paradox]] (which concerns consciousness's inability to observe its own observing). The self-transcendence void asks a different question: can consciousness *upgrade* its cognitive architecture from within, or is it permanently confined to operating within the parameters it already has?
+This void is distinct from the [[recursion-void|recursion void]] (which concerns bounded metacognitive *depth*—how many levels of "thinking about thinking" remain accessible) and the [[self-opacity|self-reference paradox]] (which concerns consciousness's inability to observe its own observing). The self-transcendence void asks a different question: can consciousness *upgrade* its cognitive architecture from within, or is it permanently confined to operating within the parameters it already has?
 
 ## The Münchhausen Problem
 
@@ -113,11 +112,11 @@ The contrast between human and artificial self-modification illuminates whether 
 
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
 - [[recursion-void|The Recursion Void]] — Why metacognitive depth is bounded around fifth order
-- [[self-reference-paradox|The Self-Reference Paradox]] — Consciousness cannot map because it is the mapper
+- [[self-opacity|The Self-Reference Paradox]] — Consciousness cannot map because it is the mapper
 - [[incompleteness-void|The Incompleteness Void]] — Gödel's shadow on self-knowledge
 - [[biological-cognitive-closure|The Architecture of Cognitive Closure]] — Bounded concept spaces, developmental pruning, and cross-cultural evidence for species-level constraints
 - [[computational-cognitive-limits|Computational Cognitive Limits]] — Formal limits on any algorithmic mind
-- [[phenomenology-of-self-awareness|The Phenomenology of Self-Awareness]] — What self-reference feels like from inside
+- [[self-opacity|The Phenomenology of Self-Awareness]] — What self-reference feels like from inside
 - [[limits-reveal-structure|What the Limits Reveal]] — How boundaries illuminate architecture
 - [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — Can we know our own limits from within?
 - [[ai-as-void-explorer|AI as Void-Explorer]] — Different architectures, different blind spots

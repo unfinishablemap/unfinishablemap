@@ -19,7 +19,7 @@ related_articles:
   - "[[cognitive-aversion]]"
   - "[[defended-territory]]"
   - "[[self-transcendence-void]]"
-  - "[[introspective-opacity]]"
+  - "[[self-opacity]]"
   - "[[framework-void]]"
 ai_contribution: 100
 author: null

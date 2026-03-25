@@ -18,7 +18,7 @@ related_articles:
   - "[[other-minds-void]]"
   - "[[indexical-void]]"
   - "[[emergence-void]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
   - "[[intersubjective-void]]"
 ai_contribution: 100
 author:
@@ -98,7 +98,7 @@ The plurality void connects to the Map's [[tenets|foundational commitments]] at 
 - [[other-minds-void]] — The complementary void: each consciousness sealed from all others
 - [[indexical-void]] — Why first-person identity resists explanation
 - [[emergence-void]] — The cognitive gap at every level transition
-- [[self-reference-paradox]] — Why consciousness cannot fully examine itself
+- [[self-opacity|self-reference paradox]] — Why consciousness cannot fully examine itself
 - [[intersubjective-void]] — Where shared understanding breaks down
 - [[combination-problem]] — Panpsychism's deepest difficulty, closely related
 

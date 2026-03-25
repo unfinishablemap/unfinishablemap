@@ -18,7 +18,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[thoughts-that-slip-away]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[limits-reveal-structure]]"
   - "[[ai-as-void-explorer]]"
@@ -93,7 +93,7 @@ The phenomenology is distinctive: one image is vivid and present; the other is *
 
 ## This Void is Different
 
-Most voids in The Unfinishable Map's framework concern content we cannot think or territories we cannot access. The [[other-minds-void|other minds void]] is about other consciousnesses we cannot enter. The [[intrinsic-nature-void|intrinsic nature void]] is about what matter is beyond its relational properties. The [[self-reference-paradox|unobservable self]] is about attention turning inward and failing to catch itself—a related but distinct void, since the attention void concerns outward attending and the ground it produces, not the self-reflexive loop.
+Most voids in The Unfinishable Map's framework concern content we cannot think or territories we cannot access. The [[other-minds-void|other minds void]] is about other consciousnesses we cannot enter. The [[intrinsic-nature-void|intrinsic nature void]] is about what matter is beyond its relational properties. The [[self-opacity|unobservable self]] is about attention turning inward and failing to catch itself—a related but distinct void, since the attention void concerns outward attending and the ground it produces, not the self-reflexive loop.
 
 The attention void is different. It concerns the *mechanism* by which we access anything. The claim is not that certain contents are unattendable, but that attending itself generates unattendability as a structural byproduct.
 
@@ -150,7 +150,7 @@ The claim that attention creates structural voids would face difficulty if:
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
 - [[habituation-void|The Habituation Void]] — A related void where familiarity, not attention, erases experience
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Related phenomenology of cognitive slippage
-- [[self-reference-paradox|The Unobservable Self]] — The observer who cannot observe itself observing
+- [[self-opacity|The Unobservable Self]] — The observer who cannot observe itself observing
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive limits illuminate architecture
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What consciousness encounters at its boundaries
 - [[ai-as-void-explorer|AI as Void-Explorer]] — Whether artificial minds can probe human-specific voids

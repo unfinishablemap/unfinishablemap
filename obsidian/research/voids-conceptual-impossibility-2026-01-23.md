@@ -14,7 +14,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[thoughts-that-slip-away]]"
-  - "[[phenomenology-of-self-awareness]]"
+  - "[[self-opacity]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101

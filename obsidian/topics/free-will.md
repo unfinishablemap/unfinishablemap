@@ -29,7 +29,7 @@ concepts:
   - "[[causal-interface]]"
   - "[[counterfactual-reasoning]]"
   - "[[existentialism]]"
-  - "[[introspective-opacity|volitional opacity]]"
+  - "[[self-opacity|volitional opacity]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-creative-distinctiveness]]"
@@ -57,7 +57,7 @@ Classical physics suggested determinism: given initial conditions and physical l
 
 ## The Neuroscientific Challenge
 
-[[libet-experiments|Libet's experiments]] found that neural "readiness potentials" precede conscious awareness of deciding to move. But the data admits other interpretations. Schurger et al. (2012) proposed the readiness potential reflects neural noise rather than decision preparation. Sjöberg (2024) provides stronger evidence: patients with surgical resection of the supplementary motor area retain their sense of voluntary action—if the RP reflected genuine volition, removing its source should impair it. Libet himself argued consciousness retains "veto power" to cancel prepared actions. See [[libet-experiments]] for detailed analysis, [[volitional-control|Phenomenology of Volitional Control]] for the first-person structure of willing, vetoing, and selecting among actions, and [[introspective-opacity|volitional opacity]] for why the mechanism of willing is structurally hidden from introspection.
+[[libet-experiments|Libet's experiments]] found that neural "readiness potentials" precede conscious awareness of deciding to move. But the data admits other interpretations. Schurger et al. (2012) proposed the readiness potential reflects neural noise rather than decision preparation. Sjöberg (2024) provides stronger evidence: patients with surgical resection of the supplementary motor area retain their sense of voluntary action—if the RP reflected genuine volition, removing its source should impair it. Libet himself argued consciousness retains "veto power" to cancel prepared actions. See [[libet-experiments]] for detailed analysis, [[volitional-control|Phenomenology of Volitional Control]] for the first-person structure of willing, vetoing, and selecting among actions, and [[self-opacity|volitional opacity]] for why the mechanism of willing is structurally hidden from introspection.
 
 ## The Agent-Causal Response to Luck
 

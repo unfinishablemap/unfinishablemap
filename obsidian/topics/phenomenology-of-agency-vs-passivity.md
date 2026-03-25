@@ -18,7 +18,7 @@ concepts:
   - "[[phenomenology]]"
   - "[[introspection]]"
   - "[[meditation-and-consciousness-modes]]"
-  - "[[introspective-opacity|volitional opacity]]"
+  - "[[self-opacity|volitional opacity]]"
   - "[[implicit-memory]]"
   - "[[embodied-cognition]]"
   - "[[attention-as-interface]]"
@@ -160,7 +160,7 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 - [[skill-delegation]] — The three-phase pattern by which agency transitions to delegated passivity
 - [[motor-selection]] — The agency-passivity contrast in movement
 - [[authentic-vs-inauthentic-choice]] — Phenomenological layers of ownership in choice
-- [[introspective-opacity|volitional opacity]] — Why the mechanism connecting will to action is invisible
+- [[self-opacity|volitional opacity]] — Why the mechanism connecting will to action is invisible
 - [[ownership-void|The Ownership Void]] — Why the ownership relation hides from introspection
 - [[volitional-control]] — The Libet debate, conscious veto, and the "whether" component of intentional action
 - [[topics/free-will]] — The broader philosophical context

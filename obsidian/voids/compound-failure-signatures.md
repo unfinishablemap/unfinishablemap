@@ -19,7 +19,7 @@ related_articles:
   - "[[phenomenology-of-the-edge]]"
   - "[[whether-real]]"
   - "[[thoughts-that-slip-away]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
   - "[[apophatic-approaches]]"
   - "[[biological-cognitive-closure]]"
   - "[[convergence-as-evidence]]"
@@ -76,7 +76,7 @@ Pattern-matching failure (Margolis, 1987) resists correction because it operates
 
 ## Beyond Additive Blindness
 
-The default assumption about multiple cognitive limits is additive: if the [[self-reference-paradox]] hides territory *A* and the [[language-thought-boundary]] hides territory *B*, then together they hide *A + B*. This assumption is likely wrong.
+The default assumption about multiple cognitive limits is additive: if the [[self-opacity|self-reference paradox]] hides territory *A* and the [[language-thought-boundary]] hides territory *B*, then together they hide *A + B*. This assumption is likely wrong.
 
 Spagna et al. (2020) demonstrated that competing cognitive processes drawing on overlapping neural resources produce superadditive performance decrements—the combined effect exceeds what either task alone predicts. This neural evidence motivates a hypothesis about epistemic limits: multiple limits sharing cognitive architecture—as they must, since all operate within the same mind—may exhibit similar nonlinearity. Hofstadter (1979) showed how self-reference generates strange loops but treated each in isolation; the deeper issue is that these loops share substrate.
 
@@ -84,7 +84,7 @@ The extrapolation from attention-task interference to epistemic-limit interactio
 
 ### Three Modes of Compound Interaction
 
-**Superadditive interference.** The [[self-reference-paradox]]—consciousness cannot fully model itself—compounds with the [[language-thought-boundary]]—experience exceeds articulable thought. Together they create a zone where consciousness can neither model *nor* articulate what it is. Each limit alone permits partial access; neither route remains open in the compound case. The [[infant-consciousness|infant consciousness void]] provides a paradigm case: language barrier, absent self-concept, and demolished neural hardware interact superadditively, producing inaccessibility no single barrier predicts.
+**Superadditive interference.** The [[self-opacity|self-reference paradox]]—consciousness cannot fully model itself—compounds with the [[language-thought-boundary]]—experience exceeds articulable thought. Together they create a zone where consciousness can neither model *nor* articulate what it is. Each limit alone permits partial access; neither route remains open in the compound case. The [[infant-consciousness|infant consciousness void]] provides a paradigm case: language barrier, absent self-concept, and demolished neural hardware interact superadditively, producing inaccessibility no single barrier predicts.
 
 **Mutual reinforcement.** The [[recursion-void]]—metacognitive depth bounded around fifth-order intentionality (Dunbar, 1998)—limits our ability to *think about* other limits, creating a self-defending structure. McGinn (1989) identified multiple problems subject to [[mysterianism|cognitive closure]] but never systematically asked what their *interaction* produces. That a philosopher can list multiple closures without investigating their compound effect is itself a symptom.
 
@@ -94,7 +94,7 @@ The extrapolation from attention-task interference to epistemic-limit interactio
 
 Compound limits produce something different from individual ones. **Dissolving grip**: where a single limit halts thought at a boundary, compound limits pull thought apart—the ground gives way in multiple dimensions simultaneously. Try to think about the nature of consciousness (self-reference), articulate that thought (language boundary), and assess your articulation (recursion limit). The thought does not stop—it dissipates.
 
-**The unreachable question.** "What is the intrinsic nature of the mechanism by which my consciousness influences my brain?" involves the [[intrinsic-nature-void]], the [[causal-interface|causal interface void]], and the [[self-reference-paradox]] simultaneously. Each word is comprehensible; the compound question exceeds cognitive grasp. The signature of compound closure is not unintelligibility but ungraspability.
+**The unreachable question.** "What is the intrinsic nature of the mechanism by which my consciousness influences my brain?" involves the [[intrinsic-nature-void]], the [[causal-interface|causal interface void]], and the [[self-opacity|self-reference paradox]] simultaneously. Each word is comprehensible; the compound question exceeds cognitive grasp. The signature of compound closure is not unintelligibility but ungraspability.
 
 ## Probing Methods
 
@@ -132,7 +132,7 @@ Current evidence supports structured, persistent failure patterns. [[biological-
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** connects to introspective failure. If consciousness influences physical processes, systematic blindness to how we access our own mental states may specifically conceal that mechanism. Materialists would attribute the same blindness to computational constraints alone. Both interpretations predict structured failure; they differ on what the structure reveals.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** relates to compound closure around the consciousness-physics interface. It is not merely hard to observe. It sits behind the intersection of the [[self-reference-paradox]] (the observer cannot observe itself observing), the [[intrinsic-nature-void]] (we cannot know what matter is in itself), and the [[causal-interface|causal interface void]] (the mechanism connecting mind and brain is opaque). Three locks, each requiring a different key—and compound closure ensures that possessing any two keys is insufficient.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** relates to compound closure around the consciousness-physics interface. It is not merely hard to observe. It sits behind the intersection of the [[self-opacity|self-reference paradox]] (the observer cannot observe itself observing), the [[intrinsic-nature-void]] (we cannot know what matter is in itself), and the [[causal-interface|causal interface void]] (the mechanism connecting mind and brain is opaque). Three locks, each requiring a different key—and compound closure ensures that possessing any two keys is insufficient.
 
 [[tenet-generated-voids|Tenet-generated voids]] already recognises that some voids emerge from the *interaction* between tenets rather than from individual commitments. Compound failure signatures extend this principle to the full ecology of cognitive limitation. The Map should treat its voids not as a catalogue of independent items but as an interacting system—where relationships between voids are as informative as the voids themselves, and where [[limits-reveal-structure|what the limits reveal]] includes what their interactions reveal.
 
@@ -144,7 +144,7 @@ Current evidence supports structured, persistent failure patterns. [[biological-
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching cognitive limits feels like
 - [[apophatic-cartography|Apophatic Cartography as Epistemic Method]] — Formalising the method with evidential standards
 - [[convergence-as-evidence|Convergence as Evidence]] — How voids organise into five families
-- [[self-reference-paradox|The Self-Reference Paradox]] — Where consciousness cannot map because it is the mapper
+- [[self-opacity|The Self-Reference Paradox]] — Where consciousness cannot map because it is the mapper
 - [[tenet-generated-voids]] — Voids that emerge from interactions between tenets
 - [[infant-consciousness]] — Paradigm case of compound failure
 - [[phenomenology-of-cognitive-limit-types]] — How different limit types feel

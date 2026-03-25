@@ -20,7 +20,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[three-kinds-of-void]]"
-  - "[[introspective-opacity]]"
+  - "[[self-opacity]]"
   - "[[habituation-void]]"
   - "[[other-minds-void]]"
   - "binding-void"

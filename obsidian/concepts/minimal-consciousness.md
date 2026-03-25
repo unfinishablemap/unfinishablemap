@@ -148,7 +148,7 @@ The concept matters for several reasons:
 - [[degrees-of-consciousness]] — How consciousness varies in intensity, richness, and complexity
 - [[explanatory-gap]] — Why we cannot determine consciousness presence from structure
 - [[minimal-consciousness-void]] — Why consciousness cannot investigate its own lower bound
-- [[introspective-opacity]] — Why we access mental contents but never the mechanisms producing them
+- [[self-opacity|introspective opacity]] — Why we access mental contents but never the mechanisms producing them
 - [[observation-void]] — How every method of studying consciousness transforms what it studies
 
 ## References

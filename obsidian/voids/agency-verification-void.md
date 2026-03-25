@@ -21,9 +21,8 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[introspective-opacity]]"
+  - "[[self-opacity]]"
   - "[[causal-interface]]"
-  - "[[self-reference-paradox]]"
   - "[[defended-territory]]"
   - "[[whether-real]]"
   - "[[limits-reveal-structure]]"
@@ -36,7 +35,7 @@ last_curated:
 last_deep_review: 2026-03-06T05:10:00+00:00
 ---
 
-Can consciousness verify its own causal powers? The Unfinishable Map's [[introspective-opacity|volitional opacity]] concerns *how* we decide—the process is hidden. The [[causal-interface|causal interface void]] concerns *how* consciousness connects to the physical—the mechanism is invisible. The agency verification void is deeper than both: it concerns *whether* consciousness genuinely causes anything at all, and reveals that this question is structurally unanswerable from within.
+Can consciousness verify its own causal powers? The Unfinishable Map's [[self-opacity|volitional opacity]] concerns *how* we decide—the process is hidden. The [[causal-interface|causal interface void]] concerns *how* consciousness connects to the physical—the mechanism is invisible. The agency verification void is deeper than both: it concerns *whether* consciousness genuinely causes anything at all, and reveals that this question is structurally unanswerable from within.
 
 Every tool consciousness possesses for investigating its own efficacy is internal to the system whose efficacy is in question. Introspection cannot distinguish genuine causal power from a compelling attribution of power. Neuroscience can correlate brain activity with reported states but cannot determine which is causal. Behavioural evidence consistent with conscious causation is equally consistent with consciousness as epiphenomenal accompaniment. The verification is circular at every turn.
 
@@ -101,9 +100,9 @@ The void is also [[tenet-generated-voids|tenet-generated]]. Because the Map hold
 ## Further Reading
 
 - [[voids|Voids in the Map]] — The broader framework for cognitive limits
-- [[introspective-opacity|Volitional Opacity]] — The opacity of *how* we decide
+- [[self-opacity|Volitional Opacity]] — The opacity of *how* we decide
 - [[causal-interface|The Causal Interface Void]] — The opacity of *how* consciousness connects to physics
-- [[self-reference-paradox|The Self-Reference Paradox]] — Why consciousness cannot fully model itself
+- [[self-opacity|The Self-Reference Paradox]] — Why consciousness cannot fully model itself
 - [[defended-territory|Defended Territory]] — Could some limits be actively imposed?
 - [[tenet-generated-voids|Tenet-Generated Voids]] — How each tenet generates its characteristic void
 - [[topics/free-will|Free Will]] — The broader context for questions of agency

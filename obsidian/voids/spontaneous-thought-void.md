@@ -18,9 +18,8 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[creativity-void]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
   - "[[thoughts-that-slip-away]]"
-  - "[[introspective-opacity]]"
   - "[[absorption-void]]"
   - "[[three-kinds-of-void]]"
   - "[[limits-reveal-structure]]"
@@ -36,7 +35,7 @@ last_deep_review: 2026-03-14T15:16:00+00:00
 
 We spend roughly half our waking lives in spontaneous thought—stray memories, unbidden associations, fragments of conversation replaying without invitation. Killingsworth and Gilbert (2010) found that people's minds wander during 46.9% of sampled moments, across virtually every activity. Yet the process generating this constant mental stream is completely invisible to introspection. We experience the products—thoughts arriving, images surfacing, melodies playing—but never the production. The Unfinishable Map's [[voids]] framework identifies this as a distinctive void: the most pervasive activity of consciousness is also the most opaque.
 
-This void differs from neighbouring ones. The [[creativity-void]] concerns occasional flashes of insight whose origin resists observation. [[introspective-opacity|Volitional opacity]] concerns the hidden mechanisms of willing and deciding. The spontaneous thought void concerns the *default state*—the background hum of mentation that continues whenever deliberate thought relaxes its grip. It is not the occasional mystery of creative illumination but the constant mystery of ordinary mental life.
+This void differs from neighbouring ones. The [[creativity-void]] concerns occasional flashes of insight whose origin resists observation. [[self-opacity|Volitional opacity]] concerns the hidden mechanisms of willing and deciding. The spontaneous thought void concerns the *default state*—the background hum of mentation that continues whenever deliberate thought relaxes its grip. It is not the occasional mystery of creative illumination but the constant mystery of ordinary mental life.
 
 ## The Default Stream
 
@@ -76,7 +75,7 @@ We are deliberate agents for roughly half our waking lives. The other half, the 
 
 If consciousness is a *self*—a unified non-physical subject—then its most common mode of operation is one in which it does not control its own content. The spontaneous stream generates without being asked, presents without being invited, and persists despite attempts at control. Meditators encounter this directly: the instruction to focus on the breath reveals how relentlessly the stream reasserts itself. Every return to the breath is a fresh demonstration that something generates thoughts the meditator did not choose.
 
-Does this mean consciousness contains sub-personal processes—a non-physical equivalent of unconscious cognition? Or does the spontaneous stream represent consciousness operating in a mode we cannot recognise as our own? The [[self-reference-paradox|unobservable self]] cannot catch itself observing; perhaps it also cannot catch itself spontaneously generating.
+Does this mean consciousness contains sub-personal processes—a non-physical equivalent of unconscious cognition? Or does the spontaneous stream represent consciousness operating in a mode we cannot recognise as our own? The [[self-opacity|unobservable self]] cannot catch itself observing; perhaps it also cannot catch itself spontaneously generating.
 
 ## Meditation and the Boundary
 
@@ -92,7 +91,7 @@ The spontaneous thought void may reveal something positive about consciousness's
 
 This aligns with the philosophical tradition that treats consciousness as fundamentally active rather than receptive. Leibniz's monads have internal activity; Whitehead's actual occasions have subjective aim. If consciousness is intrinsically active, its spontaneous productions are not noise but expressions of its nature—the mind doing what minds do when freed from the demands of the environment.
 
-The opacity of this activity may be structural rather than accidental. If spontaneous generation is constitutive of consciousness—part of what it *is* to be conscious—then observing the process would require consciousness to step outside itself. The [[self-reference-paradox|unobservable self]] cannot observe its own observing; perhaps it also cannot observe its own generating. The void is not a failure of introspection but a consequence of consciousness being unable to objectify its own constitutive activity.
+The opacity of this activity may be structural rather than accidental. If spontaneous generation is constitutive of consciousness—part of what it *is* to be conscious—then observing the process would require consciousness to step outside itself. The [[self-opacity|unobservable self]] cannot observe its own observing; perhaps it also cannot observe its own generating. The void is not a failure of introspection but a consequence of consciousness being unable to objectify its own constitutive activity.
 
 ## Relation to Site Perspective
 
@@ -119,8 +118,8 @@ The [[tenets#^no-many-worlds|No Many Worlds]] tenet connects through the indexic
 ## Further Reading
 
 - [[creativity-void]] — The related void concerning creative insight's hidden origins
-- [[introspective-opacity]] — Why we cannot observe cognitive processes, including willing
-- [[self-reference-paradox]] — The observer that cannot observe itself
+- [[self-opacity|introspective opacity]] — Why we cannot observe cognitive processes, including willing
+- [[self-opacity|self-reference paradox]] — The observer that cannot observe itself
 - [[thoughts-that-slip-away]] — How thoughts escape before they can be captured
 - [[absorption-void]] — Where focused attention swallows the attending self
 - [[involuntariness-void]] — Consciousness cannot opt out of its own spontaneous content

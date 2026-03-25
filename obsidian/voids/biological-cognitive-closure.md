@@ -33,7 +33,7 @@ related_articles:
   - "[[phenomenology-of-the-edge]]"
   - "[[mind-space-void]]"
   - "[[expertise-void]]"
-  - "[[introspective-opacity]]"
+  - "[[self-opacity]]"
   - "[[consciousness-interface-development]]"
   - "[[recognition-void]]"
   - "[[self-transcendence-void]]"
@@ -101,7 +101,7 @@ The closure is physical. Perineuronal nets encapsulate neurons, stabilising matu
 
 The infant begins with innate conceptual primitives (architectural constraint) operating through a fitness-shaped perceptual interface (adaptive constraint). Development then narrows the perceptual channels through which new concept-triggering experiences arrive (developmental closure). The result is triply bounded.
 
-Beyond these, the [[expertise-void|expertise void]] shows how specialisation creates further closures throughout adult life. Each stage trades accessible territory for efficiency within what remains. The [[introspective-opacity|opacity of introspection]] deepens at every level.
+Beyond these, the [[expertise-void|expertise void]] shows how specialisation creates further closures throughout adult life. Each stage trades accessible territory for efficiency within what remains. The [[self-opacity|opacity of introspection]] deepens at every level.
 
 ## Naturally Occluded Voids
 

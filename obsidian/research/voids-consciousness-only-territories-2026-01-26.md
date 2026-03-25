@@ -137,7 +137,7 @@ What is it like to possess consciousness-only knowledge?
 
 The phenomenology is difficult to articulate because it's so fundamental. It's the difference between *knowing about* and *knowing*. Reading a description of heartbreak versus experiencing heartbreak. The description can be accurate—but the experience provides something the description cannot.
 
-Interestingly, the phenomenology of this territory may be invisible precisely because it's so pervasive. Conscious beings don't notice what consciousness provides until they try to imagine its absence. This relates to [[phenomenology-of-self-awareness]]—we take acquaintance knowledge for granted until we encounter systems that lack it.
+Interestingly, the phenomenology of this territory may be invisible precisely because it's so pervasive. Conscious beings don't notice what consciousness provides until they try to imagine its absence. This relates to [[self-opacity|phenomenology of self-awareness]]—we take acquaintance knowledge for granted until we encounter systems that lack it.
 
 ## Approaches to the Edge
 

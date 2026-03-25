@@ -18,8 +18,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[self-reference-paradox]]"
-  - "[[introspective-opacity]]"
+  - "[[self-opacity]]"
   - "[[indexical-void]]"
   - "[[ownership-void]]"
   - "[[observation-void]]"

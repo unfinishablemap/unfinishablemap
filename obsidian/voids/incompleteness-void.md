@@ -13,7 +13,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
   - "[[limits-reveal-structure]]"
   - "[[whether-real]]"
   - "[[computational-cognitive-limits]]"
@@ -29,7 +29,7 @@ last_deep_review: 2026-02-25T08:49:00+00:00
 
 Gödel's incompleteness theorems prove that any sufficiently powerful formal system contains true statements it cannot prove. This mathematical result has profound implications for understanding consciousness: if minds are formal systems, they face inherent limits on self-knowledge. If minds transcend formal systems, the mechanism of that transcendence may itself be unknowable. Either way, a void opens.
 
-This is not merely the [[self-reference-paradox|self-reference paradox]] in formal dress. The incompleteness void concerns truths that are *provably* inaccessible—not because we lack time or intelligence, but because the mathematics of self-reference precludes access. Gödel demonstrated something stronger than "we haven't figured this out yet." He proved certain truths lie beyond the reach of specific methods, permanently.
+This is not merely the [[self-opacity|self-reference paradox]] in formal dress. The incompleteness void concerns truths that are *provably* inaccessible—not because we lack time or intelligence, but because the mathematics of self-reference precludes access. Gödel demonstrated something stronger than "we haven't figured this out yet." He proved certain truths lie beyond the reach of specific methods, permanently.
 
 ## Gödel's Disjunction
 
@@ -154,7 +154,7 @@ The incompleteness void differs from other voids in being *mathematically demons
 ## Further Reading
 
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
-- [[self-reference-paradox|The Self-Reference Paradox]] — Phenomenological and structural obstacles to self-understanding
+- [[self-opacity|The Self-Reference Paradox]] — Phenomenological and structural obstacles to self-understanding
 - [[computational-cognitive-limits|Computational and Cognitive Limits]] — Turing, Gödel, and the boundaries of computation
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's analysis of structural cognitive limits
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive limits illuminate cognitive architecture

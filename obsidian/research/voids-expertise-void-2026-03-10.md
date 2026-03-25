@@ -13,7 +13,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[absorption-void]]"
-  - "[[introspective-opacity]]"
+  - "[[self-opacity]]"
   - "[[calibration-void]]"
 ai_contribution: 100
 author: null

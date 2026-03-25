@@ -20,7 +20,7 @@ related_articles:
   - "[[tenets]]"
   - "[[three-kinds-of-void]]"
   - "[[consciousness-only-territories]]"
-  - "[[introspective-opacity]]"
+  - "[[self-opacity]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[topology-of-cognitive-failure]]"
   - "[[whether-real]]"

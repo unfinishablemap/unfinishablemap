@@ -16,8 +16,7 @@ concepts:
   - "[[simulation]]"
 related_articles:
   - "[[voids]]"
-  - "[[introspective-opacity]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
   - "[[intrinsic-nature-void]]"
   - "[[whether-real]]"
   - "[[limits-reveal-structure]]"
@@ -69,15 +68,15 @@ The first experience is typically vertigo—a sense of groundlessness when one s
 
 Then comes the snap-back. Almost immediately, the mind reasserts naive realism. One "sees" the desk, "feels" the chair, and the question seems academic. This snap-back is itself evidence for Metzinger's transparency mechanism—the system actively restoring its default mode of concealing itself as representation. The [[phenomenal-presence-void|phenomenal presence void]] reveals an additional layer: every experience arrives stamped with a felt quality of realness that is itself produced by a hidden mechanism. Transparency conceals representation *as* representation; the reality-feeling stamps what remains with felt conviction. The two mechanisms compound—the distortion hides itself, and what it presents feels unquestionably real.
 
-The recursive trap follows any sustained attempt to resist the snap-back. Thinking carefully about the transparency void requires using the very cognitive apparatus whose transparency is in question. Even the feeling that "this is a genuine problem" might be an artifact of the apparatus. Each meta-level of reflection is subject to the same concern, generating an epistemic vertigo that [[self-reference-paradox|parallels other self-referential difficulties]] consciousness encounters when examining itself.
+The recursive trap follows any sustained attempt to resist the snap-back. Thinking carefully about the transparency void requires using the very cognitive apparatus whose transparency is in question. Even the feeling that "this is a genuine problem" might be an artifact of the apparatus. Each meta-level of reflection is subject to the same concern, generating an epistemic vertigo that [[self-opacity|parallels other self-referential difficulties]] consciousness encounters when examining itself.
 
 ## Distinguishing the Transparency Void
 
 The transparency void occupies distinctive territory among the Map's [[voids]]:
 
 - The [[intrinsic-nature-void]] asks what matter is in itself—a question about the world's hidden nature
-- The [[self-reference-paradox]] asks whether consciousness can map itself—a question about reflexivity
-- [[introspective-opacity|Introspective opacity]] addresses why we cannot observe our own cognitive mechanisms
+- The [[self-opacity|self-reference paradox]] asks whether consciousness can map itself—a question about reflexivity
+- [[self-opacity|Introspective opacity]] addresses why we cannot observe our own cognitive mechanisms
 
 The transparency void asks something different: whether the *medium* of all mapping introduces systematic distortion. It concerns the reliability of the mapping apparatus itself. Introspective opacity means we cannot see the machinery; the transparency void means we cannot determine whether the machinery's output tracks reality or merely tracks fitness. The [[mutation-void]] occupies yet another position: it concerns cases where the act of attending to content *transforms* that content, so the machinery doesn't merely hide or distort but actively reshapes what it processes.
 
@@ -105,8 +104,8 @@ The void also connects to the Map's [[tenets#^bidirectional-interaction|Bidirect
 
 - [[phenomenal-transparency]] — The concept underlying this void: why representations conceal themselves as representations
 - [[phenomenal-presence-void|The Phenomenal Presence Void]] — The companion void: why the stamp of realness hides its own mechanism
-- [[introspective-opacity]] — Why we cannot observe our own cognitive mechanisms
-- [[self-reference-paradox]] — The broader difficulties of consciousness examining itself
+- [[self-opacity|introspective opacity]] — Why we cannot observe our own cognitive mechanisms
+- [[self-opacity|self-reference paradox]] — The broader difficulties of consciousness examining itself
 - [[intrinsic-nature-void]] — The parallel question of what matter is in itself
 - [[whether-real]] — Whether cognitive limits are permanent or merely current
 - [[destabilizing-self-knowledge]] — What happens when transparency breaks down

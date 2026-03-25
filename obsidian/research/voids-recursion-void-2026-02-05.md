@@ -17,8 +17,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[self-reference-paradox]]"
-  - "[[introspective-opacity]]"
+  - "[[self-opacity]]"
   - "[[the-unobservable-self]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[computational-cognitive-limits]]"

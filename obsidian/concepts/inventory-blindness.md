@@ -19,7 +19,7 @@ related_articles:
   - "[[voids]]"
   - "[[three-kinds-of-void]]"
   - "[[phenomenology-of-the-edge]]"
-  - "[[introspective-opacity]]"
+  - "[[self-opacity]]"
   - "[[epistemology-of-limit-knowledge]]"
   - "[[meta-epistemology-of-limits]]"
 ai_contribution: 100
@@ -95,7 +95,7 @@ Inventory blindness engages the Map's [[tenets]] at a fundamental level.
 - [[biological-cognitive-closure]]
 - [[parsimony-epistemology]]
 - [[phenomenology-of-the-edge]]
-- [[introspective-opacity]]
+- [[self-opacity|introspective opacity]]
 - [[epistemology-of-limit-knowledge]]
 - [[meta-epistemology-of-limits]]
 - [[voids]]

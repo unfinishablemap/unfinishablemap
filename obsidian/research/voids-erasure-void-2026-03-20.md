@@ -17,7 +17,7 @@ related_articles:
   - "[[tenets]]"
   - "[[transparency-void]]"
   - "[[inaccessible-past]]"
-  - "[[introspective-opacity]]"
+  - "[[self-opacity]]"
   - "[[self-transcendence-void]]"
   - "[[observation-void]]"
 ai_contribution: 100

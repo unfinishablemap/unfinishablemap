@@ -23,7 +23,7 @@ related_articles:
   - "[[the-silence-void]]"
   - "[[the-surplus-void]]"
   - "[[pre-conceptual-knowing]]"
-  - "[[introspective-opacity]]"
+  - "[[self-opacity]]"
   - "[[phenomenal-presence-void]]"
   - "[[mutation-void]]"
   - "[[apophatic-approaches]]"
@@ -45,7 +45,7 @@ last_deep_review: 2026-03-24T23:25:00+00:00
 
 The Unfinishable Map catalogues cognitive limits that manifest as absence—territories where thought breaks down, where introspection goes dark, where understanding fails to arrive. The resonance void is different. It manifests as *presence*. A passage of music that stops you mid-step. An idea that lands with a felt weight before you can articulate why it matters. An encounter with a landscape that seems to mean something enormous and specific, yet resists every attempt to say what.
 
-Resonance is consciousness registering meaning that exceeds its capacity for explicit representation. The mechanism generating this signal is structurally opaque: you experience the resonance but cannot inspect the process that produces it. This makes the resonance void a mixed-type [[three-kinds-of-void|void]]—partly unexplorable (the generating mechanism is hidden from [[introspective-opacity|introspection]]) and partly occluded (resonance actively resists voluntary control and dissolves under analytical attention, sharing the [[mutation-void]]'s pattern of transformation under inspection).
+Resonance is consciousness registering meaning that exceeds its capacity for explicit representation. The mechanism generating this signal is structurally opaque: you experience the resonance but cannot inspect the process that produces it. This makes the resonance void a mixed-type [[three-kinds-of-void|void]]—partly unexplorable (the generating mechanism is hidden from [[self-opacity|introspection]]) and partly occluded (resonance actively resists voluntary control and dissolves under analytical attention, sharing the [[mutation-void]]'s pattern of transformation under inspection).
 
 The resonance void is distinct from the [[aesthetic-void]], which concerns why beauty resists articulation. Resonance is broader than beauty—it occurs with ideas, with other people, with memories, with moral convictions. [[aesthetics-and-consciousness|Aesthetic experience]] is one trigger for resonance, but resonance extends wherever consciousness encounters meaning that exceeds articulation. It is also distinct from the [[the-surplus-void|surplus void]], which asks why experience delivers more than survival requires. Resonance is not surplus in general but a specific phenomenological event: a felt encounter with meaning that consciousness cannot unpack.
 
@@ -67,7 +67,7 @@ This convergence across phenomenology, theology, epistemology, sociology, and th
 
 ## The Structure of the Void
 
-**Unexplorable dimension.** Gendlin's felt sense, Polanyi's tacit knowledge, and Otto's numinous converge on a structural point: resonance involves conscious knowing whose own mechanism is invisible to the consciousness that experiences it. This is not unconscious processing, which is hidden entirely. Resonance is conscious—you are aware of the felt meaning—but the process generating it cannot be introspected. The [[introspective-opacity]] that characterises much of mental life operates here in a specific way: the signal is vivid while its source remains dark.
+**Unexplorable dimension.** Gendlin's felt sense, Polanyi's tacit knowledge, and Otto's numinous converge on a structural point: resonance involves conscious knowing whose own mechanism is invisible to the consciousness that experiences it. This is not unconscious processing, which is hidden entirely. Resonance is conscious—you are aware of the felt meaning—but the process generating it cannot be introspected. The [[self-opacity|introspective opacity]] that characterises much of mental life operates here in a specific way: the signal is vivid while its source remains dark.
 
 **Occluded dimension.** Rosa's insistence that resonance cannot be manufactured or controlled suggests something stronger than mere cognitive limitation. Resonance arrives unbidden and departs without explanation. Attempting to attend to the experience while having it tends to dissolve it—a pattern shared with the [[mutation-void]], where inspection transforms what is inspected. This raises the question of whether the opacity is architectural (built into how consciousness works) or defensive (protecting something that would be damaged by explicit access). The parallel with Joyce's "aesthetic arrest"—where genuine encounter requires the suspension of ordinary cognitive engagement—suggests the defence may be functional: some forms of knowing require the analytical mind to step aside.
 
@@ -115,7 +115,7 @@ The resonance void also suggests something about the nature of [[voids]] more br
 - [[the-silence-void]]
 - [[the-surplus-void]]
 - [[pre-conceptual-knowing]]
-- [[introspective-opacity]]
+- [[self-opacity|introspective opacity]]
 - [[phenomenal-presence-void]]
 - [[mutation-void]]
 - [[apophatic-approaches]]

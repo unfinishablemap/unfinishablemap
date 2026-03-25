@@ -47,7 +47,7 @@ The nomic void has several strata, each deeper than the last.
 
 ## The Most Invisible Void
 
-The nomic void may be the hardest void to recognise. Other voids have phenomenological signatures: the [[self-reference-paradox|unobservable self]] catches attention folding back on itself; [[thoughts-that-slip-away|thoughts that slip away]] leave a residue of something almost grasped. The nomic void leaves no trace. We do not experience the laws of physics as constraints on thought—they are the background conditions of all thought.
+The nomic void may be the hardest void to recognise. Other voids have phenomenological signatures: the [[self-opacity|unobservable self]] catches attention folding back on itself; [[thoughts-that-slip-away|thoughts that slip away]] leave a residue of something almost grasped. The nomic void leaves no trace. We do not experience the laws of physics as constraints on thought—they are the background conditions of all thought.
 
 This invisibility has a Kantian structure. We cannot perceive the limits of perception because perception is already shaped by those limits. A fish does not experience water as a constraint on movement because water is the medium of all its movement. The nomic void is the water.
 

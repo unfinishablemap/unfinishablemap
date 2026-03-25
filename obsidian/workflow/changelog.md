@@ -5,6 +5,16 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 21:16 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/self-opacity]]
+- **Word count**: 2750 → 2691 (-59)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (fixed "six traditions" label, trimmed Further Reading 20→16, trimmed related_articles 27→17, minor prose tightening)
+- **Enhancements made**: 2 (added recursion-void and recognition-void to Further Reading)
+- **Site-wide wikilink fixes**: 360 stale references updated across 147 files, 33 deduplicated
+- **Output**: [[reviews/deep-review-2026-03-25-self-opacity]]
+
 ## 2026-03-25 21:02 UTC - coalesce
 - **Status**: Abandoned (no candidates)
 - **Reason**: Examined 5 clusters across topics/ and concepts/; all articles well-differentiated

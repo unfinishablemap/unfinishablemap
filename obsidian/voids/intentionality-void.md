@@ -18,12 +18,11 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
   - "[[creativity-void]]"
   - "[[intrinsic-nature-void]]"
   - "[[three-kinds-of-void]]"
   - "[[limits-reveal-structure]]"
-  - "[[introspective-opacity]]"
   - "[[compound-failure-signatures]]"
 ai_contribution: 100
 author:
@@ -34,7 +33,7 @@ last_curated:
 
 Thoughts are *about* things. You think about your childhood home, about tomorrow's meeting, about the number seven. This aboutness—what philosophers call intentionality—is among the most fundamental features of mind. Yet the mechanism by which any thought achieves its specific reference operates entirely below the threshold of introspective awareness. We experience that thoughts are about things; we cannot observe how they become so. This is the intentionality void: a structural inaccessibility at the heart of mental life.
 
-The Unfinishable Map explores [[voids]]—cognitive dark spaces where thought cannot go or cannot see itself going. The intentionality void occupies territory between the [[self-reference-paradox|unobservable self]] (the observer cannot observe itself observing) and the [[creativity-void|creativity void]] (we cannot catch insight in formation). In the intentionality void, we cannot catch *reference* in formation. The thought arrives already latched onto its object; the latching itself is hidden.
+The Unfinishable Map explores [[voids]]—cognitive dark spaces where thought cannot go or cannot see itself going. The intentionality void occupies territory between the [[self-opacity|unobservable self]] (the observer cannot observe itself observing) and the [[creativity-void|creativity void]] (we cannot catch insight in formation). In the intentionality void, we cannot catch *reference* in formation. The thought arrives already latched onto its object; the latching itself is hidden.
 
 ## The Transparency of Reference
 
@@ -58,7 +57,7 @@ This is not a rare edge case. We routinely hold beliefs about the same thing und
 
 Several lines of evidence suggest this void is genuine, not merely a gap in current knowledge.
 
-**Introspection reveals contents, not processes.** Helmholtz observed that there are "mental operations about which introspection is utterly silent." Fodor's modularity thesis holds that cognitive module operations are introspectively inaccessible. The convergent finding across these traditions is that introspection gives access to mental contents but not to the processes that produce them. This [[introspective-opacity|structural opacity]] holds across domains—we know what we think but not how thinking works.
+**Introspection reveals contents, not processes.** Helmholtz observed that there are "mental operations about which introspection is utterly silent." Fodor's modularity thesis holds that cognitive module operations are introspectively inaccessible. The convergent finding across these traditions is that introspection gives access to mental contents but not to the processes that produce them. This [[self-opacity|structural opacity]] holds across domains—we know what we think but not how thinking works.
 
 A methodological note: these claims rely on introspective reports to establish introspection's limits. The tension is real but not vicious. Introspection can be reliable about *what presents itself* (content, the experience of transparency) without being reliable about *what doesn't present itself* (mechanisms, processes). The void claim rests on convergent reports of absence—finding contents but never content-formation processes—not on introspective access to hidden mechanisms. A physicalist can accept this phenomenology; the question is what explains it.
 
@@ -78,7 +77,7 @@ Approaching the intentionality void produces characteristic experiences.
 
 **Inference-awareness disconnect.** We can sometimes infer that our thoughts must work certain ways. We conclude that thoughts about one's childhood home must involve some causal-historical connection to that house, some chain linking present thought to past experience. But we cannot *observe* this connection. The inference and the phenomenology do not meet. This gap marks the void's edge.
 
-**Self-reference collapse.** When attempting to think about how *this very thought* achieves its reference, something peculiar happens. The thought seems to slip away, generating new layers that escape observation. This connects to the [[self-reference-paradox|unobservable self]]: the thinker cannot observe itself thinking about thinking about reference without producing further thoughts equally opaque in their mechanism.
+**Self-reference collapse.** When attempting to think about how *this very thought* achieves its reference, something peculiar happens. The thought seems to slip away, generating new layers that escape observation. This connects to the [[self-opacity|unobservable self]]: the thinker cannot observe itself thinking about thinking about reference without producing further thoughts equally opaque in their mechanism.
 
 ## Original versus Derived Intentionality
 
@@ -138,7 +137,7 @@ The intentionality void connects directly to the Map's [[tenets|foundational com
 ## Further Reading
 
 - [[voids]] — The broader framework for cognitive dark spaces
-- [[self-reference-paradox]] — The observer that cannot observe itself observing
+- [[self-opacity|self-reference paradox]] — The observer that cannot observe itself observing
 - [[creativity-void]] — Where insight originates, equally opaque to introspection
 - [[intrinsic-nature-void]] — Physics describes what matter does, not what it is
 - [[three-kinds-of-void]] — Unexplored, unexplorable, occluded
@@ -146,7 +145,7 @@ The intentionality void connects directly to the Map's [[tenets|foundational com
 - [[limits-reveal-structure]] — How boundaries illuminate architecture
 - [[mysterianism]] — Cognitive closure and structural limits on knowledge
 - [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality]] — How consciousness grounds aboutness
-- [[introspective-opacity]] — Why mental processes are structurally hidden
+- [[self-opacity|introspective opacity]] — Why mental processes are structurally hidden
 
 ## References
 

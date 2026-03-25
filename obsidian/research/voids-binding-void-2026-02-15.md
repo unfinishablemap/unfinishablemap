@@ -29,7 +29,7 @@ related_articles:
   - "[[whether-real]]"
   - "[[limits-reveal-structure]]"
   - "[[consciousness-only-territories]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
   - "[[attention-created-voids]]"
   - "[[temporal-void]]"
 ai_contribution: 100

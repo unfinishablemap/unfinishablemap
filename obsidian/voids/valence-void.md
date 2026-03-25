@@ -65,7 +65,7 @@ The deepest obstacle is self-referential. Any attempt to explain valence from wi
 
 This is not merely an inconvenience. It is a structural feature of evaluative cognition. To assess whether an explanation of valence succeeds, one must judge it — and judgment itself is valenced. The evaluative framework we use to evaluate explanations is the very thing we are trying to explain. One cannot achieve the affective distance needed to examine valence as an object precisely because the examination requires valenced cognition at every step.
 
-The circularity is tighter than comparable self-referential problems in philosophy. The [[self-reference-paradox|self-reference paradox]] concerns consciousness trying to observe itself as object; the valence void concerns evaluation trying to evaluate itself. And while one might imagine a form of consciousness that does not attempt self-observation, it is harder to imagine one that does not evaluate — since valence appears to be constitutive of experience.
+The circularity is tighter than comparable self-referential problems in philosophy. The [[self-opacity|self-reference paradox]] concerns consciousness trying to observe itself as object; the valence void concerns evaluation trying to evaluate itself. And while one might imagine a form of consciousness that does not attempt self-observation, it is harder to imagine one that does not evaluate — since valence appears to be constitutive of experience.
 
 ## Could Consciousness Exist Without Valence?
 

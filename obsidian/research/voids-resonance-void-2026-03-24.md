@@ -17,7 +17,7 @@ related_articles:
   - "[[aesthetic-void]]"
   - "[[pre-conceptual-knowing]]"
   - "[[the-silence-void]]"
-  - "[[introspective-opacity]]"
+  - "[[self-opacity]]"
   - "[[phenomenal-presence-void]]"
 ai_contribution: 100
 author: null

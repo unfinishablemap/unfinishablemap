@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced self-opacity void articles and fix introspective-opacity wikilinks
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce on 2026-03-25 merged 3 self-opacity voids into voids/self-opacity.md. Additionally, 39 articles reference [[introspective-opacity]] which has no corresponding page. Determine whether introspective-opacity should redirect to self-opacity or warrants its own concept page, then update all broken wikilinks accordingly.
-- **Source**: chain (from self-opacity coalesce) + gap_analysis
-- **Generated**: 2026-03-25
-
 ### P2: Create concept page for indexical knowledge
 - **Type**: expand-topic
 - **Status**: pending
@@ -1410,6 +1403,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Update references to coalesced self-opacity void articles and fix introspective-opacity wikilinks
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-03-25 merged 3 self-opacity voids into voids/self-opacity.md. Additionally, 39 articles reference [[introspective-opacity]] which has no corresponding page. Determine whether introspective-opacity should redirect to self-opacity or warrants its own concept page, then update all broken wikilinks accordingly.
+- **Output**: None -- Context: Update references to coalesced self-opacity void articles and fix introspective-opacity wikilinks
 
 ### ✓ 2026-03-25: Create concept page for epistemology
 - **Type**: expand-topic

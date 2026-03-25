@@ -23,7 +23,7 @@ related_articles:
   - "[[tenets]]"
   - "[[tenet-generated-voids]]"
   - "[[agency-verification-void]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
   - "[[defended-territory]]"
   - "[[limits-reveal-structure]]"
   - "[[intrinsic-nature-void]]"
@@ -109,7 +109,7 @@ This is not conspiracy but parsimony. A minimal interaction is a small interacti
 
 ### The Self-Reference Problem
 
-The causal interface may be inaccessible for the same reasons that consciousness cannot fully model itself (see [[self-reference-paradox]]). The interface is not an object *for* consciousness but the very means *by which* consciousness acts. Observing how you cause things would require stepping outside the causal process while remaining within it—grasping your own grasping.
+The causal interface may be inaccessible for the same reasons that consciousness cannot fully model itself (see [[self-opacity|self-reference paradox]]). The interface is not an object *for* consciousness but the very means *by which* consciousness acts. Observing how you cause things would require stepping outside the causal process while remaining within it—grasping your own grasping.
 
 The eye cannot see itself seeing. The interface cannot be observed because observation requires using the interface.
 
@@ -160,7 +160,7 @@ This void appears in the [[tenet-generated-voids|tenet-generated voids]] framewo
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
 - [[tenet-generated-voids|Tenet-Generated Voids]] — How each of the five tenets generates its characteristic void
 - [[agency-verification-void|The Agency Verification Void]] — Whether consciousness causes anything at all is structurally unverifiable
-- [[self-reference-paradox|The Self-Reference Paradox]] — Why consciousness cannot fully model itself
+- [[self-opacity|The Self-Reference Paradox]] — Why consciousness cannot fully model itself
 - [[defended-territory|Defended Territory]] — Could some limits be actively imposed?
 - [[intrinsic-nature-void|The Intrinsic Nature Void]] — Physics describes what matter does, not what it is
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive boundaries illuminate architecture

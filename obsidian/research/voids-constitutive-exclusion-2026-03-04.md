@@ -18,7 +18,7 @@ related_articles:
   - "[[tenets]]"
   - "[[observation-void]]"
   - "[[intrinsic-nature-void]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
   - "[[causal-interface]]"
   - "[[consciousness-only-territories]]"
 ai_contribution: 100

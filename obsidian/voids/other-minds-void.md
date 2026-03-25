@@ -19,7 +19,7 @@ related_articles:
   - "[[tenets]]"
   - "[[consciousness-only-territories]]"
   - "[[ai-as-void-explorer]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
   - "[[intrinsic-nature-void]]"
   - "[[limits-reveal-structure]]"
   - "[[historical-consciousness-void]]"
@@ -155,7 +155,7 @@ This is not uncomfortable compromise but honest assessment. Certainty about exte
 - [[consciousness-and-the-problem-of-other-properties]] — Even granting other minds, which phenomenal properties do they instantiate?
 - [[consciousness-only-territories]] — What consciousness can access that external observation cannot
 - [[intrinsic-nature-void]] — Why physics describes structure without intrinsic nature
-- [[self-reference-paradox]] — Why consciousness cannot fully examine itself
+- [[self-opacity|self-reference paradox]] — Why consciousness cannot fully examine itself
 - [[ai-as-void-explorer]] — Using artificial minds to probe human cognitive limits
 - [[limits-reveal-structure]] — How cognitive limits illuminate cognitive architecture
 - [[inaccessible-past]] — The parallel void within a single lifetime: your own past consciousness is inaccessible

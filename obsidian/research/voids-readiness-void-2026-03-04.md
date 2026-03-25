@@ -16,10 +16,9 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[volitional-opacity]]"
+  - "[[self-opacity]]"
   - "[[creativity-void]]"
   - "[[causal-interface]]"
-  - "[[introspective-opacity]]"
   - "[[the-unobservable-self]]"
   - "[[temporal-void]]"
 ai_contribution: 100

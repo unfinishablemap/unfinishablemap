@@ -19,7 +19,7 @@ related_articles:
   - "[[tenets]]"
   - "[[other-minds-void]]"
   - "[[temporal-asymmetry-remembering-anticipating]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
   - "[[thoughts-that-slip-away]]"
 ai_contribution: 100
 author: null

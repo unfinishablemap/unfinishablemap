@@ -14,7 +14,7 @@ concepts:
   - "[[self-and-self-consciousness]]"
   - "[[introspection]]"
   - "[[higher-order-theories]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
   - "[[witness-consciousness]]"
   - "[[phenomenology]]"
   - "[[downward-causation]]"
@@ -54,13 +54,13 @@ Can we ascend further? Think about thinking about thinking. Level 3 consciousnes
 
 This collapse isn't mere cognitive fatigue. It reveals something about the structure of recursive awareness: the system attempting to model itself cannot maintain an unlimited number of nested models. The [[recursion-void]] maps this boundary empirically—mentalizing capacity terminates around fifth-order intentionality, constrained by working memory and possibly by the architecture of consciousness itself. Each level requires a subject holding the prior levels as objects, but the subject cannot fully objectify itself—there is always a residue that escapes.
 
-The [[self-reference-paradox]] distinguishes this *recursive limit*—a practical ceiling on nested self-modelling—from two deeper constraints: *structural limits* analogous to Gödel's incompleteness (truths about the system permanently beyond its own reach) and *transparency limits* where the self-model must hide its own machinery to function. The tower collapse is the most phenomenologically vivid of the three, but all operate whenever consciousness attends to itself.
+The [[self-opacity|self-reference paradox]] distinguishes this *recursive limit*—a practical ceiling on nested self-modelling—from two deeper constraints: *structural limits* analogous to Gödel's incompleteness (truths about the system permanently beyond its own reach) and *transparency limits* where the self-model must hide its own machinery to function. The tower collapse is the most phenomenologically vivid of the three, but all operate whenever consciousness attends to itself.
 
 ## The Asymmetry of Subject and Object
 
 When I think about the tree, there is a clean division: I am the subject, the tree is the object. When I think about my thinking, this division blurs. The thought I am examining was just now the subject doing the thinking, and the thought now examining it will shortly become an object for further examination.
 
-This temporal asymmetry has phenomenal consequences. The thought I catch is always already past—by the time I observe it, a new observing-thought has taken its place. As [[self-reference-paradox]] elaborates, the observer cannot observe itself in the act of observing. We find only what observation has produced, never observation itself producing.
+This temporal asymmetry has phenomenal consequences. The thought I catch is always already past—by the time I observe it, a new observing-thought has taken its place. As [[self-opacity|self-reference paradox]] elaborates, the observer cannot observe itself in the act of observing. We find only what observation has produced, never observation itself producing.
 
 David Hume put it empirically: "I can never catch myself at any time without a perception." We find thoughts, feelings, memories—contents of consciousness but never the consciousness containing them. When we look for the looker, we find only more looking.
 
@@ -86,7 +86,7 @@ Thinking about external objects doesn't implicate the thinker in what is thought
 
 Recursive thoughts are notoriously difficult to hold. Try to maintain steady awareness of your awareness—the stability achieved with external objects proves elusive. The thought keeps slipping, either collapsing back to its object (you find yourself thinking about the tree again, not about thinking about the tree) or proliferating into ever-higher levels that cannot be sustained.
 
-The [[self-reference-paradox]] suggests this instability may be structural rather than accidental. Thoughts about thinking may be inherently less stable than thoughts about external objects because the object keeps moving—each act of observation changes the observer. This is a form of [[self-stultification]]: the system's capacity for self-knowledge is constrained by the very activity of self-knowing.
+The [[self-opacity|self-reference paradox]] suggests this instability may be structural rather than accidental. Thoughts about thinking may be inherently less stable than thoughts about external objects because the object keeps moving—each act of observation changes the observer. This is a form of [[self-stultification]]: the system's capacity for self-knowledge is constrained by the very activity of self-knowing.
 
 ### Qualitative Distinctiveness
 
@@ -106,7 +106,7 @@ The [[metacognition|metarepresentation]] literature distinguishes functional met
 
 A worry arises: if consciousness of X requires a thought about X, and that thought must itself be conscious, an infinite regress threatens. Each conscious thought requires a further thought making it conscious, ad infinitum.
 
-The phenomenology of recursive thought suggests how the regress resolves in practice. Higher levels don't require still higher levels to be conscious—they simply *are* conscious, as aspects of a unified field of awareness. The regress is blocked not by unconscious higher-order thoughts (as Rosenthal proposes) but by the self-luminous character of consciousness itself. Yet even this resolution faces the calibration problem that the [[self-reference-paradox]] identifies: evaluating whether self-luminous awareness is *reliable* requires using the very capacity under evaluation. The regress stops experientially, but the question of its epistemic warrant remains open.
+The phenomenology of recursive thought suggests how the regress resolves in practice. Higher levels don't require still higher levels to be conscious—they simply *are* conscious, as aspects of a unified field of awareness. The regress is blocked not by unconscious higher-order thoughts (as Rosenthal proposes) but by the self-luminous character of consciousness itself. Yet even this resolution faces the calibration problem that the [[self-opacity|self-reference paradox]] identifies: evaluating whether self-luminous awareness is *reliable* requires using the very capacity under evaluation. The regress stops experientially, but the question of its epistemic warrant remains open.
 
 Contemplative phenomenology supports this. In meditation, one can observe thoughts arising without needing a further thought about the observation. Awareness is, in some sense, aware of itself non-inferentially—not through a higher-order representation but directly, as its own nature. The eye cannot see itself, but consciousness may be self-illuminating in a way physical light is not.
 
@@ -144,7 +144,7 @@ The phenomenology of recursive thought suggests several conclusions:
 
 ## Further Reading
 
-- [[self-reference-paradox]] — The structural limits of consciousness examining itself
+- [[self-opacity|self-reference paradox]] — The structural limits of consciousness examining itself
 - [[metacognition]] — The cognitive capacity distinct from phenomenal recursion (including metarepresentation)
 - [[cognitive-phenomenology]] — Whether thinking itself has phenomenal character
 - [[higher-order-theories]] — Theories that make recursion central to consciousness

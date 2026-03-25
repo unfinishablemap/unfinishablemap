@@ -20,7 +20,7 @@ related_articles:
   - "[[tenets]]"
   - "[[three-kinds-of-void]]"
   - "[[origin-of-consciousness]]"
-  - "[[self-reference-paradox]]"
+  - "[[self-opacity]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[inaccessible-past]]"
   - "[[consciousness-only-territories]]"
@@ -36,7 +36,7 @@ last_curated: null
 
 Consciousness cannot represent its own absence. Every attempt to imagine nonexistence presupposes the existence of the imaginer. This is the death void—the structural impossibility of experiencing or genuinely conceiving one's own death. Unlike voids that are merely unexplored or actively defended, the death void is [[three-kinds-of-void|unexplorable]] in the strictest sense: a feature of any consciousness that cannot be overcome by any method.
 
-The Unfinishable Map explores many cognitive limits. The death void may be the purest, and among the most [[void-as-ground-of-meaning|constitutive]]—the inconceivability of death is what gives temporal existence its weight. Other voids involve difficulty accessing external territory; this void exists at the foundation of subjectivity itself, closely related to [[self-reference-paradox|the unobservable self]]—both concern the structural impossibility of consciousness observing its own limits. Philosophers across traditions—Epicurus, Wittgenstein, Heidegger, Freud—identify the same impossibility despite radically different frameworks. This convergence suggests a genuine structural feature rather than cultural artifact.
+The Unfinishable Map explores many cognitive limits. The death void may be the purest, and among the most [[void-as-ground-of-meaning|constitutive]]—the inconceivability of death is what gives temporal existence its weight. Other voids involve difficulty accessing external territory; this void exists at the foundation of subjectivity itself, closely related to [[self-opacity|the unobservable self]]—both concern the structural impossibility of consciousness observing its own limits. Philosophers across traditions—Epicurus, Wittgenstein, Heidegger, Freud—identify the same impossibility despite radically different frameworks. This convergence suggests a genuine structural feature rather than cultural artifact.
 
 ## The Mortality Paradox
 
@@ -153,7 +153,7 @@ The death void connects directly to the Map's [[tenets|foundational commitments]
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[three-kinds-of-void]] — The taxonomy: unexplored, unexplorable, occluded
 - [[origin-of-consciousness]] — The prior void: why consciousness exists at all
-- [[self-reference-paradox]] — Related structural obstacle to self-examination
+- [[self-opacity|self-reference paradox]] — Related structural obstacle to self-examination
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
 - [[inaccessible-past]] — The discontinuity of personal identity over time
 - [[void-as-ground-of-meaning]] — Why the death void is not merely a limit but a precondition for temporal meaning

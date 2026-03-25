@@ -22,14 +22,12 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[causal-interface]]"
-  - "[[volitional-opacity]]"
+  - "[[self-opacity]]"
   - "[[the-unobservable-self]]"
-  - "[[self-reference-paradox]]"
   - "[[defended-territory]]"
   - "[[whether-real]]"
   - "[[topology-of-cognitive-failure]]"
   - "[[limits-reveal-structure]]"
-  - "[[introspective-opacity]]"
   - "[[tenet-generated-voids]]"
 ai_contribution: 100
 author: null

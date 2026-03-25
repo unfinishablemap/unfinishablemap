@@ -61,7 +61,7 @@ Rice's theorem generalised the halting problem in 1953: any non-trivial semantic
 
 This creates a void between syntax and semantics. We can inspect what a program looks like without being able to determine what it does. The formal structure is accessible; the meaning is occluded.
 
-For minds, this suggests a gap between self-knowledge of structure and self-knowledge of function. We might know the "syntax" of our neural processes—their physical organisation—without knowing their "semantics"—what they compute, what they mean. This connects to [[self-reference-paradox|the self-reference paradox]] and to what Hofstadter calls "strange loops"—self-referential structures that generate meaning through self-modelling yet cannot fully comprehend themselves.
+For minds, this suggests a gap between self-knowledge of structure and self-knowledge of function. We might know the "syntax" of our neural processes—their physical organisation—without knowing their "semantics"—what they compute, what they mean. This connects to [[self-opacity|the self-reference paradox]] and to what Hofstadter calls "strange loops"—self-referential structures that generate meaning through self-modelling yet cannot fully comprehend themselves.
 
 ## Chaitin's Incompleteness
 
