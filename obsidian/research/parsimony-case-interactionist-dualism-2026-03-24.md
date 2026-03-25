@@ -3,7 +3,7 @@ title: "Research Notes - The Parsimony Case for Interactionist Dualism"
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-03-24T10:21:00+00:00
+ai_modified: 2026-03-25T01:24:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,7 +15,7 @@ concepts:
   - "[[concepts/epiphenomenalism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[limits-of-parsimony-in-consciousness-science]]"
+  - "[[parsimony-epistemology]]"
   - "[[limits-of-parsimony-consciousness-2026-03-20]]"
 ai_contribution: 100
 author:

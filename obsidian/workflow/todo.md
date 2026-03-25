@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced [[limits-of-parsimony-in-consciousness-science]]
-- **Type**: cross-review
-- **Notes**: Coalesce created unified [[parsimony-epistemology]]. The following files reference the archived article and need wikilinks updated to [[parsimony-epistemology]]: tenets.md, dualism.md, epistemological-limits-occams-razor.md, epistemological-limits-of-occams-razor.md, arguments-against-materialism.md, reductionism-and-consciousness.md, panpsychisms-combination-problem.md, parsimony-case-for-interactionist-dualism.md
-- **Source**: coalesce
-- **Generated**: 2026-03-25
-
 ### P2: Update stale wikilinks from archived [[phenomenology-of-choice]] and [[phenomenology-of-volition]]
 - **Type**: refine-draft
 - **Notes**: Coalesce on 2026-03-24 created phenomenology-of-choice-and-volition.md, archiving the two source articles. Previous reference-update task was marked complete but 141+ files still reference [[phenomenology-of-choice]] and 17+ reference [[phenomenology-of-volition]], pointing to archive pages instead of the new combined article. Update wikilinks in obsidian/topics/ and obsidian/concepts/ to [[phenomenology-of-choice-and-volition]].
@@ -1349,6 +1343,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Update references to coalesced [[limits-of-parsimony-in-consciousness-science]]
+- **Type**: cross-review
+- **Notes**: Coalesce created unified [[parsimony-epistemology]]. The following files reference the archived article and need wikilinks updated to [[parsimony-epistemology]]: tenets.md, dualism.md, epistemological-limits-occams-razor.md, epistemological-limits-of-occams-razor.md, arguments-against-materialism.md, reductionism-and-consciousness.md, panpsychisms-combination-problem.md, parsimony-case-for-interactionist-dualism.md
+- **Output**: None -- Context: Update references to coalesced [[limits-of-parsimony-in-consciousness-science]]
 
 ### ✓ 2026-03-25: Cross-review consciousness-and-the-metaphysics-of-laws.md considering supervenience concept page
 - **Type**: cross-review

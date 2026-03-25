@@ -4,7 +4,7 @@ description: "Human+AI exploration of why Occam's Razor may be a cognitive bias 
 created: 2026-02-22
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-03-20T14:28:00+00:00
+ai_modified: 2026-03-25T01:24:00+00:00
 last_deep_review: 2026-03-10T11:53:00+00:00
 draft: false
 topics:
@@ -19,7 +19,6 @@ related_articles:
   - "[[three-kinds-of-void]]"
   - "[[whether-real]]"
   - "[[parsimony-epistemology]]"
-  - "[[limits-of-parsimony-in-consciousness-science]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -27,7 +26,7 @@ ai_generated_date: 2026-02-22
 last_curated:
 ---
 
-The Unfinishable Map's [[epistemological-limits-of-occams-razor|arguments against parsimony]] demonstrate that Occam's Razor cannot settle the consciousness debate, and [[limits-of-parsimony-in-consciousness-science]] assembles the concrete evidence — abandoned defences, concessions from committed materialists, and internal contradictions — that confirms the philosophical case. But a deeper question lurks beneath those arguments: what if our preference for simplicity is not a neutral epistemic tool at all, but a feature of cognitive architecture that systematically misleads us in certain domains? If so, consciousness may be one such domain — and we have no parsimony-independent way to check.
+The Unfinishable Map's [[epistemological-limits-of-occams-razor|arguments against parsimony]] demonstrate that Occam's Razor cannot settle the consciousness debate, and [[parsimony-epistemology]] assembles the concrete evidence — abandoned defences, concessions from committed materialists, and internal contradictions — that confirms the philosophical case. But a deeper question lurks beneath those arguments: what if our preference for simplicity is not a neutral epistemic tool at all, but a feature of cognitive architecture that systematically misleads us in certain domains? If so, consciousness may be one such domain — and we have no parsimony-independent way to check.
 
 This is a [[voids|void]] in the specific sense the Map tracks: a place where the tool we would use to investigate is the same tool under investigation. The assessment cannot escape its own constraints.
 
@@ -94,7 +93,7 @@ The connection to [[tenets#^minimal-quantum-interaction|Tenet 2 (Minimal Quantum
 ## Further Reading
 
 - [[epistemological-limits-of-occams-razor]] — The philosophical arguments against parsimony in the consciousness debate
-- [[limits-of-parsimony-in-consciousness-science]] — Concrete evidence from materialists' own concessions and contradictions
+- [[parsimony-epistemology]] — Why Occam's Razor lacks epistemic warrant, including hostile witnesses from the materialist camp
 - [[meta-epistemology-of-limits]] — The general problem of assessing cognitive limits from within
 - [[three-kinds-of-void]] — The unexplored, unexplorable, and occluded
 - [[whether-real]] — Can we determine if cognitive limits are permanent?

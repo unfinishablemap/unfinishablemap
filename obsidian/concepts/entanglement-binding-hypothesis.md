@@ -4,7 +4,7 @@ description: "Quantum entanglement may be the only physical mechanism that provi
 created: 2026-03-01
 modified: 2026-03-01
 human_modified:
-ai_modified: 2026-03-20T13:03:00+00:00
+ai_modified: 2026-03-25T01:24:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-01
 last_curated:
-last_deep_review: 2026-03-01T00:36:00+00:00
+last_deep_review: 2026-03-25T01:24:00+00:00
 ---
 
 The Unfinishable Map's treatment of the [[binding-problem|binding problem]] distinguishes two challenges: computational binding (BP1)—how the brain coordinates distributed features—and phenomenal binding (BP2)—why that coordination produces unified experience. Classical mechanisms address BP1 but not BP2, because correlated activity in separate neurons remains activity in separate neurons. The entanglement binding hypothesis proposes that quantum entanglement provides the missing ingredient: genuine physical holism where the whole is prior to and irreducible to its parts, structurally matching what [[unity-of-consciousness|phenomenal unity]] seems to require. Early experimental evidence—including MRI signatures of entanglement correlating with consciousness and microtubule-stabilising drugs delaying anaesthesia—lends preliminary support, though the hypothesis remains contested and replication is needed.
@@ -37,7 +37,7 @@ The core argument is structural rather than empirical. Classical physics cannot 
 
 Quantum entanglement is fundamentally different. When particles become entangled, the composite system enters a state that cannot be decomposed into individual states for each particle. The standard formalism makes this precise: an entangled state cannot be written as a product of individual states. The whole has properties that no part possesses individually. This is not a matter of ignorance—it is a feature of the physics.
 
-Baum's quantum binding argument strengthens this point. Zero-lag gamma synchrony—neural oscillations coordinated with sub-millisecond precision across cortical distances—cannot arise classically without violating relativistic causality. Bell's theorem and loophole-free experiments confirm that non-local correlations of this kind are exclusively quantum phenomena. If zero-lag synchrony is real and functionally relevant to binding, classical frameworks cannot account for it.
+Baum's quantum binding argument strengthens this point. Zero-lag gamma synchrony—neural oscillations coordinated with sub-millisecond precision across cortical distances—has been reported in multiple studies, though its existence remains debated (some attribute the observations to volume conduction or measurement artifacts). If genuine, such synchrony cannot arise classically without violating relativistic causality. Bell's theorem and loophole-free experiments confirm that non-local correlations of this kind are exclusively quantum phenomena. If zero-lag synchrony is real and functionally relevant to binding, classical frameworks cannot account for it.
 
 Hartmut Neven of Google Quantum AI generalises the point: entanglement is "the only true binding agent we have in physics," creating holistic states where individual components are fundamentally interconnected. If phenomenal unity requires genuine holism—the whole being prior to its parts—then entanglement is the only known physical mechanism that provides it.
 
@@ -47,7 +47,7 @@ The most developed quantum binding theory is Penrose and Hameroff's Orchestrated
 
 On this account, binding is not achieved by correlating separate classical processes but by a single quantum state spanning many neurons. The entangled state is already unified before collapse—collapse selects one configuration from the superposition, yielding a definite unified experience. The "orchestration" refers to the brain's role in structuring which microtubule states become entangled, determining the content of each conscious moment.
 
-Hameroff argues that this framework solves both binding and [[concepts/epiphenomenalism|epiphenomenalism]] simultaneously. The quantum state provides unity (solving BP2), and collapse provides causal efficacy (consciousness selects outcomes rather than passively observing them).
+Hameroff argues that this framework solves both binding and [[epiphenomenalism]] simultaneously. The quantum state provides unity (solving BP2), and collapse provides causal efficacy (consciousness selects outcomes rather than passively observing them).
 
 ## Experimental Evidence
 
@@ -98,6 +98,8 @@ The entanglement binding hypothesis aligns with several of the Map's [[tenets]].
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If consciousness operates at quantum indeterminacies as this tenet proposes, entanglement provides the mechanism through which consciousness achieves unified agency. Rather than influencing millions of separate neurons individually, consciousness could interact with a single entangled state spanning many neurons—genuine minimal interaction with maximal unified effect.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Entangled states undergoing collapse provide a natural locus for downward causation. Consciousness selecting among superposed entangled configurations determines which unified neural pattern becomes actual. The unity of the entangled state ensures that this selection is coherent—a single choice producing a single unified outcome, not millions of independent micro-choices.
+
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Quantum consciousness theories are routinely dismissed as "unnecessarily complex." But as [[parsimony-epistemology]] demonstrates, parsimony has no epistemic warrant in the consciousness domain—its preconditions fail simultaneously. If entanglement is genuinely required for phenomenal binding, dismissing it on parsimony grounds means preferring a simpler theory that cannot account for the data.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: The hypothesis requires real collapse. In many-worlds, all possible entangled configurations persist in branching universes, and there is no selection of one unified configuration over another. Phenomenal unity appears indexically definite—*this* unified experience, not a superposition of all possible bindings. Real collapse is necessary for entanglement to do the work the hypothesis assigns it.
 

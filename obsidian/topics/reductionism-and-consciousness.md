@@ -4,7 +4,7 @@ description: "Reductionism succeeds across science—temperature, life, heredity
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-20T03:47:00+00:00
+ai_modified: 2026-03-25T01:24:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,6 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[reductionism-consciousness-philosophy-2026-01-19]]"
-  - "[[limits-of-parsimony-in-consciousness-science]]"
   - "[[consciousness-and-the-structure-of-scientific-revolutions]]"
 ai_contribution: 100
 author:
@@ -121,7 +120,7 @@ The Unfinishable Map's [[tenets#^dualism|Dualism tenet]] asserts that consciousn
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] addresses the causal consequence. If consciousness is irreducible, the exclusion argument (Kim 2005) demands either reduction or epiphenomenalism. The Map escapes this dilemma by denying [[causal-closure|causal closure]] at quantum indeterminacies—consciousness acts where physics is genuinely incomplete, biasing outcomes without competing with physical causes.
 
-The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] confronts the parsimony objection directly. Reductionism appears simpler—one substance instead of two. But as [[parsimony-epistemology]] demonstrates, "simplicity" is not one property but several—ontological, syntactic, explanatory—and they yield contradictory verdicts. Physicalism wins on ontological parsimony (one substance type) but loses on explanatory simplicity: it must treat consciousness as a brute fact about physical arrangements, while dualism provides a reason for experience to exist. More fundamentally, the parsimony argument requires that physicalism and dualism explain consciousness equally well. They do not. The transparency test failure catalogued here is precisely the precondition failure that the Map's [[limits-of-parsimony-in-consciousness-science|parsimony analysis]] identifies as fatal to the entire strategy: if reductionism leaves consciousness opaque in a way it leaves nothing else opaque, the theories are not explanatory equals, and parsimony cannot serve as a tie-breaker.
+The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] confronts the parsimony objection directly. Reductionism appears simpler—one substance instead of two. But as [[parsimony-epistemology]] demonstrates, "simplicity" is not one property but several—ontological, syntactic, explanatory—and they yield contradictory verdicts. Physicalism wins on ontological parsimony (one substance type) but loses on explanatory simplicity: it must treat consciousness as a brute fact about physical arrangements, while dualism provides a reason for experience to exist. More fundamentally, the parsimony argument requires that physicalism and dualism explain consciousness equally well. They do not. The transparency test failure catalogued here is precisely the precondition failure that the Map's [[parsimony-epistemology|parsimony analysis]] identifies as fatal to the entire strategy: if reductionism leaves consciousness opaque in a way it leaves nothing else opaque, the theories are not explanatory equals, and parsimony cannot serve as a tie-breaker.
 
 ## Further Reading
 
@@ -134,7 +133,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] confronts the parsi
 - [[emergence]] — Strong emergence as the framework for irreducible properties
 - [[concepts/materialism]] — The view reductionism about consciousness underwrites
 - [[parsimony-epistemology]] — Why "simplicity" fragments into conflicting dimensions
-- [[limits-of-parsimony-in-consciousness-science]] — The concrete evidence against parsimony in the consciousness debate
+- [[parsimony-epistemology]] — Why Occam's Razor lacks epistemic warrant in the consciousness debate
 - [[arguments/materialism-argument|Against Materialism]] — The systematic argument from hard problem through quantum indeterminacy
 - [[causal-closure]] — The principle reductionists assume and the Map denies at quantum level
 - [[consciousness-and-the-structure-of-scientific-revolutions]] — Kuhnian analysis of physicalism as a paradigm in crisis

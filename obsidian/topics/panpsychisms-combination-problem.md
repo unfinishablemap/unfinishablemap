@@ -4,7 +4,7 @@ description: "The combination problem reveals something fundamental about subjec
 created: 2026-02-15
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-03-20T15:13:00+00:00
+ai_modified: 2026-03-25T01:24:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[quantum-holism-and-phenomenal-unity]]"
   - "[[consciousness-and-the-metaphysics-of-individuation]]"
   - "[[emergence-as-universal-hard-problem]]"
-  - "[[limits-of-parsimony-in-consciousness-science]]"
+  - "[[parsimony-epistemology]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -129,7 +129,7 @@ The combination problem strengthens the Map's position in several ways.
 
 **The interaction problem is differently structured.** Dualism's classic challenge—how do distinct substances causally interact?—is formidable (see [[history-of-the-interaction-problem]]), but it is at least the sort of problem where empirical discoveries about quantum measurement, neural correlates, and [[stapp-quantum-mind|quantum brain models]] could bear on potential answers. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes that consciousness biases quantum indeterminacies—a hypothesis constrained by physics even if not yet directly tested. The combination problem, by contrast, is conceptual: we cannot formulate what it would mean for micro-experiences to merge, regardless of what experiments reveal.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** applies directly. Panpsychism appeared simpler than dualism—one kind of stuff rather than two. But the combination problem demonstrates that apparent simplicity conceals deep complexity. Monism about substance does not yield simplicity about explanation. This is a recurring pattern in consciousness science: [[limits-of-parsimony-in-consciousness-science|parsimony arguments against dualism]] often collapse when their own internal tensions are examined.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** applies directly. Panpsychism appeared simpler than dualism—one kind of stuff rather than two. But the combination problem demonstrates that apparent simplicity conceals deep complexity. Monism about substance does not yield simplicity about explanation. This is a recurring pattern in consciousness science: [[parsimony-epistemology|parsimony arguments against dualism]] often collapse when their own internal tensions are examined.
 
 **Phenomenal unity as primitive.** The Map's framework treats [[unity-of-consciousness|phenomenal unity]] as a feature of consciousness itself, not an achievement of physical combination. The combination problem shows why: if unity cannot be built from parts (whether physical or experiential), it must be intrinsic to consciousness. This aligns with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet—consciousness brings its own unity to the neural processes it influences, rather than borrowing unity from physical organisation. Treating unity as primitive is a genuine philosophical cost—it declines to explain something that seems to demand explanation. But the combination problem shows that every attempt at explanation either smuggles in unexplained unity (phenomenal bonding), relabels emergence (fusionism), or dissolves the phenomenon (eliminating subjects). Accepting primitiveness honestly is preferable to concealing it behind a mechanism that does not actually work.
 
