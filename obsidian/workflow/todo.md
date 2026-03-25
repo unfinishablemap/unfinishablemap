@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write void article on the obviousness void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-obviousness-void-2026-03-23.md. The obviousness void — consciousness appears self-evident yet resists explanation of why it seems obvious. Target section: voids/ (98/100, 2 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-25
-
 ### P2: Cross-review articles related to new epistemology concept page
 - **Type**: cross-review
 - **Notes**: New concept page concepts/epistemology.md created 2026-03-25. Review epistemology-of-first-person-evidence.md and hard-problem-of-consciousness.md for cross-links, consistent terminology, and arguments that the new concept page strengthens. Add [[epistemology]] links where appropriate.
@@ -1406,6 +1400,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Write void article on the obviousness void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-obviousness-void-2026-03-23.md. The obviousness void — consciousness appears self-evident yet resists explanation of why it seems obvious. Target section: voids/ (98/100, 2 slots remaining).
+- **Output**: Write void article on the obviousness void
 
 ### ✓ 2026-03-25: Write void article on the complicity void
 - **Type**: expand-topic
