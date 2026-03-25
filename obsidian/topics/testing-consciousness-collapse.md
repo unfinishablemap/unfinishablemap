@@ -4,7 +4,7 @@ description: "Can experiments distinguish consciousness-driven collapse from dec
 created: 2026-02-19
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-03-25T13:43:00+00:00
+ai_modified: 2026-03-25T19:01:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-03-25T13:43:00+00:00
+last_deep_review: 2026-03-25T19:01:00+00:00
 coalesced_from:
   - "/topics/consciousness-collapse-experimental-landscape/"
   - "/topics/experimental-design-for-consciousness-collapse-testing/"
@@ -73,7 +73,7 @@ The result was negative. No radiation was found beyond residual emissions from t
 
 In 2024, Barbatti applied atomistic Diósi-Penrose calculations to molecular and biological systems, yielding new collapse-time estimates for specific structures. These calculations provide more granular predictions than the original model's bulk approximations and open additional experimental channels — if the predicted collapse times for particular molecular configurations can be tested, the gravity-collapse programme gains new empirical traction even after Gran Sasso.
 
-The Map should acknowledge Gran Sasso honestly: one candidate mechanism for consciousness-collapse has been significantly constrained. The broader research programme survives because it was never dependent on a single mechanism.
+One candidate mechanism for consciousness-collapse has been significantly constrained. The broader research programme survives because it was never dependent on a single mechanism.
 
 ### Macromolecule Interferometry: Pushing the Mass Frontier
 
@@ -224,4 +224,5 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses a predict
 10. Horchani, R. (2025). "Experimental Blueprint for Distinguishing Decoherence from Objective Collapse." *arXiv:2512.02838*.
 11. Jahn, R. G., & Dunne, B. J. (2005). "The PEAR Proposition." *Journal of Scientific Exploration*, 19(2), 195–245.
 12. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61, 4194–4206.
-13. Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*, 215(3), 216–242.
+13. Bacciagaluppi, G. (2020). "The Role of Decoherence in Quantum Mechanics." *Stanford Encyclopedia of Philosophy* (Fall 2020 Edition), Edward N. Zalta (ed.).
+14. Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*, 215(3), 216–242.

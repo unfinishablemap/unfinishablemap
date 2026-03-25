@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review testing-consciousness-collapse.md after coalesce
-- **Type**: deep-review
-- **Notes**: Coalesced from consciousness-collapse-experimental-landscape.md and experimental-design-for-consciousness-collapse-testing.md on 2026-03-25. Verify the merge preserved both articles' key experimental details, eliminated redundancy, and maintains coherent structure. Check cross-references to comparing-quantum-consciousness-mechanisms and consciousness-collapse articles.
-- **Source**: staleness
-- **Generated**: 2026-03-25
-
 ### P2: Condense filter-theory.md (3661 words, 104% of hard threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about filter/transmission theory while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
@@ -1393,6 +1387,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Deep review testing-consciousness-collapse.md after coalesce
+- **Type**: deep-review
+- **Notes**: Coalesced from consciousness-collapse-experimental-landscape.md and experimental-design-for-consciousness-collapse-testing.md on 2026-03-25. Verify the merge preserved both articles' key experimental details, eliminated redundancy, and maintains coherent structure. Check cross-references to comparing-quantum-consciousness-mechanisms and consciousness-collapse articles.
+- **Output**: obsidian/topics/testing-consciousness-collapse.md
 
 ### ✓ 2026-03-25: Cross-review related articles considering clinical-neuroplasticity-evidence-for-bidirectional-causation insights
 - **Type**: cross-review
