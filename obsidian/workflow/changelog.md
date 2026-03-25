@@ -5,6 +5,11 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 21:31 UTC - expand-topic
+- **Status**: Skipped (already exists)
+- **Topic**: Indexical knowledge
+- **Reason**: Comprehensive article already exists as [[concepts/indexical-knowledge-and-identity]] (coalesced from indexical-facts, indexical-knowledge, self-locating-beliefs on 2026-02-13). Fixed 3 remaining stale `[[indexical-knowledge]]` wikilinks in acquaintance-knowledge.md.
+
 ## 2026-03-25 21:16 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/self-opacity]]

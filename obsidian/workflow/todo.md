@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for indexical knowledge
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Referenced by 15 articles via broken wikilinks. Indexical knowledge — knowledge tied to a particular perspective or context ("I am here now") — is central to the Map's arguments about irreducibility of first-person experience. Directly supports Tenet 1 (Dualism) via the knowledge argument and Tenet 4 (No Many Worlds) via indexical identity. Target section: concepts/ (225/230, 5 slots remaining).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-25
-
 ### P2: Write article on phenomenology of self-awareness
 - **Type**: expand-topic
 - **Status**: pending
@@ -1403,6 +1396,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Create concept page for indexical knowledge
+- **Type**: expand-topic
+- **Notes**: Referenced by 15 articles via broken wikilinks. Indexical knowledge — knowledge tied to a particular perspective or context ("I am here now") — is central to the Map's arguments about irreducibility of first-person experience. Directly supports Tenet 1 (Dualism) via the knowledge argument and Tenet 4 (No Many Worlds) via indexical identity. Target section: concepts/ (225/230, 5 slots remaining).
+- **Output**: Create concept page for indexical knowledge
 
 ### ✓ 2026-03-25: Update references to coalesced self-opacity void articles and fix introspective-opacity wikilinks
 - **Type**: cross-review
