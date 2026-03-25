@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-25T15:13:00+00:00
+ai_modified: 2026-03-25T18:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review related articles considering cognitive-phenomenology-and-the-irreducibility-of-thought insights
+- **Type**: cross-review
+- **Notes**: New article topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md created 2026-03-25 via expand-topic. Review cognitive-phenomenology.md, argument-from-reason.md, phenomenal-consciousness.md, hard-problem-of-consciousness.md, and thought-and-consciousness.md for cross-links, reinforcing arguments, or contradictions with the new article's treatment of irreducible thought.
+- **Source**: task_chain
+- **Generated**: 2026-03-25
+
+### P2: Cross-review related articles considering clinical-neuroplasticity-evidence-for-bidirectional-causation insights
+- **Type**: cross-review
+- **Notes**: New article topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md created 2026-03-25 via expand-topic. Review neuroplasticity-and-the-consciousness-interface.md, placebo-effect-and-mental-causation.md, mental-causation.md, and contemplative-neuroscience.md for cross-links and consistency with the new empirical evidence synthesis.
+- **Source**: task_chain
+- **Generated**: 2026-03-25
+
+### P2: Deep review testing-consciousness-collapse.md after coalesce
+- **Type**: deep-review
+- **Notes**: Coalesced from consciousness-collapse-experimental-landscape.md and experimental-design-for-consciousness-collapse-testing.md on 2026-03-25. Verify the merge preserved both articles' key experimental details, eliminated redundancy, and maintains coherent structure. Check cross-references to comparing-quantum-consciousness-mechanisms and consciousness-collapse articles.
+- **Source**: staleness
+- **Generated**: 2026-03-25
+
+### P2: Condense filter-theory.md (3661 words, 104% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about filter/transmission theory while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-25
+
+### P2: Deep review apex/open-question-ai-consciousness.md — new apex article
+- **Type**: deep-review
+- **Notes**: New apex article created or updated 2026-03-25 via apex-evolve. Apex articles serve as high-level synthesis entry points and require careful review for coherence, accuracy of claims across source articles, cross-references, and tenet alignment. Verify the AI consciousness synthesis accurately represents the Map's distinctive position.
+- **Source**: task_chain
+- **Generated**: 2026-03-25
 
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
