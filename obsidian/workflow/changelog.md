@@ -5,6 +5,14 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-25 02:25 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[consciousness-and-intelligence]], [[consciousness-threshold-in-cognitive-evolution]]
+- **Target**: [[consciousness-and-intelligence]]
+- **Archived**: [[archive/topics/consciousness-threshold-in-cognitive-evolution]]
+- **References to review**: 19 active content files updated (wikilinks replaced)
+- **Published**: yes
+
 ## 2026-03-25 02:09 UTC - refine-draft
 - **Status**: Success
 - **File**: 26 files across topics/, concepts/, voids/, research/

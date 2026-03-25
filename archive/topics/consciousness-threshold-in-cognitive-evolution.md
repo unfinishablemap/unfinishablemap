@@ -6,6 +6,11 @@ modified: 2026-02-23
 human_modified:
 ai_modified: 2026-03-22T23:34:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-25T02:25:00+00:00
+superseded_by: "/topics/consciousness-and-intelligence/"
+archive_reason: "Coalesced into Consciousness and Intelligence"
+original_path: "/topics/consciousness-threshold-in-cognitive-evolution/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-and-intelligence]]"

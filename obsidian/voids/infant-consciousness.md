@@ -25,7 +25,7 @@ related_articles:
   - "[[transition-void]]"
   - "[[synesthetic-void]]"
   - "[[three-kinds-of-void]]"
-  - "[[consciousness-threshold-in-cognitive-evolution]]"
+  - "[[consciousness-and-intelligence|consciousness threshold in cognitive evolution]]"
   - "[[compound-failure-signatures]]"
 ai_contribution: 100
 author:
@@ -45,7 +45,7 @@ Alison Gopnik's research reframes infant consciousness as qualitatively differen
 
 This distinction matters because it means the developmental trajectory is not a line from less consciousness to more. It is a transformation from one *kind* of consciousness to another, involving genuine loss alongside gain. The infant's broad, unfocused awareness captures aspects of experience that adult spotlight consciousness systematically excludes. Gopnik compares infant experience to adult altered states — meditation, psychedelic experiences — where attention broadens and the prefrontal executive relaxes. But these comparisons are made from within adult consciousness, which is precisely what makes the original mode inaccessible.
 
-The explore-exploit tradeoff illuminates why evolution produced this arrangement. Childhood is a period of broad hypothesis-space search; adulthood narrows to efficient exploitation of what has been learned. The cognitive flexibility that enables learning in childhood is traded for the focused competence of maturity. The trade is irreversible. The infant-to-adult transition is the within-species analogue of the [[consciousness-threshold-in-cognitive-evolution|evolutionary consciousness threshold]] — both involve qualitative transformation in how consciousness interfaces with neural architecture, and both suggest phase transitions rather than gradual scaling.
+The explore-exploit tradeoff illuminates why evolution produced this arrangement. Childhood is a period of broad hypothesis-space search; adulthood narrows to efficient exploitation of what has been learned. The cognitive flexibility that enables learning in childhood is traded for the focused competence of maturity. The trade is irreversible. The infant-to-adult transition is the within-species analogue of the [[consciousness-and-intelligence|evolutionary consciousness threshold]] — both involve qualitative transformation in how consciousness interfaces with neural architecture, and both suggest phase transitions rather than gradual scaling.
 
 ## Language Transforms Thought
 
@@ -108,7 +108,7 @@ The infant consciousness void connects to all five of the Map's [[tenets]], maki
 - [[transition-void]]
 - [[indexical-void]]
 - [[three-kinds-of-void]]
-- [[consciousness-threshold-in-cognitive-evolution]] — The cross-species analogue: evolutionary phase transitions in how consciousness interfaces with neural architecture
+- [[consciousness-and-intelligence|consciousness threshold in cognitive evolution]] — The cross-species analogue: evolutionary phase transitions in how consciousness interfaces with neural architecture
 - [[compound-failure-signatures]] — Infant consciousness as a paradigm case of superadditive cognitive closure
 - [[voids]]
 
