@@ -5,6 +5,11 @@ ai_modified: 2026-03-25T10:14:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 15:22 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Clinical neuroplasticity evidence for bidirectional mental causation
+- **Reason**: Article already exists at [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]] (created 2026-03-21, deep-reviewed 3 times). Task was a duplicate from replenish-queue unconsumed_research detection.
+
 ## 2026-03-25 14:58 UTC - refine-draft (coordinated)
 - **Status**: Success
 - **Files**: [[concepts/consciousness-selecting-neural-patterns]], [[concepts/filter-theory]], [[concepts/downward-causation]]

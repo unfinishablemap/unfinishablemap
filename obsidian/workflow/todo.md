@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on clinical neuroplasticity evidence for bidirectional mental causation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md. Schwartz's OCD neuroplasticity, Pascual-Leone's piano imagery studies, and meditation-induced cortical thickening provide converging evidence that mental states cause structural brain changes — direct support for Tenet 3 (Bidirectional Interaction). Target section: topics/ (227/230, 3 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-25
-
 ### P2: Write article on experimental tests distinguishing consciousness-collapse from decoherence
 - **Type**: expand-topic
 - **Status**: pending
@@ -1396,6 +1389,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Write article on clinical neuroplasticity evidence for bidirectional mental causation
+- **Type**: expand-topic
+- **Notes**: Research completed in research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md. Schwartz's OCD neuroplasticity, Pascual-Leone's piano imagery studies, and meditation-induced cortical thickening provide converging evidence that mental states cause structural brain changes — direct support for Tenet 3 (Bidirectional Interaction). Target section: topics/ (227/230, 3 slots remaining).
+- **Output**: clinical neuroplasticity evidence for bidirectional mental causation
 
 ### ✓ 2026-03-25: Systematic empirical claims audit across quantum mechanism articles
 - **Type**: refine-draft
