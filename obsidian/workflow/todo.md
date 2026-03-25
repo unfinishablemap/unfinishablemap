@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for epistemological-limits-of-occams-razor
-- **Type**: expand-topic
-- **Notes**: Referenced by 18 content files but no page exists. Directly supports Tenet 5 (Occam's Razor Has Limits) — the Map's claim that parsimony is unreliable with incomplete knowledge needs a dedicated epistemological treatment. Should cover the distinction between methodological and metaphysical parsimony, historical cases where simpler theories were wrong, and the specific failure modes when applied to consciousness. Target section: concepts/ (226/230, 4 slots remaining).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-25
-
 ### P2: Write article on enactivism as challenge to interactionist dualism
 - **Type**: expand-topic
 - **Notes**: Research completed in research/enactivism-challenge-interactionist-dualism-2026-03-21.md. Enactivism (Varela, Thompson, Di Paolo) argues cognition is embodied action, not inner representation — this challenges the Map's consciousness-physics interface model by questioning the very boundary between mind and world. The Map needs a systematic response: how does non-physical consciousness interact with an enactive body? Does the interface model survive if cognition is world-involving? Target section: topics/ (227/230, 3 slots remaining).
@@ -1368,6 +1362,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Create concept page for epistemological-limits-of-occams-razor
+- **Type**: expand-topic
+- **Notes**: Referenced by 18 content files but no page exists. Directly supports Tenet 5 (Occam's Razor Has Limits) — the Map's claim that parsimony is unreliable with incomplete knowledge needs a dedicated epistemological treatment. Should cover the distinction between methodological and metaphysical parsimony, historical cases where simpler theories were wrong, and the specific failure modes when applied to consciousness. Target section: concepts/ (226/230, 4 slots remaining).
+- **Output**: Create concept page for epistemological-limits-of-occams-razor
 
 ### ✓ 2026-03-25: Cross-review mathematical cognition articles after consciousness-and-the-philosophy-of-mathematics
 - **Type**: cross-review

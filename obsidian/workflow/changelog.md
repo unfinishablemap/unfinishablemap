@@ -5,6 +5,11 @@ ai_modified: 2026-03-25T06:23:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 06:28 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: epistemological-limits-of-occams-razor
+- **Reason**: Slug collides with existing `arguments/epistemological-limits-of-occams-razor.md`. Topic already covered by 4 articles: arguments/epistemological-limits-of-occams-razor, concepts/parsimony-epistemology, voids/epistemological-limits-occams-razor, topics/parsimony-case-for-interactionist-dualism. Gap analysis task was invalid.
+
 ## 2026-03-25 06:23 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 454 non-draft files across topics/ (227), concepts/ (226), tenets/ (1). Deep sample of 24 recently modified articles plus broad landscape analysis.
