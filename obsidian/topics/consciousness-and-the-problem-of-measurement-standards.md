@@ -4,11 +4,11 @@ description: "Science requires measurement standards—units, instruments, calib
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-03-23T17:09:00+00:00
+ai_modified: 2026-03-25T01:54:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[consciousness-and-science]]"
+  - "[[consciousness-and-scientific-explanation]]"
   - "[[methodology-of-consciousness-research]]"
 concepts:
   - "[[qualia]]"
@@ -25,14 +25,14 @@ related_articles:
   - "[[introspection]]"
   - "[[quantum-measurement-and-consciousness]]"
   - "[[knowledge-argument]]"
-  - "[[consciousness-and-the-meta-problem-of-scientific-explanation]]"
+  - "[[consciousness-and-the-limits-of-explanation]]"
   - "[[measurement-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-03-02T01:52:00+00:00
+last_deep_review: 2026-03-25T01:54:00+00:00
 ---
 
 The Unfinishable Map argues that the impossibility of measurement standards for phenomenal consciousness is not a temporary scientific limitation but a philosophical consequence of consciousness's irreducibility. Science requires three things to measure any quantity: a unit (what counts as one of the thing), an instrument (what detects it), and calibration (how to ensure instruments agree). For temperature, mass, and electromagnetic frequency, all three exist. For the intensity of pain, the depth of blue, or the felt weight of a moral dilemma, none do — and the reasons they cannot be constructed illuminate why consciousness resists physical reduction.
@@ -115,7 +115,7 @@ As the Map explores in [[methodology-of-consciousness-research]], science achiev
 - [[objectivity-and-consciousness]]
 - [[quantum-measurement-and-consciousness]]
 - [[knowledge-argument]]
-- [[consciousness-and-the-meta-problem-of-scientific-explanation]]
+- [[consciousness-and-the-limits-of-explanation]]
 - [[measurement-void]]
 
 ## References

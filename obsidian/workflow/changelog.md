@@ -5,6 +5,15 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-25 01:54 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-problem-of-measurement-standards]]
+- **Word count**: 2106 → 2106 (+0)
+- **Critical issues addressed**: 2 (broken wikilink `consciousness-and-science`, stale wikilink to archived `consciousness-and-the-meta-problem-of-scientific-explanation`)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-03-25-consciousness-and-the-problem-of-measurement-standards]]
+
 ## 2026-03-25 01:40 UTC - refine-draft
 - **Status**: Success
 - **File**: 62 files across topics/, concepts/, apex/, voids/
