@@ -4,7 +4,7 @@ description: "If consciousness participates in quantum outcomes, quantum mechani
 created: 2026-03-14
 modified: 2026-03-14
 human_modified: null
-ai_modified: 2026-03-23T16:45:00+00:00
+ai_modified: 2026-03-25T04:23:00+00:00
 last_deep_review: 2026-03-14T20:43:00+00:00
 draft: false
 topics:
@@ -118,7 +118,7 @@ The Born rule tells consciousness what it has to work with: the relative weights
 
 This reinterpretation has consequences:
 
-**The Born rule is not fully explained by physics alone.** Gleason's theorem shows that the Born rule is the *unique* probability measure consistent with the Hilbert space structure—a genuine and important mathematical result. Deutsch-Wallace decision theory and Zurek's envariance provide further internal derivations. These succeed as proofs that the Born rule is the only coherent probability assignment *given* the quantum formalism. But if the rule describes the interface between two ontological domains—the physical and the conscious—then these derivations explain its mathematical necessity without explaining its ontological ground: *why* this particular interface structure exists at all.
+**The Born rule is not fully explained by physics alone.** Gleason's theorem shows that the Born rule is the *unique* probability measure consistent with the Hilbert space structure—a genuine and important mathematical result. Deutsch-Wallace decision theory and Zurek's envariance provide further internal derivations. These succeed as proofs that the Born rule is the only coherent probability assignment *given* the quantum formalism. But as the [[born-rule-and-the-consciousness-interface|comprehensive analysis of derivation failures]] demonstrates, every strategy — across hidden-variable, objective-collapse, retrocausal, categorical, and gravitational frameworks — either postulates the Born rule, assumes it in disguised form, or relocates it to another assumption. If the rule describes the interface between two ontological domains—the physical and the conscious—then these derivations explain its mathematical necessity without explaining its ontological ground: *why* this particular interface structure exists at all.
 
 **The specific mathematical form may encode interface constraints.** Why squared amplitudes? Why not cubed, or linear? If the Born rule is an interface specification, its form reflects constraints on how consciousness can couple to physical possibility. Just as the speed of light constrains how matter can couple to spacetime, the Born rule may constrain how consciousness can couple to quantum indeterminacy. The specific form—squaring the amplitude—might encode something about the nature of consciousness-physics coupling that we do not yet understand.
 

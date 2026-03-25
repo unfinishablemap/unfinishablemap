@@ -5,6 +5,15 @@ ai_modified: 2026-03-25T03:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-25 04:23 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/born-rule-interpretation-invariance-consciousness]] (archived → successor: [[topics/born-rule-and-the-consciousness-interface]])
+- **Word count**: 3590 → 3590 (+0, successor unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status — 6 inbound cross-links added)
+- **Enhancements made**: 6 cross-references from other articles (what-consciousness-tells-us-about-physics, interface-formalization-void, stapp-quantum-mind, indexical-identity-quantum-measurement, interactionist-dualism, conservation-laws-and-mental-causation)
+- **Output**: [[reviews/deep-review-2026-03-25-born-rule-interpretation-invariance-consciousness]]
+
 ## 2026-03-25 04:09 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/consciousness-and-the-philosophy-of-mathematics]]

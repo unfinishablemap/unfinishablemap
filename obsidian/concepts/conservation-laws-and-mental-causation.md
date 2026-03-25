@@ -4,7 +4,7 @@ description: "Does mental causation violate energy conservation? No — conserva
 created: 2026-01-23
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-03-24T01:14:00+00:00
+ai_modified: 2026-03-25T04:23:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -79,7 +79,7 @@ Even granting that conservation holds in neural systems, a second response is av
 
 ### The Causal Gap at Measurement
 
-Quantum mechanics describes systems in superposition — simultaneously in multiple states. Upon measurement, the superposition "collapses" to a single definite outcome. The Born rule gives probabilities for each outcome, but physics doesn't explain *why* one particular outcome occurs.
+Quantum mechanics describes systems in superposition — simultaneously in multiple states. Upon measurement, the superposition "collapses" to a single definite outcome. The [[born-rule-and-the-consciousness-interface|Born rule]] gives probabilities for each outcome, but physics doesn't explain *why* one particular outcome occurs — and no quantum interpretation derives the rule without presupposing observers or probability.
 
 Standard physics leaves this unspecified — the [[measurement-problem]] remains unsolved. Whether this constitutes a "causal gap" requiring a determiner, or simply irreducible indeterminacy with no further explanation possible, is itself contested. The selection framework proposes the former; instrumentalists about quantum mechanics may deny that any explanation is needed.
 

@@ -4,7 +4,7 @@ description: "Why does *this* consciousness experience *this* outcome? The index
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-03-23T04:06:00+00:00
+ai_modified: 2026-03-25T04:23:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -122,7 +122,7 @@ The indexical gap has implications for understanding what quantum probabilities 
 
 **Indexical reading**: Born probabilities describe the relationship between *this* consciousness and possible outcomes—not "probability that spin-up occurs" but "probability that *I* experience spin-up." The first-person perspective becomes constitutive of what probability means.
 
-The indexical reading makes explicit what the indexical gap reveals: standard interpretations either ignore the first-person perspective entirely (objective reading, relational QM) or presuppose it without explanation (QBism, consciousness-collapse). The indexical reading builds the first-person perspective into the foundations.
+The indexical reading makes explicit what the indexical gap reveals: standard interpretations either ignore the first-person perspective entirely (objective reading, relational QM) or presuppose it without explanation (QBism, consciousness-collapse). The indexical reading builds the first-person perspective into the foundations. The [[born-rule-and-the-consciousness-interface|interpretation-invariance of Born rule derivation failures]] strengthens this point: across every quantum framework, the rule's justification presupposes an observer who encounters outcomes.
 
 This connects directly to [[haecceity]]. If Born probabilities describe probabilities for *this* particular subject, they invoke the primitive thisness that distinguishes this consciousness from any other qualitatively identical one. Haecceity isn't merely relevant to the indexical gap—it may be what Born probabilities ultimately describe.
 
