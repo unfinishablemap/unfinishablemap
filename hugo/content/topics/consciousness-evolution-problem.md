@@ -71,7 +71,7 @@ The consciousness-evolution problem takes different forms depending on one's sta
 
 **For the epiphenomenalist**: If consciousness is causally inert, it cannot be selected at all. It exists as a byproduct of neural processes that *were* selected. This dissolves the problem by denying that consciousness needs evolutionary explanation—but at the cost of making the systematic correlation between consciousness and adaptive behaviour a cosmic coincidence. The [evolutionary case for mental causation](/topics/evolutionary-case-for-mental-causation/) argues this cost is too high.
 
-**For the dualist**: If consciousness is non-physical and causally efficacious, it contributes to fitness and can be selected. But the mechanism of this contribution remains obscure. How does non-physical experience influence physical behaviour in ways that selection can track? The Map's answer invokes [quantum interaction](/tenets/#minimal-quantum-interaction)—consciousness biasing otherwise indeterminate neural outcomes—but the consciousness-evolution problem persists at a deeper level: why does this particular arrangement of non-physical and physical properties exist?
+**For the dualist**: If consciousness is non-physical and causally efficacious, it contributes to fitness and can be selected. But the mechanism of this contribution remains obscure. How does non-physical experience influence physical behaviour in ways that selection can track? The Map's answer invokes [quantum interaction](/tenets/#minimal-quantum-interaction)—consciousness biasing otherwise indeterminate neural outcomes. The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) argues this mechanism is not exotic but follows the same selective logic that produced quantum magnetoreception in birds and quantum tunnelling in enzymes. Still, the consciousness-evolution problem persists at a deeper level: why does this particular arrangement of non-physical and physical properties exist?
 
 ## Why Functional Explanation Falls Short
 
@@ -163,6 +163,7 @@ The consciousness-evolution problem connects to every one of the Map's tenets.
 - [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/) — The case for strong emergence and the quantum mechanism
 - [consciousness-and-the-philosophy-of-biology](/topics/consciousness-and-the-philosophy-of-biology/) — How biology's conceptual toolkit struggles with consciousness
 - [evolution-under-dualism](/topics/evolution-under-dualism/) — How evolution works if consciousness is non-physical
+- [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/) — Why evolutionary logic makes quantum neural effects probable
 - [biological-teleology-and-the-interface-framework](/topics/biological-teleology-and-the-interface-framework/) — Teleological explanation and the interface model
 - [causal-closure](/concepts/causal-closure/) — The causal closure principle and its limits
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness matters for evolution: without experience, nothing has value

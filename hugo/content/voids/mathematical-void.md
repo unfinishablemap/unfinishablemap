@@ -25,6 +25,7 @@ related_articles:
 - '[[incompleteness-void]]'
 - '[[apophatic-approaches]]'
 - '[[mathematical-truth-and-conscious-access]]'
+- '[[consciousness-and-the-philosophy-of-mathematics]]'
 title: The Mathematical Void
 topics:
 - '[[philosophy-of-mind]]'
@@ -161,6 +162,7 @@ Current evidence suggests none of these obtains. The mathematical void persists 
 - [Computational Cognitive Limits](/voids/computational-cognitive-limits/) — Turing, Gödel, and formal boundaries
 - [Conceptual Impossibility](/voids/conceptual-impossibility/) — Thoughts that cannot form at all
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
+- [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) — How each philosophy of mathematics implies a position on consciousness
 - [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — Physical reality's hidden character
 
 ## References

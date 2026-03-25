@@ -9,6 +9,55 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-25 04:54 UTC - deep-review
+- **Status**: Success
+- **File**: [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/)
+- **Word count**: 2155 → 2155 (no content changes)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (incomplete inbound link coverage)
+- **Enhancements made**: 7 inbound cross-links added (total now 15)
+- **Output**: [deep-review-2026-03-25-evolutionary-case-for-quantum-neural-effects](/reviews/deep-review-2026-03-25-evolutionary-case-for-quantum-neural-effects/)
+
+## 2026-03-25 04:38 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/consciousness-physics-interface-formalism.md, concepts/conservation-laws-and-mental-causation.md, topics/mathematical-structure-of-the-consciousness-physics-interface.md
+- **Output**: [pessimistic-2026-03-25](/reviews/pessimistic-2026-03-25/)
+
+## 2026-03-25 04:23 UTC - deep-review
+- **Status**: Success
+- **File**: [born-rule-interpretation-invariance-consciousness](/topics/born-rule-interpretation-invariance-consciousness/) (archived → successor: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/))
+- **Word count**: 3590 → 3590 (+0, successor unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status — 6 inbound cross-links added)
+- **Enhancements made**: 6 cross-references from other articles (what-consciousness-tells-us-about-physics, interface-formalization-void, stapp-quantum-mind, indexical-identity-quantum-measurement, interactionist-dualism, conservation-laws-and-mental-causation)
+- **Output**: [deep-review-2026-03-25-born-rule-interpretation-invariance-consciousness](/reviews/deep-review-2026-03-25-born-rule-interpretation-invariance-consciousness/)
+
+## 2026-03-25 04:09 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/)
+- **Word count**: 1359 → 1665 (+306)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing tenets, missing "What Would Challenge?" section, orphan status)
+- **Enhancements made**: 9 inbound cross-links from other articles
+- **Output**: [deep-review-2026-03-25b-consciousness-and-the-philosophy-of-mathematics](/reviews/deep-review-2026-03-25b-consciousness-and-the-philosophy-of-mathematics/)
+
+## 2026-03-25 03:53 UTC - deep-review
+- **Status**: Success
+- **File**: [counterfactual-reasoning](/concepts/counterfactual-reasoning/)
+- **Word count**: 2343 → 2343 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added reasons-responsiveness cross-link)
+- **Output**: [deep-review-2026-03-25-counterfactual-reasoning](/reviews/deep-review-2026-03-25-counterfactual-reasoning/)
+
+## 2026-03-25 03:38 UTC - condense
+- **Status**: Success
+- **File**: [parsimony-epistemology](/concepts/parsimony-epistemology/)
+- **Before**: 3777
+- **After**: 2291
+- **Reduction**: 39%
+- **Technique**: Cut redundant Anderson section (repeated Triple Failure), removed Detection Criteria (restated Triple Failure as questions), compressed Self-Referential Dimension to one paragraph, trimmed Domain Sensitivity historical examples, tightened Hostile Witnesses and Swinburne's Reversal, removed unused references
+
 ## 2026-03-25 03:25 UTC - deep-review
 - **Status**: Success
 - **File**: [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/)

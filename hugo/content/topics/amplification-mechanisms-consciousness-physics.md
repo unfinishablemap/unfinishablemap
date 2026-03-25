@@ -43,7 +43,7 @@ If consciousness biases quantum-indeterminate outcomes in the brain—as The Unf
 
 The problem is scale. Quantum events operate on femtosecond timescales (10⁻¹⁵ seconds) and subnanometre spatial scales. Neural processes operate on millisecond timescales and span centimetres. Between these extremes lie molecular dynamics, ion channel gating, neurotransmitter release, cellular threshold crossings, and network-level pattern formation. Each level has its own dynamics, its own noise characteristics, and its own forms of opacity. An amplification mechanism must bridge not one gap but several, passing through molecular, cellular, and network regimes.
 
-The challenge is sharpened by decoherence. Tegmark (2000) calculated decoherence times for neural quantum coherence at 10⁻¹³ to 10⁻²⁰ seconds—far shorter than neural processing timescales. Any quantum influence must either act within these windows or find a way around the decoherence barrier. The six mechanisms below take different approaches to this constraint.
+The challenge is sharpened by decoherence. Tegmark (2000) calculated decoherence times for neural quantum coherence at 10⁻¹³ to 10⁻²⁰ seconds—far shorter than neural processing timescales. Any quantum influence must either act within these windows or find a way around the decoherence barrier. The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) argues that evolution would have specifically optimised neural architecture to support quantum amplification—just as it optimised protein geometry to protect quantum coherence in magnetoreception and enzyme catalysis. The six mechanisms below take different approaches to this constraint.
 
 ## Six Proposed Mechanisms
 
@@ -129,6 +129,7 @@ The **[No Many Worlds](/tenets/#no-many-worlds)** tenet constrains which mechani
 - [decoherence](/concepts/decoherence/) — The decoherence objection and responses
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — How consciousness selects which quantum possibilities become actual
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — Head-to-head evaluation of Orch OR, Stapp, Fisher, and CSL hybrids
+- [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/) — Why evolutionary logic makes quantum neural effects probable
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: the reverse inference from consciousness to physics
 
 ## References

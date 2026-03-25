@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-25 02:54:00+00:00
+ai_modified: 2026-03-25 05:08:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,28 +38,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense parsimony-epistemology.md (3777 words, 108% of hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Recently created via coalesce (2026-03-25) from limits-of-parsimony-in-consciousness-science.md and related content. Preserve core arguments about parsimony's limits in consciousness science while removing redundancy from the merge. See /condense skill.
-- **Source**: length_analysis
+### P2: Fix broken [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) wikilinks (11 files)
+- **Type**: refine-draft
+- **Notes**: 11 content files reference [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) but no page with that slug exists. The existing [parsimony-epistemology](/concepts/parsimony-epistemology/) covers similar ground (Tenet 5: Occam's Razor Has Limits). Investigate whether to redirect these wikilinks to parsimony-epistemology, or create an alias/redirect page. Ensure all 11 references resolve correctly after the fix.
+- **Source**: gap_analysis
 - **Generated**: 2026-03-25
 
-### P2: Integrate consciousness-and-the-philosophy-of-mathematics.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File created 2026-03-25 via expand-topic, has no inbound links. Add cross-references from related articles including mathematical-truth-and-conscious-access, consciousness-and-mathematical-cognition, mathematical-void, and other philosophy-of-mathematics articles.
-- **Source**: orphan_integration
+### P2: Fix broken [many-worlds-argument](/arguments/many-worlds-argument/) and [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/) wikilinks (16 files)
+- **Type**: refine-draft
+- **Notes**: 9 files reference [many-worlds-argument](/arguments/many-worlds-argument/) (no such page; [many-worlds](/concepts/many-worlds/) exists) and 7 files reference [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/) (no such page; [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) and [epiphenomenalism](/concepts/epiphenomenalism/) exist). Both are tenet-critical references (Tenet 4: No Many Worlds; Tenet 3: Bidirectional Interaction vs epiphenomenalism). Update each wikilink to point to the correct existing article, or create dedicated argument pages if the existing articles don't cover the specific argumentative content referenced.
+- **Source**: gap_analysis
 - **Generated**: 2026-03-25
 
-### P2: Integrate born-rule-interpretation-invariance-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File created 2026-03-24 via expand-topic, has no inbound links. Add cross-references from born-rule-and-the-consciousness-interface, consciousness-and-probability-interpretation, comparing-quantum-consciousness-mechanisms, and other quantum consciousness articles.
-- **Source**: orphan_integration
+### P2: Fix broken [intentionality](/concepts/intentionality/#phenomenal-intentionality-theory) section anchors (22 files)
+- **Type**: refine-draft
+- **Notes**: 22 content files link to [intentionality](/concepts/intentionality/#phenomenal-intentionality-theory) but this section anchor may not exist or may have a different heading. Verify the intentionality.md article structure — if the heading exists, check the exact anchor format; if it doesn't, either add the section or update all 22 wikilinks to the correct anchor. This is the highest-frequency broken section-anchor link on the site.
+- **Source**: gap_analysis
 - **Generated**: 2026-03-25
 
-### P2: Integrate evolutionary-case-for-quantum-neural-effects.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File created 2026-03-23 via expand-topic, has no inbound links. Add cross-references from quantum-biology, consciousness-selecting-neural-patterns, brain-specialness-boundary, and other articles discussing evolutionary arguments for quantum effects in neural systems.
-- **Source**: orphan_integration
+### P2: Cross-review mathematical cognition articles after consciousness-and-the-philosophy-of-mathematics
+- **Type**: cross-review
+- **Notes**: New concept page [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) created 2026-03-25 via expand-topic. Cross-review related articles for opportunities to add inbound links and strengthen arguments: [mathematical-truth-and-conscious-access](/topics/mathematical-truth-and-conscious-access/), [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/), [mathematical-knowledge-and-insight](/topics/mathematical-truth-and-conscious-access/), and [born-rule-interpretation-invariance-consciousness](/topics/born-rule-and-the-consciousness-interface/) (recently deep-reviewed). Check for cross-links, shared arguments, and terminology consistency.
+- **Source**: chain (from consciousness-and-the-philosophy-of-mathematics.md)
+- **Generated**: 2026-03-25
+
+### P3: Write concept page for neuroscience of deliberate practice
+- **Type**: expand-topic
+- **Notes**: [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-skill-acquisition/) is referenced in 3 content files but no page exists. The intersection of deliberate practice research (Ericsson) with the Map's interface model — how sustained conscious effort physically restructures neural pathways — is direct evidence for Tenet 3 (Bidirectional Interaction). Target section: concepts/ (225/230, 5 slots remaining).
+- **Source**: gap_analysis
 - **Generated**: 2026-03-25
 
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
@@ -88,6 +94,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Lowe's substance causation framework appears across agent-causation, interactionist-dualism, and consciousness-and-agency apex but has no dedicated page. Would ground the recurring claim that agent-to-event causation isn't metaphysically exceptional. Target section: concepts/. See optimistic-2026-03-25.md
 - **Source**: optimistic-review
+- **Generated**: 2026-03-25
+
+### P3: Address falsifiability and citation issues in consciousness-physics interface articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found two high-severity issues: (1) Pati (2026) arXiv:2601.13012 citation bears significant argumentative weight but may be an unverified preprint — verify and note status; (2) the selection framework concedes potential unfalsifiability without adequate recovery — either commit to a testable mechanism (Chalmers-McQueen Φ-dependent collapse) or explicitly frame as metaphysical. Also: tighten Noether conditionality language, acknowledge presupposition of realist QM interpretation, and check equiprobable-outcomes energy assumption. See pessimistic-2026-03-25.md
+- **Source**: pessimistic-review
 - **Generated**: 2026-03-25
 
 ### P3: Add citation for meditation efficacy claim in epiphenomenalism.md
@@ -1350,6 +1363,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Integrate evolutionary-case-for-quantum-neural-effects.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-23 via expand-topic, has no inbound links. Add cross-references from quantum-biology, consciousness-selecting-neural-patterns, brain-specialness-boundary, and other articles discussing evolutionary arguments for quantum effects in neural systems.
+- **Output**: obsidian/topics/evolutionary-case-for-quantum-neural-effects.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-25: Integrate born-rule-interpretation-invariance-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-24 via expand-topic, has no inbound links. Add cross-references from born-rule-and-the-consciousness-interface, consciousness-and-probability-interpretation, comparing-quantum-consciousness-mechanisms, and other quantum consciousness articles.
+- **Output**: born-rule-interpretation-invariance-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-25: Integrate consciousness-and-the-philosophy-of-mathematics.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-25 via expand-topic, has no inbound links. Add cross-references from related articles including mathematical-truth-and-conscious-access, consciousness-and-mathematical-cognition, mathematical-void, and other philosophy-of-mathematics articles.
+- **Output**: obsidian/concepts/consciousness-and-the-philosophy-of-mathematics.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-25: Condense parsimony-epistemology.md (3777 words, 108% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Recently created via coalesce (2026-03-25) from limits-of-parsimony-in-consciousness-science.md and related content. Preserve core arguments about parsimony's limits in consciousness science while removing redundancy from the merge. See /condense skill.
+- **Output**: obsidian/concepts/parsimony-epistemology.md
 
 ### ✓ 2026-03-25: Cross-review consciousness-and-mathematical-cognition.md considering consciousness-and-the-philosophy-of-mathematics concept page
 - **Type**: cross-review

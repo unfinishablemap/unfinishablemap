@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-25 01:40:00+00:00
+ai_modified: 2026-03-25 04:23:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -61,7 +61,7 @@ Stapp proposes that neural firing patterns exist in superposition until "observe
 
 The key insight: consciousness doesn't *generate* neural patterns—it *selects* among patterns the brain presents. This represents basis control (choosing which question to ask) combined with timing control (determining when observation occurs)—two of the three [coupling-modes](/concepts/coupling-modes/) by which consciousness might influence quantum outcomes. As a forward-in-time mechanism, the Zeno model is one of three [non-retrocausal conscious selection](/topics/non-retrocausal-conscious-selection-models/) frameworks the Map develops.
 
-Crucially, the mechanism satisfies both [conservation laws](/concepts/conservation-laws-and-mental-causation/) and [observational-closure](/concepts/observational-closure/). Consciousness shapes which possibility actualises without adding energy, and the aggregate statistics remain indistinguishable from Born-rule predictions. This addresses the classical objection to dualism: at quantum indeterminacies, physics leaves outcomes undetermined. Consciousness biases the outcome without competing with physical causes. The physical causes are *necessary but not sufficient*; consciousness provides the sufficiency.
+Crucially, the mechanism satisfies both [conservation laws](/concepts/conservation-laws-and-mental-causation/) and [observational-closure](/concepts/observational-closure/). Consciousness shapes which possibility actualises without adding energy, and the aggregate statistics remain indistinguishable from [Born-rule](/topics/born-rule-and-the-consciousness-interface/) predictions. This addresses the classical objection to dualism: at quantum indeterminacies, physics leaves outcomes undetermined. Consciousness biases the outcome without competing with physical causes. The physical causes are *necessary but not sufficient*; consciousness provides the sufficiency.
 
 Among [proposed coupling mechanisms](/concepts/psychophysical-laws/), Stapp's model is the most developed, satisfying all three criteria for scientific adequacy: *precision*, *mechanism*, and *falsifiability*. See the linked article for comparative analysis with Eccles and other proposals.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-03-18 06:44:00+00:00
+ai_modified: 2026-03-25 04:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -62,7 +62,7 @@ Masanes, Galley, and Müller demonstrated in 2019 that the Born rule is not mere
 
 This uniqueness has a striking implication for the interface. If consciousness acts at measurement—biasing which outcome actualises from among quantum possibilities—it must preserve the Born rule's statistical structure. Consciousness cannot alter probabilities without destroying quantum mechanics' consistency. Tonetto's analysis identifies the remaining gap precisely: quantum mechanics provides "statistical closure with outcome-level openness." The probability *distribution* is fixed; which *specific outcome* actualises is not determined by the formalism. (The [mathematical structure of this corridor](/topics/mathematical-structure-of-the-consciousness-physics-interface/) is explored in detail elsewhere on the Map, and the [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) defines the three formal components — state spaces E and P, coupling map C — along with five non-negotiable constraints any interface must satisfy.)
 
-The Born rule thus marks a structural ceiling. Mathematics describes the statistical envelope perfectly. But the actualisation event—the moment where one outcome becomes real from among the possibilities—is exactly where the formalism falls silent. The Born rule describes the *structure around* the interface without describing the interface itself. It is the closest mathematics can approach without crossing into the territory of actuality.
+The Born rule thus marks a structural ceiling. Mathematics describes the statistical envelope perfectly. But the actualisation event—the moment where one outcome becomes real from among the possibilities—is exactly where the formalism falls silent. The Born rule describes the *structure around* the interface without describing the interface itself. It is the closest mathematics can approach without crossing into the territory of actuality. The [interpretation-invariance of this ceiling](/topics/born-rule-and-the-consciousness-interface/) — no quantum interpretation, from Bohmian mechanics to categorical approaches, derives the Born rule without presupposing observers or probability — reinforces its status as a principled limit rather than a technical gap.
 
 ## Why More Mathematics Cannot Help
 

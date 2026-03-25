@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-03-25 01:40:00+00:00
+ai_modified: 2026-03-25 03:53:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,6 +15,7 @@ concepts:
 - '[[episodic-memory]]'
 - '[[prospective-memory]]'
 - '[[consciousness-and-creativity]]'
+- '[[reasons-responsiveness]]'
 created: 2026-01-28
 date: &id001 2026-01-28
 description: Counterfactual reasoning imagines what could have been or might be. Strongly
@@ -23,7 +24,7 @@ description: Counterfactual reasoning imagines what could have been or might be.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-01 06:54:00+00:00
+last_deep_review: 2026-03-25 03:53:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -91,7 +92,7 @@ Counterfactual reasoning bears directly on [free will](/topics/free-will/). Libe
 
 Each step involves counterfactual reasoning. Without the capacity to represent "what would happen if I chose X," genuine deliberation becomes impossible. You would be restricted to what the [baseline cognition](/concepts/baseline-cognition/) framework calls the "zone of latent solutions"—recombining existing patterns without generating genuinely novel possibilities.
 
-The [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) reveals this counterfactual structure. Deliberating feels like holding multiple possibilities open, exploring their implications, and then settling on one. The felt sense of alternatives collapsing to actuality—one becoming real while others fade to mere counterfactuals—is central to the experience of choosing. This phenomenology supports *reasons-responsiveness*: we choose *for* reasons by evaluating how counterfactual outcomes align with what matters to us.
+The [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) reveals this counterfactual structure. Deliberating feels like holding multiple possibilities open, exploring their implications, and then settling on one. The felt sense of alternatives collapsing to actuality—one becoming real while others fade to mere counterfactuals—is central to the experience of choosing. This phenomenology supports *[reasons-responsiveness](/concepts/reasons-responsiveness/)*: we choose *for* reasons by evaluating how counterfactual outcomes align with what matters to us.
 
 ### Agent Causation and Counterfactual Selection
 

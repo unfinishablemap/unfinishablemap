@@ -56,6 +56,7 @@ related_articles:
 - '[[phenomenology-of-recursive-thought]]'
 - '[[phenomenology-of-anticipation]]'
 - '[[topics/phenomenal-value-realism]]'
+- '[[consciousness-and-the-philosophy-of-mathematics]]'
 - '[[resonance-void]]'
 title: The Phenomenology of Understanding and Meaning
 topics:

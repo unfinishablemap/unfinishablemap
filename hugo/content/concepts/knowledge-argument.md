@@ -33,6 +33,7 @@ related_articles:
 - '[[aesthetics-and-consciousness]]'
 - '[[epistemology-of-first-person-evidence]]'
 - '[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]'
+- '[[consciousness-and-the-philosophy-of-mathematics]]'
 title: The Knowledge Argument (Mary's Room)
 topics:
 - '[[hard-problem-of-consciousness]]'

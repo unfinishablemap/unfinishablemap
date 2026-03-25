@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-24 13:33:00+00:00
+ai_modified: 2026-03-25 04:23:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -135,7 +135,7 @@ Quantum mechanics describes systems in superposition until measured. What causes
 
 **Orchestrated Objective Reduction (Orch OR)**: Penrose and Hameroff propose consciousness originates in quantum computations within microtubules, with collapse events constituting conscious experience itself.
 
-Both proposals share what the Map requires: consciousness biasing otherwise indeterminate outcomes without violating physical law. The [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) defines the formal requirements any such proposal must meet: an experiential state space, a physical state space, and a coupling map satisfying five constraints from quantum foundations (Born rule preservation, inner product invariance, no-signalling, second-order interference only, and conservation law compatibility). [Lucid dreaming](/topics/lucid-dreaming-and-dualist-rendering/) provides phenomenological evidence for this kind of biasing — the dreamer's conscious intentions reshape neural activity in real time, with the degree of control varying in ways consistent with selection within physical constraints.
+Both proposals share what the Map requires: consciousness biasing otherwise indeterminate outcomes without violating physical law. The [Born rule's resistance to derivation](/topics/born-rule-and-the-consciousness-interface/) across every quantum interpretation — from hidden-variable to categorical approaches — supports this picture: the rule encodes the consciousness-physics interface rather than being a purely physical law. The [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) defines the formal requirements any such proposal must meet: an experiential state space, a physical state space, and a coupling map satisfying five constraints from quantum foundations (Born rule preservation, inner product invariance, no-signalling, second-order interference only, and conservation law compatibility). [Lucid dreaming](/topics/lucid-dreaming-and-dualist-rendering/) provides phenomenological evidence for this kind of biasing — the dreamer's conscious intentions reshape neural activity in real time, with the degree of control varying in ways consistent with selection within physical constraints.
 
 ## Selection, Biasing, and Falsifiability
 
@@ -197,7 +197,7 @@ Interactionism predicts exactly what [NCC research](/concepts/neural-correlates-
 
 ### Evolutionary Compatibility
 
-The [evolution of consciousness](/concepts/evolution-of-consciousness/) poses no special problem. What evolved was neural architecture that allows consciousness to *interface* with physical processes. This resolves a puzzle for materialists: how can selection favour phenomenal experience if consciousness is inert? The Map's answer: consciousness *does* affect outcomes (Bidirectional Interaction tenet), so selection acts on it directly.
+The [evolution of consciousness](/concepts/evolution-of-consciousness/) poses no special problem. What evolved was neural architecture that allows consciousness to *interface* with physical processes. The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) strengthens this: if evolution optimised quantum effects for bird navigation and enzyme catalysis, the same selective logic applies to neural systems where consciousness interfaces with quantum indeterminacies. This resolves a puzzle for materialists: how can selection favour phenomenal experience if consciousness is inert? The Map's answer: consciousness *does* affect outcomes (Bidirectional Interaction tenet), so selection acts on it directly.
 
 ## Assessment
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-24 01:14:00+00:00
+ai_modified: 2026-03-25 04:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -82,7 +82,7 @@ Even granting that conservation holds in neural systems, a second response is av
 
 ### The Causal Gap at Measurement
 
-Quantum mechanics describes systems in superposition — simultaneously in multiple states. Upon measurement, the superposition "collapses" to a single definite outcome. The Born rule gives probabilities for each outcome, but physics doesn't explain *why* one particular outcome occurs.
+Quantum mechanics describes systems in superposition — simultaneously in multiple states. Upon measurement, the superposition "collapses" to a single definite outcome. The [Born rule](/topics/born-rule-and-the-consciousness-interface/) gives probabilities for each outcome, but physics doesn't explain *why* one particular outcome occurs — and no quantum interpretation derives the rule without presupposing observers or probability.
 
 Standard physics leaves this unspecified — the [measurement-problem](/concepts/measurement-problem/) remains unsolved. Whether this constitutes a "causal gap" requiring a determiner, or simply irreducible indeterminacy with no further explanation possible, is itself contested. The selection framework proposes the former; instrumentalists about quantum mechanics may deny that any explanation is needed.
 

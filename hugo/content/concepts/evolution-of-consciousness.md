@@ -177,7 +177,7 @@ The evolution of consciousness poses no special problem for dualism—it poses t
 
 ### Minimal Quantum Interaction
 
-If consciousness acts at quantum indeterminacies, the evolution of consciousness was the evolution of systems providing such indeterminacies in behaviourally relevant locations. Microtubules exist in all neurons; what evolved was their organisation into structures where quantum effects could influence action selection.
+If consciousness acts at quantum indeterminacies, the evolution of consciousness was the evolution of systems providing such indeterminacies in behaviourally relevant locations. Microtubules exist in all neurons; what evolved was their organisation into structures where quantum effects could influence action selection. The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) develops this argument in detail: the same selective logic that optimised quantum effects for avian magnetoreception and enzyme catalysis applies to neural systems, where the computational payoffs would be far greater.
 
 ### Bidirectional Interaction
 
@@ -233,6 +233,7 @@ Scientific humility requires specifying what would count against one's view.
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — The felt quality of emotions and its adaptive role
 - [illusionism](/concepts/illusionism/) — The radical physicalist response
 - [decoherence](/concepts/decoherence/) — The quantum coherence challenge and biological precedents
+- [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/) — Why evolutionary logic makes quantum neural effects probable
 - [attention-as-interface](/concepts/attention-as-interface/) — How consciousness interfaces with neural quantum processes
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-matter interaction
 

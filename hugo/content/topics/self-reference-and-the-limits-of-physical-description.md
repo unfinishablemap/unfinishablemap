@@ -36,6 +36,7 @@ related_articles:
 - '[[incompleteness-void]]'
 - '[[quantum-measurement-consciousness-interface]]'
 - '[[philosophical-stakes-of-spontaneous-collapse]]'
+- '[[consciousness-and-the-philosophy-of-mathematics]]'
 - '[[physics-as-disclosure]]'
 title: Self-Reference and the Limits of Physical Description
 topics:

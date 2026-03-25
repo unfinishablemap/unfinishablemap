@@ -28,6 +28,7 @@ related_articles:
 - '[[acquaintance-void]]'
 - '[[self-reference-paradox]]'
 - '[[apophatic-approaches]]'
+- '[[consciousness-and-the-philosophy-of-mathematics]]'
 - '[[valence-void]]'
 title: The Intrinsic Nature Void
 topics:
@@ -40,7 +41,7 @@ This void may be the deepest in the [voids framework](/voids/). It is not merely
 
 ## The Structure of Physical Knowledge
 
-Bertrand Russell and Arthur Eddington articulated this problem in the 1920s with remarkable clarity. Russell observed that physics describes the *structure* of reality—patterns of relations—without describing what instantiates that structure. Eddington noted that the symbolic equations of physics tell us about the behaviour of entities but leave their intrinsic nature as unknown as the "x" in an algebraic equation.
+Bertrand Russell and Arthur Eddington articulated this problem in the 1920s with remarkable clarity. Russell observed that physics describes the *structure* of reality—patterns of relations—without describing what instantiates that structure. The [philosophy of mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) shows how this structural limitation pervades mathematical ontology itself: structuralism defines mathematical objects entirely by their relations, leaving intrinsic nature to consciousness alone. Eddington noted that the symbolic equations of physics tell us about the behaviour of entities but leave their intrinsic nature as unknown as the "x" in an algebraic equation.
 
 Consider an electron. Physics specifies its mass, charge, and spin. But these are dispositional properties—they describe how the electron behaves in various circumstances. Mass describes how it responds to force. Charge describes how it interacts with electromagnetic fields. Spin describes its behaviour under rotation. None of this tells us what an electron *is* in itself, stripped of all its relations.
 

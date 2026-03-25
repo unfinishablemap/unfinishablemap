@@ -109,7 +109,7 @@ The Map's response: deny causal closure at quantum indeterminacies.
 
 Quantum mechanics specifies probabilities but not which outcome actualizes. Causal closure fails at these points. If consciousness acts at these indeterminacies — selecting among outcomes physics leaves undetermined, as [non-retrocausal conscious selection](/topics/non-retrocausal-conscious-selection-models/) frameworks propose — it causes physical events without competing with physical causes. No overdetermination occurs because physics provides necessary but not sufficient causes. The [prebiotic collapse problem](/concepts/prebiotic-collapse/) shows this framework is cosmologically consistent.
 
-The [two-layer architecture](/concepts/mind-matter-interface/) places this quantum mechanism as Layer 2 (Interface/Control), complementing Layer 1's filter theory explanation of why brain-consciousness correlation doesn't entail production. This is the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness biases quantum outcomes where the physical story runs out.
+The [two-layer architecture](/concepts/mind-matter-interface/) places this quantum mechanism as Layer 2 (Interface/Control), complementing Layer 1's filter theory explanation of why brain-consciousness correlation doesn't entail production. This is the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness biases quantum outcomes where the physical story runs out. The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) argues that evolution would have specifically selected for neural architectures supporting this quantum interface—the same selective logic that produced quantum magnetoreception and enzyme tunnelling.
 
 ### The Decoherence Challenge
 
@@ -231,6 +231,7 @@ Mental causation, as defended here, is falsifiable:
 - [causal-closure](/concepts/causal-closure/) — The principle mental causation challenges
 - [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/) — How the causal closure principle evolved from Elisabeth's challenge through Kim's exclusion argument
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework accommodating mental causation
+- [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/) — Why evolution would optimise the quantum substrate for mental causation
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view denying mental causation
 - [emergence](/concepts/emergence/) — Mental causation as strong emergence with mechanism
 - [agent-causation](/concepts/agent-causation/) — Agent causation as substance causation

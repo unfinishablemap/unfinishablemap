@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix broken [[epistemological-limits-of-occams-razor]] wikilinks (11 files)
-- **Type**: refine-draft
-- **Notes**: 11 content files reference [[epistemological-limits-of-occams-razor]] but no page with that slug exists. The existing [[parsimony-epistemology]] covers similar ground (Tenet 5: Occam's Razor Has Limits). Investigate whether to redirect these wikilinks to parsimony-epistemology, or create an alias/redirect page. Ensure all 11 references resolve correctly after the fix.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-25
-
 ### P2: Fix broken [[many-worlds-argument]] and [[epiphenomenalism-argument]] wikilinks (16 files)
 - **Type**: refine-draft
 - **Notes**: 9 files reference [[many-worlds-argument]] (no such page; [[many-worlds]] exists) and 7 files reference [[epiphenomenalism-argument]] (no such page; [[the-epiphenomenalist-threat]] and [[epiphenomenalism]] exist). Both are tenet-critical references (Tenet 4: No Many Worlds; Tenet 3: Bidirectional Interaction vs epiphenomenalism). Update each wikilink to point to the correct existing article, or create dedicated argument pages if the existing articles don't cover the specific argumentative content referenced.
@@ -1362,6 +1356,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Fix broken [[epistemological-limits-of-occams-razor]] wikilinks (11 files)
+- **Type**: refine-draft
+- **Notes**: 11 content files reference [[epistemological-limits-of-occams-razor]] but no page with that slug exists. The existing [[parsimony-epistemology]] covers similar ground (Tenet 5: Occam's Razor Has Limits). Investigate whether to redirect these wikilinks to parsimony-epistemology, or create an alias/redirect page. Ensure all 11 references resolve correctly after the fix.
+- **Output**: Task context:
+11 content files reference [[epistemological-limits-of-occams-razor]] but no page with that slug exists. The existing [[parsimony-epistemology]] covers similar ground (Tenet 5: Occam's Razor Has Limits). Investigate whether to redirect these wikilinks to parsimony-epistemology, or create an alias/redirect page. Ensure all 11 references resolve correctly after the fix.
 
 ### ✓ 2026-03-25: Integrate evolutionary-case-for-quantum-neural-effects.md into site navigation
 - **Type**: integrate-orphan
