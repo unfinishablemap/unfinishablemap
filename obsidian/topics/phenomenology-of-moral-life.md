@@ -4,7 +4,7 @@ description: "The full arc of moral consciousness—from the pre-reflective stri
 created: 2026-02-08
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T22:42:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[moral-implications-of-genuine-agency]]"
@@ -24,7 +24,7 @@ concepts:
   - "[[moral-phenomenology-and-perception]]"
   - "[[phenomenal-normativity]]"
   - "[[normative-phenomenology]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[agent-causation]]"
   - "[[attentional-economics]]"
   - "[[reasons-responsiveness]]"
@@ -148,7 +148,7 @@ The phenomenology of moral life connects to the Map's [[tenets|foundational comm
 - [[normative-phenomenology]] — First-person investigation of normative experience broadly
 - [[moral-implications-of-genuine-agency]] — What follows for moral life when agency is real
 - [[topics/free-will]] — The broader case for libertarian agency
-- [[phenomenology-of-choice]] — The general phenomenology of choosing
+- [[phenomenology-of-choice-and-volition]] — The general phenomenology of choosing
 - [[phenomenology-of-agency-vs-passivity]] — What it feels like when consciousness acts versus watches
 - [[consciousness-and-moral-agency-under-duress]] — How extreme conditions affect deliberative capacity
 - [[responsibility-gradient-from-attentional-capacity]] — Why attentional conditions modulate moral responsibility

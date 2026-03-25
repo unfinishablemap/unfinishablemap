@@ -4,7 +4,7 @@ description: "Causation that operates outside temporal sequence. Atemporal causa
 created: 2026-02-14
 modified: 2026-03-03
 human_modified:
-ai_modified: 2026-03-03T00:41:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -82,7 +82,7 @@ The [[time-symmetric-selection-mechanism|time-symmetric selection mechanism]] ap
 
 The readiness potential that [[libet-experiments|Libet]] detected isn't prior to the cause — it's *part of* what gets caused. The selection determines the whole correlated history at once.
 
-This aligns with the [[phenomenology-of-choice|phenomenology of decision]]. Deliberation feels like weighing genuine alternatives, not receiving pre-made outcomes. Resolution feels like crystallisation — one option becoming actual while others fade. These experiences match atemporal constraint satisfaction better than sequential causation, where the cause must precede the effect and the "deciding" would have to happen before the neural preparation it supposedly governs.
+This aligns with the [[phenomenology-of-choice-and-volition|phenomenology of decision]]. Deliberation feels like weighing genuine alternatives, not receiving pre-made outcomes. Resolution feels like crystallisation — one option becoming actual while others fade. These experiences match atemporal constraint satisfaction better than sequential causation, where the cause must precede the effect and the "deciding" would have to happen before the neural preparation it supposedly governs.
 
 ## Removing an Objection Is Not Providing a Mechanism
 
@@ -154,7 +154,7 @@ Atemporal causation connects to each of the Map's tenets:
 - [[agent-causation]] — How agents serve as ultimate causal sources
 - [[causal-closure]] — The principle atemporal causation challenges
 - [[process-philosophy]] — Whitehead's concrescence as atemporal constitution
-- [[phenomenology-of-choice]] — How atemporal selection manifests in experience
+- [[phenomenology-of-choice-and-volition]] — How atemporal selection manifests in experience
 
 ## References
 

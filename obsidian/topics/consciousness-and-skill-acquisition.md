@@ -4,7 +4,7 @@ description: "Skill acquisition challenges epiphenomenalism—deliberate practic
 created: 2026-02-02
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-03-23T21:43:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ concepts:
   - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[metacognition]]"
   - "[[working-memory]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[interface-friction]]"
   - "[[temporal-consciousness]]"
   - "[[self-and-self-consciousness]]"

@@ -4,7 +4,7 @@ description: "Authentic choice feels like genuine self-expression; inauthentic c
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-03-23T20:30:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -12,7 +12,7 @@ topics:
 concepts:
   - "[[concept-of-free-will]]"
   - "[[existentialism]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[agent-causation]]"
   - "[[mental-effort]]"
   - "[[attention-as-interface]]"
@@ -41,7 +41,7 @@ Authentic choice has a distinctive experiential signature. Several features char
 
 **Felt resonance with the self.** The choice feels like *you*—not an external demand, social expectation, or habit. There is a sense of recognition: "Yes, this is what I want." This isn't mere preference satisfaction (getting what you desire) but deeper alignment with who you are.
 
-**Presence of genuine alternatives.** Authentic choosing involves felt openness—multiple options genuinely available, each with distinct weight. The [[phenomenology-of-choice|phenomenology of choice]] describes this: options present themselves as live possibilities you could actualise. Authentic choice adds something: the options feel like *your* possibilities, not just abstract alternatives.
+**Presence of genuine alternatives.** Authentic choosing involves felt openness—multiple options genuinely available, each with distinct weight. The [[phenomenology-of-choice-and-volition|phenomenology of choice]] describes this: options present themselves as live possibilities you could actualise. Authentic choice adds something: the options feel like *your* possibilities, not just abstract alternatives.
 
 **Effort and engagement.** Authentic choice typically involves [[mental-effort|effort]]—the felt cost of deliberation, the work of holding alternatives in awareness, the strain of resisting easier paths. This effort marks consciousness's genuine engagement with the selection process.
 
@@ -220,7 +220,7 @@ The authentic-inauthentic framework would face difficulty if:
 
 - [[topics/free-will]] — The broader framework for libertarian agency
 - [[existentialism]] — Sartre and Heidegger on consciousness and freedom
-- [[phenomenology-of-choice]] — The experiential structure of decision-making
+- [[phenomenology-of-choice-and-volition]] — The experiential structure of decision-making
 - [[agent-causation]] — Why genuine choice requires agent causation
 - [[mental-effort]] — The phenomenology of cognitive engagement
 - [[attention-as-interface|voluntary attention]] — Neural signatures of willed action

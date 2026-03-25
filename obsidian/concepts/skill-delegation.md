@@ -4,7 +4,7 @@ description: "Skill delegation is how consciousness trains procedural systems, w
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-24T07:18:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,7 +18,7 @@ concepts:
   - "[[motor-selection]]"
   - "[[embodied-cognition]]"
   - "[[conscious-vs-unconscious-processing]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[emergence]]"
 related_articles:
   - "[[tenets]]"

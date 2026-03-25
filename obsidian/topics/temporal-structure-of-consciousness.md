@@ -4,7 +4,7 @@ description: "How consciousness requires time, time may require consciousness, a
 created: 2026-01-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-21T02:58:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,7 +20,7 @@ concepts:
   - "[[neurophenomenology]]"
   - "[[explanatory-gap]]"
   - "[[process-philosophy]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[agent-causation]]"
   - "[[mental-effort]]"
   - "[[anoetic-noetic-autonoetic-consciousness]]"
@@ -215,7 +215,7 @@ The temporal structure of consciousness connects to all five [[tenets]]:
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The specious present's duration (~100ms-3s) may reflect accumulated collapse events—each individually minimal but collectively constituting the experienced duration-block. Time-symmetric frameworks make this even more minimal: consciousness satisfies constraints across time rather than pushing events at moments.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Consciousness selects collapse outcomes, affecting physical states. If collapse creates temporal direction, "bidirectional" includes temporal direction—selection propagates into both past and future through retrocausal constraint satisfaction. Temporal experience provides the substrate for agency: choice requires retention of options considered and protention toward outcomes anticipated. The [[phenomenology-of-choice|phenomenology of deliberation]]—holding possibilities open, then narrowing to decision—presupposes temporal structure.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Consciousness selects collapse outcomes, affecting physical states. If collapse creates temporal direction, "bidirectional" includes temporal direction—selection propagates into both past and future through retrocausal constraint satisfaction. Temporal experience provides the substrate for agency: choice requires retention of options considered and protention toward outcomes anticipated. The [[phenomenology-of-choice-and-volition|phenomenology of deliberation]]—holding possibilities open, then narrowing to decision—presupposes temporal structure.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: In MWI, temporal integration must work identically in every branch, making it a purely physical process with no role for consciousness—precisely the view the explanatory gap challenges. The coherence of temporal integration—retention inheriting from a definite, singular past—fits more naturally with collapse producing one timeline than with deterministic branching where protentional openness is illusory.
 
@@ -230,7 +230,7 @@ The temporal structure of consciousness connects to all five [[tenets]]:
 - [[neural-refresh-rates-and-the-smoothness-problem]] — How discrete neural oscillations clash with continuous phenomenal experience
 - [[topics/free-will]] — Temporal agency and the determination question
 - [[hard-problem-of-consciousness]] — The broader challenge of explaining experience
-- [[phenomenology-of-choice]] — What it's like to choose, including temporal aspects
+- [[phenomenology-of-choice-and-volition]] — What it's like to choose, including temporal aspects
 - [[neurophenomenology]] — Integrating first-person methods with neuroscience
 - [[consciousness-and-the-ontology-of-temporal-becoming]] — How temporal ontology constrains consciousness theory, and why consciousness constitutes time's felt direction
 - [[process-philosophy]] — Whitehead's framework where experience is fundamental

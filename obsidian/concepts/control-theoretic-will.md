@@ -4,7 +4,7 @@ description: "Will as a low-bandwidth control signal—gating, stabilizing, and 
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-03-21T05:25:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -155,7 +155,7 @@ Conflating the model with the ontology would be a category error—treating a us
 - [[attentional-economics]] — The economics of the controller's scarce bandwidth
 - [[motor-selection]] — How the unified attention-motor system implements control
 - [[mental-effort]] — The phenomenology of control effort
-- [[phenomenology-of-volition]] — The experiential structure of willing: initiation, sustained control, effort, and veto
+- [[phenomenology-of-choice-and-volition]] — The experiential structure of willing: initiation, sustained control, effort, and veto
 - [[the-psychophysical-control-law]] — Candidate coupling laws (control laws in this framing)
 - [[agent-causation]] — The metaphysics of the controller as genuine cause
 - [[causal-closure]] — Why control requires gaps in physical determinism

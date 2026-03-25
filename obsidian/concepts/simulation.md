@@ -4,7 +4,7 @@ description: "If reality were computed, familiar objections to mind-matter inter
 created: 2026-01-07
 modified: 2026-01-07
 human_modified: null
-ai_modified: 2026-03-23T12:23:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -16,7 +16,7 @@ concepts:
   - "[[quantum-interpretations]]"
   - "[[illusionism]]"
   - "[[philosophical-zombies]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[consciousness-as-amplifier]]"
   - "[[decoherence]]"
   - "[[haecceity]]"
@@ -96,7 +96,7 @@ Whether the simulation hypothesis supports single-outcome quantum mechanics depe
 
 If the simulation implements objective collapse at the substrate level, the picture favours single outcomes: the simulator calculates one outcome per measurement, other "branches" are simply not computed, and indexical identity is preserved because there's only one instance of each observer.
 
-Under these conditions, simulation avoids the [[haecceity|indexical identity problem]] that MWI faces—why am I *this* branch-instance rather than another? For the Map's commitment to [[phenomenology-of-choice|choice phenomenology]], this matters: the felt reality of selecting one option aligns better with genuine single outcomes than with decoherence-masked branching.
+Under these conditions, simulation avoids the [[haecceity|indexical identity problem]] that MWI faces—why am I *this* branch-instance rather than another? For the Map's commitment to [[phenomenology-of-choice-and-volition|choice phenomenology]], this matters: the felt reality of selecting one option aligns better with genuine single outcomes than with decoherence-masked branching.
 
 ## The Meta-Problem: Where Is Consciousness?
 
@@ -182,7 +182,7 @@ Whether or not we are simulated, the *possibility* of simulation illuminates wha
 
 - [[illusionism]] — The strongest physicalist challenge to consciousness and how simulation tests it
 - [[philosophical-zombies]] — Conceivability arguments and what they reveal about simulation
-- [[phenomenology-of-choice]] — How choice phenomenology aligns with simulation over many-worlds
+- [[phenomenology-of-choice-and-volition]] — How choice phenomenology aligns with simulation over many-worlds
 - [[consciousness-as-amplifier]] — The interface between consciousness and neural processing
 - [[locality]] — How simulation reframes spatial coordination concerns
 - [[concepts/consciousness-selecting-neural-patterns]] — The broader question of quantum selection

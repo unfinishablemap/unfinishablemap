@@ -4,7 +4,7 @@ description: "Counterfactual reasoning—imagining what isn't—reveals consciou
 created: 2026-02-15
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-18T19:38:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -14,7 +14,7 @@ concepts:
   - "[[baseline-cognition]]"
   - "[[working-memory]]"
   - "[[agent-causation]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[consciousness-as-amplifier]]"
 related_articles:
   - "[[tenets]]"
@@ -117,7 +117,7 @@ The Map's tenets illuminate counterfactual reasoning from multiple angles:
 - [[topics/free-will]] — How counterfactual reasoning enables genuine choice
 - [[baseline-cognition]] — The framework distinguishing consciousness-dependent from baseline cognition
 - [[consciousness-and-the-problem-of-induction]] — Counterfactual assessment in inductive reasoning
-- [[phenomenology-of-choice]] — The experience of deliberating among alternatives
+- [[phenomenology-of-choice-and-volition]] — The experience of deliberating among alternatives
 - [[agent-causation]] — How the agent selects among counterfactually represented options
 
 ## References

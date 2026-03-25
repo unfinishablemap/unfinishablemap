@@ -4,7 +4,7 @@ description: "Metacognition and metarepresentation are cognitive tools conscious
 created: 2026-01-18
 modified: 2026-02-21
 human_modified: null
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ concepts:
   - "[[cognitive-phenomenology]]"
   - "[[minimal-consciousness]]"
   - "[[animal-consciousness]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[binding-problem]]"
   - "[[teaching-as-metarepresentation]]"
   - "[[epistemic-emotions]]"
@@ -76,7 +76,7 @@ Metarepresentation involves three nested levels:
 
 The third level is crucial. Many animals show evidence of second-order states: uncertainty monitoring, strategic information-seeking, adjusting confidence. But these might operate procedurally—functional states that guide behaviour without explicit representation of themselves as mental states. Metarepresentation requires treating your mental states as the kind of thing that *can* be represented, examined, and evaluated.
 
-The [[phenomenology-of-choice|phenomenology of deliberate choice]] illustrates this structure. When you genuinely choose between options, you represent your possible actions as possible actions—not merely act on the strongest impulse but stand back from the options, recognise them as alternatives you could take, and select among them. This choosing-as-metarepresentation distinguishes human deliberation from sophisticated animal behaviour.
+The [[phenomenology-of-choice-and-volition|phenomenology of deliberate choice]] illustrates this structure. When you genuinely choose between options, you represent your possible actions as possible actions—not merely act on the strongest impulse but stand back from the options, recognise them as alternatives you could take, and select among them. This choosing-as-metarepresentation distinguishes human deliberation from sophisticated animal behaviour.
 
 ## Neural Substrate and Trainability
 

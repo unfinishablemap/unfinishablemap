@@ -4,7 +4,7 @@ description: "Episodic memory is constructive re-experiencing, not data retrieva
 created: 2026-01-17
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-03-23T21:43:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ concepts:
   - "[[consciousness-as-amplifier]]"
   - "[[qualia]]"
   - "[[metacognition]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
 related_articles:
   - "[[tenets]]"
   - "[[temporal-void]]"

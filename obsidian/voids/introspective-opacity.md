@@ -4,7 +4,7 @@ description: "Why we cannot observe our own cognitive processes—we access ment
 created: 2026-02-02
 modified: 2026-03-06
 human_modified:
-ai_modified: 2026-03-23T17:30:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 last_deep_review: 2026-03-06T11:38:00+00:00
 draft: false
 topics:
@@ -33,7 +33,7 @@ related_articles:
   - "[[limits-reveal-structure]]"
   - "[[creativity-void]]"
   - "[[involuntariness-void]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[intersubjective-void]]"
   - "[[recognition-void]]"
 ai_contribution: 100
@@ -181,7 +181,7 @@ None of these conditions has been met. Introspective opacity persists across cul
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive boundaries illuminate architecture
 - [[involuntariness-void|The Involuntariness Void]] — Why consciousness cannot control its own states
 - [[creativity-void|The Creativity Void]] — Parallel opacity: creative process hidden, product accessible
-- [[phenomenology-of-choice|The Phenomenology of Choice]] — What choosing feels like from the inside
+- [[phenomenology-of-choice-and-volition|The Phenomenology of Choice]] — What choosing feels like from the inside
 - [[intersubjective-void|The Intersubjective Void]] — How opacity compounds at the social level through testimony failure, calibration pressure, and hermeneutical gaps
 - [[recognition-void|The Recognition Void]] — Process opacity applied to recognition: the gap between perceiving and knowing-as
 

@@ -4,7 +4,7 @@ description: "Constraint satisfaction has distinctive phenomenal character — t
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-03-20T23:42:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-cognitive-capacity]]"
@@ -12,7 +12,7 @@ concepts:
   - "[[control-theoretic-will]]"
   - "[[interactionist-dualism]]"
   - "[[qualia]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
 related_articles:
   - "[[bandwidth-of-consciousness]]"
   - "[[predictive-processing-and-dualism]]"
@@ -106,7 +106,7 @@ The disconnect between computational complexity and phenomenal intensity poses a
 
 - [[bandwidth-of-consciousness]]
 - [[phenomenology-of-cognitive-capacity]]
-- [[phenomenology-of-choice]]
+- [[phenomenology-of-choice-and-volition]]
 - [[control-theoretic-will]]
 - [[phenomenology-of-deliberation-under-uncertainty]]
 - [[choking-phenomenon-mental-causation]]

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update stale wikilinks from archived [[phenomenology-of-choice]] and [[phenomenology-of-volition]]
-- **Type**: refine-draft
-- **Notes**: Coalesce on 2026-03-24 created phenomenology-of-choice-and-volition.md, archiving the two source articles. Previous reference-update task was marked complete but 141+ files still reference [[phenomenology-of-choice]] and 17+ reference [[phenomenology-of-volition]], pointing to archive pages instead of the new combined article. Update wikilinks in obsidian/topics/ and obsidian/concepts/ to [[phenomenology-of-choice-and-volition]].
-- **Source**: gap_analysis
-- **Generated**: 2026-03-25
-
 ### P2: Update stale wikilinks from archived [[cognitive-closure]] to [[mysterianism]]
 - **Type**: refine-draft
 - **Notes**: Coalesce on 2026-03-24 merged cognitive-closure.md into mysterianism.md. Previous reference-update task was marked complete but 46+ files still reference [[cognitive-closure]], pointing to the archive page. Update wikilinks in obsidian/topics/, obsidian/concepts/, and obsidian/voids/ to [[mysterianism]] (or [[mysterianism|cognitive closure]] where the display text matters).
@@ -158,10 +152,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Only 1 existing article (african-philosophy-of-consciousness). Ubuntu and relational consciousness, decolonial approaches to mind deserve development. Strengthens convergence argument across traditions. Target section: topics/.
 - **Generated**: 2026-03-21
 
-### P3: Deep review phenomenology-of-volition.md
+### ✓ 2026-03-25: Deep review phenomenology-of-volition.md
 - **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-20 via expand-topic, never reviewed. Concept page on the phenomenology of volitional experience — the felt quality of willing, intending, and initiating action. Verify coherence, accuracy of phenomenological claims, cross-references to phenomenology-of-agency-vs-passivity and free-will, and tenet alignment.
+- **Status**: cancelled
+- **Notes**: Article archived on 2026-03-24 — coalesced into [[phenomenology-of-choice-and-volition]]. Deep review no longer applicable.
 - **Source**: staleness
 - **Generated**: 2026-03-21
 
@@ -1343,6 +1337,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Update stale wikilinks from archived [[phenomenology-of-choice]] and [[phenomenology-of-volition]]
+- **Type**: refine-draft
+- **Notes**: Coalesce on 2026-03-24 created phenomenology-of-choice-and-volition.md, archiving the two source articles. Previous reference-update task was marked complete but 141+ files still reference [[phenomenology-of-choice]] and 17+ reference [[phenomenology-of-volition]], pointing to archive pages instead of the new combined article. Update wikilinks in obsidian/topics/ and obsidian/concepts/ to [[phenomenology-of-choice-and-volition]].
+- **Output**: Task context:
+Coalesce on 2026-03-24 created phenomenology-of-choice-and-volition.md, archiving the two source articles. Previous reference-update task was marked complete but 141+ files still reference [[phenomenology-of-choice]] and 17+ reference [[phenomenology-of-volition]], pointing to archive pages instead of the new combined article. Update wikilinks in obsidian/topics/ and obsidian/concepts/ to [[phenomenology-of-choice-and-volition]].
 
 ### ✓ 2026-03-25: Update references to coalesced [[limits-of-parsimony-in-consciousness-science]]
 - **Type**: cross-review

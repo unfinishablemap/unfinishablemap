@@ -4,7 +4,7 @@ description: "Two modes of consciousness: active selection through attention and
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-03-06T02:40:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -16,7 +16,7 @@ concepts:
   - "[[voluntary-attention-control-mechanisms-2026-01-17|voluntary-attention]]"
   - "[[witness-consciousness]]"
   - "[[illusionism]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[phenomenology]]"
   - "[[default-mode-network]]"
   - "[[contemplative-neuroscience]]"
@@ -220,7 +220,7 @@ This framework avoids a dualism of substances while preserving genuine distincti
 
 Whitehead's "primordial nature of God" (the eternal ordering of possibilities) and "consequent nature" (the ongoing reception of actualized experience) provide another lens. Witness mode might access something like the primordial ordering—a receptivity to pattern without imposition. Selection mode engages the consequent nature—the ongoing determination of what becomes actual.
 
-This connects to the [[phenomenology-of-choice|phenomenology of choice]]: the felt difference between observing possibilities and selecting among them isn't an illusion but reflects the fundamental structure of how experience unfolds.
+This connects to the [[phenomenology-of-choice-and-volition|phenomenology of choice]]: the felt difference between observing possibilities and selecting among them isn't an illusion but reflects the fundamental structure of how experience unfolds.
 
 ## Relation to Site Tenets
 
@@ -269,7 +269,7 @@ FA meditation strengthens selection. OM meditation cultivates witnessing. Both a
 - [[contemplative-neuroscience]] — Neuroplasticity evidence from meditation training supporting bidirectional interaction
 - [[neurophenomenology]] — Varela's mutual constraints framework integrating first-person and third-person methods
 - [[illusionism]] — The illusionist challenge and quasi-phenomenal properties
-- [[phenomenology-of-choice]] — The felt difference between choosing and observing
+- [[phenomenology-of-choice-and-volition]] — The felt difference between choosing and observing
 - [[attention-as-interface]] — How consciousness influences matter through attention
 - [[mental-effort]] — The phenomenology and mechanism of effortful attention
 - [[quantum-consciousness]] — The quantum Zeno mechanism for selection

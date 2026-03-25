@@ -4,7 +4,7 @@ description: "At any decision point involving genuine indeterminacy, exactly thr
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-03-13T06:19:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -16,7 +16,7 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[mental-effort]]"
   - "[[reasons-responsiveness]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[mental-causation]]"
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"
@@ -36,7 +36,7 @@ last_deep_review: 2026-03-12T00:20:00+00:00
 
 When a neural decision point involves genuine indeterminacy, exactly three options obtain. The outcome was determined all along—deliberation is theatre. The outcome is genuinely undetermined but nothing guides the resolution—it is luck, not choice. Or consciousness selects among the available options based on reasons. These three exhaust the logical space. No fourth possibility exists.
 
-The Unfinishable Map argues that only the third horn preserves the [[phenomenology-of-choice|phenomenology of choice]]—the felt difference between authoring a decision and merely watching one happen. This trilemma sharpens what Kane (1996) called "the significance of free will": the question is not whether we feel free, but whether anything in the architecture of decision-making could make that feeling veridical.
+The Unfinishable Map argues that only the third horn preserves the [[phenomenology-of-choice-and-volition|phenomenology of choice]]—the felt difference between authoring a decision and merely watching one happen. This trilemma sharpens what Kane (1996) called "the significance of free will": the question is not whether we feel free, but whether anything in the architecture of decision-making could make that feeling veridical.
 
 ## The Three Horns
 
@@ -135,7 +135,7 @@ The trilemma connects to each of the five [[tenets]]:
 - [[luck-objection]] — The central challenge the trilemma's second horn makes vivid
 - [[reasons-responsiveness]] — Why reasons-guided selection escapes the luck objection
 - [[agent-causation]] — The metaphysical framework for Horn 3
-- [[phenomenology-of-choice]] — The experiential structure of choosing vs observing
+- [[phenomenology-of-choice-and-volition]] — The experiential structure of choosing vs observing
 - [[mental-effort]] — Why the felt cost of attention supports genuine causal engagement
 - [[consciousness-and-causal-powers]] — The broader case for consciousness doing causal work
 

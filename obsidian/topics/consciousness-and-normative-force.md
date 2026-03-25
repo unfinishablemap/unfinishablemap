@@ -4,7 +4,7 @@ description: "Why normative claims grip us: the shared phenomenal architecture o
 created: 2026-02-13
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-moral-life]]"
@@ -19,7 +19,7 @@ concepts:
   - "[[phenomenology]]"
   - "[[cognitive-phenomenology]]"
   - "[[introspection]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[agent-causation]]"
   - "[[mental-effort]]"
   - "[[moral-responsibility]]"
@@ -126,7 +126,7 @@ When multiple domains speak simultaneously, each with its own demand structure, 
 
 Normative demands arrive within a single field of consciousness — already related, already experienced by the same subject who must act. Within this field, demands carry *felt weight* varying with context: moral demands press with urgency; epistemic demands present with impersonal rigidity; aesthetic demands draw attention; prudential demands pull with intimate gravity. These qualitative differences persist even as relative weights shift.
 
-[[phenomenology-of-deliberation-under-uncertainty|Deliberation]] is integration happening. Attention oscillates between competing demands, each turn revealing new aspects. Resolution, when it comes, has the character of a *leap* — the agent commits without deliberation having determined the outcome. This is the [[phenomenology-of-choice|phenomenology of choice]]: not mechanical aggregation but genuine judgment that could have gone otherwise. Overridden demands persist afterward as residue — the scientist who suppresses results for moral reasons still feels epistemic integrity pulling. The unified field preserves the reality of all demands even as it privileges some.
+[[phenomenology-of-deliberation-under-uncertainty|Deliberation]] is integration happening. Attention oscillates between competing demands, each turn revealing new aspects. Resolution, when it comes, has the character of a *leap* — the agent commits without deliberation having determined the outcome. This is the [[phenomenology-of-choice-and-volition|phenomenology of choice]]: not mechanical aggregation but genuine judgment that could have gone otherwise. Overridden demands persist afterward as residue — the scientist who suppresses results for moral reasons still feels epistemic integrity pulling. The unified field preserves the reality of all demands even as it privileges some.
 
 ## The Epiphenomenalist Threat
 

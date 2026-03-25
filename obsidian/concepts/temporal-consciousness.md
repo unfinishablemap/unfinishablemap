@@ -4,7 +4,7 @@ description: "Consciousness flows through time in the specious present—Bergson
 created: 2026-01-14
 modified: 2026-03-15
 human_modified: null
-ai_modified: 2026-03-21T02:58:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ concepts:
   - "[[sleep-and-consciousness]]"
   - "[[dream-consciousness]]"
   - "[[illusionism]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[explanatory-gap]]"
   - "[[temporal-structure-of-understanding]]"
   - "[[working-memory]]"
@@ -129,7 +129,7 @@ Protention differs from prediction. Predictive processing models (Clark, Friston
 
 Protention and retention are phenomenologically asymmetric. Retention preserves what has actually been experienced—fading in what Husserl called *Abklang*. Protention opens toward what has not been experienced, carrying only a directional structure shaped by what has been retained. This asymmetry connects to the [[consciousness-and-the-ontology-of-temporal-becoming|impossibility of pre-experience]]. Without protention, the specious present would be a trailing smear of fading past; protention gives it forward momentum.
 
-Protention connects to the [[phenomenology-of-choice|phenomenology of choice]]: deliberation requires protentional inhabitation of possible futures, connecting to [[agent-causation|agent-causal]] accounts of free will and the Map's claim that consciousness selects among quantum possibilities. Unlike [[prospective-memory]] (deliberate future simulation), protention is the anticipatory structure that makes deliberation possible.
+Protention connects to the [[phenomenology-of-choice-and-volition|phenomenology of choice]]: deliberation requires protentional inhabitation of possible futures, connecting to [[agent-causation|agent-causal]] accounts of free will and the Map's claim that consciousness selects among quantum possibilities. Unlike [[prospective-memory]] (deliberate future simulation), protention is the anticipatory structure that makes deliberation possible.
 
 ## Neural Correlates and Temporal Binding
 
@@ -195,7 +195,7 @@ Temporal consciousness connects to all five tenets:
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The specious present's duration may be the cumulative effect of countless quantum micro-selections, each individually minimal but collectively constituting the duration-block. Through the quantum Zeno mechanism, consciousness holds patterns in durée by rapid repeated selection.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Temporal consciousness provides the substrate for [[phenomenology-of-choice|choosing]]. Selection requires an agent who persists across the moment of choosing, retains what was considered, and acts toward anticipated outcomes. Protention's directional orientation toward one possible future over another participates in selecting which neural patterns become actual. Durée's creative causation is what Bergson means by freedom—and what the Map means by consciousness influencing physical outcomes.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Temporal consciousness provides the substrate for [[phenomenology-of-choice-and-volition|choosing]]. Selection requires an agent who persists across the moment of choosing, retains what was considered, and acts toward anticipated outcomes. Protention's directional orientation toward one possible future over another participates in selecting which neural patterns become actual. Durée's creative causation is what Bergson means by freedom—and what the Map means by consciousness influencing physical outcomes.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: If MWI branching occurred constantly, there would be no unified temporal experience but fragmentation across branches. The coherence of temporal experience—retention genuinely inheriting from a definite past—suggests collapse creates a single temporal thread. Bergson's interpenetrating duration presupposes temporal identity—[[haecceity]]—that many-worlds dissolves.
 
@@ -211,7 +211,7 @@ Temporal consciousness connects to all five tenets:
 - [[consciousness-as-activity]] — Why temporal extension is constitutive if consciousness is activity
 - [[authentic-vs-inauthentic-choice]] — How temporal thickness distinguishes genuine from automatic choice
 - [[phenomenology-of-anticipation]] — Extended exploration of protention, surprise, and anticipatory consciousness
-- [[phenomenology-of-choice]] — How anticipatory consciousness enables deliberation
+- [[phenomenology-of-choice-and-volition]] — How anticipatory consciousness enables deliberation
 - [[neural-refresh-rates]] — The discrete oscillatory sampling rates that create the smoothness problem
 - [[temporal-structure-of-consciousness]] — Comprehensive treatment including the constitutional thesis and circularity problem
 

@@ -4,7 +4,7 @@ description: "How does consciousness author action in a physical world? Through 
 created: 2026-01-24
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-03-12T00:20:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 last_deep_review: 2026-03-06T04:55:00+00:00
 draft: false
 topics:
@@ -98,7 +98,7 @@ The luck objection deserves direct engagement. Peter van Inwagen's rollback argu
 
 The Map distinguishes consciousness-selected indeterminism from lucky indeterminism through three features. First, selection is *reasons-guided*—consciousness selects A because A serves goals and expresses values. Reasons don't *determine* the outcome but they *guide* it. "Why A rather than B? Because the agent had reasons for A."
 
-Second, selection involves *[[phenomenology-of-choice|phenomenology of effort]]*—choosing feels effortful in ways that track genuine cognitive load. Random processes don't feel like work; hard choices feel hard because the phenomenology tracks real causal engagement. The correlation between felt difficulty and measured cognitive load would be coincidental if phenomenology had no functional role. The simpler explanation: phenomenology tracks something real.
+Second, selection involves *[[phenomenology-of-choice-and-volition|phenomenology of effort]]*—choosing feels effortful in ways that track genuine cognitive load. Random processes don't feel like work; hard choices feel hard because the phenomenology tracks real causal engagement. The correlation between felt difficulty and measured cognitive load would be coincidental if phenomenology had no functional role. The simpler explanation: phenomenology tracks something real.
 
 Third, selection shows *distinctive neural signatures*—willed attention and movement engage frontal theta oscillations and bidirectional frontoparietal coherence that automatic actions lack. Neurosurgical studies reveal a striking dissociation: stimulating one brain area produces conscious intention *without* movement, while stimulating another produces movement *without* any feeling of intending. The phenomenology of deciding is neurally separable from execution machinery—consciousness operates at the selection interface, not in downstream motor circuits. The same selection architecture appears in both attention and motor control, suggesting a unified mechanism rather than coincidence.
 
@@ -208,7 +208,7 @@ This apex article synthesizes:
 - [[argument-from-reason|The Argument from Reason]] — The self-defeat of physicalism and non-phenomenological route to mental causation
 - [[moral-responsibility|Moral Responsibility]] — How agent causation grounds desert differently than compatibilism
 - [[time-collapse-and-agency|Time, Collapse, and Agency]] — The temporal framework: atemporal selection and consciousness-constituted time
-- [[phenomenology-of-choice|Phenomenology of Choice]] — The experiential structure that distinguishes choosing from observing
+- [[phenomenology-of-choice-and-volition|Phenomenology of Choice]] — The experiential structure that distinguishes choosing from observing
 - [[counterfactual-reasoning|Counterfactual Reasoning]] — The consciousness-dependent capacity to evaluate alternatives
 - [[counterfactual-void|Counterfactual Void]] — The architectural limits of modal cognition and what they reveal about agency's scope
 

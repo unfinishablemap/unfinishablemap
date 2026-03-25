@@ -4,7 +4,7 @@ description: "Agency is fundamentally the allocation of attention over time. Fre
 created: 2026-01-31
 modified: 2026-01-31
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -15,7 +15,7 @@ concepts:
   - "[[agent-causation]]"
   - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[meditation-and-consciousness-modes]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[working-memory]]"
   - "[[counterfactual-reasoning]]"
 related_articles:
@@ -87,7 +87,7 @@ These aren't merely subjective improvements. Within the Map's framework, they ar
 
 ## The Phenomenology of Attentional Choice
 
-The [[phenomenology-of-choice|phenomenology of choice]] reveals that choosing feels different from observing: there's a sense of active participation rather than passive reception. Attentional economics clarifies what this participation involves.
+The [[phenomenology-of-choice-and-volition|phenomenology of choice]] reveals that choosing feels different from observing: there's a sense of active participation rather than passive reception. Attentional economics clarifies what this participation involves.
 
 When you choose where to direct attention, you experience:
 

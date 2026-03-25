@@ -4,7 +4,7 @@ description: "Can we genuinely author our choices? The Map defends agent-causal 
 created: 2026-01-08
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-03-23T16:45:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 last_deep_review: 2026-03-21T02:05:00+00:00
 draft: false
 topics:
@@ -25,7 +25,7 @@ concepts:
   - "[[quantum-consciousness]]"
   - "[[decoherence]]"
   - "[[concepts/epiphenomenalism]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[causal-interface]]"
   - "[[counterfactual-reasoning]]"
   - "[[existentialism]]"
@@ -65,7 +65,7 @@ The **[[luck-objection|luck objection]]** is the strongest challenge to libertar
 
 Three lines of evidence support genuine agent causation:
 
-1. **Phenomenology of volition**: The [[phenomenology-of-volition|phenomenology of volition]] reveals four distinguishable components of willing — initiation, sustained control, effort, and veto — each with distinct neural correlates and clinical dissociation patterns. If choices were random fluctuations, this articulated structure would have no explanation. The [[phenomenology-of-intellectual-effort|phenomenology of intellectual effort]] extends the effort component to reasoning.
+1. **Phenomenology of volition**: The [[phenomenology-of-choice-and-volition|phenomenology of volition]] reveals four distinguishable components of willing — initiation, sustained control, effort, and veto — each with distinct neural correlates and clinical dissociation patterns. If choices were random fluctuations, this articulated structure would have no explanation. The [[phenomenology-of-intellectual-effort|phenomenology of intellectual effort]] extends the effort component to reasoning.
 2. **Reasons-guidance**: Selection responds to what matters to the agent. Reasons *influence* (though don't determine) which outcome actualizes.
 3. **Distinctive neural signatures**: Willed actions show frontal theta oscillations and bidirectional coherence that automatic processes lack.
 
@@ -77,7 +77,7 @@ Schwitzgebel (2011) has documented pervasive introspective failures. Why trust p
 
 ### The Phenomenology of Choice
 
-The [[phenomenology-of-choice|phenomenology of choice]] provides direct evidence that consciousness selects rather than merely observes. This phenomenological distinction maps onto neural reality: willed attention shows different signatures than automatic capture. If choosing were epiphenomenal decoration, this correlation would be coincidental.
+The [[phenomenology-of-choice-and-volition|phenomenology of choice]] provides direct evidence that consciousness selects rather than merely observes. This phenomenological distinction maps onto neural reality: willed attention shows different signatures than automatic capture. If choosing were epiphenomenal decoration, this correlation would be coincidental.
 
 ### Counterfactual Reasoning
 
@@ -175,8 +175,8 @@ Free will stands at the intersection of all five [[tenets]]:
 - [[agent-causation]] — Why the Map's framework is agent-causal, including substance causation
 - [[quantum-indeterminacy-free-will]] — How quantum mechanics supports libertarian free will
 - [[mental-causation]] — How the framework addresses Kim's exclusion argument
-- [[phenomenology-of-volition]] — The four components of willing: initiation, sustained control, effort, and veto
-- [[phenomenology-of-choice]] — The experiential structure of deciding
+- [[phenomenology-of-choice-and-volition]] — The four components of willing: initiation, sustained control, effort, and veto
+- [[phenomenology-of-choice-and-volition]] — The experiential structure of deciding
 - [[counterfactual-reasoning]] — Consciousness-dependent capacity to imagine alternatives
 - [[counterfactual-void]] — Architectural limits of modal cognition
 - [[libet-experiments]] — Detailed analysis including retrocausal resolution

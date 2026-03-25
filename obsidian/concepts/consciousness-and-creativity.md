@@ -4,7 +4,7 @@ description: "Consciousness contributes to creativity through both generating po
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-03-18T13:10:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -63,7 +63,7 @@ The apparent opposition between generation and selection dissolves on closer exa
 
 **Attention actualizes specific possibilities**: Through the [[attention-as-interface|attention mechanism]], consciousness selects which imagined possibilities become actual thoughts, intentions, and eventually actions. The quantum Zeno mechanism provides the physical implementation: repeated observation holds neural patterns in place.
 
-**These are unified, not sequential**: The creative act isn't "first generate, then select." Exploration and selection occur together. Each imaginative move shapes what further possibilities become available. Attention to one possibility opens some paths and closes others. Generation and selection interweave as a continuous creative process. The [[phenomenology-of-choice|phenomenology of deliberation]] reveals this directly: options don't sit statically waiting to be picked—they evolve through consideration, each changing what the others mean.
+**These are unified, not sequential**: The creative act isn't "first generate, then select." Exploration and selection occur together. Each imaginative move shapes what further possibilities become available. Attention to one possibility opens some paths and closes others. Generation and selection interweave as a continuous creative process. The [[phenomenology-of-choice-and-volition|phenomenology of deliberation]] reveals this directly: options don't sit statically waiting to be picked—they evolve through consideration, each changing what the others mean.
 
 Margaret Boden's distinction between types of creativity clarifies this integration:
 
@@ -117,7 +117,7 @@ The generation-selection synthesis would face serious difficulty if:
 
 2. **Phenomenology proved unreliable.** If the feeling of "producing" ideas during brainstorming were shown to be systematically illusory—perhaps through timing studies showing all "generated" ideas were prepared unconsciously before the subjective sense of production—the phenomenological evidence would collapse. Current evidence from voluntary attention studies supports the validity of felt contribution.
 
-3. **Imagination proved purely combinatorial.** If all novel ideas could be shown to result from recombination of pre-existing elements with no consciousness-contributed structure, the generation claim would reduce to selection among combinations. The existence of [[phenomenology-of-choice|transformational creativity]]—changing the rules themselves—resists this reduction.
+3. **Imagination proved purely combinatorial.** If all novel ideas could be shown to result from recombination of pre-existing elements with no consciousness-contributed structure, the generation claim would reduce to selection among combinations. The existence of [[phenomenology-of-choice-and-volition|transformational creativity]]—changing the rules themselves—resists this reduction.
 
 4. **DMN-ECN coupling proved irrelevant to creativity.** If the dynamic switching that predicts creative ability could be explained entirely by unconscious mechanisms, with consciousness riding along epiphenomenally, the bidirectional thesis would weaken.
 
@@ -143,7 +143,7 @@ The creative process may also illuminate [[mysterianism|cognitive closure]]. If 
 - [[agent-causation]] — Philosophical framework for mental causation, including the creative generation synthesis
 - [[concepts/consciousness-selecting-neural-patterns]] — The quantum mechanism for selection
 - [[attention-as-interface]] — How attention mediates mind-matter interaction
-- [[phenomenology-of-choice]] — The experiential structure of deliberation, including how options develop through consideration
+- [[phenomenology-of-choice-and-volition]] — The experiential structure of deliberation, including how options develop through consideration
 - [[mental-effort]] — The conscious work of switching between exploratory and evaluative cognitive modes
 - [[mental-imagery]] — Voluntary imagery as paradigm case of consciousness generating and manipulating possibilities
 - [[mysterianism]] — Cognitive closure and the limits of understanding consciousness

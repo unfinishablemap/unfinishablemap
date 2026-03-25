@@ -4,7 +4,7 @@ description: "How attention shapes the lived experience of time and how consciou
 created: 2026-02-15
 modified: 2026-03-21
 human_modified: null
-ai_modified: 2026-03-21T02:58:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 last_deep_review: 2026-03-21T02:58:00+00:00
 draft: false
 topics:
@@ -16,7 +16,7 @@ concepts:
   - "[[temporal-consciousness]]"
   - "[[attention-as-interface]]"
   - "[[mental-effort]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[agent-causation]]"
   - "[[motor-selection]]"
   - "[[phenomenology]]"
@@ -183,7 +183,7 @@ The phenomenology of temporal consciousness and agency aligns with the Map's [[t
 - [[contemplative-practice-as-philosophical-evidence]]
 - [[neural-refresh-rates]] — The discrete oscillatory cycles that attention modulates
 - [[topics/free-will]]
-- [[phenomenology-of-choice]]
+- [[phenomenology-of-choice-and-volition]]
 - [[motor-selection]]
 - [[bergson-and-duration]]
 - [[choking-phenomenon-mental-causation]]

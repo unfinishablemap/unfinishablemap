@@ -4,7 +4,7 @@ description: "Holding unpopular positions feels like something specific—a tens
 created: 2026-02-17
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-03-19T03:34:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,7 +12,7 @@ topics:
 concepts:
   - "[[cognitive-phenomenology]]"
   - "[[epistemic-emotions]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[introspection]]"
   - "[[agent-causation]]"
   - "[[metacognition]]"
@@ -68,7 +68,7 @@ Intellectual courage is not a single act but an ongoing phenomenal achievement w
 
 **Initial recognition.** There is a moment — sometimes sudden, sometimes gradual — when you recognise that your assessment diverges from the prevailing view. This recognition has its own phenomenology: a mixture of clarity (seeing something others seem not to) and vertigo (the destabilising awareness that you may be wrong and they right).
 
-**The decision to hold.** Following recognition comes a decision — not always a deliberate choice but sometimes a phenomenal settling into the position. This has the character described in [[phenomenology-of-choice|choice phenomenology]]: the felt authorship of a commitment, the sense of having determined something rather than having it determined for you. It is an exercise of [[agent-causation]] — the thinker as source of the commitment, not merely the locus where external forces resolve.
+**The decision to hold.** Following recognition comes a decision — not always a deliberate choice but sometimes a phenomenal settling into the position. This has the character described in [[phenomenology-of-choice-and-volition|choice phenomenology]]: the felt authorship of a commitment, the sense of having determined something rather than having it determined for you. It is an exercise of [[agent-causation]] — the thinker as source of the commitment, not merely the locus where external forces resolve.
 
 **Sustained maintenance.** Most of intellectual courage is maintenance. Day after day, the position must be held against the slow erosion of social pressure, self-doubt, and the sheer fatigue of disagreement. This ongoing maintenance has [[phenomenology-of-intellectual-effort|effort phenomenology]] — the work of keeping something in place that external forces would move.
 

@@ -4,7 +4,7 @@ description: "The moment attention returns from wandering reveals a micro-struct
 created: 2026-02-10
 modified: 2026-02-10
 human_modified:
-ai_modified: 2026-03-16T09:48:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,7 +15,7 @@ concepts:
   - "[[meditation-and-consciousness-modes]]"
   - "[[witness-consciousness]]"
   - "[[phenomenology]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[introspection]]"
   - "[[default-mode-network]]"
   - "[[contemplative-epistemology]]"
@@ -93,7 +93,7 @@ A central question: who is the author of the return? Phase Three — the deliber
 
 The Map's framework handles this naturally. Noticing is the brain presenting information to consciousness: "attention has wandered." This is the ascending, physical-to-mental direction. Returning is consciousness acting on that information: "redirect to the breath." This is the descending, mental-to-physical direction. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet predicts exactly this two-directional structure within a single attentional event.
 
-The asymmetry also illuminates why returning attention feels like genuine agency. It is not mere stimulus-response. Between noticing and returning, there is a moment — often very brief — where the meditator could do something else: follow the new thought, give up the practice, shift to a different object. The returning is a choice, however rapid, and carries the [[phenomenology-of-choice|phenomenal signature of choosing]].
+The asymmetry also illuminates why returning attention feels like genuine agency. It is not mere stimulus-response. Between noticing and returning, there is a moment — often very brief — where the meditator could do something else: follow the new thought, give up the practice, shift to a different object. The returning is a choice, however rapid, and carries the [[phenomenology-of-choice-and-volition|phenomenal signature of choosing]].
 
 ## What Returns?
 

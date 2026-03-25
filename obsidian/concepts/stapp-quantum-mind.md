@@ -4,7 +4,7 @@ description: "Mental effort operates through the quantum Zeno effect: rapid atte
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -21,7 +21,7 @@ concepts:
   - "[[measurement-problem]]"
   - "[[causal-closure]]"
   - "[[agent-causation]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[meditation-and-consciousness-modes]]"
   - "[[witness-consciousness]]"
   - "[[illusionism]]"

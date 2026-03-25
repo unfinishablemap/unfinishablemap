@@ -4,7 +4,7 @@ description: "What does it feel like when consciousness acts on matter? Effort, 
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-20T10:44:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 last_deep_review: 2026-03-08T13:37:00+00:00
 draft: false
 topics:
@@ -15,7 +15,7 @@ topics:
   - "[[cross-cultural-phenomenology-of-agency]]"
 concepts:
   - "[[mental-effort]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[introspective-opacity]]"
   - "[[attention-as-interface]]"
 related_articles:
@@ -61,9 +61,9 @@ A physicalist can respond that the brain's resource-monitoring systems generate 
 
 ### Selection: The Feel of Choosing
 
-The second feature is the [[phenomenology-of-choice|distinctive phenomenology of selecting among alternatives]]. Choosing differs from observing in ways that resist deflationary explanation (Bayne & Levy, 2006; Pacherie, 2008). During deliberation, options present themselves as genuinely open — both feel like live possibilities you could actualise. There is a characteristic *settling* when one alternative becomes actual and others fade to counterfactuals. And after deciding, a sense of authorship — "I did that" — attaches to the outcome.
+The second feature is the [[phenomenology-of-choice-and-volition|distinctive phenomenology of selecting among alternatives]]. Choosing differs from observing in ways that resist deflationary explanation (Bayne & Levy, 2006; Pacherie, 2008). During deliberation, options present themselves as genuinely open — both feel like live possibilities you could actualise. There is a characteristic *settling* when one alternative becomes actual and others fade to counterfactuals. And after deciding, a sense of authorship — "I did that" — attaches to the outcome.
 
-The contrast with passive observation is phenomenologically vivid. When observing a coin flip, the outcome happens *to* you — no effort, no authorship. When choosing, you participate in determining the outcome. A table adapted from the [[phenomenology-of-choice|phenomenology of choice]] article captures the asymmetry:
+The contrast with passive observation is phenomenologically vivid. When observing a coin flip, the outcome happens *to* you — no effort, no authorship. When choosing, you participate in determining the outcome. A table adapted from the [[phenomenology-of-choice-and-volition|phenomenology of choice]] article captures the asymmetry:
 
 | Feature | Observation | Choice |
 |---------|-------------|--------|
@@ -164,7 +164,7 @@ This apex article synthesises:
 - [[mental-imagery-causal-role-of-consciousness|Mental Imagery and the Causal Role of Consciousness]] — Voluntary imagery as a concrete test case where phenomenal content produces measurable physical effects
 - [[cross-cultural-phenomenology-of-agency|Cross-Cultural Phenomenology of Agency]] — How cultural frameworks shape agency experience while leaving a universal phenomenological core intact
 - [[mental-effort|Mental Effort and the Quantum Zeno Effect]] — The phenomenology of effortful attention as evidence for consciousness-matter interaction
-- [[phenomenology-of-choice|Phenomenology of Choice]] — The experiential structure of deliberation, decision, and authorship
+- [[phenomenology-of-choice-and-volition|Phenomenology of Choice]] — The experiential structure of deliberation, decision, and authorship
 - [[introspective-opacity|Introspective Opacity]] — Why we cannot observe our own cognitive processes, with volitional opacity as the deepest case
 - [[attention-as-interface|Attention as Interface]] — How attention functions as the causal bridge between consciousness and neural systems
 - [[attention-as-causal-bridge|Attention as Causal Bridge]] — The mechanism by which attention mediates consciousness-brain interaction

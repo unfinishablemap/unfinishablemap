@@ -4,7 +4,7 @@ description: "Working memory manipulation requires consciousness while maintenan
 created: 2026-01-17
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-03-23T21:43:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,7 +20,7 @@ concepts:
   - "[[semantic-memory]]"
   - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[consciousness-as-amplifier]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[metacognition]]"
   - "[[illusionism]]"
   - "[[philosophical-zombies]]"
@@ -84,7 +84,7 @@ What makes manipulation specifically consciousness-requiring?
 
 Manipulation involves operating on representations as representations—taking working memory contents as objects of thought rather than merely having them present. Comparing two items requires holding both while attending to their relationship. Transforming an item (rotating a mental image, negating a proposition) requires tracking both original and transformation. Combining items into novel structures requires representing the combination as distinct from its parts.
 
-These operations have the structure of [[metacognition|metarepresentation]]—representing representations. You cannot take something as an object of thought without being conscious of it; otherwise, it's not an object for you but merely a state you're in. The [[phenomenology-of-choice|phenomenology of deliberate manipulation]]—holding alternatives, comparing them, settling on one—reflects this structure.
+These operations have the structure of [[metacognition|metarepresentation]]—representing representations. You cannot take something as an object of thought without being conscious of it; otherwise, it's not an object for you but merely a state you're in. The [[phenomenology-of-choice-and-volition|phenomenology of deliberate manipulation]]—holding alternatives, comparing them, settling on one—reflects this structure.
 
 [[mental-effort|Mental effort]] tracks this distinction precisely. Passive maintenance feels effortless—phone numbers "held in mind" without active work. Active manipulation feels effortful—mental arithmetic, logical reasoning, creative recombination all involve phenomenal cost.
 
@@ -168,7 +168,7 @@ Working memory research supports key positions:
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: WM operates at neural timescales (seconds), while quantum effects occur at much shorter timescales (nanoseconds to microseconds). The activity-silent hypothesis—synaptic calcium traces ~1 second—may bridge these scales. Quantum effects at synapses during manipulation could, speculatively, scale up to WM-level phenomena. One proposed mechanism is the quantum Zeno effect: conscious attention repeatedly "observing" quantum states might hold desired neural patterns against decoherence. This remains highly speculative—the Map's core argument for consciousness participating in WM manipulation doesn't depend on quantum mechanisms.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: WM manipulation demonstrates downward causation. Conscious intent to manipulate WM content produces measurable neural changes. Whatever the mechanism, information flows from consciousness to brain when we actively work with WM contents. The [[phenomenology-of-choice|phenomenology of choosing]] maps directly onto WM manipulation: both involve effortful engagement rather than passive observation, both have the qualitative character of *doing* rather than *undergoing*.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: WM manipulation demonstrates downward causation. Conscious intent to manipulate WM content produces measurable neural changes. Whatever the mechanism, information flows from consciousness to brain when we actively work with WM contents. The [[phenomenology-of-choice-and-volition|phenomenology of choosing]] maps directly onto WM manipulation: both involve effortful engagement rather than passive observation, both have the qualitative character of *doing* rather than *undergoing*.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: WM manipulation presupposes determinate content. When you hold "5 + 3" in working memory and manipulate it to get "8," the answer is determinate—not superposed across branches. In Many-Worlds, every manipulation would produce all possible outcomes in different branches; the sense that *this* manipulation produced *this* result would be branch-relative illusion. But the phenomenology of successful manipulation is not of accessing one among many equally real outcomes—it is of determining what the answer *is*. This indexical determinacy fits collapse interpretations where manipulation genuinely selects outcomes. This represents a philosophical standoff rather than decisive refutation; Many-Worlds proponents will analyse the phenomenology differently.
 

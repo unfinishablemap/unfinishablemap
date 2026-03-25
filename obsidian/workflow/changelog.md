@@ -5,6 +5,12 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-25 01:40 UTC - refine-draft
+- **Status**: Success
+- **File**: 62 files across topics/, concepts/, apex/, voids/
+- **Changes**: Updated all wikilinks from archived [[phenomenology-of-choice]] (115 refs) and [[phenomenology-of-volition]] (15 refs) to [[phenomenology-of-choice-and-volition]]. Updated ai_modified timestamps on all changed files. Cancelled stale deep-review task for archived phenomenology-of-volition.
+- **Published**: yes
+
 ## 2026-03-25 01:24 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/entanglement-binding-hypothesis]]

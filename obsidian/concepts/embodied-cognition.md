@@ -4,7 +4,7 @@ description: "Cognition depends on the body and extends into the environment. Th
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-24T11:51:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ concepts:
   - "[[the-interface-location-problem]]"
   - "[[witness-consciousness]]"
   - "[[consciousness-as-amplifier]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[symbol-grounding-problem]]"
   - "[[causal-delegation]]"
 related_articles:
@@ -110,7 +110,7 @@ The [[consciousness-as-amplifier|consciousness-as-amplifier]] hypothesis illumin
 
 The novice requires constant amplification—conscious attention directing each movement. The expert has trained procedural systems to handle execution; consciousness withdraws to meta-level oversight, ready to re-engage but not micromanaging. Choking represents inappropriate amplification: the expert re-engages conscious monitoring at the execution level, disrupting procedural systems optimised to operate without it.
 
-This connects to the [[phenomenology-of-choice|phenomenology of choice]]. The expert in flow isn't experiencing *less*—they're experiencing differently. Both absorbed and effortful modes involve phenomenal consciousness; they differ in what consciousness is doing.
+This connects to the [[phenomenology-of-choice-and-volition|phenomenology of choice]]. The expert in flow isn't experiencing *less*—they're experiencing differently. Both absorbed and effortful modes involve phenomenal consciousness; they differ in what consciousness is doing.
 
 ## The Extended Mind Debate
 
@@ -191,7 +191,7 @@ The key point: embodied cognition challenges a specific historical position (Car
 ## Further Reading
 
 - [[consciousness-as-amplifier]] — How consciousness amplifies cognition, illuminating the Dreyfus progression
-- [[phenomenology-of-choice]] — The felt distinction between absorbed action and deliberate control
+- [[phenomenology-of-choice-and-volition]] — The felt distinction between absorbed action and deliberate control
 - [[phenomenology]] — The philosophical tradition grounding embodied cognition
 - [[phenomenological-psychiatry-and-altered-experience]] — Clinical evidence that disrupted embodiment reveals consciousness's structural architecture
 - [[mind-brain-separation]] — The filter theory that can accommodate embodiment

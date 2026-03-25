@@ -4,7 +4,7 @@ description: "Thinking hard feels like work. The experience of reasoning—holdi
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-03-23T02:21:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,7 +12,7 @@ topics:
 concepts:
   - "[[cognitive-phenomenology]]"
   - "[[mental-effort]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[epistemic-emotions]]"
   - "[[working-memory]]"
   - "[[attention-as-interface]]"
@@ -212,7 +212,7 @@ What does it feel like to reason? It feels like work—meaningful, directed, con
 
 - [[argument-from-reason]] — The structural case that reasoning requires irreducible consciousness
 - [[mental-effort]] — Attentional effort and the quantum Zeno mechanism
-- [[phenomenology-of-choice]] — The experience of deciding
+- [[phenomenology-of-choice-and-volition]] — The experience of deciding
 - [[phenomenology-of-epistemic-cognition]] — The experience of evaluating evidence
 - [[epistemic-emotions]] — Feelings directed at knowledge: curiosity, certainty, doubt
 - [[cognitive-phenomenology]] — Whether thinking itself has experiential character

@@ -4,7 +4,7 @@ description: "Motor control and attention share neural substrates. Dopamine mark
 created: 2026-01-18
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-03-23T06:25:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[mental-effort]]"
   - "[[agent-causation]]"
   - "[[interactionist-dualism]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[libet-experiments]]"
   - "[[quantum-neural-timing-constraints]]"
   - "[[decoherence]]"
@@ -179,7 +179,7 @@ The [[decoherence]] addresses the standard challenge—rapid decoherence in warm
 
 ## The Phenomenology of Motor Choice
 
-The [[phenomenology-of-choice|phenomenology of choice]] applies directly to motor selection. Willed movement has distinctive experiential character: felt effort that varies with difficulty, a strong sense of authorship, and the counterfactual sense that "I could have done otherwise." This phenomenological distinction tracks the neural distinction between willed and instructed action—real differences in brain function, not post-hoc narrative.
+The [[phenomenology-of-choice-and-volition|phenomenology of choice]] applies directly to motor selection. Willed movement has distinctive experiential character: felt effort that varies with difficulty, a strong sense of authorship, and the counterfactual sense that "I could have done otherwise." This phenomenological distinction tracks the neural distinction between willed and instructed action—real differences in brain function, not post-hoc narrative.
 
 The sense of agency depends on efference copy—the brain's prediction of sensory consequences of motor commands. Match between prediction and feedback produces sense of agency; mismatch produces passivity experiences (as in alien hand syndrome). From the Map's perspective, efference copy may be how consciousness "reads" whether selection succeeded. The progression from strong authorship (novice) to weak authorship (expert) reflects [[skill-delegation]]—consciousness trains the motor system, then withdraws from active control while retaining override capacity. The full [[consciousness-and-skill-acquisition|skill acquisition arc]] charts this transition in detail across deliberate practice, flow, and skill restructuring.
 
@@ -226,7 +226,7 @@ This framework identifies *where* consciousness might influence motor selection�
 - [[attention-as-interface]] — The interface hypothesis foundation
 - [[dopamine-and-the-unified-interface]] — How dopamine prepares the unified attention-motor system for conscious selection
 - [[downward-causation]] — How consciousness affects neural processes
-- [[phenomenology-of-choice]] — The experiential structure of choosing
+- [[phenomenology-of-choice-and-volition]] — The experiential structure of choosing
 - [[libet-experiments]] — Detailed analysis of readiness potential experiments
 - [[decoherence]] — The decoherence challenge and responses
 - [[topics/free-will]] — The topic page on free will and determinism

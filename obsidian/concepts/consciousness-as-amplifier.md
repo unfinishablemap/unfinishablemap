@@ -4,7 +4,7 @@ description: "Consciousness amplifies intelligence by enabling flexible deployme
 created: 2026-01-21
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 last_deep_review: 2026-03-04T11:37:00+00:00
 draft: false
 topics:
@@ -23,7 +23,7 @@ concepts:
   - "[[decoherence]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[witness-consciousness]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[phenomenal-consciousness]]"
   - "[[access-consciousness]]"
   - "[[causal-delegation]]"
@@ -208,7 +208,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet pr
 
 The [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects interpretations where consciousness fragments into parallel streams. The amplification hypothesis supports determinacy: consciousness selects among possibilities, producing the *this* rather than *that* that cognition requires. Logical reasoning depends on determinate conclusions; counterfactual thinking requires distinguishing actual from possible; metarepresentation demands stable beliefs to take as objects. If consciousness amplifies through selection, it must select—producing singular outcomes, not branching alternatives.
 
-The [[phenomenology-of-choice|phenomenology of deliberate reasoning]] involves holding alternatives in mind, comparing them, and settling on one. If all alternatives are equally actualised across branches, the phenomenology of settling—the felt resolution when a conclusion is reached—becomes illusory. The correlation between consciousness-dependent capacities and successful reasoning would be coincidental. The systematic pattern suggests consciousness is doing selective work.
+The [[phenomenology-of-choice-and-volition|phenomenology of deliberate reasoning]] involves holding alternatives in mind, comparing them, and settling on one. If all alternatives are equally actualised across branches, the phenomenology of settling—the felt resolution when a conclusion is reached—becomes illusory. The correlation between consciousness-dependent capacities and successful reasoning would be coincidental. The systematic pattern suggests consciousness is doing selective work.
 
 ### Occam's Razor Has Limits
 
@@ -222,7 +222,7 @@ Epiphenomenalism appears "simpler" because it doesn't posit mental causation. Bu
 - [[baseline-cognition]] — What neural systems achieve without conscious amplification
 - [[working-memory]] — The neural workspace where amplification operates; maintenance/manipulation distinction
 - [[attention-as-interface]] — How consciousness engages neural systems
-- [[phenomenology-of-choice]] — The felt structure of deliberate selection
+- [[phenomenology-of-choice-and-volition]] — The felt structure of deliberate selection
 - [[metacognition|metarepresentation]] — Representing representations as representations
 - [[causal-delegation]] — How consciousness takes over causal work from neural states (the causal structure for amplification)
 - [[delegatory-dualism]] — Saad's full framework for mental causation without overdetermination

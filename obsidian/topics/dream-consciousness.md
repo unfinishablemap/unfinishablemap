@@ -4,7 +4,7 @@ description: "Dreams provide the most accessible everyday evidence for the filte
 created: 2026-01-21
 modified: 2026-02-23
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ concepts:
   - "[[default-mode-network]]"
   - "[[altered-states-of-consciousness]]"
   - "[[anoetic-noetic-autonoetic-consciousness]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[witness-consciousness]]"
   - "[[meditation-and-consciousness-modes]]"
   - "[[phenomenal-consciousness]]"
@@ -119,7 +119,7 @@ Lucid dreaming involves [[anoetic-noetic-autonoetic-consciousness|autonoetic awa
 
 ### Voluntary Control
 
-Lucid dreamers report varying degrees of dream control—flying, transforming objects, changing locations. The [[phenomenology-of-choice|phenomenology of these choices]] mirrors waking voluntary action, supporting the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. Control is not guaranteed: many lucid dreamers achieve lucidity without control, suggesting the interface is negotiated rather than dominated. On the filter model, this is partial filter reactivation: some executive constraint returns while sensory constraint remains absent, and the [[attention-as-interface|attention-as-interface]] hypothesis proposes consciousness interacts through attentional mechanisms that only partially reactivate during lucid REM.
+Lucid dreamers report varying degrees of dream control—flying, transforming objects, changing locations. The [[phenomenology-of-choice-and-volition|phenomenology of these choices]] mirrors waking voluntary action, supporting the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. Control is not guaranteed: many lucid dreamers achieve lucidity without control, suggesting the interface is negotiated rather than dominated. On the filter model, this is partial filter reactivation: some executive constraint returns while sensory constraint remains absent, and the [[attention-as-interface|attention-as-interface]] hypothesis proposes consciousness interacts through attentional mechanisms that only partially reactivate during lucid REM.
 
 ## Problem-Solving: Dreams That Outperform Waking
 
@@ -220,7 +220,7 @@ The Map's interpretation of dream consciousness would face difficulty if:
 - [[metacognition]] — Metacognition's role in consciousness
 - [[hypnagogic-phenomenology-and-interface-modulation]] — The sleep-onset transition as graded interface modulation
 - [[altered-states-of-consciousness]] — Interface configurations across altered states
-- [[phenomenology-of-choice]] — The qualitative character of voluntary selection
+- [[phenomenology-of-choice-and-volition]] — The qualitative character of voluntary selection
 - [[higher-order-theories]] — Higher-Order Thought theories challenged by non-lucid dream consciousness
 - [[capability-division-problem]] — Which capabilities belong to the brain and which to consciousness
 - [[memory-as-dual-domain-capability]] — Memory as a dual-domain capability requiring both physical and non-physical contributions

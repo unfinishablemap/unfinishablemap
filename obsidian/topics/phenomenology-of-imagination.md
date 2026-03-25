@@ -4,7 +4,7 @@ description: "Imagination's distinctive phenomenal character—voluntary, quasi-
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -73,7 +73,7 @@ The deepest philosophical significance of imagination lies in its capacity for [
 
 When you imagine what it would be like to live in a different era, you do not merely compute facts about that era. You adopt a perspective within the imagined scenario. You feel the contours of an alternative existence from the inside. This capacity to inhabit non-actualities from a first-person perspective is central to moral reasoning (imagining another's suffering), to planning (inhabiting a future scenario to evaluate it), and to creativity (dwelling in a possibility space where novel combinations can be experienced rather than merely calculated).
 
-This capacity also bears on [[topics/free-will]]. Genuine deliberation requires more than computing outcomes—it requires *inhabiting* alternatives from the inside, feeling their contours well enough to choose between them. Imagination provides the experiential substrate for the [[phenomenology-of-choice|open alternatives]] that meaningful choice requires.
+This capacity also bears on [[topics/free-will]]. Genuine deliberation requires more than computing outcomes—it requires *inhabiting* alternatives from the inside, feeling their contours well enough to choose between them. Imagination provides the experiential substrate for the [[phenomenology-of-choice-and-volition|open alternatives]] that meaningful choice requires.
 
 This phenomenal inhabitation distinguishes conscious imagination from computational simulation. A weather model simulates future states without inhabiting them. An AI generates novel text without experiencing the semantic landscape from within. The conscious imaginer does something these systems do not: they bring [[phenomenal-consciousness]] to bear on non-actual content, experiencing what-if from the inside. The Map's [[consciousness-and-counterfactual-reasoning|treatment of counterfactual reasoning]] argues that representing non-actuality requires irreducible consciousness precisely because non-actual scenarios have no external referent to anchor representation—the mind must generate both the content and its experiential framework.
 

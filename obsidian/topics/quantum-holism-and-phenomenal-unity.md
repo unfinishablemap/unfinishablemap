@@ -4,7 +4,7 @@ description: "Classical binding mechanisms coordinate separate processes but can
 created: 2026-01-21
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-03-24T16:34:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ concepts:
   - "[[haecceity]]"
   - "[[philosophical-zombies]]"
   - "[[witness-consciousness]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[consciousness-as-amplifier]]"
   - "[[quantum-biology]]"
   - "[[quantum-neural-mechanisms-and-coherence]]"
@@ -204,7 +204,7 @@ The Map holds that current evidence favours the quantum position while acknowled
 - [[hard-problem-of-consciousness]] — Why experience exists at all
 - [[interactionist-dualism]] — The framework within which unity finds its place
 - [[illusionism]] — The deflationary challenge (and why it fails)
-- [[phenomenology-of-choice]] — How conscious selection operates at the phenomenal level
+- [[phenomenology-of-choice-and-volition]] — How conscious selection operates at the phenomenal level
 - [[consciousness-as-amplifier]] — How quantum binding might amplify cognitive capacities
 - [[quantum-consciousness]] — Orch OR and other quantum consciousness theories
 - [[quantum-biology]] — Established quantum effects in living systems

@@ -4,7 +4,7 @@ description: "Curiosity, doubt, certainty, insight: feelings directed at knowled
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-03-10T06:13:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,7 +13,7 @@ concepts:
   - "[[introspection]]"
   - "[[cognitive-phenomenology]]"
   - "[[phenomenology-of-self-awareness]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[illusionism]]"
   - "[[working-memory]]"
   - "[[attention-as-interface]]"
@@ -105,7 +105,7 @@ The TOT state sharpens this: it isn't just functional retrieval failure—there 
 
 ## Epistemic Emotions and Decision
 
-Epistemic emotions guide cognitive behaviour: curiosity directs inquiry, doubt triggers re-evaluation, certainty ends search. If these emotions were causally inert, their existence would be evolutionarily puzzling. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet proposes that epistemic emotions are consciousness engaging with cognition, not merely observing it. The connection to [[phenomenology-of-choice|the phenomenology of choice]] is illuminating—decisions involve epistemic emotions as motivational force, not merely information.
+Epistemic emotions guide cognitive behaviour: curiosity directs inquiry, doubt triggers re-evaluation, certainty ends search. If these emotions were causally inert, their existence would be evolutionarily puzzling. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet proposes that epistemic emotions are consciousness engaging with cognition, not merely observing it. The connection to [[phenomenology-of-choice-and-volition|the phenomenology of choice]] is illuminating—decisions involve epistemic emotions as motivational force, not merely information.
 
 ## Contemplative Perspectives
 
@@ -173,7 +173,7 @@ None of these conditions currently obtains.
 - [[introspection]] — First-person access to epistemic states
 - [[cognitive-phenomenology]] — Whether thinking itself has phenomenal character
 - [[phenomenology-of-self-awareness]] — Why error has no distinctive feeling
-- [[phenomenology-of-choice]] — The felt quality of deciding
+- [[phenomenology-of-choice-and-volition]] — The felt quality of deciding
 - [[working-memory]] — Where epistemic emotions interface with cognitive capacity
 - [[illusionism]] — The challenge that epistemic phenomenology is illusion
 - [[philosophical-zombies]] — Why functional duplicates without experience pose problems

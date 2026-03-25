@@ -4,7 +4,7 @@ description: "Narrative coherence is the felt quality of a life making sense as 
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -15,7 +15,7 @@ concepts:
   - "[[temporal-consciousness]]"
   - "[[parfit-reductionism]]"
   - "[[haecceity]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
 related_articles:
   - "[[tenets]]"
   - "[[the-self-minimal-narrative-and-substantial]]"
@@ -56,7 +56,7 @@ This may be more than a cognitive bias to be corrected. If narrative pattern-mat
 
 Narrative coherence is a *relational* property—how psychological states are organised into a meaningful whole, not the states themselves. It requires a subject who grasps their temporal arc as a unity: who can ask "Does this choice fit the life I am living?" rather than merely "Do I want this now?" This is where narrative coherence connects to [[haecceity]]—the irreducible *thisness* of being a particular self. The subject who experiences coherence is not a generic narrative-processing function but *this* person, whose specific life is at stake.
 
-This is why diachronic agency depends on narrative coherence rather than psychological continuity alone. Sustaining a project through difficulty—writing a book, maintaining a relationship, pursuing a career—requires not just remembering the initial commitment (continuity) but experiencing the present effort as a meaningful continuation of it (coherence). When the connection between past commitment and present effort becomes merely causal rather than narratively intelligible, perseverance becomes willpower without reason. The [[phenomenology-of-choice|phenomenology of choice]] under these conditions shifts accordingly: decisions feel arbitrary rather than authored, imposed rather than flowing from one's ongoing commitments.
+This is why diachronic agency depends on narrative coherence rather than psychological continuity alone. Sustaining a project through difficulty—writing a book, maintaining a relationship, pursuing a career—requires not just remembering the initial commitment (continuity) but experiencing the present effort as a meaningful continuation of it (coherence). When the connection between past commitment and present effort becomes merely causal rather than narratively intelligible, perseverance becomes willpower without reason. The [[phenomenology-of-choice-and-volition|phenomenology of choice]] under these conditions shifts accordingly: decisions feel arbitrary rather than authored, imposed rather than flowing from one's ongoing commitments.
 
 A no-self theorist might object that narrative coherence is itself a construction—a story the brain tells, with no substantial self behind it. Buddhist philosophy treats attachment to personal narrative as a source of suffering rather than evidence for an enduring subject. The Map's response, developed in [[self-and-self-consciousness]], is that the constructionist account faces the same problem as Parfit's: *someone* must be doing the constructing. A narrative that organises itself without a narrator is just a pattern; narrative coherence as lived requires a subject who experiences the organising as their own activity. The phenomenological data—the difference between coherence and its absence—demands more than pattern without perspective.
 
@@ -88,7 +88,7 @@ Narrative coherence connects to the Map's foundational commitments through its d
 - [[the-self-minimal-narrative-and-substantial]] — Three layers of selfhood and where narrative fits
 - [[personal-identity]] — Why indexical identity matters for the coherent subject
 - [[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]] — The cognitive machinery of temporal self-projection
-- [[phenomenology-of-choice]] — How choices feel authored and narratively grounded
+- [[phenomenology-of-choice-and-volition]] — How choices feel authored and narratively grounded
 - [[temporal-consciousness]] — Temporal unity and experiential flow across time, which narrative coherence builds upon
 - [[parfit-reductionism]] — Why psychological continuity alone is insufficient
 - [[moral-responsibility]] — How coherence enables responsibility across time

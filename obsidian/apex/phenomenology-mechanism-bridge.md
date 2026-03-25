@@ -4,7 +4,7 @@ description: "A four-level argument from phenomenology through neural architectu
 created: 2026-03-20
 modified: 2026-03-20
 human_modified: null
-ai_modified: 2026-03-21T07:09:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -14,7 +14,7 @@ concepts:
   - "[[mental-causation]]"
   - "[[attention-as-interface]]"
   - "[[motor-selection]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[interactionist-dualism]]"
 related_articles:
   - "[[tenets]]"

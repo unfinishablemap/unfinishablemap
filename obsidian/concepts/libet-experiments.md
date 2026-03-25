@@ -4,7 +4,7 @@ description: "Do brains decide before we're aware? The readiness potential may b
 created: 2026-01-14
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-03-21T00:57:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 last_deep_review: 2026-03-06T17:38:00+00:00
 draft: false
 topics:
@@ -194,7 +194,7 @@ The Map's position is that current evidence supports selection over randomness, 
 
 ## Further Reading
 
-- [[phenomenology-of-volition]] — The four components of volitional experience: initiation, sustained control, effort, and veto
+- [[phenomenology-of-choice-and-volition]] — The four components of volitional experience: initiation, sustained control, effort, and veto
 - [[volitional-control]] — The first-person structure of willing, vetoing, and action selection
 - [[topics/free-will]] — The broader philosophical context
 - [[motor-selection]] — Extending the selection framework from attention to motor control

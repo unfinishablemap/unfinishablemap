@@ -4,7 +4,7 @@ description: "Why controlling attention feels like work—and what this universa
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-21T00:57:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -25,7 +25,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[decoherence]]"
   - "[[haecceity]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
 related_articles:
   - "[[tenets]]"
   - "[[stapp-mental-effort-mind-matter-2026-01-14]]"
@@ -62,7 +62,7 @@ This neural distinction explains why effort tracks volition. Instructed attentio
 
 ### Choosing vs Observing
 
-The [[phenomenology-of-choice|phenomenology of choice]] clarifies what effort tracks. The [[trilemma-of-selection|trilemma of selection]] makes the logical structure explicit: at any decision point, the outcome is determined, random, or consciously selected—and only selection explains why choosing feels effortful. When observing a coin flip, you experience the outcome as *happening to* you—no effort, no sense of authorship. When choosing, you participate in determining the outcome. The selection feels like something you *do*.
+The [[phenomenology-of-choice-and-volition|phenomenology of choice]] clarifies what effort tracks. The [[trilemma-of-selection|trilemma of selection]] makes the logical structure explicit: at any decision point, the outcome is determined, random, or consciously selected—and only selection explains why choosing feels effortful. When observing a coin flip, you experience the outcome as *happening to* you—no effort, no sense of authorship. When choosing, you participate in determining the outcome. The selection feels like something you *do*.
 
 This distinction extends to multiple levels: selecting among options, refraining from selection, and meta-choosing whether to enter selection mode at all. Each involves effort when consciously undertaken.
 
@@ -154,8 +154,8 @@ The phenomenology of effort provides a datum any account must explain. If contro
 - [[dopamine-and-the-unified-interface]] — Dopamine prepares the selection interface; theta oscillations provide the timing substrate
 - [[attention-as-interface]] — Attention as the interface layer between consciousness and neural systems
 - [[structure-of-attention]] — How attention is organized across voluntary, involuntary, and meta-attentional layers
-- [[phenomenology-of-volition]] — The four-component structure of willing: initiation, sustained control, effort, and veto
-- [[phenomenology-of-choice]] — The choosing-observing distinction
+- [[phenomenology-of-choice-and-volition]] — The four-component structure of willing: initiation, sustained control, effort, and veto
+- [[phenomenology-of-choice-and-volition]] — The choosing-observing distinction
 - [[meditation-and-consciousness-modes]] — Selection vs witnessing modes
 - [[illusionism]] — The eliminativist challenge
 - [[quantum-consciousness]] — Overview of quantum consciousness mechanisms

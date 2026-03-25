@@ -4,7 +4,7 @@ description: "Agent causation holds that persons originate actions directly as s
 created: 2026-01-15
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-03-24T11:06:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -26,7 +26,7 @@ concepts:
   - "[[causal-interface]]"
   - "[[downward-causation]]"
   - "[[mental-causation]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[explanatory-gap]]"
   - "[[authentic-vs-inauthentic-choice]]"
   - "[[causal-closure]]"
@@ -130,7 +130,7 @@ Agent-causal libertarians respond that the agent *does* explain the difference t
 The Map strengthens this response. Consciousness doesn't randomly select—it genuinely *chooses* based on reasons. The [[luck-objection|luck objection article]] develops the full response:
 
 1. **Selection vs randomness**: Active choosing differs fundamentally from passive reception of random outcomes
-2. **Phenomenology of effort**: Choosing feels effortful; lucky events don't feel like achievements (see [[mental-effort]], [[phenomenology-of-choice]])
+2. **Phenomenology of effort**: Choosing feels effortful; lucky events don't feel like achievements (see [[mental-effort]], [[phenomenology-of-choice-and-volition]])
 3. **Reasons-guided selection**: Consciousness selects based on reasons, making selection contrastively explicable
 4. **Retrocausal deepening**: If [[retrocausality|selection is atemporal]], the prior state is part of what consciousness selected
 
@@ -180,7 +180,7 @@ First-person experience confirms the distinction: being *pulled* by a loud noise
 
 This convergence across distinct domains—different brain regions, output pathways, evolutionary pressures—answers the single-domain objection. If agent-causal signatures were artifacts of attention-specific processing, they wouldn't appear identically in motor control.
 
-The Libet challenge has also substantially weakened. Schurger's reinterpretation treats the readiness potential as noise artifact; Sjöberg (2024) shows SMA resection doesn't impair voluntary action; Desmurget dissociates intention (parietal) from execution (premotor). Motor control now supports agent causation rather than challenging it. See [[volitional-control|Phenomenology of Volitional Control]] for the full phenomenological case—including the agency-ownership distinction and conscious veto—that survives the Libet reinterpretation. The [[phenomenology-of-volition|phenomenology of volition]] identifies four distinguishable components of willing—initiation, sustained control, effort, and veto—each with distinct neural correlates and clinical dissociation patterns.
+The Libet challenge has also substantially weakened. Schurger's reinterpretation treats the readiness potential as noise artifact; Sjöberg (2024) shows SMA resection doesn't impair voluntary action; Desmurget dissociates intention (parietal) from execution (premotor). Motor control now supports agent causation rather than challenging it. See [[volitional-control|Phenomenology of Volitional Control]] for the full phenomenological case—including the agency-ownership distinction and conscious veto—that survives the Libet reinterpretation. The [[phenomenology-of-choice-and-volition|phenomenology of volition]] identifies four distinguishable components of willing—initiation, sustained control, effort, and veto—each with distinct neural correlates and clinical dissociation patterns.
 
 This literature provides what agent-causal philosophy traditionally lacked: naturalistic mechanism—identifying where (frontal cortex), when (300ms window), and how (theta oscillations) agents act through neural networks, without reducing consciousness to neural activity.
 
@@ -223,7 +223,7 @@ Against [[concepts/epiphenomenalism]]: substance causation combined with the sel
 
 - [[process-and-consciousness]] — How process philosophy supports agent causation (apex synthesis)
 - [[quantum-indeterminacy-free-will]] — Systematic treatment including Kane's 2024 convergence
-- [[phenomenology-of-choice]] — Deliberation, decision, authorship
+- [[phenomenology-of-choice-and-volition]] — Deliberation, decision, authorship
 - [[consciousness-and-creativity]] — Generation beyond selection
 - [[topics/free-will]] — The broader question and Map's position
 - [[interactionist-dualism]] — Mind-body interaction

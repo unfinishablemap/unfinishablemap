@@ -4,7 +4,7 @@ description: "Reasons-responsiveness is the capacity to track normative relation
 created: 2026-02-01
 modified: 2026-02-01
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 last_deep_review: 2026-03-10T12:08:00+00:00
 draft: false
 topics:
@@ -14,7 +14,7 @@ concepts:
   - "[[agent-causation]]"
   - "[[luck-objection]]"
   - "[[mental-effort]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[counterfactual-reasoning]]"
   - "[[attention-as-interface]]"
   - "[[normative-phenomenology]]"
@@ -66,7 +66,7 @@ Crucially, reasons feel like they have *valence*—some considerations feel weig
 
 The [[mental-effort|phenomenology of effort]] supports this. Hard choices feel hard because reasoning through difficult trade-offs requires sustained engagement. Random processes don't feel like work; grasping why one option is better does. The felt cost of concentration corresponds to genuine cognitive work—consciousness tracking normative relationships that wouldn't be tracked by automatic processing.
 
-The [[phenomenology-of-choice|phenomenology of choice]] reveals the reasons-responsive structure. Choosing feels like determining an outcome *for* reasons. The experience isn't "option A randomly emerged from noise" but "I selected A because considerations X and Y favoured it." This phenomenological datum requires explanation. Eliminativists deny it; illusionists reframe it as misrepresentation; the Map takes it as evidence that consciousness genuinely engages with normative relationships.
+The [[phenomenology-of-choice-and-volition|phenomenology of choice]] reveals the reasons-responsive structure. Choosing feels like determining an outcome *for* reasons. The experience isn't "option A randomly emerged from noise" but "I selected A because considerations X and Y favoured it." This phenomenological datum requires explanation. Eliminativists deny it; illusionists reframe it as misrepresentation; the Map takes it as evidence that consciousness genuinely engages with normative relationships.
 
 [[counterfactual-reasoning|Counterfactual reasoning]] provides the representational substrate for reasons-responsiveness. Evaluating reasons requires representing "what would follow if I chose A" versus "what would follow if I chose B." Without counterfactual capacity, consciousness could not evaluate options against consequences. The connection is direct: counterfactual evaluation is *how* consciousness engages with reasons.
 
@@ -129,7 +129,7 @@ Reasons-responsiveness connects to multiple [[tenets]]:
 - [[luck-objection]] — Why reasons-guidance distinguishes selection from luck
 - [[agent-causation]] — How agents exercise causal power through reasons-responsive selection
 - [[topics/free-will]] — The broader framework connecting reasons-responsiveness to genuine choice
-- [[phenomenology-of-choice]] — The experiential structure of reasons-responsive deliberation
+- [[phenomenology-of-choice-and-volition]] — The experiential structure of reasons-responsive deliberation
 - [[counterfactual-reasoning]] — The representational capacity enabling evaluation of reasons
 - [[mental-effort]] — Why reasoning feels effortful and what this suggests
 - [[attention-as-interface|voluntary attention]] — The paradigm case of reasons-responsive selection in attention deployment

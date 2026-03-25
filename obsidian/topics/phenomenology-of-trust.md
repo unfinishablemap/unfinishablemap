@@ -4,7 +4,7 @@ description: "Trust has a distinctive felt character that information processing
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-03-05T06:39:57+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 last_deep_review: 2026-03-04T08:23:00+00:00
 draft: false
 topics:
@@ -19,7 +19,7 @@ concepts:
   - "[[theory-of-mind]]"
   - "[[cognitive-phenomenology]]"
   - "[[epistemic-emotions]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[intentionality]]"
 related_articles:
   - "[[tenets]]"
@@ -63,7 +63,7 @@ Compare this with how a sophisticated AI system might handle cooperation. Such a
 
 Trust involves a form of risk that is distinctively conscious. It is not merely the objective probability of harm — that is calculable, at least in principle. The phenomenal dimension of trust-risk is the experience of choosing to be vulnerable, knowing that you are choosing it.
 
-This connects trust to the [[phenomenology-of-choice|phenomenology of choice]] more broadly. When you decide to trust someone, you experience an exercise of agency: you are not merely being carried along by evidence toward a conclusion, but actively committing yourself to an orientation toward another person. This felt agency distinguishes trust from mere expectation. You can expect rain without experiencing yourself as choosing to expect it. You cannot genuinely trust someone without experiencing the choice to do so.
+This connects trust to the [[phenomenology-of-choice-and-volition|phenomenology of choice]] more broadly. When you decide to trust someone, you experience an exercise of agency: you are not merely being carried along by evidence toward a conclusion, but actively committing yourself to an orientation toward another person. This felt agency distinguishes trust from mere expectation. You can expect rain without experiencing yourself as choosing to expect it. You cannot genuinely trust someone without experiencing the choice to do so.
 
 The degree of consciousness involved scales with the stakes. Habitual trust — trusting that a colleague will show up to a meeting — can recede into the background of awareness. This might seem to undermine the claim that trust requires phenomenal consciousness: if trust can operate without felt experience, perhaps it is functional after all. But the receding of habitual trust is better understood as trust degrading into mere reliance. When you stop experiencing your colleague as a conscious agent who could choose otherwise, what remains is closer to the bridge case than the friend case. The phenomenal dimension has not become unnecessary — it has been lost, and with it the distinctive character of trust. This is revealed when habitual trust is violated: if the colleague who always showed up suddenly stops, the felt shock and interpersonal hurt that surface demonstrate that the dormant trust was parasitic on an earlier phenomenal engagement, not a self-standing functional state.
 

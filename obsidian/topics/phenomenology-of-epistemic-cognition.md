@@ -4,7 +4,7 @@ description: "Weighing evidence, changing beliefs, and arriving at knowledge all
 created: 2026-02-01
 modified: 2026-03-16
 human_modified:
-ai_modified: 2026-03-16T05:02:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[metacognition]]"
   - "[[mental-effort]]"
   - "[[contemplative-epistemology]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[phenomenology]]"
   - "[[qualia]]"
   - "[[reasons-responsiveness]]"
@@ -140,7 +140,7 @@ The Unfinishable Map's [[tenets]] find substantial support in epistemic phenomen
 - [[phenomenology-of-intellectual-effort]]
 - [[phenomenology-of-self-awareness]]
 - [[phenomenology-of-deliberation-under-uncertainty]]
-- [[phenomenology-of-choice]]
+- [[phenomenology-of-choice-and-volition]]
 - [[phenomenology-of-conceptual-change]]
 - [[phenomenology-of-philosophical-disagreement]]
 - [[phenomenology-of-framework-inhabitation]]

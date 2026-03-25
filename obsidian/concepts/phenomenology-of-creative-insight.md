@@ -4,7 +4,7 @@ description: "Creative insight unfolds through qualitatively distinct experienti
 created: 2026-03-07
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-03-24T19:24:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[phenomenology-of-intellectual-effort]]"
   - "[[consciousness-creativity-novelty-generation-2026-01-19]]"
   - "[[agent-causation]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[phenomenology-of-conceptual-change]]"
   - "[[mathematical-truth-and-conscious-access]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
@@ -148,7 +148,7 @@ The phenomenology of creative insight supports several of the Map's [[tenets]].
 - [[phenomenology-of-understanding-and-meaning]]
 - [[consciousness-and-creative-distinctiveness]]
 - [[agent-causation]]
-- [[phenomenology-of-choice]]
+- [[phenomenology-of-choice-and-volition]]
 - [[phenomenology-of-conceptual-change]]
 - [[phenomenology-of-agency-vs-passivity]]
 - [[temporal-structure-of-understanding]] — The temporal phenomenology of the "click" and gradual comprehension

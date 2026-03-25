@@ -4,13 +4,13 @@ description: "Actions that are genuinely intentional yet arise without prior del
 created: 2026-02-13
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-03-21T02:27:00+00:00
+ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
 concepts:
   - "[[agent-causation]]"
-  - "[[phenomenology-of-choice]]"
+  - "[[phenomenology-of-choice-and-volition]]"
   - "[[attention-as-interface]]"
   - "[[motor-selection]]"
   - "[[implicit-memory]]"
@@ -22,7 +22,7 @@ concepts:
   - "[[authentic-vs-inauthentic-choice]]"
   - "[[interface-friction]]"
   - "[[reasons-responsiveness]]"
-  - "[[phenomenology-of-volition]]"
+  - "[[phenomenology-of-choice-and-volition]]"
 related_articles:
   - "[[tenets]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
@@ -52,7 +52,7 @@ Spontaneous intentional actions are distinguished from neighbouring categories b
 
 **Not habitual.** Habits are automatic, stereotyped, and context-triggered. Tying your shoelaces the same way every morning is habitual. [[implicit-memory|Automatised skills]] run without conscious contribution, and the [[choking-phenomenon-mental-causation|choking phenomenon]] shows that conscious re-engagement actually disrupts them. Spontaneous intentional actions are different: they are novel or context-sensitive responses that could not have been produced by a fixed motor programme.
 
-**Not deliberate.** Deliberate choice involves weighing options, feeling the [[phenomenology-of-choice|weight of alternatives]], and experiencing the settling moment when one option becomes actual. Spontaneous intentional actions skip this arc. There is no felt deliberation, no comparison of alternatives, no effortful resolution. In Searle's (1983) terms, they have *intention-in-action* without a preceding *prior intention*—the intentional content is present in the doing itself, not formulated beforehand.
+**Not deliberate.** Deliberate choice involves weighing options, feeling the [[phenomenology-of-choice-and-volition|weight of alternatives]], and experiencing the settling moment when one option becomes actual. Spontaneous intentional actions skip this arc. There is no felt deliberation, no comparison of alternatives, no effortful resolution. In Searle's (1983) terms, they have *intention-in-action* without a preceding *prior intention*—the intentional content is present in the doing itself, not formulated beforehand.
 
 **Not reflexive.** Reflexes are involuntary and stereotyped—pulling a hand from a hot surface, blinking at a puff of air. Spontaneous intentional actions are flexible, appropriate to context, and owned. You claim them as yours; nobody claims their reflexes.
 
@@ -64,7 +64,7 @@ What remains is a category of actions that are intentional—goal-directed, flex
 
 The [[phenomenology-of-agency-vs-passivity|agency-passivity spectrum]] helps locate spontaneous intentional action experientially.
 
-**Authorship without effort.** The [[phenomenology-of-volition|four components of volitional experience]]—initiation, sustained control, effort, and veto—are selectively present in spontaneous intentional action. Initiation phenomenology is vivid: the sense of "I did this" is unmistakable. But sustained control and effort are compressed nearly to zero. This selective profile is philosophically important. If authorship required all four components operating at full intensity, spontaneous actions would feel unauthored. Instead, initiation alone carries the mark of agency. You own the spontaneous kind word; it feels like something you did, not something that happened to you. Crucially, veto capacity is preserved—you *can* stop the reaching hand, catch the word before it leaves your mouth—which confirms that spontaneous action remains under conscious governance even when effort and deliberation are absent.
+**Authorship without effort.** The [[phenomenology-of-choice-and-volition|four components of volitional experience]]—initiation, sustained control, effort, and veto—are selectively present in spontaneous intentional action. Initiation phenomenology is vivid: the sense of "I did this" is unmistakable. But sustained control and effort are compressed nearly to zero. This selective profile is philosophically important. If authorship required all four components operating at full intensity, spontaneous actions would feel unauthored. Instead, initiation alone carries the mark of agency. You own the spontaneous kind word; it feels like something you did, not something that happened to you. Crucially, veto capacity is preserved—you *can* stop the reaching hand, catch the word before it leaves your mouth—which confirms that spontaneous action remains under conscious governance even when effort and deliberation are absent.
 
 **Compressed temporality.** Deliberate choice unfolds in Bergson's [[temporal-consciousness|durée]]—lived qualitative time in which options interpenetrate, evolve, and eventually resolve. Spontaneous intentional action compresses this arc: intention and action arise together, with no experiential gap between wanting and doing—yet the action carries the mark of intelligent sensitivity to the situation rather than automaticity.
 
@@ -140,8 +140,8 @@ The account of spontaneous intentional action offered here would face difficulty
 
 ## Further Reading
 
-- [[phenomenology-of-volition]] — The four components of willing that spontaneous action compresses or bypasses
-- [[phenomenology-of-choice]] — The full deliberative arc that spontaneous action compresses
+- [[phenomenology-of-choice-and-volition]] — The four components of willing that spontaneous action compresses or bypasses
+- [[phenomenology-of-choice-and-volition]] — The full deliberative arc that spontaneous action compresses
 - [[agent-causation]] — Why agents, not events, are the source of action
 - [[phenomenology-of-agency-vs-passivity]] — The spectrum from doing to undergoing
 - [[attention-as-interface]] — Attention as the interface between consciousness and neural processing
