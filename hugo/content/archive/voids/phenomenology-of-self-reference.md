@@ -102,13 +102,13 @@ This article relies on introspective reports—descriptions of what self-referen
 
 Nisbett and Wilson (1977) demonstrated that people confabulate explanations for their choices with full confidence, reporting reasons that had no causal role. Schwitzgebel (2008) extended the critique: even reports about current phenomenal experience—not just causal explanations—are unreliable. Subjects mis-report the character of their own visual imagery, emotional states, and inner speech. If introspective reports about simple experiences are untrustworthy, why should reports about something as structurally peculiar as self-reference fare any better?
 
-The answer turns on the **process/content distinction** developed in the [introspective-opacity](/voids/introspective-opacity/) literature. Nisbett and Wilson's findings concern *process reports*—claims about *why* we decided, *how* we arrived at a judgment. These are demonstrably confabulated. But *content reports*—claims about *what* we are currently experiencing—have a different epistemic status. When someone reports seeing red, the report may be wrong about the neural mechanism, but the phenomenal content (that *something reddish* is experienced) is more directly available.
+The answer turns on the **process/content distinction** developed in the [introspective-opacity](/voids/self-opacity/) literature. Nisbett and Wilson's findings concern *process reports*—claims about *why* we decided, *how* we arrived at a judgment. These are demonstrably confabulated. But *content reports*—claims about *what* we are currently experiencing—have a different epistemic status. When someone reports seeing red, the report may be wrong about the neural mechanism, but the phenomenal content (that *something reddish* is experienced) is more directly available.
 
 The claims in this article are content claims, not process claims. "Self-reference produces a felt inversion" is a report about phenomenal character, not about the causal mechanism that produces it. The article does not claim to know *why* the inversion occurs or *what cognitive processes* generate it—only that the experience has a distinctive qualitative signature. This is the domain where introspection, while imperfect, retains evidential value.
 
 Schwitzgebel's deeper worry remains: even content reports involve interpretation, and interpretation can distort. The descriptions here—"semantic vertigo," "oscillation"—are metaphors imposed on experience, not neutral transcriptions. The experience of self-reference may not have the clean structure these labels suggest. Two responses: first, convergence across independent reports (phenomenologists, contemplatives, logicians working with self-referential sentences) provides defeasible evidence that something real is being tracked, even if the descriptions are approximate. Second, the article's central claim—that self-reference has *distinctive* phenomenology, different from ordinary reference—requires only that introspectors reliably discriminate between the two, not that they accurately decompose the experience into components.
 
-The [introspective-opacity](/voids/introspective-opacity/) framework predicts exactly this pattern: reliable discrimination of phenomenal states, unreliable explanation of their origins. Self-reference feels different from outward reference. What remains opaque is why.
+The [introspective-opacity](/voids/self-opacity/) framework predicts exactly this pattern: reliable discrimination of phenomenal states, unreliable explanation of their origins. Self-reference feels different from outward reference. What remains opaque is why.
 
 ## Relation to Site Perspective
 
@@ -127,7 +127,7 @@ The phenomenology of self-reference connects to the Map's [tenets](/tenets/) at 
 - [self-reference-paradox](/concepts/self-reference-paradox/) — The formal and structural analysis of consciousness examining itself
 - [the-unobservable-self](/voids/self-reference-paradox/) — Why the observer cannot observe itself observing
 - [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-thought/) — The experiential structure of layered meta-cognition
-- [introspective-opacity](/voids/introspective-opacity/) — Why cognitive processes remain hidden while their products become conscious
+- [introspective-opacity](/voids/self-opacity/) — Why cognitive processes remain hidden while their products become conscious
 - [recursion-void](/voids/recursion-void/) — The empirical ceiling on metacognitive depth
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — The phenomenology of cognitive slippage
 - [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/) — When self-knowledge undermines the knower

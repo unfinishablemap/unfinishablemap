@@ -55,12 +55,12 @@ None. The previous review (2026-01-20) addressed all structural issues including
 
 1. **Introspective opacity connection**: New paragraph linking double concealment to the structural limits of self-knowledge
 2. **Mysterianism link strengthened**: McGinn's cognitive closure thesis now explicitly cited in dualism section
-3. **Cross-links expanded**: Added [introspective-opacity](/voids/introspective-opacity/) to concepts and Further Reading
+3. **Cross-links expanded**: Added [introspective-opacity](/voids/self-opacity/) to concepts and Further Reading
 
 ### Cross-links Added
 
-- [introspective-opacity](/voids/introspective-opacity/) (concepts)
-- [Introspective Opacity](/voids/introspective-opacity/) (Further Reading)
+- [introspective-opacity](/voids/self-opacity/) (concepts)
+- [Introspective Opacity](/voids/self-opacity/) (Further Reading)
 
 ## Word Count
 

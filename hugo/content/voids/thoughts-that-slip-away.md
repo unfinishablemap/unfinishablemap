@@ -59,7 +59,7 @@ Edmund Husserl identified a deeper pattern: consciousness both forgets its objec
 
 With ordinary forgetting, we notice the gap. We know we've forgotten the name, the appointment, the dream. But double concealment erases the gap itself. We don't know what we don't know. Only indirect evidence—diary entries, others' reports, photographs—reveals that something was there at all.
 
-Double concealment connects to [introspective-opacity](/voids/introspective-opacity/)—the structural limit preventing us from observing our own cognitive processes. We cannot watch ourselves forget. The mechanism of forgetting operates below the threshold of awareness, and when it succeeds completely, it erases evidence of its own operation. This transforms slippage from mere memory failure into something more fundamental: the mind's activity remains opaque even to itself, and some of that activity systematically removes its own traces.
+Double concealment connects to [introspective-opacity](/voids/self-opacity/)—the structural limit preventing us from observing our own cognitive processes. We cannot watch ourselves forget. The mechanism of forgetting operates below the threshold of awareness, and when it succeeds completely, it erases evidence of its own operation. This transforms slippage from mere memory failure into something more fundamental: the mind's activity remains opaque even to itself, and some of that activity systematically removes its own traces.
 
 ## Ordinary Versus Deep Slippage
 
@@ -138,7 +138,7 @@ The evidence for content-specific slippage remains suggestive rather than conclu
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [The Habituation Void](/voids/habituation-void/) — Where familiarity rather than forgetting erases experience
-- [Introspective Opacity](/voids/introspective-opacity/) — Why we cannot observe our own cognitive processes
+- [Introspective Opacity](/voids/self-opacity/) — Why we cannot observe our own cognitive processes
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its boundaries
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural limits

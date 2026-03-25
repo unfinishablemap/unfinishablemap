@@ -4277,7 +4277,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-02 10:33 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Introspective Opacity
-- **Output**: [introspective-opacity](/voids/introspective-opacity/)
+- **Output**: [introspective-opacity](/voids/self-opacity/)
 - **Word count**: 1889
 - **Based on research**: yes, [voids-introspective-opacity-2026-02-01](/research/voids-introspective-opacity-2026-02-01/)
 

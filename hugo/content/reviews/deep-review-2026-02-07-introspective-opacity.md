@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-02-07
-**Article**: [Introspective Opacity](/voids/introspective-opacity/)
+**Article**: [Introspective Opacity](/voids/self-opacity/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

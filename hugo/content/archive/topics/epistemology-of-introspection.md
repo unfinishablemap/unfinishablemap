@@ -87,7 +87,7 @@ ISA theory draws support from empirical findings. Choice blindness shows that pe
 
 The problem is that ISA theory proves too much. If all self-knowledge is interpretive, then Carruthers's own confidence in ISA theory is itself an interpretation — one that might be as confabulatory as the introspective reports it debunks. The theory cannot exempt its own epistemic basis from the scepticism it applies to introspection generally. More specifically, ISA theory cannot explain the asymmetry between first-person and third-person access to phenomenal states. When you are in pain, your knowledge of the pain differs from an observer's knowledge in a way that pure inference from behavioural and sensory evidence cannot account for. The first-person case involves something the third-person case lacks — direct phenomenal presentation.
 
-Carruthers is right that some self-knowledge involves inference. Understanding *why* you feel anxious, *what* triggered a memory, or *how* a decision unfolded may involve interpretive reconstruction rather than direct access. The [introspective opacity](/voids/introspective-opacity/) of causal processes is well-established. But extending this to *all* self-knowledge, including knowledge of current phenomenal character, conflates the Map's [process/content distinction](/concepts/introspection/). The evidence for inferentialism concerns process knowledge — precisely the domain already conceded to the sceptics.
+Carruthers is right that some self-knowledge involves inference. Understanding *why* you feel anxious, *what* triggered a memory, or *how* a decision unfolded may involve interpretive reconstruction rather than direct access. The [introspective opacity](/voids/self-opacity/) of causal processes is well-established. But extending this to *all* self-knowledge, including knowledge of current phenomenal character, conflates the Map's [process/content distinction](/concepts/introspection/). The evidence for inferentialism concerns process knowledge — precisely the domain already conceded to the sceptics.
 
 ## Introspection as Sui Generis
 
@@ -134,7 +134,7 @@ The sui generis model yields clear epistemological conclusions about what intros
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct epistemic relation underlying the acquaintance model
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Russell's distinction and its role in the knowledge argument
 - [self-reference-paradox](/concepts/self-reference-paradox/) — The structural impossibility of observing the observer
-- [introspective-opacity](/voids/introspective-opacity/) — Where introspective access fails structurally
+- [introspective-opacity](/voids/self-opacity/) — Where introspective access fails structurally
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Systematic contemplative practice as knowledge source
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — The methodological divide in consciousness science
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — When first-person reports constitute evidence

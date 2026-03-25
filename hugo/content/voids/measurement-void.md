@@ -135,12 +135,12 @@ The measurement void follows from the Map's [tenets](/tenets/) with particular d
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is challenged directly. The assumption that everything real must be quantifiable—that measurement exhausts ontology—is itself a parsimony move. The measurement void suggests this preference may reflect ignorance rather than insight. The most certain thing in our ontology—that experience exists—is the one thing we cannot measure. The assumption that we know our own minds is perhaps the most deeply entrenched simplicity assumption in philosophy. Descartes built his entire epistemology on the supposed transparency of mind to itself. If introspection is as fallible and uncalibratable as the evidence suggests, our simplest, most intuitive belief about consciousness is mistaken.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** adds a practical dimension. If consciousness causally influences the physical world but cannot be measured, then physical science contains a causal contributor it cannot detect or quantify. The completeness of physical explanation is interrupted by something physically invisible. The mechanism of that influence might be systematically hidden from introspection—a form of [introspective-opacity](/voids/introspective-opacity/) extending beyond mere mechanism-blindness to the impossibility of calibrating reports about an interface one cannot inspect.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** adds a practical dimension. If consciousness causally influences the physical world but cannot be measured, then physical science contains a causal contributor it cannot detect or quantify. The completeness of physical explanation is interrupted by something physically invisible. The mechanism of that influence might be systematically hidden from introspection—a form of [introspective-opacity](/voids/self-opacity/) extending beyond mere mechanism-blindness to the impossibility of calibrating reports about an interface one cannot inspect.
 
 ## Further Reading
 
 - [observation-void](/voids/observation-void/) — How every method of studying consciousness transforms what it studies
-- [introspective-opacity](/voids/introspective-opacity/) — Why we access mental contents but never the mechanisms producing them
+- [introspective-opacity](/voids/self-opacity/) — Why we access mental contents but never the mechanisms producing them
 - [self-reference-paradox](/concepts/self-reference-paradox/) — The subject that cannot become its own object
 - [substrate-void](/voids/substrate-void/) — What consciousness is made of, when every answer collapses
 - [intersubjective-void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared

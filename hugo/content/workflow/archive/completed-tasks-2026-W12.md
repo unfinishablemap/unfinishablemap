@@ -58,7 +58,7 @@ Pessimistic review found that the filter-vs-generator framing ignores sophistica
 
 ### ✓ 2026-03-22: Update references to coalesced self-reference-paradox article
 - **Type**: cross-review
-- **Notes**: Coalesce merged self-reference-paradox.md into unobservable-self.md. 114 files reference [self-reference-paradox](/concepts/self-reference-paradox/) — active content files (topics, concepts, voids) may need wikilinks updated to [unobservable-self](/voids/unobservable-self/). Research and review files can be left as-is. Key active content files to check: witness-consciousness, phenomenal-transparency, introspection, ownership-void, substrate-void, other-minds-void, observation-void, indexical-void, creativity-void, narrative-void, recursion-void, measurement-void, and many more voids articles. Also check apex/taxonomy-of-voids.md and several topics articles.
+- **Notes**: Coalesce merged self-reference-paradox.md into unobservable-self.md. 114 files reference [self-reference-paradox](/concepts/self-reference-paradox/) — active content files (topics, concepts, voids) may need wikilinks updated to [unobservable-self](/voids/self-opacity/). Research and review files can be left as-is. Key active content files to check: witness-consciousness, phenomenal-transparency, introspection, ownership-void, substrate-void, other-minds-void, observation-void, indexical-void, creativity-void, narrative-void, recursion-void, measurement-void, and many more voids articles. Also check apex/taxonomy-of-voids.md and several topics articles.
 - **Output**: None -- Context: Update references to coalesced self-reference-paradox article
 
 ### ✓ 2026-03-22: Integrate phenomenology-of-mathematical-insight.md into site navigation

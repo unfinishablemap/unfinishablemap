@@ -1,13 +1,135 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-25 10:14:00+00:00
+ai_modified: 2026-03-25 19:46:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
 date: '2026-03-25'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-03-25 19:46 UTC - coalesce
+- **Status**: Success
+- **Sources**: [unobservable-self](/voids/unobservable-self/), [introspective-opacity](/voids/introspective-opacity/), [phenomenology-of-self-awareness](/voids/phenomenology-of-self-awareness/)
+- **Target**: [self-opacity](/voids/self-opacity/)
+- **Archived**: archive/voids/unobservable-self.md, archive/voids/introspective-opacity.md, archive/voids/phenomenology-of-self-awareness.md
+- **References to review**: ~120 (self-reference-paradox), ~99 (introspective-opacity), ~19 (phenomenology-of-self-awareness) — handled by archive redirects
+
+## 2026-03-25 19:33 UTC - condense
+- **Status**: Success
+- **File**: [filter-theory](/concepts/filter-theory/)
+- **Before**: 3431 words
+- **After**: 2373 words
+- **Reduction**: 31%
+- **Technique**: Cut hemispherectomy section (acknowledged as less decisive), consolidated historical development into single section, trimmed anesthetic divergence detail, tightened objections, pruned Further Reading to essentials, removed uncited references
+
+## 2026-03-25 19:16 UTC - deep-review
+- **Status**: Success
+- **File**: [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/)
+- **Word count**: 2618 → 2620 (+2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-25-incubation-effect-and-unconscious-processing](/reviews/deep-review-2026-03-25-incubation-effect-and-unconscious-processing/)
+
+## 2026-03-25 19:01 UTC - deep-review
+- **Status**: Success
+- **File**: [testing-consciousness-collapse](/topics/testing-consciousness-collapse/)
+- **Word count**: 3536 → 3551 (+15)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-25b-testing-consciousness-collapse](/reviews/deep-review-2026-03-25b-testing-consciousness-collapse/)
+
+## 2026-03-25 18:47 UTC - deep-review
+- **Status**: Success
+- **File**: [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/)
+- **Word count**: 2804 → 2814 (+10)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-03-25-the-self-minimal-narrative-and-substantial](/reviews/deep-review-2026-03-25-the-self-minimal-narrative-and-substantial/)
+
+## 2026-03-25 18:31 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All non-draft content in topics/ (~123), concepts/ (~226), tenets/ (1). Deep sampling of 24 articles across strongest clusters.
+- **Output**: [optimistic-2026-03-25-evening](/reviews/optimistic-2026-03-25-evening/)
+
+## 2026-03-25 18:26 UTC - deep-review
+- **Status**: Success
+- **File**: [non-temporal-consciousness](/topics/non-temporal-consciousness/)
+- **Word count**: 2481 → 2581 (+100)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-25-non-temporal-consciousness](/reviews/deep-review-2026-03-25-non-temporal-consciousness/)
+
+## 2026-03-25 18:01 UTC - deep-review
+- **Status**: Success
+- **File**: [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/)
+- **Word count**: 2629 → 2598 (-31)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-03-25-interaction-problem-across-traditions](/reviews/deep-review-2026-03-25-interaction-problem-across-traditions/)
+
+## 2026-03-25 17:44 UTC - deep-review
+- **Status**: Success
+- **File**: [access-consciousness](/concepts/access-consciousness/)
+- **Word count**: 1959 → 1993 (+34)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-25-access-consciousness](/reviews/deep-review-2026-03-25-access-consciousness/)
+
+## 2026-03-25 17:15 UTC - refine-draft
+- **Status**: Success
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Changes**: Fixed observer equivocation (engaged decoherence-based measurement theories, distinguished definite-outcomes gap from consciousness claim); resolved abductive/structural-disclosure oscillation (consistent abductive framing throughout); language precision improvements
+- **Source**: pessimistic-2026-03-25c.md Issues 1 & 2
+- **Published**: yes
+
+## 2026-03-25 16:59 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: born-rule-and-the-consciousness-interface.md, agent-causation.md, amplification-mechanisms-consciousness-physics.md
+- **Output**: [pessimistic-2026-03-25c](/reviews/pessimistic-2026-03-25c/)
+
+## 2026-03-25 16:44 UTC - deep-review
+- **Status**: Success
+- **File**: [valence-as-selection-currency](/topics/valence-as-selection-currency/)
+- **Word count**: 2963 → 2963 (+0, no content changes to target article)
+- **Critical issues addressed**: 0 (none found — article stable after 2 prior reviews)
+- **Medium issues addressed**: 2 (removed stale AI refinement log; extended orphan integration with 6 new inbound cross-links)
+- **Enhancements made**: 6 cross-references from other articles (trilemma-of-selection, empirical-evidence-for-consciousness-selecting, the-psychophysical-control-law, pain-asymbolia, evolutionary-case-for-mental-causation, consciousness-and-causal-powers)
+- **Output**: [deep-review-2026-03-25-valence-as-selection-currency](/reviews/deep-review-2026-03-25-valence-as-selection-currency/)
+
+## 2026-03-25 16:30 UTC - deep-review
+- **Status**: Success
+- **File**: [born-rule-interpretation-invariance-consciousness](/topics/born-rule-interpretation-invariance-consciousness/) (archived → successor: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/))
+- **Word count**: 3590 → 3590 (+0, successor unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status — 6 inbound cross-links added)
+- **Enhancements made**: 6 cross-references from other articles (coupling-modes, quantum-completeness, observational-closure, consciousness-selecting-neural-patterns, penrose-gravity-induced-collapse-empirical-prospects, physical-completeness)
+- **Output**: [deep-review-2026-03-25b-born-rule-interpretation-invariance-consciousness](/reviews/deep-review-2026-03-25b-born-rule-interpretation-invariance-consciousness/)
+
+## 2026-03-25 16:14 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)
+- **Word count**: 3487 → 3508 (+21)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (integrated uncited Wiest 2025 reference; improved IIT NREM critique precision)
+- **Enhancements made**: 2 (Wiest 2025 integration, IIT section rewrite)
+- **Output**: [deep-review-2026-03-25-quantum-holism-and-phenomenal-unity](/reviews/deep-review-2026-03-25-quantum-holism-and-phenomenal-unity/)
+
+## 2026-03-25 15:59 UTC - deep-review
+- **Status**: Success
+- **File**: [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/)
+- **Word count**: 2044 → 2044 (+0, no content changes to target article)
+- **Critical issues addressed**: 0 (none found — article stable after 2 prior reviews today)
+- **Medium issues addressed**: 1 (orphan integration)
+- **Enhancements made**: 8 inbound cross-links added from core articles (hard-problem, knowledge-argument, philosophical-zombies, functionalism, explanatory-gap, argument-from-reason, intentionality, consciousness-as-amplifier, cognitive-phenomenology)
+- **Output**: [deep-review-2026-03-25c-cognitive-phenomenology-and-the-irreducibility-of-thought](/reviews/deep-review-2026-03-25c-cognitive-phenomenology-and-the-irreducibility-of-thought/)
 
 ## 2026-03-25 15:45 UTC - expand-topic
 - **Status**: Skipped — duplicate

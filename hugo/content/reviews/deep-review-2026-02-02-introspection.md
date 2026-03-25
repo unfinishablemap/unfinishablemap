@@ -69,7 +69,7 @@ All attributions verified:
 - **Cross-links to volitional-opacity void**: The new void article on agency opacity is directly relevant to the process/content distinction as applied to volition. Added to frontmatter concepts and Further Reading.
 
 ### Cross-links Added
-- [introspective-opacity](/voids/introspective-opacity/) — in frontmatter concepts, body text (Process vs. Content section), and Further Reading
+- [introspective-opacity](/voids/self-opacity/) — in frontmatter concepts, body text (Process vs. Content section), and Further Reading
 - [volitional-opacity](/voids/introspective-opacity/) — in frontmatter concepts and Further Reading
 
 ## Word Count

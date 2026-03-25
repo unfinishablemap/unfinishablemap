@@ -44,7 +44,7 @@ topics:
 
 Recognition — the act of identifying something as *something* — is so fundamental to consciousness that it normally operates in complete silence. You see a face and know whose it is. You hear a word and grasp its meaning. You encounter a situation and understand what kind of situation it is. None of this involves a detectable "recognition event." The process is structurally hidden from the consciousness it constitutes. The Unfinishable Map calls this the Recognition Void: the gap between perceiving and knowing-as, where consciousness must find meaning in what it already sees but cannot observe itself doing so.
 
-This void has two faces. The first is **mechanism opacity**: you cannot introspect on how recognition works, only receive its products — a specific instance of the broader [introspective-opacity](/voids/introspective-opacity/) that characterises all cognitive processes. The second is **inventory blindness**: you cannot take stock of what your recognition capacities fail to reach — absent capabilities produce no signal.
+This void has two faces. The first is **mechanism opacity**: you cannot introspect on how recognition works, only receive its products — a specific instance of the broader [introspective-opacity](/voids/self-opacity/) that characterises all cognitive processes. The second is **inventory blindness**: you cannot take stock of what your recognition capacities fail to reach — absent capabilities produce no signal.
 
 ## When Recognition Breaks Down
 
@@ -117,7 +117,7 @@ The Recognition Void engages multiple [tenets](/tenets/).
 
 ## Further Reading
 
-- [introspective-opacity](/voids/introspective-opacity/)
+- [introspective-opacity](/voids/self-opacity/)
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/)
 - [framework-void](/voids/framework-void/)
 - [causal-interface](/voids/causal-interface/)

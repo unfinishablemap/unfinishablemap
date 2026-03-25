@@ -56,7 +56,7 @@ topics: []
 
 ### Cross-links Added (PRIMARY FOCUS - orphan integration)
 From other articles TO recognition-void:
-1. [introspective-opacity](/voids/introspective-opacity/) — added to related_articles, Process Opacity section, and Further Reading
+1. [introspective-opacity](/voids/self-opacity/) — added to related_articles, Process Opacity section, and Further Reading
 2. [binding-void](/voids/binding-void/) — added to related_articles and introspection section (Capgras parallel)
 3. [architecture-of-cognitive-closure](/voids/biological-cognitive-closure/) — added to related_articles and Phenomenology of Closure section
 4. [cognitive-closure](/concepts/mysterianism/) — added to related_articles and Two-Access Problem section

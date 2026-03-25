@@ -125,7 +125,7 @@ The social dimension of explanation connects to a deeper structural issue. [Cons
 - [Collective Cognitive Limits](/voids/collective-cognitive-limits/) — Emergent blind spots at the level of paradigms and societies
 - [The Intersubjective Void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared
 - [The Framework Void](/voids/framework-void/) — How conceptual frameworks exclude what they cannot represent
-- [Introspective Opacity](/voids/introspective-opacity/) — Why we access contents but never mechanisms
+- [Introspective Opacity](/voids/self-opacity/) — Why we access contents but never mechanisms
 - [The Language-Thought Boundary](/voids/language-thought-boundary/) — What cannot be said
 - [The Other Minds Void](/voids/other-minds-void/) — Access to consciousness beyond our own
 - [The Transparency Void](/voids/transparency-void/) — Why consciousness cannot verify its own accuracy

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-03-25 01:40:00+00:00
+ai_modified: 2026-03-25 15:59:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -229,6 +229,7 @@ Epiphenomenalism appears "simpler" because it doesn't posit mental causation. Bu
 - [metarepresentation](/concepts/metacognition/) — Representing representations as representations
 - [causal-delegation](/concepts/causal-delegation/) — How consciousness takes over causal work from neural states (the causal structure for amplification)
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's full framework for mental causation without overdetermination
+- [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) — Why the phenomenal character of reasoning is irreducible: consciousness pervades cognition
 - [global-workspace-theory](/concepts/global-workspace-theory/) — The broadcasting account of conscious access
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The position the amplification evidence contradicts
 - [interactionist-dualism](/concepts/interactionist-dualism/) — How consciousness influences brain states

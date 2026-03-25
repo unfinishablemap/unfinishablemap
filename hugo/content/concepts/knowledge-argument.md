@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-23 08:07:00+00:00
+ai_modified: 2026-03-25 15:59:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -130,6 +130,8 @@ The knowledge argument shares deep structure with other anti-physicalist argumen
 **The Objectivity Paradox**: Mary's case exemplifies the broader tension between [objectivity and consciousness](/concepts/objectivity-and-consciousness/). Science aims for the "view from nowhere"—perspective-free description independent of any observer. But consciousness *is* perspective. Mary possessed the maximally objective description of color vision yet lacked the subjective reality it describes. Eliminating the observer eliminates the subject matter.
 
 **The Aesthetic Knowledge Argument**: The [aesthetic irreducibility arguments](/topics/aesthetics-and-consciousness/) run a stronger version of Mary's Room. Imagine someone with complete physical knowledge of Bach's *Goldberg Variations* — acoustic analysis, harmonic structure, neural correlates. Upon hearing the work, they learn an integrated aesthetic fact that exceeds not only physical facts but simpler phenomenal facts: knowing what individual notes sound like does not entail knowing what the *Goldberg Variations* as a whole are like to hear.
+
+**The Cognitive Extension**: The knowledge argument generalises beyond colour. If [cognitive phenomenology is irreducible](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/), a variant of Mary's Room applies to mathematical understanding: Mary could know every physical fact about proof-processing yet learn something new upon first *grasping* why a conclusion follows from its premises. The gap reopens in the domain of thought itself.
 
 **The Convergence Argument**: The knowledge argument is not alone. It is one of several converging [arguments for dualism](/concepts/dualism/)—alongside the explanatory gap, conceivability argument, inverted qualia, modal arguments, Nagel's subjectivity argument, the unity of consciousness, and arguments from intentionality. These arguments exploit different features of consciousness through different logical routes yet converge on the same conclusion. Their cumulative force is stronger than any individual argument.
 

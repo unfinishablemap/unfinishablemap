@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink**: `[Volitional opacity](/voids/introspective-opacity/)` pointed to a non-existent article. Resolution: changed to `[Volitional opacity](/voids/introspective-opacity/)`, matching the convention used by other articles (e.g., involuntariness-void).
+- **Broken wikilink**: `[Volitional opacity](/voids/introspective-opacity/)` pointed to a non-existent article. Resolution: changed to `[Volitional opacity](/voids/self-opacity/)`, matching the convention used by other articles (e.g., involuntariness-void).
 
 ### Medium Issues Found
 - **Missing Minimal Quantum Interaction tenet**: The Relation to Site Perspective covered 4 of 5 tenets but omitted Minimal Quantum Interaction, despite the Generator Problem section's interface hypothesis directly implying it. Resolution: added a dedicated subsection connecting the tenet to the DMN's structured-yet-opaque spontaneous activity.

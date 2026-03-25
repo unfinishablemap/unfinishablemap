@@ -56,7 +56,7 @@ None.
 ### Cross-links Added
 - [causal-interface](/voids/causal-interface/)
 - [other-minds-void](/voids/other-minds-void/)
-- [introspective-opacity](/voids/introspective-opacity/)
+- [introspective-opacity](/voids/self-opacity/)
 - [binding-void](/voids/binding-void/)
 - [ownership-void](/voids/ownership-void/)
 - [questioning-as-evidence](/voids/questioning-as-evidence/)

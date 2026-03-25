@@ -80,7 +80,7 @@ The transparency void occupies distinctive territory among the Map's [voids](/vo
 
 - The [intrinsic-nature-void](/voids/intrinsic-nature-void/) asks what matter is in itself—a question about the world's hidden nature
 - The [self-reference-paradox](/concepts/self-reference-paradox/) asks whether consciousness can map itself—a question about reflexivity
-- [Introspective opacity](/voids/introspective-opacity/) addresses why we cannot observe our own cognitive mechanisms
+- [Introspective opacity](/voids/self-opacity/) addresses why we cannot observe our own cognitive mechanisms
 
 The transparency void asks something different: whether the *medium* of all mapping introduces systematic distortion. It concerns the reliability of the mapping apparatus itself. Introspective opacity means we cannot see the machinery; the transparency void means we cannot determine whether the machinery's output tracks reality or merely tracks fitness. The [mutation-void](/voids/mutation-void/) occupies yet another position: it concerns cases where the act of attending to content *transforms* that content, so the machinery doesn't merely hide or distort but actively reshapes what it processes.
 
@@ -108,7 +108,7 @@ The void also connects to the Map's [Bidirectional Interaction](/tenets/#bidirec
 
 - [phenomenal-transparency](/concepts/phenomenal-transparency/) — The concept underlying this void: why representations conceal themselves as representations
 - [The Phenomenal Presence Void](/voids/phenomenal-presence-void/) — The companion void: why the stamp of realness hides its own mechanism
-- [introspective-opacity](/voids/introspective-opacity/) — Why we cannot observe our own cognitive mechanisms
+- [introspective-opacity](/voids/self-opacity/) — Why we cannot observe our own cognitive mechanisms
 - [self-reference-paradox](/concepts/self-reference-paradox/) — The broader difficulties of consciousness examining itself
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The parallel question of what matter is in itself
 - [whether-real](/voids/whether-real/) — Whether cognitive limits are permanent or merely current

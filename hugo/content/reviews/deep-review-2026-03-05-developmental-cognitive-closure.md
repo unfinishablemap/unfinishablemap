@@ -47,12 +47,12 @@ None. The article has stabilised well from its first review. All critical issues
 
 ### Enhancements Made
 - Tightened expertise section to reduce overlap with dedicated expertise-void article
-- Added cross-links to [expertise-void](/topics/expertise-void/) and [introspective-opacity](/voids/introspective-opacity/)
+- Added cross-links to [expertise-void](/topics/expertise-void/) and [introspective-opacity](/voids/self-opacity/)
 - Added expertise-void to Further Reading section
 
 ### Cross-links Added
 - [expertise-void](/topics/expertise-void/)
-- [introspective-opacity](/voids/introspective-opacity/)
+- [introspective-opacity](/voids/self-opacity/)
 
 ## Remaining Items
 

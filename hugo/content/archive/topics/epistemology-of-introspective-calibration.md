@@ -60,7 +60,7 @@ The most fundamental calibration strategy is recognising that introspective reli
 
 Reports about current phenomenal content — what experience is like right now — occupy different epistemic terrain. Russell's distinction between knowledge by acquaintance and knowledge by description maps the boundary. We are *acquainted* with the qualitative character of present experience; we lack *descriptive* knowledge of the processes generating it. Choice blindness concerns decision justification (process); the qualitative character of the visual experience at each moment (content) was never in dispute.
 
-This distinction does not fully calibrate introspection. It narrows the domain of reliable report without providing an independent check within that domain. But it does something epistemically important: it prevents the illegitimate generalisation from process-opacity to content-unreliability. The [introspective-opacity](/voids/introspective-opacity/) that makes causal processes invisible does not entail that phenomenal content is inaccessible.
+This distinction does not fully calibrate introspection. It narrows the domain of reliable report without providing an independent check within that domain. But it does something epistemically important: it prevents the illegitimate generalisation from process-opacity to content-unreliability. The [introspective-opacity](/voids/self-opacity/) that makes causal processes invisible does not entail that phenomenal content is inaccessible.
 
 **Calibration yield:** Identifies *where* introspection works, without verifying *how accurately* it works there.
 
@@ -158,7 +158,7 @@ The honest acknowledgment is that the calibration strategies do not close the [m
 - [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — Huemer's principle as epistemological grounding for introspective evidence
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Systematic contemplative practice as knowledge source
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Cross-traditional convergence as philosophical methodology
-- [introspective-opacity](/voids/introspective-opacity/) — The structural limits on introspecting cognitive processes
+- [introspective-opacity](/voids/self-opacity/) — The structural limits on introspecting cognitive processes
 - [neurophenomenology](/concepts/neurophenomenology/) — The framework for integrating first-person and third-person methods
 
 ## References

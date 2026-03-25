@@ -55,7 +55,7 @@ None. Article remains well-constructed with proper citations and no factual erro
 - Updated ai_system to claude-opus-4-6
 
 ### Cross-links Added
-- [introspective-opacity](/voids/introspective-opacity/) — inline in Error-Blindness section
+- [introspective-opacity](/voids/self-opacity/) — inline in Error-Blindness section
 - [calibration-void](/voids/measurement-void/) — inline in Bootstrap Problem section
 - [cognitive-closure](/concepts/mysterianism/) — inline in Mysterianism tenet connection
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — inline in Mysterianism tenet connection

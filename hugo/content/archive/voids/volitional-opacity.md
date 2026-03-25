@@ -45,7 +45,7 @@ topics:
 
 We experience choosing, deciding, and acting—but the process by which these experiences arise, and whether they genuinely cause our actions, remains hidden from introspection. This is volitional opacity: the structural inaccessibility of the mechanisms by which we will. We know *that* we decide; we cannot observe *how* we decide. The void concerns not external reality but our own agency—the most intimate territory, and among the most impenetrable.
 
-Volitional opacity sits at the intersection of two related voids. [Introspective opacity](/voids/introspective-opacity/) concerns our inability to observe cognitive processes in general—we access contents but not the mechanisms producing them. [The causal interface void](/voids/causal-interface/) concerns how consciousness interfaces with physical causation. Volitional opacity combines both: we cannot observe the processes of willing, and we cannot observe how (or whether) willing causes action.
+Volitional opacity sits at the intersection of two related voids. [Introspective opacity](/voids/self-opacity/) concerns our inability to observe cognitive processes in general—we access contents but not the mechanisms producing them. [The causal interface void](/voids/causal-interface/) concerns how consciousness interfaces with physical causation. Volitional opacity combines both: we cannot observe the processes of willing, and we cannot observe how (or whether) willing causes action.
 
 ## Three Dimensions of Opacity
 
@@ -71,7 +71,7 @@ Mental causation is difficult to investigate precisely because dualism places th
 
 ## The Phenomenology of Volitional Opacity
 
-What does this opacity feel like from the inside? A crucial caveat: [introspective opacity](/voids/introspective-opacity/) suggests these phenomenological reports may themselves be constructed rather than revelatory. The phenomenology recorded here represents *what willing seems like*—which may differ from what willing actually is.
+What does this opacity feel like from the inside? A crucial caveat: [introspective opacity](/voids/self-opacity/) suggests these phenomenological reports may themselves be constructed rather than revelatory. The phenomenology recorded here represents *what willing seems like*—which may differ from what willing actually is.
 
 With this caveat:
 
@@ -155,7 +155,7 @@ None of these conditions has been met. The persistence across four centuries of 
 
 - [Voids in the Map](/voids/) — The broader framework for cognitive limits
 - [The Causal Interface Void](/voids/causal-interface/) — How consciousness interfaces with the physical
-- [Introspective Opacity](/voids/introspective-opacity/) — Why we cannot observe cognitive processes in general
+- [Introspective Opacity](/voids/self-opacity/) — Why we cannot observe cognitive processes in general
 - [The Unobservable Self](/voids/self-reference-paradox/) — The observer that eludes observation
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, and occluded
 - [Free Will](/topics/free-will/) — The broader context for questions of agency

@@ -71,7 +71,7 @@ Cross-review triggered by creation of [minimal-consciousness-void](/voids/minima
 ### Cross-links Added
 
 - [minimal-consciousness-void](/voids/minimal-consciousness-void/)
-- [introspective-opacity](/voids/introspective-opacity/)
+- [introspective-opacity](/voids/self-opacity/)
 - [observation-void](/voids/observation-void/)
 
 ## Remaining Items

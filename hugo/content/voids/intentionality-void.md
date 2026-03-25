@@ -61,7 +61,7 @@ This is not a rare edge case. We routinely hold beliefs about the same thing und
 
 Several lines of evidence suggest this void is genuine, not merely a gap in current knowledge.
 
-**Introspection reveals contents, not processes.** Helmholtz observed that there are "mental operations about which introspection is utterly silent." Fodor's modularity thesis holds that cognitive module operations are introspectively inaccessible. The convergent finding across these traditions is that introspection gives access to mental contents but not to the processes that produce them. This [structural opacity](/voids/introspective-opacity/) holds across domains—we know what we think but not how thinking works.
+**Introspection reveals contents, not processes.** Helmholtz observed that there are "mental operations about which introspection is utterly silent." Fodor's modularity thesis holds that cognitive module operations are introspectively inaccessible. The convergent finding across these traditions is that introspection gives access to mental contents but not to the processes that produce them. This [structural opacity](/voids/self-opacity/) holds across domains—we know what we think but not how thinking works.
 
 A methodological note: these claims rely on introspective reports to establish introspection's limits. The tension is real but not vicious. Introspection can be reliable about *what presents itself* (content, the experience of transparency) without being reliable about *what doesn't present itself* (mechanisms, processes). The void claim rests on convergent reports of absence—finding contents but never content-formation processes—not on introspective access to hidden mechanisms. A physicalist can accept this phenomenology; the question is what explains it.
 
@@ -149,7 +149,7 @@ The intentionality void connects directly to the Map's [foundational commitments
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and structural limits on knowledge
 - [phenomenal intentionality](/concepts/intentionality/#phenomenal-intentionality-theory) — How consciousness grounds aboutness
-- [introspective-opacity](/voids/introspective-opacity/) — Why mental processes are structurally hidden
+- [introspective-opacity](/voids/self-opacity/) — Why mental processes are structurally hidden
 
 ## References
 

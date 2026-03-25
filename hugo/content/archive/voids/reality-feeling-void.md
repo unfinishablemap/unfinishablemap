@@ -59,7 +59,7 @@ Thomas Metzinger's account of phenomenal transparency explains the invisibility.
 
 The reality-feeling is transparency's most fundamental instance. We do not experience our experience-of-realness as an experience—we experience realness directly. The stamp hides itself. The medium through which everything appears real cannot itself appear as a medium.
 
-This generates a deeper problem than ordinary [introspective-opacity](/voids/introspective-opacity/). With introspective opacity, we access mental contents but not the processes that produce them. With the reality-feeling, the process in question *constitutes the condition for accessing anything at all*. The reality-feeling is what makes introspection itself seem to be about something real. The tool we would use to investigate this void is constituted by what we are trying to investigate. Where the [transparency-void](/voids/transparency-void/) concerns consciousness's inability to verify its *accuracy*, the reality-feeling void concerns its inability to examine the mechanism that generates conviction in the first place.
+This generates a deeper problem than ordinary [introspective-opacity](/voids/self-opacity/). With introspective opacity, we access mental contents but not the processes that produce them. With the reality-feeling, the process in question *constitutes the condition for accessing anything at all*. The reality-feeling is what makes introspection itself seem to be about something real. The tool we would use to investigate this void is constituted by what we are trying to investigate. Where the [transparency-void](/voids/transparency-void/) concerns consciousness's inability to verify its *accuracy*, the reality-feeling void concerns its inability to examine the mechanism that generates conviction in the first place.
 
 There may be a principled reason for the concealment. If experience were transparent to its own reality-assessment mechanism—if each perception simultaneously carried the tag "this is my brain's best guess about reality"—perception would not function as perception. It would function as hypothesis. The reality-feeling may require its own invisibility to work.
 
@@ -112,7 +112,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet finds unexpected relevance. 
 ## Further Reading
 
 - [transparency-void](/voids/transparency-void/) — The broader problem of consciousness hiding its own representational nature
-- [introspective-opacity](/voids/introspective-opacity/) — Why we cannot observe our own cognitive processes
+- [introspective-opacity](/voids/self-opacity/) — Why we cannot observe our own cognitive processes
 - [dream-consciousness-void](/voids/sleep-consciousness-void/) — What dreams reveal about the boundaries of conscious awareness
 - [whether-real](/voids/whether-real/) — Whether cognitive limits are permanent or current ignorance
 - [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/) — Knowledge that undermines the knower's stability

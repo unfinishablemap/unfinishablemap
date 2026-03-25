@@ -60,7 +60,7 @@ Inbound links added from 8 articles:
 - [existentialism](/concepts/existentialism/) — body text (Jemeinigkeit paragraph) + Further Reading + related_articles
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — body text (Ownership Without Agency section) + Further Reading + related_articles
 - [the-unobservable-self](/voids/self-reference-paradox/) — Further Reading + related_articles
-- [introspective-opacity](/voids/introspective-opacity/) — body text (opening distinction paragraph) + Further Reading + related_articles
+- [introspective-opacity](/voids/self-opacity/) — body text (opening distinction paragraph) + Further Reading + related_articles
 - [self-consciousness](/concepts/self-and-self-consciousness/) — Further Reading + related_articles
 
 ## Remaining Items

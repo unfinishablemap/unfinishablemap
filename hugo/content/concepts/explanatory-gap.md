@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-25 09:43:00+00:00
+ai_modified: 2026-03-25 15:59:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -215,6 +215,7 @@ The gap supports humility. If we cannot understand consciousness from physical d
 - [epistemology-of-mechanism-at-the-consciousness-matter-interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/) — How the gap constrains what we can know about the consciousness-matter interface
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — The syntax-semantics divide as an informational framing of the gap
 - [consciousness-and-the-problem-of-measurement-standards](/topics/consciousness-and-the-problem-of-measurement-standards/) — Why the gap extends to measurement itself: no units, instruments, or calibration for phenomenal quantities
+- [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) — The explanatory gap extends from sensation into cognition: understanding, reasoning, and insight resist reduction
 - [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/) — The argument that every level transition harbours the same gap, and reduction relocates rather than resolves it
 - [the-reverse-inference](/topics/the-reverse-inference/) — How the gap's epistemic asymmetry motivates using consciousness to constrain physics rather than the reverse
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: the measurement problem and the hard problem as the same boundary—where third-person description encounters first-person fact

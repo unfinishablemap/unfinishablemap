@@ -163,7 +163,7 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 - [skill-delegation](/concepts/skill-delegation/) — The three-phase pattern by which agency transitions to delegated passivity
 - [motor-selection](/concepts/motor-selection/) — The agency-passivity contrast in movement
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — Phenomenological layers of ownership in choice
-- [volitional opacity](/voids/introspective-opacity/) — Why the mechanism connecting will to action is invisible
+- [volitional opacity](/voids/self-opacity/) — Why the mechanism connecting will to action is invisible
 - [The Ownership Void](/voids/ownership-void/) — Why the ownership relation hides from introspection
 - [volitional-control](/topics/volitional-control/) — The Libet debate, conscious veto, and the "whether" component of intentional action
 - [free-will](/topics/free-will/) — The broader philosophical context

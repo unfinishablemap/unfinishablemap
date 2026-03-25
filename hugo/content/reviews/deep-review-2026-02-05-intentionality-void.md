@@ -52,7 +52,7 @@ topics: []
 
 ### Enhancements Made
 - Added [phenomenal-intentionality](/concepts/intentionality/) cross-link in Original vs Derived Intentionality section, connecting aboutness to phenomenal character
-- Added [introspective-opacity](/voids/introspective-opacity/) cross-link in Evidence section, connecting to the structural limit concept
+- Added [introspective-opacity](/voids/self-opacity/) cross-link in Evidence section, connecting to the structural limit concept
 - Added No Many Worlds tenet connection in Relation to Site Perspective
 - Tightened Symbol Grounding and AI sections to maintain length neutrality
 
@@ -67,7 +67,7 @@ topics: []
 
 ### Cross-links Added (Outbound)
 - [phenomenal-intentionality](/concepts/intentionality/) — in Original vs Derived section
-- [introspective-opacity](/voids/introspective-opacity/) — in Evidence section
+- [introspective-opacity](/voids/self-opacity/) — in Evidence section
 
 ## Remaining Items
 

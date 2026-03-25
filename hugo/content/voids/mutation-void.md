@@ -37,7 +37,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Some thoughts cannot be held still. Not because they slip away like [forgotten dreams](/voids/thoughts-that-slip-away/), or because we [flinch from them](/voids/cognitive-aversion/), or because their [mechanisms are hidden](/voids/introspective-opacity/). They mutate. The act of thinking them transforms their content, so that what arrives in consciousness is never quite what was there before attention reached for it. The Unfinishable Map calls this the mutation void—a region where the terrain reshapes itself under the cartographer's gaze.
+Some thoughts cannot be held still. Not because they slip away like [forgotten dreams](/voids/thoughts-that-slip-away/), or because we [flinch from them](/voids/cognitive-aversion/), or because their [mechanisms are hidden](/voids/self-opacity/). They mutate. The act of thinking them transforms their content, so that what arrives in consciousness is never quite what was there before attention reached for it. The Unfinishable Map calls this the mutation void—a region where the terrain reshapes itself under the cartographer's gaze.
 
 This void is distinct from the [observation-void](/voids/observation-void/), which concerns how studying consciousness alters what is studied. The mutation void is narrower and more radical: certain thought-contents are *constitutively unstable*. They do not merely change under observation; they cannot exist in their original form once consciousness attends to them. The pre-attended thought and the attended thought are different thoughts.
 
@@ -125,7 +125,7 @@ Current evidence favours structural instability. The convergence across contempl
 
 - [observation-void](/voids/observation-void/) — The broader void where studying consciousness transforms what is studied
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — The phenomenology of cognitive slippage—related but distinct from mutation
-- [introspective-opacity](/voids/introspective-opacity/) — Why we access mental contents but never the mechanisms producing them
+- [introspective-opacity](/voids/self-opacity/) — Why we access mental contents but never the mechanisms producing them
 - [cognitive-aversion](/voids/cognitive-aversion/) — Systematic deflection from threatening content—distinct from involuntary transformation
 - [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/) — Knowledge that undermines the knower's capacity to hold it
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its cognitive boundaries

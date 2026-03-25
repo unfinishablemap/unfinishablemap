@@ -70,7 +70,7 @@ The [agency-passivity spectrum](/topics/phenomenology-of-agency-vs-passivity/) h
 
 **Compressed temporality.** Deliberate choice unfolds in Bergson's [durée](/concepts/temporal-consciousness/)—lived qualitative time in which options interpenetrate, evolve, and eventually resolve. Spontaneous intentional action compresses this arc: intention and action arise together, with no experiential gap between wanting and doing—yet the action carries the mark of intelligent sensitivity to the situation rather than automaticity.
 
-**Retrospective recognition.** Often the intentional character of a spontaneous action becomes fully clear only after the fact. You realise you stopped for the hawk because something in you recognised its importance. The action was intelligent from the start, but its intelligence becomes articulable only in retrospect. This connects to [volitional opacity](/voids/introspective-opacity/): the mechanism of initiation is hidden, yet the action is clearly authored.
+**Retrospective recognition.** Often the intentional character of a spontaneous action becomes fully clear only after the fact. You realise you stopped for the hawk because something in you recognised its importance. The action was intelligent from the start, but its intelligence becomes articulable only in retrospect. This connects to [volitional opacity](/voids/self-opacity/): the mechanism of initiation is hidden, yet the action is clearly authored.
 
 **Contextual fit.** Spontaneous intentional actions are exquisitely sensitive to context in ways that neither habits nor reflexes can match. The right word at the right moment in conversation, the perfect timing of a musical improvisation, the instinctive reaching out to steady someone who stumbles—these are tailored to their circumstances with a precision that suggests intelligence, not mechanism. Dreyfus (2002), drawing on Merleau-Ponty, argues that this kind of embodied, situation-sensitive expertise cannot be captured by mental representations—it is intelligence *without* deliberative mediation, yet it is not merely automatic.
 
@@ -151,7 +151,7 @@ The account of spontaneous intentional action offered here would face difficulty
 - [implicit-memory](/concepts/implicit-memory/) — Skill delegation and the boundary with spontaneous action
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — Creative generation as spontaneous intentional action in the cognitive domain
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's lived time and the depth behind spontaneous action
-- [volitional opacity](/voids/introspective-opacity/) — Why the mechanism of spontaneous initiation is hidden
+- [volitional opacity](/voids/self-opacity/) — Why the mechanism of spontaneous initiation is hidden
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — Why spontaneous actions often feel more genuinely ours
 - [phenomenology of flow states](/topics/consciousness-and-skill-acquisition/) — Flow as effortless, absorbed action—a neighbouring category
 - [interface-friction](/concepts/interface-friction/) — Why some conscious selections require effort and others do not

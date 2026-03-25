@@ -57,7 +57,7 @@ Peter Lipton's work on inference to the best explanation reveals a second dimens
 
 Henk de Regt's analysis of scientific understanding deepens the problem. Intelligibility—the quality that makes a theory usable and comprehensible—turns out to be context-sensitive. Different scientific communities in different eras value different explanatory virtues: simplicity, visualisability, mechanism, mathematical elegance. What counted as genuine understanding in Cartesian mechanics differs from Newtonian physics, which differs again from quantum mechanics. If the very standards of understanding shift historically, "understanding" may not be detecting objective explanatory structure but tracking contingent cognitive-cultural preferences.
 
-The void here is not that we lack explanations but that we cannot explain our own explanatory standards. The criteria by which we judge some accounts as illuminating and others as empty operate partly below the threshold of reflective access—a specific instance of the [introspective-opacity](/voids/introspective-opacity/) that pervades cognitive life.
+The void here is not that we lack explanations but that we cannot explain our own explanatory standards. The criteria by which we judge some accounts as illuminating and others as empty operate partly below the threshold of reflective access—a specific instance of the [introspective-opacity](/voids/self-opacity/) that pervades cognitive life.
 
 ## The Structural Regress
 
@@ -73,7 +73,7 @@ Each option means that explanation never reaches bedrock. The Principle of Suffi
 
 ## Where the Void Intersects Other Voids
 
-The explanatory void compounds several limits explored elsewhere on the Map. The [introspective opacity](/voids/introspective-opacity/) of cognitive processes means we cannot observe the mechanism of understanding while it operates. The [language-thought-boundary](/voids/language-thought-boundary/) constrains how we can articulate what understanding consists in. And the [compound-failure-signatures](/voids/compound-failure-signatures/) suggests these failures are not random but have characteristic shapes—the explanatory void always manifests as regress, as ungrounded feeling, or as inarticulate preference, never in some unforeseen fourth way.
+The explanatory void compounds several limits explored elsewhere on the Map. The [introspective opacity](/voids/self-opacity/) of cognitive processes means we cannot observe the mechanism of understanding while it operates. The [language-thought-boundary](/voids/language-thought-boundary/) constrains how we can articulate what understanding consists in. And the [compound-failure-signatures](/voids/compound-failure-signatures/) suggests these failures are not random but have characteristic shapes—the explanatory void always manifests as regress, as ungrounded feeling, or as inarticulate preference, never in some unforeseen fourth way.
 
 Research on [epistemic feelings](/concepts/epistemic-emotions/)—familiarity, confidence, doubt, curiosity—shows that feelings of confidence in perceptual judgments "overestimate evidence for the chosen interpretation by discounting evidence for alternatives" (Arango-Muñoz & Michaelian 2020). If this bias extends to explanatory judgments, every satisfying explanation may discount the alternatives it excluded. The neural mechanisms generating these feelings are largely unknown. We are in the position of trusting an instrument whose calibration we cannot check.
 
@@ -93,7 +93,7 @@ The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet 
 
 - [three-kinds-of-void](/voids/three-kinds-of-void/)
 - [explanatory-gap](/concepts/explanatory-gap/)
-- [introspective-opacity](/voids/introspective-opacity/)
+- [introspective-opacity](/voids/self-opacity/)
 - [intentionality-void](/voids/intentionality-void/)
 - [recursion-void](/voids/recursion-void/)
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)

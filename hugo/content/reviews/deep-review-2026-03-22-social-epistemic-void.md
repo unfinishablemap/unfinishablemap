@@ -53,7 +53,7 @@ Triggered by orphan detection: the article had no inbound links according to the
 ### Cross-links Added
 - [epistemology-of-phenomenal-reports](/topics/epistemology-of-first-person-evidence/) → [social-epistemic-void](/voids/intersubjective-void/)
 - [introspection](/concepts/introspection/) → [social-epistemic-void](/voids/intersubjective-void/)
-- [introspective-opacity](/voids/introspective-opacity/) → [social-epistemic-void](/voids/intersubjective-void/)
+- [introspective-opacity](/voids/self-opacity/) → [social-epistemic-void](/voids/intersubjective-void/)
 
 ## Length Management
 

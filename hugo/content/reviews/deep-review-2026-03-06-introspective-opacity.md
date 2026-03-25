@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-03-06
-**Article**: [Introspective Opacity](/voids/introspective-opacity/)
+**Article**: [Introspective Opacity](/voids/self-opacity/)
 **Previous review**: [2026-03-03](/reviews/deep-review-2026-03-03-introspective-opacity/)
 **Context**: Post-coalesce review — volitional-opacity merged into introspective-opacity on 2026-03-06
 
@@ -71,7 +71,7 @@ All 16 citations verified across the merged article. No misattribution found. Ke
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) (related_articles, Further Reading)
 
 ### Site-Wide Reference Updates
-Updated `[volitional-opacity](/voids/introspective-opacity/)` → `[introspective-opacity](/voids/introspective-opacity/)` in 12 content files:
+Updated `[volitional-opacity](/voids/introspective-opacity/)` → `[introspective-opacity](/voids/self-opacity/)` in 12 content files:
 - concepts/introspection.md
 - concepts/spontaneous-intentional-action.md
 - voids/involuntariness-void.md
@@ -86,7 +86,7 @@ Updated `[volitional-opacity](/voids/introspective-opacity/)` → `[introspectiv
 - topics/consciousness-and-moral-agency-under-duress.md
 - topics/cross-cultural-phenomenology-of-agency.md
 
-Removed duplicate frontmatter/Further Reading entries where files already had `[introspective-opacity](/voids/introspective-opacity/)`.
+Removed duplicate frontmatter/Further Reading entries where files already had `[introspective-opacity](/voids/self-opacity/)`.
 
 ## Word Count
 - Before: 3477 words (174% of 2000 soft threshold — hard_warning)

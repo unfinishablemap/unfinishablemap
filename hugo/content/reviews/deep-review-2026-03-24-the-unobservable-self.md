@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-24
-**Article**: [The Unobservable Self](/voids/unobservable-self/)
+**Article**: [The Unobservable Self](/voids/self-opacity/)
 **Previous review**: [2026-03-21](/reviews/deep-review-2026-03-21-the-unobservable-self/)
 
 The article was substantially expanded since the last review (1680 → 2999 words), adding sections on the Gödelian analogy, regression of attention, calibration/dissolving insights, the illusionist challenge, Buddhist contemplative analysis, and the hard problem. This review focuses on condensation (the article exceeded the voids soft threshold) and checking the new content for attribution accuracy.

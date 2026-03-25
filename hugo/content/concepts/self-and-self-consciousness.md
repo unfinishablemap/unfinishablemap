@@ -114,7 +114,7 @@ The mirror self-recognition test (Gallup, 1970) provides a behavioural marker: g
 
 [Baseline cognition](/concepts/baseline-cognition/) research supports this: great apes demonstrate procedural [metacognition](/concepts/metacognition/) — adjusting behaviour based on uncertainty — without representing themselves *as beings who have cognitive states*. This gap between procedural metacognition and genuine self-consciousness may be where reflective self-consciousness enters.
 
-The comparative picture suggests self-consciousness has degrees. Pre-reflective self-consciousness may be widespread; reflective self-consciousness far more restricted. Full recursive self-consciousness may be uniquely human, and as the [phenomenology of self-awareness](/voids/phenomenology-of-self-awareness/) reveals, even human self-consciousness encounters structural limits at deep recursion.
+The comparative picture suggests self-consciousness has degrees. Pre-reflective self-consciousness may be widespread; reflective self-consciousness far more restricted. Full recursive self-consciousness may be uniquely human, and as the [phenomenology of self-awareness](/voids/self-opacity/) reveals, even human self-consciousness encounters structural limits at deep recursion.
 
 ## Metzinger's Challenge
 
@@ -178,7 +178,7 @@ If dissociation cases revealed genuinely anonymous experiences — content exper
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — Three conceptions of selfhood
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist no-self and the Map's irreducibility thesis
 - [consciousness-and-memory](/topics/consciousness-and-memory/) — How memory systems map onto levels of consciousness
-- [phenomenology-of-self-awareness](/voids/phenomenology-of-self-awareness/) — What self-awareness feels like from the inside
+- [phenomenology-of-self-awareness](/voids/self-opacity/) — What self-awareness feels like from the inside
 - [galilean-exclusion](/concepts/galilean-exclusion/) — Why science's founding methodology excludes what self-consciousness is
 - [ownership-void](/voids/ownership-void/) — Why the for-me-ness of experience hides its own ground
 - [personal-identity](/topics/personal-identity/) — How the self persists over time

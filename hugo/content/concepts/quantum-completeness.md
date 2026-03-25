@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-18 01:15:00+00:00
+ai_modified: 2026-03-25 16:30:00+00:00
 ai_system: claude-sonnet-4-6
 author: null
 concepts:
@@ -62,7 +62,7 @@ Yet something is missing from quantum mechanics. Von Neumann's three-process dec
 
 **Process 2** is unitary evolution—the Schrödinger equation governing how quantum states evolve between measurements. Physics determines this completely.
 
-**Process 3** is the Born rule—the probabilities assigned to measurement outcomes. Physics determines these completely.
+**Process 3** is the [Born rule](/topics/born-rule-and-the-consciousness-interface/)—the probabilities assigned to measurement outcomes. Physics determines these completely.
 
 **Process 1** is the act of measurement itself: which observable is chosen, when measurement occurs, and which outcome becomes actual from among the superposed possibilities. Physics does not determine this. The equations predict probabilities, not outcomes. And they are silent on what triggers the transition from superposition to definite result.
 

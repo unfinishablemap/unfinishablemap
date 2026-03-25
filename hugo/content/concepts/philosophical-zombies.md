@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-22 08:12:00+00:00
+ai_modified: 2026-03-25 15:59:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -93,6 +93,8 @@ Some physicalists argue that phenomenal concepts are "special"—they pick out p
 The zombie thought experiment also targets [functionalism](/concepts/functionalism/). If a system can be functionally identical to you while lacking experience, then experience is not a matter of functional organization. The [argument against functionalism](/arguments/functionalism-argument/) develops this as the first of five convergent attacks on functionalism.
 
 The functionalist's best response is to deny that zombies are conceivable *given* a proper understanding of functional roles—arguing that once you specify every functional relation in sufficient detail, consciousness is analytically entailed. But this amounts to Type-A physicalism about functional states, and faces the same challenge: the functional description, however exhaustive, characterises relations between states without capturing their intrinsic qualitative character. A complete functional blueprint of a pain system specifies what triggers it, what it triggers, and how it interacts with other states—but nothing in that specification entails that the system *hurts*.
+
+[Cognitive phenomenology strengthens this point](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/): if reasoning itself has irreducible phenomenal character, zombies could not merely lack sensory experience—they could not genuinely reason, because the felt grasp of logical necessity that distinguishes valid inference from habitual association would be absent.
 
 Block's "China brain" thought experiment (Block, 1978) dramatises this: the population of China organised to replicate your brain's functional structure might be functionally equivalent without being conscious. The force of this example lies in what it reveals: functional equivalence is substrate-independent by design, yet consciousness seems to resist that independence.
 

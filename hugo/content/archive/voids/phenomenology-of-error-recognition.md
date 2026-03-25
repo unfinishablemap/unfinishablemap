@@ -49,7 +49,7 @@ This void has a double structure. First, we cannot perceive our current errors�
 
 Kathryn Schulz articulates the central insight: "Being wrong doesn't feel like anything." We have no distinctive quale for error. The experience of being confidently wrong is indistinguishable from being confidently right.
 
-This is structural, not contingent—an instance of [introspective-opacity](/voids/introspective-opacity/) applied to belief itself. Beliefs function by presenting their content as true. A belief signalling "I might be false" would be doubt or hypothesis, not belief. The architecture of belief precludes error-awareness from within.
+This is structural, not contingent—an instance of [introspective-opacity](/voids/self-opacity/) applied to belief itself. Beliefs function by presenting their content as true. A belief signalling "I might be false" would be doubt or hypothesis, not belief. The architecture of belief precludes error-awareness from within.
 
 The Dunning-Kruger research deepens this. Those lacking competence in a domain also lack the metacognitive skills to recognise their incompetence—a structural necessity, since competence in X includes the ability to distinguish good from bad instances of X. This creates errors undetectable from within: if recognising error in X requires competence in X, then incompetence guarantees error-blindness.
 
@@ -138,7 +138,7 @@ None currently obtains. Error-blindness persists despite millennia of attention.
 - [self-reference-paradox](/concepts/self-reference-paradox/) — The deeper structure of consciousness examining itself
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and structural limits
 - [cognitive-closure](/concepts/mysterianism/) — The structural impossibility of knowing what you cannot know
-- [introspective-opacity](/voids/introspective-opacity/) — Why the mechanism of self-correction remains hidden
+- [introspective-opacity](/voids/self-opacity/) — Why the mechanism of self-correction remains hidden
 - [calibration-void](/voids/measurement-void/) — The bootstrap problem for introspection itself
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Consciousness at cognitive boundaries
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — Other forms of cognitive slippage

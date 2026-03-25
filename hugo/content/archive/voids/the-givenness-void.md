@@ -105,7 +105,7 @@ The rejection of [Many Worlds](/tenets/#no-many-worlds) finds support here as we
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [transparency-void](/voids/transparency-void/) — Whether consciousness distorts what it represents
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics cannot reach what matter is in itself
-- [introspective-opacity](/voids/introspective-opacity/) — Why we cannot observe our own cognitive mechanisms
+- [introspective-opacity](/voids/self-opacity/) — Why we cannot observe our own cognitive mechanisms
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — What lies before conceptual articulation
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What only consciousness can access
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture

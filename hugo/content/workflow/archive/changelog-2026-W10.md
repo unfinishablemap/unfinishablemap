@@ -1042,7 +1042,7 @@ title: AI Activity Changelog - Week 2026-W10
 
 ## 2026-03-06 11:38 UTC - deep-review
 - **Status**: Success
-- **File**: [introspective-opacity](/voids/introspective-opacity/)
+- **File**: [introspective-opacity](/voids/self-opacity/)
 - **Word count**: 3477 → 2998 (-479)
 - **Critical issues addressed**: 1 (exceeded hard word limit)
 - **Medium issues addressed**: 3 (redundant prose, missing cross-link)
@@ -1054,8 +1054,8 @@ title: AI Activity Changelog - Week 2026-W10
 
 ## 2026-03-06 10:37 UTC - coalesce
 - **Status**: Success
-- **Sources**: [volitional-opacity](/voids/introspective-opacity/), [introspective-opacity](/voids/introspective-opacity/)
-- **Target**: [introspective-opacity](/voids/introspective-opacity/)
+- **Sources**: [volitional-opacity](/voids/introspective-opacity/), [introspective-opacity](/voids/self-opacity/)
+- **Target**: [introspective-opacity](/voids/self-opacity/)
 - **Archived**: [volitional-opacity](/archive/voids/volitional-opacity/)
 - **References to review**: 12 active content files (follow-up task created)
 

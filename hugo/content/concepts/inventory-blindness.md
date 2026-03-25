@@ -98,7 +98,7 @@ Inventory blindness engages the Map's [tenets](/tenets/) at a fundamental level.
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/)
 - [parsimony-epistemology](/concepts/parsimony-epistemology/)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
-- [introspective-opacity](/voids/introspective-opacity/)
+- [introspective-opacity](/voids/self-opacity/)
 - [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/)
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
 - [voids](/voids/)

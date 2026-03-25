@@ -81,7 +81,7 @@ Adults cannot directly experience what they have lost—the loss is invisible fr
 
 Development into adulthood does not end the closure process. Expertise creates further voids throughout life—a pattern explored in depth in the [expertise void](/topics/expertise-void/).
 
-The "curse of knowledge" demonstrates the continuity: once information becomes internalised, you lose access to your former ignorant state. The bias is structural, not motivational—financial incentives and explicit warnings fail to reduce it. Every skill acquired is also a closure, narrowing the space of possible thoughts in exchange for fluency within a domain. Unlike infant perceptual narrowing, expertise closure is not biologically mandated, yet it appears similarly irreversible once entrenched. The [opacity of introspection](/voids/introspective-opacity/) deepens at each stage.
+The "curse of knowledge" demonstrates the continuity: once information becomes internalised, you lose access to your former ignorant state. The bias is structural, not motivational—financial incentives and explicit warnings fail to reduce it. Every skill acquired is also a closure, narrowing the space of possible thoughts in exchange for fluency within a domain. Unlike infant perceptual narrowing, expertise closure is not biologically mandated, yet it appears similarly irreversible once entrenched. The [opacity of introspection](/voids/self-opacity/) deepens at each stage.
 
 Voids compound over development. The infant loses perceptual breadth. The child loses exploratory flexibility. The adult loses access to ignorance. The expert loses the ability to see alternatives. Each stage trades accessible territory for increased efficiency within remaining territory.
 

@@ -87,7 +87,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Valence Void](/voids/valence-void/) — Why experience has a built-in good/bad dimension
 - [The Normative Void](/voids/normative-void/) — Moral truths beyond human cognitive reach
 - [The Inaccessible Past](/voids/inaccessible-past/) — Why past conscious states cannot be re-entered, only reconstructed
-- [The Unobservable Self](/voids/unobservable-self/) — The subject that cannot be its own object
+- [The Unobservable Self](/voids/self-opacity/) — The subject that cannot be its own object
 - [The Death Void](/voids/death-void/) — Consciousness cannot represent its own absence
 - [The Dreamless Sleep Void](/voids/sleep-consciousness-void/) — Where consciousness goes during deep sleep
 - [The Intentionality Void](/voids/intentionality-void/) — How thoughts achieve their aboutness, hidden from the consciousness it constitutes
@@ -135,10 +135,10 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Absorption Void](/voids/absorption-void/) — Peak conscious engagement is peak self-opacity
 - [The Appetitive Void](/voids/appetitive-void/) — How desire constitutes cognition rather than merely distorting it
 - [Destabilizing Self-Knowledge](/voids/destabilizing-self-knowledge/) — Knowledge that undermines its own conditions
-- [The Phenomenology of Self-Awareness](/voids/phenomenology-of-self-awareness/) — Self-reference, error-blindness, and the bootstrap problem of self-correction
+- [The Phenomenology of Self-Awareness](/voids/self-opacity/) — Self-reference, error-blindness, and the bootstrap problem of self-correction
 - [Altered States as Void Probes](/voids/altered-states-as-void-probes/) — Whether altered states reveal cognitive limits or simulate transcendence
 - [Consciousness and Attention Disorders](/voids/attention-disorders-and-consciousness/) — When consciousness's own instrument is disordered
-- [Introspective Opacity](/voids/introspective-opacity/) — Why we access mental contents but never the mechanisms that produce them
+- [Introspective Opacity](/voids/self-opacity/) — Why we access mental contents but never the mechanisms that produce them
 - [The Mutation Void](/voids/mutation-void/) — Thoughts that transform upon inspection, where attending changes the content
 - [The Phenomenal Presence Void](/voids/phenomenal-presence-void/) — Why experience's immediacy and felt realness hide their own mechanisms
 - [The Silence Void](/voids/the-silence-void/) — Whether cognitive silence accesses truths that reasoning cannot reach

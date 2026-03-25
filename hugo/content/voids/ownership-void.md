@@ -77,7 +77,7 @@ Attempting to introspect ownership produces a distinctive recursion. Unlike the 
 This distinguishes the ownership void from neighbouring voids:
 
 - The **[unobservable self](/concepts/self-reference-paradox/)** concerns the subject that cannot become its own object. The ownership void asks why any experience feels appropriated by a subject.
-- **[introspective-opacity](/voids/introspective-opacity/)** concerns hidden cognitive processes. The ownership void concerns a specific phenomenal feature—mineness—that is normally present but whose ground is hidden.
+- **[introspective-opacity](/voids/self-opacity/)** concerns hidden cognitive processes. The ownership void concerns a specific phenomenal feature—mineness—that is normally present but whose ground is hidden.
 - The **[self-reference-paradox](/concepts/self-reference-paradox/)** concerns logical structure. The ownership void is phenomenological: about felt belonging, not formal reflexivity.
 
 The broader [ownership problem](/topics/consciousness-and-the-ownership-problem/)—why experience belongs to anyone at all—provides the philosophical context. The ownership void is the epistemic residue that remains even after the ownership problem is well-stated: not merely that ownership is unexplained, but that the mechanism of appropriation is structurally inaccessible from within.
@@ -104,7 +104,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies. Predictive
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [self-reference-paradox](/concepts/self-reference-paradox/) — The observer that cannot observe itself observing
-- [introspective-opacity](/voids/introspective-opacity/) — Why cognitive processes hide from introspection
+- [introspective-opacity](/voids/self-opacity/) — Why cognitive processes hide from introspection
 - [transparency-void](/voids/transparency-void/) — When cognitive mechanisms become invisible through transparency
 - [other-minds-void](/voids/other-minds-void/) — The impossibility of accessing another subject's ownership
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like

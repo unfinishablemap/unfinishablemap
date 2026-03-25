@@ -51,7 +51,7 @@ topics: []
 - [architecture-of-cognitive-closure](/voids/biological-cognitive-closure/) — developmental closure as "inventory blindness in action"
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — inventory blindness ensures closure is self-concealing
 - [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) — inventory blindness deepens the bootstrap problem
-- [introspective-opacity](/voids/introspective-opacity/) — transparency illusion connected to inventory blindness
+- [introspective-opacity](/voids/self-opacity/) — transparency illusion connected to inventory blindness
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — inventory blindness explains why difficulty and impossibility feel identical
 - [parsimony-epistemology](/concepts/parsimony-epistemology/) — inventory blindness makes concept-adequacy systematically uncertain
 

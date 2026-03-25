@@ -162,7 +162,7 @@ The Map's voids framework recognises that we are beings who can conceive of thei
 - [self-reference-paradox](/concepts/self-reference-paradox/) — Structural obstacles to self-examination
 - [whether-real](/voids/whether-real/) — Distinguishing genuine from apparent limits
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — The texture of approaching cognitive boundaries
-- [phenomenology-of-self-awareness](/voids/phenomenology-of-self-awareness/) — The felt quality of thought examining itself
+- [phenomenology-of-self-awareness](/voids/self-opacity/) — The felt quality of thought examining itself
 
 ## References
 

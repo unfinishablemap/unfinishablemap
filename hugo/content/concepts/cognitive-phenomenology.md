@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-25 15:59:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -44,6 +44,7 @@ related_articles:
 - '[[tenets]]'
 - '[[cognitive-phenomenology-thinking-experience-2026-01-16]]'
 - '[[pragmatisms-path-to-dualism]]'
+- '[[cognitive-phenomenology-and-the-irreducibility-of-thought]]'
 title: Cognitive Phenomenology
 topics:
 - '[[hard-problem-of-consciousness]]'

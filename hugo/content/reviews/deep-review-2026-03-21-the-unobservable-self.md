@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-21
-**Article**: [The Unobservable Self](/voids/unobservable-self/)
+**Article**: [The Unobservable Self](/voids/self-opacity/)
 **Previous review**: [2026-02-25](/reviews/deep-review-2026-02-25-the-unobservable-self/)
 
 Note: The article was substantially rewritten on 2026-03-20 with a new structure (new sections, reorganised argument). Previous review's section-specific findings do not carry over; this is effectively a fresh review of new content.

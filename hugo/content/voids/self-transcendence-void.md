@@ -120,7 +120,7 @@ The contrast between human and artificial self-modification illuminates whether 
 - [The Incompleteness Void](/voids/incompleteness-void/) — Gödel's shadow on self-knowledge
 - [The Architecture of Cognitive Closure](/voids/biological-cognitive-closure/) — Bounded concept spaces, developmental pruning, and cross-cultural evidence for species-level constraints
 - [Computational Cognitive Limits](/voids/computational-cognitive-limits/) — Formal limits on any algorithmic mind
-- [The Phenomenology of Self-Awareness](/voids/phenomenology-of-self-awareness/) — What self-reference feels like from inside
+- [The Phenomenology of Self-Awareness](/voids/self-opacity/) — What self-reference feels like from inside
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — Can we know our own limits from within?
 - [AI as Void-Explorer](/voids/ai-as-void-explorer/) — Different architectures, different blind spots

@@ -152,7 +152,7 @@ The Unfinishable Map's framework illuminates deliberation under uncertainty at s
 - [probability-intuition-void](/voids/probability-intuition-void/) — Our architectural limits in reasoning about chance
 - [epistemic-emotions](/concepts/epistemic-emotions/) — The affective dimension of uncertainty
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — Imagining alternative outcomes
-- [volitional opacity](/voids/introspective-opacity/) — Why we cannot observe our own deciding
+- [volitional opacity](/voids/self-opacity/) — Why we cannot observe our own deciding
 - [subjective-aim](/concepts/subjective-aim/) — The process-philosophical structure of commitment
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Why some moments are denser with experience than others
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Deliberative vertigo applied to skilled execution under pressure

@@ -39,7 +39,7 @@ topics:
 - '[[philosophy-of-mind]]'
 ---
 
-Can consciousness verify its own causal powers? The Unfinishable Map's [volitional opacity](/voids/introspective-opacity/) concerns *how* we decide—the process is hidden. The [causal interface void](/voids/causal-interface/) concerns *how* consciousness connects to the physical—the mechanism is invisible. The agency verification void is deeper than both: it concerns *whether* consciousness genuinely causes anything at all, and reveals that this question is structurally unanswerable from within.
+Can consciousness verify its own causal powers? The Unfinishable Map's [volitional opacity](/voids/self-opacity/) concerns *how* we decide—the process is hidden. The [causal interface void](/voids/causal-interface/) concerns *how* consciousness connects to the physical—the mechanism is invisible. The agency verification void is deeper than both: it concerns *whether* consciousness genuinely causes anything at all, and reveals that this question is structurally unanswerable from within.
 
 Every tool consciousness possesses for investigating its own efficacy is internal to the system whose efficacy is in question. Introspection cannot distinguish genuine causal power from a compelling attribution of power. Neuroscience can correlate brain activity with reported states but cannot determine which is causal. Behavioural evidence consistent with conscious causation is equally consistent with consciousness as epiphenomenal accompaniment. The verification is circular at every turn.
 
@@ -104,7 +104,7 @@ The void is also [tenet-generated](/voids/tenet-generated-voids/). Because the M
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework for cognitive limits
-- [Volitional Opacity](/voids/introspective-opacity/) — The opacity of *how* we decide
+- [Volitional Opacity](/voids/self-opacity/) — The opacity of *how* we decide
 - [The Causal Interface Void](/voids/causal-interface/) — The opacity of *how* consciousness connects to physics
 - [The Self-Reference Paradox](/concepts/self-reference-paradox/) — Why consciousness cannot fully model itself
 - [Defended Territory](/voids/defended-territory/) — Could some limits be actively imposed?

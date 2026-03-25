@@ -247,6 +247,7 @@ Intentionality connects to all five foundational tenets:
 - [semantic-memory](/concepts/semantic-memory/) — How meaning is stored, accessed, and experienced
 - [phenomenology](/concepts/phenomenology/) — The tradition that discovered and systematically investigates intentionality
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Does thinking itself have phenomenal character that grounds content?
+- [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) — If cognitive phenomenology is real, meaning itself is irreducible—the phenomenal intentionality case applied to thought
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap that intentionality parallels
 - [explanatory-gap](/concepts/explanatory-gap/) — Why physical explanations leave consciousness unexplained
 - [ai-consciousness](/topics/ai-consciousness/) — Why original intentionality matters for AI

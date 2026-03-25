@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-03-03
-**Article**: [Introspective Opacity](/voids/introspective-opacity/)
+**Article**: [Introspective Opacity](/voids/self-opacity/)
 **Previous review**: [2026-02-25](/reviews/deep-review-2026-02-25-introspective-opacity/)
 **Context**: Cross-review considering emotional epistemology void insights
 

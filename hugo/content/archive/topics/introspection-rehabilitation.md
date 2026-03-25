@@ -72,7 +72,7 @@ The distinction matters because the philosophical stakes concern content, not pr
 
 Schwitzgebel's catalogue of failures requires finer analysis. His strongest cases concern peripheral, background, and dispositional phenomenal states: whether experience extends to the visual periphery, whether inner speech is constant, whether emotions have stable phenomenal signatures. These are intrinsically difficult because they concern states not under focal attention.
 
-His evidence is less convincing about attended phenomenal states—the qualitative character of experience presently under scrutiny. The distinction between attended and unattended experience matters: [introspective-opacity](/voids/introspective-opacity/) names the structural limit where process access fails, but that limit leaves the door open for content access under favourable conditions.
+His evidence is less convincing about attended phenomenal states—the qualitative character of experience presently under scrutiny. The distinction between attended and unattended experience matters: [introspective-opacity](/voids/self-opacity/) names the structural limit where process access fails, but that limit leaves the door open for content access under favourable conditions.
 
 ### Historical Failure, Reconsidered
 
@@ -119,7 +119,7 @@ This matches ordinary epistemic practice. We do not conclude that perception is 
 
 Rehabilitation does not mean vindication. Genuine structural limits persist.
 
-**Process opacity is real.** The [introspective opacity void](/voids/introspective-opacity/) names the structural gap between consciousness and its own mechanisms. Training improves attention to phenomenal content; it does not grant access to cognitive processes. Advanced meditators report more refined awareness of *what* arises in consciousness—not *how* it arises. This limit appears stable across all contemplative traditions.
+**Process opacity is real.** The [introspective opacity void](/voids/self-opacity/) names the structural gap between consciousness and its own mechanisms. Training improves attention to phenomenal content; it does not grant access to cognitive processes. Advanced meditators report more refined awareness of *what* arises in consciousness—not *how* it arises. This limit appears stable across all contemplative traditions.
 
 **The observer transforms the observed.** William James observed that introspecting thought is "like seizing a spinning top to catch its motion" (*The Principles of Psychology*, 1890). Pre-reflective consciousness becomes reflective consciousness in the act of examination. Contemplative traditions acknowledge this: Sartre's analysis of being-for-itself suggests consciousness cannot objectify itself without distortion. The best methods mitigate but cannot eliminate this transformation.
 
@@ -150,7 +150,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet gains 
 - [introspection](/concepts/introspection/) — Comprehensive treatment of the reliability debate
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — How training expands phenomenal access
 - [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — Epistemological grounding for first-person data
-- [introspective-opacity](/voids/introspective-opacity/) — The structural limits that rehabilitation cannot overcome
+- [introspective-opacity](/voids/self-opacity/) — The structural limits that rehabilitation cannot overcome
 - [neurophenomenology](/concepts/neurophenomenology/) — The framework integrating first-person and third-person methods
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Systematic contemplative practice as knowledge source
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — When first-person reports constitute evidence

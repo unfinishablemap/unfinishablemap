@@ -41,7 +41,7 @@ topics:
 
 Emotions feel like the most intimate facts about us. Fear grips. Grief overwhelms. Joy floods. Yet this very intimacy conceals a gap: we often cannot say what we feel. The Unfinishable Map identifies this as a void—not the question of whether emotions reveal truths about the world (explored in the [emotional-epistemology-void](/voids/emotional-epistemology-void/)), but the prior question of whether we can know our own emotional states. The gap between *having* an emotion and *knowing what emotion we have* is narrower than most people assume and wider than most theories acknowledge.
 
-This void is distinct from [introspective-opacity](/voids/introspective-opacity/), which concerns cognitive processes in general. Emotional self-opacity is peculiar because emotions present themselves as self-evident. A headache does not pretend to be self-interpreting; an emotion does. The feeling of anger carries the implicit claim "I am anger"—yet that claim is often wrong, constructed after the fact, or simply absent.
+This void is distinct from [introspective-opacity](/voids/self-opacity/), which concerns cognitive processes in general. Emotional self-opacity is peculiar because emotions present themselves as self-evident. A headache does not pretend to be self-interpreting; an emotion does. The feeling of anger carries the implicit claim "I am anger"—yet that claim is often wrong, constructed after the fact, or simply absent.
 
 ## The Illusion of Emotional Transparency
 
@@ -130,7 +130,7 @@ Current evidence supports none of these conditions fully, though contemplative t
 ## Further Reading
 
 - [The Emotional Epistemology Void](/voids/emotional-epistemology-void/) — Whether emotions provide knowledge of the world
-- [Introspective Opacity](/voids/introspective-opacity/) — The broader phenomenon of hidden cognitive processes
+- [Introspective Opacity](/voids/self-opacity/) — The broader phenomenon of hidden cognitive processes
 - [The Affective Void](/voids/affective-void/) — Emotions beyond human phenomenological reach
 - [Emotional Consciousness and Valence](/topics/emotion-and-dualism/) — The felt quality problem for emotions
 - [Philosophy of Emotion Under Dualism](/topics/emotion-and-dualism/) — Emotions as irreducible conscious acts, including why self-knowledge overflows conceptual categories

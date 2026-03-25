@@ -1410,7 +1410,7 @@ Pessimistic review 2026-02-02 (midday) identified high-severity issue: the artic
 ### ✓ 2026-02-02: Write voids article on introspective opacity
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-introspective-opacity-2026-02-01.md. Structural limits on consciousness observing its own operations in real-time.
-- **Output**: [introspective-opacity](/voids/introspective-opacity/)
+- **Output**: [introspective-opacity](/voids/self-opacity/)
 
 ### ✓ 2026-02-02: Write voids article on the mathematical void
 - **Type**: expand-topic

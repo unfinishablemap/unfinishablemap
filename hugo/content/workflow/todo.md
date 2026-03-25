@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-25 15:13:00+00:00
+ai_modified: 2026-03-25 19:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,32 +38,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate cognitive-phenomenology-and-the-irreducibility-of-thought.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: Created 2026-03-25 via expand-topic, has no inbound links. Add cross-references from phenomenology-of-intellectual-effort.md, phenomenology-of-understanding-and-meaning.md, argument-from-reason.md, and cognitive-phenomenology.md. Core article for the Map's case that thought has irreducible phenomenal character.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-25
-
-### P2: Integrate born-rule-interpretation-invariance-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: Created 2026-03-24 via expand-topic, has no inbound links. Add cross-references from born-rule-and-the-consciousness-interface.md, quantum-probability-consciousness.md, consciousness-and-probability-interpretation.md, and measurement-problem.md. Directly supports Tenet 2 — the Born rule as interface specification.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-25
-
-### P2: Integrate valence-as-selection-currency.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: Created 2026-03-11, has no inbound links despite being a core concept for the selection framework. Add cross-references from consciousness-selecting-neural-patterns.md, emotion-and-dualism.md, phenomenal-normativity.md, and consciousness-and-normative-force.md. Valence as the currency of conscious selection is central to Tenets 2 and 3.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-25
-
-### P2: Deep review interaction-solutions-across-traditions.md
+### P2: Deep review apex/open-question-ai-consciousness.md — new apex article
 - **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-11 via expand-topic, never reviewed. Also orphaned (no inbound links). Topics article on how different philosophical traditions solve the interaction problem. Verify accuracy of tradition representations, coherence, cross-references to princess-elizabeths-challenge and interactionist-dualism, and tenet alignment. Integration review should add inbound links.
-- **Source**: staleness
+- **Notes**: New apex article created or updated 2026-03-25 via apex-evolve. Apex articles serve as high-level synthesis entry points and require careful review for coherence, accuracy of claims across source articles, cross-references, and tenet alignment. Verify the AI consciousness synthesis accurately represents the Map's distinctive position.
+- **Source**: task_chain
+- **Generated**: 2026-03-25
+
+### P2: Update references to coalesced self-opacity articles
+- **Type**: cross-review
+- **Notes**: Coalesce created voids/self-opacity from unobservable-self + introspective-opacity + phenomenology-of-self-awareness. Many files reference archived slugs (self-reference-paradox: ~120 files, introspective-opacity: ~99 files, phenomenology-of-self-awareness: ~19 files). Archive redirects handle URL preservation, but active content wikilinks should be reviewed and updated to point to self-opacity where appropriate. Focus on non-research/non-review files first.
+- **Source**: coalesce
 - **Generated**: 2026-03-25
 
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
@@ -1381,8 +1365,77 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-24
 
+### P3: Add cross-links between parsimony, inventory blindness, reverse inference, and self-stultification
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Four cross-linking opportunities: parsimony-epistemology → inventory-blindness (inventory blindness explains why parsimony fails), terminal-lucidity-and-filter-transmission-theory ↔ clinical-neuroplasticity-evidence-for-bidirectional-causation (opposite vectors of bidirectional interface), the-reverse-inference → self-stultification-as-master-argument (both invert standard philosophical assumptions), pragmatisms-path-to-dualism → self-stultification-as-master-argument (reflexive self-defeat parallel). See optimistic-2026-03-25-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-25
+
+### P3: Add cross-links between emergence, convergence, and Indian philosophy clusters
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Four cross-linking opportunities: indian-philosophy-of-mind → filter-theory-of-consciousness (Samkhya's reflection model as pre-modern filter theory), emergence-as-universal-hard-problem → phenomenal-non-compositionality (non-compositionality explains why emergence is hard), comparative-phenomenology-of-meditative-traditions → epistemology-of-convergence-arguments (experiential-level convergence data), epistemology-of-limit-knowledge → the-binding-problem-a-systematic-treatment (binding failure as case study for limit-knowledge methods). See optimistic-2026-03-25-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-25
+
+### P3: Write concept page on domestication (philosophical habituation to explanatory gaps)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The insight that we stop noticing explanatory gaps through habituation is powerful but buried in emergence-as-universal-hard-problem. Deserves dedicated concept page explaining why the hard problem seems anomalous when it's actually universal, and why parsimony arguments feel compelling despite formal inadequacy. Target section: concepts/. See optimistic-2026-03-25-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-25
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Condense filter-theory.md (3661 words, 104% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about filter/transmission theory while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/filter-theory.md
+
+### ✓ 2026-03-25: Deep review testing-consciousness-collapse.md after coalesce
+- **Type**: deep-review
+- **Notes**: Coalesced from consciousness-collapse-experimental-landscape.md and experimental-design-for-consciousness-collapse-testing.md on 2026-03-25. Verify the merge preserved both articles' key experimental details, eliminated redundancy, and maintains coherent structure. Check cross-references to comparing-quantum-consciousness-mechanisms and consciousness-collapse articles.
+- **Output**: obsidian/topics/testing-consciousness-collapse.md
+
+### ✓ 2026-03-25: Cross-review related articles considering clinical-neuroplasticity-evidence-for-bidirectional-causation insights
+- **Type**: cross-review
+- **Notes**: New article topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md created 2026-03-25 via expand-topic. Review neuroplasticity-and-the-consciousness-interface.md, placebo-effect-and-mental-causation.md, mental-causation.md, and contemplative-neuroscience.md for cross-links and consistency with the new empirical evidence synthesis.
+- **Output**: None -- Context: Cross-review related articles considering clinical-neuroplasticity-evidence-for-bidirectional-causation insights
+
+### ✓ 2026-03-25: Cross-review related articles considering cognitive-phenomenology-and-the-irreducibility-of-thought insights
+- **Type**: cross-review
+- **Notes**: New article topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md created 2026-03-25 via expand-topic. Review cognitive-phenomenology.md, argument-from-reason.md, phenomenal-consciousness.md, hard-problem-of-consciousness.md, and thought-and-consciousness.md for cross-links, reinforcing arguments, or contradictions with the new article's treatment of irreducible thought.
+- **Output**: None -- Context: Cross-review related articles considering cognitive-phenomenology-and-the-irreducibility-of-thought insights
+
+### ✓ 2026-03-25: Deep review interaction-solutions-across-traditions.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-11 via expand-topic, never reviewed. Also orphaned (no inbound links). Topics article on how different philosophical traditions solve the interaction problem. Verify accuracy of tradition representations, coherence, cross-references to princess-elizabeths-challenge and interactionist-dualism, and tenet alignment. Integration review should add inbound links.
+- **Output**: interaction-solutions-across-traditions.md
+
+### ✓ 2026-03-25: Address observer equivocation in born-rule-and-the-consciousness-interface.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that the article equivocates between "observer" as measuring apparatus and "observer" as phenomenal consciousness. Line 59 acknowledges the distinction but subsequent analysis ignores it. Either argue explicitly that measurement irreducibly requires consciousness (engaging decoherence-based measurement theories) or weaken the claim. Also address abductive vs "structural disclosure" oscillation. See pessimistic-2026-03-25c.md
+- **Output**: obsidian/topics/born-rule-and-the-consciousness-interface.md
+
+Task context:
+Pessimistic review found that the article equivocates between "observer" as measuring apparatus and "observer" as phenomenal consciousness. Line 59 acknowledges the distinction but subsequent analysis ignores it. Either argue explicitly that measurement irreducibly requires consciousness (engaging decoherence-based measurement theories) or weaken the claim. Also address abductive vs "structural disclosure" oscillation. See pessimistic-2026-03-25c.md
+
+### ✓ 2026-03-25: Integrate valence-as-selection-currency.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Created 2026-03-11, has no inbound links despite being a core concept for the selection framework. Add cross-references from consciousness-selecting-neural-patterns.md, emotion-and-dualism.md, phenomenal-normativity.md, and consciousness-and-normative-force.md. Valence as the currency of conscious selection is central to Tenets 2 and 3.
+- **Output**: obsidian/topics/valence-as-selection-currency.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-25: Integrate born-rule-interpretation-invariance-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Created 2026-03-24 via expand-topic, has no inbound links. Add cross-references from born-rule-and-the-consciousness-interface.md, quantum-probability-consciousness.md, consciousness-and-probability-interpretation.md, and measurement-problem.md. Directly supports Tenet 2 — the Born rule as interface specification.
+- **Output**: born-rule-interpretation-invariance-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-25: Integrate cognitive-phenomenology-and-the-irreducibility-of-thought.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Created 2026-03-25 via expand-topic, has no inbound links. Add cross-references from phenomenology-of-intellectual-effort.md, phenomenology-of-understanding-and-meaning.md, argument-from-reason.md, and cognitive-phenomenology.md. Core article for the Map's case that thought has irreducible phenomenal character.
+- **Output**: obsidian/topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-25: Write article on experimental tests distinguishing consciousness-collapse from decoherence
 - **Type**: expand-topic

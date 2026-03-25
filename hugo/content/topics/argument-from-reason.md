@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-24 11:06:00+00:00
+ai_modified: 2026-03-25 15:59:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -160,6 +160,7 @@ The physicalist might respond: "If there's no behavioural difference, the distin
 - [mysterianism](/concepts/mysterianism/) - Whether the mechanism of normative awareness may exceed our comprehension
 - [intentionality](/concepts/intentionality/) - Why genuine aboutness requires phenomenal consciousness (phenomenal intentionality thesis)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) - The irreducible phenomenal character of understanding and reasoning
+- [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) - How cognitive phenomenology sharpens the argument from reason and extends the hard problem into cognition
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) - The felt character of comprehension, inference, and meaning integration
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) - Nagel's analysis of how subjectivity enables objectivity
 - [introspection](/concepts/introspection/) - The reliability of self-knowledge and its connection to self-stultification

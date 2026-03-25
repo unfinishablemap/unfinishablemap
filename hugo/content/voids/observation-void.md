@@ -79,7 +79,7 @@ Centuries of the most sustained investigation of consciousness ever undertaken c
 
 The observation void operates at three distinct levels, each blocking study through a different mechanism:
 
-**First-person layer.** Introspection alters experience (Brentano's paradox). Attention transforms its target. We cannot observe our own consciousness without changing what we observe. The [mutation void](/voids/mutation-void/) identifies the most radical cases: thought-contents that are *constitutively unstable*, where the pre-attended and attended thought are different thoughts entirely. This is related to but distinct from [introspective-opacity](/voids/introspective-opacity/)—opacity concerns access to *mechanisms*, while the observation void concerns the transformation of *experience itself* under attention.
+**First-person layer.** Introspection alters experience (Brentano's paradox). Attention transforms its target. We cannot observe our own consciousness without changing what we observe. The [mutation void](/voids/mutation-void/) identifies the most radical cases: thought-contents that are *constitutively unstable*, where the pre-attended and attended thought are different thoughts entirely. This is related to but distinct from [introspective-opacity](/voids/self-opacity/)—opacity concerns access to *mechanisms*, while the observation void concerns the transformation of *experience itself* under attention.
 
 **Third-person layer.** Neuroscience measures correlates—neural firing patterns, blood flow, electromagnetic fields—but never consciousness itself. The explanatory gap (Levine 1983) persists not as a puzzle awaiting solution but as a consequence of studying a non-physical phenomenon with physical instruments. The data capture everything except the thing we are trying to study.
 
@@ -111,7 +111,7 @@ The observation void also connects to [self-reference-paradox](/concepts/self-re
 
 - [dissolution-problem](/voids/dissolution-problem/) — Why we cannot predict which cognitive limits will prove permanent—and why this one likely will
 - [measurement-void](/voids/measurement-void/) — Why introspection cannot be calibrated against any independent standard
-- [introspective-opacity](/voids/introspective-opacity/) — Why we access mental contents but never the mechanisms producing them
+- [introspective-opacity](/voids/self-opacity/) — Why we access mental contents but never the mechanisms producing them
 - [self-reference-paradox](/concepts/self-reference-paradox/) — The subject that cannot become its own object
 - [causal-interface](/voids/causal-interface/) — The hidden mechanism of mind-body interaction
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Knowledge accessible only through phenomenal experience

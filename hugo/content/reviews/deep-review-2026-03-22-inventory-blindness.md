@@ -28,7 +28,7 @@ topics: []
 ### Medium Issues Found
 - **Orphaned reference (Kruger & Dunning)**: Reference 3 was listed but never cited in text. Resolution: added a paragraph in the "Why Absence Produces No Signal" section connecting Dunning-Kruger as a measurable parallel in bounded domains, while clearly distinguishing its scope from inventory blindness.
 - **Non-Euclidean geometry claim overstated**: "Conceivable for centuries before anyone conceived it" was imprecise — mathematicians actively questioned the parallel postulate. Resolution: rewrote to acknowledge the questioning while clarifying that the specific failure was in constructing the alternative framework, not in conceiving the possibility.
-- **Missing cross-links**: No links to `[introspective-opacity](/voids/introspective-opacity/)` or `[epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/)`, both closely related. Resolution: added to both related_articles and Further Reading.
+- **Missing cross-links**: No links to `[introspective-opacity](/voids/self-opacity/)` or `[epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/)`, both closely related. Resolution: added to both related_articles and Further Reading.
 
 ### Counterarguments Considered
 - **Eliminative Materialist**: Would argue inventory blindness is just neuroscience we haven't done yet — that fMRI and computational models will eventually map all cognitive capacities. Response: the article already handles this via the recursive structure (levels 1-4), which shows the detection problem is structural, not merely empirical.
@@ -50,7 +50,7 @@ topics: []
 - Added cross-links to introspective-opacity and epistemology-of-limit-knowledge
 
 ### Cross-links Added
-- [introspective-opacity](/voids/introspective-opacity/)
+- [introspective-opacity](/voids/self-opacity/)
 - [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/)
 
 ## Remaining Items

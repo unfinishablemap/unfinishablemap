@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-03-24 04:33:00+00:00
+ai_modified: 2026-03-25 16:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -84,7 +84,7 @@ Orch OR's requirement for macroscopic quantum coherence across microtubule netwo
 
 A conceptual gap separates Penrose's proposal from the Map's use of it. Gravitational OR determines *when* collapse occurs—the timescale τ ≈ ℏ/E_Δ is fixed by physics. But it does not determine *which outcome* collapse selects. When a superposition resolves, the specific result (which position, which configuration) remains probabilistic. This is where consciousness could operate: not by triggering or delaying collapse, but by biasing which of the allowed outcomes becomes actual.
 
-The Map's framework treats gravitational OR as providing the *occasion* for collapse while consciousness, in neural systems, influences the *selection* among outcomes permitted by the Born rule. This parallels how [GRW and CSL](/concepts/spontaneous-collapse-theories/) provide baseline collapse that consciousness modulates rather than creates. The crucial point: consciousness need not intervene in the gravity-determined threshold. It operates downstream, at the moment of outcome selection, where quantum mechanics leaves the result genuinely open.
+The Map's framework treats gravitational OR as providing the *occasion* for collapse while consciousness, in neural systems, influences the *selection* among outcomes permitted by the [Born rule](/topics/born-rule-and-the-consciousness-interface/). This parallels how [GRW and CSL](/concepts/spontaneous-collapse-theories/) provide baseline collapse that consciousness modulates rather than creates. The crucial point: consciousness need not intervene in the gravity-determined threshold. It operates downstream, at the moment of outcome selection, where quantum mechanics leaves the result genuinely open.
 
 Whether this selection operates through attentional observation (as [Stapp's Zeno model](/concepts/stapp-quantum-mind/) proposes) or through modulation of collapse parameters in high-Φ systems (as the [CSL-IIT hybrid](/topics/comparing-quantum-consciousness-mechanisms/) suggests) remains an open question — see [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/) for a comparative analysis of these forward-in-time frameworks. What gravitational OR contributes is a physically motivated *reason* for collapse to occur at all—removing the need for consciousness to create collapse from nothing.
 

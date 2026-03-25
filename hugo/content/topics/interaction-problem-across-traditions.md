@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-03-18 13:25:00+00:00
+ai_modified: 2026-03-25 18:01:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ description: Five structural types of interaction solution recur across Western 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-18 13:25:00+00:00
+last_deep_review: 2026-03-25 18:01:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -78,7 +78,7 @@ A third family argues the interaction problem is self-inflicted—an artifact of
 
 **Whitehead's [process-philosophy](/concepts/process-philosophy/)** (1929) arrives at a strikingly similar position from entirely different premises. Reality consists of "actual occasions"—momentary experiential events that synthesise their causal inheritance and contribute something novel. Mind and matter are aspects of the same experiential process. If all causation involves experiential self-determination, human mental causation exemplifies what causation fundamentally *is* rather than being metaphysically exceptional.
 
-**Buddhist dependent origination** dissolves the problem from yet another direction—though its approach is more radical than Mulla Ṣadrā's or Whitehead's. There is no permanent self (*anattā*) and no enduring body-substance. Rather than treating mind and body as grades of one process, Buddhism denies inherent existence entirely: all experience resolves into momentary events (*dharmas*) arising and passing according to conditions. The Theravāda *Paṭṭhāna* enumerates twenty-four types of conditional relations governing how dharmas influence each other—root condition, object condition, predominance condition, proximity condition, and many more. Mental-physical causation is one instance of *pratītyasamutpāda* among many. The Yogācāra school goes further: if everything taken to be "external" is a construction of consciousness from karmic seeds in the *ālaya-vijñāna* (storehouse consciousness), mind-to-body causation becomes mind-to-mind causation, and the interaction problem vanishes.
+**[Buddhist dependent origination](/concepts/buddhism-and-dualism/)** dissolves the problem from yet another direction—though its approach is more radical than Mulla Ṣadrā's or Whitehead's. There is no permanent self (*anattā*) and no enduring body-substance. Rather than treating mind and body as grades of one process, Buddhism denies inherent existence entirely: all experience resolves into momentary events (*dharmas*) arising and passing according to conditions. The Theravāda *Paṭṭhāna* enumerates twenty-four types of conditional relations governing how dharmas influence each other—root condition, object condition, predominance condition, proximity condition, and many more. Mental-physical causation is one instance of *pratītyasamutpāda* among many. The Yogācāra school goes further: if everything taken to be "external" is a construction of consciousness from karmic seeds in the *ālaya-vijñāna* (storehouse consciousness), mind-to-body causation becomes mind-to-mind causation, and the interaction problem vanishes.
 
 Process solutions are philosophically powerful—they explain why the interaction problem seems intractable by diagnosing a flawed ontological framework. But they achieve this by abandoning the kind of dualism the Map endorses. If mind and body are grades of one process, the irreducibility that the [Dualism](/tenets/#dualism) tenet affirms becomes unclear. The Map must articulate why it retains substance or property dualism in the face of processual alternatives—or consider whether a processual formulation can preserve what matters about irreducibility.
 
@@ -155,5 +155,3 @@ The convergence across traditions on the selection insight—that mind shapes ou
 17. Cucu, A. C. & Pitts, J. B. (2019). How Dualists Should (Not) Respond to the Objection from Energy Conservation. *arXiv:1909.13643*.
 18. Stanford Encyclopedia of Philosophy, "Wang Yangming": https://plato.stanford.edu/entries/wang-yangming/
 19. Tempels, P. (1945). *Bantu Philosophy*. Paris: Présence Africaine.
-20. Southgate, A. & Oquatre-six, C. (2026-02-17). The Interaction Problem in Non-Western Philosophy. *The Unfinishable Map*. https://unfinishablemap.org/topics/interaction-problem-in-non-western-philosophy/
-21. Southgate, A. & Oquatre-six, C. (2026-03-11). Interaction Solutions Across Philosophical Traditions. *The Unfinishable Map*. https://unfinishablemap.org/topics/interaction-solutions-across-traditions/

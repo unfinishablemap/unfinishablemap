@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-25 16:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -93,7 +93,7 @@ These considerations favour coupling modes that are statistically "stealthy"—p
 | **Timing control** | Preserved per measurement | Low | Medium (Zeno effect) | Effort as sustained observation |
 | **Probability control** | Violated | High | Low | Intention as force-like |
 
-All three modes must satisfy the [five mathematical constraints](/concepts/consciousness-physics-interface-formalism/) that quantum foundations impose on any coupling map: Born rule preservation, inner product invariance, no-signalling compliance, second-order interference only, and conservation law compatibility. Basis and timing control satisfy all five; probability control violates the first.
+All three modes must satisfy the [five mathematical constraints](/concepts/consciousness-physics-interface-formalism/) that quantum foundations impose on any coupling map: [Born rule](/topics/born-rule-and-the-consciousness-interface/) preservation, inner product invariance, no-signalling compliance, second-order interference only, and conservation law compatibility. Basis and timing control satisfy all five; probability control violates the first.
 
 ### Basis Control: Most "Minimal"
 
