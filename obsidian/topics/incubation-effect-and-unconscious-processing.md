@@ -4,7 +4,7 @@ description: "Walking away from a problem sometimes helps solve it. The incubati
 created: 2026-02-10
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-03-24T19:24:00+00:00
+ai_modified: 2026-03-25T10:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ related_articles:
   - "[[dream-consciousness]]"
   - "[[hypnagogic-phenomenology-and-interface-modulation]]"
   - "[[mathematical-truth-and-conscious-access]]"
+  - "[[surprise-prediction-error-and-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

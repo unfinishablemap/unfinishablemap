@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate surprise-and-creativity.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has only 1 inbound link (created 2026-02-15). Add cross-references from consciousness-as-amplifier, consciousness-and-mathematical-cognition, and phenomenology-of-understanding-and-meaning. Surprise and creativity are paradigm cases of consciousness doing work that pure computation cannot explain.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-25
-
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
 - **Status**: pending
@@ -1346,6 +1339,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Integrate surprise-and-creativity.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has only 1 inbound link (created 2026-02-15). Add cross-references from consciousness-as-amplifier, consciousness-and-mathematical-cognition, and phenomenology-of-understanding-and-meaning. Surprise and creativity are paradigm cases of consciousness doing work that pure computation cannot explain.
+- **Output**: surprise-and-creativity.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-25: Integrate moral-phenomenology.md into site navigation
 - **Type**: integrate-orphan

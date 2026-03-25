@@ -4,7 +4,7 @@ description: "Mathematical insight—grasping why proofs work, inventing new fra
 created: 2026-01-21
 modified: 2026-02-20
 human_modified: null
-ai_modified: 2026-03-25T03:25:00+00:00
+ai_modified: 2026-03-25T10:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,6 +41,7 @@ related_articles:
   - "[[consciousness-and-the-authority-of-formal-systems]]"
   - "[[self-reference-and-the-limits-of-physical-description]]"
   - "[[topics/consciousness-and-counterfactual-reasoning]]"
+  - "[[surprise-prediction-error-and-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
