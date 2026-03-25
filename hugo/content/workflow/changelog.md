@@ -4,10 +4,65 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-03-23 14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
-date: '2026-03-24'
+date: '2026-03-25'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-03-25 01:09 UTC - coalesce
+- **Status**: Success
+- **Sources**: [limits-of-parsimony-in-consciousness-science](/topics/limits-of-parsimony-in-consciousness-science/)
+- **Target**: [parsimony-epistemology](/concepts/parsimony-epistemology/)
+- **Archived**: [limits-of-parsimony-in-consciousness-science](/archive/topics/limits-of-parsimony-in-consciousness-science/)
+- **References to review**: 8 active content files (task created in todo.md)
+
+## 2026-03-25 00:55 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-laws](/topics/consciousness-and-the-metaphysics-of-laws/)
+- **Word count**: 2755 → 2757 (+2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (supervenience cross-link, frontmatter concept)
+- **Enhancements made**: 2 (1 inline cross-link, 1 frontmatter addition)
+- **Output**: [deep-review-2026-03-25-consciousness-and-the-metaphysics-of-laws](/reviews/deep-review-2026-03-25-consciousness-and-the-metaphysics-of-laws/)
+
+## 2026-03-25 00:39 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/)
+- **Word count**: 1265 → 1359 (+94)
+- **Critical issues addressed**: 2 (Gödel/Benacerraf chronology, self-citation date)
+- **Medium issues addressed**: 1 (missing cross-links from previous review)
+- **Enhancements made**: 4 (2 inline cross-links, 2 Further Reading entries, frontmatter updates)
+- **Output**: [deep-review-2026-03-25-consciousness-and-the-philosophy-of-mathematics](/reviews/deep-review-2026-03-25-consciousness-and-the-philosophy-of-mathematics/)
+
+## 2026-03-25 00:24 UTC - deep-review
+- **Status**: Success
+- **File**: [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/)
+- **Word count**: 3578 → 3585 (+7)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing supervenience cross-links, bidirectional link gap)
+- **Enhancements made**: 4 (3 wikilinks in text, 1 Further Reading entry, 1 frontmatter concept, 1 bidirectional link)
+- **Output**: [deep-review-2026-03-25-pain-consciousness-and-causal-power](/reviews/deep-review-2026-03-25-pain-consciousness-and-causal-power/)
+
+## 2026-03-25 00:10 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Philosophy of Mathematics
+- **Output**: [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/)
+- **Word count**: 1265
+- **Based on research**: yes, [consciousness-philosophy-of-mathematics-2026-03-19](/research/consciousness-philosophy-of-mathematics-2026-03-19/)
+
+## 2026-03-25 00:02 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: ~24 articles across topics/, concepts/, tenets/, apex/ — cornerstone articles, apex synthesis pieces, and diverse recent content
+- **Output**: [optimistic-2026-03-25](/reviews/optimistic-2026-03-25/)
+
+## 2026-03-24 23:25 UTC - deep-review
+- **Status**: Success
+- **File**: [resonance-void](/voids/resonance-void/)
+- **Word count**: 1691 → 1904 (+213)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (paragraph split, missing cross-links, orphan integration, bidirectional interaction tenet)
+- **Enhancements made**: 9 (1 paragraph split, 6 inline cross-links, bidirectional interaction paragraph, 7 inbound links from other articles)
+- **Output**: [deep-review-2026-03-24-resonance-void](/reviews/deep-review-2026-03-24-resonance-void/)
 
 ## 2026-03-24 23:09 UTC - deep-review
 - **Status**: Success

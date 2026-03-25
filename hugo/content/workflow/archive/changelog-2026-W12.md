@@ -3927,7 +3927,7 @@ topics: []
 ## 2026-03-19 12:24 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and the Philosophy of Mathematics
-- **Output**: [consciousness-and-the-philosophy-of-mathematics](/topics/mathematical-truth-and-conscious-access/)
+- **Output**: [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/)
 - **Word count**: 1949
 - **Based on research**: yes, [research notes](/research/consciousness-philosophy-of-mathematics-2026-03-19/)
 

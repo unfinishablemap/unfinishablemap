@@ -36,7 +36,7 @@ topics:
 - '[[arguments-against-materialism]]'
 ---
 
-Parsimony failure in consciousness refers to the structural inability of Occam's Razor to adjudicate between [physicalism](/concepts/materialism/) and [dualism](/concepts/dualism/) in the mind-body debate. Unlike domains where parsimony reliably guides theory choice, consciousness satisfies none of the preconditions that give simplicity its epistemic force. This article identifies the three preconditions and explains why each fails. For the general epistemology of parsimony, see [parsimony-epistemology](/concepts/parsimony-epistemology/); for the historical and evidential case, see [limits-of-parsimony-in-consciousness-science](/topics/limits-of-parsimony-in-consciousness-science/).
+Parsimony failure in consciousness refers to the structural inability of Occam's Razor to adjudicate between [physicalism](/concepts/materialism/) and [dualism](/concepts/dualism/) in the mind-body debate. Unlike domains where parsimony reliably guides theory choice, consciousness satisfies none of the preconditions that give simplicity its epistemic force. This article identifies the three preconditions and explains why each fails. For the general epistemology of parsimony, see [parsimony-epistemology](/concepts/parsimony-epistemology/); for the historical and evidential case, see [limits-of-parsimony-in-consciousness-science](/concepts/parsimony-epistemology/).
 
 ## The Standard Parsimony Argument
 
@@ -121,12 +121,12 @@ This reveals parsimony's deployment against dualism as selective. The principle 
 
 The Map's fifth tenet — [Occam's Razor Has Limits](/tenets/#occams-limits) — is grounded in the triple precondition failure described here. The tenet does not dismiss parsimony generally. It identifies consciousness as a domain where parsimony's preconditions are structurally unmet, making simplicity-based objections to [interactionist-dualism](/concepts/interactionist-dualism/) rationally inert.
 
-The Map interprets this as removing the single largest rhetorical barrier to taking dualism seriously. The precondition failures are not matters of opinion — they are structural features of the debate that have been acknowledged even by parsimony's most prominent defenders (as documented in [limits-of-parsimony-in-consciousness-science](/topics/limits-of-parsimony-in-consciousness-science/)). When the preconditions for applying a principle are unmet, invoking the principle is not cautious reasoning — it is a category error.
+The Map interprets this as removing the single largest rhetorical barrier to taking dualism seriously. The precondition failures are not matters of opinion — they are structural features of the debate that have been acknowledged even by parsimony's most prominent defenders (as documented in [limits-of-parsimony-in-consciousness-science](/concepts/parsimony-epistemology/)). When the preconditions for applying a principle are unmet, invoking the principle is not cautious reasoning — it is a category error.
 
 ## Further Reading
 
 - [parsimony-epistemology](/concepts/parsimony-epistemology/) — General framework: when parsimony tracks truth
-- [limits-of-parsimony-in-consciousness-science](/topics/limits-of-parsimony-in-consciousness-science/) — Evidence from hostile witnesses and case studies
+- [limits-of-parsimony-in-consciousness-science](/concepts/parsimony-epistemology/) — Evidence from hostile witnesses and case studies
 - [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) — The full philosophical case
 - [The Parsimony Void](/voids/epistemological-limits-occams-razor/) — Cognitive dimensions of parsimony bias
 - [explanatory-gap](/concepts/explanatory-gap/) — Why physical description cannot capture phenomenal reality

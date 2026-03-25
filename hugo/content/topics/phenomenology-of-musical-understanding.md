@@ -28,6 +28,7 @@ related_articles:
 - '[[tenets]]'
 - '[[emotion-and-dualism]]'
 - '[[surprise-prediction-error-and-consciousness]]'
+- '[[resonance-void]]'
 title: The Phenomenology of Musical Understanding
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -126,6 +127,7 @@ Musical understanding connects to the Map's framework through several tenets.
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Intrinsic value in conscious experience
 - [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — The binding of experience into unified wholes
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — Unified account of five phenomenal meaning modes, including aesthetic meaning through music
+- [resonance-void](/voids/resonance-void/) — Where musical meaning exceeds articulation entirely—the body registers what the intellect cannot unpack
 
 ## References
 

@@ -83,7 +83,7 @@ These are not isolated exceptions. They cluster at moments when existing concept
 
 ## Smart's Abandoned Defence
 
-One historical episode is particularly instructive. J. J. C. Smart, in his influential 1959 paper "Sensations and Brain Processes," invoked Occam's Razor as a central argument for mind-brain identity theory. The argument attracted immediate and sustained criticism—Smart was "severely criticized" for this use of the razor, as the *Stanford Encyclopedia of Philosophy* records—and he never mounted an adequate defence in his subsequent work. Even Paul Churchland—no friend of dualism—qualifies in the original edition of *Matter and Consciousness* that the simplicity argument is "not a conclusive argument for materialism," since "neither dualism nor materialism can yet explain all the phenomena that need to be explained" (1984). William Lycan (2009), a committed materialist of over forty years, goes further: after reviewing the standard objections to dualism he concludes that parsimony is "a very posterior reason" that should only break ties when all else is equal. When the philosopher who made the parsimony argument famous never successfully defends it, and leading materialists acknowledge its weakness, the argument's limitations are hard to deny. See [limits-of-parsimony-in-consciousness-science](/topics/limits-of-parsimony-in-consciousness-science/) for the full case from within the materialist camp.
+One historical episode is particularly instructive. J. J. C. Smart, in his influential 1959 paper "Sensations and Brain Processes," invoked Occam's Razor as a central argument for mind-brain identity theory. The argument attracted immediate and sustained criticism—Smart was "severely criticized" for this use of the razor, as the *Stanford Encyclopedia of Philosophy* records—and he never mounted an adequate defence in his subsequent work. Even Paul Churchland—no friend of dualism—qualifies in the original edition of *Matter and Consciousness* that the simplicity argument is "not a conclusive argument for materialism," since "neither dualism nor materialism can yet explain all the phenomena that need to be explained" (1984). William Lycan (2009), a committed materialist of over forty years, goes further: after reviewing the standard objections to dualism he concludes that parsimony is "a very posterior reason" that should only break ties when all else is equal. When the philosopher who made the parsimony argument famous never successfully defends it, and leading materialists acknowledge its weakness, the argument's limitations are hard to deny. See [limits-of-parsimony-in-consciousness-science](/concepts/parsimony-epistemology/) for the full case from within the materialist camp.
 
 ## Relation to Site Perspective
 
@@ -99,7 +99,7 @@ The claim is narrower and more defensible: parsimony cannot settle the conscious
 
 ## Further Reading
 
-- [limits-of-parsimony-in-consciousness-science](/topics/limits-of-parsimony-in-consciousness-science/) — Concrete evidence from within the materialist camp: abandoned defences, concessions, and internal contradictions
+- [limits-of-parsimony-in-consciousness-science](/concepts/parsimony-epistemology/) — Concrete evidence from within the materialist camp: abandoned defences, concessions, and internal contradictions
 - [dualism](/concepts/dualism/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
 - [explanatory-gap](/concepts/explanatory-gap/)

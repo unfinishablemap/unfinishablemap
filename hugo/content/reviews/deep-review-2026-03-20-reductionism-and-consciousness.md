@@ -63,7 +63,7 @@ topics: []
 
 ### Cross-links Added
 - [parsimony-epistemology](/concepts/parsimony-epistemology/)
-- [limits-of-parsimony-in-consciousness-science](/topics/limits-of-parsimony-in-consciousness-science/)
+- [limits-of-parsimony-in-consciousness-science](/concepts/parsimony-epistemology/)
 - [consciousness-and-the-structure-of-scientific-revolutions](/topics/consciousness-and-the-structure-of-scientific-revolutions/)
 
 ## Remaining Items

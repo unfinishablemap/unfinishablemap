@@ -72,6 +72,7 @@ related_articles:
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[mathematical-truth-and-conscious-access]]'
 - '[[phenomenology-of-creative-insight]]'
+- '[[resonance-void]]'
 title: Aesthetics and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -168,6 +169,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Why aesthetic knowledge requires experience
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — Why phenomenal properties resist physical reduction
 - [cognitive-closure](/concepts/mysterianism/) — Why the structure-experience gap may be permanent
+- [resonance-void](/voids/resonance-void/) — Consciousness encountering meaning beyond articulation—broader than beauty, with the same phenomenological structure
 - [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Quantum approaches to the binding problem
 
 ## References

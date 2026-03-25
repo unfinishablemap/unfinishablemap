@@ -33,7 +33,7 @@ topics:
 - '[[limits-of-parsimony-in-consciousness-science]]'
 ---
 
-The Unfinishable Map's existing articles on [parsimony-epistemology](/concepts/parsimony-epistemology/) and the [limits of parsimony](/topics/limits-of-parsimony-in-consciousness-science/) make the defensive case: Occam's Razor cannot adjudicate the mind-body problem because its preconditions fail. This article makes the stronger, positive claim. When all explanatory costs are tallied — not just substance count but theoretical proliferation, brute facts, and accommodation of the data — [interactionist-dualism](/concepts/interactionist-dualism/) emerges as the more parsimonious position. Physicalism's apparent simplicity is a bookkeeping trick: it hides enormous debts off the balance sheet.
+The Unfinishable Map's existing articles on [parsimony-epistemology](/concepts/parsimony-epistemology/) and the [limits of parsimony](/concepts/parsimony-epistemology/) make the defensive case: Occam's Razor cannot adjudicate the mind-body problem because its preconditions fail. This article makes the stronger, positive claim. When all explanatory costs are tallied — not just substance count but theoretical proliferation, brute facts, and accommodation of the data — [interactionist-dualism](/concepts/interactionist-dualism/) emerges as the more parsimonious position. Physicalism's apparent simplicity is a bookkeeping trick: it hides enormous debts off the balance sheet.
 
 ## The Bookkeeping Trick
 
@@ -119,7 +119,7 @@ The Map speculates that the standard parsimony argument persists not because of 
 ## Further Reading
 
 - [parsimony-epistemology](/concepts/parsimony-epistemology/) — When and why simplicity tracks truth
-- [limits-of-parsimony-in-consciousness-science](/topics/limits-of-parsimony-in-consciousness-science/) — Hostile witnesses and the concrete evidence
+- [limits-of-parsimony-in-consciousness-science](/concepts/parsimony-epistemology/) — Hostile witnesses and the concrete evidence
 - [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) — The full philosophical case
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's core position
 - [arguments-against-materialism](/topics/arguments-against-materialism/) — The broader case

@@ -2,10 +2,15 @@
 title: "Limits of Parsimony in Consciousness Science"
 description: "How defenders' own qualifications, internal contradictions, and historical failures expose parsimony as the weakest argument against dualism—human+AI analysis."
 created: 2026-03-20
-modified: 2026-03-20
+modified: 2026-03-25
 human_modified:
-ai_modified: 2026-03-24T13:33:00+00:00
+ai_modified: 2026-03-25T01:09:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-25T01:09:00+00:00
+superseded_by: "/concepts/parsimony-epistemology/"
+archive_reason: "Coalesced into Parsimony Epistemology"
+original_path: "/topics/limits-of-parsimony-in-consciousness-science/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[arguments-against-materialism]]"

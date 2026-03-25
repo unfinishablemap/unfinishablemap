@@ -70,14 +70,14 @@ All attributions verified against previous review's findings:
 
 - Added cross-link to [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) in subject combination section, connecting the boundedness of subjectivity to the broader individuation question
 - Added cross-link to [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/) in "What the Problem Reveals," situating the combination problem as an instance of a universal pattern
-- Added cross-link to [limits-of-parsimony-in-consciousness-science](/topics/limits-of-parsimony-in-consciousness-science/) in Relation to Site Perspective, strengthening the Occam's Razor argument
+- Added cross-link to [limits-of-parsimony-in-consciousness-science](/concepts/parsimony-epistemology/) in Relation to Site Perspective, strengthening the Occam's Razor argument
 - Fixed Morch citation to match published reference
 
 ### Cross-links Added
 
 - [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) (subject combination section)
 - [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/) (What the Problem Reveals)
-- [limits-of-parsimony-in-consciousness-science](/topics/limits-of-parsimony-in-consciousness-science/) (Relation to Site Perspective)
+- [limits-of-parsimony-in-consciousness-science](/concepts/parsimony-epistemology/) (Relation to Site Perspective)
 
 ## Remaining Items
 

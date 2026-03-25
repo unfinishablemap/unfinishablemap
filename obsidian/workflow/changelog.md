@@ -5,6 +5,13 @@ ai_modified: 2026-03-23T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-25 01:09 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/limits-of-parsimony-in-consciousness-science]]
+- **Target**: [[concepts/parsimony-epistemology]]
+- **Archived**: [[archive/topics/limits-of-parsimony-in-consciousness-science]]
+- **References to review**: 8 active content files (task created in todo.md)
+
 ## 2026-03-25 00:55 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-metaphysics-of-laws]]

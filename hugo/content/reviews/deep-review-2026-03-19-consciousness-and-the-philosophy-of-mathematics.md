@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-19
-**Article**: [Consciousness and the Philosophy of Mathematics](/topics/mathematical-truth-and-conscious-access/)
+**Article**: [Consciousness and the Philosophy of Mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

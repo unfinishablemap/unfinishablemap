@@ -108,7 +108,7 @@ This matters practically. If parsimony cannot adjudicate the consciousness debat
 - [parsimony-epistemology](/concepts/parsimony-epistemology/) — When and why parsimony tracks truth
 - [parsimony-failure-consciousness](/concepts/parsimony-epistemology/) — The three precondition failures specific to consciousness
 - [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) — The full philosophical case
-- [limits-of-parsimony-in-consciousness-science](/topics/limits-of-parsimony-in-consciousness-science/) — Hostile witnesses and historical evidence
+- [limits-of-parsimony-in-consciousness-science](/concepts/parsimony-epistemology/) — Hostile witnesses and historical evidence
 - [The Parsimony Void](/voids/epistemological-limits-occams-razor/) — Parsimony as cognitive boundary
 - [Tenet: Occam's Razor Has Limits](/tenets/#occams-limits)
 

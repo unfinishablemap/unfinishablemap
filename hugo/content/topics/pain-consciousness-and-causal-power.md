@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-03-20 20:14:00+00:00
+ai_modified: 2026-03-25 00:24:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -19,6 +19,7 @@ concepts:
 - '[[agent-causation]]'
 - '[[causal-powers]]'
 - '[[psychophysical-laws]]'
+- '[[supervenience]]'
 - '[[knowledge-argument]]'
 - '[[introspection]]'
 - '[[inverted-qualia]]'
@@ -36,7 +37,7 @@ description: Pain is the hard problem made personal and epiphenomenalism made un
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-20 09:41:00+00:00
+last_deep_review: 2026-03-25 00:24:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -158,7 +159,7 @@ The [placebo effect](/topics/placebo-effect-and-mental-causation/) demonstrates 
 
 The [evolutionary argument](/topics/evolutionary-case-for-mental-causation/) against epiphenomenalism is strongest for pain. The elaborate phenomenal architecture of pain — its graded intensity tracking tissue damage, its qualitative variety matching damage type, its attention-monopolising urgency proportional to threat severity — would be a staggering accident if consciousness were causally inert.
 
-The epiphenomenalist may respond that pain experience necessarily supervenes on the functional states natural selection actually selected. But this generates a further question: *why this particular supervenience mapping?* Why should C-fibre activation at intensity X produce *this* degree of awfulness? If the awfulness is causally inert, natural selection never "saw" it and could not have tuned the supervenience relation. The simpler explanation: pain hurts *because* the hurting drives avoidance, and evolution calibrated the phenomenal intensity to the survival stakes.
+The epiphenomenalist may respond that pain experience necessarily [supervenes](/concepts/supervenience/) on the functional states natural selection actually selected. But this generates a further question: *why this particular [supervenience](/concepts/supervenience/) mapping?* Why should C-fibre activation at intensity X produce *this* degree of awfulness? If the awfulness is causally inert, natural selection never "saw" it and could not have tuned the supervenience relation. The simpler explanation: pain hurts *because* the hurting drives avoidance, and evolution calibrated the phenomenal intensity to the survival stakes.
 
 [Philosophical zombies](/concepts/philosophical-zombies/) who respond to tissue damage exactly as humans do — wincing, crying out, seeking medical attention — but who feel nothing sharpen the point. A pain-zombie's "pain behaviour" is empty performance. If we can coherently conceive of this, then pain behaviour does not entail pain experience, and the experience itself must be something beyond the functional organisation.
 
@@ -172,7 +173,7 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction).** If consciousness biases physical outcomes through the smallest possible influence on quantum indeterminacies, pain's motivational urgency and suffering's sustained behavioural restructuring represent two modes of that influence — acute and chronic, respectively. The mechanism remains speculative, but the phenomenology suggests different temporal profiles of consciousness-body interaction operating through the same interface.
 
-**[No Many Worlds](/tenets/#no-many-worlds).** The evolutionary argument against epiphenomenalism gains force from the Map's rejection of MWI. Under many-worlds, one might argue that every supervenience mapping is realised somewhere, weakening the demand to explain *why this particular mapping* — why tissue damage of type X produces suffering of character Y. In a single-history universe, the systematic alignment of suffering-type with damage-type is a contingent fact that demands causal explanation, and the simplest is that the suffering itself was selected for.
+**[No Many Worlds](/tenets/#no-many-worlds).** The evolutionary argument against epiphenomenalism gains force from the Map's rejection of MWI. Under many-worlds, one might argue that every [supervenience](/concepts/supervenience/) mapping is realised somewhere, weakening the demand to explain *why this particular mapping* — why tissue damage of type X produces suffering of character Y. In a single-history universe, the systematic alignment of suffering-type with damage-type is a contingent fact that demands causal explanation, and the simplest is that the suffering itself was selected for.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits).** Reducing pain to C-fibre firing and suffering to neural activity achieves simplicity by changing the subject. The phenomenon to be explained is why anything *suffers at all*, and no degree of neural detail addresses this. Each physicalist theory offers a parsimonious redescription of asymbolia. The Map adds an explanatory layer: irreducible phenomenal properties with genuine causal efficacy. This is less parsimonious, but the parsimony of physicalist accounts is achieved by declining to explain the central datum.
 
@@ -198,6 +199,7 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 - [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) — How asymbolia evidence bears on whether valence enters the selection mechanism
 - [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/) — Asymbolia within the broader framework of clinical evidence for dualism
 - [valence-as-selection-currency](/topics/valence-as-selection-currency/) — How valence may function as the common evaluative metric for conscious selection
+- [supervenience](/concepts/supervenience/) — Why the Map accepts phenomenal-physical covariance but rejects the reductive conclusions drawn from it
 
 ## References
 

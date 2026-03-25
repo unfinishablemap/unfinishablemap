@@ -33,6 +33,7 @@ related_articles:
 - '[[the-strong-emergence-of-consciousness]]'
 - '[[knowledge-argument]]'
 - '[[explanatory-gap]]'
+- '[[pain-consciousness-and-causal-power]]'
 title: Supervenience
 topics:
 - '[[hard-problem-of-consciousness]]'

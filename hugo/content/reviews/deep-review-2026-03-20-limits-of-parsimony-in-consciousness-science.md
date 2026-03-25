@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-20
-**Article**: [Limits of Parsimony in Consciousness Science](/topics/limits-of-parsimony-in-consciousness-science/)
+**Article**: [Limits of Parsimony in Consciousness Science](/concepts/parsimony-epistemology/)
 **Previous review**: Never
 **Cross-review context**: Quantum consciousness articles considering von Neumann-Wigner interpretation insights
 

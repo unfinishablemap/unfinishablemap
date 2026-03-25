@@ -74,7 +74,7 @@ topics: []
 - [arguments-against-materialism](/topics/arguments-against-materialism/) (body text)
 
 **Inbound (from other articles to this one):**
-- [limits-of-parsimony-in-consciousness-science](/topics/limits-of-parsimony-in-consciousness-science/) — added to related_articles and inline link in Swinburne's Reversal section
+- [limits-of-parsimony-in-consciousness-science](/concepts/parsimony-epistemology/) — added to related_articles and inline link in Swinburne's Reversal section
 - [parsimony-epistemology](/concepts/parsimony-epistemology/) — added to related_articles and inline link in Relation to Site Perspective
 - [arguments-against-materialism](/topics/arguments-against-materialism/) — added to related_articles and inline link in Parsimony Illusion section
 - [interactionist-dualism](/concepts/interactionist-dualism/) — added to related_articles and updated Parsimony bullet in Objections section

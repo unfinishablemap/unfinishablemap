@@ -55,12 +55,12 @@ All checks passed (consistent with previous reviews):
 - Process philosophy integration via Whitehead
 
 ### Enhancements Made
-- Added cross-link to [consciousness-and-the-philosophy-of-mathematics](/topics/mathematical-truth-and-conscious-access/) in "Sense of Discovery" subsection, connecting Gödel's Platonism to the systematic treatment of mathematical ontology
+- Added cross-link to [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) in "Sense of Discovery" subsection, connecting Gödel's Platonism to the systematic treatment of mathematical ontology
 - Added to `related_articles` frontmatter and Further Reading
 - Tightened prose in 2 locations (Poincaré caveat, metarepresentation parenthetical) to maintain length-neutral status
 
 ### Cross-links Added
-- [consciousness-and-the-philosophy-of-mathematics](/topics/mathematical-truth-and-conscious-access/)
+- [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/)
 
 ## Word Count
 3594 → 3599 (net +5 words, effectively length-neutral)

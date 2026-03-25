@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-03-19 04:24:00+00:00
+ai_modified: 2026-03-25 00:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -10,6 +10,7 @@ concepts:
 - '[[causal-closure]]'
 - '[[mental-causation]]'
 - '[[emergence]]'
+- '[[supervenience]]'
 created: 2026-02-16
 date: &id001 2026-02-16
 description: What laws of nature are—Humean regularities, governing principles, or
@@ -18,7 +19,7 @@ description: What laws of nature are—Humean regularities, governing principles
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-19 04:24:00+00:00
+last_deep_review: 2026-03-25 00:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -66,7 +67,7 @@ The challenge for dualists on Humean grounds is different from what one might ex
 
 A Humean might respond that this demand for deeper explanation is unfair—Humean physical laws are equally "shallow." The regularity that masses attract provides no mechanism either. If brute regularity is good enough for gravity, why not for consciousness? The dualist's answer is that the explanatory gap between physical and phenomenal is qualitatively different from the gap between one physical regularity and another. Physical regularities at least involve commensurable quantities; psychophysical regularities bridge [ontologically distinct domains](/concepts/emergence/), making the absence of deeper explanation more troubling.
 
-A deeper concern: Humean supervenience holds that everything supervenes on the mosaic of local particular matters of fact. If consciousness adds something beyond the physical mosaic—as dualism claims—then Humean supervenience fails. The Humean picture may accommodate psychophysical *regularities* while being unable to accommodate the non-physical *facts* those regularities describe. A committed Humean might accept psychophysical correlations into the best system while denying that phenomenal properties are ontologically additional—which collapses back into a form of physicalism.
+A deeper concern: [Humean supervenience](/concepts/supervenience/) holds that everything supervenes on the mosaic of local particular matters of fact. If consciousness adds something beyond the physical mosaic—as dualism claims—then Humean supervenience fails. The Humean picture may accommodate psychophysical *regularities* while being unable to accommodate the non-physical *facts* those regularities describe. A committed Humean might accept psychophysical correlations into the best system while denying that phenomenal properties are ontologically additional—which collapses back into a form of physicalism.
 
 ### Governing Laws and the Legislation Problem
 

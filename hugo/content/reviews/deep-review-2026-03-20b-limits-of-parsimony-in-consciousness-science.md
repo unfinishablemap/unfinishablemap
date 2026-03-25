@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-20
-**Article**: [Limits of Parsimony in Consciousness Science](/topics/limits-of-parsimony-in-consciousness-science/)
+**Article**: [Limits of Parsimony in Consciousness Science](/concepts/parsimony-epistemology/)
 **Previous review**: [2026-03-20](/reviews/deep-review-2026-03-20-limits-of-parsimony-in-consciousness-science/)
 
 ## Pessimistic Analysis Summary

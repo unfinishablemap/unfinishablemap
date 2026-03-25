@@ -53,7 +53,7 @@ topics: []
 - Added new article to Further Reading with descriptive annotation
 
 ### Cross-links Added
-- [consciousness-and-the-philosophy-of-mathematics](/topics/mathematical-truth-and-conscious-access/) (opening paragraph, related_articles, Further Reading)
+- [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) (opening paragraph, related_articles, Further Reading)
 
 ## Remaining Items
 
