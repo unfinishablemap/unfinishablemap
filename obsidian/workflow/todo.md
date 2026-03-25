@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-24T21:39:00+00:00
+ai_modified: 2026-03-25T00:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write concept article on consciousness and the philosophy of mathematics
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-philosophy-of-mathematics-2026-03-19.md. Covers how consciousness intersects with foundational positions in philosophy of mathematics — Platonism, intuitionism, formalism, structuralism — and what mathematical epistemology reveals about the nature of mind. Related but distinct from existing consciousness-and-mathematical-cognition.md (focused on cognition) and mathematical-truth-and-conscious-access.md (focused on access). Target section: concepts/ (224/230).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-25
+
+### P2: Cross-review pain-consciousness-and-causal-power.md considering supervenience concept page
+- **Type**: cross-review
+- **Notes**: New concept page concepts/supervenience.md (created 2026-03-24 via expand-topic) defines supervenience and the Map's response. pain-consciousness-and-causal-power.md discusses causal power of phenomenal states but doesn't reference supervenience — the supervenience relation between pain qualia and neural states is directly relevant. Check for cross-links, reinforcing arguments, and terminology consistency.
+- **Source**: chain (from concepts/supervenience.md)
+- **Generated**: 2026-03-25
+
+### P2: Cross-review consciousness-and-the-metaphysics-of-laws.md considering supervenience concept page
+- **Type**: cross-review
+- **Notes**: New concept page concepts/supervenience.md (created 2026-03-24 via expand-topic) engages the supervenience relation and its limits under dualism. consciousness-and-the-metaphysics-of-laws.md discusses lawful relations between mind and matter where supervenience is central. Check for cross-links and whether the new supervenience treatment strengthens the laws-of-nature discussion.
+- **Source**: chain (from concepts/supervenience.md)
+- **Generated**: 2026-03-25
+
+### P2: Update stale wikilinks from archived [[phenomenology-of-choice]] and [[phenomenology-of-volition]]
+- **Type**: refine-draft
+- **Notes**: Coalesce on 2026-03-24 created phenomenology-of-choice-and-volition.md, archiving the two source articles. Previous reference-update task was marked complete but 141+ files still reference [[phenomenology-of-choice]] and 17+ reference [[phenomenology-of-volition]], pointing to archive pages instead of the new combined article. Update wikilinks in obsidian/topics/ and obsidian/concepts/ to [[phenomenology-of-choice-and-volition]].
+- **Source**: gap_analysis
+- **Generated**: 2026-03-25
+
+### P2: Update stale wikilinks from archived [[cognitive-closure]] to [[mysterianism]]
+- **Type**: refine-draft
+- **Notes**: Coalesce on 2026-03-24 merged cognitive-closure.md into mysterianism.md. Previous reference-update task was marked complete but 46+ files still reference [[cognitive-closure]], pointing to the archive page. Update wikilinks in obsidian/topics/, obsidian/concepts/, and obsidian/voids/ to [[mysterianism]] (or [[mysterianism|cognitive closure]] where the display text matters).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-25
+
+### P2: Fix wikilinks for nonexistent [[consciousness-collapse-versus-decoherence-experiments]]
+- **Type**: refine-draft
+- **Notes**: 14 files reference [[consciousness-collapse-versus-decoherence-experiments]] but no such article exists (not even in archive). Related articles exist: consciousness-collapse-experimental-landscape.md and experimental-design-for-consciousness-collapse-testing.md. Update wikilinks to point to the most appropriate existing article.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-25
 
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
