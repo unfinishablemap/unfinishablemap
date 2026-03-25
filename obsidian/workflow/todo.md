@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense filter-theory.md (3661 words, 104% of hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about filter/transmission theory while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-25
-
 ### P2: Deep review apex/open-question-ai-consciousness.md — new apex article
 - **Type**: deep-review
 - **Notes**: New apex article created or updated 2026-03-25 via apex-evolve. Apex articles serve as high-level synthesis entry points and require careful review for coherence, accuracy of claims across source articles, cross-references, and tenet alignment. Verify the AI consciousness synthesis accurately represents the Map's distinctive position.
@@ -1387,6 +1381,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Condense filter-theory.md (3661 words, 104% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about filter/transmission theory while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/filter-theory.md
 
 ### ✓ 2026-03-25: Deep review testing-consciousness-collapse.md after coalesce
 - **Type**: deep-review

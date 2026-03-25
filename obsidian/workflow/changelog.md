@@ -5,6 +5,14 @@ ai_modified: 2026-03-25T16:30:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 19:33 UTC - condense
+- **Status**: Success
+- **File**: [[concepts/filter-theory]]
+- **Before**: 3431 words
+- **After**: 2373 words
+- **Reduction**: 31%
+- **Technique**: Cut hemispherectomy section (acknowledged as less decisive), consolidated historical development into single section, trimmed anesthetic divergence detail, tightened objections, pruned Further Reading to essentials, removed uncited references
+
 ## 2026-03-25 19:16 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/incubation-effect-and-unconscious-processing]]
