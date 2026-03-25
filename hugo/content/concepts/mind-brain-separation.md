@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-20 12:49:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[illusionism]]'
 - '[[filter-theory]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[motor-selection]]'
 - '[[philosophical-zombies]]'
 - '[[unity-of-consciousness]]'
@@ -124,7 +124,7 @@ The mind-brain separation framework would face serious difficulty if:
 ## Further Reading
 
 - [filter-theory](/concepts/filter-theory/) — Detailed treatment of the transmission model
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The experiential dimension of selection at the mind-brain interface
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The experiential dimension of selection at the mind-brain interface
 - [motor-selection](/concepts/motor-selection/) — How consciousness may select among motor patterns
 - [illusionism](/concepts/illusionism/) — The strongest physicalist challenge and the regress response
 - [dream-consciousness](/topics/dream-consciousness/) — Dreams as evidence for the filter model

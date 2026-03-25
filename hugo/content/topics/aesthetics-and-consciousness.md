@@ -37,7 +37,7 @@ concepts:
 - '[[bidirectional-interaction]]'
 - '[[process-philosophy]]'
 - '[[phenomenal-depth]]'
-- '[[cognitive-closure]]'
+- '[[mysterianism]]'
 created: 2026-01-22
 date: &id001 2026-03-17
 description: Aesthetic experience—simultaneously qualitative, evaluative, holistic,
@@ -168,7 +168,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 - [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) — Aesthetic experience guiding scientific theory choice
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Why aesthetic knowledge requires experience
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — Why phenomenal properties resist physical reduction
-- [cognitive-closure](/concepts/mysterianism/) — Why the structure-experience gap may be permanent
+- [cognitive closure](/concepts/mysterianism/) — Why the structure-experience gap may be permanent
 - [resonance-void](/voids/resonance-void/) — Consciousness encountering meaning beyond articulation—broader than beauty, with the same phenomenological structure
 - [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Quantum approaches to the binding problem
 

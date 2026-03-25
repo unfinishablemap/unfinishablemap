@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-18 13:10:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -146,7 +146,7 @@ The creative process may also illuminate [cognitive closure](/concepts/mysterian
 - [agent-causation](/concepts/agent-causation/) — Philosophical framework for mental causation, including the creative generation synthesis
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The quantum mechanism for selection
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates mind-matter interaction
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of deliberation, including how options develop through consideration
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of deliberation, including how options develop through consideration
 - [mental-effort](/concepts/mental-effort/) — The conscious work of switching between exploratory and evaluative cognitive modes
 - [mental-imagery](/concepts/mental-imagery/) — Voluntary imagery as paradigm case of consciousness generating and manipulating possibilities
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of understanding consciousness

@@ -30,7 +30,6 @@ related_articles:
 - '[[self-reference-paradox]]'
 - '[[defended-territory]]'
 - '[[limits-reveal-structure]]'
-- '[[mysterianism]]'
 - '[[intrinsic-nature-void]]'
 - '[[what-consciousness-tells-us-about-physics]]'
 title: The Causal Interface Void

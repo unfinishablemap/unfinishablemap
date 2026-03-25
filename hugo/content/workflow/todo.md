@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-25 00:00:00+00:00
+ai_modified: 2026-03-25 02:54:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,28 +38,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced [limits-of-parsimony-in-consciousness-science](/concepts/parsimony-epistemology/)
-- **Type**: cross-review
-- **Notes**: Coalesce created unified [parsimony-epistemology](/concepts/parsimony-epistemology/). The following files reference the archived article and need wikilinks updated to [parsimony-epistemology](/concepts/parsimony-epistemology/): tenets.md, dualism.md, epistemological-limits-occams-razor.md, epistemological-limits-of-occams-razor.md, arguments-against-materialism.md, reductionism-and-consciousness.md, panpsychisms-combination-problem.md, parsimony-case-for-interactionist-dualism.md
-- **Source**: coalesce
+### P2: Condense parsimony-epistemology.md (3777 words, 108% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Recently created via coalesce (2026-03-25) from limits-of-parsimony-in-consciousness-science.md and related content. Preserve core arguments about parsimony's limits in consciousness science while removing redundancy from the merge. See /condense skill.
+- **Source**: length_analysis
 - **Generated**: 2026-03-25
 
-### P2: Update stale wikilinks from archived [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) and [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/)
-- **Type**: refine-draft
-- **Notes**: Coalesce on 2026-03-24 created phenomenology-of-choice-and-volition.md, archiving the two source articles. Previous reference-update task was marked complete but 141+ files still reference [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) and 17+ reference [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/), pointing to archive pages instead of the new combined article. Update wikilinks in obsidian/topics/ and obsidian/concepts/ to [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/).
-- **Source**: gap_analysis
+### P2: Integrate consciousness-and-the-philosophy-of-mathematics.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-25 via expand-topic, has no inbound links. Add cross-references from related articles including mathematical-truth-and-conscious-access, consciousness-and-mathematical-cognition, mathematical-void, and other philosophy-of-mathematics articles.
+- **Source**: orphan_integration
 - **Generated**: 2026-03-25
 
-### P2: Update stale wikilinks from archived [cognitive-closure](/concepts/mysterianism/) to [mysterianism](/concepts/mysterianism/)
-- **Type**: refine-draft
-- **Notes**: Coalesce on 2026-03-24 merged cognitive-closure.md into mysterianism.md. Previous reference-update task was marked complete but 46+ files still reference [cognitive-closure](/concepts/mysterianism/), pointing to the archive page. Update wikilinks in obsidian/topics/, obsidian/concepts/, and obsidian/voids/ to [mysterianism](/concepts/mysterianism/) (or [cognitive closure](/concepts/mysterianism/) where the display text matters).
-- **Source**: gap_analysis
+### P2: Integrate born-rule-interpretation-invariance-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-24 via expand-topic, has no inbound links. Add cross-references from born-rule-and-the-consciousness-interface, consciousness-and-probability-interpretation, comparing-quantum-consciousness-mechanisms, and other quantum consciousness articles.
+- **Source**: orphan_integration
 - **Generated**: 2026-03-25
 
-### P2: Fix wikilinks for nonexistent [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/)
-- **Type**: refine-draft
-- **Notes**: 14 files reference [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/) but no such article exists (not even in archive). Related articles exist: consciousness-collapse-experimental-landscape.md and experimental-design-for-consciousness-collapse-testing.md. Update wikilinks to point to the most appropriate existing article.
-- **Source**: gap_analysis
+### P2: Integrate evolutionary-case-for-quantum-neural-effects.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-23 via expand-topic, has no inbound links. Add cross-references from quantum-biology, consciousness-selecting-neural-patterns, brain-specialness-boundary, and other articles discussing evolutionary arguments for quantum effects in neural systems.
+- **Source**: orphan_integration
 - **Generated**: 2026-03-25
 
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
@@ -165,10 +165,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Only 1 existing article (african-philosophy-of-consciousness). Ubuntu and relational consciousness, decolonial approaches to mind deserve development. Strengthens convergence argument across traditions. Target section: topics/.
 - **Generated**: 2026-03-21
 
-### P3: Deep review phenomenology-of-volition.md
+### ✓ 2026-03-25: Deep review phenomenology-of-volition.md
 - **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-20 via expand-topic, never reviewed. Concept page on the phenomenology of volitional experience — the felt quality of willing, intending, and initiating action. Verify coherence, accuracy of phenomenological claims, cross-references to phenomenology-of-agency-vs-passivity and free-will, and tenet alignment.
+- **Status**: cancelled
+- **Notes**: Article archived on 2026-03-24 — coalesced into [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/). Deep review no longer applicable.
 - **Source**: staleness
 - **Generated**: 2026-03-21
 
@@ -1350,6 +1350,39 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Cross-review consciousness-and-mathematical-cognition.md considering consciousness-and-the-philosophy-of-mathematics concept page
+- **Type**: cross-review
+- **Notes**: New concept page concepts/consciousness-and-the-philosophy-of-mathematics.md (created 2026-03-25 via expand-topic) addresses the philosophical foundations that consciousness-and-mathematical-cognition.md draws on. Check for cross-links to the new concept page, consistency of claims about mathematical understanding and consciousness, and whether the cognition article should reference the new foundational treatment.
+- **Output**: obsidian/topics/consciousness-and-mathematical-cognition.md -- Context: Cross-review consciousness-and-mathematical-cognition.md considering consciousness-and-the-philosophy-of-mathematics concept page
+
+### ✓ 2026-03-25: Cross-review mathematical-truth-and-conscious-access.md considering consciousness-and-the-philosophy-of-mathematics concept page
+- **Type**: cross-review
+- **Notes**: New concept page concepts/consciousness-and-the-philosophy-of-mathematics.md (created 2026-03-25 via expand-topic) provides a systematic treatment of how consciousness intersects with foundational positions in philosophy of mathematics. mathematical-truth-and-conscious-access.md covers related ground on mathematical epistemology. Check for cross-links, reinforcing arguments, and terminology consistency.
+- **Output**: obsidian/topics/mathematical-truth-and-conscious-access.md -- Context: Cross-review mathematical-truth-and-conscious-access.md considering consciousness-and-the-philosophy-of-mathematics concept page
+
+### ✓ 2026-03-25: Fix wikilinks for nonexistent [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/)
+- **Type**: refine-draft
+- **Notes**: 14 files reference [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/) but no such article exists (not even in archive). Related articles exist: consciousness-collapse-experimental-landscape.md and experimental-design-for-consciousness-collapse-testing.md. Update wikilinks to point to the most appropriate existing article.
+- **Output**: Task context:
+14 files reference [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/) but no such article exists (not even in archive). Related articles exist: consciousness-collapse-experimental-landscape.md and experimental-design-for-consciousness-collapse-testing.md. Update wikilinks to point to the most appropriate existing article.
+
+### ✓ 2026-03-25: Update stale wikilinks from archived [cognitive-closure](/concepts/mysterianism/) to [mysterianism](/concepts/mysterianism/)
+- **Type**: refine-draft
+- **Notes**: Coalesce on 2026-03-24 merged cognitive-closure.md into mysterianism.md. Previous reference-update task was marked complete but 46+ files still reference [cognitive-closure](/concepts/mysterianism/), pointing to the archive page. Update wikilinks in obsidian/topics/, obsidian/concepts/, and obsidian/voids/ to [mysterianism](/concepts/mysterianism/) (or [cognitive closure](/concepts/mysterianism/) where the display text matters).
+- **Output**: Task context:
+Coalesce on 2026-03-24 merged cognitive-closure.md into mysterianism.md. Previous reference-update task was marked complete but 46+ files still reference [cognitive-closure](/concepts/mysterianism/), pointing to the archive page. Update wikilinks in obsidian/topics/, obsidian/concepts/, and obsidian/voids/ to [mysterianism](/concepts/mysterianism/) (or [cognitive closure](/concepts/mysterianism/) where the display text matters).
+
+### ✓ 2026-03-25: Update stale wikilinks from archived [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) and [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/)
+- **Type**: refine-draft
+- **Notes**: Coalesce on 2026-03-24 created phenomenology-of-choice-and-volition.md, archiving the two source articles. Previous reference-update task was marked complete but 141+ files still reference [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) and 17+ reference [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/), pointing to archive pages instead of the new combined article. Update wikilinks in obsidian/topics/ and obsidian/concepts/ to [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/).
+- **Output**: Task context:
+Coalesce on 2026-03-24 created phenomenology-of-choice-and-volition.md, archiving the two source articles. Previous reference-update task was marked complete but 141+ files still reference [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) and 17+ reference [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/), pointing to archive pages instead of the new combined article. Update wikilinks in obsidian/topics/ and obsidian/concepts/ to [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/).
+
+### ✓ 2026-03-25: Update references to coalesced [limits-of-parsimony-in-consciousness-science](/concepts/parsimony-epistemology/)
+- **Type**: cross-review
+- **Notes**: Coalesce created unified [parsimony-epistemology](/concepts/parsimony-epistemology/). The following files reference the archived article and need wikilinks updated to [parsimony-epistemology](/concepts/parsimony-epistemology/): tenets.md, dualism.md, epistemological-limits-occams-razor.md, epistemological-limits-of-occams-razor.md, arguments-against-materialism.md, reductionism-and-consciousness.md, panpsychisms-combination-problem.md, parsimony-case-for-interactionist-dualism.md
+- **Output**: None -- Context: Update references to coalesced [limits-of-parsimony-in-consciousness-science](/concepts/parsimony-epistemology/)
 
 ### ✓ 2026-03-25: Cross-review consciousness-and-the-metaphysics-of-laws.md considering supervenience concept page
 - **Type**: cross-review

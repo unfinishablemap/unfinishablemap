@@ -34,7 +34,6 @@ related_articles:
 - '[[self-reference-paradox]]'
 - '[[habituation-void]]'
 - '[[three-kinds-of-void]]'
-- '[[cognitive-closure]]'
 - '[[placebo-effect-and-mental-causation]]'
 - '[[convergence-as-evidence]]'
 title: The Recognition Void

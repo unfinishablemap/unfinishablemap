@@ -96,7 +96,7 @@ The [cognitive-closure](/concepts/mysterianism/) article handles McGinn's positi
 ### Medium Priority
 
 #### The Amplification Spectrum Across Phylogeny
-- **Builds on**: [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/), [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-threshold-in-cognitive-evolution/), [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/)
+- **Builds on**: [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/), [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-and-intelligence/), [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/)
 - **Would address**: Extending the convergent evidence beyond mammals and birds to octopuses, social insects, and plants—testing whether the amplification hypothesis predicts the right distribution of consciousness-linked capacities across the full tree of life
 - **Estimated scope**: Medium article (1500-2000 words)
 - **Tenet alignment**: Strengthens empirical grounding for Tenet 3 (Bidirectional Interaction)

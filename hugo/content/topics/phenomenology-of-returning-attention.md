@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-03-16 09:48:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[meditation-and-consciousness-modes]]'
 - '[[witness-consciousness]]'
 - '[[phenomenology]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[introspection]]'
 - '[[default-mode-network]]'
 - '[[contemplative-epistemology]]'

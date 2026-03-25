@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-03-03 00:41:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -157,7 +157,7 @@ Atemporal causation connects to each of the Map's tenets:
 - [agent-causation](/concepts/agent-causation/) — How agents serve as ultimate causal sources
 - [causal-closure](/concepts/causal-closure/) — The principle atemporal causation challenges
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's concrescence as atemporal constitution
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — How atemporal selection manifests in experience
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — How atemporal selection manifests in experience
 
 ## References
 

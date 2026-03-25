@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-27
-ai_modified: 2026-03-24 13:33:00+00:00
+ai_modified: 2026-03-25 02:39:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,12 +31,12 @@ related_articles:
 - '[[tenets]]'
 - '[[epistemic-advantages-of-dualism]]'
 - '[[epistemological-limits-occams-razor]]'
-- '[[limits-of-parsimony-in-consciousness-science]]'
+- '[[parsimony-epistemology]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[arguments/materialism-argument]]'
 - '[[self-reference-and-the-limits-of-physical-description]]'
 - '[[differential-predictions-consciousness-collapse]]'
-- '[[consciousness-collapse-versus-decoherence-experiments]]'
+- '[[consciousness-collapse-experimental-landscape]]'
 - '[[parsimony-case-for-interactionist-dualism]]'
 title: Arguments Against Materialism
 topics:
@@ -146,7 +146,7 @@ The arguments against materialism do not prove that consciousness interfaces wit
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — Formal mathematical case that physical description has principled limits
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's positive framework
 - [differential-predictions-consciousness-collapse](/topics/consciousness-collapse-experimental-landscape/) — Where consciousness-collapse and decoherence make different predictions
-- [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/) — The experimental landscape constraining collapse models
+- [consciousness-collapse-experimental-landscape](/topics/consciousness-collapse-experimental-landscape/) — The experimental landscape constraining collapse models
 
 ## References
 

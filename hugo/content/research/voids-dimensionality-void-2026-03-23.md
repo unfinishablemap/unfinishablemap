@@ -7,7 +7,6 @@ author: null
 concepts:
 - '[[simulation]]'
 - '[[mysterianism]]'
-- '[[cognitive-closure]]'
 created: 2026-03-23
 date: &id001 2026-03-23
 draft: false

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-03-13 06:19:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[attention-as-interface]]'
 - '[[mental-effort]]'
 - '[[reasons-responsiveness]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[mental-causation]]'
 - '[[causal-closure]]'
 - '[[interactionist-dualism]]'
@@ -138,7 +138,7 @@ The trilemma connects to each of the five [tenets](/tenets/):
 - [luck-objection](/concepts/luck-objection/) — The central challenge the trilemma's second horn makes vivid
 - [reasons-responsiveness](/concepts/reasons-responsiveness/) — Why reasons-guided selection escapes the luck objection
 - [agent-causation](/concepts/agent-causation/) — The metaphysical framework for Horn 3
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of choosing vs observing
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of choosing vs observing
 - [mental-effort](/concepts/mental-effort/) — Why the felt cost of attention supports genuine causal engagement
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The broader case for consciousness doing causal work
 

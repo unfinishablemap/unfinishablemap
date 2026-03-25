@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-03-24 16:34:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ concepts:
 - '[[haecceity]]'
 - '[[philosophical-zombies]]'
 - '[[witness-consciousness]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[consciousness-as-amplifier]]'
 - '[[quantum-biology]]'
 - '[[quantum-neural-mechanisms-and-coherence]]'
@@ -207,7 +207,7 @@ The Map holds that current evidence favours the quantum position while acknowled
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why experience exists at all
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework within which unity finds its place
 - [illusionism](/concepts/illusionism/) — The deflationary challenge (and why it fails)
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — How conscious selection operates at the phenomenal level
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — How conscious selection operates at the phenomenal level
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How quantum binding might amplify cognitive capacities
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Orch OR and other quantum consciousness theories
 - [quantum-biology](/concepts/quantum-biology/) — Established quantum effects in living systems

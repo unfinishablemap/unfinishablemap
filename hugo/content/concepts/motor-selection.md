@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-23 06:25:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -16,7 +16,7 @@ concepts:
 - '[[mental-effort]]'
 - '[[agent-causation]]'
 - '[[interactionist-dualism]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[libet-experiments]]'
 - '[[quantum-neural-timing-constraints]]'
 - '[[decoherence]]'
@@ -229,7 +229,7 @@ This framework identifies *where* consciousness might influence motor selection�
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface hypothesis foundation
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — How dopamine prepares the unified attention-motor system for conscious selection
 - [downward-causation](/concepts/downward-causation/) — How consciousness affects neural processes
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of choosing
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of choosing
 - [libet-experiments](/concepts/libet-experiments/) — Detailed analysis of readiness potential experiments
 - [decoherence](/concepts/decoherence/) — The decoherence challenge and responses
 - [free-will](/topics/free-will/) — The topic page on free will and determinism

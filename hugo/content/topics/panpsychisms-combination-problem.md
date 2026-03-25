@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-20 15:13:00+00:00
+ai_modified: 2026-03-25 01:24:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -33,7 +33,7 @@ related_articles:
 - '[[quantum-holism-and-phenomenal-unity]]'
 - '[[consciousness-and-the-metaphysics-of-individuation]]'
 - '[[emergence-as-universal-hard-problem]]'
-- '[[limits-of-parsimony-in-consciousness-science]]'
+- '[[parsimony-epistemology]]'
 title: Panpsychism's Combination Problem in Depth
 topics:
 - '[[hard-problem-of-consciousness]]'

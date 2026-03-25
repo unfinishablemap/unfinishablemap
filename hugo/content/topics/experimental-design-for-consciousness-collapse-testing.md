@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-23 10:37:00+00:00
+ai_modified: 2026-03-25 02:39:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,7 +31,7 @@ related_articles:
 - '[[methodology-of-consciousness-research]]'
 - '[[time-collapse-and-agency]]'
 - '[[qm-interpretations-beyond-many-worlds]]'
-- '[[consciousness-collapse-versus-decoherence-experiments]]'
+- '[[consciousness-collapse-experimental-landscape]]'
 - '[[anaesthesia-and-the-consciousness-interface]]'
 title: Experimental Design for Consciousness-Collapse Testing
 topics:
@@ -144,7 +144,7 @@ The Map's [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is directly r
 
 ## Further Reading
 
-- [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/) — The current experimental landscape: Gran Sasso, levitated nanoparticles, and the path to decisive tests
+- [consciousness-collapse-experimental-landscape](/topics/consciousness-collapse-experimental-landscape/) — The current experimental landscape: Gran Sasso, levitated nanoparticles, and the path to decisive tests
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse connects to temporal asymmetry and why collapse realism matters for testability
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
 - [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/)

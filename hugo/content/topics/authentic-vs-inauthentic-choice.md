@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-30
-ai_modified: 2026-03-23 20:30:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[concept-of-free-will]]'
 - '[[existentialism]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[agent-causation]]'
 - '[[mental-effort]]'
 - '[[attention-as-interface]]'
@@ -223,7 +223,7 @@ The authentic-inauthentic framework would face difficulty if:
 
 - [free-will](/topics/free-will/) — The broader framework for libertarian agency
 - [existentialism](/concepts/existentialism/) — Sartre and Heidegger on consciousness and freedom
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of decision-making
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of decision-making
 - [agent-causation](/concepts/agent-causation/) — Why genuine choice requires agent causation
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of cognitive engagement
 - [voluntary attention](/concepts/attention-as-interface/) — Neural signatures of willed action

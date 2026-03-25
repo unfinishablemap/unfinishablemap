@@ -59,11 +59,11 @@ The task context claimed this file has no inbound links and is orphaned. This is
 
 ### Enhancements Made
 - Added missing Whiten 2015 reference entry
-- Added `[consciousness-threshold-in-cognitive-evolution](/topics/consciousness-threshold-in-cognitive-evolution/)` inline wikilink
+- Added `[consciousness-threshold-in-cognitive-evolution](/topics/consciousness-and-intelligence/)` inline wikilink
 - Added `[evolution-of-consciousness](/concepts/evolution-of-consciousness/)` cross-link from consciousness-and-intelligence.md
 
 ### Cross-links Added
-- [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-threshold-in-cognitive-evolution/) (inline in threshold emergence paragraph)
+- [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-and-intelligence/) (inline in threshold emergence paragraph)
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) added to consciousness-and-intelligence.md (inbound link)
 
 ## Word Count Change

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-03-23 21:43:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ concepts:
 - '[[consciousness-as-amplifier]]'
 - '[[qualia]]'
 - '[[metacognition]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 created: 2026-01-17
 date: &id001 2026-02-15
 description: Episodic memory is constructive re-experiencing, not data retrieval.

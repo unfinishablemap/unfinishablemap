@@ -29,7 +29,7 @@ related_articles:
 - '[[dopamine-and-the-unified-interface]]'
 - '[[evolutionary-case-for-mental-causation]]'
 - '[[consciousness-and-the-philosophy-of-biology]]'
-- '[[consciousness-threshold-in-cognitive-evolution]]'
+- '[[consciousness-and-intelligence|consciousness threshold in cognitive evolution]]'
 title: Biological Teleology and the Interface Framework
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -79,7 +79,7 @@ If genuine purpose requires the selection interface, most of biology is scaffold
 
 The nervous system occupies an intermediate position. Much neural processing is unconscious—reflexes, autonomic regulation, habitual motor patterns. These operate by biological function: they were selected because they produced adaptive behaviour. But the nervous system also contains the selection interface—the attentional and motor planning circuits where consciousness engages with neural processing. The transition from function to purpose occurs within the nervous system itself, at the boundary between automatic processing and conscious selection.
 
-This creates a distinctive architectural prediction. If genuine purpose requires the selection interface, then organisms with richer interfaces should display more purpose-directed behaviour—not just more complex behaviour, but behaviour that depends specifically on conscious selection rather than automatic processing. The [threshold problem](/topics/consciousness-threshold-in-cognitive-evolution/)—identifying when in cognitive evolution consciousness becomes causally efficacious—is simultaneously the question of when purpose enters biology.
+This creates a distinctive architectural prediction. If genuine purpose requires the selection interface, then organisms with richer interfaces should display more purpose-directed behaviour—not just more complex behaviour, but behaviour that depends specifically on conscious selection rather than automatic processing. The [threshold problem](/topics/consciousness-and-intelligence/)—identifying when in cognitive evolution consciousness becomes causally efficacious—is simultaneously the question of when purpose enters biology.
 
 The evidence from [mental causation research](/topics/evolutionary-case-for-mental-causation/) supports this connection. Dual-process research in social cognition distinguishes automatic (reflexive) processing from controlled (reflective) processing: cognitive load on conscious processing specifically impairs deliberative reasoning while leaving automatic cognition intact (Lieberman et al., 2002). This dissociation maps onto the function-purpose distinction: automatic cognition operates by biological function (selected-effects causation); conscious deliberation operates through the selection interface (genuine purpose).
 
@@ -112,7 +112,7 @@ The connection between biological teleology and the interface framework draws on
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — How dopamine prepares options for conscious selection
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Evidence that consciousness contributes to fitness
 - [consciousness-and-the-philosophy-of-biology](/topics/consciousness-and-the-philosophy-of-biology/) — How biology's conceptual categories interact with consciousness
-- [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-threshold-in-cognitive-evolution/) — When conscious selection becomes causally efficacious
+- [consciousness threshold in cognitive evolution](/topics/consciousness-and-intelligence/) — When conscious selection becomes causally efficacious
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The nature and scope of consciousness's causal influence
 - [consciousness-as-activity](/topics/consciousness-as-activity/) — Why consciousness is something organisms do, not something brains have
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — What follows for morality when biological purpose is real

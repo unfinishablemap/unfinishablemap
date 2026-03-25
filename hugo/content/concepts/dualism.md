@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-22 05:26:00+00:00
+ai_modified: 2026-03-25 01:24:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -57,7 +57,7 @@ related_articles:
 - '[[tenets]]'
 - '[[epistemological-limits-occams-razor]]'
 - '[[epistemological-limits-of-occams-razor]]'
-- '[[limits-of-parsimony-in-consciousness-science]]'
+- '[[parsimony-epistemology]]'
 - '[[epistemic-advantages-of-dualism]]'
 - '[[cognitive-science-of-dualism]]'
 - '[[topics/free-will]]'

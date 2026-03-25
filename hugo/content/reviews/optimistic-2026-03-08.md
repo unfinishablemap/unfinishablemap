@@ -127,7 +127,7 @@ The three kinds of void distinction (unexplored, unexplorable, occluded) provide
 |------|-----|--------|
 | [process-haecceitism](/concepts/process-haecceitism/) | [identity-across-transformations](/apex/identity-across-transformations/) | Process haecceitism provides the metaphysical foundation for the apex article's treatment of identity persistence |
 | [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/) | [phenomenology-of-scientific-discovery](/concepts/phenomenology-of-creative-insight/) | Contemplative calibration of introspection parallels the trained aesthetic sensibility in scientific discovery |
-| [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-threshold-in-cognitive-evolution/) | [minimal-consciousness-void](/voids/minimal-consciousness-void/) | The threshold question in evolution maps directly onto the void of minimal consciousness |
+| [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-and-intelligence/) | [minimal-consciousness-void](/voids/minimal-consciousness-void/) | The threshold question in evolution maps directly onto the void of minimal consciousness |
 | psychophysical-control-law | [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/) | The control law's bandwidth constraint directly grounds the responsibility gradient's attentional capacity measure |
 
 ## New Concept Pages Needed

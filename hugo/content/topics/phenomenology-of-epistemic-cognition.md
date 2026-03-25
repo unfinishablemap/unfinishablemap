@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-03-16 05:02:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -16,7 +16,7 @@ concepts:
 - '[[metacognition]]'
 - '[[mental-effort]]'
 - '[[contemplative-epistemology]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[phenomenology]]'
 - '[[qualia]]'
 - '[[reasons-responsiveness]]'
@@ -143,7 +143,7 @@ The Unfinishable Map's [tenets](/tenets/) find substantial support in epistemic 
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
 - [phenomenology-of-self-awareness](/voids/phenomenology-of-self-awareness/)
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/)
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
 - [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/)
 - [phenomenology-of-framework-inhabitation](/topics/phenomenology-of-framework-inhabitation/)

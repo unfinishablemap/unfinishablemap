@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-06 02:40:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[voluntary-attention-control-mechanisms-2026-01-17|voluntary-attention]]'
 - '[[witness-consciousness]]'
 - '[[illusionism]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[phenomenology]]'
 - '[[default-mode-network]]'
 - '[[contemplative-neuroscience]]'
@@ -271,7 +271,7 @@ FA meditation strengthens selection. OM meditation cultivates witnessing. Both a
 - [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — Neuroplasticity evidence from meditation training supporting bidirectional interaction
 - [neurophenomenology](/concepts/neurophenomenology/) — Varela's mutual constraints framework integrating first-person and third-person methods
 - [illusionism](/concepts/illusionism/) — The illusionist challenge and quasi-phenomenal properties
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The felt difference between choosing and observing
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The felt difference between choosing and observing
 - [attention-as-interface](/concepts/attention-as-interface/) — How consciousness influences matter through attention
 - [mental-effort](/concepts/mental-effort/) — The phenomenology and mechanism of effortful attention
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The quantum Zeno mechanism for selection

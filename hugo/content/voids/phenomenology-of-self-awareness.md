@@ -39,7 +39,6 @@ related_articles:
 - '[[limits-reveal-structure]]'
 - '[[surprise-prediction-error-and-consciousness]]'
 - '[[observation-void]]'
-- '[[cognitive-closure]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[phenomenology-of-cognitive-limit-types]]'
 title: The Phenomenology of Self-Awareness
@@ -187,7 +186,7 @@ None currently obtains. Error-blindness persists despite millennia of attention.
 - [introspective-opacity](/voids/introspective-opacity/) — Why cognitive processes remain hidden while their products become conscious
 - [measurement-void](/voids/measurement-void/) — The bootstrap problem for introspective calibration
 - [epistemic-emotions](/concepts/epistemic-emotions/) — The feelings that accompany and drive cognitive self-correction
-- [cognitive-closure](/concepts/mysterianism/) — The structural impossibility of knowing what you cannot know
+- [cognitive closure](/concepts/mysterianism/) — The structural impossibility of knowing what you cannot know
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Consciousness at cognitive boundaries
 - [recursion-void](/voids/recursion-void/) — The empirical ceiling on metacognitive depth
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — The phenomenology of cognitive slippage

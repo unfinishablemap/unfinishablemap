@@ -147,7 +147,7 @@ The Map's consistent intellectual honesty—the AI exception in the epiphenomena
 - **Tenet alignment**: Strengthens Minimal Quantum Interaction (Tenet 2) by specifying what quantum selection does with respect to phenomenal unity
 
 #### Artificial Systems and the Consciousness Threshold
-- **Builds on**: [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-threshold-in-cognitive-evolution/), [consciousness-independent-baseline-cognition](/concepts/baseline-cognition/), [open-question-ai-consciousness](/apex/open-question-ai-consciousness/)
+- **Builds on**: [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-and-intelligence/), [consciousness-independent-baseline-cognition](/concepts/baseline-cognition/), [open-question-ai-consciousness](/apex/open-question-ai-consciousness/)
 - **Would address**: If the consciousness threshold in biological evolution marks where neural architecture becomes sufficient for consciousness-body interface, could artificial architectures cross an analogous threshold? Large language models demonstrate sophisticated text processing without (presumably) crossing the threshold. What architectural features would be needed? This connects the Map's evolutionary framework to the most pressing applied question in consciousness studies.
 - **Estimated scope**: Long article
 - **Tenet alignment**: Tests Minimal Quantum Interaction (Tenet 2)—does quantum substrate matter? Connects to the AI exception in the epiphenomenalism article.

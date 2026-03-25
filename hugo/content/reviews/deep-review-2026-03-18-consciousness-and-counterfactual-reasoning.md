@@ -27,7 +27,7 @@ topics: []
 
 ### Medium Issues Found
 - [Stale refinement log]: AI refinement log comment from 2026-03-16 was still in the article with note "This log should be removed after human review." Removed after one month.
-- [Missing related article]: `[consciousness-threshold-in-cognitive-evolution](/topics/consciousness-threshold-in-cognitive-evolution/)` was referenced in the body but not listed in frontmatter `related_articles`. Added.
+- [Missing related article]: `[consciousness-threshold-in-cognitive-evolution](/topics/consciousness-and-intelligence/)` was referenced in the body but not listed in frontmatter `related_articles`. Added.
 
 ### Counterarguments Considered
 - **Churchland**: Dual-status awareness argument begs the question by assuming phenomenal consciousness is required for "grasping." Acknowledged as bedrock disagreement — the article concedes computational counterfactual processing while maintaining the phenomenological distinction.
@@ -57,11 +57,11 @@ topics: []
 
 ### Enhancements Made
 - Fixed broken wikilink to counterfactual void (critical — link was non-functional)
-- Added [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-threshold-in-cognitive-evolution/) to related_articles
+- Added [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-and-intelligence/) to related_articles
 - Removed stale AI refinement log
 
 ### Cross-links Added
-- [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-threshold-in-cognitive-evolution/) (frontmatter)
+- [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-and-intelligence/) (frontmatter)
 
 ## Remaining Items
 

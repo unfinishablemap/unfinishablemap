@@ -34,7 +34,6 @@ related_articles:
 - '[[topics/free-will]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[mental-effort]]'
-- '[[mysterianism]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[methodology-of-consciousness-research]]'
 title: Contemplative Neuroscience

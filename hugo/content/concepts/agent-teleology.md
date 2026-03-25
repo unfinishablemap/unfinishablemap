@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-03-19 08:45:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[concepts/epiphenomenalism]]'
 - '[[subjective-aim]]'
 - '[[topics/phenomenal-value-realism]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[intentionality]]'
 - '[[reasons-responsiveness]]'
 - '[[phenomenal-normativity]]'
@@ -139,7 +139,7 @@ Agent teleology follows directly from the Map's tenets.
 - [biological-teleology-and-the-interface-framework](/topics/biological-teleology-and-the-interface-framework/) — How the interface framework transforms biological teleology from metaphor into mechanism
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — The broader question of human purpose and meaning
 - [argument-from-reason](/topics/argument-from-reason/) — Why reasoning requires genuine teleology
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The first-person experience of acting for reasons
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The first-person experience of acting for reasons
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Values grounded in experience, not projected onto mechanism
 - [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) — Whether the selection mechanism is itself value-directed or value-neutral
 - [mysterianism](/concepts/mysterianism/) — Why the mechanism linking purpose to physics may exceed comprehension

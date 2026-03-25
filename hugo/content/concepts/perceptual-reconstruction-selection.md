@@ -13,7 +13,7 @@ concepts:
 - '[[qualia]]'
 - '[[filter-theory]]'
 - '[[phenomenal-consciousness]]'
-- '[[cognitive-closure]]'
+- '[[mysterianism]]'
 created: 2026-03-18
 date: &id001 2026-03-18
 description: When the brain generates multiple valid perceptual interpretations, consciousness
@@ -76,7 +76,7 @@ The Unfinishable Map interprets perceptual reconstruction selection as evidence 
 
 The Minimal Quantum Interaction tenet frames how this contribution might work physically. [Consciousness selecting neural patterns](/concepts/consciousness-selecting-neural-patterns/) describes the general mechanism: consciousness biases otherwise indeterminate quantum outcomes in neural systems. Perceptual reconstruction selection may be this mechanism operating at the macroscopic level of competing perceptual hypotheses, where the underlying quantum indeterminacies are amplified through the brain's hierarchical predictive architecture into perceptually distinct outcomes. This is speculative — the link between quantum-level selection and perceptual-level alternation remains unestablished — but the structure is suggestive.
 
-The Map speculates that the meditation findings are particularly revealing. If trained meditators can sustain one percept during binocular rivalry far longer than untrained observers, and if this reflects enhanced conscious control over the selection process, then the degree of conscious influence on perception is not fixed but trainable. This aligns with the diachronic penetration observed in [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/): consciousness cannot override perceptual modules in the moment, but sustained practice gradually reshapes the interface. In perceptual reconstruction selection, the reshaping operates faster — within a single viewing session — suggesting that selection under ambiguity may involve a more direct form of conscious influence than either autonomous correction or faithful transmission permits. If [cognitive-closure](/concepts/mysterianism/) marks the limits of what consciousness can access about its own mechanisms, selection under ambiguity may represent a region where that boundary is unusually thin — where conscious influence is phenomenally accessible in a way that autonomous correction never is.
+The Map speculates that the meditation findings are particularly revealing. If trained meditators can sustain one percept during binocular rivalry far longer than untrained observers, and if this reflects enhanced conscious control over the selection process, then the degree of conscious influence on perception is not fixed but trainable. This aligns with the diachronic penetration observed in [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/): consciousness cannot override perceptual modules in the moment, but sustained practice gradually reshapes the interface. In perceptual reconstruction selection, the reshaping operates faster — within a single viewing session — suggesting that selection under ambiguity may involve a more direct form of conscious influence than either autonomous correction or faithful transmission permits. If [cognitive closure](/concepts/mysterianism/) marks the limits of what consciousness can access about its own mechanisms, selection under ambiguity may represent a region where that boundary is unusually thin — where conscious influence is phenomenally accessible in a way that autonomous correction never is.
 
 ## Further Reading
 
@@ -88,7 +88,7 @@ The Map speculates that the meditation findings are particularly revealing. If t
 - [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — predictive processing and interactionist dualism
 - [filter-theory](/concepts/filter-theory/) — the brain as filter rather than generator of consciousness
 - [curated-mind](/topics/curated-mind/) — The three-mode taxonomy (correction, transmission, selection) applied across body schema, memory, and self-model
-- [cognitive-closure](/concepts/mysterianism/) — the limits of what consciousness can access about its own mechanisms
+- [cognitive closure](/concepts/mysterianism/) — the limits of what consciousness can access about its own mechanisms
 - [dualist-perception](/topics/dualist-perception/)
 
 ## References

@@ -6,7 +6,6 @@ ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[mysterianism]]'
-- '[[cognitive-closure]]'
 - '[[phenomenology]]'
 - '[[introspection]]'
 - '[[explanatory-gap]]'
@@ -94,7 +93,7 @@ The Map's [tenets](/tenets/) both motivate and are supported by apophatic method
 - [apophatic-cartography](/voids/apophatic-cartography/) — The formal cartographic framework with evidential criteria
 - [mysterianism](/concepts/mysterianism/) — McGinn's cognitive closure argument
 - [explanatory-gap](/concepts/explanatory-gap/) — The persistent gap between physical description and experience — a core apophatic datum
-- [cognitive-closure](/concepts/mysterianism/) — McGinn's thesis that some properties lie beyond a mind's conceptual reach
+- [cognitive closure](/concepts/mysterianism/) — McGinn's thesis that some properties lie beyond a mind's conceptual reach
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The central instance of apophatic failure
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its boundaries
 - [the-silence-void](/voids/the-silence-void/) — Where even negation must cease

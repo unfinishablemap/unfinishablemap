@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[agent-causation]]'
 - '[[luck-objection]]'
 - '[[mental-effort]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[counterfactual-reasoning]]'
 - '[[attention-as-interface]]'
 - '[[normative-phenomenology]]'
@@ -132,7 +132,7 @@ Reasons-responsiveness connects to multiple [tenets](/tenets/):
 - [luck-objection](/concepts/luck-objection/) — Why reasons-guidance distinguishes selection from luck
 - [agent-causation](/concepts/agent-causation/) — How agents exercise causal power through reasons-responsive selection
 - [free-will](/topics/free-will/) — The broader framework connecting reasons-responsiveness to genuine choice
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of reasons-responsive deliberation
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of reasons-responsive deliberation
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — The representational capacity enabling evaluation of reasons
 - [mental-effort](/concepts/mental-effort/) — Why reasoning feels effortful and what this suggests
 - [voluntary attention](/concepts/attention-as-interface/) — The paradigm case of reasons-responsive selection in attention deployment

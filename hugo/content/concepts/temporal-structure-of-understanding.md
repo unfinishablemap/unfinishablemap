@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-23 02:21:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,7 +15,7 @@ concepts:
 - '[[phenomenology]]'
 - '[[introspection]]'
 - '[[decoherence]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[agent-causation]]'
 - '[[unity-of-consciousness]]'
 - '[[binding-problem]]'
@@ -194,7 +194,7 @@ This doesn't prove AI cannot understand. It suggests that if AI does understand,
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Feelings of knowing, curiosity, and other understanding-related phenomenology
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — How recursive structure processing reveals temporal phenomenology
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — Related argument that meaning is constitutively phenomenal
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — Parallels between the phenomenology of choosing and understanding
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — Parallels between the phenomenology of choosing and understanding
 - [agent-causation](/concepts/agent-causation/) — Understanding as a case of conscious agency in cognition
 - [decoherence](/concepts/decoherence/) — The quantum challenge to any consciousness-brain interface
 - [phenomenal unity](/concepts/unity-of-consciousness/) — Why conscious experiences come as integrated wholes

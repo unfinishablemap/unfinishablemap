@@ -1,11 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-24 15:49:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[witness-consciousness]]'
 - '[[agent-causation]]'
 - '[[mental-effort]]'
@@ -155,7 +155,7 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 ## Further Reading
 
 - [volitional-control](/topics/volitional-control/) — Empirical evidence for conscious causation: Libet dissolution, clinical dissociations, intentional binding, neuroplasticity
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The detailed structure of choosing
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The detailed structure of choosing
 - [witness-consciousness](/concepts/witness-consciousness/) — The passive pole explored through contemplative traditions
 - [agent-causation](/concepts/agent-causation/) — Why genuine agency requires agent-causation, not event-causation
 - [voluntary attention](/concepts/attention-as-interface/) — Neural signatures distinguishing willed from automatic processing

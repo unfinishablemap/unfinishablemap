@@ -140,7 +140,7 @@ The contemplative-path article's treatment of the self-eluding nature of awarene
 - **Tenet alignment**: Supports Tenet 5 (Occam's Razor Has Limits) by showing how ontological frameworks shape what counts as problematic
 
 #### Cetacean and Corvid Consciousness
-- **Builds on**: [baseline-cognition](/concepts/baseline-cognition/), [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/), [animal-consciousness](/topics/animal-consciousness/), [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-threshold-in-cognitive-evolution/)
+- **Builds on**: [baseline-cognition](/concepts/baseline-cognition/), [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/), [animal-consciousness](/topics/animal-consciousness/), [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-and-intelligence/)
 - **Would address**: The baseline cognition hypothesis focuses on the primate lineage. Cetaceans and corvids show convergent evolution of sophisticated cognition—some corvids demonstrate metarepresentation. This provides additional test cases for the amplification hypothesis.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Tenet 3 (Bidirectional Interaction) by testing predictions across independent lineages
@@ -164,7 +164,7 @@ The contemplative-path article's treatment of the self-eluding nature of awarene
 |------|-----|--------|
 | [causal-delegation](/concepts/causal-delegation/) | [conservation-laws-mind-brain-causation](/concepts/conservation-laws-and-mental-causation/) | Delegation explains how causation works without energy injection; conservation laws article addresses the same concern from the physics side |
 | [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) | [machine-consciousness](/topics/machine-consciousness/) | Amplification thesis implies AI lacks consciousness-dependent capabilities; machine-consciousness should reference this |
-| [baseline-cognition](/concepts/baseline-cognition/) | [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-threshold-in-cognitive-evolution/) | The threshold question directly follows from baseline cognition: at what point does consciousness emerge? |
+| [baseline-cognition](/concepts/baseline-cognition/) | [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-and-intelligence/) | The threshold question directly follows from baseline cognition: at what point does consciousness emerge? |
 | [the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/) | [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) | Both address the observer's role in quantum mechanics from different angles |
 | [causal-delegation](/concepts/causal-delegation/) | [mental-causation](/concepts/mental-causation/) | Mental causation is the Map's central treatment; should cross-reference delegation as a specific mechanism |
 | [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/) | [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) | The hard problem article mentions Indian philosophy broadly; the dedicated article deserves explicit linking |

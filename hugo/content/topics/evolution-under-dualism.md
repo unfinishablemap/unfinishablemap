@@ -40,7 +40,7 @@ related_articles:
 - '[[quantum-biology-and-neural-consciousness]]'
 - '[[consciousness-and-the-philosophy-of-biology]]'
 - '[[biological-teleology-and-the-interface-framework]]'
-- '[[consciousness-threshold-in-cognitive-evolution]]'
+- '[[consciousness-and-intelligence|consciousness threshold in cognitive evolution]]'
 - '[[comparative-consciousness-and-interface-differences]]'
 - '[[metaproblem-of-consciousness-under-dualism]]'
 title: Evolution Under Dualism
@@ -179,7 +179,7 @@ None of these would refute dualism itself. They would undermine the specific evo
 - [animal-consciousness](/topics/animal-consciousness/) — Convergent consciousness across species
 - [consciousness-and-the-philosophy-of-biology](/topics/consciousness-and-the-philosophy-of-biology/) — Biology's conceptual toolkit and the limits of biological explanation
 - [biological-teleology-and-the-interface-framework](/topics/biological-teleology-and-the-interface-framework/) — How the interface framework transforms biological teleology
-- [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-threshold-in-cognitive-evolution/) — The cognitive discontinuity at the threshold
+- [consciousness threshold in cognitive evolution](/topics/consciousness-and-intelligence/) — The cognitive discontinuity at the threshold
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — How the interface varies across species
 
 ## References

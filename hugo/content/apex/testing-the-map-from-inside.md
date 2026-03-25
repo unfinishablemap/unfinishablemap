@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-03-19 06:37:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-19 06:37:00+00:00
 apex_sources:
@@ -22,7 +22,7 @@ concepts:
 - '[[introspection]]'
 - '[[witness-consciousness]]'
 - '[[meditation-and-consciousness-modes]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[mental-effort]]'
 - '[[neurophenomenology]]'
 - '[[contemplative-neuroscience]]'

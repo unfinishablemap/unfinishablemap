@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-03-23 16:45:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,7 +19,7 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[decoherence]]'
 - '[[concepts/epiphenomenalism]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[causal-interface]]'
 - '[[counterfactual-reasoning]]'
 - '[[existentialism]]'
@@ -178,8 +178,8 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 - [agent-causation](/concepts/agent-causation/) — Why the Map's framework is agent-causal, including substance causation
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — How quantum mechanics supports libertarian free will
 - [mental-causation](/concepts/mental-causation/) — How the framework addresses Kim's exclusion argument
-- [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/) — The four components of willing: initiation, sustained control, effort, and veto
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of deciding
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The four components of willing: initiation, sustained control, effort, and veto
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of deciding
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — Consciousness-dependent capacity to imagine alternatives
 - [counterfactual-void](/voids/counterfactual-void/) — Architectural limits of modal cognition
 - [libet-experiments](/concepts/libet-experiments/) — Detailed analysis including retrocausal resolution

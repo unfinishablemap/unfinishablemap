@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ concepts:
 - '[[default-mode-network]]'
 - '[[altered-states-of-consciousness]]'
 - '[[anoetic-noetic-autonoetic-consciousness]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[witness-consciousness]]'
 - '[[meditation-and-consciousness-modes]]'
 - '[[phenomenal-consciousness]]'
@@ -223,7 +223,7 @@ The Map's interpretation of dream consciousness would face difficulty if:
 - [metacognition](/concepts/metacognition/) — Metacognition's role in consciousness
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) — The sleep-onset transition as graded interface modulation
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Interface configurations across altered states
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The qualitative character of voluntary selection
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The qualitative character of voluntary selection
 - [higher-order-theories](/concepts/higher-order-theories/) — Higher-Order Thought theories challenged by non-lucid dream consciousness
 - [capability-division-problem](/voids/capability-division-problem/) — Which capabilities belong to the brain and which to consciousness
 - [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) — Memory as a dual-domain capability requiring both physical and non-physical contributions

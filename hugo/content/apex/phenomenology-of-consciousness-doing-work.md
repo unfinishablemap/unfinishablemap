@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-20 10:44:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-20 10:44:00+00:00
 apex_sources:
@@ -20,7 +20,7 @@ apex_thesis: The felt texture of consciousness in action — effort, selection, 
 author: null
 concepts:
 - '[[mental-effort]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[introspective-opacity]]'
 - '[[attention-as-interface]]'
 created: 2026-02-23

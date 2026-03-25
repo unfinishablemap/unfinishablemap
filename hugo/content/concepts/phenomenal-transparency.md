@@ -31,7 +31,6 @@ related_articles:
 - '[[intrinsic-nature-void]]'
 - '[[explanatory-gap]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
-- '[[mysterianism]]'
 - '[[transparency-void]]'
 - '[[meta-problem-of-consciousness]]'
 title: Phenomenal Transparency

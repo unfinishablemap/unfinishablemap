@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-03-21 02:58:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -20,7 +20,7 @@ concepts:
 - '[[neurophenomenology]]'
 - '[[explanatory-gap]]'
 - '[[process-philosophy]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[agent-causation]]'
 - '[[mental-effort]]'
 - '[[anoetic-noetic-autonoetic-consciousness]]'
@@ -233,7 +233,7 @@ The temporal structure of consciousness connects to all five [tenets](/tenets/):
 - [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/) — How discrete neural oscillations clash with continuous phenomenal experience
 - [free-will](/topics/free-will/) — Temporal agency and the determination question
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The broader challenge of explaining experience
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — What it's like to choose, including temporal aspects
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — What it's like to choose, including temporal aspects
 - [neurophenomenology](/concepts/neurophenomenology/) — Integrating first-person methods with neuroscience
 - [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — How temporal ontology constrains consciousness theory, and why consciousness constitutes time's felt direction
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's framework where experience is fundamental

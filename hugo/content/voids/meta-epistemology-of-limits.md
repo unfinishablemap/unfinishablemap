@@ -10,7 +10,6 @@ coalesced_from:
 concepts:
 - '[[mysterianism]]'
 - '[[metacognition]]'
-- '[[cognitive-closure]]'
 - '[[introspection]]'
 - '[[simulation]]'
 - '[[phenomenology]]'

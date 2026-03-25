@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-03-23 08:22:00+00:00
+ai_modified: 2026-03-25 02:39:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -137,7 +137,7 @@ The Map's position: non-retrocausal conscious selection is the more conservative
 - [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — Six mechanisms for scaling quantum selection to macroscopic neural effects
 - [quantum-consciousness](/concepts/quantum-consciousness/)
 - [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/) — The ancestor interpretation that Chalmers-McQueen develop
-- [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/) — Experimental landscape constraining collapse models
+- [consciousness-collapse-experimental-landscape](/topics/consciousness-collapse-experimental-landscape/) — Experimental landscape constraining collapse models
 - [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) — Empirical status of the gravitational OR mechanism
 
 ## References

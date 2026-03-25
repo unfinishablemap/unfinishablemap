@@ -5,7 +5,6 @@ ai_modified: 2026-03-23 12:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[cognitive-closure]]'
 - '[[mysterianism]]'
 - '[[recognition-void]]'
 created: 2026-03-22
@@ -94,7 +93,7 @@ Inventory blindness engages the Map's [tenets](/tenets/) at a fundamental level.
 
 ## Further Reading
 
-- [cognitive-closure](/concepts/mysterianism/)
+- [cognitive closure](/concepts/mysterianism/)
 - [recognition-void](/voids/recognition-void/)
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/)
 - [parsimony-epistemology](/concepts/parsimony-epistemology/)

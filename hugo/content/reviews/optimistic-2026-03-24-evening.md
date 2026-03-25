@@ -113,7 +113,7 @@ The Map shows appropriate epistemic humility in several crucial places. The tene
 | [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) | [volitional-control](/topics/volitional-control/) | The dopaminergic interface is where volitional control would operate; linking makes the mechanism concrete |
 | [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) | [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) | The convergence argument's methodology is examined in the epistemology article—mutual reinforcement |
 | [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) | [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/) | Quantum holism provides a mechanism for binding; binding is the empirical problem holism addresses |
-| [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) | [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-threshold-in-cognitive-evolution/) | Both address why consciousness was selected for; linking strengthens the evolutionary thread |
+| [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) | [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-and-intelligence/) | Both address why consciousness was selected for; linking strengthens the evolutionary thread |
 
 ## New Concept Pages Needed
 

@@ -59,7 +59,6 @@ last_deep_review: 2026-03-20 02:19:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[mysterianism]]'
 - '[[concepts/materialism]]'
 - '[[integrated-information-theory]]'
 - '[[consciousness-and-integrated-information]]'

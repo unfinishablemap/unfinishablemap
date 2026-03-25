@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-03-23 02:21:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[cognitive-phenomenology]]'
 - '[[mental-effort]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[epistemic-emotions]]'
 - '[[working-memory]]'
 - '[[attention-as-interface]]'
@@ -215,7 +215,7 @@ What does it feel like to reason? It feels like work—meaningful, directed, con
 
 - [argument-from-reason](/topics/argument-from-reason/) — The structural case that reasoning requires irreducible consciousness
 - [mental-effort](/concepts/mental-effort/) — Attentional effort and the quantum Zeno mechanism
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The experience of deciding
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The experience of deciding
 - [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/) — The experience of evaluating evidence
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Feelings directed at knowledge: curiosity, certainty, doubt
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking itself has experiential character

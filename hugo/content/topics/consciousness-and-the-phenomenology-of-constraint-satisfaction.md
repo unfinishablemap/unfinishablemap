@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-03-20 23:42:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[control-theoretic-will]]'
 - '[[interactionist-dualism]]'
 - '[[qualia]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 created: 2026-02-20
 date: &id001 2026-02-20
 description: Constraint satisfaction has distinctive phenomenal character — the felt
@@ -108,7 +108,7 @@ The disconnect between computational complexity and phenomenal intensity poses a
 
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
 - [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/)
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/)
 - [control-theoretic-will](/concepts/control-theoretic-will/)
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)

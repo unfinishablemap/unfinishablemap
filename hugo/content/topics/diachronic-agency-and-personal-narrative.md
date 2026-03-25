@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-23 20:30:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[self-and-self-consciousness]]'
 - '[[haecceity]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[temporal-consciousness]]'
 - '[[narrative-coherence]]'
 - '[[moral-responsibility]]'

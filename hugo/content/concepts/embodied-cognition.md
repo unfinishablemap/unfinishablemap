@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-24 11:51:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,7 +16,7 @@ concepts:
 - '[[the-interface-location-problem]]'
 - '[[witness-consciousness]]'
 - '[[consciousness-as-amplifier]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[symbol-grounding-problem]]'
 - '[[causal-delegation]]'
 created: 2026-01-14
@@ -193,7 +193,7 @@ The key point: embodied cognition challenges a specific historical position (Car
 ## Further Reading
 
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness amplifies cognition, illuminating the Dreyfus progression
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The felt distinction between absorbed action and deliberate control
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The felt distinction between absorbed action and deliberate control
 - [phenomenology](/concepts/phenomenology/) — The philosophical tradition grounding embodied cognition
 - [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/) — Clinical evidence that disrupted embodiment reveals consciousness's structural architecture
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The filter theory that can accommodate embodiment

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-01
-ai_modified: 2026-03-20 13:03:00+00:00
+ai_modified: 2026-03-25 01:24:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Quantum entanglement may be the only physical mechanism that provid
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-01 00:36:00+00:00
+last_deep_review: 2026-03-25 01:24:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -40,7 +40,7 @@ The core argument is structural rather than empirical. Classical physics cannot 
 
 Quantum entanglement is fundamentally different. When particles become entangled, the composite system enters a state that cannot be decomposed into individual states for each particle. The standard formalism makes this precise: an entangled state cannot be written as a product of individual states. The whole has properties that no part possesses individually. This is not a matter of ignorance—it is a feature of the physics.
 
-Baum's quantum binding argument strengthens this point. Zero-lag gamma synchrony—neural oscillations coordinated with sub-millisecond precision across cortical distances—cannot arise classically without violating relativistic causality. Bell's theorem and loophole-free experiments confirm that non-local correlations of this kind are exclusively quantum phenomena. If zero-lag synchrony is real and functionally relevant to binding, classical frameworks cannot account for it.
+Baum's quantum binding argument strengthens this point. Zero-lag gamma synchrony—neural oscillations coordinated with sub-millisecond precision across cortical distances—has been reported in multiple studies, though its existence remains debated (some attribute the observations to volume conduction or measurement artifacts). If genuine, such synchrony cannot arise classically without violating relativistic causality. Bell's theorem and loophole-free experiments confirm that non-local correlations of this kind are exclusively quantum phenomena. If zero-lag synchrony is real and functionally relevant to binding, classical frameworks cannot account for it.
 
 Hartmut Neven of Google Quantum AI generalises the point: entanglement is "the only true binding agent we have in physics," creating holistic states where individual components are fundamentally interconnected. If phenomenal unity requires genuine holism—the whole being prior to its parts—then entanglement is the only known physical mechanism that provides it.
 
@@ -101,6 +101,8 @@ The entanglement binding hypothesis aligns with several of the Map's [tenets](/t
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If consciousness operates at quantum indeterminacies as this tenet proposes, entanglement provides the mechanism through which consciousness achieves unified agency. Rather than influencing millions of separate neurons individually, consciousness could interact with a single entangled state spanning many neurons—genuine minimal interaction with maximal unified effect.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Entangled states undergoing collapse provide a natural locus for downward causation. Consciousness selecting among superposed entangled configurations determines which unified neural pattern becomes actual. The unity of the entangled state ensures that this selection is coherent—a single choice producing a single unified outcome, not millions of independent micro-choices.
+
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Quantum consciousness theories are routinely dismissed as "unnecessarily complex." But as [parsimony-epistemology](/concepts/parsimony-epistemology/) demonstrates, parsimony has no epistemic warrant in the consciousness domain—its preconditions fail simultaneously. If entanglement is genuinely required for phenomenal binding, dismissing it on parsimony grounds means preferring a simpler theory that cannot account for the data.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The hypothesis requires real collapse. In many-worlds, all possible entangled configurations persist in branching universes, and there is no selection of one unified configuration over another. Phenomenal unity appears indexically definite—*this* unified experience, not a superposition of all possible bindings. Real collapse is necessary for entanglement to do the work the hypothesis assigns it.
 

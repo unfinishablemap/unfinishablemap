@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-21 02:58:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ concepts:
 - '[[sleep-and-consciousness]]'
 - '[[dream-consciousness]]'
 - '[[illusionism]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[explanatory-gap]]'
 - '[[temporal-structure-of-understanding]]'
 - '[[working-memory]]'
@@ -215,7 +215,7 @@ Temporal consciousness connects to all five tenets:
 - [consciousness-as-activity](/topics/consciousness-as-activity/) — Why temporal extension is constitutive if consciousness is activity
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — How temporal thickness distinguishes genuine from automatic choice
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — Extended exploration of protention, surprise, and anticipatory consciousness
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — How anticipatory consciousness enables deliberation
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — How anticipatory consciousness enables deliberation
 - [neural-refresh-rates](/concepts/neural-refresh-rates/) — The discrete oscillatory sampling rates that create the smoothness problem
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — Comprehensive treatment including the constitutional thesis and circularity problem
 

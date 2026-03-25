@@ -11,7 +11,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[qualia]]'
 - '[[phenomenal-transparency]]'
-- '[[cognitive-closure]]'
+- '[[mysterianism]]'
 - '[[phenomenal-acquaintance]]'
 created: 2026-03-24
 date: &id001 2026-03-24

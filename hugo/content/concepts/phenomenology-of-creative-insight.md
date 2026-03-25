@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-03-24 19:24:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -38,7 +38,7 @@ related_articles:
 - '[[phenomenology-of-intellectual-effort]]'
 - '[[consciousness-creativity-novelty-generation-2026-01-19]]'
 - '[[agent-causation]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[phenomenology-of-conceptual-change]]'
 - '[[mathematical-truth-and-conscious-access]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
@@ -151,7 +151,7 @@ The phenomenology of creative insight supports several of the Map's [tenets](/te
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/)
 - [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/)
 - [agent-causation](/concepts/agent-causation/)
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/)
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — The temporal phenomenology of the "click" and gradual comprehension

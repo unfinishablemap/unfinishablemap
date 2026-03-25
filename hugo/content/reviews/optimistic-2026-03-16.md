@@ -85,7 +85,7 @@ The voids section is the Map's most distinctive contribution to intellectual hum
 - **Tenet alignment**: Strengthens Dualism tenet through additional phenomenological traditions; enriches Bidirectional Interaction through embodied agency perspectives
 
 #### Consciousness Development and Ontogeny
-- **Builds on**: [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-threshold-in-cognitive-evolution/), [types-of-consciousness](/concepts/types-of-consciousness/), [consciousness-independent-baseline-cognition](/concepts/baseline-cognition/)
+- **Builds on**: [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-and-intelligence/), [types-of-consciousness](/concepts/types-of-consciousness/), [consciousness-independent-baseline-cognition](/concepts/baseline-cognition/)
 - **Would address**: How consciousness-interface architecture unfolds developmentally. Child development, language acquisition as interface training, emergence of counterfactual reasoning in children (typically age 4-5)
 - **Estimated scope**: Medium article (topics/)
 - **Tenet alignment**: Supports Bidirectional Interaction (developmental trajectory shows consciousness enabling increasingly sophisticated cognition) and Dualism (developmental discontinuities may mark interface activation rather than mere neural maturation)

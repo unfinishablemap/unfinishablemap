@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-18 19:38:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[baseline-cognition]]'
 - '[[working-memory]]'
 - '[[agent-causation]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[consciousness-as-amplifier]]'
 created: 2026-02-15
 date: &id001 2026-03-18
@@ -25,7 +25,7 @@ related_articles:
 - '[[tenets]]'
 - '[[consciousness-independent-baseline-cognition-2026-01-21]]'
 - '[[counterfactual-void]]'
-- '[[consciousness-threshold-in-cognitive-evolution]]'
+- '[[consciousness-and-intelligence|consciousness threshold in cognitive evolution]]'
 title: Consciousness and Counterfactual Reasoning
 topics:
 - '[[topics/free-will]]'
@@ -56,7 +56,7 @@ This dual representation has specific cognitive demands:
 
 **Evaluative comparison**: The point of counterfactual reasoning is typically to draw a conclusion—regret, relief, planning, learning. This requires comparing the actual and counterfactual scenarios against values or goals. The comparison is not merely computational but phenomenally present: we *feel* the regret of the better alternative not taken.
 
-[Working memory](/concepts/working-memory/) capacity constrains this dual representation. Current research estimates human working memory at roughly 4±1 chunks (Cowan, 2001), substantially less than the older 7±2 estimate; great apes manage around 2±1. Great apes show some capacity for future-oriented cognition—tool caching, simple planning, and anticipation of others' actions—suggesting they are not entirely confined to the present. But the *extended* counterfactual reasoning characteristic of humans—constructing elaborate alternative histories, reasoning about unrealised possibilities across multiple causal steps, sustaining the dual-status awareness described here—appears qualitatively limited in non-human primates. This pattern aligns with the prediction that full dual representation demands conscious workspace capacity beyond what [baseline cognition](/concepts/baseline-cognition/) provides. The [consciousness threshold](/topics/consciousness-threshold-in-cognitive-evolution/) article argues that counterfactual reasoning is one of a cluster of capacities—alongside logical reasoning, cumulative culture, and declarative metacognition—that emerge together at a specific point in cognitive evolution where consciousness becomes sufficiently integrated with neural architecture.
+[Working memory](/concepts/working-memory/) capacity constrains this dual representation. Current research estimates human working memory at roughly 4±1 chunks (Cowan, 2001), substantially less than the older 7±2 estimate; great apes manage around 2±1. Great apes show some capacity for future-oriented cognition—tool caching, simple planning, and anticipation of others' actions—suggesting they are not entirely confined to the present. But the *extended* counterfactual reasoning characteristic of humans—constructing elaborate alternative histories, reasoning about unrealised possibilities across multiple causal steps, sustaining the dual-status awareness described here—appears qualitatively limited in non-human primates. This pattern aligns with the prediction that full dual representation demands conscious workspace capacity beyond what [baseline cognition](/concepts/baseline-cognition/) provides. The [consciousness threshold](/topics/consciousness-and-intelligence/) article argues that counterfactual reasoning is one of a cluster of capacities—alongside logical reasoning, cumulative culture, and declarative metacognition—that emerge together at a specific point in cognitive evolution where consciousness becomes sufficiently integrated with neural architecture.
 
 ## Why Physicalism Struggles
 
@@ -120,7 +120,7 @@ The Map's tenets illuminate counterfactual reasoning from multiple angles:
 - [free-will](/topics/free-will/) — How counterfactual reasoning enables genuine choice
 - [baseline-cognition](/concepts/baseline-cognition/) — The framework distinguishing consciousness-dependent from baseline cognition
 - [consciousness-and-the-problem-of-induction](/topics/consciousness-and-the-problem-of-induction/) — Counterfactual assessment in inductive reasoning
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The experience of deliberating among alternatives
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The experience of deliberating among alternatives
 - [agent-causation](/concepts/agent-causation/) — How the agent selects among counterfactually represented options
 
 ## References

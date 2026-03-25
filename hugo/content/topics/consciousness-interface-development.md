@@ -185,7 +185,7 @@ The developmental trajectory of the interface connects to all five of the Map's 
 - [animal-consciousness](/topics/animal-consciousness/)
 - [theory-of-mind](/concepts/theory-of-mind/)
 - [implicit-memory](/concepts/implicit-memory/)
-- [cognitive-closure](/concepts/mysterianism/)
+- [cognitive closure](/concepts/mysterianism/)
 
 ## References
 

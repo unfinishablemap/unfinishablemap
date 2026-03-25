@@ -6,7 +6,6 @@ ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[mysterianism]]'
-- '[[cognitive-closure]]'
 - '[[simulation]]'
 - '[[phenomenology]]'
 created: 2026-02-02

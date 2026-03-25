@@ -15,7 +15,6 @@ concepts:
 - '[[quantum-indeterminacy-free-will]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[mysterianism]]'
-- '[[cognitive-closure]]'
 created: 2026-03-13
 date: &id001 2026-03-13
 description: Observational closure distinguishes empirical from metaphysical causal
@@ -106,7 +105,7 @@ The distinction also bears on testability. The Map's position is not empirically
 - [preemption](/concepts/preemption/) — The causal structure making delegation observationally invisible
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum Zeno framework satisfying observational closure via statistical invisibility
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why mental causation violates neither conservation laws nor observational closure
-- [cognitive-closure](/concepts/mysterianism/) — The distinct epistemic thesis about limits of human understanding
+- [cognitive closure](/concepts/mysterianism/) — The distinct epistemic thesis about limits of human understanding
 - [mysterianism](/concepts/mysterianism/) — Broader philosophical position applying cognitive closure to consciousness
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework observational closure defends
 

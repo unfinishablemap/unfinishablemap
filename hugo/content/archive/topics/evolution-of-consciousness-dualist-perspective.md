@@ -102,7 +102,7 @@ The models diverge on questions that may be empirically approachable:
 
 **Could a radically different physical system support the same consciousness?** The fixed-domain model says yes: if the interface specifications are met, the same conscious domain is accessed regardless of substrate. The co-evolution model says no: the history of interaction shapes what consciousness becomes, and different substrates produce different interaction histories. The unfolding model says the question is ill-formed—there is no "same consciousness" independent of its embodied history.
 
-**What happened at the [consciousness threshold](/topics/consciousness-threshold-in-cognitive-evolution/)?** The fixed-domain model sees a receiver suddenly able to tune into a richer band. The co-evolution model sees a feedback loop reaching a tipping point where consciousness and interface begin reinforcing each other more intensely. The unfolding model sees a qualitative shift in the type of concrescence possible—new forms of synthesis becoming available.
+**What happened at the [consciousness threshold](/topics/consciousness-and-intelligence/)?** The fixed-domain model sees a receiver suddenly able to tune into a richer band. The co-evolution model sees a feedback loop reaching a tipping point where consciousness and interface begin reinforcing each other more intensely. The unfolding model sees a qualitative shift in the type of concrescence possible—new forms of synthesis becoming available.
 
 ## Why This Matters
 
@@ -130,7 +130,7 @@ The Map does not commit to a single model. Each captures something important abo
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness evolved and the interface hypothesis
 - [consciousness-evolution-problem](/topics/consciousness-evolution-problem/) — Why evolution deepens the mystery of consciousness
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Evidence that consciousness contributes to fitness
-- [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-threshold-in-cognitive-evolution/) — The cognitive discontinuity at the threshold
+- [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-and-intelligence/) — The cognitive discontinuity at the threshold
 - [filter-theory](/concepts/filter-theory/) — The transmission/filter model of consciousness
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Laws governing consciousness-matter relationships
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — How the interface varies across species

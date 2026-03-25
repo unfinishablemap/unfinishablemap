@@ -8,7 +8,7 @@ concepts:
 - '[[phenomenology]]'
 - '[[qualia]]'
 - '[[anoetic-noetic-autonoetic-consciousness]]'
-- '[[cognitive-closure]]'
+- '[[mysterianism]]'
 - '[[introspection]]'
 created: 2026-03-21
 date: &id001 2026-03-21

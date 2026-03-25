@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-03-01 06:54:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[working-memory]]'
 - '[[metacognition]]'
 - '[[mental-imagery]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[agent-causation]]'
 - '[[episodic-memory]]'
 - '[[prospective-memory]]'
@@ -79,7 +79,7 @@ The [baseline cognition hypothesis](/concepts/baseline-cognition/) observes that
 
 The Bischof-Köhler hypothesis proposes that animals cannot act on drive states they don't currently possess. A sated chimpanzee won't store food for future hunger because it cannot consciously represent that future need-state. This limitation reflects restricted counterfactual capacity: the chimpanzee cannot imagine "being hungry tomorrow" with sufficient vividness to motivate present action. The evidence remains debated—some studies show great apes can delay gratification and prepare tools for future use—but even supportive evidence reveals limited temporal horizons compared to human prospection.
 
-Humans transcend this limitation. We plan for need-states we don't currently experience, regret choices we didn't make, and evaluate options against scenarios we've never encountered. This expansion correlates with expanded consciousness—working memory capacity, metarepresentational ability, explicit self-awareness. The [consciousness threshold](/topics/consciousness-threshold-in-cognitive-evolution/) article argues that counterfactual thinking is one of several capacities that appear together at a phase transition in cognitive evolution, rather than emerging incrementally.
+Humans transcend this limitation. We plan for need-states we don't currently experience, regret choices we didn't make, and evaluate options against scenarios we've never encountered. This expansion correlates with expanded consciousness—working memory capacity, metarepresentational ability, explicit self-awareness. The [consciousness threshold](/topics/consciousness-and-intelligence/) article argues that counterfactual thinking is one of several capacities that appear together at a phase transition in cognitive evolution, rather than emerging incrementally.
 
 ## Counterfactual Reasoning and Free Will
 
@@ -178,7 +178,7 @@ Counterfactual reasoning connects to multiple [tenets](/tenets/):
 - [baseline-cognition](/concepts/baseline-cognition/) — The framework distinguishing consciousness-dependent from baseline cognition
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness amplifies cognitive capacity
 - [free-will](/topics/free-will/) — Counterfactual reasoning's role in genuine choice
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The experience of deliberating among alternatives
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The experience of deliberating among alternatives
 - [working-memory](/concepts/working-memory/) — The workspace where counterfactual scenarios are constructed
 - [agent-causation](/concepts/agent-causation/) — How the agent selects among counterfactually represented options
 - [episodic-memory](/concepts/episodic-memory/) — The memory system that supports scenario construction

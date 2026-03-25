@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-03-21 02:27:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[agent-causation]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[attention-as-interface]]'
 - '[[motor-selection]]'
 - '[[implicit-memory]]'
@@ -18,7 +18,7 @@ concepts:
 - '[[authentic-vs-inauthentic-choice]]'
 - '[[interface-friction]]'
 - '[[reasons-responsiveness]]'
-- '[[phenomenology-of-volition]]'
+- '[[phenomenology-of-choice-and-volition]]'
 created: 2026-02-13
 date: &id001 2026-02-17
 description: Actions that are genuinely intentional yet arise without prior deliberation—a
@@ -142,8 +142,8 @@ The account of spontaneous intentional action offered here would face difficulty
 
 ## Further Reading
 
-- [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/) — The four components of willing that spontaneous action compresses or bypasses
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The full deliberative arc that spontaneous action compresses
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The four components of willing that spontaneous action compresses or bypasses
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The full deliberative arc that spontaneous action compresses
 - [agent-causation](/concepts/agent-causation/) — Why agents, not events, are the source of action
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The spectrum from doing to undergoing
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the interface between consciousness and neural processing

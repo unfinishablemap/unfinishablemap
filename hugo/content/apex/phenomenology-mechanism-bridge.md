@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-21 07:09:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-20 16:14:00+00:00
 apex_sources:
@@ -23,7 +23,7 @@ concepts:
 - '[[mental-causation]]'
 - '[[attention-as-interface]]'
 - '[[motor-selection]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[interactionist-dualism]]'
 created: 2026-03-20
 date: &id001 2026-03-20

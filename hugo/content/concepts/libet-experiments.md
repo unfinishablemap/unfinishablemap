@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-21 00:57:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -196,7 +196,7 @@ The Map's position is that current evidence supports selection over randomness, 
 
 ## Further Reading
 
-- [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/) — The four components of volitional experience: initiation, sustained control, effort, and veto
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The four components of volitional experience: initiation, sustained control, effort, and veto
 - [volitional-control](/topics/volitional-control/) — The first-person structure of willing, vetoing, and action selection
 - [free-will](/topics/free-will/) — The broader philosophical context
 - [motor-selection](/concepts/motor-selection/) — Extending the selection framework from attention to motor control

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-22 05:56:00+00:00
+ai_modified: 2026-03-25 02:39:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -33,7 +33,7 @@ related_articles:
 - '[[contemplative-pathology-and-interface-malfunction]]'
 - '[[identity-across-transformations]]'
 - '[[experimental-design-for-consciousness-collapse-testing]]'
-- '[[consciousness-collapse-versus-decoherence-experiments]]'
+- '[[consciousness-collapse-experimental-landscape]]'
 title: Consciousness and Neurodegenerative Disease
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -146,7 +146,7 @@ The Unfinishable Map's [tenets](/tenets/) converge on neurodegenerative disease 
 - [identity-across-transformations](/apex/identity-across-transformations/) — How indexical identity persists through radical change
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — How dopamine prepares the selection interface that Parkinson's disease disrupts
 - [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/) — Can the quantum interaction posited here be tested experimentally?
-- [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/) — The narrowing experimental landscape for collapse models
+- [consciousness-collapse-experimental-landscape](/topics/consciousness-collapse-experimental-landscape/) — The narrowing experimental landscape for collapse models
 
 ## References
 

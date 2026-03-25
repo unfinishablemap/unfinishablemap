@@ -6,7 +6,6 @@ ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[simulation]]'
-- '[[mysterianism]]'
 created: 2026-03-22
 date: &id001 2026-03-22
 draft: false
@@ -23,7 +22,7 @@ related_articles:
 target_section: voids
 title: 'Research Notes - Voids: The Recognition Void'
 topics:
-- '[[cognitive-closure]]'
+- '[[mysterianism]]'
 - '[[epistemic-limits]]'
 ---
 

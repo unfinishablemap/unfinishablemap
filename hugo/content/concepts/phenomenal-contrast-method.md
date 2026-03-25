@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-17 15:44:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -119,7 +119,7 @@ The phenomenal contrast method serves the Map as both evidence and tool — evid
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The debate over whether thinking has irreducible phenomenal character
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — Five modes of phenomenal meaning revealed by contrast analysis
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — Agency versus passivity as a phenomenal contrast
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — Choice and deliberation as phenomenal contrasts
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — Choice and deliberation as phenomenal contrasts
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and the limits of physical information
 - [intentionality](/concepts/intentionality/) — The "aboutness" of mental states and its phenomenal basis
 - [introspection](/concepts/introspection/) — The reliability and limits of first-person evidence

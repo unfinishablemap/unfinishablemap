@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-23 15:15:00+00:00
+ai_modified: 2026-03-25 02:39:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -34,7 +34,7 @@ related_articles:
 - '[[quantum-indeterminacy-free-will]]'
 - '[[quantum-neural-timing-constraints]]'
 - '[[philosophical-stakes-of-spontaneous-collapse]]'
-- '[[consciousness-collapse-versus-decoherence-experiments]]'
+- '[[consciousness-collapse-experimental-landscape]]'
 title: Comparing Quantum Consciousness Mechanisms
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -171,7 +171,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 - [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/) — Why evolutionary logic makes quantum neural effects probable
 - [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — Six proposed mechanisms for scaling quantum effects to neural outcomes
 - [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) — Penrose OR's experimental frontier: DP model falsification and next-generation tests
-- [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/) — The experimental landscape for distinguishing consciousness-collapse from decoherence
+- [consciousness-collapse-experimental-landscape](/topics/consciousness-collapse-experimental-landscape/) — The experimental landscape for distinguishing consciousness-collapse from decoherence
 - [measurement-problem](/concepts/measurement-problem/) — Why quantum mechanics leaves outcomes undetermined
 
 ## References

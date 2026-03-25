@@ -1,11 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-23 20:30:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[agent-causation]]'
 - '[[mental-effort]]'
 - '[[epistemic-emotions]]'
@@ -146,7 +146,7 @@ The Unfinishable Map's framework illuminates deliberation under uncertainty at s
 ## Further Reading
 
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — When competing normative demands create the uncertainty that deliberation must resolve
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The general structure of choosing
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The general structure of choosing
 - [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/) — The felt sense of epistemic weight
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — Why uncertainty demands authentic engagement
 - [probability-intuition-void](/voids/probability-intuition-void/) — Our architectural limits in reasoning about chance

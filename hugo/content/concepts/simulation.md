@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-03-23 12:23:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[quantum-interpretations]]'
 - '[[illusionism]]'
 - '[[philosophical-zombies]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[consciousness-as-amplifier]]'
 - '[[decoherence]]'
 - '[[haecceity]]'
@@ -185,7 +185,7 @@ Whether or not we are simulated, the *possibility* of simulation illuminates wha
 
 - [illusionism](/concepts/illusionism/) — The strongest physicalist challenge to consciousness and how simulation tests it
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Conceivability arguments and what they reveal about simulation
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — How choice phenomenology aligns with simulation over many-worlds
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — How choice phenomenology aligns with simulation over many-worlds
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — The interface between consciousness and neural processing
 - [locality](/concepts/locality/) — How simulation reframes spatial coordination concerns
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The broader question of quantum selection

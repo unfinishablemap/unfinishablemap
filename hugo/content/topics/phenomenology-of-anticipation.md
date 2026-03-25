@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-21 02:58:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,7 +12,7 @@ concepts:
 - '[[qualia]]'
 - '[[process-philosophy]]'
 - '[[philosophy-of-time]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[agent-causation]]'
 - '[[philosophical-zombies]]'
 - '[[mysterianism]]'
@@ -139,7 +139,7 @@ Protention supports and illuminates several of the Map's foundational commitment
 - [temporal-void](/voids/temporal-void/) — Why protention and retention differ in phenomenal weight
 - [prospective-memory](/concepts/prospective-memory/) — Deliberate future simulation and episodic future thinking
 - [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/) — How felt surprise resists reduction to prediction error
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — How anticipatory consciousness enables deliberation
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — How anticipatory consciousness enables deliberation
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's subjective aim and processual experience
 - [phenomenology](/concepts/phenomenology/) — Husserl's method for investigating temporal structure
 - [free-will](/topics/free-will/) — How anticipatory consciousness enables genuine freedom

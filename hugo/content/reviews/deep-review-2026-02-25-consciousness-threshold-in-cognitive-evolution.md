@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-25
-**Article**: [The Consciousness Threshold in Cognitive Evolution](/topics/consciousness-threshold-in-cognitive-evolution/)
+**Article**: [The Consciousness Threshold in Cognitive Evolution](/topics/consciousness-and-intelligence/)
 **Previous review**: [2026-02-23](/reviews/deep-review-2026-02-23-consciousness-threshold-in-cognitive-evolution/)
 
 ## Pessimistic Analysis Summary

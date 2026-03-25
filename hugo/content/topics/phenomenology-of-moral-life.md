@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-03-20 22:42:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -20,7 +20,7 @@ concepts:
 - '[[moral-phenomenology-and-perception]]'
 - '[[phenomenal-normativity]]'
 - '[[normative-phenomenology]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[agent-causation]]'
 - '[[attentional-economics]]'
 - '[[reasons-responsiveness]]'
@@ -152,7 +152,7 @@ The phenomenology of moral life connects to the Map's [foundational commitments]
 - [normative-phenomenology](/concepts/normative-phenomenology/) — First-person investigation of normative experience broadly
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — What follows for moral life when agency is real
 - [free-will](/topics/free-will/) — The broader case for libertarian agency
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The general phenomenology of choosing
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The general phenomenology of choosing
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — What it feels like when consciousness acts versus watches
 - [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/) — How extreme conditions affect deliberative capacity
 - [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/) — Why attentional conditions modulate moral responsibility

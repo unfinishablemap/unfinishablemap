@@ -9,7 +9,7 @@ concepts:
 - '[[qualia]]'
 - '[[interactionist-dualism]]'
 - '[[explanatory-gap]]'
-- '[[cognitive-closure]]'
+- '[[mysterianism]]'
 created: 2026-03-12
 date: &id001 2026-03-12
 description: Why does the brain silently correct some perceptual errors while faithfully
@@ -95,7 +95,7 @@ The cognitive impenetrability boundary functions as a void in the Map's framewor
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
 - [consciousness-only-territories](/voids/consciousness-only-territories/)
 - [illusionism](/concepts/illusionism/)
-- [cognitive-closure](/concepts/mysterianism/)
+- [cognitive closure](/concepts/mysterianism/)
 
 ## References
 

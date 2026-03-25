@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-03-23 03:37:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[agent-causation]]'
 - '[[mental-causation]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[causal-closure]]'
 - '[[quantum-indeterminacy-free-will]]'
 - '[[moral-responsibility]]'
@@ -35,7 +35,7 @@ related_articles:
 - '[[counterfactual-reasoning]]'
 - '[[retrocausality]]'
 - '[[authentic-vs-inauthentic-choice]]'
-- '[[phenomenology-of-volition]]'
+- '[[phenomenology-of-choice-and-volition]]'
 title: Free Will
 topics:
 - '[[topics/free-will|Free Will and Determinism]]'
@@ -119,7 +119,7 @@ Failure of any *particular* proposed mechanism (quantum approaches, retrocausal 
 
 - [Free Will and Determinism](/topics/free-will/) — The Map's full treatment including neuroscience, luck objection, and temporal problem
 - [agent-causation](/concepts/agent-causation/) — Why the framework is agent-causal and the metaphysics of substance causation
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of deliberation and decision
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of deliberation and decision
 - [mental-causation](/concepts/mental-causation/) — How consciousness causes physical outcomes; response to Kim's exclusion argument
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — The proposed quantum mechanism for mental causation
 - [luck-objection](/concepts/luck-objection/) — The strongest challenge to libertarian free will and the Map's response
@@ -130,7 +130,7 @@ Failure of any *particular* proposed mechanism (quantum approaches, retrocausal 
 - [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds genuine desert
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — The consciousness-dependent capacity to evaluate alternatives
 - [voluntary attention](/concepts/attention-as-interface/) — Neural signatures distinguishing willed from automatic action
-- [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/) — The felt character of volitional experience and its evidential weight
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The felt character of volitional experience and its evidential weight
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — When choice engages genuine agency versus running on scripts
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — What genuine agency implies for obligation, character, and moral life
 

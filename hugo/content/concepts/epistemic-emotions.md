@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-03-10 06:13:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[introspection]]'
 - '[[cognitive-phenomenology]]'
 - '[[phenomenology-of-self-awareness]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[illusionism]]'
 - '[[working-memory]]'
 - '[[attention-as-interface]]'
@@ -175,7 +175,7 @@ None of these conditions currently obtains.
 - [introspection](/concepts/introspection/) — First-person access to epistemic states
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking itself has phenomenal character
 - [phenomenology-of-self-awareness](/voids/phenomenology-of-self-awareness/) — Why error has no distinctive feeling
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The felt quality of deciding
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The felt quality of deciding
 - [working-memory](/concepts/working-memory/) — Where epistemic emotions interface with cognitive capacity
 - [illusionism](/concepts/illusionism/) — The challenge that epistemic phenomenology is illusion
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Why functional duplicates without experience pose problems

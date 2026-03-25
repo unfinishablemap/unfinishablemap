@@ -7,7 +7,6 @@ author: null
 concepts:
 - '[[mysterianism]]'
 - '[[illusionism]]'
-- '[[cognitive-closure]]'
 created: 2026-02-25
 date: &id001 2026-02-25
 description: Human+AI exploration of why we cannot predict which cognitive limits

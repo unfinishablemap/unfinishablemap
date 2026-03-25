@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -20,7 +20,7 @@ concepts:
 - '[[decoherence]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[witness-consciousness]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[phenomenal-consciousness]]'
 - '[[access-consciousness]]'
 - '[[causal-delegation]]'
@@ -70,7 +70,7 @@ The amplification thesis applies differently to each:
 
 ## The Baseline Cognition Hypothesis
 
-Great apes represent sophisticated [baseline-cognition](/concepts/baseline-cognition/)—what neurons can achieve without substantial conscious contribution. The [consciousness threshold](/topics/consciousness-threshold-in-cognitive-evolution/) hypothesis frames this as a phase transition: consciousness shifts from accompanying cognition to actively reshaping it at a critical level of neural complexity. The baseline cognition concept provides the complementary framework to amplification: it characterises the starting point from which consciousness amplifies, showing what domain-specific excellence looks like before metarepresentational capacities are added. This isn't to deny great ape consciousness; they likely have genuine phenomenal experience. But the hypothesis proposes their consciousness may differ qualitatively from human consciousness in ways that limit cognitive amplification.
+Great apes represent sophisticated [baseline-cognition](/concepts/baseline-cognition/)—what neurons can achieve without substantial conscious contribution. The [consciousness threshold](/topics/consciousness-and-intelligence/) hypothesis frames this as a phase transition: consciousness shifts from accompanying cognition to actively reshaping it at a critical level of neural complexity. The baseline cognition concept provides the complementary framework to amplification: it characterises the starting point from which consciousness amplifies, showing what domain-specific excellence looks like before metarepresentational capacities are added. This isn't to deny great ape consciousness; they likely have genuine phenomenal experience. But the hypothesis proposes their consciousness may differ qualitatively from human consciousness in ways that limit cognitive amplification.
 
 Evidence supporting this framework:
 
@@ -225,7 +225,7 @@ Epiphenomenalism appears "simpler" because it doesn't posit mental causation. Bu
 - [baseline-cognition](/concepts/baseline-cognition/) — What neural systems achieve without conscious amplification
 - [working-memory](/concepts/working-memory/) — The neural workspace where amplification operates; maintenance/manipulation distinction
 - [attention-as-interface](/concepts/attention-as-interface/) — How consciousness engages neural systems
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The felt structure of deliberate selection
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The felt structure of deliberate selection
 - [metarepresentation](/concepts/metacognition/) — Representing representations as representations
 - [causal-delegation](/concepts/causal-delegation/) — How consciousness takes over causal work from neural states (the causal structure for amplification)
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's full framework for mental causation without overdetermination

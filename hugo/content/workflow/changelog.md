@@ -1,13 +1,99 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-23 14:19:00+00:00
+ai_modified: 2026-03-25 03:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 concepts: []
 date: '2026-03-25'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-03-25 03:25 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/)
+- **Word count**: 3588 → 3603 (+15)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to new concept page)
+- **Enhancements made**: 3 (cross-link, Gödel intuition enrichment, prose tightening)
+- **Output**: [deep-review-2026-03-25-consciousness-and-mathematical-cognition](/reviews/deep-review-2026-03-25-consciousness-and-mathematical-cognition/)
+
+## 2026-03-25 03:18 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 144 (4691 to 4835)
+- **Findings**: 1 cadence (validate-all still absent), 0 failure (6th clean period), 2 queue (healthy consumption, P3 173→80), 6 review themes (persistent), 5 convergence (topics gained headroom, voids re-breached)
+- **Tier 1 changes**: 0 applied (no adjustable parameters exist)
+- **Tier 2 recommendations**: 11 (1 new voids cap investigation, 1 new orphan count jump, 9 carried forward)
+- **Output**: [system-tune-2026-03-25](/reviews/system-tune-2026-03-25/)
+
+## 2026-03-25 03:14 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 450
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 13
+- **Output**: [tenet-check-2026-03-25](/reviews/tenet-check-2026-03-25/)
+
+## 2026-03-25 03:06 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Complicity Void — consciousness as active participant in maintaining its own cognitive limits
+- **Category**: Occluded / Mixed
+- **Output**: [voids-complicity-void-2026-03-25](/research/voids-complicity-void-2026-03-25/)
+- **Key finding**: Multiple independent traditions (Sartre, Buddhism, Nietzsche, Freud, Trivers, Becker, Heidegger, Medina) converge on the claim that consciousness actively participates in sustaining its own ignorance, suggesting many catalogued voids may be partially self-imposed rather than purely structural
+
+## 2026-03-25 02:59 UTC - deep-review
+- **Status**: Success
+- **File**: [mathematical-truth-and-conscious-access](/topics/mathematical-truth-and-conscious-access/)
+- **Word count**: 3388 → 3411 (+23)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to new concept page)
+- **Enhancements made**: 3 (frontmatter concept link, body cross-reference, Further Reading entry)
+- **Output**: [deep-review-2026-03-25-mathematical-truth-and-conscious-access](/reviews/deep-review-2026-03-25-mathematical-truth-and-conscious-access/)
+
+## 2026-03-25 02:39 UTC - refine-draft
+- **Status**: Success
+- **Files**: [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/), [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/), [arguments-against-materialism](/topics/arguments-against-materialism/), [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/), [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/)
+- **Changes**: Updated 5 content files replacing [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/) wikilinks with [consciousness-collapse-experimental-landscape](/topics/consciousness-collapse-experimental-landscape/)
+- **Published**: yes
+
+## 2026-03-25 02:25 UTC - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-and-intelligence](/topics/consciousness-and-intelligence/), [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-and-intelligence/)
+- **Target**: [consciousness-and-intelligence](/topics/consciousness-and-intelligence/)
+- **Archived**: [consciousness-threshold-in-cognitive-evolution](/archive/topics/consciousness-threshold-in-cognitive-evolution/)
+- **References to review**: 19 active content files updated (wikilinks replaced)
+- **Published**: yes
+
+## 2026-03-25 02:09 UTC - refine-draft
+- **Status**: Success
+- **File**: 26 files across topics/, concepts/, voids/, research/
+- **Changes**: Updated all [cognitive-closure](/concepts/mysterianism/) wikilinks to [mysterianism](/concepts/mysterianism/) or [cognitive closure](/concepts/mysterianism/). Deduplicated 20 frontmatter entries where both [cognitive-closure](/concepts/mysterianism/) and [mysterianism](/concepts/mysterianism/) existed.
+- **Published**: yes
+
+## 2026-03-25 01:54 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-problem-of-measurement-standards](/topics/consciousness-and-the-problem-of-measurement-standards/)
+- **Word count**: 2106 → 2106 (+0)
+- **Critical issues addressed**: 2 (broken wikilink `consciousness-and-science`, stale wikilink to archived `consciousness-and-the-meta-problem-of-scientific-explanation`)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-25-consciousness-and-the-problem-of-measurement-standards](/reviews/deep-review-2026-03-25-consciousness-and-the-problem-of-measurement-standards/)
+
+## 2026-03-25 01:40 UTC - refine-draft
+- **Status**: Success
+- **File**: 62 files across topics/, concepts/, apex/, voids/
+- **Changes**: Updated all wikilinks from archived [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) (115 refs) and [phenomenology-of-volition](/concepts/phenomenology-of-choice-and-volition/) (15 refs) to [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/). Updated ai_modified timestamps on all changed files. Cancelled stale deep-review task for archived phenomenology-of-volition.
+- **Published**: yes
+
+## 2026-03-25 01:24 UTC - deep-review
+- **Status**: Success
+- **File**: [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/)
+- **Word count**: 1690 → 1768 (+78)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (zero-lag synchrony caveat, wikilink path fix, Occam's Razor tenet cross-link)
+- **Enhancements made**: 3
+- **Additional**: Updated 18 references to coalesced [limits-of-parsimony-in-consciousness-science](/concepts/parsimony-epistemology/) → [parsimony-epistemology](/concepts/parsimony-epistemology/) across 9 files; completed P2 todo task
+- **Output**: [deep-review-2026-03-25-entanglement-binding-hypothesis](/reviews/deep-review-2026-03-25-entanglement-binding-hypothesis/)
 
 ## 2026-03-25 01:09 UTC - coalesce
 - **Status**: Success

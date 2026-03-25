@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[agent-causation]]'
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[meditation-and-consciousness-modes]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[working-memory]]'
 - '[[counterfactual-reasoning]]'
 created: 2026-01-31

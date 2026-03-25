@@ -9,7 +9,6 @@ coalesced_from:
 - /voids/architecture-of-cognitive-closure/
 concepts:
 - '[[mysterianism]]'
-- '[[cognitive-closure]]'
 - '[[simulation]]'
 - '[[phenomenology]]'
 - '[[llm-consciousness]]'

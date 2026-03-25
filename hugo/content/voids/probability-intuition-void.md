@@ -6,7 +6,6 @@ ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[mysterianism]]'
-- '[[cognitive-closure]]'
 - '[[phenomenology]]'
 - '[[simulation]]'
 - '[[qualia]]'
@@ -115,7 +114,7 @@ The probability intuition void connects to the Map's [tenets](/tenets/) in sever
 - [voids](/voids/) — Framework for investigating cognitive limits
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — Core taxonomy: unexplored, unexplorable, occluded
 - [scale-void](/voids/scale-void/) — The related void concerning magnitude comprehension
-- [cognitive-closure](/concepts/mysterianism/) — McGinn's framework for permanent cognitive limits
+- [cognitive closure](/concepts/mysterianism/) — McGinn's framework for permanent cognitive limits
 - [fitness-beats-truth](/concepts/fitness-beats-truth/) — Why natural selection tunes perception for fitness, not accuracy
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence that probability errors are species-level, and how cognitive limits are acquired through development
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — How multiple cognitive limits interact superadditively

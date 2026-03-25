@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-23 18:44:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[temporal-consciousness]]'
 - '[[parfit-reductionism]]'
 - '[[haecceity]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 created: 2026-02-15
 date: &id001 2026-02-15
 description: Narrative coherence is the felt quality of a life making sense as a unified
@@ -91,7 +91,7 @@ Narrative coherence connects to the Map's foundational commitments through its d
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — Three layers of selfhood and where narrative fits
 - [personal-identity](/topics/personal-identity/) — Why indexical identity matters for the coherent subject
 - [Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The cognitive machinery of temporal self-projection
-- [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — How choices feel authored and narratively grounded
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — How choices feel authored and narratively grounded
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Temporal unity and experiential flow across time, which narrative coherence builds upon
 - [parfit-reductionism](/concepts/parfit-reductionism/) — Why psychological continuity alone is insufficient
 - [moral-responsibility](/concepts/moral-responsibility/) — How coherence enables responsibility across time

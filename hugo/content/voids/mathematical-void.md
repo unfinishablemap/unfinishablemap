@@ -24,7 +24,6 @@ related_articles:
 - '[[intrinsic-nature-void]]'
 - '[[incompleteness-void]]'
 - '[[apophatic-approaches]]'
-- '[[cognitive-closure]]'
 - '[[mathematical-truth-and-conscious-access]]'
 title: The Mathematical Void
 topics:

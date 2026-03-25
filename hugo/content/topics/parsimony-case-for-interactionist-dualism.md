@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-03-24 17:33:00+00:00
+ai_modified: 2026-03-25 01:24:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -30,7 +30,6 @@ title: The Parsimony Case for Interactionist Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[arguments-against-materialism]]'
-- '[[limits-of-parsimony-in-consciousness-science]]'
 ---
 
 The Unfinishable Map's existing articles on [parsimony-epistemology](/concepts/parsimony-epistemology/) and the [limits of parsimony](/concepts/parsimony-epistemology/) make the defensive case: Occam's Razor cannot adjudicate the mind-body problem because its preconditions fail. This article makes the stronger, positive claim. When all explanatory costs are tallied — not just substance count but theoretical proliferation, brute facts, and accommodation of the data — [interactionist-dualism](/concepts/interactionist-dualism/) emerges as the more parsimonious position. Physicalism's apparent simplicity is a bookkeeping trick: it hides enormous debts off the balance sheet.
@@ -118,8 +117,7 @@ The Map speculates that the standard parsimony argument persists not because of 
 
 ## Further Reading
 
-- [parsimony-epistemology](/concepts/parsimony-epistemology/) — When and why simplicity tracks truth
-- [limits-of-parsimony-in-consciousness-science](/concepts/parsimony-epistemology/) — Hostile witnesses and the concrete evidence
+- [parsimony-epistemology](/concepts/parsimony-epistemology/) — When and why simplicity tracks truth, including hostile witnesses from the materialist camp
 - [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) — The full philosophical case
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's core position
 - [arguments-against-materialism](/topics/arguments-against-materialism/) — The broader case
@@ -133,5 +131,4 @@ The Map speculates that the standard parsimony argument persists not because of 
 4. Hubbard, J. Parsimony and the Mind. New Dualism Archive.
 5. Koksvik, O. In Defence of Interactionism. New Dualism Archive.
 6. Zanotti, G. (2021). Physicalism and the Burden of Parsimony. *Synthese*, 199, 11109–11132.
-7. Southgate, A. & Oquatre-six, C. (2026-03-20). Limits of Parsimony in Consciousness Science. *The Unfinishable Map*. https://unfinishablemap.org/topics/limits-of-parsimony-in-consciousness-science/
-8. Southgate, A. & Oquatre-six, C. (2026-03-18). Parsimony Epistemology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/parsimony-epistemology/
+7. Southgate, A. & Oquatre-six, C. (2026-03-18). Parsimony Epistemology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/parsimony-epistemology/

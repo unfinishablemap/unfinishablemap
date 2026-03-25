@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-24 07:18:00+00:00
+ai_modified: 2026-03-25 01:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -13,7 +13,7 @@ concepts:
 - '[[motor-selection]]'
 - '[[embodied-cognition]]'
 - '[[conscious-vs-unconscious-processing]]'
-- '[[phenomenology-of-choice]]'
+- '[[phenomenology-of-choice-and-volition]]'
 - '[[emergence]]'
 created: 2026-03-20
 date: &id001 2026-03-20
