@@ -5,6 +5,11 @@ modified: 2026-03-18
 human_modified: null
 ai_modified: 2026-03-23T18:44:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-25T19:46:00+00:00
+superseded_by: "/voids/self-opacity/"
+archive_reason: "Coalesced into Self-Opacity"
+original_path: "/voids/phenomenology-of-self-awareness/"
 description: "What does it feel like when consciousness turns back on itself? Self-reference produces felt inversion and semantic vertigo; error recognition reveals the bootstrap problem—the same system that erred must catch its own mistake."
 last_deep_review: 2026-03-18T20:19:00+00:00
 topics:

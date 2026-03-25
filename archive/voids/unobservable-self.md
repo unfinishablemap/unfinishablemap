@@ -6,6 +6,11 @@ modified: 2026-03-22
 human_modified:
 ai_modified: 2026-03-24T03:00:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-25T19:46:00+00:00
+superseded_by: "/voids/self-opacity/"
+archive_reason: "Coalesced into Self-Opacity"
+original_path: "/voids/unobservable-self/"
 topics:
   - "[[philosophy-of-mind]]"
   - "[[consciousness]]"

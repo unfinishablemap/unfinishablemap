@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-25T16:30:00+00:00
+ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
+
+## 2026-03-25 19:46 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/unobservable-self]], [[voids/introspective-opacity]], [[voids/phenomenology-of-self-awareness]]
+- **Target**: [[voids/self-opacity]]
+- **Archived**: archive/voids/unobservable-self.md, archive/voids/introspective-opacity.md, archive/voids/phenomenology-of-self-awareness.md
+- **References to review**: ~120 (self-reference-paradox), ~99 (introspective-opacity), ~19 (phenomenology-of-self-awareness) — handled by archive redirects
 
 ## 2026-03-25 19:33 UTC - condense
 - **Status**: Success
