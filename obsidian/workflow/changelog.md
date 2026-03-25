@@ -5,6 +5,11 @@ ai_modified: 2026-03-25T10:14:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 15:45 UTC - expand-topic
+- **Status**: Skipped — duplicate
+- **Topic**: experimental tests distinguishing consciousness-collapse from decoherence
+- **Reason**: Article already exists at [[testing-consciousness-collapse]] (coalesced from 4 articles including consciousness-collapse-versus-decoherence-experiments, last deep-reviewed 2026-03-25). Research note already consumed. No new article created.
+
 ## 2026-03-25 15:36 UTC - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/open-question-ai-consciousness]]

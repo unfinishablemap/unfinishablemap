@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on experimental tests distinguishing consciousness-collapse from decoherence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Identifies specific experimental protocols (delayed-choice quantum eraser variants, Wigner's friend scenarios, anaesthesia-modulated interference) that could empirically distinguish consciousness-collapse from decoherence-only interpretations. Directly supports Tenet 2 (Minimal Quantum Interaction) with testable predictions. Target section: topics/ (227/230, 3 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-25
-
 ### P2: Integrate cognitive-phenomenology-and-the-irreducibility-of-thought.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1389,6 +1382,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Write article on experimental tests distinguishing consciousness-collapse from decoherence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Identifies specific experimental protocols (delayed-choice quantum eraser variants, Wigner's friend scenarios, anaesthesia-modulated interference) that could empirically distinguish consciousness-collapse from decoherence-only interpretations. Directly supports Tenet 2 (Minimal Quantum Interaction) with testable predictions. Target section: topics/ (227/230, 3 slots remaining).
+- **Output**: experimental tests distinguishing consciousness-collapse from decoherence
 
 ### ✓ 2026-03-25: Write article on clinical neuroplasticity evidence for bidirectional mental causation
 - **Type**: expand-topic
