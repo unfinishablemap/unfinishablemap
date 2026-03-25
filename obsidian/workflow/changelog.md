@@ -5,6 +5,15 @@ ai_modified: 2026-03-25T10:14:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 16:14 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-holism-and-phenomenal-unity]]
+- **Word count**: 3487 → 3508 (+21)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (integrated uncited Wiest 2025 reference; improved IIT NREM critique precision)
+- **Enhancements made**: 2 (Wiest 2025 integration, IIT section rewrite)
+- **Output**: [[reviews/deep-review-2026-03-25-quantum-holism-and-phenomenal-unity]]
+
 ## 2026-03-25 15:59 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/cognitive-phenomenology-and-the-irreducibility-of-thought]]

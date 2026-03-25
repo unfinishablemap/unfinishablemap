@@ -4,7 +4,7 @@ description: "Classical binding mechanisms coordinate separate processes but can
 created: 2026-01-21
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-03-25T16:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,7 +41,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-21
 last_curated: null
-last_deep_review: 2026-03-03T15:41:00+00:00
+last_deep_review: 2026-03-25T16:14:00+00:00
 coalesced_from:
   - "/topics/why-phenomenal-unity-resists-explanation/"
   - "/topics/quantum-binding-and-phenomenal-unity/"
@@ -53,7 +53,7 @@ coalesced_from:
 
 The [[binding-problem|binding problem]] distinguishes two challenges. BP1 asks how the brain correctly assigns features to objects—how "red" and "round" get tagged as belonging to the same apple. This is a neural engineering problem that neuroscience is making progress on. BP2 asks why correctly bound features constitute *one* unified experience rather than parallel processes that happen to be coordinated. BP2 remains untouched despite decades of research.
 
-The reason BP2 resists solution is structural. Classical physics describes the world in terms of *external relations*: parts alongside parts, events following events, signals between systems. Nothing in this ontology provides for genuine wholes. What we call "wholes" in ordinary physics are collections of parts—convenient ways of talking about arrangements that remain, at bottom, multiplicities. A rock is many atoms; a brain is many neurons; an orchestra is many musicians.
+The reason BP2 resists solution is structural. Classical physics describes the world in terms of *external relations*: parts alongside parts, events following events, signals between systems. Nothing in this ontology provides for genuine wholes. What we call "wholes" in ordinary physics are collections of parts—convenient labels for arrangements that remain, at bottom, multiplicities. A rock is many atoms; a brain is many neurons; an orchestra is many musicians.
 
 Phenomenal unity is different. Your experience of seeing red while hearing music while feeling your chair is not three separate experiences that happen to coincide. It is one experience with three aspects. This unity is not ascribed from outside; it is constitutive of what the experience is. There is something it is like to have *all of them together* that is not reducible to what it is like to have each separately. For a comprehensive taxonomy of binding varieties—intra-modal, cross-modal, temporal, cognitive, and subject binding—see [[the-binding-problem-a-systematic-treatment|The Binding Problem: A Systematic Treatment]].
 
@@ -75,7 +75,7 @@ Zero-lag gamma synchrony—precisely synchronised oscillations across distant co
 
 This approach avoids the derivation problem by stipulation: unity and integration are defined as identical. But definitional solutions do not explain; they relabel. Why should information integration produce phenomenal unity? IIT answers: because that is what phenomenal unity *is*. This leaves us with a brute correlation.
 
-More problematically, IIT faces counterexamples. During dreamless NREM sleep, the brain performs extensive integration—consolidating memories, linking experiences, coordinating across regions. By IIT's logic, high integration should track consciousness. But dreamless sleep involves integration without consciousness. IIT defenders argue that NREM integration is not the *right kind* of integration—it does not have the structure that generates experience. But this concedes that integration alone does not explain unity. Some additional feature distinguishes conscious integration from unconscious integration. What is that feature? Answering this question reintroduces exactly what IIT was supposed to eliminate.
+More problematically, IIT must distinguish the *kind* of integration that generates consciousness from the kind that does not. During dreamless NREM sleep, the brain performs extensive neural processing—consolidating memories, coordinating across regions—yet consciousness is absent. IIT explains this by arguing that effective connectivity fragments during deep sleep, reducing Φ despite ongoing activity. But this concession is revealing: integration alone does not explain unity. An additional structural criterion—IIT's specific geometry of cause-effect relations—must do the explanatory work. At that point, the question shifts to why *that* structure produces phenomenal unity, reintroducing exactly what IIT was supposed to eliminate.
 
 ### Global Workspace
 
@@ -97,7 +97,7 @@ Leibniz's point is not that unity is invisible. It is that the *type* of thing p
 
 Classical physics provides only external relations. Quantum mechanics provides something else: entanglement.
 
-When quantum systems become entangled, they form a whole with properties that neither part possesses individually. The entangled system cannot be decomposed into the states of its components—it has irreducible wholeness. This is not correlation; it is ontological unity at the level of physics itself. Hartmut Neven of Google Quantum AI argues that entanglement is the only true binding agent in physics—classical physics can correlate separate things but cannot make them one thing.
+When quantum systems become entangled, they form a whole with properties that neither part possesses individually. The entangled system cannot be decomposed into the states of its components—it has irreducible wholeness. This is ontological unity at the level of physics itself, not mere correlation. Hartmut Neven of Google Quantum AI argues that entanglement is the only true binding agent in physics—classical physics can correlate separate things but cannot make them one thing.
 
 This matches phenomenal unity's structure. Experience does not feel assembled from separate quale-atoms that are then unified. It comes as a whole from the ground up. The redness of the apple and the sound of music are not experienced separately and then bound; they are aspects of *one* experience that encompasses both.
 
@@ -139,7 +139,7 @@ Most fundamentally, decoherence does not solve the measurement problem. As Schlo
 
 Wiest et al. treated rats with epothilone B, a microtubule-stabilizing drug, before administering isoflurane anesthesia. Treated rats took 69 seconds longer to lose consciousness compared to controls (Cohen's d = 1.9). Published in *eNeuro*, September 2024.
 
-The logic is precise: if anesthetics cause unconsciousness by disrupting quantum states in microtubules, stabilizing microtubules should delay unconsciousness. This is exactly what was observed. No classical mechanism explains why microtubule stabilization would affect anesthetic potency.
+The logic is precise: if anesthetics cause unconsciousness by disrupting quantum states in microtubules, stabilizing microtubules should delay unconsciousness. This is exactly what was observed. Wiest (2025) argued in *Neuroscience of Consciousness* that no classical mechanism explains why microtubule stabilization would affect anesthetic potency, making this a strong discriminating test between quantum and classical accounts.
 
 ### Brain Entanglement Signatures (2022-2023)
 
@@ -155,7 +155,7 @@ Three considerations weigh against illusionism here:
 
 **The precondition problem**: Illusion requires a subject to be deceived. An illusion of unity is a unified-seeming appearing to someone. If that someone is itself an illusion, we face infinite regress. At some point, something must genuinely experience the illusion—and that experiencer has the unity we were trying to explain. Illusionists respond that "subjecthood" is itself a functional state: a system can represent itself as unified without phenomenal subjecthood. This response is coherent, but its cost is denying that there is anything it is like to be a unified subject—a more radical commitment than is sometimes acknowledged.
 
-**The persistence problem**: Why is the illusion of unity so robust? Every conscious being reports it. Introspection consistently delivers unified experience. The illusion matches what genuine unity would produce to arbitrary precision. Explaining what mechanism generates this systematic, species-wide illusion is arguably as difficult as explaining unity itself. The zombie reformulation sharpens this: if [[philosophical-zombies]] are conceivable, illusionists must explain why zombies would report the same phenomenal unity we report.
+**The persistence problem**: Why is the illusion of unity so robust? Every conscious being reports it; introspection consistently delivers unified experience matching what genuine unity would produce to arbitrary precision. Explaining what mechanism generates this systematic, species-wide illusion is arguably as difficult as explaining unity itself. The zombie reformulation sharpens this: if [[philosophical-zombies]] are conceivable, illusionists must explain why zombies would report the same phenomenal unity we report.
 
 **The epistemic problem**: If the judgment "my experience is unified" is produced by representational systems without input from actual phenomenal unity, the judgment lacks rational grounding. Illusionism about unity undermines the very reasoning processes that lead to illusionism.
 
