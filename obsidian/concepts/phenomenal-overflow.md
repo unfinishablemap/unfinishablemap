@@ -4,8 +4,8 @@ description: "Ned Block's argument that phenomenal consciousness exceeds cogniti
 created: 2026-01-28
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
-last_deep_review: 2026-03-02T08:06:00+00:00
+ai_modified: 2026-03-25T08:23:00+00:00
+last_deep_review: 2026-03-25T08:23:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -117,7 +117,7 @@ But if overflow is real, GWT explains only *part* of consciousness. The unaccess
 
 ### For Functionalism
 
-[[concepts/functionalism]] defines mental states by their causal-functional roles. A-consciousness fits functionalism perfectly—it's defined by what information *does*. But P-consciousness, especially overflowing P-consciousness, resists functional definition. If experience exceeds function, functionalism cannot capture it.
+[[functionalism]] defines mental states by their causal-functional roles. A-consciousness fits functionalism perfectly—it's defined by what information *does*. But P-consciousness, especially overflowing P-consciousness, resists functional definition. If experience exceeds function, functionalism cannot capture it.
 
 The overflow argument strengthens anti-functionalist arguments like [[inverted-qualia|inverted qualia]] and [[philosophical-zombies|zombies]]. If phenomenology can exceed function in *degree* (overflow), perhaps it can diverge from function in *character* (inversion) or exist without function entirely (zombies).
 
@@ -185,4 +185,5 @@ This connects to [[pre-conceptual-knowing]]—the void of experience that exceed
 1. Sperling, G. (1960). The information available in brief visual presentations. *Psychological Monographs*, 74(11), 1-29.
 1. Cohen, M. A., & Dennett, D. C. (2011). Consciousness cannot be separated from function. *Trends in Cognitive Sciences*, 15(8), 358-364.
 1. Nartker, M., Firestone, C., Egeth, H., & Phillips, I. (2025). Sensitivity to visual features in inattentional blindness. *eLife*, 13, RP100337.
+1. McDowell, J. (1994). *Mind and World*. Harvard University Press.
 1. Kelly, S. D. (2001). The Non-Conceptual Content of Perceptual Experience: Situation Dependence and Fineness of Grain. *Philosophy and Phenomenological Research*, 62(3), 601-608.
