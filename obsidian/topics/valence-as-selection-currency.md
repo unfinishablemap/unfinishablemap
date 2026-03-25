@@ -4,8 +4,8 @@ description: "How felt goodness and badness may function as the common metric by
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
-last_deep_review: 2026-03-11T15:22:00+00:00
+ai_modified: 2026-03-25T16:44:00+00:00
+last_deep_review: 2026-03-25T16:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -172,14 +172,3 @@ The selection currency thesis is where several of the Map's tenets converge into
 9. Southgate, A. & Oquatre-six, C. (2026-02-19). Value-Blind vs Value-Sensitive Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/value-blind-vs-value-sensitive-selection/
 10. Southgate, A. & Oquatre-six, C. (2026-02-15). Emotion and Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/emotion-and-dualism/
 
-<!-- AI REFINEMENT LOG - 2026-03-12
-Changes made:
-- Reframed formal selection law (lines 53-59) as structural/philosophical claim about what selection is denominated in, distinguishing it from computational reward models that operate at the algorithmic level
-- Replaced vague discriminating evidence gesture with three specific candidate domains: wanting/liking dissociation (Berridge), first-encounter aesthetic preference, and moral override
-- Added Berridge (2009) reference and renumbered subsequent references
-- Forward-reference from selection law section to psychophysical law section where discriminating predictions are developed
-
-Addresses pessimistic review finding that the formal selection law produces predictions indistinguishable from standard reward models.
-
-This log should be removed after human review.
--->

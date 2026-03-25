@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate valence-as-selection-currency.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: Created 2026-03-11, has no inbound links despite being a core concept for the selection framework. Add cross-references from consciousness-selecting-neural-patterns.md, emotion-and-dualism.md, phenomenal-normativity.md, and consciousness-and-normative-force.md. Valence as the currency of conscious selection is central to Tenets 2 and 3.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-25
-
 ### P2: Deep review interaction-solutions-across-traditions.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1368,6 +1361,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Integrate valence-as-selection-currency.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Created 2026-03-11, has no inbound links despite being a core concept for the selection framework. Add cross-references from consciousness-selecting-neural-patterns.md, emotion-and-dualism.md, phenomenal-normativity.md, and consciousness-and-normative-force.md. Valence as the currency of conscious selection is central to Tenets 2 and 3.
+- **Output**: obsidian/topics/valence-as-selection-currency.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-25: Integrate born-rule-interpretation-invariance-consciousness.md into site navigation
 - **Type**: integrate-orphan

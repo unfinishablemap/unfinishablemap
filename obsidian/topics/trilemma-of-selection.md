@@ -68,7 +68,7 @@ This is the Map's position: [[agent-causation|agent-causal]] libertarianism grou
 
 Three features distinguish this from randomness:
 
-**Reasons-guidance.** [[reasons-responsiveness|Selection tracks reasons]]—goals, values, considerations that bear on the decision. Why A rather than B? Because the agent had reasons for A. Those reasons didn't *determine* the outcome (alternatives remained possible), but they *guided* it. This makes the choice contrastively explicable in a way randomness cannot be.
+**Reasons-guidance.** [[reasons-responsiveness|Selection tracks reasons]]—goals, values, considerations that bear on the decision. The [[valence-as-selection-currency|valence of anticipated outcomes]] provides the common metric by which consciousness evaluates competing options. Why A rather than B? Because the agent had reasons for A. Those reasons didn't *determine* the outcome (alternatives remained possible), but they *guided* it. This makes the choice contrastively explicable in a way randomness cannot be.
 
 **Phenomenology of effort.** Random processes don't feel like anything. But choosing feels effortful, and the effort scales with difficulty. William James observed that "the free will question relates solely to the amount of effort of attention." The felt cost corresponds to genuine causal engagement—consciousness doing work to stabilise the selected option against competitors.
 
