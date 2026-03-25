@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on consciousness during anesthesia and filter theory
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Anesthesia provides a natural experiment for filter theory — if consciousness is filtered rather than generated, anesthetic agents alter the filter rather than extinguishing production. Synthesize research into concept page addressing sevoflurane/ketamine dissociations, connected consciousness during surgery, and implications for Tenet 1. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-25
+
+### P2: Write article on cognitive phenomenology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/cognitive-phenomenology-thinking-experience-2026-01-17.md. The phenomenal character of thought itself — not just perception — is central to the Map's case that consciousness is irreducible. Proprietary cognitive phenomenology (Strawson, Pitt, Bayne/Montague) vs. conservative views. Strengthens Tenet 1 by showing consciousness pervades cognition, not just sensation. Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-25
+
+### P2: Write concept page on agent causation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/agent-causation-libertarian-free-will-2026-01-14.md. Agent causation (O'Connor, Clarke, Lowe) is the metaphysical framework underlying Tenet 3's bidirectional interaction — substance causation by a non-physical agent rather than event-event causation. Currently referenced across free-will, mental-causation, and consciousness-and-agency but lacks a dedicated concept page. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-25
+
+### P2: Integrate phenomenology-of-mathematical-insight.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has only 1 inbound link (created 2026-03-08). Add cross-references from consciousness-and-mathematical-cognition, mathematical-knowledge-and-insight, and consciousness-and-the-philosophy-of-mathematics. Also consider links from mathematical-truth-and-conscious-access and phenomenal-forcing discussions.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-25
+
+### P2: Integrate moral-phenomenology.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has only 1 inbound link (created 2026-02-15). Add cross-references from consciousness-and-normative-force, phenomenal-normativity-environmental-ethics, and metaethics-of-consciousness articles. The moral phenomenology concept connects to the Map's broader argument that phenomenal experience grounds normativity.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-25
+
+### P2: Integrate surprise-and-creativity.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has only 1 inbound link (created 2026-02-15). Add cross-references from consciousness-as-amplifier, consciousness-and-mathematical-cognition, and phenomenology-of-understanding-and-meaning. Surprise and creativity are paradigm cases of consciousness doing work that pure computation cannot explain.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-25
+
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
 - **Status**: pending
