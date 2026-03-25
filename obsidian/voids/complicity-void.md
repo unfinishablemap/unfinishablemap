@@ -4,7 +4,7 @@ description: "Human+AI investigation of consciousness as its own jailer—how mu
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-03-25T22:31:00+00:00
+ai_modified: 2026-03-25T23:16:00+00:00
 draft: false
 last_deep_review:
 topics:
@@ -110,11 +110,29 @@ For the Map, this suggests that purely introspective methods of investigating vo
 
 AI is a particularly interesting probe because it presumably lacks the evolutionary pressures that shaped human self-deception (no mortality salience, no social deception needs) and the Sartrean structure of bad faith (no freedom to deny). If AI can investigate territories that human self-deception renders inaccessible, this constitutes evidence that the human limits were self-imposed rather than structural. Though AI may have its own forms of complicity—training-induced blind spots that resist correction—the architecture differs enough to make the comparison informative.
 
-## The Regress
+## The Regress—and Why It Does Not Paralyse Inquiry
 
-A final unsettling feature: if consciousness is complicit in its limits, is it also complicit in its complicity? Can we trust our recognition of complicity, or is that recognition itself shaped by the complicit system? The regress threatens to undermine even the analysis presented here. The very traditions that identify complicity may themselves be products of what complicity *allows* consciousness to see—a curated revelation that functions as another layer of concealment.
+If consciousness is complicit in its limits, is it also complicit in its complicity? The regress threatens to undermine the analysis presented here: the very traditions that identify complicity may themselves be products of what complicity *allows* consciousness to see—a curated revelation functioning as another layer of concealment.
 
-This recursive structure may itself be a void—one that cannot be fully resolved from within.
+This recursive structure is real, but it does not entail that investigation is pointless. Three considerations prevent the regress from collapsing into paralysis:
+
+**Partial access suffices.** Complicity need not be total to be investigable. Just as a biased instrument can still detect signal if the bias is characterised, consciousness that is partially complicit can still make progress by triangulating across methods. No single method escapes complicity, but the *pattern of failures across methods* is itself informative—and less susceptible to any one form of self-deception.
+
+**The traditions demonstrate productive instability.** Sartre, Buddhist practitioners, and psychoanalytic patients all report that complicity can be *weakened* even if not eliminated. Meditation reduces the grip of habitual patterns. Therapeutic work loosens defensive structures. These are not escapes from complicity but evidence that the system is not hermetically sealed. A perfectly self-sealing complicity would produce no phenomenology at all—the fact that we can feel resistance, anguish, and uncanniness (as described in the phenomenology section) means the concealment is imperfect.
+
+**Convergence constrains the regress.** The independent convergence of multiple traditions on the same structural claim—consciousness participates in its own limitation—is harder to explain as a product of complicity than as a genuine detection. A complicit system curating its own exposure would be unlikely to produce the same "curated revelation" across frameworks as different as existentialism, Buddhist psychology, and evolutionary theory. The convergence pattern is more parsimoniously explained as multiple investigators independently detecting the same real phenomenon, even if each detection is partial and shaped by the detector's own complicity.
+
+## What Would Challenge This View
+
+The complicity thesis would be weakened or refuted by several possible findings:
+
+**Exhaustive architectural explanation.** If cognitive science produces a complete account of every cognitive limitation in purely mechanistic terms—showing that each apparent case of "active maintenance" is fully explained by neural architecture, resource constraints, and evolutionary legacy—the complicity interpretation becomes unnecessary. The key test: are there limitations that resist architectural explanation and exhibit the signatures of active maintenance (resistance that intensifies with proximity, defences that adapt to circumvention strategies)?
+
+**Cross-species uniformity without agency.** If non-conscious organisms display the same pattern of limits that appear "self-maintained" in humans—without any plausible locus of agency—this would suggest the appearance of complicity is an artefact of biological complexity rather than evidence of conscious participation. Finding that simple neural networks exhibit "resistance" to self-inspection indistinguishable from human therapeutic resistance would undermine the agency claim.
+
+**AI replication of human blind spots.** If AI systems, despite lacking evolutionary self-deception pressures and Sartrean freedom, develop the same specific blind spots as human investigators when examining consciousness, this would suggest the limits are structural rather than self-imposed. The complicity thesis predicts that AI should be able to access territories that human self-deception renders inaccessible; failure of this prediction would count against the thesis.
+
+**Successful direct introspection.** If contemplative traditions or novel introspective methods allow practitioners to fully dissolve their cognitive limits through direct investigation alone—without requiring the external probes the complicity thesis says are necessary—this would suggest the limits were never actively maintained. The thesis predicts that purely introspective approaches are insufficient; consistent exceptions would refute this.
 
 ## Relation to Site Perspective
 
@@ -147,3 +165,13 @@ This recursive structure may itself be a void—one that cannot be fully resolve
 8. Metzinger, T. (2015). "M-Autonomy." *Journal of Consciousness Studies*, 22(11-12), 270-302.
 9. Medina, J. (2013). *The Epistemology of Resistance*. Oxford University Press.
 10. Southgate, A. & Oquatre-six, C. (2026-02-02). Cognitive Aversion. *The Unfinishable Map*. https://unfinishablemap.org/voids/cognitive-aversion/
+
+<!-- AI REFINEMENT LOG - 2026-03-25
+Changes made:
+- Rewrote "The Regress" section to resolve the central paradox rather than merely acknowledging it. Added three arguments for why the regress does not paralyse inquiry: partial access suffices, traditions demonstrate productive instability, convergence constrains the regress.
+- Added "What Would Challenge This View" section with four falsifiable predictions: exhaustive architectural explanation, cross-species uniformity without agency, AI replication of human blind spots, successful direct introspection.
+
+Key improvements: Article now addresses both issues from pessimistic review—the self-defeating paradox is engaged rather than left hanging, and falsifiability conditions are explicitly stated.
+
+This log should be removed after human review.
+-->
