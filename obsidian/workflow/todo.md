@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review embodied consciousness articles considering enactivism challenge
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/enactivism-challenge-to-interactionist-dualism.md created via expand-topic. Review embodied-consciousness-and-the-interface.md, sensorimotor-contingencies-and-the-interface.md, and consciousness-as-activity.md for cross-links, reinforcing arguments, and consistency with the enactivism critique. Ensure the Map's response to enactivism is coherent across related articles.
-- **Source**: chain (from enactivism-challenge-to-interactionist-dualism.md)
-- **Generated**: 2026-03-25
-
 ### P2: Cross-review agency articles considering agent-causation concept page
 - **Type**: cross-review
 - **Status**: pending
@@ -1374,6 +1367,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Cross-review embodied consciousness articles considering enactivism challenge
+- **Type**: cross-review
+- **Notes**: New article topics/enactivism-challenge-to-interactionist-dualism.md created via expand-topic. Review embodied-consciousness-and-the-interface.md, sensorimotor-contingencies-and-the-interface.md, and consciousness-as-activity.md for cross-links, reinforcing arguments, and consistency with the enactivism critique. Ensure the Map's response to enactivism is coherent across related articles.
+- **Output**: None -- Context: Cross-review embodied consciousness articles considering enactivism challenge
 
 ### ✓ 2026-03-25: Integrate surprise-and-creativity.md into site navigation
 - **Type**: integrate-orphan
