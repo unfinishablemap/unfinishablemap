@@ -1,10 +1,10 @@
 ---
 title: "Atemporal Causation"
-description: "Causation that operates outside temporal sequence. Three quantum frameworks—transactional interpretation, two-state vector formalism, and all-at-once constraint models—give atemporal causation mathematical form. Consciousness selects which history becomes actual without being located at any moment within it, dissolving the Libet timing puzzle and providing a Lorentz-invariant account of mind-matter interaction."
+description: "Causation outside temporal sequence — consciousness selects which quantum history becomes actual, dissolving the Libet timing puzzle without violating physical law."
 created: 2026-02-14
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-03-25T12:58:00+00:00
+ai_modified: 2026-03-25T13:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-14
 last_curated:
-last_deep_review: 2026-03-25T12:58:00+00:00
+last_deep_review: 2026-03-25T13:59:00+00:00
 coalesced_from:
   - "/concepts/atemporal-causation/"
   - "/concepts/retrocausal-selection/"
@@ -197,7 +197,7 @@ Atemporal causation connects to each of the Map's tenets:
 ## Further Reading
 
 - [[retrocausality]] — Physics of backward causation and the Libet resolution
-- [[consciousness-selecting-neural-patterns]] — Non-retrocausal selection pathways
+- [[consciousness-selecting-neural-patterns]] — How consciousness selects among neural configurations
 - [[non-retrocausal-conscious-selection-models]] — Detailed comparison of forward-in-time frameworks
 - [[time-symmetric-selection-mechanism]] — The full selection mechanism using atemporal causation
 - [[collapse-and-time]] — How collapse introduces time's arrow

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review atemporal-causation.md after absorbing retrocausal-selection.md content
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce on 2026-03-25 merged retrocausal-selection.md into atemporal-causation.md. Review retrocausality articles (time-collapse-and-agency.md, non-retrocausal-conscious-selection-models.md, time-symmetric-selection-mechanism concept if it exists) for consistency with the merged content and updated cross-references. Also supersedes the existing P3 retrocausal-selection cross-review task below.
-- **Source**: chain (from coalesce retrocausal-selection → atemporal-causation)
-- **Generated**: 2026-03-25
-
 ### P2: Cross-review conservation-laws-and-mental-causation.md against energy objection articles
 - **Type**: cross-review
 - **Status**: pending
@@ -1375,6 +1368,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Cross-review atemporal-causation.md after absorbing retrocausal-selection.md content
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-03-25 merged retrocausal-selection.md into atemporal-causation.md. Review retrocausality articles (time-collapse-and-agency.md, non-retrocausal-conscious-selection-models.md, time-symmetric-selection-mechanism concept if it exists) for consistency with the merged content and updated cross-references. Also supersedes the existing P3 retrocausal-selection cross-review task below.
+- **Output**: obsidian/concepts/atemporal-causation.md -- Context: Cross-review atemporal-causation.md after absorbing retrocausal-selection.md content
 
 ### ✓ 2026-03-25: Deep review testing-consciousness-collapse.md (post-coalesce)
 - **Type**: deep-review
