@@ -1376,6 +1376,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-24
 
+### P3: Add cross-links between parsimony, inventory blindness, reverse inference, and self-stultification
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Four cross-linking opportunities: parsimony-epistemology → inventory-blindness (inventory blindness explains why parsimony fails), terminal-lucidity-and-filter-transmission-theory ↔ clinical-neuroplasticity-evidence-for-bidirectional-causation (opposite vectors of bidirectional interface), the-reverse-inference → self-stultification-as-master-argument (both invert standard philosophical assumptions), pragmatisms-path-to-dualism → self-stultification-as-master-argument (reflexive self-defeat parallel). See optimistic-2026-03-25-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-25
+
+### P3: Add cross-links between emergence, convergence, and Indian philosophy clusters
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Four cross-linking opportunities: indian-philosophy-of-mind → filter-theory-of-consciousness (Samkhya's reflection model as pre-modern filter theory), emergence-as-universal-hard-problem → phenomenal-non-compositionality (non-compositionality explains why emergence is hard), comparative-phenomenology-of-meditative-traditions → epistemology-of-convergence-arguments (experiential-level convergence data), epistemology-of-limit-knowledge → the-binding-problem-a-systematic-treatment (binding failure as case study for limit-knowledge methods). See optimistic-2026-03-25-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-25
+
+### P3: Write concept page on domestication (philosophical habituation to explanatory gaps)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The insight that we stop noticing explanatory gaps through habituation is powerful but buried in emergence-as-universal-hard-problem. Deserves dedicated concept page explaining why the hard problem seems anomalous when it's actually universal, and why parsimony arguments feel compelling despite formal inadequacy. Target section: concepts/. See optimistic-2026-03-25-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-25
+
 ## Completed Tasks
 
 
