@@ -4,7 +4,7 @@ description: "Does consciousness select outcomes neutrally or guided by valence?
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-25T06:57:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-03-02T05:55:00+00:00
+last_deep_review: 2026-03-25T06:57:00+00:00
 ---
 
 The Unfinishable Map commits to two claims that jointly force an unresolved question. First, consciousness causally selects among physically underdetermined outcomes ([[tenets#^bidirectional-interaction|Bidirectional Interaction]]). Second, value resides in phenomenal experience—the felt badness of suffering is intrinsic, not projected ([[consciousness-value-connection]]). The question these commitments force: **does the selection mechanism operate guided by valence, or is it value-blind?**
@@ -44,7 +44,7 @@ The fork arises from the intersection of three commitments, each well-developed 
 
 **Value is phenomenal.** The [[consciousness-value-connection]] holds that value requires consciousness. [[topics/phenomenal-value-realism|Phenomenal value realism]] goes further: some phenomenal properties just *are* value properties. The felt badness of pain constitutes badness; it is not a representation of badness.
 
-**Valence is listed as a candidate mental variable.** The [[psychophysical-laws#What Selection Laws Must Specify|selection laws article]] lists valence alongside attention, intention, and effort as candidates for the mental side of the selection law. But it also notes that valence "lacks a developed mechanism specifying how the mental variable connects to physical selection." This is precisely the gap the fork exposes.
+**Valence is listed as a candidate mental variable.** The [[psychophysical-laws#The Coupling Problem|selection laws article]] lists valence alongside attention, intention, and effort as candidates for the mental side of the coupling law. But it also notes that valence "lacks a developed mechanism specifying how the mental variable connects to physical selection." This is precisely the gap the fork exposes.
 
 If valence is a real phenomenal property that grounds value, and if consciousness causally selects outcomes, then either valence participates in selection or it doesn't. There is no third option within the Map's framework.
 

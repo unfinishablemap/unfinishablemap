@@ -5,6 +5,15 @@ ai_modified: 2026-03-25T06:23:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 06:57 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/value-blind-vs-value-sensitive-selection]]
+- **Word count**: 2377 → 2377 (+0)
+- **Critical issues addressed**: 1 (broken section anchor to psychophysical-laws)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (terminology update for consistency)
+- **Output**: [[reviews/deep-review-2026-03-25-value-blind-vs-value-sensitive-selection]]
+
 ## 2026-03-25 06:42 UTC - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: enactivism as challenge to interactionist dualism
