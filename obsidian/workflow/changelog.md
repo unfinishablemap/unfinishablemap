@@ -5,6 +5,14 @@ ai_modified: 2026-03-25T03:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-25 03:38 UTC - condense
+- **Status**: Success
+- **File**: [[concepts/parsimony-epistemology]]
+- **Before**: 3777
+- **After**: 2291
+- **Reduction**: 39%
+- **Technique**: Cut redundant Anderson section (repeated Triple Failure), removed Detection Criteria (restated Triple Failure as questions), compressed Self-Referential Dimension to one paragraph, trimmed Domain Sensitivity historical examples, tightened Hostile Witnesses and Swinburne's Reversal, removed unused references
+
 ## 2026-03-25 03:25 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-mathematical-cognition]]

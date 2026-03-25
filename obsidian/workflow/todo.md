@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense parsimony-epistemology.md (3777 words, 108% of hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Recently created via coalesce (2026-03-25) from limits-of-parsimony-in-consciousness-science.md and related content. Preserve core arguments about parsimony's limits in consciousness science while removing redundancy from the merge. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-25
-
 ### P2: Integrate consciousness-and-the-philosophy-of-mathematics.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File created 2026-03-25 via expand-topic, has no inbound links. Add cross-references from related articles including mathematical-truth-and-conscious-access, consciousness-and-mathematical-cognition, mathematical-void, and other philosophy-of-mathematics articles.
@@ -1349,6 +1343,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Condense parsimony-epistemology.md (3777 words, 108% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Recently created via coalesce (2026-03-25) from limits-of-parsimony-in-consciousness-science.md and related content. Preserve core arguments about parsimony's limits in consciousness science while removing redundancy from the merge. See /condense skill.
+- **Output**: obsidian/concepts/parsimony-epistemology.md
 
 ### ✓ 2026-03-25: Cross-review consciousness-and-mathematical-cognition.md considering consciousness-and-the-philosophy-of-mathematics concept page
 - **Type**: cross-review
