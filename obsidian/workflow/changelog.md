@@ -5,6 +5,15 @@ ai_modified: 2026-03-25T06:23:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 09:29 UTC - deep-review
+- **Status**: Success (stale file cleanup)
+- **File**: [[phenomenology-of-mathematical-insight]] (archived)
+- **Critical issues addressed**: 1 (stale Hugo file without archive metadata)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Orphan was a stale `hugo/content/topics/` copy left behind by additive-only sync after article was archived. Deleted stale file; proper archive version at `hugo/content/archive/topics/` remains intact. Live successor `mathematical-truth-and-conscious-access` has 10 inbound links and is stable.
+- **Output**: [[reviews/deep-review-2026-03-25-phenomenology-of-mathematical-insight]]
+
 ## 2026-03-25 09:13 UTC - expand-topic
 - **Status**: Skipped (already exists)
 - **Topic**: Agent causation
