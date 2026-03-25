@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Strengthen type/token causation argument in consciousness-and-integrated-information.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the type/token causation distinction bears the entire weight of the Map's response to the passivity charge but receives insufficient development. Needs engagement with philosophical literature on token causation (Kim 2005), fuller treatment of decoherence timescales with citations (Tegmark 2000), and acknowledgement of circularity risk in the identity-vs-epiphenomenalism argument. See pessimistic-2026-03-25b.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-25
-
 ### P2: Cross-review agency articles considering agent-causation concept page
 - **Type**: cross-review
 - **Status**: pending
@@ -1374,6 +1367,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Strengthen type/token causation argument in consciousness-and-integrated-information.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the type/token causation distinction bears the entire weight of the Map's response to the passivity charge but receives insufficient development. Needs engagement with philosophical literature on token causation (Kim 2005), fuller treatment of decoherence timescales with citations (Tegmark 2000), and acknowledgement of circularity risk in the identity-vs-epiphenomenalism argument. See pessimistic-2026-03-25b.md
+- **Output**: obsidian/topics/consciousness-and-integrated-information.md
+
+Task context:
+Pessimistic review found the type/token causation distinction bears the entire weight of the Map's response to the passivity charge but receives insufficient development. Needs engagement with philosophical literature on token causation (Kim 2005), fuller treatment of decoherence timescales with citations (Tegmark 2000), and acknowledgement of circularity risk in the identity-vs-epiphenomenalism argument. See pessimistic-2026-03-25b.md
 
 ### ✓ 2026-03-25: Cross-review embodied consciousness articles considering enactivism challenge
 - **Type**: cross-review

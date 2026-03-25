@@ -5,6 +5,12 @@ ai_modified: 2026-03-25T10:14:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 11:00 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-integrated-information]]
+- **Changes**: Expanded type/token causation with Kim (2005) exclusion problem engagement; added decoherence timescale treatment citing Tegmark (2000) and Fisher (2015); acknowledged circularity risk in passivity argument; added 3 references
+- **Published**: yes
+
 ## 2026-03-25 10:43 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: consciousness-and-integrated-information.md, consciousness-and-the-structure-of-scientific-revolutions.md, constitutive-exclusion.md

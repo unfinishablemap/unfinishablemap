@@ -4,7 +4,7 @@ description: "IIT identified integration as central to consciousness but erred i
 created: 2026-01-27
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-21T05:54:00+00:00
+ai_modified: 2026-03-25T11:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -60,19 +60,23 @@ The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet 
 
 IIT might respond that since consciousness *is* the physical structure, beliefs about consciousness are automatically about themselves—self-representing states. More broadly, an identity theorist might argue that identity doesn't imply inertness: if consciousness *is* integration, then integration's causal powers *are* consciousness's causal powers. But this conflates having causal powers with having *autonomous* causal powers. The integrated structure's causal profile is fully determined by physics; consciousness adds nothing to what the structure would do anyway. The causal work attributed to consciousness is entirely parasitic on the physical.
 
+A circularity concern must be acknowledged here. The Map argues that IIT renders consciousness passive, then objects that passive consciousness cannot ground reliable beliefs about experience, then concludes that consciousness must have autonomous causal powers—which is the Map's starting commitment. An identity theorist could reasonably charge that the argument assumes what it sets out to prove. The Map's response: the passivity objection is not offered as a standalone proof of interactionism. It is an internal critique—if you accept IIT's identity thesis, you inherit an epistemological problem about why introspective beliefs track phenomenal facts. Whether interactionism solves this problem better is a separate question, argued for on independent grounds (see the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet and [[interactionist-dualism]]). The passivity objection shows IIT has a problem; it does not by itself show the Map has the answer.
+
 This trades explanation for assertion. We wanted to understand the connection between physical processes and experience—what Levine called the [[explanatory-gap]]. Claiming they're identical doesn't illuminate the connection; it denies there's anything to illuminate. Other identities (water = H₂O) satisfy explanatorily because we can see *why* water has its properties given molecular structure. The consciousness-integration identity offers no such transparency: we cannot see why integrated information should feel like anything.
 
 ### Does Quantum Selection Escape This Charge?
 
 Intellectual honesty requires acknowledging that critics level the same objection against the Map's quantum selection framework. If consciousness operates only at quantum indeterminacies—selecting among outcomes that physics makes equally probable—then what does consciousness *add*? The statistical distribution of outcomes remains unchanged; Born rule predictions hold. In what sense is consciousness doing anything that physics plus quantum chance wouldn't accomplish?
 
-The answer lies in distinguishing **type-level** from **token-level** causation.
+The answer lies in distinguishing **type-level** from **token-level** causation—a distinction with deep roots in philosophy of mind. Jaegwon Kim's influential analysis of mental causation (Kim, 2005) argues that higher-level properties face an "exclusion problem": if every physical event already has a sufficient physical cause, mental causation appears redundant. Kim's framework assumes that mental causation must compete with physical causation at the same level. The Map's quantum selection sidesteps this by operating where physics provides no sufficient cause—at genuine quantum indeterminacies.
 
-At the **type level**, consciousness doesn't change statistical regularities. If you ran my life a thousand times, the statistical distribution of outcomes would match Born rule predictions. No experiment measuring frequencies could detect consciousness's influence. In this sense, the critic is right: consciousness doesn't alter the physics.
+At the **type level**, consciousness doesn't change statistical regularities. If you ran my life a thousand times, the statistical distribution of outcomes would match Born rule predictions. No experiment measuring frequencies could detect consciousness's influence. In this sense, Kim's exclusion argument applies: at the type level, consciousness adds nothing beyond what physics predicts.
 
-At the **token level**, consciousness determines *which particular outcome* actualises in *this* specific instance. The Born rule says the electron has 50% probability of spin-up and 50% spin-down—but something determines which one *actually happens* in this measurement, now, to me. On the Map's view, that's consciousness selecting. On the physics-alone view, it's... what? "Objective chance"? "Brute randomness"? These are labels, not explanations.
+At the **token level**, consciousness determines *which particular outcome* actualises in *this* specific instance. The Born rule says the electron has 50% probability of spin-up and 50% spin-down—but something determines which one *actually happens* in this measurement, now, to me. On the Map's view, that's consciousness selecting. On the physics-alone view, it's... what? "Objective chance"? "Brute randomness"? These are labels, not explanations. Kim's exclusion problem does not arise here because the physical laws themselves leave the token outcome undetermined—there is no sufficient physical cause for consciousness to compete with.
 
-Why does token-level determination matter? Because token-level causation is *genuine* causation. The specific pattern of quantum outcomes determines the course of my life, shapes the connections in my brain, produces the particular thoughts I'm having right now. If consciousness is what resolves quantum indeterminacies in my nervous system—even without altering their statistical distribution—then consciousness is genuinely shaping my future. The fact that someone measuring outcome frequencies wouldn't detect this influence doesn't make it causally inert; it makes the causation experimentally invisible at the type level while remaining metaphysically real at the token level.
+Why does token-level determination matter? Because token-level causation is *genuine* causation—it satisfies what philosophers call "difference-making." The specific pattern of quantum outcomes determines the course of my life, shapes the connections in my brain, produces the particular thoughts I'm having right now. If consciousness is what resolves quantum indeterminacies in my nervous system—even without altering their statistical distribution—then consciousness is genuinely shaping my future. The fact that someone measuring outcome frequencies wouldn't detect this influence doesn't make it causally inert; it makes the causation experimentally invisible at the type level while remaining metaphysically real at the token level.
+
+A critic might object that token-level determination without type-level effects is too thin to count as genuine causation—that "real" causes should make a statistical difference. But this standard would also eliminate quantum chance itself as a cause of anything, since chance by definition produces no statistical bias beyond the probabilities. If we accept that quantum indeterminacy genuinely shapes the world (as all interpretations except superdeterminism do), then whatever resolves that indeterminacy is genuinely causal. The question is only *what* resolves it.
 
 IIT cannot make this move. If consciousness just *is* the integrated information structure, there's no room for consciousness to determine anything—not at the type level, not at the token level. The structure is what it is; it doesn't select among alternatives because there are no alternatives for it to select among. The Map's quantum selection faces epistemological challenges (how would we detect token-level causation?), while IIT faces a metaphysical limitation (there's nothing for consciousness to causally do).
 
@@ -140,7 +144,9 @@ Consider what happens when you listen to a symphony. You integrate the timbre of
 
 IIT cannot fully capture this. Although IIT 4.0 computes phi over the system's current state, the measure reflects the intrinsic causal structure of the physical system rather than anything the subject *does* with it. Two systems in the same state have the same phi regardless of subjective attentional focus. The integration that matters for consciousness is *selective integration*—the active synthesis of some information rather than other information into a unified experience.
 
-This selective character is what the Map's framework predicts. If consciousness operates by biasing quantum indeterminacies in neural systems, then integration involves consciousness selecting which neural patterns become actual from among the possibilities the brain presents. The decoherence timescales in warm biological tissue are extremely short, and whether quantum coherence persists long enough for such selection is an open empirical question. But the conceptual point stands independently of the specific mechanism: integration understood as activity better captures the selective character of experience than integration understood as structural property.
+This selective character is what the Map's framework predicts. If consciousness operates by biasing quantum indeterminacies in neural systems, then integration involves consciousness selecting which neural patterns become actual from among the possibilities the brain presents.
+
+The decoherence objection is serious and must be stated honestly. Tegmark (2000) calculated that quantum superpositions in neural systems decohere on timescales of 10⁻¹³ to 10⁻²⁰ seconds—far faster than the millisecond timescales of neural processing. If quantum coherence vanishes in femtoseconds, what is there for consciousness to select among? Three responses deserve consideration. First, the Map's framework requires only that quantum *indeterminacy* persist at the moment of measurement, not that large-scale *coherence* be maintained; individual quantum events (ion channel openings, synaptic vesicle releases) involve genuine indeterminacy regardless of decoherence. Second, Tegmark's calculations targeted large-scale coherent superpositions of the kind Penrose-Hameroff require; the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet asks for far less—biasing individual quantum events, not maintaining macroscopic superpositions. Third, whether neural quantum events are amplified to affect cognition remains an open empirical question; Fisher (2015) has proposed that nuclear spin coherence in Posner molecules might survive for hours, though this remains speculative. The conceptual point—that integration understood as activity better captures the selective character of experience than integration understood as structural property—stands independently of which specific quantum mechanism, if any, turns out to be correct.
 
 ## The Binding Problem Revisited
 
@@ -195,4 +201,21 @@ The choice between identity and activity frameworks maps directly onto the Map's
 1. Dehaene, S., & Changeux, J.-P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200-227.
 1. Friston, K. (2010). The free-energy principle: A unified brain theory? *Nature Reviews Neuroscience*, 11(2), 127-138.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+1. Fisher, M. P. A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
 1. Coslett, H. B., & Saffran, E. (1991). Simultanagnosia: To see but not two see. *Brain*, 114(4), 1523-1545.
+
+<!-- AI REFINEMENT LOG - 2026-03-25
+Changes made:
+- Expanded type/token causation section with engagement with Kim (2005) exclusion problem; showed how Map's quantum selection sidesteps Kim's challenge by operating where physics provides no sufficient cause
+- Added paragraph addressing the "too thin" objection to token-level causation, arguing the same standard would eliminate quantum chance itself
+- Added substantive decoherence treatment citing Tegmark (2000) timescales, distinguishing Map's minimal requirements from Penrose-Hameroff macroscopic coherence, and noting Fisher (2015) as speculative alternative
+- Acknowledged circularity risk in passivity argument: the objection assumes interactionism to critique identity theory; clarified this is an internal critique of IIT, not standalone proof of the Map's position
+- Added three new references (Kim 2005, Tegmark 2000, Fisher 2015)
+
+Based on pessimistic review findings.
+Key improvements: intellectual honesty (circularity acknowledgement), philosophical rigour (Kim engagement), empirical grounding (Tegmark decoherence timescales).
+
+This log should be removed after human review.
+-->
