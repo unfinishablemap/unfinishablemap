@@ -5,6 +5,15 @@ ai_modified: 2026-03-25T16:30:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 19:16 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/incubation-effect-and-unconscious-processing]]
+- **Word count**: 2618 → 2620 (+2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-03-25-incubation-effect-and-unconscious-processing]]
+
 ## 2026-03-25 19:01 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/testing-consciousness-collapse]]
