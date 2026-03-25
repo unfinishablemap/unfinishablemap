@@ -4,7 +4,7 @@ description: "If consciousness genuinely causes actions, morality transforms fro
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-24T12:20:00+00:00
+ai_modified: 2026-03-25T09:43:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -132,6 +132,7 @@ Additionally, if Buddhist or compatibilist philosophy demonstrated that every mo
 - [[topics/free-will]]
 - [[ethics-of-consciousness]]
 - [[phenomenology-of-moral-life]]
+- [[moral-phenomenology-and-perception]] — The felt character of wrongness, obligation, and guilt that makes moral deliberation phenomenally serious
 - [[consciousness-and-moral-agency-under-duress]]
 - [[authentic-vs-inauthentic-choice]]
 - [[living-with-the-map]]

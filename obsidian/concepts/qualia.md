@@ -4,7 +4,7 @@ description: "The intrinsic, subjective qualities of conscious experience—the 
 created: 2026-01-07
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-03-23T15:29:00+00:00
+ai_modified: 2026-03-25T09:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -221,6 +221,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 - [[consciousness-and-language-interface]] - Why qualia resist linguistic capture (bidirectional lossy channel)
 - [[aesthetics-and-consciousness]] - Aesthetic qualia resistant to reduction
 - [[cognitive-phenomenology]] - Whether thinking has phenomenal character
+- [[moral-phenomenology-and-perception]] - Moral qualia: the felt wrongness, obligation, and guilt that extend the hard problem into ethics
 - [[pain-consciousness-and-causal-power]] - Why pain's felt quality is inseparable from its causal power
 - [[minimal-consciousness]] - Qualia in simple organisms
 - [[affective-void]] - Emotions and affects beyond human phenomenological reach

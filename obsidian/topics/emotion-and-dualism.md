@@ -4,7 +4,7 @@ description: "Emotional consciousness provides the strongest empirical case for 
 created: 2026-01-19
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-03-25T09:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -172,6 +172,7 @@ Both the cognitivist reduction of emotions to judgments and the somatic reductio
 - [[interactionist-dualism]] — The position that mind and body are distinct yet causally connected
 - [[ai-consciousness]] — Whether artificial systems can be phenomenally conscious
 - [[ethics-of-consciousness]] — Moral implications of consciousness
+- [[moral-phenomenology-and-perception]] — The felt character of wrongness, obligation, and guilt as moral qualia
 - [[valence-as-selection-currency]] — Valence as the criterion for conscious selection
 - [[consciousness-and-the-phenomenology-of-place]] — How mood and atmosphere co-constitute place-experience
 - [[emotional-consciousness-valence-2026-01-19]] — Research notes on emotions and valence

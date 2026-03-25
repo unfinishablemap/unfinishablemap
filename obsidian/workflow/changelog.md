@@ -5,6 +5,15 @@ ai_modified: 2026-03-25T06:23:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 09:43 UTC - deep-review
+- **Status**: Success
+- **File**: [[moral-phenomenology-and-perception]]
+- **Word count**: 2403 → 2403 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration — 9 missing inbound links)
+- **Enhancements made**: 9 (cross-links added from related articles)
+- **Output**: [[reviews/deep-review-2026-03-25-moral-phenomenology-and-perception]]
+
 ## 2026-03-25 09:29 UTC - deep-review
 - **Status**: Success (stale file cleanup)
 - **File**: [[phenomenology-of-mathematical-insight]] (archived)

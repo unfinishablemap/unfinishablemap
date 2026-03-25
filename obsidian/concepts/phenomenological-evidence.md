@@ -4,7 +4,7 @@ description: "First-person experience reports are genuine evidence for conscious
 created: 2026-02-01
 modified: 2026-02-06
 human_modified:
-ai_modified: 2026-03-19T03:19:00+00:00
+ai_modified: 2026-03-25T09:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -183,6 +183,7 @@ Phenomenological evidence provides the data that any adequate theory of consciou
 - [[contemplative-practice-as-philosophical-evidence]] — How meditation findings bear on consciousness debates
 - [[phenomenology-of-epistemic-cognition]] — The experience of evaluating evidence phenomenologically
 - [[methodology-of-consciousness-research]] — The broader methodological divide in consciousness science
+- [[moral-phenomenology-and-perception]] — Moral experience as a domain where phenomenological evidence is irreplaceable
 - [[explanatory-gap]] — Why third-person evidence alone cannot explain consciousness
 
 ## References

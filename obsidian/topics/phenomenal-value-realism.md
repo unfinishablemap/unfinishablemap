@@ -4,7 +4,7 @@ description: "Why value lives in conscious experience—not in preferences, soci
 created: 2026-02-02
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-25T09:43:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -258,6 +258,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 - [[contemplative-practice-as-philosophical-evidence]] — What contemplative practice reveals about value and consciousness
 - [[aesthetics-and-consciousness]] — Why aesthetic value resists hedonistic reduction
 - [[emotion-and-dualism]] — Valence as the felt quality of emotions
+- [[moral-phenomenology-and-perception]] — The felt character of moral experience as evidence for phenomenal value
 - [[pain-consciousness-and-causal-power]] — Why pain's phenomenal character is inseparable from its causal and evaluative role
 - [[haecceity]] — Why *this* experience matters, not just experience-of-this-type
 - [[illusionism]] — The strongest challenge to phenomenal consciousness

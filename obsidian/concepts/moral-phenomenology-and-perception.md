@@ -4,7 +4,7 @@ description: "What moral experience feels like from the inside and whether ethic
 created: 2026-02-12
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-18T15:28:00+00:00
+ai_modified: 2026-03-25T09:43:00+00:00
 draft: false
 topics:
   - "[[ethics-of-consciousness]]"
@@ -36,7 +36,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-18
 last_curated:
-last_deep_review: 2026-03-18T15:28:00+00:00
+last_deep_review: 2026-03-25T09:43:00+00:00
 coalesced_from:
   - "/concepts/moral-perception/"
   - "/concepts/moral-phenomenology/"

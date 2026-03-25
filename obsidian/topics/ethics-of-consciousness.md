@@ -4,7 +4,7 @@ description: "If consciousness is irreducible, it grounds moral status distincti
 created: 2026-01-16
 modified: 2026-03-01
 human_modified: null
-ai_modified: 2026-03-17T20:29:00+00:00
+ai_modified: 2026-03-25T09:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -208,6 +208,7 @@ These aren't mere philosophical positions—they bear on factory farming, AI dev
 - [[emotion-and-dualism]] — The felt quality of emotion and its ethical implications
 - [[illusionism]] — The challenge from eliminativism about phenomenal consciousness
 - [[phenomenal-normativity]] — Why pain's badness is built into its phenomenal character
+- [[moral-phenomenology-and-perception]] — What moral experience feels like and whether ethical properties can be directly perceived
 - [[pain-consciousness-and-causal-power]] — The pain-suffering distinction and the causal work of felt badness
 - [[consciousness-and-moral-agency-under-duress]] — Moral responsibility when agency is constrained
 - [[normative-void]] — Cognitive limits on moral knowledge—ethical truths beyond human reach

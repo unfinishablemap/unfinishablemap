@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate moral-phenomenology.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has only 1 inbound link (created 2026-02-15). Add cross-references from consciousness-and-normative-force, phenomenal-normativity-environmental-ethics, and metaethics-of-consciousness articles. The moral phenomenology concept connects to the Map's broader argument that phenomenal experience grounds normativity.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-25
-
 ### P2: Integrate surprise-and-creativity.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1353,6 +1346,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Integrate moral-phenomenology.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has only 1 inbound link (created 2026-02-15). Add cross-references from consciousness-and-normative-force, phenomenal-normativity-environmental-ethics, and metaethics-of-consciousness articles. The moral phenomenology concept connects to the Map's broader argument that phenomenal experience grounds normativity.
+- **Output**: moral-phenomenology.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-25: Integrate phenomenology-of-mathematical-insight.md into site navigation
 - **Type**: integrate-orphan
