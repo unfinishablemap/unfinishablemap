@@ -5,6 +5,15 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 22:26 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-self-awareness]]
+- **Word count**: 1977 → 2194 (+217)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 4 (functionalist engagement, 3 concept cross-links, epistemic caveats)
+- **Output**: [[reviews/deep-review-2026-03-25-phenomenology-of-self-awareness]]
+
 ## 2026-03-25 22:01 UTC - condense
 - **Status**: Success
 - **File**: [[voids/convergence-as-evidence]]
