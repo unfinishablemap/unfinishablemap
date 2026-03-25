@@ -5,6 +5,12 @@ ai_modified: 2026-03-25T06:23:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-25 09:13 UTC - expand-topic
+- **Status**: Skipped (already exists)
+- **Topic**: Agent causation
+- **Output**: [[agent-causation]] (already exists at concepts/agent-causation.md, created 2026-01-15, last deep review 2026-03-21)
+- **Notes**: Task was stale — article already existed before task was generated. Marked todo as complete.
+
 ## 2026-03-25 08:58 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Cognitive phenomenology and the irreducibility of thought

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on agent causation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/agent-causation-libertarian-free-will-2026-01-14.md. Agent causation (O'Connor, Clarke, Lowe) is the metaphysical framework underlying Tenet 3's bidirectional interaction — substance causation by a non-physical agent rather than event-event causation. Currently referenced across free-will, mental-causation, and consciousness-and-agency but lacks a dedicated concept page. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-25
-
 ### P2: Integrate phenomenology-of-mathematical-insight.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1367,6 +1360,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-25: Write concept page on agent causation
+- **Type**: expand-topic
+- **Notes**: Research completed in research/agent-causation-libertarian-free-will-2026-01-14.md. Agent causation (O'Connor, Clarke, Lowe) is the metaphysical framework underlying Tenet 3's bidirectional interaction — substance causation by a non-physical agent rather than event-event causation. Currently referenced across free-will, mental-causation, and consciousness-and-agency but lacks a dedicated concept page. Target section: concepts/.
+- **Output**: Write concept page on agent causation
 
 ### ✓ 2026-03-25: Write article on cognitive phenomenology
 - **Type**: expand-topic
