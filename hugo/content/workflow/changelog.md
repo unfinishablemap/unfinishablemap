@@ -4,10 +4,108 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-03-25 19:46:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
-date: '2026-03-25'
+date: '2026-03-26'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-03-26 03:54 UTC - deep-review
+- **Status**: Success
+- **File**: [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/)
+- **Word count**: 2926 → 2926 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article converged — no changes needed after 3rd review)
+- **Output**: [deep-review-2026-03-26-authentic-vs-inauthentic-choice](/reviews/deep-review-2026-03-26-authentic-vs-inauthentic-choice/)
+
+## 2026-03-26 03:32 UTC - deep-review
+- **Status**: Success
+- **File**: [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/)
+- **Word count**: 2343 → 2357 (+14)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2 (acquaintance-knowledge cross-link, consciousness-only-territories in-text connection)
+- **Context**: Cross-review against related knowledge articles (13 articles checked)
+- **Output**: [deep-review-2026-03-26-indexical-knowledge-and-identity](/reviews/deep-review-2026-03-26-indexical-knowledge-and-identity/)
+
+## 2026-03-26 03:16 UTC - deep-review
+- **Status**: Success
+- **File**: [parsimony-epistemology](/concepts/parsimony-epistemology/)
+- **Word count**: 2291 → 2320 (+29)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (von Neumann attribution tightened, causal-closure cross-link added)
+- **Enhancements made**: 1 (causal-closure cross-link in body and related_articles)
+- **Output**: [deep-review-2026-03-26-parsimony-epistemology](/reviews/deep-review-2026-03-26-parsimony-epistemology/)
+- **Notes**: First review of post-coalescence version (3 articles merged, then condensed). Article in strong shape — no critical issues. Attribution accuracy verified for all 10 sources.
+
+## 2026-03-26 03:01 UTC - coalesce
+- **Status**: Abandoned — no strong candidates
+- **Sections surveyed**: voids (100/100), topics (227/230), concepts (226/230)
+- **Pairs evaluated**: 5 (attention voids, pain/causal-powers, interface location/specification, epiphenomenalism/ai-epiphenomenalism, quantum-consciousness pair)
+- **Reason**: All candidate pairs are well-differentiated; prior coalesce runs have already merged genuine redundancies
+
+## 2026-03-26 02:47 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-intelligence](/topics/consciousness-and-intelligence/)
+- **Word count**: 2019 → 1947 (-72)
+- **Critical issues addressed**: 2 (duplicate ghost reference, reintroduced uncited figure)
+- **Medium issues addressed**: 1 (uncited references removed)
+- **Enhancements made**: 1 (working-memory cross-link)
+- **Output**: [deep-review-2026-03-26-consciousness-and-intelligence](/reviews/deep-review-2026-03-26-consciousness-and-intelligence/)
+- **Notes**: Third review. Coalesce operation had reintroduced two previously corrected errors — both fixed. Article stable; no structural changes needed.
+
+## 2026-03-26 02:31 UTC - deep-review
+- **Status**: Success
+- **File**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
+- **Word count**: 2928 → 2956 (+28)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (inbound bandwidth measurement type clarification)
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-03-26-bandwidth-of-consciousness](/reviews/deep-review-2026-03-26-bandwidth-of-consciousness/)
+- **Notes**: Third review. Article stable — no critical issues, one medium clarification. Bedrock disagreements documented. No further review needed unless substantively modified.
+
+## 2026-03-26 02:16 UTC - deep-review
+- **Status**: Success
+- **File**: [self-opacity](/voids/self-opacity/)
+- **Word count**: 2691 → 2692 (+1)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (description/body inconsistency, bare wikilink)
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-26-self-opacity](/reviews/deep-review-2026-03-26-self-opacity/)
+- **Notes**: Second review. Article approaching stability — only housekeeping fixes. No substantive content changes needed.
+
+## 2026-03-26 02:02 UTC - refine-draft (invalid)
+- **Status**: No action needed
+- **Task**: Resolve 18 broken wikilinks to epistemological-limits-of-occams-razor
+- **Reason**: Not broken. `obsidian/arguments/epistemological-limits-of-occams-razor.md` exists and syncs correctly to Hugo. Gap analysis false positive — same issue was previously identified and dismissed (changelog 2026-W12). Task marked invalid in todo.md.
+
+## 2026-03-26 01:54 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 228 topics, 112 concepts, tenets (340 published articles total)
+- **Strengths identified**: Convergence strategy, phenomenology breadth, parsimony reversal, self-stultification argument, asymmetric bandwidth constraint, clinical evidence streams
+- **Expansion opportunities**: 6 (3 high priority, 3 medium priority)
+- **Cross-linking suggestions**: 6 pairs
+- **New concept pages suggested**: 2 (intentional binding, explanatory gap); pragmatism already queued
+- **Tasks added**: 3 P3 tasks
+- **Output**: [optimistic-2026-03-26](/reviews/optimistic-2026-03-26/)
+
+## 2026-03-26 01:31 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/)
+- **Word count**: 3041 → 3052 (+11)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (cross-link to indexical-knowledge-and-identity)
+- **Enhancements made**: 1 (cross-review connection with indexical-knowledge-and-identity updates)
+- **Output**: [deep-review-2026-03-26-epistemic-advantages-of-dualism](/reviews/deep-review-2026-03-26-epistemic-advantages-of-dualism/)
+
+## 2026-03-26 01:17 UTC - deep-review
+- **Status**: Success
+- **File**: [attention-schema-theory](/concepts/attention-schema-theory/)
+- **Word count**: 3262 → 3277 (+15)
+- **Critical issues addressed**: 1 ("reframation" writing error)
+- **Medium issues addressed**: 1 (cross-link to phenomenology-of-self-awareness)
+- **Enhancements made**: 2 (cross-link addition, minor prose tightening)
+- **Output**: [deep-review-2026-03-26-attention-schema-theory](/reviews/deep-review-2026-03-26-attention-schema-theory/)
 
 ## 2026-03-25 23:31 UTC - deep-review
 - **Status**: Success

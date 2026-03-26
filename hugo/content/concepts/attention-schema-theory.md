@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-11 19:22:00+00:00
+ai_modified: 2026-03-26 01:17:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,11 +23,12 @@ description: Graziano's theory proposes consciousness is the brain's model of it
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-03 22:42:00+00:00
+last_deep_review: 2026-03-26 01:17:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[attention-and-the-consciousness-interface]]'
+- '[[phenomenology-of-self-awareness]]'
 title: Attention Schema Theory
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -81,17 +82,17 @@ This supports AST's evolutionary story. The ability to model others' attention (
 
 The ASTOUND project (2023-2025) implemented AST in AI conversational agents, pairing attention schemas with long-term memory and attention layers. Results showed improved social competence and more naturalistic interaction—the attention schema wasn't just theoretical but computationally useful for managing attentional resources.
 
-This has implications for [AI consciousness](/topics/ai-consciousness/). If attention schemas improve AI performance, and attention schemas generate the *functional* markers of consciousness (reports about experience, introspective access, self-monitoring), this strengthens the functionalist case that sufficient complexity could generate artificial consciousness.
+This has implications for [AI consciousness](/topics/ai-consciousness/). If attention schemas generate the *functional* markers of consciousness (reports about experience, introspective access, self-monitoring), this strengthens the functionalist case that sufficient complexity could produce artificial consciousness.
 
 ### Attention Schema Emergence in AI
 
-Deep reinforcement learning networks (2024) spontaneously developed attention-schema-like structures when tasks required tracking multiple variables or agents. No schema was hard-coded; it emerged as useful for control. This suggests attention schemas may be convergent solutions to attention management problems—predicted to appear in any sufficiently complex system.
+Deep reinforcement learning networks (2024) spontaneously developed attention-schema-like structures when tasks required tracking multiple variables or agents. No schema was hard-coded; it emerged as useful for control, suggesting attention schemas may be convergent solutions to attention management—predicted to appear in any sufficiently complex system.
 
 ## AST's Handling of the Hard Problem
 
 AST doesn't solve the hard problem—it dissolves it. The hard problem asks: why does physical processing give rise to subjective experience? AST answers: there is no subjective experience over and above what the attention schema represents. The "why" question has no answer because the thing it asks about doesn't exist as assumed.
 
-This is reframation as engineering:
+This is reframing as engineering:
 - **Why does consciousness exist?** Control systems need internal models to function effectively
 - **Why does it feel like something?** The model describes attention as having qualitative properties
 - **Why the explanatory gap?** The model necessarily omits physical details, creating the appearance of a gap
@@ -140,9 +141,9 @@ If the attention schema *seems* to generate consciousness, something must experi
 
 ### Contemplative Evidence Against AST
 
-[Witness consciousness](/concepts/witness-consciousness/) presents a particular challenge. Contemplative traditions report a mode of awareness that observes mental contents—including attention itself—without identifying with them. If AST were correct, this witness should be another attention schema modeling the first. But the phenomenology suggests otherwise: the witness is not a model but the subject for whom models appear.
+[Witness consciousness](/concepts/witness-consciousness/) presents a particular challenge. Contemplative traditions report a mode of awareness that observes mental contents—including attention itself—without identifying with them. If AST were correct, this witness should be another attention schema modeling the first. But the [phenomenology of self-awareness](/topics/phenomenology-of-self-awareness/) suggests otherwise: self-awareness qualitatively transforms experience rather than adding a monitoring layer—precisely what AST proposes. The witness is not a model but the subject for whom models appear.
 
-[Trained introspectors](/concepts/introspection/) report accessing attention directly, not through a schema. The phenomenology of directing attention—the felt quality of focusing, sustaining, and releasing—resists assimilation into "model of attention." Either these reports are systematically mistaken (which requires explaining why contemplative training deepens rather than dissolves the seeming), or AST fails to capture what attention actually is.
+[Trained introspectors](/concepts/introspection/) report accessing attention directly, not through a schema. The phenomenology of directing attention—the felt quality of focusing, sustaining, and releasing—resists assimilation into "model of attention." Either these reports are systematically mistaken (requiring explanation of why training deepens rather than dissolves the seeming), or AST fails to capture what attention actually is.
 
 ### The Self-Stultification Concern
 
@@ -164,7 +165,7 @@ Whitehead's "concrescence"—the process by which an actual occasion achieves de
 
 Where AST has the brain modeling its attention, Whitehead would describe each moment of attention as a "prehension"—an actual occasion grasping its causal past. This prehension has experiential character intrinsically, not because the brain represents it as experiential. The attention isn't *modeled* as having qualitative properties; it *has* qualitative properties because experience is fundamental.
 
-This framework preserves what AST gets right (attention's central role in consciousness) while rejecting its eliminativist conclusion. Attention matters not because the brain models it but because attentional moments are themselves experiential.
+This preserves what AST gets right (attention's central role) while rejecting its eliminativist conclusion. Attention matters not because the brain models it but because attentional moments are themselves experiential.
 
 ## Why the Map Rejects AST
 
@@ -235,6 +236,7 @@ AST illustrates a recurring pattern in consciousness science: explaining the *fu
 - [introspection](/concepts/introspection/) — First-person methods and their reliability
 - [haecceity](/concepts/haecceity/) — The indexical identity problem AST cannot address
 - [mental-effort](/concepts/mental-effort/) — The phenomenology AST must explain away
+- [phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/) — Why self-awareness transforms experience rather than merely modeling it
 - [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — How AST's meta-problem answer exposes illusionism's escalating burden
 - [decoherence](/concepts/decoherence/) — The quantum objection (which AST sidesteps but doesn't refute)
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-18 19:05:00+00:00
+ai_modified: 2026-03-26 02:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -34,7 +34,7 @@ description: The 100-million-fold gap between sensory input and conscious output
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-04 21:02:00+00:00
+last_deep_review: 2026-03-26 02:31:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -73,7 +73,7 @@ Crucially, the bottleneck is not motor. Motor systems execute complex sequences 
 
 ## The Inbound Channel
 
-The inbound bandwidth of conscious experience is enormous. Nørretranders (1998) estimated aggregate sensory input at roughly 12 million bits per second—10 million from vision, 1 million from touch, the remainder distributed across hearing, smell, and taste. The optic nerve alone transmits on the order of 10⁸ bits per second. Aggregate sensory input reaches 10⁹ bits per second.
+The inbound bandwidth of conscious experience is enormous, though estimates vary with what counts as a "bit." Nørretranders (1998) measured the *information content* of sensory processing—how many discriminable states per second reach the brain—at roughly 12 million bits per second: 10 million from vision, 1 million from touch, the remainder from hearing, smell, and taste. Raw neural transmission capacity is far larger: the optic nerve alone carries on the order of 10⁸ bits per second, and aggregate sensory nerve bandwidth reaches 10⁹ bits per second.
 
 How rich is conscious experience itself? Ned Block (2011) argues that [phenomenal consciousness](/concepts/phenomenal-consciousness/) is richer than cognitive access—we are conscious of more than we can report or act upon. Evidence from iconic memory (Sperling's 1960 partial-report paradigm) shows that observers are aware of more items than they can identify when cued. Cohen, Dennett, and Kanwisher (2016) counter that apparent richness comes from *ensemble statistics*—the visual system represents groups through summary properties rather than individual objects.
 

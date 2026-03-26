@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-03-25 21:16:00+00:00
+ai_modified: 2026-03-26 02:16:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -25,15 +25,14 @@ concepts:
 - '[[epistemic-emotions]]'
 - '[[agent-causation]]'
 created: 2026-01-14
-date: &id001 2026-03-25
-description: Consciousness cannot fully know itself. It cannot observe the observer,
-  cannot access its own processes, and encounters structural instabilities when it
-  tries. Six philosophical traditions, empirical psychology, and phenomenological
-  investigation converge on this single void.
+date: &id001 2026-03-26
+description: Consciousness cannot fully know itself—six thinkers from divergent frameworks,
+  empirical psychology, and phenomenology converge on a single void at the heart of
+  subjectivity.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-25 21:16:00+00:00
+last_deep_review: 2026-03-26 02:16:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -97,7 +96,7 @@ We access mental contents—thoughts, images, feelings—but not the processes t
 
 This opacity has four dimensions. **Temporal**: by the time introspection occurs, the thought has passed—James's "flights" between "perchings" resist capture. **Process**: you perceive the solution but not solving; the [recognition-void](/voids/recognition-void/) is paradigmatic. **Mechanism**: even metacognition yields descriptions but not mechanisms—"I solved it by thinking differently" is a real description of an opaque mechanism. **Ontological**: Sartre's deeper point that consciousness cannot objectify itself without self-distortion.
 
-Despite structural opacity, we *feel* transparent to ourselves. This connects to [inventory-blindness](/concepts/inventory-blindness/): absent capabilities produce no signal, so the illusion of transparency is never challenged from within. Fabricated explanations feel no different from veridical ones—confidence where none is warranted.
+Despite structural opacity, we *feel* transparent to ourselves. This connects to [inventory blindness](/concepts/inventory-blindness/): absent capabilities produce no signal, so the illusion of transparency is never challenged from within. Fabricated explanations feel no different from veridical ones—confidence where none is warranted.
 
 ## The Special Case of Volition
 

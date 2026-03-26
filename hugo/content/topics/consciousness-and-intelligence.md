@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-03-25 02:25:00+00:00
+ai_modified: 2026-03-26 02:47:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -22,14 +22,14 @@ concepts:
 - '[[animal-consciousness]]'
 - '[[explanatory-gap]]'
 created: 2026-01-29
-date: &id001 2026-03-25
+date: &id001 2026-03-26
 description: 'Consciousness and intelligence are deeply intertwined: consciousness
   causally enables the cognitive leap that separates humans from great apes, marking
   a threshold where experience transforms what brains can do.'
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-22 23:34:00+00:00
+last_deep_review: 2026-03-26 02:47:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -75,7 +75,7 @@ The [consciousness-as-intelligence-amplifier](/concepts/consciousness-as-amplifi
 
 Four capacities distinguish human from great ape cognition:
 
-**Working memory**: Chimpanzee working memory holds approximately 2±1 items in abstract tasks. Miller (1956) estimated human capacity at 7±2 items; Cowan (2001) revised this to approximately 4±1 items without chunking. Even conservatively, this represents a two-to-three-fold expansion. The jump from two to four-or-more items enables qualitatively new operations: tracking relationships, holding intermediate conclusions, and considering alternatives simultaneously — operations that formal reasoning requires.
+**Working memory**: Chimpanzee working memory is substantially more limited than human capacity in abstract relational tasks (Tomasello & Herrmann, 2010). Miller (1956) estimated human capacity at 7±2 items; Cowan (2001) revised this to approximately 4±1 items without chunking. The [working memory](/concepts/working-memory/) expansion enables qualitatively new operations: tracking relationships, holding intermediate conclusions, and considering alternatives simultaneously — operations that formal reasoning requires.
 
 **Metacognition**: Great apes show procedural metacognition — uncertainty guides their behaviour — but may lack *declarative* metacognition: representing their knowledge *as* knowledge, taking their beliefs as objects of thought. This transition from implicit monitoring to explicit self-knowledge is a facet of the threshold.
 
@@ -159,12 +159,9 @@ The threshold also reinforces the Map's rejection of [epiphenomenalism](/concept
 1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87–114.
 1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628-645.
 1. Georgiev, D.D. (2024). Evolution of Consciousness. *Life*, 14(1), 48.
-1. Ginsburg, S. & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
-1. Lieberman, M. D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628–645.
 1. Miller, G. A. (1956). The magical number seven, plus or minus two. *Psychological Review*, 63(2), 81–97.
 1. Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
-1. Suddendorf, T. & Corballis, M. C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299–313.
 1. Tennie, C., Call, J., & Tomasello, M. (2009). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 364(1528), 2405-2415.
 1. Tomasello, M., & Herrmann, E. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
 1. Whiten, A. (2015). Experimental studies illuminate the cultural transmission of percussive technologies in *Homo* and *Pan*. *Philosophical Transactions of the Royal Society B*, 370(1682).

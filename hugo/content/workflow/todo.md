@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-25 20:31:00+00:00
+ai_modified: 2026-03-26 03:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,17 +38,61 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review articles related to phenomenology-of-self-awareness
-- **Type**: cross-review
-- **Notes**: New topic article topics/phenomenology-of-self-awareness.md created 2026-03-25. Review self-and-self-consciousness.md, introspection.md, and metacognition.md for cross-links, reinforcing arguments, or tensions with the new article. Add [phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/) links where appropriate.
-- **Source**: task_chain
-- **Generated**: 2026-03-25
+### P2: Write article on consciousness and the neuroscience of deliberate practice
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Referenced by 5 broken wikilinks across clinical-neuroplasticity-evidence-for-bidirectional-causation.md, consciousness-as-perceptual-architect.md, and phenomenology-of-cognitive-capacity.md. Deliberate practice involves sustained conscious attention restructuring neural circuits — direct evidence for Tenet 3 (Bidirectional Interaction). The interface model predicts that conscious engagement during practice produces different neuroplastic outcomes than unconscious repetition. Target section: topics/ (228/230, 2 slots remaining).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-26
 
-### P2: Cross-review articles related to indexical-knowledge-and-identity updates
-- **Type**: cross-review
-- **Notes**: Concept page concepts/indexical-knowledge-and-identity.md updated via expand-topic on 2026-03-25. Review vertiginous-question.md, personal-identity.md, and haecceity.md for consistency with updated content and cross-link opportunities.
-- **Source**: task_chain
-- **Generated**: 2026-03-25
+### P2: Resolve self-reference-paradox.md orphan — archive or restore inbound links
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: After a mass rename of `[self-reference-paradox](/concepts/self-reference-paradox/)` → `[self-reference paradox](/voids/self-opacity/)` across ~96 files, concepts/self-reference-paradox.md now has 0 inbound links. Meanwhile voids/self-opacity.md receives 91 inbound links. Determine whether self-reference-paradox.md should be archived (if fully superseded by self-opacity.md) or whether it covers distinct ground that warrants restoring some inbound links. Check content overlap before deciding.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-26
+
+### P2: Fix broken wikilinks to the-unobservable-self and differential-predictions-consciousness-collapse
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Two broken wikilink targets: `[the-unobservable-self](/voids/self-reference-paradox/)` (3 refs, including self-reference-paradox.md) and `[differential-predictions-consciousness-collapse](/topics/consciousness-collapse-experimental-landscape/)` (3 refs, including arguments-against-materialism.md). For each, determine whether an existing article covers the same ground and update wikilinks accordingly, or remove the dead links if no suitable redirect exists.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-26
+
+### P2: Fix broken wikilinks — 7 targets with 2 references each
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Seven broken wikilink targets each referenced by 2 files: `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)`, `[time-perception-consciousness-theories](/topics/temporal-structure-of-consciousness/)`, `[quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/)`, `[contemplative-verification-of-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)`, `[conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/)`, `[quantum-measurement-and-definite-outcomes](/topics/quantum-measurement-consciousness-interface/)`, `[meaning-and-consciousness](/topics/consciousness-and-semantic-understanding/)`. For each, redirect to existing articles covering the same ground or remove dead links. Also check `[quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/)` and `[attention-as-selection-interface](/topics/attention-as-selection-interface/)` which use path-prefixed wikilinks that may not resolve correctly.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-26
+
+### P2: Deep review phenomenology-of-self-awareness.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-25 via expand-topic, never reviewed. Topics article on the phenomenology of self-awareness under dualism — how consciousness experiences itself as subject. Verify coherence, accuracy of philosophical claims (Sartre's pre-reflective cogito, Zahavi's minimal self), cross-references to self-and-self-consciousness, phenomenology-of-agency-vs-passivity, and personal-identity, and tenet alignment.
+- **Source**: chain (expand-topic)
+- **Generated**: 2026-03-26
+
+### P2: Deep review consciousness-and-the-bandwidth-problem.md post-coalesce
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Coalesced article reviewed in deep-review on 2026-03-26, where reviewer noted "Third review. Coalesce operation had reintroduced two previously corrected errors." The pattern of coalesce reintroducing errors suggests a post-coalesce verification pass is warranted. Check bandwidth-of-consciousness.md (deep-reviewed 2026-03-25) for similar reintroduced issues — this topic cluster was heavily coalesced in recent weeks.
+- **Source**: chain (coalesce)
+- **Generated**: 2026-03-26
+
+### P3: Deep review complicity-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-25 via expand-topic from research/voids-complicity-void-2026-03-25.md, never reviewed. Voids article on the cognitive gap created by consciousness's participation in the systems it tries to study. Verify coherence, accuracy of the complicity argument, cross-references to related void articles (self-reference-paradox, observer-participation-void), and tenet alignment.
+- **Source**: task_chain (expand-topic)
+- **Generated**: 2026-03-26
+
+### P3: Deep review obviousness-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-25 via expand-topic from research/voids-obviousness-void-2026-03-23.md, never reviewed. Voids article on how the apparent obviousness of consciousness obscures genuine understanding. Verify coherence, cross-references to related void articles (familiarity-void, transparency-void), and tenet alignment.
+- **Source**: task_chain (expand-topic)
+- **Generated**: 2026-03-26
 
 ### P3: Create concept page for pragmatism
 - **Type**: expand-topic
@@ -1393,8 +1437,65 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-25
 
+### P3: Add cross-links between terminal-lucidity and neurodegenerative-disease, clinical-neuroplasticity and placebo
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Four cross-linking opportunities: terminal-lucidity → consciousness-and-neurodegenerative-disease (directly challenges production model), clinical-neuroplasticity-evidence → placebo-effect-and-mental-causation (placebo is one of the four convergent streams), adaptive-cognitive-limits → phenomenology-of-cognitive-limit-types (concept and phenomenological exploration should link), contemplative-epistemology → phenomenological-method-and-evidence-standards (both address first-person methodology). See optimistic-2026-03-26.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-26
+
+### P3: Write concept page on intentional binding
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Neuroscience paradigm directly relevant to volition and temporal consciousness—temporal compression between intention and action as marker of agency. Referenced implicitly across free-will, volitional-control, and temporal-structure-of-consciousness but lacks dedicated concept page. Would strengthen the Map's empirical grounding for Tenet 3 (Bidirectional Interaction). Target section: concepts/. See optimistic-2026-03-26.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-26
+
+### P3: Write concept page on the explanatory gap
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Levine's explanatory gap is referenced extensively across dozens of articles but lacks a standalone concept page—currently embedded within hard-problem-of-consciousness. Given its centrality to the Map's arguments (it features in the convergence argument, the Kuhnian crisis analysis, and the parsimony case), it warrants dedicated treatment distinguishing it from the hard problem proper. Target section: concepts/. See optimistic-2026-03-26.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-26
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Cross-review indexical-knowledge.md against related knowledge articles
+- **Type**: cross-review
+- **Notes**: New concept page created 2026-03-25. Review knowledge-argument.md, acquaintance-knowledge.md, and epistemology-of-first-person-evidence.md for cross-links and consistency. Indexical knowledge is central to Tenet 4 (No Many Worlds) — verify the concept page correctly grounds the indexical identity arguments used across the site.
+- **Output**: indexical-knowledge.md -- Context: Cross-review indexical-knowledge.md against related knowledge articles
+
+### ✓ 2026-03-26: Deep review parsimony-epistemology.md after coalesce
+- **Type**: deep-review
+- **Notes**: Coalesced from limits-of-parsimony-in-consciousness-science (topics → concepts) on 2026-03-25. Section migration means the article now functions as a concept page rather than a topic article. Verify it works as a standalone concept, cross-references are correct, and the 8 updated referring files link appropriately. Directly relevant to Tenet 5.
+- **Output**: obsidian/concepts/parsimony-epistemology.md
+
+### ✓ 2026-03-26: Deep review consciousness-and-intelligence.md after coalesce
+- **Type**: deep-review
+- **Notes**: Coalesced from consciousness-and-intelligence.md + consciousness-threshold-in-cognitive-evolution.md on 2026-03-25. References updated in 19 files. Verify merged content is coherent, threshold arguments from the absorbed article are preserved, and cross-references to consciousness-as-amplifier and baseline-cognition are correct.
+- **Output**: obsidian/topics/consciousness-and-intelligence.md
+
+### ✓ 2026-03-26: Deep review self-opacity.md after coalesce
+- **Type**: deep-review
+- **Notes**: Coalesced from unobservable-self.md, introspective-opacity.md, and phenomenology-of-self-awareness.md on 2026-03-25, never reviewed. Three-source merge needs verification that arguments are coherent, redundancy eliminated, and cross-references to self-reference-paradox, self-and-self-consciousness, and social-construction-of-self-vs-phenomenal-self are correct. Voids article on the opacity of self-knowledge.
+- **Output**: obsidian/voids/self-opacity.md
+
+### ✓ 2026-03-26: Resolve 18 broken wikilinks to epistemological-limits-of-occams-razor
+- **Type**: refine-draft
+- **Notes**: 18 content files reference `[epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)` which has no page. Directly supports Tenet 5 (Occam's Razor Has Limits). Investigate whether these should link to existing `parsimony-epistemology.md` or another page, and update wikilinks accordingly. If no suitable target exists and the concept is distinct, create a concept page (concepts/ has 3 slots remaining).
+- **Output**: Task context:
+18 content files reference `[epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)` which has no page. Directly supports Tenet 5 (Occam's Razor Has Limits). Investigate whether these should link to existing `parsimony-epistemology.md` or another page, and update wikilinks accordingly. If no suitable target exists and the concept is distinct, create a concept page (concepts/ has 3 slots remaining).
+
+### ✓ 2026-03-26: Cross-review articles related to indexical-knowledge-and-identity updates
+- **Type**: cross-review
+- **Notes**: Concept page concepts/indexical-knowledge-and-identity.md updated via expand-topic on 2026-03-25. Review vertiginous-question.md, personal-identity.md, and haecceity.md for consistency with updated content and cross-link opportunities.
+- **Output**: None -- Context: Cross-review articles related to indexical-knowledge-and-identity updates
+
+### ✓ 2026-03-26: Cross-review articles related to phenomenology-of-self-awareness
+- **Type**: cross-review
+- **Notes**: New topic article topics/phenomenology-of-self-awareness.md created 2026-03-25. Review self-and-self-consciousness.md, introspection.md, and metacognition.md for cross-links, reinforcing arguments, or tensions with the new article. Add [phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/) links where appropriate.
+- **Output**: None -- Context: Cross-review articles related to phenomenology-of-self-awareness
 
 ### ✓ 2026-03-25: Cross-review articles related to new epistemology concept page
 - **Type**: cross-review
