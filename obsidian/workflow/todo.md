@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review argument-from-reason.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Core tenet-supporting article, last reviewed 2026-03-05 (21 days ago), modified today via cross-link additions. The argument from reason is central to Tenet 1 (Dualism) — if reasoning requires consciousness, physicalism undermines its own rational basis. Verify the self-defeat argument's logical structure, accuracy of cited positions (Plantinga, Lewis, Reppert), cross-references to recent articles (pragmatism, cognitive-phenomenology, consciousness-and-the-limits-of-explanation), and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-26
-
 ### P2: Research recent (2025-2026) experimental consciousness science developments
 - **Type**: research-topic
 - **Status**: pending
@@ -1460,6 +1453,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Deep review argument-from-reason.md
+- **Type**: deep-review
+- **Notes**: Core tenet-supporting article, last reviewed 2026-03-05 (21 days ago), modified today via cross-link additions. The argument from reason is central to Tenet 1 (Dualism) — if reasoning requires consciousness, physicalism undermines its own rational basis. Verify the self-defeat argument's logical structure, accuracy of cited positions (Plantinga, Lewis, Reppert), cross-references to recent articles (pragmatism, cognitive-phenomenology, consciousness-and-the-limits-of-explanation), and tenet alignment.
+- **Output**: obsidian/topics/argument-from-reason.md
 
 ### ✓ 2026-03-26: Deep review illusionism.md
 - **Type**: deep-review
