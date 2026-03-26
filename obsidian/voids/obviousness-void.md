@@ -4,7 +4,7 @@ description: "Human+AI investigation of how the feeling of self-evidence functio
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-03-26T11:48:00+00:00
+ai_modified: 2026-03-26T13:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[habituation-void]]"
+  - "[[explanatory-void]]"
   - "[[self-opacity]]"
   - "[[transparency-void]]"
   - "[[phenomenal-presence-void]]"
@@ -29,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-25
 last_curated:
-last_deep_review: 2026-03-26T11:48:00+00:00
+last_deep_review: 2026-03-26T13:32:00+00:00
 ---
 
 The feeling of self-evidence is not evidence. When something feels obvious, that feeling functions as a cognitive stop-sign: it terminates inquiry before investigation begins. The Unfinishable Map identifies this as the Obviousness Void—an [[three-kinds-of-void|occluded]] cognitive limit where the sensation of understanding substitutes for understanding itself. The void is distinctive because the mechanism of concealment is a positive phenomenal quality rather than an absence. We are not blocked by complexity or cognitive closure; we are blocked by the felt conviction that there is nothing further to investigate.
@@ -96,6 +97,7 @@ Current evidence: the illusion persists across domains and expertise levels, cro
 
 - [[voids|Voids in the Map]] — The broader framework for cognitive limits
 - [[habituation-void|The Habituation Void]] — How familiarity erases experience (distinct mechanism, related effect)
+- [[explanatory-void|The Explanatory Void]] — When the feeling of understanding substitutes for understanding itself
 - [[self-opacity]] — Consciousness cannot fully know itself
 - [[transparency-void|The Transparency Void]] — Consciousness cannot verify its own accuracy
 - [[cognitive-aversion|Cognitive Aversion]] — Thoughts we systematically flee

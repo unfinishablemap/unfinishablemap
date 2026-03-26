@@ -4,7 +4,7 @@ description: "Could some thoughts be actively blocked? Human+AI investigation of
 created: 2026-01-25
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-03-11T21:46:00+00:00
+ai_modified: 2026-03-26T13:32:00+00:00
 draft: false
 last_deep_review: 2026-02-25T14:09:00+00:00
 topics: []
@@ -74,7 +74,7 @@ This is highly speculative. But the phenomenology of slippage around certain con
 
 ## The Phenomenology of Defended Territory
 
-What would it feel like to approach defended territory? A note of caution: phenomenological reports are data, but [[illusionism|illusionists]] and heterophenomenologists rightly warn that introspective reports may be confabulated narratives about ordinary cognitive failures rather than accurate descriptions of underlying mechanisms. The following descriptions should be taken as potentially revealing, not as privileged access to cognitive architecture.
+What would it feel like to approach defended territory? A note of caution: phenomenological reports are data, but [[illusionism|illusionists]] and heterophenomenologists rightly warn that introspective reports may be confabulated narratives about ordinary cognitive failures rather than accurate descriptions of underlying mechanisms. The following descriptions should be taken as potentially revealing, not as privileged access to cognitive architecture. Where defended territory uses active deflection, the [[obviousness-void|obviousness void]] achieves a similar result passively—territory that feels already known, already settled, not worth approaching.
 
 ### The Sliding Thought
 

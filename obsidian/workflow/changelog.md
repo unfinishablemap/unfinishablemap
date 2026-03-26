@@ -5,6 +5,16 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 13:32 UTC - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [[voids/obviousness-void]]
+- **Word count**: 1651 → 1668 (+17)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added missing explanatory-void cross-link)
+- **Enhancements made**: 5 inbound cross-links from other articles
+- **Files modified**: epistemic-emotions, defended-territory, biological-cognitive-closure, phenomenology-of-cognitive-limit-types, authentic-vs-inauthentic-choice
+- **Output**: [[reviews/deep-review-2026-03-26b-obviousness-void]]
+
 ## 2026-03-26 13:18 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/pragmatism]]
