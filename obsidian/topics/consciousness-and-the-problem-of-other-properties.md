@@ -4,7 +4,7 @@ description: "The problem of other minds generalises: if phenomenal properties a
 created: 2026-02-18
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-03-02T11:52:00+00:00
+ai_modified: 2026-03-26T04:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ related_articles:
   - "[[intersubjective-void]]"
   - "[[substance-property-dualism]]"
   - "[[modal-structure-of-phenomenal-properties]]"
-  - "[[consciousness-and-interpersonal-understanding]]"
+  - "[[consciousness-and-social-understanding]]"
   - "[[epistemology-of-first-person-evidence]]"
   - "[[epistemology-of-other-minds-under-dualism]]"
 ai_contribution: 100
@@ -73,7 +73,7 @@ Words for phenomenal properties are learned through public criteria — pointing
 
 The [[consciousness-and-testimony|epistemology of testimony]] hits its limit here. We can trust others' reports about the functional and relational aspects of their experience — they can reliably tell us which colours match, which pains are worse, which emotions accompany which situations. What testimony cannot convey is the intrinsic phenomenal character that accompanies these functional roles. The bottleneck is not dishonesty or imprecision. It is the structure of language itself, which encodes relations and functions rather than intrinsic qualities.
 
-This has consequences for [[consciousness-and-interpersonal-understanding|interpersonal understanding]]. If genuine understanding of another person requires grasping what their experience is like — not just what they do and say — then understanding is structurally limited in the same way that testimony is. We can understand another person's situation, their reasons, their behavioural patterns. We cannot understand the phenomenal texture of their inner life.
+This has consequences for [[consciousness-and-social-understanding|interpersonal understanding]]. If genuine understanding of another person requires grasping what their experience is like — not just what they do and say — then understanding is structurally limited in the same way that testimony is. We can understand another person's situation, their reasons, their behavioural patterns. We cannot understand the phenomenal texture of their inner life.
 
 ## Asymmetry with Self-Knowledge
 

@@ -4,13 +4,13 @@ description: "African philosophical traditions treat consciousness as relational
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-22T12:27:00+00:00
+ai_modified: 2026-03-26T04:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[the-hard-problem-in-non-western-philosophy]]"
   - "[[consciousness-and-collective-phenomena]]"
-  - "[[consciousness-and-social-cognition]]"
+  - "[[consciousness-and-social-understanding]]"
 concepts:
   - "[[dualism]]"
   - "[[interactionist-dualism]]"
@@ -85,7 +85,7 @@ Wiredu, writing from the Akan tradition, complicates the picture. While he recog
 
 African philosophical traditions developed primarily through oral transmission rather than written text. This is philosophically significant for consciousness studies because oral philosophy requires intersubjective engagement — ideas exist in the space between speaker and listener, tested through dialogue rather than private reflection.
 
-This methodology parallels what the Map recognises in [[contemplative-practice-as-philosophical-evidence|contemplative methods]]: that first-person investigation of consciousness need not follow the Western model of solitary introspection. Communal philosophical dialogue, structured through proverbs, stories, and ritual, represents an alternative epistemic approach to consciousness that takes its relational character seriously from the start. Where Western phenomenology asks "what is it like for *me*?", the African oral tradition asks "what is it like for *us*?" — a question that may reveal aspects of [[consciousness-and-social-cognition|conscious experience shaped by social engagement]] that solitary methods structurally cannot access.
+This methodology parallels what the Map recognises in [[contemplative-practice-as-philosophical-evidence|contemplative methods]]: that first-person investigation of consciousness need not follow the Western model of solitary introspection. Communal philosophical dialogue, structured through proverbs, stories, and ritual, represents an alternative epistemic approach to consciousness that takes its relational character seriously from the start. Where Western phenomenology asks "what is it like for *me*?", the African oral tradition asks "what is it like for *us*?" — a question that may reveal aspects of [[consciousness-and-social-understanding|conscious experience shaped by social engagement]] that solitary methods structurally cannot access.
 
 ## Relation to Site Perspective
 

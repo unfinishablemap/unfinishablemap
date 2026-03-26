@@ -4,12 +4,11 @@ description: "Trust has a distinctive felt character that information processing
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-03-25T14:13:00+00:00
+ai_modified: 2026-03-26T04:31:00+00:00
 last_deep_review: 2026-03-25T14:13:00+00:00
 draft: false
 topics:
-  - "[[topics/consciousness-and-social-cognition]]"
-  - "[[consciousness-and-interpersonal-understanding]]"
+  - "[[consciousness-and-social-understanding]]"
   - "[[phenomenology-of-epistemic-cognition]]"
   - "[[phenomenology-of-deliberation-under-uncertainty]]"
   - "[[consciousness-and-testimony]]"
@@ -114,8 +113,7 @@ The [[tenets#^occams-limits|limits of Occam's Razor]] (Tenet 5) caution against 
 
 ## Further Reading
 
-- [[topics/consciousness-and-social-cognition]]
-- [[consciousness-and-interpersonal-understanding]]
+- [[consciousness-and-social-understanding]]
 - [[problem-of-other-minds]]
 - [[intersubjectivity]]
 - [[phenomenology-of-epistemic-cognition]]

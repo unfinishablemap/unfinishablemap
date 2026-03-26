@@ -4,7 +4,7 @@ description: "Science achieved its power by excluding subjectivity. Consciousnes
 created: 2026-01-23
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-23T17:09:00+00:00
+ai_modified: 2026-03-26T04:31:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -39,7 +39,7 @@ related_articles:
   - "[[consciousness-and-methodological-failure]]"
   - "[[philosophy-of-science-under-dualism]]"
   - "[[epistemology-of-first-person-evidence]]"
-  - "[[consciousness-and-interpersonal-understanding]]"
+  - "[[consciousness-and-social-understanding]]"
   - "[[cognitive-science-of-dualism]]"
   - "[[contemplative-neuroscience]]"
   - "[[quantum-measurement-and-consciousness]]"
@@ -109,7 +109,7 @@ Second-person approaches use empathic [[intersubjectivity]] to access others' ex
 
 The distinction between intersubjectivity and objectivity matters here. Objectivity aspires to the "view from nowhere" — perspective-free description that eliminates the observer. Intersubjectivity retains viewpoint while discovering that different perspectives converge. When you describe your experience of red and I recognise the description as matching mine, we achieve intersubjective agreement without either of us abandoning first-person perspective.
 
-Second-person methods may access phenomenal consciousness where purely third-person methods cannot. Objective methods succeed by eliminating perspective, but phenomenal consciousness *is* perspective. Intersubjective methods acknowledge this while showing that something can be shared despite it — a middle path between solipsism and eliminativism. See [[consciousness-and-interpersonal-understanding]] for how genuine understanding of another person requires phenomenal consciousness.
+Second-person methods may access phenomenal consciousness where purely third-person methods cannot. Objective methods succeed by eliminating perspective, but phenomenal consciousness *is* perspective. Intersubjective methods acknowledge this while showing that something can be shared despite it — a middle path between solipsism and eliminativism. See [[consciousness-and-social-understanding]] for how genuine understanding of another person requires phenomenal consciousness.
 
 ## The Explanatory Gap and Epistemic Asymmetry
 

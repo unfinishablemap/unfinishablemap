@@ -4,12 +4,11 @@ description: "Individual consciousness is required for collective intentionality
 created: 2026-02-15
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-03-19T23:02:00+00:00
+ai_modified: 2026-03-26T04:31:00+00:00
 draft: false
 topics:
-  - "[[topics/consciousness-and-social-cognition]]"
+  - "[[consciousness-and-social-understanding]]"
   - "[[the-strong-emergence-of-consciousness]]"
-  - "[[consciousness-and-interpersonal-understanding]]"
   - "[[social-construction-of-self-vs-phenomenal-self]]"
   - "[[machine-consciousness]]"
 concepts:
@@ -120,7 +119,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet counsels against di
 
 ## Further Reading
 
-- [[topics/consciousness-and-social-cognition]] — How individual consciousness enables the social cognition that makes collective phenomena possible
+- [[consciousness-and-social-understanding]] — How individual consciousness enables the social cognition that makes collective phenomena possible
 - [[combination-problem]] — The challenge of explaining how experiences combine, relevant in both directions
 - [[collective-cognitive-limits]] — The voids perspective: how groups create emergent blind spots
 - [[intersubjective-void]] — Why the gap between individual minds persists even in tightly coupled groups

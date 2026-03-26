@@ -4,7 +4,7 @@ description: "The shared space between minds: how first-person experience can be
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-03-23T17:30:00+00:00
+ai_modified: 2026-03-26T04:31:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[tenets]]"
   - "[[phenomenology-of-collective-intentionality-and-we-consciousness]]"
   - "[[consciousness-and-collective-phenomena]]"
-  - "[[consciousness-and-social-cognition]]"
+  - "[[consciousness-and-social-understanding]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
@@ -145,7 +145,7 @@ Intersubjectivity also connects to methodology. The [[methodology-of-consciousne
 - [[phenomenology-of-trust]] — Trust as sustained openness across the intersubjective void
 - [[phenomenology-of-collective-intentionality-and-we-consciousness]] — The distinctive phenomenology of "we-mode" experience built on intersubjective foundations
 - [[consciousness-and-collective-phenomena]] — Why collective intentionality requires individual consciousness
-- [[consciousness-and-social-cognition]] — How phenomenal consciousness enables human social cognition
+- [[consciousness-and-social-understanding]] — How phenomenal consciousness enables human social cognition
 
 ## References
 

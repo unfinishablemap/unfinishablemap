@@ -4,14 +4,13 @@ description: "Is consciousness constitutively intersubjective or fundamentally s
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-03-24T12:36:00+00:00
+ai_modified: 2026-03-26T04:31:00+00:00
 last_deep_review: 2026-03-24T12:36:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
   - "[[hard-problem-of-consciousness]]"
-  - "[[consciousness-and-interpersonal-understanding]]"
-  - "[[consciousness-and-social-cognition]]"
+  - "[[consciousness-and-social-understanding]]"
   - "[[phenomenology-of-collective-intentionality-and-we-consciousness]]"
   - "[[cross-cultural-phenomenology-of-agency]]"
 concepts:
@@ -39,7 +38,7 @@ last_curated:
 
 How does one consciousness encounter another? The question seems straightforward — we meet people, talk to them, understand them. But beneath this everyday familiarity lies a deep philosophical puzzle: is consciousness inherently solitary, reaching outward to discover other minds it could in principle never find? Or is consciousness always-already intersubjective — constitutively shaped by its relation to others such that a truly isolated consciousness is incoherent? The Unfinishable Map argues for a third position: consciousness is ontologically individual (as the [[tenets#^dualism|Dualism tenet]] requires) but phenomenologically enriched through intersubjective encounter in ways that transform what it can be and do.
 
-This article bridges the Map's treatment of [[intersubjectivity]] as a concept with its explorations of [[consciousness-and-social-cognition|social cognition]], [[consciousness-and-interpersonal-understanding|interpersonal understanding]], and the [[other-minds-void|void between minds]]. Where those articles examine specific dimensions — the cognitive machinery, the phenomenology of understanding, the epistemic gap — this article asks the foundational question: what is the relationship between consciousness *as such* and the fact that there are other consciousnesses?
+This article bridges the Map's treatment of [[intersubjectivity]] as a concept with its explorations of [[consciousness-and-social-understanding|social cognition and interpersonal understanding]] and the [[other-minds-void|void between minds]]. Where those articles examine specific dimensions — the cognitive machinery, the phenomenology of understanding, the epistemic gap — this article asks the foundational question: what is the relationship between consciousness *as such* and the fact that there are other consciousnesses?
 
 ## The Priority Question
 
@@ -105,7 +104,7 @@ The asymmetry matters for the Map's framework in three ways:
 
 **It grounds the reality of individual consciousness.** If experience were fully intersubjective — if your pain and mine were literally shared — there would be no individual experiencers, only a distributed phenomenal field. The fact that I cannot feel *your* pain, only my empathic response to it, demonstrates that consciousness comes in discrete, bounded units. The Map's dualism predicts exactly this: each consciousness is its own ontological reality.
 
-**It explains why intersubjective knowledge is always approximate.** The [[other-minds-void]] is not a failure of intersubjectivity but a consequence of the asymmetry. I can approach your experience through empathy, [[consciousness-and-testimony|testimony]], and shared attention, but I cannot coincide with it. This makes [[consciousness-and-interpersonal-understanding|interpersonal understanding]] an ongoing achievement that is never completed — which matches the phenomenology. Understanding another person deepens indefinitely without reaching a terminus.
+**It explains why intersubjective knowledge is always approximate.** The [[other-minds-void]] is not a failure of intersubjectivity but a consequence of the asymmetry. I can approach your experience through empathy, [[consciousness-and-testimony|testimony]], and shared attention, but I cannot coincide with it. This makes [[consciousness-and-social-understanding|interpersonal understanding]] an ongoing achievement that is never completed — which matches the phenomenology. Understanding another person deepens indefinitely without reaching a terminus.
 
 **It gives moral significance to the attempt.** Because understanding across the asymmetry requires effort, attention, and vulnerability, it carries moral weight. The attempt to understand another consciousness despite the gap is an ethical act — what Levinas would call responsibility. If the gap were illusory or easily bridged, the attempt would lose its significance.
 
@@ -126,8 +125,7 @@ The Map's third position — ontologically individual, phenomenologically enrich
 ## Further Reading
 
 - [[intersubjectivity]] — The concept: shared space between minds, Husserl's analysis, methodological implications
-- [[consciousness-and-interpersonal-understanding]] — The phenomenology of understanding another person
-- [[consciousness-and-social-cognition]] — Why social cognition requires phenomenal consciousness
+- [[consciousness-and-social-understanding]] — Social cognition and interpersonal understanding through phenomenal consciousness
 - [[phenomenology-of-collective-intentionality-and-we-consciousness]] — "We-consciousness" and shared intentionality
 - [[other-minds-void]] — The constitutive gap between individual consciousnesses
 - [[intersubjective-void]] — Whether experiences can be genuinely shared

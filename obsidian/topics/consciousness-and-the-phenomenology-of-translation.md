@@ -4,7 +4,7 @@ description: "What the lived experience of translating between languages reveals
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-03-20T23:27:00+00:00
+ai_modified: 2026-03-26T04:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[language-thought-boundary]]"
   - "[[phenomenology-of-understanding-and-meaning]]"
   - "[[intersubjective-void]]"
-  - "[[consciousness-and-interpersonal-understanding]]"
+  - "[[consciousness-and-social-understanding]]"
   - "[[clinical-phenomenology-as-philosophical-evidence]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[tenets]]"
@@ -128,7 +128,7 @@ The phenomenology of translation connects to the Map's [[tenets]] at several poi
 - [[cognitive-phenomenology]] — Whether thinking has phenomenal character beyond sensory accompaniments
 - [[phenomenology-of-understanding-and-meaning]] — How consciousness constitutes semantic grasp
 - [[intersubjective-void]] — The gap between minds that translation attempts to bridge
-- [[consciousness-and-interpersonal-understanding]] — Phenomenal engagement with other minds
+- [[consciousness-and-social-understanding]] — Phenomenal engagement with other minds
 - [[clinical-phenomenology-as-philosophical-evidence]] — How disruptions of experience reveal consciousness architecture
 - [[phenomenology-of-agency-vs-passivity]] — The felt difference between doing and undergoing
 

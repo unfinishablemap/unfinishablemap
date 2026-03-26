@@ -5,6 +5,12 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 04:31 UTC - refine-draft
+- **Status**: Success
+- **File**: 13 files with broken wikilinks
+- **Changes**: Updated wikilinks from [[consciousness-and-social-cognition]] and [[consciousness-and-interpersonal-understanding]] to [[consciousness-and-social-understanding]] in concepts/intersubjectivity.md, concepts/african-philosophy-of-consciousness.md, topics/consciousness-and-testimony.md, topics/phenomenology-of-embodiment-under-dualism.md, topics/consciousness-and-intersubjectivity.md, topics/phenomenology-of-collective-intentionality-and-we-consciousness.md, topics/consciousness-and-the-problem-of-other-properties.md, topics/phenomenology-of-philosophical-disagreement.md, topics/consciousness-and-collective-phenomena.md, topics/methodology-of-consciousness-research.md, topics/consciousness-and-the-phenomenology-of-translation.md, topics/phenomenology-of-trust.md, voids/intersubjective-void.md. Deduplicated entries where both old links pointed to same target.
+- **Published**: yes
+
 ## 2026-03-26 04:17 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[consciousness-and-social-cognition]], [[consciousness-and-interpersonal-understanding]]
