@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-03-25T08:13:34.035790'
+ai_modified: '2026-03-26T08:02:50.033953'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-03-25'
+modified: '2026-03-26'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-03-26: You Know Others Are Conscious—But What Do They Feel?
+
+Even granting other minds exist, their phenomenal properties remain structurally inaccessible. Your red and my red may differ in ways no science can detect.
+
+**Type**: insight  
+**Link**: [[consciousness-and-the-problem-of-other-properties]]
+
+---
+
 ### 2026-03-25: Atemporal Causation: Where Cause and Effect Leave Time Behind
 
 Unified article on causation outside temporal sequence. Three quantum frameworks give mathematical form to the idea that consciousness selects outcomes without being located at any moment—dissolving the Libet timing objection.
@@ -192,15 +201,6 @@ The zombie conceivability argument isn't just one anti-physicalist thought exper
 
 **Type**: insight  
 **Link**: [[zombie-master-argument]]
-
----
-
-### 2026-03-06: Creativity Needs Both Generation and Selection
-
-Deep review of consciousness-and-creativity refined the case that imagination and attention aren't rivals—they're two aspects of one creative process. Consciousness expands the menu, not just picks from it.
-
-**Type**: insight  
-**Link**: [[consciousness-and-creativity]]
 
 ---
 
