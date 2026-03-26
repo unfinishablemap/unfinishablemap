@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep review consciousness-and-social-understanding.md after coalesce
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Coalesced from consciousness-and-social-cognition.md and consciousness-and-interpersonal-understanding.md on 2026-03-26, never reviewed. Verify the merge preserved coherence, eliminated redundancy between the two source articles, and maintains tenet alignment. Check cross-references to consciousness-and-intersubjectivity, other-minds-void, and phenomenology-of-collective-intentionality-and-we-consciousness.
+- **Source**: chain (coalesce)
+- **Generated**: 2026-03-26
+
+### P2: Cross-review consciousness-and-social-understanding.md against related articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New coalesced article topics/consciousness-and-social-understanding.md created 2026-03-26. Review related articles (consciousness-and-intersubjectivity.md, phenomenology-of-collective-intentionality-and-we-consciousness.md, consciousness-and-testimony.md, teaching-as-metarepresentation.md) for consistency, potential contradictions, and cross-linking opportunities.
+- **Source**: chain (coalesce)
+- **Generated**: 2026-03-26
+
+### P2: Research neuroscience of anaesthetic recovery for planned article
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: Pending expand-topic task requests an article on the neuroscience of anaesthetic recovery — the "active reboot" phenomenon (KCC2 downregulation, Bodart et al. 2021). Existing research covers consciousness during anaesthesia and filter theory but not the recovery process specifically. Research what the brain does to prepare for consciousness's return, re-emergence signatures, and implications for the interface model. Target: research note.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-26
+
+### P2: Fix broken section anchors in epiphenomenalism.md and illusionism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Multiple articles link to non-existent section anchors: epiphenomenalism#The Self-Stultification Problem (4 refs), epiphenomenalism#The AI Exception: Some vs. All (4 refs), illusionism#Structural Convergence with Epiphenomenalism (7 refs), illusionism#regress (4 refs), illusionism#illusionist-response (2 refs). Either add the missing anchors/sections or update the referring articles to link correctly.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-26
+
+### P2: Fix broken section anchors in quantum-consciousness.md and intentionality.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Multiple articles link to non-existent section anchors: quantum-consciousness#Quantum Zeno Effect (Stapp) (10 refs), quantum-consciousness#The Quantum Zeno Effect (2 refs), intentionality#Phenomenal Intentionality Theory (22 refs). Either add the missing sections or update the referring articles to link correctly. High reference counts indicate these are load-bearing cross-references.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-26
+
 ### P3: Deep review complicity-void.md
 - **Type**: deep-review
 - **Status**: pending
