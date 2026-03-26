@@ -22,14 +22,14 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[philosophy-of-science-under-dualism]]'
-- '[[consciousness-and-methodological-failure]]'
+- '[[consciousness-defeats-explanation]]'
 - '[[phenomenology-of-conceptual-change]]'
 - '[[phenomenology-of-framework-inhabitation]]'
 - '[[parsimony-epistemology]]'
 title: Consciousness and the Structure of Scientific Revolutions
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[consciousness-and-methodological-failure]]'
+- '[[consciousness-defeats-explanation]]'
 - '[[methodology-of-consciousness-research]]'
 ---
 
@@ -98,7 +98,7 @@ The Unfinishable Map interprets Kuhn's framework as illuminating rather than res
 ## Further Reading
 
 - [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/)
-- [consciousness-and-methodological-failure](/topics/consciousness-defeats-explanation/)
+- [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/)
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
 - [The Phenomenology of Framework Inhabitation](/topics/phenomenology-of-framework-inhabitation/)

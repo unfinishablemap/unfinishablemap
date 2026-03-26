@@ -33,8 +33,7 @@ title: Duhem-Quine Underdetermination in Consciousness Science
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[methodology-of-consciousness-research]]'
-- '[[consciousness-and-the-limits-of-explanation]]'
-- '[[consciousness-and-methodological-failure]]'
+- '[[consciousness-defeats-explanation]]'
 - '[[phenomenology-of-framework-inhabitation]]'
 ---
 
@@ -119,7 +118,7 @@ The Map's honest assessment: underdetermination cuts both ways. It undermines ph
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
 - [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/)
 - [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)
-- [consciousness-and-methodological-failure](/topics/consciousness-defeats-explanation/)
+- [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/)
 - [phenomenology-of-framework-inhabitation](/topics/phenomenology-of-framework-inhabitation/)
 - [integrated-information-theory](/concepts/integrated-information-theory/)
 - [global-workspace-theory](/concepts/global-workspace-theory/)

@@ -39,7 +39,7 @@ related_articles:
 title: The Epistemology of Convergence Arguments
 topics:
 - '[[the-convergence-argument-for-dualism]]'
-- '[[consciousness-and-methodological-failure]]'
+- '[[consciousness-defeats-explanation]]'
 - '[[hard-problem-of-consciousness]]'
 - '[[eastern-philosophy-consciousness]]'
 ---

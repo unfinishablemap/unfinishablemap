@@ -47,7 +47,7 @@ related_articles:
 - '[[cumulative-culture]]'
 - '[[cetacean-and-corvid-consciousness]]'
 - '[[duhem-quine-underdetermination-consciousness]]'
-- '[[consciousness-and-methodological-failure]]'
+- '[[consciousness-defeats-explanation]]'
 title: Consciousness and Social Understanding
 topics:
 - '[[hard-problem-of-consciousness]]'

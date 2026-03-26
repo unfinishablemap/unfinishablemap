@@ -22,7 +22,7 @@ last_deep_review: 2026-03-26 13:18:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[consciousness-and-the-limits-of-explanation]]'
+- '[[consciousness-defeats-explanation]]'
 - '[[argument-from-reason]]'
 - '[[epistemic-advantages-of-dualism]]'
 title: Pragmatism
@@ -88,7 +88,7 @@ The Unfinishable Map treats pragmatism as a method that confirms its commitments
 
 - [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/) — The full argument from pragmatist method to dualist conclusion
 - [william-james-consciousness](/topics/william-james-consciousness/) — James's pragmatist approach to consciousness
-- [consciousness-and-the-limits-of-explanation](/topics/consciousness-defeats-explanation/) — The reflexive gap between explanation and understanding
+- [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/) — The reflexive gap between explanation and understanding
 - [argument-from-reason](/topics/argument-from-reason/) — The parallel self-defeat argument from rationality
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The phenomenal character of evaluation and thought
 - [functionalism](/concepts/functionalism/) — The dominant position pragmatism's reflexive argument undermines

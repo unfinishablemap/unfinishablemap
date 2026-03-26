@@ -29,7 +29,7 @@ related_articles:
 - '[[introspection]]'
 - '[[quantum-measurement-and-consciousness]]'
 - '[[knowledge-argument]]'
-- '[[consciousness-and-the-limits-of-explanation]]'
+- '[[consciousness-defeats-explanation]]'
 - '[[measurement-void]]'
 title: Consciousness and the Problem of Measurement Standards
 topics:
@@ -118,7 +118,7 @@ As the Map explores in [methodology-of-consciousness-research](/topics/methodolo
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
 - [knowledge-argument](/concepts/knowledge-argument/)
-- [consciousness-and-the-limits-of-explanation](/topics/consciousness-defeats-explanation/)
+- [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/)
 - [measurement-void](/voids/measurement-void/)
 
 ## References

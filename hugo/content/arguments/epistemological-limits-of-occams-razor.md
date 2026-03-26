@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-03-25 01:24:00+00:00
+ai_modified: 2026-03-26 15:51:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,7 +15,7 @@ description: Occam's Razor fails as an argument against dualism. Human-AI explor
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-04 07:52:00+00:00
+last_deep_review: 2026-03-26 15:51:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -46,7 +46,7 @@ Even granting that parsimony has some epistemic value, which dimension of simpli
 
 **Ontological parsimony**: fewer kinds of entities. Physicalism scores well here—one substance type rather than two.
 
-**Syntactic simplicity**: fewer or simpler theoretical principles. Here physicalism fares worse. Accommodating consciousness within a physicalist framework requires elaborate theoretical moves—functionalism, higher-order theories, [illusionism](/concepts/illusionism/)—each an alternative attempt to bridge the [explanatory gap](/concepts/explanatory-gap/), and each adding substantial theoretical machinery that the base physicalist ontology alone cannot supply.
+**Syntactic simplicity**: fewer or simpler theoretical principles. Here physicalism fares worse. Accommodating consciousness within a physicalist framework requires elaborate theoretical moves—[functionalism](/concepts/functionalism/), higher-order theories, [illusionism](/concepts/illusionism/)—each an alternative attempt to bridge the [explanatory gap](/concepts/explanatory-gap/), and each adding substantial theoretical machinery that the base physicalist ontology alone cannot supply.
 
 **Explanatory simplicity**: fewer unexplained brute facts. Dualism posits a non-physical aspect of reality but offers a straightforward account of why consciousness exists: because there is genuinely something non-physical going on. Physicalism must treat the existence of phenomenal experience as a brute fact about physical arrangements—something that just *happens* when matter is configured correctly, with no deeper explanation available.
 
@@ -117,6 +117,7 @@ The claim is narrower and more defensible: parsimony cannot settle the conscious
 - Huemer, M. (2009). "When Is Parsimony a Virtue?" *The Philosophical Quarterly* 59(235): 216-236.
 - Krizek, G. (2017). "Ockham's Razor and the Interpretations of Quantum Mechanics." arXiv:1701.06564.
 - Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly* 64: 354-361.
+- Quine, W. V. O. (1951). "Ontology and Ideology." *Philosophical Studies* 2(1): 11-15.
 - Lycan, W. G. (2009). "Giving Dualism its Due." *Australasian Journal of Philosophy* 87(4): 551-563.
 - Smart, J. J. C. (1959). "Sensations and Brain Processes." *The Philosophical Review* 68(2): 141-156.
 - Sober, E. (2001). "What Is the Problem of Simplicity?" In Keuzenkamp, McAleer, & Zellner (eds.), *Simplicity, Inference and Modelling*. Cambridge University Press.

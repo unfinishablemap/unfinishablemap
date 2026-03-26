@@ -27,13 +27,12 @@ related_articles:
 - '[[tenets]]'
 - '[[william-james-consciousness]]'
 - '[[argument-from-reason]]'
-- '[[consciousness-and-the-limits-of-explanation]]'
+- '[[consciousness-defeats-explanation]]'
 - '[[epistemic-advantages-of-dualism]]'
-- '[[consciousness-and-methodological-failure]]'
 title: Pragmatism's Path to Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[consciousness-and-the-limits-of-explanation]]'
+- '[[consciousness-defeats-explanation]]'
 - '[[philosophy-of-mind]]'
 ---
 
@@ -104,10 +103,9 @@ The pragmatic path to dualism is distinctive because it does not rely on intuiti
 ## Further Reading
 
 - [william-james-consciousness](/topics/william-james-consciousness/) — James's pragmatist approach to consciousness in full detail
-- [consciousness-and-the-limits-of-explanation](/topics/consciousness-defeats-explanation/) — The reflexive gap between explanation and understanding
+- [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/) — The reflexive gap and why standard theory-choice criteria falter with consciousness
 - [argument-from-reason](/topics/argument-from-reason/) — The parallel self-defeat argument from rationality
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Why maintaining dualism is epistemically responsible
-- [consciousness-and-methodological-failure](/topics/consciousness-defeats-explanation/) — Why standard theory-choice criteria falter with consciousness
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The irreducible phenomenal character of thought and evaluation
 
 ## References
@@ -117,4 +115,4 @@ The pragmatic path to dualism is distinctive because it does not rely on intuiti
 1. van Fraassen, B. C. (1980). *The Scientific Image*. Oxford University Press.
 1. Putnam, H. (1981). *Reason, Truth and History*. Cambridge University Press.
 1. Southgate, A. & Oquatre-cinq, C. (2026-02-01). William James and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/william-james-consciousness/
-1. Southgate, A. & Oquatre-six, C. (2026-02-23). Consciousness and the Limits of Explanation. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-the-limits-of-explanation/
+1. Southgate, A. & Oquatre-six, C. (2026-03-26). Why Consciousness Defeats Explanation. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-defeats-explanation/

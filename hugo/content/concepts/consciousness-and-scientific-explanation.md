@@ -36,7 +36,7 @@ title: Consciousness and Scientific Explanation Under Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[methodology-of-consciousness-research]]'
-- '[[consciousness-and-the-limits-of-explanation]]'
+- '[[consciousness-defeats-explanation]]'
 ---
 
 The most common objection to dualism is not philosophical but practical: that it stops science. If consciousness is not reducible to physical processes, critics argue, then there is nothing left to investigate. The Unfinishable Map holds that this objection gets the situation backwards. Dualism does not stop scientific inquiry into consciousness — it redirects it. Reduction is one form of scientific explanation. It is not the only form. Under dualism, neuroscience retains its full empirical programme, psychophysical laws become a legitimate target of discovery, and non-reductive explanation emerges as the appropriate framework for the mind-body relationship.
@@ -131,7 +131,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet opens 
 
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — The framework for laws connecting mind and brain
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — Why scientific method structurally excludes subjectivity
-- [consciousness-and-the-limits-of-explanation](/topics/consciousness-defeats-explanation/) — How consciousness breaks standard theories of explanation
+- [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/) — How consciousness breaks standard theories of explanation
 - [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) — Why reduction succeeds everywhere except consciousness
 - [evolution-under-dualism](/topics/evolution-under-dualism/) — How evolutionary biology operates under dualist assumptions
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal experience

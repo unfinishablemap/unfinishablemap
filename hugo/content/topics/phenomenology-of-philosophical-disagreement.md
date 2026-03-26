@@ -32,7 +32,7 @@ related_articles:
 - '[[phenomenology-of-framework-inhabitation]]'
 - '[[phenomenology-of-conceptual-change]]'
 - '[[phenomenology-of-intellectual-courage]]'
-- '[[consciousness-and-methodological-failure]]'
+- '[[consciousness-defeats-explanation]]'
 title: The Phenomenology of Philosophical Disagreement
 topics:
 - '[[phenomenology-of-understanding-and-meaning]]'
@@ -124,7 +124,7 @@ The Map's [Occam's Razor tenet](/tenets/#occams-limits) is also relevant. The ma
 - [phenomenology-of-framework-inhabitation](/topics/phenomenology-of-framework-inhabitation/) — How inhabiting a theoretical framework reshapes perception of evidence
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/) — What happens when the opposing framework actually takes hold
 - [phenomenology-of-intellectual-courage](/topics/phenomenology-of-intellectual-courage/) — The felt experience of maintaining conviction against peer disagreement
-- [consciousness-and-methodological-failure](/topics/consciousness-defeats-explanation/) — Why philosophy of mind has not converged despite millennia of effort
+- [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/) — Why philosophy of mind has not converged despite millennia of effort
 
 ## References
 

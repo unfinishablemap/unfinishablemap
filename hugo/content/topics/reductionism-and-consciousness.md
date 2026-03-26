@@ -34,7 +34,7 @@ related_articles:
 title: Reductionism and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[consciousness-and-methodological-failure]]'
+- '[[consciousness-defeats-explanation]]'
 ---
 
 Reductionism has been the most successful explanatory strategy in the history of science. Temperature reduces to molecular kinetic energy. Heredity reduces to DNA. Life itself reduces to biochemistry—no vital force required. Yet consciousness remains stubbornly irreducible. The Unfinishable Map argues this is not a temporary gap in scientific knowledge but a permanent feature of reality: consciousness is categorically different from everything else science has encountered.

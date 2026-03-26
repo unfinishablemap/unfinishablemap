@@ -37,7 +37,7 @@ related_articles:
 - '[[transparency-void]]'
 - '[[consciousness-and-testimony]]'
 - '[[consciousness-and-intersubjectivity]]'
-- '[[consciousness-and-the-limits-of-explanation]]'
+- '[[consciousness-defeats-explanation]]'
 title: The Intersubjective Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -156,7 +156,7 @@ Empathy has structural limits even at its best—it simulates rather than shares
 - [transparency-void](/voids/transparency-void/) — Why consciousness cannot verify its own accuracy
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/) — Testimony requires consciousness yet cannot fully convey it
 - [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) — Whether consciousness is constitutively shaped by encounter with other minds
-- [consciousness-and-the-limits-of-explanation](/topics/consciousness-defeats-explanation/) — Why explanation presupposes the phenomenal understanding that social epistemology cannot validate
+- [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/) — Why explanation presupposes the phenomenal understanding that social epistemology cannot validate
 - [commensurability-void](/voids/commensurability-void/) — When architectures diverge radically, comparison itself becomes structurally impossible—not merely difficult
 
 ## References

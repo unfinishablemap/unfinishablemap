@@ -137,7 +137,7 @@ The Map's honest assessment: the epistemology of mechanism at the interface is c
 - [mental-causation](/concepts/mental-causation/) — The broader case for consciousness causing physical effects
 - [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/) — From Descartes to contemporary quantum approaches
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — When and how convergence carries evidential weight
-- [consciousness-and-the-limits-of-explanation](/topics/consciousness-defeats-explanation/) — Why consciousness breaks standard explanatory frameworks
+- [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/) — Why consciousness breaks standard explanatory frameworks
 - [causal-interface](/voids/causal-interface/) — The void at the point where consciousness meets matter
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the candidate site for consciousness-physics interaction
 

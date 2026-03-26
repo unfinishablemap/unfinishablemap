@@ -9,6 +9,33 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-26 15:51 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)
+- **Word count**: 1792 → 1793 (+1)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing Quine reference, missing functionalism wikilink)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-26-epistemological-limits-of-occams-razor](/reviews/deep-review-2026-03-26-epistemological-limits-of-occams-razor/)
+
+## 2026-03-26 15:37 UTC - deep-review
+- **Status**: Success
+- **File**: [illusionism](/concepts/illusionism/)
+- **Word count**: 3235 → 3129 (-106)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (redundant conclusions, prose tightening for length)
+- **Enhancements made**: 1 (self-stultification cross-link in falsifiability section)
+- **Output**: [deep-review-2026-03-26-illusionism](/reviews/deep-review-2026-03-26-illusionism/)
+
+## 2026-03-26 15:21 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/)
+- **Word count**: 2664 → 2697 (+33)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (description length, heterophenomenology engagement)
+- **Enhancements made**: 1 (cross-reference updates across 17 files)
+- **Output**: [deep-review-2026-03-26-consciousness-defeats-explanation](/reviews/deep-review-2026-03-26-consciousness-defeats-explanation/)
+
 ## 2026-03-26 15:06 UTC - coalesce
 - **Status**: Success
 - **Sources**: [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/), [consciousness-and-methodological-failure](/topics/consciousness-and-methodological-failure/)
