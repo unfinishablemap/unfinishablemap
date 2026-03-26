@@ -5,6 +5,15 @@ ai_modified: 2026-03-26T17:22:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 17:56 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/experimental-consciousness-science-2025-2026]]
+- **Word count**: 1929 → 1985 (+56)
+- **Critical issues addressed**: 1 (broken [[consciousness-measurement-problem]] wikilink)
+- **Medium issues addressed**: 3 (split-brain claim hedging, Keppler energy gap caveat, missing cross-links)
+- **Enhancements made**: 6 (framework-void connection, psychedelics cross-link, decoherence link, NCC link, expanded Further Reading, updated related_articles)
+- **Output**: [[reviews/deep-review-2026-03-26-experimental-consciousness-science-2025-2026]]
+
 ## 2026-03-26 17:41 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/neural-correlates-of-consciousness]]
