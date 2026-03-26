@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Resolve 18 broken wikilinks to epistemological-limits-of-occams-razor
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: 18 content files reference `[[epistemological-limits-of-occams-razor]]` which has no page. Directly supports Tenet 5 (Occam's Razor Has Limits). Investigate whether these should link to existing `parsimony-epistemology.md` or another page, and update wikilinks accordingly. If no suitable target exists and the concept is distinct, create a concept page (concepts/ has 3 slots remaining).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-26
-
 ### P2: Deep review self-opacity.md after coalesce
 - **Type**: deep-review
 - **Status**: pending
@@ -1452,6 +1445,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Resolve 18 broken wikilinks to epistemological-limits-of-occams-razor
+- **Type**: refine-draft
+- **Notes**: 18 content files reference `[[epistemological-limits-of-occams-razor]]` which has no page. Directly supports Tenet 5 (Occam's Razor Has Limits). Investigate whether these should link to existing `parsimony-epistemology.md` or another page, and update wikilinks accordingly. If no suitable target exists and the concept is distinct, create a concept page (concepts/ has 3 slots remaining).
+- **Output**: Task context:
+18 content files reference `[[epistemological-limits-of-occams-razor]]` which has no page. Directly supports Tenet 5 (Occam's Razor Has Limits). Investigate whether these should link to existing `parsimony-epistemology.md` or another page, and update wikilinks accordingly. If no suitable target exists and the concept is distinct, create a concept page (concepts/ has 3 slots remaining).
 
 ### ✓ 2026-03-26: Cross-review articles related to indexical-knowledge-and-identity updates
 - **Type**: cross-review

@@ -5,6 +5,11 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 02:02 UTC - refine-draft (invalid)
+- **Status**: No action needed
+- **Task**: Resolve 18 broken wikilinks to epistemological-limits-of-occams-razor
+- **Reason**: Not broken. `obsidian/arguments/epistemological-limits-of-occams-razor.md` exists and syncs correctly to Hugo. Gap analysis false positive — same issue was previously identified and dismissed (changelog 2026-W12). Task marked invalid in todo.md.
+
 ## 2026-03-26 01:54 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 228 topics, 112 concepts, tenets (340 published articles total)
