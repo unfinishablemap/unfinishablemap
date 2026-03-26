@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review consciousness-and-intelligence.md after coalesce
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Coalesced from consciousness-and-intelligence.md + consciousness-threshold-in-cognitive-evolution.md on 2026-03-25. References updated in 19 files. Verify merged content is coherent, threshold arguments from the absorbed article are preserved, and cross-references to consciousness-as-amplifier and baseline-cognition are correct.
-- **Source**: task_chain (coalesce)
-- **Generated**: 2026-03-26
-
 ### P2: Deep review parsimony-epistemology.md after coalesce
 - **Type**: deep-review
 - **Status**: pending
@@ -1438,6 +1431,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Deep review consciousness-and-intelligence.md after coalesce
+- **Type**: deep-review
+- **Notes**: Coalesced from consciousness-and-intelligence.md + consciousness-threshold-in-cognitive-evolution.md on 2026-03-25. References updated in 19 files. Verify merged content is coherent, threshold arguments from the absorbed article are preserved, and cross-references to consciousness-as-amplifier and baseline-cognition are correct.
+- **Output**: obsidian/topics/consciousness-and-intelligence.md
 
 ### ✓ 2026-03-26: Deep review self-opacity.md after coalesce
 - **Type**: deep-review
