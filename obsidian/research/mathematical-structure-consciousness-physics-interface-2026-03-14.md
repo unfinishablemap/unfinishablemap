@@ -5,12 +5,12 @@ draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-14
-ai_modified: 2026-03-14T18:59:00+00:00
+ai_modified: 2026-03-26T05:16:00+00:00
 human_modified:
 modified: 2026-03-14
 description: "Research on mathematical formalisms for the consciousness-physics interface: operator structures, collapse mechanisms, Hilbert space models, and why the Born rule's squared-amplitude form may encode interface constraints."
 topics:
-  - "[[quantum-measurement-consciousness-interface]]"
+  - "[[quantum-measurement-and-consciousness]]"
   - "[[the-measurement-problem-as-philosophical-problem]]"
   - "[[philosophical-stakes-of-spontaneous-collapse]]"
 concepts:

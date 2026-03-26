@@ -5,6 +5,12 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 05:16 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[pain-asymbolia]], [[self-reference-and-the-limits-of-physical-description]], [[contemplative-practice-as-philosophical-evidence]], [[quantum-neural-mechanisms-and-coherence]], [[trilemma-of-selection]], 3 research files
+- **Changes**: Fixed 9 broken wikilinks across 8 content files. Redirected: `[[why-pain-hurts]]` → `[[pain-consciousness-and-causal-power]]`, `[[quantum-measurement-consciousness-interface]]` → `[[quantum-measurement-and-consciousness]]` (4 files), `[[contemplative-verification-of-consciousness-theories]]` → `[[contemplative-epistemology]]`, `[[topics/quantum-binding-and-phenomenal-unity]]` → `[[quantum-holism-and-phenomenal-unity]]`, `[[topics/attention-as-selection-interface]]` → `[[attention-and-the-consciousness-interface]]`. Cleaned up duplicate entries created by redirects.
+- **Published**: yes
+
 ## 2026-03-26 05:02 UTC - refine-draft
 - **Status**: Success
 - **Files**: [[self-reference-paradox]], [[arguments-against-materialism]]

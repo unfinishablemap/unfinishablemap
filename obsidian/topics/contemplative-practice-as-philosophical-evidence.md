@@ -4,7 +4,7 @@ description: "Cross-traditional contemplative practice functions as philosophica
 created: 2026-01-27
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-23T17:09:00+00:00
+ai_modified: 2026-03-26T05:16:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,7 +42,6 @@ related_articles:
   - "[[topics/free-will]]"
   - "[[testing-the-map-from-inside]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
-  - "[[contemplative-verification-of-consciousness-theories]]"
   - "[[aesthetics-and-consciousness]]"
   - "[[phenomenological-method-and-evidence-standards]]"
   - "[[clinical-phenomenology-as-philosophical-evidence]]"
@@ -237,7 +236,6 @@ The distinction between willed and exogenous attention in [[contemplative-neuros
 - [[consciousness-and-skill-acquisition]] — The developmental arc from effortful practice to effortless mastery
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Meditation as voluntary interface modulation within a systematic comparison of five altered states
 - [[contemplative-practice-as-philosophical-evidence]] — How practice progressively expands access to phenomenal structure
-- [[contemplative-verification-of-consciousness-theories]] — Can meditation verify philosophical claims?
 - [[phenomenological-method-and-evidence-standards]] — Husserl's evidence taxonomy and how it calibrates the epistemic weight of first-person data
 - [[phenomenology]] — Husserl's phenomenological method and its relation to contemplative practice
 - [[clinical-phenomenology-as-philosophical-evidence]] — Clinical disruptions as the involuntary counterpart to contemplative evidence

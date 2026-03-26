@@ -4,7 +4,7 @@ description: "Five neural quantum mechanisms, four coherence protection strategi
 created: 2026-01-18
 modified: 2026-02-18
 human_modified: null
-ai_modified: 2026-03-24T16:34:00+00:00
+ai_modified: 2026-03-26T05:16:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ related_articles:
   - "[[quantum-biology-neural-mechanisms-2026-01-24]]"
   - "[[quantum-superposition-brain-consciousness-2026-01-18]]"
   - "[[neural-binding-quantum-entanglement-2026-01-19]]"
-  - "[[topics/quantum-binding-and-phenomenal-unity]]"
+  - "[[quantum-holism-and-phenomenal-unity]]"
   - "[[integrated-information-theory]]"
 ai_contribution: 100
 author: null
@@ -197,7 +197,7 @@ The assumption that warm biology must be classical turned out false. [[quantum-b
 - [[quantum-biology]] — Established quantum effects in living systems
 - [[topics/quantum-neural-timing-constraints]] — The timing hierarchy from femtosecond decoherence to 300ms neural decisions
 - [[decoherence]] — The decoherence challenge in detail
-- [[topics/quantum-binding-and-phenomenal-unity]] — Quantum entanglement and the binding problem
+- [[quantum-holism-and-phenomenal-unity]] — Quantum entanglement and the binding problem
 - [[topics/comparing-quantum-consciousness-mechanisms]] — Side-by-side comparison of Orch OR, QBIT, Stapp, Fisher, and others
 - [[topics/empirical-evidence-for-consciousness-selecting]] — The experimental case for consciousness selecting among quantum outcomes
 - [[quantum-biology-and-neural-consciousness]] — Quantum biology, neural evidence convergence, and the consciousness debate

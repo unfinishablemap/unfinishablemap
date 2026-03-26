@@ -4,7 +4,7 @@ description: "At any decision point involving genuine indeterminacy, exactly thr
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-03-26T05:16:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -23,7 +23,7 @@ concepts:
   - "[[quantum-consciousness]]"
 related_articles:
   - "[[tenets]]"
-  - "[[topics/attention-as-selection-interface]]"
+  - "[[attention-and-the-consciousness-interface]]"
   - "[[consciousness-and-causal-powers]]"
   - "[[concept-of-free-will]]"
 ai_contribution: 100
@@ -130,7 +130,7 @@ The trilemma connects to each of the five [[tenets]]:
 ## Further Reading
 
 - [[topics/free-will]] — The broader case for agent-causal libertarian free will
-- [[topics/attention-as-selection-interface]] — The neural architecture where selection occurs
+- [[attention-and-the-consciousness-interface]] — The neural architecture where selection occurs
 - [[quantum-indeterminacy-free-will]] — How quantum mechanics creates space for mental causation
 - [[luck-objection]] — The central challenge the trilemma's second horn makes vivid
 - [[reasons-responsiveness]] — Why reasons-guided selection escapes the luck objection

@@ -4,10 +4,9 @@ description: "Pain asymbolia dissociates nociceptive sensation from affective su
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-19T10:22:00+00:00
+ai_modified: 2026-03-26T05:16:00+00:00
 draft: false
 topics:
-  - "[[why-pain-hurts]]"
   - "[[pain-consciousness-and-causal-power]]"
 concepts:
   - "[[qualia]]"
@@ -94,7 +93,6 @@ Together, these dissociations show that pain's dimensions can be independently m
 ## Further Reading
 
 - [[pain-consciousness-and-causal-power]] — Pain, suffering, and the paradigm case for mental causation
-- [[why-pain-hurts]] — Pain's phenomenal character and resistance to reduction
 - [[valence]] — The affective dimension that asymbolia abolishes
 - [[philosophical-zombies]] — The thought experiment that asymbolia partially instantiates
 - [[hard-problem-of-consciousness]] — The explanatory gap that asymbolia exposes in miniature

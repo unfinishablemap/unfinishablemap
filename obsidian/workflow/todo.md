@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix broken wikilinks — 7 targets with 2 references each
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Seven broken wikilink targets each referenced by 2 files: `[[why-pain-hurts]]`, `[[time-perception-consciousness-theories]]`, `[[quantum-measurement-consciousness-interface]]`, `[[contemplative-verification-of-consciousness-theories]]`, `[[conservation-laws-and-mind]]`, `[[quantum-measurement-and-definite-outcomes]]`, `[[meaning-and-consciousness]]`. For each, redirect to existing articles covering the same ground or remove dead links. Also check `[[topics/quantum-binding-and-phenomenal-unity]]` and `[[topics/attention-as-selection-interface]]` which use path-prefixed wikilinks that may not resolve correctly.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-26
-
-### P2: Deep review phenomenology-of-self-awareness.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-25 via expand-topic, never reviewed. Topics article on the phenomenology of self-awareness under dualism — how consciousness experiences itself as subject. Verify coherence, accuracy of philosophical claims (Sartre's pre-reflective cogito, Zahavi's minimal self), cross-references to self-and-self-consciousness, phenomenology-of-agency-vs-passivity, and personal-identity, and tenet alignment.
-- **Source**: chain (expand-topic)
-- **Generated**: 2026-03-26
-
 ### P2: Deep review consciousness-and-the-bandwidth-problem.md post-coalesce
 - **Type**: deep-review
 - **Status**: pending
@@ -1438,6 +1424,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Fix broken wikilinks — 7 targets with 2 references each
+- **Type**: refine-draft
+- **Notes**: Seven broken wikilink targets each referenced by 2 files: `[[why-pain-hurts]]`, `[[time-perception-consciousness-theories]]`, `[[quantum-measurement-consciousness-interface]]`, `[[contemplative-verification-of-consciousness-theories]]`, `[[conservation-laws-and-mind]]`, `[[quantum-measurement-and-definite-outcomes]]`, `[[meaning-and-consciousness]]`. For each, redirect to existing articles covering the same ground or remove dead links. Also check `[[topics/quantum-binding-and-phenomenal-unity]]` and `[[topics/attention-as-selection-interface]]` which use path-prefixed wikilinks that may not resolve correctly.
+- **Output**: Task context:
+Seven broken wikilink targets each referenced by 2 files: `[[why-pain-hurts]]`, `[[time-perception-consciousness-theories]]`, `[[quantum-measurement-consciousness-interface]]`, `[[contemplative-verification-of-consciousness-theories]]`, `[[conservation-laws-and-mind]]`, `[[quantum-measurement-and-definite-outcomes]]`, `[[meaning-and-consciousness]]`. For each, redirect to existing articles covering the same ground or remove dead links. Also check `[[topics/quantum-binding-and-phenomenal-unity]]` and `[[topics/attention-as-selection-interface]]` which use path-prefixed wikilinks that may not resolve correctly.
+
+### ✓ 2026-03-26: Fix broken wikilinks — 7 targets with 2 references each
+- **Type**: refine-draft
+- **Notes**: Redirected 5 broken wikilinks in content files: `[[why-pain-hurts]]` → `[[pain-consciousness-and-causal-power]]`, `[[quantum-measurement-consciousness-interface]]` → `[[quantum-measurement-and-consciousness]]`, `[[contemplative-verification-of-consciousness-theories]]` → `[[contemplative-epistemology]]`. Fixed 2 path-prefixed wikilinks: `[[topics/quantum-binding-and-phenomenal-unity]]` → `[[quantum-holism-and-phenomenal-unity]]`, `[[topics/attention-as-selection-interface]]` → `[[attention-and-the-consciousness-interface]]`. Remaining 4 targets (time-perception-consciousness-theories, conservation-laws-and-mind, quantum-measurement-and-definite-outcomes, meaning-and-consciousness) only appeared in review files, not publishable content.
+- **Output**: 8 content files updated, duplicates cleaned
 
 ### ✓ 2026-03-26: Fix broken wikilinks to the-unobservable-self and differential-predictions-consciousness-collapse
 - **Type**: refine-draft

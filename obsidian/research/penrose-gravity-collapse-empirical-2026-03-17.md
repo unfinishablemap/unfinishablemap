@@ -3,12 +3,12 @@ title: Research Notes - Penrose Gravity-Collapse Connection and Empirical Prospe
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T01:00:00+00:00
+ai_modified: 2026-03-26T05:16:00+00:00
 draft: false
 topics:
   - "[[philosophical-stakes-of-spontaneous-collapse]]"
   - "[[qm-interpretations-beyond-many-worlds]]"
-  - "[[quantum-measurement-consciousness-interface]]"
+  - "[[quantum-measurement-and-consciousness]]"
 concepts:
   - "[[quantum-consciousness]]"
   - "[[spontaneous-collapse-theories]]"
