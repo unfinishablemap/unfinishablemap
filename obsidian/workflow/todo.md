@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on consciousness during general anesthesia and filter theory
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Distinct from existing anaesthesia-and-the-consciousness-interface.md (which covers the interface broadly). This article should focus on filter/transmission theory evidence from anesthesia: awareness under anesthesia, connected consciousness during sedation, and how these findings support the filter model over the production model. Target section: topics/ (226/230, 4 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-26
-
 ### P2: Cross-review self-awareness articles considering phenomenology-of-self-awareness
 - **Type**: cross-review
 - **Status**: pending
@@ -1480,6 +1473,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Write article on consciousness during general anesthesia and filter theory
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Distinct from existing anaesthesia-and-the-consciousness-interface.md (which covers the interface broadly). This article should focus on filter/transmission theory evidence from anesthesia: awareness under anesthesia, connected consciousness during sedation, and how these findings support the filter model over the production model. Target section: topics/ (226/230, 4 slots remaining).
+- **Output**: consciousness during general anesthesia and filter theory
 
 ### ✓ 2026-03-26: Fix broken section anchors in quantum-consciousness.md and intentionality.md
 - **Type**: refine-draft

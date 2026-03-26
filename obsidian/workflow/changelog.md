@@ -5,6 +5,13 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 08:03 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Anaesthetic Recovery and the Filter Problem
+- **Output**: [[anaesthetic-recovery-and-the-filter-problem]]
+- **Word count**: 2082
+- **Based on research**: yes — [[consciousness-anesthesia-filter-theory-2026-03-20]] and [[anaesthetic-recovery-neuroscience-2026-03-26]]
+
 ## 2026-03-26 07:55 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 455 non-draft files (227 topics, 227 concepts, 1 tenet). Deep sampling of 20 articles across phenomenological, ethical, clinical, and argumentative clusters.
