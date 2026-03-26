@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address filter theory's unfalsifiable prediction structure
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found that filter-theory.md claims distinctive predictions (disruption sometimes enhances experience) but provides no independent criteria for when enhancement vs. degradation should occur. The terminal lucidity evidence (Batthyány & Greyson 2020) is overstated due to selection bias in retrospective case collections. The engram research citation (Josselyn & Tonegawa 2020) is tendentiously read as supporting filter theory. See pessimistic-2026-03-26.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-26
-
 ### P3: Clarify downward causation timing gap severity
 - **Type**: refine-draft
 - **Status**: pending
@@ -1425,6 +1418,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Address filter theory's unfalsifiable prediction structure
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that filter-theory.md claims distinctive predictions (disruption sometimes enhances experience) but provides no independent criteria for when enhancement vs. degradation should occur. The terminal lucidity evidence (Batthyány & Greyson 2020) is overstated due to selection bias in retrospective case collections. The engram research citation (Josselyn & Tonegawa 2020) is tendentiously read as supporting filter theory. See pessimistic-2026-03-26.md
+- **Output**: Task context:
+Pessimistic review found that filter-theory.md claims distinctive predictions (disruption sometimes enhances experience) but provides no independent criteria for when enhancement vs. degradation should occur. The terminal lucidity evidence (Batthyány & Greyson 2020) is overstated due to selection bias in retrospective case collections. The engram research citation (Josselyn & Tonegawa 2020) is tendentiously read as supporting filter theory. See pessimistic-2026-03-26.md
 
 ### ✓ 2026-03-26: Deep review obviousness-void.md
 - **Type**: deep-review

@@ -5,6 +5,12 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 12:02 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/filter-theory]]
+- **Changes**: Qualified unfalsifiable prediction structure, added selection bias caveat to terminal lucidity evidence, corrected tendentious engram research reading
+- **Published**: yes
+
 ## 2026-03-26 11:48 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/obviousness-void]]
