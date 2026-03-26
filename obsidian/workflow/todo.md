@@ -79,6 +79,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: task_chain (expand-topic)
 - **Generated**: 2026-03-26
 
+### P3: Address filter theory's unfalsifiable prediction structure
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found that filter-theory.md claims distinctive predictions (disruption sometimes enhances experience) but provides no independent criteria for when enhancement vs. degradation should occur. The terminal lucidity evidence (Batthyány & Greyson 2020) is overstated due to selection bias in retrospective case collections. The engram research citation (Josselyn & Tonegawa 2020) is tendentiously read as supporting filter theory. See pessimistic-2026-03-26.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-26
+
+### P3: Clarify downward causation timing gap severity
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found that downward-causation.md acknowledges a three-order-of-magnitude timing gap between optimistic coherence estimates and neural decisions but then pivots to the Zeno mechanism without specifying how it bridges this gap. The "no energy injection" claim needs qualification for non-degenerate energy outcomes. Hameroff's revised coherence estimates lack citation. See pessimistic-2026-03-26.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-26
+
 ### P3: Create concept page for pragmatism
 - **Type**: expand-topic
 - **Status**: pending
