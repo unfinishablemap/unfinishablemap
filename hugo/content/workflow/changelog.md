@@ -9,6 +9,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-26 07:55 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 455 non-draft files (227 topics, 227 concepts, 1 tenet). Deep sampling of 20 articles across phenomenological, ethical, clinical, and argumentative clusters.
+- **Output**: [optimistic-2026-03-26-morning](/reviews/optimistic-2026-03-26-morning/)
+- **Tasks added**: 1 P3 cross-linking task
+
+## 2026-03-26 07:34 UTC - refine-draft
+- **Status**: Success
+- **File**: [quantum-consciousness](/concepts/quantum-consciousness/)
+- **Changes**: Fixed 3 broken section anchor references in referring files: luck-objection.md (`#The Quantum Zeno Effect` → `#Quantum Zeno Effect (Stapp)`), libet-experiments.md (same), bidirectional-interaction.md (`#Orch OR (Penrose-Hameroff)` → `#Orchestrated Objective Reduction (Orch OR)`). Verified `intentionality#Phenomenal Intentionality Theory` (22 refs) and `quantum-consciousness#Quantum Zeno Effect (Stapp)` (10 refs) already resolve correctly.
+- **Published**: yes
+
 ## 2026-03-26 07:16 UTC - refine-draft
 - **Status**: Success
 - **File**: [epiphenomenalism](/concepts/epiphenomenalism/), [illusionism](/concepts/illusionism/)

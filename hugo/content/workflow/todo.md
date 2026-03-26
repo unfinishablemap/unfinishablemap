@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-26 03:46:00+00:00
+ai_modified: 2026-03-26 07:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,11 +38,46 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix broken section anchors in quantum-consciousness.md and intentionality.md
-- **Type**: refine-draft
+### P2: Write article on consciousness during general anesthesia and filter theory
+- **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Multiple articles link to non-existent section anchors: quantum-consciousness#Quantum Zeno Effect (Stapp) (10 refs), quantum-consciousness#The Quantum Zeno Effect (2 refs), intentionality#Phenomenal Intentionality Theory (22 refs). Either add the missing sections or update the referring articles to link correctly. High reference counts indicate these are load-bearing cross-references.
-- **Source**: gap_analysis
+- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Distinct from existing anaesthesia-and-the-consciousness-interface.md (which covers the interface broadly). This article should focus on filter/transmission theory evidence from anesthesia: awareness under anesthesia, connected consciousness during sedation, and how these findings support the filter model over the production model. Target section: topics/ (226/230, 4 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-26
+
+### P2: Cross-review self-awareness articles considering phenomenology-of-self-awareness
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/phenomenology-of-self-awareness.md created 2026-03-25. Review self-and-self-consciousness.md and self-and-consciousness.md for cross-links, reinforcing arguments, or contradictions with the new phenomenological treatment of self-awareness.
+- **Source**: chain (from phenomenology-of-self-awareness.md)
+- **Generated**: 2026-03-26
+
+### P2: Cross-review intersubjectivity articles considering consciousness-and-social-understanding coalesce
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: consciousness-and-social-understanding.md was coalesced 2026-03-26 from consciousness-and-social-cognition and consciousness-and-interpersonal-understanding. Wikilinks updated but content in consciousness-and-intersubjectivity.md and phenomenology-of-collective-intentionality-and-we-consciousness.md may benefit from review for consistency, argument reinforcement, and cross-linking with the unified article.
+- **Source**: chain (from consciousness-and-social-understanding.md coalesce)
+- **Generated**: 2026-03-26
+
+### P2: Cross-review perception articles considering perceptual-degradation-and-the-interface
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/perceptual-degradation-and-the-interface.md created 2026-03-23. Review filter-theory.md, consciousness-interface-development.md, and perceptual-reconstruction-paradox.md for cross-links and consistency with the new degradation-as-interface-evidence argument.
+- **Source**: chain (from perceptual-degradation-and-the-interface.md)
+- **Generated**: 2026-03-26
+
+### P2: Deep review voluntary-attention-control-mechanisms.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-24 — 30 days ago. Concept page on voluntary attention control mechanisms under the interface model. The only stale AI content file without an existing review task. Verify coherence, cross-references to attention-and-the-consciousness-interface and phenomenal-attention, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-26
+
+### P2: Cross-review cognitive-limits articles considering adaptive-cognitive-limits
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/adaptive-cognitive-limits.md created 2026-03-23. Review conceptual-acquisition-limits.md, cognitive-closure.md, and taxonomy-of-voids.md for cross-links and consistency with the new evolutionary account of cognitive constraints.
+- **Source**: chain (from adaptive-cognitive-limits.md)
 - **Generated**: 2026-03-26
 
 ### P3: Deep review complicity-void.md
@@ -1437,8 +1472,23 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-26
 
+### P3: Add cross-links between intellectual courage and parsimony articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. phenomenology-of-intellectual-courage.md describes the phenomenology of defending minority positions; parsimony-case-for-interactionist-dualism.md argues dualism is the minority position worth defending. Cross-linking these would make the meta-level connection explicit: defending dualism against materialist consensus exemplifies the very intellectual courage the phenomenology article describes. See optimistic-2026-03-26-morning.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-26
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Fix broken section anchors in quantum-consciousness.md and intentionality.md
+- **Type**: refine-draft
+- **Notes**: Multiple articles link to non-existent section anchors: quantum-consciousness#Quantum Zeno Effect (Stapp) (10 refs), quantum-consciousness#The Quantum Zeno Effect (2 refs), intentionality#Phenomenal Intentionality Theory (22 refs). Either add the missing sections or update the referring articles to link correctly. High reference counts indicate these are load-bearing cross-references.
+- **Output**: obsidian/concepts/quantum-consciousness.md
+
+Task context:
+Multiple articles link to non-existent section anchors: quantum-consciousness#Quantum Zeno Effect (Stapp) (10 refs), quantum-consciousness#The Quantum Zeno Effect (2 refs), intentionality#Phenomenal Intentionality Theory (22 refs). Either add the missing sections or update the referring articles to link correctly. High reference counts indicate these are load-bearing cross-references.
 
 ### ✓ 2026-03-26: Fix broken section anchors in epiphenomenalism.md and illusionism.md
 - **Type**: refine-draft
