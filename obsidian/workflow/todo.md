@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review self-awareness articles considering phenomenology-of-self-awareness
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/phenomenology-of-self-awareness.md created 2026-03-25. Review self-and-self-consciousness.md and self-and-consciousness.md for cross-links, reinforcing arguments, or contradictions with the new phenomenological treatment of self-awareness.
-- **Source**: chain (from phenomenology-of-self-awareness.md)
-- **Generated**: 2026-03-26
-
 ### P2: Cross-review intersubjectivity articles considering consciousness-and-social-understanding coalesce
 - **Type**: cross-review
 - **Status**: pending
@@ -1473,6 +1466,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Cross-review self-awareness articles considering phenomenology-of-self-awareness
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenology-of-self-awareness.md created 2026-03-25. Review self-and-self-consciousness.md and self-and-consciousness.md for cross-links, reinforcing arguments, or contradictions with the new phenomenological treatment of self-awareness.
+- **Output**: None -- Context: Cross-review self-awareness articles considering phenomenology-of-self-awareness
 
 ### ✓ 2026-03-26: Write article on consciousness during general anesthesia and filter theory
 - **Type**: expand-topic

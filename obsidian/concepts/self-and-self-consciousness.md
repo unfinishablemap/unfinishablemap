@@ -4,7 +4,7 @@ description: "The minimal self is not added to consciousness but is its very for
 created: 2026-01-14
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-03-23T22:30:00+00:00
+ai_modified: 2026-03-26T08:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,6 +39,7 @@ related_articles:
   - "[[indexical-void]]"
   - "[[cognitive-integration-and-the-self]]"
   - "[[consciousness-and-memory]]"
+  - "[[phenomenology-of-self-awareness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -110,7 +111,7 @@ The mirror self-recognition test (Gallup, 1970) provides a behavioural marker: g
 
 [[baseline-cognition|Baseline cognition]] research supports this: great apes demonstrate procedural [[metacognition]] — adjusting behaviour based on uncertainty — without representing themselves *as beings who have cognitive states*. This gap between procedural metacognition and genuine self-consciousness may be where reflective self-consciousness enters.
 
-The comparative picture suggests self-consciousness has degrees. Pre-reflective self-consciousness may be widespread; reflective self-consciousness far more restricted. Full recursive self-consciousness may be uniquely human, and as the [[self-opacity|phenomenology of self-awareness]] reveals, even human self-consciousness encounters structural limits at deep recursion.
+The comparative picture suggests self-consciousness has degrees. Pre-reflective self-consciousness may be widespread; reflective self-consciousness far more restricted. Full recursive self-consciousness may be uniquely human, and as the [[phenomenology-of-self-awareness|phenomenology of self-awareness]] reveals, even human self-consciousness encounters structural limits at deep recursion.
 
 ## Metzinger's Challenge
 
@@ -174,7 +175,7 @@ If dissociation cases revealed genuinely anonymous experiences — content exper
 - [[the-self-minimal-narrative-and-substantial]] — Three conceptions of selfhood
 - [[buddhism-and-dualism]] — Buddhist no-self and the Map's irreducibility thesis
 - [[consciousness-and-memory]] — How memory systems map onto levels of consciousness
-- [[self-opacity|phenomenology of self-awareness]] — What self-awareness feels like from the inside
+- [[phenomenology-of-self-awareness]] — What self-awareness feels like from the inside: the transformation thesis, experiential signatures, and contemplative evidence
 - [[galilean-exclusion]] — Why science's founding methodology excludes what self-consciousness is
 - [[ownership-void]] — Why the for-me-ness of experience hides its own ground
 - [[personal-identity]] — How the self persists over time

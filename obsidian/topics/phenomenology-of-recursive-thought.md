@@ -4,7 +4,7 @@ description: "When thought takes itself as object, distinctive phenomenal struct
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-03-23T19:59:00+00:00
+ai_modified: 2026-03-26T08:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,7 @@ related_articles:
   - "[[tenets]]"
   - "[[cognitive-phenomenology-thinking-experience-2026-01-17]]"
   - "[[self-reference-and-the-limits-of-physical-description]]"
+  - "[[phenomenology-of-self-awareness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
@@ -150,6 +151,7 @@ The phenomenology of recursive thought suggests several conclusions:
 - [[higher-order-theories]] — Theories that make recursion central to consciousness
 - [[introspection]] — The reliability and limits of self-examination
 - [[witness-consciousness]] — Contemplative phenomenology of observing without identification
+- [[phenomenology-of-self-awareness]] — The transformation thesis: how the first level of recursive self-awareness produces the most dramatic qualitative shift
 - [[self-and-self-consciousness]] — The minimal self and its relation to recursive awareness
 - [[downward-causation]] — How consciousness might influence physical processes
 - [[temporal-consciousness]] — The specious present and temporal thickness that recursive thought requires

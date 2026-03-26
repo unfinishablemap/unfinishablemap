@@ -5,6 +5,19 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 08:17 UTC - deep-review (cross-review)
+- **Status**: Success
+- **Context**: Cross-review self-awareness articles considering phenomenology-of-self-awareness
+- **Files modified**: 5 articles
+  - [[concepts/self-and-self-consciousness]] — fixed 2 misdirected links (`[[self-opacity|phenomenology of self-awareness]]` → `[[phenomenology-of-self-awareness]]`), added to related_articles
+  - [[topics/the-self-minimal-narrative-and-substantial]] — added cross-reference
+  - [[topics/social-construction-of-self-vs-phenomenal-self]] — added cross-reference
+  - [[topics/cognitive-integration-and-the-self]] — added cross-reference
+  - [[topics/phenomenology-of-recursive-thought]] — added cross-reference
+- **Critical issues addressed**: 1 (misdirected links in self-and-self-consciousness)
+- **Cross-links added**: 5
+- **Output**: [[reviews/deep-review-2026-03-26-cross-review-self-awareness]]
+
 ## 2026-03-26 08:03 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Anaesthetic Recovery and the Filter Problem

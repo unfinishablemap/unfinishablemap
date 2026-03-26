@@ -4,7 +4,7 @@ description: "Two accounts of selfhood compete: social construction (self as cul
 created: 2026-02-12
 modified: 2026-02-16
 human_modified:
-ai_modified: 2026-03-23T21:43:00+00:00
+ai_modified: 2026-03-26T08:17:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -32,6 +32,7 @@ related_articles:
   - "[[embodied-consciousness-and-the-interface]]"
   - "[[methodology-of-consciousness-research]]"
   - "[[consciousness-and-intersubjectivity]]"
+  - "[[phenomenology-of-self-awareness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -122,6 +123,7 @@ This analysis connects to the Map's foundational commitments at multiple points.
 - [[self-opacity|self-reference paradox]] — Why the phenomenal self resists its own introspective gaze
 - [[haecceity]] — Primitive thisness and why qualitative identity is insufficient
 - [[inaccessible-past]] — The reconstructive nature of autobiographical memory
+- [[phenomenology-of-self-awareness]] — How self-awareness transforms consciousness, generating capacities social construction operates upon but cannot produce
 - [[contemplative-practice-as-philosophical-evidence]] — Meditative phenomenology as evidence for the persistence of the phenomenal self
 - [[embodied-consciousness-and-the-interface]] — The lived body as pre-social foundation for phenomenal selfhood
 - [[methodology-of-consciousness-research]] — Why constructionism's third-person methodology misses the phenomenal self

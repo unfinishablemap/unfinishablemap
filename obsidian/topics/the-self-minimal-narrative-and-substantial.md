@@ -4,7 +4,7 @@ description: "What kind of thing are you? Three answers compete—bare perspecti
 created: 2026-02-08
 modified: 2026-02-08
 human_modified:
-ai_modified: 2026-03-25T18:47:00+00:00
+ai_modified: 2026-03-26T08:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,6 +31,7 @@ related_articles:
   - "[[death-and-consciousness]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]"
+  - "[[phenomenology-of-self-awareness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -153,6 +154,7 @@ The three-layered self connects directly to the Map's foundational commitments.
 
 ## Further Reading
 
+- [[phenomenology-of-self-awareness]] — How self-awareness transforms consciousness: the experiential signatures that distinguish self-aware from merely conscious beings
 - [[self-and-self-consciousness]] — The minimal self as structural feature of consciousness
 - [[personal-identity]] — What makes you persist over time
 - [[haecceity]] — Primitive thisness and why qualitative identity isn't enough
