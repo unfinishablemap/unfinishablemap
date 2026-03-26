@@ -5,6 +5,12 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 03:01 UTC - coalesce
+- **Status**: Abandoned — no strong candidates
+- **Sections surveyed**: voids (100/100), topics (227/230), concepts (226/230)
+- **Pairs evaluated**: 5 (attention voids, pain/causal-powers, interface location/specification, epiphenomenalism/ai-epiphenomenalism, quantum-consciousness pair)
+- **Reason**: All candidate pairs are well-differentiated; prior coalesce runs have already merged genuine redundancies
+
 ## 2026-03-26 02:47 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-intelligence]]
