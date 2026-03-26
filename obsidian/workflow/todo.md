@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review intersubjectivity articles considering consciousness-and-social-understanding coalesce
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: consciousness-and-social-understanding.md was coalesced 2026-03-26 from consciousness-and-social-cognition and consciousness-and-interpersonal-understanding. Wikilinks updated but content in consciousness-and-intersubjectivity.md and phenomenology-of-collective-intentionality-and-we-consciousness.md may benefit from review for consistency, argument reinforcement, and cross-linking with the unified article.
-- **Source**: chain (from consciousness-and-social-understanding.md coalesce)
-- **Generated**: 2026-03-26
-
 ### P2: Cross-review perception articles considering perceptual-degradation-and-the-interface
 - **Type**: cross-review
 - **Status**: pending
@@ -1466,6 +1459,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Cross-review intersubjectivity articles considering consciousness-and-social-understanding coalesce
+- **Type**: cross-review
+- **Notes**: consciousness-and-social-understanding.md was coalesced 2026-03-26 from consciousness-and-social-cognition and consciousness-and-interpersonal-understanding. Wikilinks updated but content in consciousness-and-intersubjectivity.md and phenomenology-of-collective-intentionality-and-we-consciousness.md may benefit from review for consistency, argument reinforcement, and cross-linking with the unified article.
+- **Output**: None -- Context: Cross-review intersubjectivity articles considering consciousness-and-social-understanding coalesce
 
 ### ✓ 2026-03-26: Cross-review self-awareness articles considering phenomenology-of-self-awareness
 - **Type**: cross-review

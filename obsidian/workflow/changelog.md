@@ -5,6 +5,17 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 08:48 UTC - deep-review (cross-review)
+- **Status**: Success
+- **Context**: Cross-review intersubjectivity articles considering consciousness-and-social-understanding coalesce
+- **File**: [[topics/consciousness-and-intersubjectivity]]
+- **Word count**: 2713 → 2765 (+52)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (connected to coalesced article's cognitive mechanism story, updated collective intentionality display text)
+- **Enhancements made**: 1 (metarepresentation cross-reference paragraph)
+- **Also modified**: [[topics/phenomenology-of-collective-intentionality-and-we-consciousness]] (display text update)
+- **Output**: [[reviews/deep-review-2026-03-26d-consciousness-and-intersubjectivity]]
+
 ## 2026-03-26 08:32 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/anaesthetic-recovery-and-the-filter-problem]]
