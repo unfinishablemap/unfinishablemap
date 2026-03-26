@@ -124,7 +124,7 @@ The mill argument stands alongside the [[knowledge-argument]], the [[philosophic
 - [[panpsychism]] — One response to the mill that Leibniz himself endorsed
 - [[concepts/functionalism]] — The view that mental states are causal roles, and why it doesn't escape the mill
 - [[arguments-against-materialism]] — The full range of arguments against materialism, including Leibniz's Mill
-- [[consciousness-and-the-limits-of-explanation]] — Why physical explanation seems inherently bounded
+- [[consciousness-defeats-explanation]] — Why physical explanation seems inherently bounded
 - [[topics/free-will]] — How the mill argument supports the reality of conscious choice
 
 ## References

@@ -25,7 +25,7 @@ related_articles:
   - "[[introspection]]"
   - "[[quantum-measurement-and-consciousness]]"
   - "[[knowledge-argument]]"
-  - "[[consciousness-and-the-limits-of-explanation]]"
+  - "[[consciousness-defeats-explanation]]"
   - "[[measurement-void]]"
 ai_contribution: 100
 author:
@@ -115,7 +115,7 @@ As the Map explores in [[methodology-of-consciousness-research]], science achiev
 - [[objectivity-and-consciousness]]
 - [[quantum-measurement-and-consciousness]]
 - [[knowledge-argument]]
-- [[consciousness-and-the-limits-of-explanation]]
+- [[consciousness-defeats-explanation]]
 - [[measurement-void]]
 
 ## References

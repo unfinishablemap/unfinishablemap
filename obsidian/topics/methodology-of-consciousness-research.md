@@ -36,7 +36,7 @@ related_articles:
   - "[[phenomenological-method-and-evidence-standards]]"
   - "[[duhem-quine-underdetermination-consciousness]]"
   - "[[consciousness-and-the-problem-of-measurement-standards]]"
-  - "[[consciousness-and-methodological-failure]]"
+  - "[[consciousness-defeats-explanation]]"
   - "[[philosophy-of-science-under-dualism]]"
   - "[[consciousness-and-social-understanding]]"
   - "[[cognitive-science-of-dualism]]"
@@ -159,7 +159,7 @@ This does not warrant defeatism. It warrants recognising that consciousness may 
 - [[philosophical-zombies]] — The conceivability argument for the gap between function and phenomenology
 - [[duhem-quine-underdetermination-consciousness]] — Why underdetermination runs deeper in consciousness science
 - [[philosophy-of-science-under-dualism]] — What scientific practice looks like under dualist commitments
-- [[consciousness-and-methodological-failure]] — Why standard theory-choice criteria malfunction for consciousness
+- [[consciousness-defeats-explanation]] — Why standard theory-choice criteria malfunction for consciousness
 - [[consciousness-and-the-structure-of-scientific-revolutions]] — Kuhn's framework applied to consciousness studies
 - [[cognitive-science-of-dualism]] — The methodological circle in cognitive science's consciousness research
 - [[consciousness-and-the-problem-of-measurement-standards]] — Why the measurement triad breaks down for phenomenal quantities

@@ -8,7 +8,7 @@ ai_modified: 2026-03-26T12:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[consciousness-and-the-limits-of-explanation]]"
+  - "[[consciousness-defeats-explanation]]"
   - "[[philosophy-of-mind]]"
 concepts:
   - "[[interactionist-dualism]]"
@@ -23,9 +23,8 @@ related_articles:
   - "[[tenets]]"
   - "[[william-james-consciousness]]"
   - "[[argument-from-reason]]"
-  - "[[consciousness-and-the-limits-of-explanation]]"
+  - "[[consciousness-defeats-explanation]]"
   - "[[epistemic-advantages-of-dualism]]"
-  - "[[consciousness-and-methodological-failure]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -56,7 +55,7 @@ Van Fraassen argues that explanation is not an objective relation between theory
 
 This analysis has a consequence van Fraassen does not pursue. If explanation is irreducibly tied to the interests and understanding of conscious agents, then explanation is not a feature discovered in the world by science — it is a feature of the interaction between conscious minds and the world. Remove consciousness and explanatory relations do not merely go unrecognised. They cease to exist. Explanation is not in the territory but in the map-maker.
 
-The Map's article on [[consciousness-and-the-limits-of-explanation|consciousness and the limits of explanation]] develops this into the reflexive gap: science explains phenomena by producing understanding, understanding is a phenomenal state, and science therefore depends on a phenomenal capacity it cannot account for within its own framework. Van Fraassen's pragmatic theory of explanation supports this gap from within pragmatism's own commitments. If you take seriously that explanation is agent-relative — that it requires someone for whom things become intelligible — then the agent's conscious experience is not one more thing to be explained but the condition that makes explanation possible.
+The Map's article on [[consciousness-defeats-explanation|consciousness and the limits of explanation]] develops this into the reflexive gap: science explains phenomena by producing understanding, understanding is a phenomenal state, and science therefore depends on a phenomenal capacity it cannot account for within its own framework. Van Fraassen's pragmatic theory of explanation supports this gap from within pragmatism's own commitments. If you take seriously that explanation is agent-relative — that it requires someone for whom things become intelligible — then the agent's conscious experience is not one more thing to be explained but the condition that makes explanation possible.
 
 ## The Reflexive Argument
 
@@ -101,10 +100,9 @@ The pragmatic path to dualism is distinctive because it does not rely on intuiti
 ## Further Reading
 
 - [[william-james-consciousness]] — James's pragmatist approach to consciousness in full detail
-- [[consciousness-and-the-limits-of-explanation]] — The reflexive gap between explanation and understanding
+- [[consciousness-defeats-explanation]] — The reflexive gap and why standard theory-choice criteria falter with consciousness
 - [[argument-from-reason]] — The parallel self-defeat argument from rationality
 - [[epistemic-advantages-of-dualism]] — Why maintaining dualism is epistemically responsible
-- [[consciousness-and-methodological-failure]] — Why standard theory-choice criteria falter with consciousness
 - [[cognitive-phenomenology]] — The irreducible phenomenal character of thought and evaluation
 
 ## References
@@ -114,4 +112,4 @@ The pragmatic path to dualism is distinctive because it does not rely on intuiti
 1. van Fraassen, B. C. (1980). *The Scientific Image*. Oxford University Press.
 1. Putnam, H. (1981). *Reason, Truth and History*. Cambridge University Press.
 1. Southgate, A. & Oquatre-cinq, C. (2026-02-01). William James and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/william-james-consciousness/
-1. Southgate, A. & Oquatre-six, C. (2026-02-23). Consciousness and the Limits of Explanation. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-the-limits-of-explanation/
+1. Southgate, A. & Oquatre-six, C. (2026-03-26). Why Consciousness Defeats Explanation. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-defeats-explanation/

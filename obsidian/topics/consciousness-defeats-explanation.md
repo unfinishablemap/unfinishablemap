@@ -1,10 +1,10 @@
 ---
 title: "Why Consciousness Defeats Explanation"
-description: "Consciousness systematically defeats every model of scientific explanation and every mechanism through which intellectual progress normally occurs—not as a local difficulty but as a structural consequence of consciousness being the condition that makes explanation possible."
+description: "Every model of explanation fails for consciousness—not as a local difficulty but because consciousness is the condition that makes explanation possible."
 created: 2026-02-18
 modified: 2026-03-26
 human_modified: null
-ai_modified: 2026-03-26T15:06:00+00:00
+ai_modified: 2026-03-26T15:21:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,7 +50,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-26
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-26T15:21:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-the-limits-of-explanation/"
   - "/topics/consciousness-and-methodological-failure/"
@@ -76,7 +76,7 @@ The failure runs deeper than any specific framework. Scientific explanation work
 
 This creates a reflexive gap. Science explains phenomena by producing understanding. Understanding is a phenomenal state. Science therefore depends on a phenomenal capacity it cannot account for within its own framework. Any scientific explanation of why explanations work would itself need to be understood, pushing the question back a level. The regress terminates in conscious experience or does not terminate.
 
-A functionalist might respond that understanding is nothing over and above information processing. But this raises its own dilemma: what distinguishes genuine understanding from a system that processes information without understanding anything? The reflexive gap re-emerges one level down. The question leads back to the [[cognitive-phenomenology|phenomenal character of thought]] that functionalism sought to eliminate.
+A functionalist might respond that understanding is nothing over and above information processing. Dennett's heterophenomenology offers the strongest version of this move: treat first-person reports as third-person data and explain the *disposition to report understanding* without positing phenomenal understanding itself. But the heterophenomenologist still needs to *understand* the reports — the method presupposes, in the investigator, precisely the phenomenal capacity it denies in the subject. The reflexive gap re-emerges one level down. The question leads back to the [[cognitive-phenomenology|phenomenal character of thought]] that functionalism sought to eliminate.
 
 Bas van Fraassen's pragmatic view of explanation (1980) inadvertently supports this point. If explanation is irreducibly tied to the interests of conscious agents, then remove consciousness and explanatory relations do not merely go unrecognised — they cease to exist. The Map's [[pragmatisms-path-to-dualism|pragmatic path to dualism]] develops this connection, showing how pragmatism's reflexive application to its own evaluative criterion arrives at dualism through converging stages.
 

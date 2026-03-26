@@ -34,7 +34,7 @@ related_articles:
   - "[[epistemological-limits-occams-razor]]"
   - "[[argument-from-reason]]"
   - "[[consciousness-and-the-phenomenology-of-constraint-satisfaction]]"
-  - "[[consciousness-and-methodological-failure]]"
+  - "[[consciousness-defeats-explanation]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

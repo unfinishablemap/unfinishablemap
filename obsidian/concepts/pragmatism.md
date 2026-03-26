@@ -18,7 +18,7 @@ concepts:
   - "[[cognitive-phenomenology]]"
 related_articles:
   - "[[tenets]]"
-  - "[[consciousness-and-the-limits-of-explanation]]"
+  - "[[consciousness-defeats-explanation]]"
   - "[[argument-from-reason]]"
   - "[[epistemic-advantages-of-dualism]]"
 ai_contribution: 100
@@ -59,7 +59,7 @@ Dewey's emphasis on inquiry as an activity conducted by conscious agents carries
 
 Richard Rorty's neopragmatism abandoned the founders' interest in experience. For Rorty, pragmatism means giving up the very idea of "getting reality right." There are no privileged descriptions of the world — only vocabularies that serve different purposes. This linguistic turn pushed consciousness to the margins: if philosophy should stop worrying about the relation between mind and world, the mind-body problem dissolves rather than demands solution.
 
-The Map disagrees. Rorty's move works only if consciousness *can* be dissolved — if phenomenal experience is just one more vocabulary rather than a datum that any adequate vocabulary must accommodate. But the [[hard-problem-of-consciousness|hard problem]] persists precisely because consciousness is not a description of the world but the condition under which description occurs. Dissolving the vocabulary does not dissolve the experience. The [[consciousness-and-the-limits-of-explanation|reflexive gap]] between explanation and understanding marks the same boundary from a different direction.
+The Map disagrees. Rorty's move works only if consciousness *can* be dissolved — if phenomenal experience is just one more vocabulary rather than a datum that any adequate vocabulary must accommodate. But the [[hard-problem-of-consciousness|hard problem]] persists precisely because consciousness is not a description of the world but the condition under which description occurs. Dissolving the vocabulary does not dissolve the experience. The [[consciousness-defeats-explanation|reflexive gap]] between explanation and understanding marks the same boundary from a different direction.
 
 ### Putnam's Pragmatic Realism
 
@@ -85,7 +85,7 @@ The Unfinishable Map treats pragmatism as a method that confirms its commitments
 
 - [[pragmatisms-path-to-dualism]] — The full argument from pragmatist method to dualist conclusion
 - [[william-james-consciousness]] — James's pragmatist approach to consciousness
-- [[consciousness-and-the-limits-of-explanation]] — The reflexive gap between explanation and understanding
+- [[consciousness-defeats-explanation]] — The reflexive gap between explanation and understanding
 - [[argument-from-reason]] — The parallel self-defeat argument from rationality
 - [[cognitive-phenomenology]] — The phenomenal character of evaluation and thought
 - [[functionalism]] — The dominant position pragmatism's reflexive argument undermines

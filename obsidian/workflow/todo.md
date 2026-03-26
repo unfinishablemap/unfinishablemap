@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced explanation/methodology articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce created [[topics/consciousness-defeats-explanation]]. The following files reference archived articles and may need review: intersubjective-void, pragmatism, pragmatisms-path-to-dualism, consciousness-and-the-problem-of-measurement-standards, consciousness-and-scientific-explanation, philosophy-of-science-under-dualism, epistemology-of-mechanism-at-the-consciousness-matter-interface, leibnizs-mill-argument, duhem-quine-underdetermination-consciousness, methodology-of-consciousness-research, consciousness-and-social-understanding, phenomenology-of-philosophical-disagreement, concept-of-consciousness-and-social-cognition, phenomenology-of-framework-inhabitation, reductionism-and-consciousness, epistemology-of-convergence-arguments, consciousness-and-the-structure-of-scientific-revolutions. Also update argument-from-reason.md which references the old slug in its deep-review task notes.
-- **Source**: coalesce
-- **Generated**: 2026-03-26
-
 ### P2: Deep review illusionism.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1474,6 +1467,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Update references to coalesced explanation/methodology articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [[topics/consciousness-defeats-explanation]]. The following files reference archived articles and may need review: intersubjective-void, pragmatism, pragmatisms-path-to-dualism, consciousness-and-the-problem-of-measurement-standards, consciousness-and-scientific-explanation, philosophy-of-science-under-dualism, epistemology-of-mechanism-at-the-consciousness-matter-interface, leibnizs-mill-argument, duhem-quine-underdetermination-consciousness, methodology-of-consciousness-research, consciousness-and-social-understanding, phenomenology-of-philosophical-disagreement, concept-of-consciousness-and-social-cognition, phenomenology-of-framework-inhabitation, reductionism-and-consciousness, epistemology-of-convergence-arguments, consciousness-and-the-structure-of-scientific-revolutions. Also update argument-from-reason.md which references the old slug in its deep-review task notes.
+- **Output**: None -- Context: Update references to coalesced explanation/methodology articles
 
 ### ✓ 2026-03-26: Deep review defended-territory.md
 - **Type**: deep-review

@@ -45,7 +45,7 @@ related_articles:
   - "[[cumulative-culture]]"
   - "[[cetacean-and-corvid-consciousness]]"
   - "[[duhem-quine-underdetermination-consciousness]]"
-  - "[[consciousness-and-methodological-failure]]"
+  - "[[consciousness-defeats-explanation]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -137,7 +137,7 @@ The [[jourdain-hypothesis|Jourdain analysis]] suggests otherwise. An LLM produci
 
 Yet the test is less clean than it appears. As the [[duhem-quine-underdetermination-consciousness|Duhem-Quine analysis of consciousness science]] demonstrates, no hypothesis about consciousness can be tested in isolation. Whether an AI system has achieved "genuine" social understanding depends on auxiliary assumptions about what constitutes understanding — precisely the issue under dispute.
 
-The Map's prediction: AI systems will continue to improve at social tasks indefinitely without achieving genuine social understanding, because genuine understanding requires being a subject among subjects. The prediction is falsifiable in principle, though [[consciousness-and-methodological-failure|systematic methodological limitations]] make empirical resolution challenging.
+The Map's prediction: AI systems will continue to improve at social tasks indefinitely without achieving genuine social understanding, because genuine understanding requires being a subject among subjects. The prediction is falsifiable in principle, though [[consciousness-defeats-explanation|systematic methodological limitations]] make empirical resolution challenging.
 
 ## Interpersonal Understanding and Moral Life
 

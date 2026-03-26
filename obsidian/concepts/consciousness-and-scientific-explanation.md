@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[methodology-of-consciousness-research]]"
-  - "[[consciousness-and-the-limits-of-explanation]]"
+  - "[[consciousness-defeats-explanation]]"
 concepts:
   - "[[interactionist-dualism]]"
   - "[[explanatory-gap]]"
@@ -129,7 +129,7 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet opens 
 
 - [[psychophysical-laws-bridging-mind-and-matter]] — The framework for laws connecting mind and brain
 - [[methodology-of-consciousness-research]] — Why scientific method structurally excludes subjectivity
-- [[consciousness-and-the-limits-of-explanation]] — How consciousness breaks standard theories of explanation
+- [[consciousness-defeats-explanation]] — How consciousness breaks standard theories of explanation
 - [[reductionism-and-consciousness]] — Why reduction succeeds everywhere except consciousness
 - [[evolution-under-dualism]] — How evolutionary biology operates under dualist assumptions
 - [[explanatory-gap]] — The gap between physical description and phenomenal experience

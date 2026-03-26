@@ -152,7 +152,7 @@ The simpler hypothesis—social cognition is just sophisticated information proc
 
 ### Methodology
 - [[duhem-quine-underdetermination-consciousness]] — Why empirical tests of consciousness claims face deep underdetermination
-- [[consciousness-and-methodological-failure]] — How standard methods struggle with consciousness questions
+- [[consciousness-defeats-explanation]] — How standard methods struggle with consciousness questions
 
 ### Related Topics
 - [[topics/consciousness-and-social-cognition]] — The topic-level treatment: correlation vs. constitution in social cognition

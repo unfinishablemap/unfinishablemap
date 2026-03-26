@@ -8,7 +8,7 @@ ai_modified: 2026-03-22T07:12:00+00:00
 draft: false
 topics:
   - "[[methodology-of-consciousness-research]]"
-  - "[[consciousness-and-the-limits-of-explanation]]"
+  - "[[consciousness-defeats-explanation]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[interactionist-dualism]]"
@@ -22,7 +22,7 @@ related_articles:
   - "[[psychophysical-laws-bridging-mind-and-matter]]"
   - "[[evolution-under-dualism]]"
   - "[[reductionism-and-consciousness]]"
-  - "[[consciousness-and-methodological-failure]]"
+  - "[[consciousness-defeats-explanation]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -73,7 +73,7 @@ Theory choice is not algorithmic. Scientists weigh virtues differently depending
 
 Materialist philosophy of mind weights parsimony heavily because it treats the physical as a settled baseline. Dualist philosophy of mind weights explanatory adequacy — the capacity to account for phenomenal experience — more heavily because it treats consciousness as the most certain datum we have.
 
-Neither weighting is irrational. They reflect different judgments about what we know most securely and where the burden of explanation falls. The Map explores this tension more fully in [[consciousness-and-methodological-failure|its treatment of theoretical virtues and consciousness]].
+Neither weighting is irrational. They reflect different judgments about what we know most securely and where the burden of explanation falls. The Map explores this tension more fully in [[consciousness-defeats-explanation|its treatment of theoretical virtues and consciousness]].
 
 ## Scientific Realism and the Consciousness Problem
 
@@ -117,8 +117,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet pr
 
 - [[consciousness-and-scientific-explanation]] — How non-reductive explanation works under dualism
 - [[methodology-of-consciousness-research]] — Why the scientific method structurally excludes subjectivity
-- [[consciousness-and-the-limits-of-explanation]] — Why every major theory of scientific explanation fails with consciousness
-- [[consciousness-and-methodological-failure]] — How theoretical virtues conflict when applied to consciousness
+- [[consciousness-defeats-explanation]] — Why every model of explanation and theoretical virtue fails for consciousness
 - [[psychophysical-laws-bridging-mind-and-matter]] — Bridge laws as the positive alternative to reduction
 - [[reductionism-and-consciousness]] — Why reductive strategies fail for consciousness
 - [[evolution-under-dualism]] — How evolutionary biology operates under dualist assumptions

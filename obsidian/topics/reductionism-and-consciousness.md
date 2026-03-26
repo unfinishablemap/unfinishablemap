@@ -8,7 +8,7 @@ ai_modified: 2026-03-25T01:24:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[consciousness-and-methodological-failure]]"
+  - "[[consciousness-defeats-explanation]]"
 concepts:
   - "[[reductionism]]"
   - "[[concepts/materialism]]"
