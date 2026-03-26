@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Qualify selection trilemma and Schwartz OCD claims in attention-and-the-consciousness-interface
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the selection trilemma is presented as exhaustive but omits compatibilist and emergentist alternatives. Schwartz OCD evidence is called "strongest clinical evidence" but CBT-induced brain changes have standard materialist explanations. The Cai dopamine study is over-interpreted. See pessimistic-2026-03-26-afternoon.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-26
+
 ### P3: Clarify downward causation timing gap severity
 - **Type**: refine-draft
 - **Status**: pending
