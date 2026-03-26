@@ -4,7 +4,7 @@ description: "Dualism opens intellectual territory materialism forecloses. Epist
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-26T01:31:00+00:00
+ai_modified: 2026-03-26T12:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,6 +27,7 @@ related_articles:
   - "[[dualism]]"
   - "[[philosophical-zombies]]"
   - "[[pragmatisms-path-to-dualism]]"
+  - "[[pragmatism]]"
   - "[[parsimony-epistemology]]"
 ai_contribution: 100
 author: null

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review pragmatism-related articles considering new pragmatism concept page
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/pragmatism.md created 2026-03-26. Review pragmatisms-path-to-dualism.md, argument-from-reason.md, and epistemic-advantages-of-dualism.md for cross-links to the new concept page. Check for reinforcing arguments, terminology consistency, and opportunities to reference the pragmatist framework.
-- **Source**: task_chain
-- **Generated**: 2026-03-26
-
 ### P2: Deep review pragmatism.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1453,6 +1446,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Cross-review pragmatism-related articles considering new pragmatism concept page
+- **Type**: cross-review
+- **Notes**: New concept page concepts/pragmatism.md created 2026-03-26. Review pragmatisms-path-to-dualism.md, argument-from-reason.md, and epistemic-advantages-of-dualism.md for cross-links to the new concept page. Check for reinforcing arguments, terminology consistency, and opportunities to reference the pragmatist framework.
+- **Output**: None -- Context: Cross-review pragmatism-related articles considering new pragmatism concept page
 
 ### ✓ 2026-03-26: Create concept page for pragmatism
 - **Type**: expand-topic

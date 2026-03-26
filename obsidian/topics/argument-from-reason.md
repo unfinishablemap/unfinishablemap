@@ -4,7 +4,7 @@ description: "If thoughts are fully explained by physical causes, no belief is r
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-03-25T15:59:00+00:00
+ai_modified: 2026-03-26T12:57:00+00:00
 draft: false
 last_deep_review: 2026-03-05T08:13:00+00:00
 topics:
@@ -23,6 +23,7 @@ concepts:
   - "[[reasons-responsiveness]]"
   - "[[cognitive-phenomenology]]"
   - "[[intentionality]]"
+  - "[[pragmatism]]"
 related_articles:
   - "[[topics/free-will]]"
   - "[[agent-causation]]"

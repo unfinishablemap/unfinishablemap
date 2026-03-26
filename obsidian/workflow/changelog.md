@@ -5,6 +5,15 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 12:57 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/pragmatism]]
+- **Word count**: 1265 → 1303 (+38)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (orphan integration, Rorty cross-link, Dewey naturalism note)
+- **Enhancements made**: 6 inbound cross-links from related articles
+- **Output**: [[reviews/deep-review-2026-03-26-pragmatism]]
+
 ## 2026-03-26 12:33 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Pragmatism

@@ -4,7 +4,7 @@ description: "Every major theory of scientific explanation fails with consciousn
 created: 2026-02-18
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-23T17:30:00+00:00
+ai_modified: 2026-03-26T12:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,6 +35,7 @@ related_articles:
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[consciousness-and-neurodegenerative-disease]]"
   - "[[pragmatisms-path-to-dualism]]"
+  - "[[pragmatism]]"
   - "[[intersubjective-void]]"
 ai_contribution: 100
 author:

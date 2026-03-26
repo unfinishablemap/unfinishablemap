@@ -4,7 +4,7 @@ description: "Pragmatism evaluates ideas by practical consequences rather than a
 created: 2026-03-26
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-03-26T12:33:00+00:00
+ai_modified: 2026-03-26T12:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-26
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-26T12:57:00+00:00
 ---
 
 Pragmatism is the philosophical tradition that evaluates ideas by their practical consequences — what difference does believing this make to how we act, inquire, and live? Founded in 19th-century America by Charles Sanders Peirce, William James, and John Dewey, pragmatism rejects the idea that truth consists in mirroring an independent reality. Instead, truth is what works: beliefs earn their status by guiding action successfully, resolving genuine problems, and opening productive lines of inquiry. The Unfinishable Map finds in pragmatism a method that, when applied consistently to consciousness, supports [[interactionist-dualism]] rather than the [[concepts/materialism|materialism]] most contemporary pragmatists assume.
@@ -51,7 +51,7 @@ In "The Will to Believe" (1896), James added that when a choice is forced, livin
 
 John Dewey shifted pragmatism's focus from individual belief to the process of inquiry. Knowledge is not a passive reflection of reality but an active reconstruction undertaken by organisms interacting with their environments. A "situation" becomes problematic, inquiry transforms it, and the result is a "warranted assertion" — not a timeless truth but a claim that has survived the test of intelligent practice.
 
-Dewey's emphasis on inquiry as an activity conducted by conscious agents carries implications he did not fully pursue. If inquiry is not passive reception but active engagement, then the inquirer's conscious experience — their felt sense of a problem, their recognition that a proposed solution works — is constitutive of the process. Reduce inquiry to physical mechanism and the normative dimension disappears: the system merely processes, with no standpoint from which to assess whether processing has resolved anything.
+Dewey's emphasis on inquiry as an activity conducted by conscious agents carries implications he did not fully pursue. Dewey himself was a committed naturalist who would have resisted the dualist conclusion — but the logic of his position outruns his commitments. If inquiry is not passive reception but active engagement, then the inquirer's conscious experience — their felt sense of a problem, their recognition that a proposed solution works — is constitutive of the process. Reduce inquiry to physical mechanism and the normative dimension disappears: the system merely processes, with no standpoint from which to assess whether processing has resolved anything.
 
 ## Pragmatism After the Founders
 
@@ -59,7 +59,7 @@ Dewey's emphasis on inquiry as an activity conducted by conscious agents carries
 
 Richard Rorty's neopragmatism abandoned the founders' interest in experience. For Rorty, pragmatism means giving up the very idea of "getting reality right." There are no privileged descriptions of the world — only vocabularies that serve different purposes. This linguistic turn pushed consciousness to the margins: if philosophy should stop worrying about the relation between mind and world, the mind-body problem dissolves rather than demands solution.
 
-The Map disagrees. Rorty's move works only if consciousness *can* be dissolved — if phenomenal experience is just one more vocabulary rather than a datum that any adequate vocabulary must accommodate. But the [[hard-problem-of-consciousness|hard problem]] persists precisely because consciousness is not a description of the world but the condition under which description occurs. Dissolving the vocabulary does not dissolve the experience.
+The Map disagrees. Rorty's move works only if consciousness *can* be dissolved — if phenomenal experience is just one more vocabulary rather than a datum that any adequate vocabulary must accommodate. But the [[hard-problem-of-consciousness|hard problem]] persists precisely because consciousness is not a description of the world but the condition under which description occurs. Dissolving the vocabulary does not dissolve the experience. The [[consciousness-and-the-limits-of-explanation|reflexive gap]] between explanation and understanding marks the same boundary from a different direction.
 
 ### Putnam's Pragmatic Realism
 

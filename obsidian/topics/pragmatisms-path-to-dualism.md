@@ -4,7 +4,7 @@ description: "Pragmatism—the philosophy that evaluates ideas by practical cons
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-18T05:14:00+00:00
+ai_modified: 2026-03-26T12:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,6 +18,7 @@ concepts:
   - "[[cognitive-phenomenology]]"
   - "[[phenomenal-normativity]]"
   - "[[functionalism]]"
+  - "[[pragmatism]]"
 related_articles:
   - "[[tenets]]"
   - "[[william-james-consciousness]]"
