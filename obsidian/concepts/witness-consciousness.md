@@ -11,6 +11,7 @@ topics:
   - "[[topics/free-will]]"
 concepts:
   - "[[self-opacity]]"
+  - "[[self-reference-paradox]]"
   - "[[buddhism-and-dualism]]"
   - "[[self-and-self-consciousness]]"
   - "[[introspection]]"

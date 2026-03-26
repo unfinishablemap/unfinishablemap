@@ -41,6 +41,7 @@ related_articles:
   - "[[epistemological-limits-occams-razor]]"
   - "[[phenomenology-of-cognitive-limit-types]]"
   - "[[self-reference-and-the-limits-of-physical-description]]"
+  - "[[self-reference-paradox]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -105,7 +106,7 @@ Property P may be the intrinsic categorical nature of matter. If so, cognitive c
 
 ## Mathematical Understanding and Cognitive Closure
 
-[[consciousness-and-mathematical-cognition|Mathematical understanding]] provides evidence for cognitive limits. [[computational-cognitive-limits|Computational limits]]—Gödel's incompleteness, the halting problem—are *mathematically proven* and constrain any algorithmic process. McGinn's cognitive closure is a *hypothesis* about human biology. If human cognition is computational, both limits apply; if consciousness transcends computation (as Penrose suggests), we might escape formal limits while remaining subject to biological ones. Category-theoretic work identifies these incompleteness results and quantum measurement limitations as instances of the [[self-reference-and-the-limits-of-physical-description|same self-referential obstruction]], suggesting cognitive closure in mathematics and the measurement problem share a common formal root.
+[[consciousness-and-mathematical-cognition|Mathematical understanding]] provides evidence for cognitive limits. [[computational-cognitive-limits|Computational limits]]—Gödel's incompleteness, the halting problem—are *mathematically proven* and constrain any algorithmic process. McGinn's cognitive closure is a *hypothesis* about human biology. If human cognition is computational, both limits apply; if consciousness transcends computation (as Penrose suggests), we might escape formal limits while remaining subject to biological ones. Category-theoretic work identifies these incompleteness results and quantum measurement limitations as instances of the [[self-reference-and-the-limits-of-physical-description|same self-referential obstruction]], suggesting cognitive closure in mathematics and the measurement problem share a common formal root. The [[self-reference-paradox]] develops this connection explicitly: Gödel's incompleteness, Lawvere's fixed-point theorem, and the transparency of self-modelling all constrain what a system can know about itself.
 
 ## The Phenomenology of Cognitive Closure
 

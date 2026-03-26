@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Resolve self-reference-paradox.md orphan — archive or restore inbound links
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: After a mass rename of `[[self-reference-paradox]]` → `[[self-opacity|self-reference paradox]]` across ~96 files, concepts/self-reference-paradox.md now has 0 inbound links. Meanwhile voids/self-opacity.md receives 91 inbound links. Determine whether self-reference-paradox.md should be archived (if fully superseded by self-opacity.md) or whether it covers distinct ground that warrants restoring some inbound links. Check content overlap before deciding.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-26
-
 ### P2: Fix broken wikilinks to the-unobservable-self and differential-predictions-consciousness-collapse
 - **Type**: refine-draft
 - **Status**: pending
@@ -1452,6 +1445,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Resolve self-reference-paradox.md orphan — archive or restore inbound links
+- **Type**: integrate-orphan
+- **Notes**: After a mass rename of `[[self-reference-paradox]]` → `[[self-opacity|self-reference paradox]]` across ~96 files, concepts/self-reference-paradox.md now has 0 inbound links. Meanwhile voids/self-opacity.md receives 91 inbound links. Determine whether self-reference-paradox.md should be archived (if fully superseded by self-opacity.md) or whether it covers distinct ground that warrants restoring some inbound links. Check content overlap before deciding.
+- **Output**: obsidian/concepts/self-reference-paradox.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-26: Update references to coalesced articles — consciousness-and-social-cognition and consciousness-and-interpersonal-understanding
 - **Type**: refine-draft

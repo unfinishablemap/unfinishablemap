@@ -216,6 +216,7 @@ The gap supports humility. If we cannot understand consciousness from physical d
 - [[cognitive-phenomenology-and-the-irreducibility-of-thought]] — The explanatory gap extends from sensation into cognition: understanding, reasoning, and insight resist reduction
 - [[emergence-as-universal-hard-problem]] — The argument that every level transition harbours the same gap, and reduction relocates rather than resolves it
 - [[the-reverse-inference]] — How the gap's epistemic asymmetry motivates using consciousness to constrain physics rather than the reverse
+- [[self-reference-paradox]] — How the gap may be structurally rooted in the impossibility of a system fully modelling itself
 - [[what-consciousness-tells-us-about-physics]] — Apex synthesis: the measurement problem and the hard problem as the same boundary—where third-person description encounters first-person fact
 
 ## References

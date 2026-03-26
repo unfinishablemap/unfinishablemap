@@ -17,6 +17,7 @@ concepts:
   - "[[mysterianism]]"
   - "[[simulation]]"
   - "[[self-opacity]]"
+  - "[[self-reference-paradox]]"
 related_articles:
   - "[[tenets]]"
   - "[[destabilizing-self-knowledge]]"
