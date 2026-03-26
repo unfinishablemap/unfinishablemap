@@ -29,6 +29,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-26
 last_curated:
 last_deep_review: 2026-03-26T08:32:00+00:00
+archived: true
+archived_date: 2026-03-26T10:18:00+00:00
+superseded_by: "/topics/anaesthesia-and-the-consciousness-interface/"
+archive_reason: "Coalesced into Anaesthesia and the Consciousness Interface"
+original_path: "/topics/anaesthetic-recovery-and-the-filter-problem/"
 ---
 
 Recovery from general anaesthesia is not the reverse of going under. The brain requires lower drug concentrations to stay unconscious than to become unconscious, executive function returns before simpler capacities like reaction time, and genetically identical organisms show emergence times that vary by two orders of magnitude. This asymmetry — termed **neural inertia** — reveals that consciousness does not passively reappear as chemicals dissipate. Something active happens during recovery, and what that something is bears directly on whether the brain produces consciousness or serves as its interface.

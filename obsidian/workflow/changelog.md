@@ -5,6 +5,13 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 10:18 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/anaesthetic-recovery-and-the-filter-problem]]
+- **Target**: [[topics/anaesthesia-and-the-consciousness-interface]]
+- **Archived**: [[archive/topics/anaesthetic-recovery-and-the-filter-problem]]
+- **References to review**: none
+
 ## 2026-03-26 10:02 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/voluntary-attention-control-mechanisms]]
