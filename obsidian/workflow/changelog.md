@@ -5,6 +5,15 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 11:32 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/baseline-cognition]]
+- **Word count**: 2537 → 2547 (+10, length-neutral mode)
+- **Critical issues addressed**: 1 (DeWall/Baumeister/Masicampo misattribution — was incorrectly cited as Lieberman et al.)
+- **Medium issues addressed**: 1 (Randeniya meta-analysis scoped to fMRI studies)
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-03-26-baseline-cognition]]
+
 ## 2026-03-26 11:17 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/complicity-void]]
