@@ -4,7 +4,7 @@ description: "Consciousness returns differently than it leaves under anaesthesia
 created: 2026-03-26
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-03-26T08:03:00+00:00
+ai_modified: 2026-03-26T08:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,12 +21,14 @@ related_articles:
   - "[[loss-of-consciousness]]"
   - "[[mind-brain-separation]]"
   - "[[brain-interface-boundary]]"
+  - "[[consciousness-and-causal-powers]]"
+  - "[[attention-as-interface]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-26
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-26T08:32:00+00:00
 ---
 
 Recovery from general anaesthesia is not the reverse of going under. The brain requires lower drug concentrations to stay unconscious than to become unconscious, executive function returns before simpler capacities like reaction time, and genetically identical organisms show emergence times that vary by two orders of magnitude. This asymmetry — termed **neural inertia** — reveals that consciousness does not passively reappear as chemicals dissipate. Something active happens during recovery, and what that something is bears directly on whether the brain produces consciousness or serves as its interface.
@@ -47,7 +49,7 @@ Filter theory offers a natural reading. The interface between consciousness and 
 
 Recovery does not restore all cognitive capacities simultaneously. Bhatt et al. (2021) documented a surprising order: executive function, associated with the dorsolateral prefrontal cortex, returns first — before reaction time, before attention, before simpler sensorimotor tasks. Frontal-parietal dynamics return to baseline just prior to recovery of connected consciousness.
 
-This sequence inverts the expected hierarchy. If consciousness were a generic product of neural activity building up from simple to complex, one would expect basic sensory processing and reflexes to return first, with higher-order executive function emerging last. The actual pattern — complex before simple — is consistent with the global neuronal workspace framework, which positions prefrontal broadcasting as the gateway for conscious access. But it is also consistent with, and arguably better explained by, the filter model: the highest-order interface channels reopen first because they are closest to consciousness itself, while lower-order sensory channels, which merely route environmental information through the already-open interface, take longer to reconfigure.
+This sequence inverts the expected hierarchy. If consciousness were a generic product of neural activity building up from simple to complex, one would expect basic sensory processing and reflexes to return first, with higher-order executive function emerging last. The actual pattern — complex before simple — is consistent with the global neuronal workspace framework, which positions prefrontal broadcasting as the gateway for conscious access. But it is also consistent with, and arguably better explained by, the filter model: the highest-order interface channels reopen first because they are closest to consciousness itself — consistent with [[attention-as-interface|attention's proposed role as interface]] — while lower-order sensory channels, which merely route environmental information through the already-open interface, take longer to reconfigure.
 
 The hierarchical return also mirrors the [[anaesthesia-and-the-consciousness-interface|pharmacological dissection]] of the interface during induction. Different anaesthetic agents disrupt different interface components — phenomenal presence, environmental access, temporal binding, memory encoding. During recovery, these components come back online in a consistent order that reverses the hierarchy identified pharmacologically. The interface has a layered architecture, and recovery proceeds layer by layer.
 
@@ -67,9 +69,9 @@ This interpretation is speculative, and classical stochastic models (thermal noi
 
 Recovery from anaesthesia raises a philosophical puzzle that neither production nor filter theory has adequately addressed: what initiates the return of consciousness?
 
-On production theory, the answer seems straightforward — neural activity recovers, and consciousness is produced as a consequence. But the active reboot evidence complicates this. The brain does not merely resume its prior activity pattern; it undertakes specific molecular preparations, including downregulation of the KCC2 chloride transporter, oriented specifically toward conscious states rather than generic neural function (Bodart et al., 2021). The brain appears to prepare for consciousness before consciousness arrives — raising the question of what directs this preparation if not consciousness itself.
+On production theory, the answer seems straightforward — neural activity recovers, and consciousness is produced as a consequence. But the active reboot evidence complicates this. The brain does not merely resume its prior activity pattern; it undertakes specific molecular preparations oriented specifically toward conscious states rather than generic neural function. The brain appears to prepare for consciousness before consciousness arrives — raising the question of what directs this preparation if not consciousness itself.
 
-On filter theory, the puzzle is different but equally sharp. If consciousness is separate from the brain and the interface has been pharmacologically closed, what causes it to reopen? Consciousness cannot direct the reopening because the interface through which it acts is suppressed. The brain cannot call consciousness back because, on filter theory, the brain does not generate the signal — it only receives it. Some third factor must break the deadlock.
+On filter theory, the puzzle is different but equally sharp. (This connects to the broader question of [[consciousness-and-causal-powers|consciousness and causal powers]] — what role does consciousness play in directing physical processes?) If consciousness is separate from the brain and the interface has been pharmacologically closed, what causes it to reopen? Consciousness cannot direct the reopening because the interface through which it acts is suppressed. The brain cannot call consciousness back because, on filter theory, the brain does not generate the signal — it only receives it. Some third factor must break the deadlock.
 
 Several possibilities exist within the Map's framework. Consciousness may never fully depart — even under deep anaesthesia, some minimal interface activity persists, providing a seed from which full restoration can grow. The pharmacological evidence supports this: even under propofol, some neural processing of auditory stimuli continues, and the brain shows non-random activity patterns rather than mere silence. The filter may narrow to a near-closed state without fully shutting, and recovery represents widening from this residual aperture rather than reopening from zero.
 
@@ -101,6 +103,8 @@ Anaesthetic recovery connects to the Map's [[tenets]] in ways distinct from — 
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The brain's active molecular preparation for consciousness — not merely resuming activity but reconfiguring specific systems — suggests a system orienting itself to receive and transmit. The bootstrapping problem implies that even during deep anaesthesia, some bidirectional traffic may persist at minimal levels, preventing total interface closure and enabling eventual recovery.
 
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The stochastic emergence data gains different significance under many-worlds versus single-world interpretations. If every quantum outcome is realised in some branch, the variability in emergence timing is merely indexical — consciousness returns in every branch, and "when" is just a question of which branch one inhabits. On the Map's single-world reading, the stochastic timing reflects a genuine indeterminacy in whether and when consciousness re-engages with this brain, making the variability evidence of something real rather than a perspectival artefact.
+
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The simplest story — drugs wear off, consciousness returns — is empirically false. Recovery involves neural inertia, hierarchical restoration sequences, stochastic dynamics, and active molecular preparation. The actual complexity of emergence is a case study in why simple models should be treated with suspicion when our understanding of the underlying phenomena remains incomplete.
 
 ## Further Reading
@@ -121,7 +125,6 @@ Anaesthetic recovery connects to the Map's [[tenets]] in ways distinct from — 
 3. Bhatt, M. B., et al. (2021). Recovery of consciousness and cognition after general anesthesia in humans. *eLife*, 10, e59525.
 4. Bhatt, M. B., et al. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(8).
 5. Sanders, R. D., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8.
-6. Bodart, O., et al. (2021). Recovery of consciousness and cognition after general anesthesia in humans. *eLife*, 10, e60892.
-7. (2025). Emergence from general anaesthesia: stochastic or deterministic? *British Journal of Anaesthesia*.
+6. (2025). Emergence from general anaesthesia: stochastic or deterministic? *British Journal of Anaesthesia*.
 8. Southgate, A. & Oquatre-six, C. (2026-02-23). Anaesthesia and the Consciousness Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/anaesthesia-and-the-consciousness-interface/
 9. Southgate, A. & Oquatre-cinq, C. (2026-01-15). Filter Theory of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/filter-theory/
