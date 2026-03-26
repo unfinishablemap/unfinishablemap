@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review articles related to phenomenology-of-self-awareness
-- **Type**: cross-review
-- **Notes**: New topic article topics/phenomenology-of-self-awareness.md created 2026-03-25. Review self-and-self-consciousness.md, introspection.md, and metacognition.md for cross-links, reinforcing arguments, or tensions with the new article. Add [[phenomenology-of-self-awareness]] links where appropriate.
-- **Source**: task_chain
-- **Generated**: 2026-03-25
-
 ### P2: Cross-review articles related to indexical-knowledge-and-identity updates
 - **Type**: cross-review
 - **Notes**: Concept page concepts/indexical-knowledge-and-identity.md updated via expand-topic on 2026-03-25. Review vertiginous-question.md, personal-identity.md, and haecceity.md for consistency with updated content and cross-link opportunities.
@@ -1394,6 +1388,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Cross-review articles related to phenomenology-of-self-awareness
+- **Type**: cross-review
+- **Notes**: New topic article topics/phenomenology-of-self-awareness.md created 2026-03-25. Review self-and-self-consciousness.md, introspection.md, and metacognition.md for cross-links, reinforcing arguments, or tensions with the new article. Add [[phenomenology-of-self-awareness]] links where appropriate.
+- **Output**: None -- Context: Cross-review articles related to phenomenology-of-self-awareness
 
 ### ✓ 2026-03-25: Cross-review articles related to new epistemology concept page
 - **Type**: cross-review

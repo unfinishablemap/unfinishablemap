@@ -5,6 +5,15 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 01:17 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/attention-schema-theory]]
+- **Word count**: 3262 → 3277 (+15)
+- **Critical issues addressed**: 1 ("reframation" writing error)
+- **Medium issues addressed**: 1 (cross-link to phenomenology-of-self-awareness)
+- **Enhancements made**: 2 (cross-link addition, minor prose tightening)
+- **Output**: [[reviews/deep-review-2026-03-26-attention-schema-theory]]
+
 ## 2026-03-25 23:31 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/epistemology]]
