@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review indexical-knowledge.md against related knowledge articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page created 2026-03-25. Review knowledge-argument.md, acquaintance-knowledge.md, and epistemology-of-first-person-evidence.md for cross-links and consistency. Indexical knowledge is central to Tenet 4 (No Many Worlds) — verify the concept page correctly grounds the indexical identity arguments used across the site.
-- **Source**: task_chain (expand-topic)
-- **Generated**: 2026-03-26
-
 ### P3: Deep review complicity-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1424,6 +1417,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Cross-review indexical-knowledge.md against related knowledge articles
+- **Type**: cross-review
+- **Notes**: New concept page created 2026-03-25. Review knowledge-argument.md, acquaintance-knowledge.md, and epistemology-of-first-person-evidence.md for cross-links and consistency. Indexical knowledge is central to Tenet 4 (No Many Worlds) — verify the concept page correctly grounds the indexical identity arguments used across the site.
+- **Output**: indexical-knowledge.md -- Context: Cross-review indexical-knowledge.md against related knowledge articles
 
 ### ✓ 2026-03-26: Deep review parsimony-epistemology.md after coalesce
 - **Type**: deep-review

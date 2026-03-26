@@ -4,7 +4,7 @@ description: "Knowledge expressible only as 'I', 'here', 'now'—irreducible to 
 created: 2026-01-27
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-03-26T03:32:00+00:00
 draft: false
 topics:
   - "[[vertiginous-question]]"
@@ -16,6 +16,7 @@ concepts:
   - "[[qualia]]"
   - "[[phenomenal-consciousness]]"
   - "[[knowledge-argument]]"
+  - "[[acquaintance-knowledge]]"
   - "[[concepts/many-worlds]]"
 related_articles:
   - "[[tenets]]"
@@ -27,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-13
 last_curated:
-last_deep_review: 2026-03-12T04:10:00+00:00
+last_deep_review: 2026-03-26T03:32:00+00:00
 coalesced_from:
   - "/concepts/indexical-facts/"
   - "/concepts/indexical-knowledge/"
@@ -62,7 +63,7 @@ Not all indexical knowledge is alike. Drawing on the distinctions in the literat
 
 **Self-locating knowledge** is stronger. Lewis's Two Gods each know every impersonal fact yet cannot determine which god they are. The knowledge "I am the mountain god" cannot be derived from any impersonal description. This is where the distinction between [[#from-epistemic-to-metaphysical|epistemic and metaphysical theses]] (explained below) becomes critical.
 
-**Phenomenal indexical knowledge** is the strongest grade. Knowing *what it is like* to see red—not that certain wavelengths stimulate certain cones, but the qualitative character of the experience as undergone by *this* subject—resists translation into any impersonal vocabulary. This is what Mary gains when she leaves her black-and-white room in the [[knowledge-argument]]. Phenomenal indexical knowledge combines the irreducibility of self-location with the irreducibility of qualitative experience. It is doubly perspectival: accessible only from a particular subject-position *and* only through having the experience.
+**Phenomenal indexical knowledge** is the strongest grade. Knowing *what it is like* to see red—not that certain wavelengths stimulate certain cones, but the qualitative character of the experience as undergone by *this* subject—resists translation into any impersonal vocabulary. This is what Mary gains when she leaves her black-and-white room in the [[knowledge-argument]]. Phenomenal indexical knowledge combines the irreducibility of self-location with the irreducibility of [[acquaintance-knowledge]]—direct experiential contact with qualitative character. It is doubly perspectival: accessible only from a particular subject-position *and* only through having the experience, making it a [[consciousness-only-territories|consciousness-only territory]] inaccessible to systems lacking phenomenal experience.
 
 These grades are cumulative. Phenomenal indexical knowledge includes self-locating knowledge, which in turn includes perspectival knowledge. But each stronger grade adds something the weaker grades lack.
 
@@ -92,7 +93,7 @@ Physics aims to describe reality in context-independent terms—particle positio
 
 A complete physical description of the universe would specify every brain, every neural pattern, every conscious experience (if consciousness is physical). But would it tell you which brain is yours? The description treats all brains equally—no brain is privileged as "the one I am." The indexical fact "this brain is mine" adds something the physical description lacks.
 
-This connects to the [[knowledge-argument]]. Mary knows all physical facts about colour vision but lacks phenomenal indexical knowledge of *what it is like* to see red. The gap between her pre-release and post-release knowledge is precisely the gap between impersonal and phenomenal indexical knowledge—the strongest grade, requiring both the right subject-position and the right experience.
+This connects to the [[knowledge-argument]]. Mary knows all physical facts about colour vision but lacks phenomenal indexical knowledge of *what it is like* to see red. The gap between her pre-release and post-release knowledge is precisely the gap between impersonal and phenomenal indexical knowledge.
 
 Science aspires to describe reality from no particular perspective—Thomas Nagel's "view from nowhere." But consciousness *is* perspective. The first-person dimension of indexical knowledge resists incorporation into the objective picture. The limitation is structural, not practical.
 
@@ -149,6 +150,7 @@ Indexical knowledge and identity connect to The Unfinishable Map's [[tenets]] ac
 - [[haecceity]] — Primitive thisness grounding indexical identity
 - [[vertiginous-question]] — Why am I this conscious being?
 - [[knowledge-argument]] — Mary's Room and what physical knowledge misses
+- [[acquaintance-knowledge]] — Direct experiential contact underlying phenomenal indexical knowledge
 - [[consciousness-only-territories]] — Epistemic territories accessible only through experience
 - [[personal-identity]] — What makes you the same person over time
 - [[concepts/many-worlds]] — Why indexical identity poses problems for branching interpretations

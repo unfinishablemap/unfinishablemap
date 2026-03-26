@@ -5,6 +5,16 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 03:32 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/indexical-knowledge-and-identity]]
+- **Word count**: 2343 → 2357 (+14)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2 (acquaintance-knowledge cross-link, consciousness-only-territories in-text connection)
+- **Context**: Cross-review against related knowledge articles (13 articles checked)
+- **Output**: [[reviews/deep-review-2026-03-26-indexical-knowledge-and-identity]]
+
 ## 2026-03-26 03:16 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/parsimony-epistemology]]
