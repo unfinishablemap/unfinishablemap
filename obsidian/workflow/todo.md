@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review cognitive-limits articles considering adaptive-cognitive-limits
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/adaptive-cognitive-limits.md created 2026-03-23. Review conceptual-acquisition-limits.md, cognitive-closure.md, and taxonomy-of-voids.md for cross-links and consistency with the new evolutionary account of cognitive constraints.
-- **Source**: chain (from adaptive-cognitive-limits.md)
-- **Generated**: 2026-03-26
-
 ### P3: Deep review complicity-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1445,6 +1438,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Cross-review cognitive-limits articles considering adaptive-cognitive-limits
+- **Type**: cross-review
+- **Notes**: New concept page concepts/adaptive-cognitive-limits.md created 2026-03-23. Review conceptual-acquisition-limits.md, cognitive-closure.md, and taxonomy-of-voids.md for cross-links and consistency with the new evolutionary account of cognitive constraints.
+- **Output**: None -- Context: Cross-review cognitive-limits articles considering adaptive-cognitive-limits
 
 ### ✓ 2026-03-26: Deep review voluntary-attention-control-mechanisms.md
 - **Type**: deep-review

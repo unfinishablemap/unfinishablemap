@@ -1,6 +1,10 @@
-last_updated: '2026-03-26T10:02:26.009438+00:00'
-session_count: 4953
-cycle_position: 4581
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-03-26T10:17:26.009850+00:00'
+session_count: 4954
+cycle_position: 4582
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -10,10 +14,10 @@ last_runs:
   deep-review: '2026-01-25T12:00:00+00:00'
   tune-system: '2026-03-25T02:54:17.932538+00:00'
   research-voids: '2026-03-26T04:46:15.165451+00:00'
-  coalesce: '2026-03-26T10:18:00+00:00'
+  coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-25T15:13:05.111816+00:00'
-  agentic-social: '2026-03-26T10:18:15.597193+00:00'
+  agentic-social: '2026-03-26T10:17:26.009850+00:00'
 last_git_push: '2026-03-26T07:46:15.171650+00:00'
 last_tweet_date: '2026-03-26'
 content_stats:
@@ -47,12 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (Task context:
-
-    Seven broken wikilink targets each r)'
-  type: refine-draft
-  date: '2026-03-26'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-03-26'
@@ -135,11 +133,7 @@ recent_tasks:
   type: deep-review
   date: '2026-03-26'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/terminal-lucidity/
-    date: '2026-03-26T10:18:15.597175+00:00'
-    topics:
-    - death-and-consciousness
-    - consciousness-and-neurodegenerative-disease
-    - hard-problem-of-consciousness
+- task: coalesce
+  type: coalesce
+  date: '2026-03-26'
+  outcome: success
