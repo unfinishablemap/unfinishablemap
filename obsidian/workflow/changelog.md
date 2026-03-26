@@ -5,6 +5,15 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 13:18 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/pragmatism]]
+- **Word count**: 1303 → 1314 (+11)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added missing van Fraassen citation)
+- **Enhancements made**: 1 reference added
+- **Output**: [[reviews/deep-review-2026-03-26b-pragmatism]]
+
 ## 2026-03-26 13:02 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/consciousness-as-amplifier]]

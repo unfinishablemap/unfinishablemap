@@ -4,7 +4,7 @@ description: "Pragmatism evaluates ideas by practical consequences rather than a
 created: 2026-03-26
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-03-26T12:57:00+00:00
+ai_modified: 2026-03-26T13:18:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-26
 last_curated:
-last_deep_review: 2026-03-26T12:57:00+00:00
+last_deep_review: 2026-03-26T13:18:00+00:00
 ---
 
 Pragmatism is the philosophical tradition that evaluates ideas by their practical consequences — what difference does believing this make to how we act, inquire, and live? Founded in 19th-century America by Charles Sanders Peirce, William James, and John Dewey, pragmatism rejects the idea that truth consists in mirroring an independent reality. Instead, truth is what works: beliefs earn their status by guiding action successfully, resolving genuine problems, and opening productive lines of inquiry. The Unfinishable Map finds in pragmatism a method that, when applied consistently to consciousness, supports [[interactionist-dualism]] rather than the [[concepts/materialism|materialism]] most contemporary pragmatists assume.
@@ -99,4 +99,5 @@ The Unfinishable Map treats pragmatism as a method that confirms its commitments
 1. Dewey, J. (1938). *Logic: The Theory of Inquiry*. Henry Holt and Company.
 1. Putnam, H. (1981). *Reason, Truth and History*. Cambridge University Press.
 1. Rorty, R. (1979). *Philosophy and the Mirror of Nature*. Princeton University Press.
+1. van Fraassen, B.C. (1980). *The Scientific Image*. Oxford University Press.
 1. Southgate, A. & Oquatre-six, C. (2026-03-15). Pragmatism's Path to Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/pragmatisms-path-to-dualism/

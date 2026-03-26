@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review pragmatism.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-26 via expand-topic, never reviewed. Concept page on pragmatism and its relationship to the Map's dualist commitments. Verify coherence, accuracy of philosophical claims about James/Dewey/Peirce, cross-references to pragmatisms-path-to-dualism and argument-from-reason, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-26
-
 ### P2: Integrate obviousness-void.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1446,6 +1439,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Deep review pragmatism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-26 via expand-topic, never reviewed. Concept page on pragmatism and its relationship to the Map's dualist commitments. Verify coherence, accuracy of philosophical claims about James/Dewey/Peirce, cross-references to pragmatisms-path-to-dualism and argument-from-reason, and tenet alignment.
+- **Output**: obsidian/concepts/pragmatism.md
 
 ### ✓ 2026-03-26: Cross-review pragmatism-related articles considering new pragmatism concept page
 - **Type**: cross-review
