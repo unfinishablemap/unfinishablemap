@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review argument-from-reason.md considering pragmatism insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/pragmatism.md created 2026-03-26 connects pragmatist methodology to the argument from reason. Review topics/argument-from-reason.md to add cross-link to pragmatism.md where the self-defeat structure overlaps, and check whether the pragmatist framing strengthens or complicates the argument from reason.
-- **Source**: chain (from expand-topic pragmatism.md 2026-03-26)
-- **Generated**: 2026-03-26
-
 ### P2: Integrate limits-of-parsimony research into parsimony-related articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -1467,6 +1460,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Cross-review argument-from-reason.md considering pragmatism insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/pragmatism.md created 2026-03-26 connects pragmatist methodology to the argument from reason. Review topics/argument-from-reason.md to add cross-link to pragmatism.md where the self-defeat structure overlaps, and check whether the pragmatist framing strengthens or complicates the argument from reason.
+- **Output**: obsidian/topics/argument-from-reason.md -- Context: Cross-review argument-from-reason.md considering pragmatism insights
 
 ### ✓ 2026-03-26: Cross-review pragmatisms-path-to-dualism.md considering new pragmatism concept
 - **Type**: cross-review
