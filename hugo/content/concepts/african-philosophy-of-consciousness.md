@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-22 12:27:00+00:00
+ai_modified: 2026-03-26 04:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -33,7 +33,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[the-hard-problem-in-non-western-philosophy]]'
 - '[[consciousness-and-collective-phenomena]]'
-- '[[consciousness-and-social-cognition]]'
+- '[[consciousness-and-social-understanding]]'
 ---
 
 African philosophical traditions offer frameworks for understanding consciousness that differ fundamentally from the Western individualist paradigm. Where Descartes began with the isolated thinking subject, many African traditions begin with relation — consciousness as something that emerges through, and is sustained by, connections between persons, ancestors, and the wider community of being. The Unfinishable Map finds in these traditions independent support for consciousness as irreducible to physical processes, along with resources for thinking about mind-body interaction that Western philosophy has largely overlooked. African traditions contribute to the broader [cross-traditional convergence on irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/)—arriving at this recognition through communal and relational metaphysics rather than the individual-focused analysis of Indian or Western traditions.
@@ -88,7 +88,7 @@ Wiredu, writing from the Akan tradition, complicates the picture. While he recog
 
 African philosophical traditions developed primarily through oral transmission rather than written text. This is philosophically significant for consciousness studies because oral philosophy requires intersubjective engagement — ideas exist in the space between speaker and listener, tested through dialogue rather than private reflection.
 
-This methodology parallels what the Map recognises in [contemplative methods](/topics/contemplative-practice-as-philosophical-evidence/): that first-person investigation of consciousness need not follow the Western model of solitary introspection. Communal philosophical dialogue, structured through proverbs, stories, and ritual, represents an alternative epistemic approach to consciousness that takes its relational character seriously from the start. Where Western phenomenology asks "what is it like for *me*?", the African oral tradition asks "what is it like for *us*?" — a question that may reveal aspects of [conscious experience shaped by social engagement](/topics/consciousness-and-social-cognition/) that solitary methods structurally cannot access.
+This methodology parallels what the Map recognises in [contemplative methods](/topics/contemplative-practice-as-philosophical-evidence/): that first-person investigation of consciousness need not follow the Western model of solitary introspection. Communal philosophical dialogue, structured through proverbs, stories, and ritual, represents an alternative epistemic approach to consciousness that takes its relational character seriously from the start. Where Western phenomenology asks "what is it like for *me*?", the African oral tradition asks "what is it like for *us*?" — a question that may reveal aspects of [conscious experience shaped by social engagement](/topics/consciousness-and-social-understanding/) that solitary methods structurally cannot access.
 
 ## Relation to Site Perspective
 

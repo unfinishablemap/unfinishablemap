@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-03-02 11:52:00+00:00
+ai_modified: 2026-03-26 07:01:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,14 +20,14 @@ description: 'The problem of other minds generalises: if phenomenal properties a
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-02 11:52:00+00:00
+last_deep_review: 2026-03-26 07:01:00+00:00
 modified: *id001
 related_articles:
 - '[[other-minds-void]]'
 - '[[intersubjective-void]]'
 - '[[substance-property-dualism]]'
 - '[[modal-structure-of-phenomenal-properties]]'
-- '[[consciousness-and-interpersonal-understanding]]'
+- '[[consciousness-and-social-understanding]]'
 - '[[epistemology-of-first-person-evidence]]'
 - '[[epistemology-of-other-minds-under-dualism]]'
 title: Consciousness and the Problem of Other Properties
@@ -76,7 +76,7 @@ Words for phenomenal properties are learned through public criteria — pointing
 
 The [epistemology of testimony](/topics/consciousness-and-testimony/) hits its limit here. We can trust others' reports about the functional and relational aspects of their experience — they can reliably tell us which colours match, which pains are worse, which emotions accompany which situations. What testimony cannot convey is the intrinsic phenomenal character that accompanies these functional roles. The bottleneck is not dishonesty or imprecision. It is the structure of language itself, which encodes relations and functions rather than intrinsic qualities.
 
-This has consequences for [interpersonal understanding](/topics/consciousness-and-interpersonal-understanding/). If genuine understanding of another person requires grasping what their experience is like — not just what they do and say — then understanding is structurally limited in the same way that testimony is. We can understand another person's situation, their reasons, their behavioural patterns. We cannot understand the phenomenal texture of their inner life.
+This has consequences for [interpersonal understanding](/topics/consciousness-and-social-understanding/). If genuine understanding of another person requires grasping what their experience is like — not just what they do and say — then understanding is structurally limited in the same way that testimony is. We can understand another person's situation, their reasons, their behavioural patterns. We cannot understand the phenomenal texture of their inner life.
 
 ## Asymmetry with Self-Knowledge
 

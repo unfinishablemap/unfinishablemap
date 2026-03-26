@@ -68,7 +68,7 @@ All attributions verified:
 - [moral-responsibility](/concepts/moral-responsibility/) (inline, moral accountability paragraph)
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) (inline + Further Reading, corrected from broken link)
 - [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-phenomena/) (inline + Further Reading)
-- [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/) (Further Reading)
+- [consciousness-and-interpersonal-understanding](/topics/consciousness-and-social-understanding/) (Further Reading)
 - [cumulative-culture](/concepts/cumulative-culture/) (Further Reading)
 
 ## Remaining Items

@@ -109,7 +109,7 @@ The gravity well pattern is central to the Map's self-understanding. The Map's [
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** denies the second premise: physics is not causally complete at quantum indeterminacies. This is the thrust that achieves escape velocity. Without it, the Map's dualism would face the same gravitational pull as every other non-reductive position.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** states what escape looks like: consciousness causally influences physical outcomes at the points of incompleteness. The [self-stultification argument](/concepts/epiphenomenalism/#the-self-stultification-argument) provides the strongest evidence that human consciousness, specifically, has achieved this escape.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** states what escape looks like: consciousness causally influences physical outcomes at the points of incompleteness. The [self-stultification argument](/concepts/epiphenomenalism/#the-self-stultification-problem) provides the strongest evidence that human consciousness, specifically, has achieved this escape.
 
 **[No Many Worlds](/tenets/#no-many-worlds)** maintains the conditions for escape. Many-worlds would close the gap that Minimal Quantum Interaction exploits, restoring causal completeness and pulling the framework back into the well.
 

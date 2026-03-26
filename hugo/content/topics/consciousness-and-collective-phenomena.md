@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-03-19 23:02:00+00:00
+ai_modified: 2026-03-26 04:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -32,9 +32,8 @@ related_articles:
 - '[[phenomenology-of-trust]]'
 title: Consciousness and Collective Phenomena
 topics:
-- '[[topics/consciousness-and-social-cognition]]'
+- '[[consciousness-and-social-understanding]]'
 - '[[the-strong-emergence-of-consciousness]]'
-- '[[consciousness-and-interpersonal-understanding]]'
 - '[[social-construction-of-self-vs-phenomenal-self]]'
 - '[[machine-consciousness]]'
 ---
@@ -123,7 +122,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet counsels against di
 
 ## Further Reading
 
-- [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — How individual consciousness enables the social cognition that makes collective phenomena possible
+- [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) — How individual consciousness enables the social cognition that makes collective phenomena possible
 - [combination-problem](/concepts/combination-problem/) — The challenge of explaining how experiences combine, relevant in both directions
 - [collective-cognitive-limits](/voids/collective-cognitive-limits/) — The voids perspective: how groups create emergent blind spots
 - [intersubjective-void](/voids/intersubjective-void/) — Why the gap between individual minds persists even in tightly coupled groups

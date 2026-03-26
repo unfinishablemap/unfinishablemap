@@ -31,6 +31,7 @@ related_articles:
 - '[[consciousness-and-causal-powers]]'
 - '[[bidirectional-interaction]]'
 - '[[physics-as-disclosure]]'
+- '[[self-reference-paradox]]'
 - '[[tenets]]'
 title: The Self-Stultification Argument
 topics:
@@ -129,7 +130,7 @@ The self-stultification argument has a performative dimension. The epiphenomenal
 
 ## Historical Context
 
-The self-stultification structure has ancient roots. The Cretan liar paradox ("All Cretans are liars, said the Cretan") exhibits self-referential instability. Pyrrhonian skeptics faced the objection that their skepticism undermined itself.
+The self-stultification structure has ancient roots. The Cretan liar paradox ("All Cretans are liars, said the Cretan") exhibits self-referential instability—a pattern the [self-reference-paradox](/concepts/self-reference-paradox/) traces through formal logic (Gödel), phenomenology (Metzinger), and empirical psychology (Nisbett and Wilson). Pyrrhonian skeptics faced the objection that their skepticism undermined itself.
 
 In the philosophy of mind, the argument gained prominence through:
 

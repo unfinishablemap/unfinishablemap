@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-17 01:00:00+00:00
+ai_modified: 2026-03-26 05:16:00+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
@@ -23,7 +23,7 @@ title: Research Notes - Penrose Gravity-Collapse Connection and Empirical Prospe
 topics:
 - '[[philosophical-stakes-of-spontaneous-collapse]]'
 - '[[qm-interpretations-beyond-many-worlds]]'
-- '[[quantum-measurement-consciousness-interface]]'
+- '[[quantum-measurement-and-consciousness]]'
 ---
 
 # Research: Penrose Gravity-Collapse Connection — Supplementary Notes

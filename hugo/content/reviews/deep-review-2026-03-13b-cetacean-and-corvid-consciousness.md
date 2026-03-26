@@ -56,7 +56,7 @@ None. The earlier review today addressed all substantive issues. No new critical
 4. [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Added to Further Reading Core Topics: convergent test cases
 5. [cumulative-culture](/concepts/cumulative-culture/) — Added body paragraph on corvid tool culture as potential challenge + Further Reading link
 6. [minds-without-words](/apex/minds-without-words/) — Added body paragraph in Multiple Independent Origins on cetacean/corvid convergence within vertebrates
-7. [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — Added to Further Reading: cetacean/corvid Level 1-2 social cognition
+7. [consciousness-and-social-cognition](/topics/consciousness-and-social-understanding/) — Added to Further Reading: cetacean/corvid Level 1-2 social cognition
 8. [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Added to Further Reading: convergent amplification evidence
 
 **Pre-existing inbound links:**

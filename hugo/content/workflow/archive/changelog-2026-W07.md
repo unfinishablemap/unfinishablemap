@@ -917,7 +917,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-15 03:00 UTC - expand-topic
 - **Status**: Success
 - **Topic**: consciousness and interpersonal understanding
-- **Output**: [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/)
+- **Output**: [consciousness-and-interpersonal-understanding](/topics/consciousness-and-social-understanding/)
 - **Word count**: 1869
 - **Based on research**: no
 

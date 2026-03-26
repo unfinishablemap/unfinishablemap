@@ -5,6 +5,12 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 07:16 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/epiphenomenalism]], [[concepts/illusionism]]
+- **Changes**: Fixed broken section anchor references across 12 files. Removed Hugo-only `{#custom-id}` syntax from illusionism.md headings (The Infinite Regress Problem, The Illusionist Response) and updated all 9 referring wikilinks to use heading text. Fixed mismatched anchor text in the-epiphenomenalist-threat.md, epiphenomenalisms-gravity-well.md (archive), and 2 review files.
+- **Published**: yes
+
 ## 2026-03-26 07:01 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-problem-of-other-properties]]

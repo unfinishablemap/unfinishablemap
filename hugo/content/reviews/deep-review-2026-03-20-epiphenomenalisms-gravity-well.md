@@ -58,14 +58,14 @@ topics: []
 
 ### Enhancements Made
 - Added inline `[emergence](/concepts/emergence/)` cross-link in the emergence strategy section
-- Added `[self-stultification argument](/concepts/epiphenomenalism/#the-self-stultification-argument)` link for the reference in Relation to Site Perspective
+- Added `[self-stultification argument](/concepts/epiphenomenalism/#the-self-stultification-problem)` link for the reference in Relation to Site Perspective
 - Refined Russellian monism characterisation to engage more substantively with the constitutive claim
 - Added qualifier to absent qualia scenario acknowledging the debate
 - Added perspective framing to the "central question" claim
 
 ### Cross-links Added
 - [emergence](/concepts/emergence/)
-- [epiphenomenalism](/concepts/epiphenomenalism/#the-self-stultification-argument)
+- [epiphenomenalism](/concepts/epiphenomenalism/#the-self-stultification-problem)
 
 ## Word Count
 - Before: 2003 words (67% of 3000 soft threshold)

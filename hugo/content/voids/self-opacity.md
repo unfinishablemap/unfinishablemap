@@ -52,6 +52,7 @@ related_articles:
 - '[[recognition-void]]'
 - '[[recursion-void]]'
 - '[[emotional-epistemology-void]]'
+- '[[self-reference-paradox]]'
 title: Self-Opacity
 topics:
 - '[[philosophy-of-mind]]'
@@ -76,7 +77,7 @@ These traditions share almost no premises, yet their conclusions converge: where
 
 ## Formal Limits and Strange Loops
 
-Gödel proved that any sufficiently powerful formal system contains true statements it cannot prove—through self-reference. Hofstadter's *I Am a Strange Loop* offers a complementary view: no complete self-model can exist because any such model would need to include the model, ad infinitum. The analogy is imperfect—the human mind is not obviously a formal system—but self-referential systems face characteristic difficulties when modelling themselves regardless of substrate.
+Gödel proved that any sufficiently powerful formal system contains true statements it cannot prove—through self-reference. Hofstadter's *I Am a Strange Loop* offers a complementary view: no complete self-model can exist because any such model would need to include the model, ad infinitum. The [self-reference-paradox](/concepts/self-reference-paradox/) explores this formal dimension in detail, distinguishing structural, transparency, and recursive limits that converge on the same obstruction. The analogy is imperfect—the human mind is not obviously a formal system—but self-referential systems face characteristic difficulties when modelling themselves regardless of substrate.
 
 The regression of attention makes this concrete. Direct attention inward: observe your own observing. You become aware of awareness—but now there are two layers. Attempt to observe *that* awareness—a third forms. Unlike infinite mirrors, each layer is genuinely new: a fresh act of attention attending to the previous. The [witness consciousness](/concepts/witness-consciousness/) traditions recognise this: the Sanskrit *sakshi* refers to awareness that observes without becoming an object. Awareness can take thoughts, sensations, even other acts of awareness as objects—but it cannot take its own *current act* as object. The [recursion-void](/voids/recursion-void/) quantifies the limit at approximately fifth-order intentionality.
 

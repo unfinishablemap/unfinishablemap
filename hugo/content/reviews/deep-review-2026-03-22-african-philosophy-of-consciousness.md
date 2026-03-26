@@ -56,7 +56,7 @@ None. The previous review addressed all critical issues (Wiredu misattribution, 
 
 ### Cross-links Added
 
-- [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) (body text, Oral Tradition section)
+- [consciousness-and-social-cognition](/topics/consciousness-and-social-understanding/) (body text, Oral Tradition section)
 
 ## Remaining Items
 

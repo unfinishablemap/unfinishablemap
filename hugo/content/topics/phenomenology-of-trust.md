@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-25 14:13:00+00:00
+ai_modified: 2026-03-26 04:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -33,8 +33,7 @@ related_articles:
 - '[[phenomenology-of-moral-life]]'
 title: The Phenomenology of Trust
 topics:
-- '[[topics/consciousness-and-social-cognition]]'
-- '[[consciousness-and-interpersonal-understanding]]'
+- '[[consciousness-and-social-understanding]]'
 - '[[phenomenology-of-epistemic-cognition]]'
 - '[[phenomenology-of-deliberation-under-uncertainty]]'
 - '[[consciousness-and-testimony]]'
@@ -117,8 +116,7 @@ The [limits of Occam's Razor](/tenets/#occams-limits) (Tenet 5) caution against 
 
 ## Further Reading
 
-- [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/)
-- [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/)
+- [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/)
 - [problem-of-other-minds](/concepts/problem-of-other-minds/)
 - [intersubjectivity](/concepts/intersubjectivity/)
 - [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/)

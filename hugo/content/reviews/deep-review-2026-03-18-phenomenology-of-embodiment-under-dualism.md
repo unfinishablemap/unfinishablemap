@@ -27,7 +27,7 @@ None. All attributions (Husserl, Merleau-Ponty, Zahavi, Leder, Gallagher) remain
 
 ### Medium Issues Found
 - **Orphaned status (zero inbound links)**: The article had no inbound links from any other content on the site, making it effectively invisible to navigation. Resolution: Added 8 new inbound links from related articles (see Cross-links Added below).
-- **Missing wikilinks in intercorporeality section**: The discussion of intercorporeality did not link to related social cognition or intersubjectivity content. Resolution: Added inline links to [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) and [intersubjectivity](/concepts/intersubjectivity/).
+- **Missing wikilinks in intercorporeality section**: The discussion of intercorporeality did not link to related social cognition or intersubjectivity content. Resolution: Added inline links to [consciousness-and-social-cognition](/topics/consciousness-and-social-understanding/) and [intersubjectivity](/concepts/intersubjectivity/).
 
 ### Counterarguments Considered
 No new counterarguments beyond those addressed in the previous review. The stability notes from 2026-03-15 remain valid — bedrock philosophical disagreements (eliminative materialist, Dennett's heterophenomenology, Buddhist challenge to stable subject) are not re-flagged.
@@ -43,7 +43,7 @@ No new counterarguments beyond those addressed in the previous review. The stabi
 - Appropriate confidence calibration throughout
 
 ### Enhancements Made
-- Added [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) and [intersubjectivity](/concepts/intersubjectivity/) wikilinks in intercorporeality section
+- Added [consciousness-and-social-cognition](/topics/consciousness-and-social-understanding/) and [intersubjectivity](/concepts/intersubjectivity/) wikilinks in intercorporeality section
 
 ### Cross-links Added (inbound — from other articles to this one)
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — Further Reading entry

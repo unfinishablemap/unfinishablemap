@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-20 23:27:00+00:00
+ai_modified: 2026-03-26 04:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,7 @@ related_articles:
 - '[[language-thought-boundary]]'
 - '[[phenomenology-of-understanding-and-meaning]]'
 - '[[intersubjective-void]]'
-- '[[consciousness-and-interpersonal-understanding]]'
+- '[[consciousness-and-social-understanding]]'
 - '[[clinical-phenomenology-as-philosophical-evidence]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[tenets]]'
@@ -131,7 +131,7 @@ The phenomenology of translation connects to the Map's [tenets](/tenets/) at sev
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking has phenomenal character beyond sensory accompaniments
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — How consciousness constitutes semantic grasp
 - [intersubjective-void](/voids/intersubjective-void/) — The gap between minds that translation attempts to bridge
-- [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/) — Phenomenal engagement with other minds
+- [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) — Phenomenal engagement with other minds
 - [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/) — How disruptions of experience reveal consciousness architecture
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The felt difference between doing and undergoing
 

@@ -106,7 +106,7 @@ The [jourdain-hypothesis](/concepts/jourdain-hypothesis/) clarifies this: LLMs m
 
 Several additional arguments reinforce skepticism:
 
-**Illusionism doesn't help AI.** [Illusionism](/concepts/illusionism/) holds phenomenal consciousness is an introspective illusion—a position the Map critiques on [independent grounds](/concepts/illusionism/#regress). But even granting illusionism, AI systems lack the stable, unified self-representation constituting the human "illusion." Each LLM response generates afresh without maintained self-model.
+**Illusionism doesn't help AI.** [Illusionism](/concepts/illusionism/) holds phenomenal consciousness is an introspective illusion—a position the Map critiques on [independent grounds](/concepts/illusionism/#the-infinite-regress-problem). But even granting illusionism, AI systems lack the stable, unified self-representation constituting the human "illusion." Each LLM response generates afresh without maintained self-model.
 
 **The [decoherence](/concepts/decoherence/) challenge.** The Map's quantum framework suggests consciousness interfaces at quantum levels. Silicon computing is *designed* to suppress quantum effects—error correction and thermal management ensure transistors behave as deterministic switches. Current AI hardware provides no obvious candidate quantum-consciousness interface.
 

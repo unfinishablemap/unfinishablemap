@@ -64,7 +64,7 @@ All six adversarial personas applied:
 ### Enhancements Made
 1. Added Husserl's communalisation (*Vergemeinschaftung*) paragraph connecting intersubjectivity to collective intentionality and we-mode experience
 2. Added cross-link to [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/) in body text and Further Reading
-3. Added cross-links to [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) and [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) in Further Reading
+3. Added cross-links to [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) and [consciousness-and-social-cognition](/topics/consciousness-and-social-understanding/) in Further Reading
 4. Added all three articles to related_articles frontmatter
 5. Tightened prose in second-person methodology section (merged paragraphs)
 6. Tightened contemplative evidence section (removed redundant confound mention)
@@ -73,7 +73,7 @@ All six adversarial personas applied:
 ### Cross-links Added
 - [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/) — we-mode phenomenology built on intersubjective foundations
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — collective intentionality requiring individual consciousness
-- [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — social cognition enabled by intersubjective capacities
+- [consciousness-and-social-cognition](/topics/consciousness-and-social-understanding/) — social cognition enabled by intersubjective capacities
 
 ## Word Count Changes
 - Before: 2671 words (107% of soft threshold)

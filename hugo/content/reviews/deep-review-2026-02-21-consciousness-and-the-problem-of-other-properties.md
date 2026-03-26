@@ -52,7 +52,7 @@ None.
 
 ### Cross-links Added
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — formal backbone of the argument
-- [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/) — interpersonal implications
+- [consciousness-and-interpersonal-understanding](/topics/consciousness-and-social-understanding/) — interpersonal implications
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — inline concept link
 
 ## Remaining Items

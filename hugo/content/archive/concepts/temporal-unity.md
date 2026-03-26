@@ -90,7 +90,7 @@ Temporal unity can degrade or disappear, revealing its contingent dependence on 
 
 **Absorption and flow states** alter temporal unity without destroying it. Moments become intensely vivid yet loosely coupled to neighbours, producing the paradox of "timelessness" within ongoing experience.
 
-These dissociations support the view that temporal unity is a distinct phenomenal property, not automatically entailed by having experience at all. [Illusionists](/concepts/illusionism/) argue that temporal flow is a constructed narrative rather than a genuine phenomenal property—that the brain stitches together discrete processing moments into an illusion of continuity. The Map's response is that the illusion itself would need to be temporally unified to be experienced as flowing, generating the same explanatory demand at a higher level (see [the regress argument](/concepts/illusionism/#regress)).
+These dissociations support the view that temporal unity is a distinct phenomenal property, not automatically entailed by having experience at all. [Illusionists](/concepts/illusionism/) argue that temporal flow is a constructed narrative rather than a genuine phenomenal property—that the brain stitches together discrete processing moments into an illusion of continuity. The Map's response is that the illusion itself would need to be temporally unified to be experienced as flowing, generating the same explanatory demand at a higher level (see [the regress argument](/concepts/illusionism/#the-infinite-regress-problem)).
 
 ## Relation to Site Perspective
 

@@ -113,7 +113,7 @@ The Map's [Cognitive Closure](/concepts/mysterianism/) article develops McGinn's
 - **Tenet alignment**: Supports Tenet 3—expertise acquisition as evidence that consciousness shapes neural architecture over time
 
 #### Consciousness and the Authority of Testimony
-- **Builds on**: [consciousness-and-testimony](/topics/consciousness-and-testimony/), [epistemology-of-phenomenal-reports](/topics/epistemology-of-first-person-evidence/), [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/)
+- **Builds on**: [consciousness-and-testimony](/topics/consciousness-and-testimony/), [epistemology-of-phenomenal-reports](/topics/epistemology-of-first-person-evidence/), [consciousness-and-interpersonal-understanding](/topics/consciousness-and-social-understanding/)
 - **Would address**: Why testimony about subjective experience carries epistemic weight despite being unfalsifiable by third parties. Connects to the other-minds problem and to AI consciousness debates (can an AI testify about its experience?)
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Tenet 1 by showing subjective reports are not merely behavioural but epistemically grounded in phenomenal reality

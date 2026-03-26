@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-22 10:12:00+00:00
+ai_modified: 2026-03-26 04:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ related_articles:
 - '[[consciousness-only-territories]]'
 - '[[collective-cognitive-limits]]'
 - '[[phenomenology-of-collective-intentionality-and-we-consciousness]]'
-- '[[consciousness-and-interpersonal-understanding]]'
+- '[[consciousness-and-social-understanding]]'
 - '[[brain-computer-interfaces-and-the-interface-boundary]]'
 - '[[framework-void]]'
 - '[[self-opacity]]'
@@ -139,7 +139,7 @@ However, dualism doesn't *require* complete isolation. Two irreducible conscious
 
 The intersubjective void extends the [hard problem](/topics/hard-problem-of-consciousness/) into a new dimension: not just "why is there experience?" but "why is experience divided into subjects?"—and can it be reunited? [Consciousness and the limits of explanation](/topics/consciousness-and-the-limits-of-explanation/) argues that explanation presupposes phenomenal understanding. If consciousness is the one domain where social epistemic mechanisms systematically fail, our collective capacity to explain consciousness is doubly compromised: by the reflexive gap and by the social infrastructure's inability to reach phenomenal facts.
 
-Empathy has structural limits even at its best—it simulates rather than shares. [Interpersonal understanding](/topics/consciousness-and-interpersonal-understanding/) reaches across the void but cannot eliminate it. Collective consciousness remains ambiguous between genuine sharing and coordinated parallel experiences; the [voids framework](/voids/) suggests this ambiguity may mark a genuine cognitive limit rather than a question awaiting answer.
+Empathy has structural limits even at its best—it simulates rather than shares. [Interpersonal understanding](/topics/consciousness-and-social-understanding/) reaches across the void but cannot eliminate it. Collective consciousness remains ambiguous between genuine sharing and coordinated parallel experiences; the [voids framework](/voids/) suggests this ambiguity may mark a genuine cognitive limit rather than a question awaiting answer.
 
 ## Further Reading
 
@@ -149,7 +149,7 @@ Empathy has structural limits even at its best—it simulates rather than shares
 - [collective-cognitive-limits](/voids/collective-cognitive-limits/) — What groups cannot think together
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The taxonomy of unexplored, unexplorable, and occluded
 - [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/) — Whether "we-mode" experience is genuine sharing
-- [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/) — The gap between knowing-about and understanding-of
+- [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) — The gap between knowing-about and understanding-of
 - [framework-void](/voids/framework-void/) — How conceptual frameworks exclude what they cannot represent
 - [introspective opacity](/voids/self-opacity/) — Why we access contents but never mechanisms
 - [language-thought-boundary](/voids/language-thought-boundary/) — What cannot be said

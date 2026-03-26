@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-03-22 22:04:00+00:00
+ai_modified: 2026-03-26 04:01:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -111,7 +111,7 @@ The Map speculates that these clinical findings may eventually prove more persua
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/)
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)
-- [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-skill-acquisition/)
+- [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/)
 - [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/)
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
 - [downward-causation](/concepts/downward-causation/)

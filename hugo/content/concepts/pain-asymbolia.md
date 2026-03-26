@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-19 10:22:00+00:00
+ai_modified: 2026-03-26 05:16:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,6 @@ related_articles:
 - '[[psychophysical-laws]]'
 title: Pain Asymbolia
 topics:
-- '[[why-pain-hurts]]'
 - '[[pain-consciousness-and-causal-power]]'
 ---
 
@@ -97,7 +96,6 @@ Together, these dissociations show that pain's dimensions can be independently m
 ## Further Reading
 
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain, suffering, and the paradigm case for mental causation
-- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — Pain's phenomenal character and resistance to reduction
 - [valence](/concepts/valence/) — The affective dimension that asymbolia abolishes
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The thought experiment that asymbolia partially instantiates
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap that asymbolia exposes in miniature

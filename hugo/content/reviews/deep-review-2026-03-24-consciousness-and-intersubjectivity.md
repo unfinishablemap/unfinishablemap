@@ -47,7 +47,7 @@ All six adversarial personas engaged. No new substantive issues beyond what prev
 ### Enhancements Made
 - Added "What Would Challenge This View?" section with four concrete challenges
 - Added selfhood connection paragraph linking intersubjectivity to the three-layered model of selfhood
-- Added cross-links to [consciousness-and-testimony](/topics/consciousness-and-testimony/) and [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/) in body text
+- Added cross-links to [consciousness-and-testimony](/topics/consciousness-and-testimony/) and [consciousness-and-interpersonal-understanding](/topics/consciousness-and-social-understanding/) in body text
 - Added [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/), [self-and-self-consciousness](/concepts/self-and-self-consciousness/), and [consciousness-and-testimony](/topics/consciousness-and-testimony/) to Further Reading and frontmatter
 
 ### Cross-links Added
@@ -55,7 +55,7 @@ All six adversarial personas engaged. No new substantive issues beyond what prev
 - [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/)
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/)
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/)
-- [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/)
+- [consciousness-and-interpersonal-understanding](/topics/consciousness-and-social-understanding/)
 
 ## Remaining Items
 

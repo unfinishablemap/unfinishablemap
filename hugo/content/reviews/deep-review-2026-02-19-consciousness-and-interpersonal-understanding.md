@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-19
-**Article**: [Consciousness and Interpersonal Understanding](/topics/consciousness-and-interpersonal-understanding/)
+**Article**: [Consciousness and Interpersonal Understanding](/topics/consciousness-and-social-understanding/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -29,7 +29,7 @@ topics: []
 - **Bratman's conditions inaccurately formulated**: The original text presented a hybrid of Bratman's three characterizing features of shared cooperative activity and his formal sufficient conditions for shared intention, as if they were a single formulation. **Resolution**: Corrected to present the three features (mutual responsiveness, commitment to joint activity, commitment to mutual support) followed by the formal conditions (interlocking intentions, meshing subplans).
 - **Functionalist response to normativity argument not engaged**: The article asserted that removing consciousness collapses normative structure without addressing the functionalist objection that normative responses can be characterised by functional roles alone. **Resolution**: Added a paragraph engaging with this objection and presenting the Map's reply (functional accounts capture structure but lose force).
 - **`baseline-cognition` in frontmatter but not in body**: The concept was listed in frontmatter concepts but never referenced in the article text. **Resolution**: Removed from frontmatter.
-- **`[consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/)` only in Further Reading**: This related article was not cross-linked in the body despite its direct relevance. **Resolution**: Added inline cross-link in the promise-representation paragraph.
+- **`[consciousness-and-interpersonal-understanding](/topics/consciousness-and-social-understanding/)` only in Further Reading**: This related article was not cross-linked in the body despite its direct relevance. **Resolution**: Added inline cross-link in the promise-representation paragraph.
 
 ### Counterarguments Considered
 - **Eliminative materialist**: The phenomenal intentionality thesis is assumed rather than defended. Noted but not flagged — the article relies on the thesis as a well-articulated position within the Map's framework, linking to the concept page.
@@ -62,12 +62,12 @@ topics: []
 ### Enhancements Made
 - Corrected Bratman's characterisation to accurately reflect both features and formal conditions
 - Added functionalist engagement in normativity section with Map's reply
-- Added inline cross-link to `[consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/)`
+- Added inline cross-link to `[consciousness-and-interpersonal-understanding](/topics/consciousness-and-social-understanding/)`
 - Fixed broken `[metarepresentation](/concepts/metacognition/)` links with appropriate alternatives
 - Cleaned up frontmatter (removed unused concept)
 
 ### Cross-links Added
-- [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/) (inline in body)
+- [consciousness-and-interpersonal-understanding](/topics/consciousness-and-social-understanding/) (inline in body)
 - [theory-of-mind](/concepts/theory-of-mind/) (replacing broken metarepresentation link)
 
 ## Remaining Items

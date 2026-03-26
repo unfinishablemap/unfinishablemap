@@ -4,7 +4,7 @@ description: "Consciousness as causally inert byproduct. Self-stultification pro
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-03-21T11:09:00+00:00
+ai_modified: 2026-03-26T07:16:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -221,3 +221,14 @@ The self-stultification problem remains the strongest objection: if epiphenomena
 1. Cowan, N. (2001). "The magical number 4 in short-term memory: A reconsideration of mental storage capacity." *Behavioral and Brain Sciences*, 24(1), 87-114.
 1. Inoue, S. & Matsuzawa, T. (2007). "Working memory of numerals in chimpanzees." *Current Biology*, 17(23), R1004-R1005.
 1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
+
+<!-- AI REFINEMENT LOG - 2026-03-26
+Changes made:
+- Fixed broken section anchor references: removed {#regress} and {#illusionist-response} custom anchors from illusionism.md headings
+- Updated 9 referring wikilinks across obsidian/ and archive/ to use heading text instead of custom anchor IDs
+- Fixed mismatched anchor text in the-epiphenomenalist-threat.md (#The AI Exception Some vs All → #The AI Exception: Some vs. All)
+- Fixed mismatched anchor text in epiphenomenalisms-gravity-well.md archive (#The Self-Stultification Argument → #The Self-Stultification Problem)
+- No content changes to epiphenomenalism.md itself — all anchors already existed correctly
+
+This log should be removed after human review.
+-->

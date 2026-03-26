@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-12 02:10:00+00:00
+ai_modified: 2026-03-26 04:01:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,7 +33,6 @@ related_articles:
 - '[[dualist-perception]]'
 - '[[temporal-structure-of-consciousness]]'
 - '[[consciousness-and-skill-acquisition]]'
-- '[[consciousness-and-the-neuroscience-of-deliberate-practice]]'
 - '[[sensorimotor-contingencies-and-the-interface]]'
 - '[[phenomenology-of-conceptual-change]]'
 - '[[surprise-prediction-error-and-consciousness]]'
@@ -153,8 +152,7 @@ And both face the same explanatory gap. Predictive processing frameworks describ
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — How attention mediates consciousness and neural processing
 - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) — The broader problem of phenomenal unity
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — Temporal integration in experience
-- [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) — Motor dimension of skill acquisition
-- [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-skill-acquisition/) — Neural evidence for conscious engagement in plasticity
+- [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) — Skill acquisition, deliberate practice, and neural evidence for conscious engagement in plasticity
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — Perception as mastery of sensorimotor laws
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/) — The cognitive parallel: how frameworks transform
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — How faithfully perception tracks reality

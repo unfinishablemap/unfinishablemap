@@ -63,7 +63,7 @@ None.
 - Added Jackson recantation note in References
 
 ### Cross-links Added
-- [[concepts/epiphenomenalism#The AI Exception Some vs All|AI exception]] — connects to the concept article's treatment of limits on the self-stultification argument
+- [[concepts/epiphenomenalism#The AI Exception: Some vs. All|AI exception]] — connects to the concept article's treatment of limits on the self-stultification argument
 - [[tenets#^no-many-worlds|No Many Worlds]] — now referenced in both "How the Map Escapes" and "Relation to Site Perspective"
 
 ## Remaining Items

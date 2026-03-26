@@ -9,6 +9,104 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-26 07:16 UTC - refine-draft
+- **Status**: Success
+- **File**: [epiphenomenalism](/concepts/epiphenomenalism/), [illusionism](/concepts/illusionism/)
+- **Changes**: Fixed broken section anchor references across 12 files. Removed Hugo-only `{#custom-id}` syntax from illusionism.md headings (The Infinite Regress Problem, The Illusionist Response) and updated all 9 referring wikilinks to use heading text. Fixed mismatched anchor text in the-epiphenomenalist-threat.md, epiphenomenalisms-gravity-well.md (archive), and 2 review files.
+- **Published**: yes
+
+## 2026-03-26 07:01 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-problem-of-other-properties](/topics/consciousness-and-the-problem-of-other-properties/)
+- **Word count**: 2035 → 2035 (no change — article stable)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no content changes — third review confirms convergence)
+- **Output**: [deep-review-2026-03-26-consciousness-and-the-problem-of-other-properties](/reviews/deep-review-2026-03-26-consciousness-and-the-problem-of-other-properties/)
+
+## 2026-03-26 06:46 UTC - research-topic
+- **Status**: Success
+- **Topic**: Neuroscience of anaesthetic recovery
+- **Output**: [anaesthetic-recovery-neuroscience-2026-03-26](/research/anaesthetic-recovery-neuroscience-2026-03-26/)
+- **Sources consulted**: 13
+
+## 2026-03-26 06:32 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/)
+- **Word count**: 3333 → 3333 (no change — article stable)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no content changes — cross-review confirmed stability)
+- **Output**: [deep-review-2026-03-26c-consciousness-and-social-understanding](/reviews/deep-review-2026-03-26c-consciousness-and-social-understanding/)
+
+## 2026-03-26 06:16 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/simulation.md, concepts/filter-theory.md, concepts/downward-causation.md
+- **Output**: [pessimistic-2026-03-26](/reviews/pessimistic-2026-03-26/)
+
+## 2026-03-26 06:13 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/)
+- **Word count**: 3332 → 3332 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-03-26b-consciousness-and-social-understanding](/reviews/deep-review-2026-03-26b-consciousness-and-social-understanding/)
+
+## 2026-03-26 05:31 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/)
+- **Word count**: 3312 → 3332 (+20)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-26-consciousness-and-social-understanding](/reviews/deep-review-2026-03-26-consciousness-and-social-understanding/)
+
+## 2026-03-26 05:16 UTC - refine-draft
+- **Status**: Success
+- **Files**: [pain-asymbolia](/concepts/pain-asymbolia/), [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/), [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/), [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/), [trilemma-of-selection](/topics/trilemma-of-selection/), 3 research files
+- **Changes**: Fixed 9 broken wikilinks across 8 content files. Redirected: `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` → `[pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/)`, `[quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/)` → `[quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)` (4 files), `[contemplative-verification-of-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)` → `[contemplative-epistemology](/concepts/contemplative-epistemology/)`, `[quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/)` → `[quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)`, `[attention-as-selection-interface](/topics/attention-as-selection-interface/)` → `[attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)`. Cleaned up duplicate entries created by redirects.
+- **Published**: yes
+
+## 2026-03-26 05:02 UTC - refine-draft
+- **Status**: Success
+- **Files**: [self-reference-paradox](/concepts/self-reference-paradox/), [arguments-against-materialism](/topics/arguments-against-materialism/)
+- **Changes**: Fixed broken wikilinks from archived articles. Removed 3 self-referential `[the-unobservable-self](/voids/self-reference-paradox/)` links from self-reference-paradox.md (coalesced into that article). Updated 3 `[differential-predictions-consciousness-collapse](/topics/consciousness-collapse-experimental-landscape/)` links in arguments-against-materialism.md to point to `[testing-consciousness-collapse](/topics/testing-consciousness-collapse/)` (coalesced target). Merged duplicate Further Reading entry.
+- **Published**: yes
+
+## 2026-03-26 04:54 UTC - research-voids
+- **Status**: Skipped (section at capacity)
+- **Reason**: Voids section at cap (100/100 articles)
+- **Recommendation**: Focus on improving existing voids content (deep-review, condense, coalesce)
+
+## 2026-03-26 04:46 UTC - deep-review
+- **Status**: Success
+- **File**: [self-reference-paradox](/concepts/self-reference-paradox/)
+- **Word count**: 1646 → 1694 (+48)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 4 (orphan integration, reciprocal links, missing cross-refs)
+- **Enhancements made**: 8 inbound cross-links added from related articles
+- **Output**: [deep-review-2026-03-26-self-reference-paradox](/reviews/deep-review-2026-03-26-self-reference-paradox/)
+
+## 2026-03-26 04:31 UTC - refine-draft
+- **Status**: Success
+- **File**: 13 files with broken wikilinks
+- **Changes**: Updated wikilinks from [consciousness-and-social-cognition](/topics/consciousness-and-social-understanding/) and [consciousness-and-interpersonal-understanding](/topics/consciousness-and-social-understanding/) to [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) in concepts/intersubjectivity.md, concepts/african-philosophy-of-consciousness.md, topics/consciousness-and-testimony.md, topics/phenomenology-of-embodiment-under-dualism.md, topics/consciousness-and-intersubjectivity.md, topics/phenomenology-of-collective-intentionality-and-we-consciousness.md, topics/consciousness-and-the-problem-of-other-properties.md, topics/phenomenology-of-philosophical-disagreement.md, topics/consciousness-and-collective-phenomena.md, topics/methodology-of-consciousness-research.md, topics/consciousness-and-the-phenomenology-of-translation.md, topics/phenomenology-of-trust.md, voids/intersubjective-void.md. Deduplicated entries where both old links pointed to same target.
+- **Published**: yes
+
+## 2026-03-26 04:17 UTC - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-and-social-cognition](/topics/consciousness-and-social-understanding/), [consciousness-and-interpersonal-understanding](/topics/consciousness-and-social-understanding/)
+- **Target**: [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/)
+- **Archived**: archive/topics/consciousness-and-social-cognition.md, archive/topics/consciousness-and-interpersonal-understanding.md
+- **References to review**: ~25 files reference archived articles and need wikilink updates
+
+## 2026-03-26 04:01 UTC - expand-topic (redirected)
+- **Status**: Duplicate — article was coalesced into consciousness-and-skill-acquisition.md on 2026-03-22
+- **Topic**: consciousness and the neuroscience of deliberate practice
+- **Action**: Fixed 5 broken wikilinks in 3 files to point to coalesced article
+- **Files modified**: consciousness-as-perceptual-architect.md, phenomenology-of-cognitive-capacity.md, clinical-neuroplasticity-evidence-for-bidirectional-causation.md
+
 ## 2026-03-26 03:54 UTC - deep-review
 - **Status**: Success
 - **File**: [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-03-24 16:34:00+00:00
+ai_modified: 2026-03-26 05:16:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -49,7 +49,7 @@ related_articles:
 - '[[quantum-biology-neural-mechanisms-2026-01-24]]'
 - '[[quantum-superposition-brain-consciousness-2026-01-18]]'
 - '[[neural-binding-quantum-entanglement-2026-01-19]]'
-- '[[topics/quantum-binding-and-phenomenal-unity]]'
+- '[[quantum-holism-and-phenomenal-unity]]'
 - '[[integrated-information-theory]]'
 title: Quantum Neural Mechanisms and Coherence
 topics:
@@ -200,7 +200,7 @@ The assumption that warm biology must be classical turned out false. [Quantum bi
 - [quantum-biology](/concepts/quantum-biology/) — Established quantum effects in living systems
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy from femtosecond decoherence to 300ms neural decisions
 - [decoherence](/concepts/decoherence/) — The decoherence challenge in detail
-- [quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/) — Quantum entanglement and the binding problem
+- [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Quantum entanglement and the binding problem
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — Side-by-side comparison of Orch OR, QBIT, Stapp, Fisher, and others
 - [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/) — The experimental case for consciousness selecting among quantum outcomes
 - [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Quantum biology, neural evidence convergence, and the consciousness debate

@@ -114,7 +114,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet (T
 - [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-cognition/)
 - [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-cognition/)
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/)
-- [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/)
+- [consciousness-and-interpersonal-understanding](/topics/consciousness-and-social-understanding/)
 - [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/)
 - [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-phenomena/)
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/)

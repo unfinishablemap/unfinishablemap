@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-03-25 01:40:00+00:00
+ai_modified: 2026-03-26 05:16:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,7 @@ last_deep_review: 2026-03-12 00:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[topics/attention-as-selection-interface]]'
+- '[[attention-and-the-consciousness-interface]]'
 - '[[consciousness-and-causal-powers]]'
 - '[[concept-of-free-will]]'
 title: The Trilemma of Selection
@@ -133,7 +133,7 @@ The trilemma connects to each of the five [tenets](/tenets/):
 ## Further Reading
 
 - [free-will](/topics/free-will/) — The broader case for agent-causal libertarian free will
-- [attention-as-selection-interface](/topics/attention-as-selection-interface/) — The neural architecture where selection occurs
+- [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — The neural architecture where selection occurs
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — How quantum mechanics creates space for mental causation
 - [luck-objection](/concepts/luck-objection/) — The central challenge the trilemma's second horn makes vivid
 - [reasons-responsiveness](/concepts/reasons-responsiveness/) — Why reasons-guided selection escapes the luck objection

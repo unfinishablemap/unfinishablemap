@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-23 17:30:00+00:00
+ai_modified: 2026-03-26 04:31:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -30,7 +30,7 @@ related_articles:
 - '[[tenets]]'
 - '[[phenomenology-of-collective-intentionality-and-we-consciousness]]'
 - '[[consciousness-and-collective-phenomena]]'
-- '[[consciousness-and-social-cognition]]'
+- '[[consciousness-and-social-understanding]]'
 title: Intersubjectivity
 topics:
 - '[[consciousness]]'
@@ -147,7 +147,7 @@ Intersubjectivity also connects to methodology. The [first-person/third-person d
 - [phenomenology-of-trust](/topics/phenomenology-of-trust/) — Trust as sustained openness across the intersubjective void
 - [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/) — The distinctive phenomenology of "we-mode" experience built on intersubjective foundations
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — Why collective intentionality requires individual consciousness
-- [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — How phenomenal consciousness enables human social cognition
+- [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) — How phenomenal consciousness enables human social cognition
 
 ## References
 

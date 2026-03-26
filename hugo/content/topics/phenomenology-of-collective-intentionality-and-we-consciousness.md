@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-03-23 17:30:00+00:00
+ai_modified: 2026-03-26 04:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -37,15 +37,14 @@ related_articles:
 title: Phenomenology of Collective Intentionality and We-Consciousness
 topics:
 - '[[consciousness-and-collective-phenomena]]'
-- '[[topics/consciousness-and-social-cognition]]'
-- '[[consciousness-and-interpersonal-understanding]]'
+- '[[consciousness-and-social-understanding]]'
 - '[[consciousness-and-intersubjectivity]]'
 - '[[phenomenology-of-trust]]'
 ---
 
 When two musicians lock into a groove, something shifts in how the music feels from the inside — a shift explored further in the Map's treatment of [musical understanding](/topics/phenomenology-of-musical-understanding/). Each player stops experiencing the performance as "my playing alongside yours" and begins experiencing it as "our playing." The Unfinishable Map argues that this shift — from I-mode to we-mode phenomenology — is real, philosophically significant, and presents a distinctive challenge for any theory of consciousness. If consciousness interfaces with the physical world through individual neural substrates, as the Map's framework holds, then the felt character of we-consciousness must arise from individual phenomenal states that nonetheless carry genuinely collective intentional content.
 
-The [collective phenomena article](/topics/consciousness-and-collective-phenomena/) argues that groups are not conscious but collective intentionality requires individual phenomenal consciousness. The [interpersonal understanding article](/topics/consciousness-and-interpersonal-understanding/) examines what it is like to grasp another person's experience. This article explores the space between those two claims: the phenomenology of thinking, intending, and experiencing *as a we*.
+The [collective phenomena article](/topics/consciousness-and-collective-phenomena/) argues that groups are not conscious but collective intentionality requires individual phenomenal consciousness. The [interpersonal understanding article](/topics/consciousness-and-social-understanding/) examines what it is like to grasp another person's experience. This article explores the space between those two claims: the phenomenology of thinking, intending, and experiencing *as a we*.
 
 ## The Felt Shift from I-Mode to We-Mode
 
@@ -114,8 +113,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet deepens the significance of 
 ## Further Reading
 
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — Why groups are not conscious but collective intentionality requires consciousness
-- [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — How individual consciousness enables human social cognition
-- [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/) — The phenomenology of understanding another person
+- [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) — How consciousness enables social cognition and interpersonal understanding
 - [phenomenology-of-trust](/topics/phenomenology-of-trust/) — How trust operates across the intersubjective void
 - [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) — Whether consciousness is constitutively intersubjective or ontologically individual
 - [intersubjective-void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared

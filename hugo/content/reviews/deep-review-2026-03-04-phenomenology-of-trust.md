@@ -65,8 +65,8 @@ All counterarguments from the previous review remain valid. No new critical phil
 
 ### Cross-links Added (inbound — from other articles to this one)
 
-- [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/) — inline link in forgiveness paragraph + Further Reading
-- [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — inline link in empathy problem section + Further Reading
+- [consciousness-and-interpersonal-understanding](/topics/consciousness-and-social-understanding/) — inline link in forgiveness paragraph + Further Reading
+- [consciousness-and-social-cognition](/topics/consciousness-and-social-understanding/) — inline link in empathy problem section + Further Reading
 - [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-phenomena/) — inline link in normative dimension section + Further Reading
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — inline link in guilt section + Further Reading
 - [intersubjectivity](/concepts/intersubjectivity/) — inline link in Husserl's constitution section + Further Reading

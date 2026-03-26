@@ -34,7 +34,6 @@ related_articles:
 - '[[mathematical-truth-and-conscious-access]]'
 - '[[mathematical-void]]'
 - '[[incompleteness-void]]'
-- '[[quantum-measurement-consciousness-interface]]'
 - '[[philosophical-stakes-of-spontaneous-collapse]]'
 - '[[consciousness-and-the-philosophy-of-mathematics]]'
 - '[[physics-as-disclosure]]'
@@ -137,7 +136,7 @@ The self-referential structure underlying both Gödelian incompleteness and the 
 - [physics-as-disclosure](/concepts/physics-as-disclosure/) — The measurement problem as boundary disclosure
 - [incompleteness-void](/voids/incompleteness-void/) — Gödelian limits as cognitive boundaries
 - [mathematical-void](/voids/mathematical-void/) — Where formal manipulation succeeds but understanding fails
-- [quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/) — The interface between consciousness and quantum measurement
+- [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The interface between consciousness and quantum measurement
 - [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/) — Why collapse interpretations matter for consciousness
 
 ## References

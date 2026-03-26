@@ -13,6 +13,7 @@ concepts:
 - '[[mysterianism]]'
 - '[[simulation]]'
 - '[[self-opacity]]'
+- '[[self-reference-paradox]]'
 created: 2026-02-09
 date: &id001 2026-02-13
 description: Why experience presents itself as direct contact with reality rather

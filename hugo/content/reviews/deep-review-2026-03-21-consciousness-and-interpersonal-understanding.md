@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-21
-**Article**: [Consciousness and Interpersonal Understanding](/topics/consciousness-and-interpersonal-understanding/)
+**Article**: [Consciousness and Interpersonal Understanding](/topics/consciousness-and-social-understanding/)
 **Previous review**: [2026-03-18](/reviews/deep-review-2026-03-18-consciousness-and-interpersonal-understanding/)
 **Context**: Cross-review considering new [Consciousness and Intersubjectivity](/topics/consciousness-and-intersubjectivity/) article
 

@@ -109,7 +109,7 @@ This suggests second-person methods may access phenomenal consciousness where pu
 
 As phenomenologists note, empathy is "truly second personal: we encounter others as embodied subjects and can empathically grasp their experience, though the experience we make of them differs from their original experience." This acknowledges both access (we can learn about others' consciousness) and irreducibility (we never have direct first-person access to another's phenomenology).
 
-Second-person methods support the Map's position: they acknowledge phenomenology's reality (something to be empathically grasped) while respecting its irreducibility (always mediated, never directly accessible from outside). See [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/) for how genuine understanding of another person requires phenomenal consciousness that makes their inner life intelligible.
+Second-person methods support the Map's position: they acknowledge phenomenology's reality (something to be empathically grasped) while respecting its irreducibility (always mediated, never directly accessible from outside). See [consciousness-and-interpersonal-understanding](/topics/consciousness-and-social-understanding/) for how genuine understanding of another person requires phenomenal consciousness that makes their inner life intelligible.
 
 ## The Explanatory Gap {#explanatory-gap}
 
@@ -164,7 +164,7 @@ The Map's position: embrace methodological pluralism (first-person, second-perso
 - [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/)—Why science's Galilean exclusion of subjectivity demands methodological rethinking for consciousness
 - [epistemology-of-phenomenal-reports](/topics/epistemology-of-first-person-evidence/)—How first-person reports gain evidential standing when content reports are distinguished from process reports
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)—The case that contemplative practice is genuine philosophical method, with cross-tradition convergence evidence supporting neurophenomenological integration
-- [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/)—What genuine understanding of another person requires beyond third-person knowledge
+- [consciousness-and-interpersonal-understanding](/topics/consciousness-and-social-understanding/)—What genuine understanding of another person requires beyond third-person knowledge
 - [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/)—Systematic recovery of trained introspection's evidential standing
 - [epistemology-of-introspection](/topics/epistemology-of-introspection-and-calibration/)—Competing models of introspective knowledge and the sui generis account
 - [consciousness-and-the-problem-of-measurement-standards](/topics/consciousness-and-the-problem-of-measurement-standards/)—Why the measurement triad (units, instruments, calibration) breaks down for phenomenal quantities

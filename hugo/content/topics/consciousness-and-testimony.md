@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-23 17:09:00+00:00
+ai_modified: 2026-03-26 04:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -38,7 +38,7 @@ related_articles:
 - '[[epistemic-advantages-of-dualism]]'
 - '[[consciousness-and-the-authority-of-formal-systems]]'
 - '[[epistemology-of-first-person-evidence]]'
-- '[[consciousness-and-interpersonal-understanding]]'
+- '[[consciousness-and-social-understanding]]'
 - '[[phenomenology-of-understanding-and-meaning]]'
 - '[[knowledge-argument]]'
 - '[[phenomenology-of-deliberation-under-uncertainty]]'
@@ -80,7 +80,7 @@ Epistemologists divide into two camps on testimony. Reductionists (following Dav
 
 The phenomenology favours the anti-reductionist picture. When a stranger gives you directions, you do not typically run through an inductive argument about the reliability of strangers' directional testimony. You experience a default openness toward their report — a willingness to believe that must be overridden rather than established. This default openness has a distinctive felt quality: a kind of receptivity toward the other's words that is prior to, and different from, the effortful assessment you engage in when you have reason for suspicion.
 
-The reductionist can reply that this default openness is merely efficient heuristic processing — fast pattern-matching rather than conscious evaluation. Research on [social cognition](/topics/consciousness-and-social-cognition/) supports the observation that much credibility assessment operates below conscious awareness: rapid subpersonal evaluation of a speaker's manner and bearing begins before deliberate assessment. The question is whether these subpersonal processes exhaust what happens in testimony reception or merely contribute to it.
+The reductionist can reply that this default openness is merely efficient heuristic processing — fast pattern-matching rather than conscious evaluation. Research on [social cognition](/topics/consciousness-and-social-understanding/) supports the observation that much credibility assessment operates below conscious awareness: rapid subpersonal evaluation of a speaker's manner and bearing begins before deliberate assessment. The question is whether these subpersonal processes exhaust what happens in testimony reception or merely contribute to it.
 
 The Map's framework suggests the latter. Subpersonal processing prepares the ground, but the distinctive character of testimony reception — treating the other as a fellow subject whose reports deserve initial credence because they emerge from genuine experience — involves a conscious orientation that cannot be captured in terms of cue detection alone. Suspicion requires an active withdrawal from this default interpersonal stance — a felt shift from treating the speaker as a subject to monitoring them as an object whose outputs need verification.
 
@@ -167,7 +167,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet is
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — Methodological tensions in consciousness science
 - [argument-from-reason](/topics/argument-from-reason/) — The broader self-defeat challenge to physicalism
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Why dualism provides better epistemic resources
-- [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/) — How minds understand each other
+- [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) — How minds understand each other
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — Meaning and conscious comprehension
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — Shared consciousness and joint action
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) — How consciousness converts experience into language

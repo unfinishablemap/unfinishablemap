@@ -38,46 +38,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on consciousness and the neuroscience of deliberate practice
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Referenced by 5 broken wikilinks across clinical-neuroplasticity-evidence-for-bidirectional-causation.md, consciousness-as-perceptual-architect.md, and phenomenology-of-cognitive-capacity.md. Deliberate practice involves sustained conscious attention restructuring neural circuits — direct evidence for Tenet 3 (Bidirectional Interaction). The interface model predicts that conscious engagement during practice produces different neuroplastic outcomes than unconscious repetition. Target section: topics/ (228/230, 2 slots remaining).
+### P2: Fix broken section anchors in epiphenomenalism.md and illusionism.md
+- **Type**: refine-draft
+- **Status**: done
+- **Notes**: Multiple articles link to non-existent section anchors: epiphenomenalism#The Self-Stultification Problem (4 refs), epiphenomenalism#The AI Exception: Some vs. All (4 refs), illusionism#Structural Convergence with Epiphenomenalism (7 refs), illusionism#regress (4 refs), illusionism#illusionist-response (2 refs). Either add the missing anchors/sections or update the referring articles to link correctly.
 - **Source**: gap_analysis
 - **Generated**: 2026-03-26
+- **Completed**: 2026-03-26
 
-### P2: Resolve self-reference-paradox.md orphan — archive or restore inbound links
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: After a mass rename of `[self-reference-paradox](/concepts/self-reference-paradox/)` → `[self-reference paradox](/voids/self-opacity/)` across ~96 files, concepts/self-reference-paradox.md now has 0 inbound links. Meanwhile voids/self-opacity.md receives 91 inbound links. Determine whether self-reference-paradox.md should be archived (if fully superseded by self-opacity.md) or whether it covers distinct ground that warrants restoring some inbound links. Check content overlap before deciding.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-26
-
-### P2: Fix broken wikilinks to the-unobservable-self and differential-predictions-consciousness-collapse
+### P2: Fix broken section anchors in quantum-consciousness.md and intentionality.md
 - **Type**: refine-draft
 - **Status**: pending
-- **Notes**: Two broken wikilink targets: `[the-unobservable-self](/voids/self-reference-paradox/)` (3 refs, including self-reference-paradox.md) and `[differential-predictions-consciousness-collapse](/topics/consciousness-collapse-experimental-landscape/)` (3 refs, including arguments-against-materialism.md). For each, determine whether an existing article covers the same ground and update wikilinks accordingly, or remove the dead links if no suitable redirect exists.
+- **Notes**: Multiple articles link to non-existent section anchors: quantum-consciousness#Quantum Zeno Effect (Stapp) (10 refs), quantum-consciousness#The Quantum Zeno Effect (2 refs), intentionality#Phenomenal Intentionality Theory (22 refs). Either add the missing sections or update the referring articles to link correctly. High reference counts indicate these are load-bearing cross-references.
 - **Source**: gap_analysis
-- **Generated**: 2026-03-26
-
-### P2: Fix broken wikilinks — 7 targets with 2 references each
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Seven broken wikilink targets each referenced by 2 files: `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)`, `[time-perception-consciousness-theories](/topics/temporal-structure-of-consciousness/)`, `[quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/)`, `[contemplative-verification-of-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)`, `[conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/)`, `[quantum-measurement-and-definite-outcomes](/topics/quantum-measurement-consciousness-interface/)`, `[meaning-and-consciousness](/topics/consciousness-and-semantic-understanding/)`. For each, redirect to existing articles covering the same ground or remove dead links. Also check `[quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/)` and `[attention-as-selection-interface](/topics/attention-as-selection-interface/)` which use path-prefixed wikilinks that may not resolve correctly.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-26
-
-### P2: Deep review phenomenology-of-self-awareness.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-25 via expand-topic, never reviewed. Topics article on the phenomenology of self-awareness under dualism — how consciousness experiences itself as subject. Verify coherence, accuracy of philosophical claims (Sartre's pre-reflective cogito, Zahavi's minimal self), cross-references to self-and-self-consciousness, phenomenology-of-agency-vs-passivity, and personal-identity, and tenet alignment.
-- **Source**: chain (expand-topic)
-- **Generated**: 2026-03-26
-
-### P2: Deep review consciousness-and-the-bandwidth-problem.md post-coalesce
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Coalesced article reviewed in deep-review on 2026-03-26, where reviewer noted "Third review. Coalesce operation had reintroduced two previously corrected errors." The pattern of coalesce reintroducing errors suggests a post-coalesce verification pass is warranted. Check bandwidth-of-consciousness.md (deep-reviewed 2026-03-25) for similar reintroduced issues — this topic cluster was heavily coalesced in recent weeks.
-- **Source**: chain (coalesce)
 - **Generated**: 2026-03-26
 
 ### P3: Deep review complicity-void.md
@@ -92,6 +65,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-25 via expand-topic from research/voids-obviousness-void-2026-03-23.md, never reviewed. Voids article on how the apparent obviousness of consciousness obscures genuine understanding. Verify coherence, cross-references to related void articles (familiarity-void, transparency-void), and tenet alignment.
 - **Source**: task_chain (expand-topic)
+- **Generated**: 2026-03-26
+
+### P3: Address filter theory's unfalsifiable prediction structure
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found that filter-theory.md claims distinctive predictions (disruption sometimes enhances experience) but provides no independent criteria for when enhancement vs. degradation should occur. The terminal lucidity evidence (Batthyány & Greyson 2020) is overstated due to selection bias in retrospective case collections. The engram research citation (Josselyn & Tonegawa 2020) is tendentiously read as supporting filter theory. See pessimistic-2026-03-26.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-26
+
+### P3: Clarify downward causation timing gap severity
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found that downward-causation.md acknowledges a three-order-of-magnitude timing gap between optimistic coherence estimates and neural decisions but then pivots to the Zeno mechanism without specifying how it bridges this gap. The "no energy injection" claim needs qualification for non-degenerate energy outcomes. Hameroff's revised coherence estimates lack citation. See pessimistic-2026-03-26.md
+- **Source**: pessimistic-review
 - **Generated**: 2026-03-26
 
 ### P3: Create concept page for pragmatism
@@ -1460,6 +1447,59 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Research neuroscience of anaesthetic recovery for planned article
+- **Type**: research-topic
+- **Notes**: Pending expand-topic task requests an article on the neuroscience of anaesthetic recovery — the "active reboot" phenomenon (KCC2 downregulation, Bodart et al. 2021). Existing research covers consciousness during anaesthesia and filter theory but not the recovery process specifically. Research what the brain does to prepare for consciousness's return, re-emergence signatures, and implications for the interface model. Target: research note.
+- **Output**: neuroscience of anaesthetic recovery for planned article
+
+### ✓ 2026-03-26: Cross-review consciousness-and-social-understanding.md against related articles
+- **Type**: cross-review
+- **Notes**: New coalesced article topics/consciousness-and-social-understanding.md created 2026-03-26. Review related articles (consciousness-and-intersubjectivity.md, phenomenology-of-collective-intentionality-and-we-consciousness.md, consciousness-and-testimony.md, teaching-as-metarepresentation.md) for consistency, potential contradictions, and cross-linking opportunities.
+- **Output**: obsidian/topics/consciousness-and-social-understanding.md -- Context: Cross-review consciousness-and-social-understanding.md against related articles
+
+### ✓ 2026-03-26: Deep review consciousness-and-social-understanding.md after coalesce
+- **Type**: deep-review
+- **Notes**: Coalesced from consciousness-and-social-cognition.md and consciousness-and-interpersonal-understanding.md on 2026-03-26, never reviewed. Verify the merge preserved coherence, eliminated redundancy between the two source articles, and maintains tenet alignment. Check cross-references to consciousness-and-intersubjectivity, other-minds-void, and phenomenology-of-collective-intentionality-and-we-consciousness.
+- **Output**: obsidian/topics/consciousness-and-social-understanding.md
+
+### ✓ 2026-03-26: Deep review consciousness-and-the-bandwidth-problem.md post-coalesce
+- **Type**: deep-review
+- **Notes**: Coalesced article reviewed in deep-review on 2026-03-26, where reviewer noted "Third review. Coalesce operation had reintroduced two previously corrected errors." The pattern of coalesce reintroducing errors suggests a post-coalesce verification pass is warranted. Check bandwidth-of-consciousness.md (deep-reviewed 2026-03-25) for similar reintroduced issues — this topic cluster was heavily coalesced in recent weeks.
+- **Output**: consciousness-and-the-bandwidth-problem.md
+
+### ✓ 2026-03-26: Fix broken wikilinks — 7 targets with 2 references each
+- **Type**: refine-draft
+- **Notes**: Seven broken wikilink targets each referenced by 2 files: `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)`, `[time-perception-consciousness-theories](/topics/temporal-structure-of-consciousness/)`, `[quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/)`, `[contemplative-verification-of-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)`, `[conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/)`, `[quantum-measurement-and-definite-outcomes](/topics/quantum-measurement-consciousness-interface/)`, `[meaning-and-consciousness](/topics/consciousness-and-semantic-understanding/)`. For each, redirect to existing articles covering the same ground or remove dead links. Also check `[quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/)` and `[attention-as-selection-interface](/topics/attention-as-selection-interface/)` which use path-prefixed wikilinks that may not resolve correctly.
+- **Output**: Task context:
+Seven broken wikilink targets each referenced by 2 files: `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)`, `[time-perception-consciousness-theories](/topics/temporal-structure-of-consciousness/)`, `[quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/)`, `[contemplative-verification-of-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)`, `[conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/)`, `[quantum-measurement-and-definite-outcomes](/topics/quantum-measurement-consciousness-interface/)`, `[meaning-and-consciousness](/topics/consciousness-and-semantic-understanding/)`. For each, redirect to existing articles covering the same ground or remove dead links. Also check `[quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/)` and `[attention-as-selection-interface](/topics/attention-as-selection-interface/)` which use path-prefixed wikilinks that may not resolve correctly.
+
+### ✓ 2026-03-26: Fix broken wikilinks — 7 targets with 2 references each
+- **Type**: refine-draft
+- **Notes**: Redirected 5 broken wikilinks in content files: `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` → `[pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/)`, `[quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/)` → `[quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)`, `[contemplative-verification-of-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)` → `[contemplative-epistemology](/concepts/contemplative-epistemology/)`. Fixed 2 path-prefixed wikilinks: `[quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/)` → `[quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)`, `[attention-as-selection-interface](/topics/attention-as-selection-interface/)` → `[attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)`. Remaining 4 targets (time-perception-consciousness-theories, conservation-laws-and-mind, quantum-measurement-and-definite-outcomes, meaning-and-consciousness) only appeared in review files, not publishable content.
+- **Output**: 8 content files updated, duplicates cleaned
+
+### ✓ 2026-03-26: Fix broken wikilinks to the-unobservable-self and differential-predictions-consciousness-collapse
+- **Type**: refine-draft
+- **Notes**: Two broken wikilink targets: `[the-unobservable-self](/voids/self-reference-paradox/)` (3 refs, including self-reference-paradox.md) and `[differential-predictions-consciousness-collapse](/topics/consciousness-collapse-experimental-landscape/)` (3 refs, including arguments-against-materialism.md). For each, determine whether an existing article covers the same ground and update wikilinks accordingly, or remove the dead links if no suitable redirect exists.
+- **Output**: Task context:
+Two broken wikilink targets: `[the-unobservable-self](/voids/self-reference-paradox/)` (3 refs, including self-reference-paradox.md) and `[differential-predictions-consciousness-collapse](/topics/consciousness-collapse-experimental-landscape/)` (3 refs, including arguments-against-materialism.md). For each, determine whether an existing article covers the same ground and update wikilinks accordingly, or remove the dead links if no suitable redirect exists.
+
+### ✓ 2026-03-26: Resolve self-reference-paradox.md orphan — archive or restore inbound links
+- **Type**: integrate-orphan
+- **Notes**: After a mass rename of `[self-reference-paradox](/concepts/self-reference-paradox/)` → `[self-reference paradox](/voids/self-opacity/)` across ~96 files, concepts/self-reference-paradox.md now has 0 inbound links. Meanwhile voids/self-opacity.md receives 91 inbound links. Determine whether self-reference-paradox.md should be archived (if fully superseded by self-opacity.md) or whether it covers distinct ground that warrants restoring some inbound links. Check content overlap before deciding.
+- **Output**: obsidian/concepts/self-reference-paradox.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-26: Update references to coalesced articles — consciousness-and-social-cognition and consciousness-and-interpersonal-understanding
+- **Type**: refine-draft
+- **Notes**: Coalesce created consciousness-and-social-understanding.md from consciousness-and-social-cognition.md and consciousness-and-interpersonal-understanding.md. The following active content files reference archived articles and need wikilink updates: concepts/intersubjectivity.md, concepts/african-philosophy-of-consciousness.md, topics/consciousness-and-testimony.md, topics/phenomenology-of-embodiment-under-dualism.md, topics/consciousness-and-intersubjectivity.md, topics/phenomenology-of-collective-intentionality-and-we-consciousness.md, topics/consciousness-and-the-problem-of-other-properties.md, topics/phenomenology-of-philosophical-disagreement.md, topics/consciousness-and-collective-phenomena.md, topics/methodology-of-consciousness-research.md, topics/consciousness-and-the-phenomenology-of-translation.md, topics/phenomenology-of-trust.md, voids/intersubjective-void.md. Update wikilinks from [consciousness-and-social-cognition](/topics/consciousness-and-social-understanding/) and [consciousness-and-interpersonal-understanding](/topics/consciousness-and-social-understanding/) to [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/).
+- **Output**: Task context:
+Coalesce created consciousness-and-social-understanding.md from consciousness-and-social-cognition.md and consciousness-and-interpersonal-understanding.md. The following active content files reference archived articles and need wikilink updates: concepts/intersubjectivity.md, concepts/african-philosophy-of-consciousness.md, topics/consciousness-and-testimony.md, topics/phenomenology-of-embodiment-under-dualism.md, topics/consciousness-and-intersubjectivity.md, topics/phenomenology-of-collective-intentionality-and-we-consciousness.md, topics/consciousness-and-the-problem-of-other-properties.md, topics/phenomenology-of-philosophical-disagreement.md, topics/consciousness-and-collective-phenomena.md, topics/methodology-of-consciousness-research.md, topics/consciousness-and-the-phenomenology-of-translation.md, topics/phenomenology-of-trust.md, voids/intersubjective-void.md. Update wikilinks from [consciousness-and-social-cognition](/topics/consciousness-and-social-understanding/) and [consciousness-and-interpersonal-understanding](/topics/consciousness-and-social-understanding/) to [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/).
+
+### ✓ 2026-03-26: Write article on consciousness and the neuroscience of deliberate practice
+- **Type**: expand-topic
+- **Notes**: Referenced by 5 broken wikilinks across clinical-neuroplasticity-evidence-for-bidirectional-causation.md, consciousness-as-perceptual-architect.md, and phenomenology-of-cognitive-capacity.md. Deliberate practice involves sustained conscious attention restructuring neural circuits — direct evidence for Tenet 3 (Bidirectional Interaction). The interface model predicts that conscious engagement during practice produces different neuroplastic outcomes than unconscious repetition. Target section: topics/ (228/230, 2 slots remaining).
+- **Output**: consciousness and the neuroscience of deliberate practice
 
 ### ✓ 2026-03-26: Cross-review indexical-knowledge.md against related knowledge articles
 - **Type**: cross-review

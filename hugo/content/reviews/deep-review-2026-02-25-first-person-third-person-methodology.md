@@ -87,7 +87,7 @@ All six major attributions verified as accurate:
 - [epistemology-of-phenomenal-reports](/topics/epistemology-of-first-person-evidence/)
 - [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/)
 - [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)
-- [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/)
+- [consciousness-and-interpersonal-understanding](/topics/consciousness-and-social-understanding/)
 - [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/)
 
 ## Word Count

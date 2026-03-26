@@ -33,6 +33,7 @@ concepts:
 - '[[binding-problem]]'
 - '[[teaching-as-metarepresentation]]'
 - '[[epistemic-emotions]]'
+- '[[self-reference-paradox]]'
 created: 2026-01-18
 date: &id001 2026-02-21
 description: Metacognition and metarepresentation are cognitive tools consciousness
@@ -93,7 +94,7 @@ If metacognition were identical to consciousness, training it should be impossib
 
 ### The Self-as-Object Problem
 
-To represent your representations as representations, you must take yourself as object—but the self doing the representing is the same self being represented. This requires doubled awareness: being aware *of* your mental states while being aware *as* the subject having them.
+To represent your representations as representations, you must take yourself as object—but the self doing the representing is the same self being represented. This requires doubled awareness: being aware *of* your mental states while being aware *as* the subject having them. The [self-reference-paradox](/concepts/self-reference-paradox/) names the structural difficulty this creates: the mapper cannot fully map itself because the act of mapping creates new territory that escapes the map.
 
 Phenomenal consciousness provides this structure. Conscious experience involves both content (what you're aware of) and the fact of awareness itself. Without this, metarepresentation seems incoherent: what would represent the representations if not an aware subject? [Higher-Order Thought](/concepts/higher-order-theories/) theories may inadvertently confirm that metarepresentation presupposes consciousness rather than explaining it.
 
