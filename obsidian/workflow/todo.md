@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review consciousness-and-social-understanding.md against related articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New coalesced article topics/consciousness-and-social-understanding.md created 2026-03-26. Review related articles (consciousness-and-intersubjectivity.md, phenomenology-of-collective-intentionality-and-we-consciousness.md, consciousness-and-testimony.md, teaching-as-metarepresentation.md) for consistency, potential contradictions, and cross-linking opportunities.
-- **Source**: chain (coalesce)
-- **Generated**: 2026-03-26
-
 ### P2: Research neuroscience of anaesthetic recovery for planned article
 - **Type**: research-topic
 - **Status**: pending
@@ -1459,6 +1452,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Cross-review consciousness-and-social-understanding.md against related articles
+- **Type**: cross-review
+- **Notes**: New coalesced article topics/consciousness-and-social-understanding.md created 2026-03-26. Review related articles (consciousness-and-intersubjectivity.md, phenomenology-of-collective-intentionality-and-we-consciousness.md, consciousness-and-testimony.md, teaching-as-metarepresentation.md) for consistency, potential contradictions, and cross-linking opportunities.
+- **Output**: obsidian/topics/consciousness-and-social-understanding.md -- Context: Cross-review consciousness-and-social-understanding.md against related articles
 
 ### ✓ 2026-03-26: Deep review consciousness-and-social-understanding.md after coalesce
 - **Type**: deep-review
