@@ -5,6 +5,16 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 14:45 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/causal-delegation]]
+- **Word count**: 1221 → 1265 (+44)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (description over 160 chars; Dualism tenet missing from Relation to Site Perspective)
+- **Enhancements made**: 4 (tightened description, added Dualism tenet connection, 2 inbound cross-links)
+- **Files modified**: the-epiphenomenalist-threat, evolutionary-case-for-mental-causation
+- **Output**: [[reviews/deep-review-2026-03-26-causal-delegation]]
+
 ## 2026-03-26 14:17 UTC - deep-review (orphan integration)
 - **Status**: Success
 - **File**: [[voids/commensurability-void]]

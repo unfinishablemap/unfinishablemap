@@ -1,10 +1,10 @@
 ---
 title: "Causal Delegation"
-description: "Causal delegation is the mechanism by which physical brain states hand off their causal responsibilities to conscious experiences, addressing the exclusion problem without overdetermination."
+description: "Causal delegation: physical brain states hand off causal work to conscious experiences, addressing the exclusion problem without overdetermination."
 created: 2026-03-04
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-03-20T19:44:00+00:00
+ai_modified: 2026-03-26T14:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-04
 last_curated:
-last_deep_review: 2026-03-04T10:31:00+00:00
+last_deep_review: 2026-03-26T14:45:00+00:00
 ---
 
 Causal delegation is the mechanism at the heart of Bradford Saad's [[delegatory-dualism]] (2025): when a conscious experience arises, it takes over causal work that the underlying physical brain state would otherwise perform. The physical state *delegates* its causal responsibilities to the experience, which then does the actual causing. Pain causes wincing not alongside the brain state but instead of it. The Unfinishable Map treats causal delegation as the preferred causal structure for [[interactionist-dualism]], because it preserves genuine [[mental-causation]] without the theoretical cost of overdetermination or the self-defeating implications of [[epiphenomenalism]].
@@ -84,6 +84,8 @@ This means delegation's case rests on philosophical argument rather than empiric
 ## Relation to Site Perspective
 
 Causal delegation supports multiple tenets of the Map's framework.
+
+**Dualism**: Delegation presupposes the Map's [[tenets#^dualism|first tenet]]—that consciousness is not reducible to physical processes. Only if experiences are ontologically distinct from brain states can they *take over* causal work rather than merely being redescriptions of it. Constitution models collapse this distinction; delegation requires it.
 
 **Bidirectional Interaction**: Delegation provides the causal structure for the Map's [[tenets#^bidirectional-interaction|third tenet]]. Consciousness causally influences the physical world—not by adding a competing cause alongside physical states, but by taking over causal work those states would otherwise perform. Reports about consciousness are genuinely caused by conscious experiences, avoiding the self-undermining implications of epiphenomenalism.
 
