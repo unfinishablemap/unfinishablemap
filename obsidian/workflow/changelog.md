@@ -5,6 +5,15 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 11:04 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
+- **Word count**: 4138 → 3873 (-265)
+- **Critical issues addressed**: 3 (duplicate reference removed, unverifiable KCC2 claims removed, AI refinement log removed)
+- **Medium issues addressed**: 2 (hard threshold condensation, overlong paragraph tightened)
+- **Enhancements made**: 0 (stability-focused review)
+- **Output**: [[reviews/deep-review-2026-03-26-anaesthesia-and-the-consciousness-interface]]
+
 ## 2026-03-26 11:05 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/anaesthesia-and-the-consciousness-interface]]

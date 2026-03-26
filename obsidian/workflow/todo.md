@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review anaesthesia articles after coalesce expansion
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: anaesthesia-and-the-consciousness-interface.md was substantially expanded by two coalesces (adding anesthesia-and-the-filter-argument and anaesthetic-recovery-and-the-filter-problem content). Review filter-theory.md, altered-states-as-interface-evidence.md, and consciousness-and-the-bandwidth-problem.md for cross-links, consistency with the expanded article, and potential integration of new insights.
-- **Source**: chain (from coalesce)
-- **Generated**: 2026-03-26
-
 ### P2: Deep review complicity-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1446,6 +1439,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Cross-review anaesthesia articles after coalesce expansion
+- **Type**: cross-review
+- **Notes**: anaesthesia-and-the-consciousness-interface.md was substantially expanded by two coalesces (adding anesthesia-and-the-filter-argument and anaesthetic-recovery-and-the-filter-problem content). Review filter-theory.md, altered-states-as-interface-evidence.md, and consciousness-and-the-bandwidth-problem.md for cross-links, consistency with the expanded article, and potential integration of new insights.
+- **Output**: None -- Context: Cross-review anaesthesia articles after coalesce expansion
 
 ### ✓ 2026-03-26: Integrate anaesthetic recovery research into anaesthesia-and-the-consciousness-interface.md
 - **Type**: refine-draft
