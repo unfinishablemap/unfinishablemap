@@ -4,7 +4,7 @@ description: "Pragmatism—the philosophy that evaluates ideas by practical cons
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-26T12:57:00+00:00
+ai_modified: 2026-03-26T18:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,10 +30,10 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-15
 last_curated:
-last_deep_review: 2026-03-18T05:14:00+00:00
+last_deep_review: 2026-03-26T18:12:00+00:00
 ---
 
-Pragmatism evaluates ideas by their practical consequences — what difference does believing this make? The Unfinishable Map argues that when pragmatism is applied reflexively to consciousness, it arrives at dualism. Not because dualism is simpler or more elegant, but because materialism about consciousness fails pragmatism's own test: it cannot account for the evaluative capacity on which pragmatic assessment depends. The path runs through three stages — James's original pragmatic openness to dualism, van Fraassen's pragmatic theory of explanation that inadvertently reveals consciousness at the foundation, and the reflexive argument that pragmatic evaluation itself presupposes irreducible phenomenal experience.
+[[pragmatism|Pragmatism]] evaluates ideas by their practical consequences — what difference does believing this make? The Unfinishable Map argues that when pragmatism is applied reflexively to consciousness, it arrives at dualism. Not because dualism is simpler or more elegant, but because materialism about consciousness fails pragmatism's own test: it cannot account for the evaluative capacity on which pragmatic assessment depends. The path runs through three stages — James's original pragmatic openness to dualism, van Fraassen's pragmatic theory of explanation that inadvertently reveals consciousness at the foundation, and the reflexive argument that pragmatic evaluation itself presupposes irreducible phenomenal experience.
 
 Pragmatism, taken seriously on its own terms, leads where many pragmatists have been reluctant to follow.
 
@@ -99,6 +99,7 @@ The pragmatic path to dualism is distinctive because it does not rely on intuiti
 
 ## Further Reading
 
+- [[pragmatism]] — The philosophical tradition: Peirce, James, Dewey, Rorty, and Putnam
 - [[william-james-consciousness]] — James's pragmatist approach to consciousness in full detail
 - [[consciousness-defeats-explanation]] — The reflexive gap and why standard theory-choice criteria falter with consciousness
 - [[argument-from-reason]] — The parallel self-defeat argument from rationality

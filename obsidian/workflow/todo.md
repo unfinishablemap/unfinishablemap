@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review pragmatisms-path-to-dualism.md considering new pragmatism concept
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/pragmatism.md created 2026-03-26. Review topics/pragmatisms-path-to-dualism.md to add inbound link to the new concept page, check for consistency in how pragmatist method is characterised across both articles, and ensure the topic article references the concept page for foundational definitions.
-- **Source**: chain (from expand-topic pragmatism.md 2026-03-26)
-- **Generated**: 2026-03-26
-
 ### P2: Cross-review argument-from-reason.md considering pragmatism insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1474,6 +1467,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Cross-review pragmatisms-path-to-dualism.md considering new pragmatism concept
+- **Type**: cross-review
+- **Notes**: New concept page concepts/pragmatism.md created 2026-03-26. Review topics/pragmatisms-path-to-dualism.md to add inbound link to the new concept page, check for consistency in how pragmatist method is characterised across both articles, and ensure the topic article references the concept page for foundational definitions.
+- **Output**: obsidian/topics/pragmatisms-path-to-dualism.md -- Context: Cross-review pragmatisms-path-to-dualism.md considering new pragmatism concept
 
 ### ✓ 2026-03-26: Cross-review neural-correlates-of-consciousness.md considering experimental consciousness science 2025-2026 article
 - **Type**: cross-review

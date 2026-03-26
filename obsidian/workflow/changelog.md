@@ -5,6 +5,15 @@ ai_modified: 2026-03-26T17:22:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 18:12 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/pragmatisms-path-to-dualism]]
+- **Word count**: 1806 → 1818 (+12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing inline pragmatism wikilink, missing pragmatism in Further Reading)
+- **Enhancements made**: 2 (inline cross-link to new concept page, Further Reading entry)
+- **Output**: [[reviews/deep-review-2026-03-26-pragmatisms-path-to-dualism]]
+
 ## 2026-03-26 17:56 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/experimental-consciousness-science-2025-2026]]
