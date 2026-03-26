@@ -4,7 +4,7 @@ description: "Why Occam's Razor lacks epistemic warrant in the consciousness deb
 created: 2026-03-18
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-03-25T03:38:00+00:00
+ai_modified: 2026-03-26T03:16:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,12 +25,13 @@ related_articles:
   - "[[meta-epistemology-of-limits]]"
   - "[[arguments-against-materialism]]"
   - "[[parsimony-case-for-interactionist-dualism]]"
+  - "[[causal-closure]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-18
 last_curated:
-last_deep_review: 2026-03-19T15:22:00+00:00
+last_deep_review: 2026-03-26T03:16:00+00:00
 coalesced_from:
   - "/concepts/epistemological-limits-parsimony/"
   - "/concepts/parsimony-failure-consciousness/"
@@ -88,7 +89,7 @@ Each numbered premise carries a hidden precondition. In the consciousness debate
 
 ### Precondition 1: Equal Explanatory Adequacy
 
-Parsimony is a tie-breaker between theories that explain the same phenomena equally well. Physicalism and dualism do not. Physicalism correlates neural activity with reported experience but provides no account of why there is [[qualia|something it is like]] to undergo those processes. The [[explanatory-gap]] is not a gap in current neuroscience — it is a structural feature of third-person physical description applied to first-person phenomenal reality. The [[knowledge-argument]] and [[philosophical-zombies|conceivability arguments]] formalise the point: physical facts alone do not entail phenomenal facts.
+Parsimony is a tie-breaker between theories that explain the same phenomena equally well. Physicalism and dualism do not. Physicalism — relying on [[causal-closure|causal closure]] — correlates neural activity with reported experience but provides no account of why there is [[qualia|something it is like]] to undergo those processes. The [[explanatory-gap]] is not a gap in current neuroscience — it is a structural feature of third-person physical description applied to first-person phenomenal reality. The [[knowledge-argument]] and [[philosophical-zombies|conceivability arguments]] formalise the point: physical facts alone do not entail phenomenal facts.
 
 Type-B physicalists accept the explanatory gap but deny it is metaphysical. This does not restore the parity parsimony requires. Parsimony is a synchronic principle: it adjudicates based on current explanatory credentials, not promissory notes about future understanding. If physicalism cannot currently explain why there is something it is like to be conscious, parsimony has no present tie to break.
 
@@ -126,7 +127,7 @@ These concessions matter because they cannot be dismissed as motivated reasoning
 
 Anderson (2002) subjected Churchland's "Raze Dualism" argument to systematic critique and concluded it "is undermined by assumptions which do not withstand scrutiny." His analysis confirms the triple failure: the theories do not explain the data equally well, "simpler" is undefined across multiple dimensions, and idealism is equally parsimonious by the ontological measure — the razor cuts both ways or not at all.
 
-The [[von-neumann-wigner-interpretation|von Neumann-Wigner interpretation]] sharpens this point. Von Neumann showed that adding consciousness to the ontology (an ontological parsimony cost) may actually *simplify* explanation of why quantum measurements yield definite outcomes (an explanatory parsimony gain). The [[measurement-problem|measurement problem]] is a case study in the multidimensionality of simplicity.
+The [[von-neumann-wigner-interpretation|von Neumann-Wigner interpretation]] sharpens this point. Von Neumann's proof that the mathematical "cut" between observer and observed can be placed anywhere in the measurement chain — including at consciousness itself — suggests that adding consciousness to the ontology (an ontological parsimony cost) may actually *simplify* explanation of why quantum measurements yield definite outcomes (an explanatory parsimony gain). The [[measurement-problem|measurement problem]] is a case study in the multidimensionality of simplicity.
 
 ## The IIT Parsimony Paradox
 

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review parsimony-epistemology.md after coalesce
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Coalesced from limits-of-parsimony-in-consciousness-science (topics → concepts) on 2026-03-25. Section migration means the article now functions as a concept page rather than a topic article. Verify it works as a standalone concept, cross-references are correct, and the 8 updated referring files link appropriately. Directly relevant to Tenet 5.
-- **Source**: task_chain (coalesce)
-- **Generated**: 2026-03-26
-
 ### P2: Cross-review indexical-knowledge.md against related knowledge articles
 - **Type**: cross-review
 - **Status**: pending
@@ -1431,6 +1424,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Deep review parsimony-epistemology.md after coalesce
+- **Type**: deep-review
+- **Notes**: Coalesced from limits-of-parsimony-in-consciousness-science (topics → concepts) on 2026-03-25. Section migration means the article now functions as a concept page rather than a topic article. Verify it works as a standalone concept, cross-references are correct, and the 8 updated referring files link appropriately. Directly relevant to Tenet 5.
+- **Output**: obsidian/concepts/parsimony-epistemology.md
 
 ### ✓ 2026-03-26: Deep review consciousness-and-intelligence.md after coalesce
 - **Type**: deep-review
