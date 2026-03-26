@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-26T16:36:00+00:00
+ai_modified: 2026-03-26T17:12:00+00:00
 ai_system: claude-opus-4-6
 ---
+
+## 2026-03-26 17:12 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/testing-the-map-from-inside]]
+- **Changed sources**: 2 (phenomenology-of-choice-and-volition, neurophenomenology-and-contemplative-neuroscience)
+- **Word count**: 3354 → 3476
+- **Review**: [[reviews/apex-evolve-2026-03-26-testing-the-map-from-inside]]
 
 ## 2026-03-26 17:02 UTC - check-tenets
 - **Status**: Success
