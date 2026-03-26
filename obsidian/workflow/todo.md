@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced neurophenomenology articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce created concepts/neurophenomenology-and-contemplative-neuroscience.md from concepts/neurophenomenology.md and concepts/contemplative-neuroscience.md. ~80 active files reference [[neurophenomenology]] and ~27 reference [[contemplative-neuroscience]]. Update wikilinks in active content (topics/, concepts/, apex/) to point to [[neurophenomenology-and-contemplative-neuroscience]]. Reviews, research, and workflow archives can be left as historical records.
+- **Source**: coalesce
+- **Generated**: 2026-03-26
+
 ### P2: Cross-review perception articles considering perceptual-degradation-and-the-interface
 - **Type**: cross-review
 - **Status**: pending

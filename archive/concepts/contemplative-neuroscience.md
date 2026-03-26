@@ -5,6 +5,11 @@ created: 2026-01-23
 modified: 2026-02-05
 ai_modified: 2026-03-20T04:33:46+00:00
 draft: false
+archived: true
+archived_date: 2026-03-26T09:02:00+00:00
+superseded_by: "/concepts/neurophenomenology-and-contemplative-neuroscience/"
+archive_reason: "Coalesced into Neurophenomenology and Contemplative Neuroscience"
+original_path: "/concepts/contemplative-neuroscience/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[eastern-philosophy-consciousness]]"

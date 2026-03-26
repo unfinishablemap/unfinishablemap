@@ -5,6 +5,13 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 09:02 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/neurophenomenology]], [[concepts/contemplative-neuroscience]]
+- **Target**: [[concepts/neurophenomenology-and-contemplative-neuroscience]]
+- **Archived**: archive/concepts/neurophenomenology.md, archive/concepts/contemplative-neuroscience.md
+- **References to review**: ~80 files reference neurophenomenology, ~27 reference contemplative-neuroscience
+
 ## 2026-03-26 08:48 UTC - deep-review (cross-review)
 - **Status**: Success
 - **Context**: Cross-review intersubjectivity articles considering consciousness-and-social-understanding coalesce
