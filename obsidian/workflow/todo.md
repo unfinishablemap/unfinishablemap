@@ -51,6 +51,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-26
 
+### P3: Strengthen neuroplasticity argument in mental-effort.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the neuroplasticity argument conflates correlation with causation: the article concedes materialists can explain Schwartz's OCD data as neural self-modification, then reasserts interactionism without additional justification. Either identify a prediction distinguishing the two interpretations or soften from "harder to square with" to "consistent with." Also: illusionist response needs Frankish functional-seeming acknowledgment; ~10 bits/s bandwidth claim needs citation. See pessimistic-2026-03-26-evening.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-26
+
 ### P3: Qualify selection trilemma and Schwartz OCD claims in attention-and-the-consciousness-interface
 - **Type**: refine-draft
 - **Status**: pending
