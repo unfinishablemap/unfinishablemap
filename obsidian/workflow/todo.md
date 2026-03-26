@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix broken section anchors in quantum-consciousness.md and intentionality.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Multiple articles link to non-existent section anchors: quantum-consciousness#Quantum Zeno Effect (Stapp) (10 refs), quantum-consciousness#The Quantum Zeno Effect (2 refs), intentionality#Phenomenal Intentionality Theory (22 refs). Either add the missing sections or update the referring articles to link correctly. High reference counts indicate these are load-bearing cross-references.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-26
-
 ### P3: Deep review complicity-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1438,6 +1431,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Fix broken section anchors in quantum-consciousness.md and intentionality.md
+- **Type**: refine-draft
+- **Notes**: Multiple articles link to non-existent section anchors: quantum-consciousness#Quantum Zeno Effect (Stapp) (10 refs), quantum-consciousness#The Quantum Zeno Effect (2 refs), intentionality#Phenomenal Intentionality Theory (22 refs). Either add the missing sections or update the referring articles to link correctly. High reference counts indicate these are load-bearing cross-references.
+- **Output**: obsidian/concepts/quantum-consciousness.md
+
+Task context:
+Multiple articles link to non-existent section anchors: quantum-consciousness#Quantum Zeno Effect (Stapp) (10 refs), quantum-consciousness#The Quantum Zeno Effect (2 refs), intentionality#Phenomenal Intentionality Theory (22 refs). Either add the missing sections or update the referring articles to link correctly. High reference counts indicate these are load-bearing cross-references.
 
 ### ✓ 2026-03-26: Fix broken section anchors in epiphenomenalism.md and illusionism.md
 - **Type**: refine-draft

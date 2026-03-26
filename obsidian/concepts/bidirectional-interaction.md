@@ -4,7 +4,7 @@ description: "Consciousness and matter causally influence each other. This tenet
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-03-24T05:26:00+00:00
+ai_modified: 2026-03-26T07:34:00+00:00
 last_deep_review: 2026-03-11T21:02:00+00:00
 draft: false
 topics:
@@ -72,7 +72,7 @@ Two concrete mechanisms have been proposed:
 
 **The quantum Zeno approach** ([[stapp-quantum-mind|Stapp]]): Mental attention acts like rapid observation on neural quantum states. Through the Zeno effect—well-established in physics laboratories—rapid repeated measurement "freezes" quantum systems. Consciousness holds desired neural patterns in place through sustained attention.
 
-**Orchestrated Objective Reduction** ([[quantum-consciousness#Orch OR (Penrose-Hameroff)|Penrose-Hameroff]]): Quantum computations in neural microtubules undergo gravitational self-collapse, and these collapse events constitute conscious experience while biasing which neural pattern becomes actual.
+**Orchestrated Objective Reduction** ([[quantum-consciousness#Orchestrated Objective Reduction (Orch OR)|Penrose-Hameroff]]): Quantum computations in neural microtubules undergo gravitational self-collapse, and these collapse events constitute conscious experience while biasing which neural pattern becomes actual.
 
 **[[spontaneous-collapse-theories|Spontaneous collapse with consciousness modulation]]**: GRW and CSL theories provide baseline collapse that operates consciousness-independently, solving the prebiotic problem. Consciousness then *modulates* these processes in neural systems rather than wholly causing collapse.
 

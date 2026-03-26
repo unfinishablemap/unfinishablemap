@@ -5,6 +5,12 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 07:34 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/quantum-consciousness]]
+- **Changes**: Fixed 3 broken section anchor references in referring files: luck-objection.md (`#The Quantum Zeno Effect` → `#Quantum Zeno Effect (Stapp)`), libet-experiments.md (same), bidirectional-interaction.md (`#Orch OR (Penrose-Hameroff)` → `#Orchestrated Objective Reduction (Orch OR)`). Verified `intentionality#Phenomenal Intentionality Theory` (22 refs) and `quantum-consciousness#Quantum Zeno Effect (Stapp)` (10 refs) already resolve correctly.
+- **Published**: yes
+
 ## 2026-03-26 07:16 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/epiphenomenalism]], [[concepts/illusionism]]

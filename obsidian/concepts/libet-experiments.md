@@ -4,7 +4,7 @@ description: "Do brains decide before we're aware? The readiness potential may b
 created: 2026-01-14
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-03-26T07:34:00+00:00
 last_deep_review: 2026-03-06T17:38:00+00:00
 draft: false
 topics:
@@ -122,7 +122,7 @@ Three responses:
 
 **First**, decoherence doesn't solve the measurement problem. Even granting rapid decoherence, something must select which outcome becomes actual. Decoherence explains why we don't see superpositions; it doesn't explain why we see *definite* outcomes. The role for consciousness at the point of selection remains open.
 
-**Second**, the [[quantum-consciousness#The Quantum Zeno Effect|quantum Zeno mechanism]] may sidestep decoherence entirely. Rapid repeated observation can hold states stable against decoherence. If consciousness operates through Zeno freezing rather than maintained superposition, short coherence times don't matter—observations happen faster than decoherence can act.
+**Second**, the [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno mechanism]] may sidestep decoherence entirely. Rapid repeated observation can hold states stable against decoherence. If consciousness operates through Zeno freezing rather than maintained superposition, short coherence times don't matter—observations happen faster than decoherence can act.
 
 **Third**, recent quantum biology research shows biological systems can maintain coherence far longer than expected. Photosynthesis, magnetoreception, and enzyme catalysis all exploit quantum effects in warm conditions. The categorical objection—that biology cannot use quantum mechanics—is empirically refuted.
 

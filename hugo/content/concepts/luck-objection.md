@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-14 23:06:00+00:00
+ai_modified: 2026-03-26 07:34:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -90,7 +90,7 @@ If selection is genuine, the luck objection fails. The agent explains the differ
 
 ### The Phenomenology of Effort
 
-The [phenomenology of effort](/concepts/mental-effort/) supports selection. If choices were random fluctuations, there would be no phenomenology of effort—random processes don't feel like work. But choosing feels effortful. The felt cost of concentration corresponds to real causal engagement via the [quantum Zeno effect](/concepts/quantum-consciousness/#the-quantum-zeno-effect). Lucky events don't feel like achievements; selections do.
+The [phenomenology of effort](/concepts/mental-effort/) supports selection. If choices were random fluctuations, there would be no phenomenology of effort—random processes don't feel like work. But choosing feels effortful. The felt cost of concentration corresponds to real causal engagement via the [quantum Zeno effect](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp). Lucky events don't feel like achievements; selections do.
 
 ### Motor Selection: Corroboration
 

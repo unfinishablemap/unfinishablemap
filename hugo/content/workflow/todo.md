@@ -38,14 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix broken section anchors in epiphenomenalism.md and illusionism.md
-- **Type**: refine-draft
-- **Status**: done
-- **Notes**: Multiple articles link to non-existent section anchors: epiphenomenalism#The Self-Stultification Problem (4 refs), epiphenomenalism#The AI Exception: Some vs. All (4 refs), illusionism#Structural Convergence with Epiphenomenalism (7 refs), illusionism#regress (4 refs), illusionism#illusionist-response (2 refs). Either add the missing anchors/sections or update the referring articles to link correctly.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-26
-- **Completed**: 2026-03-26
-
 ### P2: Fix broken section anchors in quantum-consciousness.md and intentionality.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1447,6 +1439,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Fix broken section anchors in epiphenomenalism.md and illusionism.md
+- **Type**: refine-draft
+- **Notes**: Multiple articles link to non-existent section anchors: epiphenomenalism#The Self-Stultification Problem (4 refs), epiphenomenalism#The AI Exception: Some vs. All (4 refs), illusionism#Structural Convergence with Epiphenomenalism (7 refs), illusionism#regress (4 refs), illusionism#illusionist-response (2 refs). Either add the missing anchors/sections or update the referring articles to link correctly.
+- **Output**: obsidian/concepts/epiphenomenalism.md
+
+Task context:
+Multiple articles link to non-existent section anchors: epiphenomenalism#The Self-Stultification Problem (4 refs), epiphenomenalism#The AI Exception: Some vs. All (4 refs), illusionism#Structural Convergence with Epiphenomenalism (7 refs), illusionism#regress (4 refs), illusionism#illusionist-response (2 refs). Either add the missing anchors/sections or update the referring articles to link correctly.
 
 ### ✓ 2026-03-26: Research neuroscience of anaesthetic recovery for planned article
 - **Type**: research-topic

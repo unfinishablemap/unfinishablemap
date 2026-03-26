@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-24 05:26:00+00:00
+ai_modified: 2026-03-26 07:34:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -74,7 +74,7 @@ Two concrete mechanisms have been proposed:
 
 **The quantum Zeno approach** ([Stapp](/concepts/stapp-quantum-mind/)): Mental attention acts like rapid observation on neural quantum states. Through the Zeno effect—well-established in physics laboratories—rapid repeated measurement "freezes" quantum systems. Consciousness holds desired neural patterns in place through sustained attention.
 
-**Orchestrated Objective Reduction** ([Penrose-Hameroff](/concepts/quantum-consciousness/#orch-or-penrose-hameroff)): Quantum computations in neural microtubules undergo gravitational self-collapse, and these collapse events constitute conscious experience while biasing which neural pattern becomes actual.
+**Orchestrated Objective Reduction** ([Penrose-Hameroff](/concepts/quantum-consciousness/#orchestrated-objective-reduction-orch-or)): Quantum computations in neural microtubules undergo gravitational self-collapse, and these collapse events constitute conscious experience while biasing which neural pattern becomes actual.
 
 **[Spontaneous collapse with consciousness modulation](/concepts/spontaneous-collapse-theories/)**: GRW and CSL theories provide baseline collapse that operates consciousness-independently, solving the prebiotic problem. Consciousness then *modulates* these processes in neural systems rather than wholly causing collapse.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-25 01:40:00+00:00
+ai_modified: 2026-03-26 07:34:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -124,7 +124,7 @@ Three responses:
 
 **First**, decoherence doesn't solve the measurement problem. Even granting rapid decoherence, something must select which outcome becomes actual. Decoherence explains why we don't see superpositions; it doesn't explain why we see *definite* outcomes. The role for consciousness at the point of selection remains open.
 
-**Second**, the [quantum Zeno mechanism](/concepts/quantum-consciousness/#the-quantum-zeno-effect) may sidestep decoherence entirely. Rapid repeated observation can hold states stable against decoherence. If consciousness operates through Zeno freezing rather than maintained superposition, short coherence times don't matter—observations happen faster than decoherence can act.
+**Second**, the [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) may sidestep decoherence entirely. Rapid repeated observation can hold states stable against decoherence. If consciousness operates through Zeno freezing rather than maintained superposition, short coherence times don't matter—observations happen faster than decoherence can act.
 
 **Third**, recent quantum biology research shows biological systems can maintain coherence far longer than expected. Photosynthesis, magnetoreception, and enzyme catalysis all exploit quantum effects in warm conditions. The categorical objection—that biology cannot use quantum mechanics—is empirically refuted.
 

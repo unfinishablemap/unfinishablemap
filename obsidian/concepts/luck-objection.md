@@ -4,7 +4,7 @@ description: "Why indeterminism seems to threaten free will as much as determini
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-03-14T23:06:00+00:00
+ai_modified: 2026-03-26T07:34:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -88,7 +88,7 @@ If selection is genuine, the luck objection fails. The agent explains the differ
 
 ### The Phenomenology of Effort
 
-The [[mental-effort|phenomenology of effort]] supports selection. If choices were random fluctuations, there would be no phenomenology of effort—random processes don't feel like work. But choosing feels effortful. The felt cost of concentration corresponds to real causal engagement via the [[quantum-consciousness#The Quantum Zeno Effect|quantum Zeno effect]]. Lucky events don't feel like achievements; selections do.
+The [[mental-effort|phenomenology of effort]] supports selection. If choices were random fluctuations, there would be no phenomenology of effort—random processes don't feel like work. But choosing feels effortful. The felt cost of concentration corresponds to real causal engagement via the [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno effect]]. Lucky events don't feel like achievements; selections do.
 
 ### Motor Selection: Corroboration
 
