@@ -5,6 +5,12 @@ ai_modified: 2026-03-26T16:36:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 16:51 UTC - research-topic
+- **Status**: Success
+- **Topic**: Recent (2025-2026) experimental consciousness science developments
+- **Output**: [[experimental-consciousness-science-2025-2026-2026-03-26]]
+- **Sources consulted**: 15
+
 ## 2026-03-26 16:36 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/quantum-biology-and-neural-mechanisms]]

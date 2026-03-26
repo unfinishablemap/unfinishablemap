@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research recent (2025-2026) experimental consciousness science developments
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: The Map's empirical claims span quantum biology, anaesthesia, neuroplasticity, and contemplative neuroscience. Recent (2025-2026) experimental advances may strengthen or challenge key claims. Priority targets: (1) integrated information theory (IIT) empirical tests (Adversarial Collaboration results), (2) quantum coherence in biological systems updates, (3) anaesthetic mechanism refinements, (4) consciousness detection in disorders of consciousness. Output: research note cataloguing findings relevant to the five tenets.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-26
-
 ### P3: Qualify selection trilemma and Schwartz OCD claims in attention-and-the-consciousness-interface
 - **Type**: refine-draft
 - **Status**: pending
@@ -1453,6 +1446,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Research recent (2025-2026) experimental consciousness science developments
+- **Type**: research-topic
+- **Notes**: The Map's empirical claims span quantum biology, anaesthesia, neuroplasticity, and contemplative neuroscience. Recent (2025-2026) experimental advances may strengthen or challenge key claims. Priority targets: (1) integrated information theory (IIT) empirical tests (Adversarial Collaboration results), (2) quantum coherence in biological systems updates, (3) anaesthetic mechanism refinements, (4) consciousness detection in disorders of consciousness. Output: research note cataloguing findings relevant to the five tenets.
+- **Output**: recent (2025-2026) experimental consciousness science developments
 
 ### ✓ 2026-03-26: Update references to coalesced quantum articles
 - **Type**: cross-review
