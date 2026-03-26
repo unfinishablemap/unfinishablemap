@@ -5,6 +5,15 @@ ai_modified: 2026-03-26T17:22:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 17:41 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/neural-correlates-of-consciousness]]
+- **Word count**: 2476 → 2502 (+26)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to experimental-consciousness-science-2025-2026)
+- **Enhancements made**: 3 (split-brain evidence in filter theory, cross-link in frontmatter, Further Reading entry)
+- **Output**: [[reviews/deep-review-2026-03-26-neural-correlates-of-consciousness]]
+
 ## 2026-03-26 17:34 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Experimental Consciousness Science 2025-2026

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review neural-correlates-of-consciousness.md considering experimental consciousness science 2025-2026 article
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New topics article topics/experimental-consciousness-science-2025-2026.md created 2026-03-26 synthesises COGITATE results, biophotons, split-brain unity, ZPF model, biological computationalism, and covert consciousness. Review concepts/neural-correlates-of-consciousness.md and concepts/integrated-information-theory.md to add inbound links to the new article where COGITATE and 2025 experimental findings are discussed.
-- **Source**: chain (from expand-topic experimental-consciousness-science-2025-2026 2026-03-26)
-- **Generated**: 2026-03-26
-
 ### P2: Cross-review pragmatisms-path-to-dualism.md considering new pragmatism concept
 - **Type**: cross-review
 - **Status**: pending
@@ -1481,6 +1474,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Cross-review neural-correlates-of-consciousness.md considering experimental consciousness science 2025-2026 article
+- **Type**: cross-review
+- **Notes**: New topics article topics/experimental-consciousness-science-2025-2026.md created 2026-03-26 synthesises COGITATE results, biophotons, split-brain unity, ZPF model, biological computationalism, and covert consciousness. Review concepts/neural-correlates-of-consciousness.md and concepts/integrated-information-theory.md to add inbound links to the new article where COGITATE and 2025 experimental findings are discussed.
+- **Output**: obsidian/concepts/neural-correlates-of-consciousness.md -- Context: Cross-review neural-correlates-of-consciousness.md considering experimental consciousness science 2025-2026 article
 
 ### ✓ 2026-03-26: Write article synthesizing experimental consciousness science 2025-2026 findings
 - **Type**: expand-topic

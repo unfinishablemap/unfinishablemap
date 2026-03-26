@@ -4,7 +4,7 @@ description: "Brain activity correlating with conscious experience. Correlation 
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-26T17:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,12 +34,13 @@ related_articles:
   - "[[measurement-void]]"
   - "[[consciousness-and-the-problem-of-measurement-standards]]"
   - "[[duhem-quine-underdetermination-consciousness]]"
+  - "[[experimental-consciousness-science-2025-2026]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-03-04T17:14:00+00:00
+last_deep_review: 2026-03-26T17:41:00+00:00
 ---
 
 Neural correlates of consciousness (NCC) are the minimum neural mechanisms sufficient for a specific conscious experience. When you see red, what patterns of brain activity correspond to that experience? This research program, pioneered by Christof Koch and Francis Crick, has yielded significant empirical findings—particularly that conscious perception correlates primarily with activity in a "posterior cortical hot zone" rather than frontal brain regions. Yet NCC research is philosophically neutral on the deepest questions: finding that consciousness *correlates* with certain brain activity does not tell us whether consciousness *is* that activity, *emerges from* it, or *interacts with* it from outside. The Unfinishable Map's [[interactionist-dualism|interactionist dualism]] is fully compatible with NCC findings.
@@ -107,7 +108,7 @@ The hippocampus also performs binding for both perception and memory. The [[bind
 Several findings support this reading:
 
 - **Covert consciousness**: Meta-analyses suggest up to 25% of behaviorally unresponsive patients show neural responses consistent with consciousness during command-following paradigms (Kondziella et al., 2016; see also [[disorders-of-consciousness-as-test-cases|disorders of consciousness as test cases]]). Some researchers interpret these responses as preserved unconscious processing rather than genuine awareness. But on the consciousness interpretation, how could awareness persist when its supposed neural basis fails to generate behavioral outputs?
-- **Disconnection syndromes**: Brain damage typically produces disconnection rather than destruction—hemispherectomy patients retain substantially normal consciousness despite missing half their cortex.
+- **Disconnection syndromes**: Brain damage typically produces disconnection rather than destruction—hemispherectomy patients retain substantially normal consciousness despite missing half their cortex, and a 2025 study found that callosotomy patients with only a small posterior fibre bundle intact maintained full [[experimental-consciousness-science-2025-2026|conscious unity]].
 - **Anesthetic dissociations**: Propofol and ketamine both produce behavioral unresponsiveness but radically different experiences—near-total extinction versus vivid dissociative states.
 
 NCC data is compatible with either production or transmission interpretations.
@@ -164,11 +165,11 @@ Over 200 theories of consciousness exist. IIT and GNWT were both challenged by C
 
 ## The Philosophical Boundary
 
-NCC research marks a genuine advance in consciousness science. We know more than ever about which brain regions correlate with conscious experience. We have powerful methods for testing theories.
+NCC research marks a genuine advance in consciousness science, yielding detailed knowledge of which brain regions correlate with conscious experience and powerful methods for testing theories.
 
-Yet NCC cannot cross a certain boundary. It can map correlations with increasing precision. It cannot tell us what consciousness *is*, why it exists, or how—if at all—it relates to the physical world beyond correlation. The [[measurement-void]] illuminates the depth of this limitation: five independent routes to measuring consciousness—units, instruments, interpersonal comparison, introspection, proxy metrics—all fail for structural rather than technical reasons. The [[consciousness-and-the-problem-of-measurement-standards|measurement standards problem]] traces why the entire apparatus of physical measurement—units, instruments, and calibration—cannot be constructed for phenomenal quantities. NCC research, however sophisticated, operates entirely within the proxy layer. As the [[cognitive-science-of-dualism]] article argues, every NCC study presupposes first-person report as irreducible data—the experimenter trusts the subject's testimony about what they experience, smuggling in a first-person element the methodology cannot itself explain.
+Yet NCC cannot cross a certain boundary. It can map correlations with increasing precision but cannot tell us what consciousness *is*, why it exists, or how—if at all—it relates to the physical world beyond correlation. The [[measurement-void]] illuminates this limitation: five independent routes to measuring consciousness—units, instruments, interpersonal comparison, introspection, proxy metrics—all fail for structural rather than technical reasons. The [[consciousness-and-the-problem-of-measurement-standards|measurement standards problem]] traces why the entire apparatus of physical measurement—units, instruments, and calibration—cannot be constructed for phenomenal quantities. NCC research, however sophisticated, operates entirely within the proxy layer. As the [[cognitive-science-of-dualism]] article argues, every NCC study presupposes first-person report as irreducible data—the experimenter trusts the subject's testimony about what they experience, smuggling in a first-person element the methodology cannot itself explain.
 
-These remain philosophical questions. The Map holds that consciousness is irreducible, that it interacts bidirectionally with physics, and that this interaction occurs at quantum indeterminacies. NCC findings are compatible with this framework. They would be equally compatible with materialism. The hard problem, the explanatory gap, and the metaphysics of mind-brain relations remain exactly where they were—though we now know better where in the brain to investigate them.
+These remain philosophical questions. The Map holds that consciousness is irreducible, that it interacts bidirectionally with physics, and that this interaction occurs at quantum indeterminacies. NCC findings are compatible with this framework and equally with materialism. The hard problem, the explanatory gap, and the metaphysics of mind-brain relations remain exactly where they were—though we now know better where in the brain to investigate them.
 
 ## Further Reading
 
@@ -184,6 +185,7 @@ These remain philosophical questions. The Map holds that consciousness is irredu
 - [[binding-problem]] — How hippocampal binding connects consciousness and memory
 - [[conscious-vs-unconscious-processing]] — Functional dissociations showing consciousness enables operations unconscious processing cannot
 - [[measurement-void]] — Why consciousness resists measurement at every level
+- [[experimental-consciousness-science-2025-2026]] — COGITATE results, split-brain unity, and other 2025-2026 findings bearing on NCC interpretation
 
 ## References
 
