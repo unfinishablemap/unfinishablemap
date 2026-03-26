@@ -4,7 +4,7 @@ description: "Genuine social understanding—grasping other minds as minds, buil
 created: 2026-02-15
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-03-26T05:31:00+00:00
+ai_modified: 2026-03-26T06:13:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,7 +51,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-03-26T05:31:00+00:00
+last_deep_review: 2026-03-26T06:13:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-social-cognition/"
   - "/topics/consciousness-and-interpersonal-understanding/"
@@ -109,7 +109,7 @@ The [[phenomenology-of-understanding-and-meaning|phenomenology of understanding]
 
 **Progressive deepening.** More often, understanding a person develops gradually through repeated encounters. Each conversation reveals new facets. The phenomenology is of accumulation and revision — early impressions are overwritten, simplified models become textured, and the other person gains depth in your experience of them. Husserl (1931) called this process the "pairing" of one's own lived body with the other's — an ongoing constitution of the other as a co-subject, never completed because the other always exceeds what any single encounter reveals. Unlike understanding a proof, which achieves completion, understanding a person always remains partial. The [[intersubjective-void]] ensures there is always more to grasp.
 
-**Perspective-taking as phenomenal shift.** When you genuinely take another's perspective — not just predict their behaviour but imagine the world as it appears to them — the experience involves a felt shift. Your own perspective recedes (not disappearing but moving to the background) and another perspective occupies the foreground. This shift has phenomenal character: the world looks different, feels different, carries different salience and meaning. Zahavi (2001) argues that this goes beyond empathy as traditionally conceived — it is a form of direct experiential access to the other, not mere inference from behavioural cues.
+**Perspective-taking as phenomenal shift.** When you genuinely take another's perspective — not just predict their behaviour but imagine the world as it appears to them — the experience involves a felt shift. Your own perspective recedes (not disappearing but moving to the background) and another perspective occupies the foreground. This shift has phenomenal character: the world looks different, feels different, carries different salience and meaning. Zahavi (2001) argues that this goes beyond empathy as traditionally conceived — it involves a direct perceptual encounter with the other as a subject, not mere inference from behavioural cues.
 
 ## Empathy and Social Construction
 

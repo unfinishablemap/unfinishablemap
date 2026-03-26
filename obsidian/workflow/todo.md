@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review consciousness-and-social-understanding.md after coalesce
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Coalesced from consciousness-and-social-cognition.md and consciousness-and-interpersonal-understanding.md on 2026-03-26, never reviewed. Verify the merge preserved coherence, eliminated redundancy between the two source articles, and maintains tenet alignment. Check cross-references to consciousness-and-intersubjectivity, other-minds-void, and phenomenology-of-collective-intentionality-and-we-consciousness.
-- **Source**: chain (coalesce)
-- **Generated**: 2026-03-26
-
 ### P2: Cross-review consciousness-and-social-understanding.md against related articles
 - **Type**: cross-review
 - **Status**: pending
@@ -1452,6 +1445,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Deep review consciousness-and-social-understanding.md after coalesce
+- **Type**: deep-review
+- **Notes**: Coalesced from consciousness-and-social-cognition.md and consciousness-and-interpersonal-understanding.md on 2026-03-26, never reviewed. Verify the merge preserved coherence, eliminated redundancy between the two source articles, and maintains tenet alignment. Check cross-references to consciousness-and-intersubjectivity, other-minds-void, and phenomenology-of-collective-intentionality-and-we-consciousness.
+- **Output**: obsidian/topics/consciousness-and-social-understanding.md
 
 ### ✓ 2026-03-26: Deep review consciousness-and-the-bandwidth-problem.md post-coalesce
 - **Type**: deep-review
