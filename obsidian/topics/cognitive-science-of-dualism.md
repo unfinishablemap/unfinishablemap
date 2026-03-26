@@ -4,7 +4,7 @@ description: "Cognitive science presupposes methodological materialism, yet its 
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-03-11T23:02:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -102,7 +102,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] receives perhaps th
 - [[neural-correlates-of-consciousness]] — Why correlations between brain states and experience don't settle the metaphysics
 - [[predictive-processing]] — The brain as prediction engine and why it leaves consciousness unexplained
 - [[embodied-cognition]] — How bodily dependence reshapes but doesn't resolve the mind-body problem
-- [[neurophenomenology]] — Varela's integration of first-person and third-person methods
+- [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — Varela's integration of first-person and third-person methods
 - [[mysterianism|cognitive closure]] — McGinn's thesis on constitutional limits of human cognition
 - [[hard-problem-of-consciousness]] — Why no amount of functional description explains experience
 - [[dualism]] — The philosophical case independent of cognitive science

@@ -4,7 +4,7 @@ description: "Systematic first-person investigation of how obligation, beauty, a
 created: 2026-02-13
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-03-18T17:06:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 last_deep_review: 2026-03-18T17:06:00+00:00
 draft: false
 topics:
@@ -89,7 +89,7 @@ Normative phenomenology intersects with several related concepts on the Map but 
 
 Investigating normative experience risks corrupting the data. Attending to one's moral reactions may alter them. The meditator observing anger may dissolve it; the philosopher analysing obligation may intellectualise it beyond recognition. Normative phenomenology must navigate between two failures: too little attention (yielding unreliable reports) and too much (altering the phenomenon under study).
 
-[[neurophenomenology|Microphenomenological]] techniques (Petitmengin 2006) address this partly by using present-tense re-enactment rather than retrospective analysis. But the tension between observation and alteration remains a genuine limitation, parallel to challenges in [[phenomenological-evidence|phenomenological evidence]] generally.
+[[neurophenomenology-and-contemplative-neuroscience|Microphenomenological]] techniques (Petitmengin 2006) address this partly by using present-tense re-enactment rather than retrospective analysis. But the tension between observation and alteration remains a genuine limitation, parallel to challenges in [[phenomenological-evidence|phenomenological evidence]] generally.
 
 ### Cultural Saturation
 

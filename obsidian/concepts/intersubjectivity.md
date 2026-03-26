@@ -4,7 +4,7 @@ description: "The shared space between minds: how first-person experience can be
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-03-26T04:31:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -15,7 +15,7 @@ concepts:
   - "[[theory-of-mind]]"
   - "[[objectivity-and-consciousness]]"
   - "[[heterophenomenology]]"
-  - "[[neurophenomenology]]"
+  - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[other-minds-void]]"
   - "[[intersubjective-void]]"
   - "[[contemplative-epistemology]]"
@@ -69,7 +69,7 @@ The method supports the Map's position. Second-person approaches acknowledge phe
 
 ## Contemplative Evidence for Intersubjectivity
 
-[[neurophenomenology|Contemplative neuroscience]] provides striking evidence for intersubjective access to phenomenology (see [[contemplative-epistemology]] for systematic treatment of contemplative practice as a knowledge source). Trained meditators give consistent first-person reports of specific attentional states: access concentration, jhāna factors, witness consciousness, non-dual awareness. Different practitioners converge on similar phenomenological distinctions—concentration versus insight, effort versus ease, observer versus observed.
+[[neurophenomenology-and-contemplative-neuroscience|Contemplative neuroscience]] provides striking evidence for intersubjective access to phenomenology (see [[contemplative-epistemology]] for systematic treatment of contemplative practice as a knowledge source). Trained meditators give consistent first-person reports of specific attentional states: access concentration, jhāna factors, witness consciousness, non-dual awareness. Different practitioners converge on similar phenomenological distinctions—concentration versus insight, effort versus ease, observer versus observed.
 
 This convergence is not explained by shared concepts alone. Meditators often report that language fails to capture their experiences, yet they recognize each other's descriptions. A Theravāda practitioner and a Tibetan practitioner may use different vocabularies but identify the same experiential landmarks. The phenomenological reality appears to precede and exceed the conceptual frameworks used to describe it.
 
@@ -127,7 +127,7 @@ A clarification is warranted. Phenomenological realism does not by itself entail
 
 **Occam's Razor Has Limits.** The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] warns against dismissing consciousness as an unnecessary hypothesis. Intersubjectivity complicates eliminativist arguments: the rich, cross-cultural vocabulary for inner experience is evidence that something real is being described. Dismissing phenomenology as illusory requires explaining why humans universally develop frameworks for accessing it intersubjectively. The simpler hypothesis: consciousness exists and is intersubjectively accessible.
 
-Intersubjectivity also connects to methodology. The [[methodology-of-consciousness-research|first-person/third-person divide]] in consciousness science is partially bridged by second-person methods that leverage intersubjectivity. [[neurophenomenology]]'s mutual constraint framework depends on intersubjective validity—phenomenological findings must be communicable and corroborable across different investigators. Without intersubjectivity, first-person methods would be irreducibly private and scientifically inaccessible.
+Intersubjectivity also connects to methodology. The [[methodology-of-consciousness-research|first-person/third-person divide]] in consciousness science is partially bridged by second-person methods that leverage intersubjectivity. [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]]'s mutual constraint framework depends on intersubjective validity—phenomenological findings must be communicable and corroborable across different investigators. Without intersubjectivity, first-person methods would be irreducibly private and scientifically inaccessible.
 
 ## Further Reading
 
@@ -138,7 +138,7 @@ Intersubjectivity also connects to methodology. The [[methodology-of-consciousne
 - [[objectivity-and-consciousness]] — The "view from nowhere" and its limits; objectivity as intersubjective agreement
 - [[problem-of-other-minds]] — The epistemological puzzle that intersubjectivity addresses
 - [[methodology-of-consciousness-research]] — How intersubjectivity bridges methodological perspectives
-- [[neurophenomenology]] — Varela's mutual constraint framework grounded in intersubjective corroboration
+- [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — Varela's mutual constraint framework grounded in intersubjective corroboration
 - [[heterophenomenology]] — Dennett's third-person approach that brackets intersubjective access to phenomenology
 - [[phenomenology]] — Classical first-person methods and their intersubjective validation
 - [[theory-of-mind]] — The cognitive capacity that enables intersubjective attribution

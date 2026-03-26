@@ -4,14 +4,14 @@ description: "First-person experience reports are genuine evidence for conscious
 created: 2026-02-01
 modified: 2026-02-06
 human_modified:
-ai_modified: 2026-03-25T09:43:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[methodology-of-consciousness-research]]"
 concepts:
   - "[[phenomenology]]"
-  - "[[neurophenomenology]]"
+  - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[qualia]]"
   - "[[introspection]]"
   - "[[intersubjectivity]]"
@@ -20,7 +20,6 @@ concepts:
   - "[[metacognition]]"
   - "[[explanatory-gap]]"
   - "[[phenomenal-consciousness]]"
-  - "[[contemplative-neuroscience]]"
   - "[[cognitive-phenomenology]]"
   - "[[altered-states-of-consciousness]]"
   - "[[phenomenal-acquaintance]]"
@@ -83,7 +82,7 @@ Husserl's method addresses privacy through [[intersubjectivity]]. When multiple 
 
 ### Varela's Neurophenomenology
 
-Francisco Varela's [[neurophenomenology]] established explicit standards for phenomenological evidence. The training requirement is central: reliable phenomenological reports require trained observers. Untrained [[introspection]] produces inconsistent results—the failure that led behaviourists to abandon introspective psychology. But this failure reflects inadequate methodology, not introspection's impossibility. Fox et al. (2012) demonstrated that meditation experience predicts introspective accuracy following a logarithmic learning curve.
+Francisco Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] established explicit standards for phenomenological evidence. The training requirement is central: reliable phenomenological reports require trained observers. Untrained [[introspection]] produces inconsistent results—the failure that led behaviourists to abandon introspective psychology. But this failure reflects inadequate methodology, not introspection's impossibility. Fox et al. (2012) demonstrated that meditation experience predicts introspective accuracy following a logarithmic learning curve.
 
 Varela's mutual constraint principle gives phenomenological evidence its scientific traction: phenomenological reports gain evidential weight when they predict neural correlates, and neural findings validate phenomenological distinctions. Neither domain dominates; both contribute evidence. This bidirectional constraint prevents phenomenology from floating free of physical reality while preventing neuroscience from ignoring the phenomena it aims to explain.
 
@@ -164,7 +163,7 @@ Phenomenological evidence directly supports the Map's [[tenets]]:
 
 **[[tenets#^dualism|Dualism]]**: The very need for a distinct category of first-person evidence—irreducible to behavioural or neural data—reflects the irreducibility of consciousness itself. If phenomenal properties were identical to physical properties, third-person methods would suffice to capture everything about experience. The persistent need for rigorous first-person methods suggests the properties investigated are genuinely distinct from physical properties.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: [[neurophenomenology|Neurophenomenology's]] mutual constraint exemplifies bidirectional interaction. Phenomenology constrains which neuroscientific theories are adequate; neuroscience validates phenomenological distinctions. Neither domain dominates; both contribute evidence.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: [[neurophenomenology-and-contemplative-neuroscience|Neurophenomenology's]] mutual constraint exemplifies bidirectional interaction. Phenomenology constrains which neuroscientific theories are adequate; neuroscience validates phenomenological distinctions. Neither domain dominates; both contribute evidence.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Dismissing phenomenological evidence as "merely subjective" is not parsimony—it is refusal to investigate. As the [[epistemological-limits-occams-razor]] argument develops, apparent simplicity can reflect ignorance rather than insight. Contemplative traditions have developed systematic first-person methods over millennia. Materialist "simplicity" often reflects failure to look rather than absence of phenomena.
 
@@ -173,7 +172,7 @@ Phenomenological evidence provides the data that any adequate theory of consciou
 ## Further Reading
 
 - [[phenomenology]] — The philosophical method for generating phenomenological evidence
-- [[neurophenomenology]] — Integration of phenomenological evidence with neuroscience
+- [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — Integration of phenomenological evidence with neuroscience
 - [[introspection]] — The reliability debate and trained first-person methods
 - [[epistemology-of-first-person-evidence]] — The epistemological models and the case for sui generis introspective knowledge
 - [[phenomenal-acquaintance]] — The direct, non-inferential relation grounding first-person evidence

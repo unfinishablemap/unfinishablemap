@@ -4,7 +4,7 @@ description: "The phenomenal contrast method isolates non-sensory phenomenal pro
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -79,7 +79,7 @@ The phenomenal contrast method shares logical structure with the [[knowledge-arg
 
 ### Empirical Applications
 
-The method's logical structure lends itself to empirical research through [[neurophenomenology]]. By comparing neural activity during phenomenally contrastive conditions — understanding versus non-understanding, agency versus passivity — researchers can identify neural correlates of non-sensory phenomenal properties. The method provides the experimental design: hold sensory input constant and vary cognitive engagement, then observe what changes in both phenomenal report and neural activity. This makes phenomenal contrasts one of the few tools that can bridge first-person phenomenology and third-person neuroscience without collapsing one into the other.
+The method's logical structure lends itself to empirical research through [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]]. By comparing neural activity during phenomenally contrastive conditions — understanding versus non-understanding, agency versus passivity — researchers can identify neural correlates of non-sensory phenomenal properties. The method provides the experimental design: hold sensory input constant and vary cognitive engagement, then observe what changes in both phenomenal report and neural activity. This makes phenomenal contrasts one of the few tools that can bridge first-person phenomenology and third-person neuroscience without collapsing one into the other.
 
 ## Objections and Limitations
 
@@ -122,7 +122,7 @@ The phenomenal contrast method serves the Map as both evidence and tool — evid
 - [[introspection]] — The reliability and limits of first-person evidence
 - [[heterophenomenology]] — Dennett's third-person alternative and why phenomenal contrasts resist it
 - [[methodological-pluralism]] — Where phenomenal contrasts fit among consciousness research methods
-- [[neurophenomenology]] — Bridging first-person contrasts with third-person neuroscience
+- [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — Bridging first-person contrasts with third-person neuroscience
 
 ## References
 

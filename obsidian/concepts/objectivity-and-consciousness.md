@@ -4,12 +4,12 @@ description: "Why consciousness resists the view from nowhere. Scientific object
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-03-22T09:56:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 last_deep_review: 2026-03-12T06:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[neurophenomenology]]"
+  - "[[neurophenomenology-and-contemplative-neuroscience]]"
 concepts:
   - "[[phenomenology]]"
   - "[[intersubjectivity]]"
@@ -161,7 +161,7 @@ The limits of objectivity are not defects to overcome but features of reality it
 - [[methodology-of-consciousness-research]] — The methodological debate this article addresses
 - [[phenomenal-consciousness]] — What it's like to be conscious
 - [[heterophenomenology]] — Dennett's third-person methodology
-- [[neurophenomenology]] — Varela's mutual constraints approach
+- [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — Varela's mutual constraints approach
 - [[problem-of-other-minds]] — How we know other conscious beings exist
 - [[witness-consciousness]] — The observer role in meditation and phenomenology
 - [[phenomenology]] — First-person investigation of experience

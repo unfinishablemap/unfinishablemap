@@ -4,7 +4,7 @@ description: "Free will, quantum collapse, and time's arrow interlink. If consci
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-25T11:13:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -195,7 +195,7 @@ Meditation traditions offer phenomenological data relevant to this framework. Wh
 
 **[[witness-consciousness|Witness consciousness]].** Vipassana and Dzogchen describe stable awareness *of* experience without participation *in* it. *Report*: observing thoughts arise and pass without choosing, with timeless-presence quality. *Interpretation*: suspended selection—consciousness present but not collapsing superpositions.
 
-**Temporal microstructure.** Trained [[introspection|introspectors]] report sub-second phenomenological distinctions—what [[neurophenomenology]] calls "fine-grained temporal dynamics" (Fox et al. 2012). *Report*: apparent temporal continuity reveals granularity under trained attention. *Interpretation*: if collapse creates experiential time-quanta, this granularity is expected.
+**Temporal microstructure.** Trained [[introspection|introspectors]] report sub-second phenomenological distinctions—what [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] calls "fine-grained temporal dynamics" (Fox et al. 2012). *Report*: apparent temporal continuity reveals granularity under trained attention. *Interpretation*: if collapse creates experiential time-quanta, this granularity is expected.
 
 These reports provide phenomenological constraints, not proof. A theory of consciousness-constituted time should predict specific temporal phenomenologies for different modes; the framework does.
 
@@ -247,7 +247,7 @@ This synthesis strengthens and deepens each of the five tenets:
 - [[haecceity]] — Indexical identity and why *this* consciousness matters
 - [[witness-consciousness]] — Suspended selection in contemplative practice
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-collapse interaction
-- [[neurophenomenology]] — Integrating first-person observation with neuroscience
+- [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — Integrating first-person observation with neuroscience
 
 ## References
 

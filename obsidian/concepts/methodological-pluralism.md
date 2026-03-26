@@ -4,13 +4,13 @@ description: "Consciousness research requires multiple methods—first-person, s
 created: 2026-02-12
 modified: 2026-02-12
 human_modified:
-ai_modified: 2026-03-20T09:19:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 draft: false
 topics:
   - "[[methodology-of-consciousness-research]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[neurophenomenology]]"
+  - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[phenomenology]]"
   - "[[heterophenomenology]]"
   - "[[introspection]]"
@@ -82,7 +82,7 @@ Their limitation is structural, not temporary: third-person observation can neve
 
 ## Mutual Constraint: How Methods Interact
 
-Francisco Varela's [[neurophenomenology]] provides the most developed framework for methodological pluralism in practice. His "mutual constraint" principle holds that first-person and third-person methods should constrain each other bidirectionally:
+Francisco Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] provides the most developed framework for methodological pluralism in practice. His "mutual constraint" principle holds that first-person and third-person methods should constrain each other bidirectionally:
 
 - **Phenomenology constrains neuroscience**: First-person descriptions of experiential structure set adequacy conditions for neuroscientific theories. A neural model that predicts experiences we don't have, or fails to predict experiences we do have, is inadequate regardless of its third-person elegance.
 
@@ -119,7 +119,7 @@ The Map speculates that methodological pluralism may be more than a practical ne
 ## Further Reading
 
 - [[methodology-of-consciousness-research]]—The methodological divide and why it reflects ontological dualism
-- [[neurophenomenology]]—Varela's mutual constraint framework in detail
+- [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]]—Varela's mutual constraint framework in detail
 - [[heterophenomenology]]—Dennett's third-person-only approach and why the Map rejects it
 - [[phenomenological-evidence]]—Conditions under which first-person reports constitute evidence
 - [[contemplative-practice-as-philosophical-evidence]]—How contemplative practice provides consciousness data

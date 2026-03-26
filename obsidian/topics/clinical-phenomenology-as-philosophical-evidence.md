@@ -4,7 +4,7 @@ description: "Clinical phenomenology generates uniquely powerful philosophical e
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-20T18:23:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[qualia]]"
   - "[[introspection]]"
   - "[[explanatory-gap]]"
-  - "[[neurophenomenology]]"
+  - "[[neurophenomenology-and-contemplative-neuroscience]]"
 related_articles:
   - "[[tenets]]"
   - "[[phenomenological-psychiatry-and-altered-experience]]"
@@ -40,7 +40,7 @@ Clinical phenomenology — the systematic study of how psychiatric and neurologi
 
 ## The Epistemic Structure of Clinical Evidence
 
-Philosophy of mind has long faced an evidence problem. Armchair thought experiments — zombies, Mary's Room, inverted qualia — illuminate logical possibilities but cannot establish empirical facts. Neuroscience measures brain activity but cannot access subjective experience directly. Clinical phenomenology — and its methodological cousin [[neurophenomenology]] — occupies the [[explanatory-gap|explanatory gap]] between these approaches by studying cases where nature has performed experiments that ethics forbids and thought experiments merely imagine.
+Philosophy of mind has long faced an evidence problem. Armchair thought experiments — zombies, Mary's Room, inverted qualia — illuminate logical possibilities but cannot establish empirical facts. Neuroscience measures brain activity but cannot access subjective experience directly. Clinical phenomenology — and its methodological cousin [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — occupies the [[explanatory-gap|explanatory gap]] between these approaches by studying cases where nature has performed experiments that ethics forbids and thought experiments merely imagine.
 
 When [[phenomenological-psychiatry-and-altered-experience|schizophrenia erodes the minimal self]], when [[clinical-dissociation-as-systematic-evidence|dissociative disorders selectively disconnect experiential channels]], when [[pain-consciousness-and-causal-power|pain asymbolia strips affect from sensation]] — these are not merely interesting clinical observations. They are controlled variations on the structure of consciousness, performed by pathology on real subjects who can report what the alteration is like from the inside.
 

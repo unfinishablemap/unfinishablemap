@@ -4,7 +4,7 @@ description: "How phenomenology's internal evidence taxonomy—apodictic, adequa
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-20T20:14:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,7 +12,7 @@ topics:
 concepts:
   - "[[phenomenology]]"
   - "[[introspection]]"
-  - "[[neurophenomenology]]"
+  - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[phenomenological-evidence]]"
   - "[[phenomenal-acquaintance]]"
   - "[[intersubjectivity]]"
@@ -90,7 +90,7 @@ For the hard problem, Merleau-Ponty's contribution is significant: he demonstrat
 
 ### Varela's Neurophenomenological Standard
 
-Francisco Varela's [[neurophenomenology]] establishes a two-channel evidence standard: first-person phenomenological reports and third-person neuroscientific data must mutually constrain each other. Neither channel alone suffices. Phenomenological reports without neural grounding remain philosophically interesting but scientifically untethered. Neural data without phenomenological reports cannot identify which brain states are correlates of *consciousness* as opposed to unconscious processing.
+Francisco Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] establishes a two-channel evidence standard: first-person phenomenological reports and third-person neuroscientific data must mutually constrain each other. Neither channel alone suffices. Phenomenological reports without neural grounding remain philosophically interesting but scientifically untethered. Neural data without phenomenological reports cannot identify which brain states are correlates of *consciousness* as opposed to unconscious processing.
 
 Varela's standard is the most demanding and the most productive. It requires trained observers—untrained [[introspection]] produces the unreliable reports that motivate scepticism (Schwitzgebel 2011)—and it generates testable predictions. When trained meditators' phenomenological descriptions predict specific neural signatures (Lutz et al. 2004), the cross-modal convergence provides [[intersubjectivity|intersubjective]] validation that neither first-person nor third-person methods achieve alone. This aligns with the approach explored in [[contemplative-practice-as-philosophical-evidence|contemplative practice as philosophical evidence]].
 
@@ -120,7 +120,7 @@ The Map's [[tenets]] connect to phenomenological evidence standards at multiple 
 - [[epistemology-of-first-person-evidence]]
 - [[methodology-of-consciousness-research]]
 - [[phenomenology]]
-- [[neurophenomenology]]
+- [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]]
 - [[heterophenomenology]]
 - [[introspection]]
 - [[contemplative-practice-as-philosophical-evidence]]

@@ -4,7 +4,7 @@ description: "Two modes of consciousness: active selection through attention and
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -19,8 +19,7 @@ concepts:
   - "[[phenomenology-of-choice-and-volition]]"
   - "[[phenomenology]]"
   - "[[default-mode-network]]"
-  - "[[contemplative-neuroscience]]"
-  - "[[neurophenomenology]]"
+  - "[[neurophenomenology-and-contemplative-neuroscience]]"
 related_articles:
   - "[[tenets]]"
   - "[[meditation-observer-witness-phenomenon-2026-01-18]]"
@@ -266,8 +265,8 @@ FA meditation strengthens selection. OM meditation cultivates witnessing. Both a
 - [[witness-consciousness]] — Dedicated treatment of the sakshi/witness concept
 - [[attention-and-the-consciousness-interface]] — Meditation deficits reveal interface training requirements
 - [[default-mode-network]] — The brain network that quiets during meditation, with filter theory interpretation
-- [[contemplative-neuroscience]] — Neuroplasticity evidence from meditation training supporting bidirectional interaction
-- [[neurophenomenology]] — Varela's mutual constraints framework integrating first-person and third-person methods
+- [[neurophenomenology-and-contemplative-neuroscience|contemplative neuroscience]] — Neuroplasticity evidence from meditation training supporting bidirectional interaction
+- [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — Varela's mutual constraints framework integrating first-person and third-person methods
 - [[illusionism]] — The illusionist challenge and quasi-phenomenal properties
 - [[phenomenology-of-choice-and-volition]] — The felt difference between choosing and observing
 - [[attention-as-interface]] — How consciousness influences matter through attention

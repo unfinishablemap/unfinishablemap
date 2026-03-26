@@ -4,7 +4,7 @@ description: "Consciousness contributes to creativity through both generating po
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-03-25T10:14:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[mental-causation]]"
   - "[[mental-effort]]"
   - "[[mysterianism]]"
-  - "[[neurophenomenology]]"
+  - "[[neurophenomenology-and-contemplative-neuroscience]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-creativity-novelty-generation-2026-01-19]]"
@@ -148,7 +148,7 @@ The creative process may also illuminate [[mysterianism|cognitive closure]]. If 
 - [[mental-effort]] — The conscious work of switching between exploratory and evaluative cognitive modes
 - [[mental-imagery]] — Voluntary imagery as paradigm case of consciousness generating and manipulating possibilities
 - [[mysterianism]] — Cognitive closure and the limits of understanding consciousness
-- [[neurophenomenology]] — Contemplative access to the temporal microstructure of creative experience
+- [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — Contemplative access to the temporal microstructure of creative experience
 - [[topics/free-will]] — How creativity connects to free action
 - [[dream-consciousness]] — Dream problem-solving as empirical evidence that phenomenal mode shapes creative outcomes
 - [[creativity-void]] — The void where creative insight originates

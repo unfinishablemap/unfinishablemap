@@ -4,7 +4,7 @@ description: "Varela's research program integrating first-person phenomenology w
 created: 2026-01-14
 modified: 2026-03-26
 human_modified: null
-ai_modified: 2026-03-26T09:02:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ author: Andy Southgate
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-26T09:17:00+00:00
 coalesced_from:
   - "/concepts/neurophenomenology/"
   - "/concepts/contemplative-neuroscience/"
@@ -208,11 +208,7 @@ None demonstrated. Fox et al. shows robust training effects; cross-traditional s
 - [[attention-as-interface]] — How attention serves as consciousness's interface with matter
 - [[meditation-and-consciousness-modes]] — The two modes: active selection and passive witnessing
 - [[temporal-consciousness]] — How temporal structure of conscious experience relates to neural binding and gamma synchrony
-- [[topics/free-will]] — How meditation evidence connects to agent causation and libertarian accounts
-- [[Emotional-consciousness]] — Phenomenal character of emotions and their role in consciousness
-- [[concepts/epiphenomenalism]] — Why contemplative neuroscience challenges the view that consciousness is causally inert
 - [[bidirectional-interaction]] — The central tenet that contemplative neuroscience supports empirically
-- [[mysterianism]] — Why the explanatory gap persists even with refined phenomenological and neuroscientific methods
 - [[introspection]] — The reliability debate and process/content distinction
 - [[phenomenology]] — The philosophical tradition grounding neurophenomenology
 - [[apex/testing-the-map-from-inside|Testing the Map from Inside]] — Apex synthesis: practical phenomenological tests grounded in neurophenomenological methods

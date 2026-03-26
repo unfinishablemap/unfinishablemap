@@ -5,6 +5,15 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 09:17 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/neurophenomenology-and-contemplative-neuroscience]]
+- **Word count**: 2831 → 2777 (-54)
+- **Critical issues addressed**: 1 (broken `[[Emotional-consciousness]]` link → `[[emotion-and-dualism]]`)
+- **Medium issues addressed**: 2 (trimmed Further Reading 19→13; bulk wikilink update across 51 active files)
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-03-26-neurophenomenology-and-contemplative-neuroscience]]
+
 ## 2026-03-26 09:02 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[concepts/neurophenomenology]], [[concepts/contemplative-neuroscience]]

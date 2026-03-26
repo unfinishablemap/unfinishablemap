@@ -4,7 +4,7 @@ description: "The philosophical method of investigating consciousness through sy
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-23T21:43:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ concepts:
   - "[[mysterianism]]"
   - "[[self-and-self-consciousness]]"
   - "[[introspection]]"
-  - "[[neurophenomenology]]"
+  - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[meditation-and-consciousness-modes]]"
   - "[[eastern-philosophy-consciousness]]"
   - "[[illusionism]]"
@@ -109,11 +109,11 @@ This distinguishes phenomenology from [[heterophenomenology]]—Dennett's approa
 
 [[buddhism-and-dualism|Buddhist contemplative traditions]] have practiced phenomenological method for over two millennia. Meditation involves systematic observation of how mental contents arise and pass—attending to thoughts without getting caught in content (a form of epoché). The Buddhist emphasis on *sati* (mindfulness) is directed attention to present experience.
 
-Both traditions share key insights: consciousness has structure accessible through disciplined attention; the minimal self is revealed through careful observation; temporal experience involves retention and anticipation; first-person methods cannot be replaced by third-person approaches. [[neurophenomenology]] increasingly draws on contemplative expertise. This Eastern-Western convergence strengthens the case that phenomenology discloses genuine features of consciousness rather than cultural artifacts.
+Both traditions share key insights: consciousness has structure accessible through disciplined attention; the minimal self is revealed through careful observation; temporal experience involves retention and anticipation; first-person methods cannot be replaced by third-person approaches. [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] increasingly draws on contemplative expertise. This Eastern-Western convergence strengthens the case that phenomenology discloses genuine features of consciousness rather than cultural artifacts.
 
 ## Neurophenomenology
 
-Francisco Varela pioneered *[[neurophenomenology]]*—integrating first-person phenomenological reports with third-person neuroscience. The core hypothesis: consciousness research requires "mutual constraints" between subjective and neural data. Neither alone suffices. The method trains subjects in phenomenological observation (often through contemplative practices), then correlates their refined reports with neural measurements—honouring both perspectives without reducing one to the other.
+Francisco Varela pioneered *[[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]]*—integrating first-person phenomenological reports with third-person neuroscience. The core hypothesis: consciousness research requires "mutual constraints" between subjective and neural data. Neither alone suffices. The method trains subjects in phenomenological observation (often through contemplative practices), then correlates their refined reports with neural measurements—honouring both perspectives without reducing one to the other.
 
 Recent developments (2025) include "deep computational neurophenomenology," using Bayesian mechanics to formalize first-person/third-person integration, and "generative neurophenomenology," emphasizing intersubjective dimensions. These frameworks acknowledge what the Map's tenets assert: understanding consciousness requires methods that go beyond third-person physical description.
 
@@ -176,7 +176,7 @@ Phenomenology doesn't definitively prove dualism. But it provides methodological
 - [[consciousness]] — The concept phenomenology investigates
 - [[intersubjectivity]] — How phenomenological findings can be shared across minds
 - [[buddhism-and-dualism]] — Buddhist contemplative traditions as phenomenology in practice
-- [[neurophenomenology]] — Integrating trained observation with neuroscience
+- [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — Integrating trained observation with neuroscience
 - [[self-and-self-consciousness]] — The minimal self and phenomenology of selfhood
 - [[intentionality]] — The directedness of consciousness
 - [[temporal-consciousness]] — How experience structures time

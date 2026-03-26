@@ -4,7 +4,7 @@ description: "First-person investigation reveals consciousness structures invisi
 created: 2026-01-31
 modified: 2026-03-18
 human_modified: null
-ai_modified: 2026-03-18T16:33:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 last_deep_review: 2026-03-14T21:39:00+00:00
 draft: false
 topics:
@@ -14,7 +14,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[meditation-and-consciousness-modes]]"
   - "[[introspection]]"
-  - "[[neurophenomenology]]"
+  - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[phenomenology]]"
 related_articles:
   - "[[tenets]]"
@@ -124,7 +124,7 @@ Against reductive materialism, first-person methods prove irreducible. Trained m
 
 ### What the Evidence Favours
 
-Both physicalists and dualists accept bidirectional causation between consciousness and brain. Three features sit more naturally within a dualist framework, drawing on the contemplative evidence above. The [[witness-consciousness|witness phenomenon]]—awareness persisting through radical changes in content, including dissolution of the self-model—is puzzling for views treating awareness as emergent from a particular neural configuration. The persistent explanatory gap—ever-more-precise correlations without closure on *why*—reads more naturally as irreducibility than as youth of the science. And the [[neurophenomenology|neurophenomenological]] framework—where first-person and third-person data mutually constrain each other without either reducing to the other—suggests methodological irreducibility that the Map reads as reflecting ontological irreducibility.
+Both physicalists and dualists accept bidirectional causation between consciousness and brain. Three features sit more naturally within a dualist framework, drawing on the contemplative evidence above. The [[witness-consciousness|witness phenomenon]]—awareness persisting through radical changes in content, including dissolution of the self-model—is puzzling for views treating awareness as emergent from a particular neural configuration. The persistent explanatory gap—ever-more-precise correlations without closure on *why*—reads more naturally as irreducibility than as youth of the science. And the [[neurophenomenology-and-contemplative-neuroscience|neurophenomenological]] framework—where first-person and third-person data mutually constrain each other without either reducing to the other—suggests methodological irreducibility that the Map reads as reflecting ontological irreducibility.
 
 The honest assessment: contemplative evidence eliminates epiphenomenalism and reductive materialism decisively. It *favours* dualism over non-reductive physicalism but does not eliminate it.
 

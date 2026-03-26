@@ -4,7 +4,7 @@ description: "Galileo's founding methodological move excluded subjective experie
 created: 2026-02-16
 modified: 2026-02-16
 human_modified:
-ai_modified: 2026-03-23T17:59:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 last_deep_review: 2026-03-23T17:59:00+00:00
 draft: false
 topics:
@@ -75,7 +75,7 @@ The Galilean exclusion surfaces repeatedly in contemporary philosophy of mind, o
 
 The [[hard-problem-of-consciousness|hard problem]] is, in significant part, a consequence of the exclusion. David Chalmers's formulation — why is physical processing accompanied by subjective experience? — presupposes that physical description and experiential description are different in kind. They are different in kind because Galileo made them so. The hard problem becomes less mysterious (though no less real) when understood as arising from a methodological architecture rather than from an intrinsic feature of nature.
 
-Theories of consciousness face a dilemma traceable to the exclusion. Approaches that remain within the Galilean framework (functionalism, computationalism, Global Workspace Theory) can describe the structural and functional correlates of consciousness with increasing precision. But they struggle to bridge the gap between structure and quality — precisely because the framework was built by excluding quality. Approaches that break from the framework (panpsychism, [[neurophenomenology]], radical enactivism) gain resources for addressing experience directly, but risk losing the scientific rigour that the exclusion made possible.
+Theories of consciousness face a dilemma traceable to the exclusion. Approaches that remain within the Galilean framework (functionalism, computationalism, Global Workspace Theory) can describe the structural and functional correlates of consciousness with increasing precision. But they struggle to bridge the gap between structure and quality — precisely because the framework was built by excluding quality. Approaches that break from the framework (panpsychism, [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]], radical enactivism) gain resources for addressing experience directly, but risk losing the scientific rigour that the exclusion made possible.
 
 The [[consciousness-and-the-authority-of-formal-systems|authority of formal systems]] debate also reflects the exclusion's legacy. Mathematics excels at describing the primary qualities Galileo kept. Its success with structure does not establish its sovereignty over the secondary qualities he excluded.
 

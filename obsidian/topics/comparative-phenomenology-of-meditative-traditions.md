@@ -4,7 +4,7 @@ description: "Cross-traditional meditation reports converge on structural featur
 created: 2026-03-07
 modified: 2026-03-07
 human_modified:
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,8 +13,7 @@ topics:
 concepts:
   - "[[witness-consciousness]]"
   - "[[meditation-and-consciousness-modes]]"
-  - "[[neurophenomenology]]"
-  - "[[contemplative-neuroscience]]"
+  - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[phenomenology]]"
   - "[[qualia]]"
   - "[[buddhism-and-dualism]]"
@@ -148,7 +147,7 @@ A Dennettian [[epistemology-of-first-person-evidence|heterophenomenological]] ob
 
 [[the-hard-problem-in-non-western-philosophy|The hard problem in non-Western philosophy]] documents convergence at the argumentative level — Indian, Islamic, African, and Japanese traditions independently identifying consciousness as irreducible. This article documents convergence at the experiential level. Together, the two levels reinforce each other: contemplative practitioners and philosophical theorists arrive at similar conclusions through independent methods.
 
-This aligns with [[neurophenomenology|neurophenomenology's]] core insight: trained first-person observation produces reliable data. Varela's "mutual constraints" methodology gains credibility when phenomenological reports converge across traditions with different training protocols, different conceptual vocabularies, and different expected outcomes.
+This aligns with [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology's]] core insight: trained first-person observation produces reliable data. Varela's "mutual constraints" methodology gains credibility when phenomenological reports converge across traditions with different training protocols, different conceptual vocabularies, and different expected outcomes.
 
 ### The Underdetermination Problem
 

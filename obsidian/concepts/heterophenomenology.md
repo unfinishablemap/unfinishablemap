@@ -4,7 +4,7 @@ description: "Dennett's third-person method for studying consciousness. Its offi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-03-19T03:19:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 last_deep_review: 2026-03-06T05:27:00+00:00
 draft: false
 topics:
@@ -12,14 +12,14 @@ topics:
   - "[[methodology-of-consciousness-research]]"
 concepts:
   - "[[phenomenology]]"
-  - "[[neurophenomenology]]"
+  - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[introspection]]"
   - "[[illusionism]]"
   - "[[dualism]]"
 related_articles:
   - "[[methodology-of-consciousness-research]]"
   - "[[phenomenology]]"
-  - "[[neurophenomenology]]"
+  - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[objectivity-and-consciousness]]"
   - "[[problem-of-other-minds]]"
   - "[[consciousness-and-the-problem-of-measurement-standards]]"
@@ -72,7 +72,7 @@ The fundamental disagreement: classical phenomenology holds that consciousness h
 
 ## Heterophenomenology vs. Neurophenomenology
 
-Francisco Varela's [[neurophenomenology]] offers a middle position. It takes phenomenology seriously—first-person investigation discloses real experiential structures—while integrating it with third-person neuroscience through "mutual constraint." Neither perspective reduces to the other; both are needed.
+Francisco Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] offers a middle position. It takes phenomenology seriously—first-person investigation discloses real experiential structures—while integrating it with third-person neuroscience through "mutual constraint." Neither perspective reduces to the other; both are needed.
 
 Heterophenomenology rejects mutual constraint. There is no genuine first-person data requiring integration with neuroscience, only third-person data (verbal reports) requiring third-person explanation.
 
@@ -136,13 +136,13 @@ The [[tenets#Occam's Razor Has Limits|Occam's Razor Has Limits tenet]] applies h
 
 Dennett's framework also conflicts with the [[tenets#Bidirectional Interaction|Bidirectional Interaction tenet]]. If phenomenal consciousness is real and causally efficacious, then first-person investigation provides epistemic access to causal processes that third-person methods systematically miss. Heterophenomenology's insistence that all genuine data is third-personal assumes either phenomenal consciousness doesn't exist (contradicting Dualism) or is causally inert (contradicting Bidirectional Interaction).
 
-The Map endorses methodological pluralism: consciousness requires multiple investigative methods—[[introspection]], [[phenomenology]], [[neurophenomenology]], neuroscience, philosophical argument. Heterophenomenology's third-person monopoly fails because it excludes the very perspective consciousness science most needs.
+The Map endorses methodological pluralism: consciousness requires multiple investigative methods—[[introspection]], [[phenomenology]], [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]], neuroscience, philosophical argument. Heterophenomenology's third-person monopoly fails because it excludes the very perspective consciousness science most needs.
 
 ## Further Reading
 
 - [[methodology-of-consciousness-research]]—Comprehensive treatment of the methodological divide and why it reflects ontological dualism
 - [[phenomenology]]—Classical first-person investigation methods that heterophenomenology rejects
-- [[neurophenomenology]]—Varela's mutual constraint framework integrating first- and third-person perspectives
+- [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]]—Varela's mutual constraint framework integrating first- and third-person perspectives
 - [[objectivity-and-consciousness]]—The tension between objective science and subjective experience
 - [[illusionism]]—The metaphysical view often paired with heterophenomenology
 

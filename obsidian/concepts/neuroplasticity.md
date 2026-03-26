@@ -4,7 +4,7 @@ description: "The brain's ability to reorganize through experience—and why Sch
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-03-23T06:25:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 last_deep_review: 2026-03-06T06:57:00+00:00
 draft: false
 topics:
@@ -108,7 +108,7 @@ Neuroplasticity research extends beyond clinical populations to contemplative pr
 
 These findings replicate the pattern from Schwartz's OCD research: directed mental practice produces neural change. Contemplative traditions have long claimed that training attention transforms the mind; neuroscience now confirms the transformation is physical as well as phenomenological. However, the degree of restructuring achievable through adult practice is far smaller than the [[consciousness-interface-development|developmental transformations]] of early life, when critical periods permit wholesale interface reconfiguration.
 
-See [[contemplative-practice-as-philosophical-evidence]] for detailed treatment of how contemplative neuroscience bears on consciousness theories, and [[contemplative-neuroscience]] for how meditation research bridges first-person phenomenology and third-person neuroscience.
+See [[contemplative-practice-as-philosophical-evidence]] for detailed treatment of how contemplative neuroscience bears on consciousness theories, and [[neurophenomenology-and-contemplative-neuroscience|contemplative neuroscience]] for how meditation research bridges first-person phenomenology and third-person neuroscience.
 
 ## Attention as the Mechanism
 

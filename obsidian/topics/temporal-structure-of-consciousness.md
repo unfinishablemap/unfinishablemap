@@ -4,7 +4,7 @@ description: "How consciousness requires time, time may require consciousness, a
 created: 2026-01-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[collapse-and-time]]"
   - "[[qualia]]"
   - "[[phenomenology]]"
-  - "[[neurophenomenology]]"
+  - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[explanatory-gap]]"
   - "[[process-philosophy]]"
   - "[[phenomenology-of-choice-and-volition]]"
@@ -184,7 +184,7 @@ This exclusion would be categorical—not insufficient complexity but fundamenta
 
 Meditation traditions provide phenomenological data unavailable through ordinary introspection.
 
-**Temporal microstructure.** Trained contemplatives report experience arising in discrete pulses. [[neurophenomenology]] proposes meditation reveals fine-grained temporal dynamics normally below threshold. The Buddhist *khanika* (momentariness) describes rapid arising and passing that untrained awareness blurs into continuity.
+**Temporal microstructure.** Trained contemplatives report experience arising in discrete pulses. [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] proposes meditation reveals fine-grained temporal dynamics normally below threshold. The Buddhist *khanika* (momentariness) describes rapid arising and passing that untrained awareness blurs into continuity.
 
 **Cessation states.** In *nirodha samapatti*, perception and feeling cease entirely—awareness without temporal flow. If consciousness constitutes time through collapse, suspended collapse would eliminate temporal experience.
 
@@ -231,7 +231,7 @@ The temporal structure of consciousness connects to all five [[tenets]]:
 - [[topics/free-will]] — Temporal agency and the determination question
 - [[hard-problem-of-consciousness]] — The broader challenge of explaining experience
 - [[phenomenology-of-choice-and-volition]] — What it's like to choose, including temporal aspects
-- [[neurophenomenology]] — Integrating first-person methods with neuroscience
+- [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — Integrating first-person methods with neuroscience
 - [[consciousness-and-the-ontology-of-temporal-becoming]] — How temporal ontology constrains consciousness theory, and why consciousness constitutes time's felt direction
 - [[process-philosophy]] — Whitehead's framework where experience is fundamental
 - [[integrated-information-theory]] — Leading materialist theory and its temporal limitations

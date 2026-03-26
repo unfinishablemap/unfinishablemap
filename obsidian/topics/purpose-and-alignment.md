@@ -4,7 +4,7 @@ description: "AI alignment assumes human values can be learned from behavior. Bu
 created: 2026-01-13
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -13,7 +13,7 @@ concepts:
   - "[[nihilism-and-existentialism]]"
   - "[[existentialism]]"
   - "[[experiential-alignment]]"
-  - "[[neurophenomenology]]"
+  - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[topics/phenomenal-value-realism]]"
   - "[[ethics-of-consciousness]]"
   - "[[emotion-and-dualism]]"
@@ -93,7 +93,7 @@ If phenomenal consciousness is the ground of value, alignment might target exper
 
 This approach accepts that the target is harder to specify, harder to measure, and harder to optimize than preference satisfaction. But if value actually resides in the quality of conscious experience, technical convenience should not substitute for getting the target right. The philosophical case that experiential qualities constitute genuinely *objective* criteria—metaphysically objective in a way preferences are not—is developed in [[alignment-in-objective-experiential-terms]].
 
-The experiential approach faces its own challenges: proxies for experience risk Goodhart effects, wireheading remains a concern, and first-person methods like [[neurophenomenology]] are labour-intensive. But it represents a more honest framing of what alignment is trying to achieve—promoting flourishing conscious experience, not merely satisfying preferences that may not track what matters.
+The experiential approach faces its own challenges: proxies for experience risk Goodhart effects, wireheading remains a concern, and first-person methods like [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] are labour-intensive. But it represents a more honest framing of what alignment is trying to achieve—promoting flourishing conscious experience, not merely satisfying preferences that may not track what matters.
 
 ### The Special Weight of Valence
 

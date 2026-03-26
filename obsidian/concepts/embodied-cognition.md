@@ -4,7 +4,7 @@ description: "Cognition depends on the body and extends into the environment. Th
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -124,7 +124,7 @@ This debate matters for consciousness studies because it concerns boundaries. If
 
 The strongest version of embodied cognition is enactivism (Varela, Thompson, Rosch). Key claims: cognition arises through dynamic organism-environment interaction; the world is "enacted" through autonomous agency; [[dualist-perception|perception]] is sensorimotor skill; experience is central and irreducible.
 
-Crucially, enactivists don't eliminate consciousness—they treat experience as central data requiring first-person methods (hence Varela's [[neurophenomenology]]). This aligns more with the Map's framework than with eliminative materialism.
+Crucially, enactivists don't eliminate consciousness—they treat experience as central data requiring first-person methods (hence Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]]). This aligns more with the Map's framework than with eliminative materialism.
 
 ## The AI Grounding Problem
 
@@ -201,7 +201,7 @@ The key point: embodied cognition challenges a specific historical position (Car
 - [[illusionism]] — The eliminativist challenge and site's response
 - [[embodied-consciousness-and-the-interface]] — How the body shapes consciousness's engagement with matter
 - [[ai-consciousness]] — Why the grounding problem matters for machine minds
-- [[neurophenomenology]] — Varela's integration of embodied cognition with consciousness science
+- [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — Varela's integration of embodied cognition with consciousness science
 - [[choking-phenomenon-mental-causation]] — The choking evidence as a case study in mental causation
 - [[consciousness-and-skill-acquisition|phenomenology of flow states]] — Flow as transformed consciousness, not diminished consciousness
 - [[symbol-grounding-problem]] — Why disembodied symbol manipulation lacks semantic grounding

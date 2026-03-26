@@ -4,7 +4,7 @@ description: "Hindu, Buddhist, and Taoist traditions converge with dualism on co
 created: 2026-01-09
 modified: 2026-02-06
 human_modified: null
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,7 +14,7 @@ concepts:
   - "[[buddhism-and-dualism]]"
   - "[[nihilism-and-existentialism]]"
   - "[[existentialism]]"
-  - "[[neurophenomenology]]"
+  - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[dream-consciousness]]"
   - "[[witness-consciousness]]"
   - "[[self-and-self-consciousness]]"
@@ -108,7 +108,7 @@ Despite different starting points, all three traditions converge on claims that 
 
 ## Contemplative Evidence
 
-[[neurophenomenology|Neurophenomenology]] provides the methodological framework for integrating contemplative insights with neuroscience (see also [[contemplative-practice-as-philosophical-evidence]]). Key findings from trained contemplatives:
+[[neurophenomenology-and-contemplative-neuroscience|Neurophenomenology]] provides the methodological framework for integrating contemplative insights with neuroscience (see also [[contemplative-practice-as-philosophical-evidence]]). Key findings from trained contemplatives:
 
 **Cessation experiences**: *Nirodha samāpatti*—complete cessation of perception and feeling—can be voluntarily achieved while brain activity continues. This challenges the assumption that consciousness *is* neural activity, supporting the filter theory.
 
@@ -188,8 +188,8 @@ Eastern philosophy illuminates all five of the Map's [[tenets]], while raising p
 - [[phenomenology-of-the-edge]] — Minimal phenomenal experience and the zero-person perspective
 - [[dream-consciousness]] — Dreams, lucid dreaming, and Tibetan dream yoga
 - [[lucid-dreaming-and-dualist-rendering]] — What lucid dreaming reveals about consciousness capabilities
-- [[neurophenomenology]] — The scientific research program bridging contemplative traditions and neuroscience
-- [[contemplative-neuroscience]] — How meditation research bridges first-person phenomenology and third-person neuroscience
+- [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — The scientific research program bridging contemplative traditions and neuroscience
+- [[neurophenomenology-and-contemplative-neuroscience|contemplative neuroscience]] — How meditation research bridges first-person phenomenology and third-person neuroscience
 - [[contemplative-practice-as-philosophical-evidence]] — First-person data as empirical test
 - [[contemplative-path]] — Apex article synthesizing contemplative traditions
 - [[interaction-problem-across-traditions]] — How five structural solution types recur across Eastern and Western traditions

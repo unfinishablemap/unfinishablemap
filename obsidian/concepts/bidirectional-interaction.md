@@ -4,7 +4,7 @@ description: "Consciousness and matter causally influence each other. This tenet
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-03-26T07:34:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 last_deep_review: 2026-03-11T21:02:00+00:00
 draft: false
 topics:
@@ -168,7 +168,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [[inter
 - [[evolutionary-case-for-mental-causation]] — The evolutionary argument for mental causation
 - [[consciousness-as-amplifier]] — Evolutionary evidence for causal efficacy
 - [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] — Four converging clinical evidence streams for mental causation
-- [[contemplative-neuroscience]] — How meditation research demonstrates bidirectional interaction in practice
+- [[neurophenomenology-and-contemplative-neuroscience|contemplative neuroscience]] — How meditation research demonstrates bidirectional interaction in practice
 - [[mental-imagery-causal-role-of-consciousness]] — Voluntary imagery as evidence for consciousness's causal role
 - [[choking-phenomenon-mental-causation]] — Negative evidence: when consciousness interferes with automaticity
 - [[content-specificity-of-mental-causation]] — The empirical pattern: meaning determines which physical effect occurs

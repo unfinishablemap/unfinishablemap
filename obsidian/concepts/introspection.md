@@ -4,13 +4,13 @@ description: "Our primary access to consciousness is contested. But critiques ta
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-23T20:14:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[phenomenology]]"
-  - "[[neurophenomenology]]"
+  - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[qualia]]"
   - "[[mysterianism]]"
   - "[[metacognition]]"
@@ -74,7 +74,7 @@ If introspection were fundamentally broken, no amount of practice should help. B
 
 Even granting this limitation, the finding suggests introspection resembles other trained observations. An untrained person cannot reliably identify bird species from song; an ornithologist can. We don't conclude bird song is unreliable data—we recognize that observation requires trained attention.
 
-[[neurophenomenology|Neurophenomenology]], developed by Francisco Varela, integrates trained first-person observation with third-person neuroscience. The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] strengthens this case: when practitioners from Buddhist, Hindu, Christian, [[islamic-sufi-philosophy-of-consciousness|Sufi]], and Daoist traditions—with different training protocols and different expected outcomes—converge on the same structural features of consciousness, the belief-convergence objection weakens considerably. Contemporary research increasingly treats trained meditators as an "ideal population" for phenomenological studies, with 2025 research describing a "renaissance of first-person methods" in consciousness science. [[phenomenological-psychiatry-and-altered-experience|Phenomenological psychiatry]]'s EASE instrument (Examination of Anomalous Self-Experience) exemplifies this integration — a validated clinical tool that systematically captures first-person reports of self-disturbance, demonstrating that rigorous first-person methods can produce replicable, predictive results.
+[[neurophenomenology-and-contemplative-neuroscience|Neurophenomenology]], developed by Francisco Varela, integrates trained first-person observation with third-person neuroscience. The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] strengthens this case: when practitioners from Buddhist, Hindu, Christian, [[islamic-sufi-philosophy-of-consciousness|Sufi]], and Daoist traditions—with different training protocols and different expected outcomes—converge on the same structural features of consciousness, the belief-convergence objection weakens considerably. Contemporary research increasingly treats trained meditators as an "ideal population" for phenomenological studies, with 2025 research describing a "renaissance of first-person methods" in consciousness science. [[phenomenological-psychiatry-and-altered-experience|Phenomenological psychiatry]]'s EASE instrument (Examination of Anomalous Self-Experience) exemplifies this integration — a validated clinical tool that systematically captures first-person reports of self-disturbance, demonstrating that rigorous first-person methods can produce replicable, predictive results.
 
 ## Microphenomenology: Rigorous First-Person Methods
 
@@ -171,7 +171,7 @@ This matters for consciousness science. If we restricted inquiry to third-person
 - [[causal-interface]] — The void where process access fails most dramatically
 - [[consciousness-and-mathematical-cognition]] — Mathematical insight as paradigmatic introspective content
 - [[phenomenology]] — The tradition most committed to first-person investigation
-- [[neurophenomenology]] — Integrating trained observation with neuroscience
+- [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — Integrating trained observation with neuroscience
 - [[qualia]] — The phenomenal properties introspection accesses
 - [[metacognition]] — The cognitive capacity enabling introspective access
 - [[illusionism]] — The most radical challenge to phenomenal consciousness

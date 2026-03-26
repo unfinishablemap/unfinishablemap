@@ -4,7 +4,7 @@ description: "Voluntary mental imagery is consistent with consciousness's causal
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,7 +19,7 @@ concepts:
   - "[[phenomenal-consciousness]]"
   - "[[access-consciousness]]"
   - "[[introspection]]"
-  - "[[contemplative-neuroscience]]"
+  - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[downward-causation]]"
   - "[[conscious-vs-unconscious-processing]]"
 related_articles:
@@ -103,7 +103,7 @@ This matters for consciousness theory because it challenges views that reduce co
 
 Mental imagery supports [[bidirectional-interaction]] through multiple channels:
 
-**Voluntary imagery exemplifies conscious control.** The LPFC-mediated generation and manipulation of mental images requires conscious engagement. The effort you feel when visualizing something complex isn't epiphenomenal accompaniment—it reflects consciousness doing work, an instance of [[downward-causation]] from mental states to neural activity. This parallels findings from [[contemplative-neuroscience]]: deliberate meditative attention reshapes neural structure through similar top-down processes.
+**Voluntary imagery exemplifies conscious control.** The LPFC-mediated generation and manipulation of mental images requires conscious engagement. The effort you feel when visualizing something complex isn't epiphenomenal accompaniment—it reflects consciousness doing work, an instance of [[downward-causation]] from mental states to neural activity. This parallels findings from [[neurophenomenology-and-contemplative-neuroscience|contemplative neuroscience]]: deliberate meditative attention reshapes neural structure through similar top-down processes.
 
 **Motor imagery produces physical outcomes.** Athletes mentally rehearsing movements improve their actual performance. The effect sizes are measurable and replicable, consistent with a causal pathway from conscious rehearsal to physical improvement—though the physicalist can attribute these gains to the neural circuits engaged rather than to consciousness per se. Distinguishing these accounts may require evidence that phenomenal vividness predicts outcomes beyond what neural activation patterns predict. The [[evolutionary-case-for-mental-causation]] offers an independent line of argument: if imagery improved survival through motor rehearsal and planning, consciousness's role in imagery was plausibly selected for.
 
@@ -116,7 +116,7 @@ The attention-imagery interface connects to the Map's broader framework. [[atten
 ## Further Reading
 
 - [[mental-imagery-causal-role-of-consciousness]] — Topic-level treatment of what imagery reveals about consciousness's causal role
-- [[contemplative-neuroscience]] — Parallel evidence that deliberate conscious practice reshapes neural structure
+- [[neurophenomenology-and-contemplative-neuroscience|contemplative neuroscience]] — Parallel evidence that deliberate conscious practice reshapes neural structure
 - [[bidirectional-interaction]] — The tenet that consciousness causally influences the physical
 - [[attention-as-interface|attention]] — The potential interface between consciousness and neural processes
 - [[working-memory]] — The cognitive workspace where imagery manipulation occurs

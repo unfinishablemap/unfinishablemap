@@ -4,7 +4,7 @@ description: "The moment attention returns from wandering reveals a micro-struct
 created: 2026-02-10
 modified: 2026-02-10
 human_modified:
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,7 +19,7 @@ concepts:
   - "[[introspection]]"
   - "[[default-mode-network]]"
   - "[[contemplative-epistemology]]"
-  - "[[neurophenomenology]]"
+  - "[[neurophenomenology-and-contemplative-neuroscience]]"
 related_articles:
   - "[[tenets]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
@@ -122,7 +122,7 @@ Lutz et al. (2008) proposed a four-phase model of focused attention meditation t
 
 The value of this cycle is not the sustained focus at the end — that is unstable and temporary. The value is in the return itself. Each return exercises the full circuit of meta-awareness, agency, and voluntary control. The meditator's skill is not the ability to never wander but the ability to return efficiently, gently, and without self-recrimination.
 
-This has implications for the [[contemplative-epistemology|contemplative epistemology]] the Map endorses. Trained meditators become expert at observing through [[introspection]] the micro-structure of their own attention. Their reports about the three phases — the absence of meta-awareness during wandering, the surprise of noticing, the effort of returning — converge across traditions and cultures (a pattern consistent with the broader cross-cultural findings on mind-wandering reviewed by Smallwood & Schooler, 2015). This convergence, increasingly supported by [[neurophenomenology|neurophenomenological]] research, suggests they are reporting real phenomenological structure rather than culturally constructed narratives — though shared neural architecture may also contribute to the consistency.
+This has implications for the [[contemplative-epistemology|contemplative epistemology]] the Map endorses. Trained meditators become expert at observing through [[introspection]] the micro-structure of their own attention. Their reports about the three phases — the absence of meta-awareness during wandering, the surprise of noticing, the effort of returning — converge across traditions and cultures (a pattern consistent with the broader cross-cultural findings on mind-wandering reviewed by Smallwood & Schooler, 2015). This convergence, increasingly supported by [[neurophenomenology-and-contemplative-neuroscience|neurophenomenological]] research, suggests they are reporting real phenomenological structure rather than culturally constructed narratives — though shared neural architecture may also contribute to the consistency.
 
 ## Relation to Site Perspective
 

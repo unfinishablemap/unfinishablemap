@@ -4,7 +4,7 @@ description: "Protention—the forward-directed structure of present experience�
 created: 2026-02-09
 modified: 2026-02-10
 human_modified:
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -89,7 +89,7 @@ The [[temporal-consciousness|specious present]]—the experienced duration of "n
 
 Bergson captured this in his account of [[temporal-consciousness|durée]]: lived time isn't a series of nows strung together but an interpenetrating flow where each phase contains both its past and its anticipated continuation. The forward lean of experience is part of what makes time feel like *flowing* rather than *accumulating*—duration moves because protention gives each moment a futureward orientation.
 
-Varela's [[neurophenomenology|neurophenomenological]] research suggests that contemplative practices can reveal protentional structure with unusual clarity. Meditators attending closely to the arising of experience report noticing a directional quality—each moment seems to "point" toward its successor. This is protention made visible through sustained phenomenological attention. A tension emerges here: the Buddhist contemplative traditions that generate these reports also challenge the notion of a unified subject doing the anticipating. If *anattā* (no-self) holds, protention may be a process without an agent—forward-directedness with no one reaching forward. The Map acknowledges this challenge while maintaining that the irreducibility of the protentional experience itself persists regardless of how the experiencing subject is characterised.
+Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenological]] research suggests that contemplative practices can reveal protentional structure with unusual clarity. Meditators attending closely to the arising of experience report noticing a directional quality—each moment seems to "point" toward its successor. This is protention made visible through sustained phenomenological attention. A tension emerges here: the Buddhist contemplative traditions that generate these reports also challenge the notion of a unified subject doing the anticipating. If *anattā* (no-self) holds, protention may be a process without an agent—forward-directedness with no one reaching forward. The Map acknowledges this challenge while maintaining that the irreducibility of the protentional experience itself persists regardless of how the experiencing subject is characterised.
 
 ## Agency and Anticipatory Consciousness
 

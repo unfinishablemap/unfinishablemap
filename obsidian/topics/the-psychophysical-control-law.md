@@ -4,7 +4,7 @@ description: "What formal mapping connects conscious states to physical selectio
 created: 2026-02-19
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ concepts:
   - "[[decoherence]]"
   - "[[mysterianism]]"
   - "[[explanatory-gap]]"
-  - "[[neurophenomenology]]"
+  - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[indexical-knowledge-and-identity]]"
   - "[[epiphenomenalism]]"
 related_articles:
@@ -187,7 +187,7 @@ The psychophysical control law is the specification gap at the centre of the Map
 - [[decoherence]] — The timescale challenge any quantum control law faces
 - [[history-of-the-interaction-problem]] — The original form of the specification problem
 - [[mysterianism]] — Cognitive closure as an explanation for the specification gap
-- [[neurophenomenology]] — The methodology needed to constrain the law's phenomenal inputs
+- [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — The methodology needed to constrain the law's phenomenal inputs
 - [[explanatory-gap]] — The epistemic analogue of the specification gap
 - [[indexical-knowledge-and-identity]] — Why genuine selection requires irreducible indexical facts
 

@@ -4,7 +4,7 @@ description: "Enactivism dissolves the mind-body separation dualism presupposes.
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-03-21T21:25:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[embodied-consciousness-and-the-interface]]"
   - "[[sensorimotor-contingencies-and-the-interface]]"
   - "[[consciousness-as-activity]]"
-  - "[[neurophenomenology]]"
+  - "[[neurophenomenology-and-contemplative-neuroscience]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -70,13 +70,13 @@ The evidence suggests it does not. The dissolution strategy works for the *funct
 
 Consider Thompson's deep continuity thesis. Even granting that all living systems engage in sense-making, the question remains: *why is sense-making accompanied by experience?* A bacterium's chemotaxis is a form of sense-making—it responds differentially to its chemical environment. Does it experience anything? Thompson's framework cannot answer this without either attributing experience to all life (a form of [[panpsychism]] he does not fully endorse) or introducing a threshold at which experience [[emergence|emerges]] from organisation (which reintroduces the explanatory gap at a different level).
 
-Critics have identified this structural problem. The [[neurophenomenology|neurophenomenological]] approach—combining first-person phenomenological reports with third-person neuroscience—assumes rather than dissolves the hard problem. If neurophenomenology requires first-person experience as irreducible data for its methodology, it cannot simultaneously claim to have dissolved the question of why experience exists.
+Critics have identified this structural problem. The [[neurophenomenology-and-contemplative-neuroscience|neurophenomenological]] approach—combining first-person phenomenological reports with third-person neuroscience—assumes rather than dissolves the hard problem. If neurophenomenology requires first-person experience as irreducible data for its methodology, it cannot simultaneously claim to have dissolved the question of why experience exists.
 
 ## Unexpected Common Ground
 
 The most philosophically productive aspect of enactivism's challenge is not the disagreement but the convergence. Enactivism and interactionist dualism share commitments that are more fundamental than their differences.
 
-**Both reject eliminative materialism.** Enactivists insist that consciousness is real and central to their framework. Thompson treats experience as "irreducible." Varela developed [[neurophenomenology]] precisely because he believed first-person experience demanded serious philosophical and scientific attention. This places enactivism closer to the Map's position than to the eliminativism of Dennett or the illusionism of Frankish.
+**Both reject eliminative materialism.** Enactivists insist that consciousness is real and central to their framework. Thompson treats experience as "irreducible." Varela developed [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] precisely because he believed first-person experience demanded serious philosophical and scientific attention. This places enactivism closer to the Map's position than to the eliminativism of Dennett or the illusionism of Frankish.
 
 **Both reject reductive physicalism.** The [[phenomenology|phenomenological]] tradition grounding enactivism—Husserl, Merleau-Ponty (1945/2012), Thompson—treats first-person experience as irreducible to third-person physical description. This is, at bottom, the same commitment that grounds the Map's [[tenets#^dualism|Dualism tenet]]: consciousness cannot be fully explained by physics alone.
 
@@ -110,7 +110,7 @@ Interactionist dualism is at least internally consistent: consciousness is non-p
 - [[sensorimotor-contingencies-and-the-interface]] — O'Regan and Noë's theory through the Map's lens
 - [[embodied-cognition]] — The broader 4E framework
 - [[consciousness-as-activity]] — Activity-first ontology and its relation to enactivism
-- [[neurophenomenology]] — Varela's integration of first-person and third-person methods
+- [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — Varela's integration of first-person and third-person methods
 - [[hard-problem-of-consciousness]] — The explanatory gap enactivism cannot dissolve
 - [[filter-theory]] — The brain as shaping rather than producing consciousness
 

@@ -4,7 +4,7 @@ description: "The minimal self is not added to consciousness but is its very for
 created: 2026-01-14
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-03-26T08:17:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,7 +19,7 @@ concepts:
   - "[[galilean-exclusion]]"
   - "[[buddhism-and-dualism]]"
   - "[[personal-identity]]"
-  - "[[neurophenomenology]]"
+  - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[binding-problem]]"
   - "[[mind-brain-separation]]"
   - "[[anoetic-noetic-autonoetic-consciousness]]"

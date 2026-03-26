@@ -4,15 +4,14 @@ description: "Cross-traditional contemplative practice functions as philosophica
 created: 2026-01-27
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-26T05:16:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[eastern-philosophy-consciousness]]"
   - "[[methodology-of-consciousness-research]]"
 concepts:
-  - "[[contemplative-neuroscience]]"
-  - "[[neurophenomenology]]"
+  - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[witness-consciousness]]"
   - "[[introspection]]"
   - "[[meditation-and-consciousness-modes]]"
@@ -132,7 +131,7 @@ First, the same objection applies to all philosophical methods. Thought experime
 
 Second, certain contemplative findings converge across traditions with different theoretical commitments — though the strength of convergence varies by finding. The discovery that the ordinary narrative self is constructed appears robustly across Buddhist, Hindu, Christian, Sufi, and secular traditions, making it the strongest candidate for a genuine cross-traditional finding. The awareness-content distinction appears in many traditions, though interpretations diverge. The discovery of discrete mental events is strongest within Buddhist traditions and less clearly reported elsewhere. Theory-laden artefacts should diverge across incompatible theoretical frameworks; where structural convergence appears despite theoretical disagreement, genuine discovery is the better explanation. This independence claim requires a caveat: historical transmission between contemplative traditions complicates claims of full independence. Convergence is strongest where traditions with genuinely distinct historical roots report similar structural findings.
 
-Third, [[neurophenomenology|neurophenomenological]] cross-validation partially addresses the problem. When contemplative reports predict neural signatures that untrained reports do not, the first-person observations are confirmed by independent third-person measurement. Fox et al. (2012) found that meditation experience predicts introspective accuracy. This does not eliminate theory-ladenness, but it provides a check that no purely first-person method can offer on its own.
+Third, [[neurophenomenology-and-contemplative-neuroscience|neurophenomenological]] cross-validation partially addresses the problem. When contemplative reports predict neural signatures that untrained reports do not, the first-person observations are confirmed by independent third-person measurement. Fox et al. (2012) found that meditation experience predicts introspective accuracy. This does not eliminate theory-ladenness, but it provides a check that no purely first-person method can offer on its own.
 
 ## Testing Consciousness Theories
 
@@ -140,7 +139,7 @@ The convergent findings, combined with neuroplasticity data, create empirical te
 
 ### Evidence Against Epiphenomenalism
 
-[[concepts/epiphenomenalism|Epiphenomenalism]] predicts that conscious states are causally inert. [[contemplative-neuroscience]] demonstrates otherwise: meditation training produces measurable neural changes — cortical thickening, altered network connectivity, modulated default mode activity — that correlate specifically with *phenomenologically engaged* practice. Studies distinguish willed attention (self-directed focus with distinct frontal theta signatures) from exogenous attention (automatic capture). The neuroplastic outcomes differ systematically. If consciousness were epiphenomenal, this distinction should not exist.
+[[concepts/epiphenomenalism|Epiphenomenalism]] predicts that conscious states are causally inert. [[neurophenomenology-and-contemplative-neuroscience|contemplative neuroscience]] demonstrates otherwise: meditation training produces measurable neural changes — cortical thickening, altered network connectivity, modulated default mode activity — that correlate specifically with *phenomenologically engaged* practice. Studies distinguish willed attention (self-directed focus with distinct frontal theta signatures) from exogenous attention (automatic capture). The neuroplastic outcomes differ systematically. If consciousness were epiphenomenal, this distinction should not exist.
 
 The *content* of conscious intention also tracks neural outcomes. Weng et al. (2013) found that seven hours of cultivating felt compassion altered inferior parietal and dorsolateral prefrontal cortex activity differently from breath attention meditation. Phenomenological qualities predict outcomes in ways the epiphenomenalist cannot explain without multiplying brute correlations.
 
@@ -148,7 +147,7 @@ This evidence eliminates epiphenomenalism specifically — the view that conscio
 
 ### Evidence Against Reductive Materialism
 
-[[neurophenomenology]] shows that first-person phenomenological training improves correlation with third-person neural data. Trained meditators generate phenomenological reports that predict neural signatures invisible to untrained observation. If phenomenal properties were identical to neural properties, purely neural analysis should capture everything the first-person perspective reveals — yet trained contemplatives consistently uncover phenomenal structure that third-person methods miss. The persistent pattern across multiple traditions and research paradigms suggests the non-redundancy reflects a genuine explanatory gap rather than a practical limitation of current neuroscience.
+[[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] shows that first-person phenomenological training improves correlation with third-person neural data. Trained meditators generate phenomenological reports that predict neural signatures invisible to untrained observation. If phenomenal properties were identical to neural properties, purely neural analysis should capture everything the first-person perspective reveals — yet trained contemplatives consistently uncover phenomenal structure that third-person methods miss. The persistent pattern across multiple traditions and research paradigms suggests the non-redundancy reflects a genuine explanatory gap rather than a practical limitation of current neuroscience.
 
 The jhāna states offer a sharp test case for the persistent [[explanatory-gap]]. Neuroscience can identify which brain connectivity patterns correspond to jhāna practice but cannot explain why a particular reorganisation of functional gradients produces the phenomenal quality of infinite space rather than equanimity. Better data on both sides produce more precise *correlations* without producing *explanations* of why particular neural patterns feel a particular way. The [[galilean-exclusion]] provides a structural diagnosis: science was founded by excluding subjective quality from its domain, so improved measurement refines correlations without bridging the gap between physical description and felt experience.
 
@@ -156,7 +155,7 @@ Against [[illusionism]]: trained meditators' reports *converge* with independent
 
 ### Bidirectional Causation
 
-The meditation evidence confirms bidirectional causation between consciousness and brain. Brain states modulate consciousness (anaesthesia eliminates phenomenology), and conscious intention modulates brain states (meditation reshapes neural architecture). The full cycle — intention → practice → neural reorganisation → expanded phenomenal access → further intention — replicates across traditions and neuroimaging paradigms. Varela's [[neurophenomenology]] validates this: phenomenological reports predict neural signatures; neural findings constrain phenomenological models; neither reduces to the other.
+The meditation evidence confirms bidirectional causation between consciousness and brain. Brain states modulate consciousness (anaesthesia eliminates phenomenology), and conscious intention modulates brain states (meditation reshapes neural architecture). The full cycle — intention → practice → neural reorganisation → expanded phenomenal access → further intention — replicates across traditions and neuroimaging paradigms. Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] validates this: phenomenological reports predict neural signatures; neural findings constrain phenomenological models; neither reduces to the other.
 
 Bidirectional causation is accepted by physicalists and dualists alike. The contemplative evidence establishes the *phenomenon* but does not by itself determine the correct ontological interpretation.
 
@@ -212,13 +211,13 @@ The causal efficacy argument depends on a collapse interpretation — consciousn
 
 ### Free Will
 
-The distinction between willed and exogenous attention in [[contemplative-neuroscience]] bears on [[topics/free-will]]. If willed practice produces different outcomes than passive exposure, deliberate intention is genuine authorship, supporting libertarian intuitions about freedom.
+The distinction between willed and exogenous attention in [[neurophenomenology-and-contemplative-neuroscience|contemplative neuroscience]] bears on [[topics/free-will]]. If willed practice produces different outcomes than passive exposure, deliberate intention is genuine authorship, supporting libertarian intuitions about freedom.
 
 ## Further Reading
 
-- [[contemplative-neuroscience]] — The neuroplasticity evidence in detail
+- [[neurophenomenology-and-contemplative-neuroscience|contemplative neuroscience]] — The neuroplasticity evidence in detail
 - [[contemplative-epistemology]] — The epistemological framework for first-person methods as knowledge sources
-- [[neurophenomenology]] — Varela's methodology integrating first-person and third-person approaches
+- [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — Varela's methodology integrating first-person and third-person approaches
 - [[concepts/epiphenomenalism]] — The view that contemplative evidence challenges
 - [[witness-consciousness]] — The phenomenology of observing awareness itself
 - [[the-observer-witness-in-meditation]] — Evidence that awareness can exist without doing

@@ -4,7 +4,7 @@ description: "Actions that are genuinely intentional yet arise without prior del
 created: 2026-02-13
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-03-26T09:17:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -22,7 +22,6 @@ concepts:
   - "[[authentic-vs-inauthentic-choice]]"
   - "[[interface-friction]]"
   - "[[reasons-responsiveness]]"
-  - "[[phenomenology-of-choice-and-volition]]"
 related_articles:
   - "[[tenets]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
