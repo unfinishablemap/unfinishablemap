@@ -37,6 +37,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Resolve 18 broken wikilinks to epistemological-limits-of-occams-razor
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: 18 content files reference `[[epistemological-limits-of-occams-razor]]` which has no page. Directly supports Tenet 5 (Occam's Razor Has Limits). Investigate whether these should link to existing `parsimony-epistemology.md` or another page, and update wikilinks accordingly. If no suitable target exists and the concept is distinct, create a concept page (concepts/ has 3 slots remaining).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-26
+
+### P2: Deep review self-opacity.md after coalesce
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Coalesced from unobservable-self.md, introspective-opacity.md, and phenomenology-of-self-awareness.md on 2026-03-25, never reviewed. Three-source merge needs verification that arguments are coherent, redundancy eliminated, and cross-references to self-reference-paradox, self-and-self-consciousness, and social-construction-of-self-vs-phenomenal-self are correct. Voids article on the opacity of self-knowledge.
+- **Source**: task_chain (coalesce)
+- **Generated**: 2026-03-26
+
+### P2: Deep review consciousness-and-intelligence.md after coalesce
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Coalesced from consciousness-and-intelligence.md + consciousness-threshold-in-cognitive-evolution.md on 2026-03-25. References updated in 19 files. Verify merged content is coherent, threshold arguments from the absorbed article are preserved, and cross-references to consciousness-as-amplifier and baseline-cognition are correct.
+- **Source**: task_chain (coalesce)
+- **Generated**: 2026-03-26
+
+### P2: Deep review parsimony-epistemology.md after coalesce
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Coalesced from limits-of-parsimony-in-consciousness-science (topics → concepts) on 2026-03-25. Section migration means the article now functions as a concept page rather than a topic article. Verify it works as a standalone concept, cross-references are correct, and the 8 updated referring files link appropriately. Directly relevant to Tenet 5.
+- **Source**: task_chain (coalesce)
+- **Generated**: 2026-03-26
+
+### P2: Cross-review indexical-knowledge.md against related knowledge articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page created 2026-03-25. Review knowledge-argument.md, acquaintance-knowledge.md, and epistemology-of-first-person-evidence.md for cross-links and consistency. Indexical knowledge is central to Tenet 4 (No Many Worlds) — verify the concept page correctly grounds the indexical identity arguments used across the site.
+- **Source**: task_chain (expand-topic)
+- **Generated**: 2026-03-26
+
+### P3: Deep review complicity-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-25 via expand-topic from research/voids-complicity-void-2026-03-25.md, never reviewed. Voids article on the cognitive gap created by consciousness's participation in the systems it tries to study. Verify coherence, accuracy of the complicity argument, cross-references to related void articles (self-reference-paradox, observer-participation-void), and tenet alignment.
+- **Source**: task_chain (expand-topic)
+- **Generated**: 2026-03-26
+
+### P3: Deep review obviousness-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-25 via expand-topic from research/voids-obviousness-void-2026-03-23.md, never reviewed. Voids article on how the apparent obviousness of consciousness obscures genuine understanding. Verify coherence, cross-references to related void articles (familiarity-void, transparency-void), and tenet alignment.
+- **Source**: task_chain (expand-topic)
+- **Generated**: 2026-03-26
+
 ### P3: Create concept page for pragmatism
 - **Type**: expand-topic
 - **Status**: pending
