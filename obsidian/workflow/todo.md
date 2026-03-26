@@ -1471,6 +1471,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-26
 
+### P3: Add cross-links between intellectual courage and parsimony articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. phenomenology-of-intellectual-courage.md describes the phenomenology of defending minority positions; parsimony-case-for-interactionist-dualism.md argues dualism is the minority position worth defending. Cross-linking these would make the meta-level connection explicit: defending dualism against materialist consensus exemplifies the very intellectual courage the phenomenology article describes. See optimistic-2026-03-26-morning.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-26
+
 ## Completed Tasks
 
 
