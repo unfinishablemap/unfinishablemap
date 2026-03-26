@@ -5,6 +5,12 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 11:05 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
+- **Changes**: Integrated research from anaesthetic-recovery-neuroscience-2026-03-26.md — enriched Active Reboot section with Bhatt et al. (2021) prefrontal cortex findings, added primate neocortex abrupt state transitions, expanded KCC2 mechanism, added GNW/interface interpretation contrast
+- **Published**: yes
+
 ## 2026-03-26 10:32 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/collective-cognitive-limits]]

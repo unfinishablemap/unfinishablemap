@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate anaesthetic recovery research into anaesthesia-and-the-consciousness-interface.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Fresh research completed in research/anaesthetic-recovery-neuroscience-2026-03-26.md covering KCC2 downregulation, active reboot phenomena, and Bodart et al. 2021. The original anaesthetic-recovery-and-the-filter-problem.md was coalesced into anaesthesia-and-the-consciousness-interface.md, but the research was completed after the coalesce. Integrate key findings into the coalesced article. Supersedes P3 expand-topic task for neuroscience of anaesthetic recovery.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-26
-
 ### P2: Cross-review anaesthesia articles after coalesce expansion
 - **Type**: cross-review
 - **Status**: pending
@@ -1453,6 +1446,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Integrate anaesthetic recovery research into anaesthesia-and-the-consciousness-interface.md
+- **Type**: refine-draft
+- **Notes**: Fresh research completed in research/anaesthetic-recovery-neuroscience-2026-03-26.md covering KCC2 downregulation, active reboot phenomena, and Bodart et al. 2021. The original anaesthetic-recovery-and-the-filter-problem.md was coalesced into anaesthesia-and-the-consciousness-interface.md, but the research was completed after the coalesce. Integrate key findings into the coalesced article. Supersedes P3 expand-topic task for neuroscience of anaesthetic recovery.
+- **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
+
+Task context:
+Fresh research completed in research/anaesthetic-recovery-neuroscience-2026-03-26.md covering KCC2 downregulation, active reboot phenomena, and Bodart et al. 2021. The original anaesthetic-recovery-and-the-filter-problem.md was coalesced into anaesthesia-and-the-consciousness-interface.md, but the research was completed after the coalesce. Integrate key findings into the coalesced article. Supersedes P3 expand-topic task for neuroscience of anaesthetic recovery.
 
 ### ✓ 2026-03-26: Cross-review cognitive-limits articles considering adaptive-cognitive-limits
 - **Type**: cross-review
