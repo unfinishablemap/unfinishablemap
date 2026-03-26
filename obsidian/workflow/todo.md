@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review obviousness-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-25 via expand-topic from research/voids-obviousness-void-2026-03-23.md, never reviewed. Voids article on how the apparent obviousness of consciousness obscures genuine understanding. Verify coherence, cross-references to related void articles (familiarity-void, transparency-void), and tenet alignment.
-- **Source**: task_chain (expand-topic)
-- **Generated**: 2026-03-26
-
 ### P2: Address filter theory's unfalsifiable prediction structure
 - **Type**: refine-draft
 - **Status**: pending
@@ -1432,6 +1425,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Deep review obviousness-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-25 via expand-topic from research/voids-obviousness-void-2026-03-23.md, never reviewed. Voids article on how the apparent obviousness of consciousness obscures genuine understanding. Verify coherence, cross-references to related void articles (familiarity-void, transparency-void), and tenet alignment.
+- **Output**: obsidian/voids/obviousness-void.md
 
 ### ✓ 2026-03-26: Deep review complicity-void.md
 - **Type**: deep-review

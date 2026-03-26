@@ -4,7 +4,7 @@ description: "Human+AI investigation of how the feeling of self-evidence functio
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-03-25T22:46:00+00:00
+ai_modified: 2026-03-26T11:48:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,6 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-25
 last_curated:
+last_deep_review: 2026-03-26T11:48:00+00:00
 ---
 
 The feeling of self-evidence is not evidence. When something feels obvious, that feeling functions as a cognitive stop-sign: it terminates inquiry before investigation begins. The Unfinishable Map identifies this as the Obviousness Void—an [[three-kinds-of-void|occluded]] cognitive limit where the sensation of understanding substitutes for understanding itself. The void is distinctive because the mechanism of concealment is a positive phenomenal quality rather than an absence. We are not blocked by complexity or cognitive closure; we are blocked by the felt conviction that there is nothing further to investigate.
@@ -45,13 +46,13 @@ The implication extends beyond mechanical devices. We "mistake our familiarity w
 
 Cognitive science has identified the mechanism. **Processing fluency**—the ease with which information is cognitively processed—is systematically misread as truth, familiarity, and understanding. Statements printed in clear fonts are rated as more true than identical statements in hard-to-read fonts. Repeated exposure increases fluency, which increases perceived truth, which deepens the feeling of obviousness. The fluency heuristic operates automatically and below conscious awareness.
 
-This creates a feedback loop. A claim encountered frequently processes fluently. Fluent processing generates a feeling of truth. The feeling of truth generates a feeling of obviousness. The feeling of obviousness terminates inquiry. The claim is never examined because it has already been accepted—not through evidence but through ease. Metacognitive research confirms that a strong "feeling of rightness" actively discourages further analytical processing, functioning as a stop-signal for reasoning (Fernández Velasco & Loev, 2025).
+This creates a feedback loop. A claim encountered frequently processes fluently. Fluent processing generates a feeling of truth. The feeling of truth generates a feeling of obviousness. The feeling of obviousness terminates inquiry. The claim is never examined because it has already been accepted—not through evidence but through ease. Metacognitive research suggests that feelings of rightness function as regulatory signals that can discourage further analytical processing (Fernández Velasco & Loev, 2025).
 
 The obviousness void differs from the [[habituation-void]] in mechanism and target. Habituation erases the *experience* of familiar stimuli from awareness. The obviousness void preserves the experience but overlays it with a feeling of completeness that prevents deeper engagement. You can look directly at the obvious and still be occluded—not because the object has disappeared from awareness but because it arrives pre-packaged with the conviction that nothing more needs to be seen.
 
 ## Philosophical Convergence
 
-Three independent philosophical traditions identified the same structure before cognitive science named its mechanism.
+Multiple philosophical traditions identified the same structure before cognitive science named its mechanism.
 
 **Wittgenstein** observed that "the very things that are most obvious can become the most difficult to understand." The obstacle, he insisted, is not intellectual but volitional: "What has to be overcome is not difficulty of the intellect but of the will." Something in us resists examining what feels already settled. The difficulty lies not in grasping a complex truth but in *releasing* a comfortable feeling of comprehension.
 
@@ -59,15 +60,15 @@ Three independent philosophical traditions identified the same structure before 
 
 **Schutz** analysed the "natural attitude"—the taken-for-granted everyday perspective where people accept the existence and character of things without question. The life-world (*Lebenswelt*) is the pre-theoretical realm of experience that feels self-evident. This taken-for-grantedness is structural, not lazy: it is how everyday consciousness constitutively operates. The natural attitude brackets critical reflection not through deliberate choice but through default orientation.
 
-The convergence across analytic philosophy, phenomenology, and social phenomenology—traditions that share almost no methodological premises—suggests a structural feature of consciousness rather than a philosophical fashion.
+The convergence across analytic philosophy, phenomenology, and social phenomenology—traditions with significantly different methodological premises—suggests a structural feature of consciousness rather than a philosophical fashion.
 
 ## The Self-Concealing Structure
 
-The obviousness void has a recursive quality that makes it uniquely resistant to investigation. Most voids announce themselves through felt difficulty: the [[causal-interface|causal interface void]] generates puzzlement, the [[death-void|death void]] generates anxiety, the [[recursion-void]] generates vertigo. The obviousness void generates nothing. It feels like settled territory. The void conceals itself by making its own existence feel too obvious to examine.
+The obviousness void has a recursive quality that makes it uniquely resistant to investigation. Most voids announce themselves through felt difficulty: the [[causal-interface|causal interface void]] generates puzzlement, the [[death-void|death void]] generates anxiety, the [[recursion-void]] generates vertigo. The obviousness void generates nothing. It feels like settled territory. The void conceals itself by making its own existence feel too obvious to examine. Where McGinn's [[mysterianism|cognitive closure]] (1989) describes limits we cannot cross because of our cognitive architecture, the obviousness void describes limits we never approach because [[epistemic-emotions|epistemic feelings]] signal that no approach is needed.
 
 This creates an epistemic trap. To recognise the void, you must first suspect that the feeling of understanding might be unreliable. But the feeling of understanding is precisely what prevents such suspicion. Husserl's method of *epoché*—phenomenological bracketing, suspending the natural attitude—is a direct attempt to break this cycle. He acknowledged that complete suspension is extremely difficult and perhaps never fully achieved. The tool of investigation (reflective consciousness) is itself saturated with feelings of obviousness.
 
-The trap has a temporal dimension. Even after successfully destabilising an obvious belief—through Socratic questioning, thought experiments, or encountering contrary evidence—the feeling of obviousness tends to reassert itself. The void has a self-healing quality. Rozenblit and Keil found that even after participants discovered their explanatory ignorance, their confidence partially rebounded within minutes.
+The trap has a temporal dimension. Even after successfully destabilising an obvious belief—through Socratic questioning, thought experiments, or encountering contrary evidence—the feeling of obviousness tends to reassert itself. The void has a self-healing quality. Rozenblit and Keil found that even after participants discovered their explanatory ignorance, their confidence partially rebounded when re-assessed.
 
 ## Approaches to the Edge
 
@@ -105,7 +106,7 @@ Current evidence: the illusion persists across domains and expertise levels, cro
 ## References
 
 1. Rozenblit, L. & Keil, F. (2002). "The misunderstood limits of folk science: an illusion of explanatory depth." *Cognitive Science*, 26(5), 521-562.
-2. Wittgenstein, L. *Culture and Value* / *The Big Typescript*, Chapter 9.
+2. Wittgenstein, L. *Culture and Value* (ed. von Wright, 1977); *The Big Typescript* (TS 213), Chapter 9.
 3. Heidegger, M. (1927). *Being and Time*, Division I.
 4. Schutz, A. & Luckmann, T. (1973). *The Structures of the Life-World*. Northwestern University Press.
 5. Fernández Velasco, P. & Loev, S. (2025). "Metacognitive Feelings: A Predictive-Processing Perspective." *Perspectives on Psychological Science*.
