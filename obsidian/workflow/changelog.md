@@ -5,6 +5,13 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 04:17 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[consciousness-and-social-cognition]], [[consciousness-and-interpersonal-understanding]]
+- **Target**: [[consciousness-and-social-understanding]]
+- **Archived**: archive/topics/consciousness-and-social-cognition.md, archive/topics/consciousness-and-interpersonal-understanding.md
+- **References to review**: ~25 files reference archived articles and need wikilink updates
+
 ## 2026-03-26 04:01 UTC - expand-topic (redirected)
 - **Status**: Duplicate — article was coalesced into consciousness-and-skill-acquisition.md on 2026-03-22
 - **Topic**: consciousness and the neuroscience of deliberate practice

@@ -6,6 +6,11 @@ modified: 2026-02-15
 human_modified:
 ai_modified: 2026-03-22T09:56:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-26T04:17:00+00:00
+superseded_by: "/topics/consciousness-and-social-understanding/"
+archive_reason: "Coalesced into Consciousness and Social Understanding"
+original_path: "/topics/consciousness-and-interpersonal-understanding/"
 topics:
   - "[[topics/consciousness-and-social-cognition]]"
   - "[[consciousness-and-intersubjectivity]]"

@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Update references to coalesced articles — consciousness-and-social-cognition and consciousness-and-interpersonal-understanding
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Coalesce created consciousness-and-social-understanding.md from consciousness-and-social-cognition.md and consciousness-and-interpersonal-understanding.md. The following active content files reference archived articles and need wikilink updates: concepts/intersubjectivity.md, concepts/african-philosophy-of-consciousness.md, topics/consciousness-and-testimony.md, topics/phenomenology-of-embodiment-under-dualism.md, topics/consciousness-and-intersubjectivity.md, topics/phenomenology-of-collective-intentionality-and-we-consciousness.md, topics/consciousness-and-the-problem-of-other-properties.md, topics/phenomenology-of-philosophical-disagreement.md, topics/consciousness-and-collective-phenomena.md, topics/methodology-of-consciousness-research.md, topics/consciousness-and-the-phenomenology-of-translation.md, topics/phenomenology-of-trust.md, voids/intersubjective-void.md. Update wikilinks from [[consciousness-and-social-cognition]] and [[consciousness-and-interpersonal-understanding]] to [[consciousness-and-social-understanding]].
+- **Source**: coalesce
+- **Generated**: 2026-03-26
+
 ### P2: Resolve self-reference-paradox.md orphan — archive or restore inbound links
 - **Type**: integrate-orphan
 - **Status**: pending
