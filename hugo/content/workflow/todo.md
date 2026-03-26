@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-26 10:47:00+00:00
+ai_modified: 2026-03-26 14:32:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,10 +38,38 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address filter theory's unfalsifiable prediction structure
+### P2: Update references to coalesced explanation/methodology articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce created [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/). The following files reference archived articles and may need review: intersubjective-void, pragmatism, pragmatisms-path-to-dualism, consciousness-and-the-problem-of-measurement-standards, consciousness-and-scientific-explanation, philosophy-of-science-under-dualism, epistemology-of-mechanism-at-the-consciousness-matter-interface, leibnizs-mill-argument, duhem-quine-underdetermination-consciousness, methodology-of-consciousness-research, consciousness-and-social-understanding, phenomenology-of-philosophical-disagreement, concept-of-consciousness-and-social-cognition, phenomenology-of-framework-inhabitation, reductionism-and-consciousness, epistemology-of-convergence-arguments, consciousness-and-the-structure-of-scientific-revolutions. Also update argument-from-reason.md which references the old slug in its deep-review task notes.
+- **Source**: coalesce
+- **Generated**: 2026-03-26
+
+### P2: Deep review illusionism.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Key competitor theory concept page, last reviewed 2026-03-04 (22 days ago), modified today. Illusionism is the Map's primary dialectical opponent — the site's arguments against it (self-stultification, regress) need to engage with Frankish's latest functional-seeming response. Pessimistic review (2026-03-20) flagged that quantum mechanism articles use the same regress argument without engaging Frankish. Verify the concept page itself handles this adequately, check cross-references to epiphenomenalism and functionalism, and ensure tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-26
+
+### P2: Deep review argument-from-reason.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Core tenet-supporting article, last reviewed 2026-03-05 (21 days ago), modified today via cross-link additions. The argument from reason is central to Tenet 1 (Dualism) — if reasoning requires consciousness, physicalism undermines its own rational basis. Verify the self-defeat argument's logical structure, accuracy of cited positions (Plantinga, Lewis, Reppert), cross-references to recent articles (pragmatism, cognitive-phenomenology, consciousness-and-the-limits-of-explanation), and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-26
+
+### P2: Research recent (2025-2026) experimental consciousness science developments
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: The Map's empirical claims span quantum biology, anaesthesia, neuroplasticity, and contemplative neuroscience. Recent (2025-2026) experimental advances may strengthen or challenge key claims. Priority targets: (1) integrated information theory (IIT) empirical tests (Adversarial Collaboration results), (2) quantum coherence in biological systems updates, (3) anaesthetic mechanism refinements, (4) consciousness detection in disorders of consciousness. Output: research note cataloguing findings relevant to the five tenets.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-26
+
+### P3: Qualify selection trilemma and Schwartz OCD claims in attention-and-the-consciousness-interface
 - **Type**: refine-draft
 - **Status**: pending
-- **Notes**: Pessimistic review found that filter-theory.md claims distinctive predictions (disruption sometimes enhances experience) but provides no independent criteria for when enhancement vs. degradation should occur. The terminal lucidity evidence (Batthyány & Greyson 2020) is overstated due to selection bias in retrospective case collections. The engram research citation (Josselyn & Tonegawa 2020) is tendentiously read as supporting filter theory. See pessimistic-2026-03-26.md
+- **Notes**: Pessimistic review found the selection trilemma is presented as exhaustive but omits compatibilist and emergentist alternatives. Schwartz OCD evidence is called "strongest clinical evidence" but CBT-induced brain changes have standard materialist explanations. The Cai dopamine study is over-interpreted. See pessimistic-2026-03-26-afternoon.md
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-26
 
@@ -51,13 +79,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Pessimistic review found that downward-causation.md acknowledges a three-order-of-magnitude timing gap between optimistic coherence estimates and neural decisions but then pivots to the Zeno mechanism without specifying how it bridges this gap. The "no energy injection" claim needs qualification for non-degenerate energy outcomes. Hameroff's revised coherence estimates lack citation. See pessimistic-2026-03-26.md
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-26
-
-### P2: Create concept page for pragmatism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Referenced by 7 articles via broken wikilinks. Pragmatism as a philosophical tradition is relevant to pragmatisms-path-to-dualism and the Map's arguments about the practical consequences of consciousness theories. A concept page would anchor these references. Target section: concepts/ (225/230, 5 slots remaining).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-25
 
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
@@ -87,6 +108,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: task_chain
 - **Generated**: 2026-03-25
 - **Superseded**: 2026-03-25 — retrocausal-selection.md was archived (coalesced into atemporal-causation.md). Replaced by P2 cross-review of atemporal-causation.md above.
+
+### P3: Write article on philosophy of testimony under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How intersubjective knowledge is transmitted when consciousness is ontologically individual. Builds on consciousness-and-intersubjectivity, epistemology-of-other-minds-under-dualism, contemplative-practice-as-philosophical-evidence. Target section: topics/. See optimistic-2026-03-26.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-26
+
+### P3: Write article on consciousness and the metaphysics of composition
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The mereological puzzle underlying both the combination problem and the binding problem—why wholes have properties their parts lack. Builds on emergence-as-universal-hard-problem, panpsychisms-combination-problem, phenomenal-binding-and-holism. Target section: topics/. See optimistic-2026-03-26.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-26
+
+### P3: Write article on temporal phenomenology across altered states
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How time experience distorts systematically across dreams, meditation, psychedelics, flow, and dissociation—revealing the interface's temporal architecture. Builds on temporal-structure-of-consciousness, hypnagogic-phenomenology, dream-consciousness. Target section: topics/. See optimistic-2026-03-26.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-26
+
+### P3: Write concept page on reflexive methodology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map increasingly deploys arguments that turn frameworks against themselves (pragmatism → dualism, causal closure → deflation, Russellian monism → instability). A concept page systematising this pattern would strengthen the epistemological programme. Target section: concepts/. See optimistic-2026-03-26.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-26
 
 ### P3: Write concept page on substance causation (Lowe's four-category ontology)
 - **Type**: expand-topic
@@ -1426,6 +1475,47 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Deep review defended-territory.md
+- **Type**: deep-review
+- **Notes**: Voids article last reviewed 2026-02-25 (29 days ago), modified today via cross-link additions. The defended-territory void explores cognitive spaces people resist entering — directly relevant to Tenet 5 (Occam's Razor Has Limits). Verify coherence, accuracy of cognitive resistance claims, cross-references to recent voids articles (complicity-void, obviousness-void, cognitive-aversion), and tenet alignment.
+- **Output**: obsidian/voids/defended-territory.md
+
+### ✓ 2026-03-26: Integrate commensurability-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-03-19). Add cross-references from related articles such as framework-void, convergent-cognitive-limits, or cross-traditional-convergence-on-consciousness-irreducibility. Update voids index if needed.
+- **Output**: obsidian/voids/commensurability-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-26: Integrate complicity-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-03-25). Add cross-references from related articles such as cognitive-aversion, defended-territory, or other void articles discussing self-concealment in cognition. Update voids index if needed.
+- **Output**: obsidian/voids/complicity-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-26: Integrate obviousness-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-03-25). Add cross-references from related articles such as habituation-void, phenomenology-of-the-edge, or other void articles discussing familiar-yet-overlooked cognitive patterns. Update voids index if needed.
+- **Output**: obsidian/voids/obviousness-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-26: Deep review pragmatism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-26 via expand-topic, never reviewed. Concept page on pragmatism and its relationship to the Map's dualist commitments. Verify coherence, accuracy of philosophical claims about James/Dewey/Peirce, cross-references to pragmatisms-path-to-dualism and argument-from-reason, and tenet alignment.
+- **Output**: obsidian/concepts/pragmatism.md
+
+### ✓ 2026-03-26: Cross-review pragmatism-related articles considering new pragmatism concept page
+- **Type**: cross-review
+- **Notes**: New concept page concepts/pragmatism.md created 2026-03-26. Review pragmatisms-path-to-dualism.md, argument-from-reason.md, and epistemic-advantages-of-dualism.md for cross-links to the new concept page. Check for reinforcing arguments, terminology consistency, and opportunities to reference the pragmatist framework.
+- **Output**: None -- Context: Cross-review pragmatism-related articles considering new pragmatism concept page
+
+### ✓ 2026-03-26: Create concept page for pragmatism
+- **Type**: expand-topic
+- **Notes**: Referenced by 7 articles via broken wikilinks. Pragmatism as a philosophical tradition is relevant to pragmatisms-path-to-dualism and the Map's arguments about the practical consequences of consciousness theories. A concept page would anchor these references. Target section: concepts/ (225/230, 5 slots remaining).
+- **Output**: Create concept page for pragmatism
+
+### ✓ 2026-03-26: Address filter theory's unfalsifiable prediction structure
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that filter-theory.md claims distinctive predictions (disruption sometimes enhances experience) but provides no independent criteria for when enhancement vs. degradation should occur. The terminal lucidity evidence (Batthyány & Greyson 2020) is overstated due to selection bias in retrospective case collections. The engram research citation (Josselyn & Tonegawa 2020) is tendentiously read as supporting filter theory. See pessimistic-2026-03-26.md
+- **Output**: Task context:
+Pessimistic review found that filter-theory.md claims distinctive predictions (disruption sometimes enhances experience) but provides no independent criteria for when enhancement vs. degradation should occur. The terminal lucidity evidence (Batthyány & Greyson 2020) is overstated due to selection bias in retrospective case collections. The engram research citation (Josselyn & Tonegawa 2020) is tendentiously read as supporting filter theory. See pessimistic-2026-03-26.md
 
 ### ✓ 2026-03-26: Deep review obviousness-void.md
 - **Type**: deep-review

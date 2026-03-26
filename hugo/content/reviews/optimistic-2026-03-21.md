@@ -118,7 +118,7 @@ The Map demonstrates remarkable epistemic humility throughout. The voids article
 - **Tenet alignment**: Tenet 1 (episodic memory has irreducible phenomenal character), Tenet 4 (temporal identity requires single timeline, not branching)
 
 #### Phenomenal Intentionality
-- **Builds on**: [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/), [explanatory-gap](/concepts/explanatory-gap/)
+- **Builds on**: [consciousness-and-the-limits-of-explanation](/topics/consciousness-defeats-explanation/), [explanatory-gap](/concepts/explanatory-gap/)
 - **Would address**: Consciousness is "about" things — it has intentionality. But physical systems also seem to carry information "about" other things. The phenomenal intentionality thesis holds that original intentionality is constitutively phenomenal — only conscious states are genuinely *about* anything, and derivative intentionality (in texts, computers, thermostats) depends on conscious interpreters.
 - **Estimated scope**: Medium article (1000-1500 words)
 - **Tenet alignment**: Tenet 1 (intentionality is irreducibly mental), Tenet 3 (intentional states cause behaviour directed at their objects)

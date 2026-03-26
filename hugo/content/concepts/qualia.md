@@ -74,7 +74,7 @@ Qualia are not relational—they are properties of experience itself, not of how
 
 ### Private
 
-You cannot directly access my qualia, nor I yours. We can compare behaviour, point to the same objects, use the same words—but your experience of red may differ from mine in ways neither of us could ever detect. This privacy makes qualia fundamentally different from publicly observable properties.
+You cannot directly access my qualia, nor I yours. We can compare behaviour, point to the same objects, use the same words—but your experience of red may differ from mine in ways neither of us could ever detect. This privacy makes qualia fundamentally different from publicly observable properties. Across radically different conscious architectures, the problem deepens: the [commensurability-void](/voids/commensurability-void/) shows that some phenomenal experiences may be not merely private but structurally incomparable—yielding no ordering relation at all.
 
 ### Ineffable
 

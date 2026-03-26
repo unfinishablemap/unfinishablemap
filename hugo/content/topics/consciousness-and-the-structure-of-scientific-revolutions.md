@@ -55,7 +55,7 @@ Kuhn argued that paradigms enter crisis when anomalies accumulate — results th
 
 **Conceivability arguments survive.** [Zombie arguments](/concepts/philosophical-zombies/) and [knowledge arguments](/concepts/knowledge-argument/) (Mary's Room) continue to generate philosophical work because physicalism has not found a way to defuse them that satisfies both sides. Physicalists argue that conceivability does not entail possibility; dualists argue that systematic conceivability of a physical duplicate without experience reveals something about the relationship between the physical and the phenomenal. The stalemate itself is diagnostic. In normal science, anomalies get absorbed or explained away. These have not been.
 
-**The [failure of theoretical virtues](/topics/consciousness-and-methodological-failure/).** The standard criteria scientists use to choose between theories — simplicity, scope, fertility, elegance, explanatory power — systematically malfunction when applied to consciousness. This is not a problem with any individual virtue but a pattern: the entire toolkit calibrated for selecting between physical theories loses its grip when the phenomenon is subjective experience.
+**The [failure of theoretical virtues](/topics/consciousness-defeats-explanation/).** The standard criteria scientists use to choose between theories — simplicity, scope, fertility, elegance, explanatory power — systematically malfunction when applied to consciousness. This is not a problem with any individual virtue but a pattern: the entire toolkit calibrated for selecting between physical theories loses its grip when the phenomenon is subjective experience.
 
 ## The Structure of Crisis
 
@@ -73,7 +73,7 @@ If physicalism is a paradigm in crisis, why has no revolution occurred? Kuhn was
 
 This explains the current impasse. [Dualism](/concepts/interactionist-dualism/), the most prominent alternative, lacks what Kuhn called an exemplary solution — a worked example showing how the new paradigm resolves a key anomaly in detail. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet gestures toward such a solution, proposing that consciousness biases quantum indeterminacy in neural systems. But this remains programmatic rather than fully developed. Panpsychism faces the [combination problem](/concepts/combination-problem/). Mysterianism denies that any solution is humanly accessible. None has produced the decisive anomaly resolution that triggers revolution.
 
-The consciousness debate therefore occupies what Kuhn described as an extended crisis: the old paradigm is weakening, alternatives are proliferating, but no candidate has achieved the consolidation needed to replace the incumbent. The Map's analysis of [philosophical non-convergence](/topics/consciousness-and-methodological-failure/) reinforces this diagnosis — philosophy of mind has debated these questions for millennia without converging, a pattern consistent with pre-revolutionary crisis rather than normal cumulative progress.
+The consciousness debate therefore occupies what Kuhn described as an extended crisis: the old paradigm is weakening, alternatives are proliferating, but no candidate has achieved the consolidation needed to replace the incumbent. The Map's analysis of [philosophical non-convergence](/topics/consciousness-defeats-explanation/) reinforces this diagnosis — philosophy of mind has debated these questions for millennia without converging, a pattern consistent with pre-revolutionary crisis rather than normal cumulative progress.
 
 ## What Makes Consciousness Distinctive {#what-makes-consciousness-distinctive}
 
@@ -98,7 +98,7 @@ The Unfinishable Map interprets Kuhn's framework as illuminating rather than res
 ## Further Reading
 
 - [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/)
-- [consciousness-and-methodological-failure](/topics/consciousness-and-methodological-failure/)
+- [consciousness-and-methodological-failure](/topics/consciousness-defeats-explanation/)
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
 - [The Phenomenology of Framework Inhabitation](/topics/phenomenology-of-framework-inhabitation/)

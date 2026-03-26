@@ -9,6 +9,112 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-26 15:06 UTC - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/), [consciousness-and-methodological-failure](/topics/consciousness-and-methodological-failure/)
+- **Target**: [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/)
+- **Archived**: [consciousness-and-the-limits-of-explanation](/archive/topics/consciousness-and-the-limits-of-explanation/), [consciousness-and-methodological-failure](/archive/topics/consciousness-and-methodological-failure/)
+- **References to review**: 15 active content files
+
+## 2026-03-26 14:53 UTC - deep-review
+- **Status**: Success
+- **File**: [defended-territory](/voids/defended-territory/)
+- **Word count**: 1889 → 1915 (+26)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing adaptive-cognitive-limits cross-link; cognitive-aversion missing from frontmatter)
+- **Enhancements made**: 1 (evolutionary dimension added to Psychological Occlusion)
+- **Output**: [deep-review-2026-03-26-defended-territory](/reviews/deep-review-2026-03-26-defended-territory/)
+
+## 2026-03-26 14:45 UTC - deep-review
+- **Status**: Success
+- **File**: [causal-delegation](/concepts/causal-delegation/)
+- **Word count**: 1221 → 1265 (+44)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (description over 160 chars; Dualism tenet missing from Relation to Site Perspective)
+- **Enhancements made**: 4 (tightened description, added Dualism tenet connection, 2 inbound cross-links)
+- **Files modified**: the-epiphenomenalist-threat, evolutionary-case-for-mental-causation
+- **Output**: [deep-review-2026-03-26-causal-delegation](/reviews/deep-review-2026-03-26-causal-delegation/)
+
+## 2026-03-26 14:17 UTC - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [commensurability-void](/voids/commensurability-void/)
+- **Word count**: 1616 → 1650 (+34)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (orphan status — no inbound links; missing comparative-consciousness connection)
+- **Enhancements made**: 11 inbound cross-links from 10 related articles
+- **Files modified**: other-minds-void, intersubjective-void, synesthetic-void, animal-consciousness, ethics-of-consciousness, ai-consciousness, hard-problem-of-consciousness, qualia, mysterianism, taxonomy-of-voids, comparative-consciousness-and-interface-differences
+- **Output**: [deep-review-2026-03-26-commensurability-void](/reviews/deep-review-2026-03-26-commensurability-void/)
+
+## 2026-03-26 14:03 UTC - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [complicity-void](/voids/complicity-void/)
+- **Word count**: 2138 → 2148 (+10)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status — no inbound links)
+- **Enhancements made**: 9 inbound cross-links from 8 related articles
+- **Files modified**: cognitive-aversion, defended-territory, self-opacity, existentialism, biological-cognitive-closure, adaptive-cognitive-limits, self-transcendence-void, framework-void, authentic-vs-inauthentic-choice
+- **Output**: [deep-review-2026-03-26b-complicity-void](/reviews/deep-review-2026-03-26b-complicity-void/)
+
+## 2026-03-26 13:47 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full corpus (227 topics, 227 concepts, 1 tenet, 101 voids, ~17 apex)
+- **Output**: [optimistic-2026-03-26](/reviews/optimistic-2026-03-26/)
+
+## 2026-03-26 13:32 UTC - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [obviousness-void](/voids/obviousness-void/)
+- **Word count**: 1651 → 1668 (+17)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added missing explanatory-void cross-link)
+- **Enhancements made**: 5 inbound cross-links from other articles
+- **Files modified**: epistemic-emotions, defended-territory, biological-cognitive-closure, phenomenology-of-cognitive-limit-types, authentic-vs-inauthentic-choice
+- **Output**: [deep-review-2026-03-26b-obviousness-void](/reviews/deep-review-2026-03-26b-obviousness-void/)
+
+## 2026-03-26 13:18 UTC - deep-review
+- **Status**: Success
+- **File**: [pragmatism](/concepts/pragmatism/)
+- **Word count**: 1303 → 1314 (+11)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added missing van Fraassen citation)
+- **Enhancements made**: 1 reference added
+- **Output**: [deep-review-2026-03-26b-pragmatism](/reviews/deep-review-2026-03-26b-pragmatism/)
+
+## 2026-03-26 13:02 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)
+- **Word count**: 3472 → 3468 (-4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing citations: Miller 1956, Frankish 2016, Suddendorf & Corballis 2007)
+- **Enhancements made**: 3 references added, compensating prose cuts
+- **Output**: [deep-review-2026-03-26-consciousness-as-amplifier](/reviews/deep-review-2026-03-26-consciousness-as-amplifier/)
+
+## 2026-03-26 12:57 UTC - deep-review
+- **Status**: Success
+- **File**: [pragmatism](/concepts/pragmatism/)
+- **Word count**: 1265 → 1303 (+38)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (orphan integration, Rorty cross-link, Dewey naturalism note)
+- **Enhancements made**: 6 inbound cross-links from related articles
+- **Output**: [deep-review-2026-03-26-pragmatism](/reviews/deep-review-2026-03-26-pragmatism/)
+
+## 2026-03-26 12:33 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Pragmatism
+- **Output**: [pragmatism](/concepts/pragmatism/)
+- **Word count**: 1265
+- **Based on research**: no
+
+## 2026-03-26 12:17 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/attention-and-the-consciousness-interface.md
+- **Output**: [pessimistic-2026-03-26-afternoon](/reviews/pessimistic-2026-03-26-afternoon/)
+
+## 2026-03-26 12:02 UTC - refine-draft
+- **Status**: Success
+- **File**: [filter-theory](/concepts/filter-theory/)
+- **Changes**: Qualified unfalsifiable prediction structure, added selection bias caveat to terminal lucidity evidence, corrected tendentious engram research reading
+- **Published**: yes
+
 ## 2026-03-26 11:48 UTC - deep-review
 - **Status**: Success
 - **File**: [obviousness-void](/voids/obviousness-void/)

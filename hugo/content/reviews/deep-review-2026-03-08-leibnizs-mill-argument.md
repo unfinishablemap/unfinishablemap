@@ -63,12 +63,12 @@ All six adversarial personas were applied. No new issues emerged beyond previous
 - Split long paragraph for style guide compliance (1-3 sentences per paragraph)
 - Added cross-link to [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/) in emergence objection section
 - Added cross-link to [arguments-against-materialism](/topics/arguments-against-materialism/) in Relation to Site Perspective
-- Added [arguments-against-materialism](/topics/arguments-against-materialism/) and [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) to Further Reading
+- Added [arguments-against-materialism](/topics/arguments-against-materialism/) and [consciousness-and-the-limits-of-explanation](/topics/consciousness-defeats-explanation/) to Further Reading
 
 ### Cross-links Added
 - [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/) (body)
 - [arguments-against-materialism](/topics/arguments-against-materialism/) (body + Further Reading)
-- [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) (Further Reading)
+- [consciousness-and-the-limits-of-explanation](/topics/consciousness-defeats-explanation/) (Further Reading)
 
 ## Word Count
 

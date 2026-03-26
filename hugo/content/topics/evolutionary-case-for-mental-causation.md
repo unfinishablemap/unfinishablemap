@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-03-23 15:15:00+00:00
+ai_modified: 2026-03-26 14:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -140,7 +140,7 @@ This is not a fringe objection. It is the default position in contemporary philo
 
 **The conceivability argument**: It seems conceivable that a physical duplicate of a conscious being could lack experience entirely (a [philosophical zombie](/concepts/philosophical-zombies/)). If this is genuinely conceivable, consciousness cannot be necessitated by physics alone. The physicalist must argue either that zombies are not conceivable on reflection or that conceivability does not track metaphysical possibility.
 
-**The causal closure problem**: If physics is causally closed—every physical event has a sufficient physical cause—then mental causation either reduces to physical causation or is overdetermined. The non-reductive physicalist must explain how mental properties can be genuinely causal without overdetermining their physical bases. This remains an active area of debate, with exclusion arguments (Kim, 1998) pressing the physicalist toward either reductionism or epiphenomenalism.
+**The causal closure problem**: If physics is causally closed—every physical event has a sufficient physical cause—then mental causation either reduces to physical causation or is overdetermined. The non-reductive physicalist must explain how mental properties can be genuinely causal without overdetermining their physical bases. This remains an active area of debate, with exclusion arguments (Kim, 1998) pressing the physicalist toward either reductionism or epiphenomenalism. The Map's preferred structural response is [causal-delegation](/concepts/causal-delegation/): experiences [preempt](/concepts/preemption/) the causal contributions of their underlying physical states rather than overdetermining them.
 
 The Unfinishable Map's position is that the evolutionary argument provides necessary but not sufficient grounds for dualism. It establishes the causal efficacy that epiphenomenalism and eliminativism deny. The further step to non-physicality depends on the explanatory gap, conceivability arguments, and the difficulty of reconciling genuine mental causation with causal closure—arguments developed elsewhere in the Map.
 

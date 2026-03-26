@@ -74,7 +74,7 @@ Chittka's *The Mind of a Bee* (2022) and subsequent research documents sophistic
 
 Thomas Nagel's 1974 paper established the framework for thinking about animal consciousness. An organism has conscious mental states "if and only if there is something that it is like to be that organism"—some subjective character to its experience.
 
-Nagel uses bats to illustrate a deeper point: their echolocation-based phenomenology is radically alien to human imagination. We can know *that* bats have experience without knowing *what* their experience is like. This isn't mere ignorance to be remedied by more neuroscience. Even complete knowledge of bat neurophysiology wouldn't reveal what echolocation *feels like* from the inside.
+Nagel uses bats to illustrate a deeper point: their echolocation-based phenomenology is radically alien to human imagination. We can know *that* bats have experience without knowing *what* their experience is like. This isn't mere ignorance to be remedied by more neuroscience. Even complete knowledge of bat neurophysiology wouldn't reveal what echolocation *feels like* from the inside. The [commensurability-void](/voids/commensurability-void/) takes this further: the bat's phenomenal world may be organised along dimensions that share no common measure with ours, making comparison structurally impossible—not merely difficult.
 
 The bat example demonstrates why consciousness cannot be captured by objective physical description. This applies to all animal minds—we face not just incomplete evidence but a structural barrier. The subjective perspective is irreducible to third-person observation.
 

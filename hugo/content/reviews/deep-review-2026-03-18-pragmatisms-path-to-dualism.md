@@ -52,7 +52,7 @@ All counterarguments from the previous review remain addressed. No new counterar
 
 ### Cross-links Added (Inbound — Orphan Integration)
 - [william-james-consciousness](/topics/william-james-consciousness/) — Added contextual link in "James's Pragmatism and Consciousness" section + related_articles + Further Reading
-- [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) — Added contextual link in "Pragmatics of Explanation" section + related_articles
+- [consciousness-and-the-limits-of-explanation](/topics/consciousness-defeats-explanation/) — Added contextual link in "Pragmatics of Explanation" section + related_articles
 - [argument-from-reason](/topics/argument-from-reason/) — Added to related_articles + Further Reading (parallel self-defeat structure)
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Added to related_articles + Further Reading
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — Added to related_articles + Further Reading (normative force in evaluation)

@@ -137,7 +137,7 @@ However, dualism doesn't *require* complete isolation. Two irreducible conscious
 
 ## Implications
 
-The intersubjective void extends the [hard problem](/topics/hard-problem-of-consciousness/) into a new dimension: not just "why is there experience?" but "why is experience divided into subjects?"—and can it be reunited? [Consciousness and the limits of explanation](/topics/consciousness-and-the-limits-of-explanation/) argues that explanation presupposes phenomenal understanding. If consciousness is the one domain where social epistemic mechanisms systematically fail, our collective capacity to explain consciousness is doubly compromised: by the reflexive gap and by the social infrastructure's inability to reach phenomenal facts.
+The intersubjective void extends the [hard problem](/topics/hard-problem-of-consciousness/) into a new dimension: not just "why is there experience?" but "why is experience divided into subjects?"—and can it be reunited? [Consciousness and the limits of explanation](/topics/consciousness-defeats-explanation/) argues that explanation presupposes phenomenal understanding. If consciousness is the one domain where social epistemic mechanisms systematically fail, our collective capacity to explain consciousness is doubly compromised: by the reflexive gap and by the social infrastructure's inability to reach phenomenal facts.
 
 Empathy has structural limits even at its best—it simulates rather than shares. [Interpersonal understanding](/topics/consciousness-and-social-understanding/) reaches across the void but cannot eliminate it. Collective consciousness remains ambiguous between genuine sharing and coordinated parallel experiences; the [voids framework](/voids/) suggests this ambiguity may mark a genuine cognitive limit rather than a question awaiting answer.
 
@@ -156,7 +156,8 @@ Empathy has structural limits even at its best—it simulates rather than shares
 - [transparency-void](/voids/transparency-void/) — Why consciousness cannot verify its own accuracy
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/) — Testimony requires consciousness yet cannot fully convey it
 - [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) — Whether consciousness is constitutively shaped by encounter with other minds
-- [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) — Why explanation presupposes the phenomenal understanding that social epistemology cannot validate
+- [consciousness-and-the-limits-of-explanation](/topics/consciousness-defeats-explanation/) — Why explanation presupposes the phenomenal understanding that social epistemology cannot validate
+- [commensurability-void](/voids/commensurability-void/) — When architectures diverge radically, comparison itself becomes structurally impossible—not merely difficult
 
 ## References
 

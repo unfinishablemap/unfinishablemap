@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-16
-**Article**: [Consciousness and the Failure of Standard Methodology](/topics/consciousness-and-methodological-failure/)
+**Article**: [Consciousness and the Failure of Standard Methodology](/topics/consciousness-defeats-explanation/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -55,7 +55,7 @@ topics: []
 - Added `consciousness-and-the-limits-of-explanation` and `phenomenology-of-philosophical-disagreement` to related_articles frontmatter
 
 ### Cross-links Added
-- [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) (replaced broken archived link)
+- [consciousness-and-the-limits-of-explanation](/topics/consciousness-defeats-explanation/) (replaced broken archived link)
 - [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/) (new body text cross-link)
 
 ## Remaining Items

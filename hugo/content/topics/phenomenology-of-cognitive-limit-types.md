@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-23 12:23:00+00:00
+ai_modified: 2026-03-26 13:32:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -91,7 +91,7 @@ These signatures can be mapped against limit types to create a diagnostic tool:
 | Self-referential | Vertigo | Self-refutation, dissolving insight | Moderate — felt as instability |
 | Introspective | Construction-as-observation | Illusory comprehension | High — feels like success |
 | Adaptive (motivational) | Motivated disinterest | Satisfaction, cognitive aversion | High — feels like completion |
-| Adaptive (perceptual) | Illusory comprehension | None felt | Very high — phenomenologically invisible |
+| Adaptive (perceptual) | Illusory comprehension ([obviousness void](/voids/obviousness-void/)) | None felt | Very high — phenomenologically invisible |
 
 The grid reveals a pattern: limits that arise from the structure of thought itself (logical, conceptual) tend to announce themselves. Limits maintained by the cognitive system for functional reasons (adaptive, introspective) tend to hide. The more a limit serves the organism, the less visible it becomes from within.
 

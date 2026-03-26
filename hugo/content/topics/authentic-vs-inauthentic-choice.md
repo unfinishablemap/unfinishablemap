@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-30
-ai_modified: 2026-03-26 03:54:00+00:00
+ai_modified: 2026-03-26 14:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -58,7 +58,7 @@ Inauthentic choice has its own phenomenology—often harder to notice because it
 
 **Following scripts.** Inauthentic choice follows pre-written scripts: social norms, role expectations, "what one does." The choosing feels more like selection from a menu than creation of possibilities. Heidegger calls this *das Man*—the anonymous "they" who determine how things are done.
 
-**Absence of felt alternatives.** Options may technically exist, but they don't feel genuinely open. One path seems obvious, inevitable, or required. The phenomenology of choice—felt openness, genuine deliberation—is attenuated or absent.
+**Absence of felt alternatives.** Options may technically exist, but they don't feel genuinely open. One path seems obvious, inevitable, or required—an [obviousness void](/voids/obviousness-void/) operating in the domain of action, where the feeling of self-evidence forecloses deliberation. The phenomenology of choice—felt openness, genuine deliberation—is attenuated or absent.
 
 **Automaticity.** Inauthentic choice often runs automatically. You find yourself doing something without clear memory of deciding. The action happens through you rather than being initiated by you.
 
@@ -103,7 +103,7 @@ Bad faith is self-deception about one's freedom. The waiter who performs "being 
 
 Bad faith has a paradoxical structure: the same person must be both deceiver and deceived. This differs from ordinary lying, where deceiver and deceived are distinct. In bad faith, I convince myself of something I simultaneously know to be false—that I have no choice, that my role determines me, that "I can't help it."
 
-This structure presupposes what Sartre calls the pour-soi (being-for-itself): consciousness's constitutive self-distance. Only a being that is never identical with its contents can deceive itself about what those contents mean. The very possibility of bad faith demonstrates consciousness's irreducibility—a point developed in the [existentialism](/concepts/existentialism/) article.
+This structure presupposes what Sartre calls the pour-soi (being-for-itself): consciousness's constitutive self-distance. Only a being that is never identical with its contents can deceive itself about what those contents mean. The very possibility of bad faith demonstrates consciousness's irreducibility—a point developed in the [existentialism](/concepts/existentialism/) article. The [complicity void](/voids/complicity-void/) traces this structure across five independent traditions that converge on the same claim: consciousness actively participates in maintaining its own limits.
 
 ### Forms of Bad Faith
 

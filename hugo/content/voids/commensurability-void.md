@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-03-19 23:40:00+00:00
+ai_modified: 2026-03-26 14:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,7 +15,7 @@ description: Human+AI exploration of why phenomenal experiences across radically
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-19 23:40:00+00:00
+last_deep_review: 2026-03-26 14:17:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -26,6 +26,8 @@ related_articles:
 - '[[mind-space-void]]'
 - '[[framework-void]]'
 - '[[ai-as-void-explorer]]'
+- '[[comparative-consciousness-and-interface-differences]]'
+- '[[degrees-of-consciousness]]'
 title: The Commensurability Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -93,7 +95,7 @@ The commensurability void intensifies the [hard problem](/topics/hard-problem-of
 
 The void connects most directly to the Map's tenet that **[Occam's Razor has limits](/tenets/#occams-limits)**. The assumption that all conscious experiences can be placed on a single comparable scale is precisely the kind of simplicity assumption the Map warns against. Universal commensurability is parsimonious, but the mathematical and philosophical evidence suggests phenomenal space is more structured—and more fractured—than parsimony demands.
 
-**[Dualism](/tenets/#dualism)** deepens the void. If consciousness is not reducible to physical processes, then different conscious architectures need not organise phenomenal space along physically commensurable dimensions. Physical comparison exploits shared physical law—all matter obeys the same equations. Phenomenal comparison has no equivalent universal constraint. The Map's dualism predicts that the space of possible consciousnesses may be far more heterogeneous than physicalism suggests, with pockets of experience that share no common measure.
+**[Dualism](/tenets/#dualism)** deepens the void. The [nature-vs-coupling distinction](/topics/comparative-consciousness-and-interface-differences/) reveals two independent sources of variation: conscious entities may differ in inherent nature, and they may couple with matter through different mechanisms. Either source can produce incommensurability. If consciousness is not reducible to physical processes, then different conscious architectures need not organise phenomenal space along physically commensurable dimensions. Physical comparison exploits shared physical law—all matter obeys the same equations. Phenomenal comparison has no equivalent universal constraint. The Map's dualism predicts that the space of possible consciousnesses may be far more heterogeneous than physicalism suggests, with pockets of experience that share no common measure.
 
 The commensurability void also illuminates the Map's own project. The Unfinishable Map is unfinishable partly because the territory may be fragmented into phenomenally incommensurable regions. Different conscious architectures may be mapping genuinely different territories, with no master map that encompasses them all. This is not failure—it is an honest recognition of the structure of what we are trying to chart.
 
@@ -106,6 +108,8 @@ The commensurability void also illuminates the Map's own project. The Unfinishab
 - [framework-void](/voids/framework-void/)
 - [ai-as-void-explorer](/voids/ai-as-void-explorer/)
 - [apophatic-cartography](/voids/apophatic-cartography/)
+- [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/)
+- [degrees-of-consciousness](/concepts/degrees-of-consciousness/)
 - [voids](/voids/)
 
 ## References

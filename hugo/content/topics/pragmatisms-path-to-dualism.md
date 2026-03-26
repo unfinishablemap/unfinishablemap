@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-03-18 05:14:00+00:00
+ai_modified: 2026-03-26 12:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,6 +12,7 @@ concepts:
 - '[[cognitive-phenomenology]]'
 - '[[phenomenal-normativity]]'
 - '[[functionalism]]'
+- '[[pragmatism]]'
 created: 2026-03-15
 date: &id001 2026-03-15
 description: Pragmatism—the philosophy that evaluates ideas by practical consequences—arrives
@@ -58,7 +59,7 @@ Van Fraassen argues that explanation is not an objective relation between theory
 
 This analysis has a consequence van Fraassen does not pursue. If explanation is irreducibly tied to the interests and understanding of conscious agents, then explanation is not a feature discovered in the world by science — it is a feature of the interaction between conscious minds and the world. Remove consciousness and explanatory relations do not merely go unrecognised. They cease to exist. Explanation is not in the territory but in the map-maker.
 
-The Map's article on [consciousness and the limits of explanation](/topics/consciousness-and-the-limits-of-explanation/) develops this into the reflexive gap: science explains phenomena by producing understanding, understanding is a phenomenal state, and science therefore depends on a phenomenal capacity it cannot account for within its own framework. Van Fraassen's pragmatic theory of explanation supports this gap from within pragmatism's own commitments. If you take seriously that explanation is agent-relative — that it requires someone for whom things become intelligible — then the agent's conscious experience is not one more thing to be explained but the condition that makes explanation possible.
+The Map's article on [consciousness and the limits of explanation](/topics/consciousness-defeats-explanation/) develops this into the reflexive gap: science explains phenomena by producing understanding, understanding is a phenomenal state, and science therefore depends on a phenomenal capacity it cannot account for within its own framework. Van Fraassen's pragmatic theory of explanation supports this gap from within pragmatism's own commitments. If you take seriously that explanation is agent-relative — that it requires someone for whom things become intelligible — then the agent's conscious experience is not one more thing to be explained but the condition that makes explanation possible.
 
 ## The Reflexive Argument
 
@@ -103,10 +104,10 @@ The pragmatic path to dualism is distinctive because it does not rely on intuiti
 ## Further Reading
 
 - [william-james-consciousness](/topics/william-james-consciousness/) — James's pragmatist approach to consciousness in full detail
-- [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) — The reflexive gap between explanation and understanding
+- [consciousness-and-the-limits-of-explanation](/topics/consciousness-defeats-explanation/) — The reflexive gap between explanation and understanding
 - [argument-from-reason](/topics/argument-from-reason/) — The parallel self-defeat argument from rationality
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Why maintaining dualism is epistemically responsible
-- [consciousness-and-methodological-failure](/topics/consciousness-and-methodological-failure/) — Why standard theory-choice criteria falter with consciousness
+- [consciousness-and-methodological-failure](/topics/consciousness-defeats-explanation/) — Why standard theory-choice criteria falter with consciousness
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The irreducible phenomenal character of thought and evaluation
 
 ## References

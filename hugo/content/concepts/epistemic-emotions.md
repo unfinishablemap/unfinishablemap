@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-03-25 10:14:00+00:00
+ai_modified: 2026-03-26 13:32:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -108,7 +108,7 @@ The TOT state sharpens this: it isn't just functional retrieval failure—there 
 
 ## Epistemic Emotions and Decision
 
-Epistemic emotions guide cognitive behaviour: curiosity directs inquiry, doubt triggers re-evaluation, certainty ends search. If these emotions were causally inert, their existence would be evolutionarily puzzling. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet proposes that epistemic emotions are consciousness engaging with cognition, not merely observing it. The connection to [the phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) is illuminating—decisions involve epistemic emotions as motivational force, not merely information.
+Epistemic emotions guide cognitive behaviour: curiosity directs inquiry, doubt triggers re-evaluation, certainty ends search. When certainty fires prematurely—before genuine understanding is achieved—it creates an [obviousness void](/voids/obviousness-void/): the felt conviction that nothing further needs investigation, terminating inquiry at precisely the point where it is most needed. If these emotions were causally inert, their existence would be evolutionarily puzzling. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet proposes that epistemic emotions are consciousness engaging with cognition, not merely observing it. The connection to [the phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) is illuminating—decisions involve epistemic emotions as motivational force, not merely information.
 
 ## Contemplative Perspectives
 

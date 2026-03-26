@@ -56,7 +56,7 @@ The synesthetic void gains its deepest significance when placed against the conc
 
 If E-space is vast, human consciousness occupies a small region of it. Synesthesia is the empirical evidence that this region has unexploited dimensions—that even within the space accessible to human neural architecture, most people navigate only a fraction. The synesthetic void is not a boundary at the far edge of experiential possibility. It exists in our immediate neighbourhood, between minds that share a species.
 
-Different organisms may occupy different regions of E-space entirely. Nagel's bat experiences echolocation from a phenomenal position inaccessible to humans. But synesthesia shows that the problem is more intimate than Nagel's scenario suggests. One need not invoke alien sensory modalities. Ordinary humans, with closely related neural architectures, already inhabit partially incommensurable experiential worlds.
+Different organisms may occupy different regions of E-space entirely. Nagel's bat experiences echolocation from a phenomenal position inaccessible to humans. But synesthesia shows that the problem is more intimate than Nagel's scenario suggests. One need not invoke alien sensory modalities. Ordinary humans, with closely related neural architectures, already inhabit partially incommensurable experiential worlds. The [commensurability-void](/voids/commensurability-void/) formalises this: phenomenal comparison yields only a partial ordering, and some pairs of experiences have no ordering relation at all. Synesthesia provides the intra-species evidence for what cross-species comparison makes vivid.
 
 ## Permeability of the Boundary
 

@@ -260,6 +260,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 - [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) — Sāṃkhya, Nyāya, and Vedānta approaches to consciousness
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — Why independent convergence on irreducibility strengthens the case
 - [tenets](/tenets/) — The foundational commitments of the Map
+- [commensurability-void](/voids/commensurability-void/) — Why phenomenal experiences across different architectures may resist even comparison, not just explanation
 - [the-reverse-inference](/topics/the-reverse-inference/) — Why consciousness—the hard problem's datum—should constrain physics rather than the reverse
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: the reverse inference from consciousness to physics—arguing the hard problem and measurement problem are the same boundary seen from different sides
 

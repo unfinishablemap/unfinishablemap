@@ -109,7 +109,7 @@ This test case matters because it appears to isolate the variable. If an AI syst
 
 Yet the test is less clean than it appears. As the [Duhem-Quine analysis of consciousness science](/topics/duhem-quine-underdetermination-consciousness/) demonstrates, no hypothesis about consciousness can be tested in isolation. Whether an AI system has achieved "genuine" social understanding depends on auxiliary assumptions about what constitutes understanding — precisely the issue under dispute. A physicalist who sees pattern-matching as sufficient for understanding will interpret impressive AI performance as confirming that consciousness is unnecessary; a dualist will interpret the same performance as sophisticated mimicry. The empirical result underdetermines the theoretical conclusion.
 
-The Map's prediction: AI systems will continue to improve at social tasks indefinitely without achieving genuine social understanding, because genuine understanding requires being a subject among subjects. The prediction is falsifiable in principle, though [systematic methodological limitations](/topics/consciousness-and-methodological-failure/) make empirical resolution challenging — the difficulty of detecting consciousness in non-biological systems means that both confirmation and disconfirmation of the prediction will remain contested.
+The Map's prediction: AI systems will continue to improve at social tasks indefinitely without achieving genuine social understanding, because genuine understanding requires being a subject among subjects. The prediction is falsifiable in principle, though [systematic methodological limitations](/topics/consciousness-defeats-explanation/) make empirical resolution challenging — the difficulty of detecting consciousness in non-biological systems means that both confirmation and disconfirmation of the prediction will remain contested.
 
 ## What Would Challenge This View?
 
@@ -149,7 +149,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly. T
 - [cumulative-culture](/concepts/cumulative-culture/) — How cultural accumulation depends on teaching and shared intentionality
 - [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/) — Dolphins and corvids display Level 1-2 social cognition through radically different neural architectures
 - [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/) — Why falsifiability conditions for consciousness claims face deep underdetermination
-- [consciousness-and-methodological-failure](/topics/consciousness-and-methodological-failure/) — How standard theoretical virtues systematically malfunction when applied to consciousness
+- [consciousness-and-methodological-failure](/topics/consciousness-defeats-explanation/) — How standard theoretical virtues systematically malfunction when applied to consciousness
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — The structural challenge of studying subjective phenomena with objective methods
 
 ## References

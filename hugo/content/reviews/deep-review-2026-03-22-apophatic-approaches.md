@@ -59,7 +59,7 @@ Fourth review. The article was stable at the last review (no critical issues fou
 - **[cognitive-closure](/concepts/mysterianism/)** — Added contextual reference in Relation to Site Perspective section; added to Further Reading
 - **[explanatory-gap](/concepts/explanatory-gap/)** — Added to Further Reading with description connecting the gap's persistence to apophatic methodology
 - **[three-kinds-of-void](/voids/three-kinds-of-void/)** — Added to Further Reading alongside existing apophatic-cartography link
-- **[consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/)** — Added to Further Reading connecting explanatory failure to apophatic data
+- **[consciousness-and-the-limits-of-explanation](/topics/consciousness-defeats-explanation/)** — Added to Further Reading connecting explanatory failure to apophatic data
 
 ## Remaining Items
 

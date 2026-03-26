@@ -64,7 +64,7 @@ This is a synthesis article, not source-based. Checked all specific claims:
 - Added cross-link to `consciousness-and-the-problem-of-theoretical-virtues` in the theory choice section
 
 ### Cross-links Added
-- [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) (replacing archived reference)
+- [consciousness-and-the-limits-of-explanation](/topics/consciousness-defeats-explanation/) (replacing archived reference)
 - [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-methodological-failure/)
 
 ## Remaining Items

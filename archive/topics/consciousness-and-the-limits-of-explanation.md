@@ -6,6 +6,11 @@ modified: 2026-02-23
 human_modified:
 ai_modified: 2026-03-26T12:57:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-26T15:06:00+00:00
+superseded_by: "/topics/consciousness-defeats-explanation/"
+archive_reason: "Coalesced into Why Consciousness Defeats Explanation"
+original_path: "/topics/consciousness-and-the-limits-of-explanation/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[methodology-of-consciousness-research]]"

@@ -60,7 +60,7 @@ The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) te
 
 Combining the nature and coupling dimensions yields four possibilities:
 
-**Same nature, same coupling**: One type of consciousness couples with all organisms through the same mechanism. Differences in experience reflect only differences in neural content—a bat's echolocation and a human's vision differ in what reaches the interface, not in the interface or the experiencer.
+**Same nature, same coupling**: One type of consciousness couples with all organisms through the same mechanism. Differences in experience reflect only differences in neural content—a bat's echolocation and a human's vision differ in what reaches the interface, not in the interface or the experiencer. Even here, the [commensurability-void](/voids/commensurability-void/) cautions that experiential comparison may yield only a partial ordering—differing neural content can produce phenomenal dimensions with no common measure.
 
 **Same nature, different coupling**: One type of consciousness, but different organisms couple with it differently. Cephalopods might use distributed coupling points while mammals use centralised ones—same consciousness, different physical interface.
 

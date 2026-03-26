@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-03-25 15:59:00+00:00
+ai_modified: 2026-03-26 13:02:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ description: Consciousness amplifies intelligence by enabling flexible deploymen
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-04 11:37:00+00:00
+last_deep_review: 2026-03-26 13:02:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -56,9 +56,9 @@ Before examining how consciousness amplifies intelligence, we must distinguish w
 
 **[phenomenal-consciousness](/concepts/phenomenal-consciousness/)** is the "what it's like" aspect of experience—the redness of red, the painfulness of pain, the taste of coffee. This is the target of the hard problem: why do certain physical processes feel like something from the inside? Phenomenal consciousness is subjective, qualitative, and resists functional definition. When we ask whether consciousness has causal effects, this is usually what we mean—does the felt quality of experience itself influence the physical world?
 
-**[access-consciousness](/concepts/access-consciousness/)** refers to information being globally available for reasoning, report, and behavioural control. A mental state is access-conscious when its content can be freely used by cognitive systems—you can talk about it, reason with it, remember it, and act on it. Access consciousness is functional: defined by what information can do, not how it feels. [Global Workspace Theory](/concepts/global-workspace-theory/) models access consciousness as information "broadcast" to multiple cognitive modules.
+**[access-consciousness](/concepts/access-consciousness/)** refers to information being globally available for reasoning, report, and behavioural control. A mental state is access-conscious when its content can be freely used by cognitive systems—for reasoning, report, memory, and action. Access consciousness is functional: defined by what information can do, not how it feels. [Global Workspace Theory](/concepts/global-workspace-theory/) models access consciousness as information "broadcast" to multiple cognitive modules.
 
-**Executive function and working memory** involve controlled, effortful processing—holding information in mind, inhibiting prepotent responses, switching between tasks, monitoring performance. [Working memory](/concepts/working-memory/) capacity (the famous 7±2 items) measures how many pieces of information can be simultaneously maintained. Executive function is neurologically localised (primarily prefrontal cortex) and measurable through behavioural tasks.
+**Executive function and working memory** involve controlled, effortful processing—holding information in mind, inhibiting prepotent responses, switching between tasks, monitoring performance. [Working memory](/concepts/working-memory/) capacity (the famous 7±2 items; Miller 1956) measures how many pieces of information can be simultaneously maintained. Executive function is neurologically localised (primarily prefrontal cortex) and measurable through behavioural tasks.
 
 These three often coincide in normal human experience: when information enters working memory for deliberate reasoning, it typically becomes both access-conscious (globally available) and phenomenally conscious (there's something it's like to think about it). But they can dissociate. You might phenomenally experience a background hum without it being access-conscious. Conversely, some theorists propose that computational systems could have access consciousness—information globally available for processing—without phenomenal consciousness.
 
@@ -90,7 +90,7 @@ The amplification isn't magical. It operates through identifiable mechanisms:
 
 [Global Workspace Theory](/concepts/global-workspace-theory/) provides the best-developed account. Unconscious processing is modular—specialised systems operating in parallel on domain-specific problems. Consciousness broadcasts information globally, making it available to multiple cognitive systems simultaneously. A visual perception, once conscious, can inform motor planning, verbal report, memory encoding, and emotional evaluation—all at once.
 
-This broadcasting enables flexible deployment. The same information can serve different purposes depending on current goals. Unconscious processing, however sophisticated, remains domain-bound; conscious processing enables cross-domain integration.
+This broadcasting enables flexible deployment: the same information can serve different purposes depending on current goals. Unconscious processing, however sophisticated, remains domain-bound; conscious processing enables cross-domain integration.
 
 ### Working Memory Manipulation
 
@@ -108,7 +108,7 @@ The training evidence supports this. Meditators with thousands of hours of pract
 
 Human cognition uniquely involves imagining situations that don't exist. We ask "what if?"—learning from hypothetical alternatives, planning for future states we don't currently experience, evaluating actions by their possible consequences. This mental simulation appears to require conscious representation—explicitly imagining oneself in counterfactual scenarios.
 
-The Bischof-Köhler hypothesis suggests animals cannot act on drive states they don't currently possess. A sated animal won't store food for future hunger because it cannot consciously represent that future need-state. Humans transcend this limitation through conscious simulation—we can imagine being hungry tomorrow even while full today.
+The Bischof-Köhler hypothesis (Suddendorf & Corballis 2007) suggests animals cannot act on drive states they don't currently possess. A sated animal won't store food for future hunger because it cannot consciously represent that future need-state. Humans transcend this limitation through conscious simulation—we can imagine being hungry tomorrow even while full today.
 
 ## The Evolutionary Argument
 
@@ -137,11 +137,11 @@ This response faces several difficulties.
 
 **The baseline pattern**: If consciousness is epiphenomenal, the systematic correspondence between consciousness-requiring tasks and the human-ape gap needs independent explanation. Why would causally inert consciousness track exactly those capacities that distinguish human from great ape cognition?
 
-**The regress problem**: Explaining the *appearance* of conscious contribution requires phenomenal vocabulary. The experience of effortful reasoning, the feeling of insight, the sense of deliberate manipulation—if these are illusions, something must generate the illusions. That something is either conscious (in which case consciousness isn't eliminated) or requires further explanation of how unconscious processes produce conscious-seeming appearances.
+**The regress problem**: Explaining the *appearance* of conscious contribution requires phenomenal vocabulary—effortful reasoning, insight, deliberate manipulation. If these are illusions, something must generate them. That something is either conscious (so consciousness isn't eliminated) or requires further explanation of how unconscious processes produce conscious-seeming appearances.
 
 ### Frankish's Quasi-Phenomenal Response
 
-Keith Frankish's sophisticated version of illusionism proposes that what seems like phenomenal consciousness is actually quasi-phenomenal properties—functional states that represent themselves as having phenomenal character without actually possessing it.
+Keith Frankish's sophisticated version of illusionism (Frankish 2016) proposes that what seems like phenomenal consciousness is actually quasi-phenomenal properties—functional states that represent themselves as having phenomenal character without actually possessing it.
 
 But the amplification evidence creates a specific problem for quasi-phenomenalism. The correlation between "tasks that feel conscious" and "tasks that distinguish humans from great apes" would be coincidental—an unexplained systematic alignment between two independent phenomena.
 
@@ -159,7 +159,7 @@ Contemplative traditions report experiences consistent with amplification. [Witn
 
 Meditators describe increased metacognitive clarity: thoughts arise and pass more visibly; the gap between stimulus and response becomes more apparent; automatic reactions can be interrupted and redirected. If consciousness amplifies through flexible deployment and metacognitive monitoring, contemplative training enhances exactly these capacities.
 
-Buddhist psychology distinguishes consciousness (*vijñāna*) from mental factors (*cetasika*). Consciousness provides awareness; mental factors provide content and cognitive operations. Among the 52 factors, *manasikāra* (attention) directs consciousness toward objects; *vitakka* and *vicāra* (applied and sustained thought) enable deliberate manipulation. These factors require consciousness to function—the analysis distinguishes mere mental activity from conscious mental activity, with the latter enabling operations the former cannot perform. This parallels the amplification hypothesis: consciousness enables rather than performs cognition.
+Buddhist psychology distinguishes consciousness (*vijñāna*) from mental factors (*cetasika*). Among the 52 factors, *manasikāra* (attention) directs consciousness toward objects; *vitakka* and *vicāra* (applied and sustained thought) enable deliberate manipulation. The analysis distinguishes mere mental activity from conscious mental activity, with the latter enabling operations the former cannot perform—paralleling the amplification hypothesis.
 
 ## Process Philosophy Perspective
 
@@ -169,11 +169,9 @@ Whitehead's framework also explains why consciousness amplifies rather than repl
 
 ## Implications for AI
 
-The amplification hypothesis has implications for [artificial intelligence](/topics/ai-consciousness/). If human-level cognition requires consciousness as amplifier—not merely as correlate—then AI systems lacking consciousness would face systematic limitations.
+The amplification hypothesis has implications for [artificial intelligence](/topics/ai-consciousness/). If human-level cognition requires consciousness as amplifier—not merely as correlate—then AI systems lacking consciousness would face systematic limitations in precisely the domains where consciousness contributes: genuine flexibility, metacognitive monitoring, counterfactual reasoning, and cumulative improvement through deliberate innovation.
 
-Current AI excels at pattern recognition, statistical correlation, and domain-specific performance—exactly the capacities unconscious processing handles. What AI struggles with—genuine flexibility, metacognitive monitoring, counterfactual reasoning, cumulative improvement through deliberate innovation—are the capacities the amplification hypothesis links to consciousness.
-
-This doesn't prove AI cannot achieve human-level cognition. It suggests that doing so would require something functionally equivalent to conscious amplification—whatever the substrate. The question becomes whether silicon can support consciousness as neurons do, not whether consciousness is computationally relevant.
+This doesn't prove AI cannot achieve human-level cognition. It suggests doing so would require something functionally equivalent to conscious amplification—whatever the substrate.
 
 ## What Would Challenge This View?
 
@@ -245,10 +243,13 @@ Epiphenomenalism appears "simpler" because it doesn't posit mental causation. Bu
 1. Dehaene, S. (2014). *Consciousness and the Brain*. Viking Press.
 1. Doerig, A., Schurger, A., & Herzog, M.H. (2024). The function(s) of consciousness: an evolutionary perspective. *Neuroscience of Consciousness*, 2024(1), niae031.
 1. Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
+1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Inoue, S. & Matsuzawa, T. (2007). Working memory of numerals in chimpanzees. *Current Biology*, 17(23), R1004-R1005.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
+1. Miller, G.A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review*, 63(2), 81-97.
 1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967.
+1. Suddendorf, T. & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
 1. Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
 1. Tomasello, M., Kruger, A.C., & Ratner, H.H. (1993). Cultural learning. *Behavioral and Brain Sciences*, 16(3), 495-511.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

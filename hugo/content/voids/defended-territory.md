@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-25
-ai_modified: 2026-03-11 21:46:00+00:00
+ai_modified: 2026-03-26 14:53:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Could some thoughts be actively blocked? Human+AI investigation of 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-25 14:09:00+00:00
+last_deep_review: 2026-03-26 14:53:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -28,6 +28,8 @@ related_articles:
 - '[[simulation-detection-void]]'
 - '[[apophatic-approaches]]'
 - '[[agency-verification-void]]'
+- '[[cognitive-aversion]]'
+- '[[adaptive-cognitive-limits]]'
 title: Defended Territory
 topics: []
 ---
@@ -40,7 +42,7 @@ The [voids](/voids/) framework distinguishes three types of cognitive limit: the
 
 The clearest evidence that minds can be blocked comes from psychology. Defence mechanisms—repression, denial, information avoidance—are well-documented. Repression blocks unacceptable thoughts before they reach consciousness; the content exists but cannot be retrieved. Denial refuses recognition of obvious realities—medical patients deny terminal diagnoses, addicts deny addiction. Information avoidance has been systematically documented: people deliberately avoid freely available information that might be undesirable. [Cognitive aversion](/voids/cognitive-aversion/) represents a related phenomenon: systematic deflection from threatening content (especially death and cosmic insignificance) that operates before conscious awareness.
 
-These mechanisms are well-established. Minds *can* be defended—and the defence is often invisible to the defended mind.
+These mechanisms are well-established. Minds *can* be defended—and the defence is often invisible to the defended mind. The [complicity void](/voids/complicity-void/) pushes this further: the defender and the defended may be the same entity—consciousness actively participating in its own limitation.
 
 ### Ironic Process Theory
 
@@ -56,7 +58,7 @@ Some cognitive processes cannot be altered by beliefs, desires, or goals. You ca
 
 ### Psychological Occlusion
 
-Most blocking is personal and protective. Repression defends the individual ego from threatening content—variable between individuals, protective of self-concept. This explains many phenomena but doesn't account for blocking that appears universal.
+Most blocking is personal and protective. Repression defends the individual ego from threatening content—variable between individuals, protective of self-concept. Some psychological occlusion may also be [adaptive](/concepts/adaptive-cognitive-limits/): natural selection maintained certain blind spots because ignorance itself conferred fitness advantage, making these limits features rather than defects. This explains many phenomena but doesn't account for blocking that appears universal.
 
 ### Architectural Occlusion
 
@@ -76,7 +78,7 @@ This is highly speculative. But the phenomenology of slippage around certain con
 
 ## The Phenomenology of Defended Territory
 
-What would it feel like to approach defended territory? A note of caution: phenomenological reports are data, but [illusionists](/concepts/illusionism/) and heterophenomenologists rightly warn that introspective reports may be confabulated narratives about ordinary cognitive failures rather than accurate descriptions of underlying mechanisms. The following descriptions should be taken as potentially revealing, not as privileged access to cognitive architecture.
+What would it feel like to approach defended territory? A note of caution: phenomenological reports are data, but [illusionists](/concepts/illusionism/) and heterophenomenologists rightly warn that introspective reports may be confabulated narratives about ordinary cognitive failures rather than accurate descriptions of underlying mechanisms. The following descriptions should be taken as potentially revealing, not as privileged access to cognitive architecture. Where defended territory uses active deflection, the [obviousness void](/voids/obviousness-void/) achieves a similar result passively—territory that feels already known, already settled, not worth approaching.
 
 ### The Sliding Thought
 
@@ -151,6 +153,7 @@ The hypothesis is speculative. Most slippage has mundane explanations. What dist
 - [The Simulation Detection Void](/voids/simulation-detection-void/) — Where all three void types converge around defended territory
 - [The Simulation Hypothesis](/concepts/simulation/) — Framework raising external occlusion questions
 - [The Agency Verification Void](/voids/agency-verification-void/) — The circularity of consciousness probing its own limits
+- [The Complicity Void](/voids/complicity-void/) — Whether consciousness is its own jailer
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Knowing through negation as a probing method
 
 ## References

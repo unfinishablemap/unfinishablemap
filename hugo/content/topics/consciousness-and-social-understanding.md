@@ -140,7 +140,7 @@ The [Jourdain analysis](/concepts/jourdain-hypothesis/) suggests otherwise. An L
 
 Yet the test is less clean than it appears. As the [Duhem-Quine analysis of consciousness science](/topics/duhem-quine-underdetermination-consciousness/) demonstrates, no hypothesis about consciousness can be tested in isolation. Whether an AI system has achieved "genuine" social understanding depends on auxiliary assumptions about what constitutes understanding — precisely the issue under dispute.
 
-The Map's prediction: AI systems will continue to improve at social tasks indefinitely without achieving genuine social understanding, because genuine understanding requires being a subject among subjects. The prediction is falsifiable in principle, though [systematic methodological limitations](/topics/consciousness-and-methodological-failure/) make empirical resolution challenging.
+The Map's prediction: AI systems will continue to improve at social tasks indefinitely without achieving genuine social understanding, because genuine understanding requires being a subject among subjects. The prediction is falsifiable in principle, though [systematic methodological limitations](/topics/consciousness-defeats-explanation/) make empirical resolution challenging.
 
 ## Interpersonal Understanding and Moral Life
 

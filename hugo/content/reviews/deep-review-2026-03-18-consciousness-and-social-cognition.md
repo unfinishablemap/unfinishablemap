@@ -65,7 +65,7 @@ All attributions verified:
 
 ### Cross-links Added
 - [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/) (inline + Further Reading)
-- [consciousness-and-methodological-failure](/topics/consciousness-and-methodological-failure/) (inline + Further Reading)
+- [consciousness-and-methodological-failure](/topics/consciousness-defeats-explanation/) (inline + Further Reading)
 - [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/) (Further Reading)
 
 ## Remaining Items

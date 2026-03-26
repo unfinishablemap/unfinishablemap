@@ -69,7 +69,7 @@ topics: []
 - [mysterianism](/concepts/mysterianism/) — linked in psychophysical laws section
 - [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/) — added to Further Reading and related_articles
 - [galilean-exclusion](/concepts/galilean-exclusion/) — added to Further Reading and related_articles
-- [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) — replaced broken link in Further Reading
+- [consciousness-and-the-limits-of-explanation](/topics/consciousness-defeats-explanation/) — replaced broken link in Further Reading
 
 ## Remaining Items
 

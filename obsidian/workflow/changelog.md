@@ -5,6 +5,13 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 15:06 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/consciousness-and-the-limits-of-explanation]], [[topics/consciousness-and-methodological-failure]]
+- **Target**: [[topics/consciousness-defeats-explanation]]
+- **Archived**: [[archive/topics/consciousness-and-the-limits-of-explanation]], [[archive/topics/consciousness-and-methodological-failure]]
+- **References to review**: 15 active content files
+
 ## 2026-03-26 14:53 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/defended-territory]]

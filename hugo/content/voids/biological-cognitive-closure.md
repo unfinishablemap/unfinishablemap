@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-03-23 23:18:00+00:00
+ai_modified: 2026-03-26 14:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -91,7 +91,7 @@ Hoffman, Singh, and Prakash's Fitness-Beats-Truth theorem proves mathematically 
 
 ### Adaptive Limitation Beyond Perception
 
-The FBT theorem addresses perception, but adaptive limits extend further. Gigerenzer's ecological rationality identifies "less-is-more" effects where ignoring available information leads to better decisions. Trivers argues self-deception evolved to facilitate interpersonal deception — some truths are actively hidden from consciousness. Field and Bonsall (2018) prove formally that information's reproductive value can become negative: remaining ignorant sometimes yields higher fitness.
+The FBT theorem addresses perception, but adaptive limits extend further. Gigerenzer's ecological rationality identifies "less-is-more" effects where ignoring available information leads to better decisions. Trivers argues self-deception evolved to facilitate interpersonal deception — some truths are actively hidden from consciousness. The [complicity void](/voids/complicity-void/) examines whether this active concealment implicates consciousness itself as participant rather than mere victim. Field and Bonsall (2018) prove formally that information's reproductive value can become negative: remaining ignorant sometimes yields higher fitness.
 
 ## Developmental Limits: What Growing Up Closes
 
@@ -121,7 +121,7 @@ Even if LLMs form representations outside human concept space, communication may
 
 Different biological sources produce different phenomenological signatures, mapped systematically in the [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/).
 
-**Architectural limits generate frustration** — trying and failing to think something, documented in the Map's [topology of cognitive failure](/voids/compound-failure-signatures/). **Adaptive limits generate satisfaction** — the limit feels like completion, not obstruction. Hoffman's work suggests the deepest form: the perceptual interface hides voids seamlessly, producing illusory comprehension connected to [phenomenal transparency](/concepts/phenomenal-transparency/). **Developmental closure leaves no trace** — you cannot know what it was like to perceive faces without race categories. The word for this is [inventory-blindness](/concepts/inventory-blindness/).
+**Architectural limits generate frustration** — trying and failing to think something, documented in the Map's [topology of cognitive failure](/voids/compound-failure-signatures/). **Adaptive limits generate satisfaction** — the limit feels like completion, not obstruction, producing an [obviousness void](/voids/obviousness-void/) at the species level. Hoffman's work suggests the deepest form: the perceptual interface hides voids seamlessly, producing illusory comprehension connected to [phenomenal transparency](/concepts/phenomenal-transparency/). **Developmental closure leaves no trace** — you cannot know what it was like to perceive faces without race categories. The word for this is [inventory-blindness](/concepts/inventory-blindness/).
 
 Buddhist, Hindu, and Western contemplative traditions all report that self-investigation reaches a point where the investigator cannot be found. The consistent phenomenology across traditions suggests a species-level feature of self-directed cognition.
 

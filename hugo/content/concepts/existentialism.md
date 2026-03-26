@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-30
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-26 14:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -116,7 +116,7 @@ Sartre's concept of *mauvaise foi* (bad faith) illuminates the peculiar self-dec
 
 Bad faith is not ordinary lying. It is self-deception in which I am simultaneously deceiver and deceived. This paradoxical structure presupposes the pour-soi: only a being that is not identical with itself can deceive itself. A thing cannot be in bad faith because it cannot distance itself from what it is.
 
-For the Map's framework, bad faith demonstrates consciousness's irreducibility. Materialist accounts struggle to explain how a physical system can deceive itself—deception requires a deceiver and a deceived, which seems to multiply subjects. But the pour-soi's self-distance provides exactly this structure without multiplication: the same consciousness can simultaneously know and flee from its freedom.
+For the Map's framework, bad faith demonstrates consciousness's irreducibility. Materialist accounts struggle to explain how a physical system can deceive itself—deception requires a deceiver and a deceived, which seems to multiply subjects. But the pour-soi's self-distance provides exactly this structure without multiplication: the same consciousness can simultaneously know and flee from its freedom. The [complicity void](/voids/complicity-void/) extends this analysis: if bad faith is not an occasional failure but a permanent structural possibility, consciousness may be systematically complicit in maintaining its own cognitive limits—jailer and prisoner in the same act.
 
 This connects to [witness-consciousness](/concepts/witness-consciousness/). The capacity to observe one's thoughts without identification—cultivated in contemplative practice—is the antidote to bad faith. The witness stance is pour-soi purified: awareness aware of itself, not collapsed into any particular content. Existentialist authenticity and contemplative witnessing converge on the same structure of non-identified awareness.
 
@@ -178,6 +178,7 @@ The existentialist-dualist alignment would face difficulty if:
 - [mysterianism](/concepts/mysterianism/) — The possibility that consciousness is cognitively closed to us
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist perspectives on self and consciousness
 - [The Ownership Void](/voids/ownership-void/) — Why mineness hides from the subject who bears it
+- [The Complicity Void](/voids/complicity-void/) — Whether consciousness actively maintains its own limits through bad faith
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effortful attention
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — How dwelling, mood, and being-in-the-world manifest in the felt character of places
 - [tenets](/tenets/) — The Map's foundational commitments

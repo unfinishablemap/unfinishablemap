@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-23
-**Article**: [Consciousness and the Limits of Explanation](/topics/consciousness-and-the-limits-of-explanation/)
+**Article**: [Consciousness and the Limits of Explanation](/topics/consciousness-defeats-explanation/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -118,7 +118,7 @@ As the Map explores in [methodology-of-consciousness-research](/topics/methodolo
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
 - [knowledge-argument](/concepts/knowledge-argument/)
-- [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/)
+- [consciousness-and-the-limits-of-explanation](/topics/consciousness-defeats-explanation/)
 - [measurement-void](/voids/measurement-void/)
 
 ## References

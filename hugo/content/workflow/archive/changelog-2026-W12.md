@@ -6997,7 +6997,7 @@ topics: []
 ## 2026-03-16 10:17 UTC - coalesce
 - **Status**: Success
 - **Sources**: [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-methodological-failure/), [consciousness-and-the-problem-of-philosophical-progress](/topics/consciousness-and-methodological-failure/)
-- **Target**: [consciousness-and-methodological-failure](/topics/consciousness-and-methodological-failure/)
+- **Target**: [consciousness-and-methodological-failure](/topics/consciousness-defeats-explanation/)
 - **Archived**: archive/topics/consciousness-and-the-problem-of-theoretical-virtues.md, archive/topics/consciousness-and-the-problem-of-philosophical-progress.md
 - **References updated**: 13 files (wikilinks in active content updated to new slug)
 - **References to review**: none (all active content wikilinks updated)

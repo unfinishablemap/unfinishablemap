@@ -25,7 +25,7 @@ topics: []
 
 Reviewed against:
 - [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/)
-- [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/)
+- [consciousness-and-the-limits-of-explanation](/topics/consciousness-defeats-explanation/)
 - [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-methodological-failure/)
 - [consciousness-and-the-phenomenology-of-framework-dependence](/topics/phenomenology-of-framework-inhabitation/)
 - [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/)
@@ -72,7 +72,7 @@ Reviewed against:
 
 ### Cross-links Added (reciprocal, in related articles)
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) → duhem-quine
-- [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) → duhem-quine
+- [consciousness-and-the-limits-of-explanation](/topics/consciousness-defeats-explanation/) → duhem-quine
 - [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-methodological-failure/) → duhem-quine
 - [consciousness-and-the-phenomenology-of-framework-dependence](/topics/phenomenology-of-framework-inhabitation/) → duhem-quine
 - [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/) → duhem-quine

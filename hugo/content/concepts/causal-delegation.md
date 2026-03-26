@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-03-20 19:44:00+00:00
+ai_modified: 2026-03-26 14:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,13 +16,12 @@ concepts:
 - '[[observational-closure]]'
 created: 2026-03-04
 date: &id001 2026-03-04
-description: Causal delegation is the mechanism by which physical brain states hand
-  off their causal responsibilities to conscious experiences, addressing the exclusion
-  problem without overdetermination.
+description: 'Causal delegation: physical brain states hand off causal work to conscious
+  experiences, addressing the exclusion problem without overdetermination.'
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-04 10:31:00+00:00
+last_deep_review: 2026-03-26 14:45:00+00:00
 modified: *id001
 related_articles:
 - '[[delegatory-dualism]]'
@@ -87,6 +86,8 @@ This means delegation's case rests on philosophical argument rather than empiric
 ## Relation to Site Perspective
 
 Causal delegation supports multiple tenets of the Map's framework.
+
+**Dualism**: Delegation presupposes the Map's [first tenet](/tenets/#dualism)—that consciousness is not reducible to physical processes. Only if experiences are ontologically distinct from brain states can they *take over* causal work rather than merely being redescriptions of it. Constitution models collapse this distinction; delegation requires it.
 
 **Bidirectional Interaction**: Delegation provides the causal structure for the Map's [third tenet](/tenets/#bidirectional-interaction). Consciousness causally influences the physical world—not by adding a competing cause alongside physical states, but by taking over causal work those states would otherwise perform. Reports about consciousness are genuinely caused by conscious experiences, avoiding the self-undermining implications of epiphenomenalism.
 

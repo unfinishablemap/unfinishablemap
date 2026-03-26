@@ -169,6 +169,7 @@ This is not uncomfortable compromise but honest assessment. Certainty about exte
 - [infant-consciousness](/voids/infant-consciousness/) — The void within: why your own infant experience is the most alien other mind
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/) — Testimony presupposes what the other minds void questions: the consciousness of the speaker
 - [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) — Whether consciousness is constitutively shaped by encounter with other minds
+- [commensurability-void](/voids/commensurability-void/) — Even with access to other minds, experiences across radically different architectures may resist comparison entirely
 - [indexical-void](/voids/indexical-void/) — Why first-person identity resists explanation
 
 ## References

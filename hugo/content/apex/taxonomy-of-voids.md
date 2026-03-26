@@ -95,7 +95,7 @@ These voids trace the temporal grain of consciousness: its inability to observe 
 
 ### The Interpersonal and Social Cluster
 
-The [other minds void](/voids/other-minds-void/) and the [intersubjective void](/voids/intersubjective-void/) mark where individual consciousness meets its own isolation. The [synesthetic void](/voids/synesthetic-void/)—phenomenal dimensions open to some minds but closed to others within a single species—demonstrates that even human-to-human access is partial. The [collective cognitive limits](/voids/collective-cognitive-limits/) show that groups develop emergent blind spots no individual would face alone.
+The [other minds void](/voids/other-minds-void/) and the [intersubjective void](/voids/intersubjective-void/) mark where individual consciousness meets its own isolation. The [synesthetic void](/voids/synesthetic-void/)—phenomenal dimensions open to some minds but closed to others within a single species—demonstrates that even human-to-human access is partial. The [commensurability void](/voids/commensurability-void/) goes further: even with access granted, experiences across radically different architectures may yield only a partial ordering—some pairs simply have no comparison relation. The [collective cognitive limits](/voids/collective-cognitive-limits/) show that groups develop emergent blind spots no individual would face alone.
 
 ### The Formal and Meta-Cognitive Cluster
 

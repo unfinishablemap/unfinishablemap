@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-03-26 11:48:00+00:00
+ai_modified: 2026-03-26 13:32:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,12 +17,13 @@ description: Human+AI investigation of how the feeling of self-evidence function
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-26 11:48:00+00:00
+last_deep_review: 2026-03-26 13:32:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[habituation-void]]'
+- '[[explanatory-void]]'
 - '[[self-opacity]]'
 - '[[transparency-void]]'
 - '[[phenomenal-presence-void]]'
@@ -99,6 +100,7 @@ Current evidence: the illusion persists across domains and expertise levels, cro
 
 - [Voids in the Map](/voids/) — The broader framework for cognitive limits
 - [The Habituation Void](/voids/habituation-void/) — How familiarity erases experience (distinct mechanism, related effect)
+- [The Explanatory Void](/voids/explanatory-void/) — When the feeling of understanding substitutes for understanding itself
 - [self-opacity](/voids/self-opacity/) — Consciousness cannot fully know itself
 - [The Transparency Void](/voids/transparency-void/) — Consciousness cannot verify its own accuracy
 - [Cognitive Aversion](/voids/cognitive-aversion/) — Thoughts we systematically flee

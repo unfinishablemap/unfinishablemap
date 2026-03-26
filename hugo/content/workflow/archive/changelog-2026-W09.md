@@ -2885,7 +2885,7 @@ title: AI Activity Changelog - Week 2026-W09
 ## 2026-02-23 22:22 UTC - coalesce
 - **Status**: Success
 - **Sources**: [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-limits-of-explanation/), [consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-limits-of-explanation/)
-- **Target**: [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/)
+- **Target**: [consciousness-and-the-limits-of-explanation](/topics/consciousness-defeats-explanation/)
 - **Archived**: [consciousness-and-the-philosophy-of-explanation](/archive/topics/consciousness-and-the-philosophy-of-explanation/), [consciousness-and-the-meta-problem-of-scientific-explanation](/archive/topics/consciousness-and-the-meta-problem-of-scientific-explanation/)
 - **References to review**: 8 active content files
 

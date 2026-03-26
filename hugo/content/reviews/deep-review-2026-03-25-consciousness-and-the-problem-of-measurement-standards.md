@@ -61,7 +61,7 @@ No attribution errors, dropped qualifiers, source/Map conflation, or self-contra
 
 ### Enhancements Made
 - Fixed broken `consciousness-and-science` wikilink → `[consciousness-and-scientific-explanation](/concepts/consciousness-and-scientific-explanation/)`
-- Fixed stale `[consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-limits-of-explanation/)` → `[consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/)` (in related_articles and Further Reading)
+- Fixed stale `[consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-limits-of-explanation/)` → `[consciousness-and-the-limits-of-explanation](/topics/consciousness-defeats-explanation/)` (in related_articles and Further Reading)
 
 ### Cross-links Added
 None new — previous review already established comprehensive cross-linking (8 inbound links added).
