@@ -154,6 +154,7 @@ Empathy has structural limits even at its best—it simulates rather than shares
 - [[consciousness-and-testimony]] — Testimony requires consciousness yet cannot fully convey it
 - [[consciousness-and-intersubjectivity]] — Whether consciousness is constitutively shaped by encounter with other minds
 - [[consciousness-and-the-limits-of-explanation]] — Why explanation presupposes the phenomenal understanding that social epistemology cannot validate
+- [[commensurability-void]] — When architectures diverge radically, comparison itself becomes structurally impossible—not merely difficult
 
 ## References
 

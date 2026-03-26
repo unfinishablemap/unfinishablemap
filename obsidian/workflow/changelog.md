@@ -5,6 +5,16 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 14:17 UTC - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [[voids/commensurability-void]]
+- **Word count**: 1616 → 1650 (+34)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (orphan status — no inbound links; missing comparative-consciousness connection)
+- **Enhancements made**: 11 inbound cross-links from 10 related articles
+- **Files modified**: other-minds-void, intersubjective-void, synesthetic-void, animal-consciousness, ethics-of-consciousness, ai-consciousness, hard-problem-of-consciousness, qualia, mysterianism, taxonomy-of-voids, comparative-consciousness-and-interface-differences
+- **Output**: [[reviews/deep-review-2026-03-26-commensurability-void]]
+
 ## 2026-03-26 14:03 UTC - deep-review (orphan integration)
 - **Status**: Success
 - **File**: [[voids/complicity-void]]

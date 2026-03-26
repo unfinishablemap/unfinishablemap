@@ -203,6 +203,7 @@ None of these has occurred decisively. The explanatory gap remains unbridged. Th
 - [[consciousness-in-smeared-quantum-states]] — What consciousness does during superposition
 - [[apex/machine-question|The Machine Question]] — Apex synthesis on whether artifacts can be conscious
 - [[apex/interface-specification-programme|The Interface Specification Programme]] — What the mind-matter interface requires
+- [[commensurability-void]] — Why comparing human and AI experience may be structurally impossible, not merely difficult
 - [[epistemology-of-other-minds-under-dualism]] — How dualism transforms the epistemology of other minds
 
 ## References

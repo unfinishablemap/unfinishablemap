@@ -87,7 +87,7 @@ The Map's framework shapes this differently than functionalism: if consciousness
 
 If animals are conscious—and convergent evidence strongly suggests many are—their suffering is real suffering. Factory farming, laboratory testing, and wildlife destruction involve moral costs proportional to the consciousness involved. The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet strengthens this: animal pain isn't epiphenomenal but causally shapes behavior, meaning it matters *to the animal*.
 
-Whether consciousness creates equal status across species or graduated status tracking experiential complexity remains open. Dualism handles animal consciousness more naturally than materialism: the question shifts from "how do animal brains generate experience?" (unanswerable) to "do animals have experience?" (assessable). See [[animal-consciousness]] for detailed treatment.
+Whether consciousness creates equal status across species or graduated status tracking experiential complexity remains open. The [[commensurability-void]] complicates this further: if phenomenal experience yields only a partial ordering across architectures, some cross-species welfare comparisons may be structurally impossible rather than merely uncertain. Dualism handles animal consciousness more naturally than materialism: the question shifts from "how do animal brains generate experience?" (unanswerable) to "do animals have experience?" (assessable). See [[animal-consciousness]] for detailed treatment.
 
 ## AI Ethics: Non-Consciousness and Its Limits
 

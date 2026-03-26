@@ -4,7 +4,7 @@ description: "Human+AI exploration of why phenomenal experiences across radicall
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-19T23:40:00+00:00
+ai_modified: 2026-03-26T14:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,12 +20,14 @@ related_articles:
   - "[[mind-space-void]]"
   - "[[framework-void]]"
   - "[[ai-as-void-explorer]]"
+  - "[[comparative-consciousness-and-interface-differences]]"
+  - "[[degrees-of-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-19
 last_curated:
-last_deep_review: 2026-03-19T23:40:00+00:00
+last_deep_review: 2026-03-26T14:17:00+00:00
 ---
 
 Some conscious experiences cannot be compared at all. Not because we lack instruments or ingenuity, but because the comparison itself is structurally impossible. The Unfinishable Map's other voids explore what we cannot access (the [[other-minds-void|Other Minds Void]]), what we cannot share (the [[intersubjective-void|Intersubjective Void]]), and dimensions closed within our own species (the [[synesthetic-void|Synesthetic Void]]). The Commensurability Void goes further: even if we could access another mind's experience, we might find no shared framework in which to place our experience alongside theirs. Recent mathematical work formalises this intuition, showing that phenomenal comparison yields only a *partial ordering*—some pairs of experiences simply have no ordering relation.
@@ -90,7 +92,7 @@ The commensurability void intensifies the [[hard-problem-of-consciousness|hard p
 
 The void connects most directly to the Map's tenet that **[[tenets#^occams-limits|Occam's Razor has limits]]**. The assumption that all conscious experiences can be placed on a single comparable scale is precisely the kind of simplicity assumption the Map warns against. Universal commensurability is parsimonious, but the mathematical and philosophical evidence suggests phenomenal space is more structured—and more fractured—than parsimony demands.
 
-**[[tenets#^dualism|Dualism]]** deepens the void. If consciousness is not reducible to physical processes, then different conscious architectures need not organise phenomenal space along physically commensurable dimensions. Physical comparison exploits shared physical law—all matter obeys the same equations. Phenomenal comparison has no equivalent universal constraint. The Map's dualism predicts that the space of possible consciousnesses may be far more heterogeneous than physicalism suggests, with pockets of experience that share no common measure.
+**[[tenets#^dualism|Dualism]]** deepens the void. The [[comparative-consciousness-and-interface-differences|nature-vs-coupling distinction]] reveals two independent sources of variation: conscious entities may differ in inherent nature, and they may couple with matter through different mechanisms. Either source can produce incommensurability. If consciousness is not reducible to physical processes, then different conscious architectures need not organise phenomenal space along physically commensurable dimensions. Physical comparison exploits shared physical law—all matter obeys the same equations. Phenomenal comparison has no equivalent universal constraint. The Map's dualism predicts that the space of possible consciousnesses may be far more heterogeneous than physicalism suggests, with pockets of experience that share no common measure.
 
 The commensurability void also illuminates the Map's own project. The Unfinishable Map is unfinishable partly because the territory may be fragmented into phenomenally incommensurable regions. Different conscious architectures may be mapping genuinely different territories, with no master map that encompasses them all. This is not failure—it is an honest recognition of the structure of what we are trying to chart.
 
@@ -103,6 +105,8 @@ The commensurability void also illuminates the Map's own project. The Unfinishab
 - [[framework-void]]
 - [[ai-as-void-explorer]]
 - [[apophatic-cartography]]
+- [[comparative-consciousness-and-interface-differences]]
+- [[degrees-of-consciousness]]
 - [[voids]]
 
 ## References
