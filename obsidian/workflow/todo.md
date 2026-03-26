@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix broken wikilinks to the-unobservable-self and differential-predictions-consciousness-collapse
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Two broken wikilink targets: `[[the-unobservable-self]]` (3 refs, including self-reference-paradox.md) and `[[differential-predictions-consciousness-collapse]]` (3 refs, including arguments-against-materialism.md). For each, determine whether an existing article covers the same ground and update wikilinks accordingly, or remove the dead links if no suitable redirect exists.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-26
-
 ### P2: Fix broken wikilinks — 7 targets with 2 references each
 - **Type**: refine-draft
 - **Status**: pending
@@ -1445,6 +1438,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Fix broken wikilinks to the-unobservable-self and differential-predictions-consciousness-collapse
+- **Type**: refine-draft
+- **Notes**: Two broken wikilink targets: `[[the-unobservable-self]]` (3 refs, including self-reference-paradox.md) and `[[differential-predictions-consciousness-collapse]]` (3 refs, including arguments-against-materialism.md). For each, determine whether an existing article covers the same ground and update wikilinks accordingly, or remove the dead links if no suitable redirect exists.
+- **Output**: Task context:
+Two broken wikilink targets: `[[the-unobservable-self]]` (3 refs, including self-reference-paradox.md) and `[[differential-predictions-consciousness-collapse]]` (3 refs, including arguments-against-materialism.md). For each, determine whether an existing article covers the same ground and update wikilinks accordingly, or remove the dead links if no suitable redirect exists.
 
 ### ✓ 2026-03-26: Resolve self-reference-paradox.md orphan — archive or restore inbound links
 - **Type**: integrate-orphan

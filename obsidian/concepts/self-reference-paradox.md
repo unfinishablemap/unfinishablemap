@@ -4,7 +4,7 @@ description: "Consciousness trying to understand itself faces structural obstacl
 created: 2026-03-23
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-03-26T04:46:00+00:00
+ai_modified: 2026-03-26T05:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,6 @@ related_articles:
   - "[[self-opacity]]"
   - "[[incompleteness-void]]"
   - "[[recursion-void]]"
-  - "[[the-unobservable-self]]"
   - "[[destabilizing-self-knowledge]]"
   - "[[apophatic-approaches]]"
   - "[[phenomenal-transparency]]"
@@ -89,7 +88,7 @@ Not all self-reference failures are alike. The paradox manifests in at least thr
 
 **Recursive limits** arise from the finite depth of self-referential processing. Humans can manage roughly five orders of intentionality ("I believe that you suppose that I imagine that she thinks that he wants...") before [[metacognition]] collapses. This is not a formal impossibility but a practical ceiling imposed by working memory and neural architecture.
 
-Whether these three categories reduce to a single underlying constraint or represent genuinely independent sources of limitation remains an open question. The [[the-unobservable-self|unobservable self]] explores the possibility that they converge.
+Whether these three categories reduce to a single underlying constraint or represent genuinely independent sources of limitation remains an open question—one that bears directly on whether the self-reference paradox is a single void or a family of related limits.
 
 ## Relation to Site Perspective
 
@@ -111,7 +110,6 @@ The self-reference paradox directly supports several of the Map's [[tenets]].
 - [[self-and-self-consciousness]]
 - [[incompleteness-void]]
 - [[recursion-void]]
-- [[the-unobservable-self]]
 - [[self-reference-and-the-limits-of-physical-description]]
 - [[destabilizing-self-knowledge]]
 - [[apophatic-approaches]]

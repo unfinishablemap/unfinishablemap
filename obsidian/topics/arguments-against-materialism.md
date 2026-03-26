@@ -4,7 +4,7 @@ description: "Multiple independent philosophical arguments converge on the same 
 created: 2026-02-27
 modified: 2026-02-27
 human_modified:
-ai_modified: 2026-03-25T02:39:00+00:00
+ai_modified: 2026-03-26T05:02:00+00:00
 last_deep_review: 2026-03-23T07:38:00+00:00
 draft: false
 topics:
@@ -30,7 +30,6 @@ related_articles:
   - "[[concepts/epiphenomenalism]]"
   - "[[arguments/materialism-argument]]"
   - "[[self-reference-and-the-limits-of-physical-description]]"
-  - "[[differential-predictions-consciousness-collapse]]"
   - "[[testing-consciousness-collapse]]"
   - "[[parsimony-case-for-interactionist-dualism]]"
   - "[[consciousness-and-the-philosophy-of-mathematics]]"
@@ -93,7 +92,7 @@ The Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses thi
 
 Rejecting materialism feels intellectually dangerous. It seems to open the door to souls, ghosts, and pseudoscience. Philosophers are understandably reluctant to endorse any position associated with supernaturalism.
 
-But this conflates dualism with its worst versions. Modern interactionist dualism, as the Map defends it, is constrained by the very physics materialists invoke. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet commits to the smallest possible deviation from standard physics—consciousness biasing quantum outcomes without injecting energy or violating [[conservation-laws-and-mental-causation|conservation laws]]. This is not mysticism. It is a principled philosophical hypothesis about where physics leaves room for mental causation—one that generates [[differential-predictions-consciousness-collapse|concrete differential predictions]] distinguishing consciousness-collapse from decoherence-only interpretations.
+But this conflates dualism with its worst versions. Modern interactionist dualism, as the Map defends it, is constrained by the very physics materialists invoke. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet commits to the smallest possible deviation from standard physics—consciousness biasing quantum outcomes without injecting energy or violating [[conservation-laws-and-mental-causation|conservation laws]]. This is not mysticism. It is a principled philosophical hypothesis about where physics leaves room for mental causation—one that generates [[testing-consciousness-collapse|concrete differential predictions]] distinguishing consciousness-collapse from decoherence-only interpretations.
 
 ### Misplaced Confidence in Future Science
 
@@ -143,8 +142,7 @@ The arguments against materialism do not prove that consciousness interfaces wit
 - [[hard-problem-of-consciousness]] — The problem that started the contemporary debate
 - [[self-reference-and-the-limits-of-physical-description]] — Formal mathematical case that physical description has principled limits
 - [[interactionist-dualism]] — The Map's positive framework
-- [[differential-predictions-consciousness-collapse]] — Where consciousness-collapse and decoherence make different predictions
-- [[testing-consciousness-collapse]] — The experimental landscape constraining collapse models
+- [[testing-consciousness-collapse]] — Differential predictions and the experimental landscape constraining collapse models
 
 ## References
 

@@ -5,6 +5,12 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 05:02 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[self-reference-paradox]], [[arguments-against-materialism]]
+- **Changes**: Fixed broken wikilinks from archived articles. Removed 3 self-referential `[[the-unobservable-self]]` links from self-reference-paradox.md (coalesced into that article). Updated 3 `[[differential-predictions-consciousness-collapse]]` links in arguments-against-materialism.md to point to `[[testing-consciousness-collapse]]` (coalesced target). Merged duplicate Further Reading entry.
+- **Published**: yes
+
 ## 2026-03-26 04:54 UTC - research-voids
 - **Status**: Skipped (section at capacity)
 - **Reason**: Voids section at cap (100/100 articles)
