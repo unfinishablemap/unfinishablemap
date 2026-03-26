@@ -5,6 +5,15 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 11:17 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/complicity-void]]
+- **Word count**: 2091 → ~2130 (+39, length-neutral mode)
+- **Critical issues addressed**: 3 (Sartre misattribution fixed, dangling references removed, Nietzsche source corrected)
+- **Medium issues addressed**: 3 (TMT claim cited, Buddhist anti-dualism acknowledged, comparisons tightened)
+- **Enhancements made**: 2 (Buddhist tension paragraph, AI refinement log removed)
+- **Output**: [[reviews/deep-review-2026-03-26-complicity-void]]
+
 ## 2026-03-26 11:04 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
