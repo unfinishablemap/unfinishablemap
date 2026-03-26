@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-26T10:47:00+00:00
+ai_modified: 2026-03-26T14:32:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review defended-territory.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Voids article last reviewed 2026-02-25 (29 days ago), modified today via cross-link additions. The defended-territory void explores cognitive spaces people resist entering — directly relevant to Tenet 5 (Occam's Razor Has Limits). Verify coherence, accuracy of cognitive resistance claims, cross-references to recent voids articles (complicity-void, obviousness-void, cognitive-aversion), and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-26
+
+### P2: Deep review illusionism.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Key competitor theory concept page, last reviewed 2026-03-04 (22 days ago), modified today. Illusionism is the Map's primary dialectical opponent — the site's arguments against it (self-stultification, regress) need to engage with Frankish's latest functional-seeming response. Pessimistic review (2026-03-20) flagged that quantum mechanism articles use the same regress argument without engaging Frankish. Verify the concept page itself handles this adequately, check cross-references to epiphenomenalism and functionalism, and ensure tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-26
+
+### P2: Deep review argument-from-reason.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Core tenet-supporting article, last reviewed 2026-03-05 (21 days ago), modified today via cross-link additions. The argument from reason is central to Tenet 1 (Dualism) — if reasoning requires consciousness, physicalism undermines its own rational basis. Verify the self-defeat argument's logical structure, accuracy of cited positions (Plantinga, Lewis, Reppert), cross-references to recent articles (pragmatism, cognitive-phenomenology, consciousness-and-the-limits-of-explanation), and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-26
+
+### P2: Research recent (2025-2026) experimental consciousness science developments
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: The Map's empirical claims span quantum biology, anaesthesia, neuroplasticity, and contemplative neuroscience. Recent (2025-2026) experimental advances may strengthen or challenge key claims. Priority targets: (1) integrated information theory (IIT) empirical tests (Adversarial Collaboration results), (2) quantum coherence in biological systems updates, (3) anaesthetic mechanism refinements, (4) consciousness detection in disorders of consciousness. Output: research note cataloguing findings relevant to the five tenets.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-26
 
 ### P3: Qualify selection trilemma and Schwartz OCD claims in attention-and-the-consciousness-interface
 - **Type**: refine-draft
