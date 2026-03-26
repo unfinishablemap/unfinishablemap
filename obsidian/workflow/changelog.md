@@ -5,6 +5,15 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 13:02 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/consciousness-as-amplifier]]
+- **Word count**: 3472 → 3468 (-4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing citations: Miller 1956, Frankish 2016, Suddendorf & Corballis 2007)
+- **Enhancements made**: 3 references added, compensating prose cuts
+- **Output**: [[reviews/deep-review-2026-03-26-consciousness-as-amplifier]]
+
 ## 2026-03-26 12:57 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/pragmatism]]
