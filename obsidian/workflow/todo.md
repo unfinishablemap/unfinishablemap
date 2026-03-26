@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review illusionism.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Key competitor theory concept page, last reviewed 2026-03-04 (22 days ago), modified today. Illusionism is the Map's primary dialectical opponent — the site's arguments against it (self-stultification, regress) need to engage with Frankish's latest functional-seeming response. Pessimistic review (2026-03-20) flagged that quantum mechanism articles use the same regress argument without engaging Frankish. Verify the concept page itself handles this adequately, check cross-references to epiphenomenalism and functionalism, and ensure tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-26
-
 ### P2: Deep review argument-from-reason.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1467,6 +1460,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Deep review illusionism.md
+- **Type**: deep-review
+- **Notes**: Key competitor theory concept page, last reviewed 2026-03-04 (22 days ago), modified today. Illusionism is the Map's primary dialectical opponent — the site's arguments against it (self-stultification, regress) need to engage with Frankish's latest functional-seeming response. Pessimistic review (2026-03-20) flagged that quantum mechanism articles use the same regress argument without engaging Frankish. Verify the concept page itself handles this adequately, check cross-references to epiphenomenalism and functionalism, and ensure tenet alignment.
+- **Output**: obsidian/concepts/illusionism.md
 
 ### ✓ 2026-03-26: Update references to coalesced explanation/methodology articles
 - **Type**: cross-review
