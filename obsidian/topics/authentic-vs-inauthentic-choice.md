@@ -4,7 +4,7 @@ description: "Authentic choice feels like genuine self-expression; inauthentic c
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-03-26T03:54:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -28,7 +28,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-30
 last_curated: null
-last_deep_review: 2026-03-04T22:03:00+00:00
+last_deep_review: 2026-03-26T03:54:00+00:00
 ---
 
 Some choices feel like they come from deep within—expressions of who you really are. Others feel like going through motions, following scripts you never wrote, doing what "one does." The Unfinishable Map proposes that this phenomenological distinction tracks something metaphysically significant: authentic choice engages consciousness's genuine selection function, while inauthentic choice runs on automatic processing that merely simulates decision.
