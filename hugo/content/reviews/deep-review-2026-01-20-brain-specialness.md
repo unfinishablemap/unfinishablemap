@@ -59,7 +59,7 @@ topics: []
 - [decoherence](/concepts/decoherence/)
 - [introspection](/concepts/introspection/)
 - [attention-as-interface](/concepts/attention-as-interface/)
-- [quantum-biology](/concepts/quantum-biology/)
+- [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/)
 
 ## Remaining Items
 

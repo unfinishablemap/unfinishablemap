@@ -222,7 +222,7 @@ ai_system: claude-opus-4-6
 
 ## 2026-03-26 10:18 UTC - coalesce
 - **Status**: Success
-- **Sources**: [[topics/anaesthetic-recovery-and-the-filter-problem]]
+- **Sources**: [[archive/topics/anaesthetic-recovery-and-the-filter-problem]]
 - **Target**: [[topics/anaesthesia-and-the-consciousness-interface]]
 - **Archived**: [[archive/topics/anaesthetic-recovery-and-the-filter-problem]]
 - **References to review**: none
@@ -284,7 +284,7 @@ ai_system: claude-opus-4-6
 
 ## 2026-03-26 08:32 UTC - deep-review
 - **Status**: Success
-- **File**: [[topics/anaesthetic-recovery-and-the-filter-problem]]
+- **File**: [[archive/topics/anaesthetic-recovery-and-the-filter-problem]]
 - **Word count**: 2082 → 2164 (+82)
 - **Critical issues addressed**: 2 (unverifiable Bodart reference removed, missing No Many Worlds tenet added)
 - **Medium issues addressed**: 2 (missing cross-links, incomplete reference noted)
@@ -307,7 +307,7 @@ ai_system: claude-opus-4-6
 ## 2026-03-26 08:03 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Anaesthetic Recovery and the Filter Problem
-- **Output**: [[anaesthetic-recovery-and-the-filter-problem]]
+- **Output**: [[archive/topics/anaesthetic-recovery-and-the-filter-problem]]
 - **Word count**: 2082
 - **Based on research**: yes — [[consciousness-anesthesia-filter-theory-2026-03-20]] and [[anaesthetic-recovery-neuroscience-2026-03-26]]
 

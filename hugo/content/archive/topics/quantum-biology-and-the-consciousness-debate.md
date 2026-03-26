@@ -54,7 +54,7 @@ The objection hasn't merely weakened; it has inverted. We now know evolution can
 
 ## What Neural Mechanisms Exist?
 
-Five distinct [quantum mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) have been proposed specifically for neural systems:
+Five distinct [quantum mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) have been proposed specifically for neural systems:
 
 1. **Radical pair effects** in cryptochrome proteins may function in neural tissue, not just avian retinas. Spin coherence persists for microseconds—potentially relevant to neural timing.
 
@@ -140,8 +140,8 @@ Quantum biology connects to all five of the Map's [tenets](/tenets/):
 
 ## Further Reading
 
-- [quantum-biology](/concepts/quantum-biology/) — Established quantum effects in living systems
-- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Five proposed mechanisms for neural quantum effects
+- [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/) — Established quantum effects in living systems
+- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-biology-and-neural-mechanisms/) — Five proposed mechanisms for neural quantum effects
 - [quantum-biology-evidence-in-neural-systems](/topics/quantum-biology-and-neural-consciousness/) — Convergence analysis across four independent evidence lines
 - [neural-implementation-specifics](/topics/neural-implementation-specifics/) — Evaluating neural mechanism evidence and crucial experiments
 - [decoherence](/concepts/decoherence/) — The decoherence objection and why it doesn't solve the measurement problem

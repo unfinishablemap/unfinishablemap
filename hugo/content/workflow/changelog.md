@@ -1,13 +1,44 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-25 19:46:00+00:00
+ai_modified: 2026-03-26 16:36:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
 date: '2026-03-26'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-03-26 16:51 UTC - research-topic
+- **Status**: Success
+- **Topic**: Recent (2025-2026) experimental consciousness science developments
+- **Output**: [experimental-consciousness-science-2025-2026-2026-03-26](/research/experimental-consciousness-science-2025-2026-2026-03-26/)
+- **Sources consulted**: 15
+
+## 2026-03-26 16:36 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/)
+- **Word count**: 4087 → 3503 (-584)
+- **Critical issues addressed**: 1 (magnitude calculation error: "seven" → "eight to nine" orders of magnitude)
+- **Medium issues addressed**: 3 (length condensation, coalesce redundancy, uncited reference)
+- **Enhancements made**: 8 (condensation, deduplication, tightening across sections)
+- **Output**: [deep-review-2026-03-26-quantum-biology-and-neural-mechanisms](/reviews/deep-review-2026-03-26-quantum-biology-and-neural-mechanisms/)
+
+## 2026-03-26 16:22 UTC - coalesce
+- **Status**: Success
+- **Sources**: [quantum-biology](/concepts/quantum-biology/), [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)
+- **Target**: [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/)
+- **Archived**: [quantum-biology](/archive/concepts/quantum-biology/), [quantum-neural-mechanisms-and-coherence](/archive/concepts/quantum-neural-mechanisms-and-coherence/)
+- **References to review**: ~30
+
+## 2026-03-26 16:06 UTC - deep-review
+- **Status**: Success
+- **File**: [argument-from-reason](/topics/argument-from-reason/)
+- **Word count**: 3246 → 3222 (-24)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (date ambiguity, stale refinement log, prose trimming)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-26-argument-from-reason](/reviews/deep-review-2026-03-26-argument-from-reason/)
 
 ## 2026-03-26 15:51 UTC - deep-review
 - **Status**: Success
@@ -195,7 +226,7 @@ title: Changelog
 
 ## 2026-03-26 10:18 UTC - coalesce
 - **Status**: Success
-- **Sources**: [anaesthetic-recovery-and-the-filter-problem](/topics/anaesthetic-recovery-and-the-filter-problem/)
+- **Sources**: [anaesthetic-recovery-and-the-filter-problem](/archive/topics/anaesthetic-recovery-and-the-filter-problem/)
 - **Target**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
 - **Archived**: [anaesthetic-recovery-and-the-filter-problem](/archive/topics/anaesthetic-recovery-and-the-filter-problem/)
 - **References to review**: none
@@ -257,7 +288,7 @@ title: Changelog
 
 ## 2026-03-26 08:32 UTC - deep-review
 - **Status**: Success
-- **File**: [anaesthetic-recovery-and-the-filter-problem](/topics/anaesthetic-recovery-and-the-filter-problem/)
+- **File**: [anaesthetic-recovery-and-the-filter-problem](/archive/topics/anaesthetic-recovery-and-the-filter-problem/)
 - **Word count**: 2082 → 2164 (+82)
 - **Critical issues addressed**: 2 (unverifiable Bodart reference removed, missing No Many Worlds tenet added)
 - **Medium issues addressed**: 2 (missing cross-links, incomplete reference noted)
@@ -280,7 +311,7 @@ title: Changelog
 ## 2026-03-26 08:03 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Anaesthetic Recovery and the Filter Problem
-- **Output**: [anaesthetic-recovery-and-the-filter-problem](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Output**: [anaesthetic-recovery-and-the-filter-problem](/archive/topics/anaesthetic-recovery-and-the-filter-problem/)
 - **Word count**: 2082
 - **Based on research**: yes — [consciousness-anesthesia-filter-theory-2026-03-20](/research/consciousness-anesthesia-filter-theory-2026-03-20/) and [anaesthetic-recovery-neuroscience-2026-03-26](/research/anaesthetic-recovery-neuroscience-2026-03-26/)
 
@@ -351,7 +382,7 @@ title: Changelog
 
 ## 2026-03-26 05:16 UTC - refine-draft
 - **Status**: Success
-- **Files**: [pain-asymbolia](/concepts/pain-asymbolia/), [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/), [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/), [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/), [trilemma-of-selection](/topics/trilemma-of-selection/), 3 research files
+- **Files**: [pain-asymbolia](/concepts/pain-asymbolia/), [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/), [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/), [quantum-neural-mechanisms-and-coherence](/concepts/quantum-biology-and-neural-mechanisms/), [trilemma-of-selection](/topics/trilemma-of-selection/), 3 research files
 - **Changes**: Fixed 9 broken wikilinks across 8 content files. Redirected: `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` → `[pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/)`, `[quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/)` → `[quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)` (4 files), `[contemplative-verification-of-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)` → `[contemplative-epistemology](/concepts/contemplative-epistemology/)`, `[quantum-binding-and-phenomenal-unity](/topics/quantum-binding-and-phenomenal-unity/)` → `[quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)`, `[attention-as-selection-interface](/topics/attention-as-selection-interface/)` → `[attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)`. Cleaned up duplicate entries created by redirects.
 - **Published**: yes
 

@@ -196,7 +196,7 @@ The Map's tenets don't require proving that quantum coherence persists for any s
 
 4. **No Many Worlds**: Outcomes are genuinely selected, not merely experienced in branching universes. This is independent of coherence duration.
 
-5. **Occam's Razor Has Limits**: The assumption that warm biology must be classical turned out false. [Quantum biology](/concepts/quantum-biology/) has demonstrated that warm, wet systems can harness quantum effects—in photosynthesis, magnetoreception, enzyme catalysis. The simplicity heuristic pointed in the wrong direction.
+5. **Occam's Razor Has Limits**: The assumption that warm biology must be classical turned out false. [Quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) has demonstrated that warm, wet systems can harness quantum effects—in photosynthesis, magnetoreception, enzyme catalysis. The simplicity heuristic pointed in the wrong direction.
 
 The evidence doesn't prove quantum consciousness. It removes the categorical objection—"quantum effects can't happen in biology"—and replaces it with empirical questions about which quantum effects happen where. The burden has shifted.
 
@@ -206,7 +206,7 @@ The evidence doesn't prove quantum consciousness. It removes the categorical obj
 - [binding-problem](/concepts/binding-problem/) — How quantum entanglement may solve phenomenal unity
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum consciousness mechanisms including Orch OR and quantum Zeno
 - [decoherence](/concepts/decoherence/) — Why decoherence doesn't solve the measurement problem
-- [quantum-biology](/concepts/quantum-biology/) — Biological systems exploiting quantum effects
+- [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/) — Biological systems exploiting quantum effects
 - [measurement-problem](/concepts/measurement-problem/) — Why physics leaves outcomes undetermined
 - [tenets](/tenets/) — the Map's foundational commitments
 - [quantum-superposition-brain-consciousness-2026-01-18](/research/quantum-superposition-brain-consciousness-2026-01-18/) — Research notes on 2024-2025 findings

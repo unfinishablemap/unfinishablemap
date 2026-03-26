@@ -30,7 +30,7 @@ None. The article contains no factual errors, misattributions, or internal contr
 
 1. **Strawman of physicalist teleology**: The original article presented physicalist teleology as merely "as if" purpose, ignoring the sophisticated functionalist position (Dennett's "real patterns"). **Resolution**: Added engagement with the functionalist claim that purposes are "real patterns" and explained why the Map finds this insufficient — real patterns identified from the outside are not purposes experienced from the inside.
 
-2. **No engagement with decoherence objection**: The "Selection Pressure on Interfaces" section speculated about quantum-friendly neural structures without mentioning the standard scientific objection. **Resolution**: Added acknowledgment of the decoherence objection with cross-link to [quantum-decoherence-objection](/concepts/decoherence/), and noted the evolutionary response from [quantum-biology](/concepts/quantum-biology/) (photosynthesis, magnetoreception precedents).
+2. **No engagement with decoherence objection**: The "Selection Pressure on Interfaces" section speculated about quantum-friendly neural structures without mentioning the standard scientific objection. **Resolution**: Added acknowledgment of the decoherence objection with cross-link to [quantum-decoherence-objection](/concepts/decoherence/), and noted the evolutionary response from [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/) (photosynthesis, magnetoreception precedents).
 
 3. **Missing "What Would Challenge This View?" section**: Sibling articles (evolution-of-consciousness, consciousness-evolution-problem, evolutionary-case-for-mental-causation) all include such sections. **Resolution**: Added section listing four specific conditions that would weaken the framework: epiphenomenalism, disproof of neural quantum effects, unconscious replication of cognitive flexibility, and physicalist resolution of the consciousness-evolution problem.
 
@@ -87,7 +87,7 @@ None. The article contains no factual errors, misattributions, or internal contr
 - [free-will](/topics/free-will/) — agent teleology and libertarian agency
 - [quantum-coherence-in-neural-systems](/concepts/quantum-neural-mechanisms-and-coherence/) — evidence for neural quantum effects
 - [quantum-decoherence-objection](/concepts/decoherence/) — primary scientific challenge
-- [quantum-biology](/concepts/quantum-biology/) — biological precedents for warm quantum effects
+- [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/) — biological precedents for warm quantum effects
 - [working-memory](/concepts/working-memory/) — dedicated treatment of working memory and consciousness
 - [psychophysical-laws](/concepts/psychophysical-laws/) — bridging laws for the relocated hard problem
 - [animal-consciousness](/topics/animal-consciousness/) — convergent consciousness across species

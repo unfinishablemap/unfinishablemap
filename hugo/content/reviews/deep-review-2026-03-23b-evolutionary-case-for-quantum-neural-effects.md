@@ -27,7 +27,7 @@ topics: []
 None. The previous review addressed all factual and attribution issues. No new critical issues emerged from cross-review.
 
 ### Medium Issues Found
-- **Decoherence response incomplete**: Article responded to the decoherence objection only with revised coherence estimates (Hagan et al.). Cross-review with [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) revealed that several proposed mechanisms operate through discrete quantum events that sidestep decoherence entirely. **Resolution**: Added paragraph distinguishing sustained-coherence and discrete-event mechanisms, noting the objection applies unevenly.
+- **Decoherence response incomplete**: Article responded to the decoherence objection only with revised coherence estimates (Hagan et al.). Cross-review with [quantum-neural-mechanisms-and-coherence](/concepts/quantum-biology-and-neural-mechanisms/) revealed that several proposed mechanisms operate through discrete quantum events that sidestep decoherence entirely. **Resolution**: Added paragraph distinguishing sustained-coherence and discrete-event mechanisms, noting the objection applies unevenly.
 - **Missing complementarity with evolutionary case for mental causation**: The two evolutionary arguments are deeply complementary but were only connected via Further Reading link. **Resolution**: Added integration in the Bidirectional Interaction paragraph, showing how the two arguments together establish both the need for conscious causation and the substrate for it.
 - **No inbound links from related articles**: None of the five major quantum biology articles reference this article. **Deferred**: This requires editing other articles, outside single-document review scope. Flagged for cross-review follow-up task.
 
@@ -49,7 +49,7 @@ None. The previous review addressed all factual and attribution issues. No new c
 - Bidirectional Interaction paragraph now integrates the complementary evolutionary arguments, creating a two-part case (consciousness must be causal + evolution built the quantum substrate for that causation)
 
 ### Cross-links Added
-- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — discrete-event mechanisms and decoherence (body text, strengthened)
+- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-biology-and-neural-mechanisms/) — discrete-event mechanisms and decoherence (body text, strengthened)
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — complementary evolutionary argument (body text, integrated)
 
 ## Remaining Items

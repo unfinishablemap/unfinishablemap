@@ -121,7 +121,7 @@ Water near biological surfaces exhibits ordering that reduces thermal noise. The
 
 ### Cumulative Protection
 
-These mechanisms need not operate independently. Hydrophobic shielding protects quantum states in the microtubule interior, Fröhlich pumping maintains coherent oscillations through metabolic energy input, ordered water reduces effective temperature, and nuclear spin isolation provides long-term entanglement storage. The combination could extend effective coherence times far beyond what any single mechanism achieves. [Quantum biology](/concepts/quantum-biology/) demonstrates that evolution has optimised quantum effects in other domains—photosynthesis and magnetoreception both exploit quantum coherence under biological conditions.
+These mechanisms need not operate independently. Hydrophobic shielding protects quantum states in the microtubule interior, Fröhlich pumping maintains coherent oscillations through metabolic energy input, ordered water reduces effective temperature, and nuclear spin isolation provides long-term entanglement storage. The combination could extend effective coherence times far beyond what any single mechanism achieves. [Quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) demonstrates that evolution has optimised quantum effects in other domains—photosynthesis and magnetoreception both exploit quantum coherence under biological conditions.
 
 ## Why Binding Requires Quantum Holism
 
@@ -226,14 +226,14 @@ Protected quantum coherence matters only if collapse is real. On Many-Worlds, al
 
 ### Occam's Razor Has Limits
 
-The assumption that warm biology must be classical turned out false. [Quantum biology](/concepts/quantum-biology/) has demonstrated that warm, wet systems can harness quantum effects—in photosynthesis, magnetoreception, enzyme catalysis. Classical theories seem simpler, but if neurons alone cannot produce unity, apparent simplicity becomes actual incompleteness.
+The assumption that warm biology must be classical turned out false. [Quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) has demonstrated that warm, wet systems can harness quantum effects—in photosynthesis, magnetoreception, enzyme catalysis. Classical theories seem simpler, but if neurons alone cannot produce unity, apparent simplicity becomes actual incompleteness.
 
 ## Further Reading
 
 - [binding-problem](/concepts/binding-problem/) — How quantum entanglement may solve phenomenal unity
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum consciousness mechanisms including Orch OR and quantum Zeno
 - [decoherence](/concepts/decoherence/) — Why decoherence doesn't solve the measurement problem
-- [quantum-biology](/concepts/quantum-biology/) — Biological systems exploiting quantum effects
+- [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/) — Biological systems exploiting quantum effects
 - [measurement-problem](/concepts/measurement-problem/) — Why physics leaves outcomes undetermined
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Quantum entanglement and the binding problem
 - [mental-effort](/concepts/mental-effort/) — Stapp's quantum Zeno framework for voluntary attention

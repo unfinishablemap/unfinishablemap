@@ -119,7 +119,7 @@ These mechanisms need not operate independently. A realistic picture of neural q
 3. **Ordered water** reducing effective temperature in the surrounding environment
 4. **Nuclear spin isolation** (if Fisher's mechanism operates) providing long-term entanglement storage
 
-The combination could extend effective coherence times far beyond what any single mechanism achieves. Quantum biology demonstrates that evolution has optimised quantum effects in other domains—[photosynthesis and magnetoreception](/concepts/quantum-biology/) both exploit quantum coherence under biological conditions through evolved protection mechanisms.
+The combination could extend effective coherence times far beyond what any single mechanism achieves. Quantum biology demonstrates that evolution has optimised quantum effects in other domains—[photosynthesis and magnetoreception](/concepts/quantum-biology-and-neural-mechanisms/) both exploit quantum coherence under biological conditions through evolved protection mechanisms.
 
 ## The Illusionist Challenge
 
@@ -199,7 +199,7 @@ The assumption that warm biology must be classical—and therefore that quantum 
 
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum consciousness mechanisms
 - [decoherence](/concepts/decoherence/) — The decoherence process and its limits
-- [quantum-biology](/concepts/quantum-biology/) — Proven quantum effects in biology
+- [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/) — Proven quantum effects in biology
 - [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Coherence in neural systems
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Quantum entanglement and the binding problem
 - [mental-effort](/concepts/mental-effort/) — Stapp's quantum Zeno framework for voluntary attention

@@ -87,7 +87,7 @@ All citations verified as correct in the 2026-02-08 review. No new content has b
 - [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/) — Further Reading: "Evaluating neural mechanism evidence and crucial experiments"
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Further Reading: "How timing constraints differ across five quantum neural mechanisms"
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Further Reading: "Evidence hierarchy across five proposed neural mechanisms"
-- [quantum-biology](/concepts/quantum-biology/) — Further Reading: "Mechanism-specific evidence evaluation and crucial experiments"
+- [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/) — Further Reading: "Mechanism-specific evidence evaluation and crucial experiments"
 - [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/) — Further Reading: "How decoherence affects specific neural quantum mechanisms"
 
 ## Remaining Items

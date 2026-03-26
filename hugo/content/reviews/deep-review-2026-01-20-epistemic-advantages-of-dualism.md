@@ -92,7 +92,7 @@ Frontmatter:
 - [philosophical-zombies](/concepts/philosophical-zombies/)
 
 Inline:
-- [quantum-biology](/concepts/quantum-biology/)
+- [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/)
 - [arguments-for-dualism](/concepts/the-case-for-dualism/)
 - [mysterianism](/concepts/mysterianism/) (additional context)
 

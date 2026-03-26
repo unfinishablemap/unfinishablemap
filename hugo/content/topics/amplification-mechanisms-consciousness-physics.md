@@ -10,7 +10,7 @@ concepts:
 - '[[decoherence]]'
 - '[[consciousness-as-amplifier]]'
 - '[[mind-matter-interface]]'
-- '[[quantum-biology]]'
+- '[[quantum-biology-and-neural-mechanisms]]'
 - '[[mental-effort]]'
 created: 2026-03-18
 date: &id001 2026-03-18
@@ -25,7 +25,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[amplification-void]]'
-- '[[quantum-neural-mechanisms-and-coherence|quantum neural mechanisms]]'
+- '[[quantum-biology-and-neural-mechanisms|quantum neural mechanisms]]'
 - '[[stapp-quantum-mind]]'
 - '[[what-consciousness-tells-us-about-physics]]'
 - '[[mind-matter-interface]]'

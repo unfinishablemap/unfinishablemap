@@ -48,8 +48,8 @@ None. Article is stable after two prior reviews. No attribution errors, no factu
 
 ### Cross-links Added (inbound — from other articles to this one)
 1. [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Added body text link in "The Objection That Collapsed" section + Further Reading entry
-2. [quantum-biology](/concepts/quantum-biology/) — Added body text link after avian magnetoreception discussion + Further Reading entry
-3. [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Added body text link in coherence protection summary + Further Reading entry
+2. [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/) — Added body text link after avian magnetoreception discussion + Further Reading entry
+3. [quantum-neural-mechanisms-and-coherence](/concepts/quantum-biology-and-neural-mechanisms/) — Added body text link in coherence protection summary + Further Reading entry
 4. [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Added body text link in "The Quantum Dimension" section + Further Reading entry
 5. [evolution-under-dualism](/topics/evolution-under-dualism/) — Added body text link in "Neural coherence" paragraph + Further Reading entry
 6. [binding-problem](/concepts/binding-problem/) — Added body text link in "The Quantum Hypothesis" section

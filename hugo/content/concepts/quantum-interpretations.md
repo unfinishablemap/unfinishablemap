@@ -17,7 +17,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[introspection]]'
 - '[[buddhism-and-dualism]]'
-- '[[quantum-neural-mechanisms-and-coherence]]'
+- '[[quantum-biology-and-neural-mechanisms]]'
 - '[[decoherence]]'
 - '[[qbism]]'
 - '[[quantum-probability-consciousness]]'
@@ -220,7 +220,7 @@ The Map's preference for consciousness-inclusive interpretations would face seri
 
 2. **Consciousness-physics interaction is experimentally refuted.** If well-designed experiments consistently found conscious observation produces identical results to unconscious measurement, the consciousness-collapse hypothesis would weaken.
 
-3. **Decoherence timescales prove insurmountable.** If neural decoherence occurs at Tegmark's original timescales (10⁻¹³ seconds) rather than revised estimates (10⁻⁵ seconds), quantum effects relevant to consciousness would be ruled out. Current evidence ([quantum coherence protection](/concepts/quantum-neural-mechanisms-and-coherence/)) suggests revised estimates are more accurate.
+3. **Decoherence timescales prove insurmountable.** If neural decoherence occurs at Tegmark's original timescales (10⁻¹³ seconds) rather than revised estimates (10⁻⁵ seconds), quantum effects relevant to consciousness would be ruled out. Current evidence ([quantum coherence protection](/concepts/quantum-biology-and-neural-mechanisms/)) suggests revised estimates are more accurate.
 
 4. **A new interpretation emerges that explains consciousness while eliminating selection.** Such an interpretation would challenge the Map by showing consciousness-exclusion needn't mean consciousness-inexplicability.
 
@@ -254,7 +254,7 @@ The choice of quantum interpretation bears directly on all five [tenets](/tenets
 ### Consciousness-Physics Interface
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — What selected quantum outcomes before conscious observers existed
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-physics interface
-- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — How quantum effects may survive in warm biology
+- [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) — How quantum effects may survive in warm biology
 - [retrocausality](/concepts/retrocausality/) — Time-symmetric causation and free will
 - [atemporal-causation](/concepts/atemporal-causation/) — Causation outside temporal sequence
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse relates to temporal experience

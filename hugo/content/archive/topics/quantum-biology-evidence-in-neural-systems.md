@@ -43,7 +43,7 @@ The evidence for quantum effects in neural systems does not rest on any single e
 
 ## Biological Precedent: The Prior Probability
 
-Before evaluating neural-specific evidence, the broader context of [quantum-biology](/concepts/quantum-biology/) establishes that warm, wet biological systems routinely exploit quantum effects. This matters because the standard objection to neural quantum effects—that brains are too warm and noisy—is a claim about biology in general, not neurons specifically.
+Before evaluating neural-specific evidence, the broader context of [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/) establishes that warm, wet biological systems routinely exploit quantum effects. This matters because the standard objection to neural quantum effects—that brains are too warm and noisy—is a claim about biology in general, not neurons specifically.
 
 Three established systems set the prior:
 
@@ -134,8 +134,8 @@ The convergence of evidence connects to the Map's [tenets](/tenets/) in a specif
 
 ## Further Reading
 
-- [quantum-biology](/concepts/quantum-biology/) — Established quantum effects in living systems
-- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Five proposed mechanisms for neural quantum effects
+- [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/) — Established quantum effects in living systems
+- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-biology-and-neural-mechanisms/) — Five proposed mechanisms for neural quantum effects
 - [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/) — How quantum biology shifts the burden of proof
 - [quantum-biology-neural-experimental-turn](/topics/quantum-biology-and-neural-consciousness/) — The 2025-2026 experimental developments
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — Evaluating competing quantum consciousness theories

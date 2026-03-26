@@ -54,7 +54,7 @@ topics: []
 - Added Fisher et al. (2025) to References section
 
 ### Cross-links Present
-- [binding-problem](/concepts/binding-problem/), [quantum-consciousness](/concepts/quantum-consciousness/), [decoherence](/concepts/decoherence/), [quantum-biology](/concepts/quantum-biology/), [measurement-problem](/concepts/measurement-problem/), [quantum-coherence-protection](/concepts/quantum-neural-mechanisms-and-coherence/), [tenets](/tenets/), research notes
+- [binding-problem](/concepts/binding-problem/), [quantum-consciousness](/concepts/quantum-consciousness/), [decoherence](/concepts/decoherence/), [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/), [measurement-problem](/concepts/measurement-problem/), [quantum-coherence-protection](/concepts/quantum-neural-mechanisms-and-coherence/), [tenets](/tenets/), research notes
 
 ## Remaining Items
 

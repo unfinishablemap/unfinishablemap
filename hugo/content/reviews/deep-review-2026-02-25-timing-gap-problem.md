@@ -77,7 +77,7 @@ This was the primary focus of this review. Added `[timing-gap-problem](/concepts
 1. **[quantum-consciousness](/concepts/quantum-consciousness/)** — In "The Decoherence Challenge" section: "the [timing gap](/concepts/timing-gap-problem/) is reduced but not eliminated"
 2. **[decoherence](/concepts/decoherence/)** — In "The Tegmark-Hameroff Debate" section: "This twelve-order-of-magnitude disparity—the [timing gap problem](/concepts/timing-gap-problem/)—became the standard objection"
 3. **[stapp-quantum-mind](/concepts/stapp-quantum-mind/)** — In "The Decoherence Objection" section: "This is the [timing-gap-problem](/concepts/timing-gap-problem/)—a twelve-order-of-magnitude mismatch"
-4. **[quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)** — In "The Decoherence Challenge": "the [timing gap problem](/concepts/timing-gap-problem/), a mismatch of ten billion times"
+4. **[quantum-neural-mechanisms-and-coherence](/concepts/quantum-biology-and-neural-mechanisms/)** — In "The Decoherence Challenge": "the [timing gap problem](/concepts/timing-gap-problem/), a mismatch of ten billion times"
 5. **[comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)** — In Evaluation Criteria: "sidestep the [timing gap](/concepts/timing-gap-problem/)"
 6. **[quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)** — Opening paragraph: "the [timing gap](/concepts/timing-gap-problem/), a chasm of twelve orders of magnitude"
 7. **[quantum-decoherence-objection-responses](/concepts/decoherence/)** — In Claim 1: "(the [timing-gap-problem](/concepts/timing-gap-problem/))"

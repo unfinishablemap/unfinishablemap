@@ -76,7 +76,7 @@ No source-based attribution issues found. The article is a synthetic piece drawi
 Extensive and well-chosen:
 - [agent-causation](/concepts/agent-causation/), [mental-causation](/concepts/mental-causation/), [interactionist-dualism](/concepts/interactionist-dualism/)
 - [illusionism](/concepts/illusionism/), [introspection](/concepts/introspection/), [decoherence](/concepts/decoherence/)
-- [quantum-biology](/concepts/quantum-biology/), [measurement-problem](/concepts/measurement-problem/)
+- [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/), [measurement-problem](/concepts/measurement-problem/)
 - [witness-consciousness](/concepts/witness-consciousness/), [buddhism-and-dualism](/concepts/buddhism-and-dualism/)
 - [haecceity](/concepts/haecceity/), [tenets](/tenets/), [attentional-economics](/concepts/attentional-economics/)
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/), [living-with-the-map](/apex/living-with-the-map/)

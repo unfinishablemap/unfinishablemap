@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Quantum Biology](/concepts/quantum-biology/)
+**Article**: [Quantum Biology](/concepts/quantum-biology-and-neural-mechanisms/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

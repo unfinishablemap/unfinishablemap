@@ -33,9 +33,9 @@ topics: []
 
 ### Medium Issues Found
 
-- **Response 3 presented only Stapp's model**: Broadened to note that radical pair effects, ion channel tunnelling, and synaptic vesicle release all involve discrete quantum events, making the response applicable to the entire class of discrete-event mechanisms, not just Stapp's Zeno model. Added link to `[quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)`.
+- **Response 3 presented only Stapp's model**: Broadened to note that radical pair effects, ion channel tunnelling, and synaptic vesicle release all involve discrete quantum events, making the response applicable to the entire class of discrete-event mechanisms, not just Stapp's Zeno model. Added link to `[quantum-neural-mechanisms-and-coherence](/concepts/quantum-biology-and-neural-mechanisms/)`.
 - **No engagement with "mere randomness" counterargument**: Added paragraph in Response 1 addressing the physicalist objection that outcomes are "simply stochastic events" — this relabels the problem without solving it.
-- **Missing cross-links**: Added `[quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)`, `[the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/)`, `[explanatory-gap](/concepts/explanatory-gap/)`, and in-body link to `[quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)`.
+- **Missing cross-links**: Added `[quantum-neural-mechanisms-and-coherence](/concepts/quantum-biology-and-neural-mechanisms/)`, `[the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/)`, `[explanatory-gap](/concepts/explanatory-gap/)`, and in-body link to `[quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)`.
 - **"Confirmed" overstated for Princeton study**: Changed to "provided computational support for" to match the study's actual scope.
 - **Enzyme catalysis acceleration overstated**: Replaced specific numbers (10¹² to 10¹⁷) attributed entirely to tunnelling with accurate framing ("partly through quantum tunnelling, with large kinetic isotope effects confirming the mechanism").
 
@@ -68,7 +68,7 @@ topics: []
 
 - [the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/)
 - [explanatory-gap](/concepts/explanatory-gap/)
-- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)
+- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-biology-and-neural-mechanisms/)
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) (in-body link, was only in Further Reading)
 
 ## Remaining Items

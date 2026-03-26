@@ -5,8 +5,7 @@ ai_modified: 2026-03-25 04:54:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[quantum-biology]]'
-- '[[quantum-neural-mechanisms-and-coherence]]'
+- '[[quantum-biology-and-neural-mechanisms]]'
 - '[[evolution-of-consciousness]]'
 - '[[decoherence]]'
 - '[[quantum-consciousness]]'
@@ -39,7 +38,7 @@ topics:
 
 Evolution has already optimised quantum effects in multiple biological systems—avian magnetoreception, enzyme catalysis, and photosynthetic energy transfer. The Unfinishable Map argues that the same evolutionary logic applies to neural systems, where the computational payoffs of quantum effects would dwarf those of a compass or a faster enzyme. If natural selection discovered quantum solutions for navigation and chemistry, the question is not whether it *could* discover them for neural computation, but whether the selective pressures were strong enough to drive it there.
 
-This article examines the evolutionary argument specifically—not the mechanisms themselves (covered in [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)) or the converging evidence (covered in [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/)), but why the logic of natural selection makes quantum neural effects probable rather than merely possible.
+This article examines the evolutionary argument specifically—not the mechanisms themselves (covered in [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/)) or the converging evidence (covered in [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/)), but why the logic of natural selection makes quantum neural effects probable rather than merely possible.
 
 ## The Precedent Argument
 
@@ -97,7 +96,7 @@ If quantum effects occur in neural systems—and the [converging evidence](/topi
 
 The strongest objection holds that even if evolution *could* exploit quantum effects in neural systems, [decoherence](/concepts/decoherence/) makes the task enormously harder than in existing quantum biological systems. Magnetoreception operates in the retina—a relatively isolated environment with light-driven chemistry. Neural tissue is warmer, noisier, and more electrochemically active.
 
-This objection has weakened considerably on two fronts. First, revised decoherence estimates for microtubule interiors yield 10-100 microseconds (Hagan et al., 2002)—comparable to radical pair coherence times in cryptochrome—though these estimates come from Hameroff's collaborators and await independent confirmation. Second, several proposed neural quantum mechanisms—ion channel tunnelling, synaptic tunnelling, Posner molecule nuclear spin—operate through discrete quantum events rather than sustained coherence, sidestepping the decoherence barrier entirely (see [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)). The decoherence objection applies unevenly: it constrains theories requiring sustained superposition but leaves discrete-event mechanisms untouched.
+This objection has weakened considerably on two fronts. First, revised decoherence estimates for microtubule interiors yield 10-100 microseconds (Hagan et al., 2002)—comparable to radical pair coherence times in cryptochrome—though these estimates come from Hameroff's collaborators and await independent confirmation. Second, several proposed neural quantum mechanisms—ion channel tunnelling, synaptic tunnelling, Posner molecule nuclear spin—operate through discrete quantum events rather than sustained coherence, sidestepping the decoherence barrier entirely (see [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/)). The decoherence objection applies unevenly: it constrains theories requiring sustained superposition but leaves discrete-event mechanisms untouched.
 
 More fundamentally, evolution routinely solves problems that appear thermodynamically prohibitive. ATP synthase operates as a molecular rotary motor with near-perfect efficiency. Photosystem II splits water using sunlight. The [Fitness-Beats-Truth theorem](/voids/biological-cognitive-closure/) offers a relevant caution here: human intuitions about what seems "biologically plausible" are shaped by fitness rather than truth. Our sense that warm biology *should* be classical may reflect cognitive convenience rather than physical reality—precisely the mistake researchers made before quantum effects in photosynthesis and magnetoreception were confirmed.
 
@@ -137,9 +136,9 @@ The evolutionary argument connects to the Map's [tenets](/tenets/) at several po
 
 ## Further Reading
 
-- [quantum-biology](/concepts/quantum-biology/) — Established quantum effects in living systems
+- [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) — Established quantum effects in living systems
 - [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Converging evidence for neural quantum effects
-- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Five proposed mechanisms and coherence protection
+- [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) — Five proposed mechanisms and coherence protection
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Evolution as evidence for consciousness's causal role
 - [evolution-under-dualism](/topics/evolution-under-dualism/) — How evolution works under dualist assumptions
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness arose and what selected for it

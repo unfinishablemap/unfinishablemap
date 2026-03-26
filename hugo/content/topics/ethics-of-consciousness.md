@@ -19,7 +19,7 @@ concepts:
 - '[[introspection]]'
 - '[[decoherence]]'
 - '[[witness-consciousness]]'
-- '[[quantum-biology]]'
+- '[[quantum-biology-and-neural-mechanisms]]'
 - '[[phenomenal-normativity]]'
 - '[[valence]]'
 created: 2026-01-16

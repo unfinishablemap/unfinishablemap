@@ -9,8 +9,7 @@ coalesced_from:
 - /topics/quantum-biology-evidence-in-neural-systems/
 - /topics/quantum-biology-neural-experimental-turn/
 concepts:
-- '[[quantum-biology]]'
-- '[[quantum-neural-mechanisms-and-coherence]]'
+- '[[quantum-biology-and-neural-mechanisms]]'
 - '[[decoherence]]'
 - '[[measurement-problem]]'
 - '[[quantum-consciousness]]'
@@ -54,7 +53,7 @@ The objection has inverted. We know evolution optimises quantum effects for biol
 
 ## Candidate Neural Mechanisms
 
-Five distinct [quantum mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) have been proposed for neural systems:
+Five distinct [quantum mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) have been proposed for neural systems:
 
 1. **Radical pair effects** in cryptochrome proteins may function in neural tissue. Spin coherence persists for microseconds.
 2. **Ion channel tunnelling** allows ions to pass through closed voltage-gated channels, affecting action potential dynamics.
@@ -170,8 +169,7 @@ The convergence of quantum biology evidence connects to all five of the Map's [t
 
 ## Further Reading
 
-- [quantum-biology](/concepts/quantum-biology/) — Established quantum effects in living systems
-- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Five proposed mechanisms for neural quantum effects
+- [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) — Established quantum effects in living systems and five proposed mechanisms for neural quantum effects
 - [neural-implementation-specifics](/topics/neural-implementation-specifics/) — Evaluating neural mechanism evidence and crucial experiments
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — Evaluating competing quantum consciousness theories
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Anaesthesia as a window into consciousness mechanisms

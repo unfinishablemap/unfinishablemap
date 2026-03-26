@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-20
-**Article**: [Quantum Neural Mechanisms and Coherence](/concepts/quantum-neural-mechanisms-and-coherence/)
+**Article**: [Quantum Neural Mechanisms and Coherence](/concepts/quantum-biology-and-neural-mechanisms/)
 **Previous review**: [2026-02-22](/reviews/deep-review-2026-02-22-quantum-neural-mechanisms-and-coherence/)
 
 ## Cross-Review Context

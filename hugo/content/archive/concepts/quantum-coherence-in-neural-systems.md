@@ -153,7 +153,7 @@ These mechanisms need not operate independently. A realistic picture involves:
 3. **Ordered water** reducing effective temperature in the surrounding environment
 4. **Nuclear spin isolation** (if Fisher's mechanism operates) providing long-term entanglement storage
 
-The combination could extend effective coherence times far beyond what any single mechanism achieves. [Quantum biology](/concepts/quantum-biology/) demonstrates that evolution has optimised quantum effects in other domains—photosynthesis and magnetoreception both exploit quantum coherence under biological conditions through evolved protection mechanisms.
+The combination could extend effective coherence times far beyond what any single mechanism achieves. [Quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) demonstrates that evolution has optimised quantum effects in other domains—photosynthesis and magnetoreception both exploit quantum coherence under biological conditions through evolved protection mechanisms.
 
 ### Alternative Frameworks
 
@@ -265,14 +265,14 @@ Protected quantum coherence matters only if collapse is real. On Many-Worlds, al
 
 ### Occam's Razor Has Limits
 
-The assumption that warm biology must be classical turned out false. [Quantum biology](/concepts/quantum-biology/) has demonstrated that warm, wet systems can harness quantum effects—in photosynthesis, magnetoreception, enzyme catalysis. The "simpler" classical assumption led to incorrect predictions. Protection mechanisms are instances of evolution exploiting quantum phenomena that categorical simplicity would have ruled out.
+The assumption that warm biology must be classical turned out false. [Quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) has demonstrated that warm, wet systems can harness quantum effects—in photosynthesis, magnetoreception, enzyme catalysis. The "simpler" classical assumption led to incorrect predictions. Protection mechanisms are instances of evolution exploiting quantum phenomena that categorical simplicity would have ruled out.
 
 ## Further Reading
 
 - [binding-problem](/concepts/binding-problem/) — How quantum entanglement may solve phenomenal unity
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum consciousness mechanisms including Orch OR and quantum Zeno
 - [decoherence](/concepts/decoherence/) — Why decoherence doesn't solve the measurement problem
-- [quantum-biology](/concepts/quantum-biology/) — Biological systems exploiting quantum effects
+- [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/) — Biological systems exploiting quantum effects
 - [measurement-problem](/concepts/measurement-problem/) — Why physics leaves outcomes undetermined
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Quantum entanglement and the binding problem
 - [mental-effort](/concepts/mental-effort/) — Stapp's quantum Zeno framework for voluntary attention

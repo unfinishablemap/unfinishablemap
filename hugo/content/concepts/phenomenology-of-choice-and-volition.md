@@ -22,7 +22,7 @@ concepts:
 - '[[haecceity]]'
 - '[[decoherence]]'
 - '[[quantum-indeterminacy-free-will]]'
-- '[[quantum-neural-mechanisms-and-coherence]]'
+- '[[quantum-biology-and-neural-mechanisms]]'
 - '[[luck-objection]]'
 - '[[causal-interface]]'
 - '[[mental-causation]]'
@@ -149,7 +149,7 @@ The gap between volitional intention and motor detail is itself phenomenological
 
 The [phenomenology of effort](/concepts/mental-effort/) provides the strongest evidence for genuine conscious contribution. The [trilemma of selection](/topics/trilemma-of-selection/) makes this systematic: at any decision point, the outcome is determined, random, or consciously selected — and only selection generates the phenomenology of effort. If choosing were merely receiving randomly determined outcomes, there should be no phenomenology of effort — random processes don't feel like work. See [consciousness doing work](/apex/phenomenology-of-consciousness-doing-work/) for the broader case.
 
-One candidate mechanism is Stapp's [quantum Zeno model](/concepts/mental-effort/), where rapid acts of attention hold desired neural patterns stable — though the [decoherence objection](/concepts/decoherence/) remains a live challenge addressed through [proposed protection mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/).
+One candidate mechanism is Stapp's [quantum Zeno model](/concepts/mental-effort/), where rapid acts of attention hold desired neural patterns stable — though the [decoherence objection](/concepts/decoherence/) remains a live challenge addressed through [proposed protection mechanisms](/concepts/quantum-biology-and-neural-mechanisms/).
 
 The core argument does not depend on any specific mechanism. Effort phenomenology correlates with genuine cognitive engagement whether the underlying interface is quantum Zeno, some other quantum process, or a mechanism not yet conceived. The phenomenological evidence for conscious causal contribution stands independently.
 

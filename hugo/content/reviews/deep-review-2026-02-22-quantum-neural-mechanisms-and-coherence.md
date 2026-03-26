@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-22
-**Article**: [Quantum Neural Mechanisms and Coherence](/concepts/quantum-neural-mechanisms-and-coherence/)
+**Article**: [Quantum Neural Mechanisms and Coherence](/concepts/quantum-biology-and-neural-mechanisms/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

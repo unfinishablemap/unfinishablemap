@@ -26,7 +26,7 @@ Applied six adversarial personas. Article has stabilized well since previous rev
 
 ### Critical Issues Found
 
-1. **Broken wikilink `[quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/)`**: File is actually `quantum-neural-mechanisms-and-coherence.md`. Appeared in frontmatter concepts and body (line 109). Resolution: Updated to `[quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)` in frontmatter and `[quantum neural mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/)` in body.
+1. **Broken wikilink `[quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/)`**: File is actually `quantum-neural-mechanisms-and-coherence.md`. Appeared in frontmatter concepts and body (line 109). Resolution: Updated to `[quantum-neural-mechanisms-and-coherence](/concepts/quantum-biology-and-neural-mechanisms/)` in frontmatter and `[quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/)` in body.
 
 2. **Duplicate Further Reading entry**: `[decoherence](/concepts/decoherence/)` listed twice with different descriptions. Resolution: Merged into single entry covering both aspects.
 

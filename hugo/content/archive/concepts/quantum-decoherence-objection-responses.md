@@ -98,7 +98,7 @@ The decoherence objection assumes quantum consciousness requires maintaining sup
 
 This mechanism requires only that individual observation events occur faster than decoherence destroys the relevant superposition—not that coherence persists across the full 280–300ms neural decision window (see [neural timing constraints](/topics/quantum-neural-timing-constraints/)).
 
-The discrete-versus-sustained distinction extends beyond Stapp's model. Radical pair effects in neural cryptochromes, ion channel tunnelling, and synaptic vesicle release all involve instantaneous or near-instantaneous quantum events rather than sustained coherence. The [full survey of quantum neural mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) maps these distinctions. For any such mechanism, the decoherence objection's framing—sustained coherence across decision windows—misses its target.
+The discrete-versus-sustained distinction extends beyond Stapp's model. Radical pair effects in neural cryptochromes, ion channel tunnelling, and synaptic vesicle release all involve instantaneous or near-instantaneous quantum events rather than sustained coherence. The [full survey of quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) maps these distinctions. For any such mechanism, the decoherence objection's framing—sustained coherence across decision windows—misses its target.
 
 This response dissolves Claim 2 for the entire class of discrete-event mechanisms. The [comparison of quantum consciousness mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) maps which proposals face the full decoherence objection and which sidestep it.
 
@@ -113,7 +113,7 @@ The categorical version of Claim 1 holds that warm biological systems *cannot* s
 - **Enzyme catalysis** achieves reaction-rate acceleration partly through quantum tunnelling, with large kinetic isotope effects confirming the mechanism.
 - **Photosynthesis** demonstrates quantum effects in the FMO complex, though their functional significance has been revised downward.
 
-These examples establish that evolution *can* harness quantum effects in warm, wet systems. Whether similar mechanisms operate in neural tissue remains an open empirical question. The [quantum biology](/concepts/quantum-biology/) and [quantum biology in the consciousness debate](/topics/quantum-biology-and-neural-consciousness/) articles examine the evidence in detail.
+These examples establish that evolution *can* harness quantum effects in warm, wet systems. Whether similar mechanisms operate in neural tissue remains an open empirical question. The [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) and [quantum biology in the consciousness debate](/topics/quantum-biology-and-neural-consciousness/) articles examine the evidence in detail.
 
 This response eliminates the categorical objection but leaves the specific neural question open.
 
@@ -150,7 +150,7 @@ After all five responses, the decoherence objection retains force only in this n
 
 The burden of proof has shifted. The objection can no longer be stated as "quantum effects are impossible in the brain." It must be stated as "quantum effects in the brain have not been conclusively demonstrated for consciousness-relevant processes." That is a meaningful difference. One forecloses investigation; the other invites it.
 
-The trajectory of this debate illustrates a recurring pattern in science: categorical dismissals based on insufficiently examined assumptions. The claim that biological systems are "too warm" for quantum effects was treated as settled for decades before [quantum biology](/concepts/quantum-biology/) overturned it empirically. The decoherence objection may follow a similar path—not because the empirical challenges are trivial, but because the categorical confidence was premature.
+The trajectory of this debate illustrates a recurring pattern in science: categorical dismissals based on insufficiently examined assumptions. The claim that biological systems are "too warm" for quantum effects was treated as settled for decades before [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) overturned it empirically. The decoherence objection may follow a similar path—not because the empirical challenges are trivial, but because the categorical confidence was premature.
 
 ## Relation to Site Perspective
 
@@ -160,16 +160,16 @@ The five responses surveyed here show that the objection, while serious, is not 
 
 The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction)—that consciousness causally influences the physical world—depends on there being a physical mechanism through which such influence can operate. The decoherence objection was the principal empirical challenge to this claim. The five responses together preserve the physical space for consciousness to act at the quantum level, whether through the measurement-problem opening (Response 1) or through discrete-event mechanisms that sidestep decoherence timing (Response 3).
 
-The [Occam's Razor Has Limits tenet](/tenets/#occams-razor-has-limits) is also directly relevant. The decoherence objection was taken as decisive partly because it seemed simpler to dismiss quantum consciousness than to investigate whether biology might manage decoherence. The discovery of [quantum biology](/concepts/quantum-biology/)—magnetoreception, enzyme tunnelling—shows that nature's strategies for exploiting quantum effects are more resourceful than our assumptions predicted.
+The [Occam's Razor Has Limits tenet](/tenets/#occams-razor-has-limits) is also directly relevant. The decoherence objection was taken as decisive partly because it seemed simpler to dismiss quantum consciousness than to investigate whether biology might manage decoherence. The discovery of [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/)—magnetoreception, enzyme tunnelling—shows that nature's strategies for exploiting quantum effects are more resourceful than our assumptions predicted.
 
 ## Further Reading
 
 - [decoherence](/concepts/decoherence/) — Comprehensive treatment of the objection and detailed evidence
 - [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't determine outcomes
 - [the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/) — The measurement problem as a philosophical, not merely technical, challenge
-- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Five proposed neural quantum mechanisms and coherence protection
+- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-biology-and-neural-mechanisms/) — Five proposed neural quantum mechanisms and coherence protection
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The discrete observation mechanism
-- [quantum-biology](/concepts/quantum-biology/) — Established biological quantum effects
+- [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/) — Established biological quantum effects
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — Which mechanisms face which constraints
 - [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/) — The receding quantum-classical boundary
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Timing hierarchy for neural quantum effects

@@ -17,7 +17,7 @@ concepts:
 - '[[psychophysical-laws]]'
 - '[[causal-closure]]'
 - '[[decoherence]]'
-- '[[quantum-biology]]'
+- '[[quantum-biology-and-neural-mechanisms]]'
 - '[[panpsychism]]'
 - '[[phenomenal-consciousness]]'
 created: 2026-02-12
@@ -123,7 +123,7 @@ The [evolutionary case for mental causation](/topics/evolutionary-case-for-menta
 
 What would selection for interface quality look like? Several features of brain evolution become suggestive:
 
-**Neural coherence**: If consciousness interfaces with quantum processes in neural tissue, brains that maintain [quantum coherence](/concepts/quantum-neural-mechanisms-and-coherence/) in behaviourally relevant circuits would have fitness advantages. The [decoherence objection](/concepts/decoherence/)—that warm biological tissue destroys quantum coherence too rapidly—remains the primary challenge, but [quantum biology](/concepts/quantum-biology/) has demonstrated that photosynthesis and avian magnetoreception exploit quantum effects in warm environments. The evolution of microtubule organisation, myelination patterns, and synaptic architecture might reflect selection for quantum-friendly structures alongside selection for computational efficiency. The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) develops this argument systematically: if evolution optimised quantum effects for bird navigation and enzyme catalysis, the same selective logic applies to neural systems where computational payoffs are far greater.
+**Neural coherence**: If consciousness interfaces with quantum processes in neural tissue, brains that maintain [quantum coherence](/concepts/quantum-biology-and-neural-mechanisms/) in behaviourally relevant circuits would have fitness advantages. The [decoherence objection](/concepts/decoherence/)—that warm biological tissue destroys quantum coherence too rapidly—remains the primary challenge, but [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) has demonstrated that photosynthesis and avian magnetoreception exploit quantum effects in warm environments. The evolution of microtubule organisation, myelination patterns, and synaptic architecture might reflect selection for quantum-friendly structures alongside selection for computational efficiency. The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) develops this argument systematically: if evolution optimised quantum effects for bird navigation and enzyme catalysis, the same selective logic applies to neural systems where computational payoffs are far greater.
 
 **Attentional systems**: The [attention-as-interface](/concepts/attention-as-interface/) hypothesis suggests that attention is the mechanism through which consciousness engages with neural processing. The elaborate attentional systems found in mammals and birds are consistent with selection for richer conscious access to neural content. Computational accounts explain attentional complexity in terms of information processing demands, and the interface hypothesis does not predict features that those accounts cannot also accommodate—but the sophistication of attention is what both accounts would expect if consciousness plays a functional role.
 

@@ -75,7 +75,7 @@ topics: []
 - [witness-consciousness](/concepts/witness-consciousness/) - for contemplative challenge to illusionism
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) - for Buddhist objection
 - [mysterianism](/concepts/mysterianism/) - for Occam's Razor connection
-- [quantum-biology](/concepts/quantum-biology/) - for biological quantum effects
+- [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/) - for biological quantum effects
 - [measurement-problem](/concepts/measurement-problem/) - for decoherence doesn't solve measurement problem point
 
 ## Remaining Items

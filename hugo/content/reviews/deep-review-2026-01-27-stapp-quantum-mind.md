@@ -74,7 +74,7 @@ None. The previous review (2026-01-22) addressed all critical issues. No new fac
 
 ### Cross-links Added
 
-- Strengthened [quantum-biology](/concepts/quantum-biology/) cross-reference with specific mention of 2024 Zeno-cryptochrome finding
+- Strengthened [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/) cross-reference with specific mention of 2024 Zeno-cryptochrome finding
 
 ## Remaining Items
 

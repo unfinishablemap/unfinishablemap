@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-03-04
-**Article**: [Quantum Biology](/concepts/quantum-biology/)
+**Article**: [Quantum Biology](/concepts/quantum-biology-and-neural-mechanisms/)
 **Previous review**: [2026-01-29](/reviews/deep-review-2026-01-29-quantum-biology/)
 
 ## Pessimistic Analysis Summary
@@ -29,7 +29,7 @@ topics: []
 
 2. **Fabricated citation: Xu et al. 2026** (resolved): The reference "Xu, J. et al. (2026). Computational confirmation of the radical pair mechanism..." does not exist. The actual paper is Luo, J. et al. (2025), "Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a," JACS, 147, 43934-43945 (from the Princeton Hammes-Schiffer/Subotnik labs, published November 2025). In-text "January 2026 breakthrough" changed to "November 2025 breakthrough" with correct authors.
 
-3. **Broken link: quantum-coherence-and-binding-evidence** (resolved): This article was archived after coalescing. Replaced with link to the successor article [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/).
+3. **Broken link: quantum-coherence-and-binding-evidence** (resolved): This article was archived after coalescing. Replaced with link to the successor article [quantum-neural-mechanisms-and-coherence](/concepts/quantum-biology-and-neural-mechanisms/).
 
 4. **Citation errors** (resolved):
    - Wiest, O. → Wiest, M. C. (correct initial; also single-author paper, removed "et al.")
@@ -88,7 +88,7 @@ Six adversarial personas applied. All findings consistent with previous reviews:
 
 ### Cross-links Added
 
-- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) (replaced archived link)
+- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-biology-and-neural-mechanisms/) (replaced archived link)
 
 ## Remaining Items
 

@@ -24,7 +24,7 @@ topics: []
 
 ### Critical Issues Found
 - **Uncited 2025 sources in SOC section**: Two studies referenced without authors or formal citations — "A 2025 study" and "A 2025 *Frontiers in Human Neuroscience* article". Resolution: Added proper author attributions (Kalra & Bhatt 2025; Sáenz-Cuesta 2025) and full References entries.
-- **Broken related_articles link**: `[quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/)` pointed to non-existent slug; actual file is `quantum-neural-mechanisms-and-coherence`. Resolution: Fixed to `[quantum neural mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/)`.
+- **Broken related_articles link**: `[quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/)` pointed to non-existent slug; actual file is `quantum-neural-mechanisms-and-coherence`. Resolution: Fixed to `[quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/)`.
 - **Missing Fisher's Posner molecule hypothesis**: A survey article omitting a major proposed quantum consciousness mechanism. Resolution: Added paragraph in Evaluating the Landscape explaining why Fisher's model is excluded from the amplification taxonomy (it addresses quantum processing, not amplification per se).
 
 ### Medium Issues Found

@@ -138,8 +138,8 @@ The 2025-2026 experimental developments connect to the Map's [tenets](/tenets/) 
 
 - [quantum-biology-evidence-in-neural-systems](/topics/quantum-biology-and-neural-consciousness/) — Convergence analysis across four independent evidence lines
 - [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/) — Overview of quantum biology's relevance to consciousness
-- [quantum-biology](/concepts/quantum-biology/) — Established quantum effects in living systems
-- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Five proposed mechanisms for neural quantum effects
+- [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/) — Established quantum effects in living systems
+- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-biology-and-neural-mechanisms/) — Five proposed mechanisms for neural quantum effects
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — Evaluating competing quantum consciousness theories
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy from femtosecond decoherence to neural decisions
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Quantum entanglement and the binding problem

@@ -95,7 +95,7 @@ Moral responsibility requires consciousness. The agent that sources action is a 
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness caused nothing, holding conscious agents responsible for physical outcomes would be incoherent. [Mental causation](/concepts/mental-causation/) provides what responsibility requires—the agent's phenomenal engagement shapes what happens.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Agents select quantum outcomes that physics leaves undetermined. The [decoherence](/concepts/decoherence/) challenge must be addressed, but [quantum-biology](/concepts/quantum-biology/) demonstrates biological quantum effects despite thermal environments.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Agents select quantum outcomes that physics leaves undetermined. The [decoherence](/concepts/decoherence/) challenge must be addressed, but [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) demonstrates biological quantum effects despite thermal environments.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: [Indexical identity](/concepts/haecceity/) matters. If every possible choice actualizes in some branch, desert becomes meaningless. The concept of praise and blame requires that alternatives were rejected, not merely routed to other branches.
 
@@ -135,7 +135,7 @@ Three responses preserve desert:
 
 The **[decoherence](/concepts/decoherence/)** objection: quantum superpositions decohere almost instantly in warm neural tissue. If quantum effects can't influence neural processing, consciousness couldn't "select" outcomes. See [decoherence](/concepts/decoherence/) for the full challenge.
 
-Three responses: (1) Tegmark's original calculations are disputed—Hameroff's group obtained estimates seven orders of magnitude longer. (2) [Quantum biology](/concepts/quantum-biology/) demonstrates biological quantum effects that Tegmark's calculations seemed to rule out. (3) The Map's framework does not require sustained coherence—it requires only that quantum indeterminacy leaves outcomes genuinely open at the moment of measurement. Decoherence doesn't solve the [measurement problem](/concepts/measurement-problem/)—consciousness might bias which outcome actualises *at the moment of decoherence*, regardless of how quickly that moment arrives.
+Three responses: (1) Tegmark's original calculations are disputed—Hameroff's group obtained estimates seven orders of magnitude longer. (2) [Quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) demonstrates biological quantum effects that Tegmark's calculations seemed to rule out. (3) The Map's framework does not require sustained coherence—it requires only that quantum indeterminacy leaves outcomes genuinely open at the moment of measurement. Decoherence doesn't solve the [measurement problem](/concepts/measurement-problem/)—consciousness might bias which outcome actualises *at the moment of decoherence*, regardless of how quickly that moment arrives.
 
 ## Objections and Responses
 

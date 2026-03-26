@@ -74,7 +74,7 @@ Applied six sympathetic philosopher personas (Property Dualist, Quantum Mind The
 
 **Frontmatter concepts:**
 - [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/)
-- [quantum-biology](/concepts/quantum-biology/)
+- [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/)
 - [illusionism](/concepts/illusionism/)
 - [mysterianism](/concepts/mysterianism/)
 - [free-will](/topics/free-will/)
@@ -84,7 +84,7 @@ Applied six sympathetic philosopher personas (Property Dualist, Quantum Mind The
 
 **Further Reading:**
 - [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/)
-- [quantum-biology](/concepts/quantum-biology/)
+- [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/)
 - [illusionism](/concepts/illusionism/)
 - [mysterianism](/concepts/mysterianism/)
 - [free-will](/topics/free-will/)

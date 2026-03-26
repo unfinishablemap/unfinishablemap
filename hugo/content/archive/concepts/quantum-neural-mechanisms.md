@@ -283,7 +283,7 @@ The Unfinishable Map's interest in quantum neural mechanisms connects to all fiv
 
 ## Further Reading
 
-- [quantum-biology](/concepts/quantum-biology/) — Established quantum effects in living systems
+- [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/) — Established quantum effects in living systems
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy and Tegmark critique
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism for attention
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum approaches to consciousness

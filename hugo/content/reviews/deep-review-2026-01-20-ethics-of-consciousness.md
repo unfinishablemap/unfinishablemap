@@ -84,7 +84,7 @@ topics: []
 - [introspection](/concepts/introspection/) — First-person access grounding ethics
 - [decoherence](/concepts/decoherence/) — Quantum challenge to consciousness mechanisms
 - [witness-consciousness](/concepts/witness-consciousness/) — Pure awareness as ethical ground
-- [quantum-biology](/concepts/quantum-biology/) — Evidence for biological quantum effects
+- [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/) — Evidence for biological quantum effects
 
 ## Changes Summary
 

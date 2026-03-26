@@ -181,7 +181,7 @@ The quantum sensitivity criterion faces a significant objection: [decoherence](/
 
 First, the Tegmark-Hameroff debate shows the timescales remain contested. Tegmark's (2000) calculations assumed thermal equilibrium and separation distances inappropriate for living neural tissue. Hameroff's group calculated corrected coherence times seven orders of magnitude longer—10⁻⁵ to 10⁻⁴ seconds rather than 10⁻¹³ seconds. Recent experiments with microtubule-stabilising drugs and room-temperature quantum effects in tubulin support the revised estimates.
 
-Second, [quantum-biology](/concepts/quantum-biology/) demonstrates that evolution *can* optimise biological systems for quantum coherence. Avian magnetoreception maintains spin coherence for microseconds—functional timescales, not femtoseconds. If evolution produced quantum compasses in bird eyes, it could produce quantum interfaces in brains.
+Second, [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/) demonstrates that evolution *can* optimise biological systems for quantum coherence. Avian magnetoreception maintains spin coherence for microseconds—functional timescales, not femtoseconds. If evolution produced quantum compasses in bird eyes, it could produce quantum interfaces in brains.
 
 Third, Stapp's [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) may sidestep the coherence requirement entirely. The Zeno effect requires rapid repeated observation, not sustained superposition. If consciousness operates through Zeno freezing rather than maintained coherence, short decoherence times may not matter—selection cycles could operate faster than decoherence acts.
 
@@ -248,7 +248,7 @@ This complements Interface Locality, which explains why consciousness *doesn't* 
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and the Map's response
 - [decoherence](/concepts/decoherence/) — The decoherence objection and why it doesn't solve the measurement problem
 - [introspection](/concepts/introspection/) — First-person access to consciousness and its reliability
-- [quantum-biology](/concepts/quantum-biology/) — Evidence that biology can harness quantum effects
+- [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/) — Evidence that biology can harness quantum effects
 
 ## References
 

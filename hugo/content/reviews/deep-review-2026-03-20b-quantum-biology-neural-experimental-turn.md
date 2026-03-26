@@ -58,9 +58,9 @@ topics: []
 
 Checked consistency with sibling articles:
 - **[quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/)**: Coverage consistent. That article covers broader framing; this one appropriately narrows to 2025-2026 developments.
-- **[quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)**: Detailed mechanism descriptions consistent. QBIT theory coverage aligns. Epothilone B study and twin study findings match.
+- **[quantum-neural-mechanisms-and-coherence](/concepts/quantum-biology-and-neural-mechanisms/)**: Detailed mechanism descriptions consistent. QBIT theory coverage aligns. Epothilone B study and twin study findings match.
 - **[comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)**: Mechanism evaluations consistent. Already cross-linked in Further Reading.
-- **[quantum-biology](/concepts/quantum-biology/)**: Established quantum biology findings referenced consistently.
+- **[quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/)**: Established quantum biology findings referenced consistently.
 
 No inter-article contradictions or inconsistencies found.
 

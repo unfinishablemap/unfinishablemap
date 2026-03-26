@@ -155,7 +155,7 @@ The existence of quantum effects in avian magnetoreception demonstrates a crucia
 
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Full analysis of timing hierarchy from femtosecond decoherence to 300ms decision windows
 - [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) — Five proposed neural quantum mechanisms and their current evidence status
-- [quantum-biology](/concepts/quantum-biology/) — Established quantum effects in biological systems (magnetoreception, photosynthesis)
+- [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/) — Established quantum effects in biological systems (magnetoreception, photosynthesis)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism for mental effort
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum approaches to consciousness
 - [decoherence](/concepts/decoherence/) — The physical process and its implications for measurement

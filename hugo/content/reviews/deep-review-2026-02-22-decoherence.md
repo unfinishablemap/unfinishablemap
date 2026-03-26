@@ -33,7 +33,7 @@ None.
    - **Resolution**: Removed vague attribution; the SEP quote in the next paragraph already establishes the point authoritatively.
 
 3. **Length exceeded hard threshold**: 3792 words vs 3500 hard limit for concepts/.
-   - **Resolution**: Condensed quantum biology section (referencing [quantum-biology](/concepts/quantum-biology/) for details), tightened Hot Schrödinger Cats, Neural Decision Windows, and experimental developments sections. Reduced to 3344 words.
+   - **Resolution**: Condensed quantum biology section (referencing [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/) for details), tightened Hot Schrödinger Cats, Neural Decision Windows, and experimental developments sections. Reduced to 3344 words.
 
 4. **Missing cross-reference to quantum-decoherence-objection-responses**: The new article provides a structured 5-response framework disaggregating the objection into independent claims.
    - **Resolution**: Added cross-reference in Relation section, frontmatter, and Further Reading.
@@ -56,7 +56,7 @@ None.
 ### Enhancements Made
 1. Qualified epothilone B claim to acknowledge classical alternatives
 2. Removed vague "2025 comprehensive review" attribution
-3. Condensed quantum biology section with cross-reference to [quantum-biology](/concepts/quantum-biology/)
+3. Condensed quantum biology section with cross-reference to [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/)
 4. Tightened Hot Schrödinger Cats, Neural Decision Windows, and experimental developments
 5. Added cross-reference to [quantum-decoherence-objection-responses](/concepts/decoherence/) for structured analytical framework
 6. Reduced word count from 3792 to 3344 (-448 words, from hard_warning to soft_warning)

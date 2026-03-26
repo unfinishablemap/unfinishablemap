@@ -55,9 +55,9 @@ Second review pass on the same day. The article was created and first reviewed e
 1. [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/) — in "What Remains Uncertain" section, inline mention of cumulative convergence case
 2. [quantum-biology-neural-experimental-turn](/topics/quantum-biology-and-neural-consciousness/) — in "What the Evidence Shows and Does Not Show" section, forward reference to convergence analysis
 3. [quantum-consciousness](/concepts/quantum-consciousness/) — after "Recent evidence" list in Orch OR section, contextualising findings as part of broader convergence
-4. [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — in "What the Evidence Shows Together" section, linking to convergence analysis
+4. [quantum-neural-mechanisms-and-coherence](/concepts/quantum-biology-and-neural-mechanisms/) — in "What the Evidence Shows Together" section, linking to convergence analysis
 5. [decoherence](/concepts/decoherence/) — in "Quantum Biology: Biology Beating Decoherence" section, linking to neural-specific convergence
-6. [quantum-biology](/concepts/quantum-biology/) — in "What Remains Uncertain" section under Brain Quantum Effects
+6. [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/) — in "What Remains Uncertain" section under Brain Quantum Effects
 
 **Further Reading links:**
 7. [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — added to Further Reading

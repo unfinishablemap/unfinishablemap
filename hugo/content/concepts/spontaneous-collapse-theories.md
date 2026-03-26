@@ -9,7 +9,7 @@ concepts:
 - '[[concepts/many-worlds]]'
 - '[[decoherence]]'
 - '[[quantum-consciousness]]'
-- '[[quantum-neural-mechanisms-and-coherence]]'
+- '[[quantum-biology-and-neural-mechanisms]]'
 - '[[illusionism]]'
 - '[[mysterianism]]'
 - '[[topics/free-will]]'
@@ -111,7 +111,7 @@ Stuart Hameroff extends Penrose OR by proposing that consciousness arises when *
 - Requires large-scale quantum effects (microtubule-level), not minimal interaction
 - Experimental tests (germanium detectors, matter-wave interference) increasingly constrain Orch OR parameter space
 
-Orch OR aligns with [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) but conflicts with [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) by requiring macroscopic quantum coherence. The Map's framework favors smaller-scale quantum selection (see [stapp-quantum-mind](/concepts/stapp-quantum-mind/)) or hybrid CSL-IIT models — both examples of [non-retrocausal conscious selection](/topics/non-retrocausal-conscious-selection-models/). For detailed treatment of microtubule coherence evidence and alternative neural quantum mechanisms, see [quantum neural mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/).
+Orch OR aligns with [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) but conflicts with [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) by requiring macroscopic quantum coherence. The Map's framework favors smaller-scale quantum selection (see [stapp-quantum-mind](/concepts/stapp-quantum-mind/)) or hybrid CSL-IIT models — both examples of [non-retrocausal conscious selection](/topics/non-retrocausal-conscious-selection-models/). For detailed treatment of microtubule coherence evidence and alternative neural quantum mechanisms, see [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/).
 
 ## Experimental Status
 
@@ -197,7 +197,7 @@ The **consciousness-modulated CSL** model (Chalmers and McQueen's CSL-IIT or sim
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — the philosophical dimensions of measurement: why the problem resists physical solution
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) - dedicated treatment of what collapsed before consciousness
 - [quantum-consciousness](/concepts/quantum-consciousness/) - how consciousness modulates baseline collapse
-- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) - neural loci for quantum effects (radical pairs, microtubules, ion tunneling)
+- [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) - neural loci for quantum effects (radical pairs, microtubules, ion tunneling)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) - alternative consciousness-collapse model (observer-selection)
 - [psychophysical-laws](/concepts/psychophysical-laws/) - how phenomenal properties map to physical parameters
 - [decoherence](/concepts/decoherence/) - relationship between environmental decoherence and objective collapse, including basis selection vs. outcome selection

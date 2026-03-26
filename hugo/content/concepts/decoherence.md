@@ -12,14 +12,13 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[locality]]'
 - '[[measurement-problem]]'
-- '[[quantum-neural-mechanisms-and-coherence]]'
+- '[[quantum-biology-and-neural-mechanisms]]'
 - '[[illusionism]]'
 - '[[attention-as-interface]]'
 - '[[process-philosophy]]'
 - '[[phenomenal-consciousness]]'
 - '[[quantum-neural-timing-constraints]]'
 - '[[stapp-quantum-mind]]'
-- '[[quantum-biology]]'
 - '[[physics-as-disclosure]]'
 - '[[bi-aspectual-ontology]]'
 - '[[mysterianism]]'
@@ -95,7 +94,7 @@ This response alone is sufficient to keep quantum consciousness viable regardles
 
 In 2000, Tegmark calculated that quantum coherence in brain microtubules would decay in ~10⁻¹³ seconds—the [timing gap problem](/concepts/timing-gap-problem/) that became the standard objection to Penrose-Hameroff [Orch OR theory](/concepts/quantum-consciousness/).
 
-Hameroff and colleagues challenged this analysis (Hagan et al., 2002): Tegmark addressed a hybrid model rather than actual Orch OR, assumed incorrect superposition separations, and made questionable assumptions about charge interactions. After corrections, decoherence times increased to **10⁻⁵ to 10⁻⁴ seconds**—**eight or more orders of magnitude longer**. The [four proposed protection mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) may extend coherence further.
+Hameroff and colleagues challenged this analysis (Hagan et al., 2002): Tegmark addressed a hybrid model rather than actual Orch OR, assumed incorrect superposition separations, and made questionable assumptions about charge interactions. After corrections, decoherence times increased to **10⁻⁵ to 10⁻⁴ seconds**—**eight or more orders of magnitude longer**. The [four proposed protection mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) may extend coherence further.
 
 The original Orch OR model required 25 milliseconds of coherence—still far longer than corrected estimates. But Bandyopadhyay (2014) found microtubule oscillations spanning kilohertz to terahertz frequencies. If Orch OR events occur at 10 MHz rather than 40 Hz, coherence need persist only **10⁻⁷ seconds** (100 nanoseconds), bringing theory into contact with experimentally observed timescales.
 
@@ -123,7 +122,7 @@ Orch OR and similar proposals require superpositions to persist long enough for 
 
 This mechanism requires only that individual observation events occur faster than decoherence destroys the superposition—not coherence across the full 280–300ms decision window. If decoherence occurs at microseconds and attention cycles at ~1 kHz, consciousness would need approximately 1000 observation events per decision—a snapshot model rather than continuous film.
 
-The discrete-versus-sustained distinction extends beyond Stapp's model. Radical pair effects, ion channel tunnelling, and synaptic vesicle release all involve near-instantaneous quantum events. The [full survey of quantum neural mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) and [mechanism comparison](/topics/comparing-quantum-consciousness-mechanisms/) map which proposals face the full decoherence objection and which sidestep it.
+The discrete-versus-sustained distinction extends beyond Stapp's model. Radical pair effects, ion channel tunnelling, and synaptic vesicle release all involve near-instantaneous quantum events. The [full survey of quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) and [mechanism comparison](/topics/comparing-quantum-consciousness-mechanisms/) map which proposals face the full decoherence objection and which sidestep it.
 
 The [attention-as-interface](/concepts/attention-as-interface/) hypothesis develops this further: attention serves as the mechanism by which consciousness interfaces with neural dynamics. Attention feels effortful because it *is* continuous intervention—matching the Zeno mechanism's predictions.
 
@@ -133,7 +132,7 @@ This response dissolves Claim 2 for the entire class of discrete-event mechanism
 
 *Targets Claim 1, categorical version. Strength: Moderate—establishes possibility, not actuality.*
 
-Three established examples refute the categorical claim that warm biological systems exclude quantum effects. See [quantum-biology](/concepts/quantum-biology/) for comprehensive evidence and [the convergence analysis](/topics/quantum-biology-and-neural-consciousness/) for how biological precedent combines with pharmacological, measurement, and computational evidence specifically in neural systems.
+Three established examples refute the categorical claim that warm biological systems exclude quantum effects. See [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) for comprehensive evidence and [the convergence analysis](/topics/quantum-biology-and-neural-consciousness/) for how biological precedent combines with pharmacological, measurement, and computational evidence specifically in neural systems.
 
 **Magnetoreception**: Birds navigate using quantum entanglement in cryptochrome proteins, with spin coherence persisting for *microseconds*—a million times longer than typical molecular decoherence in solution. **Enzyme catalysis**: Quantum tunnelling contributes to reaction acceleration factors of 10¹² to 10¹⁷, confirmed by large kinetic isotope effects. **Photosynthesis**: While coherence lifetimes proved shorter than initially claimed (~60 femtoseconds), quantum effects demonstrably operate in warm biological conditions.
 
@@ -187,16 +186,16 @@ The Unfinishable Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-in
 
 The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet depends on a physical mechanism for consciousness to influence the world. The five responses preserve this space: the measurement-problem opening works regardless of decoherence timescales, while discrete-event mechanisms sidestep decoherence timing entirely. The neural decision windows (280–300ms) are precisely where [free-will](/topics/free-will/) and [agent-causation](/concepts/agent-causation/) would need to operate. The [argument-from-reason](/topics/argument-from-reason/) strengthens the case: if rational thought requires consciousness to influence neural activity, some mechanism for mind-brain interaction must exist. Quantum indeterminacy provides a candidate.
 
-The [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits) tenet is directly relevant. The decoherence objection was taken as decisive partly because dismissing quantum consciousness seemed simpler than investigating whether biology might manage decoherence. The discovery of [quantum biology](/concepts/quantum-biology/)—magnetoreception, enzyme tunnelling—shows that nature's strategies are more resourceful than our assumptions predicted. The categorical claim that biological systems are "too warm" for quantum effects was treated as settled for decades before quantum biology overturned it empirically.
+The [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits) tenet is directly relevant. The decoherence objection was taken as decisive partly because dismissing quantum consciousness seemed simpler than investigating whether biology might manage decoherence. The discovery of [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/)—magnetoreception, enzyme tunnelling—shows that nature's strategies are more resourceful than our assumptions predicted. The categorical claim that biological systems are "too warm" for quantum effects was treated as settled for decades before quantum biology overturned it empirically.
 
 ## Further Reading
 
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The measurement problem and hard problem as two aspects of the same interface
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Timing hierarchy from femtosecond decoherence to 300ms decision windows
-- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Quantum neural mechanisms and coherence protection
+- [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) — Quantum neural mechanisms and coherence protection
 - [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't solve the measurement problem
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-physics interaction
-- [quantum-biology](/concepts/quantum-biology/) — Comprehensive coverage of biological quantum effects
+- [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) — Comprehensive coverage of biological quantum effects
 - [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Quantum biology, neural evidence convergence, and the consciousness debate
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — Which mechanisms face which constraints
 - [physics-as-disclosure](/concepts/physics-as-disclosure/) — Why decoherence's clean partition supports the disclosure reading of quantum mechanics

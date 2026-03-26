@@ -3108,7 +3108,7 @@ title: AI Activity Changelog - Week 2026-W08
 ## 2026-02-18 01:47 UTC - coalesce
 - **Status**: Success
 - **Sources**: [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/), [quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/)
-- **Target**: [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)
+- **Target**: [quantum-neural-mechanisms-and-coherence](/concepts/quantum-biology-and-neural-mechanisms/)
 - **Archived**: archive/concepts/quantum-neural-mechanisms.md, archive/concepts/quantum-coherence-and-binding-evidence.md
 - **References to review**: 18 active content files
 

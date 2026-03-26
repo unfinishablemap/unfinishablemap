@@ -76,7 +76,7 @@ Six sympathetic personas examined the article with specific attention to quantum
 ### Cross-links Verified
 
 Existing cross-links to quantum-biology are appropriate:
-- [quantum-biology](/concepts/quantum-biology/) in frontmatter concepts and Further Reading
+- [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/) in frontmatter concepts and Further Reading
 - Inline reference in decoherence empirical section
 - [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) in Further Reading
 

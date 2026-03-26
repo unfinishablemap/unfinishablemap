@@ -15,8 +15,7 @@ concepts:
 - '[[causal-closure]]'
 - '[[quantum-holism-and-phenomenal-unity]]'
 - '[[brain-interface-boundary]]'
-- '[[quantum-biology]]'
-- '[[quantum-neural-mechanisms-and-coherence]]'
+- '[[quantum-biology-and-neural-mechanisms]]'
 - '[[mysterianism]]'
 - '[[phenomenal-binding-and-holism]]'
 - '[[consciousness-in-non-collapsed-quantum-states]]'
@@ -70,7 +69,7 @@ Orch OR locates quantum effects in microtubules—protein structures inside neur
 
 These findings form part of a broader [convergence of independent evidence lines](/topics/quantum-biology-and-neural-consciousness/)—biological precedent, pharmacological correlation, direct measurement, and computational modelling—that strengthens the cumulative case even where individual lines remain inconclusive.
 
-**Challenge**: The [decoherence objection](/concepts/decoherence/) remains the most serious obstacle. Tegmark calculated coherence times of 10⁻¹³ seconds—too short for neural relevance. Revised calculations accounting for protective mechanisms extend estimates to 10⁻⁵ seconds, but **this is still three orders of magnitude shorter than neural decisions (~300ms)**—the [timing gap](/concepts/timing-gap-problem/) is reduced but not eliminated for mechanisms requiring sustained coherence. However, [alternative mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) operate through discrete quantum events rather than continuous superposition, sidestepping this constraint entirely. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing analysis.
+**Challenge**: The [decoherence objection](/concepts/decoherence/) remains the most serious obstacle. Tegmark calculated coherence times of 10⁻¹³ seconds—too short for neural relevance. Revised calculations accounting for protective mechanisms extend estimates to 10⁻⁵ seconds, but **this is still three orders of magnitude shorter than neural decisions (~300ms)**—the [timing gap](/concepts/timing-gap-problem/) is reduced but not eliminated for mechanisms requiring sustained coherence. However, [alternative mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) operate through discrete quantum events rather than continuous superposition, sidestepping this constraint entirely. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing analysis.
 
 ## Quantum Zeno Effect (Stapp)
 
@@ -119,9 +118,9 @@ See [decoherence](/concepts/decoherence/) for comprehensive analysis. Two distin
 
 This is a separate challenge. Even granting that the measurement problem leaves room for consciousness, specific mechanisms must maintain the right kind of quantum states in biological conditions. The decoherence objection targets this empirical claim directly.
 
-**Biology exploits quantum effects, but the neural case is unproven.** Avian magnetoreception, photosynthesis, and enzyme catalysis all use quantum coherence in warm biological systems. [Quantum biology](/concepts/quantum-biology/) establishes that evolution can optimize quantum effects—but these precedents involve specialised molecular systems, not the large-scale neural coherence some proposals require. See [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/) for the experimental evidence that the quantum-classical boundary keeps receding.
+**Biology exploits quantum effects, but the neural case is unproven.** Avian magnetoreception, photosynthesis, and enzyme catalysis all use quantum coherence in warm biological systems. [Quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) establishes that evolution can optimize quantum effects—but these precedents involve specialised molecular systems, not the large-scale neural coherence some proposals require. See [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/) for the experimental evidence that the quantum-classical boundary keeps receding.
 
-**Discrete vs. sustained coherence matters.** The decoherence objection bites hardest against mechanisms requiring sustained superposition (like Orch OR). Several mechanisms instead operate through discrete quantum events—synaptic tunneling, ion channel tunneling, and Stapp's Zeno effect—which sidestep the timing gap because each event is instantaneous. However, even discrete mechanisms require coherent quantum states to act upon; if decoherence destroys superposition in femtoseconds, the question is whether any superposed states survive long enough to be selected. See [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) for five distinct mechanisms spanning this spectrum.
+**Discrete vs. sustained coherence matters.** The decoherence objection bites hardest against mechanisms requiring sustained superposition (like Orch OR). Several mechanisms instead operate through discrete quantum events—synaptic tunneling, ion channel tunneling, and Stapp's Zeno effect—which sidestep the timing gap because each event is instantaneous. However, even discrete mechanisms require coherent quantum states to act upon; if decoherence destroys superposition in femtoseconds, the question is whether any superposed states survive long enough to be selected. See [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) for five distinct mechanisms spanning this spectrum.
 
 **The Zeno alternative.** Stapp's mechanism operates through discrete observation cycles, not sustained coherence. **A critical assumption**: this requires that observations remain effective despite intervening decoherence—a point that requires empirical verification. Each observation "resets" the quantum state; the accumulated effect biases outcomes. If decoherence occurs at microseconds and observations at milliseconds, ~1000 observations per 300ms window suffices—rapid but not requiring continuous coherence. Denton et al.'s demonstration of biological Zeno effects in cryptochrome is consistent with this picture, but the neural case remains undemonstrated.
 
@@ -188,7 +187,7 @@ The Map's tenets don't commit to any specific mechanism. They require:
 4. **No Many Worlds**: Collapse is real; indexical identity matters. Quantum theories require genuine collapse.
 5. **Occam's Razor Has Limits**: "Consciousness is just brain activity" isn't true if brain activity can't explain selection.
 
-Orch OR, Stapp, and the other mechanisms in [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) are all compatible. The Map remains agnostic about which (if any) is correct—what matters is that *some* such mechanism exists.
+Orch OR, Stapp, and the other mechanisms in [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) are all compatible. The Map remains agnostic about which (if any) is correct—what matters is that *some* such mechanism exists.
 
 The Map's position is strong emergentism that specifies its mechanism. Mental causation operates at quantum indeterminacies, where physics provides necessary but not sufficient causes. This transforms [mental causation](/concepts/mental-causation/) from philosophical puzzle into precise proposal: consciousness causes physical effects by determining what physics leaves undetermined. The [selection laws](/concepts/psychophysical-laws/) concept articulates what such downward determination must specify—which mental variables map to which physical parameters through what mechanisms.
 
@@ -198,7 +197,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 
 **Mechanisms and timing:**
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — Candidate neural sites, timing constraints, and testable predictions
-- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Five neural quantum mechanisms with evidence status
+- [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) — Five neural quantum mechanisms with evidence status
 - [neural-implementation-specifics](/topics/neural-implementation-specifics/) — Evidence hierarchy across five proposed neural mechanisms
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Comprehensive treatment of the quantum Zeno mechanism
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Timing hierarchy from femtosecond to 300ms neural decisions
@@ -233,7 +232,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 - [measurement-problem](/concepts/measurement-problem/) — Why collapse creates the quantum opening
 - [it-from-bit-and-participatory-ontology](/topics/it-from-bit-and-participatory-ontology/) — Wheeler's information ontology and the case for informational foundations
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Which interpretations leave room for consciousness as causal participant
-- [quantum-biology](/concepts/quantum-biology/) — Evolution exploiting quantum effects
+- [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) — Evolution exploiting quantum effects
 - [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Quantum biology, neural evidence convergence, and the consciousness debate
 
 ## References

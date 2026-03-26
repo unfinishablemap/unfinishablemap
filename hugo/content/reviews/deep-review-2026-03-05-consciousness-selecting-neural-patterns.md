@@ -65,14 +65,14 @@ All six adversarial personas engaged:
 ### Enhancements Made
 - Softened overstated evidence claim for Wiest et al. findings
 - Added inline link to [agent-causation](/concepts/agent-causation/) in Selection vs. Random Outcomes section
-- Added cross-links to [agent-causation](/concepts/agent-causation/), [epiphenomenalism](/concepts/epiphenomenalism/), [quantum-biology](/concepts/quantum-biology/) in Further Reading
+- Added cross-links to [agent-causation](/concepts/agent-causation/), [epiphenomenalism](/concepts/epiphenomenalism/), [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/) in Further Reading
 - Consolidated duplicate [attention-as-interface](/concepts/attention-as-interface/) entries in Further Reading
 - Removed stale AI refinement log (marked for removal after human review, dated 2026-02-07)
 
 ### Cross-links Added
 - [agent-causation](/concepts/agent-causation/) (inline and Further Reading)
 - [epiphenomenalism](/concepts/epiphenomenalism/) (Further Reading)
-- [quantum-biology](/concepts/quantum-biology/) (Further Reading)
+- [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/) (Further Reading)
 
 ## Remaining Items
 

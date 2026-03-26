@@ -28,7 +28,7 @@ None. The article was already well-structured from the previous review with comp
 
 ### Medium Issues Found
 
-1. **Missing cross-references to quantum biology content**: Despite extensive discussion of quantum effects in biological systems, the article did not link to the dedicated [quantum-biology](/concepts/quantum-biology/) concept page or [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/) topic.
+1. **Missing cross-references to quantum biology content**: Despite extensive discussion of quantum effects in biological systems, the article did not link to the dedicated [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/) concept page or [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/) topic.
    - *Resolution*: Added both to concepts frontmatter and Further Reading section.
 
 2. **Decoherence timescale gap unaddressed**: The article mentioned 10⁻⁵ to 10⁻⁴ second coherence times but did not acknowledge this is still orders of magnitude shorter than conscious decision timescales (~300ms).
@@ -70,7 +70,7 @@ All six pessimistic personas were applied:
 ### Enhancements Made
 
 1. **Added quantum biology cross-references** (~30 words gained through rewording):
-   - [quantum-biology](/concepts/quantum-biology/) to concepts frontmatter
+   - [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/) to concepts frontmatter
    - [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/) to related_articles
    - [neural-quantum-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) to concepts frontmatter
    - Three new entries in Further Reading section
@@ -79,7 +79,7 @@ All six pessimistic personas were applied:
    - Acknowledges remaining gap between coherence and decision timescales
    - Explains discrete-events-vs-sustained-superposition distinction
    - Cites 2024 cryptochrome Zeno study as biological precedent
-   - Links to [quantum-biology](/concepts/quantum-biology/) in body text
+   - Links to [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/) in body text
 
 3. **Removed Twin Study section** (~120 words freed):
    - Preprint with small sample size (106 twin pairs)
@@ -88,7 +88,7 @@ All six pessimistic personas were applied:
    - Empirical case rests more strongly on Epothilone Study and Kerskens-Pérez
 
 ### Cross-links Added
-- [quantum-biology](/concepts/quantum-biology/)
+- [quantum-biology](/concepts/quantum-biology-and-neural-mechanisms/)
 - [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/)
 - [neural-quantum-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)
 

@@ -121,7 +121,7 @@ The Unfinishable Map's [tenets](/tenets/) constitute a worked-out position withi
 
 **Tenet 5 (Occam's Razor Has Limits)** challenges the assumption that physicalism wins by default on grounds of simplicity. Philosophy of mind is precisely the domain where apparent parsimony may reflect ignorance rather than insight.
 
-Together, these tenets do not merely select a position from the existing menu. They generate a research programme — still largely speculative, but with concrete directions: investigating whether [quantum biology](/concepts/quantum-biology/) operates in neural systems, developing [psychophysical-laws](/concepts/psychophysical-laws/) that could formalise the mind-body interface, and working toward empirical tests of whether consciousness biases quantum outcomes in ways that differ from chance. The programme's viability depends on whether such tests can be designed; its philosophical coherence does not wait for them.
+Together, these tenets do not merely select a position from the existing menu. They generate a research programme — still largely speculative, but with concrete directions: investigating whether [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) operates in neural systems, developing [psychophysical-laws](/concepts/psychophysical-laws/) that could formalise the mind-body interface, and working toward empirical tests of whether consciousness biases quantum outcomes in ways that differ from chance. The programme's viability depends on whether such tests can be designed; its philosophical coherence does not wait for them.
 
 ## References
 

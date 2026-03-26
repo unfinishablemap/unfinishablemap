@@ -29,7 +29,7 @@ None.
 - **Unsupported effort-maintenance correlation claim**: Line asserting "subjects who report greater effort maintain more items" lacked citation. Resolution: Replaced with qualified claim citing Rouder et al. (2008) on capacity-aware predictions.
 - **Weak "computer simply fails" analogy**: Original comparison to computers that "simply fail" was easily dismissable — modern systems have resource monitoring and graceful degradation. Resolution: Reframed as "information-processing system that exceeds buffer capacity produces errors" vs conscious subjects feeling limits beforehand.
 - **Unqualified quantum speculation in MQI section**: The Minimal Quantum Interaction paragraph asserted capacity limits "may reflect constraints on quantum-level selections" without hedging. Per writing style guide (subjects requiring restraint), quantum Zeno should be presented as speculative possibility. Resolution: Added "one speculative possibility" framing, explicit note that core argument stands independently of quantum mechanism, and link to broader mechanism landscape.
-- **Missing MQI cross-references**: Article mentioned quantum Zeno mechanism via `[mental-effort](/concepts/mental-effort/)` but lacked links to `[stapp-quantum-mind](/concepts/stapp-quantum-mind/)`, `[attention-as-interface](/concepts/attention-as-interface/)`, and `[quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)`. Resolution: Added all three in expanded MQI section and Further Reading.
+- **Missing MQI cross-references**: Article mentioned quantum Zeno mechanism via `[mental-effort](/concepts/mental-effort/)` but lacked links to `[stapp-quantum-mind](/concepts/stapp-quantum-mind/)`, `[attention-as-interface](/concepts/attention-as-interface/)`, and `[quantum-neural-mechanisms-and-coherence](/concepts/quantum-biology-and-neural-mechanisms/)`. Resolution: Added all three in expanded MQI section and Further Reading.
 - **Missing No Many Worlds tenet**: Four of five tenets addressed; No Many Worlds omitted. Resolution: Added paragraph connecting phenomenology of loss/dropping to singular determination vs branching.
 - **Miller vs Cowan capacity discrepancy**: Article cited "seven plus or minus two" without noting Cowan's revision to ~4. Resolution: Added parenthetical noting Cowan's downward revision.
 
@@ -49,7 +49,7 @@ None.
 - Fatigue vs load distinction (temporal vs spatial) — important conceptual separation
 
 ### Enhancements Made
-- Expanded MQI section with three new cross-links (`[stapp-quantum-mind](/concepts/stapp-quantum-mind/)`, `[attention-as-interface](/concepts/attention-as-interface/)`, `[quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)`) and bandwidth constraint context
+- Expanded MQI section with three new cross-links (`[stapp-quantum-mind](/concepts/stapp-quantum-mind/)`, `[attention-as-interface](/concepts/attention-as-interface/)`, `[quantum-neural-mechanisms-and-coherence](/concepts/quantum-biology-and-neural-mechanisms/)`) and bandwidth constraint context
 - Added No Many Worlds tenet connection exploring how phenomenology of loss presupposes singular determination
 - Added `[phenomenology-of-cognitive-automatisation](/topics/phenomenology-of-cognitive-capacity/)` cross-link in Flow section, showing how automatisation reduces conscious load
 - Added `[attention-as-interface](/concepts/attention-as-interface/)` and `[stapp-quantum-mind](/concepts/stapp-quantum-mind/)` to Further Reading
@@ -57,7 +57,7 @@ None.
 ### Cross-links Added
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
 - [attention-as-interface](/concepts/attention-as-interface/)
-- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)
+- [quantum-neural-mechanisms-and-coherence](/concepts/quantum-biology-and-neural-mechanisms/)
 - [phenomenology-of-cognitive-automatisation](/topics/phenomenology-of-cognitive-capacity/)
 
 ## Remaining Items

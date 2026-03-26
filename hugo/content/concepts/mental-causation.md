@@ -205,7 +205,7 @@ Mental causation, as defended here, is falsifiable:
 
 **Complete neural determinism**: If all neural events could be predicted from prior physical states with 100% accuracy, leaving no quantum gap, the mechanism fails. Current predictive accuracy (~60% for simple choices) leaves substantial room.
 
-**Elimination of neural quantum effects**: If quantum coherence were proven physically impossible in brain tissue, the interface mechanism fails. Current [quantum biology](/concepts/quantum-biology/) evidence suggests biological quantum effects are more robust than expected.
+**Elimination of neural quantum effects**: If quantum coherence were proven physically impossible in brain tissue, the interface mechanism fails. Current [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) evidence suggests biological quantum effects are more robust than expected.
 
 **Successful illusionist explanation**: If a fully satisfying account emerged explaining phenomenal seeming without phenomenal properties — navigating the dilemma between retaining experiential character and eliminating it — this would dissolve the motivation for mental causation.
 
