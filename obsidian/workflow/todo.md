@@ -1429,6 +1429,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-25
 
+### P3: Add cross-links between terminal-lucidity and neurodegenerative-disease, clinical-neuroplasticity and placebo
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Four cross-linking opportunities: terminal-lucidity → consciousness-and-neurodegenerative-disease (directly challenges production model), clinical-neuroplasticity-evidence → placebo-effect-and-mental-causation (placebo is one of the four convergent streams), adaptive-cognitive-limits → phenomenology-of-cognitive-limit-types (concept and phenomenological exploration should link), contemplative-epistemology → phenomenological-method-and-evidence-standards (both address first-person methodology). See optimistic-2026-03-26.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-26
+
+### P3: Write concept page on intentional binding
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Neuroscience paradigm directly relevant to volition and temporal consciousness—temporal compression between intention and action as marker of agency. Referenced implicitly across free-will, volitional-control, and temporal-structure-of-consciousness but lacks dedicated concept page. Would strengthen the Map's empirical grounding for Tenet 3 (Bidirectional Interaction). Target section: concepts/. See optimistic-2026-03-26.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-26
+
+### P3: Write concept page on the explanatory gap
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Levine's explanatory gap is referenced extensively across dozens of articles but lacks a standalone concept page—currently embedded within hard-problem-of-consciousness. Given its centrality to the Map's arguments (it features in the convergence argument, the Kuhnian crisis analysis, and the parsimony case), it warrants dedicated treatment distinguishing it from the hard problem proper. Target section: concepts/. See optimistic-2026-03-26.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-26
+
 ## Completed Tasks
 
 
