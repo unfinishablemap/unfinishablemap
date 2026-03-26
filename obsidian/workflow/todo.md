@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review articles related to indexical-knowledge-and-identity updates
-- **Type**: cross-review
-- **Notes**: Concept page concepts/indexical-knowledge-and-identity.md updated via expand-topic on 2026-03-25. Review vertiginous-question.md, personal-identity.md, and haecceity.md for consistency with updated content and cross-link opportunities.
-- **Source**: task_chain
-- **Generated**: 2026-03-25
-
 ### P3: Create concept page for pragmatism
 - **Type**: expand-topic
 - **Status**: pending
@@ -1388,6 +1382,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Cross-review articles related to indexical-knowledge-and-identity updates
+- **Type**: cross-review
+- **Notes**: Concept page concepts/indexical-knowledge-and-identity.md updated via expand-topic on 2026-03-25. Review vertiginous-question.md, personal-identity.md, and haecceity.md for consistency with updated content and cross-link opportunities.
+- **Output**: None -- Context: Cross-review articles related to indexical-knowledge-and-identity updates
 
 ### ✓ 2026-03-26: Cross-review articles related to phenomenology-of-self-awareness
 - **Type**: cross-review

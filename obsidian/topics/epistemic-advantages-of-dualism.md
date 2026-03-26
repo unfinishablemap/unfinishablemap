@@ -4,7 +4,7 @@ description: "Dualism opens intellectual territory materialism forecloses. Epist
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-26T01:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,6 +18,7 @@ concepts:
   - "[[introspection]]"
   - "[[decoherence]]"
   - "[[haecceity]]"
+  - "[[indexical-knowledge-and-identity]]"
   - "[[witness-consciousness]]"
 related_articles:
   - "[[tenets]]"
@@ -32,7 +33,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-03-04T23:33:00+00:00
+last_deep_review: 2026-03-26T01:31:00+00:00
 ---
 
 Dualism opens intellectual territory that materialism forecloses by assumption. If mind is reducible to matter, certain possibilities cannot arise—certain questions become meaningless, certain risks invisible. But if mind is irreducible, the space of what might be true expands dramatically. This epistemic openness is a feature, not a bug. When confronting the deepest questions about consciousness and value, epistemically humble positions favor taking dualism seriously—even if unproven—precisely because it keeps more possibilities on the table.
@@ -167,7 +168,7 @@ The epistemic humility argument for dualism would be undermined if:
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The asymmetric cost argument gains force from considering what we miss if consciousness has genuine causal powers. If materialism is correct, consciousness is epiphenomenal or illusory. If dualism is correct and consciousness causes physical effects, understanding that causation matters for everything from moral responsibility to the design of AI systems. Keeping bidirectional interaction on the table is not just metaphysically interesting but practically urgent.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: The epistemic humility argument has a structural parallel in physics. Many-worlds eliminates collapse and the measurement problem by positing all outcomes occur—a parsimony move that purchases simplicity by multiplying entities infinitely. The Map rejects this: accepting apparent complexity (real collapse, definite outcomes, [[haecceity|indexical identity]]) proves more honest than eliminative moves that deny what experience suggests. The same logic applies to consciousness: accepting its apparent reality is more epistemically responsible than denying it for theoretical convenience.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The epistemic humility argument has a structural parallel in physics. Many-worlds eliminates collapse and the measurement problem by positing all outcomes occur—a parsimony move that purchases simplicity by multiplying entities infinitely. The Map rejects this: accepting apparent complexity (real collapse, definite outcomes, [[indexical-knowledge-and-identity|indexical identity]]) proves more honest than eliminative moves that deny what experience suggests. The same logic applies to consciousness: accepting its apparent reality is more epistemically responsible than denying it for theoretical convenience.
 
 ## The Practical Upshot
 
@@ -194,6 +195,7 @@ The price of this openness is entertaining possibilities that may turn out to be
 - [[witness-consciousness]] — The contemplative perspective on observing experience
 - [[philosophical-zombies]] — The conceivability argument in detail
 - [[pragmatisms-path-to-dualism]] — Pragmatism's own criterion, applied reflexively, supports dualism
+- [[indexical-knowledge-and-identity]] — Irreducible first-person knowledge and its implications for identity
 - [[haecceity]] — Irreducible "thisness" and indexical identity
 
 ## References
