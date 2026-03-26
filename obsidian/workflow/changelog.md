@@ -5,6 +5,16 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 09:33 UTC - deep-review (cross-review)
+- **Status**: Success
+- **Trigger**: Cross-review perception articles considering perceptual-degradation-and-the-interface
+- **Files modified**: [[concepts/perception]], [[topics/dualist-perception]], [[topics/consciousness-as-perceptual-architect]], [[concepts/perceptual-reconstruction-selection]]
+- **Cross-links added**: 4 articles now reference [[concepts/perceptual-degradation-and-the-interface]]
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (missing cross-links to degradation concept)
+- **Enhancements made**: 4 (body text connections + frontmatter + Further Reading)
+- **Output**: [[reviews/deep-review-2026-03-26-cross-review-perception-degradation]]
+
 ## 2026-03-26 09:17 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/neurophenomenology-and-contemplative-neuroscience]]

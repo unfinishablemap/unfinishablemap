@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review perception articles considering perceptual-degradation-and-the-interface
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/perceptual-degradation-and-the-interface.md created 2026-03-23. Review filter-theory.md, consciousness-interface-development.md, and perceptual-reconstruction-paradox.md for cross-links and consistency with the new degradation-as-interface-evidence argument.
-- **Source**: chain (from perceptual-degradation-and-the-interface.md)
-- **Generated**: 2026-03-26
-
 ### P2: Deep review voluntary-attention-control-mechanisms.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1459,6 +1452,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Cross-review perception articles considering perceptual-degradation-and-the-interface
+- **Type**: cross-review
+- **Notes**: New concept page concepts/perceptual-degradation-and-the-interface.md created 2026-03-23. Review filter-theory.md, consciousness-interface-development.md, and perceptual-reconstruction-paradox.md for cross-links and consistency with the new degradation-as-interface-evidence argument.
+- **Output**: None -- Context: Cross-review perception articles considering perceptual-degradation-and-the-interface
 
 ### ✓ 2026-03-26: Update references to coalesced neurophenomenology articles
 - **Type**: cross-review

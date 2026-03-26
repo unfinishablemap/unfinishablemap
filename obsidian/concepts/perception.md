@@ -4,7 +4,7 @@ description: "Human and AI exploration of perception as consciousness encounteri
 created: 2026-03-23
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-03-23T15:29:00+00:00
+ai_modified: 2026-03-26T09:33:00+00:00
 last_deep_review: 2026-03-23T15:29:00+00:00
 draft: false
 topics:
@@ -27,6 +27,7 @@ related_articles:
   - "[[knowledge-argument]]"
   - "[[consciousness-as-perceptual-architect]]"
   - "[[perceptual-failure-and-the-interface]]"
+  - "[[perceptual-degradation-and-the-interface]]"
   - "[[selective-correction-and-reconstruction-paradox]]"
   - "[[sensorimotor-contingencies-and-the-interface]]"
   - "[[phenomenal-transparency]]"
@@ -73,6 +74,8 @@ The strongest evidence that perception involves something beyond neural processi
 
 **Inattentional blindness** — failing to notice a gorilla walking through a basketball game — shows that retinal processing can be complete while conscious perception is absent (Simons & Chabris, 1999). Conversely, **lucid dreaming** demonstrates vivid perceptual experience largely decoupled from external sensory input. Processing without experience and experience without external sensory input establish that these are separable capabilities.
 
+**[[perceptual-degradation-and-the-interface|Perceptual degradation]]** reveals the interface from a different angle. When perception fails — through blur, neural damage, or pharmacological disruption — novel phenomenal properties emerge (the texture of haziness, the softness of degraded vision) that belong to the experiencing subject, not to external objects. The pattern of failure exhibits four signatures — graceful degradation, priority preservation, compensatory generation, and the anaesthesia dissociation — that collectively point toward a bandwidth-limited transmission channel connecting consciousness and the brain rather than an identity between them.
+
 **Bistable percepts** like the Necker cube add a third dimension: the same physical stimulus supports multiple perceptual interpretations, and consciousness alternates between them in ways that voluntary [[attention-as-interface|attention]] can bias. Here consciousness participates in determining *which* perception occurs — a phenomenon that [[predictive-processing]] frameworks struggle to explain without granting consciousness a role beyond passive Bayesian updating.
 
 ## Perception and the Binding Problem
@@ -108,6 +111,7 @@ Perception is where the Map's [[tenets]] find their most concrete application.
 - [[phenomenal-overflow]] — When experience outruns cognitive access
 - [[filter-theory]] — The brain as interface rather than generator
 - [[perceptual-failure-and-the-interface]] — What degraded perception reveals about the interface
+- [[perceptual-degradation-and-the-interface]] — The four failure signatures as evidence for a transmission channel
 - [[selective-correction-and-reconstruction-paradox]] — Asymmetric perceptual editing as evidence of a conscious recipient
 - [[predictive-processing]] — Perception as hierarchical Bayesian inference
 

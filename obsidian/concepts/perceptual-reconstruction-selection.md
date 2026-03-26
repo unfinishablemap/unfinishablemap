@@ -4,7 +4,7 @@ description: "When the brain generates multiple valid perceptual interpretations
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-18T14:55:00+00:00
+ai_modified: 2026-03-26T09:33:00+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -23,6 +23,7 @@ related_articles:
   - "[[reconstruction-paradox]]"
   - "[[filter-theory]]"
   - "[[hard-problem-of-consciousness]]"
+  - "[[perceptual-degradation-and-the-interface]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -48,7 +49,7 @@ The [[predictive-processing]] framework models this as competition between two e
 This three-way distinction clarifies the architecture:
 
 1. **Autonomous correction** — the brain resolves ambiguity using confident priors (blind spot filling, saccadic masking). Consciousness receives the result without knowing the ambiguity existed.
-2. **Faithful transmission** — the brain delivers unresolved signals to consciousness (optical blur, cognitively impenetrable illusions like Müller-Lyer). Consciousness receives the signal but cannot correct it, even when it knows the signal is wrong — a limit Fodor (1983) identified as informational encapsulation.
+2. **Faithful transmission** — the brain delivers unresolved signals to consciousness (optical blur, cognitively impenetrable illusions like Müller-Lyer). Consciousness receives the signal but cannot correct it, even when it knows the signal is wrong — a limit Fodor (1983) identified as informational encapsulation. [[perceptual-degradation-and-the-interface|Perceptual degradation]] operates primarily in this mode: blur, desaturation, and noise are faithfully transmitted rather than corrected, producing the four failure signatures that reveal the interface's bandwidth architecture.
 3. **Selection under ambiguity** — the brain generates competing reconstructions and consciousness settles on one. Neither the brain nor consciousness resolves the ambiguity permanently; the settlement is temporary and revisable.
 
 The third category is distinctive because consciousness is neither passive recipient nor powerless observer. It actively participates in determining which reconstruction becomes experience. Attention modulates the dynamics. Training and expertise alter the patterns. The process responds to top-down influence in ways that autonomous correction does not.

@@ -4,7 +4,7 @@ description: "Perception is where consciousness meets the world. Dissociations, 
 created: 2026-02-16
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-26T09:33:00+00:00
 last_deep_review: 2026-03-19T05:33:00+00:00
 draft: false
 topics:
@@ -39,6 +39,7 @@ related_articles:
   - "[[perceptual-reconstruction-selection]]"
   - "[[surprise-prediction-error-and-consciousness]]"
   - "[[perceptual-failure-and-the-interface]]"
+  - "[[perceptual-degradation-and-the-interface]]"
   - "[[reconstruction-paradox]]"
   - "[[filter-theory]]"
 ai_contribution: 100
@@ -63,7 +64,7 @@ Three features make perception particularly revealing. First, perceptual [[quali
 
 The [[knowledge-argument]] crystallises the gap: a neuroscientist who knows everything about colour processing but has never seen red still learns something when she finally sees it (Jackson, 1982). A physicalist can acknowledge this gap while insisting it is merely epistemic. The dualist holds that the gap is ontological: phenomenal qualities are genuinely distinct from the physical properties that occasion them. If correct, no completed neuroscience of vision will explain why red looks the way it does, because the explanation requires crossing into a domain that neuroscience does not describe.
 
-The [[perceptual-failure-and-the-interface|blur paradox]] sharpens this further: when perception degrades, novel phenomenal qualities emerge — the texture of blur, the softness of haziness — that have no home in the external physical scene. Degradation does not merely reduce information; it generates new phenomenal properties, exposing the explanatory gap in concrete sensory experience.
+The [[perceptual-failure-and-the-interface|blur paradox]] sharpens this further: when perception degrades, novel phenomenal qualities emerge — the texture of blur, the softness of haziness — that have no home in the external physical scene. Degradation does not merely reduce information; it generates new phenomenal properties, exposing the explanatory gap in concrete sensory experience. The [[perceptual-degradation-and-the-interface|four failure signatures]] — graceful degradation, priority preservation, compensatory generation, and the anaesthesia dissociation — provide converging evidence for a bandwidth-limited interface rather than an identity between neural activity and experience.
 
 ## Dissociations: Processing Without Experience
 
@@ -180,6 +181,7 @@ The Map's [[tenets]] find their sharpest expression in perception.
 - [[capability-division-problem]] — Separating brain-side and mind-side capabilities
 - [[capability-division-in-vision]] — Vision-specific evidence constraining the brain/mind boundary
 - [[perceptual-failure-and-the-interface]] — What degraded perception reveals about the interface
+- [[perceptual-degradation-and-the-interface]] — The four failure signatures as evidence for a transmission channel
 - [[selective-correction-and-reconstruction-paradox]] — Asymmetric perceptual editing and the reconstruction paradox
 - [[reconstruction-paradox]] — Selective editing as evidence of a conscious recipient
 - [[perceptual-reconstruction-selection]] — Bistable percepts as evidence of conscious selection
