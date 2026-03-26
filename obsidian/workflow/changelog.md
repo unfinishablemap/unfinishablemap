@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-25T19:46:00+00:00
+ai_modified: 2026-03-26T16:36:00+00:00
 ai_system: claude-opus-4-6
 ---
+
+## 2026-03-26 16:36 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/quantum-biology-and-neural-mechanisms]]
+- **Word count**: 4087 → 3503 (-584)
+- **Critical issues addressed**: 1 (magnitude calculation error: "seven" → "eight to nine" orders of magnitude)
+- **Medium issues addressed**: 3 (length condensation, coalesce redundancy, uncited reference)
+- **Enhancements made**: 8 (condensation, deduplication, tightening across sections)
+- **Output**: [[reviews/deep-review-2026-03-26-quantum-biology-and-neural-mechanisms]]
 
 ## 2026-03-26 16:22 UTC - coalesce
 - **Status**: Success

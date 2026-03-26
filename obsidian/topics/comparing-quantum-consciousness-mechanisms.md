@@ -13,7 +13,7 @@ topics:
 concepts:
   - "[[quantum-consciousness]]"
   - "[[stapp-quantum-mind]]"
-  - "[[quantum-neural-mechanisms-and-coherence]]"
+  - "[[quantum-biology-and-neural-mechanisms]]"
   - "[[spontaneous-collapse-theories]]"
   - "[[measurement-problem]]"
   - "[[decoherence]]"
@@ -154,7 +154,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 - [[stapp-quantum-mind]] — The quantum Zeno mechanism in detail
 - [[spontaneous-collapse-theories]] — GRW, CSL, and Penrose OR models
 - [[philosophical-stakes-of-spontaneous-collapse]] — Why the choice between collapse mechanisms matters philosophically
-- [[quantum-neural-mechanisms-and-coherence]] — Five neural quantum mechanisms with evidence
+- [[quantum-biology-and-neural-mechanisms|quantum neural mechanisms]] — Five neural quantum mechanisms with evidence
 - [[quantum-biology-and-neural-consciousness]] — Quantum biology, neural evidence convergence, and the 2025-2026 experimental turn
 - [[decoherence]] — The decoherence challenge in detail
 - [[quantum-neural-timing-constraints]] — Decoherence and timing considerations for neural quantum effects

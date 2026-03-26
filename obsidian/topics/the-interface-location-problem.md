@@ -18,7 +18,7 @@ concepts:
   - "[[brain-interface-boundary]]"
   - "[[decoherence]]"
   - "[[coupling-modes]]"
-  - "[[quantum-neural-mechanisms-and-coherence]]"
+  - "[[quantum-biology-and-neural-mechanisms]]"
   - "[[measurement-problem]]"
   - "[[psychophysical-laws]]"
   - "[[motor-selection]]"

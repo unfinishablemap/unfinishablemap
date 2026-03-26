@@ -12,7 +12,7 @@ concepts:
   - "[[quantum-consciousness]]"
   - "[[decoherence]]"
   - "[[measurement-problem]]"
-  - "[[quantum-biology]]"
+  - "[[quantum-biology-and-neural-mechanisms]]"
   - "[[spontaneous-collapse-theories]]"
 related_articles:
   - "[[tenets]]"
@@ -138,7 +138,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] ga
 - [[decoherence]] — Comprehensive treatment of decoherence, including the Tegmark-Hameroff debate on neural coherence timescales
 - [[measurement-problem]] — Why decoherence doesn't solve the fundamental issue
 - [[quantum-measurement-and-consciousness]] — The measurement problem's philosophical dimensions: epistemological, ontological, and agential
-- [[quantum-biology]] — Established quantum effects in biological systems
+- [[quantum-biology-and-neural-mechanisms|quantum biology]] — Established quantum effects in biological systems
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-physics interaction
 - [[neural-implementation-specifics]] — How decoherence affects specific neural quantum mechanisms
 - [[consciousness-in-smeared-quantum-states]] — What consciousness does during quantum superposition

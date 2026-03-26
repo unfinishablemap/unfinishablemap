@@ -24,7 +24,7 @@ concepts:
   - "[[introspection]]"
   - "[[decoherence]]"
   - "[[witness-consciousness]]"
-  - "[[quantum-biology]]"
+  - "[[quantum-biology-and-neural-mechanisms]]"
   - "[[phenomenal-normativity]]"
   - "[[valence]]"
 related_articles:

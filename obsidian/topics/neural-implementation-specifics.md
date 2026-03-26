@@ -9,8 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[quantum-neural-mechanisms-and-coherence]]"
-  - "[[quantum-biology]]"
+  - "[[quantum-biology-and-neural-mechanisms]]"
   - "[[quantum-consciousness]]"
   - "[[decoherence]]"
   - "[[neural-correlates-of-consciousness]]"
@@ -233,8 +232,7 @@ None of these has been demonstrated to be the *actual* mechanism of conscious in
 
 ## Further Reading
 
-- [[quantum-neural-mechanisms-and-coherence]] — Survey of all five proposed mechanisms
-- [[quantum-biology]] — Established quantum effects in living systems
+- [[quantum-biology-and-neural-mechanisms|quantum neural mechanisms]] — Survey of all five proposed mechanisms and established quantum effects in living systems
 - [[quantum-neural-timing-constraints]] — The timing hierarchy and decoherence challenge
 - [[decoherence]] — The decoherence critique in detail
 - [[neural-correlates-of-consciousness]] — Where consciousness correlates with brain activity

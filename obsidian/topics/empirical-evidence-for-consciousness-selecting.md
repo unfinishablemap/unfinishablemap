@@ -14,7 +14,7 @@ concepts:
   - "[[mental-causation]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[baseline-cognition]]"
-  - "[[quantum-biology]]"
+  - "[[quantum-biology-and-neural-mechanisms]]"
   - "[[quantum-consciousness]]"
   - "[[decoherence]]"
   - "[[concepts/attention-as-interface]]"

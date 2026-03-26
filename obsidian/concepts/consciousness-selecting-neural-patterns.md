@@ -224,7 +224,7 @@ The Map should not claim that selection within Born probabilities constitutes a 
 - [[witness-consciousness]] — Contemplative evidence for awareness selecting content
 - [[agent-causation]] — The metaphysics of agents as irreducible causes
 - [[epiphenomenalism]] — The denial of mental causation that selection rejects
-- [[quantum-biology]] — Empirical evidence for quantum effects in biological systems
+- [[quantum-biology-and-neural-mechanisms|quantum biology]] — Empirical evidence for quantum effects in biological systems
 - [[time-symmetric-selection-mechanism]] — Atemporal selection via transactional interpretation
 - [[interactionist-dualism]] — The philosophical framework selection implements
 

@@ -4,7 +4,7 @@ description: "Established quantum effects in living systems—photosynthesis, ma
 created: 2026-01-16
 modified: 2026-03-26
 human_modified: null
-ai_modified: 2026-03-26T16:22:00+00:00
+ai_modified: 2026-03-26T16:36:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,7 +46,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-26
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-26T16:36:00+00:00
 coalesced_from:
   - "/concepts/quantum-biology/"
   - "/concepts/quantum-neural-mechanisms-and-coherence/"
@@ -85,51 +85,27 @@ Migratory birds navigate using Earth's magnetic field through quantum effects in
 - Birds detect magnetic field direction to better than 5°
 - The mechanism is exquisitely sensitive to weak magnetic fields
 
-**November 2025 breakthrough**: Luo et al. at Princeton published computational simulations in JACS showing how protein and solvent reorganisation drives radical pair stability in avian cryptochrome-4a. They identified the electron transfer pathway (>18 angstroms from flavin to final radical pair) and showed how the protein environment stabilises the radical pair for magnetic sensing.
+**2025**: Luo et al. published computational simulations in JACS showing how protein reorganisation drives radical pair stability in cryptochrome-4a, identifying the electron transfer pathway (>18 angstroms).
 
-**2024 Quantum Zeno discovery**: Nature Communications published evidence that the quantum Zeno effect enables magnetosensitivity in cryptochrome radical pairs. Tight binding of radicals within the protein preserves coherence against decoherence—the same mechanism Stapp proposes for mental causation. This provides the first biological precedent for the Zeno mechanism operating at neural-relevant timescales.
+**2024 Quantum Zeno discovery**: Denton et al. demonstrated in Nature Communications that the quantum Zeno effect enables magnetosensitivity in cryptochrome radical pairs—tight binding preserves coherence against decoherence. This is the same mechanism Stapp proposes for mental causation, providing the first biological precedent for the Zeno mechanism at neural-relevant timescales.
 
-This is the strongest evidence that evolution can optimise biological systems for quantum-coherent function. Natural selection produced a quantum compass in bird eyes—and it works via the same quantum Zeno effect proposed for consciousness-brain interaction. The [[evolutionary-case-for-quantum-neural-effects|evolutionary case for quantum neural effects]] extends this logic: if evolution discovered quantum solutions for navigation and chemistry, the far greater computational payoffs in neural systems make quantum neural effects probable rather than merely possible.
+Natural selection produced a quantum compass in bird eyes—the strongest evidence that evolution can optimise biological systems for quantum-coherent function. The [[evolutionary-case-for-quantum-neural-effects|evolutionary case for quantum neural effects]] extends this logic to neural systems.
 
 ### Enzyme Quantum Tunneling
 
 Many enzyme-catalysed reactions proceed faster than classical transition-state theory predicts. The explanation involves quantum tunneling: particles (typically protons or hydrogen atoms) don't go *over* energy barriers—they tunnel *through* them.
 
-**Evidence:**
-- Large kinetic isotope effects (reactions with hydrogen proceed much faster than with deuterium, consistent with tunneling)
-- Temperature and pressure dependencies inconsistent with purely classical mechanisms
-- QM/MM (quantum mechanics/molecular mechanics) simulations successfully predict experimental rates
-
-**Examples:**
-- Soybean lipoxygenase-1 shows kinetic isotope effects too large for classical explanation
-- Alcohol dehydrogenase shows temperature-independent regions characteristic of tunneling
-- Aromatic amine dehydrogenase shows complex temperature/pressure behavior indicating coupled quantum-classical dynamics
-
-Evolution didn't avoid quantum effects in enzymes; it exploited them to accelerate reactions by factors of 10¹² to 10¹⁷.
+Evidence includes large kinetic isotope effects (hydrogen reactions proceed much faster than deuterium, consistent with tunneling), temperature dependencies inconsistent with classical mechanisms, and QM/MM simulations predicting experimental rates. Soybean lipoxygenase-1 and alcohol dehydrogenase provide particularly strong examples. Evolution exploited quantum tunneling to accelerate reactions by factors of 10¹² to 10¹⁷.
 
 ### Olfaction (Controversial)
 
-Luca Turin proposed that smell detection involves inelastic electron tunneling spectroscopy (IETS)—odorant molecules are identified partly by their vibrational frequencies, not just their shapes.
-
-**The theory:**
-- Odorant molecules fit receptor binding sites (shape recognition)
-- Then molecular vibrations are detected via electron tunneling
-- Different vibrational frequencies produce different signals
-- "Swipe card" model combining shape and vibration
-
-**Evidence and controversy:**
-- Biophysical simulations suggest the mechanism is physically viable
-- Some studies show humans can distinguish isotopes (hydrogen vs. deuterium versions of the same molecule)
-- Critics argue electron transfer could be suppressed by other vibrational modes
-- 2024 deep learning analysis of vibrational spectra supports theoretical predictions
-
-**Status:** Unresolved. Both shape and vibration may contribute. The relevance for consciousness is that even controversial quantum biological proposals are taken seriously because other quantum biological effects have been confirmed.
+Luca Turin proposed that smell detection involves inelastic electron tunneling spectroscopy—odorant molecules identified partly by vibrational frequencies, not just shape. Biophysical simulations and isotope discrimination studies provide partial support, though the mechanism remains unresolved. The relevance is that even controversial quantum biological proposals are taken seriously because other effects have been confirmed.
 
 ## The Decoherence Challenge
 
 [[decoherence|Max Tegmark's 2000 calculation]] estimated quantum coherence in brain microtubules would decay in ~10⁻¹³ seconds (100 femtoseconds)—ten billion times shorter than millisecond neural processes. This became the standard objection to quantum consciousness theories.
 
-Hagan, Hameroff, and Tuszynski (2002) challenged this: Tegmark assumed thermal equilibrium (dead tissue, not living systems), oversized superposition separations, and charge-charge rather than dipole interactions. When corrected, coherence times extend to **10⁻⁵ to 10⁻⁴ seconds** (~10-100 microseconds)—seven orders of magnitude longer. Hameroff et al. (2025) confirm these predictions experimentally.
+Hagan, Hameroff, and Tuszynski (2002) challenged this: Tegmark assumed thermal equilibrium (dead tissue, not living systems), oversized superposition separations, and charge-charge rather than dipole interactions. Corrected coherence times extend to **10⁻⁵ to 10⁻⁴ seconds** (~10-100 microseconds)—eight to nine orders of magnitude longer.
 
 | Source | Coherence Time | Key Assumption |
 |--------|---------------|----------------|
@@ -146,7 +122,7 @@ Even microsecond coherence remains three orders of magnitude below millisecond n
 
 **Cumulative selection**: If consciousness selects among quantum alternatives many times per second, microsecond coherence windows suffice. The [[bandwidth-problem-mental-causation|bandwidth constraint]] (~10 bits/second) limits information per selection, but [[coupling-modes|coupling modes]] like basis control multiply impact. See [[topics/quantum-neural-timing-constraints]] for the full timing hierarchy.
 
-More fundamentally, decoherence doesn't solve the [[measurement-problem]]. As a 2025 review notes, "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Consciousness could bias outcomes at the point of measurement even after decoherence has occurred.
+More fundamentally, decoherence doesn't solve the [[measurement-problem]]: it explains why superpositions appear classical but not why measurements yield definite outcomes. Consciousness could bias outcomes at the point of measurement even after decoherence has occurred.
 
 ## Four Coherence Protection Mechanisms
 
@@ -166,15 +142,15 @@ Fisher's 2015 proposal operates at nuclear scales. Phosphorus-31 nuclear spins i
 
 ### Ordered Water and Cytoskeletal Gel
 
-Cytoplasm is a structured gel: actin filaments, ordered water layers near microtubules, and counterion Debye layers all screen thermal fluctuations, potentially working synergistically with the other mechanisms.
+Cytoplasm is a structured gel: actin filaments, ordered water layers near microtubules, and counterion Debye layers screen thermal fluctuations, potentially working synergistically with the other mechanisms.
 
-These four mechanisms need not operate independently—their combination could extend coherence far beyond any single mechanism. The quantum biology evidence surveyed above confirms the principle: evolution has already optimised quantum effects in photosynthesis and magnetoreception under comparable conditions.
+These four mechanisms need not operate independently—their combination could extend coherence far beyond any single mechanism.
 
 ## Five Neural Quantum Mechanisms
 
 ### Mechanism 1: Radical Pair Effects in Neural Cryptochromes
 
-Cryptochrome proteins enable avian magnetoreception through quantum effects and may function in neural tissue. Light absorption creates entangled singlet-triplet electron pairs; magnetic fields bias the ratio, producing different chemical yields that transduce into neural activity. Denton et al. (2024) demonstrated the first biological quantum Zeno-protected states in cryptochrome radical pairs. Whether the mechanism extends beyond magnetoreception to cognition remains uncertain.
+The radical pair mechanism established in avian magnetoreception (see above) may extend to neural tissue. Whether cryptochromes function beyond magnetoreception in cognition remains uncertain, but Denton et al.'s (2024) demonstration of biological Zeno-protected states shows the mechanism works in biological environments.
 
 ### Mechanism 2: Ion Channel Quantum Tunneling
 
@@ -196,7 +172,7 @@ The Beck-Eccles model proposes quantum tunneling triggers neurotransmitter vesic
 
 ### Mechanism 5: Posner Molecule Entanglement (Fisher)
 
-Phosphorus nuclear spins in Posner molecules serve as entangled qubits with long coherence times (disputed: Fisher estimates hours to days; Player and Hore estimate ~37 minutes). The QuBrain project at UCSB is actively pursuing experimental validation. Details on the mechanism appear in the coherence protection section above.
+Uses the nuclear spin isolation mechanism described above. Coherence time estimates remain disputed (Fisher: hours to days; Player and Hore: ~37 minutes). The QuBrain project at UCSB is pursuing experimental validation.
 
 ### Evidence Hierarchy
 
@@ -218,29 +194,25 @@ The [[binding-problem|binding problem]] asks how distributed brain processes com
 
 Classical mechanisms—gamma synchrony, thalamocortical loops, integrated information—explain correlation without explaining unity. Neurons firing together remain separate neurons. Quantum entanglement provides ontological holism: the whole is prior to parts.
 
-Baum (2024) formalised this: zero-lag gamma synchrony (40-100 Hz, <1ms precision) cannot arise classically without violating relativistic causality. Bell's theorem and loophole-free experiments confirm that non-local correlations are exclusively quantum. If Baum's analysis holds, conscious binding necessitates quantum non-locality. The argument remains speculative and has not yet undergone peer review, but it crystallises the structural problem: classical mechanisms coordinate information without producing ontological unity.
+Baum (2024) formalised this: zero-lag gamma synchrony (40-100 Hz, <1ms precision) cannot arise classically without violating relativistic causality. Bell's theorem confirms non-local correlations are exclusively quantum. The argument remains speculative and not yet peer-reviewed, but it crystallises the structural problem: classical mechanisms coordinate information without producing ontological unity.
 
 ## Experimental Convergence
 
-None of this proves quantum consciousness, but it shifts the burden. The quantum hypothesis made specific predictions—microtubule involvement in anaesthesia (confirmed by the epothilone B study, Cohen's d = 1.9), measurable entanglement signatures during awareness (Kerskens & Pérez 2022, though disputed by Warren 2023), viable coherence times—and those predictions held up. Wiest (2025) argues that consciousness arising from quantum entanglement gains genuine causal power—not [[concepts/epiphenomenalism|epiphenomenal]] but physically efficacious. The [[quantum-biology-and-neural-consciousness|convergence analysis]] examines how these independent evidence lines collectively strengthen the case beyond what any single line warrants.
+None of this proves quantum consciousness, but it shifts the burden. The quantum hypothesis made specific predictions—microtubule involvement in anaesthesia (confirmed by the epothilone B study, Cohen's d = 1.9), measurable entanglement signatures during awareness (Kerskens & Pérez 2022, though disputed by Warren 2023), viable coherence times—and those predictions held up. Wiest (2025) argues that consciousness arising from quantum entanglement gains genuine causal power—not [[concepts/epiphenomenalism|epiphenomenal]] but physically efficacious. The [[quantum-biology-and-neural-consciousness|convergence analysis]] examines how these independent lines collectively strengthen the case.
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] like Daniel Dennett and Keith Frankish might dismiss the quantum biology debate as solving the wrong problem. If phenomenal consciousness is an introspective illusion—if there's nothing non-physical to explain—then quantum mechanisms have no work to do.
+[[illusionism|Illusionists]] like Daniel Dennett and Keith Frankish might dismiss the quantum biology debate as solving the wrong problem. If phenomenal consciousness is an introspective illusion, quantum mechanisms have no work to do.
 
-Two responses from the Map's perspective:
+Two responses: First, any account of why consciousness *seems* unified presupposes the very unity it denies. As Raymond Tallis observes, "Misrepresentation presupposes presentation"—to be under an illusion, something must be experiencing the illusion. Second, even if qualia are "illusions," *something* must select among quantum outcomes where physics leaves outcomes undetermined. The [[argument-from-reason]] suggests rational inference requires genuine phenomenal understanding—if we never really grasp logical relations, the basis for any argument (including illusionism itself) collapses.
 
-**The regress problem**: Any account of why consciousness *seems* unified presupposes the very unity it denies. Frankish's quasi-phenomenal seemings must themselves be experienced to influence behaviour. As Raymond Tallis observes, "Misrepresentation presupposes presentation"—to be under an illusion, something must be experiencing the illusion.
-
-**The selection problem persists**: Even if qualia are "illusions," *something* must select among quantum outcomes where physics leaves outcomes undetermined. The [[argument-from-reason]] suggests rational inference requires genuine phenomenal understanding—if we never really grasp logical relations, the basis for any argument (including illusionism itself) collapses.
-
-More directly: quantum biology's empirical findings are independent of the illusionism debate. Whether consciousness is "real" or "illusory," the evidence that warm biological systems harness quantum effects stands. What the evidence challenges is the assumption that biology must be classical.
+More directly: quantum biology's empirical findings are independent of the illusionism debate. The evidence that warm biological systems harness quantum effects stands regardless of whether consciousness is "real" or "illusory."
 
 ## Process Philosophy Perspective
 
 Alfred North Whitehead's process philosophy offers a complementary framework for understanding quantum biology's significance. For Whitehead, reality consists of "actual occasions"—momentary events of experience that arise, become determinate, and perish. Each actual occasion has both physical and experiential aspects; the division between "quantum effects" and "consciousness" reflects our conceptual categories, not ultimate reality.
 
-On this view, the quantum biology findings reveal something deeper than "biology harnessing quantum mechanics." They reveal that the physical and experiential aspects of reality are intertwined at the most fundamental level. Photosynthetic excitons sampling multiple pathways, entangled radical pairs in bird eyes, tunnelling particles in enzymes—each involves the same kind of "decision" or "prehension" that Whitehead sees throughout nature. Consciousness in complex nervous systems would then be a concentrated manifestation of what pervades reality.
+On this view, quantum biology reveals something deeper than "biology harnessing quantum mechanics": the physical and experiential aspects of reality are intertwined at the most fundamental level. Photosynthetic excitons sampling pathways, entangled radical pairs in bird eyes, tunnelling particles in enzymes—each involves the "prehension" that Whitehead sees throughout nature. Consciousness in complex nervous systems would then be a concentrated manifestation of what pervades reality.
 
 ## The Measurement Problem Connection
 
@@ -256,33 +228,29 @@ Standard physics provides probabilities for outcomes but doesn't determine which
 
 The Map's position would face serious difficulty if:
 
-1. **All biological quantum effects prove non-functional**: If magnetoreception, enzyme catalysis, and other quantum phenomena turn out to be epiphenomenal—byproducts that natural selection never exploited—the analogy to consciousness weakens. Currently, magnetoreception provides strong evidence that evolution *can* optimise quantum coherence for function.
+1. **Biological quantum effects prove non-functional or causally irrelevant**: If quantum phenomena turn out to be epiphenomenal byproducts, or present but not functionally connected to consciousness (e.g., classical explanation of anaesthetic-microtubule effects), the analogy weakens.
 
 2. **Sub-femtosecond coherence times** measured in living neural tissue despite all proposed protection mechanisms, definitively ruling out neural quantum effects.
 
 3. **Classical replication of binding**: Demonstration that classical mechanisms produce genuine ontological unity, not merely functional coordination.
 
-4. **All mechanisms prove causally irrelevant**: Quantum effects present but not functionally connected to consciousness (e.g., classical explanation of anaesthetic-microtubule effects unrelated to quantum coherence).
+4. **The Zeno mechanism proves insufficient**: If rapid attentional "observations" cannot operate at the timescales and energy scales required for neural influence, this pathway closes.
 
-5. **The Zeno mechanism proves insufficient**: If rapid attentional "observations" cannot operate at the timescales and energy scales required for neural influence, this pathway closes.
-
-6. **Many-Worlds proves correct**: If the [[concepts/many-worlds]] interpretation were empirically confirmed, all branches exist and there is no single outcome to select. Consciousness in each branch experiences a definite result, but there is no fact about which branch "you" inhabit—quantum biology would remain fascinating but irrelevant to the mind-body problem.
-
-7. **Illusionism succeeds in dissolving the hard problem**: If a fully satisfactory account emerges showing why we believe we're phenomenally conscious when we're not—without invoking phenomenal properties—the motivation for quantum consciousness theories diminishes. Currently, the "illusion problem" appears as difficult as the hard problem itself.
+6. **Many-Worlds proves correct**: All branches exist and there is no single outcome to select—quantum biology would remain fascinating but irrelevant to the mind-body problem (see the Illusionist Challenge and Relation to Site Perspective sections).
 
 ## Relation to Site Perspective
 
 **[[tenets#^dualism|Dualism]]**: These mechanisms don't prove dualism, but they remove the objection that warm brains cannot support quantum consciousness. Protection mechanisms provide the physical substrate through which non-physical consciousness could interact with neural tissue. If Baum's analysis holds, classical mechanisms cannot produce the ontological unity consciousness exhibits—something beyond classical physics is required.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The tenet proposes consciousness biases quantum outcomes without injecting energy. Quantum biology demonstrates the relevant substrate exists: biological systems routinely involve quantum indeterminacies where outcomes are undetermined. The [[consciousness-physics-interface-formalism|interface formalism]] makes this precise: any coupling must preserve Born rule statistics, Hilbert-space geometry, no-signalling, second-order interference structure, and conservation laws. The five neural mechanisms provide candidates for where consciousness might bias quantum outcomes within these constraints. Magnetoreception shows evolution can optimise such effects; the question is whether neural systems do likewise.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The tenet proposes consciousness biases quantum outcomes without injecting energy. Quantum biology demonstrates the relevant substrate exists: biological systems routinely involve quantum indeterminacies where outcomes are undetermined. The [[consciousness-physics-interface-formalism|interface formalism]] makes this precise: any coupling must preserve Born rule statistics, Hilbert-space geometry, no-signalling, and conservation laws. The five neural mechanisms provide candidates for where consciousness might bias outcomes within these constraints.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The epothilone B study directly supports bidirectional interaction: a physical intervention (microtubule stabilisation) affected consciousness (delayed anaesthesia), confirming that the microtubule-consciousness relationship runs in both directions. Each mechanism provides a pathway for consciousness to causally influence neural outcomes—synaptic tunneling is most explicit, with consciousness controlling exocytosis.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The epothilone B study directly supports this: microtubule stabilisation delayed anaesthesia (Cohen's d = 1.9), confirming that the microtubule-consciousness relationship runs in both directions. Each mechanism provides a pathway for consciousness to causally influence neural outcomes.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Protected quantum coherence matters only if collapse is real. On Many-Worlds, all outcomes occur in branching universes regardless of decoherence timescales. The significance of protection mechanisms depends on genuine quantum indeterminacy being resolved rather than merely branched. The Map's [[haecceity|commitment to indexical identity]] requires that protection enable actual selection, not just subjective experience of particular branches.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Protected quantum coherence matters only if collapse is real. On Many-Worlds, all outcomes occur regardless of decoherence timescales. The Map's [[haecceity|commitment to indexical identity]] requires that protection enable actual selection, not just subjective experience of particular branches.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The assumption that warm biology must be classical seemed parsimonious. Nature proved uncooperative. Birds navigate using quantum entanglement; enzymes accelerate reactions through quantum tunnelling. Simplicity pointed in the wrong direction. Classical theories seem simpler, but if neurons alone cannot produce unity, apparent simplicity becomes actual incompleteness.
 
-**A mysterian caveat:** Even if one of these mechanisms proves correct, we may face cognitive closure on *how* consciousness interfaces with quantum effects. [[mysterianism|Colin McGinn's cognitive closure thesis]] suggests that human minds may be constitutionally incapable of understanding the connection between phenomenal experience and physical processes. The Map documents these mechanisms not as final explanations but as candidates constrained by physics—while acknowledging that the ultimate nature of the consciousness-quantum interface may exceed human comprehension.
+**A mysterian caveat:** Even if one of these mechanisms proves correct, [[mysterianism|Colin McGinn's cognitive closure thesis]] suggests we may be constitutionally incapable of understanding the connection between phenomenal experience and physical processes. The Map documents these mechanisms as candidates constrained by physics, not final explanations.
 
 **Status summary:**
 
@@ -290,7 +258,7 @@ The Map's position would face serious difficulty if:
 - **Hypothesised**: Consciousness interfaces with quantum indeterminacy in neural systems.
 - **Uncertain**: Whether specific theories (Orch OR, QBIT, quantum Zeno) are correct.
 
-The relevance of quantum biology is primarily *defensive*: it removes a major objection to quantum consciousness without itself proving that consciousness involves quantum effects. The positive case rests on arguments from the [[hard-problem-of-consciousness]], [[mental-causation]], and [[topics/free-will]]—not on quantum biology alone.
+Quantum biology's relevance is primarily *defensive*: it removes a major objection to quantum consciousness without proving consciousness involves quantum effects. The positive case rests on the [[hard-problem-of-consciousness]], [[mental-causation]], and [[topics/free-will]].
 
 ## Further Reading
 
@@ -299,19 +267,14 @@ The relevance of quantum biology is primarily *defensive*: it removes a major ob
 - [[topics/quantum-neural-timing-constraints]] — The timing hierarchy from femtosecond decoherence to 300ms neural decisions
 - [[quantum-biology-and-neural-consciousness]] — Quantum biology, neural evidence convergence, and the consciousness debate
 - [[binding-problem]] — How quantum entanglement may solve phenomenal unity
-- [[quantum-holism-and-phenomenal-unity]] — Quantum entanglement and the binding problem
 - [[topics/comparing-quantum-consciousness-mechanisms]] — Side-by-side comparison of Orch OR, QBIT, Stapp, Fisher, and others
 - [[topics/empirical-evidence-for-consciousness-selecting]] — The experimental case for consciousness selecting among quantum outcomes
 - [[consciousness-physics-interface-formalism]] — The five mathematical constraints any consciousness-physics coupling must satisfy
-- [[coupling-modes]] — Basis, timing, and probability control as coupling mechanisms
 - [[evolutionary-case-for-quantum-neural-effects]] — Why evolutionary logic makes quantum neural effects probable
-- [[amplification-mechanisms-consciousness-physics]] — Six mechanisms bridging quantum effects to macroscopic neural outcomes
 - [[neural-implementation-specifics]] — Mechanism-specific evidence evaluation and crucial experiments
 - [[measurement-problem]] — Why quantum mechanics leaves outcomes undetermined
-- [[attention-as-interface]] — How the quantum Zeno mechanism might work
 - [[stapp-quantum-mind]] — Henry Stapp's quantum Zeno approach to mental causation
 - [[illusionism]] — The eliminativist challenge to consciousness studies
-- [[concepts/many-worlds]] — Why the Map rejects Many-Worlds
 - [[tenets]] — The Map's foundational commitments including Minimal Quantum Interaction
 
 ## References
@@ -331,7 +294,7 @@ The relevance of quantum biology is primarily *defensive*: it removes a major ob
 1. Georgiev, D. D. (2018). The quantum physics of synaptic communication via the SNARE protein complex. *Progress in Biophysics and Molecular Biology*, 135, 16-29.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
-1. Hameroff, S. et al. (2025). The quantum-classical complexity of consciousness and orchestrated objective reduction. *Frontiers in Human Neuroscience*, 19, 1630906.
+
 1. Kalra, A. P., et al. (2023). Anesthetic dampening of quantum optical effects in microtubules. *Anesthesiology*, 139(4), 468-479.
 1. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 1. Khan, S. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).

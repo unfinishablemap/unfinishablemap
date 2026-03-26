@@ -23,7 +23,7 @@ related_articles:
   - "[[evolutionary-case-for-mental-causation]]"
   - "[[quantum-biology-and-neural-consciousness]]"
   - "[[process-philosophy]]"
-  - "[[quantum-biology]]"
+  - "[[quantum-biology-and-neural-mechanisms]]"
   - "[[mental-causation]]"
   - "[[causal-closure]]"
   - "[[the-epiphenomenalist-threat]]"

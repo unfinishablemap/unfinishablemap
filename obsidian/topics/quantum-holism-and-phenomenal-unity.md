@@ -28,8 +28,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[phenomenology-of-choice-and-volition]]"
   - "[[consciousness-as-amplifier]]"
-  - "[[quantum-biology]]"
-  - "[[quantum-neural-mechanisms-and-coherence]]"
+  - "[[quantum-biology-and-neural-mechanisms]]"
 related_articles:
   - "[[tenets]]"
   - "[[neural-binding-quantum-entanglement-2026-01-19]]"
@@ -207,9 +206,8 @@ The Map holds that current evidence favours the quantum position while acknowled
 - [[phenomenology-of-choice-and-volition]] — How conscious selection operates at the phenomenal level
 - [[consciousness-as-amplifier]] — How quantum binding might amplify cognitive capacities
 - [[quantum-consciousness]] — Orch OR and other quantum consciousness theories
-- [[quantum-biology]] — Established quantum effects in living systems
+- [[quantum-biology-and-neural-mechanisms]] — Established quantum effects in living systems and neural coherence evidence
 - [[quantum-biology-and-neural-consciousness]] — Quantum biology, neural evidence convergence, and the consciousness debate
-- [[quantum-neural-mechanisms-and-coherence]] — Detailed treatment of neural coherence evidence
 - [[decoherence]] — Why quantum effects might persist in biological systems
 - [[split-brain-consciousness]] — Natural experiments on when binding fails
 
