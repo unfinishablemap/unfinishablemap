@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on consciousness and the neuroscience of deliberate practice
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Referenced by 5 broken wikilinks across clinical-neuroplasticity-evidence-for-bidirectional-causation.md, consciousness-as-perceptual-architect.md, and phenomenology-of-cognitive-capacity.md. Deliberate practice involves sustained conscious attention restructuring neural circuits — direct evidence for Tenet 3 (Bidirectional Interaction). The interface model predicts that conscious engagement during practice produces different neuroplastic outcomes than unconscious repetition. Target section: topics/ (228/230, 2 slots remaining).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-26
-
 ### P2: Resolve self-reference-paradox.md orphan — archive or restore inbound links
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1459,6 +1452,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Write article on consciousness and the neuroscience of deliberate practice
+- **Type**: expand-topic
+- **Notes**: Referenced by 5 broken wikilinks across clinical-neuroplasticity-evidence-for-bidirectional-causation.md, consciousness-as-perceptual-architect.md, and phenomenology-of-cognitive-capacity.md. Deliberate practice involves sustained conscious attention restructuring neural circuits — direct evidence for Tenet 3 (Bidirectional Interaction). The interface model predicts that conscious engagement during practice produces different neuroplastic outcomes than unconscious repetition. Target section: topics/ (228/230, 2 slots remaining).
+- **Output**: consciousness and the neuroscience of deliberate practice
 
 ### ✓ 2026-03-26: Cross-review indexical-knowledge.md against related knowledge articles
 - **Type**: cross-review

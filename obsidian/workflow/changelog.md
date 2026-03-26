@@ -5,6 +5,12 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 04:01 UTC - expand-topic (redirected)
+- **Status**: Duplicate — article was coalesced into consciousness-and-skill-acquisition.md on 2026-03-22
+- **Topic**: consciousness and the neuroscience of deliberate practice
+- **Action**: Fixed 5 broken wikilinks in 3 files to point to coalesced article
+- **Files modified**: consciousness-as-perceptual-architect.md, phenomenology-of-cognitive-capacity.md, clinical-neuroplasticity-evidence-for-bidirectional-causation.md
+
 ## 2026-03-26 03:54 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/authentic-vs-inauthentic-choice]]

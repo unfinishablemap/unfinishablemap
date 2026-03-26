@@ -4,7 +4,7 @@ description: "Consciousness actively shapes perception in two ways: stabilising 
 created: 2026-02-15
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-12T02:10:00+00:00
+ai_modified: 2026-03-26T04:01:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,6 @@ related_articles:
   - "[[dualist-perception]]"
   - "[[temporal-structure-of-consciousness]]"
   - "[[consciousness-and-skill-acquisition]]"
-  - "[[consciousness-and-the-neuroscience-of-deliberate-practice]]"
   - "[[sensorimotor-contingencies-and-the-interface]]"
   - "[[phenomenology-of-conceptual-change]]"
   - "[[surprise-prediction-error-and-consciousness]]"
@@ -150,8 +149,7 @@ And both face the same explanatory gap. Predictive processing frameworks describ
 - [[attention-and-the-consciousness-interface]] — How attention mediates consciousness and neural processing
 - [[the-binding-problem-a-systematic-treatment]] — The broader problem of phenomenal unity
 - [[temporal-structure-of-consciousness]] — Temporal integration in experience
-- [[consciousness-and-skill-acquisition]] — Motor dimension of skill acquisition
-- [[consciousness-and-the-neuroscience-of-deliberate-practice]] — Neural evidence for conscious engagement in plasticity
+- [[consciousness-and-skill-acquisition]] — Skill acquisition, deliberate practice, and neural evidence for conscious engagement in plasticity
 - [[sensorimotor-contingencies-and-the-interface]] — Perception as mastery of sensorimotor laws
 - [[phenomenology-of-conceptual-change]] — The cognitive parallel: how frameworks transform
 - [[perceptual-failure-and-the-interface]] — How faithfully perception tracks reality

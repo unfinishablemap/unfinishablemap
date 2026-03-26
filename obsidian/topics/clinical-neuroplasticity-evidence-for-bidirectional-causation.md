@@ -4,7 +4,7 @@ description: "Four converging clinical evidence streams—OCD self-directed neur
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-03-22T22:04:00+00:00
+ai_modified: 2026-03-26T04:01:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -108,7 +108,7 @@ The Map speculates that these clinical findings may eventually prove more persua
 - [[evolutionary-case-for-mental-causation]]
 - [[contemplative-practice-as-philosophical-evidence]]
 - [[the-epiphenomenalist-threat]]
-- [[consciousness-and-the-neuroscience-of-deliberate-practice]]
+- [[consciousness-and-skill-acquisition]]
 - [[content-specificity-of-mental-causation]]
 - [[consciousness-selecting-neural-patterns]]
 - [[downward-causation]]
