@@ -4,7 +4,7 @@ description: "Could some thoughts be actively blocked? Human+AI investigation of
 created: 2026-01-25
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-03-26T13:32:00+00:00
+ai_modified: 2026-03-26T14:03:00+00:00
 draft: false
 last_deep_review: 2026-02-25T14:09:00+00:00
 topics: []
@@ -38,7 +38,7 @@ The [[voids]] framework distinguishes three types of cognitive limit: the Unexpl
 
 The clearest evidence that minds can be blocked comes from psychology. Defence mechanisms—repression, denial, information avoidance—are well-documented. Repression blocks unacceptable thoughts before they reach consciousness; the content exists but cannot be retrieved. Denial refuses recognition of obvious realities—medical patients deny terminal diagnoses, addicts deny addiction. Information avoidance has been systematically documented: people deliberately avoid freely available information that might be undesirable. [[cognitive-aversion|Cognitive aversion]] represents a related phenomenon: systematic deflection from threatening content (especially death and cosmic insignificance) that operates before conscious awareness.
 
-These mechanisms are well-established. Minds *can* be defended—and the defence is often invisible to the defended mind.
+These mechanisms are well-established. Minds *can* be defended—and the defence is often invisible to the defended mind. The [[complicity-void|complicity void]] pushes this further: the defender and the defended may be the same entity—consciousness actively participating in its own limitation.
 
 ### Ironic Process Theory
 
@@ -149,6 +149,7 @@ The hypothesis is speculative. Most slippage has mundane explanations. What dist
 - [[simulation-detection-void|The Simulation Detection Void]] — Where all three void types converge around defended territory
 - [[simulation|The Simulation Hypothesis]] — Framework raising external occlusion questions
 - [[agency-verification-void|The Agency Verification Void]] — The circularity of consciousness probing its own limits
+- [[complicity-void|The Complicity Void]] — Whether consciousness is its own jailer
 - [[apophatic-approaches|Apophatic Approaches]] — Knowing through negation as a probing method
 
 ## References

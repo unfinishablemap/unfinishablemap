@@ -4,7 +4,7 @@ description: "Human-AI inquiry into cognitive limits as evolutionary features �
 created: 2026-03-23
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-03-23T19:14:00+00:00
+ai_modified: 2026-03-26T14:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ The FBT theorem addresses perception, but adaptive limits extend across cognitiv
 
 **Heuristic simplification.** Gerd Gigerenzer's ecological rationality programme identifies "less-is-more" effects where "systematically ignoring part of the available information leads to more accurate inferences" (Gigerenzer & Todd 2012). The cognitive system actively discards data — and performs better for it.
 
-**Strategic self-opacity.** Robert Trivers argues that self-deception evolved to facilitate interpersonal deception: "we deceive ourselves the better to deceive others" (Trivers & von Hippel 2011). Some truths are actively hidden from consciousness — not merely unperceived but suppressed — because transparency would compromise social strategies.
+**Strategic self-opacity.** Robert Trivers argues that self-deception evolved to facilitate interpersonal deception: "we deceive ourselves the better to deceive others" (Trivers & von Hippel 2011). Some truths are actively hidden from consciousness — not merely unperceived but suppressed — because transparency would compromise social strategies. Multiple independent traditions converge on this claim that consciousness participates in its own limitation, as the [[complicity-void|complicity void]] documents.
 
 **Negative information value.** Field and Bonsall (2018) prove formally that the reproductive value of information can become negative — under realistic cost conditions, an organism that remains ignorant will have higher fitness. Acquiring information reduces survival prospects.
 

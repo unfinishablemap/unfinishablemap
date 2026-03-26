@@ -4,9 +4,9 @@ description: "Human+AI investigation of consciousness as its own jailer—how mu
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-03-26T11:17:00+00:00
+ai_modified: 2026-03-26T14:03:00+00:00
 draft: false
-last_deep_review: 2026-03-26T11:17:00+00:00
+last_deep_review: 2026-03-26T14:03:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[philosophy-of-mind]]"
@@ -25,6 +25,10 @@ related_articles:
   - "[[compound-failure-signatures]]"
   - "[[altered-states-as-void-probes]]"
   - "[[voids-complicity-void-2026-03-25]]"
+  - "[[existentialism]]"
+  - "[[biological-cognitive-closure]]"
+  - "[[adaptive-cognitive-limits]]"
+  - "[[narrative-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

@@ -5,6 +5,16 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 14:03 UTC - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [[voids/complicity-void]]
+- **Word count**: 2138 → 2148 (+10)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status — no inbound links)
+- **Enhancements made**: 9 inbound cross-links from 8 related articles
+- **Files modified**: cognitive-aversion, defended-territory, self-opacity, existentialism, biological-cognitive-closure, adaptive-cognitive-limits, self-transcendence-void, framework-void, authentic-vs-inauthentic-choice
+- **Output**: [[reviews/deep-review-2026-03-26b-complicity-void]]
+
 ## 2026-03-26 13:47 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Full corpus (227 topics, 227 concepts, 1 tenet, 101 voids, ~17 apex)

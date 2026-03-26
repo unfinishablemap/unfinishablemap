@@ -4,7 +4,7 @@ description: "Every conceptual framework excludes what it cannot represent. The 
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-03-23T17:30:00+00:00
+ai_modified: 2026-03-26T14:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -67,7 +67,7 @@ The hermeneutic circle reinforces this. Every investigation of consciousness pro
 
 Approaching the framework void feels different from approaching other cognitive boundaries. The [[phenomenology-of-the-edge]] describes vertigo and disorientation at most void boundaries. The framework void more often produces false clarity — a confident sense that one understands the alternative framework when one has only translated it into one's own terms.
 
-Encountering someone who genuinely operates from an incommensurable framework produces not wonder but irritation: the conviction that the other person is simply wrong rather than cognitively located in a different conceptual universe. This irritation may itself be a void signature — the framework protecting its own coherence by registering alien frameworks as errors rather than alternatives.
+Encountering someone who genuinely operates from an incommensurable framework produces not wonder but irritation: the conviction that the other person is simply wrong rather than cognitively located in a different conceptual universe. This irritation may itself be a void signature — the framework protecting its own coherence by registering alien frameworks as errors rather than alternatives. The [[complicity-void|complicity void]] asks whether this protection is merely structural or involves consciousness having a *stake* in its current framework—motivated maintenance rather than passive constraint.
 
 Occasionally, reading a text from a radically different tradition produces what might be called *framework slippage*: a brief, disorienting moment where one's own framework becomes visible as a framework rather than as reality itself. These moments are fleeting. The framework quickly reasserts its transparency. But they provide evidence that the prison has walls, even if the walls cannot be stably perceived.
 

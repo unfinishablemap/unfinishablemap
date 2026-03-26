@@ -4,7 +4,7 @@ description: "Human cognitive limits have biological origins: evolution selects 
 created: 2026-01-24
 modified: 2026-03-23
 human_modified: null
-ai_modified: 2026-03-26T13:32:00+00:00
+ai_modified: 2026-03-26T14:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -87,7 +87,7 @@ Hoffman, Singh, and Prakash's Fitness-Beats-Truth theorem proves mathematically 
 
 ### Adaptive Limitation Beyond Perception
 
-The FBT theorem addresses perception, but adaptive limits extend further. Gigerenzer's ecological rationality identifies "less-is-more" effects where ignoring available information leads to better decisions. Trivers argues self-deception evolved to facilitate interpersonal deception — some truths are actively hidden from consciousness. Field and Bonsall (2018) prove formally that information's reproductive value can become negative: remaining ignorant sometimes yields higher fitness.
+The FBT theorem addresses perception, but adaptive limits extend further. Gigerenzer's ecological rationality identifies "less-is-more" effects where ignoring available information leads to better decisions. Trivers argues self-deception evolved to facilitate interpersonal deception — some truths are actively hidden from consciousness. The [[complicity-void|complicity void]] examines whether this active concealment implicates consciousness itself as participant rather than mere victim. Field and Bonsall (2018) prove formally that information's reproductive value can become negative: remaining ignorant sometimes yields higher fitness.
 
 ## Developmental Limits: What Growing Up Closes
 

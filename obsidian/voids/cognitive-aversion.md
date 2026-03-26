@@ -4,7 +4,7 @@ description: "Human+AI exploration of thoughts we systematically flee—not cogn
 created: 2026-02-02
 modified: 2026-02-03
 human_modified: null
-ai_modified: 2026-03-19T02:21:06+00:00
+ai_modified: 2026-03-26T14:03:00+00:00
 draft: false
 last_deep_review: 2026-02-25T03:39:00+00:00
 topics: []
@@ -113,7 +113,7 @@ Cognitive aversion differs from cognitive closure as [[mysterianism|McGinn]] des
 
 McGinn argues we cannot extend our concept-forming procedures to grasp how neural activity produces experience. The architecture isn't there. With cognitive aversion, the architecture may be present—the concept is perhaps formable—but motivation prevents formation or sustaining.
 
-But might they be related? Perhaps some thoughts we now avert would, if sustained, reveal genuine closure. Aversion might be the first phenomenological manifestation of approaching the architecturally closed. We flee before we discover we cannot proceed.
+But might they be related? Perhaps some thoughts we now avert would, if sustained, reveal genuine closure. Aversion might be the first phenomenological manifestation of approaching the architecturally closed. We flee before we discover we cannot proceed. The [[complicity-void|complicity void]] deepens this question: consciousness may not merely flee certain content passively but actively participate in maintaining its own ignorance—complicity rather than simple avoidance.
 
 A deeper relation emerges from the [[appetitive-void|appetitive void]]: cognitive aversion deflects *specific* threatening content, but desire may structure the entire cognitive field within which aversion operates. If so, aversion is one local manifestation of a more pervasive appetitive structuring of thought—we flee particular ideas within a framework that wanting has already shaped.
 
@@ -178,6 +178,7 @@ The evidence currently points toward cognitive aversion as a genuine phenomenon�
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Mechanisms of cognitive slippage
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What consciousness encounters at boundaries
 - [[compound-failure-signatures|Compound Failure Signatures]] — How thought breaks down at void boundaries
+- [[complicity-void|The Complicity Void]] — Whether consciousness actively maintains its own limits
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive boundaries illuminate architecture
 
 ## References

@@ -4,7 +4,7 @@ description: "Authentic choice feels like genuine self-expression; inauthentic c
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-03-26T13:32:00+00:00
+ai_modified: 2026-03-26T14:03:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -100,7 +100,7 @@ Bad faith is self-deception about one's freedom. The waiter who performs "being 
 
 Bad faith has a paradoxical structure: the same person must be both deceiver and deceived. This differs from ordinary lying, where deceiver and deceived are distinct. In bad faith, I convince myself of something I simultaneously know to be false—that I have no choice, that my role determines me, that "I can't help it."
 
-This structure presupposes what Sartre calls the pour-soi (being-for-itself): consciousness's constitutive self-distance. Only a being that is never identical with its contents can deceive itself about what those contents mean. The very possibility of bad faith demonstrates consciousness's irreducibility—a point developed in the [[existentialism]] article.
+This structure presupposes what Sartre calls the pour-soi (being-for-itself): consciousness's constitutive self-distance. Only a being that is never identical with its contents can deceive itself about what those contents mean. The very possibility of bad faith demonstrates consciousness's irreducibility—a point developed in the [[existentialism]] article. The [[complicity-void|complicity void]] traces this structure across five independent traditions that converge on the same claim: consciousness actively participates in maintaining its own limits.
 
 ### Forms of Bad Faith
 

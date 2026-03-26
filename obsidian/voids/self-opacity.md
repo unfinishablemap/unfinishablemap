@@ -4,7 +4,7 @@ description: "Consciousness cannot fully know itself—six thinkers from diverge
 created: 2026-01-14
 modified: 2026-03-26
 human_modified: null
-ai_modified: 2026-03-26T02:16:00+00:00
+ai_modified: 2026-03-26T14:03:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -112,7 +112,7 @@ Yet we clearly do recognise errors. Recognising that belief B is wrong requires 
 
 Žižek observes a temporal paradox: before discovering you were wrong, you had "a belief," experienced as true. Only after correction does the prior state become "the error." We have rich access to *realising* we were wrong—the suddenness, surprise, and affective charge of the "aha moment"—but no access to *being* wrong. The same "feeling of being right" accompanies both the error and its correction.
 
-Some errors resist recognition through active defence. Self-deception creates protected zones where error recognition cannot reach. If self-deception is real, some fraction of our errors is structurally protected, and we cannot know how large that fraction is.
+Some errors resist recognition through active defence. Self-deception creates protected zones where error recognition cannot reach—the [[complicity-void|complicity void]] investigates whether this protection is not merely defensive but constitutive, with consciousness actively maintaining its own cognitive limits. If self-deception is real, some fraction of our errors is structurally protected, and we cannot know how large that fraction is.
 
 ## The Constitutive Thesis
 
