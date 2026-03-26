@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review self-opacity.md after coalesce
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Coalesced from unobservable-self.md, introspective-opacity.md, and phenomenology-of-self-awareness.md on 2026-03-25, never reviewed. Three-source merge needs verification that arguments are coherent, redundancy eliminated, and cross-references to self-reference-paradox, self-and-self-consciousness, and social-construction-of-self-vs-phenomenal-self are correct. Voids article on the opacity of self-knowledge.
-- **Source**: task_chain (coalesce)
-- **Generated**: 2026-03-26
-
 ### P2: Deep review consciousness-and-intelligence.md after coalesce
 - **Type**: deep-review
 - **Status**: pending
@@ -1445,6 +1438,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Deep review self-opacity.md after coalesce
+- **Type**: deep-review
+- **Notes**: Coalesced from unobservable-self.md, introspective-opacity.md, and phenomenology-of-self-awareness.md on 2026-03-25, never reviewed. Three-source merge needs verification that arguments are coherent, redundancy eliminated, and cross-references to self-reference-paradox, self-and-self-consciousness, and social-construction-of-self-vs-phenomenal-self are correct. Voids article on the opacity of self-knowledge.
+- **Output**: obsidian/voids/self-opacity.md
 
 ### ✓ 2026-03-26: Resolve 18 broken wikilinks to epistemological-limits-of-occams-razor
 - **Type**: refine-draft
