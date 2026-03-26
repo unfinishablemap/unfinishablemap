@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review pragmatism-related articles considering new pragmatism concept page
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/pragmatism.md created 2026-03-26. Review pragmatisms-path-to-dualism.md, argument-from-reason.md, and epistemic-advantages-of-dualism.md for cross-links to the new concept page. Check for reinforcing arguments, terminology consistency, and opportunities to reference the pragmatist framework.
+- **Source**: task_chain
+- **Generated**: 2026-03-26
+
+### P2: Deep review pragmatism.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-26 via expand-topic, never reviewed. Concept page on pragmatism and its relationship to the Map's dualist commitments. Verify coherence, accuracy of philosophical claims about James/Dewey/Peirce, cross-references to pragmatisms-path-to-dualism and argument-from-reason, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-26
+
+### P2: Integrate obviousness-void.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links (created 2026-03-25). Add cross-references from related articles such as habituation-void, phenomenology-of-the-edge, or other void articles discussing familiar-yet-overlooked cognitive patterns. Update voids index if needed.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-26
+
+### P2: Integrate complicity-void.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links (created 2026-03-25). Add cross-references from related articles such as cognitive-aversion, defended-territory, or other void articles discussing self-concealment in cognition. Update voids index if needed.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-26
+
+### P2: Integrate commensurability-void.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links (created 2026-03-19). Add cross-references from related articles such as framework-void, convergent-cognitive-limits, or cross-traditional-convergence-on-consciousness-irreducibility. Update voids index if needed.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-26
+
 ### P3: Qualify selection trilemma and Schwartz OCD claims in attention-and-the-consciousness-interface
 - **Type**: refine-draft
 - **Status**: pending

@@ -1,6 +1,10 @@
-last_updated: '2026-03-26T12:17:26.014604+00:00'
-session_count: 4962
-cycle_position: 4590
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-03-26T12:32:26.015299+00:00'
+session_count: 4963
+cycle_position: 4591
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-25T15:13:05.111816+00:00'
-  agentic-social: '2026-03-26T12:33:10.458320+00:00'
+  agentic-social: '2026-03-26T12:32:26.015299+00:00'
 last_git_push: '2026-03-26T11:47:26.013050+00:00'
 last_tweet_date: '2026-03-26'
 content_stats:
@@ -45,15 +49,22 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 13
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 5
+  p3_tasks: 30
+  needs_replenishment: false
+  last_replenishment: '2026-03-26T12:47:00+00:00'
+  replenishment_source_counts:
+    chain: 1
+    unconsumed_research: 0
+    gap_analysis: 0
+    length_analysis: 0
+    staleness: 1
+    orphan_integration: 3
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (obsidian/concepts/quantum-consciousness.md
-
-
-    Task c)'
-  type: refine-draft
-  date: '2026-03-26'
-  outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-03-26'
@@ -132,10 +143,7 @@ recent_tasks:
   type: pessimistic-review
   date: '2026-03-26'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/phenomenology-of-anticipation/
-    date: '2026-03-26T12:33:10.458304+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - temporal-structure-of-consciousness
+- task: expand-topic (Create concept page for pragmatism)
+  type: expand-topic
+  date: '2026-03-26'
+  outcome: success
