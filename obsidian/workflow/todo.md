@@ -51,13 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-26
 
-### P2: Create concept page for pragmatism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Referenced by 7 articles via broken wikilinks. Pragmatism as a philosophical tradition is relevant to pragmatisms-path-to-dualism and the Map's arguments about the practical consequences of consciousness theories. A concept page would anchor these references. Target section: concepts/ (225/230, 5 slots remaining).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-25
-
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
 - **Status**: pending
@@ -1425,6 +1418,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Create concept page for pragmatism
+- **Type**: expand-topic
+- **Notes**: Referenced by 7 articles via broken wikilinks. Pragmatism as a philosophical tradition is relevant to pragmatisms-path-to-dualism and the Map's arguments about the practical consequences of consciousness theories. A concept page would anchor these references. Target section: concepts/ (225/230, 5 slots remaining).
+- **Output**: Create concept page for pragmatism
 
 ### ✓ 2026-03-26: Address filter theory's unfalsifiable prediction structure
 - **Type**: refine-draft

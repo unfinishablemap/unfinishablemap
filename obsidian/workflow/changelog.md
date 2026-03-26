@@ -5,6 +5,13 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 12:33 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Pragmatism
+- **Output**: [[concepts/pragmatism]]
+- **Word count**: 1265
+- **Based on research**: no
+
 ## 2026-03-26 12:17 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/attention-and-the-consciousness-interface.md
