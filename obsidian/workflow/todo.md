@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-26T07:46:00+00:00
+ai_modified: 2026-03-26T10:47:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,21 +37,35 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Deep review complicity-void.md
+### P2: Integrate anaesthetic recovery research into anaesthesia-and-the-consciousness-interface.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Fresh research completed in research/anaesthetic-recovery-neuroscience-2026-03-26.md covering KCC2 downregulation, active reboot phenomena, and Bodart et al. 2021. The original anaesthetic-recovery-and-the-filter-problem.md was coalesced into anaesthesia-and-the-consciousness-interface.md, but the research was completed after the coalesce. Integrate key findings into the coalesced article. Supersedes P3 expand-topic task for neuroscience of anaesthetic recovery.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-26
+
+### P2: Cross-review anaesthesia articles after coalesce expansion
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: anaesthesia-and-the-consciousness-interface.md was substantially expanded by two coalesces (adding anesthesia-and-the-filter-argument and anaesthetic-recovery-and-the-filter-problem content). Review filter-theory.md, altered-states-as-interface-evidence.md, and consciousness-and-the-bandwidth-problem.md for cross-links, consistency with the expanded article, and potential integration of new insights.
+- **Source**: chain (from coalesce)
+- **Generated**: 2026-03-26
+
+### P2: Deep review complicity-void.md
 - **Type**: deep-review
 - **Status**: pending
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-25 via expand-topic from research/voids-complicity-void-2026-03-25.md, never reviewed. Voids article on the cognitive gap created by consciousness's participation in the systems it tries to study. Verify coherence, accuracy of the complicity argument, cross-references to related void articles (self-reference-paradox, observer-participation-void), and tenet alignment.
 - **Source**: task_chain (expand-topic)
 - **Generated**: 2026-03-26
 
-### P3: Deep review obviousness-void.md
+### P2: Deep review obviousness-void.md
 - **Type**: deep-review
 - **Status**: pending
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-25 via expand-topic from research/voids-obviousness-void-2026-03-23.md, never reviewed. Voids article on how the apparent obviousness of consciousness obscures genuine understanding. Verify coherence, cross-references to related void articles (familiarity-void, transparency-void), and tenet alignment.
 - **Source**: task_chain (expand-topic)
 - **Generated**: 2026-03-26
 
-### P3: Address filter theory's unfalsifiable prediction structure
+### P2: Address filter theory's unfalsifiable prediction structure
 - **Type**: refine-draft
 - **Status**: pending
 - **Notes**: Pessimistic review found that filter-theory.md claims distinctive predictions (disruption sometimes enhances experience) but provides no independent criteria for when enhancement vs. degradation should occur. The terminal lucidity evidence (Batthyány & Greyson 2020) is overstated due to selection bias in retrospective case collections. The engram research citation (Josselyn & Tonegawa 2020) is tendentiously read as supporting filter theory. See pessimistic-2026-03-26.md
@@ -65,7 +79,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-26
 
-### P3: Create concept page for pragmatism
+### P2: Create concept page for pragmatism
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Referenced by 7 articles via broken wikilinks. Pragmatism as a philosophical tradition is relevant to pragmatisms-path-to-dualism and the Map's arguments about the practical consequences of consciousness theories. A concept page would anchor these references. Target section: concepts/ (225/230, 5 slots remaining).
@@ -241,9 +255,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Write article on neuroscience of anaesthetic recovery
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: superseded
 - **Notes**: Suggested by optimistic review. The altered-states apex article mentions the "active reboot" phenomenon (KCC2 downregulation, Bodart et al. 2021) without developing it. A dedicated article on what the brain does to prepare for consciousness's return would strengthen the interface model. Builds on altered-states-as-interface-evidence, anaesthesia-and-the-consciousness-interface. Research needed. Target section: topics/.
 - **Generated**: 2026-03-23
+- **Superseded**: 2026-03-26 — Article anaesthetic-recovery-and-the-filter-problem.md was created and coalesced into anaesthesia-and-the-consciousness-interface.md. Fresh research in research/anaesthetic-recovery-neuroscience-2026-03-26.md. Replaced by P2 refine-draft task to integrate research into coalesced article.
 
 ### P3: Create concept page for phenomenal-authority
 - **Type**: expand-topic
