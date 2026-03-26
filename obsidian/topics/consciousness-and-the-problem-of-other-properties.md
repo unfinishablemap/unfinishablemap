@@ -4,7 +4,7 @@ description: "The problem of other minds generalises: if phenomenal properties a
 created: 2026-02-18
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-03-26T04:31:00+00:00
+ai_modified: 2026-03-26T07:01:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-18
 last_curated:
-last_deep_review: 2026-03-02T11:52:00+00:00
+last_deep_review: 2026-03-26T07:01:00+00:00
 ---
 
 The Unfinishable Map's dualism entails that phenomenal properties are irreducible to physical description. This creates a problem that goes deeper than the familiar [[problem-of-other-minds|problem of other minds]]: even if we grant that others are conscious, we have no way to determine *which* phenomenal properties they instantiate. The problem of other minds asks whether anyone else is home. The problem of other properties asks what it is like *inside* their home — and argues that the answer is structurally inaccessible.
