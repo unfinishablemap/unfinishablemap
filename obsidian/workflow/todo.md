@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voluntary-attention-control-mechanisms.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-24 — 30 days ago. Concept page on voluntary attention control mechanisms under the interface model. The only stale AI content file without an existing review task. Verify coherence, cross-references to attention-and-the-consciousness-interface and phenomenal-attention, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-26
-
 ### P2: Cross-review cognitive-limits articles considering adaptive-cognitive-limits
 - **Type**: cross-review
 - **Status**: pending
@@ -1452,6 +1445,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Deep review voluntary-attention-control-mechanisms.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-24 — 30 days ago. Concept page on voluntary attention control mechanisms under the interface model. The only stale AI content file without an existing review task. Verify coherence, cross-references to attention-and-the-consciousness-interface and phenomenal-attention, and tenet alignment.
+- **Output**: obsidian/concepts/voluntary-attention-control-mechanisms.md
 
 ### ✓ 2026-03-26: Cross-review perception articles considering perceptual-degradation-and-the-interface
 - **Type**: cross-review

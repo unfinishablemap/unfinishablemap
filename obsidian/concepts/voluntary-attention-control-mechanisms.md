@@ -4,8 +4,8 @@ description: "The neural architecture of willed attention—frontal theta, salie
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-23T16:35:00+00:00
-last_deep_review: 2026-02-23T16:35:00+00:00
+ai_modified: 2026-03-26T10:02:00+00:00
+last_deep_review: 2026-03-26T10:02:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -94,7 +94,7 @@ The timing of voluntary attention reveals its nature:
 
 The ~300ms deployment time for voluntary attention matches the commitment point identified in motor decision-making (~280ms before movement onset). This convergence supports the view that attentional selection and motor selection share a common mechanism—what Rizzolatti's premotor theory of attention proposes and what the [[attention-as-interface]] article develops as the motor-attention convergence.
 
-Crucially, voluntary attention can be *sustained*. Unlike exogenous capture, which generates inhibition of return after ~300ms, willed attention maintains engagement for extended periods. This sustained character matters for the quantum Zeno interpretation: if consciousness operates through rapid repeated observation (as [[stapp-quantum-mind|Stapp]] proposes), the mechanism requires sustained engagement—exactly what voluntary attention provides and reflexive capture does not. A significant open question remains: the Zeno effect requires observation intervals faster than the system's natural evolution (potentially femtoseconds), while attention operates on millisecond timescales. Bridging this gap—perhaps through intermediate mechanisms between conscious attention acts and quantum-level observations—is an active area of investigation. The 2024 discovery of Zeno-like effects in cryptochrome radical pairs at microsecond timescales provides the first biological precedent, though still far from the neural circuit scale.
+Crucially, voluntary attention can be *sustained*. Unlike exogenous capture, which generates inhibition of return after ~300ms, willed attention maintains engagement for extended periods. This sustained character matters for the quantum Zeno interpretation: if consciousness operates through rapid repeated observation (as [[stapp-quantum-mind|Stapp]] proposes), the mechanism requires sustained engagement—exactly what voluntary attention provides and reflexive capture does not. A significant open question remains: the Zeno effect requires observation intervals faster than the system's natural evolution (potentially femtoseconds), while attention operates on millisecond timescales. Bridging this gap—perhaps through intermediate mechanisms between conscious attention acts and quantum-level observations—is an active area of investigation. The 2024 discovery of Zeno-like effects in cryptochrome radical pairs at microsecond timescales (Denton et al. 2024) provides the first biological precedent, though still far from the neural circuit scale. See [[motor-control-quantum-zeno]] for how the Zeno mechanism applies specifically to motor selection.
 
 ## Spectral Signatures
 
@@ -106,7 +106,7 @@ Neuroimaging research reveals distinct frequency signatures:
 | Attention (control) | High gamma (75-90 Hz) | Koch & Tsuchiya 2007 |
 | Willed decision | Theta (4-8 Hz) | Rajan et al. 2019 |
 
-The spectral dissociation between consciousness and attention at the frequency level supports their separability—a foundation of the [[attention-as-interface|interface hypothesis]]. Consciousness and attention occupy different frequency bands because they are different processes that happen to interact. The theta signature of willed decision adds a third layer: the act of *choosing* what to attend to has its own spectral marker, distinct from both the experience (gamma) and the attentional modulation (high gamma).
+The spectral dissociation between consciousness and attention at the frequency level supports their separability—a foundation of the [[attention-as-interface|interface hypothesis]] and a key finding in [[neural-correlates-of-consciousness|NCC research]]. Consciousness and attention occupy different frequency bands because they are different processes that happen to interact. The theta signature of willed decision adds a third layer: the act of *choosing* what to attend to has its own spectral marker, distinct from both the experience (gamma) and the attentional modulation (high gamma).
 
 ## Relation to Site Perspective
 
@@ -134,4 +134,5 @@ The spectral dissociation between consciousness and attention at the frequency l
 1. Menon, V. & Uddin, L.Q. (2010). Saliency, switching, attention and control: A network model of insula function. *Brain Structure and Function*, 214(5-6), 655-667.
 1. Nadra, J.G. & Mangun, G.R. (2023). Placing willed attention in context: A review of attention and free will. *Frontiers in Cognition*, 2, 1205618.
 1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
+1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
 1. Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
