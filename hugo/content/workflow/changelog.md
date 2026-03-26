@@ -1,13 +1,84 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-26 16:36:00+00:00
+ai_modified: 2026-03-26 17:22:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
 date: '2026-03-26'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-03-26 18:41 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/mental-effort.md, concepts/neural-correlates-of-consciousness.md, concepts/phenomenology.md
+- **Output**: [pessimistic-2026-03-26-evening](/reviews/pessimistic-2026-03-26-evening/)
+
+## 2026-03-26 18:26 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [argument-from-reason](/topics/argument-from-reason/)
+- **Word count**: 3222 → 3206 (-16)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing in-body pragmatism convergence, missing phenomenal-normativity concept link)
+- **Enhancements made**: 3 (pragmatism convergence sentence, Plantinga section tightened, concept cross-link)
+- **Output**: [deep-review-2026-03-26b-argument-from-reason](/reviews/deep-review-2026-03-26b-argument-from-reason/)
+
+## 2026-03-26 18:12 UTC - deep-review
+- **Status**: Success
+- **File**: [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/)
+- **Word count**: 1806 → 1818 (+12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing inline pragmatism wikilink, missing pragmatism in Further Reading)
+- **Enhancements made**: 2 (inline cross-link to new concept page, Further Reading entry)
+- **Output**: [deep-review-2026-03-26-pragmatisms-path-to-dualism](/reviews/deep-review-2026-03-26-pragmatisms-path-to-dualism/)
+
+## 2026-03-26 17:56 UTC - deep-review
+- **Status**: Success
+- **File**: [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/)
+- **Word count**: 1929 → 1985 (+56)
+- **Critical issues addressed**: 1 (broken `consciousness-measurement-problem` wikilink)
+- **Medium issues addressed**: 3 (split-brain claim hedging, Keppler energy gap caveat, missing cross-links)
+- **Enhancements made**: 6 (framework-void connection, psychedelics cross-link, decoherence link, NCC link, expanded Further Reading, updated related_articles)
+- **Output**: [deep-review-2026-03-26-experimental-consciousness-science-2025-2026](/reviews/deep-review-2026-03-26-experimental-consciousness-science-2025-2026/)
+
+## 2026-03-26 17:41 UTC - deep-review
+- **Status**: Success
+- **File**: [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
+- **Word count**: 2476 → 2502 (+26)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to experimental-consciousness-science-2025-2026)
+- **Enhancements made**: 3 (split-brain evidence in filter theory, cross-link in frontmatter, Further Reading entry)
+- **Output**: [deep-review-2026-03-26-neural-correlates-of-consciousness](/reviews/deep-review-2026-03-26-neural-correlates-of-consciousness/)
+
+## 2026-03-26 17:34 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Experimental Consciousness Science 2025-2026
+- **Output**: [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/)
+- **Word count**: 1929
+- **Based on research**: yes, [experimental-consciousness-science-2025-2026-2026-03-26](/research/experimental-consciousness-science-2025-2026-2026-03-26/)
+
+## 2026-03-26 17:22 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 144 (4835 to 4979)
+- **Findings**: 1 cadence (validate-all still absent), 0 failure (0% hard failures, skip rate doubled to 12%), 1 queue (over-replenishment: P3 grew from 80 to 214), 2 review (selection trilemma, AST reflexive critique), 0 convergence regressions
+- **Tier 1 changes**: 0 applied (structural limitation persists — no adjustable params with tracking)
+- **Tier 2 recommendations**: 12 (2 new: queue duplicate filtering, queue depth cap)
+- **Output**: [system-tune-2026-03-26](/reviews/system-tune-2026-03-26/)
+
+## 2026-03-26 17:12 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [testing-the-map-from-inside](/apex/testing-the-map-from-inside/)
+- **Changed sources**: 2 (phenomenology-of-choice-and-volition, neurophenomenology-and-contemplative-neuroscience)
+- **Word count**: 3354 → 3476
+- **Review**: [apex-evolve-2026-03-26-testing-the-map-from-inside](/reviews/apex-evolve-2026-03-26-testing-the-map-from-inside/)
+
+## 2026-03-26 17:02 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 452
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 28 (broken wikilink anchors, not philosophical conflicts)
+- **Output**: [tenet-check-2026-03-26](/reviews/tenet-check-2026-03-26/)
 
 ## 2026-03-26 16:51 UTC - research-topic
 - **Status**: Success

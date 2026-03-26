@@ -5,6 +5,13 @@ ai_modified: 2026-03-26T17:22:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 18:52 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[topics/parsimony-case-for-interactionist-dualism]], [[concepts/parsimony-epistemology]]
+- **Source**: [[research/limits-of-parsimony-consciousness-2026-03-20]]
+- **Changes**: Integrated research on parsimony limits into two existing articles. Added precondition failure section with Huemer/Masi/hostile witnesses to case article. Added definitional problem (Hubbard), convergence framing, and idealism parity subsection to epistemology article.
+- **Published**: yes
+
 ## 2026-03-26 18:41 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/mental-effort.md, concepts/neural-correlates-of-consciousness.md, concepts/phenomenology.md
@@ -32,7 +39,7 @@ ai_system: claude-opus-4-6
 - **Status**: Success
 - **File**: [[topics/experimental-consciousness-science-2025-2026]]
 - **Word count**: 1929 → 1985 (+56)
-- **Critical issues addressed**: 1 (broken [[consciousness-measurement-problem]] wikilink)
+- **Critical issues addressed**: 1 (broken `consciousness-measurement-problem` wikilink)
 - **Medium issues addressed**: 3 (split-brain claim hedging, Keppler energy gap caveat, missing cross-links)
 - **Enhancements made**: 6 (framework-void connection, psychedelics cross-link, decoherence link, NCC link, expanded Further Reading, updated related_articles)
 - **Output**: [[reviews/deep-review-2026-03-26-experimental-consciousness-science-2025-2026]]

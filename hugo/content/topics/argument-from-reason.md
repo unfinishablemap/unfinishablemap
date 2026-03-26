@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-26 16:06:00+00:00
+ai_modified: 2026-03-26 18:26:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -18,6 +18,7 @@ concepts:
 - '[[cognitive-phenomenology]]'
 - '[[intentionality]]'
 - '[[pragmatism]]'
+- '[[phenomenal-normativity]]'
 created: 2026-01-23
 date: &id001 2026-01-24
 description: If thoughts are fully explained by physical causes, no belief is rationally
@@ -25,7 +26,7 @@ description: If thoughts are fully explained by physical causes, no belief is ra
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-26 16:06:00+00:00
+last_deep_review: 2026-03-26 18:26:00+00:00
 modified: *id001
 related_articles:
 - '[[topics/free-will]]'
@@ -94,9 +95,9 @@ This connects to [agent-causation](/concepts/agent-causation/): rational inferen
 
 ## Plantinga's Evolutionary Argument: A Complementary Challenge
 
-Alvin Plantinga's Evolutionary Argument Against Naturalism (EAAN) targets reliability from a different angle. Evolution selects for adaptive behavior, not true beliefs. Natural selection favors organisms whose actions promote survival and reproduction—whether those actions are guided by true beliefs, false beliefs, or no beliefs at all is irrelevant to fitness.
+Alvin Plantinga's Evolutionary Argument Against Naturalism (EAAN) targets reliability from a different angle. Evolution selects for adaptive behavior, not true beliefs—natural selection doesn't favor true beliefs over equally adaptive false ones.
 
-Plantinga concludes that naturalism combined with evolution gives us no reason to trust our cognitive faculties. If our faculties are products of blind selection for adaptive behavior, their reliability at producing *true* beliefs (especially about abstract matters like philosophy) is dubious—false beliefs can produce equally adaptive behavior. This provides a defeater for all beliefs produced by those faculties—including naturalism itself.
+Plantinga concludes that naturalism combined with evolution gives us no reason to trust our cognitive faculties, especially about abstract matters like philosophy. This provides a defeater for all beliefs produced by those faculties—including naturalism itself.
 
 The Map's framework addresses this challenge: if consciousness involves selection guided by phenomenal awareness of logical relationships, then rationality isn't merely a product of blind evolution. Consciousness provides a truth-tracking mechanism that evolution alone cannot. The [quantum Zeno mechanism](/concepts/stapp-quantum-mind/) offers one candidate for how this might work—[attention](/concepts/attention-as-interface/) selects among neural states in ways sensitive to normative constraints—though the argument from reason stands independently of any particular mechanism.
 
@@ -120,7 +121,7 @@ William Hasker emphasizes the unity required for rational inference. Grasping an
 
 The argument from reason provides decisive support for three of the Map's five tenets:
 
-**[Dualism](/tenets/#dualism)**: Normative properties (justification, logical entailment, truth) are irreducible to physical properties. Rational inference requires tracking these normative relationships, which means consciousness must involve something beyond physical causation. This isn't property dualism smuggled in—it's a transcendental argument: the very possibility of rational thought requires irreducible mental properties.
+**[Dualism](/tenets/#dualism)**: Normative properties (justification, logical entailment, truth) are irreducible to physical properties. Rational inference requires tracking these normative relationships, which means consciousness must involve something beyond physical causation. This isn't property dualism smuggled in—it's a transcendental argument: the very possibility of rational thought requires irreducible mental properties. [Pragmatism's self-defeat argument](/topics/pragmatisms-path-to-dualism/) reaches the same conclusion independently: if evaluation is fully physical, the pragmatic criterion of "what works" loses the [phenomenal normativity](/concepts/phenomenal-normativity/) that gives it force.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Reasoning causally influences beliefs and actions. If I conclude "Socrates is mortal" *because* the premises entail it, then logical relationships must play a causal role—they must influence which neural patterns become actual. This requires mind-to-brain causation, not merely brain-to-brain correlation. The [quantum framework](/concepts/quantum-consciousness/) provides a mechanism: consciousness selects among superposed neural states, collapsing indeterminacy toward patterns that respect logical relationships.
 

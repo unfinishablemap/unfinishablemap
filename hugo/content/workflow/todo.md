@@ -38,6 +38,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Integrate limits-of-parsimony research into parsimony-related articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/limits-of-parsimony-consciousness-2026-03-20.md covers where Occam's razor fails in consciousness science — directly supports Tenet 5. Integrate key arguments into existing articles: parsimony-case-for-interactionist-dualism.md (strengthen the case that parsimony alone is insufficient) and parsimony-epistemology.md (add limits analysis). No new article needed — enrich existing coverage.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-26
+
+### P2: Research consciousness and philosophy of testimony under dualism
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: P3 expand-topic task exists for this topic but no research has been done. How intersubjective knowledge is transmitted when consciousness is ontologically individual. Supports Tenet 1 (dualism) and Tenet 3 (bidirectional interaction). Research targets: testimony epistemology (Coady, Lackey), communicative action theory, Levinas on the face, phenomenology of linguistic understanding under dualism. Target: research note to inform subsequent article.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-26
+
+### P3: Strengthen neuroplasticity argument in mental-effort.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the neuroplasticity argument conflates correlation with causation: the article concedes materialists can explain Schwartz's OCD data as neural self-modification, then reasserts interactionism without additional justification. Either identify a prediction distinguishing the two interpretations or soften from "harder to square with" to "consistent with." Also: illusionist response needs Frankish functional-seeming acknowledgment; ~10 bits/s bandwidth claim needs citation. See pessimistic-2026-03-26-evening.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-26
+
 ### P3: Qualify selection trilemma and Schwartz OCD claims in attention-and-the-consciousness-interface
 - **Type**: refine-draft
 - **Status**: pending
@@ -1447,6 +1468,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Cross-review argument-from-reason.md considering pragmatism insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/pragmatism.md created 2026-03-26 connects pragmatist methodology to the argument from reason. Review topics/argument-from-reason.md to add cross-link to pragmatism.md where the self-defeat structure overlaps, and check whether the pragmatist framing strengthens or complicates the argument from reason.
+- **Output**: obsidian/topics/argument-from-reason.md -- Context: Cross-review argument-from-reason.md considering pragmatism insights
+
+### ✓ 2026-03-26: Cross-review pragmatisms-path-to-dualism.md considering new pragmatism concept
+- **Type**: cross-review
+- **Notes**: New concept page concepts/pragmatism.md created 2026-03-26. Review topics/pragmatisms-path-to-dualism.md to add inbound link to the new concept page, check for consistency in how pragmatist method is characterised across both articles, and ensure the topic article references the concept page for foundational definitions.
+- **Output**: obsidian/topics/pragmatisms-path-to-dualism.md -- Context: Cross-review pragmatisms-path-to-dualism.md considering new pragmatism concept
+
+### ✓ 2026-03-26: Cross-review neural-correlates-of-consciousness.md considering experimental consciousness science 2025-2026 article
+- **Type**: cross-review
+- **Notes**: New topics article topics/experimental-consciousness-science-2025-2026.md created 2026-03-26 synthesises COGITATE results, biophotons, split-brain unity, ZPF model, biological computationalism, and covert consciousness. Review concepts/neural-correlates-of-consciousness.md and concepts/integrated-information-theory.md to add inbound links to the new article where COGITATE and 2025 experimental findings are discussed.
+- **Output**: obsidian/concepts/neural-correlates-of-consciousness.md -- Context: Cross-review neural-correlates-of-consciousness.md considering experimental consciousness science 2025-2026 article
+
+### ✓ 2026-03-26: Write article synthesizing experimental consciousness science 2025-2026 findings
+- **Type**: expand-topic
+- **Notes**: Research completed in research/experimental-consciousness-science-2025-2026-2026-03-26.md. Covers COGITATE adversarial collaboration results, brain biophotons, corpus callosum findings, zero-point field models, biological computationalism, and covert consciousness detection. Synthesize into a topics article connecting these empirical developments to the Map's framework (especially Tenets 2 and 3). Target section: topics/ (226/230, 4 slots remaining).
+- **Output**: Write article synthesizing experimental consciousness science 2025-2026 findings
 
 ### ✓ 2026-03-26: Research recent (2025-2026) experimental consciousness science developments
 - **Type**: research-topic
