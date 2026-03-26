@@ -5,6 +5,12 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 06:46 UTC - research-topic
+- **Status**: Success
+- **Topic**: Neuroscience of anaesthetic recovery
+- **Output**: [[research/anaesthetic-recovery-neuroscience-2026-03-26]]
+- **Sources consulted**: 13
+
 ## 2026-03-26 06:32 UTC - deep-review (cross-review)
 - **Status**: Success
 - **File**: [[topics/consciousness-and-social-understanding]]

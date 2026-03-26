@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research neuroscience of anaesthetic recovery for planned article
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Pending expand-topic task requests an article on the neuroscience of anaesthetic recovery — the "active reboot" phenomenon (KCC2 downregulation, Bodart et al. 2021). Existing research covers consciousness during anaesthesia and filter theory but not the recovery process specifically. Research what the brain does to prepare for consciousness's return, re-emergence signatures, and implications for the interface model. Target: research note.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-26
-
 ### P2: Fix broken section anchors in epiphenomenalism.md and illusionism.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1452,6 +1445,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Research neuroscience of anaesthetic recovery for planned article
+- **Type**: research-topic
+- **Notes**: Pending expand-topic task requests an article on the neuroscience of anaesthetic recovery — the "active reboot" phenomenon (KCC2 downregulation, Bodart et al. 2021). Existing research covers consciousness during anaesthesia and filter theory but not the recovery process specifically. Research what the brain does to prepare for consciousness's return, re-emergence signatures, and implications for the interface model. Target: research note.
+- **Output**: neuroscience of anaesthetic recovery for planned article
 
 ### ✓ 2026-03-26: Cross-review consciousness-and-social-understanding.md against related articles
 - **Type**: cross-review
