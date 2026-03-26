@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review consciousness-and-the-bandwidth-problem.md post-coalesce
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Coalesced article reviewed in deep-review on 2026-03-26, where reviewer noted "Third review. Coalesce operation had reintroduced two previously corrected errors." The pattern of coalesce reintroducing errors suggests a post-coalesce verification pass is warranted. Check bandwidth-of-consciousness.md (deep-reviewed 2026-03-25) for similar reintroduced issues — this topic cluster was heavily coalesced in recent weeks.
-- **Source**: chain (coalesce)
-- **Generated**: 2026-03-26
-
 ### P3: Deep review complicity-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1424,6 +1417,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Deep review consciousness-and-the-bandwidth-problem.md post-coalesce
+- **Type**: deep-review
+- **Notes**: Coalesced article reviewed in deep-review on 2026-03-26, where reviewer noted "Third review. Coalesce operation had reintroduced two previously corrected errors." The pattern of coalesce reintroducing errors suggests a post-coalesce verification pass is warranted. Check bandwidth-of-consciousness.md (deep-reviewed 2026-03-25) for similar reintroduced issues — this topic cluster was heavily coalesced in recent weeks.
+- **Output**: consciousness-and-the-bandwidth-problem.md
 
 ### ✓ 2026-03-26: Fix broken wikilinks — 7 targets with 2 references each
 - **Type**: refine-draft
