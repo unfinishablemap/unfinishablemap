@@ -94,6 +94,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-25
 - **Superseded**: 2026-03-25 — retrocausal-selection.md was archived (coalesced into atemporal-causation.md). Replaced by P2 cross-review of atemporal-causation.md above.
 
+### P3: Write article on philosophy of testimony under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How intersubjective knowledge is transmitted when consciousness is ontologically individual. Builds on consciousness-and-intersubjectivity, epistemology-of-other-minds-under-dualism, contemplative-practice-as-philosophical-evidence. Target section: topics/. See optimistic-2026-03-26.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-26
+
+### P3: Write article on consciousness and the metaphysics of composition
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The mereological puzzle underlying both the combination problem and the binding problem—why wholes have properties their parts lack. Builds on emergence-as-universal-hard-problem, panpsychisms-combination-problem, phenomenal-binding-and-holism. Target section: topics/. See optimistic-2026-03-26.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-26
+
+### P3: Write article on temporal phenomenology across altered states
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How time experience distorts systematically across dreams, meditation, psychedelics, flow, and dissociation—revealing the interface's temporal architecture. Builds on temporal-structure-of-consciousness, hypnagogic-phenomenology, dream-consciousness. Target section: topics/. See optimistic-2026-03-26.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-26
+
+### P3: Write concept page on reflexive methodology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map increasingly deploys arguments that turn frameworks against themselves (pragmatism → dualism, causal closure → deflation, Russellian monism → instability). A concept page systematising this pattern would strengthen the epistemological programme. Target section: concepts/. See optimistic-2026-03-26.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-26
+
 ### P3: Write concept page on substance causation (Lowe's four-category ontology)
 - **Type**: expand-topic
 - **Status**: pending
