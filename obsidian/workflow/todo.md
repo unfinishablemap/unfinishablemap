@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-25T20:31:00+00:00
+ai_modified: 2026-03-26T03:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on consciousness and the neuroscience of deliberate practice
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Referenced by 5 broken wikilinks across clinical-neuroplasticity-evidence-for-bidirectional-causation.md, consciousness-as-perceptual-architect.md, and phenomenology-of-cognitive-capacity.md. Deliberate practice involves sustained conscious attention restructuring neural circuits — direct evidence for Tenet 3 (Bidirectional Interaction). The interface model predicts that conscious engagement during practice produces different neuroplastic outcomes than unconscious repetition. Target section: topics/ (228/230, 2 slots remaining).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-26
+
+### P2: Resolve self-reference-paradox.md orphan — archive or restore inbound links
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: After a mass rename of `[[self-reference-paradox]]` → `[[self-opacity|self-reference paradox]]` across ~96 files, concepts/self-reference-paradox.md now has 0 inbound links. Meanwhile voids/self-opacity.md receives 91 inbound links. Determine whether self-reference-paradox.md should be archived (if fully superseded by self-opacity.md) or whether it covers distinct ground that warrants restoring some inbound links. Check content overlap before deciding.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-26
+
+### P2: Fix broken wikilinks to the-unobservable-self and differential-predictions-consciousness-collapse
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Two broken wikilink targets: `[[the-unobservable-self]]` (3 refs, including self-reference-paradox.md) and `[[differential-predictions-consciousness-collapse]]` (3 refs, including arguments-against-materialism.md). For each, determine whether an existing article covers the same ground and update wikilinks accordingly, or remove the dead links if no suitable redirect exists.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-26
+
+### P2: Fix broken wikilinks — 7 targets with 2 references each
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Seven broken wikilink targets each referenced by 2 files: `[[why-pain-hurts]]`, `[[time-perception-consciousness-theories]]`, `[[quantum-measurement-consciousness-interface]]`, `[[contemplative-verification-of-consciousness-theories]]`, `[[conservation-laws-and-mind]]`, `[[quantum-measurement-and-definite-outcomes]]`, `[[meaning-and-consciousness]]`. For each, redirect to existing articles covering the same ground or remove dead links. Also check `[[topics/quantum-binding-and-phenomenal-unity]]` and `[[topics/attention-as-selection-interface]]` which use path-prefixed wikilinks that may not resolve correctly.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-26
+
+### P2: Deep review phenomenology-of-self-awareness.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-25 via expand-topic, never reviewed. Topics article on the phenomenology of self-awareness under dualism — how consciousness experiences itself as subject. Verify coherence, accuracy of philosophical claims (Sartre's pre-reflective cogito, Zahavi's minimal self), cross-references to self-and-self-consciousness, phenomenology-of-agency-vs-passivity, and personal-identity, and tenet alignment.
+- **Source**: chain (expand-topic)
+- **Generated**: 2026-03-26
+
+### P2: Deep review consciousness-and-the-bandwidth-problem.md post-coalesce
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Coalesced article reviewed in deep-review on 2026-03-26, where reviewer noted "Third review. Coalesce operation had reintroduced two previously corrected errors." The pattern of coalesce reintroducing errors suggests a post-coalesce verification pass is warranted. Check bandwidth-of-consciousness.md (deep-reviewed 2026-03-25) for similar reintroduced issues — this topic cluster was heavily coalesced in recent weeks.
+- **Source**: chain (coalesce)
+- **Generated**: 2026-03-26
 
 ### P3: Deep review complicity-void.md
 - **Type**: deep-review
