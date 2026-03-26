@@ -31,7 +31,7 @@ None. The previous review found no critical issues and addressed 7 medium issues
 
 1. **Article orphaned with zero inbound links**: The article had no inbound cross-references from any other site content despite being thematically central to multiple concept and topic pages. **Resolution**: Added 9 cross-references from existing articles (see Cross-links Added below).
 
-2. **Further Reading missing discussed topics**: Neural correlates of consciousness, predictive processing, and neurophenomenology are all discussed in the article but were absent from Further Reading. **Resolution**: Added [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/), [predictive-processing](/concepts/predictive-processing/), and [neurophenomenology](/concepts/neurophenomenology/) to Further Reading.
+2. **Further Reading missing discussed topics**: Neural correlates of consciousness, predictive processing, and neurophenomenology are all discussed in the article but were absent from Further Reading. **Resolution**: Added [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/), [predictive-processing](/concepts/predictive-processing/), and [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) to Further Reading.
 
 ### Counterarguments Considered
 
@@ -50,7 +50,7 @@ No new counterarguments beyond those already addressed in the previous review. T
 
 ### Enhancements Made
 
-- Added 3 entries to Further Reading: [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/), [predictive-processing](/concepts/predictive-processing/), [neurophenomenology](/concepts/neurophenomenology/)
+- Added 3 entries to Further Reading: [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/), [predictive-processing](/concepts/predictive-processing/), [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)
 - Updated frontmatter timestamps
 
 ### Cross-links Added (from other articles → this article)

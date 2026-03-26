@@ -48,10 +48,10 @@ All strengths identified in the earlier review remain intact:
 
 Added links TO contemplative-neuroscience-integration FROM:
 
-1. **[neurophenomenology](/concepts/neurophenomenology/)** — Added to Further Reading section
+1. **[neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)** — Added to Further Reading section
    - Rationale: Direct methodological foundation article
 
-2. **[contemplative-neuroscience](/concepts/contemplative-neuroscience/)** — Added to Further Reading section
+2. **[contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/)** — Added to Further Reading section
    - Rationale: Closely related concept article covering same territory
 
 3. **[first-person-third-person-methodology](/topics/methodology-of-consciousness-research/)** — Added inline in "Contemplative Neuroscience as Evidence" section

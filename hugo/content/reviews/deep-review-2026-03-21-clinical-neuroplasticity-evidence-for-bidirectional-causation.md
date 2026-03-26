@@ -29,7 +29,7 @@ topics: []
 ### Medium Issues Found
 - **Schwartz quote attribution unclear**: The original quote "The mind can exert control over the brain..." lacked a specific source citation. Resolution: Replaced with proper attribution to Schwartz & Begley (2002) and reworded to avoid unsourced direct quote.
 - **Paradoxical cases section tangential**: Filter/transmitter model was a significant tangent from the neuroplasticity theme. Resolution: Retitled "Anomalous Clinical Cases," trimmed filter model discussion, and added explicit connection showing how these cases complement neuroplasticity evidence by attacking the same assumption from the opposite direction.
-- **Missing inline cross-links**: Added wikilinks to [neuroplasticity](/concepts/neuroplasticity/), [contemplative-neuroscience](/concepts/contemplative-neuroscience/), [quantum-consciousness](/concepts/quantum-consciousness/), [bidirectional-interaction](/concepts/bidirectional-interaction/) in body text.
+- **Missing inline cross-links**: Added wikilinks to [neuroplasticity](/concepts/neuroplasticity/), [contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/), [quantum-consciousness](/concepts/quantum-consciousness/), [bidirectional-interaction](/concepts/bidirectional-interaction/) in body text.
 
 ### Counterarguments Considered
 - **Different physical inputs, different routes (Churchland/Dennett)**: The strongest physicalist objection to pathway divergence. Addressed by distinguishing input-channel variation from systematic directional asymmetry across all psychological vs pharmacological interventions.
@@ -53,7 +53,7 @@ topics: []
 
 ### Cross-links Added
 - [neuroplasticity](/concepts/neuroplasticity/) (opening paragraph)
-- [contemplative-neuroscience](/concepts/contemplative-neuroscience/) (meditation section)
+- [contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) (meditation section)
 - [quantum-consciousness](/concepts/quantum-consciousness/) (mechanisms section)
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) (mechanisms section)
 

@@ -67,7 +67,7 @@ topics: []
 - [emergence](/concepts/emergence/) — threshold question for experience
 - [causal-closure](/concepts/causal-closure/) — Bidirectional Interaction tenet section
 - [phenomenology](/concepts/phenomenology/) — phenomenological tradition passage
-- [neurophenomenology](/concepts/neurophenomenology/) — critic's structural problem passage
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — critic's structural problem passage
 
 ## Remaining Items
 

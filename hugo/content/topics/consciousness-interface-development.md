@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-23 12:23:00+00:00
+ai_modified: 2026-03-26 09:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ related_articles:
 - '[[biological-cognitive-closure]]'
 - '[[baseline-cognition]]'
 - '[[bandwidth-of-consciousness]]'
-- '[[contemplative-neuroscience]]'
+- '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[dopamine-and-the-unified-interface]]'
 title: The Consciousness-Brain Interface Across Development
 topics:
@@ -147,7 +147,7 @@ No phase represents the "correct" state of the interface. Each is a configuratio
 
 **The interface is not a fixed structure.** Consciousness operates through a continuously changing interface, and its properties determine not just what consciousness can do but what it can access.
 
-**Plasticity and closure are in tension throughout life.** At every stage, the interface faces a version of the explore-exploit tradeoff. [Plasticity](/concepts/neuroplasticity/) allows adaptation but costs stability; closure provides efficiency but forecloses territory. [Contemplative traditions](/concepts/contemplative-neuroscience/) claim sustained meditative practice can partially counteract this narrowing, though the degree of reversal achievable through deliberate practice is far smaller than the restructurings of early development.
+**Plasticity and closure are in tension throughout life.** At every stage, the interface faces a version of the explore-exploit tradeoff. [Plasticity](/concepts/neuroplasticity/) allows adaptation but costs stability; closure provides efficiency but forecloses territory. [Contemplative traditions](/concepts/neurophenomenology-and-contemplative-neuroscience/) claim sustained meditative practice can partially counteract this narrowing, though the degree of reversal achievable through deliberate practice is far smaller than the restructurings of early development.
 
 **Interface change outpaces consciousness.** The deepest restructurings occur when consciousness is least equipped to direct them. The most plastic periods are in infancy, when attentional control is minimal. By the time consciousness has sophisticated control over its own attention, the critical periods have closed. This asymmetry suggests the interface's developmental programme operates largely independently of the consciousness that will use it.
 
@@ -171,7 +171,7 @@ The developmental trajectory of the interface connects to all five of the Map's 
 - [mind-matter-interface](/concepts/mind-matter-interface/)
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [neuroplasticity](/concepts/neuroplasticity/)
-- [contemplative-neuroscience](/concepts/contemplative-neuroscience/)
+- [contemplative neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/)
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
 - [interface-friction](/concepts/interface-friction/)
 - [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/)

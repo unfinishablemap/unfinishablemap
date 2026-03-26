@@ -105,7 +105,7 @@ This directly addresses confabulation. Much confabulation occurs because subject
 
 ### Neurophenomenology
 
-Francisco Varela's [neurophenomenology](/concepts/neurophenomenology/) provides the framework that addresses the calibration problem. Trained first-person reports are combined with third-person neural measurement, allowing each to constrain the other.
+Francisco Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) provides the framework that addresses the calibration problem. Trained first-person reports are combined with third-person neural measurement, allowing each to constrain the other.
 
 The strongest evidence comes from [contemplative research on progressive disclosure](/topics/contemplative-practice-as-philosophical-evidence/). Trained meditators describe specific phenomenal progressions—the jhāna states, for example—and high-field fMRI studies have identified distinct neural signatures corresponding to each described state (Hagerty et al., 2013). If trained introspection were merely producing more elaborate confabulations, reports should diverge from neural measurement as training introduces systematic bias. Instead, they converge. Cross-modal confirmation provides the independent check that pure introspection lacks.
 
@@ -151,7 +151,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet gains 
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — How training expands phenomenal access
 - [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — Epistemological grounding for first-person data
 - [introspective-opacity](/voids/self-opacity/) — The structural limits that rehabilitation cannot overcome
-- [neurophenomenology](/concepts/neurophenomenology/) — The framework integrating first-person and third-person methods
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — The framework integrating first-person and third-person methods
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Systematic contemplative practice as knowledge source
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — When first-person reports constitute evidence
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — The persistent methodological gap

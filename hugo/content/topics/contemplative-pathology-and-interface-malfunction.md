@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-23 18:44:00+00:00
+ai_modified: 2026-03-26 09:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[meditation-and-consciousness-modes]]'
 - '[[witness-consciousness]]'
 - '[[attention-as-interface]]'
-- '[[contemplative-neuroscience]]'
+- '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[self-and-self-consciousness]]'
 created: 2026-02-23
 date: &id001 2026-02-23

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-15 17:39:00+00:00
+ai_modified: 2026-03-26 09:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -14,7 +14,7 @@ concepts:
 - '[[decoherence]]'
 - '[[witness-consciousness]]'
 - '[[haecceity]]'
-- '[[neurophenomenology]]'
+- '[[neurophenomenology-and-contemplative-neuroscience]]'
 created: 2026-01-16
 date: &id001 2026-01-20
 description: A-theory versus B-theory, presentism, eternalism, and the growing block
@@ -198,7 +198,7 @@ Meditation traditions offer empirical data on temporal phenomenology that bears 
 
 **The specious present in jhāna.** Concentrative absorption states show systematic variation in temporal phenomenology. First jhāna includes normal temporal flow; higher jhānas report increasingly "timeless" quality without loss of awareness. If the specious present reflects collapse-constitutive activity, and concentration progressively reduces active selection, the phenomenological sequence matches theoretical prediction.
 
-**Temporal microstructure.** Trained [introspectors](/concepts/introspection/) report sub-second phenomenological distinctions—what [neurophenomenology](/concepts/neurophenomenology/) calls "fine-grained temporal dynamics." If consciousness-involving collapse creates temporal structure, trained attention should reveal this granularity. The logarithmic improvement in introspective accuracy with meditation experience suggests temporal continuity is constructed from discrete constitutive events.
+**Temporal microstructure.** Trained [introspectors](/concepts/introspection/) report sub-second phenomenological distinctions—what [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) calls "fine-grained temporal dynamics." If consciousness-involving collapse creates temporal structure, trained attention should reveal this granularity. The logarithmic improvement in introspective accuracy with meditation experience suggests temporal continuity is constructed from discrete constitutive events.
 
 ## What Would Challenge This View?
 
@@ -241,7 +241,7 @@ Philosophy of time connects to all five tenets, with the connection running deep
 - [decoherence](/concepts/decoherence/) — The decoherence objection and biological quantum effects
 - [witness-consciousness](/concepts/witness-consciousness/) — Non-participatory awareness in contemplative practice
 - [haecceity](/concepts/haecceity/) — Indexical identity and why *this* consciousness matters
-- [neurophenomenology](/concepts/neurophenomenology/) — Integrating first-person observation with neuroscience
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Integrating first-person observation with neuroscience
 
 ## References
 

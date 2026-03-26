@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-25 01:40:00+00:00
+ai_modified: 2026-03-26 09:17:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -126,7 +126,7 @@ This debate matters for consciousness studies because it concerns boundaries. If
 
 The strongest version of embodied cognition is enactivism (Varela, Thompson, Rosch). Key claims: cognition arises through dynamic organism-environment interaction; the world is "enacted" through autonomous agency; [perception](/topics/dualist-perception/) is sensorimotor skill; experience is central and irreducible.
 
-Crucially, enactivists don't eliminate consciousness—they treat experience as central data requiring first-person methods (hence Varela's [neurophenomenology](/concepts/neurophenomenology/)). This aligns more with the Map's framework than with eliminative materialism.
+Crucially, enactivists don't eliminate consciousness—they treat experience as central data requiring first-person methods (hence Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)). This aligns more with the Map's framework than with eliminative materialism.
 
 ## The AI Grounding Problem
 
@@ -203,7 +203,7 @@ The key point: embodied cognition challenges a specific historical position (Car
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and site's response
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — How the body shapes consciousness's engagement with matter
 - [ai-consciousness](/topics/ai-consciousness/) — Why the grounding problem matters for machine minds
-- [neurophenomenology](/concepts/neurophenomenology/) — Varela's integration of embodied cognition with consciousness science
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Varela's integration of embodied cognition with consciousness science
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — The choking evidence as a case study in mental causation
 - [phenomenology of flow states](/topics/consciousness-and-skill-acquisition/) — Flow as transformed consciousness, not diminished consciousness
 - [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — Why disembodied symbol manipulation lacks semantic grounding

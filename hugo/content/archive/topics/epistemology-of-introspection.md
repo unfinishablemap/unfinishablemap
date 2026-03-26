@@ -101,7 +101,7 @@ The Map's position is that introspection constitutes a sui generis epistemic cap
 
 **Domain-variable reliability.** Introspective reliability varies systematically across domains: strongest for attended phenomenal content, weaker for background states, and absent for causal processes. This gradient, which the [calibration strategies](/topics/epistemology-of-introspection-and-calibration/) map in detail, reflects the structure of introspective access rather than a uniform capacity.
 
-**Trainability.** Unlike foundational capacities (you cannot train yourself to have better logical intuitions in the same way), introspective skill improves with practice along a logarithmic learning curve — matching the acquisition pattern of genuine perceptual skills (Fox et al. 2012). This trainability supports the view that introspection involves a real capacity engaging with real features of experience. [neurophenomenology](/concepts/neurophenomenology/) provides the validation framework: trained introspective reports predict neural signatures that untrained reports miss, confirming that improved access tracks genuine phenomenal structure rather than producing more elaborate confabulations.
+**Trainability.** Unlike foundational capacities (you cannot train yourself to have better logical intuitions in the same way), introspective skill improves with practice along a logarithmic learning curve — matching the acquisition pattern of genuine perceptual skills (Fox et al. 2012). This trainability supports the view that introspection involves a real capacity engaging with real features of experience. [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) provides the validation framework: trained introspective reports predict neural signatures that untrained reports miss, confirming that improved access tracks genuine phenomenal structure rather than producing more elaborate confabulations.
 
 ## What Introspection Can Establish
 
@@ -138,7 +138,7 @@ The sui generis model yields clear epistemological conclusions about what intros
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Systematic contemplative practice as knowledge source
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — The methodological divide in consciousness science
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — When first-person reports constitute evidence
-- [neurophenomenology](/concepts/neurophenomenology/) — The mutual constraint framework validating trained introspection
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — The mutual constraint framework validating trained introspection
 - [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/) — How introspective epistemology grounds unified dualist ethics
 
 ## References

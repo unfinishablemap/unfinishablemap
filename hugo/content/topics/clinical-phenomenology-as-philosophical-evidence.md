@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-20 18:23:00+00:00
+ai_modified: 2026-03-26 09:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,7 +12,7 @@ concepts:
 - '[[qualia]]'
 - '[[introspection]]'
 - '[[explanatory-gap]]'
-- '[[neurophenomenology]]'
+- '[[neurophenomenology-and-contemplative-neuroscience]]'
 created: 2026-03-20
 date: &id001 2026-03-20
 description: Clinical phenomenology generates uniquely powerful philosophical evidence
@@ -43,7 +43,7 @@ Clinical phenomenology — the systematic study of how psychiatric and neurologi
 
 ## The Epistemic Structure of Clinical Evidence
 
-Philosophy of mind has long faced an evidence problem. Armchair thought experiments — zombies, Mary's Room, inverted qualia — illuminate logical possibilities but cannot establish empirical facts. Neuroscience measures brain activity but cannot access subjective experience directly. Clinical phenomenology — and its methodological cousin [neurophenomenology](/concepts/neurophenomenology/) — occupies the [explanatory gap](/concepts/explanatory-gap/) between these approaches by studying cases where nature has performed experiments that ethics forbids and thought experiments merely imagine.
+Philosophy of mind has long faced an evidence problem. Armchair thought experiments — zombies, Mary's Room, inverted qualia — illuminate logical possibilities but cannot establish empirical facts. Neuroscience measures brain activity but cannot access subjective experience directly. Clinical phenomenology — and its methodological cousin [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — occupies the [explanatory gap](/concepts/explanatory-gap/) between these approaches by studying cases where nature has performed experiments that ethics forbids and thought experiments merely imagine.
 
 When [schizophrenia erodes the minimal self](/topics/phenomenological-psychiatry-and-altered-experience/), when [dissociative disorders selectively disconnect experiential channels](/topics/clinical-dissociation-as-systematic-evidence/), when [pain asymbolia strips affect from sensation](/topics/pain-consciousness-and-causal-power/) — these are not merely interesting clinical observations. They are controlled variations on the structure of consciousness, performed by pathology on real subjects who can report what the alteration is like from the inside.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-03-26 04:31:00+00:00
+ai_modified: 2026-03-26 08:48:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -44,7 +44,7 @@ topics:
 
 When two musicians lock into a groove, something shifts in how the music feels from the inside — a shift explored further in the Map's treatment of [musical understanding](/topics/phenomenology-of-musical-understanding/). Each player stops experiencing the performance as "my playing alongside yours" and begins experiencing it as "our playing." The Unfinishable Map argues that this shift — from I-mode to we-mode phenomenology — is real, philosophically significant, and presents a distinctive challenge for any theory of consciousness. If consciousness interfaces with the physical world through individual neural substrates, as the Map's framework holds, then the felt character of we-consciousness must arise from individual phenomenal states that nonetheless carry genuinely collective intentional content.
 
-The [collective phenomena article](/topics/consciousness-and-collective-phenomena/) argues that groups are not conscious but collective intentionality requires individual phenomenal consciousness. The [interpersonal understanding article](/topics/consciousness-and-social-understanding/) examines what it is like to grasp another person's experience. This article explores the space between those two claims: the phenomenology of thinking, intending, and experiencing *as a we*.
+The [collective phenomena article](/topics/consciousness-and-collective-phenomena/) argues that groups are not conscious but collective intentionality requires individual phenomenal consciousness. The [social understanding article](/topics/consciousness-and-social-understanding/) examines what it is like to grasp another person's experience and why the cognitive capacities enabling human social life require phenomenal consciousness. This article explores the space between those two claims: the phenomenology of thinking, intending, and experiencing *as a we*.
 
 ## The Felt Shift from I-Mode to We-Mode
 

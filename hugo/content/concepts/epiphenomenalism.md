@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-03-26 07:16:00+00:00
+ai_modified: 2026-03-26 09:17:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,7 +15,7 @@ concepts:
 - '[[minimal-consciousness]]'
 - '[[consciousness-as-amplifier]]'
 - '[[bidirectional-interaction]]'
-- '[[contemplative-neuroscience]]'
+- '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[phenomenal-consciousness]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[consciousness-and-intelligence]]'
@@ -32,7 +32,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[epiphenomenalism-2026-01-08]]'
-- '[[contemplative-neuroscience]]'
+- '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[ai-epiphenomenalism]]'
 - '[[the-epiphenomenalist-threat]]'
 - '[[arguments-against-epiphenomenalism]]'
@@ -142,7 +142,7 @@ Epiphenomenalism predicts no correlation between consciousness and cognitive cap
 
 ### The Contemplative Neuroscience Evidence
 
-[Contemplative neuroscience](/concepts/contemplative-neuroscience/) provides further empirical challenge. The [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) documents four independent streams—self-directed neuroplasticity in OCD, psychotherapy neuroimaging, meditation structural remodelling, and placebo neuroplasticity—converging on the conclusion that intentional mental activity reshapes neural architecture through routes distinct from pharmacological intervention. Meditation training produces measurable neuroplastic changes, and the *content* of conscious intention matters—compassion meditation produces different neural changes than focused attention meditation. This is an instance of [content-specificity](/concepts/content-specificity-of-mental-causation/), the broader pattern where the *meaning* of a conscious state determines *which* physical effect occurs. The therapeutic efficacy of mindfulness-based interventions poses a particular challenge: if phenomenology were causally inert, such interventions should be no more effective than placebo. They are substantially more effective. See [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) for the full argument.
+[Contemplative neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) provides further empirical challenge. The [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) documents four independent streams—self-directed neuroplasticity in OCD, psychotherapy neuroimaging, meditation structural remodelling, and placebo neuroplasticity—converging on the conclusion that intentional mental activity reshapes neural architecture through routes distinct from pharmacological intervention. Meditation training produces measurable neuroplastic changes, and the *content* of conscious intention matters—compassion meditation produces different neural changes than focused attention meditation. This is an instance of [content-specificity](/concepts/content-specificity-of-mental-causation/), the broader pattern where the *meaning* of a conscious state determines *which* physical effect occurs. The therapeutic efficacy of mindfulness-based interventions poses a particular challenge: if phenomenology were causally inert, such interventions should be no more effective than placebo. They are substantially more effective. See [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) for the full argument.
 
 ## Relation to the Map's Perspective
 
@@ -184,7 +184,7 @@ The self-stultification problem remains the strongest objection: if epiphenomena
 
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — How meditation phenomenology distinguishes between dualism, materialism, and epiphenomenalism
 - [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) — Four converging clinical evidence streams challenging epiphenomenalism
-- [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — Empirical evidence that meditation produces measurable neuroplastic changes
+- [contemplative neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Empirical evidence that meditation produces measurable neuroplastic changes
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The Map's tenet that consciousness and physics causally influence each other
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — The full evolutionary argument for mental causation
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Empirical evidence that consciousness amplifies cognitive capacity

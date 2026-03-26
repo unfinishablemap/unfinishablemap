@@ -61,7 +61,7 @@ topics: []
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/) — complementary article on interface location
 - [mysterianism](/concepts/mysterianism/) — cognitive closure as specification gap explanation
 - [princess-elizabeths-challenge](/topics/history-of-the-interaction-problem/) — original form of the specification problem
-- [neurophenomenology](/concepts/neurophenomenology/) — methodology for constraining phenomenal inputs
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — methodology for constraining phenomenal inputs
 - [explanatory-gap](/concepts/explanatory-gap/) — epistemic analogue of the specification gap
 - [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) — why genuine selection requires irreducible indexical facts
 - [epiphenomenalism](/concepts/epiphenomenalism/) — distinguished from physicalism in Occam's section

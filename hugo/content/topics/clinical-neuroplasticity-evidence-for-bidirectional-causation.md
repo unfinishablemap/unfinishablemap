@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-03-26 04:01:00+00:00
+ai_modified: 2026-03-26 09:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[causal-closure]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[neuroplasticity]]'
-- '[[contemplative-neuroscience]]'
+- '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[quantum-consciousness]]'
 - '[[downward-causation]]'
 - '[[content-specificity-of-mental-causation]]'
@@ -62,7 +62,7 @@ The physicalist will object that different physical inputs naturally produce dif
 
 ## Meditation-Driven Structural Remodelling
 
-Sustained contemplative practice produces structural brain changes that go beyond functional modulation to include new neural tissue. As explored in the Map's treatment of [contemplative neuroscience](/concepts/contemplative-neuroscience/), a 2024 systematic review of neurobiological changes from mindfulness and meditation documents increases in cortical thickness, reduced amygdala reactivity, improved brain connectivity, and higher degree centrality in the right hippocampus compared to non-meditating controls (Rodríguez-Martín et al., 2024).
+Sustained contemplative practice produces structural brain changes that go beyond functional modulation to include new neural tissue. As explored in the Map's treatment of [contemplative neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/), a 2024 systematic review of neurobiological changes from mindfulness and meditation documents increases in cortical thickness, reduced amygdala reactivity, improved brain connectivity, and higher degree centrality in the right hippocampus compared to non-meditating controls (Rodríguez-Martín et al., 2024).
 
 These changes involve both synaptogenesis (formation of new synaptic connections) and neurogenesis (growth of new neurons). Mindfulness-Based Stress Reduction enhances brain regions related to emotional processing and sensory perception. Long-term meditation produces changes in hippocampal functional topology detectable by magnetoencephalography.
 

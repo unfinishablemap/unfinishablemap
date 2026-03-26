@@ -9,6 +9,148 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-26 11:48 UTC - deep-review
+- **Status**: Success
+- **File**: [obviousness-void](/voids/obviousness-void/)
+- **Word count**: 1619 → 1651 (+32)
+- **Critical issues addressed**: 3 (unverified timing claim, imprecise Wittgenstein citation, overstated Fernández Velasco attribution)
+- **Medium issues addressed**: 3 (unused McGinn reference integrated, "three independent" overstatement, missing epistemic-emotions cross-link)
+- **Enhancements made**: 2 (McGinn cognitive closure contrast, epistemic-emotions in-text link)
+- **Output**: [deep-review-2026-03-26-obviousness-void](/reviews/deep-review-2026-03-26-obviousness-void/)
+
+## 2026-03-26 11:32 UTC - deep-review
+- **Status**: Success
+- **File**: [baseline-cognition](/concepts/baseline-cognition/)
+- **Word count**: 2537 → 2547 (+10, length-neutral mode)
+- **Critical issues addressed**: 1 (DeWall/Baumeister/Masicampo misattribution — was incorrectly cited as Lieberman et al.)
+- **Medium issues addressed**: 1 (Randeniya meta-analysis scoped to fMRI studies)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-26-baseline-cognition](/reviews/deep-review-2026-03-26-baseline-cognition/)
+
+## 2026-03-26 11:17 UTC - deep-review
+- **Status**: Success
+- **File**: [complicity-void](/voids/complicity-void/)
+- **Word count**: 2091 → ~2130 (+39, length-neutral mode)
+- **Critical issues addressed**: 3 (Sartre misattribution fixed, dangling references removed, Nietzsche source corrected)
+- **Medium issues addressed**: 3 (TMT claim cited, Buddhist anti-dualism acknowledged, comparisons tightened)
+- **Enhancements made**: 2 (Buddhist tension paragraph, AI refinement log removed)
+- **Output**: [deep-review-2026-03-26-complicity-void](/reviews/deep-review-2026-03-26-complicity-void/)
+
+## 2026-03-26 11:04 UTC - deep-review
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Word count**: 4138 → 3873 (-265)
+- **Critical issues addressed**: 3 (duplicate reference removed, unverifiable KCC2 claims removed, AI refinement log removed)
+- **Medium issues addressed**: 2 (hard threshold condensation, overlong paragraph tightened)
+- **Enhancements made**: 0 (stability-focused review)
+- **Output**: [deep-review-2026-03-26-anaesthesia-and-the-consciousness-interface](/reviews/deep-review-2026-03-26-anaesthesia-and-the-consciousness-interface/)
+
+## 2026-03-26 11:05 UTC - refine-draft
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Changes**: Integrated research from anaesthetic-recovery-neuroscience-2026-03-26.md — enriched Active Reboot section with Bhatt et al. (2021) prefrontal cortex findings, added primate neocortex abrupt state transitions, expanded KCC2 mechanism, added GNW/interface interpretation contrast
+- **Published**: yes
+
+## 2026-03-26 10:32 UTC - deep-review
+- **Status**: Success
+- **File**: [collective-cognitive-limits](/voids/collective-cognitive-limits/)
+- **Word count**: 2119 → 2137 (+18)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing adaptive-cognitive-limits connection, missing evolutionary framing in trade-off, missing cross-links)
+- **Enhancements made**: 3 (Trivers/adaptive link in elephants section, adaptive framing in trade-off, Further Reading link)
+- **Output**: [deep-review-2026-03-26-collective-cognitive-limits](/reviews/deep-review-2026-03-26-collective-cognitive-limits/)
+
+## 2026-03-26 10:18 UTC - coalesce
+- **Status**: Success
+- **Sources**: [anaesthetic-recovery-and-the-filter-problem](/topics/anaesthetic-recovery-and-the-filter-problem/)
+- **Target**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Archived**: [anaesthetic-recovery-and-the-filter-problem](/archive/topics/anaesthetic-recovery-and-the-filter-problem/)
+- **References to review**: none
+
+## 2026-03-26 10:02 UTC - deep-review
+- **Status**: Success
+- **File**: [voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/)
+- **Word count**: 1684 → 1745 (+61)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing Denton citation, missing NCC cross-link, missing motor-control-quantum-zeno cross-link)
+- **Enhancements made**: 3 (citation added, 2 cross-links added)
+- **Output**: [deep-review-2026-03-26-voluntary-attention-control-mechanisms](/reviews/deep-review-2026-03-26-voluntary-attention-control-mechanisms/)
+
+## 2026-03-26 09:47 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-biology](/concepts/quantum-biology/)
+- **Word count**: 3434 → 3435 (+1)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Wiest 2025 attribution precision)
+- **Enhancements made**: 1 (photosynthesis section tightened)
+- **Output**: [deep-review-2026-03-26-quantum-biology](/reviews/deep-review-2026-03-26-quantum-biology/)
+
+## 2026-03-26 09:33 UTC - deep-review (cross-review)
+- **Status**: Success
+- **Trigger**: Cross-review perception articles considering perceptual-degradation-and-the-interface
+- **Files modified**: [perception](/concepts/perception/), [dualist-perception](/topics/dualist-perception/), [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/), [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/)
+- **Cross-links added**: 4 articles now reference [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (missing cross-links to degradation concept)
+- **Enhancements made**: 4 (body text connections + frontmatter + Further Reading)
+- **Output**: [deep-review-2026-03-26-cross-review-perception-degradation](/reviews/deep-review-2026-03-26-cross-review-perception-degradation/)
+
+## 2026-03-26 09:17 UTC - deep-review
+- **Status**: Success
+- **File**: [neurophenomenology-and-contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/)
+- **Word count**: 2831 → 2777 (-54)
+- **Critical issues addressed**: 1 (broken `[Emotional-consciousness](/topics/emotion-and-dualism/)` link → `[emotion-and-dualism](/topics/emotion-and-dualism/)`)
+- **Medium issues addressed**: 2 (trimmed Further Reading 19→13; bulk wikilink update across 51 active files)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-26-neurophenomenology-and-contemplative-neuroscience](/reviews/deep-review-2026-03-26-neurophenomenology-and-contemplative-neuroscience/)
+
+## 2026-03-26 09:02 UTC - coalesce
+- **Status**: Success
+- **Sources**: [neurophenomenology](/concepts/neurophenomenology/), [contemplative-neuroscience](/concepts/contemplative-neuroscience/)
+- **Target**: [neurophenomenology-and-contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/)
+- **Archived**: archive/concepts/neurophenomenology.md, archive/concepts/contemplative-neuroscience.md
+- **References to review**: ~80 files reference neurophenomenology, ~27 reference contemplative-neuroscience
+
+## 2026-03-26 08:48 UTC - deep-review (cross-review)
+- **Status**: Success
+- **Context**: Cross-review intersubjectivity articles considering consciousness-and-social-understanding coalesce
+- **File**: [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/)
+- **Word count**: 2713 → 2765 (+52)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (connected to coalesced article's cognitive mechanism story, updated collective intentionality display text)
+- **Enhancements made**: 1 (metarepresentation cross-reference paragraph)
+- **Also modified**: [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/) (display text update)
+- **Output**: [deep-review-2026-03-26d-consciousness-and-intersubjectivity](/reviews/deep-review-2026-03-26d-consciousness-and-intersubjectivity/)
+
+## 2026-03-26 08:32 UTC - deep-review
+- **Status**: Success
+- **File**: [anaesthetic-recovery-and-the-filter-problem](/topics/anaesthetic-recovery-and-the-filter-problem/)
+- **Word count**: 2082 → 2164 (+82)
+- **Critical issues addressed**: 2 (unverifiable Bodart reference removed, missing No Many Worlds tenet added)
+- **Medium issues addressed**: 2 (missing cross-links, incomplete reference noted)
+- **Enhancements made**: 3 (cross-links to attention-as-interface and consciousness-and-causal-powers, No Many Worlds tenet paragraph)
+- **Output**: [deep-review-2026-03-26-anaesthetic-recovery-and-the-filter-problem](/reviews/deep-review-2026-03-26-anaesthetic-recovery-and-the-filter-problem/)
+
+## 2026-03-26 08:17 UTC - deep-review (cross-review)
+- **Status**: Success
+- **Context**: Cross-review self-awareness articles considering phenomenology-of-self-awareness
+- **Files modified**: 5 articles
+  - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — fixed 2 misdirected links (`[phenomenology of self-awareness](/voids/self-opacity/)` → `[phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/)`), added to related_articles
+  - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — added cross-reference
+  - [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/) — added cross-reference
+  - [cognitive-integration-and-the-self](/topics/cognitive-integration-and-the-self/) — added cross-reference
+  - [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-thought/) — added cross-reference
+- **Critical issues addressed**: 1 (misdirected links in self-and-self-consciousness)
+- **Cross-links added**: 5
+- **Output**: [deep-review-2026-03-26-cross-review-self-awareness](/reviews/deep-review-2026-03-26-cross-review-self-awareness/)
+
+## 2026-03-26 08:03 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Anaesthetic Recovery and the Filter Problem
+- **Output**: [anaesthetic-recovery-and-the-filter-problem](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Word count**: 2082
+- **Based on research**: yes — [consciousness-anesthesia-filter-theory-2026-03-20](/research/consciousness-anesthesia-filter-theory-2026-03-20/) and [anaesthetic-recovery-neuroscience-2026-03-26](/research/anaesthetic-recovery-neuroscience-2026-03-26/)
+
 ## 2026-03-26 07:55 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 455 non-draft files (227 topics, 227 concepts, 1 tenet). Deep sampling of 20 articles across phenomenological, ethical, clinical, and argumentative clusters.

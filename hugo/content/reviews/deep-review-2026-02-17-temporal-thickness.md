@@ -60,7 +60,7 @@ topics: []
 - Clarified the Map's coinage of "temporal thickness" as synthetic term
 
 ### Cross-links Added
-- [neurophenomenology](/concepts/neurophenomenology/)
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)
 - [protention](/concepts/temporal-consciousness/)
 - [agent-causation](/concepts/agent-causation/)
 - [attention-as-interface](/concepts/attention-as-interface/)

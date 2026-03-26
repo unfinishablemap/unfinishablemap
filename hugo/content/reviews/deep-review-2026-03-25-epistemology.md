@@ -30,7 +30,7 @@ topics: []
 - **Unsupported claim about parsimony defenders**: "parsimony's own defenders have conceded its inadequacy here" was overstated. Resolution: replaced with factual claim about preconditions failing simultaneously.
 - **No heterophenomenology acknowledgment**: Article claimed third-person methods cannot access qualitative character without noting physicalist responses. Resolution: added heterophenomenology as a contested alternative with Map's rebuttal.
 - **Missing cross-link to acquaintance-knowledge**: "Direct acquaintance" mentioned twice without linking to existing concept page. Resolution: added wikilinks.
-- **Neurophenomenology capitalization**: `[Neurophenomenology](/concepts/neurophenomenology/)` corrected to `[Neurophenomenology](/concepts/neurophenomenology/)`.
+- **Neurophenomenology capitalization**: `[Neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)` corrected to `[Neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)`.
 - **Other minds not discussed in body**: `epistemology-of-other-minds-under-dualism` was in related_articles but never mentioned. Resolution: added new paragraph in "Epistemology Under Dualism" section.
 
 ### Counterarguments Considered

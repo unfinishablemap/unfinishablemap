@@ -51,7 +51,7 @@ Contemplative epistemology is the view that systematic contemplative practice—
 
 Contemplative epistemology rests on a structural asymmetry: consciousness is the one domain where the object of study is accessible only from within. Third-person neuroscience can measure correlates of experience but cannot access experience itself. This creates what might be called the *epistemic gap*—not the metaphysical explanatory gap of the [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), but a methodological gap about how knowledge of consciousness can be obtained.
 
-Contemplative epistemology does not seek to replace third-person science but to complement it: consciousness science requires both perspectives. Francisco Varela's [neurophenomenology](/concepts/neurophenomenology/) formalised this as "mutual constraint"—first-person phenomenological reports and third-person neural data each inform and constrain the other. Neither alone suffices.
+Contemplative epistemology does not seek to replace third-person science but to complement it: consciousness science requires both perspectives. Francisco Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) formalised this as "mutual constraint"—first-person phenomenological reports and third-person neural data each inform and constrain the other. Neither alone suffices.
 
 The principal objection to this asymmetry comes from Dennett's heterophenomenology, which holds that first-person reports are behavioural data to be studied from outside—not privileged access to consciousness itself. On this view, third-person methods can study consciousness perfectly well by studying what subjects say and do. Contemplative epistemology's response is that heterophenomenology systematically loses the *phenomenal character* that makes consciousness puzzling in the first place. Functional descriptions of what meditators report capture the structure of their claims but not the qualitative features those claims are about. If the explanatory gap between functional description and phenomenal experience is genuine—as the Map argues—then heterophenomenology is not a complete methodology but a useful complement that tracks a different dimension of the same phenomenon (see [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/)).
 
@@ -83,11 +83,11 @@ The analogy with perceptual skill is instructive. An untrained listener cannot i
 
 Contemplative epistemology is the *epistemological framework*. It should be distinguished from:
 
-- **[Neurophenomenology](/concepts/neurophenomenology/)**: Varela's specific research program integrating first-person reports with neuroscience through mutual constraint. Contemplative epistemology provides the philosophical justification for treating first-person reports as data; neurophenomenology provides the methodology for integrating that data with third-person science.
+- **[Neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)**: Varela's specific research program integrating first-person reports with neuroscience through mutual constraint. Contemplative epistemology provides the philosophical justification for treating first-person reports as data; neurophenomenology provides the methodology for integrating that data with third-person science.
 
 - **[Introspection](/concepts/introspection/)**: The general capacity for self-observation. Contemplative epistemology claims that *trained* introspection is epistemically privileged—not that introspection as such is reliable.
 
-- **[Contemplative-neuroscience](/concepts/contemplative-neuroscience/)**: The empirical field studying neural changes from contemplative practice. The neuroscience validates the framework but is not identical to it. Contemplative epistemology could be correct even if current neuroscience instruments were too crude to detect the relevant correlates.
+- **[Contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/)**: The empirical field studying neural changes from contemplative practice. The neuroscience validates the framework but is not identical to it. Contemplative epistemology could be correct even if current neuroscience instruments were too crude to detect the relevant correlates.
 
 - **[Phenomenology](/concepts/phenomenology/)**: Husserl's philosophical discipline of investigating experience. Contemplative epistemology draws on phenomenological methods but extends them through sustained meditative practice rather than philosophical reflection alone.
 
@@ -113,9 +113,9 @@ Contemplative epistemology faces genuine difficulties.
 
 ## Further Reading
 
-- [neurophenomenology](/concepts/neurophenomenology/) — Varela's research program formalising the integration of first-person and third-person methods
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Varela's research program formalising the integration of first-person and third-person methods
 - [introspection](/concepts/introspection/) — The reliability debate and the process/content distinction
-- [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — Empirical evidence validating the contemplative epistemological framework
+- [contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Empirical evidence validating the contemplative epistemological framework
 - [contemplative-reliability](/concepts/contemplative-epistemology/) — Conditions under which contemplative reports meet epistemic standards
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer phenomenon as key contemplative finding
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Active selection and passive witnessing as distinct epistemic modes

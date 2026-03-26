@@ -168,7 +168,7 @@ The tripartite taxonomy (Unexplored, Unexplorable, Occluded) is philosophically 
 | [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) | [phenomenology](/concepts/phenomenology/) | Fineness-of-grain problem connects to pre-conceptual access |
 | [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) | [temporal-consciousness](/concepts/temporal-consciousness/) | Both address specious present; the former is the comprehensive topic article |
 | [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/) | [decoherence](/concepts/decoherence/) | Recent evidence directly addresses decoherence objection |
-| [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) | [neurophenomenology](/concepts/neurophenomenology/) | Both argue first-person data has scientific value |
+| [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) | [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) | Both argue first-person data has scientific value |
 | [vertiginous-question](/topics/vertiginous-question/) | [indexical-facts](/concepts/indexical-knowledge-and-identity/) | Vertiginous question is paradigm case of indexical irreducibility |
 
 ## New Concept Pages Needed

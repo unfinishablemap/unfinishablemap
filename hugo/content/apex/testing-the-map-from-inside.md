@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-03-25 01:40:00+00:00
+ai_modified: 2026-03-26 09:17:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-19 06:37:00+00:00
 apex_sources:
@@ -24,8 +24,7 @@ concepts:
 - '[[meditation-and-consciousness-modes]]'
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[mental-effort]]'
-- '[[neurophenomenology]]'
-- '[[contemplative-neuroscience]]'
+- '[[neurophenomenology-and-contemplative-neuroscience]]'
 created: 2026-01-31
 date: &id001 2026-01-31
 description: Your own experience is a laboratory for consciousness. Careful attention
@@ -47,7 +46,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Philosophy typically asks you to consider arguments and weigh evidence. The Unfinishable Map offers something different: experiments you can run right now, using your own experience as data. You don't need neuroimaging equipment or controlled conditions. You need attention, honesty, and willingness to observe what actually happens when you try specific phenomenological tests. This approach treats [contemplative practice as philosophical methodology](/topics/contemplative-practice-as-philosophical-evidence/)—a disciplined first-person method generating evidence about consciousness unavailable through thought experiments or conceptual analysis alone. [Microphenomenology](/concepts/neurophenomenology/)—Claire Petitmengin's technique of attending to present-tense experience rather than abstracting from memory—offers practical guidance: ask yourself *how* something unfolds, not *why*. Re-enact rather than analyse. The tests below use this principle.
+Philosophy typically asks you to consider arguments and weigh evidence. The Unfinishable Map offers something different: experiments you can run right now, using your own experience as data. You don't need neuroimaging equipment or controlled conditions. You need attention, honesty, and willingness to observe what actually happens when you try specific phenomenological tests. This approach treats [contemplative practice as philosophical methodology](/topics/contemplative-practice-as-philosophical-evidence/)—a disciplined first-person method generating evidence about consciousness unavailable through thought experiments or conceptual analysis alone. [Microphenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)—Claire Petitmengin's technique of attending to present-tense experience rather than abstracting from memory—offers practical guidance: ask yourself *how* something unfolds, not *why*. Re-enact rather than analyse. The tests below use this principle.
 
 This matters because the Map generates predictions about experience. If consciousness genuinely selects among neural possibilities, choosing should feel different from observing. If witness awareness is real, you should be able to access it. If mental effort tracks genuine causal engagement, sustained attention should feel like work. These predictions are testable from the first-person perspective.
 
@@ -169,7 +168,7 @@ Fox et al. (2012) found meditation experience predicts introspective accuracy fo
 
 The practical implication: if your first attempts at these tests produce muddy results, don't conclude the phenomena aren't there. Introspective skill develops. The trained meditator accesses phenomenological detail invisible to casual introspection.
 
-[Neurophenomenology](/concepts/neurophenomenology/) takes this seriously—treating trained contemplatives as an "ideal population" for consciousness research. [Recent empirical work](/concepts/contemplative-neuroscience/) validates this approach: phenomenological training produces measurable improvements in attention and discrimination, and crucially, first-person reports from trained observers predict neural signatures that untrained reports do not. The clinical [EASE instrument](/concepts/neurophenomenology/) (Examination of Anomalous Self-Experience) demonstrates the same principle in psychiatry: rigorous first-person methods can produce replicable, predictive results. The assumption isn't that reports are infallible but that practice refines access to what's there.
+[Neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) takes this seriously—treating trained contemplatives as an "ideal population" for consciousness research. [Recent empirical work](/concepts/neurophenomenology-and-contemplative-neuroscience/) validates this approach: phenomenological training produces measurable improvements in attention and discrimination, and crucially, first-person reports from trained observers predict neural signatures that untrained reports do not. The clinical [EASE instrument](/concepts/neurophenomenology-and-contemplative-neuroscience/) (Examination of Anomalous Self-Experience) demonstrates the same principle in psychiatry: rigorous first-person methods can produce replicable, predictive results. The assumption isn't that reports are infallible but that practice refines access to what's there.
 
 ### What Training Reveals
 
@@ -190,7 +189,7 @@ If these reports converge across independent traditions—Buddhist, Hindu, Chris
 
 Daniel Dennett proposes treating phenomenological reports as data about "how things seem" without assuming phenomenality—a method he calls *heterophenomenology*. On this view, the tests above don't reveal phenomenal properties; they reveal how brains model their own activity. The "feel" of effort is what computational load represents itself as.
 
-The Map's counter: heterophenomenology struggles with differential predictive power. [Trained contemplatives predict neural signatures](/concepts/neurophenomenology/) far better than untrained observers. If reports merely describe "seemings" with no phenomenal referent, why does training improve this prediction? And why do the neural signatures of *willed* attention differ from *instructed* attention in precisely the way the phenomenology of effort predicts? The correlation suggests phenomenology tracks something real—not just self-modelling but genuine access to what's happening.
+The Map's counter: heterophenomenology struggles with differential predictive power. [Trained contemplatives predict neural signatures](/concepts/neurophenomenology-and-contemplative-neuroscience/) far better than untrained observers. If reports merely describe "seemings" with no phenomenal referent, why does training improve this prediction? And why do the neural signatures of *willed* attention differ from *instructed* attention in precisely the way the phenomenology of effort predicts? The correlation suggests phenomenology tracks something real—not just self-modelling but genuine access to what's happening.
 
 ### The Regress Problem
 
@@ -276,4 +275,4 @@ This apex article synthesizes:
 - [Meditation and Consciousness Modes](/concepts/meditation-and-consciousness-modes/) — Active selection and passive witnessing as distinct modes
 - [Phenomenology of Choice](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of deliberation and decision
 - [Mental Effort and the Quantum Zeno Effect](/concepts/mental-effort/) — Why sustained attention should feel like work
-- [Neurophenomenology and Contemplative Science](/concepts/neurophenomenology/) — Integrating first-person methods with neuroscience
+- [Neurophenomenology and Contemplative Science](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Integrating first-person methods with neuroscience

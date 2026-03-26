@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-19 03:19:00+00:00
+ai_modified: 2026-03-26 09:17:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
 - '[[phenomenology]]'
-- '[[neurophenomenology]]'
+- '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[introspection]]'
 - '[[illusionism]]'
 - '[[dualism]]'
@@ -22,7 +22,7 @@ modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'
 - '[[phenomenology]]'
-- '[[neurophenomenology]]'
+- '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[objectivity-and-consciousness]]'
 - '[[problem-of-other-minds]]'
 - '[[consciousness-and-the-problem-of-measurement-standards]]'
@@ -74,13 +74,13 @@ The fundamental disagreement: classical phenomenology holds that consciousness h
 
 ## Heterophenomenology vs. Neurophenomenology
 
-Francisco Varela's [neurophenomenology](/concepts/neurophenomenology/) offers a middle position. It takes phenomenology seriously—first-person investigation discloses real experiential structures—while integrating it with third-person neuroscience through "mutual constraint." Neither perspective reduces to the other; both are needed.
+Francisco Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) offers a middle position. It takes phenomenology seriously—first-person investigation discloses real experiential structures—while integrating it with third-person neuroscience through "mutual constraint." Neither perspective reduces to the other; both are needed.
 
 Heterophenomenology rejects mutual constraint. There is no genuine first-person data requiring integration with neuroscience, only third-person data (verbal reports) requiring third-person explanation.
 
 As Varela wrote, "There is no theoretical fix for the absence of a disciplined approach to experience." Heterophenomenology proposes precisely such a theoretical fix: eliminate first-person phenomenology in favor of third-person reports about phenomenology.
 
-The contrast reveals heterophenomenology's eliminativist tendency. [Neurophenomenology](/concepts/neurophenomenology/#contemplative-science) studies meditators' first-person reports of jhana states, finding they correlate with distinct neural signatures. Heterophenomenology would study only what meditators *say* about jhanas, treating the phenomenology itself as potentially non-existent.
+The contrast reveals heterophenomenology's eliminativist tendency. [Neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/#contemplative-science) studies meditators' first-person reports of jhana states, finding they correlate with distinct neural signatures. Heterophenomenology would study only what meditators *say* about jhanas, treating the phenomenology itself as potentially non-existent.
 
 ## The Neutrality Claim
 
@@ -128,7 +128,7 @@ The Map can acknowledge heterophenomenology's usefulness as a research tool whil
 
 What the Map rejects is the claim that this exhausts consciousness science—that there is no genuine first-person data beyond verbal reports, no phenomenological structures requiring first-person investigation, no [epistemic asymmetry](/topics/methodology-of-consciousness-research/) tracking a real ontological asymmetry. The [measurement standards problem](/topics/consciousness-and-the-problem-of-measurement-standards/) sharpens this critique: operationally defined "measurements" of consciousness measure neural states, not phenomenal states, and the question of whether those neural proxies track the right thing remains unanswerable from the third-person perspective alone.
 
-Heterophenomenology works as a tool within a larger framework that includes disciplined first-person investigation ([phenomenology](/concepts/phenomenology/), [contemplative neuroscience](/concepts/neurophenomenology/#contemplative-science)), second-person empathic methods, and philosophical argument about consciousness's nature. It fails as a complete methodology because it systematically excludes phenomenology itself.
+Heterophenomenology works as a tool within a larger framework that includes disciplined first-person investigation ([phenomenology](/concepts/phenomenology/), [contemplative neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/#contemplative-science)), second-person empathic methods, and philosophical argument about consciousness's nature. It fails as a complete methodology because it systematically excludes phenomenology itself.
 
 ## Relation to Site Perspective
 
@@ -138,13 +138,13 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-razor-has-limits) applies h
 
 Dennett's framework also conflicts with the [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction). If phenomenal consciousness is real and causally efficacious, then first-person investigation provides epistemic access to causal processes that third-person methods systematically miss. Heterophenomenology's insistence that all genuine data is third-personal assumes either phenomenal consciousness doesn't exist (contradicting Dualism) or is causally inert (contradicting Bidirectional Interaction).
 
-The Map endorses methodological pluralism: consciousness requires multiple investigative methods—[introspection](/concepts/introspection/), [phenomenology](/concepts/phenomenology/), [neurophenomenology](/concepts/neurophenomenology/), neuroscience, philosophical argument. Heterophenomenology's third-person monopoly fails because it excludes the very perspective consciousness science most needs.
+The Map endorses methodological pluralism: consciousness requires multiple investigative methods—[introspection](/concepts/introspection/), [phenomenology](/concepts/phenomenology/), [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/), neuroscience, philosophical argument. Heterophenomenology's third-person monopoly fails because it excludes the very perspective consciousness science most needs.
 
 ## Further Reading
 
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)—Comprehensive treatment of the methodological divide and why it reflects ontological dualism
 - [phenomenology](/concepts/phenomenology/)—Classical first-person investigation methods that heterophenomenology rejects
-- [neurophenomenology](/concepts/neurophenomenology/)—Varela's mutual constraint framework integrating first- and third-person perspectives
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)—Varela's mutual constraint framework integrating first- and third-person perspectives
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)—The tension between objective science and subjective experience
 - [illusionism](/concepts/illusionism/)—The metaphysical view often paired with heterophenomenology
 

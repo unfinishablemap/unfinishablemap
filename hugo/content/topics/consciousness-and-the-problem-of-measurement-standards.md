@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-25 01:54:00+00:00
+ai_modified: 2026-03-26 09:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[objectivity-and-consciousness]]'
 - '[[introspection]]'
 - '[[intersubjectivity]]'
-- '[[neurophenomenology]]'
+- '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[dualism]]'
 created: 2026-02-19
 date: &id001 2026-02-19
@@ -68,7 +68,7 @@ Phenomenal consciousness has no publicly accessible causal effects of the right 
 
 The situation differs fundamentally from early thermometry. Before standardised temperature scales, different thermoscopes gave different readings. But thermoscopes could be *calibrated* because temperature is a public quantity — two thermoscopes in the same water bath should agree, and when they do not, the problem is instrumental. For phenomenal quantities, there is no equivalent of the shared water bath. Two subjects reporting pain "of the same intensity" may be experiencing qualitatively different states that happen to receive the same numerical label. No third-person instrument can determine whether they are, because the quantity being "measured" is accessible only from the first-person perspective.
 
-This is why [neurophenomenology](/concepts/neurophenomenology/) — Francisco Varela's programme of integrating first-person phenomenological training with third-person neuroscience (further developed in Thompson 2007) — represents a genuine methodological advance rather than an ad hoc workaround. It recognises that the gap between neural correlate and phenomenal measurement cannot be closed from the third-person side alone. But even neurophenomenology does not produce measurement standards. It produces richer correlations between trained introspective reports and neural data. The [explanatory-gap](/concepts/explanatory-gap/) between the two remains.
+This is why [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Francisco Varela's programme of integrating first-person phenomenological training with third-person neuroscience (further developed in Thompson 2007) — represents a genuine methodological advance rather than an ad hoc workaround. It recognises that the gap between neural correlate and phenomenal measurement cannot be closed from the third-person side alone. But even neurophenomenology does not produce measurement standards. It produces richer correlations between trained introspective reports and neural data. The [explanatory-gap](/concepts/explanatory-gap/) between the two remains.
 
 ## The Calibration Problem
 

@@ -142,7 +142,7 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article innovatively prop
 - **Tenet alignment**: Supports Bidirectional Interaction through measurable performance effects
 
 #### Jhana States and Consciousness Modes
-- **Builds on**: [neurophenomenology](/concepts/neurophenomenology/), [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)
+- **Builds on**: [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/), [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)
 - **Would address**: 7-Tesla fMRI findings on experienced meditators deserve detailed treatment
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Provides evidence for consciousness states beyond normal waking

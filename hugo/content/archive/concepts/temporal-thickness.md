@@ -135,7 +135,7 @@ Temporal thickness connects to the Map's [tenets](/tenets/) at several points.
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's actual occasions and concrescence
 - [witness-consciousness](/concepts/witness-consciousness/) — Observing temporal flow itself
 - [introspection](/concepts/introspection/) — First-person access to temporal structure
-- [neurophenomenology](/concepts/neurophenomenology/) — Varela's method for investigating temporal microstructure
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Varela's method for investigating temporal microstructure
 - [protention](/concepts/temporal-consciousness/) — Husserl's forward-directed temporal structure
 - [agent-causation](/concepts/agent-causation/) — Temporal thickness as a condition for genuine agency
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention modulates temporal thickness

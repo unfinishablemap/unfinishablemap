@@ -58,7 +58,7 @@ None. Citations are accurate, no misattributions detected, required sections pre
 - Improved MWI engagement to address within-branch selection argument
 - Added cross-link to [attention-consciousness-dissociation](/topics/attention-and-the-consciousness-interface/) in Phase One
 - Added cross-link to [introspection](/concepts/introspection/) in Meditator's Laboratory section
-- Added cross-link to [neurophenomenology](/concepts/neurophenomenology/) in convergence discussion
+- Added cross-link to [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) in convergence discussion
 - Qualified "Everyone does it daily" to "Most people do it daily"
 - Qualified "not itself a decision" to "typically not a decision"
 - Qualified convergence claim to acknowledge shared neural architecture as alternative explanation
@@ -67,7 +67,7 @@ None. Citations are accurate, no misattributions detected, required sections pre
 ### Cross-links Added
 - [attention-consciousness-dissociation](/topics/attention-and-the-consciousness-interface/) — Phase One as case of dissociation in miniature
 - [introspection](/concepts/introspection/) — meditators as expert introspective observers
-- [neurophenomenology](/concepts/neurophenomenology/) — supporting evidence for convergent phenomenological reports
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — supporting evidence for convergent phenomenological reports
 
 ## Remaining Items
 

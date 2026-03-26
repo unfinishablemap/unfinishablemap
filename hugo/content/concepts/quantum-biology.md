@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-23 15:15:00+00:00
+ai_modified: 2026-03-26 09:47:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Non-trivial quantum effects in living systems—photosynthesis, bir
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-04 04:41:00+00:00
+last_deep_review: 2026-03-26 09:47:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -48,7 +48,7 @@ When light strikes photosynthetic complexes, the resulting excitation must reach
 
 In 2007, Engel et al. demonstrated quantum coherence in the Fenna-Matthews-Olson (FMO) complex of green sulfur bacteria at cryogenic temperature (77 K), with later studies extending the finding to physiological temperatures. The excitation samples multiple pathways simultaneously through quantum superposition. Subsequent research has revised the picture: coherence lifetimes are shorter than initially claimed (~60 femtoseconds at room temperature), and the long-lived oscillations appear to be vibrational rather than electronic. The current consensus is that quantum coherence probably doesn't enhance photosynthetic efficiency.
 
-Yet the demonstration matters: quantum effects *can* operate in warm biological conditions. The fact that this particular mechanism isn't functionally important doesn't rule out functional quantum effects elsewhere.
+Yet the demonstration matters: quantum effects *can* operate in warm biological conditions, and the absence of functional importance here doesn't rule out functional quantum effects elsewhere.
 
 ### Avian Magnetoreception
 
@@ -153,7 +153,7 @@ Roger Penrose and Stuart Hameroff propose that quantum computation occurs in neu
 - **Collapse**: Penrose's objective reduction (gravitationally induced collapse) terminates quantum computation
 - **Consciousness**: Each collapse event constitutes a moment of conscious experience
 
-**2025 developments** (Neuroscience of Consciousness): Room-temperature quantum effects observed in microtubules. Anesthetics appear to disrupt collective quantum states—potentially explaining why anesthesia specifically affects consciousness rather than other neural functions.
+**2025 developments**: Wiest (2025) reported experimental support for room-temperature quantum effects in microtubules, with evidence that anesthetics disrupt collective quantum states—potentially explaining why anesthesia specifically affects consciousness rather than other neural functions.
 
 ### QBIT Theory
 

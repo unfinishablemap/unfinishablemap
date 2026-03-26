@@ -115,7 +115,7 @@ This remains debatable. Perhaps radically different temporal structures could su
 
 Meditation traditions provide phenomenological data unavailable through ordinary introspection.
 
-**Temporal microstructure.** Trained contemplatives report observing experience arising in discrete pulses with internal structure (arising, persistence, dissolution). Francisco Varela's [neurophenomenology](/concepts/neurophenomenology/) proposes that meditation reveals fine-grained temporal dynamics normally below conscious threshold. The Buddhist concept of *khanika* (momentariness) describes rapid arising and passing that untrained awareness blurs into apparent continuity.
+**Temporal microstructure.** Trained contemplatives report observing experience arising in discrete pulses with internal structure (arising, persistence, dissolution). Francisco Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) proposes that meditation reveals fine-grained temporal dynamics normally below conscious threshold. The Buddhist concept of *khanika* (momentariness) describes rapid arising and passing that untrained awareness blurs into apparent continuity.
 
 **Cessation states.** In *nirodha samapatti*, perception and feeling cease entirely. Practitioners report this not as unconsciousness but as awareness without temporal flow—an absence of the specious present itself. If consciousness constitutes time through collapse involvement, suspended collapse would eliminate temporal experience. The reports match this prediction.
 
@@ -162,7 +162,7 @@ The philosophy of temporal experience connects to the Map's framework at multipl
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, and the growing block
 - [collapse-and-time](/concepts/collapse-and-time/) — How consciousness may participate in time's arrow
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — The Map's full treatment of time and conscious agency
-- [neurophenomenology](/concepts/neurophenomenology/) — Integrating first-person methods with neuroscience
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Integrating first-person methods with neuroscience
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's framework where experience is fundamental
 
 ## References

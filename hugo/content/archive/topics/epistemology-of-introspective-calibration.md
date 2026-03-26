@@ -83,7 +83,7 @@ The strongest objection is that convergence reflects shared human neurobiology r
 
 ## Strategy Three: Cross-Modal Verification
 
-Francisco Varela's [neurophenomenology](/concepts/neurophenomenology/) addresses calibration by combining trained first-person reports with third-person neural measurement, allowing each to constrain the other.
+Francisco Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) addresses calibration by combining trained first-person reports with third-person neural measurement, allowing each to constrain the other.
 
 The evidence is suggestive. Brewer et al. (2011) found that experienced meditators' reports of reduced mind-wandering corresponded to reduced default mode network activity. Jhāna states described by practitioners have distinct neural signatures confirmed by 7-Tesla fMRI (Hagerty et al. 2013). Fox et al. (2012) found meditation experience predicts introspective accuracy on a logarithmic learning curve — the same acquisition pattern observed in perceptual skills.
 
@@ -159,7 +159,7 @@ The honest acknowledgment is that the calibration strategies do not close the [m
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Systematic contemplative practice as knowledge source
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Cross-traditional convergence as philosophical methodology
 - [introspective-opacity](/voids/self-opacity/) — The structural limits on introspecting cognitive processes
-- [neurophenomenology](/concepts/neurophenomenology/) — The framework for integrating first-person and third-person methods
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — The framework for integrating first-person and third-person methods
 
 ## References
 

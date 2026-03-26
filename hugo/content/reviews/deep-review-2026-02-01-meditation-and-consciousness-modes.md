@@ -39,7 +39,7 @@ All citations verified:
 No misattribution, dropped qualifiers, or source/Map conflation detected.
 
 ### Medium Issues Found
-1. **Missing cross-links to contemplative evidence articles**: The article lacked links to `[contemplative-neuroscience](/concepts/contemplative-neuroscience/)` and `[neurophenomenology](/concepts/neurophenomenology/)`, which directly support the neuroscience claims and align with the "contemplative evidence" review context.
+1. **Missing cross-links to contemplative evidence articles**: The article lacked links to `[contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/)` and `[neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)`, which directly support the neuroscience claims and align with the "contemplative evidence" review context.
    - **Resolution**: Added both to concepts frontmatter and Further Reading section.
 
 ### Counterarguments Considered
@@ -65,14 +65,14 @@ All represent philosophical standoffs rather than fixable flaws.
 - Appropriate qualification of speculative quantum mechanism
 
 ### Enhancements Made
-1. Added `[contemplative-neuroscience](/concepts/contemplative-neuroscience/)` to concepts frontmatter
-2. Added `[neurophenomenology](/concepts/neurophenomenology/)` to concepts frontmatter
-3. Added `[contemplative-neuroscience](/concepts/contemplative-neuroscience/)` to Further Reading with description
-4. Added `[neurophenomenology](/concepts/neurophenomenology/)` to Further Reading with description
+1. Added `[contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/)` to concepts frontmatter
+2. Added `[neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)` to concepts frontmatter
+3. Added `[contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/)` to Further Reading with description
+4. Added `[neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)` to Further Reading with description
 
 ### Cross-links Added
-- [contemplative-neuroscience](/concepts/contemplative-neuroscience/) (frontmatter + Further Reading)
-- [neurophenomenology](/concepts/neurophenomenology/) (frontmatter + Further Reading)
+- [contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) (frontmatter + Further Reading)
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) (frontmatter + Further Reading)
 
 ## Length Analysis
 

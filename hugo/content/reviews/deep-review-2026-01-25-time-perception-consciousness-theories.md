@@ -78,7 +78,7 @@ topics: []
 - [agent-causation](/concepts/agent-causation/) - self as originator in time
 - [illusionism](/concepts/illusionism/) - challenge to temporal phenomenology
 - [philosophy-of-time](/concepts/philosophy-of-time/) - A-theory, B-theory
-- [neurophenomenology](/concepts/neurophenomenology/) - bridging phenomenology and neuroscience
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) - bridging phenomenology and neuroscience
 
 ## Remaining Items
 

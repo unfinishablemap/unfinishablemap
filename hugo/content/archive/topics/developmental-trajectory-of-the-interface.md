@@ -101,7 +101,7 @@ The lifespan trajectory generates several insights for the Map's broader framewo
 
 **The interface is not a fixed structure.** Discussions of the mind-matter interface tend to treat it as a static architecture — consciousness operates through *the* brain. The developmental trajectory shows that consciousness operates through a continuously changing interface, and the properties of that interface determine not just what consciousness can do but what it can access.
 
-**Plasticity and closure are in tension throughout life.** At every stage, the interface faces a version of the explore-exploit tradeoff. [Plasticity](/concepts/neuroplasticity/) allows adaptation but costs stability; closure provides efficiency but forecloses territory. The lifespan trajectory represents a progressive tilt from exploration toward exploitation, with aging perhaps forcing a partial reversal. [Contemplative traditions](/concepts/contemplative-neuroscience/) claim that sustained meditative practice can partially counteract this narrowing — recovering broader perceptual modes while retaining adult-level control — though the degree of reversal achievable through deliberate practice is far smaller than the restructurings of early development.
+**Plasticity and closure are in tension throughout life.** At every stage, the interface faces a version of the explore-exploit tradeoff. [Plasticity](/concepts/neuroplasticity/) allows adaptation but costs stability; closure provides efficiency but forecloses territory. The lifespan trajectory represents a progressive tilt from exploration toward exploitation, with aging perhaps forcing a partial reversal. [Contemplative traditions](/concepts/neurophenomenology-and-contemplative-neuroscience/) claim that sustained meditative practice can partially counteract this narrowing — recovering broader perceptual modes while retaining adult-level control — though the degree of reversal achievable through deliberate practice is far smaller than the restructurings of early development.
 
 **Interface change may outpace consciousness.** The deepest restructurings occur when consciousness is least equipped to direct them. The most plastic periods are in infancy, when attentional control is minimal. By the time consciousness has sophisticated control over its own attention, the critical periods have closed. This asymmetry suggests that the interface's developmental programme operates largely independently of the consciousness that will use it — a point that complicates simple models of bidirectional interaction.
 
@@ -128,7 +128,7 @@ The lifespan trajectory of the interface connects to all five of the Map's [tene
 - [mind-matter-interface](/concepts/mind-matter-interface/)
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [neuroplasticity](/concepts/neuroplasticity/)
-- [contemplative-neuroscience](/concepts/contemplative-neuroscience/)
+- [contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/)
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
 - [interface-friction](/concepts/interface-friction/)
 

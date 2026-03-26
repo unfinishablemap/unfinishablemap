@@ -68,7 +68,7 @@ The Map favours modified extensionalism: experience is genuinely extended, const
 
 ## The Neurophenomenological Bridge
 
-Francisco Varela proposed that systematic first-person investigation, disciplined by phenomenological method and constrained by neuroscientific data, could reveal the structure of temporal experience. His [neurophenomenological](/concepts/neurophenomenology/) programme connects the specious present to gamma-range neural synchronies (30–70 Hz) during perceptual tasks and to contemplative evidence from trained observers.
+Francisco Varela proposed that systematic first-person investigation, disciplined by phenomenological method and constrained by neuroscientific data, could reveal the structure of temporal experience. His [neurophenomenological](/concepts/neurophenomenology-and-contemplative-neuroscience/) programme connects the specious present to gamma-range neural synchronies (30–70 Hz) during perceptual tasks and to contemplative evidence from trained observers.
 
 Varela's key insight: "Now is not just a mere temporal location, it has a lived quality as well: it is a space we dwell in rather than a point where an object passes transitorily." The present is inhabited, not merely occupied.
 
@@ -113,7 +113,7 @@ This parallels the standard [qualia](/concepts/qualia/) arguments but targets a 
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, and the Map's modified growing block
 - [temporal-phenomenology-quantum-selection](/concepts/temporal-consciousness/) — The specious present as selection window: how temporal phenomenology maps onto quantum collapse
 - [collapse-and-time](/concepts/collapse-and-time/) — How quantum collapse may constitute time's arrow
-- [neurophenomenology](/concepts/neurophenomenology/) — Bridging first-person investigation and neuroscience
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Bridging first-person investigation and neuroscience
 - [william-james-consciousness](/topics/william-james-consciousness/) — The stream of consciousness and its temporal structure
 - [consciousness-as-activity](/topics/consciousness-as-activity/) — Why temporal extension is constitutive if consciousness is activity
 - [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/) — Motor selection within the specious present's temporal window

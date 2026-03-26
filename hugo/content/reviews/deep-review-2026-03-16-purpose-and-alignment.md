@@ -80,7 +80,7 @@ All cross-links valid after fixes:
 - [experiential-alignment](/concepts/experiential-alignment/) ✓
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) ✓
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) ✓
-- [neurophenomenology](/concepts/neurophenomenology/) ✓
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) ✓
 - [emotional-consciousness](/topics/emotion-and-dualism/) ✓
 - [illusionism](/concepts/illusionism/) ✓
 - [introspection](/concepts/introspection/) ✓

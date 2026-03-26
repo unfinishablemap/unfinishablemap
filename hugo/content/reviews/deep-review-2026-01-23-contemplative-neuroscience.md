@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-23
-**Article**: [Contemplative Neuroscience](/concepts/contemplative-neuroscience/)
+**Article**: [Contemplative Neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -67,7 +67,7 @@ topics: []
 
 - [mental-effort](/concepts/mental-effort/) - for Schwartz OCD neuroplasticity evidence
 - [mysterianism-cognitive-closure](/concepts/mysterianism/) - for explanatory gap persistence
-- [neurophenomenology](/concepts/neurophenomenology/#buddhist-anti-substantialism-vs-dualism) - for metaphysical tensions
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/#buddhist-anti-substantialism-vs-dualism) - for metaphysical tensions
 
 ## Remaining Items
 

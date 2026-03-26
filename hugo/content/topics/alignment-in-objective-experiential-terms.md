@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-03-12 05:07:00+00:00
+ai_modified: 2026-03-26 09:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -91,7 +91,7 @@ This objection conflates epistemic access with metaphysical status. The difficul
 
 The practical problem is genuine, and the [experiential-alignment](/concepts/experiential-alignment/) framework addresses it through triangulation: multiple independent proxies (self-report, trained introspection, physiological correlates, behavioural indicators) cross-checked against each other, with systematic divergence treated as signal rather than noise. This is imperfect. But imperfect measurement of the right target is better than precise measurement of the wrong one.
 
-There is a deeper point. First-person methods—[introspection](/concepts/introspection/), [neurophenomenology](/concepts/neurophenomenology/), contemplative training—are not inferior substitutes for third-person measurement. They are the *appropriate* methods for accessing phenomenal qualities, just as telescopes are appropriate for astronomy and microscopes for biology. The analogy is imperfect—telescopes produce intersubjectively verifiable data while introspective reports do not—but the imperfection points to the nature of the target, not a deficiency in the method. Experiential qualities are first-personal by nature; demanding third-person verification as a prerequisite for legitimacy is itself a metaphysical commitment (physicalism) that the Map's dualism rejects.
+There is a deeper point. First-person methods—[introspection](/concepts/introspection/), [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/), contemplative training—are not inferior substitutes for third-person measurement. They are the *appropriate* methods for accessing phenomenal qualities, just as telescopes are appropriate for astronomy and microscopes for biology. The analogy is imperfect—telescopes produce intersubjectively verifiable data while introspective reports do not—but the imperfection points to the nature of the target, not a deficiency in the method. Experiential qualities are first-personal by nature; demanding third-person verification as a prerequisite for legitimacy is itself a metaphysical commitment (physicalism) that the Map's dualism rejects.
 
 ## Objectivity Without Universality
 

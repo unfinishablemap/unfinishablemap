@@ -74,7 +74,7 @@ None. The article had no factual errors, attribution problems, or internal contr
 
 ### Cross-links Added
 
-- [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — Added to concepts list and referenced in text for empirical validation of neurophenomenology
+- [contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Added to concepts list and referenced in text for empirical validation of neurophenomenology
 
 ## Remaining Items
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-03-23 19:59:00+00:00
+ai_modified: 2026-03-26 08:17:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -29,6 +29,7 @@ related_articles:
 - '[[tenets]]'
 - '[[cognitive-phenomenology-thinking-experience-2026-01-17]]'
 - '[[self-reference-and-the-limits-of-physical-description]]'
+- '[[phenomenology-of-self-awareness]]'
 title: The Phenomenology of Recursive Thought
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -152,6 +153,7 @@ The phenomenology of recursive thought suggests several conclusions:
 - [higher-order-theories](/concepts/higher-order-theories/) — Theories that make recursion central to consciousness
 - [introspection](/concepts/introspection/) — The reliability and limits of self-examination
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative phenomenology of observing without identification
+- [phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/) — The transformation thesis: how the first level of recursive self-awareness produces the most dramatic qualitative shift
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The minimal self and its relation to recursive awareness
 - [downward-causation](/concepts/downward-causation/) — How consciousness might influence physical processes
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and temporal thickness that recursive thought requires

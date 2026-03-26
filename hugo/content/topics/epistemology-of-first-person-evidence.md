@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-03-23 17:30:00+00:00
+ai_modified: 2026-03-26 09:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -13,7 +13,7 @@ concepts:
 - '[[phenomenological-evidence]]'
 - '[[contemplative-epistemology]]'
 - '[[metacognition]]'
-- '[[neurophenomenology]]'
+- '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[heterophenomenology]]'
 - '[[witness-consciousness]]'
 - '[[phenomenology]]'
@@ -125,7 +125,7 @@ The Map's position is that introspection constitutes a sui generis epistemic cap
 
 **Domain-variable reliability.** Introspective reliability varies systematically: strongest for attended phenomenal content, weaker for background states, absent for causal processes.
 
-**Trainability.** Introspective skill improves with practice — meditation experience predicts introspective accuracy following a skill-acquisition pattern (Fox et al. 2012). [Neurophenomenological](/concepts/neurophenomenology/) validation confirms trained reports predict neural signatures that untrained reports miss. This cross-modal validation — first-person reports predicting third-person measurements — is the kind of convergent evidence that grounds the reliability of any scientific instrument.
+**Trainability.** Introspective skill improves with practice — meditation experience predicts introspective accuracy following a skill-acquisition pattern (Fox et al. 2012). [Neurophenomenological](/concepts/neurophenomenology-and-contemplative-neuroscience/) validation confirms trained reports predict neural signatures that untrained reports miss. This cross-modal validation — first-person reports predicting third-person measurements — is the kind of convergent evidence that grounds the reliability of any scientific instrument.
 
 **Observer-modifying limitation.** William James observed that introspecting thought is "like seizing a spinning top to catch its motion." Pre-reflective consciousness becomes reflective consciousness in the act of examination. The best methods mitigate but cannot eliminate this transformation.
 
@@ -145,7 +145,7 @@ Convergence is strongest for *structural* features and weakest for *interpretive
 
 ### Strategy Three: Cross-Modal Verification
 
-Francisco Varela's [neurophenomenology](/concepts/neurophenomenology/) combines trained first-person reports with third-person neural measurement. Experienced meditators' reports of reduced mind-wandering correspond to reduced default mode network activity (Brewer et al. 2011). Advanced practitioners in jhāna states produce brain activity patterns that correspond precisely to their reported phenomenal states. If training merely produced more elaborate confabulations, reports should diverge from neural data as practice introduces biases. Instead, convergence *increases* with training.
+Francisco Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) combines trained first-person reports with third-person neural measurement. Experienced meditators' reports of reduced mind-wandering correspond to reduced default mode network activity (Brewer et al. 2011). Advanced practitioners in jhāna states produce brain activity patterns that correspond precisely to their reported phenomenal states. If training merely produced more elaborate confabulations, reports should diverge from neural data as practice introduces biases. Instead, convergence *increases* with training.
 
 The limitation is fundamental: cross-modal verification calibrates the *reporting process*, not the *phenomenal access* underlying it. Neural correlates confirm that distinct brain states accompany distinct reports but cannot verify that reports accurately represent phenomenal character.
 
@@ -211,7 +211,7 @@ A deeper challenge comes from traditions that dissolve the observer-observed bou
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Systematic contemplative practice as knowledge source
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Cross-traditional convergence as methodology
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — The methodological divide in consciousness science
-- [neurophenomenology](/concepts/neurophenomenology/) — The mutual constraint framework validating trained introspection
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — The mutual constraint framework validating trained introspection
 - [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/) — How introspective epistemology grounds unified dualist ethics
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's room and the limits of physical knowledge
 - [galilean-exclusion](/concepts/galilean-exclusion/) — How modern science excluded the subjective

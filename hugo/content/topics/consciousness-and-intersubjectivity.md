@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-03-26 04:31:00+00:00
+ai_modified: 2026-03-26 08:48:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Is consciousness constitutively intersubjective or fundamentally so
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-24 12:36:00+00:00
+last_deep_review: 2026-03-26 08:48:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -95,6 +95,8 @@ The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) provid
 
 This picture preserves what is right in both the "consciousness first" and "intersubjectivity first" positions. Individual consciousness is ontologically real and irreducible — it does not dissolve into intersubjective relations. But intersubjective encounter transforms what consciousness can be. A consciousness that has never encountered another remains phenomenally impoverished: it lacks the categories of self-and-other, the experience of being understood and misunderstood, the moral horizon that opens when another's vulnerability becomes visible. These are not additions to a pre-existing consciousness that was already complete. They are dimensions of experience that only intersubjective encounter can activate.
 
+The cognitive capacities this enrichment enables are substantial. As the Map's treatment of [social understanding](/topics/consciousness-and-social-understanding/) argues, the distinctively human achievements — [recursive mindreading](/concepts/metacognition/), shared intentionality, [moral accountability](/concepts/moral-responsibility/) — depend on phenomenal consciousness operating across the intersubjective channel. Intersubjective encounter does not merely add depth to individual experience; it builds the phenomenal architecture from which institutional reality, cultural accumulation, and genuine interpersonal understanding become possible.
+
 The connection to selfhood is direct. The [three-layered model of selfhood](/topics/the-self-minimal-narrative-and-substantial/) distinguishes the minimal self (bare first-person perspective), the narrative self (autobiographical construction), and the substantial self (irreducible conscious particular). Intersubjective encounter operates primarily at the narrative layer — shaping how the self is understood and expressed — while presupposing the minimal and substantial layers as its phenomenological ground. As the [social construction analysis](/topics/social-construction-of-self-vs-phenomenal-self/) argues, you must already be a phenomenal self before society can construct anything out of you. The phenomenal self provides the experiential subject that intersubjective encounter then transforms.
 
 ## The Asymmetry Problem
@@ -117,7 +119,7 @@ The Map's third position — ontologically individual, phenomenologically enrich
 
 **[Dualism](/tenets/#dualism)**: The constitutive question takes on distinctive form under dualism. If consciousness is ontologically irreducible, then intersubjectivity is the encounter between genuinely distinct experiential realities — not just different perspectives on one physical world but different non-physical domains achieving coordination through physical mediation. The Map argues this captures the felt difficulty of genuine intersubjective encounter better than physicalist accounts where communication is "merely" causal interaction between similar physical systems.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Intersubjective encounter provides some of the strongest everyday evidence for bidirectional interaction. When I understand what you mean — not just process your words but grasp the experiential content behind them — this understanding causally influences my subsequent behaviour. I respond differently because I understand differently. If phenomenal understanding were epiphenomenal, the systematic correlation between depth of intersubjective understanding and quality of interpersonal response would be coincidental. The Map finds this implausible.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Intersubjective encounter provides some of the strongest everyday evidence for bidirectional interaction. When I understand what you mean — not just process your words but grasp the experiential content behind them — this understanding causally influences my subsequent behaviour. If phenomenal understanding were epiphenomenal, the systematic correlation between depth of intersubjective understanding and quality of interpersonal response would be coincidental.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Intersubjectivity presupposes that I am encountering *this* particular other — not a superposition of all possible versions of them across branching worlds. Many-worlds interpretations dissolve the indexical specificity that makes intersubjective encounter meaningful. When I struggle to understand you, the "you" I am trying to reach must be determinate. The Map's rejection of many-worlds preserves this determinacy.
 

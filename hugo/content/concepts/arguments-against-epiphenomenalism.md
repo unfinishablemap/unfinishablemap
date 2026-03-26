@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-03-22 20:51:00+00:00
+ai_modified: 2026-03-26 09:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -73,7 +73,7 @@ Knowledge requires appropriate causal connection between knower and known. When 
 
 Epiphenomenalism breaks this connection. Your belief that you are in pain is not caused by the pain but by the neural state that also causes the pain. The phenomenal object is causally disconnected from the report about it. Introspection becomes unlike any other form of knowledge: correct by coincidence rather than causal connection.
 
-[Contemplative evidence](/concepts/contemplative-neuroscience/) strengthens this objection. Meditation practitioners report increasingly precise discrimination between mental states, and the *content* of conscious intention matters—compassion meditation produces different neuroplastic changes than focused attention (Lutz et al. 2004; Davidson & Lutz 2008). The [full philosophical argument](/topics/contemplative-practice-as-philosophical-evidence/) develops this: if phenomenology were causally inert, these content-specific effects would require systematic pre-established harmony between phenomenal distinctions and neural outcomes. The [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) extends the pattern beyond meditation to four independent streams—self-directed neuroplasticity in OCD, psychotherapy neuroimaging, meditation structural remodelling, and placebo neuroplasticity—all converging on the conclusion that intentional mental activity reshapes neural architecture.
+[Contemplative evidence](/concepts/neurophenomenology-and-contemplative-neuroscience/) strengthens this objection. Meditation practitioners report increasingly precise discrimination between mental states, and the *content* of conscious intention matters—compassion meditation produces different neuroplastic changes than focused attention (Lutz et al. 2004; Davidson & Lutz 2008). The [full philosophical argument](/topics/contemplative-practice-as-philosophical-evidence/) develops this: if phenomenology were causally inert, these content-specific effects would require systematic pre-established harmony between phenomenal distinctions and neural outcomes. The [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) extends the pattern beyond meditation to four independent streams—self-directed neuroplasticity in OCD, psychotherapy neuroimaging, meditation structural remodelling, and placebo neuroplasticity—all converging on the conclusion that intentional mental activity reshapes neural architecture.
 
 What distinguishes the phenomenological attack: it targets the *mechanism* of self-knowledge specifically. Even granting that consciousness exists and that evolution somehow produced it, epiphenomenalism still cannot explain how we know about our own experiences.
 

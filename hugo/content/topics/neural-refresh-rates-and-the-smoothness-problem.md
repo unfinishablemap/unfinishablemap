@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-17 23:00:00+00:00
+ai_modified: 2026-03-26 09:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[binding-problem]]'
 - '[[neural-correlates-of-consciousness]]'
 - '[[phenomenal-binding-and-holism]]'
-- '[[neurophenomenology]]'
+- '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[explanatory-gap]]'
 - '[[qualia]]'
 - '[[grain-mismatch]]'

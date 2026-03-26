@@ -28,7 +28,7 @@ topics: []
 
 ### Medium Issues Found
 
-- **[MEDIUM-1] Missing neurophenomenology cross-link**: Varela's neurophenomenological research programme was discussed without linking to the existing `[neurophenomenology](/concepts/neurophenomenology/)` concept page. **Resolution**: Added wikilink `[neurophenomenological](/concepts/neurophenomenology/)` in the Varela paragraph.
+- **[MEDIUM-1] Missing neurophenomenology cross-link**: Varela's neurophenomenological research programme was discussed without linking to the existing `[neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)` concept page. **Resolution**: Added wikilink `[neurophenomenological](/concepts/neurophenomenology-and-contemplative-neuroscience/)` in the Varela paragraph.
 
 ### Counterarguments Considered
 
@@ -56,12 +56,12 @@ All six adversarial personas engaged with the content. No new critical issues we
 
 ### Enhancements Made
 
-- Added `[neurophenomenology](/concepts/neurophenomenology/)` cross-link for Varela paragraph
+- Added `[neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)` cross-link for Varela paragraph
 - Fixed stale link to archived `temporal-phenomenology-quantum-selection`
 
 ### Cross-links Added
 
-- [neurophenomenology](/concepts/neurophenomenology/) — in specious present section (Varela paragraph)
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — in specious present section (Varela paragraph)
 
 ## Remaining Items
 

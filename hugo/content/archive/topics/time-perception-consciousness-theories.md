@@ -195,7 +195,7 @@ This analysis connects to all five of the Map's [foundational commitments](/tene
 
 ### Methods
 - [phenomenology](/concepts/phenomenology/)—first-person investigation method revealing temporal structure
-- [neurophenomenology](/concepts/neurophenomenology/)—bridging phenomenology and neuroscience
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)—bridging phenomenology and neuroscience
 
 ### The Explanatory Gap
 - [explanatory-gap](/concepts/explanatory-gap/)—why physical descriptions fail to capture phenomenal properties

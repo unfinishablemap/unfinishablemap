@@ -66,7 +66,7 @@ topics: []
 - [witness-consciousness](/concepts/witness-consciousness/)
 - [haecceity](/concepts/haecceity/)
 - [temporal-consciousness](/concepts/temporal-consciousness/)
-- [neurophenomenology](/concepts/neurophenomenology/)
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)
 
 ## Remaining Items
 

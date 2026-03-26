@@ -76,7 +76,7 @@ All six adversarial personas were applied. No new critical issues emerged beyond
 - [witness-consciousness](/concepts/witness-consciousness/) (Further Reading)
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) (Further Reading)
 - [mental-effort](/concepts/mental-effort/) (Further Reading)
-- [neurophenomenology](/concepts/neurophenomenology/) (Further Reading)
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) (Further Reading)
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) (Further Reading)
 - [consciousness-and-agency](/apex/consciousness-and-agency/) (related_articles)
 - [attention-as-causal-bridge](/apex/attention-as-causal-bridge/) (related_articles)

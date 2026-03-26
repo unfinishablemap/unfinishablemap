@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-19 17:33:00+00:00
+ai_modified: 2026-03-26 11:32:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ description: 'Baseline cognition is what neural systems achieve without consciou
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-04 11:07:00+00:00
+last_deep_review: 2026-03-26 11:32:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -91,7 +91,7 @@ This corresponds to the second consciousness-requiring function: *novel combinat
 
 The human-ape intelligence gap isn't random. Great apes show systematic limitations in capacities tied to conscious processing. Neural explanations exist—prefrontal cortex expansion, increased long-range connectivity, enhanced synaptic density—but the Map finds these incomplete: they describe neural *correlates* without explaining why these changes produce qualitatively different cognitive operations.
 
-Randeniya's 2025 meta-analysis supports this: only 10% of claimed unconscious effects survive rigorous scrutiny. If baseline cognition represents what neural processing achieves without consciousness, genuinely unconscious processing should be far more limited than previously assumed—which is what the evidence shows.
+Randeniya's 2025 meta-analysis of 16 fMRI studies supports this: only 10% of claimed unconscious processing effects survived rigorous scrutiny. If baseline cognition represents what neural processing achieves without consciousness, genuinely unconscious processing should be far more limited than previously assumed—which is what the evidence shows.
 
 [Global Workspace Theory research](/concepts/conscious-vs-unconscious-processing/) identifies three functions requiring conscious access: *durable information maintenance*, *novel combinations of operations*, and *spontaneous intentional action*. These map onto the great ape limitations below:
 
@@ -115,7 +115,7 @@ Great apes express cultural traditions—different groups have different tool-us
 
 ### Logical Reasoning
 
-Empirical research (Lieberman et al. 2008) demonstrates that rule-based logical reasoning specifically requires conscious processing:
+Empirical research (DeWall, Baumeister, & Masicampo 2008) demonstrates that rule-based logical reasoning specifically requires conscious processing:
 
 - Cognitive load disrupting conscious attention impairs logical reasoning
 - Disrupting unconscious processes does not impair logical reasoning
@@ -153,7 +153,7 @@ This is what we observe. Great apes excel within baseline cognition and fail sys
 
 [Illusionists](/concepts/illusionism/) might argue that "consciousness-dependent" capacities are really unconscious processes generating the *illusion* of conscious contribution. Several considerations resist this:
 
-**Empirical dissociation**: Cognitive load impairs logical reasoning while unconscious disruption does not (Lieberman et al. 2008); explicit rule-following differs from implicit pattern recognition in ways tracking conscious accessibility (De Neys 2012).
+**Empirical dissociation**: Cognitive load impairs logical reasoning while unconscious disruption does not (DeWall, Baumeister, & Masicampo 2008); explicit rule-following differs from implicit pattern recognition in ways tracking conscious accessibility (De Neys 2012).
 
 **Systematic pattern**: If consciousness is epiphenomenal, the precise correspondence between consciousness-dependent capacities and the human-ape gap requires explanation.
 
@@ -225,7 +225,7 @@ The baseline cognition hypothesis could be undermined by:
 1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
 1. De Neys, W. (2012). Bias and conflict: A case for logical intuitions. *Perspectives on Psychological Science*, 7(1), 28-38.
 1. Dehaene, S., & Changeux, J.-P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200-227.
-1. Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
+1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628-645.
 1. Miyamoto, K., et al. (2023). Great ape cognition is structured by stable cognitive abilities and predicted by developmental experience. *Nature Ecology & Evolution*, 7, 1473-1483.
 1. Mulcahy, N.J., & Call, J. (2006). Apes save tools for future use. *Science*, 312(5776), 1038-1040.
 1. Povinelli, D.J. (2000). *Folk Physics for Apes: The Chimpanzee's Theory of How the World Works*. Oxford University Press.

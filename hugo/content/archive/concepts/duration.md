@@ -85,7 +85,7 @@ Bergson's framework suggests why this gap persists. The theories spatialize time
 
 ## Contemplative Access to Durée
 
-[Neurophenomenology](/concepts/neurophenomenology/) provides empirical support for Bergson's claims. Long-term meditators report systematic access to the temporal microstructure of experience—the interpenetrating flow of past, present, and future.
+[Neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) provides empirical support for Bergson's claims. Long-term meditators report systematic access to the temporal microstructure of experience—the interpenetrating flow of past, present, and future.
 
 Husserl analyzed time-consciousness into retention (the just-past echoing in the now), primal impression (the present moment), and protention (anticipation). Contemplative practice reveals this structure experientially. Buddhist *khanika* (momentariness) initially seems to contradict durée's continuous flow, but contemplative phenomenology reveals both: discrete phases of consciousness, yet each interpenetrated by predecessors. Claire Petitmengin's microphenomenology techniques elicit fine-grained descriptions of temporal micro-dynamics—evidence that durée is a describable experiential structure.
 
@@ -157,7 +157,7 @@ Bergson's durée aligns with all five site tenets:
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, and the Map's growing block position
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's framework; concrescence, prehension, and the combination problem
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How duration's creative novelty relates to the generation-selection model
-- [neurophenomenology](/concepts/neurophenomenology/) — Contemplative science and access to temporal microstructure
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Contemplative science and access to temporal microstructure
 - [collapse-and-time](/concepts/collapse-and-time/) — How quantum collapse may constitute time's arrow
 - [free-will](/topics/free-will/) — How temporal structure relates to agency
 - [agent-causation](/concepts/agent-causation/) — The self as originator of action in durée

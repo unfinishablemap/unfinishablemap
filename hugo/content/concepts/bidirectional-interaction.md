@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-26 07:34:00+00:00
+ai_modified: 2026-03-26 09:17:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -170,7 +170,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [intera
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — The evolutionary argument for mental causation
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Evolutionary evidence for causal efficacy
 - [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) — Four converging clinical evidence streams for mental causation
-- [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — How meditation research demonstrates bidirectional interaction in practice
+- [contemplative neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) — How meditation research demonstrates bidirectional interaction in practice
 - [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/) — Voluntary imagery as evidence for consciousness's causal role
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Negative evidence: when consciousness interferes with automaticity
 - [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) — The empirical pattern: meaning determines which physical effect occurs

@@ -58,7 +58,7 @@ These conditions are demanding. Meeting them would make contemplative practice a
 
 ### The Causal Efficacy of Consciousness
 
-[Contemplative-neuroscience](/concepts/contemplative-neuroscience/) demonstrates that willed mental practice produces neuroplastic changes distinct from passive exposure. This finding bears on the debate between interactionist dualism (consciousness causally influences brain states) and [epiphenomenalism](/concepts/epiphenomenalism/) (consciousness is causally inert).
+[Contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) demonstrates that willed mental practice produces neuroplastic changes distinct from passive exposure. This finding bears on the debate between interactionist dualism (consciousness causally influences brain states) and [epiphenomenalism](/concepts/epiphenomenalism/) (consciousness is causally inert).
 
 The verification meets all three conditions. The prediction is specific: the phenomenological character of practice—not merely its physical substrate—predicts outcomes. An epiphenomenalist can grant that different physical brain states produce different results, but the striking finding is that *phenomenological* distinctions (vivid vs. dull attention, genuine vs. forced compassion) predict the magnitude of neuroplastic change even when controlling for gross behavioural engagement. If the phenomenal dimension were epiphenomenal, these fine-grained qualitative differences should be causally irrelevant. The finding is independent: the neuroplastic changes were discovered through brain imaging, not through a theoretical commitment to dualism. And the results replicate across traditions—Buddhist shamatha, secular mindfulness, Christian contemplative prayer all produce overlapping neural signatures (Lutz & Thompson, 2003; Weng et al., 2013).
 
@@ -146,7 +146,7 @@ Contemplative evidence is compatible with this tenet but cannot verify it. The m
 
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — What the evidence reveals about consciousness
 - [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) — The methodological divide as ontological evidence
-- [neurophenomenology](/concepts/neurophenomenology/) — Varela's framework for integrating perspectives
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Varela's framework for integrating perspectives
 - [introspection](/concepts/introspection/) — The reliability debate and training effects
 - [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/) — Phenomenology of witness consciousness
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — The modes contemplative practice reveals

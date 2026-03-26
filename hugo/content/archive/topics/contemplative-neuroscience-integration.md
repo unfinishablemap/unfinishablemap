@@ -43,7 +43,7 @@ How to interpret this integration is contested. Materialists argue that trained 
 
 ## The Integration Framework
 
-Francisco Varela's [neurophenomenology](/concepts/neurophenomenology/) proposed that consciousness research must proceed through "mutual constraints" between first-person phenomenology and third-person neuroscience. Neither perspective alone suffices. Contemplative neuroscience has operationalized this framework:
+Francisco Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) proposed that consciousness research must proceed through "mutual constraints" between first-person phenomenology and third-person neuroscience. Neither perspective alone suffices. Contemplative neuroscience has operationalized this framework:
 
 **From phenomenology to neuroscience**: Trained meditators distinguish experiential states with precision unavailable to naive subjects. When they report entering access concentration versus scattered attention, or genuine compassion versus forced compassion, these phenomenological categories predict neural signatures. The reports constrain which neural theories are adequate—a theory that fails to predict the correlates of phenomenologically distinct states is incomplete.
 
@@ -180,8 +180,8 @@ The Map interprets this asymmetry as evidence for the irreducibility of phenomen
 
 ## Further Reading
 
-- [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — The neuroplasticity evidence in detail
-- [neurophenomenology](/concepts/neurophenomenology/) — Varela's framework for mutual constraints
+- [contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) — The neuroplasticity evidence in detail
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Varela's framework for mutual constraints
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — How meditation evidence distinguishes theories
 - [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) — Why both perspectives are necessary
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — The two modes: active selection and passive witnessing

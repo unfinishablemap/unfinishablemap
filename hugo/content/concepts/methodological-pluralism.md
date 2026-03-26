@@ -1,11 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-12
-ai_modified: 2026-03-20 09:19:00+00:00
+ai_modified: 2026-03-26 09:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[neurophenomenology]]'
+- '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[phenomenology]]'
 - '[[heterophenomenology]]'
 - '[[introspection]]'
@@ -84,7 +84,7 @@ Their limitation is structural, not temporary: third-person observation can neve
 
 ## Mutual Constraint: How Methods Interact
 
-Francisco Varela's [neurophenomenology](/concepts/neurophenomenology/) provides the most developed framework for methodological pluralism in practice. His "mutual constraint" principle holds that first-person and third-person methods should constrain each other bidirectionally:
+Francisco Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) provides the most developed framework for methodological pluralism in practice. His "mutual constraint" principle holds that first-person and third-person methods should constrain each other bidirectionally:
 
 - **Phenomenology constrains neuroscience**: First-person descriptions of experiential structure set adequacy conditions for neuroscientific theories. A neural model that predicts experiences we don't have, or fails to predict experiences we do have, is inadequate regardless of its third-person elegance.
 
@@ -121,7 +121,7 @@ The Map speculates that methodological pluralism may be more than a practical ne
 ## Further Reading
 
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)—The methodological divide and why it reflects ontological dualism
-- [neurophenomenology](/concepts/neurophenomenology/)—Varela's mutual constraint framework in detail
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)—Varela's mutual constraint framework in detail
 - [heterophenomenology](/concepts/heterophenomenology/)—Dennett's third-person-only approach and why the Map rejects it
 - [phenomenological-evidence](/concepts/phenomenological-evidence/)—Conditions under which first-person reports constitute evidence
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)—How contemplative practice provides consciousness data

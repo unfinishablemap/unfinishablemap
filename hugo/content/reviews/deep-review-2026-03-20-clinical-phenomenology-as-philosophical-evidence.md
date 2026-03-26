@@ -52,7 +52,7 @@ None.
 - Hedged prediction claim for interface model to reflect honest epistemic status
 
 ### Cross-links Added
-- [neurophenomenology](/concepts/neurophenomenology/) — added to epistemology section
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — added to epistemology section
 - [explanatory-gap](/concepts/explanatory-gap/) — added to epistemology section
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — added to reductive materialism section
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — added display-text link in reductive materialism section

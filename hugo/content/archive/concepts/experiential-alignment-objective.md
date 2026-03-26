@@ -57,7 +57,7 @@ Eight dimensions of conscious experience form the target space:
 | Understanding depth | Grasp of what is true | [0, 1] |
 | Temporal experience | Quality of how time feels | [0, 1] |
 
-These dimensions are not exhaustive. They represent a working hypothesis about what matters experientially, drawn from well-being research, [neurophenomenology](/concepts/neurophenomenology/), and the Map's framework.
+These dimensions are not exhaustive. They represent a working hypothesis about what matters experientially, drawn from well-being research, [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/), and the Map's framework.
 
 ### Constraint Conditions
 
@@ -179,7 +179,7 @@ The experiential alignment objective connects to all five of the Map's tenets.
 - [experiential-alignment](/concepts/experiential-alignment/) — The broader framework this objective operationalizes
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — Context connecting alignment to questions of human purpose
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical position grounding experiential value
-- [neurophenomenology](/concepts/neurophenomenology/) — First-person methods for investigating experience
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — First-person methods for investigating experience
 - [ai-consciousness](/topics/ai-consciousness/) — Why AI may lack the consciousness to understand preferences from inside
 
 ## References

@@ -88,7 +88,7 @@ The [cognitive-closure](/concepts/mysterianism/) article handles McGinn's positi
 - **Tenet alignment**: Strengthens Tenet 1 (Dualism) through the knowledge argument applied to mathematical objects, and Tenet 5 (Occam's Limits) through Godel's incompleteness
 
 #### Contemplative Evidence Systematisation
-- **Builds on**: [contemplative-epistemology](/concepts/contemplative-epistemology/), [phenomenology](/concepts/phenomenology/), [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/), [neurophenomenology](/concepts/neurophenomenology/)
+- **Builds on**: [contemplative-epistemology](/concepts/contemplative-epistemology/), [phenomenology](/concepts/phenomenology/), [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/), [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)
 - **Would address**: Multiple articles reference contemplative evidence (witness consciousness, lucid dreaming, jhana states) but no single article systematises what different contemplative traditions report and how these reports bear on the Map's tenets
 - **Estimated scope**: Long article (2500-3000 words)
 - **Tenet alignment**: Supports Tenet 3 (Bidirectional Interaction) through meditation's documented neural effects, and Tenet 1 (Dualism) through the witness-consciousness experience of consciousness as distinct from content

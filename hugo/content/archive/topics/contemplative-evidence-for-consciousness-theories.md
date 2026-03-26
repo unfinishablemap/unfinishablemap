@@ -84,7 +84,7 @@ The evidential structure has two stages: the first eliminates epiphenomenalism a
 
 ## Evidence Against Epiphenomenalism
 
-[Contemplative-neuroscience](/concepts/contemplative-neuroscience/) demonstrates that meditation training produces measurable neural changes: cortical thickening, altered network connectivity, modulated default mode activity. Crucially, these changes correlate specifically with *phenomenologically engaged* practice. Studies distinguish willed attention (self-directed focus with distinct frontal theta signatures), instructed attention (following external cues), and exogenous attention (automatic capture). The neuroplastic outcomes differ systematically. If consciousness were epiphenomenal, this distinction should not exist. (See [neuroplasticity](/concepts/neuroplasticity/) for how directed mental effort reshapes brain structure.)
+[Contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) demonstrates that meditation training produces measurable neural changes: cortical thickening, altered network connectivity, modulated default mode activity. Crucially, these changes correlate specifically with *phenomenologically engaged* practice. Studies distinguish willed attention (self-directed focus with distinct frontal theta signatures), instructed attention (following external cues), and exogenous attention (automatic capture). The neuroplastic outcomes differ systematically. If consciousness were epiphenomenal, this distinction should not exist. (See [neuroplasticity](/concepts/neuroplasticity/) for how directed mental effort reshapes brain structure.)
 
 The *content* of conscious intention also tracks neural outcomes. Compassion meditation produces different neural patterns than breath attention meditation. Weng and colleagues (2013) found that just seven hours of compassion meditation training altered inferior parietal and dorsolateral prefrontal cortex activity, predicting increased altruistic behaviour. The intervention was phenomenological—cultivating felt compassion, not merely performing exercises. Phenomenological qualities (genuine vs. forced, vivid vs. dull) predict outcomes in ways the epiphenomenalist cannot explain without multiplying brute correlations.
 
@@ -92,7 +92,7 @@ The *content* of conscious intention also tracks neural outcomes. Compassion med
 
 ### The Irreducibility of First-Person Methods
 
-[Neurophenomenology](/concepts/neurophenomenology/) shows that first-person phenomenological training improves correlation with third-person neural data. Trained meditators predict neural signatures that untrained reports do not. If phenomenal properties reduced to neural properties, first-person training would be eliminable—neuroscience alone would suffice. The evidence shows otherwise: phenomenological training is necessary, and the correlation between first-person and third-person measures improves with it.
+[Neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) shows that first-person phenomenological training improves correlation with third-person neural data. Trained meditators predict neural signatures that untrained reports do not. If phenomenal properties reduced to neural properties, first-person training would be eliminable—neuroscience alone would suffice. The evidence shows otherwise: phenomenological training is necessary, and the correlation between first-person and third-person measures improves with it.
 
 ### The Persistent Explanatory Gap
 
@@ -112,7 +112,7 @@ The evidence here supports interactionism—the claim that consciousness and bra
 
 ### Bidirectional Causation
 
-The meditation evidence exhibits bidirectional causation. Brain states modulate consciousness (anesthesia eliminates phenomenology), and conscious intention modulates brain states (meditation reshapes neural architecture). The full cycle—intention → practice → neural reorganisation → expanded phenomenal access → further intention—exemplifies the mind-brain interaction the Map affirms. Varela's [neurophenomenology](/concepts/neurophenomenology/) validates this empirically: phenomenological reports from trained meditators predict neural signatures; neural findings constrain phenomenological models; neither perspective reduces to the other.
+The meditation evidence exhibits bidirectional causation. Brain states modulate consciousness (anesthesia eliminates phenomenology), and conscious intention modulates brain states (meditation reshapes neural architecture). The full cycle—intention → practice → neural reorganisation → expanded phenomenal access → further intention—exemplifies the mind-brain interaction the Map affirms. Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) validates this empirically: phenomenological reports from trained meditators predict neural signatures; neural findings constrain phenomenological models; neither perspective reduces to the other.
 
 ### Witness Consciousness
 
@@ -182,13 +182,13 @@ The causal efficacy argument depends on a collapse interpretation—consciousnes
 
 ### Free Will
 
-The distinction between willed and exogenous attention in [contemplative-neuroscience](/concepts/contemplative-neuroscience/) bears on [free-will](/topics/free-will/). If willed practice produces different outcomes than passive exposure, deliberate intention is genuine authorship, supporting libertarian intuitions about freedom.
+The distinction between willed and exogenous attention in [contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) bears on [free-will](/topics/free-will/). If willed practice produces different outcomes than passive exposure, deliberate intention is genuine authorship, supporting libertarian intuitions about freedom.
 
 ## Further Reading
 
-- [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — The neuroplasticity evidence in detail
+- [contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) — The neuroplasticity evidence in detail
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — The epistemological framework for first-person methods as knowledge sources
-- [neurophenomenology](/concepts/neurophenomenology/) — Varela's methodology integrating first-person and third-person approaches
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Varela's methodology integrating first-person and third-person approaches
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that contemplative evidence challenges
 - [witness-consciousness](/concepts/witness-consciousness/) — The phenomenology of observing awareness itself
 - [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/) — Evidence that awareness can exist without doing

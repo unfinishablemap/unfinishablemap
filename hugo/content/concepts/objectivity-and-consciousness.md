@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-22 09:56:00+00:00
+ai_modified: 2026-03-26 09:17:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -36,7 +36,7 @@ related_articles:
 title: Objectivity and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[neurophenomenology]]'
+- '[[neurophenomenology-and-contemplative-neuroscience]]'
 ---
 
 Consciousness presents a unique challenge to the scientific ideal of objectivity. Science aims for the "view from nowhere"—detached, perspective-free knowledge independent of any particular observer. But consciousness is irreducibly subjective: there's something it's like to be conscious that is only accessible from a first-person viewpoint. This creates a paradox: the objective methods that work elsewhere in science may fail precisely where subjectivity is the subject matter. The [subject-object distinction](/topics/the-subject-object-distinction-as-philosophical-discovery/)—discovered through systematic inquiry from Descartes to Husserl—is what the objectivity paradox ultimately reflects: eliminating the subject from description eliminates the very thing consciousness *is*.
@@ -163,7 +163,7 @@ The limits of objectivity are not defects to overcome but features of reality it
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — The methodological debate this article addresses
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — What it's like to be conscious
 - [heterophenomenology](/concepts/heterophenomenology/) — Dennett's third-person methodology
-- [neurophenomenology](/concepts/neurophenomenology/) — Varela's mutual constraints approach
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Varela's mutual constraints approach
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — How we know other conscious beings exist
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer role in meditation and phenomenology
 - [phenomenology](/concepts/phenomenology/) — First-person investigation of experience

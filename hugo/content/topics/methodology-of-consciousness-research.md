@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-26 04:31:00+00:00
+ai_modified: 2026-03-26 09:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -9,7 +9,7 @@ coalesced_from:
 - /topics/first-person-third-person-methodology/
 concepts:
 - '[[dualism]]'
-- '[[neurophenomenology]]'
+- '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[explanatory-gap]]'
 - '[[phenomenology]]'
 - '[[heterophenomenology]]'
@@ -46,10 +46,9 @@ related_articles:
 - '[[consciousness-and-the-problem-of-measurement-standards]]'
 - '[[consciousness-and-methodological-failure]]'
 - '[[philosophy-of-science-under-dualism]]'
-- '[[epistemology-of-first-person-evidence]]'
 - '[[consciousness-and-social-understanding]]'
 - '[[cognitive-science-of-dualism]]'
-- '[[contemplative-neuroscience]]'
+- '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[quantum-measurement-and-consciousness]]'
 - '[[consciousness-and-the-structure-of-scientific-revolutions]]'
 - '[[phenomenal-conservatism-and-introspective-evidence]]'
@@ -98,11 +97,11 @@ This approach is officially neutral about phenomenology's ontological status. Ho
 
 ### Neurophenomenology: Mutual Constraint
 
-Francisco Varela's [neurophenomenology](/concepts/neurophenomenology/) proposes integrating rigorous first-person investigation with third-person neuroscience through bidirectional "mutual constraint." Each domain constrains and informs the other: phenomenological description constrains which neuroscientific theories are adequate, and neuroscience guides phenomenological investigation toward relevant distinctions.
+Francisco Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) proposes integrating rigorous first-person investigation with third-person neuroscience through bidirectional "mutual constraint." Each domain constrains and informs the other: phenomenological description constrains which neuroscientific theories are adequate, and neuroscience guides phenomenological investigation toward relevant distinctions.
 
 This framework parallels the Map's interactionist dualism. Neither domain reduces to the other; both are real and both causally interact. The mutual constraint approach avoids both reductionism (phenomenology eliminated) and epiphenomenalism (phenomenology causally inert).
 
-Meditation studies provide concrete evidence. Trained meditators give consistent first-person reports of specific attentional states (witness consciousness, non-dual awareness). Third-person measurement reveals these states correlate with distinct neural signatures (default mode network modulation, gamma synchrony). Neither perspective alone discovers these correlations. First-person training enables reliable phenomenological distinctions; third-person measurement enables neural validation. See [contemplative-neuroscience](/concepts/contemplative-neuroscience/) for detailed treatment and [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) for the case that contemplative practice functions as genuine philosophical methodology.
+Meditation studies provide concrete evidence. Trained meditators give consistent first-person reports of specific attentional states (witness consciousness, non-dual awareness). Third-person measurement reveals these states correlate with distinct neural signatures (default mode network modulation, gamma synchrony). Neither perspective alone discovers these correlations. First-person training enables reliable phenomenological distinctions; third-person measurement enables neural validation. See [contemplative neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) for detailed treatment and [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) for the case that contemplative practice functions as genuine philosophical methodology.
 
 Neurophenomenology is a real advance over purely third-person approaches. But it does not resolve the deeper issue: the first-person data and third-person data remain *different kinds* of data that no current framework unifies.
 
@@ -154,7 +153,7 @@ This does not warrant defeatism. It warrants recognising that consciousness may 
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Cross-traditional convergence as philosophical methodology
 - [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/) — Competing models of introspective knowledge, the sui generis account, and how first-person reports gain evidential standing
 - [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) — Husserl's evidence taxonomy and its consequences
-- [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — Empirical integration of first-person and third-person methods
+- [contemplative neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Empirical integration of first-person and third-person methods
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) — Nagel's argument that objectivity has structural limits
 - [explanatory-gap](/concepts/explanatory-gap/) — Why physical explanation leaves phenomenal character unexplained
 - [heterophenomenology](/concepts/heterophenomenology/) — Dennett's third-person methodology and why the Map finds it insufficient

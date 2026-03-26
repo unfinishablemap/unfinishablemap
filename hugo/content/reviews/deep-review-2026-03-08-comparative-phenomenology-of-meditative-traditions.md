@@ -53,7 +53,7 @@ topics: []
 4. [witness-consciousness](/concepts/witness-consciousness/) — Added after Buddhist perspectives section, bridging to cross-traditional analysis
 5. [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Added after Buddhist Phenomenology section on cross-traditional meditation taxonomy
 6. [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — Added in Convergence Across Traditions section with concrete contemplative instance
-7. [neurophenomenology](/concepts/neurophenomenology/) — Added in Contemplative Science section on the constructed self
+7. [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Added in Contemplative Science section on the constructed self
 8. [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/) — Added in Cross-Cultural Convergence Argument section
 9. [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/) — Added in Theory-Ladenness Objection section
 10. [contemplative-epistemology](/concepts/contemplative-epistemology/) — Added in Tradition-dependence challenge section

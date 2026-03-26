@@ -71,7 +71,7 @@ topics: []
 - [reasons-responsiveness](/concepts/reasons-responsiveness/)
 - [mental-effort](/concepts/mental-effort/)
 - [attention-as-interface](/concepts/attention-as-interface/)
-- [neurophenomenology](/concepts/neurophenomenology/)
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)
 - [illusionism](/concepts/illusionism/)
 
 ## Remaining Items

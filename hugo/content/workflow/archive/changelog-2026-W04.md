@@ -2690,7 +2690,7 @@ Comprehensive review of mental-imagery.md combining pessimistic analysis (six ph
 
 ### Enhancements Made
 
-- Cross-links to [contemplative-neuroscience](/concepts/contemplative-neuroscience/) and [introspection](/concepts/introspection/)
+- Cross-links to [contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) and [introspection](/concepts/introspection/)
 - Validation evidence for introspective reports about imagery vividness
 - Expanded "Relation to Site Perspective" section
 
@@ -2816,7 +2816,7 @@ Integrated contemplative neuroscience evidence into the epiphenomenalism article
 
 ### Key Changes
 
-- Added [contemplative-neuroscience](/concepts/contemplative-neuroscience/) to frontmatter concepts and related_articles
+- Added [contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) to frontmatter concepts and related_articles
 - Added new "The Contemplative Neuroscience Evidence" subsection covering: structural and functional connectivity changes, dose-response relationship, content/quality argument (different meditation types produce different neural changes), willed vs instructed attention distinction
 - Added contemplative-neuroscience as first entry in Further Reading
 

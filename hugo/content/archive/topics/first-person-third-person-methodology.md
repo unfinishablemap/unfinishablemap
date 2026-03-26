@@ -78,7 +78,7 @@ This approach is officially neutral about phenomenology's ontological status—D
 
 ## Neurophenomenology: The Mutual Constraint Framework
 
-Francisco Varela's [neurophenomenology](/concepts/neurophenomenology/) proposes integrating rigorous first-person phenomenological investigation with third-person neuroscience through bidirectional "mutual constraint." Each domain constrains and informs the other:
+Francisco Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) proposes integrating rigorous first-person phenomenological investigation with third-person neuroscience through bidirectional "mutual constraint." Each domain constrains and informs the other:
 
 - **Phenomenology → Neuroscience**: First-person descriptions of experiential structure constrain which neuroscientific theories are adequate. A theory that predicts phenomenology we don't experience, or fails to predict phenomenology we do experience, is inadequate.
 - **Neuroscience → Phenomenology**: Third-person findings about neural mechanisms guide phenomenological investigation toward relevant experiential distinctions. If two experiences correlate with different neural signatures, phenomenology should investigate whether they differ experientially.
@@ -87,7 +87,7 @@ This framework parallels the Map's interactionist dualism. Neither domain reduce
 
 ### Contemplative Neuroscience as Evidence
 
-Meditation studies provide concrete examples of mutual constraint. Trained meditators give consistent first-person reports of specific attentional states (witness consciousness, non-dual awareness, access concentration). Third-person measurement reveals these states correlate with distinct neural signatures (default mode network modulation, gamma synchrony, frontal-parietal coherence patterns). Neither perspective alone would discover these correlations—first-person training enables reliable phenomenological distinctions; third-person measurement enables neural validation. See [contemplative-neuroscience](/concepts/contemplative-neuroscience/) for detailed treatment of how this integration works in practice.
+Meditation studies provide concrete examples of mutual constraint. Trained meditators give consistent first-person reports of specific attentional states (witness consciousness, non-dual awareness, access concentration). Third-person measurement reveals these states correlate with distinct neural signatures (default mode network modulation, gamma synchrony, frontal-parietal coherence patterns). Neither perspective alone would discover these correlations—first-person training enables reliable phenomenological distinctions; third-person measurement enables neural validation. See [contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) for detailed treatment of how this integration works in practice.
 
 This demonstrates that with proper training, first-person methods can achieve systematic rigor and intersubjective corroboration. See [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) for the case that contemplative practice functions as genuine philosophical methodology, with cross-tradition evidence supporting these convergences. The historical failure of early introspective psychology (Wundt, Titchener produced inconsistent results) reflects inadequate methodology, not the impossibility of rigorous first-person investigation. See [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/) for the systematic case that trained introspection can recover evidential standing.
 
@@ -152,7 +152,7 @@ The Map's position: embrace methodological pluralism (first-person, second-perso
 ## Further Reading
 
 - [intersubjectivity](/concepts/intersubjectivity/)—The shared space between minds; Husserl's foundation for second-person methodology
-- [neurophenomenology](/concepts/neurophenomenology/)—Varela's framework for integrating first-person and third-person methods
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)—Varela's framework for integrating first-person and third-person methods
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)—Nagel's "view from nowhere" and limits of objectivity
 - [phenomenology](/concepts/phenomenology/)—Classical phenomenological methodology (Husserl, Merleau-Ponty)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)—Why third-person explanations fail to capture phenomenology

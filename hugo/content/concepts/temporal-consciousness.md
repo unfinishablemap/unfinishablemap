@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-25 01:40:00+00:00
+ai_modified: 2026-03-26 09:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -20,7 +20,7 @@ concepts:
 - '[[collapse-and-time]]'
 - '[[phenomenology]]'
 - '[[philosophy-of-time]]'
-- '[[neurophenomenology]]'
+- '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[prospective-memory]]'
 - '[[personal-identity]]'
@@ -137,7 +137,7 @@ Protention connects to the [phenomenology of choice](/concepts/phenomenology-of-
 
 ## Neural Correlates and Temporal Binding
 
-Varela's [neurophenomenology](/concepts/neurophenomenology/) connects Husserl's temporal structure to gamma-range neural synchronies (30-70 Hz) that may implement temporal binding. The brain's [neural-refresh-rates](/concepts/neural-refresh-rates/) — alpha at 7–13 Hz for attentional gating, theta at 4–8 Hz for cross-object sampling, gamma at ~40 Hz for feature binding — sample the world in discrete oscillatory cycles, yet experience presents itself as a continuous stream, constituting the [smoothness problem](/topics/neural-refresh-rates-and-the-smoothness-problem/). Working memory provides a promising neural correlate: the experienced moment (~100ms-5s) matches working memory maintenance capacity. Baddeley's episodic buffer binds across modalities and time—the specious present may be what working memory *feels like from inside*.
+Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) connects Husserl's temporal structure to gamma-range neural synchronies (30-70 Hz) that may implement temporal binding. The brain's [neural-refresh-rates](/concepts/neural-refresh-rates/) — alpha at 7–13 Hz for attentional gating, theta at 4–8 Hz for cross-object sampling, gamma at ~40 Hz for feature binding — sample the world in discrete oscillatory cycles, yet experience presents itself as a continuous stream, constituting the [smoothness problem](/topics/neural-refresh-rates-and-the-smoothness-problem/). Working memory provides a promising neural correlate: the experienced moment (~100ms-5s) matches working memory maintenance capacity. Baddeley's episodic buffer binds across modalities and time—the specious present may be what working memory *feels like from inside*.
 
 Temporal perception is distributed and multi-scale: the SMA, prefrontal cortex, cerebellum, and basal ganglia form a system with modality-specific coincidence thresholds (~5ms visual, ~2-3ms auditory). The unified specious present is therefore a phenomenal achievement, not a straightforward readout of neural timing. It also provides the temporal window within which [motor selection](/topics/motor-control-quantum-zeno/) occurs: the ~280ms commitment point for voluntary action (Thura & Cisek, 2014) falls within specious present range.
 

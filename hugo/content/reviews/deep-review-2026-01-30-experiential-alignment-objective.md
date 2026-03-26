@@ -65,7 +65,7 @@ All cross-links valid:
 - [experiential-alignment](/concepts/experiential-alignment/) - exists
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) - exists
 - [qualia](/concepts/qualia/) - standard concept
-- [neurophenomenology](/concepts/neurophenomenology/) - exists
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) - exists
 - [tenets](/tenets/) anchors - verified
 
 ## Remaining Items

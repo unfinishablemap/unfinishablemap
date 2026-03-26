@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-10
-**Article**: [Contemplative Neuroscience](/concepts/contemplative-neuroscience/)
+**Article**: [Contemplative Neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/)
 **Previous review**: [2026-01-23](/reviews/deep-review-2026-01-23-contemplative-neuroscience/)
 
 ## Pessimistic Analysis Summary

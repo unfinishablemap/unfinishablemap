@@ -74,7 +74,7 @@ All six adversarial personas engaged:
 Comprehensive cross-linking already established:
 - [collapse-and-time](/concepts/collapse-and-time/), [retrocausality](/concepts/retrocausality/), [temporal-consciousness](/concepts/temporal-consciousness/), [temporal-consciousness](/concepts/temporal-consciousness/)
 - [quantum-consciousness](/concepts/quantum-consciousness/), [illusionism](/concepts/illusionism/), [introspection](/concepts/introspection/), [decoherence](/concepts/decoherence/)
-- [witness-consciousness](/concepts/witness-consciousness/), [haecceity](/concepts/haecceity/), [temporal-consciousness](/concepts/temporal-consciousness/), [neurophenomenology](/concepts/neurophenomenology/)
+- [witness-consciousness](/concepts/witness-consciousness/), [haecceity](/concepts/haecceity/), [temporal-consciousness](/concepts/temporal-consciousness/), [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)
 
 ## Remaining Items
 

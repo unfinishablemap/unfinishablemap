@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-03-18 17:06:00+00:00
+ai_modified: 2026-03-26 09:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -91,7 +91,7 @@ Normative phenomenology intersects with several related concepts on the Map but 
 
 Investigating normative experience risks corrupting the data. Attending to one's moral reactions may alter them. The meditator observing anger may dissolve it; the philosopher analysing obligation may intellectualise it beyond recognition. Normative phenomenology must navigate between two failures: too little attention (yielding unreliable reports) and too much (altering the phenomenon under study).
 
-[Microphenomenological](/concepts/neurophenomenology/) techniques (Petitmengin 2006) address this partly by using present-tense re-enactment rather than retrospective analysis. But the tension between observation and alteration remains a genuine limitation, parallel to challenges in [phenomenological evidence](/concepts/phenomenological-evidence/) generally.
+[Microphenomenological](/concepts/neurophenomenology-and-contemplative-neuroscience/) techniques (Petitmengin 2006) address this partly by using present-tense re-enactment rather than retrospective analysis. But the tension between observation and alteration remains a genuine limitation, parallel to challenges in [phenomenological evidence](/concepts/phenomenological-evidence/) generally.
 
 ### Cultural Saturation
 

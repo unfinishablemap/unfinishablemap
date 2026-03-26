@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-26 09:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,7 +17,7 @@ concepts:
 - '[[decoherence]]'
 - '[[mysterianism]]'
 - '[[explanatory-gap]]'
-- '[[neurophenomenology]]'
+- '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[indexical-knowledge-and-identity]]'
 - '[[epiphenomenalism]]'
 created: 2026-02-19
@@ -190,7 +190,7 @@ The psychophysical control law is the specification gap at the centre of the Map
 - [decoherence](/concepts/decoherence/) — The timescale challenge any quantum control law faces
 - [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/) — The original form of the specification problem
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure as an explanation for the specification gap
-- [neurophenomenology](/concepts/neurophenomenology/) — The methodology needed to constrain the law's phenomenal inputs
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — The methodology needed to constrain the law's phenomenal inputs
 - [explanatory-gap](/concepts/explanatory-gap/) — The epistemic analogue of the specification gap
 - [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) — Why genuine selection requires irreducible indexical facts
 

@@ -62,7 +62,7 @@ This parallels scientific methodology: individual observations are fallible, but
 
 ## Varela's Neurophenomenological Standards
 
-Francisco Varela's [neurophenomenology](/concepts/neurophenomenology/) established explicit standards for phenomenological evidence:
+Francisco Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) established explicit standards for phenomenological evidence:
 
 **Training requirement**: Reliable phenomenological reports require trained observers. Untrained introspection produces inconsistent results—the failure that led behaviorists to abandon introspection. But this failure reflects inadequate methodology, not introspection's impossibility. Fox et al. (2012) demonstrated that meditation experience predicts introspective accuracy following a logarithmic learning curve—more training, better accuracy.
 
@@ -143,9 +143,9 @@ The methodology demonstrates that phenomenological evidence, properly gathered, 
 
 ## Further Reading
 
-- [neurophenomenology](/concepts/neurophenomenology/) — Varela's framework for integrating first-person and third-person methods
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Varela's framework for integrating first-person and third-person methods
 - [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) — The broader methodological divide in consciousness science
-- [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — Empirical research validating trained introspection
+- [contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Empirical research validating trained introspection
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — How meditation findings bear on consciousness debates
 - [intersubjectivity](/concepts/intersubjectivity/) — The shared space grounding phenomenological validation
 - [phenomenology-of-evidence-assessment](/topics/phenomenology-of-epistemic-judgment/) — How we evaluate evidence phenomenologically

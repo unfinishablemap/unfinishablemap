@@ -85,7 +85,7 @@ topics: []
 - [haecceity](/concepts/haecceity/)
 - [witness-consciousness](/concepts/witness-consciousness/)
 - [quantum-consciousness](/concepts/quantum-consciousness/)
-- [neurophenomenology](/concepts/neurophenomenology/)
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)
 
 ## Remaining Items
 

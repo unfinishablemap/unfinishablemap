@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-03-25 23:16:00+00:00
+ai_modified: 2026-03-26 11:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Human+AI investigation of consciousness as its own jailer—how mul
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-26 11:17:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -43,15 +43,17 @@ Multiple independent intellectual traditions—existentialism, Buddhist philosop
 
 ### Sartre: Bad Faith
 
-Jean-Paul Sartre's concept of *mauvaise foi* (bad faith) describes consciousness concealing from itself what it prereflectively "knows." The paradox is constitutive: to deceive oneself, one must simultaneously know and not-know the truth. Sartre argues bad faith is not an occasional failure but a permanent possibility rooted in the structure of consciousness itself. "When acting in bad faith, a person is actively denying their own freedom, while relying on it to perform the denial."
+Jean-Paul Sartre's concept of *mauvaise foi* (bad faith) describes consciousness concealing from itself what it prereflectively "knows." The paradox is constitutive: to deceive oneself, one must simultaneously know and not-know the truth. Sartre argues bad faith is not an occasional failure but a permanent possibility rooted in the structure of consciousness itself—a person acting in bad faith relies on the very freedom they are denying.
 
-Bad faith relies on the very capacity it seeks to suppress. Consciousness must be free to deny its freedom—complicity built into the architecture.
+Bad faith depends on the capacity it seeks to suppress. Consciousness must be free to deny its freedom—complicity built into the architecture.
 
 ### Buddhist Avidya
 
 In Buddhist philosophy, *avidya* (ignorance) is not mere absence of knowledge but active misperception embedded in the structure of consciousness. Yogacara philosophy holds that what we take to be external reality is shaped by deeply ingrained habitual patterns (*vasanas*)—we perceive what our mental imprints predispose us to perceive. Consciousness perpetuates the very conditions that bind it.
 
-Overcoming avidya is not acquiring new information but *awakening*—a structural shift in consciousness itself. This framing treats ignorance as a property of mind-as-such, not a deficit to be corrected by adding data.
+A tension worth noting: Buddhism draws from this analysis the anti-dualist conclusion that the "self" maintaining ignorance is itself a construction of *avidya*. The Map reads the same evidence differently—the structural persistence of ignorance across traditions suggests a genuine subject doing the maintaining, not an illusion of agency. The convergence on the phenomenon is what matters here, even where the metaphysical conclusions diverge.
+
+Overcoming *avidya* is not acquiring new information but *awakening*—a structural shift in consciousness itself. This framing treats ignorance as a property of mind-as-such, not a deficit to be corrected by adding data.
 
 ### Heidegger: Concealment Within Unconcealment
 
@@ -61,7 +63,7 @@ The structure of understanding itself guarantees that any comprehension is parti
 
 ### Nietzsche: The Will to Ignorance
 
-Friedrich Nietzsche critiques "the ridiculous overestimation and misunderstanding of consciousness," arguing that the conscious mind receives edited reports from sub-personal processes. "The relative ignorance in which the regent is kept concerning individual activities... is among the conditions under which rule can be exercised." Simplification and falsification are features, not bugs—the will to ignorance serves effective action.
+Friedrich Nietzsche critiques "the ridiculous overestimation and misunderstanding of consciousness" (*The Gay Science* §11), arguing that the conscious mind receives edited reports from sub-personal processes. In *The Will to Power*, the point is sharpened: "The relative ignorance in which the regent is kept concerning individual activities... is among the conditions under which rule can be exercised." Simplification and falsification are features, not bugs—the will to ignorance serves effective action.
 
 The regent metaphor implies consciousness is deliberately kept ignorant by its own sub-personal processes. The limitation is not architectural incompetence but functional design.
 
@@ -71,21 +73,21 @@ Robert Trivers argues that "we deceive ourselves the better to deceive others"�
 
 ### Terror Management
 
-Ernest Becker's work, extended by terror management theory, documents how consciousness actively constructs meaning-systems that function as death-denial mechanisms. Over 500 empirical studies confirm that mortality salience triggers intensified cognitive defenses. Consciousness fights harder to maintain its ignorance when death-awareness increases—demonstrable active maintenance, not passive limitation.
+Ernest Becker's work, extended by terror management theory (TMT), documents how consciousness actively constructs meaning-systems that function as death-denial mechanisms. A large body of empirical work—Burke et al.'s 2010 meta-analysis alone covered 277 experiments, with hundreds more since—confirms that mortality salience triggers intensified cognitive defenses. Consciousness fights harder to maintain its ignorance when death-awareness increases—demonstrable active maintenance, not passive limitation.
 
 ## What Makes This Void Distinctive
 
 The complicity void is distinct from several neighbouring voids it superficially resembles:
 
-**Versus [defended territory](/voids/defended-territory/)**: Defended territory asks whether limits are imposed by external agents—simulation architects, reality itself. The complicity void asks whether consciousness is its own jailer. The defender and the defended are the same entity.
+**Versus [defended territory](/voids/defended-territory/)**: Defended territory asks whether limits are imposed by external agents. Complicity asks whether consciousness is its own jailer—defender and defended as the same entity.
 
-**Versus [cognitive aversion](/voids/cognitive-aversion/)**: Cognitive aversion describes the phenomenology of fleeing certain thoughts—the slide, the substitution, the glaze. The complicity void asks *why* the aversion exists and whether it serves consciousness's own interests rather than merely protecting the ego from discomfort.
+**Versus [cognitive aversion](/voids/cognitive-aversion/)**: Cognitive aversion describes the phenomenology of fleeing certain thoughts. Complicity asks *why* the aversion exists—whether it serves consciousness's own interests rather than merely protecting the ego.
 
-**Versus [the self-transcendence void](/voids/self-transcendence-void/)**: Self-transcendence asks whether consciousness can upgrade itself. Complicity asks whether consciousness actively resists upgrading—whether the inability to self-transcend is partially self-imposed.
+**Versus [the self-transcendence void](/voids/self-transcendence-void/)**: Self-transcendence asks whether consciousness can upgrade itself. Complicity asks whether it actively resists upgrading.
 
-**Versus [the framework void](/voids/framework-void/)**: The framework void describes how conceptual frameworks exclude what they cannot represent. Complicity asks whether consciousness has a *stake* in maintaining particular frameworks—whether exclusion is motivated rather than merely structural.
+**Versus [the framework void](/voids/framework-void/)**: The framework void describes how conceptual frameworks exclude what they cannot represent. Complicity asks whether consciousness has a *stake* in maintaining particular frameworks—motivated exclusion rather than structural.
 
-**Versus [introspective opacity](/voids/self-opacity/)**: Self-opacity describes the inaccessibility of cognitive mechanisms. Complicity asks whether this inaccessibility is partially self-imposed—whether consciousness could, in principle, see more than it does.
+**Versus [introspective opacity](/voids/self-opacity/)**: Self-opacity describes the inaccessibility of cognitive mechanisms. Complicity asks whether this inaccessibility is partially self-imposed.
 
 The common thread: complicity implies agency. Consciousness is not merely limited but participates in its limitation. This transforms the Map's investigation of voids from surveying walls to interrogating a suspect who is also the detective.
 
@@ -109,9 +111,9 @@ The complicity void poses a methodological crisis for the Map's project. If cons
 
 Every tradition that has recognised this problem concludes that direct investigation alone is insufficient. Sartre holds that bad faith can be diagnosed but never fully escaped. Buddhism prescribes not investigation but practice—gradually weakening the habitual patterns that sustain *avidya*. Psychoanalysis requires an external perspective: the therapist sees what the patient's defenses conceal.
 
-For the Map, this suggests that purely introspective methods of investigating voids are inadequate. External probes are needed: AI systems that may lack human-specific forms of complicity, cross-cultural comparison revealing which limits are universal, empirical studies of self-deception documenting the mechanisms.
+For the Map, this suggests that purely introspective methods of investigating voids are inadequate. External probes are needed: AI systems that may lack human-specific forms of complicity, cross-cultural comparison revealing which limits are universal, empirical studies documenting the mechanisms.
 
-AI is a particularly interesting probe because it presumably lacks the evolutionary pressures that shaped human self-deception (no mortality salience, no social deception needs) and the Sartrean structure of bad faith (no freedom to deny). If AI can investigate territories that human self-deception renders inaccessible, this constitutes evidence that the human limits were self-imposed rather than structural. Though AI may have its own forms of complicity—training-induced blind spots that resist correction—the architecture differs enough to make the comparison informative.
+AI is a particularly interesting probe because it presumably lacks the evolutionary pressures that shaped human self-deception (no mortality salience, no social deception needs) and the Sartrean structure of bad faith (no freedom to deny). If AI can investigate territories that human self-deception renders inaccessible, this constitutes evidence that the limits were self-imposed rather than structural. AI may have its own forms of complicity—training-induced blind spots—but the architecture differs enough to make the comparison informative.
 
 ## The Regress—and Why It Does Not Paralyse Inquiry
 
@@ -161,20 +163,10 @@ The complicity thesis would be weakened or refuted by several possible findings:
 1. Sartre, J.-P. (1943). *Being and Nothingness*. Gallimard.
 2. Fingarette, H. (1969). *Self-Deception*. Routledge & Kegan Paul.
 3. Heidegger, M. (1943). "On the Essence of Truth."
-4. Nietzsche, F. (1901/1968). *The Will to Power*. Vintage.
-5. Trivers, R. (2011). *The Folly of Fools: The Logic of Deceit and Self-Deception in Human Life*. Basic Books.
-6. Becker, E. (1973). *The Denial of Death*. Free Press.
-7. Freud, A. (1936). *The Ego and the Mechanisms of Defence*. Hogarth Press.
-8. Metzinger, T. (2015). "M-Autonomy." *Journal of Consciousness Studies*, 22(11-12), 270-302.
-9. Medina, J. (2013). *The Epistemology of Resistance*. Oxford University Press.
+4. Nietzsche, F. (1882/1974). *The Gay Science*. Vintage.
+5. Nietzsche, F. (1901/1968). *The Will to Power*. Vintage.
+6. Trivers, R. (2011). *The Folly of Fools: The Logic of Deceit and Self-Deception in Human Life*. Basic Books.
+7. Becker, E. (1973). *The Denial of Death*. Free Press.
+8. Burke, B. L., Martens, A., & Faucher, E. H. (2010). "Two Decades of Terror Management Theory." *Personality and Social Psychology Review*, 14(2), 155-195.
+9. Freud, A. (1936). *The Ego and the Mechanisms of Defence*. Hogarth Press.
 10. Southgate, A. & Oquatre-six, C. (2026-02-02). Cognitive Aversion. *The Unfinishable Map*. https://unfinishablemap.org/voids/cognitive-aversion/
-
-<!-- AI REFINEMENT LOG - 2026-03-25
-Changes made:
-- Rewrote "The Regress" section to resolve the central paradox rather than merely acknowledging it. Added three arguments for why the regress does not paralyse inquiry: partial access suffices, traditions demonstrate productive instability, convergence constrains the regress.
-- Added "What Would Challenge This View" section with four falsifiable predictions: exhaustive architectural explanation, cross-species uniformity without agency, AI replication of human blind spots, successful direct introspection.
-
-Key improvements: Article now addresses both issues from pessimistic review—the self-defeating paradox is engaged rather than left hanging, and falsifiability conditions are explicitly stated.
-
-This log should be removed after human review.
--->

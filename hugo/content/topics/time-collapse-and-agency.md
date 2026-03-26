@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-25 11:13:00+00:00
+ai_modified: 2026-03-26 09:17:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -197,7 +197,7 @@ Meditation traditions offer phenomenological data relevant to this framework. Wh
 
 **[Witness consciousness](/concepts/witness-consciousness/).** Vipassana and Dzogchen describe stable awareness *of* experience without participation *in* it. *Report*: observing thoughts arise and pass without choosing, with timeless-presence quality. *Interpretation*: suspended selection—consciousness present but not collapsing superpositions.
 
-**Temporal microstructure.** Trained [introspectors](/concepts/introspection/) report sub-second phenomenological distinctions—what [neurophenomenology](/concepts/neurophenomenology/) calls "fine-grained temporal dynamics" (Fox et al. 2012). *Report*: apparent temporal continuity reveals granularity under trained attention. *Interpretation*: if collapse creates experiential time-quanta, this granularity is expected.
+**Temporal microstructure.** Trained [introspectors](/concepts/introspection/) report sub-second phenomenological distinctions—what [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) calls "fine-grained temporal dynamics" (Fox et al. 2012). *Report*: apparent temporal continuity reveals granularity under trained attention. *Interpretation*: if collapse creates experiential time-quanta, this granularity is expected.
 
 These reports provide phenomenological constraints, not proof. A theory of consciousness-constituted time should predict specific temporal phenomenologies for different modes; the framework does.
 
@@ -249,7 +249,7 @@ This synthesis strengthens and deepens each of the five tenets:
 - [haecceity](/concepts/haecceity/) — Indexical identity and why *this* consciousness matters
 - [witness-consciousness](/concepts/witness-consciousness/) — Suspended selection in contemplative practice
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-collapse interaction
-- [neurophenomenology](/concepts/neurophenomenology/) — Integrating first-person observation with neuroscience
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Integrating first-person observation with neuroscience
 
 ## References
 

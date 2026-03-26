@@ -72,7 +72,7 @@ However, as the Map's treatment of [introspection rehabilitation](/topics/episte
 
 The [phenomenological tradition](/concepts/phenomenology/) formalises this insight into a disciplined method. Husserl's [epoché](/topics/phenomenological-method-and-evidence-standards/)—the systematic suspension of theoretical assumptions about experience—transforms naive introspection into trained observation. When contemplatives practise phenomenological attention, they learn to bracket interpretive frameworks and attend to phenomena as given. This is precisely the operation that separates reliable phenomenal content reports from unreliable causal-process speculation, and it explains why the training effects documented in the empirical literature follow a skill-acquisition pattern rather than appearing arbitrarily.
 
-Evidence supports this distinction. Fox et al. (2012) found that meditation experience predicts introspective accuracy in cross-sectional data—practitioners with more training hours report their mental states more reliably, following a logarithmic curve that mirrors other skill-acquisition patterns. [Neurophenomenological](/concepts/neurophenomenology/) studies extend this further: trained meditators' phenomenal reports predict distinct neural signatures (Lutz et al. 2004), and advanced practitioners in jhana states produce brain activity patterns that correspond precisely to their reported phenomenal states. This cross-modal validation—first-person reports predicting third-person measurements—is exactly the kind of [convergent evidence](/concepts/contemplative-epistemology/) that grounds the reliability of any scientific instrument. The reports are not arbitrary; they track something real enough to generate novel neuroscientific predictions.
+Evidence supports this distinction. Fox et al. (2012) found that meditation experience predicts introspective accuracy in cross-sectional data—practitioners with more training hours report their mental states more reliably, following a logarithmic curve that mirrors other skill-acquisition patterns. [Neurophenomenological](/concepts/neurophenomenology-and-contemplative-neuroscience/) studies extend this further: trained meditators' phenomenal reports predict distinct neural signatures (Lutz et al. 2004), and advanced practitioners in jhana states produce brain activity patterns that correspond precisely to their reported phenomenal states. This cross-modal validation—first-person reports predicting third-person measurements—is exactly the kind of [convergent evidence](/concepts/contemplative-epistemology/) that grounds the reliability of any scientific instrument. The reports are not arbitrary; they track something real enough to generate novel neuroscientific predictions.
 
 ## Intersubjective Convergence
 
@@ -84,7 +84,7 @@ A sceptic might respond that convergence reflects shared neural architecture rat
 
 This mirrors how science handles other unobservable entities. No one directly sees an electron; its existence is inferred from convergent instrumental readings. Phenomenal reports function analogously—as instrumental readings from the only instrument with direct access to consciousness: the conscious subject themselves. The instrument is imperfect and cannot be independently calibrated in the way a voltmeter can—calibration would require already knowing the phenomenal facts at issue. But its outputs can be cross-checked through intersubjective comparison, behavioural prediction, and neural correlation, which collectively provide a form of triangulation that no single method achieves alone.
 
-The [neurophenomenological](/concepts/neurophenomenology/) framework formalises this through mutual constraint: phenomenal reports constrain which neural theories are admissible, while neural findings constrain which phenomenal reports are credible. Neither side dictates to the other. This bilateral methodology avoids both naive introspectionism and eliminative reductionism.
+The [neurophenomenological](/concepts/neurophenomenology-and-contemplative-neuroscience/) framework formalises this through mutual constraint: phenomenal reports constrain which neural theories are admissible, while neural findings constrain which phenomenal reports are credible. Neither side dictates to the other. This bilateral methodology avoids both naive introspectionism and eliminative reductionism.
 
 ## The Self-Stultification of Eliminativism
 
@@ -129,7 +129,7 @@ The Occam's Razor tenet is also relevant. Eliminativists about phenomenal report
 - [introspection](/concepts/introspection/)
 - [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/)
 - [heterophenomenology](/concepts/heterophenomenology/)
-- [neurophenomenology](/concepts/neurophenomenology/)
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)
 - [intersubjectivity](/concepts/intersubjectivity/)

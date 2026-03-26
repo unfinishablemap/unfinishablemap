@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-24 17:03:00+00:00
+ai_modified: 2026-03-26 09:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ related_articles:
 - '[[tenets]]'
 - '[[phenomenology]]'
 - '[[eastern-philosophy-consciousness]]'
-- '[[neurophenomenology]]'
+- '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[mysterianism]]'
 - '[[qualia]]'

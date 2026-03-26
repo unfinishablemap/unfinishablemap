@@ -55,7 +55,7 @@ topics: []
 - [methodological-pluralism](/concepts/methodological-pluralism/)
 - [phenomenological-evidence](/concepts/phenomenological-evidence/)
 - [heterophenomenology](/concepts/heterophenomenology/)
-- [neurophenomenology](/concepts/neurophenomenology/)
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)
 
 ## Remaining Items

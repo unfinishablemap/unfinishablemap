@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-26 09:17:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -9,7 +9,7 @@ coalesced_from:
 concepts:
 - '[[topics/phenomenal-value-realism]]'
 - '[[qualia]]'
-- '[[neurophenomenology]]'
+- '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[phenomenology]]'
 - '[[illusionism]]'
 - '[[introspection]]'
@@ -74,7 +74,7 @@ Eight dimensions of conscious experience form the target space:
 | Understanding depth | The phenomenology of grasping something true | [0, 1] |
 | Temporal experience | How time feels—flow, duration, presence | [0, 1] |
 
-These dimensions are not exhaustive. They represent a working hypothesis about what matters experientially, drawn from well-being research, [neurophenomenology](/concepts/neurophenomenology/), and the Map's framework.
+These dimensions are not exhaustive. They represent a working hypothesis about what matters experientially, drawn from well-being research, [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/), and the Map's framework.
 
 ### Constraint Conditions
 
@@ -262,7 +262,7 @@ The task of specifying experiential targets is itself part of the inquiry that A
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — The broader context connecting alignment to life's purpose
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical position grounding experiential value
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — How consciousness grounds both moral patienthood and agency
-- [neurophenomenology](/concepts/neurophenomenology/) — First-person methods for investigating experience
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — First-person methods for investigating experience
 - [ai-consciousness](/topics/ai-consciousness/) — Why AI may lack the consciousness to understand preferences from inside
 - [illusionism](/concepts/illusionism/) — The strongest challenge to taking phenomenal consciousness seriously
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative access to experiential dimensions

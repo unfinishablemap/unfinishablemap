@@ -46,7 +46,7 @@ topics: []
   1. [phenomenological-evidence](/concepts/phenomenological-evidence/) — Added reference to evidence taxonomy in Husserl's Epoché section
   2. [phenomenology](/concepts/phenomenology/) — Added reference in Reliability Objection section
   3. [heterophenomenology](/concepts/heterophenomenology/) — Added reference in vs. Classical Phenomenology section
-  4. [neurophenomenology](/concepts/neurophenomenology/) — Added reference in Varela's Method section
+  4. [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Added reference in Varela's Method section
   5. [epistemology-of-phenomenal-reports](/topics/epistemology-of-first-person-evidence/) — Added reference in Evidential Status Problem section
   6. [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) — Added reference in Neurophenomenology section
   7. [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/) — Added reference in adequate methodology section
@@ -55,7 +55,7 @@ topics: []
 - From [phenomenological-evidence](/concepts/phenomenological-evidence/) — body text link
 - From [phenomenology](/concepts/phenomenology/) — body text link
 - From [heterophenomenology](/concepts/heterophenomenology/) — body text link
-- From [neurophenomenology](/concepts/neurophenomenology/) — body text link
+- From [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — body text link
 - From [epistemology-of-phenomenal-reports](/topics/epistemology-of-first-person-evidence/) — body text link
 - From [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) — body text link
 - From [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/) — body text link

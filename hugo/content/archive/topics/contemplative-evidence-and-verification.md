@@ -79,7 +79,7 @@ Contemplative evidence allows testing these predictions. But testing is one thin
 
 ### Neuroplastic Changes from Willed Practice
 
-[Contemplative-neuroscience](/concepts/contemplative-neuroscience/) demonstrates that meditation training produces measurable neural changes: cortical thickening, altered network connectivity, modulated default mode activity. The crucial finding: these changes correlate specifically with *phenomenologically engaged* practice. (See [neuroplasticity](/concepts/neuroplasticity/) for detailed treatment of how directed mental effort reshapes brain structure, including Jeffrey Schwartz's research showing that cognitive therapy for OCD produces lasting changes in brain metabolism.)
+[Contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) demonstrates that meditation training produces measurable neural changes: cortical thickening, altered network connectivity, modulated default mode activity. The crucial finding: these changes correlate specifically with *phenomenologically engaged* practice. (See [neuroplasticity](/concepts/neuroplasticity/) for detailed treatment of how directed mental effort reshapes brain structure, including Jeffrey Schwartz's research showing that cognitive therapy for OCD produces lasting changes in brain metabolism.)
 
 Studies distinguish willed attention (self-directed focus with distinct frontal theta signatures), instructed attention (following external cues), and exogenous attention (automatic capture). The neuroplastic outcomes differ systematically. If consciousness were epiphenomenal, this distinction should not exist — the brain would change the same way regardless of whether subjects were consciously engaged.
 
@@ -106,7 +106,7 @@ If phenomenology were causally inert, therapeutic interventions targeting phenom
 
 ### The Irreducibility of First-Person Methods
 
-[Neurophenomenology](/concepts/neurophenomenology/) shows that first-person phenomenological training improves correlation with third-person neural data. Trained meditators provide more reliable, precise reports of experiential states than untrained subjects — and these reports predict neural signatures that untrained reports do not.
+[Neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) shows that first-person phenomenological training improves correlation with third-person neural data. Trained meditators provide more reliable, precise reports of experiential states than untrained subjects — and these reports predict neural signatures that untrained reports do not.
 
 If phenomenal properties reduced completely to neural properties, first-person training would be eliminable. Neuroscience alone would suffice; phenomenological skill would add nothing. The evidence shows otherwise: phenomenological training is necessary, and the correlation between first-person and third-person measures improves with it.
 
@@ -256,8 +256,8 @@ The causal efficacy argument depends on a collapse interpretation of quantum mec
 
 ## Further Reading
 
-- [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — The neuroplasticity evidence in detail
-- [neurophenomenology](/concepts/neurophenomenology/) — Varela's methodology integrating first-person and third-person approaches
+- [contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) — The neuroplasticity evidence in detail
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Varela's methodology integrating first-person and third-person approaches
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that contemplative evidence challenges
 - [witness-consciousness](/concepts/witness-consciousness/) — The phenomenology of observing awareness itself
 - [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/) — Evidence that awareness can exist without doing

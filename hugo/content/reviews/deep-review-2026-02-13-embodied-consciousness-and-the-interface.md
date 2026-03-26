@@ -76,7 +76,7 @@ None. The article has no factual errors, internal contradictions, missing requir
 ### Cross-links Added
 
 - [explanatory-gap](/concepts/explanatory-gap/) — In the embodied challenge section and the bat argument
-- [neurophenomenology](/concepts/neurophenomenology/) — In the Thompson paragraph
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — In the Thompson paragraph
 - [attention-as-interface](/concepts/attention-as-interface/) — In the convergence section opening
 - [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) — In the new flow states paragraph
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — In the challenges section

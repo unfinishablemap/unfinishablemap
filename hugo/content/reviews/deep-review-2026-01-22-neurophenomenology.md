@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-22
-**Article**: [Neurophenomenology and Contemplative Science](/concepts/neurophenomenology/)
+**Article**: [Neurophenomenology and Contemplative Science](/concepts/neurophenomenology-and-contemplative-neuroscience/)
 **Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-neurophenomenology/)
 
 ## Pessimistic Analysis Summary

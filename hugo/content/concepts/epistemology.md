@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-03-25 23:31:00+00:00
+ai_modified: 2026-03-26 09:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -54,7 +54,7 @@ The Map recognises two fundamentally different ways of knowing about consciousne
 
 **First-person epistemology** — [introspection](/concepts/introspection/), [phenomenological report](/concepts/phenomenological-evidence/), and contemplative inquiry — yields knowledge through direct [acquaintance](/concepts/acquaintance-knowledge/) with experience. This channel provides the primary data that consciousness science seeks to explain. [Phenomenological evidence](/concepts/phenomenological-evidence/) is not merely anecdotal colour added to the real science; it constitutes the explanandum itself. Without first-person reports, there would be no consciousness problem to solve.
 
-The tension between these channels is not resolvable by subordinating one to the other. Third-person methods cannot access the qualitative character of experience — a claim contested by heterophenomenologists, who argue that third-person methods can take first-person reports seriously without granting them infallibility, though this approach arguably reduces first-person data to behavioural evidence. First-person methods cannot establish the physical mechanisms underlying experience. The [epistemology of first-person evidence](/topics/epistemology-of-first-person-evidence/) examines how phenomenal reports can be calibrated and made rigorous without collapsing them into third-person data. [Neurophenomenology](/concepts/neurophenomenology/) attempts to integrate both channels, using first-person reports to constrain and inform third-person investigation.
+The tension between these channels is not resolvable by subordinating one to the other. Third-person methods cannot access the qualitative character of experience — a claim contested by heterophenomenologists, who argue that third-person methods can take first-person reports seriously without granting them infallibility, though this approach arguably reduces first-person data to behavioural evidence. First-person methods cannot establish the physical mechanisms underlying experience. The [epistemology of first-person evidence](/topics/epistemology-of-first-person-evidence/) examines how phenomenal reports can be calibrated and made rigorous without collapsing them into third-person data. [Neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) attempts to integrate both channels, using first-person reports to constrain and inform third-person investigation.
 
 ## Epistemic Assumptions That Determine Conclusions
 

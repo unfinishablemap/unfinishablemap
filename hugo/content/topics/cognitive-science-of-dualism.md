@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-03-11 23:02:00+00:00
+ai_modified: 2026-03-26 09:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -105,7 +105,7 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) receives perhaps th
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Why correlations between brain states and experience don't settle the metaphysics
 - [predictive-processing](/concepts/predictive-processing/) — The brain as prediction engine and why it leaves consciousness unexplained
 - [embodied-cognition](/concepts/embodied-cognition/) — How bodily dependence reshapes but doesn't resolve the mind-body problem
-- [neurophenomenology](/concepts/neurophenomenology/) — Varela's integration of first-person and third-person methods
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Varela's integration of first-person and third-person methods
 - [cognitive closure](/concepts/mysterianism/) — McGinn's thesis on constitutional limits of human cognition
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why no amount of functional description explains experience
 - [dualism](/concepts/dualism/) — The philosophical case independent of cognitive science

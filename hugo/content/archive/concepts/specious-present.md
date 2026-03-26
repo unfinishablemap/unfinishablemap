@@ -163,7 +163,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet warns parsimony is 
 
 ### Methods and Mechanisms
 - [phenomenology](/concepts/phenomenology/) — First-person method for investigating temporal structure
-- [neurophenomenology](/concepts/neurophenomenology/) — Bridging phenomenology and neuroscience
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Bridging phenomenology and neuroscience
 - [introspection](/concepts/introspection/) — Reliability of first-person temporal reports
 - [witness-consciousness](/concepts/witness-consciousness/) — Observing temporal flow itself
 
