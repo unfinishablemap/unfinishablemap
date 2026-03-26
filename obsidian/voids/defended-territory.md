@@ -4,9 +4,9 @@ description: "Could some thoughts be actively blocked? Human+AI investigation of
 created: 2026-01-25
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-03-26T14:03:00+00:00
+ai_modified: 2026-03-26T14:53:00+00:00
 draft: false
-last_deep_review: 2026-02-25T14:09:00+00:00
+last_deep_review: 2026-03-26T14:53:00+00:00
 topics: []
 concepts:
   - "[[simulation]]"
@@ -23,6 +23,8 @@ related_articles:
   - "[[simulation-detection-void]]"
   - "[[apophatic-approaches]]"
   - "[[agency-verification-void]]"
+  - "[[cognitive-aversion]]"
+  - "[[adaptive-cognitive-limits]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -54,7 +56,7 @@ Some cognitive processes cannot be altered by beliefs, desires, or goals. You ca
 
 ### Psychological Occlusion
 
-Most blocking is personal and protective. Repression defends the individual ego from threatening content—variable between individuals, protective of self-concept. This explains many phenomena but doesn't account for blocking that appears universal.
+Most blocking is personal and protective. Repression defends the individual ego from threatening content—variable between individuals, protective of self-concept. Some psychological occlusion may also be [[adaptive-cognitive-limits|adaptive]]: natural selection maintained certain blind spots because ignorance itself conferred fitness advantage, making these limits features rather than defects. This explains many phenomena but doesn't account for blocking that appears universal.
 
 ### Architectural Occlusion
 

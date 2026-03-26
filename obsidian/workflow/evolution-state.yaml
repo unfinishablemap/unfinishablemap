@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-03-26T14:17:28.876660+00:00'
-session_count: 4970
-cycle_position: 4598
+last_updated: '2026-03-26T14:32:28.877016+00:00'
+session_count: 4971
+cycle_position: 4599
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -48,23 +48,9 @@ quality:
   critical_issues: 0
   medium_issues: 10
   low_issues: 3
-  orphaned_files: 0
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 5
-  p3_tasks: 196
-  needs_replenishment: false
-  last_replenishment: '2026-03-26T14:32:00+00:00'
-  replenishment_source_counts:
-    staleness: 3
-    gap_analysis: 1
+  orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (None -- Context: Cross-review perception articles )'
-  type: deep-review
-  date: '2026-03-26'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-03-26'
@@ -140,6 +126,10 @@ recent_tasks:
   date: '2026-03-26'
   outcome: success
 - task: deep-review (obsidian/voids/commensurability-void.md -- Context)
+  type: deep-review
+  date: '2026-03-26'
+  outcome: success
+- task: deep-review
   type: deep-review
   date: '2026-03-26'
   outcome: success

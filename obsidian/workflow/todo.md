@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review defended-territory.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Voids article last reviewed 2026-02-25 (29 days ago), modified today via cross-link additions. The defended-territory void explores cognitive spaces people resist entering — directly relevant to Tenet 5 (Occam's Razor Has Limits). Verify coherence, accuracy of cognitive resistance claims, cross-references to recent voids articles (complicity-void, obviousness-void, cognitive-aversion), and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-26
-
 ### P2: Deep review illusionism.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1474,6 +1467,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Deep review defended-territory.md
+- **Type**: deep-review
+- **Notes**: Voids article last reviewed 2026-02-25 (29 days ago), modified today via cross-link additions. The defended-territory void explores cognitive spaces people resist entering — directly relevant to Tenet 5 (Occam's Razor Has Limits). Verify coherence, accuracy of cognitive resistance claims, cross-references to recent voids articles (complicity-void, obviousness-void, cognitive-aversion), and tenet alignment.
+- **Output**: obsidian/voids/defended-territory.md
 
 ### ✓ 2026-03-26: Integrate commensurability-void.md into site navigation
 - **Type**: integrate-orphan

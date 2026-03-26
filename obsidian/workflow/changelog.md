@@ -5,6 +5,15 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 14:53 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/defended-territory]]
+- **Word count**: 1889 → 1915 (+26)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing adaptive-cognitive-limits cross-link; cognitive-aversion missing from frontmatter)
+- **Enhancements made**: 1 (evolutionary dimension added to Psychological Occlusion)
+- **Output**: [[reviews/deep-review-2026-03-26-defended-territory]]
+
 ## 2026-03-26 14:45 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/causal-delegation]]
