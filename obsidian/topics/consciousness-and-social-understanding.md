@@ -4,7 +4,7 @@ description: "Genuine social understanding—grasping other minds as minds, buil
 created: 2026-02-15
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-03-26T04:17:00+00:00
+ai_modified: 2026-03-26T05:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,7 +51,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-26T05:31:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-social-cognition/"
   - "/topics/consciousness-and-interpersonal-understanding/"
@@ -67,7 +67,7 @@ Knowing everything about someone is not the same as understanding them. You coul
 
 Consider two therapists. Both have read the same case file on a patient who lost a child. Both know the same biographical facts, the same diagnostic criteria, the same treatment protocols. One therapist has experienced profound loss herself; the other has not. The difference between them is not informational. Both possess the same propositional knowledge. The difference lies in what [[cognitive-phenomenology|cognitive phenomenology]] calls experiential understanding — a form of comprehension that depends on what you have lived through, not merely what you have learned.
 
-This distinction maps onto the [[knowledge-argument|knowledge argument]]. Just as Mary learns something new when she first sees red — something no amount of physical knowledge prepared her for — the therapist who has experienced loss grasps something about her patient that the other therapist, however knowledgeable, does not. The [[explanatory-gap]] between physical description and phenomenal reality appears in both first-person discovery and second-person understanding.
+This distinction parallels the [[knowledge-argument|knowledge argument]]. Just as Mary learns something new when she first sees red — something no amount of physical knowledge prepared her for — the therapist who has experienced loss grasps something about her patient that the other therapist, however knowledgeable, does not. The parallel is not exact: Mary gains a first-person quale, while the therapist uses first-person experience for second-person understanding. But both cases reveal the same [[explanatory-gap]]: physical description leaves something out that only phenomenal acquaintance can supply.
 
 Three features distinguish phenomenal understanding of another person from mere knowledge about them:
 
@@ -79,7 +79,7 @@ Three features distinguish phenomenal understanding of another person from mere 
 
 ## The Social Gap Between Humans and Other Animals
 
-Great apes are impressive social beings. Chimpanzees track dominance hierarchies, form coalitions, deceive competitors, and console distressed group members. These capacities operate within what the Map calls [[baseline-cognition]] — sophisticated neural processing that does not require phenomenal consciousness.
+Great apes are impressive social beings. Chimpanzees track dominance hierarchies, form coalitions, deceive competitors, and console distressed group members. These capacities may operate within what the Map calls [[baseline-cognition]] — sophisticated neural processing that need not require phenomenal consciousness (though whether apes are phenomenally conscious during social interaction remains an open question; see [[animal-consciousness]]).
 
 Yet apes do not build institutions, hold trials, create art for each other, teach by modelling what the learner does not yet know, or sustain cultural traditions that improve across generations. The gap is not quantitative but qualitative. Human social cognition does something apes do not do at all.
 
@@ -119,7 +119,7 @@ Emotional contagion requires no consciousness — mirror neurons and physiologic
 
 The [[social-construction-of-self-vs-phenomenal-self]] article argues that social construction of identity depends on the phenomenal self being already in place. The same logic extends to social cognition generally. Social constructionists are right that much of what we call "social understanding" is culturally shaped. But the *capacity* to construct social meanings at all requires phenomenal subjects who experience the world from a perspective they can share with others.
 
-George Herbert Mead's account of selfhood through "taking the attitude of the other" presupposes that there is something it is like to take that attitude. [[intersubjectivity]] — the shared space between minds — requires minds that are phenomenally present to each other, not merely causally connected. As Zahavi (2001) argues, empathy and social understanding are not a matter of inference from behaviour to hidden mental states but of direct experiential engagement with another subject. If this is right, then [[consciousness-and-collective-phenomena|collective intentionality]] — the capacity for genuinely shared goals and commitments — depends on phenomenal subjects who can participate in shared experiential space.
+George Herbert Mead's account of selfhood through "taking the attitude of the other" presupposes that there is something it is like to take that attitude. [[intersubjectivity]] — the shared space between minds — requires minds that are phenomenally present to each other, not merely causally connected. As Zahavi (2001) argues, empathy and social understanding are not adequately captured by the inference model — where we infer hidden mental states from observed behaviour — but involve a more direct experiential engagement with another subject. If this is right, then [[consciousness-and-collective-phenomena|collective intentionality]] — the capacity for genuinely shared goals and commitments — depends on phenomenal subjects who can participate in shared experiential space. Tomasello (2014, 2019) provides the developmental evidence: shared intentionality — the capacity for joint goals and mutual commitments — emerges through forms of social cognition that involve recursive perspective-taking, not merely behavioural coordination.
 
 ## Why Consciousness Cannot Be Bypassed
 
@@ -186,14 +186,9 @@ These conditions are offered in good faith, but what counts as "institutional co
 - [[consciousness-and-collective-phenomena]] — How shared goals and commitments depend on phenomenal subjects
 - [[phenomenology-of-trust]] — Trust as a distinctively conscious mode of interpersonal engagement
 - [[consciousness-and-testimony]] — The role of consciousness in giving and receiving testimony
-- [[inverted-qualia]] — Why phenomenal worlds may diverge undetectably
-- [[philosophical-zombies]] — The thought experiment that sharpens the bypass question
-- [[moral-responsibility]] — How moral accountability depends on understanding agents as subjects
 - [[cumulative-culture]] — How cultural accumulation depends on teaching and shared intentionality
 - [[cetacean-and-corvid-consciousness]] — Dolphins and corvids display Level 1-2 social cognition through radically different neural architectures
 - [[duhem-quine-underdetermination-consciousness]] — Why falsifiability conditions for consciousness claims face deep underdetermination
-- [[consciousness-and-methodological-failure]] — How standard theoretical virtues systematically malfunction when applied to consciousness
-- [[methodology-of-consciousness-research]] — The structural challenge of studying subjective phenomena with objective methods
 
 ## References
 
