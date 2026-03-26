@@ -37,11 +37,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article synthesizing experimental consciousness science 2025-2026 findings
-- **Type**: expand-topic
+### P2: Cross-review neural-correlates-of-consciousness.md considering experimental consciousness science 2025-2026 article
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: Research completed in research/experimental-consciousness-science-2025-2026-2026-03-26.md. Covers COGITATE adversarial collaboration results, brain biophotons, corpus callosum findings, zero-point field models, biological computationalism, and covert consciousness detection. Synthesize into a topics article connecting these empirical developments to the Map's framework (especially Tenets 2 and 3). Target section: topics/ (226/230, 4 slots remaining).
-- **Source**: chain (from research-topic 2026-03-26)
+- **Notes**: New topics article topics/experimental-consciousness-science-2025-2026.md created 2026-03-26 synthesises COGITATE results, biophotons, split-brain unity, ZPF model, biological computationalism, and covert consciousness. Review concepts/neural-correlates-of-consciousness.md and concepts/integrated-information-theory.md to add inbound links to the new article where COGITATE and 2025 experimental findings are discussed.
+- **Source**: chain (from expand-topic experimental-consciousness-science-2025-2026 2026-03-26)
 - **Generated**: 2026-03-26
 
 ### P2: Cross-review pragmatisms-path-to-dualism.md considering new pragmatism concept
@@ -1481,6 +1481,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Write article synthesizing experimental consciousness science 2025-2026 findings
+- **Type**: expand-topic
+- **Notes**: Research completed in research/experimental-consciousness-science-2025-2026-2026-03-26.md. Covers COGITATE adversarial collaboration results, brain biophotons, corpus callosum findings, zero-point field models, biological computationalism, and covert consciousness detection. Synthesize into a topics article connecting these empirical developments to the Map's framework (especially Tenets 2 and 3). Target section: topics/ (226/230, 4 slots remaining).
+- **Output**: Write article synthesizing experimental consciousness science 2025-2026 findings
 
 ### ✓ 2026-03-26: Research recent (2025-2026) experimental consciousness science developments
 - **Type**: research-topic
