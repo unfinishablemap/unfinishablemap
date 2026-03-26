@@ -124,6 +124,8 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Self-Transcendence Void](/voids/self-transcendence-void/) — Why consciousness cannot bootstrap itself beyond its own cognitive architecture
 - [The Spontaneous Thought Void](/voids/spontaneous-thought-void/) — Why consciousness cannot observe generation of unbidden thoughts
 - [The Transparency Void](/voids/transparency-void/) — Why consciousness cannot verify its own accuracy
+- [The Complicity Void](/voids/complicity-void/) — Whether consciousness actively participates in maintaining its own limits
+- [The Obviousness Void](/voids/obviousness-void/) — How the feeling of self-evidence terminates inquiry before it begins
 
 ### Phenomenology of Limits
 

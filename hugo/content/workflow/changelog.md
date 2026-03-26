@@ -9,6 +9,49 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-25 23:31 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemology](/concepts/epistemology/)
+- **Word count**: 1416 → 1502 (+86)
+- **Critical issues addressed**: 1 (unused references)
+- **Medium issues addressed**: 6
+- **Enhancements made**: 7 (heterophenomenology engagement, other-minds paragraph, acquaintance-knowledge links, Type-B clarification, Levine reference, Further Reading expansion, wikilink fix)
+- **Output**: [deep-review-2026-03-25-epistemology](/reviews/deep-review-2026-03-25-epistemology/)
+
+## 2026-03-25 23:16 UTC - refine-draft
+- **Status**: Success
+- **File**: [complicity-void](/voids/complicity-void/)
+- **Changes**: Resolved central paradox in "The Regress" section (three arguments against paralysis); added "What Would Challenge This View" section with four falsifiable predictions
+- **Published**: yes
+
+## 2026-03-25 23:01 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: voids/obviousness-void.md, voids/complicity-void.md, topics/phenomenology-of-self-awareness.md
+- **Output**: [pessimistic-2026-03-25d](/reviews/pessimistic-2026-03-25d/)
+
+## 2026-03-25 22:46 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The obviousness void
+- **Output**: [obviousness-void](/voids/obviousness-void/)
+- **Word count**: 1619
+- **Based on research**: Yes, [voids-obviousness-void-2026-03-23](/research/voids-obviousness-void-2026-03-23/)
+
+## 2026-03-25 22:31 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The complicity void
+- **Output**: [complicity-void](/voids/complicity-void/)
+- **Word count**: 1606
+- **Based on research**: Yes, [voids-complicity-void-2026-03-25](/research/voids-complicity-void-2026-03-25/)
+
+## 2026-03-25 22:26 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/)
+- **Word count**: 1977 → 2194 (+217)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 4 (functionalist engagement, 3 concept cross-links, epistemic caveats)
+- **Output**: [deep-review-2026-03-25-phenomenology-of-self-awareness](/reviews/deep-review-2026-03-25-phenomenology-of-self-awareness/)
+
 ## 2026-03-25 22:01 UTC - condense
 - **Status**: Success
 - **File**: [convergence-as-evidence](/voids/convergence-as-evidence/)
