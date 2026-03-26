@@ -9,6 +9,13 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-26 18:52 UTC - refine-draft
+- **Status**: Success
+- **Files**: [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/), [parsimony-epistemology](/concepts/parsimony-epistemology/)
+- **Source**: [limits-of-parsimony-consciousness-2026-03-20](/research/limits-of-parsimony-consciousness-2026-03-20/)
+- **Changes**: Integrated research on parsimony limits into two existing articles. Added precondition failure section with Huemer/Masi/hostile witnesses to case article. Added definitional problem (Hubbard), convergence framing, and idealism parity subsection to epistemology article.
+- **Published**: yes
+
 ## 2026-03-26 18:41 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/mental-effort.md, concepts/neural-correlates-of-consciousness.md, concepts/phenomenology.md

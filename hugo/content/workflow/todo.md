@@ -38,20 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate limits-of-parsimony research into parsimony-related articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/limits-of-parsimony-consciousness-2026-03-20.md covers where Occam's razor fails in consciousness science — directly supports Tenet 5. Integrate key arguments into existing articles: parsimony-case-for-interactionist-dualism.md (strengthen the case that parsimony alone is insufficient) and parsimony-epistemology.md (add limits analysis). No new article needed — enrich existing coverage.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-26
-
-### P2: Research consciousness and philosophy of testimony under dualism
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: P3 expand-topic task exists for this topic but no research has been done. How intersubjective knowledge is transmitted when consciousness is ontologically individual. Supports Tenet 1 (dualism) and Tenet 3 (bidirectional interaction). Research targets: testimony epistemology (Coady, Lackey), communicative action theory, Levinas on the face, phenomenology of linguistic understanding under dualism. Target: research note to inform subsequent article.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-26
-
 ### P3: Strengthen neuroplasticity argument in mental-effort.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1468,6 +1454,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-26: Integrate limits-of-parsimony research into parsimony-related articles
+- **Type**: refine-draft
+- **Notes**: Research in research/limits-of-parsimony-consciousness-2026-03-20.md covers where Occam's razor fails in consciousness science — directly supports Tenet 5. Integrate key arguments into existing articles: parsimony-case-for-interactionist-dualism.md (strengthen the case that parsimony alone is insufficient) and parsimony-epistemology.md (add limits analysis). No new article needed — enrich existing coverage.
+- **Output**: Task context:
+Research in research/limits-of-parsimony-consciousness-2026-03-20.md covers where Occam's razor fails in consciousness science — directly supports Tenet 5. Integrate key arguments into existing articles: parsimony-case-for-interactionist-dualism.md (strengthen the case that parsimony alone is insufficient) and parsimony-epistemology.md (add limits analysis). No new article needed — enrich existing coverage.
 
 ### ✓ 2026-03-26: Cross-review argument-from-reason.md considering pragmatism insights
 - **Type**: cross-review

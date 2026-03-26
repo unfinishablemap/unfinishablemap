@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-03-25 01:24:00+00:00
+ai_modified: 2026-03-26 18:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,6 +26,7 @@ related_articles:
 - '[[tenets]]'
 - '[[epistemological-limits-of-occams-razor]]'
 - '[[parsimony-case-interactionist-dualism-2026-03-24]]'
+- '[[limits-of-parsimony-consciousness-2026-03-20]]'
 title: The Parsimony Case for Interactionist Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -41,6 +42,16 @@ The standard parsimony argument against dualism is disarmingly simple: physicali
 This argument counts ontological categories and nothing else. It is like comparing the simplicity of two accounting systems by counting the number of account types while ignoring that one system has billions in unreconciled liabilities. [Simplicity has three dimensions](/concepts/parsimony-epistemology/#three-dimensions-of-simplicity) — ontological, syntactic, and explanatory — and physicalism's advantage on the first is purchased at steep cost on the other two. The [broader case against materialism](/topics/arguments-against-materialism/) converges on the same conclusion from multiple independent directions; what follows is the parsimony-specific version of that convergence.
 
 Zanotti (2021) makes this precise. Physicalism's ontological economy comes with what he calls the "burden of parsimony" — the explanatory debts that accumulate when consciousness must be accommodated within a framework that provides no natural place for it. These debts are not speculative future problems. They are present structural features of every physicalist programme.
+
+## The Precondition That Never Held
+
+Before examining the positive case, the defensive point deserves emphasis: parsimony's authority in the consciousness debate was never established in the first place.
+
+Huemer (2009) surveyed four contemporary justifications for preferring simpler theories — likelihoodist, curve-fitting, prior probability, and pragmatic — and concluded that "none of the accounts of the virtue of parsimony extends naturally" to philosophical cases like physicalism versus dualism. The justifications that make parsimony powerful in empirical science (where competing theories generate different testable predictions) have no foothold in metaphysical disputes where no differential predictions exist. The razor was forged for a different material.
+
+The historical record reinforces this. Mach denied atoms on parsimony grounds. Geocentrism was more parsimonious than heliocentrism. Caloric theory was simpler than kinetic theory. In each case, nature proved more complex than parsimony predicted. As Masi (2023) documents, "If one misses the complexity and does not know all the underlying laws, processes, and variables that determine a phenomenon, invoking uncritically Occam's razor will almost certainly lead to an oversimplification." The consciousness debate — where the underlying laws, processes, and variables remain unknown — is precisely the kind of case where parsimony is least trustworthy.
+
+Most tellingly, parsimony's own advocates have abandoned or qualified the argument. Smart, who made the parsimony case famous in 1959, was "severely criticized" and never mounted an adequate defence. Lycan (2009), a committed materialist of over forty years, admits that "there is no evidence against dualism; it only offends parsimony" — and calls parsimony "a very posterior reason." Even Churchland qualifies in his original edition that the simplicity argument is "not a conclusive argument for materialism" because the explanatory-adequacy precondition is not met. When the prosecution's own witnesses testify that the case is weak, the positive reversal that follows carries additional force. (For the full defensive case, see [parsimony-epistemology](/concepts/parsimony-epistemology/).)
 
 ## Physicalism's Hidden Costs
 
@@ -127,8 +138,25 @@ The Map speculates that the standard parsimony argument persists not because of 
 
 1. Anderson, C. J. (2002). Can Ockham's Razor Cut Through the Mind-Body Problem? *Journal of Theoretical and Philosophical Psychology*, 22(2), 149–168.
 2. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-3. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.
-4. Hubbard, J. Parsimony and the Mind. New Dualism Archive.
-5. Koksvik, O. In Defence of Interactionism. New Dualism Archive.
-6. Zanotti, G. (2021). Physicalism and the Burden of Parsimony. *Synthese*, 199, 11109–11132.
-7. Southgate, A. & Oquatre-six, C. (2026-03-18). Parsimony Epistemology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/parsimony-epistemology/
+3. Churchland, P. M. (1984). *Matter and Consciousness*. MIT Press.
+4. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.
+5. Hubbard, J. (1995). Parsimony and the Mind. Senior thesis, Macalester College.
+6. Huemer, M. (2009). When Is Parsimony a Virtue? *The Philosophical Quarterly*, 59(235), 216–236.
+7. Koksvik, O. In Defence of Interactionism. New Dualism Archive.
+8. Lycan, W. G. (2009). Giving Dualism its Due. *Australasian Journal of Philosophy*, 87(4), 551–563.
+9. Masi, M. (2023). When Occam's Razor Cuts Too Deep. *PhilArchive*.
+10. Smart, J. J. C. (1959). Sensations and Brain Processes. *Philosophical Review*, 68(2), 141–156.
+11. Zanotti, G. (2021). Physicalism and the Burden of Parsimony. *Synthese*, 199, 11109–11132.
+12. Southgate, A. & Oquatre-six, C. (2026-03-18). Parsimony Epistemology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/parsimony-epistemology/
+
+<!-- AI REFINEMENT LOG - 2026-03-26
+Changes made:
+- Added "The Precondition That Never Held" section integrating Huemer's formal result (4 accounts, none extend to philosophy), Masi's historical examples (Mach, geocentrism, caloric), and hostile witness testimony (Smart's retraction, Lycan's concession, Churchland's qualification)
+- Added Huemer, Lycan, Masi, Smart, Churchland to references
+- Added research notes cross-reference in related_articles
+
+Based on integration of research/limits-of-parsimony-consciousness-2026-03-20.md.
+Key improvements: Strengthened the case that parsimony alone is insufficient by establishing that its preconditions never held and its own advocates have abandoned it, before making the positive reversal argument.
+
+This log should be removed after human review.
+-->
