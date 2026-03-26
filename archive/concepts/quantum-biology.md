@@ -28,6 +28,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
 last_deep_review: 2026-03-26T09:47:00+00:00
+archived: true
+archived_date: 2026-03-26T16:22:00+00:00
+superseded_by: "/concepts/quantum-biology-and-neural-mechanisms/"
+archive_reason: "Coalesced into Quantum Biology and Neural Mechanisms"
+original_path: "/concepts/quantum-biology/"
 ---
 
 Quantum biology investigates non-trivial quantum effects in living systems. While most biological processes follow classical physics, several phenomena require quantum mechanical explanations: photosynthetic energy transfer, avian magnetoreception, enzyme catalysis, and possibly olfaction. These findings matter for consciousness studies because they demonstrate that warm, wet biological systems can harness quantum effects—undermining the categorical claim that quantum consciousness is impossible.

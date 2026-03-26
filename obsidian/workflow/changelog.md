@@ -5,6 +5,13 @@ ai_modified: 2026-03-25T19:46:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-26 16:22 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/quantum-biology]], [[concepts/quantum-neural-mechanisms-and-coherence]]
+- **Target**: [[concepts/quantum-biology-and-neural-mechanisms]]
+- **Archived**: [[archive/concepts/quantum-biology]], [[archive/concepts/quantum-neural-mechanisms-and-coherence]]
+- **References to review**: ~30
+
 ## 2026-03-26 16:06 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/argument-from-reason]]

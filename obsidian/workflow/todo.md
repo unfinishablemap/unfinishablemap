@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced quantum articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce created quantum-biology-and-neural-mechanisms. ~30 active content files reference the archived articles [[quantum-biology]] and [[quantum-neural-mechanisms-and-coherence]] and may need review. Key files: quantum-consciousness, decoherence, stapp-quantum-mind, brain-interface-boundary, evolutionary-case-for-quantum-neural-effects, quantum-biology-and-neural-consciousness, comparing-quantum-consciousness-mechanisms, phenomenal-binding-and-holism, spontaneous-collapse-theories, quantum-interpretations.
+- **Source**: coalesce
+- **Generated**: 2026-03-26
+
 ### P2: Research recent (2025-2026) experimental consciousness science developments
 - **Type**: research-topic
 - **Status**: pending

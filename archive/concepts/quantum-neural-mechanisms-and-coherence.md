@@ -48,6 +48,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-18
 last_curated: null
 last_deep_review: 2026-03-20T01:01:00+00:00
+archived: true
+archived_date: 2026-03-26T16:22:00+00:00
+superseded_by: "/concepts/quantum-biology-and-neural-mechanisms/"
+archive_reason: "Coalesced into Quantum Biology and Neural Mechanisms"
+original_path: "/concepts/quantum-neural-mechanisms-and-coherence/"
 coalesced_from:
   - "/concepts/quantum-neural-mechanisms/"
   - "/concepts/quantum-coherence-and-binding-evidence/"
