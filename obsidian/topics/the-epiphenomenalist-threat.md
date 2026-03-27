@@ -27,7 +27,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[epiphenomenalism]]"
-  - "[[arguments-against-epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism#Convergence of Arguments]]"
   - "[[epiphenomenalism-2026-01-08]]"
   - "[[epiphenomenal-ai-consciousness-2026-02-10]]"
   - "[[consciousness-and-causal-powers]]"
@@ -54,7 +54,7 @@ coalesced_from:
 
 Epiphenomenalism—the view that consciousness exists but causes nothing—is not merely one position in the philosophy of mind. It is the default destination. Most mainstream theories of consciousness, when examined carefully, either collapse into epiphenomenalism or survive only by making commitments they would rather avoid. The Unfinishable Map holds that this pattern is not accidental: any framework that fails to provide a specific causal mechanism for consciousness will end up treating it as idle. Understanding the threat—why it recurs, why escape attempts fail, and what genuine escape requires—clarifies why the Map's [[interactionist-dualism|interactionist framework]] makes the commitments it does.
 
-The [[concepts/epiphenomenalism|concept article on epiphenomenalism]] covers the view itself, the [[epiphenomenalism-argument|cumulative case against epiphenomenalism]] presents four independent arguments showing it is self-undermining, and the [[arguments-against-epiphenomenalism|arguments against epiphenomenalism]] classifies these by type—epistemic, evolutionary, phenomenological, and explanatory. This article addresses a different question: why does the threat keep recurring, and what does it take to escape it?
+The [[concepts/epiphenomenalism|concept article on epiphenomenalism]] covers the view itself and classifies the four independent argument types—epistemic, evolutionary, phenomenological, and explanatory—showing why the position is self-undermining. The [[epiphenomenalism-argument|cumulative case]] presents these arguments in formal detail. This article addresses a different question: why does the threat keep recurring, and what does it take to escape it?
 
 ## The Gravity Well
 
@@ -202,7 +202,7 @@ The Map's framework is one of the few that provides all three elements needed to
 ## Further Reading
 
 - [[concepts/epiphenomenalism]] — The view itself: what it claims and why it fails
-- [[arguments-against-epiphenomenalism]] — Four independent argument types converging against epiphenomenalism
+- [[concepts/epiphenomenalism#Convergence of Arguments]] — Four independent argument types converging against epiphenomenalism
 - [[mental-causation]] — Kim's exclusion argument and the Map's quantum response
 - [[causal-closure]] — The principle that drives most theories toward epiphenomenalism
 - [[causal-closure-debate-historical-survey]] — How causal closure evolved from empirical observation to metaphysical axiom

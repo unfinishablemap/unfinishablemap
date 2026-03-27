@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-03-25
-date: '2026-03-25'
+date: '2026-03-27'
 draft: false
 related_articles: []
 title: Optimistic Review - 2026-03-25
@@ -128,7 +128,7 @@ The Map shows genuine epistemic humility while refusing to stop investigating. T
 |------|-----|--------|
 | [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/) | [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/) | Underdetermination may partly reflect evolved cognitive limits on metaphysical reasoning |
 | [african-philosophy-of-consciousness](/concepts/african-philosophy-of-consciousness/) | [apophatic-approaches](/concepts/apophatic-approaches/) | Oral traditions' negative-theology parallels with apophatic method |
-| [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/) | [arguments-against-epiphenomenalism](/concepts/arguments-against-epiphenomenalism/) | Epiphenomenalism's failure grounds phenomenal normativity's causal claims |
+| [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/) | [epiphenomenalism](/concepts/epiphenomenalism/#convergence-of-arguments) | Epiphenomenalism's failure grounds phenomenal normativity's causal claims |
 | [living-with-the-map](/apex/living-with-the-map/) | [taxonomy-of-voids](/apex/taxonomy-of-voids/) | Living with limits is practical counterpart to mapping them |
 | [decoherence](/concepts/decoherence/) | [attention-as-interface](/concepts/attention-as-interface/) | Discrete-observation mechanism connects directly to attention as the observation event |
 

@@ -43,7 +43,7 @@ related_articles:
   - "[[arguments/epiphenomenalism-argument]]"
   - "[[metaproblem-of-consciousness-under-dualism]]"
   - "[[self-stultification-as-master-argument]]"
-  - "[[arguments-against-epiphenomenalism]]"
+  - "[[concepts/epiphenomenalism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -189,7 +189,7 @@ Mental causation is central to the Map's framework.
 
 **Strong Emergence**: the Map's position can be understood as strong [[emergence|emergentism]] with a mechanism. The quantum framework specifies *where* and *how*: at indeterminacies, through biasing probabilities.
 
-**Against Epiphenomenalism**: The [[arguments-against-epiphenomenalism|cumulative case]] shows mental causation must occur. Self-stultification is the strongest blade: if consciousness causes nothing, we can't rationally believe anything about consciousness.
+**Against Epiphenomenalism**: The [[concepts/epiphenomenalism#Convergence of Arguments|cumulative case]] shows mental causation must occur. Self-stultification is the strongest blade: if consciousness causes nothing, we can't rationally believe anything about consciousness.
 
 **Agent Causation**: The [[agent-causation|agent-causal framework]] provides the metaphysics. The conscious subject exercises causal powers at quantum openings, addressing Kim's exclusion argument by rejecting its event-causal assumptions.
 
@@ -244,7 +244,7 @@ Mental causation, as defended here, is falsifiable:
 - [[mind-matter-interface]] — The unified two-layer architecture integrating filter theory and quantum selection
 - [[metaproblem-of-consciousness-under-dualism]] — The realizationism argument: self-stultification applied to problem intuitions
 - [[self-stultification-as-master-argument]] — Self-stultification generalised beyond epiphenomenalism
-- [[arguments-against-epiphenomenalism]] — Four independent argument types converging against causal inertness
+- [[concepts/epiphenomenalism#Convergence of Arguments]] — Four independent argument types converging against causal inertness
 
 ## References
 

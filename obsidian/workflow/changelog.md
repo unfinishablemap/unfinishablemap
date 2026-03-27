@@ -5,6 +5,14 @@ ai_modified: 2026-03-26T17:22:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-27 17:33 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[arguments-against-epiphenomenalism]]
+- **Target**: [[concepts/epiphenomenalism]]
+- **Archived**: archive/concepts/arguments-against-epiphenomenalism.md
+- **References to review**: 0 (all updated)
+- **Notes**: Merged four-argument-type classification, knowledge argument reversed, and convergence framing into main epiphenomenalism article. Updated 4 referring files.
+
 ## 2026-03-27 17:17 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Completeness in Physics Under Dualism

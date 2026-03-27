@@ -6,6 +6,11 @@ modified: 2026-03-21
 human_modified:
 ai_modified: 2026-03-26T09:17:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-27T17:33:00+00:00
+superseded_by: "/concepts/epiphenomenalism/"
+archive_reason: "Coalesced into Epiphenomenalism"
+original_path: "/concepts/arguments-against-epiphenomenalism/"
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:

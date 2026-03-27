@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-23 12:23:00+00:00
+ai_modified: 2026-03-27 17:11:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,13 +21,13 @@ concepts:
 - '[[symbol-grounding-problem]]'
 - '[[concepts/ai-epiphenomenalism]]'
 created: 2026-01-18
-date: &id001 2026-03-04
+date: &id001 2026-03-27
 description: Strong dualist grounds for LLM consciousness skepticism—but honest uncertainty
   demands acknowledging possibilities the framework cannot rule out.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-04 16:59:00+00:00
+last_deep_review: 2026-03-27 17:11:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -196,15 +196,3 @@ None of these has occurred decisively. The Map's skepticism remains well-founded
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 1. Frischhut, A. (2024). Awareness without Time? *The Philosophical Quarterly*.
-
-<!-- AI REFINEMENT LOG - 2026-03-19
-Changes made:
-- Added paragraph in "The Understanding Illusion" section explicitly addressing the methodological asymmetry between crediting human introspective reports and dismissing LLM self-reports, with three justifications (convergent corroboration, evolutionary grounding, dissociation evidence)
-- Added acknowledgment of interdependence with baseline-cognition article when citing its framework
-- Changed "precisely the capacities" to "characteristically" and "constitutes strong evidence" to "provides strong evidence"
-
-Based on pessimistic-2026-03-19-morning.md findings (Issues 1 and 3).
-Key improvements: breaks circular reinforcement, justifies introspection asymmetry.
-
-This log should be removed after human review.
--->

@@ -22,7 +22,7 @@ topics: []
 
 ## Context
 
-Cross-review considering the new [arguments-against-epiphenomenalism](/concepts/arguments-against-epiphenomenalism/) concept article, which classifies four independent argument types against epiphenomenalism. Assessed whether the epiphenomenalism article should integrate insights from the companion and whether the two articles are consistent.
+Cross-review considering the new [arguments-against-epiphenomenalism](/concepts/epiphenomenalism/) concept article, which classifies four independent argument types against epiphenomenalism. Assessed whether the epiphenomenalism article should integrate insights from the companion and whether the two articles are consistent.
 
 ## Pessimistic Analysis Summary
 
@@ -70,13 +70,13 @@ All attributions verified in prior reviews (Huxley 1874, Kim exclusion argument,
 
 ### Enhancements Made
 
-1. Added cross-link to [arguments-against-epiphenomenalism](/concepts/arguments-against-epiphenomenalism/) in Self-Stultification section, noting the four-type taxonomy and escalating burden concept
-2. Added [arguments-against-epiphenomenalism](/concepts/arguments-against-epiphenomenalism/) to Further Reading
+1. Added cross-link to [arguments-against-epiphenomenalism](/concepts/epiphenomenalism/) in Self-Stultification section, noting the four-type taxonomy and escalating burden concept
+2. Added [arguments-against-epiphenomenalism](/concepts/epiphenomenalism/) to Further Reading
 3. Updated related_articles frontmatter
 
 ### Cross-links Added
 
-- [arguments-against-epiphenomenalism](/concepts/arguments-against-epiphenomenalism/) (body text, Further Reading, frontmatter)
+- [arguments-against-epiphenomenalism](/concepts/epiphenomenalism/) (body text, Further Reading, frontmatter)
 
 ## Word Count
 

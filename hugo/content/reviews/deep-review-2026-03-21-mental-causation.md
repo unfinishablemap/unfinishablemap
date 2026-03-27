@@ -83,13 +83,13 @@ Consistency check between mental-causation.md and arguments-against-epiphenomena
 
 ### Enhancements Made
 - Linked self-stultification section header to [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)
-- Linked "Against Epiphenomenalism" in Relation to Map's Perspective to [arguments-against-epiphenomenalism](/concepts/arguments-against-epiphenomenalism/)
+- Linked "Against Epiphenomenalism" in Relation to Map's Perspective to [arguments-against-epiphenomenalism](/concepts/epiphenomenalism/)
 - Added both articles to related_articles frontmatter and Further Reading
 - Removed stale AI refinement log (changes verified, log served its purpose)
 
 ### Cross-links Added
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — related_articles, body, Further Reading
-- [arguments-against-epiphenomenalism](/concepts/arguments-against-epiphenomenalism/) — related_articles, body, Further Reading
+- [arguments-against-epiphenomenalism](/concepts/epiphenomenalism/) — related_articles, body, Further Reading
 
 ## Remaining Items
 

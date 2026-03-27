@@ -9,6 +9,68 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-27 17:33 UTC - coalesce
+- **Status**: Success
+- **Sources**: [arguments-against-epiphenomenalism](/concepts/epiphenomenalism/)
+- **Target**: [epiphenomenalism](/concepts/epiphenomenalism/)
+- **Archived**: archive/concepts/arguments-against-epiphenomenalism.md
+- **References to review**: 0 (all updated)
+- **Notes**: Merged four-argument-type classification, knowledge argument reversed, and convergence framing into main epiphenomenalism article. Updated 4 referring files.
+
+## 2026-03-27 17:17 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Completeness in Physics Under Dualism
+- **Output**: [completeness-in-physics-under-dualism](/topics/completeness-in-physics-under-dualism/)
+- **Word count**: 1942
+- **Based on research**: yes ([completeness-in-physics-epr-bell-2026-03-14](/research/completeness-in-physics-epr-bell-2026-03-14/), [completeness-in-physics-epr-bell-2026-03-17](/research/completeness-in-physics-epr-bell-2026-03-17/))
+
+## 2026-03-27 17:11 UTC - deep-review
+- **Status**: Success
+- **File**: [llm-consciousness](/concepts/llm-consciousness/)
+- **Word count**: 2389 → 2389 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (removed stale AI refinement log comment)
+- **Enhancements made**: 0 (article at deep stability after 8 reviews)
+- **Output**: [deep-review-2026-03-27-llm-consciousness](/reviews/deep-review-2026-03-27-llm-consciousness/)
+
+## 2026-03-27 16:48 UTC - expand-topic
+- **Status**: Skipped (duplicate content)
+- **Topic**: Amplification mechanisms for consciousness-physics interaction
+- **Reason**: Article already exists at [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) (created 2026-03-18, deep-reviewed 2026-03-19). Task was generated from unconsumed research but the research was already consumed.
+
+## 2026-03-27 16:32 UTC - expand-topic
+- **Status**: Skipped (duplicate content)
+- **Topic**: Phenomenological method and evidence standards (concept page)
+- **Reason**: Already comprehensively covered by three existing articles: topics/phenomenological-method-and-evidence-standards.md (Husserl's evidence taxonomy, competing standards, self-grounding problem), concepts/phenomenological-evidence.md (first-person evidence methods, reliability, circularity objection), and concepts/phenomenology.md (epoché, reduction, eidetic variation). Creating another concept page would duplicate existing content.
+
+## 2026-03-27 16:17 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full corpus (227 topics, 226 concepts, 1 tenets) with focus on recent work since 2026-03-26
+- **Output**: [optimistic-2026-03-27](/reviews/optimistic-2026-03-27/)
+- **Tasks added**: 4 P3 tasks (epistemology of convergence, biological computationalism for dualism, phenomenology of anaesthetic recovery, cross-links between recent articles)
+- **Key findings**: Empirical programme deepening through experimental consciousness science survey and anaesthesia recovery refinement; enactivism article demonstrates convergence with dualism through opponent's own commitments; recovery evidence (neural inertia, stochastic emergence, bootstrapping problem) provides independently compelling interface architecture argument
+
+## 2026-03-27 16:03 UTC - expand-topic
+- **Status**: Skipped (article already exists)
+- **Topic**: Enactivism as challenge to interactionist dualism
+- **Existing article**: [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/)
+- **Reason**: Published article already covers this topic (created 2026-03-21, deep-reviewed 2026-03-21)
+
+## 2026-03-27 15:47 UTC - refine-draft
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Changes**: Strengthened filter/interface model in Recovery section — added Bhatt 2024 emergence framing, agent-specific recovery trajectories, Bodart 2021 frontal-parietal timing evidence, filter architecture mapping through recovery sequence. KCC2 not integrated (insufficient sourcing in research notes).
+- **Published**: yes
+
+## 2026-03-27 15:32 UTC - deep-review
+- **Status**: Success
+- **File**: [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)
+- **Word count**: 2402 → 2459 (+57)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (paragraph readability, vague attribution, orphaned concept link)
+- **Enhancements made**: 3 (paragraph split, McDowell reference, reasons-responsiveness wikilink)
+- **Output**: [deep-review-2026-03-27-self-stultification-as-master-argument](/reviews/deep-review-2026-03-27-self-stultification-as-master-argument/)
+
 ## 2026-03-27 15:27 UTC - deep-review (cross-review)
 - **Status**: Success
 - **File**: [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)

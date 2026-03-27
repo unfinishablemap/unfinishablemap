@@ -125,7 +125,7 @@ The Map shows genuine epistemic humility while refusing to stop investigating. T
 |------|-----|--------|
 | [[duhem-quine-underdetermination-consciousness]] | [[adaptive-cognitive-limits]] | Underdetermination may partly reflect evolved cognitive limits on metaphysical reasoning |
 | [[african-philosophy-of-consciousness]] | [[apophatic-approaches]] | Oral traditions' negative-theology parallels with apophatic method |
-| [[phenomenal-normativity-environmental-ethics]] | [[arguments-against-epiphenomenalism]] | Epiphenomenalism's failure grounds phenomenal normativity's causal claims |
+| [[phenomenal-normativity-environmental-ethics]] | [[concepts/epiphenomenalism#Convergence of Arguments]] | Epiphenomenalism's failure grounds phenomenal normativity's causal claims |
 | [[living-with-the-map]] | [[taxonomy-of-voids]] | Living with limits is practical counterpart to mapping them |
 | [[decoherence]] | [[attention-as-interface]] | Discrete-observation mechanism connects directly to attention as the observation event |
 

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-21
-**Article**: [Arguments Against Epiphenomenalism](/concepts/arguments-against-epiphenomenalism/)
+**Article**: [Arguments Against Epiphenomenalism](/concepts/epiphenomenalism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

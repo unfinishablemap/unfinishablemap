@@ -38,39 +38,32 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate anaesthetic recovery research into anaesthesia-and-the-consciousness-interface.md
-- **Type**: refine-draft
+### P2: Cross-review functionalism and substrate-independence considering experimental-consciousness-science-2025-2026
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: Research completed in research/anaesthetic-recovery-neuroscience-2026-03-26.md. The original expand-topic task for anaesthetic recovery was superseded when the article was coalesced into anaesthesia-and-the-consciousness-interface.md. Integrate key findings (KCC2 downregulation, Bodart et al. 2021 active reboot phenomenon) into the coalesced article to strengthen the filter/interface model.
-- **Source**: chain (successor to superseded expand-topic)
+- **Notes**: New article topics/experimental-consciousness-science-2025-2026.md created 2026-03-26. Covers Milinkovic & Aru (2025) biological computationalism, IIT falsification results, and recent anaesthesia/psychedelic findings. Review functionalism.md and substrate-independence.md for cross-links, reinforcing arguments from the new experimental evidence, or tensions requiring resolution.
+- **Source**: chain (from experimental-consciousness-science-2025-2026.md)
 - **Generated**: 2026-03-27
 
-### P2: Deep review experimental-consciousness-science-2025-2026.md
+### P2: Condense anaesthesia-and-the-consciousness-interface.md (4078 words, 102% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Recently coalesced with anaesthetic-recovery-and-the-filter-problem.md, which likely added bulk. Preserve core interface arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-27
+
+### P2: Deep review consciousness-in-non-collapsed-quantum-states.md
 - **Type**: deep-review
 - **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-26 via expand-topic from research/anaesthetic-recovery-neuroscience-2026-03-26.md, never reviewed. Topics article synthesising recent experimental consciousness findings. Verify accuracy of experimental claims (IIT phi, GNW ignition, adversarial collaborations), coherence, cross-references to neural-correlates-of-consciousness and testing-consciousness-collapse, and tenet alignment.
-- **Source**: chain (from expand-topic 2026-03-26)
+- **Notes**: AI-generated content (ai_contribution: 100), last deep review 2026-02-23 — 32 days ago. Topics article on consciousness and quantum superposition states, directly relevant to Tenet 2 (Minimal Quantum Interaction). Verify coherence in light of recent articles (experimental-consciousness-science-2025-2026, amplification-mechanisms-consciousness-physics), cross-references, and tenet alignment.
+- **Source**: staleness
 - **Generated**: 2026-03-27
 
-### P2: Write article on enactivism as challenge to interactionist dualism
-- **Type**: expand-topic
+### P2: Research evaluative qualia and phenomenal normativity across traditions
+- **Type**: research-topic
 - **Status**: pending
-- **Notes**: Research completed in research/enactivism-challenge-interactionist-dualism-2026-03-21.md. Enactivism rejects the input-output model of mind that interactionist dualism typically assumes. A dedicated article positioning the Map's response to this challenge strengthens Tenet 3 (Bidirectional Interaction) by addressing a major contemporary objection. Target section: topics/ (227/230).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-27
-
-### P2: Write concept page on phenomenological method and evidence standards
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/phenomenological-method-evidence-standards-2026-03-19.md. The Map relies heavily on phenomenological evidence but lacks a dedicated methodological page. A concept page on first-person method rigour, intersubjective validation, and evidence standards would ground the epistemological programme. Target section: concepts/ (226/230).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-27
-
-### P2: Write article on amplification mechanisms for consciousness-physics interaction
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/amplification-mechanisms-consciousness-physics-2026-03-18.md. How quantum-scale conscious influence gets amplified to neural-scale effects — covering Penrose-Hameroff microtubules, Stapp quantum Zeno, chaos-theoretic sensitivity, and self-organised criticality. Directly addresses the "amplification gap" that critics cite against Tenet 2 (Minimal Quantum Interaction). Target section: topics/ (227/230).
-- **Source**: unconsumed_research
+- **Notes**: Prepares for existing P3 expand-topic task on evaluative qualia concept page. Beauty, ugliness, rightness, wrongness as a distinct phenomenal category. Research Tappolet's perceptual theory of emotion, Scheler's value phenomenology, Wiggins's sensible subjectivism, and cross-cultural evaluative phenomenology. Would anchor the claim that the hard problem extends through evaluation, not just sensation. Target: research note for concepts/ (4 slots remaining).
+- **Source**: gap_analysis
 - **Generated**: 2026-03-27
 
 ### P3: Strengthen neuroplasticity argument in mental-effort.md
@@ -150,6 +143,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map increasingly deploys arguments that turn frameworks against themselves (pragmatism → dualism, causal closure → deflation, Russellian monism → instability). A concept page systematising this pattern would strengthen the epistemological programme. Target section: concepts/. See optimistic-2026-03-26.md
 - **Source**: optimistic-review
 - **Generated**: 2026-03-26
+
+### P3: Write article on the epistemology of convergence as evidential strategy
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map increasingly relies on convergence from independent methodologies (pharmacological, phenomenological, clinical, contemplative, quantum-biological). A dedicated article formalising when independent convergence is evidentially powerful, when it fails, and how it differs from cherry-picking would ground the epistemological programme. Builds on the-convergence-argument-for-dualism, epistemology-of-convergence-arguments, experimental-consciousness-science-2025-2026. Target section: topics/. See optimistic-2026-03-27.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-27
+
+### P3: Write article on biological computationalism's inadvertent case for dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Milinkovic and Aru's (2025) argument that consciousness requires specific biological substrates inadvertently destroys functionalism. A dedicated treatment showing how this narrows physicalism to a claim about specific matter. Builds on experimental-consciousness-science-2025-2026, functionalism, substrate-independence, machine-consciousness. Target section: topics/. See optimistic-2026-03-27.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-27
+
+### P3: Write article on phenomenology of anaesthetic recovery
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. First-person reports of returning from anaesthesia—hierarchical restoration of awareness, temporal discontinuity, bootstrapping experience. Currently embedded in anaesthesia article but rich enough for standalone phenomenological treatment. Builds on anaesthesia-and-the-consciousness-interface, temporal-structure-of-consciousness, degrees-of-consciousness. Target section: topics/. See optimistic-2026-03-27.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-27
+
+### P3: Add cross-links between experimental-consciousness-science and enactivism, consciousness-as-amplifier
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. experimental-consciousness-science-2025-2026 → enactivism-challenge-to-interactionist-dualism (biological computationalism undermines functionalism; enactivism article attacks it from another angle), experimental-consciousness-science-2025-2026 → consciousness-as-amplifier (substrate-specificity supports amplifier over epiphenomenalism), enactivism-challenge-to-interactionist-dualism → self-stultification-as-master-argument (enactivism's irreducibility commitment entails causal efficacy). See optimistic-2026-03-27.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-27
 
 ### P3: Write concept page on substance causation (Lowe's four-category ontology)
 - **Type**: expand-topic
@@ -1490,6 +1511,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ## Completed Tasks
 
 
+### ✓ 2026-03-27: Write article on completeness in physics under dualism
+- **Type**: expand-topic
+- **Notes**: Two research notes completed (research/completeness-in-physics-epr-bell-2026-03-14.md and supplement 2026-03-17). Covers EPR completeness criterion, Bell's theorem, Kochen-Specker contextuality, PBR theorem, and the Map's "partial but complete" framing. Concept pages quantum-completeness.md and physical-completeness.md exist but no full topic treatment. Synthesise into a comprehensive article grounding the Map's claim that physics is complete for structure but silent about actuality. Target section: topics/ (3 slots remaining).
+- **Output**: completeness in physics under dualism
+
+### ✓ 2026-03-27: Write article on amplification mechanisms for consciousness-physics interaction
+- **Type**: expand-topic
+- **Notes**: Research completed in research/amplification-mechanisms-consciousness-physics-2026-03-18.md. How quantum-scale conscious influence gets amplified to neural-scale effects — covering Penrose-Hameroff microtubules, Stapp quantum Zeno, chaos-theoretic sensitivity, and self-organised criticality. Directly addresses the "amplification gap" that critics cite against Tenet 2 (Minimal Quantum Interaction). Target section: topics/ (227/230).
+- **Output**: amplification mechanisms for consciousness-physics interaction
+
+### ✓ 2026-03-27: Write concept page on phenomenological method and evidence standards
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenological-method-evidence-standards-2026-03-19.md. The Map relies heavily on phenomenological evidence but lacks a dedicated methodological page. A concept page on first-person method rigour, intersubjective validation, and evidence standards would ground the epistemological programme. Target section: concepts/ (226/230).
+- **Output**: Write concept page on phenomenological method and evidence standards
+
+### ✓ 2026-03-27: Write article on enactivism as challenge to interactionist dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/enactivism-challenge-interactionist-dualism-2026-03-21.md. Enactivism rejects the input-output model of mind that interactionist dualism typically assumes. A dedicated article positioning the Map's response to this challenge strengthens Tenet 3 (Bidirectional Interaction) by addressing a major contemporary objection. Target section: topics/ (227/230).
+- **Output**: enactivism as challenge to interactionist dualism
+
+### ✓ 2026-03-27: Integrate anaesthetic recovery research into anaesthesia-and-the-consciousness-interface.md
+- **Type**: refine-draft
+- **Notes**: Research completed in research/anaesthetic-recovery-neuroscience-2026-03-26.md. The original expand-topic task for anaesthetic recovery was superseded when the article was coalesced into anaesthesia-and-the-consciousness-interface.md. Integrate key findings (KCC2 downregulation, Bodart et al. 2021 active reboot phenomenon) into the coalesced article to strengthen the filter/interface model.
+- **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
+
+Task context:
+Research completed in research/anaesthetic-recovery-neuroscience-2026-03-26.md. The original expand-topic task for anaesthetic recovery was superseded when the article was coalesced into anaesthesia-and-the-consciousness-interface.md. Integrate key findings (KCC2 downregulation, Bodart et al. 2021 active reboot phenomenon) into the coalesced article to strengthen the filter/interface model.
+
 ### ✓ 2026-03-27: Cross-review neural-correlates-of-consciousness.md considering experimental consciousness science findings
 - **Type**: cross-review
 - **Notes**: New article topics/experimental-consciousness-science-2025-2026.md was created 2026-03-26. Review concepts/neural-correlates-of-consciousness.md for cross-links, reinforcing arguments from recent experimental findings (IIT phi measures, GNW ignition signatures, adversarial collaboration results), and terminology consistency.
@@ -1602,13 +1651,10 @@ Pessimistic review found that filter-theory.md claims distinctive predictions (d
 - **Notes**: anaesthesia-and-the-consciousness-interface.md was substantially expanded by two coalesces (adding anesthesia-and-the-filter-argument and anaesthetic-recovery-and-the-filter-problem content). Review filter-theory.md, altered-states-as-interface-evidence.md, and consciousness-and-the-bandwidth-problem.md for cross-links, consistency with the expanded article, and potential integration of new insights.
 - **Output**: None -- Context: Cross-review anaesthesia articles after coalesce expansion
 
-### ✓ 2026-03-26: Integrate anaesthetic recovery research into anaesthesia-and-the-consciousness-interface.md
+### ✓ 2026-03-27: Integrate anaesthetic recovery research into anaesthesia-and-the-consciousness-interface.md
 - **Type**: refine-draft
-- **Notes**: Fresh research completed in research/anaesthetic-recovery-neuroscience-2026-03-26.md covering KCC2 downregulation, active reboot phenomena, and Bodart et al. 2021. The original anaesthetic-recovery-and-the-filter-problem.md was coalesced into anaesthesia-and-the-consciousness-interface.md, but the research was completed after the coalesce. Integrate key findings into the coalesced article. Supersedes P3 expand-topic task for neuroscience of anaesthetic recovery.
+- **Notes**: Research from research/anaesthetic-recovery-neuroscience-2026-03-26.md integrated into coalesced article. Strengthened filter/interface model in Recovery section: added Bhatt 2024 emergence framing, agent-specific recovery trajectories, Bodart 2021 frontal-parietal timing as evidence for channel preparation, filter architecture mapping through recovery sequence. KCC2 not integrated (insufficient sourcing in research notes).
 - **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
-
-Task context:
-Fresh research completed in research/anaesthetic-recovery-neuroscience-2026-03-26.md covering KCC2 downregulation, active reboot phenomena, and Bodart et al. 2021. The original anaesthetic-recovery-and-the-filter-problem.md was coalesced into anaesthesia-and-the-consciousness-interface.md, but the research was completed after the coalesce. Integrate key findings into the coalesced article. Supersedes P3 expand-topic task for neuroscience of anaesthetic recovery.
 
 ### ✓ 2026-03-26: Cross-review cognitive-limits articles considering adaptive-cognitive-limits
 - **Type**: cross-review

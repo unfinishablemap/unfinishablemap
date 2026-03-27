@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-27 15:32:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Self-stultification defeats not just epiphenomenalism but every pos
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-05 08:38:00+00:00
+last_deep_review: 2026-03-27 15:32:00+00:00
 modified: *id001
 related_articles:
 - '[[argument-from-reason]]'
@@ -66,7 +66,9 @@ The most direct application. [Epiphenomenalism](/concepts/epiphenomenalism/) hol
 
 If true, then the epiphenomenalist's belief in epiphenomenalism was not caused by their conscious reasoning about the evidence. Their introspective reports about consciousness are causally disconnected from their conscious states. The pain doesn't cause the report "I'm in pain"; brain states cause both independently. As the Map's [tenets](/tenets/) put it: "If consciousness were truly epiphenomenal, then our beliefs *about* consciousness would be causally disconnected from our actual conscious states."
 
-The epiphenomenalist who presents arguments, responds to objections, and revises views on the basis of introspective evidence *performs* the falsity of their position. The very act of defending epiphenomenalism presupposes what epiphenomenalism denies—that conscious evaluation of reasons influences what one believes. The [convergence with illusionism](/concepts/illusionism/#structural-convergence-with-epiphenomenalism) deepens this point: illusionism inherits the same self-stultification because it preserves exactly the causal structure that generates the problem—phenomenal properties remain causally idle whether they are declared inert or declared non-existent.
+The epiphenomenalist who presents arguments, responds to objections, and revises views on the basis of introspective evidence *performs* the falsity of their position. The very act of defending epiphenomenalism presupposes what epiphenomenalism denies—that conscious evaluation of reasons influences what one believes.
+
+The [convergence with illusionism](/concepts/illusionism/#structural-convergence-with-epiphenomenalism) deepens this point: illusionism inherits the same self-stultification because it preserves exactly the causal structure that generates the problem—phenomenal properties remain causally idle whether they are declared inert or declared non-existent.
 
 Phenomenal intentionality adds a further layer: the belief in epiphenomenalism must be genuinely *about* consciousness—it must have determinate intentional content directed at phenomenal experience. If the [phenomenal intentionality thesis](/concepts/intentionality/#phenomenal-intentionality-theory) is correct, this aboutness itself requires phenomenal character. The epiphenomenalist's position is thus doubly self-stultifying: it denies causal efficacy to the very consciousness whose phenomenal character is required to give the denial its content.
 
@@ -76,7 +78,7 @@ The [argument-from-reason](/topics/argument-from-reason/) extends self-stultific
 
 This differs from the epiphenomenalism case. The epiphenomenalist grants that consciousness exists but denies it causes anything. The physicalist either identifies consciousness with brain activity (so there is nothing "extra" to cause anything) or reduces it to functional roles. Either way, the normative dimension of reasoning—the fact that conclusions *ought* to follow from premises—finds no foothold in a purely physical causal story.
 
-Wilfrid Sellars captured the tension: reasoning operates in the "space of reasons" (justification, entailment, norms), while physical causation operates in the "space of causes" (efficient causation, natural law). Even naturalists acknowledge this conceptual distinction. The self-stultification move exploits it: if the space of reasons reduces to the space of causes, then your belief in physicalism was produced by causes that have nothing to do with its justification.
+Wilfrid Sellars captured the tension: reasoning operates in the "space of reasons" (justification, entailment, norms), while physical causation operates in the "space of causes" (efficient causation, natural law). Even naturalists who reject Sellars' broader framework acknowledge this conceptual distinction—McDowell's *Mind and World* (1994), for instance, builds on it while remaining broadly naturalistic. The self-stultification move exploits it: if the space of reasons reduces to the space of causes, then your belief in physicalism was produced by causes that have nothing to do with its justification. The position fails the most basic test of [reasons-responsiveness](/concepts/reasons-responsiveness/): a belief produced entirely by non-rational causes cannot count as rationally held, regardless of whether it happens to be true.
 
 The [consciousness connection](/topics/argument-from-reason/#consciousness) makes this vivid: grasping that a conclusion *follows from* premises—seeing the logical necessity, not merely the statistical correlation—requires phenomenal awareness of reasons *as* reasons. The [phenomenal intentionality thesis](/concepts/intentionality/#phenomenal-intentionality-theory) deepens the point: genuine [intentionality](/concepts/intentionality/)—the *aboutness* of mental states—derives from phenomenal consciousness. Recognising that premises *entail* a conclusion is itself an intentional state directed at a logical relationship, and if intentionality requires phenomenal character, then tracking normative relationships cannot be a purely physical achievement. [Cognitive phenomenology](/concepts/cognitive-phenomenology/) provides the experiential evidence: understanding has irreducible phenomenal character beyond sensory accompaniments, and this character is what distinguishes genuine comprehension of *why* a conclusion follows from mere pattern-matching that it does.
 
@@ -173,6 +175,7 @@ The [epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) article show
 1. Huxley, T.H. (1874). "On the Hypothesis that Animals are Automata, and its History."
 1. James, W. (1879). "Are We Automata?" *Mind*, 4, 1-22.
 1. Lewis, C.S. (1947/1960). *Miracles: A Preliminary Study*. Geoffrey Bles.
+1. McDowell, J. (1994). *Mind and World*. Harvard University Press.
 1. Plantinga, A. (1993). *Warrant and Proper Function*. Oxford University Press.
 1. Reppert, V. (2003). *C.S. Lewis's Dangerous Idea*. InterVarsity Press.
 1. Sellars, W. (1956). "Empiricism and the Philosophy of Mind." *Minnesota Studies in the Philosophy of Science*, vol. 1.

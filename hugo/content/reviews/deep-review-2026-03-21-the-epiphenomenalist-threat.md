@@ -20,7 +20,7 @@ topics: []
 **Date**: 2026-03-21
 **Article**: [The Epiphenomenalist Threat](/topics/the-epiphenomenalist-threat/)
 **Previous review**: [2026-03-20c](/reviews/deep-review-2026-03-20c-the-epiphenomenalist-threat/)
-**Context**: Cross-review considering newly created [arguments-against-epiphenomenalism](/concepts/arguments-against-epiphenomenalism/) article
+**Context**: Cross-review considering newly created [arguments-against-epiphenomenalism](/concepts/epiphenomenalism/) article
 
 ## Pessimistic Analysis Summary
 
@@ -49,7 +49,7 @@ All strengths from prior reviews remain intact. The gravity well metaphor, degre
 - Added to Further Reading section with descriptive annotation
 
 ### Cross-links Added
-- [arguments-against-epiphenomenalism](/concepts/arguments-against-epiphenomenalism/)
+- [arguments-against-epiphenomenalism](/concepts/epiphenomenalism/)
 
 ## Word Count
 - Before: 3851 words
