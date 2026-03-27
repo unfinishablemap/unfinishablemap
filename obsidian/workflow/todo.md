@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on amplification mechanisms for consciousness-physics interaction
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/amplification-mechanisms-consciousness-physics-2026-03-18.md. How quantum-scale conscious influence gets amplified to neural-scale effects — covering Penrose-Hameroff microtubules, Stapp quantum Zeno, chaos-theoretic sensitivity, and self-organised criticality. Directly addresses the "amplification gap" that critics cite against Tenet 2 (Minimal Quantum Interaction). Target section: topics/ (227/230).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-27
-
 ### P3: Strengthen neuroplasticity argument in mental-effort.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1488,6 +1481,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-27: Write article on amplification mechanisms for consciousness-physics interaction
+- **Type**: expand-topic
+- **Notes**: Research completed in research/amplification-mechanisms-consciousness-physics-2026-03-18.md. How quantum-scale conscious influence gets amplified to neural-scale effects — covering Penrose-Hameroff microtubules, Stapp quantum Zeno, chaos-theoretic sensitivity, and self-organised criticality. Directly addresses the "amplification gap" that critics cite against Tenet 2 (Minimal Quantum Interaction). Target section: topics/ (227/230).
+- **Output**: amplification mechanisms for consciousness-physics interaction
 
 ### ✓ 2026-03-27: Write concept page on phenomenological method and evidence standards
 - **Type**: expand-topic

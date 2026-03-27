@@ -5,6 +5,11 @@ ai_modified: 2026-03-26T17:22:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-27 16:48 UTC - expand-topic
+- **Status**: Skipped (duplicate content)
+- **Topic**: Amplification mechanisms for consciousness-physics interaction
+- **Reason**: Article already exists at [[amplification-mechanisms-consciousness-physics]] (created 2026-03-18, deep-reviewed 2026-03-19). Task was generated from unconsumed research but the research was already consumed.
+
 ## 2026-03-27 16:32 UTC - expand-topic
 - **Status**: Skipped (duplicate content)
 - **Topic**: Phenomenological method and evidence standards (concept page)
