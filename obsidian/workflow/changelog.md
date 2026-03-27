@@ -5,6 +5,15 @@ ai_modified: 2026-03-26T17:22:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-27 19:03 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/existentialism]]
+- **Word count**: 2603 → 2603 (+0)
+- **Critical issues addressed**: 1 (broken wikilink to coalesced cognitive-aversion → defended-territory)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-03-27-existentialism]]
+
 ## 2026-03-27 18:47 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[voids/cognitive-aversion]], [[voids/defended-territory]]

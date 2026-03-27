@@ -4,7 +4,7 @@ description: "Existentialist philosophy's contributions to consciousness studies
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-03-26T14:03:00+00:00
+ai_modified: 2026-03-27T19:03:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -30,7 +30,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-30
 last_curated: null
-last_deep_review: 2026-03-05T07:07:00+00:00
+last_deep_review: 2026-03-27T19:03:00+00:00
 ---
 
 Existentialism offers The Unfinishable Map resources that extend beyond its traditional concerns with meaning, freedom, and authenticity. Two contributions stand out for consciousness studies: Sartre's analysis of the pour-soi (being-for-itself) anticipates the regress argument against [[illusionism]], and Heidegger's analysis of Dasein reveals why consciousness resists reduction to properties or functions. These insights strengthen the [[tenets#^dualism|Dualism tenet]] by demonstrating that consciousness has structural features incompatible with materialist reduction.
@@ -89,7 +89,7 @@ The Map's [[tenets#^dualism|Dualism tenet]] finds philosophical grounding here. 
 
 Existentialism emphasises that existence is always *mine*—first-person, unrepeatable, non-transferable. Heidegger calls this *Jemeinigkeit* (mineness). Sartre expresses it through the pour-soi's radical particularity. Both converge on what the Map calls [[haecceity]]: the unrepeatable thisness of a particular conscious subject. The [[ownership-void|ownership void]] examines why this mineness resists introspection—every attempt to examine ownership is itself already owned, trapping investigation in a distinctive recursion.
 
-Authentic existence means owning this particularity—choosing in full awareness that the choice is one's own, not determined by "what one does" (Heidegger's *das Man*). Inauthenticity means fleeing into the anonymous crowd, treating oneself as interchangeable with others. Heidegger's analysis of fallenness—the structural determination that Dasein evades its own being-towards-death—connects directly to [[cognitive-aversion|cognitive aversion]]: the systematic deflection from mortality that Terror Management Theory documents empirically.
+Authentic existence means owning this particularity—choosing in full awareness that the choice is one's own, not determined by "what one does" (Heidegger's *das Man*). Inauthenticity means fleeing into the anonymous crowd, treating oneself as interchangeable with others. Heidegger's analysis of fallenness—the structural determination that Dasein evades its own being-towards-death—connects directly to [[defended-territory|defended territory]]: the systematic deflection from mortality that Terror Management Theory documents empirically.
 
 This connects to the [[tenets#^no-many-worlds|No Many Worlds tenet]]. The Many-Worlds interpretation holds that every quantum measurement actualises all outcomes across branching universes. Every choice produces copies making every alternative. But existentialist authenticity presupposes that choices genuinely select—that when I choose, I am not simultaneously choosing every alternative in other branches.
 
