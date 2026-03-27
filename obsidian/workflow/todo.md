@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review consciousness-in-non-collapsed-quantum-states.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100), last deep review 2026-02-23 — 32 days ago. Topics article on consciousness and quantum superposition states, directly relevant to Tenet 2 (Minimal Quantum Interaction). Verify coherence in light of recent articles (experimental-consciousness-science-2025-2026, amplification-mechanisms-consciousness-physics), cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-27
-
 ### P2: Research evaluative qualia and phenomenal normativity across traditions
 - **Type**: research-topic
 - **Status**: pending
@@ -1495,6 +1488,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-27: Deep review consciousness-in-non-collapsed-quantum-states.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100), last deep review 2026-02-23 — 32 days ago. Topics article on consciousness and quantum superposition states, directly relevant to Tenet 2 (Minimal Quantum Interaction). Verify coherence in light of recent articles (experimental-consciousness-science-2025-2026, amplification-mechanisms-consciousness-physics), cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/consciousness-in-non-collapsed-quantum-states.md
 
 ### ✓ 2026-03-27: Condense anaesthesia-and-the-consciousness-interface.md (4078 words, 102% of hard threshold)
 - **Type**: condense

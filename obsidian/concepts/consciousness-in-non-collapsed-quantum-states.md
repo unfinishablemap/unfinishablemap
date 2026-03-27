@@ -4,7 +4,7 @@ description: "Exploring what consciousness does during quantum superposition —
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-23T18:20:00+00:00
+ai_modified: 2026-03-27T18:32:00+00:00
 draft: false
 topics:
   - "[[consciousness-in-smeared-quantum-states]]"
@@ -22,12 +22,14 @@ related_articles:
   - "[[spontaneous-collapse-theories]]"
   - "[[indexical-identity-quantum-measurement]]"
   - "[[consciousness-non-collapsed-quantum-states-2026-02-10]]"
+  - "[[von-neumann-wigner-interpretation]]"
+  - "[[consciousness-selecting-neural-patterns]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-22
 last_curated:
-last_deep_review: 2026-02-23T18:20:00+00:00
+last_deep_review: 2026-03-27T18:32:00+00:00
 ---
 
 If consciousness interacts with quantum mechanics at the point of collapse, a prior question demands attention: what is consciousness doing *before* collapse, when the relevant brain states exist in superposition — simultaneously occupying multiple possible configurations? The Unfinishable Map treats consciousness as a selector among superposed neural states. But the selector must exist during the superposition phase in order to act on it — and that raises a problem with no clean answer. The non-collapsed quantum state is where the interaction must begin, yet we have almost no philosophical framework for what consciousness is or does in that interval.
@@ -38,7 +40,9 @@ This concept examines the pre-collapse phase specifically — the philosophical 
 
 The deepest difficulty is phenomenological. We can describe what it is like to see red, hear a note, or feel pain. We have no corresponding description of what it is like to be in an indeterminate state between seeing red and seeing blue. The very grammar of phenomenal description assumes determinacy — "what it is like" presupposes a definite experiential character.
 
-This is not merely a gap in philosophical vocabulary. It may reflect a structural feature of consciousness itself. If experience is constitutively determinate — if being indeterminate is something experience *cannot* be — then consciousness in a non-collapsed quantum state faces a logical constraint, not just an empirical one. The connection to [[indexical-knowledge-and-identity|indexical identity]] deepens the point: consciousness is always *someone's* consciousness, experienced from a particular first-person perspective. There is no "what it is like" without a determinate subject having a determinate experience. Superposition dissolves both requirements simultaneously. The superposition exists; the brain participates in it; but consciousness either refuses to follow the brain into indeterminacy or was never the kind of thing that could.
+One response — Dennett's heterophenomenological approach — is that the determinacy of experience is itself an illusion: we only *seem* to have fully determinate experiences, and the seeming is itself a physical process. But this move proves too much. If determinacy is illusory, it remains unexplained why the illusion is so thoroughgoing and universal. The hard problem reasserts itself: why does any physical process generate even the *appearance* of determinacy? The phenomenological gap is not dissolved by calling it apparent.
+
+This gap is not merely one of philosophical vocabulary. It may reflect a structural feature of consciousness itself. If experience is constitutively determinate — if being indeterminate is something experience *cannot* be — then consciousness in a non-collapsed quantum state faces a logical constraint, not just an empirical one. The connection to [[indexical-knowledge-and-identity|indexical identity]] deepens the point: consciousness is always *someone's* consciousness, experienced from a particular first-person perspective. There is no "what it is like" without a determinate subject having a determinate experience. Superposition dissolves both requirements simultaneously. The superposition exists; the brain participates in it; but consciousness either refuses to follow the brain into indeterminacy or was never the kind of thing that could.
 
 Three logical possibilities emerge:
 
@@ -46,13 +50,13 @@ Three logical possibilities emerge:
 
 **Consciousness is present but indeterminate.** Perhaps experience during superposition is genuinely indefinite — a smear across possible experiential states without any single one being actual. Koch and collaborators have proposed something in this direction, suggesting that the richness of superposition might correspond to the richness of experience. This would mean consciousness doesn't require definiteness, challenging what nearly all other frameworks assume. The difficulty is that no one has articulated what indeterminate experience would be like, and it may be that the request is incoherent — an experience without definite character may be no experience at all.
 
-**Consciousness is present and definite, selecting among the superposed possibilities.** This is [[stapp-quantum-mind|Stapp's position]] and the one most aligned with the Map's tenets. All three major [[non-retrocausal-conscious-selection-models|non-retrocausal selection frameworks]] — Stapp's Zeno approach, Penrose-Hameroff Orch OR, and Chalmers-McQueen CSL — adopt some version of this option. Consciousness maintains its determinacy throughout, acting as the selector that resolves superposition into definite outcome. The mind is never in the same indeterminate state as the brain. Rather, consciousness operates *on* the superposition from a position of experiential definiteness.
+**Consciousness is present and definite, selecting among the superposed possibilities.** This is [[stapp-quantum-mind|Stapp's position]] and the one most aligned with the Map's tenets — the core mechanism described in [[consciousness-selecting-neural-patterns|consciousness selecting neural patterns]]. All three major [[non-retrocausal-conscious-selection-models|non-retrocausal selection frameworks]] — Stapp's Zeno approach, Penrose-Hameroff Orch OR, and Chalmers-McQueen CSL — adopt some version of this option. Consciousness maintains its determinacy throughout, acting as the selector that resolves superposition into definite outcome. The mind is never in the same indeterminate state as the brain. Rather, consciousness operates *on* the superposition from a position of experiential definiteness.
 
 ## The Definiteness Constraint
 
 Albert and Loewer identified the core issue precisely: the [[measurement-problem]] is really the "determinate-experience problem." Quantum mechanics predicts that measurement devices enter superposition. Brains are measurement devices. Therefore brains should enter superposition. Yet conscious experience is never superposed.
 
-Something prevents consciousness from inheriting the indeterminacy of its physical substrate. This "definiteness constraint" is not a consequence of any known physical law. [[decoherence|Decoherence]] suppresses interference but does not select a single outcome. [[spontaneous-collapse-theories|Spontaneous collapse theories]] (GRW, CSL) provide objective state reduction but do not explain *why* the collapse produces experiences with determinate character. The definiteness constraint appears to be a feature of consciousness itself — an irreducibly mental fact that physics must accommodate rather than explain.
+Something prevents consciousness from inheriting the indeterminacy of its physical substrate. The [[von-neumann-wigner-interpretation|von Neumann–Wigner interpretation]] was the first to take this observation seriously, placing consciousness at the end of the measurement chain as the point where superposition resolves into definite outcome. This "definiteness constraint" is not a consequence of any known physical law. [[decoherence|Decoherence]] suppresses interference but does not select a single outcome. [[spontaneous-collapse-theories|Spontaneous collapse theories]] (GRW, CSL) provide objective state reduction but do not explain *why* the collapse produces experiences with determinate character. The definiteness constraint appears to be a feature of consciousness itself — an irreducibly mental fact that physics must accommodate rather than explain.
 
 Chalmers and McQueen formalised this intuition: integrated information (Φ) resists superposition. When a physical system's Φ value enters superposition across different values, collapse is triggered. The definiteness of experience is not passively maintained; it *actively* prevents consciousness from existing in superposition. "The upshot is not that consciousness-collapse interpretations are clearly correct, but that there is a research program here worth exploring," they write — a deliberately cautious framing that nonetheless establishes the viability of consciousness as a collapse trigger.
 
@@ -96,6 +100,8 @@ The Map's [[tenets]] commit to consciousness as an active selector among superpo
 - [[spontaneous-collapse-theories]]
 - [[indexical-identity-quantum-measurement]]
 - [[indexical-knowledge-and-identity]]
+- [[von-neumann-wigner-interpretation]]
+- [[consciousness-selecting-neural-patterns]]
 
 ## References
 

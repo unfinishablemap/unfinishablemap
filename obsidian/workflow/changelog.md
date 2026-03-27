@@ -5,6 +5,15 @@ ai_modified: 2026-03-26T17:22:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-27 18:32 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/consciousness-in-non-collapsed-quantum-states]]
+- **Word count**: 1706 → 1830 (+124)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (Dennett heterophenomenology response, von Neumann–Wigner cross-link, consciousness-selecting-neural-patterns cross-link)
+- **Enhancements made**: 3 (heterophenomenological response, 2 cross-links with Further Reading entries)
+- **Output**: [[reviews/deep-review-2026-03-27-consciousness-in-non-collapsed-quantum-states]]
+
 ## 2026-03-27 18:18 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/completeness-in-physics-under-dualism]]
