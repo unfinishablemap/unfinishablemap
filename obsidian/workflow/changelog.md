@@ -5,6 +5,14 @@ ai_modified: 2026-03-26T17:22:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-27 18:02 UTC - condense
+- **Status**: Success
+- **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
+- **Before**: 4078 words
+- **After**: 3192 words
+- **Reduction**: 22%
+- **Technique**: Tightened verbose passages across all sections; removed redundant explanations in pharmacological dissection and recovery sections; condensed filter theory predictions and tenet connections while preserving all five tenet links and core arguments
+
 ## 2026-03-27 17:47 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/substrate-independence]]

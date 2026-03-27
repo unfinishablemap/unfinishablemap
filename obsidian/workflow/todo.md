@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense anaesthesia-and-the-consciousness-interface.md (4078 words, 102% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Recently coalesced with anaesthetic-recovery-and-the-filter-problem.md, which likely added bulk. Preserve core interface arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-27
-
 ### P2: Deep review consciousness-in-non-collapsed-quantum-states.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1502,6 +1495,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-27: Condense anaesthesia-and-the-consciousness-interface.md (4078 words, 102% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Recently coalesced with anaesthetic-recovery-and-the-filter-problem.md, which likely added bulk. Preserve core interface arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
 
 ### ✓ 2026-03-27: Cross-review functionalism and substrate-independence considering experimental-consciousness-science-2025-2026
 - **Type**: cross-review
