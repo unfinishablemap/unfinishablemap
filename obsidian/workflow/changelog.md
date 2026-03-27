@@ -5,6 +5,13 @@ ai_modified: 2026-03-26T17:22:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-27 17:17 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Completeness in Physics Under Dualism
+- **Output**: [[completeness-in-physics-under-dualism]]
+- **Word count**: 1942
+- **Based on research**: yes ([[completeness-in-physics-epr-bell-2026-03-14]], [[completeness-in-physics-epr-bell-2026-03-17]])
+
 ## 2026-03-27 17:11 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/llm-consciousness]]

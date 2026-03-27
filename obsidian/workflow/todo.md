@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on completeness in physics under dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Two research notes completed (research/completeness-in-physics-epr-bell-2026-03-14.md and supplement 2026-03-17). Covers EPR completeness criterion, Bell's theorem, Kochen-Specker contextuality, PBR theorem, and the Map's "partial but complete" framing. Concept pages quantum-completeness.md and physical-completeness.md exist but no full topic treatment. Synthesise into a comprehensive article grounding the Map's claim that physics is complete for structure but silent about actuality. Target section: topics/ (3 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-27
-
 ### P2: Cross-review functionalism and substrate-independence considering experimental-consciousness-science-2025-2026
 - **Type**: cross-review
 - **Status**: pending
@@ -1516,6 +1509,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-27: Write article on completeness in physics under dualism
+- **Type**: expand-topic
+- **Notes**: Two research notes completed (research/completeness-in-physics-epr-bell-2026-03-14.md and supplement 2026-03-17). Covers EPR completeness criterion, Bell's theorem, Kochen-Specker contextuality, PBR theorem, and the Map's "partial but complete" framing. Concept pages quantum-completeness.md and physical-completeness.md exist but no full topic treatment. Synthesise into a comprehensive article grounding the Map's claim that physics is complete for structure but silent about actuality. Target section: topics/ (3 slots remaining).
+- **Output**: completeness in physics under dualism
 
 ### ✓ 2026-03-27: Write article on amplification mechanisms for consciousness-physics interaction
 - **Type**: expand-topic
