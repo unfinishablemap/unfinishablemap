@@ -5,6 +5,15 @@ ai_modified: 2026-03-26T17:22:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-27 19:48 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/embodied-cognition]]
+- **Word count**: 3011 → 3048 (+37)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 6
+- **Output**: [[reviews/deep-review-2026-03-27-embodied-cognition]]
+
 ## 2026-03-27 19:39 UTC - deep-review
 - **Status**: Success
 - **Files**: [[concepts/causal-closure]], [[concepts/physics-as-disclosure]]

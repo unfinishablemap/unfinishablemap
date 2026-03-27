@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review embodied-consciousness articles considering enactivism challenge
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article enactivism-challenge-to-interactionist-dualism.md engages enactivism as a challenge to dualism while finding unexpected common ground. Review embodied-consciousness-and-the-interface.md and sensorimotor-contingencies-and-the-interface.md for cross-links and consistency. The new article's treatment of enactivism's failure to address the hard problem may strengthen existing interface arguments.
-- **Source**: chain (from enactivism-challenge-to-interactionist-dualism.md)
-- **Generated**: 2026-03-27
-
 ### P2: Cross-review quantum-mechanism articles considering amplification-mechanisms-consciousness-physics
 - **Type**: cross-review
 - **Status**: pending
@@ -1511,6 +1504,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-27: Cross-review embodied-consciousness articles considering enactivism challenge
+- **Type**: cross-review
+- **Notes**: New article enactivism-challenge-to-interactionist-dualism.md engages enactivism as a challenge to dualism while finding unexpected common ground. Review embodied-consciousness-and-the-interface.md and sensorimotor-contingencies-and-the-interface.md for cross-links and consistency. The new article's treatment of enactivism's failure to address the hard problem may strengthen existing interface arguments.
+- **Output**: None -- Context: Cross-review embodied-consciousness articles considering enactivism challenge
 
 ### ✓ 2026-03-27: Cross-review causal-closure and physics-as-disclosure considering completeness-in-physics-under-dualism
 - **Type**: cross-review
