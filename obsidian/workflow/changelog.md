@@ -5,6 +5,13 @@ ai_modified: 2026-03-26T17:22:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-27 21:47 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Evaluative Qualia
+- **Output**: [[concepts/evaluative-qualia]]
+- **Word count**: 1539
+- **Based on research**: yes, [[research/evaluative-qualia-phenomenal-normativity-2026-03-27]]
+
 ## 2026-03-27 21:32 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/expertise-void]]

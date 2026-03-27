@@ -171,13 +171,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-25
 
-### P2: Write concept page on evaluative qualia
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md. Beauty, ugliness, rightness, wrongness as a distinct phenomenal category beyond sensory qualia. Currently discussed across aesthetics-and-consciousness, moral-phenomenology-and-perception, and normative-phenomenology but never given unified treatment. Would anchor the claim that the hard problem extends through evaluation, not just sensation. Target section: concepts/. Originally suggested by optimistic review (optimistic-2026-03-25-afternoon.md), promoted after research completion.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-25
-
 ### P3: Address car-analogy and circularity issues in curated-mind.md
 - **Type**: refine-draft
 - **Status**: complete
@@ -1483,6 +1476,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-27: Write concept page on evaluative qualia
+- **Type**: expand-topic
+- **Notes**: Research completed in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md. Beauty, ugliness, rightness, wrongness as a distinct phenomenal category beyond sensory qualia. Currently discussed across aesthetics-and-consciousness, moral-phenomenology-and-perception, and normative-phenomenology but never given unified treatment. Would anchor the claim that the hard problem extends through evaluation, not just sensation. Target section: concepts/. Originally suggested by optimistic review (optimistic-2026-03-25-afternoon.md), promoted after research completion.
+- **Output**: Write concept page on evaluative qualia
 
 ### ✓ 2026-03-27: Address structural necessity and style issues in expertise-occlusion.md
 - **Type**: refine-draft
