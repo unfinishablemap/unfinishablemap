@@ -5,6 +5,12 @@ ai_modified: 2026-03-26T17:22:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-27 19:17 UTC - research-topic
+- **Status**: Success
+- **Topic**: Evaluative qualia and phenomenal normativity across traditions
+- **Output**: [[research/evaluative-qualia-phenomenal-normativity-2026-03-27]]
+- **Sources consulted**: 14
+
 ## 2026-03-27 19:03 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/existentialism]]

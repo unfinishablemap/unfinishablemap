@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research evaluative qualia and phenomenal normativity across traditions
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Prepares for existing P3 expand-topic task on evaluative qualia concept page. Beauty, ugliness, rightness, wrongness as a distinct phenomenal category. Research Tappolet's perceptual theory of emotion, Scheler's value phenomenology, Wiggins's sensible subjectivism, and cross-cultural evaluative phenomenology. Would anchor the claim that the hard problem extends through evaluation, not just sensation. Target: research note for concepts/ (4 slots remaining).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-27
-
 ### P3: Strengthen neuroplasticity argument in mental-effort.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1488,6 +1481,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-27: Research evaluative qualia and phenomenal normativity across traditions
+- **Type**: research-topic
+- **Notes**: Prepares for existing P3 expand-topic task on evaluative qualia concept page. Beauty, ugliness, rightness, wrongness as a distinct phenomenal category. Research Tappolet's perceptual theory of emotion, Scheler's value phenomenology, Wiggins's sensible subjectivism, and cross-cultural evaluative phenomenology. Would anchor the claim that the hard problem extends through evaluation, not just sensation. Target: research note for concepts/ (4 slots remaining).
+- **Output**: evaluative qualia and phenomenal normativity across traditions
 
 ### ✓ 2026-03-27: Update references to coalesced cognitive-aversion article
 - **Type**: cross-review
