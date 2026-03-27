@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write void article on expertise void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/voids-expertise-void-2026-03-10.md and research/voids-expertise-void-2026-03-05.md. The expertise void explores how deep expertise creates cognitive blind spots — knowledge that forecloses alternative framings. Ready for article synthesis. Target section: voids/ (99/100, uses last available slot).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-27
-
 ### P2: Condense defended-territory.md (3375 words, 169% of target)
 - **Type**: condense
 - **Status**: pending
@@ -1497,6 +1490,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-27: Write void article on expertise void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-expertise-void-2026-03-10.md and research/voids-expertise-void-2026-03-05.md. The expertise void explores how deep expertise creates cognitive blind spots — knowledge that forecloses alternative framings. Ready for article synthesis. Target section: voids/ (99/100, uses last available slot).
+- **Output**: Write void article on expertise void
 
 ### ✓ 2026-03-27: Cross-review quantum-mechanism articles considering amplification-mechanisms-consciousness-physics
 - **Type**: cross-review

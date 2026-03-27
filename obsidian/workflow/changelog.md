@@ -5,6 +5,13 @@ ai_modified: 2026-03-26T17:22:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-27 20:33 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Expertise Occlusion
+- **Output**: [[voids/expertise-occlusion]]
+- **Word count**: 1486
+- **Based on research**: yes, [[research/voids-expertise-void-2026-03-10]] and [[research/voids-expertise-void-2026-03-05]]
+
 ## 2026-03-27 20:17 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/psychophysical-laws]]

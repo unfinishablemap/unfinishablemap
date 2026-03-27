@@ -132,6 +132,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[attention-created-voids|Attention-Created Voids]] — What attention excludes by selecting
 - [[habituation-void|The Habituation Void]] — How familiarity erases experience from consciousness
 - [[absorption-void|The Absorption Void]] — Peak conscious engagement is peak self-opacity
+- [[expertise-occlusion|The Expertise Occlusion]] — How mastery actively defends its own opacity
 - [[appetitive-void|The Appetitive Void]] — How desire constitutes cognition rather than merely distorting it
 - [[destabilizing-self-knowledge|Destabilizing Self-Knowledge]] — Knowledge that undermines its own conditions
 - [[self-opacity|The Phenomenology of Self-Awareness]] — Self-reference, error-blindness, and the bootstrap problem of self-correction
