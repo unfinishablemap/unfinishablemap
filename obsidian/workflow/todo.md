@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for epistemological-limits-of-occams-razor
-- **Type**: expand-topic
-- **Notes**: Referenced by 18 wikilinks across active content but has no dedicated page. Research completed in research/epistemological-limits-occams-razor-consciousness-2026-02-06.md. Directly supports Tenet 5 (Occam's Razor Has Limits) — the Map's epistemological programme needs a concept page grounding when and why parsimony fails for consciousness. Target section: concepts/ (226/230, 4 slots remaining).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-27
-
 ### P2: Cross-review qualia.md considering evaluative-qualia insights
 - **Type**: cross-review
 - **Notes**: New concept page concepts/evaluative-qualia.md created 2026-03-27 extends the qualia concept into evaluative territory (beauty, ugliness, rightness, wrongness). The parent qualia.md page should reference this new subcategory and note that the hard problem extends through evaluation, not just sensation. evaluative-qualia.md currently has 0 inbound content links — this review should add the first.
@@ -1504,8 +1498,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-26
 
+### P3: Write concept page on reflexive methodology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map increasingly deploys arguments that turn frameworks against themselves (pragmatism → dualism, causal closure → deflation, Russellian monism → instability, biological computationalism → functionalism destruction). A concept page formalising this pattern would make the epistemological strategy explicit. Builds on argument-from-reason, pragmatisms-path-to-dualism, self-stultification, completeness-in-physics-under-dualism, enactivism-challenge-to-interactionist-dualism. Target section: concepts/. See optimistic-2026-03-27-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-27
+
+### P3: Write article on Aristotelian hylomorphism and the Map's dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Hylomorphism (form-matter composition) treats mind as the form of the body without reducing it to physical structure—a natural ally for interactionist dualism. Currently absent from the corpus despite being the dominant pre-modern Western view and directly relevant to substance-property-dualism, emergence-as-universal-hard-problem. Aquinas, Scotus, and medieval tradition anticipated modern debates. Target section: topics/. See optimistic-2026-03-27-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-27
+
+### P3: Write article on moral phenomenology programme
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Evaluative qualia has opened a path from the hard problem to ethics. A dedicated article mapping how moral experience (guilt, obligation, dignity, compassion) constitutes irreducible phenomenal data would strengthen the ethics programme. Builds on evaluative-qualia, phenomenal-value-realism, phenomenal-normativity-environmental-ethics, consciousness-value-connection. Target section: topics/. See optimistic-2026-03-27-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-27
+
+### P3: Add cross-links between completeness-in-physics, psychophysical-laws, and emergence articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Six cross-linking opportunities: evaluative-qualia → moral-phenomenology (grounds ethics programme), completeness-in-physics → psychophysical-laws (completeness gap is where laws operate), argument-from-reason → evaluative-qualia (rational evaluation has phenomenal character), emergence-as-universal-hard-problem → completeness-in-physics (universal emergence shows structural ≠ ontological), parsimony-case → completeness-in-physics (parsimony reversal strengthened), expertise-void → embodied-cognition (skill acquisition as phenomenological transformation). See optimistic-2026-03-27-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-27
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-27: Create concept page for epistemological-limits-of-occams-razor
+- **Type**: expand-topic
+- **Notes**: Referenced by 18 wikilinks across active content but has no dedicated page. Research completed in research/epistemological-limits-occams-razor-consciousness-2026-02-06.md. Directly supports Tenet 5 (Occam's Razor Has Limits) — the Map's epistemological programme needs a concept page grounding when and why parsimony fails for consciousness. Target section: concepts/ (226/230, 4 slots remaining).
+- **Output**: Create concept page for epistemological-limits-of-occams-razor
 
 ### ✓ 2026-03-27: Write concept page on evaluative qualia
 - **Type**: expand-topic
