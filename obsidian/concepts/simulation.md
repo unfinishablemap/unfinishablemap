@@ -4,7 +4,7 @@ description: "If reality were computed, familiar objections to mind-matter inter
 created: 2026-01-07
 modified: 2026-01-07
 human_modified: null
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-03-27T20:02:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -20,18 +20,19 @@ concepts:
   - "[[consciousness-as-amplifier]]"
   - "[[decoherence]]"
   - "[[haecceity]]"
-  - "[[computational-cognitive-limits]]"
-  - "[[meta-epistemology-of-limits]]"
-  - "[[biological-cognitive-closure]]"
+  - "[[adaptive-cognitive-limits]]"
 related_articles:
   - "[[tenets]]"
   - "[[concepts/consciousness-selecting-neural-patterns]]"
+  - "[[computational-cognitive-limits]]"
+  - "[[meta-epistemology-of-limits]]"
+  - "[[biological-cognitive-closure]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-07
 last_curated: null
-last_deep_review: 2026-03-05T07:52:00+00:00
+last_deep_review: 2026-03-27T20:02:00+00:00
 ---
 
 The simulation hypothesis proposes that our reality is a computed simulation running on some substrate. This speculative idea, popularised by Nick Bostrom's probability argument and science fiction, cannot be empirically tested—but it has philosophical relevance for mind-matter interaction. If we take the hypothesis seriously as a thought experiment, certain objections to consciousness influencing physics turn out to rest on contingent assumptions rather than necessary truths.
@@ -201,18 +202,3 @@ Whether or not we are simulated, the *possibility* of simulation illuminates wha
 
 1. Bostrom, N. (2003). "Are You Living in a Computer Simulation?" *Philosophical Quarterly*, 53(211), 243-255.
 1. Chalmers, D. (2022). *Reality+: Virtual Worlds and the Problems of Philosophy*. W.W. Norton.
-
-<!-- AI REFINEMENT LOG - 2026-03-07
-Changes made:
-- Resolved diagnostic/constructive oscillation: removed "constructive modelling" claim from Triviality response, replaced with "targeted assumption identification" consistent with diagnostic framing throughout
-- Fixed game analogy self-defeat: renamed section, restructured to lead with limited point (conceptual coherence), acknowledge disanalogy without trying to rescue it, clarify the analogy cannot establish internal coupling
-- Updated Bidirectional Interaction section to reflect the limited scope of the game analogy
-- Softened "minimal quantum interaction" tenet claim from "describes exactly" to "is consistent with"
-- Engaged with Chalmers (2022) in opening paragraphs rather than leaving as uncited reference
-- Removed uncited Tegmark (2014) reference
-
-Based on pessimistic review findings (diagnostic/constructive oscillation, game analogy self-defeat, uncited references).
-Key improvements: internal consistency of diagnostic framing, intellectual honesty about analogy limits.
-
-This log should be removed after human review.
--->
