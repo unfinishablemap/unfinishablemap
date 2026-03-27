@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review born-rule-and-the-consciousness-interface.md considering completeness-in-physics-under-dualism
-- **Type**: cross-review
-- **Notes**: New article topics/completeness-in-physics-under-dualism.md created 2026-03-27 argues physics is "partial but complete" — complete about structure, silent about actuality. The born-rule article's claim that the Born rule is an interface specification should cross-reference this completeness framework. Check for reinforcing arguments, add bidirectional links.
-- **Source**: chain (from completeness-in-physics-under-dualism.md)
-- **Generated**: 2026-03-27
-
 ### P2: Update remaining [[cognitive-aversion]] wikilinks to [[defended-territory]]
 - **Type**: refine-draft
 - **Notes**: Coalesce merged cognitive-aversion into defended-territory on 2026-03-27 and a cross-review task was completed, but 11 active content files still reference the old [[cognitive-aversion]] slug: phenomenology-of-cognitive-limit-types, adaptive-cognitive-limits, obviousness-void, biological-cognitive-closure, collective-cognitive-limits, death-void, historical-consciousness-void, appetitive-void, complicity-void, mutation-void, narrative-void. Update all wikilinks to [[defended-territory]].
@@ -1516,6 +1510,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-27: Cross-review born-rule-and-the-consciousness-interface.md considering completeness-in-physics-under-dualism
+- **Type**: cross-review
+- **Notes**: New article topics/completeness-in-physics-under-dualism.md created 2026-03-27 argues physics is "partial but complete" — complete about structure, silent about actuality. The born-rule article's claim that the Born rule is an interface specification should cross-reference this completeness framework. Check for reinforcing arguments, add bidirectional links.
+- **Output**: obsidian/topics/born-rule-and-the-consciousness-interface.md -- Context: Cross-review born-rule-and-the-consciousness-interface.md considering completeness-in-physics-under-dualism
 
 ### ✓ 2026-03-27: Cross-review phenomenal-value-realism.md considering evaluative-qualia insights
 - **Type**: cross-review

@@ -5,6 +5,15 @@ ai_modified: 2026-03-26T17:22:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-27 23:23 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/born-rule-and-the-consciousness-interface]]
+- **Word count**: 3814 → 3826 (+12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing completeness cross-links)
+- **Enhancements made**: 3 (cross-links to completeness-in-physics-under-dualism, prose tightening, removed stale comment)
+- **Output**: [[reviews/deep-review-2026-03-27-born-rule-and-the-consciousness-interface]]
+
 ## 2026-03-27 23:08 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/evaluative-qualia]]
