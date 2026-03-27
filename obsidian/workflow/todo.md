@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced cognitive-aversion article
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce merged cognitive-aversion into defended-territory. The following active content files reference [[cognitive-aversion]] and may need wikilinks updated to [[defended-territory]]: narrative-void, mutation-void, complicity-void, appetitive-void, simulation-detection-void, thoughts-that-slip-away, historical-consciousness-void, death-void, voids (index), collective-cognitive-limits, biological-cognitive-closure, phenomenology-of-the-edge, obviousness-void, adaptive-cognitive-limits, phenomenology-of-cognitive-limit-types, existentialism. Archive redirects preserve URLs but active content should link to the living article.
+- **Source**: coalesce
+- **Generated**: 2026-03-27
+
 ### P2: Research evaluative qualia and phenomenal normativity across traditions
 - **Type**: research-topic
 - **Status**: pending

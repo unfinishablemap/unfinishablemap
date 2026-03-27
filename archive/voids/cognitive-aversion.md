@@ -7,6 +7,11 @@ human_modified: null
 ai_modified: 2026-03-26T14:03:00+00:00
 draft: false
 last_deep_review: 2026-02-25T03:39:00+00:00
+archived: true
+archived_date: 2026-03-27T18:47:00+00:00
+superseded_by: "/voids/defended-territory/"
+archive_reason: "Coalesced into Defended Territory"
+original_path: "/voids/cognitive-aversion/"
 topics: []
 concepts:
   - "[[mysterianism]]"

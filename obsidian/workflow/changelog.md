@@ -5,6 +5,13 @@ ai_modified: 2026-03-26T17:22:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-27 18:47 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/cognitive-aversion]], [[voids/defended-territory]]
+- **Target**: [[voids/defended-territory]]
+- **Archived**: [[archive/voids/cognitive-aversion]]
+- **References to review**: ~17 active content files reference cognitive-aversion and may need updating
+
 ## 2026-03-27 18:32 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/consciousness-in-non-collapsed-quantum-states]]
