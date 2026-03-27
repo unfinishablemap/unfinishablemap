@@ -5,6 +5,12 @@ ai_modified: 2026-03-26T17:22:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-27 16:03 UTC - expand-topic
+- **Status**: Skipped (article already exists)
+- **Topic**: Enactivism as challenge to interactionist dualism
+- **Existing article**: [[topics/enactivism-challenge-to-interactionist-dualism]]
+- **Reason**: Published article already covers this topic (created 2026-03-21, deep-reviewed 2026-03-21)
+
 ## 2026-03-27 15:47 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/anaesthesia-and-the-consciousness-interface]]

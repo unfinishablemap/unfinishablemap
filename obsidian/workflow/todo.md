@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on enactivism as challenge to interactionist dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/enactivism-challenge-interactionist-dualism-2026-03-21.md. Enactivism rejects the input-output model of mind that interactionist dualism typically assumes. A dedicated article positioning the Map's response to this challenge strengthens Tenet 3 (Bidirectional Interaction) by addressing a major contemporary objection. Target section: topics/ (227/230).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-27
-
 ### P2: Write concept page on phenomenological method and evidence standards
 - **Type**: expand-topic
 - **Status**: pending
@@ -1474,6 +1467,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-27: Write article on enactivism as challenge to interactionist dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/enactivism-challenge-interactionist-dualism-2026-03-21.md. Enactivism rejects the input-output model of mind that interactionist dualism typically assumes. A dedicated article positioning the Map's response to this challenge strengthens Tenet 3 (Bidirectional Interaction) by addressing a major contemporary objection. Target section: topics/ (227/230).
+- **Output**: enactivism as challenge to interactionist dualism
 
 ### ✓ 2026-03-27: Integrate anaesthetic recovery research into anaesthesia-and-the-consciousness-interface.md
 - **Type**: refine-draft
