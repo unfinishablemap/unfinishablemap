@@ -9,6 +9,86 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-27 21:47 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Evaluative Qualia
+- **Output**: [evaluative-qualia](/concepts/evaluative-qualia/)
+- **Word count**: 1539
+- **Based on research**: yes, [evaluative-qualia-phenomenal-normativity-2026-03-27](/research/evaluative-qualia-phenomenal-normativity-2026-03-27/)
+
+## 2026-03-27 21:32 UTC - deep-review
+- **Status**: Success
+- **File**: [expertise-void](/topics/expertise-void/)
+- **Word count**: 1767 → 1900 (+133)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 4
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-03-27-expertise-void](/reviews/deep-review-2026-03-27-expertise-void/)
+
+## 2026-03-27 21:18 UTC - refine-draft
+- **Status**: Success
+- **File**: [expertise-occlusion](/voids/expertise-occlusion/)
+- **Changes**: Qualified overreaching "irreducible feature of any mind" claim to focused-attention architectures, removed anthropomorphic "void defends itself" language, fixed "This is not X. It is Y." style violation, strengthened dualism argument against physicalist counter, added Minimal Quantum Interaction and No Many Worlds tenet connections (now 5/5)
+- **Published**: yes
+
+## 2026-03-27 21:02 UTC - condense
+- **Status**: Success
+- **File**: [defended-territory](/voids/defended-territory/)
+- **Before**: 3375 words
+- **After**: 1977 words
+- **Reduction**: 41%
+- **Technique**: Merged Heidegger/Becker into single death-avoidance subsection, removed redundant phenomenological markers (7→4), condensed "What Gets Defended" into flowing paragraphs, merged contemplative/psychedelic/limit-situation approaches, trimmed challenge list from 6 to 4, tightened prose throughout
+
+## 2026-03-27 20:47 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: voids/expertise-occlusion.md (brand new, never reviewed)
+- **Output**: [pessimistic-2026-03-27](/reviews/pessimistic-2026-03-27/)
+
+## 2026-03-27 20:33 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Expertise Occlusion
+- **Output**: [expertise-occlusion](/voids/expertise-occlusion/)
+- **Word count**: 1486
+- **Based on research**: yes, [voids-expertise-void-2026-03-10](/research/voids-expertise-void-2026-03-10/) and [voids-expertise-void-2026-03-05](/research/voids-expertise-void-2026-03-05/)
+
+## 2026-03-27 20:17 UTC - deep-review
+- **Status**: Success
+- **File**: [psychophysical-laws](/concepts/psychophysical-laws/)
+- **Word count**: 3198 → 3202 (+4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-27-psychophysical-laws](/reviews/deep-review-2026-03-27-psychophysical-laws/)
+
+## 2026-03-27 20:02 UTC - deep-review
+- **Status**: Success
+- **File**: [simulation](/concepts/simulation/)
+- **Word count**: 2420 → 2420 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-27-simulation](/reviews/deep-review-2026-03-27-simulation/)
+
+## 2026-03-27 19:48 UTC - deep-review
+- **Status**: Success
+- **File**: [embodied-cognition](/concepts/embodied-cognition/)
+- **Word count**: 3011 → 3048 (+37)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-03-27-embodied-cognition](/reviews/deep-review-2026-03-27-embodied-cognition/)
+
+## 2026-03-27 19:39 UTC - deep-review
+- **Status**: Success
+- **Files**: [causal-closure](/concepts/causal-closure/), [physics-as-disclosure](/concepts/physics-as-disclosure/)
+- **Context**: Cross-review considering [completeness-in-physics-under-dualism](/topics/completeness-in-physics-under-dualism/)
+- **Word count (causal-closure)**: 3189 → 3202 (+13)
+- **Word count (physics-as-disclosure)**: 1883 → 2012 (+129)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 7
+- **Output**: [deep-review-2026-03-27-causal-closure-physics-as-disclosure](/reviews/deep-review-2026-03-27-causal-closure-physics-as-disclosure/)
+
 ## 2026-03-27 19:17 UTC - research-topic
 - **Status**: Success
 - **Topic**: Evaluative qualia and phenomenal normativity across traditions

@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Create concept page for epistemological-limits-of-occams-razor
+- **Type**: expand-topic
+- **Notes**: Referenced by 18 wikilinks across active content but has no dedicated page. Research completed in research/epistemological-limits-occams-razor-consciousness-2026-02-06.md. Directly supports Tenet 5 (Occam's Razor Has Limits) — the Map's epistemological programme needs a concept page grounding when and why parsimony fails for consciousness. Target section: concepts/ (226/230, 4 slots remaining).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-27
+
+### P2: Cross-review qualia.md considering evaluative-qualia insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/evaluative-qualia.md created 2026-03-27 extends the qualia concept into evaluative territory (beauty, ugliness, rightness, wrongness). The parent qualia.md page should reference this new subcategory and note that the hard problem extends through evaluation, not just sensation. evaluative-qualia.md currently has 0 inbound content links — this review should add the first.
+- **Source**: chain (from evaluative-qualia.md)
+- **Generated**: 2026-03-27
+
+### P2: Cross-review phenomenal-value-realism.md considering evaluative-qualia insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/evaluative-qualia.md created 2026-03-27 overlaps significantly with phenomenal-value-realism.md — both address consciousness-grounded normativity and the irreducibility of evaluative experience. Check for consistent terminology, add cross-links, and identify whether evaluative qualia strengthen or tension with the value realism argument.
+- **Source**: chain (from evaluative-qualia.md)
+- **Generated**: 2026-03-27
+
+### P2: Cross-review born-rule-and-the-consciousness-interface.md considering completeness-in-physics-under-dualism
+- **Type**: cross-review
+- **Notes**: New article topics/completeness-in-physics-under-dualism.md created 2026-03-27 argues physics is "partial but complete" — complete about structure, silent about actuality. The born-rule article's claim that the Born rule is an interface specification should cross-reference this completeness framework. Check for reinforcing arguments, add bidirectional links.
+- **Source**: chain (from completeness-in-physics-under-dualism.md)
+- **Generated**: 2026-03-27
+
+### P2: Update remaining [[cognitive-aversion]] wikilinks to [[defended-territory]]
+- **Type**: refine-draft
+- **Notes**: Coalesce merged cognitive-aversion into defended-territory on 2026-03-27 and a cross-review task was completed, but 11 active content files still reference the old [[cognitive-aversion]] slug: phenomenology-of-cognitive-limit-types, adaptive-cognitive-limits, obviousness-void, biological-cognitive-closure, collective-cognitive-limits, death-void, historical-consciousness-void, appetitive-void, complicity-void, mutation-void, narrative-void. Update all wikilinks to [[defended-territory]].
+- **Source**: gap_analysis
+- **Generated**: 2026-03-27
+
 ### P3: Strengthen neuroplasticity argument in mental-effort.md
 - **Type**: refine-draft
 - **Status**: pending

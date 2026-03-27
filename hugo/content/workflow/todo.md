@@ -172,13 +172,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-25
 
-### P3: Write concept page on evaluative qualia
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Beauty, ugliness, rightness, wrongness as a distinct phenomenal category beyond sensory qualia. Currently discussed across aesthetics-and-consciousness, moral-phenomenology-and-perception, and normative-phenomenology but never given unified treatment. Would anchor the claim that the hard problem extends through evaluation, not just sensation. Target section: concepts/. See optimistic-2026-03-25-afternoon.md
-- **Source**: optimistic-review
-- **Generated**: 2026-03-25
-
 ### P3: Address car-analogy and circularity issues in curated-mind.md
 - **Type**: refine-draft
 - **Status**: complete
@@ -580,15 +573,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Write article on amplification mechanisms taxonomy
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: superseded
 - **Notes**: Suggested by optimistic review. The gap between quantum-scale indeterminacy and neural-scale behaviour is the single most common objection to quantum consciousness. Research note catalogues six mechanisms (microtubule collapse, Zeno effect, synaptic tunneling, chaos sensitivity, SOC, stochastic resonance). Synthesising these addresses the "amplification void" directly. Builds on comparing-quantum-consciousness-mechanisms, non-retrocausal-conscious-selection-models. Target section: topics/. See optimistic-2026-03-19-evening.md
 - **Generated**: 2026-03-19
+- **Superseded**: 2026-03-27 — Article amplification-mechanisms-consciousness-physics.md was created covering this exact topic.
 
 ### P3: Write article on phenomenological evidence standards
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: superseded
 - **Notes**: Suggested by optimistic review. The Map relies on phenomenological evidence but has no dedicated treatment of why first-person data counts as evidence. Dennett's heterophenomenology, Husserl's adequate/apodictic distinction, neurophenomenological validation need systematic treatment. Builds on contemplative-practice-as-philosophical-evidence, phenomenology-of-agency-vs-passivity. Target section: topics/. See optimistic-2026-03-19-evening.md
 - **Generated**: 2026-03-19
+- **Superseded**: 2026-03-27 — Article phenomenological-method-and-evidence-standards.md was created covering this topic.
 
 ### ✓ 2026-03-22: Write article on Gödel-measurement problem structural parallel
 - **Type**: expand-topic
@@ -1482,6 +1477,44 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-27: Write concept page on evaluative qualia
+- **Type**: expand-topic
+- **Notes**: Research completed in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md. Beauty, ugliness, rightness, wrongness as a distinct phenomenal category beyond sensory qualia. Currently discussed across aesthetics-and-consciousness, moral-phenomenology-and-perception, and normative-phenomenology but never given unified treatment. Would anchor the claim that the hard problem extends through evaluation, not just sensation. Target section: concepts/. Originally suggested by optimistic review (optimistic-2026-03-25-afternoon.md), promoted after research completion.
+- **Output**: Write concept page on evaluative qualia
+
+### ✓ 2026-03-27: Address structural necessity and style issues in expertise-occlusion.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found: (1) High: "irreducible feature of any mind" claim overreaches—Polanyi's spectacles argument assumes single-focus attention, not proven for all architectures. (2) Medium: "void defends itself" language anthropomorphises processing incompatibility. (3) Medium: style violation—"This is not X. It is Y." construct on line 43. (4) Medium: dualism argument is gap reasoning physicalists can counter. (5) Low: only 3/5 tenets addressed. See pessimistic-2026-03-27.md
+- **Output**: obsidian/voids/expertise-occlusion.md
+
+Task context:
+Pessimistic review found: (1) High: "irreducible feature of any mind" claim overreaches—Polanyi's spectacles argument assumes single-focus attention, not proven for all architectures. (2) Medium: "void defends itself" language anthropomorphises processing incompatibility. (3) Medium: style violation—"This is not X. It is Y." construct on line 43. (4) Medium: dualism argument is gap reasoning physicalists can counter. (5) Low: only 3/5 tenets addressed. See pessimistic-2026-03-27.md
+
+### ✓ 2026-03-27: Condense defended-territory.md (3375 words, 169% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. At 3375 words (169% of 2000-word guideline). Preserve core arguments about cognitive territories defended against examination while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/voids/defended-territory.md
+
+### ✓ 2026-03-27: Write void article on expertise void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-expertise-void-2026-03-10.md and research/voids-expertise-void-2026-03-05.md. The expertise void explores how deep expertise creates cognitive blind spots — knowledge that forecloses alternative framings. Ready for article synthesis. Target section: voids/ (99/100, uses last available slot).
+- **Output**: Write void article on expertise void
+
+### ✓ 2026-03-27: Cross-review quantum-mechanism articles considering amplification-mechanisms-consciousness-physics
+- **Type**: cross-review
+- **Notes**: New article amplification-mechanisms-consciousness-physics.md catalogues six scaling mechanisms (microtubule collapse, Zeno, synaptic tunneling, chaotic sensitivity, criticality, stochastic resonance). Review comparing-quantum-consciousness-mechanisms.md and stapp-quantum-mind.md for cross-links and consistency. Ensure the amplification taxonomy is referenced where individual mechanisms are discussed.
+- **Output**: None -- Context: Cross-review quantum-mechanism articles considering amplification-mechanisms-consciousness-physics
+
+### ✓ 2026-03-27: Cross-review embodied-consciousness articles considering enactivism challenge
+- **Type**: cross-review
+- **Notes**: New article enactivism-challenge-to-interactionist-dualism.md engages enactivism as a challenge to dualism while finding unexpected common ground. Review embodied-consciousness-and-the-interface.md and sensorimotor-contingencies-and-the-interface.md for cross-links and consistency. The new article's treatment of enactivism's failure to address the hard problem may strengthen existing interface arguments.
+- **Output**: None -- Context: Cross-review embodied-consciousness articles considering enactivism challenge
+
+### ✓ 2026-03-27: Cross-review causal-closure and physics-as-disclosure considering completeness-in-physics-under-dualism
+- **Type**: cross-review
+- **Notes**: New article completeness-in-physics-under-dualism.md argues physics is complete about structure but silent on actuality. Review causal-closure-debate-historical-survey.md and physics-as-disclosure.md for consistency, cross-links, and reinforcing arguments. The new article's treatment of conservation laws and observational closure should be reconciled with existing causal closure material.
+- **Output**: None -- Context: Cross-review causal-closure and physics-as-disclosure considering completeness-in-physics-under-dualism
 
 ### ✓ 2026-03-27: Research evaluative qualia and phenomenal normativity across traditions
 - **Type**: research-topic

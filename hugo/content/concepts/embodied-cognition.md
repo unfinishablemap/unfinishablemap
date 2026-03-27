@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-26 09:17:00+00:00
+ai_modified: 2026-03-27 19:48:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,7 +26,7 @@ description: Cognition depends on the body and extends into the environment. Thi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-06 09:56:00+00:00
+last_deep_review: 2026-03-27 19:48:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -36,6 +36,8 @@ related_articles:
 - '[[phenomenological-psychiatry-and-altered-experience]]'
 - '[[choking-phenomenon-mental-causation]]'
 - '[[consciousness-and-skill-acquisition]]'
+- '[[enactivism-challenge-to-interactionist-dualism]]'
+- '[[consciousness-as-activity]]'
 title: Embodied Cognition and the Extended Mind
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -126,7 +128,7 @@ This debate matters for consciousness studies because it concerns boundaries. If
 
 The strongest version of embodied cognition is enactivism (Varela, Thompson, Rosch). Key claims: cognition arises through dynamic organism-environment interaction; the world is "enacted" through autonomous agency; [perception](/topics/dualist-perception/) is sensorimotor skill; experience is central and irreducible.
 
-Crucially, enactivists don't eliminate consciousness—they treat experience as central data requiring first-person methods (hence Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)). This aligns more with the Map's framework than with eliminative materialism.
+Enactivism's strategy is *dissolution* rather than solution—it denies the mind-body separation rather than bridging it. Yet enactivists don't eliminate consciousness; they treat experience as central data requiring first-person methods (hence Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/)). This places enactivism closer to the Map's position than to eliminative materialism, sharing commitments to irreducibility and first-person methodology even while rejecting dualism's metaphysics. The [enactivism challenge article](/topics/enactivism-challenge-to-interactionist-dualism/) examines this tension in detail—particularly how enactivism's own acknowledgment of irreducible experience reopens the hard problem it claims to dissolve.
 
 ## The AI Grounding Problem
 
@@ -148,7 +150,7 @@ Consider an analogy: a radio antenna's shape affects what signals it receives wi
 
 ## Process Philosophy Connection
 
-Whitehead's process philosophy offers a complementary framework. For Whitehead, reality consists of "actual occasions"—momentary experiences that arise, achieve satisfaction, and perish. The lived body is neither consciousness-free matter nor separate mind; it's experiential at every level, with unified consciousness integrating micro-experiences.
+Whitehead's process philosophy offers a complementary framework. The lived body is neither consciousness-free matter nor separate mind; it's experiential at every level, with unified consciousness integrating micro-experiences.
 
 This illuminates embodied skill: the expert's absorbed performance involves distributed experience in fingers, muscles, and perceptual systems—not absence of experience. Choking occurs when central consciousness re-appropriates what had been delegated. Whitehead's framework preserves what matters for the Map's [Dualism tenet](/tenets/#dualism): experience as fundamental, not emergent from non-experiential matter.
 
@@ -182,13 +184,13 @@ Embodied cognition's relationship to the Map's tenets requires careful analysis:
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Enactivism's emphasis on autonomous agency is compatible with bidirectional interaction. Consciousness acts through the body; the body constrains consciousness. The "enacted" world arises through ongoing mutual influence. The choking evidence is consistent with this picture—conscious attention appears to genuinely affect motor performance—though the standard neuroscience interpretation frames this as neural resource competition rather than non-physical causation.
 
-**[Occam's Razor Has Limits](/tenets/#occam)**: The phenomenological emphasis on first-person investigation supports this tenet. Embodied cognitivists in the enactive tradition insist that consciousness cannot be understood through third-person description alone. Bracketing first-person data doesn't achieve simplicity—it ignores the most fundamental evidence.
+**[Occam's Razor Has Limits](/tenets/#occam)**: Embodied cognitivists in the enactive tradition insist that consciousness cannot be understood through third-person description alone. Bracketing first-person data doesn't achieve simplicity—it ignores the most fundamental evidence.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum)**: The Dreyfus progression reveals *where* consciousness interfaces with motor systems—the transition between absorbed and reflective modes. Whatever mechanism mediates this interface (the [attention-as-interface](/concepts/attention-as-interface/) model proposes one possibility), embodied cognition maps the functional architecture of the interaction point.
 
-**[No Many Worlds](/tenets/#no-mwi)**: The choking evidence is compatible with both collapse and Many-Worlds interpretations—MWI can account for attention effects through branching ratios. The stronger anti-MWI argument comes from elsewhere: the phenomenology of singular determination in effortful selection (see [mental-effort](/concepts/mental-effort/)).
+**[No Many Worlds](/tenets/#no-mwi)**: The choking evidence is compatible with both collapse and Many-Worlds interpretations. The stronger anti-MWI argument comes from the phenomenology of singular determination in effortful selection (see [mental-effort](/concepts/mental-effort/)).
 
-The key point: embodied cognition challenges a specific historical position (Cartesian substance dualism) without refuting dualism as such. Showing that cognition is embodied doesn't show that consciousness is purely physical. The hard problem persists: explaining how bodily interaction produces subjective experience is just as difficult as explaining how brain computation does.
+Embodied cognition challenges a specific historical position (Cartesian substance dualism) without refuting dualism as such. Showing that cognition is embodied doesn't show that consciousness is purely physical. The hard problem persists regardless of whether the explanatory target is brain computation or bodily interaction.
 
 ## Further Reading
 
@@ -209,6 +211,8 @@ The key point: embodied cognition challenges a specific historical position (Car
 - [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — Why disembodied symbol manipulation lacks semantic grounding
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — Embodied spatial engagement and the atmosphere of places
 - [phenomenology-of-embodiment-under-dualism](/topics/phenomenology-of-embodiment-under-dualism/) — What embodiment feels like from the first person: ownership, agency, absence, and pain
+- [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/) — Enactivism's dissolution strategy and its limits against interactionist dualism
+- [consciousness-as-activity](/topics/consciousness-as-activity/) — Activity-first ontology and its relation to enactivism's core claims
 
 ## References
 

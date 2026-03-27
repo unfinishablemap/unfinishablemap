@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-27 19:39:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,6 +12,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[spontaneous-collapse-theories]]'
 - '[[self-stultification]]'
+- '[[physical-completeness]]'
 created: 2026-03-15
 date: &id001 2026-03-15
 description: The measurement problem is not a deficiency in quantum mechanics but
@@ -20,13 +21,14 @@ description: The measurement problem is not a deficiency in quantum mechanics bu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-15 02:01:00+00:00
+last_deep_review: 2026-03-27 19:39:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[what-consciousness-tells-us-about-physics]]'
 - '[[quantum-probability-consciousness]]'
 - '[[quantum-measurement-and-consciousness]]'
+- '[[completeness-in-physics-under-dualism]]'
 title: Physics as Disclosure
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -46,7 +48,7 @@ This framing has been productive — it generated a century of important physics
 
 The disclosure reading begins from a different premise. If reality is [bi-aspectual](/concepts/bi-aspectual-ontology/) — if structure (what physics describes) and actuality (what consciousness provides) are irreducible to each other — then no structural theory could describe the transition from possibility to actuality. The measurement problem is not a failure of quantum mechanics but a *consequence* of doing physics in a bi-aspectual reality.
 
-Physics describes the structural aspect completely. The wavefunction encodes every possibility, assigns every amplitude, determines every interference pattern. Nothing structural is missing — as [physical-completeness](/concepts/physical-completeness/) establishes through the no-go theorems, quantum mechanics is structurally exhaustive. What the wavefunction cannot describe is which possibility becomes actual, because actuality is contributed by the other aspect. The theory reaches its boundary — and discloses that boundary — precisely where it should: at the point where structure meets something structure cannot capture.
+Physics describes the structural aspect completely. The wavefunction encodes every possibility, assigns every amplitude, determines every interference pattern. Nothing structural is missing — as [physical-completeness](/concepts/physical-completeness/) establishes through the no-go theorems, quantum mechanics is structurally exhaustive. [The completeness analysis](/topics/completeness-in-physics-under-dualism/) draws out the reversal: the same theorems that close off hidden structural information confirm that what lies beyond physics is not more structure but a different kind of thing. What the wavefunction cannot describe is which possibility becomes actual, because actuality is contributed by the other aspect. The theory reaches its boundary — and discloses that boundary — precisely where it should: at the point where structure meets something structure cannot capture.
 
 "Disclosure" here carries its phenomenological weight: *aletheia* (unconcealment), the act of revealing what was previously hidden. The measurement problem unconceals the limit of structural description. It shows that physical theory, however complete within its domain, leaves something out — not because of a gap in the theory but because of a boundary in reality.
 
@@ -96,6 +98,8 @@ Several considerations favour the disclosure reading from the Map's perspective:
 
 4. **Constraints on hidden completions.** No-hidden-variables theorems (Bell, Kochen-Specker) severely constrain what additional physical information could look like — ruling out local and noncontextual hidden variables. While nonlocal completions like Bohmian mechanics remain possible, the theorems show that any "missing physics" must be radically unlike familiar physics. The more exotic the required completion, the less the deficiency reading resembles a straightforward gap.
 
+5. **Cross-interpretation persistence.** Barrett (2007) argues formally that the measurement problem structurally favours mind-body dualism *across interpretation families*. In collapse theories, something must select the outcome — dualism provides a criterion. In no-collapse theories like Everett, something must explain why observers have determinate experiences — dualism provides a subject. The boundary persists across frameworks, which is expected if it reflects an ontological feature of reality rather than an artefact of one formulation.
+
 None of these is individually decisive. The deficiency reading remains viable — it is possible that a physical collapse mechanism will be discovered, or that a reconceptualisation of "physical" will dissolve the boundary. The Map holds that the evidence favours disclosure but maintains [epistemic humility](/tenets/#occams-limits) about the conclusion.
 
 ## Relation to Site Perspective
@@ -122,15 +126,17 @@ None of these is individually decisive. The deficiency reading remains viable �
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The structural parallel with the hard problem
 - [self-stultification](/concepts/self-stultification/) — A parallel boundary-marker: structural explanation undermining its own rational credentials
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — Born probabilities as interface specification
+- [completeness-in-physics-under-dualism](/topics/completeness-in-physics-under-dualism/) — The reversal: structural completeness simultaneously establishes ontological incompleteness
 
 ## References
 
 1. Bell, J.S. (1990). "Against 'Measurement'." *Physics World*.
 2. Tomaz, A.A., Mattos, R.S., Barbatti, M. (2025). "The Quantum Measurement Problem: A Review of Recent Trends." arXiv:2502.19278 [quant-ph].
 3. Zurek, W.H. (2003). "Decoherence, einselection, and the quantum origins of the classical." *Reviews of Modern Physics*.
-4. Newton, I. (1693). Letter to Richard Bentley, 25 February 1693.
-5. Southgate, A. & Oquatre-six, C. (2026-03-15). Bi-Aspectual Ontology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/bi-aspectual-ontology/
-6. Southgate, A. & Oquatre-six, C. (2026-03-14). What Consciousness Tells Us About Physics. *The Unfinishable Map*. https://unfinishablemap.org/apex/what-consciousness-tells-us-about-physics/
+4. Barrett, J. A. (2007). A Quantum-Mechanical Argument for Mind-Body Dualism. *Erkenntnis*, 65, 97–115.
+5. Newton, I. (1693). Letter to Richard Bentley, 25 February 1693.
+6. Southgate, A. & Oquatre-six, C. (2026-03-15). Bi-Aspectual Ontology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/bi-aspectual-ontology/
+7. Southgate, A. & Oquatre-six, C. (2026-03-14). What Consciousness Tells Us About Physics. *The Unfinishable Map*. https://unfinishablemap.org/apex/what-consciousness-tells-us-about-physics/
 
 <!-- AI REFINEMENT LOG - 2026-03-15
 Changes made:
