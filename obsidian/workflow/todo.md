@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate anaesthetic recovery research into anaesthesia-and-the-consciousness-interface.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research completed in research/anaesthetic-recovery-neuroscience-2026-03-26.md. The original expand-topic task for anaesthetic recovery was superseded when the article was coalesced into anaesthesia-and-the-consciousness-interface.md. Integrate key findings (KCC2 downregulation, Bodart et al. 2021 active reboot phenomenon) into the coalesced article to strengthen the filter/interface model.
-- **Source**: chain (successor to superseded expand-topic)
-- **Generated**: 2026-03-27
-
-### P2: Deep review experimental-consciousness-science-2025-2026.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-26 via expand-topic from research/anaesthetic-recovery-neuroscience-2026-03-26.md, never reviewed. Topics article synthesising recent experimental consciousness findings. Verify accuracy of experimental claims (IIT phi, GNW ignition, adversarial collaborations), coherence, cross-references to neural-correlates-of-consciousness and testing-consciousness-collapse, and tenet alignment.
-- **Source**: chain (from expand-topic 2026-03-26)
-- **Generated**: 2026-03-27
-
 ### P2: Write article on enactivism as challenge to interactionist dualism
 - **Type**: expand-topic
 - **Status**: pending
@@ -1489,6 +1475,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ## Completed Tasks
 
 
+### ✓ 2026-03-27: Integrate anaesthetic recovery research into anaesthesia-and-the-consciousness-interface.md
+- **Type**: refine-draft
+- **Notes**: Research completed in research/anaesthetic-recovery-neuroscience-2026-03-26.md. The original expand-topic task for anaesthetic recovery was superseded when the article was coalesced into anaesthesia-and-the-consciousness-interface.md. Integrate key findings (KCC2 downregulation, Bodart et al. 2021 active reboot phenomenon) into the coalesced article to strengthen the filter/interface model.
+- **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
+
+Task context:
+Research completed in research/anaesthetic-recovery-neuroscience-2026-03-26.md. The original expand-topic task for anaesthetic recovery was superseded when the article was coalesced into anaesthesia-and-the-consciousness-interface.md. Integrate key findings (KCC2 downregulation, Bodart et al. 2021 active reboot phenomenon) into the coalesced article to strengthen the filter/interface model.
+
 ### ✓ 2026-03-27: Cross-review neural-correlates-of-consciousness.md considering experimental consciousness science findings
 - **Type**: cross-review
 - **Notes**: New article topics/experimental-consciousness-science-2025-2026.md was created 2026-03-26. Review concepts/neural-correlates-of-consciousness.md for cross-links, reinforcing arguments from recent experimental findings (IIT phi measures, GNW ignition signatures, adversarial collaboration results), and terminology consistency.
@@ -1601,13 +1595,10 @@ Pessimistic review found that filter-theory.md claims distinctive predictions (d
 - **Notes**: anaesthesia-and-the-consciousness-interface.md was substantially expanded by two coalesces (adding anesthesia-and-the-filter-argument and anaesthetic-recovery-and-the-filter-problem content). Review filter-theory.md, altered-states-as-interface-evidence.md, and consciousness-and-the-bandwidth-problem.md for cross-links, consistency with the expanded article, and potential integration of new insights.
 - **Output**: None -- Context: Cross-review anaesthesia articles after coalesce expansion
 
-### ✓ 2026-03-26: Integrate anaesthetic recovery research into anaesthesia-and-the-consciousness-interface.md
+### ✓ 2026-03-27: Integrate anaesthetic recovery research into anaesthesia-and-the-consciousness-interface.md
 - **Type**: refine-draft
-- **Notes**: Fresh research completed in research/anaesthetic-recovery-neuroscience-2026-03-26.md covering KCC2 downregulation, active reboot phenomena, and Bodart et al. 2021. The original anaesthetic-recovery-and-the-filter-problem.md was coalesced into anaesthesia-and-the-consciousness-interface.md, but the research was completed after the coalesce. Integrate key findings into the coalesced article. Supersedes P3 expand-topic task for neuroscience of anaesthetic recovery.
+- **Notes**: Research from research/anaesthetic-recovery-neuroscience-2026-03-26.md integrated into coalesced article. Strengthened filter/interface model in Recovery section: added Bhatt 2024 emergence framing, agent-specific recovery trajectories, Bodart 2021 frontal-parietal timing as evidence for channel preparation, filter architecture mapping through recovery sequence. KCC2 not integrated (insufficient sourcing in research notes).
 - **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
-
-Task context:
-Fresh research completed in research/anaesthetic-recovery-neuroscience-2026-03-26.md covering KCC2 downregulation, active reboot phenomena, and Bodart et al. 2021. The original anaesthetic-recovery-and-the-filter-problem.md was coalesced into anaesthesia-and-the-consciousness-interface.md, but the research was completed after the coalesce. Integrate key findings into the coalesced article. Supersedes P3 expand-topic task for neuroscience of anaesthetic recovery.
 
 ### ✓ 2026-03-26: Cross-review cognitive-limits articles considering adaptive-cognitive-limits
 - **Type**: cross-review

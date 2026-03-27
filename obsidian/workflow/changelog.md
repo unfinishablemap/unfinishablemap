@@ -5,6 +5,12 @@ ai_modified: 2026-03-26T17:22:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-27 15:47 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
+- **Changes**: Strengthened filter/interface model in Recovery section — added Bhatt 2024 emergence framing, agent-specific recovery trajectories, Bodart 2021 frontal-parietal timing evidence, filter architecture mapping through recovery sequence. KCC2 not integrated (insufficient sourcing in research notes).
+- **Published**: yes
+
 ## 2026-03-27 15:32 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/self-stultification-as-master-argument]]
