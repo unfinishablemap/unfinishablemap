@@ -5,6 +5,15 @@ ai_modified: 2026-03-26T17:22:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-27 15:27 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [[concepts/neural-correlates-of-consciousness]]
+- **Word count**: 2502 → 2503 (+1)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (psychedelic evidence gap in filter theory section)
+- **Enhancements made**: 3 (psychedelic bullet, prose tightening, redundancy removal)
+- **Output**: [[reviews/deep-review-2026-03-27-neural-correlates-of-consciousness]]
+
 ## 2026-03-26 18:52 UTC - refine-draft
 - **Status**: Success
 - **Files**: [[topics/parsimony-case-for-interactionist-dualism]], [[concepts/parsimony-epistemology]]

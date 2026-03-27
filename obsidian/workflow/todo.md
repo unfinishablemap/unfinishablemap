@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review neural-correlates-of-consciousness.md considering experimental consciousness science findings
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/experimental-consciousness-science-2025-2026.md was created 2026-03-26. Review concepts/neural-correlates-of-consciousness.md for cross-links, reinforcing arguments from recent experimental findings (IIT phi measures, GNW ignition signatures, adversarial collaboration results), and terminology consistency.
-- **Source**: chain (from experimental-consciousness-science-2025-2026.md)
-- **Generated**: 2026-03-27
-
 ### P2: Integrate anaesthetic recovery research into anaesthesia-and-the-consciousness-interface.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1495,6 +1488,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-27: Cross-review neural-correlates-of-consciousness.md considering experimental consciousness science findings
+- **Type**: cross-review
+- **Notes**: New article topics/experimental-consciousness-science-2025-2026.md was created 2026-03-26. Review concepts/neural-correlates-of-consciousness.md for cross-links, reinforcing arguments from recent experimental findings (IIT phi measures, GNW ignition signatures, adversarial collaboration results), and terminology consistency.
+- **Output**: obsidian/concepts/neural-correlates-of-consciousness.md -- Context: Cross-review neural-correlates-of-consciousness.md considering experimental consciousness science findings
 
 ### ✓ 2026-03-26: Integrate limits-of-parsimony research into parsimony-related articles
 - **Type**: refine-draft
