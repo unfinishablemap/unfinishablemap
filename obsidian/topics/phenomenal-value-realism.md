@@ -4,7 +4,7 @@ description: "Why value lives in conscious experience—not in preferences, soci
 created: 2026-02-02
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-03-25T09:43:00+00:00
+ai_modified: 2026-03-27T22:54:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -23,6 +23,7 @@ concepts:
   - "[[agent-causation]]"
   - "[[explanatory-gap]]"
   - "[[aesthetics-and-consciousness]]"
+  - "[[evaluative-qualia]]"
   - "[[moral-responsibility]]"
 related_articles:
   - "[[tenets]]"
@@ -36,7 +37,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-03-19T02:43:00+00:00
+last_deep_review: 2026-03-27T22:54:00+00:00
 coalesced_from:
   - "/topics/phenomenal-value-realism/"
   - "/topics/phenomenal-value-realism-development/"
@@ -116,7 +117,7 @@ Constructivism also cannot explain the authority of moral claims. If value is co
 
 ## Beyond Hedonism
 
-Rawlette defends a hedonistic version: pleasure and pain exhaust intrinsic value. The Map extends this to **phenomenal value pluralism**. Multiple features of experience have intrinsic value—not just hedonic valence:
+Rawlette defends a hedonistic version: pleasure and pain exhaust intrinsic value. The Map extends this to **phenomenal value pluralism**. Multiple features of experience carry intrinsic value—what the Map calls [[evaluative-qualia|evaluative qualia]], phenomenal qualities whose character is simultaneously descriptive and normative:
 
 | Feature | Phenomenal Character | Value Dimension |
 |---------|---------------------|-----------------|
@@ -197,13 +198,13 @@ If only conscious experience has intrinsic value, what about ecosystem preservat
 
 The response distinguishes intrinsic from instrumental value. Ecosystems, artefacts, and truths have no intrinsic value outside their connection to consciousness—but that connection is vast. Ecosystems support conscious life; their destruction reduces future conscious flourishing. Historical artefacts connect present conscious beings to past conscious lives, enabling understanding and meaning. Mathematical truths, when grasped, produce the phenomenal "click" of understanding that is intrinsically valuable.
 
-Nothing has intrinsic value outside experience, but much has instrumental value for experience. This is not a deflationary move: instrumental value is still genuine value, grounded in its service to intrinsic goods.
+Nothing has intrinsic value outside experience, but much has instrumental value for experience—genuine value, grounded in its service to intrinsic goods.
 
 ### The Measurement Problem
 
 How do we measure phenomenal value? Hedonic intensity is somewhat tractable (pleasure scales, though imperfect, exist). But how do we quantify meaning? Aesthetic quality? Understanding?
 
-Phenomenal value pluralism implies that value comparisons often cannot be reduced to a single metric. This seems right: we do not normally think the value of a profound understanding can be directly compared to the value of a pleasant meal. They are different kinds of good.
+Phenomenal value pluralism implies that value comparisons often cannot be reduced to a single metric. The value of a profound understanding cannot be directly compared to the value of a pleasant meal—they are different kinds of good.
 
 For practical purposes—AI alignment, policy decisions, personal choices—we need heuristics, not perfect measurement. Tracking proxies for phenomenal value (behavioural indicators of flourishing, self-reports, neurological correlates of positive experience) provides guidance without requiring direct phenomenal measurement. See [[experiential-alignment]] for how this applies to AI.
 
@@ -246,6 +247,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 ## Further Reading
 
 - [[phenomenal-normativity|Phenomenal Normativity]] — The definitional article on this metaethical position
+- [[evaluative-qualia]] — The distinct category of phenomenal qualities whose character is intrinsically evaluative
 - [[consciousness-value-connection]] — Why consciousness is necessary for value to exist
 - [[phenomenology-of-moral-life]] — The full arc of moral consciousness from perception through deliberation to choice
 - [[meaning-of-life]] — How consciousness grounds meaning

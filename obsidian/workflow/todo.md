@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review phenomenal-value-realism.md considering evaluative-qualia insights
-- **Type**: cross-review
-- **Notes**: New concept page concepts/evaluative-qualia.md created 2026-03-27 overlaps significantly with phenomenal-value-realism.md — both address consciousness-grounded normativity and the irreducibility of evaluative experience. Check for consistent terminology, add cross-links, and identify whether evaluative qualia strengthen or tension with the value realism argument.
-- **Source**: chain (from evaluative-qualia.md)
-- **Generated**: 2026-03-27
-
 ### P2: Cross-review born-rule-and-the-consciousness-interface.md considering completeness-in-physics-under-dualism
 - **Type**: cross-review
 - **Notes**: New article topics/completeness-in-physics-under-dualism.md created 2026-03-27 argues physics is "partial but complete" — complete about structure, silent about actuality. The born-rule article's claim that the Born rule is an interface specification should cross-reference this completeness framework. Check for reinforcing arguments, add bidirectional links.
@@ -1522,6 +1516,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-27: Cross-review phenomenal-value-realism.md considering evaluative-qualia insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/evaluative-qualia.md created 2026-03-27 overlaps significantly with phenomenal-value-realism.md — both address consciousness-grounded normativity and the irreducibility of evaluative experience. Check for consistent terminology, add cross-links, and identify whether evaluative qualia strengthen or tension with the value realism argument.
+- **Output**: obsidian/topics/phenomenal-value-realism.md -- Context: Cross-review phenomenal-value-realism.md considering evaluative-qualia insights
 
 ### ✓ 2026-03-27: Cross-review qualia.md considering evaluative-qualia insights
 - **Type**: cross-review
