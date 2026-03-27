@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense defended-territory.md (3375 words, 169% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3000-word hard threshold for voids/. At 3375 words (169% of 2000-word guideline). Preserve core arguments about cognitive territories defended against examination while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-27
-
 ### P2: Address structural necessity and style issues in expertise-occlusion.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1497,6 +1490,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-27: Condense defended-territory.md (3375 words, 169% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. At 3375 words (169% of 2000-word guideline). Preserve core arguments about cognitive territories defended against examination while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/voids/defended-territory.md
 
 ### ✓ 2026-03-27: Write void article on expertise void
 - **Type**: expand-topic

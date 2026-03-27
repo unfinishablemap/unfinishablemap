@@ -5,6 +5,14 @@ ai_modified: 2026-03-26T17:22:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-27 21:02 UTC - condense
+- **Status**: Success
+- **File**: [[voids/defended-territory]]
+- **Before**: 3375 words
+- **After**: 1977 words
+- **Reduction**: 41%
+- **Technique**: Merged Heidegger/Becker into single death-avoidance subsection, removed redundant phenomenological markers (7→4), condensed "What Gets Defended" into flowing paragraphs, merged contemplative/psychedelic/limit-situation approaches, trimmed challenge list from 6 to 4, tightened prose throughout
+
 ## 2026-03-27 20:47 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: voids/expertise-occlusion.md (brand new, never reviewed)
