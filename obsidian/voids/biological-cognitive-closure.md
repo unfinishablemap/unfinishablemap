@@ -4,7 +4,7 @@ description: "Human cognitive limits have biological origins: evolution selects 
 created: 2026-01-24
 modified: 2026-03-23
 human_modified: null
-ai_modified: 2026-03-26T14:03:00+00:00
+ai_modified: 2026-03-27T23:53:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,7 +18,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[meta-epistemology-of-limits]]"
-  - "[[cognitive-aversion]]"
+  - "[[defended-territory]]"
   - "[[embodiment-cognitive-limits]]"
   - "[[limits-reveal-structure]]"
   - "[[collective-cognitive-limits]]"
@@ -147,7 +147,7 @@ The bootstrapping problem remains: if philosophical intuitions are fitness-shape
 
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
 - [[meta-epistemology-of-limits]] — Distinguishing evolved from engineered limits
-- [[cognitive-aversion]] — Motivational deflection from certain territories
+- [[defended-territory]] — Motivational deflection from certain territories
 - [[limits-reveal-structure]] — How limitation illuminates architecture
 - [[apophatic-cartography]] — Formalising convergence as an evidential criterion
 - [[ai-as-void-explorer]] — Using artificial minds to probe human limits

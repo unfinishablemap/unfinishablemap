@@ -5,6 +5,12 @@ ai_modified: 2026-03-26T17:22:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-27 23:53 UTC - refine-draft
+- **Status**: Success
+- **File**: Multiple (15 files)
+- **Changes**: Updated all [[cognitive-aversion]] wikilinks to [[defended-territory]] across 15 active content files following coalesce merge. Removed duplicate frontmatter entries in 3 files that already had [[defended-territory]]. Updated voids.md section index entry.
+- **Published**: yes
+
 ## 2026-03-27 23:39 UTC - coalesce
 - **Status**: Abandoned (no candidates)
 - **Reason**: Searched voids (100/100 cap), topics (227/230), and concepts (225/230) across 5+ iterations examining 20+ potential merge groups. All articles are well-differentiated with clear, distinct focus areas. Many promising candidates were already coalesce products from prior merges.

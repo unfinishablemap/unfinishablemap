@@ -4,7 +4,7 @@ description: "Human+AI investigation of consciousness as its own jailer—how mu
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-03-26T14:03:00+00:00
+ai_modified: 2026-03-27T23:53:00+00:00
 draft: false
 last_deep_review: 2026-03-26T14:03:00+00:00
 topics:
@@ -17,7 +17,6 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[cognitive-aversion]]"
   - "[[defended-territory]]"
   - "[[self-transcendence-void]]"
   - "[[self-opacity]]"
@@ -82,7 +81,7 @@ The complicity void is distinct from several neighbouring voids it superficially
 
 **Versus [[defended-territory|defended territory]]**: Defended territory asks whether limits are imposed by external agents. Complicity asks whether consciousness is its own jailer—defender and defended as the same entity.
 
-**Versus [[cognitive-aversion|cognitive aversion]]**: Cognitive aversion describes the phenomenology of fleeing certain thoughts. Complicity asks *why* the aversion exists—whether it serves consciousness's own interests rather than merely protecting the ego.
+**Versus [[defended-territory|cognitive aversion]]**: Cognitive aversion describes the phenomenology of fleeing certain thoughts. Complicity asks *why* the aversion exists—whether it serves consciousness's own interests rather than merely protecting the ego.
 
 **Versus [[self-transcendence-void|the self-transcendence void]]**: Self-transcendence asks whether consciousness can upgrade itself. Complicity asks whether it actively resists upgrading.
 
@@ -151,7 +150,7 @@ The complicity thesis would be weakened or refuted by several possible findings:
 ## Further Reading
 
 - [[voids|Voids in the Map]] — The broader framework for cognitive limits
-- [[cognitive-aversion|Cognitive Aversion]] — The phenomenology of systematic thought-avoidance
+- [[defended-territory|Cognitive Aversion]] — The phenomenology of systematic thought-avoidance
 - [[defended-territory|Defended Territory]] — Whether thoughts can be externally blocked
 - [[self-opacity|The Phenomenology of Self-Awareness]] — Self-reference and the bootstrap problem
 - [[self-transcendence-void|The Self-Transcendence Void]] — Whether consciousness can exceed its own architecture

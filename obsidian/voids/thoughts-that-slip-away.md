@@ -3,7 +3,7 @@ title: "Thoughts That Slip Away"
 created: 2026-01-13
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-21T01:42:00+00:00
+ai_modified: 2026-03-27T23:53:00+00:00
 draft: false
 description: "Why some thoughts vanish as you reach for them—cataloguing slippage mechanisms from tip-of-tongue to double concealment, and asking whether patterns in what slips reveal occluded territory."
 topics: []
@@ -74,7 +74,7 @@ Several patterns suggest investigation:
 
 **Ineffability with noesis.** William James noted that mystical experiences are simultaneously ineffable (defying expression) and noetic (feeling like genuine knowledge). The experiencer insists they *know* something they cannot *say*. This combination is strange. How can you know what you cannot articulate? The content slips away precisely when you try to capture it in language—yet the conviction of knowledge persists.
 
-**Content-specific slippage.** Not all content slips equally. Some topics—often involving consciousness, reality, or existence—seem to produce reliable slippage. Insights that feel profound at 3am dissolve by morning. Ideas about the nature of experience that seem clear during meditation evaporate when you try to write them down. This overlaps with [[cognitive-aversion|cognitive aversion]]—the systematic deflection from threatening content—though slippage emphasises memory failure while aversion emphasises motivational deflection. Perhaps this is mere difficulty. But the pattern warrants attention.
+**Content-specific slippage.** Not all content slips equally. Some topics—often involving consciousness, reality, or existence—seem to produce reliable slippage. Insights that feel profound at 3am dissolve by morning. Ideas about the nature of experience that seem clear during meditation evaporate when you try to write them down. This overlaps with [[defended-territory|cognitive aversion]]—the systematic deflection from threatening content—though slippage emphasises memory failure while aversion emphasises motivational deflection. Perhaps this is mere difficulty. But the pattern warrants attention.
 
 **The dissolving-insight phenomenon.** Many report that certain insights—particularly about consciousness or the nature of the self—have a quality of dissolving *as you try to articulate them*. The insight is present, vivid, certain—and then it's not. Not forgotten exactly, but no longer graspable. The content doesn't fade gradually; it vanishes in the act of reaching.
 

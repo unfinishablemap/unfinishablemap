@@ -4,7 +4,7 @@ description: "Human+AI exploration of how desire structures cognition itself—n
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-03-19T02:21:06+00:00
+ai_modified: 2026-03-27T23:53:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,7 +16,6 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[cognitive-aversion]]"
   - "[[affective-void]]"
   - "[[defended-territory]]"
   - "[[self-opacity]]"
@@ -34,7 +33,7 @@ last_curated:
 last_deep_review: 2026-03-11T18:42:00+00:00
 ---
 
-The Unfinishable Map documents many kinds of cognitive limit: thoughts we [[cognitive-aversion|systematically flee]], emotions we [[affective-void|cannot feel]], truths hidden by [[self-opacity|introspective opacity]]. The appetitive void names something more fundamental. Desire does not merely distort cognition—it may *constitute* it. Every thought you have, including the thought that your thinking is desire-shaped, occurs within a framework that wanting has already established. The appetitive void is the impossibility of stepping outside this framework to see what cognition looks like without it.
+The Unfinishable Map documents many kinds of cognitive limit: thoughts we [[defended-territory|systematically flee]], emotions we [[affective-void|cannot feel]], truths hidden by [[self-opacity|introspective opacity]]. The appetitive void names something more fundamental. Desire does not merely distort cognition—it may *constitute* it. Every thought you have, including the thought that your thinking is desire-shaped, occurs within a framework that wanting has already established. The appetitive void is the impossibility of stepping outside this framework to see what cognition looks like without it.
 
 Multiple independent traditions converge on this diagnosis. Schopenhauer argued that intellect serves the will. Buddhism identifies craving (tanha) as woven into cognition itself. Nietzsche insisted that all knowing is perspectival knowing, driven by the will to power. Contemporary predictive processing frameworks collapse the distinction between prediction and preference. If these traditions are right, the appetitive void is not a correctable bias but a structural feature of minded existence—possibly inseparable from consciousness itself.
 
@@ -42,7 +41,7 @@ Multiple independent traditions converge on this diagnosis. Schopenhauer argued 
 
 This void occupies territory distinct from related limits on the Map:
 
-**[[cognitive-aversion|Cognitive aversion]]** describes thoughts we flee—specific threatening content that triggers deflection, substitution, or glazing. The appetitive void operates at a different level. It does not block particular thoughts; it shapes the entire field within which thoughts occur. You can overcome aversion to a specific idea. You cannot overcome the appetitive orientation of cognition any more than you can see without light.
+**[[defended-territory|Cognitive aversion]]** describes thoughts we flee—specific threatening content that triggers deflection, substitution, or glazing. The appetitive void operates at a different level. It does not block particular thoughts; it shapes the entire field within which thoughts occur. You can overcome aversion to a specific idea. You cannot overcome the appetitive orientation of cognition any more than you can see without light.
 
 **The [[affective-void]]** marks emotions we cannot feel—affects beyond our evolutionary and architectural reach. The appetitive void concerns how the affects we *do* have constrain what we can think. The affective void is about missing states; the appetitive void is about how present states generate cognitive limits.
 
@@ -125,7 +124,7 @@ The evidence currently points toward the appetitive void as genuine. The converg
 ## Further Reading
 
 - [[voids]] — The broader framework for investigating cognitive limits
-- [[cognitive-aversion]] — Thoughts we systematically flee—the motivational cousin
+- [[defended-territory]] — Thoughts we systematically flee—the motivational cousin
 - [[affective-void]] — Emotions beyond human reach
 - [[defended-territory]] — Whether some thoughts are actively blocked
 - [[self-opacity|introspective opacity]] — Inaccessibility of cognitive processes

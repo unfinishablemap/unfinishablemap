@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-02-02
 human_modified: 2026-01-08
-ai_modified: 2026-03-23T17:30:00+00:00
+ai_modified: 2026-03-27T23:53:00+00:00
 draft: false
 last_deep_review: 2026-03-15T14:29:00+00:00
 topics: []
@@ -128,7 +128,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching limits feels like
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Mechanisms of cognitive slippage
-- [[cognitive-aversion|Cognitive Aversion]] — Thoughts we systematically flee
+- [[defended-territory|Defended Territory]] — Thoughts we systematically flee
 - [[attention-created-voids|Attention-Created Voids]] — What attention excludes by selecting
 - [[habituation-void|The Habituation Void]] — How familiarity erases experience from consciousness
 - [[absorption-void|The Absorption Void]] — Peak conscious engagement is peak self-opacity

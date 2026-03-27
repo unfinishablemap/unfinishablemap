@@ -4,7 +4,7 @@ description: "Human+AI exploration of why embedded observers cannot determine wh
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-03-19T02:21:06+00:00
+ai_modified: 2026-03-27T23:53:00+00:00
 draft: false
 last_deep_review: 2026-03-15T16:29:00+00:00
 topics: []
@@ -71,7 +71,7 @@ The simulation hypothesis exhibits characteristic void phenomenology.
 
 **Recursive vertigo**: Thinking about simulation detection triggers meta-cognitive spirals. If this thought about simulation is itself simulated, is the doubt genuine? The recursion destabilises rather than clarifies—each level of reflection introduces another layer of potential simulation. This resembles the [[self-opacity|self-reference paradox]] where consciousness cannot map itself because it is the mapper.
 
-**Affective dismissiveness**: Many dismiss the simulation hypothesis as "just science fiction" despite its philosophical rigour. This systematic dismissiveness could indicate [[cognitive-aversion|cognitive aversion]]—minds deflecting from thoughts that approach [[defended-territory|defended territory]].
+**Affective dismissiveness**: Many dismiss the simulation hypothesis as "just science fiction" despite its philosophical rigour. This systematic dismissiveness could indicate [[defended-territory|cognitive aversion]]—minds deflecting from thoughts that approach [[defended-territory|defended territory]].
 
 **Epistemic helplessness**: Unlike ordinary uncertainty, which motivates investigation, simulation uncertainty produces paralysis. We lack not just answers but any path to answers. The characteristic feeling is not "I don't know yet" but "I cannot know in principle."
 

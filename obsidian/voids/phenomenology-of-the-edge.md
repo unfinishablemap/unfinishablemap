@@ -4,7 +4,7 @@ description: "Human+AI exploration of what consciousness encounters at its cogni
 created: 2026-01-19
 modified: 2026-02-03
 human_modified: null
-ai_modified: 2026-03-21T01:42:00+00:00
+ai_modified: 2026-03-27T23:53:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -100,7 +100,7 @@ This connects to the distinction between what Uriah Kriegel calls "representatio
 
 The phenomenology of the edge offers several insights for understanding consciousness:
 
-**Cognitive limits have experiential signatures.** We do not simply fail to think certain thoughts. We have distinctive experiences when approaching what we cannot think. The void is not mere absence but has positive phenomenological features. The [[phenomenology-of-cognitive-limit-types|phenomenology of cognitive limit types]] maps these signatures systematically — frustration, satisfaction, and illusory comprehension form a spectrum of decreasing phenomenological salience, with finer-grained signatures diagnosing which kind of boundary has been reached. [[cognitive-aversion|Cognitive aversion]] maps one cluster of these signatures in detail: the slide (attention deflecting), the substitution (replacement thoughts appearing), the glaze (intellectual registration without emotional connection), the discomfort (phenomenological marker of approaching defended content), and the rationalization (justification arriving after flight).
+**Cognitive limits have experiential signatures.** We do not simply fail to think certain thoughts. We have distinctive experiences when approaching what we cannot think. The void is not mere absence but has positive phenomenological features. The [[phenomenology-of-cognitive-limit-types|phenomenology of cognitive limit types]] maps these signatures systematically — frustration, satisfaction, and illusory comprehension form a spectrum of decreasing phenomenological salience, with finer-grained signatures diagnosing which kind of boundary has been reached. [[defended-territory|Cognitive aversion]] maps one cluster of these signatures in detail: the slide (attention deflecting), the substitution (replacement thoughts appearing), the glaze (intellectual registration without emotional connection), the discomfort (phenomenological marker of approaching defended content), and the rationalization (justification arriving after flight).
 
 **Content obscures as much as it reveals.** The edge-clarity paradox suggests that ordinary conceptual processing may actively hide something. When concepts fall away, a different kind of seeing becomes possible—not better or worse, but different. The [[filter-theory|filter theory]] of consciousness—brain as receiver rather than producer—predicts exactly this: reduce the filtering, and a wider range of experience becomes accessible.
 
