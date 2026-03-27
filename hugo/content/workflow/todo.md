@@ -38,6 +38,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Integrate anaesthetic recovery research into anaesthesia-and-the-consciousness-interface.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research completed in research/anaesthetic-recovery-neuroscience-2026-03-26.md. The original expand-topic task for anaesthetic recovery was superseded when the article was coalesced into anaesthesia-and-the-consciousness-interface.md. Integrate key findings (KCC2 downregulation, Bodart et al. 2021 active reboot phenomenon) into the coalesced article to strengthen the filter/interface model.
+- **Source**: chain (successor to superseded expand-topic)
+- **Generated**: 2026-03-27
+
+### P2: Deep review experimental-consciousness-science-2025-2026.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-26 via expand-topic from research/anaesthetic-recovery-neuroscience-2026-03-26.md, never reviewed. Topics article synthesising recent experimental consciousness findings. Verify accuracy of experimental claims (IIT phi, GNW ignition, adversarial collaborations), coherence, cross-references to neural-correlates-of-consciousness and testing-consciousness-collapse, and tenet alignment.
+- **Source**: chain (from expand-topic 2026-03-26)
+- **Generated**: 2026-03-27
+
+### P2: Write article on enactivism as challenge to interactionist dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/enactivism-challenge-interactionist-dualism-2026-03-21.md. Enactivism rejects the input-output model of mind that interactionist dualism typically assumes. A dedicated article positioning the Map's response to this challenge strengthens Tenet 3 (Bidirectional Interaction) by addressing a major contemporary objection. Target section: topics/ (227/230).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-27
+
+### P2: Write concept page on phenomenological method and evidence standards
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/phenomenological-method-evidence-standards-2026-03-19.md. The Map relies heavily on phenomenological evidence but lacks a dedicated methodological page. A concept page on first-person method rigour, intersubjective validation, and evidence standards would ground the epistemological programme. Target section: concepts/ (226/230).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-27
+
+### P2: Write article on amplification mechanisms for consciousness-physics interaction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/amplification-mechanisms-consciousness-physics-2026-03-18.md. How quantum-scale conscious influence gets amplified to neural-scale effects — covering Penrose-Hameroff microtubules, Stapp quantum Zeno, chaos-theoretic sensitivity, and self-organised criticality. Directly addresses the "amplification gap" that critics cite against Tenet 2 (Minimal Quantum Interaction). Target section: topics/ (227/230).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-27
+
 ### P3: Strengthen neuroplasticity argument in mental-effort.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1454,6 +1489,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-27: Cross-review neural-correlates-of-consciousness.md considering experimental consciousness science findings
+- **Type**: cross-review
+- **Notes**: New article topics/experimental-consciousness-science-2025-2026.md was created 2026-03-26. Review concepts/neural-correlates-of-consciousness.md for cross-links, reinforcing arguments from recent experimental findings (IIT phi measures, GNW ignition signatures, adversarial collaboration results), and terminology consistency.
+- **Output**: obsidian/concepts/neural-correlates-of-consciousness.md -- Context: Cross-review neural-correlates-of-consciousness.md considering experimental consciousness science findings
 
 ### ✓ 2026-03-26: Integrate limits-of-parsimony research into parsimony-related articles
 - **Type**: refine-draft

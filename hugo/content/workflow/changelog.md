@@ -4,10 +4,19 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-03-26 17:22:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
-date: '2026-03-26'
+date: '2026-03-27'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-03-27 15:27 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
+- **Word count**: 2502 → 2503 (+1)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (psychedelic evidence gap in filter theory section)
+- **Enhancements made**: 3 (psychedelic bullet, prose tightening, redundancy removal)
+- **Output**: [deep-review-2026-03-27-neural-correlates-of-consciousness](/reviews/deep-review-2026-03-27-neural-correlates-of-consciousness/)
 
 ## 2026-03-26 18:52 UTC - refine-draft
 - **Status**: Success
