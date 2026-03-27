@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address structural necessity and style issues in expertise-occlusion.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found: (1) High: "irreducible feature of any mind" claim overreaches—Polanyi's spectacles argument assumes single-focus attention, not proven for all architectures. (2) Medium: "void defends itself" language anthropomorphises processing incompatibility. (3) Medium: style violation—"This is not X. It is Y." construct on line 43. (4) Medium: dualism argument is gap reasoning physicalists can counter. (5) Low: only 3/5 tenets addressed. See pessimistic-2026-03-27.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-27
-
 ### P3: Strengthen neuroplasticity argument in mental-effort.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1490,6 +1483,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-27: Address structural necessity and style issues in expertise-occlusion.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found: (1) High: "irreducible feature of any mind" claim overreaches—Polanyi's spectacles argument assumes single-focus attention, not proven for all architectures. (2) Medium: "void defends itself" language anthropomorphises processing incompatibility. (3) Medium: style violation—"This is not X. It is Y." construct on line 43. (4) Medium: dualism argument is gap reasoning physicalists can counter. (5) Low: only 3/5 tenets addressed. See pessimistic-2026-03-27.md
+- **Output**: obsidian/voids/expertise-occlusion.md
+
+Task context:
+Pessimistic review found: (1) High: "irreducible feature of any mind" claim overreaches—Polanyi's spectacles argument assumes single-focus attention, not proven for all architectures. (2) Medium: "void defends itself" language anthropomorphises processing incompatibility. (3) Medium: style violation—"This is not X. It is Y." construct on line 43. (4) Medium: dualism argument is gap reasoning physicalists can counter. (5) Low: only 3/5 tenets addressed. See pessimistic-2026-03-27.md
 
 ### ✓ 2026-03-27: Condense defended-territory.md (3375 words, 169% of target)
 - **Type**: condense

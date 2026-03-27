@@ -5,6 +5,12 @@ ai_modified: 2026-03-26T17:22:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-27 21:18 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/expertise-occlusion]]
+- **Changes**: Qualified overreaching "irreducible feature of any mind" claim to focused-attention architectures, removed anthropomorphic "void defends itself" language, fixed "This is not X. It is Y." style violation, strengthened dualism argument against physicalist counter, added Minimal Quantum Interaction and No Many Worlds tenet connections (now 5/5)
+- **Published**: yes
+
 ## 2026-03-27 21:02 UTC - condense
 - **Status**: Success
 - **File**: [[voids/defended-territory]]
