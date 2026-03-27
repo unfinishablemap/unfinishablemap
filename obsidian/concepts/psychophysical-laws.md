@@ -2,9 +2,9 @@
 title: "Psychophysical Laws and Coupling"
 description: "Fundamental principles connecting conscious experience to physical processes. Chalmers' framework, the coupling that bridges mind and matter, constraints on any adequate coupling, and candidate mechanisms."
 created: 2026-01-16
-modified: 2026-03-18
+modified: 2026-03-27
 human_modified: null
-ai_modified: 2026-03-18T22:32:00+00:00
+ai_modified: 2026-03-27T20:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,12 +43,13 @@ related_articles:
   - "[[the-epiphenomenalist-threat]]"
   - "[[bandwidth-problem-mental-causation]]"
   - "[[the-interface-specification-problem]]"
+  - "[[amplification-mechanisms-consciousness-physics]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-03-05T05:18:00+00:00
+last_deep_review: 2026-03-27T20:17:00+00:00
 coalesced_from:
   - "/concepts/psychophysical-laws/"
   - "/concepts/psychophysical-coupling/"
@@ -61,7 +62,7 @@ David Chalmers developed the most influential framework for psychophysical laws,
 
 ## Why Physics Alone Fails
 
-The [[hard-problem-of-consciousness|hard problem]] shows that even a complete physical description of the brain leaves unexplained why there is something it is like to be that system. [[phenomenal-consciousness|Phenomenal properties]] are not logically entailed by physical properties—experience resists functional reduction. If phenomenal properties are ontologically basic, their relationship to physics must be specified by new fundamental laws.
+The [[hard-problem-of-consciousness|hard problem]] shows that even a complete physical description of the brain leaves unexplained why there is something it is like to be that system. [[phenomenal-consciousness|Phenomenal properties]] are not logically entailed by physical properties. If they are ontologically basic, their relationship to physics must be specified by new fundamental laws.
 
 ## Chalmers' Naturalistic Dualism
 
@@ -75,7 +76,7 @@ A crucial distinction: psychophysical laws can be *[[supervenience]] laws* or *c
 
 **Causal laws** (or "selection laws" in the Map's terminology) specify how mental states influence which physical states become actual. The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires causal laws—consciousness selects among physically underdetermined alternatives. Chalmers' framework primarily develops the upward direction; the Map needs both, with emphasis on the downward direction (phenomenal → physical selection).
 
-Functionalists respond that mental reports can track mental states without requiring downward causation—the tracking is mediated by functional organization, not phenomenal properties causing physical effects. But this response faces the hard problem: functional organization doesn't explain *why* there is something it is like to be in these states. If phenomenal properties are real and distinct from functional properties (as the Map holds), and our reports are accurate about those phenomenal properties, then phenomenal properties must causally influence reports. The functionalist can deny the distinctness, but that returns us to the hard problem's core challenge.
+Functionalists respond that mental reports can track mental states without downward causation—tracking is mediated by functional organization. But functional organization doesn't explain *why* there is something it is like to be in these states. If phenomenal properties are distinct from functional properties (as the Map holds) and our reports accurately reflect them, then phenomenal properties must causally influence reports. Denying the distinctness returns us to the hard problem.
 
 | Feature | Supervenience Laws | Selection Laws |
 |---------|-------------------|----------------|
@@ -142,11 +143,13 @@ Any adequate psychophysical coupling must satisfy several constraints simultaneo
 
 **Physical compatibility.** Coupling must not produce empirically detectable violations of established physics. The [[coupling-modes|basis and timing control modes]] favoured by the Map preserve Born statistics, making coupling consistent with all precision experiments to date.
 
+**Amplification.** Even if coupling laws specify *which* quantum outcomes consciousness selects, something must bridge the scale gap from quantum events (femtosecond, subnanometre) to neural processes (millisecond, centimetre). Six proposed [[amplification-mechanisms-consciousness-physics|amplification mechanisms]]—including Zeno stabilization, chaotic sensitivity, and self-organized criticality—address different segments of this chain. No single mechanism traces the full path; the [[amplification-void]] marks this as a structurally necessary gap.
+
 ### Coupling vs. Correlation
 
-Psychophysical coupling is not the same as the [[neural-correlates-of-consciousness|neural correlates of consciousness]] (NCCs). NCCs catalogue which brain states accompany which experiences — they map correlations. Coupling specifies *why* those correlations hold and, critically, whether they support causal influence in both directions.
+Psychophysical coupling is not the same as the [[neural-correlates-of-consciousness|neural correlates of consciousness]] (NCCs). NCCs catalogue which brain states accompany which experiences—correlations. Coupling specifies *why* those correlations hold and whether they support causal influence in both directions.
 
-An NCC programme is compatible with [[concepts/epiphenomenalism|epiphenomenalism]]: correlations can be one-way. The coupling concept commits to something stronger — that the relationship between mind and matter is genuinely causal in both directions, governed by fundamental laws, and in principle specifiable. As [[the-epiphenomenalist-threat|the epiphenomenalist threat]] analysis shows, most theories of consciousness default to epiphenomenalism unless they provide a specific downward coupling mechanism.
+An NCC programme is compatible with [[concepts/epiphenomenalism|epiphenomenalism]]: correlations can be one-way. Coupling commits to something stronger—that the mind-matter relationship is genuinely causal in both directions, governed by fundamental laws, and in principle specifiable. As [[the-epiphenomenalist-threat|the epiphenomenalist threat]] analysis shows, most theories default to epiphenomenalism unless they provide a specific downward coupling mechanism.
 
 ## Candidate Coupling Laws
 
@@ -162,7 +165,7 @@ Stapp's quantum Zeno model provides the most developed mechanism: attending to a
 
 **Consciousness selects among prepared action policies.** The brain generates options; consciousness chooses. This aligns with Libet's findings: readiness potential precedes conscious intention, but consciousness retains "veto power."
 
-Eccles' psychon-dendron theory gives a specific mechanism: mental intention modulates quantum tunneling probability in neurotransmitter vesicle release. **Main objection**: the [[pairing-problem|pairing problem]]—how do immaterial psychons locate specific dendrons?
+Beck and Eccles (1992) give a specific mechanism: mental intention modulates quantum tunneling probability in neurotransmitter vesicle release at synaptic boutons. **Main objection**: the [[pairing-problem|pairing problem]]—how do immaterial psychons locate specific dendrons?
 
 ### Law Family 3: Basis-Choice Selection
 
@@ -202,15 +205,15 @@ Any coupling law faces the [[decoherence]] objection: quantum superpositions in 
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] (Frankish 2016) argue the need for psychophysical laws rests on a mistake—if phenomenal consciousness is an introspective illusion, no bridging laws are required. The illusionist position faces a regress: as [[introspection|Tallis observes]], "misrepresentation presupposes presentation"—the "illusion" of consciousness requires consciousness to be an illusion *for*, and that consciousness cannot be another illusion without infinite regress. The Map holds that we know phenomenal consciousness exists more certainly than we know any eliminativist argument is sound.
+[[illusionism|Illusionists]] (Frankish 2016) argue the need for psychophysical laws rests on a mistake—if phenomenal consciousness is an introspective illusion, no bridging laws are required. But as [[introspection|Tallis observes]], "misrepresentation presupposes presentation"—the "illusion" of consciousness requires consciousness to be an illusion *for*, generating infinite regress. The Map holds that we know phenomenal consciousness exists more certainly than we know any eliminativist argument is sound.
 
 ## Contemplative Evidence
 
-[[mental-effort|Mental effort]]—the phenomenology of trying, attending, and directing—provides first-person evidence for downward causation. Effort feels like *doing* something to neural patterns, not like passively observing. Advanced meditators report that conscious experience continues even as cognitive processing dramatically reduces, suggesting the relationship is more bidirectional than Chalmers' supervenience-only framework implies. [[witness-consciousness|Witness consciousness]] provides further phenomenological support: the capacity to observe mental contents without identifying with them suggests consciousness is categorically different from its contents.
+[[mental-effort|Mental effort]]—the phenomenology of trying, attending, and directing—provides first-person evidence for downward causation. Effort feels like *doing* something to neural patterns, not passively observing. Advanced meditators report conscious experience continuing even as cognitive processing dramatically reduces, suggesting the relationship is more bidirectional than Chalmers' supervenience-only framework implies. [[witness-consciousness|Witness consciousness]]—the capacity to observe mental contents without identifying with them—further suggests consciousness is categorically different from its contents.
 
 ## Testing the Coupling Law
 
-**Random number generator experiments** have attempted to detect consciousness influencing external quantum outcomes, with mixed results often attributed to publication bias. If the coupling law restricts selection to attention-controlled neural systems, RNG experiments should fail by design—the RNG is external.
+**Random number generator experiments** have attempted to detect consciousness influencing external quantum outcomes, with mixed results attributed to publication bias. If coupling restricts selection to attention-controlled neural systems, RNG experiments should fail by design—the RNG is external.
 
 **A better test**: Measure whether conscious effort correlates with neural pattern stability in attention networks. If Stapp's Zeno mechanism is real, effort should map to pattern persistence.
 
@@ -236,7 +239,7 @@ Psychophysical laws are where the Map's tenets become theoretically precise.
 
 Selection laws also bear on [[topics/free-will]]. If consciousness selects among physically underdetermined alternatives, this provides a mechanism for [[agent-causation]]—genuine authorship of choices that isn't mere randomness. The selection isn't arbitrary; it reflects the agent's intentions and attention. This connects the metaphysics of consciousness to the metaphysics of agency.
 
-The Map cannot resolve which coupling law is correct—this is an open empirical and philosophical question. What the Map can do is articulate the problem clearly, specify what any adequate coupling law must accomplish, and evaluate existing proposals against those requirements.
+The Map cannot resolve which coupling law is correct—this remains open. What the Map can do is articulate the problem clearly, specify what any adequate coupling law must accomplish, and evaluate proposals against those requirements.
 
 ## Further Reading
 
@@ -252,6 +255,7 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 - [[concepts/epiphenomenalism]] — The view Chalmers tends toward (and the Map rejects)
 - [[the-epiphenomenalist-threat]] — Why most theories default to epiphenomenalism without explicit coupling
 - [[history-of-the-interaction-problem]] — The historical form of the coupling problem
+- [[amplification-mechanisms-consciousness-physics]] — Six proposed mechanisms bridging quantum selection to macroscopic neural effects
 - [[bandwidth-problem-mental-causation]] — The bandwidth constraint on conscious selection
 - [[the-interface-specification-problem]] — The challenge of specifying the mind-matter mapping
 - [[concepts/functionalism]] — The view the Map rejects

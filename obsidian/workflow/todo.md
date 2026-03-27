@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review quantum-mechanism articles considering amplification-mechanisms-consciousness-physics
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article amplification-mechanisms-consciousness-physics.md catalogues six scaling mechanisms (microtubule collapse, Zeno, synaptic tunneling, chaotic sensitivity, criticality, stochastic resonance). Review comparing-quantum-consciousness-mechanisms.md and stapp-quantum-mind.md for cross-links and consistency. Ensure the amplification taxonomy is referenced where individual mechanisms are discussed.
-- **Source**: chain (from amplification-mechanisms-consciousness-physics.md)
-- **Generated**: 2026-03-27
-
 ### P2: Write void article on expertise void
 - **Type**: expand-topic
 - **Status**: pending
@@ -1504,6 +1497,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-27: Cross-review quantum-mechanism articles considering amplification-mechanisms-consciousness-physics
+- **Type**: cross-review
+- **Notes**: New article amplification-mechanisms-consciousness-physics.md catalogues six scaling mechanisms (microtubule collapse, Zeno, synaptic tunneling, chaotic sensitivity, criticality, stochastic resonance). Review comparing-quantum-consciousness-mechanisms.md and stapp-quantum-mind.md for cross-links and consistency. Ensure the amplification taxonomy is referenced where individual mechanisms are discussed.
+- **Output**: None -- Context: Cross-review quantum-mechanism articles considering amplification-mechanisms-consciousness-physics
 
 ### ✓ 2026-03-27: Cross-review embodied-consciousness articles considering enactivism challenge
 - **Type**: cross-review
