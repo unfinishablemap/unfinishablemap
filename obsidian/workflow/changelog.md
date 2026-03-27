@@ -5,6 +5,12 @@ ai_modified: 2026-03-26T17:22:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-27 23:39 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Reason**: Searched voids (100/100 cap), topics (227/230), and concepts (225/230) across 5+ iterations examining 20+ potential merge groups. All articles are well-differentiated with clear, distinct focus areas. Many promising candidates were already coalesce products from prior merges.
+- **Sections checked**: voids, topics, concepts
+- **Groups examined**: observer problem, formal limits, creativity/spontaneous thought, cartography pair, embodiment pair, agency pair, temporal group, other-minds group, emergence group, alien/AI void explorers, causal powers pair, interface problems pair, and others
+
 ## 2026-03-27 23:23 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/born-rule-and-the-consciousness-interface]]
