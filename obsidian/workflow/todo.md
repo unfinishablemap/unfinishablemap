@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review qualia.md considering evaluative-qualia insights
-- **Type**: cross-review
-- **Notes**: New concept page concepts/evaluative-qualia.md created 2026-03-27 extends the qualia concept into evaluative territory (beauty, ugliness, rightness, wrongness). The parent qualia.md page should reference this new subcategory and note that the hard problem extends through evaluation, not just sensation. evaluative-qualia.md currently has 0 inbound content links — this review should add the first.
-- **Source**: chain (from evaluative-qualia.md)
-- **Generated**: 2026-03-27
-
 ### P2: Cross-review phenomenal-value-realism.md considering evaluative-qualia insights
 - **Type**: cross-review
 - **Notes**: New concept page concepts/evaluative-qualia.md created 2026-03-27 overlaps significantly with phenomenal-value-realism.md — both address consciousness-grounded normativity and the irreducibility of evaluative experience. Check for consistent terminology, add cross-links, and identify whether evaluative qualia strengthen or tension with the value realism argument.
@@ -1528,6 +1522,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-27: Cross-review qualia.md considering evaluative-qualia insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/evaluative-qualia.md created 2026-03-27 extends the qualia concept into evaluative territory (beauty, ugliness, rightness, wrongness). The parent qualia.md page should reference this new subcategory and note that the hard problem extends through evaluation, not just sensation. evaluative-qualia.md currently has 0 inbound content links — this review should add the first.
+- **Output**: obsidian/concepts/qualia.md -- Context: Cross-review qualia.md considering evaluative-qualia insights
 
 ### ✓ 2026-03-27: Create concept page for epistemological-limits-of-occams-razor
 - **Type**: expand-topic
