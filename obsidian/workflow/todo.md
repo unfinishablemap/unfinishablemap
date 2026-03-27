@@ -129,6 +129,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-26
 
+### P3: Write article on the epistemology of convergence as evidential strategy
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map increasingly relies on convergence from independent methodologies (pharmacological, phenomenological, clinical, contemplative, quantum-biological). A dedicated article formalising when independent convergence is evidentially powerful, when it fails, and how it differs from cherry-picking would ground the epistemological programme. Builds on the-convergence-argument-for-dualism, epistemology-of-convergence-arguments, experimental-consciousness-science-2025-2026. Target section: topics/. See optimistic-2026-03-27.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-27
+
+### P3: Write article on biological computationalism's inadvertent case for dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Milinkovic and Aru's (2025) argument that consciousness requires specific biological substrates inadvertently destroys functionalism. A dedicated treatment showing how this narrows physicalism to a claim about specific matter. Builds on experimental-consciousness-science-2025-2026, functionalism, substrate-independence, machine-consciousness. Target section: topics/. See optimistic-2026-03-27.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-27
+
+### P3: Write article on phenomenology of anaesthetic recovery
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. First-person reports of returning from anaesthesia—hierarchical restoration of awareness, temporal discontinuity, bootstrapping experience. Currently embedded in anaesthesia article but rich enough for standalone phenomenological treatment. Builds on anaesthesia-and-the-consciousness-interface, temporal-structure-of-consciousness, degrees-of-consciousness. Target section: topics/. See optimistic-2026-03-27.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-27
+
+### P3: Add cross-links between experimental-consciousness-science and enactivism, consciousness-as-amplifier
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. experimental-consciousness-science-2025-2026 → enactivism-challenge-to-interactionist-dualism (biological computationalism undermines functionalism; enactivism article attacks it from another angle), experimental-consciousness-science-2025-2026 → consciousness-as-amplifier (substrate-specificity supports amplifier over epiphenomenalism), enactivism-challenge-to-interactionist-dualism → self-stultification-as-master-argument (enactivism's irreducibility commitment entails causal efficacy). See optimistic-2026-03-27.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-27
+
 ### P3: Write concept page on substance causation (Lowe's four-category ontology)
 - **Type**: expand-topic
 - **Status**: pending
