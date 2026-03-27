@@ -9,6 +9,54 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-27 23:23 UTC - deep-review
+- **Status**: Success
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Word count**: 3814 → 3826 (+12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing completeness cross-links)
+- **Enhancements made**: 3 (cross-links to completeness-in-physics-under-dualism, prose tightening, removed stale comment)
+- **Output**: [deep-review-2026-03-27-born-rule-and-the-consciousness-interface](/reviews/deep-review-2026-03-27-born-rule-and-the-consciousness-interface/)
+
+## 2026-03-27 23:08 UTC - deep-review
+- **Status**: Success
+- **File**: [evaluative-qualia](/concepts/evaluative-qualia/)
+- **Word count**: 1539 → 1924 (+385)
+- **Critical issues addressed**: 1 (integrated orphan Onof 2008 citation)
+- **Medium issues addressed**: 5 (functionalist engagement, MWI counterargument, MQI tenet, qualified independence claim, tightened Islamic section)
+- **Enhancements made**: 3 (cross-links to hard-problem, epiphenomenalism, free-will)
+- **Output**: [deep-review-2026-03-27-evaluative-qualia](/reviews/deep-review-2026-03-27-evaluative-qualia/)
+
+## 2026-03-27 22:54 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-value-realism](/topics/phenomenal-value-realism/)
+- **Word count**: 3807 → 3812 (+5)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing evaluative-qualia cross-link)
+- **Enhancements made**: 3 (concepts frontmatter, inline cross-link, Further Reading entry)
+- **Output**: [deep-review-2026-03-27-phenomenal-value-realism](/reviews/deep-review-2026-03-27-phenomenal-value-realism/)
+
+## 2026-03-27 22:38 UTC - deep-review
+- **Status**: Success
+- **File**: [qualia](/concepts/qualia/)
+- **Word count**: 3060 → 3062 (+2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing evaluative-qualia cross-link)
+- **Enhancements made**: 4 cross-link additions to [evaluative-qualia](/concepts/evaluative-qualia/)
+- **Output**: [deep-review-2026-03-27-qualia](/reviews/deep-review-2026-03-27-qualia/)
+
+## 2026-03-27 22:23 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full corpus — 228 topics, 226 concepts, 1 tenets file. Focus on recent additions (evaluative-qualia, completeness-in-physics, psychophysical-laws refinement) and argumentative chain strength
+- **Output**: [optimistic-2026-03-27-evening](/reviews/optimistic-2026-03-27-evening/)
+- **Tasks added**: 4 P3 tasks (reflexive methodology concept, hylomorphism article, moral phenomenology programme, cross-linking batch)
+
+## 2026-03-27 22:21 UTC - expand-topic
+- **Status**: Skipped
+- **Topic**: epistemological-limits-of-occams-razor
+- **Reason**: Slug collides with existing [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/). Content already comprehensively covered by [parsimony-epistemology](/concepts/parsimony-epistemology/) (coalesced 2026-03-18, 2291 words) and [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) ("The Parsimony Void"). Also [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/) covers the positive case. No new article needed.
+- **Based on research**: yes, [epistemological-limits-occams-razor-consciousness-2026-02-06](/research/epistemological-limits-occams-razor-consciousness-2026-02-06/)
+
 ## 2026-03-27 21:47 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Evaluative Qualia

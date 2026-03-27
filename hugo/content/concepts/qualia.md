@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-03-25 09:43:00+00:00
+ai_modified: 2026-03-27 22:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,6 +20,7 @@ concepts:
 - '[[semantic-memory]]'
 - '[[cognitive-phenomenology]]'
 - '[[emotion-and-dualism]]'
+- '[[evaluative-qualia]]'
 - '[[explanatory-gap]]'
 - '[[introspection]]'
 - '[[decoherence]]'
@@ -36,7 +37,7 @@ description: The intrinsic, subjective qualities of conscious experience—the r
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-08 00:03:00+00:00
+last_deep_review: 2026-03-27 22:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -56,7 +57,7 @@ Qualia are closely related to [phenomenal-consciousness](/concepts/phenomenal-co
 
 ## Why Qualia Matter
 
-Qualia sit at the heart of the [hard problem of consciousness](/topics/hard-problem-of-consciousness/). We can explain the neurological processes that detect light wavelengths, but no amount of neurological detail tells us *why* there is something it is like to see red rather than nothing at all. The explanatory gap between physical description and subjective experience remains unbridged. [Emotional valence](/topics/emotion-and-dualism/)—the felt badness of pain and goodness of pleasure—provides perhaps the starkest case, and grounds [phenomenal value realism](/topics/phenomenal-value-realism/)'s claim that these felt qualities *constitute* intrinsic value rather than merely indicating it. Pain asymbolia patients prove that functional pain processing without the felt quality loses its motivational force—[pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) develops this as the hardest case for epiphenomenalism. More broadly, [content-specificity](/concepts/content-specificity-of-mental-causation/) demonstrates that specific qualia produce specific causal consequences: different placebo beliefs trigger different neurochemical cascades, and the granularity of the mapping tracks the granularity of phenomenal content.
+Qualia sit at the heart of the [hard problem of consciousness](/topics/hard-problem-of-consciousness/). We can explain the neurological processes that detect light wavelengths, but no amount of neurological detail tells us *why* there is something it is like to see red rather than nothing at all. The explanatory gap between physical description and subjective experience remains unbridged. [Emotional valence](/topics/emotion-and-dualism/)—the felt badness of pain and goodness of pleasure—provides perhaps the starkest case. These are [evaluative-qualia](/concepts/evaluative-qualia/)—phenomenal experiences whose qualitative character is intrinsically evaluative—and they ground [phenomenal value realism](/topics/phenomenal-value-realism/)'s claim that felt qualities *constitute* intrinsic value rather than merely indicating it. Pain asymbolia patients prove that functional pain processing without the felt quality loses its motivational force—[pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) develops this as the hardest case for epiphenomenalism. More broadly, [content-specificity](/concepts/content-specificity-of-mental-causation/) demonstrates that specific qualia produce specific causal consequences: different placebo beliefs trigger different neurochemical cascades, and the granularity of the mapping tracks the granularity of phenomenal content.
 
 Consider two scenarios:
 1. A neuroscientist gives a complete account of pain—nerve fibers, neurotransmitter release, brain regions activated
@@ -108,7 +109,7 @@ Block's [phenomenal overflow](/voids/pre-conceptual-knowing/#phenomenal-overflow
 
 [Aesthetic experience](/topics/aesthetics-and-consciousness/) provides perhaps the strongest case for qualia's resistance to reduction. Colours carry aesthetic character (*warm*, *serene*, *electric*) independent of what they represent. Some rooms feel oppressive; others inviting. Ideas have aesthetic character—Einstein reported general relativity "felt right" before he could prove it.
 
-Aesthetic qualia may resist reduction more than sensory qualia: the [inverted spectrum](/concepts/inverted-qualia/) argument faces the objection that colour space has structural asymmetries making inversion detectable. But aesthetic space lacks such asymmetries—someone whose aesthetic qualia are systematically inverted could behave identically to you. Aesthetic qualia also carry intrinsic normativity: beauty *calls for* attention. If qualia were purely functional, this felt imperative would be mysterious. The [aesthetic-void](/voids/aesthetic-void/) explores what this resistance to articulation reveals about cognitive limits. See [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) for detailed treatment.
+Aesthetic qualia may resist reduction more than sensory qualia: the [inverted spectrum](/concepts/inverted-qualia/) argument faces the objection that colour space has structural asymmetries making inversion detectable. But aesthetic space lacks such asymmetries—someone whose aesthetic qualia are systematically inverted could behave identically to you. Aesthetic qualia also carry intrinsic normativity: beauty *calls for* attention. This marks them as [evaluative-qualia](/concepts/evaluative-qualia/)—their qualitative character is inseparable from their evaluative significance. The [aesthetic-void](/voids/aesthetic-void/) explores what this resistance to articulation reveals about cognitive limits.
 
 ## Thought Experiments
 
@@ -199,7 +200,7 @@ Qualia have indexical character: *this* experience of red is mine, not another's
 
 MWI with [decoherence](/concepts/decoherence/) does predict definite qualia within each branch—decoherence ensures that observers in any given branch experience determinate qualities, not superpositions. The problem is not physics but identity. If all branches exist equally, then for every quale you experience, a physically identical copy of you experiences a different one. The question "why am I experiencing *this* red rather than a slightly different red?" has no answer—or rather, every answer is realised somewhere. Indexical identity—the fact that *I* am this particular experiencer and not one of my branching counterparts—becomes either meaningless or an unexplained brute fact.
 
-This matters for qualia because their indexical character is central to what makes them philosophically significant. The quale of pain is not just *a* pain occurring somewhere in the multiverse—it is *my* pain, experienced from *this* perspective. If MWI dissolves the distinction between the actualised and the merely possible, it undermines the very indexicality that makes qualia resistant to third-person description. Single-outcome interpretations, where consciousness participates in genuine quantum selection, preserve the determinacy that phenomenology demands.
+The quale of pain is not just *a* pain occurring somewhere in the multiverse—it is *my* pain, experienced from *this* perspective. If MWI dissolves the distinction between the actualised and the merely possible, it undermines the very indexicality that makes qualia resistant to third-person description. Single-outcome interpretations, where consciousness participates in genuine quantum selection, preserve the determinacy that phenomenology demands.
 
 ### Occam's Razor Has Limits
 
@@ -220,6 +221,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 - [illusionism](/concepts/illusionism/) - The radical denial of phenomenal properties
 
 **Extensions:**
+- [evaluative-qualia](/concepts/evaluative-qualia/) - Phenomenal experiences carrying intrinsic evaluative character (goodness, beauty, wrongness)
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) - Why qualia resist linguistic capture (bidirectional lossy channel)
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) - Aesthetic qualia resistant to reduction
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) - Whether thinking has phenomenal character
