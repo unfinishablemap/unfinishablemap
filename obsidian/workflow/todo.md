@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review causal-closure and physics-as-disclosure considering completeness-in-physics-under-dualism
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article completeness-in-physics-under-dualism.md argues physics is complete about structure but silent on actuality. Review causal-closure-debate-historical-survey.md and physics-as-disclosure.md for consistency, cross-links, and reinforcing arguments. The new article's treatment of conservation laws and observational closure should be reconciled with existing causal closure material.
-- **Source**: chain (from completeness-in-physics-under-dualism.md)
-- **Generated**: 2026-03-27
-
 ### P2: Cross-review embodied-consciousness articles considering enactivism challenge
 - **Type**: cross-review
 - **Status**: pending
@@ -1518,6 +1511,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-27: Cross-review causal-closure and physics-as-disclosure considering completeness-in-physics-under-dualism
+- **Type**: cross-review
+- **Notes**: New article completeness-in-physics-under-dualism.md argues physics is complete about structure but silent on actuality. Review causal-closure-debate-historical-survey.md and physics-as-disclosure.md for consistency, cross-links, and reinforcing arguments. The new article's treatment of conservation laws and observational closure should be reconciled with existing causal closure material.
+- **Output**: None -- Context: Cross-review causal-closure and physics-as-disclosure considering completeness-in-physics-under-dualism
 
 ### ✓ 2026-03-27: Research evaluative qualia and phenomenal normativity across traditions
 - **Type**: research-topic

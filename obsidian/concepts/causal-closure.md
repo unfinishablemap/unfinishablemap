@@ -4,7 +4,7 @@ description: "Causal closure claims every physical event has sufficient physical
 created: 2026-01-14
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-03-21T13:34:00+00:00
+ai_modified: 2026-03-27T19:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,12 +38,13 @@ related_articles:
   - "[[what-consciousness-tells-us-about-physics]]"
   - "[[self-reference-and-the-limits-of-physical-description]]"
   - "[[causal-closure-debate-historical-survey]]"
+  - "[[completeness-in-physics-under-dualism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-03-20T00:37:00+00:00
+last_deep_review: 2026-03-27T19:39:00+00:00
 coalesced_from:
   - "/concepts/observational-closure/"
 ---
@@ -220,6 +221,7 @@ This is not "god of the gaps" reasoning. Physics *describes* a gap—between qua
 - [[concepts/materialism]] — The worldview closure supports
 - [[explanatory-gap]] — Why physical knowledge leaves phenomenal experience unexplained
 - [[metaphysics-of-information-under-dualism]] — Information's ontological status and the syntax-semantics divide in causal selection
+- [[completeness-in-physics-under-dualism]] — The reversal: structural completeness supports dualism rather than undermining it
 - [[the-reverse-inference]] — The epistemic asymmetry: consciousness is a more secure datum than quantum interpretation, so it should constrain physics
 - [[what-consciousness-tells-us-about-physics]] — Apex synthesis: if consciousness selects quantum outcomes, physics is structurally partial—the reverse inference from mind to matter
 
