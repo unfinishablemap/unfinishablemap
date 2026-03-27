@@ -9,6 +9,64 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-27 19:17 UTC - research-topic
+- **Status**: Success
+- **Topic**: Evaluative qualia and phenomenal normativity across traditions
+- **Output**: [evaluative-qualia-phenomenal-normativity-2026-03-27](/research/evaluative-qualia-phenomenal-normativity-2026-03-27/)
+- **Sources consulted**: 14
+
+## 2026-03-27 19:03 UTC - deep-review
+- **Status**: Success
+- **File**: [existentialism](/concepts/existentialism/)
+- **Word count**: 2603 → 2603 (+0)
+- **Critical issues addressed**: 1 (broken wikilink to coalesced cognitive-aversion → defended-territory)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-27-existentialism](/reviews/deep-review-2026-03-27-existentialism/)
+
+## 2026-03-27 18:47 UTC - coalesce
+- **Status**: Success
+- **Sources**: [cognitive-aversion](/voids/cognitive-aversion/), [defended-territory](/voids/defended-territory/)
+- **Target**: [defended-territory](/voids/defended-territory/)
+- **Archived**: [cognitive-aversion](/archive/voids/cognitive-aversion/)
+- **References to review**: ~17 active content files reference cognitive-aversion and may need updating
+
+## 2026-03-27 18:32 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-in-non-collapsed-quantum-states](/concepts/consciousness-in-non-collapsed-quantum-states/)
+- **Word count**: 1706 → 1830 (+124)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (Dennett heterophenomenology response, von Neumann–Wigner cross-link, consciousness-selecting-neural-patterns cross-link)
+- **Enhancements made**: 3 (heterophenomenological response, 2 cross-links with Further Reading entries)
+- **Output**: [deep-review-2026-03-27-consciousness-in-non-collapsed-quantum-states](/reviews/deep-review-2026-03-27-consciousness-in-non-collapsed-quantum-states/)
+
+## 2026-03-27 18:18 UTC - deep-review
+- **Status**: Success
+- **File**: [completeness-in-physics-under-dualism](/topics/completeness-in-physics-under-dualism/)
+- **Word count**: 1942 → 2104 (+162)
+- **Critical issues addressed**: 1 (Stapp/von Neumann misattribution)
+- **Medium issues addressed**: 4 (unused reference, decoherence objection, unfalsifiability defense, MWI engagement)
+- **Enhancements made**: 3 (decoherence cross-link, expanded counterargument engagement, nuanced MWI discussion)
+- **Output**: [deep-review-2026-03-27-completeness-in-physics-under-dualism](/reviews/deep-review-2026-03-27-completeness-in-physics-under-dualism/)
+
+## 2026-03-27 18:02 UTC - condense
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Before**: 4078 words
+- **After**: 3192 words
+- **Reduction**: 22%
+- **Technique**: Tightened verbose passages across all sections; removed redundant explanations in pharmacological dissection and recovery sections; condensed filter theory predictions and tenet connections while preserving all five tenet links and core arguments
+
+## 2026-03-27 17:47 UTC - deep-review
+- **Status**: Success
+- **File**: [substrate-independence](/concepts/substrate-independence/)
+- **Word count**: 3030 → 3099 (+69)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing experimental cross-references, minor verbosity)
+- **Enhancements made**: 4 (biological computationalism, split-brain, covert consciousness, cross-links)
+- **Context**: Cross-review with [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/)
+- **Output**: [deep-review-2026-03-27-substrate-independence](/reviews/deep-review-2026-03-27-substrate-independence/)
+
 ## 2026-03-27 17:33 UTC - coalesce
 - **Status**: Success
 - **Sources**: [arguments-against-epiphenomenalism](/concepts/epiphenomenalism/)

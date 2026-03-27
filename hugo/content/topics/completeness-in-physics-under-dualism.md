@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-27
-ai_modified: 2026-03-27 17:17:00+00:00
+ai_modified: 2026-03-27 18:18:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -13,6 +13,7 @@ concepts:
 - '[[measurement-problem]]'
 - '[[interactionist-dualism]]'
 - '[[mental-causation]]'
+- '[[decoherence]]'
 created: 2026-03-27
 date: &id001 2026-03-27
 description: Physics is complete about structure but silent on actuality. Properly
@@ -21,7 +22,7 @@ description: Physics is complete about structure but silent on actuality. Proper
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-27 18:18:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,7 +68,7 @@ The reversal at the heart of the Map's position is this: the very results that e
 
 The no-go theorems close off the possibility that quantum mechanics is an incomplete sketch of deeper, deterministic physics. There are no local hidden variables waiting to be discovered (Bell). There are no pre-existing values independent of measurement context (Kochen-Specker). The wavefunction is not a summary of ignorance about a more fundamental state (PBR). Physics is structurally finished.
 
-But "structurally finished" is not "ontologically finished." Von Neumann's decomposition of quantum processes identifies the precise location of the gap. Process 2 (unitary evolution under the Schrödinger equation) is fully determined. Process 3 (the Born rule probabilities) is fully determined. Process 1—the selection of which measurement occurs, and which outcome becomes actual—is not determined by any known physical law. As Stapp (2005) emphasises, neither the content nor the timing of Process 1 events is determined, even statistically, by quantum mechanics.
+But "structurally finished" is not "ontologically finished." Stapp's (2005) refinement of von Neumann's process decomposition identifies the precise location of the gap. Von Neumann (1932) originally distinguished two processes: unitary evolution and measurement collapse. Stapp sharpened this into three: Process 2 (unitary evolution under the Schrödinger equation) is fully determined. Process 3 (the Born rule probabilities for collapse outcomes) is fully determined. Process 1—the selection of which measurement occurs, and which outcome becomes actual—is not determined by any known physical law. As Stapp emphasises, neither the content nor the timing of Process 1 events is determined, even statistically, by quantum mechanics.
 
 This is what "partial but complete" means. Physics is complete within its domain—structure and statistics—while being partial about what lies at the domain's boundary: the emergence of definite actuality from quantum possibility. The gap is not a deficiency in current physics. It is a boundary inherent in what physical description does. Additional physics would add more structure. It would not bridge the gap between structure and actuality, because actuality-selection is not the kind of thing structure describes.
 
@@ -89,7 +90,11 @@ Observational closure, as Saad (2025) articulates it, holds that no *observable*
 
 Consciousness acting at quantum indeterminacies respects observational closure. When consciousness selects which outcome becomes actual, it operates *within* Born-rule probabilities. The resulting statistics are indistinguishable from random collapse. No experiment can detect the difference between "this outcome was selected by consciousness" and "this outcome occurred randomly within the probability distribution." The interaction is empirically invisible—not because it does not occur, but because it operates at exactly the point where physics assigns probabilities rather than determinate outcomes.
 
-This is not a defect of the hypothesis. It is a feature of where the gap actually is. [Conservation laws](/concepts/conservation-laws-and-mental-causation/) remain satisfied because consciousness selects among outcomes rather than injecting energy. Statistical distributions remain intact because selection operates within, not against, the Born rule. The dualist hypothesis is empirically unfalsifiable at the level of individual outcomes—but it is the honest response to a genuine gap, whereas alternatives either evade the gap (Copenhagen, QBism) or dissolve the question of indexical identity (many-worlds).
+This is not a defect of the hypothesis. It is a feature of where the gap actually is. [Conservation laws](/concepts/conservation-laws-and-mental-causation/) remain satisfied because consciousness selects among outcomes rather than injecting energy. Statistical distributions remain intact because selection operates within, not against, the Born rule.
+
+A common objection is that [decoherence](/concepts/decoherence/) dissolves the measurement problem in practice: environmental entanglement destroys superpositions so rapidly that no "selection" is needed. Decoherence explains why macroscopic superpositions are unobservable, but it does not explain why one outcome becomes actual. After decoherence, the quantum state is a *mixture* of possible outcomes with definite probabilities—the question of which possibility becomes the single experienced reality remains open. Decoherence narrows the options; it does not make the choice.
+
+The dualist hypothesis is empirically unfalsifiable at the level of individual outcomes. This is a genuine limitation, but it follows from the nature of the gap itself: any mechanism operating within Born-rule probabilities is statistically invisible by construction. The right response is not to reject the hypothesis but to evaluate it by its explanatory reach—whether it addresses a real gap that alternatives leave open. Copenhagen and QBism evade the gap by treating measurement as primitive. Many-worlds dissolves the question of indexical identity by declaring all outcomes actual, though sophisticated versions (Deutsch, Wallace) attempt to recover the Born rule from decision-theoretic principles. Whether those derivations succeed remains contested, and even if they do, they leave unanswered why *this* branch is the one I experience.
 
 ## What Completeness Means Under Dualism
 
@@ -135,6 +140,5 @@ The completeness question is foundational to the Map's entire framework, interse
 7. Stapp, H. P. (2005). Quantum Interactive Dualism: An Alternative to Materialism. *Zygon*, 40(1), 165–178.
 8. Saad, B. (2025). Delegatory Dualism. *Erkenntnis*.
 9. Von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik*. Springer.
-10. Adan, E., Barbosa, R. S., & Pieczarelli, L. (2023). Notions of Completeness in the EPR Discussion. *Entropy*, 25(4), 690.
-11. Southgate, A. & Oquatre-six, C. (2026-03-19). Physical Completeness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/physical-completeness/
-12. Southgate, A. & Sonquatre-six, C. (2026-03-17). Quantum Completeness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/quantum-completeness/
+10. Southgate, A. & Oquatre-six, C. (2026-03-19). Physical Completeness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/physical-completeness/
+11. Southgate, A. & Sonquatre-six, C. (2026-03-17). Quantum Completeness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/quantum-completeness/

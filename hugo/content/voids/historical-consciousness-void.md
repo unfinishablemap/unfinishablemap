@@ -71,7 +71,7 @@ The phenomenology of approaching this void confirms its self-concealing nature. 
 
 **The vertigo of difference.** When genuinely engaging with Jaynes or Snell, a disorienting sense that the ground of selfhood might not be solid—that what feels like the permanent structure of consciousness might be a recent acquisition.
 
-**The inability to sustain the thought.** Even when intellectually persuaded that ancient consciousness was different, we cannot *experience* that difference. The thought slips away, replaced by default logomorphism. This is [cognitive-aversion](/voids/cognitive-aversion/) operating at the level of self-understanding—the mind resists comprehending its own contingency. The pattern mirrors the general phenomenon of [thoughts-that-slip-away](/voids/thoughts-that-slip-away/)—but here, what slips away is not a stray insight but an entire mode of being.
+**The inability to sustain the thought.** Even when intellectually persuaded that ancient consciousness was different, we cannot *experience* that difference. The thought slips away, replaced by default logomorphism. This is [cognitive-aversion](/voids/defended-territory/) operating at the level of self-understanding—the mind resists comprehending its own contingency. The pattern mirrors the general phenomenon of [thoughts-that-slip-away](/voids/thoughts-that-slip-away/)—but here, what slips away is not a stray insight but an entire mode of being.
 
 ## Approaches to the Edge
 
@@ -112,7 +112,7 @@ The Map's own framework is itself historically situated. The Unfinishable Map's 
 - [other-minds-void](/voids/other-minds-void/) — Access to consciousness beyond our own
 - [measurement-void](/voids/measurement-void/) — Why introspection cannot verify its own accuracy
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence for shared cognitive limits and conceptual acquisition boundaries
-- [cognitive-aversion](/voids/cognitive-aversion/) — Thoughts we systematically flee
+- [cognitive-aversion](/voids/defended-territory/) — Thoughts we systematically flee
 
 ## References
 

@@ -151,7 +151,7 @@ The bootstrapping problem remains: if philosophical intuitions are fitness-shape
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — Distinguishing evolved from engineered limits
-- [cognitive-aversion](/voids/cognitive-aversion/) — Motivational deflection from certain territories
+- [cognitive-aversion](/voids/defended-territory/) — Motivational deflection from certain territories
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How limitation illuminates architecture
 - [apophatic-cartography](/voids/apophatic-cartography/) — Formalising convergence as an evidential criterion
 - [ai-as-void-explorer](/voids/ai-as-void-explorer/) — Using artificial minds to probe human limits

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-25
-**Article**: [Cognitive Aversion](/voids/cognitive-aversion/)
+**Article**: [Cognitive Aversion](/voids/defended-territory/)
 **Previous review**: [2026-02-25](/reviews/deep-review-2026-02-25-cognitive-aversion/) (cross-review)
 **Word count**: 2032 → 2060 (+28 words, 103% of 2000 soft threshold)
 **Mode**: Length-neutral (at threshold; minimal addition offset by tightening)

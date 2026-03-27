@@ -102,7 +102,7 @@ The narrative void also illustrates the Map's [tenet that Occam's Razor has limi
 - [inaccessible-past](/voids/inaccessible-past/)
 - [self-reference paradox](/voids/self-opacity/)
 - [creativity-void](/voids/creativity-void/)
-- [cognitive-aversion](/voids/cognitive-aversion/)
+- [cognitive-aversion](/voids/defended-territory/)
 - [narrative-coherence](/concepts/narrative-coherence/)
 - [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/)
 - [measurement-void](/voids/measurement-void/)

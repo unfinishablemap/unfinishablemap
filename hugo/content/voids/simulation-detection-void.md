@@ -73,7 +73,7 @@ The simulation hypothesis exhibits characteristic void phenomenology.
 
 **Recursive vertigo**: Thinking about simulation detection triggers meta-cognitive spirals. If this thought about simulation is itself simulated, is the doubt genuine? The recursion destabilises rather than clarifies—each level of reflection introduces another layer of potential simulation. This resembles the [self-reference paradox](/voids/self-opacity/) where consciousness cannot map itself because it is the mapper.
 
-**Affective dismissiveness**: Many dismiss the simulation hypothesis as "just science fiction" despite its philosophical rigour. This systematic dismissiveness could indicate [cognitive aversion](/voids/cognitive-aversion/)—minds deflecting from thoughts that approach [defended territory](/voids/defended-territory/).
+**Affective dismissiveness**: Many dismiss the simulation hypothesis as "just science fiction" despite its philosophical rigour. This systematic dismissiveness could indicate [cognitive aversion](/voids/defended-territory/)—minds deflecting from thoughts that approach [defended territory](/voids/defended-territory/).
 
 **Epistemic helplessness**: Unlike ordinary uncertainty, which motivates investigation, simulation uncertainty produces paralysis. We lack not just answers but any path to answers. The characteristic feeling is not "I don't know yet" but "I cannot know in principle."
 

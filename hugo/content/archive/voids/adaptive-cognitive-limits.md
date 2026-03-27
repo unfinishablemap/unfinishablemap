@@ -66,7 +66,7 @@ Adaptive limits may produce a distinctive phenomenology, different from the cogn
 
 Where architectural limits generate frustration — the experience of trying and failing to think something — adaptive limits may generate **satisfaction**. The limit feels like completion, not obstruction. There is nothing further to think, so no sense of failure arises.
 
-This connects to [cognitive-aversion](/voids/cognitive-aversion/): the motivational deflection that steers thought away from certain territories. Adaptive limits may produce **motivated disinterest** — the thought doesn't seem impossible, just uninteresting or not worth pursuing. The cognitive system has learned (through evolutionary deep time) that this direction leads nowhere productive.
+This connects to [cognitive-aversion](/voids/defended-territory/): the motivational deflection that steers thought away from certain territories. Adaptive limits may produce **motivated disinterest** — the thought doesn't seem impossible, just uninteresting or not worth pursuing. The cognitive system has learned (through evolutionary deep time) that this direction leads nowhere productive.
 
 Hoffman's work suggests the deepest form: **illusory comprehension**. We feel we understand the world because our perceptual interface is smooth and well-functioning. The void is invisible precisely because the interface hides it seamlessly. We do not experience a gap — we experience completeness.
 
@@ -93,7 +93,7 @@ The bootstrapping problem remains: if our philosophical intuitions are fitness-s
 ## Further Reading
 
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
-- [cognitive-aversion](/voids/cognitive-aversion/)
+- [cognitive-aversion](/voids/defended-territory/)
 - [convergent-cognitive-limits](/voids/evolved-cognitive-limits/)
 - [limits-reveal-structure](/voids/limits-reveal-structure/)
 - [topology-of-cognitive-failure](/voids/compound-failure-signatures/)

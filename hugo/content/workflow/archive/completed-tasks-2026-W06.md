@@ -1471,7 +1471,7 @@ Pessimistic review 2026-02-02 (midday) identified high-severity issue: the artic
 ### ✓ 2026-02-02: Write voids article on cognitive aversion
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-cognitive-aversion-2026-02-01.md. Thoughts we systematically fail to sustain—not because we cannot think them (cognitive closure), but because something deflects us.
-- **Output**: [cognitive-aversion](/voids/cognitive-aversion/)
+- **Output**: [cognitive-aversion](/voids/defended-territory/)
 
 ### ✓ 2026-02-02: Write voids article on affective void
 - **Type**: expand-topic

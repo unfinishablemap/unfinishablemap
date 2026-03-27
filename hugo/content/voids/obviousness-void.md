@@ -103,7 +103,7 @@ Current evidence: the illusion persists across domains and expertise levels, cro
 - [The Explanatory Void](/voids/explanatory-void/) — When the feeling of understanding substitutes for understanding itself
 - [self-opacity](/voids/self-opacity/) — Consciousness cannot fully know itself
 - [The Transparency Void](/voids/transparency-void/) — Consciousness cannot verify its own accuracy
-- [Cognitive Aversion](/voids/cognitive-aversion/) — Thoughts we systematically flee
+- [Cognitive Aversion](/voids/defended-territory/) — Thoughts we systematically flee
 - [The Parsimony Void](/voids/epistemological-limits-occams-razor/) — The cognitive bias behind Occam's Razor
 - [Defended Territory](/voids/defended-territory/) — Whether some thoughts are actively blocked
 - [The Phenomenal Presence Void](/voids/phenomenal-presence-void/) — Why immediacy hides its own mechanisms

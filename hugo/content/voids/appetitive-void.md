@@ -36,7 +36,7 @@ topics:
 - '[[philosophy-of-mind]]'
 ---
 
-The Unfinishable Map documents many kinds of cognitive limit: thoughts we [systematically flee](/voids/cognitive-aversion/), emotions we [cannot feel](/voids/affective-void/), truths hidden by [introspective opacity](/voids/self-opacity/). The appetitive void names something more fundamental. Desire does not merely distort cognition—it may *constitute* it. Every thought you have, including the thought that your thinking is desire-shaped, occurs within a framework that wanting has already established. The appetitive void is the impossibility of stepping outside this framework to see what cognition looks like without it.
+The Unfinishable Map documents many kinds of cognitive limit: thoughts we [systematically flee](/voids/defended-territory/), emotions we [cannot feel](/voids/affective-void/), truths hidden by [introspective opacity](/voids/self-opacity/). The appetitive void names something more fundamental. Desire does not merely distort cognition—it may *constitute* it. Every thought you have, including the thought that your thinking is desire-shaped, occurs within a framework that wanting has already established. The appetitive void is the impossibility of stepping outside this framework to see what cognition looks like without it.
 
 Multiple independent traditions converge on this diagnosis. Schopenhauer argued that intellect serves the will. Buddhism identifies craving (tanha) as woven into cognition itself. Nietzsche insisted that all knowing is perspectival knowing, driven by the will to power. Contemporary predictive processing frameworks collapse the distinction between prediction and preference. If these traditions are right, the appetitive void is not a correctable bias but a structural feature of minded existence—possibly inseparable from consciousness itself.
 
@@ -44,7 +44,7 @@ Multiple independent traditions converge on this diagnosis. Schopenhauer argued 
 
 This void occupies territory distinct from related limits on the Map:
 
-**[Cognitive aversion](/voids/cognitive-aversion/)** describes thoughts we flee—specific threatening content that triggers deflection, substitution, or glazing. The appetitive void operates at a different level. It does not block particular thoughts; it shapes the entire field within which thoughts occur. You can overcome aversion to a specific idea. You cannot overcome the appetitive orientation of cognition any more than you can see without light.
+**[Cognitive aversion](/voids/defended-territory/)** describes thoughts we flee—specific threatening content that triggers deflection, substitution, or glazing. The appetitive void operates at a different level. It does not block particular thoughts; it shapes the entire field within which thoughts occur. You can overcome aversion to a specific idea. You cannot overcome the appetitive orientation of cognition any more than you can see without light.
 
 **The [affective-void](/voids/affective-void/)** marks emotions we cannot feel—affects beyond our evolutionary and architectural reach. The appetitive void concerns how the affects we *do* have constrain what we can think. The affective void is about missing states; the appetitive void is about how present states generate cognitive limits.
 
@@ -127,7 +127,7 @@ The evidence currently points toward the appetitive void as genuine. The converg
 ## Further Reading
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
-- [cognitive-aversion](/voids/cognitive-aversion/) — Thoughts we systematically flee—the motivational cousin
+- [cognitive-aversion](/voids/defended-territory/) — Thoughts we systematically flee—the motivational cousin
 - [affective-void](/voids/affective-void/) — Emotions beyond human reach
 - [defended-territory](/voids/defended-territory/) — Whether some thoughts are actively blocked
 - [introspective opacity](/voids/self-opacity/) — Inaccessibility of cognitive processes

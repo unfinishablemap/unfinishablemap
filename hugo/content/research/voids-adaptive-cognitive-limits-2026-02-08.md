@@ -168,7 +168,7 @@ What does it feel like to approach an adaptively maintained void?
 The existing [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) article catalogues the general experience of approaching cognitive limits. But adaptive limits may have a distinctive phenomenology:
 
 - **Satisfaction rather than frustration**: Where architectural limits produce the experience of cognitive strain (trying and failing to think something), adaptive limits may produce the opposite — a sense that there is nothing further to think. The limit feels like completion, not obstruction.
-- **Motivated disinterest**: Cognitive aversion (already documented in [cognitive-aversion](/voids/cognitive-aversion/)) may be the phenomenological signature of adaptively maintained voids. The thought doesn't seem impossible — it seems uninteresting or unworth pursuing.
+- **Motivated disinterest**: Cognitive aversion (already documented in [cognitive-aversion](/voids/defended-territory/)) may be the phenomenological signature of adaptively maintained voids. The thought doesn't seem impossible — it seems uninteresting or unworth pursuing.
 - **Illusory comprehension**: Hoffman's work suggests we may feel we understand the world perfectly well, precisely because our perceptual interface is smooth and well-functioning. The void is invisible because the interface hides it seamlessly.
 - **Comfortable heuristics**: Gigerenzer's work implies that heuristic reasoning feels *right* — quick, confident, satisfying — precisely because it is well-adapted. The information being ignored doesn't register as missing.
 

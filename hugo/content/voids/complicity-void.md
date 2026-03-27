@@ -85,7 +85,7 @@ The complicity void is distinct from several neighbouring voids it superficially
 
 **Versus [defended territory](/voids/defended-territory/)**: Defended territory asks whether limits are imposed by external agents. Complicity asks whether consciousness is its own jailer—defender and defended as the same entity.
 
-**Versus [cognitive aversion](/voids/cognitive-aversion/)**: Cognitive aversion describes the phenomenology of fleeing certain thoughts. Complicity asks *why* the aversion exists—whether it serves consciousness's own interests rather than merely protecting the ego.
+**Versus [cognitive aversion](/voids/defended-territory/)**: Cognitive aversion describes the phenomenology of fleeing certain thoughts. Complicity asks *why* the aversion exists—whether it serves consciousness's own interests rather than merely protecting the ego.
 
 **Versus [the self-transcendence void](/voids/self-transcendence-void/)**: Self-transcendence asks whether consciousness can upgrade itself. Complicity asks whether it actively resists upgrading.
 
@@ -154,7 +154,7 @@ The complicity thesis would be weakened or refuted by several possible findings:
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework for cognitive limits
-- [Cognitive Aversion](/voids/cognitive-aversion/) — The phenomenology of systematic thought-avoidance
+- [Cognitive Aversion](/voids/defended-territory/) — The phenomenology of systematic thought-avoidance
 - [Defended Territory](/voids/defended-territory/) — Whether thoughts can be externally blocked
 - [The Phenomenology of Self-Awareness](/voids/self-opacity/) — Self-reference and the bootstrap problem
 - [The Self-Transcendence Void](/voids/self-transcendence-void/) — Whether consciousness can exceed its own architecture

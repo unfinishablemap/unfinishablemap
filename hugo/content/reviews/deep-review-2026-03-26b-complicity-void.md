@@ -42,7 +42,7 @@ topics: []
 
 ### Enhancements Made
 - **8 inbound cross-links added** from related articles to resolve orphan status:
-  1. [cognitive-aversion](/voids/cognitive-aversion/) — in "Aversion Versus Closure" section
+  1. [cognitive-aversion](/voids/defended-territory/) — in "Aversion Versus Closure" section
   2. [defended-territory](/voids/defended-territory/) — in "Psychological Defense Mechanisms" section
   3. [self-opacity](/voids/self-opacity/) — in error recognition section
   4. [existentialism](/concepts/existentialism/) — in "Bad Faith and the Flight from Freedom" section
@@ -54,7 +54,7 @@ topics: []
 
 ### Cross-links Added
 - Added to complicity-void's related_articles: [existentialism](/concepts/existentialism/), [biological-cognitive-closure](/voids/biological-cognitive-closure/), [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/), [narrative-void](/voids/narrative-void/)
-- Added complicity-void to Further Reading in: [cognitive-aversion](/voids/cognitive-aversion/), [defended-territory](/voids/defended-territory/)
+- Added complicity-void to Further Reading in: [cognitive-aversion](/voids/defended-territory/), [defended-territory](/voids/defended-territory/)
 - Added complicity-void body links in: [self-opacity](/voids/self-opacity/), [existentialism](/concepts/existentialism/), [biological-cognitive-closure](/voids/biological-cognitive-closure/), [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/), [self-transcendence-void](/voids/self-transcendence-void/), [framework-void](/voids/framework-void/), [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/)
 
 ## Remaining Items

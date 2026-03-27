@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-30
-ai_modified: 2026-03-26 14:03:00+00:00
+ai_modified: 2026-03-27 19:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: 'Existentialist philosophy''s contributions to consciousness studie
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-05 07:07:00+00:00
+last_deep_review: 2026-03-27 19:03:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -92,7 +92,7 @@ The Map's [Dualism tenet](/tenets/#dualism) finds philosophical grounding here. 
 
 Existentialism emphasises that existence is always *mine*—first-person, unrepeatable, non-transferable. Heidegger calls this *Jemeinigkeit* (mineness). Sartre expresses it through the pour-soi's radical particularity. Both converge on what the Map calls [haecceity](/concepts/haecceity/): the unrepeatable thisness of a particular conscious subject. The [ownership void](/voids/ownership-void/) examines why this mineness resists introspection—every attempt to examine ownership is itself already owned, trapping investigation in a distinctive recursion.
 
-Authentic existence means owning this particularity—choosing in full awareness that the choice is one's own, not determined by "what one does" (Heidegger's *das Man*). Inauthenticity means fleeing into the anonymous crowd, treating oneself as interchangeable with others. Heidegger's analysis of fallenness—the structural determination that Dasein evades its own being-towards-death—connects directly to [cognitive aversion](/voids/cognitive-aversion/): the systematic deflection from mortality that Terror Management Theory documents empirically.
+Authentic existence means owning this particularity—choosing in full awareness that the choice is one's own, not determined by "what one does" (Heidegger's *das Man*). Inauthenticity means fleeing into the anonymous crowd, treating oneself as interchangeable with others. Heidegger's analysis of fallenness—the structural determination that Dasein evades its own being-towards-death—connects directly to [defended territory](/voids/defended-territory/): the systematic deflection from mortality that Terror Management Theory documents empirically.
 
 This connects to the [No Many Worlds tenet](/tenets/#no-many-worlds). The Many-Worlds interpretation holds that every quantum measurement actualises all outcomes across branching universes. Every choice produces copies making every alternative. But existentialist authenticity presupposes that choices genuinely select—that when I choose, I am not simultaneously choosing every alternative in other branches.
 

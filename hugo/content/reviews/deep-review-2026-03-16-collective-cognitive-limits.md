@@ -56,12 +56,12 @@ None. The article was reviewed twice previously (2026-01-30, 2026-02-01) and ref
 
 ### Enhancements Made
 - Aristarchus qualification strengthens the paradigm blindness example by showing the blindness was paradigm-specific
-- Added [cognitive-aversion](/voids/cognitive-aversion/) cross-link in elephants section (group-level aversion mechanism)
+- Added [cognitive-aversion](/voids/defended-territory/) cross-link in elephants section (group-level aversion mechanism)
 - Added [apophatic-cartography](/voids/apophatic-cartography/) cross-link in "Approaching the Collective Edge" (methodological connection)
 - Removed stale AI refinement log comment
 
 ### Cross-links Added
-- [cognitive-aversion](/voids/cognitive-aversion/)
+- [cognitive-aversion](/voids/defended-territory/)
 - [apophatic-cartography](/voids/apophatic-cartography/)
 
 ## Word Count

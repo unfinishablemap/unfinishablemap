@@ -109,7 +109,7 @@ The FBT theorem addresses perception, but adaptive limits extend across the full
 
 Adaptive and architectural limits may produce different phenomenological signatures. The [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) maps this systematically: architectural limits generate frustration — the experience of trying and failing to think something, documented in the Map's [topology of cognitive failure](/voids/compound-failure-signatures/). Adaptive limits may generate **satisfaction** — the limit feels like completion, not obstruction, so no sense of failure arises.
 
-This connects to [cognitive-aversion](/voids/cognitive-aversion/): the motivational deflection that steers thought away from certain territories. Adaptive limits produce **motivated disinterest** — the thought seems uninteresting rather than impossible. The cognitive system has learned through evolutionary deep time that this direction leads nowhere productive.
+This connects to [cognitive-aversion](/voids/defended-territory/): the motivational deflection that steers thought away from certain territories. Adaptive limits produce **motivated disinterest** — the thought seems uninteresting rather than impossible. The cognitive system has learned through evolutionary deep time that this direction leads nowhere productive.
 
 Hoffman's work suggests the deepest form: **illusory comprehension**. The perceptual interface is smooth and well-functioning, so we feel we understand the world. The void is invisible precisely because the interface hides it seamlessly — we experience completeness, not a gap. This connects to [phenomenal transparency](/concepts/phenomenal-transparency/), where the medium of experience is invisible to the experiencer.
 
@@ -162,7 +162,7 @@ The bootstrapping problem remains: if our philosophical intuitions are fitness-s
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — Distinguishing evolved from engineered limits
-- [cognitive-aversion](/voids/cognitive-aversion/) — Motivational deflection that steers thought from certain territories
+- [cognitive-aversion](/voids/defended-territory/) — Motivational deflection that steers thought from certain territories
 - [collective-cognitive-limits](/voids/collective-cognitive-limits/) — How groups have limits beyond individuals
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How limitation illuminates architecture
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — How different limit types produce different phenomenology

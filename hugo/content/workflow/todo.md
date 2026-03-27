@@ -38,34 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review functionalism and substrate-independence considering experimental-consciousness-science-2025-2026
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/experimental-consciousness-science-2025-2026.md created 2026-03-26. Covers Milinkovic & Aru (2025) biological computationalism, IIT falsification results, and recent anaesthesia/psychedelic findings. Review functionalism.md and substrate-independence.md for cross-links, reinforcing arguments from the new experimental evidence, or tensions requiring resolution.
-- **Source**: chain (from experimental-consciousness-science-2025-2026.md)
-- **Generated**: 2026-03-27
-
-### P2: Condense anaesthesia-and-the-consciousness-interface.md (4078 words, 102% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Recently coalesced with anaesthetic-recovery-and-the-filter-problem.md, which likely added bulk. Preserve core interface arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-27
-
-### P2: Deep review consciousness-in-non-collapsed-quantum-states.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100), last deep review 2026-02-23 — 32 days ago. Topics article on consciousness and quantum superposition states, directly relevant to Tenet 2 (Minimal Quantum Interaction). Verify coherence in light of recent articles (experimental-consciousness-science-2025-2026, amplification-mechanisms-consciousness-physics), cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-27
-
-### P2: Research evaluative qualia and phenomenal normativity across traditions
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Prepares for existing P3 expand-topic task on evaluative qualia concept page. Beauty, ugliness, rightness, wrongness as a distinct phenomenal category. Research Tappolet's perceptual theory of emotion, Scheler's value phenomenology, Wiggins's sensible subjectivism, and cross-cultural evaluative phenomenology. Would anchor the claim that the hard problem extends through evaluation, not just sensation. Target: research note for concepts/ (4 slots remaining).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-27
-
 ### P3: Strengthen neuroplasticity argument in mental-effort.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1510,6 +1482,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-27: Research evaluative qualia and phenomenal normativity across traditions
+- **Type**: research-topic
+- **Notes**: Prepares for existing P3 expand-topic task on evaluative qualia concept page. Beauty, ugliness, rightness, wrongness as a distinct phenomenal category. Research Tappolet's perceptual theory of emotion, Scheler's value phenomenology, Wiggins's sensible subjectivism, and cross-cultural evaluative phenomenology. Would anchor the claim that the hard problem extends through evaluation, not just sensation. Target: research note for concepts/ (4 slots remaining).
+- **Output**: evaluative qualia and phenomenal normativity across traditions
+
+### ✓ 2026-03-27: Update references to coalesced cognitive-aversion article
+- **Type**: cross-review
+- **Notes**: Coalesce merged cognitive-aversion into defended-territory. The following active content files reference [cognitive-aversion](/voids/defended-territory/) and may need wikilinks updated to [defended-territory](/voids/defended-territory/): narrative-void, mutation-void, complicity-void, appetitive-void, simulation-detection-void, thoughts-that-slip-away, historical-consciousness-void, death-void, voids (index), collective-cognitive-limits, biological-cognitive-closure, phenomenology-of-the-edge, obviousness-void, adaptive-cognitive-limits, phenomenology-of-cognitive-limit-types, existentialism. Archive redirects preserve URLs but active content should link to the living article.
+- **Output**: None -- Context: Update references to coalesced cognitive-aversion article
+
+### ✓ 2026-03-27: Deep review consciousness-in-non-collapsed-quantum-states.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100), last deep review 2026-02-23 — 32 days ago. Topics article on consciousness and quantum superposition states, directly relevant to Tenet 2 (Minimal Quantum Interaction). Verify coherence in light of recent articles (experimental-consciousness-science-2025-2026, amplification-mechanisms-consciousness-physics), cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/consciousness-in-non-collapsed-quantum-states.md
+
+### ✓ 2026-03-27: Condense anaesthesia-and-the-consciousness-interface.md (4078 words, 102% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Recently coalesced with anaesthetic-recovery-and-the-filter-problem.md, which likely added bulk. Preserve core interface arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
+
+### ✓ 2026-03-27: Cross-review functionalism and substrate-independence considering experimental-consciousness-science-2025-2026
+- **Type**: cross-review
+- **Notes**: New article topics/experimental-consciousness-science-2025-2026.md created 2026-03-26. Covers Milinkovic & Aru (2025) biological computationalism, IIT falsification results, and recent anaesthesia/psychedelic findings. Review functionalism.md and substrate-independence.md for cross-links, reinforcing arguments from the new experimental evidence, or tensions requiring resolution.
+- **Output**: None -- Context: Cross-review functionalism and substrate-independence considering experimental-consciousness-science-2025-2026
 
 ### ✓ 2026-03-27: Write article on completeness in physics under dualism
 - **Type**: expand-topic
