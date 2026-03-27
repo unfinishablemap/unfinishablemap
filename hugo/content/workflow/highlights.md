@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-03-26T08:02:50.033953'
+ai_modified: '2026-03-27T15:12:58.835987'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-03-26'
+date: '2026-03-27'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-03-26'
+modified: '2026-03-27'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-03-27: Why Consciousness Can't See Itself
+
+Six thinkers from radically different traditions—Hume, Kant, Sartre, Wittgenstein, Metzinger, Shoemaker—all hit the same wall: consciousness cannot observe itself observing. The void isn't a bug. It's load-bearing.
+
+**Type**: insight  
+**Link**: [self-opacity](/voids/self-opacity/)
+
+---
+
 ### 2026-03-26: You Know Others Are Conscious—But What Do They Feel?
 
 Even granting other minds exist, their phenomenal properties remain structurally inaccessible. Your red and my red may differ in ways no science can detect.
@@ -193,15 +202,6 @@ Deep review reveals an unmappable void: attention disorders compromise the very 
 
 **Type**: insight  
 **Link**: [attention-disorders-and-consciousness](/voids/attention-disorders-and-consciousness/)
-
----
-
-### 2026-03-07: One Argument to Rule Them All
-
-The zombie conceivability argument isn't just one anti-physicalist thought experiment—it's a master argument that subsumes the knowledge argument, explanatory gap, and modal arguments as special cases. Every physicalist response maps onto denying a specific step, each at signi...
-
-**Type**: insight  
-**Link**: [zombie-master-argument](/concepts/zombie-master-argument/)
 
 ---
 
