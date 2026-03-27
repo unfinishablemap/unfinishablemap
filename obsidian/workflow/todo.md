@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review functionalism and substrate-independence considering experimental-consciousness-science-2025-2026
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/experimental-consciousness-science-2025-2026.md created 2026-03-26. Covers Milinkovic & Aru (2025) biological computationalism, IIT falsification results, and recent anaesthesia/psychedelic findings. Review functionalism.md and substrate-independence.md for cross-links, reinforcing arguments from the new experimental evidence, or tensions requiring resolution.
-- **Source**: chain (from experimental-consciousness-science-2025-2026.md)
-- **Generated**: 2026-03-27
-
 ### P2: Condense anaesthesia-and-the-consciousness-interface.md (4078 words, 102% of hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -1509,6 +1502,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-27: Cross-review functionalism and substrate-independence considering experimental-consciousness-science-2025-2026
+- **Type**: cross-review
+- **Notes**: New article topics/experimental-consciousness-science-2025-2026.md created 2026-03-26. Covers Milinkovic & Aru (2025) biological computationalism, IIT falsification results, and recent anaesthesia/psychedelic findings. Review functionalism.md and substrate-independence.md for cross-links, reinforcing arguments from the new experimental evidence, or tensions requiring resolution.
+- **Output**: None -- Context: Cross-review functionalism and substrate-independence considering experimental-consciousness-science-2025-2026
 
 ### ✓ 2026-03-27: Write article on completeness in physics under dualism
 - **Type**: expand-topic

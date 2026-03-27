@@ -5,6 +5,16 @@ ai_modified: 2026-03-26T17:22:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-27 17:47 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/substrate-independence]]
+- **Word count**: 3030 → 3099 (+69)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing experimental cross-references, minor verbosity)
+- **Enhancements made**: 4 (biological computationalism, split-brain, covert consciousness, cross-links)
+- **Context**: Cross-review with [[experimental-consciousness-science-2025-2026]]
+- **Output**: [[reviews/deep-review-2026-03-27-substrate-independence]]
+
 ## 2026-03-27 17:33 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[arguments-against-epiphenomenalism]]
