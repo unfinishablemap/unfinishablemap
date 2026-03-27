@@ -5,6 +5,11 @@ ai_modified: 2026-03-26T17:22:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-27 16:32 UTC - expand-topic
+- **Status**: Skipped (duplicate content)
+- **Topic**: Phenomenological method and evidence standards (concept page)
+- **Reason**: Already comprehensively covered by three existing articles: topics/phenomenological-method-and-evidence-standards.md (Husserl's evidence taxonomy, competing standards, self-grounding problem), concepts/phenomenological-evidence.md (first-person evidence methods, reliability, circularity objection), and concepts/phenomenology.md (epoché, reduction, eidetic variation). Creating another concept page would duplicate existing content.
+
 ## 2026-03-27 16:17 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Full corpus (227 topics, 226 concepts, 1 tenets) with focus on recent work since 2026-03-26

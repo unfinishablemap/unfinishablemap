@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on phenomenological method and evidence standards
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/phenomenological-method-evidence-standards-2026-03-19.md. The Map relies heavily on phenomenological evidence but lacks a dedicated methodological page. A concept page on first-person method rigour, intersubjective validation, and evidence standards would ground the epistemological programme. Target section: concepts/ (226/230).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-27
-
 ### P2: Write article on amplification mechanisms for consciousness-physics interaction
 - **Type**: expand-topic
 - **Status**: pending
@@ -1495,6 +1488,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-27: Write concept page on phenomenological method and evidence standards
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenological-method-evidence-standards-2026-03-19.md. The Map relies heavily on phenomenological evidence but lacks a dedicated methodological page. A concept page on first-person method rigour, intersubjective validation, and evidence standards would ground the epistemological programme. Target section: concepts/ (226/230).
+- **Output**: Write concept page on phenomenological method and evidence standards
 
 ### ✓ 2026-03-27: Write article on enactivism as challenge to interactionist dualism
 - **Type**: expand-topic
