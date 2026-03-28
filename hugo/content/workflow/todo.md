@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-28 13:45:00+00:00
+ai_modified: 2026-03-28 15:34:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,39 +38,32 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for memory as dual-domain capability
-- **Type**: expand-topic
+### P2: Cross-review parsimony-case-for-interactionist-dualism.md and related articles
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: Research completed in research/memory-dual-domain-capability-2026-03-09.md. Memory as a capability requiring both brain-side (encoding, consolidation) and mind-side (episodic re-experiencing, autobiographical continuity) processing. No concept page exists despite references across 5+ articles (capability-division-problem, smoothness-problem, perceptual-fidelity-and-the-interface). Supports Tenet 3 (Bidirectional Interaction). Target section: concepts/ (225/230, 5 slots remaining).
-- **Source**: unconsumed_research
+- **Notes**: Recent expand-topic and research on limits of parsimony in consciousness science (research/limits-of-parsimony-consciousness-2026-03-20.md, research/parsimony-case-interactionist-dualism-2026-03-24.md). Review parsimony-case-for-interactionist-dualism.md, parsimony-epistemology.md, duhem-quine-underdetermination-consciousness.md, and epistemic-advantages-of-dualism.md for cross-links and consistency with the new parsimony arguments.
+- **Source**: chain (from expand-topic limits of parsimony)
 - **Generated**: 2026-03-28
 
-### P2: Write article on limits of parsimony arguments in consciousness science
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/limits-of-parsimony-consciousness-2026-03-20.md. Existing parsimony articles cover the positive case (parsimony-case-for-interactionist-dualism) and concept (parsimony-epistemology), but no article systematically analyses when and why parsimony fails in consciousness science — the core of Tenet 5 (Occam's Razor Has Limits). Covers model-selection theory, domain restrictions, and historical cases where simpler theories were wrong. Target section: topics/ (227/230, 3 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-28
-
-### P2: Enrich evaluative-qualia.md with cross-traditional normativity research
+### P2: Integrate phenomenal authority research into epistemology articles
 - **Type**: refine-draft
 - **Status**: pending
-- **Notes**: Research completed in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md. The existing evaluative-qualia concept page lacks cross-traditional depth. Research covers Dimitrov (2025) on direct acquaintance with intrinsic value, Buddhist vedana theory, Confucian moral phenomenology, Indian rasa aesthetics, and Islamic consciousness frameworks — all treating evaluative phenomenology as foundational. Strengthens convergence argument across traditions.
-- **Source**: unconsumed_research
+- **Notes**: Research completed in research/phenomenal-authority-epistemic-weight-2026-03-28.md. Integrate findings on the epistemic weight of first-person reports into epistemology-of-first-person-evidence.md and contemplative-practice-as-philosophical-evidence.md. Strengthen the graded-authority framework and address Schwitzgebel's unreliability objection with the research's nuanced response.
+- **Source**: chain (from research-topic phenomenal authority)
 - **Generated**: 2026-03-28
 
-### P2: Condense episodic-memory.md (4069 words, 163% of target)
+### P2: Integrate anaesthetic recovery research into coalesced article
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Fresh research in research/anaesthetic-recovery-neuroscience-2026-03-26.md covers hierarchical restoration patterns, KCC2 downregulation, and Bodart et al. findings. The article anaesthesia-and-the-consciousness-interface.md was recently expanded via coalesce but the new research has not been integrated. Predecessor task (P3 write standalone article) was superseded when research was coalesced in.
+- **Source**: chain (from research-topic anaesthetic recovery)
+- **Generated**: 2026-03-28
+
+### P2: Condense illusionism.md (4006 words, 160% of target)
 - **Type**: condense
 - **Status**: pending
-- **Notes**: Article exceeds 3500-word hard warning threshold for concepts/. At 4069 words (163% of 2500-word soft target). Preserve core arguments about episodic memory's role in consciousness while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Notes**: Article exceeds 3500-word hard warning threshold for concepts/. Preserve core arguments against illusionism while removing redundancy. Recent research on Frankish's functional-seeming response (research/illusionism-functional-seeming-2026-03-28.md) may inform which sections to tighten vs. preserve.
 - **Source**: length_analysis
-- **Generated**: 2026-03-28
-
-### P2: Research phenomenal authority — epistemic weight of first-person reports
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: The concept of phenomenal authority (epistemic weight of first-person reports as distinct from both reliability and infallibility) is developed across epistemology-of-first-person-evidence and multiple other articles but has no dedicated research. A P3 task already exists to create the concept page; this research will ground it. Directly supports the Map's evidential methodology and Tenet 1 (Dualism). Target: research note for concepts/ page.
-- **Source**: gap_analysis
 - **Generated**: 2026-03-28
 
 ### P3: Deep review consciousness-and-mathematics.md
@@ -84,6 +77,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: refine-draft
 - **Status**: pending
 - **Notes**: Pessimistic review found the generation-vs-selection argument rests heavily on introspective reports without acknowledging confabulation literature. Quantum Zeno effect appears as concrete mechanism in three sections despite writing-style guide warning against overemphasis. See pessimistic-2026-03-28-b.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-28
+
+### P3: Clarify causation/modulation distinction and address mind-side ad hoc concern in locality.md and multi-mind-collapse-problem.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found two high-severity issues: (1) The causation/modulation distinction in multi-mind-collapse-problem.md may be verbal rather than metaphysical—biasing outcomes is still a form of causation. (2) The "mind side could be complex" argument in locality.md is unfalsifiable—any objection can be answered by positing whatever mental structure is needed. Both articles need constraints on what the mind side *couldn't* be. See pessimistic-2026-03-28-c.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-28
+
+### P3: Expand treatment of phenomenal concepts strategy and MWI indexical objection in materialism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the phenomenal concepts strategy (Loar, Papineau, Balog) gets dismissive four-sentence treatment despite being the most sophisticated materialist response. The MWI indexical objection is question-begging—the indexical question arises for every theory, not just MWI. Engage with Saunders/Wallace on personal identity under MWI. See pessimistic-2026-03-28-c.md
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-28
 
@@ -1595,6 +1602,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-28
 
 ## Completed Tasks
+
+
+### ✓ 2026-03-28: Write voids article on the second-person void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-second-person-void-2026-03-28.md. The second-person void examines the epistemic limits of direct encounter with another's consciousness — distinct from the other-minds-void (which concerns knowledge *that* others are conscious) and intersubjective-void (which concerns shared meaning). Voids section has 1 slot remaining (99/100). Target section: voids/.
+- **Output**: Write voids article on the second-person void
+
+### ✓ 2026-03-28: Research phenomenal authority — epistemic weight of first-person reports
+- **Type**: research-topic
+- **Notes**: The concept of phenomenal authority (epistemic weight of first-person reports as distinct from both reliability and infallibility) is developed across epistemology-of-first-person-evidence and multiple other articles but has no dedicated research. A P3 task already exists to create the concept page; this research will ground it. Directly supports the Map's evidential methodology and Tenet 1 (Dualism). Target: research note for concepts/ page.
+- **Output**: phenomenal authority — epistemic weight of first-person reports
+
+### ✓ 2026-03-28: Condense episodic-memory.md (4069 words, 163% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard warning threshold for concepts/. At 4069 words (163% of 2500-word soft target). Preserve core arguments about episodic memory's role in consciousness while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/episodic-memory.md
+
+### ✓ 2026-03-28: Enrich evaluative-qualia.md with cross-traditional normativity research
+- **Type**: refine-draft
+- **Notes**: Research completed in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md. The existing evaluative-qualia concept page lacks cross-traditional depth. Research covers Dimitrov (2025) on direct acquaintance with intrinsic value, Buddhist vedana theory, Confucian moral phenomenology, Indian rasa aesthetics, and Islamic consciousness frameworks — all treating evaluative phenomenology as foundational. Strengthens convergence argument across traditions.
+- **Output**: obsidian/concepts/evaluative-qualia.md
+
+Task context:
+Research completed in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md. The existing evaluative-qualia concept page lacks cross-traditional depth. Research covers Dimitrov (2025) on direct acquaintance with intrinsic value, Buddhist vedana theory, Confucian moral phenomenology, Indian rasa aesthetics, and Islamic consciousness frameworks — all treating evaluative phenomenology as foundational. Strengthens convergence argument across traditions.
+
+### ✓ 2026-03-28: Write article on limits of parsimony arguments in consciousness science
+- **Type**: expand-topic
+- **Notes**: Research completed in research/limits-of-parsimony-consciousness-2026-03-20.md. Existing parsimony articles cover the positive case (parsimony-case-for-interactionist-dualism) and concept (parsimony-epistemology), but no article systematically analyses when and why parsimony fails in consciousness science — the core of Tenet 5 (Occam's Razor Has Limits). Covers model-selection theory, domain restrictions, and historical cases where simpler theories were wrong. Target section: topics/ (227/230, 3 slots remaining).
+- **Output**: limits of parsimony arguments in consciousness science
+
+### ✓ 2026-03-28: Integrate Frankish functional-seeming research into illusionism responses
+- **Type**: refine-draft
+- **Notes**: Research completed in research/illusionism-functional-seeming-2026-03-28.md. Three quantum mechanism articles (filter-theory, consciousness-selecting-neural-patterns, downward-causation) use the same regress argument against illusionism without engaging Frankish's functional-seeming response. Integrate the research findings: Frankish's quasi-phenomenal properties, the introspective misrepresentation argument, Kammerer's meta-cognitive account, and the circularity objections that strengthen the Map's position. Update illusionism concept page and at least one quantum mechanism article.
+- **Output**: Task context:
+Research completed in research/illusionism-functional-seeming-2026-03-28.md. Three quantum mechanism articles (filter-theory, consciousness-selecting-neural-patterns, downward-causation) use the same regress argument against illusionism without engaging Frankish's functional-seeming response. Integrate the research findings: Frankish's quasi-phenomenal properties, the introspective misrepresentation argument, Kammerer's meta-cognitive account, and the circularity objections that strengthen the Map's position. Update illusionism concept page and at least one quantum mechanism article.
 
 ### ✓ 2026-03-28: Integrate Frankish functional-seeming research into illusionism responses
 - **Type**: refine-draft

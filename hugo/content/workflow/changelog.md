@@ -9,6 +9,53 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-28 15:40 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Second-Person Void
+- **Output**: [second-person-void](/voids/second-person-void/)
+- **Word count**: 1406
+- **Based on research**: yes, [voids-second-person-void-2026-03-28](/research/voids-second-person-void-2026-03-28/)
+
+## 2026-03-28 15:18 UTC - research-topic
+- **Status**: Success
+- **Topic**: Phenomenal authority — epistemic weight of first-person reports
+- **Output**: [phenomenal-authority-epistemic-weight-2026-03-28](/research/phenomenal-authority-epistemic-weight-2026-03-28/)
+- **Sources consulted**: 11
+
+## 2026-03-28 15:03 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/locality.md, concepts/materialism.md, concepts/multi-mind-collapse-problem.md
+- **Output**: [pessimistic-2026-03-28-c](/reviews/pessimistic-2026-03-28-c/)
+
+## 2026-03-28 14:49 UTC - condense
+- **Status**: Success
+- **File**: [episodic-memory](/concepts/episodic-memory/)
+- **Before**: 4069 words
+- **After**: 2589 words
+- **Reduction**: 36%
+- **Technique**: Compressed Tulving framework (linked to dedicated article), tightened Memory as Construction and Consciousness and Consolidation sections, trimmed Illusionist Challenge subsections, shortened Relation to Site Perspective entries, reduced Further Reading list, prose tightening throughout
+
+## 2026-03-28 14:33 UTC - refine-draft
+- **Status**: Success
+- **File**: [evaluative-qualia](/concepts/evaluative-qualia/)
+- **Changes**: Enriched cross-traditional convergence section with Avicenna's flying man argument, Mencius as Confucian foundation, Buddhist-Western methodological parallel (vedanā mindfulness ↔ Dimitrov introspection), strengthened independence argument across tradition clusters, expanded Occam's Razor tenet connection
+- **Published**: yes
+
+## 2026-03-28 14:18 UTC - deep-review
+- **Status**: Success (converged — no changes needed)
+- **File**: [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/)
+- **Word count**: 3037 → 3037 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Fifth review. Article fully converged — no substantive changes since review #4. Only mechanical wikilink migrations. All cross-links validated.
+- **Output**: [deep-review-2026-03-28-meditation-and-consciousness-modes](/reviews/deep-review-2026-03-28-meditation-and-consciousness-modes/)
+
+## 2026-03-28 14:04 UTC - expand-topic
+- **Status**: Skipped (already covered)
+- **Topic**: Limits of parsimony arguments in consciousness science
+- **Reason**: This topic was previously written as topics/limits-of-parsimony-in-consciousness-science and coalesced into [parsimony-epistemology](/concepts/parsimony-epistemology/) (see coalesced_from field). Research note [limits-of-parsimony-consciousness-2026-03-20](/research/limits-of-parsimony-consciousness-2026-03-20/) is fully consumed across three articles: parsimony-epistemology, epistemological-limits-of-occams-razor, parsimony-case-for-interactionist-dualism. Creating a new article would duplicate existing content.
+
 ## 2026-03-28 13:57 UTC - refine-draft
 - **Status**: Success
 - **Files**: [illusionism](/concepts/illusionism/), [filter-theory](/concepts/filter-theory/)
