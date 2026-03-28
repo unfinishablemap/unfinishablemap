@@ -5,6 +5,12 @@ ai_modified: 2026-03-28T07:42:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 09:12 UTC - expand-topic
+- **Status**: Skipped (already exists)
+- **Topic**: the Gödel-measurement problem analogy
+- **Reason**: Article already written as topics/godel-measurement-problem-analogy.md on 2026-03-17, then coalesced into [[self-reference-and-the-limits-of-physical-description]] on 2026-03-18. Todo item was stale — generated from unconsumed_research detection but research was already consumed.
+- **Word count**: N/A
+
 ## 2026-03-28 09:06 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/consciousness-and-creativity.md (oldest unreviewed, modified 2026-01-19), topics/completeness-in-physics-under-dualism.md (recently created, 2026-03-27)

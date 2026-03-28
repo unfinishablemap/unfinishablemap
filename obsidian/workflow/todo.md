@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on the Gödel-measurement problem analogy
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/godel-measurement-problem-analogy-2026-03-14.md and research/godel-measurement-problem-analogy-2026-03-17.md. Covers Penrose's use of Gödel in Shadows of the Mind, Lucas-Penrose argument and critics, precise scope of the analogy (formal incompleteness vs measurement problem), Chaitin's algorithmic randomness, and where the analogy breaks. Directly supports Tenet 5 (Occam's Razor Has Limits) by showing structural parallels between formal limits and physical limits. Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-28
-
 ### P2: Integrate Born rule derivation research into born-rule-and-the-consciousness-interface.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1581,6 +1574,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Write article on the Gödel-measurement problem analogy
+- **Type**: expand-topic
+- **Notes**: Research completed in research/godel-measurement-problem-analogy-2026-03-14.md and research/godel-measurement-problem-analogy-2026-03-17.md. Covers Penrose's use of Gödel in Shadows of the Mind, Lucas-Penrose argument and critics, precise scope of the analogy (formal incompleteness vs measurement problem), Chaitin's algorithmic randomness, and where the analogy breaks. Directly supports Tenet 5 (Occam's Razor Has Limits) by showing structural parallels between formal limits and physical limits. Target section: topics/.
+- **Output**: the Gödel-measurement problem analogy
 
 ### ✓ 2026-03-28: Integrate anaesthetic recovery research into anaesthesia-and-the-consciousness-interface.md
 - **Type**: refine-draft
