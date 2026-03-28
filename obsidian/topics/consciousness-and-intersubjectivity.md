@@ -4,7 +4,7 @@ description: "Is consciousness constitutively intersubjective or fundamentally s
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-03-26T08:48:00+00:00
+ai_modified: 2026-03-28T21:26:00+00:00
 last_deep_review: 2026-03-26T08:48:00+00:00
 draft: false
 topics:
@@ -24,7 +24,7 @@ related_articles:
   - "[[tenets]]"
   - "[[other-minds-void]]"
   - "[[intersubjective-void]]"
-
+  - "[[second-person-void]]"
   - "[[social-construction-of-self-vs-phenomenal-self]]"
   - "[[the-self-minimal-narrative-and-substantial]]"
   - "[[epistemology-of-other-minds-under-dualism]]"
@@ -131,6 +131,7 @@ The Map's third position — ontologically individual, phenomenologically enrich
 - [[phenomenology-of-collective-intentionality-and-we-consciousness]] — "We-consciousness" and shared intentionality
 - [[other-minds-void]] — The constitutive gap between individual consciousnesses
 - [[intersubjective-void]] — Whether experiences can be genuinely shared
+- [[second-person-void]] — The irreducible gap in the I-You encounter: what genuine meeting delivers and structurally cannot
 
 - [[problem-of-other-minds]] — The epistemic puzzle that intersubjectivity addresses
 - [[social-construction-of-self-vs-phenomenal-self]] — Why social construction requires phenomenal subjects

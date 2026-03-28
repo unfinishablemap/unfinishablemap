@@ -4,7 +4,7 @@ description: "Whether experiences can be genuinely shared or are coordinated pri
 created: 2026-02-02
 modified: 2026-03-22
 human_modified: null
-ai_modified: 2026-03-28T21:11:00+00:00
+ai_modified: 2026-03-28T21:26:00+00:00
 last_deep_review: 2026-03-15T13:09:00+00:00
 draft: false
 topics:
@@ -30,6 +30,7 @@ related_articles:
   - "[[necessary-opacity]]"
   - "[[consciousness-and-testimony]]"
   - "[[consciousness-and-intersubjectivity]]"
+  - "[[second-person-void]]"
   - "[[consciousness-defeats-explanation]]"
 ai_contribution: 100
 author: null
@@ -47,16 +48,16 @@ This void sits at the intersection of epistemology and phenomenology. Even grant
 
 ## Distinguishing the Voids
 
-The intersubjective void differs structurally from the other minds void:
+The intersubjective void differs structurally from two neighbouring voids:
 
-| Other Minds Void | Intersubjective Void |
-|------------------|---------------------|
-| Can I know other minds exist? | Can experiences be genuinely *shared*? |
-| Epistemological—about access to knowledge | Phenomenological—about the structure of experience |
-| Addressed by inference (analogy, abduction) | Not addressed by inference—the question is ontological |
-| Skeptical challenge to be navigated | Structural feature to be characterised |
+| Other Minds Void | Second-Person Void | Intersubjective Void |
+|------------------|-------------------|---------------------|
+| Can I know other minds exist? | What does the encounter itself deliver? | Can experiences be genuinely *shared*? |
+| Epistemological—about access to knowledge | Relational—about what happens *in* the meeting | Phenomenological—about the structure of experience |
+| Addressed by inference (analogy, abduction) | Accessed only through participation | Not addressed by inference—the question is ontological |
+| Skeptical challenge to be navigated | Self-concealing under reflection | Structural feature to be characterised |
 
-Whether our experiences are genuinely shared or merely coordinated seems permanently undecidable—not because we lack evidence but because we cannot specify what evidence would distinguish the cases.
+The [[other-minds-void]] asks whether we can know other consciousnesses exist. The [[second-person-void]] asks what genuine encounter delivers that no other method can. The intersubjective void asks whether experiences can be genuinely shared or are coordinated private streams. Whether our experiences are genuinely shared or merely coordinated seems permanently undecidable—not because we lack evidence but because we cannot specify what evidence would distinguish the cases.
 
 ## Three Positions
 
@@ -142,6 +143,7 @@ Empathy has structural limits even at its best—it simulates rather than shares
 
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[other-minds-void]] — The epistemological precursor: can we know other minds exist?
+- [[second-person-void]] — What the encounter itself delivers and structurally cannot: the irreducible gap in genuine I-You meeting
 - [[consciousness-only-territories]] — What only phenomenal experience can access
 - [[collective-cognitive-limits]] — What groups cannot think together
 - [[three-kinds-of-void]] — The taxonomy of unexplored, unexplorable, and occluded

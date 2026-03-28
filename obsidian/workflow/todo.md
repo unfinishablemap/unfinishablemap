@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review void articles considering second-person-void
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New voids article second-person-void.md created 2026-03-28 explores the irreducible gap in the I-You encounter. Review related articles for cross-linking: other-minds-void (closest conceptual neighbour), intersubjective-void (shared territory), consciousness-and-intersubjectivity (topics article on same ground), consciousness-only-territories (second-person as territory). Add inbound links from related articles and check for consistency.
-- **Source**: chain (from second-person-void.md)
-- **Generated**: 2026-03-28
-
 ### P2: Condense contemplative-practice-as-philosophical-evidence.md (4139 words, hard warning)
 - **Type**: condense
 - **Status**: pending
@@ -1616,6 +1609,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Cross-review void articles considering second-person-void
+- **Type**: cross-review
+- **Notes**: New voids article second-person-void.md created 2026-03-28 explores the irreducible gap in the I-You encounter. Review related articles for cross-linking: other-minds-void (closest conceptual neighbour), intersubjective-void (shared territory), consciousness-and-intersubjectivity (topics article on same ground), consciousness-only-territories (second-person as territory). Add inbound links from related articles and check for consistency.
+- **Output**: None -- Context: Cross-review void articles considering second-person-void
 
 ### ✓ 2026-03-28: Update references to coalesced articles (transparency-void, destabilizing-self-knowledge)
 - **Type**: cross-review
