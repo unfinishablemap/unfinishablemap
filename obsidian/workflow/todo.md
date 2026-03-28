@@ -1551,6 +1551,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-27
 
+### P3: Write article on unified empirical methodology for dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has four major empirical evidence articles (terminal lucidity, clinical dissociation, clinical neuroplasticity, observational closure) but lacks a methodological synthesis showing how these evidence types combine as a unified research programme. Would show what kinds of evidence count, how they combine, and what predictions the programme makes. Builds on terminal-lucidity-and-filter-transmission-theory, clinical-dissociation-as-systematic-evidence, clinical-neuroplasticity-evidence-for-bidirectional-causation, observational-closure. Target section: topics/. See optimistic-2026-03-28-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-28
+
+### P3: Write concept page on curation presupposition
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The curated-mind article introduces a genuinely novel argument form—the brain's selective correction of perceptual errors presupposes a recipient distinct from the curating process. This recurs across perception, memory, and body schema but lacks a canonical concept page formalising the argument, addressing objections, and connecting it to broader interface architecture. Target section: concepts/. See optimistic-2026-03-28-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-28
+
+### P3: Strengthen interface architecture cluster cross-linking
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Seven cross-linking opportunities: interface-heterogeneity ↔ perceptual-degradation-and-the-interface (heterogeneous coupling predicts different degradation patterns), interface-heterogeneity ↔ interface-friction (different interface types generate different friction signatures), brain-interface-boundary ↔ perceptual-degradation-and-the-interface (degradation reveals boundary criteria), parsimony-case ↔ convergence-argument (parsimony reversal parallels convergence), terminal-lucidity ↔ clinical-neuroplasticity (converging empirical evidence from different domains), observational-closure ↔ clinical-dissociation (dissociation operates within observational closure), curated-mind ↔ phenomenal-transparency (transparency is what successful curation produces). See optimistic-2026-03-28-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-28
+
 ## Completed Tasks
 
 
