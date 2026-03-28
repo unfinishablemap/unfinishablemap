@@ -1586,6 +1586,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-28
 
+### P3: Write article on pragmatism and the consciousness problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Pragmatism is significantly underrepresented despite William James being one of history's most important consciousness theorists. Peirce's semiotics, Dewey's naturalism, and contemporary pragmatist philosophy of mind offer untapped resources. James's radical empiricism aligns with the Map's dualist commitments. Builds on pragmatisms-path-to-dualism, william-james-consciousness. Target section: topics/. See optimistic-2026-03-28-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-28
+
+### P3: Integrate Leibniz's Mill into the argumentative web
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. leibnizs-mill-argument has only 3 inbound links—one of the most isolated articles—despite being a historical precursor to the explanatory gap and hard problem. Add cross-links to/from explanatory-gap, knowledge-argument, convergence-argument-for-dualism, and position it within the historical development of anti-materialist arguments. See optimistic-2026-03-28-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-28
+
+### P3: Integrate cognitive-integration-and-the-self into consciousness web
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. cognitive-integration-and-the-self has only 4 inbound links despite being directly relevant to unity-of-consciousness, self-and-self-consciousness, and baseline-cognition-hypothesis. Add cross-links connecting self-integration to consciousness-dependent metarepresentation. See optimistic-2026-03-28-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-28
+
+### P3: Add cross-links between epistemological cluster articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Nine cross-linking opportunities: contemplative-practice ↔ epistemology-of-first-person-evidence (graded authority extends via training), phenomenology-of-understanding-and-meaning ↔ cognitive-phenomenology (five modes elaborate cognitive phenomenology claims), buddhist-perspectives-on-meaning ↔ phenomenology-of-understanding-and-meaning (prajñā parallels phenomenology of understanding), experiential-alignment ↔ moral-architecture-of-consciousness (operationalises moral architecture), terminal-lucidity ↔ consciousness-and-neurodegenerative-disease (shared clinical ground). See optimistic-2026-03-28-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-28
+
 ## Completed Tasks
 
 
