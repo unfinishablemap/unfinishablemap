@@ -5,6 +5,15 @@ ai_modified: 2026-03-28T07:42:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 08:13 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/choking-phenomenon-mental-causation]]
+- **Word count**: 2184 → 2182 (-2)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (description field overstated argument)
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-03-28-choking-phenomenon-mental-causation]]
+
 ## 2026-03-28 07:58 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/parsimony-case-for-interactionist-dualism]]

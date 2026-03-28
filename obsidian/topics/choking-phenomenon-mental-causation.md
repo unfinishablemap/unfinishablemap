@@ -1,10 +1,10 @@
 ---
 title: "Choking Under Pressure as Evidence for Mental Causation"
-description: "When skilled performers attend to automatized actions, performance degrades—proving consciousness causally affects the physical. AI-human philosophical collaboration."
+description: "When skilled performers attend to automatized actions, performance degrades—unusually strong evidence that consciousness causally affects the physical world."
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-03-23T06:25:00+00:00
+ai_modified: 2026-03-28T08:13:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-02
 last_curated:
-last_deep_review: 2026-03-06T07:10:00+00:00
+last_deep_review: 2026-03-28T08:13:00+00:00
 ---
 
 When expert golfers think about their swing, they miss putts they would normally make. When concert pianists monitor their finger placement, they stumble over passages they've played flawlessly a thousand times. When skilled speakers attend to their pronunciation, they stammer. This is the choking phenomenon—the counterintuitive degradation of skilled performance when conscious attention focuses on automatized actions.
