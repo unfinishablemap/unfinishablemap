@@ -5,6 +5,15 @@ ai_modified: 2026-03-28T07:42:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 17:28 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/witness-consciousness]]
+- **Word count**: 2623 → 2631 (+8)
+- **Critical issues addressed**: 1 (conflated wikilink in Further Reading)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (split self-opacity/self-reference-paradox link)
+- **Output**: [[reviews/deep-review-2026-03-28-witness-consciousness]]
+
 ## 2026-03-28 17:04 UTC - condense
 - **Status**: Success
 - **File**: [[illusionism]]

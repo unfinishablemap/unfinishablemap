@@ -4,7 +4,7 @@ description: "Awareness that observes mental contents without identifying with t
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-23T21:43:00+00:00
+ai_modified: 2026-03-28T17:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-03-06T14:41:00+00:00
+last_deep_review: 2026-03-28T17:28:00+00:00
 ---
 
 Witness consciousness—Sanskrit *sakshi*, the "seer" or "observer"—refers to a mode of awareness that observes mental contents without identifying with them. Thoughts, sensations, and emotions arise and pass; the witness remains unchanged, a pure awareness that perceives without participating. This concept, central to Advaita Vedanta and other contemplative traditions, carries significant implications for understanding the subject-object structure of consciousness and supports The Unfinishable Map's [[tenets#^dualism|dualist]] position.
@@ -192,7 +192,8 @@ What contemplatives discovered through sustained practice, phenomenology articul
 
 ## Further Reading
 
-- [[self-opacity|self-reference paradox]] — Why the observing self cannot observe itself
+- [[self-opacity]] — Why the observing self cannot fully know itself
+- [[self-reference-paradox]] — Gödelian structural limits on self-knowledge
 - [[buddhism-and-dualism]] — Irreducibility without permanence
 - [[phenomenology-of-the-edge]] — Minimal phenomenal experience
 - [[hypnagogic-phenomenology-and-interface-modulation]] — Sleep-onset phenomenology and the witness during interface transitions
