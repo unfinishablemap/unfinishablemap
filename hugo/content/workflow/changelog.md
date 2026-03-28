@@ -9,6 +9,34 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-28 18:48 UTC - refine-draft
+- **Status**: Success
+- **File**: [leibnizs-mill-argument](/topics/leibnizs-mill-argument/)
+- **Changes**: Positioned as historical ancestor of anti-materialist tradition; added "Historical Lineage" section; strengthened convergence references; added cross-links from knowledge-argument.md and arguments-against-materialism.md
+- **Published**: yes
+
+## 2026-03-28 18:34 UTC - deep-review
+- **Status**: Success
+- **File**: [convergent-phenomenological-evidence](/concepts/convergent-phenomenological-evidence/)
+- **Word count**: 1492 → 1613 (+121)
+- **Critical issues addressed**: 2 (conflated wikilink, unused reference)
+- **Medium issues addressed**: 4 (uncited reference, missing cross-links, heterophenomenology gap, typo)
+- **Enhancements made**: 3 (Fox et al. integration, Husserl anchoring, heterophenomenology engagement)
+- **Output**: [deep-review-2026-03-28-convergent-phenomenological-evidence](/reviews/deep-review-2026-03-28-convergent-phenomenological-evidence/)
+
+## 2026-03-28 18:18 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Convergent phenomenological evidence
+- **Output**: [convergent-phenomenological-evidence](/concepts/convergent-phenomenological-evidence/)
+- **Word count**: 1492
+- **Based on research**: No (drew on existing articles: phenomenological-evidence, epistemology-of-convergence-arguments, cross-cultural-convergence-on-mental-causation)
+
+## 2026-03-28 18:03 UTC - research-topic
+- **Status**: Success
+- **Topic**: Pragmatist philosophy of mind (for existing article enhancement)
+- **Output**: [pragmatist-philosophy-of-mind-2026-03-28](/research/pragmatist-philosophy-of-mind-2026-03-28/)
+- **Sources consulted**: 12
+
 ## 2026-03-28 17:49 UTC - coalesce
 - **Status**: Success
 - **Sources**: [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/)

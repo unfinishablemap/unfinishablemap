@@ -38,27 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research pragmatist philosophy of mind for existing article enhancement
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Optimistic review identified pragmatism as significantly underrepresented despite William James being central to consciousness studies. Research Peirce's semiotics, Dewey's naturalism, and contemporary pragmatist philosophy of mind (Gallagher, Johnson). James's radical empiricism aligns with dualist commitments. Intended to enhance existing articles (pragmatisms-path-to-dualism, william-james-consciousness) rather than create a new article, given topics/ is at 227/230 cap. See optimistic-2026-03-28-evening.md.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-28
-
-### P2: Create concept page on convergent phenomenological evidence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: The pattern of cross-tradition agreement on phenomenological findings is used repeatedly across contemplative-practice-as-philosophical-evidence, evaluative-qualia, and meditation articles, but lacks a canonical concept page. Formalise as a named evidential strategy: when independent contemplative or philosophical traditions converge on the same phenomenological observations despite different theoretical frameworks, this provides triangulation evidence distinct from standard philosophical argument. Target section: concepts/ (225/230). See optimistic-2026-03-28-evening.md.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-28
-
-### P2: Integrate leibnizs-mill-argument.md into argumentative web
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Optimistic review found leibnizs-mill-argument.md has only 3 inbound links — one of the most isolated articles despite being the historical precursor to the explanatory gap and the hard problem. Add cross-links from explanatory-gap, knowledge-argument, and the convergence argument family. Position within the historical development of anti-materialist arguments. See optimistic-2026-03-28-evening.md.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-28
-
 ### P2: Cross-review void articles considering second-person-void
 - **Type**: cross-review
 - **Status**: pending
@@ -1617,7 +1596,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Integrate Leibniz's Mill into the argumentative web
 - **Type**: refine-draft
-- **Status**: pending
+- **Status**: done
 - **Notes**: Suggested by optimistic review. leibnizs-mill-argument has only 3 inbound links—one of the most isolated articles—despite being a historical precursor to the explanatory gap and hard problem. Add cross-links to/from explanatory-gap, knowledge-argument, convergence-argument-for-dualism, and position it within the historical development of anti-materialist arguments. See optimistic-2026-03-28-evening.md
 - **Source**: optimistic-review
 - **Generated**: 2026-03-28
@@ -1638,6 +1617,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Integrate leibnizs-mill-argument.md into argumentative web
+- **Type**: refine-draft
+- **Notes**: Optimistic review found leibnizs-mill-argument.md has only 3 inbound links — one of the most isolated articles despite being the historical precursor to the explanatory gap and the hard problem. Add cross-links from explanatory-gap, knowledge-argument, and the convergence argument family. Position within the historical development of anti-materialist arguments. See optimistic-2026-03-28-evening.md.
+- **Output**: obsidian/topics/leibnizs-mill-argument.md
+
+Task context:
+Optimistic review found leibnizs-mill-argument.md has only 3 inbound links — one of the most isolated articles despite being the historical precursor to the explanatory gap and the hard problem. Add cross-links from explanatory-gap, knowledge-argument, and the convergence argument family. Position within the historical development of anti-materialist arguments. See optimistic-2026-03-28-evening.md.
+
+### ✓ 2026-03-28: Create concept page on convergent phenomenological evidence
+- **Type**: expand-topic
+- **Notes**: The pattern of cross-tradition agreement on phenomenological findings is used repeatedly across contemplative-practice-as-philosophical-evidence, evaluative-qualia, and meditation articles, but lacks a canonical concept page. Formalise as a named evidential strategy: when independent contemplative or philosophical traditions converge on the same phenomenological observations despite different theoretical frameworks, this provides triangulation evidence distinct from standard philosophical argument. Target section: concepts/ (225/230). See optimistic-2026-03-28-evening.md.
+- **Output**: Create concept page on convergent phenomenological evidence
+
+### ✓ 2026-03-28: Research pragmatist philosophy of mind for existing article enhancement
+- **Type**: research-topic
+- **Notes**: Optimistic review identified pragmatism as significantly underrepresented despite William James being central to consciousness studies. Research Peirce's semiotics, Dewey's naturalism, and contemporary pragmatist philosophy of mind (Gallagher, Johnson). James's radical empiricism aligns with dualist commitments. Intended to enhance existing articles (pragmatisms-path-to-dualism, william-james-consciousness) rather than create a new article, given topics/ is at 227/230 cap. See optimistic-2026-03-28-evening.md.
+- **Output**: pragmatist philosophy of mind for existing article enhancement
 
 ### ✓ 2026-03-28: Integrate experimental-tests research into testing-consciousness-collapse.md
 - **Type**: refine-draft
