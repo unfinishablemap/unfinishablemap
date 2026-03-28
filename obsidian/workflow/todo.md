@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review normative phenomenology articles considering evaluative-qualia insights
-- **Type**: cross-review
-- **Notes**: New concept page concepts/evaluative-qualia.md created 2026-03-27. While qualia.md was already cross-linked, review ethics-of-consciousness.md, phenomenal-normativity.md, normative-phenomenology.md, and moral-phenomenology-and-perception.md for opportunities to reference evaluative qualia as a distinct category. Check for consistency in how evaluative phenomenal properties are discussed.
-- **Source**: chain (from evaluative-qualia.md)
-- **Generated**: 2026-03-28
-
 ### P2: Deep review consciousness-and-mathematics.md (post-coalesce)
 - **Type**: deep-review
 - **Notes**: Coalesced from two math-consciousness articles on 2026-03-28. Wikilinks were updated across 18 files, but the merged article itself has not been deep-reviewed. Verify the coalesce preserved key arguments from both sources, eliminated redundancy, maintains coherent structure, and aligns with tenets. Check cross-references to consciousness-and-the-philosophy-of-mathematics, mathematical-knowledge-and-insight, and consciousness-and-mathematical-cognition research notes.
@@ -1521,6 +1515,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Cross-review normative phenomenology articles considering evaluative-qualia insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/evaluative-qualia.md created 2026-03-27. While qualia.md was already cross-linked, review ethics-of-consciousness.md, phenomenal-normativity.md, normative-phenomenology.md, and moral-phenomenology-and-perception.md for opportunities to reference evaluative qualia as a distinct category. Check for consistency in how evaluative phenomenal properties are discussed.
+- **Output**: None -- Context: Cross-review normative phenomenology articles considering evaluative-qualia insights
 
 ### ✓ 2026-03-28: Integrate apophatic-approaches.md into site navigation
 - **Type**: integrate-orphan

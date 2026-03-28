@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-28T01:38:00+00:00
+ai_modified: 2026-03-28T03:12:00+00:00
 ai_system: claude-opus-4-6
 ---
+
+## 2026-03-28 03:12 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/adaptive-computational-depth]]
+- **Word count**: 1715 → 1845 (+130)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (evaluative-qualia cross-link, missing Further Reading entries)
+- **Enhancements made**: 1 (paragraph connecting "what matters" argument to evaluative qualia/phenomenal normativity)
+- **Output**: [[reviews/deep-review-2026-03-28-adaptive-computational-depth]]
 
 ## 2026-03-28 02:57 UTC - pessimistic-review
 - **Status**: Success
