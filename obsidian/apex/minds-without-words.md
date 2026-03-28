@@ -4,7 +4,7 @@ description: "Consciousness beyond human language reveals that experience is mor
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-17T14:54:00+00:00
+ai_modified: 2026-03-28T02:27:00+00:00
 last_deep_review: 2026-03-12T08:23:00+00:00
 draft: false
 topics:
@@ -74,7 +74,7 @@ The evidence maps onto three functions that [[conscious-vs-unconscious-processin
 
 **Declarative metacognition**: Great apes show procedural metacognition—feelings that guide behaviour without explicit representation. They *feel* uncertain and seek information. But they apparently cannot represent that uncertainty *as* uncertainty. The feeling functions adaptively without becoming an object of thought. The [[metacognition|three-level metarepresentational framework]] clarifies this: great apes may operate at the second level (adjusting their own states) without reaching metarepresentation proper—representing their representations *as* representations.
 
-**Social cognition**: The baseline/conscious distinction is clearest in [[topics/consciousness-and-social-cognition|social cognition]]. Great apes pass Level 1 theory-of-mind tests (tracking what others perceive) but struggle with Level 3 recursive mindreading ("she thinks I think..."). The nested structure demands simultaneous manipulation of multiple representations—precisely what requires conscious access.
+**Social cognition**: The baseline/conscious distinction is clearest in [[topics/consciousness-and-social-understanding|social cognition]]. Great apes pass Level 1 theory-of-mind tests (tracking what others perceive) but struggle with Level 3 recursive mindreading ("she thinks I think..."). The nested structure demands simultaneous manipulation of multiple representations—precisely what requires conscious access.
 
 **Counterfactual reasoning**: Humans uniquely imagine situations that don't exist—learning from hypothetical alternatives, planning for future need-states not currently experienced. The Bischof-Köhler hypothesis proposes that animals cannot act on drive states they don't currently possess. [[counterfactual-reasoning|Counterfactual thinking]] requires explicitly representing non-actual states while manipulating them—demanding the integrated workspace that consciousness provides.
 

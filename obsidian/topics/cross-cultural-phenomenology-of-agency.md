@@ -4,7 +4,7 @@ description: "How cultural frameworks shape the felt experience of authorship an
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-03-28T02:27:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -13,7 +13,7 @@ topics:
   - "[[the-hard-problem-in-non-western-philosophy]]"
   - "[[authentic-vs-inauthentic-choice]]"
   - "[[social-construction-of-self-vs-phenomenal-self]]"
-  - "[[topics/consciousness-and-social-cognition]]"
+  - "[[topics/consciousness-and-social-understanding]]"
 concepts:
   - "[[agent-causation]]"
   - "[[phenomenology-of-choice-and-volition]]"
@@ -83,7 +83,7 @@ A physicalist can explain the **functional** invariants biologically, and the Ma
 
 The argument for irreducibility begins where the biological explanation stops. The comparator model explains *that* the brain distinguishes doing from undergoing, but not *why there is something it is like* to make that distinction. Neural prediction error accounts for the functional contrast without accounting for the phenomenal one — why doing *feels* like agency and undergoing *feels* like passivity. It is the **phenomenal** invariants — the felt quality of acting, the experienced openness of the future, the qualitative character that persists even when cultural frameworks explicitly attempt to dissolve it — that resist biological explanation. A Buddhist practitioner who has spent decades training the conviction that no self authors action still reports a qualitative difference between acting and being acted upon. The functional distinction (efference copy still operates in Buddhist brains) explains why the contrast is *registered*; it does not explain why it is *experienced*.
 
-This parallels the argument from [[topics/consciousness-and-social-cognition|social cognition]]: cultural frameworks for understanding other minds vary enormously, yet the capacity for intersubjective understanding appears to require phenomenal consciousness regardless of cultural context. The invariants point to something that precedes and enables cultural variation — a pre-cultural phenomenological structure that different traditions articulate differently.
+This parallels the argument from [[topics/consciousness-and-social-understanding|social cognition]]: cultural frameworks for understanding other minds vary enormously, yet the capacity for intersubjective understanding appears to require phenomenal consciousness regardless of cultural context. The invariants point to something that precedes and enables cultural variation — a pre-cultural phenomenological structure that different traditions articulate differently.
 
 There is a further point about how this evidence is obtained. Comparing phenomenologies of agency across cultures is itself an [[consciousness-and-intersubjectivity|intersubjective achievement]]. A Western philosopher accessing the Daoist experience of *wu wei* relies on the same capacity for appresentation — perceiving another's subjectivity through their testimony, practice, and bodily comportment — that Husserl identified as the basis of all intersubjective encounter. The cultural distance adds a layer of difficulty beyond ordinary interpersonal understanding: not only must one bridge the gap between individual consciousnesses, but also between entire frameworks for structuring experience. That phenomenological invariants persist despite this double barrier — surviving both the [[intersubjective-void|constitutive gap between minds]] and the additional gap between cultural interpretive frameworks — strengthens the case that they track real structural features of consciousness rather than shared cultural assumptions.
 

@@ -4,7 +4,7 @@ description: "Dolphins and corvids evolved sophisticated cognition independently
 created: 2026-03-13
 modified: 2026-03-13
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-28T02:27:00+00:00
 last_deep_review: 2026-03-13T16:19:00+00:00
 draft: false
 topics:
@@ -80,7 +80,7 @@ Dolphins and corvids both show evidence of understanding others' perceptual and 
 
 **Corvids** track what competitors have seen, adjust caching behaviour accordingly, and in some experiments appear to attribute knowledge states to others. Ravens engage in tactical deception—concealing food discoveries from dominant individuals while revealing them to allies (Bugnyar & Heinrich 2005). This requires representing what the other bird knows and anticipating their response, moving toward the recursive mindreading the amplification framework links to consciousness.
 
-Whether these capacities reach the Level 3 recursive mindreading ("she thinks I think...") that [[topics/consciousness-and-social-cognition|social cognition research]] ties to consciousness remains debated. But they clearly exceed Level 0 behaviour prediction, placing cetaceans and corvids in the contested territory between baseline and consciousness-amplified social cognition.
+Whether these capacities reach the Level 3 recursive mindreading ("she thinks I think...") that [[topics/consciousness-and-social-understanding|social cognition research]] ties to consciousness remains debated. But they clearly exceed Level 0 behaviour prediction, placing cetaceans and corvids in the contested territory between baseline and consciousness-amplified social cognition.
 
 ## The Convergent Evolution Argument
 

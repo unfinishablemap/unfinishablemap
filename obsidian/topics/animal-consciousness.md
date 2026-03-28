@@ -4,7 +4,7 @@ description: "Do animals have conscious experience? Convergent evidence suggests
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-21T00:27:00+00:00
+ai_modified: 2026-03-28T02:27:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ concepts:
   - "[[consciousness-as-amplifier]]"
   - "[[baseline-cognition]]"
   - "[[cumulative-culture]]"
-  - "[[topics/consciousness-and-social-cognition]]"
+  - "[[topics/consciousness-and-social-understanding]]"
   - "[[metacognition]]"
   - "[[working-memory]]"
 related_articles:
@@ -121,7 +121,7 @@ The [[consciousness-as-amplifier]] thesis—the Map's interpretation of data tha
 
 **Cumulative culture:** Apes have culture but may not *know* they have culture (Whiten 2015). They express traditions without representing them as modifiable practices. Cumulative culture requires [[metacognition|metarepresentation]]—knowing that you know—which appears to require consciousness.
 
-**Theory of mind levels:** See [[topics/consciousness-and-social-cognition]]. Great apes pass Level 1 tests (tracking what others perceive) but struggle with Level 3 recursive mindreading ("she thinks I think..."). The nested structure demands simultaneous manipulation of multiple representations—precisely what requires conscious access.
+**Theory of mind levels:** See [[topics/consciousness-and-social-understanding]]. Great apes pass Level 1 tests (tracking what others perceive) but struggle with Level 3 recursive mindreading ("she thinks I think..."). The nested structure demands simultaneous manipulation of multiple representations—precisely what requires conscious access.
 
 **Logical reasoning:** Empirical research (Lieberman et al. 2008) shows rule-based logical reasoning specifically depends on conscious processing. If great apes lack this capacity, their cognition would be limited to associative learning.
 
@@ -212,7 +212,7 @@ Whether animal nervous systems provide the right conditions for quantum consciou
 ### Consciousness and Intelligence
 - [[consciousness-as-amplifier]] — How consciousness transforms baseline cognition into human-level intelligence
 - [[baseline-cognition]] — What neural systems achieve without consciousness
-- [[topics/consciousness-and-social-cognition]] — Theory of mind levels and shared intentionality
+- [[topics/consciousness-and-social-understanding]] — Theory of mind levels and shared intentionality
 - [[cetacean-and-corvid-consciousness]] — Dolphins and corvids as convergent test cases for consciousness-amplification
 
 ### Related Topics

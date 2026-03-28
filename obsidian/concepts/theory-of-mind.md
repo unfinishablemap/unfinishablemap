@@ -4,12 +4,12 @@ description: "Attributing beliefs, desires, and intentions to others. Higher lev
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-22T09:56:00+00:00
+ai_modified: 2026-03-28T02:27:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
   - "[[ai-consciousness]]"
-  - "[[topics/consciousness-and-social-cognition]]"
+  - "[[topics/consciousness-and-social-understanding]]"
   - "[[topics/free-will]]"
 concepts:
   - "[[metacognition]]"
@@ -145,7 +145,7 @@ But do they genuinely attribute mental states? The [[jourdain-hypothesis|Jourdai
 
 The distinction matters for understanding what theory of mind requires. If functional performance on tests sufficed, LLMs would have theory of mind. But theory of mind plausibly requires something more: genuinely representing others *as* subjects with inner mental lives, not merely as systems that produce predictable outputs.
 
-This connects to the [[topics/consciousness-and-social-cognition|social cognition and consciousness]] debate. If theory of mind requires phenomenal consciousness—requires experiencing what it's like to have a perspective in order to attribute perspectives to others—then current AI lacks it regardless of test performance.
+This connects to the [[topics/consciousness-and-social-understanding|social cognition and consciousness]] debate. If theory of mind requires phenomenal consciousness—requires experiencing what it's like to have a perspective in order to attribute perspectives to others—then current AI lacks it regardless of test performance.
 
 ## Theory of Mind and Moral Cognition
 
@@ -197,7 +197,7 @@ The simpler hypothesis—theory of mind is just sophisticated behaviour predicti
 
 ### Core Concepts
 - [[metacognition|metarepresentation]] — Why representing minds *as* minds requires consciousness
-- [[topics/consciousness-and-social-cognition]] — Extended analysis of the consciousness-social cognition relationship
+- [[topics/consciousness-and-social-understanding]] — Extended analysis of the consciousness-social cognition relationship
 - [[concept-of-consciousness-and-social-cognition]] — The metarepresentational threshold in social cognition
 - [[baseline-cognition]] — The cognitive floor from which consciousness amplifies social abilities
 - [[jourdain-hypothesis]] — Having mental states vs knowing you have them

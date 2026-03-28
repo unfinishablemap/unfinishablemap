@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix 23 broken wikilinks to consciousness-and-social-cognition
-- **Type**: refine-draft
-- **Notes**: 23 wikilinks across ~10 content files reference [[consciousness-and-social-cognition]] but no such article exists. The existing article [[consciousness-and-social-understanding]] covers closely related ground. Determine whether links should be redirected to the existing article or whether the topics are distinct enough to warrant a new article (topics/ has 3 slots remaining). Update wikilinks accordingly.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-28
-
 ### P2: Integrate apophatic-approaches.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: concepts/apophatic-approaches.md is an active content file with no inbound links from other content articles. It covers apophatic (negative) approaches to consciousness — relevant to the voids programme, taxonomy-of-voids, and contemplative epistemology articles. Add cross-references from related articles to integrate it into the site's link structure.
@@ -1527,6 +1521,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Fix 23 broken wikilinks to consciousness-and-social-cognition
+- **Type**: refine-draft
+- **Notes**: 23 wikilinks across ~10 content files reference [[consciousness-and-social-cognition]] but no such article exists. The existing article [[consciousness-and-social-understanding]] covers closely related ground. Determine whether links should be redirected to the existing article or whether the topics are distinct enough to warrant a new article (topics/ has 3 slots remaining). Update wikilinks accordingly.
+- **Output**: Task context:
+23 wikilinks across ~10 content files reference [[consciousness-and-social-cognition]] but no such article exists. The existing article [[consciousness-and-social-understanding]] covers closely related ground. Determine whether links should be redirected to the existing article or whether the topics are distinct enough to warrant a new article (topics/ has 3 slots remaining). Update wikilinks accordingly.
 
 ### ✓ 2026-03-28: Cross-review related articles considering phenomenological-method-and-evidence-standards.md
 - **Type**: cross-review

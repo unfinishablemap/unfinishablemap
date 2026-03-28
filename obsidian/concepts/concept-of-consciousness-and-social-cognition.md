@@ -4,7 +4,7 @@ description: "Does recursive mindreading require phenomenal consciousness or jus
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-23T10:06:00+00:00
+ai_modified: 2026-03-28T02:27:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -155,7 +155,7 @@ The simpler hypothesis—social cognition is just sophisticated information proc
 - [[consciousness-defeats-explanation]] — How standard methods struggle with consciousness questions
 
 ### Related Topics
-- [[topics/consciousness-and-social-cognition]] — The topic-level treatment: correlation vs. constitution in social cognition
+- [[topics/consciousness-and-social-understanding]] — The topic-level treatment: correlation vs. constitution in social cognition
 - [[animal-consciousness]] — Great ape social cognition and its limits
 - [[ai-consciousness]] — Whether artificial systems could have genuine social understanding
 - [[cumulative-culture]] — How metarepresentational social cognition enables cultural ratcheting

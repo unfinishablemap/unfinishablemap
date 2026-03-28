@@ -4,7 +4,7 @@ description: "Apes have culture but may not know they have culture. The gap betw
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-11T23:41:00+00:00
+ai_modified: 2026-03-28T02:27:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[working-memory]]"
   - "[[illusionism]]"
   - "[[cognitive-phenomenology]]"
-  - "[[topics/consciousness-and-social-cognition]]"
+  - "[[topics/consciousness-and-social-understanding]]"
   - "[[unity-of-consciousness]]"
   - "[[theory-of-mind]]"
 related_articles:
@@ -72,7 +72,7 @@ Great apes rarely teach in the human sense. They learn socially through emulatio
 
 ## Social Cognition: Where the Jourdain Distinction Is Clearest
 
-[[topics/consciousness-and-social-cognition|Social cognition]] provides the sharpest evidence for the procedural/declarative divide. The 4-level [[theory-of-mind]] hierarchy maps directly onto the Jourdain distinction:
+[[topics/consciousness-and-social-understanding|Social cognition]] provides the sharpest evidence for the procedural/declarative divide. The 4-level [[theory-of-mind]] hierarchy maps directly onto the Jourdain distinction:
 
 | Level | Description | Requires Metarepresentation? | Great Apes |
 |-------|-------------|------------------------------|------------|
@@ -185,7 +185,7 @@ The simpler hypothesis—that all metacognition is really procedural, that the a
 
 ## Further Reading
 
-- [[topics/consciousness-and-social-cognition]] — Where the procedural/declarative distinction is clearest: theory of mind levels, shared intentionality, and empathy
+- [[topics/consciousness-and-social-understanding]] — Where the procedural/declarative distinction is clearest: theory of mind levels, shared intentionality, and empathy
 - [[metacognition]] — The capacity to represent representations as representations, and the enabling relation between consciousness and self-monitoring
 - [[baseline-cognition]] — What cognition achieves without metarepresentation
 - [[cumulative-culture]] — Why cultural ratcheting requires the Jourdain transition
