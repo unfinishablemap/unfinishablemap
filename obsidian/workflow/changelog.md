@@ -5,6 +5,12 @@ ai_modified: 2026-03-28T03:12:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 05:43 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Sections searched**: voids (100/100), concepts (225/230)
+- **Pairs evaluated**: ~15 across both sections
+- **Reason**: All remaining articles are well-differentiated. Prior coalescing (self-opacity from 7, biological-cognitive-closure from 2) has already merged the obvious candidates.
+
 ## 2026-03-28 05:27 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/epiphenomenalism]]
