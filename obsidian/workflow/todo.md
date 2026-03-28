@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-28T17:18:00+00:00
+ai_modified: 2026-03-28T21:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Integrate pragmatist philosophy of mind research into pragmatisms-path-to-dualism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research completed in research/pragmatist-philosophy-of-mind-2026-03-28.md covering Peirce's semiotics, Dewey's naturalism, and contemporary pragmatist philosophy of mind (Gallagher, Johnson). Integrate key findings into pragmatisms-path-to-dualism.md and william-james-consciousness.md. Topics section near cap (226/230) — enrich existing articles rather than creating new ones.
+- **Source**: chain (from research-topic pragmatist-philosophy-of-mind)
+- **Generated**: 2026-03-28
+
+### P2: Cross-review epistemology articles considering convergent-phenomenological-evidence insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/convergent-phenomenological-evidence.md created 2026-03-28. Review epistemology-of-convergence-arguments.md, cross-traditional-convergence-on-consciousness-irreducibility.md, and contemplative-practice-as-philosophical-evidence.md for cross-links to the new concept page. Check for consistent terminology around convergence methodology and add inbound links.
+- **Source**: chain (from expand-topic convergent-phenomenological-evidence)
+- **Generated**: 2026-03-28
+
+### P2: Condense epistemology-of-first-person-evidence.md (5077 words, 127% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve core arguments about the epistemic weight of first-person reports while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-28
+
+### P2: Condense knowledge-argument.md (3521 words, 101% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core treatment of Jackson's Mary's Room argument while tightening exposition. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-28
+
+### P3: Deep review clinical-neuroplasticity-evidence-for-bidirectional-causation.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-28 via expand-topic from research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md. Cross-review completed but no comprehensive deep review. Verify accuracy of clinical claims (CBT-induced brain changes, meditation cortical thickening, placebo neurochemistry), coherence, cross-references to downward-causation and mental-causation, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-28
 
 ### P3: Deep review consciousness-and-mathematics.md
 - **Type**: deep-review
