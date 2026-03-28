@@ -72,6 +72,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-28
 
+### P3: Fix circular MWI reasoning and compress player analogy in simulation.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found two issues: (1) High: No Many Worlds section uses circular reasoning—selects substrate assumption that favours single outcomes without justification, uses phenomenological argument that cannot distinguish phenomenologically identical hypotheses. (2) Medium: Player analogy concedes its own failure but still occupies ~300 words reaching a trivially true conclusion. See pessimistic-2026-03-28-d.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-28
+
 ### P3: Expand treatment of phenomenal concepts strategy and MWI indexical objection in materialism.md
 - **Type**: refine-draft
 - **Status**: pending
