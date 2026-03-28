@@ -4,7 +4,7 @@ description: "Six major challenges to dualism: pairing, conservation, parsimony,
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-28T11:23:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-03-06T06:25:00+00:00
+last_deep_review: 2026-03-28T11:23:00+00:00
 ---
 
 [[interactionist-dualism|Interactionist dualism]] faces six major philosophical objections: the [[pairing-problem|pairing problem]], conservation laws, parsimony, the decoherence objection, the evolutionary argument, and Kim's exclusion argument. This page treats each objection and the responses available to the interactionist—particularly within the [[quantum-consciousness|quantum framework]] The Unfinishable Map adopts. The key finding: five objections have principled responses, and the sixth (evolution) actually *supports* interactionism against its main rival, [[concepts/epiphenomenalism]].
@@ -76,7 +76,7 @@ Pitts and Cucu demonstrate that conservation laws are *local* and *conditional*.
 
 The Map's primary response: at quantum indeterminacies, consciousness *selects* among possible outcomes without *injecting* energy. All outcomes are already present in the wavefunction with their associated energies. Physics determines that *one* will become actual, with probabilities for each, but doesn't determine *which*. Consciousness selects without energy injection—conservation equations are satisfied for every possible outcome.
 
-Quantum entanglement provides precedent: Bell's theorem shows correlations between distant particles that cannot be explained by local energy transfer. If physics permits such connections without energy exchange, conceptual space exists for mind-matter interaction without energy injection.
+Quantum entanglement provides precedent: Bell's theorem shows correlations between distant particles that no local hidden-variable theory can reproduce. If physics permits such non-local correlations without energy transfer, conceptual space exists for mind-matter interaction without energy injection.
 
 ## Parsimony
 
@@ -108,7 +108,7 @@ The [[decoherence|decoherence objection]] targets quantum-based interactionism s
 
 ### Response 1: Quantum Biology Evidence
 
-Recent experiments complicate the "warm means no quantum" picture. Quantum coherence in photosynthetic light-harvesting complexes persists far longer than Tegmark-style calculations predicted. Kalra et al. (2025) found microtubule-stabilizing drugs delay anesthesia onset in mice, suggesting microtubule dynamics matter for consciousness. Kerskens and Pérez (2022-2023) detected possible entanglement signatures in human brain MRI correlating with working memory. These don't prove quantum consciousness but demonstrate that quantum effects in biological systems are more robust than assumed.
+Recent experiments complicate the "warm means no quantum" picture. Quantum coherence in photosynthetic light-harvesting complexes persists far longer than Tegmark-style calculations predicted. Kalra et al. (2025) found microtubule-stabilizing drugs delay anesthesia onset in mice, suggesting microtubule dynamics matter for consciousness. Kerskens and Pérez (2022) detected possible entanglement signatures in human brain MRI correlating with working memory, though the result remains contested and awaits replication. These don't prove quantum consciousness but demonstrate that quantum effects in biological systems are more robust than assumed.
 
 ### Response 2: The Measurement Question
 
@@ -144,7 +144,7 @@ Kim calls this "causal drainage"—efficacy drains to fundamental physics. But t
 
 ### Response 1: Interventionism
 
-James Woodward's interventionist theory defines causes as factors whose manipulation changes effects. Intervening on mental states (through reasoning, therapy, meditation) produces different physical outcomes, establishing mental causation via counterfactuals.
+James Woodward's interventionist theory defines causes as factors whose manipulation changes effects. Intervening on mental states (through reasoning, therapy, meditation) produces different physical outcomes, establishing mental causation via counterfactuals. The physicalist objects that these interventions are themselves physical processes, but the interventionist point is that mental-level descriptions pick out the causally relevant variable—changing the *belief content* matters, not which specific neurons fire.
 
 ### Response 2: Levels and Proportionality
 
@@ -217,7 +217,7 @@ The exclusion argument receives two complementary responses: quantum insufficien
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32: 127-136.
 1. James, W. (1890). *The Principles of Psychology*.
 1. Kalra, A. P., et al. (2025). "Microtubule-stabilizing drugs delay anesthetic-induced unconsciousness in mice." *Proceedings of the National Academy of Sciences*, 122(3).
-1. Kerskens, C. M., & Pérez, D. L. (2022-2023). "Experimental indications of non-classical brain functions." *Journal of Physics Communications*.
+1. Kerskens, C. M., & Pérez, D. L. (2022). "Experimental indications of non-classical brain functions." *Journal of Physics Communications*, 6(10), 105001.
 1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 1. Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (eds.), *Physicalism and Its Discontents*. Cambridge University Press.
