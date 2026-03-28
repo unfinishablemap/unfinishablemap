@@ -4,7 +4,7 @@ description: "Why controlling attention feels like work—and what this universa
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-03-28T10:13:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -35,7 +35,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-03-06T06:40:00+00:00
+last_deep_review: 2026-03-28T10:13:00+00:00
 ---
 
 Controlling your attention takes effort. This simple phenomenological fact—that directing the mind feels effortful, that overriding impulses requires work—is among the strongest evidence that consciousness does something. If effort is *real*—if it genuinely costs something to hold attention on a topic—then something is doing work. The question is what. The Unfinishable Map argues that this datum supports interactionist dualism regardless of which physical mechanism turns out to mediate the interaction.
@@ -154,8 +154,7 @@ The phenomenology of effort provides a datum any account must explain. If contro
 - [[dopamine-and-the-unified-interface]] — Dopamine prepares the selection interface; theta oscillations provide the timing substrate
 - [[attention-as-interface]] — Attention as the interface layer between consciousness and neural systems
 - [[structure-of-attention]] — How attention is organized across voluntary, involuntary, and meta-attentional layers
-- [[phenomenology-of-choice-and-volition]] — The four-component structure of willing: initiation, sustained control, effort, and veto
-- [[phenomenology-of-choice-and-volition]] — The choosing-observing distinction
+- [[phenomenology-of-choice-and-volition]] — The choosing-observing distinction and four-component structure of willing
 - [[meditation-and-consciousness-modes]] — Selection vs witnessing modes
 - [[illusionism]] — The eliminativist challenge
 - [[quantum-consciousness]] — Overview of quantum consciousness mechanisms
@@ -171,24 +170,3 @@ The phenomenology of effort provides a datum any account must explain. If contro
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 1. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-
-<!-- AI REFINEMENT LOG - 2026-03-16
-Changes made:
-- Removed "Quantum Zeno Effect" from title; article is now "Mental Effort"
-- Rewrote opening summary to lead with phenomenology as the core datum, mechanism-independent
-- Rewrote description to focus on phenomenology rather than Zeno
-- Moved neuroplasticity section before mechanisms (evidence before speculation)
-- Collapsed "Stapp's Quantum Zeno Mechanism" and "Objections/Decoherence" into a new "Proposed Mechanisms" section treating Zeno as one speculative proposal alongside others
-- Addressed the 10^12 timescale gap honestly as a "fundamental challenge" rather than listing inconclusive responses
-- Removed Hagan microtubule and quantum biology counter-arguments that were weak (per style guide on microtubules requiring restraint)
-- Decoupled neuroplasticity evidence from Zeno interpretation (Schwartz-Stapp collaboration mentioned in mechanisms section instead)
-- Rewrote "Relation to Site Perspective" to ground arguments in phenomenology and neuroplasticity rather than Zeno
-- Rewrote effortless awareness section without Zeno dependency
-- Removed falsifiability criterion about biological quantum effects (mechanism-specific, not relevant to core argument)
-- Epiphenomenalist alternative folded into Materialist Problem section (was redundant)
-
-Based on pessimistic review issues #1 (Zeno overemphasis violating style guide) and #2 (inadequate decoherence gap treatment).
-Key improvements: Article now survives if Zeno is disproven; phenomenology carries the argument independently.
-
-This log should be removed after human review.
--->

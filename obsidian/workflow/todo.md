@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Strengthen cross-links for minimally-connected files
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: Nine files have only 1 inbound link and are at risk of effective orphaning: arguments-against-epiphenomenalism.md, conservation-laws-mind-brain-causation.md, differential-predictions-consciousness-collapse.md, dreams-as-consciousness-laboratory.md, epiphenomenalisms-gravity-well.md, evolution-of-consciousness-dualist-perspective.md, godel-measurement-problem-analogy.md, surprise-and-creativity.md, phenomenology-of-self-reference.md. Add cross-references from thematically related articles to strengthen their integration.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-28
-
 ### P2: Cross-review mental causation articles considering clinical neuroplasticity evidence
 - **Type**: cross-review
 - **Status**: pending
@@ -1560,6 +1553,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Strengthen cross-links for minimally-connected files
+- **Type**: integrate-orphan
+- **Notes**: Nine files have only 1 inbound link and are at risk of effective orphaning: arguments-against-epiphenomenalism.md, conservation-laws-mind-brain-causation.md, differential-predictions-consciousness-collapse.md, dreams-as-consciousness-laboratory.md, epiphenomenalisms-gravity-well.md, evolution-of-consciousness-dualist-perspective.md, godel-measurement-problem-analogy.md, surprise-and-creativity.md, phenomenology-of-self-reference.md. Add cross-references from thematically related articles to strengthen their integration.
+- **Output**: None -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-28: Integrate bi-aspectual ontology research into russellian-monism-versus-bi-aspectual-dualism.md
 - **Type**: refine-draft
