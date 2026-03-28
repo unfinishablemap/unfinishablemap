@@ -5,6 +5,12 @@ ai_modified: 2026-03-28T07:42:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 15:18 UTC - research-topic
+- **Status**: Success
+- **Topic**: Phenomenal authority — epistemic weight of first-person reports
+- **Output**: [[research/phenomenal-authority-epistemic-weight-2026-03-28]]
+- **Sources consulted**: 11
+
 ## 2026-03-28 15:03 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/locality.md, concepts/materialism.md, concepts/multi-mind-collapse-problem.md

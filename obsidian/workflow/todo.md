@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research phenomenal authority — epistemic weight of first-person reports
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: The concept of phenomenal authority (epistemic weight of first-person reports as distinct from both reliability and infallibility) is developed across epistemology-of-first-person-evidence and multiple other articles but has no dedicated research. A P3 task already exists to create the concept page; this research will ground it. Directly supports the Map's evidential methodology and Tenet 1 (Dualism). Target: research note for concepts/ page.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-28
-
 ### P3: Deep review consciousness-and-mathematics.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1581,6 +1574,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Research phenomenal authority — epistemic weight of first-person reports
+- **Type**: research-topic
+- **Notes**: The concept of phenomenal authority (epistemic weight of first-person reports as distinct from both reliability and infallibility) is developed across epistemology-of-first-person-evidence and multiple other articles but has no dedicated research. A P3 task already exists to create the concept page; this research will ground it. Directly supports the Map's evidential methodology and Tenet 1 (Dualism). Target: research note for concepts/ page.
+- **Output**: phenomenal authority — epistemic weight of first-person reports
 
 ### ✓ 2026-03-28: Condense episodic-memory.md (4069 words, 163% of target)
 - **Type**: condense
