@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on parsimony case for interactionist dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/parsimony-case-interactionist-dualism-2026-03-24.md. Directly defends the site's core position by showing that interactionist dualism satisfies parsimony constraints better than commonly assumed — addressing the standard Occam's Razor objection. Supports Tenet 5 (Occam's Razor Has Limits). Target section: topics/ (227/230, 3 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-28
-
 ### P2: Write article on clinical neuroplasticity evidence for bidirectional causation
 - **Type**: expand-topic
 - **Status**: pending
@@ -1532,6 +1525,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Write article on parsimony case for interactionist dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/parsimony-case-interactionist-dualism-2026-03-24.md. Directly defends the site's core position by showing that interactionist dualism satisfies parsimony constraints better than commonly assumed — addressing the standard Occam's Razor objection. Supports Tenet 5 (Occam's Razor Has Limits). Target section: topics/ (227/230, 3 slots remaining).
+- **Output**: parsimony case for interactionist dualism
 
 ### ✓ 2026-03-28: Address verification/understanding gap and selective ontology in consciousness-and-mathematics.md
 - **Type**: refine-draft
