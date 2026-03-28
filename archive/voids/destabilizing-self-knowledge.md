@@ -27,6 +27,11 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-27
 last_curated:
+archived: true
+archived_date: 2026-03-28T20:57:00+00:00
+superseded_by: "/voids/necessary-opacity/"
+archive_reason: "Coalesced into Necessary Opacity"
+original_path: "/voids/destabilizing-self-knowledge/"
 ---
 
 Some truths may be inaccessible not because external forces block them, but because fully grasping them would undermine the cognitive system doing the grasping. The self-model that allows coherent thought may require certain opacities to function. When those opacities are pierced—through psychedelic experience, contemplative practice, or pathological breakdown—the result is often not enlightenment but dysfunction. This creates a distinctive void: knowledge that would dissolve the knower's capacity to hold it.

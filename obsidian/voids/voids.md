@@ -120,7 +120,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[resolution-void|The Resolution Void]] — The six-order-of-magnitude compression between available and accessed information
 - [[self-transcendence-void|The Self-Transcendence Void]] — Why consciousness cannot bootstrap itself beyond its own cognitive architecture
 - [[spontaneous-thought-void|The Spontaneous Thought Void]] — Why consciousness cannot observe generation of unbidden thoughts
-- [[transparency-void|The Transparency Void]] — Why consciousness cannot verify its own accuracy
+- [[necessary-opacity|Necessary Opacity]] — Why consciousness cannot verify its own accuracy, and why exposing that opacity destabilises the system
 - [[complicity-void|The Complicity Void]] — Whether consciousness actively participates in maintaining its own limits
 - [[obviousness-void|The Obviousness Void]] — How the feeling of self-evidence terminates inquiry before it begins
 
@@ -134,7 +134,6 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[absorption-void|The Absorption Void]] — Peak conscious engagement is peak self-opacity
 - [[expertise-occlusion|The Expertise Occlusion]] — How mastery actively defends its own opacity
 - [[appetitive-void|The Appetitive Void]] — How desire constitutes cognition rather than merely distorting it
-- [[destabilizing-self-knowledge|Destabilizing Self-Knowledge]] — Knowledge that undermines its own conditions
 - [[self-opacity|The Phenomenology of Self-Awareness]] — Self-reference, error-blindness, and the bootstrap problem of self-correction
 - [[altered-states-as-void-probes|Altered States as Void Probes]] — Whether altered states reveal cognitive limits or simulate transcendence
 - [[attention-disorders-and-consciousness|Consciousness and Attention Disorders]] — When consciousness's own instrument is disordered

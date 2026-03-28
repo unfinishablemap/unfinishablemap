@@ -5,6 +5,13 @@ ai_modified: 2026-03-28T07:42:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 20:57 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[transparency-void|The Transparency Void]], [[destabilizing-self-knowledge|Destabilizing Self-Knowledge]]
+- **Target**: [[necessary-opacity|Necessary Opacity]]
+- **Archived**: archive/voids/transparency-void.md, archive/voids/destabilizing-self-knowledge.md
+- **References to review**: ~55 files reference the archived articles
+
 ## 2026-03-28 18:48 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/leibnizs-mill-argument]]

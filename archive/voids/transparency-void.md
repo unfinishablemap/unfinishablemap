@@ -32,6 +32,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-24
 last_curated:
 last_deep_review: 2026-02-25T19:57:00+00:00
+archived: true
+archived_date: 2026-03-28T20:57:00+00:00
+superseded_by: "/voids/necessary-opacity/"
+archive_reason: "Coalesced into Necessary Opacity"
+original_path: "/voids/transparency-void/"
 ---
 
 The Unfinishable Map's [[voids]] chart the boundaries of what consciousness can and cannot know. The transparency void is among the most unsettling: consciousness cannot verify whether its access to reality is accurate, undistorted, or complete—because every method of verification relies on the very cognitive apparatus whose fidelity is in question. Worse, this void is self-concealing. Phenomenal transparency—the property by which conscious representations hide themselves *as* representations—means we cannot even detect the interface through which we perceive. The distortion, if it exists, hides the fact that distortion exists.
