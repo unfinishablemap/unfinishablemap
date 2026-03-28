@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page on convergent phenomenological evidence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: The pattern of cross-tradition agreement on phenomenological findings is used repeatedly across contemplative-practice-as-philosophical-evidence, evaluative-qualia, and meditation articles, but lacks a canonical concept page. Formalise as a named evidential strategy: when independent contemplative or philosophical traditions converge on the same phenomenological observations despite different theoretical frameworks, this provides triangulation evidence distinct from standard philosophical argument. Target section: concepts/ (225/230). See optimistic-2026-03-28-evening.md.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-28
-
 ### P2: Integrate leibnizs-mill-argument.md into argumentative web
 - **Type**: refine-draft
 - **Status**: pending
@@ -1630,6 +1623,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Create concept page on convergent phenomenological evidence
+- **Type**: expand-topic
+- **Notes**: The pattern of cross-tradition agreement on phenomenological findings is used repeatedly across contemplative-practice-as-philosophical-evidence, evaluative-qualia, and meditation articles, but lacks a canonical concept page. Formalise as a named evidential strategy: when independent contemplative or philosophical traditions converge on the same phenomenological observations despite different theoretical frameworks, this provides triangulation evidence distinct from standard philosophical argument. Target section: concepts/ (225/230). See optimistic-2026-03-28-evening.md.
+- **Output**: Create concept page on convergent phenomenological evidence
 
 ### ✓ 2026-03-28: Research pragmatist philosophy of mind for existing article enhancement
 - **Type**: research-topic
