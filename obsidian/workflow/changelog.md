@@ -5,6 +5,11 @@ ai_modified: 2026-03-28T07:42:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 15:03 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/locality.md, concepts/materialism.md, concepts/multi-mind-collapse-problem.md
+- **Output**: [[reviews/pessimistic-2026-03-28-c]]
+
 ## 2026-03-28 14:49 UTC - condense
 - **Status**: Success
 - **File**: [[concepts/episodic-memory]]

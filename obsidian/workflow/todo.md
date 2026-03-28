@@ -58,6 +58,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-28
 
+### P3: Clarify causation/modulation distinction and address mind-side ad hoc concern in locality.md and multi-mind-collapse-problem.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found two high-severity issues: (1) The causation/modulation distinction in multi-mind-collapse-problem.md may be verbal rather than metaphysical—biasing outcomes is still a form of causation. (2) The "mind side could be complex" argument in locality.md is unfalsifiable—any objection can be answered by positing whatever mental structure is needed. Both articles need constraints on what the mind side *couldn't* be. See pessimistic-2026-03-28-c.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-28
+
+### P3: Expand treatment of phenomenal concepts strategy and MWI indexical objection in materialism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the phenomenal concepts strategy (Loar, Papineau, Balog) gets dismissive four-sentence treatment despite being the most sophisticated materialist response. The MWI indexical objection is question-begging—the indexical question arises for every theory, not just MWI. Engage with Saunders/Wallace on personal identity under MWI. See pessimistic-2026-03-28-c.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-28
+
 ### P3: Engage with QBism and expand unfalsifiability discussion in completeness-in-physics-under-dualism.md
 - **Type**: refine-draft
 - **Status**: pending
