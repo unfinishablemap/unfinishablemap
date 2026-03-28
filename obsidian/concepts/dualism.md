@@ -204,7 +204,7 @@ Combined with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]
 
 **Materialist responses:** [[concepts/materialism]], [[illusionism]], [[phenomenal-concepts-strategy]], [[heterophenomenology]], [[mysterianism]]
 
-**The Map's framework:** [[bi-aspectual-ontology]], [[interactionist-dualism]], [[quantum-consciousness]], [[objections-to-interactionism]], [[epistemic-advantages-of-dualism]], [[epistemological-limits-of-occams-razor]], [[epistemological-limits-occams-razor]], [[parsimony-epistemology]], [[causal-closure]], [[mental-causation]], [[topics/free-will]]
+**The Map's framework:** [[bi-aspectual-ontology]], [[interactionist-dualism]], [[quantum-consciousness]], [[objections-to-interactionism]], [[epistemic-advantages-of-dualism]], [[epistemology]], [[epistemological-limits-of-occams-razor]], [[epistemological-limits-occams-razor]], [[parsimony-epistemology]], [[causal-closure]], [[mental-causation]], [[topics/free-will]]
 
 **Varieties and context:** [[substance-property-dualism]], [[intuitive-dualism]], [[cognitive-science-of-dualism]], [[buddhism-and-dualism]]
 

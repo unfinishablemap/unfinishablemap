@@ -39,7 +39,7 @@ coalesced_from:
   - "/topics/limits-of-parsimony-in-consciousness-science/"
 ---
 
-Parsimony epistemology examines whether and when simplicity is a reliable guide to truth. The Unfinishable Map treats this as a foundational concept because the most common objection to [[dualism]] — that [[concepts/materialism|physicalism]] is simpler — depends entirely on parsimony having epistemic warrant in the consciousness domain. Multiple independent analyses converge on the conclusion that parsimony has no such warrant there: all three preconditions for its application fail simultaneously, and parsimony's own defenders have acknowledged its limitations. For the full argumentative case, see [[epistemological-limits-of-occams-razor]]; for the cognitive dimension, see [[epistemological-limits-occams-razor|The Parsimony Void]].
+Parsimony epistemology examines whether and when simplicity is a reliable guide to truth. As a branch of [[epistemology]] — the study of knowledge, justification, and rational belief — it asks foundational questions about what counts as warrant. The Unfinishable Map treats this as a foundational concept because the most common objection to [[dualism]] — that [[concepts/materialism|physicalism]] is simpler — depends entirely on parsimony having epistemic warrant in the consciousness domain. Multiple independent analyses converge on the conclusion that parsimony has no such warrant there: all three preconditions for its application fail simultaneously, and parsimony's own defenders have acknowledged its limitations. For the full argumentative case, see [[epistemological-limits-of-occams-razor]]; for the cognitive dimension, see [[epistemological-limits-occams-razor|The Parsimony Void]].
 
 ## What Parsimony Epistemology Studies
 

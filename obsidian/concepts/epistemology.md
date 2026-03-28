@@ -4,7 +4,7 @@ description: "How we know what we know about consciousness—and why the standar
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-03-26T09:17:00+00:00
+ai_modified: 2026-03-28T00:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,6 +19,8 @@ concepts:
   - "[[mysterianism]]"
   - "[[metacognition]]"
   - "[[acquaintance-knowledge]]"
+  - "[[contemplative-epistemology]]"
+  - "[[neurophenomenology-and-contemplative-neuroscience]]"
 related_articles:
   - "[[tenets]]"
   - "[[epistemology-of-limit-knowledge]]"
@@ -27,15 +29,18 @@ related_articles:
   - "[[epistemology-of-mechanism-at-the-consciousness-matter-interface]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[epistemic-advantages-of-dualism]]"
+  - "[[philosophy-of-science-under-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-25
 last_curated:
-last_deep_review: 2026-03-25T23:31:00+00:00
+last_deep_review: 2026-03-28T00:14:00+00:00
 ---
 
-Epistemology — the study of knowledge, justification, and rational belief — takes on distinctive significance in The Unfinishable Map's framework because the consciousness debate is, at bottom, an epistemological crisis. The central dispute is not merely about what exists but about what kinds of evidence count, what methods of inquiry are appropriate, and whether the standard epistemic toolkit — third-person observation, parsimony, empirical prediction — is adequate for the domain it is being asked to adjudicate. The Map argues that epistemological assumptions do more to determine conclusions about consciousness than any empirical finding, and that making these assumptions explicit is a precondition for honest inquiry.
+Epistemology — the study of knowledge, justification, and rational belief — takes on distinctive significance in The Unfinishable Map's framework because the consciousness debate is, at bottom, an epistemological crisis. The central dispute is not merely about what exists but about what kinds of evidence count, what methods of inquiry are appropriate, and whether the standard epistemic toolkit — third-person observation, parsimony, empirical prediction — is adequate for the domain it is being asked to adjudicate.
+
+The Map argues that epistemological assumptions do more to determine conclusions about consciousness than any empirical finding, and that making these assumptions explicit is a precondition for honest inquiry.
 
 ## Epistemology and the Consciousness Debate
 
@@ -51,7 +56,9 @@ The Map recognises two fundamentally different ways of knowing about consciousne
 
 **First-person epistemology** — [[introspection]], [[phenomenological-evidence|phenomenological report]], and contemplative inquiry — yields knowledge through direct [[acquaintance-knowledge|acquaintance]] with experience. This channel provides the primary data that consciousness science seeks to explain. [[Phenomenological-evidence|Phenomenological evidence]] is not merely anecdotal colour added to the real science; it constitutes the explanandum itself. Without first-person reports, there would be no consciousness problem to solve.
 
-The tension between these channels is not resolvable by subordinating one to the other. Third-person methods cannot access the qualitative character of experience — a claim contested by heterophenomenologists, who argue that third-person methods can take first-person reports seriously without granting them infallibility, though this approach arguably reduces first-person data to behavioural evidence. First-person methods cannot establish the physical mechanisms underlying experience. The [[epistemology-of-first-person-evidence|epistemology of first-person evidence]] examines how phenomenal reports can be calibrated and made rigorous without collapsing them into third-person data. [[neurophenomenology-and-contemplative-neuroscience|Neurophenomenology]] attempts to integrate both channels, using first-person reports to constrain and inform third-person investigation.
+The tension between these channels is not resolvable by subordinating one to the other. Third-person methods cannot access the qualitative character of experience. [[heterophenomenology|Heterophenomenology]] disputes this, arguing that third-person methods can take first-person reports seriously without granting them infallibility — though this approach arguably reduces first-person data to behavioural evidence. First-person methods cannot establish the physical mechanisms underlying experience.
+
+The [[epistemology-of-first-person-evidence|epistemology of first-person evidence]] examines how phenomenal reports can be calibrated and made rigorous without collapsing them into third-person data. [[neurophenomenology-and-contemplative-neuroscience|Neurophenomenology]] attempts to integrate both channels, using first-person reports to constrain and inform third-person investigation. [[contemplative-epistemology|Contemplative traditions]] offer a further development: sustained meditative practice as a method of refining first-person observation, analogous to training scientific observation skills.
 
 ## Epistemic Assumptions That Determine Conclusions
 
@@ -75,6 +82,8 @@ Third, the limits of knowledge become themselves epistemologically significant. 
 
 Fourth, [[epistemology-of-convergence-arguments|convergence]] becomes a central epistemic method. When multiple independent lines of inquiry — phenomenological, empirical, philosophical — point toward the same conclusion, this convergence provides warrant that no single line could provide alone. The Map's case for dualism relies heavily on convergence: the knowledge argument, conceivability arguments, the explanatory gap, and the argument from reason each provide independent evidence that physical description is incomplete.
 
+Fifth, the [[philosophy-of-science-under-dualism|philosophy of science itself requires revision]]. If reality has aspects that third-person methods cannot fully capture, then the scope of scientific explanation is narrower than typically assumed — not because science fails, but because its methods are optimised for the physical domain. This does not diminish science but clarifies its boundaries.
+
 ## Epistemic Humility and Its Limits
 
 The Map's fifth tenet — [[tenets#^occams-limits|Occam's Razor Has Limits]] — is an epistemological claim about the reliability of our simplicity intuitions. It does not counsel blanket scepticism but targeted humility: when our conceptual tools may be inadequate to the domain, we should not mistake our inability to conceive of a solution for evidence that no solution exists. [[Mysterianism]] takes this further, arguing that some aspects of the mind-body relation may exceed human cognitive capacity entirely.
@@ -97,6 +106,8 @@ Tenet 5 — Occam's Razor Has Limits — is explicitly epistemological. Tenet 1 
 - [[meta-epistemology-of-limits]] — The epistemology of epistemic limits themselves
 - [[epistemic-advantages-of-dualism]] — What dualism gains epistemically
 - [[epistemology-of-other-minds-under-dualism]] — Intersubjective warrant under non-physical consciousness
+- [[contemplative-epistemology]] — Meditative practice as a method of refining first-person observation
+- [[philosophy-of-science-under-dualism]] — How dualism reshapes the scope of scientific explanation
 - [[knowledge-argument]] — The canonical case that physical knowledge is incomplete
 
 ## References

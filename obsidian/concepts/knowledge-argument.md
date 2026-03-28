@@ -149,7 +149,7 @@ The knowledge argument's persuasive force rests heavily on the intuition that Ma
 
 Several considerations warrant caution. Intuitions often fail: people intuit that the Earth is stationary, that time is absolute, that tiny particles can't be in two places. The force of "surely Mary learns something" may reflect our inability to imagine what "complete physical knowledge" would be like—a cognitive limitation rather than an insight into metaphysics. The dramatic features of Mary's scenario—confinement, release, first experience of color—may also generate an emotional response that amplifies the intuition beyond its epistemic warrant.
 
-The Map treats the learning intuition as strong evidence—but not as near-decisive. The honest position is that the intuition's reliability is itself an open question, and the argument is strongest when presented as conditional: *if* Mary genuinely learns something new, *then* physicalism faces a serious challenge.
+The Map treats the learning intuition as strong evidence—but not as near-decisive. The honest position is that the intuition's reliability is itself an open [[epistemology|epistemological]] question, and the argument is strongest when presented as conditional: *if* Mary genuinely learns something new, *then* physicalism faces a serious challenge.
 
 ## Process Philosophy Perspective
 

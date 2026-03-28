@@ -54,7 +54,7 @@ coalesced_from:
   - "/concepts/cognitive-closure/"  # re-coalesced 2026-03-24
 ---
 
-Mysterianism is the view that the [[hard-problem-of-consciousness|hard problem of consciousness]] cannot be solved by human minds—not because consciousness is supernatural but because our cognitive architecture lacks the resources to grasp the solution. Colin McGinn formalized this position in 1989 through the concept of "cognitive closure": just as rats cannot do calculus and dogs cannot understand quantum mechanics, humans may be permanently unable to understand how consciousness relates to the brain. The solution might exist; we just can't reach it.
+Mysterianism is the view that the [[hard-problem-of-consciousness|hard problem of consciousness]] cannot be solved by human minds—not because consciousness is supernatural but because our cognitive architecture lacks the [[epistemology|epistemological]] resources to grasp the solution. Colin McGinn formalized this position in 1989 through the concept of "cognitive closure": just as rats cannot do calculus and dogs cannot understand quantum mechanics, humans may be permanently unable to understand how consciousness relates to the brain. The solution might exist; we just can't reach it.
 
 This position occupies important middle ground. Unlike eliminativism, mysterianism takes consciousness seriously as a real phenomenon requiring explanation. Unlike confident physicalism or dualism, it acknowledges the depth of the problem. The position strongly supports the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet: our sense of which explanations are "simple" may reflect our cognitive limitations rather than reality.
 
