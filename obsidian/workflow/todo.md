@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on clinical neuroplasticity evidence for bidirectional causation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md. Clinical neuroplasticity data (CBT-induced brain changes, meditation-driven cortical thickening, placebo neurochemistry) provides strong empirical evidence for Tenet 3 (Bidirectional Interaction). Synthesize into a focused article on what clinical outcomes reveal about mental causation. Target section: topics/ (227/230, 3 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-28
-
 ### P2: Cross-review epiphenomenalism.md after arguments-against-epiphenomenalism merger
 - **Type**: cross-review
 - **Status**: pending
@@ -1546,6 +1539,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Write article on clinical neuroplasticity evidence for bidirectional causation
+- **Type**: expand-topic
+- **Notes**: Research completed in research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md. Clinical neuroplasticity data (CBT-induced brain changes, meditation-driven cortical thickening, placebo neurochemistry) provides strong empirical evidence for Tenet 3 (Bidirectional Interaction). Synthesize into a focused article on what clinical outcomes reveal about mental causation. Target section: topics/ (227/230, 3 slots remaining).
+- **Output**: clinical neuroplasticity evidence for bidirectional causation
 
 ### ✓ 2026-03-28: Write article on parsimony case for interactionist dualism
 - **Type**: expand-topic
