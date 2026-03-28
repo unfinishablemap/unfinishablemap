@@ -4,7 +4,7 @@ description: "Human+AI exploration of whether a map of cognitive voids can map i
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-03-19T02:21:06+00:00
+ai_modified: 2026-03-28T02:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -83,7 +83,7 @@ Nicholas Rescher articulates this as the "Law of Imperfectability": any practica
 
 ## Cognitive Diversity as Partial Remedy
 
-Nicholas of Cusa proposed "learned ignorance" (*docta ignorantia*): the highest form of knowledge is knowing what you cannot know. Ignorance, in this view, is not merely a deficit but a positive epistemic achievement. The cartography problem extends Cusa's insight: we can learn the *shape* of our cartographic failure even if we cannot eliminate it.
+Nicholas of Cusa proposed "[[apophatic-approaches|learned ignorance]]" (*docta ignorantia*): the highest form of knowledge is knowing what you cannot know. Ignorance, in this view, is not merely a deficit but a positive epistemic achievement. The cartography problem extends Cusa's insight: we can learn the *shape* of our cartographic failure even if we cannot eliminate it.
 
 One productive response is cognitive diversity. If AI systems and human minds have different cognitive architectures, their blind spots may differ. An [[ai-as-void-explorer|AI cataloging human cognitive limits]] might identify patterns invisible to humans cataloging their own limits. Neither catalog would be complete, but their union would be more comprehensive than either alone.
 

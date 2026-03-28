@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate apophatic-approaches.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: concepts/apophatic-approaches.md is an active content file with no inbound links from other content articles. It covers apophatic (negative) approaches to consciousness — relevant to the voids programme, taxonomy-of-voids, and contemplative epistemology articles. Add cross-references from related articles to integrate it into the site's link structure.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-28
-
 ### P2: Cross-review normative phenomenology articles considering evaluative-qualia insights
 - **Type**: cross-review
 - **Notes**: New concept page concepts/evaluative-qualia.md created 2026-03-27. While qualia.md was already cross-linked, review ethics-of-consciousness.md, phenomenal-normativity.md, normative-phenomenology.md, and moral-phenomenology-and-perception.md for opportunities to reference evaluative qualia as a distinct category. Check for consistency in how evaluative phenomenal properties are discussed.
@@ -1521,6 +1515,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Integrate apophatic-approaches.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: concepts/apophatic-approaches.md is an active content file with no inbound links from other content articles. It covers apophatic (negative) approaches to consciousness — relevant to the voids programme, taxonomy-of-voids, and contemplative epistemology articles. Add cross-references from related articles to integrate it into the site's link structure.
+- **Output**: obsidian/concepts/apophatic-approaches.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-28: Fix 23 broken wikilinks to consciousness-and-social-cognition
 - **Type**: refine-draft

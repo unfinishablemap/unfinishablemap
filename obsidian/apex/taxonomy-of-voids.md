@@ -3,7 +3,7 @@ title: "A Taxonomy of Voids"
 created: 2026-03-10
 modified: 2026-03-10
 human_modified: null
-ai_modified: 2026-03-24T15:07:00+00:00
+ai_modified: 2026-03-28T02:43:00+00:00
 draft: false
 description: "Over sixty cognitive voids cluster at the consciousness-matter interface. Their structured taxonomy—by type, domain, and failure signature—constitutes cumulative evidence for dualism."
 last_deep_review: 2026-03-24T15:07:00+00:00
@@ -123,7 +123,7 @@ Each of the Map's five [[tenet-generated-voids|tenets predicts its characteristi
 
 The voids programme would be sterile if it merely catalogued failures. Its value lies in the methods developed for extracting information from structured breakdown.
 
-[[apophatic-cartography|Apophatic cartography]]—knowing through negation—provides the methodological backbone. Drawing on traditions from Christian *via negativa* to Buddhist *śūnyatā* to Maimonides' negative attributes, the method treats cognitive failure as data about what lies beyond. The convergence of these traditions on the same basic insight—that some subjects can only be approached through what they are *not*—is itself evidence for the method's validity.
+[[apophatic-cartography|Apophatic cartography]]—knowing through negation—provides the methodological backbone. Drawing on [[apophatic-approaches|apophatic traditions]] from Christian *via negativa* to Buddhist *śūnyatā* to Maimonides' negative attributes, the method treats cognitive failure as data about what lies beyond. The convergence of these traditions on the same basic insight—that some subjects can only be approached through what they are *not*—is itself evidence for the method's validity.
 
 The [[ai-as-void-explorer|AI as void-explorer]] framework extends the toolkit. If AI systems with different cognitive architectures share human blind spots, the limits are likely architectural. Where AI sees clearly what all human cultures miss, the limits may be adaptively maintained. Where AI produces the same failure signatures as human thought when reasoning about consciousness, cultural transmission is ruled out, strengthening the case for a structural boundary.
 
