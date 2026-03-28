@@ -5,6 +5,15 @@ ai_modified: 2026-03-28T06:12:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 07:13 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/observation-and-measurement-void]]
+- **Word count**: 2427 → 2342 (-85)
+- **Critical issues addressed**: 2 (Occam tenet self-contradiction, description length)
+- **Medium issues addressed**: 4 (dream colour attribution, Varela quote, layer overlap, prose tightening)
+- **Enhancements made**: 0 (length-neutral mode; focused on fixes)
+- **Output**: [[reviews/deep-review-2026-03-28-observation-and-measurement-void]]
+
 ## 2026-03-28 06:57 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[voids/observation-void]], [[voids/measurement-void]]
