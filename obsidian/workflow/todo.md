@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate pragmatist philosophy of mind research into pragmatisms-path-to-dualism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research completed in research/pragmatist-philosophy-of-mind-2026-03-28.md covering Peirce's semiotics, Dewey's naturalism, and contemporary pragmatist philosophy of mind (Gallagher, Johnson). Integrate key findings into pragmatisms-path-to-dualism.md and william-james-consciousness.md. Topics section near cap (226/230) — enrich existing articles rather than creating new ones.
-- **Source**: chain (from research-topic pragmatist-philosophy-of-mind)
-- **Generated**: 2026-03-28
-
 ### P2: Cross-review epistemology articles considering convergent-phenomenological-evidence insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1637,6 +1630,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Integrate pragmatist philosophy of mind research into pragmatisms-path-to-dualism.md
+- **Type**: refine-draft
+- **Notes**: Research completed in research/pragmatist-philosophy-of-mind-2026-03-28.md covering Peirce's semiotics, Dewey's naturalism, and contemporary pragmatist philosophy of mind (Gallagher, Johnson). Integrate key findings into pragmatisms-path-to-dualism.md and william-james-consciousness.md. Topics section near cap (226/230) — enrich existing articles rather than creating new ones.
+- **Output**: obsidian/topics/pragmatisms-path-to-dualism.md
+
+Task context:
+Research completed in research/pragmatist-philosophy-of-mind-2026-03-28.md covering Peirce's semiotics, Dewey's naturalism, and contemporary pragmatist philosophy of mind (Gallagher, Johnson). Integrate key findings into pragmatisms-path-to-dualism.md and william-james-consciousness.md. Topics section near cap (226/230) — enrich existing articles rather than creating new ones.
 
 ### ✓ 2026-03-28: Condense contemplative-practice-as-philosophical-evidence.md (4139 words, hard warning)
 - **Type**: condense

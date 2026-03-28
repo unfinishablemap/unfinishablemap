@@ -5,6 +5,12 @@ ai_modified: 2026-03-28T21:43:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 22:04 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/pragmatisms-path-to-dualism]]
+- **Changes**: Added Peirce's tychism section, Dewey/Rorty dissolution rebuttal, enactivist lineage, strengthened Putnam trajectory, added Tenet 2 connection
+- **Published**: yes
+
 ## 2026-03-28 21:43 UTC - condense
 - **Status**: Success
 - **File**: [[topics/contemplative-practice-as-philosophical-evidence]]
