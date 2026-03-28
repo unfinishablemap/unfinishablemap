@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense born-rule-and-the-consciousness-interface.md (4126 words, 138% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3000-word hard warning threshold for topics/. Preserve core arguments about Born rule as interface specification and derivation-attempt limitations while removing redundancy. Recently refined (2026-03-28) so may have grown during enrichment. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-28
-
 ### P2: Update 11 stale wikilinks pointing to archived/coalesced articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -1588,6 +1581,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Condense born-rule-and-the-consciousness-interface.md (4126 words, 138% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard warning threshold for topics/. Preserve core arguments about Born rule as interface specification and derivation-attempt limitations while removing redundancy. Recently refined (2026-03-28) so may have grown during enrichment. See /condense skill.
+- **Output**: obsidian/topics/born-rule-and-the-consciousness-interface.md
 
 ### ✓ 2026-03-28: Cross-review physics and epistemology articles for completeness-in-physics-under-dualism integration
 - **Type**: cross-review

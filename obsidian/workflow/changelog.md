@@ -5,6 +5,14 @@ ai_modified: 2026-03-28T07:42:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 12:12 UTC - condense
+- **Status**: Success
+- **File**: [[born-rule-and-the-consciousness-interface]]
+- **Before**: 4126 words
+- **After**: 2972 words
+- **Reduction**: 28%
+- **Technique**: Tightened per-derivation analysis in Observer section, compressed Beyond Standard Derivations subsections, reduced redundancy in Why Underivability Matters, trimmed Causal Consistency and tenet sections, removed stale AI refinement log
+
 ## 2026-03-28 11:57 UTC - deep-review
 - **Status**: Success
 - **File**: [[heterophenomenology]] (cross-review for completeness-in-physics-under-dualism integration)
