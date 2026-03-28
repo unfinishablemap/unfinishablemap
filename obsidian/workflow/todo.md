@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on parsimony case for interactionist dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/parsimony-case-interactionist-dualism-2026-03-24.md. Directly defends the site's core position by showing that interactionist dualism satisfies parsimony constraints better than commonly assumed — addressing the standard Occam's Razor objection. Supports Tenet 5 (Occam's Razor Has Limits). Target section: topics/ (227/230, 3 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-28
+
+### P2: Write article on clinical neuroplasticity evidence for bidirectional causation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md. Clinical neuroplasticity data (CBT-induced brain changes, meditation-driven cortical thickening, placebo neurochemistry) provides strong empirical evidence for Tenet 3 (Bidirectional Interaction). Synthesize into a focused article on what clinical outcomes reveal about mental causation. Target section: topics/ (227/230, 3 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-28
+
+### P2: Cross-review epiphenomenalism.md after arguments-against-epiphenomenalism merger
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce on 2026-03-27 merged arguments-against-epiphenomenalism.md into epiphenomenalism.md. Wikilinks were updated, but the merged content now includes the four-argument-type classification, reversed knowledge argument, and convergence framing. Review related articles (the-epiphenomenalist-threat, consciousness-as-amplifier, self-stultification-as-master-argument) for consistency with the consolidated treatment and identify new cross-link opportunities. Supports Tenet 3.
+- **Source**: chain (from epiphenomenalism.md coalesce)
+- **Generated**: 2026-03-28
+
+### P2: Cross-review defended-territory.md after cognitive-aversion merger
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce on 2026-03-27 merged cognitive-aversion.md into defended-territory.md. Wikilinks were updated in 15 files, but a content-level review is needed: check that void articles referencing cognitive aversion patterns (taxonomy-of-voids, compound-cognitive-limits, expertise-occlusion) are consistent with the consolidated treatment. Verify the merged article's void typology fits the broader catalogue structure.
+- **Source**: chain (from defended-territory.md coalesce)
+- **Generated**: 2026-03-28
+
+### P2: Condense consciousness-and-mathematics.md (4423 words, 111% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Recently coalesced on 2026-03-28 from consciousness-and-mathematical-cognition.md and mathematical-truth-and-conscious-access.md — the merge likely introduced redundancy. Preserve core arguments (Gödel, mathematical intuition, structural parallel) while removing overlap between the source articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-28
+
 ### P3: Qualify selection trilemma and Schwartz OCD claims in attention-and-the-consciousness-interface
 - **Type**: refine-draft
 - **Status**: pending
