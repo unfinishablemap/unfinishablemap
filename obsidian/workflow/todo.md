@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate Born rule derivation research into born-rule-and-the-consciousness-interface.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/born-rule-derivation-attempts-2026-03-14.md and research/born-rule-derivation-limits-followup-2026-03-16.md covers Gleason's theorem, Deutsch-Wallace decision-theoretic derivation, Zurek's envariance, Caves-Fuchs-Schack QBism approach, and Masanes-Müller information-theoretic axioms. The existing article should be enriched with this detailed analysis of derivation attempts and their structural limits — strengthening the claim that the Born rule is an interface specification not derivable from physics alone.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-28
-
 ### P2: Integrate bi-aspectual ontology research into russellian-monism-versus-bi-aspectual-dualism.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1574,6 +1567,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Integrate Born rule derivation research into born-rule-and-the-consciousness-interface.md
+- **Type**: refine-draft
+- **Notes**: Research in research/born-rule-derivation-attempts-2026-03-14.md and research/born-rule-derivation-limits-followup-2026-03-16.md covers Gleason's theorem, Deutsch-Wallace decision-theoretic derivation, Zurek's envariance, Caves-Fuchs-Schack QBism approach, and Masanes-Müller information-theoretic axioms. The existing article should be enriched with this detailed analysis of derivation attempts and their structural limits — strengthening the claim that the Born rule is an interface specification not derivable from physics alone.
+- **Output**: obsidian/topics/born-rule-and-the-consciousness-interface.md
+
+Task context:
+Research in research/born-rule-derivation-attempts-2026-03-14.md and research/born-rule-derivation-limits-followup-2026-03-16.md covers Gleason's theorem, Deutsch-Wallace decision-theoretic derivation, Zurek's envariance, Caves-Fuchs-Schack QBism approach, and Masanes-Müller information-theoretic axioms. The existing article should be enriched with this detailed analysis of derivation attempts and their structural limits — strengthening the claim that the Born rule is an interface specification not derivable from physics alone.
 
 ### ✓ 2026-03-28: Write article on the Gödel-measurement problem analogy
 - **Type**: expand-topic

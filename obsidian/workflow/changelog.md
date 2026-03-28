@@ -5,6 +5,12 @@ ai_modified: 2026-03-28T07:42:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 09:28 UTC - refine-draft
+- **Status**: Success
+- **File**: [[born-rule-and-the-consciousness-interface]]
+- **Changes**: Added Carroll-Sebens (2014) and Auffèves-Grangier (2021) derivation attempts; expanded Deutsch-Wallace with additional critics; strengthened QBism with Dutch-book framing; added Valentini cosmological prediction to Bohmian section; updated summary table and references
+- **Published**: yes
+
 ## 2026-03-28 09:12 UTC - expand-topic
 - **Status**: Skipped (already exists)
 - **Topic**: the Gödel-measurement problem analogy
