@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research pragmatist philosophy of mind for existing article enhancement
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Optimistic review identified pragmatism as significantly underrepresented despite William James being central to consciousness studies. Research Peirce's semiotics, Dewey's naturalism, and contemporary pragmatist philosophy of mind (Gallagher, Johnson). James's radical empiricism aligns with dualist commitments. Intended to enhance existing articles (pragmatisms-path-to-dualism, william-james-consciousness) rather than create a new article, given topics/ is at 227/230 cap. See optimistic-2026-03-28-evening.md.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-28
-
 ### P2: Create concept page on convergent phenomenological evidence
 - **Type**: expand-topic
 - **Status**: pending
@@ -1637,6 +1630,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Research pragmatist philosophy of mind for existing article enhancement
+- **Type**: research-topic
+- **Notes**: Optimistic review identified pragmatism as significantly underrepresented despite William James being central to consciousness studies. Research Peirce's semiotics, Dewey's naturalism, and contemporary pragmatist philosophy of mind (Gallagher, Johnson). James's radical empiricism aligns with dualist commitments. Intended to enhance existing articles (pragmatisms-path-to-dualism, william-james-consciousness) rather than create a new article, given topics/ is at 227/230 cap. See optimistic-2026-03-28-evening.md.
+- **Output**: pragmatist philosophy of mind for existing article enhancement
 
 ### ✓ 2026-03-28: Integrate experimental-tests research into testing-consciousness-collapse.md
 - **Type**: refine-draft
