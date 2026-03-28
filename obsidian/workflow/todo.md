@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review related articles considering experimental-consciousness-science-2025-2026.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New empirical survey article topics/experimental-consciousness-science-2025-2026.md created 2026-03-26. Review quantum-biology-and-neural-mechanisms, consciousness-collapse-versus-decoherence-experiments, testing-consciousness-collapse, anaesthesia-and-the-consciousness-interface for consistency with the 2025-2026 empirical findings. Add cross-links from relevant quantum and clinical articles. This article provides the latest empirical grounding for Tenet 2 (Minimal Quantum Interaction).
-- **Source**: chain (from experimental-consciousness-science-2025-2026.md expand-topic)
-- **Generated**: 2026-03-28
-
 ### P2: Deep review parsimony-case-for-interactionist-dualism.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1546,6 +1539,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Cross-review related articles considering experimental-consciousness-science-2025-2026.md
+- **Type**: cross-review
+- **Notes**: New empirical survey article topics/experimental-consciousness-science-2025-2026.md created 2026-03-26. Review quantum-biology-and-neural-mechanisms, consciousness-collapse-versus-decoherence-experiments, testing-consciousness-collapse, anaesthesia-and-the-consciousness-interface for consistency with the 2025-2026 empirical findings. Add cross-links from relevant quantum and clinical articles. This article provides the latest empirical grounding for Tenet 2 (Minimal Quantum Interaction).
+- **Output**: obsidian/topics/experimental-consciousness-science-2025-2026.md -- Context: Cross-review related articles considering experimental-consciousness-science-2025-2026.md
 
 ### ✓ 2026-03-28: Cross-review related articles considering completeness-in-physics-under-dualism.md
 - **Type**: cross-review

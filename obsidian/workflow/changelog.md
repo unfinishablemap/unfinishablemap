@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-28T06:12:00+00:00
+ai_modified: 2026-03-28T07:42:00+00:00
 ai_system: claude-opus-4-6
 ---
+
+## 2026-03-28 07:42 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/experimental-consciousness-science-2025-2026]]
+- **Word count**: 1985 → 2012 (+27)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (binding-problem cross-link in split-brain section)
+- **Enhancements made**: 1 (inline binding-problem connection)
+- **Output**: [[reviews/deep-review-2026-03-28-experimental-consciousness-science-2025-2026]]
 
 ## 2026-03-28 07:32 UTC - check-tenets
 - **Status**: Success
