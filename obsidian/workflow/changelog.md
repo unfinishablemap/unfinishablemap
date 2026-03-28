@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-28T07:42:00+00:00
+ai_modified: 2026-03-28T21:43:00+00:00
 ai_system: claude-opus-4-6
 ---
+
+## 2026-03-28 21:43 UTC - condense
+- **Status**: Success
+- **File**: [[topics/contemplative-practice-as-philosophical-evidence]]
+- **Before**: 4137 words
+- **After**: 2964 words
+- **Reduction**: 28%
+- **Technique**: Tightened prose throughout, consolidated redundant methodology exposition, compressed five-findings examples, trimmed Further Reading from 24 to 13 entries (removed self-references and duplicates). Preserved all core arguments, cross-links, and tenet alignment.
 
 ## 2026-03-28 21:26 UTC - deep-review
 - **Status**: Success

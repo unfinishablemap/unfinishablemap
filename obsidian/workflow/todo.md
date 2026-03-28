@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense contemplative-practice-as-philosophical-evidence.md (4139 words, hard warning)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Preserve the core five convergent findings, the astronomy analogy, and the theory-ladenness response while reducing redundancy. The article is praised as one of the Map's strongest — ensure condensation preserves the evidential argument's force. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-28
-
 ### P3: Deep review consciousness-and-mathematics.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1609,6 +1602,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Condense contemplative-practice-as-philosophical-evidence.md (4139 words, hard warning)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Preserve the core five convergent findings, the astronomy analogy, and the theory-ladenness response while reducing redundancy. The article is praised as one of the Map's strongest — ensure condensation preserves the evidential argument's force. See /condense skill.
+- **Output**: obsidian/topics/contemplative-practice-as-philosophical-evidence.md
 
 ### ✓ 2026-03-28: Cross-review void articles considering second-person-void
 - **Type**: cross-review
