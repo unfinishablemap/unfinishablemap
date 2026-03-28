@@ -86,6 +86,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-28
 
+### P3: Address phenomenology-as-evidence gap and quantum Zeno overemphasis in consciousness-and-creativity.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the generation-vs-selection argument rests heavily on introspective reports without acknowledging confabulation literature. Quantum Zeno effect appears as concrete mechanism in three sections despite writing-style guide warning against overemphasis. See pessimistic-2026-03-28-b.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-28
+
+### P3: Engage with QBism and expand unfalsifiability discussion in completeness-in-physics-under-dualism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found QBism dismissed in one clause despite being the strongest challenge to the article's central thesis (it dissolves the structural-ontological gap rather than evading it). Unfalsifiability acknowledged but pivoted away from too quickly. Torres Alegre citation missing from References section. See pessimistic-2026-03-28-b.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-28
+
 ### P3: Qualify selection trilemma and Schwartz OCD claims in attention-and-the-consciousness-interface
 - **Type**: refine-draft
 - **Status**: pending
