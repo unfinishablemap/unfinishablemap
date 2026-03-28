@@ -5,6 +5,14 @@ ai_modified: 2026-03-28T07:42:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 17:04 UTC - condense
+- **Status**: Success
+- **File**: [[illusionism]]
+- **Before**: 4006 words
+- **After**: 1722 words
+- **Reduction**: 57%
+- **Technique**: Cut tangential sections (Mysterian Alternative, Process Philosophy, Current State of Debate), compressed qualia taxonomy, trimmed AST detail (deferred to linked article), removed Kammerer subsection detail, tightened epiphenomenalism convergence, pruned Further Reading to essentials
+
 ## 2026-03-28 16:48 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/anaesthesia-and-the-consciousness-interface]]

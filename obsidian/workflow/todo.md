@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense illusionism.md (4006 words, 160% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3500-word hard warning threshold for concepts/. Preserve core arguments against illusionism while removing redundancy. Recent research on Frankish's functional-seeming response (research/illusionism-functional-seeming-2026-03-28.md) may inform which sections to tighten vs. preserve.
-- **Source**: length_analysis
-- **Generated**: 2026-03-28
-
 ### P3: Deep review consciousness-and-mathematics.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1609,6 +1602,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Condense illusionism.md (4006 words, 160% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard warning threshold for concepts/. Preserve core arguments against illusionism while removing redundancy. Recent research on Frankish's functional-seeming response (research/illusionism-functional-seeming-2026-03-28.md) may inform which sections to tighten vs. preserve.
+- **Output**: obsidian/concepts/illusionism.md
 
 ### ✓ 2026-03-28: Integrate anaesthetic recovery research into coalesced article
 - **Type**: refine-draft
