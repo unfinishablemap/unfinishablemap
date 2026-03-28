@@ -4,7 +4,7 @@ description: "Interactionist dualism may be simpler than physicalism once all ex
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-03-28T07:58:00+00:00
+ai_modified: 2026-03-28T16:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-24
 last_curated:
-last_deep_review: 2026-03-28T07:58:00+00:00
+last_deep_review: 2026-03-28T16:03:00+00:00
 ---
 
 The Unfinishable Map's existing articles on [[parsimony-epistemology]] and the [[parsimony-epistemology|limits of parsimony]] make the defensive case: Occam's Razor cannot adjudicate the mind-body problem because its preconditions fail. This article makes the stronger, positive claim. When all explanatory costs are tallied — not just substance count but theoretical proliferation, brute facts, and accommodation of the data — [[interactionist-dualism]] emerges as the more parsimonious position. Physicalism's apparent simplicity is a bookkeeping trick: it hides enormous debts off the balance sheet.
@@ -54,7 +54,7 @@ Most tellingly, parsimony's own advocates have abandoned or qualified the argume
 
 ### The Proliferation Problem
 
-If physicalism were a natural fit for consciousness, one would expect convergence on a solution. The opposite has occurred. Physicalists have generated [[functionalism]], higher-order thought theory, higher-order perception theory, [[global-workspace-theory]], illusionism, eliminativism, and multiple versions of identity theory — each adding distinct theoretical machinery to bridge the [[explanatory-gap]]. The theories are not refinements of a single approach; they are structurally incompatible responses to the same problem.
+If physicalism were a natural fit for consciousness, one would expect convergence on a solution. The opposite has occurred. Physicalists have generated [[functionalism]], [[higher-order-theories|higher-order thought theory]], [[higher-order-theories|higher-order perception theory]], [[global-workspace-theory]], [[illusionism]], eliminativism, and multiple versions of identity theory — each adding distinct theoretical machinery to bridge the [[explanatory-gap]]. The theories are not refinements of a single approach; they are structurally incompatible responses to the same problem.
 
 A physicalist might respond that proliferation is a sign of healthy scientific exploration, not strain. But the analogy fails. In healthy research programmes, competing theories converge as evidence accumulates — rival models of stellar nucleosynthesis, for instance, progressively unified. The physicalist theories of consciousness are not converging. After decades, they remain structurally incompatible, and the [[hard-problem-of-consciousness|hard problem]] remains exactly as Chalmers formulated it. This pattern — persistent fragmentation despite sustained effort — is the signature of a constraint that does not fit the phenomenon.
 

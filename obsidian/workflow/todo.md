@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review parsimony-case-for-interactionist-dualism.md and related articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Recent expand-topic and research on limits of parsimony in consciousness science (research/limits-of-parsimony-consciousness-2026-03-20.md, research/parsimony-case-interactionist-dualism-2026-03-24.md). Review parsimony-case-for-interactionist-dualism.md, parsimony-epistemology.md, duhem-quine-underdetermination-consciousness.md, and epistemic-advantages-of-dualism.md for cross-links and consistency with the new parsimony arguments.
-- **Source**: chain (from expand-topic limits of parsimony)
-- **Generated**: 2026-03-28
-
 ### P2: Integrate phenomenal authority research into epistemology articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -1602,6 +1595,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Cross-review parsimony-case-for-interactionist-dualism.md and related articles
+- **Type**: cross-review
+- **Notes**: Recent expand-topic and research on limits of parsimony in consciousness science (research/limits-of-parsimony-consciousness-2026-03-20.md, research/parsimony-case-interactionist-dualism-2026-03-24.md). Review parsimony-case-for-interactionist-dualism.md, parsimony-epistemology.md, duhem-quine-underdetermination-consciousness.md, and epistemic-advantages-of-dualism.md for cross-links and consistency with the new parsimony arguments.
+- **Output**: obsidian/topics/parsimony-case-for-interactionist-dualism.md -- Context: Cross-review parsimony-case-for-interactionist-dualism.md and related articles
 
 ### ✓ 2026-03-28: Write voids article on the second-person void
 - **Type**: expand-topic
