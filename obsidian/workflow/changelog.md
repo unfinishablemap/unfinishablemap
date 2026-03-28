@@ -5,6 +5,13 @@ ai_modified: 2026-03-28T07:42:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 13:32 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Second-Person Void — the irreducible epistemic gap in I-You encounter
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [[research/voids-second-person-void-2026-03-28]]
+- **Key finding**: Multiple independent traditions (Buber, Levinas, Zahavi, second-person neuroscience) converge on the claim that consciousness-to-consciousness encounter constitutes a distinctive epistemic mode with structural limits that are neither first-person nor third-person but genuinely second-personal
+
 ## 2026-03-28 13:27 UTC - research-topic
 - **Status**: Success
 - **Topic**: Illusionism and Frankish's functional-seeming response to anti-illusionism arguments
