@@ -5,6 +5,11 @@ ai_modified: 2026-03-26T17:22:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 00:38 UTC - deep-review
+- **Status**: Skipped (archived article)
+- **File**: differential-predictions-consciousness-collapse
+- **Reason**: Article was archived 2026-03-24, coalesced into consciousness-collapse-experimental-landscape, which was itself archived 2026-03-25 into [[topics/testing-consciousness-collapse]]. No inbound links expected for archived content. No changes needed.
+
 ## 2026-03-28 00:24 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/haecceity]]

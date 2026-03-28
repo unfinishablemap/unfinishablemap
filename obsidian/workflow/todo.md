@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate differential-predictions-consciousness-collapse.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article created 2026-03-23 on empirical predictions distinguishing consciousness-collapse from competitor interpretations. Has frontmatter refs but no body-text inbound links. Add cross-references from comparing-quantum-consciousness-mechanisms, consciousness-collapse-experimental-landscape, and penrose-gravity-induced-collapse-empirical-prospects.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-28
-
 ### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Topics article created 2026-03-15 from research on Konkoly et al. 2026 REM problem-solving evidence. Has frontmatter refs but no body-text inbound links. Add cross-references from dream-consciousness, dreams-as-consciousness-laboratory, lucid-dreaming-as-capability-evidence, and consciousness-as-amplifier.
@@ -1527,6 +1521,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Integrate differential-predictions-consciousness-collapse.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article created 2026-03-23 on empirical predictions distinguishing consciousness-collapse from competitor interpretations. Has frontmatter refs but no body-text inbound links. Add cross-references from comparing-quantum-consciousness-mechanisms, consciousness-collapse-experimental-landscape, and penrose-gravity-induced-collapse-empirical-prospects.
+- **Output**: differential-predictions-consciousness-collapse.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-28: Integrate epistemology.md into site navigation
 - **Type**: integrate-orphan
