@@ -4,7 +4,7 @@ description: "The quantum-classical boundary keeps receding. Hot cat states, nan
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-03-18T23:52:00+00:00
+ai_modified: 2026-03-28T10:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-27
 last_curated:
-last_deep_review: 2026-03-06T10:25:00+00:00
+last_deep_review: 2026-03-28T10:42:00+00:00
 ---
 
 Where does quantum become classical? Schrödinger's cat was meant as *reductio ad absurdum*—surely macroscopic objects cannot exist in superposition. Yet experiments keep pushing the boundary further than intuition suggests. Hot Schrödinger cat states at 1.8 kelvin, matter-wave interference in 7,000-atom nanoparticles, and quantum coherence in photosynthetic complexes all demonstrate that the warm-macro-therefore-classical assumption is empirically false. The quantum-classical boundary is not a sharp line but a fuzzy frontier we keep redrawing.
@@ -107,6 +107,8 @@ The Unfinishable Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Int
 
 This distinction matters because it insulates the core position from empirical findings about decoherence timescales. Even if Tegmark's rapid-decoherence calculations are correct, consciousness could still act at the point of collapse rather than through coherent superposition.
 
+Independently of the quantum boundary question, [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity research]] provides empirical evidence that mental causation *occurs*. Jeffrey Schwartz's OCD patients achieve normalisation of caudate nucleus hyperactivity through purely cognitive intervention—conscious decisions with propositional content producing measurable neural changes through causal routes distinct from pharmacological treatment. Schwartz, Stapp, and Beauregard (2005) explicitly connect this self-directed neuroplasticity to the quantum Zeno mechanism discussed here. The receding quantum-classical boundary thus matters not just for the *possibility* of mental causation but for identifying the *mechanism*: clinical evidence establishes that consciousness reshapes the brain; the boundary question concerns how far quantum processes might implement that reshaping.
+
 The demonstrations that quantum effects can operate in warm biological systems (magnetoreception) and that macroscopic quantum superposition can be achieved at elevated temperatures (hot cat states) both support the physical plausibility of quantum-consciousness interface. Neither proves it exists in the brain, but neither allows the categorical dismissal that the decoherence objection once seemed to provide. These biological examples show that evolution *can* harness quantum effects for function—though whether magnetoreception generalises to consciousness remains an open question with disanalogies (specialized proteins vs. general neural tissue).
 
 ## The Deeper Issue: Basis vs. Outcome
@@ -144,6 +146,8 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] ga
 - [[consciousness-in-smeared-quantum-states]] — What consciousness does during quantum superposition
 - [[spontaneous-collapse-theories]] — Physical mechanisms for objective collapse (GRW, Penrose)
 - [[penrose-gravity-induced-collapse-empirical-prospects]] — Experimental tests of gravity-induced collapse, including nanoparticle interferometry and the MAQRO space mission
+- [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] — Clinical evidence that mental causation occurs, including the Schwartz-Stapp-Beauregard quantum Zeno framework
+- [[mental-causation]] — The philosophical problem and the Map's quantum resolution
 - [[topics/free-will]] — How quantum indeterminacy relates to agent causation
 - [[tenets]] — The Map's foundational commitments
 
@@ -158,4 +162,5 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] ga
 1. Stanford Encyclopedia of Philosophy. The Role of Decoherence in Quantum Mechanics.
 1. Yang, I. et al. (2025). Hot Schrödinger cat states. *Science Advances*, 11, eadr4492.
 1. Nanoparticle matter-wave interference. (2025). arXiv:2507.21211.
+1. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 1. Xu, J. et al. (2026). Computational support for cryptochrome-based magnetoreception. *Journal of the American Chemical Society*.

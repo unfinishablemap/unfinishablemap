@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review mental causation articles considering clinical neuroplasticity evidence
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md created 2026-03-28. Review downward-causation.md, mental-causation.md, and placebo-nocebo-and-the-consciousness-interface.md for cross-links to the new clinical evidence, reinforcing arguments, or terminology consistency. The neuroplasticity evidence may strengthen existing causal efficacy arguments.
-- **Source**: chain (from clinical-neuroplasticity-evidence-for-bidirectional-causation.md)
-- **Generated**: 2026-03-28
-
 ### P2: Cross-review simplicity and parsimony articles considering new parsimony case
 - **Type**: cross-review
 - **Status**: pending
@@ -1574,6 +1567,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Cross-review mental causation articles considering clinical neuroplasticity evidence
+- **Type**: cross-review
+- **Notes**: New article topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md created 2026-03-28. Review downward-causation.md, mental-causation.md, and placebo-nocebo-and-the-consciousness-interface.md for cross-links to the new clinical evidence, reinforcing arguments, or terminology consistency. The neuroplasticity evidence may strengthen existing causal efficacy arguments.
+- **Output**: None -- Context: Cross-review mental causation articles considering clinical neuroplasticity evidence
 
 ### ✓ 2026-03-28: Strengthen cross-links for minimally-connected files
 - **Type**: integrate-orphan
