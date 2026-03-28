@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research illusionism and Frankish's functional-seeming response to anti-illusionism arguments
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Pessimistic review (pessimistic-2026-03-20-c.md) found all three quantum mechanism articles use the same regress argument against illusionism without engaging Frankish's functional-seeming response. Research targets: (1) Frankish's "Illusionism as a Theory of Consciousness" (2016) and subsequent work; (2) the strong vs weak illusionism distinction; (3) Frankish's specific response to the "illusion requires consciousness" regress; (4) Dennett's quining qualia and the quasi-realism parallel; (5) how the Map's position differs from simply dismissing illusionism. This research supports existing P3 refine-draft task for quantum mechanism articles. Target section for potential article: concepts/ (4 slots remaining).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-28
-
 ### P3: Deep review consciousness-and-mathematics.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1567,6 +1560,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Research illusionism and Frankish's functional-seeming response to anti-illusionism arguments
+- **Type**: research-topic
+- **Notes**: Pessimistic review (pessimistic-2026-03-20-c.md) found all three quantum mechanism articles use the same regress argument against illusionism without engaging Frankish's functional-seeming response. Research targets: (1) Frankish's "Illusionism as a Theory of Consciousness" (2016) and subsequent work; (2) the strong vs weak illusionism distinction; (3) Frankish's specific response to the "illusion requires consciousness" regress; (4) Dennett's quining qualia and the quasi-realism parallel; (5) how the Map's position differs from simply dismissing illusionism. This research supports existing P3 refine-draft task for quantum mechanism articles. Target section for potential article: concepts/ (4 slots remaining).
+- **Output**: illusionism and Frankish's functional-seeming response to anti-illusionism arguments
 
 ### ✓ 2026-03-28: Update references to coalesced memory-as-dual-domain-capability article
 - **Type**: cross-review

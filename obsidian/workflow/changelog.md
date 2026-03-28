@@ -5,6 +5,12 @@ ai_modified: 2026-03-28T07:42:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 13:27 UTC - research-topic
+- **Status**: Success
+- **Topic**: Illusionism and Frankish's functional-seeming response to anti-illusionism arguments
+- **Output**: [[research/illusionism-functional-seeming-2026-03-28]]
+- **Sources consulted**: 10
+
 ## 2026-03-28 13:13 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/ethics-of-consciousness]]
