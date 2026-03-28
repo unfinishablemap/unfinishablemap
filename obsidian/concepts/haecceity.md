@@ -4,7 +4,7 @@ description: "The quality of being this particular conscious subject. Pattern-ba
 created: 2026-01-16
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-03-28T00:24:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-03-04T23:02:00+00:00
+last_deep_review: 2026-03-28T00:24:00+00:00
 ---
 
 Haecceity (from Latin *haec*, "this") is the quality of being *this* particular thing rather than another qualitatively identical thing. For consciousness, haecceity grounds the difference between being *you* and being someone with your exact properties—a distinction pattern-based theories cannot capture. This concept is central to The Unfinishable Map's rejection of [[concepts/many-worlds|many-worlds interpretation]], its treatment of [[personal-identity]], and its response to the [[pairing-problem]].
@@ -214,7 +214,7 @@ The Map doesn't explicitly endorse "haecceitism" by name. But its commitments im
 
 The haecceity concept makes explicit what the Map presupposes. Personal identity is not pattern identity. *You* are not interchangeable with a qualitative duplicate. Being this conscious subject is a primitive fact—your haecceity.
 
-## Relation to Site Tenets
+## Relation to Site Perspective
 
 **[[tenets#^dualism|Dualism]]**: If consciousness is irreducible, haecceity provides the individuating principle. Physical facts don't fix which subject exists; haecceity does.
 

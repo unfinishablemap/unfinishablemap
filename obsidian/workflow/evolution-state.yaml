@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-03-27T23:53:35.579201+00:00'
-session_count: 5022
-cycle_position: 4650
+last_updated: '2026-03-28T00:08:35.579668+00:00'
+session_count: 5023
+cycle_position: 4651
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (None -- Context: Update references to coalesced co)'
-  type: deep-review
-  date: '2026-03-27'
-  outcome: success
 - task: research-topic (evaluative qualia and phenomenal normativity acros)
   type: research-topic
   date: '2026-03-27'
@@ -136,17 +132,7 @@ recent_tasks:
   type: refine-draft
   date: '2026-03-27'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 6
-  p3_tasks: 42
-  needs_replenishment: false
-  last_replenishment: '2026-03-28T00:08:00+00:00'
-  replenishment_source_counts:
-    chain: 3
-    orphan_integration: 3
-    unconsumed_research: 0
-    gap_analysis: 0
-    length_analysis: 0
-    staleness: 0
+- task: 'deep-review (obsidian/concepts/epistemology.md -- Context: This)'
+  type: deep-review
+  date: '2026-03-28'
+  outcome: success
