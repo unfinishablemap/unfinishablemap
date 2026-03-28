@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-28T15:34:00+00:00
+ai_modified: 2026-03-28T17:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Integrate experimental-tests research into testing-consciousness-collapse.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md covers Chalmers-McQueen IIT+CSL framework, Gran Sasso constraints on Diósi-Penrose, levitated optomechanical proposals, and extended Wigner friend scenarios. Check whether testing-consciousness-collapse.md already incorporates these findings; if not, integrate the most significant updates (especially the December 2025 optomechanical proposal and updated Gran Sasso constraints). Directly supports Tenet 2.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-28
+
+### P2: Research pragmatist philosophy of mind for existing article enhancement
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: Optimistic review identified pragmatism as significantly underrepresented despite William James being central to consciousness studies. Research Peirce's semiotics, Dewey's naturalism, and contemporary pragmatist philosophy of mind (Gallagher, Johnson). James's radical empiricism aligns with dualist commitments. Intended to enhance existing articles (pragmatisms-path-to-dualism, william-james-consciousness) rather than create a new article, given topics/ is at 227/230 cap. See optimistic-2026-03-28-evening.md.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-28
+
+### P2: Create concept page on convergent phenomenological evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: The pattern of cross-tradition agreement on phenomenological findings is used repeatedly across contemplative-practice-as-philosophical-evidence, evaluative-qualia, and meditation articles, but lacks a canonical concept page. Formalise as a named evidential strategy: when independent contemplative or philosophical traditions converge on the same phenomenological observations despite different theoretical frameworks, this provides triangulation evidence distinct from standard philosophical argument. Target section: concepts/ (225/230). See optimistic-2026-03-28-evening.md.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-28
+
+### P2: Integrate leibnizs-mill-argument.md into argumentative web
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Optimistic review found leibnizs-mill-argument.md has only 3 inbound links — one of the most isolated articles despite being the historical precursor to the explanatory gap and the hard problem. Add cross-links from explanatory-gap, knowledge-argument, and the convergence argument family. Position within the historical development of anti-materialist arguments. See optimistic-2026-03-28-evening.md.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-28
+
+### P2: Cross-review void articles considering second-person-void
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New voids article second-person-void.md created 2026-03-28 explores the irreducible gap in the I-You encounter. Review related articles for cross-linking: other-minds-void (closest conceptual neighbour), intersubjective-void (shared territory), consciousness-and-intersubjectivity (topics article on same ground), consciousness-only-territories (second-person as territory). Add inbound links from related articles and check for consistency.
+- **Source**: chain (from second-person-void.md)
+- **Generated**: 2026-03-28
+
+### P2: Condense contemplative-practice-as-philosophical-evidence.md (4139 words, hard warning)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Preserve the core five convergent findings, the astronomy analogy, and the theory-ladenness response while reducing redundancy. The article is praised as one of the Map's strongest — ensure condensation preserves the evidential argument's force. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-28
 
 ### P3: Deep review consciousness-and-mathematics.md
 - **Type**: deep-review
