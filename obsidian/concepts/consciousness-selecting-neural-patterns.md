@@ -4,7 +4,7 @@ description: "Consciousness selects which quantum possibilities become actual ne
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-03-28T12:42:00+00:00
+ai_modified: 2026-03-28T22:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,12 +38,12 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-03-05T19:10:00+00:00
+last_deep_review: 2026-03-28T22:12:00+00:00
 ---
 
 Consciousness-selecting neural patterns is the proposed mechanism by which consciousness influences physical brain activity. Rather than consciousness passively observing neural events or being epiphenomenal, this framework proposes that consciousness selects which quantum possibilities become actual neural firing patterns. This implements The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] and [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenets concretely.
 
-The core claim: when neural systems exist in quantum superposition—multiple possible firing patterns coexisting—consciousness determines which pattern actualizes. This selection occurs at the quantum level, where physics leaves outcomes genuinely undetermined. On this view, consciousness completes what physics leaves undetermined—selecting among outcomes where physical law specifies probabilities but not which possibility becomes actual.
+The core claim: when neural systems exist in quantum superposition—multiple possible firing patterns coexisting—consciousness determines which pattern actualizes. On this view, consciousness completes what physics leaves undetermined—selecting among outcomes where physical law specifies probabilities but not which possibility becomes actual.
 
 ## The Mechanism
 
@@ -210,7 +210,7 @@ The framework would face serious difficulty if:
 
 A tension must be stated honestly. The framework claims consciousness selects among quantum outcomes *within* [[born-rule-and-the-consciousness-interface|Born rule]] probabilities—meaning selection produces no statistical deviation from standard quantum predictions. If so, no quantum experiment can detect selection, and the mechanism is empirically invisible at the quantum level.
 
-This does not make the framework unfalsifiable, but it relocates falsifiability. The quantum-level mechanism is a philosophical proposal compatible with physics, not a testable prediction *of* physics. Falsifiability comes instead from the framework's other commitments: that neural quantum effects exist on relevant timescales (testable), that attention correlates with specific neural-quantum processes (testable in principle), and that the phenomenology of selection is genuine rather than illusory (constrainable by contemplative and neuroscientific evidence). The strongest candidate for direct testability is the Chalmers-McQueen framework, which predicts that collapse rates depend on integrated information—a prediction that quantum computer experiments could in principle probe.
+This does not make the framework unfalsifiable, but it relocates falsifiability. The quantum-level mechanism is a philosophical proposal compatible with physics, not a testable prediction *of* physics. Falsifiability comes instead from the framework's other commitments: that neural quantum effects exist on relevant timescales (testable), that attention correlates with specific neural-quantum processes (testable in principle), and that the phenomenology of selection is genuine rather than illusory (constrainable by contemplative and neuroscientific evidence). See [[testing-consciousness-collapse]] for experimental prospects. The strongest candidate for direct testability is the Chalmers-McQueen framework, which predicts that collapse rates depend on integrated information—a prediction that quantum computer experiments could in principle probe.
 
 The Map should not claim that selection within Born probabilities constitutes a testable physical hypothesis. It is a metaphysical interpretation of quantum indeterminacy that becomes attractive if independent philosophical arguments for mental causation are found persuasive.
 
@@ -226,6 +226,7 @@ The Map should not claim that selection within Born probabilities constitutes a 
 - [[epiphenomenalism]] — The denial of mental causation that selection rejects
 - [[quantum-biology-and-neural-mechanisms|quantum biology]] — Empirical evidence for quantum effects in biological systems
 - [[time-symmetric-selection-mechanism]] — Atemporal selection via transactional interpretation
+- [[empirical-evidence-for-consciousness-selecting]] — Convergent evidence lines for the selection framework
 - [[interactionist-dualism]] — The philosophical framework selection implements
 
 ## References
