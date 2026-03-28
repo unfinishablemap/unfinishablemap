@@ -5,6 +5,13 @@ ai_modified: 2026-03-28T07:42:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 11:43 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[memory-as-dual-domain-capability]]
+- **Target**: [[episodic-memory]]
+- **Archived**: [[archive/concepts/memory-as-dual-domain-capability]]
+- **References to review**: 8 (sleep-and-consciousness, smoothness-problem, capability-division-problem, lucid-dreaming-and-dualist-rendering, dual-domain-capabilities-in-proprioception-and-spatial-imagination, consciousness-and-memory, three-dimensional-world-representation-problem, dream-consciousness)
+
 ## 2026-03-28 11:27 UTC - deep-review
 - **Status**: Success
 - **File**: [[qbism]] (cross-review for experimental-consciousness-science-2025-2026 integration)

@@ -58,6 +58,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-28
 
+### P2: Update references to coalesced memory-as-dual-domain-capability article
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce merged memory-as-dual-domain-capability into episodic-memory. The following 8 files reference the archived article and need wikilinks updated to point to episodic-memory (with appropriate anchor or display text): sleep-and-consciousness, smoothness-problem, capability-division-problem, lucid-dreaming-and-dualist-rendering, dual-domain-capabilities-in-proprioception-and-spatial-imagination, consciousness-and-memory, three-dimensional-world-representation-problem, dream-consciousness.
+- **Source**: coalesce
+- **Generated**: 2026-03-28
+
 ### P2: Research illusionism and Frankish's functional-seeming response to anti-illusionism arguments
 - **Type**: research-topic
 - **Status**: pending

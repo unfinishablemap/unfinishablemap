@@ -1,10 +1,10 @@
 ---
 title: "Episodic Memory and Autonoetic Consciousness"
-description: "Episodic memory is constructive re-experiencing, not data retrieval. Autonoetic consciousness reveals irreducible phenomenology at the heart of remembering."
+description: "Episodic memory is constructive re-experiencing, not data retrieval. Memory operates as a dual-domain capability where physical traces carry information while consciousness contributes autonoesis, selectional guidance, and phenomenal colouring."
 created: 2026-01-17
-modified: 2026-02-15
+modified: 2026-03-28
 human_modified: null
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-03-28T11:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,6 +36,8 @@ concepts:
   - "[[qualia]]"
   - "[[metacognition]]"
   - "[[phenomenology-of-choice-and-volition]]"
+  - "[[interactionist-dualism]]"
+  - "[[explanatory-gap]]"
 related_articles:
   - "[[tenets]]"
   - "[[temporal-void]]"
@@ -43,7 +45,8 @@ related_articles:
   - "[[inaccessible-past]]"
   - "[[phenomenology-of-memory-and-the-self]]"
   - "[[capability-division-problem]]"
-  - "[[memory-as-dual-domain-capability]]"
+  - "[[smoothness-problem]]"
+  - "[[bergson-and-duration]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -53,6 +56,7 @@ last_deep_review: 2026-03-11T22:42:00+00:00
 coalesced_from:
   - "/concepts/autonoetic-consciousness/"
   - "/concepts/constructive-memory/"
+  - "/concepts/memory-as-dual-domain-capability/"
 ---
 
 Episodic memory stores experienced events—your first day at school, yesterday's breakfast, the moment you learned terrible news. Unlike [[semantic-memory|semantic memory]] (knowing facts) or [[implicit-memory|implicit memory]] (skills and habits), episodic memory is autobiographical: it records what happened *to you*, *when*, and *where*. When you retrieve an episodic memory, you don't merely access information—you *re-experience* the event, re-inhabiting it with first-person phenomenology. Endel Tulving called this distinctive form of awareness *autonoetic consciousness*: the self-knowing capacity that enables mental time travel.
@@ -137,7 +141,25 @@ Clinical dissociations support the distinction: amnesic patients may retain know
 
 Constructive memory sharpens the [[hard-problem-of-consciousness|hard problem]] in a distinctive way. If memories were stored recordings played back during retrieval, one could imagine that the phenomenal character of remembering inheres in the stored representation. But if memories are constructed anew at each retrieval, then the phenomenal experience—the autonoetic sense of re-living, the pastness quale, the felt ownership—is generated fresh each time.
 
-Why should construction generate experience? The neural operations involved—pattern completion, schema-driven inference, binding of disparate elements—could in principle proceed without any accompanying phenomenology. The noetic access to the same information demonstrates this: you can know that you graduated in 2015 without any re-experiencing. The information is accessed; the phenomenal character is absent. If the same content can appear with or without experiential accompaniment, then the experience is not an inevitable consequence of the content. The Map's [[memory-as-dual-domain-capability|dual-domain capability]] framework locates this gap precisely: physical traces carry the *that* of what happened; consciousness contributes the *what it was like*.
+Why should construction generate experience? The neural operations involved—pattern completion, schema-driven inference, binding of disparate elements—could in principle proceed without any accompanying phenomenology. The noetic access to the same information demonstrates this: you can know that you graduated in 2015 without any re-experiencing. The information is accessed; the phenomenal character is absent. If the same content can appear with or without experiential accompaniment, then the experience is not an inevitable consequence of the content. The [dual-domain capability](#memory-as-dual-domain-capability) framework locates this gap precisely: physical traces carry the *that* of what happened; consciousness contributes the *what it was like*.
+
+## Memory as Dual-Domain Capability
+
+Memory appears to be a single capacity, but it straddles two domains. Physical traces—synaptic patterns, engram cells, reconsolidation mechanisms—provide the substrate for encoding and storage. Yet the phenomenal character of recall, the selectional guidance during retrieval, and the autonoetic sense of re-experiencing cannot be located in those traces. The Unfinishable Map argues that memory is a **dual-domain capability**: a cognitive function whose full operation requires contributions from both the physical brain and non-physical consciousness. This framework extends the Map's [[capability-division-problem|capability division problem]] to one of cognition's most fundamental operations.
+
+Three features of memory resist explanation in terms of engrams alone. **Autonoesis**—described [above](#tulvings-framework)—is the phenomenal dimension that distinguishes remembering from merely knowing. Physical traces carry propositional content—the *that* of what happened. Whether they also carry the *what it was like* is precisely where the [[explanatory-gap]] opens. **Selectional guidance** during retrieval poses a related problem. Reconsolidation research shows that recall is goal-directed: "a goal-directed activity guided by the need for consonance, alignment, and internal stability" (Kube et al., 2025). Prefrontal activity can implement a selection once a goal is set, but the *setting* of the goal—why this reconstruction serves the subject's present concerns rather than that one—requires an account of purposive direction that physical descriptions of neural activation patterns do not provide. The Map argues that this purposive gap is where [[interactionist-dualism|non-physical consciousness]] contributes—not replacing executive function but providing the directional input that makes executive activity goal-directed rather than merely patterned. **Phenomenal colouring**—the qualitative character that distinguishes vivid recall from dry knowledge, that gives a childhood memory its warmth or a traumatic memory its dread—has no obvious physical correlate. Two memories with identical propositional content can feel utterly different.
+
+### Historical Precedents
+
+The dual-domain view has deep roots. **Descartes** distinguished corporeal memory—physical brain traces encoding sensory and bodily information—from intellectual memory, which belongs to the immaterial mind and stores universals and innate ideas. These are not two access routes to the same content but "fundamentally different storage systems" operating in different ontological domains (Fóti, 2000; Klein, 2019). The Map does not adopt Descartes' specific division but takes seriously his structural insight: memory may require both physical and non-physical contributions.
+
+**Bergson** developed the most systematic dual-domain account in *Matter and Memory* (1896). He distinguished habit memory—bodily, automatic, inscribed in sensorimotor patterns—from pure memory, which is "contemplative, spiritual, free." The brain, on Bergson's view, does not store pure memories but filters and channels them for present action. Brain damage affects *access* to memories without necessarily destroying the memories themselves—a prediction consistent with cases of temporary amnesia and memory recovery. Bergson's filter model treats the brain as a receiver rather than a container, paralleling the Map's [[attention-as-interface|interface framework]].
+
+### The Quantum Interface
+
+The Map's [[tenets#^minimal-quantum-interaction|minimal quantum interaction]] framework suggests one candidate mechanism for where the two domains meet. If consciousness acts at quantum indeterminacies in neural microtubules, memory traces at the microtubular level could serve as the interface between physical storage and conscious selection. An MRI study by Kerskens and Pérez (2022) detected signals consistent with macroscopic quantum entanglement in living brain tissue, correlated with working memory performance—a finding reviewed by Wiest et al. (2025) as support for microtubular quantum states playing a functional role in memory.
+
+This mechanism is speculative, and the Map presents it as one possibility rather than a requirement. The dual-domain argument rests on the [[explanatory-gap]] between physical traces and phenomenal recall—an argument that holds regardless of where the interface is eventually located. The quantum proposal matters not because it is proven but because it illustrates that plausible physical loci exist for the kind of interaction the Map posits.
 
 ## Hippocampal Binding
 
@@ -183,9 +205,9 @@ Episodic memory supports all five foundational commitments.
 
 **[[tenets#^dualism|Dualism]]**: The phenomenology of episodic retrieval—the felt pastness, the re-experiencing, the double presence of self—involves irreducible qualia. Neural activity in hippocampus and prefrontal cortex correlates with retrieval, but correlation doesn't explain why there is something it is like to remember. A physically identical system without phenomenal consciousness would perform the same computations but wouldn't re-experience anything. The constructive nature of memory sharpens this: if every recall event generates fresh phenomenal experience through pattern completion and schema-driven inference, the gap between computational mechanism and experiential result appears at every act of remembering, not just once at encoding.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The binding processes that create unified episodic memories may involve quantum selection at key neural sites. If consciousness interfaces with the brain through [[attention-as-interface|attention-mediated quantum mechanisms]], then the focused attention required for encoding and the reconstructive attention required for retrieval would be sites where consciousness participates in determining which neural patterns become actual. The hypothesis remains speculative but not ruled out.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The [quantum interface](#the-quantum-interface) discussed above suggests a candidate mechanism. If consciousness biases quantum outcomes without injecting energy, the reconsolidation window—when traces destabilise and the physical system is temporarily underdetermined—represents an opening for non-physical influence. Consciousness need not rewrite engrams; it need only nudge the re-stabilisation process toward one reconstruction rather than another.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Memory retrieval can causally influence behaviour—you remember that the stove is hot and act accordingly. If retrieval involves conscious re-experiencing and this conscious experience causes the behaviour, then consciousness participates in the causal order. Beyond retrieval, consciousness actively shapes what is remembered through attentional selection during encoding and interpretive reframing during retrieval. The self that remembers also revises—reinterpreting past events, reorganising personal narrative, sustaining commitments across time.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The active, goal-directed nature of retrieval evidences bidirectional interaction. Consciousness does not passively observe stored content but selects among reconstructions, modulates reconsolidation, and contributes phenomenal colouring. The manipulation-maintenance asymmetry in [[working-memory]]—where storage proceeds unconsciously but transformation requires conscious engagement—exemplifies this causal role. Beyond retrieval, consciousness actively shapes what is remembered through attentional selection during encoding and interpretive reframing during retrieval.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Episodic memory presupposes a determinate history. When you remember an event, you remember it as having actually occurred—one of many possibilities became actual, and that's what you remember. The pastness quale marks not just temporal location but personal ownership. If identity bifurcated at every quantum event, there would be no fact about which memories are *truly* mine. This connects to [[haecceity]]—the memory is *this* person's memory of *that* event, requiring haecceitistic facts about which possibilities became actual.
 
@@ -208,8 +230,9 @@ Episodic memory supports all five foundational commitments.
 - [[illusionism]] — The challenge to phenomenal consciousness claims
 - [[witness-consciousness]] — Contemplative evidence for memory phenomena
 - [[sleep-and-consciousness]] — How consolidation operates outside consciousness
-- [[memory-as-dual-domain-capability]] — Memory as requiring contributions from both physical and non-physical domains
-- [[capability-division-problem]] — The boundary between brain-side and mind-side capabilities
+- [[capability-division-problem]] — The general framework this article's dual-domain analysis extends
+- [[smoothness-problem]] — The temporal instance of capability division
+- [[bergson-and-duration]] — Bergson's full philosophy of time and memory
 - [[phenomenology-of-memory-and-the-self]] — How constructive memory constitutes and threatens selfhood
 - [[anoetic-noetic-autonoetic-consciousness]] — Tulving's full tripartite hierarchy of consciousness levels
 
@@ -227,3 +250,11 @@ Episodic memory supports all five foundational commitments.
 1. Berntsen, D. (2010). The unbidden past: Involuntary autobiographical memories as a basic mode of remembering. *Current Directions in Psychological Science*, 19(3), 138-142.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
+1. Bergson, H. (1896). *Matter and Memory*. Trans. N. M. Paul and W. S. Palmer.
+1. Fóti, V. (2000). Descartes' intellectual and corporeal memories. In S. Gaukroger et al. (Eds.), *Descartes' Natural Philosophy*. Routledge.
+1. Klein, J. R. (2019). Memory and the extension of thinking in Descartes's *Regulae*. PhilArchive.
+1. Josselyn, S. A. & Tonegawa, S. (2020). Memory engrams: Recalling the past and imagining the future. *Science*, 367(6473), eaaw4325.
+1. Martin, C. B. & Deutscher, M. (1966). Remembering. *Philosophical Review*, 75(2), 161–196.
+1. Kube, T. et al. (2025). Reconsolidation and the goal-directedness of memory retrieval. *Frontiers in Cognition*, 4, 1518743.
+1. Kerskens, C. M. & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
+1. Wiest, M. C. et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, 2025(1), niaf011.

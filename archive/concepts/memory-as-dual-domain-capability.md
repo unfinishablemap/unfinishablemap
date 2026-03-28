@@ -28,6 +28,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-09
 last_curated:
 last_deep_review: 2026-03-09T10:32:00+00:00
+archived: true
+archived_date: 2026-03-28T11:43:00+00:00
+superseded_by: "/concepts/episodic-memory/"
+archive_reason: "Coalesced into Episodic Memory and Autonoetic Consciousness"
+original_path: "/concepts/memory-as-dual-domain-capability/"
 ---
 
 Memory appears to be a single capacity, but it straddles two domains. Physical traces—synaptic patterns, engram cells, reconsolidation mechanisms—provide the substrate for encoding and storage. Yet the phenomenal character of recall, the selectional guidance during retrieval, and the autonoetic sense of re-experiencing cannot be located in those traces. The Unfinishable Map argues that memory is a **dual-domain capability**: a cognitive function whose full operation requires contributions from both the physical brain and non-physical consciousness. This framework extends the Map's [[capability-division-problem|capability division problem]] to one of cognition's most fundamental operations.
