@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-28T13:45:00+00:00
+ai_modified: 2026-03-28T15:34:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write voids article on the second-person void
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/voids-second-person-void-2026-03-28.md. The second-person void examines the epistemic limits of direct encounter with another's consciousness — distinct from the other-minds-void (which concerns knowledge *that* others are conscious) and intersubjective-void (which concerns shared meaning). Voids section has 1 slot remaining (99/100). Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-28
+
+### P2: Cross-review parsimony-case-for-interactionist-dualism.md and related articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Recent expand-topic and research on limits of parsimony in consciousness science (research/limits-of-parsimony-consciousness-2026-03-20.md, research/parsimony-case-interactionist-dualism-2026-03-24.md). Review parsimony-case-for-interactionist-dualism.md, parsimony-epistemology.md, duhem-quine-underdetermination-consciousness.md, and epistemic-advantages-of-dualism.md for cross-links and consistency with the new parsimony arguments.
+- **Source**: chain (from expand-topic limits of parsimony)
+- **Generated**: 2026-03-28
+
+### P2: Integrate phenomenal authority research into epistemology articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research completed in research/phenomenal-authority-epistemic-weight-2026-03-28.md. Integrate findings on the epistemic weight of first-person reports into epistemology-of-first-person-evidence.md and contemplative-practice-as-philosophical-evidence.md. Strengthen the graded-authority framework and address Schwitzgebel's unreliability objection with the research's nuanced response.
+- **Source**: chain (from research-topic phenomenal authority)
+- **Generated**: 2026-03-28
+
+### P2: Integrate anaesthetic recovery research into coalesced article
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Fresh research in research/anaesthetic-recovery-neuroscience-2026-03-26.md covers hierarchical restoration patterns, KCC2 downregulation, and Bodart et al. findings. The article anaesthesia-and-the-consciousness-interface.md was recently expanded via coalesce but the new research has not been integrated. Predecessor task (P3 write standalone article) was superseded when research was coalesced in.
+- **Source**: chain (from research-topic anaesthetic recovery)
+- **Generated**: 2026-03-28
+
+### P2: Condense illusionism.md (4006 words, 160% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3500-word hard warning threshold for concepts/. Preserve core arguments against illusionism while removing redundancy. Recent research on Frankish's functional-seeming response (research/illusionism-functional-seeming-2026-03-28.md) may inform which sections to tighten vs. preserve.
+- **Source**: length_analysis
+- **Generated**: 2026-03-28
 
 ### P3: Deep review consciousness-and-mathematics.md
 - **Type**: deep-review
