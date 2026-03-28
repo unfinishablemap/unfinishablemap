@@ -4,8 +4,8 @@ description: "What kind of causal powers does consciousness possess? Examining t
 created: 2026-02-11
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-20T17:19:00+00:00
-last_deep_review: 2026-03-06T01:41:00+00:00
+ai_modified: 2026-03-28T03:42:00+00:00
+last_deep_review: 2026-03-28T03:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -79,7 +79,7 @@ This explains why you can decide to raise your arm (mental influence on your neu
 
 Even at the interface, consciousness doesn't violate physics. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies that consciousness biases outcomes physics already allows. If quantum mechanics assigns a superposition of neural firing patterns, consciousness can influence which pattern actualizes—but only from among the physically permitted options.
 
-This preserves [[conservation-laws-and-mind|conservation laws]]—and not merely by assertion. Conservation is *local* and *conditional* on physical symmetries, not a cosmic accounting constraint that minds must obey. The common objection that mental causation would create or destroy energy assumes from the start that no external influences exist—precisely what it needs to prove. When consciousness selects among energetically equivalent quantum outcomes, no energy is transferred: all possible outcomes already exist in the wavefunction with their associated energies. Consciousness selects a path through possibility space; it doesn't inject resources from outside that space.
+This preserves [[conservation-laws-and-mental-causation|conservation laws]]—and not merely by assertion. Conservation is *local* and *conditional* on physical symmetries, not a cosmic accounting constraint that minds must obey. The common objection that mental causation would create or destroy energy assumes from the start that no external influences exist—precisely what it needs to prove. When consciousness selects among energetically equivalent quantum outcomes, no energy is transferred: all possible outcomes already exist in the wavefunction with their associated energies. Consciousness selects a path through possibility space; it doesn't inject resources from outside that space.
 
 ### The Probabilistic Constraint
 
@@ -216,13 +216,3 @@ The cost is commitment to quantum effects in the brain operating at timescales r
 - [[the-epiphenomenalist-threat]] — Why most frameworks converge on causal impotence without a specific mechanism
 - [[volitional-control]] — First-person evidence for the causal powers framework: veto, agency, and the Libet dissolution
 - [[metaphysics-of-information-under-dualism]] — The syntax-semantics divide in causal selection: syntactic physics, semantic consciousness
-
-<!-- AI REFINEMENT LOG - 2026-03-20
-Changes made:
-- Added cross-link to the-epiphenomenalist-threat in opening paragraph (escape route specification)
-- Added cross-link to volitional-control in Further Reading (first-person evidence)
-- Added both to related_articles frontmatter and Further Reading
-
-Based on optimistic-2026-03-20-midday.md cross-linking suggestions.
-This log should be removed after human review.
--->
