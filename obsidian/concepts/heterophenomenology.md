@@ -4,8 +4,8 @@ description: "Dennett's third-person method for studying consciousness. Its offi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-03-26T09:17:00+00:00
-last_deep_review: 2026-03-06T05:27:00+00:00
+ai_modified: 2026-03-28T11:57:00+00:00
+last_deep_review: 2026-03-28T11:57:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -23,6 +23,7 @@ related_articles:
   - "[[objectivity-and-consciousness]]"
   - "[[problem-of-other-minds]]"
   - "[[consciousness-and-the-problem-of-measurement-standards]]"
+  - "[[completeness-in-physics-under-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-sonnet-4-5-20250929
@@ -118,7 +119,7 @@ Three core objections:
 
 **2. First-person authority matters**: When you report experiencing pain, you're not merely claiming to experience pain (the heterophenomenological fact)—you *are* experiencing pain (the phenomenological fact). First-person authority extends to experiential reality, not just to experiential claims. Dennett's restriction of authority is a substantive metaphysical claim (phenomenology doesn't exist or is identical to its neural basis) masquerading as methodological neutrality.
 
-**3. The [[explanatory-gap|explanatory gap]] resists third-person closure**: Even complete neuroscientific knowledge of pain processing doesn't explain why C-fiber firing feels like *this*—the badness, urgency, specific quale of pain. Heterophenomenology assumes this gap can be closed third-personally. The Map argues the gap is ontological, not merely epistemic—reflecting a real distinction between physical and phenomenal properties.
+**3. The [[explanatory-gap|explanatory gap]] resists third-person closure**: Even complete neuroscientific knowledge of pain processing doesn't explain why C-fiber firing feels like *this*—the badness, urgency, specific quale of pain. Heterophenomenology assumes this gap can be closed third-personally. The Map argues the gap is ontological, not merely epistemic—reflecting a real distinction between physical and phenomenal properties. The [[completeness-in-physics-under-dualism|completeness analysis]] strengthens this point: physics itself is structurally complete yet ontologically partial, silent on which quantum outcome becomes actual. If the paradigmatic third-person science has principled limits, the claim that third-person methods exhaust consciousness science is undermined at its foundation.
 
 ## Limited Methodological Utility
 
@@ -145,6 +146,7 @@ The Map endorses methodological pluralism: consciousness requires multiple inves
 - [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]]—Varela's mutual constraint framework integrating first- and third-person perspectives
 - [[objectivity-and-consciousness]]—The tension between objective science and subjective experience
 - [[illusionism]]—The metaphysical view often paired with heterophenomenology
+- [[completeness-in-physics-under-dualism]]—Physics is structurally complete yet ontologically partial, grounding the limits of third-person methods
 
 ## References
 

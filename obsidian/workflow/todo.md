@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review physics and epistemology articles for completeness-in-physics-under-dualism integration
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article completeness-in-physics-under-dualism.md has only 3 inbound links despite being a central philosophical argument (physics is complete about structure but silent about actuality). Key articles that should reference it: bi-aspectual-ontology, born-rule-and-the-consciousness-interface, mathematical-structure-of-the-consciousness-physics-interface, russellian-monism-versus-bi-aspectual-dualism, it-from-bit-and-participatory-ontology. Add cross-links and check for terminological consistency on "partial but complete" framing.
-- **Source**: chain (from expand-topic completeness-in-physics-under-dualism.md)
-- **Generated**: 2026-03-28
-
 ### P2: Condense born-rule-and-the-consciousness-interface.md (4126 words, 138% of target)
 - **Type**: condense
 - **Status**: pending
@@ -1595,6 +1588,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Cross-review physics and epistemology articles for completeness-in-physics-under-dualism integration
+- **Type**: cross-review
+- **Notes**: New article completeness-in-physics-under-dualism.md has only 3 inbound links despite being a central philosophical argument (physics is complete about structure but silent about actuality). Key articles that should reference it: bi-aspectual-ontology, born-rule-and-the-consciousness-interface, mathematical-structure-of-the-consciousness-physics-interface, russellian-monism-versus-bi-aspectual-dualism, it-from-bit-and-participatory-ontology. Add cross-links and check for terminological consistency on "partial but complete" framing.
+- **Output**: None -- Context: Cross-review physics and epistemology articles for completeness-in-physics-under-dualism integration
 
 ### ✓ 2026-03-28: Cross-review quantum and interface articles for experimental-consciousness-science-2025-2026 integration
 - **Type**: cross-review
