@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review consciousness-and-mathematics.md (post-coalesce)
-- **Type**: deep-review
-- **Notes**: Coalesced from two math-consciousness articles on 2026-03-28. Wikilinks were updated across 18 files, but the merged article itself has not been deep-reviewed. Verify the coalesce preserved key arguments from both sources, eliminated redundancy, maintains coherent structure, and aligns with tenets. Check cross-references to consciousness-and-the-philosophy-of-mathematics, mathematical-knowledge-and-insight, and consciousness-and-mathematical-cognition research notes.
-- **Source**: chain (from coalesce)
-- **Generated**: 2026-03-28
-
 ### P2: Address verification/understanding gap and selective ontology in consciousness-and-mathematics.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-03-28) found two high-severity issues: (1) the verification/understanding distinction is asserted rather than argued—needs engagement with the deflationary account (understanding as compressed verification), (2) the ontological landscape survey cherry-picks versions of Platonism/intuitionism/formalism that support dualism without acknowledging physicalist-compatible variants. See pessimistic-2026-03-28.md for full analysis.
@@ -1515,6 +1509,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Deep review consciousness-and-mathematics.md (post-coalesce)
+- **Type**: deep-review
+- **Notes**: Coalesced from two math-consciousness articles on 2026-03-28. Wikilinks were updated across 18 files, but the merged article itself has not been deep-reviewed. Verify the coalesce preserved key arguments from both sources, eliminated redundancy, maintains coherent structure, and aligns with tenets. Check cross-references to consciousness-and-the-philosophy-of-mathematics, mathematical-knowledge-and-insight, and consciousness-and-mathematical-cognition research notes.
+- **Output**: obsidian/topics/consciousness-and-mathematics.md
 
 ### ✓ 2026-03-28: Cross-review normative phenomenology articles considering evaluative-qualia insights
 - **Type**: cross-review

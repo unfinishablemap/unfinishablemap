@@ -4,7 +4,7 @@ description: "Every major mathematical ontology implies a position on consciousn
 created: 2026-01-21
 modified: 2026-03-28
 human_modified:
-ai_modified: 2026-03-28T02:22:00+00:00
+ai_modified: 2026-03-28T03:28:00+00:00
 draft: false
 concepts:
   - "[[cognitive-phenomenology]]"
@@ -59,7 +59,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-28
 last_curated:
-last_deep_review: 2026-03-28T02:22:00+00:00
+last_deep_review: 2026-03-28T03:28:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-mathematical-cognition/"
   - "/topics/mathematical-truth-and-conscious-access/"
@@ -141,11 +141,11 @@ Jacques Hadamard, investigating mathematical invention systematically in *The Ps
 
 ### The Experience of Necessity
 
-The phenomenal hallmark of mathematical insight is *felt necessity*. When you genuinely understand a proof, you experience the conclusion as something that *must* be true. This necessity has qualitative character: a felt constraint, a sense that no alternative is possible.
+The phenomenal hallmark of mathematical insight—an instance of [[cognitive-phenomenology|cognitive phenomenology]] at its most distinctive—is *felt necessity*. When you genuinely understand a proof, you experience the conclusion as something that *must* be true. This necessity has qualitative character: a felt constraint, a sense that no alternative is possible.
 
 Compare this with insight in other domains. Scientific insight carries conviction but not necessity—the pattern could have been otherwise. Artistic insight feels *right* but not *inevitable*. Mathematical necessity is experienced as discovered rather than imposed. When you see why the square root of two cannot be rational, the impossibility is not merely believed but *felt*.
 
-Felt necessity admits of degrees. Elementary arithmetic truths carry necessity so transparent it barely registers. Complex proofs may carry necessity that builds gradually. And at the frontier, necessity sometimes arrives all at once—the proof's entire structure suddenly visible, its conclusion felt as inevitable before each step has been consciously verified.
+Felt necessity admits of degrees: elementary arithmetic carries necessity so transparent it barely registers; complex proofs build it gradually. At the frontier, necessity sometimes arrives all at once—the proof's entire structure suddenly visible, its conclusion felt as inevitable before each step has been verified.
 
 ### Understanding vs. Verification
 
