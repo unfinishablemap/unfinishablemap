@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-26 11:32:00+00:00
+ai_modified: 2026-03-28 02:27:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -9,7 +9,7 @@ coalesced_from:
 - /concepts/consciousness-independent-baseline-cognition/
 concepts:
 - '[[conscious-vs-unconscious-processing]]'
-- '[[topics/consciousness-and-social-cognition]]'
+- '[[topics/consciousness-and-social-understanding]]'
 - '[[consciousness-as-amplifier]]'
 - '[[working-memory]]'
 - '[[metacognition]]'
@@ -131,7 +131,7 @@ This connects to *spontaneous intentional action*—generating goal-directed beh
 
 ### Social Cognition: Where the Gap Is Clearest
 
-[Social cognition](/topics/consciousness-and-social-cognition/) provides the clearest domain where the baseline/conscious distinction manifests. Theory of mind admits of levels tracking the procedural/declarative distinction: behaviour prediction and perception attribution (levels 0-1) operate within baseline cognition, while recursive mindreading (level 3—"she thinks that I think the food is hidden") demands holding multiple nested representations simultaneously. Belief attribution (level 2) sits at the contested boundary.
+[Social cognition](/topics/consciousness-and-social-understanding/) provides the clearest domain where the baseline/conscious distinction manifests. Theory of mind admits of levels tracking the procedural/declarative distinction: behaviour prediction and perception attribution (levels 0-1) operate within baseline cognition, while recursive mindreading (level 3—"she thinks that I think the food is hidden") demands holding multiple nested representations simultaneously. Belief attribution (level 2) sits at the contested boundary.
 
 Shared intentionality shows the same pattern. Joint attention requires recursive mutual awareness—I know you're attending, you know I'm attending—a structure requiring [phenomenal binding](/concepts/binding-problem/). Great apes track attention without sharing it in this rich sense. Empathic concern similarly requires metarepresentation: feeling *for* another because you understand their situation, not merely catching their emotion. Great apes show consolation (emotional contagion plus approach) without the understanding-motivated helping that characterises human empathy.
 
@@ -207,7 +207,7 @@ The baseline cognition hypothesis could be undermined by:
 
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — The complementary article on how consciousness transforms baseline cognition
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence on what consciousness enables
-- [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — Social cognition as paradigm case
+- [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) — Social cognition as paradigm case
 - [working-memory](/concepts/working-memory/) — The neural workspace where amplification operates
 - [cumulative-culture](/concepts/cumulative-culture/) — The ratchet effect and why it requires metarepresentation
 - [delegatory-dualism](/topics/delegatory-dualism/) — Causal structure for how consciousness amplifies without overdetermination

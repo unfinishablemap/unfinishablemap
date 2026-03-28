@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-23 10:06:00+00:00
+ai_modified: 2026-03-28 02:27:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -157,7 +157,7 @@ The simpler hypothesis—social cognition is just sophisticated information proc
 - [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/) — How standard methods struggle with consciousness questions
 
 ### Related Topics
-- [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — The topic-level treatment: correlation vs. constitution in social cognition
+- [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) — The topic-level treatment: correlation vs. constitution in social cognition
 - [animal-consciousness](/topics/animal-consciousness/) — Great ape social cognition and its limits
 - [ai-consciousness](/topics/ai-consciousness/) — Whether artificial systems could have genuine social understanding
 - [cumulative-culture](/concepts/cumulative-culture/) — How metarepresentational social cognition enables cultural ratcheting

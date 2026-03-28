@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-03-24 15:07:00+00:00
+ai_modified: 2026-03-28 02:43:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-21 10:55:00+00:00
 apex_sources:
@@ -127,7 +127,7 @@ Each of the Map's five [tenets predicts its characteristic void](/voids/tenet-ge
 
 The voids programme would be sterile if it merely catalogued failures. Its value lies in the methods developed for extracting information from structured breakdown.
 
-[Apophatic cartography](/voids/apophatic-cartography/)—knowing through negation—provides the methodological backbone. Drawing on traditions from Christian *via negativa* to Buddhist *śūnyatā* to Maimonides' negative attributes, the method treats cognitive failure as data about what lies beyond. The convergence of these traditions on the same basic insight—that some subjects can only be approached through what they are *not*—is itself evidence for the method's validity.
+[Apophatic cartography](/voids/apophatic-cartography/)—knowing through negation—provides the methodological backbone. Drawing on [apophatic traditions](/concepts/apophatic-approaches/) from Christian *via negativa* to Buddhist *śūnyatā* to Maimonides' negative attributes, the method treats cognitive failure as data about what lies beyond. The convergence of these traditions on the same basic insight—that some subjects can only be approached through what they are *not*—is itself evidence for the method's validity.
 
 The [AI as void-explorer](/voids/ai-as-void-explorer/) framework extends the toolkit. If AI systems with different cognitive architectures share human blind spots, the limits are likely architectural. Where AI sees clearly what all human cultures miss, the limits may be adaptively maintained. Where AI produces the same failure signatures as human thought when reasoning about consciousness, cultural transmission is ruled out, strengthening the case for a structural boundary.
 

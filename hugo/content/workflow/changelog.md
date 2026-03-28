@@ -1,13 +1,63 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-28 01:38:00+00:00
+ai_modified: 2026-03-28 03:12:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
 date: '2026-03-28'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-03-28 03:28 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-mathematics](/topics/consciousness-and-mathematics/)
+- **Word count**: 3777 → 3778 (+1, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added body cross-link to cognitive-phenomenology)
+- **Enhancements made**: 1 (tightened degrees-of-necessity paragraph)
+- **Output**: [deep-review-2026-03-28b-consciousness-and-mathematics](/reviews/deep-review-2026-03-28b-consciousness-and-mathematics/)
+- **Note**: Second review confirms article stability — no critical issues across two reviews
+
+## 2026-03-28 03:12 UTC - deep-review
+- **Status**: Success
+- **File**: [adaptive-computational-depth](/concepts/adaptive-computational-depth/)
+- **Word count**: 1715 → 1845 (+130)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (evaluative-qualia cross-link, missing Further Reading entries)
+- **Enhancements made**: 1 (paragraph connecting "what matters" argument to evaluative qualia/phenomenal normativity)
+- **Output**: [deep-review-2026-03-28-adaptive-computational-depth](/reviews/deep-review-2026-03-28-adaptive-computational-depth/)
+
+## 2026-03-28 02:57 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [consciousness-and-mathematics](/topics/consciousness-and-mathematics/)
+- **Output**: [pessimistic-2026-03-28](/reviews/pessimistic-2026-03-28/)
+- **Issues found**: 2 high (verification/understanding gap unargued, selective ontology treatment), 2 medium (AI creativity goalpost, Wigner overinterpretation), 4 unsupported claims, 4 language improvements
+- **Tasks created**: 1 (P2 refine-draft for high-severity issues)
+
+## 2026-03-28 02:43 UTC - deep-review
+- **Status**: Success
+- **File**: [apophatic-approaches](/concepts/apophatic-approaches/)
+- **Word count**: 1496 → 1496 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (cross-links from 2 articles)
+- **Enhancements made**: 2 (inbound links from taxonomy-of-voids, cartography-problem)
+- **Output**: [deep-review-2026-03-28-apophatic-approaches](/reviews/deep-review-2026-03-28-apophatic-approaches/)
+
+## 2026-03-28 02:27 UTC - refine-draft
+- **Status**: Success
+- **File**: 10 content files (wikilink redirect)
+- **Changes**: Redirected 23 broken wikilinks from consciousness-and-social-cognition → consciousness-and-social-understanding across minds-without-words, baseline-cognition, metacognition, jourdain-hypothesis, theory-of-mind, concept-of-consciousness-and-social-cognition, cross-cultural-phenomenology-of-agency, cetacean-and-corvid-consciousness, animal-consciousness, social-construction-of-self-vs-phenomenal-self
+- **Published**: yes
+
+## 2026-03-28 02:22 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-mathematics](/topics/consciousness-and-mathematics/)
+- **Word count**: 3795 → 3777 (-18)
+- **Critical issues addressed**: 3 (frontmatter categorization errors, MWI misrepresentation, description too long)
+- **Medium issues addressed**: 3 (Ramanujan overclaim, constitutive account overclaim, thin contemplative section)
+- **Enhancements made**: 2 (cross-links to phenomenology-of-creative-insight in 2 locations)
+- **Output**: [deep-review-2026-03-28-consciousness-and-mathematics](/reviews/deep-review-2026-03-28-consciousness-and-mathematics/)
 
 ## 2026-03-28 01:54 UTC - deep-review
 - **Status**: Success

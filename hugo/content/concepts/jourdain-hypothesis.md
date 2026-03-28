@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-11 23:41:00+00:00
+ai_modified: 2026-03-28 02:27:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -12,7 +12,7 @@ concepts:
 - '[[working-memory]]'
 - '[[illusionism]]'
 - '[[cognitive-phenomenology]]'
-- '[[topics/consciousness-and-social-cognition]]'
+- '[[topics/consciousness-and-social-understanding]]'
 - '[[unity-of-consciousness]]'
 - '[[theory-of-mind]]'
 created: 2026-01-22
@@ -74,7 +74,7 @@ Great apes rarely teach in the human sense. They learn socially through emulatio
 
 ## Social Cognition: Where the Jourdain Distinction Is Clearest
 
-[Social cognition](/topics/consciousness-and-social-cognition/) provides the sharpest evidence for the procedural/declarative divide. The 4-level [theory-of-mind](/concepts/theory-of-mind/) hierarchy maps directly onto the Jourdain distinction:
+[Social cognition](/topics/consciousness-and-social-understanding/) provides the sharpest evidence for the procedural/declarative divide. The 4-level [theory-of-mind](/concepts/theory-of-mind/) hierarchy maps directly onto the Jourdain distinction:
 
 | Level | Description | Requires Metarepresentation? | Great Apes |
 |-------|-------------|------------------------------|------------|
@@ -187,7 +187,7 @@ The simpler hypothesis—that all metacognition is really procedural, that the a
 
 ## Further Reading
 
-- [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — Where the procedural/declarative distinction is clearest: theory of mind levels, shared intentionality, and empathy
+- [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) — Where the procedural/declarative distinction is clearest: theory of mind levels, shared intentionality, and empathy
 - [metacognition](/concepts/metacognition/) — The capacity to represent representations as representations, and the enabling relation between consciousness and self-monitoring
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without metarepresentation
 - [cumulative-culture](/concepts/cumulative-culture/) — Why cultural ratcheting requires the Jourdain transition

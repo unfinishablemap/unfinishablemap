@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-03-17 14:54:00+00:00
+ai_modified: 2026-03-28 02:27:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-17 14:54:00+00:00
 apex_sources:
@@ -77,7 +77,7 @@ The evidence maps onto three functions that [Global Workspace Theory](/concepts/
 
 **Declarative metacognition**: Great apes show procedural metacognition—feelings that guide behaviour without explicit representation. They *feel* uncertain and seek information. But they apparently cannot represent that uncertainty *as* uncertainty. The feeling functions adaptively without becoming an object of thought. The [three-level metarepresentational framework](/concepts/metacognition/) clarifies this: great apes may operate at the second level (adjusting their own states) without reaching metarepresentation proper—representing their representations *as* representations.
 
-**Social cognition**: The baseline/conscious distinction is clearest in [social cognition](/topics/consciousness-and-social-cognition/). Great apes pass Level 1 theory-of-mind tests (tracking what others perceive) but struggle with Level 3 recursive mindreading ("she thinks I think..."). The nested structure demands simultaneous manipulation of multiple representations—precisely what requires conscious access.
+**Social cognition**: The baseline/conscious distinction is clearest in [social cognition](/topics/consciousness-and-social-understanding/). Great apes pass Level 1 theory-of-mind tests (tracking what others perceive) but struggle with Level 3 recursive mindreading ("she thinks I think..."). The nested structure demands simultaneous manipulation of multiple representations—precisely what requires conscious access.
 
 **Counterfactual reasoning**: Humans uniquely imagine situations that don't exist—learning from hypothetical alternatives, planning for future need-states not currently experienced. The Bischof-Köhler hypothesis proposes that animals cannot act on drive states they don't currently possess. [Counterfactual thinking](/concepts/counterfactual-reasoning/) requires explicitly representing non-actual states while manipulating them—demanding the integrated workspace that consciousness provides.
 

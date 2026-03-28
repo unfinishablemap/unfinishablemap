@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-03-25 01:40:00+00:00
+ai_modified: 2026-03-28 02:27:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
 - /concepts/metacognition/
 - /concepts/metarepresentation/
 concepts:
-- '[[topics/consciousness-and-social-cognition]]'
+- '[[topics/consciousness-and-social-understanding]]'
 - '[[jourdain-hypothesis]]'
 - '[[higher-order-theories]]'
 - '[[introspection]]'
@@ -118,7 +118,7 @@ Great apes' limited working memory capacity—roughly two items (Read 2008) comp
 
 Great apes demonstrate Level 1 social metacognition, but Level 3 recursive mindreading ("she thinks that I think the food is hidden") appears uniquely human. This mirrors the procedural/declarative divide: monitoring is widespread; declarative metarepresentation requires consciousness.
 
-Recursive social cognition makes explicit why higher-level metacognition requires consciousness. Representing "she thinks that I think X" requires holding multiple nested levels simultaneously, bound into [unified conscious awareness](/concepts/unity-of-consciousness/). Consciousness provides the phenomenal workspace where nested representations can be bound and manipulated—though the [recursion-void](/voids/recursion-void/) demonstrates this workspace has a remarkably shallow depth limit, terminating around fifth-order intentionality. See [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) for details.
+Recursive social cognition makes explicit why higher-level metacognition requires consciousness. Representing "she thinks that I think X" requires holding multiple nested levels simultaneously, bound into [unified conscious awareness](/concepts/unity-of-consciousness/). Consciousness provides the phenomenal workspace where nested representations can be bound and manipulated—though the [recursion-void](/voids/recursion-void/) demonstrates this workspace has a remarkably shallow depth limit, terminating around fifth-order intentionality. See [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) for details.
 
 ## The Jourdain Hypothesis: Procedural vs. Declarative
 
@@ -204,7 +204,7 @@ The Map's framework accommodates both: consciousness provides phenomenal content
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness enables metacognitive monitoring
 - [dream-consciousness](/topics/dream-consciousness/) — Metacognition in altered states (lucid dreaming)
 - [introspection](/concepts/introspection/) — Metacognition's role in first-person methods
-- [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — Theory of mind as social metacognition
+- [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) — Theory of mind as social metacognition
 - [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/) — Teaching as the paradigm case of metarepresentation
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without metarepresentation
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The phenomenal character of thinking

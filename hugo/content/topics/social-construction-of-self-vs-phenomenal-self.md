@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-12
-ai_modified: 2026-03-26 08:17:00+00:00
+ai_modified: 2026-03-28 02:27:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[self-and-self-consciousness]]'
 - '[[intersubjectivity]]'
-- '[[topics/consciousness-and-social-cognition]]'
+- '[[topics/consciousness-and-social-understanding]]'
 - '[[theory-of-mind]]'
 - '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[haecceity]]'
@@ -84,7 +84,7 @@ Consider [autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciou
 
 The critical asymmetry: social construction of self depends on phenomenal selfhood, but not vice versa.
 
-Social construction requires subjects who can recognise each other, interpret each other's behaviour, and internalise each other's perspectives. [These capacities](/topics/consciousness-and-social-cognition/) require phenomenal consciousness. Husserl's analysis of [intersubjectivity](/concepts/intersubjectivity/) confirms the point: we perceive others as subjects through "appresentation"—grasping their subjectivity directly in embodied encounter, not by inference from behaviour. This perception of others *as phenomenal subjects* is itself a phenomenal act. The [constitutive void between minds](/voids/other-minds-void/)—the gap that makes genuine intersubjectivity possible—requires separate phenomenal subjects on both sides. Mead's "taking the attitude of the other" presupposes something it is like to take that attitude—a phenomenal subject who experiences the perspective-shift. Butler's performative constitution presupposes an experiential arena in which performances occur and are registered.
+Social construction requires subjects who can recognise each other, interpret each other's behaviour, and internalise each other's perspectives. [These capacities](/topics/consciousness-and-social-understanding/) require phenomenal consciousness. Husserl's analysis of [intersubjectivity](/concepts/intersubjectivity/) confirms the point: we perceive others as subjects through "appresentation"—grasping their subjectivity directly in embodied encounter, not by inference from behaviour. This perception of others *as phenomenal subjects* is itself a phenomenal act. The [constitutive void between minds](/voids/other-minds-void/)—the gap that makes genuine intersubjectivity possible—requires separate phenomenal subjects on both sides. Mead's "taking the attitude of the other" presupposes something it is like to take that attitude—a phenomenal subject who experiences the perspective-shift. Butler's performative constitution presupposes an experiential arena in which performances occur and are registered.
 
 A community of [philosophical zombies](/concepts/philosophical-zombies/)—functionally identical to humans but lacking phenomenal consciousness—could not socially construct selves in any meaningful sense. They might produce the same behaviours, use the same language, follow the same social norms. But there would be no one for whom the social identity is an identity. The construction would lack a site. Performance without experience is mechanism without meaning.
 
@@ -121,7 +121,7 @@ This analysis connects to the Map's foundational commitments at multiple points.
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — Three layers of selfhood and why the substantial self grounds the others
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The minimal self as structural feature of experience
 - [intersubjectivity](/concepts/intersubjectivity/) — How phenomenal experience can be shared between minds
-- [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — The role of consciousness in enabling social self-models
+- [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) — The role of consciousness in enabling social self-models
 - [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/) — How narrative shapes agency across time
 - [self-reference paradox](/voids/self-opacity/) — Why the phenomenal self resists its own introspective gaze
 - [haecceity](/concepts/haecceity/) — Primitive thisness and why qualitative identity is insufficient

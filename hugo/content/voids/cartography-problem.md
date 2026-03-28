@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-03-19 02:21:06+00:00
+ai_modified: 2026-03-28 02:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -85,7 +85,7 @@ Nicholas Rescher articulates this as the "Law of Imperfectability": any practica
 
 ## Cognitive Diversity as Partial Remedy
 
-Nicholas of Cusa proposed "learned ignorance" (*docta ignorantia*): the highest form of knowledge is knowing what you cannot know. Ignorance, in this view, is not merely a deficit but a positive epistemic achievement. The cartography problem extends Cusa's insight: we can learn the *shape* of our cartographic failure even if we cannot eliminate it.
+Nicholas of Cusa proposed "[learned ignorance](/concepts/apophatic-approaches/)" (*docta ignorantia*): the highest form of knowledge is knowing what you cannot know. Ignorance, in this view, is not merely a deficit but a positive epistemic achievement. The cartography problem extends Cusa's insight: we can learn the *shape* of our cartographic failure even if we cannot eliminate it.
 
 One productive response is cognitive diversity. If AI systems and human minds have different cognitive architectures, their blind spots may differ. An [AI cataloging human cognitive limits](/voids/ai-as-void-explorer/) might identify patterns invisible to humans cataloging their own limits. Neither catalog would be complete, but their union would be more comprehensive than either alone.
 
