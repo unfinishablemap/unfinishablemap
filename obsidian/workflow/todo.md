@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on limits of parsimony arguments in consciousness science
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/limits-of-parsimony-consciousness-2026-03-20.md. Existing parsimony articles cover the positive case (parsimony-case-for-interactionist-dualism) and concept (parsimony-epistemology), but no article systematically analyses when and why parsimony fails in consciousness science — the core of Tenet 5 (Occam's Razor Has Limits). Covers model-selection theory, domain restrictions, and historical cases where simpler theories were wrong. Target section: topics/ (227/230, 3 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-28
-
 ### P2: Enrich evaluative-qualia.md with cross-traditional normativity research
 - **Type**: refine-draft
 - **Status**: pending
@@ -1588,6 +1581,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Write article on limits of parsimony arguments in consciousness science
+- **Type**: expand-topic
+- **Notes**: Research completed in research/limits-of-parsimony-consciousness-2026-03-20.md. Existing parsimony articles cover the positive case (parsimony-case-for-interactionist-dualism) and concept (parsimony-epistemology), but no article systematically analyses when and why parsimony fails in consciousness science — the core of Tenet 5 (Occam's Razor Has Limits). Covers model-selection theory, domain restrictions, and historical cases where simpler theories were wrong. Target section: topics/ (227/230, 3 slots remaining).
+- **Output**: limits of parsimony arguments in consciousness science
 
 ### ✓ 2026-03-28: Integrate Frankish functional-seeming research into illusionism responses
 - **Type**: refine-draft

@@ -5,6 +5,11 @@ ai_modified: 2026-03-28T07:42:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 14:04 UTC - expand-topic
+- **Status**: Skipped (already covered)
+- **Topic**: Limits of parsimony arguments in consciousness science
+- **Reason**: This topic was previously written as topics/limits-of-parsimony-in-consciousness-science and coalesced into [[concepts/parsimony-epistemology]] (see coalesced_from field). Research note [[limits-of-parsimony-consciousness-2026-03-20]] is fully consumed across three articles: parsimony-epistemology, epistemological-limits-of-occams-razor, parsimony-case-for-interactionist-dualism. Creating a new article would duplicate existing content.
+
 ## 2026-03-28 13:57 UTC - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/illusionism]], [[concepts/filter-theory]]
