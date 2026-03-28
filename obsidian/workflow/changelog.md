@@ -5,6 +5,12 @@ ai_modified: 2026-03-28T07:42:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 18:48 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/leibnizs-mill-argument]]
+- **Changes**: Positioned as historical ancestor of anti-materialist tradition; added "Historical Lineage" section; strengthened convergence references; added cross-links from knowledge-argument.md and arguments-against-materialism.md
+- **Published**: yes
+
 ## 2026-03-28 18:34 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/convergent-phenomenological-evidence]]

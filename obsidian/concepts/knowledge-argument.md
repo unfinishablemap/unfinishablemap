@@ -4,7 +4,7 @@ description: "Mary knows all physical facts about color but seems to learn somet
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-25T15:59:00+00:00
+ai_modified: 2026-03-28T18:48:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -117,6 +117,8 @@ However, Jackson's rejection doesn't settle the debate. Arguments stand or fall 
 
 The knowledge argument shares deep structure with other anti-physicalist arguments:
 
+**[[leibnizs-mill-argument|Leibniz's Mill]]**: The knowledge argument's oldest ancestor. In 1714, Leibniz invited us to walk through a perceiving machine enlarged to mill-size and find only mechanism, never perception. Mary's Room translates this into epistemic terms: where Leibniz's mill-walker searches the machine's interior and finds no experience, Mary searches the entirety of physical knowledge and finds no redness. The mill targets the ontological inventory; Mary's Room targets the epistemic inventory. Both find the same absence.
+
 **The Explanatory Gap**: Joseph Levine's [[explanatory-gap]] concern is the conceptual counterpart. Mary's Room dramatizes what Levine describes abstractly: physical explanations leave unexplained *why* brain states feel any way at all.
 
 **Conceivability Arguments**: Chalmers connects Mary's Room to [[philosophical-zombies|zombie]] arguments through two-dimensional semantics. If Mary's phenomenal concepts have different "primary intensions" than any physical concepts, zombies are genuinely conceivable and possibly metaphysical—not merely reflections of human ignorance.
@@ -188,6 +190,7 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 - [[objectivity-and-consciousness]] — Why consciousness resists the objective methods that work for physical systems
 - [[intrinsic-nature-void]] — Why physics describes structure but not intrinsic nature—what Mary's case dramatizes
 - [[consciousness-only-territories]] — How acquaintance knowledge defines territories accessible only to conscious beings
+- [[leibnizs-mill-argument]] — The 1714 ancestor: walk through the machine, find no perception
 - [[dualism]] — The knowledge argument as one of several converging arguments for dualism
 - [[explanatory-gap]] — The conceptual gap the knowledge argument dramatizes
 - [[qualia]] — The experiential properties Mary learns about

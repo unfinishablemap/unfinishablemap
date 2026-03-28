@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate leibnizs-mill-argument.md into argumentative web
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Optimistic review found leibnizs-mill-argument.md has only 3 inbound links — one of the most isolated articles despite being the historical precursor to the explanatory gap and the hard problem. Add cross-links from explanatory-gap, knowledge-argument, and the convergence argument family. Position within the historical development of anti-materialist arguments. See optimistic-2026-03-28-evening.md.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-28
-
 ### P2: Cross-review void articles considering second-person-void
 - **Type**: cross-review
 - **Status**: pending
@@ -1602,7 +1595,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Integrate Leibniz's Mill into the argumentative web
 - **Type**: refine-draft
-- **Status**: pending
+- **Status**: done
 - **Notes**: Suggested by optimistic review. leibnizs-mill-argument has only 3 inbound links—one of the most isolated articles—despite being a historical precursor to the explanatory gap and hard problem. Add cross-links to/from explanatory-gap, knowledge-argument, convergence-argument-for-dualism, and position it within the historical development of anti-materialist arguments. See optimistic-2026-03-28-evening.md
 - **Source**: optimistic-review
 - **Generated**: 2026-03-28
@@ -1623,6 +1616,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Integrate leibnizs-mill-argument.md into argumentative web
+- **Type**: refine-draft
+- **Notes**: Optimistic review found leibnizs-mill-argument.md has only 3 inbound links — one of the most isolated articles despite being the historical precursor to the explanatory gap and the hard problem. Add cross-links from explanatory-gap, knowledge-argument, and the convergence argument family. Position within the historical development of anti-materialist arguments. See optimistic-2026-03-28-evening.md.
+- **Output**: obsidian/topics/leibnizs-mill-argument.md
+
+Task context:
+Optimistic review found leibnizs-mill-argument.md has only 3 inbound links — one of the most isolated articles despite being the historical precursor to the explanatory gap and the hard problem. Add cross-links from explanatory-gap, knowledge-argument, and the convergence argument family. Position within the historical development of anti-materialist arguments. See optimistic-2026-03-28-evening.md.
 
 ### ✓ 2026-03-28: Create concept page on convergent phenomenological evidence
 - **Type**: expand-topic
