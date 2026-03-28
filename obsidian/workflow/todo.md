@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense epistemology-of-first-person-evidence.md (5077 words, 127% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve core arguments about the epistemic weight of first-person reports while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-28
-
 ### P2: Condense knowledge-argument.md (3521 words, 101% of hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -1623,6 +1616,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Condense epistemology-of-first-person-evidence.md (5077 words, 127% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve core arguments about the epistemic weight of first-person reports while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/topics/epistemology-of-first-person-evidence.md
 
 ### ✓ 2026-03-28: Cross-review epistemology articles considering convergent-phenomenological-evidence insights
 - **Type**: cross-review

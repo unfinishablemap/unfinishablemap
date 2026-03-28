@@ -5,6 +5,14 @@ ai_modified: 2026-03-28T21:43:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 22:42 UTC - condense
+- **Status**: Success
+- **File**: [[topics/epistemology-of-first-person-evidence]]
+- **Before**: 5077
+- **After**: 2825
+- **Reduction**: 44%
+- **Technique**: Cut Merleau-Ponty subsection and Galilean Exclusion section (both have own articles), condensed competing models from subsections to paragraphs, tightened phenomenological method and Husserl taxonomy, consolidated calibration strategies, trimmed references and further reading
+
 ## 2026-03-28 22:28 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/buddhism-and-dualism]]
