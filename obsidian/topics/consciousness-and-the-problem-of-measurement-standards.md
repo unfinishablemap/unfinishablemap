@@ -26,7 +26,7 @@ related_articles:
   - "[[quantum-measurement-and-consciousness]]"
   - "[[knowledge-argument]]"
   - "[[consciousness-defeats-explanation]]"
-  - "[[measurement-void]]"
+  - "[[observation-and-measurement-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -101,7 +101,7 @@ The Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is also relev
 
 The Map's [[tenets#^bidirectional|Bidirectional Interaction]] tenet holds that consciousness causally influences the physical world. The measurement standards problem illuminates a related asymmetry: physical quantities are measurable because their causal effects are publicly accessible, but consciousness's causal influence — if real — works through channels (neural activity, behaviour) that do not carry phenomenal information. We can measure the *effects* of consciousness on the physical world, but measuring consciousness itself requires access to the side of the interaction that remains private. Bidirectional causation without bidirectional measurability is exactly what a dualist framework predicts.
 
-The [[measurement-void]] traces this same impossibility through five independent routes — units, instruments, interpersonal comparison, introspection, and proxy metrics — each failing for different structural reasons yet converging on the same impasse.
+The [[observation-and-measurement-void]] traces this same impossibility through five independent routes — units, instruments, interpersonal comparison, introspection, and proxy metrics — each failing for different structural reasons yet converging on the same impasse.
 
 The argument here also parallels the [[knowledge-argument|knowledge argument]]: Mary knows every physical fact about colour vision yet learns something new upon seeing red. The measurement standards problem generalises this insight — it is not just that phenomenal knowledge exceeds physical knowledge, but that the entire apparatus of physical measurement (units, instruments, calibration) cannot be constructed for phenomenal quantities. The knowledge argument shows the gap for a single case; the measurement argument shows it is structural.
 
@@ -116,7 +116,7 @@ As the Map explores in [[methodology-of-consciousness-research]], science achiev
 - [[quantum-measurement-and-consciousness]]
 - [[knowledge-argument]]
 - [[consciousness-defeats-explanation]]
-- [[measurement-void]]
+- [[observation-and-measurement-void]]
 
 ## References
 

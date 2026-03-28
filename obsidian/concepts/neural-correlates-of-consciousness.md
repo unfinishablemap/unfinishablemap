@@ -31,7 +31,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[neural-correlates-consciousness-2026-01-14]]"
-  - "[[measurement-void]]"
+  - "[[observation-and-measurement-void]]"
   - "[[consciousness-and-the-problem-of-measurement-standards]]"
   - "[[duhem-quine-underdetermination-consciousness]]"
   - "[[experimental-consciousness-science-2025-2026]]"
@@ -167,7 +167,7 @@ Over 200 theories of consciousness exist. IIT and GNWT were both challenged by C
 
 NCC research marks a genuine advance in consciousness science, yielding detailed knowledge of which brain regions correlate with conscious experience and powerful methods for testing theories.
 
-Yet NCC cannot cross a certain boundary. It can map correlations with increasing precision but cannot tell us what consciousness *is*, why it exists, or how—if at all—it relates to the physical world beyond correlation. The [[measurement-void]] illuminates this limitation: five independent routes to measuring consciousness all fail for structural rather than technical reasons, and the [[consciousness-and-the-problem-of-measurement-standards|measurement standards problem]] shows why physical measurement cannot be constructed for phenomenal quantities. NCC research operates entirely within the proxy layer. As the [[cognitive-science-of-dualism]] article argues, every NCC study presupposes first-person report as irreducible data—the experimenter trusts the subject's testimony about what they experience, smuggling in a first-person element the methodology cannot itself explain.
+Yet NCC cannot cross a certain boundary. It can map correlations with increasing precision but cannot tell us what consciousness *is*, why it exists, or how—if at all—it relates to the physical world beyond correlation. The [[observation-and-measurement-void]] illuminates this limitation: five independent routes to measuring consciousness all fail for structural rather than technical reasons, and the [[consciousness-and-the-problem-of-measurement-standards|measurement standards problem]] shows why physical measurement cannot be constructed for phenomenal quantities. NCC research operates entirely within the proxy layer. As the [[cognitive-science-of-dualism]] article argues, every NCC study presupposes first-person report as irreducible data—the experimenter trusts the subject's testimony about what they experience, smuggling in a first-person element the methodology cannot itself explain.
 
 These remain philosophical questions. The Map holds that consciousness is irreducible, that it interacts bidirectionally with physics, and that this interaction occurs at quantum indeterminacies. NCC findings are compatible with this framework and equally with materialism. The hard problem, the explanatory gap, and the metaphysics of mind-brain relations remain exactly where they were—though we now know better where in the brain to investigate them.
 
@@ -184,7 +184,7 @@ These remain philosophical questions. The Map holds that consciousness is irredu
 - [[episodic-memory]] — Autonoetic consciousness and hippocampal NCCs
 - [[binding-problem]] — How hippocampal binding connects consciousness and memory
 - [[conscious-vs-unconscious-processing]] — Functional dissociations showing consciousness enables operations unconscious processing cannot
-- [[measurement-void]] — Why consciousness resists measurement at every level
+- [[observation-and-measurement-void]] — Why consciousness resists measurement at every level
 - [[experimental-consciousness-science-2025-2026]] — COGITATE results, split-brain unity, and other 2025-2026 findings bearing on NCC interpretation
 
 ## References

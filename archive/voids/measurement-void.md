@@ -43,6 +43,11 @@ last_deep_review: 2026-03-18T05:59:00+00:00
 coalesced_from:
   - "/voids/calibration-void/"
   - "/voids/quantification-void/"
+archived: true
+archived_date: 2026-03-28T06:57:00+00:00
+superseded_by: "/voids/observation-and-measurement-void/"
+archive_reason: "Coalesced into The Observation and Measurement Void"
+original_path: "/voids/measurement-void/"
 ---
 
 Phenomenal experience resists measurement at every level. There are no units of consciousness, no scales for qualia, no instruments that measure experience rather than its physical correlates, and no way to calibrate the one instrument that does detect consciousness directly—introspection. The barrier is structural, not technological: the medium through which all measurement occurs cannot itself be placed on the other side of a measuring instrument, and the only instrument on the same side cannot be checked against any independent standard.

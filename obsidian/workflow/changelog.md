@@ -5,6 +5,15 @@ ai_modified: 2026-03-28T06:12:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 06:57 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/observation-void]], [[voids/measurement-void]]
+- **Target**: [[voids/observation-and-measurement-void]]
+- **Archived**: archive/voids/observation-void.md, archive/voids/measurement-void.md
+- **References updated**: 25 files (11 observation-void, 14 measurement-void) in active content
+- **References to review**: Reviews and research files still reference old slugs (archive redirects will handle these)
+- **Net section change**: voids 100 → 99 (freed 1 slot)
+
 ## 2026-03-28 06:42 UTC - deep-review
 - **Status**: Success (cross-review)
 - **File**: [[concepts/evaluative-qualia]]

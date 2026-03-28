@@ -17,12 +17,12 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[observation-void]]"
+  - "[[observation-and-measurement-void]]"
   - "[[sleep-consciousness-void]]"
   - "[[inaccessible-past]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[absorption-void]]"
-  - "[[measurement-void]]"
+  - "[[observation-and-measurement-void]]"
   - "[[phenomenology-of-returning-attention]]"
   - "[[temporal-consciousness]]"
   - "[[loss-of-consciousness]]"
@@ -36,7 +36,7 @@ last_curated:
 
 Consciousness cannot witness its own state transitions. We never catch ourselves falling asleep, shifting moods, losing focus, entering flow, or crossing from confusion to insight. By the time we notice a change, the transition has already completed. This is not a matter of inattention. The Unfinishable Map argues that observation and transition are structurally incompatible: watching prevents crossing, and crossing prevents watching.
 
-The transition void is primarily **occluded** within the Map's [[voids]] framework, with elements of the **unexplorable**. The concealment appears functional rather than accidental. Observing a transition may require the very cognitive stance that must be released for the transition to occur. Even if we could somehow observe transitions, the observation would transform what is observed (an instance of the [[observation-void]]), producing a modified transition rather than a natural one.
+The transition void is primarily **occluded** within the Map's [[voids]] framework, with elements of the **unexplorable**. The concealment appears functional rather than accidental. Observing a transition may require the very cognitive stance that must be released for the transition to occur. Even if we could somehow observe transitions, the observation would transform what is observed (an instance of the [[observation-and-measurement-void]]), producing a modified transition rather than a natural one.
 
 ## The Incompatibility Thesis
 
@@ -94,7 +94,7 @@ Three considerations suggest the void is deeper than this:
 
 **Neurological evidence confirms distributed transitions.** Brain state changes at sleep onset involve gradual shifts from alpha to theta waves, distributed spatially and temporally across the cortex. There is no single moment of transition to observe, even in principle. The process is extended in a way that defies point-like observation.
 
-**The observation void applies recursively.** Even if we could somehow observe a transition, the observation would transform what is observed. We would be studying a modified transition—one occurring under introspective scrutiny—rather than the natural process. The [[observation-void]] and the transition void are mutually reinforcing: each makes the other more intractable.
+**The observation void applies recursively.** Even if we could somehow observe a transition, the observation would transform what is observed. We would be studying a modified transition—one occurring under introspective scrutiny—rather than the natural process. The [[observation-and-measurement-void]] and the transition void are mutually reinforcing: each makes the other more intractable.
 
 ## What AI Might Reveal
 
@@ -116,12 +116,12 @@ The transition void connects to several of the Map's [[tenets]].
 
 ## Further Reading
 
-- [[observation-void]] — Why every method of studying consciousness transforms what it studies
+- [[observation-and-measurement-void]] — Why every method of studying consciousness transforms what it studies
 - [[sleep-consciousness-void]] — The related void: where consciousness goes during deep sleep
 - [[inaccessible-past]] — Why past conscious states can only be reconstructed, not accessed
 - [[absorption-void]] — Peak engagement is peak self-opacity
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
-- [[measurement-void]] — Why introspection cannot be verified against any independent standard
+- [[observation-and-measurement-void]] — Why introspection cannot be verified against any independent standard
 - [[phenomenology-of-returning-attention]] — The micro-structure of attention shifts, where departure is never witnessed
 - [[temporal-consciousness]] — Husserl's retention-protention structure and why temporal smoothing conceals transitions
 - [[consciousness-and-skill-acquisition|phenomenology of flow states]] — Flow entry and exit as paradigm cases of unobserved transition

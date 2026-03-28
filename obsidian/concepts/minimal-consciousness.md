@@ -149,7 +149,7 @@ The concept matters for several reasons:
 - [[explanatory-gap]] — Why we cannot determine consciousness presence from structure
 - [[minimal-consciousness-void]] — Why consciousness cannot investigate its own lower bound
 - [[self-opacity|introspective opacity]] — Why we access mental contents but never the mechanisms producing them
-- [[observation-void]] — How every method of studying consciousness transforms what it studies
+- [[observation-and-measurement-void]] — How every method of studying consciousness transforms what it studies
 
 ## References
 

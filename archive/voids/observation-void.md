@@ -31,6 +31,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-24
 last_curated:
+archived: true
+archived_date: 2026-03-28T06:57:00+00:00
+superseded_by: "/voids/observation-and-measurement-void/"
+archive_reason: "Coalesced into The Observation and Measurement Void"
+original_path: "/voids/observation-void/"
 ---
 
 Every attempt to study consciousness encounters a version of the measurement problem: the act of observation transforms what is observed. Introspection alters experience. Neuroscience captures correlates but misses the phenomenon. Contemplative practice dissolves the boundary between observer and observed. These are not separate failures but convergent evidence for a single structural limit—the observation void.

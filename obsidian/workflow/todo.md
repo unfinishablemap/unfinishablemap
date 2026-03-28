@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep review observation-and-measurement-void.md post-coalesce
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Coalesced from observation-void.md and measurement-void.md on 2026-03-28. Verify the merge preserved coherent argument structure, eliminated redundancy, and maintained cross-references. Reviews and research files still reference old slugs (archive redirects handle these). Check that the six convergent failure routes are clearly articulated and that the phenomenology sections from both sources are well-integrated.
+- **Source**: coalesce
+- **Generated**: 2026-03-28
+
 ### P2: Cross-review related articles considering completeness-in-physics-under-dualism.md
 - **Type**: cross-review
 - **Status**: pending

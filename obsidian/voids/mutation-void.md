@@ -16,7 +16,7 @@ concepts:
   - "[[metacognition]]"
 related_articles:
   - "[[voids]]"
-  - "[[observation-void]]"
+  - "[[observation-and-measurement-void]]"
   - "[[thoughts-that-slip-away]]"
   - "[[defended-territory]]"
   - "[[self-opacity]]"
@@ -35,7 +35,7 @@ last_curated:
 
 Some thoughts cannot be held still. Not because they slip away like [[thoughts-that-slip-away|forgotten dreams]], or because we [[defended-territory|flinch from them]], or because their [[self-opacity|mechanisms are hidden]]. They mutate. The act of thinking them transforms their content, so that what arrives in consciousness is never quite what was there before attention reached for it. The Unfinishable Map calls this the mutation void—a region where the terrain reshapes itself under the cartographer's gaze.
 
-This void is distinct from the [[observation-void]], which concerns how studying consciousness alters what is studied. The mutation void is narrower and more radical: certain thought-contents are *constitutively unstable*. They do not merely change under observation; they cannot exist in their original form once consciousness attends to them. The pre-attended thought and the attended thought are different thoughts.
+This void is distinct from the [[observation-and-measurement-void]], which concerns how studying consciousness alters what is studied. The mutation void is narrower and more radical: certain thought-contents are *constitutively unstable*. They do not merely change under observation; they cannot exist in their original form once consciousness attends to them. The pre-attended thought and the attended thought are different thoughts.
 
 ## A Taxonomy of Mutating Thoughts
 
@@ -119,7 +119,7 @@ Current evidence favours structural instability. The convergence across contempl
 
 ## Further Reading
 
-- [[observation-void]] — The broader void where studying consciousness transforms what is studied
+- [[observation-and-measurement-void]] — The broader void where studying consciousness transforms what is studied
 - [[thoughts-that-slip-away]] — The phenomenology of cognitive slippage—related but distinct from mutation
 - [[self-opacity|introspective opacity]] — Why we access mental contents but never the mechanisms producing them
 - [[defended-territory]] — Systematic deflection from threatening content—distinct from involuntary transformation

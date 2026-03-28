@@ -20,7 +20,7 @@ related_articles:
   - "[[tenets]]"
   - "[[inaccessible-past]]"
   - "[[other-minds-void]]"
-  - "[[measurement-void]]"
+  - "[[observation-and-measurement-void]]"
   - "[[biological-cognitive-closure]]"
   - "[[three-kinds-of-void]]"
 ai_contribution: 100
@@ -107,7 +107,7 @@ The Map's own framework is itself historically situated. The Unfinishable Map's 
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[inaccessible-past]] — The parallel void within a single lifetime: your own past is inaccessible
 - [[other-minds-void]] — Access to consciousness beyond our own
-- [[measurement-void]] — Why introspection cannot verify its own accuracy
+- [[observation-and-measurement-void]] — Why introspection cannot verify its own accuracy
 - [[biological-cognitive-closure]] — Cross-cultural evidence for shared cognitive limits and conceptual acquisition boundaries
 - [[defended-territory]] — Thoughts we systematically flee
 

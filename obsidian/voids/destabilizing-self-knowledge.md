@@ -182,7 +182,7 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — Limit-experiences across traditions
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn on structural inaccessibility
 - [[transparency-void|The Transparency Void]] — Consciousness cannot verify its own representations
-- [[measurement-void|The Calibration Void]] — Introspection lacks independent calibration standards
+- [[observation-and-measurement-void|The Calibration Void]] — Introspection lacks independent calibration standards
 - [[transition-void|The Transition Void]] — Consciousness cannot witness its own state transitions
 
 ## References

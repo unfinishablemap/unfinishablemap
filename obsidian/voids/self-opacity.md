@@ -26,12 +26,12 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[observation-void]]"
+  - "[[observation-and-measurement-void]]"
   - "[[ownership-void]]"
   - "[[void-as-ground-of-meaning]]"
   - "[[narrative-void]]"
   - "[[limits-reveal-structure]]"
-  - "[[measurement-void]]"
+  - "[[observation-and-measurement-void]]"
   - "[[destabilizing-self-knowledge]]"
   - "[[constitutive-exclusion]]"
   - "[[causal-interface]]"
@@ -145,7 +145,7 @@ After millennia of contemplative practice and centuries of philosophical inquiry
 ## Further Reading
 
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
-- [[observation-void|The Observation Void]] — Every method of studying consciousness transforms what it studies
+- [[observation-and-measurement-void|The Observation Void]] — Every method of studying consciousness transforms what it studies
 - [[void-as-ground-of-meaning|The Void as Ground of Meaning]] — How cognitive limits are preconditions for meaning
 - [[destabilizing-self-knowledge|Destabilizing Self-Knowledge]] — When grasping truths about consciousness would undermine the capacity to hold them
 - [[narrative-void|The Narrative Void]] — How consciousness constructs self-stories it cannot audit
@@ -154,7 +154,7 @@ After millennia of contemplative practice and centuries of philosophical inquiry
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive boundaries illuminate architecture
 - [[involuntariness-void|The Involuntariness Void]] — Why consciousness cannot control its own states
 - [[creativity-void|The Creativity Void]] — Parallel opacity: creative process hidden, product accessible
-- [[measurement-void|The Calibration Void]] — Why introspection cannot verify its own reliability
+- [[observation-and-measurement-void|The Calibration Void]] — Why introspection cannot verify its own reliability
 - [[witness-consciousness|Witness Consciousness]] — The observer mode in contemplative traditions
 - [[constitutive-exclusion|The Constitutive Exclusion]] — The broader structural limit of which self-reference is a special case
 - [[ownership-void|The Ownership Void]] — Why experiences feel mine

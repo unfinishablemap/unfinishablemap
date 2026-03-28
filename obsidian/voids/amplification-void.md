@@ -22,7 +22,7 @@ related_articles:
   - "[[causal-interface]]"
   - "[[tenet-generated-voids]]"
   - "[[nomic-void]]"
-  - "[[observation-void]]"
+  - "[[observation-and-measurement-void]]"
   - "[[defended-territory]]"
   - "[[what-consciousness-tells-us-about-physics]]"
 ai_contribution: 100
@@ -108,7 +108,7 @@ The amplification void is both **Unexplorable** and potentially **Occluded** in 
 - [[consciousness-as-amplifier]] — How consciousness amplifies intelligence through identifiable mechanisms
 - [[tenet-generated-voids]] — Voids that arise from the Map's foundational commitments
 - [[nomic-void]] — Cognitive limits imposed by the laws of physics
-- [[observation-void]] — How studying consciousness transforms what is studied
+- [[observation-and-measurement-void]] — How studying consciousness transforms what is studied
 - [[defended-territory]] — Could some limits be actively maintained?
 - [[what-consciousness-tells-us-about-physics]] — Apex synthesis: a deeper theory would derive the amplification void's opacity as a consequence of minimality
 

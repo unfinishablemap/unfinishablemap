@@ -17,7 +17,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[observation-void]]"
+  - "[[observation-and-measurement-void]]"
   - "[[intrinsic-nature-void]]"
   - "[[self-opacity]]"
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ ai_generated_date: 2026-03-05
 last_curated:
 ---
 
-When consciousness partly constitutes reality rather than merely observing it, a structural exclusion arises: the observer can never access reality independent of their own constitutive contribution. The Unfinishable Map's [[observation-void]] describes how studying consciousness transforms what is studied. The constitutive exclusion cuts deeper. There is no pre-observation state of affairs to recover, because consciousness is already implicated in the existence of what it encounters. The distinction is between "looking changes what you see" and "what you see was never separate from your looking."
+When consciousness partly constitutes reality rather than merely observing it, a structural exclusion arises: the observer can never access reality independent of their own constitutive contribution. The Unfinishable Map's [[observation-and-measurement-void]] describes how studying consciousness transforms what is studied. The constitutive exclusion cuts deeper. There is no pre-observation state of affairs to recover, because consciousness is already implicated in the existence of what it encounters. The distinction is between "looking changes what you see" and "what you see was never separate from your looking."
 
 Six independent philosophical traditions converge on this conclusion. Kant's transcendental idealism, Heidegger's thrownness, Merleau-Ponty's phenomenology of perception, Nagel's critique of objectivity, Putnam's internal realism, and Wheeler's participatory universe all identify the same structural impossibility from different starting points. This convergence across analytic philosophy, Continental phenomenology, pragmatism, and theoretical physics constitutes strong evidence for a genuine limit rather than a historical blind spot.
 
@@ -65,7 +65,7 @@ That six traditions arrive at the same structural limit through independent reas
 
 The constitutive exclusion occupies specific territory within the Map's [[voids]] framework. Three related voids clarify what is distinctive here.
 
-The [[observation-void]] says: every attempt to study consciousness transforms what is studied. Introspection alters experience, neuroscience captures correlates but not the phenomenon, contemplative practice dissolves the observer-observed boundary. The constitutive exclusion goes further: there is no untransformed state to yearn for. Consciousness does not merely disturb a pre-existing reality—it participates in constituting what counts as reality.
+The [[observation-and-measurement-void]] says: every attempt to study consciousness transforms what is studied. Introspection alters experience, neuroscience captures correlates but not the phenomenon, contemplative practice dissolves the observer-observed boundary. The constitutive exclusion goes further: there is no untransformed state to yearn for. Consciousness does not merely disturb a pre-existing reality—it participates in constituting what counts as reality.
 
 The [[self-opacity|self-reference paradox]] says: consciousness cannot fully map itself because it is the mapper. That void concerns consciousness's relationship to *itself*. The constitutive exclusion concerns consciousness's relationship to *everything else*—to all of reality, not just the self.
 
@@ -119,7 +119,7 @@ The constitutive exclusion connects to all five of the Map's [[tenets]].
 
 ## Further Reading
 
-- [[observation-void]] — The transformation of consciousness under self-study
+- [[observation-and-measurement-void]] — The transformation of consciousness under self-study
 - [[self-opacity|self-reference paradox]] — Why consciousness cannot fully map itself
 - [[intrinsic-nature-void]] — Why physics captures structure but never intrinsic nature
 - [[hard-problem-of-consciousness]] — Why consciousness resists physical explanation

@@ -22,7 +22,7 @@ related_articles:
   - "[[three-kinds-of-void]]"
   - "[[dream-consciousness]]"
   - "[[altered-states-as-void-probes]]"
-  - "[[observation-void]]"
+  - "[[observation-and-measurement-void]]"
   - "[[thoughts-that-slip-away]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[self-opacity]]"
@@ -49,7 +49,7 @@ Sleep reveals that the boundaries of the thinkable shift depending on which cons
 
 The dream void has two faces.
 
-**From waking, looking toward dreams.** We cannot observe our dreaming consciousness while awake—an instance of the [[observation-void|observation void]], where the act of studying consciousness transforms what is studied. We receive only fragmentary, translated reports—dream memories that fade within minutes and lose coherence as they enter waking-compatible formats. The dream logic that felt valid during the dream becomes nonsense upon waking. Whatever cognitive operations allowed us to accept impossibilities—flying, meeting the dead, spatial paradoxes—cannot be recreated or even properly recalled.
+**From waking, looking toward dreams.** We cannot observe our dreaming consciousness while awake—an instance of the [[observation-and-measurement-void|observation void]], where the act of studying consciousness transforms what is studied. We receive only fragmentary, translated reports—dream memories that fade within minutes and lose coherence as they enter waking-compatible formats. The dream logic that felt valid during the dream becomes nonsense upon waking. Whatever cognitive operations allowed us to accept impossibilities—flying, meeting the dead, spatial paradoxes—cannot be recreated or even properly recalled.
 
 **From dreams, looking toward waking.** Within ordinary dreams, critical insight is systematically offline. We do not question the impossible. Autobiographical memory is absent or fragmentary—the dream-self often lacks knowledge of who it is. Executive functions that feel essential to "real" thinking are suspended.
 
@@ -172,7 +172,7 @@ The evidence currently favours genuine state-dependent inaccessibility. But the 
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[three-kinds-of-void]] — The taxonomy: unexplored, unexplorable, occluded
 - [[dream-consciousness]] — How dreams illuminate the consciousness-brain relationship
-- [[observation-void]] — Why observing consciousness transforms what is observed
+- [[observation-and-measurement-void]] — Why observing consciousness transforms what is observed
 - [[altered-states-as-void-probes]] — Whether altered states reveal or simulate transcendence of cognitive limits
 - [[transition-void]] — The void at the boundary between conscious states
 - [[thoughts-that-slip-away]] — Mechanisms of cognitive slippage

@@ -19,7 +19,7 @@ related_articles:
   - "[[tenets]]"
   - "[[temporal-void]]"
   - "[[resolution-void]]"
-  - "[[observation-void]]"
+  - "[[observation-and-measurement-void]]"
   - "[[sleep-consciousness-void]]"
   - "[[temporal-structure-of-consciousness]]"
   - "[[bergson-and-duration]]"
@@ -57,7 +57,7 @@ These frameworks have been debated for over a century without convergence. The f
 
 Any attempt to determine the temporal grain of consciousness encounters a circularity that [[introspection]] cannot escape. To time a conscious moment, consciousness must serve as both clock and phenomenon measured. If consciousness is discrete, the measuring act occupies a moment of the same grain as what it measures — it cannot be finer than itself. If consciousness is continuous, the act of marking a boundary creates one where none existed.
 
-Buddhist contemplative traditions encountered this problem two millennia ago. Vipassanā meditation claims to reveal the arising and passing of momentary mental events at extremely fine grain. Practitioners report perceiving individual *khaṇas* — discrete flashes of experience. But the [[observation-void]] applies here: the practice shapes what it observes. Intensive attention to temporal boundaries may construct discreteness rather than discovering it.
+Buddhist contemplative traditions encountered this problem two millennia ago. Vipassanā meditation claims to reveal the arising and passing of momentary mental events at extremely fine grain. Practitioners report perceiving individual *khaṇas* — discrete flashes of experience. But the [[observation-and-measurement-void]] applies here: the practice shapes what it observes. Intensive attention to temporal boundaries may construct discreteness rather than discovering it.
 
 Neuroscience approaches from the other direction but hits an analogous wall. Herzog, Kammer, and Scharnowski's two-stage model demonstrates that continuous unconscious processing precedes discrete conscious percepts. Feature fusion experiments show that stimuli presented in rapid succession merge into single percepts, and the colour phi phenomenon demonstrates post-dictive perception — the brain retroactively edits conscious experience, which is impossible under purely continuous models. "You need to process information continuously, but you cannot perceive it continuously" (Herzog et al., 2016). Yet even this finding only describes the *processing* that produces consciousness, not the phenomenal result. The temporal structure of neural computation need not match the temporal structure of the experience it generates — especially if, as the Map holds, consciousness is not reducible to neural processes.
 
@@ -97,7 +97,7 @@ The continuity void exemplifies why the Map is unfinishable. Not every question 
 
 - [[temporal-void]]
 - [[resolution-void]]
-- [[observation-void]]
+- [[observation-and-measurement-void]]
 - [[temporal-structure-of-consciousness]]
 - [[bergson-and-duration]]
 - [[temporal-consciousness]]

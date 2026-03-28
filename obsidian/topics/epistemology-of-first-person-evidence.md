@@ -34,7 +34,7 @@ related_articles:
   - "[[ethics-and-value-in-a-dualist-world]]"
   - "[[phenomenal-acquaintance]]"
   - "[[acquaintance-knowledge]]"
-  - "[[measurement-void]]"
+  - "[[observation-and-measurement-void]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[knowledge-argument]]"
   - "[[argument-from-reason]]"
@@ -56,7 +56,7 @@ coalesced_from:
 
 Consciousness science depends on first-person evidence — introspective reports of what experience is like — yet this evidence has no parallel in any other domain. It cannot be verified by external instruments, calibrated against independent standards, or replicated across observers in the way physical measurements can. The Unfinishable Map's arguments for dualism rest on taking this evidence seriously: the [[hard-problem-of-consciousness|hard problem]] arises because introspective knowledge reveals features of experience that physical description cannot capture. Understanding what introspection provides, how reliable it is, and why phenomenal reports are indispensable to science is therefore foundational to the Map's entire project.
 
-This article addresses three interlocking questions. What *kind* of knowledge does introspection provide — acquaintance, inner perception, transparent self-monitoring, or something without analogue? How *reliable* is that knowledge, given that the [[measurement-void]] makes strict calibration impossible? And what *role* should phenomenal reports play in science, given that eliminating them collapses the very research programmes that study consciousness?
+This article addresses three interlocking questions. What *kind* of knowledge does introspection provide — acquaintance, inner perception, transparent self-monitoring, or something without analogue? How *reliable* is that knowledge, given that the [[observation-and-measurement-void]] makes strict calibration impossible? And what *role* should phenomenal reports play in science, given that eliminating them collapses the very research programmes that study consciousness?
 
 ## Why Phenomenal Reports Are Indispensable
 
@@ -128,7 +128,7 @@ The Map's position is that introspection constitutes a sui generis epistemic cap
 
 ## Five Calibration Strategies
 
-Strict calibration against an independent standard is impossible — the [[measurement-void]] establishes this as structural. But five strategies collectively provide epistemic traction.
+Strict calibration against an independent standard is impossible — the [[observation-and-measurement-void]] establishes this as structural. But five strategies collectively provide epistemic traction.
 
 ### Strategy One: The Process/Content Distinction
 
@@ -204,7 +204,7 @@ A deeper challenge comes from traditions that dissolve the observer-observed bou
 - [[acquaintance-knowledge]] — Russell's distinction and its role in the knowledge argument
 - [[self-opacity|self-reference paradox]] — The structural impossibility of observing the observer
 - [[self-opacity|introspective opacity]] — Where introspective access fails structurally
-- [[measurement-void]] — Why strict calibration of introspection is structurally impossible
+- [[observation-and-measurement-void]] — Why strict calibration of introspection is structurally impossible
 - [[contemplative-epistemology]] — Systematic contemplative practice as knowledge source
 - [[contemplative-practice-as-philosophical-evidence]] — Cross-traditional convergence as methodology
 - [[methodology-of-consciousness-research]] — The methodological divide in consciousness science
