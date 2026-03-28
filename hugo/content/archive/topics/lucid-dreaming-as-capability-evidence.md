@@ -59,7 +59,7 @@ This interpretation explains a feature the brain-side account struggles with: wh
 
 ## Five Capability Signatures
 
-Lucid dreaming reveals specific capabilities that illuminate the division between brain-side and mind-side contributions. Each signature maps onto the [dual-domain framework](/concepts/memory-as-dual-domain-capability/): the brain provides representational infrastructure and architectural constraints, while consciousness contributes phenomenal rendering, intentional direction, and selective guidance. Dreaming makes this division visible because the brain's normal informational channel — sensory input — is closed.
+Lucid dreaming reveals specific capabilities that illuminate the division between brain-side and mind-side contributions. Each signature maps onto the [dual-domain framework](/concepts/episodic-memory/): the brain provides representational infrastructure and architectural constraints, while consciousness contributes phenomenal rendering, intentional direction, and selective guidance. Dreaming makes this division visible because the brain's normal informational channel — sensory input — is closed.
 
 The [capability division in waking vision](/concepts/capability-division-in-vision/) identifies the same boundary from the opposite direction. In vision, consciousness enters at the point of perceptual organisation — binding features into unified percepts, providing perceptual ownership, enabling flexible deployment across novel contexts. Lucid dreaming shows these same consciousness-requiring functions operating when sensory input is entirely absent, confirming they are not downstream consequences of sensory processing but contributions consciousness makes through neural architecture.
 
@@ -125,7 +125,7 @@ The filter model has a cleaner account. During waking, consciousness accesses se
 - [filter-theory](/concepts/filter-theory/) — The filter/transmission model of consciousness
 - [perception-and-conscious-experience](/topics/dualist-perception/) — How perception reveals the limits of physical description
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy
-- [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) — Memory as a parallel case of dual-domain capability
+- [memory-as-dual-domain-capability](/concepts/episodic-memory/) — Memory as a parallel case of dual-domain capability
 - [consciousness-and-memory](/topics/consciousness-and-memory/) — How memory straddles physical and phenomenal domains
 
 ## References

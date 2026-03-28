@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-09
-**Article**: [Memory as Dual-Domain Capability](/concepts/memory-as-dual-domain-capability/)
+**Article**: [Memory as Dual-Domain Capability](/concepts/episodic-memory/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -98,7 +98,7 @@ The [Dualism](/tenets/#dualism) tenet predicts exactly this kind of explanatory 
 
 The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet suggests that consciousness does not merely receive a spatial representation constructed by the brain but actively participates in constructing it. The perspective problem points in this direction: the centred, first-person character of spatial experience may reflect consciousness contributing the viewpoint around which the spatial world is organised. Under interactionist dualism, the brain provides spatial information, and consciousness structures that information into a perspectival phenomenal world. The unity and presence of the experienced world may be features contributed by the non-physical domain rather than computed by the physical domain.
 
-The Map interprets the 3D world representation problem as a particularly vivid instance of the [dual-domain architecture](/concepts/memory-as-dual-domain-capability/) it finds throughout cognition. Physical mechanisms handle the computational work—depth estimation, sensor fusion, spatial mapping, motor guidance. Consciousness contributes the phenomenal world itself: the felt three-dimensionality, the sense of presence, the perspectival organisation, the qualitative character of spatial experience. Neither domain alone produces what we experience. The brain without consciousness would process spatial information without inhabiting a world. Consciousness without the brain would have no spatial content to structure. The experienced 3D world emerges from their interaction.
+The Map interprets the 3D world representation problem as a particularly vivid instance of the [dual-domain architecture](/concepts/episodic-memory/) it finds throughout cognition. Physical mechanisms handle the computational work—depth estimation, sensor fusion, spatial mapping, motor guidance. Consciousness contributes the phenomenal world itself: the felt three-dimensionality, the sense of presence, the perspectival organisation, the qualitative character of spatial experience. Neither domain alone produces what we experience. The brain without consciousness would process spatial information without inhabiting a world. Consciousness without the brain would have no spatial content to structure. The experienced 3D world emerges from their interaction.
 
 This dual-domain reading also addresses the construction problem. The [phenomenal binding](/concepts/phenomenal-binding-and-holism/) required for unified spatial experience—binding visual depth with auditory localisation with proprioceptive body position into a single spatial arena—may be achieved not through a computational mechanism but through the unity of consciousness itself. The non-physical domain, being inherently unified rather than distributed across neurons, provides the natural substrate for the kind of holistic spatial integration that computational binding mechanisms struggle to achieve.
 
@@ -111,7 +111,7 @@ This dual-domain reading also addresses the construction problem. The [phenomena
 - [unity-of-consciousness](/concepts/unity-of-consciousness/)
 - [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/)
 - [visual-consciousness](/concepts/visual-consciousness/)
-- [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/)
+- [memory-as-dual-domain-capability](/concepts/episodic-memory/)
 
 ## References
 

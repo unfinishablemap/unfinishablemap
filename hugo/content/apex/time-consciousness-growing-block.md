@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-03-14 15:51:00+00:00
+ai_modified: 2026-03-28 12:42:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-14 15:51:00+00:00
 apex_sources:
 - topics/philosophy-of-time-and-consciousness
 - topics/time-collapse-and-agency
-- topics/time-perception-consciousness-theories
+- topics/temporal-structure-of-consciousness
 - topics/time-symmetric-selection-mechanism
 - concepts/temporal-consciousness
 - concepts/duration
@@ -174,7 +174,7 @@ This synthesis draws from:
 
 - [Philosophy of Time and Consciousness](/topics/temporal-structure-of-consciousness/) — The bidirectional dependence between time and consciousness
 - [Time, Collapse, and Agency](/topics/time-collapse-and-agency/) — How collapse introduces temporal direction and enables agency
-- [Time Perception and Consciousness Theories](/topics/temporal-structure-of-consciousness/) — The gap between functional moments and experienced duration
+- [Temporal Structure of Consciousness](/topics/temporal-structure-of-consciousness/) — The gap between functional moments and experienced duration
 - [Time-Symmetric Selection Mechanism](/topics/time-symmetric-selection-mechanism/) — How atemporal selection resolves the Libet problem
 - [Temporal Consciousness](/concepts/temporal-consciousness/) — The specious present, durée, temporal binding, temporal thickness, and AI implications
 - [Collapse and Time](/concepts/collapse-and-time/) — How quantum collapse may constitute time's arrow

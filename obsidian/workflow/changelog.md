@@ -5,6 +5,12 @@ ai_modified: 2026-03-28T07:42:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 13:57 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/illusionism]], [[concepts/filter-theory]]
+- **Changes**: Integrated Frankish functional-seeming research into illusionism concept page (qualia taxonomy, distortion thesis, Kammerer meta-cognitive account, zombie convergence, self-representation problem, circularity critique). Added illusionist challenge section to filter-theory connecting filter evidence to illusionist explanatory burden.
+- **Published**: yes
+
 ## 2026-03-28 13:40 UTC - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/what-it-might-be-like-to-be-an-ai]]

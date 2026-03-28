@@ -226,7 +226,7 @@ The Map's interpretation of dream consciousness would face difficulty if:
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The qualitative character of voluntary selection
 - [higher-order-theories](/concepts/higher-order-theories/) — Higher-Order Thought theories challenged by non-lucid dream consciousness
 - [capability-division-problem](/voids/capability-division-problem/) — Which capabilities belong to the brain and which to consciousness
-- [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) — Memory as a dual-domain capability requiring both physical and non-physical contributions
+- [memory-as-dual-domain-capability](/concepts/episodic-memory/) — Memory as a dual-domain capability requiring both physical and non-physical contributions
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Lucid dreaming as evidence for the capability division and mind-side rendering
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — The creative cycle and consciousness's role in incubation
 - [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) — The broader case for consciousness enabling human-level cognition

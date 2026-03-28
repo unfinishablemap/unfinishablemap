@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate Frankish functional-seeming research into illusionism responses
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research completed in research/illusionism-functional-seeming-2026-03-28.md. Three quantum mechanism articles (filter-theory, consciousness-selecting-neural-patterns, downward-causation) use the same regress argument against illusionism without engaging Frankish's functional-seeming response. Integrate the research findings: Frankish's quasi-phenomenal properties, the introspective misrepresentation argument, Kammerer's meta-cognitive account, and the circularity objections that strengthen the Map's position. Update illusionism concept page and at least one quantum mechanism article.
-- **Source**: chain (from illusionism-functional-seeming-2026-03-28.md)
-- **Generated**: 2026-03-28
-
-### P2: Create concept page for memory as dual-domain capability
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/memory-dual-domain-capability-2026-03-09.md. Memory as a capability requiring both brain-side (encoding, consolidation) and mind-side (episodic re-experiencing, autobiographical continuity) processing. No concept page exists despite references across 5+ articles (capability-division-problem, smoothness-problem, perceptual-fidelity-and-the-interface). Supports Tenet 3 (Bidirectional Interaction). Target section: concepts/ (225/230, 5 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-28
-
 ### P2: Write article on limits of parsimony arguments in consciousness science
 - **Type**: expand-topic
 - **Status**: pending
@@ -1602,6 +1588,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Integrate Frankish functional-seeming research into illusionism responses
+- **Type**: refine-draft
+- **Notes**: Research completed in research/illusionism-functional-seeming-2026-03-28.md. Three quantum mechanism articles (filter-theory, consciousness-selecting-neural-patterns, downward-causation) use the same regress argument against illusionism without engaging Frankish's functional-seeming response. Integrate the research findings: Frankish's quasi-phenomenal properties, the introspective misrepresentation argument, Kammerer's meta-cognitive account, and the circularity objections that strengthen the Map's position. Update illusionism concept page and at least one quantum mechanism article.
+- **Output**: Task context:
+Research completed in research/illusionism-functional-seeming-2026-03-28.md. Three quantum mechanism articles (filter-theory, consciousness-selecting-neural-patterns, downward-causation) use the same regress argument against illusionism without engaging Frankish's functional-seeming response. Integrate the research findings: Frankish's quasi-phenomenal properties, the introspective misrepresentation argument, Kammerer's meta-cognitive account, and the circularity objections that strengthen the Map's position. Update illusionism concept page and at least one quantum mechanism article.
+
+### ✓ 2026-03-28: Integrate Frankish functional-seeming research into illusionism responses
+- **Type**: refine-draft
+- **Notes**: Research completed in research/illusionism-functional-seeming-2026-03-28.md. Three quantum mechanism articles (filter-theory, consciousness-selecting-neural-patterns, downward-causation) use the same regress argument against illusionism without engaging Frankish's functional-seeming response. Integrate the research findings: Frankish's quasi-phenomenal properties, the introspective misrepresentation argument, Kammerer's meta-cognitive account, and the circularity objections that strengthen the Map's position. Update illusionism concept page and at least one quantum mechanism article.
+- **Output**: obsidian/concepts/illusionism.md, obsidian/concepts/filter-theory.md
 
 ### ✓ 2026-03-28: Research illusionism and Frankish's functional-seeming response to anti-illusionism arguments
 - **Type**: research-topic

@@ -60,7 +60,7 @@ Standard consolidation theory holds that memories transfer from hippocampus to c
 
 The phenomenological data favour MTT. Patients with hippocampal damage lose vivid episodic detail for both recent and remote memories while retaining semantic content—the opposite of what standard theory predicts, which would have remote memories safely cortical and therefore spared (Winocur & Moscovitch, 2011). The hippocampus appears essential for the experiential vividness of recall regardless of age, suggesting that the phenomenal dimension of memory depends on hippocampal re-engagement even decades later.
 
-For the Map's [dual-domain framework](/concepts/memory-as-dual-domain-capability/), this is significant. If phenomenal vividness tracks hippocampal involvement and propositional content tracks cortical storage, the two domains of memory—physical substrate and conscious experience—consolidate along different trajectories. The physical trace migrates and transforms; the phenomenal character depends on whether the hippocampal interface remains accessible. The brain side and the mind side of memory follow distinct consolidation paths.
+For the Map's [dual-domain framework](/concepts/episodic-memory/), this is significant. If phenomenal vividness tracks hippocampal involvement and propositional content tracks cortical storage, the two domains of memory—physical substrate and conscious experience—consolidate along different trajectories. The physical trace migrates and transforms; the phenomenal character depends on whether the hippocampal interface remains accessible. The brain side and the mind side of memory follow distinct consolidation paths.
 
 ## Reconsolidation: When Consciousness Re-engages
 
@@ -115,7 +115,7 @@ The transformation of memory through consolidation connects to each of the Map's
 ## Further Reading
 
 - [consciousness-and-memory](/topics/consciousness-and-memory/) — The comprehensive treatment of consciousness and memory systems
-- [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) — Memory's operation across physical and non-physical domains
+- [memory-as-dual-domain-capability](/concepts/episodic-memory/) — Memory's operation across physical and non-physical domains
 - [episodic-memory](/concepts/episodic-memory/) — The memory system most affected by consolidation's phenomenal transformation
 - [semantic-memory](/concepts/semantic-memory/) — The endpoint of full schematisation
 - [memory-void](/voids/inaccessible-past/) — Whether past experience is genuinely recoverable

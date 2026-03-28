@@ -54,11 +54,11 @@ Not applicable—this article is not based on a single source. Tulving attributi
 ### Enhancements Made
 - Added capability division framework reference in encoding-consolidation section, connecting the observed brain-side/mind-side split to the Map's explicit theoretical framework
 - Tightened the Binding Without Unity section (removed redundant waking/sleep comparison paragraph) to offset the addition
-- Added `[capability-division-problem](/voids/capability-division-problem/)` and `[memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/)` to related_articles frontmatter and Further Reading
+- Added `[capability-division-problem](/voids/capability-division-problem/)` and `[memory-as-dual-domain-capability](/concepts/episodic-memory/)` to related_articles frontmatter and Further Reading
 
 ### Cross-links Added
 - [capability-division-problem](/voids/capability-division-problem/)
-- [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/)
+- [memory-as-dual-domain-capability](/concepts/episodic-memory/)
 
 ## Cross-Review: Other Articles Modified
 
@@ -66,16 +66,16 @@ This review also added capability division cross-links to three related articles
 
 ### dream-consciousness.md
 - Added capability division reference in the configurations table discussion (line connecting different cognitive profiles to the capability division problem)
-- Added `[capability-division-problem](/voids/capability-division-problem/)` and `[memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/)` to related_articles and Further Reading
+- Added `[capability-division-problem](/voids/capability-division-problem/)` and `[memory-as-dual-domain-capability](/concepts/episodic-memory/)` to related_articles and Further Reading
 - Article remains at stability; changes are cross-link additions only
 
 ### sleep-and-consciousness.md
 - Added capability division reference in the memory consolidation section (consolidation as brain-side capability)
-- Added `[capability-division-problem](/voids/capability-division-problem/)` and `[memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/)` to related_articles and Further Reading
+- Added `[capability-division-problem](/voids/capability-division-problem/)` and `[memory-as-dual-domain-capability](/concepts/episodic-memory/)` to related_articles and Further Reading
 
 ### episodic-memory.md
 - Added dual-domain capability reference in the hard problem section (physical traces carry the *that*, consciousness contributes the *what it was like*)
-- Added `[capability-division-problem](/voids/capability-division-problem/)` and `[memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/)` to related_articles and Further Reading
+- Added `[capability-division-problem](/voids/capability-division-problem/)` and `[memory-as-dual-domain-capability](/concepts/episodic-memory/)` to related_articles and Further Reading
 
 ## Remaining Items
 

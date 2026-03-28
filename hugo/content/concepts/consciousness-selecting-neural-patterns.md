@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-25 16:30:00+00:00
+ai_modified: 2026-03-28 12:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -69,7 +69,7 @@ These aren't mutually exclusive—selection might operate at multiple levels sim
 
 ### How Selection Works
 
-Selection operates through the [quantum measurement process](/concepts/measurement-problem/). Physics determines the *distribution* of collapse outcomes but not which individual outcome becomes actual—the [definite outcomes problem](/topics/quantum-measurement-consciousness-interface/). [Causal closure](/concepts/causal-closure/) fails precisely where collapse occurs. Consciousness operates at this gap, selecting outcomes without competing with or overriding physical causes.
+Selection operates through the [quantum measurement process](/concepts/measurement-problem/). Physics determines the *distribution* of collapse outcomes but not which individual outcome becomes actual—the [definite outcomes problem](/topics/quantum-measurement-and-consciousness/). [Causal closure](/concepts/causal-closure/) fails precisely where collapse occurs. Consciousness operates at this gap, selecting outcomes without competing with or overriding physical causes.
 
 In Stapp's proposed formulation:
 

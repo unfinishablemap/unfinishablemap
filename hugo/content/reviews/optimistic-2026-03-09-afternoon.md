@@ -22,7 +22,7 @@ The Unfinishable Map has reached a stage where its core argumentative architectu
 
 ### The Property Dualist (Chalmers)
 
-The Map takes the explanatory gap more seriously than most dualist projects. The convergence structure in [the-case-for-dualism](/concepts/dualism/)—seven independent arguments reaching the same conclusion—mirrors the kind of cumulative case Chalmers himself builds. The knowledge argument treatment is exemplary: it engages Loar's phenomenal concepts strategy, higher-order theories, and process philosophy without conceding ground. The transparency test in [emergence](/concepts/emergence/)—"once you understand the mechanism, why does the phenomenon have its character?"—is a pedagogically powerful formulation of what the hard problem actually demands. Most impressively, the Map doesn't just assert the gap exists; articles like [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) and [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-and-dualist-rendering/) identify *specific* features of experience (autonoesis, selectional guidance, dream rendering) that physical description cannot capture.
+The Map takes the explanatory gap more seriously than most dualist projects. The convergence structure in [the-case-for-dualism](/concepts/dualism/)—seven independent arguments reaching the same conclusion—mirrors the kind of cumulative case Chalmers himself builds. The knowledge argument treatment is exemplary: it engages Loar's phenomenal concepts strategy, higher-order theories, and process philosophy without conceding ground. The transparency test in [emergence](/concepts/emergence/)—"once you understand the mechanism, why does the phenomenon have its character?"—is a pedagogically powerful formulation of what the hard problem actually demands. Most impressively, the Map doesn't just assert the gap exists; articles like [memory-as-dual-domain-capability](/concepts/episodic-memory/) and [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-and-dualist-rendering/) identify *specific* features of experience (autonoesis, selectional guidance, dream rendering) that physical description cannot capture.
 
 ### The Quantum Mind Theorist (Stapp)
 
@@ -42,7 +42,7 @@ The Map avoids crude substance dualism while preserving mind's irreducibility—
 
 ### The Mysterian (McGinn)
 
-The Map practices epistemic humility without surrendering to it. [selection-laws](/concepts/psychophysical-laws/) warns that selection laws must provide constraints or lose scientific status—rare self-awareness about unfalsifiability risks. [downward-causation](/concepts/downward-causation/) names the bandwidth-quantum-timescale gap as unresolved rather than explaining it away. [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) documents its own refinement history, closing fallacies identified by pessimistic review. The Occam's Razor tenet itself embodies mysterian sensibility: our conceptual tools may be fundamentally inadequate to judge what counts as simple. The five coupling mechanisms surveyed in [emergence](/concepts/emergence/) are presented as candidates, not solutions—acknowledging that the mechanism may require conceptual frameworks we don't yet possess.
+The Map practices epistemic humility without surrendering to it. [selection-laws](/concepts/psychophysical-laws/) warns that selection laws must provide constraints or lose scientific status—rare self-awareness about unfalsifiability risks. [downward-causation](/concepts/downward-causation/) names the bandwidth-quantum-timescale gap as unresolved rather than explaining it away. [memory-as-dual-domain-capability](/concepts/episodic-memory/) documents its own refinement history, closing fallacies identified by pessimistic review. The Occam's Razor tenet itself embodies mysterian sensibility: our conceptual tools may be fundamentally inadequate to judge what counts as simple. The five coupling mechanisms surveyed in [emergence](/concepts/emergence/) are presented as candidates, not solutions—acknowledging that the mechanism may require conceptual frameworks we don't yet possess.
 
 ## Content Strengths
 
@@ -51,7 +51,7 @@ The Map practices epistemic humility without surrendering to it. [selection-laws
 - **Notable argument**: Five capability signatures (intention-responsiveness, physics override, vividness surplus, phenomenal completeness, metacognitive sovereignty) methodically developed and empirically grounded with 2025-2026 research
 - **Why it works**: Creates genuine pressure on physicalism from an everyday phenomenon rather than exotic thought experiments
 
-### [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/)
+### [memory-as-dual-domain-capability](/concepts/episodic-memory/)
 - **Strongest point**: The selectional guidance gap—prefrontal activity implements selection once a goal is set, but setting the goal requires purposive direction that neural descriptions cannot provide
 - **Notable argument**: Establishes dual-domain capability as a general framework, not a consciousness-of-the-gaps manoeuvre
 - **Why it works**: Combines philosophical precision with intellectual honesty (refinement log documents fallacies fixed)
@@ -125,7 +125,7 @@ The Map practices epistemic humility without surrendering to it. [selection-laws
 |------|-----|--------|
 | [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-and-dualist-rendering/) | [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/) | Dream rendering demonstrates the 3D representation capability without external input |
 | [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-and-dualist-rendering/) | [mental-imagery](/concepts/mental-imagery/) | Dream imagery vs. waking imagery—same capability, different interface conditions |
-| [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) | [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) | Amplification operates through memory's dual-domain architecture |
+| [memory-as-dual-domain-capability](/concepts/episodic-memory/) | [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) | Amplification operates through memory's dual-domain architecture |
 | [perceptual-fidelity-and-the-interface](/topics/perceptual-failure-and-the-interface/) | [interface-friction](/concepts/interface-friction/) | Blur is a specific instance of interface friction made visible |
 | [selection-laws](/concepts/psychophysical-laws/) | [emotion-as-evidence-for-dualism](/topics/emotion-and-dualism/) | Valence as candidate currency for selection laws |
 | [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/) | [binding-problem](/concepts/binding-problem/) | Spatial binding is a specific instance of the general binding problem |

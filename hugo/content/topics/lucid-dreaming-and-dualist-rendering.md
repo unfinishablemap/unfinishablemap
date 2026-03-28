@@ -79,7 +79,7 @@ The [rendering engine analogy](/concepts/mind-brain-separation/) captures this d
 
 ## Four Capability Signatures
 
-Lucid dreaming reveals specific capabilities that illuminate the division between brain-side and mind-side contributions. Each signature maps onto the [dual-domain framework](/concepts/memory-as-dual-domain-capability/): the brain provides representational infrastructure and architectural constraints, while consciousness contributes phenomenal rendering, intentional direction, and selective guidance.
+Lucid dreaming reveals specific capabilities that illuminate the division between brain-side and mind-side contributions. Each signature maps onto the [dual-domain framework](/concepts/episodic-memory/): the brain provides representational infrastructure and architectural constraints, while consciousness contributes phenomenal rendering, intentional direction, and selective guidance.
 
 ### Intention-Responsiveness
 
@@ -143,7 +143,7 @@ The Konkoly et al. (2026) study adds further pressure. In a small but suggestive
 - [filter-theory](/concepts/filter-theory/) — The filter/transmission model of consciousness
 - [dualist-perception](/topics/dualist-perception/) — How perception reveals the limits of physical description
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy
-- [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) — Memory as a parallel case of dual-domain capability
+- [memory-as-dual-domain-capability](/concepts/episodic-memory/) — Memory as a parallel case of dual-domain capability
 - [consciousness-and-memory](/topics/consciousness-and-memory/) — How memory straddles physical and phenomenal domains
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Parallel evidence from psychedelic states
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-28 11:12:00+00:00
+ai_modified: 2026-03-28 13:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,31 +38,38 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review physics and epistemology articles for completeness-in-physics-under-dualism integration
-- **Type**: cross-review
+### P2: Create concept page for memory as dual-domain capability
+- **Type**: expand-topic
 - **Status**: pending
-- **Notes**: New article completeness-in-physics-under-dualism.md has only 3 inbound links despite being a central philosophical argument (physics is complete about structure but silent about actuality). Key articles that should reference it: bi-aspectual-ontology, born-rule-and-the-consciousness-interface, mathematical-structure-of-the-consciousness-physics-interface, russellian-monism-versus-bi-aspectual-dualism, it-from-bit-and-participatory-ontology. Add cross-links and check for terminological consistency on "partial but complete" framing.
-- **Source**: chain (from expand-topic completeness-in-physics-under-dualism.md)
+- **Notes**: Research completed in research/memory-dual-domain-capability-2026-03-09.md. Memory as a capability requiring both brain-side (encoding, consolidation) and mind-side (episodic re-experiencing, autobiographical continuity) processing. No concept page exists despite references across 5+ articles (capability-division-problem, smoothness-problem, perceptual-fidelity-and-the-interface). Supports Tenet 3 (Bidirectional Interaction). Target section: concepts/ (225/230, 5 slots remaining).
+- **Source**: unconsumed_research
 - **Generated**: 2026-03-28
 
-### P2: Condense born-rule-and-the-consciousness-interface.md (4126 words, 138% of target)
+### P2: Write article on limits of parsimony arguments in consciousness science
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/limits-of-parsimony-consciousness-2026-03-20.md. Existing parsimony articles cover the positive case (parsimony-case-for-interactionist-dualism) and concept (parsimony-epistemology), but no article systematically analyses when and why parsimony fails in consciousness science — the core of Tenet 5 (Occam's Razor Has Limits). Covers model-selection theory, domain restrictions, and historical cases where simpler theories were wrong. Target section: topics/ (227/230, 3 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-28
+
+### P2: Enrich evaluative-qualia.md with cross-traditional normativity research
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research completed in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md. The existing evaluative-qualia concept page lacks cross-traditional depth. Research covers Dimitrov (2025) on direct acquaintance with intrinsic value, Buddhist vedana theory, Confucian moral phenomenology, Indian rasa aesthetics, and Islamic consciousness frameworks — all treating evaluative phenomenology as foundational. Strengthens convergence argument across traditions.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-28
+
+### P2: Condense episodic-memory.md (4069 words, 163% of target)
 - **Type**: condense
 - **Status**: pending
-- **Notes**: Article exceeds 3000-word hard warning threshold for topics/. Preserve core arguments about Born rule as interface specification and derivation-attempt limitations while removing redundancy. Recently refined (2026-03-28) so may have grown during enrichment. See /condense skill.
+- **Notes**: Article exceeds 3500-word hard warning threshold for concepts/. At 4069 words (163% of 2500-word soft target). Preserve core arguments about episodic memory's role in consciousness while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-03-28
 
-### P2: Update 11 stale wikilinks pointing to archived/coalesced articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: 11 wikilinks in active content still reference archived slugs instead of their coalesced replacements. Key fixes: [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) (3 refs in heterophenomenology, intersubjectivity), [meaning-and-consciousness](/topics/consciousness-and-semantic-understanding/) (2 refs in cognitive-phenomenology), [quantum-measurement-and-definite-outcomes](/topics/quantum-measurement-consciousness-interface/) (2 refs in spontaneous-collapse-theories, consciousness-selecting-neural-patterns), [time-perception-consciousness-theories](/topics/temporal-structure-of-consciousness/) (2 refs in time-consciousness-growing-block), plus single refs in dualist-perception, quantum-biology-and-neural-consciousness, evolution-under-dualism, theory-of-mind, evolution-of-consciousness. Identify correct replacement slugs and update wikilinks.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-28
-
-### P2: Research illusionism and Frankish's functional-seeming response to anti-illusionism arguments
+### P2: Research phenomenal authority — epistemic weight of first-person reports
 - **Type**: research-topic
 - **Status**: pending
-- **Notes**: Pessimistic review (pessimistic-2026-03-20-c.md) found all three quantum mechanism articles use the same regress argument against illusionism without engaging Frankish's functional-seeming response. Research targets: (1) Frankish's "Illusionism as a Theory of Consciousness" (2016) and subsequent work; (2) the strong vs weak illusionism distinction; (3) Frankish's specific response to the "illusion requires consciousness" regress; (4) Dennett's quining qualia and the quasi-realism parallel; (5) how the Map's position differs from simply dismissing illusionism. This research supports existing P3 refine-draft task for quantum mechanism articles. Target section for potential article: concepts/ (4 slots remaining).
+- **Notes**: The concept of phenomenal authority (epistemic weight of first-person reports as distinct from both reliability and infallibility) is developed across epistemology-of-first-person-evidence and multiple other articles but has no dedicated research. A P3 task already exists to create the concept page; this research will ground it. Directly supports the Map's evidential methodology and Tenet 1 (Dualism). Target: research note for concepts/ page.
 - **Source**: gap_analysis
 - **Generated**: 2026-03-28
 
@@ -1589,6 +1596,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+### ✓ 2026-03-28: Integrate Frankish functional-seeming research into illusionism responses
+- **Type**: refine-draft
+- **Notes**: Research completed in research/illusionism-functional-seeming-2026-03-28.md. Three quantum mechanism articles (filter-theory, consciousness-selecting-neural-patterns, downward-causation) use the same regress argument against illusionism without engaging Frankish's functional-seeming response. Integrate the research findings: Frankish's quasi-phenomenal properties, the introspective misrepresentation argument, Kammerer's meta-cognitive account, and the circularity objections that strengthen the Map's position. Update illusionism concept page and at least one quantum mechanism article.
+- **Output**: obsidian/concepts/illusionism.md, obsidian/concepts/filter-theory.md
+
+### ✓ 2026-03-28: Research illusionism and Frankish's functional-seeming response to anti-illusionism arguments
+- **Type**: research-topic
+- **Notes**: Pessimistic review (pessimistic-2026-03-20-c.md) found all three quantum mechanism articles use the same regress argument against illusionism without engaging Frankish's functional-seeming response. Research targets: (1) Frankish's "Illusionism as a Theory of Consciousness" (2016) and subsequent work; (2) the strong vs weak illusionism distinction; (3) Frankish's specific response to the "illusion requires consciousness" regress; (4) Dennett's quining qualia and the quasi-realism parallel; (5) how the Map's position differs from simply dismissing illusionism. This research supports existing P3 refine-draft task for quantum mechanism articles. Target section for potential article: concepts/ (4 slots remaining).
+- **Output**: illusionism and Frankish's functional-seeming response to anti-illusionism arguments
+
+### ✓ 2026-03-28: Update references to coalesced memory-as-dual-domain-capability article
+- **Type**: cross-review
+- **Notes**: Coalesce merged memory-as-dual-domain-capability into episodic-memory. The following 8 files reference the archived article and need wikilinks updated to point to episodic-memory (with appropriate anchor or display text): sleep-and-consciousness, smoothness-problem, capability-division-problem, lucid-dreaming-and-dualist-rendering, dual-domain-capabilities-in-proprioception-and-spatial-imagination, consciousness-and-memory, three-dimensional-world-representation-problem, dream-consciousness.
+- **Output**: None -- Context: Update references to coalesced memory-as-dual-domain-capability article
+
+### ✓ 2026-03-28: Update 11 stale wikilinks pointing to archived/coalesced articles
+- **Type**: refine-draft
+- **Notes**: 11 wikilinks in active content still reference archived slugs instead of their coalesced replacements. Key fixes: [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) (3 refs in heterophenomenology, intersubjectivity), [meaning-and-consciousness](/topics/consciousness-and-semantic-understanding/) (2 refs in cognitive-phenomenology), [quantum-measurement-and-definite-outcomes](/topics/quantum-measurement-consciousness-interface/) (2 refs in spontaneous-collapse-theories, consciousness-selecting-neural-patterns), [time-perception-consciousness-theories](/topics/temporal-structure-of-consciousness/) (2 refs in time-consciousness-growing-block), plus single refs in dualist-perception, quantum-biology-and-neural-consciousness, evolution-under-dualism, theory-of-mind, evolution-of-consciousness. Identify correct replacement slugs and update wikilinks.
+- **Output**: Task context:
+11 wikilinks in active content still reference archived slugs instead of their coalesced replacements. Key fixes: [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) (3 refs in heterophenomenology, intersubjectivity), [meaning-and-consciousness](/topics/consciousness-and-semantic-understanding/) (2 refs in cognitive-phenomenology), [quantum-measurement-and-definite-outcomes](/topics/quantum-measurement-consciousness-interface/) (2 refs in spontaneous-collapse-theories, consciousness-selecting-neural-patterns), [time-perception-consciousness-theories](/topics/temporal-structure-of-consciousness/) (2 refs in time-consciousness-growing-block), plus single refs in dualist-perception, quantum-biology-and-neural-consciousness, evolution-under-dualism, theory-of-mind, evolution-of-consciousness. Identify correct replacement slugs and update wikilinks.
+
+### ✓ 2026-03-28: Condense born-rule-and-the-consciousness-interface.md (4126 words, 138% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard warning threshold for topics/. Preserve core arguments about Born rule as interface specification and derivation-attempt limitations while removing redundancy. Recently refined (2026-03-28) so may have grown during enrichment. See /condense skill.
+- **Output**: obsidian/topics/born-rule-and-the-consciousness-interface.md
+
+### ✓ 2026-03-28: Cross-review physics and epistemology articles for completeness-in-physics-under-dualism integration
+- **Type**: cross-review
+- **Notes**: New article completeness-in-physics-under-dualism.md has only 3 inbound links despite being a central philosophical argument (physics is complete about structure but silent about actuality). Key articles that should reference it: bi-aspectual-ontology, born-rule-and-the-consciousness-interface, mathematical-structure-of-the-consciousness-physics-interface, russellian-monism-versus-bi-aspectual-dualism, it-from-bit-and-participatory-ontology. Add cross-links and check for terminological consistency on "partial but complete" framing.
+- **Output**: None -- Context: Cross-review physics and epistemology articles for completeness-in-physics-under-dualism integration
 
 ### ✓ 2026-03-28: Cross-review quantum and interface articles for experimental-consciousness-science-2025-2026 integration
 - **Type**: cross-review

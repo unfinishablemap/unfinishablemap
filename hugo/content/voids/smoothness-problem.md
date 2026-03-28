@@ -97,7 +97,7 @@ This resonates with [Whitehead's process philosophy](/concepts/process-philosoph
 ## Further Reading
 
 - [capability-division-problem](/voids/capability-division-problem/) — The general problem of dividing capabilities between brain and mind
-- [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) — The memory instance of capability division
+- [memory-as-dual-domain-capability](/concepts/episodic-memory/) — The memory instance of capability division
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present, durée, and temporal phenomenology
 - [binding-problem](/concepts/binding-problem/) — Spatial cousin of the smoothness problem
 - [grain-mismatch](/concepts/grain-mismatch/) — The spatial face of the same structural incompatibility between phenomenal smoothness and neural discreteness

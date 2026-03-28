@@ -4,7 +4,7 @@ description: "The brain transmits and constrains consciousness rather than produ
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-26T12:02:00+00:00
+ai_modified: 2026-03-28T13:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,6 +30,7 @@ concepts:
   - "[[measurement-problem]]"
   - "[[terminal-lucidity]]"
   - "[[death-and-consciousness]]"
+  - "[[illusionism]]"
 related_articles:
   - "[[tenets]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
@@ -144,6 +145,16 @@ Yes, but so is "production." Saying the brain "produces" consciousness is equall
 
 Filter theory organizes expectations differently: disrupting the filter *could* sometimes enhance experience (psychedelics, some NDEs), whereas production models would not naturally expect this. However, without independent criteria for which disruptions should enhance versus degrade, this remains a pattern-level asymmetry rather than a precise testable prediction. Other distinguishing expectations: consciousness could interface through different physical substrates; trained meditators who reduce the filter's grip should report more consistent phenomenology (Fox et al. 2012 provides tentative support). These aren't decisive tests, but they show filter theory generates different research questions than production models.
 
+## The Illusionist Challenge
+
+[[illusionism|Illusionists]] argue that if phenomenal consciousness is an introspective illusion, there is nothing independent to filter—the brain is neither producing nor transmitting consciousness, because consciousness as filter theory conceives it doesn't exist. Frankish's (2016) functional-seeming account proposes that what we call "experience" consists entirely of quasi-phenomenal properties: functional states that introspection misrepresents as having phenomenal character.
+
+Filter theory faces this challenge in a distinctive way. The [[#evidence-supporting-filter-theory|evidence that motivates filter theory]]—psychedelic enhancement, anaesthetic divergence, covert consciousness, terminal lucidity—involves cases where disrupting brain activity changes *what it's like* to be the subject. These are not merely changes in functional reports; they are changes in the character of experience that the subjects describe in phenomenal terms. The illusionist must explain each of these cases as changes in quasi-phenomenal states—functional changes that merely *seem* phenomenal.
+
+The psychedelic paradox poses a specific difficulty. Reduced DMN activity correlates with reports of *expanded*, *more vivid* experience. On Frankish's account, disrupting neural organisation should produce disrupted functional states—not functional states that systematically represent themselves as phenomenally richer. The illusionist can propose that DMN disruption alters the introspective misrepresentation mechanism itself, generating enhanced quasi-phenomenal representations without enhanced phenomenal experience. But this response compounds the explanatory burden: we now need an account of why disrupting one neural system produces *systematically enhanced* misrepresentation in another, rather than degraded or chaotic misrepresentation.
+
+The filter framework doesn't decisively refute functional seeming. But it organises the evidence in a way that makes the illusionist's explanatory task harder: each anomalous case (enhancement from disruption, consciousness without behaviour, cognitive return despite structural damage) requires a separate quasi-phenomenal explanation that strains the parsimony illusionism was supposed to provide.
+
 ## Relation to Site Perspective
 
 Filter theory supports and is supported by the Map's [[tenets|foundational commitments]]:
@@ -189,6 +200,7 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 1. Claassen, J., et al. (2019). Detection of brain activation in unresponsive patients with acute brain injury. *New England Journal of Medicine*, 380(26), 2497-2505.
 1. Carhart-Harris, R., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *PNAS*, 109(6), 2138-2143.
 1. Carhart-Harris, R. & Friston, K. (2019). REBUS and the anarchic brain: Toward a unified model of the brain action of psychedelics. *Pharmacological Reviews*, 71(3), 316-344.
+1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Huxley, A. (1954). *The Doors of Perception*. Chatto & Windus.
 1. James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin.
@@ -201,15 +213,16 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 1. Sanders, R. D., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8.
 1. Van Lommel, P., et al. (2001). "Near-death experience in survivors of cardiac arrest." *The Lancet*, 358(9298), 2039-2045.
 
-<!-- AI REFINEMENT LOG - 2026-03-26
+<!-- AI REFINEMENT LOG - 2026-03-28
 Changes made:
-- Qualified "distinctive predictions" claim: filter theory allows enhancement from disruption but lacks independent criteria for when enhancement vs. degradation should occur; acknowledged this is pattern-level, partly post hoc
-- Corrected engram research reading: Josselyn & Tonegawa 2020 more naturally supports storage-and-retrieval than Bergson's eliminative filter; removed tendentious "partially supports this" framing
-- Added selection bias qualification to terminal lucidity evidence: Batthyány & Greyson 2020 cases are retrospective caregiver reports with no controls; prevalence/completeness remain uncertain pending prospective study
-- Updated objection response (§"How could we ever distinguish...") to match revised prediction framing
+- Added "The Illusionist Challenge" section engaging Frankish's functional-seeming account
+- Connected filter theory's evidence base (psychedelic paradox, anaesthetic divergence, covert consciousness) to illusionist explanatory burden
+- Argued that filter theory's anomalous cases compound the illusionist's parsimony claim
+- Added illusionism to concepts list
+- Added Frankish (2016) to references
 
-Based on pessimistic review (pessimistic-2026-03-26.md).
-Key improvements: intellectual honesty on three overstatements.
+Based on research in illusionism-functional-seeming-2026-03-28.md.
+Key improvements: Filter theory now engages illusionism directly rather than ignoring it.
 
 This log should be removed after human review.
 -->

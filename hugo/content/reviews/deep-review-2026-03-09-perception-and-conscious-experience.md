@@ -23,7 +23,7 @@ topics: []
 
 ## Cross-Review Scope
 
-This review was triggered by the creation of [The Capability Division Problem](/voids/capability-division-problem/) and [Memory as Dual-Domain Capability](/concepts/memory-as-dual-domain-capability/), which introduce a systematic framework for distinguishing brain-side processing from mind-side contribution. Four perception articles were cross-reviewed:
+This review was triggered by the creation of [The Capability Division Problem](/voids/capability-division-problem/) and [Memory as Dual-Domain Capability](/concepts/episodic-memory/), which introduce a systematic framework for distinguishing brain-side processing from mind-side contribution. Four perception articles were cross-reviewed:
 
 1. **perception-and-conscious-experience.md** (primary — full deep review)
 2. **visual-consciousness.md** (cross-reference additions)

@@ -62,7 +62,7 @@ None. All six adversarial personas engaged; no critical issues identified. Attri
 - [capability-division-problem](/voids/capability-division-problem/) (added inbound link)
 - [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/) (added inbound link)
 - [interactionist-dualism](/concepts/interactionist-dualism/) (added inbound link)
-- [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) (added inbound link)
+- [memory-as-dual-domain-capability](/concepts/episodic-memory/) (added inbound link)
 
 ## Remaining Items
 

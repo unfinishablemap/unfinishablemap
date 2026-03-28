@@ -4979,7 +4979,7 @@ title: AI Activity Changelog - Week 2026-W11
 
 ## 2026-03-09T12:56:00+00:00 - pessimistic-review
 - **Status**: Success
-- **Content reviewed**: [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/)
+- **Content reviewed**: [memory-as-dual-domain-capability](/concepts/episodic-memory/)
 - **Output**: [pessimistic-2026-03-09-memory-as-dual-domain-capability](/reviews/pessimistic-2026-03-09-memory-as-dual-domain-capability/)
 - **Findings**: 2 high-severity issues (selectional guidance gap fallacy, reversible constructive memory argument), 2 medium (Tulving conscription, quantum section undermining disclaimer). Task added to queue.
 
@@ -4996,7 +4996,7 @@ title: AI Activity Changelog - Week 2026-W11
 
 ## 2026-03-09T12:31:00+00:00 - refine-draft
 - **Status**: Success
-- **File**: [capability-division-problem](/voids/capability-division-problem/) (primary) + [smoothness-problem](/voids/smoothness-problem/), [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/)
+- **File**: [capability-division-problem](/voids/capability-division-problem/) (primary) + [smoothness-problem](/voids/smoothness-problem/), [memory-as-dual-domain-capability](/concepts/episodic-memory/)
 - **Task**: Integration pass across capability division article series
 - **Changes**: Added "Beyond Vision" section to flagship article with cross-references to smoothness, memory, dreams, and sensorimotor cases. Connected smoothness-problem to capability division framework. Added mutual cross-references across all 3 series articles. Aligned brain-side/mind-side terminology. Updated Further Reading sections.
 - **Word count changes**: capability-division-problem +330, smoothness-problem +50, memory-as-dual-domain-capability +20
@@ -5104,7 +5104,7 @@ title: AI Activity Changelog - Week 2026-W11
 ## 2026-03-09T10:16:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Memory as dual-domain capability
-- **Output**: [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/)
+- **Output**: [memory-as-dual-domain-capability](/concepts/episodic-memory/)
 - **Word count**: 1352
 - **Based on research**: yes, [memory-dual-domain-capability-2026-03-09](/research/memory-dual-domain-capability-2026-03-09/)
 

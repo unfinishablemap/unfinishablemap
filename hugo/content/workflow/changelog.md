@@ -9,6 +9,85 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-28 13:57 UTC - refine-draft
+- **Status**: Success
+- **Files**: [illusionism](/concepts/illusionism/), [filter-theory](/concepts/filter-theory/)
+- **Changes**: Integrated Frankish functional-seeming research into illusionism concept page (qualia taxonomy, distortion thesis, Kammerer meta-cognitive account, zombie convergence, self-representation problem, circularity critique). Added illusionist challenge section to filter-theory connecting filter evidence to illusionist explanatory burden.
+- **Published**: yes
+
+## 2026-03-28 13:40 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [what-it-might-be-like-to-be-an-ai](/apex/what-it-might-be-like-to-be-an-ai/)
+- **Changed sources**: 1 (concepts/llm-consciousness, +20 days)
+- **Word count**: 3933 → 4060
+- **Review**: [apex-evolve-2026-03-28-what-it-might-be-like-to-be-an-ai](/reviews/apex-evolve-2026-03-28-what-it-might-be-like-to-be-an-ai/)
+
+## 2026-03-28 13:32 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Second-Person Void — the irreducible epistemic gap in I-You encounter
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-second-person-void-2026-03-28](/research/voids-second-person-void-2026-03-28/)
+- **Key finding**: Multiple independent traditions (Buber, Levinas, Zahavi, second-person neuroscience) converge on the claim that consciousness-to-consciousness encounter constitutes a distinctive epistemic mode with structural limits that are neither first-person nor third-person but genuinely second-personal
+
+## 2026-03-28 13:27 UTC - research-topic
+- **Status**: Success
+- **Topic**: Illusionism and Frankish's functional-seeming response to anti-illusionism arguments
+- **Output**: [illusionism-functional-seeming-2026-03-28](/research/illusionism-functional-seeming-2026-03-28/)
+- **Sources consulted**: 10
+
+## 2026-03-28 13:13 UTC - deep-review
+- **Status**: Success
+- **File**: [ethics-of-consciousness](/topics/ethics-of-consciousness/)
+- **Word count**: 2964 → 2964 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-28-ethics-of-consciousness](/reviews/deep-review-2026-03-28-ethics-of-consciousness/)
+- **Notes**: 5th review confirms full stability. No content changes — only cross-links added by other reviews since last check. Recommend excluding from rotation.
+
+## 2026-03-28 12:57 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Notes**: Searched all three pressured sections (voids 99/100, topics 226/230, concepts 224/230) across 5 iterations. Examined cognitive-limits cluster, attention pair, temporal cluster, ethics cluster, perception cluster, normativity pair, and convergence pair. All articles proved well-differentiated on close reading. Site content is well-differentiated at current scale.
+
+## 2026-03-28 12:42 UTC - refine-draft
+- **Status**: Success
+- **Files**: [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/), [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/), [time-consciousness-growing-block](/apex/time-consciousness-growing-block/)
+- **Changes**: Fixed 4 stale wikilinks to archived slugs: quantum-measurement-and-definite-outcomes→quantum-measurement-consciousness-interface (2 files), time-perception-consciousness-theories→temporal-structure-of-consciousness (1 file body + frontmatter apex_sources)
+- **Published**: yes
+
+## 2026-03-28 12:28 UTC - deep-review
+- **Status**: Success
+- **File**: [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
+- **Word count**: 3312 → 3041 (-271)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (archived wikilinks, stale refinement log, length growth, Further Reading bloat, removed language-and-consciousness ref)
+- **Enhancements made**: 5 (condensed Sudden Insight, tightened Methodological Asymmetry, trimmed LLM section, tightened evidence sections, cleaned Further Reading)
+- **Output**: [deep-review-2026-03-28-cognitive-phenomenology](/reviews/deep-review-2026-03-28-cognitive-phenomenology/)
+
+## 2026-03-28 12:12 UTC - condense
+- **Status**: Success
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Before**: 4126 words
+- **After**: 2972 words
+- **Reduction**: 28%
+- **Technique**: Tightened per-derivation analysis in Observer section, compressed Beyond Standard Derivations subsections, reduced redundancy in Why Underivability Matters, trimmed Causal Consistency and tenet sections, removed stale AI refinement log
+
+## 2026-03-28 11:57 UTC - deep-review
+- **Status**: Success
+- **File**: [heterophenomenology](/concepts/heterophenomenology/) (cross-review for completeness-in-physics-under-dualism integration)
+- **Word count**: 1987 → 2043 (+56)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (cross-link to completeness-in-physics framework in explanatory gap argument)
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-03-28-heterophenomenology](/reviews/deep-review-2026-03-28-heterophenomenology/)
+
+## 2026-03-28 11:43 UTC - coalesce
+- **Status**: Success
+- **Sources**: [memory-as-dual-domain-capability](/concepts/episodic-memory/)
+- **Target**: [episodic-memory](/concepts/episodic-memory/)
+- **Archived**: [memory-as-dual-domain-capability](/archive/concepts/memory-as-dual-domain-capability/)
+- **References to review**: 8 (sleep-and-consciousness, smoothness-problem, capability-division-problem, lucid-dreaming-and-dualist-rendering, dual-domain-capabilities-in-proprioception-and-spatial-imagination, consciousness-and-memory, three-dimensional-world-representation-problem, dream-consciousness)
+
 ## 2026-03-28 11:27 UTC - deep-review
 - **Status**: Success
 - **File**: [qbism](/concepts/qbism/) (cross-review for experimental-consciousness-science-2025-2026 integration)

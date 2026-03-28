@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-03-09
 **Article**: [Lucid Dreaming as Capability Evidence](/topics/lucid-dreaming-and-dualist-rendering/)
 **Previous review**: Never
-**Cross-review context**: Reviewed in light of dual-domain capability framework from [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/)
+**Cross-review context**: Reviewed in light of dual-domain capability framework from [memory-as-dual-domain-capability](/concepts/episodic-memory/)
 
 ## Pessimistic Analysis Summary
 
@@ -59,7 +59,7 @@ topics: []
 - Updated concepts frontmatter to reflect actual body content
 
 ### Cross-links Added
-- [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) (now referenced in body text)
+- [memory-as-dual-domain-capability](/concepts/episodic-memory/) (now referenced in body text)
 - [consciousness-and-memory](/topics/consciousness-and-memory/) (added to Further Reading and related_articles)
 
 ## Remaining Items
