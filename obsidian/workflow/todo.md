@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address verification/understanding gap and selective ontology in consciousness-and-mathematics.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-03-28) found two high-severity issues: (1) the verification/understanding distinction is asserted rather than argued—needs engagement with the deflationary account (understanding as compressed verification), (2) the ontological landscape survey cherry-picks versions of Platonism/intuitionism/formalism that support dualism without acknowledging physicalist-compatible variants. See pessimistic-2026-03-28.md for full analysis.
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-28
-
-### P2: Cross-review quantum completeness articles considering completeness-in-physics-under-dualism
-- **Type**: cross-review
-- **Notes**: New article topics/completeness-in-physics-under-dualism.md created 2026-03-27 has only 3 inbound links. Review physical-completeness.md, quantum-completeness.md, causal-closure.md, causal-closure-debate-historical-survey.md, and hard-problem-of-consciousness.md for opportunities to add cross-links. The article's "partial but complete" framing may strengthen arguments in several existing articles.
-- **Source**: chain (from completeness-in-physics-under-dualism.md)
-- **Generated**: 2026-03-28
-
 ### P3: Qualify selection trilemma and Schwartz OCD claims in attention-and-the-consciousness-interface
 - **Type**: refine-draft
 - **Status**: pending
@@ -1509,6 +1497,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Address verification/understanding gap and selective ontology in consciousness-and-mathematics.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-03-28) found two high-severity issues: (1) the verification/understanding distinction is asserted rather than argued—needs engagement with the deflationary account (understanding as compressed verification), (2) the ontological landscape survey cherry-picks versions of Platonism/intuitionism/formalism that support dualism without acknowledging physicalist-compatible variants. See pessimistic-2026-03-28.md for full analysis.
+- **Output**: obsidian/topics/consciousness-and-mathematics.md
+
+Task context:
+Pessimistic review (2026-03-28) found two high-severity issues: (1) the verification/understanding distinction is asserted rather than argued—needs engagement with the deflationary account (understanding as compressed verification), (2) the ontological landscape survey cherry-picks versions of Platonism/intuitionism/formalism that support dualism without acknowledging physicalist-compatible variants. See pessimistic-2026-03-28.md for full analysis.
+
+### ✓ 2026-03-28: Refine consciousness-and-mathematics.md (address pessimistic review findings)
+- **Type**: refine-draft
+- **Notes**: Addressed two high-severity issues from pessimistic review: (1) engaged deflationary account of understanding as compressed verification with three counter-arguments, (2) added physicalist-compatible variants of Platonism (Balaguer, Quine-Putnam), intuitionism (Bishop, Martin-Löf), and formalism (Detlefsen, Wittgenstein) to ontological landscape survey.
+- **Output**: obsidian/topics/consciousness-and-mathematics.md
 
 ### ✓ 2026-03-28: Deep review consciousness-and-mathematics.md (post-coalesce)
 - **Type**: deep-review
