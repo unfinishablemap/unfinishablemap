@@ -5,6 +5,12 @@ ai_modified: 2026-03-28T07:42:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 09:57 UTC - refine-draft
+- **Status**: Success
+- **File**: [[russellian-monism-versus-bi-aspectual-dualism]]
+- **Changes**: Expanded single Hashemi section into full dual-aspect tradition coverage (Spinoza, Fechner, Pauli-Jung, Bohm-Pylkkänen, Hashemi); added progressive trajectory analysis; incorporated research from two bi-aspectual ontology research notes; added 6 new references
+- **Published**: yes
+
 ## 2026-03-28 09:42 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/consciousness-and-creativity]]

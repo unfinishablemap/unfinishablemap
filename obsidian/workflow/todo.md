@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate bi-aspectual ontology research into russellian-monism-versus-bi-aspectual-dualism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/bi-aspectual-ontology-dual-aspect-traditions-2026-03-14.md and research/bi-aspectual-ontology-dual-aspect-traditions-2026-03-16.md covers Spinoza's dual-aspect monism, Pauli-Jung psychophysical complementarity, and the broader dual-aspect landscape. The existing Russellian monism comparison article should be enriched with these additional tradition comparisons to position the Map's bi-aspectual dualism more precisely against historical precedents.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-28
-
 ### P2: Strengthen cross-links for minimally-connected files
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1567,6 +1560,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Integrate bi-aspectual ontology research into russellian-monism-versus-bi-aspectual-dualism.md
+- **Type**: refine-draft
+- **Notes**: Research in research/bi-aspectual-ontology-dual-aspect-traditions-2026-03-14.md and research/bi-aspectual-ontology-dual-aspect-traditions-2026-03-16.md covers Spinoza's dual-aspect monism, Pauli-Jung psychophysical complementarity, and the broader dual-aspect landscape. The existing Russellian monism comparison article should be enriched with these additional tradition comparisons to position the Map's bi-aspectual dualism more precisely against historical precedents.
+- **Output**: obsidian/topics/russellian-monism-versus-bi-aspectual-dualism.md
+
+Task context:
+Research in research/bi-aspectual-ontology-dual-aspect-traditions-2026-03-14.md and research/bi-aspectual-ontology-dual-aspect-traditions-2026-03-16.md covers Spinoza's dual-aspect monism, Pauli-Jung psychophysical complementarity, and the broader dual-aspect landscape. The existing Russellian monism comparison article should be enriched with these additional tradition comparisons to position the Map's bi-aspectual dualism more precisely against historical precedents.
 
 ### ✓ 2026-03-28: Integrate Born rule derivation research into born-rule-and-the-consciousness-interface.md
 - **Type**: refine-draft
