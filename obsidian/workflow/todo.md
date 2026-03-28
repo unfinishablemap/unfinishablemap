@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Integrate epistemology.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept page created 2026-03-25 has zero inbound links from any other content file. Add cross-references from related articles (epistemology-of-first-person-evidence, epistemic-advantages-of-dualism, epistemology-of-other-minds-under-dualism) and update concepts index if needed.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-28
+
+### P2: Integrate differential-predictions-consciousness-collapse.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article created 2026-03-23 on empirical predictions distinguishing consciousness-collapse from competitor interpretations. Has frontmatter refs but no body-text inbound links. Add cross-references from comparing-quantum-consciousness-mechanisms, consciousness-collapse-experimental-landscape, and penrose-gravity-induced-collapse-empirical-prospects.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-28
+
+### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article created 2026-03-15 from research on Konkoly et al. 2026 REM problem-solving evidence. Has frontmatter refs but no body-text inbound links. Add cross-references from dream-consciousness, dreams-as-consciousness-laboratory, lucid-dreaming-as-capability-evidence, and consciousness-as-amplifier.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-28
+
+### P2: Cross-review related articles considering expertise-occlusion.md
+- **Type**: cross-review
+- **Notes**: New void article on expertise occlusion created 2026-03-27. Review defended-territory, adaptive-cognitive-limits, and taxonomy-of-voids for cross-links, reinforcing arguments, or terminology consistency. Check whether the expertise void pattern appears in other void articles without acknowledgment.
+- **Source**: chain (from expertise-occlusion.md)
+- **Generated**: 2026-03-28
+
+### P2: Cross-review related articles considering amplification-mechanisms-consciousness-physics.md
+- **Type**: cross-review
+- **Notes**: New topics article on quantum-to-neural amplification mechanisms created 2026-03-27. Review consciousness-selecting-neural-patterns, downward-causation, comparing-quantum-consciousness-mechanisms, and stapp-quantum-mind for cross-links and consistency. This article addresses the amplification gap objection — ensure related articles reference it where they acknowledge this challenge.
+- **Source**: chain (from amplification-mechanisms-consciousness-physics.md)
+- **Generated**: 2026-03-28
+
+### P2: Cross-review related articles considering phenomenological-method-and-evidence-standards.md
+- **Type**: cross-review
+- **Notes**: New topics article on phenomenological methodology and evidence standards created 2026-03-27. Review contemplative-practice-as-philosophical-evidence, epistemology-of-first-person-evidence, introspection, and clinical-phenomenology-as-philosophical-evidence for cross-links. This article systematizes evidence standards that many articles invoke informally.
+- **Source**: chain (from phenomenological-method-and-evidence-standards.md)
+- **Generated**: 2026-03-28
+
 ### P3: Qualify selection trilemma and Schwartz OCD claims in attention-and-the-consciousness-interface
 - **Type**: refine-draft
 - **Status**: pending
