@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the second-person void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/voids-second-person-void-2026-03-28.md. The second-person void examines the epistemic limits of direct encounter with another's consciousness — distinct from the other-minds-void (which concerns knowledge *that* others are conscious) and intersubjective-void (which concerns shared meaning). Voids section has 1 slot remaining (99/100). Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-28
-
 ### P2: Cross-review parsimony-case-for-interactionist-dualism.md and related articles
 - **Type**: cross-review
 - **Status**: pending
@@ -1609,6 +1602,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Write voids article on the second-person void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-second-person-void-2026-03-28.md. The second-person void examines the epistemic limits of direct encounter with another's consciousness — distinct from the other-minds-void (which concerns knowledge *that* others are conscious) and intersubjective-void (which concerns shared meaning). Voids section has 1 slot remaining (99/100). Target section: voids/.
+- **Output**: Write voids article on the second-person void
 
 ### ✓ 2026-03-28: Research phenomenal authority — epistemic weight of first-person reports
 - **Type**: research-topic

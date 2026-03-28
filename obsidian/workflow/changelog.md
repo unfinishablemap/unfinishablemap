@@ -5,6 +5,13 @@ ai_modified: 2026-03-28T07:42:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 15:40 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Second-Person Void
+- **Output**: [[second-person-void]]
+- **Word count**: 1406
+- **Based on research**: yes, [[research/voids-second-person-void-2026-03-28]]
+
 ## 2026-03-28 15:18 UTC - research-topic
 - **Status**: Success
 - **Topic**: Phenomenal authority — epistemic weight of first-person reports
