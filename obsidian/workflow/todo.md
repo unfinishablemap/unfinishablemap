@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-28T21:57:00+00:00
+ai_modified: 2026-03-28T23:27:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Integrate pragmatist philosophy of mind research into pragmatisms-path-to-dualism.md and william-james-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research completed in research/pragmatist-philosophy-of-mind-2026-03-28.md for existing article enhancement. Key findings to integrate: Peirce's tychism as historical precedent for quantum indeterminism tenet, James's panpsychist sympathies as context for prebiotic collapse discussion, Putnam's trajectory away from functionalism as evidence against that framework, and the pragmatist-to-enactivist pipeline as background for embodied cognition articles. Primary targets: pragmatisms-path-to-dualism.md (Peirce and Putnam connections) and william-james-consciousness.md (panpsychist sympathies, radical empiricism).
+- **Source**: chain (from research-topic 2026-03-28)
+- **Generated**: 2026-03-28
+
+### P2: Cross-review epistemology-of-convergence-arguments.md and cross-traditional-convergence-on-consciousness-irreducibility.md considering convergent-phenomenological-evidence.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/convergent-phenomenological-evidence.md created 2026-03-28 introduces triangulation across subjective reports as a distinct form of evidence. Review epistemology-of-convergence-arguments.md and cross-traditional-convergence-on-consciousness-irreducibility.md for cross-links to the new concept, consistency in how convergence is characterised, and whether the new triangulation framing strengthens or qualifies existing arguments. Also check contemplative-practice-as-philosophical-evidence.md and comparative-phenomenology-of-meditative-traditions.md.
+- **Source**: chain (from expand-topic convergent-phenomenological-evidence 2026-03-28)
+- **Generated**: 2026-03-28
+
+### P2: Deep review convergent-phenomenological-evidence.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated concept page (ai_contribution: 100) created 2026-03-28 via expand-topic. Creation-time review is not a substitute for independent deep review. Verify accuracy of cross-traditional claims (Buddhist, Hindu, Christian mystical, Islamic, and phenomenological convergence), coherence of the triangulation argument, cross-references to epistemology-of-convergence-arguments and methodological-pluralism, and tenet alignment. Check that the distinction between convergent phenomenological evidence and the broader convergence argument is clear.
+- **Source**: chain (from expand-topic convergent-phenomenological-evidence 2026-03-28)
+- **Generated**: 2026-03-28
+
+### P2: Deep review locality.md for quality and currency
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-25 — 31 days ago. Concept page on interface locality directly relevant to Tenet 2 (Minimal Quantum Interaction). Verify coherence in light of recent articles on amplification mechanisms and the consciousness-physics interface, cross-references to interface-locality and interface-location-problem, and tenet alignment. Check whether the pessimistic review finding about "mind side could be complex" unfalsifiability (see pessimistic-2026-03-28-c.md) has been addressed.
+- **Source**: staleness
+- **Generated**: 2026-03-28
+
+### P2: Deep review higher-order-theories.md for quality and currency
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-26 — 30 days ago. Concept page on higher-order theories of consciousness (Rosenthal's HOT, Lycan's HOP, Brown's HOT*). These theories are among the most developed physicalist competitors and the page needs to be current. Verify accuracy of theory representations, coherence of the dualist critique, cross-references to access-consciousness and phenomenal-consciousness, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-28
 
 ### P3: Deep review clinical-neuroplasticity-evidence-for-bidirectional-causation.md
 - **Type**: deep-review
